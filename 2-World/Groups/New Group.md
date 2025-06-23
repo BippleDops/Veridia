@@ -195,10 +195,11 @@ The following people are members of this group.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
-FROM "2-Campaign/People"
+FROM "2-Campaign/Quests"
 WHERE contains(Connected_Groups, this.file.link)
 SORT file.name ASC
 ```
+
 
 ```base
 properties:
@@ -226,11 +227,10 @@ views:
     filters:
       and:
         - file.inFolder("2-World/People")
-        - Connected_Groups.contains(this)
+        - MyContainer.contains(this.file.path)
     order:
       - file.name
       - MyContainer
-      - Connected_Groups
       - MyCategory
       - char_status
       - char_race
@@ -253,6 +253,7 @@ views:
       note.char_age: 149
 
 ```
+
 
 # Services
 

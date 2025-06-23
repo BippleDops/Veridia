@@ -120,12 +120,72 @@ This is the places description.
 
 `BUTTON[button_person]` The following people are associated with this place.
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
-FROM "2-World/People"
-WHERE contains(char_status, "Alive")
-WHERE contains(MyContainer, this.file.link)
-SORT file.name ASC
+```base
+properties:
+  note.char_age:
+    displayName: Age Range
+  note.char_gender:
+    displayName: Gender
+  file.name:
+    displayName: Name
+  note.char_race:
+    displayName: Race
+  note.char_status:
+    displayName: Status
+views:
+  - type: table
+    name: People
+    filters:
+      and:
+        - MyContainer.contains(this)
+        - file.inFolder("2-World/People")
+        - char_status != "Deceased"
+    order:
+      - file.name
+      - char_age
+      - char_gender
+      - char_race
+      - char_status
+      - Connected_Groups
+      - Connected_Quests
+    columnSize:
+      file.name: 162
+      note.char_age: 160
+      note.char_gender: 177
+      note.char_race: 144
+      note.char_status: 138
+      note.Connected_Groups: 202
+    sort:
+      - column: file.name
+        direction: ASC
+      - column: note.char_gender
+        direction: ASC
+  - type: table
+    name: People (Deceased)
+    filters:
+      and:
+        - MyContainer.contains(this)
+        - file.inFolder("2-World/People")
+        - char_status == "Deceased"
+    order:
+      - file.name
+      - MyContainer
+      - char_age
+      - char_gender
+      - char_race
+      - char_status
+      - Connected_Groups
+      - Connected_Quests
+    columnSize:
+      file.name: 162
+      note.char_age: 160
+      note.char_gender: 177
+      note.char_race: 144
+      note.char_status: 138
+    sort:
+      - column: note.char_gender
+        direction: ASC
+
 ```
 
 # GM Notes

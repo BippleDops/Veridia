@@ -1,7 +1,8 @@
 ---
 tags:
   - Category/Group
-MyContainer: "[[2-World/Regions/Island of Skulls.md|Island of Skulls]]"
+MyContainer:
+  - "[[Jungle of Screams|Jungle of Screams]]"
 MyCategory: Knightly Order
 obsidianUIMode: preview
 leader: Bob
@@ -27,7 +28,40 @@ benefits:
     reward: What do they get at level 3?
 ---
 
+<%*
+/* 1) “NewHub” title logic */
+const hasTitle = !tp.file.title.startsWith("NewGroup");
+let title;
+if (!hasTitle) {
+  title = await tp.system.prompt("Enter Group Name");
+  await tp.file.rename(title);
+} else {
+  title = tp.file.title;
+}
 
+/* 2) Gather all region files under 2-World/Regions */
+const regionFiles = tp.app.vault.getMarkdownFiles()
+  .filter(f => f.path.startsWith("2-World/Regions/"));
+
+/* 3) Suggester for picking the container note */
+const regionChoices = regionFiles.map(f => f.basename);
+const regionValues  = regionFiles.map(f => f.path);
+const chosenPath   = await tp.system.suggester(regionChoices, regionValues, true);
+if (!chosenPath) return;  // cancelled
+
+/* 4) Build the wiki-link syntax */
+const chosenAlias = chosenPath.split("/").pop().replace(/\.md$/, "");
+const wikiLink    = `[[${chosenPath}|${chosenAlias}]]`;
+
+/* 5) Delay slightly, then write both properties into frontmatter */
+setTimeout(() => {
+  const newFile = tp.file.find_tfile(tp.file.path(true));
+  if (!newFile) return;
+  app.fileManager.processFrontMatter(newFile, fm => {
+    fm["MyContainer"] = wikiLink;
+  });
+}, 50);
+%>
 
 
 
@@ -193,13 +227,6 @@ dv.paragraph(
 
 The following people are members of this group.  
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
-FROM "2-Campaign/People"
-WHERE contains(Connected_Groups, this.file.link)
-SORT file.name ASC
-```
-
 ```base
 properties:
   property.char_age:
@@ -226,11 +253,10 @@ views:
     filters:
       and:
         - file.inFolder("2-World/People")
-        - Connected_Groups.contains(this)
+        - MyContainer.contains(this.file.path)
     order:
       - file.name
       - MyContainer
-      - Connected_Groups
       - MyCategory
       - char_status
       - char_race
@@ -253,6 +279,7 @@ views:
       note.char_age: 149
 
 ```
+
 
 # Services
 

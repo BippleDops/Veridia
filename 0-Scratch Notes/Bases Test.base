@@ -8,7 +8,7 @@ views:
     name: People View
     filters:
       and:
-        - contains(file.folder, "2-World/People")
+        - MyContainer.contains("this")
     order:
       - file.name
       - allies

@@ -2,11 +2,59 @@
 tags:
   - Category/Hub
 container: Test
-MyContainer: "[[2-World/Regions/Island of Skulls.md|Island of Skulls]]"
-MyCategory: City +1500
+MyContainer: "[[Jungle of Screams|Jungle of Screams]]"
+MyCategory: Hamlet <80
 obsidianUIMode: preview
 ---
+<%*
+/* 1) “NewHub” title logic */
+const hasTitle = !tp.file.title.startsWith("NewHub");
+let title;
+if (!hasTitle) {
+  title = await tp.system.prompt("Enter Hub Name");
+  await tp.file.rename(title);
+} else {
+  title = tp.file.title;
+}
 
+/* 2) Gather all region files under 2-World/Regions */
+const regionFiles = tp.app.vault.getMarkdownFiles()
+  .filter(f => f.path.startsWith("2-World/Regions/"));
+
+/* 3) Suggester for picking the container note */
+const regionChoices = regionFiles.map(f => f.basename);
+const regionValues  = regionFiles.map(f => f.path);
+const chosenPath   = await tp.system.suggester(regionChoices, regionValues, true);
+if (!chosenPath) return;  // cancelled
+
+/* 4) Build the wiki-link syntax */
+const chosenAlias = chosenPath.split("/").pop().replace(/\.md$/, "");
+const wikiLink    = `[[${chosenPath}|${chosenAlias}]]`;
+
+/* 5) Prompt for Hub type (MyCategory) */
+const categoryOptions = [
+  "City +1500",
+  "Town +200",
+  "Village +80",
+  "Hamlet <80",
+  "Encampment",
+  "Keep",
+  "Fortress",
+  "Stronghold"
+];
+const chosenCat = await tp.system.suggester(categoryOptions, categoryOptions, true);
+if (!chosenCat) return;  // cancelled
+
+/* 6) Delay slightly, then write both properties into frontmatter */
+setTimeout(() => {
+  const newFile = tp.file.find_tfile(tp.file.path(true));
+  if (!newFile) return;
+  app.fileManager.processFrontMatter(newFile, fm => {
+    fm["MyContainer"] = wikiLink;
+    fm["MyCategory"]  = chosenCat;
+  });
+}, 50);
+%>
 
 
 > [!NOTE|div-m] Parent Region: `INPUT[suggester(optionQuery(#Category/Region)):MyContainer]`
@@ -172,10 +220,6 @@ dv.table(
 );
 ```
 
-```base
-
-```
-
 # GM Notes
 
 Make notes of what you need to track in the town here. 
@@ -208,24 +252,25 @@ This is the content
 
 `BUTTON[button_place]` `BUTTON[button_person]` **C - Commerce** (Economics and Entertainment) - Shops, Malls, Theatres, Markets, Carnivals, Electronics
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Commerce"
-SORT file.name ASC
-```
-
 ```base
+properties:
+  file.name:
+    displayName: Place Name
 views:
   - type: table
-    name: Table
+    name: Places (Commerce)
     filters:
       and:
-        - contains(file.folder, "2-World/Places")
-        - contains(property.MyCategory, "Commerce")
+        - MyContainer.contains("this")
+        - MyCategory == "Commerce"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
     columnSize:
-      file.name: 248
+      file.name: 221
+      note.MyContainer: 283
 
 ```
 
@@ -233,73 +278,148 @@ views:
 
 `BUTTON[button_place]` `BUTTON[button_person]` **A - Agriculture** (Resource Production and Collection) - Farms, Mines, Fisheries, Lumber Yards, Oil Rigs, Power Plants
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Agriculture"
-SORT file.name ASC
+```base
+properties:
+  file.name:
+    displayName: Place Name
+views:
+  - type: table
+    name: Places (Agriculture)
+    filters:
+      and:
+        - MyContainer.contains("this")
+        - MyCategory == "Agriculture"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
+    columnSize:
+      file.name: 221
+      note.MyContainer: 283
 ```
 
 ## Military
 
 `BUTTON[button_place]` `BUTTON[button_person]` **M - Military** (Protection and Transportation) - Forts, Bases, Armories, Walls, Seaports, Airports, Spaceports
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Military"
-SORT file.name ASC
+```base
+properties:
+  file.name:
+    displayName: Place Name
+views:
+  - type: table
+    name: Places (Military)
+    filters:
+      and:
+        - MyContainer.contains("this")
+        - MyCategory == "Military"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
+    columnSize:
+      file.name: 221
+      note.MyContainer: 283
 ```
-
 
 ## Philosophy
 
 `BUTTON[button_place]` `BUTTON[button_person]` **P - Philosophy** (Religion and Education) - Houses of Worship, Schools, Universities, Laboratories, Arboretums
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Philosophy"
-SORT file.name ASC
+```base
+properties:
+  file.name:
+    displayName: Place Name
+views:
+  - type: table
+    name: Places (Philosophy)
+    filters:
+      and:
+        - MyContainer.contains("this")
+        - MyCategory == "Philosophy"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
+    columnSize:
+      file.name: 221
+      note.MyContainer: 283
 ```
 
 ## Industrial
 
 `BUTTON[button_place]` `BUTTON[button_person]` **I - Industrial** (Resource Utilization and Processing) - Factories, Metalworks, Bakeries, Artisans, Jewelers
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Industrial"
-SORT file.name ASC
+```base
+properties:
+  file.name:
+    displayName: Place Name
+views:
+  - type: table
+    name: Places (Industrial)
+    filters:
+      and:
+        - MyContainer.contains("this")
+        - MyCategory == "Industrial"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
+    columnSize:
+      file.name: 221
+      note.MyContainer: 283
 ```
 
 ## Nesting
 
 `BUTTON[button_place]` `BUTTON[button_person]` **N - Nesting** (Housing and Civil Engineering) - Residential Areas, Bridges, Parks, Inns/Hotels
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Nesting"
-SORT file.name ASC
+```base
+properties:
+  file.name:
+    displayName: Place Name
+views:
+  - type: table
+    name: Places (Nesting)
+    filters:
+      and:
+        - MyContainer.contains("this")
+        - MyCategory == "Nesting"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
+    columnSize:
+      file.name: 221
+      note.MyContainer: 283
 ```
 
 ## Government
 
 `BUTTON[button_place]` `BUTTON[button_person]` **G - Government** (Legislation and Judicial) - Town Halls, Courthouses, Tourist Stops, Monuments/Landmarks
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
-WHERE contains(MyContainer, this.file.link)
-  AND MyCategory = "Government"
-SORT file.name ASC
+```base
+properties:
+  file.name:
+    displayName: Place Name
+views:
+  - type: table
+    name: Places (Government)
+    filters:
+      and:
+        - MyContainer.contains("this")
+        - MyCategory == "Government"
+        - '!file.folder.contains("World Builder Templates")'
+    order:
+      - file.name
+      - MyContainer
+      - MyCategory
+    columnSize:
+      file.name: 221
+      note.MyContainer: 283
 ```
-
-

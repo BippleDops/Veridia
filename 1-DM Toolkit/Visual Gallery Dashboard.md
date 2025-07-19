@@ -25,6 +25,18 @@ tags:
 
 ---
 
+## 📜 Quest & Campaign Tracker
+
+> [!NOTE|clean no-t]
+> ### Active Quests
+> `EMBED[Quest Campaign Tracker.base][Active Quests]`
+
+> [!NOTE|clean no-t]
+> ### Quest Board
+> `EMBED[Quest Campaign Tracker.base][Quest Board]`
+
+---
+
 ## 🎒 Item Showcase
 
 > [!NOTE|clean no-t]
@@ -34,6 +46,12 @@ tags:
 > [!NOTE|clean no-t]
 > ### All Items
 > `EMBED[Item Showcase.base][Item Gallery]`
+
+---
+
+## 🐉 Monster Gallery
+
+`EMBED[Monster Gallery.base][Monster Gallery]`
 
 ---
 
@@ -48,12 +66,14 @@ tags:
 >> `BUTTON[addLocationImage]` Add Location Image
 >> `BUTTON[addItemImage]` Add Item Image
 >> `BUTTON[addMonsterImage]` Add Monster Art
+>> `BUTTON[addQuestImage]` Add Quest Image
 >
 >> [!WARNING|clean] Image Guidelines
 >> - **Character Portraits**: 400x600px recommended
 >> - **Location Images**: 800x600px recommended
 >> - **Item Images**: 256x256px recommended
 >> - **Monster Art**: Variable, but square preferred
+>> - **Quest Images**: 600x400px recommended
 >> 
 >> Store images in `z_Assets/` organized by type
 
@@ -67,18 +87,28 @@ const people = dv.pages('#Category/People').length;
 const places = dv.pages('#Category/Place OR #Category/Hub OR #Category/Region').length;
 const items = dv.pages('"3-Mechanics/Items"').length;
 const quests = dv.pages('#Category/Quest').length;
+const monsters = dv.pages('"3-Mechanics/CLI/bestiary"').length;
 
 // Count images
 const allPages = dv.pages();
 const withImages = allPages.where(p => p.image_path).length;
 const totalPages = allPages.length;
 
+// Quest statistics
+const activeQuests = dv.pages('#Category/Quest').where(q => q.quest_status === "Active" || q.quest_status === "In Progress").length;
+const completedQuests = dv.pages('#Category/Quest').where(q => q.quest_status === "Completed").length;
+
 dv.paragraph(`### Vault Overview
 - **Characters**: ${people} NPCs
 - **Locations**: ${places} places
 - **Items**: ${items} items
-- **Quests**: ${quests} adventures
+- **Monsters**: ${monsters} creatures
+- **Quests**: ${quests} total (${activeQuests} active, ${completedQuests} completed)
 - **Images**: ${withImages} of ${totalPages} notes have custom images (${Math.round(withImages/totalPages*100)}%)
+
+### Campaign Progress
+- **Active Quests**: ${activeQuests}
+- **Completion Rate**: ${quests > 0 ? Math.round(completedQuests/quests*100) : 0}%
 `);
 ```
 
@@ -86,22 +116,19 @@ dv.paragraph(`### Vault Overview
 
 ## 🎯 Quick Actions
 
-> [!TIP|clean] Meta Bind Button Scripts
-> Add these to your Meta Bind settings for the buttons above:
-> 
-> **addCharacterImage**:
-> ```js
-> const tp = app.plugins.plugins['templater-obsidian'].templater;
-> const file = await tp.system.prompt("Character name to add image to:");
-> if (file) {
->   const targetFile = app.vault.getAbstractFileByPath(`2-World/People/${file}.md`);
->   if (targetFile) {
->     const imagePath = await tp.system.prompt("Image path (relative to vault root):");
->     if (imagePath) {
->       await app.fileManager.processFrontMatter(targetFile, fm => {
->         fm.image_path = imagePath;
->       });
->     }
->   }
-> }
-> ``` 
+> [!column|no-i]
+>
+>> [!TIP|clean] Campaign Management
+>> - `BUTTON[createNewQuest]` Create New Quest
+>> - `BUTTON[updateQuestProgress]` Update Quest Progress
+>> - `BUTTON[completeQuest]` Mark Quest Complete
+>> - `BUTTON[generateRandomEncounter]` Random Encounter
+>
+>> [!TIP|clean] Meta Bind Configuration
+>> Add these to your Meta Bind settings for the buttons above.
+>> 
+>> See `Meta Bind Configuration Guide.md` for:
+>> - Button scripts
+>> - Input field templates
+>> - CSS snippets
+>> - Troubleshooting 

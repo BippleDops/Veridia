@@ -1,0 +1,25 @@
+{
+  "openai": {
+    "api_key": "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",
+    "model": "gpt-4",
+    "dalle_model": "dall-e-3",
+    "max_tokens": 2000,
+    "temperature": 0.7
+  },
+  "unsplash": {
+    "access_key": "zW_6Dilkj rNL2HYiCzXz1tNSgiwVzP02Gv0718G9Q-A",
+    "base_url": "https://api.unsplash.com",
+    "per_page": 10,
+    "orientation": "landscape"
+  },
+  "spotify": {
+    "client_id": "831f4fb0abb04d718f93918f31df8d7a",
+    "scopes": "user-read-playback-state user-modify-playback-state playlist-read-private playlist-modify-private",
+    "redirect_uri": "http://localhost:8080/callback"
+  },
+  "security": {
+    "created": "2025-01-25",
+    "updated": "2025-01-25",
+    "note": "Keep this file secure and do not commit to version control"
+  }
+} 

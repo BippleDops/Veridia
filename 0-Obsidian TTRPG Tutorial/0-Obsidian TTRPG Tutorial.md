@@ -17,14 +17,6 @@ www.obsidianttrpgtutorials.com is the home for all my tutorials and templates.
 
 This vault does not contain content. It does however contain instructions to obtain the content. Follow the bouncing ball and you will soon be on your way. The notes contained often contain hidden comments. If you open the note in Source mode you will find the comments between the `%%` and `%%`.
 
-## Tutorials
-www.obsidianttrpgtutorials.com is the home for all my tutorials and templates.
-
-## Patreon Vault
-This vault is designed as a foundation for people wanting some help on their Obsidian journey.
-Download the vault from [HERE](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGVault/archive/refs/heads/main.zip). 
-Extract it onto your PC and within Obsidian.md; create a new Vault from an existing folder and select the folder you downloaded. 
-You will need to enable plugins. 
 
 ## Update the Vault
 The Vault is basically time-stamped from the last time it was updated. It is good practice to update your Vault regularly. I generally do this every time I launch Obsidian. 

@@ -11,14 +11,13 @@
             "id": "50c93b9653dc2fd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2-World/Hubs/City of Screams.md",
-                "mode": "preview",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "City of Screams"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -145,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-World/Hubs/City of Screams.md",
+                "file": "Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from City of Screams"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -189,8 +188,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -199,8 +198,8 @@
             "state": {
               "type": "MAIN_VIEW",
               "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
+              "icon": "lucide-ghost",
+              "title": "MAIN_VIEW"
             }
           },
           {
@@ -209,8 +208,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -219,8 +218,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -236,6 +235,58 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "d20c07dc4a561dd1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "33e43c5d7da41f41",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "2028fd2f7979a7e3",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "f7f37bd6d5e169da",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "cdc9155f3adc05c0",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Untitled.base"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ],
         "currentTab": 1
@@ -246,14 +297,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "obsidian-custom-frames:Open Obsidian Forum": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
@@ -264,58 +313,60 @@
       "obsidian-kanban:Create new board": false,
       "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "50c93b9653dc2fd0",
   "lastOpenFiles": [
-    "2-World/People/Flip the Famous.md",
-    "2-World/Places/Shop of Stuff.md",
-    "1-DM Toolkit/Home - DV.md",
-    "z_Templates/World Builder Templates/Template-PointofInterest-BASES.md",
-    "z_Templates/World Builder Templates/Template-PointofInterest.md",
-    "z_Templates/World Builder Templates/Template-Player.md",
-    "z_Templates/World Builder Templates/Template-Place-BASES.md",
-    "1-DM Toolkit/Home.md",
-    "0-Scratch Notes/Bases Test.base",
-    "2-World/Groups/New Group.md",
-    "1-Party/Example Party 1/Bob.md",
-    "z_Templates/World Builder Templates/Template-Region.md",
-    "3-Mechanics/CLI/allosaurus.md",
+    "README.md",
+    "Untitled.base",
+    "3-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md",
+    "3-Mechanics/CLI/bestiary/beast/img/Untitled.base",
+    "3-Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp",
+    "3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md",
     "3-Mechanics/CLI/CLI.md",
-    "z_Templates/World Builder Templates/Template-Quest.md",
-    "z_Templates/World Builder Templates/Template-Place.md",
-    "2-World/Quests/The Giants Skull.md",
-    "2-World/People/Frank the Tank.md",
-    "2-World/Points of Interest/Skull Cave.md",
-    "z_Templates/World Builder Templates/Template-Player-Demiplane.md",
-    "1-DM Toolkit/Home Embeds.md",
-    "z_Templates/World Builder Templates/Template-Hub-BASES.md",
-    "2-World/People/Fred the Slow.md",
-    "z_Templates/World Builder Templates/Template-Person.md",
-    "z_Templates/World Builder Templates/Template-Group-BASES.md",
-    "z_Templates/World Builder Templates/Template-Journal.md",
-    "z_Assets/Pasted image 20250529234903.png",
-    "z_Assets/Fighter Gemmy.png",
+    "3-Mechanics/CLI/vehicles/token/astral-skiff-mtf.webp",
+    "3-Mechanics/CLI/vehicles/token/apparatus-of-kwalish-xdmg.webp",
+    "3-Mechanics/CLI/vehicles/token/astral-brig-mtf.webp",
+    "3-Mechanics/CLI/vehicles/token/planar-raider-mtf.webp",
+    "3-Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp",
+    "3-Mechanics/CLI/vehicles/astral-skiff-mtf.md",
+    "3-Mechanics/CLI/vehicles/astral-brig-mtf.md",
+    "3-Mechanics/CLI/vehicles/planar-raider-mtf.md",
+    "3-Mechanics/CLI/vehicles/vehicles.md",
+    "3-Mechanics/CLI/vehicles/token",
+    "3-Mechanics/CLI/vehicles/img",
+    "3-Mechanics/CLI/vehicles/apparatus-of-kwalish-xdmg.md",
+    "3-Mechanics/CLI/vehicles",
+    "3-Mechanics/CLI/variant-rules/img/xge-001.webp",
+    "3-Mechanics/CLI/variant-rules/img/xge-003.webp",
+    "3-Mechanics/CLI/variant-rules/img/xge-002.webp",
+    "3-Mechanics/CLI/variant-rules/weapon-xphb.md",
+    "3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md",
+    "3-Mechanics/CLI/variant-rules/wands-that-dont-recharge.md",
+    "3-Mechanics/CLI/variant-rules/weapon-attack-xphb.md",
+    "3-Mechanics/CLI/variant-rules/vulnerability-xphb.md",
+    "3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md",
+    "3-Mechanics/CLI/variant-rules/img",
+    "3-Mechanics/CLI/variant-rules",
+    "3-Mechanics/CLI/traps-hazards/img/webs.webp",
+    "3-Mechanics/CLI/traps-hazards/img",
+    "3-Mechanics/CLI/traps-hazards",
+    "3-Mechanics/CLI/tables",
     "0-Scratch Notes/Untitled.canvas",
-    "z_Assets/Pasted image 20250427093259.png",
-    "z_Assets/Pasted image 20250425220102.png",
-    "z_Assets/Pasted image 20250427102611.png",
-    "z_Assets/Pasted image 20250514201228.png",
-    "z_Assets/Pasted image 20250514200940.png",
-    "z_Assets/Pasted image 20240630203442.png",
-    "z_Assets/Pasted Image 20240630114135_050.png",
-    "z_Assets/Pasted image 20240627201658.png",
-    "2-World/Quests",
     "0-Scratch Notes/MoC - Canvas Home Page.canvas",
-    "3-Mechanics/races",
-    "pixel-banner-images",
-    "z_Assets/banners",
-    "z_Assets/New folder",
-    "2-World/Places",
-    "z_Templates/World Builder Templates",
-    "2-World/Regions",
-    "2-World/Points of Interest",
     "Untitled.canvas"
   ]
 }

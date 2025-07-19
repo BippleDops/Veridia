@@ -17,25 +17,7 @@ This vault is designed as a foundation for people wanting some help on their Obs
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="[Maintenance]">
 </div>
 
-# Content
 
-This vault does not contain content. It does however contain instructions to obtain the content. Follow the bouncing ball and you will soon be on your way. 
-The notes contained often contain hidden comments. If you open the note in Source mode you will find the comments between the `%\%` and `%%`.
-
-## Tutorials
-www.obsidianttrpgtutorials.com is the home for all my tutorials and templates.
-
-## Patreon Vault
-This vault is designed as a foundation for people wanting some help on their Obsidian journey.
-Download the vault from [HERE](https://github.com/ObsidianTTRPGProject/ObsidianTTRPGVault/archive/refs/heads/main.zip). 
-Extract it onto your PC and within Obsidian.md; create a new Vault from an existing folder and select the folder you downloaded. 
-You will need to enable plugins. 
-
-## Update the Vault
-The Vault is basically time-stamped from the last time it was updated. It is good practice to update your Vault regularly. I generally do this every time I launch Obsidian. 
-- Settings > General > Check for Updates
-- Settings > Appearance > Check for Updates
-- Settings > Community Plugins > Check for Updates
 
 ## Change the Theme
 The vault comes with the ITS Theme because it's amazing and designed for TTRPGer's. A number of notes use functionality provided by this theme. You can change the theme if you like but you should install the [Callout Adjustments Snippet](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments)

@@ -1,0 +1,80 @@
+formulas:
+  # Monster/NPC image with fallback
+  CombatantImage: |
+    js:
+    if (target.image_path) {
+      return `![[${target.image_path}|80]]`;
+    } else if (target.monster_type) {
+      return `![[z_Assets/Placeholder Images/${target.monster_type}.png|80]]`;
+    } else if (target.char_race) {
+      return `![[z_Assets/Placeholder Images/${target.char_race}_Combat.png|80]]`;
+    } else {
+      return `![[z_Assets/Placeholder Images/CombatDefault.png|80]]`;
+    }
+  
+  # Health bar visualization
+  HealthBar: |
+    js:
+    if (target.current_hp && target.max_hp) {
+      const percentage = (target.current_hp / target.max_hp) * 100;
+      const barColor = percentage > 50 ? 'green' : percentage > 25 ? 'yellow' : 'red';
+      return `<progress value="${target.current_hp}" max="${target.max_hp}" style="width: 100px; accent-color: ${barColor};">${percentage.toFixed(0)}%</progress>`;
+    }
+    return "No HP data";
+  
+  # Initiative display
+  InitiativeDisplay: |
+    js:
+    if (target.initiative) {
+      return `🎲 ${target.initiative}`;
+    }
+    return "🎲 --";
+  
+  # Combat status
+  CombatStatus: |
+    js:
+    const conditions = [];
+    if (target.is_stunned) conditions.push("Stunned");
+    if (target.is_prone) conditions.push("Prone");
+    if (target.is_grappled) conditions.push("Grappled");
+    if (target.is_invisible) conditions.push("Invisible");
+    if (target.is_concentrating) conditions.push("Concentrating");
+    return conditions.length > 0 ? conditions.join(", ") : "Normal";
+
+views:
+  - type: table
+    name: Initiative Tracker
+    filters:
+      and:
+        - in_combat
+    order:
+      - formula.InitiativeDisplay
+      - formula.CombatantImage
+      - file.name
+      - formula.HealthBar
+      - ac
+      - formula.CombatStatus
+      - notes
+    sort:
+      - column: initiative
+        direction: DESC
+    columnSize:
+      formula.InitiativeDisplay: 80
+      formula.CombatantImage: 100
+      file.name: 150
+      formula.HealthBar: 120
+      ac: 50
+      formula.CombatStatus: 150
+      notes: 200
+    
+  - type: gallery
+    name: Combat Gallery
+    filters:
+      and:
+        - in_combat
+    columns: 6
+    properties:
+      - formula.CombatantImage
+      - file.name
+      - formula.InitiativeDisplay
+      - formula.HealthBar 

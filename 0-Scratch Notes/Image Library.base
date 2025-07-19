@@ -1,0 +1,91 @@
+formulas:
+  # Image path formulas
+  ImagePath: |
+    js:
+    if (target.image_path) {
+      return target.image_path;
+    } else if (target.char_race && target.char_gender) {
+      return `z_Assets/Placeholder Images/${target.char_race}_${target.char_gender}.png`;
+    } else if (target.MyCategory === "Commerce") {
+      return "z_Assets/Placeholder Images/Shop.png";
+    } else if (target.MyCategory === "Military") {
+      return "z_Assets/Placeholder Images/Castle.png";
+    } else if (target.tags && target.tags.includes("Category/Quest")) {
+      return "z_Assets/Placeholder Images/Quest.png";
+    } else {
+      return "z_Assets/Placeholder Images/DefaultImage.png";
+    }
+  
+  # Display image with link
+  ImageDisplay: |
+    js:
+    const imagePath = target.formulas.ImagePath;
+    const fileName = target.file.name;
+    const filePath = target.file.path;
+    return `[![[${imagePath}|150]]](${filePath})`;
+  
+  # Character details
+  CharacterInfo: |
+    js:
+    if (target.char_race && target.char_status) {
+      return `${target.char_race} - ${target.char_gender || 'Unknown'} - ${target.char_age || 'Unknown'} - ${target.char_status}`;
+    }
+    return "No character info";
+  
+  # Location type
+  LocationType: |
+    js:
+    if (target.MyCategory) {
+      return `${target.MyCategory} Location`;
+    }
+    return "Unknown Location";
+
+views:
+  - type: gallery
+    name: Character Gallery
+    filters:
+      and:
+        - tags.contains("Category/People")
+    columns: 4
+    properties:
+      - formula.ImageDisplay
+      - file.name
+      - formula.CharacterInfo
+      - char_status
+    
+  - type: gallery
+    name: Location Gallery
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("Category/Place")
+            - tags.contains("Category/Hub")
+            - tags.contains("Category/Region")
+            - tags.contains("Category/PointofInterest")
+    columns: 3
+    properties:
+      - formula.ImageDisplay
+      - file.name
+      - formula.LocationType
+      - MyContainer
+    
+  - type: table
+    name: All Images
+    filters:
+      and:
+        - image_path
+    order:
+      - file.name
+      - image_path
+      - image_category
+      - image_tags
+    sort:
+      - column: image_category
+        direction: ASC
+      - column: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      image_path: 300
+      image_category: 150
+      image_tags: 200 

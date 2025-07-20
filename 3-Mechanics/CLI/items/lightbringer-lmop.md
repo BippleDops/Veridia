@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/lmop
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Lightbringer"
+  - ttrpg-cli/compendium/src/5e/lmop
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Lightbringer
 ---
 # Lightbringer
 *Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md)), uncommon*  

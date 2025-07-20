@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Glamoured Studded Leather"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Glamoured Studded Leather
 ---
 # Glamoured Studded Leather
 *Light armor ([studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)), rare*  

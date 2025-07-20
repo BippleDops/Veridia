@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/warlock
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration/warlock
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Neogi Master
+  - Neogi Master
 ---
 # [Neogi Master](3-Mechanics\CLI\bestiary\aberration/neogi-master-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  

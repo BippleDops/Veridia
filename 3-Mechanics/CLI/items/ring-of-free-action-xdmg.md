@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Free Action"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/ring
+aliases:
+  - Ring of Free Action
 ---
 # Ring of Free Action
 *Ring, rare (requires attunement)*  

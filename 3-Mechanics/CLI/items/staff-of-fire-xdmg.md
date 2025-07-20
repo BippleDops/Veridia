@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Staff of Fire"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Staff of Fire
 ---
 # Staff of Fire
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

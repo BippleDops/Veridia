@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Giant Insect (Spider)
+  - Giant Insect (Spider)
 ---
 # [Giant Insect (Spider)](3-Mechanics\CLI\bestiary\beast/giant-insect-spider-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

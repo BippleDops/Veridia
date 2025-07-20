@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/ooze
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/ooze
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Slithering Tracker
+  - Slithering Tracker
 ---
 # [Slithering Tracker](3-Mechanics\CLI\bestiary\ooze/slithering-tracker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  

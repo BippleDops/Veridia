@@ -1,22 +1,24 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sylvan Talon"
-- "Sylvan Talon Dagger"
-- "Sylvan Talon Rapier"
-- "Sylvan Talon Scimitar"
-- "Sylvan Talon Shortsword"
-- "Sylvan Talon Sickle"
-- "Sylvan Talon Spear"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Sylvan Talon
+  - Sylvan Talon Dagger
+  - Sylvan Talon Rapier
+  - Sylvan Talon Scimitar
+  - Sylvan Talon Shortsword
+  - Sylvan Talon Sickle
+  - Sylvan Talon Spear
 ---
 # Sylvan Talon
 *Common (requires attunement)*  

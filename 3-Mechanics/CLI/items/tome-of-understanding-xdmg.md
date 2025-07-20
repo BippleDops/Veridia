@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Tome of Understanding"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - Tome of Understanding
 ---
 # Tome of Understanding
 *Wondrous item, very rare*  

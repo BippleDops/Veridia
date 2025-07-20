@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/food-and-drink
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Ale (gallon)"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/food-and-drink
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Ale (gallon)
 ---
 # Ale (gallon)
 *Food and drink*  

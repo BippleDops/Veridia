@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Evasion"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/ring
+aliases:
+  - Ring of Evasion
 ---
 # Ring of Evasion
 *Ring, rare (requires attunement)*  

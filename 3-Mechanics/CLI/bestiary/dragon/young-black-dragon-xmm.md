@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon/chromatic
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Young Black Dragon
+  - Young Black Dragon
 ---
 # [Young Black Dragon](3-Mechanics\CLI\bestiary\dragon/young-black-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

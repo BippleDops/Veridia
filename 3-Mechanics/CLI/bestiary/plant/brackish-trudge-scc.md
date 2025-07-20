@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/plant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Brackish Trudge
+  - Brackish Trudge
 ---
 # [Brackish Trudge](3-Mechanics\CLI\bestiary\plant/brackish-trudge-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 187*  

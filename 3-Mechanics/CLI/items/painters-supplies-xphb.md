@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/artisans-tools
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Painter's Supplies"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/artisans-tools
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Painter's Supplies
 ---
 # Painter's Supplies
 *Artisan's tools*  

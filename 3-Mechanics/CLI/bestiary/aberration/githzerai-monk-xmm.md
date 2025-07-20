@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/limbo
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/gith
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/limbo
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration/gith
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Githzerai Monk
+  - Githzerai Monk
 ---
 # [Githzerai Monk](3-Mechanics\CLI\bestiary\aberration/githzerai-monk-xmm.md)
 *Source: Monster Manual (2024) p. 136*  

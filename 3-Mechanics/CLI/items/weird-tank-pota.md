@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Weird Tank"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Weird Tank
 ---
 # Weird Tank
 *Wondrous item, rare (requires attunement)*  

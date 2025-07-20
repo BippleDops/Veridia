@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
-aliases: 
-- "Unbreakable Arrow"
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+aliases:
+  - Unbreakable Arrow
 ---
 # Unbreakable Arrow
 *Ammunition, minor, common*  

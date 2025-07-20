@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Bheur Hag
+  - Bheur Hag
 ---
 # [Bheur Hag](3-Mechanics\CLI\bestiary\fey/bheur-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  

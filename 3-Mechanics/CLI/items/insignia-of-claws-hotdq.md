@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/hotdq
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Insignia of Claws"
+  - ttrpg-cli/compendium/src/5e/hotdq
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Insignia of Claws
 ---
 # Insignia of Claws
 *Wondrous item, uncommon*  

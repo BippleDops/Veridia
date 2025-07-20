@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+  - ttrpg-cli/compendium/src/5e/mtf
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Abyssal Wretch
+  - Abyssal Wretch
 ---
 # [Abyssal Wretch](3-Mechanics\CLI\bestiary\fiend/abyssal-wretch-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 136*  

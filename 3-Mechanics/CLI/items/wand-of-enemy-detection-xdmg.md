@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Enemy Detection"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/wand
+aliases:
+  - Wand of Enemy Detection
 ---
 # Wand of Enemy Detection
 *Wand, rare (requires attunement)*  

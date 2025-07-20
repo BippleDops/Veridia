@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration/beholder
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/aberration/beholder
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Gazer
+  - Gazer
 ---
 # [Gazer](3-Mechanics\CLI\bestiary\aberration/gazer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126*  

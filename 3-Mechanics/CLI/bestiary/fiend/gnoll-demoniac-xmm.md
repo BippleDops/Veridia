@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Gnoll Demoniac
+  - Gnoll Demoniac
 ---
 # [Gnoll Demoniac](3-Mechanics\CLI\bestiary\fiend/gnoll-demoniac-xmm.md)
 *Source: Monster Manual (2024) p. 141*  

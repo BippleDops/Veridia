@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Helmed Horror
+  - Helmed Horror
 ---
 # [Helmed Horror](3-Mechanics\CLI\bestiary\construct/helmed-horror-xmm.md)
 *Source: Monster Manual (2024) p. 166*  

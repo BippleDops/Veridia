@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/elemental
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/elemental
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Frost Salamander
+  - Frost Salamander
 ---
 # [Frost Salamander](3-Mechanics\CLI\bestiary\elemental/frost-salamander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*  

@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Totem"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Totem
 ---
 # Totem
 *Spellcasting focus*  

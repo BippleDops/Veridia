@@ -1,28 +1,30 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Force Resistance"
-- "Breastplate of Force Resistance"
-- "Chain Mail of Force Resistance"
-- "Chain Shirt of Force Resistance"
-- "Half Plate Armor of Force Resistance"
-- "Hide Armor of Force Resistance"
-- "Leather Armor of Force Resistance"
-- "Padded Armor of Force Resistance"
-- "Plate Armor of Force Resistance"
-- "Ring Mail of Force Resistance"
-- "Scale Mail of Force Resistance"
-- "Splint Armor of Force Resistance"
-- "Studded Leather Armor of Force Resistance"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Armor of Force Resistance
+  - Breastplate of Force Resistance
+  - Chain Mail of Force Resistance
+  - Chain Shirt of Force Resistance
+  - Half Plate Armor of Force Resistance
+  - Hide Armor of Force Resistance
+  - Leather Armor of Force Resistance
+  - Padded Armor of Force Resistance
+  - Plate Armor of Force Resistance
+  - Ring Mail of Force Resistance
+  - Scale Mail of Force Resistance
+  - Splint Armor of Force Resistance
+  - Studded Leather Armor of Force Resistance
 ---
 # Armor of Force Resistance
 *Rare (requires attunement)*  

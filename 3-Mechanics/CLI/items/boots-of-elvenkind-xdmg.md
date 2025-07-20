@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Boots of Elvenkind"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Boots of Elvenkind
 ---
 # Boots of Elvenkind
 *Wondrous item, uncommon*  

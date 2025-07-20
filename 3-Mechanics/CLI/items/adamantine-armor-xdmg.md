@@ -1,22 +1,24 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Adamantine Armor"
-- "Adamantine Breastplate"
-- "Adamantine Chain Mail"
-- "Adamantine Chain Shirt"
-- "Adamantine Half Plate Armor"
-- "Adamantine Plate Armor"
-- "Adamantine Ring Mail"
-- "Adamantine Scale Mail"
-- "Adamantine Splint Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Adamantine Armor
+  - Adamantine Breastplate
+  - Adamantine Chain Mail
+  - Adamantine Chain Shirt
+  - Adamantine Half Plate Armor
+  - Adamantine Plate Armor
+  - Adamantine Ring Mail
+  - Adamantine Scale Mail
+  - Adamantine Splint Armor
 ---
 # Adamantine Armor
 *Uncommon*  

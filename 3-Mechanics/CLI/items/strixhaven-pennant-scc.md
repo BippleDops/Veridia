@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Strixhaven Pennant"
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/item/rarity/common
+aliases:
+  - Strixhaven Pennant
 ---
 # Strixhaven Pennant
 *Wondrous item, common*  

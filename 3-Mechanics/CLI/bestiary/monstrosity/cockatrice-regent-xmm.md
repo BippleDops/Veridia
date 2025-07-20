@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Cockatrice Regent
+  - Cockatrice Regent
 ---
 # [Cockatrice Regent](3-Mechanics\CLI\bestiary\monstrosity/cockatrice-regent-xmm.md)
 *Source: Monster Manual (2024) p. 75*  

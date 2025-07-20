@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Elixir of Health"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/potion
+aliases:
+  - Elixir of Health
 ---
 # Elixir of Health
 *Potion, rare*  

@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Wooden Staff"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/none
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Wooden Staff
 ---
 # Wooden Staff
 *Weapon, spellcasting focus*  

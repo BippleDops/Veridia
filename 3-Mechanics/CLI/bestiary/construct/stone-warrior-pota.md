@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Stone Warrior
+  - Stone Warrior
 ---
 # [Stone Warrior](3-Mechanics\CLI\bestiary\construct/stone-warrior-pota.md)
 *Source: Princes of the Apocalypse p. 97*  

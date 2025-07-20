@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Embroidered silk and velvet mantle set with numerous moonstones"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/gear/treasure-art-object
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Embroidered silk and velvet mantle set with numerous moonstones
 ---
 # Embroidered silk and velvet mantle set with numerous moonstones
 *Treasure (art object)*  

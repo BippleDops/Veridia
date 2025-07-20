@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Sea Hag
+  - Sea Hag
 ---
 # [Sea Hag](3-Mechanics\CLI\bestiary\fey/sea-hag-xmm.md)
 *Source: Monster Manual (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

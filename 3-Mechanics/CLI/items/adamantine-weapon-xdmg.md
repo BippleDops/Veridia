@@ -1,52 +1,54 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Adamantine Weapon"
-- "Adamantine Arrow"
-- "Adamantine Battleaxe"
-- "Adamantine Bolt"
-- "Adamantine Club"
-- "Adamantine Dagger"
-- "Adamantine Energy Cell"
-- "Adamantine Firearm Bullet"
-- "Adamantine Flail"
-- "Adamantine Glaive"
-- "Adamantine Greataxe"
-- "Adamantine Greatclub"
-- "Adamantine Greatsword"
-- "Adamantine Halberd"
-- "Adamantine Handaxe"
-- "Adamantine Javelin"
-- "Adamantine Lance"
-- "Adamantine Light Hammer"
-- "Adamantine Longsword"
-- "Adamantine Mace"
-- "Adamantine Maul"
-- "Adamantine Morningstar"
-- "Adamantine Needle"
-- "Adamantine Pike"
-- "Adamantine Quarterstaff"
-- "Adamantine Rapier"
-- "Adamantine Scimitar"
-- "Adamantine Shortsword"
-- "Adamantine Sickle"
-- "Adamantine Sling Bullet"
-- "Adamantine Spear"
-- "Adamantine Trident"
-- "Adamantine War Pick"
-- "Adamantine Warhammer"
-- "Adamantine Whip"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/gear/ammunition-firearm
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Adamantine Weapon
+  - Adamantine Arrow
+  - Adamantine Battleaxe
+  - Adamantine Bolt
+  - Adamantine Club
+  - Adamantine Dagger
+  - Adamantine Energy Cell
+  - Adamantine Firearm Bullet
+  - Adamantine Flail
+  - Adamantine Glaive
+  - Adamantine Greataxe
+  - Adamantine Greatclub
+  - Adamantine Greatsword
+  - Adamantine Halberd
+  - Adamantine Handaxe
+  - Adamantine Javelin
+  - Adamantine Lance
+  - Adamantine Light Hammer
+  - Adamantine Longsword
+  - Adamantine Mace
+  - Adamantine Maul
+  - Adamantine Morningstar
+  - Adamantine Needle
+  - Adamantine Pike
+  - Adamantine Quarterstaff
+  - Adamantine Rapier
+  - Adamantine Scimitar
+  - Adamantine Shortsword
+  - Adamantine Sickle
+  - Adamantine Sling Bullet
+  - Adamantine Spear
+  - Adamantine Trident
+  - Adamantine War Pick
+  - Adamantine Warhammer
+  - Adamantine Whip
 ---
 # Adamantine Weapon
 *Uncommon*  

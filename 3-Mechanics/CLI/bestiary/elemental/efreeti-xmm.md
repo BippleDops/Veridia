@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/fire
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental/genie
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/fire
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/elemental/genie
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Efreeti
+  - Efreeti
 ---
 # [Efreeti](3-Mechanics\CLI\bestiary\elemental/efreeti-xmm.md)
 *Source: Monster Manual (2024) p. 109. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

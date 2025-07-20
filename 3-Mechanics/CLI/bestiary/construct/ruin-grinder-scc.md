@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Ruin Grinder
+  - Ruin Grinder
 ---
 # [Ruin Grinder](3-Mechanics\CLI\bestiary\construct/ruin-grinder-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 211*  

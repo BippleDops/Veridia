@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Balloon Pack"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Balloon Pack
 ---
 # Balloon Pack
 *Wondrous item, uncommon*  

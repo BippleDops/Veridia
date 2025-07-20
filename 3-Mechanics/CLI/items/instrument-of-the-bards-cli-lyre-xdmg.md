@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Instrument of the Bards, Cli Lyre"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Instrument of the Bards, Cli Lyre
 ---
 # Instrument of the Bards, Cli Lyre
 *Wondrous item, rare (requires attunement by a bard)*  

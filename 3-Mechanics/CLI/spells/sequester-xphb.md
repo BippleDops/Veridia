@@ -1,17 +1,20 @@
 ---
-obsidianUIMode: preview
+type: quest
+status: active
+priority: medium
+obsidian-u-i-mode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/transmutation
 classes:
-- Bard
-- Wizard
+  - Bard
+  - Wizard
 aliases:
-- Sequester
+  - Sequester
 ---
 # Sequester
 *7th-level, Transmutation*  

@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/ring
-aliases: 
-- "Ring of Elemental Command (Earth)"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/wondrous/ring
+aliases:
+  - Ring of Elemental Command (Earth)
 ---
 # Ring of Elemental Command (Earth)
 *Ring, legendary (requires attunement)*  

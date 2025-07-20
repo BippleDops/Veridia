@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Jakarion's Staff of Frost"
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Jakarion's Staff of Frost
 ---
 # Jakarion's Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  

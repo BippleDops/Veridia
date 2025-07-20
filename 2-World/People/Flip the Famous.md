@@ -1,19 +1,21 @@
 ---
-MyContainer:
-  - "[[2-World/Regions/Island of Skulls.md|Island of Skulls]]"
-  - "[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]"
-  - "[[z_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]"
-MyCategory:
+type: npc
+status: alive
+my-container:
+  - '[[2-World/Regions/Island of Skulls.md|Island of Skulls]]'
+  - '[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]'
+my-category: null
 tags:
   - Category/People
-obsidianUIMode: preview
+obsidian-u-i-mode: preview
 aliases:
   - characters other name
-NoteStatus: ❓
+note-status: ❓
 char_status: Alive
 char_race: Human
 char_gender: Male
-char_items:
+char_items: null
 char_age: Adult
 parents:
   - Josh
@@ -31,11 +33,11 @@ siblings:
   - Flip
 partner:
   - Jane
-Connected_Quests:
-  - "[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"
-Connected_Groups:
-  - "[[z_Templates/World Builder Templates/Template-Group.md|Template-Group]]"
-  - "[[2-World/Groups/Cult of Screams.md|Cult of Screams]]"
+connected_-quests:
+  - '[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
+connected_-groups:
+  - '[[z_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
+  - '[[2-World/Groups/Cult of Screams.md|Cult of Screams]]'
 ---
 
 

@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/scroll
-aliases: 
-- "Spell Scroll (Level 4)"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/scroll
+aliases:
+  - Spell Scroll (Level 4)
 ---
 # Spell Scroll (Level 4)
 *Scroll, rare*  

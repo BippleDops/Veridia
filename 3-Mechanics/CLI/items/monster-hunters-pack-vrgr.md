@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/vrgr
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Monster Hunter's Pack"
+  - ttrpg-cli/compendium/src/5e/vrgr
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Monster Hunter's Pack
 ---
 # Monster Hunter's Pack
 *Adventuring gear*  

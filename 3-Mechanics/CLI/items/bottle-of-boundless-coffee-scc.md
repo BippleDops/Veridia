@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Bottle of Boundless Coffee"
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/item/rarity/common
+aliases:
+  - Bottle of Boundless Coffee
 ---
 # Bottle of Boundless Coffee
 *Wondrous item, common*  

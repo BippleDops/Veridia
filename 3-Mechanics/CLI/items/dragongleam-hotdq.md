@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/hotdq
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Dragongleam"
+  - ttrpg-cli/compendium/src/5e/hotdq
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Dragongleam
 ---
 # Dragongleam
 *Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md))*  

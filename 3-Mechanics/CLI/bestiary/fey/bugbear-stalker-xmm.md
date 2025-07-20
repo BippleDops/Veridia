@@ -1,20 +1,21 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/goblinoid
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/feywild
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Bugbear Stalker
+  - Bugbear Stalker
 ---
 # [Bugbear Stalker](3-Mechanics\CLI\bestiary\fey/bugbear-stalker-xmm.md)
 *Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

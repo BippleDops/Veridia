@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/treasure-coinage
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Electrum (ep)"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/treasure-coinage
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Electrum (ep)
 ---
 # Electrum (ep)
 *Treasure (coinage)*  

@@ -1,14 +1,16 @@
 ---
-MyContainer:
-  - "[[2-World/Places/Shop of Stuff.md|Shop of Stuff]]"
-  - "[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]"
-MyCategory:
+type: npc
+status: alive
+my-container:
+  - '[[2-World/Places/Shop of Stuff.md|Shop of Stuff]]'
+  - '[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
+my-category: null
 tags:
   - Category/People
-obsidianUIMode: preview
+obsidian-u-i-mode: preview
 aliases:
   - characters other name
-NoteStatus: ❓
+note-status: ❓
 char_status: Deceased
 char_race: Human
 char_gender: Female
@@ -30,9 +32,9 @@ siblings:
   - Flip
 partner:
   - Jane
-Connected_Quests:
-  - "[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"
-Connected_Groups: "[[z_Templates/World Builder Templates/Template-Group.md|Template-Group]]"
+connected_-quests:
+  - '[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
+connected_-groups: '[[z_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
 ---
 
 

@@ -1,15 +1,17 @@
 ---
-MyContainer: []
-MyCategory: 
+type: item
+attunement: false
+my-container: []
+my-category: null
 tags:
   - Category/Item
-obsidianUIMode: preview
+obsidian-u-i-mode: preview
 aliases:
   - ItemOtherName
-Connected_Quests:
-  - "[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"
-Connected_Groups:
-  - "[[z_Templates/World Builder Templates/Template-Group.md|Template-Group]]"
+connected_-quests:
+  - '[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
+connected_-groups:
+  - '[[z_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
 ---
 
 <%_*

@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/unknown
-aliases: 
-- "Survival Mantle"
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/unknown
+aliases:
+  - Survival Mantle
 ---
 # Survival Mantle
 *Medium armor*  

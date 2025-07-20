@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Walloping Ammunition"
-- "Walloping Arrow"
-- "Walloping Bolt"
-- "Walloping Energy Cell"
-- "Walloping Firearm Bullet"
-- "Walloping Needle"
-- "Walloping Sling Bullet"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/gear/ammunition-firearm
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Walloping Ammunition
+  - Walloping Arrow
+  - Walloping Bolt
+  - Walloping Energy Cell
+  - Walloping Firearm Bullet
+  - Walloping Needle
+  - Walloping Sling Bullet
 ---
 # Walloping Ammunition
 *Ammunition, common*  

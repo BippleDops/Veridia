@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Storm Giant Strength"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/wondrous/potion
+aliases:
+  - Potion of Storm Giant Strength
 ---
 # Potion of Storm Giant Strength
 *Potion, legendary*  

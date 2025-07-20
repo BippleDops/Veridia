@@ -1,27 +1,29 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "+3 Armor"
-- "+3 Breastplate"
-- "+3 Chain Mail"
-- "+3 Chain Shirt"
-- "+3 Half Plate Armor"
-- "+3 Hide Armor"
-- "+3 Leather Armor"
-- "+3 Padded Armor"
-- "+3 Plate Armor"
-- "+3 Ring Mail"
-- "+3 Scale Mail"
-- "+3 Splint Armor"
-- "+3 Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - +3 Armor
+  - +3 Breastplate
+  - +3 Chain Mail
+  - +3 Chain Shirt
+  - +3 Half Plate Armor
+  - +3 Hide Armor
+  - +3 Leather Armor
+  - +3 Padded Armor
+  - +3 Plate Armor
+  - +3 Ring Mail
+  - +3 Scale Mail
+  - +3 Splint Armor
+  - +3 Studded Leather Armor
 ---
 # +3 Armor
 *Legendary*  

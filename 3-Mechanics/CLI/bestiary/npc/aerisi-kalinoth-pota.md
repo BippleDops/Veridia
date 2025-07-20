@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
+type: npc
+status: alive
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/elf
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Aerisi Kalinoth
+  - Aerisi Kalinoth
 ---
 # [Aerisi Kalinoth](3-Mechanics\CLI\bestiary\npc/aerisi-kalinoth-pota.md)
 *Source: Princes of the Apocalypse p. 192*  

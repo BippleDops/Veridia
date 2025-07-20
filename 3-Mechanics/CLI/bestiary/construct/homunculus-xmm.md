@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Homunculus
+  - Homunculus
 ---
 # [Homunculus](3-Mechanics\CLI\bestiary\construct/homunculus-xmm.md)
 *Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

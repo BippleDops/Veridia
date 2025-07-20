@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/shield/
-aliases: 
-- "Shield of Far Sight"
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/shield/
+aliases:
+  - Shield of Far Sight
 ---
 # Shield of Far Sight
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare*  

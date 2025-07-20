@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- compendium/src/5e/ccodex
-- monster/cr/9
-- monster/environment/any
-- monster/size/medium
-- monster/type/fiend/demon
+  - compendium/src/5e/ccodex
+  - monster/cr/9
+  - monster/environment/any
+  - monster/size/medium
+  - monster/type/fiend/demon
 statblock: inline
-aliases: ["Alpha Yek"]
+aliases:
+  - Alpha Yek
 ---
 # resource.name
 *Source: Creature Codex p. 95*  
@@ -42,7 +44,7 @@ aliases: ["Alpha Yek"]
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/conditions.md)"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
@@ -51,7 +53,7 @@ aliases: ["Alpha Yek"]
     \ effects."
   "name": "Magic Resistance"
 - "desc": "The yek has advantage on attack rolls against a creature if at least one\
-    \ of the yek's allies is within 5 feet of the creature and the ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
+    \ of the yek's allies is within 5 feet of the creature and the ally isn't [incapacitated](3-Mechanics/CLI/conditions.md)."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The alpha yek makes one bite attack and two claw attacks. It can make a\
@@ -69,7 +71,7 @@ aliases: ["Alpha Yek"]
     \ and sticks in the target's wound. The target takes 5 (2d4) piercing damage\
     \ at the start of each of its turns as long as the bone remains lodged in its\
     \ wound. A creature, including the target, can take its action to remove the bone\
-    \ by succeeding on a DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine))\
+    \ by succeeding on a DC 15 Wisdom (3-Mechanics/CLI/skills.md))\
     \ check. The bone also falls out of the wound if the target receives magical healing\
     \ A yek typically carries 3 (1d6) bone shards, which are destroyed on a successful\
     \ hit. It can use its action to tear a bone shard from a corpse within 5 feet."

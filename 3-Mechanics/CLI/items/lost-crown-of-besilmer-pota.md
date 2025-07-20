@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Lost Crown of Besilmer"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+aliases:
+  - Lost Crown of Besilmer
 ---
 # Lost Crown of Besilmer
 *Wondrous item, legendary (requires attunement)*  

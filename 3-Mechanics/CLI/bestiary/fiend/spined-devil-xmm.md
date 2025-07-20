@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/nine-hells
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fiend/devil
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/nine-hells
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Spined Devil
+  - Spined Devil
 ---
 # [Spined Devil](3-Mechanics\CLI\bestiary\fiend/spined-devil-xmm.md)
 *Source: Monster Manual (2024) p. 296*  

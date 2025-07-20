@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/lmop
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Dragonguard"
+  - ttrpg-cli/compendium/src/5e/lmop
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Dragonguard
 ---
 # Dragonguard
 *Medium armor, rare*  

@@ -1,44 +1,46 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Flame Tongue"
-- "Flame Tongue Battleaxe"
-- "Flame Tongue Club"
-- "Flame Tongue Dagger"
-- "Flame Tongue Flail"
-- "Flame Tongue Glaive"
-- "Flame Tongue Greataxe"
-- "Flame Tongue Greatclub"
-- "Flame Tongue Greatsword"
-- "Flame Tongue Halberd"
-- "Flame Tongue Handaxe"
-- "Flame Tongue Javelin"
-- "Flame Tongue Lance"
-- "Flame Tongue Light Hammer"
-- "Flame Tongue Longsword"
-- "Flame Tongue Mace"
-- "Flame Tongue Maul"
-- "Flame Tongue Morningstar"
-- "Flame Tongue Pike"
-- "Flame Tongue Quarterstaff"
-- "Flame Tongue Rapier"
-- "Flame Tongue Scimitar"
-- "Flame Tongue Shortsword"
-- "Flame Tongue Sickle"
-- "Flame Tongue Spear"
-- "Flame Tongue Trident"
-- "Flame Tongue War Pick"
-- "Flame Tongue Warhammer"
-- "Flame Tongue Whip"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Flame Tongue
+  - Flame Tongue Battleaxe
+  - Flame Tongue Club
+  - Flame Tongue Dagger
+  - Flame Tongue Flail
+  - Flame Tongue Glaive
+  - Flame Tongue Greataxe
+  - Flame Tongue Greatclub
+  - Flame Tongue Greatsword
+  - Flame Tongue Halberd
+  - Flame Tongue Handaxe
+  - Flame Tongue Javelin
+  - Flame Tongue Lance
+  - Flame Tongue Light Hammer
+  - Flame Tongue Longsword
+  - Flame Tongue Mace
+  - Flame Tongue Maul
+  - Flame Tongue Morningstar
+  - Flame Tongue Pike
+  - Flame Tongue Quarterstaff
+  - Flame Tongue Rapier
+  - Flame Tongue Scimitar
+  - Flame Tongue Shortsword
+  - Flame Tongue Sickle
+  - Flame Tongue Spear
+  - Flame Tongue Trident
+  - Flame Tongue War Pick
+  - Flame Tongue Warhammer
+  - Flame Tongue Whip
 ---
 # Flame Tongue
 *Rare (requires attunement)*  

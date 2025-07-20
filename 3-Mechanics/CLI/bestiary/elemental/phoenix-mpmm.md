@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/16
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/elemental
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Phoenix
+  - Phoenix
 ---
 # [Phoenix](3-Mechanics\CLI\bestiary\elemental/phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  

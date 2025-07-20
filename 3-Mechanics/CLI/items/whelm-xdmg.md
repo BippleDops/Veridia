@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Whelm"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Whelm
 ---
 # Whelm
 *Weapon ([warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  

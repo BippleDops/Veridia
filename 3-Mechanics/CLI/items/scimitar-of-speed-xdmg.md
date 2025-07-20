@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Scimitar of Speed"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Scimitar of Speed
 ---
 # Scimitar of Speed
 *Weapon ([scimitar](/3-Mechanics/CLI/items/scimitar-xphb.md)), very rare (requires attunement)*  

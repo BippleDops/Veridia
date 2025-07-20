@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Enspelled Staff (Level 3)"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Enspelled Staff (Level 3)
 ---
 # Enspelled Staff (Level 3)
 *Staff, weapon, rare (requires attunement by a Spellcaster)*  

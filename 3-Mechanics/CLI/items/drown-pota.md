@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Drown"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Drown
 ---
 # Drown
 *Weapon ([trident](/3-Mechanics/CLI/items/trident-xphb.md)), legendary (requires attunement)*  

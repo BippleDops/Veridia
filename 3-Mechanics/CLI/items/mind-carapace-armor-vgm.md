@@ -1,18 +1,20 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Mind Carapace Armor"
-- "Mind Carapace Chain Mail"
-- "Mind Carapace Plate Armor"
-- "Mind Carapace Ring Mail"
-- "Mind Carapace Splint Armor"
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Mind Carapace Armor
+  - Mind Carapace Chain Mail
+  - Mind Carapace Plate Armor
+  - Mind Carapace Ring Mail
+  - Mind Carapace Splint Armor
 ---
 # Mind Carapace Armor
 *Uncommon (requires attunement by a specific individual)*  

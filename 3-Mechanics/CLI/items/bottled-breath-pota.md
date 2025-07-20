@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Bottled Breath"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/potion
+aliases:
+  - Bottled Breath
 ---
 # Bottled Breath
 *Potion, uncommon*  

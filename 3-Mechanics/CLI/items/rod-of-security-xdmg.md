@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/rod
-aliases: 
-- "Rod of Security"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/rod
+aliases:
+  - Rod of Security
 ---
 # Rod of Security
 *Rod, very rare*  

@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Frost Brand"
-- "Frost Brand Glaive"
-- "Frost Brand Greatsword"
-- "Frost Brand Longsword"
-- "Frost Brand Rapier"
-- "Frost Brand Scimitar"
-- "Frost Brand Shortsword"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Frost Brand
+  - Frost Brand Glaive
+  - Frost Brand Greatsword
+  - Frost Brand Longsword
+  - Frost Brand Rapier
+  - Frost Brand Scimitar
+  - Frost Brand Shortsword
 ---
 # Frost Brand
 *Very rare (requires attunement)*  

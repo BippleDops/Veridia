@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Intellect Devourer
+  - Intellect Devourer
 ---
 # [Intellect Devourer](3-Mechanics\CLI\bestiary\aberration/intellect-devourer-xmm.md)
 *Source: Monster Manual (2024) p. 179*  

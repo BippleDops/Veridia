@@ -1,4 +1,6 @@
 ---
+type: npc
+status: alive
 tags:
   - template
   - ai-generation

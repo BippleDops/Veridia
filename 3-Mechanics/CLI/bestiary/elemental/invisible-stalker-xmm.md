@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/elemental
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Invisible Stalker
+  - Invisible Stalker
 ---
 # [Invisible Stalker](3-Mechanics\CLI\bestiary\elemental/invisible-stalker-xmm.md)
 *Source: Monster Manual (2024) p. 180. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

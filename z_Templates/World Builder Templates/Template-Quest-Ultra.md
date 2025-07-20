@@ -1,55 +1,50 @@
 ---
+type: quest
+status: active
+priority: medium
 tags:
   - quest
   - quest/{{questType}}
-  - "{{questStatus}}"
+  - '{{questStatus}}'
 aliases:
-  - "{{questAlias}}"
+  - '{{questAlias}}'
 cssclasses:
   - quest-note
-# Quest Properties
-quest_name: "{{questName}}"
-quest_type: "{{questType}}"
-quest_status: "not-started"
-quest_priority: "normal"
-quest_giver: 
-quest_level: 
-quest_deadline: 
-# Progress Tracking
+quest_name: '{{questName}}'
+quest_type: '{{questType}}'
+quest_status: not-started
+quest_priority: normal
+quest_giver: null
+quest_level: null
+quest_deadline: null
 quest_progress: 0
 objectives:
-  - name: ""
-    status: "incomplete"
-    description: ""
+  - name: ''
+    status: incomplete
+    description: ''
 milestones: []
-current_objective: 
-# Rewards
-reward_gold: 
+current_objective: null
+reward_gold: null
 reward_items: []
-reward_xp: 
-reward_other: ""
-# Relationships
+reward_xp: null
+reward_other: ''
 related_npcs: []
 related_locations: []
 related_organizations: []
 related_quests: []
-antagonist: 
-# Story Elements
-hook: ""
-description: ""
-background: ""
+antagonist: null
+hook: ''
+description: ''
+background: ''
 resolution_conditions: []
 failure_conditions: []
 consequences:
-  success: ""
-  failure: ""
-# Session Tracking
+  success: ''
+  failure: ''
 sessions_involved: []
-date_received: 
-date_completed: 
-# Visual
-image_path: 
-# Meta
+date_received: null
+date_completed: null
+image_path: null
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---
 

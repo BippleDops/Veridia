@@ -1,48 +1,45 @@
 ---
-tags: 
+type: npc
+status: active
+tags:
   - NPC
-  - "{{npcType}}"
-aliases: 
-  - "{{npcAlias1}}"
-  - "{{npcAlias2}}"
-cssclasses: 
+  - '{{npcType}}'
+aliases:
+  - '{{npcAlias1}}'
+  - '{{npcAlias2}}'
+cssclasses:
   - npc-card
   - wide-page
-location: "{{npcLocation}}"
-occupation: "{{npcOccupation}}"
-faction: "{{npcFaction}}"
-status: active
+location: '{{npcLocation}}'
+occupation: '{{npcOccupation}}'
+faction: '{{npcFaction}}'
 relationship: neutral
 appearance:
-  age: "{{npcAge}}"
-  race: "{{npcRace}}"
-  gender: "{{npcGender}}"
-  height: "{{npcHeight}}"
-  build: "{{npcBuild}}"
-  distinguishing: "{{npcDistinguishing}}"
+  age: '{{npcAge}}'
+  race: '{{npcRace}}'
+  gender: '{{npcGender}}'
+  height: '{{npcHeight}}'
+  build: '{{npcBuild}}'
+  distinguishing: '{{npcDistinguishing}}'
 personality:
   traits: []
   ideals: []
   bonds: []
   flaws: []
-motivation: ""
+motivation: ''
 secrets: []
-firstMet: 
-lastSeen: 
+first-met: null
+last-seen: null
 sessions: []
-# Combat Stats
-cr: 
-ac: 
-hp: 
-speed: 
-# Relationships
+cr: null
+ac: null
+hp: null
+speed: null
 allies: []
 enemies: []
 family: []
-# Visual
-image_path: 
-voice_reference: 
-# Meta
+image_path: null
+voice_reference: null
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---

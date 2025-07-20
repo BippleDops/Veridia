@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Basilisk
+  - Basilisk
 ---
 # [Basilisk](3-Mechanics\CLI\bestiary\monstrosity/basilisk-xmm.md)
 *Source: Monster Manual (2024) p. 32. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

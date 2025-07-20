@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Instrument of the Bards, Anstruth Harp"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - Instrument of the Bards, Anstruth Harp
 ---
 # Instrument of the Bards, Anstruth Harp
 *Wondrous item, very rare (requires attunement by a bard)*  

@@ -1,28 +1,30 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Armor of Lightning Resistance"
-- "Breastplate of Lightning Resistance"
-- "Chain Mail of Lightning Resistance"
-- "Chain Shirt of Lightning Resistance"
-- "Half Plate Armor of Lightning Resistance"
-- "Hide Armor of Lightning Resistance"
-- "Leather Armor of Lightning Resistance"
-- "Padded Armor of Lightning Resistance"
-- "Plate Armor of Lightning Resistance"
-- "Ring Mail of Lightning Resistance"
-- "Scale Mail of Lightning Resistance"
-- "Splint Armor of Lightning Resistance"
-- "Studded Leather Armor of Lightning Resistance"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Armor of Lightning Resistance
+  - Breastplate of Lightning Resistance
+  - Chain Mail of Lightning Resistance
+  - Chain Shirt of Lightning Resistance
+  - Half Plate Armor of Lightning Resistance
+  - Hide Armor of Lightning Resistance
+  - Leather Armor of Lightning Resistance
+  - Padded Armor of Lightning Resistance
+  - Plate Armor of Lightning Resistance
+  - Ring Mail of Lightning Resistance
+  - Scale Mail of Lightning Resistance
+  - Splint Armor of Lightning Resistance
+  - Studded Leather Armor of Lightning Resistance
 ---
 # Armor of Lightning Resistance
 *Rare (requires attunement)*  

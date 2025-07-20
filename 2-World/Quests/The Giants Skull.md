@@ -1,21 +1,24 @@
 ---
+type: quest
+status: active
+priority: medium
 tags:
   - Category/Quest
-MyContainer:
-  - "[[2-World/Regions/Island of Skulls.md|Island of Skulls]]"
-  - "[[z_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]"
-  - "[[z_Templates/World Builder Templates/Template-PointofInterest.md|Template-PointofInterest]]"
-MyCategory:
-obsidianUIMode: preview
-questObtained:
-questStatus: Not Started
-questGiver: "[[2-World/People/Flip the Famous.md|Flip the Famous]]"
-questLocationObtained: "[[z_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]"
-questSessionObtained: "[[1-Session Journals/2025-01-01.md|2025-01-01]]"
-questNotes:
-questLootAvail:
-questLookEarned:
-NoteIcon: quest
+my-container:
+  - '[[2-World/Regions/Island of Skulls.md|Island of Skulls]]'
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]'
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest.md|Template-PointofInterest]]'
+my-category: null
+obsidian-u-i-mode: preview
+quest-obtained: null
+quest-status: Not Started
+quest-giver: '[[2-World/People/Flip the Famous.md|Flip the Famous]]'
+quest-location-obtained: '[[z_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
+quest-session-obtained: '[[1-Session Journals/2025-01-01.md|2025-01-01]]'
+quest-notes: null
+quest-loot-avail: null
+quest-look-earned: null
+note-icon: quest
 ---
 
 

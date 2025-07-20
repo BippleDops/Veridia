@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Mirror of Life Trapping"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - Mirror of Life Trapping
 ---
 # Mirror of Life Trapping
 *Wondrous item, very rare*  

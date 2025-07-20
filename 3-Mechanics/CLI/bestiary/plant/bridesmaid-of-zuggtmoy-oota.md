@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/plant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Bridesmaid of Zuggtmoy
+  - Bridesmaid of Zuggtmoy
 ---
 # [Bridesmaid of Zuggtmoy](3-Mechanics\CLI\bestiary\plant/bridesmaid-of-zuggtmoy-oota.md)
 *Source: Out of the Abyss p. 230*  

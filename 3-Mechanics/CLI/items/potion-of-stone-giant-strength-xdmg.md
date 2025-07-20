@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Stone Giant Strength"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/potion
+aliases:
+  - Potion of Stone Giant Strength
 ---
 # Potion of Stone Giant Strength
 *Potion, rare*  

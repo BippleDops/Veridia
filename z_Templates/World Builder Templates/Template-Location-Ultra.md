@@ -1,54 +1,49 @@
 ---
+type: location
 tags:
   - location
   - location/{{locationType}}
   - location/{{continent}}/{{region}}/{{settlement}}
 aliases:
-  - "{{locationAlias1}}"
-  - "{{locationAlias2}}"
+  - '{{locationAlias1}}'
+  - '{{locationAlias2}}'
 cssclasses:
   - location-note
   - wide-page
-# Geographic Data
-location_type: {{locationType}}
-parent_location: "{{parentLocation}}"
-continent: "{{continent}}"
-region: "{{region}}"
-settlement: "{{settlement}}"
-coordinates: 
-  x: 
-  y: 
-climate: "{{climate}}"
-terrain: "{{terrain}}"
-# Demographics
-population: 
+location_type:
+  '[object Object]': null
+parent_location: '{{parentLocation}}'
+continent: '{{continent}}'
+region: '{{region}}'
+settlement: '{{settlement}}'
+coordinates:
+  x: null
+  'y': null
+climate: '{{climate}}'
+terrain: '{{terrain}}'
+population: null
 population_breakdown:
-  human: 
-  elf: 
-  dwarf: 
-  other: 
-government: "{{government}}"
-ruler: 
-# Features
+  human: null
+  elf: null
+  dwarf: null
+  other: null
+government: '{{government}}'
+ruler: null
 notable_features: []
 districts: []
 landmarks: []
 shops: []
 inns: []
 temples: []
-# Connections
 connected_locations: []
 travel_times: {}
 organizations_present: []
 notable_npcs: []
-# Adventure Hooks
 quest_hooks: []
 rumors: []
 secrets: []
-# Visual
-image_path: 
-map_path: 
-# Meta
+image_path: null
+map_path: null
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 ---

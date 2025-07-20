@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/titan
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/monstrosity/titan
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Kraken
+  - Kraken
 ---
 # [Kraken](3-Mechanics\CLI\bestiary\monstrosity/kraken-xmm.md)
 *Source: Monster Manual (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

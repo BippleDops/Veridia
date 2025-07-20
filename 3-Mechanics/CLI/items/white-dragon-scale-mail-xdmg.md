@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "White Dragon Scale Mail"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - White Dragon Scale Mail
 ---
 # White Dragon Scale Mail
 *Medium armor ([scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)), very rare (requires attunement)*  

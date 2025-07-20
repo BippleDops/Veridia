@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/upper
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/celestial
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Guardian Naga
+  - Guardian Naga
 ---
 # [Guardian Naga](3-Mechanics\CLI\bestiary\celestial/guardian-naga-xmm.md)
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

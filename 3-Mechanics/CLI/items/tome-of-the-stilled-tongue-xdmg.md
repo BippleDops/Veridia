@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Tome of the Stilled Tongue"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+aliases:
+  - Tome of the Stilled Tongue
 ---
 # Tome of the Stilled Tongue
 *Wondrous item, legendary (requires attunement by a wizard)*  

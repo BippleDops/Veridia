@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Devastation Orb"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - Devastation Orb
 ---
 # Devastation Orb
 *Wondrous item, very rare*  

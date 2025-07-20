@@ -1,23 +1,25 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Luck Blade"
-- "Luck Glaive"
-- "Luck Greatsword"
-- "Luck Longsword"
-- "Luck Rapier"
-- "Luck Scimitar"
-- "Luck Shortsword"
-- "Luck Sickle"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Luck Blade
+  - Luck Glaive
+  - Luck Greatsword
+  - Luck Longsword
+  - Luck Rapier
+  - Luck Scimitar
+  - Luck Shortsword
+  - Luck Sickle
 ---
 # Luck Blade
 *Legendary (requires attunement)*  

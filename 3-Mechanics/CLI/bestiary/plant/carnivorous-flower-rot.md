@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/plant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Carnivorous Flower
+  - Carnivorous Flower
 ---
 # [Carnivorous Flower](3-Mechanics\CLI\bestiary\plant/carnivorous-flower-rot.md)
 *Source: The Rise of Tiamat p. 67*  

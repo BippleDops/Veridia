@@ -1,27 +1,29 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Mariner's Armor"
-- "Mariner's Breastplate"
-- "Mariner's Chain Mail"
-- "Mariner's Chain Shirt"
-- "Mariner's Half Plate Armor"
-- "Mariner's Hide Armor"
-- "Mariner's Leather Armor"
-- "Mariner's Padded Armor"
-- "Mariner's Plate Armor"
-- "Mariner's Ring Mail"
-- "Mariner's Scale Mail"
-- "Mariner's Splint Armor"
-- "Mariner's Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Mariner's Armor
+  - Mariner's Breastplate
+  - Mariner's Chain Mail
+  - Mariner's Chain Shirt
+  - Mariner's Half Plate Armor
+  - Mariner's Hide Armor
+  - Mariner's Leather Armor
+  - Mariner's Padded Armor
+  - Mariner's Plate Armor
+  - Mariner's Ring Mail
+  - Mariner's Scale Mail
+  - Mariner's Splint Armor
+  - Mariner's Studded Leather Armor
 ---
 # Mariner's Armor
 *Uncommon*  

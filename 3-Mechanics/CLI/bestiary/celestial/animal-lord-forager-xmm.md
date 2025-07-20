@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/beastlands
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/20
+  - ttrpg-cli/monster/environment/beastlands
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/celestial
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Animal Lord; Forager
+  - Animal Lord; Forager
 ---
 # [Animal Lord; Forager](3-Mechanics\CLI\bestiary\celestial/animal-lord-forager-xmm.md)
 *Source: Monster Manual (2024) p. 15*  

@@ -1,11 +1,12 @@
 ---
-PromptInfo:
- promptId: ConvMonst
- name: 🧌 Convert Monster 🧌
- description: Converted a statblock to Fantasy Statblock format. 
- author: JoshP
- tags: fantasy, ttrpg
- version: 0.0.1
+type: monster
+prompt-info:
+  promptId: ConvMonst
+  name: 🧌 Convert Monster 🧌
+  description: Converted a statblock to Fantasy Statblock format.
+  author: JoshP
+  tags: fantasy, ttrpg
+  version: 0.0.1
 ---
 
 {{#if selection}}

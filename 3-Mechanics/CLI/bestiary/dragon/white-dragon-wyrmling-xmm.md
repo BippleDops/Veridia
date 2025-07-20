@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon/chromatic
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/dragon/chromatic
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- White Dragon Wyrmling
+  - White Dragon Wyrmling
 ---
 # [White Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/white-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

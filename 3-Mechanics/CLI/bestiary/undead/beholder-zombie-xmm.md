@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/shadowfell
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/undead
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Beholder Zombie
+  - Beholder Zombie
 ---
 # [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie-xmm.md)
 *Source: Monster Manual (2024) p. 347*  

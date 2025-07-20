@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Lute of Thunderous Thumping"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Lute of Thunderous Thumping
 ---
 # Lute of Thunderous Thumping
 *Weapon ([club](/3-Mechanics/CLI/items/club-xphb.md)), very rare*  

@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Jade Giant Spider
+  - Jade Giant Spider
 ---
 # [Jade Giant Spider](3-Mechanics\CLI\bestiary\construct/jade-giant-spider-oota.md)
 *Source: Out of the Abyss p. 201*  

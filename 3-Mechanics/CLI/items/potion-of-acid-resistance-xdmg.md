@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Acid Resistance"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/potion
+aliases:
+  - Potion of Acid Resistance
 ---
 # Potion of Acid Resistance
 *Potion, uncommon*  

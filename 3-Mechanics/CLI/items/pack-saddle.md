@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/tack-and-harness
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Pack Saddle"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/tack-and-harness
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Pack Saddle
 ---
 # Pack Saddle
 *Tack and harness*  

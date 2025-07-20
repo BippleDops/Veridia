@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Orcsplitter"
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Orcsplitter
 ---
 # Orcsplitter
 *Weapon ([greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md)), legendary (requires attunement by a dwarf, fighter, or paladin of good alignment)*  

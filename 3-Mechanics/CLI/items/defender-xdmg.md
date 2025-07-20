@@ -1,44 +1,46 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Defender"
-- "Defender Battleaxe"
-- "Defender Club"
-- "Defender Dagger"
-- "Defender Flail"
-- "Defender Glaive"
-- "Defender Greataxe"
-- "Defender Greatclub"
-- "Defender Greatsword"
-- "Defender Halberd"
-- "Defender Handaxe"
-- "Defender Javelin"
-- "Defender Lance"
-- "Defender Light Hammer"
-- "Defender Longsword"
-- "Defender Mace"
-- "Defender Maul"
-- "Defender Morningstar"
-- "Defender Pike"
-- "Defender Quarterstaff"
-- "Defender Rapier"
-- "Defender Scimitar"
-- "Defender Shortsword"
-- "Defender Sickle"
-- "Defender Spear"
-- "Defender Trident"
-- "Defender War Pick"
-- "Defender Warhammer"
-- "Defender Whip"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Defender
+  - Defender Battleaxe
+  - Defender Club
+  - Defender Dagger
+  - Defender Flail
+  - Defender Glaive
+  - Defender Greataxe
+  - Defender Greatclub
+  - Defender Greatsword
+  - Defender Halberd
+  - Defender Handaxe
+  - Defender Javelin
+  - Defender Lance
+  - Defender Light Hammer
+  - Defender Longsword
+  - Defender Mace
+  - Defender Maul
+  - Defender Morningstar
+  - Defender Pike
+  - Defender Quarterstaff
+  - Defender Rapier
+  - Defender Scimitar
+  - Defender Shortsword
+  - Defender Sickle
+  - Defender Spear
+  - Defender Trident
+  - Defender War Pick
+  - Defender Warhammer
+  - Defender Whip
 ---
 # Defender
 *Legendary (requires attunement)*  

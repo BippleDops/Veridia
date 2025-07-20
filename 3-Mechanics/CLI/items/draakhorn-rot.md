@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Draakhorn"
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/item/rarity/artifact
+aliases:
+  - Draakhorn
 ---
 # Draakhorn
 *Wondrous item, artifact*  

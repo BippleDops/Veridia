@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/lmop
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Hew"
+  - ttrpg-cli/compendium/src/5e/lmop
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Hew
 ---
 # Hew
 *Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md))*  

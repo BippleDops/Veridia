@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of Viscid Globs"
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/wondrous/wand
+aliases:
+  - Wand of Viscid Globs
 ---
 # Wand of Viscid Globs
 *Wand, rare (requires attunement)*  

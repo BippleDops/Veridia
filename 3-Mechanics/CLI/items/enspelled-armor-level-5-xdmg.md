@@ -1,28 +1,30 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Enspelled Armor (Level 5)"
-- "Enspelled (Level 5) Breastplate"
-- "Enspelled (Level 5) Chain Mail"
-- "Enspelled (Level 5) Chain Shirt"
-- "Enspelled (Level 5) Half Plate Armor"
-- "Enspelled (Level 5) Hide Armor"
-- "Enspelled (Level 5) Leather Armor"
-- "Enspelled (Level 5) Padded Armor"
-- "Enspelled (Level 5) Plate Armor"
-- "Enspelled (Level 5) Ring Mail"
-- "Enspelled (Level 5) Scale Mail"
-- "Enspelled (Level 5) Splint Armor"
-- "Enspelled (Level 5) Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Enspelled Armor (Level 5)
+  - Enspelled (Level 5) Breastplate
+  - Enspelled (Level 5) Chain Mail
+  - Enspelled (Level 5) Chain Shirt
+  - Enspelled (Level 5) Half Plate Armor
+  - Enspelled (Level 5) Hide Armor
+  - Enspelled (Level 5) Leather Armor
+  - Enspelled (Level 5) Padded Armor
+  - Enspelled (Level 5) Plate Armor
+  - Enspelled (Level 5) Ring Mail
+  - Enspelled (Level 5) Scale Mail
+  - Enspelled (Level 5) Splint Armor
+  - Enspelled (Level 5) Studded Leather Armor
 ---
 # Enspelled Armor (Level 5)
 *Very rare (requires attunement)*  

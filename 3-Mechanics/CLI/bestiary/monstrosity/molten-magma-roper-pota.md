@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Molten Magma Roper
+  - Molten Magma Roper
 ---
 # [Molten Magma Roper](3-Mechanics\CLI\bestiary\monstrosity/molten-magma-roper-pota.md)
 *Source: Princes of the Apocalypse p. 143*  

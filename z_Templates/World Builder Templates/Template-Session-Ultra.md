@@ -1,27 +1,29 @@
 ---
-tags: 
+type: session
+tags:
   - session
   - campaign/{{campaignName}}
 date: <% tp.date.now("YYYY-MM-DD") %>
-sessionNumber: {{sessionNum}}
+session-number:
+  '[object Object]': null
 players: []
 absent: []
-recap: ""
-plotPoints: []
-npcsMet: []
-locationsVisited: []
-combatEncounters: []
+recap: ''
+plot-points: []
+npcs-met: []
+locations-visited: []
+combat-encounters: []
 loot: []
-xpAwarded: 0
-treasureValue: 0
-questsAdvanced: []
-questsCompleted: []
-questsStarted: []
-nextSessionPrep: ""
+xp-awarded: 0
+treasure-value: 0
+quests-advanced: []
+quests-completed: []
+quests-started: []
+next-session-prep: ''
 secrets_revealed: []
-cliffhanger: ""
-mood: ""
-mvp: ""
+cliffhanger: ''
+mood: ''
+mvp: ''
 memorable_quotes: []
 ---
 

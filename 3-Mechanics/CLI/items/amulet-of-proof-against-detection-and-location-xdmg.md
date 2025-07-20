@@ -1,12 +1,13 @@
 ---
-obsidianUIMode: preview
+type: location
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Amulet of Proof against Detection and Location"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Amulet of Proof against Detection and Location
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  

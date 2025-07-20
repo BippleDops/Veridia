@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Dancing Sword"
-- "Dancing Double-Bladed Scimitar"
-- "Dancing Greatsword"
-- "Dancing Longsword"
-- "Dancing Rapier"
-- "Dancing Scimitar"
-- "Dancing Shortsword"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Dancing Sword
+  - Dancing Double-Bladed Scimitar
+  - Dancing Greatsword
+  - Dancing Longsword
+  - Dancing Rapier
+  - Dancing Scimitar
+  - Dancing Shortsword
 ---
 # Dancing Sword
 *Very rare (requires attunement)*  

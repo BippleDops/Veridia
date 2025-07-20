@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Bag of Holding"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Bag of Holding
 ---
 # Bag of Holding
 *Wondrous item, uncommon*  

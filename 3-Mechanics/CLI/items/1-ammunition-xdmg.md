@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "+1 Ammunition"
-- "+1 Arrow"
-- "+1 Bolt"
-- "+1 Energy Cell"
-- "+1 Firearm Bullet"
-- "+1 Needle"
-- "+1 Sling Bullet"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/gear/ammunition-firearm
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - +1 Ammunition
+  - +1 Arrow
+  - +1 Bolt
+  - +1 Energy Cell
+  - +1 Firearm Bullet
+  - +1 Needle
+  - +1 Sling Bullet
 ---
 # +1 Ammunition
 *Ammunition, uncommon*  

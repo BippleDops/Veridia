@@ -1,32 +1,33 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/optfeature/chains-of-carceri
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/monster-slayer
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-- ttrpg-cli/spell/subclass/war-domain
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/optfeature/chains-of-carceri
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/monster-slayer
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+  - ttrpg-cli/spell/subclass/war-domain
 classes:
-- Bard
-- Cleric (War Domain)
-- Druid (Circle of the Sea)
-- Paladin (Oath of Redemption)
-- Paladin (Oath of Vengeance)
-- Ranger (Monster Slayer)
-- Sorcerer
-- Warlock
-- Wizard
+  - Bard
+  - Cleric (War Domain)
+  - Druid (Circle of the Sea)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of Vengeance)
+  - Ranger (Monster Slayer)
+  - Sorcerer
+  - Warlock
+  - Wizard
 aliases:
-- Hold Monster
+  - Hold Monster
 ---
 # Hold Monster
 *5th-level, Enchantment*  

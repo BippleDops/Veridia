@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Infant Hook Horror
+  - Infant Hook Horror
 ---
 # [Infant Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/infant-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  

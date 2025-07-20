@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
+type: npc
+status: alive
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Amarith Coppervein
+  - Amarith Coppervein
 ---
 # [Amarith Coppervein](3-Mechanics\CLI\bestiary\npc/amarith-coppervein-oota.md)
 *Source: Out of the Abyss p. 142*  

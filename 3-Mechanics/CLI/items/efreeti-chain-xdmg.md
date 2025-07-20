@@ -1,17 +1,19 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Efreeti Chain"
-- "Efreeti Chain Mail"
-- "Efreeti Chain Shirt"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Efreeti Chain
+  - Efreeti Chain Mail
+  - Efreeti Chain Shirt
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  

@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Mind Flayer Psion
+  - Mind Flayer Psion
 ---
 # [Mind Flayer Psion](3-Mechanics\CLI\bestiary\aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Crusader's Shortsword"
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Crusader's Shortsword
 ---
 # Crusader's Shortsword
 *Weapon ([shortsword](/3-Mechanics/CLI/items/shortsword-xphb.md)) (requires attunement)*  

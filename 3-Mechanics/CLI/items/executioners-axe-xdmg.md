@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Executioner's Axe"
-- "Executioner's Battleaxe"
-- "Executioner's Greataxe"
-- "Executioner's Halberd"
-- "Executioner's Handaxe"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Executioner's Axe
+  - Executioner's Battleaxe
+  - Executioner's Greataxe
+  - Executioner's Halberd
+  - Executioner's Handaxe
 ---
 # Executioner's Axe
 *Very rare*  

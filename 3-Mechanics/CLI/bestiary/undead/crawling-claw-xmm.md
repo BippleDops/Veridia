@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/undead
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Crawling Claw
+  - Crawling Claw
 ---
 # [Crawling Claw](3-Mechanics\CLI\bestiary\undead/crawling-claw-xmm.md)
 *Source: Monster Manual (2024) p. 83*  

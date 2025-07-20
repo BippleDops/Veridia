@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/item/attunement/optional
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Spell Gem (Amber)"
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/item/attunement/optional
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - Spell Gem (Amber)
 ---
 # Spell Gem (Amber)
 *Wondrous item, very rare (attunement optional)*  

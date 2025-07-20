@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Holy Symbol of Ravenkind"
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+aliases:
+  - Holy Symbol of Ravenkind
 ---
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  

@@ -1,9 +1,10 @@
 ---
+type: location
 tags:
   - Category/Place
-MyContainer: "[[2-World/Hubs/City of Screams.md|City of Screams]]"
-MyCategory: Commerce
-obsidianUIMode: preview
+my-container: '[[2-World/Hubs/City of Screams.md|City of Screams]]'
+my-category: Commerce
+obsidian-u-i-mode: preview
 ---
 
 

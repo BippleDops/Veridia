@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/shield/
-- ttrpg-cli/item/tier/major
-aliases: 
-- "Shield of the Silver Dragon"
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/shield/
+  - ttrpg-cli/item/tier/major
+aliases:
+  - Shield of the Silver Dragon
 ---
 # Shield of the Silver Dragon
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), major, rare*  

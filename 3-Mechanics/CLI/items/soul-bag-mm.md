@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Soul Bag"
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/other
+aliases:
+  - Soul Bag
 ---
 # Soul Bag
 *Very rare*  

@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Quaal's Feather Token, Bird"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Quaal's Feather Token, Bird
 ---
 # Quaal's Feather Token, Bird
 *Wondrous item, rare*  

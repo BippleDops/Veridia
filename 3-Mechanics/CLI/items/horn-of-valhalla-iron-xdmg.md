@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Horn of Valhalla, Iron"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/legendary
+aliases:
+  - Horn of Valhalla, Iron
 ---
 # Horn of Valhalla, Iron
 *Wondrous item, legendary*  

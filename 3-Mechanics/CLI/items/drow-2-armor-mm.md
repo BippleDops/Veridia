@@ -1,28 +1,30 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Drow +2 Armor"
-- "Drow +2 Breastplate"
-- "Drow +2 Chain Mail"
-- "Drow +2 Chain Shirt"
-- "Drow +2 Half Plate Armor"
-- "Drow +2 Hide Armor"
-- "Drow +2 Leather Armor"
-- "Drow +2 Padded Armor"
-- "Drow +2 Plate Armor"
-- "Drow +2 Ring Mail"
-- "Drow +2 Scale Mail"
-- "Drow +2 Spiked Armor"
-- "Drow +2 Splint Armor"
-- "Drow +2 Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Drow +2 Armor
+  - Drow +2 Breastplate
+  - Drow +2 Chain Mail
+  - Drow +2 Chain Shirt
+  - Drow +2 Half Plate Armor
+  - Drow +2 Hide Armor
+  - Drow +2 Leather Armor
+  - Drow +2 Padded Armor
+  - Drow +2 Plate Armor
+  - Drow +2 Ring Mail
+  - Drow +2 Scale Mail
+  - Drow +2 Spiked Armor
+  - Drow +2 Splint Armor
+  - Drow +2 Studded Leather Armor
 ---
 # Drow +2 Armor
 

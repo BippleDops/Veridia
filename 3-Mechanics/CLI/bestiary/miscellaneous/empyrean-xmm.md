@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type//titan
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type//titan
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Empyrean
+  - Empyrean
 ---
 # [Empyrean](3-Mechanics\CLI\bestiary\miscellaneous/empyrean-xmm.md)
 *Source: Monster Manual (2024) p. 113*  

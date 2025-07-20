@@ -1,15 +1,17 @@
 ---
-obsidianUIMode: preview
+type: npc
+status: alive
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/human
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/human
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Aljanor Keenblade
+  - Aljanor Keenblade
 ---
 # [Aljanor Keenblade](3-Mechanics\CLI\bestiary\npc/aljanor-keenblade-oota.md)
 *Source: Out of the Abyss p. 149*  

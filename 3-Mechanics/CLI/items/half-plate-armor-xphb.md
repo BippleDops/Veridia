@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Half Plate Armor"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Half Plate Armor
 ---
 # Half Plate Armor
 *Medium armor*  

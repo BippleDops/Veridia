@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/beast
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Raven
+  - Raven
 ---
 # [Raven](3-Mechanics\CLI\bestiary\beast/raven-xmm.md)
 *Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

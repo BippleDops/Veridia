@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Vorpal Sword"
-- "Vorpal Glaive"
-- "Vorpal Greatsword"
-- "Vorpal Longsword"
-- "Vorpal Scimitar"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Vorpal Sword
+  - Vorpal Glaive
+  - Vorpal Greatsword
+  - Vorpal Longsword
+  - Vorpal Scimitar
 ---
 # Vorpal Sword
 *Legendary (requires attunement)*  

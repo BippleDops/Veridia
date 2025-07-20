@@ -1,0 +1,222 @@
+{
+  "summary": {
+    "processed": 1899,
+    "updated": 1896
+  },
+  "changes": [
+    {
+      "file": "1-Party/Example Party 1/Bob.md",
+      "type": "pc",
+      "changes": [
+        "type",
+        "status",
+        "player",
+        "role",
+        "player-known-languages",
+        "char_class",
+        "connected_-quests",
+        "connected_-groups",
+        "obsidian-u-i-mode",
+        "my-container"
+      ]
+    },
+    {
+      "file": "1-Session Journals/Session 12 - 2025-01-25.md",
+      "type": "session",
+      "changes": [
+        "type",
+        "session-number",
+        "date",
+        "real-date",
+        "quests-active",
+        "quests-advanced",
+        "npcs-met",
+        "locations-visited",
+        "combat-encounters",
+        "xp-awarded",
+        "planned-mood",
+        "next-session-prep"
+      ]
+    },
+    {
+      "file": "2-World/Hubs/City of Screams.md",
+      "type": "location",
+      "changes": [
+        "type",
+        "my-container",
+        "my-category",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "2-World/Hubs/Shadowhaven.md",
+      "type": "location",
+      "changes": [
+        "type"
+      ]
+    },
+    {
+      "file": "2-World/People/Flip the Famous.md",
+      "type": "npc",
+      "changes": [
+        "type",
+        "status",
+        "my-container",
+        "my-category",
+        "obsidian-u-i-mode",
+        "note-status",
+        "char_items",
+        "connected_-quests",
+        "connected_-groups"
+      ]
+    },
+    {
+      "file": "2-World/People/Frank the Tank.md",
+      "type": "npc",
+      "changes": [
+        "type",
+        "status",
+        "my-container",
+        "my-category",
+        "obsidian-u-i-mode",
+        "note-status",
+        "connected_-quests",
+        "connected_-groups"
+      ]
+    },
+    {
+      "file": "2-World/People/Fred the Slow.md",
+      "type": "npc",
+      "changes": [
+        "type",
+        "status",
+        "my-container",
+        "my-category",
+        "obsidian-u-i-mode",
+        "note-status",
+        "connected_-quests",
+        "connected_-groups"
+      ]
+    },
+    {
+      "file": "2-World/Places/Shop of Stuff.md",
+      "type": "location",
+      "changes": [
+        "type",
+        "my-container",
+        "my-category",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "2-World/Quests/The Giants Skull.md",
+      "type": "quest",
+      "changes": [
+        "type",
+        "status",
+        "priority",
+        "my-container",
+        "my-category",
+        "obsidian-u-i-mode",
+        "quest-obtained",
+        "quest-status",
+        "quest-giver",
+        "quest-location-obtained",
+        "quest-session-obtained",
+        "quest-notes",
+        "quest-loot-avail",
+        "quest-look-earned",
+        "note-icon"
+      ]
+    },
+    {
+      "file": "2-World/Quests/The Vanishing Merchant Vessels.md",
+      "type": "quest",
+      "changes": [
+        "type",
+        "status",
+        "priority"
+      ]
+    },
+    {
+      "file": "3-Mechanics/Bestiary/Custom Homebrew Monster.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-beholderkin-xphb.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-slaad-xphb.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-star-spawn-xphb.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-xphb.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/aboleth-xmm.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/balhannoth-mpmm.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/berbalang-mpmm.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    },
+    {
+      "file": "3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md",
+      "type": "monster",
+      "changes": [
+        "type",
+        "obsidian-u-i-mode"
+      ]
+    }
+  ]
+}

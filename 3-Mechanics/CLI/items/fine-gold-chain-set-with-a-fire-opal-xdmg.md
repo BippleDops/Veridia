@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Fine gold chain set with a fire opal"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/gear/treasure-art-object
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Fine gold chain set with a fire opal
 ---
 # Fine gold chain set with a fire opal
 *Treasure (art object)*  

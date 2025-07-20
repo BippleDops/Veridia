@@ -1,25 +1,27 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/tack-and-harness
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Barding"
-- "Breastplate Barding"
-- "Chain Mail Barding"
-- "Chain Shirt Barding"
-- "Half Plate Barding"
-- "Hide Barding"
-- "Leather Barding"
-- "Padded Barding"
-- "Plate Barding"
-- "Ring Mail Barding"
-- "Scale Mail Barding"
-- "Spiked Barding"
-- "Splint Barding"
-- "Studded Leather Barding"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/tack-and-harness
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Barding
+  - Breastplate Barding
+  - Chain Mail Barding
+  - Chain Shirt Barding
+  - Half Plate Barding
+  - Hide Barding
+  - Leather Barding
+  - Padded Barding
+  - Plate Barding
+  - Ring Mail Barding
+  - Scale Mail Barding
+  - Spiked Barding
+  - Splint Barding
+  - Studded Leather Barding
 ---
 # Barding
 *Tack and harness*  

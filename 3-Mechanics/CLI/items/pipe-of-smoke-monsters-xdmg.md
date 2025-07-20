@@ -1,11 +1,12 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Pipe of Smoke Monsters"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/common
+aliases:
+  - Pipe of Smoke Monsters
 ---
 # Pipe of Smoke Monsters
 *Wondrous item, common*  

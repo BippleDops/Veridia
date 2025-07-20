@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/explosive
-aliases: 
-- "Dynamite Stick"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/rarity/none
+  - ttrpg-cli/item/weapon/explosive
+aliases:
+  - Dynamite Stick
 ---
 # Dynamite Stick
 *Explosive*  

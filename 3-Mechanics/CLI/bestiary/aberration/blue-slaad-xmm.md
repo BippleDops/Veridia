@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/limbo
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/limbo
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Blue Slaad
+  - Blue Slaad
 ---
 # [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  

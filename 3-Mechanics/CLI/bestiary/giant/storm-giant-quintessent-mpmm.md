@@ -1,19 +1,20 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/16
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Storm Giant Quintessent
+  - Storm Giant Quintessent
 ---
 # [Storm Giant Quintessent](3-Mechanics\CLI\bestiary\giant/storm-giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  

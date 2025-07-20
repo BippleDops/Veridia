@@ -1,17 +1,19 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Hammer of Thunderbolts"
-- "Maul of Thunderbolts"
-- "Warhammer of Thunderbolts"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Hammer of Thunderbolts
+  - Maul of Thunderbolts
+  - Warhammer of Thunderbolts
 ---
 # Hammer of Thunderbolts
 *Legendary (requires attunement)*  

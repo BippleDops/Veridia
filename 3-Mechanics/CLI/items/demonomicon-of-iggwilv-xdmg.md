@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Demonomicon of Iggwilv"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+aliases:
+  - Demonomicon of Iggwilv
 ---
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  

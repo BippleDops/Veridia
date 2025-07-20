@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/unknown
-aliases: 
-- "Catapult Munition"
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/unknown
+aliases:
+  - Catapult Munition
 ---
 # Catapult Munition
 *Adventuring gear*  

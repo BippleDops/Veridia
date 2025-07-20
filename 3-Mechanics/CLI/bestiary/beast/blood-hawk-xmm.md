@@ -1,21 +1,22 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/beast
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Blood Hawk
+  - Blood Hawk
 ---
 # [Blood Hawk](3-Mechanics\CLI\bestiary\beast/blood-hawk-xmm.md)
 *Source: Monster Manual (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

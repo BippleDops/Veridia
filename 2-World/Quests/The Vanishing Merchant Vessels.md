@@ -1,12 +1,15 @@
 ---
-tags: 
+type: quest
+status: active
+priority: medium
+tags:
   - quest
   - investigation
   - political
 aliases:
   - The Missing Ships
   - The Merchant Mystery
-cssclasses: 
+cssclasses:
   - quest-card
   - wide-page
 quest_type: Investigation
@@ -18,11 +21,11 @@ estimated_sessions: 4-6
 rewards:
   xp: 2000
   gold: 1500
-  items: 
-    - "Harbor Master's Seal"
-    - "Guild Favor Token"
+  items:
+    - Harbor Master's Seal
+    - Guild Favor Token
 objectives:
-  primary: 
+  primary:
     - Discover what happened to the three missing merchant vessels
     - Identify who is responsible for the disappearances
     - Recover the stolen cargo if possible
@@ -30,19 +33,19 @@ objectives:
     - Maintain diplomatic relations between the guilds
     - Protect Shadowhaven's trade reputation
     - Investigate the mysterious locked chest
-current_objective: "Interview witnesses at the Salty Anchor Tavern and examine the harbor records"
+current_objective: Interview witnesses at the Salty Anchor Tavern and examine the harbor records
 related_npcs:
-  - "[[Councillor Elara Brightwater]]"
-  - "[[Captain Marcus Steelhart]]"
-  - "[[Harbormaster Willem Tidecaller]]"
-  - "[[Lady Seraphina Goldleaf]]"
+  - '[[Councillor Elara Brightwater]]'
+  - '[[Captain Marcus Steelhart]]'
+  - '[[Harbormaster Willem Tidecaller]]'
+  - '[[Lady Seraphina Goldleaf]]'
 related_locations:
-  - "[[Shadowhaven]]"
-  - "[[The Salty Anchor Tavern]]"
-  - "[[Merchant's Rest Island]]"
+  - '[[Shadowhaven]]'
+  - '[[The Salty Anchor Tavern]]'
+  - '[[Merchant''s Rest Island]]'
 connected_quests:
-  - "[[The Arcane Disturbances]]"
-  - "[[Shadows in High Places]]"
+  - '[[The Arcane Disturbances]]'
+  - '[[Shadows in High Places]]'
 image_path: z_Assets/Quests/missing_vessels.jpg
 created: 2025-01-25 11:15
 modified: 2025-01-25 11:15

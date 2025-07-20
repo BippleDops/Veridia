@@ -1,20 +1,22 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Moon-Touched Sword"
-- "Moon-Touched Double-Bladed Scimitar"
-- "Moon-Touched Greatsword"
-- "Moon-Touched Longsword"
-- "Moon-Touched Rapier"
-- "Moon-Touched Scimitar"
-- "Moon-Touched Shortsword"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Moon-Touched Sword
+  - Moon-Touched Double-Bladed Scimitar
+  - Moon-Touched Greatsword
+  - Moon-Touched Longsword
+  - Moon-Touched Rapier
+  - Moon-Touched Scimitar
+  - Moon-Touched Shortsword
 ---
 # Moon-Touched Sword
 *Common*  

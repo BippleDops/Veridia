@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Quiver of Ehlonna"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Quiver of Ehlonna
 ---
 # Quiver of Ehlonna
 *Wondrous item, uncommon*  

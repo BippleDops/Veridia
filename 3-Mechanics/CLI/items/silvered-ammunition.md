@@ -1,19 +1,21 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Silvered Ammunition"
-- "Silvered Arrow"
-- "Silvered Bolt"
-- "Silvered Firearm Bullet"
-- "Silvered Needle"
-- "Silvered Sling Bullet"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/rarity/unknown
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Silvered Ammunition
+  - Silvered Arrow
+  - Silvered Bolt
+  - Silvered Firearm Bullet
+  - Silvered Needle
+  - Silvered Sling Bullet
 ---
 # Silvered Ammunition
 *Ammunition, minor*  

@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/lmop
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/lmop
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Ash Zombie
+  - Ash Zombie
 ---
 # [Ash Zombie](3-Mechanics\CLI\bestiary\undead/ash-zombie-lmop.md)
 *Source: Lost Mine of Phandelver p. 31*  

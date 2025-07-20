@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Command Amulet"
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/wondrous/other
+aliases:
+  - Command Amulet
 ---
 # Command Amulet
 

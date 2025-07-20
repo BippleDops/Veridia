@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/16
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/plant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Gulthias Blight
+  - Gulthias Blight
 ---
 # [Gulthias Blight](3-Mechanics\CLI\bestiary\plant/gulthias-blight-xmm.md)
 *Source: Monster Manual (2024) p. 45*  

@@ -1,14 +1,16 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-aliases: 
-- "Greater Silver Sword"
+  - ttrpg-cli/compendium/src/5e/mtf
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+aliases:
+  - Greater Silver Sword
 ---
 # Greater Silver Sword
 *Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature that has psionic ability)*  

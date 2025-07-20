@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Young Hook Horror
+  - Young Hook Horror
 ---
 # [Young Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/young-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  

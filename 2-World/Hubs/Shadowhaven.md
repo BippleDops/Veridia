@@ -1,12 +1,13 @@
 ---
-tags: 
+type: location
+tags:
   - location
   - city
   - hub
 aliases:
   - The City of Shadows
   - Haven
-cssclasses: 
+cssclasses:
   - location-card
   - wide-page
 location_type: city
@@ -22,10 +23,10 @@ districts:
   - Arcane District
   - The Undercity
 notable_npcs:
-  - "[[Councillor Elara Brightwater]]"
-  - "[[Master Thorne Blackforge]]" 
-  - "[[Lady Seraphina Goldleaf]]"
-  - "[[Whisper Jack]]"
+  - '[[Councillor Elara Brightwater]]'
+  - '[[Master Thorne Blackforge]]'
+  - '[[Lady Seraphina Goldleaf]]'
+  - '[[Whisper Jack]]'
 guilds:
   - Merchants Guild
   - Crafters Union

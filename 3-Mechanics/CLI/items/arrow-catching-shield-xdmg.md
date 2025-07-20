@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/shield/
-aliases: 
-- "Arrow-Catching Shield"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/shield/
+aliases:
+  - Arrow-Catching Shield
 ---
 # Arrow-Catching Shield
 *Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare (requires attunement)*  

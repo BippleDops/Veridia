@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Chalk (1 piece)"
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Chalk (1 piece)
 ---
 # Chalk (1 piece)
 *Adventuring gear*  

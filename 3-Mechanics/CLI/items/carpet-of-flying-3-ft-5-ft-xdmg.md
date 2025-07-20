@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/very-rare
-aliases: 
-- "Carpet of Flying, 3 ft. × 5 ft."
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/very-rare
+aliases:
+  - Carpet of Flying, 3 ft. × 5 ft.
 ---
 # Carpet of Flying, 3 ft. × 5 ft.
 *Wondrous item, very rare*  

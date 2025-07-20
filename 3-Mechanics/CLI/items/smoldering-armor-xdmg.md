@@ -1,27 +1,29 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Smoldering Armor"
-- "Smoldering Breastplate"
-- "Smoldering Chain Mail"
-- "Smoldering Chain Shirt"
-- "Smoldering Half Plate Armor"
-- "Smoldering Hide Armor"
-- "Smoldering Leather Armor"
-- "Smoldering Padded Armor"
-- "Smoldering Plate Armor"
-- "Smoldering Ring Mail"
-- "Smoldering Scale Mail"
-- "Smoldering Splint Armor"
-- "Smoldering Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Smoldering Armor
+  - Smoldering Breastplate
+  - Smoldering Chain Mail
+  - Smoldering Chain Shirt
+  - Smoldering Half Plate Armor
+  - Smoldering Hide Armor
+  - Smoldering Leather Armor
+  - Smoldering Padded Armor
+  - Smoldering Plate Armor
+  - Smoldering Ring Mail
+  - Smoldering Scale Mail
+  - Smoldering Splint Armor
+  - Smoldering Studded Leather Armor
 ---
 # Smoldering Armor
 *Common*  

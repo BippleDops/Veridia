@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-aliases: 
-- "Heward's Handy Spice Pouch"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/common
+aliases:
+  - Heward's Handy Spice Pouch
 ---
 # Heward's Handy Spice Pouch
 *Wondrous item, common*  

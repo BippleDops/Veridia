@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/titan
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/21
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/monstrosity/titan
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Astral Dreadnought
+  - Astral Dreadnought
 ---
 # [Astral Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  

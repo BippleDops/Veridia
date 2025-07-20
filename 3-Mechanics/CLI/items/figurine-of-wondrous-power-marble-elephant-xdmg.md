@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/rare
-aliases: 
-- "Figurine of Wondrous Power, Marble Elephant"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/rare
+aliases:
+  - Figurine of Wondrous Power, Marble Elephant
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, rare*  

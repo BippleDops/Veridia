@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Sword of Wounding"
-- "Glaive of Wounding"
-- "Greatsword of Wounding"
-- "Longsword of Wounding"
-- "Rapier of Wounding"
-- "Scimitar of Wounding"
-- "Shortsword of Wounding"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Sword of Wounding
+  - Glaive of Wounding
+  - Greatsword of Wounding
+  - Longsword of Wounding
+  - Rapier of Wounding
+  - Scimitar of Wounding
+  - Shortsword of Wounding
 ---
 # Sword of Wounding
 *Rare (requires attunement)*  

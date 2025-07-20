@@ -1,21 +1,24 @@
 ---
+type: quest
+status: active
+priority: medium
 tags:
   - Category/Quest
-MyContainer:
-  - "[[z_Templates/World Builder Templates/Template-PointofInterest.md|Template-PointofInterest]]"
-  - "[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]"
-  - "[[z_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]"
-MyCategory:
-obsidianUIMode: preview
-questObtained:
-questStatus: Not Started
-questGiver:
-questLocationObtained:
-questSessionObtained:
-questNotes:
-questLootAvail:
-questLookEarned:
-NoteIcon: quest
+my-container:
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest.md|Template-PointofInterest]]'
+  - '[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
+  - '[[z_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
+my-category: null
+obsidian-u-i-mode: preview
+quest-obtained: null
+quest-status: Not Started
+quest-giver: null
+quest-location-obtained: null
+quest-session-obtained: null
+quest-notes: null
+quest-loot-avail: null
+quest-look-earned: null
+note-icon: quest
 ---
 
 <%*

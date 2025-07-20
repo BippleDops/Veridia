@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon/metallic
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/24
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/dragon/metallic
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Ancient Gold Dragon
+  - Ancient Gold Dragon
 ---
 # [Ancient Gold Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 146. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

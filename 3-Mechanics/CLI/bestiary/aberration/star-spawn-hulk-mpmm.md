@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Star Spawn Hulk
+  - Star Spawn Hulk
 ---
 # [Star Spawn Hulk](3-Mechanics\CLI\bestiary\aberration/star-spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Aboleth
+  - Aboleth
 ---
 # [Aboleth](3-Mechanics\CLI\bestiary\aberration/aboleth-xmm.md)
 *Source: Monster Manual (2024) p. 12. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

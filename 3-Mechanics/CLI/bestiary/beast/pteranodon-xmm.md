@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast/dinosaur
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast/dinosaur
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Pteranodon
+  - Pteranodon
 ---
 # [Pteranodon](3-Mechanics\CLI\bestiary\beast/pteranodon-xmm.md)
 *Source: Monster Manual (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

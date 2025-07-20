@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/wand
-aliases: 
-- "Wand of the War Mage"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/varies
+  - ttrpg-cli/item/wondrous/wand
+aliases:
+  - Wand of the War Mage
 ---
 # Wand of the War Mage
 *Wand (requires attunement by a spellcaster)*  

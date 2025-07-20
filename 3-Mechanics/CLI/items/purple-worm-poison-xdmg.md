@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Purple Worm Poison"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Purple Worm Poison
 ---
 # Purple Worm Poison
 *Adventuring gear, poison (injury)*  

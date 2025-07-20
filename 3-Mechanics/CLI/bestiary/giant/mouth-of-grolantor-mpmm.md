@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant/hill-giant
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant/hill-giant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Mouth of Grolantor
+  - Mouth of Grolantor
 ---
 # [Mouth of Grolantor](3-Mechanics\CLI\bestiary\giant/mouth-of-grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  

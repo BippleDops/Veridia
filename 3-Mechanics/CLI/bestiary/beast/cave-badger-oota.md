@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Cave Badger
+  - Cave Badger
 ---
 # [Cave Badger](3-Mechanics\CLI\bestiary\beast/cave-badger-oota.md)
 *Source: Out of the Abyss p. 96*  

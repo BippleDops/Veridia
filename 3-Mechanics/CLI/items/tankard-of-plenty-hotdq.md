@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/hotdq
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/other
-aliases: 
-- "Tankard of Plenty"
+  - ttrpg-cli/compendium/src/5e/hotdq
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/wondrous/other
+aliases:
+  - Tankard of Plenty
 ---
 # Tankard of Plenty
 

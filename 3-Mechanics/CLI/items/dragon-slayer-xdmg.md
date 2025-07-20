@@ -1,72 +1,74 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Dragon Slayer"
-- "Dragon Slayer Antimatter Rifle"
-- "Dragon Slayer Automatic Rifle"
-- "Dragon Slayer Battleaxe"
-- "Dragon Slayer Blowgun"
-- "Dragon Slayer Club"
-- "Dragon Slayer Dagger"
-- "Dragon Slayer Dart"
-- "Dragon Slayer Double-Bladed Scimitar"
-- "Dragon Slayer Flail"
-- "Dragon Slayer Glaive"
-- "Dragon Slayer Greataxe"
-- "Dragon Slayer Greatclub"
-- "Dragon Slayer Greatsword"
-- "Dragon Slayer Halberd"
-- "Dragon Slayer Hand Crossbow"
-- "Dragon Slayer Handaxe"
-- "Dragon Slayer Heavy Crossbow"
-- "Dragon Slayer Hooked Shortspear"
-- "Dragon Slayer Hoopak"
-- "Dragon Slayer Hunting Rifle"
-- "Dragon Slayer Javelin"
-- "Dragon Slayer Lance"
-- "Dragon Slayer Laser Pistol"
-- "Dragon Slayer Laser Rifle"
-- "Dragon Slayer Light Crossbow"
-- "Dragon Slayer Light Hammer"
-- "Dragon Slayer Light Repeating Crossbow"
-- "Dragon Slayer Longbow"
-- "Dragon Slayer Longsword"
-- "Dragon Slayer Mace"
-- "Dragon Slayer Maul"
-- "Dragon Slayer Morningstar"
-- "Dragon Slayer Musket"
-- "Dragon Slayer Pike"
-- "Dragon Slayer Pistol"
-- "Dragon Slayer Quarterstaff"
-- "Dragon Slayer Rapier"
-- "Dragon Slayer Revolver"
-- "Dragon Slayer Scimitar"
-- "Dragon Slayer Semiautomatic Pistol"
-- "Dragon Slayer Shortbow"
-- "Dragon Slayer Shortsword"
-- "Dragon Slayer Shotgun"
-- "Dragon Slayer Sickle"
-- "Dragon Slayer Sling"
-- "Dragon Slayer Spear"
-- "Dragon Slayer Staff"
-- "Dragon Slayer Trident"
-- "Dragon Slayer War Pick"
-- "Dragon Slayer Warhammer"
-- "Dragon Slayer Whip"
-- "Dragon Slayer Wooden Staff"
-- "Dragon Slayer Yklwa"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Dragon Slayer
+  - Dragon Slayer Antimatter Rifle
+  - Dragon Slayer Automatic Rifle
+  - Dragon Slayer Battleaxe
+  - Dragon Slayer Blowgun
+  - Dragon Slayer Club
+  - Dragon Slayer Dagger
+  - Dragon Slayer Dart
+  - Dragon Slayer Double-Bladed Scimitar
+  - Dragon Slayer Flail
+  - Dragon Slayer Glaive
+  - Dragon Slayer Greataxe
+  - Dragon Slayer Greatclub
+  - Dragon Slayer Greatsword
+  - Dragon Slayer Halberd
+  - Dragon Slayer Hand Crossbow
+  - Dragon Slayer Handaxe
+  - Dragon Slayer Heavy Crossbow
+  - Dragon Slayer Hooked Shortspear
+  - Dragon Slayer Hoopak
+  - Dragon Slayer Hunting Rifle
+  - Dragon Slayer Javelin
+  - Dragon Slayer Lance
+  - Dragon Slayer Laser Pistol
+  - Dragon Slayer Laser Rifle
+  - Dragon Slayer Light Crossbow
+  - Dragon Slayer Light Hammer
+  - Dragon Slayer Light Repeating Crossbow
+  - Dragon Slayer Longbow
+  - Dragon Slayer Longsword
+  - Dragon Slayer Mace
+  - Dragon Slayer Maul
+  - Dragon Slayer Morningstar
+  - Dragon Slayer Musket
+  - Dragon Slayer Pike
+  - Dragon Slayer Pistol
+  - Dragon Slayer Quarterstaff
+  - Dragon Slayer Rapier
+  - Dragon Slayer Revolver
+  - Dragon Slayer Scimitar
+  - Dragon Slayer Semiautomatic Pistol
+  - Dragon Slayer Shortbow
+  - Dragon Slayer Shortsword
+  - Dragon Slayer Shotgun
+  - Dragon Slayer Sickle
+  - Dragon Slayer Sling
+  - Dragon Slayer Spear
+  - Dragon Slayer Staff
+  - Dragon Slayer Trident
+  - Dragon Slayer War Pick
+  - Dragon Slayer Warhammer
+  - Dragon Slayer Whip
+  - Dragon Slayer Wooden Staff
+  - Dragon Slayer Yklwa
 ---
 # Dragon Slayer
 *Rare*  

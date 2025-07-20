@@ -1,21 +1,22 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-spell
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/enchantment
 classes:
-- Bard
-- Sorcerer
-- Warlock
-- Wizard
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 aliases:
-- Dominate Monster
+  - Dominate Monster
 ---
 # Dominate Monster
 *8th-level, Enchantment*  

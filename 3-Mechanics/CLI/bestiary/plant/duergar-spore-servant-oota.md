@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/plant
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Duergar Spore Servant
+  - Duergar Spore Servant
 ---
 # [Duergar Spore Servant](3-Mechanics\CLI\bestiary\plant/duergar-spore-servant-oota.md)
 *Source: Out of the Abyss p. 229*  

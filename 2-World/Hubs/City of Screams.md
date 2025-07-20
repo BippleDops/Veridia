@@ -1,10 +1,11 @@
 ---
+type: location
 tags:
   - Category/Hub
 container: Test
-MyContainer: "[[2-World/Regions/Island of Skulls.md|Island of Skulls]]"
-MyCategory: City +1500
-obsidianUIMode: preview
+my-container: '[[2-World/Regions/Island of Skulls.md|Island of Skulls]]'
+my-category: City +1500
+obsidian-u-i-mode: preview
 ---
 
 

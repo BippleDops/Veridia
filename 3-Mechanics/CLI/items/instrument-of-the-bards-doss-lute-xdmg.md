@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Instrument of the Bards, Doss Lute"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Instrument of the Bards, Doss Lute
 ---
 # Instrument of the Bards, Doss Lute
 *Wondrous item, uncommon (requires attunement by a bard)*  

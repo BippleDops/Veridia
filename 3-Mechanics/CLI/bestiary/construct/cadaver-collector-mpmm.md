@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/14
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Cadaver Collector
+  - Cadaver Collector
 ---
 # [Cadaver Collector](3-Mechanics\CLI\bestiary\construct/cadaver-collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  

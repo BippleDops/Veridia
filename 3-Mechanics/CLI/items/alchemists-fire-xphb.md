@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Alchemist's Fire"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Alchemist's Fire
 ---
 # Alchemist's Fire
 *Adventuring gear*  

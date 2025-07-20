@@ -1,73 +1,75 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Holy Avenger"
-- "Holy Avenger Antimatter Rifle"
-- "Holy Avenger Automatic Rifle"
-- "Holy Avenger Battleaxe"
-- "Holy Avenger Blowgun"
-- "Holy Avenger Club"
-- "Holy Avenger Dagger"
-- "Holy Avenger Dart"
-- "Holy Avenger Double-Bladed Scimitar"
-- "Holy Avenger Flail"
-- "Holy Avenger Glaive"
-- "Holy Avenger Greataxe"
-- "Holy Avenger Greatclub"
-- "Holy Avenger Greatsword"
-- "Holy Avenger Halberd"
-- "Holy Avenger Hand Crossbow"
-- "Holy Avenger Handaxe"
-- "Holy Avenger Heavy Crossbow"
-- "Holy Avenger Hooked Shortspear"
-- "Holy Avenger Hoopak"
-- "Holy Avenger Hunting Rifle"
-- "Holy Avenger Javelin"
-- "Holy Avenger Lance"
-- "Holy Avenger Laser Pistol"
-- "Holy Avenger Laser Rifle"
-- "Holy Avenger Light Crossbow"
-- "Holy Avenger Light Hammer"
-- "Holy Avenger Light Repeating Crossbow"
-- "Holy Avenger Longbow"
-- "Holy Avenger Longsword"
-- "Holy Avenger Mace"
-- "Holy Avenger Maul"
-- "Holy Avenger Morningstar"
-- "Holy Avenger Musket"
-- "Holy Avenger Pike"
-- "Holy Avenger Pistol"
-- "Holy Avenger Quarterstaff"
-- "Holy Avenger Rapier"
-- "Holy Avenger Revolver"
-- "Holy Avenger Scimitar"
-- "Holy Avenger Semiautomatic Pistol"
-- "Holy Avenger Shortbow"
-- "Holy Avenger Shortsword"
-- "Holy Avenger Shotgun"
-- "Holy Avenger Sickle"
-- "Holy Avenger Sling"
-- "Holy Avenger Spear"
-- "Holy Avenger Staff"
-- "Holy Avenger Trident"
-- "Holy Avenger War Pick"
-- "Holy Avenger Warhammer"
-- "Holy Avenger Whip"
-- "Holy Avenger Wooden Staff"
-- "Holy Avenger Yklwa"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Holy Avenger
+  - Holy Avenger Antimatter Rifle
+  - Holy Avenger Automatic Rifle
+  - Holy Avenger Battleaxe
+  - Holy Avenger Blowgun
+  - Holy Avenger Club
+  - Holy Avenger Dagger
+  - Holy Avenger Dart
+  - Holy Avenger Double-Bladed Scimitar
+  - Holy Avenger Flail
+  - Holy Avenger Glaive
+  - Holy Avenger Greataxe
+  - Holy Avenger Greatclub
+  - Holy Avenger Greatsword
+  - Holy Avenger Halberd
+  - Holy Avenger Hand Crossbow
+  - Holy Avenger Handaxe
+  - Holy Avenger Heavy Crossbow
+  - Holy Avenger Hooked Shortspear
+  - Holy Avenger Hoopak
+  - Holy Avenger Hunting Rifle
+  - Holy Avenger Javelin
+  - Holy Avenger Lance
+  - Holy Avenger Laser Pistol
+  - Holy Avenger Laser Rifle
+  - Holy Avenger Light Crossbow
+  - Holy Avenger Light Hammer
+  - Holy Avenger Light Repeating Crossbow
+  - Holy Avenger Longbow
+  - Holy Avenger Longsword
+  - Holy Avenger Mace
+  - Holy Avenger Maul
+  - Holy Avenger Morningstar
+  - Holy Avenger Musket
+  - Holy Avenger Pike
+  - Holy Avenger Pistol
+  - Holy Avenger Quarterstaff
+  - Holy Avenger Rapier
+  - Holy Avenger Revolver
+  - Holy Avenger Scimitar
+  - Holy Avenger Semiautomatic Pistol
+  - Holy Avenger Shortbow
+  - Holy Avenger Shortsword
+  - Holy Avenger Shotgun
+  - Holy Avenger Sickle
+  - Holy Avenger Sling
+  - Holy Avenger Spear
+  - Holy Avenger Staff
+  - Holy Avenger Trident
+  - Holy Avenger War Pick
+  - Holy Avenger Warhammer
+  - Holy Avenger Whip
+  - Holy Avenger Wooden Staff
+  - Holy Avenger Yklwa
 ---
 # Holy Avenger
 *Legendary (requires attunement by a paladin)*  

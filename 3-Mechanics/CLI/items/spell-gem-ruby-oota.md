@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/item/attunement/optional
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Spell Gem (Ruby)"
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/item/attunement/optional
+  - ttrpg-cli/item/rarity/legendary
+aliases:
+  - Spell Gem (Ruby)
 ---
 # Spell Gem (Ruby)
 *Wondrous item, legendary (attunement optional)*  

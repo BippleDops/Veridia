@@ -1,27 +1,29 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Cast-Off Armor"
-- "Cast-Off Breastplate"
-- "Cast-Off Chain Mail"
-- "Cast-Off Chain Shirt"
-- "Cast-Off Half Plate Armor"
-- "Cast-Off Hide Armor"
-- "Cast-Off Leather Armor"
-- "Cast-Off Padded Armor"
-- "Cast-Off Plate Armor"
-- "Cast-Off Ring Mail"
-- "Cast-Off Scale Mail"
-- "Cast-Off Splint Armor"
-- "Cast-Off Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Cast-Off Armor
+  - Cast-Off Breastplate
+  - Cast-Off Chain Mail
+  - Cast-Off Chain Shirt
+  - Cast-Off Half Plate Armor
+  - Cast-Off Hide Armor
+  - Cast-Off Leather Armor
+  - Cast-Off Padded Armor
+  - Cast-Off Plate Armor
+  - Cast-Off Ring Mail
+  - Cast-Off Scale Mail
+  - Cast-Off Splint Armor
+  - Cast-Off Studded Leather Armor
 ---
 # Cast-Off Armor
 *Common*  

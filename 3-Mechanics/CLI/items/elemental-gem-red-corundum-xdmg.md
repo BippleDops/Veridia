@@ -1,11 +1,13 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/uncommon
-aliases: 
-- "Elemental Gem, Red Corundum"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/uncommon
+aliases:
+  - Elemental Gem, Red Corundum
 ---
 # Elemental Gem, Red Corundum
 *Wondrous item, uncommon*  

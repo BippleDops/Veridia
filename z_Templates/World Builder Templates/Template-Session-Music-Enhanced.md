@@ -1,41 +1,40 @@
 ---
+type: session
 tags:
   - session
-  - "session-{{VALUE:session_number}}"
+  - session-{{VALUE:session_number}}
   - campaign
-date: {{date:YYYY-MM-DD}}
-session_number: {{VALUE:session_number}}
-campaign: "{{VALUE:campaign_name}}"
-duration: {{VALUE:duration}}
-players_present: 
-  - "{{VALUE:player_1}}"
-  - "{{VALUE:player_2}}"
-  - "{{VALUE:player_3}}"
-  - "{{VALUE:player_4}}"
-dm_prep_time: {{VALUE:prep_time}}
-session_rating: 
-session_mood: {{VALUE:overall_mood}}
+date:
+  '[object Object]': null
+session_number:
+  '[object Object]': null
+campaign: '{{VALUE:campaign_name}}'
+duration:
+  '[object Object]': null
+players_present:
+  - '{{VALUE:player_1}}'
+  - '{{VALUE:player_2}}'
+  - '{{VALUE:player_3}}'
+  - '{{VALUE:player_4}}'
+dm_prep_time:
+  '[object Object]': null
+session_rating: null
+session_mood:
+  '[object Object]': null
 music_enabled: true
-musicLog: []
-# NPCs encountered this session
-npcsMet: []
-# Locations visited
-locationsVisited: []  
-# Quests advanced
-questsAdvanced: []
-# Items gained/lost
+music-log: []
+npcs-met: []
+locations-visited: []
+quests-advanced: []
 loot: []
-# Combat encounters
 combats: []
-# Key story beats
-plotPoints: []
-# Player achievements
+plot-points: []
 achievements: []
-# Cliffhanger for next session  
-cliffhanger: ""
-# Meta information
-created: {{date:YYYY-MM-DD HH:mm}}
-modified: {{date:YYYY-MM-DD HH:mm}}
+cliffhanger: ''
+created:
+  '[object Object]': null
+modified:
+  '[object Object]': null
 ---
 
 # 🎲 Session {{VALUE:session_number}} - {{title}}

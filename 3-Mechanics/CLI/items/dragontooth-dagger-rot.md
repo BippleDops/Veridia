@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Dragontooth Dagger"
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Dragontooth Dagger
 ---
 # Dragontooth Dagger
 *Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), rare*  

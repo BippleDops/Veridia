@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/air
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/air
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/elemental
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Aarakocra Aeromancer
+  - Aarakocra Aeromancer
 ---
 # [Aarakocra Aeromancer](3-Mechanics\CLI\bestiary\elemental/aarakocra-aeromancer-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

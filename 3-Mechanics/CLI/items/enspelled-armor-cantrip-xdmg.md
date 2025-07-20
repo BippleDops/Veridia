@@ -1,28 +1,30 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Enspelled Armor (Cantrip)"
-- "Enspelled (Cantrip) Breastplate"
-- "Enspelled (Cantrip) Chain Mail"
-- "Enspelled (Cantrip) Chain Shirt"
-- "Enspelled (Cantrip) Half Plate Armor"
-- "Enspelled (Cantrip) Hide Armor"
-- "Enspelled (Cantrip) Leather Armor"
-- "Enspelled (Cantrip) Padded Armor"
-- "Enspelled (Cantrip) Plate Armor"
-- "Enspelled (Cantrip) Ring Mail"
-- "Enspelled (Cantrip) Scale Mail"
-- "Enspelled (Cantrip) Splint Armor"
-- "Enspelled (Cantrip) Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Enspelled Armor (Cantrip)
+  - Enspelled (Cantrip) Breastplate
+  - Enspelled (Cantrip) Chain Mail
+  - Enspelled (Cantrip) Chain Shirt
+  - Enspelled (Cantrip) Half Plate Armor
+  - Enspelled (Cantrip) Hide Armor
+  - Enspelled (Cantrip) Leather Armor
+  - Enspelled (Cantrip) Padded Armor
+  - Enspelled (Cantrip) Plate Armor
+  - Enspelled (Cantrip) Ring Mail
+  - Enspelled (Cantrip) Scale Mail
+  - Enspelled (Cantrip) Splint Armor
+  - Enspelled (Cantrip) Studded Leather Armor
 ---
 # Enspelled Armor (Cantrip)
 *Uncommon (requires attunement)*  

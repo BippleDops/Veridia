@@ -1,18 +1,19 @@
 ---
+type: pc
+status: Active
 aliases:
   - Bob
 tags:
   - Category/Player
-Player: Bob
-Role: Player
+player: Bob
+role: Player
 level: 12
 hp: 60
 max_hp: 71
 ac: 66
 modifier: 2
 pasperc: 13
-Status: Active
-PlayerKnownLanguages:
+player-known-languages:
   - Celestial
   - Common
   - Dwarvish
@@ -20,15 +21,15 @@ faction_standing:
   Faction Name 1: 1
   Faction Name 3: 3
 char_race: Human
-char_class:
+char_class: null
 char_gender: Male
 char_status: Alive
 char_age: Young Adult
 char_items:
-  - "[[Locate the Eye Ball|Locate the Eye Ball]]"
-  - "[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"
-Connected_Quests: []
-Connected_Groups: []
+  - '[[Locate the Eye Ball|Locate the Eye Ball]]'
+  - '[[z_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
+connected_-quests: []
+connected_-groups: []
 parents:
   - Father
   - Mother
@@ -43,8 +44,8 @@ allies:
 siblings:
   - Brother
   - Sister
-obsidianUIMode: preview
-MyContainer:
+obsidian-u-i-mode: preview
+my-container: null
 ---
 
 > [!NOTE|div-m] Player Name:  `Placeholder`

@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/food-and-drink
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Fine Wine (bottle)"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/food-and-drink
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Fine Wine (bottle)
 ---
 # Fine Wine (bottle)
 *Food and drink*  

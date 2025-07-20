@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/gehenna
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/gehenna
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/yugoloth
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Mezzoloth
+  - Mezzoloth
 ---
 # [Mezzoloth](3-Mechanics\CLI\bestiary\fiend/mezzoloth-xmm.md)
 *Source: Monster Manual (2024) p. 211*  

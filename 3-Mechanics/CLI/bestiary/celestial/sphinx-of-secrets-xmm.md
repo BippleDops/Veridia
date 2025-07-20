@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/upper
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/celestial
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Sphinx of Secrets
+  - Sphinx of Secrets
 ---
 # [Sphinx of Secrets](3-Mechanics\CLI\bestiary\celestial/sphinx-of-secrets-xmm.md)
 *Source: Monster Manual (2024) p. 292*  

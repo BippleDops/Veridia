@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Entertainer's Pack"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Entertainer's Pack
 ---
 # Entertainer's Pack
 *Adventuring gear*  

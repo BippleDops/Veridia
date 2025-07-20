@@ -1,20 +1,22 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Moonblade"
-- "Moonblade Greatsword"
-- "Moonblade Longsword"
-- "Moonblade Rapier"
-- "Moonblade Scimitar"
-- "Moonblade Shortsword"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Moonblade
+  - Moonblade Greatsword
+  - Moonblade Longsword
+  - Moonblade Rapier
+  - Moonblade Scimitar
+  - Moonblade Shortsword
 ---
 # Moonblade
 *Legendary (requires attunement by a creature of the weapon's choice)*  

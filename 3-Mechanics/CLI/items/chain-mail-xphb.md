@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Chain Mail"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Chain Mail
 ---
 # Chain Mail
 *Heavy armor*  

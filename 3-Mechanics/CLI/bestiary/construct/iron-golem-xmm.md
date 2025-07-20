@@ -1,16 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/16
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Iron Golem
+  - Iron Golem
 ---
 # [Iron Golem](3-Mechanics\CLI\bestiary\construct/iron-golem-xmm.md)
 *Source: Monster Manual (2024) p. 181. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

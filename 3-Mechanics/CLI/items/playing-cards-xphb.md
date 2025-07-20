@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/gaming-set
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Playing Cards"
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/gaming-set
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Playing Cards
 ---
 # Playing Cards
 *Gaming set*  

@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Grick Ancient
+  - Grick Ancient
 ---
 # [Grick Ancient](3-Mechanics\CLI\bestiary\aberration/grick-ancient-xmm.md)
 *Source: Monster Manual (2024) p. 158*  

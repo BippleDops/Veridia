@@ -1,18 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/shadowfell
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/shadowfell
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/dragon
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Juvenile Shadow Dragon
+  - Juvenile Shadow Dragon
 ---
 # [Juvenile Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/juvenile-shadow-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 275*  

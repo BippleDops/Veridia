@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/abyss
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fiend/demon
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/abyss
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Quasit
+  - Quasit
 ---
 # [Quasit](3-Mechanics\CLI\bestiary\fiend/quasit-xmm.md)
 *Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

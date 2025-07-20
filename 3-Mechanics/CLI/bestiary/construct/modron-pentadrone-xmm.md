@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/mechanus
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/mechanus
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Modron Pentadrone
+  - Modron Pentadrone
 ---
 # [Modron Pentadrone](3-Mechanics\CLI\bestiary\construct/modron-pentadrone-xmm.md)
 *Source: Monster Manual (2024) p. 218*  

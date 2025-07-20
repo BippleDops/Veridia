@@ -1,28 +1,30 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Demon Armor"
-- "Demon Breastplate"
-- "Demon Chain Mail"
-- "Demon Chain Shirt"
-- "Demon Half Plate Armor"
-- "Demon Hide Armor"
-- "Demon Leather Armor"
-- "Demon Padded Armor"
-- "Demon Plate Armor"
-- "Demon Ring Mail"
-- "Demon Scale Mail"
-- "Demon Splint Armor"
-- "Demon Studded Leather Armor"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Demon Armor
+  - Demon Breastplate
+  - Demon Chain Mail
+  - Demon Chain Shirt
+  - Demon Half Plate Armor
+  - Demon Hide Armor
+  - Demon Leather Armor
+  - Demon Padded Armor
+  - Demon Plate Armor
+  - Demon Ring Mail
+  - Demon Scale Mail
+  - Demon Splint Armor
+  - Demon Studded Leather Armor
 ---
 # Demon Armor
 *Cursed item, very rare (requires attunement)*  

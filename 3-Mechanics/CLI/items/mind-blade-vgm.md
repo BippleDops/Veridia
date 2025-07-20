@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Mind Blade"
-- "Mind Blade Double-Bladed Scimitar"
-- "Mind Blade Greatsword"
-- "Mind Blade Longsword"
-- "Mind Blade Rapier"
-- "Mind Blade Scimitar"
-- "Mind Blade Shortsword"
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Mind Blade
+  - Mind Blade Double-Bladed Scimitar
+  - Mind Blade Greatsword
+  - Mind Blade Longsword
+  - Mind Blade Rapier
+  - Mind Blade Scimitar
+  - Mind Blade Shortsword
 ---
 # Mind Blade
 *Rare (requires attunement by a specific individual)*  

@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-aliases: 
-- "Murgaxor's Orb"
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+aliases:
+  - Murgaxor's Orb
 ---
 # Murgaxor's Orb
 *Wondrous item, cursed item, legendary (requires attunement)*  

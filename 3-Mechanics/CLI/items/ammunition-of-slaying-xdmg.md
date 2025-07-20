@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "Ammunition of Slaying"
-- "Arrow of Slaying"
-- "Bolt of Slaying"
-- "Energy Cell of Slaying"
-- "Firearm Bullet of Slaying"
-- "Needle of Slaying"
-- "Sling Bullet of Slaying"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/gear/ammunition-firearm
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - Ammunition of Slaying
+  - Arrow of Slaying
+  - Bolt of Slaying
+  - Energy Cell of Slaying
+  - Firearm Bullet of Slaying
+  - Needle of Slaying
+  - Sling Bullet of Slaying
 ---
 # Ammunition of Slaying
 *Ammunition, very rare*  

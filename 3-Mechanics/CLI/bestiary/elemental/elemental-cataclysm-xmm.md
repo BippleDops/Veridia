@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/environment/elemental-chaos
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental/titan
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/22
+  - ttrpg-cli/monster/environment/elemental-chaos
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/elemental/titan
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Elemental Cataclysm
+  - Elemental Cataclysm
 ---
 # [Elemental Cataclysm](3-Mechanics\CLI\bestiary\elemental/elemental-cataclysm-xmm.md)
 *Source: Monster Manual (2024) p. 111*  

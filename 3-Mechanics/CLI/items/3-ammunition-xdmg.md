@@ -1,21 +1,23 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/generic-variant
-aliases: 
-- "+3 Ammunition"
-- "+3 Arrow"
-- "+3 Bolt"
-- "+3 Energy Cell"
-- "+3 Firearm Bullet"
-- "+3 Needle"
-- "+3 Sling Bullet"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/gear/ammunition-firearm
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/generic-variant
+aliases:
+  - +3 Ammunition
+  - +3 Arrow
+  - +3 Bolt
+  - +3 Energy Cell
+  - +3 Firearm Bullet
+  - +3 Needle
+  - +3 Sling Bullet
 ---
 # +3 Ammunition
 *Ammunition, very rare*  

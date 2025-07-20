@@ -1,17 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast/dinosaur
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast/dinosaur
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Hadrosaurus
+  - Hadrosaurus
 ---
 # [Hadrosaurus](3-Mechanics\CLI\bestiary\beast/hadrosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  

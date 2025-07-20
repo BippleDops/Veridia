@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
-aliases: 
-- "Bottle stopper cork embossed with gold leaf and set with amethysts"
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/gear/treasure-art-object
+  - ttrpg-cli/item/rarity/none
+aliases:
+  - Bottle stopper cork embossed with gold leaf and set with amethysts
 ---
 # Bottle stopper cork embossed with gold leaf and set with amethysts
 *Treasure (art object)*  

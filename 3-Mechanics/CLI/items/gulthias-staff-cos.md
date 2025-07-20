@@ -1,13 +1,15 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/simple
-aliases: 
-- "Gulthias Staff"
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/simple
+aliases:
+  - Gulthias Staff
 ---
 # Gulthias Staff
 *Staff, weapon, rare (requires attunement)*  

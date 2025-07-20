@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Pest Mascot
+  - Pest Mascot
 ---
 # [Pest Mascot](3-Mechanics\CLI\bestiary\monstrosity/pest-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 203*  

@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Animated Tile Chimera
+  - Animated Tile Chimera
 ---
 # [Animated Tile Chimera](3-Mechanics\CLI\bestiary\monstrosity/animated-tile-chimera-rot.md)
 *Source: The Rise of Tiamat p. 42*  

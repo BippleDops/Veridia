@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-aliases: 
-- "Mask of the Dragon Queen"
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+aliases:
+  - Mask of the Dragon Queen
 ---
 # Mask of the Dragon Queen
 *Wondrous item, artifact (requires attunement)*  

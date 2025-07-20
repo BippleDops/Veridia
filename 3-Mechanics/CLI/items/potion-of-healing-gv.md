@@ -1,12 +1,14 @@
 ---
-obsidianUIMode: preview
+type: item
+attunement: false
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/potion
-aliases: 
-- "Potion of Healing (*)"
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/varies
+  - ttrpg-cli/item/wondrous/potion
+aliases:
+  - Potion of Healing (*)
 ---
 # Potion of Healing (*)
 *Potion*  

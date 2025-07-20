@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Giant Riding Lizard
+  - Giant Riding Lizard
 ---
 # [Giant Riding Lizard](3-Mechanics\CLI\bestiary\beast/giant-riding-lizard-oota.md)
 *Source: Out of the Abyss p. 131*  

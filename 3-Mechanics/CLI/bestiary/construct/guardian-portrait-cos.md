@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Guardian Portrait
+  - Guardian Portrait
 ---
 # [Guardian Portrait](3-Mechanics\CLI\bestiary\construct/guardian-portrait-cos.md)
 *Source: Curse of Strahd p. 227*  

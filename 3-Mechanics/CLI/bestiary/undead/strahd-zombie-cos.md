@@ -1,15 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
 statblock: inline
-statblock-link: "#^statblock"
+statblock-link: '#^statblock'
 aliases:
-- Strahd Zombie
+  - Strahd Zombie
 ---
 # [Strahd Zombie](3-Mechanics\CLI\bestiary\undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  

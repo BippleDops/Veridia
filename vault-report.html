@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Obsidian TTRPG Vault Report</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      color: #333;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #f5f5f5;
+    }
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 30px;
+      border-radius: 10px;
+      margin-bottom: 30px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    h1 { margin: 0; font-size: 2.5em; }
+    .subtitle { opacity: 0.9; margin-top: 10px; }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+    .stat-card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      transition: transform 0.2s;
+    }
+    .stat-card:hover { transform: translateY(-2px); }
+    .stat-number {
+      font-size: 2.5em;
+      font-weight: bold;
+      color: #667eea;
+      margin: 10px 0;
+    }
+    .stat-label { color: #666; font-size: 0.9em; }
+    .issue-section {
+      background: white;
+      padding: 25px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .issue-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+    .issue-count {
+      background: #ff6b6b;
+      color: white;
+      padding: 5px 15px;
+      border-radius: 20px;
+      font-size: 0.9em;
+    }
+    .issue-list {
+      max-height: 300px;
+      overflow-y: auto;
+      border: 1px solid #eee;
+      border-radius: 4px;
+      padding: 10px;
+    }
+    .issue-item {
+      padding: 5px 0;
+      border-bottom: 1px solid #f0f0f0;
+      font-size: 0.9em;
+    }
+    .issue-item:last-child { border-bottom: none; }
+    .progress-bar {
+      width: 100%;
+      height: 20px;
+      background: #e0e0e0;
+      border-radius: 10px;
+      overflow: hidden;
+      margin: 10px 0;
+    }
+    .progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #4caf50, #66bb6a);
+      transition: width 0.3s;
+    }
+    .action-buttons {
+      display: flex;
+      gap: 10px;
+      margin-top: 30px;
+    }
+    .button {
+      padding: 12px 24px;
+      border: none;
+      border-radius: 6px;
+      font-size: 1em;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .button-primary {
+      background: #667eea;
+      color: white;
+    }
+    .button-primary:hover { background: #5a67d8; }
+    .button-secondary {
+      background: #e0e0e0;
+      color: #333;
+    }
+    .button-secondary:hover { background: #d0d0d0; }
+    .footer {
+      text-align: center;
+      color: #666;
+      margin-top: 40px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🏰 Obsidian TTRPG Vault Report</h1>
+    <div class="subtitle">Generated on 7/19/2025, 9:52:13 PM</div>
+  </div>
+
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="stat-label">Total Notes</div>
+      <div class="stat-number">4882</div>
+      <div class="stat-label">Markdown files in vault</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Vault Health</div>
+      <div class="stat-number">0%</div>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width: 0%"></div>
+      </div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Broken Links</div>
+      <div class="stat-number">7721</div>
+      <div class="stat-label">Wiki + Markdown links</div>
+    </div>
+    <div class="stat-card">
+      <div class="stat-label">Missing Assets</div>
+      <div class="stat-number">3258</div>
+      <div class="stat-label">Images and media files</div>
+    </div>
+  </div>
+
+  
+  <div class="issue-section">
+    <div class="issue-header">
+      <h2>🔗 Broken Wiki Links</h2>
+      <span class="issue-count">100 issues</span>
+    </div>
+    <div class="issue-list">
+      
+        <div class="issue-item">
+          <strong>[[fighter gemmy.png]]</strong> in 0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon2.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon19.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon12.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon13.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon20.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon10.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon5.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon17.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[dungeon3.png]]</strong> in 0-Scratch Notes/Random Dungeon.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[documentation/frontmatter schema]]</strong> in 00-Home Dashboard.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[documentation/vault style guide]]</strong> in 00-Home Dashboard.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[world-map-${date.now()}.png]]</strong> in 1-DM Toolkit/API Integration Guide.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[${map.path}]]</strong> in 1-DM Toolkit/API Integration Guide.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[${f.leader}]]</strong> in 1-DM Toolkit/Advanced Political Intrigue Engine.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[${f.primary_rival}]]</strong> in 1-DM Toolkit/Advanced Political Intrigue Engine.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[the society of the void]]</strong> in 1-DM Toolkit/Advanced Political Intrigue Engine.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[combat rules]]</strong> in 1-DM Toolkit/DM Dashboard Ultra.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[skill checks]]</strong> in 1-DM Toolkit/DM Dashboard Ultra.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[spellcasting rules]]</strong> in 1-DM Toolkit/DM Dashboard Ultra.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[randomgenstitlebar]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[abilitiestitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[checktitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[ability-checks-typical-difficulty-classes]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[detect-magic]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[conditionstitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[combatactionstitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[misccombatrulestitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[movementtitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[resttraveltitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[healdeathdmgtitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[weaponsarmoritemstitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[weapons]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[armor-and-shields-armor]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[magictitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-abjuration]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-conjuration]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-divination]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-enchantment]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-evocation]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-illusion]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-necromancy]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[wizard-school-of-transmutation]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md, 1-DM Toolkit/DnD5e-SideScreen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[skillstitlebar.png]]</strong> in 1-DM Toolkit/DnD5e-DM Screen-2014.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[island of screams]]</strong> in 1-DM Toolkit/Home - DV.md, 1-DM Toolkit/Home.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[the island of screams.jpg\]]</strong> in 1-DM Toolkit/Home - DV.md, 1-DM Toolkit/Home.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[journeyboard.png\]]</strong> in 1-DM Toolkit/Home - DV.md, 1-DM Toolkit/Home.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[city of trade]]</strong> in 1-DM Toolkit/Home - DV.md, 1-DM Toolkit/Home.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[adventureicon.png\]]</strong> in 1-DM Toolkit/Home - DV.md, 1-DM Toolkit/Home.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>[[partylogo.jpg\]]</strong> in 1-DM Toolkit/Home - DV.md, 1-DM Toolkit/Home.md
+        </div>
+      
+      <div class="issue-item">... and more</div>
+    </div>
+  </div>
+  
+
+  
+  <div class="issue-section">
+    <div class="issue-header">
+      <h2>📑 Duplicate Notes</h2>
+      <span class="issue-count">3 groups</span>
+    </div>
+    <div class="issue-list">
+      
+        <div class="issue-item">
+          <strong>Identical content:</strong> 0-Scratch Notes/Untitled [conflicted].md, 0-Scratch Notes/Untitled.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>Identical content:</strong> 3-Mechanics/Bestiary/Bestiary.md, 3-Mechanics/Items/Items.md, 3-Mechanics/races/races.md, z_Templates/3_Dataview Templates/3_Dataview Templates.md
+        </div>
+      
+        <div class="issue-item">
+          <strong>Identical content:</strong> z_Templates/4_Markdown/Insert Checkbox (ITS) [conflicted].md, z_Templates/4_Markdown/Insert Checkbox (ITS).md
+        </div>
+      
+    </div>
+  </div>
+  
+
+  
+  <div class="issue-section">
+    <div class="issue-header">
+      <h2>📝 Frontmatter Updates Needed</h2>
+      <span class="issue-count">1896 notes</span>
+    </div>
+    <p>Notes are missing required frontmatter fields or have inconsistent formatting.</p>
+  </div>
+  
+
+  <div class="action-buttons">
+    <button class="button button-primary" onclick="runOptimization()">
+      🚀 Run Optimization
+    </button>
+    <button class="button button-secondary" onclick="window.print()">
+      📄 Print Report
+    </button>
+  </div>
+
+  <div class="footer">
+    <p>This report was generated by the Obsidian TTRPG Vault optimization tools.</p>
+    <p>For detailed information, check the JSON reports in your vault root.</p>
+  </div>
+
+  <script>
+    function runOptimization() {
+      alert('Run "node scripts/optimizeVault.js --fix" in your terminal to apply fixes.');
+    }
+  </script>
+</body>
+</html>

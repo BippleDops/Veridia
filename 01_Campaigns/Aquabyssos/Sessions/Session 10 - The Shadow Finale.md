@@ -21,7 +21,7 @@ themes:
 quests_advanced:
   - [[The Final Choice]]
   - [[01_Campaigns/Aquabyssos/Lore/Save-Transform Reality|Save/Transform Reality]]
-  - [[Determine Aquabyssos's Fate]]
+- [[01_Campaigns/Aquabyssos/Lore/Determine Aquabyssos|Determine Aquabyssos's Fate]]
 ---
 
 # Session 10: The Shadow Finale

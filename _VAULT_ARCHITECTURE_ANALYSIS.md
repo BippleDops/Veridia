@@ -1,11 +1,11 @@
 # Vault Architecture Analysis
 
-Generated: 2025-08-08 13:18:42
+Generated: 2025-08-08 14:04:07
 
 
 ## File Counts
 
-- Total Markdown files: 5895
+- Total Markdown files: 5903
 
 ### Top Folders by Markdown Count
 
@@ -13,9 +13,9 @@ Generated: 2025-08-08 13:18:42
 - Ω_System/CLI/tables: 844
 - Ω_System/CLI/spells: 482
 - Ω_System/CLI/deities: 310
-- 01_Campaigns/Aquabyssos/Locations: 274
-- 01_Campaigns/Aquabyssos/Lore: 212
+- 01_Campaigns/Aquabyssos/Locations: 273
 - Ω_System/CLI/variant-rules: 198
+- 01_Campaigns/Aquabyssos/Lore: 179
 - Ω_System/CLI/lists: 152
 - Ω_System/CLI/bestiary/beast: 129
 - Ω_System/CLI/optional-features: 110
@@ -28,10 +28,11 @@ Generated: 2025-08-08 13:18:42
 - Ω_System/CLI/bestiary/legendary-group: 77
 - Ω_System/CLI/bestiary/undead: 69
 - Ω_System/CLI/bestiary/aberration: 68
-- 01_Campaigns/Aethermoor/NPCs: 62
+- 01_Campaigns/Aethermoor/NPCs: 63
 - Ω_System/CLI/bestiary/dragon: 60
 - Ω_System/CLI/bestiary/construct: 58
 - Ω_System/CLI/races: 57
+- Ω_Archive/2025-08-08/Placeholders: 55
 - Ω_System/CLI/traps-hazards: 55
 - 01_Campaigns/Aethermoor/Locations: 54
 - Ω_System/CLI/bestiary/elemental: 53
@@ -42,9 +43,9 @@ Generated: 2025-08-08 13:18:42
 - Ω_System/CLI/backgrounds: 33
 - Ω_System/CLI/bestiary/plant: 33
 - Ω_System/CLI/bestiary/giant: 32
-- 01_Campaigns/Aquabyssos/Mechanics: 30
 - 05_Templates/Example_Campaign/Locations: 30
 - 01_Campaigns/Aethermoor/Quests: 29
+- 01_Campaigns/Aquabyssos/Mechanics: 28
 - Ω_Archive/1-DM Toolkit: 28
 - 01_Campaigns/Aquabyssos/Factions: 26
 - Ω_System/CLI/adventures/curse-of-strahd: 26
@@ -58,7 +59,6 @@ Generated: 2025-08-08 13:18:42
 - Ω_System/CLI/adventures/hoard-of-the-dragon-queen: 15
 - Ω_System/CLI/adventures/rise-of-tiamat: 15
 - Ω_System/CLI/books/dungeon-masters-guide-2014: 15
-- 05_Templates: 13
 
 ## Duplicate Basenames (same title in multiple locations)
 
@@ -104,7 +104,6 @@ Generated: 2025-08-08 13:18:42
 - 'shield-xphb': Ω_System/CLI/items/shield-xphb.md, Ω_System/CLI/spells/shield-xphb.md
 - 'skills': Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 'telepathy-xphb': Ω_System/CLI/spells/telepathy-xphb.md, Ω_System/CLI/variant-rules/telepathy-xphb.md
-- 'template-quest': 01_Campaigns/Aquabyssos/Lore/Template-Quest.md, z_Templates/World Builder Templates/Template-Quest.md
 - 'the tidecaller': 01_Campaigns/Aethermoor/Locations/The Tidecaller.md, 01_Campaigns/Aquabyssos/NPCs/The Tidecaller.md
 - 'tiny-servant-xge': Ω_System/CLI/bestiary/construct/tiny-servant-xge.md, Ω_System/CLI/spells/tiny-servant-xge.md
 - 'unicorn-xmm': Ω_System/CLI/bestiary/celestial/unicorn-xmm.md, Ω_System/CLI/bestiary/legendary-group/unicorn-xmm.md
@@ -113,6 +112,6 @@ Generated: 2025-08-08 13:18:42
 
 ## Naming Conventions
 
-- Files with spaces: 1017
-- Files with underscores: 74
+- Files with spaces: 1023
+- Files with underscores: 76
 - Files with hyphens: 4763

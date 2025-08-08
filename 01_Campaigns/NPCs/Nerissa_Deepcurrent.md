@@ -154,8 +154,8 @@ She seeks a third option but hasn't found it.
 
 ## Quest Hooks
 
-1. **[[The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
-2. **[[Oracle's Burden]]** - Help her break the prophetic curse
+1. **[[01_Campaigns/Aquabyssos/Lore/Tide Turner's Trident|The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
+2. **[[01_Campaigns/Aethermoor/Quests/The Crown's Burden|Oracle's Burden]]** - Help her break the prophetic curse
 3. **[[The Seven Seals]]** - Gather the Depth Seals before enemies do
 4. **Diplomatic Immunity** - Escort her to dangerous negotiations
 

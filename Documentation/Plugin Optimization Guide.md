@@ -157,6 +157,14 @@ For mobile devices, create a separate plugin profile:
 ---
 
 ## Phase 5 Plugin Configuration (Applied)
+## Phase 8–11 Additions
+
+- Leaflet: Example note `04_Resources/Maps/Aquabyssos_World_Map.md` demonstrates tile-based map with markers linking to locations. For image-overlay maps, set `image:` and `bounds:` to pixel dimensions.
+- Canvas: Relationship diagram scaffolded at `z_Assets/Canvas/Relationship_Graph.canvas` for quick NPC–Faction–Location visualization.
+- QuickAdd: Config scaffold at `08_Automation/Configs/QuickAdd/macros.json` for NPC/Location/Quest/Session creation via templates.
+- Dice Roller: Added Aquabyssos and Aethermoor tables to `04_Resources/Random_Tables/Encounter_and_Loot_Generators.md` with inline `dice:` buttons.
+- Agent Setup: `08_Automation/Scripts/agent_setup.py` now validates presence of Leaflet example, QuickAdd macros, and dice tables, and outputs archive suggestions.
+ - QuickAdd Button: Dashboard embeds a Buttons block to run the "Aggressive Archive Sweep" QuickAdd choice. Ensure Buttons and QuickAdd are enabled.
 
 ### Dataview
 - Added limits to new dashboard queries (5–12 rows) to keep render times low.

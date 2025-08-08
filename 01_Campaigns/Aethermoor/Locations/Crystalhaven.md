@@ -26,7 +26,7 @@ Crystalhaven stands as the shining jewel of [[01_Campaigns/Aethermoor/Locations/
 
 ### The Forge District
 - **[[The Crystalline Foundry]]** - Largest crystal refinement facility
-- **[[Artificer's Row]]** - Magical item creation
+- **Artificer's Row** - Magical item creation
 - **The Aether Works** - Run by [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]
 
 ### The Scholar's Sanctum

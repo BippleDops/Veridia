@@ -1,4 +1,12 @@
 ---
+tags: [npc]
+aliases: [Vex Shadowthorn]
+---
+
+# Vex Shadowthorn
+
+Placeholder NPC to resolve apprentices links. Add role, faction, and scenes.
+---
 tags:
   - npc
   - criminal

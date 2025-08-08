@@ -1,0 +1,26 @@
+{
+  "choices": [
+    {
+      "name": "Aggressive Archive Sweep",
+      "type": "macro",
+      "args": {},
+      "macro": {
+        "steps": [
+          { "type": "userScript", "path": "08_Automation/Scripts/archive_sweep.py" },
+          { "type": "command", "id": "app:reload" }
+        ]
+      }
+    },
+    {
+      "name": "Lint All Notes",
+      "type": "macro",
+      "args": {},
+      "macro": {
+        "steps": [
+          { "type": "userScript", "path": "08_Automation/Scripts/lintAllNotes.js" }
+        ]
+      }
+    }
+  ]
+}
+

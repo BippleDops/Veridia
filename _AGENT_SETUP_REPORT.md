@@ -1,14 +1,15 @@
 # Agent Setup Report
 
-Generated: 2025-08-08T17:44:30.559039Z
+Generated: 2025-08-08T19:04:07.190086Z
 
 Root: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental
 
-- Checks OK: 32
+- Checks OK: 53
 - Checks FAIL: 0
 - Hygiene issues (first 50): 50
 - Dashboard Dataview limits OK: True
 
+## Archive Suggestions (samples)
 ## Notable Failures
 
 ## Hygiene Samples
@@ -26,9 +27,9 @@ Root: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Document
 ## Audit Summary
 ````
 [vault_audit] Root: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental
-[vault_audit] Markdown files: 5885 | Assets: 318
-[vault_audit] Basename index entries: 5834 | Path index entries: 6228
-[vault_audit] Links — ok:3276 broken:39 ambiguous:61 case:1
-[vault_audit] Done in 1.13s
-[snapshot] appended: - 2025-08-08T12:44:30: OK=3277, Broken=39, Ambiguous=61, Case=1
+[vault_audit] Markdown files: 5903 | Assets: 318
+[vault_audit] Basename index entries: 5853 | Path index entries: 6252
+[vault_audit] Links — ok:3367 broken:0 ambiguous:0 case:0
+[vault_audit] Done in 0.71s
+[snapshot] appended: - 2025-08-08T14:04:07: OK=3367, Broken=0, Ambiguous=0, Case=0
 ````

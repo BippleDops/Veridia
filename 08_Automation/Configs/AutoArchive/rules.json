@@ -1,0 +1,20 @@
+{
+  "$schema": "https://example.com/obsidian/auto-archive.schema.json",
+  "version": 1,
+  "archiveRoot": "Ω_Archive/auto",
+  "rules": [
+    {
+      "name": "Archive sessions older than 365 days",
+      "match": { "path": "^01_Campaigns/.+/Sessions/" },
+      "ageDays": 365,
+      "target": "Ω_Archive/${yyyy}-${mm}-${dd}/Sessions"
+    },
+    {
+      "name": "Archive orphan placeholders",
+      "match": { "path": "^01_Campaigns/.+/(Lore|Locations)/.*(Template|Dungeon|\$\{|<%|\" \+ file\.name).*\\.md$" },
+      "ageDays": 0,
+      "target": "Ω_Archive/${yyyy}-${mm}-${dd}/Placeholders"
+    }
+  ]
+}
+

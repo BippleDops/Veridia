@@ -1,0 +1,37 @@
+{
+  "$schema": "https://example.com/obsidian/auto-note-mover.schema.json",
+  "version": 1,
+  "rules": [
+    {
+      "name": "Sessions → 01_Campaigns/<World>/Sessions by tag",
+      "if": { "tag": "session" },
+      "moveTo": "01_Campaigns/${world}/Sessions",
+      "filename": "Session ${sessionNumber} - ${title}"
+    },
+    {
+      "name": "NPCs → 01_Campaigns/<World>/NPCs",
+      "if": { "tag": "npc" },
+      "moveTo": "01_Campaigns/${world}/NPCs",
+      "filename": "${name}"
+    },
+    {
+      "name": "Quests → 01_Campaigns/<World>/Quests",
+      "if": { "tag": "quest" },
+      "moveTo": "01_Campaigns/${world}/Quests",
+      "filename": "Quest - ${title}"
+    },
+    {
+      "name": "Locations → 01_Campaigns/<World>/Locations",
+      "if": { "tag": "location" },
+      "moveTo": "01_Campaigns/${world}/Locations",
+      "filename": "${file.name}"
+    }
+  ],
+  "placeholders": {
+    "world": "Aquabyssos",
+    "sessionNumber": "${frontmatter.sessionNumber}",
+    "title": "${frontmatter.title || file.name}",
+    "name": "${frontmatter.first_name ? frontmatter.first_name + ' ' + (frontmatter.last_name||'') : file.name}"
+  }
+}
+

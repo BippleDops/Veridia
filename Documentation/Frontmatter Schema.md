@@ -95,7 +95,7 @@ leader: [[Flip the Famous]]
 * **type** is always required and lowercase.
 * Dates **must** be ISO-8601 (`YYYY-MM-DD`) for Dataview sorting.
 * Use **plural** field names for arrays (`players`, `factions`).
-* Prefer references `[[like this]]` for intra-vault links.
+* Prefer references `\[\[Like This\]\]` for intra-vault links (use fully-qualified paths when ambiguous).
 * Monetary values in gp unless otherwise noted.
 
 Feel free to extend schemas—automation scripts consider unknown keys as pass-through. 

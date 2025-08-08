@@ -107,6 +107,9 @@ def main():
         '05_Templates/NPC_Template.md',
         '05_Templates/Quest_Template.md',
         '05_Templates/Location_Template.md',
+        '04_Resources/Random_Tables/Encounter_and_Loot_Generators.md',
+        '04_Resources/Maps/Aquabyssos_World_Map.md',
+        '08_Automation/Configs/QuickAdd/macros.json',
     ] + required_bases
 
     summary.extend(check_file_presence(required_files))
@@ -122,6 +125,35 @@ def main():
         ]
     }
     summary.extend(check_substrings(dashboard_checks))
+
+    # Phase 8–11: Additional presence/validation
+    phase_checks = {
+        '04_Resources/Random_Tables/Encounter_and_Loot_Generators.md': [
+            'Aquabyssos Undersea Encounters', 'Aethermoor Urban Events', 'Quick Loot Buttons'
+        ],
+        '04_Resources/Maps/Aquabyssos_World_Map.md': [
+            '```leaflet', 'Aquabyssos World Map'
+        ],
+        'MASTER_CAMPAIGN_DASHBOARD.md': [
+            'Aquabyssos Map Demo', 'Relationship_Graph.canvas'
+        ],
+        '08_Automation/Configs/QuickAdd/macros.json': [
+            'New NPC (Template)', 'New Location (Template)', 'New Quest (Template)', 'New Session (Template)'
+        ],
+        '08_Automation/Configs/AutoNoteMover/rules.json': [
+            'rules', 'Sessions → 01_Campaigns/<World>/Sessions by tag'
+        ],
+        '08_Automation/Configs/AutoArchive/rules.json': [
+            'archiveRoot', 'Archive sessions older than 365 days'
+        ],
+        '08_Automation/Configs/QuickAdd/choices.json': [
+            'Aggressive Archive Sweep', 'Lint All Notes'
+        ],
+        '08_Automation/Scripts/lintAllNotes.js': [
+            'module.exports = async (params) =>'
+        ]
+    }
+    summary.extend(check_substrings(phase_checks))
 
     # Template canonical fields
     template_checks = {
@@ -143,6 +175,15 @@ def main():
     # Hygiene: no [[<%...%>]] or [[${...}]] or links to 05_Templates in content
     hygiene_hits = search_repo([r"\[\[<%", r"\[\[\$\{", r"\[\[05_Templates/"])
 
+    # Orphan placeholders and obvious templater artifacts for archive suggestion
+    orphan_patterns = [
+        r"\$\{[^}]+\}\.md$",
+        r"<%tp\.system\.prompt\([^)]+\)%>\.md$",
+        r"Dungeon\d+\.png\.md$",
+        r"Template-.*\.md$"
+    ]
+    orphan_hits = search_repo(orphan_patterns)
+
     # Dataview limits
     dv_limits = dataview_limits_ok('MASTER_CAMPAIGN_DASHBOARD.md')
 
@@ -156,6 +197,7 @@ def main():
         'checks': summary,
         'hygiene_issues': hygiene_hits[:50],  # cap in report
         'dataview_limits_ok': dv_limits,
+        'archive_suggestions': orphan_hits[:200],
         'vault_audit': {'rc': va_rc, 'stdout': va_out, 'stderr': va_err},
         'snapshot_log': {'rc': sl_rc, 'stdout': sl_out, 'stderr': sl_err},
     }
@@ -177,6 +219,9 @@ def main():
         mf.write(f"- Checks FAIL: {fail_checks}\n")
         mf.write(f"- Hygiene issues (first 50): {len(hygiene_hits[:50])}\n")
         mf.write(f"- Dashboard Dataview limits OK: {dv_limits}\n\n")
+        mf.write("## Archive Suggestions (samples)\n")
+        for a in orphan_hits[:20]:
+            mf.write(f"- {a['file']} (pattern: {a['pattern']})\n")
         mf.write("## Notable Failures\n")
         for c in summary:
             if c['status'] == 'FAIL':

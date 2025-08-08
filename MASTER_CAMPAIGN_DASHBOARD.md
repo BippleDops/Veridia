@@ -208,6 +208,9 @@ LIMIT 10
 - Rumors: [[04_Resources/Random_Tables/Abyssos Prime Rumor Tables]]
 - NPC Quick Reference: [[06_GM_Resources/NPC Quick Reference Guide]]
 
+### Visuals
+- 🧭 Relationship Diagram: [[z_Assets/Canvas/Relationship_Graph.canvas]]
+
 ---
 
 ## 📖 5e Integration Status
@@ -259,12 +262,31 @@ LIMIT 10
 >> [!example|clean no-t]
 >> ### Phase 8–9 Utilities
 >> - 🗺️ Map Template: [[05_Templates/Template-Leaflet-Map]]
+>> - 🗺️ Aquabyssos Map Demo: [[04_Resources/Maps/Aquabyssos_World_Map]]
 >> - 🎲 Generators: [[04_Resources/Random_Tables/Encounter_and_Loot_Generators]]
 
 >> [!example|clean no-t]
 >> ### Maintenance
 >> - 🔧 Run Agent Setup: [[08_Automation/Run Agent Setup]]
 >> - 📄 Latest Agent Report: [[_AGENT_SETUP_REPORT.md]]
+>> - ⚙️ QuickAdd Macros: [[08_Automation/Configs/QuickAdd/macros.json]]
+>> - 🗄️ Archive Suggestions: See section in latest agent report
+>> - 📦 Auto Note Mover Rules: [[08_Automation/Configs/AutoNoteMover/rules.json]]
+>> - 🗃️ Auto Archive Rules: [[08_Automation/Configs/AutoArchive/rules.json]]
+>> - 🔨 Aggressive Archive Button (QuickAdd):
+>>
+>> ```button
+>> name Aggressive Archive
+>> type command
+>> action quickadd:choice:Aggressive Archive Sweep
+>> ```
+>> ```button
+>> name Lint All Notes
+>> type command
+>> action quickadd:choice:Lint All Notes
+>> ```
+>>
+>> Configure QuickAdd → Choices → ensure a choice named "Aggressive Archive Sweep" exists (provided at `08_Automation/Configs/QuickAdd/choices.json`). Map the Button’s command to run that choice if needed.
 
 ---
 

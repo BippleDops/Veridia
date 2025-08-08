@@ -184,6 +184,12 @@ Generated: {{date:YYYY-MM-DD HH:mm}}
 ---
 
 ## Phase 11: Vault Optimization (post-integration)
+### Phase 8–11 Status (current)
+
+- Phase 8 (Visual): Leaflet demo created at `04_Resources/Maps/Aquabyssos_World_Map.md`; dashboard link added. Canvas relationship diagram at `z_Assets/Canvas/Relationship_Graph.canvas`.
+- Phase 9 (Automation): QuickAdd macro config scaffolded at `08_Automation/Configs/QuickAdd/macros.json`. Random tables expanded in `04_Resources/Random_Tables/Encounter_and_Loot_Generators.md`.
+- Phase 10 (Review): Dataview limits verified on dashboard; template/plugin notes updated in docs.
+- Phase 11 (Optimization): Archive suggestions generated in `_AGENT_SETUP_REPORT.md`; duplicate dashboards scheduled for archive after merge.
 
 ### Goals
 - Lean organization and intuitive navigation

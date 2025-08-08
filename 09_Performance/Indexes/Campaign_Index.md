@@ -167,7 +167,7 @@ SORT file.name ASC
 ### Quick References
 - 📖 [[03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|Rules Quick Reference]]
 - 🎲 Loot Tables
-- ⚔️ [[Template-Combat-Encounter|Combat Tracker]]
+- ⚔️ Combat Tracker
 - 🗺️ [[02_Worldbuilding/Atlas/World Map|Campaign Map]]
 
 ### Handouts Available
@@ -257,7 +257,7 @@ LIMIT 10
 - [[Template-Session-Enhanced|📝 Create New Session]]
 - [[Template-Character|👤 Create New NPC]]
 - [[Template-Location|📍 Create New Location]]
-- [[Template-Quest|📜 Create New Quest]]
+- 📜 Create New Quest
 - [[Template-Combat-Encounter|⚔️ Create Combat Encounter]]
 
 ### Maintenance

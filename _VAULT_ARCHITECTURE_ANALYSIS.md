@@ -80,6 +80,7 @@ Generated: 2025-08-08 12:20:24
 - 'arch-hag-xmm': Ω_System/CLI/bestiary/fey/arch-hag-xmm.md, Ω_System/CLI/bestiary/legendary-group/arch-hag-xmm.md
 - 'beholder-xmm': Ω_System/CLI/bestiary/aberration/beholder-xmm.md, Ω_System/CLI/bestiary/legendary-group/beholder-xmm.md
 - 'captain blackwater': 01_Campaigns/Aethermoor/NPCs/Captain Blackwater.md, 05_Templates/Example_Campaign/NPCs/Captain Blackwater.md
+- 'captain blackwater': 01_Campaigns/Aethermoor/NPCs/Captain Blackwater.md, 05_Templates/Example_Campaign/NPCs/Captain Blackwater.md
 - 'cover-xphb': Ω_System/CLI/tables/cover-xphb.md, Ω_System/CLI/variant-rules/cover-xphb.md
 - 'darkness-xphb': Ω_System/CLI/spells/darkness-xphb.md, Ω_System/CLI/variant-rules/darkness-xphb.md
 - 'death-tyrant-xmm': Ω_System/CLI/bestiary/legendary-group/death-tyrant-xmm.md, Ω_System/CLI/bestiary/undead/death-tyrant-xmm.md

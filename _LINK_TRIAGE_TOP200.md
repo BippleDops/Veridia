@@ -69,4 +69,5 @@ Generated: 2025-08-08 12:04:25
 ## Focus Suggestions
 - Fix dashboard and player resources first to improve in-play navigation.
 - Replace template placeholder links (e.g., Location, NPC) with plain text or correct targets.
+- Replace template placeholder links (e.g., Location, NPC) with plain text or correct targets.
 - Normalize anchor-only links by matching to nearest headings or removing the anchor.

@@ -18,9 +18,11 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Keeper Elara Moonwhisper.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Madame Rosalind Goldleaf.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Merchant Lord Silas Copperfield.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Merchant Lord Silas Copperfield.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Sage Lyralei Starweaver.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/The Crystal Wardens.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Foundry.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/The Gilded Shard.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/The Gilded Shard.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
@@ -62,6 +64,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/Locations/The Order of the Shattered Crown.md
 - 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
 - 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/NPCs/Quest - Into the Wastes.md
 - 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/NPCs/Quest - Into the Wastes.md
 - 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
 - 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
@@ -107,11 +110,15 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
 - 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Dying Forest.md
 - 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Root Network.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Dying Forest.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Root Network.md
 - 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Verdant Accord.md
 - 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Verdant Accord.md
 - 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
 - 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
 - 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/Aether Crystal.md
 - 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/Aether Crystal.md
 - 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md
 - 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
@@ -129,7 +136,10 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
 - 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Dying Forest.md
 - 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Root Network.md
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Dying Forest.md
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Quest - The Root Network.md
 - 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Verdant Accord.md
 - 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Verdant Accord.md
 - 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/Locations/Keeper Elara Moonwhisper.md
 - 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
@@ -149,6 +159,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
 - 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
 - 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Quest - Into the Wastes.md
 - 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Quest - Into the Wastes.md
 - 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
 - 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/Locations/Ironhold.md
@@ -189,6 +200,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/The Bloodline Carrier.md
 - 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
 - 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/Uniting the Factions.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/Uniting the Factions.md
 - 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aquabyssos/Locations/The Seven Shards Mystery.md
 - 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aquabyssos/NPCs/The Depth Wardens.md
 - 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
@@ -223,19 +235,23 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/Korvin Blacktide.md
 - 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md
 - 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/Order of the Shattered Crown.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/Order of the Shattered Crown.md
 - 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
 - 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/Order of the Shattered Crown.md
 - 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/Order of the Shattered Crown.md
 - 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
 - 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
 - 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Aether Crystal.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Aether Crystal.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Verdant Shard.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Verdant Shard.md
 - 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md
 - 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md → 01_Campaigns/Aethermoor/Locations/The Sundered Peaks.md
@@ -281,6 +297,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Reflection Pools.md
 - 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md
 - 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Conspiracy.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Conspiracy.md
 - 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md
 - 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
 - 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
@@ -288,7 +305,9 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md
 - 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
 - 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aquabyssos/NPCs/Abyssal Cathedral.md
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aquabyssos/NPCs/Abyssal Cathedral.md
 - 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aquabyssos/NPCs/Gold-Grave Harbor.md
 - 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aquabyssos/NPCs/Gold-Grave Harbor.md
 - 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Archivist Vera Glowmind.md
 - 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Artisan Felix Reefwright.md
@@ -310,6 +329,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/High Cultivist Jasper Lifebinder.md
 - 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/Master Cultivator Thalia Greenglow.md
 - 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/The Biomancers.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/The Biomancers.md
 - 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/The Depth Wardens.md
 - 01_Campaigns/Aquabyssos/Locations/Memoriam - The Forgotten Continent.md → 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md
 - 01_Campaigns/Aquabyssos/Locations/Memoriam - The Forgotten Continent.md → 01_Campaigns/Aquabyssos/Locations/The Unremembered Parliament.md
@@ -318,6 +338,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Church of the Tidal Throne.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Coral Courts.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Forge Master Petra Hammerdeep.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Forge Master Petra Hammerdeep.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Gatekeeper Iron-Lung Boris.md
@@ -330,12 +351,14 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Tavern Keeper Finn Splitlung.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Tethyan Hegemony.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Depth Plague.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Depth Plague.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Free Current.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Pressure Crown.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Sunken Crown Cipher.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Vanishing Depths.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Crown Dome Conspiracy.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Crown Dome Conspiracy.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md
 - 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Enforcer Chief Mako Ironjaw.md
@@ -395,12 +418,16 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Chef Amara Tastecurrent.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Church of the Tidal Throne.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Concierge Phillip Gracewater.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Concierge Phillip Gracewater.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Coral Courts.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Courier Chief Swift Currentrider.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Deepmind Conspiracy.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Enchanter Valdris Peacewarden.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Enchanter Valdris Peacewarden.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Garden Keeper Zen Currentdancer.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Keeper of Contracts Minerva Bindingword.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Garden Keeper Zen Currentdancer.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Keeper of Contracts Minerva Bindingword.md
 - 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Mediator Serenity Stillwater.md
@@ -473,6 +500,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Merchant Delilah Currentrunner.md
 - 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Pressure's End.md
 - 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Shadow Merchant Riptide.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Shadow Merchant Riptide.md
 - 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
 - 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/The Free Current.md
 - 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/The Hadal Depths.md
@@ -520,12 +548,15 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/NPCs/The Deepmind Conspiracy.md
 - 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/NPCs/The Emergence.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Botanist Rose Sundrinker.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Botanist Rose Sundrinker.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Commander Typhoon Blackheart.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Compass Quest.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Engineer Brass Gearspin.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Harbor Master Luna Freedrift.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Keeper of the Past, Elderly Morgan.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Navigator Sage Driftwood.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Keeper of the Past, Elderly Morgan.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Navigator Sage Driftwood.md
 - 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
@@ -539,6 +570,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Captain Echo.md
 - 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
 - 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Mad Oracle Thessaly.md
 - 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Mad Oracle Thessaly.md
 - 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
 - 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Quieting the Depths.md
@@ -573,6 +605,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
 - 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
 - 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Banker Titus Goldcurrent.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Crown Dome Conspiracy.md
 - 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Crown Dome Conspiracy.md
 - 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Enforcer Chief Mako Ironjaw.md
 - 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md
@@ -612,6 +645,7 @@ Generated: 2025-08-08 12:20:24
 - 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/Whisper-Witch Naia Softcurrent.md
 - 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/NPCs/High Cultivist Jasper Lifebinder.md
 - 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/NPCs/Master Cultivator Thalia Greenglow.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/NPCs/The Biomancers.md
 - 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/NPCs/The Biomancers.md
 - 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
 - 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md → 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md

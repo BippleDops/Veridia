@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Half-Dragon
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Half-Dragon
 ---
 # [Half-Dragon](3-Mechanics\CLI\bestiary\dragon/half-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

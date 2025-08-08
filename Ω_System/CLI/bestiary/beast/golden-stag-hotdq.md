@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/hotdq
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/hotdq
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Golden Stag
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Golden Stag
 ---
 # [Golden Stag](3-Mechanics\CLI\bestiary\beast/golden-stag-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 35*  

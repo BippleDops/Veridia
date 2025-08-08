@@ -8,7 +8,7 @@ modified: 2025-07-23 14:30
 # Thieves Guild
 
 ## General Info
-**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
+**Location**: Shadowhaven
 
 ## Description
 The Thieves Guild is a powerful and influential criminal organization that operates in the shadows of Shadowhaven. They are involved in all manner of illegal activities, from petty theft to high-stakes heists.

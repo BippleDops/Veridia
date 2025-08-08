@@ -1,53 +1,17 @@
 ---
-tags:
-- quest
-- investigation
-- political
-aliases:
-- The Missing Ships
-- The Merchant Mystery
-cssclasses:
-- quest-card
-- wide-page
-quest_type: Investigation
-quest_priority: high
-quest_status: active
-quest_progress: 25
-quest_level: 3-5
-estimated_sessions: 4-6
-rewards:
-  xp: 2000
-  gold: 1500
-  items:
-  - Harbor Master's Seal
-  - Guild Favor Token
-objectives:
-  primary:
-  - Discover what happened to the three missing merchant vessels
-  - Identify who is responsible for the disappearances
-  - Recover the stolen cargo if possible
-  secondary:
-  - Maintain diplomatic relations between the guilds
-  - Protect Shadowhaven's trade reputation
-  - Investigate the mysterious locked chest
-current_objective: Interview witnesses at the Salty Anchor Tavern and examine the
-  harbor records
-related_npcs:
-- '[[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]'
-- '[[05_Templates/Example_Campaign/NPCs/Captain Marcus Steelhart|Captain Marcus Steelhart]]'
-- '[[05_Templates/Example_Campaign/NPCs/Harbormaster Willem Tidecaller|Harbormaster Willem Tidecaller]]'
-- '[[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf|Lady Seraphina Goldleaf]]'
-related_locations:
-- '[[05_Templates/Example_Campaign/Locations/Shadowhaven]]'
-- '[[05_Templates/Example_Campaign/Locations/The Salty Anchor Tavern|The Salty Anchor Tavern]]'
-- '[[05_Templates/Example_Campaign/Locations/Merchant's Rest Island|Merchant''s Rest Island]]'
-connected_quests:
-- '[[05_Templates/Example_Campaign/Quests/The Arcane Disturbances|The Arcane Disturbances]]'
-- '[[05_Templates/Example_Campaign/Quests/Shadows in High Places|Shadows in High Places]]'
-image_path: z_Assets/Quests/missing_vessels.jpg
-created: 2025-01-25 11:15
-modified: 2025-07-23 12:39
 type: quest
+status: active
+priority: medium
+tags:
+  - quest
+  - investigation
+  - political
+aliases:
+  - The Missing Ships
+  - The Merchant Mystery
+cssclasses:
+  - quest-card
+  - wide-page
 ---
 > [!infobox]
 > # The Vanishing Merchant Vessels

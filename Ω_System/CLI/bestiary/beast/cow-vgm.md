@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Cow
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Cow
 ---
 # [Cow](3-Mechanics\CLI\bestiary\beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  

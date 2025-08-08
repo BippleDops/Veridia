@@ -1,5 +1,6 @@
 ---
-obsidianUIMode: preview
+type: location
+obsidian-u-i-mode: preview
 cssclasses: json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg

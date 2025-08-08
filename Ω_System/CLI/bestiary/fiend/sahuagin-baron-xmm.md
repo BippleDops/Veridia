@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Sahuagin Baron
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Sahuagin Baron
 ---
 # [Sahuagin Baron](3-Mechanics\CLI\bestiary\fiend/sahuagin-baron-xmm.md)
 *Source: Monster Manual (2024) p. 265*  

@@ -1,69 +1,17 @@
 ---
-MyContainer:
-- '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
-- '[[05_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
-- '[[05_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]'
-MyCategory: null
+type: npc
+status: alive
+my-container:
+  - '[[2-World/Regions/Island of Skulls.md|Island of Skulls]]'
+  - '[[z_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]'
+my-category: null
 tags:
-- Category/People
-obsidianUIMode: preview
+  - Category/People
+obsidian-u-i-mode: preview
 aliases:
-- characters other name
-NoteStatus: "\u2753"
-char_status: Alive
-char_race: Human
-char_gender: Male
-char_items: null
-char_age: Adult
-parents:
-- Josh
-- Susan
-children:
-- Bob
-- Fred
-enemies:
-- Zander
-allies:
-- Emyerson
-- Bob
-- Frank
-siblings:
-- Flip
-partner:
-- Jane
-Connected_Quests:
-- '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
-Connected_Groups:
-- '[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
-- '[[02_Worldbuilding/Factions/Cult of Screams.md|Cult of Screams]]'
-type: character
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
-name: Flip the Famous
-player: ''
-race: ''
-class: ''
-level: 1
-alignment: ''
-status: active
-location_current: ''
-location_home: ''
-faction: ''
-relationships:
-  allies: []
-  enemies: []
-  family: []
-ability_scores:
-  str: 10
-  dex: 10
-  con: 10
-  int: 10
-  wis: 10
-  cha: 10
-combat:
-  ac: 10
-  hp: 10
-  speed: 30ft
+  - characters other name
+note-status: ❓
 ---
 > [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Hub),optionQuery(#Category/Region),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
 

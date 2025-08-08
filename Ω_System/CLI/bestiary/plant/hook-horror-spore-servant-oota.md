@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Hook Horror Spore Servant
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Hook Horror Spore Servant
 ---
 # [Hook Horror Spore Servant](3-Mechanics\CLI\bestiary\plant/hook-horror-spore-servant-oota.md)
 *Source: Out of the Abyss p. 68*  

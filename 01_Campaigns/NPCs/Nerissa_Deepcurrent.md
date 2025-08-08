@@ -21,7 +21,7 @@ relationship_type: "political"
 relationships: 
   - "[[Commander Varek Irontrident]]"
   - "[[01_Campaigns/NPCs/The_Crimson_Pearl]]"
-  - "[[Aboleth Prime Yoth'zagoth]]"
+  - "[[Aboleth Prime Yoth]]"
   - "[[Prophet Miralyn Surfacer]]"
   - "[[Emperor Thalassius the Wise]]"
 related_quests:
@@ -68,7 +68,7 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 ### Rivals
 - **[[01_Campaigns/NPCs/The_Crimson_Pearl]]** - Necessary evil, controls too much trade
 - **[[Prophet Miralyn Surfacer]]** - Dangerous idealist threatening stability
-- **[[Aboleth Prime Yoth'zagoth]]** - Ancient threat that must be contained
+- **[[Aboleth Prime Yoth]]** - Ancient threat that must be contained
 
 ### Neutral Parties
 - **[[Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
@@ -146,7 +146,7 @@ She seeks a third option but hasn't found it.
 - Sees her younger self in Miralyn
 - Fears she might be right about returning
 
-### [[Aboleth Prime Yoth'zagoth]]
+### [[Aboleth Prime Yoth]]
 "The ancient darkness that remembers when we had legs."
 - Bound by ancient pacts she must honor
 - Knows it plots against her
@@ -157,7 +157,7 @@ She seeks a third option but hasn't found it.
 1. **[[The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
 2. **[[Oracle's Burden]]** - Help her break the prophetic curse
 3. **[[The Seven Seals]]** - Gather the Depth Seals before enemies do
-4. **[[05_Templates/Example_Campaign/Quests/Diplomatic Immunity]]** - Escort her to dangerous negotiations
+4. **Diplomatic Immunity** - Escort her to dangerous negotiations
 
 ## Combat Tactics
 

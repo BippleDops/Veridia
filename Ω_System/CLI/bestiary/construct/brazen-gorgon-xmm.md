@@ -1,21 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Brazen Gorgon
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Brazen Gorgon
 ---
 # [Brazen Gorgon](3-Mechanics\CLI\bestiary\construct/brazen-gorgon-xmm.md)
 *Source: Monster Manual (2024) p. 149*  

@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Phantom Warrior
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Phantom Warrior
 ---
 # [Phantom Warrior](3-Mechanics\CLI\bestiary\undead/phantom-warrior-cos.md)
 *Source: Curse of Strahd p. 235*  

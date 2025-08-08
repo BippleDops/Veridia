@@ -1,18 +1,17 @@
 ---
-MyContainer: '[[05_Templates/Example_Campaign/Quests/The Giants Skull]]'
-MyCategory: null
+type: item
+attunement: false
+my-container: '[[The Giants Skull]]'
+my-category: null
 tags:
-- Category/Item
-obsidianUIMode: preview
+  - Category/Item
+obsidian-u-i-mode: preview
 aliases:
-- ItemOtherName
-Connected_Quests:
-- '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
-Connected_Groups:
-- '[[05_Templates/Template-Character.md|Template-Group]]'
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - ItemOtherName
+connected_-quests:
+  - 'Template-Quest'
+connected_-groups:
+  - 'Template-Group'
 ---
 > [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Quest),optionQuery(#Category/People),optionQuery(#Category/Group),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
 

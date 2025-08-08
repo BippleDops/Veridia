@@ -223,9 +223,9 @@ The drowned realm exists parallel to Aethermoor:
 ## DM Resources
 
 ### Session Prep
-- [[05_Templates/Session_Template]]: Blank template for new sessions
-- [[05_Templates/NPC_Template]]: Character creation template
-- [[05_Templates/Location_Template]]: Location building template
+- Session_Template: Blank template for new sessions
+- NPC_Template: Character creation template
+- Location_Template: Location building template
 
 ### Quick References
 - [[Random-Encounter-Tables-Aethermoor]]

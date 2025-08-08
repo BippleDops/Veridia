@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Mammoth
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Mammoth
 ---
 # [Mammoth](3-Mechanics\CLI\bestiary\beast/mammoth-xmm.md)
 *Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

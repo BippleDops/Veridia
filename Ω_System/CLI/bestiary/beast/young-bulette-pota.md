@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Young Bulette
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Young Bulette
 ---
 # [Young Bulette](3-Mechanics\CLI\bestiary\beast/young-bulette-pota.md)
 *Source: Princes of the Apocalypse p. 139*  

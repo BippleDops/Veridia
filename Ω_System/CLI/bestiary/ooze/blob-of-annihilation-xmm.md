@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/any
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/ooze/titan
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/any
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/ooze/titan
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Blob of Annihilation
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Blob of Annihilation
 ---
 # [Blob of Annihilation](3-Mechanics\CLI\bestiary\ooze/blob-of-annihilation-xmm.md)
 *Source: Monster Manual (2024) p. 47*  

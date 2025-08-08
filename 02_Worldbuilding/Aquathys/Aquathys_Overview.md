@@ -92,7 +92,7 @@ Three millennia ago, the Oracle of [[Crystalline Depths]] foresaw the coming of 
 - **Influence:** Economic power
 
 ### [[Order of the Drowned Star]]
-- **Leader:** [[Aboleth Prime Yoth'zagoth]]
+- **Leader:** [[Aboleth Prime Yoth]]
 - **Goal:** Recover pre-submersion artifacts
 - **Headquarters:** [[Depths of Whispers]]
 - **Influence:** Forbidden knowledge

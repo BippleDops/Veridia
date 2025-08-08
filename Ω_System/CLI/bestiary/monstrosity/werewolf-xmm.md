@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/monstrosity/lycanthrope
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/monstrosity/lycanthrope
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Werewolf
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Werewolf
 ---
 # [Werewolf](3-Mechanics\CLI\bestiary\monstrosity/werewolf-xmm.md)
 *Source: Monster Manual (2024) p. 327. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

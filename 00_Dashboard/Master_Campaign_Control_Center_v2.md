@@ -111,7 +111,7 @@ document.getElementById('nl-search').addEventListener('keypress', async (e) => {
 
 ## ⚔️ Combat Management
 
-![[combat-tracker.base]]
+combat-tracker.base
 
 <div class="combat-controls">
 
@@ -165,7 +165,7 @@ dv.paragraph(`
 
 ## 👥 NPC Network
 
-![[npc-roster.base]]
+npc-roster.base
 
 ### Relationship Manager
 
@@ -210,7 +210,7 @@ dv.paragraph(`
 
 ## 📜 Quest Management
 
-![[quest-tracker.base]]
+quest-tracker.base
 
 ### Quest Progress Tracker
 
@@ -242,7 +242,7 @@ dv.table(
 
 ## 🗺️ Location Database
 
-![[location-tracker.base]]
+location-tracker.base
 
 ### Location Quick Travel
 
@@ -270,13 +270,13 @@ dv.paragraph(`
 
 ## 🕸️ Relationship Web
 
-![[relationship-graph.base]]
+relationship-graph.base
 
 ---
 
 ## 📅 Campaign Timeline
 
-![[campaign-dashboard.base]]
+campaign-dashboard.base
 
 ### Session Planning Assistant
 

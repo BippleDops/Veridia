@@ -6,7 +6,7 @@ date_played:
 location: "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]] - Debate Chambers"
 depth: "1,800 feet"
 npcs_featured:
-  - "[[Senator Glaucus's Shadow]]"
+  - "[[Senator Glaucus]]"
   - "[[The Forgotten Representative]]"
   - "[[Time-Lost Delegate Chronus]]"
   - "[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]"

@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Four-Armed Statue
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Four-Armed Statue
 ---
 # [Four-Armed Statue](3-Mechanics\CLI\bestiary\construct/four-armed-statue-oota.md)
 *Source: Out of the Abyss p. 206*  

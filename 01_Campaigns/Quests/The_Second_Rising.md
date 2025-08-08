@@ -14,7 +14,7 @@ related_npcs:
   - "[[Prophet Miralyn Surfacer]]"
   - "[[Commander Varek Irontrident]]"
   - "[[01_Campaigns/NPCs/The_Crimson_Pearl]]"
-  - "[[Aboleth Prime Yoth'zagoth]]"
+  - "[[Aboleth Prime Yoth]]"
   - "[[01_Campaigns/NPCs/Gareth_Ironforge]]"
 related_locations:
   - "[[01_Campaigns/Locations/Pearl_Harbor_City]]"
@@ -86,7 +86,7 @@ The Oracle bloodline has spoken again after centuries of silence. The prophecy s
 
 ### Second Verse Location
 **[[Depths of Whispers]]**
-- Held by [[Aboleth Prime Yoth'zagoth]]
+- Held by [[Aboleth Prime Yoth]]
 - Requires negotiation or combat
 - Shows the Aboleths caused the original threat
 
@@ -226,8 +226,8 @@ Each faction leader must be dealt with:
 
 ### Support Cast
 - [[Captain Marlowe Tidecrest]] - Transportation
-- [[Dr. Siphon Gillwater]] - Pressure adaptation
-- [[05_Templates/Example_Campaign/NPCs/Whisper Jack]] - Information network
+- [[01_Campaigns/Aquabyssos/Locations/Dr. Siphon Gillwater]] - Pressure adaptation
+- Whisper Jack - Information network
 - [[Master Smith Coral-Hammer]] - Heart restoration
 
 ## Locations Visited

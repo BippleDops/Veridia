@@ -1,46 +1,15 @@
 ---
-tags:
-- location
-- city
-- hub
-aliases:
-- The City of Shadows
-- Haven
-cssclasses:
-- location-card
-- wide-page
-location_type: city
-population: 45000
-government: Council of Guilds
-climate: temperate
-economy: Trade, Magic, Crafting
-danger_level: 2
-districts:
-- Lower Docks
-- Merchant Quarter
-- Noble Heights
-- Arcane District
-- The Undercity
-notable_npcs:
-- '[[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]'
-- '[[05_Templates/Example_Campaign/NPCs/Master Thorne Blackforge]]'
-- '[[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf]]'
-- '[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]'
-guilds:
-- Merchants Guild
-- Crafters Union
-- Arcane Collective
-- Thieves Guild
-image_path: z_Assets/Locations/shadowhaven_overview.jpg
-map_path: z_Assets/Maps/shadowhaven_districts.jpg
-created: 2025-01-25 10:30
 type: location
-modified: 2025-07-23 12:39
-parent_location: ''
-sub_locations: []
-available_services: []
-dangers: []
-secrets: []
+tags:
+  - location
+  - city
+  - hub
+aliases:
+  - The City of Shadows
+  - Haven
+cssclasses:
+  - location-card
+  - wide-page
 ---
 > [!infobox]
 > # Shadowhaven

@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/lower
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/lower
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Night Hag
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Night Hag
 ---
 # [Night Hag](3-Mechanics\CLI\bestiary\fiend/night-hag-xmm.md)
 *Source: Monster Manual (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

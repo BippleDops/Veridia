@@ -122,7 +122,7 @@ Shadows have gained consciousness and want freedom. But freedom for shadows mean
 - **[[The Sorrowmaster]]**: Opposes harvest (ends suffering)
 
 ### Antagonists
-- **[[Senator Glaucus's Shadow]]**: Shadow revolution leader
+- **[[Senator Glaucus]]**: Shadow revolution leader
 - **[[01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet]]**: True conspiracy mastermind
 - **Shadow Parliament**: Parallel government
 - **Corrupted Senators**: Already replaced

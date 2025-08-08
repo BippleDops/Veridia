@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Drider
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Drider
 ---
 # [Drider](3-Mechanics\CLI\bestiary\monstrosity/drider-xmm.md)
 *Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

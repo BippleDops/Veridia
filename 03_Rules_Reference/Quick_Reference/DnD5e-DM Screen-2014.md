@@ -109,19 +109,19 @@ modified: 2025-07-23 12:39
 
 ## Weapons, Armor & Items
 
-- [[Ω_System/CLI/items/weapons|Weapons]]
-- [[Ω_System/CLI/items/armor-and-shields|Armor and Shields]]
+- Weapons
+- Armor and Shields
 
 ## Magic
 
-- [[Ω_System/CLI/spells/school/abjuration|Abjuration]]
-- [[Ω_System/CLI/spells/school/conjuration|Conjuration]]
-- [[Ω_System/CLI/spells/school/divination|Divination]]
-- [[Ω_System/CLI/spells/school/enchantment|Enchantment]]
-- [[Ω_System/CLI/spells/school/evocation|Evocation]]
-- [[Ω_System/CLI/spells/school/illusion|Illusion]]
-- [[Ω_System/CLI/spells/school/necromancy|Necromancy]]
-- [[Ω_System/CLI/spells/school/transmutation|Transmutation]]
+- Abjuration
+- Conjuration
+- Divination
+- Enchantment
+- Evocation
+- Illusion
+- Necromancy
+- Transmutation
 
 ## Skills
 

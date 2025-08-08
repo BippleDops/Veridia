@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/ooze
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Regenerating Black Pudding
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Regenerating Black Pudding
 ---
 # [Regenerating Black Pudding](3-Mechanics\CLI\bestiary\ooze/regenerating-black-pudding-oota.md)
 *Source: Out of the Abyss p. 211*  

@@ -1,22 +1,20 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/20
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Nightwalker
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Nightwalker
 ---
 # [Nightwalker](3-Mechanics\CLI\bestiary\undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  

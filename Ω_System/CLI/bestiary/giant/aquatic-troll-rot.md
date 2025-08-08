@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Aquatic Troll
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Aquatic Troll
 ---
 # [Aquatic Troll](3-Mechanics\CLI\bestiary\giant/aquatic-troll-rot.md)
 *Source: The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88*  

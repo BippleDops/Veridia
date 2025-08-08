@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Bullywug Bog Sage
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Bullywug Bog Sage
 ---
 # [Bullywug Bog Sage](3-Mechanics\CLI\bestiary\fey/bullywug-bog-sage-xmm.md)
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  

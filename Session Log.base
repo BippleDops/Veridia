@@ -99,7 +99,9 @@ views:
     name: Recent Sessions
     filters:
       and:
-        - tags.contains("session")
+        - anyOf:
+            - tags.contains("session")
+            - tags.contains("Session")
     order:
       - sessionNumber
       - date
@@ -127,7 +129,9 @@ views:
     name: Campaign Timeline
     filters:
       and:
-        - tags.contains("session")
+        - anyOf:
+            - tags.contains("session")
+            - tags.contains("Session")
     dateProperty: date
     properties:
       - formula.SessionTitle
@@ -138,7 +142,9 @@ views:
     name: Session Cards
     filters:
       and:
-        - tags.contains("session")
+        - anyOf:
+            - tags.contains("session")
+            - tags.contains("Session")
     columns: 2
     sort:
       - column: sessionNumber
@@ -158,7 +164,9 @@ views:
     name: By Player
     filters:
       and:
-        - tags.contains("session")
+        - anyOf:
+            - tags.contains("session")
+            - tags.contains("Session")
         - players.contains("{{player}}")
     order:
       - sessionNumber
@@ -177,7 +185,9 @@ views:
     name: By Quest
     filters:
       and:
-        - tags.contains("session")
+        - anyOf:
+            - tags.contains("session")
+            - tags.contains("Session")
         - anyOf:
             - questsStarted.contains("{{quest}}")
             - questsAdvanced.contains("{{quest}}")
@@ -198,7 +208,9 @@ views:
     name: Campaign Stats
     filters:
       and:
-        - tags.contains("session")
+        - anyOf:
+            - tags.contains("session")
+            - tags.contains("Session")
     statistics:
       - name: Total Sessions
         formula: count()

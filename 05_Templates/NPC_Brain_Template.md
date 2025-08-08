@@ -6,7 +6,7 @@ race: "<%tp.system.prompt("Race/Species")%>"
 gender: "<%tp.system.prompt("Gender")%>"
 age: <%tp.system.prompt("Age", "Unknown")%>
 faction: "<%tp.system.prompt("Primary Faction")%>"
-location: "[[<%tp.system.prompt("Primary Location")%>]]"
+location: "<%tp.system.prompt("Primary Location")%>"
 first_appearance: "Session <%tp.system.prompt("First Appearance Session", "TBD")%>"
 status: "<%tp.system.suggester(["alive", "dead", "missing", "unknown", "transformed"])%>"
 danger_level: <%tp.system.prompt("Danger Level (1-10)", "5")%>
@@ -77,7 +77,7 @@ if (relationships[0].name) {
     dv.table(
         ["Name", "Relationship", "Trust Level"],
         relationships.filter(r => r.name).map(r => [
-            `[[${r.name}]]`,
+            `${r.name}`,
             r.relation,
             "🟢".repeat(Math.floor(r.trust/2)) + "⚪".repeat(5 - Math.floor(r.trust/2))
         ])
@@ -85,19 +85,18 @@ if (relationships[0].name) {
 }
 ```
 
-### 🔴 Enemies & Rivals
-- **Primary Rival**: [[<%tp.system.prompt("Main enemy/rival", "None")%>]]
+- **Primary Rival**: <%tp.system.prompt("Main enemy/rival", "None")%>
   - **Conflict**: <%tp.system.prompt("Nature of conflict", "")%>
 - **Secondary Enemies**: 
-  - [[<%tp.system.prompt("Enemy 2", "")%>]]
+  - <%tp.system.prompt("Enemy 2", "")%>
 
 ### 🟡 Neutral/Complex
-- **Complicated**: [[<%tp.system.prompt("Complex relationship", "")%>]]
+- **Complicated**: <%tp.system.prompt("Complex relationship", "")%>
   - **Dynamic**: <%tp.system.prompt("Why it's complicated", "")%>
 
 ### 📊 Faction Standing
 Current Reputation: **<%tp.system.prompt("Reputation in faction", "Respected")%>**
-- Superior: [[<%tp.system.prompt("Who they report to", "")%>]]
+- Superior: <%tp.system.prompt("Who they report to", "")%>
 - Peers: <%tp.system.prompt("Faction peers", "")%>
 - Subordinates: <%tp.system.prompt("Who reports to them", "")%>
 
@@ -264,12 +263,12 @@ LIMIT 10
 
 ### Associated Locations
 - Primary: <%tp.get("location")%>
-- Secondary: [[<%tp.system.prompt("Secondary location", "")%>]]
-- Hidden: [[<%tp.system.prompt("Secret location", "")%>]]
+- Secondary: <%tp.system.prompt("Secondary location", "")%>
+- Hidden: <%tp.system.prompt("Secret location", "")%>
 
 ### Connected Quests
-- Main: [[<%tp.system.prompt("Primary quest involvement", "")%>]]
-- Side: [[<%tp.system.prompt("Side quest connection", "")%>]]
+- Main: <%tp.system.prompt("Primary quest involvement", "")%>
+- Side: <%tp.system.prompt("Side quest connection", "")%>
 
 ---
 **NPC Brain Active** | *Last Updated: <%tp.date.now("YYYY-MM-DD")%>*

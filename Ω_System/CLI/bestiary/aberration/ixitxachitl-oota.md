@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Ixitxachitl
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Ixitxachitl
 ---
 # [Ixitxachitl](3-Mechanics\CLI\bestiary\aberration/ixitxachitl-oota.md)
 *Source: Out of the Abyss p. 225*  

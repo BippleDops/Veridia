@@ -1,65 +1,15 @@
 ---
-MyContainer:
-- '[[05_Templates/Example_Campaign/Locations/Shop of Stuff|Shop of Stuff]]'
-MyCategory: null
+type: npc
+status: alive
+my-container:
+  - '[[2-World/Places/Shop of Stuff.md|Shop of Stuff]]'
+my-category: null
 tags:
-- Category/People
-obsidianUIMode: preview
+  - Category/People
+obsidian-u-i-mode: preview
 aliases:
-- characters other name
-NoteStatus: "\u2753"
-char_status: Alive
-char_race: Human
-char_gender: Male
-char_items: []
-char_age: Adult
-parents:
-- Josh
-- Susan
-children:
-- Bob
-- Fred
-enemies:
-- Zander
-allies:
-- Emyerson
-- Bob
-- Frank
-siblings:
-- Flip
-partner:
-- Jane
-Connected_Quests:
-- '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
-Connected_Groups: '[[05_Templates/Template-Character.md|Template-Group]]'
-type: character
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
-name: Fred the Slow
-player: ''
-race: ''
-class: ''
-level: 1
-alignment: ''
-status: active
-location_current: ''
-location_home: ''
-faction: ''
-relationships:
-  allies: []
-  enemies: []
-  family: []
-ability_scores:
-  str: 10
-  dex: 10
-  con: 10
-  int: 10
-  wis: 10
-  cha: 10
-combat:
-  ac: 10
-  hp: 10
-  speed: 30ft
+  - characters other name
+note-status: ❓
 ---
 > [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Hub),optionQuery(#Category/Region),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
 

@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/rot
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/rot
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Paper Whirlwind
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Paper Whirlwind
 ---
 # [Paper Whirlwind](3-Mechanics\CLI\bestiary\construct/paper-whirlwind-rot.md)
 *Source: The Rise of Tiamat p. 72*  

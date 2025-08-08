@@ -151,7 +151,7 @@ const locations = [
 dv.table(
     ["Location", "Control", "Status", "Threat Level"],
     locations.map(l => [
-        `[[${l.name}]]`,
+        `${l.name}`,
         l.control,
         l.status,
         "🔴".repeat(Math.min(l.threat, 5)) + "⚫".repeat(5 - Math.min(l.threat, 5))

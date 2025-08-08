@@ -1,7 +1,7 @@
 ---
 tags:
 - Category/Group
-MyContainer: '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
+MyContainer: 'Island of Skulls'
 MyCategory: Knightly Order
 obsidianUIMode: preview
 leader: Bob

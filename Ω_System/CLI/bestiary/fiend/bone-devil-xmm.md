@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/nine-hells
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/devil
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/nine-hells
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Bone Devil
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Bone Devil
 ---
 # [Bone Devil](3-Mechanics\CLI\bestiary\fiend/bone-devil-xmm.md)
 *Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

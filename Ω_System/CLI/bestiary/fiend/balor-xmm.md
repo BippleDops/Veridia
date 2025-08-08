@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/environment/abyss
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/demon
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/19
+  - ttrpg-cli/monster/environment/abyss
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/fiend/demon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Balor
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Balor
 ---
 # [Balor](3-Mechanics\CLI\bestiary\fiend/balor-xmm.md)
 *Source: Monster Manual (2024) p. 26. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

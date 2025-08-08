@@ -1,0 +1,99 @@
+formulas:
+  DangerBadge: |
+    js:
+    const d = target.danger_level ?? target.dangerLevel ?? 0;
+    if (d >= 8) return '🔴 ' + d;
+    if (d >= 5) return '🟠 ' + d;
+    if (d >= 3) return '🟡 ' + d;
+    if (d > 0) return '🟢 ' + d;
+    return '';
+  QuestCount: |
+    js:
+    const qs = target.active_quests || target.activeQuests || [];
+    return Array.isArray(qs) ? qs.length : 0;
+  RegionDisplay: |
+    js:
+    return target.region || '-';
+
+views:
+  - type: table
+    name: Quest Hubs
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("location")
+            - tags.contains("Location")
+        - active_quests
+    order:
+      - file.name
+      - formula.QuestCount
+      - formula.DangerBadge
+      - region
+    sort:
+      - column: formula.QuestCount
+        direction: DESC
+    columnSize:
+      file.name: 240
+      formula.QuestCount: 120
+      formula.DangerBadge: 100
+      region: 180
+
+  - type: table
+    name: All Locations
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("location")
+            - tags.contains("Location")
+    order:
+      - file.name
+      - type
+      - region
+      - faction
+      - formula.DangerBadge
+    sort:
+      - column: file.name
+        direction: ASC
+    columnSize:
+      file.name: 240
+      type: 140
+      region: 160
+      faction: 160
+      formula.DangerBadge: 100
+
+  - type: table
+    name: Dangerous Areas
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("location")
+            - tags.contains("Location")
+        - danger_level
+    order:
+      - file.name
+      - region
+      - formula.DangerBadge
+    sort:
+      - column: danger_level
+        direction: DESC
+    columnSize:
+      file.name: 240
+      region: 160
+      formula.DangerBadge: 100
+
+  - type: table
+    name: By Region
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("location")
+            - tags.contains("Location")
+    order:
+      - region
+      - file.name
+    sort:
+      - column: region
+        direction: ASC
+      - column: file.name
+        direction: ASC
+

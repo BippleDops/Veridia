@@ -109,7 +109,7 @@ A parallel body of shadows that meets in the same space but different phase:
 - Passes shadow legislation
 - Votes on original replacement
 - Planning the Dark Harvest
-- Led by [[Senator Glaucus's Shadow]]
+- Led by [[Senator Glaucus]]
 
 ## ⚔️ Encounters & Challenges
 

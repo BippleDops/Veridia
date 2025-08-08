@@ -1,22 +1,20 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/environment/water
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental/genie
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/environment/water
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/elemental/genie
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Marid
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Marid
 ---
 # [Marid](3-Mechanics\CLI\bestiary\elemental/marid-xmm.md)
 *Source: Monster Manual (2024) p. 203*  

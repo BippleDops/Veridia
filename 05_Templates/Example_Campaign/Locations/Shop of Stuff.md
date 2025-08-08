@@ -1,9 +1,9 @@
 ---
 tags:
-- Category/Place
-MyContainer: '[[05_Templates/Example_Campaign/Locations/City of Screams|City of Screams]]'
-MyCategory: Commerce
-obsidianUIMode: preview
+  - Category/Place
+my-container: '[[2-World/Hubs/City of Screams.md|City of Screams]]'
+my-category: Commerce
+obsidian-u-i-mode: preview
 type: location
 aliases: []
 created: 2025-07-23 12:39

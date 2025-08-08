@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/hotdq
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+  - ttrpg-cli/compendium/src/5e/hotdq
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Four-Armed Troll
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Four-Armed Troll
 ---
 # [Four-Armed Troll](3-Mechanics\CLI\bestiary\giant/four-armed-troll-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 65*  

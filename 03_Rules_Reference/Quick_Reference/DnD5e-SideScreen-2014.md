@@ -110,18 +110,18 @@ modified: 2025-07-23 12:39
 > [[Ω_System/CLI/books/players-handbook-2014/10-combat#Dropping to 0 Hit Points#Monsters and Death|Monsters and Death]]
 
 > [!info]- Weapons and Armor
-> [[Ω_System/CLI/items/weapons|Weapons]]
-> [[Ω_System/CLI/items/armor-and-shields|Armor and Shields]]
+> Weapons
+> Armor and Shields
 
 > [!info]- Magic Schools
-> [[Ω_System/CLI/spells/school/abjuration|Abjuration]]
-> [[Ω_System/CLI/spells/school/conjuration|Conjuration]]
-> [[Ω_System/CLI/spells/school/divination|Divination]]
-> [[Ω_System/CLI/spells/school/enchantment|Enchantment]]
-> [[Ω_System/CLI/spells/school/evocation|Evocation]]
-> [[Ω_System/CLI/spells/school/illusion|Illusion]]
-> [[Ω_System/CLI/spells/school/necromancy|Necromancy]]
-> [[Ω_System/CLI/spells/school/transmutation|Transmutation]]
+> Abjuration
+> Conjuration
+> Divination
+> Enchantment
+> Evocation
+> Illusion
+> Necromancy
+> Transmutation
 
 > [!info]- Skills
 > [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]]

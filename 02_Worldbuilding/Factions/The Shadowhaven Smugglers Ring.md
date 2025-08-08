@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 > | | |
 > |---|---|
 > | **Type** | Criminal Enterprise |
-> | **Leader** | [[05_Templates/Example_Campaign/NPCs/Vex Nightwhisper]] |
+> | **Leader** | Vex Nightwhisper |
 > | **Status** | Active & Expanding |
 > | **Influence** | 6/10 (Regional Power) |
 > | **Members** | ~47 (Cell Structure) |
@@ -26,51 +26,51 @@ modified: 2025-07-23 12:39
 ## 🕸️ Organizational Structure
 
 ### Leadership Circle (Inner Ring)
-- **[[05_Templates/Example_Campaign/NPCs/Vex Nightwhisper]]** - *The Architect*
+- **Vex Nightwhisper** - *The Architect*
   - **Role**: Supreme leader, strategic planning, high-level negotiations
   - **Background**: Former noble who "died" in suspicious circumstances 
   - **Secret**: Actually [[Lord Vexton Shadowmere]], presumed dead heir
-  - **Location**: Hidden luxury suite beneath the [[05_Templates/Example_Campaign/Locations/The Gilded Serpent Tavern|The Gilded Serpent Tavern]]
+  - **Location**: Hidden luxury suite beneath the The Gilded Serpent Tavern
 
-- **[[05_Templates/Example_Campaign/NPCs/Scar "The Navigator" Kellian]]** - *Operations Chief*
+- **Scar "The Navigator" Kellian** - *Operations Chief*
   - **Role**: Day-to-day operations, ship scheduling, route planning
   - **Background**: Veteran sea captain, knows every hidden cove and secret harbor
   - **Secret**: Has detailed maps of underwater caves beneath Shadowhaven
   - **Vulnerability**: Gambling addiction exploitable by enemies
 
-- **[[05_Templates/Example_Campaign/NPCs/Whisper "Coin" Mordaine]]** - *Financial Director*  
+- **Whisper "Coin" Mordaine** - *Financial Director*  
   - **Role**: Money laundering, legitimate front businesses, payroll
   - **Background**: Former Merchants Guild accountant, fled after embezzlement discovery
   - **Secret**: Maintains secret accounts in multiple banks using false identities
-  - **Cover**: Runs [[05_Templates/Example_Campaign/Locations/Mordaine's Curiosity Shop]] as legitimate front
+  - **Cover**: Runs Mordaine's Curiosity Shop as legitimate front
 
 ### Lieutenant Network (Cell Leaders)
-- **[[05_Templates/Example_Campaign/NPCs/Thresh "Ironhook" Valdris]]** - *Docks Operations*
+- **Thresh "Ironhook" Valdris** - *Docks Operations*
   - Territory: Eastern Harbor and Warehouse District
   - Specialty: Port security corruption, cargo manipulation
   - Cover: Senior Dockworker, union representative
   
-- **[[05_Templates/Example_Campaign/NPCs/Silken Sarai]]** - *Information & Blackmail*
+- **Silken Sarai** - *Information & Blackmail*
   - Territory: Noble District infiltration
   - Specialty: High-society intelligence, political leverage
   - Cover: Expensive courtesan serving wealthy clients
 
-- **[[05_Templates/Example_Campaign/NPCs/Gruff "Stone" Ironbelly]]** - *Enforcement & Security*
+- **Gruff "Stone" Ironbelly** - *Enforcement & Security*
   - Territory: Undercity tunnels and protection rackets
   - Specialty: Violent problem-solving, territory defense
   - Background: Ex-military deserter with combat experience
 
-- **[[05_Templates/Example_Campaign/NPCs/Echo "The Ghost" Vain]]** - *Smuggling Routes*
+- **Echo "The Ghost" Vain** - *Smuggling Routes*
   - Territory: Underground tunnel network
   - Specialty: Moving contraband invisibly through the city
   - Secret: Knows about ancient passages predating Shadowhaven
 
-- **[[05_Templates/Example_Campaign/NPCs/Melody Goldtooth]]** - *Legitimate Front Manager*
+- **Melody Goldtooth** - *Legitimate Front Manager*
   - Territory: Surface world business operations
   - Specialty: Creating and managing legal cover businesses
   - Cover: Successful merchant with multiple legitimate enterprises
 
-- **[[05_Templates/Example_Campaign/NPCs/Raven "Nighteyes" Thorne]]** - *Counter-Intelligence*
+- **Raven "Nighteyes" Thorne** - *Counter-Intelligence*
   - Territory: Security and infiltration prevention
   - Specialty: Rooting out spies, protecting organization secrets
   - Background: Former spy for foreign power, expert in deception
@@ -84,7 +84,7 @@ modified: 2025-07-23 12:39
    - **Goods**: Rare spices, magical components, prohibited texts, exotic weapons
    - **Routes**: Hidden compartments in legitimate merchant vessels
    - **Volume**: 200+ shipments per month worth 50,000+ gold
-   - **Key Assets**: [[05_Templates/Example_Campaign/Locations/The Siren's Revenge]] (disguised smuggling vessel)
+   - **Key Assets**: The Siren's Revenge (disguised smuggling vessel)
 
 2. **Protection & Extortion Rackets**
    - **Targets**: Independent merchants, tavern owners, small shops
@@ -128,9 +128,9 @@ modified: 2025-07-23 12:39
   - Strategic access to sea routes
 
 - **Selected Urban Properties**
-  - [[05_Templates/Example_Campaign/Locations/The Gilded Serpent Tavern]] (Headquarters front)
-  - [[05_Templates/Example_Campaign/Locations/Mordaine's Curiosity Shop]] (Fence operation)
-  - [[05_Templates/Example_Campaign/Locations/The Sunken Treasure Inn]] (Information hub)
+  - The Gilded Serpent Tavern (Headquarters front)
+  - Mordaine's Curiosity Shop (Fence operation)
+  - The Sunken Treasure Inn (Information hub)
   - 6 additional safe houses across the city
 
 ### The Tunnel Network
@@ -199,7 +199,7 @@ Net_Profit: "120,000 gold"
 - **Recent Escalations**: Guild hired [[02_Worldbuilding/Factions/Investigators Anonymous]] to probe Ring activities
 - **Future Predictions**: Open conflict likely within 6 months without intervention
 
-#### [[05_Templates/Example_Campaign/NPCs/Captain Helena Stormwatch]] - Law Enforcement Vendetta
+#### Captain Helena Stormwatch - Law Enforcement Vendetta
 - **Conflict Type**: Personal crusade by incorruptible port authority captain
 - **Background**: Stormwatch's partner was killed during failed Ring investigation
 - **Current Status**: Active investigation with growing evidence
@@ -207,13 +207,13 @@ Net_Profit: "120,000 gold"
 
 #### [[02_Worldbuilding/Factions/Temple of Divine Order]] - Moral Opposition  
 - **Conflict Type**: Religious organization opposes vice and corruption
-- **Leader**: [[05_Templates/Example_Campaign/NPCs/High Priestess Seraphina Lightbringer]]
+- **Leader**: High Priestess Seraphina Lightbringer
 - **Activities**: Public sermons against corruption, supporting honest merchants
 - **Future Risk**: Could inspire popular uprising against criminal activities
 
 ### Potential Allies
 
-#### [[05_Templates/Example_Campaign/NPCs/Councillor Marcus Greywind]] - Secret Partnership
+#### Councillor Marcus Greywind - Secret Partnership
 - **Relationship**: Corrupt politician taking bribes for favorable policies
 - **Benefits**: Advanced warning of raids, favorable legislation, protection from investigation
 - **Vulnerability**: If exposed, could bring down both Ring and Councillor
@@ -234,7 +234,7 @@ Net_Profit: "120,000 gold"
 - Ring has been conducting "insurance operations" - sinking targeted ships
 - Goal: Create shipping shortages to drive up smuggling profits
 - Method: Sabotage appearing as storms or sea monster attacks  
-- Next Target: [[05_Templates/Example_Campaign/Locations/Guild Flagship Prosperity's Dream]]
+- Next Target: Guild Flagship Prosperity's Dream
 - Risk: If discovered, could unite all enemies against the Ring
 
 ### Political Maneuvering
@@ -258,7 +258,7 @@ Net_Profit: "120,000 gold"
 1. **Stormwatch Investigation**: Captain closing in on major operation
 2. **Guild Counterattack**: Merchants planning coordinated response to Ring activities  
 3. **Informant Discovery**: Risk of key informant being exposed in Guild circles
-4. **Territory War**: Rival criminal group from [[05_Templates/Example_Campaign/Locations/Port Sorrow]] attempting to establish presence
+4. **Territory War**: Rival criminal group from Port Sorrow attempting to establish presence
 
 ### Medium-Term Strategies (6 Months)
 1. **Political Legitimization**: Attempting to gain legal recognition and protection
@@ -323,10 +323,10 @@ if (ringSessions.length > 0) {
 ## 🗂️ Related Content
 
 ### Key NPCs
-- **[[05_Templates/Example_Campaign/NPCs/Vex Nightwhisper]]** - Supreme Leader
-- **[[05_Templates/Example_Campaign/NPCs/Scar "The Navigator" Kellian]]** - Operations Chief  
-- **[[05_Templates/Example_Campaign/NPCs/Captain Helena Stormwatch]]** - Primary Enemy
-- **[[05_Templates/Example_Campaign/NPCs/Councillor Marcus Greywind]]** - Secret Ally
+- **Vex Nightwhisper** - Supreme Leader
+- **Scar "The Navigator" Kellian** - Operations Chief  
+- **Captain Helena Stormwatch** - Primary Enemy
+- **Councillor Marcus Greywind** - Secret Ally
 
 ### Connected Organizations
 - **[[02_Worldbuilding/Factions/Merchants Guild]]** - Primary Rival
@@ -334,14 +334,14 @@ if (ringSessions.length > 0) {
 - **[[02_Worldbuilding/Factions/Dockworkers Union]]** - Partial Infiltration Target
 
 ### Relevant Locations
-- **[[05_Templates/Example_Campaign/Locations/The Gilded Serpent Tavern]]** - Headquarters
-- **[[05_Templates/Example_Campaign/Locations/Shadowhaven Undercity]]** - Primary Territory
-- **[[05_Templates/Example_Campaign/Locations/Eastern Harbor District]]** - Contested Territory
+- **The Gilded Serpent Tavern** - Headquarters
+- **Shadowhaven Undercity** - Primary Territory
+- **Eastern Harbor District** - Contested Territory
 
 ### Active Quests
-- **[[05_Templates/Example_Campaign/Quests/The Vanishing Merchant Vessels]]** - Ring is secretly involved
-- **[[05_Templates/Example_Campaign/Quests/Council Election Conspiracy]]** - Ring's political influence campaign
-- **[[05_Templates/Example_Campaign/Quests/The Underground War]]** - Territorial conflict with rival criminals
+- **The Vanishing Merchant Vessels** - Ring is secretly involved
+- **Council Election Conspiracy** - Ring's political influence campaign
+- **The Underground War** - Territorial conflict with rival criminals
 
 ---
 

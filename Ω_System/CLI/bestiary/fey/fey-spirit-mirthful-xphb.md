@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fey
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Fey Spirit (Mirthful)
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Fey Spirit (Mirthful)
 ---
 # [Fey Spirit (Mirthful)](3-Mechanics\CLI\bestiary\fey/fey-spirit-mirthful-xphb.md)
 *Source: Player's Handbook (2024) p. 326*  

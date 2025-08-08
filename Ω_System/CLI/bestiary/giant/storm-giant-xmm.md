@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/13
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Storm Giant
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Storm Giant
 ---
 # [Storm Giant](3-Mechanics\CLI\bestiary\giant/storm-giant-xmm.md)
 *Source: Monster Manual (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

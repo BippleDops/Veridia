@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Broom of Animated Attack
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Broom of Animated Attack
 ---
 # [Broom of Animated Attack](3-Mechanics\CLI\bestiary\construct/broom-of-animated-attack-cos.md)
 *Source: Curse of Strahd p. 226*  

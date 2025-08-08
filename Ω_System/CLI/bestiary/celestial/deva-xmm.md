@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/celestial/angel
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/upper
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/celestial/angel
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Deva
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Deva
 ---
 # [Deva](3-Mechanics\CLI\bestiary\celestial/deva-xmm.md)
 *Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

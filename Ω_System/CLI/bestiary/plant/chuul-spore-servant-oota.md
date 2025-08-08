@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Chuul Spore Servant
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Chuul Spore Servant
 ---
 # [Chuul Spore Servant](3-Mechanics\CLI\bestiary\plant/chuul-spore-servant-oota.md)
 *Source: Out of the Abyss p. 228*  

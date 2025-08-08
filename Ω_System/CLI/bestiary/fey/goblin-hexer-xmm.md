@@ -1,25 +1,23 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/acheron
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fey/goblinoid
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/acheron
+  - ttrpg-cli/monster/environment/feywild
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Goblin Hexer
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Goblin Hexer
 ---
 # [Goblin Hexer](3-Mechanics\CLI\bestiary\fey/goblin-hexer-xmm.md)
 *Source: Monster Manual (2024) p. 143*  

@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Spirit Statue Mascot
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Spirit Statue Mascot
 ---
 # [Spirit Statue Mascot](3-Mechanics\CLI\bestiary\construct/spirit-statue-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 216*  

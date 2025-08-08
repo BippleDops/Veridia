@@ -292,7 +292,7 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Current weavers
 **Bloodline Gift**: Control over tides/currents
 **Curse**: Must touch water daily or wither
-**Key NPCs**: [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]], [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]]
+**Key NPCs**: Captain Blackwater, [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]]
 
 #### House Brightshield-Dawnguard
 **Surface Branch**: Royal guard leadership

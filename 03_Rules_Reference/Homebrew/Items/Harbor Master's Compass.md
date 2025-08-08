@@ -82,7 +82,7 @@ Additionally, you feel compelled to investigate any missing persons or mysteriou
 
 ## Quest Connections
 
-### [[05_Templates/Example_Campaign/Quests/The Vanishing Merchant Vessels]]
+### The Vanishing Merchant Vessels
 This compass is a key piece of evidence in the investigation. It may hold clues about what happened to the missing ships and could lead the party to their fate.
 
 ### Future Adventures

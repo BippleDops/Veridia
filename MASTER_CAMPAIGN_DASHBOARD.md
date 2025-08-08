@@ -48,7 +48,7 @@ created: 2025-08-08
 ## 📊 Database Command Center
 
 ### 🧑 NPCs & Characters
-`EMBED[NPC_Roster_Enhanced.base][Active NPCs]`
+`EMBED[NPC Directory.base][Active NPCs]`
 
 > [!column|no-i flex]
 > 
@@ -76,10 +76,26 @@ created: 2025-08-08
 ## 📅 Campaign Timeline
 
 ### Recent Sessions
-`EMBED[Timeline_Tracker.base][Recent Sessions]`
+`EMBED[Session Log.base][Recent Sessions]`
 
 ### Major Events This Campaign
-`EMBED[Timeline_Tracker.base][Major Events]`
+`EMBED[Session Log.base][Campaign Timeline]`
+
+### Session Summaries
+
+```dataview
+TABLE
+  file.link as "Session",
+  date as "Date",
+  primary_location as "Primary Location",
+  length(npcs_met) as "NPCs",
+  length(quests_started) as "New Quests",
+  length(quests_completed) as "Completed"
+FROM "01_Campaigns"
+WHERE contains(tags, "session")
+SORT (date ?? file.mtime) desc
+LIMIT 5
+```
 
 ---
 
@@ -105,6 +121,61 @@ created: 2025-08-08
 
 ---
 
+## 👥 Character Status
+
+> [!note]
+> Active characters and their latest updates
+
+```dataview
+TABLE
+  file.link as "Character",
+  level,
+  class,
+  status,
+  file.mtime as "Last Updated"
+FROM "07_Player_Resources/Character_Sheets"
+SORT file.mtime desc
+LIMIT 12
+```
+
+```dataview
+TABLE
+  file.link as "Character",
+  level,
+  class,
+  status,
+  file.mtime as "Last Updated"
+WHERE contains(tags, "pc") OR contains(tags, "PC")
+SORT file.mtime desc
+LIMIT 12
+```
+
+---
+
+## 🗓️ Upcoming Events & Sessions
+
+### Scheduled Sessions
+
+```dataview
+TABLE file.link as "Session", date
+FROM "01_Campaigns"
+WHERE contains(tags, "session") AND date >= date(today)
+SORT date asc
+LIMIT 5
+```
+
+> [!tip] Add upcoming in-world events
+> Create notes with `event_date: YYYY-MM-DD` in frontmatter to populate this table.
+
+```dataview
+TABLE file.link as "Event", event_date as "Date", event_location as "Location"
+WHERE event_date AND event_date >= date(today)
+SORT event_date asc
+LIMIT 10
+```
+
+---
+
 ## 🏛️ Faction Politics
 
 ### Faction Power Rankings
@@ -122,6 +193,20 @@ created: 2025-08-08
 
 ### Available Magic Items
 `EMBED[Item_Catalog.base][Magic Items]`
+
+---
+
+## 🔗 Resource Quick Links
+
+> [!abstract]
+> Frequently used references
+
+- 5e DM Screen (2014): [[03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
+- 5e Side Screen (2024): [[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+- Scene Framing: [[06_GM_Resources/Scene Framing Templates]]
+- Aquabyssos Random Encounters: [[04_Resources/Random_Tables/Aquabyssos Random Encounter Tables]]
+- Rumors: [[04_Resources/Random_Tables/Abyssos Prime Rumor Tables]]
+- NPC Quick Reference: [[06_GM_Resources/NPC Quick Reference Guide]]
 
 ---
 
@@ -152,16 +237,16 @@ created: 2025-08-08
 >
 >> [!example|clean no-t]
 >> ### Session Management
->> - 📝 [[05_Templates/Session_Template|New Session]]
->> - 🎯 [[05_Templates/Session_Prep_Automated|Prep Next Session]]
->> - 📊 [[Timeline_Tracker.base]]
+>> - 📝 New Session
+>> - 🎯 Prep Next Session
+>> - 📊 Timeline_Tracker.base
 >> - 📜 [[Session Log.base]]
 >
 >> [!todo|clean no-t]
 >> ### Content Creation
->> - 🧑 [[05_Templates/NPC_Template|Create NPC]]
->> - 📍 [[05_Templates/Location_Template|New Location]]
->> - ⚔️ [[05_Templates/Quest_Template|Design Quest]]
+>> - 🧑 Create NPC
+>> - 📍 New Location
+>> - ⚔️ Design Quest
 >> - 💎 [[Item Template|Create Item]]
 >
 >> [!info|clean no-t]

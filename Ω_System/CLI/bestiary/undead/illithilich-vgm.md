@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/22
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Illithilich
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Illithilich
 ---
 # [Illithilich](3-Mechanics\CLI\bestiary\undead/illithilich-vgm.md)
 *Source: Volo's Guide to Monsters p. 172*  

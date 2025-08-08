@@ -127,3 +127,43 @@ Using consistent keys enables reliable filters and cross-views across Bases.
 Planned follow-up: add the six new databases (factions, timeline, loot, random encounters, rules, consequences) and wire them into dashboards.
 
 
+
+## Phase 3 Implementation (current vault)
+
+- Databases detected: `NPC Directory.base`, `Session Log.base`, `Quest Campaign Tracker.base`, `Combat Tracker.base`, `Monster Gallery.base`, `Item Showcase.base`, `Spell Compendium.base`, `Image Library.base`, `Modern Card Galleries.base`.
+- Canon properties: adopt incrementally in content and templates; aim for minimal fields to power new views first.
+
+### Enhancements applied
+- NPC Directory.base: broadened tag filter to accept `#NPC` or `#npc` across all views.
+- Session Log.base: broadened tag filter to accept `#session` or `#Session` across all views.
+- Quest Campaign Tracker.base: broadened tag filter to accept `#Category/Quest` or `#Quest` across views.
+- Combat Tracker.base: retained view layout; ready for LowHP/Concentration formula additions if desired.
+
+### Next actions (Phase 3)
+- Add formulas/columns:
+  - NPC: OverdueContact, SessionFlag.
+  - Combat: LowHPBadge, Conditions filter quick toggles.
+  - Quests: DueSoon flag, By Location param view.
+- Create missing .base:
+  - `Faction_Tracker.base`: factions, standings, relationships.
+  - `Item_Catalog.base`: unify items with ownership and attunement.
+  - `Relationship_Graph.base` (if not present in root) with entity relationships.
+  - `Timeline_Tracker.base` (if dashboard needs dedicated view separate from Session Log).
+- Wire dashboards: replace `EMBED[...]` with working database names and ensure parameters exist.
+
+Generated: {{date:YYYY-MM-DD HH:mm}}
+
+---
+
+## Phase 5–7 Progress (current)
+
+- Created `Location Tracker.base` with views: Quest Hubs, All Locations, Dangerous Areas, By Region. Wired into `MASTER_CAMPAIGN_DASHBOARD.md` via `EMBED[Location Tracker.base][Quest Hubs]`.
+- Templates updated (minimal canonical fields):
+  - `Session_Template.md`: added `sessionNumber`, `npcsMet`, `questsStarted`, `questsAdvanced`, `questsCompleted`, `loot`, `treasureValue` (legacy underscore fields retained).
+  - `NPC_Template.md`: added `aliases`, `status`, `lastSeen` for NPC Directory views.
+  - `Location_Template.md`: added `active_quests`, optional `event_date`/`event_location` for calendar.
+  - `Quest_Template.md`: normalized to `quest_status`, `quest_priority`, `quest_location`, `quest_progress`, `reward_gold`, `reward_xp`.
+- Templater hygiene fixes:
+  - Removed `[[<%...%>]]` wrappers in `NPC_Brain_Template.md` and `Session_Prep_Automated.md`.
+- Dice Roller examples added to Session/NPC/Location templates.
+- Documentation updated in `Documentation/Plugin Optimization Guide.md` with Dataview limits, Dice Roller usage, Fantasy Calendar wiring to `Aethel.json`, and Initiative/Statblocks notes.

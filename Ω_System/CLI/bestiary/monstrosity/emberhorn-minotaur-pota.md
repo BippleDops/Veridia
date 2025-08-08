@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/pota
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/pota
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Emberhorn Minotaur
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Emberhorn Minotaur
 ---
 # [Emberhorn Minotaur](3-Mechanics\CLI\bestiary\monstrosity/emberhorn-minotaur-pota.md)
 *Source: Princes of the Apocalypse p. 120*  

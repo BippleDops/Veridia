@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/unknown
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/unknown
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Animated Object
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Animated Object
 ---
 # [Animated Object](3-Mechanics\CLI\bestiary\construct/animated-object-xphb.md)
 *Source: Player's Handbook (2024) p. 240*  

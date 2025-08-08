@@ -114,8 +114,8 @@ for (const npc of recentNPCs) {
 -%>
 
 ### Potentially Appearing
-- [[<%tp.system.prompt("Potential NPC 1", "")%>]]
-- [[<%tp.system.prompt("Potential NPC 2", "")%>]]
+- <%tp.system.prompt("Potential NPC 1", "")%>
+- <%tp.system.prompt("Potential NPC 2", "")%>
 
 ### NPC Dispositions
 ```dataview

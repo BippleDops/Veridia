@@ -194,7 +194,7 @@ Track each character's exposure level (0-6 scale)
 1. Journey to [[Whisper Island]] to investigate lighthouse
 2. Violet light pillar suggests major ritual or summoning
 3. Synchronized screaming implies psychic connection
-4. [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]]'s ship might be at the island
+4. Captain Blackwater's ship might be at the island
 
 ## GM Reflections
 ### What Worked
@@ -217,7 +217,7 @@ Track each character's exposure level (0-6 scale)
 
 ## Prep for Next Session
 - [ ] Create [[Whisper Island]] location details
-- [ ] Stat [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]]'s ghost/remains
+- [ ] Stat Captain Blackwater's ghost/remains
 - [ ] Prepare [[The Seahawk]] ship exploration
 - [ ] Design lighthouse puzzle/challenges
 - [ ] Create [[Jasper Three-Eyes Flint]] NPC

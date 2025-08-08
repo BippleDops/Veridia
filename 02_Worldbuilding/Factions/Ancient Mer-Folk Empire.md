@@ -8,10 +8,10 @@ modified: 2025-07-23 15:35
 # Ancient Mer-Folk Empire
 
 ## General Info
-**Location**: [[05_Templates/Example_Campaign/Locations/The Sunken City of Aeridor]]
+**Location**: The Sunken City of Aeridor
 
 ## Description
-The Ancient Mer-Folk Empire is a powerful and ancient civilization that has existed for thousands of years. They are ruled by the wise and just [[05_Templates/Example_Campaign/NPCs/Deep Lord Pelagios the Eternal]], and they are the guardians of the Heart of the Sea.
+The Ancient Mer-Folk Empire is a powerful and ancient civilization that has existed for thousands of years. They are ruled by the wise and just Deep Lord Pelagios the Eternal, and they are the guardians of the Heart of the Sea.
 
 ## GM Notes
 - The mer-folk are a potential ally for the party, but they are also very suspicious of surface dwellers.

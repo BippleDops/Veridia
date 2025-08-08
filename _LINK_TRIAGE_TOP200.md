@@ -1,261 +1,72 @@
 # Link Triage (Top 200)
-Generated: 2025-08-08 09:57:12
+Generated: 2025-08-08 12:04:25
 
 ## Highest-Impact Sources (Top 50)
-- MASTER_CAMPAIGN_DASHBOARD.md — 3 broken links
-- 00_Dashboard/Master_Campaign_Control_Center.md — 4 broken links
+- MASTER_CAMPAIGN_DASHBOARD.md — 1 broken links
 - 00_Dashboard/Master_Campaign_Control_Center_v2.md — 1 broken links
-- 00_Dashboard/Campaign_State.md — 1 broken links
-- 01_Campaigns/Locations/Pearl_Harbor_City.md — 45 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md — 30 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md — 30 broken links
-- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md — 28 broken links
-- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md — 27 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md — 26 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md — 25 broken links
-- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md — 22 broken links
-- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md — 22 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md — 22 broken links
-- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md — 21 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md — 21 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md — 20 broken links
-- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md — 17 broken links
-- 01_Campaigns/Aquabyssos/Locations/New Tethys.md — 15 broken links
-- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md — 15 broken links
-- 01_Campaigns/Aethermoor/Locations/Port Meridian.md — 15 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md — 14 broken links
-- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md — 14 broken links
-- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md — 13 broken links
-- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md — 13 broken links
-- 01_Campaigns/NPCs/The_Crimson_Pearl.md — 12 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md — 12 broken links
-- 01_Campaigns/Quests/The_Second_Rising.md — 11 broken links
-- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md — 11 broken links
-- 01_Campaigns/Aethermoor/Factions/Merchant Princes.md — 11 broken links
-- 01_Campaigns/Quests/Find_the_Missing_Caravan.md — 10 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md — 10 broken links
-- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md — 9 broken links
-- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md — 9 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md — 9 broken links
-- 01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard.md — 9 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md — 9 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md — 9 broken links
-- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md — 9 broken links
-- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md — 9 broken links
-- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md — 8 broken links
-- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md — 8 broken links
-- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md — 8 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md — 8 broken links
-- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md — 8 broken links
-- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md — 8 broken links
-- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md — 8 broken links
-- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md — 7 broken links
-- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md — 7 broken links
-- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md — 6 broken links
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md — 8 broken links
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md — 3 broken links
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md — 2 broken links
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md — 2 broken links
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md — 2 broken links
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md — 2 broken links
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md — 2 broken links
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md — 2 broken links
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md — 1 broken links
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md — 1 broken links
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md — 1 broken links
+- 01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons.md — 1 broken links
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md — 1 broken links
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md — 1 broken links
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md — 1 broken links
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md — 1 broken links
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md — 1 broken links
+- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md — 1 broken links
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md — 1 broken links
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md — 1 broken links
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md — 1 broken links
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md — 1 broken links
+- 01_Campaigns/Locations/Pearl_Harbor_City.md — 1 broken links
+- z_Templates/World Builder Templates/Template-Session-Music-Enhanced.md — 2 broken links
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md — 1 broken links
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md — 1 broken links
 
 ## Top Broken Targets
-- Sylvanheart: 9
-- Ironhold: 9
-- Aboleth Prime Yoth: 8
-- The Order of the Shattered Crown: 8
-- The Azure Coast: 7
-- Investigate the Crystal Plague: 7
-- Elder Matthias Stoneward: 7
-- Master Smith Coral-Hammer: 6
-- Captain Marlowe Tidecrest: 5
-- Whisper Island: 5
-- The Seahawk: 5
-- Keeper Elara Moonwhisper: 5
-- Master Chen Wei: 5
-- Madame Rosalind Goldleaf: 5
-- Smuggler: 4
-- Dr. Siphon Gillwater: 4
-- Senator Glaucus: 4
-- Quest - Divine Intervention: 4
-- The Whispering Expanse: 4
-- The Siren: 4
-- Pier 7: 4
-- Lady Venetia Silkwind: 4
-- Azure Citadel: 3
-- The Coral Throne Syndicate: 3
-- " + file.name + ": 3
-- Market Master Cornelius Driftwood: 3
-- Commander Typhoon Blackheart: 3
-- Harbor Master Luna Freedrift: 3
-- Engineer Brass Gearspin: 3
-- Lucky Finn Dicetide: 3
-- Commander Drake Pressureborn: 3
-- Scout Captain Vera Deepwatch: 3
-- Battle Priest Cassius Depthshield: 3
-- Mediator Serenity Stillwater: 3
 - Envoy Blackwater Jr.: 3
-- Spymaster Crow: 3
-- Master Smith Vulcan Deepforge: 3
-- The Trencher Folk: 3
-- The Pressure Crown: 3
-- Discover Shadow Market Location: 3
-- The Tidecaller: 3
-- The Bloodline Carrier: 3
-- Port Meridian - Harbor District: 3
-- Quest - The Crystal Festival: 3
-- Quest - Syndicate Shadows: 3
-- Quest - The Lost Expedition: 3
-- Sage Lyralei Starweaver: 3
-- The Crystalline Foundry: 3
 - Lighthouse Keeper: 3
 - Vex Shadowthorn: 3
-- Crystal Mimics: 3
-- Infected Experiments: 3
-- Crimson Hand Apprentices: 3
-- Lamplight Alley: 3
-- Crystal Cult Initiates Ambush: 3
-- Shadow Bazaar: 3
-- Merchant Lord Silas Copperfield: 3
-- Captain Rodrigo Ironanchor: 3
-- Illyana Glowstream: 3
-- Taverner Bubbles McGill: 3
-- The Lighthouse of Storms: 2
-- Template-Session-Enhanced: 2
-- Ω_System/CLI/items/weapons: 2
-- Ω_System/CLI/items/armor-and-shields: 2
-- Ω_System/CLI/spells/school/abjuration: 2
-- Ω_System/CLI/spells/school/conjuration: 2
-- Ω_System/CLI/spells/school/divination: 2
-- Ω_System/CLI/spells/school/enchantment: 2
-- Ω_System/CLI/spells/school/evocation: 2
-- Ω_System/CLI/spells/school/illusion: 2
-- Ω_System/CLI/spells/school/necromancy: 2
-- Ω_System/CLI/spells/school/transmutation: 2
-- Crystal Gardens: 2
-- Princess Celestia: 2
-- Shadow Separation Mechanics: 2
-- Mourning Depths: 2
-- Crystalline Depths: 2
-- Luminous Hollow: 2
-- The Tidal Council: 2
-- The Sunken Library of Thalassius: 2
-- The Heart of Oceanus: 2
-- Caravan Master Dolrim: 2
-- Bandit Leader Scarface: 2
-- Ambush Point: 2
-- The Lock Saboteur: 2
-- The Depth Accords: 2
-- Vote Vaults: 2
-- The Biomancers: 2
-- Crown Dome Conspiracy: 2
-- Abyssal Cathedral: 2
-- Shadow Conspiracy: 2
-- Original Glaucus: 2
-- Shadow Citizenship Act: 2
-- Shadow Parliament: 2
-- Gold-Grave Harbor: 2
-- The Deep Uprising: 2
-- The Bathyal Succession: 2
-- Abyssos Prime - Pressure Terminal: 2
-- Inverted Ballroom Wing: 2
-- Pressure Tube Operator Krill: 2
-- Shadow Ambush - Optional: 2
-- Deep Mother: 2
-- Memory Farmer Thane: 2
-- Reflection Broker Mirrors: 2
-- Lord Flux the Inconsistent: 2
-- Reflection Pools - Surgical Theater: 2
-- Shadow Market Canals: 2
-- Shadow Nyx: 2
-- The Real Marina: 2
-- Shadow Surgeons Collective: 2
-- Hybrid Abominations: 2
-- The Shadow Duchess Duel: 2
-- Temple Guardian Marcus the Drowned: 2
-- The Singing Shadows: 2
-- Mad Bell-Ringer Thomas: 2
-- Vault Keeper Eternal: 2
-- The First Failure: 2
+- " + file.name + ": 2
 - Merchant: 2
-- Trader Grimm Voidheart: 2
-- Shadow Merchant Riptide: 2
-- Deepmind Conspiracy: 2
-- Dockmaster Bruno Steadyanchor: 2
-- Doctor Coral Shapeshift: 2
-- Madame Whisper: 2
-- Shadow Chancellor: 2
-- Political Intrigue of Meridian: 2
-- Botanist Rose Sundrinker: 2
-- Navigator Sage Driftwood: 2
-- Keeper of the Past, Elderly Morgan: 2
-- Teacher Miranda Hopekeeper: 2
-- Quartermaster Judith Steadfast: 2
-- Warden Marcus Stonehand: 2
-- Mad Oracle Thessaly: 2
-- Keeper of Contracts Minerva Bindingword: 2
-- Garden Keeper Zen Currentdancer: 2
-- Enchanter Valdris Peacewarden: 2
-- Concierge Phillip Gracewater: 2
-- Siren Maeve Echoborn: 2
-- Reef Guard Captain Torrent Shellborn: 2
-- Tavern Keeper Finn Splitlung: 2
-- Forge Master Petra Hammerdeep: 2
-- The Depth Plague: 2
-- The Stolen Anvil: 2
-- Emperor Thalassius the Wise: 2
-- Goldspire Confederacy: 2
-- Quest - Hearts and Minds: 2
-- Aether Crystals: 2
-- Verdant Accord: 2
-- Quest - The Dying Forest: 2
 - Quest - Nature: 2
-- Quest - The Root Network: 2
-- Order of the Shattered Crown: 2
-- Uniting the Factions: 2
-- Quest - Into the Wastes: 2
-- Aether Crystal: 2
-- Verdant Shard: 2
-- The Shadow Warren: 2
-- The Shattering of the Crown: 2
-- The Crown of Stars: 2
-- The Drowned God: 2
-- Stop the Crystal Festival Ritual: 2
-- Port Meridian - Merchant Quarter: 2
-- Silverscale Banking House: 2
-- Silverscale Emergency Bunker: 2
-- Abandoned Consortium Warehouse: 2
-- Race Against the Festival: 2
-- Eastern Kingdoms: 2
-- Whisper Island Docks: 2
-- The Whisper Island Mystery: 2
 - Captain Blackwater: 2
-- Harbor District Customs House: 2
 - Dock Worker Tomás: 2
-- Missing Persons of Port Meridian: 2
-- Silver Mask: 2
-- Goldwave Manor: 2
-- Cathedral of Light: 2
-- The Gilded Shard: 2
-- Name: 1
-- Location: 1
-- NPC: 1
-- Monster Manual Reference: 1
-- Combat Tracker: 1
-- Prep Note: 1
-- wiki links: 1
 - Timeline_Tracker.base: 1
-- Item Template: 1
-- Combat Actions: 1
-- Initiative Tracker: 1
-- Spell Lists: 1
-- Magic Items: 1
-- Spell Components: 1
-- Travel Rules: 1
-- Random Encounters: 1
-- Environmental Hazards: 1
-- NPC Reactions: 1
-- Faction Standing: 1
-- Reputation System: 1
-- Template-Character: 1
-- Template-Location: 1
-- Template-Quest: 1
+- Session {{VALUE:session_number - 1}}: 1
+- Session {{VALUE:session_number + 1}}: 1
+- Sorrow: 1
+- Volcano: 1
+- (empty/anchor): 1
+- Senator: 1
+- The Senator: 1
+- The Emperor: 1
+- Tide Turner: 1
+- Discover Marina: 1
+- Marina: 1
+- Save/Transform Reality: 1
+- Determine Aquabyssos: 1
+- Madame Whisper: 1
+- The Deserter: 1
+- Time: 1
+- Captain : 1
+- The Tidecaller: 1
+- Oracle: 1
+- Quest - The Pretender: 1
+- The Crown: 1
+- The Queen: 1
+- Artificer: 1
+- Aboleth Adjunct Yzz: 1
 
 ## Focus Suggestions
 - Fix dashboard and player resources first to improve in-play navigation.
-- Replace template placeholder links (e.g., [[Location]], [[NPC]]) with plain text or correct targets.
+- Replace template placeholder links (e.g., Location, NPC) with plain text or correct targets.
 - Normalize anchor-only links by matching to nearest headings or removing the anchor.

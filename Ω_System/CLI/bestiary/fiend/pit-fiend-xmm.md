@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/nine-hells
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/devil
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/20
+  - ttrpg-cli/monster/environment/nine-hells
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Pit Fiend
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Pit Fiend
 ---
 # [Pit Fiend](3-Mechanics\CLI\bestiary\fiend/pit-fiend-xmm.md)
 *Source: Monster Manual (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

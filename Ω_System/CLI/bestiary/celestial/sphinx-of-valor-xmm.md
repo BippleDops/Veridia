@@ -1,21 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/17
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/upper
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Sphinx of Valor
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Sphinx of Valor
 ---
 # [Sphinx of Valor](3-Mechanics\CLI\bestiary\celestial/sphinx-of-valor-xmm.md)
 *Source: Monster Manual (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

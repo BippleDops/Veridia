@@ -86,13 +86,53 @@ formulas:
     if (target.appearance?.gender) parts.push(target.appearance.gender);
     if (target.occupation) parts.push(target.occupation);
     return parts.join(" • ");
+  
+  # Overdue contact flag (>30 days)
+  OverdueContact: |
+    js:
+    if (!target.lastSeen) return '';
+    const last = moment(target.lastSeen);
+    const days = moment().diff(last, 'days');
+    return days > 30 ? '⏰ Check-in' : '';
 
 views:
+  - type: table
+    name: Active NPCs
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
+        - status.equals("active")
+    order:
+      - formula.StatusIndicator
+      - file.name
+      - formula.LocationLink
+      - occupation
+      - formula.FactionBadge
+      - formula.RelationshipColor
+      - formula.LastInteraction
+      - formula.OverdueContact
+    sort:
+      - column: file.name
+        direction: ASC
+    columnSize:
+      formula.StatusIndicator: 40
+      file.name: 150
+      formula.LocationLink: 150
+      occupation: 120
+      formula.FactionBadge: 120
+      formula.RelationshipColor: 100
+      formula.LastInteraction: 100
+      formula.OverdueContact: 110
+
   - type: table
     name: All NPCs
     filters:
       and:
-        - tags.contains("NPC")
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
     order:
       - formula.StatusIndicator
       - file.name
@@ -119,7 +159,9 @@ views:
     name: Important NPCs
     filters:
       and:
-        - tags.contains("NPC")
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
         - anyOf:
             - tags.contains("important")
             - relationship.equals("allied")
@@ -138,7 +180,9 @@ views:
     name: By Location
     filters:
       and:
-        - tags.contains("NPC")
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
         - "{{location}}"
     order:
       - formula.StatusIndicator
@@ -154,7 +198,9 @@ views:
     name: By Faction
     filters:
       and:
-        - tags.contains("NPC")
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
         - faction
     order:
       - faction
@@ -172,7 +218,9 @@ views:
     name: NPC Gallery
     filters:
       and:
-        - tags.contains("NPC")
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
         - image_path
     columns: 5
     properties:
@@ -186,7 +234,9 @@ views:
     name: Relationship Tracker
     filters:
       and:
-        - tags.contains("NPC")
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
         - not:
             - relationship.equals("neutral")
     order:
@@ -204,3 +254,26 @@ views:
       formula.LocationLink: 150
       formula.LastInteraction: 100
       notes: 300 
+      
+  - type: table
+    name: Session Hooks
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("NPC")
+            - tags.contains("npc")
+        - status.equals("active")
+        - lastSeen
+    order:
+      - file.name
+      - lastSeen
+      - formula.LocationLink
+      - formula.OverdueContact
+    sort:
+      - column: lastSeen
+        direction: ASC
+    columnSize:
+      file.name: 160
+      lastSeen: 120
+      formula.LocationLink: 160
+      formula.OverdueContact: 120

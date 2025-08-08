@@ -1,10 +1,7 @@
 ---
-tags:
-- Category/Hub
-container: Test
-MyContainer: '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
-MyCategory: City +1500
-obsidianUIMode: preview
+my-container: '[[2-World/Regions/Island of Skulls.md|Island of Skulls]]'
+my-category: City +1500
+obsidian-u-i-mode: preview
 type: location
 aliases: []
 created: 2025-07-23 12:39

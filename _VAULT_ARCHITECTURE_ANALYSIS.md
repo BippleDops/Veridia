@@ -1,11 +1,11 @@
 # Vault Architecture Analysis
 
-Generated: 2025-08-08 09:57:44
+Generated: 2025-08-08 12:20:24
 
 
 ## File Counts
 
-- Total Markdown files: 5193
+- Total Markdown files: 5883
 
 ### Top Folders by Markdown Count
 
@@ -13,6 +13,8 @@ Generated: 2025-08-08 09:57:44
 - Ω_System/CLI/tables: 844
 - Ω_System/CLI/spells: 482
 - Ω_System/CLI/deities: 310
+- 01_Campaigns/Aquabyssos/Locations: 273
+- 01_Campaigns/Aquabyssos/Lore: 210
 - Ω_System/CLI/variant-rules: 198
 - Ω_System/CLI/lists: 152
 - Ω_System/CLI/bestiary/beast: 129
@@ -21,44 +23,42 @@ Generated: 2025-08-08 09:57:44
 - Ω_System/CLI/feats: 99
 - Ω_System/CLI/bestiary/fiend: 97
 - Ω_System/CLI/classes: 97
-- 01_Campaigns/Aquabyssos/Locations: 77
+- 01_Campaigns/Aquabyssos/NPCs: 89
+- 01_Campaigns/Aethermoor/Lore: 79
 - Ω_System/CLI/bestiary/legendary-group: 77
 - Ω_System/CLI/bestiary/undead: 69
 - Ω_System/CLI/bestiary/aberration: 68
+- 01_Campaigns/Aethermoor/NPCs: 62
 - Ω_System/CLI/bestiary/dragon: 60
 - Ω_System/CLI/bestiary/construct: 58
 - Ω_System/CLI/races: 57
 - Ω_System/CLI/traps-hazards: 55
+- 01_Campaigns/Aethermoor/Locations: 54
 - Ω_System/CLI/bestiary/elemental: 53
 - Ω_System/CLI/rewards: 53
 - Ω_System/CLI/bestiary/fey: 48
 - 05_Templates/Example_Campaign/NPCs: 40
-- 01_Campaigns/Aquabyssos/NPCs: 36
 - Ω_System/CLI/bastions: 36
-- 01_Campaigns/Aethermoor/NPCs: 35
 - Ω_System/CLI/backgrounds: 33
 - Ω_System/CLI/bestiary/plant: 33
 - Ω_System/CLI/bestiary/giant: 32
+- 01_Campaigns/Aquabyssos/Mechanics: 30
 - 05_Templates/Example_Campaign/Locations: 30
-- Ω_Archive/1-DM Toolkit: 27
-- 01_Campaigns/Aethermoor/Locations: 26
+- Ω_Archive/1-DM Toolkit: 28
 - Ω_System/CLI/adventures/curse-of-strahd: 26
+- 01_Campaigns/Aethermoor/Quests: 25
+- 01_Campaigns/Aquabyssos/Factions: 25
+- 01_Campaigns/Aquabyssos/Quests: 25
 - Ω_System/CLI/bestiary/celestial: 25
+- .: 24
 - Ω_System/CLI/adventures/out-of-the-abyss: 23
-- .: 22
-- 01_Campaigns/Aethermoor/Quests: 16
+- 01_Campaigns/Aethermoor/Factions: 21
 - 02_Worldbuilding/Factions: 16
 - Ω_System/CLI/books/players-handbook-2014: 16
 - Ω_System/CLI/adventures/hoard-of-the-dragon-queen: 15
 - Ω_System/CLI/adventures/rise-of-tiamat: 15
 - Ω_System/CLI/books/dungeon-masters-guide-2014: 15
 - Ω_System/CLI/bestiary/ooze: 13
-- 05_Templates: 12
-- 05_Templates/Example_Campaign/Quests: 12
-- Ω_System/CLI/adventures/princes-of-the-apocalypse: 12
-- Ω_System/CLI/books/dungeon-masters-guide-2024: 12
-- Ω_System/CLI/books/players-handbook-2024: 12
-- Ω_System/CLI/objects: 12
 
 ## Duplicate Basenames (same title in multiple locations)
 
@@ -79,13 +79,16 @@ Generated: 2025-08-08 09:57:44
 - 'aquabyssos world overview': 01_Campaigns/Aethermoor/Lore/Aquabyssos World Overview.md, 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md
 - 'arch-hag-xmm': Ω_System/CLI/bestiary/fey/arch-hag-xmm.md, Ω_System/CLI/bestiary/legendary-group/arch-hag-xmm.md
 - 'beholder-xmm': Ω_System/CLI/bestiary/aberration/beholder-xmm.md, Ω_System/CLI/bestiary/legendary-group/beholder-xmm.md
+- 'captain blackwater': 01_Campaigns/Aethermoor/NPCs/Captain Blackwater.md, 05_Templates/Example_Campaign/NPCs/Captain Blackwater.md
 - 'cover-xphb': Ω_System/CLI/tables/cover-xphb.md, Ω_System/CLI/variant-rules/cover-xphb.md
 - 'darkness-xphb': Ω_System/CLI/spells/darkness-xphb.md, Ω_System/CLI/variant-rules/darkness-xphb.md
 - 'death-tyrant-xmm': Ω_System/CLI/bestiary/legendary-group/death-tyrant-xmm.md, Ω_System/CLI/bestiary/undead/death-tyrant-xmm.md
 - 'deck-of-illusions-xdmg': Ω_System/CLI/decks/deck-of-illusions-xdmg.md, Ω_System/CLI/items/deck-of-illusions-xdmg.md
 - 'deck-of-many-things-xdmg': Ω_System/CLI/decks/deck-of-many-things-xdmg.md, Ω_System/CLI/items/deck-of-many-things-xdmg.md
 - 'demilich-xmm': Ω_System/CLI/bestiary/legendary-group/demilich-xmm.md, Ω_System/CLI/bestiary/undead/demilich-xmm.md
+- 'dr. siphon gillwater': 01_Campaigns/Aquabyssos/Locations/Dr. Siphon Gillwater.md, 01_Campaigns/Aquabyssos/Quests/Dr. Siphon Gillwater.md
 - 'dracolich-xmm': Ω_System/CLI/bestiary/legendary-group/dracolich-xmm.md, Ω_System/CLI/bestiary/undead/dracolich-xmm.md
+- 'envoy blackwater jr.': 01_Campaigns/Aquabyssos/Locations/Envoy Blackwater Jr..md, 01_Campaigns/Aquabyssos/NPCs/Envoy Blackwater Jr..md
 - 'example party 1': 05_Templates/Example_Campaign/Player_Characters/Example Party 1.md, 05_Templates/Example_Campaign/Player_Characters/Example Party 1/Example Party 1.md
 - 'explosives': Ω_System/CLI/tables/explosives.md, Ω_System/CLI/variant-rules/explosives.md
 - 'giant-insect-xphb': Ω_System/CLI/bestiary/beast/giant-insect-xphb.md, Ω_System/CLI/spells/giant-insect-xphb.md
@@ -101,6 +104,8 @@ Generated: 2025-08-08 09:57:44
 - 'shield-xphb': Ω_System/CLI/items/shield-xphb.md, Ω_System/CLI/spells/shield-xphb.md
 - 'skills': Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 'telepathy-xphb': Ω_System/CLI/spells/telepathy-xphb.md, Ω_System/CLI/variant-rules/telepathy-xphb.md
+- 'template-quest': 01_Campaigns/Aquabyssos/Lore/Template-Quest.md, z_Templates/World Builder Templates/Template-Quest.md
+- 'the tidecaller': 01_Campaigns/Aethermoor/Locations/The Tidecaller.md, 01_Campaigns/Aquabyssos/NPCs/The Tidecaller.md
 - 'tiny-servant-xge': Ω_System/CLI/bestiary/construct/tiny-servant-xge.md, Ω_System/CLI/spells/tiny-servant-xge.md
 - 'unicorn-xmm': Ω_System/CLI/bestiary/celestial/unicorn-xmm.md, Ω_System/CLI/bestiary/legendary-group/unicorn-xmm.md
 - 'vampire-xmm': Ω_System/CLI/bestiary/legendary-group/vampire-xmm.md, Ω_System/CLI/bestiary/undead/vampire-xmm.md
@@ -108,6 +113,6 @@ Generated: 2025-08-08 09:57:44
 
 ## Naming Conventions
 
-- Files with spaces: 399
-- Files with underscores: 49
-- Files with hyphens: 4660
+- Files with spaces: 1008
+- Files with underscores: 72
+- Files with hyphens: 4760

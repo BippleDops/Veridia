@@ -1,0 +1,118 @@
+{
+  "summary": {
+    "totalFiles": 4882,
+    "exactDuplicateGroups": 3,
+    "filesInExactDuplicates": 8,
+    "nearDuplicateGroups": 8
+  },
+  "exactDuplicates": [
+    {
+      "hash": "1389786048b9094d6eaf1778699a38a9",
+      "files": [
+        "0-Scratch Notes/Untitled [conflicted].md",
+        "0-Scratch Notes/Untitled.md"
+      ],
+      "count": 2
+    },
+    {
+      "hash": "d41d8cd98f00b204e9800998ecf8427e",
+      "files": [
+        "3-Mechanics/Bestiary/Bestiary.md",
+        "3-Mechanics/Items/Items.md",
+        "3-Mechanics/races/races.md",
+        "z_Templates/3_Dataview Templates/3_Dataview Templates.md"
+      ],
+      "count": 4
+    },
+    {
+      "hash": "6b2fe73a314351c243362ff10ed6e25f",
+      "files": [
+        "z_Templates/4_Markdown/Insert Checkbox (ITS) [conflicted].md",
+        "z_Templates/4_Markdown/Insert Checkbox (ITS).md"
+      ],
+      "count": 2
+    }
+  ],
+  "nearDuplicates": [
+    {
+      "basename": "01-campaign-overview",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/01-campaign-overview.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/01-campaign-overview.md",
+          "similarity": "97.0%"
+        }
+      ]
+    },
+    {
+      "basename": "10-appendix-a-backgrounds",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/10-appendix-a-backgrounds.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/10-appendix-a-backgrounds.md",
+          "similarity": "85.2%"
+        }
+      ]
+    },
+    {
+      "basename": "11-appendix-b-council-scorecard",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/11-appendix-b-council-scorecard.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/11-appendix-b-council-scorecard.md",
+          "similarity": "86.9%"
+        }
+      ]
+    },
+    {
+      "basename": "12-appendix-c-magic-items",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/12-appendix-c-magic-items.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/12-appendix-c-magic-items.md",
+          "similarity": "81.8%"
+        }
+      ]
+    },
+    {
+      "basename": "13-appendix-d-monsters",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/13-appendix-d-monsters.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/13-appendix-d-monsters.md",
+          "similarity": "88.1%"
+        }
+      ]
+    },
+    {
+      "basename": "14-appendix-e-concept-gallery",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/14-appendix-e-concept-gallery.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/14-appendix-e-concept-gallery.md",
+          "similarity": "86.6%"
+        }
+      ]
+    },
+    {
+      "basename": "15-credits",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/15-credits.md",
+          "file2": "3-Mechanics/CLI/adventures/rise-of-tiamat/15-credits.md",
+          "similarity": "95.6%"
+        }
+      ]
+    },
+    {
+      "basename": "apparatus-of-kwalish-xdmg",
+      "similarities": [
+        {
+          "file1": "3-Mechanics/CLI/items/apparatus-of-kwalish-xdmg.md",
+          "file2": "3-Mechanics/CLI/vehicles/apparatus-of-kwalish-xdmg.md",
+          "similarity": "80.2%"
+        }
+      ]
+    }
+  ]
+}

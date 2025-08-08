@@ -22,6 +22,15 @@ formulas:
     }
     return "No HP data";
   
+  # Low HP badge (< 25%)
+  LowHPBadge: |
+    js:
+    if (target.current_hp && target.max_hp) {
+      const percentage = (target.current_hp / target.max_hp) * 100;
+      return percentage < 25 ? '⚠️ Low' : '';
+    }
+    return '';
+  
   # Initiative display
   InitiativeDisplay: |
     js:
@@ -55,6 +64,7 @@ views:
       - ac
       - formula.CombatStatus
       - notes
+      - formula.LowHPBadge
     sort:
       - column: initiative
         direction: DESC
@@ -66,6 +76,7 @@ views:
       ac: 50
       formula.CombatStatus: 150
       notes: 200
+      formula.LowHPBadge: 80
     
   - type: gallery
     name: Combat Gallery

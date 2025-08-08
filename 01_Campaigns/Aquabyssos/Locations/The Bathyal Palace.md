@@ -51,11 +51,11 @@ Original stone where the pre-drowning treaty was signed. Touching it while lying
 ## Court Intrigue
 
 ### Current Power Players
-- [[Ambassador Lysandra Silvertonge]] (Tethyan Hegemony) - Master manipulator
-- [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
-- [[Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
-- [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
-- [[Shadow Broker Mist]] (Free Current) - Identity unknown, influences through proxies
+ - [[Ambassador Lysandra Silvertonge]] (Tethyan Hegemony) - Master manipulator
+ - [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
+ - [[01_Campaigns/Aquabyssos/NPCs/Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
+ - [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
+ - [[Shadow Broker Mist]] (Free Current) - Identity unknown, influences through proxies
 
 ### Ongoing Schemes
 1. The succession crisis - who will lead when [[Mediator Stillwater]] retires
@@ -106,7 +106,7 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 - [[Enchanter Valdris Peacewarden]] - Peace Field maintainer
 - [[Shadow Broker Mist]] - Free Current representative
 - [[Garden Keeper Zen Currentdancer]] - Spy and gardener
-- [[Envoy Blackwater Jr.]] - Depth Warden representative
+ - [[01_Campaigns/Aquabyssos/NPCs/Envoy Blackwater Jr.]] - Depth Warden representative
 - [[Concierge Phillip Gracewater]] - Guest services and intelligence
 
 ## Random Encounters (d10)
@@ -129,7 +129,7 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 
 ## Quests Available
 - [[The Neutral Ground]] - Investigate Peace Field failures
-- [[05_Templates/Example_Campaign/Quests/Diplomatic Immunity]] - Uncover spy networks
+- Diplomatic Immunity - Uncover spy networks
 - [[The Bathyal Succession]] - Influence succession choice
 - [[Treaty of the Depths]] - Negotiate critical agreement
 - [[The Missing Diplomat]] - Find the vanished ambassador

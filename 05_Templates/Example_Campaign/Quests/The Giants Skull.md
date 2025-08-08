@@ -1,22 +1,22 @@
 ---
-tags:
-- Category/Quest
-MyContainer:
-- '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
-- '[[05_Templates/Template-Location.md|Template-PointofInterest-BASES]]'
-- '[[05_Templates/Template-Location.md|Template-PointofInterest]]'
-MyCategory: null
-obsidianUIMode: preview
-questObtained: null
-questStatus: Not Started
-questGiver: '[[05_Templates/Example_Campaign/NPCs/Flip the Famous|Flip the Famous]]'
-questLocationObtained: '[[05_Templates/Example_Campaign/Locations/Shadowhaven|Template-Hub]]'
-questSessionObtained: '[[05_Templates/Example_Campaign/Sessions/2025-01-01|2025-01-01]]'
-questNotes: null
-questLootAvail: null
-questLookEarned: null
-NoteIcon: quest
 type: quest
+tags:
+  - Category/Quest
+my-container:
+  - '[[2-World/Regions/Island of Skulls.md|Island of Skulls]]'
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]'
+  - '[[z_Templates/World Builder Templates/Template-PointofInterest.md|Template-PointofInterest]]'
+my-category: null
+obsidian-u-i-mode: preview
+quest-obtained: null
+quest-status: Not Started
+quest-giver: '[[2-World/People/Flip the Famous.md|Flip the Famous]]'
+quest-location-obtained: '[[z_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
+quest-session-obtained: '[[1-Session Journals/2025-01-01.md|2025-01-01]]'
+quest-notes: null
+quest-loot-avail: null
+quest-look-earned: null
+note-icon: quest
 aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39

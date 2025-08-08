@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/nine-hells
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/devil
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/nine-hells
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Swarm of Lemures
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Swarm of Lemures
 ---
 # [Swarm of Lemures](3-Mechanics\CLI\bestiary\fiend/swarm-of-lemures-xmm.md)
 *Source: Monster Manual (2024) p. 194*  

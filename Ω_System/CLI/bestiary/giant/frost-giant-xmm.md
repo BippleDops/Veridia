@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Frost Giant
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Frost Giant
 ---
 # [Frost Giant](3-Mechanics\CLI\bestiary\giant/frost-giant-xmm.md)
 *Source: Monster Manual (2024) p. 124. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

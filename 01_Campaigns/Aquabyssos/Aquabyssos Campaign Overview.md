@@ -84,13 +84,13 @@ Three centuries ago, the surface empire of Thalassopolis triggered the **Cascade
 ## 📊 Campaign Management
 
 ### Session Tracking
-- Use `[[05_Templates/Session_Template]]` for each game
+- Use `Session_Template` for each game
 - Track [[Depth Adaptation Points]] per character
 - Monitor [[Shadow Independence Levels]]
 - Record [[Memory Alterations]]
 
 ### NPC Management
-- All NPCs use standard `[[05_Templates/NPC_Template]]`
+- All NPCs use standard `NPC_Template`
 - Track `shadow_status` property
 - Monitor `depth_adapted` level
 - Record `memory_integrity` percentage

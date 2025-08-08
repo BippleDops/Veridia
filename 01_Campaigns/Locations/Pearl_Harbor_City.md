@@ -30,7 +30,7 @@ services:
     provider: "[[Captain Marlowe Tidecrest]]"
   - name: "Depth Adjustment Clinic"
     type: "Medical"
-    provider: "[[Dr. Siphon Gillwater]]"
+    provider: "[[01_Campaigns/Aquabyssos/Locations/Dr. Siphon Gillwater]]"
 events: ["Weekly Surface Market", "Full Moon Tide Festival", "Smuggler's Night"]
 notable_features: ["The Great Lock System", "Floating Market Platforms", "Bioluminescent Lighthouse", "Customs House"]
 ---
@@ -60,14 +60,14 @@ Suspended platforms connected by bridges where air-breathing merchants can trade
 
 #### **Smuggler's Reef**
 Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[Coral Throne Syndicate]] runs everything here.
-- **Shadow Boss:** [[05_Templates/Example_Campaign/NPCs/Whisper Jack]]
+- **Shadow Boss:** Whisper Jack
 - **Fence:** [[The Barnacle]]
 - Password: "The tide always turns"
 
 #### **Embassy Row**
 Diplomatic quarters for various factions and surface nations. Heavily warded and patrolled by [[The Depth Wardens]].
 - **Surface Ambassador:** [[Lord Reginald Seaworthy]]
-- **Deep Ambassador:** [[Aboleth Adjunct Yzz'theta]]
+- **Deep Ambassador:** [[01_Campaigns/Aquabyssos/Locations/Aboleth Adjunct Yzz|Aboleth Adjunct Yzz]]
 - Neutral Ground: [[The Neutral Current Tavern]]
 
 ## Demographics
@@ -83,7 +83,7 @@ Diplomatic quarters for various factions and surface nations. Heavily warded and
 A group of raiders has been attacking ships in the transition zone between surface and city. [[Commander Varek Irontrident]] has posted bounties.
 
 ### The Surface Plague Scare
-Rumors that surface diseases are spreading through the locks. [[Dr. Siphon Gillwater]] seeks adventurers to investigate.
+Rumors that surface diseases are spreading through the locks. [[01_Campaigns/Aquabyssos/Locations/Dr. Siphon Gillwater]] seeks adventurers to investigate.
 
 ### The Missing Shipment
 A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arrived. Both [[01_Campaigns/NPCs/Gareth_Ironforge]] and [[Master Smith Coral-Hammer]] are desperate to find it.
@@ -113,7 +113,7 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 | Surface Portal | [[Captain Marlowe Tidecrest]] | 50gp | [[01_Campaigns/Locations/Market_District]] |
 | Deep Current | [[Navigator Flux]] | 100gp | [[Azure Citadel]] |
 | Kelp Highway | [[Current Riders Guild]] | 25gp | Various depths |
-| Smuggler's Run | [[05_Templates/Example_Campaign/NPCs/Whisper Jack]] | 200gp | Anywhere, no questions |
+| Smuggler's Run | Whisper Jack | 200gp | Anywhere, no questions |
 
 ### Specialty Shops
 | Shop | Specialty | Owner | Notable Items |
@@ -147,7 +147,7 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 - [[The Barnacle]] is actually three gnomes in a diving suit
 - The city was built on a sleeping titan
 - Portal Alpha can reach other planes, not just the surface
-- [[Dr. Siphon Gillwater]] experiments on pressure adaptation
+- [[01_Campaigns/Aquabyssos/Locations/Dr. Siphon Gillwater]] experiments on pressure adaptation
 
 ## Historical Significance
 

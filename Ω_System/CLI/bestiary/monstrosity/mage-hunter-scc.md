@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Mage Hunter
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Mage Hunter
 ---
 # [Mage Hunter](3-Mechanics\CLI\bestiary\monstrosity/mage-hunter-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 199*  

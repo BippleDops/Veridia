@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/elemental
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/elemental
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/elemental
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Smoke Mephit
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Smoke Mephit
 ---
 # [Smoke Mephit](3-Mechanics\CLI\bestiary\elemental/smoke-mephit-xmm.md)
 *Source: Monster Manual (2024) p. 208*  

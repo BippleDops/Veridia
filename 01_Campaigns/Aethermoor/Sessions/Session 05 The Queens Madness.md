@@ -21,7 +21,7 @@ npcs_met:
 encounters:
   - "[[Crystal Guard Elite]]"
   - "[[Possessed Noble Coterie]]"
-  - "[[The Queen's Shadow]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Throne Room - Heart of Palace|The Queen's Shadow]]"
 quests_started:
   - "[[Save Queen Seraphina]]"
   - "[[Stop the Crystal Festival Ritual]]"

@@ -1,0 +1,89 @@
+formulas:
+  ReputationBadge: |
+    js:
+    const rep = target.reputation ?? 0;
+    const color = rep >= 5 ? '#16a34a' : rep >= 1 ? '#22c55e' : rep <= -5 ? '#ef4444' : rep <= -1 ? '#f59e0b' : '#9ca3af';
+    return `<span style="color:${color};font-weight:600;">${rep}</span>`;
+  PowerScore: |
+    js:
+    const size = target.size || 'Medium';
+    const weights = { Small: 1, Medium: 2, Large: 3, Empire: 4 };
+    const w = weights[size] || 2;
+    const assets = target.assets_value || 0;
+    return (w * 10) + assets;
+  AlliesList: |
+    js:
+    const a = target.allies || [];
+    return a.map(x => `🤝 [[${x}]]`).join(', ');
+  EnemiesList: |
+    js:
+    const e = target.enemies || [];
+    return e.map(x => `⚔️ [[${x}]]`).join(', ');
+
+views:
+  - type: table
+    name: All Factions
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("Faction")
+            - tags.contains("faction")
+    order:
+      - file.name
+      - realm
+      - formula.ReputationBadge
+      - leader
+      - headquarters
+      - formula.PowerScore
+    sort:
+      - column: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      realm: 120
+      formula.ReputationBadge: 80
+      leader: 160
+      headquarters: 160
+      formula.PowerScore: 100
+
+  - type: cards
+    name: Power Rankings
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("Faction")
+            - tags.contains("faction")
+    columns: 3
+    sort:
+      - column: formula.PowerScore
+        direction: DESC
+    properties:
+      - emblem
+      - file.name
+      - leader
+      - realm
+      - formula.ReputationBadge
+      - goals
+
+  - type: table
+    name: Party Standing
+    filters:
+      and:
+        - anyOf:
+            - tags.contains("Faction")
+            - tags.contains("faction")
+    order:
+      - file.name
+      - party_reputation
+      - formula.AlliesList
+      - formula.EnemiesList
+    sort:
+      - column: party_reputation
+        direction: DESC
+    columnSize:
+      file.name: 200
+      party_reputation: 120
+      formula.AlliesList: 240
+      formula.EnemiesList: 240
+
+

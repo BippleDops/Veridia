@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Avatar of Death
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Avatar of Death
 ---
 # [Avatar of Death](3-Mechanics\CLI\bestiary\undead/avatar-of-death-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 252*  

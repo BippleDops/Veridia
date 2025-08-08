@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/elf
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey/elf
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Winter Eladrin
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Winter Eladrin
 ---
 # [Winter Eladrin](3-Mechanics\CLI\bestiary\fey/winter-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  

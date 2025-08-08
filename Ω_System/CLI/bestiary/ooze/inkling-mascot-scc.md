@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/ooze
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Inkling Mascot
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Inkling Mascot
 ---
 # [Inkling Mascot](3-Mechanics\CLI\bestiary\ooze/inkling-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 195*  

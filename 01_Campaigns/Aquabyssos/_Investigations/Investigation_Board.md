@@ -28,7 +28,7 @@ if (total > 0) {
 
 ```dataview
 TABLE WITHOUT ID
-    "[[" + file.name + "|" + case_name + "]]" as "Case",
+    file.link as "Case",
     case_id as "ID",
     investigation_type as "Type",
     priority as "Priority",
@@ -248,7 +248,7 @@ id profile-suspect
 
 ```dataview
 TABLE WITHOUT ID
-    "[[" + file.name + "|" + case_name + "]]" as "Cold Case",
+    file.link as "Cold Case",
     started_session as "Started",
     last_active as "Last Active",
     priority as "Original Priority"
@@ -261,7 +261,7 @@ SORT last_active DESC
 
 ```dataview
 TABLE WITHOUT ID
-    "[[" + file.name + "|" + case_name + "]]" as "Solved Case",
+    file.link as "Solved Case",
     investigation_type as "Type",
     sessions_to_solve as "Sessions",
     perpetrator as "Perpetrator"

@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/dragon
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Faerie Dragon Youth
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Faerie Dragon Youth
 ---
 # [Faerie Dragon Youth](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-youth-xmm.md)
 *Source: Monster Manual (2024) p. 117*  

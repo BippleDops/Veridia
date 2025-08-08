@@ -21,10 +21,10 @@ relationship_type: "criminal"
 relationships: 
   - "[[High Tidecaller Nerissa]]"
   - "[[01_Campaigns/NPCs/Gareth_Ironforge]]"
-  - "[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]"
+  - "Whisper Jack"
   - "[[The Barnacle]]"
   - "[[Captain Marlowe Tidecrest]]"
-  - "[[Aboleth Prime Yoth'zagoth]]"
+  - "[[Aboleth Prime Yoth]]"
 related_quests:
   - "[[Smuggler's Gambit]]"
   - "[[The Pressure Pirates]]"
@@ -71,7 +71,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - **Depth Running:** Illegal transportation to restricted zones
 
 ### Key Lieutenants
-- **[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]** - Smuggling operations
+- **Whisper Jack** - Smuggling operations
 - **[[The Barnacle]]** - Fencing and money laundering
 - **[[Captain 'Red Tide' Morgan]]** - Piracy fleet
 - **[[The Schooling]]** - Spy network of orphans
@@ -121,14 +121,14 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - Both know it's dirty but need each other
 - Connected through [[01_Campaigns/Quests/Find_the_Missing_Caravan]]
 
-### [[Aboleth Prime Yoth'zagoth]]
+### [[Aboleth Prime Yoth]]
 "Even I have things I won't deal with. Usually."
 - Occasional trades for forbidden knowledge
 - Mutual wariness and respect
 - Both immortal perspectives
 - Share certain ancient secrets
 
-### [[05_Templates/Example_Campaign/NPCs/Whisper Jack]]
+### Whisper Jack
 "My best knife - sharp, reliable, and knows when to stay sheathed."
 - Complete trust (rare for her)
 - Saved each other's lives multiple times

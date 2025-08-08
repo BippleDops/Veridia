@@ -1,21 +1,19 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fey
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/feywild
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Pixie Wonderbringer
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Pixie Wonderbringer
 ---
 # [Pixie Wonderbringer](3-Mechanics\CLI\bestiary\fey/pixie-wonderbringer-xmm.md)
 *Source: Monster Manual (2024) p. 244*  

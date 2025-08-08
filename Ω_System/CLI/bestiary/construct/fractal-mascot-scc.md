@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/scc
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/construct
+  - ttrpg-cli/compendium/src/5e/scc
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Fractal Mascot
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Fractal Mascot
 ---
 # [Fractal Mascot](3-Mechanics\CLI\bestiary\construct/fractal-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  

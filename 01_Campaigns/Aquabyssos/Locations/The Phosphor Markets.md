@@ -47,7 +47,7 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 [[Doctor Coral Shapeshift]] offers temporary and permanent biological modifications, from gills to pressure resistance. Not all procedures are legal or safe.
 
 ### The Dreamhouse
-[[Madame Whisper's]] establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
+[[Madame Whisper]]'s establishment offers experiences from before the drowning, using memory magic and illusions. Highly addictive and expensive.
 
 ## Trade Goods
 
@@ -74,7 +74,7 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 - Slaves (officially banned, still happens)
 
 ## Market Law
-- Enforced by the [[Merchant's Covenant Guard]]
+- Enforced by the [[Merchant's Covenant]] Guard
 - No violence permitted during trading hours
 - All factions have equal trading rights
 - Disputes settled by market arbitration

@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/oota
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/oota
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Infant Basilisk
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Infant Basilisk
 ---
 # [Infant Basilisk](3-Mechanics\CLI\bestiary\monstrosity/infant-basilisk-oota.md)
 *Source: Out of the Abyss p. 100*  

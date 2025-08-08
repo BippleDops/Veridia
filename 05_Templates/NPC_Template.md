@@ -1,5 +1,6 @@
 ---
 tags: [npc]
+aliases: []
 first_name: ""
 last_name: ""
 location: "[[]]"  # Link to location note
@@ -13,6 +14,8 @@ level:
 ac: 
 max_hp: 
 current_hp: 
+status: active
+lastSeen: 
 influence: 1  # 1-10 scale
 faction_rank: 0  # 0-5 scale
 portrait: ""  # Path to image
@@ -62,6 +65,10 @@ secrets: []
 
 ## Stats & Abilities
 <!-- Combat stats if needed -->
+
+### Quick Dice
+`dice: 1d20+X|Deception`
+`dice: 1d20+X|Insight`
 
 ## Secrets & GM Notes
 <!-- Information not known to players -->

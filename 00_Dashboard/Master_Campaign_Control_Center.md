@@ -19,10 +19,10 @@ tags: [dashboard]
 ## ⚔️ Combat Management
 Real-time initiative tracking with NPC links and threat assessment.
 
-![[combat-tracker.base]]
+combat-tracker.base
 
 **Quick Actions:**
-- [[05_Templates/Encounter_Template|⚔️ New Encounter]]
+- ⚔️ New Encounter
 - Set `combat_status: "active"` to begin tracking
 
 ---
@@ -30,10 +30,10 @@ Real-time initiative tracking with NPC links and threat assessment.
 ## 👥 NPC Network
 Complete NPC database with relationship tracking and quest associations.
 
-![[npc-roster.base]]
+npc-roster.base
 
 **Quick Actions:**
-- [[05_Templates/NPC_Template|👤 Create NPC]]
+- 👤 Create NPC
 - View NPC connections in Relationship Graph below
 
 ---
@@ -41,10 +41,10 @@ Complete NPC database with relationship tracking and quest associations.
 ## 📜 Quest Management
 Track all quests with prerequisites, NPC links, and urgency levels.
 
-![[quest-tracker.base]]
+quest-tracker.base
 
 **Quick Actions:**
-- [[05_Templates/Quest_Template|🎯 New Quest]]
+- 🎯 New Quest
 - Urgent quests auto-highlight when deadline < 3 days
 
 ---
@@ -52,10 +52,10 @@ Track all quests with prerequisites, NPC links, and urgency levels.
 ## 🗺️ Location Database
 All locations with population, danger levels, and quest activity.
 
-![[location-tracker.base]]
+location-tracker.base
 
 **Quick Actions:**
-- [[05_Templates/Location_Template|📍 New Location]]
+- 📍 New Location
 - Track NPC residents and active quests per location
 
 ---
@@ -63,7 +63,7 @@ All locations with population, danger levels, and quest activity.
 ## 🕸️ Relationship Web
 Visualize all connections between NPCs, PCs, and factions.
 
-![[relationship-graph.base]]
+relationship-graph.base
 
 **Features:**
 - Tracks allies, enemies, and neutral relationships
@@ -75,10 +75,10 @@ Visualize all connections between NPCs, PCs, and factions.
 ## 📅 Campaign Timeline
 Complete session history with NPC appearances and quest progress.
 
-![[campaign-dashboard.base]]
+campaign-dashboard.base
 
 **Quick Actions:**
-- [[05_Templates/Session_Template|📝 New Session]]
+- 📝 New Session
 - Auto-tracks attendance and participation
 
 ---

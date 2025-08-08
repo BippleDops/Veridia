@@ -8,8 +8,8 @@ modified: 2025-07-23 18:50
 # The Order of the Azure Flame
 
 ## General Info
-**Leader**: [[05_Templates/Example_Campaign/NPCs/High Inquisitor Valerius]]
-**Headquarters**: [[05_Templates/Example_Campaign/Locations/The Citadel of Azure Flame]]
+**Leader**: High Inquisitor Valerius
+**Headquarters**: The Citadel of Azure Flame
 **Location**: [[02_Worldbuilding/Atlas/The Whispering Peaks]]
 
 ## Description

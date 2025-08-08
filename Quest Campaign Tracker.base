@@ -123,13 +123,25 @@ formulas:
       return `⏰ ${hours} hours remaining`;
     }
     return '';
+  
+  # Due soon flag (<= 7 days)
+  DueSoon: |
+    js:
+    if (!target.quest_deadline) return '';
+    const deadline = new Date(target.quest_deadline);
+    const now = new Date();
+    const diff = deadline - now;
+    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+    return days >= 0 && days <= 7 ? '⚠️ Due ≤ 7d' : '';
 
 views:
   - type: gallery
-    name: Active Quests
+    name: Active
     filters:
       and:
-        - tags.contains("Category/Quest")
+        - anyOf:
+            - tags.contains("Category/Quest")
+            - tags.contains("Quest")
         - anyOf:
             - quest_status.equals("Active")
             - quest_status.equals("In Progress")
@@ -141,13 +153,16 @@ views:
       - formula.PriorityDisplay
       - formula.ProgressBar
       - formula.TimeRemaining
+      - formula.DueSoon
       - formula.RewardSummary
     
   - type: table
     name: Quest Journal
     filters:
       and:
-        - tags.contains("Category/Quest")
+        - anyOf:
+            - tags.contains("Category/Quest")
+            - tags.contains("Quest")
     order:
       - formula.StatusIcon
       - formula.PriorityDisplay
@@ -157,6 +172,7 @@ views:
       - formula.LocationDisplay
       - formula.ProgressBar
       - formula.RewardSummary
+      - formula.DueSoon
     sort:
       - column: quest_priority
         direction: DESC
@@ -192,7 +208,9 @@ views:
     name: Quest Board
     filters:
       and:
-        - tags.contains("Category/Quest")
+        - anyOf:
+            - tags.contains("Category/Quest")
+            - tags.contains("Quest")
     columns:
       - name: Not Started
         filter: quest_status.equals("Not Started")

@@ -157,7 +157,7 @@ That she IS a shadow who killed her original
 
 ### Enemies
 - Shadow Liberation Front
-- [[Senator Glaucus's Shadow]]
+- [[Senator Glaucus]]
 - Most of Tenebrarum (feared ruler)
 
 ### Complicated

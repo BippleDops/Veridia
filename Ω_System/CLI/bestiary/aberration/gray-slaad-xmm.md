@@ -1,20 +1,18 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/limbo
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/limbo
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Gray Slaad
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Gray Slaad
 ---
 # [Gray Slaad](3-Mechanics\CLI\bestiary\aberration/gray-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 286*  

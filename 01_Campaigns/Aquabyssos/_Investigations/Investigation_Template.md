@@ -17,8 +17,8 @@ investigation_type: "<%tp.system.suggester(["Murder", "Conspiracy", "Theft", "Mi
 
 ### Initial Report
 **Date**: Session <%tp.get("started_session")%>
-**Reported By**: [[<%tp.system.prompt("Who reported this?")%>]]
-**Location**: [[<%tp.system.prompt("Where did this occur?")%>]]
+**Reported By**: <%tp.system.prompt("Who reported this?")%>
+**Location**: <%tp.system.prompt("Where did this occur?")%>
 
 ### Case Summary
 <%tp.system.prompt("Describe the investigation in 2-3 sentences")%>
@@ -44,7 +44,7 @@ const clues = [
 
 dv.table(
     ["ID", "Clue", "Location", "Discovered", "Relevance"],
-    clues.map(c => [c.id, c.description, `[[${c.location}]]`, c.discovered, c.relevance])
+    clues.map(c => [c.id, c.description, `${c.location}`, c.discovered, c.relevance])
 );
 ```
 
@@ -70,7 +70,7 @@ graph TD
 ## 🎭 Suspects
 
 ### Primary Suspects
-#### [[<%tp.system.prompt("Primary Suspect Name")%>]]
+#### <%tp.system.prompt("Primary Suspect Name")%>
 - **Motive**: <%tp.system.prompt("What's their motive?")%>
 - **Opportunity**: <%tp.system.prompt("When could they have done it?")%>
 - **Alibi**: <%tp.system.prompt("What's their alibi?")%>
@@ -80,7 +80,7 @@ graph TD
   - 
 - **Current Status**: Not Questioned
 
-#### [[<%tp.system.prompt("Secondary Suspect Name", "")%>]]
+#### <%tp.system.prompt("Secondary Suspect Name", "")%>
 - **Motive**: 
 - **Opportunity**: 
 - **Alibi**: 
@@ -96,7 +96,7 @@ graph TD
 ## 📍 Key Locations
 
 ### Crime Scene
-**Location**: [[<%tp.system.prompt("Crime scene location")%>]]
+**Location**: <%tp.system.prompt("Crime scene location")%>
 - **First Visited**: Session <%tp.system.prompt("Session number")%>
 - **Evidence Found**: 
   - [ ] 

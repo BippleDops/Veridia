@@ -8,7 +8,7 @@ modified: 2025-07-23 17:35
 # Investigators Anonymous
 
 ## General Info
-**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
+**Location**: Shadowhaven
 
 ## Description
 Investigators Anonymous is a secretive organization of private investigators who specialize in solving the most difficult and dangerous cases. They are known for their discretion and their ability to get results.

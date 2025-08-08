@@ -1,18 +1,16 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/cos
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+  - ttrpg-cli/compendium/src/5e/cos
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Armored Saber-Toothed Tiger
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Armored Saber-Toothed Tiger
 ---
 # [Armored Saber-Toothed Tiger](3-Mechanics\CLI\bestiary\beast/armored-saber-toothed-tiger-cos.md)
 *Source: Curse of Strahd p. 115*  

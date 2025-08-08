@@ -19,6 +19,9 @@ services:
     type: ""
     provider: "[[]]"
 events: []
+active_quests: []
+event_date: 
+event_location: ""
 notable_features: []
 ---
 
@@ -87,6 +90,9 @@ Roll 1d20:
 15-17: 
 18-19: 
 20: 
+
+### Quick Dice
+`dice: 1d100|Rumor`
 
 ## Travel Connections
 | Destination | Distance | Travel Time | Route Type | Dangers |

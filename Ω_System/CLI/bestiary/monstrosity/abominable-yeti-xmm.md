@@ -1,19 +1,17 @@
 ---
-obsidianUIMode: preview
+type: monster
+obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: '#^statblock'
 aliases:
-- Abominable Yeti
-type: note
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
+  - Abominable Yeti
 ---
 # [Abominable Yeti](3-Mechanics\CLI\bestiary\monstrosity/abominable-yeti-xmm.md)
 *Source: Monster Manual (2024) p. 340*  

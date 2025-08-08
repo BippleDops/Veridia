@@ -10,13 +10,13 @@ primary_location: "[[Whisper Island]]"
 locations_visited:
   - "[[Whisper Island Docks]]"
   - "[[The Seahawk]]"
-  - "[[Lighthouse Keeper's House]]"
-  - "[[Lighthouse of Storms]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms]]"
   - "[[Resonance Chamber]]"
 npcs_met:
   - "[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]"
   - "[[Jasper Three-Eyes Flint]]"
-  - "[[Vex Shadowthorn's Apprentices]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn|Vex Shadowthorn]]'s Apprentices"
   - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]" # glimpse only
 encounters:
   - "[[Crystal Mimics]]"
@@ -24,7 +24,7 @@ encounters:
   - "[[Crimson Hand Apprentices]]"
 quests_started:
   - "[[The Whisper Island Mystery]]"
-  - "[[Captain Blackwater's Fate]]"
+- "[[01_Campaigns/Aethermoor/Quests/Captain Blackwater's Fate|Captain Blackwater's Fate]]"
 quests_progressed:
   - "[[Investigate the Crystal Plague]]"
 quests_completed: []
@@ -97,7 +97,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Key Discovery:** Journal entry: "The seven shards aren't weapons - they're a prison. Something sleeps beneath the waves, and the crystals are its dreams made manifest."
 
 #### Event 2: The Keeper's House
-**Location:** [[Lighthouse Keeper's House]]
+**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House]]
 **NPCs:** [[Jasper Three-Eyes Flint]]
 **Outcome:**
 - Find Jasper hiding, partially crystallized (30% transformed)
@@ -109,7 +109,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Jasper's Revelation:** "They're not creating the plague... they're tuning it! Like a conductor with an orchestra of crystals. The Queen's seal was on the orders, but dated next month. How is that possible?"
 
 #### Event 3: The Lighthouse Ascent
-**Location:** [[Lighthouse of Storms]] - Multiple floors
+**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms]] - Multiple floors
 **NPCs:** Infected Experiments (hostile)
 **Outcome:**
 - **Ground Floor:** Ruined laboratory, broken containment circles
@@ -123,7 +123,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Environmental Challenge:** Each floor closer to peak increases corruption (CON save DC 12 + floor number or gain 1 exposure)
 
 #### Event 4: The Resonance Chamber
-**Location:** [[Lighthouse Peak - Resonance Chamber]]
+**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse Peak - Resonance Chamber]]
 **NPCs:** [[Vex Shadowthorn's Apprentices]] (2)
 **Outcome:**
 - Massive 20-foot crystal formation pulsing with energy

@@ -20,7 +20,7 @@ themes:
   - Teaching empathy to a god
 quests_advanced:
   - [[The Final Choice]]
-  - [[Save/Transform Reality]]
+  - [[01_Campaigns/Aquabyssos/Lore/Save-Transform Reality|Save/Transform Reality]]
   - [[Determine Aquabyssos's Fate]]
 ---
 

@@ -42,7 +42,7 @@ Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[01_Campaigns/Aqu
 - [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] - Resents her civilian authority
 - [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] - Disputes over bioweapon accusations
 - [[Mediator Serenity Stillwater]] - Respects but frustrated by neutrality
-- [[Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
+ - [[01_Campaigns/Aquabyssos/NPCs/Envoy Blackwater Jr.|Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
  - [[01_Campaigns/Aquabyssos/NPCs/Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
 
 ### Secret Allies

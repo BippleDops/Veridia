@@ -61,7 +61,7 @@ Port Meridian is [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s largest trad
 ### Underworld
 - [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Smuggler queen
 - [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Has operations here
-- [[The Tidecaller]] - Mysterious pirate lord
+- [[01_Campaigns/Aquabyssos/NPCs/The Tidecaller|The Tidecaller]] - Mysterious pirate lord
 
 ## Current Crisis: The Crystal Plague
 
@@ -138,7 +138,7 @@ Port Meridian is [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s largest trad
 > - [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] is actually working for the Crown
 > - [[Lord Aurelius Goldwave]] is embezzling funds for [[The Order of the Shattered Crown]]
 > - A cult of Aetheron meets in the abandoned plague buildings
-> - [[The Tidecaller]] is searching for underwater crystal formations
+> - [[01_Campaigns/Aquabyssos/NPCs/The Tidecaller|The Tidecaller]] is searching for underwater crystal formations
 
 ## Random Encounters (Port)
 

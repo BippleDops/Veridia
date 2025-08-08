@@ -19,7 +19,7 @@ themes:
   - Medical nightmare
 quests_advanced:
   - [[Stop the Shadow Harvest]]
-  - [[Discover Marina's Truth]]
+  - [[01_Campaigns/Aquabyssos/Lore/Discover Marina's Truth|Discover Marina's Truth]]
   - [[Infiltrate Surgical Facilities]]
 ---
 

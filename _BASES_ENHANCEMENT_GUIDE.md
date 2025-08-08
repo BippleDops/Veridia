@@ -210,3 +210,4 @@ Generated: {{date:YYYY-MM-DD HH:mm}}
   - Generate/refresh reports and snapshots
 - Deliverable:
   - Scripted entrypoint under `08_Automation/Scripts/` to run audits, sanity checks, and produce a summary
+  - Alias runner: `08_Automation/run_agent_setup.sh` and dashboard links under Quick Actions → Maintenance

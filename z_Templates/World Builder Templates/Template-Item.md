@@ -59,7 +59,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Pasted image 20250514201228.png]]
+>> [Image placeholder]
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind

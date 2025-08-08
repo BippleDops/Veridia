@@ -48,7 +48,7 @@ Three millennia ago, the Oracle of [[Crystalline Depths]] foresaw the coming of 
    - Pressure-locked vaults
 
 4. **The Thermal Gardens** (3000-5000 ft)
-   - Location: [[Volcano's Heart]]
+   - Location: Volcano's Heart (to be detailed)
    - Underwater volcanic vents
    - Forge cities
    - Steam-powered technology

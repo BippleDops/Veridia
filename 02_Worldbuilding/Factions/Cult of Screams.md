@@ -36,7 +36,7 @@ modified: 2025-07-23 12:39
 
 > [!column|no-i no-t]
 >> [!note|no-title]
->> ![[Pasted image 20250427093629.png]]
+>> [Image placeholder]
 >
 >> [!note|div-m] Place Name
 >> ~~~meta-bind

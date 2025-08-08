@@ -258,13 +258,13 @@ Current Reputation: **Respected but Declining**
 
 ### Associated Locations
 - Primary: [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
-- Secondary: [[Senator's Private Chambers]]
+- Secondary: [[01_Campaigns/Aquabyssos/Locations/Senator's Private Chambers|Senator's Private Chambers]]
 - Hidden: [[Shadow Binding Sanctum]]
 
 ### Connected Quests
 - Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy]]
 - Side: [[Find the Shadow Cure]]
-- Personal: [[The Senator's Last Stand]]
+- Personal: [[01_Campaigns/Aquabyssos/Lore/The Senator's Last Stand|The Senator's Last Stand]]
 
 ---
 **NPC Brain Active** | *Last Updated: Session 10*

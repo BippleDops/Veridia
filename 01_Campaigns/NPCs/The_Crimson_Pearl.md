@@ -73,7 +73,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 ### Key Lieutenants
 - **Whisper Jack** - Smuggling operations
 - **[[The Barnacle]]** - Fencing and money laundering
-- **[[Captain 'Red Tide' Morgan]]** - Piracy fleet
+- **[[01_Campaigns/Aquabyssos/NPCs/Captain Marlowe Tidecrest|Captain 'Red Tide' Morgan]]** - Piracy fleet
 - **[[The Schooling]]** - Spy network of orphans
 
 ## The Vampire Problem

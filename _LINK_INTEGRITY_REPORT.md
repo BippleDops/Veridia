@@ -1,102 +1,35 @@
 # Link Integrity Report
 
-Generated: 2025-08-08 12:44:29
+Generated: 2025-08-08 13:18:42
 
 
 ## Summary
 
-- Total links analyzed: 3377
-- OK links: 3277
-- Broken links: 39
-- Ambiguous links: 61
+- Total links analyzed: 3371
+- OK links: 3340
+- Broken links: 12
+- Ambiguous links: 19
 - Case-mismatch links: 1
-- Orphaned pages (excluding templates/system): 157
+- Orphaned pages (excluding templates/system): 152
 
 ## Broken Links
 
-- 03_Rules_Reference/Homebrew/Items/New Item.md:20 — ![[Pasted image 20250514201228.png]] → 'Pasted image 20250514201228.png'
-- z_Templates/World Builder Templates/Template-Item.md:62 — ![[Pasted image 20250514201228.png]] → 'Pasted image 20250514201228.png'
-- z_Templates/World Builder Templates/Template-Quest.md:56 — ![[Pasted image 20250427093259.png]] → 'Pasted image 20250427093259.png'
-- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:56 — [[Sorrow's End]] → 'Sorrow's End' | suggestions: sorrow, sorrow pearls, pressure's end
-- 02_Worldbuilding/Factions/New Group.md:39 — ![[Pasted image 20250427093629.png]] → 'Pasted image 20250427093629.png'
-- 02_Worldbuilding/Factions/Cult of Screams.md:39 — ![[Pasted image 20250427093629.png]] → 'Pasted image 20250427093629.png'
-- 02_Worldbuilding/Factions/The Shadowhaven Smugglers Ring.md:10 — ![[z_Assets/Organizations/smugglers_ring_symbol.jpg|cover]] → 'z_Assets/Organizations/smugglers_ring_symbol.jpg' | suggestions: smuggler's gambit
-- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:51 — [[Volcano's Heart]] → 'Volcano's Heart' | suggestions: volcano, sylvanheart
 - 00_Dashboard/Master_Campaign_Control_Center_v2.md:297 — [[' + q.file.name + ']] → '' + q.file.name + ''
-- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:261 — [[Senator's Private Chambers]] → 'Senator's Private Chambers' | suggestions: tidal chambers
-- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:267 — [[The Senator's Last Stand]] → 'The Senator's Last Stand' | suggestions: the siren's rest tavern, the senator
-- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md:32 — [[The Emperor's Gambit]] → 'The Emperor's Gambit' | suggestions: the emperor, smuggler's gambit
-- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md:45 — [[Envoy Blackwater Jr.]] → 'Envoy Blackwater Jr.' | suggestions: envoy blackwater jr., captain blackwater
-- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:76 — [[Tide Turner's Trident]] → 'Tide Turner's Trident' | suggestions: tide turner
-- 01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons.md:22 — [[Discover Marina's Truth]] → 'Discover Marina's Truth' | suggestions: discover marina
-- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:11 — [[Marina's Echo]] → 'Marina's Echo' | suggestions: captain echo, marina
-- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:23 — [[Save/Transform Reality]] → 'Save/Transform Reality' | suggestions: save-transform reality
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:76 — [[Tide Turner's Trident]] → 'Tide Turner's Trident' | suggestions: tide turner, the crown's burden
+- 01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons.md:22 — [[01_Campaigns/Aquabyssos/Lore/Discover Marina's Truth|Discover Marina's Truth]] → '01_Campaigns/Aquabyssos/Lore/Discover Marina's Truth' | suggestions: discover marina
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:11 — [[01_Campaigns/Aquabyssos/Lore/Marina's Echo|Marina's Echo]] → '01_Campaigns/Aquabyssos/Lore/Marina's Echo' | suggestions: captain echo, marina
 - 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:24 — [[Determine Aquabyssos's Fate]] → 'Determine Aquabyssos's Fate' | suggestions: determine aquabyssos, aquabyssos faction web
-- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:13 — [[Merchant's Covenant]] → 'Merchant's Covenant' | suggestions: merchant's rest island, merchants-scale
-- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:77 — [[Merchant's Covenant]] → 'Merchant's Covenant' | suggestions: merchant's rest island, merchants-scale
-- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:135 — [[The Deserter's Tale]] → 'The Deserter's Tale' | suggestions: the deserter, the gilded serpent tavern, the serpent's spire
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:135 — [[01_Campaigns/Aquabyssos/Lore/The Deserter's Tale|The Deserter's Tale]] → '01_Campaigns/Aquabyssos/Lore/The Deserter's Tale' | suggestions: the deserter, the gilded serpent tavern, the serpent's spire
 - 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:82 — [[Time's Mercy]] → 'Time's Mercy'
-- 01_Campaigns/NPCs/The_Crimson_Pearl.md:76 — [[Captain 'Red Tide' Morgan]] → 'Captain 'Red Tide' Morgan' | suggestions: captain marlowe tidecrest
 - 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:157 — [[The Tidecaller's Doubt]] → 'The Tidecaller's Doubt' | suggestions: the tidecaller, the tidal council
-- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:158 — [[Oracle's Burden]] → 'Oracle's Burden'
-- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md:184 — [[Quest - Nature's Balance]] → 'Quest - Nature's Balance' | suggestions: quest - nature, quest - the blackmail papers, quest - smuggler's run
-- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md:165 — [[Quest - The Pretender's Crown]] → 'Quest - The Pretender's Crown' | suggestions: quest - the pretender, quest - the crown reborn, quest - the seventh shard
-- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:13 — [[01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House]] → '01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House' | suggestions: lighthouse keeper, lighthouse ruins
-- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:27 — [[01_Campaigns/Aethermoor/Quests/Captain Blackwater's Fate|Captain Blackwater's Fate]] → '01_Campaigns/Aethermoor/Quests/Captain Blackwater's Fate' | suggestions: captain blackwater, captain thaddeus blackwater, captain kaelen
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:158 — [[Oracle's Burden]] → 'Oracle's Burden' | suggestions: the crown's burden
 - 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:69 — [[Vex Shadowthorn's Apprentices]] → 'Vex Shadowthorn's Apprentices' | suggestions: vex shadowthorn, shadow surgeon apprentice, vex shadowthorn boss fight
-- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:100 — [[01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House]] → '01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House' | suggestions: lighthouse keeper, lighthouse ruins
 - 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:127 — [[Vex Shadowthorn's Apprentices]] → 'Vex Shadowthorn's Apprentices' | suggestions: vex shadowthorn, shadow surgeon apprentice, vex shadowthorn boss fight
-- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:140 — [[Lighthouse Keeper's House]] → 'Lighthouse Keeper's House' | suggestions: lighthouse keeper, lighthouse ruins
-- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:162 — [[Captain Blackwater's Fate]] → 'Captain Blackwater's Fate' | suggestions: captain blackwater, captain thaddeus blackwater, captain kaelen
-- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:19 — [[Dock Worker Tomás]] → 'Dock Worker Tomás' | suggestions: dock worker tomás, dockworkers union
-- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:81 — [[Dock Worker Tomás]] → 'Dock Worker Tomás' | suggestions: dock worker tomás, dockworkers union
-- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:14 — [[The Crown's Burden]] → 'The Crown's Burden' | suggestions: the crown, the siren's revenge, the crystal wardens
-- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md:214 — [[Quest - Nature's Balance]] → 'Quest - Nature's Balance' | suggestions: quest - nature, quest - the blackmail papers, quest - smuggler's run
 - 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:29 — [[Artificer's Row]] → 'Artificer's Row' | suggestions: artificer
 
 ## Ambiguous Links (multiple matching notes)
 
-- _ENHANCED_BASES_SCHEMAS.md:82 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
-- _ENHANCED_BASES_SCHEMAS.md:317 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
-- _ENHANCED_BASES_SCHEMAS.md:387 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
-- _ENHANCED_BASES_SCHEMAS.md:467 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
 - 09_Performance/Indexes/Campaign_Index.md:260 — [[Template-Quest|📜 Create New Quest]] → matches 2: z_Templates/World Builder Templates/Template-Quest.md, 01_Campaigns/Aquabyssos/Lore/Template-Quest.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:128 — [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:129 — [[Ω_System/CLI/rules/skills#Animal Handling|Animal Handling]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:130 — [[Ω_System/CLI/rules/skills#Arcana|Arcana]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:131 — [[Ω_System/CLI/rules/skills#Athletics|Athletics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:132 — [[Ω_System/CLI/rules/skills#Deception|Deception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:133 — [[Ω_System/CLI/rules/skills#History|History]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:134 — [[Ω_System/CLI/rules/skills#Insight|Insight]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:135 — [[Ω_System/CLI/rules/skills#Intimidation|Intimidation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:136 — [[Ω_System/CLI/rules/skills#Investigation|Investigation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:137 — [[Ω_System/CLI/rules/skills#Medicine|Medicine]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:138 — [[Ω_System/CLI/rules/skills#Nature|Nature]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:139 — [[Ω_System/CLI/rules/skills#Perception|Perception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:140 — [[Ω_System/CLI/rules/skills#Performance|Performance]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:141 — [[Ω_System/CLI/rules/skills#Persuasion|Persuasion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:142 — [[Ω_System/CLI/rules/skills#Religion|Religion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:143 — [[Ω_System/CLI/rules/skills#Sleight of Hand|Sleight of Hand]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:144 — [[Ω_System/CLI/rules/skills#Stealth|Stealth]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:145 — [[Ω_System/CLI/rules/skills#Survival|Survival]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:127 — [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:128 — [[Ω_System/CLI/rules/skills#Animal Handling|Animal Handling]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:129 — [[Ω_System/CLI/rules/skills#Arcana|Arcana]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:130 — [[Ω_System/CLI/rules/skills#Athletics|Athletics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:131 — [[Ω_System/CLI/rules/skills#Deception|Deception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:132 — [[Ω_System/CLI/rules/skills#History|History]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:133 — [[Ω_System/CLI/rules/skills#Insight|Insight]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:134 — [[Ω_System/CLI/rules/skills#Intimidation|Intimidation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:135 — [[Ω_System/CLI/rules/skills#Investigation|Investigation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:136 — [[Ω_System/CLI/rules/skills#Medicine|Medicine]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:137 — [[Ω_System/CLI/rules/skills#Nature|Nature]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:138 — [[Ω_System/CLI/rules/skills#Perception|Perception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:139 — [[Ω_System/CLI/rules/skills#Performance|Performance]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:140 — [[Ω_System/CLI/rules/skills#Persuasion|Persuasion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:141 — [[Ω_System/CLI/rules/skills#Religion|Religion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:142 — [[Ω_System/CLI/rules/skills#Sleight of Hand|Sleight of Hand]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:143 — [[Ω_System/CLI/rules/skills#Stealth|Stealth]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:144 — [[Ω_System/CLI/rules/skills#Survival|Survival]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:94 — [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:95 — [[Ω_System/CLI/rules/skills#Animal Handling|Animal Handling]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:96 — [[Ω_System/CLI/rules/skills#Arcana|Arcana]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
@@ -115,8 +48,6 @@ Generated: 2025-08-08 12:44:29
 - 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:109 — [[Ω_System/CLI/rules/skills#Sleight of Hand|Sleight of Hand]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:110 — [[Ω_System/CLI/rules/skills#Stealth|Stealth]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
 - 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:111 — [[Ω_System/CLI/rules/skills#Survival|Survival]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
-- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:64 — [[The Tidecaller]] → matches 2: 01_Campaigns/Aquabyssos/NPCs/The Tidecaller.md, 01_Campaigns/Aethermoor/Locations/The Tidecaller.md
-- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:141 — [[The Tidecaller]] → matches 2: 01_Campaigns/Aquabyssos/NPCs/The Tidecaller.md, 01_Campaigns/Aethermoor/Locations/The Tidecaller.md
 
 ## Case Mismatch (link text case differs from file name)
 
@@ -136,11 +67,9 @@ Generated: 2025-08-08 12:44:29
 - 01_Campaigns/Aethermoor/Locations/Artificer.md
 - 01_Campaigns/Aethermoor/Locations/New Thalassopolis.md
 - 01_Campaigns/Aethermoor/Locations/The Tidecaller.md
-- 01_Campaigns/Aethermoor/Lore/Dock Worker Tomás.md
 - 01_Campaigns/Aethermoor/Lore/The Queen.md
 - 01_Campaigns/Aethermoor/NPCs/Captain Blackwater.md
 - 01_Campaigns/Aethermoor/NPCs/Empress Tethys the Ever-Drowning.md
-- 01_Campaigns/Aethermoor/NPCs/Lighthouse Keeper.md
 - 01_Campaigns/Aethermoor/NPCs/Quest - Nature.md
 - 01_Campaigns/Aethermoor/NPCs/Quest - The Pretender.md
 - 01_Campaigns/Aethermoor/NPCs/The Siren.md
@@ -186,7 +115,6 @@ Generated: 2025-08-08 12:44:29
 - 01_Campaigns/Aquabyssos/Lore/Location.md
 - 01_Campaigns/Aquabyssos/Lore/Marina.md
 - 01_Campaigns/Aquabyssos/Lore/NPC.md
-- 01_Campaigns/Aquabyssos/Lore/Save-Transform Reality.md
 - 01_Campaigns/Aquabyssos/Lore/Session {{VALUE-session_number + 1}}.md
 - 01_Campaigns/Aquabyssos/Lore/Session {{VALUE-session_number - 1}}.md
 - 01_Campaigns/Aquabyssos/Lore/Sorrow.md
@@ -215,7 +143,6 @@ Generated: 2025-08-08 12:44:29
 - 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md
 - 01_Campaigns/Aquabyssos/NPCs/The Emperor.md
 - 01_Campaigns/Aquabyssos/NPCs/The Senator.md
-- 01_Campaigns/Aquabyssos/NPCs/The Tidecaller.md
 - 01_Campaigns/Aquabyssos/Quests/Discover Marina.md
 - 01_Campaigns/Aquabyssos/Quests/Dr. Siphon Gillwater.md
 - 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md
@@ -234,7 +161,6 @@ Generated: 2025-08-08 12:44:29
 - 03_Rules_Reference/Homebrew/Bestiary/Aquabyssos Creature Compendium.md
 - 03_Rules_Reference/Homebrew/Bestiary/Bestiary.md
 - 03_Rules_Reference/Homebrew/Bestiary/Custom Homebrew Monster.md
-- 03_Rules_Reference/Homebrew/Items/Items.md
 - 03_Rules_Reference/Homebrew/Items/New Item.md
 - 03_Rules_Reference/Homebrew/Where To Get Mechanics.md
 - 03_Rules_Reference/Homebrew/races/races.md

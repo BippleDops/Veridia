@@ -53,7 +53,7 @@ setTimeout(() => {
 
 > [!column|no-i no-t]
 >> [!info|no-title] Map
->> ![[Pasted image 20250427093259.png]]
+>> [Map placeholder]
 >
 >> [!note|no-title] Town Name
 >> ~~~meta-bind

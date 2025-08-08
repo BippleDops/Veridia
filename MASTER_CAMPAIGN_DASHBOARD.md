@@ -261,6 +261,11 @@ LIMIT 10
 >> - 🗺️ Map Template: [[05_Templates/Template-Leaflet-Map]]
 >> - 🎲 Generators: [[04_Resources/Random_Tables/Encounter_and_Loot_Generators]]
 
+>> [!example|clean no-t]
+>> ### Maintenance
+>> - 🔧 Run Agent Setup: [[08_Automation/Run Agent Setup]]
+>> - 📄 Latest Agent Report: [[_AGENT_SETUP_REPORT.md]]
+
 ---
 
 ## 📈 Campaign Metrics
@@ -320,7 +325,7 @@ series:
 ### Critical Locations
 - [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
 - [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]
-- [[The Lighthouse of Storms]]
+- [[01_Campaigns/Aquabyssos/Lore/The Lighthouse of Storms]]
 - [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 
 ### Active Threats

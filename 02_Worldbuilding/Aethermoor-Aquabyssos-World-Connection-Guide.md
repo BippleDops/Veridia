@@ -53,7 +53,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 | [[Vorthak]] | [[Shattered Isles]] | Fragmented Realms | Reality Chaos |
 | [[Tenebrarum]] | [[Shadow Vale]] | Darkness Domains | Shadow Overlap |
 | [[Crystallium]] | [[Resonance Peaks]] | Harmonic Centers | Frequency Sync |
-| [[Mourning Depths]] | [[Sorrow's End]] | Emotional Extremes | Grief Manifest |
+| [[Mourning Depths]] | Sorrow's End (to be detailed) | Emotional Extremes | Grief Manifest |
 | [[Memoriam]] | [Forgotten] | Lost to Both | Unknown State |
 
 ### Transit Systems Between Worlds

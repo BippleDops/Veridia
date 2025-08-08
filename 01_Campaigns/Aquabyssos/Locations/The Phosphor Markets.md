@@ -10,7 +10,7 @@ depth: "1500 feet"
 # The Phosphor Markets - The Glowing Bazaar
 
 ## Overview
-The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[Merchant's Covenant]], a powerful trading guild that predates the drowning.
+The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[01_Campaigns/Aquabyssos/Factions/Merchant's Covenant|Merchant's Covenant]], a powerful trading guild that predates the drowning.
 
 ## Market Sections
 
@@ -74,7 +74,7 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 - Slaves (officially banned, still happens)
 
 ## Market Law
-- Enforced by the [[Merchant's Covenant]] Guard
+- Enforced by the [[01_Campaigns/Aquabyssos/Factions/Merchant's Covenant|Merchant's Covenant]] Guard
 - No violence permitted during trading hours
 - All factions have equal trading rights
 - Disputes settled by market arbitration

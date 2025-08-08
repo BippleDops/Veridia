@@ -132,7 +132,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 
 ## Quests Available
 - [[The Deep Patrol]] - Scout the increasing threats
-- [[The Deserter's Tale]] - Track down missing soldiers
+- [[01_Campaigns/Aquabyssos/Lore/The Deserter's Tale|The Deserter's Tale]] - Track down missing soldiers
 - [[Forge of War]] - Acquire rare materials for weapons
 - [[Breaking the Deep]] - Assault on deep creature stronghold
 - [[The Pressure Conspiracy]] - Uncover the coup plot

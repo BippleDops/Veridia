@@ -79,7 +79,7 @@ proficiencies: list
 expertise: list
 
 # Equipment
-magic_items: list of links → [[Items]]
+ magic_items: list of links → [[03_Rules_Reference/Homebrew/Items/Items]]
 notable_equipment: text
 wealth_level: select [Destitute/Poor/Modest/Wealthy/Rich/Aristocratic]
 
@@ -314,7 +314,7 @@ escaped: list of links → NPCs
 # Rewards
 experience_awarded: number
 treasure_found: text
-items_gained: list of links → [[Items]]
+ items_gained: list of links → [[03_Rules_Reference/Homebrew/Items/Items]]
 information_learned: text
 
 # Time Tracking
@@ -384,7 +384,7 @@ decisions_made: list
 # Rewards
 experience_reward: number
 gold_reward: number
-item_rewards: list of links → [[Items]]
+ item_rewards: list of links → [[03_Rules_Reference/Homebrew/Items/Items]]
 reputation_rewards: object {faction: amount}
 story_rewards: text
 consequences: text
@@ -464,7 +464,7 @@ combat_difficulty_average: text
 # Loot & Rewards
 experience_gained: number
 gold_found: number
-items_found: list of links → [[Items]]
+ items_found: list of links → [[03_Rules_Reference/Homebrew/Items/Items]]
 information_learned: list
 secrets_discovered: list
 

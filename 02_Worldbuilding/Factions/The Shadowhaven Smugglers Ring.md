@@ -7,7 +7,7 @@ modified: 2025-07-23 12:39
 ---
 > [!infobox]
 > # The Shadowhaven Smugglers Ring
-> ![[z_Assets/Organizations/smugglers_ring_symbol.jpg|cover]]
+> [Image placeholder]
 > ###### Organization Profile  
 > | | |
 > |---|---|

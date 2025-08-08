@@ -16,7 +16,7 @@ locations_visited:
 npcs_met:
   - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
   - "[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]"
-  - "[[Dock Worker Tomás]]"
+  - "[[01_Campaigns/Aethermoor/Lore/Dock Worker Tomás|Dock Worker Tomás]]"
   - "[[Brother Marcus Steelbane]]"
 encounters:
   - "[[Crystal Cult Initiates Ambush]]"
@@ -78,7 +78,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 1: The Shattered Sailor Investigation
 **Location:** [[Pier 7]]
-**NPCs:** [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]], [[Dock Worker Tomás]]
+**NPCs:** [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]], [[01_Campaigns/Aethermoor/Lore/Dock Worker Tomás|Dock Worker Tomás]]
 **Outcome:** 
 - Party learns corpse wore Meridian Navy uniform
 - Sailor identified as missing for 3 weeks

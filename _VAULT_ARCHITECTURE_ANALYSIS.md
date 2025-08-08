@@ -1,11 +1,11 @@
 # Vault Architecture Analysis
 
-Generated: 2025-08-08 12:20:24
+Generated: 2025-08-08 13:18:42
 
 
 ## File Counts
 
-- Total Markdown files: 5883
+- Total Markdown files: 5895
 
 ### Top Folders by Markdown Count
 
@@ -13,8 +13,8 @@ Generated: 2025-08-08 12:20:24
 - Ω_System/CLI/tables: 844
 - Ω_System/CLI/spells: 482
 - Ω_System/CLI/deities: 310
-- 01_Campaigns/Aquabyssos/Locations: 273
-- 01_Campaigns/Aquabyssos/Lore: 210
+- 01_Campaigns/Aquabyssos/Locations: 274
+- 01_Campaigns/Aquabyssos/Lore: 212
 - Ω_System/CLI/variant-rules: 198
 - Ω_System/CLI/lists: 152
 - Ω_System/CLI/bestiary/beast: 129
@@ -44,13 +44,13 @@ Generated: 2025-08-08 12:20:24
 - Ω_System/CLI/bestiary/giant: 32
 - 01_Campaigns/Aquabyssos/Mechanics: 30
 - 05_Templates/Example_Campaign/Locations: 30
+- 01_Campaigns/Aethermoor/Quests: 29
 - Ω_Archive/1-DM Toolkit: 28
+- 01_Campaigns/Aquabyssos/Factions: 26
 - Ω_System/CLI/adventures/curse-of-strahd: 26
-- 01_Campaigns/Aethermoor/Quests: 25
-- 01_Campaigns/Aquabyssos/Factions: 25
+- .: 25
 - 01_Campaigns/Aquabyssos/Quests: 25
 - Ω_System/CLI/bestiary/celestial: 25
-- .: 24
 - Ω_System/CLI/adventures/out-of-the-abyss: 23
 - 01_Campaigns/Aethermoor/Factions: 21
 - 02_Worldbuilding/Factions: 16
@@ -58,7 +58,7 @@ Generated: 2025-08-08 12:20:24
 - Ω_System/CLI/adventures/hoard-of-the-dragon-queen: 15
 - Ω_System/CLI/adventures/rise-of-tiamat: 15
 - Ω_System/CLI/books/dungeon-masters-guide-2014: 15
-- Ω_System/CLI/bestiary/ooze: 13
+- 05_Templates: 13
 
 ## Duplicate Basenames (same title in multiple locations)
 
@@ -79,7 +79,6 @@ Generated: 2025-08-08 12:20:24
 - 'aquabyssos world overview': 01_Campaigns/Aethermoor/Lore/Aquabyssos World Overview.md, 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md
 - 'arch-hag-xmm': Ω_System/CLI/bestiary/fey/arch-hag-xmm.md, Ω_System/CLI/bestiary/legendary-group/arch-hag-xmm.md
 - 'beholder-xmm': Ω_System/CLI/bestiary/aberration/beholder-xmm.md, Ω_System/CLI/bestiary/legendary-group/beholder-xmm.md
-- 'captain blackwater': 01_Campaigns/Aethermoor/NPCs/Captain Blackwater.md, 05_Templates/Example_Campaign/NPCs/Captain Blackwater.md
 - 'captain blackwater': 01_Campaigns/Aethermoor/NPCs/Captain Blackwater.md, 05_Templates/Example_Campaign/NPCs/Captain Blackwater.md
 - 'cover-xphb': Ω_System/CLI/tables/cover-xphb.md, Ω_System/CLI/variant-rules/cover-xphb.md
 - 'darkness-xphb': Ω_System/CLI/spells/darkness-xphb.md, Ω_System/CLI/variant-rules/darkness-xphb.md
@@ -114,6 +113,6 @@ Generated: 2025-08-08 12:20:24
 
 ## Naming Conventions
 
-- Files with spaces: 1008
-- Files with underscores: 72
-- Files with hyphens: 4760
+- Files with spaces: 1017
+- Files with underscores: 74
+- Files with hyphens: 4763

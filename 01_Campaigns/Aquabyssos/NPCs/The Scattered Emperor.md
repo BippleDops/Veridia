@@ -29,7 +29,7 @@ relationships:
 related_quests:
   - "[[Unite the Emperor]]"
   - "[[Investigate Shadow Conspiracy]]"
-  - "[[The Emperor's Gambit]]"
+  - "[[01_Campaigns/Aquabyssos/Lore/The Emperor's Gambit|The Emperor's Gambit]]"
 last_encounter: "[[01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome]]"
 stats:
   str: Variable

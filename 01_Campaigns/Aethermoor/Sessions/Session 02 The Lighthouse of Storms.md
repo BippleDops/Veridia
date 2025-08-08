@@ -10,7 +10,7 @@ primary_location: "[[Whisper Island]]"
 locations_visited:
   - "[[Whisper Island Docks]]"
   - "[[The Seahawk]]"
-  - "[[01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Lighthouse Keeper|Lighthouse Keeper's House]]"
   - "[[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms]]"
   - "[[Resonance Chamber]]"
 npcs_met:
@@ -97,7 +97,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Key Discovery:** Journal entry: "The seven shards aren't weapons - they're a prison. Something sleeps beneath the waves, and the crystals are its dreams made manifest."
 
 #### Event 2: The Keeper's House
-**Location:** [[01_Campaigns/Aethermoor/Locations/Lighthouse Keeper's House]]
+**Location:** [[01_Campaigns/Aethermoor/NPCs/Lighthouse Keeper|Lighthouse Keeper's House]]
 **NPCs:** [[Jasper Three-Eyes Flint]]
 **Outcome:**
 - Find Jasper hiding, partially crystallized (30% transformed)
@@ -137,7 +137,7 @@ When the ritual is disrupted, everyone experiences:
 > *You're falling... no, sinking. The world inverts. Below becomes above. You see a vast city of impossible architecture - spires that grow downward, water that flows upward, streets that exist in multiple dimensions simultaneously. Thousands of crystallized figures are arranged in prayer formation. A voice speaks in your minds, not in words but in pure meaning: "The Seventh Shard awakens. The Drowned God stirs. The surface world's time grows short."*
 
 ### Closing Scene
-**Location:** [[Lighthouse Keeper's House]]
+**Location:** [[01_Campaigns/Aethermoor/NPCs/Lighthouse Keeper|Lighthouse Keeper's House]]
 **Cliffhanger:**
 The party awakens from the vision to find three days have passed. Jasper is gone, leaving only a note: "They know you're here now. Both of them - the thing below and the one who wears the crown. The city prepares for war with itself. Trust the Sage, fear the Queen, find the Seven before the Festival. PS - I took one shard. Safer with me running than you fighting."
 

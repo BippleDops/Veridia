@@ -32,3 +32,7 @@ allies: []
 
 ## Aftermath
 <!-- Consequences and developments -->
+
+## Quick Dice
+`dice: 1d20+Dex|Initiative`
+`dice: 2d6+X|Damage`

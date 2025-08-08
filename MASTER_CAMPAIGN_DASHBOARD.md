@@ -256,6 +256,11 @@ LIMIT 10
 >> - 🎭 [[_AI_CONTEXT|Campaign Themes]]
 >> - ❓ [[_QUERY_HELPER|Help Guide]]
 
+>> [!example|clean no-t]
+>> ### Phase 8–9 Utilities
+>> - 🗺️ Map Template: [[05_Templates/Template-Leaflet-Map]]
+>> - 🎲 Generators: [[04_Resources/Random_Tables/Encounter_and_Loot_Generators]]
+
 ---
 
 ## 📈 Campaign Metrics

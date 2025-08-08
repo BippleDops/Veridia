@@ -1,13 +1,17 @@
 ---
-tags: [quest]
+tags: [Quest]
 quest_giver: "[[]]"  # Link to NPC
-status: "available"  # available, active, completed, failed, abandoned
-priority: "normal"  # low, normal, high, urgent
+quest_status: "Not Started"  # Not Started, Active, In Progress, Completed, Failed, On Hold, Abandoned
+quest_priority: "Normal"  # Critical, High, Normal, Low, Optional
+quest_type: "Main Quest"
 quest_start: 
 deadline: 
 completion_date: 
 reward: ""
-location: "[[]]"  # Primary quest location
+reward_gold: 
+reward_xp: 
+quest_location: "[[]]"  # Primary quest location
+quest_progress: 0
 quest_image: ""  # Path to quest image/map
 related_npcs:
   - "[[]]"  # Links to involved NPCs

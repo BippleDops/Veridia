@@ -1,6 +1,7 @@
 ---
 tags: [session]
 session: "Session-"
+sessionNumber: 
 date: 
 type: "session"
 players: []
@@ -11,16 +12,22 @@ locations_visited:
   - "[[]]"  # All locations visited
 npcs_met:
   - "[[]]"  # NPCs encountered
+npcsMet: []
 encounters:
   - "[[]]"  # Combat encounters run
 quests_started:
   - "[[]]"  # New quests received
+questsStarted: []
 quests_progressed:
   - "[[]]"  # Quests advanced
+questsAdvanced: []
 quests_completed:
   - "[[]]"  # Quests finished
+questsCompleted: []
 items_gained: []
+loot: []
 gold_gained: []
+treasureValue: 0
 xp_awarded: 
 plot_threads: []
 duration_hours: 
@@ -130,7 +137,10 @@ Per Player:
 ## Player Feedback
 <!-- Notes from post-session discussion -->
 - 
-
+ 
+## 🎲 Quick Dice
+`dice: 1d20+X|Ability Check`
+`dice: 2d6+X|Damage`
 ## Prep for Next Session
 - [ ] Update NPC dispositions
 - [ ] Process quest progress

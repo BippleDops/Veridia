@@ -180,3 +180,19 @@ For mobile devices, create a separate plugin profile:
 
 ### Mobile Profile
 - Ensure heavy views have limits; use card/table views over unbounded galleries.
+
+---
+
+## Phase 11: Vault Optimization (Roadmap)
+
+### Pruning & Archiving
+- Detect orphans/duplicates/outdated dashboards; archive to `Ω_Archive/` with an index, or remove when safe.
+- Replace any template/system links in content with plain text labels before removal.
+- Confirm no inlinks prior to deletion and keep broken links ≤ 50.
+
+### Automated Configuration
+- Provide an agent-run setup script to:
+  - Validate required plugins, profiles, and settings
+  - Verify Bases/databases and dashboard embed targets
+  - Check template canonical fields
+  - Run audits and produce a summary report

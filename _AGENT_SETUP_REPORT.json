@@ -1,0 +1,379 @@
+{
+  "generated_at": "2025-08-08T17:44:30.559039Z",
+  "root": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental",
+  "checks": [
+    {
+      "check": "File exists: MASTER_CAMPAIGN_DASHBOARD.md",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/MASTER_CAMPAIGN_DASHBOARD.md"
+    },
+    {
+      "check": "File exists: 04_Resources/Calendars/Aethel.json",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/04_Resources/Calendars/Aethel.json"
+    },
+    {
+      "check": "File exists: 05_Templates/Session_Template.md",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/05_Templates/Session_Template.md"
+    },
+    {
+      "check": "File exists: 05_Templates/NPC_Template.md",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/05_Templates/NPC_Template.md"
+    },
+    {
+      "check": "File exists: 05_Templates/Quest_Template.md",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/05_Templates/Quest_Template.md"
+    },
+    {
+      "check": "File exists: 05_Templates/Location_Template.md",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/05_Templates/Location_Template.md"
+    },
+    {
+      "check": "File exists: NPC Directory.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/NPC Directory.base"
+    },
+    {
+      "check": "File exists: Session Log.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Session Log.base"
+    },
+    {
+      "check": "File exists: Quest Campaign Tracker.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Quest Campaign Tracker.base"
+    },
+    {
+      "check": "File exists: Combat Tracker.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Combat Tracker.base"
+    },
+    {
+      "check": "File exists: Faction_Tracker.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Faction_Tracker.base"
+    },
+    {
+      "check": "File exists: Item_Catalog.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Item_Catalog.base"
+    },
+    {
+      "check": "File exists: Relationship_Graph.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Relationship_Graph.base"
+    },
+    {
+      "check": "File exists: Location Tracker.base",
+      "status": "OK",
+      "details": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/Location Tracker.base"
+    },
+    {
+      "check": "MASTER_CAMPAIGN_DASHBOARD.md contains: EMBED[NPC Directory.base][Active NPCs]",
+      "status": "OK",
+      "details": "MASTER_CAMPAIGN_DASHBOARD.md"
+    },
+    {
+      "check": "MASTER_CAMPAIGN_DASHBOARD.md contains: EMBED[Location Tracker.base][Quest Hubs]",
+      "status": "OK",
+      "details": "MASTER_CAMPAIGN_DASHBOARD.md"
+    },
+    {
+      "check": "MASTER_CAMPAIGN_DASHBOARD.md contains: EMBED[Combat Tracker.base][Initiative Tracker]",
+      "status": "OK",
+      "details": "MASTER_CAMPAIGN_DASHBOARD.md"
+    },
+    {
+      "check": "MASTER_CAMPAIGN_DASHBOARD.md contains: EMBED[Session Log.base][Recent Sessions]",
+      "status": "OK",
+      "details": "MASTER_CAMPAIGN_DASHBOARD.md"
+    },
+    {
+      "check": "MASTER_CAMPAIGN_DASHBOARD.md contains: EMBED[Quest Campaign Tracker.base][Active]",
+      "status": "OK",
+      "details": "MASTER_CAMPAIGN_DASHBOARD.md"
+    },
+    {
+      "check": "05_Templates/Session_Template.md contains: sessionNumber",
+      "status": "OK",
+      "details": "05_Templates/Session_Template.md"
+    },
+    {
+      "check": "05_Templates/Session_Template.md contains: npcsMet",
+      "status": "OK",
+      "details": "05_Templates/Session_Template.md"
+    },
+    {
+      "check": "05_Templates/Session_Template.md contains: questsStarted",
+      "status": "OK",
+      "details": "05_Templates/Session_Template.md"
+    },
+    {
+      "check": "05_Templates/Session_Template.md contains: questsAdvanced",
+      "status": "OK",
+      "details": "05_Templates/Session_Template.md"
+    },
+    {
+      "check": "05_Templates/Session_Template.md contains: questsCompleted",
+      "status": "OK",
+      "details": "05_Templates/Session_Template.md"
+    },
+    {
+      "check": "05_Templates/NPC_Template.md contains: status:",
+      "status": "OK",
+      "details": "05_Templates/NPC_Template.md"
+    },
+    {
+      "check": "05_Templates/NPC_Template.md contains: lastSeen:",
+      "status": "OK",
+      "details": "05_Templates/NPC_Template.md"
+    },
+    {
+      "check": "05_Templates/Quest_Template.md contains: quest_status:",
+      "status": "OK",
+      "details": "05_Templates/Quest_Template.md"
+    },
+    {
+      "check": "05_Templates/Quest_Template.md contains: quest_priority:",
+      "status": "OK",
+      "details": "05_Templates/Quest_Template.md"
+    },
+    {
+      "check": "05_Templates/Quest_Template.md contains: quest_location:",
+      "status": "OK",
+      "details": "05_Templates/Quest_Template.md"
+    },
+    {
+      "check": "05_Templates/Location_Template.md contains: active_quests:",
+      "status": "OK",
+      "details": "05_Templates/Location_Template.md"
+    },
+    {
+      "check": "05_Templates/Location_Template.md contains: event_date:",
+      "status": "OK",
+      "details": "05_Templates/Location_Template.md"
+    },
+    {
+      "check": "05_Templates/Location_Template.md contains: event_location:",
+      "status": "OK",
+      "details": "05_Templates/Location_Template.md"
+    }
+  ],
+  "hygiene_issues": [
+    {
+      "file": "NPC Directory.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Monster Gallery.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Item Showcase.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Faction_Tracker.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Relationship_Graph.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Combat Tracker.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Quest Campaign Tracker.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Item_Catalog.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "Image Library.base",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "MASTER_CAMPAIGN_DASHBOARD.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "_BASES_ENHANCEMENT_GUIDE.md",
+      "pattern": "\\[\\[<%"
+    },
+    {
+      "file": "z_Templates/World Builder Templates/Template-Quest.md",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "05_Templates/Template-Settlement.md",
+      "pattern": "\\[\\[<%"
+    },
+    {
+      "file": "05_Templates/Template-Settlement.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/NPC_Brain_Template.md",
+      "pattern": "\\[\\[<%"
+    },
+    {
+      "file": "05_Templates/Template-World-Event-Timeline.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Template-Random-Encounter.md",
+      "pattern": "\\[\\[<%"
+    },
+    {
+      "file": "05_Templates/Session_Prep_Automated.md",
+      "pattern": "\\[\\[\\$\\{"
+    },
+    {
+      "file": "05_Templates/Template-Loot-Table.md",
+      "pattern": "\\[\\[<%"
+    },
+    {
+      "file": "05_Templates/Template-Player-Character.md",
+      "pattern": "\\[\\[<%"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/The Ember of Truth.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/Treasures of the Deep.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/The Underground War.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/The Lighthouse War.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/Locate the Eye Ball.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/The Arcane Disturbances.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/Shadows in High Places.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/Diplomatic Immunity.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/The Vanishing Merchant Vessels.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/The Serpent's Shadow.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/Quests/Council Election Conspiracy.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Captain Blackwater.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Captain-General Mordeth Bloodwater.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Gruff \"Stone\" Ironbelly.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Old Tom Seawatch.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Captain Marcus Steelhart.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Old Salt Pete.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Echo \"The Ghost\" Vain.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Brother Matthias.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/High Inquisitor Valerius.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Lyra Swiftwind.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Pirate King Razor Blackheart.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Marianne Crowley.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Marina Saltwhisper.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Oracle Moonwhisper.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Scar \"The Navigator\" Kellian.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Captain Kaelen.md",
+      "pattern": "\\[\\[05_Templates/"
+    },
+    {
+      "file": "05_Templates/Example_Campaign/NPCs/Whisper \"Coin\" Mordaine.md",
+      "pattern": "\\[\\[05_Templates/"
+    }
+  ],
+  "dataview_limits_ok": true,
+  "vault_audit": {
+    "rc": 0,
+    "stdout": "[vault_audit] Root: /Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental\n[vault_audit] Markdown files: 5885 | Assets: 318\n[vault_audit] Basename index entries: 5834 | Path index entries: 6228\n[vault_audit] Links — ok:3276 broken:39 ambiguous:61 case:1\n[vault_audit] Done in 1.13s\n",
+    "stderr": ""
+  },
+  "snapshot_log": {
+    "rc": 0,
+    "stdout": "[snapshot] appended: - 2025-08-08T12:44:30: OK=3277, Broken=39, Ambiguous=61, Case=1\n",
+    "stderr": ""
+  }
+}

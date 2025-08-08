@@ -167,3 +167,46 @@ Generated: {{date:YYYY-MM-DD HH:mm}}
   - Removed `[[<%...%>]]` wrappers in `NPC_Brain_Template.md` and `Session_Prep_Automated.md`.
 - Dice Roller examples added to Session/NPC/Location templates.
 - Documentation updated in `Documentation/Plugin Optimization Guide.md` with Dataview limits, Dice Roller usage, Fantasy Calendar wiring to `Aethel.json`, and Initiative/Statblocks notes.
+
+---
+
+## Phase 8–9 Implementation Notes
+
+### Phase 8: Visual Content
+- Leaflet map template added: `05_Templates/Template-Leaflet-Map.md`. Use this to create interactive maps; set `bounds` to your image dimensions and add markers linked to location notes.
+- Portraits/tokens: recommend `z_Assets/Portraits/` and `z_Assets/Tokens/` folders; reference via `image_path`/`token` fields used by Bases.
+- Relationship diagrams: use Canvas for ad-hoc visualizations; link nodes to entities.
+
+### Phase 9: Automation
+- Random tables: `04_Resources/Random_Tables/Encounter_and_Loot_Generators.md` with Dice Roller syntax for quick generation.
+- QuickAdd: define macros to instantiate `Session_Template.md`, `NPC_Template.md`, `Quest_Template.md`, and `Template-Leaflet-Map.md` with prompts.
+
+---
+
+## Phase 11: Vault Optimization (post-integration)
+
+### Goals
+- Lean organization and intuitive navigation
+- Minimize load time and cognitive overhead
+- Ensure full, repeatable configuration by the agent
+
+### Pruning & Archiving
+- Identify stale/low-value content:
+  - Orphans (no inlinks), duplicates, superseded templates, outdated dashboards
+  - Large legacy sections (e.g., deprecated guides) not referenced by active systems
+- Actions (link-safe):
+  - Replace links to removed notes with stubs or safe text when needed
+  - Move long-term references to `Ω_Archive/` with an index note
+  - Remove redundant files after confirming zero inlinks
+- Validation:
+  - Re-run link audit; broken links must remain ≤ 50
+  - Update `_LINK_TRIAGE_TOP200.md` and `_LINK_INTEGRITY_REPORT.md`
+
+### Automated Configuration (agent-run)
+- One-click setup flow to ensure consistent environment:
+  - Verify required databases exist (`*.base`) and dashboard embeds resolve
+  - Check template presence and canonical fields
+  - Recommend plugin profiles (desktop/mobile) and Dataview limits
+  - Generate/refresh reports and snapshots
+- Deliverable:
+  - Scripted entrypoint under `08_Automation/Scripts/` to run audits, sanity checks, and produce a summary

@@ -64,9 +64,9 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - First exposure to transformation mechanics
 
 **Key Sessions**:
-- [[Session-01-Blood-in-the-Harbor]]
-- [[Session-02-The-Lighthouse-of-Storms]]
-- [[Session-03-Council-of-Shadows]]
+- [[Session 01 Blood in the Harbor]]
+- [[Session 02 The Lighthouse of Storms]]
+- [[Session 03 Council of Shadows]]
 
 ### Arc 2: Revelation (Sessions 4-6)
 **Theme**: Conspiracy and Awakening
@@ -76,9 +76,9 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - First contact with Aquabyssos
 
 **Key Sessions**:
-- [[Session-04-The-Silverscale-Gambit]]
-- [[Session-05-The-Queens-Madness]]
-- [[Session-06-The-Bloodline-Awakens]]
+- [[Session 04 The Silverscale Gambit]]
+- [[Session 05 The Queens Madness]]
+- [[Session 06 The Bloodline Awakens]]
 
 ### Arc 3: Convergence (Sessions 7-9)
 **Theme**: Transformation and Choice
@@ -88,9 +88,9 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - Impossible moral choices
 
 **Key Sessions**:
-- [[Session-07-The-Festival-of-Transformation]]
-- [[Session-08-Between-Two-Worlds]]
-- [[Session-09-The-Price-of-Unity]]
+- [[Session 07 The Festival of Transformation]]
+- [[Session 08 Between Two Worlds]]
+- [[Session 09 The Price of Unity]]
 
 ### Arc 4: Resolution (Session 10+)
 **Theme**: New World Order
@@ -100,7 +100,7 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - Set stage for future campaigns
 
 **Key Session**:
-- [[Session-10-The-Deep-Mother-Rises]]
+- [[Session 10 The Deep Mother Rises]]
 
 ---
 
@@ -298,7 +298,7 @@ The drowned realm exists parallel to Aethermoor:
 ## Quick Start Guide
 
 ### First Session Checklist
-1. [ ] Read [[Session-01-Blood-in-the-Harbor]]
+1. [ ] Read [[Session 01 Blood in the Harbor]]
 2. [ ] Prepare harbor district description
 3. [ ] Review NPC motivations
 4. [ ] Understand corruption mechanics

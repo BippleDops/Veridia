@@ -14,6 +14,11 @@ faction: "[[Crystal Wardens]]"
 status: Alive
 created: 2024-12-20
 image: "Ω_Assets/NPCs/lyanna_brightshield.jpg"
+# 5e Integration
+base_5e_statblock: "[[Knight]]"
+statblock_source: "MM"
+page_reference: "MM p.347"
+modifications: "Added Investigator abilities, heterochromia sight, Truth's Edge sword"
 ---
 
 # Captain Lyanna Brightshield

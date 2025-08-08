@@ -14,6 +14,11 @@ faction: "[[The Whisper Syndicate]]"
 status: Alive
 created: 2024-12-20
 image: "Ω_Assets/NPCs/vex_shadowthorn.jpg"
+# 5e Integration
+base_5e_statblock: "[[Assassin]]"
+statblock_source: "MM"
+page_reference: "MM p.343"
+modifications: "Added Warlock pact magic, tiefling traits, crystal corruption abilities"
 ---
 
 # Vex Shadowthorn

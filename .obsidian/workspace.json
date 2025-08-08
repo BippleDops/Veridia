@@ -13,11 +13,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "relationship-graph.base",
-                "viewName": "Relationship Network"
+                "file": "Modern Card Galleries.base",
+                "viewName": ""
               },
-              "icon": "lucide-table",
-              "title": "relationship-graph"
+              "icon": "lucide-layout-list",
+              "title": "Modern Card Galleries"
             }
           }
         ]
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relationship-graph.base",
+                "file": "Modern Card Galleries.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of relationship-graph"
+              "title": "Outline of Modern Card Galleries"
             }
           },
           {

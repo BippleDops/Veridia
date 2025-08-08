@@ -1,6 +1,6 @@
 ---
 tags: [session, aquabyssos, parliament-shadows, identity-horror]
-session: "Session-03-Aquabyssos"
+session: "Session 03 Aquabyssos"
 session_number: 3
 title: "The Gallery Conspiracy"
 date: 

@@ -1,6 +1,6 @@
 ---
 tags: [session, aquabyssos, parliament-shadows]
-session: "Session-01-Aquabyssos"
+session: "Session 01 Aquabyssos"
 session_number: 1
 title: "The Drowning Welcome"
 date: 

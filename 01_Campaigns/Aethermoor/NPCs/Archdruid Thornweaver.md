@@ -1,0 +1,239 @@
+---
+tags:
+  - npc
+  - druid
+  - leader
+  - nature
+type: NPC
+race: Wood Elf
+class: Druid/Archdruid
+level: 18
+alignment: True Neutral
+location: "[[The Verdant Reach]]"
+faction: "[[The Verdant Accord]]"
+status: Alive
+created: 2024-12-20
+image: "Ω_Assets/NPCs/archdruid_thornweaver.jpg"
+---
+
+# Archdruid Thornweaver
+*Voice of the Ancient Forest, Guardian of the Green*
+
+## Overview
+Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
+
+## Appearance
+- **Race**: Wood Elf, extraordinarily old even for her kind
+- **Age**: 342 years (witnessed the Crystallization)
+- **Hair**: Silver-white, woven with living vines
+- **Eyes**: Deep green, occasionally glow with nature's power
+- **Clothing**: Living armor of bark and leaves
+- **Staff**: Ancient oak branch, still growing
+- **Presence**: Animals gather peacefully around her
+
+## Personality
+- **Traits**: Patient, wise, protective, increasingly militant
+- **Views**: Nature and crystal cannot coexist
+- **Loves**: The old forest, all living things
+- **Fears**: Complete crystallization of nature
+- **Regret**: Not acting sooner against crystals
+
+## Living History
+### Before the Shattering
+- Born 158 years before Crystallization
+- Remembers the world without crystals
+- Trained under the previous Archdruid
+- Witnessed Aetheron's rule firsthand
+
+### During the Crystallization
+> [!warning] DM Only - Her Secret Memory
+> She saw one of the Seven Betrayers—the original Thornweaver, her ancestor—participate in the Crown's breaking. She hides this shame and has spent centuries trying to atone.
+
+### The Long Watch
+- Fought in the Crystal Wars
+- Established the Verdant Accord
+- Watched forests slowly succumb
+- Grew increasingly radical with age
+
+## Powers & Abilities
+
+### Druidic Mastery
+- **Wild Shape**: Any creature CR 6 or lower
+- **Nature's Command**: Control weather and terrain
+- **The Green Tongue**: Speak with all living things
+- **Life Force**: Can sacrifice life to restore nature
+
+### Ancient Magic
+- Pre-Shattering druidic traditions
+- Can create crystal-free zones
+- Purify corrupted land (temporarily)
+- Commune with world-tree consciousness
+
+### The Verdant Network
+- Sees through every tree in her forest
+- Instant communication with all druids
+- Can teleport via trees
+- Summon nature's army
+
+## The Verdant Accord
+
+### Organization
+- 500 druids of varying power
+- 2,000 rangers and scouts
+- Allied forest creatures
+- Awakened trees and plants
+
+### Territory
+- [[The Verdant Reach]] - Core domain
+- Hidden groves throughout [[Aethermoor]]
+- Underground root network
+- Sacred sites predating Shattering
+
+### Resources
+- Natural magic unreliant on crystals
+- Healing herbs and potions
+- Ancient knowledge
+- Spy network of animals
+
+## Relationships
+
+### Allies
+- [[High Inquisitor Maltheos]] - Ideological alignment, distrusts methods
+- Forest creatures and nature spirits
+- Rural communities
+- Traditional healers
+
+### Enemies
+- [[The Crystal Throne]] - Spreading corruption
+- Crystal mining operations
+- [[Master Artificer Korvin Gearwright]] - Represents everything she opposes
+- Urban expansion
+
+### Complicated
+- [[Queen Seraphina Lumengarde]] - Pities her corruption
+- [[The Crimson Sage]] - Knows more than she admits
+- [[Captain Thaddeus Blackwater]] - His expedition threatens sacred sites
+- Humans in general - Short-lived and reckless
+
+## Secret Knowledge
+> [!warning] DM Only
+> - Knows location of the Green Shard (Southern Spire)
+> - Her ancestor was one of the Seven Betrayers
+> - Has been in contact with [[The Crimson Sage]]
+> - The forest itself is becoming sentient from crystal exposure
+> - Plans to awaken the World-Tree to fight crystals
+> - Knows the true cure for corruption (requires massive life sacrifice)
+
+## Current Crisis
+
+### The Creeping Crystallization
+- Loses 100 acres of forest monthly
+- Crystal roots spreading underground
+- Animals fleeing or becoming corrupted
+- Sacred groves threatened
+
+### Desperate Measures
+- Considering violent action
+- Alliance with [[Purist Coalition]]
+- Awakening dangerous nature spirits
+- The final option: The Great Withering
+
+## The Great Withering
+> [!warning] DM Only - Ultimate Plan
+> If all else fails, she can trigger the Great Withering—killing all plant life on the continent to starve out the crystals. This would doom millions but might save the world.
+
+## Combat Approach
+- Avoids direct confrontation
+- Uses forest itself as weapon
+- Hit-and-run tactics
+- Overwhelming force of nature
+
+### Stats (Level 18 Archdruid)
+- **AC**: 16 (Natural armor)
+- **HP**: 146
+- **Speed**: 30 ft
+- **STR**: 10, **DEX**: 14, **CON**: 16, **INT**: 15, **WIS**: 22, **CHA**: 14
+- **Saving Throws**: Int +7, Wis +12
+- **Skills**: Nature +13, Survival +12, Medicine +12, Insight +12
+
+### Legendary Actions
+- **Nature's Wrath**: Entangle all enemies
+- **Healing Touch**: Restore 50 HP
+- **Wild Shape**: Transform instantly
+- **Call the Forest**: Summon 2d4 treants
+
+## Speaking Style
+*"I have watched this forest for three centuries. I will not see it die in the fourth."*
+
+*"You humans measure time in years. I measure it in trees. And too many have fallen."*
+
+*"The crystals are not evolution—they are infection. And infections must be purged."*
+
+## The Sacred Grove
+Her seat of power, containing:
+- The Heart Tree (500 years old)
+- Pool of Pure Water (uncorrupted)
+- Circle of Standing Stones (pre-Shattering)
+- Hidden entrance to root tunnels
+- The Green Shard (secret)
+
+## Quest Involvement
+
+### Quest Giver
+- [[Quest - The Dying Forest]] - Save sacred groves
+- [[Quest - Nature's Balance]] - Restore corrupted land
+- [[Quest - The Root Network]] - Explore ancient tunnels
+
+### Potential Ally
+- Against crystal expansion
+- Information about pre-Shattering world
+- Natural healing and support
+- Safe passage through forests
+
+### Possible Antagonist
+- If party supports crystal use
+- The Great Withering plot
+- Eco-terrorism scenarios
+
+## Character Development
+
+### Early Campaign
+- Distant but helpful nature guide
+- Provides healing and shelter
+- Warns against crystal dangers
+
+### Mid Campaign
+- Becomes more desperate
+- Requests increasingly dangerous tasks
+- Reveals ancient secrets
+
+### Late Campaign
+- May attempt Great Withering
+- Could be redeemed or stopped
+- Key to understanding Seven Betrayers
+
+## DM Notes
+- Living link to pre-Shattering world
+- Her memories are valuable but painful
+- Tragic figure watching world die slowly
+- Could be ultimate ally or threat
+- Her death would doom the forests
+
+## Connected NPCs
+- [[High Inquisitor Maltheos]] - Ideological ally
+- [[The Crimson Sage]] - Knows their secret
+- [[Queen Seraphina Lumengarde]] - Opposed but sympathetic
+- Forest spirits and druids
+
+## Connected Locations
+- [[The Verdant Reach]] - Domain
+- Sacred Grove - Base
+- [[The Crystalline Wastes]] - Expanding threat
+- Hidden groves across continent
+
+## Potential Rewards
+- Natural magic items
+- Healing potions and salves
+- Knowledge of secret paths
+- Awakened animal companions
+- Blessing of the Forest (+2 Wisdom)

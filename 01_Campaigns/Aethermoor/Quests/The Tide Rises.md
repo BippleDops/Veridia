@@ -1,0 +1,141 @@
+---
+tags: [quest, investigation, diplomatic, corruption, moral-choice]
+level: 7-9
+type: Investigation/Diplomacy
+status: Available
+reward: Major
+---
+
+# The Tide Rises
+
+*Missing nobles, diplomatic immunity, and a conspiracy that threatens to drown Aethermoor*
+
+## Quest Overview
+Several lesser nobles from [[Crystalhaven]] have vanished after attending "cultural exchange" events at [[The Drowned Embassy]]. [[Captain Lyanna Brightshield]] suspects foul play but cannot legally investigate due to diplomatic immunity. The party must uncover the truth while navigating international incidents and discovering a threat greater than anyone imagined.
+
+## Quest Giver
+**[[Captain Lyanna Brightshield]]** approaches the party unofficially, as official channels are blocked by diplomatic protocols.
+
+## Background
+Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clearwater - attended Embassy events over the past two months and haven't been seen since. [[Ambassador Korvin Blacktide]] claims they left safely, but their families report strange dreams of drowning and whispered words in unknown languages.
+
+## Objectives
+
+### Primary Objectives
+1. Investigate the disappearances without violating diplomatic immunity
+2. Discover the fate of the missing nobles
+3. Uncover the true purpose of [[The Drowned Embassy]]
+4. Decide whether to expose, stop, or ally with the conspiracy
+
+### Optional Objectives
+- Rescue any surviving nobles before transformation
+- Obtain evidence of [[Aquabyssos]] invasion plans
+- Turn [[Ambassador Korvin Blacktide]] into a double agent
+- Prevent the opening of the Deep Gate
+
+## Key NPCs Involved
+- **[[Ambassador Korvin Blacktide]]** - Primary antagonist, but can be negotiated with
+- **[[Captain Lyanna Brightshield]]** - Quest giver, provides intelligence and resources
+- **[[Sir Marcus Dawnforge]]** - Can provide Order authority if convinced
+- **[[Zephyr Goldwhisper]]** - Knows about the Embassy's activities, will trade information
+- **[[Vex Shadowthorn]]** - The [[Whisper Syndicate]] smuggles for the Embassy
+- **[[Queen Seraphina Lumengarde]]** - Secretly knows about the kidnappings but is being blackmailed
+
+## Investigation Paths
+
+### The Diplomatic Route
+- Attend Embassy function undercover
+- Gain Korvin's trust through mutual interests
+- Access restricted areas during events
+- Risk: Possible corruption or transformation
+
+### The Criminal Route  
+- Work with [[Vex Shadowthorn]] to access smuggling tunnels
+- Infiltrate through underwater passages from [[Port Meridian]]
+- Bribe or threaten Embassy staff
+- Risk: Starting a gang war
+
+### The Military Route
+- Convince [[Sir Marcus Dawnforge]] to use Order authority
+- Claim the Embassy harbors crystal corruption
+- Force entry with legal justification
+- Risk: International incident, war with [[Aquabyssos]]
+
+### The Economic Route
+- Use [[Zephyr Goldwhisper]]'s connections to create pressure
+- Threaten trade sanctions from [[Goldspire Port]]
+- Buy information from Embassy staff
+- Risk: Economic retaliation, Confederate involvement
+
+## Revelations & Twists
+
+### The Noble's Fate
+The nobles are alive but being transformed into Deep Heralds in the Embassy's flooded cells. They're nearly complete - in 3 days, they'll be sent back as sleeper agents.
+
+### The Blackmail Web
+[[Queen Seraphina Lumengarde]] knew about the kidnappings but is being blackmailed by Korvin, who has evidence of her corruption. She's been providing him with information about crystal defenses.
+
+### The Greater Threat
+The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines are tied to ancient pacts that seal the boundary between realms. Once transformed, their corrupted blood will break these seals.
+
+### The Goldspire Connection
+[[Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their Null Bombs to destroy the entire Embassy district if necessary, casualties included.
+
+## DM Secrets
+> [!warning] Timeline Pressure
+> - Day 1-2: Investigation phase, gathering clues
+> - Day 3: Transformation completes if not stopped
+> - Day 4: Sleeper agents activated or Deep Gate ritual begins
+> - Day 5: Either invasion begins or Goldspire implements scorched earth
+
+> [!danger] The Moral Dilemma
+> The nobles can be saved, but they've already been partially transformed. Saving them means they'll carry Aquabyssos corruption forever, potentially spreading it. Killing them prevents the invasion but murders innocents. Letting them transform might be the only way to learn Aquabyssos's true plans.
+
+> [!info] Hidden Ally
+> Tidecaller Nerissa, Korvin's attaché, is having doubts about the plan. She was once from Aethermoor and still has family in [[Port Meridian]]. She can be turned with the right approach.
+
+## Encounters
+
+### Embassy Infiltration
+- **Drowned Chorus** (12 cultists, CR 2 each)
+- **Water Weird** guardians in flooded sections
+- **Tidecaller Nerissa** (CR 8) if hostile
+- **Deep One** guards (CR 5 each)
+
+### Rescue Mission
+- **Transformed Noble** (CR 6) - partially corrupted, attacks rescuers
+- **Aboleth Servitor** (CR 10) - oversees transformation
+- **Corruption Pools** - Environmental hazard
+
+## Rewards
+
+### Success (Full)
+- 5,000 gp from grateful families
+- Political favor with [[Crystalhaven]] nobility
+- Magical item: Amulet of the Depths (breathe water, resist corruption)
+- Intelligence about [[Aquabyssos]] invasion plans
+- Alliance with turned Embassy staff
+
+### Success (Partial)
+- 2,500 gp reward
+- Information about other Aquabyssos operations
+- Warning about future threats
+- Strained diplomatic relations
+
+### Failure
+- International incident leading to restricted movement
+- Noble families become enemies
+- Aquabyssos gains foothold in Aethermoor
+- Possible war between nations
+
+## Consequences & Follow-ups
+- Saved nobles become valuable allies but require constant monitoring
+- Exposed conspiracy leads to Embassy expulsion or war declaration
+- Alliance with Korvin opens dark paths to power
+- Goldspire Confederacy increases involvement in Aethermoor
+- The [[Seven Shards]] become targets for Aquabyssos agents
+
+## Connected Quests
+- Leads to: "The Deep Gate Ritual" (stopping invasion)
+- Connects with: "Economic Warfare" (Goldspire involvement)
+- References: "The Green Death" (potential alliance against greater threat)

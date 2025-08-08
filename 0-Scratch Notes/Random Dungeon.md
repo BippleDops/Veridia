@@ -1,8 +1,11 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+- excalidraw
+type: note
+aliases: []
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

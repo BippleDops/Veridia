@@ -1,0 +1,96 @@
+# Relationship Graph Base
+# Tracks all relationships between NPCs, PCs, and factions
+
+filters:
+  or:
+    - taggedWith(file.file, "npc")
+    - taggedWith(file.file, "pc")
+    - taggedWith(file.file, "faction")
+
+formulas:
+  # Entity identification
+  entity_name: if(taggedWith(file.file, "npc"), concat(property.first_name, " ", property.last_name), file.name)
+  entity_type: if(taggedWith(file.file, "npc"), "NPC", if(taggedWith(file.file, "pc"), "PC", "Faction"))
+  
+  # Relationship metrics
+  total_relationships: length(property.relationships)
+  positive_relationships: countIf(property.relationships, Link.asFile().property.disposition > 0)
+  negative_relationships: countIf(property.relationships, Link.asFile().property.disposition < 0)
+  neutral_relationships: total_relationships - positive_relationships - negative_relationships
+  
+  # Network centrality (how connected this entity is)
+  incoming_links: length(file.backlinks)
+  outgoing_links: length(property.relationships)
+  centrality_score: incoming_links + outgoing_links
+  
+  # Faction affiliations
+  primary_faction: file(property.faction)
+  faction_name: primary_faction.name
+  faction_rank: property.faction_rank
+  
+  # Romance and family
+  romantic_partners: filter(property.relationships, Link.asFile().property.relationship_type == "romantic")
+  family_members: filter(property.relationships, Link.asFile().property.relationship_type == "family")
+  
+  # Conflict tracking
+  enemies: filter(property.relationships, Link.asFile().property.disposition < -5)
+  allies: filter(property.relationships, Link.asFile().property.disposition > 5)
+  
+  # Influence network
+  influence_score: property.influence * centrality_score
+  
+  # Last interaction
+  last_interaction: max(map(file.backlinks, Link.asFile().property.date))
+  days_since_interaction: if(last_interaction, dateDiff(last_interaction, date(today), "days"), null)
+
+display:
+  formula.entity_name: Name
+  formula.entity_type: Type
+  formula.faction_name: Faction
+  formula.total_relationships: Connections
+  formula.positive_relationships: Allies
+  formula.negative_relationships: Enemies
+  formula.centrality_score: Influence
+  formula.days_since_interaction: Last Seen
+
+views:
+  - type: table
+    name: Relationship Network
+    sort:
+      - column: formula.centrality_score
+        direction: DESC
+  
+  - type: table
+    name: Most Connected
+    filters:
+      formula.total_relationships > 3
+    sort:
+      - column: formula.total_relationships
+        direction: DESC
+  
+  - type: cards
+    name: Character Gallery
+    imageProperty: portrait
+    filters:
+      or:
+        - taggedWith(file.file, "npc")
+        - taggedWith(file.file, "pc")
+    sort:
+      - column: formula.influence_score
+        direction: DESC
+  
+  - type: table
+    name: Faction Leaders
+    filters:
+      property.faction_rank > 3
+    sort:
+      - column: property.faction_rank
+        direction: DESC
+  
+  - type: table
+    name: Conflict Map
+    filters:
+      formula.negative_relationships > 0
+    sort:
+      - column: formula.negative_relationships
+        direction: DESC

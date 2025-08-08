@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/xdmg
+aliases:
+- Weather
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Weather
+*Source: Dungeon Master's Guide (2024) p. 38* 
+
+**Weather**
+
+`dice: [](weather-xdmg.md#^weather)`
+
+| dice: 1d20 | Temperature |
+|------------|-------------|
+| 1–14 | Normal for the season |
+| 15–17 | `1d4 × 10` degrees Fahrenheit colder |
+| 18–20 | `1d4 × 10` degrees Fahrenheit hotter |
+^weather

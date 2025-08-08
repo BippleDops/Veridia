@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f8c7e6c6be7f559d",
+        "id": "2070d23f711fd0de",
         "type": "tabs",
         "children": [
           {
-            "id": "50c93b9653dc2fd0",
+            "id": "7c56788d7e981e80",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "relationship-graph.base",
+                "viewName": "Relationship Network"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "relationship-graph"
             }
           }
         ]
@@ -78,15 +78,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "DnD5e-SideScreen-2014"
+              "title": "New tab"
             }
           },
           {
@@ -94,15 +90,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-DM Toolkit/DM Board.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "DM Board"
+              "title": "New tab"
             }
           }
         ]
@@ -144,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "1-DM Toolkit/City of Trade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from City of Trade"
             }
           },
           {
@@ -173,23 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-World/Places/Shop of Stuff.md",
+                "file": "relationship-graph.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Shop of Stuff"
-            }
-          },
-          {
-            "id": "bb21e6fb9beae31a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
+              "title": "Outline of relationship-graph"
             }
           },
           {
@@ -200,6 +182,16 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "MAIN_VIEW"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -262,8 +254,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -272,8 +264,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -282,14 +274,66 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Untitled.base"
+                "file": "1-DM Toolkit/Home - DV.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "ba21682bbe574eec",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "33a8e0adef57580b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "56b99a107cf9d281",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93fbbf0ef96c2eda",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1daf628a52fe86ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad808187ac5278e",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,6 +341,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
@@ -307,64 +352,62 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-kanban:Create new board": false,
-      "helpmate:HelpMate": false,
       "solo-rpg-toolkit:Solo RPG Toolkit": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "50c93b9653dc2fd0",
+  "active": "7c56788d7e981e80",
   "lastOpenFiles": [
+    "npc-roster.base",
+    "PROMPT_FOR_NEW_WORLD.md",
+    "location-tracker.base",
+    "campaign-dashboard.base",
+    "combat-tracker.base",
+    "00_Dashboard/USER_TODO.md",
+    "00_Dashboard/Master_Campaign_Control_Center_v2.md",
+    "Ω_Archive/1-DM Toolkit/Home - DV.md",
+    "00_Dashboard/NPC Roster.base",
+    "Clippings/The Ghost in the Therapy Room.md",
+    "Clippings",
+    "00_Dashboard/DM_Dashboard.md",
+    "00_Dashboard/Dashboard.md",
+    "01_Campaigns/Campaign_Name/Player_Characters/Example Party 1.md",
+    "0-Scratch Notes/Session Log.base",
+    "3-Mechanics/CLI/skills.md",
+    "3-Mechanics/CLI",
+    "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+    "0-Scratch Notes/Spell Compendium.base",
+    "0-Scratch Notes/Template Design.md",
+    "0-Scratch Notes/Bases Test.base",
+    "0-Scratch Notes/Add Random Notes Here.md",
+    "SYSTEM_SETUP_COMPLETE.md",
+    "z_Templates/World Builder Templates/Template-Region.md",
+    "DEPLOYMENT.md",
     "README.md",
+    "SPOTIFY_INTEGRATION_COMPLETE.md",
+    "2-World/People/Councillor Elara Brightwater.md",
+    "1-DM Toolkit/Advanced Analytics Dashboard.md",
+    "1-DM Toolkit/Home - DV.md",
+    "z_Templates/World Builder Templates/Template-Group-BASES.md",
+    "3-Mechanics/Where To Get Mechanics.md",
+    "3-Mechanics/CLI/item-mastery.md",
+    "3-Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md",
+    "3-Mechanics/CLI/bestiary/beast/beast.md",
     "Untitled.base",
-    "3-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md",
-    "3-Mechanics/CLI/bestiary/beast/img/Untitled.base",
     "3-Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp",
-    "3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md",
-    "3-Mechanics/CLI/CLI.md",
     "3-Mechanics/CLI/vehicles/token/astral-skiff-mtf.webp",
     "3-Mechanics/CLI/vehicles/token/apparatus-of-kwalish-xdmg.webp",
     "3-Mechanics/CLI/vehicles/token/astral-brig-mtf.webp",
     "3-Mechanics/CLI/vehicles/token/planar-raider-mtf.webp",
     "3-Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp",
-    "3-Mechanics/CLI/vehicles/astral-skiff-mtf.md",
-    "3-Mechanics/CLI/vehicles/astral-brig-mtf.md",
-    "3-Mechanics/CLI/vehicles/planar-raider-mtf.md",
-    "3-Mechanics/CLI/vehicles/vehicles.md",
-    "3-Mechanics/CLI/vehicles/token",
-    "3-Mechanics/CLI/vehicles/img",
-    "3-Mechanics/CLI/vehicles/apparatus-of-kwalish-xdmg.md",
-    "3-Mechanics/CLI/vehicles",
     "3-Mechanics/CLI/variant-rules/img/xge-001.webp",
     "3-Mechanics/CLI/variant-rules/img/xge-003.webp",
     "3-Mechanics/CLI/variant-rules/img/xge-002.webp",
-    "3-Mechanics/CLI/variant-rules/weapon-xphb.md",
-    "3-Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md",
-    "3-Mechanics/CLI/variant-rules/wands-that-dont-recharge.md",
-    "3-Mechanics/CLI/variant-rules/weapon-attack-xphb.md",
-    "3-Mechanics/CLI/variant-rules/vulnerability-xphb.md",
-    "3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md",
-    "3-Mechanics/CLI/variant-rules/img",
-    "3-Mechanics/CLI/variant-rules",
     "3-Mechanics/CLI/traps-hazards/img/webs.webp",
-    "3-Mechanics/CLI/traps-hazards/img",
-    "3-Mechanics/CLI/traps-hazards",
-    "3-Mechanics/CLI/tables",
     "0-Scratch Notes/Untitled.canvas",
     "0-Scratch Notes/MoC - Canvas Home Page.canvas",
     "Untitled.canvas"

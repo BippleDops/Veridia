@@ -1,13 +1,10 @@
 formulas:
-  # Spell level indicator
   LevelIndicator: |
     js:
     const level = target.level;
     if (level === 0 || level === "0") return "Cantrip";
     if (level >= 1 && level <= 9) return `Level ${level}`;
     return "Unknown";
-  
-  # School icon
   SchoolIcon: |
     js:
     const school = target.school?.toLowerCase() || "";
@@ -22,8 +19,6 @@ formulas:
       'transmutation': '🔄'
     };
     return icons[school] || '❓';
-  
-  # Classes list
   ClassList: |
     js:
     const classes = target.classes || [];
@@ -31,8 +26,6 @@ formulas:
       return classes.join(", ");
     }
     return classes.toString();
-  
-  # Components display
   ComponentsDisplay: |
     js:
     const comp = [];
@@ -40,8 +33,6 @@ formulas:
     if (target.components?.s) comp.push("S");
     if (target.components?.m) comp.push("M");
     return comp.join(", ") || "None";
-  
-  # Cast time short
   CastTimeShort: |
     js:
     const time = target.castingTime || "";
@@ -51,50 +42,54 @@ formulas:
     if (time.includes("minute")) return time;
     if (time.includes("hour")) return time;
     return "Special";
-  
-  # Concentration indicator
   ConcentrationIcon: |
     js:
     return target.concentration ? "🎯" : "";
-  
-  # Ritual indicator
   RitualIcon: |
     js:
     return target.ritual ? "📜" : "";
-
 views:
   - type: table
     name: By Level
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/spells")
-        - level.equals({{level}})
+        - inFolder("3-Mechanics/CLI/spells")
     order:
-      - file.name
       - formula.SchoolIcon
       - formula.ClassList
       - formula.CastTimeShort
       - formula.ComponentsDisplay
       - formula.ConcentrationIcon
       - formula.RitualIcon
+      - file.name
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     pageSize: 50
     parameters:
       level:
         type: select
         options:
-          - { label: "Cantrips", value: 0 }
-          - { label: "1st Level", value: 1 }
-          - { label: "2nd Level", value: 2 }
-          - { label: "3rd Level", value: 3 }
-          - { label: "4th Level", value: 4 }
-          - { label: "5th Level", value: 5 }
-          - { label: "6th Level", value: 6 }
-          - { label: "7th Level", value: 7 }
-          - { label: "8th Level", value: 8 }
-          - { label: "9th Level", value: 9 }
+          - label: Cantrips
+            value: 0
+          - label: 1st Level
+            value: 1
+          - label: 2nd Level
+            value: 2
+          - label: 3rd Level
+            value: 3
+          - label: 4th Level
+            value: 4
+          - label: 5th Level
+            value: 5
+          - label: 6th Level
+            value: 6
+          - label: 7th Level
+            value: 7
+          - label: 8th Level
+            value: 8
+          - label: 9th Level
+            value: 9
     columnSize:
       file.name: 200
       formula.SchoolIcon: 50
@@ -103,7 +98,6 @@ views:
       formula.ComponentsDisplay: 80
       formula.ConcentrationIcon: 40
       formula.RitualIcon: 40
-      
   - type: table
     name: By Class
     filters:
@@ -118,9 +112,9 @@ views:
       - formula.ConcentrationIcon
       - formula.RitualIcon
     sort:
-      - column: level
+      - property: level
         direction: ASC
-      - column: file.name
+      - property: file.name
         direction: ASC
     pageSize: 50
     parameters:
@@ -136,7 +130,6 @@ views:
           - Sorcerer
           - Warlock
           - Wizard
-          
   - type: table
     name: Ritual Spells
     filters:
@@ -150,11 +143,10 @@ views:
       - formula.ClassList
       - formula.CastTimeShort
     sort:
-      - column: level
+      - property: level
         direction: ASC
-      - column: file.name
+      - property: file.name
         direction: ASC
-        
   - type: table
     name: Concentration Spells
     filters:
@@ -168,12 +160,11 @@ views:
       - formula.ClassList
       - duration
     sort:
-      - column: level
+      - property: level
         direction: ASC
-      - column: file.name
+      - property: file.name
         direction: ASC
     pageSize: 50
-    
   - type: search
     name: Spell Search
     filters:
@@ -188,4 +179,4 @@ views:
       - formula.LevelIndicator
       - formula.SchoolIcon
       - formula.ClassList
-      - formula.ComponentsDisplay 
+      - formula.ComponentsDisplay

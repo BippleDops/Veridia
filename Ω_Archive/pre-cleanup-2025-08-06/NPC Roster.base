@@ -1,0 +1,20 @@
+{
+  "type": "table",
+  "filters": [
+    "file.type == 'character'"
+  ],
+  "columns": {
+    "name": {
+      "field": "file.name"
+    },
+    "race": {
+      "field": "race"
+    },
+    "class": {
+      "field": "class"
+    },
+    "status": {
+      "field": "status"
+    }
+  }
+}

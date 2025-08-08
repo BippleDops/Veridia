@@ -1,0 +1,23 @@
+---
+type: character
+tags: [npc]
+aliases: [Willem Tidecaller]
+created: 2025-07-23 13:05
+modified: 2025-07-23 13:05
+---
+# Harbormaster Willem Tidecaller
+
+## General Info
+**Race**: Human
+**Gender**: Male
+**Age**: 55
+**Occupation**: Harbormaster of Shadowhaven
+**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+
+## Description
+Willem Tidecaller is a portly man with a friendly demeanor, but he is also a bit of a coward and is easily intimidated. He is responsible for the day-to-day operations of the harbor and is very protective of his position.
+
+## GM Notes
+- He is a good source of information about the goings-on in the harbor, but he will not willingly divulge any information that could get him into trouble.
+- He is being blackmailed by [[01_Campaigns/Campaign_Name/NPCs/Whisper Jack.md]] and the Thieves Guild.
+- He is secretly in love with [[01_Campaigns/Campaign_Name/NPCs/Marina Saltwhisper.md]].

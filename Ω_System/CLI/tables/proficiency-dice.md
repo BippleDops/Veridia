@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/dmg
+aliases:
+- Proficiency Dice
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Proficiency Dice
+*Source: Dungeon Master's Guide p. 263* 
+
+**Proficiency Dice**
+
+| Level | Proficiency Bonus | Proficiency Die |
+|-------|-------------------|-----------------|
+| 1st-4th | +2 | `d4` |
+| 5th-8th | +3 | `d6` |
+| 9th-12th | +4 | `d8` |
+| 13th-16th | +5 | `d10` |
+| 17th-20th | +6 | `d12` |
+^proficiency-dice

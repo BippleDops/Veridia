@@ -1,0 +1,24 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/xge
+aliases:
+- Other Details; Birth Order
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Other Details; Birth Order
+*Source: Xanathar's Guide to Everything p. 62* 
+
+**Birth Order**
+
+`dice: [](other-details-birth-order-xge.md#^birth-order)`
+
+| dice: 2d6 | Birth Order |
+|-----------|-------------|
+| 2 | Twin, triplet, or quadruplet |
+| 3-7 | Older |
+| 8-12 | Younger |
+^birth-order

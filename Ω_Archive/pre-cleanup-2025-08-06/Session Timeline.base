@@ -1,0 +1,23 @@
+{
+  "type": "table",
+  "filters": [
+    "file.type == 'session'"
+  ],
+  "columns": {
+    "session_number": {
+      "field": "session_number"
+    },
+    "name": {
+      "field": "file.name"
+    },
+    "date_played": {
+      "field": "date_played"
+    }
+  },
+  "sort": [
+    {
+      "field": "session_number",
+      "order": "asc"
+    }
+  ]
+}

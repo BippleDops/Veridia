@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-reward
+tags:
+- ttrpg-cli/compendium/src/5e/cos
+- ttrpg-cli/reward/charm
+aliases:
+- Dark Gift of Drizlash, the Nine-Eyed Spider
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Dark Gift of Drizlash, the Nine-Eyed Spider
+*Charm*  
+
+Drizlash's gift is the power to walk on walls and ceilings. This dark gift allows its beneficiary to climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+The beneficiary of this dark gift grows an extra eye somewhere on its body. The eye is blind and ever open.
+
+*Source: Curse of Strahd p. 192*

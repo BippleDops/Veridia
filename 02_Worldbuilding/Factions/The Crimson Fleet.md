@@ -1,0 +1,50 @@
+---
+type: faction
+tags: [faction, pirate]
+aliases: [The Crimson Scourge]
+created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+name: The Crimson Fleet
+leader: "[[Captain Kaelen]]"
+location_home: "[[The Serpent's Spire]]"
+relationships:
+  allies: []
+  enemies: ["[[../../01_Campaigns/Campaign_Name/Locations/Port Verran]]"]
+---
+
+# The Crimson Fleet
+
+> [!infobox]
+> | | |
+> | --- | --- |
+> | **Leader** | [[Captain Kaelen]] |
+> | **Base** | [[The Serpent's Spire]] |
+> | **Enemies** | [[01_Campaigns/Campaign_Name/Locations/Port Verran.md|Port Verran]] |
+
+---
+
+## 🏴‍☠️ Description
+
+The Crimson Fleet is a notorious pirate crew that preys on the shipping lanes of the Cerulean Archipelago. They are known for their ruthlessness and their distinctive crimson sails. The fleet is a loose confederation of captains, united under the command of the enigmatic Captain Kaelen.
+
+---
+
+## 🎯 Goals
+
+The Crimson Fleet seeks to control the trade routes of the Cerulean Archipelago and enrich themselves through plunder and extortion. They are also rumored to be searching for a powerful artifact from the old world, which they believe will give them an unbeatable advantage.
+
+---
+
+## 👥 Notable Members
+
+- [[01_Campaigns/Campaign_Name/NPCs/Captain Kaelen.md|Captain Kaelen]]: The mysterious and feared leader of the Crimson Fleet.
+- **"One-Eyed" Jack**: A grizzled and battle-hardened first mate.
+- **Elara the Storm-Singer**: A powerful sea witch who can control the weather.
+
+---
+
+## 🎲 Plot Hooks
+
+- The Crimson Fleet has captured a valuable merchant ship and is holding the crew for ransom.
+- The party is hired to infiltrate the Crimson Fleet and learn the identity of their leader.
+- The Crimson Fleet is planning a major attack on Port Verran, and the party must find a way to stop them.

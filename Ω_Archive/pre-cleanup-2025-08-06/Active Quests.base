@@ -1,0 +1,18 @@
+{
+  "type": "table",
+  "filters": [
+    "file.type == 'quest'",
+    "file.status == 'active'"
+  ],
+  "columns": {
+    "name": {
+      "field": "file.name"
+    },
+    "status": {
+      "field": "status"
+    },
+    "quest_giver": {
+      "field": "quest_giver"
+    }
+  }
+}

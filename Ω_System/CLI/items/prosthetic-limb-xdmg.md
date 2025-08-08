@@ -1,0 +1,20 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/xdmg
+- ttrpg-cli/item/rarity/common
+aliases:
+- Prosthetic Limb
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Prosthetic Limb
+*Wondrous item, common*  
+
+
+
+This magic item replaces a lost limb—a hand, an arm, a foot, a leg, or a similar body part. While the prosthetic is attached, it functions identically to the part it replaces. You can detach or reattach it as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, and it can't be removed against your will while you are alive.
+
+*Source: Dungeon Master's Guide (2024) p. 290*

@@ -35,7 +35,7 @@ views:
       - formula.This Note Path
       - formula.This File File
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 147

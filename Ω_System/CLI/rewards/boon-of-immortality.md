@@ -1,0 +1,17 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-reward
+tags:
+- ttrpg-cli/compendium/src/5e/dmg
+- ttrpg-cli/reward/boon
+aliases:
+- Boon of Immortality
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Boon of Immortality
+
+You stop aging. You are immune to any effect that would age you, and you can't die from old age.
+
+*Source: Dungeon Master's Guide p. 232*

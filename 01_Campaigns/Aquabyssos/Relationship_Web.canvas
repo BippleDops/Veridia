@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"party-node","type":"group","x":-200,"y":-200,"width":400,"height":300,"label":"Party","color":"3"},
+		{"id":"pc1","type":"text","text":"PC 1\n- Shadow Independence: 20%\n- Faction Rep: Parliament +7","x":-180,"y":-180,"width":180,"height":120,"color":"3"},
+		{"id":"pc2","type":"text","text":"PC 2\n- Shadow Independence: 35%\n- Faction Rep: Shadows -3","x":0,"y":-180,"width":180,"height":120,"color":"3"},
+		{"id":"pc3","type":"text","text":"PC 3\n- Shadow Independence: 15%\n- Faction Rep: Neutral","x":-180,"y":-40,"width":180,"height":120,"color":"3"},
+		{"id":"pc4","type":"text","text":"PC 4\n- Shadow Independence: 50%\n- Faction Rep: Surgeons +2","x":0,"y":-40,"width":180,"height":120,"color":"3"},
+		
+		{"id":"parliament-group","type":"group","x":-700,"y":-400,"width":400,"height":500,"label":"Parliament of Echoes","color":"4"},
+		{"id":"glaucus","type":"file","file":"01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md","x":-680,"y":-350,"width":160,"height":100},
+		{"id":"scattered-emperor","type":"file","file":"01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md","x":-500,"y":-350,"width":160,"height":100},
+		{"id":"meredith","type":"file","file":"01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md","x":-680,"y":-220,"width":160,"height":100},
+		
+		{"id":"shadow-group","type":"group","x":300,"y":-400,"width":400,"height":500,"label":"Shadow Liberation Front","color":"1"},
+		{"id":"shadow-duchess","type":"file","file":"01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md","x":320,"y":-350,"width":160,"height":100},
+		{"id":"shadow-text","type":"text","text":"Shadow Operatives\n- Growing independence\n- Infiltrating Parliament\n- Memory weapon interest","x":500,"y":-350,"width":180,"height":120,"color":"1"},
+		
+		{"id":"surgeons-group","type":"group","x":-700,"y":200,"width":400,"height":300,"label":"Silhouette Surgeons","color":"5"},
+		{"id":"surgeon-prime","type":"file","file":"01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime.md","x":-680,"y":250,"width":160,"height":100},
+		{"id":"surgeon-text","type":"text","text":"Experimental Subjects\n- Shadow hybrids\n- Memory extraction\n- Depth mutations","x":-500,"y":250,"width":180,"height":120,"color":"5"},
+		
+		{"id":"prophets-group","type":"group","x":300,"y":200,"width":400,"height":300,"label":"Resonance Prophets","color":"6"},
+		{"id":"resonance-prophet","type":"file","file":"01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet.md","x":320,"y":250,"width":160,"height":100},
+		{"id":"prophet-text","type":"text","text":"Prophecies\n- Deep Mother awakening\n- Timeline convergence\n- Seven Shards purpose","x":500,"y":250,"width":180,"height":120,"color":"6"},
+		
+		{"id":"legend-node","type":"text","text":"RELATIONSHIP LEGEND\n\n🟢 Green = Allied (+5 to +10)\n🔵 Blue = Friendly (+1 to +4)\n⚪ White = Neutral (0)\n🟡 Yellow = Tense (-1 to -4)\n🔴 Red = Hostile (-5 to -10)\n\nLine Styles:\n━━ Solid = Direct relationship\n┅┅ Dashed = Indirect/rumored\n══ Double = Blood/family\n〰️ Wavy = Magical/shadow","x":-200,"y":600,"width":400,"height":200,"color":"2"}
+	],
+	"edges":[
+		{"id":"party-to-glaucus","fromNode":"party-node","fromSide":"left","toNode":"glaucus","toSide":"right","color":"4","label":"Allied +7"},
+		{"id":"party-to-duchess","fromNode":"party-node","fromSide":"right","toNode":"shadow-duchess","toSide":"left","color":"1","label":"Hostile -3"},
+		{"id":"glaucus-to-emperor","fromNode":"glaucus","fromSide":"right","toNode":"scattered-emperor","toSide":"left","color":"5","label":"Suspicious"},
+		{"id":"glaucus-to-meredith","fromNode":"glaucus","fromSide":"bottom","toNode":"meredith","toSide":"top","color":"4","label":"Faction allies"},
+		{"id":"duchess-to-surgeons","fromNode":"shadow-duchess","fromSide":"bottom","toNode":"surgeon-prime","toSide":"top","color":"5","label":"Secret deal","style":"dashed"},
+		{"id":"prophet-to-party","fromNode":"resonance-prophet","fromSide":"left","toNode":"party-node","toSide":"right","color":"2","label":"Cryptic warnings","style":"dashed"},
+		{"id":"pc2-to-shadows","fromNode":"pc2","fromSide":"right","toNode":"shadow-text","toSide":"left","color":"5","label":"Shadow-touched","style":"wavy"},
+		{"id":"pc4-to-surgeons","fromNode":"pc4","fromSide":"bottom","toNode":"surgeon-text","toSide":"top","color":"4","label":"Research interest","style":"dashed"},
+		{"id":"emperor-to-duchess","fromNode":"scattered-emperor","fromSide":"right","toNode":"shadow-duchess","toSide":"left","color":"1","label":"Ancient rivalry","style":"double"},
+		{"id":"meredith-to-prophet","fromNode":"meredith","fromSide":"right","toNode":"resonance-prophet","toSide":"left","color":"2","label":"Seeks guidance","style":"dashed"}
+	]
+}

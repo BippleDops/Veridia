@@ -1,0 +1,63 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+type: note
+tags: []
+aliases: []
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Index of Rewards
+
+- [Arcane Study Charm](./arcane-study-charm-xdmg.md)
+- [Blessing of Health](./blessing-of-health-xdmg.md)
+- [Blessing of Magic Resistance](./blessing-of-magic-resistance-xdmg.md)
+- [Blessing of Protection](./blessing-of-protection-xdmg.md)
+- [Blessing of Understanding](./blessing-of-understanding-xdmg.md)
+- [Blessing of Valhalla](./blessing-of-valhalla-xdmg.md)
+- [Blessing of Weapon Enhancement](./blessing-of-weapon-enhancement-xdmg.md)
+- [Blessing of Wound Closure](./blessing-of-wound-closure-xdmg.md)
+- [Boon of High Magic](./boon-of-high-magic.md)
+- [Boon of Immortality](./boon-of-immortality.md)
+- [Boon of Invincibility](./boon-of-invincibility.md)
+- [Boon of Luck](./boon-of-luck.md)
+- [Boon of Magic Resistance](./boon-of-magic-resistance.md)
+- [Boon of Peerless Aim](./boon-of-peerless-aim.md)
+- [Boon of Perfect Health](./boon-of-perfect-health.md)
+- [Boon of Planar Travel](./boon-of-planar-travel.md)
+- [Boon of Quick Casting](./boon-of-quick-casting.md)
+- [Boon of Resilience](./boon-of-resilience.md)
+- [Boon of Spell Mastery](./boon-of-spell-mastery.md)
+- [Boon of the Fire Soul](./boon-of-the-fire-soul.md)
+- [Boon of the Stormborn](./boon-of-the-stormborn.md)
+- [Boon of the Unfettered](./boon-of-the-unfettered.md)
+- [Boon of Undetectability](./boon-of-undetectability.md)
+- [Charm of Animal Conjuring](./charm-of-animal-conjuring-xdmg.md)
+- [Charm of Darkvision](./charm-of-darkvision-xdmg.md)
+- [Charm of Feather Falling](./charm-of-feather-falling-xdmg.md)
+- [Charm of Heroism](./charm-of-heroism-xdmg.md)
+- [Charm of Restoration](./charm-of-restoration-xdmg.md)
+- [Charm of the Slayer](./charm-of-the-slayer-xdmg.md)
+- [Charm of Vitality](./charm-of-vitality-xdmg.md)
+- [Dark Gift of Dahlver-Nar, He of the Many Teeth](./dark-gift-of-dahlver-nar-he-of-the-many-teeth-cos.md)
+- [Dark Gift of Delban, the Star of Ice and Hate](./dark-gift-of-delban-the-star-of-ice-and-hate-cos.md)
+- [Dark Gift of Drizlash, the Nine-Eyed Spider](./dark-gift-of-drizlash-the-nine-eyed-spider-cos.md)
+- [Dark Gift of Fekre, Queen of Poxes](./dark-gift-of-fekre-queen-of-poxes-cos.md)
+- [Dark Gift of Great Taar Haak, the Five-Headed Destroyer](./dark-gift-of-great-taar-haak-the-five-headed-destroyer-cos.md)
+- [Dark Gift of Khirad, the Star of Secrets](./dark-gift-of-khirad-the-star-of-secrets-cos.md)
+- [Dark Gift of Norganas, the Finger of Oblivion](./dark-gift-of-norganas-the-finger-of-oblivion-cos.md)
+- [Dark Gift of Savnok the Inscrutable](./dark-gift-of-savnok-the-inscrutable-cos.md)
+- [Dark Gift of Seriach, the Hell Hound Whisperer](./dark-gift-of-seriach-the-hell-hound-whisperer-cos.md)
+- [Dark Gift of Shami-Amourae, the Lady of Delights](./dark-gift-of-shami-amourae-the-lady-of-delights-cos.md)
+- [Dark Gift of Sykane, the Soul Hungerer](./dark-gift-of-sykane-the-soul-hungerer-cos.md)
+- [Dark Gift of Tarakamedes, the Grave Wyrm](./dark-gift-of-tarakamedes-the-grave-wyrm-cos.md)
+- [Dark Gift of Vaund the Evasive](./dark-gift-of-vaund-the-evasive-cos.md)
+- [Dark Gift of Yog the Invincible](./dark-gift-of-yog-the-invincible-cos.md)
+- [Dark Gift of Yrrga, the Eye of Shadows](./dark-gift-of-yrrga-the-eye-of-shadows-cos.md)
+- [Dark Gift of Zantras, the Kingmaker](./dark-gift-of-zantras-the-kingmaker-cos.md)
+- [Dark Gift of Zrin-Hala, the Howling Storm](./dark-gift-of-zrin-hala-the-howling-storm-cos.md)
+- [Observatory Charm](./observatory-charm-xdmg.md)
+- [Reliquary Charm](./reliquary-charm-xdmg.md)
+- [Sanctuary Charm](./sanctuary-charm-xdmg.md)
+- [Sanctum Charm](./sanctum-charm-xdmg.md)
+- [The Blessed of Corellon](./the-blessed-of-corellon-mtf.md)

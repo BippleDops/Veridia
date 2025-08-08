@@ -1,0 +1,18 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-feat
+tags:
+- ttrpg-cli/compendium/src/5e/xge
+- ttrpg-cli/optional-feature/ei
+aliases:
+- Shroud of Shadow
+type: note
+created: 2025-07-23 12:39
+modified: 2025-07-23 12:39
+---
+# Shroud of Shadow
+*Source: Xanathar's Guide to Everything p. 57*  
+
+**Prerequisite**: Level 15
+
+You can cast [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) at will, without expending a spell slot.

@@ -17,8 +17,8 @@ investigation_type: "Conspiracy"
 
 ### Initial Report
 **Date**: Session 3
-**Reported By**: [[Senator Glaucus]]
-**Location**: [[Parliament of Echoes]]
+**Reported By**: [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]
+**Location**: [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 
 ### Case Summary
 Shadows throughout Abyssos Prime are gaining unprecedented independence, with some members of Parliament suspected of secretly supporting or even orchestrating this liberation movement. Evidence suggests a deeper conspiracy involving memory weapons and timeline manipulation.
@@ -40,10 +40,10 @@ Shadows throughout Abyssos Prime are gaining unprecedented independence, with so
 
 | ID | Clue | Location | Discovered | Relevance |
 |----|------|----------|------------|-----------|
-| C001 | Senator's shadow acted independently during session | [[Parliament of Echoes]] | Session 1 | High |
-| C002 | Encrypted shadow market invitation found | [[The Inverse Palace]] | Session 3 | High |
+| C001 | Senator's shadow acted independently during session | [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]] | Session 1 | High |
+| C002 | Encrypted shadow market invitation found | [[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]] | Session 3 | High |
 | C003 | Shadow Duchess Nyx arriving with "diplomatic immunity" | Intel Report | Session 4 | Critical |
-| C004 | Silhouette Surgeons creating shadow-human hybrids | [[Screaming Gardens]] | Session 6 | High |
+| C004 | Silhouette Surgeons creating shadow-human hybrids | [[01_Campaigns/Aquabyssos/Locations/Screaming Gardens]] | Session 6 | High |
 | C005 | Memory weapons can grant shadow independence | [[Memory Trader]] testimony | Session 7 | Critical |
 
 ### Undiscovered Clues (DM Only)
@@ -71,7 +71,7 @@ graph TD
 
 ### Primary Suspects
 
-#### [[Shadow Duchess Nyx]]
+#### [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
 - **Motive**: Liberation of all shadows from human control
 - **Opportunity**: Diplomatic access to Parliament
 - **Alibi**: Claims to be negotiating peacefully
@@ -84,7 +84,7 @@ graph TD
   - Publicly advocates for legal recognition
 - **Current Status**: Under Surveillance
 
-#### [[Archon Meredith Saltweaver]]
+#### [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]]
 - **Motive**: Unknown - possibly power consolidation
 - **Opportunity**: High-ranking Parliament member
 - **Alibi**: Always in public sessions during incidents
@@ -96,7 +96,7 @@ graph TD
   - Voted against shadow rights previously
 - **Current Status**: Not Yet Questioned
 
-#### [[The Scattered Emperor]]
+#### [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
 - **Motive**: Revenge for ancient betrayal
 - **Opportunity**: Fragments everywhere in Parliament
 - **Alibi**: "Scattered" nature makes tracking impossible
@@ -108,15 +108,15 @@ graph TD
 - **Current Status**: Cannot Be Properly Questioned
 
 ### Persons of Interest
-- [[The Silhouette Surgeon Prime]] - Providing shadow enhancement tech
-- [[Marina Red Tide Coralheart]] - Witnessed first dissolution
+- [[01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime]] - Providing shadow enhancement tech
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Witnessed first dissolution
 - [[Memory Trader Kellian]] - Selling independence memories
 
 ## 📍 Key Locations
 
 ### Crime Scenes
 
-**Primary**: [[Parliament of Echoes]]
+**Primary**: [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 - **First Visited**: Session 1
 - **Evidence Found**: 
   - [x] Shadow residue with unusual properties
@@ -124,7 +124,7 @@ graph TD
   - [ ] Hidden shadow gathering chamber
 - **Anomalies Noted**: Shadows move against light sources
 
-**Secondary**: [[The Inverse Palace]]
+**Secondary**: [[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]]
 - **First Visited**: Session 3
 - **Evidence Found**:
   - [x] Shadow market invitation

@@ -6,9 +6,9 @@ date_played:
 location: [[Crystallium]]
 depth: "6,000-8,000 ft"
 npcs_featured:
-  - [[The Resonance Prophet]]
-  - [[Marina "Red Tide" Coralheart]]
-  - [[Shadow Duchess Nyx]]
+  - [[01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet]]
+  - [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
+  - [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
   - [[The Conductor]]
 status: "planned"
 party_level: 7
@@ -29,7 +29,7 @@ quests_advanced:
 > *"In Crystallium, thoughts become crystal, lies shatter like glass, and the truth resonates until it breaks you."*
 
 ## 🎬 Strong Start
-The party arrives at [[Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[The Resonance Prophet|Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
+The party arrives at [[Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet|Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
 
 ## 🎭 Scenes
 
@@ -151,10 +151,10 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 
 ## 🔍 Secrets & Clues
 1. The Singers Beyond have consumed twelve realities already
-2. [[Shadow Duchess Nyx]] knew about Singers all along
-3. The [[Scattered Emperor]] fragmented to avoid Singer detection
+2. [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] knew about Singers all along
+3. The [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] fragmented to avoid Singer detection
 4. Every shadow is a survival instinct made manifest
-5. The Crystal Festival in [[Aethermoor]] was Singer reconnaissance
+5. The Crystal Festival in [[01_Campaigns/Aethermoor/Locations/Aethermoor]] was Singer reconnaissance
 6. Children born post-Cataclysm can't be seen by Singers
 7. The [[Deep Mother]] is the last Singer trapped in this reality
 8. Harmonization is irreversible after 24 hours
@@ -182,7 +182,7 @@ As the party makes their choice about the resonance, reality cracks. Through the
 
 The Prophet gasps: "It sees us. The camouflage has failed. We have minutes, not hours." 
 
-Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
+Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
 
 The ocean above begins to boil as something massive descends through dimensions toward them. Marina (whichever version) steps forward: "I know what I have to do. I'm sorry I didn't tell you sooner. I'm not from here. I'm from the last reality the Singers consumed. I came to warn you, but I fell in love with this world. With all of you."
 
@@ -198,7 +198,7 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[Mou
 - Set up for the final arc
 
 ## 📅 Next Session Prep
-- [[Session 08 - The Fractal Conspiracy]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy]]
 - Design Singer Beyond manifestations
 - Prepare Mourning Depths approach
 - Create the Grief Bomb mechanics

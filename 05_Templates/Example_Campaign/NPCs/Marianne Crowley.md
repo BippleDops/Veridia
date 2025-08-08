@@ -12,7 +12,7 @@ modified: 2025-07-23 13:20
 **Gender**: Female
 **Age**: 35
 **Occupation**: Tavern Keeper
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Salty Anchor Tavern.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Salty Anchor Tavern]]
 
 ## Description
 Marianne Crowley is a tough, no-nonsense woman who has seen it all. She is the owner of The Salty Anchor Tavern and is fiercely protective of her customers and her business.

@@ -38,4 +38,4 @@ If you rested at least 1 hour before the interruption you gain the benefits of a
 
 You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

@@ -118,10 +118,10 @@ The massive clock in the Core is counting down to something. Different factions 
 
 ### The Surface Infiltration
 Increasing numbers of agents being sent to Aethermoor:
-- Establishing cells in [[Port Meridian]]
+- Establishing cells in [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
 - Corrupting water supplies with transformation magic
 - Recruiting desperate surface dwellers
-- Searching for the [[Seven Shards]]
+- Searching for the [[01_Campaigns/Aethermoor/Lore/The Seven Shards]]
 
 ### Memory Black Market
 Illegal trade in stolen or forbidden memories:
@@ -194,11 +194,11 @@ Some citizens are transforming beyond even Hadean levels:
 - **The Daily Death**: Symbolic drowning at dawn to honor the Empress
 
 ## Connections to Aethermoor
-- [[The Drowned Embassy]] recruits agents here
-- [[Ambassador Korvin Blacktide]] returns monthly for instructions
-- Smuggling routes to [[Port Meridian]] originate here
-- Several [[Crystalhaven]] nobles have hidden relatives here
-- The [[Seven Shards]] are being actively sought by multiple factions
+- [[01_Campaigns/Aethermoor/Locations/The Drowned Embassy]] recruits agents here
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide]] returns monthly for instructions
+- Smuggling routes to [[01_Campaigns/Aethermoor/Locations/Port Meridian]] originate here
+- Several [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] nobles have hidden relatives here
+- The [[01_Campaigns/Aethermoor/Lore/The Seven Shards]] are being actively sought by multiple factions
 
 ## Resources & Trade
 

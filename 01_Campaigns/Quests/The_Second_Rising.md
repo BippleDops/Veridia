@@ -7,23 +7,23 @@ quest_start: 2025-08-10
 deadline: 2025-09-10
 completion_date: 
 reward: "10000gp + Blessing of the Depths + Surface/Depth Citizenship"
-location: "[[Aquathys_Overview]]"
+location: "[[02_Worldbuilding/Aquathys/Aquathys_Overview]]"
 quest_image: "Ω_Assets/quests/second-rising.png"
 related_npcs:
   - "[[High Tidecaller Nerissa]]"
   - "[[Prophet Miralyn Surfacer]]"
   - "[[Commander Varek Irontrident]]"
-  - "[[The Crimson Pearl]]"
+  - "[[01_Campaigns/NPCs/The_Crimson_Pearl]]"
   - "[[Aboleth Prime Yoth'zagoth]]"
-  - "[[Gareth Ironforge]]"
+  - "[[01_Campaigns/NPCs/Gareth_Ironforge]]"
 related_locations:
-  - "[[Pearl Harbor City]]"
+  - "[[01_Campaigns/Locations/Pearl_Harbor_City]]"
   - "[[Maelstrom Palace]]"
   - "[[The Maw of Darkness]]"
-  - "[[Market District]]"
+  - "[[01_Campaigns/Locations/Market_District]]"
   - "[[Crystalline Depths]]"
 prerequisite_quests:
-  - "[[Find the Missing Caravan]]"
+  - "[[01_Campaigns/Quests/Find_the_Missing_Caravan]]"
   - "[[Diplomatic Tides]]"
 assigned_party_members: []
 objectives:
@@ -67,10 +67,10 @@ The Oracle bloodline has spoken again after centuries of silence. The prophecy s
 ## Part 1: The Prophecy Investigation
 
 ### The Pearl and Iron
-[[Gareth Ironforge]] and [[Master Smith Coral-Hammer]] have been working on a project that unexpectedly fulfills this line. Their pressure-forged weapons are creating a resonance that's awakening something ancient.
+[[01_Campaigns/NPCs/Gareth_Ironforge]] and [[Master Smith Coral-Hammer]] have been working on a project that unexpectedly fulfills this line. Their pressure-forged weapons are creating a resonance that's awakening something ancient.
 
 ### The Crimson Taint
-[[The Crimson Pearl]]'s vampire nature is spreading - she's accidentally created three new sea-vampire spawn who are contaminating the deepest trenches with undead energy.
+[[01_Campaigns/NPCs/The_Crimson_Pearl]]'s vampire nature is spreading - she's accidentally created three new sea-vampire spawn who are contaminating the deepest trenches with undead energy.
 
 ### The Questioning and Crying
 - [[Commander Varek Irontrident]] has discovered evidence the original threat was fabricated
@@ -91,8 +91,8 @@ The Oracle bloodline has spoken again after centuries of silence. The prophecy s
 - Shows the Aboleths caused the original threat
 
 ### Third Verse Location
-**[[Market District]] - Secret Vault**
-- [[Gareth Ironforge]]'s ancestor hid it
+**[[01_Campaigns/Locations/Market_District]] - Secret Vault**
+- [[01_Campaigns/NPCs/Gareth_Ironforge]]'s ancestor hid it
 - Links surface and depth permanently
 - Contains the transformation ritual
 
@@ -104,7 +104,7 @@ The artifact that sank Aquathys was broken into five pieces:
 
 1. **The Core** - [[High Tidecaller Nerissa]] wears it
 2. **The Pulse** - Hidden in [[The Maw of Darkness]]
-3. **The Flow** - [[The Crimson Pearl]]'s pearl collection
+3. **The Flow** - [[01_Campaigns/NPCs/The_Crimson_Pearl]]'s pearl collection
 4. **The Pressure** - [[Commander Varek Irontrident]]'s trident
 5. **The Memory** - Inside [[Prophet Miralyn Surfacer]]
 
@@ -124,7 +124,7 @@ Each faction leader must be dealt with:
 
 ### Manipulation Path
 - Pit factions against each other
-- Use [[The Crimson Pearl]]'s network
+- Use [[01_Campaigns/NPCs/The_Crimson_Pearl]]'s network
 - Morally questionable but effective
 
 ## Part 5: The Truth
@@ -149,7 +149,7 @@ Each faction leader must be dealt with:
 - Massive casualties from pressure change
 - War with surface nations likely
 - Aboleths lose all power
-- [[Pearl Harbor City]] becomes capital
+- [[01_Campaigns/Locations/Pearl_Harbor_City]] becomes capital
 
 ### Option 2: Sink Deeper
 **Consequences:**
@@ -163,7 +163,7 @@ Each faction leader must be dealt with:
 **Consequences:**
 - Aquathys exists in both realms
 - Citizens can shift between forms
-- Permanent link to [[Market District]]
+- Permanent link to [[01_Campaigns/Locations/Market_District]]
 - New hybrid civilization
 - Party becomes legends
 
@@ -220,14 +220,14 @@ Each faction leader must be dealt with:
 
 ### Major Players
 - All faction leaders
-- [[Gareth Ironforge]] - Surface connection
+- [[01_Campaigns/NPCs/Gareth_Ironforge]] - Surface connection
 - [[Elena Starweaver]] - Magical expertise
 - [[Mayor Thompson]] - Diplomatic channel
 
 ### Support Cast
 - [[Captain Marlowe Tidecrest]] - Transportation
 - [[Dr. Siphon Gillwater]] - Pressure adaptation
-- [[Whisper Jack]] - Information network
+- [[05_Templates/Example_Campaign/NPCs/Whisper Jack]] - Information network
 - [[Master Smith Coral-Hammer]] - Heart restoration
 
 ## Locations Visited

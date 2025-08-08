@@ -7,8 +7,8 @@ location: [[The Mourning Depths]]
 depth: "8,000+ ft (Abyssal Zone)"
 npcs_featured:
   - [[The Sorrowmaster]]
-  - [[Shadow Duchess Nyx]]
-  - [[The Scattered Emperor]]
+  - [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
+  - [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
   - [[All Marina Versions]]
 status: "planned"
 party_level: 8
@@ -54,8 +54,8 @@ The party descends into [[The Mourning Depths]] to find it transformed—instead
 **Situation**: Withdraw stored sorrow before joy consumes it  
 **Conflict**: Other factions racing for same resources  
 **Discoveries**:
-- [[Shadow Duchess Nyx]] has been hoarding grief
-- The [[Scattered Emperor]] arrives, fully unified
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] has been hoarding grief
+- The [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] arrives, fully unified
 - Ancient grief from pre-Cataclysm still exists
 - Someone's been stealing sorrow for years
 
@@ -182,9 +182,9 @@ The Grief Bomb is complete—a crystallized sphere of pure, concentrated sorrow 
 
 But as the ritual completes, the Singer Beyond SPEAKS through reality itself: "I... remember... feeling. You tiny things... you still feel. I consumed twelve realities seeking what you have. Give me your sorrow. Give me your joy. Give me... meaning."
 
-The [[Scattered Emperor]], unified for the first time in centuries, steps forward: "We were never fighting it. We were trying to teach it. The Cataclysm, the shadows, the harvest—all of it was to show a god how to grieve."
+The [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]], unified for the first time in centuries, steps forward: "We were never fighting it. We were trying to teach it. The Cataclysm, the shadows, the harvest—all of it was to show a god how to grieve."
 
-[[Shadow Duchess Nyx]] and her original self merge: "The bomb won't kill it. It will make it mortal. It will make it capable of death. And then..."
+[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] and her original self merge: "The bomb won't kill it. It will make it mortal. It will make it capable of death. And then..."
 
 Marina—all versions speaking in unison—completes the thought: "And then we decide if a god deserves mercy."
 
@@ -202,7 +202,7 @@ The ocean above turns transparent, revealing the impossible anatomy of the Singe
 - Someone MUST sacrifice something permanent
 
 ## 📅 Next Session Prep
-- [[Session 10 - The Shadow Finale]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale]]
 - Prepare multiple ending scenarios
 - Design Singer consciousness encounter
 - Plan epilogue based on choices

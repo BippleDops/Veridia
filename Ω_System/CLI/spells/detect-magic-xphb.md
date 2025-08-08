@@ -66,4 +66,4 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 *Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

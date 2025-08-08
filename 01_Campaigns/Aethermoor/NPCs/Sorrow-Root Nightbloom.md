@@ -4,7 +4,7 @@ alignment: Neutral Evil
 race: Elf
 class: Druid/Blood Hunter
 level: 11
-location: [[The Verdant Reach]]
+location: [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 faction: The Withered Court (Splinter Group)
 status: Active
 ---
@@ -30,23 +30,23 @@ Once a member of [[The Verdant Accord]], Sorrow-Root Nightbloom now leads the Wi
 - Maintains an unsettling calm even when committing atrocities
 
 ## Relationships
-- **[[Archdruid Thornweaver]]**: Former mentor, now bitter enemy - Thornweaver considers them an abomination
-- **[[High Inquisitor Maltheos]]**: Unlikely temporary alliances when their anti-crystal goals align
-- **[[Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
-- **[[Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
-- **[[Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
+- **[[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]**: Former mentor, now bitter enemy - Thornweaver considers them an abomination
+- **[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]**: Unlikely temporary alliances when their anti-crystal goals align
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]**: Has sent assassin vines after her multiple times
+- **[[01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide]]**: Fascinated by their corruption experiments, secretly funds their research
+- **[[01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper]]**: Their terrorist attacks affect trade routes, making them bad for business
 
 ## Current Activities
 - Creating hybrid crystal-plant organisms as weapons
 - Poisoning water supplies near crystal mining operations
-- Building an army of corrupted treants in the deep [[Verdant Reach]]
+- Building an army of corrupted treants in the deep [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 - Seeking the [[Verdant Shard]] to corrupt it into a weapon of mass devastation
 
 ## The Withered Court
 A growing faction of druids, rangers, and fey who believe that:
 - Civilization must fall for nature to survive
 - Crystal corruption can be turned against itself
-- The [[Seven Shards]] should be destroyed or corrupted beyond use
+- The [[01_Campaigns/Aethermoor/Lore/The Seven Shards]] should be destroyed or corrupted beyond use
 - Anyone who uses crystals deserves death
 
 ## DM Secrets

@@ -20,7 +20,7 @@ created: 2025-08-07
 
 ## 📖 Campaign Overview
 
-The party arrives in [[Abyssos Prime]] as diplomatic envoys, only to discover a conspiracy where shadows are systematically replacing senators across all seven continents. As they investigate, they uncover that this "Dark Harvest" isn't just conquest—it's a revolution of shadows seeking independence from those who cast them.
+The party arrives in [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]] as diplomatic envoys, only to discover a conspiracy where shadows are systematically replacing senators across all seven continents. As they investigate, they uncover that this "Dark Harvest" isn't just conquest—it's a revolution of shadows seeking independence from those who cast them.
 
 ### Core Premise
 Shadows have gained consciousness and want freedom. But freedom for shadows means death or replacement for originals. The party must navigate this political powder keg while their own shadows begin showing independence.
@@ -51,18 +51,18 @@ Shadows have gained consciousness and want freedom. But freedom for shadows mean
 ## 📅 Act Structure
 
 ### Act 1: Diplomatic Drowning (Sessions 1-4)
-**Location Focus**: [[Abyssos Prime]], [[Parliament of Echoes]]
+**Location Focus**: [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]], [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 
 #### Key Events
 - Arrival and adaptation to Aquabyssos
 - Discovery of shadow independence
 - Murder investigation at Parliament
-- First contact with [[Shadow Duchess Nyx]]
+- First contact with [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
 
 #### Major NPCs
-- [[Senator Glaucus]] / His Shadow
-- [[The Scattered Emperor]]
-- [[Marina "Red Tide" Coralheart]]
+- [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]] / His Shadow
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
 - [[The Forgotten Representative]]
 
 #### Themes
@@ -81,9 +81,9 @@ Shadows have gained consciousness and want freedom. But freedom for shadows mean
 - Resonance manipulation revealed
 
 #### Major NPCs
-- [[Shadow Duchess Nyx]]
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
 - Shadow Surgeons
-- [[The Resonance Prophet]]
+- [[01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet]]
 - Silhouette Brokers
 
 #### Themes
@@ -116,19 +116,19 @@ Shadows have gained consciousness and want freedom. But freedom for shadows mean
 ## 👥 Major NPCs
 
 ### Allies (Potentially)
-- **[[Marina "Red Tide" Coralheart]]**: Adapted guide with hidden agenda
-- **[[Shadow Duchess Nyx]]**: Fear-based ruler opposing harvest
+- **[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]**: Adapted guide with hidden agenda
+- **[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]**: Fear-based ruler opposing harvest
 - **[[The Forgotten Representative]]**: Knows erased solutions
 - **[[The Sorrowmaster]]**: Opposes harvest (ends suffering)
 
 ### Antagonists
 - **[[Senator Glaucus's Shadow]]**: Shadow revolution leader
-- **[[The Resonance Prophet]]**: True conspiracy mastermind
+- **[[01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet]]**: True conspiracy mastermind
 - **Shadow Parliament**: Parallel government
 - **Corrupted Senators**: Already replaced
 
 ### Neutral/Complex
-- **[[The Scattered Emperor]]**: Fragmented, paranoid, but knowledgeable
+- **[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]**: Fragmented, paranoid, but knowledgeable
 - **[[Time-Lost Delegate Chronus]]**: Knows multiple timeline outcomes
 - **Shadow Surgeons**: Amoral, pursuing craft
 - **Party's Own Shadows**: Growing independence
@@ -136,8 +136,8 @@ Shadows have gained consciousness and want freedom. But freedom for shadows mean
 ## 🗺️ Key Locations
 
 ### Political Centers
-- **[[Parliament of Echoes]]**: Temporal government building
-- **[[The Inverse Palace]]**: Emperor's scattered seat
+- **[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]**: Temporal government building
+- **[[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]]**: Emperor's scattered seat
 - **[[Vote Vaults]]**: Physical manifestation of laws
 
 ### Shadow Territories
@@ -167,7 +167,7 @@ Track each PC's shadow development:
 - **Reality Stability**: Merger consequences
 
 ### Adaptation System
-Use [[Depth Adaptation System]] with additions:
+Use [[01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System]] with additions:
 - Shadow interaction accelerates adaptation
 - Political power affects transformation
 - Memory trades alter identity
@@ -315,7 +315,7 @@ Use [[Depth Adaptation System]] with additions:
 ### To Aethermoor
 - Post-Crystal Festival merger option
 - Shadow plague parallel
-- Shared NPC: [[Marina "Red Tide" Coralheart]]
+- Shared NPC: [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
 - Portal: Lighthouse Network
 
 ### To Other Aquabyssos Campaigns

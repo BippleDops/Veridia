@@ -12,7 +12,7 @@ modified: 2025-07-23 13:55
 **Gender**: Unknown
 **Age**: Unknown
 **Occupation**: Representative of the Thieves Guild
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 The Benefactor is a mysterious figure who represents the interests of the Thieves Guild in Shadowhaven. They are always cloaked and hooded, and their voice is disguised with magic.

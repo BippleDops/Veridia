@@ -2,11 +2,11 @@
 session_number: 8
 title: "Between Two Worlds"
 date_played: 
-location: "[[The Threshold]] - Between [[Aquabyssos]] and [[Aethermoor]]"
+location: "[[The Threshold]] - Between [[Aquabyssos]] and [[01_Campaigns/Aethermoor/Locations/Aethermoor]]"
 npcs_featured: 
   - "[[The Drowned God]] (True Form)"
-  - "[[The Crimson Sage]]"
-  - "[[Queen Seraphina Lumengarde]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
   - "[[Ancient Aquabyssos Rulers]]"
 quests_advanced:
   - "[[Rewrite the World Order]]"
@@ -23,7 +23,7 @@ tags: [session, aethermoor, aquabyssos, reality-merge, dual-worlds]
 
 ## 🎬 Strong Start
 
-Reality fractures. The party exists simultaneously in [[Port Meridian]] and [[Aquabyssos]]. They see the same location in two timelines - the current festival disaster and the ancient catastrophe that created the Drowned God. They must navigate both realities, as actions in one affect the other. The bloodline carrier begins fragmenting across dimensions.
+Reality fractures. The party exists simultaneously in [[01_Campaigns/Aethermoor/Locations/Port Meridian]] and [[Aquabyssos]]. They see the same location in two timelines - the current festival disaster and the ancient catastrophe that created the Drowned God. They must navigate both realities, as actions in one affect the other. The bloodline carrier begins fragmenting across dimensions.
 
 ## 📍 Scenes
 
@@ -57,7 +57,7 @@ Reality fractures. The party exists simultaneously in [[Port Meridian]] and [[Aq
 2. Aquabyssos's magic could solve Aethermoor's problems
 3. The entity feeds on isolation between worlds
 4. Ancient Aquabyssos had peaceful surface relations
-5. [[The Crimson Sage]] is burning her life force as fuel
+5. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] is burning her life force as fuel
 6. The Queen's love for her people can break the possession
 7. Time is circular in this space - endings create beginnings
 8. The Festival was always meant to be a bridge ceremony
@@ -121,11 +121,11 @@ Reality fractures. The party exists simultaneously in [[Port Meridian]] and [[Aq
 
 ## 🎭 Cliffhanger Ending
 
-The party succeeds in beginning the rewriting process. Reality stabilizes into a new configuration - [[Aquabyssos]] rises but as floating districts above [[Port Meridian]], connected by crystalline bridges. Water flows upward in certain areas. The two civilizations can see each other, learn from each other. But the bloodline carrier stands at the center, their body becoming the living seal between worlds. They have one choice: remain as an eternal guardian, conscious but transformed, or pass the burden to another. The Queen, free from possession, approaches with tears: "There is another way. The crown can hold the seal, but someone must wear it forever, ruling both worlds but belonging to neither." The entity's voice echoes one last time: "Choose quickly. The window closes at dawn."
+The party succeeds in beginning the rewriting process. Reality stabilizes into a new configuration - [[Aquabyssos]] rises but as floating districts above [[01_Campaigns/Aethermoor/Locations/Port Meridian]], connected by crystalline bridges. Water flows upward in certain areas. The two civilizations can see each other, learn from each other. But the bloodline carrier stands at the center, their body becoming the living seal between worlds. They have one choice: remain as an eternal guardian, conscious but transformed, or pass the burden to another. The Queen, free from possession, approaches with tears: "There is another way. The crown can hold the seal, but someone must wear it forever, ruling both worlds but belonging to neither." The entity's voice echoes one last time: "Choose quickly. The window closes at dawn."
 
 ## 🔗 Connected Notes
-- [[Aquabyssos World Overview]]
-- [[The Seven Shards]]
+- [[01_Campaigns/Aethermoor/Lore/Aquabyssos World Overview]]
+- [[01_Campaigns/Aethermoor/Lore/The Seven Shards]]
 - [[Reality Merge Zones]]
 - [[The Drowned God]]
 - [[Dual World Mechanics]]

@@ -6,7 +6,7 @@ race: "Human (Depth-adapted)"
 gender: "Male"
 age: 67
 faction: "Parliament of Echoes"
-location: "[[Parliament of Echoes]]"
+location: "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]"
 first_appearance: "Session 1"
 status: "alive"
 danger_level: 3
@@ -21,8 +21,8 @@ importance: "major"
 ### Quick Reference
 - **Name**: Senator Glaucus
 - **Role**: Senior Senator, Shadow Containment Committee Chair
-- **Faction**: [[Parliament of Echoes]]
-- **Location**: [[Parliament of Echoes]]
+- **Faction**: [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
+- **Location**: [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 - **Status**: Alive (Shadow-compromised)
 - **Threat**: 3/10
 
@@ -70,15 +70,15 @@ An elderly statesman whose body shows decades of depth adaptation - slightly tra
 
 | Name | Relationship | Trust Level |
 |------|--------------|-------------|
-| [[Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
-| [[Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
+| [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
+| [[01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
 | [[The Party]] | Useful investigators | 🟢🟢🟢⚪⚪ |
 
 ### 🔴 Enemies & Rivals
-- **Primary Rival**: [[Shadow Duchess Nyx]]
+- **Primary Rival**: [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
   - **Conflict**: She represents everything he fears about shadow independence
 - **Secondary Enemies**: 
-  - [[The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
+  - [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
 
 ### 🟡 Neutral/Complex
 - **Complicated**: [[His Own Shadow]]
@@ -251,18 +251,18 @@ Current Reputation: **Respected but Declining**
 ## 🔗 Connections
 
 ### Related NPCs
-- [[Archon Meredith Saltweaver]] - Political ally (actually traitor)
-- [[Shadow Duchess Nyx]] - Primary opposition
-- [[The Scattered Emperor]] - Hidden threat
+- [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] - Political ally (actually traitor)
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] - Primary opposition
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] - Hidden threat
 - [[Senator Marius]] - Dissolved predecessor (cautionary tale)
 
 ### Associated Locations
-- Primary: [[Parliament of Echoes]]
+- Primary: [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 - Secondary: [[Senator's Private Chambers]]
 - Hidden: [[Shadow Binding Sanctum]]
 
 ### Connected Quests
-- Main: [[The Shadow Parliament Conspiracy]]
+- Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy]]
 - Side: [[Find the Shadow Cure]]
 - Personal: [[The Senator's Last Stand]]
 

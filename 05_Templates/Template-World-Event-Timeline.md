@@ -50,7 +50,7 @@ timeline
 **Date:** -3000 to -2000
 **Event:** Mer-folk establish underwater cities
 **Locations:** 
-- [[The Sunken City of Aeridor]]
+- [[05_Templates/Example_Campaign/Locations/The Sunken City of Aeridor]]
 - Coral Palace of the Depths
 **Current Status:** Mostly ruins, some inhabited
 
@@ -120,7 +120,7 @@ timeline
 
 ### The Cataclysm
 **Date:** Year 300, 3rd Moon, 15th Day
-**Event:** [[The Sundering]] - Magical catastrophe
+**Event:** [[02_Worldbuilding/Lore/The Sundering]] - Magical catastrophe
 **Cause:** [Disputed - magical experiment? Divine wrath? Planar invasion?]
 **Immediate Effects:**
 - Three islands sink completely
@@ -211,7 +211,7 @@ timeline
 ### Rise of the Crimson Fleet
 **Date:** 995-Present
 **Event:** New pirate confederation forms
-**Leader:** [[Captain Kaelen]] (from 1019)
+**Leader:** [[05_Templates/Example_Campaign/NPCs/Captain Kaelen]] (from 1019)
 **Threat Level:** Increasing
 **Current Status:** Active threat
 

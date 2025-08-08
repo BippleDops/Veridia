@@ -9,7 +9,7 @@ race: Human
 class: Ranger/Explorer
 level: 9
 alignment: Neutral Good
-location: Missing (Last: [[The Crystalline Wastes]])
+location: Missing (Last: [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]])
 faction: Independent
 status: Missing
 created: 2024-12-20
@@ -20,7 +20,7 @@ image: "Ω_Assets/NPCs/thaddeus_blackwater.jpg"
 *The Lost Explorer, Seeker of Truth*
 
 ## Overview
-Captain Thaddeus Blackwater was [[Aethermoor]]'s most famous explorer before his expedition vanished in [[The Crystalline Wastes]] two months ago. Secretly funded by [[Queen Seraphina Lumengarde]] to find the Seventh Shard, he discovered something that changed everything—but his final message was cut short.
+Captain Thaddeus Blackwater was [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s most famous explorer before his expedition vanished in [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] two months ago. Secretly funded by [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] to find the Seventh Shard, he discovered something that changed everything—but his final message was cut short.
 
 ## Appearance
 - **Age**: 45
@@ -56,13 +56,13 @@ Captain Thaddeus Blackwater was [[Aethermoor]]'s most famous explorer before his
 ### The Mission
 > [!warning] DM Only
 > Queen Seraphina secretly hired him to find the Seventh Shard, providing:
-> - Map from [[The Crimson Sage]]
+> - Map from [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]
 > - Crystal-resistant equipment
 > - 50,000 gold pieces funding
 > - Royal writs of passage
 
 ### The Route
-1. Started from [[Crystalhaven]]
+1. Started from [[01_Campaigns/Aethermoor/Locations/Crystalhaven]]
 2. Resupplied at Wanderer's Refuge
 3. Entered deep wastes
 4. Last camp found at Mirror Lakes
@@ -103,16 +103,16 @@ Captain Thaddeus Blackwater was [[Aethermoor]]'s most famous explorer before his
 ### Hidden Cache
 > [!warning] DM Only
 > Left supply caches with information:
-> - Location 1: Warning about [[The Crimson Sage]]
+> - Location 1: Warning about [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]
 > - Location 2: Partial cure for corruption
 > - Location 3: Map to the Seventh Shard's pattern
 
 ## Relationships
 
 ### Professional
-- [[Queen Seraphina Lumengarde]] - Secret patron
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Secret patron
 - [[Admiral Cassandra Stormwind]] - Former commander
-- [[The Crimson Sage]] - Information source
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Information source
 - [[Elder Matthias Stoneward]] - Wasteland contact
 
 ### Personal
@@ -185,20 +185,20 @@ Finding him is a major quest involving:
 - Key to understanding Shards
 
 ## Connected NPCs
-- [[Queen Seraphina Lumengarde]] - Patron
-- [[The Crimson Sage]] - Manipulator
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Patron
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Manipulator
 - [[Admiral Cassandra Stormwind]] - Friend
 - [[Elder Matthias Stoneward]] - Contact
 
 ## Connected Locations
-- [[The Crystalline Wastes]] - Lost here
-- [[The Shattered Sanctum]] - Sought it
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Lost here
+- [[01_Campaigns/Aethermoor/Locations/The Shattered Sanctum]] - Sought it
 - Corruption's Heart - Final destination
-- [[Crystalhaven]] - Started here
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Started here
 
 ## Related Quests
 - [[Quest - The Lost Expedition]] - Find him
-- [[Quest - The Seventh Shard]] - His mission
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - His mission
 - [[Quest - Into the Wastes]] - Follow route
 
 ## If He Returns

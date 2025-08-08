@@ -6,7 +6,7 @@ location: "[[The Abyss Beneath Aquabyssos]]"
 npcs_featured: 
   - "[[The Deep Mother]]"
   - "[[United Councils of Both Worlds]]"
-  - "[[The Crimson Sage]] (Echo)"
+  - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] (Echo)"
   - "[[Eastern Kingdom Fleet]]"
 quests_advanced:
   - "[[Face the Ancient Threat]]"
@@ -61,7 +61,7 @@ The merged city shudders as massive tentacles of pure void rise from the depths.
 6. Union of surface and depth magic can create life
 7. The Deep Mother's tears created the first oceans
 8. Void and reality can coexist if balanced
-9. [[The Crimson Sage]] became part of the world's magic
+9. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] became part of the world's magic
 10. This cycle has repeated across ages
 
 ## 👥 NPCs
@@ -136,7 +136,7 @@ If the party makes a compact with the Deep Mother, she withdraws but takes [[Aqu
 - Mythic boons from the Deep Mother
 - Access to Aquabyssos magic/technology
 - Eastern Kingdom trade rights
-- [[The Crimson Sage]]'s complete magical library
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]'s complete magical library
 - Choice of transformation or preservation
 - Epilogue scenes based on choices
 
@@ -151,7 +151,7 @@ If the party makes a compact with the Deep Mother, she withdraws but takes [[Aqu
 ## 🔗 Connected Notes
 - [[The Deep Mother]]
 - [[Eastern Kingdoms]]
-- [[New World Order]]
+- New World Order
 - [[Merged Reality Mechanics]]
 - [[Campaign Epilogues]]
 

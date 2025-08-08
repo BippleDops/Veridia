@@ -39,29 +39,29 @@ image: file (path to image)
 token: file (path to token)
 
 # Location & Faction
-current_location: link → [[Location]]
-home_location: link → [[Location]]
-faction: link → [[Faction]]
+current_location: link → Location
+home_location: link → Location
+faction: link → [[Ω_System/CLI/actions]]
 faction_rank: text
 faction_reputation: number (-10 to 10)
 
 # Relationships
-allies: list of links → [[NPCs]]
-enemies: list of links → [[NPCs]]
-family: list of links → [[NPCs]]
-romantic_interests: list of links → [[NPCs]]
-connected_npcs: list of links → [[NPCs]]
+allies: list of links → NPCs
+enemies: list of links → NPCs
+family: list of links → NPCs
+romantic_interests: list of links → NPCs
+connected_npcs: list of links → NPCs
 
 # Quest Connections
-quests_given: list of links → [[Quests]]
-quests_involved: list of links → [[Quests]]
+quests_given: list of links → Quests
+quests_involved: list of links → Quests
 quest_completion_requirements: text
 
 # Campaign Tracking
-sessions_appeared: list of links → [[Sessions]]
-first_appearance: link → [[Session]]
+sessions_appeared: list of links → Sessions
+first_appearance: link → Session
 last_seen: date
-last_seen_location: link → [[Location]]
+last_seen_location: link → Location
 
 # Roleplaying
 motivation: text
@@ -144,11 +144,11 @@ accessibility: select [Open/Restricted/Hidden/Destroyed/Transformed]
 discovery_status: select [Known/Rumored/Hidden/Lost]
 
 # Geography
-parent_location: link → [[Location]]
-child_locations: list of links → [[Locations]]
-connected_locations: list of links → [[Locations]]
-region: link → [[Region]]
-continent: link → [[Continent]]
+parent_location: link → Location
+child_locations: list of links → Locations
+connected_locations: list of links → Locations
+region: link → Region
+continent: link → Continent
 
 # Dimensions
 realm: select [Aethermoor/Aquabyssos/Convergence/Other]
@@ -160,8 +160,8 @@ size: select [Tiny/Small/Medium/Large/Huge/Gargantuan]
 population: number
 population_type: text
 government: select [Democracy/Monarchy/Oligarchy/Anarchy/Theocracy/Other]
-ruler: link → [[NPC]]
-notable_npcs: list of links → [[NPCs]]
+ruler: link → NPC
+notable_npcs: list of links → NPCs
 
 # 5e Integration
 similar_5e_location: text (comparable published setting)
@@ -176,8 +176,8 @@ required_equipment: list
 survival_dc: number
 
 # Factions & Politics
-controlling_faction: link → [[Faction]]
-faction_presence: list of links → [[Factions]]
+controlling_faction: link → [[Ω_System/CLI/actions]]
+faction_presence: list of links → [[Ω_System/CLI/actions]]
 faction_influence: object {faction: influence_level}
 political_tension: number (1-10)
 
@@ -186,12 +186,12 @@ wealth_level: select [Impoverished/Poor/Modest/Prosperous/Wealthy/Opulent]
 primary_exports: list
 primary_imports: list
 available_services: checklist
-shops: list of links → [[Shops]]
-taverns: list of links → [[Establishments]]
+shops: list of links → Shops
+taverns: list of links → Establishments
 
 # Quests & Events
-active_quests: list of links → [[Quests]]
-completed_quests: list of links → [[Quests]]
+active_quests: list of links → Quests
+completed_quests: list of links → Quests
 historical_events: list
 scheduled_events: list with dates
 
@@ -205,7 +205,7 @@ secrets: text
 travel_time_days: object {location: days}
 travel_methods: list
 transportation_available: checklist
-portal_connections: list of links → [[Locations]]
+portal_connections: list of links → Locations
 
 # Status Tracking
 last_visited: date
@@ -225,7 +225,7 @@ created: date
 modified: date
 dm_notes: text
 player_known: boolean
-discovery_session: link → [[Session]]
+discovery_session: link → Session
 ```
 
 ### Calculated Fields
@@ -265,14 +265,14 @@ travel_modifier: travel_pace == "Slow" ? 0.5 : (travel_pace == "Fast" ? 1.5 : 1)
 ```yaml
 # Combat Identity
 combat_id: text (auto-generated)
-session: link → [[Session]]
-location: link → [[Location]]
+session: link → Session
+location: link → Location
 encounter_name: text
 
 # Participants
 combatants: list of objects {
   name: text
-  npc_link: link → [[NPC]]
+  npc_link: link → NPC
   initiative: number
   hp_current: number
   hp_max: number
@@ -307,9 +307,9 @@ special_rules: text
 
 # Outcomes
 victory_type: select [Victory/Defeat/Retreat/Negotiated/Other]
-casualties: list of links → [[NPCs]]
-captured: list of links → [[NPCs]]
-escaped: list of links → [[NPCs]]
+casualties: list of links → NPCs
+captured: list of links → NPCs
+escaped: list of links → NPCs
 
 # Rewards
 experience_awarded: number
@@ -354,11 +354,11 @@ deadline: date
 time_limit_days: number
 
 # Connections
-quest_giver: link → [[NPC]]
-involved_npcs: list of links → [[NPCs]]
-locations: list of links → [[Locations]]
-related_quests: list of links → [[Quests]]
-prerequisites: list of links → [[Quests]]
+quest_giver: link → NPC
+involved_npcs: list of links → NPCs
+locations: list of links → Locations
+related_quests: list of links → Quests
+prerequisites: list of links → Quests
 
 # 5e Integration
 suggested_level: text (e.g., "5-7")
@@ -395,9 +395,9 @@ failure_consequences: text
 can_retry: boolean
 
 # Sessions
-sessions_active: list of links → [[Sessions]]
-started_session: link → [[Session]]
-completed_session: link → [[Session]]
+sessions_active: list of links → Sessions
+started_session: link → Session
+completed_session: link → Session
 
 # Metadata
 created: date
@@ -428,7 +428,7 @@ campaign: select [Aethermoor/Aquabyssos/Other]
 
 # Players
 players_present: list
-characters_present: list of links → [[PCs]]
+characters_present: list of links → PCs
 absent_players: list
 guest_players: list
 
@@ -440,20 +440,20 @@ long_rests: number
 short_rests: number
 
 # Locations
-starting_location: link → [[Location]]
-locations_visited: list of links → [[Locations]]
-ending_location: link → [[Location]]
+starting_location: link → Location
+locations_visited: list of links → Locations
+ending_location: link → Location
 
 # NPCs
-npcs_met: list of links → [[NPCs]]
-npcs_fought: list of links → [[NPCs]]
+npcs_met: list of links → NPCs
+npcs_fought: list of links → NPCs
 npc_attitudes_changed: object {npc: change}
 
 # Quests
-quests_received: list of links → [[Quests]]
-quests_advanced: list of links → [[Quests]]
-quests_completed: list of links → [[Quests]]
-quests_failed: list of links → [[Quests]]
+quests_received: list of links → Quests
+quests_advanced: list of links → Quests
+quests_completed: list of links → Quests
+quests_failed: list of links → Quests
 
 # Combat
 combats: list of links → [[Combat Tracker]]
@@ -520,11 +520,11 @@ session_transcript: link
 # Entity Information
 entity_name: text
 entity_type: select [NPC/PC/Faction/Location/Item]
-entity_link: link → [[Entity]]
+entity_link: link → Entity
 
 # Relationships
 relationships: list of objects {
-  target: link → [[Entity]]
+  target: link → Entity
   relationship_type: select [Ally/Enemy/Neutral/Family/Romantic/Rival/Servant/Master]
   strength: number (1-10)
   public_known: boolean
@@ -538,15 +538,15 @@ influence_radius: number
 connection_count: number
 
 # Faction Affiliations
-primary_faction: link → [[Faction]]
+primary_faction: link → [[Ω_System/CLI/actions]]
 faction_loyalty: number (1-10)
-secret_affiliations: list of links → [[Factions]]
+secret_affiliations: list of links → [[Ω_System/CLI/actions]]
 
 # Special Connections
-bloodline_connections: list of links → [[NPCs]]
-magical_bonds: list of links → [[Entities]]
-cursed_connections: list of links → [[Entities]]
-prophetic_connections: list of links → [[Entities]]
+bloodline_connections: list of links → NPCs
+magical_bonds: list of links → Entities
+cursed_connections: list of links → Entities
+prophetic_connections: list of links → Entities
 
 # Metadata
 last_updated: date

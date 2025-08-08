@@ -27,4 +27,4 @@ Deadly damage poses a significant threat to characters of the levels shown and c
 
 *Source: Dungeon Master's Guide (2024) p. 30*
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

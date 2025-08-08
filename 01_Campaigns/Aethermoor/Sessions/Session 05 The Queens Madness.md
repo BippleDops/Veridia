@@ -13,10 +13,10 @@ locations_visited:
   - "[[Throne Room]]"
   - "[[Royal Vault]]"
 npcs_met:
-  - "[[Queen Seraphina Lumengarde]]"
-  - "[[Captain Lyanna Brightshield]]"
-  - "[[High Inquisitor Maltheos]]"
-  - "[[The Crimson Sage]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]"
   - "[[Princess Celestia]] (revealed)"
 encounters:
   - "[[Crystal Guard Elite]]"

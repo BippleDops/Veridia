@@ -64,11 +64,11 @@ Once a surface world oracle who foresaw the Great Drowning, Scylla chose to drow
 
 ## Relationships
 - **Thal'mexis:** His most devoted priestess, hears his dreams
-- **[[Ambassador Nerida Deepcurrent]]:** Considers her a naive child
+- **[[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]:** Considers her a naive child
 - **That-Which-Swims-Between:** Uneasy alliance of convenience
 - **Morpheus Tidecaller:** Eternal ideological enemy
-- **[[The Crimson Sage]]:** Knows his true identity, prophesied his fall
-- **[[Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]:** Knows his true identity, prophesied his fall
+- **[[01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper]]:** Exchanges prophecies across realms
 
 ## Current Activities
 - Orchestrating ritual to wake Thal'mexis
@@ -91,7 +91,7 @@ Her seat of power:
 > - Knows the exact moment and method of her own ending
 > - Has already drowned several timeline versions of the party
 > - The crown she wears contains fragment of original Crown of Stars
-> - Secretly mother to [[Ambassador Nerida Deepcurrent]]
+> - Secretly mother to [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]
 > - Has been gradually drowning the moon's reflection
 > - Can kill someone by drowning their future self
 > - Maintains secret correspondence with surface doomsday cults

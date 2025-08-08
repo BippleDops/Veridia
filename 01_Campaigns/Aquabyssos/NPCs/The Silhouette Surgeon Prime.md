@@ -154,10 +154,10 @@ When "killed," transforms into pure shadow:
 - *"Surgery is just negotiation between what is and what could be."*
 
 ## 🔗 Relationships
-- **[[Shadow Duchess Nyx]]**: Professional respect, occasional patient
-- **[[The Scattered Emperor]]**: Finds their fragmentation "inelegant"
-- **[[Marina "Red Tide" Coralheart]]**: Performed her shadow procedures
-- **[[The Resonance Prophet]]**: Collaborates on consciousness research
+- **[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]**: Professional respect, occasional patient
+- **[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]**: Finds their fragmentation "inelegant"
+- **[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]**: Performed her shadow procedures
+- **[[01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet]]**: Collaborates on consciousness research
 
 ## 🏠 Lair: The Surgical Sanctum
 

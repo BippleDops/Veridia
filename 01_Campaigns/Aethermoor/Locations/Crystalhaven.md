@@ -4,7 +4,7 @@ tags:
   - city
   - capital
 type: City
-region: "[[Lumengarde]]"
+region: "[[01_Campaigns/Aquabyssos/Locations/Lumengarde]]"
 population: 450,000
 danger_level: Low-Moderate
 created: 2024-12-20
@@ -15,19 +15,19 @@ image: "Ω_Assets/Locations/crystalhaven.jpg"
 *The Crystal Throne, Heart of Aethermoor*
 
 ## Overview
-Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest Aether Crystal formation on the continent, the city serves as the seat of power for [[Queen Seraphina Lumengarde]] and the center of crystal innovation.
+Crystalhaven stands as the shining jewel of [[01_Campaigns/Aethermoor/Locations/Aethermoor]], a city where crystal spires reach toward the heavens and aether-powered technology lights every street. Built around the largest Aether Crystal formation on the continent, the city serves as the seat of power for [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] and the center of crystal innovation.
 
 ## Districts
 
 ### The Radiant Quarter
-- **The Crystal Palace** - Home to [[Queen Seraphina Lumengarde]]
+- **The Crystal Palace** - Home to [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
 - **The Hall of Resonance** - Parliament building
-- **Embassy Row** - Foreign dignitaries and [[Prince Caspian Duskwater]]'s former residence
+- **Embassy Row** - Foreign dignitaries and [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]'s former residence
 
 ### The Forge District
 - **[[The Crystalline Foundry]]** - Largest crystal refinement facility
 - **[[Artificer's Row]]** - Magical item creation
-- **The Aether Works** - Run by [[Master Artificer Korvin Gearwright]]
+- **The Aether Works** - Run by [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]
 
 ### The Scholar's Sanctum
 - **The Grand Archive** - Overseen by [[Keeper Elara Moonwhisper]]
@@ -40,14 +40,14 @@ Crystalhaven stands as the shining jewel of [[Aethermoor]], a city where crystal
 - **The Singing Crystal Tavern** - Information hub, owned by [[Jasper "Three-Eyes" Flint]]
 
 ### The Shadow Warren
-- **The Undercity** - Controlled by [[The Whisper Syndicate]]
+- **The Undercity** - Controlled by [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]
 - **Black Shard Market** - Illegal crystal trade
-- **The Corroded Crown** - Tavern frequented by [[Vex Shadowthorn]]'s agents
+- **The Corroded Crown** - Tavern frequented by [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]'s agents
 
 ## Notable Locations
 
 ### The Crystal Throne
-Massive throne carved from a single Aether Crystal, slowly corrupting anyone who sits upon it. Currently occupied by [[Queen Seraphina Lumengarde]], who uses illusion magic to hide her advancing corruption.
+Massive throne carved from a single Aether Crystal, slowly corrupting anyone who sits upon it. Currently occupied by [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]], who uses illusion magic to hide her advancing corruption.
 
 ### The Resonance Spire
 Tallest structure in the city, used for long-distance magical communication. Maintained by [[The Crystal Wardens]].
@@ -56,9 +56,9 @@ Tallest structure in the city, used for long-distance magical communication. Mai
 Where those suffering from crystal corruption seek healing. Run by [[High Priestess Celeste Dawnbringer]].
 
 ## Government & Politics
-- **Ruler**: [[Queen Seraphina Lumengarde]]
-- **Military**: [[Lord Commander Gareth Steelborn]] and the [[Crystal Wardens]]
-- **Opposition**: Secret [[Purist Coalition]] cells led locally by [[Brother Marcus Steelbane]]
+- **Ruler**: [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
+- **Military**: [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] and the [[Crystal Wardens]]
+- **Opposition**: Secret [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] cells led locally by [[Brother Marcus Steelbane]]
 
 ## Economy
 
@@ -68,9 +68,9 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 - Magical weapons and armor
 
 ### Major Imports
-- Food from [[The Verdant Reach]]
-- Raw materials from [[The Sundered Peaks]]
-- Exotic goods via [[Port Meridian]]
+- Food from [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
+- Raw materials from [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]
+- Exotic goods via [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
 
 ## Services & Shops
 
@@ -81,7 +81,7 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 - **The Singing Crystal Tavern** - Best for information
 
 ### Shops
-- **Gearwright's Wonders** - [[Master Artificer Korvin Gearwright]]'s shop
+- **Gearwright's Wonders** - [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]'s shop
 - **The Mystic Prism** - [[Sage Lyralei Starweaver]]'s magical components
 - **Steelborn Armaments** - Weapons and armor
 - **The Crystal Emporium** - General magical goods
@@ -93,26 +93,26 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 ## Current Events
 - Preparations for the Crystal Festival next month
-- Investigation into [[Quest - The Plague of Crystals]]
-- Rumors of [[Prince Caspian Duskwater]]'s return
-- [[Purist Coalition]] propaganda appearing overnight
+- Investigation into [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]]
+- Rumors of [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]'s return
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] propaganda appearing overnight
 
 ## Adventure Hooks
 1. Noble's child showing signs of corruption needs discrete help
 2. Theft from the Crystal Academy's restricted vault
-3. [[Whisper Syndicate]] recruiting for a heist
+3. [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] recruiting for a heist
 4. Strange dreams plaguing those near the throne
 5. Ancient tome discovered mentioning the Seventh Shard
 
 ## NPCs
 
 ### Government Officials
-- [[Queen Seraphina Lumengarde]] - Ruler (secretly corrupted)
-- [[Lord Commander Gareth Steelborn]] - Military leader
-- [[Captain Lyanna Brightshield]] - City Watch Captain
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Ruler (secretly corrupted)
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military leader
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - City Watch Captain
 
 ### Merchants & Services
-- [[Master Artificer Korvin Gearwright]] - Innovation and crafting
+- [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]] - Innovation and crafting
 - [[Merchant Lord Silas Copperfield]] - Trade magnate
 - [[Madame Rosalind Goldleaf]] - Inn proprietor and information broker
 
@@ -124,12 +124,12 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 ### Underworld
 - [[Jasper "Three-Eyes" Flint]] - Tavern owner, information dealer
 - [[Marcus "The Shade" Blackwood]] - Syndicate enforcer
-- Contacts for [[Vex Shadowthorn]]
+- Contacts for [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]
 
 ## DM Secrets
 > [!warning] DM Only
 > - The Crystal Throne is actually one of the Seven Shards
-> - Queen Seraphina meets with [[The Crimson Sage]] in secret
+> - Queen Seraphina meets with [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] in secret
 > - The Undercity connects to ancient pre-Shattering ruins
 > - [[Brother Marcus Steelbane]] plans to assassinate the Queen during the Crystal Festival
 > - The corruption in the throne room is spreading, affecting the palace staff
@@ -148,13 +148,13 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 | 12 | Mysterious hooded figure following party |
 
 ## Connected Locations
-- [[Lumengarde]] - Surrounding kingdom
+- [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] - Surrounding kingdom
 - [[The Crystalline Foundry]] - Major industry
-- [[Port Meridian]] - Trade partner
-- [[The Sundered Peaks]] - Crystal source
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Trade partner
+- [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]] - Crystal source
 
 ## Key Factions
-- [[The Crystal Throne]] - Government
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Government
 - [[Crystal Wardens]] - Military/Police
-- [[The Whisper Syndicate]] - Criminal underground
-- [[Purist Coalition]] - Secret opposition cells
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Criminal underground
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - Secret opposition cells

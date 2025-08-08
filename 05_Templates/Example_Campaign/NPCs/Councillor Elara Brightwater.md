@@ -37,8 +37,8 @@ combat:
 > | | |
 > |---|---|
 > | **Occupation** | Council Chair |
-> | **Location** | [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] |
-> | **Faction** | [[Merchants Guild]] |
+> | **Location** | [[05_Templates/Example_Campaign/Locations/Shadowhaven]] |
+> | **Faction** | [[02_Worldbuilding/Factions/Merchants Guild]] |
 > | **Status** | Active |
 > ###### Appearance
 > | | |
@@ -104,16 +104,16 @@ As current Chair of the Council of Guilds, Elara wields significant influence ov
 ## Relationships
 
 ### Key Allies
-- **[[Master Thorne Blackforge]]** - Mutual respect and shared vision for the city's future
-- **[[Captain Marcus Steelhart]]** - City guard captain who shares her concerns about security
-- **[[Archmage Celestine Starweaver]]** - Surprisingly good working relationship despite personality differences
+- **[[05_Templates/Example_Campaign/NPCs/Master Thorne Blackforge]]** - Mutual respect and shared vision for the city's future
+- **[[05_Templates/Example_Campaign/NPCs/Captain Marcus Steelhart]]** - City guard captain who shares her concerns about security
+- **[[05_Templates/Example_Campaign/NPCs/Archmage Celestine Starweaver]]** - Surprisingly good working relationship despite personality differences
 
 ### Dangerous Enemies  
-- **[[01_Campaigns/Campaign_Name/NPCs/Whisper Jack.md]]** - The master thief who she suspects was involved in her husband's death
-- **[[The Shadowbroker]]** - Mysterious figure who seems to oppose her initiatives from the shadows
+- **[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]** - The master thief who she suspects was involved in her husband's death
+- **[[05_Templates/Example_Campaign/NPCs/The Shadowbroker]]** - Mysterious figure who seems to oppose her initiatives from the shadows
 
 ### Complicated Relationships
-- **[[01_Campaigns/Campaign_Name/NPCs/Lady Seraphina Goldleaf.md|Lady Seraphina Goldleaf]]** - Fellow council member with competing interests but grudging respect
+- **[[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf|Lady Seraphina Goldleaf]]** - Fellow council member with competing interests but grudging respect
 
 ## Plot Hooks & Adventures
 
@@ -121,7 +121,7 @@ As current Chair of the Council of Guilds, Elara wields significant influence ov
 Elara approaches the party privately - shipping manifests have been disappearing from the Guild Hall, and she suspects insider involvement. She needs trustworthy outsiders to investigate without alerting the potential traitor.
 
 ### Diplomatic Mission
-She needs discreet representatives to negotiate with [[Port Celeste]] regarding new trade agreements. The mission requires both diplomatic skill and the ability to handle unexpected complications.
+She needs discreet representatives to negotiate with [[05_Templates/Example_Campaign/Locations/Port Celeste]] regarding new trade agreements. The mission requires both diplomatic skill and the ability to handle unexpected complications.
 
 ### The Husband's Revenge
 If the party gains her trust, she might reveal the truth about Thomas's death and ask for their help in bringing the perpetrators to justice - but it must be done legally and publicly to avoid making her a martyr.

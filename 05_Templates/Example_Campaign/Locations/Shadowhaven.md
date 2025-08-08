@@ -22,10 +22,10 @@ districts:
 - Arcane District
 - The Undercity
 notable_npcs:
-- '[[01_Campaigns/Campaign_Name/NPCs/Councillor Elara Brightwater.md]]'
-- '[[Master Thorne Blackforge]]'
-- '[[Lady Seraphina Goldleaf]]'
-- '[[01_Campaigns/Campaign_Name/NPCs/Whisper Jack.md]]'
+- '[[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]'
+- '[[05_Templates/Example_Campaign/NPCs/Master Thorne Blackforge]]'
+- '[[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf]]'
+- '[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]'
 guilds:
 - Merchants Guild
 - Crafters Union
@@ -149,9 +149,9 @@ Citizens report feeling observed by unseen eyes. Shadows seem to move independen
 ## Connections
 
 **Allied Cities:**
-- [[Millbrook]] - Agricultural supplier, 3 days north
-- [[Port Celeste]] - Coastal trading partner, 5 days east
-- [[01_Campaigns/Campaign_Name/Locations/Ironhold Fortress.md|Ironhold Fortress]] - Military alliance, 2 days west
+- [[05_Templates/Example_Campaign/Locations/Millbrook]] - Agricultural supplier, 3 days north
+- [[05_Templates/Example_Campaign/Locations/Port Celeste]] - Coastal trading partner, 5 days east
+- [[05_Templates/Example_Campaign/Locations/Ironhold Fortress|Ironhold Fortress]] - Military alliance, 2 days west
 
 **Trade Routes:**  
 - **The King's Road** - Major highway connecting to the capital

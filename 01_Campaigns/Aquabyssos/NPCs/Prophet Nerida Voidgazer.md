@@ -13,7 +13,7 @@ status: "Alive?"
 # Prophet Nerida Voidgazer
 
 ## Overview
-Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[The Sunken Cathedral of Stars]], preaching that [[The Great Drowning]] was divine judgment and that worse is coming. Her eyes are pools of black water that reflect no light, supposedly allowing her to see across all depths simultaneously. She speaks in multiple voices - sometimes her own, sometimes echoing things from [[The Whispering Depths]], sometimes in tongues that predate human language.
+Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars]], preaching that [[The Great Drowning]] was divine judgment and that worse is coming. Her eyes are pools of black water that reflect no light, supposedly allowing her to see across all depths simultaneously. She speaks in multiple voices - sometimes her own, sometimes echoing things from [[01_Campaigns/Aquabyssos/Locations/The Whispering Depths]], sometimes in tongues that predate human language.
 
 ## Personality
 - **Prophetic**: Speaks primarily in visions and metaphors
@@ -40,8 +40,8 @@ Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[The Sun
 
 ### Religious Rivals
 - [[High Cultivist Jasper Lifebinder]] - Opposes biological heresy
-- [[Duke Cyrus Reefheart]] - Sees his path as blasphemy
-- [[Anti-Priest Nullus]] - Dark reflection in [[The Primordial Vaults]]
+- [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] - Sees his path as blasphemy
+- [[Anti-Priest Nullus]] - Dark reflection in [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]
 
 ### Complicated Connections
 - [[The Deepmind Conspiracy]] - Unknowing prophet of its will
@@ -49,7 +49,7 @@ Prophet Nerida Voidgazer leads the [[Church of the Tidal Throne]] from [[The Sun
 - [[Astrologer Prime Cassandra Starweaver]] - Shares visions
 
 ## History
-Was a young priestess when the drowning began. Tried to hold back the waters with prayer and was swept into [[The Cerulean Trench]]. Emerged three days later, changed. Has led the Church for 127 years, not aging but slowly becoming less human. Claims to have spoken with the gods beneath the waters.
+Was a young priestess when the drowning began. Tried to hold back the waters with prayer and was swept into [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]. Emerged three days later, changed. Has led the Church for 127 years, not aging but slowly becoming less human. Claims to have spoken with the gods beneath the waters.
 
 ## Current Activities
 1. Preparing faithful for "The Second Drowning"
@@ -123,10 +123,10 @@ Recent visions she's shared:
 - "The Mad Oracle" (whispered)
 
 ## Holy Sites
-- Primary: [[The Sunken Cathedral of Stars]]
-- Pilgrimage: [[The Cerulean Trench]] - Where she changed
-- Secret: [[The Whispering Depths]] - Hears clearest here
-- Future: Plans temple at [[The Primordial Vaults]]
+- Primary: [[01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars]]
+- Pilgrimage: [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]] - Where she changed
+- Secret: [[01_Campaigns/Aquabyssos/Locations/The Whispering Depths]] - Hears clearest here
+- Future: Plans temple at [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]
 
 ## Followers
 - **The Drowned Choir**: Sing her prophecies

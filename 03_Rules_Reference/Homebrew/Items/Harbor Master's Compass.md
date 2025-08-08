@@ -23,7 +23,7 @@ modified: 2025-07-23 12:39
 ---
 > [!infobox]
 > # Harbor Master's Compass
-> ![[z_Assets/Items/harbor_masters_compass.jpg|cover]]
+> ![[03_Rules_Reference/Homebrew/Items/Harbor Master's Compass|cover]]
 > ###### Item Information
 > | | |
 > |---|---|
@@ -82,7 +82,7 @@ Additionally, you feel compelled to investigate any missing persons or mysteriou
 
 ## Quest Connections
 
-### [[01_Campaigns/Campaign_Name/Quests/The Vanishing Merchant Vessels.md]]
+### [[05_Templates/Example_Campaign/Quests/The Vanishing Merchant Vessels]]
 This compass is a key piece of evidence in the investigation. It may hold clues about what happened to the missing ships and could lead the party to their fate.
 
 ### Future Adventures

@@ -30,7 +30,7 @@ Three millennia ago, the Oracle of [[Crystalline Depths]] foresaw the coming of 
 ### The Seven Depths
 
 1. **The Twilight Shelf** (100-500 ft)
-   - Location: [[Pearl Harbor City]]
+   - Location: [[01_Campaigns/Locations/Pearl_Harbor_City]]
    - Receives filtered sunlight
    - Trade hub with surface world
    - Kelp forests and coral cities
@@ -86,9 +86,9 @@ Three millennia ago, the Oracle of [[Crystalline Depths]] foresaw the coming of 
 - **Influence:** Military might
 
 ### [[The Coral Throne Syndicate]]
-- **Leader:** [[The Crimson Pearl]]
+- **Leader:** [[01_Campaigns/NPCs/The_Crimson_Pearl]]
 - **Goal:** Control trade and smuggling
-- **Headquarters:** [[Pearl Harbor City]]
+- **Headquarters:** [[01_Campaigns/Locations/Pearl_Harbor_City]]
 - **Influence:** Economic power
 
 ### [[Order of the Drowned Star]]
@@ -119,7 +119,7 @@ Conflicts between depth levels over resources:
 - Ancient ruins for artifacts
 
 ### The Surface Contact Debate
-- Trade agreements with [[Market District]]
+- Trade agreements with [[01_Campaigns/Locations/Market_District]]
 - Immigration of surface dwellers
 - Technology exchange programs
 - Cultural contamination fears
@@ -249,9 +249,9 @@ Citizens have developed:
 - Navigation in 3D space
 
 ### Integration with Surface Campaign
-- [[Gareth Ironforge]] seeks pressure-forged metals
-- [[Market District]] has secret Aquathys traders
-- [[Find the Missing Caravan]] leads to underwater smugglers
+- [[01_Campaigns/NPCs/Gareth_Ironforge]] seeks pressure-forged metals
+- [[01_Campaigns/Locations/Market_District]] has secret Aquathys traders
+- [[01_Campaigns/Quests/Find_the_Missing_Caravan]] leads to underwater smugglers
 - Surface adventures can transition through coastal portals
 
 ---

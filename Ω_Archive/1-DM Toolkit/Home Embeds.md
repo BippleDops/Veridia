@@ -330,6 +330,6 @@ views:
 
 # Vault Graph
 
-![[Vault Report.md]]
+![[Ω_Archive/1-DM Toolkit/Vault Report]]
 
-[[Home.md]]
+[[Ω_Archive/1-DM Toolkit/Home]]

@@ -6,8 +6,8 @@ date_played:
 location: [[Tenebrarum]]
 depth: "4,000 ft"
 npcs_featured:
-  - [[The Silhouette Surgeon Prime]]
-  - [[Marina "Red Tide" Coralheart]]
+  - [[01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime]]
+  - [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
   - [[Shadow Marina]]
   - [[Jasper "Three-Eyes" Flint]]
 status: "planned"
@@ -54,7 +54,7 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 **Situation**: Witness mass shadow transplant surgery  
 **Conflict**: Interrupt procedure without killing patients  
 **Discoveries**:
-- [[The Silhouette Surgeon Prime]] is actually multiple shadows in one body
+- [[01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime]] is actually multiple shadows in one body
 - Surgeries are creating agents for continental infiltration
 - [[Jasper "Three-Eyes" Flint]] is here—as a willing surgeon
 - The procedures are reversible for exactly 3 hours
@@ -147,8 +147,8 @@ Special mechanics for Marina confrontation:
 3. Every major NPC has a prototype prepared
 4. The surgical facilities extend across all continents
 5. Shadow evolution is inevitable, not stoppable
-6. The [[Parliament of Echoes]] approved the surgeries
-7. [[Queen Seraphina Lumengarde]] has a prototype in [[Aethermoor]]
+6. The [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]] approved the surgeries
+7. [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] has a prototype in [[01_Campaigns/Aethermoor/Locations/Aethermoor]]
 8. The Memory Tides are carrying surgical instructions
 9. Children adapt to shadow fusion better than adults
 10. The real threat isn't shadows—it's what they're fleeing from
@@ -165,7 +165,7 @@ Special mechanics for Marina confrontation:
 - Real Marina becomes antagonist
 - Shadow Marina provides inside information
 - Access to shadow resistance network
-- Changes in [[Aethermoor]] connections
+- Changes in [[01_Campaigns/Aethermoor/Locations/Aethermoor]] connections
 
 ### If Facility is Destroyed
 - Thousands die (alignment shift)
@@ -190,7 +190,7 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 - Consider permanent changes from this session
 
 ## 📅 Next Session Prep
-- [[Session 07 - The Resonance Revelation]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 07 - The Resonance Revelation]]
 - Prepare Crystallium's alien architecture
 - Design resonance combat mechanics
 - Plan first contact with what shadows fear

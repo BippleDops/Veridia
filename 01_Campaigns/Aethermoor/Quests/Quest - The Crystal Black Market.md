@@ -6,19 +6,19 @@ tags:
   - merchant
   - mid-level
 type: Quest
-quest_giver: "[[Castellan Ironledger III]]"
+quest_giver: "[[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]"
 level_range: 6-9
 reward_tier: Significant
 locations:
-  - "[[Port Meridian]]"
-  - "[[The Sunken Markets]]"
-  - "[[Crystalhaven]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Port Meridian]]"
+  - "[[01_Campaigns/Aethermoor/Locations/The Sunken Markets]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]"
 npcs_involved:
-  - "[[Castellan Ironledger III]]"
-  - "[[Vex Shadowthorn]]"
-  - "[[Marcus Shardbreaker Grimm]]"
-  - "[[Captain Lyanna Brightshield]]"
-  - "[[Master Artificer Korvin Gearwright]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]"
 ---
 
 # Quest: The Crystal Black Market
@@ -27,7 +27,7 @@ npcs_involved:
 A new drug called "Shard Dust" is flooding the streets—powdered crystal that grants temporary magical abilities but accelerates corruption. Someone has established an industrial-scale operation to harvest and process crystal corruption from living victims. The operation threatens to destabilize the entire economy while creating an army of crystal-addicted servants.
 
 ## Quest Hook
-[[Castellan Ironledger III]] contacts the party discretely. Three of his best informants have died investigating the Shard Dust trade, and his normal business operations are being undermined by this new economy. He offers substantial payment and future favors for dismantling the operation—but warns that powerful people are involved.
+[[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]] contacts the party discretely. Three of his best informants have died investigating the Shard Dust trade, and his normal business operations are being undermined by this new economy. He offers substantial payment and future favors for dismantling the operation—but warns that powerful people are involved.
 
 ## Act 1: Following the Money
 
@@ -37,7 +37,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 - Users gain temporary magical abilities (random effects)
 - Addiction is instant, corruption follows within days
 - Street price has dropped 80% (suggests mass production)
-- His competitor [[Vex Shadowthorn]] denies involvement
+- His competitor [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] denies involvement
 
 **Initial Payment:**
 - 500 gp advance
@@ -50,7 +50,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 **Port Meridian Quarantine Zone:**
 - Shard Dust dealers operate openly here
 - Users show varying stages of crystal corruption
-- [[Marcus "Shardbreaker" Grimm]] hunting corrupted addicts
+- [[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]] hunting corrupted addicts
 - Guards are taking bribes to ignore the trade
 
 **Following a Dealer:**
@@ -63,7 +63,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 - Contains processing equipment but no raw materials
 - Alchemical setup created by expert artificer
 - Shipping manifests with coded destinations
-- [[Master Artificer Korvin Gearwright]]'s maker's mark on equipment (hidden)
+- [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]'s maker's mark on equipment (hidden)
 
 ## Act 2: The Processing Centers
 
@@ -89,7 +89,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 ### The Sunken Markets Laboratory
 
 **Underwater Processing:**
-- [[The Sunken Markets]] hidden facility
+- [[01_Campaigns/Aethermoor/Locations/The Sunken Markets]] hidden facility
 - Aquabyssos technology enhances refinement
 - Deep-dweller workers immune to corruption
 - Producing "Pure Shard" - more potent variant
@@ -109,7 +109,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 4. **International Trade:** Hidden in legitimate shipments
 
 **Key Discovery:**
-- [[Captain Lyanna Brightshield]] has been investigating independently
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] has been investigating independently
 - She's identified pattern in Crystal Warden patrol routes
 - Certain shipments never get inspected
 - Someone high in government is protecting operation
@@ -118,7 +118,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ### The True Operation
 > [!warning] DM Secret
-> [[Lord Commander Gareth Steelborn]] is running the operation, believing he's creating an army immune to corruption. He's been corrupted by proximity to the Queen and thinks this is the only way to maintain order as society collapses.
+> [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] is running the operation, believing he's creating an army immune to corruption. He's been corrupted by proximity to the Queen and thinks this is the only way to maintain order as society collapses.
 
 **The Command Structure:**
 - **Production:** Master Artificer Korvin (blackmailed)
@@ -165,7 +165,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ### Operation Exposed
 - Public scandal rocks government
-- [[Queen Seraphina Lumengarde]] denies knowledge
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] denies knowledge
 - Lord Commander imprisoned or flees
 - Reforms to Crystal Warden oversight
 
@@ -196,8 +196,8 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 - Crystal suppression technology
 
 ### Potential Allies
-- [[Marcus "Shardbreaker" Grimm]] (if helped with victims)
-- [[Captain Lyanna Brightshield]] (if given evidence)
+- [[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]] (if helped with victims)
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] (if given evidence)
 - Reformed criminals seeking redemption
 - Families of victims (gratitude or revenge)
 
@@ -211,14 +211,14 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ### The Protection Racket
 - Other criminal organizations want the operation
-- [[Vex Shadowthorn]] makes competitive offer
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] makes competitive offer
 - Corrupt officials threaten party
 - International buyers demand continuity
 
 ### The Aquabyssos Angle
 - Deep-dwellers claim partial ownership
 - Threaten to flood Port Meridian if disrupted
-- [[Ambassador Nerida Deepcurrent]] offers mediation
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]] offers mediation
 - Evidence of larger invasion preparation
 
 ## NPC Motivations

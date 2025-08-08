@@ -15,7 +15,7 @@ image: "Ω_Assets/Locations/verdant_reach.jpg"
 *The Last Green Heart of Aethermoor*
 
 ## Overview
-The Verdant Reach encompasses the vast southern forests of [[Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[Archdruid Thornweaver]] and the [[Verdant Accord]], these ancient woods represent the world as it was before [[The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
+The Verdant Reach encompasses the vast southern forests of [[01_Campaigns/Aethermoor/Locations/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] and the [[Verdant Accord]], these ancient woods represent the world as it was before [[01_Campaigns/Aethermoor/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
 
 ## Geography
 
@@ -25,7 +25,7 @@ The Verdant Reach encompasses the vast southern forests of [[Aethermoor]], the l
 - **The Darkwood**: Dense canopy, dangerous, full of secrets
 
 ### Sacred Sites
-- **The Heart Grove**: [[Archdruid Thornweaver]]'s seat of power
+- **The Heart Grove**: [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]'s seat of power
 - **The Moonwell**: Pool of pure, uncorrupted water
 - **The Standing Stones**: Pre-Shattering druid circle
 - **The World-Tree**: Hidden, connects to all forests
@@ -54,7 +54,7 @@ The Verdant Reach encompasses the vast southern forests of [[Aethermoor]], the l
 ## Inhabitants
 
 ### The Verdant Accord
-- **Leader**: [[Archdruid Thornweaver]]
+- **Leader**: [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]
 - **Druids**: 500 various circles
 - **Rangers**: 2,000 forest protectors
 - **Allies**: Treants, dryads, forest spirits
@@ -83,7 +83,7 @@ The Verdant Reach encompasses the vast southern forests of [[Aethermoor]], the l
 - Controlled burns to create firebreaks
 - Druid rituals to strengthen remaining forest
 - Ranger patrols eliminating corrupted creatures
-- Diplomatic attempts with [[The Crystal Throne]]
+- Diplomatic attempts with [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]
 
 ## Resources
 
@@ -116,13 +116,13 @@ The Verdant Reach encompasses the vast southern forests of [[Aethermoor]], the l
 ## Current Crisis
 
 ### The Dying Season
-Unprecedented forest die-off in eastern reaches. Trees withering overnight, animals found crystallized. [[Archdruid Thornweaver]] grows desperate.
+Unprecedented forest die-off in eastern reaches. Trees withering overnight, animals found crystallized. [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] grows desperate.
 
 ### The Refugee Problem
 Thousands fleeing crystal expansion overwhelm forest resources. Tension between preservation and compassion.
 
 ### The Alliance Question
-Pressure to ally with [[Purist Coalition]] against crystals, but their extremism troubles many druids.
+Pressure to ally with [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] against crystals, but their extremism troubles many druids.
 
 ## Key Locations
 
@@ -135,7 +135,7 @@ Pressure to ally with [[Purist Coalition]] against crystals, but their extremism
 ### The Heart Grove
 - Center of druidic power
 - The Heart Tree (500+ years old)
-- Where [[Archdruid Thornweaver]] communes with forest
+- Where [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] communes with forest
 - Hidden entrance to World-Root tunnels
 
 ### The Moonwell
@@ -171,7 +171,7 @@ Pressure to ally with [[Purist Coalition]] against crystals, but their extremism
 > - The Green Shard is hidden in the Heart Tree
 > - [[Aria Lumengarde]] lives in [[Sylvanheart]]
 > - The World-Tree is becoming sentient
-> - [[Archdruid Thornweaver]] plans the Great Withering
+> - [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] plans the Great Withering
 > - Ancient evil sleeps beneath the Darkwood
 > - The forest contains a portal to the Feywild
 
@@ -192,21 +192,21 @@ Pressure to ally with [[Purist Coalition]] against crystals, but their extremism
 - **Extremists**: Support Great Withering
 
 ### External Relations
-- **[[The Crystal Throne]]**: Tense negotiations
-- **[[Purist Coalition]]**: Natural alliance
-- **[[Merchant Princes]]**: Trade for necessities
+- **[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]**: Tense negotiations
+- **[[01_Campaigns/Aethermoor/Factions/Purist Coalition]]**: Natural alliance
+- **[[01_Campaigns/Aethermoor/Factions/Merchant Princes]]**: Trade for necessities
 - **[[The Verdant Accord]]**: Governing body
 
 ## NPCs
-- [[Archdruid Thornweaver]] - Supreme leader
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Supreme leader
 - Elder Moonwhisper - [[Sylvanheart]] leader
 - [[Aria Lumengarde]] - Hidden princess
 - Various druids and rangers
 
 ## Connected Locations
-- [[Aethermoor]] - Part of continent
-- [[Crystalhaven]] - Opposed expansion
-- [[The Crystalline Wastes]] - Encroaching threat
+- [[01_Campaigns/Aethermoor/Locations/Aethermoor]] - Part of continent
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Opposed expansion
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Encroaching threat
 - [[Sylvanheart]] - Major settlement
 
 ## Related Quests

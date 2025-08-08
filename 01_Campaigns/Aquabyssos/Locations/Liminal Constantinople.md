@@ -10,12 +10,12 @@ region: Central Aquabyssos
 danger_level: Variable (Safe to Lethal)
 notable_npcs:
   - Parliament Members
-  - "[[Duchess Marina Ever-Drowning]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning]]"
   - Morpheus Tidecaller
 connected_locations:
   - "[[Gold-Grave Harbor]]"
   - "[[Abyssal Cathedral]]"
-  - "[[The Sunken Markets]]"
+  - "[[01_Campaigns/Aethermoor/Locations/The Sunken Markets]]"
   - Surface Portal Points
 ---
 
@@ -38,7 +38,7 @@ The drowned capital of Aquabyssos, where the Byzantine Empire's greatest city wa
 #### The Memory Markets
 - Streets that remember everyone who walked them
 - Shops selling experiences, emotions, and identities
-- [[Duchess Marina Ever-Drowning]]'s secondary exchange
+- [[01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning]]'s secondary exchange
 - Memory fountains where the poor sell remembrances
 - The Forget-Me-Not: tavern where amnesiacs gather
 
@@ -155,7 +155,7 @@ The drowned capital of Aquabyssos, where the Byzantine Empire's greatest city wa
 - Merchants from every drowned culture
 - Stalls exist in different time periods
 - Haggling affects reality's price
-- [[The Sunken Markets]] connection point
+- [[01_Campaigns/Aethermoor/Locations/The Sunken Markets]] connection point
 - Black market for surface goods
 
 ### The Depth Gardens
@@ -186,11 +186,11 @@ The drowned capital of Aquabyssos, where the Byzantine Empire's greatest city wa
 ## Access Points
 
 ### From Surface
-- [[The Sunken Markets]] in Port Meridian
+- [[01_Campaigns/Aethermoor/Locations/The Sunken Markets]] in Port Meridian
 - Whirlpools appearing at specific tides
 - Dreams of drowning (one-way usually)
 - Suicide by drowning with proper ritual
-- [[Ambassador Nerida Deepcurrent]]'s embassy portal
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]'s embassy portal
 
 ### From Other Depths
 - Current highways between cities

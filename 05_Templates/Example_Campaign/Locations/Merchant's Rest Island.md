@@ -8,7 +8,7 @@ modified: 2025-07-23 13:25
 # Merchant's Rest Island
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
 Merchant's Rest is a small, rocky island that is a popular stopping point for merchant vessels. It is also a notorious pirate haven.

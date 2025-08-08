@@ -6,27 +6,27 @@ tags:
   - shadowmere
   - mid-level
 type: Quest
-quest_giver: "[[Sister Morwyn Veilkeeper]]"
+quest_giver: "[[01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper]]"
 level_range: 5-8
 reward_tier: Significant
 locations:
-  - "[[The Shadowmere]]"
-  - "[[The Embassy Quarter]]"
-  - "[[The Sunken Markets]]"
+  - "[[01_Campaigns/Aethermoor/Locations/The Shadowmere]]"
+  - "[[01_Campaigns/Aethermoor/Locations/The Embassy Quarter]]"
+  - "[[01_Campaigns/Aethermoor/Locations/The Sunken Markets]]"
 npcs_involved:
-  - "[[Sister Morwyn Veilkeeper]]"
-  - "[[Ambassador Nerida Deepcurrent]]"
-  - "[[Marcus Shardbreaker Grimm]]"
-  - "[[Vex Shadowthorn]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]"
 ---
 
 # Quest: The Drowned Prophecy
 
 ## Overview
-Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
+Ancient prophecies are manifesting as physical objects in [[01_Campaigns/Aethermoor/Locations/The Shadowmere]]'s Lake Gloom—crystallized predictions of a coming flood that will transform Aethermoor into a second Aquabyssos. Someone is collecting these prophecy shards, and their intent could either prevent or ensure this catastrophic future.
 
 ## Quest Hook
-[[Sister Morwyn Veilkeeper]] contacts the party through disturbing dreams, showing visions of Crystalhaven underwater, its citizens transformed into aquatic horrors. She reveals that prophecy shards are being stolen from Lake Gloom, and without them, she cannot determine which future is becoming real.
+[[01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper]] contacts the party through disturbing dreams, showing visions of Crystalhaven underwater, its citizens transformed into aquatic horrors. She reveals that prophecy shards are being stolen from Lake Gloom, and without them, she cannot determine which future is becoming real.
 
 ## Act 1: Shadows and Prophecies
 
@@ -44,16 +44,16 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s L
 - Local shadowkin report seeing "fish people" that shouldn't exist here
 
 **Clues Found:**
-- Tidal Court diplomatic seal (leads to [[Ambassador Nerida Deepcurrent]])
+- Tidal Court diplomatic seal (leads to [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]])
 - Crystal Warden patrol schedule (inside information)
-- Payment ledger in Whisper Syndicate cipher (involves [[Vex Shadowthorn]])
+- Payment ledger in Whisper Syndicate cipher (involves [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]])
 
 ## Act 2: The Conspiracy Web
 
 ### The Embassy Investigation
 **Infiltrating the Cerulean Depths:**
-- [[Ambassador Nerida Deepcurrent]]'s embassy shows signs of recent construction
-- Hidden basement contains portal pool to [[The Sunken Markets]]
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]'s embassy shows signs of recent construction
+- Hidden basement contains portal pool to [[01_Campaigns/Aethermoor/Locations/The Sunken Markets]]
 - Diplomatic papers discussing "accelerated integration timeline"
 - Servants are deep-touched, showing early signs of aquatic transformation
 
@@ -65,9 +65,9 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s L
 
 ### The Sunken Markets Trail
 **Following the Smuggling Route:**
-- [[Vex Shadowthorn]] has been moving prophecy shards through the markets
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] has been moving prophecy shards through the markets
 - Claims he's just the middleman, doesn't know final buyer
-- [[Marcus "Shardbreaker" Grimm]] has been hired to protect shipments
+- [[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]] has been hired to protect shipments
 - Marcus reveals buyer uses Crystal Warden codes
 
 **The Depth Speaker's Warning:**
@@ -81,7 +81,7 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s L
 
 ### The True Conspirator
 > [!warning] DM Secret
-> [[Prince Caspian Duskwater]] is collecting the shards, believing he can use them to overthrow his mother and prevent both the crystal corruption and the drowning. He's being manipulated by Thal'mexis through dreams.
+> [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] is collecting the shards, believing he can use them to overthrow his mother and prevent both the crystal corruption and the drowning. He's being manipulated by Thal'mexis through dreams.
 
 **Evidence Points:**
 - Crystal Warden resources diverted to "special projects"
@@ -116,7 +116,7 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s L
   - Destroyed (removes prophecy but not threat)
   - Used differently (party's choice, major consequences)
 - Prince's fate affects succession crisis
-- [[Ambassador Nerida Deepcurrent]]'s reaction depends on party's approach
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]'s reaction depends on party's approach
 
 ### If Party Allies with Prince
 - Become agents of controlled transformation
@@ -141,7 +141,7 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s L
 
 ### Information Rewards
 - Location of one of the Seven Shards
-- Truth about [[Queen Seraphina Lumengarde]]'s corruption source
+- Truth about [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s corruption source
 - Map to pre-Shattering ruins beneath Crystalhaven
 - Prophecy about each party member's future
 
@@ -150,17 +150,17 @@ Ancient prophecies are manifesting as physical objects in [[The Shadowmere]]'s L
 ### The Refugee Crisis
 - Lake Gloom's disturbance displaces shadowkin
 - Must find new homes or calm the waters
-- [[Archdruid Thornweaver]] offers forest sanctuary
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] offers forest sanctuary
 
 ### The Assassin's Mark
 - Someone wants the investigation stopped
-- [[Marcus "Shardbreaker" Grimm]] hired to kill party
+- [[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]] hired to kill party
 - Can be turned into ally with right approach
 
 ### The Diplomatic Incident
 - Investigation exposes embassy secrets
 - International tensions threaten war
-- [[Castellan Ironledger III]] offers to mediate (for a price)
+- [[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]] offers to mediate (for a price)
 
 ## NPC Motivations
 

@@ -15,7 +15,7 @@ image: "Ω_Assets/Locations/crystalline_wastes.jpg"
 *Where Crystal Growth Runs Wild*
 
 ## Overview
-The Crystalline Wastes dominate northern [[Aethermoor]], a haunting landscape where Aether Crystals grow unchecked. Here, crystalline spires pierce the sky, the ground sparkles with crystal dust, and reality itself seems unstable. This is where [[The Great Crystallization]] began, and where crystal corruption is at its strongest.
+The Crystalline Wastes dominate northern [[01_Campaigns/Aethermoor/Locations/Aethermoor]], a haunting landscape where Aether Crystals grow unchecked. Here, crystalline spires pierce the sky, the ground sparkles with crystal dust, and reality itself seems unstable. This is where [[01_Campaigns/Aethermoor/Lore/The Great Crystallization]] began, and where crystal corruption is at its strongest.
 
 ## Geography
 
@@ -27,9 +27,9 @@ The Crystalline Wastes dominate northern [[Aethermoor]], a haunting landscape wh
 - **The Chromatic Storms**: Weather infused with crystal energy
 
 ### Notable Locations
-- **[[The Shattered Sanctum]]**: Hidden temple, possible base of [[The Crimson Sage]]
+- **[[01_Campaigns/Aethermoor/Locations/The Shattered Sanctum]]**: Hidden temple, possible base of [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]
 - **Corruption's Heart**: Center of the wastes, pure corruption
-- **The Lost Expedition Camp**: [[Captain Thaddeus Blackwater]]'s last known location
+- **The Lost Expedition Camp**: [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s last known location
 - **Crystal Graveyard**: Where the corrupted come to die
 - **The Wanderer's Refuge**: Only safe haven, run by [[Elder Matthias Stoneward]]
 
@@ -74,7 +74,7 @@ The Crystalline Wastes dominate northern [[Aethermoor]], a haunting landscape wh
 - **The Crystal Colossus** - Legendary creature, CR 15
 
 ### Expeditions
-- [[Captain Thaddeus Blackwater]]'s team (missing)
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s team (missing)
 - [[Crystal Wardens]] patrols (border only)
 - Scavenger groups seeking valuable crystals
 - [[The Order of the Shattered Crown]] pilgrims
@@ -98,7 +98,7 @@ The Crystalline Wastes dominate northern [[Aethermoor]], a haunting landscape wh
 ## Current Events
 
 ### The Lost Expedition
-[[Captain Thaddeus Blackwater]]'s expedition disappeared two months ago while searching for the Seventh Shard. Last communication mentioned "singing crystals" and "the truth beneath."
+[[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s expedition disappeared two months ago while searching for the Seventh Shard. Last communication mentioned "singing crystals" and "the truth beneath."
 
 ### The Growing Storm
 Crystal storms increasing in frequency and intensity. [[Elder Matthias Stoneward]] believes something has awakened in Corruption's Heart.
@@ -117,7 +117,7 @@ Members of [[The Order of the Shattered Crown]] have been entering the wastes an
 
 ### The Shattered Sanctum
 > [!warning] DM Only
-> Hidden base of [[The Crimson Sage]]. Contains:
+> Hidden base of [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]. Contains:
 > - Pre-Shattering library
 > - Experiments on corruption reversal
 > - Portal to other crystal sites
@@ -162,7 +162,7 @@ Members of [[The Order of the Shattered Crown]] have been entering the wastes an
 | 20 | The Crystalline Cathedral appears |
 
 ## Adventure Hooks
-1. Rescue [[Captain Thaddeus Blackwater]]'s expedition
+1. Rescue [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s expedition
 2. Retrieve specific crystal type for research
 3. Find the Seventh Shard
 4. Investigate the Crystalline Cathedral
@@ -172,25 +172,25 @@ Members of [[The Order of the Shattered Crown]] have been entering the wastes an
 ## DM Secrets
 > [!warning] DM Only
 > - The wastes are slowly expanding (1 mile per year)
-> - [[The Crimson Sage]] causes many of the distortions
+> - [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] causes many of the distortions
 > - The Seventh Shard moves locations, following a pattern
 > - The Crystal Colossus is a transformed ancient dragon
 > - Time distortions can show past/future events
 > - The Prismatic Prophet is [[Aria Lumengarde]], the Queen's hidden daughter
 
 ## Connected Locations
-- [[Aethermoor]] - Part of the continent
-- [[Crystalhaven]] - Sends expeditions
-- [[The Shattered Sanctum]] - Hidden within
-- [[The Sundered Peaks]] - Eastern border
+- [[01_Campaigns/Aethermoor/Locations/Aethermoor]] - Part of the continent
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Sends expeditions
+- [[01_Campaigns/Aethermoor/Locations/The Shattered Sanctum]] - Hidden within
+- [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]] - Eastern border
 
 ## Key NPCs
 - [[Elder Matthias Stoneward]] - Refuge keeper
-- [[Captain Thaddeus Blackwater]] - Lost explorer
-- [[The Crimson Sage]] - Secret presence
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]] - Lost explorer
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Secret presence
 - The Prismatic Prophet - Mysterious leader
 
 ## Related Quests
-- [[Quest - The Seventh Shard]] - Search in the wastes
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - Search in the wastes
 - [[Quest - The Lost Expedition]] - Find Blackwater
 - [[Quest - Into the Wastes]] - Various expeditions

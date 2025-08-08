@@ -12,15 +12,15 @@ themes:
   - "Recursive paradoxes"
   - "Scale-based horror"
   - "Mathematical madness"
-central_location: "[[The Infinite Garden]]"
+central_location: "[[01_Campaigns/Aquabyssos/Locations/The Infinite Garden]]"
 key_npcs:
-  - "[[The Infinite Gardener]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Infinite Garden]]"
   - "[[Professor Euclid Mindmaze]]"
   - "[[The Recursion Oracle]]"
   - "[[Captain Scale-Walker]]"
 connected_campaigns:
-  - "[[The Parliament of Shadows Campaign]]"
-  - "[[Aethermoor Campaign Overview]]"
+  - "[[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]"
+  - "[[01_Campaigns/Aethermoor/Aethermoor Campaign Overview]]"
 status: "Ready to Run"
 ---
 
@@ -36,7 +36,7 @@ The party discovers that reality has layers—recursive dimensions nested inside
 ## The Central Mystery
 
 ### The Recursion Event
-Three months ago, explorers in [[The Infinite Garden]] discovered they could enter the crystal fruit growing on trees, finding complete copies of Aquabyssos at 1/10th scale. But those tiny worlds had their own crystal gardens with their own fruit, recursing infinitely. Now, the barriers between recursion levels are breaking down.
+Three months ago, explorers in [[01_Campaigns/Aquabyssos/Locations/The Infinite Garden]] discovered they could enter the crystal fruit growing on trees, finding complete copies of Aquabyssos at 1/10th scale. But those tiny worlds had their own crystal gardens with their own fruit, recursing infinitely. Now, the barriers between recursion levels are breaking down.
 
 ### The Five Truths
 Players will gradually uncover:

@@ -65,19 +65,19 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 ## Relationships
 
 ### Current Contacts
-- [[Queen Seraphina Lumengarde]] - Secretly advising (guilt over her corruption)
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Secretly advising (guilt over her corruption)
 - [[Professor Aldric Crystalweaver]] - Feeds information through research
 - [[The Oracle of the Sundered Peaks]] - Former high priestess
-- [[Vex Shadowthorn]] - Complicated history
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Complicated history
 
 ### The Seven Betrayers (Now Dead)
 - Seeks their descendants for unclear purposes
-- [[High Inquisitor Maltheos]] is descendant of one
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] is descendant of one
 - [[Lord Aurelius Goldwave]] is descendant of another
 
 ### Complicated Feelings
-- [[Archdruid Thornweaver]] - Reminds him of simpler times
-- [[Captain Thaddeus Blackwater]] - Knows his true mission
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Reminds him of simpler times
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]] - Knows his true mission
 - Humanity in general - Love and resentment
 
 ## Secrets Within Secrets
@@ -98,7 +98,7 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 
 ## Multiple Identities
 - **The Crimson Sage** - Wandering scholar
-- **Master Aldwyn** - Reclusive researcher in [[The Sundered Peaks]]
+- **Master Aldwyn** - Reclusive researcher in [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]
 - **The Whispered One** - Mythical figure in criminal underworld
 - **Brother Clemens** - Humble priest in small villages
 
@@ -164,20 +164,20 @@ The Crimson Sage appears as a mysterious scholar researching crystal corruption 
 - His presence should feel significant
 
 ## Connected NPCs
-- [[Queen Seraphina Lumengarde]] - Secret advisor
-- [[High Inquisitor Maltheos]] - Watches with interest
-- [[Vex Shadowthorn]] - Knows more than should
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Secret advisor
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Watches with interest
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Knows more than should
 - [[The Oracle of the Sundered Peaks]] - Former servant
-- [[Captain Thaddeus Blackwater]] - Sent on quest
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]] - Sent on quest
 
 ## Connected Locations
 - Everywhere and nowhere
-- [[The Shattered Sanctum]] - Hidden sanctuary
-- [[The Crystalline Wastes]] - Often found here
+- [[01_Campaigns/Aethermoor/Locations/The Shattered Sanctum]] - Hidden sanctuary
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Often found here
 - [[The Whispering Expanse]] - Desert retreat
 
 ## Involved Quests
-- [[Quest - The Seventh Shard]] - Orchestrating
-- [[Quest - The Plague of Crystals]] - May have caused
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - Orchestrating
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - May have caused
 - [[Quest - Divine Intervention]] - Is the intervention
 - All quests, ultimately

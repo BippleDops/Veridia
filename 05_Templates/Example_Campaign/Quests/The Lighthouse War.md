@@ -8,8 +8,8 @@ modified: 2025-07-23 15:45
 # The Lighthouse War
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Admiral Cassius Stormhaven.md]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Whisper Rock Lighthouse.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Admiral Cassius Stormhaven]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Whisper Rock Lighthouse]]
 
 ## Quest Details
 The party is hired by Admiral Stormhaven to help defend the Whisper Rock Lighthouse from an attack by the Blackwater Raiders.

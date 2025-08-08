@@ -19,8 +19,8 @@ key_npcs:
   - "[[The Forgetting Bomb]]"
   - "[[Memory Merchant Valeria]]"
 connected_campaigns:
-  - "[[The Parliament of Shadows Campaign]]"
-  - "[[Memoriam - The Forgotten Continent]]"
+  - "[[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/Memoriam - The Forgotten Continent]]"
 status: "Ready to Run"
 ---
 
@@ -37,7 +37,7 @@ Three powerful factions have discovered how to weaponize memory itself. By chang
 
 ### The Archive Imperium
 **Philosophy**: "Perfect memory creates perfect reality"
-- Controls [[The Memory Meadows]]
+- Controls [[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]]
 - Harvests and catalogs all memories
 - Believes in one objective truth
 - Military force: The Remembrance Legion

@@ -5,9 +5,9 @@ aliases: [City of Sails]
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 location_type: "city"
-parent_location: "[[The Cerulean Archipelago]]"
+parent_location: "[[02_Worldbuilding/Atlas/The Cerulean Archipelago]]"
 sub_locations: []
-notable_npcs: ["[[../NPCs/Captain Valerius]]", "[[../NPCs/Lyra Swiftwind]]"]
+notable_npcs: ["[[05_Templates/Example_Campaign/NPCs/Captain Valerius]]", "[[05_Templates/Example_Campaign/NPCs/Lyra Swiftwind]]"]
 available_services: ["Shipwright", "Tavern", "Blacksmith", "Alchemist"]
 dangers: ["Pirates", "Smugglers", "Sea Monsters"]
 secrets: ["The city is built on the ruins of an ancient magocracy city.", "The governor is secretly in league with a notorious pirate crew."]
@@ -19,7 +19,7 @@ secrets: ["The city is built on the ruins of an ancient magocracy city.", "The g
 > | | |
 > | --- | --- |
 > | **Type** | City |
-> | **Parent Location** | [[The Cerulean Archipelago]] |
+> | **Parent Location** | [[02_Worldbuilding/Atlas/The Cerulean Archipelago]] |
 
 ---
 
@@ -30,7 +30,7 @@ Port Verran is a bustling port city built on the largest island of the Cerulean 
 ~~~ai-context
 When generating a location description, consider:
 - Type: city
-- Parent Location: [[The Cerulean Archipelago]]
+- Parent Location: [[02_Worldbuilding/Atlas/The Cerulean Archipelago]]
 - Key Features: Bustling harbor, diverse population, trade hub
 ~~~
 
@@ -42,8 +42,8 @@ When generating a location description, consider:
 
 ## 👥 Notable NPCs
 
-- [[../NPCs/Captain Valerius]]: The stern and respected harbormaster of Port Verran.
-- [[01_Campaigns/Campaign_Name/NPCs/Lyra Swiftwind.md|Lyra Swiftwind]]: A charismatic and cunning guild merchant with a network of spies.
+- [[05_Templates/Example_Campaign/NPCs/Captain Valerius]]: The stern and respected harbormaster of Port Verran.
+- [[05_Templates/Example_Campaign/NPCs/Lyra Swiftwind|Lyra Swiftwind]]: A charismatic and cunning guild merchant with a network of spies.
 
 ---
 

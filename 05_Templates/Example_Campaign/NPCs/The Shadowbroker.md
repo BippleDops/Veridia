@@ -12,7 +12,7 @@ modified: 2025-07-23 14:15
 **Gender**: Unknown
 **Age**: Unknown
 **Occupation**: Information Broker
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 The Shadowbroker is a mysterious and powerful figure who deals in secrets. They are said to have a network of spies and informants that spans the entire city, and they are willing to sell any information to the highest bidder.

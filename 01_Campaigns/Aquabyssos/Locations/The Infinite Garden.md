@@ -14,8 +14,8 @@ notable_features:
 faction_control: "[[The Recursion Cult]]"
 connected_locations:
   - "[[Crystallium]]"
-  - "[[The Inverse Palace]]"
-  - "[[The Primordial Vaults]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]"
 environment_effects:
   - "Reality Recursion (DC 17 INT save or get lost in nested realities)"
   - "Infinite Regression (size categories become meaningless)"

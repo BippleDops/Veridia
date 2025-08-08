@@ -8,7 +8,7 @@ modified: 2025-07-23 14:10
 # The Sunken City of Aeridor
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
 Aeridor was once a beautiful and prosperous city, but it was swallowed by the sea in a great cataclysm centuries ago. Now, it is a sunken ruin, haunted by the ghosts of its past and guarded by fearsome sea creatures.

@@ -12,7 +12,7 @@ modified: 2025-07-23 17:10
 **Gender**: Female
 **Age**: 40
 **Occupation**: Legitimate Front Manager for the Shadowhaven Smugglers Ring
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Gilded Serpent Tavern.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Gilded Serpent Tavern]]
 
 ## Description
 Melody Goldtooth is a cheerful and bubbly halfling who is the owner of The Gilded Serpent Tavern. She is a popular figure in the community, and she is known for her generosity and her love of a good party.

@@ -11,7 +11,7 @@ themes:
   - Moral ambiguity
 depth_range: "0-30000 feet"
 time_period: "300 years post-Cataclysm"
-connection_to: "[[Aethermoor Campaign Overview]]"
+connection_to: "[[01_Campaigns/Aethermoor/Aethermoor Campaign Overview]]"
 created: 2025-08-07
 status: active
 ---
@@ -34,8 +34,8 @@ Three centuries ago, the surface empire of Thalassopolis triggered the **Cascade
 ## 🗺️ The Seven Sunken Continents
 
 ### Major Realms
-1. **[[Abyssos Prime]]** - The Drowned Throne (1,000-3,000 ft)
-2. **[[Nereidios]]** - The Scholar's Grave (500-2,000 ft)
+1. **[[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]** - The Drowned Throne (1,000-3,000 ft)
+2. **[[01_Campaigns/Aquabyssos/Locations/Nereidios]]** - The Scholar's Grave (500-2,000 ft)
 3. **[[Corallion]]** - The Living City (2,000-4,000 ft)
 4. **[[Vorthak]]** - The Shattered Realm (Variable depth)
 5. **[[Tenebrarum]]** - The Dark Gardens (4,000-6,000 ft)
@@ -46,11 +46,11 @@ Three centuries ago, the surface empire of Thalassopolis triggered the **Cascade
 ## 🎭 Campaign Paths
 
 ### Available Adventures
-1. **[[The Parliament of Shadows Campaign]]** - Political horror (Levels 5-10)
-2. **[[The Infinite Recursion Campaign]]** - Reality-bending mystery (Levels 6-11)
-3. **[[The Leviathan Prophecy Campaign]]** - Cosmic horror (Levels 7-12)
-4. **[[The Memory Wars Campaign]]** - Reality manipulation (Levels 5-9)
-5. **[[The Depth Mother's Dream Campaign]]** - Epic planar (Levels 10-15)
+1. **[[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]** - Political horror (Levels 5-10)
+2. **[[01_Campaigns/Aquabyssos/Campaigns/The Infinite Recursion Campaign]]** - Reality-bending mystery (Levels 6-11)
+3. **[[01_Campaigns/Aquabyssos/Campaigns/The Leviathan Prophecy Campaign]]** - Cosmic horror (Levels 7-12)
+4. **[[01_Campaigns/Aquabyssos/Campaigns/The Memory Wars Campaign]]** - Reality manipulation (Levels 5-9)
+5. **[[01_Campaigns/Aquabyssos/Campaigns/The Depth Mother's Dream Campaign]]** - Epic planar (Levels 10-15)
 
 ## ⚙️ Core Mechanics
 
@@ -71,26 +71,26 @@ Three centuries ago, the surface empire of Thalassopolis triggered the **Cascade
 
 ### Crossover Points
 - Crystal plague victims become Aquabyssos vessels
-- [[Marina "Red Tide" Coralheart]] exists in both worlds
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] exists in both worlds
 - The Seven Shards have underwater counterparts
 - [[The Lighthouse of Storms]] serves as dimensional anchor
 - Merged zones post-Crystal Festival
 
 ### Shared NPCs
-- **[[The Crimson Sage]]** - Appears in deep visions
-- **[[Vex Shadowthorn]]** - Studied Aquabyssos texts
-- **[[Queen Seraphina Lumengarde]]** - Possessed by Aquabyssos entity
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]** - Appears in deep visions
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]** - Studied Aquabyssos texts
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]** - Possessed by Aquabyssos entity
 
 ## 📊 Campaign Management
 
 ### Session Tracking
-- Use `[[Session Template]]` for each game
+- Use `[[05_Templates/Session_Template]]` for each game
 - Track [[Depth Adaptation Points]] per character
 - Monitor [[Shadow Independence Levels]]
 - Record [[Memory Alterations]]
 
 ### NPC Management
-- All NPCs use standard `[[NPC Template]]`
+- All NPCs use standard `[[05_Templates/NPC_Template]]`
 - Track `shadow_status` property
 - Monitor `depth_adapted` level
 - Record `memory_integrity` percentage
@@ -121,7 +121,7 @@ Three centuries ago, the surface empire of Thalassopolis triggered the **Cascade
 
 ### Important Links
 - **[[Aquabyssos World Guide]]** - Complete setting information
-- **[[Depth Survival Mechanics]]** - All mechanical systems
+- **[[01_Campaigns/Aquabyssos/Mechanics/Depth Survival Mechanics]]** - All mechanical systems
 - **[[Continental Connections Map]]** - How realms interact
 - **[[NPC Relationship Web]]** - Major character connections
 - **[[Timeline of the Drowning]]** - Historical events
@@ -137,7 +137,7 @@ Three centuries ago, the surface empire of Thalassopolis triggered the **Cascade
 
 ### For New Campaigns
 1. Choose a [[Campaign Path|campaign path]]
-2. Review [[Depth Survival Mechanics]]
+2. Review [[01_Campaigns/Aquabyssos/Mechanics/Depth Survival Mechanics]]
 3. Create PCs with [[Aquabyssos Character Creation]]
 4. Run [[Session 0 - Aquabyssos]] for expectations
 5. Begin with chosen path's Session 1

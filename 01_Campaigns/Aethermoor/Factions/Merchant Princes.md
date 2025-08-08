@@ -6,7 +6,7 @@ tags:
   - political
 type: Faction
 alignment: Lawful Neutral
-headquarters: "[[Port Meridian]]"
+headquarters: "[[01_Campaigns/Aethermoor/Locations/Port Meridian]]"
 leader: Council of Five
 status: Active
 power_level: Economic Dominance
@@ -18,7 +18,7 @@ image: "Ω_Assets/Factions/merchant_princes.jpg"
 *Gold Flows Like Water, Power Follows the Current*
 
 ## Overview
-The Merchant Princes control [[Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
+The Merchant Princes control [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s economy through their domination of crystal trade and shipping routes. Based in [[01_Campaigns/Aethermoor/Locations/Port Meridian]], this council of the five wealthiest merchants effectively rules through economic pressure. They care little for ideology—only profit and the stability needed to ensure it.
 
 ## The Council of Five
 
@@ -72,7 +72,7 @@ The Merchant Princes control [[Aethermoor]]'s economy through their domination o
 > [!warning] DM Only
 > - Funding both sides of conflicts
 > - Crystal addiction for profit
-> - Collaborating with [[The Whisper Syndicate]]
+> - Collaborating with [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]
 > - Hiding [[Lord Aurelius Goldwave]]'s embezzlement
 > - Planning economic coup
 
@@ -95,7 +95,7 @@ The Merchant Princes control [[Aethermoor]]'s economy through their domination o
 ## Relationships
 
 ### Allies
-- [[The Crystal Throne]] - Mutual dependence
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Mutual dependence
 - International trade partners
 - Mercenary companies
 - Some noble houses
@@ -106,9 +106,9 @@ The Merchant Princes control [[Aethermoor]]'s economy through their domination o
 - Foreign kingdoms - Business only
 
 ### Opponents
-- [[Purist Coalition]] - Threatens profit
-- [[The Whisper Syndicate]] - Competition/cooperation
-- [[Prince Caspian Duskwater]] - Destabilizing influence
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - Threatens profit
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Competition/cooperation
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Destabilizing influence
 - Pirates and raiders
 
 ## Current Schemes
@@ -212,7 +212,7 @@ Attempting to control all crystal trade:
 - No refunds or exceptions
 
 ## The Five Towers
-Merchant Prince headquarters in [[Port Meridian]]:
+Merchant Prince headquarters in [[01_Campaigns/Aethermoor/Locations/Port Meridian]]:
 - **Gold Tower**: [[Lord Aurelius Goldwave]]
 - **Silk Tower**: [[Lady Venetia Silkwind]]
 - **Jade Tower**: [[Master Chen Wei]]
@@ -221,8 +221,8 @@ Merchant Prince headquarters in [[Port Meridian]]:
 
 ## Secret Agreements
 > [!warning] DM Only
-> - Deal with [[Vex Shadowthorn]] for smuggling
-> - Funding [[Prince Caspian Duskwater]] (hedging bets)
+> - Deal with [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] for smuggling
+> - Funding [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] (hedging bets)
 > - Agreement with foreign invasion force
 > - Plan to establish merchant republic
 > - Control over Queen's personal finances
@@ -235,20 +235,20 @@ Merchant Prince headquarters in [[Port Meridian]]:
 - Their collapse would cause economic disaster
 
 ## Connected Factions
-- [[The Crystal Throne]] - Economic partnership
-- [[The Whisper Syndicate]] - Complex relationship
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Economic partnership
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Complex relationship
 - [[Crystal Wardens]] - Provide security
 - International trade guilds
 
 ## Connected NPCs
 - [[Lord Aurelius Goldwave]] - Chairman
-- [[Queen Seraphina Lumengarde]] - Major client
-- [[Vex Shadowthorn]] - Secret deals
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Major client
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Secret deals
 - [[Admiral Cassandra Stormwind]] - Naval cooperation
 
 ## Connected Locations
-- [[Port Meridian]] - Headquarters
-- [[Crystalhaven]] - Major market
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Headquarters
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Major market
 - [[The Azure Coast]] - Shipping routes
 - International ports
 

@@ -5,9 +5,9 @@ campaign: "Aquabyssos"
 guide_type: "Transportation & Navigation"
 created: 2025-08-07
 connects_to:
-  - "[[Aquabyssos Campaign Overview]]"
-  - "[[Continental Connections & Story Weave]]"
-  - "[[Comprehensive Survival System]]"
+  - "[[01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview]]"
+  - "[[01_Campaigns/Aquabyssos/Lore/Continental Connections & Story Weave]]"
+  - "[[01_Campaigns/Aquabyssos/Mechanics/Comprehensive Survival System]]"
 ---
 
 # Aquabyssos World Navigation Guide

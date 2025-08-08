@@ -1,6 +1,6 @@
 ---
 MyContainer:
-- '[[02_Worldbuilding/Places/Shop of Stuff.md|Shop of Stuff]]'
+- '[[05_Templates/Example_Campaign/Locations/Shop of Stuff|Shop of Stuff]]'
 - '[[05_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
 MyCategory: null
 tags:

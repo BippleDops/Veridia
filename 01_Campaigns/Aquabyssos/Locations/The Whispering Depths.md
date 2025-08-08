@@ -10,7 +10,7 @@ depth: "3000-4000 feet"
 # The Whispering Depths - Echo's End
 
 ## Overview
-A region of [[Aquabyssos World Overview|Aquabyssos]] where sound behaves unnaturally, The Whispering Depths is avoided by all but the desperate or insane. Sounds from the past, future, and other dimensions echo through the water, driving visitors mad with constant whispered secrets, lies, and half-truths. The [[Depth Wardens]] have declared it a quarantine zone after losing three full patrols to "whisper madness."
+A region of [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]] where sound behaves unnaturally, The Whispering Depths is avoided by all but the desperate or insane. Sounds from the past, future, and other dimensions echo through the water, driving visitors mad with constant whispered secrets, lies, and half-truths. The [[Depth Wardens]] have declared it a quarantine zone after losing three full patrols to "whisper madness."
 
 ## Zones of Distortion
 
@@ -74,7 +74,7 @@ Perfectly preserved vessel in a silence pool. Crew found dead with expressions o
 1. Whispers increasing in volume and frequency
 2. New type of whisper speaking in mathematical equations
 3. [[Free Current]] operative lost in the Echo Chamber
-4. Reports of whispers being heard in [[New Tethys]]
+4. Reports of whispers being heard in [[01_Campaigns/Aquabyssos/Locations/New Tethys]]
 5. The Silent Ones claiming a "Great Whisper" approaches
 
 ## Secrets

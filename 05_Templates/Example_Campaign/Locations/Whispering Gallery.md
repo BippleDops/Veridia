@@ -8,7 +8,7 @@ modified: 2025-07-23 14:45
 # Whispering Gallery
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] Undercity
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]] Undercity
 
 ## Description
 The Whispering Gallery is a natural cavern that is known for its strange acoustic properties. A whisper at one end of the gallery can be heard clearly at the other, making it a popular place for secret meetings.

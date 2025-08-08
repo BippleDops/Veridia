@@ -2,8 +2,8 @@
 tags: [npc]
 first_name: "Gareth"
 last_name: "Ironforge"
-location: "[[Market District]]"
-faction: "[[Merchant's Guild]]"
+location: "[[01_Campaigns/Locations/Market_District]]"
+faction: "[[02_Worldbuilding/Factions/Merchants Guild]]"
 occupation: "Master Blacksmith"
 disposition: 5
 alignment: "Lawful Good"
@@ -21,7 +21,7 @@ relationships:
   - "[[Elena Starweaver]]"
   - "[[Mayor Thompson]]"
 related_quests:
-  - "[[Find the Missing Caravan]]"
+  - "[[01_Campaigns/Quests/Find_the_Missing_Caravan]]"
   - "[[The Stolen Anvil]]"
 last_encounter: "[[Session-4]]"
 stats:
@@ -59,5 +59,5 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 - Training his son in the craft
 
 ## Quest Hooks
-- **[[Find the Missing Caravan]]** - His shipment has gone missing
+- **[[01_Campaigns/Quests/Find_the_Missing_Caravan]]** - His shipment has gone missing
 - **[[The Stolen Anvil]]** - Family heirloom was taken

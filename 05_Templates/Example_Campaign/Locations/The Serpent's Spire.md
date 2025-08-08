@@ -8,7 +8,7 @@ modified: 2025-07-23 18:45
 # The Serpent's Spire
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
 The Serpent's Spire is a tall, twisted rock formation that rises from the sea. It is the secret base of the Crimson Fleet, and it is said to be riddled with caves and tunnels.

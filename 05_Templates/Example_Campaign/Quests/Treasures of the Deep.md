@@ -8,8 +8,8 @@ modified: 2025-07-23 15:55
 # Treasures of the Deep
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Old Salt Pete.md]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Graveyard of Ships.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Old Salt Pete]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Graveyard of Ships]]
 
 ## Quest Details
 The party is hired by Old Salt Pete to explore the Graveyard of Ships and recover a legendary treasure.

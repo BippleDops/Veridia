@@ -8,7 +8,7 @@ modified: 2025-07-23 16:00
 # The Graveyard of Ships
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
 The Graveyard of Ships is a treacherous area of the sea where hundreds of ships have been wrecked over the centuries. It is a place of jagged rocks, strong currents, and thick fog.

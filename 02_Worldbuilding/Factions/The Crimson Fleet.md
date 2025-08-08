@@ -5,11 +5,11 @@ aliases: [The Crimson Scourge]
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 modified: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 name: The Crimson Fleet
-leader: "[[Captain Kaelen]]"
-location_home: "[[The Serpent's Spire]]"
+leader: "[[05_Templates/Example_Campaign/NPCs/Captain Kaelen]]"
+location_home: "[[05_Templates/Example_Campaign/Locations/The Serpent's Spire]]"
 relationships:
   allies: []
-  enemies: ["[[../../01_Campaigns/Campaign_Name/Locations/Port Verran]]"]
+  enemies: ["[[05_Templates/Example_Campaign/Locations/Port Verran]]"]
 ---
 
 # The Crimson Fleet
@@ -17,9 +17,9 @@ relationships:
 > [!infobox]
 > | | |
 > | --- | --- |
-> | **Leader** | [[Captain Kaelen]] |
-> | **Base** | [[The Serpent's Spire]] |
-> | **Enemies** | [[01_Campaigns/Campaign_Name/Locations/Port Verran.md|Port Verran]] |
+> | **Leader** | [[05_Templates/Example_Campaign/NPCs/Captain Kaelen]] |
+> | **Base** | [[05_Templates/Example_Campaign/Locations/The Serpent's Spire]] |
+> | **Enemies** | [[05_Templates/Example_Campaign/Locations/Port Verran|Port Verran]] |
 
 ---
 
@@ -37,7 +37,7 @@ The Crimson Fleet seeks to control the trade routes of the Cerulean Archipelago 
 
 ## 👥 Notable Members
 
-- [[01_Campaigns/Campaign_Name/NPCs/Captain Kaelen.md|Captain Kaelen]]: The mysterious and feared leader of the Crimson Fleet.
+- [[05_Templates/Example_Campaign/NPCs/Captain Kaelen|Captain Kaelen]]: The mysterious and feared leader of the Crimson Fleet.
 - **"One-Eyed" Jack**: A grizzled and battle-hardened first mate.
 - **Elara the Storm-Singer**: A powerful sea witch who can control the weather.
 

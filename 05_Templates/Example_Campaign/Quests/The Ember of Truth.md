@@ -8,8 +8,8 @@ modified: 2025-07-23 19:20
 # The Ember of Truth
 
 ## Quest Info
-**Quest Giver**: [[Archmage Celestine Starweaver]]
-**Location**: [[The Whispering Peaks]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Archmage Celestine Starweaver]]
+**Location**: [[02_Worldbuilding/Atlas/The Whispering Peaks]]
 
 ## Quest Details
 The party is hired by Archmage Celestine Starweaver to investigate the activities of the Order of the Azure Flame. The Archmage has heard rumors that the Order has discovered a powerful magical artifact from the old world, and she fears that they will use it to wipe out all magic from the Shattered Isles.

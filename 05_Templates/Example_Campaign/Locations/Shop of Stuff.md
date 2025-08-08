@@ -1,7 +1,7 @@
 ---
 tags:
 - Category/Place
-MyContainer: '[[01_Campaigns/Campaign_Name/Locations/City of Screams.md|City of Screams]]'
+MyContainer: '[[05_Templates/Example_Campaign/Locations/City of Screams|City of Screams]]'
 MyCategory: Commerce
 obsidianUIMode: preview
 type: location

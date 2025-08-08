@@ -12,8 +12,8 @@ primary_location: "[[Gallery of Frozen Waves]]"
 depth: 1600
 locations_visited:
   - "[[Gallery of Frozen Waves]]"
-  - "[[Screaming Gardens]]"
-  - "[[Memory Meadows]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/Screaming Gardens]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]]"
   - "[[Reflection Pools]]"
 npcs_met:
   - "[[The Conductor]]"

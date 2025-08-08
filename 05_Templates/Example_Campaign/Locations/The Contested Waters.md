@@ -45,9 +45,9 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 
 #### Shadowhaven Merchant Marine - "Legal Precedent"
 - **Claim Basis**: Historical trade agreements and lighthouse maintenance
-- **Controlled Assets**: [[Whisper Rock Lighthouse]], 3 patrol vessels
+- **Controlled Assets**: [[05_Templates/Example_Campaign/Locations/Whisper Rock Lighthouse]], 3 patrol vessels
 - **Strategy**: Diplomatic pressure through trade coalitions
-- **Leadership**: [[Admiral Cassius Stormhaven]]
+- **Leadership**: [[05_Templates/Example_Campaign/NPCs/Admiral Cassius Stormhaven]]
 - **Support**: 40% of regional merchant guilds
 - **Weakness**: Limited military presence
 
@@ -55,7 +55,7 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 - **Claim Basis**: Largest volume of ships using the routes
 - **Controlled Assets**: 6 armed merchant vessels, floating dock platform
 - **Strategy**: Economic pressure and "protection" services
-- **Leadership**: [[Commodore Viktor Goldwave]]
+- **Leadership**: [[05_Templates/Example_Campaign/NPCs/Commodore Viktor Goldwave]]
 - **Support**: Backing from major trading houses
 - **Weakness**: Overextended resources
 
@@ -63,7 +63,7 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 - **Claim Basis**: Massive infrastructure investment in the region
 - **Controlled Assets**: 2 fortified islands, private navy of 12 ships
 - **Strategy**: Military dominance and territorial occupation
-- **Leadership**: [[Captain-General Mordeth Bloodwater]]
+- **Leadership**: [[05_Templates/Example_Campaign/NPCs/Captain-General Mordeth Bloodwater]]
 - **Support**: Independent city-state backing
 - **Weakness**: Diplomatic isolation
 
@@ -71,7 +71,7 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 - **Claim Basis**: "The strong rule the waves" - pure might makes right
 - **Controlled Assets**: Hidden bases, 15+ vessels of various sizes
 - **Strategy**: Terror, raids, and demanding tribute for "safe passage"
-- **Leadership**: [[Pirate King Razor Blackheart]]
+- **Leadership**: [[05_Templates/Example_Campaign/NPCs/Pirate King Razor Blackheart]]
 - **Support**: Other pirate crews, some desperate merchants
 - **Weakness**: Internal conflicts between pirate crews
 
@@ -79,7 +79,7 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 - **Claim Basis**: Historical sovereignty dating back millennia
 - **Controlled Assets**: Underwater cities, sea creature allies
 - **Strategy**: Mysterious interventions, sometimes helping/hindering surface vessels
-- **Leadership**: [[Deep Lord Pelagios the Eternal]]
+- **Leadership**: [[05_Templates/Example_Campaign/NPCs/Deep Lord Pelagios the Eternal]]
 - **Support**: Ocean spirits, ancient pacts
 - **Weakness**: Limited interest in surface politics
 
@@ -123,7 +123,7 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 **Function**: Critical navigation aid for safe passage through the region
 **Strategic Value**: Controlling the lighthouse means controlling the safest shipping route
 **Current Issues**: 
-- Lighthouse keeper [[Old Tom Seawatch]] reports strange lights in the water
+- Lighthouse keeper [[05_Templates/Example_Campaign/NPCs/Old Tom Seawatch]] reports strange lights in the water
 - Multiple attempts at sabotage by unknown parties
 - Mer-folk have been seen near the foundation rocks
 
@@ -221,7 +221,7 @@ Once the domain of the ancient **Mer-Folk Empire of Thalassopolis**, these water
 ## 🎯 Current Quests & Opportunities
 
 ### Active Political Situations
-1. **The Lighthouse Keeper's Plea** - [[Old Tom Seawatch]] needs help investigating strange phenomena
+1. **The Lighthouse Keeper's Plea** - [[05_Templates/Example_Campaign/NPCs/Old Tom Seawatch]] needs help investigating strange phenomena
 2. **The Merchant Council Crisis** - Trade leaders seeking neutral party to mediate territorial disputes  
 3. **The Pirate King's Gambit** - [[Razor Blackheart]] offers alliance against other factions
 4. **The Mer-Folk Embassy** - Deep Lord seeks surface representatives for underwater negotiations
@@ -325,28 +325,28 @@ dv.paragraph(`**Overall Impact**: ${totalLosses} ships lost this month`);
 ## 🔗 Connected Content
 
 ### Key NPCs
-- **[[Admiral Cassius Stormhaven]]** - Shadowhaven Naval Commander
-- **[[Pirate King Razor Blackheart]]** - Crimson Tide Leader
-- **[[Deep Lord Pelagios the Eternal]]** - Mer-Folk Sovereign
-- **[[Old Tom Seawatch]]** - Lighthouse Keeper
+- **[[05_Templates/Example_Campaign/NPCs/Admiral Cassius Stormhaven]]** - Shadowhaven Naval Commander
+- **[[05_Templates/Example_Campaign/NPCs/Pirate King Razor Blackheart]]** - Crimson Tide Leader
+- **[[05_Templates/Example_Campaign/NPCs/Deep Lord Pelagios the Eternal]]** - Mer-Folk Sovereign
+- **[[05_Templates/Example_Campaign/NPCs/Old Tom Seawatch]]** - Lighthouse Keeper
 
 ### Related Organizations  
-- **[[Shadowhaven Merchant Marine]]** - Primary claimant
-- **[[The Crimson Tide Pirates]]** - Major threat
-- **[[Ancient Mer-Folk Empire]]** - Historical power
-- **[[Port Sorrow Trading Company]]** - Aggressive competitor
+- **[[02_Worldbuilding/Factions/Shadowhaven Merchant Marine]]** - Primary claimant
+- **[[02_Worldbuilding/Factions/The Crimson Tide Pirates]]** - Major threat
+- **[[02_Worldbuilding/Factions/Ancient Mer-Folk Empire]]** - Historical power
+- **[[02_Worldbuilding/Factions/Port Sorrow Trading Company]]** - Aggressive competitor
 
 ### Connected Quests
-- **[[01_Campaigns/Campaign_Name/Quests/The Vanishing Merchant Vessels.md]]** - Ships disappearing in these waters
-- **[[The Lighthouse War]]** - Battle for strategic navigation control
-- **[[Diplomatic Immunity]]** - Negotiate between warring factions
-- **[[Treasures of the Deep]]** - Underwater exploration opportunities
+- **[[05_Templates/Example_Campaign/Quests/The Vanishing Merchant Vessels]]** - Ships disappearing in these waters
+- **[[05_Templates/Example_Campaign/Quests/The Lighthouse War]]** - Battle for strategic navigation control
+- **[[05_Templates/Example_Campaign/Quests/Diplomatic Immunity]]** - Negotiate between warring factions
+- **[[05_Templates/Example_Campaign/Quests/Treasures of the Deep]]** - Underwater exploration opportunities
 
 ### Relevant Locations
-- **[[Whisper Rock Lighthouse]]** - Strategic landmark
-- **[[The Graveyard of Ships]]** - Underwater treasure site
-- **[[01_Campaigns/Campaign_Name/Locations/Bloodwater Shoals.md|Bloodwater Shoals]]** - Dangerous reef system
-- **[[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]** - Primary staging port
+- **[[05_Templates/Example_Campaign/Locations/Whisper Rock Lighthouse]]** - Strategic landmark
+- **[[05_Templates/Example_Campaign/Locations/The Graveyard of Ships]]** - Underwater treasure site
+- **[[05_Templates/Example_Campaign/Locations/Bloodwater Shoals|Bloodwater Shoals]]** - Dangerous reef system
+- **[[05_Templates/Example_Campaign/Locations/Shadowhaven]]** - Primary staging port
 
 ---
 

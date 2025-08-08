@@ -23,14 +23,14 @@ consciousness_fragments: 10000
 portrait: ""
 relationship_type: "ruler"
 relationships: 
-  - "[[Shadow Duchess Nyx]]"
-  - "[[Parliament of Echoes]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]"
   - "[[Marina Red Tide Coralheart - Aquabyssos]]"
 related_quests:
   - "[[Unite the Emperor]]"
   - "[[Investigate Shadow Conspiracy]]"
   - "[[The Emperor's Gambit]]"
-last_encounter: "[[Session 01 - The Drowning Welcome]]"
+last_encounter: "[[01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome]]"
 stats:
   str: Variable
   dex: Variable
@@ -112,10 +112,10 @@ When shadows began gaining independence 50 years ago, Malachus realized that a s
 ## Relationships
 
 ### Complex Dynamics
-- **[[Shadow Duchess Nyx]]:** Knows she's investigating but can't act cohesively
-- **[[Parliament of Echoes]]:** Technically rules but can't enforce
+- **[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]:** Knows she's investigating but can't act cohesively
+- **[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]:** Technically rules but can't enforce
 - **[[Marina Red Tide Coralheart - Aquabyssos]]:** One fragment trusts her, others don't
-- **[[Senator Glaucus]]:** All fragments know he's a shadow
+- **[[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]:** All fragments know he's a shadow
 
 ### The Fragment Wars
 Different consciousness fragments have different relationships:

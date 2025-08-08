@@ -8,10 +8,10 @@ modified: 2025-07-23 17:20
 # The Siren's Revenge
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
-The Siren's Revenge is a fast and heavily armed smuggling vessel that is the flagship of the Shadowhaven Smugglers Ring. It is captained by the notorious [[01_Campaigns/Campaign_Name/NPCs/Scar "The Navigator" Kellian.md]].
+The Siren's Revenge is a fast and heavily armed smuggling vessel that is the flagship of the Shadowhaven Smugglers Ring. It is captained by the notorious [[05_Templates/Example_Campaign/NPCs/Scar "The Navigator" Kellian]].
 
 ## GM Notes
 - The ship is a formidable opponent, and it is a match for any vessel in the Shadowhaven Navy.

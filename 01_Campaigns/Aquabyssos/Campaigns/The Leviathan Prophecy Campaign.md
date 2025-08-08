@@ -19,8 +19,8 @@ key_npcs:
   - "[[The Parasite Priests]]"
   - "[[Captain Marrow Drinker]]"
 connected_campaigns:
-  - "[[The Depth Mother's Dream Campaign]]"
-  - "[[Aethermoor Campaign Overview]]"
+  - "[[01_Campaigns/Aquabyssos/Campaigns/The Depth Mother's Dream Campaign]]"
+  - "[[01_Campaigns/Aethermoor/Aethermoor Campaign Overview]]"
 status: "Ready to Run"
 ---
 

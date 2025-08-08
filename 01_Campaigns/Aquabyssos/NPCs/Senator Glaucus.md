@@ -4,7 +4,7 @@ first_name: "Glaucus"
 last_name: "Tidecaller"
 title: "Senator"
 location: "[[Abyssos Prime - Parliament of Echoes]]"
-faction: "[[Parliament of Echoes]]"
+faction: "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]"
 secondary_faction: "[[Shadow Conspiracy]]"
 occupation: "Senator (Shadow-replaced)"
 disposition: -2
@@ -24,14 +24,14 @@ depth_adapted: 4
 portrait: ""
 relationship_type: "political"
 relationships: 
-  - "[[The Scattered Emperor]]"
-  - "[[Shadow Duchess Nyx]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]"
   - "[[Marina Red Tide Coralheart - Aquabyssos]]"
   - "[[Original Glaucus]] (imprisoned)"
 related_quests:
   - "[[Investigate Shadow Conspiracy]]"
   - "[[Shadow Citizenship Act]]"
-last_encounter: "[[Session 01 - The Drowning Welcome]]"
+last_encounter: "[[01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome]]"
 stats:
   str: 10
   dex: 14
@@ -71,23 +71,23 @@ Senator Glaucus appears as a tall, unnaturally thin figure whose translucent ski
 The original Glaucus was a respected senator, advocate for surface-depth trade relations, and opponent of isolation policies. He investigated shadow anomalies three weeks ago and disappeared for two days.
 
 ### The Replacement
-Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
+Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent forced shadow separation. His shadow gained independence and replaced him, while the original was imprisoned in the [[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]]. The shadow retained all of Glaucus's memories but none of his morality.
 
 ### Current Activities
 - Pushing for the [[Shadow Citizenship Act]]
 - Identifying targets for shadow replacement
-- Maintaining cover while serving [[Shadow Duchess Nyx]]
+- Maintaining cover while serving [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
 - Sabotaging investigations into shadow conspiracy
 
 ## Relationships
 
 ### Allies
-- **[[Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy
+- **[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy
 - **[[Shadow Parliament]]** - Secret organization of replaced officials
 - **[[Tenebrarum Ambassadors]]** - Fellow shadows
 
 ### Rivals
-- **[[The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
+- **[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
 - **[[Original Glaucus]]** - Imprisoned but still fighting mentally
 
 ### Unknowing Associates

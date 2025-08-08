@@ -9,8 +9,8 @@ race: Human
 class: Cleric/Inquisitor
 level: 16
 alignment: Lawful Evil (believes he's Good)
-location: "[[The Verdant Reach]]"
-faction: "[[Purist Coalition]]"
+location: "[[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]"
+faction: "[[01_Campaigns/Aethermoor/Factions/Purist Coalition]]"
 status: Alive
 created: 2024-12-20
 image: "Ω_Assets/NPCs/maltheos.jpg"
@@ -20,7 +20,7 @@ image: "Ω_Assets/NPCs/maltheos.jpg"
 *The Pure Flame, Cleanser of Corruption*
 
 ## Overview
-High Inquisitor Maltheos leads the [[Purist Coalition]] with fervent conviction that Aether Crystals are a divine curse that must be purged. Charismatic, intelligent, and utterly ruthless, he has transformed a peaceful movement into a militant force. Unknown to his followers, he is a descendant of one of the Seven Betrayers who shattered the Crown.
+High Inquisitor Maltheos leads the [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] with fervent conviction that Aether Crystals are a divine curse that must be purged. Charismatic, intelligent, and utterly ruthless, he has transformed a peaceful movement into a militant force. Unknown to his followers, he is a descendant of one of the Seven Betrayers who shattered the Crown.
 
 ## Appearance
 - **Age**: 52
@@ -96,15 +96,15 @@ High Inquisitor Maltheos leads the [[Purist Coalition]] with fervent conviction 
 - **The Crimson Fist** - Personal guard
 
 ### Enemies
-- [[Queen Seraphina Lumengarde]] - Must be destroyed
-- [[Lord Commander Gareth Steelborn]] - Respected but opposed
-- [[The Crystal Throne]] - Corrupt institution
-- [[Vex Shadowthorn]] - Embodies corruption
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Must be destroyed
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Respected but opposed
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Corrupt institution
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Embodies corruption
 
 ### Complicated
-- [[The Crimson Sage]] - Suspects their true nature
-- [[Archdruid Thornweaver]] - Natural ally but too passive
-- [[Prince Caspian Duskwater]] - Useful tool
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Suspects their true nature
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Natural ally but too passive
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Useful tool
 - Common people - Needs but distrusts them
 
 ## Secret Knowledge
@@ -184,7 +184,7 @@ Maltheos believes in ancient prophecy:
 ## Quest Involvement
 
 ### As Antagonist
-- [[Quest - Diplomatic Immunity]] - Refuses peace
+- [[01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity]] - Refuses peace
 - [[Quest - The Crystal Festival]] - Planning attack
 - Stop his extremist cells
 
@@ -207,12 +207,12 @@ Maltheos believes in ancient prophecy:
 
 ## Connected NPCs
 - [[Brother Marcus Steelbane]] - Wavering follower
-- [[Queen Seraphina Lumengarde]] - Primary target
-- [[The Crimson Sage]] - Suspects truth
-- [[Archdruid Thornweaver]] - Potential ally
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Primary target
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Suspects truth
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Potential ally
 
 ## Connected Locations
-- [[The Verdant Reach]] - Base of operations
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Base of operations
 - Monastery of Eternal Light - Headquarters
 - Every major city - Hidden cells
 

@@ -6,10 +6,10 @@ date_played:
 location: [[Tenebrarum]]
 depth: "3,000-4,000 ft"
 npcs_featured:
-  - [[Shadow Duchess Nyx]]
-  - [[Marina "Red Tide" Coralheart]]
+  - [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
+  - [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
   - [[Shadow Broker Mirrors]]
-  - [[The Silhouette Surgeons]]
+  - [[01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime]]
 status: "planned"
 party_level: 6
 estimated_time: "4 hours"
@@ -40,7 +40,7 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - The nightmare is actually a memory from last week
 - Dream Rails are powered by traumatic experiences  
 - Someone's been redirecting trains into specific nightmares
-- [[Marina "Red Tide" Coralheart|Marina's]] shadow has been sending messages ahead
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart|Marina's]] shadow has been sending messages ahead
 
 **Skill Challenges**:
 - **Investigation DC 15**: Find the dream anchor holding train
@@ -54,7 +54,7 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 **Discoveries**:
 - Shadows are considered separate legal entities here
 - A shadow court has issued warrants for the party
-- [[Shadow Duchess Nyx]] has immunity but won't extend it
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] has immunity but won't extend it
 - The checkpoint has holding cells full of separated shadows
 
 **Roleplay Challenge**:
@@ -68,9 +68,9 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 **Conflict**: Party's shadows are put up for bidding  
 **Discoveries**:
 - Child shadows being illegally harvested
-- [[The Silhouette Surgeons]] run a shadow breeding program
+- [[01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime]] run a shadow breeding program
 - Shadows can be modified like genetics
-- Someone's been buying all shadows from [[Abyssos Prime]]
+- Someone's been buying all shadows from [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]
 
 **Combat/Heist**:
 - **Option A**: Steal back shadows (stealth mission)
@@ -133,15 +133,15 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - Shadow Modification Kit (one-time use)
 - Map of Tenebrarum's surgical facilities
 - Shadow Broker contact information
-- Encrypted message from [[The Crimson Sage]]
+- Encrypted message from [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]
 - Temporary Shadow Independence Charm (24 hours)
 
 ## 🔍 Secrets & Clues
 1. The Shadow Harvest has already begun in minor settlements
-2. [[Shadow Duchess Nyx]] is hunting her original shadow
+2. [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] is hunting her original shadow
 3. The surgeons have been creating hybrid beings for years
-4. [[Marina "Red Tide" Coralheart|Marina's]] shadow is actually the original Marina
-5. The [[Parliament of Echoes]] has a shadow duplicate parliament
+4. [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart|Marina's]] shadow is actually the original Marina
+5. The [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]] has a shadow duplicate parliament
 6. Someone in the party has been marked for priority harvest
 7. The [[Fear Farms]] are producing weapons-grade nightmares
 8. [[Crystallium]] is broadcasting shadow control frequencies
@@ -170,7 +170,7 @@ The party must choose who to trust as shadow enforcers surround their location.
 - The truth about Marina should remain ambiguous
 
 ## 📅 Next Session Prep
-- [[Session 06 - The Silhouette Surgeons]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons]]
 - Prepare Crystallium approach
 - Design shadow modification consequences
 - Plan Marina identity revelation

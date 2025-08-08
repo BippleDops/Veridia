@@ -5,8 +5,8 @@ tags:
   - political
 type: Faction
 alignment: Lawful Neutral
-headquarters: "[[Crystalhaven]]"
-leader: "[[Queen Seraphina Lumengarde]]"
+headquarters: "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]"
+leader: "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
 status: Active
 power_level: Dominant
 created: 2024-12-20
@@ -17,13 +17,13 @@ image: "Ω_Assets/Factions/crystal_throne.jpg"
 *The Royal Government of Aethermoor*
 
 ## Overview
-The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Crystalhaven]] and led by [[Queen Seraphina Lumengarde]]. They champion the controlled use of Aether Crystals for the betterment of society while maintaining order through the [[Crystal Wardens]]. The faction represents the establishment, promoting progress through crystal technology while trying to manage its dangers.
+The Crystal Throne is the ruling government of [[01_Campaigns/Aethermoor/Locations/Aethermoor]], centered in [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] and led by [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]. They champion the controlled use of Aether Crystals for the betterment of society while maintaining order through the [[Crystal Wardens]]. The faction represents the establishment, promoting progress through crystal technology while trying to manage its dangers.
 
 ## Leadership Structure
 
 ### Royal Council
-- **Monarch**: [[Queen Seraphina Lumengarde]] - Ultimate authority
-- **Lord Commander**: [[Lord Commander Gareth Steelborn]] - Military
+- **Monarch**: [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Ultimate authority
+- **Lord Commander**: [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military
 - **High Treasurer**: [[Lord Aurelius Goldwave]] - Finances
 - **Court Wizard**: [[Professor Aldric Crystalweaver]] - Magical affairs
 - **Spymaster**: [Position Vacant] - Intelligence
@@ -54,7 +54,7 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 > [!warning] DM Only
 > - Hide the Queen's corruption at all costs
 > - Gather the Seven Shards
-> - Prevent civil war between crystal supporters and [[Purist Coalition]]
+> - Prevent civil war between crystal supporters and [[01_Campaigns/Aethermoor/Factions/Purist Coalition]]
 > - Develop cure for crystal corruption
 > - Maintain power despite growing opposition
 
@@ -74,7 +74,7 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 
 ### Political Influence
 - Noble houses sworn to crown
-- [[Merchant Princes]] alliance
+- [[01_Campaigns/Aethermoor/Factions/Merchant Princes]] alliance
 - Control of legal system
 - Diplomatic relations
 
@@ -87,11 +87,11 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 ## Members
 
 ### Key Figures
-- [[Queen Seraphina Lumengarde]] - Leader
-- [[Lord Commander Gareth Steelborn]] - Military head
-- [[Captain Lyanna Brightshield]] - Rising star
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Leader
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military head
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Rising star
 - [[Professor Aldric Crystalweaver]] - Chief researcher
-- [[Master Artificer Korvin Gearwright]] - Innovation director
+- [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]] - Innovation director
 
 ### Rank Structure
 1. **The Monarch** - Supreme ruler
@@ -104,20 +104,20 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 ## Relationships
 
 ### Allies
-- **[[Merchant Princes]]** - Economic partnership
+- **[[01_Campaigns/Aethermoor/Factions/Merchant Princes]]** - Economic partnership
 - **Crystal Academy** - Research and development
 - **Noble Houses** - Traditional support
 - **[[High Priestess Celeste Dawnbringer]]** - Religious backing
 
 ### Enemies
-- **[[Purist Coalition]]** - Ideological opposition
-- **[[The Whisper Syndicate]]** - Criminal undermining
-- **[[Prince Caspian Duskwater]]** - Succession threat
+- **[[01_Campaigns/Aethermoor/Factions/Purist Coalition]]** - Ideological opposition
+- **[[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]** - Criminal undermining
+- **[[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]** - Succession threat
 - **[[The Verdant Accord]]** - Environmental opposition
 
 ### Neutral/Complex
 - **[[The Order of the Shattered Crown]]** - Suspicious monitoring
-- **[[Archdruid Thornweaver]]** - Tense negotiations
+- **[[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]** - Tense negotiations
 - **Foreign kingdoms** - Trade but wary
 
 ## Operations & Activities
@@ -154,8 +154,8 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 
 ## Current Issues
 1. Queen's hidden corruption
-2. Growing [[Purist Coalition]] support
-3. [[Quest - The Plague of Crystals]] crisis
+2. Growing [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] support
+3. [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] crisis
 4. Economic pressure from corruption costs
 5. Succession concerns (no clear heir)
 
@@ -182,11 +182,11 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 - Keep faction secrets
 
 ## Quest Hooks
-1. Investigate [[Purist Coalition]] infiltrators
-2. Diplomatic mission to [[The Verdant Reach]]
+1. Investigate [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] infiltrators
+2. Diplomatic mission to [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 3. Recover stolen royal artifacts
 4. Secret mission for the Queen
-5. Uncover [[The Whisper Syndicate]] plot
+5. Uncover [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] plot
 
 ## Faction Secrets
 > [!warning] DM Only
@@ -205,17 +205,17 @@ The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Cry
 
 ## Connected Factions
 - [[Crystal Wardens]] - Military arm
-- [[Merchant Princes]] - Economic allies
-- [[Purist Coalition]] - Primary opposition
-- [[The Whisper Syndicate]] - Criminal threat
+- [[01_Campaigns/Aethermoor/Factions/Merchant Princes]] - Economic allies
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - Primary opposition
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Criminal threat
 
 ## Connected Locations
-- [[Crystalhaven]] - Capital and HQ
-- [[Lumengarde]] - Core territory
-- [[Port Meridian]] - Major trade hub
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Capital and HQ
+- [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] - Core territory
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Major trade hub
 - All major cities - Governmental presence
 
 ## Key Quests
-- [[Quest - Diplomatic Immunity]] - Peace negotiations
-- [[Quest - The Plague of Crystals]] - Crisis management
-- [[Quest - The Seventh Shard]] - Secret search
+- [[01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity]] - Peace negotiations
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - Crisis management
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - Secret search

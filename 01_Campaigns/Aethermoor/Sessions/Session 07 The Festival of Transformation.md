@@ -4,9 +4,9 @@ title: "The Festival of Transformation"
 date_played: 
 location: "[[Crystal Festival Grounds]]"
 npcs_featured: 
-  - "[[Queen Seraphina Lumengarde]]"
-  - "[[Vex Shadowthorn]]"
-  - "[[Captain Lyanna Brightshield]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
   - "[[Brother Marcus Steelbane]]"
   - "[[Citizens of Meridian]]"
 quests_advanced:
@@ -42,7 +42,7 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 
 ### Scene 3: The Inner Sanctum
 - **Location**: Central ritual platform
-- **Situation**: Confront [[Vex Shadowthorn]] and the possessed Queen
+- **Situation**: Confront [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] and the possessed Queen
 - **Conflict**: Multiple objectives - save Queen, stop ritual, protect citizens
 - **Discovery**: The Queen is fighting to give the party openings
 
@@ -57,13 +57,13 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 1. The ritual can be partially redirected rather than stopped
 2. Citizens in the outer rings can still be saved
 3. The Queen's consciousness is strongest near her sister's artifacts
-4. [[Vex Shadowthorn]] has been promised rulership of the new world
+4. [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] has been promised rulership of the new world
 5. The entity needs willing participation from the bloodline
 6. Festival decorations hide ancient protective wards
-7. [[Captain Lyanna Brightshield]] has the Queen's true crown
+7. [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] has the Queen's true crown
 8. The transformation can be reversed within the first hour
 9. Breaking three anchor points destabilizes everything
-10. [[The Crimson Sage]] prepared a contingency inside the bloodline carrier
+10. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] prepared a contingency inside the bloodline carrier
 
 ## 👥 NPCs
 
@@ -117,14 +117,14 @@ The festival grounds pulse with violet energy. Thousands of citizens stand in co
 
 ## 🎭 Cliffhanger Ending
 
-As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [[Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards.
+As the bloodline carrier makes their choice, the ritual reaches critical mass. The sky shatters completely, revealing [[Aquabyssos]] descending from above like an inverted city. Water doesn't fall - it hangs in massive spheres. The entity's true form begins manifesting: a colossal crystalline figure made of thousands of absorbed souls. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] appears, burning with silver fire: "Now! While the barriers are weak! We can rewrite reality itself, but someone must anchor the new world order. Someone must become the seal." The bloodline carrier feels their body beginning to resonate with all seven shards.
 
 ## 🔗 Connected Notes
-- [[Quest - The Seventh Shard]]
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]]
 - [[Crystal Festival]]
-- [[Aquabyssos World Overview]]
-- [[Queen Seraphina Lumengarde]]
-- [[Vex Shadowthorn]]
+- [[01_Campaigns/Aethermoor/Lore/Aquabyssos World Overview]]
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]
 
 ## 📝 DM Notes
 ```

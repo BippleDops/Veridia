@@ -285,13 +285,13 @@ if (sessionsWithMusic.length >= 3) {
 
 ### Character Theme Songs
 Create musical signatures for important NPCs:
-- **[[01_Campaigns/Campaign_Name/NPCs/Councillor Elara Brightwater.md]]**: Noble, political themes
-- **[[01_Campaigns/Campaign_Name/NPCs/Marina Saltwhisper.md]]**: Sea shanties and tavern folk music
-- **[[01_Campaigns/Campaign_Name/NPCs/Whisper Jack.md]]**: Mysterious, stealthy ambient tracks
+- **[[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]**: Noble, political themes
+- **[[05_Templates/Example_Campaign/NPCs/Marina Saltwhisper]]**: Sea shanties and tavern folk music
+- **[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]**: Mysterious, stealthy ambient tracks
 
 ### Location Soundtracks  
 Assign specific playlists to major locations:
-- **[[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]**: Urban fantasy, bustling city ambience
+- **[[05_Templates/Example_Campaign/Locations/Shadowhaven]]**: Urban fantasy, bustling city ambience
 - **The Whispering Tide Tavern**: Folk music and ambient chatter
 - **Undercity**: Dark ambient, urban decay atmosphere
 

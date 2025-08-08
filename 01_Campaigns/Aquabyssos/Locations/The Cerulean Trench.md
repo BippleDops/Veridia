@@ -10,7 +10,7 @@ depth: "5000-15000 feet"
 # The Cerulean Trench - The Drowning Scar
 
 ## Overview
-The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[The Great Drowning]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[The Cerulean Breath]] in its most concentrated form. Strange creatures, ancient ruins, and reality-warping phenomena make it one of the most dangerous regions in [[Aquabyssos World Overview|Aquabyssos]].
+The Cerulean Trench is a massive underwater canyon that many believe was the origin point of [[The Great Drowning]]. Stretching for hundreds of miles and plunging to unknown depths, its waters glow with an unnatural blue light - pure [[The Cerulean Breath]] in its most concentrated form. Strange creatures, ancient ruins, and reality-warping phenomena make it one of the most dangerous regions in [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]].
 
 ## Regions
 
@@ -24,7 +24,7 @@ Vertical cliff faces lined with glowing crystalline formations. [[The Trencher F
 A region where water pressure creates natural formations resembling gothic architecture. [[Mad Prophet Silas the Depth-Touched]] claims to receive visions from [[The Deepmind]] here.
 
 ### The Void Gardens (12000-15000 feet)
-Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[Lumengarde]].
+Forests of giant kelp that shouldn't exist at this depth, feeding on the Cerulean Breath itself. [[Doctor Silas Voidtouch]] harvests specimens here for his experiments in [[01_Campaigns/Aquabyssos/Locations/Lumengarde]].
 
 ### The Unknown Deep (15000+ feet)
 No one who has descended below 15000 feet has returned sane. Expedition logs speak of "singing stones" and "the dreaming city."
@@ -32,7 +32,7 @@ No one who has descended below 15000 feet has returned sane. Expedition logs spe
 ## Notable Features
 
 ### The Drowning Gate
-Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
+Massive stone archway at 8000 feet, covered in pre-drowning runes. Water passing through takes on deeper blue coloration. [[01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought]] believes it's a portal to the source of the flooding.
 
 ### The Memory Streams
 Currents of pure Cerulean Breath that show visions of the past to those who swim through them. Highly addictive and mentally dangerous.
@@ -95,7 +95,7 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - Trencher Folk offering to guide party for mysterious payment
 - Missing [[Depth Wardens]] patrol needs rescue
 - Rare component only found in Void Gardens needed
-- Visions in [[New Tethys]] pointing to something in the trench
+- Visions in [[01_Campaigns/Aquabyssos/Locations/New Tethys]] pointing to something in the trench
 
 ## Random Encounters (d12)
 1. Trencher Folk trading party, speaking in whispers
@@ -116,13 +116,13 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - [[Scout Captain Vera Deepwatch]] - Depth Warden commander
 - [[Mad Prophet Silas the Depth-Touched]] - Receives visions
 - [[Doctor Silas Voidtouch]] - Harvests specimens
-- [[Sage Lysander Deepthought]] - Studies the anomaly
+- [[01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought]] - Studies the anomaly
 
 ## Connected Locations
-- [[Pressure's End]] - Monitors the trench
-- [[The Primordial Vaults]] - May connect at deepest levels
+- [[01_Campaigns/Aquabyssos/Locations/Pressure's End]] - Monitors the trench
+- [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]] - May connect at deepest levels
 - [[The Hadal Depths]] - Overlapping territory
-- [[The Wandering Atoll]] - Floats above occasionally
+- [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]] - Floats above occasionally
 
 ## Associated Quests
 - [[Into the Blue]] - Investigate the increasing glow

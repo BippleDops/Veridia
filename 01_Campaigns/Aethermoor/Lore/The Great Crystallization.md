@@ -16,7 +16,7 @@ image: "Ω_Assets/Lore/great_crystallization.jpg"
 
 ## The Event
 
-On the 17th day of Highsummer, exactly 500 years ago, the world of [[Aethermoor]] changed forever. At the moment of solar eclipse, seven massive crystal spires erupted from the earth simultaneously across the continent. The sky itself seemed to shatter, raining down crystal fragments that embedded themselves in the ground, growing into the Aether Crystal formations we know today.
+On the 17th day of Highsummer, exactly 500 years ago, the world of [[01_Campaigns/Aethermoor/Locations/Aethermoor]] changed forever. At the moment of solar eclipse, seven massive crystal spires erupted from the earth simultaneously across the continent. The sky itself seemed to shatter, raining down crystal fragments that embedded themselves in the ground, growing into the Aether Crystal formations we know today.
 
 ## The Moment of Shattering
 
@@ -35,13 +35,13 @@ On the 17th day of Highsummer, exactly 500 years ago, the world of [[Aethermoor]
 ## The Seven Spires
 
 ### Primary Eruption Sites
-1. **The Northern Spire** - Now center of [[The Crystalline Wastes]]
-2. **The Eastern Spire** - Heart of [[The Sundered Peaks]]
-3. **The Southern Spire** - Deep in [[The Verdant Reach]]
+1. **The Northern Spire** - Now center of [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]]
+2. **The Eastern Spire** - Heart of [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]
+3. **The Southern Spire** - Deep in [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 4. **The Western Spire** - Beneath the waves of [[The Azure Coast]]
-5. **The Central Spire** - Where [[Crystalhaven]] was built
+5. **The Central Spire** - Where [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] was built
 6. **The Desert Spire** - Center of [[The Whispering Expanse]]
-7. **The Shadow Spire** - Lost in [[The Shadowmere]]
+7. **The Shadow Spire** - Lost in [[01_Campaigns/Aethermoor/Locations/The Shadowmere]]
 
 ### The Crystal Types
 Each spire produced different crystal variants:
@@ -56,18 +56,18 @@ Each spire produced different crystal variants:
 ## Theories of Causation
 
 ### The Orthodox View
-The [[Purist Coalition]] teaches that mortal hubris brought divine punishment. The God-King Aetheron's pride grew too great, and the heavens struck him down, shattering his crown and cursing the land with crystalline corruption.
+The [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] teaches that mortal hubris brought divine punishment. The God-King Aetheron's pride grew too great, and the heavens struck him down, shattering his crown and cursing the land with crystalline corruption.
 
 ### The Progressive Theory
-[[The Crystal Throne]] scholars believe it was a natural magical phenomenon, possibly triggered by an alignment of ley lines or a surge from another plane. The crystals are a resource to be understood and harnessed.
+[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] scholars believe it was a natural magical phenomenon, possibly triggered by an alignment of ley lines or a surge from another plane. The crystals are a resource to be understood and harnessed.
 
 ### The Heretical Truth
 > [!warning] DM Only - The Real Story
-> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its seven shards piercing the earth. Aetheron fell but did not die, becoming [[The Crimson Sage]].
+> God-King Aetheron was betrayed by his seven most trusted advisors, each representing a different aspect of mortal ambition. They attempted to steal his Crown of Stars to claim divinity for themselves. In the struggle, the crown shattered, its seven shards piercing the earth. Aetheron fell but did not die, becoming [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]].
 
 ## The Seven Betrayers
 > [!warning] DM Only - Secret History
-> 1. **Marcus the Just** - Wanted perfect order (ancestor of [[High Inquisitor Maltheos]])
+> 1. **Marcus the Just** - Wanted perfect order (ancestor of [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]])
 > 2. **Seraphina the Beautiful** - Craved eternal youth (ancestor of the Lumengarde line)
 > 3. **Goldwin the Merchant** - Desired infinite wealth (ancestor of [[Lord Aurelius Goldwave]])
 > 4. **Shadowthorn the Assassin** - Sought ultimate power over death
@@ -152,9 +152,9 @@ Was the Crystallization:
 - Deliberate transformation?
 
 ## Connection to Current Events
-- [[Quest - The Plague of Crystals]] may be sign of change
-- [[The Crimson Sage]] investigations intensifying
-- [[Queen Seraphina Lumengarde]]'s corruption accelerating
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] may be sign of change
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] investigations intensifying
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s corruption accelerating
 - The Seven Shards becoming active
 - Time distortions increasing
 
@@ -163,7 +163,7 @@ The Great Crystallization is the defining event of the campaign world. Its true 
 
 ## Related Topics
 - [[The Shattering of the Crown]] - The moment itself
-- [[The Seven Shards]] - Fragments of divine power
+- [[01_Campaigns/Aethermoor/Lore/The Seven Shards]] - Fragments of divine power
 - [[The Crown of Stars]] - The original artifact
 - [[Aetheron]] - The fallen god-king
 - [[The Seven Betrayers]] - Those who caused it

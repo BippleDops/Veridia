@@ -8,8 +8,8 @@ modified: 2025-07-23 13:40
 # Shadows in High Places
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Whisper Jack.md]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Whisper Jack]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Quest Details
 The party is hired by Whisper Jack to investigate a conspiracy that goes all the way to the top of the Shadowhaven city government.

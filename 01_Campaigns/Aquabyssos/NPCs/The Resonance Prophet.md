@@ -157,10 +157,10 @@ Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harm
 - *"Truth has a frequency. Lies create static. Why choose discord?"*
 
 ## 🔗 Relationships
-- **[[The Silhouette Surgeon Prime]]**: Finds their work "off-key"
-- **[[Shadow Duchess Nyx]]**: Recognizes her as necessary dissonance
+- **[[01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime]]**: Finds their work "off-key"
+- **[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]**: Recognizes her as necessary dissonance
 - **[[The Sorrowmaster]]**: Their emotional resonance is fascinating
-- **[[The Scattered Emperor]]**: Too many frequencies at once
+- **[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]**: Too many frequencies at once
 
 ## 🏠 Lair: The Singing Citadel
 

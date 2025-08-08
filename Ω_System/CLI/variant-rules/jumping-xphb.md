@@ -14,4 +14,4 @@ modified: 2025-07-23 12:39
 
 When you jump, you make either a [Long Jump](/3-Mechanics/CLI/variant-rules/long-jump-xphb.md) (horizontal) or a [High Jump](/3-Mechanics/CLI/variant-rules/high-jump-xphb.md) (vertical).
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

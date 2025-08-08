@@ -6,8 +6,8 @@ tags:
   - underworld
 type: Faction
 alignment: Neutral Evil
-headquarters: "[[Crystalhaven]]" (Hidden)
-leader: "[[Vex Shadowthorn]]"
+headquarters: "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]" (Hidden)
+leader: "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]"
 status: Active
 power_level: Shadow Power
 created: 2024-12-20
@@ -18,7 +18,7 @@ image: "Ω_Assets/Factions/whisper_syndicate.jpg"
 *In Shadows We Trust, In Secrets We Trade*
 
 ## Overview
-The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, dealing in corrupted crystals, blackmail, and forbidden knowledge. Under [[Vex Shadowthorn]]'s leadership, they've evolved from common criminals into a shadow government that knows everyone's secrets and profits from the kingdom's corruption.
+The Whisper Syndicate is [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s most powerful criminal organization, dealing in corrupted crystals, blackmail, and forbidden knowledge. Under [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]'s leadership, they've evolved from common criminals into a shadow government that knows everyone's secrets and profits from the kingdom's corruption.
 
 ## Criminal Empire
 
@@ -30,7 +30,7 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 - **Corruption**: Bribe officials at every level
 
 ### Legal Fronts
-- **The Gilded Serpent**: Casino in [[Port Meridian]]
+- **The Gilded Serpent**: Casino in [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
 - **Shadowthorn Trading**: Import/export company
 - **The Velvet Room**: High-end entertainment
 - **Crystal Remedies**: "Medical" crystal supplies
@@ -39,15 +39,15 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 ## Organization Structure
 
 ### Leadership
-- **The Whisper**: [[Vex Shadowthorn]] - Absolute leader
+- **The Whisper**: [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Absolute leader
 - **The Five Shadows**: Regional commanders
 - **Shadow Captains**: City operations leaders
 - **Whisper Agents**: Elite operatives
 - **Street Shadows**: Common criminals
 
 ### The Five Shadows
-1. **[[Marcus "The Shade" Blackwood]]** - [[Crystalhaven]] operations
-2. **[[Marina "Red Tide" Coralheart]]** - Maritime smuggling
+1. **[[Marcus "The Shade" Blackwood]]** - [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] operations
+2. **[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]** - Maritime smuggling
 3. **Silas the Silent** - Information networks
 4. **Crimson Widow** - Assassination guild
 5. **The Accountant** - Financial crimes
@@ -101,8 +101,8 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 > - Infiltrating [[Crystal Wardens]]
 
 ### Territory Control
-- **[[Crystalhaven]]**: Shadow Warren district
-- **[[Port Meridian]]**: Dock operations
+- **[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]**: Shadow Warren district
+- **[[01_Campaigns/Aethermoor/Locations/Port Meridian]]**: Dock operations
 - **Every Major City**: Cells operating
 - **Trade Routes**: "Protection" rackets
 - **Crystal Mines**: Illegal operations
@@ -111,20 +111,20 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 
 ### Enemies
 - [[Crystal Wardens]] - Active opposition
-- [[Lord Commander Gareth Steelborn]] - Sworn enemy
-- [[Captain Lyanna Brightshield]] - Investigating
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Sworn enemy
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Investigating
 - Honest merchants - Competition
 
 ### Clients
 - Corrupt nobles needing services
-- [[Queen Seraphina Lumengarde]] - Blackmail victim
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Blackmail victim
 - Foreign spies
 - Anyone desperate enough
 
 ### Complicated
-- [[Purist Coalition]] - Sometimes hire them
-- [[Prince Caspian Duskwater]] - Potential alliance
-- [[The Crimson Sage]] - Mutual awareness
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - Sometimes hire them
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Potential alliance
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Mutual awareness
 - Other criminal groups - Competition/cooperation
 
 ## The Shadow Code
@@ -151,7 +151,7 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 
 ### The Shard Hunt
 > [!warning] DM Only
-> [[Vex Shadowthorn]] knows about Seven Shards, actively seeking them. Has detailed intelligence network focused on finding them.
+> [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] knows about Seven Shards, actively seeking them. Has detailed intelligence network focused on finding them.
 
 ### Royal Blackmail
 > [!warning] DM Only
@@ -176,14 +176,14 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 ## Safe Houses & Hideouts
 
 ### The Corroded Crown (Tavern)
-- [[Crystalhaven]] headquarters
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] headquarters
 - Secret underground complex
 - Meeting rooms
 - Escape tunnels
 - Torture chambers
 
 ### The Gilded Serpent (Casino)
-- [[Port Meridian]] base
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] base
 - Money laundering
 - High-stakes games
 - Blackmail operations
@@ -222,20 +222,20 @@ The Whisper Syndicate is [[Aethermoor]]'s most powerful criminal organization, d
 - Vex's death wouldn't destroy organization
 
 ## Connected Factions
-- [[The Crystal Throne]] - Undermining
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Undermining
 - [[Crystal Wardens]] - Active conflict
-- [[Merchant Princes]] - Extortion/cooperation
+- [[01_Campaigns/Aethermoor/Factions/Merchant Princes]] - Extortion/cooperation
 - Foreign criminal organizations
 
 ## Connected NPCs
-- [[Vex Shadowthorn]] - Leader
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Leader
 - [[Marcus "The Shade" Blackwood]] - Commander
-- [[Marina "Red Tide" Coralheart]] - Smuggling
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Smuggling
 - [[Jasper "Three-Eyes" Flint]] - Information
 
 ## Connected Locations
-- [[Crystalhaven]] - Main base
-- [[Port Meridian]] - Smuggling hub
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Main base
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Smuggling hub
 - [[The Shadow Warren]] - Territory
 - Every major city - Operations
 

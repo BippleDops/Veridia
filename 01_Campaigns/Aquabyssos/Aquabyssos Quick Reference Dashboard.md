@@ -9,7 +9,7 @@ cssclass: dashboard
 ## Essential DM Tools for Underwater Horror
 
 > [!tip] Navigation
-> - [[#Core Mechanics|Core Mechanics]] • [[#Quick Tables|Quick Tables]] • [[#NPC Generator|NPCs]] • [[#Environmental Effects|Environment]] • [[#Session Tools|Session Tools]]
+> - Core Mechanics • Quick Tables • NPC Generator • Environmental Effects • Session Tools
 
 ---
 
@@ -281,16 +281,16 @@ graph LR
 ## 📚 Quick Links
 
 ### Essential References
-- [[Depth Adaptation System]]
-- [[Aquabyssos Survival Mechanics]]
-- [[Continental Connections & Story Weave]]
+- [[01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System]]
+- [[01_Campaigns/Aquabyssos/Mechanics/Aquabyssos Survival Mechanics]]
+- [[01_Campaigns/Aquabyssos/Lore/Continental Connections & Story Weave]]
 - [[Shadow Separation Rules]]
 
 ### Current Campaign
-- [[The Parliament of Shadows Campaign]]
-- [[Session 04 - High Tide Horror|Latest Session]]
-- [[Shadow Duchess Nyx|Key NPC]]
-- [[The Inverse Palace|Current Location]]
+- [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror|Latest Session]]
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx|Key NPC]]
+- [[01_Campaigns/Aquabyssos/Locations/The Inverse Palace|Current Location]]
 
 ### Tools & Tables
 - [[Random Encounter Tables]]

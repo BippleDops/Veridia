@@ -20,17 +20,17 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 ## Geography
 
 ### Major Regions
-- **[[The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
-- **[[Lumengarde]]** - Central kingdom, center of crystal technology
-- **[[The Verdant Reach]]** - Southern forests resisting crystal expansion
-- **[[The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
+- **[[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
+- **[[01_Campaigns/Aquabyssos/Locations/Lumengarde]]** - Central kingdom, center of crystal technology
+- **[[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]** - Southern forests resisting crystal expansion
+- **[[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
 - **[[The Azure Coast]]** - Western trading ports and naval power
 - **[[The Whispering Expanse]]** - Mysterious desert where crystals sing
-- **[[The Shadowmere]]** - Corrupted swamplands in the southeast
+- **[[01_Campaigns/Aethermoor/Locations/The Shadowmere]]** - Corrupted swamplands in the southeast
 
 ### Major Cities
-- **[[Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
-- **[[Port Meridian]]** - Largest trading hub on the Azure Coast
+- **[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
+- **[[01_Campaigns/Aethermoor/Locations/Port Meridian]]** - Largest trading hub on the Azure Coast
 - **[[Ironhold]]** - Dwarven stronghold in the Sundered Peaks
 - **[[Sylvanheart]]** - Elven sanctuary in the Verdant Reach
 
@@ -42,26 +42,26 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 When the God-King Aetheron ruled with the Crown of Stars, maintaining perfect order through divine mandate.
 
 #### The Shattering (500 years ago)
-[[The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[The Shattering of the Crown]].
+[[01_Campaigns/Aethermoor/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[The Shattering of the Crown]].
 
 #### The Crystal Age (Present)
-Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[Purist Coalition]], and other factions vying for control.
+Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[01_Campaigns/Aethermoor/Factions/Purist Coalition]], and other factions vying for control.
 
 ## Current Political Landscape
 
 ### Major Powers
-- **[[The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
+- **[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
 - **[[The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
-- **[[The Merchant Princes]]** - Control trade routes and crystal commerce
+- **[[01_Campaigns/Aethermoor/Factions/Merchant Princes]]** - Control trade routes and crystal commerce
 - **[[The Order of the Shattered Crown]]** - Seeks to reforge the Crown of Stars
-- **[[The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
+- **[[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
 
 ### Key Figures
-- **[[Queen Seraphina Lumengarde]]** - Current ruler of the Crystal Throne
-- **[[Archdruid Thornweaver]]** - Leader of the Verdant Accord
-- **[[Lord Commander Gareth Steelborn]]** - Head of the Crystal Wardens
-- **[[The Crimson Sage]]** - Mysterious figure researching crystal corruption
-- **[[Prince Caspian Duskwater]]** - Exiled heir plotting return
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]** - Current ruler of the Crystal Throne
+- **[[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]** - Leader of the Verdant Accord
+- **[[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]]** - Head of the Crystal Wardens
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]** - Mysterious figure researching crystal corruption
+- **[[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]** - Exiled heir plotting return
 
 ## Magic & Technology
 
@@ -89,13 +89,13 @@ Extended use causes **Aether Sickness**:
 ## Current Events
 
 ### The Crystal Plague
-A new form of corruption spreading through [[Port Meridian]], investigated in [[Quest - The Plague of Crystals]].
+A new form of corruption spreading through [[01_Campaigns/Aethermoor/Locations/Port Meridian]], investigated in [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]].
 
 ### The Lost Expedition
-[[Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[The Crystalline Wastes]].
+[[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]].
 
 ### Rising Tensions
-The [[Purist Coalition]] grows stronger, threatening civil war. Their leader, [[High Inquisitor Maltheos]], calls for the destruction of all crystals.
+The [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] grows stronger, threatening civil war. Their leader, [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]], calls for the destruction of all crystals.
 
 ### The Prophecy
 [[The Oracle of the Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
@@ -110,10 +110,10 @@ The [[Purist Coalition]] grows stronger, threatening civil war. Their leader, [[
 ## DM Secrets
 > [!warning] DM Only
 > - The Seven Shards of the Crown are sentient and seeking reunion
-> - [[The Crimson Sage]] is actually Aetheron, the shattered god, in mortal form
+> - [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] is actually Aetheron, the shattered god, in mortal form
 > - The crystals are slowly merging the Material Plane with the Astral Sea
-> - [[Queen Seraphina Lumengarde]] is in Stage 2 corruption, hidden by illusions
-> - The [[Whisper Syndicate]] is run by [[Vex Shadowthorn]], who is collecting shards
+> - [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] is in Stage 2 corruption, hidden by illusions
+> - The [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] is run by [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]], who is collecting shards
 
 ## Random Encounters
 
@@ -123,25 +123,25 @@ The [[Purist Coalition]] grows stronger, threatening civil war. Their leader, [[
 | 5-8 | [[Crystal Wardens]] patrol checking for corruption |
 | 9-12 | Merchant caravan with crystal goods |
 | 13-15 | Wild magic surge from unstable crystals |
-| 16-17 | [[Purist Coalition]] protesters |
+| 16-17 | [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] protesters |
 | 18-19 | Corrupted beast (crystal-infused) |
 | 20 | Mysterious figure offering crystal enhancement |
 
 ## Connected Locations
-- [[Crystalhaven]] - Capital city
-- [[The Crystalline Wastes]] - Northern wasteland
-- [[Port Meridian]] - Major trade hub
-- [[The Sundered Peaks]] - Mountain range
-- [[The Verdant Reach]] - Southern forests
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Capital city
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Northern wasteland
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Major trade hub
+- [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]] - Mountain range
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Southern forests
 
 ## Key NPCs
-- [[Queen Seraphina Lumengarde]] - Ruler
-- [[Lord Commander Gareth Steelborn]] - Military leader
-- [[The Crimson Sage]] - Mysterious researcher
-- [[Archdruid Thornweaver]] - Opposition leader
-- [[Captain Thaddeus Blackwater]] - Explorer
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Ruler
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military leader
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Mysterious researcher
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Opposition leader
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]] - Explorer
 
 ## Active Quests
-- [[Quest - The Plague of Crystals]] - Investigate the corruption spreading
-- [[Quest - The Seventh Shard]] - Search for the lost crown fragment
-- [[Quest - Diplomatic Immunity]] - Negotiate peace between factions
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - Investigate the corruption spreading
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - Search for the lost crown fragment
+- [[01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity]] - Negotiate peace between factions

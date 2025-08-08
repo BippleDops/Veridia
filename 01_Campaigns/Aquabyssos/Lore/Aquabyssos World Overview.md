@@ -19,26 +19,26 @@ The waters of Aquabyssos are not merely ocean - they are suffused with an ancien
 ## Major Regions
 
 ### The Twilight Reaches
-The uppermost layer (0-500 feet), where filtered sunlight still penetrates. Home to [[New Tethys]], the largest city-state, built within the drowned spires of the old capital.
+The uppermost layer (0-500 feet), where filtered sunlight still penetrates. Home to [[01_Campaigns/Aquabyssos/Locations/New Tethys]], the largest city-state, built within the drowned spires of the old capital.
 
 ### The Gloom Gardens
-(500-2000 feet) Bioluminescent kelp forests and coral cities. Contains [[Lumengarde]] and [[The Phosphor Markets]].
+(500-2000 feet) Bioluminescent kelp forests and coral cities. Contains [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] and [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]].
 
 ### The Midnight Expanse
-(2000-5000 feet) The political heart of Aquabyssos, housing [[Pressure's End]] and the [[Bathyal Palace]].
+(2000-5000 feet) The political heart of Aquabyssos, housing [[01_Campaigns/Aquabyssos/Locations/Pressure's End]] and the [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]].
 
 ### The Hadal Depths
-(5000+ feet) The mysterious deep where [[The Trencher Folk]] dwell and where the [[Primordial Vaults]] supposedly lie.
+(5000+ feet) The mysterious deep where [[The Trencher Folk]] dwell and where the [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]] supposedly lie.
 
 ### The Bubble Zones
-Magical air pockets preserved around certain ancient sites, including [[Old Valdris]] and [[The Sunken Cathedral of Stars]].
+Magical air pockets preserved around certain ancient sites, including [[01_Campaigns/Aquabyssos/Locations/Old Valdris]] and [[01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars]].
 
 ## Current Political Climate
 The realm is divided between:
-- **The Tethyan Hegemony**: Controls trade and the upper reaches, led by [[Archon Meredith Saltweaver]]
-- **The Depth Wardens**: Military control of the middle depths, commanded by [[Admiral Thorne Blackwater]]
-- **The Coral Courts**: Ancient noble houses adapted to underwater life, headed by [[Duke Cyrus Reefheart]]
-- **The Free Current**: Smugglers and rebels operating from [[The Wandering Atoll]]
+- **The Tethyan Hegemony**: Controls trade and the upper reaches, led by [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]]
+- **The Depth Wardens**: Military control of the middle depths, commanded by [[01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater]]
+- **The Coral Courts**: Ancient noble houses adapted to underwater life, headed by [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]]
+- **The Free Current**: Smugglers and rebels operating from [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]]
 
 ## Magic in Aquabyssos
 Magic is omnipresent but twisted by the aquatic environment:
@@ -92,8 +92,8 @@ The Aquabyssos Calendar marks time in "Tides" (months) and "Currents" (years):
 1. [[The Deep Uprising]]: Abyssal creatures organizing under a mysterious leader
 2. Missing pearl farms in the Twilight Reaches
 3. Political tension over [[The Bathyal Succession]]
-4. Discovery of intact pre-drowning ruins in [[The Cerulean Trench]]
-5. Mysterious disappearances near [[The Whispering Depths]]
+4. Discovery of intact pre-drowning ruins in [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]
+5. Mysterious disappearances near [[01_Campaigns/Aquabyssos/Locations/The Whispering Depths]]
 
 ## DM Secrets
 > [!warning] DM Only
@@ -106,29 +106,29 @@ The Aquabyssos Calendar marks time in "Tides" (months) and "Currents" (years):
 ## Plot Hooks
 - Ships from the surface world have started disappearing near Aquabyssos
 - Ancient waterbreathing apparatus are failing across the realm
-- A map to pre-drowning treasure has surfaced in [[The Phosphor Markets]]
-- Strange dreams plague those who sleep near [[The Primordial Vaults]]
+- A map to pre-drowning treasure has surfaced in [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]]
+- Strange dreams plague those who sleep near [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]
 - The [[Coral Courts]] seek adventurers to investigate sabotage
 
 ## Connected Locations
-- [[New Tethys]]
-- [[Lumengarde]]
-- [[Pressure's End]]
-- [[The Bathyal Palace]]
-- [[Old Valdris]]
-- [[The Sunken Cathedral of Stars]]
-- [[The Cerulean Trench]]
-- [[The Wandering Atoll]]
-- [[The Whispering Depths]]
-- [[The Phosphor Markets]]
+- [[01_Campaigns/Aquabyssos/Locations/New Tethys]]
+- [[01_Campaigns/Aquabyssos/Locations/Lumengarde]]
+- [[01_Campaigns/Aquabyssos/Locations/Pressure's End]]
+- [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]]
+- [[01_Campaigns/Aquabyssos/Locations/Old Valdris]]
+- [[01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars]]
+- [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]
+- [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]]
+- [[01_Campaigns/Aquabyssos/Locations/The Whispering Depths]]
+- [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]]
 
 ## Key NPCs
-- [[Archon Meredith Saltweaver]]
-- [[Admiral Thorne Blackwater]]
-- [[Duke Cyrus Reefheart]]
-- [[Prophet Nerida Voidgazer]]
-- [[Captain Garrett Stormcutter]]
-- [[Sage Lysander Deepthought]]
+- [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]]
+- [[01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater]]
+- [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]]
+- [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]]
+- [[01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter]]
+- [[01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought]]
 
 ## Major Factions
 - [[The Tethyan Hegemony]]

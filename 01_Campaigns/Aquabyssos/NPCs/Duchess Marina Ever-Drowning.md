@@ -65,7 +65,7 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 - Identity construction for spies
 
 ### Surface Operations
-- Controls 40% of [[Castellan Ironledger III]]'s information network (he doesn't know)
+- Controls 40% of [[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]'s information network (he doesn't know)
 - Owns gambling dens that collect desperate memories
 - Runs orphanages that harvest childhood innocence
 - Funds artists who paint prophecies
@@ -77,10 +77,10 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 - Owns the Depth Casino where souls are wagered
 
 ## Relationships
-- **[[Ambassador Nerida Deepcurrent]]:** Her protégé and unwitting pawn
+- **[[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]:** Her protégé and unwitting pawn
 - **High Priestess Scylla Deepdream:** Mutual disgust, forced cooperation
-- **[[Vex Shadowthorn]]:** Surface business partner (through intermediaries)
-- **[[Queen Seraphina Lumengarde]]:** Has memory of her before corruption
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]:** Surface business partner (through intermediaries)
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]:** Has memory of her before corruption
 - **That-Which-Swims-Between:** Owes it seven impossible memories
 - **Morpheus Tidecaller:** Former lover, now bitter rival
 
@@ -106,7 +106,7 @@ Her residence and headquarters:
 > - Owns the true memory of who shattered the Crown of Stars
 > - Is actually three people sharing one body (original, first drowning, current)
 > - Has economic leverage over every major faction
-> - Created [[Ambassador Nerida Deepcurrent]] from compiled memories
+> - Created [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]] from compiled memories
 > - Can kill people by selling their memory of how to breathe
 > - The Selenthian Dynasty treasure contains pre-universe artifacts
 

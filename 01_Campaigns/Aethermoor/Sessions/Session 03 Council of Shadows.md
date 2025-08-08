@@ -3,11 +3,11 @@ tags: [session, aethermoor, political, intrigue, murder]
 session_number: 3
 title: "Council of Shadows"
 date_played: 
-location: "[[Port Meridian]] - Noble Quarter"
+location: "[[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Noble Quarter"
 npcs_featured:
   - "[[Lord Aurelius Goldwave]]"
-  - "[[High Inquisitor Maltheos]]"
-  - "[[Captain Lyanna Brightshield]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
   - "[[Brother Marcus Steelbane]]"
   - "[[Silver Mask]]"
 quests_advanced:
@@ -50,7 +50,7 @@ The party is summoned to an emergency council, but arrives to find [[Lord Aureli
 
 ### Scene 2: The Secret Council
 **Location**: Hidden chamber beneath [[Cathedral of Light]]
-**Situation**: [[High Inquisitor Maltheos]] chairs emergency faction meeting
+**Situation**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] chairs emergency faction meeting
 **Conflict**: Accusations fly between all factions
 
 #### Faction Representatives
@@ -191,9 +191,9 @@ The Price:
 During the midnight market raid, [[Brother Marcus Steelbane]] arrives frantically. He's made a breakthrough—the plague isn't a disease, it's a transformation preparing hosts for something. As he explains, crystalline veins suddenly spread across his face. He gasps: "The Queen... at the Crystal Festival... seven shards unite... the Drowned God..." before collapsing into crystal stasis. The Festival is in one week.
 
 ## 🔗 Connections
-- **Previous**: [[Session 02 The Lighthouse of Storms]]
-- **Next**: [[Session 04 The Silverscale Gambit]]
-- **NPCs Introduced**: [[High Inquisitor Maltheos]], [[Silver Mask]]
+- **Previous**: [[01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms]]
+- **Next**: [[01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit]]
+- **NPCs Introduced**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]], [[Silver Mask]]
 - **Locations Visited**: [[Goldwave Manor]], [[Cathedral of Light]], [[Shadow Bazaar]]
 - **Items Gained**: Royal seal, Crystal fragment
 - **Factions**: Relations shifted based on party actions

@@ -13,7 +13,7 @@ status: "Alive"
 # Captain Garrett Stormcutter
 
 ## Overview
-Captain Garrett Stormcutter is [[Aquabyssos World Overview|Aquabyssos]]'s most successful "legitimate" merchant, operating from [[New Tethys]] and [[The Wandering Atoll]]. He maintains the facade of a profit-driven trader while secretly funding and supplying the [[Free Current]] rebellion. Still fully human after 40 years underwater through expensive magical preservation, he refuses adaptation on principle. His weathered face and grey-streaked beard mark him as one of the few who remember the surface world as an adult.
+Captain Garrett Stormcutter is [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]]'s most successful "legitimate" merchant, operating from [[01_Campaigns/Aquabyssos/Locations/New Tethys]] and [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]]. He maintains the facade of a profit-driven trader while secretly funding and supplying the [[Free Current]] rebellion. Still fully human after 40 years underwater through expensive magical preservation, he refuses adaptation on principle. His weathered face and grey-streaked beard mark him as one of the few who remember the surface world as an adult.
 
 ## Personality
 - **Charming**: Wins over enemies and allies alike
@@ -40,14 +40,14 @@ Captain Garrett Stormcutter is [[Aquabyssos World Overview|Aquabyssos]]'s most s
 
 ### Smuggling Operations
 - Weapons to [[The Free Current]]
-- Refugees to [[The Wandering Atoll]]
+- Refugees to [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]]
 - Forbidden knowledge from ruins
 - Anti-adaptation technology
 
 ## Relationships
 
 ### Public Allies
-- [[Archon Meredith Saltweaver]] - Major client (she doesn't know)
+- [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] - Major client (she doesn't know)
 - [[Merchant Delilah Currentrunner]] - Business partner
 - [[Market Master Cornelius Driftwood]] - Trading privileges
 - [[Banker Titus Goldcurrent]] - Financial backing
@@ -59,7 +59,7 @@ Captain Garrett Stormcutter is [[Aquabyssos World Overview|Aquabyssos]]'s most s
 - [[Engineer Brass Gearspin]] - Supplies technology
 
 ### Complicated Relationships
-- [[Admiral Thorne Blackwater]] - Mutual respect despite opposition
+- [[01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater]] - Mutual respect despite opposition
 - [[Enforcer Chief Mako Ironjaw]] - Constantly investigating him
 - [[Lucky Finn Dicetide]] - Gambling rival and friend
 
@@ -67,8 +67,8 @@ Captain Garrett Stormcutter is [[Aquabyssos World Overview|Aquabyssos]]'s most s
 Was a successful merchant captain when the drowning accelerated. Watched his home port sink beneath the waves. Lost his family but saved his ship, converting it for underwater travel. Has been secretly supporting resistance for 30 years while building legitimate business empire.
 
 ## Current Activities
-1. Planning massive supply run to [[The Wandering Atoll]]
-2. Investigating new route through [[The Cerulean Trench]]
+1. Planning massive supply run to [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]]
+2. Investigating new route through [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]
 3. Gathering intelligence on [[The Emergence]]
 4. Protecting identity of [[Shadow Broker Mist]]
 5. Searching for way to reverse drowning
@@ -82,8 +82,8 @@ Was a successful merchant captain when the drowning accelerated. Watched his hom
 
 ## Secrets
 > [!warning] DM Only
-> - Has map to undrowning artifact in [[The Primordial Vaults]]
-> - Daughter survived and lives adapted in [[Lumengarde]]
+> - Has map to undrowning artifact in [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]
+> - Daughter survived and lives adapted in [[01_Campaigns/Aquabyssos/Locations/Lumengarde]]
 > - Archon Saltweaver knows his true loyalty but uses him
 > - Possesses functioning pre-drowning radio equipment
 > - Plans to assassinate key Deepmind agents
@@ -97,9 +97,9 @@ Was a successful merchant captain when the drowning accelerated. Watched his hom
 
 ## Trading Credentials
 - Licensed in all major cities
-- Diplomatic trader status at [[The Bathyal Palace]]
+- Diplomatic trader status at [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]]
 - Exclusive contracts with nobility
-- Protected merchant at [[The Phosphor Markets]]
+- Protected merchant at [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]]
 - Immunity papers from three factions
 
 ## Plot Hooks
@@ -131,7 +131,7 @@ Was a successful merchant captain when the drowning accelerated. Watched his hom
 - **The Memory's Wake**: 25 crew (refugee transport)
 
 ## Locations
-- Office: [[New Tethys]] - Merchant Depths
-- Warehouse: [[The Wandering Atoll]] - Hidden level
-- Contacts: [[The Phosphor Markets]] - Everywhere
-- Safe house: [[The Bathyal Palace]] - Embassy row
+- Office: [[01_Campaigns/Aquabyssos/Locations/New Tethys]] - Merchant Depths
+- Warehouse: [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]] - Hidden level
+- Contacts: [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]] - Everywhere
+- Safe house: [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]] - Embassy row

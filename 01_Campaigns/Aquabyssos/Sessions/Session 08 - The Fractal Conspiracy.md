@@ -208,7 +208,7 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 - Set up for penultimate session
 
 ## 📅 Next Session Prep
-- [[Session 09 - The Mourning Strategy]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 09 - The Mourning Strategy]]
 - Design Singer consciousness infiltration
 - Prepare emotional climax mechanics
 - Plan for character sacrifices

@@ -10,7 +10,7 @@ depth: "1500 feet"
 # The Phosphor Markets - The Glowing Bazaar
 
 ## Overview
-The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[Aquabyssos World Overview|Aquabyssos]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[Merchant's Covenant]], a powerful trading guild that predates the drowning.
+The Phosphor Markets are a massive floating collection of bioluminescent platforms, ships, and structures that drift through the Gloom Gardens, never staying in one location for more than a week. This mobile marketplace is the economic heart of [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]], where all factions trade despite political tensions. The market's neutrality is enforced by the [[Merchant's Covenant]], a powerful trading guild that predates the drowning.
 
 ## Market Sections
 
@@ -18,10 +18,10 @@ The Phosphor Markets are a massive floating collection of bioluminescent platfor
 Massive platform made from a hollowed-out whale corpse, preserved and reinforced with magic. [[Market Master Cornelius Driftwood]] oversees all major trades from his office in what was once the creature's heart.
 
 ### The Glow Gardens
-Living market stalls made from cultivated bioluminescent coral and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[Lumengarde]].
+Living market stalls made from cultivated bioluminescent coral and kelp. [[Merchant Delilah Currentrunner]] coordinates vendors selling biological goods from [[01_Campaigns/Aquabyssos/Locations/Lumengarde]].
 
 ### The Deep Bazaar
-Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[The Cerulean Trench]] and [[The Hadal Depths]].
+Lower platforms dealing in goods from the dangerous depths. [[Trader Grimm Voidheart]] specializes in items from [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]] and [[The Hadal Depths]].
 
 ### The Memory Lane
 Section dedicated to pre-drowning artifacts and memories. [[Antiquarian Eliza Tidecaller]] authenticates items while [[Memory Merchant Zephyr Mindweaver]] trades in extracted memories.
@@ -69,7 +69,7 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 ### Black Market Goods
 - Deepmind artifacts
 - Forbidden metamorphosis procedures
-- Weapons from [[Pressure's End]]
+- Weapons from [[01_Campaigns/Aquabyssos/Locations/Pressure's End]]
 - Stolen religious relics
 - Slaves (officially banned, still happens)
 
@@ -82,10 +82,10 @@ Financial institution managing the market's complex economy. [[Banker Titus Gold
 
 ## The Mobile Nature
 The market moves on a semi-predictable route:
-1. Near [[New Tethys]] - Days 1-7
-2. [[Lumengarde]] vicinity - Days 8-14
+1. Near [[01_Campaigns/Aquabyssos/Locations/New Tethys]] - Days 1-7
+2. [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] vicinity - Days 8-14
 3. Open water trading - Days 15-21
-4. Near [[The Wandering Atoll]] - Days 22-28
+4. Near [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]] - Days 22-28
 5. Deep water mysterious stop - Day 29-30
 
 ## Demographics
@@ -143,10 +143,10 @@ The market moves on a semi-predictable route:
 - [[Dockmaster Bruno Steadyanchor]] - Port authority
 
 ## Connected Locations
-- [[New Tethys]] - Major trading partner
-- [[Lumengarde]] - Biological goods source
-- [[The Wandering Atoll]] - Occasional meeting point
-- [[The Cerulean Trench]] - Source of rare goods
+- [[01_Campaigns/Aquabyssos/Locations/New Tethys]] - Major trading partner
+- [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] - Biological goods source
+- [[01_Campaigns/Aquabyssos/Locations/The Wandering Atoll]] - Occasional meeting point
+- [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]] - Source of rare goods
 
 ## Quests Available
 - [[Market Heist]] - The Free Current needs help

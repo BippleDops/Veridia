@@ -21,18 +21,18 @@ faction_rank: 5  # Secret leader rank
 portrait: ""
 relationship_type: "complicated"
 relationships:
-  - "[[Captain Lyanna Brightshield]]" # Uneasy cooperation
-  - "[[The Crimson Sage]]" # Secret alliance
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]" # Uneasy cooperation
+  - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]" # Secret alliance
   - "[[Jasper Three-Eyes Flint]]" # Protects him
   - "[[Lord Aurelius Goldwave]]" # Blackmail material
-  - "[[Vex Shadowthorn]]" # Old rivalry
+  - "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]" # Old rivalry
   - "[[The Bloodline Carrier]]" # Sworn to protect
 related_quests:
   - "[[Investigate the Crystal Plague]]"
   - "[[The Seven Shards Mystery]]"
   - "[[Uniting the Factions]]"
   - "[[The Bloodline Awakens]]"
-last_encounter: "[[Session 01 Blood in the Harbor]]"
+last_encounter: "[[01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor]]"
 stats:
   str: 10
   dex: 18
@@ -72,18 +72,18 @@ Marina leads a secret organization descended from Aquabyssos survivors who chose
 
 ## Relationships
 ### True Allies
-- **[[The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
 - **[[The Bloodline Carrier]]**: Sworn by ancient oath to protect them, even at cost of her life.
 - **Other Depth Wardens**: Commands a network of 20-30 agents across Aethermoor.
 
 ### Public Persona Relationships
-- **[[Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
+- **[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
 - **Smuggler Crews**: Commands loyalty through fair dealing and spectacular profits.
 - **[[Lord Aurelius Goldwave]]**: Has extensive blackmail material ensuring cooperation.
 
 ### Complicated
 - **[[Jasper Three-Eyes Flint]]**: Protects him as potential bloodline carrier, but his madness makes it difficult.
-- **[[Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
 - **Her Shadow Self**: Has been switching places, creating identity confusion.
 
 ## Current Activities

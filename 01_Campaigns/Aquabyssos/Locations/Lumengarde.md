@@ -15,7 +15,7 @@ Lumengarde is a breathtaking city grown rather than built, formed from cultivate
 ## Districts
 
 ### The Radiant Core
-The heart of Lumengarde, where the massive Mothercoral provides the template for all city growth. [[Duke Cyrus Reefheart]] holds court in the Coral Palace, a living structure that grows new rooms as needed.
+The heart of Lumengarde, where the massive Mothercoral provides the template for all city growth. [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] holds court in the Coral Palace, a living structure that grows new rooms as needed.
 
 ### The Cultivation Terraces
 Stepped growing fields where specialized farmers tend to bioluminescent crops and architectural organisms. [[Master Cultivator Thalia Greenglow]] oversees production and experimentation.
@@ -24,7 +24,7 @@ Stepped growing fields where specialized farmers tend to bioluminescent crops an
 Residential area where inhabitants live in perfect symbiosis with their coral homes. [[Whisper-Witch Naia Softcurrent]] helps newcomers bond with living structures.
 
 ### The Enzyme Markets
-Commercial district where biological products are traded. [[The Phosphor Markets]] maintain a permanent outpost here, managed by [[Merchant Delilah Currentrunner]]'s cousin.
+Commercial district where biological products are traded. [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]] maintain a permanent outpost here, managed by [[Merchant Delilah Currentrunner]]'s cousin.
 
 ### The Deep Garden
 A darker section where dangerous but useful organisms are cultivated. [[Doctor Silas Voidtouch]] conducts controversial adaptation experiments here.
@@ -82,12 +82,12 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 - Main exports: Bioluminescent organisms, living tools, adaptation services
 - Main imports: Minerals, metals, preserved foods
 - Currency: Lumens (crystallized bioluminescent fluid)
-- Major trade with [[New Tethys]] and [[The Phosphor Markets]]
+- Major trade with [[01_Campaigns/Aquabyssos/Locations/New Tethys]] and [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]]
 
 ## Current Events
 1. The Mothercoral showing signs of mysterious illness
 2. Radical adaptation cult [[The Biomancers]] gaining followers
-3. Trade dispute with [[Pressure's End]] over organism trafficking
+3. Trade dispute with [[01_Campaigns/Aquabyssos/Locations/Pressure's End]] over organism trafficking
 4. Discovery of ancient pre-drowning seeds that still sprout
 5. Diplomatic crisis with [[The Depth Wardens]] over bioweapon accusations
 
@@ -112,7 +112,7 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 10. Building having an allergic reaction to occupant
 
 ## Connected NPCs
-- [[Duke Cyrus Reefheart]] - Ruler
+- [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] - Ruler
 - [[Master Cultivator Thalia Greenglow]] - Chief agriculturalist
 - [[Whisper-Witch Naia Softcurrent]] - Symbiosis specialist
 - [[Doctor Silas Voidtouch]] - Controversial researcher
@@ -123,11 +123,11 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 - [[Artisan Felix Reefwright]] - Master crafter
 
 ## Connected Locations
-- [[New Tethys]] - Major trade partner
-- [[The Phosphor Markets]] - Commercial connection
-- [[Pressure's End]] - Political tension
+- [[01_Campaigns/Aquabyssos/Locations/New Tethys]] - Major trade partner
+- [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]] - Commercial connection
+- [[01_Campaigns/Aquabyssos/Locations/Pressure's End]] - Political tension
 - [[The Gloom Gardens]] - Surrounding region
-- [[The Bathyal Palace]] - Diplomatic relations
+- [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]] - Diplomatic relations
 
 ## Quests Available
 - [[The Mothercoral Crisis]] - Save the city's heart

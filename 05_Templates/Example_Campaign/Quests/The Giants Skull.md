@@ -2,16 +2,16 @@
 tags:
 - Category/Quest
 MyContainer:
-- '[[02_Worldbuilding/Atlas/Island of Skulls.md|Island of Skulls]]'
+- '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
 - '[[05_Templates/Template-Location.md|Template-PointofInterest-BASES]]'
 - '[[05_Templates/Template-Location.md|Template-PointofInterest]]'
 MyCategory: null
 obsidianUIMode: preview
 questObtained: null
 questStatus: Not Started
-questGiver: '[[01_Campaigns/Campaign_Name/NPCs/Flip the Famous.md|Flip the Famous]]'
-questLocationObtained: '[[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md|Template-Hub]]'
-questSessionObtained: '[[01_Campaigns/Campaign_Name/Sessions/2025-01-01.md|2025-01-01]]'
+questGiver: '[[05_Templates/Example_Campaign/NPCs/Flip the Famous|Flip the Famous]]'
+questLocationObtained: '[[05_Templates/Example_Campaign/Locations/Shadowhaven|Template-Hub]]'
+questSessionObtained: '[[05_Templates/Example_Campaign/Sessions/2025-01-01|2025-01-01]]'
 questNotes: null
 questLootAvail: null
 questLookEarned: null

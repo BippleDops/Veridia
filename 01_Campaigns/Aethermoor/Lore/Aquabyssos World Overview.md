@@ -17,7 +17,7 @@ The survivors didn't simply adapt - they were transformed by the Drowning Embrac
 ## The Great Drowning
 
 ### The Century of Storms (900-800 years ago)
-The surface empires of Thalassopolis, Nereidion, and Abyssal Mor attempted to end a devastating war by using weather control magic amplified by proto-crystals (predecessors to Aethermoor's [[Seven Shards]]). The ritual backfired catastrophically:
+The surface empires of Thalassopolis, Nereidion, and Abyssal Mor attempted to end a devastating war by using weather control magic amplified by proto-crystals (predecessors to Aethermoor's [[01_Campaigns/Aethermoor/Lore/The Seven Shards]]). The ritual backfired catastrophically:
 
 1. **Year 1-20**: Unnatural hurricanes that never dissipated
 2. **Year 21-50**: Rain that fell upward, pulling land into the sky before dropping it into the sea
@@ -123,7 +123,7 @@ Seven transformed nobles who each control an aspect:
 4. **The Depth Speaker**: Religion and philosophy
 5. **The Coral Tender**: Agriculture and resources
 6. **The Void Watcher**: Exploration and Hadean relations
-7. **The Surface Liaison**: Diplomacy with above ([[Ambassador Korvin Blacktide]])
+7. **The Surface Liaison**: Diplomacy with above ([[01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide]])
 
 ### Religion: The Church of Drowning Truths
 
@@ -234,7 +234,7 @@ Navigation and manipulation of spaces that shouldn't exist:
 > These aren't gods or demons but the universe's immune system. The surface world is an infection, and the Drowning was the first attempt at cleansing. They're patient, immortal, and view humanity as bacteria to be processed or purged.
 
 > [!warning] The Connection to Aethermoor
-> The [[Seven Shards]] of Aethermoor are fragments of the same proto-crystal that caused the Great Drowning. If reunited underwater, they could complete the Drowning and submerge all surface lands permanently.
+> The [[01_Campaigns/Aethermoor/Lore/The Seven Shards]] of Aethermoor are fragments of the same proto-crystal that caused the Great Drowning. If reunited underwater, they could complete the Drowning and submerge all surface lands permanently.
 
 > [!info] The Empress's Secret
 > Empress Tethys isn't dying and resurrecting daily - she's splitting into multiple versions. There are now dozens of her at different depths, each with different memories and goals. They're planning something that requires all versions to reunite.
@@ -242,8 +242,8 @@ Navigation and manipulation of spaces that shouldn't exist:
 ## Aquabyssos-Aethermoor Relations
 
 ### Current State
-- Official embassy in [[The Shadowmere]] via [[The Drowned Embassy]]
-- Secret infiltration of [[Port Meridian]] through underwater tunnels
+- Official embassy in [[01_Campaigns/Aethermoor/Locations/The Shadowmere]] via [[01_Campaigns/Aethermoor/Locations/The Drowned Embassy]]
+- Secret infiltration of [[01_Campaigns/Aethermoor/Locations/Port Meridian]] through underwater tunnels
 - Growing number of surface dwellers accepting transformation
 - Trade in exotic goods and forbidden knowledge
 - Mutual threat assessment and preparation for conflict

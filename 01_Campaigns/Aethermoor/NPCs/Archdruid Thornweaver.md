@@ -9,7 +9,7 @@ race: Wood Elf
 class: Druid/Archdruid
 level: 18
 alignment: True Neutral
-location: "[[The Verdant Reach]]"
+location: "[[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]"
 faction: "[[The Verdant Accord]]"
 status: Alive
 created: 2024-12-20
@@ -20,7 +20,7 @@ image: "Ω_Assets/NPCs/archdruid_thornweaver.jpg"
 *Voice of the Ancient Forest, Guardian of the Green*
 
 ## Overview
-Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
+Archdruid Thornweaver has protected [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
 
 ## Appearance
 - **Race**: Wood Elf, extraordinarily old even for her kind
@@ -84,8 +84,8 @@ Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, w
 - Awakened trees and plants
 
 ### Territory
-- [[The Verdant Reach]] - Core domain
-- Hidden groves throughout [[Aethermoor]]
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Core domain
+- Hidden groves throughout [[01_Campaigns/Aethermoor/Locations/Aethermoor]]
 - Underground root network
 - Sacred sites predating Shattering
 
@@ -98,28 +98,28 @@ Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, w
 ## Relationships
 
 ### Allies
-- [[High Inquisitor Maltheos]] - Ideological alignment, distrusts methods
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Ideological alignment, distrusts methods
 - Forest creatures and nature spirits
 - Rural communities
 - Traditional healers
 
 ### Enemies
-- [[The Crystal Throne]] - Spreading corruption
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Spreading corruption
 - Crystal mining operations
-- [[Master Artificer Korvin Gearwright]] - Represents everything she opposes
+- [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]] - Represents everything she opposes
 - Urban expansion
 
 ### Complicated
-- [[Queen Seraphina Lumengarde]] - Pities her corruption
-- [[The Crimson Sage]] - Knows more than she admits
-- [[Captain Thaddeus Blackwater]] - His expedition threatens sacred sites
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Pities her corruption
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Knows more than she admits
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]] - His expedition threatens sacred sites
 - Humans in general - Short-lived and reckless
 
 ## Secret Knowledge
 > [!warning] DM Only
 > - Knows location of the Green Shard (Southern Spire)
 > - Her ancestor was one of the Seven Betrayers
-> - Has been in contact with [[The Crimson Sage]]
+> - Has been in contact with [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]
 > - The forest itself is becoming sentient from crystal exposure
 > - Plans to awaken the World-Tree to fight crystals
 > - Knows the true cure for corruption (requires massive life sacrifice)
@@ -134,7 +134,7 @@ Archdruid Thornweaver has protected [[The Verdant Reach]] for three centuries, w
 
 ### Desperate Measures
 - Considering violent action
-- Alliance with [[Purist Coalition]]
+- Alliance with [[01_Campaigns/Aethermoor/Factions/Purist Coalition]]
 - Awakening dangerous nature spirits
 - The final option: The Great Withering
 
@@ -220,15 +220,15 @@ Her seat of power, containing:
 - Her death would doom the forests
 
 ## Connected NPCs
-- [[High Inquisitor Maltheos]] - Ideological ally
-- [[The Crimson Sage]] - Knows their secret
-- [[Queen Seraphina Lumengarde]] - Opposed but sympathetic
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Ideological ally
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Knows their secret
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Opposed but sympathetic
 - Forest spirits and druids
 
 ## Connected Locations
-- [[The Verdant Reach]] - Domain
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Domain
 - Sacred Grove - Base
-- [[The Crystalline Wastes]] - Expanding threat
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Expanding threat
 - Hidden groves across continent
 
 ## Potential Rewards

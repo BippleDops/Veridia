@@ -13,7 +13,7 @@ status: "Alive"
 # Admiral Thorne Blackwater
 
 ## Overview
-Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[Pressure's End]], standing as the primary military force between [[Aquabyssos World Overview|Aquabyssos]] and the horrors of [[The Hadal Depths]]. A veteran of over 200 deep patrols, his body bears scars from encounters with creatures that shouldn't exist. Pressure adaptation has made him massive - nearly 8 feet tall with dense muscle and bone structure. His eyes are completely black, adapted to see in the absolute darkness of the deep.
+Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[01_Campaigns/Aquabyssos/Locations/Pressure's End]], standing as the primary military force between [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]] and the horrors of [[The Hadal Depths]]. A veteran of over 200 deep patrols, his body bears scars from encounters with creatures that shouldn't exist. Pressure adaptation has made him massive - nearly 8 feet tall with dense muscle and bone structure. His eyes are completely black, adapted to see in the absolute darkness of the deep.
 
 ## Personality
 - **Command Presence**: Inspires absolute loyalty through competence and courage
@@ -39,8 +39,8 @@ Admiral Thorne Blackwater commands the [[Depth Wardens]] from [[Pressure's End]]
 - [[Battle Priest Cassius Depthshield]] - Spiritual advisor
 
 ### Political Tensions
-- [[Archon Meredith Saltweaver]] - Resents her civilian authority
-- [[Duke Cyrus Reefheart]] - Disputes over bioweapon accusations
+- [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] - Resents her civilian authority
+- [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] - Disputes over bioweapon accusations
 - [[Mediator Serenity Stillwater]] - Respects but frustrated by neutrality
 - [[Envoy Blackwater Jr.]] - Disappointment of a son seeking independence
 
@@ -56,7 +56,7 @@ Born in the early years after the drowning, Thorne joined the Depth Wardens at 1
 1. Preparing for massive assault from [[The Hadal Depths]]
 2. Building secret weapon to destroy [[The Deepmind]]
 3. Training new generation of depth-resistant soldiers
-4. Investigating disappearances in [[The Cerulean Trench]]
+4. Investigating disappearances in [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]
 5. Planning potential coup if civilians fail to act
 
 ## Secrets
@@ -83,7 +83,7 @@ Has personally killed:
 
 ## Plot Hooks
 - Recruiting exceptional individuals for suicide mission
-- Needs rare materials from [[The Primordial Vaults]]
+- Needs rare materials from [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]
 - Investigating traitors within the Depth Wardens
 - Seeking alliance against common threat
 - Testing party's capability for deep operations
@@ -112,6 +112,6 @@ Has personally killed:
 - Can override civilian authority in "deep crisis"
 
 ## Locations
-- Primary: [[Pressure's End]] - Strategic Depth Chamber
-- Secondary: [[The Bathyal Palace]] - During military summits
-- Patrols: [[The Cerulean Trench]], [[The Hadal Depths]]
+- Primary: [[01_Campaigns/Aquabyssos/Locations/Pressure's End]] - Strategic Depth Chamber
+- Secondary: [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]] - During military summits
+- Patrols: [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]], [[The Hadal Depths]]

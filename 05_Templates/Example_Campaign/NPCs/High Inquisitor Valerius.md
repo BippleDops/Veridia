@@ -12,7 +12,7 @@ modified: 2025-07-23 19:15
 **Gender**: Male
 **Age**: 50
 **Occupation**: High Inquisitor of the Order of the Azure Flame
-**Location**: [[The Citadel of Azure Flame]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Citadel of Azure Flame]]
 
 ## Description
 High Inquisitor Valerius is a charismatic and driven man who is the leader of the Order of the Azure Flame. He is a brilliant tactician and a powerful warrior, and he is utterly convinced of the righteousness of his cause.

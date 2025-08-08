@@ -45,11 +45,11 @@ Updating the calculator below will flows the changes out to any notes that autom
 | **Days Travel 🕓:** `VIEW[round(({TravelDistance} * ({varMins}/(({BaseSpeed} / ({ExhaustionLevel} > 1 ? 2 : 1) + ({Encumbered} ? -10 : 0) + ({HorseshoesofSpeed} ? 30 : 0) + {AdditionalBonus}) / 10) * {SpeedMultiplier})) / 60 / {HoursPerDay}, 1)]`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ### Travelling More Than 8 Hours A Day
-Requires hourly [[../Ω_System/CLI/books/players-handbook-2014/08-using-ability-scores#Constitution Checks|Constitution Saves]]  after 8 hours:
+Requires hourly [[Ω_System/CLI/books/players-handbook-2014/08-using-ability-scores|Constitution Saves]]  after 8 hours:
 
 DC 11 at hour 9
 DC 12 at hour 10
-Each failure adds a level of [[../Ω_System/CLI/conditions#Exhaustion|Exhaustion]].
+Each failure adds a level of [[Ω_System/CLI/conditions|Exhaustion]].
 
 ### Transport Services
 
@@ -92,6 +92,6 @@ Copy the code below into another note and change the `88` to match the distance 
 
 [[Template-PointofInterest]]
 
-[[../01_Campaigns/Campaign_Name/Locations/Skull Cave]]
+[[05_Templates/Example_Campaign/Locations/Skull Cave]]
 
-[[01_Campaigns/Campaign_Name/Locations/City of Screams.md]]
+[[05_Templates/Example_Campaign/Locations/City of Screams]]

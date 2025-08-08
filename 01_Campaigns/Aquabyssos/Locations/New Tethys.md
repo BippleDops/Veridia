@@ -10,21 +10,21 @@ population: 75000
 # New Tethys - The Glass City
 
 ## Overview
-Built within and around the drowned spires of the ancient surface capital, New Tethys stands as the largest and most politically important city in [[Aquabyssos World Overview|Aquabyssos]]. Enormous glass domes connected by covered tunnels preserve pockets of air, while the flooded districts between them teem with adapted inhabitants. The city exists in the Twilight Reaches, where dying sunlight still filters through the waters, creating an eternal golden-green dusk.
+Built within and around the drowned spires of the ancient surface capital, New Tethys stands as the largest and most politically important city in [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]]. Enormous glass domes connected by covered tunnels preserve pockets of air, while the flooded districts between them teem with adapted inhabitants. The city exists in the Twilight Reaches, where dying sunlight still filters through the waters, creating an eternal golden-green dusk.
 
 ## Districts
 
 ### The Crown Dome
-The largest air-filled dome, housing the [[Archon Meredith Saltweaver|Archon's]] palace and the [[Tethyan Hegemony]] government buildings. The original throne room sits preserved here, though flooded and converted to a monument.
+The largest air-filled dome, housing the [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver|Archon's]] palace and the [[Tethyan Hegemony]] government buildings. The original throne room sits preserved here, though flooded and converted to a monument.
 
 ### The Merchant Depths
-Flooded commercial district where [[Captain Garrett Stormcutter]] maintains his trading post. Connected to [[The Phosphor Markets]] via guarded trade currents. Most shops are adapted for both air-breathing and water-breathing customers.
+Flooded commercial district where [[01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter]] maintains his trading post. Connected to [[01_Campaigns/Aquabyssos/Locations/The Phosphor Markets]] via guarded trade currents. Most shops are adapted for both air-breathing and water-breathing customers.
 
 ### Scholar's Spiral
-A partially flooded tower complex housing the local branch of the [[Abyssal Academy]]. [[Sage Lysander Deepthought]] maintains his laboratory in the deepest accessible level.
+A partially flooded tower complex housing the local branch of the [[Abyssal Academy]]. [[01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought]] maintains his laboratory in the deepest accessible level.
 
 ### The Reef Gardens
-Living coral shaped into residential structures, primarily housing the adapted population. [[Duke Cyrus Reefheart]] maintains a manor here as the [[Coral Courts]] embassy.
+Living coral shaped into residential structures, primarily housing the adapted population. [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] maintains a manor here as the [[Coral Courts]] embassy.
 
 ### The Pressure Slums
 Deepest inhabited section where [[The Free Current]] operates in shadows. Those who can't afford pressure protection magic cluster here, often showing signs of depth-related mutations.
@@ -41,10 +41,10 @@ Massive magical barriers controlling water flow between districts. Controlled by
 A weekly market that occurs when merchants gather their buoyant stalls. [[Merchant Delilah Currentrunner]] coordinates vendors and manages disputes.
 
 ### Temple of Dual Breath
-The main temple of the [[Church of the Tidal Throne]], where [[Prophet Nerida Voidgazer]] delivers sermons about divine judgment and redemption through drowning.
+The main temple of the [[Church of the Tidal Throne]], where [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] delivers sermons about divine judgment and redemption through drowning.
 
 ### The Pressure Academy
-Training ground for the [[Depth Wardens]], where [[Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
+Training ground for the [[Depth Wardens]], where [[01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
 
 ## Services & Shops
 
@@ -82,7 +82,7 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 - Main exports: Preserved surface artifacts, translation services, magical adaptations
 - Main imports: Depth crystals, glowkelp, pearlsteel
 - Currency: Tethyan Drops (magical water pearls)
-- Major trade partner with [[Lumengarde]] and [[Pressure's End]]
+- Major trade partner with [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] and [[01_Campaigns/Aquabyssos/Locations/Pressure's End]]
 
 ## Current Events
 1. Archon Saltweaver has announced new taxation on depth travelers
@@ -112,11 +112,11 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 10. Messenger with urgent summons from the Archon
 
 ## Connected NPCs
-- [[Archon Meredith Saltweaver]] - Ruler
-- [[Captain Garrett Stormcutter]] - Major merchant
-- [[Sage Lysander Deepthought]] - Academy representative
-- [[Prophet Nerida Voidgazer]] - Religious leader
-- [[Duke Cyrus Reefheart]] - Coral Courts ambassador
+- [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] - Ruler
+- [[01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter]] - Major merchant
+- [[01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought]] - Academy representative
+- [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] - Religious leader
+- [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]] - Coral Courts ambassador
 - [[Keeper Elara Mindwell]] - Memory conservator
 - [[Enforcer Chief Mako Ironjaw]] - Law enforcement
 - [[Tavern Keeper Finn Splitlung]] - Information broker

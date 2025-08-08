@@ -9,8 +9,8 @@ race: Human
 class: Sorcerer/Noble
 level: 15
 alignment: Lawful Neutral (shifting)
-location: "[[Crystalhaven]]"
-faction: "[[The Crystal Throne]]"
+location: "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]"
+faction: "[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]"
 status: Alive (Stage 2 Corruption)
 created: 2024-12-20
 image: "Ω_Assets/NPCs/queen_seraphina.jpg"
@@ -20,7 +20,7 @@ image: "Ω_Assets/NPCs/queen_seraphina.jpg"
 *The Crystal Queen, Light of Aethermoor*
 
 ## Overview
-Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending to the throne after her father's mysterious death. Beautiful, intelligent, and politically savvy, she has championed the advancement of crystal technology while trying to maintain peace between the [[Crystal Wardens]] and the [[Purist Coalition]]. Unknown to all but her closest advisors, she suffers from Stage 2 crystal corruption, hidden by powerful illusions.
+Queen Seraphina Lumengarde has ruled [[01_Campaigns/Aethermoor/Locations/Aethermoor]] for twelve years, ascending to the throne after her father's mysterious death. Beautiful, intelligent, and politically savvy, she has championed the advancement of crystal technology while trying to maintain peace between the [[Crystal Wardens]] and the [[01_Campaigns/Aethermoor/Factions/Purist Coalition]]. Unknown to all but her closest advisors, she suffers from Stage 2 crystal corruption, hidden by powerful illusions.
 
 ## Appearance
 - **Public**: Radiant beauty, flowing golden hair, crystal crown, elaborate gowns with crystal embellishments
@@ -44,7 +44,7 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 
 ### Political Power
 - Commands the [[Crystal Wardens]]
-- Alliance with [[Merchant Princes]]
+- Alliance with [[01_Campaigns/Aethermoor/Factions/Merchant Princes]]
 - Network of spies throughout kingdom
 - Access to royal treasury and crystal reserves
 
@@ -56,25 +56,25 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 ## Relationships
 
 ### Allies
-- [[Lord Commander Gareth Steelborn]] - Military commander (unaware of corruption)
-- [[The Crimson Sage]] - Secret advisor on corruption
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military commander (unaware of corruption)
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Secret advisor on corruption
 - [[High Priestess Celeste Dawnbringer]] - Provides healing (sworn to secrecy)
-- [[Master Artificer Korvin Gearwright]] - Creates devices to slow corruption
+- [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]] - Creates devices to slow corruption
 
 ### Enemies
-- [[High Inquisitor Maltheos]] - Leads [[Purist Coalition]] against her
-- [[Prince Caspian Duskwater]] - Exiled brother plotting return
-- [[Archdruid Thornweaver]] - Opposes crystal expansion
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Leads [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] against her
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Exiled brother plotting return
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Opposes crystal expansion
 
 ### Complicated
-- [[Vex Shadowthorn]] - Blackmailing her about corruption
-- [[Captain Lyanna Brightshield]] - Loyal but suspicious
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Blackmailing her about corruption
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Loyal but suspicious
 - [[Professor Aldric Crystalweaver]] - Would be horrified by her condition
 
 ## Secrets
 > [!warning] DM Only
 > - Stage 2 corruption is accelerating
-> - Has been meeting [[The Crimson Sage]] (actually the god Aetheron)
+> - Has been meeting [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] (actually the god Aetheron)
 > - Knows location of three of the Seven Shards
 > - Killed her father when he tried to destroy all crystals
 > - Has a hidden daughter, [[Aria Lumengarde]], kept away for safety
@@ -84,8 +84,8 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 - Preparing for the Crystal Festival
 - Secretly researching corruption cures
 - Negotiating with [[The Verdant Accord]]
-- Investigating [[Quest - The Plague of Crystals]]
-- Monitoring [[Prince Caspian Duskwater]]'s movements
+- Investigating [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]]
+- Monitoring [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]'s movements
 
 ## Motivations
 1. **Primary**: Find cure for crystal corruption
@@ -113,9 +113,9 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 
 ## Quest Hooks
 1. Queen secretly seeks adventurers to find corruption cure
-2. Needs deniable assets to investigate [[The Whisper Syndicate]]
+2. Needs deniable assets to investigate [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]
 3. Retrieve ancient texts about the Crown of Stars
-4. Diplomatic mission to [[The Verdant Reach]]
+4. Diplomatic mission to [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 5. Investigate assassination attempts
 
 ## Speaking Style
@@ -126,23 +126,23 @@ Queen Seraphina Lumengarde has ruled [[Aethermoor]] for twelve years, ascending 
 ## DM Notes
 - Queen's corruption advances with major spell use
 - If discovered, could trigger civil war
-- [[The Crimson Sage]] may offer false cure for a price
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] may offer false cure for a price
 - Her daughter [[Aria Lumengarde]] is hidden in [[Sylvanheart]]
 - Death would transfer corruption to whoever claims the crown
 
 ## Connected NPCs
-- [[Lord Commander Gareth Steelborn]] - Military leader
-- [[Prince Caspian Duskwater]] - Rival claimant
-- [[The Crimson Sage]] - Secret advisor
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military leader
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Rival claimant
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Secret advisor
 - [[High Priestess Celeste Dawnbringer]] - Healer
-- [[Vex Shadowthorn]] - Blackmailer
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Blackmailer
 
 ## Connected Locations
-- [[Crystalhaven]] - Seat of power
-- [[The Crystal Throne]] - Literal throne
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Seat of power
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Literal throne
 - [[The Purification Gardens]] - Secret treatments
 
 ## Involved Quests
-- [[Quest - The Plague of Crystals]] - Ordering investigation
-- [[Quest - The Seventh Shard]] - Secretly searching
-- [[Quest - Diplomatic Immunity]] - Needs peacekeepers
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - Ordering investigation
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - Secretly searching
+- [[01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity]] - Needs peacekeepers

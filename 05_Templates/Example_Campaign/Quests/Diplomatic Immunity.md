@@ -8,8 +8,8 @@ modified: 2025-07-23 15:50
 # Diplomatic Immunity
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Councillor Elara Brightwater.md]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Port Celeste.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Port Celeste]]
 
 ## Quest Details
 The party is sent on a diplomatic mission to Port Celeste to negotiate a trade agreement with the Port Sorrow Trading Company.

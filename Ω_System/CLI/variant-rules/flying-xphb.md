@@ -14,4 +14,4 @@ modified: 2025-07-23 12:39
 
 A variety of effects allow a creature to fly. While flying, you fall if you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition or your [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) is reduced to 0. You can stay aloft in those circumstances if you can hover.
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

@@ -8,7 +8,7 @@ modified: 2025-07-23 16:15
 # Millbrook
 
 ## General Info
-**Location**: North of [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: North of [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 Millbrook is a small farming community that is known for its high-quality grain and its delicious apple cider.

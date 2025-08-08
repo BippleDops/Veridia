@@ -4,7 +4,7 @@ alignment: Lawful Neutral
 race: Human
 class: Paladin/Fighter
 level: 10
-location: [[Crystalhaven]]
+location: [[01_Campaigns/Aethermoor/Locations/Crystalhaven]]
 faction: Order of the Shattered Crown
 status: Active
 ---
@@ -30,15 +30,15 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 - Has developed a drinking problem to cope with crystal-whispers
 
 ## Relationships
-- **[[Lord Commander Gareth Steelborn]]**: Former brothers-in-arms, now ideologically divided
-- **[[The Crimson Sage]]**: Secretly receives philosophical guidance from him
-- **[[Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
-- **[[High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
+- **[[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]]**: Former brothers-in-arms, now ideologically divided
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]**: Secretly receives philosophical guidance from him
+- **[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]**: Romantic tension - she investigates crystal crimes he's supposed to prevent
+- **[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]**: Sees Marcus as too moderate, watches him for signs of "weakness"
 - **Ambassador [[Korvin Blacktide]]**: Suspects the Ambassador is corrupting Order members
 
 ## Current Activities
 - Training new Order recruits while subtly teaching them to think independently
-- Investigating disappearances of Order members in [[The Shadowmere]]
+- Investigating disappearances of Order members in [[01_Campaigns/Aethermoor/Locations/The Shadowmere]]
 - Maintaining a secret ledger of "unofficial" crystal distributions to the desperate
 - Searching for evidence of corruption within the Order's leadership
 
@@ -67,6 +67,6 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 
 ## Plot Hooks
 - Approaches party to investigate Order members who've gone too deep into crystal experimentation
-- Needs help smuggling refugees out of [[Port Meridian]] before a Purist Coalition purge
+- Needs help smuggling refugees out of [[01_Campaigns/Aethermoor/Locations/Port Meridian]] before a Purist Coalition purge
 - Offers to train party members in anti-corruption techniques
 - Seeks allies to expose Order corruption without triggering a civil war

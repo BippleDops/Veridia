@@ -14,14 +14,14 @@ aliases: ["World Connection Guide", "Realm Merger Guide", "Aquabyssos-Aethermoor
 > *"Two worlds separated by catastrophe, bound by blood, destined for convergence or mutual annihilation."*
 
 ## 🌊 Quick Navigation
-- [[#The Three States of Reality]]
-- [[#Continental Parallels]]
-- [[#Bloodline Connections]]
-- [[#Transit Systems]]
-- [[#Faction Interconnections]]
-- [[#Campaign Integration Paths]]
-- [[#Mechanical Overlaps]]
-- [[#Story Thread Weaving]]
+- The Three States of Reality
+- Continental Parallels
+- Bloodline Connections
+- Transit Systems
+- Faction Interconnections
+- Campaign Integration Paths
+- Mechanical Overlaps
+- Story Thread Weaving
 
 ## 📊 Campaign Status Tracker
 ```dataview
@@ -72,10 +72,10 @@ LIMIT 5
 | Aethermoor Location | Aquabyssos Location | Merge Type | Navigation |
 |-------------------|-------------------|------------|------------|
 | [[Port Meridian Harbor]] | [[Abyssos Prime Docks]] | Tidal Overlap | Water becomes stairs |
-| [[Crystal Gardens]] | [[Screaming Gardens]] | Emotional Resonance | Shared suffering |
-| [[Royal Palace]] | [[Inverse Palace]] | Authority Convergence | Gravity confusion |
+| [[Crystal Gardens]] | [[01_Campaigns/Aquabyssos/Locations/Screaming Gardens]] | Emotional Resonance | Shared suffering |
+| [[Royal Palace]] | [[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]] | Authority Convergence | Gravity confusion |
 | [[Lighthouse of Storms]] | [[Pressure Terminal]] | Transport Hub | Direct portal |
-| [[The Forgotten Archive]] | [[Memory Meadows]] | Information Bleed | Thought exchange |
+| [[The Forgotten Archive]] | [[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]] | Information Bleed | Thought exchange |
 
 #### Merge Mechanics
 - **Tide-Locked**: Changes every 12 hours with tides
@@ -126,9 +126,9 @@ Each continent has a counterpart, connected by ancient ley lines and bloodline m
 - Identity crisis for citizens
 
 **Key NPCs Affected**:
-- [[Queen Seraphina Lumengarde]] ↔ [[The Scattered Emperor]]
-- [[Captain Lyanna Brightshield]] ↔ [[Senator Glaucus]]
-- [[Marina Red Tide Coralheart]] (exists in both)
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] ↔ [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] ↔ [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] (exists in both)
 
 #### 2. Arcanum Heights ↔ Nereidios
 **Connection**: Centers of knowledge and magic
@@ -257,28 +257,28 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Memory keepers of Abyssos Prime
 **Bloodline Gift**: Can breathe in both worlds for 1 hour/day
 **Curse**: Dreams always show the other world
-**Key NPCs**: [[Marina Red Tide Coralheart]], [[Lord Aurelius Goldwave]]
+**Key NPCs**: [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]], [[Lord Aurelius Goldwave]]
 
 #### House Lumengarde-Deepshine
 **Surface Branch**: Royal family of Aethermoor
 **Depth Branch**: The Scattered Emperor's original form
 **Bloodline Gift**: Natural resistance to possession
 **Curse**: Shadows act independently after puberty
-**Key NPCs**: [[Queen Seraphina]], [[Princess Celestia]], [[The Scattered Emperor]]
+**Key NPCs**: [[Queen Seraphina]], [[Princess Celestia]], [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
 
 #### House Shadowthorn-Voidheart
 **Surface Branch**: Crimson Hand leadership
 **Depth Branch**: Void current navigators
 **Bloodline Gift**: Can manipulate shadow/void
 **Curse**: Slowly losing physical form
-**Key NPCs**: [[Vex Shadowthorn]], [[Shadow Duchess Nyx]]
+**Key NPCs**: [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]], [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]
 
 #### House Steelbane-Irondeep
 **Surface Branch**: Church of Light warriors
 **Depth Branch**: Depth pressure survivors
 **Bloodline Gift**: Immunity to transformation
 **Curse**: Cannot use magic properly
-**Key NPCs**: [[Brother Marcus Steelbane]], [[High Inquisitor Maltheos]]
+**Key NPCs**: [[Brother Marcus Steelbane]], [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]
 
 #### House Flint-Forgotten
 **Surface Branch**: Information brokers
@@ -292,14 +292,14 @@ Each bloodline carries keys to merger or separation:
 **Depth Branch**: Current weavers
 **Bloodline Gift**: Control over tides/currents
 **Curse**: Must touch water daily or wither
-**Key NPCs**: [[Captain Blackwater]], [[Archon Meredith Saltweaver]]
+**Key NPCs**: [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]], [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]]
 
 #### House Brightshield-Dawnguard
 **Surface Branch**: Royal guard leadership
 **Depth Branch**: Light-in-darkness cultivators
 **Bloodline Gift**: Can create light underwater/darkness on surface
 **Curse**: Paired with someone from other world
-**Key NPCs**: [[Captain Lyanna Brightshield]], [[Dawn-Echo Sentinel]]
+**Key NPCs**: [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]], [[Dawn-Echo Sentinel]]
 
 ### Bloodline Awakening Mechanics
 
@@ -713,7 +713,7 @@ The merger isn't just about two worlds colliding—it's about what it means to b
 ---
 
 **Related Documents**:
-- [[Depth Adaptation System]]
+- [[01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System]]
 - [[Crystal Plague Progression]]
 - [[Shadow Separation Mechanics]]
 - [[The Seven Shards Mystery]]

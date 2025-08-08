@@ -2,7 +2,7 @@
 
 ```leaflet
 id: world-map
-image: [[Ω_Assets/Maps/world-map.png]]
+image: [[02_Worldbuilding/Atlas/World Map]]
 height: 600px
 width: 100%
 lat: 50
@@ -12,6 +12,6 @@ maxZoom: 10
 defaultZoom: 5
 unit: meters
 scale: 1
-marker: default, 35, 55, [[01_Campaigns/Campaign_Name/Locations/Port Verran.md]]
-marker: default, 65, 45, [[01_Campaigns/Campaign_Name/Locations/The Sunken City of Aeridor.md|The Sunken City of Aeridor]]
+marker: default, 35, 55, [[05_Templates/Example_Campaign/Locations/Port Verran]]
+marker: default, 65, 45, [[05_Templates/Example_Campaign/Locations/The Sunken City of Aeridor|The Sunken City of Aeridor]]
 ```

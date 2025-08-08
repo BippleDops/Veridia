@@ -8,8 +8,8 @@ modified: 2025-07-23 13:30
 # The Arcane Disturbances
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Archmage Celestine Starweaver.md]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Archmage Celestine Starweaver]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Quest Details
 Strange magical phenomena have been occurring throughout Shadowhaven. The party is hired to investigate the source of the disturbances and put a stop to them.

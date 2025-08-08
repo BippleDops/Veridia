@@ -8,7 +8,7 @@ modified: 2025-07-23 14:50
 # Whisper Rock Lighthouse
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
 Whisper Rock Lighthouse is a tall, stone tower that stands on a small, rocky island. It is said to be haunted by the ghost of a former lighthouse keeper.

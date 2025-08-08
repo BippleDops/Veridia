@@ -104,6 +104,6 @@ SORT file.name DESC
 
 # Vault Graph
 
-![[Vault Report.md]]
+![[Ω_Archive/1-DM Toolkit/Vault Report]]
 
-[[Home - DV.md]]
+[[Ω_Archive/1-DM Toolkit/Home - DV]]

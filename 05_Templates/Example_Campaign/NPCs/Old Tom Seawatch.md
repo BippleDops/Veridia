@@ -12,7 +12,7 @@ modified: 2025-07-23 15:20
 **Gender**: Male
 **Age**: 65
 **Occupation**: Lighthouse Keeper
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Whisper Rock Lighthouse.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Whisper Rock Lighthouse]]
 
 ## Description
 Old Tom Seawatch is the grizzled and cantankerous keeper of the Whisper Rock Lighthouse. He has been at his post for over 40 years, and he knows the waters around the lighthouse better than anyone.

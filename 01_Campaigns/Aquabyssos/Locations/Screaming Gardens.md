@@ -1,7 +1,7 @@
 ---
 tags: [location, aquabyssos, abyssos-prime, garden, horror]
 location_type: "District"
-parent_location: "[[Abyssos Prime]]"
+parent_location: "[[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]"
 depth: 1500
 danger_level: 7
 population: "Variable (50-500 trapped souls)"
@@ -183,7 +183,7 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 ## Connections
 
 ### To Aethermoor
-The gardens exist partially in [[Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
+The gardens exist partially in [[01_Campaigns/Aethermoor/Locations/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
 
 ### To Other Districts
 - **Parliament of Echoes**: Executions performed here end in the gardens
@@ -216,15 +216,15 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 ---
 
 **Related Locations**:
-- [[Abyssos Prime]]
-- [[Parliament of Echoes]]
+- [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]
+- [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 - [[Gallery of Frozen Waves]]
-- [[Memory Meadows]]
+- [[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]]
 
 **Related NPCs**:
 - [[The Conductor]]
-- [[The Scattered Emperor]]
-- [[Marina Red Tide Coralheart]]
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
 
 **Related Mechanics**:
 - [[Scream Saturation Rules]]

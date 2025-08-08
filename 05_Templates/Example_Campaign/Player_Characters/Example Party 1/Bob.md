@@ -25,7 +25,7 @@ char_gender: Male
 char_status: Alive
 char_age: Young Adult
 char_items:
-- '[[Locate the Eye Ball|Locate the Eye Ball]]'
+- '[[05_Templates/Example_Campaign/Quests/Locate the Eye Ball|Locate the Eye Ball]]'
 - '[[05_Templates/Template-Quest.md|Template-Quest]]'
 Connected_Quests: []
 Connected_Groups: []

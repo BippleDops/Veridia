@@ -1253,4 +1253,4 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 ![](/3-Mechanics/CLI/books/players-handbook-2024/img/011-01-012-combat-example.webp#center)
 
-[[../../../../1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

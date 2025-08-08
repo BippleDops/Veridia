@@ -22,7 +22,7 @@ Real-time initiative tracking with NPC links and threat assessment.
 ![[combat-tracker.base]]
 
 **Quick Actions:**
-- [[Encounter_Template|⚔️ New Encounter]]
+- [[05_Templates/Encounter_Template|⚔️ New Encounter]]
 - Set `combat_status: "active"` to begin tracking
 
 ---
@@ -33,7 +33,7 @@ Complete NPC database with relationship tracking and quest associations.
 ![[npc-roster.base]]
 
 **Quick Actions:**
-- [[NPC_Template|👤 Create NPC]]
+- [[05_Templates/NPC_Template|👤 Create NPC]]
 - View NPC connections in Relationship Graph below
 
 ---
@@ -44,7 +44,7 @@ Track all quests with prerequisites, NPC links, and urgency levels.
 ![[quest-tracker.base]]
 
 **Quick Actions:**
-- [[Quest_Template|🎯 New Quest]]
+- [[05_Templates/Quest_Template|🎯 New Quest]]
 - Urgent quests auto-highlight when deadline < 3 days
 
 ---
@@ -55,7 +55,7 @@ All locations with population, danger levels, and quest activity.
 ![[location-tracker.base]]
 
 **Quick Actions:**
-- [[Location_Template|📍 New Location]]
+- [[05_Templates/Location_Template|📍 New Location]]
 - Track NPC residents and active quests per location
 
 ---
@@ -78,7 +78,7 @@ Complete session history with NPC appearances and quest progress.
 ![[campaign-dashboard.base]]
 
 **Quick Actions:**
-- [[Session_Template|📝 New Session]]
+- [[05_Templates/Session_Template|📝 New Session]]
 - Auto-tracks attendance and participation
 
 ---
@@ -104,7 +104,7 @@ Complete session history with NPC appearances and quest progress.
 
 ### Relationship Management
 - **Update Dispositions:** Edit NPC `disposition` property (-10 to +10)
-- **Link Relationships:** Use `[[NPC Name]]` in `relationships` property
+- **Link Relationships:** Use `NPC Name` in `relationships` property
 - **Track Quests:** Link NPCs to quests via `related_quests` property
 - **Location Residents:** Set NPC `location` to `[[Location Name]]`
 

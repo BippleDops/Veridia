@@ -8,7 +8,7 @@ modified: 2025-07-23 19:00
 # The Citadel of Azure Flame
 
 ## General Info
-**Location**: [[The Whispering Peaks]]
+**Location**: [[02_Worldbuilding/Atlas/The Whispering Peaks]]
 
 ## Description
 The Citadel of the Azure Flame is a massive fortress monastery that is carved into the side of a mountain. It is the headquarters of the Order of the Azure Flame, and it is here that they train their inquisitors and plan their crusades against magic.

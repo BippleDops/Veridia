@@ -6,14 +6,14 @@ tags:
   - trade
   - mysterious
 type: Location
-region: "[[Port Meridian]] Harbor District"
+region: "[[01_Campaigns/Aethermoor/Locations/Port Meridian]] Harbor District"
 danger_level: Moderate
 notable_npcs:
-  - "[[Captain Thaddeus Blackwater]]"
-  - "[[Ambassador Nerida Deepcurrent]]"
-  - "[[Castellan Ironledger III]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]"
 connected_locations:
-  - "[[Port Meridian]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Port Meridian]]"
   - "[[Aquabyssos]]"
   - "The Shadowmere (via underwater passages)"
 ---
@@ -21,7 +21,7 @@ connected_locations:
 # The Sunken Markets
 
 ## Overview
-Beneath [[Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
+Beneath [[01_Campaigns/Aethermoor/Locations/Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
 
 ## Structure
 The Markets occupy a series of partially flooded caves and ruins that predate the current city:
@@ -47,7 +47,7 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 ### The Tidal Gates
 - Four massive portals that open at specific tide times
 - Connect to different underwater locations
-- Northern Gate: [[The Shadowmere]]'s Lake Gloom
+- Northern Gate: [[01_Campaigns/Aethermoor/Locations/The Shadowmere]]'s Lake Gloom
 - Eastern Gate: Deep ocean trenches
 - Southern Gate: [[Aquabyssos]] outer territories
 - Western Gate: Status unknown (sealed)
@@ -98,7 +98,7 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 ## Current Events
 - Increasing refugees from deeper Aquabyssos regions
 - Crystal corruption beginning to affect aquatic species
-- [[Ambassador Nerida Deepcurrent]] establishing permanent embassy
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]] establishing permanent embassy
 - Black market for Shard fragments growing
 - Prophecies of "Great Drowning" causing panic
 
@@ -116,8 +116,8 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 ### Getting There
 - Through hidden entrances in Port Meridian's warehouse district
 - Via underwater approach (requires water breathing)
-- Portal from [[Castellan Ironledger III]]'s vault (secret)
-- Shadow paths from [[The Shadowmere]] (dangerous)
+- Portal from [[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]'s vault (secret)
+- Shadow paths from [[01_Campaigns/Aethermoor/Locations/The Shadowmere]] (dangerous)
 
 ### Operating Hours
 - Low Tide: Full access to all areas
@@ -126,8 +126,8 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 - Spring Tides: Special markets with rare goods
 
 ## Factions & Influence
-- **[[The Whisper Syndicate]]:** Controls smuggling operations
-- **[[Merchant Princes]]:** Seeking to monopolize trade
+- **[[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]:** Controls smuggling operations
+- **[[01_Campaigns/Aethermoor/Factions/Merchant Princes]]:** Seeking to monopolize trade
 - **Tidal Courts:** Aquabyssos's official presence
 - **Crystal Wardens:** Monitoring for corruption spread
 - **Order of Drowned Mysteries:** Religious sect worshipping deep gods

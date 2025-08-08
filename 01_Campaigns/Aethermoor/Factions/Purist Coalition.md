@@ -6,8 +6,8 @@ tags:
   - political
 type: Faction
 alignment: Lawful Neutral (extremist elements)
-headquarters: "[[The Verdant Reach]]"
-leader: "[[High Inquisitor Maltheos]]"
+headquarters: "[[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]"
+leader: "[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]"
 status: Active (Growing)
 power_level: Significant
 created: 2024-12-20
@@ -18,7 +18,7 @@ image: "Ω_Assets/Factions/purist_coalition.jpg"
 *Return to the Time Before Corruption*
 
 ## Overview
-The Purist Coalition opposes all use of Aether Crystals, viewing them as divine punishment for mortal hubris. They seek to destroy all crystals and return [[Aethermoor]] to its pre-Shattering state. What began as peaceful protest has evolved into an organized resistance with extremist cells conducting terrorist attacks.
+The Purist Coalition opposes all use of Aether Crystals, viewing them as divine punishment for mortal hubris. They seek to destroy all crystals and return [[01_Campaigns/Aethermoor/Locations/Aethermoor]] to its pre-Shattering state. What began as peaceful protest has evolved into an organized resistance with extremist cells conducting terrorist attacks.
 
 ## Ideology
 
@@ -37,18 +37,18 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 ## Organization Structure
 
 ### Leadership
-- **High Inquisitor**: [[High Inquisitor Maltheos]] - Supreme leader
+- **High Inquisitor**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Supreme leader
 - **The Council of Purity**: Five regional commanders
 - **Inquisitors**: Investigate and judge corruption
 - **Purifiers**: Military arm
 - **Redeemers**: Peaceful protesters and preachers
 
 ### Regional Cells
-- **Northern Watch**: Monitor [[The Crystalline Wastes]]
-- **Central Resistance**: [[Crystalhaven]] underground
-- **Coastal Cleansers**: [[Port Meridian]] operations
-- **Mountain Wardens**: [[The Sundered Peaks]]
-- **Forest Heart**: [[The Verdant Reach]] headquarters
+- **Northern Watch**: Monitor [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]]
+- **Central Resistance**: [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] underground
+- **Coastal Cleansers**: [[01_Campaigns/Aethermoor/Locations/Port Meridian]] operations
+- **Mountain Wardens**: [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]
+- **Forest Heart**: [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] headquarters
 
 ## Membership
 
@@ -65,7 +65,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 - Corrupted victims seeking revenge
 
 ### Sympathizers
-- [[Archdruid Thornweaver]] - Ideological alignment
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Ideological alignment
 - Rural populations affected by corruption
 - Families of corruption victims
 - Traditional nobles losing power
@@ -86,7 +86,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 > - Stealing and destroying crystal shipments
 > - Planning attack during Crystal Festival
 > - Infiltrating [[Crystal Wardens]]
-> - Building army in [[The Verdant Reach]]
+> - Building army in [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 
 ## Resources & Assets
 
@@ -117,20 +117,20 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 ## Relationships
 
 ### Enemies
-- [[The Crystal Throne]] - Primary opposition
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Primary opposition
 - [[Crystal Wardens]] - Active conflict
-- [[Queen Seraphina Lumengarde]] - Want her deposed
-- [[Master Artificer Korvin Gearwright]] - Target for assassination
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Want her deposed
+- [[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]] - Target for assassination
 
 ### Potential Allies
 - [[The Verdant Accord]] - Natural alliance
-- [[Prince Caspian Duskwater]] - Possible puppet ruler
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Possible puppet ruler
 - Foreign powers fearing crystal spread
-- [[Archdruid Thornweaver]] - Ideological sympathy
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Ideological sympathy
 
 ### Complicated
-- [[The Whisper Syndicate]] - Sometimes buy their services
-- [[The Crimson Sage]] - Unsure of their position
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Sometimes buy their services
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Unsure of their position
 - Common citizens - Need their support
 
 ## Faction Ranks
@@ -160,7 +160,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 
 ### Long Term
 > [!warning] DM Only
-> - Overthrow [[The Crystal Throne]]
+> - Overthrow [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]
 > - Destroy all crystal refineries
 > - Establish theocracy based on pre-Shattering faith
 > - Find and destroy the Seven Shards
@@ -198,7 +198,7 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 
 ## Secret Truths
 > [!warning] DM Only
-> - [[High Inquisitor Maltheos]] is descendant of one of Seven Betrayers
+> - [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] is descendant of one of Seven Betrayers
 > - Some leaders know about the Seven Shards
 > - Have captured and tortured crystal researchers
 > - Planning mass poisoning at Crystal Festival
@@ -229,24 +229,24 @@ The Purist Coalition opposes all use of Aether Crystals, viewing them as divine 
 - Their success could doom or save kingdom
 
 ## Connected Factions
-- [[The Crystal Throne]] - Primary enemy
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Primary enemy
 - [[Crystal Wardens]] - Active opposition
 - [[The Verdant Accord]] - Natural allies
 - [[The Order of the Shattered Crown]] - Competing ideology
 
 ## Connected NPCs
-- [[High Inquisitor Maltheos]] - Leader
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Leader
 - [[Brother Marcus Steelbane]] - Moderate member
-- [[Archdruid Thornweaver]] - Sympathizer
-- [[Queen Seraphina Lumengarde]] - Target
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Sympathizer
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Target
 
 ## Connected Locations
-- [[The Verdant Reach]] - Headquarters
-- [[Crystalhaven]] - Secret cells
-- [[Port Meridian]] - Growing presence
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Headquarters
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Secret cells
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Growing presence
 - Every major city - Hidden operations
 
 ## Related Quests
-- [[Quest - Diplomatic Immunity]] - Peace negotiations
+- [[01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity]] - Peace negotiations
 - [[Quest - The Crystal Festival]] - Planning attack
 - [[Quest - Hearts and Minds]] - Propaganda war

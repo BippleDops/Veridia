@@ -8,7 +8,7 @@ modified: 2025-07-23 18:25
 # Eastern Harbor District
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 The Eastern Harbor District is a rough and tumble district that is home to the city's docks, warehouses, and taverns. It is a place of hard work and hard drinking, and it is not a place for the faint of heart.

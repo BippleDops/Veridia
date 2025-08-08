@@ -15,7 +15,7 @@ image: "Ω_Assets/Locations/port_meridian.jpg"
 *Gateway to the World, Where Gold and Crystal Meet*
 
 ## Overview
-Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across the world dock to trade in Aether Crystals and exotic goods. The city is ruled not by nobles but by the [[Merchant Princes]], a council of the wealthiest traders. Recently, the city has been plagued by a mysterious crystal corruption spreading through the docks.
+Port Meridian is [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s largest trading hub, where ships from across the world dock to trade in Aether Crystals and exotic goods. The city is ruled not by nobles but by the [[01_Campaigns/Aethermoor/Factions/Merchant Princes]], a council of the wealthiest traders. Recently, the city has been plagued by a mysterious crystal corruption spreading through the docks.
 
 ## Districts
 
@@ -27,7 +27,7 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 ### Merchant's Rise
 - **The Gold Exchange** - Controlled by [[Merchant Lord Silas Copperfield]]
 - **The Auction House** - Rare items and crystals
-- **Council Chambers** - Where the [[Merchant Princes]] meet
+- **Council Chambers** - Where the [[01_Campaigns/Aethermoor/Factions/Merchant Princes]] meet
 
 ### The Old City
 - **Temple of the Tides** - Led by [[High Priestess Celeste Dawnbringer]]
@@ -35,8 +35,8 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 - **Founder's Square** - Historic center, statue of city founder
 
 ### The Dockyards
-- **Shipwright's Row** - [[Captain Thaddeus Blackwater]]'s ship was built here
-- **The Salty Serpent** - Rough tavern, owned by [[Marina "Red Tide" Coralheart]]
+- **Shipwright's Row** - [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s ship was built here
+- **The Salty Serpent** - Rough tavern, owned by [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
 - **Warehouse District** - Controlled by various factions
 
 ### The Plague Quarter
@@ -55,12 +55,12 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 
 ### Military & Law
 - [[Admiral Cassandra Stormwind]] - Naval commander
-- [[Captain Lyanna Brightshield]] - City Watch (on loan from [[Crystalhaven]])
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - City Watch (on loan from [[01_Campaigns/Aethermoor/Locations/Crystalhaven]])
 - [[Harbormaster Erik Saltbeard]] - Controls dock access
 
 ### Underworld
-- [[Marina "Red Tide" Coralheart]] - Smuggler queen
-- [[Vex Shadowthorn]] - Has operations here
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Smuggler queen
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Has operations here
 - [[The Tidecaller]] - Mysterious pirate lord
 
 ## Current Crisis: The Crystal Plague
@@ -74,13 +74,13 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 ### Affected Areas
 - Dock District (40% infected)
 - Starting to spread to Old City
-- [[Quest - The Plague of Crystals]] involves finding the source
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] involves finding the source
 
 ### Suspects
-- [[The Whisper Syndicate]] - Selling corrupted crystals
-- [[Purist Coalition]] - False flag to turn people against crystals
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Selling corrupted crystals
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - False flag to turn people against crystals
 - Foreign saboteurs
-- [[The Crimson Sage]] - Conducting experiments
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Conducting experiments
 
 ## Commerce & Trade
 
@@ -95,9 +95,9 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 - Foreign magical items
 
 ### Trade Routes
-- Northern route to [[Crystalhaven]]
+- Northern route to [[01_Campaigns/Aethermoor/Locations/Crystalhaven]]
 - Southern sea route to foreign lands
-- Eastern road to [[The Sundered Peaks]]
+- Eastern road to [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]
 - Western shipping lanes
 
 ## Services & Establishments
@@ -122,7 +122,7 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 - **The Celestial Wind** - [[Admiral Cassandra Stormwind]]'s flagship
 - **The Golden Promise** - Merchant vessel
 - **The Shadowfin** - Suspected smuggler
-- **The Crystal Voyager** - Missing (was [[Captain Thaddeus Blackwater]]'s)
+- **The Crystal Voyager** - Missing (was [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s)
 
 ## Adventure Hooks
 1. Investigate the source of the crystal plague
@@ -135,7 +135,7 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 ## DM Secrets
 > [!warning] DM Only
 > - The plague was started by a corrupted Shard hidden in the harbor
-> - [[Marina "Red Tide" Coralheart]] is actually working for the Crown
+> - [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] is actually working for the Crown
 > - [[Lord Aurelius Goldwave]] is embezzling funds for [[The Order of the Shattered Crown]]
 > - A cult of Aetheron meets in the abandoned plague buildings
 > - [[The Tidecaller]] is searching for underwater crystal formations
@@ -155,18 +155,18 @@ Port Meridian is [[Aethermoor]]'s largest trading hub, where ships from across t
 | 12 | Ghost ship sighting in harbor |
 
 ## Connected Locations
-- [[Crystalhaven]] - Major trade partner
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Major trade partner
 - [[The Azure Coast]] - Regional area
-- [[The Crystalline Wastes]] - Source of plague?
-- [[The Verdant Reach]] - Food imports
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Source of plague?
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Food imports
 
 ## Active Quests
-- [[Quest - The Plague of Crystals]] - Main crisis
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - Main crisis
 - [[Quest - Smuggler's Run]] - Stop corruption trafficking
 - [[Quest - The Missing Fleet]] - Three ships vanished
 
 ## Key Factions
-- [[Merchant Princes]] - Ruling council
-- [[The Whisper Syndicate]] - Criminal network
+- [[01_Campaigns/Aethermoor/Factions/Merchant Princes]] - Ruling council
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Criminal network
 - [[Crystal Wardens]] - Military presence
 - Foreign trade guilds

@@ -20,7 +20,7 @@ key_npcs:
   - "[[The Nightmare Surgeons]]"
 connected_campaigns:
   - "All Aquabyssos campaigns"
-  - "[[Aethermoor Campaign Overview]]"
+  - "[[01_Campaigns/Aethermoor/Aethermoor Campaign Overview]]"
 status: "Epic Tier"
 ---
 

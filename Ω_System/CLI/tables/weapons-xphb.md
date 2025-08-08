@@ -60,4 +60,4 @@ modified: 2025-07-23 12:39
 | &emsp;[Pistol](/3-Mechanics/CLI/items/pistol-xphb.md) | `d10` Piercing | [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition) (Range 30/90; Bullet), [Loading](/3-Mechanics/CLI/item-properties.md#Loading) | [Vex](/3-Mechanics/CLI/item-mastery.md#Vex) | 3 lb. | 250 GP |
 ^weapons
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

@@ -14,7 +14,7 @@ image: "Ω_Assets/Lore/seven_shards.jpg"
 *Fragments of Godhood Scattered Across the World*
 
 ## Overview
-When the Crown of Stars shattered during [[The Great Crystallization]], it broke into seven primary fragments, each containing a portion of Aetheron's divine essence. These Shards are the most powerful artifacts in [[Aethermoor]], capable of granting godlike power or bringing about the world's destruction.
+When the Crown of Stars shattered during [[01_Campaigns/Aethermoor/Lore/The Great Crystallization]], it broke into seven primary fragments, each containing a portion of Aetheron's divine essence. These Shards are the most powerful artifacts in [[01_Campaigns/Aethermoor/Locations/Aethermoor]], capable of granting godlike power or bringing about the world's destruction.
 
 ## The Nature of Shards
 
@@ -35,30 +35,30 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Individual Shards
 
 ### The Clear Shard (Crystal Throne)
-**Location**: [[Crystalhaven]] - IS the Crystal Throne
+**Location**: [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - IS the Crystal Throne
 **Power**: Pure magical energy, authority
-**Guardian**: [[Queen Seraphina Lumengarde]]
+**Guardian**: [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
 **Effect**: Grants rulership, accelerates corruption
 **Secret**: Slowly merging with Queen
 
 ### The Crimson Shard (Blood)
-**Location**: [[Port Meridian]] harbor (sunken ship)
+**Location**: [[01_Campaigns/Aethermoor/Locations/Port Meridian]] harbor (sunken ship)
 **Power**: Life and death, necromancy
 **Guardian**: Corrupted Elemental
 **Effect**: Creates plague, animates dead
 **Status**: Causing crystal plague
 
 ### The Amber Shard (Earth)
-**Location**: [[High Inquisitor Maltheos]]'s possession
+**Location**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]'s possession
 **Power**: Physical might, endurance
 **Guardian**: The Purist Coalition
 **Effect**: Grants unbreakable will
 **Secret**: Maltheos doesn't know its true nature
 
 ### The Emerald Shard (Nature)
-**Location**: Heart Tree in [[The Verdant Reach]]
+**Location**: Heart Tree in [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 **Power**: Natural magic, growth, healing
-**Guardian**: [[Archdruid Thornweaver]]
+**Guardian**: [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]
 **Effect**: Accelerates plant growth
 **Secret**: Tree becoming sentient
 
@@ -70,7 +70,7 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 **Status**: Undiscovered by factions
 
 ### The Obsidian Shard (Shadow)
-**Location**: [[The Shadowmere]] depths
+**Location**: [[01_Campaigns/Aethermoor/Locations/The Shadowmere]] depths
 **Power**: Shadow, fear, nightmares
 **Guardian**: The Shadowmere itself
 **Effect**: Corrupts entire region
@@ -150,10 +150,10 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 ## Faction Knowledge
 
 ### Who Knows What
-- **[[The Crystal Throne]]**: Knows of 4 Shards
-- **[[Purist Coalition]]**: Has 1, knows of 3
-- **[[The Crimson Sage]]**: Knows all locations
-- **[[Vex Shadowthorn]]**: Knows of 5
+- **[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]**: Knows of 4 Shards
+- **[[01_Campaigns/Aethermoor/Factions/Purist Coalition]]**: Has 1, knows of 3
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]**: Knows all locations
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]**: Knows of 5
 - **[[The Order of the Shattered Crown]]**: Seeks all
 - **Common People**: Myth and legend only
 
@@ -210,10 +210,10 @@ If party gathers all seven:
 4. **Transform**: Change reality's nature
 
 ## Connected Topics
-- [[The Great Crystallization]] - Origin event
+- [[01_Campaigns/Aethermoor/Lore/The Great Crystallization]] - Origin event
 - [[The Crown of Stars]] - Original artifact
-- [[Quest - The Seventh Shard]] - The search
-- [[The Crimson Sage]] - Aetheron's form
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - The search
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Aetheron's form
 - All major factions - Seeking Shards
 
 ## DM Secrets

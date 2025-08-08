@@ -16,4 +16,4 @@ Initiative determines the order of turns during combat. The combat rules in "cha
 
 Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Initiative rolls, increase your Initiative score by 5. If you have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on those rolls, decrease that score by 5.
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

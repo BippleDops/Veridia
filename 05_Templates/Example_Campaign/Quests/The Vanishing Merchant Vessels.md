@@ -33,17 +33,17 @@ objectives:
 current_objective: Interview witnesses at the Salty Anchor Tavern and examine the
   harbor records
 related_npcs:
-- '[[01_Campaigns/Campaign_Name/NPCs/Councillor Elara Brightwater.md]]'
-- '[[01_Campaigns/Campaign_Name/NPCs/Captain Marcus Steelhart.md|Captain Marcus Steelhart]]'
-- '[[01_Campaigns/Campaign_Name/NPCs/Harbormaster Willem Tidecaller.md|Harbormaster Willem Tidecaller]]'
-- '[[01_Campaigns/Campaign_Name/NPCs/Lady Seraphina Goldleaf.md|Lady Seraphina Goldleaf]]'
+- '[[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]'
+- '[[05_Templates/Example_Campaign/NPCs/Captain Marcus Steelhart|Captain Marcus Steelhart]]'
+- '[[05_Templates/Example_Campaign/NPCs/Harbormaster Willem Tidecaller|Harbormaster Willem Tidecaller]]'
+- '[[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf|Lady Seraphina Goldleaf]]'
 related_locations:
-- '[[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]'
-- '[[01_Campaigns/Campaign_Name/Locations/The Salty Anchor Tavern.md|The Salty Anchor Tavern]]'
-- '[[01_Campaigns/Campaign_Name/Locations/Merchant''s Rest Island.md|Merchant''s Rest Island]]'
+- '[[05_Templates/Example_Campaign/Locations/Shadowhaven]]'
+- '[[05_Templates/Example_Campaign/Locations/The Salty Anchor Tavern|The Salty Anchor Tavern]]'
+- '[[05_Templates/Example_Campaign/Locations/Merchant's Rest Island|Merchant''s Rest Island]]'
 connected_quests:
-- '[[01_Campaigns/Campaign_Name/Quests/The Arcane Disturbances.md|The Arcane Disturbances]]'
-- '[[01_Campaigns/Campaign_Name/Quests/Shadows in High Places.md|Shadows in High Places]]'
+- '[[05_Templates/Example_Campaign/Quests/The Arcane Disturbances|The Arcane Disturbances]]'
+- '[[05_Templates/Example_Campaign/Quests/Shadows in High Places|Shadows in High Places]]'
 image_path: z_Assets/Quests/missing_vessels.jpg
 created: 2025-01-25 11:15
 modified: 2025-07-23 12:39
@@ -79,7 +79,7 @@ Three merchant vessels have vanished without a trace over the past month, causin
 
 ## Quest Giver & Background
 
-**Primary Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Councillor Elara Brightwater.md]]
+**Primary Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]
 
 Elara approaches the party privately, revealing that the merchant guild is fracturing under the pressure. Some members blame sabotage by rival cities, others suspect internal betrayal, and a few whisper about supernatural causes. She needs trustworthy outsiders to investigate without triggering a guild war.
 
@@ -98,7 +98,7 @@ Elara approaches the party privately, revealing that the merchant guild is fract
 ### The *Golden Current*  
 **Disappeared**: 19 days ago
 **Route**: Shadowhaven to Millbrook
-**Cargo**: Magical components, rare metals, [[Lady Seraphina Goldleaf]]'s mysterious locked chest
+**Cargo**: Magical components, rare metals, [[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf]]'s mysterious locked chest
 **Captain**: Elena Swiftwater (master navigator, never lost a ship)
 **Crew**: 8 members, mixture of local and foreign sailors
 **Last Contact**: Evening report mentioning "strange lights on the horizon"
@@ -122,9 +122,9 @@ Elara approaches the party privately, revealing that the merchant guild is fract
 - **Warehouse District**: Check for signs of the missing cargo being smuggled back into port
 
 **Important NPCs**:
-- **[[Harbormaster Willem Tidecaller]]**: Nervous about his reputation, hiding some information
-- **[[Old Salt Pete]]**: Retired sailor who claims to have seen strange lights
-- **[[Marianne Crowley]]**: Tavern keeper who hears everything and forgets nothing
+- **[[05_Templates/Example_Campaign/NPCs/Harbormaster Willem Tidecaller]]**: Nervous about his reputation, hiding some information
+- **[[05_Templates/Example_Campaign/NPCs/Old Salt Pete]]**: Retired sailor who claims to have seen strange lights
+- **[[05_Templates/Example_Campaign/NPCs/Marianne Crowley]]**: Tavern keeper who hears everything and forgets nothing
 
 **Potential Clues**:
 - Shipping logs show minor inconsistencies in departure times
@@ -140,9 +140,9 @@ Elara approaches the party privately, revealing that the merchant guild is fract
 - **Council Chambers**: Public sessions and private deals
 
 **Important NPCs**:
-- **[[Lady Seraphina Goldleaf]]**: Extremely concerned about her missing chest
-- **[[Master Thorne Blackforge]]**: Suspicious of foreign involvement
-- **[[The Benefactor]]** (Thieves Guild rep): Knows more than they're sharing
+- **[[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf]]**: Extremely concerned about her missing chest
+- **[[05_Templates/Example_Campaign/NPCs/Master Thorne Blackforge]]**: Suspicious of foreign involvement
+- **[[05_Templates/Example_Campaign/NPCs/The Benefactor]]** (Thieves Guild rep): Knows more than they're sharing
 
 **Potential Clues**:
 - Recent changes in trade agreements with rival cities
@@ -158,9 +158,9 @@ Elara approaches the party privately, revealing that the merchant guild is fract
 - **Temple District**: Divine guidance and protection rituals
 
 **Important NPCs**:
-- **[[Archmage Celestine Starweaver]]**: Can detect magical interference
-- **[[Oracle Moonwhisper]]**: Offers cryptic but accurate visions
-- **[[01_Campaigns/Campaign_Name/NPCs/Brother Matthias.md|Brother Matthias]]**: Protects against dark magic
+- **[[05_Templates/Example_Campaign/NPCs/Archmage Celestine Starweaver]]**: Can detect magical interference
+- **[[05_Templates/Example_Campaign/NPCs/Oracle Moonwhisper]]**: Offers cryptic but accurate visions
+- **[[05_Templates/Example_Campaign/NPCs/Brother Matthias|Brother Matthias]]**: Protects against dark magic
 
 **Potential Clues**:
 - Magical residue at departure points matches unknown school of magic
@@ -244,10 +244,10 @@ The perpetrators know they're being investigated and will attempt to:
 
 ## Connected Storylines
 
-### Links to [[The Arcane Disturbances]]
+### Links to [[05_Templates/Example_Campaign/Quests/The Arcane Disturbances]]
 The magical phenomena affecting trade routes may be connected to the unstable magical currents in the city itself.
 
-### Links to [[Shadows in High Places]]  
+### Links to [[05_Templates/Example_Campaign/Quests/Shadows in High Places]]  
 The political corruption uncovered during this investigation reveals deeper problems in Shadowhaven's leadership.
 
 ### Future Implications

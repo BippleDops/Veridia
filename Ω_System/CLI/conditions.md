@@ -198,6 +198,6 @@ While you have the Unconscious condition, you experience the following effects.
 
 **Unaware.** You're unaware of your surroundings.
 
-[[../../1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
 
-[[../../1-DM Toolkit/Travel Calculator]]
+[[Ω_Archive/1-DM Toolkit/Travel Calculator]]

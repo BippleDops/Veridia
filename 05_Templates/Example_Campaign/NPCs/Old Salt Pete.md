@@ -12,7 +12,7 @@ modified: 2025-07-23 13:45
 **Gender**: Male
 **Age**: 75
 **Occupation**: Retired Sailor
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Salty Anchor Tavern.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Salty Anchor Tavern]]
 
 ## Description
 Old Salt Pete is a salty old dog who has spent his entire life at sea. He is a regular at The Salty Anchor Tavern and is always willing to share a story or a bit of gossip for the price of a drink.

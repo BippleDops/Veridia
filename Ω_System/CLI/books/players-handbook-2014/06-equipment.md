@@ -657,6 +657,6 @@ When you make your character, you can roll once on the [Trinkets](/3-Mechanics/C
 
 ![](/3-Mechanics/CLI/books/players-handbook-2014/img/c514.webp#center)
 
-[[../../../../1-DM Toolkit/DnD5e-DM Screen-2014]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
 
-[[../../../../1-DM Toolkit/DnD5e-SideScreen-2014]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]

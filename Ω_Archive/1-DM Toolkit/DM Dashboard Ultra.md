@@ -179,7 +179,7 @@ modified: 2025-07-23 12:39
 >
 >> [!TIP|clean no-t]
 >> ### 📖 Quick Rules
->> - [[Conditions]]
+>> - [[Ω_System/CLI/conditions]]
 >> - [[Combat Rules]]
 >> - [[Skill Checks]]
 >> - [[Spellcasting Rules]]

@@ -1,7 +1,7 @@
 ---
 tags:
 - Category/Group
-MyContainer: '[[02_Worldbuilding/Atlas/Island of Skulls.md|Island of Skulls]]'
+MyContainer: '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
 MyCategory: Knightly Order
 obsidianUIMode: preview
 leader: Bob
@@ -49,13 +49,13 @@ modified: 2025-07-23 12:39
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!note|no-title]
->>> > ![[#General|no-h clean]]
+>>> > !General
 >>>
 >>> > [!div-m|no-title]
->>> > ![[#Goals|no-h clean]]
+>>> > !Goals
 >>> 
 >>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
+>>> > !GM Notes
 >>> 
 
 %% DO NOT MAKE CHANGES TO THIS PART OF THE TEMPLATE %%
@@ -73,19 +73,19 @@ modified: 2025-07-23 12:39
 > ~~~
 > >[!tabbed-box-maxh]
 > > >[!div-m|no-title]
-> > > ![[#Hierarchy|no-h clean]]
+> > > !Hierarchy
 > >
 > > > [!div-m|no-title]
-> > > ![[#Enemies/Allies|no-h clean]]
+> > > !Enemies/Allies
 > >
 > > > [!div-m|no-title]
-> > > ![[#Services|no-h clean]]
+> > > !Services
 > > 
 > > > [!div-m|no-title]
-> > > ![[#Membership|no-h clean]]
+> > > !Membership
 > > 
 > > > [!div-m|no-title]
-> > > ![[#Ranks|no-h clean]]
+> > > !Ranks
 
 %% MAKE CHANGES BELOW THIS LINE %%
 

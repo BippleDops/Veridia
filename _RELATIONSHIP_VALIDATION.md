@@ -1,0 +1,512 @@
+# Relationship Validation
+
+Generated: 2025-08-08 09:57:44
+
+
+## Unidirectional Relationships (A references B, but B doesn't reference A)
+
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/Locations/Ironhold.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/Locations/Sylvanheart.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/Locations/The Azure Coast.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/Locations/The Order of the Shattered Crown.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md → 01_Campaigns/Aquabyssos/Locations/Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Keeper Elara Moonwhisper.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Madame Rosalind Goldleaf.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/Sage Lyralei Starweaver.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Foundry.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/High Priestess Celeste Dawnbringer.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/Marcus "The Shade" Blackwood.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/Professor Aldric Crystalweaver.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aquabyssos/Locations/Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md → 01_Campaigns/Aquabyssos/NPCs/Jasper "Three-Eyes" Flint.md
+- 01_Campaigns/Aethermoor/Locations/Goldspire Port.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/Goldspire Port.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/Locations/Goldspire Port.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/Goldspire Port.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/Locations/Goldspire Port.md → 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md
+- 01_Campaigns/Aethermoor/Locations/New Thalassopolis.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/New Thalassopolis.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/Locations/New Thalassopolis.md → 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md
+- 01_Campaigns/Aethermoor/Locations/New Thalassopolis.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/Keeper Elara Moonwhisper.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/Madame Rosalind Goldleaf.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/The Azure Coast.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/The Order of the Shattered Crown.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/The Sundered Peaks.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/The Tidecaller.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/High Priestess Celeste Dawnbringer.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/Lord Aurelius Goldwave.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/Locations/Elder Matthias Stoneward.md
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/Locations/The Order of the Shattered Crown.md
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
+- 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/Locations/The Sundered Peaks.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/The Embassy Quarter.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/Locations/The Shadowmere.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/The Shadowmere.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/Locations/The Shadowmere.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
+- 01_Campaigns/Aethermoor/Locations/The Shadowmere.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/Locations/The Shattered Sanctum.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/Locations/The Shattered Sanctum.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/Locations/The Shattered Sanctum.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/The Sundered Peaks.md → 01_Campaigns/Aethermoor/Locations/Ironhold.md
+- 01_Campaigns/Aethermoor/Locations/The Sundered Peaks.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
+- 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
+- 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md → 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/Locations/Ironhold.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md → 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/Locations/Sylvanheart.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/Locations/Keeper Elara Moonwhisper.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/High Priestess Celeste Dawnbringer.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Lord Aurelius Goldwave.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Marcus "The Shade" Blackwood.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/Quest - Syndicate Shadows.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md → 01_Campaigns/Aquabyssos/NPCs/Jasper "Three-Eyes" Flint.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/Locations/Elder Matthias Stoneward.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/Locations/Ironhold.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/NPCs/Empress Tethys the Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
+- 01_Campaigns/Aethermoor/NPCs/Empress Tethys the Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Empress Tethys the Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
+- 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/Locations/Ironhold.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/High Priestess Celeste Dawnbringer.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/Marcus "The Shade" Blackwood.md
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md → 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md
+- 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md → 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md
+- 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md → 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md
+- 01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/Investigate the Crystal Plague.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/Jasper Three-Eyes Flint.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/Lord Aurelius Goldwave.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/The Bloodline Carrier.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aquabyssos/Locations/The Seven Shards Mystery.md
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md → 01_Campaigns/Aquabyssos/NPCs/The Depth Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/Locations/Sage Lyralei Starweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Foundry.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/NPCs/Professor Aldric Crystalweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/Locations/Sylvanheart.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/NPCs/Aria Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/NPCs/High Priestess Celeste Dawnbringer.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/NPCs/Professor Aldric Crystalweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/Locations/Crystalhaven.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/Locations/The Shadowmere.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/The Verdant Accord.md
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md → 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md
+- 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md → 01_Campaigns/Aethermoor/Locations/The Sundered Peaks.md
+- 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md → 01_Campaigns/Aethermoor/NPCs/Lord Aurelius Goldwave.md
+- 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md → 01_Campaigns/Aethermoor/NPCs/Professor Aldric Crystalweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aethermoor/NPCs/Admiral Cassandra Stormwind.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aethermoor/NPCs/Brother Marcus Steelbane.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aethermoor/NPCs/Crystal Wardens.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aethermoor/NPCs/Lord Aurelius Goldwave.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aethermoor/NPCs/Marcus "The Shade" Blackwood.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aethermoor/NPCs/Quest - Syndicate Shadows.md
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md → 01_Campaigns/Aquabyssos/NPCs/Jasper "Three-Eyes" Flint.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md
+- 01_Campaigns/Aethermoor/NPCs/Zephyr Goldwhisper.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/Crystallium.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/Pressure Terminal.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/The Conductor.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/The Depth Market.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/The Forgotten Representative.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/Locations/The Mourning Depths.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Marina Red Tide Coralheart - Aquabyssos.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Reflection Pools.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md → 01_Campaigns/Aquabyssos/NPCs/Throne of Bubbles.md
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aethermoor/Locations/The Sunken Markets.md
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md → 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Archivist Vera Glowmind.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Artisan Felix Reefwright.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Coral Courts.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Doctor Silas Voidtouch.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Merchant Delilah Currentrunner.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/Locations/Whisper-Witch Naia Softcurrent.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/High Cultivist Jasper Lifebinder.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/Master Cultivator Thalia Greenglow.md
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md → 01_Campaigns/Aquabyssos/NPCs/The Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/Memoriam - The Forgotten Continent.md → 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md
+- 01_Campaigns/Aquabyssos/Locations/Nereidios.md → 01_Campaigns/Aquabyssos/Locations/Crystallium.md
+- 01_Campaigns/Aquabyssos/Locations/Nereidios.md → 01_Campaigns/Aquabyssos/Locations/Memoriam.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Church of the Tidal Throne.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Coral Courts.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Keeper Elara Mindwell.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Merchant Delilah Currentrunner.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/Tethyan Hegemony.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/Locations/The Pressure Crown.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Enforcer Chief Mako Ironjaw.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/The Cerulean Breath.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/The Deepmind Conspiracy.md
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md → 01_Campaigns/Aquabyssos/NPCs/The Emergence.md
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md → 01_Campaigns/Aquabyssos/Locations/The Forgotten Representative.md
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md → 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md → 01_Campaigns/Aquabyssos/Locations/The Seven Shards Mystery.md
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md → 01_Campaigns/Aquabyssos/Locations/Time-Lost Delegate Chronus.md
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md → 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/Battle Priest Cassius Depthshield.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/Beast Master Krell Chainbreaker.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/Commander Drake Pressureborn.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/Master Smith Vulcan Deepforge.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/Spymaster Crow.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/Locations/The Hadal Depths.md
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md → 01_Campaigns/Aquabyssos/NPCs/Doctor Helena Voidwalker.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aethermoor/Locations/Port Meridian.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aquabyssos/Locations/Gallery of Frozen Waves.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aquabyssos/Locations/The Conductor.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Ambassador Lysandra Silvertonge.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Church of the Tidal Throne.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Coral Courts.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Mediator Serenity Stillwater.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/Tethyan Hegemony.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/The Pressure Crown.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/Locations/The Trencher Folk.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Broker Mist.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Beast Master Krell Chainbreaker.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Doctor Silas Voidtouch.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Elder Whisper-In-The-Dark.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Lumengarde.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Mad Prophet Silas the Depth-Touched.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/Scout Captain Vera Deepwatch.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/The Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/The Hadal Depths.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/Locations/The Trencher Folk.md
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md → 01_Campaigns/Aquabyssos/NPCs/The Cerulean Breath.md
+- 01_Campaigns/Aquabyssos/Locations/The Infinite Garden.md → 01_Campaigns/Aquabyssos/Locations/Crystallium.md
+- 01_Campaigns/Aquabyssos/Locations/The Infinite Garden.md → 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md
+- 01_Campaigns/Aquabyssos/Locations/The Infinite Garden.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md → 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md → 01_Campaigns/Aquabyssos/Locations/Pressure Terminal.md
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md → 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md → 01_Campaigns/Aquabyssos/Locations/The Depth Market.md
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md → 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md → 01_Campaigns/Aquabyssos/Locations/Nereidios.md
+- 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md → 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md
+- 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Lucky Finn Dicetide.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Market Master Cornelius Driftwood.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Merchant Delilah Currentrunner.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/Pressure's End.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/The Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/Locations/The Hadal Depths.md
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md → 01_Campaigns/Aquabyssos/NPCs/Banker Titus Goldcurrent.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/Anti-Priest Nullus.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/Chronomancer Paradox.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/Elder Whisper-In-The-Dark.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/The Forgotten One.md
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/Locations/The Suicide Bridges.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
+- 01_Campaigns/Aquabyssos/Locations/The Suicide Bridges.md → 01_Campaigns/Aquabyssos/Locations/The Mourning Depths.md
+- 01_Campaigns/Aquabyssos/Locations/The Suicide Bridges.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Astrologer Prime Cassandra Starweaver.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Brother Matthias Inkdrinker.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Choir Master Celestine Hymnsinger.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Church of the Tidal Throne.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Inquisitor Mordecai Truthseeker.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Old Valdris.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/Locations/Sister Morwyn.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/NPCs/The Deepmind Conspiracy.md
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md → 01_Campaigns/Aquabyssos/NPCs/The Emergence.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Commander Typhoon Blackheart.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Engineer Brass Gearspin.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/Harbor Master Luna Freedrift.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/New Tethys.md
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Battle Priest Cassius Depthshield.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Beast Master Krell Chainbreaker.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Commander Drake Pressureborn.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Depth Wardens.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Master Smith Vulcan Deepforge.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Mediator Serenity Stillwater.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Scout Captain Vera Deepwatch.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/Spymaster Crow.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/The Hadal Depths.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md → 01_Campaigns/Aquabyssos/NPCs/Doctor Helena Voidwalker.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/Ambassador Lysandra Silvertonge.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/Doctor Silas Voidtouch.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/Keeper Elara Mindwell.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/Tethyan Hegemony.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Banker Titus Goldcurrent.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Enforcer Chief Mako Ironjaw.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Broker Mist.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/The Deepmind Conspiracy.md
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md → 01_Campaigns/Aquabyssos/NPCs/The Emergence.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Commander Typhoon Blackheart.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Engineer Brass Gearspin.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Free Current.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Harbor Master Luna Freedrift.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Lucky Finn Dicetide.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Lumengarde.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Market Master Cornelius Driftwood.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/Merchant Delilah Currentrunner.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/The Free Current.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/NPCs/Banker Titus Goldcurrent.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/NPCs/Enforcer Chief Mako Ironjaw.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Broker Mist.md
+- 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md → 01_Campaigns/Aquabyssos/NPCs/The Emergence.md
+- 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
+- 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III.md
+- 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md
+- 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md → 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/Artisan Felix Reefwright.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/Coral Courts.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/Doctor Silas Voidtouch.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/Pressure's End.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/Locations/Whisper-Witch Naia Softcurrent.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/NPCs/High Cultivist Jasper Lifebinder.md
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md → 01_Campaigns/Aquabyssos/NPCs/Master Cultivator Thalia Greenglow.md
+- 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md → 01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent.md
+- 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md → 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md
+- 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md → 01_Campaigns/Aethermoor/NPCs/The Crimson Sage.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Anti-Priest Nullus.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Astrologer Prime Cassandra Starweaver.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Brother Matthias Inkdrinker.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Choir Master Celestine Hymnsinger.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Church of the Tidal Throne.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Inquisitor Mordecai Truthseeker.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Mad Prophet Silas the Depth-Touched.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/Sister Morwyn.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/NPCs/High Cultivist Jasper Lifebinder.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/NPCs/The Deepmind Conspiracy.md
+- 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md → 01_Campaigns/Aquabyssos/NPCs/The Emergence.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/Archivist Vera Glowmind.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/Chronomancer Paradox.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/Doctor Silas Voidtouch.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/Elder Whisper-In-The-Dark.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/The Deepmind.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/The Forgotten One.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/The Great Drowning.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/NPCs/Doctor Helena Voidwalker.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/NPCs/Master Cultivator Thalia Greenglow.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer.md
+- 01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought.md → 01_Campaigns/Aquabyssos/NPCs/The Cerulean Breath.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md → 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md → 01_Campaigns/Aquabyssos/NPCs/Investigate Shadow Conspiracy.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md → 01_Campaigns/Aquabyssos/NPCs/Marina Red Tide Coralheart - Aquabyssos.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md → 01_Campaigns/Aquabyssos/NPCs/Reflection Pools.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md → 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md → 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md → 01_Campaigns/Aquabyssos/NPCs/Captain Garrett Stormcutter.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md → 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md
+- 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
+- 01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet.md → 01_Campaigns/Aquabyssos/Locations/Crystallium.md
+- 01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md
+- 01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet.md → 01_Campaigns/Aquabyssos/NPCs/The Sorrowmaster.md
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md → 01_Campaigns/Aquabyssos/NPCs/Investigate Shadow Conspiracy.md
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md → 01_Campaigns/Aquabyssos/NPCs/Marina Red Tide Coralheart - Aquabyssos.md
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md → 01_Campaigns/Aquabyssos/NPCs/Throne of Bubbles.md
+- 01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime.md → 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md
+- 01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime.md → 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md
+- 01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime.md → 01_Campaigns/Aquabyssos/NPCs/Tenebrarum.md
+- 01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime.md → 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md
+- 01_Campaigns/Locations/Market_District.md → 01_Campaigns/Aquabyssos/NPCs/Mayor Thompson.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Aquabyssos/Locations/Azure Citadel.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Aquabyssos/Locations/Captain Marlowe Tidecrest.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Aquabyssos/Locations/Master Smith Coral-Hammer.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Aquabyssos/NPCs/The Barnacle.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Aquabyssos/NPCs/The Coral Throne Syndicate.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Aquabyssos/NPCs/The Depth Wardens.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/Locations/Market_District.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 01_Campaigns/NPCs/Gareth_Ironforge.md
+- 01_Campaigns/Locations/Pearl_Harbor_City.md → 05_Templates/Example_Campaign/NPCs/Whisper Jack.md
+- 01_Campaigns/NPCs/Gareth_Ironforge.md → 01_Campaigns/Aquabyssos/NPCs/Mayor Thompson.md
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md → 01_Campaigns/Aquabyssos/NPCs/The Depth Wardens.md
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md → 01_Campaigns/Locations/Pearl_Harbor_City.md
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md → 01_Campaigns/NPCs/Gareth_Ironforge.md
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md → 01_Campaigns/NPCs/The_Crimson_Pearl.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 01_Campaigns/Aquabyssos/Locations/Captain Marlowe Tidecrest.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 01_Campaigns/Aquabyssos/NPCs/Blood in the Water.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 01_Campaigns/Aquabyssos/NPCs/The Barnacle.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 01_Campaigns/Aquabyssos/NPCs/The Coral Throne Syndicate.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 01_Campaigns/Locations/Market_District.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 01_Campaigns/NPCs/Gareth_Ironforge.md
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md → 05_Templates/Example_Campaign/NPCs/Whisper Jack.md

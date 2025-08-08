@@ -11,8 +11,8 @@ class: "Rogue"
 level: 6
 alignment: "Chaotic Neutral"
 status: "active"
-location_current: "[[../Locations/Port Verran]]"
-location_home: "[[../Locations/Port Verran]]"
+location_current: "[[05_Templates/Example_Campaign/Locations/Port Verran]]"
+location_home: "[[05_Templates/Example_Campaign/Locations/Port Verran]]"
 faction: "The Merchant's Guild"
 relationships:
   allies: []
@@ -40,7 +40,7 @@ combat:
 > | **Class** | Rogue |
 > | **Alignment** | Chaotic Neutral |
 > | **Status** | Active |
-> | **Location** | [[01_Campaigns/Campaign_Name/Locations/Port Verran.md|Port Verran]] |
+> | **Location** | [[05_Templates/Example_Campaign/Locations/Port Verran|Port Verran]] |
 > | **Faction** | The Merchant's Guild |
 
 ---

@@ -8,7 +8,7 @@ modified: 2025-07-23 14:20
 # Port Celeste
 
 ## General Info
-**Location**: East of [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: East of [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 Port Celeste is a bustling port city that is a major rival of Shadowhaven. It is a city of merchants and sailors, and it is known for its beautiful architecture and its vibrant nightlife.

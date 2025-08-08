@@ -2,11 +2,11 @@
 session_number: 9
 title: "The Price of Unity"
 date_played: 
-location: "[[New Meridian]] - The Merged City"
+location: "New Meridian - The Merged City"
 npcs_featured: 
-  - "[[Queen Seraphina Lumengarde]]"
-  - "[[Captain Lyanna Brightshield]]"
-  - "[[Marina Red Tide Coralheart]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]"
   - "[[Aquabyssos Ambassadors]]"
   - "[[The Transformed Citizens]]"
 quests_advanced:
@@ -31,7 +31,7 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 ### Scene 1: The Citizens' Choice
 - **Location**: Various districts of merged Meridian
 - **Situation**: Help confused citizens choose their form
-- **Conflict**: [[Purist Coalition]] attempts violent separation
+- **Conflict**: [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] attempts violent separation
 - **Discovery**: Some citizens thrive in dual form
 
 ### Scene 2: The Ambassador's Arrival
@@ -58,11 +58,11 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 2. Some transformed citizens prefer their new forms
 3. Aquabyssos technology could revolutionize Aethermoor
 4. The Entity left seeds of itself in some citizens
-5. [[Marina Red Tide Coralheart]]'s bloodline can speak for Aquabyssos
-6. The Queen and [[Captain Lyanna Brightshield]] share a soul-bond
+5. [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]'s bloodline can speak for Aquabyssos
+6. The Queen and [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] share a soul-bond
 7. Time moves differently in merged zones
 8. Children adapt to the merge most easily
-9. [[The Crimson Sage]] left one final message
+9. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] left one final message
 10. Perfect unity is impossible but harmony is achievable
 
 ## 👥 NPCs
@@ -116,10 +116,10 @@ Dawn approaches. The merged city is in chaos - some citizens exist in both forms
 
 ## 🎭 Cliffhanger Ending
 
-As the stabilization completes, the bloodline carrier makes their choice about the crown. Suddenly, a message arrives from the Eastern Kingdoms - they've detected the reality shift and are sending a fleet to "quarantine the anomaly." Worse, deep beneath [[Aquabyssos]], something ancient stirs - something the Drowned God was keeping asleep. [[The Crimson Sage]]'s final message plays: "The seven shards were not the first prison. They will not be the last. When the Deep Mother wakes, both worlds must stand as one." The ocean beneath the floating city begins to boil.
+As the stabilization completes, the bloodline carrier makes their choice about the crown. Suddenly, a message arrives from the Eastern Kingdoms - they've detected the reality shift and are sending a fleet to "quarantine the anomaly." Worse, deep beneath [[Aquabyssos]], something ancient stirs - something the Drowned God was keeping asleep. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]'s final message plays: "The seven shards were not the first prison. They will not be the last. When the Deep Mother wakes, both worlds must stand as one." The ocean beneath the floating city begins to boil.
 
 ## 🔗 Connected Notes
-- [[New Meridian Districts]]
+- New Meridian Districts
 - [[Merged Reality Zones]]
 - [[Aquabyssos-Aethermoor Treaties]]
 - [[The Deep Mother]]

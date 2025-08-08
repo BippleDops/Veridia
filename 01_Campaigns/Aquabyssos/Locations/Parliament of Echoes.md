@@ -1,7 +1,7 @@
 ---
 tags: [location, aquabyssos, political, horror, temporal]
 location_type: "Government Building"
-continent: "[[Abyssos Prime]]"
+continent: "[[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]"
 depth: "1,500-2,000 feet"
 population: "~500 (plus countless echoes)"
 danger_level: "High (Political)"
@@ -43,7 +43,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Central podium exists in all timelines
   - Faction seating that shifts with alliances
   - The Speaker's Throne (empty for 200 years)
-- **NPCs**: [[Senator Glaucus]], [[Time-Lost Delegate Chronus]]
+- **NPCs**: [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]], [[Time-Lost Delegate Chronus]]
 
 #### Level 3: The Vote Vaults
 - **Purpose**: Physical storage of all votes ever cast
@@ -83,7 +83,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 #### The Transformed
 - **Belief**: Evolution to aquatic forms is destiny
 - **Seats**: 52
-- **Leader**: [[Duke Cyrus Reefheart]]
+- **Leader**: [[01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart]]
 - **Goal**: Accelerate adaptation process
 
 #### The Returners
@@ -235,19 +235,19 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 ## 🔗 Connections
 
 ### NPCs
-- [[Senator Glaucus]] - Current senator
-- [[The Scattered Emperor]] - Observes through eels
-- [[Shadow Duchess Nyx]] - Investigating shadows
+- [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]] - Current senator
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] - Observes through eels
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] - Investigating shadows
 - [[Time-Lost Delegate Chronus]] - Temporal guardian
 
 ### Locations
-- [[Abyssos Prime]] - Parent city
-- [[The Inverse Palace]] - Emperor's seat
-- [[Memory Meadows]] - Memory trade source
+- [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]] - Parent city
+- [[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]] - Emperor's seat
+- [[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]] - Memory trade source
 - [[Tenebrarum]] - Shadow Parliament origin
 
 ### Campaigns
-- [[The Parliament of Shadows Campaign]]
+- [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]
 - [[Political Intrigue of Meridian]]
 - [[The Seven Shards Mystery]]
 

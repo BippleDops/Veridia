@@ -15,7 +15,7 @@ Once the greatest temple to the gods of the surface world, the Cathedral of Star
 ## Cathedral Levels
 
 ### The Drowned Narthex (Entry)
-The grand entrance hall, half-flooded, where [[Prophet Nerida Voidgazer]] greets pilgrims and judges their worthiness. Massive doors bear warnings in ancient script about the trials within. [[Temple Guardian Marcus the Drowned]] stands eternal watch, neither living nor dead.
+The grand entrance hall, half-flooded, where [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] greets pilgrims and judges their worthiness. Massive doors bear warnings in ancient script about the trials within. [[Temple Guardian Marcus the Drowned]] stands eternal watch, neither living nor dead.
 
 ### The Nave of Echoes (Ground Floor)
 The main worship hall where services are held when the water recedes. The ceiling shows constellations that no longer match the sky above water. [[Choir Master Celestine Hymnsinger]] leads the Drowned Choir in songs that can be heard for miles underwater.
@@ -67,7 +67,7 @@ Wall paintings that change based on the water level, telling different stories o
 ## Current Inhabitants
 
 ### Church Leadership
-- [[Prophet Nerida Voidgazer]] - High Prophet
+- [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] - High Prophet
 - [[Inquisitor Mordecai Truthseeker]] - Chief Inquisitor
 - [[Choir Master Celestine Hymnsinger]] - Music Director
 - [[Brother Matthias Inkdrinker]] - Chief Librarian
@@ -115,7 +115,7 @@ Grants authority over all water-based divine magic in Aquabyssos.
 > - The cathedral's air bubble is maintained by an imprisoned angel
 > - Prophet Nerida is receiving visions from the Deepmind, not the gods
 > - The Constellation Codex reveals the gods themselves caused the drowning
-> - The crypts connect to [[The Primordial Vaults]]
+> - The crypts connect to [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]]
 > - The Last Prayer would free the entity, not stop the drowning
 
 ## Random Encounters (d10)
@@ -131,7 +131,7 @@ Grants authority over all water-based divine magic in Aquabyssos.
 10. Dead clergy rising from crypts
 
 ## Connected NPCs
-- [[Prophet Nerida Voidgazer]] - High Prophet
+- [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] - High Prophet
 - [[Inquisitor Mordecai Truthseeker]] - Chief Inquisitor
 - [[Choir Master Celestine Hymnsinger]] - Music leader
 - [[Brother Matthias Inkdrinker]] - Librarian
@@ -140,10 +140,10 @@ Grants authority over all water-based divine magic in Aquabyssos.
 - [[Astrologer Prime Cassandra Starweaver]] - Fortune teller
 
 ## Connected Locations
-- [[The Bathyal Palace]] - Diplomatic relations
-- [[New Tethys]] - Many pilgrims from here
-- [[The Primordial Vaults]] - Secret connection through crypts
-- [[Old Valdris]] - Sister temple (ruined)
+- [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]] - Diplomatic relations
+- [[01_Campaigns/Aquabyssos/Locations/New Tethys]] - Many pilgrims from here
+- [[01_Campaigns/Aquabyssos/Locations/The Primordial Vaults]] - Secret connection through crypts
+- [[01_Campaigns/Aquabyssos/Locations/Old Valdris]] - Sister temple (ruined)
 
 ## Quests Available
 - [[The Divine Trial]] - Survive the cathedral's tests

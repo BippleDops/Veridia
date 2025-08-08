@@ -8,10 +8,10 @@ modified: 2025-07-23 14:40
 # Harbor Master's Office
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] Docks
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]] Docks
 
 ## Description
-The Harbor Master's Office is a small, cluttered building that overlooks the harbor. It is here that [[01_Campaigns/Campaign_Name/NPCs/Harbormaster Willem Tidecaller.md]] conducts his business.
+The Harbor Master's Office is a small, cluttered building that overlooks the harbor. It is here that [[05_Templates/Example_Campaign/NPCs/Harbormaster Willem Tidecaller]] conducts his business.
 
 ## GM Notes
 - The office is a good place to find shipping manifests and other documents related to the harbor.

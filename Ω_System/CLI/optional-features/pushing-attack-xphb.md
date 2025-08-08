@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 When you hit a creature with an attack roll using a weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend one Superiority Die to attempt to drive the target back. Add the Superiority Die to the attack's damage roll. If the target is Large or smaller, it must succeed on a Strength saving throw or be pushed up to 15 feet directly away from you.
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

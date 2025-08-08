@@ -81,4 +81,4 @@ modified: 2025-07-23 12:39
 - [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")
 - [True Resurrection](/3-Mechanics/CLI/spells/true-resurrection-xphb.md "XPHB")
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

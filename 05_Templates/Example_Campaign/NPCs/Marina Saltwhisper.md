@@ -32,12 +32,12 @@ combat:
 ---
 > [!infobox]
 > # Marina Saltwhisper
-> ![[z_Assets/Characters/marina_saltwhisper.jpg|cover]]
+> ![[05_Templates/Example_Campaign/NPCs/Marina Saltwhisper|cover]]
 > ###### Basic Information
 > | | |
 > |---|---|
 > | **Occupation** | Tavern Keeper |
-> | **Location** | [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] Docks |
+> | **Location** | [[05_Templates/Example_Campaign/Locations/Shadowhaven]] Docks |
 > | **Faction** | Former Pirates |
 > | **Status** | Active |
 > ###### Appearance
@@ -123,12 +123,12 @@ Marina runs a popular tavern near the docks called "The Whispering Tide" where:
 ## Relationships
 
 ### Current Allies
-- **[[Harbormaster Willem Tidecaller]]** - Professional relationship, mutual respect
-- **[[Old Salt Pete]]** - Fellow former seafarer, shares information
+- **[[05_Templates/Example_Campaign/NPCs/Harbormaster Willem Tidecaller]]** - Professional relationship, mutual respect
+- **[[05_Templates/Example_Campaign/NPCs/Old Salt Pete]]** - Fellow former seafarer, shares information
 - **Local Dock Workers** - Protective of her tavern and her discretion
 
 ### Hidden Enemies
-- **[[01_Campaigns/Campaign_Name/NPCs/Captain Blackwater.md|Captain Blackwater]]** - Former pirate captain who might recognize her
+- **[[05_Templates/Example_Campaign/NPCs/Captain Blackwater|Captain Blackwater]]** - Former pirate captain who might recognize her
 - **The Crimson Tide Pirates** - Active crew that might threaten her new life
 
 ### Potential Relationships

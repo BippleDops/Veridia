@@ -8,8 +8,8 @@ modified: 2025-07-23 14:35
 # Locate the Eye Ball
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/Player_Characters/Example Party 1/Bob.md|Bob]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/Player_Characters/Example Party 1/Bob|Bob]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Quest Details
 Bob has lost his lucky glass eye and needs the party to help him find it.

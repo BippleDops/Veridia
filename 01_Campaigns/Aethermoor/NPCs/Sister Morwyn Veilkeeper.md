@@ -6,7 +6,7 @@ tags:
   - mystic
   - neutral
 type: NPC
-location: "[[The Shadowmere]]"
+location: "[[01_Campaigns/Aethermoor/Locations/The Shadowmere]]"
 faction: "[[Order of the Shattered Crown]]"
 race: Half-Elf
 class: Shadow Oracle
@@ -18,7 +18,7 @@ status: Active
 # Sister Morwyn Veilkeeper
 
 ## Overview
-A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[The Shadowmere]], where the boundary between reality and shadow grows thin.
+A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[01_Campaigns/Aethermoor/Locations/The Shadowmere]], where the boundary between reality and shadow grows thin.
 
 ## Appearance
 - Age: 47 (appears younger due to shadow exposure)
@@ -52,10 +52,10 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 - 1st-5th level: Shadow spells and divination magic
 
 ## Relationships
-- **[[The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
-- **[[High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
-- **[[Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
-- **[[Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
+- **[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
 - **Ambassador Nerida Deepcurrent**: Secret correspondence about underwater omens
 
 ## Current Activities

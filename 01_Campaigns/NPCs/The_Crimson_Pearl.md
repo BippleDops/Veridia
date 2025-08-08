@@ -3,7 +3,7 @@ tags: [npc]
 first_name: "Scarlett"
 last_name: "Unknown"
 title: "The Crimson Pearl"
-location: "[[Pearl Harbor City]]"
+location: "[[01_Campaigns/Locations/Pearl_Harbor_City]]"
 faction: "[[The Coral Throne Syndicate]]"
 occupation: "Crime Boss / Trade Magnate"
 disposition: -2
@@ -20,8 +20,8 @@ portrait: "Ω_Assets/npcs/crimson-pearl.png"
 relationship_type: "criminal"
 relationships: 
   - "[[High Tidecaller Nerissa]]"
-  - "[[Gareth Ironforge]]"
-  - "[[Whisper Jack]]"
+  - "[[01_Campaigns/NPCs/Gareth_Ironforge]]"
+  - "[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]"
   - "[[The Barnacle]]"
   - "[[Captain Marlowe Tidecrest]]"
   - "[[Aboleth Prime Yoth'zagoth]]"
@@ -29,7 +29,7 @@ related_quests:
   - "[[Smuggler's Gambit]]"
   - "[[The Pressure Pirates]]"
   - "[[Blood in the Water]]"
-  - "[[Find the Missing Caravan]]"
+  - "[[01_Campaigns/Quests/Find_the_Missing_Caravan]]"
 last_encounter: ""
 stats:
   str: 10
@@ -52,7 +52,7 @@ No one knows Scarlett's real name anymore - she's been The Crimson Pearl for so 
 ## Background
 
 ### The Surface Tragedy
-Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[Market District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
+Two hundred years ago, Scarlett was a legitimate pearl trader who made regular runs to [[01_Campaigns/Locations/Market_District]]. During one surface visit, she encountered a vampire lord who saw potential in her ability to move between worlds. He turned her into a spawn, but the transformation went wrong when she returned to water - creating something unique and terrible.
 
 ### Rise to Power
 - Murdered the previous Syndicate leader in single combat
@@ -71,7 +71,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - **Depth Running:** Illegal transportation to restricted zones
 
 ### Key Lieutenants
-- **[[Whisper Jack]]** - Smuggling operations
+- **[[05_Templates/Example_Campaign/NPCs/Whisper Jack]]** - Smuggling operations
 - **[[The Barnacle]]** - Fencing and money laundering
 - **[[Captain 'Red Tide' Morgan]]** - Piracy fleet
 - **[[The Schooling]]** - Spy network of orphans
@@ -114,12 +114,12 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - Occasionally share information
 - Would destroy each other if they could
 
-### [[Gareth Ironforge]]
+### [[01_Campaigns/NPCs/Gareth_Ironforge]]
 "The dwarf's gold spends well, and he asks few questions."
 - Supplies him with rare deep metals
 - He provides surface weapons
 - Both know it's dirty but need each other
-- Connected through [[Find the Missing Caravan]]
+- Connected through [[01_Campaigns/Quests/Find_the_Missing_Caravan]]
 
 ### [[Aboleth Prime Yoth'zagoth]]
 "Even I have things I won't deal with. Usually."
@@ -128,7 +128,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 - Both immortal perspectives
 - Share certain ancient secrets
 
-### [[Whisper Jack]]
+### [[05_Templates/Example_Campaign/NPCs/Whisper Jack]]
 "My best knife - sharp, reliable, and knows when to stay sheathed."
 - Complete trust (rare for her)
 - Saved each other's lives multiple times
@@ -208,7 +208,7 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 1. **The Sire:** Her vampire lord still seeks her from surface
 2. **The Haven:** Hidden in sunken ship graveyard
 3. **The Cure Research:** Has partially succeeded
-4. **The Surface Tunnel:** Direct route to [[Market District]]
+4. **The Surface Tunnel:** Direct route to [[01_Campaigns/Locations/Market_District]]
 5. **The Pearl Cultivation:** Feeds pearls her blood
 6. **The Restoration Funding:** Profits from chaos
 7. **The Guard Captain:** Controls harbor security

@@ -151,8 +151,8 @@ That she IS a shadow who killed her original
 ## 🔗 Relationships
 
 ### Allies (Tenuous)
-- [[The Scattered Emperor]] - Mutual benefit
-- [[Marina "Red Tide" Coralheart]] - Information exchange
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] - Mutual benefit
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Information exchange
 - Shadowless Cult - Devoted followers
 
 ### Enemies
@@ -162,7 +162,7 @@ That she IS a shadow who killed her original
 
 ### Complicated
 - Her own shadow (destroyed but haunts her)
-- [[The Parliament of Echoes]] (investigating)
+- [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]] (investigating)
 - Surface seekers (potential allies)
 
 ## 🎯 Plot Hooks
@@ -174,7 +174,7 @@ That she IS a shadow who killed her original
 4. **The Fear Itself**: Protect Nyx from shadow assassination
 
 ### Campaign Integration
-- Key figure in [[The Parliament of Shadows Campaign]]
+- Key figure in [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]
 - Potential ally against shadow conspiracy
 - Source of shadow-related equipment/knowledge
 - Living example of the cost of power

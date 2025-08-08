@@ -35,7 +35,7 @@ The Inverse Palace defies every law of nature, a massive complex where gravity b
 - Breaking a bubble releases a death scream (WIS save DC 13 or frightened)
 
 **Notable NPCs**:
-- [[The Scattered Emperor]] - Mad consciousness across creatures
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] - Mad consciousness across creatures
 - [[Court Herald Titus]] - Translates the Emperor's fragmented speech
 - [[The Eel Keepers]] - Maintain the Emperor's physical forms
 
@@ -126,7 +126,7 @@ Still serve the fragmented Emperor despite his madness
 
 ### The Pragmatists
 Seek to maintain status quo while Emperor is incapacitated
-- **Leader**: [[Senator Glaucus]]
+- **Leader**: [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]
 - **Goal**: Prevent chaos, slow change
 - **Resource**: Bureaucratic control
 
@@ -197,8 +197,8 @@ The shadows of courtiers forming their own government
 ## 🔗 Connections
 
 ### To Other Locations
-- [[Parliament of Echoes]]: Underground tunnel, flooded
-- [[Screaming Gardens]]: View from palace windows
+- [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]: Underground tunnel, flooded
+- [[01_Campaigns/Aquabyssos/Locations/Screaming Gardens]]: View from palace windows
 - [[The Depth Market]]: Secret passages for smuggling
 - [[Pressure Terminal]]: Official transport hub
 
@@ -270,19 +270,19 @@ Prophecies suggest the palace will either be the key to raising Aquabyssos or th
 ---
 
 ### Related Locations
-- [[Abyssos Prime]]
-- [[Parliament of Echoes]]
-- [[Screaming Gardens]]
+- [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]
+- [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
+- [[01_Campaigns/Aquabyssos/Locations/Screaming Gardens]]
 - [[The Depth Market]]
 
 ### Related NPCs
-- [[The Scattered Emperor]]
-- [[Senator Glaucus]]
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]
+- [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]
 - [[Shadow Chancellor]]
-- [[Marina Red Tide Coralheart]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
 
 ### Related Mechanics
-- [[Depth Adaptation System]]
+- [[01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System]]
 - [[Shadow Separation Rules]]
 - [[Temporal Navigation]]
 - [[Gravity Anomaly Mechanics]]

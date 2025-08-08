@@ -15,7 +15,7 @@ image: "Ω_Assets/Locations/sundered_peaks.jpg"
 *Where Earth Meets Sky and Crystal*
 
 ## Overview
-The Sundered Peaks form [[Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
+The Sundered Peaks form [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[01_Campaigns/Aethermoor/Lore/The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
 
 ## Geography
 
@@ -44,7 +44,7 @@ Where the Azure Shard struck:
 - Mental enhancement effects
 
 ### Mining Operations
-- **Royal Mines**: [[Crystal Throne]] controlled
+- **Royal Mines**: [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] controlled
 - **Free Mines**: Independent operators
 - **Dwarven Depths**: Traditional deep mining
 - **Smuggler Holes**: Illegal operations
@@ -107,7 +107,7 @@ Sacred site at 15,000 feet:
 ## Current Conflicts
 
 ### The Mining Wars
-- [[Crystal Throne]] vs. Free Miners
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] vs. Free Miners
 - Claim disputes
 - Smuggling operations
 - Worker strikes
@@ -123,8 +123,8 @@ Sacred site at 15,000 feet:
 ### Political Tensions
 - Dwarves want independence
 - Humans demand more mines
-- [[Purist Coalition]] sabotage
-- [[Whisper Syndicate]] infiltration
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] sabotage
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] infiltration
 
 ## The Deep Roads
 
@@ -212,17 +212,17 @@ Pre-Shattering tunnel system:
 - Captain Orik Stoneward
 
 ## Connected Locations
-- [[Aethermoor]] - Part of continent
+- [[01_Campaigns/Aethermoor/Locations/Aethermoor]] - Part of continent
 - [[Ironhold]] - Major city
-- [[Crystalhaven]] - Trade partner
-- [[The Crystalline Wastes]] - Northern border
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Trade partner
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Northern border
 - The Deep Roads - Underground
 
 ## Connected Factions
-- [[The Crystal Throne]] - Claims sovereignty
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Claims sovereignty
 - [[Crystal Wardens]] - Garrison forces
-- [[Merchant Princes]] - Control trade
-- [[The Whisper Syndicate]] - Smuggling
+- [[01_Campaigns/Aethermoor/Factions/Merchant Princes]] - Control trade
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Smuggling
 
 ## DM Notes
 - Balance tradition vs. progress

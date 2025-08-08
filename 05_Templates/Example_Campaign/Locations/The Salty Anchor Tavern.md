@@ -8,8 +8,8 @@ modified: 2025-07-23 13:15
 # The Salty Anchor Tavern
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] Docks
-**Proprietor**: [[01_Campaigns/Campaign_Name/NPCs/Marianne Crowley.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]] Docks
+**Proprietor**: [[05_Templates/Example_Campaign/NPCs/Marianne Crowley]]
 
 ## Description
 The Salty Anchor is a rough-and-tumble tavern that is popular with sailors and dockworkers. It is a good place to gather information, but it is also a dangerous place for outsiders.

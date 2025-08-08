@@ -6,7 +6,7 @@ tags:
   - anti-hero
   - whisper-syndicate
 type: NPC
-location: Mobile (Currently [[Port Meridian]])
+location: Mobile (Currently [[01_Campaigns/Aethermoor/Locations/Port Meridian]])
 faction: "Independent (Former Crystal Wardens)"
 race: Human (Crystal-Touched)
 class: Fighter/Blood Hunter
@@ -55,15 +55,15 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 - **Crystal Warden Badge:** Scratched out but still carries it
 
 ## Relationships
-- **[[Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
-- **[[Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
-- **[[Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
-- **[[High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
-- **[[Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
+- **[[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
+- **[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
+- **[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
+- **[[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
 - **Sister Morwyn Veilkeeper**: Warned him about his eventual fate if corruption continues
 
 ## Current Activities
-- Hunting a crystal-infected cult in [[Port Meridian]]'s quarantine zone
+- Hunting a crystal-infected cult in [[01_Campaigns/Aethermoor/Locations/Port Meridian]]'s quarantine zone
 - Investigating reports of "living crystals" that move with purpose
 - Secretly documenting stages of crystal infection for personal research
 - Building a network of other infected individuals who refuse to give in

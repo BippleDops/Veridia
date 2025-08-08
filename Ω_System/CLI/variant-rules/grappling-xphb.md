@@ -26,4 +26,4 @@ A creature must have a hand free to grapple another creature. Some stat blocks a
 
 A Grappled creature can use its action to make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) on itself on a success. The [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

@@ -8,7 +8,7 @@ modified: 2025-07-23 19:10
 # The Crystal Caves
 
 ## General Info
-**Location**: [[The Whispering Peaks]]
+**Location**: [[02_Worldbuilding/Atlas/The Whispering Peaks]]
 
 ## Description
 The Crystal Caves are a network of caves that are filled with strange, glowing crystals. The crystals are said to have magical properties, and they are highly sought after by alchemists and wizards.

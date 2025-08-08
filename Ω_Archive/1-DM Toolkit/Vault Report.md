@@ -45,6 +45,6 @@ window.renderChart(chartData, this.container);
 
 
 
-[[Home Embeds - DV.md]]
+[[Ω_Archive/1-DM Toolkit/Home Embeds - DV]]
 
-[[Home Embeds.md]]
+[[Ω_Archive/1-DM Toolkit/Home Embeds]]

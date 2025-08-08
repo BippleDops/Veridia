@@ -6,8 +6,8 @@ tags:
   - neutral
   - wealthy
 type: NPC
-location: "[[Port Meridian]]"
-faction: "[[Merchant Princes]]"
+location: "[[01_Campaigns/Aethermoor/Locations/Port Meridian]]"
+faction: "[[01_Campaigns/Aethermoor/Factions/Merchant Princes]]"
 race: Gnome
 class: Rogue/Wizard
 level: 7
@@ -54,18 +54,18 @@ Third-generation head of the Ironledger Trading House, Castellan has transformed
 - **Portable Portal Device:** Single-use emergency escape to his vault
 
 ## Relationships
-- **[[Vex Shadowthorn]]**: Primary competitor and occasional partner in smuggling operations
-- **[[Captain Thaddeus Blackwater]]**: Finances his expeditions for exclusive trade rights
-- **[[Queen Seraphina Lumengarde]]**: Provides economic intelligence in exchange for trade monopolies
-- **[[Master Artificer Korvin Gearwright]]**: Silent partner in crystal technology patents
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]**: Primary competitor and occasional partner in smuggling operations
+- **[[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]**: Finances his expeditions for exclusive trade rights
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]**: Provides economic intelligence in exchange for trade monopolies
+- **[[01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright]]**: Silent partner in crystal technology patents
 - **Ambassador Nerida Deepcurrent**: Negotiating exclusive distribution rights for Aquabyssos goods
 - **Marcus "Shardbreaker" Grimm**: Pays for information about crystal black markets
 - **Sister Morwyn Veilkeeper**: Trades prophecies for shadow-touched artifacts
 
 ## Business Empire
 ### The Ironledger Trading House
-- Primary warehouse in [[Port Meridian]] with hidden basement levels
-- Secondary offices in [[Crystalhaven]], [[Ironhold]], and three foreign cities
+- Primary warehouse in [[01_Campaigns/Aethermoor/Locations/Port Meridian]] with hidden basement levels
+- Secondary offices in [[01_Campaigns/Aethermoor/Locations/Crystalhaven]], [[Ironhold]], and three foreign cities
 - Fleet of 12 merchant vessels with hidden compartments
 - Network of 200+ informants across Aethermoor
 
@@ -88,7 +88,7 @@ Third-generation head of the Ironledger Trading House, Castellan has transformed
 > - Has detailed files on every major NPC including their weaknesses
 > - Knows the location of a pre-Shattering vault containing ancient contracts
 > - Discovered that someone is manipulating crystal prices to cause economic collapse
-> - Has proof of [[Queen Seraphina Lumengarde]]'s corruption but keeps it for leverage
+> - Has proof of [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s corruption but keeps it for leverage
 > - Maintains a deadman's switch that would release all secrets if he's killed
 > - Is actually the fourth Castellan—he eliminated his predecessor and took the name
 > - Has made a deal with entities from Aquabyssos for emergency extraction

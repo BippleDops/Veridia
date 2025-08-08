@@ -8,10 +8,10 @@ modified: 2025-07-23 17:45
 # Temple of Divine Order
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
-The Temple of Divine Order is a powerful and influential religious organization that is dedicated to upholding the law and punishing the wicked. They are led by the charismatic and zealous [[01_Campaigns/Campaign_Name/NPCs/High Priestess Seraphina Lightbringer.md]], and they are a force to be reckoned with.
+The Temple of Divine Order is a powerful and influential religious organization that is dedicated to upholding the law and punishing the wicked. They are led by the charismatic and zealous [[05_Templates/Example_Campaign/NPCs/High Priestess Seraphina Lightbringer]], and they are a force to be reckoned with.
 
 ## GM Notes
 - The temple is a potential ally for the party, but they are also very rigid and uncompromising in their beliefs.

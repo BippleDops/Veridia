@@ -1,0 +1,1020 @@
+# Link Integrity Report
+
+Generated: 2025-08-08 09:57:37
+
+
+## Summary
+
+- Total links analyzed: 3518
+- OK links: 2625
+- Broken links: 835
+- Ambiguous links: 58
+- Case-mismatch links: 0
+- Orphaned pages (excluding templates/system): 83
+
+## Broken Links
+
+- _QUERY_HELPER.md:219 — [[Name]] → 'Name' | suggestions: readme, hammer
+- _LINK_TRIAGE_TOP200.md:260 — [[Location]] → 'Location' | suggestions: new location, dungeon-location, actions
+- _LINK_TRIAGE_TOP200.md:260 — [[NPC]] → 'NPC' | suggestions: new npc
+- _ENHANCED_BASES_SCHEMAS.md:29 — [[Monster Manual Reference]] → 'Monster Manual Reference'
+- _ENHANCED_BASES_SCHEMAS.md:459 — [[Combat Tracker]] → 'Combat Tracker'
+- _ENHANCED_BASES_SCHEMAS.md:496 — [[Prep Note]] → 'Prep Note' | suggestions: parents-xge
+- _DEEP_WORK_PROMPT_FOR_VAULT_OPTIMIZATION.md:53 — [[wiki links]] → 'wiki links'
+- MASTER_CAMPAIGN_DASHBOARD.md:157 — [[Timeline_Tracker.base]] → 'Timeline_Tracker.base'
+- MASTER_CAMPAIGN_DASHBOARD.md:165 — [[Item Template|Create Item]] → 'Item Template' | suggestions: quest_template, encounter_template, npc_template
+- MASTER_CAMPAIGN_DASHBOARD.md:233 — [[The Lighthouse of Storms]] → 'The Lighthouse of Storms' | suggestions: lighthouse of storms, session 02 the lighthouse of storms, the lighthouse war
+- 09_Performance/Indexes/Campaign_Index.md:186 — [[Combat Actions]] → 'Combat Actions' | suggestions: actions, bastions
+- 09_Performance/Indexes/Campaign_Index.md:188 — [[Initiative Tracker]] → 'Initiative Tracker' | suggestions: initiative-variants, initiative-xphb
+- 09_Performance/Indexes/Campaign_Index.md:191 — [[Spell Lists]] → 'Spell Lists' | suggestions: spells, spell-points, spells-scc
+- 09_Performance/Indexes/Campaign_Index.md:192 — [[Magic Items]] → 'Magic Items' | suggestions: magic-item-rarity, magic-item-tools-xdmg, items
+- 09_Performance/Indexes/Campaign_Index.md:193 — [[Spell Components]] → 'Spell Components' | suggestions: spell-points
+- 09_Performance/Indexes/Campaign_Index.md:196 — [[Travel Rules]] → 'Travel Rules' | suggestions: travel calculator
+- 09_Performance/Indexes/Campaign_Index.md:197 — [[Random Encounters|Random Encounter Tables]] → 'Random Encounters' | suggestions: random-urban-encounters, urban-encounters, random-encounters-at-sea
+- 09_Performance/Indexes/Campaign_Index.md:198 — [[Environmental Hazards]] → 'Environmental Hazards'
+- 09_Performance/Indexes/Campaign_Index.md:201 — [[NPC Reactions]] → 'NPC Reactions' | suggestions: actions, inspiration, reaction-xphb
+- 09_Performance/Indexes/Campaign_Index.md:202 — [[Faction Standing]] → 'Faction Standing' | suggestions: actions, action-options
+- 09_Performance/Indexes/Campaign_Index.md:203 — [[Reputation System]] → 'Reputation System' | suggestions: depth adaptation system
+- 09_Performance/Indexes/Campaign_Index.md:257 — [[Template-Session-Enhanced|📝 Create New Session]] → 'Template-Session-Enhanced' | suggestions: template-random-encounter, template-player-character, template-combat-encounter
+- 09_Performance/Indexes/Campaign_Index.md:258 — [[Template-Character|👤 Create New NPC]] → 'Template-Character' | suggestions: template-player-character, player-character-xphb, 5-nonplayer-characters
+- 09_Performance/Indexes/Campaign_Index.md:259 — [[Template-Location|📍 Create New Location]] → 'Template-Location' | suggestions: template-loot-table, template design, new location
+- 09_Performance/Indexes/Campaign_Index.md:260 — [[Template-Quest|📜 Create New Quest]] → 'Template-Quest' | suggestions: template design, template-settlement, npc_template
+- 09_Performance/Indexes/Campaign_Index.md:264 — [[Vault Maintenance Checklist]] → 'Vault Maintenance Checklist'
+- 09_Performance/Indexes/Campaign_Index.md:265 — [[Archive Old Content]] → 'Archive Old Content'
+- 09_Performance/Indexes/Campaign_Index.md:266 — [[Update Indexes]] → 'Update Indexes'
+- 09_Performance/Indexes/Campaign_Index.md:267 — [[Backup Procedures]] → 'Backup Procedures'
+- Clippings/The Ghost in the Therapy Room.md:5 — [[By Ellen Barry]] → 'By Ellen Barry'
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:112 — [[Ω_System/CLI/items/weapons|Weapons]] → 'Ω_System/CLI/items/weapons' | suggestions: weapons-phb, weapons-xphb, weapon-xphb
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:113 — [[Ω_System/CLI/items/armor-and-shields|Armor and Shields]] → 'Ω_System/CLI/items/armor-and-shields' | suggestions: armor-and-shields-armor-phb, moral-quandaries, arrow-catching-shield-xdmg
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:117 — [[Ω_System/CLI/spells/school/abjuration|Abjuration]] → 'Ω_System/CLI/spells/school/abjuration' | suggestions: aberration, bastions, laboratory
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:118 — [[Ω_System/CLI/spells/school/conjuration|Conjuration]] → 'Ω_System/CLI/spells/school/conjuration' | suggestions: corallion, conditions, inspiration
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:119 — [[Ω_System/CLI/spells/school/divination|Divination]] → 'Ω_System/CLI/spells/school/divination' | suggestions: divination-xphb, inspiration, conditions
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:120 — [[Ω_System/CLI/spells/school/enchantment|Enchantment]] → 'Ω_System/CLI/spells/school/enchantment'
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:121 — [[Ω_System/CLI/spells/school/evocation|Evocation]] → 'Ω_System/CLI/spells/school/evocation' | suggestions: new location, dungeon-location, aberration
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:122 — [[Ω_System/CLI/spells/school/illusion|Illusion]] → 'Ω_System/CLI/spells/school/illusion' | suggestions: illusions-xphb, deck-of-illusions
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:123 — [[Ω_System/CLI/spells/school/necromancy|Necromancy]] → 'Ω_System/CLI/spells/school/necromancy'
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:124 — [[Ω_System/CLI/spells/school/transmutation|Transmutation]] → 'Ω_System/CLI/spells/school/transmutation'
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:113 — [[Ω_System/CLI/items/weapons|Weapons]] → 'Ω_System/CLI/items/weapons' | suggestions: weapons-phb, weapons-xphb, weapon-xphb
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:114 — [[Ω_System/CLI/items/armor-and-shields|Armor and Shields]] → 'Ω_System/CLI/items/armor-and-shields' | suggestions: armor-and-shields-armor-phb, moral-quandaries, arrow-catching-shield-xdmg
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:117 — [[Ω_System/CLI/spells/school/abjuration|Abjuration]] → 'Ω_System/CLI/spells/school/abjuration' | suggestions: aberration, bastions, laboratory
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:118 — [[Ω_System/CLI/spells/school/conjuration|Conjuration]] → 'Ω_System/CLI/spells/school/conjuration' | suggestions: corallion, conditions, inspiration
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:119 — [[Ω_System/CLI/spells/school/divination|Divination]] → 'Ω_System/CLI/spells/school/divination' | suggestions: divination-xphb, inspiration, conditions
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:120 — [[Ω_System/CLI/spells/school/enchantment|Enchantment]] → 'Ω_System/CLI/spells/school/enchantment'
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:121 — [[Ω_System/CLI/spells/school/evocation|Evocation]] → 'Ω_System/CLI/spells/school/evocation' | suggestions: new location, dungeon-location, aberration
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:122 — [[Ω_System/CLI/spells/school/illusion|Illusion]] → 'Ω_System/CLI/spells/school/illusion' | suggestions: illusions-xphb, deck-of-illusions
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:123 — [[Ω_System/CLI/spells/school/necromancy|Necromancy]] → 'Ω_System/CLI/spells/school/necromancy'
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:124 — [[Ω_System/CLI/spells/school/transmutation|Transmutation]] → 'Ω_System/CLI/spells/school/transmutation'
+- 03_Rules_Reference/Homebrew/Items/New Item.md:10 — [[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]] → '05_Templates/World Builder Templates/Template-Quest.md' | suggestions: template design, template-settlement, npc_template
+- 03_Rules_Reference/Homebrew/Items/New Item.md:12 — [[05_Templates/Template-Character.md|Template-Group]] → '05_Templates/Template-Character.md' | suggestions: template-player-character, player-character-xphb, 5-nonplayer-characters
+- 03_Rules_Reference/Homebrew/Items/New Item.md:21 — ![[Pasted image 20250514201228.png]] → 'Pasted image 20250514201228.png'
+- 0-Scratch Notes/Random Dungeon.md:22 — [[Dungeon2.png]] → 'Dungeon2.png' | suggestions: random dungeon, dungeon-delver, dungeon-purpose
+- 0-Scratch Notes/Random Dungeon.md:24 — [[Dungeon19.png]] → 'Dungeon19.png' | suggestions: random dungeon, dungeon-delver
+- 0-Scratch Notes/Random Dungeon.md:26 — [[Dungeon12.png]] → 'Dungeon12.png' | suggestions: random dungeon, dungeon-delver
+- 0-Scratch Notes/Random Dungeon.md:28 — [[Dungeon13.png]] → 'Dungeon13.png' | suggestions: random dungeon, dungeon-delver
+- 0-Scratch Notes/Random Dungeon.md:30 — [[Dungeon20.png]] → 'Dungeon20.png' | suggestions: random dungeon, dungeon-delver
+- 0-Scratch Notes/Random Dungeon.md:32 — [[Dungeon10.png]] → 'Dungeon10.png' | suggestions: random dungeon, dungeon-delver
+- 0-Scratch Notes/Random Dungeon.md:34 — [[Dungeon5.png]] → 'Dungeon5.png' | suggestions: random dungeon, dungeon-delver, dungeon-purpose
+- 0-Scratch Notes/Random Dungeon.md:36 — [[Dungeon17.png]] → 'Dungeon17.png' | suggestions: random dungeon, dungeon-delver
+- 0-Scratch Notes/Random Dungeon.md:38 — [[Dungeon3.png]] → 'Dungeon3.png' | suggestions: random dungeon, dungeon-delver, dungeon-purpose
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:74 — [[Port Meridian Harbor]] → 'Port Meridian Harbor' | suggestions: port meridian, port meridian - harbor district
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:74 — [[Abyssos Prime Docks]] → 'Abyssos Prime Docks' | suggestions: abyssos prime, abyssos prime rumor tables
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:75 — [[Crystal Gardens]] → 'Crystal Gardens' | suggestions: crystal wardens, crystalhaven, the crystal caves
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:76 — [[Royal Palace]] → 'Royal Palace' | suggestions: the bathyal palace, maelstrom palace
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:78 — [[The Forgotten Archive]] → 'The Forgotten Archive' | suggestions: the forgotten one, the forgotten representative, memoriam - the forgotten continent
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:267 — [[Queen Seraphina]] → 'Queen Seraphina' | suggestions: queen seraphina lumengarde
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:267 — [[Princess Celestia]] → 'Princess Celestia' | suggestions: port celeste, celestial
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:302 — [[Dawn-Echo Sentinel]] → 'Dawn-Echo Sentinel'
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:718 — [[Shadow Separation Mechanics]] → 'Shadow Separation Mechanics' | suggestions: shadow separation rules, where to get mechanics
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:720 — [[Deep Mother Lore]] → 'Deep Mother Lore' | suggestions: the deep mother, 1-monster-lore
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md:721 — [[Session Planning Guide]] → 'Session Planning Guide' | suggestions: session zero universal guide
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:29 — [[Abyssos Prime Upper Districts]] → 'Abyssos Prime Upper Districts' | suggestions: abyssos prime rumor tables, abyssos prime
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:31 — [[Crystal Gardens]] → 'Crystal Gardens' | suggestions: crystal wardens, crystalhaven, the crystal caves
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:51 — [[Arcanum Heights]] → 'Arcanum Heights'
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:52 — [[Crystal Forest]] → 'Crystal Forest' | suggestions: crystal wardens, the crystal caves, crystalhaven
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:53 — [[Shattered Isles]] → 'Shattered Isles' | suggestions: the shattered sanctum
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:54 — [[Shadow Vale]] → 'Shadow Vale' | suggestions: shadowhaven
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:55 — [[Resonance Peaks]] → 'Resonance Peaks' | suggestions: the resonance prophet
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:56 — [[Mourning Depths]] → 'Mourning Depths' | suggestions: the mourning depths, the whispering depths
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:56 — [[Sorrow's End]] → 'Sorrow's End' | suggestions: sorrow pearls, pressure's end
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:75 — [[Aethermoor Archives]] → 'Aethermoor Archives' | suggestions: aethermoor, aethermoor campaign overview
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:308 — [[Crystal Plague Mechanics]] → 'Crystal Plague Mechanics' | suggestions: crystal plague progression, crystal wardens
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:309 — [[NPC Cross-World Connections]] → 'NPC Cross-World Connections' | suggestions: comprehensive-world-connection-guide
+- 02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide.md:310 — [[Merged Zone Navigation]] → 'Merged Zone Navigation'
+- 02_Worldbuilding/Factions/New Group.md:39 — ![[Pasted image 20250427093629.png]] → 'Pasted image 20250427093629.png'
+- 02_Worldbuilding/Factions/Cult of Screams.md:39 — ![[Pasted image 20250427093629.png]] → 'Pasted image 20250427093629.png'
+- 02_Worldbuilding/Factions/The Shadowhaven Smugglers Ring.md:10 — ![[z_Assets/Organizations/smugglers_ring_symbol.jpg|cover]] → 'z_Assets/Organizations/smugglers_ring_symbol.jpg'
+- 02_Worldbuilding/Factions/The Shadowhaven Smugglers Ring.md:32 — [[Lord Vexton Shadowmere]] → 'Lord Vexton Shadowmere' | suggestions: the shadowmere
+- 02_Worldbuilding/Factions/Bexley Port Authority.md:11 — [[Bexley]] → 'Bexley'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:26 — [[Crystalline Depths]] → 'Crystalline Depths' | suggestions: crystal wardens, the crystalline wastes, the crystalline foundry
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:26 — [[Thalassius the Wise]] → 'Thalassius the Wise'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:51 — [[Volcano's Heart]] → 'Volcano's Heart' | suggestions: sylvanheart
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:57 — [[Luminous Hollow]] → 'Luminous Hollow'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:76 — [[The Tidal Council]] → 'The Tidal Council' | suggestions: the tidecaller
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:85 — [[Fortress of the Deeps]] → 'Fortress of the Deeps' | suggestions: treasures of the deep, the oracle of the sundered peaks
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:94 — [[Order of the Drowned Star]] → 'Order of the Drowned Star' | suggestions: order of the sunken crown, the order of the shattered crown, quest - the drowned prophecy
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:95 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:100 — [[The Restoration Movement]] → 'The Restoration Movement'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:158 — [[The Singing Trenches]] → 'The Singing Trenches' | suggestions: the siren, the mourning depths, the infinite garden
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:159 — [[Prismatic Falls]] → 'Prismatic Falls' | suggestions: prismatic-wall-xphb
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:160 — [[The Bloom Fields]] → 'The Bloom Fields'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:161 — [[Leviathan Graveyard]] → 'Leviathan Graveyard'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:164 — [[Temple of the First Tide]] → 'Temple of the First Tide' | suggestions: temple of divine order
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:165 — [[The Sunken Library of Thalassius]] → 'The Sunken Library of Thalassius' | suggestions: the sunken library, the sunken city of aeridor, the sunken cathedral of stars
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:166 — [[Pre-Submersion Ruins]] → 'Pre-Submersion Ruins'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:167 — [[The Original Palace]] → 'The Original Palace' | suggestions: the inverse palace, the bathyal palace, the primordial vaults
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:170 — [[The Void Touched Depths]] → 'The Void Touched Depths' | suggestions: the hadal depths, the mourning depths
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:171 — [[Kraken Territories]] → 'Kraken Territories'
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:172 — [[Aboleth Mind Mazes]] → 'Aboleth Mind Mazes' | suggestions: aboleth-xmm, aboleth prime yoth
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:173 — [[Pressure Crush Zones]] → 'Pressure Crush Zones' | suggestions: the pressure crown, pressure's end
+- 02_Worldbuilding/Aquathys/Aquathys_Overview.md:214 — [[The Heart of Oceanus]] → 'The Heart of Oceanus' | suggestions: the maw of darkness
+- 08_Automation/Scripts/session_automation.md:362 — [[Template-Session-Enhanced|Enhanced Session Template]] → 'Template-Session-Enhanced' | suggestions: template-random-encounter, template-player-character, template-combat-encounter
+- 08_Automation/Scripts/session_automation.md:364 — [[Template-Quick-NPC|Quick NPC]] → 'Template-Quick-NPC' | suggestions: template design, template-combat-encounter
+- 08_Automation/Scripts/session_automation.md:367 — [[Dataview Query Guide]] → 'Dataview Query Guide' | suggestions: dataview to bases migration guide
+- 08_Automation/Scripts/session_automation.md:368 — [[Templater Advanced]] → 'Templater Advanced' | suggestions: template design
+- 08_Automation/Scripts/session_automation.md:369 — [[Meta Bind Examples]] → 'Meta Bind Examples'
+- 00_Dashboard/Master_Campaign_Control_Center.md:22 — ![[combat-tracker.base]] → 'combat-tracker.base'
+- 00_Dashboard/Master_Campaign_Control_Center.md:33 — ![[npc-roster.base]] → 'npc-roster.base' | suggestions: npc-bonds
+- 00_Dashboard/Master_Campaign_Control_Center.md:44 — ![[quest-tracker.base]] → 'quest-tracker.base'
+- 00_Dashboard/Master_Campaign_Control_Center.md:55 — ![[location-tracker.base]] → 'location-tracker.base' | suggestions: location_template
+- 00_Dashboard/Master_Campaign_Control_Center.md:66 — ![[relationship-graph.base]] → 'relationship-graph.base' | suggestions: rations-xphb, monster-relationships-xge, reaction-xphb
+- 00_Dashboard/Master_Campaign_Control_Center.md:78 — ![[campaign-dashboard.base]] → 'campaign-dashboard.base' | suggestions: master_campaign_dashboard, campaign-xphb, campaign_state
+- 00_Dashboard/Master_Campaign_Control_Center.md:100 — [[03_Rules_Reference\|📖 Rules]] → '03_Rules_Reference\'
+- 00_Dashboard/Master_Campaign_Control_Center.md:101 — [[06_GM_Resources\|🎭 GM Tools]] → '06_GM_Resources\'
+- 00_Dashboard/Master_Campaign_Control_Center.md:102 — [[02_Worldbuilding\|🗺️ World Lore]] → '02_Worldbuilding\'
+- 00_Dashboard/Master_Campaign_Control_Center.md:109 — [[Location Name]] → 'Location Name' | suggestions: new location, location_template
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:114 — ![[combat-tracker.base]] → 'combat-tracker.base'
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:168 — ![[npc-roster.base]] → 'npc-roster.base' | suggestions: npc-bonds
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:213 — ![[quest-tracker.base]] → 'quest-tracker.base'
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:245 — ![[location-tracker.base]] → 'location-tracker.base' | suggestions: location_template
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:273 — ![[relationship-graph.base]] → 'relationship-graph.base' | suggestions: rations-xphb, monster-relationships-xge, reaction-xphb
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:279 — ![[campaign-dashboard.base]] → 'campaign-dashboard.base' | suggestions: master_campaign_dashboard, campaign-xphb, campaign_state
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md:297 — [[' + q.file.name + ']] → '' + q.file.name + ''
+- 00_Dashboard/Campaign_State.md:154 — [[${l.name}]] → '${l.name}'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:14 — [[Caravan Master Dolrim]] → 'Caravan Master Dolrim'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:15 — [[Bandit Leader Scarface]] → 'Bandit Leader Scarface'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:19 — [[Ambush Point]] → 'Ambush Point' | suggestions: ambush-xphb
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:58 — [[Ambush Point]] → 'Ambush Point' | suggestions: ambush-xphb
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:61 — [[Bandit Camp]] → 'Bandit Camp'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:67 — [[Caravan Master Dolrim]] → 'Caravan Master Dolrim'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:70 — [[Bandit Leader Scarface]] → 'Bandit Leader Scarface'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:71 — [[Bandit Scouts]] → 'Bandit Scouts'
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:74 — [[Traveling Merchant Finn]] → 'Traveling Merchant Finn' | suggestions: shadowhaven merchant marine
+- 01_Campaigns/Quests/Find_the_Missing_Caravan.md:89 — [[Northgate]] → 'Northgate' | suggestions: vorthak, theater
+- 01_Campaigns/Quests/The_Second_Rising.md:17 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/Quests/The_Second_Rising.md:24 — [[Crystalline Depths]] → 'Crystalline Depths' | suggestions: crystal wardens, the crystalline wastes, the crystalline foundry
+- 01_Campaigns/Quests/The_Second_Rising.md:82 — [[The Sunken Library of Thalassius]] → 'The Sunken Library of Thalassius' | suggestions: the sunken library, the sunken city of aeridor, the sunken cathedral of stars
+- 01_Campaigns/Quests/The_Second_Rising.md:89 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/Quests/The_Second_Rising.md:213 — [[Smuggler's Gambit]] → 'Smuggler's Gambit' | suggestions: smuggler
+- 01_Campaigns/Quests/The_Second_Rising.md:214 — [[The Lock Saboteur]] → 'The Lock Saboteur'
+- 01_Campaigns/Quests/The_Second_Rising.md:217 — [[The Depth Accords]] → 'The Depth Accords' | suggestions: the depth wardens, the verdant accord, the depth market
+- 01_Campaigns/Quests/The_Second_Rising.md:229 — [[Dr. Siphon Gillwater]] → 'Dr. Siphon Gillwater'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:58 — [[Pressure Adaptation System]] → 'Pressure Adaptation System' | suggestions: depth adaptation system
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:59 — [[Depth Sickness Mechanics]] → 'Depth Sickness Mechanics' | suggestions: depth survival mechanics
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:60 — [[Shadow Independence Rules]] → 'Shadow Independence Rules' | suggestions: shadow separation rules
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:61 — [[Memory Tide Events]] → 'Memory Tide Events'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:62 — [[Temporal Distortion Zones]] → 'Temporal Distortion Zones'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:65 — [[Underwater Breathing]] → 'Underwater Breathing' | suggestions: water-breathing-xphb, potion-of-water-breathing-xdmg
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:66 — [[Pressure Damage]] → 'Pressure Damage' | suggestions: pressure's end, treasure-xdmg, pressure terminal
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:67 — [[Corruption Tracking]] → 'Corruption Tracking'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:68 — [[Sanity System]] → 'Sanity System'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:76 — [[The Lighthouse of Storms]] → 'The Lighthouse of Storms' | suggestions: lighthouse of storms, session 02 the lighthouse of storms, the lighthouse war
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:88 — [[Depth Adaptation Points]] → 'Depth Adaptation Points' | suggestions: depth adaptation system
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:89 — [[Shadow Independence Levels]] → 'Shadow Independence Levels'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:90 — [[Memory Alterations]] → 'Memory Alterations' | suggestions: the memory meadows
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:123 — [[Aquabyssos World Guide]] → 'Aquabyssos World Guide' | suggestions: aquabyssos world navigation guide, aquabyssos world overview, abyssos prime
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:125 — [[Continental Connections Map]] → 'Continental Connections Map' | suggestions: continental connections & story weave
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:126 — [[NPC Relationship Web]] → 'NPC Relationship Web' | suggestions: monster-relationships-xge, creation-xphb
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:127 — [[Timeline of the Drowning]] → 'Timeline of the Drowning'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:130 — [[Random Encounter Tables - Aquabyssos]] → 'Random Encounter Tables - Aquabyssos' | suggestions: aquabyssos random encounter tables, random-encounters-at-sea
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:131 — [[Depth Effect Quick Reference]] → 'Depth Effect Quick Reference' | suggestions: npc quick reference guide
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:132 — [[Shadow Behavior Guidelines]] → 'Shadow Behavior Guidelines'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:133 — [[Memory Alteration Consequences]] → 'Memory Alteration Consequences'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:134 — [[Faction Relationship Tracker]] → 'Faction Relationship Tracker'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:139 — [[Campaign Path|campaign path]] → 'Campaign Path' | suggestions: campaign-xphb, campaign_state, campaign_analytics
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:141 — [[Aquabyssos Character Creation]] → 'Aquabyssos Character Creation' | suggestions: aquabyssos faction web, aquabyssos creature compendium, aquabyssos random encounter tables
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:142 — [[Session 0 - Aquabyssos]] → 'Session 0 - Aquabyssos' | suggestions: session 05 the queens madness, aquabyssos
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:148 — [[Aethermoor to Aquabyssos Transition Guide]] → 'Aethermoor to Aquabyssos Transition Guide' | suggestions: aethermoor-aquabyssos-world-connection-guide, aquabyssos world navigation guide, dataview to bases migration guide
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:149 — [[Surface Dweller Adaptation]] → 'Surface Dweller Adaptation'
+- 01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview.md:150 — [[The Drowning Welcome]] → 'The Drowning Welcome' | suggestions: session 01 - the drowning welcome, the great drowning
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md:104 — [[Aquatic Prefixes]] → 'Aquatic Prefixes'
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md:105 — [[Depth Surnames]] → 'Depth Surnames' | suggestions: depth survival mechanics, depth wardens
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md:296 — [[Random Encounter Tables]] → 'Random Encounter Tables' | suggestions: aquabyssos random encounter tables, random-urban-encounters, random-encounters-at-sea
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md:297 — [[NPC Name Generator]] → 'NPC Name Generator' | suggestions: ai content generator
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md:298 — [[Treasure by Depth]] → 'Treasure by Depth' | suggestions: treasures of the deep, treasure-xdmg
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md:299 — [[Madness Effects]] → 'Madness Effects' | suggestions: madness, simultaneous-effects-xphb
+- 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign.md:125 — [[Senator Glaucus's Shadow]] → 'Senator Glaucus's Shadow' | suggestions: senator glaucus, senator_glaucus_brain
+- 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign.md:141 — [[Vote Vaults]] → 'Vote Vaults'
+- 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign.md:145 — [[Umbral Exchange]] → 'Umbral Exchange'
+- 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign.md:146 — [[Shadow Surgery Centers]] → 'Shadow Surgery Centers' | suggestions: shadow broker mist
+- 01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign.md:151 — [[The Foundation Depths]] → 'The Foundation Depths' | suggestions: the mourning depths, the hadal depths, the whispering depths
+- 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy.md:47 — [[Memory Trader]] → 'Memory Trader'
+- 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy.md:113 — [[Memory Trader Kellian]] → 'Memory Trader Kellian'
+- 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy.md:252 — [[Parliament of Echoes - Shadow Chamber]] → 'Parliament of Echoes - Shadow Chamber' | suggestions: parliament of echoes, the parliament of shadows campaign, parliament of shadows player guide
+- 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy.md:267 — [[The Memory Weapon Arms Race]] → 'The Memory Weapon Arms Race' | suggestions: the memory wars campaign, the memory meadows
+- 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy.md:269 — [[Timeline Fracture Points]] → 'Timeline Fracture Points'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md:20 — [[<%tp.system.prompt("Who reported this?")%>]] → '<%tp.system.prompt("Who reported this?")%>'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md:21 — [[<%tp.system.prompt("Where did this occur?")%>]] → '<%tp.system.prompt("Where did this occur?")%>'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md:47 — [[${c.location}]] → '${c.location}'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md:73 — [[<%tp.system.prompt("Primary Suspect Name")%>]] → '<%tp.system.prompt("Primary Suspect Name")%>'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md:83 — [[<%tp.system.prompt("Secondary Suspect Name", "")%>]] → '<%tp.system.prompt("Secondary Suspect Name", "")%>'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md:99 — [[<%tp.system.prompt("Crime scene location")%>]] → '<%tp.system.prompt("Crime scene location")%>'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:31 — [[" + file.name + "|" + case_name + "]] → '" + file.name + "' | suggestions: " + file.name + "
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:164 — [[INV-001]] → 'INV-001'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:164 — [[INV-003]] → 'INV-003'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:164 — [[INV-007]] → 'INV-007'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:168 — [[INV-002]] → 'INV-002'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:168 — [[INV-005]] → 'INV-005'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:172 — [[INV-004]] → 'INV-004'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:172 — [[INV-008]] → 'INV-008'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:176 — [[INV-006]] → 'INV-006'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:176 — [[INV-009]] → 'INV-009'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:251 — [[" + file.name + "|" + case_name + "]] → '" + file.name + "' | suggestions: " + file.name + "
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:264 — [[" + file.name + "|" + case_name + "]] → '" + file.name + "' | suggestions: " + file.name + "
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:277 — [[All Suspects by Faction]] → 'All Suspects by Faction'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:278 — [[Clues by Location]] → 'Clues by Location' | suggestions: new location, dungeon-location
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:279 — [[Timeline of Crimes]] → 'Timeline of Crimes'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:280 — [[Evidence Chain Analysis]] → 'Evidence Chain Analysis'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:283 — [[Investigation Procedures]] → 'Investigation Procedures' | suggestions: investigation_board, investigation_template, investigators anonymous
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:284 — [[Interrogation Techniques]] → 'Interrogation Techniques'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:285 — [[Evidence Types Guide]] → 'Evidence Types Guide'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:286 — [[Legal System of Aquabyssos]] → 'Legal System of Aquabyssos'
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md:310 — [[Current PC Lead]] → 'Current PC Lead'
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:75 — [[The Party]] → 'The Party' | suggestions: the depth market, theater
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:84 — [[His Own Shadow]] → 'His Own Shadow'
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:89 — [[Parliament High Council]] → 'Parliament High Council' | suggestions: parliament of echoes
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:257 — [[Senator Marius]] → 'Senator Marius' | suggestions: senator glaucus
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:261 — [[Senator's Private Chambers]] → 'Senator's Private Chambers'
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:262 — [[Shadow Binding Sanctum]] → 'Shadow Binding Sanctum'
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:266 — [[Find the Shadow Cure]] → 'Find the Shadow Cure' | suggestions: the shadowmere, the shadowbroker, stop the shadow harvest
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md:267 — [[The Senator's Last Stand]] → 'The Senator's Last Stand'
+- 01_Campaigns/Aquabyssos/NPCs/Duke Cyrus Reefheart.md:48 — [[The Biomancers]] → 'The Biomancers' | suggestions: the sorrowmaster
+- 01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver.md:55 — [[Crown Dome Conspiracy]] → 'Crown Dome Conspiracy' | suggestions: council election conspiracy, the deepmind conspiracy, investigate shadow conspiracy
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md:6 — [[Abyssos Prime - Throne of Bubbles]] → 'Abyssos Prime - Throne of Bubbles' | suggestions: throne of bubbles, abyssos prime rumor tables
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md:7 — [[Abyssos Prime Government]] → 'Abyssos Prime Government' | suggestions: abyssos prime, abyssos prime rumor tables, aquabyssos world overview
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md:30 — [[Unite the Emperor]] → 'Unite the Emperor'
+- 01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor.md:32 — [[The Emperor's Gambit]] → 'The Emperor's Gambit'
+- 01_Campaigns/Aquabyssos/NPCs/The Resonance Prophet.md:5 — [[The Harmony Collective]] → 'The Harmony Collective' | suggestions: the crimson fleet
+- 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md:9 — [[Abyssal Cathedral]] → 'Abyssal Cathedral' | suggestions: abyssal academy
+- 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md:10 — [[The Wake]] → 'The Wake' | suggestions: theater, the barnacle
+- 01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx.md:160 — [[Senator Glaucus's Shadow]] → 'Senator Glaucus's Shadow' | suggestions: senator glaucus, senator_glaucus_brain
+- 01_Campaigns/Aquabyssos/NPCs/The Silhouette Surgeon Prime.md:5 — [[The Shadow Surgeons]] → 'The Shadow Surgeons' | suggestions: the shadowbroker, the shadowmere, stop the shadow harvest
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:6 — [[Abyssos Prime - Parliament of Echoes]] → 'Abyssos Prime - Parliament of Echoes' | suggestions: parliament of echoes, abyssos prime rumor tables
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:8 — [[Shadow Conspiracy]] → 'Shadow Conspiracy' | suggestions: investigate shadow conspiracy, the_shadow_parliament_conspiracy, the deepmind conspiracy
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:30 — [[Original Glaucus]] → 'Original Glaucus' | suggestions: senator glaucus
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:33 — [[Shadow Citizenship Act]] → 'Shadow Citizenship Act'
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:77 — [[Shadow Citizenship Act]] → 'Shadow Citizenship Act'
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:86 — [[Shadow Parliament]] → 'Shadow Parliament' | suggestions: the_shadow_parliament_conspiracy, shadowhaven, shadow separation rules
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:87 — [[Tenebrarum Ambassadors]] → 'Tenebrarum Ambassadors' | suggestions: tenebrarum
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:91 — [[Original Glaucus]] → 'Original Glaucus' | suggestions: senator glaucus
+- 01_Campaigns/Aquabyssos/NPCs/Senator Glaucus.md:95 — [[Parliament Loyalists]] → 'Parliament Loyalists' | suggestions: parliament of echoes
+- 01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater.md:45 — [[Envoy Blackwater Jr.]] → 'Envoy Blackwater Jr.' | suggestions: envoy blackwater jr., captain blackwater
+- 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md:9 — [[Gold-Grave Harbor]] → 'Gold-Grave Harbor'
+- 01_Campaigns/Aquabyssos/NPCs/Duchess Marina Ever-Drowning.md:10 — [[The Current Merchants]] → 'The Current Merchants' | suggestions: the sunken markets, the azure coast, where to get mechanics
+- 01_Campaigns/Aquabyssos/Lore/Continental Connections & Story Weave.md:68 — [[Lord Flux]] → 'Lord Flux'
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:75 — [[The Breathing Stone]] → 'The Breathing Stone'
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:76 — [[Tide Turner's Trident]] → 'Tide Turner's Trident'
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:77 — [[The Depth Chart]] → 'The Depth Chart' | suggestions: the depth market, the depth wardens, the deep mother
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:92 — [[The Deep Uprising]] → 'The Deep Uprising' | suggestions: the deepmind, the sundering, the tide rises
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:94 — [[The Bathyal Succession]] → 'The Bathyal Succession' | suggestions: the bathyal palace
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:134 — [[The Tethyan Hegemony]] → 'The Tethyan Hegemony' | suggestions: tethyan hegemony
+- 01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview.md:140 — [[The Coral Courts]] → 'The Coral Courts' | suggestions: coral courts, the crystal caves, the primordial vaults
+- 01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System.md:186 — [[Crystal Plague]] → 'Crystal Plague' | suggestions: crystallium, crystal plague progression, crystalhaven
+- 01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System.md:248 — [[Memory Tide Navigation]] → 'Memory Tide Navigation'
+- 01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System.md:249 — [[Pressure Combat Modifiers]] → 'Pressure Combat Modifiers'
+- 01_Campaigns/Aquabyssos/Mechanics/Depth Adaptation System.md:250 — [[Aquabyssos Languages]] → 'Aquabyssos Languages' | suggestions: aquabyssos faction web, aquabyssos, aquabyssos random encounter tables
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:11 — [[Abyssos Prime - Inverse Palace]] → 'Abyssos Prime - Inverse Palace' | suggestions: abyssos prime rumor tables, the inverse palace, abyssos prime
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:14 — [[Abyssos Prime - Pressure Terminal]] → 'Abyssos Prime - Pressure Terminal' | suggestions: abyssos prime rumor tables, pressure terminal
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:17 — [[Inverted Ballroom Wing]] → 'Inverted Ballroom Wing'
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:22 — [[Pressure Tube Operator Krill]] → 'Pressure Tube Operator Krill' | suggestions: pressure terminal
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:24 — [[Shadow Ambush - Optional]] → 'Shadow Ambush - Optional'
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:63 — [[Shadow Ambush - Optional]] → 'Shadow Ambush - Optional'
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:72 — [[Pressure Tube Operator Krill]] → 'Pressure Tube Operator Krill' | suggestions: pressure terminal
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:77 — [[Abyssos Prime - Pressure Terminal]] → 'Abyssos Prime - Pressure Terminal' | suggestions: abyssos prime rumor tables, pressure terminal
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:106 — [[Parliament of Echoes - Public Gallery]] → 'Parliament of Echoes - Public Gallery' | suggestions: parliament of echoes, parliament of shadows player guide
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:123 — [[Inverted Ballroom Wing]] → 'Inverted Ballroom Wing'
+- 01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome.md:134 — [[Inverted Ballroom Wing - Party Quarters]] → 'Inverted Ballroom Wing - Party Quarters'
+- 01_Campaigns/Aquabyssos/Sessions/Session 07 - The Resonance Revelation.md:22 — [[Discover the Singers Beyond]] → 'Discover the Singers Beyond'
+- 01_Campaigns/Aquabyssos/Sessions/Session 07 - The Resonance Revelation.md:23 — [[Prevent Resonance Cascade]] → 'Prevent Resonance Cascade'
+- 01_Campaigns/Aquabyssos/Sessions/Session 07 - The Resonance Revelation.md:159 — [[Deep Mother]] → 'Deep Mother' | suggestions: the deep mother, deep-rothe-mpmm
+- 01_Campaigns/Aquabyssos/Sessions/Session 07 - The Resonance Revelation.md:189 — [[Mourning Depths]] → 'Mourning Depths' | suggestions: the mourning depths, the whispering depths
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:20 — [[Memory Farmer Thane]] → 'Memory Farmer Thane'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:21 — [[Reflection Broker Mirrors]] → 'Reflection Broker Mirrors' | suggestions: reflection pools
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:22 — [[Shadow Surgeon Apprentice]] → 'Shadow Surgeon Apprentice'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:24 — [[Memory Farmers Combat]] → 'Memory Farmers Combat'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:25 — [[Screaming Tree Guardians]] → 'Screaming Tree Guardians' | suggestions: screaming gardens
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:26 — [[Shadow Surgeon Strike Team]] → 'Shadow Surgeon Strike Team'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:28 — [[Rescue Senator Glaucus]] → 'Rescue Senator Glaucus' | suggestions: senator glaucus, senator_glaucus_brain
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:29 — [[Investigate Shadow Surgeons]] → 'Investigate Shadow Surgeons' | suggestions: investigate shadow conspiracy, stop the shadow harvest, investigators anonymous
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:94 — [[Party Quarters - Inverse Palace]] → 'Party Quarters - Inverse Palace' | suggestions: the inverse palace
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:126 — [[Screaming Gardens - Songwood Grove]] → 'Screaming Gardens - Songwood Grove' | suggestions: screaming gardens
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:204 — [[Memory Meadows Black Market]] → 'Memory Meadows Black Market' | suggestions: the memory meadows
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:388 — [[Shadow Separation Mechanics]] → 'Shadow Separation Mechanics' | suggestions: shadow separation rules, where to get mechanics
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:389 — [[Memory Absorption Rules]] → 'Memory Absorption Rules'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:390 — [[Temporal Navigation Hazards]] → 'Temporal Navigation Hazards'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:391 — [[Identity Crisis Resolution]] → 'Identity Crisis Resolution'
+- 01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy.md:392 — [[High Tide Environmental Effects]] → 'High Tide Environmental Effects'
+- 01_Campaigns/Aquabyssos/Sessions/Session 09 - The Mourning Strategy.md:12 — [[All Marina Versions]] → 'All Marina Versions'
+- 01_Campaigns/Aquabyssos/Sessions/Session 09 - The Mourning Strategy.md:21 — [[Activate the Grief Bomb]] → 'Activate the Grief Bomb'
+- 01_Campaigns/Aquabyssos/Sessions/Session 09 - The Mourning Strategy.md:22 — [[Navigate Singer Consciousness]] → 'Navigate Singer Consciousness'
+- 01_Campaigns/Aquabyssos/Sessions/Session 09 - The Mourning Strategy.md:23 — [[Unite All Factions]] → 'Unite All Factions' | suggestions: new location
+- 01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons.md:11 — [[Shadow Marina]] → 'Shadow Marina' | suggestions: shadowhaven, shadow-xmm, shadowhaven merchant marine
+- 01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons.md:22 — [[Discover Marina's Truth]] → 'Discover Marina's Truth'
+- 01_Campaigns/Aquabyssos/Sessions/Session 06 - The Silhouette Surgeons.md:23 — [[Infiltrate Surgical Facilities]] → 'Infiltrate Surgical Facilities'
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md:9 — [[Senator Glaucus's Shadow]] → 'Senator Glaucus's Shadow' | suggestions: senator glaucus, senator_glaucus_brain
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md:14 — [[Shadow Conspiracy Investigation]] → 'Shadow Conspiracy Investigation'
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md:15 — [[Temporal Anomaly Resolution]] → 'Temporal Anomaly Resolution'
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md:16 — [[The Vote Vault Mystery]] → 'The Vote Vault Mystery' | suggestions: the seven shards mystery
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md:228 — [[Vote Vaults]] → 'Vote Vaults'
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md:228 — [[Amnesia Gallery]] → 'Amnesia Gallery'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:6 — [[Multiple Recursion Levels]] → 'Multiple Recursion Levels'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:9 — [[Lord Flux the Inconsistent]] → 'Lord Flux the Inconsistent'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:11 — [[Marina's Echo]] → 'Marina's Echo'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:12 — [[The Parliament of Nobody]] → 'The Parliament of Nobody' | suggestions: parliament of echoes, the parliament of shadows campaign
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:21 — [[Navigate Fractal Reality]] → 'Navigate Fractal Reality'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:22 — [[Find the Grief Bomb]] → 'Find the Grief Bomb'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:23 — [[Unite the Recursions]] → 'Unite the Recursions'
+- 01_Campaigns/Aquabyssos/Sessions/Session 08 - The Fractal Conspiracy.md:32 — [[Lord Flux the Inconsistent]] → 'Lord Flux the Inconsistent'
+- 01_Campaigns/Aquabyssos/Sessions/Session 05 - Descent into Darkness.md:11 — [[Shadow Broker Mirrors]] → 'Shadow Broker Mirrors' | suggestions: shadow broker mist, the shadowbroker
+- 01_Campaigns/Aquabyssos/Sessions/Session 05 - Descent into Darkness.md:22 — [[Investigate Shadow Trade]] → 'Investigate Shadow Trade' | suggestions: investigate shadow conspiracy, investigation_board
+- 01_Campaigns/Aquabyssos/Sessions/Session 05 - Descent into Darkness.md:66 — [[The Shadow Markets]] → 'The Shadow Markets' | suggestions: the shadowbroker, the shadowmere, the phosphor markets
+- 01_Campaigns/Aquabyssos/Sessions/Session 05 - Descent into Darkness.md:146 — [[Fear Farms]] → 'Fear Farms' | suggestions: firearms
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:6 — [[Singer Consciousness]] → 'Singer Consciousness'
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:9 — [[The Singer Beyond]] → 'The Singer Beyond' | suggestions: the siren, the crystalline foundry
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:10 — [[All Major NPCs]] → 'All Major NPCs'
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:12 — [[Party Shadows]] → 'Party Shadows'
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:22 — [[The Final Choice]] → 'The Final Choice'
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:23 — [[Save/Transform Reality]] → 'Save/Transform Reality'
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:24 — [[Determine Aquabyssos's Fate]] → 'Determine Aquabyssos's Fate' | suggestions: aquabyssos faction web
+- 01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale.md:45 — [[Deep Mother]] → 'Deep Mother' | suggestions: the deep mother, deep-rothe-mpmm
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:9 — [[The Reflection Pools]] → 'The Reflection Pools' | suggestions: reflection pools
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:11 — [[Reflection Pools - Surgical Theater]] → 'Reflection Pools - Surgical Theater' | suggestions: reflection pools
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:12 — [[Shadow Market Canals]] → 'Shadow Market Canals' | suggestions: discover shadow market location, shadow broker mist, shadow separation rules
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:13 — [[The Convergence Point]] → 'The Convergence Point' | suggestions: the emergence, the forgotten one, the resonance prophet
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:14 — [[Tidal Chambers]] → 'Tidal Chambers'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:17 — [[Shadow Nyx]] → 'Shadow Nyx' | suggestions: shadow duchess nyx, shadow-xmm, shadowhaven
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:18 — [[The Real Marina]] → 'The Real Marina' | suggestions: the great drowning, the cerulean archipelago, the crystal throne
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:21 — [[Shadow Surgeons Collective]] → 'Shadow Surgeons Collective'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:22 — [[Hybrid Abominations]] → 'Hybrid Abominations'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:23 — [[The Shadow Duchess Duel]] → 'The Shadow Duchess Duel' | suggestions: shadow duchess nyx, the shadowmere, stop the shadow harvest
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:26 — [[Unite or Divide]] → 'Unite or Divide'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:28 — [[The Shadow Conspiracy]] → 'The Shadow Conspiracy' | suggestions: investigate shadow conspiracy, the deepmind conspiracy, the_shadow_parliament_conspiracy
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:29 — [[Save Marina]] → 'Save Marina'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:63 — [[Shadow Surgeons Collective]] → 'Shadow Surgeons Collective'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:64 — [[Hybrid Abominations]] → 'Hybrid Abominations'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:65 — [[The Shadow Duchess Duel]] → 'The Shadow Duchess Duel' | suggestions: shadow duchess nyx, the shadowmere, stop the shadow harvest
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:69 — [[Shadow Nyx]] → 'Shadow Nyx' | suggestions: shadow duchess nyx, shadow-xmm, shadowhaven
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:71 — [[The Real Marina]] → 'The Real Marina' | suggestions: the great drowning, the cerulean archipelago, the crystal throne
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:86 — [[Shadow Market Canals]] → 'Shadow Market Canals' | suggestions: discover shadow market location, shadow broker mist, shadow separation rules
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:99 — [[Reflection Pools - Surgical Theater]] → 'Reflection Pools - Surgical Theater' | suggestions: reflection pools
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:122 — [[Convergence Point]] → 'Convergence Point'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:269 — [[Pressure Tube Terminal]] → 'Pressure Tube Terminal' | suggestions: pressure terminal, pressure's end
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:382 — [[The Shadow Harvest]] → 'The Shadow Harvest' | suggestions: stop the shadow harvest, the shadowbroker, shadowhaven
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:384 — [[Shadow Parliament]] → 'Shadow Parliament' | suggestions: the_shadow_parliament_conspiracy, shadowhaven, shadow separation rules
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:385 — [[Continental War]] → 'Continental War'
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:386 — [[The Deep Harvest]] → 'The Deep Harvest' | suggestions: the depth market, the depth wardens, the seven shards
+- 01_Campaigns/Aquabyssos/Sessions/Session 04 - High Tide Horror.md:389 — [[Session 05 - The Shadow War]] → 'Session 05 - The Shadow War' | suggestions: session 10 - the shadow finale, session 01 - the drowning welcome, session 06 - the silhouette surgeons
+- 01_Campaigns/Aquabyssos/Locations/The Infinite Garden.md:14 — [[The Recursion Cult]] → 'The Recursion Cult' | suggestions: the crimson fleet, the infinite recursion campaign
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:18 — [[Temple Guardian Marcus the Drowned]] → 'Temple Guardian Marcus the Drowned'
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:28 — [[The Singing Shadows]] → 'The Singing Shadows' | suggestions: the seven shards, the serpent's shadow, the shadowmere
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:31 — [[Mad Bell-Ringer Thomas]] → 'Mad Bell-Ringer Thomas'
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:34 — [[Keeper of the Dead, Sister Morwyn]] → 'Keeper of the Dead, Sister Morwyn'
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:37 — [[Constellation Codex]] → 'Constellation Codex'
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:77 — [[Temple Guardian Marcus the Drowned]] → 'Temple Guardian Marcus the Drowned'
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:78 — [[The Singing Shadows]] → 'The Singing Shadows' | suggestions: the seven shards, the serpent's shadow, the shadowmere
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:79 — [[Angel of the Depths]] → 'Angel of the Depths' | suggestions: treasures of the deep
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:139 — [[Mad Bell-Ringer Thomas]] → 'Mad Bell-Ringer Thomas'
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:149 — [[The Divine Trial]] → 'The Divine Trial' | suggestions: the tide rises
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:150 — [[The Shrinking Sanctuary]] → 'The Shrinking Sanctuary' | suggestions: the shattered sanctum
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:151 — [[Theological Warfare]] → 'Theological Warfare' | suggestions: economic warfare
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:152 — [[The Constellation Mystery]] → 'The Constellation Mystery' | suggestions: the contested waters, the seven shards mystery
+- 01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars.md:153 — [[Angels and Depths]] → 'Angels and Depths' | suggestions: the hadal depths, sage lysander deepthought
+- 01_Campaigns/Aquabyssos/Locations/Memoriam - The Forgotten Continent.md:14 — [[The Unremembered Parliament]] → 'The Unremembered Parliament' | suggestions: the inverse palace
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:18 — [[Vault Keeper Eternal]] → 'Vault Keeper Eternal' | suggestions: vault report
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:24 — [[The First Failure]] → 'The First Failure' | suggestions: the crystal throne
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:139 — [[Vault Keeper Eternal]] → 'Vault Keeper Eternal' | suggestions: vault report
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:141 — [[The First Failure]] → 'The First Failure' | suggestions: the crystal throne
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:147 — [[The Thirteen Keys]] → 'The Thirteen Keys' | suggestions: the green death, the siren
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:148 — [[Vault Breach]] → 'Vault Breach' | suggestions: vault report, the verdant reach
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:149 — [[Memory Heist]] → 'Memory Heist' | suggestions: the memory meadows, memoriam
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:150 — [[Temporal Rescue]] → 'Temporal Rescue'
+- 01_Campaigns/Aquabyssos/Locations/The Primordial Vaults.md:151 — [[The First Truth]] → 'The First Truth' | suggestions: the ember of truth, the crystal throne
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md:230 — [[Scream Saturation Rules]] → 'Scream Saturation Rules' | suggestions: shadow separation rules, screaming gardens
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md:231 — [[Memory Parasite Infection]] → 'Memory Parasite Infection'
+- 01_Campaigns/Aquabyssos/Locations/Screaming Gardens.md:232 — [[Crystallization Process]] → 'Crystallization Process' | suggestions: crystal plague progression, the great crystallization
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:13 — [[Merchant's Covenant]] → 'Merchant's Covenant' | suggestions: merchant's rest island, merchants-scale
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:24 — [[Trader Grimm Voidheart]] → 'Trader Grimm Voidheart'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:27 — [[Antiquarian Eliza Tidecaller]] → 'Antiquarian Eliza Tidecaller' | suggestions: the tidecaller
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:27 — [[Memory Merchant Zephyr Mindweaver]] → 'Memory Merchant Zephyr Mindweaver'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:30 — [[Shadow Merchant Riptide]] → 'Shadow Merchant Riptide' | suggestions: shadowhaven merchant marine, merchant princes
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:30 — [[Deepmind Conspiracy]] → 'Deepmind Conspiracy' | suggestions: the deepmind conspiracy
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:33 — [[Dockmaster Bruno Steadyanchor]] → 'Dockmaster Bruno Steadyanchor'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:41 — [[Barkeep Salty Sarah]] → 'Barkeep Salty Sarah'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:47 — [[Doctor Coral Shapeshift]] → 'Doctor Coral Shapeshift'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:50 — [[Madame Whisper's]] → 'Madame Whisper's' | suggestions: marina saltwhisper, depths of whispers
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:77 — [[Merchant's Covenant Guard]] → 'Merchant's Covenant Guard' | suggestions: merchant's rest island, merchants guild
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:137 — [[Trader Grimm Voidheart]] → 'Trader Grimm Voidheart'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:138 — [[Shadow Merchant Riptide]] → 'Shadow Merchant Riptide' | suggestions: shadowhaven merchant marine, merchant princes
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:141 — [[Doctor Coral Shapeshift]] → 'Doctor Coral Shapeshift'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:142 — [[Madame Whisper]] → 'Madame Whisper' | suggestions: marina saltwhisper, oracle moonwhisper, depths of whispers
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:143 — [[Dockmaster Bruno Steadyanchor]] → 'Dockmaster Bruno Steadyanchor'
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:152 — [[Market Heist]] → 'Market Heist' | suggestions: market_district
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:153 — [[The Memory Thief]] → 'The Memory Thief' | suggestions: the memory meadows, the deep mother, the memory wars campaign
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:154 — [[Trade War]] → 'Trade War' | suggestions: tradeway road, rewards
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:155 — [[The Lost Shipment]] → 'The Lost Shipment' | suggestions: the siren
+- 01_Campaigns/Aquabyssos/Locations/The Phosphor Markets.md:156 — [[Market Mystery]] → 'Market Mystery' | suggestions: market_district
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:39 — [[Court Herald Titus]] → 'Court Herald Titus'
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:40 — [[The Eel Keepers]] → 'The Eel Keepers' | suggestions: lighthouse keeper, the scattered emperor, the deep mother
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:123 — [[Chancellor Octavius]] → 'Chancellor Octavius'
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:135 — [[Tribune Cassia]] → 'Tribune Cassia'
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:141 — [[Shadow Chancellor]] → 'Shadow Chancellor' | suggestions: shadowhaven
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:281 — [[Shadow Chancellor]] → 'Shadow Chancellor' | suggestions: shadowhaven
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:287 — [[Temporal Navigation]] → 'Temporal Navigation'
+- 01_Campaigns/Aquabyssos/Locations/The Inverse Palace.md:288 — [[Gravity Anomaly Mechanics]] → 'Gravity Anomaly Mechanics' | suggestions: depth survival mechanics
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md:128 — [[Into the Blue]] → 'Into the Blue'
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md:129 — [[The Lost Expedition]] → 'The Lost Expedition' | suggestions: quest - the lost expedition
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md:130 — [[Depth Crystal Harvest]] → 'Depth Crystal Harvest' | suggestions: the crystal caves, crystalhaven, crystal wardens
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md:131 — [[The Drowning Truth]] → 'The Drowning Truth' | suggestions: the great drowning, the ember of truth, the mourning depths
+- 01_Campaigns/Aquabyssos/Locations/The Cerulean Trench.md:132 — [[Voices from Below]] → 'Voices from Below'
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md:112 — [[Senator Glaucus's Shadow]] → 'Senator Glaucus's Shadow' | suggestions: senator glaucus, senator_glaucus_brain
+- 01_Campaigns/Aquabyssos/Locations/Parliament of Echoes.md:251 — [[Political Intrigue of Meridian]] → 'Political Intrigue of Meridian' | suggestions: advanced political intrigue engine
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:24 — [[Sky Trader Zephyr Windcatcher]] → 'Sky Trader Zephyr Windcatcher'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:30 — [[Botanist Rose Sundrinker]] → 'Botanist Rose Sundrinker'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:38 — [[Navigator Sage Driftwood]] → 'Navigator Sage Driftwood'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:44 — [[Keeper of the Past, Elderly Morgan]] → 'Keeper of the Past, Elderly Morgan'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:47 — [[Teacher Miranda Hopekeeper]] → 'Teacher Miranda Hopekeeper'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:133 — [[Navigator Sage Driftwood]] → 'Navigator Sage Driftwood'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:134 — [[Botanist Rose Sundrinker]] → 'Botanist Rose Sundrinker'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:136 — [[Teacher Miranda Hopekeeper]] → 'Teacher Miranda Hopekeeper'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:137 — [[Keeper of the Past, Elderly Morgan]] → 'Keeper of the Past, Elderly Morgan'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:146 — [[Surface Signals]] → 'Surface Signals'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:147 — [[The Sinking Atoll]] → 'The Sinking Atoll' | suggestions: the wandering atoll, the sunken markets, the sundering
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:148 — [[Spy Games]] → 'Spy Games'
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:149 — [[The Last Seeds]] → 'The Last Seeds' | suggestions: the tide rises, the seven shards
+- 01_Campaigns/Aquabyssos/Locations/The Wandering Atoll.md:150 — [[Compass Quest]] → 'Compass Quest' | suggestions: classes
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:24 — [[Quartermaster Judith Steadfast]] → 'Quartermaster Judith Steadfast'
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:27 — [[Warden Marcus Stonehand]] → 'Warden Marcus Stonehand' | suggestions: captain marcus steelhart, brother marcus steelbane
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:52 — [[Retired Captain Bron Saltbeard]] → 'Retired Captain Bron Saltbeard'
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:55 — [[Merchant Viktor Geargrind]] → 'Merchant Viktor Geargrind' | suggestions: merchants guild
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:58 — [[Innkeeper Mara Ironlung]] → 'Innkeeper Mara Ironlung' | suggestions: keeper elara mindwell
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:61 — [[Supplier Erikson Tidecaller]] → 'Supplier Erikson Tidecaller'
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:119 — [[Warden Marcus Stonehand]] → 'Warden Marcus Stonehand' | suggestions: captain marcus steelhart, brother marcus steelbane
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:124 — [[Quartermaster Judith Steadfast]] → 'Quartermaster Judith Steadfast'
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:131 — [[The Lock]] → 'The Lock'
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:134 — [[The Deep Patrol]] → 'The Deep Patrol' | suggestions: the deep mother, the wandering atoll, the benefactor
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:135 — [[The Deserter's Tale]] → 'The Deserter's Tale' | suggestions: the gilded serpent tavern, the serpent's spire, the serpent's shadow
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:136 — [[Forge of War]] → 'Forge of War'
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:137 — [[Breaking the Deep]] → 'Breaking the Deep' | suggestions: treasures of the deep
+- 01_Campaigns/Aquabyssos/Locations/Pressure's End.md:138 — [[The Pressure Conspiracy]] → 'The Pressure Conspiracy' | suggestions: the deepmind conspiracy, the pressure crown
+- 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md:14 — [[The Forgotten Collective]] → 'The Forgotten Collective' | suggestions: the forgotten one, the forgotten representative, memoriam - the forgotten continent
+- 01_Campaigns/Aquabyssos/Locations/The Memory Meadows.md:18 — [[The Archive of Unremembered Things]] → 'The Archive of Unremembered Things'
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:17 — [[The Eternal Senate]] → 'The Eternal Senate' | suggestions: the emergence, the whisper syndicate, the forgotten representative
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:21 — [[Shadow Conspiracy]] → 'Shadow Conspiracy' | suggestions: investigate shadow conspiracy, the_shadow_parliament_conspiracy, the deepmind conspiracy
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:22 — [[Depth Merchants]] → 'Depth Merchants' | suggestions: depth survival mechanics, depth wardens, merchants-scale
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:23 — [[Memory Farmers]] → 'Memory Farmers' | suggestions: memoriam, the memory meadows
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:205 — [[Pressure Tubes]] → 'Pressure Tubes' | suggestions: pressure terminal, pressure's end
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:206 — [[Blood Current Express]] → 'Blood Current Express'
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:207 — [[Dream Rails]] → 'Dream Rails'
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:208 — [[Void Currents]] → 'Void Currents' | suggestions: free current
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:217 — [[Surface Sympathizer Settlements]] → 'Surface Sympathizer Settlements' | suggestions: template-settlement
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:262 — [[Memory Farmer Thane]] → 'Memory Farmer Thane'
+- 01_Campaigns/Aquabyssos/Locations/Abyssos Prime.md:263 — [[Reflection Broker Mirrors]] → 'Reflection Broker Mirrors' | suggestions: reflection pools
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:24 — [[Mad Oracle Thessaly]] → 'Mad Oracle Thessaly'
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:101 — [[Mad Oracle Thessaly]] → 'Mad Oracle Thessaly'
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:102 — [[The Silent Watcher]] → 'The Silent Watcher' | suggestions: the contested waters, the verdant reach, the verdant accord
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:103 — [[Whisper-Touched William]] → 'Whisper-Touched William'
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:104 — [[Captain Echo]] → 'Captain Echo' | suggestions: captain kaelen, captain valerius, captain blackwater
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:107 — [[Whisper Translation]] → 'Whisper Translation' | suggestions: whisper island
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:108 — [[The Silent Rescue]] → 'The Silent Rescue' | suggestions: the siren's revenge, the sunken treasure inn, the verdant reach
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:109 — [[Truth and Madness]] → 'Truth and Madness'
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:110 — [[Quieting the Depths]] → 'Quieting the Depths' | suggestions: quest - the seventh seal
+- 01_Campaigns/Aquabyssos/Locations/The Whispering Depths.md:111 — [[The Last Words]] → 'The Last Words' | suggestions: the depth wardens, the verdant accord, the seven shards
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:18 — [[Bathyal Succession]] → 'Bathyal Succession'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:29 — [[Keeper of Contracts Minerva Bindingword]] → 'Keeper of Contracts Minerva Bindingword'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:32 — [[Garden Keeper Zen Currentdancer]] → 'Garden Keeper Zen Currentdancer'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:40 — [[Enchanter Valdris Peacewarden]] → 'Enchanter Valdris Peacewarden'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:56 — [[Envoy Blackwater Jr.]] → 'Envoy Blackwater Jr.' | suggestions: envoy blackwater jr., captain blackwater
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:61 — [[Mediator Stillwater]] → 'Mediator Stillwater' | suggestions: mediator serenity stillwater, dr. siphon gillwater
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:65 — [[Deepmind Conspiracy]] → 'Deepmind Conspiracy' | suggestions: the deepmind conspiracy
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:70 — [[Concierge Phillip Gracewater]] → 'Concierge Phillip Gracewater'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:73 — [[Chef Amara Tastecurrent]] → 'Chef Amara Tastecurrent' | suggestions: the free current
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:76 — [[Banker Cornelius Goldflow]] → 'Banker Cornelius Goldflow' | suggestions: market master cornelius driftwood, banker titus goldcurrent
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:79 — [[Courier Chief Swift Currentrider]] → 'Courier Chief Swift Currentrider'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:85 — [[Palace Guard Captain Neutralis]] → 'Palace Guard Captain Neutralis'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:88 — [[The Deep Uprising]] → 'The Deep Uprising' | suggestions: the deepmind, the sundering, the tide rises
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:105 — [[Keeper of Contracts Minerva Bindingword]] → 'Keeper of Contracts Minerva Bindingword'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:106 — [[Enchanter Valdris Peacewarden]] → 'Enchanter Valdris Peacewarden'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:108 — [[Garden Keeper Zen Currentdancer]] → 'Garden Keeper Zen Currentdancer'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:109 — [[Envoy Blackwater Jr.]] → 'Envoy Blackwater Jr.' | suggestions: envoy blackwater jr., captain blackwater
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:110 — [[Concierge Phillip Gracewater]] → 'Concierge Phillip Gracewater'
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:131 — [[The Neutral Ground]] → 'The Neutral Ground' | suggestions: the underground war, the crystal throne
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:133 — [[The Bathyal Succession]] → 'The Bathyal Succession' | suggestions: the bathyal palace
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:134 — [[Treaty of the Depths]] → 'Treaty of the Depths' | suggestions: treasures of the deep
+- 01_Campaigns/Aquabyssos/Locations/The Bathyal Palace.md:135 — [[The Missing Diplomat]] → 'The Missing Diplomat' | suggestions: the whispering depths, the mourning depths, the whispering peaks
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:35 — [[Siren Maeve Echoborn]] → 'Siren Maeve Echoborn'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:58 — [[Barkeep Mira Algaebrew]] → 'Barkeep Mira Algaebrew'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:61 — [[Healer Sage Bondseer]] → 'Healer Sage Bondseer'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:67 — [[Reef Guard Captain Torrent Shellborn]] → 'Reef Guard Captain Torrent Shellborn'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:89 — [[The Biomancers]] → 'The Biomancers' | suggestions: the sorrowmaster
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:120 — [[Siren Maeve Echoborn]] → 'Siren Maeve Echoborn'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:122 — [[Reef Guard Captain Torrent Shellborn]] → 'Reef Guard Captain Torrent Shellborn'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:129 — [[The Gloom Gardens]] → 'The Gloom Gardens' | suggestions: the depth wardens, the synthesis gardens, the infinite garden
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:133 — [[The Mothercoral Crisis]] → 'The Mothercoral Crisis' | suggestions: the tide rises
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:134 — [[The Living Weapon]] → 'The Living Weapon' | suggestions: the whispering expanse
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:135 — [[Seeds of the Past]] → 'Seeds of the Past' | suggestions: treasures of the deep
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:136 — [[The Perfect Symbiosis]] → 'The Perfect Symbiosis'
+- 01_Campaigns/Aquabyssos/Locations/Lumengarde.md:137 — [[Garden of Shadows]] → 'Garden of Shadows'
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md:16 — [[Gold-Grave Harbor]] → 'Gold-Grave Harbor'
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md:17 — [[Abyssal Cathedral]] → 'Abyssal Cathedral' | suggestions: abyssal academy
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:38 — [[Gatekeeper Iron-Lung Boris]] → 'Gatekeeper Iron-Lung Boris'
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:52 — [[Tavern Keeper Finn Splitlung]] → 'Tavern Keeper Finn Splitlung'
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:55 — [[Forge Master Petra Hammerdeep]] → 'Forge Master Petra Hammerdeep'
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:58 — [[Innkeeper Marina Dreamwhisper]] → 'Innkeeper Marina Dreamwhisper' | suggestions: keeper elara moonwhisper, marina saltwhisper
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:61 — [[Seamstress Coral Silkweaver]] → 'Seamstress Coral Silkweaver' | suggestions: sage lyralei starweaver
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:89 — [[The Depth Plague]] → 'The Depth Plague' | suggestions: the depth market, the depth wardens, the bathyal palace
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:90 — [[The Sunken Crown Cipher]] → 'The Sunken Crown Cipher' | suggestions: order of the sunken crown, the sunken markets, the sunken library
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:122 — [[Tavern Keeper Finn Splitlung]] → 'Tavern Keeper Finn Splitlung'
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:123 — [[Forge Master Petra Hammerdeep]] → 'Forge Master Petra Hammerdeep'
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:127 — [[The Vanishing Depths]] → 'The Vanishing Depths' | suggestions: the whispering depths, the mourning depths, the vanishing merchant vessels
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:128 — [[Crown Dome Conspiracy]] → 'Crown Dome Conspiracy' | suggestions: council election conspiracy, the deepmind conspiracy, investigate shadow conspiracy
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:129 — [[Memory Thief]] → 'Memory Thief' | suggestions: memoriam
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:130 — [[The Depth Plague]] → 'The Depth Plague' | suggestions: the depth market, the depth wardens, the bathyal palace
+- 01_Campaigns/Aquabyssos/Locations/New Tethys.md:131 — [[Pressure Politics]] → 'Pressure Politics' | suggestions: pressure terminal
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:18 — [[The Crystal Merchant]] → 'The Crystal Merchant' | suggestions: the crystal caves, the crystal throne, crystalhaven
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:21 — [[Lady Vivienne the Unfrozen]] → 'Lady Vivienne the Unfrozen'
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:27 — [[The Last Priest]] → 'The Last Priest' | suggestions: the tide rises
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:81 — [[The Frozen Throne]] → 'The Frozen Throne' | suggestions: the forgotten one, the crystal throne, the green death
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:82 — [[Time's Mercy]] → 'Time's Mercy'
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:83 — [[The Last Dance]] → 'The Last Dance' | suggestions: the barnacle, the maw of darkness
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:84 — [[Temporal Harvest]] → 'Temporal Harvest' | suggestions: the crystal caves
+- 01_Campaigns/Aquabyssos/Locations/Old Valdris.md:85 — [[Bubble Burst]] → 'Bubble Burst'
+- 01_Campaigns/Aquabyssos/Campaigns/The Depth Mother's Dream Campaign.md:17 — [[The Dream Shepherds]] → 'The Dream Shepherds' | suggestions: the deep mother, the seven shards, the depth wardens
+- 01_Campaigns/Aquabyssos/Campaigns/The Depth Mother's Dream Campaign.md:18 — [[The Waking Prophets]] → 'The Waking Prophets' | suggestions: the resonance prophet, the whispering peaks, the whispering depths
+- 01_Campaigns/Aquabyssos/Campaigns/The Depth Mother's Dream Campaign.md:19 — [[Echo of the Mother]] → 'Echo of the Mother' | suggestions: the deep mother
+- 01_Campaigns/Aquabyssos/Campaigns/The Depth Mother's Dream Campaign.md:20 — [[The Nightmare Surgeons]] → 'The Nightmare Surgeons' | suggestions: the silhouette surgeon prime, the pressure crown
+- 01_Campaigns/Aquabyssos/Campaigns/The Leviathan Prophecy Campaign.md:17 — [[The Leviathan Prophets]] → 'The Leviathan Prophets' | suggestions: the leviathan prophecy campaign, the resonance prophet
+- 01_Campaigns/Aquabyssos/Campaigns/The Leviathan Prophecy Campaign.md:18 — [[Biomancer Corvus Intestinal]] → 'Biomancer Corvus Intestinal'
+- 01_Campaigns/Aquabyssos/Campaigns/The Leviathan Prophecy Campaign.md:19 — [[The Parasite Priests]] → 'The Parasite Priests' | suggestions: the tide rises, the suicide bridges, the arcane disturbances
+- 01_Campaigns/Aquabyssos/Campaigns/The Leviathan Prophecy Campaign.md:20 — [[Captain Marrow Drinker]] → 'Captain Marrow Drinker' | suggestions: captain marlowe tidecrest, captain garrett stormcutter, captain marcus steelhart
+- 01_Campaigns/Aquabyssos/Campaigns/The Memory Wars Campaign.md:17 — [[The Remembrancer General]] → 'The Remembrancer General' | suggestions: the emergence
+- 01_Campaigns/Aquabyssos/Campaigns/The Memory Wars Campaign.md:18 — [[Archive-Prince Mnemonic]] → 'Archive-Prince Mnemonic'
+- 01_Campaigns/Aquabyssos/Campaigns/The Memory Wars Campaign.md:19 — [[The Forgetting Bomb]] → 'The Forgetting Bomb' | suggestions: the forgotten one
+- 01_Campaigns/Aquabyssos/Campaigns/The Memory Wars Campaign.md:20 — [[Memory Merchant Valeria]] → 'Memory Merchant Valeria'
+- 01_Campaigns/Aquabyssos/Campaigns/The Infinite Recursion Campaign.md:18 — [[Professor Euclid Mindmaze]] → 'Professor Euclid Mindmaze'
+- 01_Campaigns/Aquabyssos/Campaigns/The Infinite Recursion Campaign.md:19 — [[The Recursion Oracle]] → 'The Recursion Oracle' | suggestions: the crimson sage, the crimson fleet, the barnacle
+- 01_Campaigns/Aquabyssos/Campaigns/The Infinite Recursion Campaign.md:20 — [[Captain Scale-Walker]] → 'Captain Scale-Walker' | suggestions: captain blackwater, captain valerius, captain kaelen
+- 01_Campaigns/NPCs/Gareth_Ironforge.md:25 — [[The Stolen Anvil]] → 'The Stolen Anvil'
+- 01_Campaigns/NPCs/Gareth_Ironforge.md:26 — [[Session-4]] → 'Session-4' | suggestions: new session, possession-xphb
+- 01_Campaigns/NPCs/Gareth_Ironforge.md:63 — [[The Stolen Anvil]] → 'The Stolen Anvil'
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:27 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:29 — [[Smuggler's Gambit]] → 'Smuggler's Gambit' | suggestions: smuggler
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:30 — [[The Pressure Pirates]] → 'The Pressure Pirates' | suggestions: the pressure crown, the crimson tide pirates, the sundered peaks
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:76 — [[Captain 'Red Tide' Morgan]] → 'Captain 'Red Tide' Morgan' | suggestions: captain marlowe tidecrest
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:77 — [[The Schooling]] → 'The Schooling' | suggestions: the siren, the sundering, the_second_rising
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:124 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:178 — [[The Pearl Heist]] → 'The Pearl Heist' | suggestions: the azure coast
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:179 — [[Syndicate War]] → 'Syndicate War'
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:180 — [[The Cure]] → 'The Cure' | suggestions: the siren, the free current, the conductor
+- 01_Campaigns/NPCs/The_Crimson_Pearl.md:181 — [[Surface Syndicate]] → 'Surface Syndicate'
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:7 — [[The Tidal Council]] → 'The Tidal Council' | suggestions: the tidecaller
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:24 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:26 — [[Emperor Thalassius the Wise]] → 'Emperor Thalassius the Wise'
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:30 — [[The Depth Accords]] → 'The Depth Accords' | suggestions: the depth wardens, the verdant accord, the depth market
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:52 — [[Emperor Thalassius the Wise]] → 'Emperor Thalassius the Wise'
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:65 — [[Master of Currents Zephyr]] → 'Master of Currents Zephyr' | suggestions: master chen wei
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:66 — [[The Pearl Guard]] → 'The Pearl Guard'
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:71 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:74 — [[Surface Ambassador Lord Seaworthy]] → 'Surface Ambassador Lord Seaworthy'
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:113 — [[The Heart of Oceanus]] → 'The Heart of Oceanus' | suggestions: the maw of darkness
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:126 — [[Emperor Thalassius]] → 'Emperor Thalassius' | suggestions: new thalassopolis
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:149 — [[Aboleth Prime Yoth'zagoth]] → 'Aboleth Prime Yoth'zagoth' | suggestions: aboleth prime yoth
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:157 — [[The Tidecaller's Doubt]] → 'The Tidecaller's Doubt' | suggestions: the tidecaller
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:158 — [[Oracle's Burden]] → 'Oracle's Burden'
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md:159 — [[The Seven Seals]] → 'The Seven Seals' | suggestions: the seven shards, quest - the seventh seal, the seven shards mystery
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:47 — [[The Crimson Hand]] → 'The Crimson Hand' | suggestions: the crimson sage, the crimson fleet, the_crimson_pearl
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:49 — [[Silverscale Consortium]] → 'Silverscale Consortium'
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:50 — [[The Crown Authority]] → 'The Crown Authority' | suggestions: the conductor, bexley port authority
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:121 — [[The Possessed Queen]] → 'The Possessed Queen'
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:135 — [[Port Meridian - Noble Quarter]] → 'Port Meridian - Noble Quarter' | suggestions: port meridian - harbor district, port meridian
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:136 — [[Port Meridian - Market Square]] → 'Port Meridian - Market Square' | suggestions: port meridian - harbor district, port meridian
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:137 — [[The Crystal Festival Grounds]] → 'The Crystal Festival Grounds' | suggestions: quest - the crystal festival, the crystal throne, the crystalline foundry
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:141 — [[The Forgotten Isles]] → 'The Forgotten Isles' | suggestions: the forgotten one, the forgotten representative, the tide rises
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:146 — [[The Royal Palace]] → 'The Royal Palace' | suggestions: the bathyal palace, the inverse palace, the crystal caves
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:147 — [[The Harbor Depths]] → 'The Harbor Depths' | suggestions: the hadal depths, the mourning depths, the whispering depths
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:162 — [[Crystal-Plague-Mechanics]] → 'Crystal-Plague-Mechanics' | suggestions: crystal plague progression
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:231 — [[Random-Encounter-Tables-Aethermoor]] → 'Random-Encounter-Tables-Aethermoor' | suggestions: random-encounters-at-sea, aquabyssos random encounter tables
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:232 — [[Faction-Quick-Reference]] → 'Faction-Quick-Reference' | suggestions: npc quick reference guide
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:233 — [[Crystal-Corruption-Tracking-Sheet]] → 'Crystal-Corruption-Tracking-Sheet'
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:236 — [[Alternative-Path-Queen-Dies]] → 'Alternative-Path-Queen-Dies'
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:237 — [[Alternative-Path-Party-Joins-Entity]] → 'Alternative-Path-Party-Joins-Entity'
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:238 — [[Alternative-Path-Fled-City]] → 'Alternative-Path-Fled-City' | suggestions: alternatives-to-epic-boons
+- 01_Campaigns/Aethermoor/Aethermoor Campaign Overview.md:270 — [[Parliament-of-Shadows-Campaign]] → 'Parliament-of-Shadows-Campaign' | suggestions: the parliament of shadows campaign, parliament of shadows player guide, armor-of-shadows-xphb
+- 01_Campaigns/Aethermoor/Quests/Economic Warfare.md:14 — [[Goldspire Confederacy]] → 'Goldspire Confederacy' | suggestions: goldspire port
+- 01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity.md:279 — [[Quest - Hearts and Minds]] → 'Quest - Hearts and Minds'
+- 01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity.md:280 — [[Quest - The Moderate Path]] → 'Quest - The Moderate Path' | suggestions: quest - the drowned prophecy, quest - the lost expedition, quest - the seventh seal
+- 01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity.md:281 — [[Quest - Foreign Interests]] → 'Quest - Foreign Interests' | suggestions: quest - divine intervention
+- 01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard.md:235 — [[Quest - The Crown Reborn]] → 'Quest - The Crown Reborn' | suggestions: quest - the drowned prophecy, quest - the lost expedition, quest - the crystal festival
+- 01_Campaigns/Aethermoor/Quests/The Green Death.md:20 — [[Aether Crystals]] → 'Aether Crystals' | suggestions: the crystal caves, the crystal throne, the crystalline wastes
+- 01_Campaigns/Aethermoor/Quests/The Green Death.md:175 — [[Goldspire Confederacy]] → 'Goldspire Confederacy' | suggestions: goldspire port
+- 01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde.md:143 — [[The Purification Gardens]] → 'The Purification Gardens' | suggestions: the infinite garden, the depth wardens, system optimization guide
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md:23 — [[Verdant Accord]] → 'Verdant Accord' | suggestions: the verdant accord, the verdant reach
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md:183 — [[Quest - The Dying Forest]] → 'Quest - The Dying Forest' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md:184 — [[Quest - Nature's Balance]] → 'Quest - Nature's Balance'
+- 01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver.md:185 — [[Quest - The Root Network]] → 'Quest - The Root Network' | suggestions: quest - the lost expedition, quest - the drowned prophecy, quest - the crystal festival
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md:17 — [[Order of the Shattered Crown]] → 'Order of the Shattered Crown' | suggestions: the order of the shattered crown, order of the sunken crown, the shattered sanctum
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md:37 — [[Korvin Blacktide]] → 'Korvin Blacktide' | suggestions: ambassador korvin blacktide
+- 01_Campaigns/Aethermoor/NPCs/Sir Marcus Dawnforge.md:47 — [[Azure Shard]] → 'Azure Shard' | suggestions: azure citadel
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md:18 — [[Knight]] → 'Knight' | suggestions: night-hag
+- 01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield.md:126 — [[Quest - The Missing Guards]] → 'Quest - The Missing Guards' | suggestions: quest - the seventh shard, quest - the seventh seal
+- 01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn.md:174 — [[Quest - The Traitor Within]] → 'Quest - The Traitor Within' | suggestions: quest - the lost expedition, quest - the crystal festival
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md:6 — [[The Siren's Rest Tavern]] → 'The Siren's Rest Tavern' | suggestions: the siren's revenge, the gilded serpent tavern, the serpent's spire
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md:8 — [[Independent Smugglers]] → 'Independent Smugglers'
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md:33 — [[Uniting the Factions]] → 'Uniting the Factions'
+- 01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart.md:34 — [[The Bloodline Awakens]] → 'The Bloodline Awakens' | suggestions: session 06 the bloodline awakens, the bloodline carrier, the depth wardens
+- 01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater.md:202 — [[Quest - Into the Wastes]] → 'Quest - Into the Wastes' | suggestions: quest - the seventh seal, quest - the crystal festival, quest - the seventh shard
+- 01_Campaigns/Aethermoor/NPCs/Sister Morwyn Veilkeeper.md:10 — [[Order of the Shattered Crown]] → 'Order of the Shattered Crown' | suggestions: the order of the shattered crown, order of the sunken crown, the shattered sanctum
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md:24 — [[Aether Crystal]] → 'Aether Crystal' | suggestions: the crystal caves, the crystal throne, the great crystallization
+- 01_Campaigns/Aethermoor/NPCs/Ambassador Korvin Blacktide.md:42 — [[Seventh Shard]] → 'Seventh Shard' | suggestions: the seven shards, quest - the seventh shard, the serpent's shadow
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md:138 — [[Quest - The Runaway Golem]] → 'Quest - The Runaway Golem' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md:139 — [[Quest - Crystal Innovation]] → 'Quest - Crystal Innovation' | suggestions: quest - the crystal festival, the great crystallization, quest - the crystal black market
+- 01_Campaigns/Aethermoor/NPCs/Master Artificer Korvin Gearwright.md:140 — [[Quest - The Perfect Purifier]] → 'Quest - The Perfect Purifier' | suggestions: quest - the seventh seal, quest - the drowned prophecy, quest - the seventh shard
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md:24 — [[Aether Crystal]] → 'Aether Crystal' | suggestions: the crystal caves, the crystal throne, the great crystallization
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md:43 — [[Verdant Shard]] → 'Verdant Shard' | suggestions: the verdant accord, the seven shards, the verdant reach
+- 01_Campaigns/Aethermoor/NPCs/Sorrow-Root Nightbloom.md:82 — [[Verdant Shard]] → 'Verdant Shard' | suggestions: the verdant accord, the seven shards, the verdant reach
+- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md:165 — [[Quest - The Pretender's Crown]] → 'Quest - The Pretender's Crown' | suggestions: quest - the seventh shard, quest - the seventh seal
+- 01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater.md:167 — [[Quest - The Void Conspiracy]] → 'Quest - The Void Conspiracy' | suggestions: quest - the drowned prophecy, the deepmind conspiracy, session 08 - the fractal conspiracy
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md:18 — [[Assassin]] → 'Assassin'
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md:195 — [[The Shadow Warren]] → 'The Shadow Warren' | suggestions: the shadowmere, the shadowbroker, stop the shadow harvest
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md:196 — [[The Corroded Crown]] → 'The Corroded Crown' | suggestions: the pressure crown, the great drowning, the order of the shattered crown
+- 01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn.md:201 — [[Quest - The Blackmail Papers]] → 'Quest - The Blackmail Papers' | suggestions: quest - the crystal black market, quest - the crystal festival
+- 01_Campaigns/Aethermoor/Lore/The Great Crystallization.md:165 — [[The Shattering of the Crown]] → 'The Shattering of the Crown' | suggestions: the order of the shattered crown
+- 01_Campaigns/Aethermoor/Lore/The Great Crystallization.md:167 — [[The Crown of Stars]] → 'The Crown of Stars' | suggestions: crown-of-stars-xge, the maw of darkness, the crimson sage
+- 01_Campaigns/Aethermoor/Lore/The Great Crystallization.md:168 — [[Aetheron]] → 'Aetheron' | suggestions: aethermoor, weather, ether-cyclones
+- 01_Campaigns/Aethermoor/Lore/The Great Crystallization.md:169 — [[The Seven Betrayers]] → 'The Seven Betrayers' | suggestions: the seven shards mystery, the sunken library, the seven shards
+- 01_Campaigns/Aethermoor/Lore/The Seven Shards.md:214 — [[The Crown of Stars]] → 'The Crown of Stars' | suggestions: crown-of-stars-xge, the maw of darkness, the crimson sage
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:5 — [[The Threshold]] → 'The Threshold' | suggestions: the trencher folk
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:7 — [[The Drowned God]] → 'The Drowned God' | suggestions: the drowned embassy, the great drowning, quest - the drowned prophecy
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:10 — [[Ancient Aquabyssos Rulers]] → 'Ancient Aquabyssos Rulers' | suggestions: aquabyssos world overview
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:12 — [[Rewrite the World Order]] → 'Rewrite the World Order'
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:13 — [[The Final Sealing]] → 'The Final Sealing' | suggestions: the crimson sage, the sundering
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:14 — [[Save Both Civilizations]] → 'Save Both Civilizations'
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:129 — [[Reality Merge Zones]] → 'Reality Merge Zones'
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:130 — [[The Drowned God]] → 'The Drowned God' | suggestions: the drowned embassy, the great drowning, quest - the drowned prophecy
+- 01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds.md:131 — [[Dual World Mechanics]] → 'Dual World Mechanics' | suggestions: depth survival mechanics, aquabyssos survival mechanics
+- 01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation.md:5 — [[Crystal Festival Grounds]] → 'Crystal Festival Grounds' | suggestions: quest - the crystal festival, crystal wardens
+- 01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation.md:11 — [[Citizens of Meridian]] → 'Citizens of Meridian' | suggestions: port meridian
+- 01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation.md:13 — [[Stop the Crystal Festival Ritual]] → 'Stop the Crystal Festival Ritual' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation.md:14 — [[Save the Citizens]] → 'Save the Citizens'
+- 01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation.md:15 — [[Confront the Possessed Queen]] → 'Confront the Possessed Queen'
+- 01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation.md:124 — [[Crystal Festival]] → 'Crystal Festival' | suggestions: quest - the crystal festival, celestial, the crystal caves
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:9 — [[Port Meridian - Merchant Quarter]] → 'Port Meridian - Merchant Quarter' | suggestions: port meridian - harbor district
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:11 — [[Port Meridian - Merchant Quarter]] → 'Port Meridian - Merchant Quarter' | suggestions: port meridian - harbor district
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:12 — [[Silverscale Banking House]] → 'Silverscale Banking House'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:13 — [[Smuggler's Cove]] → 'Smuggler's Cove' | suggestions: smuggler
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:14 — [[Silverscale Emergency Bunker]] → 'Silverscale Emergency Bunker'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:15 — [[Abandoned Consortium Warehouse]] → 'Abandoned Consortium Warehouse'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:19 — [[Director Hadrian Silverscale]] → 'Director Hadrian Silverscale'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:22 — [[Crimson Hand Strike Team]] → 'Crimson Hand Strike Team'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:23 — [[Vex Shadowthorn Boss Fight]] → 'Vex Shadowthorn Boss Fight' | suggestions: vex shadowthorn
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:24 — [[Consortium Security Constructs]] → 'Consortium Security Constructs'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:26 — [[The Silverscale Conspiracy]] → 'The Silverscale Conspiracy' | suggestions: the deepmind conspiracy, the inverse palace, session 08 - the fractal conspiracy
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:27 — [[Race Against the Festival]] → 'Race Against the Festival' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:82 — [[Silverscale Banking House]] → 'Silverscale Banking House'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:103 — [[Aquabyssos Trade Seal]] → 'Aquabyssos Trade Seal' | suggestions: aquabyssos random encounter tables, aquabyssos faction web, aquabyssos
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:108 — [[Hidden Smuggler's Cove]] → 'Hidden Smuggler's Cove'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:141 — [[Silverscale Emergency Bunker]] → 'Silverscale Emergency Bunker'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:172 — [[Abandoned Consortium Warehouse]] → 'Abandoned Consortium Warehouse'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:323 — [[Corruption Exposure Tracking]] → 'Corruption Exposure Tracking'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:324 — [[Aquabyssos Adaptation Mechanics]] → 'Aquabyssos Adaptation Mechanics' | suggestions: aquabyssos survival mechanics, aquabyssos faction web, aquabyssos-survival-mechanics
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:325 — [[Faction Standing System]] → 'Faction Standing System'
+- 01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit.md:327 — [[Underwater Combat Rules]] → 'Underwater Combat Rules'
+- 01_Campaigns/Aethermoor/Sessions/Session 06 The Bloodline Awakens.md:5 — [[Lighthouse Ruins]] → 'Lighthouse Ruins' | suggestions: lighthouse keeper, the lighthouse war, lighthouse of storms
+- 01_Campaigns/Aethermoor/Sessions/Session 06 The Bloodline Awakens.md:5 — [[Hidden Sanctuary]] → 'Hidden Sanctuary' | suggestions: sanctuary, sanctuary-xphb
+- 01_Campaigns/Aethermoor/Sessions/Session 06 The Bloodline Awakens.md:13 — [[Uniting the Factions]] → 'Uniting the Factions'
+- 01_Campaigns/Aethermoor/Sessions/Session 06 The Bloodline Awakens.md:14 — [[Rewriting the Ritual]] → 'Rewriting the Ritual'
+- 01_Campaigns/Aethermoor/Sessions/Session 06 The Bloodline Awakens.md:127 — [[The Crystal Festival]] → 'The Crystal Festival' | suggestions: quest - the crystal festival, the crystal caves, the crystal throne
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:5 — [[The Abyss Beneath Aquabyssos]] → 'The Abyss Beneath Aquabyssos'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:8 — [[United Councils of Both Worlds]] → 'United Councils of Both Worlds'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:10 — [[Eastern Kingdom Fleet]] → 'Eastern Kingdom Fleet'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:12 — [[Face the Ancient Threat]] → 'Face the Ancient Threat'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:13 — [[Unite the Two Worlds]] → 'Unite the Two Worlds'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:14 — [[Establish New World Order]] → 'Establish New World Order'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:153 — [[Eastern Kingdoms]] → 'Eastern Kingdoms'
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:155 — [[Merged Reality Mechanics]] → 'Merged Reality Mechanics' | suggestions: where to get mechanics
+- 01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises.md:156 — [[Campaign Epilogues]] → 'Campaign Epilogues' | suggestions: captain kaelen, campaign_index
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:11 — [[Whisper Island Docks]] → 'Whisper Island Docks' | suggestions: whisper island, whisper jack, the whispering peaks
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:13 — [[Lighthouse Keeper's House]] → 'Lighthouse Keeper's House' | suggestions: lighthouse keeper
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:15 — [[Resonance Chamber]] → 'Resonance Chamber'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:19 — [[Vex Shadowthorn's Apprentices]] → 'Vex Shadowthorn's Apprentices' | suggestions: vex shadowthorn
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:22 — [[Crystal Mimics]] → 'Crystal Mimics' | suggestions: crystallium, the crystal caves, crystal wardens
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:23 — [[Infected Experiments]] → 'Infected Experiments'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:24 — [[Crimson Hand Apprentices]] → 'Crimson Hand Apprentices'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:26 — [[The Whisper Island Mystery]] → 'The Whisper Island Mystery' | suggestions: the whisper syndicate, whisper island, the whispering expanse
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:27 — [[Captain Blackwater's Fate]] → 'Captain Blackwater's Fate' | suggestions: captain blackwater, captain thaddeus blackwater, captain kaelen
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:63 — [[Crystal Mimics]] → 'Crystal Mimics' | suggestions: crystallium, the crystal caves, crystal wardens
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:64 — [[Infected Experiments]] → 'Infected Experiments'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:65 — [[Crimson Hand Apprentices]] → 'Crimson Hand Apprentices'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:69 — [[Vex Shadowthorn's Apprentices]] → 'Vex Shadowthorn's Apprentices' | suggestions: vex shadowthorn
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:75 — [[Whisper Island Docks]] → 'Whisper Island Docks' | suggestions: whisper island, whisper jack, the whispering peaks
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:100 — [[Lighthouse Keeper's House]] → 'Lighthouse Keeper's House' | suggestions: lighthouse keeper
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:126 — [[Lighthouse Peak - Resonance Chamber]] → 'Lighthouse Peak - Resonance Chamber'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:127 — [[Vex Shadowthorn's Apprentices]] → 'Vex Shadowthorn's Apprentices' | suggestions: vex shadowthorn
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:140 — [[Lighthouse Keeper's House]] → 'Lighthouse Keeper's House' | suggestions: lighthouse keeper
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:149 — [[Crystal Mimics]] → 'Crystal Mimics' | suggestions: crystallium, the crystal caves, crystal wardens
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:150 — [[Infected Experiments]] → 'Infected Experiments'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:151 — [[Crimson Hand Apprentices]] → 'Crimson Hand Apprentices'
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:161 — [[The Whisper Island Mystery]] → 'The Whisper Island Mystery' | suggestions: the whisper syndicate, whisper island, the whispering expanse
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:162 — [[Captain Blackwater's Fate]] → 'Captain Blackwater's Fate' | suggestions: captain blackwater, captain thaddeus blackwater, captain kaelen
+- 01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms.md:260 — [[Aurelius Goldwave]] → 'Aurelius Goldwave' | suggestions: lord aurelius goldwave
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:13 — [[The Siren's Rest Tavern]] → 'The Siren's Rest Tavern' | suggestions: the siren's revenge, the gilded serpent tavern, the serpent's spire
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:14 — [[Harbor District Customs House]] → 'Harbor District Customs House'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:15 — [[Lamplight Alley]] → 'Lamplight Alley' | suggestions: gaming-hall
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:19 — [[Dock Worker Tomás]] → 'Dock Worker Tomás' | suggestions: dockworkers union
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:22 — [[Crystal Cult Initiates Ambush]] → 'Crystal Cult Initiates Ambush'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:25 — [[Missing Persons of Port Meridian]] → 'Missing Persons of Port Meridian'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:58 — [[Crystal Cult Initiates Ambush]] → 'Crystal Cult Initiates Ambush'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:59 — [[Desperate Plague Victim]] → 'Desperate Plague Victim'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:60 — [[Purist Coalition Thugs]] → 'Purist Coalition Thugs' | suggestions: purist coalition
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:81 — [[Dock Worker Tomás]] → 'Dock Worker Tomás' | suggestions: dockworkers union
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:89 — [[The Siren's Rest Tavern]] → 'The Siren's Rest Tavern' | suggestions: the siren's revenge, the gilded serpent tavern, the serpent's spire
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:98 — [[Harbor District Customs House]] → 'Harbor District Customs House'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:107 — [[Lamplight Alley]] → 'Lamplight Alley' | suggestions: gaming-hall
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:125 — [[Crystal Cult Initiates Ambush]] → 'Crystal Cult Initiates Ambush'
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:125 — [[Lamplight Alley]] → 'Lamplight Alley' | suggestions: gaming-hall
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:131 — [[The Siren's Rest Tavern]] → 'The Siren's Rest Tavern' | suggestions: the siren's revenge, the gilded serpent tavern, the serpent's spire
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:132 — [[Customs House]] → 'Customs House' | suggestions: storehouse
+- 01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor.md:137 — [[Missing Persons of Port Meridian]] → 'Missing Persons of Port Meridian'
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:10 — [[Aquabyssos Ambassadors]] → 'Aquabyssos Ambassadors' | suggestions: aquabyssos campaign overview, aquabyssos
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:11 — [[The Transformed Citizens]] → 'The Transformed Citizens'
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:13 — [[Establish the New Order]] → 'Establish the New Order'
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:14 — [[The Crown's Burden]] → 'The Crown's Burden' | suggestions: the siren's revenge
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:15 — [[Healing Two Worlds]] → 'Healing Two Worlds' | suggestions: healing-word-xphb
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:123 — [[Merged Reality Zones]] → 'Merged Reality Zones'
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:124 — [[Aquabyssos-Aethermoor Treaties]] → 'Aquabyssos-Aethermoor Treaties'
+- 01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity.md:126 — [[Eastern Kingdoms]] → 'Eastern Kingdoms'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:9 — [[Royal Palace of Meridian]] → 'Royal Palace of Meridian'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:11 — [[Ancient Siege Tunnels]] → 'Ancient Siege Tunnels'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:12 — [[Crystal Garden]] → 'Crystal Garden' | suggestions: crystal wardens, crystalhaven, the crystal caves
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:13 — [[Throne Room]] → 'Throne Room' | suggestions: trophy-room
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:14 — [[Royal Vault]] → 'Royal Vault' | suggestions: the primordial vaults
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:20 — [[Princess Celestia]] → 'Princess Celestia' | suggestions: port celeste, celestial
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:22 — [[Crystal Guard Elite]] → 'Crystal Guard Elite' | suggestions: crystal wardens, crystallium
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:23 — [[Possessed Noble Coterie]] → 'Possessed Noble Coterie'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:24 — [[The Queen's Shadow]] → 'The Queen's Shadow' | suggestions: the serpent's shadow, the seven shards, the shadowmere
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:26 — [[Save Queen Seraphina]] → 'Save Queen Seraphina' | suggestions: queen seraphina lumengarde
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:27 — [[Stop the Crystal Festival Ritual]] → 'Stop the Crystal Festival Ritual' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:30 — [[Race Against the Festival]] → 'Race Against the Festival' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:85 — [[Ancient Tunnels Beneath Palace]] → 'Ancient Tunnels Beneath Palace'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:119 — [[Palace Courtyard - Crystal Garden]] → 'Palace Courtyard - Crystal Garden'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:157 — [[Throne Room - Heart of Palace]] → 'Throne Room - Heart of Palace'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:204 — [[Secret Vault Beneath Throne]] → 'Secret Vault Beneath Throne'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:376 — [[Possession Mechanics]] → 'Possession Mechanics' | suggestions: possession-xphb
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:377 — [[Bloodline Awakening Powers]] → 'Bloodline Awakening Powers'
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:378 — [[Deep Mother Influence]] → 'Deep Mother Influence' | suggestions: the deep mother
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:379 — [[Ritual Redirection Options]] → 'Ritual Redirection Options' | suggestions: action-options
+- 01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness.md:380 — [[Multi-Phase Boss Fights]] → 'Multi-Phase Boss Fights'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:12 — [[Silver Mask]] → 'Silver Mask' | suggestions: silver-sp, silver-xdmg
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:14 — [[Political Intrigue of Meridian]] → 'Political Intrigue of Meridian' | suggestions: advanced political intrigue engine
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:32 — [[Goldwave Manor]] → 'Goldwave Manor'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:41 — [[Shadow Bazaar]] → 'Shadow Bazaar'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:52 — [[Cathedral of Light]] → 'Cathedral of Light'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:71 — [[Royal Embassy]] → 'Royal Embassy' | suggestions: the drowned embassy
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:89 — [[Shadow Bazaar]] → 'Shadow Bazaar'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:196 — [[Silver Mask]] → 'Silver Mask' | suggestions: silver-sp, silver-xdmg
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:197 — [[Goldwave Manor]] → 'Goldwave Manor'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:197 — [[Cathedral of Light]] → 'Cathedral of Light'
+- 01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows.md:197 — [[Shadow Bazaar]] → 'Shadow Bazaar'
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:28 — [[Merchant Lord Silas Copperfield]] → 'Merchant Lord Silas Copperfield'
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:53 — [[Captain Rodrigo Ironanchor]] → 'Captain Rodrigo Ironanchor'
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:59 — [[Harbormaster Erik Saltbeard]] → 'Harbormaster Erik Saltbeard' | suggestions: harbormaster willem tidecaller, harbor master luna freedrift, archon meredith saltweaver
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:165 — [[Quest - Smuggler's Run]] → 'Quest - Smuggler's Run'
+- 01_Campaigns/Aethermoor/Locations/Port Meridian.md:166 — [[Quest - The Missing Fleet]] → 'Quest - The Missing Fleet' | suggestions: quest - the seventh seal, quest - the crystal festival, quest - the seventh shard
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md:18 — [[Verdant Accord]] → 'Verdant Accord' | suggestions: the verdant accord, the verdant reach
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md:213 — [[Quest - The Dying Forest]] → 'Quest - The Dying Forest' | suggestions: quest - the crystal festival
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md:214 — [[Quest - Nature's Balance]] → 'Quest - Nature's Balance'
+- 01_Campaigns/Aethermoor/Locations/The Verdant Reach.md:215 — [[Quest - The Root Network]] → 'Quest - The Root Network' | suggestions: quest - the lost expedition, quest - the drowned prophecy, quest - the crystal festival
+- 01_Campaigns/Aethermoor/Locations/The Drowned Embassy.md:52 — [[Aether Crystals]] → 'Aether Crystals' | suggestions: the crystal caves, the crystal throne, the crystalline wastes
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:29 — [[Artificer's Row]] → 'Artificer's Row'
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:38 — [[The Gilded Shard]] → 'The Gilded Shard' | suggestions: the seven shards, the gilded serpent tavern, the depth wardens
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:39 — [[Merchant Lord Silas Copperfield]] → 'Merchant Lord Silas Copperfield'
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:53 — [[The Crystal Wardens]] → 'The Crystal Wardens' | suggestions: crystal wardens, the crystal caves, the crystal throne
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:78 — [[The Gilded Shard]] → 'The Gilded Shard' | suggestions: the seven shards, the gilded serpent tavern, the depth wardens
+- 01_Campaigns/Aethermoor/Locations/Crystalhaven.md:116 — [[Merchant Lord Silas Copperfield]] → 'Merchant Lord Silas Copperfield'
+- 01_Campaigns/Aethermoor/Locations/The Shattered Sanctum.md:265 — [[Quest - The Truth Unveiled]] → 'Quest - The Truth Unveiled' | suggestions: quest - the seventh seal, quest - the seventh shard
+- 01_Campaigns/Aethermoor/Locations/Aethermoor.md:45 — [[The Shattering of the Crown]] → 'The Shattering of the Crown' | suggestions: the order of the shattered crown
+- 01_Campaigns/Aethermoor/Locations/The Crystalline Wastes.md:196 — [[Quest - Into the Wastes]] → 'Quest - Into the Wastes' | suggestions: quest - the seventh seal, quest - the crystal festival, quest - the seventh shard
+- 01_Campaigns/Aethermoor/Locations/The Synthesis Gardens.md:38 — [[Withered Court]] → 'Withered Court' | suggestions: the free current, the azure coast
+- 01_Campaigns/Aethermoor/Factions/Merchant Princes.md:29 — [[Captain Rodrigo Ironanchor]] → 'Captain Rodrigo Ironanchor'
+- 01_Campaigns/Aethermoor/Factions/Merchant Princes.md:219 — [[Captain Rodrigo Ironanchor]] → 'Captain Rodrigo Ironanchor'
+- 01_Campaigns/Aethermoor/Factions/The Whisper Syndicate.md:239 — [[The Shadow Warren]] → 'The Shadow Warren' | suggestions: the shadowmere, the shadowbroker, stop the shadow harvest
+- 01_Campaigns/Aethermoor/Factions/Purist Coalition.md:252 — [[Quest - Hearts and Minds]] → 'Quest - Hearts and Minds'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:15 — [[Surface Portal Alpha]] → 'Surface Portal Alpha'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:16 — [[The Kelp Highway]] → 'The Kelp Highway'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:23 — [[Illyana Glowstream]] → 'Illyana Glowstream'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:26 — [[Taverner Bubbles McGill]] → 'Taverner Bubbles McGill' | suggestions: throne of bubbles
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:33 — [[Dr. Siphon Gillwater]] → 'Dr. Siphon Gillwater'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:51 — [[Engineer Prisma Depthwright]] → 'Engineer Prisma Depthwright'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:52 — [[Captain Trawl Netcaster]] → 'Captain Trawl Netcaster' | suggestions: captain blackwater, captain marlowe tidecrest, captain valerius
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:57 — [[Merchant Prince Akula]] → 'Merchant Prince Akula' | suggestions: merchant princes, merchant's rest island, merchants-scale
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:58 — [[Old Sally Seasprayer]] → 'Old Sally Seasprayer' | suggestions: old salt pete
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:62 — [[Coral Throne Syndicate]] → 'Coral Throne Syndicate' | suggestions: the coral throne syndicate, the whisper syndicate
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:69 — [[Lord Reginald Seaworthy]] → 'Lord Reginald Seaworthy'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:70 — [[Aboleth Adjunct Yzz'theta]] → 'Aboleth Adjunct Yzz'theta'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:71 — [[The Neutral Current Tavern]] → 'The Neutral Current Tavern' | suggestions: the gilded serpent tavern, the free current
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:86 — [[Dr. Siphon Gillwater]] → 'Dr. Siphon Gillwater'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:89 — [[Pressure Crystals]] → 'Pressure Crystals' | suggestions: pressure terminal, the pressure crown
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:89 — [[Luminous Hollow]] → 'Luminous Hollow'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:99 — [[Taverner Bubbles McGill]] → 'Taverner Bubbles McGill' | suggestions: throne of bubbles
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:101 — [[Illyana Glowstream]] → 'Illyana Glowstream'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:114 — [[Navigator Flux]] → 'Navigator Flux' | suggestions: navigators-tools-xphb
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:115 — [[Current Riders Guild]] → 'Current Riders Guild' | suggestions: thieves guild
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:122 — [[Illyana Glowstream]] → 'Illyana Glowstream'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:123 — [[Chef Gastropod]] → 'Chef Gastropod'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:124 — [[The Banker Fish]] → 'The Banker Fish' | suggestions: the ember of truth
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:128 — [[Smuggler's Gambit]] → 'Smuggler's Gambit' | suggestions: smuggler
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:129 — [[The Lock Saboteur]] → 'The Lock Saboteur'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:130 — [[Surface Tensions]] → 'Surface Tensions' | suggestions: actions
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:131 — [[The Deep Fugitive]] → 'The Deep Fugitive' | suggestions: the deep mother, the deepmind
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:136 — [[Syndicate Enforcers]] → 'Syndicate Enforcers'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:137 — [[Surface Traders]] → 'Surface Traders'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:138 — [[Depth Warden Patrol]] → 'Depth Warden Patrol' | suggestions: depth wardens, the wandering atoll, the depth wardens
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:139 — [[Street Urchin Gang]] → 'Street Urchin Gang'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:140 — [[Pressure Suit Malfunction]] → 'Pressure Suit Malfunction' | suggestions: pressure terminal
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:141 — [[Black Market Deal]] → 'Black Market Deal'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:150 — [[Dr. Siphon Gillwater]] → 'Dr. Siphon Gillwater'
+- 01_Campaigns/Locations/Pearl_Harbor_City.md:177 — [[Taverner Bubbles McGill]] → 'Taverner Bubbles McGill' | suggestions: throne of bubbles
+- 01_Campaigns/Locations/Market_District.md:12 — [[Harbor District]] → 'Harbor District' | suggestions: eastern harbor district, market_district, port meridian - harbor district
+- 01_Campaigns/Locations/Market_District.md:13 — [[Noble Quarter]] → 'Noble Quarter'
+- 01_Campaigns/Locations/Market_District.md:14 — [[Temple Ward]] → 'Temple Ward' | suggestions: template design, example party 2, example party 1
+- 01_Campaigns/Locations/Market_District.md:25 — [[Captain Marcus]] → 'Captain Marcus' | suggestions: captain valerius, captain marcus steelhart, captain marlowe tidecrest
+- 01_Campaigns/Locations/Market_District.md:57 — [[Guildmaster Harwick]] → 'Guildmaster Harwick'
+- 01_Campaigns/Locations/Market_District.md:62 — [[Pip Goldleaf]] → 'Pip Goldleaf' | suggestions: lady seraphina goldleaf
+- 01_Campaigns/Locations/Market_District.md:70 — [[Martha Hillbrook]] → 'Martha Hillbrook' | suggestions: millbrook
+
+## Ambiguous Links (multiple matching notes)
+
+- _ENHANCED_BASES_SCHEMAS.md:82 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
+- _ENHANCED_BASES_SCHEMAS.md:317 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
+- _ENHANCED_BASES_SCHEMAS.md:387 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
+- _ENHANCED_BASES_SCHEMAS.md:467 — [[Items]] → matches 2: 03_Rules_Reference/Homebrew/Items/Items.md, Ω_System/CLI/items/items.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:128 — [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:129 — [[Ω_System/CLI/rules/skills#Animal Handling|Animal Handling]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:130 — [[Ω_System/CLI/rules/skills#Arcana|Arcana]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:131 — [[Ω_System/CLI/rules/skills#Athletics|Athletics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:132 — [[Ω_System/CLI/rules/skills#Deception|Deception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:133 — [[Ω_System/CLI/rules/skills#History|History]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:134 — [[Ω_System/CLI/rules/skills#Insight|Insight]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:135 — [[Ω_System/CLI/rules/skills#Intimidation|Intimidation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:136 — [[Ω_System/CLI/rules/skills#Investigation|Investigation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:137 — [[Ω_System/CLI/rules/skills#Medicine|Medicine]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:138 — [[Ω_System/CLI/rules/skills#Nature|Nature]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:139 — [[Ω_System/CLI/rules/skills#Perception|Perception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:140 — [[Ω_System/CLI/rules/skills#Performance|Performance]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:141 — [[Ω_System/CLI/rules/skills#Persuasion|Persuasion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:142 — [[Ω_System/CLI/rules/skills#Religion|Religion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:143 — [[Ω_System/CLI/rules/skills#Sleight of Hand|Sleight of Hand]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:144 — [[Ω_System/CLI/rules/skills#Stealth|Stealth]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014.md:145 — [[Ω_System/CLI/rules/skills#Survival|Survival]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:127 — [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:128 — [[Ω_System/CLI/rules/skills#Animal Handling|Animal Handling]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:129 — [[Ω_System/CLI/rules/skills#Arcana|Arcana]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:130 — [[Ω_System/CLI/rules/skills#Athletics|Athletics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:131 — [[Ω_System/CLI/rules/skills#Deception|Deception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:132 — [[Ω_System/CLI/rules/skills#History|History]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:133 — [[Ω_System/CLI/rules/skills#Insight|Insight]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:134 — [[Ω_System/CLI/rules/skills#Intimidation|Intimidation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:135 — [[Ω_System/CLI/rules/skills#Investigation|Investigation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:136 — [[Ω_System/CLI/rules/skills#Medicine|Medicine]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:137 — [[Ω_System/CLI/rules/skills#Nature|Nature]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:138 — [[Ω_System/CLI/rules/skills#Perception|Perception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:139 — [[Ω_System/CLI/rules/skills#Performance|Performance]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:140 — [[Ω_System/CLI/rules/skills#Persuasion|Persuasion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:141 — [[Ω_System/CLI/rules/skills#Religion|Religion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:142 — [[Ω_System/CLI/rules/skills#Sleight of Hand|Sleight of Hand]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:143 — [[Ω_System/CLI/rules/skills#Stealth|Stealth]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md:144 — [[Ω_System/CLI/rules/skills#Survival|Survival]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:94 — [[Ω_System/CLI/rules/skills#Acrobatics|Acrobatics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:95 — [[Ω_System/CLI/rules/skills#Animal Handling|Animal Handling]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:96 — [[Ω_System/CLI/rules/skills#Arcana|Arcana]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:97 — [[Ω_System/CLI/rules/skills#Athletics|Athletics]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:98 — [[Ω_System/CLI/rules/skills#Deception|Deception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:99 — [[Ω_System/CLI/rules/skills#History|History]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:100 — [[Ω_System/CLI/rules/skills#Insight|Insight]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:101 — [[Ω_System/CLI/rules/skills#Intimidation|Intimidation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:102 — [[Ω_System/CLI/rules/skills#Investigation|Investigation]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:103 — [[Ω_System/CLI/rules/skills#Medicine|Medicine]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:104 — [[Ω_System/CLI/rules/skills#Nature|Nature]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:105 — [[Ω_System/CLI/rules/skills#Perception|Perception]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:106 — [[Ω_System/CLI/rules/skills#Performance|Performance]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:107 — [[Ω_System/CLI/rules/skills#Persuasion|Persuasion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:108 — [[Ω_System/CLI/rules/skills#Religion|Religion]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:109 — [[Ω_System/CLI/rules/skills#Sleight of Hand|Sleight of Hand]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:110 — [[Ω_System/CLI/rules/skills#Stealth|Stealth]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md:111 — [[Ω_System/CLI/rules/skills#Survival|Survival]] → matches 2: Ω_Archive/3-Mechanics 2/CLI/skills.md, Ω_System/CLI/skills.md
+
+## Orphaned Pages
+
+- 00_Dashboard/0-Obsidian TTRPG Tutorial.md
+- 00_Dashboard/Campaign_Analytics.md
+- 00_Dashboard/Campaign_State.md
+- 00_Dashboard/Master_Campaign_Control_Center.md
+- 00_Dashboard/Master_Campaign_Control_Center_v2.md
+- 00_Dashboard/Tagging_Taxonomy_Guide.md
+- 01_Campaigns/Aethermoor/Factions/Vex Shadowthorn.md
+- 01_Campaigns/Aethermoor/Locations/New Thalassopolis.md
+- 01_Campaigns/Aethermoor/NPCs/Empress Tethys the Ever-Drowning.md
+- 01_Campaigns/Aethermoor/NPCs/Lighthouse Keeper.md
+- 01_Campaigns/Aethermoor/NPCs/The Siren.md
+- 01_Campaigns/Aethermoor/Quests/Economic Warfare.md
+- 01_Campaigns/Aethermoor/Quests/Quest - The Crystal Black Market.md
+- 01_Campaigns/Aethermoor/Quests/Quest - The Drowned Prophecy.md
+- 01_Campaigns/Aethermoor/Quests/Quest - The Seventh Seal.md
+- 01_Campaigns/Aethermoor/Quests/Smuggler.md
+- 01_Campaigns/Aethermoor/Quests/The Green Death.md
+- 01_Campaigns/Aethermoor/Quests/The Tide Rises.md
+- 01_Campaigns/Aquabyssos/Aquabyssos Quick Reference Dashboard.md
+- 01_Campaigns/Aquabyssos/Aquabyssos World Navigation Guide.md
+- 01_Campaigns/Aquabyssos/Campaign Integration Matrix.md
+- 01_Campaigns/Aquabyssos/Locations/Dr. Siphon Gillwater.md
+- 01_Campaigns/Aquabyssos/Locations/Envoy Blackwater Jr..md
+- 01_Campaigns/Aquabyssos/Locations/Liminal Constantinople.md
+- 01_Campaigns/Aquabyssos/Locations/The Suicide Bridges.md
+- 01_Campaigns/Aquabyssos/Lore/" + file.name + ".md
+- 01_Campaigns/Aquabyssos/NPCs/Aboleth Prime Yoth.md
+- 01_Campaigns/Aquabyssos/NPCs/High Priestess Scylla Deepdream.md
+- 01_Campaigns/Aquabyssos/NPCs/Senator_Glaucus_Brain.md
+- 01_Campaigns/Aquabyssos/Sessions/Session 02 - The Parliament's Paradox.md
+- 01_Campaigns/Aquabyssos/Sessions/Session 05 - Descent into Darkness.md
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Board.md
+- 01_Campaigns/Aquabyssos/_Investigations/Investigation_Template.md
+- 01_Campaigns/NPCs/Nerissa_Deepcurrent.md
+- 02_Worldbuilding/Comprehensive-World-Connection-Guide.md
+- 02_Worldbuilding/Factions/Ancient Mer-Folk Empire.md
+- 02_Worldbuilding/Factions/Aquabyssos Faction Web.md
+- 02_Worldbuilding/Factions/Cult of Screams.md
+- 02_Worldbuilding/Factions/New Group.md
+- 02_Worldbuilding/Factions/Port Sorrow Trading Company.md
+- 02_Worldbuilding/Factions/The Order of the Azure Flame.md
+- 02_Worldbuilding/Lore/The Sundering.md
+- 03_Rules_Reference/Homebrew/Bestiary/Aquabyssos Creature Compendium.md
+- 03_Rules_Reference/Homebrew/Bestiary/Bestiary.md
+- 03_Rules_Reference/Homebrew/Bestiary/Custom Homebrew Monster.md
+- 03_Rules_Reference/Homebrew/Items/Items.md
+- 03_Rules_Reference/Homebrew/Items/New Item.md
+- 03_Rules_Reference/Homebrew/Where To Get Mechanics.md
+- 03_Rules_Reference/Homebrew/races/races.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014.md
+- 03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024.md
+- 04_Resources/Random_Tables/Abyssos Prime Rumor Tables.md
+- 04_Resources/Random_Tables/Aquabyssos Random Encounter Tables.md
+- 06_GM_Resources/NPC Quick Reference Guide.md
+- 06_GM_Resources/Reference Cards/Aquabyssos Quick Reference Cards.md
+- 06_GM_Resources/Scene Framing Templates.md
+- 07_Player_Resources/Handouts/Parliament of Shadows Player Guide.md
+- 07_Player_Resources/Handouts/What You Know - Abyssos Prime.md
+- 07_Player_Resources/Player_Portal.md
+- 07_Player_Resources/Session_Summaries/Session Zero Universal Guide.md
+- 09_Performance/Indexes/Campaign_Index.md
+- Clippings/The Ghost in the Therapy Room.md
+- MASTER_CAMPAIGN_DASHBOARD.md
+- _BASES_ENHANCEMENT_GUIDE.md
+- _CAMPAIGN_CONTEXT.md
+- _CAMPAIGN_DEEP_ANALYSIS.md
+- _CLEANUP_SUMMARY.md
+- _COMBAT_BALANCE_REPORT.md
+- _DEEP_WORK_PROMPT_FOR_VAULT_OPTIMIZATION.md
+- _ENHANCED_BASES_SCHEMAS.md
+- _INCONSISTENCIES_LOG.md
+- _LINK_INTEGRITY_REPORT.md
+- _LINK_TRIAGE_TOP200.md
+- _PHASE2_CLEANUP_REPORT.md
+- _PHASE3_COMPLETION_REPORT.md
+- _RELATIONSHIP_VALIDATION.md
+- _VALIDATION_REPORT.md
+- _VAULT_ARCHITECTURE_ANALYSIS.md
+- _VAULT_OVERVIEW.md
+- Ω_Assets/Decks/Business Card Dungeon/Business Card Dungeons License.md
+- Ω_Assets/Decks/Business Card Dungeon/config.md
+- Ω_Assets/Placeholder Images/MapPlaceholder.md
+- Ω_Assets/Placeholder Images/zz_asset-files.md
+
+## Cross-reference Matrix (top NPC/Location notes by inbound links)
+
+Mutual link = ✔︎, one-way = →, none = ·
+
+| | Queen Seraphina Lumengarde | The Crimson Sage | Vex Shadowthorn | High Inquisitor Maltheos | Marina-Red-Tide-Coralheart | Captain Lyanna Brightshield | Crystal Wardens | Brother Marcus Steelbane | Archdruid Thornweaver | Shadow Duchess Nyx | The Scattered Emperor | Prince Caspian Duskwater | Lord Commander Gareth Steelborn | Lord Aurelius Goldwave | Captain Thaddeus Blackwater |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Queen Seraphina Lumengarde | — | ✔︎ | ✔︎ | ✔︎ | · | ✔︎ | → | · | ✔︎ | · | · | ✔︎ | ✔︎ | · | → |
+| The Crimson Sage | ✔︎ | — | ✔︎ | ✔︎ | → | → | · | · | ✔︎ | · | · | · | → | → | ✔︎ |
+| Vex Shadowthorn | ✔︎ | ✔︎ | — | ✔︎ | ✔︎ | ✔︎ | → | → | · | · | · | ✔︎ | ✔︎ | → | · |
+| High Inquisitor Maltheos | ✔︎ | ✔︎ | ✔︎ | — | · | · | · | → | ✔︎ | · | · | ✔︎ | ✔︎ | · | · |
+| Marina-Red-Tide-Coralheart | · | → | ✔︎ | · | — | → | · | · | · | → | · | · | · | → | · |
+| Captain Lyanna Brightshield | ✔︎ | → | ✔︎ | · | → | — | → | → | · | · | · | · | ✔︎ | → | · |
+| Crystal Wardens | → | · | → | · | · | → | — | · | · | · | · | → | → | · | · |
+| Brother Marcus Steelbane | · | · | → | → | · | → | · | — | · | · | · | · | → | · | · |
+| Archdruid Thornweaver | ✔︎ | ✔︎ | · | ✔︎ | · | · | · | · | — | · | · | · | → | · | → |
+| Shadow Duchess Nyx | · | · | · | · | → | · | · | · | · | — | ✔︎ | · | · | · | · |
+| The Scattered Emperor | · | · | · | · | · | · | · | · | · | ✔︎ | — | · | · | · | · |
+| Prince Caspian Duskwater | ✔︎ | · | ✔︎ | ✔︎ | · | · | → | · | · | · | · | — | ✔︎ | · | · |
+| Lord Commander Gareth Steelborn | ✔︎ | → | ✔︎ | ✔︎ | · | ✔︎ | → | → | → | · | · | ✔︎ | — | · | → |
+| Lord Aurelius Goldwave | · | → | → | · | → | → | · | · | · | · | · | · | · | — | · |
+| Captain Thaddeus Blackwater | → | ✔︎ | · | · | · | · | · | · | → | · | · | · | → | · | — |

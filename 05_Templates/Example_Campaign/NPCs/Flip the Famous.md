@@ -1,6 +1,6 @@
 ---
 MyContainer:
-- '[[02_Worldbuilding/Regions/Island of Skulls.md|Island of Skulls]]'
+- '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
 - '[[05_Templates/World Builder Templates/Template-Place.md|Template-Place]]'
 - '[[05_Templates/World Builder Templates/Template-PointofInterest-BASES.md|Template-PointofInterest-BASES]]'
 MyCategory: null

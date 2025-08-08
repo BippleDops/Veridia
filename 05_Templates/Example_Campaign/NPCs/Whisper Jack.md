@@ -37,7 +37,7 @@ combat:
 > | | |
 > |---|---|
 > | **Occupation** | Master Thief |
-> | **Location** | [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] |
+> | **Location** | [[05_Templates/Example_Campaign/Locations/Shadowhaven]] |
 > | **Faction** | [[02_Worldbuilding/Factions/Thieves Guild.md|Thieves Guild]] |
 > | **Status** | Active |
 > ###### Appearance

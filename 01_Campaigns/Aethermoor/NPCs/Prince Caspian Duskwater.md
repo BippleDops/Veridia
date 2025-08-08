@@ -20,7 +20,7 @@ image: "Ω_Assets/NPCs/prince_caspian.jpg"
 *The Exiled Heir, The Forgotten Prince*
 
 ## Overview
-Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, exiled five years ago for attempting to expose the crystal corruption in the royal court. Now he builds an army in exile, claiming to be the rightful ruler of [[Aethermoor]]. Unknown to most, he has made a dark pact for power to reclaim his throne.
+Prince Caspian Duskwater is [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s younger brother, exiled five years ago for attempting to expose the crystal corruption in the royal court. Now he builds an army in exile, claiming to be the rightful ruler of [[01_Campaigns/Aethermoor/Locations/Aethermoor]]. Unknown to most, he has made a dark pact for power to reclaim his throne.
 
 ## Appearance
 - **Age**: 29
@@ -100,22 +100,22 @@ Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, ex
 - Various displaced nobles
 
 ### Enemies
-- [[Queen Seraphina Lumengarde]] - Sister and usurper
-- [[Lord Commander Gareth Steelborn]] - Hunts him
-- [[The Crystal Throne]] - Entire government
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Sister and usurper
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Hunts him
+- [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]] - Entire government
 - [[Crystal Wardens]] - Active pursuit
 
 ### Potential Allies
-- [[Purist Coalition]] - Share anti-crystal stance
-- [[High Inquisitor Maltheos]] - Could use as puppet
-- [[Vex Shadowthorn]] - Mutual benefit
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - Share anti-crystal stance
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Could use as puppet
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Mutual benefit
 - Foreign powers - Offer territory for support
 
 ## The Succession Plan
 
 ### Phase 1: Destabilization
 - Spread rumors of Queen's corruption
-- Fund [[Purist Coalition]] terrorism
+- Fund [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] terrorism
 - Assassinate key supporters
 - Create crisis of legitimacy
 
@@ -163,7 +163,7 @@ Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, ex
 
 ### As Antagonist
 - [[Quest - The Pretender's Crown]] - Stop his invasion
-- [[Quest - Diplomatic Immunity]] - Sabotages peace
+- [[01_Campaigns/Aethermoor/Quests/Quest - Diplomatic Immunity]] - Sabotages peace
 - [[Quest - The Void Conspiracy]] - Uncover pact
 
 ### Potential Ally
@@ -214,14 +214,14 @@ Prince Caspian Duskwater is [[Queen Seraphina Lumengarde]]'s younger brother, ex
 - His death doesn't stop void pact
 
 ## Connected NPCs
-- [[Queen Seraphina Lumengarde]] - Sister/enemy
-- [[Lord Commander Gareth Steelborn]] - Hunter
-- [[Vex Shadowthorn]] - Potential ally
-- [[High Inquisitor Maltheos]] - Could manipulate
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Sister/enemy
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Hunter
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Potential ally
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Could manipulate
 
 ## Connected Locations
-- [[Crystalhaven]] - Rightful home
-- [[The Shadowmere]] - Current base
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Rightful home
+- [[01_Campaigns/Aethermoor/Locations/The Shadowmere]] - Current base
 - Foreign kingdoms - Building alliances
 
 ## Possessions

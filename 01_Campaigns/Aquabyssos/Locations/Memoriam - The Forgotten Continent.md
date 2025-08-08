@@ -14,7 +14,7 @@ notable_features:
 faction_control: "[[The Unremembered Parliament]]"
 connected_locations:
   - "Nowhere (connections are forgotten)"
-  - "[[The Memory Meadows]]" (theoretical)
+  - "[[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]]" (theoretical)
   - "Itself (recursive forgetting)"
 environment_effects:
   - "Antimemetic Field (cannot form memories here)"

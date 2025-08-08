@@ -1,5 +1,5 @@
 ---
-MyContainer: '[[01_Campaigns/Campaign_Name/Quests/The Giants Skull.md]]'
+MyContainer: '[[05_Templates/Example_Campaign/Quests/The Giants Skull]]'
 MyCategory: null
 tags:
 - Category/Item
@@ -32,16 +32,16 @@ modified: 2025-07-23 12:39
 >> ~~~
 >>>[!tabbed-box-maxh]
 >>> >[!div-m|no-title]
->>> > ![[#Description|no-h clean]]
+>>> > !Description
 >>>
 >>> > [!div-m|no-title]
->>> > ![[#Features|no-h clean]]
+>>> > !Features
 >>>
 >>> > [!div-m|no-title]
->>> > ![[#Connections|no-h clean]]
+>>> > !Connections
 >>> 
 >>> > [!div-m|no-title]
->>> > ![[#GM Notes|no-h clean]]
+>>> > !GM Notes
 >>> 
 
 # Description

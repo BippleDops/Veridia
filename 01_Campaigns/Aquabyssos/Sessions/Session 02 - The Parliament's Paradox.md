@@ -3,13 +3,13 @@ tags: [session, aquabyssos, political, temporal, paradox]
 session_number: 2
 title: "The Parliament's Paradox"
 date_played: 
-location: "[[Parliament of Echoes]] - Debate Chambers"
+location: "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]] - Debate Chambers"
 depth: "1,800 feet"
 npcs_featured:
   - "[[Senator Glaucus's Shadow]]"
   - "[[The Forgotten Representative]]"
   - "[[Time-Lost Delegate Chronus]]"
-  - "[[Shadow Duchess Nyx's Spy]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]"
 quests_advanced:
   - "[[Shadow Conspiracy Investigation]]"
   - "[[Temporal Anomaly Resolution]]"
@@ -222,8 +222,8 @@ In Exchange:
 During the night, the party witnesses their shadows having a meeting without them, using shadow-speech the party can't understand. Marina's shadow appears independently: "The Duchess arrives tomorrow. Your shadows have already voted to replace you. You have six hours to choose: join willingly, or be harvested. Oh, and that vote you saw today? You already lost it. You just don't remember yet."
 
 ## 🔗 Connections
-- **Previous**: [[Session 01 - The Drowning Welcome]]
-- **Next**: [[Session 03 - The Gallery Conspiracy]]
+- **Previous**: [[01_Campaigns/Aquabyssos/Sessions/Session 01 - The Drowning Welcome]]
+- **Next**: [[01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy]]
 - **NPCs Met**: [[Time-Lost Delegate Chronus]], [[The Forgotten Representative]]
 - **Locations Discovered**: [[Vote Vaults]], [[Amnesia Gallery]]
 - **Mysteries Advanced**: Shadow Conspiracy, Temporal Anomalies

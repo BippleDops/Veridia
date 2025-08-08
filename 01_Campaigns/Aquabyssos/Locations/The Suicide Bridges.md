@@ -15,7 +15,7 @@ faction_control: "None (the bridges rule themselves)"
 connected_locations:
   - "[[The Mourning Depths]]"
   - "[[Tenebrarum]]"
-  - "[[The Cerulean Trench]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]"
 environment_effects:
   - "Despair Aura (DC 16 WIS save or gain exhaustion)"
   - "Structural Consciousness (the bridges know you're there)"

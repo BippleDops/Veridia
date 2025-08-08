@@ -8,8 +8,8 @@ modified: 2025-07-23 18:35
 # The Underground War
 
 ## Quest Info
-**Quest Giver**: [[01_Campaigns/Campaign_Name/NPCs/Vex Nightwhisper.md]]
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven Undercity.md]]
+**Quest Giver**: [[05_Templates/Example_Campaign/NPCs/Vex Nightwhisper]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven Undercity]]
 
 ## Quest Details
 The party is hired by Vex Nightwhisper to help the Shadowhaven Smugglers Ring in their war against the Thieves Guild.

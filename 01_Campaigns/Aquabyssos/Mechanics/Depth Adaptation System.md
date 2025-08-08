@@ -242,7 +242,7 @@ When shadow acts independently:
 - **Variable**: Cleric/Paladin (deity-dependent)
 
 ## 🔗 Related Systems
-- [[Depth Survival Mechanics]]
+- [[01_Campaigns/Aquabyssos/Mechanics/Depth Survival Mechanics]]
 - [[Shadow Separation Rules]]
 - [[Crystal Plague Progression]]
 - [[Memory Tide Navigation]]

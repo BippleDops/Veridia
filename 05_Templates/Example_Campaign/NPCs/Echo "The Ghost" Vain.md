@@ -12,12 +12,12 @@ modified: 2025-07-23 17:05
 **Gender**: Male
 **Age**: 150
 **Occupation**: Smuggling Routes for the Shadowhaven Smugglers Ring
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 Echo Vain is a quiet and stealthy elf who is responsible for planning and executing the Shadowhaven Smugglers Ring's smuggling operations. He is a master of stealth and is known for his ability to move unseen and unheard.
 
 ## GM Notes
 - He is a dangerous and unpredictable individual.
-- He is a rival of [[01_Campaigns/Campaign_Name/NPCs/Whisper Jack.md]] and the Thieves Guild.
+- He is a rival of [[05_Templates/Example_Campaign/NPCs/Whisper Jack]] and the Thieves Guild.
 - He is a good source of information about the city's secret passages and hidden routes.

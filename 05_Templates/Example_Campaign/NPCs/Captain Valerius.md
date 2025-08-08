@@ -11,12 +11,12 @@ class: "Fighter"
 level: 8
 alignment: "Lawful Neutral"
 status: "active"
-location_current: "[[../Locations/Port Verran]]"
-location_home: "[[../Locations/Port Verran]]"
+location_current: "[[05_Templates/Example_Campaign/Locations/Port Verran]]"
+location_home: "[[05_Templates/Example_Campaign/Locations/Port Verran]]"
 faction: "Port Verran City Guard"
 relationships:
   allies: []
-  enemies: ["[[../../../02_Worldbuilding/Factions/The Crimson Fleet]]"]
+  enemies: ["[[02_Worldbuilding/Factions/The Crimson Fleet]]"]
   family: []
 ability_scores:
   str: 16
@@ -40,7 +40,7 @@ combat:
 > | **Class** | Fighter |
 > | **Alignment** | Lawful Neutral |
 > | **Status** | Active |
-> | **Location** | [[../Locations/Port Verran]] |
+> | **Location** | [[05_Templates/Example_Campaign/Locations/Port Verran]] |
 > | **Faction** | Port Verran City Guard |
 
 ---

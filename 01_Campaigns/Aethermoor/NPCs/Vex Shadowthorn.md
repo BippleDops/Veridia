@@ -9,8 +9,8 @@ race: Tiefling
 class: Rogue/Warlock
 level: 12
 alignment: Neutral Evil
-location: "[[Crystalhaven]]"
-faction: "[[The Whisper Syndicate]]"
+location: "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]"
+faction: "[[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]]"
 status: Alive
 created: 2024-12-20
 image: "Ω_Assets/NPCs/vex_shadowthorn.jpg"
@@ -25,7 +25,7 @@ modifications: "Added Warlock pact magic, tiefling traits, crystal corruption ab
 *The Whisper in the Dark, Master of the Syndicate*
 
 ## Overview
-Vex Shadowthorn controls [[The Whisper Syndicate]], [[Aethermoor]]'s most powerful criminal organization. Brilliant, ruthless, and utterly amoral, they profit from the crystal trade's dark side while gathering blackmail on everyone of importance. They know far more about the true nature of the crystals than they should, including [[Queen Seraphina Lumengarde]]'s corruption.
+Vex Shadowthorn controls [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]], [[01_Campaigns/Aethermoor/Locations/Aethermoor]]'s most powerful criminal organization. Brilliant, ruthless, and utterly amoral, they profit from the crystal trade's dark side while gathering blackmail on everyone of importance. They know far more about the true nature of the crystals than they should, including [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s corruption.
 
 ## Appearance
 - **Race**: Tiefling with obsidian-black skin
@@ -40,7 +40,7 @@ Vex Shadowthorn controls [[The Whisper Syndicate]], [[Aethermoor]]'s most powerf
 - **Traits**: Calculating, charming, paranoid, ambitious
 - **Loves**: Power, secrets, causing chaos
 - **Hates**: Predictability, true believers, losing control
-- **Fears**: The truth about [[The Crimson Sage]], becoming corrupted
+- **Fears**: The truth about [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]], becoming corrupted
 - **Quirk**: Never sleeps in same place twice
 
 ## Background
@@ -76,23 +76,23 @@ Vex Shadowthorn controls [[The Whisper Syndicate]], [[Aethermoor]]'s most powerf
 ### Assets
 - [[Marcus "The Shade" Blackwood]] - Top enforcer
 - [[Jasper "Three-Eyes" Flint]] - Information broker
-- [[Marina "Red Tide" Coralheart]] - Smuggling partner
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Smuggling partner
 - Dozens of corrupted officials
 
 ### Blackmail Victims
-- [[Queen Seraphina Lumengarde]] - Knows of corruption
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Knows of corruption
 - [[Lord Aurelius Goldwave]] - Financial crimes
 - [[Brother Marcus Steelbane]] - Past indiscretions
 - Many nobles and merchants
 
 ### Enemies
-- [[Lord Commander Gareth Steelborn]] - Seeks to destroy Syndicate
-- [[High Inquisitor Maltheos]] - Ideological opposition
-- [[Captain Lyanna Brightshield]] - Active investigation
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Seeks to destroy Syndicate
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Ideological opposition
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Active investigation
 
 ### Complicated
-- [[The Crimson Sage]] - Knows they're more than they seem
-- [[Prince Caspian Duskwater]] - Potential alliance
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Knows they're more than they seem
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Potential alliance
 - [[Admiral Cassandra Stormwind]] - Mutual respect
 
 ## Secrets
@@ -106,7 +106,7 @@ Vex Shadowthorn controls [[The Whisper Syndicate]], [[Aethermoor]]'s most powerf
 
 ## Current Operations
 - Distributing corrupted crystals to create addicts
-- Blackmailing [[Queen Seraphina Lumengarde]]
+- Blackmailing [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
 - Searching for the Seventh Shard
 - Building private army of corrupted individuals
 - Infiltrating [[Crystal Wardens]]
@@ -143,7 +143,7 @@ Vex Shadowthorn controls [[The Whisper Syndicate]], [[Aethermoor]]'s most powerf
 ## Syndicate Operations
 
 ### Legal Fronts
-- **The Gilded Serpent**: Casino in [[Port Meridian]]
+- **The Gilded Serpent**: Casino in [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
 - **Shadowthorn Trading Company**: Import/export
 - **The Velvet Room**: High-end brothel
 
@@ -177,26 +177,26 @@ Vex Shadowthorn controls [[The Whisper Syndicate]], [[Aethermoor]]'s most powerf
 
 ## DM Notes
 - Major antagonist but could become ally
-- Knows more about crystals than anyone except [[The Crimson Sage]]
+- Knows more about crystals than anyone except [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]
 - Their downfall or redemption could be major plot point
 - Has contingency plans for their own death
 - More complex than pure evil—traumatized orphan at core
 
 ## Connected NPCs
-- [[Queen Seraphina Lumengarde]] - Blackmail victim
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Blackmail victim
 - [[Marcus "The Shade" Blackwood]] - Enforcer
-- [[The Crimson Sage]] - Fears and respects
-- [[Marina "Red Tide" Coralheart]] - Business partner
-- [[Prince Caspian Duskwater]] - Potential ally
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Fears and respects
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Business partner
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Potential ally
 
 ## Connected Locations
-- [[Crystalhaven]] - Base of operations
-- [[Port Meridian]] - Smuggling hub
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Base of operations
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Smuggling hub
 - [[The Shadow Warren]] - Syndicate territory
 - [[The Corroded Crown]] - Meeting place
 
 ## Involved Quests
-- [[Quest - The Plague of Crystals]] - Profiting from chaos
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - Profiting from chaos
 - [[Quest - Syndicate Shadows]] - Main antagonist
 - [[Quest - The Blackmail Papers]] - Central figure
-- [[Quest - The Seventh Shard]] - Competing for it
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]] - Competing for it

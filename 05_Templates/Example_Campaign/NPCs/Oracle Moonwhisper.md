@@ -12,7 +12,7 @@ modified: 2025-07-23 14:00
 **Gender**: Female
 **Age**: 300
 **Occupation**: Oracle
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]]
 
 ## Description
 Oracle Moonwhisper is a mysterious and enigmatic figure who is said to be able to see the future. She lives in a secluded grove on the outskirts of Shadowhaven and is only sought out by those in desperate need of her guidance.

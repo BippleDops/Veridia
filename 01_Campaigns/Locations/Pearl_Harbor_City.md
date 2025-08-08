@@ -10,7 +10,7 @@ population: 450000
 map_image: "Ω_Assets/locations/pearl-harbor-city.webp"
 depth: "100-500 feet"
 connected_locations:
-  - "[[Market District]]"
+  - "[[01_Campaigns/Locations/Market_District]]"
   - "[[Azure Citadel]]"
   - "[[Surface Portal Alpha]]"
   - "[[The Kelp Highway]]"
@@ -50,7 +50,7 @@ Pearl Harbor City stands as Aquathys's primary connection to the surface world, 
 A marvel of magical engineering, this area contains massive pressure-adjustment chambers that allow surface dwellers to safely descend and deep dwellers to ascend. Each lock takes 4 hours to fully cycle.
 - **Lock Master:** [[Engineer Prisma Depthwright]]
 - **Security Chief:** [[Captain Trawl Netcaster]]
-- Notable: Black market pressure suits sold by [[The Crimson Pearl]]
+- Notable: Black market pressure suits sold by [[01_Campaigns/NPCs/The_Crimson_Pearl]]
 
 #### **The Float Quarter**
 Suspended platforms connected by bridges where air-breathing merchants can trade without full submersion. Magical air bubbles maintain breathable atmosphere.
@@ -60,7 +60,7 @@ Suspended platforms connected by bridges where air-breathing merchants can trade
 
 #### **Smuggler's Reef**
 Officially doesn't exist. Unofficially, everyone knows where to find anything illegal or hard to acquire. The [[Coral Throne Syndicate]] runs everything here.
-- **Shadow Boss:** [[Whisper Jack]]
+- **Shadow Boss:** [[05_Templates/Example_Campaign/NPCs/Whisper Jack]]
 - **Fence:** [[The Barnacle]]
 - Password: "The tide always turns"
 
@@ -86,7 +86,7 @@ A group of raiders has been attacking ships in the transition zone between surfa
 Rumors that surface diseases are spreading through the locks. [[Dr. Siphon Gillwater]] seeks adventurers to investigate.
 
 ### The Missing Shipment
-A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arrived. Both [[Gareth Ironforge]] and [[Master Smith Coral-Hammer]] are desperate to find it.
+A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arrived. Both [[01_Campaigns/NPCs/Gareth_Ironforge]] and [[Master Smith Coral-Hammer]] are desperate to find it.
 
 ### Political Tensions
 [[High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
@@ -94,14 +94,14 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 ## Notable NPCs
 
 ### Permanent Residents
-- [[The Crimson Pearl]] - Syndicate leader
+- [[01_Campaigns/NPCs/The_Crimson_Pearl]] - Syndicate leader
 - [[Captain Marlowe Tidecrest]] - Runs portal transits
 - [[Taverner Bubbles McGill]] - Information broker
 - [[Master Smith Coral-Hammer]] - Pressure-forge specialist
 - [[Illyana Glowstream]] - Bioluminescent enchantments
 
 ### Frequent Visitors
-- [[Gareth Ironforge]] - Monthly metal trades
+- [[01_Campaigns/NPCs/Gareth_Ironforge]] - Monthly metal trades
 - [[Elena Starweaver]] - Seeks underwater spell components
 - [[Commander Varek Irontrident]] - Security inspections
 
@@ -110,10 +110,10 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 ### Transportation
 | Service | Provider | Cost | Destination |
 |---------|----------|------|-------------|
-| Surface Portal | [[Captain Marlowe Tidecrest]] | 50gp | [[Market District]] |
+| Surface Portal | [[Captain Marlowe Tidecrest]] | 50gp | [[01_Campaigns/Locations/Market_District]] |
 | Deep Current | [[Navigator Flux]] | 100gp | [[Azure Citadel]] |
 | Kelp Highway | [[Current Riders Guild]] | 25gp | Various depths |
-| Smuggler's Run | [[Whisper Jack]] | 200gp | Anywhere, no questions |
+| Smuggler's Run | [[05_Templates/Example_Campaign/NPCs/Whisper Jack]] | 200gp | Anywhere, no questions |
 
 ### Specialty Shops
 | Shop | Specialty | Owner | Notable Items |
@@ -139,11 +139,11 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 14-15: [[Street Urchin Gang]] offers information
 16-17: [[Pressure Suit Malfunction]] - someone needs help!
 18-19: [[Black Market Deal]] going wrong
-20: [[The Crimson Pearl]] personally appears
+20: [[01_Campaigns/NPCs/The_Crimson_Pearl]] personally appears
 
 ## Secrets
 
-- The Syndicate has a secret tunnel to [[Market District]]
+- The Syndicate has a secret tunnel to [[01_Campaigns/Locations/Market_District]]
 - [[The Barnacle]] is actually three gnomes in a diving suit
 - The city was built on a sleeping titan
 - Portal Alpha can reach other planes, not just the surface
@@ -166,7 +166,7 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 - Pressure (literal and figurative)
 
 ### Connections
-- Links to surface campaign through [[Market District]]
+- Links to surface campaign through [[01_Campaigns/Locations/Market_District]]
 - Gateway to deeper Aquathys adventures
 - Syndicate connections span both worlds
 - Diplomatic intrigue affects all levels

@@ -147,8 +147,8 @@ alignment: neutral
 #### The Harbor District
 **Description:** 
 **Notable Locations:**
-- [[The Salty Anchor Tavern]]
-- [[Harbormaster's Office]]
+- [[05_Templates/Example_Campaign/Locations/The Salty Anchor Tavern]]
+- [[05_Templates/Example_Campaign/Locations/Harbor Master's Office]]
 **Atmosphere:** Busy, salty, dangerous at night
 **Safety:** ⭐⭐⭐☆☆
 

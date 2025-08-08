@@ -9,8 +9,8 @@ race: Gnome
 class: Artificer
 level: 10
 alignment: Neutral Good
-location: "[[Crystalhaven]]"
-faction: "[[The Crystal Throne]]"
+location: "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]"
+faction: "[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]"
 status: Alive
 created: 2024-12-20
 image: "Ω_Assets/NPCs/korvin_gearwright.jpg"
@@ -20,7 +20,7 @@ image: "Ω_Assets/NPCs/korvin_gearwright.jpg"
 *The Crystal Innovator, Father of Modern Aethertech*
 
 ## Overview
-Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
+Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[01_Campaigns/Aethermoor/Locations/Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
 
 ## Appearance
 - **Race**: Rock Gnome
@@ -34,7 +34,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Personality
 - **Traits**: Brilliant, enthusiastic, absent-minded, optimistic
 - **Loves**: Innovation, solving problems, teaching
-- **Dislikes**: Luddites, safety regulations, the [[Purist Coalition]]
+- **Dislikes**: Luddites, safety regulations, the [[01_Campaigns/Aethermoor/Factions/Purist Coalition]]
 - **Quirks**: Talks to his inventions, forgets to eat when working
 - **Flaw**: Doesn't consider long-term consequences
 
@@ -62,7 +62,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 
 ### Current Projects
 > [!warning] DM Only
-> - Device to hide [[Queen Seraphina Lumengarde]]'s corruption
+> - Device to hide [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s corruption
 > - Weapon to destroy Shards (secretly for Queen)
 > - Crystal consciousness transfer device
 > - Portal to crystal dimension
@@ -71,7 +71,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## The Crystalline Foundry
 
 ### Facilities
-- Main workshop in [[Crystalhaven]]
+- Main workshop in [[01_Campaigns/Aethermoor/Locations/Crystalhaven]]
 - Testing range (heavily warded)
 - Student laboratories
 - Crystal storage vault
@@ -93,19 +93,19 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Relationships
 
 ### Professional
-- [[Queen Seraphina Lumengarde]] - Patron and secret patient
-- [[Lord Commander Gareth Steelborn]] - Supplies military
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Patron and secret patient
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Supplies military
 - [[Professor Aldric Crystalweaver]] - Friendly rival
 - [[Sage Lyralei Starweaver]] - Theoretical advisor
 
 ### Opposition
-- [[High Inquisitor Maltheos]] - Wants him dead
-- [[Archdruid Thornweaver]] - Represents everything she opposes
-- [[Purist Coalition]] - Regular death threats
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Wants him dead
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Represents everything she opposes
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] - Regular death threats
 
 ### Complicated
-- [[The Crimson Sage]] - Provides cryptic advice
-- [[Vex Shadowthorn]] - Has been approached for illegal work
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Provides cryptic advice
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Has been approached for illegal work
 - Insurance companies - No longer cover him
 
 ## Workshop Inventory
@@ -208,15 +208,15 @@ Not a fighter, but if cornered:
 - His death would set back progress decades
 
 ## Connected NPCs
-- [[Queen Seraphina Lumengarde]] - Secret patron
-- [[Lord Commander Gareth Steelborn]] - Military client
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Secret patron
+- [[01_Campaigns/Aethermoor/NPCs/Lord Commander Gareth Steelborn]] - Military client
 - [[Professor Aldric Crystalweaver]] - Academic rival
-- [[High Inquisitor Maltheos]] - Wants him dead
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Wants him dead
 
 ## Connected Locations
-- [[Crystalhaven]] - Workshop location
+- [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Workshop location
 - [[The Crystalline Foundry]] - His facility
-- [[Port Meridian]] - Ships inventions
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - Ships inventions
 
 ## Key Inventions for Party
 - Custom crystal weapons

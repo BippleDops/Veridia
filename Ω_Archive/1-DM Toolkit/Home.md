@@ -10,10 +10,10 @@ modified: 2025-07-23 12:39
 > **[[Island of Screams]]**
 > ![[The Island of Screams.jpg\|sban htiny ctr]]
 > 
-> **[[Journey Board.md]]**
-> [![[JourneyBoard.png\|sban htiny ctr]]](Journey%20Board)
+> **[[Ω_Archive/1-DM Toolkit/Journey Board]]**
+> [![[Ω_Archive/1-DM Toolkit/Journey Board|sban htiny ctr]]](Journey%20Board)
 >
-> **[[City of Trade.md]]**
+> **[[Ω_Archive/1-DM Toolkit/City of Trade]]**
 > ![[AdventureIcon.png\|sban htiny ctr]]
 > 
 > **[[01_Campaigns/Campaign_Name/Player_Characters/Example Party 1]]**
@@ -32,16 +32,16 @@ modified: 2025-07-23 12:39
 > ~~~
 > >[!tabbed-box]
 > > >[!div-m|no-title]
-> > > ![[Home Embeds.md#Party|no-h1 clean]]
+> > > ![[Ω_Archive/1-DM Toolkit/Home Embeds|no-h1 clean]]
 > >
 > > >[!div-m|no-title]
-> > > ![[Home Embeds.md#Session Journals|no-h clean]]
+> > > ![[Ω_Archive/1-DM Toolkit/Home Embeds|no-h clean]]
 > >
 > > >[!div-m|no-title]
-> > > ![[Home Embeds.md#Create New|no-h1 clean]]
+> > > ![[Ω_Archive/1-DM Toolkit/Home Embeds|no-h1 clean]]
 > >
 > > > [!div-m|no-title]
-> > > ![[Home Embeds.md#Recently Modified|no-h1 clean]]
+> > > ![[Ω_Archive/1-DM Toolkit/Home Embeds|no-h1 clean]]
 > > 
 > > > [!div-m|no-title]
-> > > ![[Home Embeds.md#Vault Graph|no-h clean]]
+> > > ![[Ω_Archive/1-DM Toolkit/Home Embeds|no-h clean]]

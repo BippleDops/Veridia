@@ -87,4 +87,4 @@ modified: 2025-07-23 12:39
 - [Power Word Kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md "XPHB")
 - [Psychic Scream](/3-Mechanics/CLI/spells/psychic-scream-xge.md "XGE")
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

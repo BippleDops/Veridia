@@ -14,10 +14,10 @@ locations_visited:
   - "[[Silverscale Emergency Bunker]]"
   - "[[Abandoned Consortium Warehouse]]"
 npcs_met:
-  - "[[Vex Shadowthorn]]"
-  - "[[Marina Red Tide Coralheart]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]"
   - "[[Director Hadrian Silverscale]]"
-  - "[[Crimson Sage]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]"
 encounters:
   - "[[Crimson Hand Strike Team]]"
   - "[[Vex Shadowthorn Boss Fight]]"

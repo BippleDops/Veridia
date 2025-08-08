@@ -8,7 +8,7 @@ modified: 2025-07-23 17:25
 # The Sunken Treasure Inn
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/Shadowhaven.md]] Docks
+**Location**: [[05_Templates/Example_Campaign/Locations/Shadowhaven]] Docks
 
 ## Description
 The Sunken Treasure is a cheap and dirty inn that is popular with sailors and other lowlifes. It is a good place to find a cheap room and a stiff drink, but it is also a dangerous place for those who are not careful.

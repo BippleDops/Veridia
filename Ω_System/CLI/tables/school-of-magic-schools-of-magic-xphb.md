@@ -26,4 +26,4 @@ modified: 2025-07-23 12:39
 | Transmutation | Transforms creatures or objects |
 ^schools-of-magic
 
-[[Ω_Archive/1-DM Toolkit/DnD5e-SideScreen-2024]]
+[[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

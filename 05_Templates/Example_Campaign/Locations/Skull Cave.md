@@ -1,7 +1,7 @@
 ---
 tags:
 - Category/PointofInterest
-MyContainer: '[[02_Worldbuilding/Regions/Island of Skulls.md|Island of Skulls]]'
+MyContainer: '[[05_Templates/Example_Campaign/Locations/Island of Skulls|Island of Skulls]]'
 MyCategory: Encounter
 obsidianUIMode: preview
 type: location

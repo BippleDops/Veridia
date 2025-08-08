@@ -10,7 +10,7 @@ depth: "8000-12000 feet"
 # The Primordial Vaults - The First Prison
 
 ## Overview
-Deep beneath [[Aquabyssos World Overview|Aquabyssos]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
+Deep beneath [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
 
 ## Vault Sections
 
@@ -109,10 +109,10 @@ Black water that doesn't reflect anything - falling in erases you from history.
 > - The vaults are slowly rising toward the surface
 
 ## Connections to Other Areas
-- Secret tunnel from [[The Sunken Cathedral of Stars]] crypts
-- Overlaps with deepest parts of [[The Cerulean Trench]]
+- Secret tunnel from [[01_Campaigns/Aquabyssos/Locations/The Sunken Cathedral of Stars]] crypts
+- Overlaps with deepest parts of [[01_Campaigns/Aquabyssos/Locations/The Cerulean Trench]]
 - The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[New Tethys]] Conservatory of Memory
+- Memory streams connect to [[01_Campaigns/Aquabyssos/Locations/New Tethys]] Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
 1. No one may speak their true name within

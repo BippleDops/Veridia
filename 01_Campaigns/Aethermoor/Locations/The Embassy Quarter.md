@@ -6,22 +6,22 @@ tags:
   - political
   - urban
 type: Location
-region: "[[Crystalhaven]] - Noble District"
+region: "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]] - Noble District"
 danger_level: Low (High Political Danger)
 notable_npcs:
-  - "[[Ambassador Nerida Deepcurrent]]"
-  - "[[Queen Seraphina Lumengarde]]"
-  - "[[Prince Caspian Duskwater]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]"
 connected_locations:
-  - "[[Crystalhaven]]"
-  - "[[The Crystal Throne]]"
+  - "[[01_Campaigns/Aethermoor/Locations/Crystalhaven]]"
+  - "[[01_Campaigns/Aethermoor/Factions/The Crystal Throne]]"
   - International Trade Routes
 ---
 
 # The Embassy Quarter
 
 ## Overview
-A walled district within [[Crystalhaven]]'s Noble Quarter where foreign powers maintain their diplomatic presence. Built after the Shattering to manage the influx of refugees and establish new trade relations, it has become a hotbed of international intrigue where wars are fought with words and gold rather than swords.
+A walled district within [[01_Campaigns/Aethermoor/Locations/Crystalhaven]]'s Noble Quarter where foreign powers maintain their diplomatic presence. Built after the Shattering to manage the influx of refugees and establish new trade relations, it has become a hotbed of international intrigue where wars are fought with words and gold rather than swords.
 
 ## Architecture & Layout
 The Quarter follows a spoke-and-wheel design with the Neutral Grounds at its center:
@@ -35,15 +35,15 @@ The Quarter follows a spoke-and-wheel design with the Neutral Grounds at its cen
 ### Embassy Row (Northern Spoke)
 #### The Cerulean Depths (Aquabyssos Embassy)
 - Partially flooded architecture with breathing pools
-- [[Ambassador Nerida Deepcurrent]]'s residence
-- Hidden portal to [[The Sunken Markets]]
+- [[01_Campaigns/Aethermoor/NPCs/Ambassador Nerida Deepcurrent]]'s residence
+- Hidden portal to [[01_Campaigns/Aethermoor/Locations/The Sunken Markets]]
 - Basement connects to flooded tunnel system
 
 #### The Iron Halls (Dwarven Confederation)
 - Fortress-like structure of imported mountain stone
 - Ambassador Thorin Goldbeard (cousin to Ironhold's king)
 - Secret vault containing pre-Shattering dwarven artifacts
-- Underground connection to [[The Sundered Peaks]]
+- Underground connection to [[01_Campaigns/Aethermoor/Locations/The Sundered Peaks]]
 
 #### The Windspire (Skyholm Republic)
 - Floating tower anchored by chains
@@ -56,23 +56,23 @@ The Quarter follows a spoke-and-wheel design with the Neutral Grounds at its cen
 - Desert architecture with cooling enchantments
 - Ambassador Rashid the Golden-Tongued
 - Hidden slave trade connections
-- Secret alliance with [[High Inquisitor Maltheos]]
+- Secret alliance with [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]
 
 #### The Verdant Embassy (Sylvan Conclave)
 - Living tree structure that grows and changes
 - Ambassador Willowmist Moonwhisper
-- Connection to [[Archdruid Thornweaver]]
+- Connection to [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]
 - Contains last seed vault of pre-corruption forest
 
 #### The Shadow House (Neutral Embassy)
 - Represents stateless peoples and refugees
 - Run by the mysterious "Grey Ambassador"
 - Safe house for political dissidents
-- Connected to [[Vex Shadowthorn]]'s network
+- Connected to [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]'s network
 
 ### Trade Quarter (Eastern Spoke)
 - Merchant Prince offices
-- [[Castellan Ironledger III]]'s secondary residence
+- [[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]'s secondary residence
 - International Banking Guild
 - Auction houses for exotic goods
 
@@ -80,7 +80,7 @@ The Quarter follows a spoke-and-wheel design with the Neutral Grounds at its cen
 - Foreign military attaché offices
 - International Crystal Warden liaison
 - Mercenary guild headquarters
-- [[Marcus "Shardbreaker" Grimm]]'s contact point
+- [[01_Campaigns/Aethermoor/NPCs/Marcus Shardbreaker Grimm]]'s contact point
 
 ## Security & Laws
 
@@ -130,7 +130,7 @@ The Quarter follows a spoke-and-wheel design with the Neutral Grounds at its cen
 - Opens after sunset in the Trade Quarter
 - Goods technically illegal in Crystalhaven
 - Operated by various embassy "cultural attachés"
-- [[Vex Shadowthorn]] has significant influence
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] has significant influence
 
 ## Secrets
 > [!warning] DM Only
@@ -140,8 +140,8 @@ The Quarter follows a spoke-and-wheel design with the Neutral Grounds at its cen
 > - The Skyholm Embassy is planning to evacuate key individuals before a catastrophe
 > - The Iron Halls contain a fragment of the original Crown of Stars
 > - Multiple ambassadors are being influenced by Shard corruption
-> - The Embassy Guard Captain is being blackmailed by [[Castellan Ironledger III]]
-> - A secret council of ambassadors is planning a coup against [[Queen Seraphina Lumengarde]]
+> - The Embassy Guard Captain is being blackmailed by [[01_Campaigns/Aethermoor/NPCs/Castellan Ironledger III]]
+> - A secret council of ambassadors is planning a coup against [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
 
 ## Notable Events
 

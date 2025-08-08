@@ -13,10 +13,10 @@ locations_visited:
   - "[[The Convergence Point]]"
   - "[[Tidal Chambers]]"
 npcs_met:
-  - "[[Shadow Duchess Nyx]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]"
   - "[[Shadow Nyx]]"
   - "[[The Real Marina]]"
-  - "[[The Scattered Emperor]] (United)"
+  - "[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] (United)"
 encounters:
   - "[[Shadow Surgeons Collective]]"
   - "[[Hybrid Abominations]]"
@@ -65,9 +65,9 @@ High tide triggers the Shadow Harvest as hundreds of shadows converge on the Ref
 - [[The Shadow Duchess Duel]] - Nyx vs Shadow Nyx
 
 ### Critical NPCs
-- [[Shadow Duchess Nyx]] - Original, fighting her shadow
+- [[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]] - Original, fighting her shadow
 - [[Shadow Nyx]] - The evolution, leading harvest
-- [[The Scattered Emperor]] - Considering reunification
+- [[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]] - Considering reunification
 - [[The Real Marina]] - Exhausted from shadow battle
 
 ## Session Timeline
@@ -386,7 +386,7 @@ EXPLOSION. The [[Pressure Tube Terminal]] detonates, trapping everyone in Abysso
 - [[The Deep Harvest]]
 
 ## Campaign Continuity
-- [[Session 03 - The Gallery Conspiracy]] → **Current Session** → [[Session 05 - The Shadow War]]
+- [[01_Campaigns/Aquabyssos/Sessions/Session 03 - The Gallery Conspiracy]] → **Current Session** → [[Session 05 - The Shadow War]]
 
 ---
 

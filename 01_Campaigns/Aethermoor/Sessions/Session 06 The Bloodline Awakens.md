@@ -4,12 +4,12 @@ title: "The Bloodline Awakens"
 date_played: 
 location: "[[Lighthouse Ruins]] to [[Hidden Sanctuary]]"
 npcs_featured: 
-  - "[[The Crimson Sage]]"
-  - "[[Marina Red Tide Coralheart]]"
-  - "[[High Inquisitor Maltheos]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]"
   - "[[Jasper Three-Eyes Flint]]"
 quests_advanced:
-  - "[[Quest - The Seventh Shard]]"
+  - "[[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]]"
   - "[[Uniting the Factions]]"
   - "[[Rewriting the Ritual]]"
 level: 4
@@ -23,7 +23,7 @@ tags: [session, aethermoor, bloodline, revelation]
 
 ## 🎬 Strong Start
 
-One party member begins to crystallize, but unlike plague victims, the crystals form protective patterns. Ancient memories flood their mind - they see [[Aquabyssos]] in its glory, and their ancestor helping to create the Seven Shards prison. [[The Crimson Sage]] arrives: "We have 24 hours. Your awakening has accelerated everything."
+One party member begins to crystallize, but unlike plague victims, the crystals form protective patterns. Ancient memories flood their mind - they see [[Aquabyssos]] in its glory, and their ancestor helping to create the Seven Shards prison. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] arrives: "We have 24 hours. Your awakening has accelerated everything."
 
 ## 📍 Scenes
 
@@ -36,7 +36,7 @@ One party member begins to crystallize, but unlike plague victims, the crystals 
 ### Scene 2: The Faction Summit
 - **Location**: Neutral ground at the Merchant Guildhall
 - **Situation**: Desperate alliance negotiations
-- **Conflict**: [[High Inquisitor Maltheos]] attempts coup
+- **Conflict**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] attempts coup
 - **Discovery**: Each faction leader has been hiding a shard
 
 ### Scene 3: The Memory Dive
@@ -56,12 +56,12 @@ One party member begins to crystallize, but unlike plague victims, the crystals 
 1. The Seventh Shard isn't an object - it's a living bloodline
 2. The Drowned God was actually Aquabyssos's magical defense system
 3. The plague transformation would make humans compatible with Aquabyssos
-4. [[The Crimson Sage]] has been weakening the prison to prevent catastrophic release
-5. [[Marina Red Tide Coralheart]]'s organization has been protecting bloodline descendants
-6. [[High Inquisitor Maltheos]]'s son is another bloodline carrier
+4. [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] has been weakening the prison to prevent catastrophic release
+5. [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]'s organization has been protecting bloodline descendants
+6. [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]'s son is another bloodline carrier
 7. The festival ground was chosen because it's directly above Aquabyssos
 8. The original ritual can be inverted to seal the city permanently
-9. [[Vex Shadowthorn]] is still alive and has the sixth shard
+9. [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] is still alive and has the sixth shard
 10. The Queen retains enough control to help if approached correctly
 
 ## 👥 NPCs
@@ -123,11 +123,11 @@ One party member begins to crystallize, but unlike plague victims, the crystals 
 With five shards gathered, the party races toward the festival. They arrive to find thousands of citizens already gathered, swaying in unison. The crystallized Queen stands at the center of a massive runic circle, the sixth shard floating above her. As the sun sets, she speaks in harmony with the crowd: "The Seventh comes. The circle closes. Aquabyssos rises." The bloodline carrier feels an irresistible pull toward the circle as their crystalline patterns begin spreading uncontrollably.
 
 ## 🔗 Connected Notes
-- [[Quest - The Seventh Shard]]
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Seventh Shard]]
 - [[The Crystal Festival]]
-- [[Aquabyssos World Overview]]
-- [[Marina Red Tide Coralheart]]
-- [[High Inquisitor Maltheos]]
+- [[01_Campaigns/Aethermoor/Lore/Aquabyssos World Overview]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]
 
 ## 📝 DM Notes
 ```

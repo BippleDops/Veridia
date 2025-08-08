@@ -8,7 +8,7 @@ modified: 2025-07-23 16:05
 # Bloodwater Shoals
 
 ## General Info
-**Location**: [[01_Campaigns/Campaign_Name/Locations/The Contested Waters.md]]
+**Location**: [[05_Templates/Example_Campaign/Locations/The Contested Waters]]
 
 ## Description
 Bloodwater Shoals is a dangerous reef system that is known for its treacherous currents and its population of bloodthirsty sharks.

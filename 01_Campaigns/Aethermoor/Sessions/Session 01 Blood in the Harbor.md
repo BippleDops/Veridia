@@ -14,8 +14,8 @@ locations_visited:
   - "[[Harbor District Customs House]]"
   - "[[Lamplight Alley]]"
 npcs_met:
-  - "[[Captain Lyanna Brightshield]]"
-  - "[[Marina Red Tide Coralheart]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]"
+  - "[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]"
   - "[[Dock Worker Tomás]]"
   - "[[Brother Marcus Steelbane]]"
 encounters:
@@ -60,8 +60,8 @@ The party witnesses a crystallized corpse being pulled from Port Meridian's harb
 - [[Purist Coalition Thugs]] (optional)
 
 ### NPCs to Include
-- [[Captain Lyanna Brightshield]] - Quest giver, lawful good authority
-- [[Marina Red Tide Coralheart]] - Information broker with hidden depths
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Quest giver, lawful good authority
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Information broker with hidden depths
 - [[Brother Marcus Steelbane]] - Healer desperately seeking cure
 
 ## Session Timeline
@@ -78,7 +78,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 1: The Shattered Sailor Investigation
 **Location:** [[Pier 7]]
-**NPCs:** [[Captain Lyanna Brightshield]], [[Dock Worker Tomás]]
+**NPCs:** [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]], [[Dock Worker Tomás]]
 **Outcome:** 
 - Party learns corpse wore Meridian Navy uniform
 - Sailor identified as missing for 3 weeks
@@ -87,7 +87,7 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 
 #### Event 2: Information Gathering at the Siren's Rest
 **Location:** [[The Siren's Rest Tavern]]
-**NPCs:** [[Marina Red Tide Coralheart]], various smugglers
+**NPCs:** [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]], various smugglers
 **Outcome:**
 - Marina trades information for favors
 - Bar brawl between Silverscale traders and fishermen
@@ -127,8 +127,8 @@ Investigation reveals all clues point to the abandoned [[Lighthouse of Storms]] 
 ### Social
 | NPC | Location | Purpose | Outcome |
 |-----|----------|---------|---------|
-| [[Captain Lyanna Brightshield]] | [[Pier 7]] | Quest giver | Investigate plague |
-| [[Marina Red Tide Coralheart]] | [[The Siren's Rest Tavern]] | Information | Map and connections |
+| [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] | [[Pier 7]] | Quest giver | Investigate plague |
+| [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] | [[The Siren's Rest Tavern]] | Information | Map and connections |
 | [[Brother Marcus Steelbane]] | [[Customs House]] | Medical aid | Plague insights |
 
 ## Quest Progress
@@ -147,8 +147,8 @@ None this session
 | Item | Found Where | Given To | Value |
 |------|-------------|----------|-------|
 | Vial of purple liquid | Cult initiates | Party | Magical reagent |
-| Map fragment | [[Marina Red Tide Coralheart]] | Party | Shows shipping routes |
-| Letter of introduction | [[Marina Red Tide Coralheart]] | Party | Social tool |
+| Map fragment | [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] | Party | Shows shipping routes |
+| Letter of introduction | [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] | Party | Social tool |
 | 2 potions of lesser restoration | [[Brother Marcus Steelbane]] | Party | 100gp each |
 
 ### Gold
@@ -171,8 +171,8 @@ Per Player: 150-188 (depending on party size)
 - Building relationship with key NPCs
 
 ### Relationship Changes
-- [[Captain Lyanna Brightshield]] - Disposition +1 if helped with investigation
-- [[Marina Red Tide Coralheart]] - Disposition +2 if impressed, -1 if aggressive
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Disposition +1 if helped with investigation
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]] - Disposition +2 if impressed, -1 if aggressive
 - [[Brother Marcus Steelbane]] - Disposition +1 if showed compassion
 
 ## World Changes
@@ -194,7 +194,7 @@ Track each character's exposure level (0-6 scale)
 1. Journey to [[Whisper Island]] to investigate lighthouse
 2. Violet light pillar suggests major ritual or summoning
 3. Synchronized screaming implies psychic connection
-4. [[Captain Blackwater]]'s ship might be at the island
+4. [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]]'s ship might be at the island
 
 ## GM Reflections
 ### What Worked
@@ -217,11 +217,11 @@ Track each character's exposure level (0-6 scale)
 
 ## Prep for Next Session
 - [ ] Create [[Whisper Island]] location details
-- [ ] Stat [[Captain Blackwater]]'s ghost/remains
+- [ ] Stat [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]]'s ghost/remains
 - [ ] Prepare [[The Seahawk]] ship exploration
 - [ ] Design lighthouse puzzle/challenges
 - [ ] Create [[Jasper Three-Eyes Flint]] NPC
-- [ ] Plan [[The Crimson Sage]] appearance
+- [ ] Plan [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] appearance
 
 ## Crystal Plague Mechanics
 ### Exposure Levels

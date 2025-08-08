@@ -15,12 +15,12 @@ cssclasses: [wide-page, index-page]
 ## 🎯 Quick Jump Navigation
 
 ### Core Sections
-- [[#Active Quests|📜 Active Quests]]
-- [[#Important NPCs|👥 Important NPCs]]
-- [[#Key Locations|🗺️ Key Locations]]
-- [[#Recent Sessions|📅 Recent Sessions]]
-- [[#Player Resources|🎭 Player Resources]]
-- [[#Rules Quick Reference|📖 Rules Reference]]
+- Active Quests
+- Important NPCs
+- Key Locations
+- Recent Sessions
+- Player Resources
+- Rules Quick Reference
 
 ---
 
@@ -38,9 +38,9 @@ SORT quest_priority DESC, quest_progress DESC
 ```
 
 ### Quest Quick Links
-- 🔴 **High Priority**: [[The Vanishing Merchant Vessels]]
-- 🟡 **Medium Priority**: [[The Arcane Disturbances]]
-- 🟢 **Low Priority**: [[Shadows in High Places]]
+- 🔴 **High Priority**: [[05_Templates/Example_Campaign/Quests/The Vanishing Merchant Vessels]]
+- 🟡 **Medium Priority**: [[05_Templates/Example_Campaign/Quests/The Arcane Disturbances]]
+- 🟢 **Low Priority**: [[05_Templates/Example_Campaign/Quests/Shadows in High Places]]
 
 ---
 
@@ -90,11 +90,11 @@ WHERE contains(faction, "Crimson Fleet")
 </details>
 
 ### Quick NPC Finder
-- **A-E**: [[Admiral Cassius Stormhaven]] | [[Archmage Celestine Starweaver]] | [[Brother Matthias]] | [[Captain Blackwater]] | [[Councillor Elara Brightwater]]
-- **F-J**: [[Flip the Famous]] | [[Frank the Tank]] | [[Gruff "Stone" Ironbelly]] | [[Harbormaster Willem Tidecaller]] | [[High Priestess Seraphina Lightbringer]]
-- **K-O**: [[Lady Seraphina Goldleaf]] | [[Lyra Swiftwind]] | [[Marina Saltwhisper]] | [[Old Salt Pete]] | [[Oracle Moonwhisper]]
-- **P-T**: [[Pirate King Razor Blackheart]] | [[Raven "Nighteyes" Thorne]] | [[Silken Sarai]] | [[The Benefactor]] | [[The Shadowbroker]]
-- **U-Z**: [[Vex Nightwhisper]] | [[Whisper "Coin" Mordaine]] | [[Whisper Jack]]
+- **A-E**: [[05_Templates/Example_Campaign/NPCs/Admiral Cassius Stormhaven]] | [[05_Templates/Example_Campaign/NPCs/Archmage Celestine Starweaver]] | [[05_Templates/Example_Campaign/NPCs/Brother Matthias]] | [[05_Templates/Example_Campaign/NPCs/Captain Blackwater]] | [[05_Templates/Example_Campaign/NPCs/Councillor Elara Brightwater]]
+- **F-J**: [[05_Templates/Example_Campaign/NPCs/Flip the Famous]] | [[05_Templates/Example_Campaign/NPCs/Frank the Tank]] | [[05_Templates/Example_Campaign/NPCs/Gruff "Stone" Ironbelly]] | [[05_Templates/Example_Campaign/NPCs/Harbormaster Willem Tidecaller]] | [[05_Templates/Example_Campaign/NPCs/High Priestess Seraphina Lightbringer]]
+- **K-O**: [[05_Templates/Example_Campaign/NPCs/Lady Seraphina Goldleaf]] | [[05_Templates/Example_Campaign/NPCs/Lyra Swiftwind]] | [[05_Templates/Example_Campaign/NPCs/Marina Saltwhisper]] | [[05_Templates/Example_Campaign/NPCs/Old Salt Pete]] | [[05_Templates/Example_Campaign/NPCs/Oracle Moonwhisper]]
+- **P-T**: [[05_Templates/Example_Campaign/NPCs/Pirate King Razor Blackheart]] | [[05_Templates/Example_Campaign/NPCs/Raven "Nighteyes" Thorne]] | [[05_Templates/Example_Campaign/NPCs/Silken Sarai]] | [[05_Templates/Example_Campaign/NPCs/The Benefactor]] | [[05_Templates/Example_Campaign/NPCs/The Shadowbroker]]
+- **U-Z**: [[05_Templates/Example_Campaign/NPCs/Vex Nightwhisper]] | [[05_Templates/Example_Campaign/NPCs/Whisper "Coin" Mordaine]] | [[05_Templates/Example_Campaign/NPCs/Whisper Jack]]
 
 ---
 
@@ -114,23 +114,23 @@ SORT population DESC
 ### Quick Location Access
 
 #### Cities & Ports
-- 🏛️ [[Shadowhaven]] - Major trade hub
-- 🏛️ [[Port Celeste]] - Eastern rival city
-- 🏛️ [[Port Verran]] - Under pirate threat
-- 🏛️ [[Port Sorrow]] - Black market haven
-- 🏛️ [[Ironhold Fortress]] - Military stronghold
+- 🏛️ [[05_Templates/Example_Campaign/Locations/Shadowhaven]] - Major trade hub
+- 🏛️ [[05_Templates/Example_Campaign/Locations/Port Celeste]] - Eastern rival city
+- 🏛️ [[05_Templates/Example_Campaign/Locations/Port Verran]] - Under pirate threat
+- 🏛️ [[05_Templates/Example_Campaign/Locations/Port Sorrow]] - Black market haven
+- 🏛️ [[05_Templates/Example_Campaign/Locations/Ironhold Fortress]] - Military stronghold
 
 #### Islands & Regions
-- 🏝️ [[The Cerulean Archipelago]] - World overview
-- 🏝️ [[Island of Skulls]] - Dangerous waters
-- 🏝️ [[Merchant's Rest Island]] - Safe harbor
-- 🏝️ [[Whisper Rock Lighthouse]] - Strategic point
+- 🏝️ [[02_Worldbuilding/Atlas/The Cerulean Archipelago]] - World overview
+- 🏝️ [[05_Templates/Example_Campaign/Locations/Island of Skulls]] - Dangerous waters
+- 🏝️ [[05_Templates/Example_Campaign/Locations/Merchant's Rest Island]] - Safe harbor
+- 🏝️ [[05_Templates/Example_Campaign/Locations/Whisper Rock Lighthouse]] - Strategic point
 
 #### Dungeons & Adventures Sites
-- ⚔️ [[The Sunken City of Aeridor]] - Underwater ruins
-- ⚔️ [[The Crystal Caves]] - Magical site
-- ⚔️ [[The Graveyard of Ships]] - Naval hazard
-- ⚔️ [[The Serpent's Spire]] - Pirate stronghold
+- ⚔️ [[05_Templates/Example_Campaign/Locations/The Sunken City of Aeridor]] - Underwater ruins
+- ⚔️ [[05_Templates/Example_Campaign/Locations/The Crystal Caves]] - Magical site
+- ⚔️ [[05_Templates/Example_Campaign/Locations/The Graveyard of Ships]] - Naval hazard
+- ⚔️ [[05_Templates/Example_Campaign/Locations/The Serpent's Spire]] - Pirate stronghold
 
 ---
 
@@ -165,10 +165,10 @@ SORT file.name ASC
 ```
 
 ### Quick References
-- 📖 [[DnD5e-DM Screen-2014|Rules Quick Reference]]
-- 🎲 [[Template-Loot-Table|Loot Tables]]
+- 📖 [[03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|Rules Quick Reference]]
+- 🎲 [[05_Templates/Template-Loot-Table|Loot Tables]]
 - ⚔️ [[Template-Combat-Encounter|Combat Tracker]]
-- 🗺️ [[World Map|Campaign Map]]
+- 🗺️ [[02_Worldbuilding/Atlas/World Map|Campaign Map]]
 
 ### Handouts Available
 ```dataview
@@ -184,7 +184,7 @@ SORT file.mtime DESC
 
 ### Combat
 - [[Combat Actions]]
-- [[Conditions]]
+- [[Ω_System/CLI/conditions]]
 - [[Initiative Tracker]]
 
 ### Magic

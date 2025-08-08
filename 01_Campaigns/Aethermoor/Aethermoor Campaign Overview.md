@@ -38,14 +38,14 @@ The kingdom of Aethermoor faces a mysterious crystal plague that transforms citi
 
 ### The Crystal Plague
 - **Duration**: 3 weeks and spreading
-- **Affected**: 500+ citizens of [[Port Meridian]]
+- **Affected**: 500+ citizens of [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
 - **Symptoms**: Crystalline transformation, shared nightmares, psychic resonance
 - **True Nature**: Dimensional frequency harmonization
 
 ### Political Landscape
-- **[[Queen Seraphina Lumengarde]]**: Secretly fighting possession by Aquabyssos entity
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]**: Secretly fighting possession by Aquabyssos entity
 - **[[The Crimson Hand]]**: Magical faction seeking to control the transformation
-- **[[Purist Coalition]]**: Anti-magic faction growing violent
+- **[[01_Campaigns/Aethermoor/Factions/Purist Coalition]]**: Anti-magic faction growing violent
 - **[[Silverscale Consortium]]**: Profiting from chaos while preparing to flee
 - **[[The Crown Authority]]**: Fragmenting as Queen withdraws
 
@@ -64,9 +64,9 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - First exposure to transformation mechanics
 
 **Key Sessions**:
-- [[Session 01 Blood in the Harbor]]
-- [[Session 02 The Lighthouse of Storms]]
-- [[Session 03 Council of Shadows]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 02 The Lighthouse of Storms]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 03 Council of Shadows]]
 
 ### Arc 2: Revelation (Sessions 4-6)
 **Theme**: Conspiracy and Awakening
@@ -76,9 +76,9 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - First contact with Aquabyssos
 
 **Key Sessions**:
-- [[Session 04 The Silverscale Gambit]]
-- [[Session 05 The Queens Madness]]
-- [[Session 06 The Bloodline Awakens]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 04 The Silverscale Gambit]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 05 The Queens Madness]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 06 The Bloodline Awakens]]
 
 ### Arc 3: Convergence (Sessions 7-9)
 **Theme**: Transformation and Choice
@@ -88,9 +88,9 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - Impossible moral choices
 
 **Key Sessions**:
-- [[Session 07 The Festival of Transformation]]
-- [[Session 08 Between Two Worlds]]
-- [[Session 09 The Price of Unity]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 07 The Festival of Transformation]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 08 Between Two Worlds]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 09 The Price of Unity]]
 
 ### Arc 4: Resolution (Session 10+)
 **Theme**: New World Order
@@ -100,29 +100,29 @@ Ancient artifacts that maintain the dimensional barrier between Aethermoor and [
 - Set stage for future campaigns
 
 **Key Session**:
-- [[Session 10 The Deep Mother Rises]]
+- [[01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises]]
 
 ---
 
 ## Major NPCs
 
 ### Authority Figures
-- **[[Captain Lyanna Brightshield]]**: Harbor Watch captain, secretly loves the Queen
-- **[[Queen Seraphina Lumengarde]]**: Monarch fighting possession
-- **[[High Inquisitor Maltheos]]**: Purist leader with hidden desperation
+- **[[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]**: Harbor Watch captain, secretly loves the Queen
+- **[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]**: Monarch fighting possession
+- **[[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]**: Purist leader with hidden desperation
 
 ### Information Network
-- **[[Marina Red Tide Coralheart]]**: Smuggler hiding Aquabyssos bloodline
+- **[[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]**: Smuggler hiding Aquabyssos bloodline
 - **[[Jasper Three-Eyes Flint]]**: Mad prophet who sees between worlds
 - **[[Brother Marcus Steelbane]]**: Healer desperately seeking cure
 
 ### Antagonists
-- **[[Vex Shadowthorn]]**: Ambitious mage orchestrating the convergence
+- **[[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]**: Ambitious mage orchestrating the convergence
 - **[[The Possessed Queen]]**: Seraphina under entity control
 - **[[Lord Aurelius Goldwave]]**: Corrupt noble playing all sides
 
 ### Mysterious Figures
-- **[[The Crimson Sage]]**: Hidden identity - Queen's thought-dead sister
+- **[[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]]**: Hidden identity - Queen's thought-dead sister
 - **[[The Deep Mother]]**: Primordial entity sleeping beneath reality
 - **[[The Bloodline Carrier]]**: One party member with special heritage
 
@@ -180,9 +180,9 @@ Major decisions have no perfect outcome:
 
 ### Aquabyssos Integration
 The drowned realm exists parallel to Aethermoor:
-- **[[Aquabyssos Campaign Overview]]**: Full underwater world
-- **[[Aethermoor-Aquabyssos-World-Connection-Guide]]**: How realms interact
-- **[[Aquabyssos-Survival-Mechanics]]**: Depth adaptation system
+- **[[01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview]]**: Full underwater world
+- **[[02_Worldbuilding/Aethermoor-Aquabyssos-World-Connection-Guide]]**: How realms interact
+- **[[02_Worldbuilding/Aquabyssos-Survival-Mechanics]]**: Depth adaptation system
 
 ### Convergence Events
 - Crystal plague = Depth calling
@@ -223,9 +223,9 @@ The drowned realm exists parallel to Aethermoor:
 ## DM Resources
 
 ### Session Prep
-- [[Session_Template]]: Blank template for new sessions
-- [[NPC_Template]]: Character creation template
-- [[Location_Template]]: Location building template
+- [[05_Templates/Session_Template]]: Blank template for new sessions
+- [[05_Templates/NPC_Template]]: Character creation template
+- [[05_Templates/Location_Template]]: Location building template
 
 ### Quick References
 - [[Random-Encounter-Tables-Aethermoor]]
@@ -268,8 +268,8 @@ The drowned realm exists parallel to Aethermoor:
 
 ### Alternative Focuses
 - **[[Parliament-of-Shadows-Campaign]]**: Aquabyssos political horror
-- **[[The-Infinite-Recursion-Campaign]]**: Reality-bending mystery
-- **[[The-Memory-Wars-Campaign]]**: Identity and remembrance
+- **[[01_Campaigns/Aquabyssos/Campaigns/The Infinite Recursion Campaign]]**: Reality-bending mystery
+- **[[01_Campaigns/Aquabyssos/Campaigns/The Memory Wars Campaign]]**: Identity and remembrance
 
 ---
 
@@ -298,15 +298,15 @@ The drowned realm exists parallel to Aethermoor:
 ## Quick Start Guide
 
 ### First Session Checklist
-1. [ ] Read [[Session 01 Blood in the Harbor]]
+1. [ ] Read [[01_Campaigns/Aethermoor/Sessions/Session 01 Blood in the Harbor]]
 2. [ ] Prepare harbor district description
 3. [ ] Review NPC motivations
 4. [ ] Understand corruption mechanics
 5. [ ] Prepare contingency encounters
 
 ### Essential NPCs for Session 1
-- [[Captain Lyanna Brightshield]]
-- [[Marina Red Tide Coralheart]]
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
 - [[Brother Marcus Steelbane]]
 
 ### Key Mechanics Introduction

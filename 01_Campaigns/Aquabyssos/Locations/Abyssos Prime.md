@@ -4,10 +4,10 @@ location_name: "Abyssos Prime"
 location_type: "Sunken Capital"
 parent_location: "[[Aquabyssos]]"
 sub_locations:
-  - "[[Inverse Palace]]"
-  - "[[Parliament of Echoes]]"
-  - "[[Screaming Gardens]]"
-  - "[[Memory Meadows]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Inverse Palace]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/Screaming Gardens]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/The Memory Meadows]]"
   - "[[Reflection Pools]]"
   - "[[Pressure Terminal]]"
   - "[[Throne of Bubbles]]"
@@ -15,9 +15,9 @@ sub_locations:
 depth: "1000-3000 feet"
 population: 2000000
 government: "[[The Eternal Senate]]"
-ruler: "[[The Scattered Emperor]]"
+ruler: "[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]"
 factions:
-  - "[[Parliament of Echoes]]"
+  - "[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]"
   - "[[Shadow Conspiracy]]"
   - "[[Depth Merchants]]"
   - "[[Memory Farmers]]"
@@ -31,8 +31,8 @@ services:
   - "Depth Adaptation"
   - "Political Intrigue"
 notable_npcs:
-  - "[[The Scattered Emperor]]"
-  - "[[Senator Glaucus]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]"
+  - "[[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]"
   - "[[Marina Red Tide Coralheart - Aquabyssos]]"
 current_state: "Shadow conspiracy active"
 temporal_stability: 85
@@ -60,7 +60,7 @@ Abyssos Prime, once the glorious capital of Thalassopolis, now exists as a haunt
 ## Districts & Sub-Locations
 
 ### The Inverse Palace
-**[[Inverse Palace|Full Details]]**
+**[[01_Campaigns/Aquabyssos/Locations/The Inverse Palace|Full Details]]**
 The seat of the Scattered Emperor, where gravity works backward and water flows upward. The palace exists in a constant state of drowning, frozen at the moment of catastrophe.
 
 **Key Features:**
@@ -70,7 +70,7 @@ The seat of the Scattered Emperor, where gravity works backward and water flows 
 - Seven Scattered Chambers - Emperor's split personality rooms
 
 ### Parliament of Echoes
-**[[Parliament of Echoes|Full Details]]**
+**[[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes|Full Details]]**
 Where ghost senators debate laws that apply to no one, divided into factions that no longer remember their original purposes.
 
 **Factions:**
@@ -81,7 +81,7 @@ Where ghost senators debate laws that apply to no one, divided into factions tha
 - The Forgotten (amnesiacs)
 
 ### The Screaming Gardens
-**[[Screaming Gardens|Full Details]]**
+**[[01_Campaigns/Aquabyssos/Locations/Screaming Gardens|Full Details]]**
 Crystallized forests grown from the screams of drowning children. When the current flows through them, they play haunting melodies that warn of danger.
 
 **Notable Areas:**
@@ -209,7 +209,7 @@ Undead parliament that continues debating despite having no living constituents.
 
 ### Allied Locations
 - **[[Tenebrarum]]:** Shadow trade partner
-- **[[Nereidios]]:** Knowledge exchange
+- **[[01_Campaigns/Aquabyssos/Locations/Nereidios]]:** Knowledge exchange
 - **[[Crystallium]]:** Crystal trade
 
 ### Enemy Territories
@@ -256,14 +256,14 @@ Undead parliament that continues debating despite having no living constituents.
 ## Important NPCs
 
 ### Permanent Residents
-- **[[The Scattered Emperor]]** - Distributed consciousness ruler
-- **[[Senator Glaucus]]** - Shadow replacement
+- **[[01_Campaigns/Aquabyssos/NPCs/The Scattered Emperor]]** - Distributed consciousness ruler
+- **[[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]** - Shadow replacement
 - **[[The Conductor]]** - Controls Screaming Gardens
 - **[[Memory Farmer Thane]]** - Kelp cultivation master
 - **[[Reflection Broker Mirrors]]** - Identity trader
 
 ### Frequent Visitors
-- **[[Shadow Duchess Nyx]]** - Tenebrarum investigator
+- **[[01_Campaigns/Aquabyssos/NPCs/Shadow Duchess Nyx]]** - Tenebrarum investigator
 - **[[Marina Red Tide Coralheart - Aquabyssos]]** - Adapted guide
 - **[[The Forgotten Representative]]** - Amnesia victim
 

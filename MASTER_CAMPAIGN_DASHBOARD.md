@@ -21,7 +21,7 @@ created: 2025-08-08
 >> ### 🌍 Aethermoor
 >> **Current Week**: 3 of Crystal Plague
 >> **Party Level**: 3-5
->> **Latest Session**: [[Session 10 The Deep Mother Rises]]
+>> **Latest Session**: [[01_Campaigns/Aethermoor/Sessions/Session 10 The Deep Mother Rises]]
 >> **Crisis Level**: 🔴 Critical
 >> 
 >> **Next Session Prep**:
@@ -34,7 +34,7 @@ created: 2025-08-08
 >> ### 🌊 Aquabyssos
 >> **Depth**: 1,000-3,000 ft
 >> **Party Adaptation**: Stage 2
->> **Latest Session**: [[Session 10 - The Shadow Finale]]
+>> **Latest Session**: [[01_Campaigns/Aquabyssos/Sessions/Session 10 - The Shadow Finale]]
 >> **Parliament Vote**: 2 weeks
 >> 
 >> **Next Session Prep**:
@@ -152,16 +152,16 @@ created: 2025-08-08
 >
 >> [!example|clean no-t]
 >> ### Session Management
->> - 📝 [[Session_Template|New Session]]
->> - 🎯 [[Session_Prep_Automated|Prep Next Session]]
->> - 📊 [[Timeline_Tracker.base|View Timeline]]
->> - 📜 [[Session Log.base|Session History]]
+>> - 📝 [[05_Templates/Session_Template|New Session]]
+>> - 🎯 [[05_Templates/Session_Prep_Automated|Prep Next Session]]
+>> - 📊 [[Timeline_Tracker.base]]
+>> - 📜 [[Session Log.base]]
 >
 >> [!todo|clean no-t]
 >> ### Content Creation
->> - 🧑 [[NPC_Template|Create NPC]]
->> - 📍 [[Location_Template|New Location]]
->> - ⚔️ [[Quest_Template|Design Quest]]
+>> - 🧑 [[05_Templates/NPC_Template|Create NPC]]
+>> - 📍 [[05_Templates/Location_Template|New Location]]
+>> - ⚔️ [[05_Templates/Quest_Template|Design Quest]]
 >> - 💎 [[Item Template|Create Item]]
 >
 >> [!info|clean no-t]
@@ -218,20 +218,20 @@ series:
 ## 🚀 Quick Links
 
 ### Campaign Overviews
-- [[Aethermoor Campaign Overview]]
-- [[Aquabyssos Campaign Overview]]
+- [[01_Campaigns/Aethermoor/Aethermoor Campaign Overview]]
+- [[01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview]]
 
 ### Key NPCs
-- [[Queen Seraphina Lumengarde]]
-- [[Marina Red Tide Coralheart]]
-- [[Senator Glaucus]]
-- [[Captain Lyanna Brightshield]]
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]
+- [[01_Campaigns/Aethermoor/NPCs/Marina-Red-Tide-Coralheart]]
+- [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]]
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]]
 
 ### Critical Locations
-- [[Port Meridian]]
-- [[Abyssos Prime]]
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]]
+- [[01_Campaigns/Aquabyssos/Locations/Abyssos Prime]]
 - [[The Lighthouse of Storms]]
-- [[Parliament of Echoes]]
+- [[01_Campaigns/Aquabyssos/Locations/Parliament of Echoes]]
 
 ### Active Threats
 - Crystal Plague Spreading

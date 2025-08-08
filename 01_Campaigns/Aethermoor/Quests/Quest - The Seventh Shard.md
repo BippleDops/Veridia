@@ -18,32 +18,32 @@ image: "Ω_Assets/Quests/seventh_shard.jpg"
 *The Lost Fragment of Divinity*
 
 ## Overview
-Six of the Seven Shards of the Crown of Stars have been located or rumored, but the Seventh remains missing. Multiple factions race to find it, believing it to be the key to either ultimate power or final destruction. [[Captain Thaddeus Blackwater]]'s expedition sought it in [[The Crystalline Wastes]] but vanished. Now the search intensifies as signs point to its awakening.
+Six of the Seven Shards of the Crown of Stars have been located or rumored, but the Seventh remains missing. Multiple factions race to find it, believing it to be the key to either ultimate power or final destruction. [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s expedition sought it in [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] but vanished. Now the search intensifies as signs point to its awakening.
 
 ## The Seven Shards
 
 ### Known Locations
 > [!warning] DM Only
 > 1. **Clear Shard**: The Crystal Throne itself
-> 2. **Crimson Shard**: Hidden in [[Port Meridian]] harbor (causing plague)
-> 3. **Amber Shard**: [[High Inquisitor Maltheos]] possesses
-> 4. **Emerald Shard**: Within the Heart Tree, [[The Verdant Reach]]
+> 2. **Crimson Shard**: Hidden in [[01_Campaigns/Aethermoor/Locations/Port Meridian]] harbor (causing plague)
+> 3. **Amber Shard**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] possesses
+> 4. **Emerald Shard**: Within the Heart Tree, [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]]
 > 5. **Azure Shard**: Sunken temple, [[The Azure Coast]]
-> 6. **Obsidian Shard**: [[The Shadowmere]], corrupting swamp
+> 6. **Obsidian Shard**: [[01_Campaigns/Aethermoor/Locations/The Shadowmere]], corrupting swamp
 > 7. **Golden Shard**: The Seventh - location unknown
 
 ## Quest Stages
 
 ### Stage 1: The Call
 **Triggers**:
-- Complete [[Quest - The Plague of Crystals]]
+- Complete [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]]
 - Reach level 8+
 - Major faction offers employment
 - Strange dreams of golden light
 
 **Initial Clues**:
-- [[Captain Thaddeus Blackwater]]'s journal found
-- [[The Crimson Sage]] provides cryptic map
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]]'s journal found
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] provides cryptic map
 - Ancient prophecy discovered
 - Visions during crystal exposure
 
@@ -56,7 +56,7 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 - Discover they found something
 
 #### Path B: Ancient Libraries
-- Research in [[Crystalhaven]] archives
+- Research in [[01_Campaigns/Aethermoor/Locations/Crystalhaven]] archives
 - Seek [[Keeper Elara Moonwhisper]]'s help
 - Decode pre-Shattering texts
 - Learn about Crown's creation
@@ -70,11 +70,11 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 ### Stage 3: The Competition
 
 **Other Seekers**:
-- [[Vex Shadowthorn]]'s agents - Ruthless
-- [[Queen Seraphina Lumengarde]]'s spies - Desperate
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]]'s agents - Ruthless
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]'s spies - Desperate
 - [[The Order of the Shattered Crown]] - Fanatical
-- [[Prince Caspian Duskwater]]'s forces - Military
-- [[The Crimson Sage]] - Mysterious agenda
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]]'s forces - Military
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Mysterious agenda
 
 **Encounters**:
 - Ambushes by rival groups
@@ -128,8 +128,8 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 ## Key Locations
 
 ### Search Sites
-- [[The Crystalline Wastes]] - Blackwater's route
-- [[The Shattered Sanctum]] - Hidden temple
+- [[01_Campaigns/Aethermoor/Locations/The Crystalline Wastes]] - Blackwater's route
+- [[01_Campaigns/Aethermoor/Locations/The Shattered Sanctum]] - Hidden temple
 - [[The Oracle of the Sundered Peaks]] - Prophecy
 - [[The Whispering Expanse]] - Desert mysteries
 - [[Sylvanheart]] - Secret haven
@@ -137,16 +137,16 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 ## NPCs Involved
 
 ### Information Sources
-- [[The Crimson Sage]] - Knows truth
-- [[Captain Thaddeus Blackwater]] - Missing seeker
+- [[01_Campaigns/Aethermoor/NPCs/The Crimson Sage]] - Knows truth
+- [[01_Campaigns/Aethermoor/NPCs/Captain Thaddeus Blackwater]] - Missing seeker
 - [[The Oracle of the Sundered Peaks]] - Prophet
 - [[Professor Aldric Crystalweaver]] - Research
 
 ### Competitors
-- [[Vex Shadowthorn]] - Wants power
-- [[Queen Seraphina Lumengarde]] - Needs cure
-- [[High Inquisitor Maltheos]] - Seeks destruction
-- [[Prince Caspian Duskwater]] - Claims birthright
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Wants power
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Needs cure
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Seeks destruction
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Claims birthright
 
 ### The Hidden Key
 - [[Aria Lumengarde]] - The Shard's host
@@ -229,7 +229,7 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 - New age begins
 
 ## Connected Quests
-- [[Quest - The Plague of Crystals]] - Finding Crimson Shard
+- [[01_Campaigns/Aethermoor/Quests/Quest - The Plague of Crystals]] - Finding Crimson Shard
 - [[Quest - Divine Intervention]] - Crimson Sage's role
 - [[Quest - The Lost Expedition]] - Blackwater's fate
 - [[Quest - The Crown Reborn]] - Ultimate goal

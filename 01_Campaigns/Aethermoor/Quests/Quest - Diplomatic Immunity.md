@@ -5,7 +5,7 @@ tags:
   - political
   - urgent
 type: Quest
-quest_giver: "[[Queen Seraphina Lumengarde]]"
+quest_giver: "[[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]]"
 location: Multiple
 level: 6-10
 status: Available
@@ -18,15 +18,15 @@ image: "Ω_Assets/Quests/diplomatic_immunity.jpg"
 *Preventing the War Nobody Wins*
 
 ## Overview
-Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant Accord]] have reached a breaking point. [[Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
+Tensions between [[01_Campaigns/Aethermoor/Factions/The Crystal Throne]], [[01_Campaigns/Aethermoor/Factions/Purist Coalition]], and [[The Verdant Accord]] have reached a breaking point. [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
 
 ## The Situation
 
 ### Rising Tensions
-- [[Purist Coalition]] planning Festival attack
+- [[01_Campaigns/Aethermoor/Factions/Purist Coalition]] planning Festival attack
 - [[Crystal Wardens]] on high alert
 - [[The Verdant Accord]] considering alliance with Purists
-- [[Prince Caspian Duskwater]] funding instability
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] funding instability
 - Citizens choosing sides
 
 ### The Stakes
@@ -40,13 +40,13 @@ Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant
 
 ### Stage 1: Initial Contact
 **Objectives**:
-- Meet [[Queen Seraphina Lumengarde]] secretly
+- Meet [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] secretly
 - Receive diplomatic credentials
 - Understand each faction's position
 - Identify moderate voices
 
 **Key NPCs**:
-- [[Captain Lyanna Brightshield]] - Provides intelligence
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Provides intelligence
 - [[Brother Marcus Steelbane]] - Moderate Purist
 - [[High Priestess Celeste Dawnbringer]] - Neutral voice
 
@@ -68,7 +68,7 @@ Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant
 > Queen desperately needs peace to focus on finding corruption cure
 
 #### Purist Coalition
-**Leader**: [[High Inquisitor Maltheos]]
+**Leader**: [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]]
 
 **Demands**:
 - Destroy all crystals
@@ -83,7 +83,7 @@ Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant
 **Moderate Voice**: [[Brother Marcus Steelbane]]
 
 #### The Verdant Accord
-**Leader**: [[Archdruid Thornweaver]]
+**Leader**: [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]]
 
 **Demands**:
 - Stop forest destruction
@@ -98,8 +98,8 @@ Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant
 ### Stage 3: Secret Saboteurs
 
 **Groups Working Against Peace**:
-- [[The Whisper Syndicate]] - Profits from chaos
-- [[Prince Caspian Duskwater]] - Wants throne
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] - Profits from chaos
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Wants throne
 - Extremist cells - Both factions
 - War profiteers
 
@@ -112,9 +112,9 @@ Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant
 ### Stage 4: The Peace Summit
 
 **Location Options**:
-- [[The Verdant Reach]] - Neutral ground
+- [[01_Campaigns/Aethermoor/Locations/The Verdant Reach]] - Neutral ground
 - Ancient temple - Sacred space
-- [[Port Meridian]] - International observers
+- [[01_Campaigns/Aethermoor/Locations/Port Meridian]] - International observers
 
 **Negotiation Challenges**:
 - Language barriers
@@ -176,19 +176,19 @@ Need 25+ points for lasting peace
 ## Key NPCs
 
 ### Faction Representatives
-- [[Queen Seraphina Lumengarde]] - Crystal Throne
-- [[High Inquisitor Maltheos]] - Purist Coalition
-- [[Archdruid Thornweaver]] - Verdant Accord
+- [[01_Campaigns/Aethermoor/NPCs/Queen Seraphina Lumengarde]] - Crystal Throne
+- [[01_Campaigns/Aethermoor/NPCs/High Inquisitor Maltheos]] - Purist Coalition
+- [[01_Campaigns/Aethermoor/NPCs/Archdruid Thornweaver]] - Verdant Accord
 - [[Lord Aurelius Goldwave]] - Merchant Princes
 
 ### Moderates
 - [[Brother Marcus Steelbane]] - Purist moderate
-- [[Captain Lyanna Brightshield]] - Royal moderate
+- [[01_Campaigns/Aethermoor/NPCs/Captain Lyanna Brightshield]] - Royal moderate
 - [[High Priestess Celeste Dawnbringer]] - Religious moderate
 
 ### Saboteurs
-- [[Vex Shadowthorn]] - Chaos profiteer
-- [[Prince Caspian Duskwater]] - Throne seeker
+- [[01_Campaigns/Aethermoor/NPCs/Vex Shadowthorn]] - Chaos profiteer
+- [[01_Campaigns/Aethermoor/NPCs/Prince Caspian Duskwater]] - Throne seeker
 - Extremist cells - Various
 
 ## Complications
@@ -200,7 +200,7 @@ Need 25+ points for lasting peace
 - Failure: Moderates lose influence
 
 ### False Flag Attack
-- [[Whisper Syndicate]] frames Purists
+- [[01_Campaigns/Aethermoor/Factions/The Whisper Syndicate]] frames Purists
 - Evidence: DC 18 Investigation
 - Consequences: War unless exposed
 

@@ -13,7 +13,7 @@ status: "Alive (Mostly)"
 # Duke Cyrus Reefheart
 
 ## Overview
-Duke Cyrus Reefheart leads the [[Coral Courts]] from [[Lumengarde]], championing biological adaptation as the future of [[Aquabyssos World Overview|Aquabyssos]]. His body is a living artwork of symbiotic modification - coral grows from his shoulders, bioluminescent patterns pulse beneath his translucent skin, and small fish swim through hollow chambers in his torso. What remains human is beautiful in an alien way, but less of him is human each year.
+Duke Cyrus Reefheart leads the [[Coral Courts]] from [[01_Campaigns/Aquabyssos/Locations/Lumengarde]], championing biological adaptation as the future of [[01_Campaigns/Aquabyssos/Lore/Aquabyssos World Overview|Aquabyssos]]. His body is a living artwork of symbiotic modification - coral grows from his shoulders, bioluminescent patterns pulse beneath his translucent skin, and small fish swim through hollow chambers in his torso. What remains human is beautiful in an alien way, but less of him is human each year.
 
 ## Personality
 - **Visionary**: Sees biological unity as evolution, not corruption
@@ -39,14 +39,14 @@ Duke Cyrus Reefheart leads the [[Coral Courts]] from [[Lumengarde]], championing
 - [[Artisan Felix Reefwright]] - Creates living tools
 
 ### Political Rivals
-- [[Archon Meredith Saltweaver]] - Opposes biological supremacy
-- [[Admiral Thorne Blackwater]] - Accused him of creating bioweapons
-- [[Prophet Nerida Voidgazer]] - Religious differences about transformation
+- [[01_Campaigns/Aquabyssos/NPCs/Archon Meredith Saltweaver]] - Opposes biological supremacy
+- [[01_Campaigns/Aquabyssos/NPCs/Admiral Thorne Blackwater]] - Accused him of creating bioweapons
+- [[01_Campaigns/Aquabyssos/NPCs/Prophet Nerida Voidgazer]] - Religious differences about transformation
 
 ### Complicated Relationships
 - [[Doctor Silas Voidtouch]] - Shares research but disagrees on methods
 - [[The Biomancers]] - Supports their goals but not extremism
-- [[Sage Lysander Deepthought]] - Academic colleague turned rival
+- [[01_Campaigns/Aquabyssos/NPCs/Sage Lysander Deepthought]] - Academic colleague turned rival
 
 ## History
 Born to ancient noble family that ruled the Coral Islands before drowning. Family was first to accept biological adaptation to survive. Cyrus took the process further than anyone, allowing complete symbiosis with coral palace. Has ruled Lumengarde for 89 years but appears ageless due to constant regeneration.
@@ -54,7 +54,7 @@ Born to ancient noble family that ruled the Coral Islands before drowning. Famil
 ## Current Activities
 1. Merging further with his palace-body
 2. Developing adaptation to resist [[The Deepmind]]
-3. Negotiating trade disputes with [[Pressure's End]]
+3. Negotiating trade disputes with [[01_Campaigns/Aquabyssos/Locations/Pressure's End]]
 4. Spreading biological adaptation philosophy
 5. Growing a "daughter" from his own biomass
 
@@ -116,7 +116,7 @@ Born to ancient noble family that ruled the Coral Islands before drowning. Famil
 - "The Colony" (by detractors)
 
 ## Locations
-- Primary: [[Lumengarde]] - Coral Palace
-- Secondary: [[The Bathyal Palace]] - Embassy suite
+- Primary: [[01_Campaigns/Aquabyssos/Locations/Lumengarde]] - Coral Palace
+- Secondary: [[01_Campaigns/Aquabyssos/Locations/The Bathyal Palace]] - Embassy suite
 - Laboratory: Deep Garden experimental chambers
 - Grows: Throughout any coral structure in Lumengarde

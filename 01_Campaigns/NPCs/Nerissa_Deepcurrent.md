@@ -20,12 +20,12 @@ portrait: "Ω_Assets/npcs/nerissa-tidecaller.png"
 relationship_type: "political"
 relationships: 
   - "[[Commander Varek Irontrident]]"
-  - "[[The Crimson Pearl]]"
+  - "[[01_Campaigns/NPCs/The_Crimson_Pearl]]"
   - "[[Aboleth Prime Yoth'zagoth]]"
   - "[[Prophet Miralyn Surfacer]]"
   - "[[Emperor Thalassius the Wise]]"
 related_quests:
-  - "[[The Second Rising]]"
+  - "[[01_Campaigns/Quests/The_Second_Rising]]"
   - "[[Diplomatic Tides]]"
   - "[[The Depth Accords]]"
 last_encounter: ""
@@ -66,7 +66,7 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 - **[[The Pearl Guard]]** - Elite protectors
 
 ### Rivals
-- **[[The Crimson Pearl]]** - Necessary evil, controls too much trade
+- **[[01_Campaigns/NPCs/The_Crimson_Pearl]]** - Necessary evil, controls too much trade
 - **[[Prophet Miralyn Surfacer]]** - Dangerous idealist threatening stability
 - **[[Aboleth Prime Yoth'zagoth]]** - Ancient threat that must be contained
 
@@ -83,13 +83,13 @@ Her own visions show two paths:
 She seeks a third option but hasn't found it.
 
 ### The Pressure Wars
-- [[Pearl Harbor City]] grows too independent
+- [[01_Campaigns/Locations/Pearl_Harbor_City]] grows too independent
 - [[The Maw of Darkness]] stirs with ancient evil
 - Resources stretched thin across seven depths
 
 ### Surface Relations
 - Trade is necessary but brings contamination
-- [[Gareth Ironforge]] offers alliance but at what cost?
+- [[01_Campaigns/NPCs/Gareth_Ironforge]] offers alliance but at what cost?
 - Surface nations eye Aquathys's resources greedily
 
 ## Powers & Abilities
@@ -134,7 +134,7 @@ She seeks a third option but hasn't found it.
 - Frustrated by his rigid thinking
 - Relies on him absolutely for defense
 
-### [[The Crimson Pearl]]
+### [[01_Campaigns/NPCs/The_Crimson_Pearl]]
 "A parasite that keeps the body functioning."
 - Knows she's corrupt but needs her network
 - Has evidence of her crimes but can't act
@@ -157,7 +157,7 @@ She seeks a third option but hasn't found it.
 1. **[[The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
 2. **[[Oracle's Burden]]** - Help her break the prophetic curse
 3. **[[The Seven Seals]]** - Gather the Depth Seals before enemies do
-4. **[[Diplomatic Immunity]]** - Escort her to dangerous negotiations
+4. **[[05_Templates/Example_Campaign/Quests/Diplomatic Immunity]]** - Escort her to dangerous negotiations
 
 ## Combat Tactics
 

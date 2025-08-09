@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, parliament, politician, pragmatic-leader, government]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Parliamentary Tribune"

@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, military-commander, depth-wardens, professional-soldier]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Military Commander"

@@ -1,278 +1,285 @@
 ---
-tags:
-- Category/Group
-MyContainer: 'Island of Skulls'
-MyCategory: Knightly Order
+type: faction
+tags: [faction, criminal, cult, aquabyssos, psychic-terror, sonic-manipulation]
+aliases: [The Screaming Dark, Children of the Resonant Void, The Harmonic Heretics]
+world: "Aquabyssos"
+created: 2025-08-09
+modified: 2025-08-09
+leader: "Echo-Prime Cacophony Voidlungs"
+headquarters: "The Resonance Cathedral"
+alignment: "Chaotic Evil"
+power_level: "Regional Terrorist Organization"
+status: "Active Criminal Cult"
+  - Category/Group
+MyContainer: Aquabyssos
+MyCategory: Criminal Cult
 obsidianUIMode: preview
-leader: Bob
-officers:
-- Officer 1
-- Officer 2
-members:
-- Member 1
-- Member 2
-- Member 3
-initiates:
-- Initiative 1
-- Initiative 2
-- Initiative 3
-faction: Faction Name 1
-primary_contact: John Doe
-benefits:
-- standing: 1
-  reward: What do they get at level 1?
-- standing: 2
-  reward: What do they get at level 2?
-- standing: 3
-  reward: What do they get at level 3?
-type: note
-aliases: []
-created: 2025-07-23 12:39
-modified: 2025-07-23 12:39
----
-%% DO NOT MAKE CHANGES TO THIS PART OF THE TEMPLATE %%
-
-> [!NOTE] Parent Region: `INPUT[suggester(optionQuery(#Category/Place)):MyContainer]`
-
-> [!column|no-i no-t]
->> [!note|no-title]
->> [Image placeholder]
->
->> [!note|div-m] Place Name
->> ~~~meta-bind
->> INPUT[select(
->> option(1, ℹ️General),
->> option(2, ⁉️Goals),
->> option(3, 📝GM Notes),
->> class(tabbed)
->> )]
->> ~~~
->>>[!tabbed-box-maxh]
->>> >[!note|no-title]
->>> > !General
->>>
->>> > [!div-m|no-title]
->>> > !Goals
->>> 
->>> > [!div-m|no-title]
->>> > !GM Notes
->>> 
-
-%% DO NOT MAKE CHANGES TO THIS PART OF THE TEMPLATE %%
-
-> [!NOTE|no-title]
-> ~~~meta-bind
-> INPUT[select(
-> option(1, 🔗Hierarchy),
-> option(2, ⚡Enemies/Allies),
-> option(3, 🛠️Services),
-> option(4,➕Membership),
-> option(5, 🛡️Ranks),
-> class(tabbed)
-> )]
-> ~~~
-> >[!tabbed-box-maxh]
-> > >[!div-m|no-title]
-> > > !Hierarchy
-> >
-> > > [!div-m|no-title]
-> > > !Enemies/Allies
-> >
-> > > [!div-m|no-title]
-> > > !Services
-> > 
-> > > [!div-m|no-title]
-> > > !Membership
-> > 
-> > > [!div-m|no-title]
-> > > !Ranks
-
-%% MAKE CHANGES BELOW THIS LINE %%
-
 ---
 
-# General
+# Cult of Screams
+*"In Silence We Suffer, In Screaming We Transcend"*
 
-**Select Parent:** `INPUT[suggester(optionQuery(#Category/Hub),optionQuery(#Category/Region)):MyContainer]`
+## Organization Overview
 
-**Select Category:** `INPUT[inlineSelect(option(Knightly Order), option(Religious Order), option(Magic Academy), option(Artisan Guild), option(Merchant Consortium), option(Criminal Syndicate), option(Mercenary Company), option(Noble House), option(Secret Society or Cult), option(Adventurers’ Guild)):MyCategory]`
+The Cult of Screams is a terrorist organization that has transformed the underwater environment of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]] into their weapon. Founded by deranged acoustics researchers who discovered that sound travels differently through water and transformed flesh, the Cult weaponizes psychic screaming, sonic torture, and harmonic madness to spread chaos throughout the depths.
 
-**Values:** The syndicate values skill and ambition, but also discretion and loyalty.
+Unlike other criminal organizations that seek profit or power, the Cult of Screams pursues the complete psychological breakdown of Aquabyssos society. They believe that only through universal madness and suffering can the depths achieve true "enlightenment" - a state where individual consciousness dissolves into a collective scream that will wake the [[02_Worldbuilding/Lore/Aquabyssos World Overview#Hidden Truths|Things That Dwell Beneath]].
 
-Allies / Enemies:
+The Cult operates through cells of transformed individuals whose vocal cords, ears, and nervous systems have been grotesquely modified to produce and withstand supernatural sound frequencies. Their attacks create zones of acoustic horror that drive victims insane, their networks spread through infiltration of performer guilds and communication systems, and their ultimate goal involves turning all of Aquabyssos into a resonating chamber for an otherworldly scream.
 
-Membership Requirements:
+## History and Foundation
 
-Benefits This crime syndicate can protect its members from the consequences of all but the most heinous crimes.
-Rank 1: borrow resources (100 gp), case (+15), diversion (+15), gather information, lookout (4 ways, +15)
-Rank 2: borrow resources (1,000 gp), put in a good word, remove evidence, rob, search black market
-Rank 3: borrow resources (5,000 gp), command team (1d4 NPCs of 3rd level, or 3d4 NPCs of 1st level), destroy evidence, market manipulation, reciprocal benefits Rank 4: black market mastery, borrow resources (15,000 gp), command team (1d4 NPCs of 6th level, or 5d4 NPCs of 3rd level)
+### The Silence Experiments (290 years post-Drowning)
+The Cult originated from the research of **Doctor Harmony Whisperfall**, a brilliant acoustics scholar studying how the [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|Great Drowning]] had changed sound propagation through water and transformed tissue. Working in the ruins of the Royal Academy of Sciences, she became obsessed with the "silence between the screams" - mysterious dead-sound zones where no acoustic vibrations occurred.
 
-# Goals
+### The First Resonance (285 years post-Drowning)  
+During her attempts to create artificial silence zones, Dr. Whisperfall accidentally opened a connection to what she called "The Screaming Void" - a dimension of pure acoustic agony. The experience drove her mad but also gave her terrifying insights into using sound as a weapon against consciousness itself. She began recruiting followers from among the traumatized and the desperate.
 
-> [!NOTE]+ Public Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
+### The Great Cacophony (275 years post-Drowning)
+The Cult's first major terrorist attack nearly destroyed [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|New Thalassopolis]] when they synchronized screams from multiple locations to create a city-wide resonance cascade. The attack left thousands permanently insane and established the Cult as a major threat. Dr. Whisperfall was killed in the aftermath, but her work lived on.
 
-> [!NOTE]- Private Goals
-> - [ ] Achieve This
-> - [ ] Achieve That
+### The Echo Succession (274 years post-Drowning)
+**Echo-Prime Cacophony Voidlungs**, Whisperfall's most devoted student, assumed leadership. Under their guidance, the Cult evolved from chaotic terrorists into a sophisticated organization with global reach, developing new sonic weapons and recruitment methods that made them virtually impossible to eliminate.
 
-# Membership
-To join the group, a PC must spend X week 'doing' something, or 'something else'.
+## Leadership Structure
 
-# GM Notes
+### The Prime Echo
+**Echo-Prime Cacophony Voidlungs**: The current leader, whose body has been so extensively modified that they barely qualify as humanoid. Their chest cavity has been replaced with an acoustic resonance chamber that can produce sounds capable of shattering stone or minds. They communicate through subsonic frequencies and are said to hear every scream in Aquabyssos.
 
-Make notes of what you need to track in the town here. 
+### The Harmonic Council
+Five elite cultists who each control a different frequency range and tactical specialization:
 
-# Hierarchy
+#### **Bass-Echo Rumble Deepshake**
+- **Frequency**: Subsonic/Infrasonic
+- **Specialization**: Structural damage and large-scale fear effects
+- **Territory**: [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|Midnight Depth]] operations
+- **Signature**: Attacks that cause buildings to collapse through resonance
 
-`BUTTON[button_person]` List important relationships here. 
+#### **Mid-Echo Shriek Nerveshatter**  
+- **Frequency**: Audible Range
+- **Specialization**: Direct psychological assault and crowd control
+- **Territory**: Public spaces and gathering areas
+- **Signature**: Screams that cause immediate madness in large groups
 
-```dataviewjs
-// 1) Grab your frontmatter arrays
-const leader    = dv.current().leader    ?? null;
-const officers  = dv.current().officers  ?? [];
-const members   = dv.current().members   ?? [];
-const initiates = dv.current().initiates ?? [];
+#### **Treble-Echo Whistle Brainsplitter**
+- **Frequency**: Ultrasonic/Hypersonic  
+- **Specialization**: Targeted assassination and infiltration support
+- **Territory**: Elite targets and secured facilities
+- **Signature**: Silent kills through precisely tuned brain frequency disruption
 
-// 2) Render the Mermaid diagram
-dv.paragraph(
-  "```mermaid\nflowchart LR\n" +
+#### **Void-Echo Silence Deafmaker**
+- **Frequency**: Acoustic Dead Zones
+- **Specialization**: Stealth operations and communication disruption
+- **Territory**: Espionage and counter-intelligence
+- **Signature**: Creating zones of absolute silence for covert operations
 
-  // Leader node
-  (leader
-    ? `L[${leader}]:::internal-link\n`
-    : "") +
+#### **Chaos-Echo Discord Mindmelter**
+- **Frequency**: Multi-harmonic Chaos
+- **Specialization**: Mass confusion and reality distortion
+- **Territory**: Major urban centers
+- **Signature**: Acoustic attacks that make victims unable to distinguish reality from hallucination
 
-  // Officers group
-  (officers.length > 0
-    ? `OG[Officers]\nL --> OG\n` +
-      officers.map((o,i) =>
-        `O${i+1}[${o}]:::internal-link\nOG --> O${i+1}\n`
-      ).join("")
-    : "") +
+### The Resonance Cells
+The Cult operates through independent cells of 5-12 members, each specializing in different acoustic weapons and targets. Cells are identified by their harmonic signatures rather than names, making them extremely difficult for authorities to track or infiltrate.
 
-  // Members group
-  (members.length > 0
-    ? `MG[Members]\n${officers.length ? "OG" : "L"} --> MG\n` +
-      members.map((m,i) =>
-        `M${i+1}[${m}]:::internal-link\nMG --> M${i+1}\n`
-      ).join("")
-    : "") +
+## Members and Resources
 
-  // Initiates group
-  (initiates.length > 0
-    ? `IG[Initiates]\n${members.length ? "MG" : (officers.length ? "OG" : "L")} --> IG\n` +
-      initiates.map((n,i) =>
-        `I${i+1}[${n}]:::internal-link\nIG --> I${i+1}\n`
-      ).join("")
-    : "") +
+### Membership Structure
+- **Echo-Prime**: 1 supreme leader
+- **Harmonic Council**: 5 frequency specialists
+- **Resonance Conductors**: 25+ cell leaders
+- **Acoustic Acolytes**: 200+ trained cultists
+- **Scream Singers**: 500+ modified performers and infiltrators
+- **Noise Slaves**: 1000+ kidnapped victims used as living acoustic weapons
+- **Sympathizers**: Unknown number of individuals driven mad by Cult attacks
 
-  "```"
-)
-```
+### Recruitment Methods
 
-> [!NOTE]- Relationship Config - Enter name of People Notes
-> | Leader    | Officers    | 
-> | --- | --- | 
-> | `INPUT[list:leader]`    | `INPUT[list:officers]`    | 
-> 
-> | Members    | Initiates    | 
-> | --- | --- | 
-> | `INPUT[list:members]`    | `INPUT[list:initiates]`    |
+#### **Voluntary Conversion**
+The Cult targets individuals suffering from chronic pain, mental illness, or social isolation, offering them "release through resonance." Many join seeking relief from their suffering, only to discover the transformations are irreversible.
 
-# Enemies/Allies
-**Enemies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyEnemies]`
+#### **Acoustic Infection**
+Exposure to certain Cult sound frequencies can create psychological dependency and gradual mental breakdown. Victims slowly lose their ability to function without regular exposure to the Cult's harmonic patterns.
 
-**Allies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyAllies]`
+#### **Kidnapping and Conversion**
+The Cult regularly abducts musicians, scholars, and individuals with exceptional hearing, subjecting them to months of acoustic torture until their personalities break down completely.
 
-# People
+#### **Infiltration Networks**
+Cult members infiltrate performer guilds, communication services, and audio-technical professions, spreading their influence while maintaining cover identities.
 
-The following people are members of this group.  
+### Horrific Resources
 
-```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
-FROM "2-Campaign/People"
-WHERE contains(Connected_Groups, this.file.link)
-SORT file.name ASC
-```
+#### **The Resonance Cathedral**
+The Cult's primary headquarters, built in the acoustic ruins of a drowned opera house. The building's architecture has been modified to amplify and channel sound in impossible ways. The central chamber can reportedly be heard from any depth level when the Cult performs their most powerful rituals.
 
-```base
-properties:
-  property.char_age:
-    displayName: Age
-  property.char_gender:
-    displayName: Gender
-  property.char_race:
-    displayName: Race
-  property.char_status:
-    displayName: Status
-  file.name:
-    displayName: Name
-  note.char_status:
-    displayName: Status
-  note.char_race:
-    displayName: Race
-  note.char_gender:
-    displayName: Gender
-  note.char_age:
-    displayName: Age Range
-views:
-  - type: table
-    name: People
-    filters:
-      and:
-        - file.inFolder("02_Worldbuilding/People")
-        - Connected_Groups.contains(this)
-    order:
-      - file.name
-      - MyContainer
-      - Connected_Groups
-      - MyCategory
-      - char_status
-      - char_race
-      - char_gender
-      - char_age
-    sort:
-      - column: note.char_race
-        direction: ASC
-      - column: note.MyContainer
-        direction: ASC
-      - column: file.name
-        direction: ASC
-    columnSize:
-      file.name: 177
-      note.MyCategory: 221
-      note.MyContainer: 244
-      note.char_status: 137
-      note.char_race: 160
-      note.char_gender: 143
-      note.char_age: 149
+#### **Acoustic Weapons Arsenal**
+- **Scream Crystals**: Devices that store and replay psychically traumatic sounds
+- **Resonance Bombs**: Explosives that create devastating harmonic cascades  
+- **Silent Zones**: Portable devices that create areas of absolute acoustic deadness
+- **Frequency Weapons**: Tuned instruments that target specific brain functions
+- **Living Amplifiers**: Grotesquely modified cultists who serve as human speaker systems
 
-```
+#### **The Scream Archives**
+A vast collection of recorded acoustic torture sessions, each catalogued by emotional impact and psychological effects. The Cult uses these recordings both as weapons and as recruitment tools for potential new members.
 
-# Services
+## Goals and Methods
 
-Services offered. 
+### Primary Objectives
 
+#### **The Great Resonance**
+The Cult's ultimate goal is to synchronize every transformed being in Aquabyssos into a single, universe-shattering scream that will awaken the [[02_Worldbuilding/Lore/Aquabyssos World Overview#Hidden Truths|Things That Dwell Beneath]] and bring about what they call "The Silent Rapture" - the end of individual consciousness.
 
-> [!NOTE]+ Public Services
-> | Item   | Cost | Weight |
-> | ------ | ---- | ------ |
-> | Service 1 | 1gp  | L      |
-> | Service 2 | 1cp  | -      |
+#### **Societal Breakdown**
+Through terrorism and psychological warfare, the Cult seeks to destroy all social institutions in Aquabyssos, believing that only in complete chaos can their message of transcendence through suffering be properly heard.
 
-> [!NOTE]- Member Services
-> | Item   | Cost | Weight |
-> | ------ | ---- | ------ |
-> | Service 1 | 1gp  | L      |
-> | Service 2 | 1cp  | -      |
+#### **Acoustic Supremacy**
+The Cult wants to control all forms of communication and artistic expression in the depths, believing that they alone understand the "true language" of the transformed world.
 
-# Ranks
+#### **Universal Transformation**
+Every living being in Aquabyssos must be either converted to the Cult or driven insane by their activities. The Cult sees no middle ground between their vision and the "false sanity" of normal society.
 
-Ranks listed here
+### Methodologies
 
-- Rank 1: Benefit
-- Rank 2: Benefit
-- Rank 3: Benefit
+#### **Terrorist Attacks**
+The Cult specializes in acoustic terrorism: coordinated screaming events that drive entire districts mad, sonic bombings that collapse structures, and psychological warfare through strategic deployment of disturbing sounds.
+
+#### **Infiltration Operations**
+Cult members infiltrate key organizations as musicians, scholars, communication technicians, and entertainers, gradually corrupting these institutions from within while gathering intelligence.
+
+#### **Kidnapping and Conversion**
+The Cult maintains networks of safe houses where they conduct forced transformations on kidnapped victims, creating new recruits while eliminating potential opposition.
+
+#### **Psychological Warfare**
+Through carefully crafted acoustic environments, the Cult weakens their enemies' mental resistance over time, making entire populations more susceptible to madness and conversion.
+
+## Relationships with Other Factions
+
+### Absolute Enemies
+
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
+**Relationship**: Active Warfare
+The government considers the Cult the greatest internal threat to Aquabyssos. Special anti-acoustic police units have been created specifically to combat Cult activities, and harboring Cult members is punishable by immediate transformation to [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|Hadean Depth]] exile.
+
+#### [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+**Relationship**: Irreconcilable Opposition
+The Order's focus on celestial harmony directly conflicts with the Cult's chaotic noise philosophy. Order knights wear special acoustic protection when operating in areas of known Cult activity.
+
+#### [[02_Worldbuilding/Groups/Merchant's Covenant|Merchant's Covenant]]
+**Relationship**: Economic War
+The Cult's attacks disrupt trade and communication networks that the Covenant depends on. The Covenant has placed substantial bounties on known Cult leaders and actively shares intelligence with law enforcement.
+
+### Strange Alliances
+
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
+**Relationship**: Tactical Cooperation  
+While the Deep Dreamers find the Cult's methods distasteful, they sometimes cooperate on attacks against surface-sympathetic targets. Both groups want to accelerate the transformation of Aquabyssos, though for different reasons.
+
+#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Void Touched|The Void Touched]]
+**Relationship**: Mutual Recognition
+The Void Touched are among the few who can survive direct exposure to the Cult's most powerful acoustic weapons. Some Void Touched seek out the Cult's transformative experiences, while some Cult members see the Void Touched as examples of successful transcendence.
+
+### Complex Relationships
+
+#### Independent Criminal Organizations
+**Relationship**: Competitive Cooperation
+Other criminal groups sometimes hire the Cult for specific attacks but fear their unpredictability. The Cult occasionally works with criminals who share their interest in societal disruption.
+
+#### Traumatized Civilians
+**Relationship**: Recruitment Pool
+Many civilians who have been driven to desperation by the harsh conditions of Aquabyssos are vulnerable to the Cult's promises of release through transcendence. The Cult actively seeks out trauma victims for conversion.
+
+## Headquarters and Holdings
+
+### Primary Base: The Resonance Cathedral
+Built in the ruins of the Grand Opera House of New Thalassopolis, this horrific structure has been acoustically modified into a weapon. The building's architecture amplifies and focuses sound in ways that violate natural law, creating spaces where whispers can shatter stone and silence can drive listeners mad.
+
+**Key Features**:
+- **The Screaming Dome**: Central chamber where mass rituals are performed
+- **Echo Laboratories**: Where new acoustic weapons and torture methods are developed  
+- **The Silent Vaults**: Soundproof chambers used for interrogation and conversion
+- **Resonance Cells**: Living quarters that continuously expose inhabitants to low-level madness frequencies
+- **The Harmonic Arsenal**: Storage for the Cult's extensive collection of acoustic weapons
+
+### Secondary Holdings
+
+#### **Infiltration Bases**
+Hidden safe houses throughout Aquabyssos, often disguised as music schools, communication centers, or entertainment venues. These bases serve as staging areas for attacks and conversion centers for new recruits.
+
+#### **Acoustic Dead Zones**
+The Cult has created several areas where their Void-Echo specialists have eliminated all sound. These zones serve as refuges for cult members and storage areas for sensitive materials, but prolonged exposure drives even cultists insane.
+
+#### **Mobile Terror Platforms**
+Modified vessels equipped with massive acoustic amplification equipment, used for waterborne terror attacks and quick escapes. These platforms can generate sound-walls that prevent pursuit while delivering devastating acoustic strikes.
+
+## Quest Hooks and Adventure Seeds
+
+### For Law Enforcement Parties
+1. **The Silent Performance**: A famous cultural event has been infiltrated by the Cult. Stop the performance before it drives the entire audience insane.
+
+2. **The Resonance Cascade**: Multiple Cult cells are preparing a coordinated attack that could destabilize an entire depth level. Track down and eliminate the cells before they achieve harmonic synchronization.
+
+3. **The Acoustic Hostage**: Important political figures have been kidnapped and are being subjected to conversion torture. Rescue them before their minds are completely broken.
+
+### For Investigation Parties  
+4. **The Sound and the Fury**: Strange acoustic phenomena are appearing throughout the city. Investigate whether these are natural occurrences or signs of impending Cult activity.
+
+5. **The Missing Musicians**: Members of a prominent performer guild are disappearing. Track down the source and discover the Cult's latest recruitment operation.
+
+6. **The Echo Chamber**: A communication hub has been compromised, and messages are being subtly altered. Find and eliminate the Cult infiltrators before crucial intelligence is compromised.
+
+### For Combat Parties
+7. **The Screaming Ruins**: Clear a Cult stronghold that has been terrorizing a community, but beware the acoustic traps and converted civilians being used as weapons.
+
+8. **The Frequency War**: Engage in direct combat with a Cult cell, requiring special tactics and equipment to survive their sonic attacks.
+
+9. **The Silence Breakers**: Hunt down a Void-Echo specialist who is creating expanding dead zones that threaten to cut off entire communities from communication.
+
+### For Scholarly Parties
+10. **The Acoustic Research**: Study captured Cult weapons and techniques to develop countermeasures, but risk madness from extended exposure to their harmonic patterns.
+
+11. **The Conversion Process**: Interview recovered cult victims to understand their recruitment and transformation methods, providing intelligence for future rescues.
+
+12. **The Origin Mystery**: Research the Cult's founding to find potential weaknesses in their philosophy or methods.
+
+## Internal Wiki-Style Links
+
+**Related Organizations**:
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
+- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+- [[02_Worldbuilding/Groups/Merchant's Covenant|Merchant's Covenant]]  
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
+
+**Key Locations**:
+- [[The Resonance Cathedral]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|New Thalassopolis]]
+- [[Acoustic Dead Zones]]
+- [[Mobile Terror Platforms]]
+
+**Historical Events**:
+- [[The Silence Experiments]]
+- [[The Great Cacophony]]
+- [[The Echo Succession]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|The Great Drowning]]
+
+**Notable NPCs**:
+- [[Echo-Prime Cacophony Voidlungs]]
+- [[Doctor Harmony Whisperfall]]
+- [[Bass-Echo Rumble Deepshake]]
+- [[Mid-Echo Shriek Nerveshatter]]
+- [[Treble-Echo Whistle Brainsplitter]]
+- [[Void-Echo Silence Deafmaker]]
+- [[Chaos-Echo Discord Mindmelter]]
+
+**Specialized Equipment**:
+- [[Scream Crystals]]
+- [[Resonance Bombs]]
+- [[Frequency Weapons]]
+- [[Living Amplifiers]]
+- [[The Scream Archives]]
+
+**Cult Techniques**:
+- [[Acoustic Infection]]
+- [[The Great Resonance]]
+- [[Resonance Cascade Attacks]]
+- [[Silent Zone Creation]]
+- [[Harmonic Mind Control]]

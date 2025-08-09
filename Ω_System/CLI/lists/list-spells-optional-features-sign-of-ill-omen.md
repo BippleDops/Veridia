@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 3rd Level
 
-- [Bestow Curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB")
+- [Bestow Curse](/03_Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB")

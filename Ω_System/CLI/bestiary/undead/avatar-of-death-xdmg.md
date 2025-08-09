@@ -31,10 +31,10 @@ aliases:
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":
@@ -51,6 +51,6 @@ aliases:
     "name": "Reaping Scythe"
 "source":
   - "XDMG"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/avatar-of-death-xdmg.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/avatar-of-death-xdmg.webp"
 ```
 ^statblock

@@ -18,4 +18,4 @@ During character creation, players can select the following background for their
 
 ## Gothic Trinkets
 
-When rolling for a trinket, consider using the [Gothic Trinkets table](/3-Mechanics/CLI/items/trinket-cos.md), which is designed for a gothic game.
+When rolling for a trinket, consider using the [Gothic Trinkets table](/03_Mechanics/CLI/items/trinket-cos.md), which is designed for a gothic game.

@@ -18,7 +18,7 @@ modified: 2025-07-23 12:39
 
 
 
-When you make your character, you may roll once on the Prismari Trinkets table, instead of on the [Trinkets table](/3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the Prismari Trinkets table, instead of on the [Trinkets table](/03_Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
 
 **Prismari Trinkets**
 

@@ -34,8 +34,8 @@ aliases:
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "3"
@@ -47,6 +47,6 @@ aliases:
     "name": "Hook"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/hook-horror-spore-servant-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/hook-horror-spore-servant-oota.webp"
 ```
 ^statblock

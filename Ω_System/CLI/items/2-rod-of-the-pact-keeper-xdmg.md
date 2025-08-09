@@ -22,6 +22,6 @@ modified: 2025-07-23 12:39
 
 While holding this rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your Warlock spells.
 
-In addition, you can regain one spell slot as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action while holding the rod. You can't use this property again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+In addition, you can regain one spell slot as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action while holding the rod. You can't use this property again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 301*

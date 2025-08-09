@@ -384,7 +384,7 @@ dv.paragraph("```mermaid\nflowchart LR\n" +
 
 ```dataviewjs
 const player = dv.current();
-const factions = dv.pages('"3-Mechanics/Guilds and Groups"');
+const factions = dv.pages('"03_Mechanics/Guilds and Groups"');
 let tableData = [];
 for (let faction of factions) {
     let factionName = faction.faction;

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 
 | Symbol | Weight | Cost |
 |--------|--------|------|
-| [Amulet](/3-Mechanics/CLI/items/amulet-xphb.md) (worn or held) | 1 lb. | 5 GP |
-| [Emblem](/3-Mechanics/CLI/items/emblem-xphb.md) (borne on fabric or a Shield) | — | 5 GP |
-| [Reliquary](/3-Mechanics/CLI/items/reliquary-xphb.md) (held) | 2 lb. | 5 GP |
+| [Amulet](/03_Mechanics/CLI/items/amulet-xphb.md) (worn or held) | 1 lb. | 5 GP |
+| [Emblem](/03_Mechanics/CLI/items/emblem-xphb.md) (borne on fabric or a Shield) | — | 5 GP |
+| [Reliquary](/03_Mechanics/CLI/items/reliquary-xphb.md) (held) | 2 lb. | 5 GP |
 ^holy-symbols

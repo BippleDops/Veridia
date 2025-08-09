@@ -39,6 +39,6 @@ aliases:
     "name": "Slam"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-object-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/animated-object-xphb.webp"
 ```
 ^statblock

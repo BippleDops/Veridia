@@ -44,8 +44,8 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "1/4"
@@ -56,7 +56,7 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
     "name": "Rotting Touch"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/violet-fungus-xmm.webp"
 ```
 ^statblock
 

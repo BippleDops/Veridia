@@ -66,10 +66,10 @@ In addition, you can cast the spells from this feature while you're in a Wild Sh
 
 | Druid Level | Prepared Spells |
 |-------------|-----------------|
-| 3 | [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md), [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md), [Starry Wisp](/3-Mechanics/CLI/spells/starry-wisp-xphb.md) |
-| 5 | [Conjure Animals](/3-Mechanics/CLI/spells/conjure-animals-xphb.md) |
-| 7 | [Fount of Moonlight](/3-Mechanics/CLI/spells/fount-of-moonlight-xphb.md) |
-| 9 | [Mass Cure Wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
+| 3 | [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md), [Moonbeam](/03_Mechanics/CLI/spells/moonbeam-xphb.md), [Starry Wisp](/03_Mechanics/CLI/spells/starry-wisp-xphb.md) |
+| 5 | [Conjure Animals](/03_Mechanics/CLI/spells/conjure-animals-xphb.md) |
+| 7 | [Fount of Moonlight](/03_Mechanics/CLI/spells/fount-of-moonlight-xphb.md) |
+| 9 | [Mass Cure Wounds](/03_Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
 ^circle-of-the-moon-spells
 
 ### Circle Forms (Level 3)
@@ -78,7 +78,7 @@ You can channel lunar magic when you assume a Wild Shape form, granting you the 
 
 #### Challenge Rating
 
-The maximum [Challenge Rating](/3-Mechanics/CLI/variant-rules/challenge-rating-xphb.md) for the form equals your Druid level divided by 3 (round down).
+The maximum [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) for the form equals your Druid level divided by 3 (round down).
 
 #### Armor Class
 
@@ -86,7 +86,7 @@ Until you leave the form, your AC equals 13 plus your Wisdom modifier if that to
 
 #### Temporary Hit Points
 
-You gain a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to three times your Druid level.
+You gain a number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to three times your Druid level.
 
 ### Improved Circle Forms (Level 6)
 
@@ -102,9 +102,9 @@ You can add your Wisdom modifier to your Constitution saving throws.
 
 ### Moonlight Step (Level 10)
 
-You magically transport yourself, reappearing amid a burst of moonlight. As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you teleport up to 30 feet to an unoccupied space you can see, and you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on the next attack roll you make before the end of this turn.
+You magically transport yourself, reappearing amid a burst of moonlight. As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you teleport up to 30 feet to an unoccupied space you can see, and you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on the next attack roll you make before the end of this turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required).
 
 ### Lunar Form (Level 14)
 

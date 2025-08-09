@@ -15,16 +15,16 @@ modified: 2025-07-23 12:39
 ---
 # Ioun Stone, Insight
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ioun-stone.webp#right)
+![](/03_Mechanics/CLI/items/img/ioun-stone.webp#right)
 
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.
 
-When you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to toss an *Ioun Stone* into the air, the stone orbits your head at a distance of `d3` feet, conferring its benefit to you while doing so. You can have up to three *Ioun Stones* orbiting your head at the same time.
+When you take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to toss an *Ioun Stone* into the air, the stone orbits your head at a distance of `d3` feet, conferring its benefit to you while doing so. You can have up to three *Ioun Stones* orbiting your head at the same time.
 
 Each *Ioun Stone* orbiting your head is considered to be an object you are wearing. The orbiting stone avoids contact with other creatures and objects, adjusting its orbit to avoid collisions and thwarting all attempts by other creatures to attack or snatch it.
 
-As a [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](/3-Mechanics/CLI/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
+As a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action, you can seize and stow any number of *Ioun Stones* orbiting your head. If your [Attunement](/03_Mechanics/CLI/variant-rules/attunement-xphb.md) to an Ioun Stone ends while it's orbiting your head, the stone falls as though you had dropped it.
 
 Your Wisdom increases by 2, to a maximum of 20, while this incandescent blue sphere orbits your head.
 

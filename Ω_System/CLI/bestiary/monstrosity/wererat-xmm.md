@@ -45,9 +45,9 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common (can't speak in rat form)"
@@ -59,8 +59,8 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (2d4 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 11. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
       \ Success: The target is immune to this wererat's curse for 24 hours."
     "name": "Bite (Rat or Hybrid Form Only)"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Slashing damage."
@@ -76,7 +76,7 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wererat-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/wererat-xmm.webp"
 ```
 ^statblock
 

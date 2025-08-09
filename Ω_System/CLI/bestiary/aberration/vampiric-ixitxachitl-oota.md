@@ -43,7 +43,7 @@ Cantrips (at will): guidance, thaumaturgy
 
 2nd Level (3 slots): hold person, silence
 
-3rd Level (2 slots): [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), tongues
+3rd Level (2 slots): [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), tongues
 
 ```statblock
 "name": "Vampiric Ixitxachitl (OotA)"
@@ -82,6 +82,6 @@ Cantrips (at will): guidance, thaumaturgy
     "name": "Barbed Tail"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/vampiric-ixitxachitl-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/vampiric-ixitxachitl-oota.webp"
 ```
 ^statblock

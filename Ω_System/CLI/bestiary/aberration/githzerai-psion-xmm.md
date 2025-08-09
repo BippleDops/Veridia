@@ -79,11 +79,11 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Common, Gith"
@@ -93,25 +93,25 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit:\
       \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of\
-      \ (A) the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until\
-      \ the start of the githzerai's next turn or (B) the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ (A) the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition until\
+      \ the start of the githzerai's next turn or (B) the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition, provided the target is a Large or smaller creature."
     "name": "Psychic Warp"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
-      \ is Invisible)\n\n1/day each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+      At will: [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
+      \ is Invisible)\n\n1/day each: [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [See Invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The githzerai casts [Feather Fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md)\
+      \ or [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-psion-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/githzerai-psion-xmm.webp"
 ```
 ^statblock
 

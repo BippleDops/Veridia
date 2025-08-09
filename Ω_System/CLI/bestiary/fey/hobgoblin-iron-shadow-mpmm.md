@@ -42,11 +42,11 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
@@ -71,15 +71,15 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
       \ and its destination must be in dim light or darkness."
     "name": "Shadow Jaunt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 12):\n\nAt will: [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
-      \ each: [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [disguise\
-      \ self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)"
+      \ the spellcasting ability (spell save DC 12):\n\nAt will: [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
+      \ each: [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md), [disguise\
+      \ self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), [silent image](/03_Mechanics/CLI/spells/silent-image-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
 ```
 ^statblock
 

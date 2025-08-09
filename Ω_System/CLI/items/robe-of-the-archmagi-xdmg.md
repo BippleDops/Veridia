@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Robe of the Archmagi
 *Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/robe-of-the-archmagi.webp#right)
+![](/03_Mechanics/CLI/items/img/robe-of-the-archmagi.webp#right)
 
 
 This elegant garment is made from exquisite cloth and adorned with runes.
@@ -24,11 +24,11 @@ You gain these benefits while wearing the robe.
 
 ## Armor
 
-If you aren't wearing armor, your base [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) is 15 plus your Dexterity modifier.
+If you aren't wearing armor, your base [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md) is 15 plus your Dexterity modifier.
 
 ## Magic Resistance
 
-You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
 ## War Mage
 

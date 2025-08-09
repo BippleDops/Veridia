@@ -52,32 +52,32 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "dexterity": !!int "8"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
     "desc": "+19"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 20"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "20"
 "traits":
   - "desc": "If the pit fiend dies outside the Nine Hells, its body disappears in\
       \ sulfurous smoke, and it gains a new body instantly, reviving with all its\
-      \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) somewhere\
+      \ [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) somewhere\
       \ in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The pit fiend emanates an aura in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ while it doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "The pit fiend emanates an aura in a 20-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ while it doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition. Wisdom Saving Throw: DC 21, any enemy that starts its turn in\
-      \ the aura. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ the aura. Failure: The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to this pit fiend's aura for 24 hours."
     "name": "Fear Aura"
   - "desc": "If the pit fiend fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The pit fiend has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The pit fiend has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -86,9 +86,9 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 18 (3d6 + 8) Piercing damage.\
       \ If the target is a creature, it must make the following saving throw. Constitution\
-      \ Saving Throw: DC 21. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the\
-      \ target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ Saving Throw: DC 21. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), the\
+      \ target can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ and takes 21 (6d6) Poison damage at the start of each of its turns, and it\
       \ repeats the save at the end of each of its turns, ending the effect on itself\
       \ on a success. After 1 minute, it succeeds automatically."
@@ -98,15 +98,15 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 22 (4d6 + 8) Force damage\
       \ plus 21 (6d6) Fire damage."
     "name": "Fiery Mace"
-  - "desc": "The pit fiend casts [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\
+  - "desc": "The pit fiend casts [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md)\
       \ (level 5 version) twice, requiring no Material components and using Charisma\
-      \ as the spellcasting ability (spell save DC 21). It can replace one [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\
-      \ with [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) (level 7\
-      \ version) or [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md).\n"
+      \ as the spellcasting ability (spell save DC 21). It can replace one [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md)\
+      \ with [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) (level 7\
+      \ version) or [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md).\n"
     "name": "Hellfire Spellcasting (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/pit-fiend-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/pit-fiend-xmm.webp"
 ```
 ^statblock
 

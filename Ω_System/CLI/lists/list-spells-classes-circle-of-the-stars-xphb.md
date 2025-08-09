@@ -13,8 +13,8 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Guidance](/3-Mechanics/CLI/spells/guidance-xphb.md "XPHB") as cantrip, at class level 3
+- [Guidance](/03_Mechanics/CLI/spells/guidance-xphb.md "XPHB") as cantrip, at class level 3
 
 ## 1st Level
 
-- [Guiding Bolt](/3-Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") as cantrip, at class level 3
+- [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") as cantrip, at class level 3

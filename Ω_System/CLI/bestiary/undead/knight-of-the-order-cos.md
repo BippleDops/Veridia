@@ -40,9 +40,9 @@ aliases:
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
@@ -54,7 +54,7 @@ aliases:
     "name": "Regeneration"
   - "desc": "When the knight's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a [wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
+      \ existence and regains all its hit points. While the soul is bodiless, a [wish](/03_Mechanics/CLI/spells/wish-xphb.md)\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The knight is immune to effects that turn undead."
@@ -79,16 +79,16 @@ aliases:
     "name": "Fist"
   - "desc": "The knight targets one creature it can see within 30 feet of it and against\
       \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
-      \ On a failure, the target is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ On a failure, the target is [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ until the knight deals damage to it, or until the end of the knight's next\
-      \ turn. When the paralysis ends, the target is [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of the knight for 1 minute. The [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ turn. When the paralysis ends, the target is [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ of the knight for 1 minute. The [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if it can see the knight, ending the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ if it can see the knight, ending the [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition on itself on a success."
     "name": "Vengeful Glare"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/knight-of-the-order-cos.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/knight-of-the-order-cos.webp"
 ```
 ^statblock

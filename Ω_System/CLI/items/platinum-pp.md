@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Platinum (pp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/platinum-pp.webp#right)
+![](/03_Mechanics/CLI/items/img/platinum-pp.webp#right)
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

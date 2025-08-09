@@ -42,13 +42,13 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
   - "wisdom": !!int "6"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 19"
 "languages": "understands Common but can't speak"
 "cr": "5"
@@ -66,15 +66,15 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
       \ (2d10 + 4) slashing damage."
     "name": "Claw (Hunter Form Only)"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 22\
-      \ (4d8 + 4) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 15). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+      \ (4d8 + 4) piercing damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 15). Until this grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
       \ and the hunter can't make a Tail attack against another target."
     "name": "Tail"
   - "desc": "The hunter emits a pulse of energy that helps it better locate its magical\
       \ quarry. Each creature within 120 feet of the hunter that has the ability to\
       \ cast spells must succeed on a DC 14 Wisdom saving throw or be mystically marked\
       \ by the hunter for 1 hour.\n\nWhile marked, a creature can't become hidden\
-      \ from the hunter and gains no benefit from the [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+      \ from the hunter and gains no benefit from the [invisible](/03_Mechanics/CLI/conditions.md#Invisible)\
       \ condition against the hunter. Additionally, while a marked creature is on\
       \ the same plane of existence as the hunter, the hunter always knows the distance\
       \ and direction to the creature."
@@ -91,6 +91,6 @@ A mage hunter is usually in its sentry form, a diamond-shaped drone with a heigh
     "name": "Consume and Destroy"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mage-hunter-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/mage-hunter-scc.webp"
 ```
 ^statblock

@@ -38,12 +38,12 @@ Choose three of the following facts; you learn those facts as they pertain to th
 
 - Locations of settlements  
 - Locations of portals to other planes of existence  
-- Location of one [Challenge Rating](/3-Mechanics/CLI/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
+- Location of one [Challenge Rating](/03_Mechanics/CLI/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
 - The most prevalent kind of plant, mineral, or Beast (you choose which to learn)  
 - Locations of bodies of water  
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Barbarian (Path of the Wild Heart)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Barbarian (Path of the Wild Heart)](/03_Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

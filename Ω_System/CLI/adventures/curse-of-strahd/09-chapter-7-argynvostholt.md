@@ -16,7 +16,7 @@ When Strahd drove his enemies into the valley long ago, determined to annihilate
 
 The dragon, who called himself Argynvost, had come to the valley years earlier in the guise of a nobleman named Lord Argynvost. The dragon didn't lair in the valley solely because of its idyllic beauty. He knew of a place called the Amber Temple—a repository of evil power guarded by the forces of good. Argynvost wanted to make sure that whatever was trapped inside the Amber Temple wouldn't be allowed to escape, so he built his fortified mansion, Argynvostholt, close by.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/075-cos07-01.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/075-cos07-01.webp#center)
 
 Like many silver dragons, Argynvost was extraordinarily wealthy, and he was comfortable living among humans while disguised as one of them. He used his resources to attract other champions of good, and valorous knights flocked to the valley to join Lord Argynvost's prestigious Order of the Silver Dragon. Only those who were initiated into the order were told of Lord Argynvost's true nature.
 
@@ -28,26 +28,26 @@ Since the dragon's death, Argynvostholt has become a haunted ruin, a former bast
 > 
 > I was looking at dead men. Before another hour passed, I'd send them wailing on their way to rotting hell. All of them.
 > 
-> - [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in I, Strahd: The Memoirs of a Vampire
+> - [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in I, Strahd: The Memoirs of a Vampire
 ^425
 
 ## The Order of the Silver Dragon
 
-The death of Argynvost enraged the spirit of [Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md), the greatest of the dragon's knights. Horngaard returned as a revenant and swore to avenge the destruction of the order. His zeal was so great that it also brought back the spirits of several other knights, who rose as revenants under Vladimir's command.
+The death of Argynvost enraged the spirit of [Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md), the greatest of the dragon's knights. Horngaard returned as a revenant and swore to avenge the destruction of the order. His zeal was so great that it also brought back the spirits of several other knights, who rose as revenants under Vladimir's command.
 
 The vengeful revenants killed many of Strahd's soldiers, and whenever the undead knights were cut down, their spirits found new corpses to inhabit. Though the knights were grossly outnumbered, they waged war for months and slew hundreds of foes.
 
-When Strahd died and became a vampire, Vladimir's knights should have gone to their everlasting rest, but their spirits couldn't leave Strahd's domain. They marched to Castle Ravenloft and were confronted by the Vistani seer [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md), who told them Strahd had died, only to become a prisoner in his own land, tormented by the death of his beloved Tatyana and the murder of his brother Sergei.
+When Strahd died and became a vampire, Vladimir's knights should have gone to their everlasting rest, but their spirits couldn't leave Strahd's domain. They marched to Castle Ravenloft and were confronted by the Vistani seer [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md), who told them Strahd had died, only to become a prisoner in his own land, tormented by the death of his beloved Tatyana and the murder of his brother Sergei.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/076-cos07-02.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/076-cos07-02.webp#center)
 
 After receiving that news, Vladimir ceased his advance and led his knights back to Argynvostholt. He realized that Strahd had already died and been damned to a hell of his own creation. With nowhere else to go and nothing else to do, Vladimir set his knights to killing Strahd's agents and anyone else who might help to ease Strahd's torment. Consumed by hatred, the knights have lost their honor and nobility. Their redemption hinges on whether Vladimir can set aside that hatred. The undead knight can be found brooding in the ruins of Argynvostholt.
 
-The spirit of the dragon Argynvost isn't at rest, either. It can sense that the knights have been corrupted, and it reaches out to the characters, hoping they will help the knights find peace. If the characters retrieve the dragon's skull from Castle Ravenloft and place it in the mausoleum of Argynvostholt, the dragon's spirit ascends to the highest tower of the mansion and transforms into a beacon of light that flashes across Barovia. The light of the beacon reminds [Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) of what he has lost, enabling him and his fellow knights to let go of their hatred and find both redemption and rest.
+The spirit of the dragon Argynvost isn't at rest, either. It can sense that the knights have been corrupted, and it reaches out to the characters, hoping they will help the knights find peace. If the characters retrieve the dragon's skull from Castle Ravenloft and place it in the mausoleum of Argynvostholt, the dragon's spirit ascends to the highest tower of the mansion and transforms into a beacon of light that flashes across Barovia. The light of the beacon reminds [Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) of what he has lost, enabling him and his fellow knights to let go of their hatred and find both redemption and rest.
 
 > [!note] Revenants of Barovia
 > 
-> A [revenant](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md), as described in the "Monster Manual", has a year to achieve its revenge before its body crumbles to dust and its soul enters the afterlife. In Barovia, however, a revenant can remain in its body indefinitely, and once it has reaped its vengeance, its soul remains trapped in Barovia.
+> A [revenant](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md), as described in the "Monster Manual", has a year to achieve its revenge before its body crumbles to dust and its soul enters the afterlife. In Barovia, however, a revenant can remain in its body indefinitely, and once it has reaped its vengeance, its soul remains trapped in Barovia.
 > 
 > If the body of a revenant is destroyed before its vengeance is fulfilled, its spirit seeks out a new corpse or skeleton to animate. To determine where the revenant's new body rises, roll a `d20` and consult the following table.
 ^revenants-of-barovia
@@ -83,8 +83,8 @@ When the characters first come within sight of Argynvostholt, read:
 The following areas correspond to labels on the maps of Argynvostholt below.
 
 > [!gallery]
-> ![Map 7.1: Argynvostholt (Area Q)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/077-020.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/078-cos701.webp#gallery)
+> ![Map 7.1: Argynvostholt (Area Q)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/077-020.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/078-cos701.webp#gallery)
 
 ### Q1. Dragon Statue
 
@@ -95,7 +95,7 @@ The following areas correspond to labels on the maps of Argynvostholt below.
 
 The fog makes it hard to see the dragon's features from a distance, but close inspection reveals that it's a silver dragon of noble bearing, its spiny frill cracked and broken in many places. The statue is 10 feet tall but looks much more imposing perched on the granite block.
 
-If scrutinized with a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell, the statue radiates an aura of evocation magic. The dragon statue used to breathe a cone of cold as part of a magic trap, but the trap no longer works (see area Q2).
+If scrutinized with a [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell, the statue radiates an aura of evocation magic. The dragon statue used to breathe a cone of cold as part of a magic trap, but the trap no longer works (see area Q2).
 
 ### Q2. Main Entrance
 
@@ -137,7 +137,7 @@ The draconic shadow is ominous yet harmless.
 > Rubble is strewn throughout much of this vast chamber, caused by the partial collapse of the rooms above it. On the pink marble floor, fallen chandeliers lie amid broken chairs and other furnishings. Thick webs stretch from wall to wall, and moving among them are too many giant spiders to count!
 ^434
 
-Nine [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) nest here. They attack anyone who gets too close.
+Nine [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) nest here. They attack anyone who gets too close.
 
 ### Q5. Ruined Stable
 
@@ -210,7 +210,7 @@ Lord Argynvost's household staff once slept here. The room contains nothing of v
 > This kitchen has been plundered, its tables overturned. The floor is littered with rusted utensils and smashed crockery. Narrow windows flanking a hearth look out over a cemetery. An open iron pot hangs from a hook inside the blackened fireplace. It rattles on its hook and bobs up and down, as though something is inside it.
 ^443
 
-The iron pot contains an ordinary [bat](/3-Mechanics/CLI/bestiary/beast/bat-xmm.md). When the characters get close, it flies out and flaps about the room.
+The iron pot contains an ordinary [bat](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md). When the characters get close, it flies out and flaps about the room.
 
 ### Q11. Wine Storage
 
@@ -219,11 +219,11 @@ The iron pot contains an ordinary [bat](/3-Mechanics/CLI/bestiary/beast/bat-xmm.
 > Five barrels lie in wooden braces along the walls of this dark, moldy storage room.
 ^445
 
-Hiding behind the barrels is a wounded elf named [Savid](/3-Mechanics/CLI/bestiary/npc/savid-cos.md) (N male dusk elf [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)). He has 4 hit points remaining and is grateful for any healing the characters can provide.
+Hiding behind the barrels is a wounded elf named [Savid](/03_Mechanics/CLI/bestiary/npc/savid-cos.md) (N male dusk elf [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)). He has 4 hit points remaining and is grateful for any healing the characters can provide.
 
-[Savid](/3-Mechanics/CLI/bestiary/npc/savid-cos.md) lives with the other dusk elves of Barovia in the Vistani camp outside Vallaki (chapter 5, area N9). He was searching the woods for a missing Vistani girl named [Arabelle](/3-Mechanics/CLI/bestiary/npc/arabelle-cos.md) when a wandering mob of needle blights accosted him. He was forced to take refuge in the mansion.
+[Savid](/03_Mechanics/CLI/bestiary/npc/savid-cos.md) lives with the other dusk elves of Barovia in the Vistani camp outside Vallaki (chapter 5, area N9). He was searching the woods for a missing Vistani girl named [Arabelle](/03_Mechanics/CLI/bestiary/npc/arabelle-cos.md) when a wandering mob of needle blights accosted him. He was forced to take refuge in the mansion.
 
-[Savid](/3-Mechanics/CLI/bestiary/npc/savid-cos.md), who is more than four hundred years old, volunteers the following useful information:
+[Savid](/03_Mechanics/CLI/bestiary/npc/savid-cos.md), who is more than four hundred years old, volunteers the following useful information:
 
 - Argynvost was a silver dragon that liked to assume human forms. Argynvostholt was the dragon's home.  
 - In human guise, the noble dragon led a group of knights called the Order of the Silver Dragon. They gave shelter to refugees who had come to the valley to escape Strahd's army. Strahd's soldiers slew the dragon, destroyed the order, and sacked the mansion.  
@@ -244,7 +244,7 @@ A secret door at the north end of the west wall can be pulled open to reveal a d
 > Five sets of wooden doors lead to this hall. The doors in the northeast corner hang open. A pair of leaded glass doors, their panes cracked and broken, stand open between panels of stained glass set into the east wall. These panels depict silver dragons in flight. Beyond the glass doors lies a dark, misty room that appears to be a chapel.
 ^447
 
-A [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spell was cast on the crystal chandelier long ago and has never been dispelled. The knight statues are lifelike but inanimate.
+A [continual flame](/03_Mechanics/CLI/spells/continual-flame-xphb.md) spell was cast on the crystal chandelier long ago and has never been dispelled. The knight statues are lifelike but inanimate.
 
 ### Q13. Chapel of Morning
 
@@ -260,11 +260,11 @@ If the beacon has not been lit (see areas Q16 and Q53), add:
 > Through the fog, you see three armored figures kneeling before the altar.
 ^44a
 
-The figures are three [revenants](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md) clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
+The figures are three [revenants](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md) clad in tattered chain mail that affords the same protection as leather armor. Each revenant wields a longsword. If the beacon is lit, the revenants are cleansed of their hatred and laid to rest, and the characters find three armored corpses with longswords lying on the floor in front of the altar.
 
 The revenants, if still active, are blinded by their hate and attack the characters on sight, seeking to drive them out of Argynvostholt. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`2d10 + 4`) slashing damage on a hit.
 
-Characters who study the room's iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
+Characters who study the room's iconography and orientation (the fact that it draws light from the east) can determine, with a successful DC 10 Intelligence ([Religion](/03_Mechanics/CLI/skills.md#Religion)) check, that the chapel is dedicated to a god of the dawn. Anyone familiar with Barovian religion can conclude that the god in question is the Morninglord.
 
 The balcony (area Q24) is 20 feet high and can be reached by climbing either spiral staircase (area Q14).
 
@@ -299,7 +299,7 @@ The strange man watches the characters through the southeast window of area Q42.
 
 The mausoleum is described in area Q16.
 
-The thick fog obscures the fact that five of the graves have been dug up. Closer inspection and a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals that the corpses buried there crawled out of the earth. Of the missing corpses there is no sign, but the surrounding fence is intact, which suggests that no one got into the cemetery from outside. (These corpses were animated by the spirits of revenants and clawed their way out.)
+The thick fog obscures the fact that five of the graves have been dug up. Closer inspection and a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check reveals that the corpses buried there crawled out of the earth. Of the missing corpses there is no sign, but the surrounding fence is intact, which suggests that no one got into the cemetery from outside. (These corpses were animated by the spirits of revenants and clawed their way out.)
 
 A stone staircase curls up the outside of a turret to a flagstone landing in front of a sturdy wooden door. The door is barred from the inside and opens into the chapel (area Q13).
 
@@ -359,7 +359,7 @@ There are two of these rooms.
 > The south end of this room has collapsed, exposing the chamber to the elements. A few furnishings lie broken under fallen debris from the level above.
 ^45b
 
-The wooden floor creaks underfoot. Although it is safe to walk on, doing so attracts the [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) from area Q4. The spiders crawl up into the room and attack. The floor here is 20 feet above the floor of the ballroom.
+The wooden floor creaks underfoot. Although it is safe to walk on, doing so attracts the [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) from area Q4. The spiders crawl up into the room and attack. The floor here is 20 feet above the floor of the ballroom.
 
 ### Q20. South Alcove
 
@@ -420,9 +420,9 @@ The doors behind the throne lead to areas Q20 and Q21. A wooden railing surround
 > This T-shaped hallway has branches to the west, east, and south. Three arched windows in the north wall look out over the foggy grounds.
 ^468
 
-The ceiling in the hall is 20 feet high. The wooden doors to areas Q27 and Q28 are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the map) are trapped. When a character enters one of these squares, a floor-to-ceiling [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md) (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [phantom warriors](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
+The ceiling in the hall is 20 feet high. The wooden doors to areas Q27 and Q28 are locked, requiring a successful DC 20 Strength check to break down. The 10-foot squares in front of the doors (marked T on the map) are trapped. When a character enters one of these squares, a floor-to-ceiling [wall of stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md) (created by the spell of the same name) magically appears across the opening on the south wall. At the same time, the [phantom warriors](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) in areas Q27 and Q28 rush through the doors (which can be freely opened from their side) and attack.
 
-The wall of stone vanishes after 10 minutes, at which time the trap resets. Characters who cast a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell in the hall can perceive hazy auras of evocation magic in front of the doors.
+The wall of stone vanishes after 10 minutes, at which time the trap resets. Characters who cast a [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell in the hall can perceive hazy auras of evocation magic in front of the doors.
 
 ### Q26. Northeast Guest Room
 
@@ -440,11 +440,11 @@ When one or more characters approach within 10 feet of the fireplace, add:
 > A small, hissing dragon made of ash and smoke erupts from the fireplace, filling the room with soot as it beats its wings.
 ^46b
 
-The smoky dragonet has the statistics of a [smoke mephit](/3-Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md) but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase (area Q17), through the curtain at area Q30, over the rubble in area Q33, and into area Q36. Once there, it lands on the back of Vladimir's throne and disappears.
+The smoky dragonet has the statistics of a [smoke mephit](/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md) but fights only in self-defense. If left alone, it flies out of the room at a speed of 30 feet, up the spiral staircase (area Q17), through the curtain at area Q30, over the rubble in area Q33, and into area Q36. Once there, it lands on the back of Vladimir's throne and disappears.
 
 > [!gallery]
-> ![Map 7.2: Argynvostholt (Ar...](/3-Mechanics/CLI/adventures/curse-of-strahd/img/079-021.webp#gallery "Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon")
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/080-cos702.webp#gallery)
+> ![Map 7.2: Argynvostholt (Ar...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/079-021.webp#gallery "Map 7.2: Argynvostholt (Area Q) - Rooftop and Beacon")
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/080-cos702.webp#gallery)
 
 ### Q27. Knights' Quarters
 
@@ -453,7 +453,7 @@ The smoky dragonet has the statistics of a [smoke mephit](/3-Mechanics/CLI/besti
 > This room is littered with the wreckage of ancient bunk beds. Five dirt-caked windows allow precious little light to enter, and between them are four empty armor stands. Empty torch sconces line the walls.
 ^46d
 
-Four [phantom warriors](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
+Four [phantom warriors](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
 
 ### Q28. Knights' Quarters
 
@@ -462,11 +462,11 @@ Four [phantom warriors](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md)
 > Tattered and faded drapes cover the windows of this circular room, and empty torch sconces line the walls. Broken bunk beds and armor stands are strewn on the floor.
 ^470
 
-Three [phantom warriors](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
+Three [phantom warriors](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) haunt this room. They manifest only when the characters enter the room or trigger the magic trap in area Q25. They fight until destroyed.
 
 #### Treasure
 
-Buried under the wreckage is a small wooden coffer containing four [potions of invulnerability](/3-Mechanics/CLI/items/potion-of-invulnerability-xdmg.md). A search of the room yields this lost cache.
+Buried under the wreckage is a small wooden coffer containing four [potions of invulnerability](/03_Mechanics/CLI/items/potion-of-invulnerability-xdmg.md). A search of the room yields this lost cache.
 
 ### Q29. Northwest Guest Room
 
@@ -507,7 +507,7 @@ The floor here is 40 feet above of the floor of the ballroom (area Q4). The roof
 
 The ceiling here is 20 feet high, and the rubble is difficult terrain.
 
-[Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) (see area Q36) can hear visitors climbing over the rubble and can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised) by them.
+[Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) (see area Q36) can hear visitors climbing over the rubble and can't be [surprised](/03_Mechanics/CLI/conditions.md#Surprised) by them.
 
 ### Q34. Ruined Bathroom
 
@@ -532,7 +532,7 @@ From north to south, the three stained-glass windows portray Saint Andral, the M
 > The west wall of this fifty-foot-long, thirty-foot-wide audience hall has crumbled, leaving a gaping hole and a pile of rubble. Weapons and shields that once hung from the walls have fallen to the floor and succumbed to rust. A large, wooden throne carved to resemble a dragon with unfolding wings faces three tall windows to the west. Slumped in the throne is a gaunt, armored figure with one gauntlet wrapped around the hilt of a greatsword.
 ^47f
 
-[Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) (see appendix D), commander of the fallen Order of the Silver Dragon, is slumped in the throne. If the beacon of Argynvostholt (see area Q53) has been lit, the corpse is lifeless, and characters can plunder it freely (see "Treasure" below).
+[Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) (see appendix D), commander of the fallen Order of the Silver Dragon, is slumped in the throne. If the beacon of Argynvostholt (see area Q53) has been lit, the corpse is lifeless, and characters can plunder it freely (see "Treasure" below).
 
 If the beacon has not been lit, the body is serving as a host for the revenant. If the characters approach it, it says, "Go away." If they don't leave immediately, read:
 
@@ -540,16 +540,16 @@ If the beacon has not been lit, the body is serving as a host for the revenant. 
 > 
 > The creature's grip on the greatsword tightens. "If you have come to destroy me, know this: I perished defending this land from evil over four centuries ago, and because of my failure, I am forever doomed. If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down. You cannot free me from my damnation, nor would I wish it."
 > 
-> "If you have come to free this land from the creature that feasts on the blood of the innocent, know this: There is no monster I hate more than [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). He slew Argynvost, broke the life of the knight I loved, and destroyed the valiant order to which I devoted my life, but Strahd has already died once. He can't be allowed to die again. Instead, he must suffer eternally in a hell of his own creation, from which he can never escape. Whatever can be done to bring him misery and unrest, I will do, but I will destroy anyone who tries to end his torment."
+> "If you have come to free this land from the creature that feasts on the blood of the innocent, know this: There is no monster I hate more than [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). He slew Argynvost, broke the life of the knight I loved, and destroyed the valiant order to which I devoted my life, but Strahd has already died once. He can't be allowed to die again. Instead, he must suffer eternally in a hell of his own creation, from which he can never escape. Whatever can be done to bring him misery and unrest, I will do, but I will destroy anyone who tries to end his torment."
 ^480
 
-Vladimir fights in self-defense. He also rises from his throne and attacks if the characters fail to heed his warning and press him for help destroying Strahd. The first time Vladimir takes damage, six [phantom warriors](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) materialize and join the fray, coming to his defense.
+Vladimir fights in self-defense. He also rises from his throne and attacks if the characters fail to heed his warning and press him for help destroying Strahd. The first time Vladimir takes damage, six [phantom warriors](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) materialize and join the fray, coming to his defense.
 
 Hatred so clouds Vladimir's mind that he can't remember that Sir Godfrey (area Q37) was his beloved in life. If Sir Godfrey helps the characters and faces Vladimir, anguished recognition shines in Vladimir's eyes, yet only lighting the beacon can free him.
 
 #### Treasure
 
-[Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) wields a [+2 greatsword](/3-Mechanics/CLI/items/2-weapon-xdmg.md).
+[Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) wields a [+2 greatsword](/03_Mechanics/CLI/items/2-weapon-xdmg.md).
 
 Vladimir wears a platinum holy symbol of the Morninglord (worth 250 gp) around his neck, underneath his half plate armor.
 
@@ -573,30 +573,30 @@ If the beacon in area Q53 has been lit, the spirits of these revenants are laid 
 > The corpses tilt their heads in your direction. One of them growls, "Why do you the living disturb the dead?"
 ^486
 
-The skeletal figures are five [revenants](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md). All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`2d10 + 4`) slashing damage on a hit.
+The skeletal figures are five [revenants](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md). All five are lawful evil. They are awaiting orders from Vladimir (area Q36) and fight only in self-defense. The revenants wear broken chainmail that affords as much protection as leather armor, and they wield longswords. As an action, a revenant attacks twice with its longsword, wielding the weapon with both hands and dealing 15 (`2d10 + 4`) slashing damage on a hit.
 
-One of the revenants, [Sir Godfrey Gwilym](/3-Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md), is a spellcaster with a challenge rating of 6 (2,300 XP) and the following additional feature:
+One of the revenants, [Sir Godfrey Gwilym](/03_Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md), is a spellcaster with a challenge rating of 6 (2,300 XP) and the following additional feature:
 
 > [!note] 
 > 
 > **Spellcasting.** Sir Godfrey is a 16th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 14). Sir Godfrey has the following paladin spells prepared:
 > 
-> 1st level (4 slots): [command](/3-Mechanics/CLI/spells/command-xphb.md), [divine favor](/3-Mechanics/CLI/spells/divine-favor-xphb.md), [thunderous smite](/3-Mechanics/CLI/spells/thunderous-smite-xphb.md)
+> 1st level (4 slots): [command](/03_Mechanics/CLI/spells/command-xphb.md), [divine favor](/03_Mechanics/CLI/spells/divine-favor-xphb.md), [thunderous smite](/03_Mechanics/CLI/spells/thunderous-smite-xphb.md)
 > 
-> 2nd level (3 slots): [branding smite](/3-Mechanics/CLI/spells/shining-smite-xphb.md), [magic weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md)
+> 2nd level (3 slots): [branding smite](/03_Mechanics/CLI/spells/shining-smite-xphb.md), [magic weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md)
 > 
-> 3rd level (3 slots): [blinding smite](/3-Mechanics/CLI/spells/blinding-smite-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)
+> 3rd level (3 slots): [blinding smite](/03_Mechanics/CLI/spells/blinding-smite-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md)
 > 
-> 4th level (2 slots): [staggering smite](/3-Mechanics/CLI/spells/staggering-smite-xphb.md)
+> 4th level (2 slots): [staggering smite](/03_Mechanics/CLI/spells/staggering-smite-xphb.md)
 ^487
 
 Characters who inspect the fireplace notice a shield-shaped patch on the wall above the mantelpiece. A magic shield once hung above the fireplace, but it was taken when Strahd's soldiers plundered the mansion. It now rests in Castle Ravenloft's treasury (chapter 4, area K41).
 
 #### Development
 
-![Sir Godfrey Gwilym](/3-Mechanics/CLI/adventures/curse-of-strahd/img/081-cos07-05.webp#center)
+![Sir Godfrey Gwilym](/03_Mechanics/CLI/adventures/curse-of-strahd/img/081-cos07-05.webp#center)
 
-Sir Godfrey can sense that the spirit of Argynvost isn't at rest and isn't happy that the order has been reduced to such a state. If the characters petition the revenants for aid, Sir Godfrey (speaking in a scratchy voice) relates all the information presented at the start of the chapter concerning Argynvost and the rise and fall of the Order of the Silver Dragon. Neither he nor the other revenants can help the characters in any meaningful way, however, because of the oaths they have sworn to [Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md).
+Sir Godfrey can sense that the spirit of Argynvost isn't at rest and isn't happy that the order has been reduced to such a state. If the characters petition the revenants for aid, Sir Godfrey (speaking in a scratchy voice) relates all the information presented at the start of the chapter concerning Argynvost and the rise and fall of the Order of the Silver Dragon. Neither he nor the other revenants can help the characters in any meaningful way, however, because of the oaths they have sworn to [Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md).
 
 #### Fortunes of Ravenloft
 
@@ -620,7 +620,7 @@ If the beacon in area Q53 has been lit, Sir Godfrey remains a revenant even afte
 > Light enters this circular room through five cracked windows. The light falls on a large, dust-covered bed in the center of the room, its posts topped with wood-carved dragons. Two large animals flank the double doors. One is a brown bear standing on its hind legs, its claws outstretched. The other is a dire wolf, its face frozen in an evil snarl. Near the wolf lies an empty wooden chest.
 ^48e
 
-This room once served as a bedchamber for Sir [Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) and [Sir Godfrey Gwilym](/3-Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md). The bear and the dire wolf are stuffed and harmless. Looters ransacked the chest long ago, leaving nothing of value.
+This room once served as a bedchamber for Sir [Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) and [Sir Godfrey Gwilym](/03_Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md). The bear and the dire wolf are stuffed and harmless. Looters ransacked the chest long ago, leaving nothing of value.
 
 ### Q40. Argynvost's Study
 
@@ -653,7 +653,7 @@ If the characters study the whole picture above the mantelpiece, read:
 > The picture shows the mansion in better days, under clear winter skies with snow-capped mountains in the background. The top of the chapel tower glows like a silver beacon.
 ^494
 
-The picture radiates an aura of transmutation magic under the scrutiny of a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell, but the aura is weak. If the characters repair the picture using a [mending](/3-Mechanics/CLI/spells/mending-xphb.md) cantrip, read:
+The picture radiates an aura of transmutation magic under the scrutiny of a [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell, but the aura is weak. If the characters repair the picture using a [mending](/03_Mechanics/CLI/spells/mending-xphb.md) cantrip, read:
 
 > [!readaloud] 
 > 
@@ -684,7 +684,7 @@ Argynvost preferred to sleep in his dragon form. Thus, there is no furniture her
 
 ### Q43. Hole in Roof
 
-This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the floor of which is 20 feet below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. A failure by 5 or more causes the climber to slide down to the parapet, landing [prone](/3-Mechanics/CLI/conditions.md#Prone) but taking no damage.
+This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the floor of which is 20 feet below. The rubble on the roof surrounding the hole is difficult terrain. The roof is sloped and covered with cracked stone tiles. Climbing the tiled roof requires a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. A failure by 5 or more causes the climber to slide down to the parapet, landing [prone](/03_Mechanics/CLI/conditions.md#Prone) but taking no damage.
 
 ### Q44. Dragon Gargoyle
 
@@ -693,7 +693,7 @@ This 20-foot-diameter hole in the mansion's roof is directly above area Q33, the
 > Perched on the rooftop overlooking the parapet is a silver-plated gargoyle shaped like a dragon wyrmling.
 ^49c
 
-The silver dragon wyrmling statue is 10 feet above the parapet and has a [magic mouth](/3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell cast on it. When a character passes in front of it, the spell is activated, and the wyrmling whispers the following short verse in the Common tongue:
+The silver dragon wyrmling statue is 10 feet above the parapet and has a [magic mouth](/03_Mechanics/CLI/spells/magic-mouth-xphb.md) spell cast on it. When a character passes in front of it, the spell is activated, and the wyrmling whispers the following short verse in the Common tongue:
 
 *When the dragon dreams its dream*
 
@@ -775,7 +775,7 @@ The doors lead to the rooftops of the turrets (area Q52).
 > A stone battlement encloses the roof of this turret. A spiral staircase descends to the level below.
 ^4ad
 
-These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers' posts—small rooms lined with arrow slits. Standing guard in each of these rooms is a [phantom warrior](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) with a spectral longbow that shoots arrows of force energy. The two phantom warriors gain the following action options:
+These turret rooftops are 80 feet above ground level. The spiral stairs descend 20 feet to archers' posts—small rooms lined with arrow slits. Standing guard in each of these rooms is a [phantom warrior](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D) with a spectral longbow that shoots arrows of force energy. The two phantom warriors gain the following action options:
 
 > [!note] 
 > 
@@ -791,7 +791,7 @@ These turret rooftops are 80 feet above ground level. The spiral stairs descend 
 > Wooden stairs climb to the tower's peak, which has a stone floor and a thirty-foot-high pitched roof. Ravens roost on crisscrossing rafters, coming and going through small holes in the roof. Ten-foot-high, five-foot-wide arched windows are evenly spaced around the walls. Each window consists of a lead latticework fitted with small panes of transparent glass.
 ^4b2
 
-The [ravens](/3-Mechanics/CLI/bestiary/beast/raven-xmm.md) that roost here are harmless, but they watch the characters with great interest. If the characters look out the windows, you can use the following text to describe what they see in the distance.
+The [ravens](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md) that roost here are harmless, but they watch the characters with great interest. If the characters look out the windows, you can use the following text to describe what they see in the distance.
 
 > [!readaloud] 
 > 
@@ -814,7 +814,7 @@ While the beacon shines, characters and other creatures that oppose Strahd gain 
 
 ##### Revenants at Rest
 
-[Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) and the other revenants that haunt Barovia see the light as a reminder of all that was once good and noble about the knightly order to which they once belonged. They let go of their hatred and their corporeal bodies, leaving corpses behind as their spirits find rest at long last. Henceforth, any random encounter with a revenant should be treated as no encounter.
+[Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) and the other revenants that haunt Barovia see the light as a reminder of all that was once good and noble about the knightly order to which they once belonged. They let go of their hatred and their corporeal bodies, leaving corpses behind as their spirits find rest at long last. Henceforth, any random encounter with a revenant should be treated as no encounter.
 
 #### Fortunes of Ravenloft
 
@@ -826,18 +826,18 @@ You can use one or both of the following events as the characters explore Argynv
 
 ### Special Delivery
 
-This encounter occurs while the characters are inside Argynvostholt. Those who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 11 or higher hear the clopping of horse hooves and the crunch of wagon wheels on gravel.
+This encounter occurs while the characters are inside Argynvostholt. Those who have a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 11 or higher hear the clopping of horse hooves and the crunch of wagon wheels on gravel.
 
-A cart pulled by a [draft horse](/3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) and driven by a mad Vistana named Kolya (CN male human [bandit](/3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)) stops in front of the mansion. After relieving himself on the statue of Argynvost (area Q1), Kolya untethers the horse and rides back to the Vistani camp outside Vallaki (chapter 5, area N9), leaving the cart and its cargo: a plain wooden coffin.
+A cart pulled by a [draft horse](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) and driven by a mad Vistana named Kolya (CN male human [bandit](/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)) stops in front of the mansion. After relieving himself on the statue of Argynvost (area Q1), Kolya untethers the horse and rides back to the Vistani camp outside Vallaki (chapter 5, area N9), leaving the cart and its cargo: a plain wooden coffin.
 
-The coffin was made in Vallaki by the local coffin maker, [Henrik van der Voort](/3-Mechanics/CLI/bestiary/npc/henrik-van-der-voort-cos.md) (see chapter 5, area N6). It has the name of one of the characters (determined randomly) neatly chiseled into its lid. Opening the coffin releases a [swarm of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) from within. The swarm attacks the character whose name is engraved on the coffin. If that character isn't in sight, the swarm flies away.
+The coffin was made in Vallaki by the local coffin maker, [Henrik van der Voort](/03_Mechanics/CLI/bestiary/npc/henrik-van-der-voort-cos.md) (see chapter 5, area N6). It has the name of one of the characters (determined randomly) neatly chiseled into its lid. Opening the coffin releases a [swarm of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) from within. The swarm attacks the character whose name is engraved on the coffin. If that character isn't in sight, the swarm flies away.
 
 ### Arrigal's Hunt
 
-[Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D) arrives at Argynvostholt on the back of a [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) stolen from the Vistani camp outside Vallaki (chapter 5, area N9). She has heard that the reportedly haunted mansion might harbor enemies of Strahd and contain secrets to the vampire's destruction.
+[Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D) arrives at Argynvostholt on the back of a [riding horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) stolen from the Vistani camp outside Vallaki (chapter 5, area N9). She has heard that the reportedly haunted mansion might harbor enemies of Strahd and contain secrets to the vampire's destruction.
 
 Once she arrives, Ezmerelda releases the horse (which flees back to its camp) and quietly makes her way through the mansion until she reaches the characters.
 
-Hot on Ezmerelda's trail are the Vistani leader [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) (NE male human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)) and two Vistani bodyguards (CE female [bandits](/3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)). [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) rides a black [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md), while the bandits ride two [dire wolves](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md). These dire wolves are servants of Strahd and can't be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened).
+Hot on Ezmerelda's trail are the Vistani leader [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) (NE male human [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)) and two Vistani bodyguards (CE female [bandits](/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)). [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) rides a black [riding horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md), while the bandits ride two [dire wolves](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md). These dire wolves are servants of Strahd and can't be [charmed](/03_Mechanics/CLI/conditions.md#Charmed) or [frightened](/03_Mechanics/CLI/conditions.md#Frightened).
 
-[Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishment for horse theft. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda. For more information on [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md), see chapter 5, area N9c.
+[Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishment for horse theft. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda. For more information on [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md), see chapter 5, area N9c.

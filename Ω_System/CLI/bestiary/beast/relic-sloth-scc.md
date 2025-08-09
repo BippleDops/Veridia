@@ -36,24 +36,24 @@ For long expeditions, Lorehold mages often employ relic sloths to haul adventuri
   - !!int "8"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 14\
-      \ (2d8 + 5) slashing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (2d8 + 5) slashing damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 15). The relic sloth can grapple no more than two targets at a\
       \ time."
     "name": "Claws"
 "reactions":
   - "desc": "When the relic sloth is subjected to an effect that would move it out\
-      \ of its current space or knock it [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-      \ it is neither moved nor knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ of its current space or knock it [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+      \ it is neither moved nor knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Slow but Sturdy"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/relic-sloth-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/relic-sloth-scc.webp"
 ```
 ^statblock

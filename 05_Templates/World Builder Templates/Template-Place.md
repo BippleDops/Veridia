@@ -1,7 +1,7 @@
 ---
 tags:
   - Category/Place
-MyContainer: "[[z_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]"
+MyContainer: "[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]"
 MyCategory: Commerce
 obsidianUIMode: preview
 ---
@@ -135,7 +135,7 @@ The following items are available for purchase.
 ```dataviewjs
 // This dataviewjs code grabs a random item(s) from the folder below. You can remove this if that's not useful. It's an example of what's possible. 
 // 1. grab all pages in the folder
-let pages = dv.pages('"3-Mechanics/Items"').values;
+let pages = dv.pages('"03_Mechanics/Items"').values;
 
 // 2. shuffle
 for (let i = pages.length - 1; i > 0; i--) {

@@ -37,19 +37,19 @@ To create an art elemental mascot, a mage draws power from a blend of all the na
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "[Performance](/03_Mechanics/CLI/skills.md#Performance)"
     "desc": "+4"
 "damage_resistances": "cold, fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
 "traits":
   - "desc": "When the elemental dies, it explodes in a burst of colored light. Each\
       \ creature within 5 feet of the elemental must succeed on a DC 11 Constitution\
-      \ saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded) for 1\
-      \ minute. A [blinded](/3-Mechanics/CLI/conditions.md#Blinded) creature can repeat\
+      \ saving throw or be [blinded](/03_Mechanics/CLI/conditions.md#Blinded) for 1\
+      \ minute. A [blinded](/03_Mechanics/CLI/conditions.md#Blinded) creature can repeat\
       \ the save at the end of each of its turns, ending the effect on itself on a\
       \ success."
     "name": "Death Burst"
@@ -61,13 +61,13 @@ To create an art elemental mascot, a mage draws power from a blend of all the na
       \ (2d4 + 1) cold damage."
     "name": "Melancholic Bolt"
   - "desc": "The elemental targets one creature it can see within 30 feet of itself.\
-      \ The target must succeed on a DC 12 Charisma saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ for 1 minute. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target\
+      \ The target must succeed on a DC 12 Charisma saving throw or be [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ for 1 minute. The [charmed](/03_Mechanics/CLI/conditions.md#Charmed) target\
       \ can repeat the save at the end of each of its turns, ending the effect on\
       \ itself on a success."
     "name": "Captivating Artistry (1/Day)"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/art-elemental-mascot-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/art-elemental-mascot-scc.webp"
 ```
 ^statblock

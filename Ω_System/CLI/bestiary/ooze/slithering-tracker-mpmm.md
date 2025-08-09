@@ -43,17 +43,17 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - !!int "11"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+6"
 "damage_vulnerabilities": "cold, fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [deafened](/03_Mechanics/CLI/conditions.md#Deafened),\
+  \ [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "blindsight 120 ft., passive Perception 12"
 "languages": "understands languages it knew in its previous form but can't speak"
 "cr": "3"
@@ -61,7 +61,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
   - "desc": "If the slithering tracker is motionless at the start of combat, it has\
       \ advantage on its initiative roll. Moreover, if a creature hasn't observed\
       \ the slithering tracker move or act, that creature must succeed on a DC 18\
-      \ Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check\
+      \ Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check\
       \ to discern that the slithering tracker isn't a puddle."
     "name": "False Appearance"
   - "desc": "The slithering tracker can enter an enemy's space and stop there. It\
@@ -75,23 +75,23 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
       \ + 3) bludgeoning damage."
     "name": "Slam"
   - "desc": "One Large or smaller creature that the slithering tracker can see within\
-      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 13). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ and unable to breathe unless it can breathe water. In addition, the [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 13). Until this grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ and unable to breathe unless it can breathe water. In addition, the [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ target takes 16 (3d10) necrotic damage at the start of each of its turns.\
       \ The slithering tracker can grapple only one target at a time.\n\nWhile grappling\
       \ the target, the slithering tracker takes only half any damage dealt to it\
       \ (rounded down), and the target takes the other half."
     "name": "Life Leech"
 "bonus_actions":
-  - "desc": "If underwater, the slithering tracker takes the [Hide](/3-Mechanics/CLI/actions.md#Hide)\
-      \ action, and it makes the Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "If underwater, the slithering tracker takes the [Hide](/03_Mechanics/CLI/actions.md#Hide)\
+      \ action, and it makes the Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth))\
       \ check with advantage."
     "name": "Watery Stealth"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/slithering-tracker-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/ooze/token/slithering-tracker-mpmm.webp"
 ```
 ^statblock
 

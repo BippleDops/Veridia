@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Ring of Feather Falling
 *Ring, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-feather-falling.webp#right)
+![](/03_Mechanics/CLI/items/img/ring-of-feather-falling.webp#right)
 
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.

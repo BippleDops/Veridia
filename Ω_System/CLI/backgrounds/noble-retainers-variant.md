@@ -14,10 +14,10 @@ modified: 2025-07-23 12:39
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](/03_Mechanics/CLI/skills.md#History), [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), a [signet ring](/3-Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [fine clothes](/03_Mechanics/CLI/items/fine-clothes-xphb.md), a [signet ring](/03_Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
 
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 

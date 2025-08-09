@@ -25,7 +25,7 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [Awaken](/3-Mechanics/CLI/spells/awaken-xphb.md) or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [Awaken](/03_Mechanics/CLI/spells/awaken-xphb.md) or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 
@@ -59,7 +59,7 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
     "name": "Rake"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/awakened-shrub-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/awakened-shrub-xmm.webp"
 ```
 ^statblock
 

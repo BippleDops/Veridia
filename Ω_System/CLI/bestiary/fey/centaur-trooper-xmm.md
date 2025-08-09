@@ -48,9 +48,9 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
@@ -64,16 +64,16 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ damage."
     "name": "Longbow"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The centaur moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. Strength\
       \ Saving Throw: DC 14. Failure: 7 (1d6 + 4) Bludgeoning damage, and the target\
-      \ has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
     "name": "Trampling Charge (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/centaur-trooper-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/centaur-trooper-xmm.webp"
 ```
 ^statblock
 

@@ -18,6 +18,6 @@ modified: 2025-07-23 12:39
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to force damage while wearing this ring. The ring is set with sapphire.
+You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to force damage while wearing this ring. The ring is set with sapphire.
 
 *Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -15,11 +15,11 @@ modified: 2025-07-23 12:39
 ---
 # Amulet of the Planes
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/amulet-of-the-planes.webp#right)
+![](/03_Mechanics/CLI/items/img/amulet-of-the-planes.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-While wearing this amulet, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you cast [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md). On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `d100` and consulting the following table.
+While wearing this amulet, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you cast [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md). On a failed check, you and each creature and object within 15 feet of you travel to a random destination determined by rolling `d100` and consulting the following table.
 
 `dice: [](amulet-of-the-planes-xdmg.md#^1-destination)`
 

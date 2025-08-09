@@ -22,6 +22,6 @@ modified: 2025-07-23 12:39
 
 - **Ability.** Dexterity  
 - **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [Ink](/3-Mechanics/CLI/items/ink-xphb.md), [Spell Scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md)  
+- **Craft.** [Ink](/03_Mechanics/CLI/items/ink-xphb.md), [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

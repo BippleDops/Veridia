@@ -18,19 +18,19 @@ For centuries, Blingdenstone remained hidden and isolated from the rest of the U
 
 This alliance, however, would spell Blingdenstone's doom. The vengeful drow bided their time, rebuilt their forces, and sent their armies out to strike back hard against the svirfneblin, returning in great force to lay siege to Blingdenstone. The deep gnomes were no match for the drow army. Thousands of svirfneblin were slaughtered, and those survivors who didn't escape to Mithral Hall or the surface world were dragged back in chains to Menzoberranzan as slaves.
 
-Within the past decade or so, the deep gnomes have returned to reclaim, resettle, and rebuild their city. The ultimate success of their efforts, however, hangs by a slender thread. Most of the ruined city is a dangerous place and remains closed off, with tunnels and chambers barricaded with gates or deliberately caused cave-ins. The svirfneblin must contend with incursions by wererat squatters, insane elementals, ghosts, and a plague of invading oozes controlled by [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)—a mad deep gnome under the influence of the demon lord Juiblex. Before they can offer the party any help, the deep gnomes likely need some themselves.
+Within the past decade or so, the deep gnomes have returned to reclaim, resettle, and rebuild their city. The ultimate success of their efforts, however, hangs by a slender thread. Most of the ruined city is a dangerous place and remains closed off, with tunnels and chambers barricaded with gates or deliberately caused cave-ins. The svirfneblin must contend with incursions by wererat squatters, insane elementals, ghosts, and a plague of invading oozes controlled by [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)—a mad deep gnome under the influence of the demon lord Juiblex. Before they can offer the party any help, the deep gnomes likely need some themselves.
 
 ## Going to Blingdenstone
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/052-ooa06-01.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/052-ooa06-01.webp#center)
 
 Blingdenstone is an obvious destination for characters seeking refuge from their drow pursuers and a way out of the Underdark. The deep gnomes continue to have regular dealings with the surface world.
 
-Among the party's fellow escapees, the deep gnome [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) is the most enthusiastic about visiting Blingdenstone, and he can lead the adventurers there. [Topsy](/3-Mechanics/CLI/bestiary/npc/topsy-oota.md) and [Turvy](/3-Mechanics/CLI/bestiary/npc/turvy-oota.md) also know the way, but they are noticeably less willing to go to the settlement because of the fear and shame they feel regarding their lycanthropic affliction. The shield dwarf scout [Eldeth Feldrun](/3-Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) isn't sure how to reach the gnome settlement, but is in favor of going there if it offers a route to the surface or to Gauntlgrym. If the characters allow [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) (the sentient gelatinous cube from "The Oozing Temple" in chapter 2) to accompany them, it feels a certain pull toward Blingdenstone, and is curious enough to guide the characters there.
+Among the party's fellow escapees, the deep gnome [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md) is the most enthusiastic about visiting Blingdenstone, and he can lead the adventurers there. [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md) and [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md) also know the way, but they are noticeably less willing to go to the settlement because of the fear and shame they feel regarding their lycanthropic affliction. The shield dwarf scout [Eldeth Feldrun](/03_Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) isn't sure how to reach the gnome settlement, but is in favor of going there if it offers a route to the surface or to Gauntlgrym. If the characters allow [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) (the sentient gelatinous cube from "The Oozing Temple" in chapter 2) to accompany them, it feels a certain pull toward Blingdenstone, and is curious enough to guide the characters there.
 
 ### Drow Pursuers
 
-The svirfneblin settlement is a haven for the characters. For good reason, the deep gnomes rarely allow drow into Blingdenstone, and only then with a heavily armed escort. A drow character must succeed on a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check to enter escorted. However, if any deep gnomes are traveling with the party, having them vouch for the drow allows the escort to be waived at your discretion.
+The svirfneblin settlement is a haven for the characters. For good reason, the deep gnomes rarely allow drow into Blingdenstone, and only then with a heavily armed escort. A drow character must succeed on a DC 15 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check to enter escorted. However, if any deep gnomes are traveling with the party, having them vouch for the drow allows the escort to be waived at your discretion.
 
 The party's drow pursuers won't attempt to follow the characters into Blingdenstone. The party's pursuit level (see "Drow Pursuit" in chapter 2) doesn't change while they are in the svirfneblin settlement.
 
@@ -55,7 +55,7 @@ The characters must prove their goodwill to the deep gnomes before they are allo
 
 The general attitude of deep gnomes toward strangers is hostile—not necessarily opposed, but deeply suspicious. This attitude can be shifted to indifferent and then friendly as the characters help the svirfneblin openly (see ""Social Interaction"" in chapter 8 of the *Dungeon Master's Guide*).
 
-Some deeds in Blingdenstone reward the characters with an automatic attitude shift, while others require a DC 15 group Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check. If the group check succeeds, the attitude of the svirfneblin shifts by one. If characters are rude or act in a way to make the deep gnomes more suspicious toward them, they must also make another group check. If this group check fails, the deep gnomes' attitude worsens by one.
+Some deeds in Blingdenstone reward the characters with an automatic attitude shift, while others require a DC 15 group Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check. If the group check succeeds, the attitude of the svirfneblin shifts by one. If characters are rude or act in a way to make the deep gnomes more suspicious toward them, they must also make another group check. If this group check fails, the deep gnomes' attitude worsens by one.
 
 ### Random Encounters in Blingdenstone
 
@@ -68,25 +68,25 @@ Once per day while the characters are exploring the deep gnome settlement, roll 
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–10 | No encounter |
-| 11 | `1d4 + 1` [animated drow statues](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) |
-| 12 | `1d4 + 2` [cave badgers](/3-Mechanics/CLI/bestiary/beast/cave-badger-oota.md) |
+| 11 | `1d4 + 1` [animated drow statues](/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) |
+| 12 | `1d4 + 2` [cave badgers](/03_Mechanics/CLI/bestiary/beast/cave-badger-oota.md) |
 | 13 | Dungeon hazard |
 | 14 | Elemental vagabonds |
-| 15 | `1d4 + 2` [fiendish giant spiders](/3-Mechanics/CLI/bestiary/beast/fiendish-giant-spider-oota.md) |
-| 16 | 1 [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) |
+| 15 | `1d4 + 2` [fiendish giant spiders](/03_Mechanics/CLI/bestiary/beast/fiendish-giant-spider-oota.md) |
+| 16 | 1 [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) |
 | 17 | Mephit gang |
 | 18 | Roaming ooze |
-| 19 | `1d4 + 1` [svirfneblin wererats](/3-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) |
-| 20 | 1 [xorn](/3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md) |
+| 19 | `1d4 + 1` [svirfneblin wererats](/03_Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) |
+| 20 | 1 [xorn](/03_Mechanics/CLI/bestiary/elemental/xorn-xmm.md) |
 ^encounter
 
 #### Animated Drow Statues
 
-Once part of a expedition from Menzoberranzan, these drow were [petrified](/3-Mechanics/CLI/conditions.md#Petrified) by a medusa and later animated by Ogrémoch's Bane (see "Settlers, Squatters, and Invaders" later in this chapter). They have the statistics of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md), except they are elementals instead of constructs.
+Once part of a expedition from Menzoberranzan, these drow were [petrified](/03_Mechanics/CLI/conditions.md#Petrified) by a medusa and later animated by Ogrémoch's Bane (see "Settlers, Squatters, and Invaders" later in this chapter). They have the statistics of [animated armor](/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm.md), except they are elementals instead of constructs.
 
 #### Cave Badgers
 
-The svirfneblin use these beasts as part of their digging workforce. [Cave badgers](/3-Mechanics/CLI/bestiary/beast/cave-badger-oota.md) are giant badgers with AC 12 (natural armor), [tremorsense](/3-Mechanics/CLI/senses.md#Tremorsense) out to a range of 60 feet, and a burrowing speed of 15 feet. When they burrow, they leave tunnels behind them.
+The svirfneblin use these beasts as part of their digging workforce. [Cave badgers](/03_Mechanics/CLI/bestiary/beast/cave-badger-oota.md) are giant badgers with AC 12 (natural armor), [tremorsense](/03_Mechanics/CLI/senses.md#Tremorsense) out to a range of 60 feet, and a burrowing speed of 15 feet. When they burrow, they leave tunnels behind them.
 
 #### Dungeon Hazard
 
@@ -105,15 +105,15 @@ The characters approach a section of Blingdenstone in horrible disrepair. If the
 
 #### Elemental Vagabonds
 
-A [dust mephit](/3-Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md) guides an [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) through the caverns and passages of Blingdenstone. If approached peacefully, they can point the way to Entémoch's Boon (see "Blingdenstone Outskirts" later in this chapter).
+A [dust mephit](/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md) guides an [earth elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) through the caverns and passages of Blingdenstone. If approached peacefully, they can point the way to Entémoch's Boon (see "Blingdenstone Outskirts" later in this chapter).
 
 #### Fiendish Giant Spiders
 
-Former servants of the drow, these [spiders](/3-Mechanics/CLI/bestiary/beast/fiendish-giant-spider-oota.md) burn with baleful energy. Treat them as [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) with a challenge rating of 1/2 (100 XP), resistance to cold, fire, and lightning damage, and immunity to poison damage. They are also immune to the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition.
+Former servants of the drow, these [spiders](/03_Mechanics/CLI/bestiary/beast/fiendish-giant-spider-oota.md) burn with baleful energy. Treat them as [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) with a challenge rating of 1/2 (100 XP), resistance to cold, fire, and lightning damage, and immunity to poison damage. They are also immune to the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition.
 
 #### Ghost
 
-Some of the svirfneblin who perished during the drow invasion didn't go easily, and their [ghosts](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) linger. When the characters encounter one of these ghosts, roll a `d20` and consult the Ghost's Attitude table to determine the attitude of the ghost.
+Some of the svirfneblin who perished during the drow invasion didn't go easily, and their [ghosts](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) linger. When the characters encounter one of these ghosts, roll a `d20` and consult the Ghost's Attitude table to determine the attitude of the ghost.
 
 #### Ghost's Attitude
 
@@ -129,25 +129,25 @@ Some of the svirfneblin who perished during the drow invasion didn't go easily, 
 
 #### Mephit Gang
 
-A mephit gang consists of `d4` [dust mephits](/3-Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md) and `d4` [mud mephits](/3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md). If encountered in Inner Blingdenstone or Rockblight, they are insane and attack immediately. Otherwise, they mock the party but don't fight except in self-defense.
+A mephit gang consists of `d4` [dust mephits](/03_Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md) and `d4` [mud mephits](/03_Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md). If encountered in Inner Blingdenstone or Rockblight, they are insane and attack immediately. Otherwise, they mock the party but don't fight except in self-defense.
 
 #### Roaming Ooze
 
-The presence of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (see "The Pudding Court" later in this chapter) is drawing oozes to Blingdenstone. Roll a `d4` and consult the Roaming Ooze table to determine what appears.
+The presence of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (see "The Pudding Court" later in this chapter) is drawing oozes to Blingdenstone. Roll a `d4` and consult the Roaming Ooze table to determine what appears.
 
 `dice: [](06-chapter-6-blingdenstone.md#^encounter)`
 
 | dice: d4 | Encounter |
 |----------|-----------|
-| 1 | 1 [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
-| 2 | 1 [gelatinous cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) |
-| 3 | `1d4 + 1` [gray oozes](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md), one of which is a psychic gray ooze variant (as described in the *Monster Manual*) |
-| 4 | `d2` [ochre jellies](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
+| 1 | 1 [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
+| 2 | 1 [gelatinous cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) |
+| 3 | `1d4 + 1` [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md), one of which is a psychic gray ooze variant (as described in the *Monster Manual*) |
+| 4 | `d2` [ochre jellies](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
 ^encounter
 
 #### Svirfneblin Wererats
 
-These wererats belong to Clan Goldwhisker and are searching for new places to settle within the ruins of the former city. They're always hostile and attack the party if they can't flee. Use the [wererat](/3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md) stat block in the *Monster Manual* with a few modifications: [svirfneblin wererats](/3-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) are Small and have the following additional features.
+These wererats belong to Clan Goldwhisker and are searching for new places to settle within the ruins of the former city. They're always hostile and attack the party if they can't flee. Use the [wererat](/03_Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md) stat block in the *Monster Manual* with a few modifications: [svirfneblin wererats](/03_Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) are Small and have the following additional features.
 
 > [!note] 
 > 
@@ -155,20 +155,20 @@ These wererats belong to Clan Goldwhisker and are searching for new places to se
 > 
 > **Innate Spellcasting.** The wererat's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 > 
-> At will: [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) (self only)
+> At will: [nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md) (self only)
 > 
-> 1/day each: [blindness/deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](/3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md)
+> 1/day each: [blindness/deafness](/03_Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](/03_Mechanics/CLI/spells/blur-xphb.md), [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md)
 > 
-> **Stone Camouflage.** The wererat has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
+> **Stone Camouflage.** The wererat has advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 ^272
 
 #### Xorn
 
-This creature leaves the characters alone if they feed it as least 50 gp worth of gems or precious metals. Otherwise, it follows them around Blingdenstone, hoping that they leave behind something it can eat. The [xorn](/3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md) is antisocial and doesn't help the party in any way.
+This creature leaves the characters alone if they feed it as least 50 gp worth of gems or precious metals. Otherwise, it follows them around Blingdenstone, hoping that they leave behind something it can eat. The [xorn](/03_Mechanics/CLI/bestiary/elemental/xorn-xmm.md) is antisocial and doesn't help the party in any way.
 
 > [!note] Cornered Rats
 > 
-> If they are with the party, [Topsy](/3-Mechanics/CLI/bestiary/npc/topsy-oota.md) and [Turvy](/3-Mechanics/CLI/bestiary/npc/turvy-oota.md) do their best to conceal and resist their lycanthropic curse if the adventurers have not already learned of it. In the time since they were imprisoned in Velkynvelve, the two have likely undergone their wererat transformation at least once. When the decision is made to go to Blingdenstone, the twins might come clean about leaving home because of their curse, or they could abandon the adventurers and strike out on their own. In any event, they might fall in with the Goldwhisker clan of wererats, either on their own or with the adventurers' help.
+> If they are with the party, [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md) and [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md) do their best to conceal and resist their lycanthropic curse if the adventurers have not already learned of it. In the time since they were imprisoned in Velkynvelve, the two have likely undergone their wererat transformation at least once. When the decision is made to go to Blingdenstone, the twins might come clean about leaving home because of their curse, or they could abandon the adventurers and strike out on their own. In any event, they might fall in with the Goldwhisker clan of wererats, either on their own or with the adventurers' help.
 ^cornered-rats
 
 ### Important NPCs
@@ -186,7 +186,7 @@ When the characters visit Blingdenstone, they can meet one or more of the follow
 | **Kazook Pickshine** | Alchemist and ore specialist who receives and gives quests |
 | **Chipgrin Goldwhisker** | Leader of the wererat colony |
 | **Burrow Warden Jadger** | Undead leader of the burrow wardens |
-| The [Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) | Insane deep gnome enthralled by the demon lord Juiblex |
+| The [Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) | Insane deep gnome enthralled by the demon lord Juiblex |
 
 ### Settlers, Squatters, and Invaders
 
@@ -206,13 +206,13 @@ Quartermaster Senni takes the count and measure of everything, ensuring her husb
 
 The svirfneblin base most of their economic subsistence on their ability to mine ores and gems. The settlement is largely self-sufficient, but it still relies on the duergar of Mantol-Derith for tools, weapons, and supplies.
 
-Because the Blingdenstone economy depends on mining, the Miners' Guild holds a lot of power in Blingdenstone. Led by the Pickshine family, the Miners' Guild oversees all of Blingdenstone's mines, as well as the mining, cutting, and enchanting of [spell gems](/3-Mechanics/CLI/items/spell-gem-oota.md) (see appendix B), both for the settlement's defense and for trade export.
+Because the Blingdenstone economy depends on mining, the Miners' Guild holds a lot of power in Blingdenstone. Led by the Pickshine family, the Miners' Guild oversees all of Blingdenstone's mines, as well as the mining, cutting, and enchanting of [spell gems](/03_Mechanics/CLI/items/spell-gem-oota.md) (see appendix B), both for the settlement's defense and for trade export.
 
 #### Stoneheart Enclave
 
 This group of svirfneblin spellcasters once trained under the Emerald Enclave but eventually splintered off, choosing to focus solely on earth elemental magic. After doing so, they absorbed the surviving priesthood serving the deep gnome deities Segojan Earthcaller (the god of deep earth and nature) and Callarduran Smoothhands (the god of stone and mining).
 
-The Stoneheart Enclave is in charge of summoning earth elementals to help defend Blingdenstone. They also use their magic to aid in various engineering tasks, such as widening burrows, closing off tunnels, or establishing [spell gem](/3-Mechanics/CLI/items/spell-gem-oota.md) emplacements and defensive measures. When needed, the spellcasters of the Stoneheart Enclave serve as extraplanar diplomats, forging occasional agreements with xorn and galeb duhr to aid Blingdenstone.
+The Stoneheart Enclave is in charge of summoning earth elementals to help defend Blingdenstone. They also use their magic to aid in various engineering tasks, such as widening burrows, closing off tunnels, or establishing [spell gem](/03_Mechanics/CLI/items/spell-gem-oota.md) emplacements and defensive measures. When needed, the spellcasters of the Stoneheart Enclave serve as extraplanar diplomats, forging occasional agreements with xorn and galeb duhr to aid Blingdenstone.
 
 The enclave's leader is Yantha Coaxrock, a young female mage who splits her time and energy between conducting magical research in Blingdenstone, aiding the svirfneblin enclave in Mantol-Derith (see chapter 9), and working with the rest of the Stoneheart Enclave.
 
@@ -222,7 +222,7 @@ Most of the honored protectors of the svirfneblin died during the drow invasion,
 
 In the last year, a handful of svirfneblin youths have been training in secret under the rather terrifying care of the veteran Burrow Warden Jadger, who lingers on as a ghost. In life, Jadger was an expert in the Underdark and its many denizens, as well as how to fight them. He is grooming his brightest student, Trisk Adamantelpiece, to command the new burrow wardens, who are preparing to announce their existence to the Diggermattocks and demand recognition as the new Burrow Wardens of Blingdenstone.
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/053-ooa06-02.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/053-ooa06-02.webp#center)
 
 #### Ghosts of Blingdenstone
 
@@ -244,11 +244,11 @@ Today, deep gnome wererats claims a large chunk of the ruins under the name of C
 
 The so-called Pudding King holds court in the deepest sections of Blingdenstone. He was part of the first settler mission led by the Diggermattocks, but the other svirfneblin soon shunned him for his many disturbing habits, among them his preoccupation with capturing and studying oozes, and his penchant for stealing and hoarding food until it rotted... and then talking to it.
 
-The shunned deep gnome eventually struck out on his own. He spent years living among the oozes of the region, eventually subjugating a black pudding he calls "[Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md)" and a gray ooze he calls "Prince Livid." When the demon lords arrived in the Underdark, he followed the oozes drawn by Juiblex's presence, immediately throwing himself down before the Faceless Lord and pledging his eternal loyalty. His previous name and existence ended in that moment, and now there is only [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
+The shunned deep gnome eventually struck out on his own. He spent years living among the oozes of the region, eventually subjugating a black pudding he calls "[Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md)" and a gray ooze he calls "Prince Livid." When the demon lords arrived in the Underdark, he followed the oozes drawn by Juiblex's presence, immediately throwing himself down before the Faceless Lord and pledging his eternal loyalty. His previous name and existence ended in that moment, and now there is only [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
 
-Juiblex granted [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) the power to summon and command oozes, then ordered him to return to Blingdenstone and claim it as part of the Faceless Lord's new domain. [The Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) slipped back into the closed-off areas of Blingdenstone and set up court, summoning all manner of oozes along the way and rendering portions of the ruined city uninhabitable and dangerous to outsiders.
+Juiblex granted [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) the power to summon and command oozes, then ordered him to return to Blingdenstone and claim it as part of the Faceless Lord's new domain. [The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) slipped back into the closed-off areas of Blingdenstone and set up court, summoning all manner of oozes along the way and rendering portions of the ruined city uninhabitable and dangerous to outsiders.
 
-Utterly insane and channeling a terrible power, [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) sits upon his throne with his "children" at his side, summoning ever more loyal subjects with each passing day. When he is ready, he will send them forth to cover and devour everything, transforming Blingdenstone and its people into one giant mound of slime and goo formed in the image of his master, the Faceless Lord.
+Utterly insane and channeling a terrible power, [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) sits upon his throne with his "children" at his side, summoning ever more loyal subjects with each passing day. When he is ready, he will send them forth to cover and devour everything, transforming Blingdenstone and its people into one giant mound of slime and goo formed in the image of his master, the Faceless Lord.
 
 ## Blingdenstone Outskirts
 
@@ -260,7 +260,7 @@ Svirfneblin in the outskirts are more curt with strangers, and a few might even 
 
 > [!note] Problems Cubed
 > 
-> If the gelatinous cube [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) travels with the party (see chapter 4), its presence poses a few challenges in Blingdenstone. The recent ooze attacks have the deep gnomes rattled, and an intelligent, telepathic gelatinous cube is something beyond their understanding. The characters have to convince the svirfneblin to allow their unusual companion inside, or tell it to remain outside the settlement. If left outside, [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) might eventually find its way in through the wererat warrens, giving the characters insight into how the other oozes are getting in, or appearing in the nick of time to help the characters if they find themselves in peril.
+> If the gelatinous cube [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) travels with the party (see chapter 4), its presence poses a few challenges in Blingdenstone. The recent ooze attacks have the deep gnomes rattled, and an intelligent, telepathic gelatinous cube is something beyond their understanding. The characters have to convince the svirfneblin to allow their unusual companion inside, or tell it to remain outside the settlement. If left outside, [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) might eventually find its way in through the wererat warrens, giving the characters insight into how the other oozes are getting in, or appearing in the nick of time to help the characters if they find themselves in peril.
 ^problems-cubed
 
 ### Entémoch's Boon
@@ -275,9 +275,9 @@ If the circle is used to cast a spell that summons an earth elemental, the spell
 
 Locating the tunnel that leads to Entémoch's Boon is a great service for the svirfneblin, and might be a quest set for the adventurers (see "Blingdenstone Factions" later in this chapter). Despite how close the cavern is to Blingdenstone, finding it is no easy task.
 
-Characters can search for the tunnel by traveling at a slow pace in its general vicinity. Each day they search, have the characters make a DC 20 group Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or group Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check. If the group check succeeds, the characters find a curious waymarker: a small pyramid of carefully stacked stones next to the mouth of an otherwise unassuming tunnel.
+Characters can search for the tunnel by traveling at a slow pace in its general vicinity. Each day they search, have the characters make a DC 20 group Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) or group Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check. If the group check succeeds, the characters find a curious waymarker: a small pyramid of carefully stacked stones next to the mouth of an otherwise unassuming tunnel.
 
-After locating the waymarker and following the tunnel next to it, the party can make a DC 20 group Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check. On a failure, the party wastes a day searching for the next waymarker. If the group check succeeds, the characters find their next lead after `2d6` hours: a tunnel whose entrance is flanked by the sculpted faces of a male and female deep gnome. This tunnel features many side tunnels concealed by rock formations. The party must make a DC 20 group Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)), Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)), or Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check. If this group check succeeds, the party finds Entémoch's Boon; if the check fails, the characters waste a day of exploration searching for it.
+After locating the waymarker and following the tunnel next to it, the party can make a DC 20 group Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) or Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check. On a failure, the party wastes a day searching for the next waymarker. If the group check succeeds, the characters find their next lead after `2d6` hours: a tunnel whose entrance is flanked by the sculpted faces of a male and female deep gnome. This tunnel features many side tunnels concealed by rock formations. The party must make a DC 20 group Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)), Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)), or Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check. If this group check succeeds, the party finds Entémoch's Boon; if the check fails, the characters waste a day of exploration searching for it.
 
 Finding Entémoch's Boon allows the characters to make a check to improve the attitude of the deep gnomes (see "Changing Svirfneblin Attitudes").
 
@@ -287,9 +287,9 @@ For each day of exploration, check for random encounters using the tables in cha
 
 #### The Beasts of Entémoch's Boon
 
-Characters who explore the cavern find shattered bits of statuary. A successful DC 17 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check confirms that the stone bits are the remains of [petrified](/3-Mechanics/CLI/conditions.md#Petrified) cave vermin. Unless they leave the cavern immediately, the characters are accosted by a mated pair of [basilisks](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) that call Entémoch's Boon home.
+Characters who explore the cavern find shattered bits of statuary. A successful DC 17 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check confirms that the stone bits are the remains of [petrified](/03_Mechanics/CLI/conditions.md#Petrified) cave vermin. Unless they leave the cavern immediately, the characters are accosted by a mated pair of [basilisks](/03_Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) that call Entémoch's Boon home.
 
-Once the basilisks are defeated, characters can resume their exploration of the cave and find three basilisk eggs in a nest made of pulverized stone. Each egg is a 6-inch-diameter, 20-pound sphere with a pebbled-gray shell as hard as stone. Left alone, the eggs hatch in `1d4 + 1` months. An [infant basilisk](/3-Mechanics/CLI/bestiary/monstrosity/infant-basilisk-oota.md) that emerges imprints on the first creature it sees. It thereafter follows that creature around like its parent, demanding to be fed. If the characters manage to keep the basilisk alive, it reaches adulthood after twelve months. Track its growth using the Basilisk Maturation table.
+Once the basilisks are defeated, characters can resume their exploration of the cave and find three basilisk eggs in a nest made of pulverized stone. Each egg is a 6-inch-diameter, 20-pound sphere with a pebbled-gray shell as hard as stone. Left alone, the eggs hatch in `1d4 + 1` months. An [infant basilisk](/03_Mechanics/CLI/bestiary/monstrosity/infant-basilisk-oota.md) that emerges imprints on the first creature it sees. It thereafter follows that creature around like its parent, demanding to be fed. If the characters manage to keep the basilisk alive, it reaches adulthood after twelve months. Track its growth using the Basilisk Maturation table.
 
 #### Basilisk Maturation
 
@@ -302,7 +302,7 @@ Once the basilisks are defeated, characters can resume their exploration of the 
 
 ### Whiteshell Mine
 
-Blingdenstone's largest salt mine is half a day's travel to the south. Like many of Blingdenstone's resource sites, the road to the mine is easy to miss by casual travelers, but sentries hiding along the way can recognize friendly visitors (such as those in the company of [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md), [Topsy](/3-Mechanics/CLI/bestiary/npc/topsy-oota.md), or [Turvy](/3-Mechanics/CLI/bestiary/npc/turvy-oota.md)) and guide them along the proper tunnels.
+Blingdenstone's largest salt mine is half a day's travel to the south. Like many of Blingdenstone's resource sites, the road to the mine is easy to miss by casual travelers, but sentries hiding along the way can recognize friendly visitors (such as those in the company of [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md), [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md), or [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md)) and guide them along the proper tunnels.
 
 Whiteshell Mine is an interconnected network of small caverns dug into the vast salt veins lining this area of the Underdark. The mine produces enough salt to supply both the Blingdenstone settlers and sell in the market hub of Mantol-Derith. The mine has a cavern devoted to keeping the giant cave lizards the svirfneblin use as beasts of burden.
 
@@ -310,15 +310,15 @@ The deep gnome Perigrog Scrapedust runs the mine with a fair but demanding hand.
 
 ### Pickshine Mines
 
-Renamed after the largest and most influential family in the Miners' Guild, the Pickshine Mines comprise several mines scattered in a wide circle around Blingdenstone. The deep gnomes have engineered the access tunnels in such a way that only one known entrance leads to the mine complex, and this entrance is defended by four [galeb duhr](/3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) disguised to look like ordinary boulders and a dozen [deep gnomes](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md).
+Renamed after the largest and most influential family in the Miners' Guild, the Pickshine Mines comprise several mines scattered in a wide circle around Blingdenstone. The deep gnomes have engineered the access tunnels in such a way that only one known entrance leads to the mine complex, and this entrance is defended by four [galeb duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) disguised to look like ordinary boulders and a dozen [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md).
 
 The largest mine shafts include veins of common metals such as iron and copper, as well as many veins of rarer minerals such as mithral and adamantine. The mines also hold crystal caverns where the svirfneblin harvest all manner of gems.
 
-All the main routes to Blingdenstone intersect near the mine complex's main entrance, meaning the characters are likely to pass it before arriving in Blingdenstone. If they stop there, they meet Dasco Pickshine, the [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) overseer in charge of general operations. Dasco is willing to let the characters tag along with a cargo of ores heading for Blingdenstone, happy to have the extra security.
+All the main routes to Blingdenstone intersect near the mine complex's main entrance, meaning the characters are likely to pass it before arriving in Blingdenstone. If they stop there, they meet Dasco Pickshine, the [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) overseer in charge of general operations. Dasco is willing to let the characters tag along with a cargo of ores heading for Blingdenstone, happy to have the extra security.
 
 ### Stoneheart Quarry
 
-The Stoneheart Enclave has its headquarters in this cavern suffused with *faerzress* and elemental energy. This quarry doesn't provide stone for construction, since Blingdenstone builders need only take a pick to any wall to find their building materials. Rather, this cavern provides the small army of earth elementals aiding the settlers, and its magical stone is used in the creation of items such as [earth elemental gems](/3-Mechanics/CLI/items/elemental-gem-xdmg.md), [rings of earth elemental command](/3-Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md), and [stones of controlling earth elementals](/3-Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg.md). Elementals entering into the Material Plane here, whether by spell or other means, have an additional 2 Hit Dice.
+The Stoneheart Enclave has its headquarters in this cavern suffused with *faerzress* and elemental energy. This quarry doesn't provide stone for construction, since Blingdenstone builders need only take a pick to any wall to find their building materials. Rather, this cavern provides the small army of earth elementals aiding the settlers, and its magical stone is used in the creation of items such as [earth elemental gems](/03_Mechanics/CLI/items/elemental-gem-xdmg.md), [rings of earth elemental command](/03_Mechanics/CLI/items/ring-of-elemental-command-earth-xdmg.md), and [stones of controlling earth elementals](/03_Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg.md). Elementals entering into the Material Plane here, whether by spell or other means, have an additional 2 Hit Dice.
 
 Normally, Yantha Coaxrock leads the operations in the quarry. While she is in Mantol-Derith (see chapter 9), her apprentice Nomi Pathshutter is in charge of the druids and wizards of the Stoneheart Enclave.
 
@@ -332,8 +332,8 @@ Nomi Pathshutter is aware of Ogrémoch's Bane and has made it her life's work to
 ^doors-of-blingdenstone
 
 > [!gallery]
-> ![Map 6.1: Blingdenstone](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/054-06-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/055-blingdenstone-player-version.webp#gallery)
+> ![Map 6.1: Blingdenstone](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/054-06-02.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/055-blingdenstone-player-version.webp#gallery)
 
 ## Outer Blingdenstone
 
@@ -345,7 +345,7 @@ Rising up to a broad terrace before the gate, these wide stairs are built for gn
 
 #### 1a. Cart Lift
 
-At the top of the stairs is a large entrance on the west wall, where wagons are secured on stone sleds pulled by a chain up a steep slope. The hoisting mechanism is at the top of the lift is operated by an [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md), although any creature with a Strength of 20 or any group of creatures with the combined strength to lift 600 pounds can operate it.
+At the top of the stairs is a large entrance on the west wall, where wagons are secured on stone sleds pulled by a chain up a steep slope. The hoisting mechanism is at the top of the lift is operated by an [earth elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md), although any creature with a Strength of 20 or any group of creatures with the combined strength to lift 600 pounds can operate it.
 
 The lift's tunnel is wide enough for the sleds but has little clearance above them. The floor is part of the mechanism and is difficult terrain. Climbing in and out of a sled costs 10 feet of movement.
 
@@ -355,17 +355,17 @@ The main gate of Blingdenstone is a door made of steel and mithral, inlaid with 
 
 The terrace between the top of the stairs and the gate has a slight upward slope. The slope imposes disadvantage on checks made to ram the gate.
 
-Eight [deep gnomes](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) guard the gate. One of them carries a [spell gem](/3-Mechanics/CLI/items/spell-gem-oota.md) (see appendix B) that contains a [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md) spell and uses it to scan for [invisible](/3-Mechanics/CLI/conditions.md#Invisible) creatures when the party arrives. Arriving characters are questioned to determine their intentions. The guards are thorough but not threatening; as long as the characters seem benign, they are granted entry. Four of the guards escort them through the maze (area 3) and the gauntlet (area 4) to Inner Blingdenstone.
+Eight [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) guard the gate. One of them carries a [spell gem](/03_Mechanics/CLI/items/spell-gem-oota.md) (see appendix B) that contains a [see invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md) spell and uses it to scan for [invisible](/03_Mechanics/CLI/conditions.md#Invisible) creatures when the party arrives. Arriving characters are questioned to determine their intentions. The guards are thorough but not threatening; as long as the characters seem benign, they are granted entry. Four of the guards escort them through the maze (area 3) and the gauntlet (area 4) to Inner Blingdenstone.
 
-Having [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md), [Topsy](/3-Mechanics/CLI/bestiary/npc/topsy-oota.md), or [Turvy](/3-Mechanics/CLI/bestiary/npc/turvy-oota.md) in the party helps smooth the characters' entrance to Blingdenstone. This is especially important if the party contains one or more drow, whose presence would otherwise demand an armed escort at all times within the settlement.
+Having [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md), [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md), or [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md) in the party helps smooth the characters' entrance to Blingdenstone. This is especially important if the party contains one or more drow, whose presence would otherwise demand an armed escort at all times within the settlement.
 
 If the characters reveal that they are fleeing the drow, the guards decide that Chief Dorbo Diggermattock should hear their tale. The armed escort that brings the characters into the settlement leads them to an audience with the chief in area 14.
 
 ### 3. Maze
 
-![Map 6.2: Outer Blingdenstone](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/056-ooa06-03.webp#center)
+![Map 6.2: Outer Blingdenstone](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/056-ooa06-03.webp#center)
 
-Between the gate and Blingdenstone proper, the svirfneblin built the maze: a twisting and turning path that runs between 10-foot-high walls studded with nails. Climbing a nail-studded wall requires a successful DC 13 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. Even with a successful check, a creature must succeed on a DC 13 Dexterity saving throw to avoid the nails, taking `d4` piercing damage on a failed save. The path slopes up and down, so sections can be flooded or inundated with poisonous smoke. At certain points, the path narrows to allow Small creatures through; Medium creatures must squeeze, and Large creatures can't fit through at all unless they have an amorphous form.
+Between the gate and Blingdenstone proper, the svirfneblin built the maze: a twisting and turning path that runs between 10-foot-high walls studded with nails. Climbing a nail-studded wall requires a successful DC 13 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. Even with a successful check, a creature must succeed on a DC 13 Dexterity saving throw to avoid the nails, taking `d4` piercing damage on a failed save. The path slopes up and down, so sections can be flooded or inundated with poisonous smoke. At certain points, the path narrows to allow Small creatures through; Medium creatures must squeeze, and Large creatures can't fit through at all unless they have an amorphous form.
 
 A second path is inaccessible from the main gate, traveling above the winding path. This upper path is festooned with towers and battlements where defenders can fire freely at creatures attempting to make their way along the lower path. A paved road runs along the western wall of the cavern, onto which wagons and draft animals are hoisted so they can bypass the maze. The hoist mechanism can be destroyed with the single pull of a lever if invaders manage to hijack it.
 
@@ -375,11 +375,11 @@ Blingdenstone's last line of defense is a wide, winding tunnel behind a gate sim
 
 #### Gate Towers
 
-Flanking the gate are two stone towers embedded in the cavern walls. Peering through shuttered windows in each tower are four [deep gnomes](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), eight in all. These gnomes operate winches that open and close the gate. If the characters are traveling with a deep gnome escort, the gates open as they approach, allowing access to the tunnel beyond. If the characters arrive here unescorted, the gnomes refuse to open the gate.
+Flanking the gate are two stone towers embedded in the cavern walls. Peering through shuttered windows in each tower are four [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), eight in all. These gnomes operate winches that open and close the gate. If the characters are traveling with a deep gnome escort, the gates open as they approach, allowing access to the tunnel beyond. If the characters arrive here unescorted, the gnomes refuse to open the gate.
 
 #### Tunnel
 
-The tunnel has a 30-foot-high ceiling, and embedded in its walls are [spell gems](/3-Mechanics/CLI/items/spell-gem-oota.md) spaced 30 feet apart and 15 feet above the rough-hewn floor. The gems are set in sockets and held in place with [sovereign glue](/3-Mechanics/CLI/items/sovereign-glue-xdmg.md), and each gem contains a [symbol](/3-Mechanics/CLI/spells/symbol-xphb.md) spell. Any deep gnome who can see a gem can activate the spell within it by using its action to speak the proper command word. Any attempt to pry a [spell gem](/3-Mechanics/CLI/items/spell-gem-oota.md) from the wall destroys the gem.
+The tunnel has a 30-foot-high ceiling, and embedded in its walls are [spell gems](/03_Mechanics/CLI/items/spell-gem-oota.md) spaced 30 feet apart and 15 feet above the rough-hewn floor. The gems are set in sockets and held in place with [sovereign glue](/03_Mechanics/CLI/items/sovereign-glue-xdmg.md), and each gem contains a [symbol](/03_Mechanics/CLI/spells/symbol-xphb.md) spell. Any deep gnome who can see a gem can activate the spell within it by using its action to speak the proper command word. Any attempt to pry a [spell gem](/03_Mechanics/CLI/items/spell-gem-oota.md) from the wall destroys the gem.
 
 At the north end of the tunnel is a smaller door made of stone reinforced with adamantine (see the "Doors of Blingdenstone" sidebar). Fifteen-foot-high ledges in alcoves flank the door. The ledges are currently unguarded, and the stone door opens easily to reveal the caves of Inner Blingdenstone beyond.
 
@@ -432,7 +432,7 @@ This cavern serves as Blingdenstone's central market. All manner of fungi once g
 
 ### Kazook Pickshine
 
-If the characters accepted Werz Saltbaron's errand in Gracklstugh (see chapter 4), they can deliver Werz's sack of gems to Kazook Pickshine, who has a stall in the Traders' Grotto. Kazook is a [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md). If the characters approach him openly and present the sack to him, he muffles a gasp as he looks around, then quickly ushers the characters into the stall, admonishing them to talk quietly and not be so open. He inspects the gems, weighs them by hand while looking at the characters with suspicion, then pays them for the delivery with a zircon worth 50 gp.
+If the characters accepted Werz Saltbaron's errand in Gracklstugh (see chapter 4), they can deliver Werz's sack of gems to Kazook Pickshine, who has a stall in the Traders' Grotto. Kazook is a [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md). If the characters approach him openly and present the sack to him, he muffles a gasp as he looks around, then quickly ushers the characters into the stall, admonishing them to talk quietly and not be so open. He inspects the gems, weighs them by hand while looking at the characters with suspicion, then pays them for the delivery with a zircon worth 50 gp.
 
 ### Gelatinous Cube Incursion
 
@@ -443,15 +443,15 @@ The first time the characters visit the Traders' Grotto without an escort, a cla
 > The deep gnomes around you all draw weapons and retreat as you see a guard stumble back, then rise up in the air. A strange shimmer around him reveals the surface of the gelatinous cube that has engulfed him.
 ^2a3
 
-Two [gelatinous cubes](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) seep through a collapsed tunnel between the Traders' Grotto and area 24 of the Goldwhisker Warrens. Both cubes advance, attempting to engulf and consume any other creatures in their paths until they are destroyed.
+Two [gelatinous cubes](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) seep through a collapsed tunnel between the Traders' Grotto and area 24 of the Goldwhisker Warrens. Both cubes advance, attempting to engulf and consume any other creatures in their paths until they are destroyed.
 
-The trapped svirfneblin is named [Mev Flintknapper](/3-Mechanics/CLI/bestiary/npc/mev-flintknapper-oota.md) (use the [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) statistics in the *Monster Manual*, but also give Mev the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)). He has already taken 10 acid damage and takes another 21 (`6d6`) acid damage at the start of each of the cube's turns until pulled free with a successful DC 12 Strength check. The attempt requires an action, and any creature making the attempt takes 10 (`3d6`) acid damage is it reaches into the cube.
+The trapped svirfneblin is named [Mev Flintknapper](/03_Mechanics/CLI/bestiary/npc/mev-flintknapper-oota.md) (use the [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) statistics in the *Monster Manual*, but also give Mev the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)). He has already taken 10 acid damage and takes another 21 (`6d6`) acid damage at the start of each of the cube's turns until pulled free with a successful DC 12 Strength check. The attempt requires an action, and any creature making the attempt takes 10 (`3d6`) acid damage is it reaches into the cube.
 
-If [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) is with the characters, it attempts to intimidate the other cubes by interposing itself between them and the characters. At your discretion, allow [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) to use the [Help](/3-Mechanics/CLI/actions.md#Help) action to assist the characters' attacks.
+If [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) is with the characters, it attempts to intimidate the other cubes by interposing itself between them and the characters. At your discretion, allow [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) to use the [Help](/03_Mechanics/CLI/actions.md#Help) action to assist the characters' attacks.
 
 #### Treasure
 
-Once destroyed, the hostile cubes spill their contents on the ground: 12 gp and a [+1 shortsword](/3-Mechanics/CLI/items/1-weapon-xdmg.md) of drow manufacture (see the "Drowcraft Items" sidebar in appendix B).
+Once destroyed, the hostile cubes spill their contents on the ground: 12 gp and a [+1 shortsword](/03_Mechanics/CLI/items/1-weapon-xdmg.md) of drow manufacture (see the "Drowcraft Items" sidebar in appendix B).
 
 ### Development
 
@@ -465,7 +465,7 @@ If the characters managed to rescue Mev, or made a sincere effort to do so, awar
 
 ## 8. The Ruby in the Rough
 
-The Stoneheart Enclave agreed to join the Diggermattock effort to resettle Blingdenstone in exchange for help reclaiming this temple known as the Ruby in the Rough. The temple is dedicated to Segojan Earthcaller, the svirfneblin god of deep earth and nature. The rituals and day-to-day duties of the temple are overseen by a deep gnome named Glyphic Shroomlight, a nervous young novice doing his best in a situation requiring a much older and more experienced cleric (use the [acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) statistics in the *Monster Manual*, but also give Glyphic the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)).
+The Stoneheart Enclave agreed to join the Diggermattock effort to resettle Blingdenstone in exchange for help reclaiming this temple known as the Ruby in the Rough. The temple is dedicated to Segojan Earthcaller, the svirfneblin god of deep earth and nature. The rituals and day-to-day duties of the temple are overseen by a deep gnome named Glyphic Shroomlight, a nervous young novice doing his best in a situation requiring a much older and more experienced cleric (use the [acolyte](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) statistics in the *Monster Manual*, but also give Glyphic the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)).
 
 Despite the desecration of the drow invasion and the decades of scavenging and raiding in its aftermath, the old city's honored dead still rest securely in the catacombs beneath the temple. A passage on the east side of the cavern leads down into this network of small linked caverns accessible only through the temple.
 
@@ -475,7 +475,7 @@ If the characters recovered Pelek's severed hand in the "Whorlstone Tunnels" sec
 
 ### Burrow Warden Jadger
 
-Jadger's [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) greets the characters but disappears through a wall if they attack. (Word quickly gets around the settlement of the adventurers' rudeness, negatively shifting the gnomes' attitude toward the characters.) Jadger speaks candidly about who he is and what happened to him. After gaining any sense that the characters are seeking information from the svirfneblin, he asks them to perform two tasks involving laying other svirfneblin spirits to rest:
+Jadger's [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) greets the characters but disappears through a wall if they attack. (Word quickly gets around the settlement of the adventurers' rudeness, negatively shifting the gnomes' attitude toward the characters.) Jadger speaks candidly about who he is and what happened to him. After gaining any sense that the characters are seeking information from the svirfneblin, he asks them to perform two tasks involving laying other svirfneblin spirits to rest:
 
 - Destroy Vazuk, a deep gnome who is mad with grief and a threat to the other residents of Blingdenstone. His specter can be found haunting his old home in area 12a.  
 - Recover the remains of a deep gnome named Udhask and bring them to the catacombs. Jadger knows that the deep gnome died somewhere in Rockblight, the northeast section of Blingdenstone.  
@@ -507,7 +507,7 @@ Two blocked-off tunnels lead north and northeast to areas that have not been res
 
 ## 10. Staging Area
 
-This cave is fortified with barricades and defended by eight [deep gnomes](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) and four cave [badgers](/3-Mechanics/CLI/bestiary/beast/badger-xmm.md) (see "Random Encounters in Blingdenstone"). There are no earth elementals reinforcing security here because the passage on the north wall—sealed at either end with a locked door—leads to areas where the deep gnomes have confirmed the influence of Ogrémoch's Bane.
+This cave is fortified with barricades and defended by eight [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) and four cave [badgers](/03_Mechanics/CLI/bestiary/beast/badger-xmm.md) (see "Random Encounters in Blingdenstone"). There are no earth elementals reinforcing security here because the passage on the north wall—sealed at either end with a locked door—leads to areas where the deep gnomes have confirmed the influence of Ogrémoch's Bane.
 
 ### Unseen Evil
 
@@ -521,7 +521,7 @@ The passages leading to area 17 are sealed off by steel walls that can't be open
 
 ## 12. Residential Caves
 
-![Map 6.3: Inner Blingdenstone](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/057-06-01.webp#center)
+![Map 6.3: Inner Blingdenstone](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/057-06-01.webp#center)
 
 These caverns branch off into smaller caves serving as hovels for families of svirfneblin. Tunnels lead to secondary chambers that branch out into more hovels. Deep gnome hovels have no doors.
 
@@ -531,11 +531,11 @@ The locals are willing to talk with the characters, pointing them toward a parti
 
 Vazuk was a simple leatherworker who died in the drow invasion. His spirit awoke when a family moved into what used to be his home, then began to throw fits and terrorize any creatures coming near.
 
-Vazuk is a [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md) (use the poltergeist variant). He can't be turned while inside his former home. He attacks the characters as soon as they enter the house, all the while screaming "Mine! My stuff! Not yours!"
+Vazuk is a [specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) (use the poltergeist variant). He can't be turned while inside his former home. He attacks the characters as soon as they enter the house, all the while screaming "Mine! My stuff! Not yours!"
 
 #### Treasure
 
-A character who searches the hovel and succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check spots a concealed hole in the floor. The hole contains a small zurkhwood chest holding eight tiny rubies worth 250 gp each.
+A character who searches the hovel and succeeds on a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check spots a concealed hole in the floor. The hole contains a small zurkhwood chest holding eight tiny rubies worth 250 gp each.
 
 ### XP Awards
 
@@ -543,11 +543,11 @@ In addition to the XP earned for defeating Vazuk, each character earns 50 XP if 
 
 ## 13. Speaking Stones
 
-A circle of stone menhirs predating Blingdenstone stands at the center of this small cavern. The gnomes believe this henge is a cluster of truly ancient galeb duhr, venerated as manifestations of the gods. The more religious members of the Stoneheart Enclave cast [augury](/3-Mechanics/CLI/spells/augury-xphb.md) and [commune](/3-Mechanics/CLI/spells/commune-xphb.md) spells within the circle, interpreting the responses to their entreaties through subtle changes in the vibrations in the bedrock below.
+A circle of stone menhirs predating Blingdenstone stands at the center of this small cavern. The gnomes believe this henge is a cluster of truly ancient galeb duhr, venerated as manifestations of the gods. The more religious members of the Stoneheart Enclave cast [augury](/03_Mechanics/CLI/spells/augury-xphb.md) and [commune](/03_Mechanics/CLI/spells/commune-xphb.md) spells within the circle, interpreting the responses to their entreaties through subtle changes in the vibrations in the bedrock below.
 
 ### Cleanse the Steadfast Stone
 
-Gurnik Tapfinger, head priest of Callarduran Smoothhands in the Stoneheart Enclave, approaches the characters if they show any interest in the Speaking Stones (use the [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) statistics in the *Monster Manual*, but also give Gurnik the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)). He asks them to undertake a task in a closed-off area of the old city known as Rockblight, where the temple of his god stands desecrated. If the characters agree, he gives them a ruby [spell gem](/3-Mechanics/CLI/items/spell-gem-oota.md) (see appendix B) containing the [hallow](/3-Mechanics/CLI/spells/hallow-xphb.md) spell and asks them to place the gem in the Steadfast Stone's menhir (see area 22).
+Gurnik Tapfinger, head priest of Callarduran Smoothhands in the Stoneheart Enclave, approaches the characters if they show any interest in the Speaking Stones (use the [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) statistics in the *Monster Manual*, but also give Gurnik the Stone Camouflage, Gnome Cunning, and Innate Spellcasting features of a [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)). He asks them to undertake a task in a closed-off area of the old city known as Rockblight, where the temple of his god stands desecrated. If the characters agree, he gives them a ruby [spell gem](/03_Mechanics/CLI/items/spell-gem-oota.md) (see appendix B) containing the [hallow](/03_Mechanics/CLI/spells/hallow-xphb.md) spell and asks them to place the gem in the Steadfast Stone's menhir (see area 22).
 
 Gurnik warns them that once they place the gem, Ogrémoch's Bane will send its servants to stop them. They must defeat these servants until the gem awakens three temple guardians, at which point the temple will be cleansed and the characters can leave. Once the characters accomplish this task, Gurnik channels the power of the cleansed temple, bestowing a *blessing of protection* or a *blessing of weapon* on each of the characters (each player's choice); see ""Other Rewards"" in chapter 7 of the *Dungeon Master's Guide* for more information on blessings.
 
@@ -568,7 +568,7 @@ If the adventurers offer to help the beleaguered settlement, the svirfneblin lea
 
 ### "Operation: Ooze There?"
 
-The Diggermattocks relay rumors that some monster or magic in the northwestern part of the settlement might be responsible for the growing number of oozes in Blingdenstone. If the characters return with information about the Pudding Court and the threat lurking therein, the Diggermattocks pay them with an empty [spell gem](/3-Mechanics/CLI/items/spell-gem-oota.md) of the highest spell level a spellcaster in the party can cast.
+The Diggermattocks relay rumors that some monster or magic in the northwestern part of the settlement might be responsible for the growing number of oozes in Blingdenstone. If the characters return with information about the Pudding Court and the threat lurking therein, the Diggermattocks pay them with an empty [spell gem](/03_Mechanics/CLI/items/spell-gem-oota.md) of the highest spell level a spellcaster in the party can cast.
 
 ### "Operation: Exterminate?"
 
@@ -576,24 +576,24 @@ The wererats of the Goldwhisker clan are a point of contention among the Diggerm
 
 Since the wererats are as territorial and defensive as the svirfneblin, any attempt to parley has been met with violence. Senni asks the characters to venture into the warrens and talk with whomever is in charge. The characters' report will determine whether the svirfneblin step up their efforts to eliminate the wererats or work toward an agreement.
 
-If [Topsy](/3-Mechanics/CLI/bestiary/npc/topsy-oota.md) or [Turvy](/3-Mechanics/CLI/bestiary/npc/turvy-oota.md) are with the party, they want to learn more about the wererat community. If their own nature as wererats is revealed to the Diggermattocks or other deep gnomes, the twins are given the choice of going into the wererat-controlled part of Blingdenstone or being cast out of the settlement altogether, which might encourage the characters to meet and talk with the Goldwhisker clan.
+If [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md) or [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md) are with the party, they want to learn more about the wererat community. If their own nature as wererats is revealed to the Diggermattocks or other deep gnomes, the twins are given the choice of going into the wererat-controlled part of Blingdenstone or being cast out of the settlement altogether, which might encourage the characters to meet and talk with the Goldwhisker clan.
 
 ## 15. Singing Stones
 
-This elevated cavern near one of Blingdenstone's main residential areas holds a variety of rocks and crystals in the middle of its bowl-shaped floor. Svirfneblin minstrels skilled in the art of stone singing can alter the pitch of the vibrations emitted by the individual stones, creating an effect similar to an assemblage of harp-playing bards. When the characters initially come here, a [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) named Garra Songstone is playing the crystals for an appreciative audience of `3d4` deep gnome children (noncombatants).
+This elevated cavern near one of Blingdenstone's main residential areas holds a variety of rocks and crystals in the middle of its bowl-shaped floor. Svirfneblin minstrels skilled in the art of stone singing can alter the pitch of the vibrations emitted by the individual stones, creating an effect similar to an assemblage of harp-playing bards. When the characters initially come here, a [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) named Garra Songstone is playing the crystals for an appreciative audience of `3d4` deep gnome children (noncombatants).
 
 ## 16. The Foaming Mug
 
 The Foaming Mug was built as an inn to house foreign guests visiting Blingdenstone. It was abandoned after the drow invasion but has recently reopened. While its supply of surface foods and beverages is meager, the rooms are sized for Medium guests, with comfortable beds and two separate hot springs used for bathing and relaxation. There are no other guests currently, so party members who stay here have the inn to themselves. Many svirfneblin frequent the inn's taproom after work, keeping the place lively. The tavern serves Darklake Stout, an ale that the svirfneblin purchase from duergar traders in Mantol-Derith (see chapter 9).
 
-Tappy Foamstrap, a bored [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), runs the inn. The characters' arrival is the most exciting thing that has happened in months, so she peppers them with questions about their lives and adventures, pushing free drinks and food on them.
+Tappy Foamstrap, a bored [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), runs the inn. The characters' arrival is the most exciting thing that has happened in months, so she peppers them with questions about their lives and adventures, pushing free drinks and food on them.
 
 ### Rumor and Hearsay
 
 The svirfneblin community is tight-knit, so rumors spread quickly. Characters who engage with the tavern's patrons while the gnomes' general attitude is indifferent or friendly learn the following information.
 
 - Blingdenstone's ghost problem is getting worse, and there are even spirits haunting the catacombs.  
-- There was a crazy svirfneblin back in the first days of reclamation who disappeared. Some of the scouts claim to have seen him, skulking around the unrecovered areas of the settlement. (The scouts don't know that this gnome is [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).)  
+- There was a crazy svirfneblin back in the first days of reclamation who disappeared. Some of the scouts claim to have seen him, skulking around the unrecovered areas of the settlement. (The scouts don't know that this gnome is [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).)  
 - The Stoneheart Enclave is closing in on a solution to the threat of Ogrémoch's Bane (untrue). The gnomes call a large unclaimed area in the northeast of the settlement "Rockblight," as earth elementals go mad whenever they go near it.  
 - People are divided as to what to do about the wererats living in the southwest caverns. Some want them out, while others propose an alliance of mutual defense.  
 - A merchant from Gracklstugh says there's an influx of surface-world coins there, but nobody knows where they come from. (See chapter 4 for more information.)  
@@ -605,13 +605,13 @@ The characters can spend a few hours socializing in the taproom of the Foaming M
 
 When the drow attacked Blingdenstone, Ogrémoch's Bane retreated to the far corners of the ruined city, waiting for the time to reemerge and seek out earth elementals to corrupt. The malevolent entity didn't have to wait long, as the drow sent teams of scavengers to loot the treasures the deep gnomes left behind, bringing their own elemental creatures with them.
 
-![Map 6.4: Rockblight](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/058-ooa06-05.webp#center)
+![Map 6.4: Rockblight](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/058-ooa06-05.webp#center)
 
-Ogrémoch's Bane haunted the drow with the same relentless cruelty it did the svirfneblin, turning their elemental servants against them. Eventually, the drow armies departed the city, but when they did, a drow priestess of Lolth named Neheedra Duskryn stayed behind. Neheedra was obsessed with collecting [spell gems](/3-Mechanics/CLI/items/spell-gem-oota.md) for their power and beauty, intent on making herself the regal and powerful master of her own underground realm. She commanded a force of drow servants and soldiers with unabashed cruelty, relentlessly driving them to seek out [spell gems](/3-Mechanics/CLI/items/spell-gem-oota.md) and increase her own wealth and power.
+Ogrémoch's Bane haunted the drow with the same relentless cruelty it did the svirfneblin, turning their elemental servants against them. Eventually, the drow armies departed the city, but when they did, a drow priestess of Lolth named Neheedra Duskryn stayed behind. Neheedra was obsessed with collecting [spell gems](/03_Mechanics/CLI/items/spell-gem-oota.md) for their power and beauty, intent on making herself the regal and powerful master of her own underground realm. She commanded a force of drow servants and soldiers with unabashed cruelty, relentlessly driving them to seek out [spell gems](/03_Mechanics/CLI/items/spell-gem-oota.md) and increase her own wealth and power.
 
 Overcome by her own greed and vanity, Neheedra engaged in dark rituals designed to secure her hold on power, imagining that Blingdenstone would one day become a drow enclave with her as its immortal leader. Unfortunately, the magical pacts she struck eventually transformed the vain priestess into a medusa.
 
-Enraged by her fate, Neheedra turned her servants to stone and descended into madness. Over decades, she [petrified](/3-Mechanics/CLI/conditions.md#Petrified) any creature she encountered, eventually catching the attention of Ogrémoch's Bane. Now, the medusa works in concert with the fell entity, creating stone servants animated by its power.
+Enraged by her fate, Neheedra turned her servants to stone and descended into madness. Over decades, she [petrified](/03_Mechanics/CLI/conditions.md#Petrified) any creature she encountered, eventually catching the attention of Ogrémoch's Bane. Now, the medusa works in concert with the fell entity, creating stone servants animated by its power.
 
 Since the return of the svirfneblin to Blingdenstone, the deep gnomes have studiously avoided sections of the old city that Ogrémoch's Bane and Neheedra inhabit, blocking it off from the rest of the settlement and giving it the name "Rockblight."
 
@@ -635,9 +635,9 @@ This large cavern mirrors the residential areas of Inner Blingdenstone, except t
 > Every step echoes against walls beyond your circle of light. The air is cold and damp, and you can hear a waterfall somewhere in the blackness, along with faint echoes of battle.
 ^2c2
 
-The echoes of battle are always in the darkness beyond the range of the characters' light and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision). As characters move toward the apparent source, the echoes become more distant, as though originating somewhere else.
+The echoes of battle are always in the darkness beyond the range of the characters' light and [darkvision](/03_Mechanics/CLI/senses.md#Darkvision). As characters move toward the apparent source, the echoes become more distant, as though originating somewhere else.
 
-Unless the characters quickly retreat whence they came, the [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) of a svirfneblin named Udhask appears. It uses Horrifying Visage, then attacks with his Withering Touch. If it takes any damage, the ghost shouts "They are coming! Everyone must hide!" It then flees. The characters can follow the fleeing ghost to an old burrow, where it disappears. Within the burrow, Udhask's skeletal remains lie next to a stone bed. There's no evidence that he died a violent death. In fact, when the drow attacked Blingdenstone, Udhask had a heart attack and died while reaching for his loot (see "Treasure").
+Unless the characters quickly retreat whence they came, the [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) of a svirfneblin named Udhask appears. It uses Horrifying Visage, then attacks with his Withering Touch. If it takes any damage, the ghost shouts "They are coming! Everyone must hide!" It then flees. The characters can follow the fleeing ghost to an old burrow, where it disappears. Within the burrow, Udhask's skeletal remains lie next to a stone bed. There's no evidence that he died a violent death. In fact, when the drow attacked Blingdenstone, Udhask had a heart attack and died while reaching for his loot (see "Treasure").
 
 #### Pool and Waterfall
 
@@ -645,7 +645,7 @@ A waterfall fed by an underground freshwater stream pours into a 100-foot-diamet
 
 #### Treasure
 
-Udhask's skeleton appears to be reaching under the stone bed. A character who searches under the bed and succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check finds a hidden compartment in the floor. Within the compartment is a rotted pouch containing six 100 gp gems and a [potion of invisibility](/3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md).
+Udhask's skeleton appears to be reaching under the stone bed. A character who searches under the bed and succeeds on a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check finds a hidden compartment in the floor. Within the compartment is a rotted pouch containing six 100 gp gems and a [potion of invisibility](/03_Mechanics/CLI/items/potion-of-invisibility-xdmg.md).
 
 #### Development
 
@@ -658,7 +658,7 @@ Collecting Udhask's bones and taking them to Burrow Warden Jadger's ghost in are
 > A shallow, swiftly flowing stream bisects this cave. Crystalline formations sprout from the floor on both sides of the stream, and rough-hewn staircases at the back of the cave climb 30 feet to a barren stone ledge with a pair of winged statues perched atop it.
 ^2c7
 
-The "winged statues" on the ledge are two [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md). If the characters attack the gargoyles or move within 30 feet of them, the monsters swoop down and attack. In the second round of combat, an insane [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) rises from the stone floor and joins the fight.
+The "winged statues" on the ledge are two [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md). If the characters attack the gargoyles or move within 30 feet of them, the monsters swoop down and attack. In the second round of combat, an insane [earth elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) rises from the stone floor and joins the fight.
 
 The stream that flows through the cave originates from a naturally formed culvert in the northeast wall, beneath the ledge. The stream is only 3 feet deep.
 
@@ -666,7 +666,7 @@ The crystal formations growing throughout the cave are large enough for characte
 
 #### Treasure
 
-Among the remains of the earth elemental, the characters can find an [earth elemental gem](/3-Mechanics/CLI/items/elemental-gem-xdmg.md). Before they can use it, however, it must receive a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell from a priest of the Stoneheart Enclave. Otherwise, the elemental summoned by the gem is always hostile toward its summoner. The characters can also harvest samples from the bodies of the corrupted elemental and the gargoyles for Nomi Pathshutter (see "Stoneheart Quarry" in the "Blingdenstone Outskirts" section).
+Among the remains of the earth elemental, the characters can find an [earth elemental gem](/03_Mechanics/CLI/items/elemental-gem-xdmg.md). Before they can use it, however, it must receive a [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell from a priest of the Stoneheart Enclave. Otherwise, the elemental summoned by the gem is always hostile toward its summoner. The characters can also harvest samples from the bodies of the corrupted elemental and the gargoyles for Nomi Pathshutter (see "Stoneheart Quarry" in the "Blingdenstone Outskirts" section).
 
 ### 19. Crystal Garden
 
@@ -677,20 +677,20 @@ Among the remains of the earth elemental, the characters can find an [earth elem
 
 Six nightlights (see "Fungi of the Underdark" in chapter 2) illuminate this cave. Tunnels in this area climb up to area 20 and down to area 21, and two sets of stairs carved from the walls lead up to area 22.
 
-The statue is actually a [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) named Vort, who was turned to stone by Neheedra the medusa. He tried to use one of the crystals to block the medusa's gaze but failed. Anyone examining the statue notices that the gnome seems to be raising the crystal toward his face, as if to look through it.
+The statue is actually a [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) named Vort, who was turned to stone by Neheedra the medusa. He tried to use one of the crystals to block the medusa's gaze but failed. Anyone examining the statue notices that the gnome seems to be raising the crystal toward his face, as if to look through it.
 
 The crystals here can be used as countermeasures against Neheedra's gaze. A creature with one hand free can hold a crystal to its eyes, gaining advantage on the Constitution saving throw made against Neheedra's gaze. However, the creature makes attack rolls with disadvantage.
 
 ### 20. Neheedra's Lair
 
-Neheedra Duskryn was part of the expedition sent to loot Blingdenstone of its [spell gems](/3-Mechanics/CLI/items/spell-gem-oota.md). Her abode reflects the richness and elegance of the drow monarch she yearned to be.
+Neheedra Duskryn was part of the expedition sent to loot Blingdenstone of its [spell gems](/03_Mechanics/CLI/items/spell-gem-oota.md). Her abode reflects the richness and elegance of the drow monarch she yearned to be.
 
 > [!readaloud] 
 > 
 > The adornments in this chamber would be more at home in a drow city. Spider-themed tapestries, fine zurkhwood furniture, and racks of expensive clothing fill the area, all of it old and rotted. At the center of the chamber, a female drow sits upon a zurkhwood throne. She stands, eyes closed and arms crossed as if in meditation or prayer. Then her white hair writhes, and you see it is formed of pale, hissing snakes.
 ^2cc
 
-The [medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) attacks intruders without hesitation. Neheedra's curse has driven her mad, and reasoning with her isn't an option.
+The [medusa](/03_Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) attacks intruders without hesitation. Neheedra's curse has driven her mad, and reasoning with her isn't an option.
 
 #### Treasure
 
@@ -702,13 +702,13 @@ If the characters divulge the medusa's location to Sark Axebarrel in area 10, th
 
 #### XP Awards
 
-The characters gain 50 XP each if they successfully report back to Sark, whether they defeat the medusa or not. Upon earning this award, the characters can make a group Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check to improve the gnomes' attitude (see "Changing Svirfneblin Attitudes").
+The characters gain 50 XP each if they successfully report back to Sark, whether they defeat the medusa or not. Upon earning this award, the characters can make a group Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check to improve the gnomes' attitude (see "Changing Svirfneblin Attitudes").
 
 ### 21. Drow Statues
 
 This cave is filled with thirty statues of drow warriors, all standing as if on guard. In her madness, Neheedra turned these warriors of her house to stone. Over long years, Ogrémoch's Bane has used its power to animate these statues, turning them into elemental creatures.
 
-When the characters step inside the chamber, six of the statues animate and attack. The statues have the statistics of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md), except that they are elementals instead of constructs.
+When the characters step inside the chamber, six of the statues animate and attack. The statues have the statistics of [animated armor](/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm.md), except that they are elementals instead of constructs.
 
 The statues attack until destroyed but don't leave this area. If the characters spend 1 round or longer in the chamber after defeating the last statue, six more statues animate. This process repeats until either all of the statues are destroyed or until the characters leave the cave. A statue also animates and attacks if touched or otherwise disturbed.
 
@@ -721,10 +721,10 @@ If every statue in this cave is destroyed, Ogrémoch's Bane appears.
 > As the last statue crumbles, a cloud of dust erupts from its shattered remains and expands to fill the cave.
 ^2d2
 
-The cloud is Ogrémoch's Bane. Characters within the cloud can sense its malevolence, and a successful DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check confirms that the cloud is of extraplanar origin. The cloud has a flying speed of 20 feet and is impervious to all damage and spells except the following.
+The cloud is Ogrémoch's Bane. Characters within the cloud can sense its malevolence, and a successful DC 15 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check confirms that the cloud is of extraplanar origin. The cloud has a flying speed of 20 feet and is impervious to all damage and spells except the following.
 
-- A [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) spell or similar magic can forcibly move the cloud.  
-- Casting a [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) spell on the cloud sends it back to the Elemental Plane of Air if it fails its Charisma saving throw (it has a +4 modifier to the roll). A [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell is equally effective and doesn't require a successful attack roll; however, the caster must be in contact with the cloud.  
+- A [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md) spell or similar magic can forcibly move the cloud.  
+- Casting a [banishment](/03_Mechanics/CLI/spells/banishment-xphb.md) spell on the cloud sends it back to the Elemental Plane of Air if it fails its Charisma saving throw (it has a +4 modifier to the roll). A [dispel evil and good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell is equally effective and doesn't require a successful attack roll; however, the caster must be in contact with the cloud.  
 
 Creatures native to the Elemental Plane of Earth (including earth elementals, galeb duhr, gargoyles, and xorn) that come in contact with Ogrémoch's Bane instantly fall under the cloud's sway. The effect lasts as long as the enslaved elementals and Ogrémoch's Bane are on the same plane of existence.
 
@@ -741,26 +741,26 @@ Once a temple of Callarduran Smoothhands, the deep gnomes' god of stone and mini
 > The floor of this cavern is worn smooth, but the walls are rough. A great menhir carved from a stalagmite stands in the center of the chamber, pockmarked with dozens of empty sockets that might once have held gems.
 ^2d5
 
-Characters with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 14 or higher notice that the roughness of the walls outlines several large, vaguely humanoid shapes.
+Characters with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 14 or higher notice that the roughness of the walls outlines several large, vaguely humanoid shapes.
 
 #### Cleansing the Temple
 
-If the characters accepted Gurnik Tapfinger's task (see area 13), they can place the ruby [spell gem](/3-Mechanics/CLI/items/spell-gem-oota.md) he gave them into one of the sockets in the menhir. When they do so, the elementals in the walls begin to stir.
+If the characters accepted Gurnik Tapfinger's task (see area 13), they can place the ruby [spell gem](/03_Mechanics/CLI/items/spell-gem-oota.md) he gave them into one of the sockets in the menhir. When they do so, the elementals in the walls begin to stir.
 
 > [!readaloud] 
 > 
 > As the ruby begins to glow against the menhir, the walls begin to rumble. Part of one wall shifts, detaches, and charges toward you.
 ^2d7
 
-An [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) materializes out of the wall and attacks. When the elemental is reduced to 0 hit points, it crumbles, and a [galeb duhr](/3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) emerges from the ground near the menhir in an unoccupied space. The galeb duhr faces outward in a guarding pose, but doesn't move or respond. Another earth elemental then emerges from the wall of the chamber and attacks, when it is destroyed, a second stoic galeb duhr appears. This summoning process repeats once more, until the third earth elemental appears and is destroyed. The elementals ignore the galeb duhr, which continue to stand motionless throughout the fight.
+An [earth elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) materializes out of the wall and attacks. When the elemental is reduced to 0 hit points, it crumbles, and a [galeb duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) emerges from the ground near the menhir in an unoccupied space. The galeb duhr faces outward in a guarding pose, but doesn't move or respond. Another earth elemental then emerges from the wall of the chamber and attacks, when it is destroyed, a second stoic galeb duhr appears. This summoning process repeats once more, until the third earth elemental appears and is destroyed. The elementals ignore the galeb duhr, which continue to stand motionless throughout the fight.
 
-When the characters reduce three earth elementals to 0 hit points and summon three galeb duhr, a white light shines from the menhir, producing a [hallow](/3-Mechanics/CLI/spells/hallow-xphb.md) effect protecting the galeb duhr from the influence of Ogrémoch's Bane. The galeb duhr then animate and acknowledge the characters with a grave nod, before settling down in their boulder guise around the menhir.
+When the characters reduce three earth elementals to 0 hit points and summon three galeb duhr, a white light shines from the menhir, producing a [hallow](/03_Mechanics/CLI/spells/hallow-xphb.md) effect protecting the galeb duhr from the influence of Ogrémoch's Bane. The galeb duhr then animate and acknowledge the characters with a grave nod, before settling down in their boulder guise around the menhir.
 
 Gurnik delivers his promised blessings when the characters return to notify him of their success in the temple. He can sense whether or not the temple has been restored to its former glory, so if the characters fail to cleanse the temple but tell him they succeeded, he knows they're lying, and the deep gnomes' attitude toward the party worsens. If the characters accomplish Gurnik's task, they can make a DC 15 group Charisma check to improve the gnomes' attitude, with all characters making the check with advantage.
 
 #### Development
 
-A wide, descending staircase ends before a wall of collapsed stone that blocks access to the tunnels and caves that constitute the Pudding Court. The debris can be cleared with a few days of work. However, if the characters want to use this passage as an entry point to attack [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), they can use a volatile concoction brewed by Kazook Pickshine to quickly clear the debris (see "Battle for Blingdenstone" later in this chapter).
+A wide, descending staircase ends before a wall of collapsed stone that blocks access to the tunnels and caves that constitute the Pudding Court. The debris can be cleared with a few days of work. However, if the characters want to use this passage as an entry point to attack [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), they can use a volatile concoction brewed by Kazook Pickshine to quickly clear the debris (see "Battle for Blingdenstone" later in this chapter).
 
 #### XP Awards
 
@@ -785,17 +785,17 @@ For decades, the Goldwhisker svirfneblin have lived and thrived in these caverns
 
 The svirfneblin installed locked doors to close off this section of the warrens. West of the doors, the wererats have installed a trap (see the "Traps" section in the "Goldwhisker Warrens: General Features" sidebar).
 
-Four [svirfneblin wererats](/3-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) (see "Random Encounters in Blingdenstone") attack when the characters trigger, disarm, or avoid the trap. The wererats avoid biting their enemies to minimize the risk of giving them the "gift" of wererat lycanthropy. If the characters kill two of the wererats, the survivors retreat to area 25.
+Four [svirfneblin wererats](/03_Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) (see "Random Encounters in Blingdenstone") attack when the characters trigger, disarm, or avoid the trap. The wererats avoid biting their enemies to minimize the risk of giving them the "gift" of wererat lycanthropy. If the characters kill two of the wererats, the survivors retreat to area 25.
 
 #### Development
 
-Sounds of battle here alert every other wererat in the warrens. Thereafter, the wererats can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised).
+Sounds of battle here alert every other wererat in the warrens. Thereafter, the wererats can't be [surprised](/03_Mechanics/CLI/conditions.md#Surprised).
 
 ### 24. Refuse Pile
 
 The characters notice a foul stench as they approach this cave. This chamber used to be a small residential area, with homes dug into the walls at various heights, but no one dwells here now.
 
-The pile of refuse dominates the cave. It contains decomposing matter, including a pair of slimy, partially digested svirfneblin corpses. A successful DC 12 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check reveals that the gnomes were victims of some kind of ooze.
+The pile of refuse dominates the cave. It contains decomposing matter, including a pair of slimy, partially digested svirfneblin corpses. A successful DC 12 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check reveals that the gnomes were victims of some kind of ooze.
 
 ### 25. Hall of Miners
 
@@ -806,9 +806,9 @@ During Blingdenstone's heyday, this cavern held the old city's smelters and mark
 > A small crowd has gathered here. Most of the assembled creatures are deep gnomes, but some have ratlike features—including a fat specimen standing in front of the others, smiling at you with jagged buckteeth. "Peace," the big wererat says. He takes a step forward, arms extended and hands open. "Chipgrin's the name. I'm chief of the Goldwhisker clan. Shall we talk?"
 ^2e2
 
-Forty [svirfneblin wererats](/3-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) (see "Encounters in Blingdenstone") are gathered here, making combat a dangerous proposition and likely inspiring the characters to accept Chipgrin's peaceful parley. The wererat boss climbs a set of stairs to the top of a natural rise (area 26), bidding the characters to follow him.
+Forty [svirfneblin wererats](/03_Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) (see "Encounters in Blingdenstone") are gathered here, making combat a dangerous proposition and likely inspiring the characters to accept Chipgrin's peaceful parley. The wererat boss climbs a set of stairs to the top of a natural rise (area 26), bidding the characters to follow him.
 
-Chipgrin is a [svirfneblin wererat](/3-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) with 45 hit points and AC 14 (studded leather).
+Chipgrin is a [svirfneblin wererat](/03_Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) with 45 hit points and AC 14 (studded leather).
 
 ### 26. Chipgrin's Rise
 
@@ -816,25 +816,25 @@ The leader of the Goldwhisker clan claims this plateau as his personal retreat a
 
 > [!readaloud] 
 > 
-> Stairs lead to the top of this rise, where the floor is covered with a soft and well-manicured carpet of green moss. The wererat chief sits on a stone chair flanked by two giant rats. Draped over the chair's back is a [cave badger](/3-Mechanics/CLI/bestiary/beast/cave-badger-oota.md) pelt. "Let's get down to brass hobnails, then. You were sent by the Diggermattocks 'cause they want us out, right? Right?! Well, they might get their wish soon enough, but in a way they ain't likely to cheer about."
+> Stairs lead to the top of this rise, where the floor is covered with a soft and well-manicured carpet of green moss. The wererat chief sits on a stone chair flanked by two giant rats. Draped over the chair's back is a [cave badger](/03_Mechanics/CLI/bestiary/beast/cave-badger-oota.md) pelt. "Let's get down to brass hobnails, then. You were sent by the Diggermattocks 'cause they want us out, right? Right?! Well, they might get their wish soon enough, but in a way they ain't likely to cheer about."
 ^2e4
 
-The wererats face constant attacks by the oozes and are close to fleeing the settlement and leaving the other deep gnomes to fend for themselves. However, Chipgrin has learned of the mysterious figure controlling the oozes, and he hopes to use that information to strike a bargain. If the characters are willing to hear what he has to say, Chipgrin goes on to describe the creature he refers to as "[the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)."
+The wererats face constant attacks by the oozes and are close to fleeing the settlement and leaving the other deep gnomes to fend for themselves. However, Chipgrin has learned of the mysterious figure controlling the oozes, and he hopes to use that information to strike a bargain. If the characters are willing to hear what he has to say, Chipgrin goes on to describe the creature he refers to as "[the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)."
 
 > [!readaloud] 
 > 
-> "I remember him from when he worked in the tunnels, and my kin saw him when he returned. I know who he is, what he's doing, and—most of all—where he can be found! If you and the Diggermattocks want, I can take you straight to him—he what calls himself [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)."
+> "I remember him from when he worked in the tunnels, and my kin saw him when he returned. I know who he is, what he's doing, and—most of all—where he can be found! If you and the Diggermattocks want, I can take you straight to him—he what calls himself [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)."
 ^2e5
 
-![Map 6.5: Goldwhisker Warrens](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/059-ooa06-06.webp#center)
+![Map 6.5: Goldwhisker Warrens](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/059-ooa06-06.webp#center)
 
-The wererat leader remains civil, but he refuses to tell the characters anything more about [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) until he has secured a meeting with the Diggermattocks. If there is any hint of violence, he calls for help.
+The wererat leader remains civil, but he refuses to tell the characters anything more about [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) until he has secured a meeting with the Diggermattocks. If there is any hint of violence, he calls for help.
 
-If the characters decide to fight, all forty [svirfneblin wererats](/3-Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) in the surrounding cavern (area 25) rush to attack, in addition to Chipgrin and his two [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md). Chipgrin orders his fellow wererats to take down clerics first, then any other spellcasters, and to keep melee combatants locked down. He doesn't kill the characters, but makes sure they are infected with wererat lycanthropy before dumping them in the maze in Outer Blingdenstone (area 3).
+If the characters decide to fight, all forty [svirfneblin wererats](/03_Mechanics/CLI/bestiary/humanoid/svirfneblin-wererat-oota.md) in the surrounding cavern (area 25) rush to attack, in addition to Chipgrin and his two [giant rats](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md). Chipgrin orders his fellow wererats to take down clerics first, then any other spellcasters, and to keep melee combatants locked down. He doesn't kill the characters, but makes sure they are infected with wererat lycanthropy before dumping them in the maze in Outer Blingdenstone (area 3).
 
 During any negotiation, Chipgrin is affable but firm in his demands. He also asks the characters if they've noticed anything odd among the svirfneblin. The wererats have noticed the greed and aggression growing among their cousins living outside Blingdenstone (see "Blingdenstone Outskirts"). However, they are unaffected by it themselves, given their bestial natures. Chipgrin doesn't know about demon lords, but he's smart and can help the characters connect the dots if they've heard of Juiblex and its unending hunger.
 
-If either [Topsy](/3-Mechanics/CLI/bestiary/npc/topsy-oota.md) or [Turvy](/3-Mechanics/CLI/bestiary/npc/turvy-oota.md) are with the characters, Chipgrin is pleased to welcome them to the Goldwhisker clan. The twins accept the offer unless their bond of friendship with the characters inspires them to remain with the party.
+If either [Topsy](/03_Mechanics/CLI/bestiary/npc/topsy-oota.md) or [Turvy](/03_Mechanics/CLI/bestiary/npc/turvy-oota.md) are with the characters, Chipgrin is pleased to welcome them to the Goldwhisker clan. The twins accept the offer unless their bond of friendship with the characters inspires them to remain with the party.
 
 #### Development
 
@@ -842,33 +842,33 @@ This encounter tests the characters' skills as diplomats and peacemakers. If the
 
 ### 27. Secret Tunnel
 
-The wererats use this secret tunnel to enter and leave their warrens. Oozes have also been using this route to enter Blingdenstone and join [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s court. The secret doors are well hidden and require a successful DC 18 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to spot.
+The wererats use this secret tunnel to enter and leave their warrens. Oozes have also been using this route to enter Blingdenstone and join [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s court. The secret doors are well hidden and require a successful DC 18 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to spot.
 
 ## The Pudding Court
 
-[The Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) set up his court in the northwest corner of Blingdenstone, slipping through the wererat warrens with his beloved "children," [Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) and Prince Livid (see the "Royal Oozes" sidebar). Since his return, [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) has been using the power granted him by Juiblex to summon and command every ooze in the region.
+[The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) set up his court in the northwest corner of Blingdenstone, slipping through the wererat warrens with his beloved "children," [Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) and Prince Livid (see the "Royal Oozes" sidebar). Since his return, [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) has been using the power granted him by Juiblex to summon and command every ooze in the region.
 
 > [!note] Royal Oozes
 > 
-> [Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) is a [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) with an Intelligence of 6 (−2) and the ability to hurl blobs of its substance as a ranged weapon attack out to a range of 30 feet. This attack has the same attack bonus, damage, and effect as the black pudding's Pseudopod attack.
+> [Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) is a [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) with an Intelligence of 6 (−2) and the ability to hurl blobs of its substance as a ranged weapon attack out to a range of 30 feet. This attack has the same attack bonus, damage, and effect as the black pudding's Pseudopod attack.
 > 
-> [Prince Livid](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) is a gray ooze with 30 hit points (use the psychic gray ooze variant).
+> [Prince Livid](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) is a gray ooze with 30 hit points (use the psychic gray ooze variant).
 ^royal-oozes
 
 ### 28. House Center
 
-This cavern was once the heart of Blingdenstone's government—a large space with a rocky sphere in its center. The sphere is hollowed out and contains the royal chambers from which the old kings and queens ruled. All of it has been transformed by the presence of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
+This cavern was once the heart of Blingdenstone's government—a large space with a rocky sphere in its center. The sphere is hollowed out and contains the royal chambers from which the old kings and queens ruled. All of it has been transformed by the presence of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
 
 > [!readaloud] 
 > 
 > The walls of this great cavern are covered in slime—dripping, sickening green slime. Echoes of dripping water also fill the cave, in the center of which is a large spherical structure is held up off the floor by stone pillars. Around these pillars crawl dozens of living oozes, heaving forward while reaching out with grasping pseudopods. The sphere's surface, like the cave walls, is covered with slime. Black slime swirls with yellow and gray slime in a disgusting soup, the unearthly patterns in the movements of the slime straining your eyes and tugging at your mind. A disembodied voice fills the cave. "What's this, what's this? Visitors? Now? Not yet! We're not ready! Go away, pests! I will call upon thee and all of Blingdenstone to announce our glad tidings of the Faceless Lord to come at the proper time! Begone!"
 ^2eb
 
-![Map 6.6: The Pudding Court](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/060-ooa06-07.webp#center)
+![Map 6.6: The Pudding Court](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/060-ooa06-07.webp#center)
 
-Hundreds of ooze creatures congregate here, drawn by the will of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md). They include dozens of [black puddings](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md), [gray oozes](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md), and [ochre jellies](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md), as well as the occasional [gelatinous cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md). If the characters intend to rush this deadly tide, warn them that retreat is a better option, and that this is a fight they aren't likely to survive without strategy and aid. See the "Battle for Blingdenstone" section for the ways the characters can return here and have a chance to triumph.
+Hundreds of ooze creatures congregate here, drawn by the will of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md). They include dozens of [black puddings](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md), [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md), and [ochre jellies](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md), as well as the occasional [gelatinous cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md). If the characters intend to rush this deadly tide, warn them that retreat is a better option, and that this is a fight they aren't likely to survive without strategy and aid. See the "Battle for Blingdenstone" section for the ways the characters can return here and have a chance to triumph.
 
-If [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) is with the party, it attempts to communicate with the other ooze creatures, telling the characters that others of its kind are calling for it to join them. The adventurers can convince the gelatinous cube not to go, but even if it does, [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) might still serve as an ace in the hole during the battle for Blingdenstone.
+If [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) is with the party, it attempts to communicate with the other ooze creatures, telling the characters that others of its kind are calling for it to join them. The adventurers can convince the gelatinous cube not to go, but even if it does, [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) might still serve as an ace in the hole during the battle for Blingdenstone.
 
 The cavern is damp and has a 180-foot-high ceiling lined with dripping stalactites. The walls are covered with patches of green slime (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). Any creature that comes into contact with a wall takes damage as normal.
 
@@ -878,18 +878,18 @@ The hollowed-out stone sphere is 150 feet in diameter and elevated 10 feet off t
 
 ### 29. Ruined Stockade
 
-This cavern was once a shrine for Baervan Wildwanderer, the gnomish deity known as the Father of Fish and Fungus. Now it belongs to [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
+This cavern was once a shrine for Baervan Wildwanderer, the gnomish deity known as the Father of Fish and Fungus. Now it belongs to [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
 
 > [!readaloud] 
 > 
 > The sound of dripping water fills this dark cave, and various oozes slither across the walls and floor. Some sort of fungal wall or partition once divided the cave, but that barrier has been destroyed. Beyond it lies more wreckage and debris scoured clean by the oozes.
 ^2ee
 
-This area once contained a stockade fashioned from zurkhwood and trillimac fungi. Here, the deep gnomes kept their deep rothé (Underdark cattle). The place was ransacked during the drow invasion, and [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s oozes have dissolved most of what the drow left behind, including the bones of the slaughtered rothé. Two freshwater pools form along the west wall.
+This area once contained a stockade fashioned from zurkhwood and trillimac fungi. Here, the deep gnomes kept their deep rothé (Underdark cattle). The place was ransacked during the drow invasion, and [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s oozes have dissolved most of what the drow left behind, including the bones of the slaughtered rothé. Two freshwater pools form along the west wall.
 
-Dozens of ooze creatures—[black puddings](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md), [gray oozes](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md), and [ochre jellies](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md)—inhabit this cavern. However, they don't attack intruders unless they are harmed or commanded to do so by [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
+Dozens of ooze creatures—[black puddings](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md), [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md), and [ochre jellies](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md)—inhabit this cavern. However, they don't attack intruders unless they are harmed or commanded to do so by [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
 
-This cave is also home to a [gibbering mouther](/3-Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md) that isn't under the sway of Juiblex or [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md). It crept into this cave and hides among the oozes, occasionally feeding on them. It looks like a pool of reddish-brown slime in the middle of the cave until one or more characters touch it, whereupon it opens its eyes and attacks.
+This cave is also home to a [gibbering mouther](/03_Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md) that isn't under the sway of Juiblex or [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md). It crept into this cave and hides among the oozes, occasionally feeding on them. It looks like a pool of reddish-brown slime in the middle of the cave until one or more characters touch it, whereupon it opens its eyes and attacks.
 
 ### 30. Throne Room
 
@@ -898,15 +898,15 @@ This cave is also home to a [gibbering mouther](/3-Mechanics/CLI/bestiary/aberra
 > Phosphorescent lichen illuminates this cave, the floor of which is covered with pools of green slime. More green slime clings to the ceiling and forms hideous drapes along the walls. In the middle of the cave, facing east, is a slime-covered throne.
 ^2f0
 
-The [Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (see appendix C) holds court here, attended by his royal "children," [Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) and [Prince Livid](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) (see the "Royal Oozes" sidebar).
+The [Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (see appendix C) holds court here, attended by his royal "children," [Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) and [Prince Livid](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) (see the "Royal Oozes" sidebar).
 
-The Pudding's King's throne is made of chiseled stone and sculpted with lidless eyes and gaping mouths. A patch of green slime covers it (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). More patches of green slime hang from the ceiling and form pools on the floor. The pools are easily avoided, while the patches on the ceiling don't fall unless [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) commands them to. [The Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) can use a bonus action to make a patch of green slime fall from the ceiling onto a creature below.
+The Pudding's King's throne is made of chiseled stone and sculpted with lidless eyes and gaping mouths. A patch of green slime covers it (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). More patches of green slime hang from the ceiling and form pools on the floor. The pools are easily avoided, while the patches on the ceiling don't fall unless [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) commands them to. [The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) can use a bonus action to make a patch of green slime fall from the ceiling onto a creature below.
 
-In front of the throne is a footstool made from a squat, [petrified](/3-Mechanics/CLI/conditions.md#Petrified) mushroom. The mushroom's cap can be removed, revealing a hollow compartment in the stem where [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) hides his treasure.
+In front of the throne is a footstool made from a squat, [petrified](/03_Mechanics/CLI/conditions.md#Petrified) mushroom. The mushroom's cap can be removed, revealing a hollow compartment in the stem where [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) hides his treasure.
 
 #### Treasure
 
-The hidden compartment in [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s fungal footstool contains 55 gp, 30 ep, a [potion of poison](/3-Mechanics/CLI/items/potion-of-poison-xdmg.md) in a gourd, two [spell scrolls](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) written on sheets of dried trillimac ([conjure minor elementals](/3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md) and [speak with plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md)), and a varnished nothic eye that functions as a [crystal ball of true seeing](/3-Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md) that can be used only once.
+The hidden compartment in [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s fungal footstool contains 55 gp, 30 ep, a [potion of poison](/03_Mechanics/CLI/items/potion-of-poison-xdmg.md) in a gourd, two [spell scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) written on sheets of dried trillimac ([conjure minor elementals](/03_Mechanics/CLI/spells/conjure-minor-elementals-xphb.md) and [speak with plants](/03_Mechanics/CLI/spells/speak-with-plants-xphb.md)), and a varnished nothic eye that functions as a [crystal ball of true seeing](/03_Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md) that can be used only once.
 
 ## Battle for Blingdenstone
 
@@ -924,13 +924,13 @@ The following sections describe what each deep gnome faction has to offer in the
 
 #### The Diggermattocks
 
-If the characters don't suggest it, the deep gnome leaders note that fighting all the oozes might not be necessary. If the adventurers can get to [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) and destroy him, the oozes might be reduced to their typically mindless and disorganized state. A large force can serve as a distraction, while the characters sneak in from an alternate route.
+If the characters don't suggest it, the deep gnome leaders note that fighting all the oozes might not be necessary. If the adventurers can get to [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) and destroy him, the oozes might be reduced to their typically mindless and disorganized state. A large force can serve as a distraction, while the characters sneak in from an alternate route.
 
-Dorbo Diggermattock wants the main force to attack from the temple of the Steadfast Stone. Before the battle can get underway, the temple must be cleansed (see area 22). Meanwhile, Senni Diggermattock gives Kazook Pickshine the materials he needs to create an alchemical concoction that can clear the debris blocking the way into the domains of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
+Dorbo Diggermattock wants the main force to attack from the temple of the Steadfast Stone. Before the battle can get underway, the temple must be cleansed (see area 22). Meanwhile, Senni Diggermattock gives Kazook Pickshine the materials he needs to create an alchemical concoction that can clear the debris blocking the way into the domains of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
 
 #### The Goldwhisker Clan
 
-Chipgrin doesn't know about [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s deal with Juiblex, but he knows [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) can command the oozes as if they were intelligent. If the characters help convince Dorbo Diggermattock that the Goldwhisker clan belongs in Blingdenstone, the svirfneblin wererats participate in the battle and prove sturdier than the average deep gnome, taking point on any attack.
+Chipgrin doesn't know about [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s deal with Juiblex, but he knows [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) can command the oozes as if they were intelligent. If the characters help convince Dorbo Diggermattock that the Goldwhisker clan belongs in Blingdenstone, the svirfneblin wererats participate in the battle and prove sturdier than the average deep gnome, taking point on any attack.
 
 #### The Stoneheart Enclave
 
@@ -952,7 +952,7 @@ If the characters have not already completed Burrow Warden Jadger's tasks, doing
 
 ### Task List
 
-The success of any plan to rid Blingdenstone of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) and his minions is more likely if the characters complete the following tasks:
+The success of any plan to rid Blingdenstone of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) and his minions is more likely if the characters complete the following tasks:
 
 - Convince Dorbo Diggermattock that the Goldwhisker clan deserves to live in Blingdenstone.  
 - Find Entémoch's Boon.  
@@ -969,9 +969,9 @@ See the "Benefits for Completing Tasks" sidebar for benefits that the characters
 
 When the characters feel that they have attained their goals and secured their resources, the battle for Blingdenstone can begin.
 
-Earth elementals under the control of the Stoneheart Enclave lead the charge, followed by the wererats of Clan Goldwhisker. Svirfneblin under Chief Dorbo Diggermattock form the rearguard and provide ranged support. If the ghosts participate, they attack from above and below. The plan is to get the characters to [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) while the other factions hold the oozes at bay.
+Earth elementals under the control of the Stoneheart Enclave lead the charge, followed by the wererats of Clan Goldwhisker. Svirfneblin under Chief Dorbo Diggermattock form the rearguard and provide ranged support. If the ghosts participate, they attack from above and below. The plan is to get the characters to [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) while the other factions hold the oozes at bay.
 
-To reach [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), the characters must face `1d4 + 2` encounters, minus one encounter per goal achieved in the "Task List" section. Roll a `d6` and consult the Battle of Blingdenstone Encounters table to determine each encounter.
+To reach [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), the characters must face `1d4 + 2` encounters, minus one encounter per goal achieved in the "Task List" section. Roll a `d6` and consult the Battle of Blingdenstone Encounters table to determine each encounter.
 
 > [!note] Benefits for Completing Tasks
 > 
@@ -981,7 +981,7 @@ To reach [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.
 > - If the characters fetch the ingredients from Neverlight Grove, their metal equipment is immune to the corrosive effects of oozes.  
 > - If the characters procure weapons in Gracklstugh, they can call for ranged artillery support during the Battle of Blingdenstone. Each character deals 2 extra damage with each attack during the "Cry Havoc!" encounters, representing covering fire from svirfneblin using duergar-made crossbows.  
 > - If the characters complete the tasks set before them by Burrow Warden Jadger, each character can reroll one attack roll or saving throw during the Battle of Blingdenstone as a ghost emerges from the ground to distract foes.  
-> - If the characters befriended [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) and brought it to Blingdenstone, the intelligent gelatinous cube joins the battle as their ally. If [Glabbagool](/3-Mechanics/CLI/bestiary/npc/glabbagool-oota.md) left the party previously, it can reappear as a surprise ally during the battle.  
+> - If the characters befriended [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) and brought it to Blingdenstone, the intelligent gelatinous cube joins the battle as their ally. If [Glabbagool](/03_Mechanics/CLI/bestiary/npc/glabbagool-oota.md) left the party previously, it can reappear as a surprise ally during the battle.  
 ^benefits-for-completing-tasks
 
 #### Battle of Blingdenstone Encounters
@@ -990,30 +990,30 @@ To reach [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1–2 | 1 [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) and 2 [gray oozes](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) |
-| 3 | 1 [gelatinous cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) and 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
-| 4–5 | 3 [gray oozes](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) and 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
-| 6 | 2 [black puddings](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
+| 1–2 | 1 [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) and 2 [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) |
+| 3 | 1 [gelatinous cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) and 1 [ochre jelly](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
+| 4–5 | 3 [gray oozes](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) and 1 [ochre jelly](/03_Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
+| 6 | 2 [black puddings](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
 ^encounter
 
-During the battle, the voice of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) can be heard through the layers of oozing miasma, crying out "Fight for your king!" and "Glory to the Faceless Lord!"
+During the battle, the voice of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) can be heard through the layers of oozing miasma, crying out "Fight for your king!" and "Glory to the Faceless Lord!"
 
 ### Oozing Royalty
 
-When the characters defeat the last group of oozes, but before they reach area 30, [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) appears.
+When the characters defeat the last group of oozes, but before they reach area 30, [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) appears.
 
 > [!readaloud] 
 > 
 > The insane, slime-covered deep gnome points at you and cackles. "Devour them, my precious children! Make your father proud!" He then bolts as two oozes drop from the ceiling in front of you, their dark forms flowing in your direction with unsettling awareness and malevolence.
 ^2fe
 
-The characters must contend with [Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) and [Prince Livid](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) (see the "Royal Oozes" sidebar). These dimly intelligent oozes defend their master to the death, blocking the characters from reaching the [Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) as he retreats to his throne room (area 30).
+The characters must contend with [Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) and [Prince Livid](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) (see the "Royal Oozes" sidebar). These dimly intelligent oozes defend their master to the death, blocking the characters from reaching the [Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) as he retreats to his throne room (area 30).
 
-[Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) engages in melee, protecting Prince Livid as it uses its Psychic Crush attack. Prince Livid prefers to slink and hide while its Psychic Crush attack recharges.
+[Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) engages in melee, protecting Prince Livid as it uses its Psychic Crush attack. Prince Livid prefers to slink and hide while its Psychic Crush attack recharges.
 
 #### Treasure
 
-When [Princess Ebonmire](/3-Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) dies, the black pudding disgorges a pair of spellbooks with covers made from troglodyte hide and pages made from trillimac fungus (see "Fungi of the Underdark" in chapter 2). The covers and pages are coated with a magical varnish that renders them immune to acid damage, protecting them from the pudding's digestive juices. The varnish also protects against water damage.
+When [Princess Ebonmire](/03_Mechanics/CLI/bestiary/npc/princess-ebonmire-oota.md) dies, the black pudding disgorges a pair of spellbooks with covers made from troglodyte hide and pages made from trillimac fungus (see "Fungi of the Underdark" in chapter 2). The covers and pages are coated with a magical varnish that renders them immune to acid damage, protecting them from the pudding's digestive juices. The varnish also protects against water damage.
 
 A svirfneblin archmage named Lesla Carrowil authored both spellbooks. The wizard spells contained in each book are listed below; feel free to swap out any spell with another of the same level.
 
@@ -1021,53 +1021,53 @@ The first spellbook, titled *Underland Magick*, contains the following spells:
 
 > [!note] 
 > 
-> 1st level: [alarm](/3-Mechanics/CLI/spells/alarm-xphb.md), [color spray](/3-Mechanics/CLI/spells/color-spray-xphb.md), [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md), [find familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md), [grease](/3-Mechanics/CLI/spells/grease-xphb.md), [identify](/3-Mechanics/CLI/spells/identify-xphb.md), [jump](/3-Mechanics/CLI/spells/jump-xphb.md), [Tasha's hideous laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md)
+> 1st level: [alarm](/03_Mechanics/CLI/spells/alarm-xphb.md), [color spray](/03_Mechanics/CLI/spells/color-spray-xphb.md), [comprehend languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md), [find familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md), [grease](/03_Mechanics/CLI/spells/grease-xphb.md), [identify](/03_Mechanics/CLI/spells/identify-xphb.md), [jump](/03_Mechanics/CLI/spells/jump-xphb.md), [Tasha's hideous laughter](/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [unseen servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md)
 > 
-> 2nd level: [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [blur](/3-Mechanics/CLI/spells/blur-xphb.md), [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [knock](/3-Mechanics/CLI/spells/knock-xphb.md), [magic weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md), [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md), [spider climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md)
+> 2nd level: [alter self](/03_Mechanics/CLI/spells/alter-self-xphb.md), [blur](/03_Mechanics/CLI/spells/blur-xphb.md), [crown of madness](/03_Mechanics/CLI/spells/crown-of-madness-xphb.md), [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md), [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [knock](/03_Mechanics/CLI/spells/knock-xphb.md), [magic weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md), [phantasmal force](/03_Mechanics/CLI/spells/phantasmal-force-xphb.md), [spider climb](/03_Mechanics/CLI/spells/spider-climb-xphb.md)
 > 
-> 3rd level: [blink](/3-Mechanics/CLI/spells/blink-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [gaseous form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md), [protection from energy](/3-Mechanics/CLI/spells/protection-from-energy-xphb.md), [slow](/3-Mechanics/CLI/spells/slow-xphb.md), [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md), [water breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md)
+> 3rd level: [blink](/03_Mechanics/CLI/spells/blink-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [gaseous form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/03_Mechanics/CLI/spells/major-image-xphb.md), [protection from energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md), [slow](/03_Mechanics/CLI/spells/slow-xphb.md), [tongues](/03_Mechanics/CLI/spells/tongues-xphb.md), [water breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md)
 > 
-> 4th level: [blight](/3-Mechanics/CLI/spells/blight-xphb.md), [fabricate](/3-Mechanics/CLI/spells/fabricate-xphb.md), [fire shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md), [hallucinatory terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md), [locate creature](/3-Mechanics/CLI/spells/locate-creature-xphb.md), [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md), [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md)
+> 4th level: [blight](/03_Mechanics/CLI/spells/blight-xphb.md), [fabricate](/03_Mechanics/CLI/spells/fabricate-xphb.md), [fire shield](/03_Mechanics/CLI/spells/fire-shield-xphb.md), [hallucinatory terrain](/03_Mechanics/CLI/spells/hallucinatory-terrain-xphb.md), [locate creature](/03_Mechanics/CLI/spells/locate-creature-xphb.md), [phantasmal killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md), [polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md), [stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md)
 ^300
 
 The second spellbook, titled *Magick from Beyond the Mirror*, contains the following spells:
 
 > [!note] 
 > 
-> 5th level: [Bigby's hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md), [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md), [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md), [legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md), [passwall](/3-Mechanics/CLI/spells/passwall-xphb.md), [Rary's telepathic bond](/3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md), [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md)
+> 5th level: [Bigby's hand](/03_Mechanics/CLI/spells/bigbys-hand-xphb.md), [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md), [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md), [legend lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md), [passwall](/03_Mechanics/CLI/spells/passwall-xphb.md), [Rary's telepathic bond](/03_Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md), [telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md), [wall of stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md)
 > 
-> 6th level: [chain lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md), [disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md), [Drawmij's instant summons](/3-Mechanics/CLI/spells/drawmijs-instant-summons-xphb.md), [eyebite](/3-Mechanics/CLI/spells/eyebite-xphb.md), [flesh to stone](/3-Mechanics/CLI/spells/flesh-to-stone-xphb.md), [Otto's irresistible dance](/3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md), [true seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)
+> 6th level: [chain lightning](/03_Mechanics/CLI/spells/chain-lightning-xphb.md), [disintegrate](/03_Mechanics/CLI/spells/disintegrate-xphb.md), [Drawmij's instant summons](/03_Mechanics/CLI/spells/drawmijs-instant-summons-xphb.md), [eyebite](/03_Mechanics/CLI/spells/eyebite-xphb.md), [flesh to stone](/03_Mechanics/CLI/spells/flesh-to-stone-xphb.md), [Otto's irresistible dance](/03_Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md), [true seeing](/03_Mechanics/CLI/spells/true-seeing-xphb.md)
 > 
-> 7th level: [forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md), [mirage arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md), [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md), [prismatic spray](/3-Mechanics/CLI/spells/prismatic-spray-xphb.md), [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md), [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)
+> 7th level: [forcecage](/03_Mechanics/CLI/spells/forcecage-xphb.md), [mirage arcane](/03_Mechanics/CLI/spells/mirage-arcane-xphb.md), [Mordenkainen's magnificent mansion](/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md), [prismatic spray](/03_Mechanics/CLI/spells/prismatic-spray-xphb.md), [reverse gravity](/03_Mechanics/CLI/spells/reverse-gravity-xphb.md), [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md)
 > 
-> 8th level: [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md), [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md), [incendiary cloud](/3-Mechanics/CLI/spells/incendiary-cloud-xphb.md), [maze](/3-Mechanics/CLI/spells/maze-xphb.md), [power word stun](/3-Mechanics/CLI/spells/power-word-stun-xphb.md), [telepathy](/3-Mechanics/CLI/spells/telepathy-xphb.md)
+> 8th level: [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md), [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md), [incendiary cloud](/03_Mechanics/CLI/spells/incendiary-cloud-xphb.md), [maze](/03_Mechanics/CLI/spells/maze-xphb.md), [power word stun](/03_Mechanics/CLI/spells/power-word-stun-xphb.md), [telepathy](/03_Mechanics/CLI/spells/telepathy-xphb.md)
 ^301
 
 ### The Pudding King
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/061-ooa06-08.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/061-ooa06-08.webp#center)
 
 The mad svirfneblin waits for the characters in his disgusting throne room. If the characters haven't seen the throne room before, read the boxed text description of the room (see area 30) and add the following:
 
 > [!readaloud] 
 > 
-> [The Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) cowers behind his slime-covered throne and chortles in his joy. "Callooh! Callay! Now you can join the party!" he cackles. "You can be one with the Faceless Lord. Just let yourselves be eaten and disgorged!"
+> [The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) cowers behind his slime-covered throne and chortles in his joy. "Callooh! Callay! Now you can join the party!" he cackles. "You can be one with the Faceless Lord. Just let yourselves be eaten and disgorged!"
 ^303
 
-The [Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (see appendix C) prefers to cast spells while using the throne for cover. As a bonus action on his turn, he commands a patch of green slime to drop from the ceiling onto one randomly determined party member (see ""Dungeon Hazards"" in chapter 5 of the Dungeon Master's Guide for the rules and effects of green slime).
+The [Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) (see appendix C) prefers to cast spells while using the throne for cover. As a bonus action on his turn, he commands a patch of green slime to drop from the ceiling onto one randomly determined party member (see ""Dungeon Hazards"" in chapter 5 of the Dungeon Master's Guide for the rules and effects of green slime).
 
-When one or more of the characters close to within reach of [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), he laughs madly as he tears away his humanoid guise and transforms into an ooze. When he reaches 0 hit points, he shrieks as he dissolves into a dense puddle of goo. Read the following boxed text as he expires:
+When one or more of the characters close to within reach of [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), he laughs madly as he tears away his humanoid guise and transforms into an ooze. When he reaches 0 hit points, he shrieks as he dissolves into a dense puddle of goo. Read the following boxed text as he expires:
 
 > [!readaloud] 
 > 
 > "You haven't won! No! We will rise from our children! We will be reborn from the Faceless Lord! Juiblex will consume the banquet of the Queen of Fungi and we... will... all... grow... !"
 ^304
 
-With [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) gone, the oozes lose their organization, but they are still too many and the svirfneblin sound the call to retreat. Three [galeb duhr](/3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) led by the ghost of Burrow Warden Jadger arrive to take the characters to safety. If the svirfneblin of Blingdenstone didn't already have a friendly attitude, they become friendly toward the characters after the battle.
+With [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) gone, the oozes lose their organization, but they are still too many and the svirfneblin sound the call to retreat. Three [galeb duhr](/03_Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md) led by the ghost of Burrow Warden Jadger arrive to take the characters to safety. If the svirfneblin of Blingdenstone didn't already have a friendly attitude, they become friendly toward the characters after the battle.
 
 #### Development
 
-Back in Diggermattock Hall, the gnome leaders make good on their promise, giving the characters a [stone of controlling earth elementals](/3-Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg.md) along with the gratitude of their people.
+Back in Diggermattock Hall, the gnome leaders make good on their promise, giving the characters a [stone of controlling earth elementals](/03_Mechanics/CLI/items/stone-of-controlling-earth-elementals-xdmg.md) along with the gratitude of their people.
 
 #### XP Awards
 
@@ -1077,6 +1077,6 @@ If the characters participated in the battle, they gain a special award of 200 X
 
 The characters can leave Blingdenstone as heroes of the svirfneblin. If they express interest in visiting other Underdark locations, the deep gnomes give them whatever help they can, including placing them in a caravan to Gracklstugh or Neverlight Grove. If the characters ask for help reaching the surface world, the gnomes guiding them to a tunnel that leads there (eventually). They also provide enough food, water, and other basic supplies for the party's journey.
 
-The characters achieve a great victory if they defeat [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), but their victory is incomplete. [The Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s death is a small setback for Juiblex, and the demon lord might send another minion to command the remaining oozes in Blingdenstone until they are destroyed.
+The characters achieve a great victory if they defeat [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), but their victory is incomplete. [The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s death is a small setback for Juiblex, and the demon lord might send another minion to command the remaining oozes in Blingdenstone until they are destroyed.
 
-The "banquet" [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) referred to is the demonic rite of domination through which Zuggtmoy plans to transform the Underdark into her new abyssal domain. See chapter 16, "The Fetid Wedding," for more information.
+The "banquet" [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) referred to is the demonic rite of domination through which Zuggtmoy plans to transform the Underdark into her new abyssal domain. See chapter 16, "The Fetid Wedding," for more information.

@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Half Plate Armor
 *Medium armor*  
-![](/3-Mechanics/CLI/items/img/half-plate-armor.webp#right)
+![](/03_Mechanics/CLI/items/img/half-plate-armor.webp#right)
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

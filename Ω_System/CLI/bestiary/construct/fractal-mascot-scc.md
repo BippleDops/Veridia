@@ -37,7 +37,7 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1/4"
@@ -62,6 +62,6 @@ Because of their arithmetic basis, fractal mascots can alter both their size and
     "name": "Diminish"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/fractal-mascot-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/fractal-mascot-scc.webp"
 ```
 ^statblock

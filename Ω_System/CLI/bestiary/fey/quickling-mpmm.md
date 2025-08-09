@@ -46,24 +46,24 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
   - !!int "7"
 "speed": "120 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)"
     "desc": "+8"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "Attack rolls against the quickling have disadvantage unless it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Attack rolls against the quickling have disadvantage unless it is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ or its speed is 0."
     "name": "Blurred Movement"
   - "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-      \ on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Evasion"
 "actions":
   - "desc": "The quickling makes three Dagger attacks."
@@ -74,7 +74,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp"
 ```
 ^statblock
 

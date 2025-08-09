@@ -20,7 +20,7 @@ The astral brig is the standard githyanki military vessel. It requires a crew of
 
 ```ad-statblock
 title: Astral Brig
-![](/3-Mechanics/CLI/vehicles/token/astral-brig-mtf.webp#token)
+![](/03_Mechanics/CLI/vehicles/token/astral-brig-mtf.webp#token)
 *Gargantuan vehicle (90 ft. by 30 ft.); air*
 
 - **Creature Capacity** 5 crew, 60 passengers

@@ -51,20 +51,20 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "constitution": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "19"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -80,7 +80,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ (2d10 + 6) force damage plus 11 (2d10) fire damage."
     "name": "Claw"
   - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
-      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ of it for 1 minute. A creature can repeat the saving throw at the end of each\
       \ of its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -88,21 +88,21 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Frightful Presence"
   - "desc": "The abishai chooses up to four other creatures within 60 feet of it that\
       \ can see it. Until the start of the abishai's next turn, each of those creatures\
-      \ makes attack rolls with advantage and can't be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+      \ makes attack rolls with advantage and can't be [frightened](/03_Mechanics/CLI/conditions.md#Frightened)."
     "name": "Incite Fanaticism"
   - "desc": "The abishai targets one Dragon it can see within 120 feet of it. The\
       \ Dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this\
       \ save with disadvantage. On a successful save, the target is immune to the\
       \ abishai's Power of the Dragon Queen for 1 hour. On a failed save, the target\
-      \ is [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the abishai for 1\
-      \ hour. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed) in this way,\
+      \ is [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the abishai for 1\
+      \ hour. While [charmed](/03_Mechanics/CLI/conditions.md#Charmed) in this way,\
       \ the target regards the abishai as a trusted friend to be heeded and protected.\
       \ This effect ends if the abishai or its companions deal damage to the target."
     "name": "Power of the Dragon Queen"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/red-abishai-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/red-abishai-mpmm.webp"
 ```
 ^statblock
 

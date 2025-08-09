@@ -34,9 +34,9 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "poison"
 "senses": "darkvision 60 ft., passive Perception 14"
@@ -45,7 +45,7 @@ aliases:
 "traits":
   - "desc": "The drake has advantage on an attack roll against a creature if at least\
       \ one of the drake's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "If the drake surprises a creature and hits it with an attack during the\
       \ first round of combat, the target takes an extra 7 (2d6) damage from the attack."
@@ -56,6 +56,6 @@ aliases:
     "name": "Bite"
 "source":
   - "HotDQ"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ambush-drake-hotdq.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/ambush-drake-hotdq.webp"
 ```
 ^statblock

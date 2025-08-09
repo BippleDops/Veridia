@@ -44,13 +44,13 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
@@ -73,7 +73,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
     "name": "Claw (Hybrid Form Only)"
   - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
       \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-      \ or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of the\
+      \ or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until the end of the\
       \ deep scion's next turn. In water, the psychic screech also telepathically\
       \ transmits the deep scion's memories of the last 24 hours to its master, regardless\
       \ of distance, so long as it and its master are in the same body of water."
@@ -87,7 +87,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp"
 ```
 ^statblock
 

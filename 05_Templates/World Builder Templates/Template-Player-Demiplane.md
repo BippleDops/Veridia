@@ -1,105 +1,83 @@
 ---
-MyContainer: []
-MyCategory:
-tags:
-  - Category/People
-obsidianUIMode: preview
+NoteIcon: player
 aliases:
-  - characters other name
-NoteStatus: ❓
-char_status: Alive
+  - Bob
+tags:
+  - Category/Player
+Player: Bob
+Role: Player
+Class:
+  - Barbarian
+Race:
+  - Human
+level: 2
+hp: 55
+max_hp: 71
+ac: 16
+modifier: 3
+pasperc: 13
+Status: Active
+PlayerKnownLanguages:
+  - Celestial
+  - Common
+  - Dwarvish
+faction_standing:
+  Faction Name 1: 1
+  Faction Name 3: 3
 char_race: Human
 char_gender: Male
-char_items:
-char_age: Adult
+char_status: Alive
+char_age: Young Adult
+char_items: []
 parents:
-  - Josh
-  - Susan
-children:
-  - Bob
-  - Fred
-enemies:
-  - Zander
-allies:
-  - Emyerson
-  - Bob
-  - Frank
-siblings:
-  - Flip
+  - Mother
+  - Father
 partner:
-  - Jane
-Connected_Quests: []
-Connected_Groups: []
+  - Partner
+children:
+  - Son
+allies:
+  - Friend
+enemies:
+  - Enemy
+siblings:
+  - Sister
+obsidianUIMode: preview
+MyContainer:
 ---
 
 <%*
-
-// 1) Prompt for Person's Name and rename file
-const personName = await tp.system.prompt("Enter Person’s Name", tp.file.title);
-if (!personName) return;
-await tp.file.rename(personName);
-
-// 2) Gather all potential residence notes
-const allFiles = tp.app.vault.getMarkdownFiles();
-const locationFiles = allFiles.filter(f =>
-  f.path.startsWith("2-World/Hubs/") ||
-  f.path.startsWith("2-World/Points of Interest/") ||
-  f.path.startsWith("2-World/Regions/") ||
-  f.path.startsWith("2-World/Places/")
-);
-
-// Add placeholder option
-const placeholderLabel = "🌀 No Residence Selected";
-const placeholderPath = "__placeholder__";
-
-const locationChoices = [placeholderLabel, ...locationFiles.map(f => f.basename)];
-const locationValues  = [placeholderPath, ...locationFiles.map(f => f.path)];
-
-const chosenPath = await tp.system.suggester(locationChoices, locationValues, true);
-if (!chosenPath) return;
-
-// 3) Build wiki-link
-let locationLink = null;
-if (chosenPath !== placeholderPath) {
-  const alias = chosenPath.split("/").pop().replace(/\.md$/, "");
-  locationLink = `[[${chosenPath}|${alias}]]`;
+const hasTitle = !tp.file.title.startsWith("NewPlayer");
+let title;
+if (!hasTitle) {
+    title = await tp.system.prompt("Enter Player Name");
+    await tp.file.rename(title);
+} else {
+    title = tp.file.title;
 }
+_%>
 
-// 4) Insert into front-matter as MyContainer
-setTimeout(() => {
-  const file = tp.file.find_tfile(tp.file.path(true));
-  if (!file) return;
-  app.fileManager.processFrontMatter(file, fm => {
-    fm["MyContainer"] = locationLink ?? "None";
-  });
-}, 100);
-
-%>
-
-
-
-> [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Hub),optionQuery(#Category/Region),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
+> [!NOTE|div-m] Player Name:  `Placeholder`
 
 > [!column|no-i no-t]
 >> [!div-m|no-title]
->> ![[Template_Person_Placeholder.png]]
+>> ![[Template_Player_Placeholder.png]]
 >
 >> [!div-m|no-title] Place Name
 >> ~~~meta-bind
 >> INPUT[select(
->> option(1, ℹ️General),
->> option(2, 📒Statblock),
+>> option(1, 🧙Description),
+>> option(2, ⚙️Configure),
 >> option(3, 📝GM Notes),
 >> class(tabbed)
 >> )]
 >> ~~~
->>>[!tabbed-box-maxh]
+>>>[!tabbed-box-maxh480|10]
 >>> >[!div-m|no-title]
->>> > ![[#General|no-h clean]]
->>>
->>> > [!div-m|no-title]
->>> > ![[#Statblock|no-h clean]]
+>>> > ![[#Description|no-h clean]]
+>>> 
+>>> >[!div-m|no-title]
+>>> > ![[#Configure|no-h clean]]
 >>> 
 >>> > [!div-m|no-title]
 >>> > ![[#GM Notes|no-h clean]]
@@ -108,14 +86,17 @@ setTimeout(() => {
 > [!NOTE|no-title]
 > ~~~meta-bind
 > INPUT[select(
-> option(1, ⚔️Inventory),
-> option(2, 🔗Connections),
-> option(3, 🧑‍🤝‍🧑Relationships),
+> option(1, 🧙‍♂️Char Sheet),
+> option(2, ⚔️Inventory),
+> option(3, 🔗Connections),
+> option(4, 🧑‍🤝‍🧑Relationships),
 > class(tabbed)
 > )]
 > ~~~
 > >[!tabbed-box-maxh]
 > > >[!div-m|no-title]
+> > > ![[#Character Sheet|no-h clean]]
+> >
 > > > ![[#Inventory|no-h clean]]
 > >
 > > > [!div-m|no-title]
@@ -126,70 +107,72 @@ setTimeout(() => {
 
 ---
 
-# General
+```dataviewjs
+const player = dv.current();
+const factions = dv.pages('"03_Mechanics/Guilds and Groups"');
+let tableData = [];
+for (let faction of factions) {
+    let factionName = faction.faction;
+    let playerStanding = player.faction_standing?.[factionName] || 0;
 
-Name: `= this.file.name`
+    // Ensure benefits is treated as an array
+    let benefitsList = Array.isArray(faction.benefits) ? faction.benefits : [];
 
+    // Filter benefits the player qualifies for
+    let qualifiedBenefits = benefitsList
+        .filter(b => playerStanding >= b.standing)
+        .map(b => b.reward)
+        .join(", "); 
 
-Status: `INPUT[inlineSelect(option(Alive), option(Dead), option(Missing), option(Unknown))][:char_status]`
+    let primaryContact = faction.primary_contact || "No contact set";
 
-Race/Species: `INPUT[inlineSelect(option(Human), option(Elf), option(Dwarf), option(Halfling), option(Orc), option(Dragonborn), option(Tiefling), option(Gnome), option(Half-Elf), option(Half-Orc))][:char_race]`
+    tableData.push([factionName, playerStanding, qualifiedBenefits || "No benefits yet", primaryContact]);
+}
+dv.table(["Faction", "Your Standing", "Benefits", "Primary Contact"], tableData);
+```
 
-Gender: `INPUT[inlineSelect(option(Male), option(Female), option(Nonbinary), option(Other))][:char_gender]`
-
-Age: `INPUT[inlineSelect(option(Child), option(Teen), option(Adult), option(Elder))][:char_age]`
-
----
+# Description
 
 This is the persons description. 
 
-# Statblock
+# Configure
 
-```statblock
-monster: Commoner
-```
+| Initiative Tracker Stat     | Value                        |
+| -------- | ---------------------------- |
+| Level    | `INPUT[number:level]`        |
+| HP       | `INPUT[number:hp]`           |
+| AC       | `INPUT[number:ac]`           |
+| Modifier | `INPUT[number:modifier]`     |
+
+
 
 # GM Notes
 
 Make notes of what you need to track in the town here. 
 
+# Character Sheet
+
+%% CONTENTS OF THE CUSTOM FRAME CAN BE SET IN THE CUSTOM FRAME PLUGIN SETTINGS %%
+```custom-frames
+frame: Demiplane
+style: height: 800px;
+```
+
 # Inventory
 
 The following items belong to `= this.file.name`.
 
-```dataviewjs
-// This dataviewjs code grabs a random item(s) from the folder below. You can remove this if that's not useful. It's an example of what's possible. 
-// 1. grab all pages in the folder
-let pages = dv.pages('"3-Mechanics/Items"').values;
-
-// 2. shuffle (Fisher–Yates)
-for (let i = pages.length - 1; i > 0; i--) {
-  const j = Math.floor(Math.random() * (i + 1));
-  [pages[i], pages[j]] = [pages[j], pages[i]];
-}
-
-// 3. take the first two
-let pick = pages.slice(0, 1);
-
-// 4. render table of clickable links + Gender
-dv.table(
-  ["Random Item", "cost", "weight"],
-  pick.map(p => [
-    dv.fileLink(p.file.path),        // clickable note link
-    p.cost ?? "—",                  // frontmatter field (falls back to “—” if missing)
-    p.weight ?? "—"                  // frontmatter field (falls back to “—” if missing)
-  ])
-);
-```
+Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
+%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
 
 # Connections
 Is the person linked to any groups or quests?
 
 Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quests]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
+%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
 
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
-%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %% 
+%% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
 
 # Relationships
 
@@ -246,6 +229,5 @@ dv.paragraph("```mermaid\nflowchart LR\n" +
 > | Siblings    | Enemies    | Allies |
 > | --- | --- | --- |
 > | `INPUT[list:siblings]`    | `INPUT[list:enemies]`    | `INPUT[list:allies]`  |
-
 
 

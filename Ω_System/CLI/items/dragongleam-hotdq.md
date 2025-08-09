@@ -15,16 +15,16 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Dragongleam
-*Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md))*  
+*Weapon ([spear](/03_Mechanics/CLI/items/spear-xphb.md))*  
 
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
-This spear is enchanted with 10 charges of a [daylight](/3-Mechanics/CLI/spells/daylight-xphb.md) spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
+This spear is enchanted with 10 charges of a [daylight](/03_Mechanics/CLI/spells/daylight-xphb.md) spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
 
 *Source: Hoard of the Dragon Queen p. 84*

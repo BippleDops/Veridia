@@ -34,20 +34,20 @@ aliases:
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The hound has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The hound has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The hound has advantage on an attack roll against a creature if at least\
       \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The hound appears with a number of temporary hit points equal to half\
       \ your sorcerer level."
@@ -69,10 +69,10 @@ aliases:
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "XGE"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
 ```
 ^statblock

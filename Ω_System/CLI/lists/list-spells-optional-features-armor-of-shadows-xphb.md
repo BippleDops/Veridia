@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md "XPHB")
+- [Mage Armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md "XPHB")

@@ -31,7 +31,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](/03_Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "2"
@@ -58,7 +58,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
       \ + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and\
-      \ it doesn't provoke [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ it doesn't provoke [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
     "name": "Sudden Rush"
 "bonus_actions":
   - "desc": "After the gnoll reduces a creature to 0 hit points with a melee attack\
@@ -67,7 +67,7 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/gnoll-flesh-gnawer-mpmm.webp"
 ```
 ^statblock
 

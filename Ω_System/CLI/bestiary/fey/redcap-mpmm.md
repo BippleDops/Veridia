@@ -49,15 +49,15 @@ In any case, if a redcap works with another being, the redcap demands to be paid
   - !!int "9"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-  - "desc": "The redcap has disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The redcap has disadvantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth))\
       \ checks."
     "name": "Iron Boots"
   - "desc": "While grappling, the redcap is considered to be Medium. Also, wielding\
@@ -71,12 +71,12 @@ In any case, if a redcap works with another being, the redcap demands to be paid
     "name": "Wicked Sickle"
   - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
       \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw\
-      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Ironbound Pursuit"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp"
 ```
 ^statblock
 

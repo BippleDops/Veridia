@@ -58,9 +58,9 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+13"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
@@ -71,30 +71,30 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md)."
+      \ use of Spellcasting to cast [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 13 (1d10 + 8) Slashing\
       \ damage plus 5 (2d4) Fire damage."
     "name": "Rend"
-  - "desc": "Dexterity Saving Throw: DC 21, each creature in a 60-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Dexterity Saving Throw: DC 21, each creature in a 60-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: 59 (17d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20, +12 to hit\
-      \ with spell attacks):\n\nAt will: [Command](/3-Mechanics/CLI/spells/command-xphb.md)\
-      \ (level 2 version), [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md)\n\n1/day:\
-      \ [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)"
+      \ with spell attacks):\n\nAt will: [Command](/03_Mechanics/CLI/spells/command-xphb.md)\
+      \ (level 2 version), [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md)\n\n1/day:\
+      \ [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md)"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Command](/3-Mechanics/CLI/spells/command-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [Command](/03_Mechanics/CLI/spells/command-xphb.md)\
       \ (level 2 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Commanding Presence"
-  - "desc": "The dragon uses Spellcasting to cast [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md).\
+  - "desc": "The dragon uses Spellcasting to cast [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md).\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Fiery Rays"
-  - "desc": "The dragon moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "regional_effects":
@@ -104,18 +104,18 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "desc": "- Burning Heat. The area within 1 mile of the lair is an area of\
       \ extreme heat. A burning creature or object takes an additional d4 Fire damage\
       \ at the start of each of its turns.  \n- Smoldering Haze. The area within\
-      \ 1 mile of the lair is [Lightly Obscured](/3-Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
+      \ 1 mile of the lair is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
       \ with clouds of ash. Whenever a creature other than the dragon or one of its\
-      \ allies finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ allies finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md)\
       \ in that area, that creature must succeed on a DC 15 Constitution saving throw\
-      \ or have the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ or have the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition\
       \ for 1 hour.  "
     "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-red-dragon-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-red-dragon-xmm.webp"
 ```
 ^statblock
 

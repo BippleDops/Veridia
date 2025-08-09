@@ -1,18 +1,15 @@
 formulas:
-  # Monster/NPC image with fallback
   CombatantImage: |
     js:
     if (target.image_path) {
       return `![[${target.image_path}|80]]`;
     } else if (target.monster_type) {
-      return `![[z_Assets/Placeholder Images/${target.monster_type}.png|80]]`;
+      return `![[Ω_Assets/Placeholder Images/${target.monster_type}.png|80]]`;
     } else if (target.char_race) {
-      return `![[z_Assets/Placeholder Images/${target.char_race}_Combat.png|80]]`;
+      return `![[Ω_Assets/Placeholder Images/${target.char_race}_Combat.png|80]]`;
     } else {
-      return `![[z_Assets/Placeholder Images/CombatDefault.png|80]]`;
+      return `![[Ω_Assets/Placeholder Images/CombatDefault.png|80]]`;
     }
-  
-  # Health bar visualization
   HealthBar: |
     js:
     if (target.current_hp && target.max_hp) {
@@ -21,8 +18,6 @@ formulas:
       return `<progress value="${target.current_hp}" max="${target.max_hp}" style="width: 100px; accent-color: ${barColor};">${percentage.toFixed(0)}%</progress>`;
     }
     return "No HP data";
-  
-  # Low HP badge (< 25%)
   LowHPBadge: |
     js:
     if (target.current_hp && target.max_hp) {
@@ -30,16 +25,12 @@ formulas:
       return percentage < 25 ? '⚠️ Low' : '';
     }
     return '';
-  
-  # Initiative display
   InitiativeDisplay: |
     js:
     if (target.initiative) {
       return `🎲 ${target.initiative}`;
     }
     return "🎲 --";
-  
-  # Combat status
   CombatStatus: |
     js:
     const conditions = [];
@@ -49,7 +40,6 @@ formulas:
     if (target.is_invisible) conditions.push("Invisible");
     if (target.is_concentrating) conditions.push("Concentrating");
     return conditions.length > 0 ? conditions.join(", ") : "Normal";
-
 views:
   - type: table
     name: Initiative Tracker
@@ -66,7 +56,7 @@ views:
       - notes
       - formula.LowHPBadge
     sort:
-      - column: initiative
+      - property: initiative
         direction: DESC
     columnSize:
       formula.InitiativeDisplay: 80
@@ -77,8 +67,7 @@ views:
       formula.CombatStatus: 150
       notes: 200
       formula.LowHPBadge: 80
-    
-  - type: gallery
+  - type: cards
     name: Combat Gallery
     filters:
       and:
@@ -88,4 +77,4 @@ views:
       - formula.CombatantImage
       - file.name
       - formula.InitiativeDisplay
-      - formula.HealthBar 
+      - formula.HealthBar

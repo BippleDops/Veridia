@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/orb-of-dragonkind.webp#right)
+![](/03_Mechanics/CLI/items/img/orb-of-dragonkind.webp#right)
 
 - **Weight**: 3.0 lbs.
 
@@ -27,17 +27,17 @@ Each orb contains the essence of an evil dragon, a presence that resents any att
 
 An orb is an etched crystal globe about 10 inches in diameter. When used, it grows to about 20 inches in diameter, and mist swirls inside it.
 
-While attuned to an orb, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to peer into the orb's depths. You must then make a DC 15 Charisma saving throw. On a successful save, you control the orb for as long as you remain attuned to it. On a failed save, the orb imposes the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition on you for as long as you remain attuned to it.
+While attuned to an orb, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to peer into the orb's depths. You must then make a DC 15 Charisma saving throw. On a successful save, you control the orb for as long as you remain attuned to it. On a failed save, the orb imposes the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition on you for as long as you remain attuned to it.
 
-While you are [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the orb, you can't voluntarily end your [Attunement](/3-Mechanics/CLI/variant-rules/attunement-xphb.md) to it, and the orb casts [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
+While you are [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the orb, you can't voluntarily end your [Attunement](/03_Mechanics/CLI/variant-rules/attunement-xphb.md) to it, and the orb casts [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md) on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
 
 ## Random Properties
 
 An Orb of Dragonkind has the following random properties:
 
-- 2 [minor beneficial](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [minor detrimental](/3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
-- 1 [major detrimental](/3-Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg.md) property  
+- 2 [minor beneficial](/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 1 [minor detrimental](/03_Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
+- 1 [major detrimental](/03_Mechanics/CLI/tables/artifact-properties-major-detrimental-properties-xdmg.md) property  
 
 ## Spells
 
@@ -45,19 +45,19 @@ The orb has 7 charges and regains `1d4 + 3` expended charges daily at dawn. If y
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) (level 9 version) | 4 |
-| [Daylight](/3-Mechanics/CLI/spells/daylight-xphb.md) | 1 |
-| [Death Ward](/3-Mechanics/CLI/spells/death-ward-xphb.md) | 2 |
-| [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) | 0 |
-| [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) (save DC 18) | 3 |
+| [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md) (level 9 version) | 4 |
+| [Daylight](/03_Mechanics/CLI/spells/daylight-xphb.md) | 1 |
+| [Death Ward](/03_Mechanics/CLI/spells/death-ward-xphb.md) | 2 |
+| [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) | 0 |
+| [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md) (save DC 18) | 3 |
 ^spell-charge-cost
 
 ## Call Dragons
 
-While you control the orb, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
+While you control the orb, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to cause the orb to issue a telepathic call that extends in all directions for 40 miles. Chromatic dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as "Tiamat" are unaffected by this call. Chromatic dragons drawn to the orb might be [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 
 ## Destroying an Orb
 
-An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [Disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md) spell. Nothing else can harm it.
+An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [Disintegrate](/03_Mechanics/CLI/spells/disintegrate-xphb.md) spell. Nothing else can harm it.
 
 *Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Dragon Orb") and the Free Rules (2024)*

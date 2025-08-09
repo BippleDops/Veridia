@@ -13,25 +13,25 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Bless](/3-Mechanics/CLI/spells/bless-xphb.md "XPHB") at class level 3
-- [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB") at class level 3
+- [Bless](/03_Mechanics/CLI/spells/bless-xphb.md "XPHB") at class level 3
+- [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Aid](/3-Mechanics/CLI/spells/aid-xphb.md "XPHB") at class level 3
-- [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB") at class level 3
+- [Aid](/03_Mechanics/CLI/spells/aid-xphb.md "XPHB") at class level 3
+- [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Mass Healing Word](/3-Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB") at class level 3
-- [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md "XPHB") at class level 3
+- [Mass Healing Word](/03_Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB") at class level 3
+- [Revivify](/03_Mechanics/CLI/spells/revivify-xphb.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Aura of Life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md "XPHB") at class level 3
-- [Death Ward](/3-Mechanics/CLI/spells/death-ward-xphb.md "XPHB") at class level 3
+- [Aura of Life](/03_Mechanics/CLI/spells/aura-of-life-xphb.md "XPHB") at class level 3
+- [Death Ward](/03_Mechanics/CLI/spells/death-ward-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB") at class level 3
-- [Mass Cure Wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md "XPHB") at class level 3
+- [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md "XPHB") at class level 3
+- [Mass Cure Wounds](/03_Mechanics/CLI/spells/mass-cure-wounds-xphb.md "XPHB") at class level 3

@@ -36,7 +36,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 "subtype": "goblinoid"
 "alignment": "Typically  Lawful Neutral"
 "ac": !!int "13"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](/03_Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "7d8 + 14"
 "modifier": !!int "1"
@@ -49,7 +49,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Goblin"
@@ -68,19 +68,19 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
       \ hands, plus 13 (3d8) force damage."
     "name": "Quarterstaff"
   - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21\
-      \ (4d8 + 3) force damage, and the target is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ (4d8 + 3) force damage, and the target is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 13):\n\nAt will: [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n2/day\
-      \ each: [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md),\
-      \ [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
-      \ [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      \ the spellcasting ability (spell save DC 13):\n\nAt will: [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n2/day\
+      \ each: [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md), [fly](/03_Mechanics/CLI/spells/fly-xphb.md),\
+      \ [fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md), [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-devastator-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-devastator-mpmm.webp"
 ```
 ^statblock
 

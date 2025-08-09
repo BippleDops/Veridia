@@ -18,7 +18,7 @@ views:
     name: All Items
     filters:
       and:
-        - tags.contains("Item")
+        - tags includes "Item"
     order:
       - file.name
       - formula.RarityTag
@@ -41,13 +41,13 @@ views:
     name: Magic Items
     filters:
       and:
-        - tags.contains("Item")
+        - tags includes "Item"
         - magic.equals(true)
   - type: table
     name: Party Inventory
     filters:
       and:
-        - tags.contains("Item")
+        - tags includes "Item"
         - owner
     order:
       - formula.OwnerLink
@@ -76,7 +76,7 @@ views:
     name: Shop Inventory
     filters:
       and:
-        - tags.contains("Item")
+        - tags includes "Item"
         - shop
     order:
       - shop

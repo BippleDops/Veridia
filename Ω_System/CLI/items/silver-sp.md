@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Silver (sp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/silver-sp.webp#right)
+![](/03_Mechanics/CLI/items/img/silver-sp.webp#right)
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.

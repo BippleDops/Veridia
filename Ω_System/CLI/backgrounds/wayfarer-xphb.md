@@ -12,12 +12,12 @@ modified: 2025-07-23 12:39
 ---
 # Wayfarer
 *Source: Player's Handbook (2024) p. 185*  
-![](/3-Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
+![](/03_Mechanics/CLI/backgrounds/img/wayfarer.webp#right)
 
 - **Ability Scores.** Dexterity, Wisdom, Charisma  
-- **Feat.** [Lucky](/3-Mechanics/CLI/feats/lucky-xphb.md)  
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiency.** [Thieves' Tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** Choose A or B: (A) [2 Daggers](/3-Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md), [Gaming Set](/3-Mechanics/CLI/items/gaming-set-xphb.md) (any), [Bedroll](/3-Mechanics/CLI/items/bedroll-xphb.md), [2 Pouches](/3-Mechanics/CLI/items/pouch-xphb.md), [Traveler's Clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  
+- **Feat.** [Lucky](/03_Mechanics/CLI/feats/lucky-xphb.md)  
+- **Skill Proficiencies.** [Insight](/03_Mechanics/CLI/skills.md#Insight), [Stealth](/03_Mechanics/CLI/skills.md#Stealth)  
+- **Tool Proficiency.** [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md)  
+- **Equipment.** Choose A or B: (A) [2 Daggers](/03_Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md), [Gaming Set](/03_Mechanics/CLI/items/gaming-set-xphb.md) (any), [Bedroll](/03_Mechanics/CLI/items/bedroll-xphb.md), [2 Pouches](/03_Mechanics/CLI/items/pouch-xphb.md), [Traveler's Clothes](/03_Mechanics/CLI/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  
 
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.

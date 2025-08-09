@@ -50,23 +50,23 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 18"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "16"
 "traits":
   - "desc": "If the marilith dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The marilith has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The marilith has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The marilith can take one [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+  - "desc": "The marilith can take one [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md)\
       \ on every turn of combat."
     "name": "Reactive"
 "actions":
@@ -77,8 +77,8 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
     "name": "Pact Blade"
   - "desc": "Strength Saving Throw: DC 17, one Medium or smaller creature the marilith\
       \ can see within 5 feet. Failure: 15 (2d10 + 4) Bludgeoning damage. The target\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 14), and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition until the grapple ends."
     "name": "Constrict"
 "bonus_actions":
@@ -91,7 +91,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/marilith-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/marilith-xmm.webp"
 ```
 ^statblock
 

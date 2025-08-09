@@ -21,7 +21,7 @@ aliases:
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[scale mail](/03_Mechanics/CLI/items/scale-mail-xphb.md), [shield](/03_Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -34,8 +34,8 @@ aliases:
   - !!int "1"
 "speed": "15 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -45,6 +45,6 @@ aliases:
     "name": "War Pick"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/duergar-spore-servant-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/duergar-spore-servant-oota.webp"
 ```
 ^statblock

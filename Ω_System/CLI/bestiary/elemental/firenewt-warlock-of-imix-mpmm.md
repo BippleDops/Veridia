@@ -48,7 +48,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "traits":
   - "desc": "The firenewt can breathe air and water."
     "name": "Amphibious"
-  - "desc": "Magical darkness doesn't impede the firenewt's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the firenewt's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains\
       \ 5 temporary hit points."
@@ -63,14 +63,14 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
       \ (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [guidance](/03_Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](/03_Mechanics/CLI/spells/light-xphb.md), [mage armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
 ```
 ^statblock
 

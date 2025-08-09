@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Mace
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/mace.webp#right)
+![](/03_Mechanics/CLI/items/img/mace.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Cost**: 5 gp

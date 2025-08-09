@@ -23,7 +23,7 @@ Found in the waters of the Abyss and other bodies of water contaminated by that 
 
 A wastrilith pollutes the waters around it. Its noxious presence even affects nearby sources of water when the demon travels on land. The corrupted water, which contains a measure of the demon's essence, responds to the wastrilith's commands—perhaps hardening to prevent foes from escaping or erupting in a surge that drags victims into its reach.
 
-Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [optional rule on abyssal corruption](/3-Mechanics/CLI/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
+Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [optional rule on abyssal corruption](/03_Mechanics/CLI/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
 
 ```statblock
 "name": "Wastrilith (MPMM)"
@@ -50,7 +50,7 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "13"
@@ -63,10 +63,10 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
       \ it evaporates.\n\nA creature that consumes this foul water or swims in it\
       \ must make a DC 18 Constitution saving throw. On a successful save, the creature\
       \ is immune to the foul water for 24 hours. On a failed save, the creature takes\
-      \ 14 (4d6) poison damage and is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 minute. At the end of this time, the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ 14 (4d6) poison damage and is [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ for 1 minute. At the end of this time, the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ creature must repeat the saving throw. On a failure, the creature takes 18\
-      \ (4d8) poison damage and is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ (4d8) poison damage and is [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ until it finishes a long rest.\n\nIf another demon drinks the foul water as\
       \ an action, it gains 11 (2d10) temporary hit points."
     "name": "Corrupt Water"
@@ -97,7 +97,7 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/wastrilith-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/wastrilith-mpmm.webp"
 ```
 ^statblock
 

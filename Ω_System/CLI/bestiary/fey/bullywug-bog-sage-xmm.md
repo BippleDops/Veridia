@@ -49,9 +49,9 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - "wisdom": !!int "5"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Bullywug, Common"
@@ -64,24 +64,24 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
     "name": "Speak with Frogs and Toads"
 "actions":
   - "desc": "The bullywug makes two Bog Staff attacks. It can replace any attack with\
-      \ a use of Spellcasting to cast [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)."
+      \ a use of Spellcasting to cast [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md)."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
       \ plus 10 (3d6) Poison damage."
     "name": "Bog Staff"
   - "desc": "The bullywug casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 13, +5 to hit with spell attacks):\n\nAt will:\
-      \ [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-      \ [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\n1/day\
-      \ each: [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md),\
-      \ [Vitriolic Sphere](/3-Mechanics/CLI/spells/vitriolic-sphere-xphb.md)"
+      \ [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md), [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\n1/day\
+      \ each: [Speak with Plants](/03_Mechanics/CLI/spells/speak-with-plants-xphb.md),\
+      \ [Vitriolic Sphere](/03_Mechanics/CLI/spells/vitriolic-sphere-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/bullywug-bog-sage-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/bullywug-bog-sage-xmm.webp"
 ```
 ^statblock
 

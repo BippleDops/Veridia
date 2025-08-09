@@ -57,15 +57,15 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "wisdom": !!int "9"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+10"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+12"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+14"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+12"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
     "desc": "+12"
 "senses": "blindsight 120 ft., passive Perception 14"
 "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy\
@@ -75,8 +75,8 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "The elder brain is aware of creatures within 5 miles of it that have\
       \ an Intelligence score of 4 or higher. It knows the distance and direction\
       \ to each creature, as well as each one's Intelligence score, but can't sense\
-      \ anything else about it. A creature protected by a [mind blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)\
-      \ spell, a [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) spell,\
+      \ anything else about it. A creature protected by a [mind blank](/03_Mechanics/CLI/spells/mind-blank-xphb.md)\
+      \ spell, a [nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md) spell,\
       \ or similar magic can't be perceived in this manner."
     "name": "Creature Sense"
   - "desc": "If the elder brain fails a saving throw, it can choose to succeed instead."
@@ -91,31 +91,31 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 20\
       \ (4d8 + 2) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and\
+      \ it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and\
       \ takes 9 (1d8 + 5) psychic damage at the start of each of its turns until the\
-      \ grapple ends. The elder brain can have up to four targets [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ grapple ends. The elder brain can have up to four targets [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ at a time."
     "name": "Tentacle"
   - "desc": "Creatures of the elder brain's choice within 60 feet of it must succeed\
       \ on a DC 18 Intelligence saving throw or take 32 (5d10 + 5) psychic damage\
-      \ and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) for 1 minute. A target\
+      \ and be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) for 1 minute. A target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The elder brain casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 18):\n\nAt will: [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\n\n3/day: [modify\
-      \ memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md)\n\n1/day each:\
-      \ [dominate monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md), [plane\
-      \ shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
+      \ DC 18):\n\nAt will: [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [levitate](/03_Mechanics/CLI/spells/levitate-xphb.md)\n\n3/day: [modify\
+      \ memory](/03_Mechanics/CLI/spells/modify-memory-xphb.md)\n\n1/day each:\
+      \ [dominate monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md), [plane\
+      \ shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
-  - "desc": "The elder brain targets one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "The elder brain targets one [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ creature it senses with its Creature Sense trait and establishes a psychic\
       \ link with the target. Until the link ends, the elder brain can perceive everything\
       \ the target senses. The target becomes aware that something is linked to its\
-      \ mind once it is no longer [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
+      \ mind once it is no longer [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated),\
       \ and the elder brain can terminate the link at any time (no action required).\
       \ The target can use an action on its turn to attempt to break the link, doing\
       \ so with a successful DC 18 Charisma saving throw. On a successful save, the\
@@ -129,7 +129,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
     "name": "Sense Thoughts"
 "legendary_actions":
   - "desc": "The elder brain targets one creature within 120 feet of it with which\
-      \ it has a psychic link. The elder brain breaks the creature's [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
+      \ it has a psychic link. The elder brain breaks the creature's [concentration](/03_Mechanics/CLI/conditions.md#Concentration)\
       \ on a spell it has cast. The creature also takes 2 (d4) psychic damage per\
       \ level of the spell."
     "name": "Break Concentration"
@@ -147,7 +147,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/elder-brain-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/elder-brain-mpmm.webp"
 ```
 ^statblock
 

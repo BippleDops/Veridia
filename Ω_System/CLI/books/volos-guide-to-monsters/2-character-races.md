@@ -24,24 +24,24 @@ At the end of the chapter is a section that you can use to determine the height 
 
 If you're the DM, including any of these races in your campaign is a storytelling opportunity, a chance for you to decide the roles that different peoples play in the tales you weave. You might decide that a race in this chapter is common in your world, that only a few members of it still live, or that it doesn't exist at all. Whatever you decide about the races, consider how they can enhance your stories.
 
-- [Aasimar (Fallen)](/3-Mechanics/CLI/races/aasimar-xphb.md)  
-- [Aasimar (Protector)](/3-Mechanics/CLI/races/aasimar-xphb.md)  
-- [Aasimar (Scourge)](/3-Mechanics/CLI/races/aasimar-xphb.md)  
-- [Bugbear](/3-Mechanics/CLI/races/bugbear-vgm.md)  
-- [Firbolg](/3-Mechanics/CLI/races/firbolg-vgm.md)  
-- [Goblin](/3-Mechanics/CLI/races/goblin-vgm.md)  
-- [Goliath](/3-Mechanics/CLI/races/goliath-xphb.md)  
-- [Hobgoblin](/3-Mechanics/CLI/races/hobgoblin-vgm.md)  
-- [Kenku](/3-Mechanics/CLI/races/kenku-vgm.md)  
-- [Kobold](/3-Mechanics/CLI/races/kobold-vgm.md)  
-- [Lizardfolk](/3-Mechanics/CLI/races/lizardfolk-vgm.md)  
-- [Orc](/3-Mechanics/CLI/races/orc-xphb.md)  
-- [Tabaxi](/3-Mechanics/CLI/races/tabaxi-vgm.md)  
-- [Triton](/3-Mechanics/CLI/races/triton-vgm.md)  
-- [Yuan-ti Pureblood](/3-Mechanics/CLI/races/yuan-ti-pureblood-vgm.md)  
+- [Aasimar (Fallen)](/03_Mechanics/CLI/races/aasimar-xphb.md)  
+- [Aasimar (Protector)](/03_Mechanics/CLI/races/aasimar-xphb.md)  
+- [Aasimar (Scourge)](/03_Mechanics/CLI/races/aasimar-xphb.md)  
+- [Bugbear](/03_Mechanics/CLI/races/bugbear-vgm.md)  
+- [Firbolg](/03_Mechanics/CLI/races/firbolg-vgm.md)  
+- [Goblin](/03_Mechanics/CLI/races/goblin-vgm.md)  
+- [Goliath](/03_Mechanics/CLI/races/goliath-xphb.md)  
+- [Hobgoblin](/03_Mechanics/CLI/races/hobgoblin-vgm.md)  
+- [Kenku](/03_Mechanics/CLI/races/kenku-vgm.md)  
+- [Kobold](/03_Mechanics/CLI/races/kobold-vgm.md)  
+- [Lizardfolk](/03_Mechanics/CLI/races/lizardfolk-vgm.md)  
+- [Orc](/03_Mechanics/CLI/races/orc-xphb.md)  
+- [Tabaxi](/03_Mechanics/CLI/races/tabaxi-vgm.md)  
+- [Triton](/03_Mechanics/CLI/races/triton-vgm.md)  
+- [Yuan-ti Pureblood](/03_Mechanics/CLI/races/yuan-ti-pureblood-vgm.md)  
 
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
 
-![Height and Weight](/3-Mechanics/CLI/tables/height-and-weight-vgm.md)
+![Height and Weight](/03_Mechanics/CLI/tables/height-and-weight-vgm.md)

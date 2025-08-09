@@ -113,17 +113,17 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
   - "constitution": !!int "11"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)"
     "desc": "+13"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+13"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+18"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+13"
 "damage_resistances": "cold, fire, necrotic, psychic, radiant"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "truesight 120 ft., passive Perception 28"
 "languages": "all"
 "cr": "20"
@@ -134,19 +134,19 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
   - "desc": "If the animal lord fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
   - "desc": "Wisdom Saving Throw: DC 20, any enemy that starts its turn in a 30-foot\
-      \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the animal lord. Failure: The target suffers one of the\
       \ following effects:\n\n- Captivated (Forager Only). The target has the\
-      \ [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until the end\
-      \ of its next turn. While [Charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ the target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ condition.  \n- Fearful (Hunter Only). The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition until the end\
+      \ of its next turn. While [Charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+      \ the target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition.  \n- Fearful (Hunter Only). The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition until the end of its next turn.  \n- Mired (Sage Only). The\
       \ target takes 10 (3d6) Psychic damage, and the target is magically bewildered\
       \ until the end of its next turn. While bewildered, the target subtracts d4\
       \ from its saving throws.  "
     "name": "Lordly Presence"
-  - "desc": "The animal lord has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The animal lord has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -163,20 +163,20 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
       \ and then disappears. Dexterity Saving Throw: DC 20, one creature the animal\
       \ lord can see within 120 feet. Failure: 28 (4d10 + 6) Radiant damage. Success:\
       \ Half damage. Failure or Success: One of the following effects occurs:\n\n\
-      - Fortify (Forager Only). The animal lord gains 20 [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).\
-      \  \n- Marked as Prey (Hunter Only). The animal lord has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      - Fortify (Forager Only). The animal lord gains 20 [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).\
+      \  \n- Marked as Prey (Hunter Only). The animal lord has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on attack rolls against the target until the start of the animal lord's next\
-      \ turn.  \n- Pesky Swarm (Sage Only). The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ turn.  \n- Pesky Swarm (Sage Only). The target has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on attack rolls and ability checks until the end of its next turn.  "
     "name": "Animal Spirit"
   - "desc": "The animal lord casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 20):\n\
-      \nAt will: [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
-      \ [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md), [Speak\
-      \ with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n2/day\
-      \ each: [Awaken](/3-Mechanics/CLI/spells/awaken-xphb.md), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\n\
-      \n1/day each: [Animal Shapes](/3-Mechanics/CLI/spells/animal-shapes-xphb.md),\
-      \ [Sunburst](/3-Mechanics/CLI/spells/sunburst-xphb.md)"
+      \nAt will: [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md),\
+      \ [Animal Messenger](/03_Mechanics/CLI/spells/animal-messenger-xphb.md), [Speak\
+      \ with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n2/day\
+      \ each: [Awaken](/03_Mechanics/CLI/spells/awaken-xphb.md), [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md)\n\
+      \n1/day each: [Animal Shapes](/03_Mechanics/CLI/spells/animal-shapes-xphb.md),\
+      \ [Sunburst](/03_Mechanics/CLI/spells/sunburst-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The animal lord shape-shifts into a Huge or smaller version of the animal\
@@ -185,15 +185,15 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
       \ it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
 "legendary_actions":
-  - "desc": "The animal lord moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack),\
+  - "desc": "The animal lord moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack),\
       \ and it makes one Rend attack."
     "name": "Feral Strike"
   - "desc": "The animal lord makes one Radiant Ray attack."
     "name": "Radiant Strike"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/animal-lord-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/animal-lord-xmm.webp"
 ```
 ^statblock
 

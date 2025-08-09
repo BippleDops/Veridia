@@ -35,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Summer Eladrin (MPMM)"
@@ -57,9 +57,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+8"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 11"
@@ -68,7 +68,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of the eladrin for\
+      \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened) of the eladrin for\
       \ 1 minute. A creature can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success. If a creature's saving throw\
       \ is successful or the effect ends for it, the creature is immune to any eladrin's\
@@ -98,7 +98,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/summer-eladrin-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/summer-eladrin-mpmm.webp"
 ```
 ^statblock
 

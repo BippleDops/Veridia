@@ -67,7 +67,7 @@ At 2nd level, you gain the ability to reap life energy from creatures you kill w
 
 ### Undead Thralls (Level 6)
 
-At 6th level, you add the [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md) spell to your spellbook if it is not there already. When you cast [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md), you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
+At 6th level, you add the [animate dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md) spell to your spellbook if it is not there already. When you cast [animate dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md), you can target one additional corpse or pile of bones, creating another zombie or skeleton, as appropriate.
 
 Whenever you create an undead using a necromancy spell, it has additional benefits:
 

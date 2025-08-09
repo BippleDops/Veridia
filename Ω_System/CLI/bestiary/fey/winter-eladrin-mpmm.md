@@ -35,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Winter Eladrin (MPMM)"
@@ -66,14 +66,14 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Magic Resistance"
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 13 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the eladrin for 1 minute.\
-      \ While [charmed](/3-Mechanics/CLI/conditions.md#Charmed) in this way, the creature\
-      \ has disadvantage on ability checks and saving throws. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the eladrin for 1 minute.\
+      \ While [charmed](/03_Mechanics/CLI/conditions.md#Charmed) in this way, the creature\
+      \ has disadvantage on ability checks and saving throws. The [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a creature's saving throw is successful\
       \ or the effect ends for it, the creature is immune to any eladrin's Sorrowful\
       \ Presence for the next 24 hours.\n\nWhenever the eladrin deals damage to the\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed) creature, the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ [charmed](/03_Mechanics/CLI/conditions.md#Charmed) creature, the [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ creature can repeat the saving throw, ending the effect on itself on a success."
     "name": "Sorrowful Presence"
 "actions":
@@ -89,8 +89,8 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
-      \ [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [sleet storm](/3-Mechanics/CLI/spells/sleet-storm-xphb.md)"
+      \ DC 16):\n\nAt will: [fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md), [sleet storm](/03_Mechanics/CLI/spells/sleet-storm-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -104,7 +104,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/winter-eladrin-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/winter-eladrin-mpmm.webp"
 ```
 ^statblock
 

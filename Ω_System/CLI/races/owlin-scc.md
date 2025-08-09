@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  
-![Owlin unleash magic in the sky above Strixhaven](/3-Mechanics/CLI/races/img/owlin.webp#right)
+![Owlin unleash magic in the sky above Strixhaven](/03_Mechanics/CLI/races/img/owlin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -34,7 +34,7 @@ Thanks to your wings, you have a flying speed equal to your walking speed. You c
 
 ### Silent Feathers
 
-You have proficiency in the [Stealth](/3-Mechanics/CLI/skills.md#Stealth) skill.
+You have proficiency in the [Stealth](/03_Mechanics/CLI/skills.md#Stealth) skill.
 
 ## Description
 

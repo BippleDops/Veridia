@@ -16,11 +16,11 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Hazirawn
-*Weapon ([greatsword](/3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement)*  
+*Weapon ([greatsword](/03_Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement)*  
 
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra `d6` necrotic damage when you hit with the weapon.
@@ -31,7 +31,7 @@ While you are attuned to this weapon, its bonus on attack and damage rolls incre
 
 ## Spells
 
-Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) (1 charge), [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) (1 charge), or [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) (2 charges). Each night at midnight, Hazirawn regains `d4` expended charges.
+Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) (1 charge), [detect evil and good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md) (1 charge), or [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md) (2 charges). Each night at midnight, Hazirawn regains `d4` expended charges.
 
 ## Wounding
 

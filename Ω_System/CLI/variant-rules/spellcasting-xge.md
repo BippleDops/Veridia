@@ -26,13 +26,13 @@ If the need for a spell's components has been removed by a special ability, such
 
 Sometimes a character wants to identify a spell that someone else is casting or that was already cast. To do so, a character can use their reaction to identify a spell as it's being cast, or they can use an action on their turn to identify a spell by its effect after it is cast.
 
-If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check with their reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
+If the character perceived the casting, the spell's effect, or both, the character can make an Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check with their reaction or action. The DC equals 15 + the spell's level. If the spell is cast as a class spell and the character is a member of that class, the check is made with advantage. For example, if the spellcaster casts a spell as a cleric, another cleric has advantage on the check to identify the spell. Some spells aren't associated with any class when they're cast, such as when a monster uses its Innate Spellcasting trait.
 
-This Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
+This Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check represents the fact that identifying a spell requires a quick mind and familiarity with the theory and practice of casting. This is true even for a character whose spellcasting ability is Wisdom or Charisma. Being able to cast spells doesn't by itself make you adept at deducing exactly what others are doing when they cast their spells.
 
 ## Invalid Spell Targets
 
-A spell specifies what a caster can target with it: any type of creature, a creature of a certain type (humanoid or beast, for instance), an object, an area, the caster, or something else. But what happens if a spell targets something that isn't a valid target? For example, someone might cast [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md) on a creature believed to be a humanoid, not knowing that the target is in fact a vampire. If this issue comes up, handle it using the following rule.
+A spell specifies what a caster can target with it: any type of creature, a creature of a certain type (humanoid or beast, for instance), an object, an area, the caster, or something else. But what happens if a spell targets something that isn't a valid target? For example, someone might cast [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md) on a creature believed to be a humanoid, not knowing that the target is in fact a vampire. If this issue comes up, handle it using the following rule.
 
 If you cast a spell on someone or something that can't be affected by the spell, nothing happens to that target, but if you used a spell slot to cast the spell, the slot is still expended. If the spell normally has no effect on a target that succeeds on a saving throw, the invalid target appears to have succeeded on its saving throw, even though it didn't attempt one (giving no hint that the creature is in fact an invalid target). Otherwise, you perceive that the spell did nothing to the target.
 
@@ -50,7 +50,7 @@ The template method uses two-dimensional shapes that represent different areas o
 
 #### Making a Template
 
-Making a template is simple. Get a piece of paper or card stock, and cut it in the shape of the area of effect you're using. Every 5 feet of the area equals 1 inch of the template's size. For example, the 20-foot-radius sphere of the [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) spell, which has a 40-foot diameter, would translate into a circular template with an 8-inch diameter.
+Making a template is simple. Get a piece of paper or card stock, and cut it in the shape of the area of effect you're using. Every 5 feet of the area equals 1 inch of the template's size. For example, the 20-foot-radius sphere of the [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) spell, which has a 40-foot diameter, would translate into a circular template with an 8-inch diameter.
 
 #### Using a Template
 
@@ -62,7 +62,7 @@ When you place a template, follow all the rules in the "Player's Handbook" for p
 
 Diagrams 2.1 and 2.2 show the template method in action.
 
-![](/3-Mechanics/CLI/variant-rules/img/xge-001.webp#center)
+![](/03_Mechanics/CLI/variant-rules/img/xge-001.webp#center)
 
 ### Token Method
 
@@ -76,9 +76,9 @@ Every 5-foot square of an area of effect becomes a die or other token that you p
 
 Diagrams 2.3 through 2.6 show this method in action, using dice as the tokens.
 
-![](/3-Mechanics/CLI/variant-rules/img/xge-002.webp#center)
+![](/03_Mechanics/CLI/variant-rules/img/xge-002.webp#center)
 
-![](/3-Mechanics/CLI/variant-rules/img/xge-003.webp#center)
+![](/03_Mechanics/CLI/variant-rules/img/xge-003.webp#center)
 
 #### Circles
 

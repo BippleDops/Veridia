@@ -30,7 +30,7 @@ modified: 2025-07-23 12:39
 
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes.
 
-If the armor normally imposes disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
+If the armor normally imposes disadvantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 **Variants**:
 - [Mithral Breastplate](#Mithral%20Breastplate)

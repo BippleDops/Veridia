@@ -24,4 +24,4 @@ See the full list of spells from *Xanathar's Guide to Everything* on the Spells 
 > 
 > I can disintegrate things whenever I want. Like now. And now. And now. And now... Hey, where'd everybody go?
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c3001.webp#center)
+![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/c3001.webp#center)

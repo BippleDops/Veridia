@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Chapter 4: Creating Adventures
 *Source: Dungeon Master's Guide (2024), p. 105* 
 
-![A mysterious carriage brin...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/049-03-001-mysterious-carraige.webp#center "A mysterious carriage brings the vampire Strahd von Zarovich out from Castle Ravenloft")
+![A mysterious carriage brin...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/049-03-001-mysterious-carraige.webp#center "A mysterious carriage brings the vampire Strahd von Zarovich out from Castle Ravenloft")
 
 Whether you're creating your own adventures or using published ones, this chapter helps you create fun and memorable experiences for your players.
 
@@ -77,27 +77,27 @@ Use the tables in this section to inspire adventure ideas for characters of diff
 
 The fate of a village might depend on the abilities of fledgling adventurers. These characters navigate dangerous terrain and explore haunted crypts, where they might fight ferocious wolves, giant spiders, evil cultists, flesh-eating ghouls, and ruthless brigands.
 
-![Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations](/3-Mechanics/CLI/tables/levels-14-local-heroes-levels-14-adventure-situations-xdmg.md)
+![Levels 1–4: Local Heroes; Levels 1–4 Adventure Situations](/03_Mechanics/CLI/tables/levels-14-local-heroes-levels-14-adventure-situations-xdmg.md)
 
 #### Levels 5–10: Heroes of the Realm
 
 At this tier, characters undertake adventures that might determine the fate of a region. These adventurers venture into fearsome wilds and ancient ruins, where they confront giants, hydras, golems, devils, demons, and mind flayers. They might also face a young dragon that has just established a lair.
 
-![Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations](/3-Mechanics/CLI/tables/levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg.md)
+![Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations](/03_Mechanics/CLI/tables/levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg.md)
 
 #### Levels 11–16: Masters of the Realm
 
-![The death of an ancient dr...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/050-03-002-death-of-a-dragon.webp#center "The death of an ancient dragon can shake the foundations of the world")
+![The death of an ancient dr...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/050-03-002-death-of-a-dragon.webp#center "The death of an ancient dragon can shake the foundations of the world")
 
 The fate of a nation or even the world depends on the characters at this tier. These adventurers explore uncharted regions and delve into forgotten dungeons, where the characters confront terrible schemers of the Lower Planes, cunning rakshasas and beholders, and hungry purple worms. They might encounter and even defeat a powerful adult dragon. At this tier, they broker peace between nations or lead them into war, and their formidable reputations attract the attention of powerful foes.
 
-![Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations](/3-Mechanics/CLI/tables/levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg.md)
+![Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations](/03_Mechanics/CLI/tables/levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg.md)
 
 #### Levels 17–20: Masters of the World
 
 At this tier, adventures have far-reaching consequences, possibly determining the fate of millions on the Material Plane and even places beyond. Characters traverse otherworldly realms and explore demiplanes and other extraplanar locales, where they fight terrible balor demons, titans, archdevils, liches, ancient dragons, and even manifestations of the gods.
 
-![Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations](/3-Mechanics/CLI/tables/levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg.md)
+![Levels 17–20: Masters of the World; Levels 17–20 Adventure Situations](/03_Mechanics/CLI/tables/levels-1720-masters-of-the-world-levels-1720-adventure-situations-xdmg.md)
 
 ### Adventure Setting
 
@@ -134,7 +134,7 @@ An inhabited adventure location has its own ecosystem. The creatures that live t
 
 For example, characters who find a pool of fresh water in a dungeon might infer that many of the creatures inhabiting the dungeon come to that spot to drink. The adventurers might set an ambush at the pool. Likewise, closed or locked doors can restrict the movement of some creatures. A dungeon infested with carrion crawlers or stirges would need open passages so that these creatures can move about to find food.
 
-![Common Map Symbols](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/051-03-003-common-map-symbols.webp#center)
+![Common Map Symbols](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/051-03-003-common-map-symbols.webp#center)
 
 #### Adventure Inhabitants
 
@@ -172,21 +172,21 @@ Take the time to flesh out an NPC who serves as a patron. Once in a while, it ca
 
 The Patron Hooks table offers some suggestions for ways a patron can lead characters to an adventure situation. The ""Campaign Start"" section in "chapter 5" offers some more suggestions for patrons.
 
-![Adventure Patrons; Patron Hooks](/3-Mechanics/CLI/tables/adventure-patrons-patron-hooks-xdmg.md)
+![Adventure Patrons; Patron Hooks](/03_Mechanics/CLI/tables/adventure-patrons-patron-hooks-xdmg.md)
 
-![When rival factions inhabi...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp#center "When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!")
+![When rival factions inhabi...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/052-03-004-rival-factions.webp#center "When rival factions inhabit a ruined dungeon, sometimes the best course is to stay out of the way!")
 
 ### Supernatural Hooks
 
 Celestial omens, vivid dreams, or other magical phenomena can point characters to the adventure situation and suggest a course of action. The Supernatural Hooks table offers some suggestions.
 
-![Supernatural Hooks](/3-Mechanics/CLI/tables/supernatural-hooks-xdmg.md)
+![Supernatural Hooks](/03_Mechanics/CLI/tables/supernatural-hooks-xdmg.md)
 
 ### Happenstance Hooks
 
 Sometimes, characters just happen on an adventure through sheer coincidence—or at least what appears to be coincidence (which might actually involve divine or other supernatural intervention). The Happenstance Hooks table provides some ideas.
 
-![Happenstance Hooks](/3-Mechanics/CLI/tables/happenstance-hooks-xdmg.md)
+![Happenstance Hooks](/03_Mechanics/CLI/tables/happenstance-hooks-xdmg.md)
 
 ## Plan Encounters
 
@@ -206,7 +206,7 @@ The characters must convince two opposing groups (or their leaders) to end the c
 
 #### Protect an NPC or Object
 
-The characters must act as bodyguards or protect some object in their custody. As a complication, an NPC under the party's protection might be cursed, panicked, unable to fight, or apt to risk the lives of the adventurers through dubious decisions. The object the adventurers have sworn to protect might be sentient, cursed, or difficult to transport. Such an encounter might be a combat encounter or an exploration encounter, with either [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) monsters or a dangerous environment threatening the NPC or object the characters are trying to protect. If the characters are protecting an NPC, this objective can add an element of social interaction to a combat or exploration encounter.
+The characters must act as bodyguards or protect some object in their custody. As a complication, an NPC under the party's protection might be cursed, panicked, unable to fight, or apt to risk the lives of the adventurers through dubious decisions. The object the adventurers have sworn to protect might be sentient, cursed, or difficult to transport. Such an encounter might be a combat encounter or an exploration encounter, with either [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) monsters or a dangerous environment threatening the NPC or object the characters are trying to protect. If the characters are protecting an NPC, this objective can add an element of social interaction to a combat or exploration encounter.
 
 #### Retrieve an Object
 
@@ -214,7 +214,7 @@ The adventurers must gain possession of a specific object in the area of the enc
 
 #### Run a Gauntlet
 
-The adventurers must pass through a dangerous area. As with retrieving an object, reaching the exit is a higher priority than killing opponents in the area. A time limit adds a complication, as does a decision point that might lead characters astray. This might be an exploration encounter, with traps and hazards as complications, or a combat encounter against [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) monsters.
+The adventurers must pass through a dangerous area. As with retrieving an object, reaching the exit is a higher priority than killing opponents in the area. A time limit adds a complication, as does a decision point that might lead characters astray. This might be an exploration encounter, with traps and hazards as complications, or a combat encounter against [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) monsters.
 
 #### Sneak In
 
@@ -228,7 +228,7 @@ The plots of evil cult leaders, malevolent spellcasters, and Fiends often involv
 
 A villain the characters seek to defeat is surrounded by minions powerful enough to kill the adventurers. The characters can flee and hope to confront the villain another day, or they can try to fight their way through the minions. As a complication, the minions might be innocent creatures under the villain's control. Killing the villain means breaking that control, but the adventurers must endure the minions' attacks until the villain falls.
 
-![Goblin raiders prepare an ambush in a gorge](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/053-03-005-goblin-raiders.webp#center)
+![Goblin raiders prepare an ambush in a gorge](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/053-03-005-goblin-raiders.webp#center)
 
 ### Keeping the Adventure Moving
 
@@ -236,7 +236,7 @@ Make sure your players have clear objectives they can pursue at every stage of t
 
 - **Adviser NPCs.** A helpful NPC in a social interaction can offer advice and suggestions to the characters. Such an NPC might be the patron who initially sent the characters on the adventure, someone they met along the way, or a character's contact. When you're planning an adventure, include NPCs who can fill this role.  
 - **Evil Intrusion.** If things start grinding to a halt, have the characters encounter a minion or monster connected to the adventure's main threat. At the end of the encounter, perhaps the characters find information that gets them back on track. Plan one or two encounters like this ahead of time.  
-- **The DM's Role.** If the characters can't figure out how to solve an encounter or aren't sure what to do next, you can remind the players of things their characters have already learned or call for Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or similar checks to see if their characters can remember and connect things that the players might be missing.  
+- **The DM's Role.** If the characters can't figure out how to solve an encounter or aren't sure what to do next, you can remind the players of things their characters have already learned or call for Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) or similar checks to see if their characters can remember and connect things that the players might be missing.  
 
 ### Something for Everyone
 
@@ -262,7 +262,7 @@ The ""Running Exploration"" section in "chapter 2" can help you craft these enco
 
 ### Combat Encounters
 
-![Otto's conversation with a...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/054-03-006-magic-mirror.webp#center "Otto's conversation with a magic mirror is an exciting social interaction encounter")
+![Otto's conversation with a...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/054-03-006-magic-mirror.webp#center "Otto's conversation with a magic mirror is an exciting social interaction encounter")
 
 The following features can make a combat encounter more interesting or challenging:
 
@@ -288,7 +288,7 @@ Three categories describe the range of encounter difficulty:
 
 Using the XP Budget per Character table, cross-reference the party's level with the desired encounter difficulty. Multiply the number in the table by the number of characters in the party to get your XP budget for the encounter.
 
-![Determine Your XP Budget; XP Budget per Character](/3-Mechanics/CLI/tables/determine-your-xp-budget-xp-budget-per-character-xdmg.md)
+![Determine Your XP Budget; XP Budget per Character](/03_Mechanics/CLI/tables/determine-your-xp-budget-xp-budget-per-character-xdmg.md)
 
 ##### Step 3: Spend Your Budget
 
@@ -296,18 +296,18 @@ Every creature has an XP value in its stat block. When you add a creature to you
 
 - **Example 1.** A low-difficulty encounter for four level 1 characters has an XP budget of 50 × 4, for a total of 200 XP. With that, you could build any of the following encounters:  
 
-- 1 [Bugbear Warrior](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) (200 XP)  
-- 2 [Giant Wasps](/3-Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md) (100 XP each), for 200 XP total  
-- 6 [Twig Blights](/3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md) (25 XP each), for 150 XP total  
+- 1 [Bugbear Warrior](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) (200 XP)  
+- 2 [Giant Wasps](/03_Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md) (100 XP each), for 200 XP total  
+- 6 [Twig Blights](/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm.md) (25 XP each), for 150 XP total  
 
 - **Example 2.** A moderate-difficulty encounter for five level 3 characters has an XP budget of 225 × 5, for a total of 1,125 XP. With that, you could build either of these encounters:  
 
-- 2 [Nothics](/3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md) (450 XP each) and 9 [Stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) (25 XP each), for 1,125 XP total  
-- 1 [Wight](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) (700 XP), 1 [Warhorse Skeleton](/3-Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md) (100 XP), and 6 [Skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) (50 XP each), for 1,100 XP total  
+- 2 [Nothics](/03_Mechanics/CLI/bestiary/aberration/nothic-xmm.md) (450 XP each) and 9 [Stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) (25 XP each), for 1,125 XP total  
+- 1 [Wight](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) (700 XP), 1 [Warhorse Skeleton](/03_Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md) (100 XP), and 6 [Skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md) (50 XP each), for 1,100 XP total  
 
 - **Example 3.** A high-difficulty encounter for six level 15 characters has an XP budget of 7,800 × 6, for a total of 46,800 XP. With that, you could build this encounter:  
 
-- 2 [Adult Red Dragons](/3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) (18,000 XP each) and 2 [Fire Giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) (5,000 XP each), for 46,000 XP total  
+- 2 [Adult Red Dragons](/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) (18,000 XP each) and 2 [Fire Giants](/03_Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) (5,000 XP each), for 46,000 XP total  
 
 #### Troubleshooting
 
@@ -317,7 +317,7 @@ When creating and running combat encounters, keep the following in mind.
 
 The more creatures in an encounter, the higher the risk that a lucky streak on their part could deal more damage to the characters than you expect. If your encounter includes more than two creatures per character, include fragile creatures that can be defeated quickly. This guideline is especially important for characters of level 1 or 2.
 
-![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/055-03-007-skeleton.webp#center)
+![](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/055-03-007-skeleton.webp#center)
 
 ##### Adjustments
 
@@ -333,7 +333,7 @@ The best combat encounters often pair one kind of creature with another, such as
 
 ##### Powerful Creatures
 
-If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an [Ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) (CR 2) can kill a level 1 Wizard with a single blow.
+If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an [Ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) (CR 2) can kill a level 1 Wizard with a single blow.
 
 ##### Unusual Features
 
@@ -343,25 +343,25 @@ If a monster has a feature that lower-level characters can't easily overcome, co
 
 The attitudes, motivations, and behavior of the monsters in an encounter help determine how a social interaction plays out (and whether it might erupt into combat) and influence the course of combat.
 
-![Kobolds build a barricade ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/056-03-008-kobold-hold.webp#center "Kobolds build a barricade to keep adventurers at bay")
+![Kobolds build a barricade ...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/056-03-008-kobold-hold.webp#center "Kobolds build a barricade to keep adventurers at bay")
 
 #### Initial Attitudes
 
-A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md), [Indifferent](/3-Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md), or [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md). In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
+A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md), [Indifferent](/03_Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md), or [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md). In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
 
-![Initial Attitudes; Initial Attitude](/3-Mechanics/CLI/tables/initial-attitudes-initial-attitude-xdmg.md)
+![Initial Attitudes; Initial Attitude](/03_Mechanics/CLI/tables/initial-attitudes-initial-attitude-xdmg.md)
 
 #### Monster Personality
 
 If an encounter involves a significant individual, use the guidance in the ""Nonplayer Characters"" section of "chapter 3" to flesh out the details of that individual's personality and aims. For a group of nameless monsters, you can decide on a personality based on the monsters' entries in the "Monster Manual", or you can use the Monster Personality table to inform how you portray the monsters and their actions. It's simplest to assign the same personality traits to an entire group of monsters in an encounter. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-![Monster Personality](/3-Mechanics/CLI/tables/monster-personality-xdmg.md)
+![Monster Personality](/03_Mechanics/CLI/tables/monster-personality-xdmg.md)
 
 #### Monster Relationships
 
 Encounters with groups of monsters can be more interesting if rivalries, hatreds, or attachments exist among the monsters in the group. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might flee if its hunting companion is killed, or a mistreated toady might be eager to surrender and betray its boss in return for its life. You can use the Monster Relationships table to inspire such relationships within a monster group.
 
-![Monster Relationships](/3-Mechanics/CLI/tables/monster-relationships-xdmg.md)
+![Monster Relationships](/03_Mechanics/CLI/tables/monster-relationships-xdmg.md)
 
 #### Reactive Tactics
 
@@ -370,7 +370,7 @@ A great way to make an adventure location feel alive—particularly an organized
 Take a copy of the adventure map, and pencil in the locations of all its inhabitants to give yourself a sense of where they're located relative to each other. When the adventurers engage in combat or any other noisy activity, assume that nearby creatures hear the noise and are alerted to the adventurers' presence. (Creatures that can't hear might be alerted by vibrations or other sensory cues.) Once alerted, a creature has several options:
 
 - **Ambush.** The creature leaves its current location and takes up a position near the adventurers' location, hoping to catch the adventurers unaware. Ambushers try to hide and, once hidden, take advantage of any opportune moment to attack.  
-- **Fortify.** The creature attempts to fortify its location by using furniture or heavy objects to block doors or entryways. Increase the DC to force open a blocked door by 3, and hastily blocked passageways are [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). A creature with a ranged attack that selects this option seeks cover in its location.  
+- **Fortify.** The creature attempts to fortify its location by using furniture or heavy objects to block doors or entryways. Increase the DC to force open a blocked door by 3, and hastily blocked passageways are [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). A creature with a ranged attack that selects this option seeks cover in its location.  
 - **Hide/Flee.** If possible, the creature hides in its current location, hoping to avoid any adventurers that enter. If there is nowhere to hide, the creature flees to a location farther from the adventurers or flees to any nearby location occupied by its allies. If a fleeing creature reaches allies, those allies are immediately alerted to the presence of the adventurers; determine how those allies react.  
 - **Investigate.** The creature rushes to the sound of the disturbance to investigate, possibly joining any battle that is underway. A creature that passes near an ally while moving to investigate a disturbance might ask that ally to accompany it.  
 
@@ -416,7 +416,7 @@ It is possible to dial up the urgency to the point that the players feel they do
 
 #### Random Encounters
 
-![Mysterious lights glimmer ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/057-03-009-glimmering-lake.webp#center "Mysterious lights glimmer in a remote mountain lake, drawing adventurers to explore")
+![Mysterious lights glimmer ...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/057-03-009-glimmering-lake.webp#center "Mysterious lights glimmer in a remote mountain lake, drawing adventurers to explore")
 
 Random encounters are randomly determined encounters that don't occur in a fixed location. The options are often presented in a table. When a random encounter occurs, you roll a die and consult the table to determine what the party encounters. Sample random encounter tables appear in the adventure examples later in this chapter. Similar tables appear in many published adventures and rulebooks, and you can easily create your own by following these examples.
 
@@ -452,7 +452,7 @@ The climactic ending of an adventure fulfills the promise of all that came befor
 
 Although the climax must hinge on the successes and failures of the characters up to that moment, the Adventure Climax table can provide suggestions to help you shape the end of your adventure.
 
-![Bring It to an End; Adventure Climax](/3-Mechanics/CLI/tables/bring-it-to-an-end-adventure-climax-xdmg.md)
+![Bring It to an End; Adventure Climax](/03_Mechanics/CLI/tables/bring-it-to-an-end-adventure-climax-xdmg.md)
 
 ### Denouement
 
@@ -474,7 +474,7 @@ Characters might find small amounts of treasure in the pockets, pouches, or pers
 
 You can use the Random Individual Treasure table to determine how much treasure a single monster has based on its Challenge Rating (CR). The table includes the average total in parentheses, which you can use instead of rolling. To determine the total amount of treasure for a group of similar creatures, you can roll once and multiply the total by the number of creatures in the group.
 
-![Random Individual Treasure](/3-Mechanics/CLI/tables/random-individual-treasure-xdmg.md)
+![Random Individual Treasure](/03_Mechanics/CLI/tables/random-individual-treasure-xdmg.md)
 
 ### Treasure Hoards
 
@@ -482,9 +482,9 @@ Adventurers sometimes discover large caches of treasure, the accumulated wealth 
 
 As a rough benchmark, aim to roll on the Random Treasure Hoard table about once per game session. Use the guidelines in "chapter 7" to determine which magic items are in the hoard (see ""Awarding Magic Items"" and ""Random Magic Items"").
 
-![Treasure Hoards; Random Treasure Hoard](/3-Mechanics/CLI/tables/treasure-hoards-random-treasure-hoard-xdmg.md)
+![Treasure Hoards; Random Treasure Hoard](/03_Mechanics/CLI/tables/treasure-hoards-random-treasure-hoard-xdmg.md)
 
-![A climactic battle at the ...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/058-03-010-temple-of-elemental-evil.webp#center "A climactic battle at the Temple of Elemental Evil brings an adventure to a dramatic end")
+![A climactic battle at the ...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/058-03-010-temple-of-elemental-evil.webp#center "A climactic battle at the Temple of Elemental Evil brings an adventure to a dramatic end")
 
 ### Quest Rewards
 
@@ -534,30 +534,30 @@ A mile upstream from the village, a stream flows into the river from a little wo
 
 ##### Journey Upstream
 
-Borogrove, a kindly [Treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md), keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [Potion of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) and the [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell.
+Borogrove, a kindly [Treant](/03_Mechanics/CLI/bestiary/plant/treant-xmm.md), keeps watch over the wood and meets the characters as they follow the polluted stream. He knows the source of the corruption is inside a cave that the stream spills out of. He gives the characters a magic acorn. If swallowed, the acorn conveys the benefits of a [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) and the [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) spell.
 
 ##### Twig Blights
 
-Just outside the cave, the characters encounter six [Twig Blights](/3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md).
+Just outside the cave, the characters encounter six [Twig Blights](/03_Mechanics/CLI/bestiary/plant/twig-blight-xmm.md).
 
 ##### Corrupted Cave
 
 Use the Underdark Warren map in "Appendix B" for the corrupted cave. Ignore the secret door and the inner chambers behind it. Close off the tunnels leading off the map to the south, east, and north. The characters enter the cave in the southeast, following the stream. The cave's main features and inhabitants are as follows:
 
-- **Entrance.** A [Shrieker Fungus](/3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [Bullywug Warriors](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) who have fungal growths on them.  
-- **Berserk Bear.** In a side cave to the southeast is a [Brown Bear](/3-Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition, the bear recovers immediately and leaves them alone.  
-- **Ooze's Lair.** At the north end of the stream are a [Psychic Gray Ooze](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) and six [Stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md). After defeating these creatures, the characters can destroy the brain-like fungus in the water, which is the source of the corruption. If they do, each character earns a bonus 100 XP.  
+- **Entrance.** A [Shrieker Fungus](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) just inside the cave entrance alerts the inhabitants to the characters' arrival. On watch near the entrance and quick to respond to the shriekers' cry are four [Bullywug Warriors](/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) who have fungal growths on them.  
+- **Berserk Bear.** In a side cave to the southeast is a [Brown Bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) that drank from the stream. It's upset because the water made it ill. If the characters can make it eat Borogrove's acorn or otherwise rid it the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition, the bear recovers immediately and leaves them alone.  
+- **Ooze's Lair.** At the north end of the stream are a [Psychic Gray Ooze](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) and six [Stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md). After defeating these creatures, the characters can destroy the brain-like fungus in the water, which is the source of the corruption. If they do, each character earns a bonus 100 XP.  
 
 ##### Journey Home
 
-As they leave the wood, the characters encounter Borogrove again. If they used his acorn, he gives them another one. If they purified the source of the stream, he gives them a [Staff of Flowers](/3-Mechanics/CLI/items/staff-of-flowers-xdmg.md) in gratitude.
+As they leave the wood, the characters encounter Borogrove again. If they used his acorn, he gives them another one. If they purified the source of the stream, he gives them a [Staff of Flowers](/03_Mechanics/CLI/items/staff-of-flowers-xdmg.md) in gratitude.
 
 ### Miner Difficulties
 
 *Adventure for Level 2 Characters*
 
-- **Situation.** After miners dug into an Underdark tunnel, a [Hook Horror](/3-Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md) found its way into the mine and became trapped. It has eaten a few miners, and the others are too terrified of the echoing clicks in the mine to hunt down the predator.  
-- **Hook.** The mayor of the village of Blackstone, Kristryd Splitanvil (a Lawful Good, dwarf [Tough](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)), hires the adventurers—perhaps because of how adeptly they handled the situation in ""The Fouled Stream""—to deal with the monster in the mines. She offers a precious topaz worth 500 GP to adventurers who kill the creature or drive it away.  
+- **Situation.** After miners dug into an Underdark tunnel, a [Hook Horror](/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md) found its way into the mine and became trapped. It has eaten a few miners, and the others are too terrified of the echoing clicks in the mine to hunt down the predator.  
+- **Hook.** The mayor of the village of Blackstone, Kristryd Splitanvil (a Lawful Good, dwarf [Tough](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)), hires the adventurers—perhaps because of how adeptly they handled the situation in ""The Fouled Stream""—to deal with the monster in the mines. She offers a precious topaz worth 500 GP to adventurers who kill the creature or drive it away.  
 
 #### Encounters
 
@@ -567,11 +567,11 @@ The adventure consists of these encounters.
 
 Use the Mine map in "Appendix B". In the weeks since the miners abandoned the place, pests have flourished in the tunnels. Each time the characters enter a distinct area of the mine, roll on the following table.
 
-![Exploring the Mine](/3-Mechanics/CLI/tables/exploring-the-mine-xdmg.md)
+![Exploring the Mine](/03_Mechanics/CLI/tables/exploring-the-mine-xdmg.md)
 
 ##### Sounds of Terror
 
-The first time this encounter occurs, the characters hear eerie clacking and scraping noises echoing in the mine shafts and notice gouges in the walls. The second time, they find the source of those sounds and markings—the [Hook Horror](/3-Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md). The creature is hungry, but what it really wants is to find its way back to the Underdark. It retreats from a fight that is going badly for it.
+The first time this encounter occurs, the characters hear eerie clacking and scraping noises echoing in the mine shafts and notice gouges in the walls. The second time, they find the source of those sounds and markings—the [Hook Horror](/03_Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md). The creature is hungry, but what it really wants is to find its way back to the Underdark. It retreats from a fight that is going badly for it.
 
 ##### Underdark Connection
 
@@ -581,8 +581,8 @@ The tunnel in the southeast corner of the bottom level of the mine is where the 
 
 *Adventure for Level 3 Characters*
 
-- **Situation.** A few weeks ago, a [Red Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md) drove a band of kobolds out of their warren to claim the place as its lair. Now some of the kobolds are causing trouble in the Cairn Hills. They're raiding merchants, hoping the dragon will allow them to return home as its loyal servants.  
-- **Hook.** A merchant named Nondy Barducks (a Lawful Neutral, gnome [Commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) hires the characters to escort his wagon to the remote mining village of Diamond Lake, which happens to be near the dragon's new lair. Nondy was robbed by kobolds on his last trip, and he wants protection this time. He offers to pay each character 150 GP.  
+- **Situation.** A few weeks ago, a [Red Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md) drove a band of kobolds out of their warren to claim the place as its lair. Now some of the kobolds are causing trouble in the Cairn Hills. They're raiding merchants, hoping the dragon will allow them to return home as its loyal servants.  
+- **Hook.** A merchant named Nondy Barducks (a Lawful Neutral, gnome [Commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) hires the characters to escort his wagon to the remote mining village of Diamond Lake, which happens to be near the dragon's new lair. Nondy was robbed by kobolds on his last trip, and he wants protection this time. He offers to pay each character 150 GP.  
 
 #### Encounters
 
@@ -590,11 +590,11 @@ The adventure consists of these encounters.
 
 ##### Kobold Bandits
 
-Along the road, the wagon is surrounded by eight [Kobold Warriors](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) (Neutral) who demand that the merchant surrender his goods. In combat, the kobolds shout things like "For the Winged God!" and "Fight to reclaim our home!" If four of them fall in battle, the remaining kobolds try to flee. Any captured kobold explains the situation.
+Along the road, the wagon is surrounded by eight [Kobold Warriors](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) (Neutral) who demand that the merchant surrender his goods. In combat, the kobolds shout things like "For the Winged God!" and "Fight to reclaim our home!" If four of them fall in battle, the remaining kobolds try to flee. Any captured kobold explains the situation.
 
 ##### Kobold Supplicants
 
-If the characters continue on their way without pursuing the kobolds, twelve [Kobold Warriors](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) (including any survivors of the first encounter) and six [Winged Kobolds](/3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) (all Neutral) approach the wagon. These kobolds humbly ask the adventurers to help them. They promise to return the goods they stole from Nondy if the adventurers drive off the dragon.
+If the characters continue on their way without pursuing the kobolds, twelve [Kobold Warriors](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) (including any survivors of the first encounter) and six [Winged Kobolds](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) (all Neutral) approach the wagon. These kobolds humbly ask the adventurers to help them. They promise to return the goods they stole from Nondy if the adventurers drive off the dragon.
 
 ##### Kobold Camp
 
@@ -602,16 +602,16 @@ If the adventurers follow fleeing kobolds, they can find the kobolds' camp on a 
 
 ##### Dragon's Lair
 
-Use the Volcanic Caves map in "Appendix B" for the dragon's lair, but close off passages to keep the lair small. Near the entrance, the characters encounter a gang of four [Magma Mephits](/3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md) and three [Smoke Mephits](/3-Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md), drawn to the lair by the magic of the dragon.
+Use the Volcanic Caves map in "Appendix B" for the dragon's lair, but close off passages to keep the lair small. Near the entrance, the characters encounter a gang of four [Magma Mephits](/03_Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md) and three [Smoke Mephits](/03_Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md), drawn to the lair by the magic of the dragon.
 
-In the inner cave, the troublesome [Red Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md) rests on its little hoard:
+In the inner cave, the troublesome [Red Dragon Wyrmling](/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md) rests on its little hoard:
 
 - Crate holding Nondy's stolen goods (worth 400 GP)  
 - 4,200 CP, 2,000 SP, and 180 GP  
 - Seven gemstones worth 50 GP each  
-- [Potion of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md)  
-- [Rope of Climbing](/3-Mechanics/CLI/items/rope-of-climbing-xdmg.md)  
-- Two [Spell Scrolls](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([Alarm](/3-Mechanics/CLI/spells/alarm-xphb.md) and [Comprehend Languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md))  
+- [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md)  
+- [Rope of Climbing](/03_Mechanics/CLI/items/rope-of-climbing-xdmg.md)  
+- Two [Spell Scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([Alarm](/03_Mechanics/CLI/spells/alarm-xphb.md) and [Comprehend Languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md))  
 
 If the characters defeat or drive off the dragon, each of them earns a bonus 400 XP.
 
@@ -620,7 +620,7 @@ If the characters defeat or drive off the dragon, each of them earns a bonus 400
 *Adventure for Level 5 Characters*
 
 - **Situation.** A long-forgotten ruin is rumored to hold a fiendish Artifact called the Horns of the Beast. A villain hopes to claim the Artifact and put it to terrible use.  
-- **Hook.** An unassuming human merchant named Melchis (secretly a Chaotic Evil [Fiend Cultist](/3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) devoted to "Iuz") hires the characters to escort him on an expedition to find an ancient temple lost in the jungle. He offers to pay them a total of 2,000 GP in trade bars—half when they reach the temple and half when they safely return to civilization—and promises to support them with what he claims to be "limited magical ability."  
+- **Hook.** An unassuming human merchant named Melchis (secretly a Chaotic Evil [Fiend Cultist](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) devoted to "Iuz") hires the characters to escort him on an expedition to find an ancient temple lost in the jungle. He offers to pay them a total of 2,000 GP in trade bars—half when they reach the temple and half when they safely return to civilization—and promises to support them with what he claims to be "limited magical ability."  
 
 #### Encounters
 
@@ -628,35 +628,35 @@ You can use the poster map of the world of Greyhawk for this adventure; the temp
 
 ##### Stage 1
 
-Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it's attacked by a group of [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) sahuagin, including two [Sahuagin Priests](/3-Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md), six [Sahuagin Warriors](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md), and a [Water Elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md). (Assume the ship's crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
+Melchis hires a ship to carry the party to the Amedio Jungle. Use the map to determine how long the sea voyage takes, depending on where the adventurers begin the trip and figuring that the ship covers about 1½ hexes per day. Near the end of the trip, as the ship crosses Jeklea Bay, it's attacked by a group of [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) sahuagin, including two [Sahuagin Priests](/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md), six [Sahuagin Warriors](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md), and a [Water Elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md). (Assume the ship's crew stays out of the way of these terrifying monsters and lets the characters and Melchis deal with this threat.) Stage 1 ends when Melchis and the characters row a launch ashore.
 
 ##### Stage 2
 
 Melchis leads the characters into the jungle, aiming for the shore of the lake. This stage covers about 180 miles through the dense forest. Each day of the journey, roll once on the following table to determine what the characters encounter on their journey, if anything.
 
-![Stage 2](/3-Mechanics/CLI/tables/stage-2-xdmg.md)
+![Stage 2](/03_Mechanics/CLI/tables/stage-2-xdmg.md)
 
 ##### Stage 3
 
-Once the characters reach the edge of the lake, Melchis leads them southwest along the shore until they find the ruin. This stage covers 90 miles through coastal terrain. The second day of the journey, "heavy rain" obscures vision and creates "quicksand pits" (see ""Environmental Effects"" and ""Hazards"" in "chapter 3"). The front rank of the party might fall into a quicksand pit while two [Giant Crocodiles](/3-Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md) attack at the same time. The rest of the journey passes without incident.
+Once the characters reach the edge of the lake, Melchis leads them southwest along the shore until they find the ruin. This stage covers 90 miles through coastal terrain. The second day of the journey, "heavy rain" obscures vision and creates "quicksand pits" (see ""Environmental Effects"" and ""Hazards"" in "chapter 3"). The front rank of the party might fall into a quicksand pit while two [Giant Crocodiles](/03_Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md) attack at the same time. The rest of the journey passes without incident.
 
 ##### The Ruins
 
-For the ruins, use the western half of the ground floor of the Dungeon Hideout map in "Appendix B", and ignore the stairs leading to the lower levels. Dwelling in the ruins are six [Minotaurs of Baphomet](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) who are Hostile to all intruders. They are spread out around the ruins but come quickly when they hear combat.
+For the ruins, use the western half of the ground floor of the Dungeon Hideout map in "Appendix B", and ignore the stairs leading to the lower levels. Dwelling in the ruins are six [Minotaurs of Baphomet](/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) who are Hostile to all intruders. They are spread out around the ruins but come quickly when they hear combat.
 
 ##### The Artifact
 
-The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [Hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell is cast on the character. If the characters defeat Melchis and search him, they find a [Bag of Holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md) containing twelve 5-pound gold trade bars (worth 250 GP each) and a [Spell Scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Teleportation Circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md). The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
+The Horns of the Beast—a jagged crown made from the horns of demons and wild animals—rests on a pedestal in the northwest corner of the ruins. Melchis immediately attempts to seize the Artifact and place it on his head. If he does, he is transformed into a [Hezrou](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) and tries to kill the characters. A character who dons the Artifact is cursed with "Demonic Possession" (see ""Curses and Magical Contagions"" in "chapter 3"). The Artifact can't be removed from the character's head until a [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell is cast on the character. If the characters defeat Melchis and search him, they find a [Bag of Holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md) containing twelve 5-pound gold trade bars (worth 250 GP each) and a [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [Teleportation Circle](/03_Mechanics/CLI/spells/teleportation-circle-xphb.md). The scroll also contains the sigil sequence for a permanent teleportation circle. At the end of the adventure, each character earns a bonus 1,000 XP.
 
 ##### Destroying the Artifact
 
-The Horns of the Beast can be destroyed only by dropping it in the "River Oceanus", which flows through the Upper Planes (see "chapter 6"). A character can learn this by casting [Identify](/3-Mechanics/CLI/spells/identify-xphb.md) on the Artifact.
+The Horns of the Beast can be destroyed only by dropping it in the "River Oceanus", which flows through the Upper Planes (see "chapter 6"). A character can learn this by casting [Identify](/03_Mechanics/CLI/spells/identify-xphb.md) on the Artifact.
 
 ### Boreal Ball
 
 *Adventure for Level 7 Characters*
 
-![Minsc, Boo, and Delina nav...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/059-03-011-boreal-ball.webp#center "Minsc, Boo, and Delina navigate the intrigues of the Boreal Ball")
+![Minsc, Boo, and Delina nav...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/059-03-011-boreal-ball.webp#center "Minsc, Boo, and Delina navigate the intrigues of the Boreal Ball")
 
 - **Situation.** The Baron of the Boreal Ball, a minor noble of the Feywild, holds an unending ball in his ice palace. Behind the revelry, the ball is the scene for schemes and intrigues.  
 - **Hook.** The adventurers receive a magical invitation to the Boreal Ball that teleports the group to the ball at the appointed time.  
@@ -665,16 +665,16 @@ The Horns of the Beast can be destroyed only by dropping it in the "River Oceanu
 
 The adventure plays out over three dances. During each one, the characters can decide whether they dance, mingle, watch the dancers, or engage in some other activity. (The Manor map in "Appendix B" can serve as a floor plan for the baron's palace.) Each character has the opportunity to earn renown for the party (see ""Renown"" in *chapter 3*) by making a positive impression on whomever they're interacting with—a potential Renown Score increase of 1 per character per dance. These guests pay particular attention to the characters:
 
-- Cannifer is a [Satyr Revelmaster](/3-Mechanics/CLI/bestiary/fey/satyr-revelmaster-xmm.md) who is used to being the center of attention at every ball he attends and is thus [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) to the adventurers.  
-- Darisis a [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md), fun-loving [Dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) who wants to be seen dancing with all the adventurers.  
-- Fidget is a playful [Pixie](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md) who is [Indifferent](/3-Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md) and pesters the adventurers with pranks throughout the evening, without causing any actual harm.  
-- Granny Snailtongue is a [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) [Green Hag](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) who sees the adventurers as potentially useful tools. She offers to help them at every turn in hopes of putting them in her debt.  
-- Raxas Albrethin is an arrogant, Chaotic Neutral drow [Mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) who is initially [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) and wants to see the adventurers humiliated. However, once the characters' Renown Score reaches 6, Raxas admits he misjudged them and becomes [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md).  
+- Cannifer is a [Satyr Revelmaster](/03_Mechanics/CLI/bestiary/fey/satyr-revelmaster-xmm.md) who is used to being the center of attention at every ball he attends and is thus [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) to the adventurers.  
+- Darisis a [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md), fun-loving [Dryad](/03_Mechanics/CLI/bestiary/fey/dryad-xmm.md) who wants to be seen dancing with all the adventurers.  
+- Fidget is a playful [Pixie](/03_Mechanics/CLI/bestiary/fey/pixie-xmm.md) who is [Indifferent](/03_Mechanics/CLI/variant-rules/indifferent-attitude-xphb.md) and pesters the adventurers with pranks throughout the evening, without causing any actual harm.  
+- Granny Snailtongue is a [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) [Green Hag](/03_Mechanics/CLI/bestiary/fey/green-hag-xmm.md) who sees the adventurers as potentially useful tools. She offers to help them at every turn in hopes of putting them in her debt.  
+- Raxas Albrethin is an arrogant, Chaotic Neutral drow [Mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) who is initially [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) and wants to see the adventurers humiliated. However, once the characters' Renown Score reaches 6, Raxas admits he misjudged them and becomes [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md).  
 
 ##### Rude Interruption
 
-After the second dance, the ball is interrupted by a Neutral Evil [Hobgoblin Warlord](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md) named Varka, who is accompanied by a [Hobgoblin Captain](/3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) and five [Hobgoblin Warriors](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md). The hobgoblins are offended by the adventurers' presence and attack them. If the characters defeat the hobgoblins, their Renown Score increases by 2.
+After the second dance, the ball is interrupted by a Neutral Evil [Hobgoblin Warlord](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md) named Varka, who is accompanied by a [Hobgoblin Captain](/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) and five [Hobgoblin Warriors](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md). The hobgoblins are offended by the adventurers' presence and attack them. If the characters defeat the hobgoblins, their Renown Score increases by 2.
 
 ##### Conclusion
 
-After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [Ice Knife](/3-Mechanics/CLI/spells/ice-knife-xphb.md) spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.
+After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [Ice Knife](/03_Mechanics/CLI/spells/ice-knife-xphb.md) spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.

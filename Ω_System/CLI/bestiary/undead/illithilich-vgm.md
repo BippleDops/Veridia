@@ -54,7 +54,7 @@ Unlike with true lichdom, the periapt of mind trapping doesn't restore the alhoo
 
 ## Variant: Mind Flayer Lich (Illithilich)
 
-The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](/3-Mechanics/CLI/spells/imprisonment-xphb.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
+The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](/03_Mechanics/CLI/spells/imprisonment-xphb.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
 
 - It has a challenge rating of 22 (41,000 XP).  
 - It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.  
@@ -77,15 +77,15 @@ The lich's innate spellcasting ability is Intelligence (spell save DC 20). It ca
 
 ### Tentacles
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until this grapple ends.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until this grapple ends.
 
 ### Extract Brain
 
-Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) humanoid [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the lich. Hit: 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) humanoid [grappled](/03_Mechanics/CLI/conditions.md#Grappled) by the lich. Hit: 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the lich kills the target by extracting and devouring its brain.
 
 ### Mind Blast (Recharge 5-6)
 
-The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+The lich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (`5d8 + 5`) psychic damage and be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Illithilich Legendary Actions
 
@@ -130,19 +130,19 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
   - "intelligence": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+19"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+12"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "22"
@@ -150,32 +150,32 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
   - "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich\
       \ has the following wizard spells prepared:\n\nCantrips (at will): [mage\
-      \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
-      \ [ray of frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n1st level\
-      \ (4 slots): [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md),\
-      \ [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\n2nd level\
-      \ (3 slots): [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [Melf's acid\
-      \ arrow](/3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md), [mirror image](/3-Mechanics/CLI/spells/mirror-image-xphb.md)\n\
-      \n3rd level (3 slots): [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md),\
-      \ [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\n\n4th level (3 slots):\
-      \ [blight](/3-Mechanics/CLI/spells/blight-xphb.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md)\n\
-      \n5th level (3 slots): [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md),\
-      \ [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)\n\n6th level (1 slots):\
-      \ [disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md), [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)\n\
-      \n7th level (1 slots): [finger of death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)\n\n8th level\
-      \ (1 slots): [dominate monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
-      \ [power word stun](/3-Mechanics/CLI/spells/power-word-stun-xphb.md)\n\n9th\
-      \ level (1 slots): [power word kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md)"
+      \ hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [ray of frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n1st level\
+      \ (4 slots): [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [magic missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md), [shield](/03_Mechanics/CLI/spells/shield-xphb.md),\
+      \ [thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md)\n\n2nd level\
+      \ (3 slots): [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [Melf's acid\
+      \ arrow](/03_Mechanics/CLI/spells/melfs-acid-arrow-xphb.md), [mirror image](/03_Mechanics/CLI/spells/mirror-image-xphb.md)\n\
+      \n3rd level (3 slots): [animate dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md),\
+      \ [counterspell](/03_Mechanics/CLI/spells/counterspell-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md)\n\n4th level (3 slots):\
+      \ [blight](/03_Mechanics/CLI/spells/blight-xphb.md), [dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md)\n\
+      \n5th level (3 slots): [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md),\
+      \ [scrying](/03_Mechanics/CLI/spells/scrying-xphb.md)\n\n6th level (1 slots):\
+      \ [disintegrate](/03_Mechanics/CLI/spells/disintegrate-xphb.md), [globe of invulnerability](/03_Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)\n\
+      \n7th level (1 slots): [finger of death](/03_Mechanics/CLI/spells/finger-of-death-xphb.md),\
+      \ [plane shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md)\n\n8th level\
+      \ (1 slots): [dominate monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [power word stun](/03_Mechanics/CLI/spells/power-word-stun-xphb.md)\n\n9th\
+      \ level (1 slots): [power word kill](/03_Mechanics/CLI/spells/power-word-kill-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The illithilich's innate spellcasting ability is Intelligence (spell\
       \ save DC 20). It can innately cast the following spells, requiring no components.\n\
-      \nAt will: [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\n\n1/day each: [dominate\
-      \ monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \nAt will: [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [levitate](/03_Mechanics/CLI/spells/levitate-xphb.md)\n\n1/day each: [dominate\
+      \ monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md)\
       \ (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "If the illithilich fails a saving throw, it can choose to succeed instead."
@@ -193,23 +193,23 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 "actions":
   - "desc": "Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10\
       \ (3d6) cold damage. The target must succeed on a DC 18 Constitution saving\
-      \ throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute.\
+      \ throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) for 1 minute.\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Paralyzing Touch"
   - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit:\
-      \ 21 (3d10 + 5) psychic damage. If the target is Large or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ 21 (3d10 + 5) psychic damage. If the target is Large or smaller, it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be\
-      \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until this grapple ends."
+      \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until this grapple ends."
     "name": "Tentacles"
-  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ humanoid [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the lich.\
+  - "desc": "Melee Weapon Attack: +12 to hit, reach 5 ft., one [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ humanoid [grappled](/03_Mechanics/CLI/conditions.md#Grappled) by the lich.\
       \ Hit: 55 (10d10) piercing damage. If this damage reduces the target to 0\
       \ hit points, the lich kills the target by extracting and devouring its brain."
     "name": "Extract Brain"
   - "desc": "The illithilich magically emits psychic energy in a 60-foot cone. Each\
       \ creature in that area must succeed on a DC 18 Intelligence saving throw or\
-      \ take 27 (5d8 + 5) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ take 27 (5d8 + 5) psychic damage and be [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
@@ -246,7 +246,7 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
     "name": ""
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/illithilich-vgm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/illithilich-vgm.webp"
 ```
 ^statblock
 

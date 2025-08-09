@@ -35,15 +35,15 @@ modified: 2025-07-23 12:39
 ---
 # Lesser Restoration
 *2nd-level, Abjuration*  
-![](/3-Mechanics/CLI/spells/img/lesser-restoration.webp#right)
+![](/03_Mechanics/CLI/spells/img/lesser-restoration.webp#right)
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You touch a creature and end one condition on it: [Blinded](/3-Mechanics/CLI/conditions.md#Blinded), [Deafened](/3-Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), or [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).
+You touch a creature and end one condition on it: [Blinded](/03_Mechanics/CLI/conditions.md#Blinded), [Deafened](/03_Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), or [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Celestial Patron)](/3-Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Clockwork Sorcery)](/3-Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Celestial Patron)](/03_Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Cleric (Life Domain)](/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Clockwork Sorcery)](/03_Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

@@ -26,10 +26,10 @@ modified: 2025-07-23 12:39
 - **Components:** V
 - **Duration:** 1 minute
 
-The target takes an extra `d6` Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until the spell ends. At the end of each of its turns, the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) target repeats the save, ending the spell on itself on a success.
+The target takes an extra `d6` Necrotic damage from the attack, and it must succeed on a Wisdom saving throw or have the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition until the spell ends. At the end of each of its turns, the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) target repeats the save, ending the spell on itself on a success.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `d6` for each spell slot level above 1.
 
-**Classes**: [Warlock (The Hexblade)](/3-Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB"); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Warlock (The Hexblade)](/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 343*

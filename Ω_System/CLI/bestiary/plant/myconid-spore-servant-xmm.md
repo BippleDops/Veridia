@@ -45,9 +45,9 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft., passive Perception 8"
 "languages": "telepathy 30 ft."
 "cr": "1"
@@ -57,7 +57,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
     "name": "Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/myconid-spore-servant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/myconid-spore-servant-xmm.webp"
 ```
 ^statblock
 

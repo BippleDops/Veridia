@@ -16,8 +16,8 @@ modified: 2025-07-23 12:39
 
 | Deity | Alignment | Province | Suggested Domains | Common Symbol |
 |-------|-----------|----------|-------------------|---------------|
-| [Deep Duerra](/3-Mechanics/CLI/deities/duergar-deep-duerra-mtf.md) | LE | Conquest, psionics | Knowledge, War | Mind flayer skull |
-| [Laduguer](/3-Mechanics/CLI/deities/duergar-laduguer-mtf.md) | LE | Labor, slavery | Death, Forge* | Broken arrow |
+| [Deep Duerra](/03_Mechanics/CLI/deities/duergar-deep-duerra-mtf.md) | LE | Conquest, psionics | Knowledge, War | Mind flayer skull |
+| [Laduguer](/03_Mechanics/CLI/deities/duergar-laduguer-mtf.md) | LE | Labor, slavery | Death, Forge* | Broken arrow |
 ^duergar-deities
 
 *Appears in *Xanathar's Guide to Everything*

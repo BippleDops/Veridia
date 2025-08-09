@@ -31,12 +31,12 @@ modified: 2025-07-23 12:39
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
 
-You gain the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
+You gain the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can move the illusory double up to twice your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
+As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can move the illusory double up to twice your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Classes**: [Ranger (Fey Wanderer)](/3-Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/3-Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Ranger (Fey Wanderer)](/03_Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard (Illusionist)](/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

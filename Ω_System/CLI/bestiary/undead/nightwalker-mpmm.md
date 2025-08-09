@@ -47,11 +47,11 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": ""
 "cr": "20"
@@ -61,7 +61,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell."
+      \ be revived except by a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -77,16 +77,16 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
     "name": "Enervating Focus"
   - "desc": "The nightwalker points at one creature it can see within 300 feet of\
       \ it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (6d12)\
-      \ necrotic damage and become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ until the end of the nightwalker's next turn. While [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ in this way, the creature is also [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed).\
+      \ necrotic damage and become [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ until the end of the nightwalker's next turn. While [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ in this way, the creature is also [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed).\
       \ If a target's saving throw is successful, the target is immune to the nightwalker's\
       \ Finger of Doom for the next 24 hours."
     "name": "Finger of Doom (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp"
 ```
 ^statblock
 

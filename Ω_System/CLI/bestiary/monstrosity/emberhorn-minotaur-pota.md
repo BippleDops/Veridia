@@ -34,7 +34,7 @@ aliases:
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
 "damage_immunities": "fire"
 "senses": "darkvision 60 ft., passive Perception 17"
@@ -44,7 +44,7 @@ aliases:
   - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be pushed up to 10 feet away and knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The minotaur can perfectly recall any path it has traveled."
     "name": "Labyrinthine Recall"
@@ -66,6 +66,6 @@ aliases:
     "name": "Gore"
 "source":
   - "PotA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/emberhorn-minotaur-pota.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/emberhorn-minotaur-pota.webp"
 ```
 ^statblock

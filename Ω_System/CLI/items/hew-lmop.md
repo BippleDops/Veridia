@@ -15,13 +15,13 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Hew
-*Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md))*  
+*Weapon ([battleaxe](/03_Mechanics/CLI/items/battleaxe-xphb.md))*  
 
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This +1 battleaxe deals maximum damage when the wielder hits a plant creature or an object made of wood. The axe's creator was a dwarf smith who feuded with the dryads of a forest where he cut firewood. Whoever carries the axe feels uneasy whenever he or she travels through a forest.

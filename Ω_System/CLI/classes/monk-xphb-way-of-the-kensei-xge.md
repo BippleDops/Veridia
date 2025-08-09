@@ -68,7 +68,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 
 - **Agile Parry**  
 
-    If you make an unarmed strike as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).  
+    If you make an unarmed strike as part of the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).  
 
 - **Kensei's Shot**  
 
@@ -77,7 +77,7 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
 #### Way of the Brush
 _Source: Xanathar's Guide to Everything_
 
-You gain proficiency with your choice of [calligrapher's supplies](/3-Mechanics/CLI/items/calligraphers-supplies-xphb.md) or [painter's supplies](/3-Mechanics/CLI/items/painters-supplies-xphb.md).
+You gain proficiency with your choice of [calligrapher's supplies](/03_Mechanics/CLI/items/calligraphers-supplies-xphb.md) or [painter's supplies](/03_Mechanics/CLI/items/painters-supplies-xphb.md).
 
 ### One with the Blade (Level 6)
 

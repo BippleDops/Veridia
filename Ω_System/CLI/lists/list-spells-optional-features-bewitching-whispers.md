@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Compulsion](/3-Mechanics/CLI/spells/compulsion-xphb.md "XPHB")
+- [Compulsion](/03_Mechanics/CLI/spells/compulsion-xphb.md "XPHB")

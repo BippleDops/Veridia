@@ -19,6 +19,6 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-You regain `8d4 + 8` [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) when you drink this potion. The potion's red liquid glimmers when agitated.
+You regain `8d4 + 8` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) when you drink this potion. The potion's red liquid glimmers when agitated.
 
 *Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

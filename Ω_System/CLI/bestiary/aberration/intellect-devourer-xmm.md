@@ -48,9 +48,9 @@ Intellect devourers serve their mind flayer creators by consuming other creature
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "psychic"
 "senses": "blindsight 60 ft., passive Perception 12"
@@ -68,22 +68,22 @@ Intellect devourers serve their mind flayer creators by consuming other creature
     "name": "Claw"
   - "desc": "Intelligence Saving Throw: DC 12, one creature the intellect devourer\
       \ can see within 5 feet. Failure: 11 (2d10) Psychic damage, and the target\
-      \ has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until\
+      \ has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) condition until\
       \ the end of the intellect devourer's next turn."
     "name": "Devour Intellect"
   - "desc": "Intelligence Saving Throw: DC 12, one Small or Medium creature within\
-      \ 5 feet that has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ condition, is a Humanoid or Beast, and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ 5 feet that has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition, is a Humanoid or Beast, and has 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ or fewer. Failure: The intellect devourer possesses the target, consumes\
       \ its brain, and teleports inside its skull. While there, the intellect devourer\
-      \ has [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) against attacks\
+      \ has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) against attacks\
       \ and other effects originating outside its host. The intellect devourer retains\
       \ its Intelligence, Wisdom, and Charisma scores; its understanding of Deep Speech;\
       \ its telepathy; and its Detect Intelligence trait. It otherwise adopts the\
       \ target's game statistics. It knows everything the target knew, including spells\
       \ and languages.\n\nIf the host body dies, the intellect devourer must leave\
       \ it. The intellect devourer is also forced out if the target regains its devoured\
-      \ brain by means of a [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell. By\
+      \ brain by means of a [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell. By\
       \ spending 5 feet of its movement, the intellect devourer can voluntarily leave\
       \ the body, teleporting to the nearest unoccupied space within 5 feet of it.\
       \ The body then dies unless its brain is restored before the end of the intellect\
@@ -91,7 +91,7 @@ Intellect devourers serve their mind flayer creators by consuming other creature
     "name": "Steal Body"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/intellect-devourer-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/intellect-devourer-xmm.webp"
 ```
 ^statblock
 

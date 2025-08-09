@@ -31,7 +31,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](/03_Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -44,15 +44,15 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can communicate with ordinary [bats](/3-Mechanics/CLI/bestiary/beast/bat-xmm.md)\
-      \ and [rats](/3-Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant\
-      \ bats](/3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) and [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md)\
+      \ and [rats](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant\
+      \ bats](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) and [giant rats](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
@@ -64,13 +64,13 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "bonus_actions":
-  - "desc": "The xvart takes the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)\
+  - "desc": "The xvart takes the [Disengage](/03_Mechanics/CLI/actions.md#Disengage)\
       \ action."
     "name": "Low Cunning"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp"
 ```
 ^statblock
 

@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB")
+- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB")

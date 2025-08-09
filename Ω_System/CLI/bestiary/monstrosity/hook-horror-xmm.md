@@ -47,7 +47,7 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
 "saves":
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Hook Horror"
@@ -61,7 +61,7 @@ Hook horrors feed opportunistically on plants, fungi, and any creatures that com
     "name": "Hook"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hook-horror-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/hook-horror-xmm.webp"
 ```
 ^statblock
 

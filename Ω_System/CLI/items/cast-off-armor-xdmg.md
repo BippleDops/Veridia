@@ -33,7 +33,7 @@ modified: 2025-07-23 12:39
 
 
 
-You can doff this armor as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action.
+You can doff this armor as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action.
 
 **Variants**:
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)

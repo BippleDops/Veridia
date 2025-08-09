@@ -33,7 +33,7 @@ aliases:
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The beast doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The beast doesn't provoke [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "Add your Proficiency Bonus to any ability check or saving throw the beast\
@@ -45,6 +45,6 @@ aliases:
     "name": "Beast's Strike"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sky-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/beast-of-the-sky-xphb.webp"
 ```
 ^statblock

@@ -34,9 +34,9 @@ aliases:
   - !!int "6"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
@@ -64,17 +64,17 @@ aliases:
       \ (4d8 + 4) fire damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit:\
-      \ 4 (d8) fire damage and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 15). Until the grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ 4 (d8) fire damage and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 15). Until the grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ and has disadvantage on Strength checks and Strength saving throws, and the\
       \ roper can't use the same tendril on another target. A creature takes 4 (d8)\
       \ fire damage each time it ends its turn grappled by the roper."
     "name": "Tendril"
-  - "desc": "The roper pulls each creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "The roper pulls each creature [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by it up to 25 feet straight toward it."
     "name": "Reel"
 "source":
   - "PotA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/molten-magma-roper-pota.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/molten-magma-roper-pota.webp"
 ```
 ^statblock

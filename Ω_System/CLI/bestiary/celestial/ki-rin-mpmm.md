@@ -54,14 +54,14 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
   - !!int "20"
 "speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+8"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
@@ -86,28 +86,28 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
     "name": "Sacred Fire"
   - "desc": "The ki-rin casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\nAt will:\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md)\
-      \ (6th-level version), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n3/day each: [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-      \ [sending](/3-Mechanics/CLI/spells/sending-xphb.md)\n\n1/day each: [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
-      \ [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [create food\
-      \ and water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater\
-      \ restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md), [plane\
-      \ shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [protection from evil\
-      \ and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
-      \ [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md), [wind walk](/3-Mechanics/CLI/spells/wind-walk-xphb.md)"
+      \ [light](/03_Mechanics/CLI/spells/light-xphb.md), [major image](/03_Mechanics/CLI/spells/major-image-xphb.md)\
+      \ (6th-level version), [thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n3/day each: [cure wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [sending](/03_Mechanics/CLI/spells/sending-xphb.md)\n\n1/day each: [banishment](/03_Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md), [create food\
+      \ and water](/03_Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater\
+      \ restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md), [plane\
+      \ shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md), [protection from evil\
+      \ and good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
+      \ [revivify](/03_Mechanics/CLI/spells/revivify-xphb.md), [wind walk](/03_Mechanics/CLI/spells/wind-walk-xphb.md)"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The ki-rin moves up to half its speed without provoking [opportunity\
-      \ attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
     "name": "Move"
   - "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."
     "name": "Smite"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp"
 ```
 ^statblock
 

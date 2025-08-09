@@ -48,34 +48,34 @@ The least of all devils, lemures arise from wicked souls, their mortal memories 
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)),\
   \ passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ in d10 days unless it is killed by a creature under the effects of a [Bless](/3-Mechanics/CLI/spells/bless-xphb.md)\
+  - "desc": "If the swarm dies in the Nine Hells, it revives with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ in d10 days unless it is killed by a creature under the effects of a [Bless](/03_Mechanics/CLI/spells/bless-xphb.md)\
       \ spell or its remains are sprinkled with Holy Water."
     "name": "Hellish Restoration"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through an opening large enough for a Medium creature. The\
-      \ swarm can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+      \ swarm can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Vile Slime attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Poison damage,\
-      \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+      \ or 9 (2d6 + 2) Poison damage if the swarm is [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md)."
     "name": "Vile Slime"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-lemures-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/swarm-of-lemures-xmm.webp"
 ```
 ^statblock
 

@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Stone of Good Luck
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/stone-of-good-luck-luckstone.webp#right)
+![](/03_Mechanics/CLI/items/img/stone-of-good-luck-luckstone.webp#right)
 
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Burning Hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 6
+- [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md "XPHB") at class level 6

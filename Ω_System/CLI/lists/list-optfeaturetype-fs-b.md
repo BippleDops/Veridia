@@ -12,5 +12,5 @@ modified: 2025-07-23 12:39
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything, Player's Handbook* 
 
-- [Dueling](/3-Mechanics/CLI/feats/dueling-xphb.md)
-- [Two-Weapon Fighting](/3-Mechanics/CLI/feats/two-weapon-fighting-xphb.md)
+- [Dueling](/03_Mechanics/CLI/feats/dueling-xphb.md)
+- [Two-Weapon Fighting](/03_Mechanics/CLI/feats/two-weapon-fighting-xphb.md)

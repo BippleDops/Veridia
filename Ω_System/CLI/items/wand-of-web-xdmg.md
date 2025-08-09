@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  
-![](/3-Mechanics/CLI/items/img/wand-of-web.webp#right)
+![](/03_Mechanics/CLI/items/img/wand-of-web.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [Web](/3-Mechanics/CLI/spells/web-xphb.md) (save DC 13) from it.
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [Web](/03_Mechanics/CLI/spells/web-xphb.md) (save DC 13) from it.
 
 ## Regaining Charges
 

@@ -70,9 +70,9 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -89,12 +89,12 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
       \ damage."
     "name": "Slam"
   - "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Rock Launch"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock
 

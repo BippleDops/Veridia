@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 12 Warlock
 
-The Extra Attack of your [Thirsting Blade](/3-Mechanics/CLI/optional-features/thirsting-blade-xphb.md) invocation confers two extra attacks rather than one.
+The Extra Attack of your [Thirsting Blade](/03_Mechanics/CLI/optional-features/thirsting-blade-xphb.md) invocation confers two extra attacks rather than one.

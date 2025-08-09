@@ -71,23 +71,23 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](/3-Mechanics/CLI/variant-rules/burrow-speed-xphb.md)\
+  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](/03_Mechanics/CLI/variant-rules/burrow-speed-xphb.md)\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
+  - "desc": "Melee Attack Roll: +5 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) by the\
       \ ankheg), reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage plus 3 (d6) Acid\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 13)."
     "name": "Bite"
   - "desc": "Dexterity Saving Throw: DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
       \ 14 (4d6) Acid damage. Success: Half damage."
     "name": "Acid Spray (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ankheg-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/ankheg-xmm.webp"
 ```
 ^statblock
 

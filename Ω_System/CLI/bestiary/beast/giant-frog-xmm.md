@@ -19,7 +19,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Frog (XMM)"
@@ -39,9 +39,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
@@ -49,30 +49,30 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [Long Jump](/3-Mechanics/CLI/variant-rules/long-jump-xphb.md)\
-      \ is up to 20 feet and its [High Jump](/3-Mechanics/CLI/variant-rules/high-jump-xphb.md)\
+  - "desc": "The frog's [Long Jump](/03_Mechanics/CLI/variant-rules/long-jump-xphb.md)\
+      \ is up to 20 feet and its [High Jump](/03_Mechanics/CLI/variant-rules/high-jump-xphb.md)\
       \ is up to 10 feet with or without a running start."
     "name": "Standing Leap"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 11)."
     "name": "Bite"
   - "desc": "The frog swallows a Small or smaller target it is grappling. While swallowed,\
-      \ the target isn't [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) but has\
-      \ the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ conditions, and it has [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md)\
+      \ the target isn't [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) but has\
+      \ the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded) and [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ conditions, and it has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md)\
       \ against attacks and other effects outside the frog. While swallowing the target,\
       \ the frog can't use Bite, and if the frog dies, the swallowed target is no\
-      \ longer [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) and can escape\
-      \ from the corpse using 5 feet of movement, exiting with the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ longer [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) and can escape\
+      \ from the corpse using 5 feet of movement, exiting with the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition.\n\nAt the end of the frog's next turn, the swallowed target takes\
       \ 5 (2d4) Acid damage. If that damage doesn't kill it, the frog disgorges it,\
-      \ causing it to exit [Prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ causing it to exit [Prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Swallow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-frog-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-frog-xmm.webp"
 ```
 ^statblock
 

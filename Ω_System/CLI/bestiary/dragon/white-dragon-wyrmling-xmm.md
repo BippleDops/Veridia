@@ -55,9 +55,9 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "cold"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -65,7 +65,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "cr": "2"
 "traits":
   - "desc": "The dragon can move across and climb icy surfaces without needing to\
-      \ make an ability check. Additionally, [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
+      \ make an ability check. Additionally, [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)\
       \ composed of ice or snow doesn't cost it extra movement."
     "name": "Ice Walk"
 "actions":
@@ -74,12 +74,12 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 6 (1d8 + 2) Slashing damage\
       \ plus 2 (d4) Cold damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: 22 (5d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

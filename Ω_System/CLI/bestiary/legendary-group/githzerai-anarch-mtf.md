@@ -17,8 +17,8 @@ _Source: Mordenkainen's Tome of Foes_
 
 An anarch can use lair actions. On initiative count 20 (losing initiative ties), the anarch can take a lair action to cause one of the following effects; the anarch can't use the same effect two rounds in a row:
 
-- The anarch casts the [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md) spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.  
-- The anarch casts the [creation](/3-Mechanics/CLI/spells/creation-xphb.md) spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its [concentration](/3-Mechanics/CLI/conditions.md#Concentration) breaks.  
+- The anarch casts the [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md) spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.  
+- The anarch casts the [creation](/03_Mechanics/CLI/spells/creation-xphb.md) spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](/03_Mechanics/CLI/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, its [concentration](/03_Mechanics/CLI/conditions.md#Concentration) breaks.  
 - The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.  
 
 ## Regional effects

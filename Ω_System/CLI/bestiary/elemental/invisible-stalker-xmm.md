@@ -23,9 +23,9 @@ aliases:
 - **Habitat.** Urban  
 - **Treasure.** None  
 
-Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
+Magic and malice give form to invisible stalkers, bodiless spirits of the air. These elusive beings pass unseen with nothing more than a stirring of air. They control powerful winds capable of moving objects and battering foes. Magic-users conjure these creatures to serve as killers and thieves. [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) stalkers relentlessly pursue their quarry, and they rarely leave evidence of their crimes.
 
-In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
+In rare cases, an invisible stalker lingers in the world without a spellcaster controlling it. Roll on or choose a result from the Uncontrolled [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) Stalkers table to inspire why one of these monsters lurks in an area without a direct command.
 
 **Uncontrolled Invisible Stalkers**
 
@@ -64,17 +64,17 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
   - !!int "11"
 "speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Common, Primordial (Auran)"
 "cr": "6"
@@ -82,7 +82,7 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
   - "desc": "The stalker can enter an enemy's space and stop there. It can move through\
       \ a space as narrow as 1 inch without expending extra movement to do so."
     "name": "Air Form"
-  - "desc": "The stalker has the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The stalker has the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible)\
       \ condition."
     "name": "Invisibility"
 "actions":
@@ -93,14 +93,14 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
     "name": "Wind Swipe"
   - "desc": "Constitution Saving Throw: DC 14, one Large or smaller creature in\
       \ the stalker's space. Failure: 7 (1d8 + 3) Thunder damage, and the target\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
       \ DC 13). Until the grapple ends, the target can't cast spells with a Verbal\
       \ component and takes 7 (2d6) Thunder damage at the start of each of the stalker's\
       \ turns."
     "name": "Vortex"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/invisible-stalker-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/invisible-stalker-xmm.webp"
 ```
 ^statblock
 

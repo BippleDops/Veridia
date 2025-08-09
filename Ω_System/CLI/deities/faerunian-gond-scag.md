@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-gond.webp#symbol)
+![](/03_Mechanics/CLI/deities/img/scag-symbol-of-gond.webp#symbol)
 
 - **Alternate Names**: The Wonderbringer, The Inspiration Divine, The Holy Maker of All Things
 - **Alignment**: Neutral

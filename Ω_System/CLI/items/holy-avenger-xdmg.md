@@ -76,12 +76,12 @@ modified: 2025-07-23 12:39
 ---
 # Holy Avenger
 *Legendary (requires attunement by a paladin)*  
-![](/3-Mechanics/CLI/items/img/holy-avenger.webp#right)
+![](/03_Mechanics/CLI/items/img/holy-avenger.webp#right)
 
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. When you hit a Fiend or an Undead with it, that creature takes an extra `2d10` Radiant damage.
 
-While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You and all creatures [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you in the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) increases to 30 feet.
+While you hold the drawn weapon, it creates a 10-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You and all creatures [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you in the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects. If you have 17 or more levels in the Paladin class, the size of the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) increases to 30 feet.
 
 **Variants**:
 - [Holy Avenger Antimatter Rifle](#Holy%20Avenger%20Antimatter%20Rifle)
@@ -142,14 +142,14 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/3-Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/03_Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Holy Avenger Battleaxe
@@ -157,40 +157,40 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Holy Avenger Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Holy Avenger Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Holy Avenger Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed), [special](/03_Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Flail
@@ -201,127 +201,127 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 ### Holy Avenger Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Holy Avenger Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Holy Avenger Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed), [special](/03_Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Holy Avenger Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Holy Avenger Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Holy Avenger Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Holy Avenger Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Longsword
@@ -329,7 +329,7 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Mace
@@ -340,7 +340,7 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 ### Holy Avenger Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Morningstar
@@ -352,20 +352,20 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Holy Avenger Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Holy Avenger Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Quarterstaff
@@ -373,66 +373,66 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Reload](/03_Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Holy Avenger Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition)
 
 ### Holy Avenger Spear
 
@@ -440,7 +440,7 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Staff
@@ -448,7 +448,7 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Trident
@@ -457,7 +457,7 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger War Pick
@@ -465,7 +465,7 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Warhammer
@@ -473,13 +473,13 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Holy Avenger Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Wooden Staff
@@ -487,14 +487,14 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/3-Mechanics/C
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Holy Avenger Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
 

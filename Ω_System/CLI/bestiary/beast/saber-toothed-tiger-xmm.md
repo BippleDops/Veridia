@@ -20,7 +20,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Saber-Toothed Tiger (XMM)"
@@ -43,15 +43,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "strength": !!int "6"
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "With a 10-foot running start, the tiger can [Long Jump](/3-Mechanics/CLI/variant-rules/long-jump-xphb.md)\
+  - "desc": "With a 10-foot running start, the tiger can [Long Jump](/03_Mechanics/CLI/variant-rules/long-jump-xphb.md)\
       \ up to 25 feet."
     "name": "Running Leap"
 "actions":
@@ -64,7 +64,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Nimble Escape"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/saber-toothed-tiger-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/saber-toothed-tiger-xmm.webp"
 ```
 ^statblock
 

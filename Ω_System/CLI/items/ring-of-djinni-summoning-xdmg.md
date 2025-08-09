@@ -16,12 +16,12 @@ modified: 2025-07-23 12:39
 ---
 # Ring of Djinni Summoning
 *Ring, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
+![](/03_Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
 
 
-While wearing this ring, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to summon a particular [Djinni](/3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md) from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration), to a maximum of 1 hour, or until it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).
+While wearing this ring, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to summon a particular [Djinni](/03_Mechanics/CLI/bestiary/elemental/djinni-xmm.md) from the Elemental Plane of Air. The djinni appears in an unoccupied space you choose within 120 feet of yourself. It remains as long as you maintain [Concentration](/03_Mechanics/CLI/conditions.md#Concentration), to a maximum of 1 hour, or until it drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
-While summoned, the djinni is [Friendly](/3-Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
+While summoned, the djinni is [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you and your allies, and it obeys your commands. If you fail to command it, the djinni defends itself against attackers but takes no other actions.
 
 After the djinni departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the djinni dies.
 

@@ -37,6 +37,6 @@ aliases:
 "cr": "0"
 "source":
   - "XDMG"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-fly-xdmg.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-fly-xdmg.webp"
 ```
 ^statblock

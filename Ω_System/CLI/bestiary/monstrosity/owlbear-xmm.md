@@ -59,7 +59,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
@@ -71,7 +71,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
 ```
 ^statblock
 

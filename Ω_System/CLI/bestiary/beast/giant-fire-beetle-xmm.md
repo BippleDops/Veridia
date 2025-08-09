@@ -18,7 +18,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Fire Beetle (XMM)"
@@ -42,8 +42,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The beetle sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The beetle sheds [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -51,7 +51,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-fire-beetle-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-fire-beetle-xmm.webp"
 ```
 ^statblock
 

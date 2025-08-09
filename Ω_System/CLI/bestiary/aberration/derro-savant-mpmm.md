@@ -37,7 +37,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "subtype": "sorcerer"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](/03_Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "2"
@@ -50,7 +50,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 7"
 "languages": "Dwarvish, Undercommon"
@@ -60,7 +60,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ effects."
     "name": "Magic Resistance"
   - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -73,15 +73,15 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ much damage on a successful one."
     "name": "Chromatic Beam"
   - "desc": "The derro casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [message](/3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n1/day each: [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md), [spider climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md)"
+      \ ability (spell save DC 12):\n\nAt will: [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](/03_Mechanics/CLI/spells/message-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n1/day each: [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md), [spider climb](/03_Mechanics/CLI/spells/spider-climb-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/derro-savant-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/derro-savant-mpmm.webp"
 ```
 ^statblock
 

@@ -34,7 +34,7 @@ modified: 2025-07-23 12:39
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to acid damage while you wear this armor.
+You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to acid damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)

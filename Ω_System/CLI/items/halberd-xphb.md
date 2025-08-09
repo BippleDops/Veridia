@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Halberd
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/halberd.webp#right)
+![](/03_Mechanics/CLI/items/img/halberd.webp#right)
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 20 gp
 - **Weight**: 6.0 lbs.
 

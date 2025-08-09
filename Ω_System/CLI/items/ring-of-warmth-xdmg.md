@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Ring of Warmth
 *Ring, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-warmth.webp#right)
+![](/03_Mechanics/CLI/items/img/ring-of-warmth.webp#right)
 
 
 If you take Cold damage while wearing this ring, the ring reduces the damage you take by `2d8`.

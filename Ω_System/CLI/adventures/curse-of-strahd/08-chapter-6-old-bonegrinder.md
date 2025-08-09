@@ -12,31 +12,31 @@ modified: 2025-07-23 12:39
 # Chapter 6: Old Bonegrinder
 *Source: Curse of Strahd, p. 125* 
 
-Once a grain mill that served Vallaki, this slouching windmill is now home to three night hags: [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) and her wretched daughters, Bella Sunbane and Offalia Wormwiggle. The hags are trapped in Barovia, but they like it here. Using their Change Shape action to look like Barovian women—a frumpy mother and her two homely daughters—the hags snatch children, devour them, and use the windmill's grindstone to crush their little bones into powder. This powder is a key ingredient in the hags' dream pastries, which they offer to Barovian adults who are desperate to escape Strahd's domain.
+Once a grain mill that served Vallaki, this slouching windmill is now home to three night hags: [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) and her wretched daughters, Bella Sunbane and Offalia Wormwiggle. The hags are trapped in Barovia, but they like it here. Using their Change Shape action to look like Barovian women—a frumpy mother and her two homely daughters—the hags snatch children, devour them, and use the windmill's grindstone to crush their little bones into powder. This powder is a key ingredient in the hags' dream pastries, which they offer to Barovian adults who are desperate to escape Strahd's domain.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/070-cos06-01.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/070-cos06-01.webp#center)
 
 Made with the bones of the innocent, the hags' dream pastries allow Barovians to enter a trance, wherein they can escape to heavenly places full of joy. When adults can no longer afford the hag's dream pastries, the hags offer to trade their pastries for the Barovians' children, thus preying on the adults' selfishness while acquiring the ingredients they need to make more pastries. This is how the hags sow corruption in Strahd's domain and why they don't take the children by force. The hags are interested only in children who have souls. They prick each child with a needle; if the child cries, that's a sign that the infant has a soul.
 
-> [!quote] A quote from [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)  
+> [!quote] A quote from [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)  
 > 
 > Dreams are for the living.
 
 ## Morgantha's Coven
 
-The [hags](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) possess the shared spellcasting abilities of a coven (see the "Hag Covens" sidebar in the hags entry in the "Monster Manual"). If one or more hags die, the coven is broken. [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) tolerates her daughters only because they help her complete the coven. If one of them dies, [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) sets out to abduct and consume a human child so that she can give birth to a new daughter (as described in the "Monster Manual").
+The [hags](/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) possess the shared spellcasting abilities of a coven (see the "Hag Covens" sidebar in the hags entry in the "Monster Manual"). If one or more hags die, the coven is broken. [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) tolerates her daughters only because they help her complete the coven. If one of them dies, [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) sets out to abduct and consume a human child so that she can give birth to a new daughter (as described in the "Monster Manual").
 
-[Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) gave her coven's [hag eye](/3-Mechanics/CLI/items/hag-eye-xdmg.md) to [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md), Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the *hag eye*, see the hags entry in the Monster Manual.
+[Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) gave her coven's [hag eye](/03_Mechanics/CLI/items/hag-eye-xdmg.md) to [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md), Strahd's disfigured manservant (see chapter 4, area K62), so that she could spy on Castle Ravenloft and keep an eye on the vampire. The hags are fearful of Strahd and respect his dominion over this land. For more information on the *hag eye*, see the hags entry in the Monster Manual.
 
 ## Dream Pastries
 
-These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for `1d4 + 4` hours, during which time the creature is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
+These pastries look and taste like small mincemeat pies. A creature that eats one in its entirety must succeed on a DC 16 Constitution saving throw or fall into a trance that lasts for `1d4 + 4` hours, during which time the creature is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) and has a speed of 0 feet. The trance ends if the affected creature takes any damage or if someone else uses an action to shake the creature out of its stupor.
 
 While in the trance, the creature dreams of being in some joyous place, far removed from the evils of the world. The places and characters in the dream are vivid and believable, and when the dream ends, the affected creature experiences a longing to return to the place.
 
 ## Approaching the Windmill
 
-The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision).
+The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have [darkvision](/03_Mechanics/CLI/senses.md#Darkvision).
 
 > [!readaloud] 
 > 
@@ -50,11 +50,11 @@ Closer investigation of the windmill yields a few more details:
 > The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
 ^416
 
-A character who succeeds on a DC 12 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check senses that the [raven](/3-Mechanics/CLI/bestiary/beast/raven-xmm.md) is trying to warn the party. After delivering its message, the raven flies off toward Vallaki, the town in the valley below (see chapter 5).
+A character who succeeds on a DC 12 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check senses that the [raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md) is trying to warn the party. After delivering its message, the raven flies off toward Vallaki, the town in the valley below (see chapter 5).
 
 Beyond the windmill is the forest. Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge. Ravens can be seen circling in the air above the stones, which are described at the end of the chapter.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/071-cos06-02.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/071-cos06-02.webp#center)
 
 ## Areas of the Windmill
 
@@ -78,23 +78,23 @@ The ceiling here is 8 feet high. If the characters explore the room, read:
 > Small human bones litter the flagstone floor.
 ^41a
 
-Baking in the oven are a dozen dream pastries. [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) checks on them every 10 minutes. The staircase curls up to area O2.
+Baking in the oven are a dozen dream pastries. [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) checks on them every 10 minutes. The staircase curls up to area O2.
 
-The barrel holds glistening, greenish-black demon ichor. [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) can use the barrel as a font for a [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) spell. She can also knock on the barrel three times as an action to summon a [dretch](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md). The demon crawls out of the barrel at the end of [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md)'s turn and obeys the night hag's commands for 1 hour, after which it dissolves into a pool of ichor. [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) can summon up to nine dretches in this manner before the ichor is gone.
+The barrel holds glistening, greenish-black demon ichor. [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) can use the barrel as a font for a [scrying](/03_Mechanics/CLI/spells/scrying-xphb.md) spell. She can also knock on the barrel three times as an action to summon a [dretch](/03_Mechanics/CLI/bestiary/fiend/dretch-xmm.md). The demon crawls out of the barrel at the end of [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md)'s turn and obeys the night hag's commands for 1 hour, after which it dissolves into a pool of ichor. [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) can summon up to nine dretches in this manner before the ichor is gone.
 
-[Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md)'s cabinet contains wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of powdered bone. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. The first elixir, labeled "Youth," is a golden syrup that magically makes the imbiber appear younger and more attractive for 24 hours. The second elixir, labeled "Laughter," is a nonmagical red tea that infects the imbiber with cackle fever (see ""Diseases"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). The third elixir, a greenish milky liquid labeled "Mother's Milk," is actually a dose of [pale tincture](/3-Mechanics/CLI/items/pale-tincture-xdmg.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide").
+[Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md)'s cabinet contains wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of powdered bone. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. The first elixir, labeled "Youth," is a golden syrup that magically makes the imbiber appear younger and more attractive for 24 hours. The second elixir, labeled "Laughter," is a nonmagical red tea that infects the imbiber with cackle fever (see ""Diseases"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). The third elixir, a greenish milky liquid labeled "Mother's Milk," is actually a dose of [pale tincture](/03_Mechanics/CLI/items/pale-tincture-xdmg.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide").
 
 The chicken coop contains three chickens, a rooster, and a few laid eggs.
 
-The wooden trunk has tiny holes bored into its lid and contains a hundred croaking [toads](/3-Mechanics/CLI/bestiary/beast/frog-xmm.md). Several toads escape if the lid is lifted, but they are harmless.
+The wooden trunk has tiny holes bored into its lid and contains a hundred croaking [toads](/03_Mechanics/CLI/bestiary/beast/frog-xmm.md). Several toads escape if the lid is lifted, but they are harmless.
 
 > [!gallery]
-> ![Map 6.1: Old Bonegrinder (Area O)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/072-019.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/073-cos601.webp#gallery)
+> ![Map 6.1: Old Bonegrinder (Area O)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/072-019.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/073-cos601.webp#gallery)
 
 ### O2. Bone Mill
 
-Unless she has been lured elsewhere, [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) is encountered here. This is where she grinds children's bones to make the powder for her dream pastries.
+Unless she has been lured elsewhere, [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) is encountered here. This is where she grinds children's bones to make the powder for her dream pastries.
 
 > [!readaloud] 
 > 
@@ -103,13 +103,13 @@ Unless she has been lured elsewhere, [Morgantha](/3-Mechanics/CLI/bestiary/npc/m
 > The dirt-caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up, toward the sound of loud cackling.
 ^41c
 
-The old woman is [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md), a [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md). She doesn't mind visitors, as long as they've come to do business. She tries to sell her latest batch of dream pastries, charging 1 gp for each one. She's proud of her confections and claims that she uses only the finest ingredients. If the characters seem uninterested in her wares, she bellows, "Begone!" If they attack or refuse to leave, she calls out to her daughters and turns to fight.
+The old woman is [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md), a [night hag](/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm.md). She doesn't mind visitors, as long as they've come to do business. She tries to sell her latest batch of dream pastries, charging 1 gp for each one. She's proud of her confections and claims that she uses only the finest ingredients. If the characters seem uninterested in her wares, she bellows, "Begone!" If they attack or refuse to leave, she calls out to her daughters and turns to fight.
 
 The hags operate the millstone manually, since the arms of the windmill no longer function.
 
 ### O3. Bedroom
 
-The [night hags](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) Bella Sunbane and Offalia Wormwiggle are here, unless they have been drawn elsewhere.
+The [night hags](/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) Bella Sunbane and Offalia Wormwiggle are here, unless they have been drawn elsewhere.
 
 > [!readaloud] 
 > 
@@ -118,7 +118,7 @@ The [night hags](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) Bella Sunbane
 > In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine-foot-high ceiling. A moldy bed with a tattered canopy stands nearby.
 ^41e
 
-[Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md)'s daughters are repulsive even in their human guises. When they are not singing, dancing, or telling terrible jokes to one another, they are pricking captured children with needles to make them cry. Any attempt to free the children incurs the hags' wrath.
+[Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md)'s daughters are repulsive even in their human guises. When they are not singing, dancing, or telling terrible jokes to one another, they are pricking captured children with needles to make them cry. Any attempt to free the children incurs the hags' wrath.
 
 The discarded clothing belongs to children whom the night hags have already devoured. The trapdoor in the ceiling can be pushed open to reveal area O4.
 
@@ -143,7 +143,7 @@ Characters searching this space find a few old, abandoned bird's nests.
 
 If your card reading reveals that a treasure is here, it's easy to find, either tucked in a bird's nest or buried under some dirt in a corner.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/074-cos06-04.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/074-cos06-04.webp#center)
 
 ## The Megaliths
 

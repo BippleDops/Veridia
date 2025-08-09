@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md "XPHB")
+- [Polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md "XPHB")

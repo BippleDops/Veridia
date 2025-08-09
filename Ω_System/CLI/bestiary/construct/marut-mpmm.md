@@ -45,17 +45,17 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
   - "wisdom": !!int "10"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+10"
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 20"
 "languages": "all but rarely speaks"
 "cr": "25"
@@ -78,10 +78,10 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
     "name": "Unerring Slam"
   - "desc": "Arcane energy emanates from the marut's chest in a 60-foot cube. Every\
       \ creature in that area takes 45 radiant damage. Each creature that takes any\
-      \ of this damage must succeed on a DC 20 Wisdom saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ of this damage must succeed on a DC 20 Wisdom saving throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ until the end of the marut's next turn."
     "name": "Blazing Edict (Recharge 5-6)"
-  - "desc": "The marut casts [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+  - "desc": "The marut casts [plane shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md),\
       \ requiring no material components and using Intelligence as the spellcasting\
       \ ability. The marut can cast the spell normally, or it can cast the spell on\
       \ an unwilling creature it can see within 60 feet of it. If it uses the latter\
@@ -91,6 +91,6 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/marut-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/marut-mpmm.webp"
 ```
 ^statblock

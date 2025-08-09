@@ -49,7 +49,7 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
     "name": "Gore"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/cow-vgm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/cow-vgm.webp"
 ```
 ^statblock
 

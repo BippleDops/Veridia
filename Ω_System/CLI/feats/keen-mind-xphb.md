@@ -19,6 +19,6 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence score by 1, to a maximum of 20.
 
-**Lore Knowledge.** Choose one of the following skills: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Nature](/3-Mechanics/CLI/skills.md#Nature), or [Religion](/3-Mechanics/CLI/skills.md#Religion). If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
+**Lore Knowledge.** Choose one of the following skills: [Arcana](/03_Mechanics/CLI/skills.md#Arcana), [History](/03_Mechanics/CLI/skills.md#History), [Investigation](/03_Mechanics/CLI/skills.md#Investigation), [Nature](/03_Mechanics/CLI/skills.md#Nature), or [Religion](/03_Mechanics/CLI/skills.md#Religion). If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
-**Quick Study.** You can take the [Study](/3-Mechanics/CLI/actions.md#Study) action as a Bonus Action.
+**Quick Study.** You can take the [Study](/03_Mechanics/CLI/actions.md#Study) action as a Bonus Action.

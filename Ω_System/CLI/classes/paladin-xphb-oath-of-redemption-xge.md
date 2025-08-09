@@ -89,11 +89,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) |
-| 5th | [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md) |
-| 9th | [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md), [hypnotic pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md) |
-| 13th | [Otiluke's resilient sphere](/3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md) |
-| 17th | [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md), [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md) |
+| 3rd | [sanctuary](/03_Mechanics/CLI/spells/sanctuary-xphb.md), [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md) |
+| 5th | [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md) |
+| 9th | [counterspell](/03_Mechanics/CLI/spells/counterspell-xphb.md), [hypnotic pattern](/03_Mechanics/CLI/spells/hypnotic-pattern-xphb.md) |
+| 13th | [Otiluke's resilient sphere](/03_Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md), [stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md) |
+| 17th | [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md), [wall of force](/03_Mechanics/CLI/spells/wall-of-force-xphb.md) |
 ^oath-of-redemption-spells
 
 ### Channel Divinity (Level 3)
@@ -102,7 +102,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Emissary of Peace (Level 3)
 
-You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) checks for the next 10 minutes.
+You can use your Channel Divinity to augment your presence with divine power. As a bonus action, you grant yourself a +5 bonus to Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) checks for the next 10 minutes.
 
 ### Rebuke the Violent (Level 3)
 
@@ -116,7 +116,7 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Protective Spirit (Level 15)
 
-Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Starting at 15th level, a holy presence mends your wounds in battle. You regain hit points equal to `d6` + half your paladin level if you end your turn in combat with fewer than half of your hit points remaining and you aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Emissary of Redemption (Level 20)
 

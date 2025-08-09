@@ -40,18 +40,18 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
   - "dexterity": !!int "5"
   - "intelligence": !!int "5"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+5"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "3"
@@ -66,17 +66,17 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
       \ + 3) fire damage."
     "name": "Oar"
   - "desc": "The merrenoloth targets one creature it can see within 60 feet of it.\
-      \ The target must succeed on a DC 13 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of the merrenoloth for 1 minute. The [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ The target must succeed on a DC 13 Wisdom saving throw or become [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ of the merrenoloth for 1 minute. The [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Fear Gaze"
   - "desc": "The merrenoloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 13):\n\nAt will: [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md)\n\
-      \n3/day: [control water](/3-Mechanics/CLI/spells/control-water-xphb.md)"
+      \ DC 13):\n\nAt will: [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md)\n\
+      \n3/day: [control water](/03_Mechanics/CLI/spells/control-water-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The merrenoloth teleports, along with any equipment it is wearing or\
@@ -85,7 +85,7 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/merrenoloth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/merrenoloth-mpmm.webp"
 ```
 ^statblock
 

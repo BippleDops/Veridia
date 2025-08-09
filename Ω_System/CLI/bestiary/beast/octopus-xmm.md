@@ -18,7 +18,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Octopus (XMM)"
@@ -38,9 +38,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "5 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
@@ -56,16 +56,16 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Tentacles"
 "reactions":
   - "desc": "Trigger: A creature ends its turn within 5 feet of the octopus while\
-      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
-      \ centered on itself, and the octopus moves up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md).\
-      \ The [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) is\
-      \ [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md)\
+      \ underwater. _Response:_ The octopus releases ink that fills a 5-foot [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+      \ centered on itself, and the octopus moves up to its [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md).\
+      \ The [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) is\
+      \ [Heavily Obscured](/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb.md)\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/octopus-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/octopus-xmm.webp"
 ```
 ^statblock
 

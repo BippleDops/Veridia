@@ -20,7 +20,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Goat (XMM)"
@@ -42,7 +42,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "saves":
   - "strength": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
@@ -51,12 +51,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage.\
       \ If the target is a Large or smaller creature and the goat moved 20+ feet straight\
       \ toward it immediately before the hit, the target takes an extra 5 (2d4) Bludgeoning\
-      \ damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
     "name": "Ram"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-goat-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-goat-xmm.webp"
 ```
 ^statblock
 

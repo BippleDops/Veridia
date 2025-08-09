@@ -26,12 +26,12 @@ modified: 2025-07-23 12:39
 - **Components:** V, S, M (the petrified eye of a newt)
 - **Duration:** Concentration, up to 1 hour
 
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on ability checks made with the chosen ability.
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra `d6` Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on ability checks made with the chosen ability.
 
-If the target drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) before this spell ends, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on a later turn to curse a new creature.
+If the target drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) before this spell ends, you can take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) on a later turn to curse a new creature.
 
-**Using a Higher-Level Spell Slot.** Your [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+**Using a Higher-Level Spell Slot.** Your [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warlock (Great Old One Patron)](/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

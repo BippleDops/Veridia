@@ -12,15 +12,15 @@ modified: 2025-07-23 12:39
 # Chapter 1: Into the Mists
 *Source: Curse of Strahd, p. 9* 
 
-Eerie mists surround Barovia and bind its inhabitants there. This chapter gives you the information you need to prepare for the adventurers' journey into those mists. The chapter first outlines the history and goals of Count [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) so that you are prepared for what awaits the characters. In the "Fortunes of Ravenloft" section, the chapter walks you through the tarokka card reading that helps set the stage for the adventure's action, and the chapter closes with adventure hooks that you can use to draw the characters into the horror of Barovia.
+Eerie mists surround Barovia and bind its inhabitants there. This chapter gives you the information you need to prepare for the adventurers' journey into those mists. The chapter first outlines the history and goals of Count [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) so that you are prepared for what awaits the characters. In the "Fortunes of Ravenloft" section, the chapter walks you through the tarokka card reading that helps set the stage for the adventure's action, and the chapter closes with adventure hooks that you can use to draw the characters into the horror of Barovia.
 
 ## Strahd von Zarovich
 
-[Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), a vampire and wizard, has the statistics presented in appendix D. Although he can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading later in this chapter, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
+[Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), a vampire and wizard, has the statistics presented in appendix D. Although he can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading later in this chapter, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
 
 ### The Vampire's History
 
-In life, [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) was a count, a prince, a soldier, and a conqueror. After the death of his father, King Barov, Strahd waged long, bloody wars against his family's enemies. He and his army cornered the last of these enemies in a remote mountain valley before slaying them all. Strahd named the valley Barovia, after his deceased father, and was so struck by its scenic beauty that he decided to settle there.
+In life, [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) was a count, a prince, a soldier, and a conqueror. After the death of his father, King Barov, Strahd waged long, bloody wars against his family's enemies. He and his army cornered the last of these enemies in a remote mountain valley before slaying them all. Strahd named the valley Barovia, after his deceased father, and was so struck by its scenic beauty that he decided to settle there.
 
 Queen Ravenovia lamented the death of Barov and was fearful of Strahd. War had made him cold and arrogant. She kept her younger son, Sergei, away from the battlefield. Strahd envied the love and attention his mother visited upon his brother, so in Barovia he remained. Peace made Strahd restless, and he began to feel like his best years were behind him. Unwilling to go the way of his father, Strahd studied magic and forged a pact with the Dark Powers of the Shadowfell in return for the promise of immortality.
 
@@ -28,7 +28,7 @@ Strahd scoured his conquered lands for wizards and artisans, brought them to the
 
 Strahd's attention soon turned to Tatyana, a young Barovian woman of fine lineage and remarkable beauty. Strahd believed her to be a worthy bride, and he lavished Tatyana with gifts and attention. Despite Strahd's efforts, she instead fell in love with the younger, warmer Sergei. Strahd's pride prevented him from standing in the way of the young couple's love until the day of Sergei and Tatyana's wedding, when Strahd gazed into a mirror and realized he had been a fool. Strahd murdered Sergei and drank his blood, sealing the evil pact between Strahd and the Dark Powers. He then chased Sergei's bride-to-be through the gardens, determined to make her accept and love him. Tatyana hurled herself off a castle balcony to escape Strahd's pursuit, plunging to her death. Treacherous castle guards, seizing the opportunity to rid the world of Strahd forever, shot their master with arrows.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/000-cos01-01.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/000-cos01-01.webp#center)
 
 But Strahd did not die. The Dark Powers honored the pact they had made. The sky went black as Strahd turned on the guards, his eyes blazing red. He had become a vampire.
 
@@ -50,7 +50,7 @@ Strahd has the following goals in the adventure.
 
 #### Turn Ireena Kolyana
 
-Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed the young woman [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) in the village of Barovia and felt extreme déjà vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
+Strahd's unrequited love for Tatyana drove him to slay his brother, Sergei. Some time ago, Strahd glimpsed the young woman [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) in the village of Barovia and felt extreme déjà vu. Ireena looked exactly like Tatyana! Strahd now believes that Ireena is the latest reincarnation of Tatyana, and thus he seeks to claim her.
 
 Strahd's evil courtship has led him to visit Ireena twice. On both occasions, he charmed his way into her home—the house of her adopted father, the burgomaster of the village of Barovia—and drank her blood. He intends to kill Ireena during their next meeting and turn her into his vampire spawn consort.
 
@@ -58,13 +58,13 @@ Chapter 3 gives details about Ireena and where to find her in the village of Bar
 
 #### Find Rudolph van Richten
 
-Although he is usually focused on making [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) his bride, Strahd has been distracted by reports that a legendary vampire hunter named Rudolph van Richten has come to Barovia. It takes more than one old man with a death wish to frighten Strahd; nevertheless, the vampire has his spies searching Barovia for van Richten. Strahd would like very much to meet the old vampire hunter, lock him in the dungeons of Castle Ravenloft, and slowly break his spirit.
+Although he is usually focused on making [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) his bride, Strahd has been distracted by reports that a legendary vampire hunter named Rudolph van Richten has come to Barovia. It takes more than one old man with a death wish to frighten Strahd; nevertheless, the vampire has his spies searching Barovia for van Richten. Strahd would like very much to meet the old vampire hunter, lock him in the dungeons of Castle Ravenloft, and slowly break his spirit.
 
 Chapter 5 describes the town of Vallaki, where van Richten currently resides incognito.
 
 #### Search for a Successor or Consort
 
-Strahd can sense the arrival of new blood in his domain. When newcomers enter Barovia, he shifts his attention from [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) and van Richten to his new guests so that he can determine whether any of them is worthy to be his successor or consort. (Eventually, he decides that none of them can replace him as master of Barovia, but he doesn't arrive at this conclusion immediately.)
+Strahd can sense the arrival of new blood in his domain. When newcomers enter Barovia, he shifts his attention from [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) and van Richten to his new guests so that he can determine whether any of them is worthy to be his successor or consort. (Eventually, he decides that none of them can replace him as master of Barovia, but he doesn't arrive at this conclusion immediately.)
 
 Strahd pays close attention to adventurers who are charismatic and arrogant, like himself. He focuses his attacks on them, to see how much they can withstand. If they crumble easily, he loses interest in them. If they exhibit great fortitude and defiance, his interest is piqued—even more so if the character displays uncommon knowledge or beauty. Such a person might not be worthy to succeed him, but the man or woman might provide amusement to Strahd as a new possession.
 
@@ -74,7 +74,7 @@ Strahd believes his soul is lost to evil. He feels neither pity nor remorse, nei
 
 When he was alive, Strahd could admit to letting his emotions get the better of him from time to time. Now, as a vampire, he is more monster than man, with barely a hint of emotion left. He is above the concerns of the living. The only event that occasionally haunts him is the death of Tatyana, but his view of the past is bereft of romance or regret. In his mind, her death couldn't have been prevented, and what is done cannot be undone.
 
-In life, Strahd lived to conquer. In undeath, he conquers still—not realms, but people, driving good souls to become corrupt and destroying those who won't yield. Characters who try to appeal to Strahd's humanity will be gravely disappointed, because there is little humanity left in him. If they ask Strahd why he's preying on [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), he tells them that Ireena's body is the host for Tatyana's soul, and Tatyana's soul belongs to him.
+In life, Strahd lived to conquer. In undeath, he conquers still—not realms, but people, driving good souls to become corrupt and destroying those who won't yield. Characters who try to appeal to Strahd's humanity will be gravely disappointed, because there is little humanity left in him. If they ask Strahd why he's preying on [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), he tells them that Ireena's body is the host for Tatyana's soul, and Tatyana's soul belongs to him.
 
 Strahd can be seductive and subtle when he chooses to be, especially if a person is clever or attractive. Men and women of beauty and cunning amuse Strahd for a time—playthings to possess or discard as he desires.
 
@@ -90,21 +90,21 @@ These encounters are meant to test the characters, not kill them. After a few ro
 
 ## Fortunes of Ravenloft
 
-The events of this adventure are part of dark twists of fate that a fortuneteller can discern with the cards of a [tarokka deck](/3-Mechanics/CLI/decks/tarokka-deck-cos.md). Before you run this adventure, you must draw cards from a deck to determine the following elements of the adventure:
+The events of this adventure are part of dark twists of fate that a fortuneteller can discern with the cards of a [tarokka deck](/03_Mechanics/CLI/decks/tarokka-deck-cos.md). Before you run this adventure, you must draw cards from a deck to determine the following elements of the adventure:
 
 - Strahd's location inside Castle Ravenloft  
-- The placement of three important treasures that can be used against Strahd—the [Tome of Strahd](/3-Mechanics/CLI/items/tome-of-strahd-cos.md), the [Holy Symbol of Ravenkind](/3-Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md), and the [Sunsword](/3-Mechanics/CLI/items/sunsword-cos.md)  
+- The placement of three important treasures that can be used against Strahd—the [Tome of Strahd](/03_Mechanics/CLI/items/tome-of-strahd-cos.md), the [Holy Symbol of Ravenkind](/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md), and the [Sunsword](/03_Mechanics/CLI/items/sunsword-cos.md)  
 - The identity of a powerful ally in the fight against Strahd  
 
 This card reading can make the adventure different each time you play it.
 
-At some point during the adventure, the characters are likely to meet [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md), the old Vistani seer (see chapter 2, area G), who can perform the same card reading for them. Characters can also have [Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) perform a card reading for them, provided she has her deck of tarokka cards. Ezmerelda's cards are hidden in her wagon (chapter 11, area V1).
+At some point during the adventure, the characters are likely to meet [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md), the old Vistani seer (see chapter 2, area G), who can perform the same card reading for them. Characters can also have [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) perform a card reading for them, provided she has her deck of tarokka cards. Ezmerelda's cards are hidden in her wagon (chapter 11, area V1).
 
-Appendix E shows all the cards of the [tarokka deck](/3-Mechanics/CLI/decks/tarokka-deck-cos.md) and summarizes their symbolic meanings.
+Appendix E shows all the cards of the [tarokka deck](/03_Mechanics/CLI/decks/tarokka-deck-cos.md) and summarizes their symbolic meanings.
 
 > [!note] Using Regular Playing Cards
 > 
-> If you like, you can use a regular deck of playing cards in place of the [tarokka deck](/3-Mechanics/CLI/decks/tarokka-deck-cos.md). To do so, separate the numbered cards from the face cards and jokers, and treat them as two separate decks: the common deck (the numbered cards) and the high deck (the face cards and jokers).
+> If you like, you can use a regular deck of playing cards in place of the [tarokka deck](/03_Mechanics/CLI/decks/tarokka-deck-cos.md). To do so, separate the numbered cards from the face cards and jokers, and treat them as two separate decks: the common deck (the numbered cards) and the high deck (the face cards and jokers).
 > 
 > **Common Deck.** Each suit in a regular deck of playing cards corresponds to a suit in the tarokka deck. The ace cards represent the "1" cards in the tarokka deck, and the "10" cards represent the "master" cards in the tarokka deck.
 > 
@@ -114,20 +114,20 @@ Appendix E shows all the cards of the [tarokka deck](/3-Mechanics/CLI/decks/taro
 > 
 > | Playing Card | Tarokka Card |
 > |--------------|--------------|
-> | King of hearts | [Ghost](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) |
-> | Queen of hearts | [Innocent](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) |
-> | Jack of hearts | [Marionette](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) |
-> | King of spades | [Darklord](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord) |
-> | Queen of spades | [Mists](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Mists) |
-> | Jack of spades | [Executioner](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner) |
-> | King of diamonds | [Broken One](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) |
-> | Queen of diamonds | [Tempter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) |
-> | Jack of diamonds | [Beast](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Beast) |
-> | King of clubs | [Donjon](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) |
-> | Queen of clubs | [Raven](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Raven) |
-> | Jack of clubs | [Seer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Seer) |
-> | Joker 1 | [Artifact](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact) |
-> | Joker 2 | [Horseman](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) |
+> | King of hearts | [Ghost](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) |
+> | Queen of hearts | [Innocent](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) |
+> | Jack of hearts | [Marionette](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) |
+> | King of spades | [Darklord](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord) |
+> | Queen of spades | [Mists](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Mists) |
+> | Jack of spades | [Executioner](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner) |
+> | King of diamonds | [Broken One](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) |
+> | Queen of diamonds | [Tempter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) |
+> | Jack of diamonds | [Beast](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Beast) |
+> | King of clubs | [Donjon](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) |
+> | Queen of clubs | [Raven](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Raven) |
+> | Jack of clubs | [Seer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Seer) |
+> | Joker 1 | [Artifact](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact) |
+> | Joker 2 | [Horseman](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) |
 > ^playing-card-tarokka-card
 ^using-regular-playing-cards
 
@@ -137,7 +137,7 @@ When you perform a card reading before running the adventure, write down the res
 
 When you're ready to begin the card reading, remove the fourteen cards with the crown icon (the high deck) and shuffle them. Then shuffle the remaining cards (the common deck), keeping the two decks separate. Draw the top three cards from the common deck and lay them face down in the 1, 2, and 3 positions. Then draw the top two cards from the high deck and lay them face down in the 4 and 5 positions, as shown below:
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/001-cos01-01a.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/001-cos01-01a.webp#center)
 
 Once all five cards are drawn and placed face down, follow the instructions below for each card in order.
 
@@ -150,7 +150,7 @@ Flip over card 1, and read:
 > This card tells of history. Knowledge of the ancient will help you better understand your enemy.
 ^023
 
-This card determines the location of the [Tome of Strahd](/3-Mechanics/CLI/items/tome-of-strahd-cos.md) (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+This card determines the location of the [Tome of Strahd](/03_Mechanics/CLI/items/tome-of-strahd-cos.md) (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
 
 #### 2. The Holy Symbol of Ravenkind
 
@@ -161,7 +161,7 @@ Flip over card 2, and read:
 > This card tells of a powerful force for good and protection, a holy symbol of great hope.
 ^025
 
-This card determines the location of the [Holy Symbol of Ravenkind](/3-Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md) (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+This card determines the location of the [Holy Symbol of Ravenkind](/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md) (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
 
 #### 3. The Sunsword
 
@@ -172,7 +172,7 @@ Flip over card 3, and read:
 > This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight.
 ^027
 
-This card determines the location of the [Sunsword](/3-Mechanics/CLI/items/sunsword-cos.md) (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
+This card determines the location of the [Sunsword](/03_Mechanics/CLI/items/sunsword-cos.md) (described in appendix C). Read the boxed text for the appropriate card, as given in the "Treasure Locations" section that follows.
 
 #### 4. Strahd's Enemy
 
@@ -198,22 +198,22 @@ The revealed card determines where Strahd can always be found. Read the boxed te
 
 ### Treasure Locations
 
-The cards of the common deck determine the locations of the [Tome of Strahd](/3-Mechanics/CLI/items/tome-of-strahd-cos.md) (card 1), the [Holy Symbol of Ravenkind](/3-Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md) (card 2), and the [Sunsword](/3-Mechanics/CLI/items/sunsword-cos.md) (card 3).
+The cards of the common deck determine the locations of the [Tome of Strahd](/03_Mechanics/CLI/items/tome-of-strahd-cos.md) (card 1), the [Holy Symbol of Ravenkind](/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md) (card 2), and the [Sunsword](/03_Mechanics/CLI/items/sunsword-cos.md) (card 3).
 
 #### Swords (Spades)
 
 > [!readaloud] 
 > 
-> **One of Swords—[Avenger](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Avenger)**
+> **One of Swords—[Avenger](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Avenger)**
 > 
 > The treasure lies in a dragon's house, in hands once clean and now corrupted.
 ^02e
 
-The treasure is in the possession of [Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) in Argynvostholt (chapter 7, area Q36).
+The treasure is in the possession of [Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) in Argynvostholt (chapter 7, area Q36).
 
 > [!readaloud] 
 > 
-> **Two of Swords—[Paladin](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Paladin)**
+> **Two of Swords—[Paladin](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Paladin)**
 > 
 > I see a sleeping prince, a servant of light and the brother of darkness. The treasure lies with him.
 ^02f
@@ -222,7 +222,7 @@ The treasure lies in Sergei's tomb (chapter 4, area K85).
 
 > [!readaloud] 
 > 
-> **Three of Swords—[Soldier](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Soldier)**
+> **Three of Swords—[Soldier](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Soldier)**
 > 
 > Go to the mountains. Climb the white tower guarded by golden knights.
 ^030
@@ -231,7 +231,7 @@ The treasure lies on the rooftop of the Tsolenka Pass guard tower (chapter 9, ar
 
 > [!readaloud] 
 > 
-> **Four of Swords—[Mercenary](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Mercenary)**
+> **Four of Swords—[Mercenary](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Mercenary)**
 > 
 > The thing you seek lies with the dead, under mountains of gold coins.
 ^031
@@ -240,7 +240,7 @@ The treasure lies in a crypt in Castle Ravenloft (chapter 4, area K84, crypt 31)
 
 > [!readaloud] 
 > 
-> **Five of Swords—[Myrmidon](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Myrmidon)**
+> **Five of Swords—[Myrmidon](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Myrmidon)**
 > 
 > Look for a den of wolves in the hills overlooking a mountain lake. The treasure belongs to Mother Night.
 ^032
@@ -249,7 +249,7 @@ The treasure lies in the shrine of Mother Night in the werewolf den (chapter 15,
 
 > [!readaloud] 
 > 
-> **Six of Swords—[Berserker](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Berserker)**
+> **Six of Swords—[Berserker](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Berserker)**
 > 
 > Find the Mad Dog's crypt. The treasure lies within, beneath blackened bones.
 ^033
@@ -258,7 +258,7 @@ The treasure lies in the crypt of General Kroval "Mad Dog" Grislek (chapter 4, a
 
 > [!readaloud] 
 > 
-> **Seven of Swords—[Hooded One](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Hooded%20One)**
+> **Seven of Swords—[Hooded One](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Hooded%20One)**
 > 
 > I see a faceless god. He awaits you at the end of a long and winding road, deep in the mountains.
 ^034
@@ -267,7 +267,7 @@ The treasure is inside the head of the giant statue in the Amber Temple (chapter
 
 > [!readaloud] 
 > 
-> **Eight of Swords—[Dictator](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Dictator)**
+> **Eight of Swords—[Dictator](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Dictator)**
 > 
 > I see a throne fit for a king.
 ^035
@@ -276,7 +276,7 @@ The treasure lies in Castle Ravenloft's audience hall (chapter 4, area K25).
 
 > [!readaloud] 
 > 
-> **Nine of Swords—[Torturer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Torturer)**
+> **Nine of Swords—[Torturer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Torturer)**
 > 
 > There is a town where all is not well. There you will find a house of corruption, and within, a dark room full of still ghosts.
 ^036
@@ -285,7 +285,7 @@ The treasure is hidden in the attic of the Burgomaster's mansion in Vallaki (cha
 
 > [!readaloud] 
 > 
-> **Master of Swords—[Warrior](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Warrior)**
+> **Master of Swords—[Warrior](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Warrior)**
 > 
 > That which you seek lies in the womb of darkness, the devil's lair: the one place to which he must return.
 ^037
@@ -296,7 +296,7 @@ The treasure lies in Strahd's tomb (chapter 4, area K86).
 
 > [!readaloud] 
 > 
-> **One of Stars—[Transmuter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Transmuter)**
+> **One of Stars—[Transmuter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Transmuter)**
 > 
 > Go to a place of dizzying heights, where the stone itself is alive!
 ^039
@@ -305,16 +305,16 @@ The treasure lies in Castle Ravenloft's north tower peak (chapter 4, area K60).
 
 > [!readaloud] 
 > 
-> **Two of Stars—[Diviner](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Diviner)**
+> **Two of Stars—[Diviner](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Diviner)**
 > 
 > Look to the one who sees all. The treasure is hidden in her camp.
 ^03a
 
-The treasure lies in [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s encampment (chapter 2, area G). If she is the one performing the card reading, she says, "I think the treasure is under my very nose!"
+The treasure lies in [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s encampment (chapter 2, area G). If she is the one performing the card reading, she says, "I think the treasure is under my very nose!"
 
 > [!readaloud] 
 > 
-> **Three of Stars—[Enchanter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Enchanter)**
+> **Three of Stars—[Enchanter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Enchanter)**
 > 
 > I see a kneeling woman—a rose of great beauty plucked too soon. The master of the marsh knows of whom I speak.
 ^03b
@@ -323,7 +323,7 @@ The treasure lies under Marina's monument in Berez (chapter 10, area U5). "The m
 
 > [!readaloud] 
 > 
-> **Four of Stars—[Abjurer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Abjurer)**
+> **Four of Stars—[Abjurer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Abjurer)**
 > 
 > I see a fallen house guarded by a great stone dragon. Look to the highest peak.
 ^03c
@@ -332,7 +332,7 @@ The treasure lies in the beacon of Argynvostholt (chapter 7, area Q53). "Great s
 
 > [!readaloud] 
 > 
-> **Five of Stars—[Elementalist](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Elementalist)**
+> **Five of Stars—[Elementalist](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Elementalist)**
 > 
 > The treasure is hidden in a small castle beneath a mountain, guarded by amber giants.
 ^03d
@@ -341,7 +341,7 @@ The treasure is inside a model of Castle Ravenloft in the Amber Temple (chapter 
 
 > [!readaloud] 
 > 
-> **Six of Stars—[Evoker](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Evoker)**
+> **Six of Stars—[Evoker](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Evoker)**
 > 
 > Search for the crypt of a wizard ordinaire. His staff is the key.
 ^03e
@@ -350,16 +350,16 @@ The treasure is hidden in the crypt of Gralmore Nimblenobs (chapter 4, area K84,
 
 > [!readaloud] 
 > 
-> **Seven of Stars—[Illusionist](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Illusionist)**
+> **Seven of Stars—[Illusionist](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Illusionist)**
 > 
 > A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 ^03f
 
-The treasure lies in [Rictavio](/3-Mechanics/CLI/bestiary/npc/rictavio-cos.md)'s carnival wagon (chapter 5, area N5).
+The treasure lies in [Rictavio](/03_Mechanics/CLI/bestiary/npc/rictavio-cos.md)'s carnival wagon (chapter 5, area N5).
 
 > [!readaloud] 
 > 
-> **Eight of Stars—[Necromancer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Necromancer)**
+> **Eight of Stars—[Necromancer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Necromancer)**
 > 
 > A woman hangs above a roaring fire. Find her, and you will find the treasure.
 ^040
@@ -368,16 +368,16 @@ The treasure lies in Castle Ravenloft's study (chapter 4, area K37).
 
 > [!readaloud] 
 > 
-> **Nine of Stars—[Conjurer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Conjurer)**
+> **Nine of Stars—[Conjurer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Conjurer)**
 > 
 > I see a dead village, drowned by a river, ruled by one who has brought great evil into the world.
 ^041
 
-The treasure is in [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s hut (chapter 10, area U3).
+The treasure is in [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s hut (chapter 10, area U3).
 
 > [!readaloud] 
 > 
-> **Master of Stars—[Wizard](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Wizard)**
+> **Master of Stars—[Wizard](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Wizard)**
 > 
 > Look for a wizard's tower on a lake. Let the wizard's name and servant guide you to that which you seek.
 ^042
@@ -388,7 +388,7 @@ The treasure lies on the top floor of Van Richten's Tower (chapter 11, area V7).
 
 > [!readaloud] 
 > 
-> **One of Coins—[Swashbuckler](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Swashbuckler)**
+> **One of Coins—[Swashbuckler](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Swashbuckler)**
 > 
 > I see the skeleton of a deadly warrior, lying on a bed of stone flanked by gargoyles.
 ^044
@@ -397,7 +397,7 @@ The treasure lies in the crypt of Endorovich (chapter 4, area K84, crypt 7).
 
 > [!readaloud] 
 > 
-> **Two of Coins—[Philanthropist](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Philanthropist)**
+> **Two of Coins—[Philanthropist](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Philanthropist)**
 > 
 > Look to a place where sickness and madness are bred. Where children once cried, the treasure lies still.
 ^045
@@ -406,7 +406,7 @@ The treasure is in the nursery of the Abbey of Saint Markovia (chapter 8, area S
 
 > [!readaloud] 
 > 
-> **Three of Coins—[Trader](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Trader)**
+> **Three of Coins—[Trader](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Trader)**
 > 
 > Look to the wizard of wines! In wood and sand the treasure hides.
 ^046
@@ -415,7 +415,7 @@ The treasure lies in the glassblower's workshop in the Wizard of Wines winery (c
 
 > [!readaloud] 
 > 
-> **Four of Coins—[Merchant](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Merchant)**
+> **Four of Coins—[Merchant](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Merchant)**
 > 
 > Seek a cask that once contained the finest wine, of which not a drop remains.
 ^047
@@ -424,7 +424,7 @@ The treasure lies in Castle Ravenloft's wine cellar (chapter 4, area K63).
 
 > [!readaloud] 
 > 
-> **Five of Coins—[Guild Member](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Guild%20Member)**
+> **Five of Coins—[Guild Member](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Guild%20Member)**
 > 
 > I see a dark room full of bottles. It is the tomb of a guild member.
 ^048
@@ -433,7 +433,7 @@ The treasure lies in the crypt of Artank Swilovich (chapter 4, area K84, crypt 5
 
 > [!readaloud] 
 > 
-> **Six of Coins—[Beggar](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Beggar)**
+> **Six of Coins—[Beggar](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Beggar)**
 > 
 > A wounded elf has what you seek. He will part with the treasure to see his dark dreams fulfilled.
 ^049
@@ -442,7 +442,7 @@ The treasure is hidden in Kasimir's hovel (chapter 5, area N9a).
 
 > [!readaloud] 
 > 
-> **Seven of Coins—[Thief](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Thief)**
+> **Seven of Coins—[Thief](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Thief)**
 > 
 > What you seek lies at the crossroads of life and death, among the buried dead.
 ^04a
@@ -451,16 +451,16 @@ The treasure is buried in the graveyard at the River Ivlis crossroads (chapter 2
 
 > [!readaloud] 
 > 
-> **Eight of Coins—[Tax Collector](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Tax%20Collector)**
+> **Eight of Coins—[Tax Collector](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Tax%20Collector)**
 > 
 > The Vistani have what you seek. A missing child holds the key to the treasure's release.
 ^04b
 
-The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to [Arabelle](/3-Mechanics/CLI/bestiary/npc/arabelle-cos.md) (see chapter 2, area L).
+The treasure is hidden in the Vistani treasure wagon (chapter 5, area N9i). "A missing child" refers to [Arabelle](/03_Mechanics/CLI/bestiary/npc/arabelle-cos.md) (see chapter 2, area L).
 
 > [!readaloud] 
 > 
-> **Nine of Coins—[Miser](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Miser)**
+> **Nine of Coins—[Miser](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Miser)**
 > 
 > Look for a fortress inside a fortress, in a place hidden behind fire.
 ^04c
@@ -469,7 +469,7 @@ The treasure lies in Castle Ravenloft's treasury (chapter 4, area K41).
 
 > [!readaloud] 
 > 
-> **Master of Coins—[Rogue](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Rogue)**
+> **Master of Coins—[Rogue](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Rogue)**
 > 
 > I see a nest of ravens. There you will find the prize.
 ^04d
@@ -480,7 +480,7 @@ The treasure is hidden in the attic of the Blue Water Inn (chapter 5, area N2q).
 
 > [!readaloud] 
 > 
-> **One of Glyphs—[Monk](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Monk)**
+> **One of Glyphs—[Monk](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Monk)**
 > 
 > The treasure you seek is hidden behind the sun, in the house of a saint.
 ^04f
@@ -489,7 +489,7 @@ The treasure lies in the main hall of the Abbey of Saint Markovia (chapter 8, ar
 
 > [!readaloud] 
 > 
-> **Two of Glyphs—[Missionary](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Missionary)**
+> **Two of Glyphs—[Missionary](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Missionary)**
 > 
 > I see a garden dusted with snow, watched over by a scarecrow with a sackcloth grin. Look not to the garden but to the guardian.
 ^050
@@ -498,7 +498,7 @@ The treasure is hidden inside one of the scarecrows in the garden of the Abbey o
 
 > [!readaloud] 
 > 
-> **Three of Glyphs—[Healer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Healer)**
+> **Three of Glyphs—[Healer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Healer)**
 > 
 > Look to the west. Find a pool blessed by the light of the white sun.
 ^051
@@ -507,7 +507,7 @@ The treasure lies beneath the gazebo in the Shrine of the White Sun (chapter 8, 
 
 > [!readaloud] 
 > 
-> **Four of Glyphs—[Shepherd](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Shepherd)**
+> **Four of Glyphs—[Shepherd](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Shepherd)**
 > 
 > Find the mother—she who gave birth to evil.
 ^052
@@ -516,7 +516,7 @@ The treasure lies in the tomb of King Barov and Queen Ravenovia (chapter 4, area
 
 > [!readaloud] 
 > 
-> **Five of Glyphs—[Druid](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Druid)**
+> **Five of Glyphs—[Druid](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Druid)**
 > 
 > An evil tree grows atop a hill of graves where the ancient dead sleep. The ravens can help you find it. Look for the treasure there.
 ^053
@@ -525,7 +525,7 @@ The treasure lies at the base of the Gulthias tree (chapter 14, area Y4). Any we
 
 > [!readaloud] 
 > 
-> **Six of Glyphs—[Anarchist](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Anarchist)**
+> **Six of Glyphs—[Anarchist](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Anarchist)**
 > 
 > I see walls of bones, a chandelier of bones, and a table of bones—all that remains of enemies long forgotten.
 ^054
@@ -534,7 +534,7 @@ The treasure lies in Castle Ravenloft's hall of bones (chapter 4, area K67).
 
 > [!readaloud] 
 > 
-> **Seven of Glyphs—[Charlatan](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Charlatan)**
+> **Seven of Glyphs—[Charlatan](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Charlatan)**
 > 
 > I see a lonely mill on a precipice. The treasure lies within.
 ^055
@@ -543,7 +543,7 @@ The treasure lies in the attic of Old Bonegrinder (chapter 6, area O4).
 
 > [!readaloud] 
 > 
-> **Eight of Glyphs—[Bishop](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Bishop)**
+> **Eight of Glyphs—[Bishop](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Bishop)**
 > 
 > What you seek lies in a pile of treasure, beyond a set of amber doors.
 ^056
@@ -552,7 +552,7 @@ The treasure lies in the sealed treasury of the Amber Temple (chapter 13, area X
 
 > [!readaloud] 
 > 
-> **Nine of Glyphs—[Traitor](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Traitor)**
+> **Nine of Glyphs—[Traitor](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Traitor)**
 > 
 > Look for a wealthy woman. A staunch ally of the devil, she keeps the treasure under lock and key, with the bones of an ancient enemy.
 ^057
@@ -561,7 +561,7 @@ The treasure is hidden in the master bedroom of Wachterhaus (chapter 5, area N4o
 
 > [!readaloud] 
 > 
-> **Master of Glyphs—[Priest](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Priest)**
+> **Master of Glyphs—[Priest](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Priest)**
 > 
 > You will find what you seek in the castle, amid the ruins of a place of supplication.
 ^058
@@ -582,45 +582,45 @@ Each of the NPCs described in this section has a role to play in the adventure, 
 
 > [!readaloud] 
 > 
-> **[Artifact](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact) (Joker 1)**
+> **[Artifact](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact) (Joker 1)**
 > 
 > Look for an entertaining man with a monkey. This man is more than he seems.
 ^05c
 
-This card refers to [Rictavio](/3-Mechanics/CLI/bestiary/npc/rictavio-cos.md) (see appendix D), who can be found at the Blue Water Inn in Vallaki (chapter 5, area N2). Normally reluctant to accompany the characters, [Rictavio](/3-Mechanics/CLI/bestiary/npc/rictavio-cos.md) changes his tune if the characters tell him about the card reading. He sheds his disguise and introduces himself as Dr. Rudolph van Richten.
+This card refers to [Rictavio](/03_Mechanics/CLI/bestiary/npc/rictavio-cos.md) (see appendix D), who can be found at the Blue Water Inn in Vallaki (chapter 5, area N2). Normally reluctant to accompany the characters, [Rictavio](/03_Mechanics/CLI/bestiary/npc/rictavio-cos.md) changes his tune if the characters tell him about the card reading. He sheds his disguise and introduces himself as Dr. Rudolph van Richten.
 
-The characters might think that [Gadof Blinsky](/3-Mechanics/CLI/bestiary/npc/gadof-blinsky-cos.md), the toymaker of Vallaki (area N7), is the figure they seek, because he has a pet monkey. If they speak to him about this possibility, Blinsky jokes that he and the monkey are "old friends," but if the characters ask him to come with them to fight Strahd, he politely declines. If the characters tell him about the tarokka reading, Blinsky admits that he acquired the monkey from a half-elf carnival ringmaster named [Rictavio](/3-Mechanics/CLI/bestiary/npc/rictavio-cos.md).
+The characters might think that [Gadof Blinsky](/03_Mechanics/CLI/bestiary/npc/gadof-blinsky-cos.md), the toymaker of Vallaki (area N7), is the figure they seek, because he has a pet monkey. If they speak to him about this possibility, Blinsky jokes that he and the monkey are "old friends," but if the characters ask him to come with them to fight Strahd, he politely declines. If the characters tell him about the tarokka reading, Blinsky admits that he acquired the monkey from a half-elf carnival ringmaster named [Rictavio](/03_Mechanics/CLI/bestiary/npc/rictavio-cos.md).
 
 > [!readaloud] 
 > 
-> **[Beast](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Beast) (Jack of Diamonds)**
+> **[Beast](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Beast) (Jack of Diamonds)**
 > 
 > A werewolf holds a secret hatred for your enemy. Use her hatred to your advantage.
 ^05d
 
-This card refers to the werewolf [Zuleika Toranescu](/3-Mechanics/CLI/bestiary/npc/zuleika-toranescu-cos.md) (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [Kiril Stoyanovich](/3-Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos.md).
+This card refers to the werewolf [Zuleika Toranescu](/03_Mechanics/CLI/bestiary/npc/zuleika-toranescu-cos.md) (see chapter 15, area Z7). She will accompany the characters if they promise to avenge her mate, Emil, by killing the leader of her pack, [Kiril Stoyanovich](/03_Mechanics/CLI/bestiary/npc/kiril-stoyanovich-cos.md).
 
 > [!readaloud] 
 > 
-> **A. [Broken One](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) (King of Diamonds)**
+> **A. [Broken One](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) (King of Diamonds)**
 > 
 > Your greatest ally will be a wizard. His mind is broken, but his spells are strong.
 ^05e
 
-This card refers to [the Mad Mage of Mount Baratok](/3-Mechanics/CLI/bestiary/npc/the-mad-mage-of-mount-baratok-cos.md) (see chapter 2, area M).
+This card refers to [the Mad Mage of Mount Baratok](/03_Mechanics/CLI/bestiary/npc/the-mad-mage-of-mount-baratok-cos.md) (see chapter 2, area M).
 
 > [!readaloud] 
 > 
-> **B. [Broken One](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) (King of Diamonds)**
+> **B. [Broken One](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) (King of Diamonds)**
 > 
 > I see a man of faith whose sanity hangs by a thread. He has lost someone close to him.
 ^05f
 
-This card refers to [Donavich](/3-Mechanics/CLI/bestiary/npc/donavich-cos.md), the priest in the village of Barovia (see chapter 3, area E5). He will not accompany the characters until his son, [Doru](/3-Mechanics/CLI/bestiary/npc/doru-cos.md), is dead and buried.
+This card refers to [Donavich](/03_Mechanics/CLI/bestiary/npc/donavich-cos.md), the priest in the village of Barovia (see chapter 3, area E5). He will not accompany the characters until his son, [Doru](/03_Mechanics/CLI/bestiary/npc/doru-cos.md), is dead and buried.
 
 > [!readaloud] 
 > 
-> **[Darklord](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord) (King of Spades)**
+> **[Darklord](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord) (King of Spades)**
 > 
 > Ah, the worst of all truths: You must face the evil of this land alone!
 ^060
@@ -629,149 +629,149 @@ There is no NPC who can inspire the characters.
 
 > [!readaloud] 
 > 
-> **A. [Donjon](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) (King of Clubs)**
+> **A. [Donjon](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) (King of Clubs)**
 > 
 > Search for a troubled young man surrounded by wealth and madness. His home is his prison.
 ^061
 
-This card refers to [Victor Vallakovich](/3-Mechanics/CLI/bestiary/npc/victor-vallakovich-cos.md) (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
+This card refers to [Victor Vallakovich](/03_Mechanics/CLI/bestiary/npc/victor-vallakovich-cos.md) (see chapter 5, area N3t). Realizing that the characters are the key to his salvation, he enthusiastically leaves home and accompanies them to Castle Ravenloft.
 
 > [!readaloud] 
 > 
-> **B. [Donjon](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) (King of Clubs)**
+> **B. [Donjon](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) (King of Clubs)**
 > 
 > Find a girl driven to insanity, locked in the heart of her dead father's house. Curing her madness is key to your success.
 ^062
 
-This card refers to [Stella Wachter](/3-Mechanics/CLI/bestiary/npc/stella-wachter-cos.md) (see chapter 5, area N4n). She grants the party no benefit unless her madness is cured. With her wits restored, Stella is happy to join the party and leave her rotten family behind.
+This card refers to [Stella Wachter](/03_Mechanics/CLI/bestiary/npc/stella-wachter-cos.md) (see chapter 5, area N4n). She grants the party no benefit unless her madness is cured. With her wits restored, Stella is happy to join the party and leave her rotten family behind.
 
 > [!readaloud] 
 > 
-> **[Seer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Seer) (Jack of Clubs)**
+> **[Seer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Seer) (Jack of Clubs)**
 > 
 > Look for a dusk elf living among the Vistani. He has suffered a great loss and is haunted by dark dreams. Help him, and he will help you in return.
 ^063
 
-This card refers to [Kasimir Velikov](/3-Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md) (see chapter 5, area N9a). The dusk elf accompanies the characters to Castle Ravenloft only after they lead him to the Amber Temple and help him find the means to resurrect his dead sister, [Patrina Velikovna](/3-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md).
+This card refers to [Kasimir Velikov](/03_Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md) (see chapter 5, area N9a). The dusk elf accompanies the characters to Castle Ravenloft only after they lead him to the Amber Temple and help him find the means to resurrect his dead sister, [Patrina Velikovna](/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md).
 
 > [!readaloud] 
 > 
-> **A. [Ghost](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) (King of Hearts)**
+> **A. [Ghost](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) (King of Hearts)**
 > 
 > I see a fallen paladin of a fallen order of knights. He lingers like a ghost in a dead dragon's lair.
 ^064
 
-This card refers to the revenant [Sir Godfrey Gwilym](/3-Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md) (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check.
+This card refers to the revenant [Sir Godfrey Gwilym](/03_Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md) (see chapter 7, area Q37). Although initially unwilling to accompany the characters, he will do so if the characters convince him that the honor of the Order of the Silver Dragon can be restored with his help. Doing this requires a successful DC 15 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check.
 
 > [!readaloud] 
 > 
-> **B. [Ghost](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) (King of Hearts)**
+> **B. [Ghost](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) (King of Hearts)**
 > 
 > Stir the spirit of the clumsy knight whose crypt lies deep within the castle.
 ^065
 
-This card refers to Sir Klutz the [phantom warrior](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
+This card refers to Sir Klutz the [phantom warrior](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see chapter 4, area K84, crypt 33). If Sir Klutz is Strahd's enemy, then the phantom warrior disappears not after seven days, but only after he or Strahd is reduced to 0 hit points.
 
 > [!readaloud] 
 > 
-> **[Executioner](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner) (Jack of Spades)**
+> **[Executioner](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner) (Jack of Spades)**
 > 
 > Seek out the brother of the devil's bride. They call him "the lesser," but he has a powerful soul.
 ^066
 
-This card refers to [Ismark Kolyanovich](/3-Mechanics/CLI/bestiary/npc/ismark-kolyanovich-cos.md) (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), is safe.
+This card refers to [Ismark Kolyanovich](/03_Mechanics/CLI/bestiary/npc/ismark-kolyanovich-cos.md) (see chapter 3, area E2). Ismark won't accompany the characters to Castle Ravenloft until he knows that his sister, [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), is safe.
 
 > [!readaloud] 
 > 
-> **A. [Horseman](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) (Joker 2)**
+> **A. [Horseman](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) (Joker 2)**
 > 
 > I see a dead man of noble birth, guarded by his widow. Return life to the dead man's corpse, and he will be your staunch ally.
 ^067
 
-This card refers to [Nikolai Wachter](/3-Mechanics/CLI/bestiary/npc/nikolai-wachter-cos.md) the elder, who is dead (see chapter 5, area N4o). If the characters cast a [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md) spell or a [resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md) spell on his preserved corpse, Nikolai (LN male human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
+This card refers to [Nikolai Wachter](/03_Mechanics/CLI/bestiary/npc/nikolai-wachter-cos.md) the elder, who is dead (see chapter 5, area N4o). If the characters cast a [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) spell or a [resurrection](/03_Mechanics/CLI/spells/resurrection-xphb.md) spell on his preserved corpse, Nikolai (LN male human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) agrees to help the characters once he feels well enough, despite his wife's protests. Although his family has long supported Strahd, Nikolai came to realize toward the end of his life that Strahd must be destroyed to save Barovia.
 
-If the characters don't have the means to raise Nikolai from the dead, [Rictavio](/3-Mechanics/CLI/bestiary/npc/rictavio-cos.md) (see appendix D) gives them a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md) if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
+If the characters don't have the means to raise Nikolai from the dead, [Rictavio](/03_Mechanics/CLI/bestiary/npc/rictavio-cos.md) (see appendix D) gives them a [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) if he learns of their need. If they're staying at the Blue Water Inn, he leaves the scroll in one of their rooms.
 
 > [!readaloud] 
 > 
-> **B. [Horseman](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) (Joker 2)**
+> **B. [Horseman](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) (Joker 2)**
 > 
-> A man of death named [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) will forsake his dark lord to serve your cause. Beware! He has a rotten soul.
+> A man of death named [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) will forsake his dark lord to serve your cause. Beware! He has a rotten soul.
 ^068
 
-This card refers to the Vistani assassin [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) (see chapter 5, area N9c). If the characters mention this card reading to him, he accepts his fate and accompanies them. If the characters succeed in defeating Strahd, [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) betrays and attacks them, believing that he is destined to become Barovia's new lord.
+This card refers to the Vistani assassin [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) (see chapter 5, area N9c). If the characters mention this card reading to him, he accepts his fate and accompanies them. If the characters succeed in defeating Strahd, [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) betrays and attacks them, believing that he is destined to become Barovia's new lord.
 
 > [!readaloud] 
 > 
-> **A. [Innocent](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) (Queen of Hearts)**
+> **A. [Innocent](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) (Queen of Hearts)**
 > 
 > I see a young man with a kind heart. A mother's boy! He is strong in body but weak of mind. Seek him out in the village of Barovia.
 ^069
 
-This card refers to [Parriwimple](/3-Mechanics/CLI/bestiary/npc/parriwimple-cos.md) (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), who is very beautiful. The characters must somehow deal with Bildrath, [Parriwimple](/3-Mechanics/CLI/bestiary/npc/parriwimple-cos.md)'s employer, who won't let the foolish boy go to the castle for any reason.
+This card refers to [Parriwimple](/03_Mechanics/CLI/bestiary/npc/parriwimple-cos.md) (see chapter 3, area E1). Although he's a simpleton, he won't travel to Castle Ravenloft without good cause. Characters can manipulate him into going by preying on his good heart. For instance, he might go there to help rescue missing Barovians, or to save the life of [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), who is very beautiful. The characters must somehow deal with Bildrath, [Parriwimple](/03_Mechanics/CLI/bestiary/npc/parriwimple-cos.md)'s employer, who won't let the foolish boy go to the castle for any reason.
 
 > [!readaloud] 
 > 
-> **B. [Innocent](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) (Queen of Hearts)**
+> **B. [Innocent](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) (Queen of Hearts)**
 > 
 > Evil's bride is the one you seek!
 ^06a
 
-This card refers to [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
+This card refers to [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) (see chapter 3, area E4). Her brother, Ismark, opposes the idea of Ireena's being taken to Castle Ravenloft, but she insists on going there once the characters tell her about the card reading. Ireena won't accompany the characters, however, until Kolyan Indirovich's body is laid to rest in the cemetery.
 
 > [!readaloud] 
 > 
-> **A. [Marionette](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) (Jack of Hearts)**
+> **A. [Marionette](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) (Jack of Hearts)**
 > 
 > What horror is this? I see a man made by a man. Ageless and alone, it haunts the towers of the castle.
 ^06b
 
-This card refers to [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see chapter 4, area K59, as well as appendix D).
+This card refers to [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see chapter 4, area K59, as well as appendix D).
 
 > [!readaloud] 
 > 
-> **B. [Marionette](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) (Jack of Hearts)**
+> **B. [Marionette](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) (Jack of Hearts)**
 > 
 > Look for a man of music, a man with two heads. He lives in a place of great hunger and sorrow.
 ^06c
 
-This card refers to [Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) (see chapter 8, area S17), the two-headed [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md). Clovin serves [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) out of fear and a perverse sense of loyalty. His job is to deliver food to the other mongrelfolk, whom he abhors. If [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) still lives, Clovin doesn't want to earn his Master's ire by attempting to leave, and he refuses to accompany the characters. But if [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) dies, Clovin doesn't have any reason to remain in the abbey, so he's willing to come along if he is bribed with wine. Clovin provides no benefit to the party without his viol.
+This card refers to [Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) (see chapter 8, area S17), the two-headed [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md). Clovin serves [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) out of fear and a perverse sense of loyalty. His job is to deliver food to the other mongrelfolk, whom he abhors. If [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) still lives, Clovin doesn't want to earn his Master's ire by attempting to leave, and he refuses to accompany the characters. But if [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) dies, Clovin doesn't have any reason to remain in the abbey, so he's willing to come along if he is bribed with wine. Clovin provides no benefit to the party without his viol.
 
 > [!readaloud] 
 > 
-> **[Mists](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Mists) (Queen of Spades)**
+> **[Mists](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Mists) (Queen of Spades)**
 > 
 > A Vistana wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out at Saint Markovia's abbey, near the mists.
 ^06d
 
-This card refers to [Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D). She can be found in the Abbey of Saint Markovia (see chapter 8, area S19), as well as several other locations throughout Barovia.
+This card refers to [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D). She can be found in the Abbey of Saint Markovia (see chapter 8, area S19), as well as several other locations throughout Barovia.
 
 > [!readaloud] 
 > 
-> **[Raven](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Raven) (Queen of Clubs)**
+> **[Raven](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Raven) (Queen of Clubs)**
 > 
 > Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him.
 ^06e
 
-This card refers to [Davian Martikov](/3-Mechanics/CLI/bestiary/npc/davian-martikov-cos.md) (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, [Urwin Martikov](/3-Mechanics/CLI/bestiary/npc/urwin-martikov-cos.md) (see chapter 5, area N2).
+This card refers to [Davian Martikov](/03_Mechanics/CLI/bestiary/npc/davian-martikov-cos.md) (see chapter 12, "The Wizard of Wines"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, [Urwin Martikov](/03_Mechanics/CLI/bestiary/npc/urwin-martikov-cos.md) (see chapter 5, area N2).
 
 > [!readaloud] 
 > 
-> **A. [Tempter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) (Queen of Diamonds)**
+> **A. [Tempter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) (Queen of Diamonds)**
 > 
 > I see a child—a Vistana. You must hurry, for her fate hangs in the balance. Find her at the lake!
 ^06f
 
-This card refers to [Arabelle](/3-Mechanics/CLI/bestiary/npc/arabelle-cos.md) (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, [Luvash](/3-Mechanics/CLI/bestiary/npc/luvash-cos.md), refuses to let her leave.
+This card refers to [Arabelle](/03_Mechanics/CLI/bestiary/npc/arabelle-cos.md) (see chapter 2, area L). She gladly joins the party. But if she returns to her camp (chapter 5, area N9), her father, [Luvash](/03_Mechanics/CLI/bestiary/npc/luvash-cos.md), refuses to let her leave.
 
 > [!readaloud] 
 > 
-> **B. [Tempter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) (Queen of Diamonds)**
+> **B. [Tempter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) (Queen of Diamonds)**
 > 
 > I hear a wedding bell, or perhaps a death knell. It calls thee to a mountainside abbey, wherein you will find a woman who is more than the sum of her parts.
 ^070
 
-This card refers to [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md) the flesh golem (see chapter 8, area S13).
+This card refers to [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md) the flesh golem (see chapter 8, area S13).
 
 ### Strahd's Location in the Castle
 
@@ -779,7 +779,7 @@ Drawn from the high deck, the fifth card in the card reading determines the loca
 
 > [!readaloud] 
 > 
-> **[Artifact](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact) (Joker 1)**
+> **[Artifact](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact) (Joker 1)**
 > 
 > He lurks in the darkness where the morning light once shone—a sacred place.
 ^072
@@ -788,7 +788,7 @@ Strahd faces the characters in the chapel (area K15).
 
 > [!readaloud] 
 > 
-> **[Beast](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Beast) (Jack of Diamonds)**
+> **[Beast](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Beast) (Jack of Diamonds)**
 > 
 > The beast sits on his dark throne.
 ^073
@@ -797,7 +797,7 @@ Strahd faces the characters in the audience hall (area K25).
 
 > [!readaloud] 
 > 
-> **[Broken One](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) (King of Diamonds)**
+> **[Broken One](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One) (King of Diamonds)**
 > 
 > He haunts the tomb of the man he envied above all.
 ^074
@@ -806,7 +806,7 @@ Strahd faces the characters in Sergei's tomb (area K85).
 
 > [!readaloud] 
 > 
-> **[Darklord](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord) (King of Spades)**
+> **[Darklord](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord) (King of Spades)**
 > 
 > He lurks in the depths of darkness, in the one place to which he must return.
 ^075
@@ -815,7 +815,7 @@ Strahd faces the characters in his tomb (area K86).
 
 > [!readaloud] 
 > 
-> **[Donjon](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) (King of Clubs)**
+> **[Donjon](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon) (King of Clubs)**
 > 
 > He lurks in a hall of bones, in the dark pits of his castle.
 ^076
@@ -824,7 +824,7 @@ Strahd faces the characters in the hall of bones (area K67).
 
 > [!readaloud] 
 > 
-> **[Seer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Seer) (Jack of Clubs)**
+> **[Seer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Seer) (Jack of Clubs)**
 > 
 > He waits for you in a place of wisdom, warmth, and despair. Great secrets are there.
 ^077
@@ -833,7 +833,7 @@ Strahd faces the characters in the study (area K37).
 
 > [!readaloud] 
 > 
-> **[Ghost](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) (King of Hearts)**
+> **[Ghost](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost) (King of Hearts)**
 > 
 > Look to the father's tomb.
 ^078
@@ -842,7 +842,7 @@ Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area 
 
 > [!readaloud] 
 > 
-> **[Executioner](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner) (Jack of Spades)**
+> **[Executioner](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner) (Jack of Spades)**
 > 
 > I see a dark figure on a balcony, looking down upon this tortured land with a twisted smile.
 ^079
@@ -851,7 +851,7 @@ Strahd faces the characters at the overlook (area K6).
 
 > [!readaloud] 
 > 
-> **[Horseman](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) (Joker 2)**
+> **[Horseman](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman) (Joker 2)**
 > 
 > He lurks in the one place to which he must return—a place of death.
 ^07a
@@ -860,7 +860,7 @@ Strahd faces the characters in his tomb (area K86).
 
 > [!readaloud] 
 > 
-> **[Innocent](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) (Queen of Hearts)**
+> **[Innocent](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent) (Queen of Hearts)**
 > 
 > He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
 ^07b
@@ -869,7 +869,7 @@ Strahd faces the characters in Sergei's tomb (area K85).
 
 > [!readaloud] 
 > 
-> **[Marionette](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) (Jack of Hearts)**
+> **[Marionette](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette) (Jack of Hearts)**
 > 
 > Look to great heights. Find the beating heart of the castle. He waits nearby.
 ^07c
@@ -878,16 +878,16 @@ Strahd faces the characters in the north tower peak (area K60).
 
 > [!readaloud] 
 > 
-> **[Mists](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Mists) (Queen of Spades)**
+> **[Mists](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Mists) (Queen of Spades)**
 > 
 > The cards can't see where the evil lurks. The mists obscure all!
 ^07d
 
-The card offers no clue about where the final showdown with Strahd will occur. It can happen anywhere you like in Castle Ravenloft. Alternatively, [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) tells the characters to return to her after at least three days, and she will consult the cards again for them, but only to discern the location of their enemy.
+The card offers no clue about where the final showdown with Strahd will occur. It can happen anywhere you like in Castle Ravenloft. Alternatively, [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) tells the characters to return to her after at least three days, and she will consult the cards again for them, but only to discern the location of their enemy.
 
 > [!readaloud] 
 > 
-> **[Raven](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Raven) (Queen of Clubs)**
+> **[Raven](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Raven) (Queen of Clubs)**
 > 
 > Look to the mother's tomb.
 ^07e
@@ -896,7 +896,7 @@ Strahd faces the characters in the tomb of King Barov and Queen Ravenovia (area 
 
 > [!readaloud] 
 > 
-> **[Tempter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) (Queen of Diamonds)**
+> **[Tempter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter) (Queen of Diamonds)**
 > 
 > I see a secret place—a vault of temptation hidden behind a woman of great beauty. The evil waits atop his tower of treasure.
 ^07f
@@ -915,7 +915,7 @@ In "Werewolves in the Mist," the characters are drawn together by a series of we
 
 In "Creeping Fog," the characters are traveling a lonely road through the woods when the fog engulfs them, spiriting them away to the land of Barovia.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/002-cos01-02.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/002-cos01-02.webp#center)
 
 ### Plea for Help
 
@@ -938,11 +938,11 @@ The characters start their adventure in an old tavern, the details of which are 
 > The babble of tavern voices resumes, although somewhat subdued. The letter is lying before you. The seal is in the shape of a crest you don't recognize.
 ^082
 
-![Strahd's Crest](/3-Mechanics/CLI/adventures/curse-of-strahd/img/003-cos19-10.webp#center)
+![Strahd's Crest](/03_Mechanics/CLI/adventures/curse-of-strahd/img/003-cos19-10.webp#center)
 
-The characters can interrupt the messenger at any time. His name is [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) (NE male human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)), and he is a Vistani. The other tavern patrons regard his people as friendly folk who travel about in covered wagons and usually keep to themselves.
+The characters can interrupt the messenger at any time. His name is [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) (NE male human [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)), and he is a Vistani. The other tavern patrons regard his people as friendly folk who travel about in covered wagons and usually keep to themselves.
 
-[Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) describes Barovia as a valley of great beauty and his master as a remarkable man. If the characters question [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) about the identity of his master, he claims to serve Burgomaster Kolyan Indirovich, but in truth he serves Strahd. After delivering the letter, [Arrigal](/3-Mechanics/CLI/bestiary/npc/arrigal-cos.md) mounts his horse and rides off. He doesn't wait for the characters to follow him.
+[Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) describes Barovia as a valley of great beauty and his master as a remarkable man. If the characters question [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) about the identity of his master, he claims to serve Burgomaster Kolyan Indirovich, but in truth he serves Strahd. After delivering the letter, [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) mounts his horse and rides off. He doesn't wait for the characters to follow him.
 
 The crest depicted on the letter's seal belongs to Strahd, though the characters have never seen it before. Show the players Strahd's crest.
 
@@ -976,40 +976,40 @@ When the characters approach the camp, read:
 
 The men and women are Vistani. They have no interest in Daggerford. Their orders are to deliver the characters safely to Barovia.
 
-The leader of this group is [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md) (CN male human), an old man with the statistics of a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) who has the following spells prepared:
+The leader of this group is [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md) (CN male human), an old man with the statistics of a [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) who has the following spells prepared:
 
 > [!note] 
 > 
-> - Cantrips (at will): [friends](/3-Mechanics/CLI/spells/friends-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)  
-> - 1st level (4 slots): [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)  
-> - 2nd level (3 slots): [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)  
-> - 3rd level (3 slots): [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md), [phantom steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md), [vampiric touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md)  
-> - 4th level (3 slots): [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md)  
-> - 5th level (1 slot): [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)  
+> - Cantrips (at will): [friends](/03_Mechanics/CLI/spells/friends-xphb.md), [light](/03_Mechanics/CLI/spells/light-xphb.md), [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)  
+> - 1st level (4 slots): [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md), [mage armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md), [shield](/03_Mechanics/CLI/spells/shield-xphb.md), [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md)  
+> - 2nd level (3 slots): [misty step](/03_Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md)  
+> - 3rd level (3 slots): [bestow curse](/03_Mechanics/CLI/spells/bestow-curse-xphb.md), [phantom steed](/03_Mechanics/CLI/spells/phantom-steed-xphb.md), [vampiric touch](/03_Mechanics/CLI/spells/vampiric-touch-xphb.md)  
+> - 4th level (3 slots): [greater invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md), [stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md)  
+> - 5th level (1 slot): [dominate person](/03_Mechanics/CLI/spells/dominate-person-xphb.md)  
 ^086
 
-[Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md) is joined by his daughter, Damia (CN female human [spy](/3-Mechanics/CLI/bestiary/humanoid/vistana-spy-cos.md)), and his son, Ratka (CN male human [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-captain-cos.md)). Nine other Vistani (male and female [bandits](/3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)) heed Ratka's commands. The six [draft horses](/3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) are used to pull the Vistani wagons, which contain their belongings but nothing of value.
+[Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md) is joined by his daughter, Damia (CN female human [spy](/03_Mechanics/CLI/bestiary/humanoid/vistana-spy-cos.md)), and his son, Ratka (CN male human [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-captain-cos.md)). Nine other Vistani (male and female [bandits](/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)) heed Ratka's commands. The six [draft horses](/03_Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) are used to pull the Vistani wagons, which contain their belongings but nothing of value.
 
 ### The Dancing Fire
 
-[Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md) introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
+[Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md) introduces himself and welcomes the characters to his camp. If they deliver Duchess Morwen's warning, read:
 
 > [!readaloud] 
 > 
-> [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md) laughs. "Don't worry. We have no wish to make enemies of Lady Morwen. I have a story to tell all of you. First you listen, then we go."
+> [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md) laughs. "Don't worry. We have no wish to make enemies of Lady Morwen. I have a story to tell all of you. First you listen, then we go."
 ^089
 
-If the characters agree to hear [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md)'s story, he invites them to gather around the fire and hear his tale:
+If the characters agree to hear [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md)'s story, he invites them to gather around the fire and hear his tale:
 
 > [!readaloud] 
 > 
-> [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md) fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.
+> [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md) fills his mouth with wine, then spits into the fire. The flames turn from orange to green. As they dance and sway, a dark shape appears in the bonfire's core.
 > 
 > "We come from an ancient land whose name is long forgotten—a land of kings. Our enemies forced us from our homes, and now we wander the lost roads."
 > 
 > The dark shape in the fire takes the form of a man being knocked from his horse, a spear piercing his side.
 > 
-> [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md) continues. "One night, a wounded soldier staggered into our camp and collapsed. We nursed his terrible injury and quenched his thirst with wine. He survived. When we asked him who he was, he wouldn't say. All he wanted was to return home, but we were deep in the land of his enemies. We took him as one of our own and followed him back toward his homeland. His enemies hunted him. They said he was a prince, yet we didn't give him up, even when their assassins fell upon us like wolves."
+> [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md) continues. "One night, a wounded soldier staggered into our camp and collapsed. We nursed his terrible injury and quenched his thirst with wine. He survived. When we asked him who he was, he wouldn't say. All he wanted was to return home, but we were deep in the land of his enemies. We took him as one of our own and followed him back toward his homeland. His enemies hunted him. They said he was a prince, yet we didn't give him up, even when their assassins fell upon us like wolves."
 > 
 > Deep in the bonfire, you see the dark figure standing with sword drawn, fighting off a host of shadowy shapes.
 > 
@@ -1017,14 +1017,14 @@ If the characters agree to hear [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimi
 > 
 > The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.
 > 
-> [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md)'s face becomes a somber mask. "A curse has befallen our noble prince, turning him into a tyrant. We alone have the power to leave his domain. We've traveled far and wide to find heroes such as yourselves to end our dread lord's curse and put his troubled soul to rest. Our leader, [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md), knows all. Will you return to Barovia with us and speak with her?"
+> [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md)'s face becomes a somber mask. "A curse has befallen our noble prince, turning him into a tyrant. We alone have the power to leave his domain. We've traveled far and wide to find heroes such as yourselves to end our dread lord's curse and put his troubled soul to rest. Our leader, [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md), knows all. Will you return to Barovia with us and speak with her?"
 ^08a
 
-These Vistani refuse to speak the name of their "dread lord" and provide no additional information. If the characters press them for details, the Vistani reply, "[Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) has the answers you seek."
+These Vistani refuse to speak the name of their "dread lord" and provide no additional information. If the characters press them for details, the Vistani reply, "[Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) has the answers you seek."
 
-If the characters agree to accompany the Vistani, the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md), at area G (see chapter 2). The characters arrive at area A and are taken through areas B, E, and F on the way to [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s camp. If the characters rid themselves of their Vistani hosts before reaching [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s camp, they're on the own.
+If the characters agree to accompany the Vistani, the Vistani lead them south along the Trade Way. After several days of uneventful travel, the mists of Ravenloft engulf the caravan, transporting the characters and the Vistani to Barovia. The Vistani then lead the party safely to their leader, [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md), at area G (see chapter 2). The characters arrive at area A and are taken through areas B, E, and F on the way to [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s camp. If the characters rid themselves of their Vistani hosts before reaching [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s camp, they're on the own.
 
-If the characters decline [Stanimir](/3-Mechanics/CLI/bestiary/npc/stanimir-cos.md)'s invitation, the Vistani are disappointed but leave as promised. A day or two later, use the "Creeping Fog" adventure hook or some variation of it to draw the characters into Barovia.
+If the characters decline [Stanimir](/03_Mechanics/CLI/bestiary/npc/stanimir-cos.md)'s invitation, the Vistani are disappointed but leave as promised. A day or two later, use the "Creeping Fog" adventure hook or some variation of it to draw the characters into Barovia.
 
 ### Werewolves in the Mist
 
@@ -1046,9 +1046,9 @@ The Misty Forest lies thirty miles east of Daggerford. Before the characters emb
 > "We strive to protect the powerless," he says. "If the children kidnapped by the werewolves are still alive, I would see them safely returned."
 ^08e
 
-Zelraun Roaringhorn (LN male human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
+Zelraun Roaringhorn (LN male human [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) has come to Daggerford to meet with its ruler, Duchess Morwen, and offer the Harpers' support.
 
-Zelraun gives each Harper character a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md). He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
+Zelraun gives each Harper character a [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md). He has also made arrangements with a metalsmith in Waterdeep to sheathe the characters' weapons in silver. The party can have up to six weapons silvered in this manner. Twenty pieces of ammunition count as one weapon for this purpose.
 
 ##### About the Harpers
 
@@ -1058,10 +1058,10 @@ The Harpers is a network of spellcasters and spies who advocate equality and who
 
 > [!readaloud] 
 > 
-> You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [knight of the order](/3-Mechanics/CLI/bestiary/undead/knight-of-the-order-cos.md) named Lanniver Strayl offers you his blessing.
+> You met with the heads of the Order of the Gauntlet chapter house in Waterdeep. They've stationed members of the order at various inns and homesteads east of Daggerford, so that locals need not fear the night. Now they're counting on you to find the werewolves' lair in the Misty Forest. Only then can the order mount an organized assault. As you prepare to depart, a [knight of the order](/03_Mechanics/CLI/bestiary/undead/knight-of-the-order-cos.md) named Lanniver Strayl offers you his blessing.
 ^091
 
-Lanniver Strayl (LG male human [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)), a devout follower of Tyr recently arrived in Daggerford, gives a [potion of heroism](/3-Mechanics/CLI/items/potion-of-heroism-xdmg.md) to each member of the order in the party.
+Lanniver Strayl (LG male human [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md)), a devout follower of Tyr recently arrived in Daggerford, gives a [potion of heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md) to each member of the order in the party.
 
 ##### About the Order of the Gauntlet
 
@@ -1089,14 +1089,14 @@ Branches of the organization can be found wherever untamed wilderness exists. Me
 > A Lords' Alliance operative from Waterdeep named Eravien Haund comes to Daggerford bearing news that alliance agents have not only captured one of the werewolves but also conducted a thorough interrogation before putting the creature out of its misery.
 ^097
 
-Eravien Haund (LN male half-elf [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) imparts the following information to fellow Lords' Alliance members and tells them not to share it:
+Eravien Haund (LN male half-elf [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) imparts the following information to fellow Lords' Alliance members and tells them not to share it:
 
 - The werewolf pack has almost a dozen members. The leader of the pack is a man named Kiril.  
 - The werewolves come from a distant land called Barovia. The Lords' Alliance has no information about it.  
 - The werewolves worship a deity called Mother Night.  
 - The werewolves leave and return to Barovia through some kind of ancient portal. (This is a deduction on Eravien's part, based on the werewolf prisoner's vague description of how the pack gets to and from Barovia.)  
 
-Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [magic weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md). Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
+Eravien believes that he can gain prestige within the Lords' Alliance if he learns the whereabouts of the "ancient portal" that the werewolves are using and destroys it. He is convinced that the portal represents a danger not only to Daggerford but also to Waterdeep. Any Lords' Alliance character who agrees to destroy it is given a [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [magic weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md). Eravien also promises to furnish the character with a letter of recommendation (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide") once the portal is destroyed.
 
 ##### About the Lords' Alliance
 
@@ -1111,7 +1111,7 @@ Although alliance members have pledged to join forces against common threats, ev
 > The Black Network sees the werewolf menace as an opportunity to provide lords and nervous landowners with mercenaries to protect their holdings. But at least one of your fellow members has a grudge against the lycanthropes. Davra Jassur, a member of the Zhentarim based in Waterdeep, arranges a private meeting with you.
 ^09a
 
-Davra Jassur (LE female human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)) poses as a recruiter for the Black Network but is, in fact, a cutthroat who quietly disposes of competitors. Her husband, Yarak, was also a member of the Black Network. He was escorting a caravan traveling from Daggerford to the Way Inn (about sixty miles southeast of Daggerford, along the Trade Way) when the werewolves attacked. Yarak was slain, and Davra wants revenge; she wants the head of the werewolf pack leader. She is too tied up with "business" to engage in a personal vendetta, but if another member of the Black Network were to help, she would owe that individual a special favor (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide").
+Davra Jassur (LE female human [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)) poses as a recruiter for the Black Network but is, in fact, a cutthroat who quietly disposes of competitors. Her husband, Yarak, was also a member of the Black Network. He was escorting a caravan traveling from Daggerford to the Way Inn (about sixty miles southeast of Daggerford, along the Trade Way) when the werewolves attacked. Yarak was slain, and Davra wants revenge; she wants the head of the werewolf pack leader. She is too tied up with "business" to engage in a personal vendetta, but if another member of the Black Network were to help, she would owe that individual a special favor (see ""Marks of Prestige"" in chapter 7 of the "Dungeon Master's Guide").
 
 ##### About the Zhentarim
 

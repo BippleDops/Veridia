@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Silent Image](/3-Mechanics/CLI/spells/silent-image-xphb.md "XPHB")
+- [Silent Image](/03_Mechanics/CLI/spells/silent-image-xphb.md "XPHB")

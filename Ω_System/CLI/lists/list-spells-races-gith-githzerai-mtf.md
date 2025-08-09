@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") at class level 5
+- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") at class level 5
 
 ## 1st Level
 
-- [Shield](/3-Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 5
+- [Shield](/03_Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 5
 
 ## 2nd Level
 
-- [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5
+- [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5

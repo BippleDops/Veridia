@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as cantrip
+- [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") as cantrip

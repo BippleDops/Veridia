@@ -51,13 +51,13 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
       \ (2d8 + 5) piercing damage. If the aurochs moved at least 20 feet straight\
       \ toward the target immediately before the hit, the target takes an extra 9\
       \ (2d8) piercing damage, and the target must succeed on a DC 15 Strength saving\
-      \ throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone) if it is\
+      \ throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone) if it is\
       \ a creature."
     "name": "Gore"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/aurochs-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/aurochs-mpmm.webp"
 ```
 ^statblock
 

@@ -17,8 +17,8 @@ modified: 2025-07-23 12:39
 
 
 
-These horseshoes come in a set of four. As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can touch one of the horseshoes to the hoof of a horse or similar creature, whereupon the horseshoe affixes itself to the hoof. Removing a horseshoe also takes a [Magic](/3-Mechanics/CLI/actions.md#Magic) action.
+These horseshoes come in a set of four. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can touch one of the horseshoes to the hoof of a horse or similar creature, whereupon the horseshoe affixes itself to the hoof. Removing a horseshoe also takes a [Magic](/03_Mechanics/CLI/actions.md#Magic) action.
 
-While all four horseshoes are attached to the same creature, its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is increased by 30 feet.
+While all four horseshoes are attached to the same creature, its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) is increased by 30 feet.
 
 *Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

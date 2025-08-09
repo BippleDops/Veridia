@@ -46,7 +46,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "actions":
   - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27\
       \ (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength\
-      \ saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Stomp"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32\
       \ (6d8 + 5) bludgeoning damage"
@@ -54,7 +54,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/brontosaurus-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/brontosaurus-mpmm.webp"
 ```
 ^statblock
 

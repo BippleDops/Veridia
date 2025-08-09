@@ -56,7 +56,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "desc": "The cyclops makes two attacks, using Stone Club or Rock in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 16 (3d6 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Huge or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Stone Club"
   - "desc": "Ranged Attack Roll: +9, range 30/120 ft. Hit: 22 (3d10 + 6) Bludgeoning\
@@ -64,13 +64,13 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
     "name": "Rock"
 "reactions":
   - "desc": "Trigger: A creature the cyclops can see makes an attack roll against\
-      \ it. _Response:_ The cyclops imposes [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on the roll, and the cyclops gains [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ it. _Response:_ The cyclops imposes [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on the roll, and the cyclops gains [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on attack rolls against the target until the end of the cyclops's next turn."
     "name": "Limited Foresight (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cyclops-sentry-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/cyclops-sentry-xmm.webp"
 ```
 ^statblock
 

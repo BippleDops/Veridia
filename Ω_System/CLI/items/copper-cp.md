@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Copper (cp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/copper-cp.webp#right)
+![](/03_Mechanics/CLI/items/img/copper-cp.webp#right)
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

@@ -713,7 +713,7 @@ The merger isn't just about two worlds colliding—it's about what it means to b
 ---
 
 **Related Documents**:
-- [[3-Mechanics/Depth Adaptation System]]
+- [[03_Mechanics/Depth Adaptation System]]
 - [[Crystal Plague Progression]]
 - [[Shadow Separation Mechanics]]
 - [[The Seven Shards Mystery]]

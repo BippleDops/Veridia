@@ -17,6 +17,6 @@ modified: 2025-07-23 12:39
 
 
 
-This 50-foot coil of rope can repair itself when cut into any number of smaller pieces. As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can cause all pieces of the rope that are in contact with each other and not otherwise in use to knit back together. A Rope of Mending is forever shortened if a section of it is lost or destroyed.
+This 50-foot coil of rope can repair itself when cut into any number of smaller pieces. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can cause all pieces of the rope that are in contact with each other and not otherwise in use to knit back together. A Rope of Mending is forever shortened if a section of it is lost or destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 302*

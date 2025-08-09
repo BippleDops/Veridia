@@ -59,15 +59,15 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
       \ + 4) piercing damage plus 13 (3d8) necrotic damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18\
-      \ (4d6 + 4) slashing damage. If the target is Medium or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 16), and it is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ (4d6 + 4) slashing damage. If the target is Medium or smaller, it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 16), and it is [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ until the grapple ends. While grappling a creature, the sorrowsworn can't\
       \ make a Claw attack."
     "name": "Claw"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

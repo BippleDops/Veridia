@@ -39,14 +39,14 @@ At the start of each of your turns, each of your enemies within 10 feet of any t
 
 ## Roots and Vines
 
-At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until the spell ends. A [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature can use an action to make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check against your spell save DC, ending the effect on itself on a success.
+At the end of each of your turns, one creature of your choice that is on the ground in the cube must succeed on a Strength saving throw or become [restrained](/03_Mechanics/CLI/conditions.md#Restrained) until the spell ends. A [restrained](/03_Mechanics/CLI/conditions.md#Restrained) creature can use an action to make a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check against your spell save DC, ending the effect on itself on a success.
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone).
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [prone](/03_Mechanics/CLI/conditions.md#Prone).
 
 ## Summary
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Xanathar's Guide to Everything p. 171*

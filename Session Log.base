@@ -99,9 +99,9 @@ views:
     name: Recent Sessions
     filters:
       and:
-        - anyOf:
-            - tags.contains("session")
-            - tags.contains("Session")
+        - or:
+            - tags includes "session"
+            - tags includes "Session"
     order:
       - sessionNumber
       - date
@@ -129,9 +129,9 @@ views:
     name: Campaign Timeline
     filters:
       and:
-        - anyOf:
-            - tags.contains("session")
-            - tags.contains("Session")
+        - or:
+            - tags includes "session"
+            - tags includes "Session"
     dateProperty: date
     properties:
       - formula.SessionTitle
@@ -142,9 +142,9 @@ views:
     name: Session Cards
     filters:
       and:
-        - anyOf:
-            - tags.contains("session")
-            - tags.contains("Session")
+        - or:
+            - tags includes "session"
+            - tags includes "Session"
     columns: 2
     sort:
       - column: sessionNumber
@@ -164,9 +164,9 @@ views:
     name: By Player
     filters:
       and:
-        - anyOf:
-            - tags.contains("session")
-            - tags.contains("Session")
+        - or:
+            - tags includes "session"
+            - tags includes "Session"
         - players.contains("{{player}}")
     order:
       - sessionNumber
@@ -179,16 +179,16 @@ views:
     parameters:
       player:
         type: select
-        source: "4-Party"
+        source: "1-Party"
         
   - type: table
     name: By Quest
     filters:
       and:
-        - anyOf:
-            - tags.contains("session")
-            - tags.contains("Session")
-        - anyOf:
+        - or:
+            - tags includes "session"
+            - tags includes "Session"
+        - or:
             - questsStarted.contains("{{quest}}")
             - questsAdvanced.contains("{{quest}}")
             - questsCompleted.contains("{{quest}}")
@@ -202,15 +202,15 @@ views:
     parameters:
       quest:
         type: link
-        source: "5-Campaign/Quests"
+        source: "2-World/Quests"
         
   - type: statistics
     name: Campaign Stats
     filters:
       and:
-        - anyOf:
-            - tags.contains("session")
-            - tags.contains("Session")
+        - or:
+            - tags includes "session"
+            - tags includes "Session"
     statistics:
       - name: Total Sessions
         formula: count()

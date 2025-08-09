@@ -51,11 +51,11 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - "constitution": !!int "5"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
 "senses": "passive Perception 17"
 "languages": "Druidic, Elvish, Sylvan"
@@ -67,24 +67,24 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ damage plus 14 (4d6) Poison damage."
     "name": "Forest Staff"
   - "desc": "Ranged Attack Roll: +7, range 90 ft. Hit: 14 (3d6 + 4) Radiant damage,\
-      \ and the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition\
+      \ and the target has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded) condition\
       \ until the start of the centaur's next turn."
     "name": "Sun Ray"
   - "desc": "The centaur casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\nAt will: [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-      \ [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)"
+      \ ability (spell save DC 15):\n\nAt will: [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The centaur moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack).\
+  - "desc": "The centaur moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack).\
       \ Each creature within 5 feet of the centaur as it moves is targeted once by\
       \ the following effect. Strength Saving Throw: DC 15. Failure: 11 (2d6 +\
-      \ 4) Bludgeoning damage, and the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ 4) Bludgeoning damage, and the target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition until the end of its next turn."
     "name": "Entangling Trail (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/centaur-warden-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/centaur-warden-xmm.webp"
 ```
 ^statblock
 

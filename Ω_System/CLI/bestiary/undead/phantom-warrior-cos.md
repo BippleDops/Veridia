@@ -27,7 +27,7 @@ A phantom warrior retains the alignment and personality it had before it died, a
 
 ## Forceful Presence
 
-Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [invisible](/3-Mechanics/CLI/conditions.md#Invisible) sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
+Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [invisible](/03_Mechanics/CLI/conditions.md#Invisible) sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
 
 ## Undead Nature
 
@@ -51,17 +51,17 @@ A phantom warrior doesn't require air, food, drink, or sleep.
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "3"
@@ -88,6 +88,6 @@ A phantom warrior doesn't require air, food, drink, or sleep.
     "name": "Etherealness"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/phantom-warrior-cos.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/phantom-warrior-cos.webp"
 ```
 ^statblock

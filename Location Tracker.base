@@ -14,15 +14,14 @@ formulas:
   RegionDisplay: |
     js:
     return target.region || '-';
-
 views:
   - type: table
     name: Quest Hubs
     filters:
       and:
-        - anyOf:
-            - tags.contains("location")
-            - tags.contains("Location")
+        - or:
+            - tags includes "location"
+            - tags includes "Location"
         - active_quests
     order:
       - file.name
@@ -30,21 +29,20 @@ views:
       - formula.DangerBadge
       - region
     sort:
-      - column: formula.QuestCount
+      - property: formula.QuestCount
         direction: DESC
     columnSize:
       file.name: 240
       formula.QuestCount: 120
       formula.DangerBadge: 100
       region: 180
-
   - type: table
     name: All Locations
     filters:
       and:
-        - anyOf:
-            - tags.contains("location")
-            - tags.contains("Location")
+        - or:
+            - tags includes "location"
+            - tags includes "Location"
     order:
       - file.name
       - type
@@ -52,7 +50,7 @@ views:
       - faction
       - formula.DangerBadge
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 240
@@ -60,40 +58,37 @@ views:
       region: 160
       faction: 160
       formula.DangerBadge: 100
-
   - type: table
     name: Dangerous Areas
     filters:
       and:
-        - anyOf:
-            - tags.contains("location")
-            - tags.contains("Location")
+        - or:
+            - tags includes "location"
+            - tags includes "Location"
         - danger_level
     order:
       - file.name
       - region
       - formula.DangerBadge
     sort:
-      - column: danger_level
+      - property: danger_level
         direction: DESC
     columnSize:
       file.name: 240
       region: 160
       formula.DangerBadge: 100
-
   - type: table
     name: By Region
     filters:
       and:
-        - anyOf:
-            - tags.contains("location")
-            - tags.contains("Location")
+        - or:
+            - tags includes "location"
+            - tags includes "Location"
     order:
       - region
       - file.name
     sort:
-      - column: region
+      - property: region
         direction: ASC
-      - column: file.name
+      - property: file.name
         direction: ASC
-

@@ -78,9 +78,9 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-  - "desc": "The hobgoblin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The hobgoblin has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the hobgoblin's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -91,7 +91,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
     "name": "Longbow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
 ```
 ^statblock
 

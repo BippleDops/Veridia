@@ -39,19 +39,19 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 
 ### Duergar Resilience
 
-You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed).
+You have advantage on saving throws against poison, and you have resistance against poison damage. You also have advantage on saving throws against illusions and against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed) or [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed).
 
 ### Dwarven Combat Training
 
-You have proficiency with the [battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md), [handaxe](/3-Mechanics/CLI/items/handaxe-xphb.md), [light hammer](/3-Mechanics/CLI/items/light-hammer-xphb.md), and [warhammer](/3-Mechanics/CLI/items/warhammer-xphb.md).
+You have proficiency with the [battleaxe](/03_Mechanics/CLI/items/battleaxe-xphb.md), [handaxe](/03_Mechanics/CLI/items/handaxe-xphb.md), [light hammer](/03_Mechanics/CLI/items/light-hammer-xphb.md), and [warhammer](/03_Mechanics/CLI/items/warhammer-xphb.md).
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [Smith's tools](/3-Mechanics/CLI/items/smiths-tools-xphb.md), [brewer's supplies](/3-Mechanics/CLI/items/brewers-supplies-xphb.md), or [mason's tools](/3-Mechanics/CLI/items/masons-tools-xphb.md).
+You gain proficiency with the artisan's tools of your choice: [Smith's tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md), [brewer's supplies](/03_Mechanics/CLI/items/brewers-supplies-xphb.md), or [mason's tools](/03_Mechanics/CLI/items/masons-tools-xphb.md).
 
 ### Stonecunning
 
-Whenever you make an Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](/3-Mechanics/CLI/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Whenever you make an Intelligence ([History](/03_Mechanics/CLI/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](/03_Mechanics/CLI/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ### Languages
 
@@ -59,11 +59,11 @@ You can speak, read, and write Common, Dwarvish, and Undercommon.
 
 ### Duergar Magic
 
-When you reach 3rd level, you can cast the [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
+When you reach 3rd level, you can cast the [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell on yourself once with this trait, using only the spell's enlarge option. When you reach 5th level, you can cast the [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) spell on yourself once with this trait. You don't need material components for either spell, and you can't cast them while you're in direct sunlight, although sunlight has no effect on them once cast. You regain the ability to cast these spells with this trait when you finish a long rest. Intelligence is your spellcasting ability for these spells.
 
 ### Sunlight Sensitivity
 
-You have disadvantage on attack rolls and Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have disadvantage on attack rolls and Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ## Description
 

@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Greatsword
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/greatsword.webp#right)
+![](/03_Mechanics/CLI/items/img/greatsword.webp#right)
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 50 gp
 - **Weight**: 6.0 lbs.
 

@@ -53,24 +53,24 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "5"
 "traits":
-  - "desc": "The revenant regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+  - "desc": "The revenant regains 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ at the start of each of its turns. If the revenant takes Fire or Radiant damage,\
       \ this trait doesn't function at the start of its next turn. Its body is destroyed\
-      \ only if it starts its turn with 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ only if it starts its turn with 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "If the revenant dies, it revives 24 hours later in a different body unless\
-      \ [Dispel Evil and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
+      \ [Dispel Evil and Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
       \ is cast on its corpse. If it revives, it animates a Humanoid corpse elsewhere\
       \ on the same plane of existence; it now looks different but uses the same stat\
-      \ block and returns with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ block and returns with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The revenant uses Vengeful Glare and makes two Slam attacks."
@@ -78,23 +78,23 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (2d6 + 4) Necrotic damage."
     "name": "Slam"
   - "desc": "Wisdom Saving Throw: DC 15, one creature the revenant can see within\
-      \ 30 feet. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 30 feet. Failure: The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ If the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) target is cursed\
-      \ by the revenant (see Vow of Revenge), the target also has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ If the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) target is cursed\
+      \ by the revenant (see Vow of Revenge), the target also has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ condition for the duration."
     "name": "Vengeful Glare"
 "bonus_actions":
   - "desc": "The revenant curses one creature it can see within 30 feet of itself.\
       \ The revenant knows the distance to and direction of the cursed target, even\
       \ if it is on a different plane of existence. The curse ends on the target if\
-      \ the revenant uses this [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ the revenant uses this [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
       \ on a different creature."
     "name": "Vow of Revenge (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/revenant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/revenant-xmm.webp"
 ```
 ^statblock
 

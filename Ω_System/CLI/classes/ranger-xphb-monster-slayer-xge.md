@@ -63,11 +63,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
-| 5th | [zone of truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md) |
-| 9th | [magic circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md) |
-| 13th | [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) |
-| 17th | [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) |
+| 3rd | [protection from evil and good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
+| 5th | [zone of truth](/03_Mechanics/CLI/spells/zone-of-truth-xphb.md) |
+| 9th | [magic circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md) |
+| 13th | [banishment](/03_Mechanics/CLI/spells/banishment-xphb.md) |
+| 17th | [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)

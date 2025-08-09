@@ -15,13 +15,13 @@ modified: 2025-07-23 12:39
 ---
 # Ring of Animal Influence
 *Ring, rare*  
-![](/3-Mechanics/CLI/items/img/ring-of-animal-influence.webp#right)
+![](/03_Mechanics/CLI/items/img/ring-of-animal-influence.webp#right)
 
 
 This ring has 3 charges, and it regains `d3` expended charges daily at dawn. While wearing the ring, you can expend 1 charge to cast one of the following spells (save DC 13) from it:
 
-- [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)  
-- [Fear](/3-Mechanics/CLI/spells/fear-xphb.md) (affects Beasts only)  
-- [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)  
+- [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md)  
+- [Fear](/03_Mechanics/CLI/spells/fear-xphb.md) (affects Beasts only)  
+- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md)  
 
 *Source: Dungeon Master's Guide (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

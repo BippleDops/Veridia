@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Gith and Their Endless War
 *Source: Mordenkainen's Tome of Foes, p. 85* 
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch4.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch4.webp#center)
 
 The story of the gith is rooted in a cruel twist of cosmic fate. Inspired by the great leader for whom the race is named, the gith rose up to overthrow the mind flayers that held them in servitude. But after they won their freedom, two factions among the gith disagreed on what kind of civilization they would forge. That disagreement quickly flared into open hostility, and the two groups distanced themselves from one another to pursue their separate agendas. They remain bitter enemies today, each side willing to fight to the death whenever they cross paths.
 
@@ -66,7 +66,7 @@ All attempts to learn about Gith through divine magic return utter silence. Thos
 
 From birth, githyanki are conditioned to fight and die for their queen. Children endure a brutal upbringing that constantly preaches devotion to Vlaakith. Each of the fortified settlements where young githyanki are raised and trained is a combination of military academy and cult headquarters.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315591_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315591_cn_wmask.webp#center)
 
 #### Only the Best Survive
 
@@ -145,9 +145,9 @@ The first silver swords were created eons ago, when the gith were still a single
 
 Knights and their silver swords are inseparable, and a knight will fight to the death to prevent the loss of its weapon. If a silver sword falls into the possession of someone other than a githyanki, Vlaakith sends a squad of knights out from Tu'narath to destroy the malefactor and recover the weapon.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315596_cn.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315596_cn.webp#center)
 
-- [Greater Silver Sword](/3-Mechanics/CLI/items/greater-silver-sword-mtf.md)  
+- [Greater Silver Sword](/03_Mechanics/CLI/items/greater-silver-sword-mtf.md)  
 
 #### Dragon Steeds
 
@@ -175,7 +175,7 @@ In battle, the githyanki use mobile tactics combining psionics and magic to deva
 
 Because the githyanki strike to plunder rather than conquer, raiders linger over their target for no more than a few hours. By daybreak the attackers are gone, purposely leaving behind enough survivors to rebuild the ruined community-so that the githyanki might visit the place years or decades later and lay it low all over again.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315592_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315592_cn_wmask.webp#center)
 
 #### The Helm
 
@@ -235,7 +235,7 @@ Nonetheless, the city does have a great number of permanent structures, and a sy
 > **Markets.** There are no organized markets in Tu'narath. The githyanki don't offer goods for sale to visitors, and they don't purchase items offered to them-they simply take what they want.
 ^tunarath-in-brief
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315593_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315593_cn_wmask.webp#center)
 
 ##### Queen's District
 
@@ -332,7 +332,7 @@ Aside from its inhabitants, the most well-defended element of a githzerai fortre
 
 A community's activity is overseen by monks who assign duties to each occupant. Everyone participates in mock combats and ongoing academic instruction, and each fortress allocates personnel and resources as needed. Every fortress is designed to be self-sufficient, even though no two of them are ever out of psychic contact.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315594_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315594_cn_wmask.webp#center)
 
 #### Shra'kt'lor
 
@@ -384,7 +384,7 @@ Though they devote most of their military efforts to the constant campaign again
 
 As their means of vengeance against the mind flayers, the githzerai send bands of warriors called rrakkmas—illithid hunting parties—to other planes to do battle with any mind flayers they come across. It is in these circumstances that the natives of the plane most often encounter githzerai away from their monastery. With their attention focused only on their mission, the githzerai pay little heed to those around as long as they don't interfere with the hunt.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315595_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315595_cn_wmask.webp#center)
 
 > [!note] The Sha'sal Khou
 > 
@@ -397,12 +397,12 @@ As their means of vengeance against the mind flayers, the githzerai send bands o
 
 At the DM's option, you can create a gith character, using the following traits.
 
-- [Gith (Githyanki)](/3-Mechanics/CLI/races/gith-githyanki-mtf.md)  
-- [Gith (Githzerai)](/3-Mechanics/CLI/races/gith-githzerai-mtf.md)  
+- [Gith (Githyanki)](/03_Mechanics/CLI/races/gith-githyanki-mtf.md)  
+- [Gith (Githzerai)](/03_Mechanics/CLI/races/gith-githzerai-mtf.md)  
 
 ### Gith Random Height and Weight
 
-![Gith Random Height and Weight](/3-Mechanics/CLI/tables/gith-random-height-and-weight-mtf.md)
+![Gith Random Height and Weight](/03_Mechanics/CLI/tables/gith-random-height-and-weight-mtf.md)
 
 **Height** = Base Height + Height Modifier (in inches) **Weight** = Base Weight + Height Modifier (in pounds) × Weight Modifier
 
@@ -410,31 +410,31 @@ At the DM's option, you can create a gith character, using the following traits.
 
 This section provides tables for players and DMs who want to create githzerai and githyanki characters. **Githyanki**
 
-![Gith Tables; Githyanki Names, Male](/3-Mechanics/CLI/tables/gith-tables-githyanki-names-male-mtf.md)
+![Gith Tables; Githyanki Names, Male](/03_Mechanics/CLI/tables/gith-tables-githyanki-names-male-mtf.md)
 
-![Gith Tables; Githyanki Names, Female](/3-Mechanics/CLI/tables/gith-tables-githyanki-names-female-mtf.md)
+![Gith Tables; Githyanki Names, Female](/03_Mechanics/CLI/tables/gith-tables-githyanki-names-female-mtf.md)
 
-![Gith Tables; Githyanki Personality Traits](/3-Mechanics/CLI/tables/gith-tables-githyanki-personality-traits-mtf.md)
+![Gith Tables; Githyanki Personality Traits](/03_Mechanics/CLI/tables/gith-tables-githyanki-personality-traits-mtf.md)
 
-![Gith Tables; Githyanki Ideals](/3-Mechanics/CLI/tables/gith-tables-githyanki-ideals-mtf.md)
+![Gith Tables; Githyanki Ideals](/03_Mechanics/CLI/tables/gith-tables-githyanki-ideals-mtf.md)
 
-![Gith Tables; Githyanki Bonds](/3-Mechanics/CLI/tables/gith-tables-githyanki-bonds-mtf.md)
+![Gith Tables; Githyanki Bonds](/03_Mechanics/CLI/tables/gith-tables-githyanki-bonds-mtf.md)
 
-![Gith Tables; Githyanki Flaws](/3-Mechanics/CLI/tables/gith-tables-githyanki-flaws-mtf.md)
+![Gith Tables; Githyanki Flaws](/03_Mechanics/CLI/tables/gith-tables-githyanki-flaws-mtf.md)
 
 **Githzerai**
 
-![Gith Tables; Githzerai Names, Male](/3-Mechanics/CLI/tables/gith-tables-githzerai-names-male-mtf.md)
+![Gith Tables; Githzerai Names, Male](/03_Mechanics/CLI/tables/gith-tables-githzerai-names-male-mtf.md)
 
-![Gith Tables; Githzerai Names, Female](/3-Mechanics/CLI/tables/gith-tables-githzerai-names-female-mtf.md)
+![Gith Tables; Githzerai Names, Female](/03_Mechanics/CLI/tables/gith-tables-githzerai-names-female-mtf.md)
 
-![Gith Tables; Githzerai Personality Traits](/3-Mechanics/CLI/tables/gith-tables-githzerai-personality-traits-mtf.md)
+![Gith Tables; Githzerai Personality Traits](/03_Mechanics/CLI/tables/gith-tables-githzerai-personality-traits-mtf.md)
 
-![Gith Tables; Githzerai Ideals](/3-Mechanics/CLI/tables/gith-tables-githzerai-ideals-mtf.md)
+![Gith Tables; Githzerai Ideals](/03_Mechanics/CLI/tables/gith-tables-githzerai-ideals-mtf.md)
 
-![Gith Tables; Githzerai Bonds](/3-Mechanics/CLI/tables/gith-tables-githzerai-bonds-mtf.md)
+![Gith Tables; Githzerai Bonds](/03_Mechanics/CLI/tables/gith-tables-githzerai-bonds-mtf.md)
 
-![Gith Tables; Githzerai Flaws](/3-Mechanics/CLI/tables/gith-tables-githzerai-flaws-mtf.md)
+![Gith Tables; Githzerai Flaws](/03_Mechanics/CLI/tables/gith-tables-githzerai-flaws-mtf.md)
 
 ### Githyanki Raiding Parties
 
@@ -442,15 +442,15 @@ Use the following tables to generate a band of githyanki raiders and some additi
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![Githyanki Raiding Parties; Dragon Chance](/3-Mechanics/CLI/tables/githyanki-raiding-parties-dragon-chance-mtf.md)
+![Githyanki Raiding Parties; Dragon Chance](/03_Mechanics/CLI/tables/githyanki-raiding-parties-dragon-chance-mtf.md)
 
-![Githyanki Raiding Parties; Raiding Party Leader](/3-Mechanics/CLI/tables/githyanki-raiding-parties-raiding-party-leader-mtf.md)
+![Githyanki Raiding Parties; Raiding Party Leader](/03_Mechanics/CLI/tables/githyanki-raiding-parties-raiding-party-leader-mtf.md)
 
-![Githyanki Raiding Parties; Githyanki Special Allies](/3-Mechanics/CLI/tables/githyanki-raiding-parties-githyanki-special-allies-mtf.md)
+![Githyanki Raiding Parties; Githyanki Special Allies](/03_Mechanics/CLI/tables/githyanki-raiding-parties-githyanki-special-allies-mtf.md)
 
-![Githyanki Raiding Parties; Raiding Party Transport](/3-Mechanics/CLI/tables/githyanki-raiding-parties-raiding-party-transport-mtf.md)
+![Githyanki Raiding Parties; Raiding Party Transport](/03_Mechanics/CLI/tables/githyanki-raiding-parties-raiding-party-transport-mtf.md)
 
-![Githyanki Raiding Parties; Githyanki Purpose of Raid](/3-Mechanics/CLI/tables/githyanki-raiding-parties-githyanki-purpose-of-raid-mtf.md)
+![Githyanki Raiding Parties; Githyanki Purpose of Raid](/03_Mechanics/CLI/tables/githyanki-raiding-parties-githyanki-purpose-of-raid-mtf.md)
 
 ### Githzerai Groups
 
@@ -458,8 +458,8 @@ Use the following tables to generate a band of githzerai and determine their rea
 
 In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
-![Githzerai Groups; Githzerai Group Leader](/3-Mechanics/CLI/tables/githzerai-groups-githzerai-group-leader-mtf.md)
+![Githzerai Groups; Githzerai Group Leader](/03_Mechanics/CLI/tables/githzerai-groups-githzerai-group-leader-mtf.md)
 
-![Githzerai Groups; Githzerai Special Allies](/3-Mechanics/CLI/tables/githzerai-groups-githzerai-special-allies-mtf.md)
+![Githzerai Groups; Githzerai Special Allies](/03_Mechanics/CLI/tables/githzerai-groups-githzerai-special-allies-mtf.md)
 
-![Githzerai Groups; Githzerai Mission Purpose](/3-Mechanics/CLI/tables/githzerai-groups-githzerai-mission-purpose-mtf.md)
+![Githzerai Groups; Githzerai Mission Purpose](/03_Mechanics/CLI/tables/githzerai-groups-githzerai-mission-purpose-mtf.md)

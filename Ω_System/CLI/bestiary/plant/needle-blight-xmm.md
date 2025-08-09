@@ -49,7 +49,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "8"
   - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
+"condition_immunities": "[deafened](/03_Mechanics/CLI/conditions.md#Deafened)"
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
@@ -61,7 +61,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Needles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/needle-blight-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/needle-blight-xmm.webp"
 ```
 ^statblock
 

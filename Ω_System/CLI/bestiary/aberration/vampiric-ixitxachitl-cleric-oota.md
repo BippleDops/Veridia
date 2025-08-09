@@ -43,7 +43,7 @@ Cantrips (at will): guidance, thaumaturgy
 
 2nd Level (3 slots): hold person, silence
 
-3rd Level (2 slots): [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), tongues
+3rd Level (2 slots): [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), tongues
 
 ```statblock
 "name": "Vampiric Ixitxachitl Cleric (OotA)"
@@ -69,13 +69,13 @@ Cantrips (at will): guidance, thaumaturgy
 "traits":
   - "desc": "The ixitxachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting\
       \ ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl\
-      \ has the following cleric spells prepared:\n\nCantrips (at will): [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1st level\
-      \ (4 slots): [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [create or destroy water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)\n\
-      \n2nd level (3 slots): [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [silence](/3-Mechanics/CLI/spells/silence-xphb.md)\n\n3rd level (2 slots):\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+      \ has the following cleric spells prepared:\n\nCantrips (at will): [guidance](/03_Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1st level\
+      \ (4 slots): [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [create or destroy water](/03_Mechanics/CLI/spells/create-or-destroy-water-xphb.md)\n\
+      \n2nd level (3 slots): [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [silence](/03_Mechanics/CLI/spells/silence-xphb.md)\n\n3rd level (2 slots):\
+      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
@@ -93,6 +93,6 @@ Cantrips (at will): guidance, thaumaturgy
     "name": "Barbed Tail"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/vampiric-ixitxachitl-cleric-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/vampiric-ixitxachitl-cleric-oota.webp"
 ```
 ^statblock

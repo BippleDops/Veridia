@@ -21,4 +21,4 @@ You gain the following benefits.
 
 **Improvised Weaponry.** You have proficiency with improvised weapons.
 
-**Push.** When you hit a creature with an Unarmed Strike as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
+**Push.** When you hit a creature with an Unarmed Strike as part of the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.

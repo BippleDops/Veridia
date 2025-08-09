@@ -44,24 +44,24 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
   - !!int "10"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "The choldrith has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The choldrith has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
       \ and magic can't put the choldrith to sleep."
     "name": "Fey Ancestry"
   - "desc": "The choldrith can climb difficult surfaces, including upside down on\
       \ ceilings, without needing to make an ability check."
     "name": "Spider Climb"
   - "desc": "While in sunlight, the choldrith has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ well as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "While in contact with a web, the choldrith knows the exact location of\
@@ -74,16 +74,16 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
       \ ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) poison damage."
     "name": "Dagger"
   - "desc": "Ranged Weapon Attack: +5 to hit, range 30/60 ft., one Large or smaller\
-      \ creature. Hit: The target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ by webbing. As an action, the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ creature. Hit: The target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ by webbing. As an action, the [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ target can make a DC 11 Strength check, bursting the webbing on a success.\
       \ The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability\
       \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
   - "desc": "The choldrith casts one of the following spells, using Wisdom as the\
-      \ spellcasting ability (spell save DC 12):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day each:\
-      \ [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md)"
+      \ spellcasting ability (spell save DC 12):\n\nAt will: [guidance](/03_Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day each:\
+      \ [bane](/03_Mechanics/CLI/spells/bane-xphb.md), [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The choldrith conjures a floating, spectral dagger within 60 feet of\
@@ -96,7 +96,7 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/choldrith-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/choldrith-mpmm.webp"
 ```
 ^statblock
 

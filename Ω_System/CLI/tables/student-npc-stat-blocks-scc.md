@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 
 | Year | Stat Block |
 |------|------------|
-| First | [First-Year Student](/3-Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md) |
+| First | [First-Year Student](/03_Mechanics/CLI/bestiary/humanoid/first-year-student-scc.md) |
 | Second | [College] Apprentice |
 | Third or Later | [College] Pledgemage |
 ^student-npc-stat-blocks

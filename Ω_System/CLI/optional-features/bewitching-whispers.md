@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 7
 
-You can cast [compulsion](/3-Mechanics/CLI/spells/compulsion-xphb.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [compulsion](/03_Mechanics/CLI/spells/compulsion-xphb.md) once using a warlock spell slot. You can't do so again until you finish a long rest.

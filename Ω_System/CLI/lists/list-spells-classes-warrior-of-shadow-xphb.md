@@ -13,8 +13,8 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
+- [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
+- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3

@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Lance
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/lance.webp#right)
+![](/03_Mechanics/CLI/items/img/lance.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach)
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

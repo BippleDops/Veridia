@@ -15,12 +15,12 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Reszur
-*Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), uncommon*  
+*Weapon ([dagger](/03_Mechanics/CLI/items/dagger-xphb.md)), uncommon*  
 
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this weapon, which doesn't make noise when it hits or cuts something.

@@ -61,24 +61,24 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Slashing damage,\
-      \ plus 2 (d4) Slashing damage if the attack roll had [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ plus 2 (d4) Slashing damage if the attack roll had [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)."
     "name": "Scimitar"
   - "desc": "Ranged Attack Roll: +4, range 80/320 ft. Hit: 5 (1d6 + 2) Piercing\
-      \ damage, plus 2 (d4) Piercing damage if the attack roll had [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ damage, plus 2 (d4) Piercing damage if the attack roll had [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)."
     "name": "Shortbow"
 "bonus_actions":
   - "desc": "The goblin takes the Disengage or Hide action."
     "name": "Nimble Escape"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-warrior-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/goblin-warrior-xmm.webp"
 ```
 ^statblock
 

@@ -45,17 +45,17 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - !!int "10"
 "speed": "30 ft., 40 ft. (wolf form only)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
 "traits":
-  - "desc": "The werewolf has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The werewolf has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the werewolf's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -65,8 +65,8 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 12. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Werewolf under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Werewolf under the DM's control and has 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
       \ Success: The target is immune to this werewolf's curse for 24 hours."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
@@ -82,7 +82,7 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/werewolf-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/werewolf-xmm.webp"
 ```
 ^statblock
 

@@ -49,7 +49,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Goblin, Worg"
@@ -57,11 +57,11 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage,\
       \ and the next attack roll made against the target before the start of the worg's\
-      \ next turn has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ next turn has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/worg-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/worg-xmm.webp"
 ```
 ^statblock
 

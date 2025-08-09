@@ -51,24 +51,24 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
     "desc": "+6"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon, telepathy 30 ft."
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the neogi's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the neogi's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
-  - "desc": "The neogi has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and magic can't\
+  - "desc": "The neogi has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ or [frightened](/03_Mechanics/CLI/conditions.md#Frightened), and magic can't\
       \ put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -80,7 +80,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
-      \ on a DC 12 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 12 Constitution saving throw or become [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
@@ -92,26 +92,26 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
       \ of the neogi's next turn, as a spectral tentacle clings to the target."
     "name": "Tentacle of Hadar"
   - "desc": "The neogi casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 14):\n\nAt will: [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
-      \ each: [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [hunger of Hadar](/3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md)"
+      \ ability (spell save DC 14):\n\nAt will: [guidance](/03_Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
+      \ each: [dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md), [hunger of Hadar](/03_Mechanics/CLI/spells/hunger-of-hadar-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-      \ the target. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target obeys\
+      \ the target. The [charmed](/03_Mechanics/CLI/conditions.md#Charmed) target obeys\
       \ the neogi's commands and can't take reactions, and the neogi and the target\
       \ can communicate telepathically with each other at a distance of up to 1 mile.\
-      \ Whenever the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target takes\
+      \ Whenever the [charmed](/03_Mechanics/CLI/conditions.md#Charmed) target takes\
       \ damage, it can repeat the saving throw, ending the effect on itself on a success."
     "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/neogi-master-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/neogi-master-mpmm.webp"
 ```
 ^statblock
 

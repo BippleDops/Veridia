@@ -58,19 +58,19 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 90 ft., passive Perception 14"
 "languages": "Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The jackalwere has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The jackalwere has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the jackalwere's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -82,7 +82,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
     "name": "Slam (Human or Hybrid Form Only)"
   - "desc": "Wisdom Saving Throw: DC 10, one creature the jackalwere can see within\
       \ 30 feet (Constructs and Undead succeed automatically). Failure: The target\
-      \ has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition\
+      \ has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) condition\
       \ for 10 minutes or until it takes damage or a creature within 5 feet of it\
       \ takes an action to wake it. Success: The target is immune to this jackalwere's\
       \ Sleep Gaze for 24 hours."
@@ -95,7 +95,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
 ```
 ^statblock
 

@@ -43,20 +43,20 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   - "wisdom": !!int "13"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+20"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+20"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "force"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all"
 "cr": "18"
@@ -91,10 +91,10 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
     "name": "Teleport"
   - "desc": "The archaic casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 22):\n\nAt will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [divination](/3-Mechanics/CLI/spells/divination-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md)\n\
-      \n1/day each: [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
-      \ [forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md)"
+      \ DC 22):\n\nAt will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [divination](/03_Mechanics/CLI/spells/divination-xphb.md), [sending](/03_Mechanics/CLI/spells/sending-xphb.md)\n\
+      \n1/day each: [banishment](/03_Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [forcecage](/03_Mechanics/CLI/spells/forcecage-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after a creature the archaic can see casts a spell of 5th\
@@ -114,6 +114,6 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
     "name": "Unravel Magic (Costs 2 Actions)"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/archaic-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/archaic-scc.webp"
 ```
 ^statblock

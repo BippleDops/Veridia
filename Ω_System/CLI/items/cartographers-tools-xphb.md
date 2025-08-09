@@ -22,6 +22,6 @@ modified: 2025-07-23 12:39
 
 - **Ability.** Wisdom  
 - **Utilize.** Draft a map of a small area (DC 15)  
-- **Craft.** [Map](/3-Mechanics/CLI/items/map-xphb.md)  
+- **Craft.** [Map](/03_Mechanics/CLI/items/map-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

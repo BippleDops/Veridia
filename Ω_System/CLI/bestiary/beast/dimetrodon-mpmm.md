@@ -39,7 +39,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
@@ -51,7 +51,7 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/dimetrodon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/dimetrodon-mpmm.webp"
 ```
 ^statblock
 

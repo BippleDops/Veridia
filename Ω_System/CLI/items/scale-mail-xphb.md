@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Scale Mail
 *Medium armor*  
-![](/3-Mechanics/CLI/items/img/scale-mail.webp#right)
+![](/03_Mechanics/CLI/items/img/scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

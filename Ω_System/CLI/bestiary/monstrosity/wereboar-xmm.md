@@ -46,7 +46,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - !!int "8"
 "speed": "30 ft., 40 ft. (boar form only)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in boar form)"
@@ -58,8 +58,8 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 12. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Wereboar under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Wereboar under the DM's control and has 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
       \ Success: The target is immune to this wereboar's curse for 24 hours."
     "name": "Gore (Boar or Hybrid Form Only)"
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 30/120 ft. Hit:\
@@ -68,7 +68,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
       \ If the target is a Medium or smaller creature and the wereboar moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 7\
-      \ (2d6) Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ (2d6) Piercing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Tusk (Boar or Hybrid Form Only)"
 "bonus_actions":
@@ -79,7 +79,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wereboar-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/wereboar-xmm.webp"
 ```
 ^statblock
 

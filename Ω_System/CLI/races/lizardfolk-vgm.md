@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Lizardfolk
 *Source: Volo's Guide to Monsters p. 111*  
-![](/3-Mechanics/CLI/races/img/lizardfolk.webp#right)
+![](/03_Mechanics/CLI/races/img/lizardfolk.webp#right)
 
 - **Ability Scores**: con +2 wis +1
 - **Size**: Medium
@@ -38,7 +38,7 @@ Your fanged maw is a natural weapon, which you can use to make unarmed strikes. 
 
 ### Cunning Artisan
 
-As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a [shield](/3-Mechanics/CLI/items/shield-xphb.md), a [club](/3-Mechanics/CLI/items/club-xphb.md), a [javelin](/3-Mechanics/CLI/items/javelin-xphb.md), or `d4` [darts](/3-Mechanics/CLI/items/dart-xphb.md) or [blowgun needles](/3-Mechanics/CLI/items/needle-xphb.md). To use this trait, you need a blade, such as a [dagger](/3-Mechanics/CLI/items/dagger-xphb.md), or appropriate artisan's tools, such as [leatherworker's tools](/3-Mechanics/CLI/items/leatherworkers-tools-xphb.md).
+As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size small or larger to create one of the following items: a [shield](/03_Mechanics/CLI/items/shield-xphb.md), a [club](/03_Mechanics/CLI/items/club-xphb.md), a [javelin](/03_Mechanics/CLI/items/javelin-xphb.md), or `d4` [darts](/03_Mechanics/CLI/items/dart-xphb.md) or [blowgun needles](/03_Mechanics/CLI/items/needle-xphb.md). To use this trait, you need a blade, such as a [dagger](/03_Mechanics/CLI/items/dagger-xphb.md), or appropriate artisan's tools, such as [leatherworker's tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md).
 
 ### Hold Breath
 
@@ -46,7 +46,7 @@ You can hold your breath for up to 15 minutes at a time.
 
 ### Hunter's Lore
 
-You gain proficiency with two of the following skills of your choice: [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth), and [Survival](/3-Mechanics/CLI/skills.md#Survival).
+You gain proficiency with two of the following skills of your choice: [Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling), [Nature](/03_Mechanics/CLI/skills.md#Nature), [Perception](/03_Mechanics/CLI/skills.md#Perception), [Stealth](/03_Mechanics/CLI/skills.md#Stealth), and [Survival](/03_Mechanics/CLI/skills.md#Survival).
 
 ### Natural Armor
 

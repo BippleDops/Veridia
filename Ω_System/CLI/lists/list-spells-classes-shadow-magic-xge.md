@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3
+- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 3

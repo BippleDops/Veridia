@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") at class level 3
+- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Beast Sense](/3-Mechanics/CLI/spells/beast-sense-xphb.md "XPHB") at class level 3
+- [Beast Sense](/03_Mechanics/CLI/spells/beast-sense-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Commune with Nature](/3-Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB") at class level 3
+- [Commune with Nature](/03_Mechanics/CLI/spells/commune-with-nature-xphb.md "XPHB") at class level 3

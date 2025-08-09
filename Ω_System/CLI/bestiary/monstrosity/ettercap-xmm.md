@@ -47,11 +47,11 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
@@ -67,24 +67,24 @@ Ettercaps avoid fire, which can quickly burn through their webs and the dead tre
   - "desc": "The ettercap makes one Bite attack and one Claw attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Piercing damage\
-      \ plus 2 (d4) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ plus 2 (d4) Poison damage, and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition until the start of the ettercap's next turn."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (2d4 + 2) Slashing damage."
     "name": "Claw"
   - "desc": "Dexterity Saving Throw: DC 12, one Large or smaller creature the ettercap\
-      \ can see within 30 feet. Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](/3-Mechanics/CLI/variant-rules/vulnerability-xphb.md)\
-      \ to Fire damage; [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+      \ can see within 30 feet. Failure: The target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ condition until the web is destroyed (AC 10; HP 5; [Vulnerability](/03_Mechanics/CLI/variant-rules/vulnerability-xphb.md)\
+      \ to Fire damage; [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md)\
       \ to Bludgeoning, Poison, and Psychic damage)."
     "name": "Web Strand (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The ettercap pulls one creature within 30 feet of itself that is [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "The ettercap pulls one creature within 30 feet of itself that is [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ by its Web Strand up to 25 feet straight toward itself."
     "name": "Reel"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ettercap-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/ettercap-xmm.webp"
 ```
 ^statblock
 

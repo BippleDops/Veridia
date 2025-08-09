@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/charlatans-die.webp#right)
+![](/03_Mechanics/CLI/items/img/charlatans-die.webp#right)
 
 
 Whenever you roll this six-sided die, you can control which number it rolls.

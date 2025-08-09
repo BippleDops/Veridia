@@ -43,13 +43,13 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "understands Infernal but can't speak, telepathy 120 ft."
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the merregon's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the merregon's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The merregon has advantage on saving throws against spells and other\
       \ magical effects."
@@ -70,6 +70,6 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/merregon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/merregon-mpmm.webp"
 ```
 ^statblock

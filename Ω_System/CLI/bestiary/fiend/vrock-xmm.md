@@ -50,16 +50,16 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
   - "charisma": !!int "2"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "6"
 "traits":
   - "desc": "If the vrock dies outside the Abyss, its body dissolves into ichor, and\
-      \ it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The vrock has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The vrock has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -68,21 +68,21 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage\
       \ plus 10 (3d6) Poison damage."
     "name": "Shred"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the vrock. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the vrock. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition and repeats the save at the end of each of its turns, ending the\
-      \ effect on itself on a success. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
+      \ effect on itself on a success. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
       \ the target takes 5 (d10) Poison damage at the start of each of its turns.\
       \ Emptying a flask of Holy Water on the target ends the effect early."
     "name": "Spores (Recharge 6)"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the vrock (demons succeed automatically). Failure: 10 (3d6)\
-      \ Thunder damage, and the target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ Thunder damage, and the target has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ condition until the end of the vrock's next turn."
     "name": "Stunning Screech (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/vrock-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/vrock-xmm.webp"
 ```
 ^statblock
 

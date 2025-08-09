@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 
 Characters are defined by much more than their race and class. They're individuals with their own stories, interests, connections, and capabilities beyond those that class and race define. This chapter expounds on the details that distinguish characters from one another, including the basics of name and physical description, the rules of backgrounds and languages, and the finer points of personality and alignment.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch4.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch4.webp#center)
 
 ## Character Details
 
@@ -49,7 +49,7 @@ If you want to, you can roll randomly for your character's height and weight usi
 
 The dice roll given in the Height Modifier column determines the character's extra height (in inches) beyond the base height. That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the character's extra weight (in pounds) beyond the base weight.
 
-![Random Height and Weight](/3-Mechanics/CLI/tables/random-height-and-weight-phb.md)
+![Random Height and Weight](/03_Mechanics/CLI/tables/random-height-and-weight-phb.md)
 
 For example, as a human, Tika has a height of 4 feet 8 inches plus 2d10 inches. Her player rolls 2d10 and gets a total of 12, so Tika stands 5 feet 8 inches tall. Then the player uses that same roll of 12 and multiplies it by 2d4 pounds. Her 2d4 roll is 3, so Tika weighs an extra 36 pounds (12 × 3) on top of her base 110 pounds, for a total of 146 pounds.
 
@@ -111,17 +111,17 @@ Your race indicates the languages your character can speak by default, and your 
 
 With your DM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
 
-![Dwarvish Alphabet](/3-Mechanics/CLI/books/players-handbook-2014/img/c4dwarvishalphabet.webp#center)
+![Dwarvish Alphabet](/03_Mechanics/CLI/books/players-handbook-2014/img/c4dwarvishalphabet.webp#center)
 
 Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Primordial, Primordial, Primordial, and Primordial dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
-![Standard Languages](/3-Mechanics/CLI/tables/standard-languages-phb.md)
+![Standard Languages](/03_Mechanics/CLI/tables/standard-languages-phb.md)
 
-![Elvish Alphabet](/3-Mechanics/CLI/books/players-handbook-2014/img/c4elvishalphabet.webp#center)
+![Elvish Alphabet](/03_Mechanics/CLI/books/players-handbook-2014/img/c4elvishalphabet.webp#center)
 
-![Exotic Languages](/3-Mechanics/CLI/tables/exotic-languages-phb.md)
+![Exotic Languages](/03_Mechanics/CLI/tables/exotic-languages-phb.md)
 
-![Draconic Alphabet](/3-Mechanics/CLI/books/players-handbook-2014/img/c4draconicalphabet.webp#center)
+![Draconic Alphabet](/03_Mechanics/CLI/books/players-handbook-2014/img/c4draconicalphabet.webp#center)
 
 ### Personal Characteristics
 
@@ -188,7 +188,7 @@ Choosing a background provides you with important story cues about your characte
 
 The sample backgrounds in this chapter provide both concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c4-1.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/c4-1.webp#center)
 
 ### Proficiencies
 
@@ -220,5 +220,5 @@ If you can't find a feature that matches your desired background, work with your
 
 > [!note] Tika and Artemis: Backgrounds
 > 
-> Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika's later career as a barmaid didn't really change her, so she might choose the urchin background, gaining proficiency in the [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand) and [Stealth](/3-Mechanics/CLI/skills.md#Stealth) skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in [Deception](/3-Mechanics/CLI/skills.md#Deception) and [Stealth](/3-Mechanics/CLI/skills.md#Stealth), as well as proficiency with the tools of thievery and poison.
+> Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika's later career as a barmaid didn't really change her, so she might choose the urchin background, gaining proficiency in the [Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand) and [Stealth](/03_Mechanics/CLI/skills.md#Stealth) skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in [Deception](/03_Mechanics/CLI/skills.md#Deception) and [Stealth](/03_Mechanics/CLI/skills.md#Stealth), as well as proficiency with the tools of thievery and poison.
 ^tika-and-artemis-backgrounds

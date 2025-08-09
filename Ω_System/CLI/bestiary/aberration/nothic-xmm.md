@@ -50,13 +50,13 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "truesight 120 ft., passive Perception 14"
 "languages": "Undercommon"
@@ -76,7 +76,7 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
     "name": "Weird Insight (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/nothic-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/nothic-xmm.webp"
 ```
 ^statblock
 

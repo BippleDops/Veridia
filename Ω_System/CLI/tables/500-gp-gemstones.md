@@ -18,10 +18,10 @@ modified: 2025-07-23 12:39
 
 | dice: d6 | Stone Description |
 |----------|-------------------|
-| 1 | [Alexandrite](/3-Mechanics/CLI/items/alexandrite-xdmg.md) (transparent dark green) |
-| 2 | [Aquamarine](/3-Mechanics/CLI/items/aquamarine-xdmg.md) (transparent pale blue-green) |
-| 3 | [Black pearl](/3-Mechanics/CLI/items/black-pearl-xdmg.md) (opaque pure black) |
-| 4 | [Blue spinel](/3-Mechanics/CLI/items/blue-spinel-xdmg.md) (transparent deep blue) |
-| 5 | [Peridot](/3-Mechanics/CLI/items/peridot-xdmg.md) (transparent rich olive green) |
-| 6 | [Topaz](/3-Mechanics/CLI/items/topaz-xdmg.md) (transparent golden yellow) |
+| 1 | [Alexandrite](/03_Mechanics/CLI/items/alexandrite-xdmg.md) (transparent dark green) |
+| 2 | [Aquamarine](/03_Mechanics/CLI/items/aquamarine-xdmg.md) (transparent pale blue-green) |
+| 3 | [Black pearl](/03_Mechanics/CLI/items/black-pearl-xdmg.md) (opaque pure black) |
+| 4 | [Blue spinel](/03_Mechanics/CLI/items/blue-spinel-xdmg.md) (transparent deep blue) |
+| 5 | [Peridot](/03_Mechanics/CLI/items/peridot-xdmg.md) (transparent rich olive green) |
+| 6 | [Topaz](/03_Mechanics/CLI/items/topaz-xdmg.md) (transparent golden yellow) |
 ^500-gp-gemstones

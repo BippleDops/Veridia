@@ -39,7 +39,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
@@ -51,7 +51,7 @@ A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised f
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hadrosaurus-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/hadrosaurus-mpmm.webp"
 ```
 ^statblock
 

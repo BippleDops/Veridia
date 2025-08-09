@@ -49,7 +49,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "traits":
   - "desc": "The sorrowsworn has advantage on an attack roll against a creature if\
       \ at least one of the sorrowsworn's allies is within 5 feet of the creature\
-      \ and the ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).\
+      \ and the ally isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).\
       \ The sorrowsworn otherwise has disadvantage on attack rolls."
     "name": "Wretched Pack Tactics"
 "actions":
@@ -65,7 +65,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

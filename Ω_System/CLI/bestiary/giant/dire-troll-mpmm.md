@@ -56,11 +56,11 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - "wisdom": !!int "5"
   - "charisma": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "13"
@@ -86,7 +86,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/dire-troll-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/dire-troll-mpmm.webp"
 ```
 ^statblock
 

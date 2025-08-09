@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Leather Armor
 *Light armor*  
-![](/3-Mechanics/CLI/items/img/leather-armor.webp#right)
+![](/03_Mechanics/CLI/items/img/leather-armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
 - **Cost**: 10 gp

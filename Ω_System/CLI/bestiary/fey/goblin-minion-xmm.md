@@ -61,7 +61,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
@@ -75,7 +75,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
     "name": "Nimble Escape"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
 ```
 ^statblock
 

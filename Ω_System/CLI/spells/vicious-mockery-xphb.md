@@ -18,17 +18,17 @@ modified: 2025-07-23 12:39
 ---
 # Vicious Mockery
 *cantrip, Enchantment*  
-![](/3-Mechanics/CLI/spells/img/vicious-mockery.webp#right)
+![](/03_Mechanics/CLI/spells/img/vicious-mockery.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
 - **Components:** V
 - **Duration:** Instantaneous
 
-You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take `d6` Psychic damage and have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next attack roll it makes before the end of its next turn.
+You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take `d6` Psychic damage and have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next attack roll it makes before the end of its next turn.
 
 **Cantrip Upgrade.** The damage increases by `d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

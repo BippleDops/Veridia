@@ -65,30 +65,30 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [Burning Hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [Scorching Ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md), [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md) |
-| 5th | [Daylight](/3-Mechanics/CLI/spells/daylight-xphb.md), [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) |
-| 7th | [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9th | [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md), [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) |
+| 3rd | [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md), [Faerie Fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md), [Scorching Ray](/03_Mechanics/CLI/spells/scorching-ray-xphb.md), [See Invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md) |
+| 5th | [Daylight](/03_Mechanics/CLI/spells/daylight-xphb.md), [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) |
+| 7th | [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md), [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 9th | [Flame Strike](/03_Mechanics/CLI/spells/flame-strike-xphb.md), [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md) |
 ^light-domain-spells
 
 ### Radiance of the Dawn (Level 3)
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you present your [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Any magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)—such as that created by the [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md) spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
+As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you present your [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to emit a flash of light in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Any magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)—such as that created by the [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md) spell—in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to `2d10` plus your Cleric level on a failed save or half as much damage on a successful one.
 
 ### Warding Flare (Level 3)
 
-When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to impose [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the attack roll, causing light to flare before it hits or misses.
+When a creature that you can see within 30 feet of yourself makes an attack roll, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to impose [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the attack roll, causing light to flare before it hits or misses.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Improved Warding Flare (Level 6)
 
-You regain all expended uses of your Warding Flare when you finish a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You regain all expended uses of your Warding Flare when you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to `2d6` plus your Wisdom modifier.
+In addition, whenever you use Warding Flare, you can give the target of the triggering attack a number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to `2d6` plus your Wisdom modifier.
 
 ### Corona of Light (Level 17)
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 60-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 30 feet. Your enemies in the [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
+As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 60-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 30 feet. Your enemies in the [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).

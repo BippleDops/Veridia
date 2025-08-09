@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Tome of Strahd
 *Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/tome-of-strahd.webp#right)
+![](/03_Mechanics/CLI/items/img/tome-of-strahd.webp#right)
 
 - **Weight**: 5.0 lbs.
 

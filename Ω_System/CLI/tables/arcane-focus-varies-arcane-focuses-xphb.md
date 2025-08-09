@@ -16,9 +16,9 @@ modified: 2025-07-23 12:39
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [Crystal](/3-Mechanics/CLI/items/crystal-xphb.md) | 1 lb. | 10 GP |
-| [Orb](/3-Mechanics/CLI/items/orb-xphb.md) | 3 lb. | 20 GP |
-| [Rod](/3-Mechanics/CLI/items/rod-xphb.md) | 2 lb. | 10 GP |
-| [Staff](/3-Mechanics/CLI/items/staff-xphb.md) (also a [Quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
-| [Wand](/3-Mechanics/CLI/items/wand-xphb.md) | 1 lb. | 10 GP |
+| [Crystal](/03_Mechanics/CLI/items/crystal-xphb.md) | 1 lb. | 10 GP |
+| [Orb](/03_Mechanics/CLI/items/orb-xphb.md) | 3 lb. | 20 GP |
+| [Rod](/03_Mechanics/CLI/items/rod-xphb.md) | 2 lb. | 10 GP |
+| [Staff](/03_Mechanics/CLI/items/staff-xphb.md) (also a [Quarterstaff](/03_Mechanics/CLI/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
+| [Wand](/03_Mechanics/CLI/items/wand-xphb.md) | 1 lb. | 10 GP |
 ^arcane-focuses

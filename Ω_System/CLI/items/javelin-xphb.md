@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Javelin
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/javelin.webp#right)
+![](/03_Mechanics/CLI/items/img/javelin.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

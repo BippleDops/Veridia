@@ -57,9 +57,9 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
@@ -69,19 +69,19 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 11, each creature in a 20-foot-long, 5-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
       \ 14 (4d6) Fire damage. Success: Half damage."
     "name": "Fire Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition until the end of its next turn, at which point it repeats the save.\
-      \ 2nd Failure: The target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ 2nd Failure: The target has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
       \ condition for 1 minute. This effect ends for the target if it takes damage\
       \ or a creature within 5 feet of it takes an action to wake it."
     "name": "Sleep Breath"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

@@ -18,8 +18,8 @@ modified: 2025-07-23 12:39
 
 
 
-When you take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to read this scroll, a [Colossus](/3-Mechanics/CLI/bestiary/construct/colossus-xmm.md) appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
+When you take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to read this scroll, a [Colossus](/03_Mechanics/CLI/bestiary/construct/colossus-xmm.md) appears in an unoccupied space on the ground or in water that you can see within 1 mile of yourself.
 
-The [Colossus](/3-Mechanics/CLI/bestiary/construct/colossus-xmm.md) is [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward all other creatures and disappears when it drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If the [Colossus](/3-Mechanics/CLI/bestiary/construct/colossus-xmm.md) is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
+The [Colossus](/03_Mechanics/CLI/bestiary/construct/colossus-xmm.md) is [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward all other creatures and disappears when it drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). If the [Colossus](/03_Mechanics/CLI/bestiary/construct/colossus-xmm.md) is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*

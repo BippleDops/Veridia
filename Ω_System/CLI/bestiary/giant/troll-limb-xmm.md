@@ -53,15 +53,15 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The limb regains 5 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+  - "desc": "The limb regains 5 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ at the start of each of its turns. If the limb takes Acid or Fire damage,\
       \ this trait doesn't function on the limb's next turn. The limb dies only if\
-      \ it starts its turn with 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ it starts its turn with 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "The limb uncannily has the same senses as a whole troll. If the limb\
       \ isn't destroyed within 24 hours, roll d12. On a 12, the limb turns into a\
-      \ [Troll](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md). Otherwise, the limb\
+      \ [Troll](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md). Otherwise, the limb\
       \ withers away."
     "name": "Troll Spawn"
 "actions":
@@ -69,7 +69,7 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/troll-limb-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/troll-limb-xmm.webp"
 ```
 ^statblock
 

@@ -39,7 +39,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "subtype": "goblinoid"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](/03_Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -52,15 +52,15 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
   - "desc": "Any creature that attempts to damage the nilbog must first succeed on\
-      \ a DC 12 Charisma saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ until the end of the creature's next turn. A creature [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ a DC 12 Charisma saving throw or be [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ until the end of the creature's next turn. A creature [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ in this way must use its action praising the nilbog.\n\nThe nilbog can't regain\
       \ hit points, including through magical healing, except through its Reversal\
       \ of Fortune reaction."
@@ -75,12 +75,12 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
       \ next turn."
     "name": "Mocking Word"
   - "desc": "The nilbog casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\nAt will: [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [Tasha's hideous laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)"
+      \ ability (spell save DC 12):\n\nAt will: [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [Tasha's hideous laughter](/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The nilbog takes the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)\
-      \ or [Hide](/3-Mechanics/CLI/actions.md#Hide) action."
+  - "desc": "The nilbog takes the [Disengage](/03_Mechanics/CLI/actions.md#Disengage)\
+      \ or [Hide](/03_Mechanics/CLI/actions.md#Hide) action."
     "name": "Nimble Escape"
 "reactions":
   - "desc": "In response to another creature dealing damage to the nilbog, the nilbog\
@@ -89,7 +89,7 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/nilbog-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/nilbog-mpmm.webp"
 ```
 ^statblock
 

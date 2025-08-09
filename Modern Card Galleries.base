@@ -1,12 +1,11 @@
 formulas:
-  # Monster card with modern styling
   MonsterCard: |
     js:
     const cr = target.cr || "?";
     const type = target.type || "unknown";
     const size = target.size || "";
-    const imagePath = target.image_path || `z_Assets/Placeholder Images/${type}.png`;
-    
+    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/${type}.png`;
+
     const crColor = (() => {
       const crNum = parseFloat(cr);
       if (crNum >= 20) return "#8B0000";
@@ -16,7 +15,7 @@ formulas:
       if (crNum >= 1) return "#32CD32";
       return "#90EE90";
     })();
-    
+
     return `
     <div class="modern-card monster-card" style="border: 2px solid ${crColor}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
       <div class="card-image" style="text-align: center; margin-bottom: 8px;">
@@ -26,15 +25,13 @@ formulas:
       <div class="card-subtitle" style="text-align: center; color: var(--text-muted); font-size: 0.9em;">${size} ${type}</div>
       <div class="card-cr" style="text-align: center; margin-top: 8px; padding: 4px; background: ${crColor}; color: white; border-radius: 4px; font-weight: bold;">CR ${cr}</div>
     </div>`;
-  
-  # Item card with rarity styling
   ItemCard: |
     js:
     const rarity = target.rarity || "Common";
     const type = target.type || "Item";
-    const imagePath = target.image_path || `z_Assets/Placeholder Images/Item_${type}.png`;
+    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/Item_${type}.png`;
     const attunement = target.attunement ? "⚡" : "";
-    
+
     const rarityConfig = {
       'Common': { color: '#808080', glow: 'none' },
       'Uncommon': { color: '#00FF00', glow: '0 0 8px rgba(0,255,0,0.3)' },
@@ -43,9 +40,9 @@ formulas:
       'Legendary': { color: '#FFA500', glow: '0 0 12px rgba(255,165,0,0.4)' },
       'Artifact': { color: '#FF0000', glow: '0 0 16px rgba(255,0,0,0.5)' }
     };
-    
+
     const config = rarityConfig[rarity] || rarityConfig['Common'];
-    
+
     return `
     <div class="modern-card item-card" style="border: 2px solid ${config.color}; border-radius: 12px; padding: 8px; background: var(--background-primary); box-shadow: ${config.glow};">
       <div class="card-image" style="text-align: center; margin-bottom: 8px;">
@@ -55,15 +52,13 @@ formulas:
       <div class="card-subtitle" style="text-align: center; color: var(--text-muted); font-size: 0.9em;">${type}</div>
       <div class="card-rarity" style="text-align: center; margin-top: 8px; padding: 4px; background: ${config.color}; color: white; border-radius: 4px; font-weight: bold;">${rarity}</div>
     </div>`;
-  
-  # Spell card with level and school
   SpellCard: |
     js:
     const level = target.level === 0 ? "Cantrip" : `Level ${target.level}`;
     const school = target.school || "Unknown";
     const concentration = target.concentration ? "🎯" : "";
     const ritual = target.ritual ? "📜" : "";
-    
+
     const schoolColors = {
       'abjuration': '#1E3A8A',
       'conjuration': '#7C3AED',
@@ -74,9 +69,9 @@ formulas:
       'necromancy': '#374151',
       'transmutation': '#059669'
     };
-    
+
     const color = schoolColors[school.toLowerCase()] || '#6B7280';
-    
+
     return `
     <div class="modern-card spell-card" style="border: 2px solid ${color}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
       <div class="card-header" style="text-align: center; margin-bottom: 8px;">
@@ -88,15 +83,13 @@ formulas:
         ${target.castingTime || "1 action"}
       </div>
     </div>`;
-  
-  # NPC card with relationship status
   NPCCard: |
     js:
     const relationship = target.relationship || "neutral";
     const occupation = target.occupation || "Commoner";
     const status = target.status || "active";
-    const imagePath = target.image_path || `z_Assets/Placeholder Images/Character_Default.png`;
-    
+    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/Character_Default.png`;
+
     const relationshipColors = {
       'hostile': '#DC2626',
       'unfriendly': '#EA580C',
@@ -104,17 +97,17 @@ formulas:
       'friendly': '#059669',
       'allied': '#2563EB'
     };
-    
+
     const statusIcons = {
       'active': '✅',
       'dead': '💀',
       'missing': '❓',
       'retired': '🏡'
     };
-    
+
     const relColor = relationshipColors[relationship] || '#6B7280';
     const statusIcon = statusIcons[status] || '❔';
-    
+
     return `
     <div class="modern-card npc-card" style="border: 2px solid ${relColor}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
       <div class="card-image" style="text-align: center; margin-bottom: 8px;">
@@ -125,15 +118,13 @@ formulas:
       <div class="card-status" style="text-align: center; margin-bottom: 4px;">${statusIcon} ${status}</div>
       <div class="card-relationship" style="text-align: center; margin-top: 8px; padding: 4px; background: ${relColor}; color: white; border-radius: 4px; font-weight: bold; font-size: 0.8em;">${relationship.toUpperCase()}</div>
     </div>`;
-  
-  # Location card with type and atmosphere
   LocationCard: |
     js:
     const locationType = target.location_type || "location";
     const population = target.population ? `Pop: ${target.population}` : "";
     const climate = target.climate || "";
-    const imagePath = target.image_path || target.map_path || `z_Assets/Placeholder Images/Location_Default.png`;
-    
+    const imagePath = target.image_path || target.map_path || `Ω_Assets/Placeholder Images/Location_Default.png`;
+
     const typeColors = {
       'city': '#2563EB',
       'town': '#059669',
@@ -142,9 +133,9 @@ formulas:
       'wilderness': '#166534',
       'landmark': '#7C3AED'
     };
-    
+
     const color = typeColors[locationType] || '#6B7280';
-    
+
     return `
     <div class="modern-card location-card" style="border: 2px solid ${color}; border-radius: 12px; padding: 8px; background: var(--background-primary);">
       <div class="card-image" style="text-align: center; margin-bottom: 8px;">
@@ -155,123 +146,119 @@ formulas:
       ${population ? `<div class="card-population" style="text-align: center; color: var(--text-muted); font-size: 0.8em;">${population}</div>` : ''}
       ${climate ? `<div class="card-climate" style="text-align: center; color: var(--text-muted); font-size: 0.8em;">${climate}</div>` : ''}
     </div>`;
-
 views:
-  # Modern Monster Gallery
   - type: cards
     name: Monster Cards
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/bestiary")
+        - path includes "CLI/bestiary"
+    sort:
+      - property: cr
+        direction: ASC
     columns: 5
     properties:
       - formula.MonsterCard
-    sort:
-      - column: cr
-        direction: ASC
     pageSize: 25
-    
-  # Rarity-Based Item Cards
   - type: cards
     name: Item Cards
     filters:
       and:
-        - anyOf:
-            - path.includes("3-Mechanics/Items")
-            - path.includes("3-Mechanics/CLI/items")
+        - or:
+            - path includes "03_Mechanics/Items"
+            - path includes "CLI/items"
+    sort:
+      - property: rarity
+        direction: DESC
     columns: 4
     properties:
       - formula.ItemCard
-    sort:
-      - column: rarity
-        direction: DESC
     pageSize: 20
-    
-  # Spell Cards by Level
   - type: cards
     name: Spell Cards
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/spells")
+        - path includes "CLI/spells"
         - level.equals({{level}})
+    sort:
+      - property: file.name
+        direction: ASC
     columns: 4
     properties:
       - formula.SpellCard
-    sort:
-      - column: file.name
-        direction: ASC
     pageSize: 20
     parameters:
       level:
         type: select
         options:
-          - { label: "Cantrips", value: 0 }
-          - { label: "1st Level", value: 1 }
-          - { label: "2nd Level", value: 2 }
-          - { label: "3rd Level", value: 3 }
-          - { label: "4th Level", value: 4 }
-          - { label: "5th Level", value: 5 }
-          - { label: "6th Level", value: 6 }
-          - { label: "7th Level", value: 7 }
-          - { label: "8th Level", value: 8 }
-          - { label: "9th Level", value: 9 }
-    
-  # NPC Relationship Cards
+          - label: Cantrips
+            value: 0
+          - label: 1st Level
+            value: 1
+          - label: 2nd Level
+            value: 2
+          - label: 3rd Level
+            value: 3
+          - label: 4th Level
+            value: 4
+          - label: 5th Level
+            value: 5
+          - label: 6th Level
+            value: 6
+          - label: 7th Level
+            value: 7
+          - label: 8th Level
+            value: 8
+          - label: 9th Level
+            value: 9
   - type: cards
     name: NPC Cards
     filters:
       and:
-        - tags.contains("NPC")
+        - tags includes "NPC"
+    sort:
+      - property: relationship
+        direction: DESC
     columns: 4
     properties:
       - formula.NPCCard
-    sort:
-      - column: relationship
-        direction: DESC
     pageSize: 20
-    
-  # Location Explorer Cards
   - type: cards
     name: Location Cards
     filters:
       and:
-        - tags.contains("location")
+        - tags includes "location"
+    sort:
+      - property: location_type
+        direction: ASC
     columns: 3
     properties:
       - formula.LocationCard
-    sort:
-      - column: location_type
-        direction: ASC
     pageSize: 15
-    
-  # Boss Monster Showcase
   - type: cards
     name: Boss Cards
     filters:
       and:
-        - path.includes("bestiary")
-        - anyOf:
+        - path includes "bestiary"
+        - or:
             - cr.gte(15)
             - legendary
+    sort:
+      - property: cr
+        direction: DESC
     columns: 3
     properties:
       - formula.MonsterCard
-    sort:
-      - column: cr
-        direction: DESC
-    
-  # Magic Items Only
   - type: cards
     name: Magic Item Cards
     filters:
       and:
-        - path.includes("items")
+        - path includes "items"
         - not:
-            - rarity.equals("Common")
+            - rarity == "Common"
+    sort:
+      - property: rarity
+        direction: DESC
     columns: 4
     properties:
       - formula.ItemCard
-    sort:
-      - column: rarity
-        direction: DESC
-    pageSize: 16 
+    pageSize: 16

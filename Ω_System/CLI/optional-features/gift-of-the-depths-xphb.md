@@ -15,6 +15,6 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 5 Warlock
 
-You can breathe underwater, and you gain a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md).
+You can breathe underwater, and you gain a [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md).
 
-You can also cast [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can also cast [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).

@@ -43,7 +43,7 @@ modified: 2025-07-23 12:39
 - **Components:** V, S, M (three nut shells)
 - **Duration:** Concentration, up to 1 minute
 
-Each creature in a 10-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
+Each creature in a 10-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll `d10` at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
 `dice: [](confusion-xphb.md#^1-behavior-for-the-turn)`
 
@@ -51,14 +51,14 @@ Each creature in a 10-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere
 |------------|-----------------------|
 | 1 | The target doesn't take an action, and it uses all its movement to move. Roll `d4` for the direction: **1**, north; **2**, east; **3**, south; or **4**, west. |
 | 2-6 | The target doesn't move or take actions. |
-| 7-8 | The target doesn't move, and it takes the [Attack](/3-Mechanics/CLI/actions.md#Attack) action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
+| 7-8 | The target doesn't move, and it takes the [Attack](/03_Mechanics/CLI/actions.md#Attack) action to make one melee attack against a random creature within reach. If none are within reach, the target takes no action. |
 | 9-10 | The target chooses its behavior. |
 ^1-behavior-for-the-turn
 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 
-**Using a Higher-Level Spell Slot.** The [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)'s radius increases by 5 feet for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)'s radius increases by 5 feet for each spell slot level above 4.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB"); [Paladin (Oathbreaker)](/3-Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/3-Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Knowledge Domain)](/03_Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB"); [Paladin (Oathbreaker)](/03_Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Trickery Domain)](/03_Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

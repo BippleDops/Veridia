@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 5 Warlock
 
-You can cast [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) on yourself without expending a spell slot.
+You can cast [Levitate](/03_Mechanics/CLI/spells/levitate-xphb.md) on yourself without expending a spell slot.

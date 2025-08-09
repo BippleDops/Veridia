@@ -44,11 +44,11 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "charisma": !!int "11"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison, thunder"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "23"
@@ -56,7 +56,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "The tempest can enter a hostile creature's space and stop there. It can\
       \ move through a space as narrow as 1 inch wide without squeezing."
     "name": "Air Form"
-  - "desc": "The tempest doesn't provoke [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The tempest doesn't provoke [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "If the tempest fails a saving throw, it can choose to succeed instead."
@@ -64,7 +64,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "The tempest is always at the center of a storm 1d6 + 4 miles in diameter.\
       \ Heavy precipitation in the form of either rain or snow falls there, causing\
       \ the area to be lightly obscured. Heavy rain also extinguishes open flames\
-      \ and imposes disadvantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ and imposes disadvantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on hearing. In addition, strong winds swirl in the area covered\
       \ by the storm. The winds impose disadvantage on ranged attack rolls. They also\
       \ extinguish open flames and disperse fog."
@@ -80,7 +80,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
   - "desc": "Each creature within 120 feet of the tempest must make a DC 21 Dexterity\
       \ saving throw, taking 27 (6d8) lightning damage on a failed save, or half as\
       \ much damage on a successful one. If a target's saving throw fails by 5 or\
-      \ more, the creature is also [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ more, the creature is also [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ until the end of its next turn."
     "name": "Lightning Storm (Recharge 6)"
 "legendary_actions":
@@ -99,12 +99,12 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
       \ wall or floor) or another creature, the target takes 3 (d6) bludgeoning damage\
       \ for every 10 feet it was thrown before impact. If the target collides with\
       \ another creature, that other creature must succeed on a DC 19 Dexterity saving\
-      \ throw or take the same impact damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ throw or take the same impact damage and be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Screaming Gale (Costs 3 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/elder-tempest-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/elder-tempest-mpmm.webp"
 ```
 ^statblock
 

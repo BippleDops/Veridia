@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Sickle
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/sickle.webp#right)
+![](/03_Mechanics/CLI/items/img/sickle.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.
 

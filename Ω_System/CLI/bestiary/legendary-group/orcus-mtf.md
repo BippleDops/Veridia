@@ -17,9 +17,9 @@ _Source: Mordenkainen's Tome of Foes_
 
 On Initiative count 20 (losing initiative ties), Orcus can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
-- Orcus's voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to [power word kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md). Orcus needn't see the creature, but he must be aware that the individual is in the lair.  
-- Orcus causes up to six corpses within the lair to rise as [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md), [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), or [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md). These undead obey his telepathic commands, which can reach anywhere in the lair.  
-- Orcus causes skeletal arms to rise from an area on the ground in a 20-foot square that he can see. They last until the next initiative count 20. Each creature in that area when the arms appear must succeed on a DC 23 Strength saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until the arms disappear or until Orcus releases their grasp (no action required).  
+- Orcus's voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to [power word kill](/03_Mechanics/CLI/spells/power-word-kill-xphb.md). Orcus needn't see the creature, but he must be aware that the individual is in the lair.  
+- Orcus causes up to six corpses within the lair to rise as [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md), [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md), or [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md). These undead obey his telepathic commands, which can reach anywhere in the lair.  
+- Orcus causes skeletal arms to rise from an area on the ground in a 20-foot square that he can see. They last until the next initiative count 20. Each creature in that area when the arms appear must succeed on a DC 23 Strength saving throw or be [restrained](/03_Mechanics/CLI/conditions.md#Restrained) until the arms disappear or until Orcus releases their grasp (no action required).  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

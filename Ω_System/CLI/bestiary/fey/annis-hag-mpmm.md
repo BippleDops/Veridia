@@ -23,7 +23,7 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) and [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md)), ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) and [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md)), ruling them through brute strength, insults, and superstition.
 
 ## Iron Token
 
@@ -54,9 +54,9 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 15"
@@ -72,20 +72,20 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
       \ (3d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36\
-      \ (9d6 + 5) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (9d6 + 5) bludgeoning damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 15) if it is a Large or smaller creature. Until the grapple ends,\
       \ the target takes 36 (9d6 + 5) bludgeoning damage at the start of each of the\
       \ hag's turns. The hag can't make attacks while grappling a creature in this\
       \ way."
     "name": "Crushing Hug"
   - "desc": "The hag casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 13):\n\n3/day each: [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md)\
-      \ (including the form of a Medium Humanoid), [Fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md)"
+      \ ability (spell save DC 13):\n\n3/day each: [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md)\
+      \ (including the form of a Medium Humanoid), [Fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/annis-hag-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/annis-hag-mpmm.webp"
 ```
 ^statblock
 

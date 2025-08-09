@@ -19,7 +19,7 @@ When fighting inside its lair, a balhannoth can use lair actions. On initiative 
 
 - The balhannoth warps reality around it in an area up to 500 feet square. After 10 minutes, the terrain in the area reshapes to assume the appearance of a location sought by one intelligent creature whose mind the balhannoth has read (see Regional Effects below). The transformation affects nonliving material only and can't create anything with moving parts or magical properties. Any object created in this area is, upon close inspection, revealed as a fake. Books are filled with empty pages, golden items are obvious counterfeits, and so on. The transformation lasts until the balhannoth dies or uses this lair action again.  
 - The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw or the target, along with whatever it is wearing and carrying, teleports to an unoccupied space of the balhannoth's choice within 60 feet of it.  
-- The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw or the balhannoth becomes [invisible](/3-Mechanics/CLI/conditions.md#Invisible) to that creature for 1 minute. This effect ends if the balhannoth attacks the target.  
+- The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw or the balhannoth becomes [invisible](/03_Mechanics/CLI/conditions.md#Invisible) to that creature for 1 minute. This effect ends if the balhannoth attacks the target.  
 
 ## Regional effects
 _Source: Mordenkainen's Tome of Foes_

@@ -48,7 +48,7 @@ aliases:
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d8 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 15 Constitution saving throw against disease or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ a DC 15 Constitution saving throw against disease or become [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ until the disease is cured. Every 24 hours that elapse, the target must repeat\
       \ the saving throw, reducing its hit point maximum by 5 (d10) on a failure.\
       \ The disease is cured on a success. The target dies if the disease reduces\
@@ -57,20 +57,20 @@ aliases:
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7\
       \ (1d8 + 3) bludgeoning damage plus 4 (d8) piercing damage. If the target is\
-      \ Medium or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 13) and [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ Medium or smaller, it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 13) and [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ until the grapple ends. The plant has two tentacles, each of which can grapple\
       \ one target."
     "name": "Tentacle"
-  - "desc": "The plant slams creatures [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "The plant slams creatures [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by it into each other or a solid surface. Each creature must succeed on a\
       \ DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and\
-      \ be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of the\
+      \ be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until the end of the\
       \ plant's next turn. On a successful save, the target takes half the bludgeoning\
-      \ damage and isn't [stunned](/3-Mechanics/CLI/conditions.md#Stunned)."
+      \ damage and isn't [stunned](/03_Mechanics/CLI/conditions.md#Stunned)."
     "name": "Tentacle Slam"
 "source":
   - "RoT"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/carnivorous-flower-rot.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/carnivorous-flower-rot.webp"
 ```
 ^statblock

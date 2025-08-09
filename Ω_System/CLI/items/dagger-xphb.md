@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Dagger
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/dagger.webp#right)
+![](/03_Mechanics/CLI/items/img/dagger.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 2 gp
 - **Weight**: 1.0 lbs.
 

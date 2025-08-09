@@ -41,7 +41,7 @@ aliases:
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "Aljanor has advantage on saving throws against being [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "Aljanor has advantage on saving throws against being [frightened](/03_Mechanics/CLI/conditions.md#Frightened)."
     "name": "Brave"
 "actions":
   - "desc": "Aljanor makes two melee attacks."
@@ -56,7 +56,7 @@ aliases:
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
       \ roll or a saving throw. The creature can add a d4 to its roll provided it\
       \ can hear and understand Aljanor. A creature can benefit from only one Leadership\
-      \ die at a time. This effect ends if Aljanor is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ die at a time. This effect ends if Aljanor is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "Aljanor adds 2 to its AC against one melee attack that would hit it.\
@@ -64,6 +64,6 @@ aliases:
     "name": "Parry"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/aljanor-keenblade-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/npc/token/aljanor-keenblade-oota.webp"
 ```
 ^statblock

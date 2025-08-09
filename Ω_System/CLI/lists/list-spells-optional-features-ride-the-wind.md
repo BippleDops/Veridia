@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 3rd Level
 
-- [Fly](/3-Mechanics/CLI/spells/fly-xphb.md "XPHB")
+- [Fly](/03_Mechanics/CLI/spells/fly-xphb.md "XPHB")

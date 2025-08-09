@@ -12,17 +12,17 @@ modified: 2025-07-23 12:39
 # Chapter 10: The Ruins of Berez
 *Source: Curse of Strahd, p. 161* 
 
-Long before [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), there was a peasant from Berez named Marina.
+Long before [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), there was a peasant from Berez named Marina.
 
 The vampire Strahd first met Marina in this small village on the shore of the Luna River. Marina bore a striking resemblance to Strahd's beloved Tatyana, both in appearance and manner, and she became Strahd's obsession. He seduced her in the dead of night and feasted on her blood, but before she could be turned into a vampire, the burgomaster of Berez, Lazlo Ulrich, with the aid of a local priest named Brother Grigor, killed Marina to save her soul from damnation. Enraged, Strahd slew the priest and the burgomaster, then used his power over the land to swell the river, flooding the village and forcing the residents to flee. Later the marsh crept in, preventing the villagers from returning. Berez has remained mostly abandoned since.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/098-cos10-01.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/098-cos10-01.webp#center)
 
-The ruins of Berez are now home to [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) (see appendix D), an almost mythic figure tied to Strahd's ancient past. A hermit, she spends most of her time crafting and animating scarecrows to hunt down and kill the ravens and the wereravens that infest Strahd's domain. When she isn't working evil magic, [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) sacrifices beasts to Mother Night and collects their blood, then bathes in the blood on nights of the new moon in a ritual to stave off the effects of extreme old age.
+The ruins of Berez are now home to [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) (see appendix D), an almost mythic figure tied to Strahd's ancient past. A hermit, she spends most of her time crafting and animating scarecrows to hunt down and kill the ravens and the wereravens that infest Strahd's domain. When she isn't working evil magic, [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) sacrifices beasts to Mother Night and collects their blood, then bathes in the blood on nights of the new moon in a ritual to stave off the effects of extreme old age.
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) recently stole a magic gemstone from the Wizards of Wines vineyard (chapter 12), in the hope that the wereravens who protect the vineyard will try to reclaim it. She keeps it in her hut as bait to lure her enemies to their deaths. The gem has given her hut a semblance of life.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) recently stole a magic gemstone from the Wizards of Wines vineyard (chapter 12), in the hope that the wereravens who protect the vineyard will try to reclaim it. She keeps it in her hut as bait to lure her enemies to their deaths. The gem has given her hut a semblance of life.
 
-> [!quote] A quote from [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in I, Strahd: The Memoirs of a Vampire  
+> [!quote] A quote from [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in I, Strahd: The Memoirs of a Vampire  
 > 
 > I had nothing left to give but my own life's blood, but it was hers to take. She would at last be my bride.
 
@@ -39,19 +39,19 @@ The following boxed text assumes that the characters approach Berez from the nor
 
 The river ranges in depth but is never more than 10 feet deep. Muriel Vinshaw, a wereraven in human form, lurks amid the circle of standing stones (area U6) and is using a lantern to signal the heroes. In the village proper, fog prevents a creature from seeing any other creature or object more than 120 feet away.
 
-A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by `d4` swarms of hungry flies (use the [swarm of insects (wasps)](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) stat block in the "Monster Manual"). The swarms don't trouble characters in areas U3 or U5.
+A few sections of dirt road have survived, and these places are not difficult terrain. The marsh, however, is difficult terrain. Whenever the characters take a short or long rest in the marsh, even if they barricade themselves in a ruined building, they are accosted by `d4` swarms of hungry flies (use the [swarm of insects (wasps)](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) stat block in the "Monster Manual"). The swarms don't trouble characters in areas U3 or U5.
 
 ### Marsh Scarecrows
 
-Seven [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) stand guard in the marsh. They appear to be ordinary, nonmagical scarecrows stuffed with raven feathers until one or more of them are attacked, until [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) commands them to attack, or until someone activates the howling skulls that surround [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s goat pen (see area U2).
+Seven [scarecrows](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) stand guard in the marsh. They appear to be ordinary, nonmagical scarecrows stuffed with raven feathers until one or more of them are attacked, until [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) commands them to attack, or until someone activates the howling skulls that surround [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s goat pen (see area U2).
 
 ## Areas of Berez
 
 The following areas correspond to labels on the map of Berez below.
 
 > [!gallery]
-> ![Map 10.1: The Ruins of Berez (Area U)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/099-026.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/100-cos1002.webp#gallery)
+> ![Map 10.1: The Ruins of Berez (Area U)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/099-026.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/100-cos1002.webp#gallery)
 
 ### U1. Abandoned Cottages
 
@@ -69,14 +69,14 @@ The cottages contain rotted furnishings and nothing of value. The walls that sep
 > Toward the south end of the village lie the remains of a mansion built on higher ground. It has been reduced to piles of stone and rotting timber. Empty, arched windows stare at you. South of the ruin, an untamed garden runs rampant, surrounded by broken walls that are no longer able to contain it. East of the ruin, someone has erected a crude wooden fence, forming a circular yard in which several goats are penned. Surmounting the fence posts are human skulls.
 ^555
 
-The ruined mansion is littered with the rotted remains of furniture and decor. The last burgomaster of Berez, Lazlo Ulrich, haunts the ruin as a [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md). If the characters search the mansion, the ghost appears before them:
+The ruined mansion is littered with the rotted remains of furniture and decor. The last burgomaster of Berez, Lazlo Ulrich, haunts the ruin as a [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md). If the characters search the mansion, the ghost appears before them:
 
 > [!readaloud] 
 > 
 > A ghost takes shape in the fog, assuming the form of a giant of a man, his features mutilated and his entrails hanging out like frayed ropes. Despite its intimidating presence, the apparition has a cringing light in its eyes. "Why do you invade my home? Begone, I beseech you!"
 ^556
 
-Strahd refuses to let Burgomaster Ulrich's spirit find rest because of what he did to poor Marina. The ghost recounts Marina's sad tale if prompted. Only by convincing Ulrich that Marina has been reborn in the form of [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) can the characters put the tortured spirit to rest. The ghost must see Ireena in the flesh, and it can't travel beyond the confines of the crumbled mansion.
+Strahd refuses to let Burgomaster Ulrich's spirit find rest because of what he did to poor Marina. The ghost recounts Marina's sad tale if prompted. Only by convincing Ulrich that Marina has been reborn in the form of [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) can the characters put the tortured spirit to rest. The ghost must see Ireena in the flesh, and it can't travel beyond the confines of the crumbled mansion.
 
 Ulrich's ghost is neutral good. It attacks if threatened or if the characters begin searching the ruined mansion for treasure. If the ghost is reduced to 0 hit points, it re-forms after 24 hours. The characters receive experience points for the ghost only if they lay Ulrich's spirit to rest, not if they defeat the ghost in combat.
 
@@ -99,13 +99,13 @@ Buried under rubble inside the mansion is a stone staircase that leads down to a
 
 The garden behind the ruined mansion has run wild. Hidden behind tall weeds and thorny vines are nude sculptures of handsome men and beautiful women, as well as carved stone benches.
 
-Four [giant poisonous snakes](/3-Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md) attack characters who venture more than 10 feet inside the garden.
+Four [giant poisonous snakes](/03_Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md) attack characters who venture more than 10 feet inside the garden.
 
 #### Goat Pen
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) captures goats and uses their blood in her rituals of longevity. Nine [goats](/3-Mechanics/CLI/bestiary/beast/goat-xmm.md) are trapped behind this fence. Fifty human skulls are mounted on the tops of the fence posts, spaced 10 feet apart.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) captures goats and uses their blood in her rituals of longevity. Nine [goats](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md) are trapped behind this fence. Fifty human skulls are mounted on the tops of the fence posts, spaced 10 feet apart.
 
-There is no gate in the fence, and [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) uses her flying skull (see area U3) to enter and leave the pen. If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md), who arrives in her flying skull on initiative count 20 in 2 rounds. The howling skulls also attract the seven [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) in the marsh (see "Marsh Scarecrows" above). Roll initiative once for all the scarecrows.
+There is no gate in the fence, and [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) uses her flying skull (see area U3) to enter and leave the pen. If the characters try to set the goats free by dismantling or damaging part of the fence, the skulls atop the fence posts begin howling and continue to howl for 1 minute. The racket attracts [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md), who arrives in her flying skull on initiative count 20 in 2 rounds. The howling skulls also attract the seven [scarecrows](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) in the marsh (see "Marsh Scarecrows" above). Roll initiative once for all the scarecrows.
 
 ### U3. Baba Lysaga's Hut
 
@@ -117,16 +117,16 @@ There is no gate in the fence, and [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/b
 ^55d
 
 > [!gallery]
-> ![Map 10.2: Baba Lysaga's Creeping Hut](/3-Mechanics/CLI/adventures/curse-of-strahd/img/101-cos10-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/102-cos1001.webp#gallery)
+> ![Map 10.2: Baba Lysaga's Creeping Hut](/03_Mechanics/CLI/adventures/curse-of-strahd/img/101-cos10-02.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/102-cos1001.webp#gallery)
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) (see appendix D) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in area U2 or sounds of combat nearby are loud enough to be heard over the squawking.
 
-Inside each cage is a [swarm of ravens](/3-Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) that fiercely attacks [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) and her [scarecrows](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) if released. Each cage is held shut by one of [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spells, and opening it requires a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check.
+Inside each cage is a [swarm of ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) that fiercely attacks [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) and her [scarecrows](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) if released. Each cage is held shut by one of [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md) spells, and opening it requires a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or a successful DC 20 Strength check. A character can also pick the lock with thieves' tools and a successful DC 20 Dexterity check.
 
 #### Giant Skull
 
-The upside-down skull that floats next to the hut is a hill giant's skull that [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has hollowed out and transformed into a vehicle. It hovers in place until [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) commands it to fly, which she can do only while inside it. It has a flying speed of 40 feet. No one else can control the skull. A creature inside the skull has three-quarters cover against attacks made from outside the skull. The skull is big enough to hold one Medium creature. It has AC 15, 50 hit points, and immunity to poison and psychic damage.
+The upside-down skull that floats next to the hut is a hill giant's skull that [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has hollowed out and transformed into a vehicle. It hovers in place until [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) commands it to fly, which she can do only while inside it. It has a flying speed of 40 feet. No one else can control the skull. A creature inside the skull has three-quarters cover against attacks made from outside the skull. The skull is big enough to hold one Medium creature. It has AC 15, 50 hit points, and immunity to poison and psychic damage.
 
 #### Hut Interior
 
@@ -135,23 +135,23 @@ The upside-down skull that floats next to the hut is a hill giant's skull that [
 > The hut is fifteen feet on a side and packed with old furniture, including a wooden cot, a wicker cabinet, a slender wardrobe, a wooden table, a stool, a barrel-topped wooden chest reinforced with brass bands, and an iron tub stained with blood. In the middle of the room is a ghastly wooden crib with a small, angelic child sitting in it. All the furnishings except for the crib are bolted to the floor. Beneath the crib, green light seeps up through cracks between the rotting floorboards.
 ^560
 
-The child and the crib are illusions created by [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) using a [programmed illusion](/3-Mechanics/CLI/spells/programmed-illusion-xphb.md) spell. [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) refers to the child as "Strahd" and created the illusion out of madness, because she considers herself a protective mother.
+The child and the crib are illusions created by [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) using a [programmed illusion](/03_Mechanics/CLI/spells/programmed-illusion-xphb.md) spell. [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) refers to the child as "Strahd" and created the illusion out of madness, because she considers herself a protective mother.
 
-Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) took from the Wizard of the Wines winery. This gem animates the hut (see "The Creeping Hut" in the "Special Events" section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see "Baba Lysaga's Creeping Hut" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) took from the Wizard of the Wines winery. This gem animates the hut (see "The Creeping Hut" in the "Special Events" section below). The floorboards can be ripped up or smashed with a successful DC 14 Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see "Baba Lysaga's Creeping Hut" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see "Gifts of Mother Night" in the "[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)" section in appendix D). If the characters approach the hut at an appropriate time without being noticed, they can see [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) bathing.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see "Gifts of Mother Night" in the "[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)" section in appendix D). If the characters approach the hut at an appropriate time without being noticed, they can see [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) bathing.
 
 #### Treasure
 
-The wooden chest in the hut is protected by a [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) that requires a successful DC 17 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check to find. The glyph deals `5d8` thunder damage when triggered. Opening the lid releases four [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) that fight until destroyed. Also contained in the chest are various items that [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has taken from dead adventurers over the years:
+The wooden chest in the hut is protected by a [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) that requires a successful DC 17 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check to find. The glyph deals `5d8` thunder damage when triggered. Opening the lid releases four [crawling claws](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) that fight until destroyed. Also contained in the chest are various items that [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has taken from dead adventurers over the years:
 
 - 1,300 gp  
 - Five 500 gp gemstones  
-- A vial containing [oil of sharpness](/3-Mechanics/CLI/items/oil-of-sharpness-xdmg.md)  
-- Two [spell scrolls](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([mass cure wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) and [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md))  
-- A pouch containing ten [+1 sling bullets](/3-Mechanics/CLI/items/1-ammunition-xdmg.md)  
-- A set of [pipes of haunting](/3-Mechanics/CLI/items/pipes-of-haunting-xdmg.md)  
-- A [stone of good luck (luckstone)](/3-Mechanics/CLI/items/stone-of-good-luck-xdmg.md)  
+- A vial containing [oil of sharpness](/03_Mechanics/CLI/items/oil-of-sharpness-xdmg.md)  
+- Two [spell scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([mass cure wounds](/03_Mechanics/CLI/spells/mass-cure-wounds-xphb.md) and [revivify](/03_Mechanics/CLI/spells/revivify-xphb.md))  
+- A pouch containing ten [+1 sling bullets](/03_Mechanics/CLI/items/1-ammunition-xdmg.md)  
+- A set of [pipes of haunting](/03_Mechanics/CLI/items/pipes-of-haunting-xdmg.md)  
+- A [stone of good luck (luckstone)](/03_Mechanics/CLI/items/stone-of-good-luck-xdmg.md)  
 
 #### Fortunes of Ravenloft
 
@@ -168,13 +168,13 @@ Rotted coffins and moldy bones are buried in the graveyard. Characters who explo
 
 ### U5. Marina's Monument
 
-Strahd had this monument erected after Marina's death. The monument is hidden in the marsh, and the characters aren't likely to find it on their own unless they scour the area thoroughly. If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points them to this location before fading away. Without Ulrich's guidance, the characters must enter the square in which the monument is located and search that area. A character who searches the area for 10 minutes can make a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check, finding the monument on a success. If the monument isn't found, the check can be repeated after another 10 minutes of searching.
+Strahd had this monument erected after Marina's death. The monument is hidden in the marsh, and the characters aren't likely to find it on their own unless they scour the area thoroughly. If they lay Burgomaster Ulrich's spirit to rest (see area U2), it points them to this location before fading away. Without Ulrich's guidance, the characters must enter the square in which the monument is located and search that area. A character who searches the area for 10 minutes can make a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check, finding the monument on a success. If the monument isn't found, the check can be repeated after another 10 minutes of searching.
 
-The following boxed text assumes that the characters have met [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md). If they have not, don't read the sentence that mentions her.
+The following boxed text assumes that the characters have met [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md). If they have not, don't read the sentence that mentions her.
 
 > [!readaloud] 
 > 
-> Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md). Carved into the monument's base is an epitaph.
+> Hidden by the fog and elevated a few feet above the surrounding marsh is a raised plot of land, barely ten feet on a side, enclosed by a disintegrating iron fence. In the center of the plot is a life-sized stone monument carved in the likeness of a kneeling peasant girl clutching a rose. Although her features are gray and weatherworn, she bears a striking resemblance to [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md). Carved into the monument's base is an epitaph.
 ^566
 
 The epitaph reads as follows: Marina, Taken by the Mists.
@@ -190,7 +190,7 @@ If the characters disturb the monument, read:
 > The croaking frogs and chirping crickets fall silent, and the stench of decay grows strong. You hear the trudge of heavy footsteps through mud and water as bloated gray shapes shamble out of the fog.
 ^568
 
-Seven distended human corpses have risen from the mire west of the monument. These [walking corpses](/3-Mechanics/CLI/bestiary/humanoid/walking-corpse-cos.md) are 60 feet away when first seen. Use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a [swarm of poisonous snakes](/3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md). The snakes are hungry and fight until slain.
+Seven distended human corpses have risen from the mire west of the monument. These [walking corpses](/03_Mechanics/CLI/bestiary/humanoid/walking-corpse-cos.md) are 60 feet away when first seen. Use the [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) statistics for the corpses, but reduce their walking speed to 20 feet and give them immunity to the [charmed](/03_Mechanics/CLI/conditions.md#Charmed) and [frightened](/03_Mechanics/CLI/conditions.md#Frightened) conditions. When a corpse is reduced to 0 hit points, it splits open, disgorging a [swarm of poisonous snakes](/03_Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md). The snakes are hungry and fight until slain.
 
 Characters can take the treasure and flee, easily outpacing the snake-swollen corpses.
 
@@ -201,15 +201,15 @@ Characters can take the treasure and flee, easily outpacing the snake-swollen co
 > A dozen moss-covered menhirs form a near-perfect circle in the spongy earth. These weathered stones range in height from 15 to 18 feet. A couple of them lean inward as if to share some great secret with their inscrutable neighbors. A wary-looking peasant woman lurks behind the tallest stone, a rusty lantern clutched in one gnarled hand and a dagger clutched in the other.
 ^56a
 
-The woman is Muriel Vinshaw, a [wereraven](/3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) (see appendix D) and friend of the Martikov family (see chapters 5 and 12). A resident of Vallaki, Muriel spies on [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) for her fellow wereravens. However, she avoids the village proper, preferring to lurk on the outskirts. If the characters allow her to speak, Muriel warns them about the dangers of Berez and arms them with the following information:
+The woman is Muriel Vinshaw, a [wereraven](/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) (see appendix D) and friend of the Martikov family (see chapters 5 and 12). A resident of Vallaki, Muriel spies on [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) for her fellow wereravens. However, she avoids the village proper, preferring to lurk on the outskirts. If the characters allow her to speak, Muriel warns them about the dangers of Berez and arms them with the following information:
 
 - Berez was abandoned long ago after the river rose and flooded the village.  
-- An ancient and powerful hag named [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) lives in a hut in the middle of the village. When not in her hut, [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) flies around in a giant skull.  
-- The scarecrows of Berez are murderous creatures under the hag's control. They surround [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s hut and serve as an early warning system.  
-- [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) periodically sends her scarecrows to attack the Wizard of Wines, a winery and vineyard west of Berez. She's made enemies of the Martikov family, which owns and operates the winery and vineyard.  
-- The hag has trapped several mountain goats in a pen near the ruins of an old mansion. (Muriel assumes that [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) feeds on these animals.)  
+- An ancient and powerful hag named [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) lives in a hut in the middle of the village. When not in her hut, [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) flies around in a giant skull.  
+- The scarecrows of Berez are murderous creatures under the hag's control. They surround [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s hut and serve as an early warning system.  
+- [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) periodically sends her scarecrows to attack the Wizard of Wines, a winery and vineyard west of Berez. She's made enemies of the Martikov family, which owns and operates the winery and vineyard.  
+- The hag has trapped several mountain goats in a pen near the ruins of an old mansion. (Muriel assumes that [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) feeds on these animals.)  
 
-Muriel avoids combat and flees if attacked. She conceals her lycanthropic nature for as long as possible, and she doesn't willingly identify other wereravens with whom she's acquainted. She can't be persuaded to accompany the characters if they decide to confront [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md). However, Muriel knows Barovia well enough to point out other nearby locations that might interest the adventurers, including the ruined mansion of Argynvostholt (see chapter 7) and the ancient burial ground known as Yester Hill (see chapter 14). Muriel grew up hearing stories about the druids of Yester Hill, specifically how they turned away from their ancient beliefs to worship the devil Strahd. Muriel knows that the druids visit the circle of standing stones from time to time, and she does her best to avoid them.
+Muriel avoids combat and flees if attacked. She conceals her lycanthropic nature for as long as possible, and she doesn't willingly identify other wereravens with whom she's acquainted. She can't be persuaded to accompany the characters if they decide to confront [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md). However, Muriel knows Barovia well enough to point out other nearby locations that might interest the adventurers, including the ruined mansion of Argynvostholt (see chapter 7) and the ancient burial ground known as Yester Hill (see chapter 14). Muriel grew up hearing stories about the druids of Yester Hill, specifically how they turned away from their ancient beliefs to worship the devil Strahd. Muriel knows that the druids visit the circle of standing stones from time to time, and she does her best to avoid them.
 
 #### Circle of Standing Stones
 
@@ -229,14 +229,14 @@ You can use one or both of the following special events while the characters are
 
 ### Creeping Hut
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has given a semblance of life to her hut using a magic gemstone stolen from the Wizard of Wines vineyard. If the characters overstay their welcome, she commands the hut to animate and attack them. If this happens, read:
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has given a semblance of life to her hut using a magic gemstone stolen from the Wizard of Wines vineyard. If the characters overstay their welcome, she commands the hut to animate and attack them. If this happens, read:
 
 > [!readaloud] 
 > 
 > The giant roots beneath the hut come to life and pull themselves up out of the mire. The hut and the roots lurch and groan, becoming a lumbering mass that cracks as it walks, crushing all in its path.
 ^56e
 
-[Baba Lysaga's creeping hut](/3-Mechanics/CLI/bestiary/npc/baba-lysagas-creeping-hut-cos.md) (see appendix D) is a ponderous construct that heeds [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s instructions and no one else's. It fights until destroyed or until the gemstone that animates it is removed or destroyed. [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) does everything she can to keep the characters from obtaining the gemstone, without which the hut is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+[Baba Lysaga's creeping hut](/03_Mechanics/CLI/bestiary/npc/baba-lysagas-creeping-hut-cos.md) (see appendix D) is a ponderous construct that heeds [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s instructions and no one else's. It fights until destroyed or until the gemstone that animates it is removed or destroyed. [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) does everything she can to keep the characters from obtaining the gemstone, without which the hut is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Lost Battlefield
 
@@ -258,4 +258,4 @@ If the characters have not yet explored Argynvostholt (chapter 7), add:
 
 The dragon, like the soldiers, is a harmless phantom. The mansion that the characters see is Argynvostholt.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/103-cos10-04.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/103-cos10-04.webp#center)

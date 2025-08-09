@@ -16,13 +16,13 @@ modified: 2025-07-23 12:39
 ---
 # Trident
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/trident.webp#right)
+![](/03_Mechanics/CLI/items/img/trident.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 

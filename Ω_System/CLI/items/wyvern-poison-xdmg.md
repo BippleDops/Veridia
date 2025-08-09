@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 *Adventuring gear, poison (injury)*  
 
 
-- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
+- **Properties**: [Poison](/03_Mechanics/CLI/item-properties.md#Poison)
 - **Cost**: 1,200 gp
 
 A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (`7d6`) Poison damage on a failed save or half as much damage on a successful one.

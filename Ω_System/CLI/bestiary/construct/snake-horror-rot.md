@@ -21,7 +21,7 @@ aliases:
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "20"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[plate armor](/03_Mechanics/CLI/items/plate-armor-xphb.md), [shield](/03_Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "1"
@@ -34,15 +34,15 @@ aliases:
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "force, necrotic, poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"
@@ -51,8 +51,8 @@ aliases:
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The snake horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [heat\
-      \ metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md), and [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)."
+      \ immunities include [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md), [heat\
+      \ metal](/03_Mechanics/CLI/spells/heat-metal-xphb.md), and [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)."
     "name": "Spell Immunity"
 "actions":
   - "desc": "The snake horror makes two longsword attacks."
@@ -64,6 +64,6 @@ aliases:
     "name": "Longsword"
 "source":
   - "RoT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/snake-horror-rot.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/snake-horror-rot.webp"
 ```
 ^statblock

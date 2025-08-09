@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Confusion](/3-Mechanics/CLI/spells/confusion-xphb.md "XPHB")
+- [Confusion](/03_Mechanics/CLI/spells/confusion-xphb.md "XPHB")

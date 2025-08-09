@@ -33,7 +33,7 @@ aliases:
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

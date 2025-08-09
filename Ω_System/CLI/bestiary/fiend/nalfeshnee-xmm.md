@@ -58,17 +58,17 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
   - "charisma": !!int "7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The nalfeshnee has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The nalfeshnee has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -81,9 +81,9 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
       \ see."
     "name": "Teleport"
 "bonus_actions":
-  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the\
-      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
+      \ target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition\
       \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\
       \ out of line of sight. Success: The target is immune to this nalfeshnee's\
       \ Horror Nimbus for 24 hours."
@@ -95,7 +95,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
     "name": "Pursuit"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/nalfeshnee-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/nalfeshnee-xmm.webp"
 ```
 ^statblock
 

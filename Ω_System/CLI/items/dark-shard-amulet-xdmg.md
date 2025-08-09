@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Dark Shard Amulet
 *Wondrous item, common (requires attunement by a warlock)*  
-![](/3-Mechanics/CLI/items/img/dark-shard-amulet.webp#right)
+![](/03_Mechanics/CLI/items/img/dark-shard-amulet.webp#right)
 
 - **Weight**: 1.0 lbs.
 
@@ -23,10 +23,10 @@ This amulet is fashioned from a shard of resilient material originating from an 
 
 ## Spellcasting Focus
 
-You can use the amulet as a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Warlock spells.
+You can use the amulet as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Warlock spells.
 
 ## Unknown Spell
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a DC 10 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a DC 10 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 248*

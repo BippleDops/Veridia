@@ -19,6 +19,6 @@ modified: 2025-07-23 12:39
 
 - **Cost**: 50 gp
 
-As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can drink a vial of Antitoxin to gain [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour.
+As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can drink a vial of Antitoxin to gain [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour.
 
 *Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

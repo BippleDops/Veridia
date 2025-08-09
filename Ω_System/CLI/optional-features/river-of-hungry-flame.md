@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md).
+You can spend 5 ki points to cast [wall of fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md).

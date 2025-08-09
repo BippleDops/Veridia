@@ -33,8 +33,8 @@ aliases:
   - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -44,12 +44,12 @@ aliases:
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
       \ + 2) slashing damage. If the target is a creature other than an elf or undead,\
-      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claws"
 "source":
   - "PotA"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/aquatic-ghoul-pota.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/aquatic-ghoul-pota.webp"
 ```
 ^statblock

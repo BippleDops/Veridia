@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Shortsword
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/shortsword.webp#right)
+![](/03_Mechanics/CLI/items/img/shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

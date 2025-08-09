@@ -60,11 +60,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - "desc": "The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 60 ft., one target. Hit: 21\
-      \ (4d8 + 3) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (4d8 + 3) piercing damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two\
       \ harpoon arms and can grapple up to two creatures at once."
     "name": "Harpoon Arm"
-  - "desc": "Each creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by\
+  - "desc": "Each creature [grappled](/03_Mechanics/CLI/conditions.md#Grappled) by\
       \ the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic\
       \ damage on a failed save, or half as much damage on a successful one. In either\
       \ case, the sorrowsworn pulls each of those creatures up to 30 feet straight\
@@ -73,7 +73,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/lonely-sorrowsworn-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/lonely-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

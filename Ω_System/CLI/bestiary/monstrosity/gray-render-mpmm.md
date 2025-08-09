@@ -67,7 +67,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
   - "strength": !!int "8"
   - "constitution": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
@@ -77,11 +77,11 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 17\
       \ (2d12 + 4) piercing damage. If the target is Medium or smaller, the target\
-      \ must succeed on a DC 16 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ must succeed on a DC 16 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13\
       \ (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning damage if the target\
-      \ is [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ is [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Claw"
 "reactions":
   - "desc": "When the gray render takes damage, it makes one Claw attack against a\
@@ -90,7 +90,7 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/gray-render-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/gray-render-mpmm.webp"
 ```
 ^statblock
 

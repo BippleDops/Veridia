@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
-**Prerequisite**: [Dragonborn](/3-Mechanics/CLI/races/dragonborn-xphb.md)
+**Prerequisite**: [Dragonborn](/03_Mechanics/CLI/races/dragonborn-xphb.md)
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 

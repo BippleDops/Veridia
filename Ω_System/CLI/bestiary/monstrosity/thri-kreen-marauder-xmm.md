@@ -51,11 +51,11 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Thri-kreen; telepathy 60 ft."
@@ -74,7 +74,7 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-marauder-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-marauder-xmm.webp"
 ```
 ^statblock
 

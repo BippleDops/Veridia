@@ -22,9 +22,9 @@ formulas:
         'undead': 'Undead'
       };
       const imgType = typeMap[target.type] || 'Monster';
-      return `![[z_Assets/Placeholder Images/${imgType}.png|120]]`;
+      return `![[Ω_Assets/Placeholder Images/${imgType}.png|120]]`;
     }
-    return `![[z_Assets/Placeholder Images/Monster_Default.png|120]]`;
+    return `![[Ω_Assets/Placeholder Images/Monster_Default.png|120]]`;
   
   # CR Display with color coding
   CRDisplay: |
@@ -77,11 +77,11 @@ formulas:
     return '';
 
 views:
-  - type: gallery
+  - type: cards
     name: Monster Gallery
     filters:
       and:
-        - folder.startsWith("3-Mechanics/CLI/bestiary")
+        - path includes "CLI/bestiary"
     columns: 4
     properties:
       - formula.MonsterImage
@@ -121,7 +121,7 @@ views:
     name: Boss Gallery
     filters:
       and:
-        - anyOf:
+        - or:
             - legendary
             - mythic
             - unique
@@ -135,7 +135,7 @@ views:
       - formula.SizeType
       - formula.CombatStats
     
-  - type: gallery
+  - type: cards
     name: By Environment
     filters:
       and:

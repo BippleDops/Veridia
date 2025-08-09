@@ -54,7 +54,7 @@ modified: 2025-07-23 12:39
 
 ### Tempest Domain (Level 3)
 
-Gods whose portfolios include the Tempest domain—including Talos, Umberlee, Kord, [Zeboim](/3-Mechanics/CLI/deities/dragonlance-zeboim-phb.md), [the Devourer](/3-Mechanics/CLI/deities/eberron-the-devourer.md), [Zeus](/3-Mechanics/CLI/deities/greek-zeus.md), and [Thor](/3-Mechanics/CLI/deities/norse-thor.md)—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
+Gods whose portfolios include the Tempest domain—including Talos, Umberlee, Kord, [Zeboim](/03_Mechanics/CLI/deities/dragonlance-zeboim-phb.md), [the Devourer](/03_Mechanics/CLI/deities/eberron-the-devourer.md), [Zeus](/03_Mechanics/CLI/deities/greek-zeus.md), and [Thor](/03_Mechanics/CLI/deities/norse-thor.md)—govern storms, sea, and sky. They include gods of lightning and thunder, gods of earthquakes, some fire gods, and certain gods of violence, physical strength, and courage. In some pantheons, a god of this domain rules over other deities and is known for swift justice delivered by thunderbolts. In the pantheons of seafaring people, gods of this domain are ocean deities and the patrons of sailors. Tempest gods send their clerics to inspire fear in the common folk, either to keep those folk on the path of righteousness or to encourage them to offer sacrifices of propitiation to ward off divine wrath.
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -62,11 +62,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) |
-| 3rd | [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [shatter](/3-Mechanics/CLI/spells/shatter-xphb.md) |
-| 5th | [call lightning](/3-Mechanics/CLI/spells/call-lightning-xphb.md), [sleet storm](/3-Mechanics/CLI/spells/sleet-storm-xphb.md) |
-| 7th | [control water](/3-Mechanics/CLI/spells/control-water-xphb.md), [ice storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md) |
-| 9th | [destructive wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md), [insect plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md) |
+| 1st | [fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md), [thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md) |
+| 3rd | [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md), [shatter](/03_Mechanics/CLI/spells/shatter-xphb.md) |
+| 5th | [call lightning](/03_Mechanics/CLI/spells/call-lightning-xphb.md), [sleet storm](/03_Mechanics/CLI/spells/sleet-storm-xphb.md) |
+| 7th | [control water](/03_Mechanics/CLI/spells/control-water-xphb.md), [ice storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md) |
+| 9th | [destructive wave](/03_Mechanics/CLI/spells/destructive-wave-xphb.md), [insect plague](/03_Mechanics/CLI/spells/insect-plague-xphb.md) |
 ^tempest-domain-spells
 
 ### Bonus Proficiencies (Level 1)

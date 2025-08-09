@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 
 | Ship | Speed | Crew | Passengers | Cargo (Tons) | AC | HP | Damage Threshold | Cost |
 |------|-------|------|------------|--------------|----|----|------------------|------|
-| [Airship](/3-Mechanics/CLI/items/airship-xphb.md) | 8 mph | 10 | 20 | 1 | 13 | 300 | — | 40,000 GP |
-| [Galley](/3-Mechanics/CLI/items/galley-xphb.md) | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30,000 GP |
-| [Keelboat](/3-Mechanics/CLI/items/keelboat-xphb.md) | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3,000 GP |
-| [Longship](/3-Mechanics/CLI/items/longship-xphb.md) | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10,000 GP |
-| [Rowboat](/3-Mechanics/CLI/items/rowboat-xphb.md) | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
-| [Sailing Ship](/3-Mechanics/CLI/items/sailing-ship-xphb.md) | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
-| [Warship](/3-Mechanics/CLI/items/warship-xphb.md) | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
+| [Airship](/03_Mechanics/CLI/items/airship-xphb.md) | 8 mph | 10 | 20 | 1 | 13 | 300 | — | 40,000 GP |
+| [Galley](/03_Mechanics/CLI/items/galley-xphb.md) | 4 mph | 80 | — | 150 | 15 | 500 | 20 | 30,000 GP |
+| [Keelboat](/03_Mechanics/CLI/items/keelboat-xphb.md) | 1 mph | 1 | 6 | 1/2 | 15 | 100 | 10 | 3,000 GP |
+| [Longship](/03_Mechanics/CLI/items/longship-xphb.md) | 3 mph | 40 | 150 | 10 | 15 | 300 | 15 | 10,000 GP |
+| [Rowboat](/03_Mechanics/CLI/items/rowboat-xphb.md) | 1½ mph | 1 | 3 | — | 11 | 50 | — | 50 GP |
+| [Sailing Ship](/03_Mechanics/CLI/items/sailing-ship-xphb.md) | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
+| [Warship](/03_Mechanics/CLI/items/warship-xphb.md) | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
 ^airborne-and-waterborne-vehicles

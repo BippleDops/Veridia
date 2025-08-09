@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Kenku
 *Source: Volo's Guide to Monsters p. 109*  
-![](/3-Mechanics/CLI/races/img/kenku.webp#right)
+![](/03_Mechanics/CLI/races/img/kenku.webp#right)
 
 - **Ability Scores**: dex +2 wis +1
 - **Size**: Medium
@@ -34,11 +34,11 @@ You can duplicate other creatures' handwriting and craftwork. You have advantage
 
 ### Kenku Training
 
-You are proficient in your choice of two of the following skills: [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth), and [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand).
+You are proficient in your choice of two of the following skills: [Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics), [Deception](/03_Mechanics/CLI/skills.md#Deception), [Stealth](/03_Mechanics/CLI/skills.md#Stealth), and [Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand).
 
 ### Mimicry
 
-You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check opposed by your Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check.
+You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check opposed by your Charisma ([Deception](/03_Mechanics/CLI/skills.md#Deception)) check.
 
 ### Languages
 

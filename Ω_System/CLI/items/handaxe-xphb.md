@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Handaxe
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/handaxe.webp#right)
+![](/03_Mechanics/CLI/items/img/handaxe.webp#right)
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

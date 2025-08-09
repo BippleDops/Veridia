@@ -43,8 +43,8 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "saves":
   - "wisdom": !!int "1"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"
@@ -84,7 +84,7 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/spawn-of-kyuss-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/spawn-of-kyuss-mpmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Tiefling (Mephistopheles)
 *Source: Mordenkainen's Tome of Foes p. 23*  
-![](/3-Mechanics/CLI/races/img/tiefling.webp#right)
+![](/03_Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 int +1
 - **Size**: Medium
@@ -39,7 +39,7 @@ You have resistance to fire damage.
 
 ### Legacy of Cania
 
-You know the [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip. When you reach 3rd level, you can cast the [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [flame blade](/3-Mechanics/CLI/spells/flame-blade-xphb.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) cantrip. When you reach 3rd level, you can cast the [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [flame blade](/03_Mechanics/CLI/spells/flame-blade-xphb.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

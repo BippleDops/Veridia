@@ -54,7 +54,7 @@ modified: 2025-07-23 12:39
 
 ### Knowledge Domain (Level 3)
 
-The gods of knowledge—including Oghma, Boccob, [Gilean](/3-Mechanics/CLI/deities/dragonlance-gilean-phb.md), [Aureon](/3-Mechanics/CLI/deities/eberron-aureon.md), and [Thoth](/3-Mechanics/CLI/deities/egyptian-thoth.md)—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [Reorx](/3-Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/3-Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/3-Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/3-Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/3-Mechanics/CLI/deities/celtic-goibhniu.md).
+The gods of knowledge—including Oghma, Boccob, [Gilean](/03_Mechanics/CLI/deities/dragonlance-gilean-phb.md), [Aureon](/03_Mechanics/CLI/deities/eberron-aureon.md), and [Thoth](/03_Mechanics/CLI/deities/egyptian-thoth.md)—value learning and understanding above all. Some teach that knowledge is to be gathered and shared in libraries and universities, or promote the practical knowledge of craft and invention. Some deities hoard knowledge and keep its secrets to themselves. And some promise their followers that they will gain tremendous power if they unlock the secrets of the multiverse. Followers of these gods study esoteric lore, collect old tomes, delve into the secret places of the earth, and learn all they can. Some gods of knowledge promote the practical knowledge of craft and invention, including smith deities like Gond, [Reorx](/03_Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/03_Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/03_Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/03_Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/03_Mechanics/CLI/deities/celtic-goibhniu.md).
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -62,16 +62,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [command](/3-Mechanics/CLI/spells/command-xphb.md), [identify](/3-Mechanics/CLI/spells/identify-xphb.md) |
-| 3rd | [augury](/3-Mechanics/CLI/spells/augury-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) |
-| 5th | [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md), [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) |
-| 7th | [arcane eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md) |
-| 9th | [legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md), [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) |
+| 1st | [command](/03_Mechanics/CLI/spells/command-xphb.md), [identify](/03_Mechanics/CLI/spells/identify-xphb.md) |
+| 3rd | [augury](/03_Mechanics/CLI/spells/augury-xphb.md), [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md) |
+| 5th | [nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md), [speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) |
+| 7th | [arcane eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md), [confusion](/03_Mechanics/CLI/spells/confusion-xphb.md) |
+| 9th | [legend lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md), [scrying](/03_Mechanics/CLI/spells/scrying-xphb.md) |
 ^knowledge-domain-spells
 
 ### Blessings of Knowledge (Level 1)
 
-At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Nature](/3-Mechanics/CLI/skills.md#Nature), or [Religion](/3-Mechanics/CLI/skills.md#Religion).
+At 1st level, you learn two languages of your choice. You also become proficient in your choice of two of the following skills: [Arcana](/03_Mechanics/CLI/skills.md#Arcana), [History](/03_Mechanics/CLI/skills.md#History), [Nature](/03_Mechanics/CLI/skills.md#Nature), or [Religion](/03_Mechanics/CLI/skills.md#Religion).
 
 Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
 
@@ -87,11 +87,11 @@ As an action, choose one creature that you can see within 60 feet of you. That c
 
 If the creature fails its save, you can read its surface thoughts (those foremost in its mind, reflecting its current emotions and what it is actively thinking about) when it is within 60 feet of you. This effect lasts for 1 minute.
 
-During that time, you can use your action to end this effect and cast the [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
+During that time, you can use your action to end this effect and cast the [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md) spell on the creature without expending a spell slot. The target automatically fails its saving throw against the spell.
 
 ### Visions of the Past (Level 17)
 
-Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [concentration](/3-Mechanics/CLI/conditions.md#Concentration) during that time, as if you were casting a spell.
+Starting at 17th level, you can call up visions of the past that relate to an object you hold or your immediate surroundings. You spend at least 1 minute in meditation and prayer, then receive dreamlike, shadowy glimpses of recent events. You can meditate in this way for a number of minutes equal to your Wisdom score and must maintain [concentration](/03_Mechanics/CLI/conditions.md#Concentration) during that time, as if you were casting a spell.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

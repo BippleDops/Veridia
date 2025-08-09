@@ -52,8 +52,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -66,12 +66,12 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.\
       \ If the target is a creature that isn't an Undead or elf, it is subjected to\
       \ the following effect. Constitution Saving Throw: DC 10. Failure: The target\
-      \ has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition until\
+      \ has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition until\
       \ the end of its next turn."
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ghoul-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/ghoul-xmm.webp"
 ```
 ^statblock
 

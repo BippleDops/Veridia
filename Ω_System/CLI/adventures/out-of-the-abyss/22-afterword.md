@@ -24,13 +24,13 @@ modified: 2025-07-23 12:39
 ^5e6
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/115-ooa22aw-01.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/116-ooa22aw-02.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/117-ooa22aw-03.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/118-ooa22aw-04.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/119-ooa22aw-10.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/120-ooa22aw-11.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/121-ooa22aw-12.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/122-ooa22aw-13.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/123-ooa22aw-15.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/124-ooa22aw-18.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/115-ooa22aw-01.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/116-ooa22aw-02.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/117-ooa22aw-03.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/118-ooa22aw-04.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/119-ooa22aw-10.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/120-ooa22aw-11.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/121-ooa22aw-12.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/122-ooa22aw-13.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/123-ooa22aw-15.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/124-ooa22aw-18.webp#gallery)

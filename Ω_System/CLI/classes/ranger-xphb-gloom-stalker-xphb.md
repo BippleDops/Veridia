@@ -60,15 +60,15 @@ You have mastered the art of creating fearsome ambushes, granting you the follow
 
 #### Ambusher's Leap
 
-At the start of your first turn of each combat, your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet until the end of that turn.
+At the start of your first turn of each combat, your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet until the end of that turn.
 
 #### Dreadful Strike
 
-When you attack a creature and hit it with a weapon, you can deal an extra `2d6` Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+When you attack a creature and hit it with a weapon, you can deal an extra `2d6` Psychic damage. You can use this benefit only once per turn, you can use it a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 #### Initiative Bonus
 
-When you roll [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md), you can add your Wisdom modifier to the roll.
+When you roll [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md), you can add your Wisdom modifier to the roll.
 
 ### Gloom Stalker Spells (Level 3)
 
@@ -78,18 +78,18 @@ When you reach a Ranger level specified in the Gloom Stalker Spells table, you t
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) |
-| 5th | [Rope Trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md) |
-| 9th | [Fear](/3-Mechanics/CLI/spells/fear-xphb.md) |
-| 13th | [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md) |
-| 17th | [Seeming](/3-Mechanics/CLI/spells/seeming-xphb.md) |
+| 3rd | [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) |
+| 5th | [Rope Trick](/03_Mechanics/CLI/spells/rope-trick-xphb.md) |
+| 9th | [Fear](/03_Mechanics/CLI/spells/fear-xphb.md) |
+| 13th | [Greater Invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md) |
+| 17th | [Seeming](/03_Mechanics/CLI/spells/seeming-xphb.md) |
 ^gloom-stalker-spells
 
 ### Umbral Sight (Level 3)
 
-You gain [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
+You gain [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
 
-You are also adept at evading creatures that rely on [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision). While entirely in [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), you have the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) condition to any creature that relies on [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) to see you in that [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md).
+You are also adept at evading creatures that rely on [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision). While entirely in [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), you have the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition to any creature that relies on [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) to see you in that [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md).
 
 ### Iron Mind (Level 7)
 
@@ -105,8 +105,8 @@ You can make another attack with the same weapon against a different creature th
 
 #### Mass Fear
 
-The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until the start of your next turn.
+The target and each creature within 10 feet of it must make a Wisdom saving throw against your spell save DC. On a failed save, a creature has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition until the start of your next turn.
 
 ### Shadowy Dodge (Level 15)
 
-When a creature makes an attack roll against you, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to impose [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
+When a creature makes an attack roll against you, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to impose [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.

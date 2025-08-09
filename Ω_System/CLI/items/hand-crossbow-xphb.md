@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Hand Crossbow
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/hand-crossbow.webp#right)
+![](/03_Mechanics/CLI/items/img/hand-crossbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Light](/03_Mechanics/CLI/item-properties.md#Light), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

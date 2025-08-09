@@ -46,7 +46,7 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - !!int "12"
 "speed": "30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Common (can't speak in bear form)"
@@ -58,8 +58,8 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 17 (2d12 + 4) Piercing damage.\
       \ If the target is a Humanoid, it is subjected to the following effect. Constitution\
       \ Saving Throw: DC 14. Failure: The target is cursed. If the cursed target\
-      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Werebear under the DM's control and has 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
       \ Success: The target is immune to this werebear's curse for 24 hours."
     "name": "Bite (Bear or Hybrid Form Only)"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft or range 20/60 ft. Hit:\
@@ -75,7 +75,7 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/werebear-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/werebear-xmm.webp"
 ```
 ^statblock
 

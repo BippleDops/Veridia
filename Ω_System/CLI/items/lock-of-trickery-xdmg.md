@@ -17,6 +17,6 @@ modified: 2025-07-23 12:39
 
 
 
-This lock appears to be an ordinary [Lock](/3-Mechanics/CLI/items/lock-xphb.md) (of the type described in chapter 6 of the "Player's Handbook") and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md).
+This lock appears to be an ordinary [Lock](/03_Mechanics/CLI/items/lock-xphb.md) (of the type described in chapter 6 of the "Player's Handbook") and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 275*

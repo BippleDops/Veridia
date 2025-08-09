@@ -51,9 +51,9 @@ formulas:
         'Exploration': 'Exploration'
       };
       const imgType = typeImages[target.quest_type] || 'Quest';
-      return `![[z_Assets/Placeholder Images/${imgType}.png|100]]`;
+      return `![[Ω_Assets/Placeholder Images/${imgType}.png|100]]`;
     }
-    return `![[z_Assets/Placeholder Images/Quest_Default.png|100]]`;
+    return `![[Ω_Assets/Placeholder Images/Quest_Default.png|100]]`;
   
   # Progress bar
   ProgressBar: |
@@ -135,16 +135,16 @@ formulas:
     return days >= 0 && days <= 7 ? '⚠️ Due ≤ 7d' : '';
 
 views:
-  - type: gallery
+  - type: cards
     name: Active
     filters:
       and:
-        - anyOf:
-            - tags.contains("Category/Quest")
-            - tags.contains("Quest")
-        - anyOf:
-            - quest_status.equals("Active")
-            - quest_status.equals("In Progress")
+        - or:
+            - tags includes "Category/Quest"
+            - tags includes "Quest"
+        - or:
+            - quest_status == "Active"
+            - quest_status == "In Progress"
     columns: 3
     properties:
       - formula.QuestImage
@@ -160,9 +160,9 @@ views:
     name: Quest Journal
     filters:
       and:
-        - anyOf:
-            - tags.contains("Category/Quest")
-            - tags.contains("Quest")
+        - or:
+            - tags includes "Category/Quest"
+            - tags includes "Quest"
     order:
       - formula.StatusIcon
       - formula.PriorityDisplay
@@ -192,7 +192,7 @@ views:
     name: Campaign Overview
     filters:
       and:
-        - quest_type.equals("Main Quest")
+        - quest_type == "Main Quest"
     columns: 2
     properties:
       - formula.QuestImage
@@ -208,18 +208,18 @@ views:
     name: Quest Board
     filters:
       and:
-        - anyOf:
-            - tags.contains("Category/Quest")
-            - tags.contains("Quest")
+        - or:
+            - tags includes "Category/Quest"
+            - tags includes "Quest"
     columns:
       - name: Not Started
-        filter: quest_status.equals("Not Started")
+        filter: quest_status == "Not Started"
       - name: Active
-        filter: quest_status.equals("Active")
+        filter: quest_status == "Active"
       - name: In Progress
-        filter: quest_status.equals("In Progress")
+        filter: quest_status == "In Progress"
       - name: Completed
-        filter: quest_status.equals("Completed")
+        filter: quest_status == "Completed"
     properties:
       - formula.QuestImage
       - formula.PriorityDisplay

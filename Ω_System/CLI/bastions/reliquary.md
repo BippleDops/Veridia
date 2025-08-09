@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 # Reliquary
 *Level 13 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [Holy Symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/3-Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md) or [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
 - **Space**: Cramped (4 sq)
 - **Hirelings**: 1
 - **Order**: harvest
@@ -22,7 +22,7 @@ This vault holds sacred objects.
 
 ## Reliquary Charm
 
-After spending a Long Rest in your Bastion, you gain a magical [Charm](/3-Mechanics/CLI/rewards/reliquary-charm-xdmg.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
+After spending a Long Rest in your Bastion, you gain a magical [Charm](/03_Mechanics/CLI/rewards/reliquary-charm-xdmg.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) once without expending a spell slot or using Material components. You can't gain this Charm again while you still have it.
 
 ## Harvest: Talisman
 

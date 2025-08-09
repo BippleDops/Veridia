@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Firbolg
 *Source: Volo's Guide to Monsters p. 107*  
-![](/3-Mechanics/CLI/races/img/firbolg.webp#right)
+![](/03_Mechanics/CLI/races/img/firbolg.webp#right)
 
 - **Ability Scores**: wis +2 str +1
 - **Size**: Medium
@@ -31,11 +31,11 @@ Firbolg are between 7 and 8 feet tall and weigh between 240 and 300 pounds. Your
 
 ### Firbolg Magic
 
-You can cast [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) and [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
+You can cast [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) and [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a short or long rest. When you use this version of [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.
 
 ### Hidden Step
 
-As a bonus action, you can magically turn [invisible](/3-Mechanics/CLI/conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
+As a bonus action, you can magically turn [invisible](/03_Mechanics/CLI/conditions.md#Invisible) until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Once you use this trait, you can't use it again until you finish a short or long rest.
 
 ### Powerful Build
 

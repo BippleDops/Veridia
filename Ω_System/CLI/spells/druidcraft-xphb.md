@@ -28,7 +28,7 @@ modified: 2025-07-23 12:39
 ---
 # Druidcraft
 *cantrip, Transmutation*  
-![](/3-Mechanics/CLI/spells/img/druidcraft.webp#right)
+![](/03_Mechanics/CLI/spells/img/druidcraft.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -47,7 +47,7 @@ You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
 
 ## Sensory Effect
 
-You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md).
+You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md).
 
 ## Fire Play
 
@@ -55,6 +55,6 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

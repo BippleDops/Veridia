@@ -17,21 +17,21 @@ modified: 2025-07-23 12:39
 ---
 # Staff of Healing
 *Staff, weapon, rare (requires attunement by a bard, cleric, or druid)*  
-![](/3-Mechanics/CLI/items/img/staff-of-healing.webp#right)
+![](/03_Mechanics/CLI/items/img/staff-of-healing.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges. While holding the staff, you can cast one of the spells on the following table from it, using your spellcasting ability modifier. The table indicates how many charges you must expend to cast the spell.
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) | 1 charge per spell level (maximum 4 for a level 4 spell) |
-| [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) | 2 |
-| [Mass Cure Wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) | 5 |
+| [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md) | 1 charge per spell level (maximum 4 for a level 4 spell) |
+| [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) | 2 |
+| [Mass Cure Wounds](/03_Mechanics/CLI/spells/mass-cure-wounds-xphb.md) | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges

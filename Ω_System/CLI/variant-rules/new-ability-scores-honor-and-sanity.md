@@ -70,8 +70,8 @@ You might call for a Sanity saving throw when a character runs the risk of succu
 
 - Seeing a creature from the Far Realm or other alien realms for the first time  
 - Making direct contact with the mind of an alien creature  
-- Being subjected to spells that affect mental stability, such as the insanity option of the [symbol](/3-Mechanics/CLI/spells/symbol-xphb.md) spell  
+- Being subjected to spells that affect mental stability, such as the insanity option of the [symbol](/03_Mechanics/CLI/spells/symbol-xphb.md) spell  
 - Passing through a demiplane built on alien physics  
 - Resisting an effect conferred by an attack or spell that deals psychic damage  
 
-A failed Sanity save might result in [short-term](/3-Mechanics/CLI/tables/short-term-madness.md), [long-term](/3-Mechanics/CLI/tables/long-term-madness.md), or [indefinite madness](/3-Mechanics/CLI/tables/indefinite-madness.md), as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.
+A failed Sanity save might result in [short-term](/03_Mechanics/CLI/tables/short-term-madness.md), [long-term](/03_Mechanics/CLI/tables/long-term-madness.md), or [indefinite madness](/03_Mechanics/CLI/tables/indefinite-madness.md), as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.

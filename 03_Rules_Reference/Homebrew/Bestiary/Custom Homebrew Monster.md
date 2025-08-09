@@ -49,7 +49,7 @@ aliases:
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical weapons"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](3-Mechanics/CLI/conditions.md)"
+"condition_immunities": "[poisoned](03_Mechanics/CLI/conditions.md)"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
@@ -58,7 +58,7 @@ aliases:
     \ effects."
   "name": "Magic Resistance"
 - "desc": "The yek has advantage on attack rolls against a creature if at least one\
-    \ of the yek's allies is within 5 feet of the creature and the ally isn't [incapacitated](3-Mechanics/CLI/conditions.md)."
+    \ of the yek's allies is within 5 feet of the creature and the ally isn't [incapacitated](03_Mechanics/CLI/conditions.md)."
   "name": "Pack Tactics"
 "actions":
 - "desc": "The alpha yek makes one bite attack and two claw attacks. It can make a\
@@ -76,14 +76,14 @@ aliases:
     \ and sticks in the target's wound. The target takes 5 (2d4) piercing damage\
     \ at the start of each of its turns as long as the bone remains lodged in its\
     \ wound. A creature, including the target, can take its action to remove the bone\
-    \ by succeeding on a DC 15 Wisdom (3-Mechanics/CLI/skills.md))\
+    \ by succeeding on a DC 15 Wisdom (03_Mechanics/CLI/skills.md))\
     \ check. The bone also falls out of the wound if the target receives magical healing\
     \ A yek typically carries 3 (1d6) bone shards, which are destroyed on a successful\
     \ hit. It can use its action to tear a bone shard from a corpse within 5 feet."
   "name": "Bone Shard"
 "source":
 - "CCodex"
-"image": "3-Mechanics/CLI/bestiary/fiend/token/alpha-yek-ccodex.png"
+"image": "03_Mechanics/CLI/bestiary/fiend/token/alpha-yek-ccodex.png"
 ```
 ^statblock
 
@@ -91,7 +91,7 @@ aliases:
 
 ## Favor Warlike Lords
 
-While [Qorgeth](3-Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob.md) (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [Chittr'k'k](3-Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex.md), and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [Mechuiti](3-Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob.md), lord of cannibals, and to [Typhon](3-Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex.md), lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [hierophant liches](3-Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex.md), [umbral vampires](3-Mechanics/CLI/bestiary/fiend/umbral-vampire-tob.md), or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
+While [Qorgeth](03_Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob.md) (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [Chittr'k'k](03_Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex.md), and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [Mechuiti](03_Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob.md), lord of cannibals, and to [Typhon](03_Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex.md), lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [hierophant liches](03_Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex.md), [umbral vampires](03_Mechanics/CLI/bestiary/fiend/umbral-vampire-tob.md), or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
 
 ## Pack of Cannibals
 

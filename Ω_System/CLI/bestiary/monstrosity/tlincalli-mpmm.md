@@ -47,11 +47,11 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Tlincalli"
@@ -64,23 +64,23 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
       \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
     "name": "Longsword"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 6\
-      \ (1d6 + 3) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (1d6 + 3) piercing damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 11) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained), and\
+      \ the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained), and\
       \ the tlincalli can't use the spiked chain against another target."
     "name": "Spiked Chain"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one creature. Hit: 6\
       \ (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ succeed on a DC 14 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ for 1 minute. If it fails the saving throw by 5 or more, the target is also\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
+      \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Sting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/tlincalli-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/tlincalli-mpmm.webp"
 ```
 ^statblock
 

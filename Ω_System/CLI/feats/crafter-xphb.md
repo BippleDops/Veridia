@@ -25,12 +25,12 @@ You gain the following benefits.
 
 | Artisan's Tools | Crafted Gear |
 |-----------------|--------------|
-| [Carpenter's Tools](/3-Mechanics/CLI/items/carpenters-tools-xphb.md) | [Ladder](/3-Mechanics/CLI/items/ladder-xphb.md), [Torch](/3-Mechanics/CLI/items/torch-xphb.md) |
-| [Leatherworker's Tools](/3-Mechanics/CLI/items/leatherworkers-tools-xphb.md) | [Crossbow Bolt Case](/3-Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](/3-Mechanics/CLI/items/map-or-scroll-case-xphb.md), [Pouch](/3-Mechanics/CLI/items/pouch-xphb.md) |
-| [Mason's Tools](/3-Mechanics/CLI/items/masons-tools-xphb.md) | [Block and Tackle](/3-Mechanics/CLI/items/block-and-tackle-xphb.md) |
-| [Potter's Tools](/3-Mechanics/CLI/items/potters-tools-xphb.md) | [Jug](/3-Mechanics/CLI/items/jug-xphb.md), [Lamp](/3-Mechanics/CLI/items/lamp-xphb.md) |
-| [Smith's Tools](/3-Mechanics/CLI/items/smiths-tools-xphb.md) | [Ball Bearings](/3-Mechanics/CLI/items/ball-bearings-xphb.md), [Bucket](/3-Mechanics/CLI/items/bucket-xphb.md), [Caltrops](/3-Mechanics/CLI/items/caltrops-xphb.md), [Grappling Hook](/3-Mechanics/CLI/items/grappling-hook-xphb.md), [Iron Pot](/3-Mechanics/CLI/items/iron-pot-xphb.md) |
-| [Tinker's Tools](/3-Mechanics/CLI/items/tinkers-tools-xphb.md) | [Bell](/3-Mechanics/CLI/items/bell-xphb.md), [Shovel](/3-Mechanics/CLI/items/shovel-xphb.md), [Tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md) |
-| [Weaver's Tools](/3-Mechanics/CLI/items/weavers-tools-xphb.md) | [Basket](/3-Mechanics/CLI/items/basket-xphb.md), [Rope](/3-Mechanics/CLI/items/rope-xphb.md), [Net](/3-Mechanics/CLI/items/net-xphb.md), [Tent](/3-Mechanics/CLI/items/tent-xphb.md) |
-| [Woodcarver's Tools](/3-Mechanics/CLI/items/woodcarvers-tools-xphb.md) | [Club](/3-Mechanics/CLI/items/club-xphb.md), [Greatclub](/3-Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](/3-Mechanics/CLI/items/quarterstaff-xphb.md) |
+| [Carpenter's Tools](/03_Mechanics/CLI/items/carpenters-tools-xphb.md) | [Ladder](/03_Mechanics/CLI/items/ladder-xphb.md), [Torch](/03_Mechanics/CLI/items/torch-xphb.md) |
+| [Leatherworker's Tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md) | [Crossbow Bolt Case](/03_Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](/03_Mechanics/CLI/items/map-or-scroll-case-xphb.md), [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) |
+| [Mason's Tools](/03_Mechanics/CLI/items/masons-tools-xphb.md) | [Block and Tackle](/03_Mechanics/CLI/items/block-and-tackle-xphb.md) |
+| [Potter's Tools](/03_Mechanics/CLI/items/potters-tools-xphb.md) | [Jug](/03_Mechanics/CLI/items/jug-xphb.md), [Lamp](/03_Mechanics/CLI/items/lamp-xphb.md) |
+| [Smith's Tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md) | [Ball Bearings](/03_Mechanics/CLI/items/ball-bearings-xphb.md), [Bucket](/03_Mechanics/CLI/items/bucket-xphb.md), [Caltrops](/03_Mechanics/CLI/items/caltrops-xphb.md), [Grappling Hook](/03_Mechanics/CLI/items/grappling-hook-xphb.md), [Iron Pot](/03_Mechanics/CLI/items/iron-pot-xphb.md) |
+| [Tinker's Tools](/03_Mechanics/CLI/items/tinkers-tools-xphb.md) | [Bell](/03_Mechanics/CLI/items/bell-xphb.md), [Shovel](/03_Mechanics/CLI/items/shovel-xphb.md), [Tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md) |
+| [Weaver's Tools](/03_Mechanics/CLI/items/weavers-tools-xphb.md) | [Basket](/03_Mechanics/CLI/items/basket-xphb.md), [Rope](/03_Mechanics/CLI/items/rope-xphb.md), [Net](/03_Mechanics/CLI/items/net-xphb.md), [Tent](/03_Mechanics/CLI/items/tent-xphb.md) |
+| [Woodcarver's Tools](/03_Mechanics/CLI/items/woodcarvers-tools-xphb.md) | [Club](/03_Mechanics/CLI/items/club-xphb.md), [Greatclub](/03_Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](/03_Mechanics/CLI/items/quarterstaff-xphb.md) |
 ^fast-crafting

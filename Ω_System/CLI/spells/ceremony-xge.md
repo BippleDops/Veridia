@@ -41,11 +41,11 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [vial](/3-Mechanics/CLI/items/vial-xphb.md) of water and cause it to become [holy water](/3-Mechanics/CLI/items/holy-water-xphb.md).
+You touch one [vial](/03_Mechanics/CLI/items/vial-xphb.md) of water and cause it to become [holy water](/03_Mechanics/CLI/items/holy-water-xphb.md).
 
 ## Coming of Age
 
@@ -57,7 +57,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell.
 
 ## Wedding
 
@@ -65,6 +65,6 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Xanathar's Guide to Everything p. 151*

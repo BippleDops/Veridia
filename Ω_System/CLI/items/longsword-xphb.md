@@ -16,12 +16,12 @@ modified: 2025-07-23 12:39
 ---
 # Longsword
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/longsword.webp#right)
+![](/03_Mechanics/CLI/items/img/longsword.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Cost**: 15 gp
 - **Weight**: 3.0 lbs.
 

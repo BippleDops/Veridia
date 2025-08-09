@@ -18,7 +18,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Hunter Shark (XMM)"
@@ -38,7 +38,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "5 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "blindsight 60 ft., passive Perception 12"
 "languages": ""
@@ -47,13 +47,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The shark can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "Melee Attack Roll: +6 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
+  - "desc": "Melee Attack Roll: +6 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ if the target doesn't have all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
       \ reach 5 ft. Hit: 14 (3d6 + 4) Piercing damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hunter-shark-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/hunter-shark-xmm.webp"
 ```
 ^statblock
 

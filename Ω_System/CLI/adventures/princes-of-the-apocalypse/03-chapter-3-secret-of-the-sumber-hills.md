@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Chapter 3: Secret of the Sumber Hills
 *Source: Princes of the Apocalypse, p. 40* 
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/023-poa03-01.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/023-poa03-01.webp#center)
 
 The adventure starts in Red Larch, with the characters investigating the disappearance of a delegation from Mirabar. Characters are free to go wherever their information, as provided by you, takes them. Clues lead them to Haunted Keeps in the Sumber Hills. These old fortresses have become secret outposts for the cults of Elemental Evil.
 
@@ -47,7 +47,7 @@ The delegation included a renowned shield dwarf historian named Bruldenthar, who
 
 #### Lords' Alliance
 
-Three important diplomats from cities in the alliance were leading the delegation: a moon elf from Silverymoon named Teresiel, a shield dwarf from Mirabar named [Rhundorth](/3-Mechanics/CLI/bestiary/npc/rhundorth-pota.md), and a human noble from Waterdeep named [Deseyna Majarra](/3-Mechanics/CLI/bestiary/npc/deseyna-majarra-pota.md). The diplomats are important, but each also carries one part of a secret, coded document that must be recovered at all costs.
+Three important diplomats from cities in the alliance were leading the delegation: a moon elf from Silverymoon named Teresiel, a shield dwarf from Mirabar named [Rhundorth](/03_Mechanics/CLI/bestiary/npc/rhundorth-pota.md), and a human noble from Waterdeep named [Deseyna Majarra](/03_Mechanics/CLI/bestiary/npc/deseyna-majarra-pota.md). The diplomats are important, but each also carries one part of a secret, coded document that must be recovered at all costs.
 
 #### Emerald Enclave
 
@@ -98,7 +98,7 @@ Some or all of the player characters might begin the adventure already in posses
 - Feathergale Rebel: The character knows the location of Feathergale Spire.  
 - Madman at Haunted Keep: The character knows the location of Rivergard Keep.  
 - Standing Offer or Strange Map: The character knows the location of the Sacred Stone Monastery.  
-- Suspicious Fellow: The character knows the location of Feathergale Spire and heard that [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) can be found there.  
+- Suspicious Fellow: The character knows the location of Feathergale Spire and heard that [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) can be found there.  
 - Undercover: The character knows the location of Rivergard Keep and that Jolliver Grimjaw is in charge.  
 
 Anyone in Red Larch can provide good directions to Feathergale Spire if the characters ask about the place. It's a well-known site. It's fine if the characters decide to follow up on one of these leads instead of investigating the missing delegation.
@@ -140,13 +140,13 @@ If the characters investigate, they find the remains of a pitched battle between
 > In a small dell a mile off the road, you find the remains of a battle. A dozen dead soldiers lie on the ground, dressed in black surcoats bearing the emblem of a red axe. Most appear to have died from battle injuries, although some lie in small craters or jumbles of broken rock. Abandoned and looted wagons lie nearby. A couple of broken trunks sit on the ground by the wagons. Two rock cairns—one large and one small—stand atop a hillside nearby.
 ^11a
 
-Characters native to the North recognize the red axe design as the emblem of Mirabar. Non-native characters recognize it with a successful DC 10 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check. A successful DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check identifies the craters and rock jumbles as the effects of powerful earth-based magic. None of the Mirabar delegates are here, but almost all of their escorts were killed.
+Characters native to the North recognize the red axe design as the emblem of Mirabar. Non-native characters recognize it with a successful DC 10 Intelligence ([History](/03_Mechanics/CLI/skills.md#History)) check. A successful DC 15 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check identifies the craters and rock jumbles as the effects of powerful earth-based magic. None of the Mirabar delegates are here, but almost all of their escorts were killed.
 
 The large cairn contains the bodies of five dead bugbears. They are dressed in black leather armor with a strange triangular symbol on it (the earth cult symbol). The small cairn contains the body of a human woman in monk's robes, with a strange golden mask shaped like a snarling gargoyle face (a Sacred Stone monk killed in the fight). The mask is made of gilded tin and not particularly valuable.
 
 #### Tracks
 
-A character studying the tracks in the area who makes a successful DC 10 Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) check learns that a large group of about thirty bugbears and Medium humanoids wearing boots headed west into the hills. The trail leads several miles to the banks of the Dessarin River in the middle of nowhere, but gouges in the bank show where several keelboats landed.
+A character studying the tracks in the area who makes a successful DC 10 Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) check learns that a large group of about thirty bugbears and Medium humanoids wearing boots headed west into the hills. The trail leads several miles to the banks of the Dessarin River in the middle of nowhere, but gouges in the bank show where several keelboats landed.
 
 ### Shallow Graves
 
@@ -200,7 +200,7 @@ If any of the characters mention monks in golden masks or show Lady Ushien the m
 
 Most of the townsfolk are intimidated by the thugs who run their criminal trade from their keelboats. Questions about, "Is anybody selling books around here?" or "Where do we find the river boats?" quickly lead the party to the docks.
 
-Two of the three keelboats are crewed by [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (ordinary river sailors). The third belongs to a gang of water cultists: the genasi [Shoalar Quanderil](/3-Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota.md) (see chapter 7), his servant Pike (a halfling [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)), and two [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) loyal to the genasi. The cultists' keelboat is 30 feet long. The middle 10 feet feature a small deck house, with a forecastle at one end and an open stern at the other. The holds are crammed with ordinary provisions, marked with the water cult symbol.
+Two of the three keelboats are crewed by [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (ordinary river sailors). The third belongs to a gang of water cultists: the genasi [Shoalar Quanderil](/03_Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota.md) (see chapter 7), his servant Pike (a halfling [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)), and two [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) loyal to the genasi. The cultists' keelboat is 30 feet long. The middle 10 feet feature a small deck house, with a forecastle at one end and an open stern at the other. The holds are crammed with ordinary provisions, marked with the water cult symbol.
 
 #### Roleplaying Shoalar
 
@@ -208,7 +208,7 @@ Shoalar appears jovial, but he has a biting sense of humor and tends to laugh at
 
 #### Treasure
 
-Shoalar wears a leather belt pouch containing 10 gp, three small malachites (10 gp each), and a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md). A trunk in the deckhouse contains five tomes written in Dwarvish (historical accounts of the old kingdom of Delzoun), each worth 30 gp. A large chart on a table in the deckhouse marks the location of Rivergard Keep with a hand-drawn water cult symbol.
+Shoalar wears a leather belt pouch containing 10 gp, three small malachites (10 gp each), and a [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md). A trunk in the deckhouse contains five tomes written in Dwarvish (historical accounts of the old kingdom of Delzoun), each worth 30 gp. A large chart on a table in the deckhouse marks the location of Rivergard Keep with a hand-drawn water cult symbol.
 
 ## Cult Reprisals
 
@@ -223,13 +223,13 @@ You have four reprisals to choose from: "Tremors," "Skyriders," "Reaver Ambush,"
 
 ### Tremors
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/024-poa03-02.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/024-poa03-02.webp#center)
 
 While the characters explore the Sumber Hills, they experience first-hand the strange phenomena and dangerous monsters plaguing the area. Use this reprisal any time the characters travel between towns or search the hills for sites of interest.
 
 You are trudging along through the barren countryside when you hear a low, distant rumbling. A moment later, the ground beneath your feet begins shaking. The tremor is strong enough to start small slides of pebbles from the hillsides and cause shrubs and brush to wave from side to side, but then it subsides. A moment later, horrible insect-like creatures as big as horses begin to burrow out of the ground!
 
-The insect-like monsters are two [ankhegs](/3-Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md), hungry for flesh. The creatures haven't specifically been sent by the earth cult to attack the characters, but the local evil influence of the cult makes events such as the tremor and the ankheg attack almost commonplace in the Dessarin Valley.
+The insect-like monsters are two [ankhegs](/03_Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md), hungry for flesh. The creatures haven't specifically been sent by the earth cult to attack the characters, but the local evil influence of the cult makes events such as the tremor and the ankheg attack almost commonplace in the Dessarin Valley.
 
 ### Skyriders
 
@@ -240,7 +240,7 @@ Nosy heroes asking awkward questions in the towns nearby gain the attention of t
 > A strange, croaking cry from somewhere above catches your attention. You spot a trio of huge, winged shapes gliding toward you—giant vultures! Each bird carries on its back a warrior in dull blue armor with a dirty white cloak.
 ^12e
 
-The attackers include one [Feathergale knight](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) and two [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7 for both), each mounted on a [giant vulture](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md). The riders prefer to keep their distance and make ranged attacks. They are also protective of their mounts. If a vulture is reduced to half its hit points or less, its rider disengages and retreats. If any two riders are killed or retreat, the third flees.
+The attackers include one [Feathergale knight](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) and two [Howling Hatred initiates](/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7 for both), each mounted on a [giant vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md). The riders prefer to keep their distance and make ranged attacks. They are also protective of their mounts. If a vulture is reduced to half its hit points or less, its rider disengages and retreats. If any two riders are killed or retreat, the third flees.
 
 #### Treasure
 
@@ -255,7 +255,7 @@ If the characters learned about this attack from the Dangerous Background advent
 > A small, carefully banked cooking fire smolders in the middle of this haphazard encampment. Half a dozen battered old tents and crates of provisions are scattered around, along with racks on which pieces of smoked fish are curing. Several fierce-looking human warriors are hunkered down in front of their tents, tending to their gear or quietly conversing.
 ^131
 
-The camp is occupied by one [Crushing Wave priest](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md), two [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md), and five [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) (statistics for the priest and the reavers appear in chapter 7). If the characters have the advantage of foreknowledge and successfully sneak up on the villains, they can surprise the water cultists. Otherwise, the cultists assume that any strangers are enemies and attack. If all the Crushing Wave members are killed, surviving bandits try to flee or surrender.
+The camp is occupied by one [Crushing Wave priest](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md), two [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md), and five [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) (statistics for the priest and the reavers appear in chapter 7). If the characters have the advantage of foreknowledge and successfully sneak up on the villains, they can surprise the water cultists. Otherwise, the cultists assume that any strangers are enemies and attack. If all the Crushing Wave members are killed, surviving bandits try to flee or surrender.
 
 #### Development
 
@@ -263,7 +263,7 @@ Captured Crushing Wave cultists refuse to talk, but captured bandits aren't as f
 
 ### Fiery Fangs
 
-The fire cult is less concerned with maintaining appearances than the other elemental cults. When [Vanifer](/3-Mechanics/CLI/bestiary/npc/vanifer-pota.md) or her lieutenants receive word that a band of adventurers is trying to ferret out the cult, they send a pack of three [hell hounds](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) after the party. The hounds need only get the scent of the characters through spilled blood or discarded items. This encounter can take place wherever the characters are at the time, whether traveling between sites or ostensibly safe at an inn.
+The fire cult is less concerned with maintaining appearances than the other elemental cults. When [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) or her lieutenants receive word that a band of adventurers is trying to ferret out the cult, they send a pack of three [hell hounds](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) after the party. The hounds need only get the scent of the characters through spilled blood or discarded items. This encounter can take place wherever the characters are at the time, whether traveling between sites or ostensibly safe at an inn.
 
 If the characters encounter the hell hounds in the wilderness, the hounds appear a short distance behind the characters, following their tracks and baying with eagerness. If the characters are resting at an inn, they're interrupted by screaming and barking coming from the inn's common room, where the pack breaks through windows and terrifies the staff. (It's all the better if the characters are eating a meal there themselves).
 
@@ -273,7 +273,7 @@ The monsters single-mindedly pursue the characters and fight until one is killed
 
 In the Sighing Valley stands Feathergale Spire, the Haunted Keep inhabited by the Feathergale Society, Waterdhavian aerial-mount enthusiasts who have pretensions of nobility. They call themselves Feathergale Knights.
 
-Secretly, the knights are dedicated to [Yan-C-Bin](/3-Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). They occupied the keep when the air cult established itself in the dwarven ruins beneath the Sumber Hills. The knights serve the cult as lookouts, messengers, spies, and a first line of defense.
+Secretly, the knights are dedicated to [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). They occupied the keep when the air cult established itself in the dwarven ruins beneath the Sumber Hills. The knights serve the cult as lookouts, messengers, spies, and a first line of defense.
 
 ### Spire Approach
 
@@ -294,15 +294,15 @@ Beneath Feathergale Spire to the east, a wide gusty canyon yawns through the hil
 
 A steep trail leads to the drawbridge over Feathergale Moat and to the keep's main entrance (area S2). Characters who approach along the floor of the canyon (the Sighing Valley, described later in this chapter) can scale the stone pillar on which the spire stands. It is 400 feet from the pillar's base to the lowest level of the spire (area S1), and each level of the spire is 20 feet higher than the level below it. Flying characters can enter the spire from the pinnacle or through one of the windows in the courtyard gardens.
 
-Two [Feathergale knights](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) patrol the pinnacle (area S11) at all times, taking flight on [giant vultures](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) to meet attackers. One knight is stationed in the front hall (area S2) with two [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7). In daylight, the pinnacle knights have an excellent vantage point. They are likely to know of the characters' approach long before the party arrives.
+Two [Feathergale knights](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) patrol the pinnacle (area S11) at all times, taking flight on [giant vultures](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) to meet attackers. One knight is stationed in the front hall (area S2) with two [Howling Hatred initiates](/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7). In daylight, the pinnacle knights have an excellent vantage point. They are likely to know of the characters' approach long before the party arrives.
 
 The knights' reaction depends on how the party chooses to enter the spire. Peaceful visitors who approach openly are welcome. Those who sneak in or assault the spire meet the full defenses of the keep.
 
 ### Spire Features
 
 > [!gallery]
-> ![Map 3.1: Feathergale Spire](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/025-03-01.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/026-poa5.webp#gallery)
+> ![Map 3.1: Feathergale Spire](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/025-03-01.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/026-poa5.webp#gallery)
 
 The refurbished spire has the following features. Any exceptions are noted in areas to which they apply.
 
@@ -345,7 +345,7 @@ Oversized windows on the ground level allow light and air to pass easily into th
 > A gap of twenty feet separates the ledge where the path ends from the closed drawbridge on Feathergale Spire. The space between the cliff's edge and the gatehouse drops several hundred feet to the bottom of the canyon. Near the ledge, a brass bell hangs from a wooden post.
 ^144
 
-At the bell's ring, a female human [Feathergale knight](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) named Savra Belabranta opens a small window near the gate, welcomes the characters, and courteously asks what brings them here. Savra lowers the drawbridge to allow friendly visitors entry. If the characters accompany her, go to the "Knights' Quest" section.
+At the bell's ring, a female human [Feathergale knight](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) named Savra Belabranta opens a small window near the gate, welcomes the characters, and courteously asks what brings them here. Savra lowers the drawbridge to allow friendly visitors entry. If the characters accompany her, go to the "Knights' Quest" section.
 
 ### Areas of the Spire
 
@@ -358,7 +358,7 @@ At the bell's ring, a female human [Feathergale knight](/3-Mechanics/CLI/bestiar
 
 The round room in the center of the spire serves as a storeroom. It is filled with supplies. Any gear from the *Player's Handbook* you want the characters to have can be found here. The knights are willing to sell items at a ten percent markup.
 
-When the characters arrive, four [hippogriffs](/3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md) and two [giant vultures](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) occupy the stables, each in its own stall, and one [Feathergale knight](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) stands watch and tends the creatures. The hippogriffs and vultures are aggressive toward strangers that enter their stalls unless a knight introduces the newcomers. Knight disguises can fool the creatures, but only at a distance.
+When the characters arrive, four [hippogriffs](/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md) and two [giant vultures](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) occupy the stables, each in its own stall, and one [Feathergale knight](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) stands watch and tends the creatures. The hippogriffs and vultures are aggressive toward strangers that enter their stalls unless a knight introduces the newcomers. Knight disguises can fool the creatures, but only at a distance.
 
 The latches on the stall doors are fastened at multiple points on each door, so it takes two actions to open each door.
 
@@ -371,17 +371,17 @@ The latches on the stall doors are fastened at multiple points on each door, so 
 > An eagle carved from a massive timber hangs from the far side of the ceiling, suspended on strong chains. Slender wings of steel sweep close to its sides. Its head is also fashioned of steel.
 ^149
 
-One [Feathergale knight](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (Savra when the characters first arrive) and two [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) keep watch in the entry hall. See chapter 7 for their statistics.
+One [Feathergale knight](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (Savra when the characters first arrive) and two [Howling Hatred initiates](/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) keep watch in the entry hall. See chapter 7 for their statistics.
 
 #### Friendly Entry
 
-If Savra has allowed the characters in, she tells the characters that they have excellent timing. She invites them to join the knights' feast this evening, commemorating the tenth year of the Feathergale Society. Savra leads the party through the tower to meet her captain, [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md), in area S11.
+If Savra has allowed the characters in, she tells the characters that they have excellent timing. She invites them to join the knights' feast this evening, commemorating the tenth year of the Feathergale Society. Savra leads the party through the tower to meet her captain, [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md), in area S11.
 
 #### The Eagle
 
 The eagle is a battering ram. If released using a lever near the doors to area S4, the ram attacks an area that starts at the doors to area S4, extending 30 feet along a 5-foot-wide path in the center of the hall.
 
-Each creature in this area must succeed on a DC 10 Dexterity saving throw or take `3d6` bludgeoning damage. Those who fail the save by 5 or more are swept along with the ram, pushed out of the hall onto the drawbridge, and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The eagle resets when it swings back, locking back into place and resetting its activation lever.
+Each creature in this area must succeed on a DC 10 Dexterity saving throw or take `3d6` bludgeoning damage. Those who fail the save by 5 or more are swept along with the ram, pushed out of the hall onto the drawbridge, and knocked [prone](/03_Mechanics/CLI/conditions.md#Prone). The eagle resets when it swings back, locking back into place and resetting its activation lever.
 
 ### S3. Weapons Locker
 
@@ -402,7 +402,7 @@ Howling Hatred initiates, priests, hurricanes, and skyweavers sleep in this room
 > In this kitchen, sacks are heaped along the walls, and a small pile of vegetables is spread on a table. A huge, steaming cauldron stands at the center. Two wooden paddles and two knives hang on a rack next to a brick oven. Four wall shelves hold a dozen loaves of bread.
 ^151
 
-Four [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7) stand around the cauldron inhaling the steam wafting from it. The initiates are trying to "inhale—and become—the steam." These cultists also serve as kitchen staff.
+Four [Howling Hatred initiates](/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7) stand around the cauldron inhaling the steam wafting from it. The initiates are trying to "inhale—and become—the steam." These cultists also serve as kitchen staff.
 
 ### S7. Solarium
 
@@ -411,7 +411,7 @@ Four [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatre
 > A bright room occupies the east quarter of this floor. Flowers and shrubs of many varieties grow in a labyrinth of planters. Spidery red and purple plants grow suspended in baskets in mid-air. Robed humans water the plants.
 ^153
 
-Three [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) and one [hurricane](/3-Mechanics/CLI/bestiary/humanoid/hurricane-pota.md) (see chapter 7 for both) tend to the plants, contemplate philosophy, or train in this room. .
+Three [Howling Hatred initiates](/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) and one [hurricane](/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota.md) (see chapter 7 for both) tend to the plants, contemplate philosophy, or train in this room. .
 
 Several barrels of fresh water are located around the perimeter of the room.
 
@@ -422,7 +422,7 @@ Several barrels of fresh water are located around the perimeter of the room.
 > This great hall spans half the diameter of the tower. Between the overlarge windows, tapestries depict scenes of gallant knights on flying hippogriffs, fighting dragons and jousting with one another among the clouds. High on the walls are the mounted heads of griffons, wyverns, owlbears, and manticores. A long, curved table set for a feast stretches between the hall's twin hearths.
 ^155
 
-When the characters first arrive, two [Feathergale knights](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) who aren't occupied with other duties or rest are found here. At night, the tower's servants sleep here after the knights have retired for the evening.
+When the characters first arrive, two [Feathergale knights](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) who aren't occupied with other duties or rest are found here. At night, the tower's servants sleep here after the knights have retired for the evening.
 
 ### S9. Knights' Cells
 
@@ -440,7 +440,7 @@ Each knight's chest contains valuables worth `d100` gp, and a feathered cloak.
 > This chamber contains a bed, a fireplace, a closet, a writing desk, a chest, and a small tapestry on the wall.
 ^159
 
-On the desk, in a cylindrical leather case, is a letter to [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) from [Aerisi Kalinoth](/3-Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota.md), written by her minstrel [Windharrow](/3-Mechanics/CLI/bestiary/npc/windharrow-pota.md). It reads as follows:
+On the desk, in a cylindrical leather case, is a letter to [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) from [Aerisi Kalinoth](/03_Mechanics/CLI/bestiary/npc/aerisi-kalinoth-pota.md), written by her minstrel [Windharrow](/03_Mechanics/CLI/bestiary/npc/windharrow-pota.md). It reads as follows:
 
 > [!note] 
 > 
@@ -455,7 +455,7 @@ On the desk, in a cylindrical leather case, is a letter to [Thurl Merosska](/3-M
 
 #### Treasure
 
-In addition to clothing and personal effects, the chest contains 320 gp in a sack, a [potion of heroism](/3-Mechanics/CLI/items/potion-of-heroism-xdmg.md), a scroll of [beast bond](/3-Mechanics/CLI/spells/beast-bond-xge.md), and a scroll of [skywrite](/3-Mechanics/CLI/spells/skywrite-xge.md) (see appendix B for descriptions of both spells).
+In addition to clothing and personal effects, the chest contains 320 gp in a sack, a [potion of heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md), a scroll of [beast bond](/03_Mechanics/CLI/spells/beast-bond-xge.md), and a scroll of [skywrite](/03_Mechanics/CLI/spells/skywrite-xge.md) (see appendix B for descriptions of both spells).
 
 ### S11. Pinnacle
 
@@ -466,11 +466,11 @@ In addition to clothing and personal effects, the chest contains 320 gp in a sac
 > From this vantage point, the Feathergale Knights possess a supreme view of all that transpires in the nearby canyon and the Sumber Hills beyond.
 ^15d
 
-Two [Feathergale knights](/3-Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) and their [giant vultures](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) are stationed here. Every hour, one of them patrols the air around the spire. The other patrols the tower. They watch for danger and fellow knights sent on errands. When the characters first arrive at the spire, [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) (see chapter 7) is here as well, gazing west toward Red Larch.
+Two [Feathergale knights](/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota.md) (see chapter 7) and their [giant vultures](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) are stationed here. Every hour, one of them patrols the air around the spire. The other patrols the tower. They watch for danger and fellow knights sent on errands. When the characters first arrive at the spire, [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) (see chapter 7) is here as well, gazing west toward Red Larch.
 
 #### Shrine to Elemental Evil
 
-Here in the high open air, the cultists gather to worship [Yan-C-Bin](/3-Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). They sacrifice their enemies, first marking them with the sign of [Yan-C-Bin](/3-Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md) and then throwing them off the pinnacle. In the Sighing Valley, area C2, scavengers swiftly remove evidence of the knights' dark deeds.
+Here in the high open air, the cultists gather to worship [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). They sacrifice their enemies, first marking them with the sign of [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md) and then throwing them off the pinnacle. In the Sighing Valley, area C2, scavengers swiftly remove evidence of the knights' dark deeds.
 
 #### Spyglass
 
@@ -478,16 +478,16 @@ Those who gaze through the spyglass without moving it first see a hooded figure 
 
 ## Knights' Quest
 
-Savra Belabranta escorts the characters through the spire and up to the pinnacle where [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) surveys the territory. Briefly describe any other rooms or inhabitants of the tower the characters observe on their ascent. When the characters reach the pinnacle, read the following text:
+Savra Belabranta escorts the characters through the spire and up to the pinnacle where [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) surveys the territory. Briefly describe any other rooms or inhabitants of the tower the characters observe on their ascent. When the characters reach the pinnacle, read the following text:
 
 > [!readaloud] 
 > 
 > The commander of the Feathergale Knights is a well-built male human in his early fifties. Embossed feather patterns ornament the plates of his armor, and his kingly cloak boasts a feathered mantle. He smooths his white-blond hair into place, then bows low before you as if he were only a lowly courtier.
 ^162
 
-"Welcome to Feathergale Spire, retreat of the Feathergale Society. I am [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md), the lord commander."
+"Welcome to Feathergale Spire, retreat of the Feathergale Society. I am [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md), the lord commander."
 
-[Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) offers the hospitality of the tower, inviting the characters to a feast in honor of the society's tenth year. Merosska especially shows favor to nobles, knights, members of the Lords' Alliance, and members of the Order of the Gauntlet.
+[Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) offers the hospitality of the tower, inviting the characters to a feast in honor of the society's tenth year. Merosska especially shows favor to nobles, knights, members of the Lords' Alliance, and members of the Order of the Gauntlet.
 
 If the characters wish to interview Merosska now, they can do so. He might answer questions on the following topics:
 
@@ -508,7 +508,7 @@ Thurl allows the characters to rest in the tower until it is time to begin the f
 
 > [!readaloud] 
 > 
-> Clad in the finest garments of velvet brocade, the knights feast at a curved table in the great hall, where twin hearths blaze. [Thurl Merosska](/3-Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) sits at the head of the table.
+> Clad in the finest garments of velvet brocade, the knights feast at a curved table in the great hall, where twin hearths blaze. [Thurl Merosska](/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota.md) sits at the head of the table.
 > 
 > "Honored guests," he says. "Tell us of your adventures in the Sumber Hills. Let us aid you in any way we can."
 ^164
@@ -545,7 +545,7 @@ The manticore hunt takes place in the skies above the Sighing Valley (see the ac
 
 Vision is limited to 100 feet within the canyon because of the fog and night sky. The manticore, hippogriffs, and giant vultures know the canyon well enough to avoid running into the cliffs.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/027-poa03-04.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/027-poa03-04.webp#center)
 
 #### Hunting the Manticore
 
@@ -561,7 +561,7 @@ If the knights find the manticore first, they blow their horns so that other gro
 
 The giant vultures and hippogriffs are faster fliers than the manticore, and the manticore knows it. Once it is found, the manticore fights until it has no targets to attack, using its action every round to make three Tail Spike attacks. If there are no characters present, assume that one knight is injured and the manticore's hit points are reduced by 8 at the end of each round of battle. A knight that is injured leaves the hunt. When no more knights remain, the knights are out of the hunt. If the manticore has nothing to attack, the battle ends and it flies off. Remaining groups can try to search for it again.
 
-The manticore has twenty-four tail spikes. When it runs out of spikes, it does nothing other than fly away from its pursuers on its turn. At the end of each of these turns, have all characters and knights in the battle make a DC 13 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. If all of their checks fail, the manticore gets away, though groups can try to search for it again.
+The manticore has twenty-four tail spikes. When it runs out of spikes, it does nothing other than fly away from its pursuers on its turn. At the end of each of these turns, have all characters and knights in the battle make a DC 13 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. If all of their checks fail, the manticore gets away, though groups can try to search for it again.
 
 ##### Manticore Lost
 
@@ -581,7 +581,7 @@ If the characters defeat their attackers, surviving knights flee on hippogriffs 
 
 If a character makes a strong impression on Savra and the party is on good terms with the knights, Savra looks for an opportunity to pull that character aside. Delighted with the character's deeds, Savra confides that the Feathergale Knights have a secret mission to master elemental air to annihilate Waterdeep's enemies. Savra offers to meet with Thurl to request he recruit the character into the Feathergale Knights. In doing so, she unwittingly reveals part of the knights' secret.
 
-Indoctrinated by the air cult, Savra's heart and mind belong to [Yan-C-Bin](/3-Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). If the characters defeat the cult and destroy [Windvane](/3-Mechanics/CLI/items/windvane-pota.md), Savra is freed from prince's influence and returns to her senses.
+Indoctrinated by the air cult, Savra's heart and mind belong to [Yan-C-Bin](/03_Mechanics/CLI/bestiary/npc/yan-c-bin-pota.md). If the characters defeat the cult and destroy [Windvane](/03_Mechanics/CLI/items/windvane-pota.md), Savra is freed from prince's influence and returns to her senses.
 
 ## Sighing Valley
 
@@ -591,7 +591,7 @@ Sighing Valley is actually a wide canyon consisting of a deep gorge through whic
 
 #### Fauna
 
-Wild [goats](/3-Mechanics/CLI/bestiary/beast/goat-xmm.md) are common in the canyon.
+Wild [goats](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md) are common in the canyon.
 
 #### Fog
 
@@ -606,8 +606,8 @@ The canyon is brightly lit during the day, and light varies at night from dim to
 The canyon walls are 200 to 400 feet high.
 
 > [!gallery]
-> ![Map 3.2: Sighing Valley](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/028-03-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/029-poa12.webp#gallery)
+> ![Map 3.2: Sighing Valley](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/028-03-02.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/029-poa12.webp#gallery)
 
 ### V1. Feathergale Spire
 
@@ -615,9 +615,9 @@ See the "Feathergale Spire" section.
 
 ### V2. Dead Rocks
 
-A [giant vulture](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) picks at the gruesome remains on the rocks. The giant vulture attacks the characters only if provoked. Six [blood hawks](/3-Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md) circle overhead, attacking any other creature that comes near the kill. After half an hour, the vulture flies away and the blood hawks swoop in.
+A [giant vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) picks at the gruesome remains on the rocks. The giant vulture attacks the characters only if provoked. Six [blood hawks](/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md) circle overhead, attacking any other creature that comes near the kill. After half an hour, the vulture flies away and the blood hawks swoop in.
 
-Among the dry, days-old gore lie shattered bones. A successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check reveals the bones belong to a humanoid creature. If the check succeeds by 5 or more, the character discovers rusty stains among the rocks and bone fragments indicating that many more humanoids have died here.
+Among the dry, days-old gore lie shattered bones. A successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check reveals the bones belong to a humanoid creature. If the check succeeds by 5 or more, the character discovers rusty stains among the rocks and bone fragments indicating that many more humanoids have died here.
 
 ### V3. Knifepoint Gully
 
@@ -626,7 +626,7 @@ Among the dry, days-old gore lie shattered bones. A successful DC 15 Intelligenc
 > A narrow fissure in the canyon wall leads through a gully choked with pale brush and shrubs. A swift breeze passes through the fissure. At the end, a dark, jagged crevice awaits.
 ^17f
 
-Carved into the crevice at the end of the gully is a stairway that leads down to the Temple of Howling Hatred (see chapter 4). Three [hurricanes](/3-Mechanics/CLI/bestiary/humanoid/hurricane-pota.md) (see chapter 7) watch the entrance for intruders.
+Carved into the crevice at the end of the gully is a stairway that leads down to the Temple of Howling Hatred (see chapter 4). Three [hurricanes](/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota.md) (see chapter 7) watch the entrance for intruders.
 
 ### V4. The Lost River
 
@@ -635,7 +635,7 @@ Carved into the crevice at the end of the gully is a stairway that leads down to
 > A river courses through the canyon, winding around tall spires and through the base of a plateau. Coarse green shrubs huddle along its banks.
 ^181
 
-A [gnoll pack lord](/3-Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) and three [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) forage among large rocks west of the river. During the day, when the sky is clear, they use their longbows to take shots at characters. At night, they huddle behind the rocks, gnawing on fish from the river.
+A [gnoll pack lord](/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) and three [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) forage among large rocks west of the river. During the day, when the sky is clear, they use their longbows to take shots at characters. At night, they huddle behind the rocks, gnawing on fish from the river.
 
 #### Treasure
 
@@ -657,11 +657,11 @@ A creature standing atop Howling Plateau can see the whole canyon, but not the s
 > The river that runs through the canyon sweeps close to the canyon's eastern wall. To the west, the ground is covered with rocky spires and wild brush.
 ^186
 
-Four [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) and four [hyenas](/3-Mechanics/CLI/bestiary/beast/hyena-xmm.md) forage here. During the day, when the sky is clear, the gnolls use their longbows to take down distant targets.
+Four [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) and four [hyenas](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md) forage here. During the day, when the sky is clear, the gnolls use their longbows to take down distant targets.
 
 ### V7. Griffon Roost
 
-A mated pair of [griffons](/3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) occupies a cliff cave about 150 feet from the canyon floor. The griffons attack any horse or hippogriff that nears the lair. They slay the mount and escape with the carcass.
+A mated pair of [griffons](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) occupies a cliff cave about 150 feet from the canyon floor. The griffons attack any horse or hippogriff that nears the lair. They slay the mount and escape with the carcass.
 
 > [!readaloud] 
 > 
@@ -672,7 +672,7 @@ The nest holds two griffon eggs, worth up to 2,000 gp each. For each day without
 
 ### V8. Aarakocra Camp
 
-In a depression on a ridge near the canyon floor, five [aarakocra](/3-Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) have set up a watch post hidden with brush. They have seen grim pilgrims proceeding into and out of Knifepoint Gully (area V3), and they witnessed the recent sacrifice from Feathergale Spire. Certain that the forces of Elemental Evil has taken hold in the canyon, they are now debating what action to take. They are willing to help characters who show an interest in confronting the evil in the canyon, and they might interfere with any attempt the Feathergale Knights make to sacrifice captured characters.
+In a depression on a ridge near the canyon floor, five [aarakocra](/03_Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) have set up a watch post hidden with brush. They have seen grim pilgrims proceeding into and out of Knifepoint Gully (area V3), and they witnessed the recent sacrifice from Feathergale Spire. Certain that the forces of Elemental Evil has taken hold in the canyon, they are now debating what action to take. They are willing to help characters who show an interest in confronting the evil in the canyon, and they might interfere with any attempt the Feathergale Knights make to sacrifice captured characters.
 
 ### V9. Manticore Lair
 
@@ -681,7 +681,7 @@ In a depression on a ridge near the canyon floor, five [aarakocra](/3-Mechanics/
 > A pool fills the center of this deep cave, born from a natural spring beneath the rock and flowing outward into the river. Long stalactites hang above the pool, surrounding a natural central pillar. Water drips from the stalactites into the pool, echoing throughout the cave. Some of the debris here looks like leftovers from an old camp, including four old crates.
 ^18b
 
-Two [manticores](/3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) lair here. Only one manticore is present at a given time, with the other one out hunting. If a manticore died in the "Manticore Hunt" event, the other is here.
+Two [manticores](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) lair here. Only one manticore is present at a given time, with the other one out hunting. If a manticore died in the "Manticore Hunt" event, the other is here.
 
 #### Treasure
 
@@ -710,9 +710,9 @@ What happens next depends on why the characters are here and how they approach.
 
 #### Peaceful Approach
 
-If the characters approach openly and politely ask for admittance for almost any plausible reason, the cultists welcome them. Characters who make use of inside knowledge (asking to see [Gar Shatterkeel](/3-Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md) or Reash, or to sign on with Grimjaw) are considered to be either important guests or spies who know too much. If the characters use no such knowledge and are rude or provide no reasonable excuse for entrance, they are turned away.
+If the characters approach openly and politely ask for admittance for almost any plausible reason, the cultists welcome them. Characters who make use of inside knowledge (asking to see [Gar Shatterkeel](/03_Mechanics/CLI/bestiary/npc/gar-shatterkeel-pota.md) or Reash, or to sign on with Grimjaw) are considered to be either important guests or spies who know too much. If the characters use no such knowledge and are rude or provide no reasonable excuse for entrance, they are turned away.
 
-Four [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) escort characters who enter peacefully through the gate (area K1). If the characters entered through the water gate (area K11), three [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (chapter 7) provide escort instead. The escort takes the party to the great hall (area K16), where Grimjaw interviews the characters to find out who they really are.
+Four [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) escort characters who enter peacefully through the gate (area K1). If the characters entered through the water gate (area K11), three [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (chapter 7) provide escort instead. The escort takes the party to the great hall (area K16), where Grimjaw interviews the characters to find out who they really are.
 
 #### Aggressive Approach
 
@@ -752,7 +752,7 @@ Each warrior in the keep carries `2d10`−2 gp in mixed coinage and minor valuab
 
 #### Walls
 
-The walls are 15 feet above outside ground level and 10 feet above inside ground level. A crenellated parapet faces the outside. One [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stands watch on each of the four wall sections, pacing back and forth.
+The walls are 15 feet above outside ground level and 10 feet above inside ground level. A crenellated parapet faces the outside. One [bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stands watch on each of the four wall sections, pacing back and forth.
 
 ### Raising the Alarm
 
@@ -764,8 +764,8 @@ If the characters are caught doing something suspicious, cultists nearby attempt
 - After 10 minutes, Grimjaw and the reavers from area K20 leave the keep and search for intruders in the castle.  
 
 > [!gallery]
-> ![Map 3.3: Rivergard Keep](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/030-03-03.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/031-poa9.webp#gallery)
+> ![Map 3.3: Rivergard Keep](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/030-03-03.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/031-poa9.webp#gallery)
 
 ### Areas of the Keep
 
@@ -778,14 +778,14 @@ If the characters are caught doing something suspicious, cultists nearby attempt
 
 The gate is barred from the inside. It can't be forced open by any means short of a siege engine. The bar can be raised from inside the gatehouse passage (area K2) or lifted by an iron chain from the upper floor of the gatehouse (area K3).
 
-One [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stands watch on the wall section just north of the gatehouse. If he spots the party approaching, he warns the cultists in areas K2 and K3. If the characters openly approach the gate and call out, read the following text:
+One [bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) stands watch on the wall section just north of the gatehouse. If he spots the party approaching, he warns the cultists in areas K2 and K3. If the characters openly approach the gate and call out, read the following text:
 
 > [!readaloud] 
 > 
 > Clattering sounds and muffled voices come from inside the gatehouse. Then a human warrior appears at the second-story arrow slit directly over the gate. You can't see much of him, but he wears a leather jerkin and has a black beard. "Who are you? What do you want?"
 ^1a1
 
-The person at the arrow slit is Holger, a [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) who commands the gatehouse. Holger is a high-strung martinet, and no one in the gatehouse likes him. Holger decides whether to open the gate, tell the characters to go away, or order his bandits to open fire. If Holger admits the characters, he orders four [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) (two from area K2, two from area K3) to meet them at the gate and escort them inside.
+The person at the arrow slit is Holger, a [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) who commands the gatehouse. Holger is a high-strung martinet, and no one in the gatehouse likes him. Holger decides whether to open the gate, tell the characters to go away, or order his bandits to open fire. If Holger admits the characters, he orders four [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) (two from area K2, two from area K3) to meet them at the gate and escort them inside.
 
 If fighting breaks out here, characters standing in front of the gate are exposed to fire from the arrow slit in area K3 and the parapet on the wall. If the bandits in area K2 can't line up shots at the intruders, they climb the stairs to area K3 and then move out onto the parapet to join the battle.
 
@@ -800,7 +800,7 @@ If the characters kill some or all the gatehouse guards (areas K2 and K3) and th
 > The gates open to a thirty-foot passage leading east. A portcullis blocks the far end of the passage, but you can see the castle yard on the other side. An arrow slit in the southern wall of the passage provides defenders a way to fire on intruders who get this far.
 ^1a4
 
-Characters who specifically examine the ceiling notice the murder holes (see area K3). Otherwise, it takes a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to discern the murder holes overhead.
+Characters who specifically examine the ceiling notice the murder holes (see area K3). Otherwise, it takes a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to discern the murder holes overhead.
 
 #### Gatehouse Interior
 
@@ -811,7 +811,7 @@ If the characters find a way into the round tower south of the gatehouse passage
 > This is the ground floor of the gatehouse tower. A door leads to the east, and stairs climb to the floor above. Arrow slits in this room offer a view of the ground outside the castle and the gate passage to the north. Two double-bunks stand against the walls.
 ^1a6
 
-The tower interior serves as the barracks for four [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md). If the gatehouse comes under attack, three move to the arrow slits, while the fourth steps into area K4 and heads toward area K8 to raise the alarm.
+The tower interior serves as the barracks for four [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md). If the gatehouse comes under attack, three move to the arrow slits, while the fourth steps into area K4 and heads toward area K8 to raise the alarm.
 
 The stairs lead to area K3.
 
@@ -822,7 +822,7 @@ The stairs lead to area K3.
 > This room above the castle gatehouse features doors that lead out to the tops of the walls to the north and to the east. Stairs lead down to the floor below. A chain mechanism in the northern half of the room positioned over the main gate raises or lowers the gate bars. Another controls the portcullis. Three holes in the floor, each about a foot square, look down on the passage below.
 ^1a8
 
-This area serves as a barracks and a defensive post. Holger, a [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md), commands the gatehouse. Three more [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) have bunks here.
+This area serves as a barracks and a defensive post. Holger, a [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md), commands the gatehouse. Three more [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) have bunks here.
 
 The chain mechanisms are easy to operate. A character has to use three actions to bar or unbar the gate, or to raise or lower the portcullis. The bandits posted in this area operate the mechanisms to let people into or out of the castle.
 
@@ -830,7 +830,7 @@ The stairs in this room descend to area K2. The doors lead out onto the wall sec
 
 #### Treasure
 
-Holger has accumulated a tidy little hoard, mostly through "fining" the warriors under his command for minor infractions. He stores a locked wooden coffer under his bunk (he keeps the key on a string around his neck). The coffer contains 150 sp, 40 gp, a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md), and a [potion of diminution](/3-Mechanics/CLI/items/potion-of-diminution-xdmg.md).
+Holger has accumulated a tidy little hoard, mostly through "fining" the warriors under his command for minor infractions. He stores a locked wooden coffer under his bunk (he keeps the key on a string around his neck). The coffer contains 150 sp, 40 gp, a [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md), and a [potion of diminution](/03_Mechanics/CLI/items/potion-of-diminution-xdmg.md).
 
 ### K4. Castle Yard
 
@@ -839,7 +839,7 @@ Holger has accumulated a tidy little hoard, mostly through "fining" the warriors
 > The area just inside the castle gatehouse consists of a small courtyard of bare dirt and tufts of wiry grass. A stable stands to the east, the gatehouse to the west, and the main yard of the castle lies to the north. The keep occupies the northern corner of the castle yard. Stone stairs near the keep lead up to the top of the wall.
 ^1ab
 
-As the characters move around the castle yard, it's easy to see (and be seen by) any or all of the four [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) standing on the wall. They pay no attention to people inside the walls who act like they're supposed to be there.
+As the characters move around the castle yard, it's easy to see (and be seen by) any or all of the four [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) standing on the wall. They pay no attention to people inside the walls who act like they're supposed to be there.
 
 #### Bluff
 
@@ -853,10 +853,10 @@ Characters lingering in the castle yard are likely to encounter various denizens
 
 | dice: d6 | Encounter |
 |----------|-----------|
-| 1 | `d3` [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (see area K17) |
-| 2 | `d4` [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) (see area K8) |
-| 3 | `d3` [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see area K20) |
-| 4 | `d3` [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) |
+| 1 | `d3` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (see area K17) |
+| 2 | `d4` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) (see area K8) |
+| 3 | `d3` [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see area K20) |
+| 4 | `d3` [giant rats](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) |
 | 5 | Drosnin and her guards (see area K15) |
 | 6 | Reash and his guards (see area K9) |
 ^encounter
@@ -895,7 +895,7 @@ The room contains twenty spears, ten shortswords, five scimitars, five light cro
 > Nine double bunks fill this barracks, each with a pair of footlockers tucked underneath. Doors exit to the north, west, and east.
 ^1b6
 
-This area is home to twelve [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) and four [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see chapter 7). At any given time, four of the bandits stand watch as sentries on the outer wall, and two of the Crushing Wave reavers are on duty in area K16. The remaining eight bandits and two reavers linger here. They spend most of their time gambling, dozing in their bunks, tending to their gear, practicing in the yard just outside, or starting pointless quarrels with each other.
+This area is home to twelve [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) and four [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see chapter 7). At any given time, four of the bandits stand watch as sentries on the outer wall, and two of the Crushing Wave reavers are on duty in area K16. The remaining eight bandits and two reavers linger here. They spend most of their time gambling, dozing in their bunks, tending to their gear, practicing in the yard just outside, or starting pointless quarrels with each other.
 
 At night, most of these warriors are asleep in their bunks, but the cultists post a watch in this room throughout the night. At least two bandits remain awake and armed at all times. Sleeping cultists sleep through their first turn of any combat that takes place here, then awaken and arm themselves during their second turn.
 
@@ -910,7 +910,7 @@ If the characters convince Grimjaw that they are here to join up, they are assig
 > The upper floor of this tower looks deserted, but the ground floor is still in use. Curtains hanging across the eastern half of the room wall off someone's private quarters, and several straw pallets lie on the floor near the door. A capstan stands against the north wall, with a heavy chain disappearing through a pipe to the northeast. The river laps just beneath the arrow slits of the tower.
 ^1b9
 
-Three [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) and a [fathomer](/3-Mechanics/CLI/bestiary/humanoid/fathomer-pota.md) named Reash (see chapter 7 for both) occupy this tower. Reash is in command and does most of the talking. He's a sour-faced fellow with a drooping mustache and an arrogant manner. Reash is instantly suspicious of strangers.
+Three [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) and a [fathomer](/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota.md) named Reash (see chapter 7 for both) occupy this tower. Reash is in command and does most of the talking. He's a sour-faced fellow with a drooping mustache and an arrogant manner. Reash is instantly suspicious of strangers.
 
 Reash uses the curtained area as his private quarters, while the reavers make do with the straw pallets. The fathomer's private quarters hold a folding wooden cot and a saddlebag on a table (see "Treasure" below).
 
@@ -956,7 +956,7 @@ Reash decides whether to admit the party. If he does, he has the reavers in area
 > A large keelboat is moored to the inner side of the keep's east wall, floating in the boat basin. A rope ladder leads from the top of the wall to the deck of the boat, about six feet below. Hatchways lead into the boat's cabin from the bow and the stern.
 ^1c3
 
-This is the *Rivermaid*. The ship's water genasi captain, [Shoalar Quanderil](/3-Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota.md) (see chapter 7) and a halfling servant named Pike (a [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) occupy the boat's cabin. Two [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) serve as the rest of the crew. They remain in a cramped bunkroom below the deck on the bow, which is accessed by a hatch and a short ladder.
+This is the *Rivermaid*. The ship's water genasi captain, [Shoalar Quanderil](/03_Mechanics/CLI/bestiary/npc/shoalar-quanderil-pota.md) (see chapter 7) and a halfling servant named Pike (a [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) occupy the boat's cabin. Two [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) serve as the rest of the crew. They remain in a cramped bunkroom below the deck on the bow, which is accessed by a hatch and a short ladder.
 
 Shoalar is a high-ranking Crushing Wave cultist, and he is well informed about events in the towns throughout the area. Unless the characters come to Rivergard early in the campaign, he is likely to recognize them from accounts of their deeds. Use your best judgment.
 
@@ -970,11 +970,11 @@ If the fight goes badly, Shoalar flees by leaping into the river.
 
 #### If Shoalar Is Already Dead
 
-If the characters already defeated Shoalar (see the "Womford Rats" section, earlier in this chapter), the genasi and his halfling servant aren't here. Instead, the master of the keelboat is a [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md).
+If the characters already defeated Shoalar (see the "Womford Rats" section, earlier in this chapter), the genasi and his halfling servant aren't here. Instead, the master of the keelboat is a [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md).
 
 #### Treasure
 
-A locked chest in the deckhouse holds 190 sp and 95 gp. Shoalar wears a leather belt pouch containing 10 gp, three small malachites worth 10 gp each, and a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md). In addition, the cargo hold (below the stern) is currently full of stolen goods: casks of ale, salted fish, and twelve large bundles of cured pelts (beaver and sable) worth 40 gp each.
+A locked chest in the deckhouse holds 190 sp and 95 gp. Shoalar wears a leather belt pouch containing 10 gp, three small malachites worth 10 gp each, and a [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md). In addition, the cargo hold (below the stern) is currently full of stolen goods: casks of ale, salted fish, and twelve large bundles of cured pelts (beaver and sable) worth 40 gp each.
 
 ### K13. Dark Stream
 
@@ -994,9 +994,9 @@ This tower stands on top of the bluff, overlooking the Dessarin River and the ca
 > Filthy furs and discarded bones litter the interior of this tower. A rank animal stench hangs in the air.
 ^1ca
 
-Most nonhumans recruited by the cult are sent down to the Temple of the Crushing Wave (see chapter 4). However, Jolliver Grimjaw felt that he didn't have sufficient numbers to hold Rivergard against a determined attack, so he employs three [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) to augment the garrison. The bugbears are bored and spoiling for a fight. They attack anyone they don't recognize, not caring if they injure or kill new recruits.
+Most nonhumans recruited by the cult are sent down to the Temple of the Crushing Wave (see chapter 4). However, Jolliver Grimjaw felt that he didn't have sufficient numbers to hold Rivergard against a determined attack, so he employs three [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) to augment the garrison. The bugbears are bored and spoiling for a fight. They attack anyone they don't recognize, not caring if they injure or kill new recruits.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/032-poa03-07.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/032-poa03-07.webp#center)
 
 ### K15. Chapel
 
@@ -1005,7 +1005,7 @@ Most nonhumans recruited by the cult are sent down to the Temple of the Crushing
 > The keep's chapel contains plain wooden pews facing a large altar at the west end of the room. No idol hints at what deity is venerated here. A crude symbol is painted on the wall above the altar, resembling an X with a horizontal bar linking the bottom limbs. Several straw pallets lie near the chapel door.
 ^1cc
 
-The intendant of the chapel is Drosnin, a [Crushing Wave priest](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md). Two [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) serve as her bodyguards and somewhat unwilling acolytes. (See chapter 7 for the cultists' statistics.) They are enthusiastic converts to the cult, but they would rather be out raiding or fighting instead of stuck in the chapel listening to Drosnin rant about the unstoppable power of the Crushing Wave. The symbol painted above the altar is the symbol of the Crushing Wave cult.
+The intendant of the chapel is Drosnin, a [Crushing Wave priest](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md). Two [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) serve as her bodyguards and somewhat unwilling acolytes. (See chapter 7 for the cultists' statistics.) They are enthusiastic converts to the cult, but they would rather be out raiding or fighting instead of stuck in the chapel listening to Drosnin rant about the unstoppable power of the Crushing Wave. The symbol painted above the altar is the symbol of the Crushing Wave cult.
 
 Drosnin assumes that any strangers who wander into her chapel have been assigned to her for indoctrination. Drosnin's favored technique is enthusiastic, relentless oratory. As long as the characters don't attack, she launches into an exhaustive sermon about the "truth of the deep waters" and the "great revelations" to come. The two reavers with her roll their eyes and look bored, but Drosnin keeps going and going, brooking no interruptions. Once Drosnin begins, she drones on for two hours before dismissing the party. If they attempt to leave before she finishes her sermon, or if they interrupt her frequently, she orders the reavers to keep them from leaving. She attacks if the characters ignore her commands.
 
@@ -1022,7 +1022,7 @@ The great hall becomes a banquet hall, a practice hall, or a throne room as the 
 > At the west end of the room, below the balcony, a large wooden chair sits behind a wide table littered with papers and discarded plates. A second table, this one long and furnished with benches, runs down the middle of the hall. The walls are painted in green and blue, decorated with tattered banners showing nautical designs.
 ^1ce
 
-Jolliver Grimjaw conducts most of his business here. He is a [wereboar](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md), although he remains in his human form during any audience with strangers to Rivergard. Grimjaw usually remains in the hall until late in the evening, when he slips down to the riverside to hunt in boar form. He returns before dawn and sleeps in his quarters (area K21). In the Great Hall, he is attended by a [fathomer](/3-Mechanics/CLI/bestiary/humanoid/fathomer-pota.md) named Urshnora and two [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see chapter 7 for both). If a battle breaks out, Grimjaw prefers to fight in his hybrid form. If the battle goes poorly, he flees through the secret door (see "Secret Door" below).
+Jolliver Grimjaw conducts most of his business here. He is a [wereboar](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md), although he remains in his human form during any audience with strangers to Rivergard. Grimjaw usually remains in the hall until late in the evening, when he slips down to the riverside to hunt in boar form. He returns before dawn and sleeps in his quarters (area K21). In the Great Hall, he is attended by a [fathomer](/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota.md) named Urshnora and two [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see chapter 7 for both). If a battle breaks out, Grimjaw prefers to fight in his hybrid form. If the battle goes poorly, he flees through the secret door (see "Secret Door" below).
 
 #### Reports
 
@@ -1032,7 +1032,7 @@ One of these reports details caravan traffic in Red Larch. It makes note of the 
 
 #### Secret Door
 
-A secret door behind Grimjaw's seat can be found with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. The door hides a spiral staircase that descends to area K22.
+A secret door behind Grimjaw's seat can be found with a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. The door hides a spiral staircase that descends to area K22.
 
 #### Audience with Grimjaw
 
@@ -1060,7 +1060,7 @@ Grimjaw carries a key to the iron grate in area K13.
 > This plain dormitory features six bunk beds and a small wooden table and chairs, as well as two large laundry tubs and several baskets full of dirty clothes and linens.
 ^1d5
 
-This room houses the servants who work in the kitchens and tend to menial chores throughout the castle. Three human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (Anya, Berd, and Nayreen) currently work in here. They are natives of Womford who were kidnapped by the Crushing Wave cult and brought here to take care of cleaning, cooking, laundry, and waiting on the cult warriors. All three are anxious to escape and head home, but they don't dare try. Grimjaw has already had two others flogged to death for attempting to flee.
+This room houses the servants who work in the kitchens and tend to menial chores throughout the castle. Three human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (Anya, Berd, and Nayreen) currently work in here. They are natives of Womford who were kidnapped by the Crushing Wave cult and brought here to take care of cleaning, cooking, laundry, and waiting on the cult warriors. All three are anxious to escape and head home, but they don't dare try. Grimjaw has already had two others flogged to death for attempting to flee.
 
 The servants know about the secret door in area K16, but they don't know where it leads.
 
@@ -1071,7 +1071,7 @@ The servants know about the secret door in area K16, but they don't know where i
 > Two large hearths on the north wall of this room hold kettles full of simmering stew. Washbasins and worktables with old, battered crockery stand in the middle of the room. Sacks, casks, and barrels are piled along the southern wall, and cheeses and smoked fish hang from the ceiling.
 ^1d7
 
-Five human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) labor here. Two (Lathna and Oric) are captives who don't want to be here, but the other three (Gorm, Herek, and Shadnil) are ne'er-do-wells from Womford. These three aren't tough enough to be Crushing Wave warriors, so they've been pressed into service in the kitchens. If intruders enter in the kitchen, the would-be bandits try to slip away to warn the cultists.
+Five human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) labor here. Two (Lathna and Oric) are captives who don't want to be here, but the other three (Gorm, Herek, and Shadnil) are ne'er-do-wells from Womford. These three aren't tough enough to be Crushing Wave warriors, so they've been pressed into service in the kitchens. If intruders enter in the kitchen, the would-be bandits try to slip away to warn the cultists.
 
 #### Treasure
 
@@ -1084,15 +1084,15 @@ The sacks contain flour, the dozen casks hold ale (worth 10 gp per cask), and th
 > Old bookshelves line the walls of this room, but most are empty. One old shelf has been cleared and restocked with a selection of tomes. A single bunk sits under the narrow window at the far end of the room, near a small desk, a wooden chair, and a chest. The floor looks wet.
 ^1da
 
-This room was once the library and parlor of the keep's lord, but Grimjaw has no particular interest in reading or entertaining. It now serves as the personal quarters of Urshnora, who is normally found in area K16. Urshnora is a [fathomer](/3-Mechanics/CLI/bestiary/humanoid/fathomer-pota.md) (see chapter 7). She hates Reash (area K9), who heartily reciprocates Urshnor's ill will.
+This room was once the library and parlor of the keep's lord, but Grimjaw has no particular interest in reading or entertaining. It now serves as the personal quarters of Urshnora, who is normally found in area K16. Urshnora is a [fathomer](/03_Mechanics/CLI/bestiary/humanoid/fathomer-pota.md) (see chapter 7). She hates Reash (area K9), who heartily reciprocates Urshnor's ill will.
 
 #### Secret Door
 
-One of the bookshelves hides a secret door. A successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals the door, which connects to area K21.
+One of the bookshelves hides a secret door. A successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check reveals the door, which connects to area K21.
 
 #### Treasure
 
-Urshnora keeps a small wooden chest by her bed. The chest contains 80 sp, 30 gp, a silk pouch that holds four excellent jaspers worth 70 gp each, a scroll of [haste](/3-Mechanics/CLI/spells/haste-xphb.md), and a scroll of [wall of water](/3-Mechanics/CLI/spells/wall-of-water-xge.md) (see appendix B).
+Urshnora keeps a small wooden chest by her bed. The chest contains 80 sp, 30 gp, a silk pouch that holds four excellent jaspers worth 70 gp each, a scroll of [haste](/03_Mechanics/CLI/spells/haste-xphb.md), and a scroll of [wall of water](/03_Mechanics/CLI/spells/wall-of-water-xge.md) (see appendix B).
 
 The books—a dozen in all—are worth 25 gp each. Most cover nautical topics and include charts, excerpts from ships' logs, and the like.
 
@@ -1103,7 +1103,7 @@ The books—a dozen in all—are worth 25 gp each. Most cover nautical topics an
 > Four bunk beds line the walls of this guardroom. To the south, an arrow slit looks out over the castle yard, and a door exits to the castle parapet. Another door exits to the north.
 ^1df
 
-This guardroom serves as a barracks for six [Crushing Wave reavers](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see chapter 7). At any given time, two are on duty in area K16, while the other four rest here. At night, at least one reaver remains awake at all times.
+This guardroom serves as a barracks for six [Crushing Wave reavers](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota.md) (see chapter 7). At any given time, two are on duty in area K16, while the other four rest here. At night, at least one reaver remains awake at all times.
 
 If the reavers in this room hear fighting in areas K19 or K21, they quickly move to investigate and deal with any threat.
 
@@ -1114,13 +1114,13 @@ If the reavers in this room hear fighting in areas K19 or K21, they quickly move
 > A large semicircular room occupies the western half of this floor of the keep. Three narrow windows look out over the countryside outside the castle walls. The room's furnishings are very plain, including a hard-looking bunk, a small wooden table, and a couple of simple chairs. Several large chests occupy the room's southern corner.
 ^1e1
 
-Jolliver Grimjaw has no use for creature comforts, but he is very fond of his riches. The best pickings from his gangs' raids and robberies end up here, where he can see and touch them whenever he wants. Grimjaw is a [wereboar](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md), and he only sleeps a few hours each morning in this room.
+Jolliver Grimjaw has no use for creature comforts, but he is very fond of his riches. The best pickings from his gangs' raids and robberies end up here, where he can see and touch them whenever he wants. Grimjaw is a [wereboar](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md), and he only sleeps a few hours each morning in this room.
 
 If confronted here, Grimjaw fights furiously to defend his hoard, roaring in anger and calling for help. Any nearby cultists (see areas K19 and K20) answer his call. If the characters are discovered in this room when Grimjaw isn't here, they are immediately attacked, since the room is off limits to everyone except Grimjaw.
 
 #### Secret Door
 
-A secret door leading to the library (area K19) is hidden in the northeast corner of the room. A successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals the door.
+A secret door leading to the library (area K19) is hidden in the northeast corner of the room. A successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check reveals the door.
 
 #### Treasure
 
@@ -1135,9 +1135,9 @@ The secret stairway in area K16 descends 20 feet to this landing, which abuts an
 > At the bottom of the stairs, you find a torchlit chamber where two boats bob in an underground stream. The stream flows toward daylight to the east and leads upstream into darkness toward the west.
 ^1e6
 
-Six [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) lurk in the waters just beyond the boat landing. They have orders to make sure that only cultists proceed to the Temple of the Crushing Wave, which lies more than two miles upstream. The ghouls attack anyone who begins rowing upstream without first standing in the bow of the boat and making the hand sign of the Crushing Wave. Spotting the ghouls in the inky water requires a successful DC 17 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+Six [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) lurk in the waters just beyond the boat landing. They have orders to make sure that only cultists proceed to the Temple of the Crushing Wave, which lies more than two miles upstream. The ghouls attack anyone who begins rowing upstream without first standing in the bow of the boat and making the hand sign of the Crushing Wave. Spotting the ghouls in the inky water requires a successful DC 17 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
-All six ghouls spend their first action of any combat combining their efforts to overturn a boat and dump its passengers into the river. Doing so allows three of the ghouls to use their actions to attempt Strength checks, while three others use their actions to take the [Help](/3-Mechanics/CLI/actions.md#Help) action. If any ghoul succeeds on a DC 20 Strength check, the boat capsizes. Some might continue to try to tip the boat later in the battle.
+All six ghouls spend their first action of any combat combining their efforts to overturn a boat and dump its passengers into the river. Doing so allows three of the ghouls to use their actions to attempt Strength checks, while three others use their actions to take the [Help](/03_Mechanics/CLI/actions.md#Help) action. If any ghoul succeeds on a DC 20 Strength check, the boat capsizes. Some might continue to try to tip the boat later in the battle.
 
 ### Conclusion
 
@@ -1145,7 +1145,7 @@ The underground stream winds for more than two miles through lightless grottos, 
 
 ## Sacred Stone Monastery
 
-The third of the Haunted Keeps of the Sumber Hills, the Sacred Stone Monastery is where the lich [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) Caradoon chose to make his home, discouraging other monsters from settling nearby. The former keep has been reborn as the Sacred Stone Monastery, now home to a reclusive order of mysterious monks (actually earth cultists in disguise) who spend their days in meditation and rigorous exercises of self-discipline.
+The third of the Haunted Keeps of the Sumber Hills, the Sacred Stone Monastery is where the lich [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) Caradoon chose to make his home, discouraging other monsters from settling nearby. The former keep has been reborn as the Sacred Stone Monastery, now home to a reclusive order of mysterious monks (actually earth cultists in disguise) who spend their days in meditation and rigorous exercises of self-discipline.
 
 Few people in the area have heard of the Sacred Stone order. No one in the region knows the truth: the monastery now serves as the surface headquarters of the Black Earth cult and guards access to the unholy vaults of the Temple of Black Earth below.
 
@@ -1157,11 +1157,11 @@ Unlike the flamboyant Feathergale Knights or the aggressive raiders of Rivergard
 
 Whatever story the characters are selling, the Sacred Stone monks don't want any of it. A group of strangers that knocks on the door is turned away. Insistent visitors are told, "The abbess doesn't allow visitors to disturb our meditations," and are attacked if they refuse to leave.
 
-If the characters ask about the Mirabar delegation, the monks at the door say, "They aren't here," and turn the party away. Suspicious characters might sense that the monks are exchanging furtive glances with a successful DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) skill check.
+If the characters ask about the Mirabar delegation, the monks at the door say, "They aren't here," and turn the party away. Suspicious characters might sense that the monks are exchanging furtive glances with a successful DC 10 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) skill check.
 
 #### Recruits or Members?
 
-The Sacred Stone monks might be persuaded to let the characters in if the characters claim that they are here to join up or are already working for the Black Earth cult. Asking for [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md), [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md), or [Miraj Vizann](/3-Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md) by name suffices as proof, as does producing something that would pique the Black Earth cultists' interest. If admitted, the characters are escorted to Qarbo so that he can decide what to do with them (see "Audience with Qarbo" in area M9).
+The Sacred Stone monks might be persuaded to let the characters in if the characters claim that they are here to join up or are already working for the Black Earth cult. Asking for [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md), [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md), or [Miraj Vizann](/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md) by name suffices as proof, as does producing something that would pique the Black Earth cultists' interest. If admitted, the characters are escorted to Qarbo so that he can decide what to do with them (see "Audience with Qarbo" in area M9).
 
 #### Disguises
 
@@ -1183,7 +1183,7 @@ Ceilings in the monastery are 12 feet high. The mines have 8-foot-high ceilings 
 
 #### Defenders
 
-Most of the inhabitants of the monastery are cultists. Others, such as the orogs, are mercenaries. The lich [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) (area M16) has nothing to do with the cult.
+Most of the inhabitants of the monastery are cultists. Others, such as the orogs, are mercenaries. The lich [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) (area M16) has nothing to do with the cult.
 
 #### Doors
 
@@ -1210,8 +1210,8 @@ The roof of the monastery is about 25 feet above the ground, but the walls have 
 The monastery windows are narrow and tall, almost like arrow slits. The sill of each window is about 10 feet above the ground outside.
 
 > [!gallery]
-> ![Map 3.4: Sacred Stone Monastery](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/033-03-04.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/034-poa10.webp#gallery)
+> ![Map 3.4: Sacred Stone Monastery](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/033-03-04.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/034-poa10.webp#gallery)
 
 ### Areas of the Monastery
 
@@ -1239,7 +1239,7 @@ All outside doors are locked after nightfall.
 
 ### M2. Basalt Hall
 
-At night, no one is here, but during the day, two [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) are stationed here. If the monks are present and the party knocks, tries the door, or converses loudly, read the following:
+At night, no one is here, but during the day, two [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) are stationed here. If the monks are present and the party knocks, tries the door, or converses loudly, read the following:
 
 > [!readaloud] 
 > 
@@ -1259,7 +1259,7 @@ The monks attack without warning if anyone attempts to leave through the east or
 
 #### Development
 
-If the characters attack the monastery and then leave, when they return the guards here are replaced by two [minotaurs](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) sent here from the Temple of Black Earth, supervised by one [Sacred Stone monk](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7).
+If the characters attack the monastery and then leave, when they return the guards here are replaced by two [minotaurs](/03_Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) sent here from the Temple of Black Earth, supervised by one [Sacred Stone monk](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7).
 
 ### M3. South Dormitory
 
@@ -1268,7 +1268,7 @@ If the characters attack the monastery and then leave, when they return the guar
 > This room is arranged as a very uncomfortable-looking barracks. Ten thin pallets are rolled up along the walls, beside neatly folded piles of clothing—plain, dun-colored robes and sandals. Two of the clothing piles also include golden masks in the shape of scowling gargoyle faces. There are no other furnishings. A single window looks toward the canyon wall to the south.
 ^201
 
-This room houses ten [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7). During the day, the room is empty as the monks attend to their duties elsewhere. At night, six monks sleep in this room, two remain awake, and two work in area M7. The two monks who remain awake watch to make sure no one sneaks out to raid the kitchen or the distillery, or otherwise behaves inappropriately for a monk. If combat occurs, sleeping monks wake up and stand up during their first turn. They can each take a normal second turn.
+This room houses ten [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7). During the day, the room is empty as the monks attend to their duties elsewhere. At night, six monks sleep in this room, two remain awake, and two work in area M7. The two monks who remain awake watch to make sure no one sneaks out to raid the kitchen or the distillery, or otherwise behaves inappropriately for a monk. If combat occurs, sleeping monks wake up and stand up during their first turn. They can each take a normal second turn.
 
 By day, four monks (the ones who drew night shift) sleep here.
 
@@ -1281,13 +1281,13 @@ The door to this room is usually locked. Qarbo carries the key. He is either in 
 > Eight simple bunks line the walls of this room, each with a small trunk at the foot of the bed. A small table and several wooden chairs stand in the middle of the room near an iron stove. Five of the bunks are bare, but three are comfortably made up with sheets, pillows, and blankets.
 ^203
 
-Back in the days when the inhabitants of the monastery offered shelter to travelers, this room served as the monastery's guest room. Few people come this way now, so the [Black Earth priest](/3-Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) Qarbo uses this space as his personal quarters. Qarbo keeps two [Black Earth guards](/3-Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md) at his beck and call to serve as bodyguards. See chapter 7 for the cultists' statistics.
+Back in the days when the inhabitants of the monastery offered shelter to travelers, this room served as the monastery's guest room. Few people come this way now, so the [Black Earth priest](/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) Qarbo uses this space as his personal quarters. Qarbo keeps two [Black Earth guards](/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md) at his beck and call to serve as bodyguards. See chapter 7 for the cultists' statistics.
 
 Qarbo rests here from midnight to shortly after dawn. He spends the rest of his time in area M9, the Shrine of Stone. When Qarbo and his guards are here, they lock the door and sleep.
 
 #### Treasure
 
-A locked iron coffer beneath Qarbo's bunk contains 120 gp, 90 ep, cloth-of-gold priestly vestments worth 40 gp, a leather pouch containing 2 gold bracelets worth 30 gp each, a scroll of [earthbind](/3-Mechanics/CLI/spells/earthbind-xge.md), a scroll of [Maximilian's earthen grasp](/3-Mechanics/CLI/spells/maximilians-earthen-grasp-xge.md), and a scroll of [transmute rock](/3-Mechanics/CLI/spells/transmute-rock-xge.md) (see appendix B for a description of these spells). Qarbo carries the coffer key, as well as the key to the locked doors in area M21.
+A locked iron coffer beneath Qarbo's bunk contains 120 gp, 90 ep, cloth-of-gold priestly vestments worth 40 gp, a leather pouch containing 2 gold bracelets worth 30 gp each, a scroll of [earthbind](/03_Mechanics/CLI/spells/earthbind-xge.md), a scroll of [Maximilian's earthen grasp](/03_Mechanics/CLI/spells/maximilians-earthen-grasp-xge.md), and a scroll of [transmute rock](/03_Mechanics/CLI/spells/transmute-rock-xge.md) (see appendix B for a description of these spells). Qarbo carries the coffer key, as well as the key to the locked doors in area M21.
 
 ### M5. West Dormitory
 
@@ -1296,7 +1296,7 @@ A locked iron coffer beneath Qarbo's bunk contains 120 gp, 90 ep, cloth-of-gold 
 > A heavy wooden shutter covers the window of this room, making it quite dark inside. It is also very warm due to a large iron stove with a well-stoked fire. Ten uncomfortable-looking pallets lie on the floor amid tidy piles of iron arms and armor.
 ^206
 
-This room houses six [duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) and four [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7). During the day, the monks work in the dojo (area M15) and the kitchen (area M7), while the duergar rest in here. At any given time while the duergar are present, three are awake and three are dozing. At night, the duergar patrol the area around the monastery and venture into the mines while the monks rest.
+This room houses six [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) and four [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7). During the day, the monks work in the dojo (area M15) and the kitchen (area M7), while the duergar rest in here. At any given time while the duergar are present, three are awake and three are dozing. At night, the duergar patrol the area around the monastery and venture into the mines while the monks rest.
 
 These duergar mercenaries see the Cult of Black Earth as a good bet. They tolerate the monks because the monks don't say much and generally leave them alone.
 
@@ -1309,7 +1309,7 @@ These duergar mercenaries see the Cult of Black Earth as a good bet. They tolera
 
 The cultists spend little time in this common room. They spend most of their waking hours working or training in other parts of the monastery. When they aren't working, they're resting in their quarters.
 
-At dawn and dusk, the Sacred Stone cultists (except the two door wardens in area M2) gather in this room for half an hour to dine together in silence. At mealtimes, twelve [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) eat here, along with [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md), the [Black Earth priest](/3-Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) Qarbo, and the two [Black Earth guards](/3-Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md) who protect Qarbo. The other denizens of the monastery (the duergar in area M5 and the orogs in area M18) prefer not to eat with the rest of the inhabitants. See chapter 7 for the cultists' statistics.
+At dawn and dusk, the Sacred Stone cultists (except the two door wardens in area M2) gather in this room for half an hour to dine together in silence. At mealtimes, twelve [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) eat here, along with [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md), the [Black Earth priest](/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) Qarbo, and the two [Black Earth guards](/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md) who protect Qarbo. The other denizens of the monastery (the duergar in area M5 and the orogs in area M18) prefer not to eat with the rest of the inhabitants. See chapter 7 for the cultists' statistics.
 
 ### M7. Kitchen
 
@@ -1320,7 +1320,7 @@ The door leading outside is locked after nightfall. During the day, monks workin
 > Hot coals smolder in two big brick hearths in the middle of this room, and the smell of baking bread fills the air. Sacks of flour, casks of salted fish, crates of dried vegetables, and wheels of cheese clutter the walls, along with well-worn work tables and a collection of mismatched cutlery. A doorway to the west leads to a washroom where three large wooden tubs stand. A door to the north leads to the monastery exterior, while another door leads south.
 ^20a
 
-The Sacred Stone monks take turns working in the kitchen. Regardless of the time of day, four [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) work here. If the hour is late (or early), they are engaged in baking bread, scrubbing kettles, or making preserves. The food isn't very good, but it is plentiful and filling. Basic provisions are stockpiled along the walls.
+The Sacred Stone monks take turns working in the kitchen. Regardless of the time of day, four [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) work here. If the hour is late (or early), they are engaged in baking bread, scrubbing kettles, or making preserves. The food isn't very good, but it is plentiful and filling. Basic provisions are stockpiled along the walls.
 
 The room immediately to the west is a bathhouse and laundry area with three large wooden tubs.
 
@@ -1333,7 +1333,7 @@ This area is open to the sky. Characters on the monastery roof can enter the bui
 > This long, narrow court is paved in red sandstone. To the north stands the main temple or shrine of the monastery, its copper-sheathed doors emblazoned with a triangular symbol. Doors also exit the court at its east and west ends, and several narrow windows pierce the south wall. Gargoyle statues guard the door, each facing the court with a ferocious leer.
 ^20c
 
-The two statues nearest the temple door are actually two [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md), hiding in plain sight. They don't react unless characters who don't belong to the cult attempt to enter the shrine to the north (area M9). The gargoyles don't interfere with anyone wearing a Sacred Stone robe and mask, or anyone escorted by individuals dressed in such a manner.
+The two statues nearest the temple door are actually two [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md), hiding in plain sight. They don't react unless characters who don't belong to the cult attempt to enter the shrine to the north (area M9). The gargoyles don't interfere with anyone wearing a Sacred Stone robe and mask, or anyone escorted by individuals dressed in such a manner.
 
 The symbol on the north door is the symbol of elemental earth.
 
@@ -1348,11 +1348,11 @@ The stairway in the middle of this room descends to area M21 in the mines below 
 
 Anyone who looks in the northwest corner notices a small bronze lever (see that section).
 
-The Black Earth cultists claimed the old temple's main hall as their own, and now this shrine serves as a holy place for the cult members who garrison this outpost—and a proving ground for those who wish to join. When not in area M4, the [Black Earth priest](/3-Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) Qarbo presides here, protected by two [Black Earth guards](/3-Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md) (see chapter 7 for both). They attack intruders who appear without an escort.
+The Black Earth cultists claimed the old temple's main hall as their own, and now this shrine serves as a holy place for the cult members who garrison this outpost—and a proving ground for those who wish to join. When not in area M4, the [Black Earth priest](/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) Qarbo presides here, protected by two [Black Earth guards](/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota.md) (see chapter 7 for both). They attack intruders who appear without an escort.
 
 #### Altar
 
-Close inspection of the altar reveals that old runes and emblems in its surface have been recently chiseled out. A character who examines the marks can attempt a DC 15 Intelligence ([Religion](/3-Mechanics/CLI/skills.md#Religion)) check to identify the erased marks (a dwarf succeeds automatically). The runes show that the temple was once dedicated to Moradin.
+Close inspection of the altar reveals that old runes and emblems in its surface have been recently chiseled out. A character who examines the marks can attempt a DC 15 Intelligence ([Religion](/03_Mechanics/CLI/skills.md#Religion)) check to identify the erased marks (a dwarf succeeds automatically). The runes show that the temple was once dedicated to Moradin.
 
 #### Bronze Lever
 
@@ -1360,14 +1360,14 @@ The lever triggers the collapsing stair trap described in area M21 and also rele
 
 #### Audience with Qarbo
 
-Qarbo is the second-in-command at the monastery, but the abbess [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) doesn't like to deal with visitors. It therefore falls to Qarbo to interrogate any guests or recruits. If the characters are presented to him (perhaps because they claim they want to join), Qarbo questions them to determine how committed they are to the cult.
+Qarbo is the second-in-command at the monastery, but the abbess [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) doesn't like to deal with visitors. It therefore falls to Qarbo to interrogate any guests or recruits. If the characters are presented to him (perhaps because they claim they want to join), Qarbo questions them to determine how committed they are to the cult.
 
 Qarbo is cruel and more than a little manic in his demeanor. He grins slyly the entire time he questions the characters, as if enjoying an inside joke. He asks questions such as, "What is your greatest failing?" and "Why do you think you are worthy to be a servant of eternal earth?" There are no right or wrong answers; the priest just wants to see how the newcomers react.
 
 After hearing out the characters, Qarbo chooses one of the following options:
 
 - If the party seems ready to join the cult, Qarbo explains that they must start with a period of self-denial and reflection. He sends for a pair of Sacred Stone monks from area M7, who take all the characters' equipment and clothing and provide them with Sacred Stone monk robes. If the characters accede to this, they are split up and assigned pallets in areas M3 and M5. Over the next few days, they are assigned routine chores in the kitchens and watched carefully.  
-- If the party seems committed to speaking with higher-ups in the cult (for example, [Miraj Vizann](/3-Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md)), Qarbo reluctantly assigns them space in the guest quarters (area M4) and sends word down to the Temple of Black Earth. Within a day or two, the characters are summoned to the temple (see chapter 4). The Sacred Stone monks provide a guide to show them the way.  
+- If the party seems committed to speaking with higher-ups in the cult (for example, [Miraj Vizann](/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md)), Qarbo reluctantly assigns them space in the guest quarters (area M4) and sends word down to the Temple of Black Earth. Within a day or two, the characters are summoned to the temple (see chapter 4). The Sacred Stone monks provide a guide to show them the way.  
 - If the party is antagonistic or doesn't seem to be of potential value to the cult, Qarbo feigns acceptance and tells them that they may "proceed below," indicating the stairs leading to area M21. When the majority of the party is on the steps, he pulls the lever and dumps the party into area M21, also releasing the angry umber hulk in that area.  
 
 Qarbo is eager to let the umber hulk in area M21 have its fun, so he prefers the third option. If the characters survive the experience, he is quite surprised but hurriedly explains that "they passed the test" and accepts them into the cult or forwards their offer to the leaders in the temple.
@@ -1381,22 +1381,22 @@ The austere shrine offers no treasure, but Qarbo carries the keys to the chest i
 > Writing desks stand beneath the windows of this large workroom. Dusty tomes, stacks of parchment, and pots of ink clutter each desk.
 ^214
 
-During the day, four [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) work in this room. At night, they return to their quarters.
+During the day, four [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) work in this room. At night, they return to their quarters.
 
-The books and scrolls the monks are copying from a small collection that [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) assembled during his life as a human aristocrat. The tomes include academic texts on the elemental planes, holy texts that refer to earth deities or elemental powers (most quite obscure), and philosophical treatises on self-denial and nihilism as the response to a flawed and illogical world.
+The books and scrolls the monks are copying from a small collection that [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) assembled during his life as a human aristocrat. The tomes include academic texts on the elemental planes, holy texts that refer to earth deities or elemental powers (most quite obscure), and philosophical treatises on self-denial and nihilism as the response to a flawed and illogical world.
 
 #### Marlos's Testament
 
-Characters who wade through the banal "insights" and "secrets" that make up most of the texts here find [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md)'s personal testament. From this text, they can learn the following:
+Characters who wade through the banal "insights" and "secrets" that make up most of the texts here find [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md)'s personal testament. From this text, they can learn the following:
 
-- [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) is the Prophet of Earth;  
+- [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) is the Prophet of Earth;  
 - He was drawn to a place called "the Fane of the Eye" by powerful visions. There he found "Ironfang, the Holy Implement of Earth Power," and took it for his own;  
 - Marlos established the Temple of Black Earth in the ruins of a long-abandoned dwarven stronghold that exists below the Sacred Stone Monastery;  
 - He nurtures something called the Black Geode, and when all is ready, "the Evergrowing Mountain shall come and remake these lands in his own image."  
 
 #### Treasure
 
-Among the books and parchments are a scroll of [dust devil](/3-Mechanics/CLI/spells/dust-devil-xge.md) and a scroll of [erupting earth](/3-Mechanics/CLI/spells/erupting-earth-xge.md) (see appendix B for descriptions of both spells). The monks set them aside, realizing that they are magical and can't be copied.
+Among the books and parchments are a scroll of [dust devil](/03_Mechanics/CLI/spells/dust-devil-xge.md) and a scroll of [erupting earth](/03_Mechanics/CLI/spells/erupting-earth-xge.md) (see appendix B for descriptions of both spells). The monks set them aside, realizing that they are magical and can't be copied.
 
 Characters who take the time to sort through the books find that twenty have value to non-cultists. They're worth 25 gp each.
 
@@ -1411,30 +1411,30 @@ The western stairs lead to area M18 in the mines below the monastery. The northe
 
 The buckets are for fetching water from the well in area M18, a daily chore for the monks.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/035-03-06.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/035-03-06.webp#center)
 
 ### M12. Abbess's Chambers
 
-The door to this room is locked at night. [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) doesn't wish to be disturbed.
+The door to this room is locked at night. [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) doesn't wish to be disturbed.
 
 > [!readaloud] 
 > 
 > This large room contains a wooden table with four chairs, a small working desk, several macramé wall hangings, and a single pallet on a low stone shelf set against the west wall. To the north, a barred window looks out over a walled garden.
 ^21b
 
-[Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) (see chapter 7), the Abbess of Stone, resides here. She spends little time in her room during the day, preferring to exercise and mediate in the dojo (area M15). At night she retires to this room, but she sleeps only in brief catnaps—even in the middle of the night there is a fifty percent chance that she is wide awake.
+[Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) (see chapter 7), the Abbess of Stone, resides here. She spends little time in her room during the day, preferring to exercise and mediate in the dojo (area M15). At night she retires to this room, but she sleeps only in brief catnaps—even in the middle of the night there is a fifty percent chance that she is wide awake.
 
-If confronted here by intruders, [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) immediately attacks. If she is disturbed by individuals who appear to be new recruits or guests of the cult, she curtly informs them that Qarbo can attend to their needs and dismisses them from her presence.
+If confronted here by intruders, [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) immediately attacks. If she is disturbed by individuals who appear to be new recruits or guests of the cult, she curtly informs them that Qarbo can attend to their needs and dismisses them from her presence.
 
 #### Barred Window
 
-The window looking over the garden appears to be solidly barred to prevent egress. However, a catch below the sill releases the bars and lets them swing open, so that a person with a slight build can easily wriggle out of the window and drop to the garden below (area M14). [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) flees by this route if she is cornered and doesn't believe she can defeat her enemies.
+The window looking over the garden appears to be solidly barred to prevent egress. However, a catch below the sill releases the bars and lets them swing open, so that a person with a slight build can easily wriggle out of the window and drop to the garden below (area M14). [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) flees by this route if she is cornered and doesn't believe she can defeat her enemies.
 
 #### Treasure
 
-[Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) has little interest in material possessions, but she understands that others do. The monastery also needs funds from time to time. A large wooden chest by the desk contains 800 sp, 65 pp, and 12 turquoise stones worth 10 gp each, wrapped in a swatch of cowhide.
+[Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) has little interest in material possessions, but she understands that others do. The monastery also needs funds from time to time. A large wooden chest by the desk contains 800 sp, 65 pp, and 12 turquoise stones worth 10 gp each, wrapped in a swatch of cowhide.
 
-The key to area M13 hangs from a hook on the wall by the room's door. [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) wears the key to the padlock in area M24 on a leather cord around her neck.
+The key to area M13 hangs from a hook on the wall by the room's door. [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) wears the key to the padlock in area M24 on a leather cord around her neck.
 
 ### M13. Distilling Room
 
@@ -1445,7 +1445,7 @@ The door to this room is locked at night.
 > Piles of firewood are stacked neatly against one wall of this room, and four large copper kettles stand in iron frames above iron fireboxes. Copper tubing in long coils leads from one kettle to the next. Several large wooden casks stand at the south end of the room, and shelves on the eastern wall hold scores of brown bottles sealed with red wax.
 ^220
 
-The Sacred Stone monks have little use for brandy, but [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) recognizes that innocuous activities like producing liquor for visitors might help to conceal the true nature of the Black Earth cult's studies and philosophy. It is also a useful chore to occupy her monks. During the day, two [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) work here, tending the fires.
+The Sacred Stone monks have little use for brandy, but [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) recognizes that innocuous activities like producing liquor for visitors might help to conceal the true nature of the Black Earth cult's studies and philosophy. It is also a useful chore to occupy her monks. During the day, two [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) work here, tending the fires.
 
 #### Sacred Stone Brandy
 
@@ -1453,16 +1453,16 @@ There are sixty-five bottles of recently bottled brandy on the shelves. It is st
 
 ### M14. Garden of Stone
 
-The garden gate leading to the monastery exterior is normally locked. [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and Qarbo carry keys to the gate.
+The garden gate leading to the monastery exterior is normally locked. [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and Qarbo carry keys to the gate.
 
 > [!readaloud] 
 > 
 > A walled garden shelters beneath the northern wall of the monastery. The garden is poorly kept, although some effort has been made to clear footpaths through the overgrowth. A garden gate to the northeast leads outside. Three doors open into the monastery at the southeast, south, and western side of the garden. The statues in the garden are particularly lifelike.
 ^224
 
-The statues are the handiwork of [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md). He rarely visits the monastery now, but he lived here when he was first establishing the earth cult in the area.
+The statues are the handiwork of [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md). He rarely visits the monastery now, but he lived here when he was first establishing the earth cult in the area.
 
-Two of the statues in this garden are actually [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md). The monsters ignore cultists but freely attack intruders who wander into the area.
+Two of the statues in this garden are actually [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md). The monsters ignore cultists but freely attack intruders who wander into the area.
 
 ### M15. Dojo
 
@@ -1471,36 +1471,36 @@ Two of the statues in this garden are actually [gargoyles](/3-Mechanics/CLI/best
 > Straw mats cover the floor of this large exercise room, and wooden racks along the walls hold quarterstaffs, polearms, and various weapons commonly associated with martial arts. Doors exit to the north and the east. A triangular symbol is carved into the center of the room's western wall.
 ^226
 
-[Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) (see chapter 7), the Abbess of Stone, spends much of her daytime here, sparring with her monks or leading them in various meditations. At any given time, four [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) practice with her. [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md)'s instruction consists of beating her followers senseless, so the two monks are at half their normal hit points.
+[Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) (see chapter 7), the Abbess of Stone, spends much of her daytime here, sparring with her monks or leading them in various meditations. At any given time, four [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see chapter 7) practice with her. [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md)'s instruction consists of beating her followers senseless, so the two monks are at half their normal hit points.
 
-If confronted by individuals she believes to be new recruits, [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) calls them out and tests them personally in hand-to-hand combat. She chooses one character at a time to challenge. If her intended sparring partner declines, [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) attacks anyway. She ends the bout when the victim is down to half hit points or less, or when she is. If multiple characters attack her at once, she realizes at once that this is no longer a practice session and tries her best to kill or incapacitate as many of her foes as possible. Her battered Sacred Stone monks join in as well.
+If confronted by individuals she believes to be new recruits, [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) calls them out and tests them personally in hand-to-hand combat. She chooses one character at a time to challenge. If her intended sparring partner declines, [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) attacks anyway. She ends the bout when the victim is down to half hit points or less, or when she is. If multiple characters attack her at once, she realizes at once that this is no longer a practice session and tries her best to kill or incapacitate as many of her foes as possible. Her battered Sacred Stone monks join in as well.
 
-If the characters somehow get [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) into a talkative mood (a difficult prospect), she explains that she sees the Sacred Stone Monastery as a stepping-stone to service in the Black Earth temple. It's her job to use discipline and drudgery to make newcomers worthy servants of elemental earth. She speaks of [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) with glowing praise and relates the story of his visions and his efforts (see "Marlos's Testament" in area M10).
+If the characters somehow get [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) into a talkative mood (a difficult prospect), she explains that she sees the Sacred Stone Monastery as a stepping-stone to service in the Black Earth temple. It's her job to use discipline and drudgery to make newcomers worthy servants of elemental earth. She speaks of [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md) with glowing praise and relates the story of his visions and his efforts (see "Marlos's Testament" in area M10).
 
-Ordinary clubs and staffs fill the wooden weapons racks. The sign on the wall is the symbol of the earth cult. [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) wears the key to the lock in area M24 on a leather cord around her neck.
+Ordinary clubs and staffs fill the wooden weapons racks. The sign on the wall is the symbol of the earth cult. [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) wears the key to the lock in area M24 on a leather cord around her neck.
 
 ### M16. Renwick's Tower
 
-The door from area M14 to M16 is protected by an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell (cast by the lich [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md)), as is the door leading to the passage to the southwest. Stairs to the north lead down to area M20.
+The door from area M14 to M16 is protected by an [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md) spell (cast by the lich [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md)), as is the door leading to the passage to the southwest. Stairs to the north lead down to area M20.
 
 > [!readaloud] 
 > 
 > This older part of the monastery has been fitted out as a laboratory, with work tables covered in alchemical apparatuses and shelves full of strange curios and dusty clay jars. The windows have been bricked up, and cobwebs hang thick in the ceiling corners. An ancient figure peruses a heavy tome that lies open on a small desk, making notes on sheets of parchment covered in arcane writing.
 ^228
 
-This portion of the monastery serves as the demesne of a long-term tenant of the Sacred Stone Monastery, a [lich](/3-Mechanics/CLI/bestiary/undead/lich-xmm.md) named [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) Caradoon. The lich isn't a member of the Black Earth cult, and he doesn't care about the other residents of the monastery as long as they don't interrupt his studies.
+This portion of the monastery serves as the demesne of a long-term tenant of the Sacred Stone Monastery, a [lich](/03_Mechanics/CLI/bestiary/undead/lich-xmm.md) named [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) Caradoon. The lich isn't a member of the Black Earth cult, and he doesn't care about the other residents of the monastery as long as they don't interrupt his studies.
 
-Hundreds of years ago, [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) was a hero of some renown and the brother of Samular Caradoon, the founder of the Knights of Samular. The two of them fought bravely in the second Troll War. [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md)'s hunger for arcane knowledge eventually led him to prepare for lichdom, but he became a lich only because his brother fed him a lichdom potion on the battlefield rather than let him die. The Black Earth cult naturally tried to make an ally of [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md), but he ignored them. [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and her monks make a point of leaving him to his own devices.
+Hundreds of years ago, [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) was a hero of some renown and the brother of Samular Caradoon, the founder of the Knights of Samular. The two of them fought bravely in the second Troll War. [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md)'s hunger for arcane knowledge eventually led him to prepare for lichdom, but he became a lich only because his brother fed him a lichdom potion on the battlefield rather than let him die. The Black Earth cult naturally tried to make an ally of [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md), but he ignored them. [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and her monks make a point of leaving him to his own devices.
 
 #### Roleplaying Renwick
 
-[Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) doesn't attack intruders. If he believes the characters are Black Earth cultists, he says, "I have already told you no. Depart." If confronted by characters he believes aren't cultists, he says, "I am not your enemy. Now go." If the characters provoke him, he provides fair warning: "In a moment I will fill this room with deadly poisonous gas. You should leave now." If attacked without warning, [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) uses [time stop](/3-Mechanics/CLI/spells/time-stop-xphb.md), then casts [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md) before taking his leave. (The lich has [time stop](/3-Mechanics/CLI/spells/time-stop-xphb.md) prepared instead of [power word kill](/3-Mechanics/CLI/spells/power-word-kill-xphb.md). His list of prepared spells is otherwise the same as the lich presented in the *Monster Manual*.)
+[Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) doesn't attack intruders. If he believes the characters are Black Earth cultists, he says, "I have already told you no. Depart." If confronted by characters he believes aren't cultists, he says, "I am not your enemy. Now go." If the characters provoke him, he provides fair warning: "In a moment I will fill this room with deadly poisonous gas. You should leave now." If attacked without warning, [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) uses [time stop](/03_Mechanics/CLI/spells/time-stop-xphb.md), then casts [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md) before taking his leave. (The lich has [time stop](/03_Mechanics/CLI/spells/time-stop-xphb.md) prepared instead of [power word kill](/03_Mechanics/CLI/spells/power-word-kill-xphb.md). His list of prepared spells is otherwise the same as the lich presented in the *Monster Manual*.)
 
-If the characters recognize [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) (perhaps from the stories told at Summit Hall) and remind him of his heroic days, [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) might be moved to help them. He doesn't want to fight the cultists since he no longer has any wish to kill, but if persuaded to help, he bestows a gift on any paladin or good-aligned fighter in the party: an [amulet of health](/3-Mechanics/CLI/items/amulet-of-health-xdmg.md). He also promises to keep more cultists from reoccupying the monastery after the characters drive them out, and he might part with some of the potions and scrolls described in the next section.
+If the characters recognize [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) (perhaps from the stories told at Summit Hall) and remind him of his heroic days, [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) might be moved to help them. He doesn't want to fight the cultists since he no longer has any wish to kill, but if persuaded to help, he bestows a gift on any paladin or good-aligned fighter in the party: an [amulet of health](/03_Mechanics/CLI/items/amulet-of-health-xdmg.md). He also promises to keep more cultists from reoccupying the monastery after the characters drive them out, and he might part with some of the potions and scrolls described in the next section.
 
 #### Treasure
 
-[Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md)'s curios and esoteric tomes aren't valuable and hold little magical power. For centuries he has been interested in the philosophy of magic, not bigger and more powerful spells or artifacts. However, scattered among the curios are a [potion of greater healing](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), a [potion of hill giant strength](/3-Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md), a scroll of [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), and a scroll of [Snilloc's snowball swarm](/3-Mechanics/CLI/spells/snillocs-snowball-swarm-xge.md) (see appendix B).
+[Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md)'s curios and esoteric tomes aren't valuable and hold little magical power. For centuries he has been interested in the philosophy of magic, not bigger and more powerful spells or artifacts. However, scattered among the curios are a [potion of greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), a [potion of hill giant strength](/03_Mechanics/CLI/items/potion-of-hill-giant-strength-xdmg.md), a scroll of [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), and a scroll of [Snilloc's snowball swarm](/03_Mechanics/CLI/spells/snillocs-snowball-swarm-xge.md) (see appendix B).
 
 ### M17. Lich's Quarters
 
@@ -1509,11 +1509,11 @@ If the characters recognize [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota
 > A magnificent canopy bed covered in dusty tattered sheets and several moth-eaten couches suggest that this room was once the bedchamber of someone important.
 ^22c
 
-When [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) first established himself in the old monastery, he claimed this room, though he has no need for the trappings of life. If he decides to help the characters, he allows them to use this room to rest safely.
+When [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) first established himself in the old monastery, he claimed this room, though he has no need for the trappings of life. If he decides to help the characters, he allows them to use this room to rest safely.
 
 #### Renwick's Phylactery
 
-[Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md) left his phylactery in a place even he can't easily reach: a tomb beneath Summit Hall. If he should be defeated in combat, he'll re-form there—and see whether he can abscond with his brother's body for reburial in the empty sarcophagus in area M20.
+[Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md) left his phylactery in a place even he can't easily reach: a tomb beneath Summit Hall. If he should be defeated in combat, he'll re-form there—and see whether he can abscond with his brother's body for reburial in the empty sarcophagus in area M20.
 
 ### M18. Mine Guardroom
 
@@ -1524,7 +1524,7 @@ The stairs near this room lead up to area M11 on the monastery's ground floor.
 > A large well sits in one corner of this room, equipped with a winch-and-bucket mechanism for fetching water. Doors enter from the north, west, and south. Several dirty straw pallets lie tucked into the corners of the room—including one very large and stinking pallet.
 ^230
 
-This chamber serves as the barracks for the Sacred Stone's subterranean guards: three [orogs](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) and one [ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md). The leader of the orogs is a battle-scarred old veteran named Jurth, who claims the title of "commander." The ogre, a flabby simpleton called Drool, pathetically tries to please Jurth by brutalizing the hapless slaves this band of guards oversees.
+This chamber serves as the barracks for the Sacred Stone's subterranean guards: three [orogs](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) and one [ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md). The leader of the orogs is a battle-scarred old veteran named Jurth, who claims the title of "commander." The ogre, a flabby simpleton called Drool, pathetically tries to please Jurth by brutalizing the hapless slaves this band of guards oversees.
 
 When strangers appear, Jurth and his gang don't immediately attack. Instead, the orog growls, "The pass sign!" He waits for one of the characters to make the hand sign of the earth cult: a simple triangle formed by touching thumbs and forefingers together. If the characters can't guess the pass sign or bluff their way through without one, Jurth and his followers attack.
 
@@ -1534,7 +1534,7 @@ Jurth has accumulated a good store of loot stolen from the hapless captives who 
 
 #### Development
 
-If the characters kill this group of monsters and leave the dungeon without defeating [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md), within `d3` days she replaces these guards with six [duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md). The duergar also arrive if the characters kill Jurth in a random encounter in the mine (area M22).
+If the characters kill this group of monsters and leave the dungeon without defeating [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md), within `d3` days she replaces these guards with six [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md). The duergar also arrive if the characters kill Jurth in a random encounter in the mine (area M22).
 
 ### M19. Slave Pens
 
@@ -1545,24 +1545,24 @@ If the characters kill this group of monsters and leave the dungeon without defe
 
 The cage door leading into each of these pens is locked. Jurth (in area M18) holds the key. Forcing open a cage door requires a successful DC 20 Strength check.
 
-The cells hold a total of seventeen [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md). Most are human peasants, caravan drivers, merchants, or tribesfolk. However, one is the dwarven sage Bruldenthar, one of the missing members of the delegation from Mirabar.
+The cells hold a total of seventeen [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md). Most are human peasants, caravan drivers, merchants, or tribesfolk. However, one is the dwarven sage Bruldenthar, one of the missing members of the delegation from Mirabar.
 
 The cult's prisoners, who have been working in the mines, beg for the characters to free them from their pens and lead them out of the monastery. They know that Jurth carries the keys to the pens, and that he can be found in the guardroom to the north (area M18). If questioned, they tell stories of raiders wearing brown cowls or hoods sweeping into town and carrying them back to servitude in the mines. Strangely, the mine contains no valuable ores.
 
 #### Bruldenthar's Tale
 
-Bruldenthar confirms that earth cultists ambushed the Mirabar delegation south of Beliard, slaying most of their guards. Earth cultists and their captives were ferried across the Dessarin River by pirates who received the sage's beloved books as payment. Bandits flying on giant vultures ambushed the earth cultists somewhere in the Sumber Hills. The bandits captured the delegate Deseyna Norvael. Bruldenthar and the rest were brought to the Sacred Stone Monastery. The sage was put to work, but delegates [Rhundorth](/3-Mechanics/CLI/bestiary/npc/rhundorth-pota.md) and Teresiel were taken below to an unknown fate.
+Bruldenthar confirms that earth cultists ambushed the Mirabar delegation south of Beliard, slaying most of their guards. Earth cultists and their captives were ferried across the Dessarin River by pirates who received the sage's beloved books as payment. Bandits flying on giant vultures ambushed the earth cultists somewhere in the Sumber Hills. The bandits captured the delegate Deseyna Norvael. Bruldenthar and the rest were brought to the Sacred Stone Monastery. The sage was put to work, but delegates [Rhundorth](/03_Mechanics/CLI/bestiary/npc/rhundorth-pota.md) and Teresiel were taken below to an unknown fate.
 
 ### M20. The Haunted Crypt
 
-The doors leading into this area are made of old bronze plate. They aren't locked, but they are stuck (DC 10 Strength check to force open). The stairs to the southeast lead up to area M16, and the door here is locked with an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md).
+The doors leading into this area are made of old bronze plate. They aren't locked, but they are stuck (DC 10 Strength check to force open). The stairs to the southeast lead up to area M16, and the door here is locked with an [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md).
 
 > [!readaloud] 
 > 
 > This barrel-vaulted chamber is obviously an ancient crypt. Niches along the walls hold dozens of old skeletons, some with scraps of burial cloth still clinging to their bones.
 ^238
 
-Not all the monsters beneath the monastery belong to the Black Earth cult. The crypt is part of the dungeon claimed by the lich [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md), who normally can be found in his workshop (area M16). The lich retreats here to avoid confronting determined attackers. Six [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) guard this place, lying among the remains of the long-dead priests and monks who first built it. The creatures obey [Renwick](/3-Mechanics/CLI/bestiary/npc/renwick-pota.md), who ordered them to defend the crypt against all living intruders.
+Not all the monsters beneath the monastery belong to the Black Earth cult. The crypt is part of the dungeon claimed by the lich [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md), who normally can be found in his workshop (area M16). The lich retreats here to avoid confronting determined attackers. Six [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) guard this place, lying among the remains of the long-dead priests and monks who first built it. The creatures obey [Renwick](/03_Mechanics/CLI/bestiary/npc/renwick-pota.md), who ordered them to defend the crypt against all living intruders.
 
 #### Samular's Tomb
 
@@ -1572,7 +1572,7 @@ Stashed inside the sarcophagus is the body of a dead human knight that the Mirab
 
 #### Treasure
 
-Most of the old clerics and monks were buried quite modestly, but one skeleton in the north wall wears a silver ring set with small rubies (600 gp) and a [ring of fire resistance](/3-Mechanics/CLI/items/ring-of-fire-resistance-xdmg.md).
+Most of the old clerics and monks were buried quite modestly, but one skeleton in the north wall wears a silver ring set with small rubies (600 gp) and a [ring of fire resistance](/03_Mechanics/CLI/items/ring-of-fire-resistance-xdmg.md).
 
 ### M21. Hall of Thirsting Stone
 
@@ -1594,7 +1594,7 @@ If the characters enter the room from the stairs or the eastern door, add the fo
 > Behind the iron bars stands a monstrous creature that resembles a cross between a huge ape and a beetle. It has wicked mandibles, powerful claws, and four eye sockets—but two of its eyes have been put out, and its claws are bronze blades. The creature bellows and thrashes in rage, constantly testing the bars and clawing at the walls.
 ^23e
 
-The monster in the western portion of the chamber is an [umber hulk](/3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md). The cultists partially [blinded](/3-Mechanics/CLI/conditions.md#Blinded) the creature and removed its natural claws, so the hulk no longer has its Confusing Gaze power or the ability to burrow. However, the artificial blades increase its claw damage to 14 (`2d8 + 5`) slashing damage. The angry, trapped umber hulk eagerly attacks anything it can reach. If the characters goad it through the bars (for example, by attacking with ranged weapons or spells), the umber hulk goes berserk. It can use an action to attempt a DC 20 Strength check on each of its turns to wrench the cage door open.
+The monster in the western portion of the chamber is an [umber hulk](/03_Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md). The cultists partially [blinded](/03_Mechanics/CLI/conditions.md#Blinded) the creature and removed its natural claws, so the hulk no longer has its Confusing Gaze power or the ability to burrow. However, the artificial blades increase its claw damage to 14 (`2d8 + 5`) slashing damage. The angry, trapped umber hulk eagerly attacks anything it can reach. If the characters goad it through the bars (for example, by attacking with ranged weapons or spells), the umber hulk goes berserk. It can use an action to attempt a DC 20 Strength check on each of its turns to wrench the cage door open.
 
 The natural stone column and the floor of loose earth are harmless. The earth is about 5 feet deep with hard rock underneath; it's not any harder to walk across than firmly packed sand.
 
@@ -1604,9 +1604,9 @@ The lever in area M9 opens the cage door. It can also be opened by unlocking it 
 
 #### Trapped Stairs
 
-The lever in area M9 also causes the stairs leading into this room to collapse, creating a steep slide. A character actively searching the stairs for traps notices the collapsing mechanism with a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+The lever in area M9 also causes the stairs leading into this room to collapse, creating a steep slide. A character actively searching the stairs for traps notices the collapsing mechanism with a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
-Anyone on the stairs when the lever is activated slides to the foot of the stairs and must succeed on a DC 15 Dexterity saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone). While the stairs are collapsed, climbing back up requires a successful DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check.
+Anyone on the stairs when the lever is activated slides to the foot of the stairs and must succeed on a DC 15 Dexterity saving throw or fall [prone](/03_Mechanics/CLI/conditions.md#Prone). While the stairs are collapsed, climbing back up requires a successful DC 15 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check.
 
 Typically, the Black Earth cultists shove victims down the stairs and pull the lever, simultaneously releasing the caged umber hulk and making sure the victims (and the monster) can't escape back up the stairs.
 
@@ -1627,13 +1627,13 @@ The mines aren't heavily trafficked, but the cultists send their captives to wor
 
 | d6;d8 | Encounter |
 |-------|-----------|
-| 1 | `d4` [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (see area M19) |
-| 2 | As per result 1, plus 1 [orog](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (see area M18) |
-| 3 | `d3` [Sacred Stone monks](/3-Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see area M7) |
-| 4 | `d3` [violet fungi](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
-| 5 | 1 [grick](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
-| 6 | Jurth and `d2` [orogs](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (see area M18) |
-| 7–8 | `1d3 + 1` [duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) (see area M5) |
+| 1 | `d4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (see area M19) |
+| 2 | As per result 1, plus 1 [orog](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (see area M18) |
+| 3 | `d3` [Sacred Stone monks](/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota.md) (see area M7) |
+| 4 | `d3` [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
+| 5 | 1 [grick](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
+| 6 | Jurth and `d2` [orogs](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (see area M18) |
+| 7–8 | `1d3 + 1` [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) (see area M5) |
 ^encounter
 
 The commoners labor at new excavations, digging with picks and shovels. They are desperate to escape but are thoroughly intimidated. If they mistake the characters for Black Earth cultists, they cringe and work harder. If they realize that the characters are here to fight the cultists, they eagerly relate everything they know about the layout of the mines and the guards in area M18. The commoners also know where the crypt (area M20) and the Hall of Thirsting Stone (area M21) are located, but they haven't been in those rooms. They beg the characters to free the rest of the captives in area M19 and help them all escape.
@@ -1656,17 +1656,17 @@ This stairway leads to the ruins of Tyar-Besil, exiting the Sacred Stone mines.
 > The passage leads to a gate made of iron bars that blocks the way north, secured with a chain and padlock. Just beyond the gate, worn stone steps descend and turn left. This is no mine tunnel—the stonework is near-perfect despite its evident age. To the right, a short passage leads to a big door of iron plate, dented in from the other side.
 ^249
 
-[Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and Jurth have keys to this gate. The stairs descend about 250 feet before reaching the Temple of Black Earth (see chapter 4). Any dwarf recognizes the steps as dwarven stonework, most likely thousands of years old.
+[Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and Jurth have keys to this gate. The stairs descend about 250 feet before reaching the Temple of Black Earth (see chapter 4). Any dwarf recognizes the steps as dwarven stonework, most likely thousands of years old.
 
 The door to the east is locked and leads to area M21; Jurth and Qarbo hold the keys.
 
 ### Conclusion
 
-When the characters defeat [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and her followers or convince them to guide them deeper into the temple, they are done with the monastery portion of the adventure. The Ancient Stair (area M24) descends about 250 feet, leading to a quarter-mile passage in a natural cavern. This passage in turn leads to area B1 in the Temple of Black Earth (see chapter 4).
+When the characters defeat [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) and her followers or convince them to guide them deeper into the temple, they are done with the monastery portion of the adventure. The Ancient Stair (area M24) descends about 250 feet, leading to a quarter-mile passage in a natural cavern. This passage in turn leads to area B1 in the Temple of Black Earth (see chapter 4).
 
 ## Scarlet Moon Hall
 
-[Elizar Dryflagon](/3-Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md), a fire cultist who was once a druid, has sent word throughout the Dessarin Valley that an obscure (and fictitious) druid circle called the Circle of the Scarlet Moon knows the Rite of the Wicker Giant, a ritual that can restore nature's balance in the troubled region. Several groups have set up camps on the slopes below Scarlet Moon Hall, waiting for Elizar to invite them up to partake in the rite. He has convinced those gathered here that he's a druid of the Circle of the Scarlet Moon and promises to teach others the rite as it's performed. The atmosphere is one of festive anticipation. Real druids here are excited to meet their fellows and learn from the mysterious but powerful Elizar.
+[Elizar Dryflagon](/03_Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md), a fire cultist who was once a druid, has sent word throughout the Dessarin Valley that an obscure (and fictitious) druid circle called the Circle of the Scarlet Moon knows the Rite of the Wicker Giant, a ritual that can restore nature's balance in the troubled region. Several groups have set up camps on the slopes below Scarlet Moon Hall, waiting for Elizar to invite them up to partake in the rite. He has convinced those gathered here that he's a druid of the Circle of the Scarlet Moon and promises to teach others the rite as it's performed. The atmosphere is one of festive anticipation. Real druids here are excited to meet their fellows and learn from the mysterious but powerful Elizar.
 
 ### Area Features
 
@@ -1682,7 +1682,7 @@ The potential foes in this area are varied. The fire cultists pretend to be serv
 
 #### Fires
 
-A number of bonfires burn on the hillside. A bonfire deals `d10` fire damage to a creature the first time on a turn it enters the fire, as well as when the creature starts its turn in the fire. You can modify the damage based on the size of the fire. See the "Damage Severity by Level" table in chapter 5, "[Adventure Environments](/3-Mechanics/CLI/tables/trap-effects-damage-severity-by-level.md)," of the *Dungeon Master's Guide*.
+A number of bonfires burn on the hillside. A bonfire deals `d10` fire damage to a creature the first time on a turn it enters the fire, as well as when the creature starts its turn in the fire. You can modify the damage based on the size of the fire. See the "Damage Severity by Level" table in chapter 5, "[Adventure Environments](/03_Mechanics/CLI/tables/trap-effects-damage-severity-by-level.md)," of the *Dungeon Master's Guide*.
 
 #### Slope
 
@@ -1712,8 +1712,8 @@ Once a battle starts, reinforcements arrive in waves. It's conceivable that, onc
 Characters can avoid the camps entirely by circling the hill and climbing its north side. The north side of the hill is steep but navigable, and can be climbed without having to make ability checks.
 
 > [!gallery]
-> ![Map 3.5: Scarlet Moon Hall](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/036-03-05.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/037-poa11.webp#gallery)
+> ![Map 3.5: Scarlet Moon Hall](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/036-03-05.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/037-poa11.webp#gallery)
 
 ### Areas of the Hall
 
@@ -1724,11 +1724,11 @@ Characters can avoid the camps entirely by circling the hill and climbing its no
 > Four robed humans—two male, two female—chant as they stand around a bonfire. On the periphery of the firelight are two massive elk, placidly chewing.
 ^258
 
-The four [druids](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) (Varigo, Mahoon, Iniri, and Fariya) are looking forward to the Rite of the Wicker Giant and hope it leads to greater cooperation among the druids of the Dessarin Valley. These druids are already celebrating in hopes of a successful rite. They offer the characters food and drink, including a few sips from a small cask of brandy, and encourage the group to spend the night and witness the rite, which should occur tomorrow.
+The four [druids](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md) (Varigo, Mahoon, Iniri, and Fariya) are looking forward to the Rite of the Wicker Giant and hope it leads to greater cooperation among the druids of the Dessarin Valley. These druids are already celebrating in hopes of a successful rite. They offer the characters food and drink, including a few sips from a small cask of brandy, and encourage the group to spend the night and witness the rite, which should occur tomorrow.
 
 The fire cultists have decided that these druids are unsuitable for induction into the cult. Elizar plans to feed them to the wicker giant during the rite.
 
-These druids fight only if attacked, spurring their two [elk](/3-Mechanics/CLI/bestiary/beast/elk-xmm.md) companions into battle. They beg for mercy once half of them (including the elk) are down.
+These druids fight only if attacked, spurring their two [elk](/03_Mechanics/CLI/bestiary/beast/elk-xmm.md) companions into battle. They beg for mercy once half of them (including the elk) are down.
 
 #### Reinforcements
 
@@ -1736,7 +1736,7 @@ Camp Hc2 arrives the first time a disturbance is detected. Camp Hc3 arrives if t
 
 #### Treasure
 
-The druids have a scroll of [elemental bane](/3-Mechanics/CLI/spells/elemental-bane-xge.md) and a scroll of [warding wind](/3-Mechanics/CLI/spells/warding-wind-xge.md) (see appendix B for descriptions of both spells) in a wooden case in one of their tents.
+The druids have a scroll of [elemental bane](/03_Mechanics/CLI/spells/elemental-bane-xge.md) and a scroll of [warding wind](/03_Mechanics/CLI/spells/warding-wind-xge.md) (see appendix B for descriptions of both spells) in a wooden case in one of their tents.
 
 ### Hc2. Cult Camp
 
@@ -1745,7 +1745,7 @@ The druids have a scroll of [elemental bane](/3-Mechanics/CLI/spells/elemental-b
 > Two human men in robes stand before the bonfire. On the other side of it, leashed to a peg pounded into the ground, is a brown bear.
 ^25d
 
-The humans are two [Eternal Flame priests](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) (see chapter 7) claiming to be Aylbrith and Ingulf, posing as druids of the Circle of the Scarlet Moon. They have a captured [brown bear](/3-Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) with them to improve their disguise. They warmly greet visitors who aren't obviously hostile, asking questions to determine the characters' reason for visiting Scarlet Moon Hall.
+The humans are two [Eternal Flame priests](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) (see chapter 7) claiming to be Aylbrith and Ingulf, posing as druids of the Circle of the Scarlet Moon. They have a captured [brown bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) with them to improve their disguise. They warmly greet visitors who aren't obviously hostile, asking questions to determine the characters' reason for visiting Scarlet Moon Hall.
 
 If the characters aren't mollified by their claims, the cultists attack. If it can't reach someone within 10 feet of it, the bear uses its action to make a DC 20 Strength check, breaking its leash on a success. Once free, it attacks the fire cultists if it can't reach a character.
 
@@ -1760,7 +1760,7 @@ Camp Hc1 arrives first, though the druids of that camp try to talk it out rather
 > Two rugged humans sit near a large bonfire. They are sparsely dressed and very hairy.
 ^261
 
-The humans, Storol and Wiglaf, are [werewolves](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md). They are here because they want to know what the druids are up to. They think the Rite of the Wicker Giant is real.
+The humans, Storol and Wiglaf, are [werewolves](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md). They are here because they want to know what the druids are up to. They think the Rite of the Wicker Giant is real.
 
 The werewolves don't know it, but they passed the initial test when fire cultists visited this camp. The fire cult has no idea Storol and Wiglaf are lycanthropes, but they noticed the pair's killer instinct.
 
@@ -1777,7 +1777,7 @@ Camp Hc4 arrives first, then camp Hc6 if the disturbance persists. These reinfor
 > A half-elf woman here is dressed in robes, while her three companions—a human woman and two human men—are dressed in rugged clothing and breastplates. The three in armor cook food on kebabs at their bonfire.
 ^265
 
-These people are an [Eternal Flame priest](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) and three [Eternal Flame guardians](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7 for both). The priest—a half-elf named Lytin—looks like a druid and tries to do all the talking. Her guardians—Biart, Orm, and Malin—look like rangers, and they become more nervous the longer any conversation lasts.
+These people are an [Eternal Flame priest](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) and three [Eternal Flame guardians](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7 for both). The priest—a half-elf named Lytin—looks like a druid and tries to do all the talking. Her guardians—Biart, Orm, and Malin—look like rangers, and they become more nervous the longer any conversation lasts.
 
 #### Reinforcements
 
@@ -1790,7 +1790,7 @@ Camp Hc3 arrives first, but camp Hc5 might respond to prolonged disturbances.
 > This bonfire is a little smaller than the others. An elf woman in robes plays a fiddle as two sprites dance around the smoke above the fire.
 ^269
 
-This camp has a real [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md), Gariena, and two [sprites](/3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) named Flix and Afid. They are here to contribute to the rite. Gariena has a sense of anticipation, but she wonders why she never heard of the Rite of the Wicker Giant. She also wonders why the preparations are taking so long.
+This camp has a real [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md), Gariena, and two [sprites](/03_Mechanics/CLI/bestiary/fey/sprite-xmm.md) named Flix and Afid. They are here to contribute to the rite. Gariena has a sense of anticipation, but she wonders why she never heard of the Rite of the Wicker Giant. She also wonders why the preparations are taking so long.
 
 Gariena fights only if attacked and happily shares her campfire with friendly characters. No one can camp here, though. The sprites can't be trusted to refrain from pranks, and Gariena wants no trouble.
 
@@ -1800,7 +1800,7 @@ Camp Hc4 arrives, attacking intruders first, then trying to finish off Gariena a
 
 #### Treasure
 
-Gariena has a coinpurse with 40 sp and 18 gp in it, plus she wears a silver ring worth 25 gp and carries a scroll of [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) and a scroll of [skywrite](/3-Mechanics/CLI/spells/skywrite-xge.md) (see appendix B). If the characters earn her favor, she gives them her scrolls as gifts to help them in their struggle against the cults of Elemental Evil.
+Gariena has a coinpurse with 40 sp and 18 gp in it, plus she wears a silver ring worth 25 gp and carries a scroll of [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) and a scroll of [skywrite](/03_Mechanics/CLI/spells/skywrite-xge.md) (see appendix B). If the characters earn her favor, she gives them her scrolls as gifts to help them in their struggle against the cults of Elemental Evil.
 
 ### Hc6. Druid Camp
 
@@ -1809,7 +1809,7 @@ Gariena has a coinpurse with 40 sp and 18 gp in it, plus she wears a silver ring
 > Three people doze near the bonfire as a fourth leans on a staff, clearly bored out of his mind.
 ^26e
 
-The three sleeping [druids](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md)—Comnall, Murcadh, and Ragnad—wake if the characters approach openly. The fourth person is Sauruki, a [Crushing Wave priest](/3-Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md) (see chapter 7) sent by the water cult to figure out what the fire cult is up to here. They're suspicious about strangers, but Sauruki is curious about who the characters are.
+The three sleeping [druids](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md)—Comnall, Murcadh, and Ragnad—wake if the characters approach openly. The fourth person is Sauruki, a [Crushing Wave priest](/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota.md) (see chapter 7) sent by the water cult to figure out what the fire cult is up to here. They're suspicious about strangers, but Sauruki is curious about who the characters are.
 
 The fire cultists haven't made up their minds about this group, although Sauruki has concluded that the fire cultists are seeking recruits.
 
@@ -1826,11 +1826,11 @@ Camp Hc7 arrives. Camp Hc3 arrives if the disturbance persists.
 > This fringe camp has three bulky figures standing near the fire, their robes' hoods pulled up. Two worgs rest at edge of the firelight.
 ^272
 
-The hooded figures are three [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), accompanied by two [worgs](/3-Mechanics/CLI/bestiary/fey/worg-xmm.md). Until recently, this camp was occupied by druids who didn't pass muster with the fire cult and were fed to the wicker giant. The bugbears are trying to look like druids from a distance until the other camps are cleared out. Knowing they aren't going to fool anyone at close range, they attack immediately.
+The hooded figures are three [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), accompanied by two [worgs](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md). Until recently, this camp was occupied by druids who didn't pass muster with the fire cult and were fed to the wicker giant. The bugbears are trying to look like druids from a distance until the other camps are cleared out. Knowing they aren't going to fool anyone at close range, they attack immediately.
 
 #### Reinforcements
 
-Camp Hc6 arrives first. The druids aren't sure who to fight at first, though the characters can sway them with a successful DC 10 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check.
+Camp Hc6 arrives first. The druids aren't sure who to fight at first, though the characters can sway them with a successful DC 10 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check.
 
 #### Treasure
 
@@ -1845,7 +1845,7 @@ The bugbears carry a total of 68 cp, 42 sp, and 55 gp.
 
 The tower is under repair, with wooden scaffolding some thirty feet high stretching across the east and west sides. Lanterns hang from struts and poles attached to the woodworks. Two guards with crossbows watch the courtyard from the scaffolding to the west. Rubble chokes a wide doorway, likely once the main entrance, on the tower's south side.
 
-The two praying figures are [Eternal Flame priests](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) (see chapter 7). They're disguised as druids, but no one is supposed to be in the courtyard, so they attack intruders. For her first action, one priest stands before the wicker giant and cries, "Arise, and cleanse this place of the unworthy!" She uses her next two actions to repeat this call. If she dies, the other priest uses his actions to do the same. If the priests succeed at calling on the wicker giant three times, see area H2.
+The two praying figures are [Eternal Flame priests](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) (see chapter 7). They're disguised as druids, but no one is supposed to be in the courtyard, so they attack intruders. For her first action, one priest stands before the wicker giant and cries, "Arise, and cleanse this place of the unworthy!" She uses her next two actions to repeat this call. If she dies, the other priest uses his actions to do the same. If the priests succeed at calling on the wicker giant three times, see area H2.
 
 #### Reinforcements
 
@@ -1858,7 +1858,7 @@ The defenders in the kennel (area H3) join the battle. The guards on the scaffol
 > Waves of heat come from the burning wicker giant, but the wooden structure contains the flames without being consumed by them.
 ^27b
 
-Bound in the wicker giant is a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md). It remains quiescent until the tower scaffolding starts to collapse, the priests beckon it forth (see area H1), or the characters damage the wicker giant.
+Bound in the wicker giant is a [fire elemental](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md). It remains quiescent until the tower scaffolding starts to collapse, the priests beckon it forth (see area H1), or the characters damage the wicker giant.
 
 Once it emerges, the elemental attacks any creature that couldn't reasonably be mistaken for a fire cultist. It also burns anything nearby that's flammable. Once the elemental emerges, the wicker giant itself starts to burn, much like the scaffolding in area H4.
 
@@ -1869,24 +1869,24 @@ Once it emerges, the elemental attacks any creature that couldn't reasonably be 
 > Ruined walls surround this shallow pit, which was probably a basement once.
 ^27d
 
-Two [hell hounds](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) and one [Eternal Flame guardian](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7) stand guard here.
+Two [hell hounds](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) and one [Eternal Flame guardian](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7) stand guard here.
 
 ### H4. Scaffolding
 
-The tower scaffolding is 30 feet high and equally as long. It is easy to climb and has a walkway about every 7 feet up. Two [Eternal Flame guardians](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7) cover the courtyard from their perches on the scaffolding, preferring not to get drawn into melee combat.
+The tower scaffolding is 30 feet high and equally as long. It is easy to climb and has a walkway about every 7 feet up. Two [Eternal Flame guardians](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7) cover the courtyard from their perches on the scaffolding, preferring not to get drawn into melee combat.
 
 At your option, perhaps due to a falling lantern or stray fire spell, a portion of the scaffolding can catch fire. Such a fire spreads 5 feet in every direction at the start of each round until the structure is fully engulfed. Starting 1 minute after the scaffolding first catches fire, randomly choose `d2` 10-foot sections to collapse every minute until the whole structure is a flaming ruin.
 
 ### H5. Upper Entry Chamber
 
-The door to this chamber is reachable only from the top of the scaffolding. The tower wall is rough fieldstone, so it can be climbed with successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) checks.
+The door to this chamber is reachable only from the top of the scaffolding. The tower wall is rough fieldstone, so it can be climbed with successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) checks.
 
 > [!readaloud] 
 > 
 > This warmly lit room has a large in the wooden floor and stone stairs leading up the northern wall.
 ^280
 
-Unless they joined the battle in area H2, two [Eternal Flame guardians](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7) are here, accompanied by an [azer](/3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) who's acting as an envoy between [Vanifer](/3-Mechanics/CLI/bestiary/npc/vanifer-pota.md) and Elizar. They're eager to lure enemies near the hole in the floor, then push them to drop 20 feet into area H6.
+Unless they joined the battle in area H2, two [Eternal Flame guardians](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7) are here, accompanied by an [azer](/03_Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) who's acting as an envoy between [Vanifer](/03_Mechanics/CLI/bestiary/npc/vanifer-pota.md) and Elizar. They're eager to lure enemies near the hole in the floor, then push them to drop 20 feet into area H6.
 
 Wooden stairs lead up to area H7.
 
@@ -1901,7 +1901,7 @@ If a battle here lasts more than 3 rounds, the cultists in area H7 awaken. They 
 > A massive pile of rubble—the furniture and flooring from the level above—sits in the middle of this chamber. A cluster of small fire-creatures burns the wooden beams along the north wall, where a tunnel leads downward.
 ^284
 
-Rubble covers what was once the main entrance to the tower, but five [magmins](/3-Mechanics/CLI/bestiary/elemental/magmin-xmm.md) are burning away the debris to make the tunnel in the northern floor larger. They attack anyone who doesn't look like a fire cultist.
+Rubble covers what was once the main entrance to the tower, but five [magmins](/03_Mechanics/CLI/bestiary/elemental/magmin-xmm.md) are burning away the debris to make the tunnel in the northern floor larger. They attack anyone who doesn't look like a fire cultist.
 
 #### Tunnel
 
@@ -1914,11 +1914,11 @@ The tunnel winds downward and eventually connects to area E1 of the Temple of Et
 > This room has a dozen bedrolls scattered across the floor. Stone stairs continue upward along the inside of the tower's north wall.
 ^288
 
-If they haven't been disturbed, one [Eternal Flame priest](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) and two [Eternal Flame guardians](/3-Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7 for both) are asleep when the characters arrive.
+If they haven't been disturbed, one [Eternal Flame priest](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-priest-pota.md) and two [Eternal Flame guardians](/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota.md) (see chapter 7 for both) are asleep when the characters arrive.
 
 #### Reinforcements
 
-If [Elizar Dryflagon](/3-Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md) is in area H8 and hears a disturbance in this room, he joins the battle as soon as he can.
+If [Elizar Dryflagon](/03_Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md) is in area H8 and hears a disturbance in this room, he joins the battle as soon as he can.
 
 #### Weak Floor
 
@@ -1926,18 +1926,18 @@ The area marked with lines creaks loudly whenever someone steps on it. At the st
 
 ### H8. Elizar's Chamber
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/038-poa03-10.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/038-poa03-10.webp#center)
 
 > [!readaloud] 
 > 
 > The room contains a bedroll, a desk, and a bookcase. On the northern wall, a tall ladder leads up to a trapdoor in the ceiling.
 ^28d
 
-[Elizar Dryflagon](/3-Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md) (see chapter 7), an older man in robes and carrying a pipe, is here if he didn't join a battle in area H7. Behind a veneer of good humor is the heart of a pyromaniac. He doesn't parley for long, preferring to burn the characters out of existence.
+[Elizar Dryflagon](/03_Mechanics/CLI/bestiary/npc/elizar-dryflagon-pota.md) (see chapter 7), an older man in robes and carrying a pipe, is here if he didn't join a battle in area H7. Behind a veneer of good humor is the heart of a pyromaniac. He doesn't parley for long, preferring to burn the characters out of existence.
 
 #### Treasure
 
-In Elizar's desk are 250 gp, two fire opals (worth 50 gp each), and a scroll of [flame arrows](/3-Mechanics/CLI/spells/flame-arrows-xge.md) (see appendix B).
+In Elizar's desk are 250 gp, two fire opals (worth 50 gp each), and a scroll of [flame arrows](/03_Mechanics/CLI/spells/flame-arrows-xge.md) (see appendix B).
 
 ### H9. Bats in the Attic
 
@@ -1946,7 +1946,7 @@ In Elizar's desk are 250 gp, two fire opals (worth 50 gp each), and a scroll of 
 > This chamber is under the tower's angled upper roof. Holes in the ceiling lead to the open air. A short ladder to the west leads through one such opening. The room smells strongly of the droppings that cover the floor.
 ^290
 
-Four [giant bats](/3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) roost here. Fire cultists periodically burn them out, but others return within a tenday. The bats are hungry and aggressive, so they attack anyone who comes through the trapdoor.
+Four [giant bats](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) roost here. Fire cultists periodically burn them out, but others return within a tenday. The bats are hungry and aggressive, so they attack anyone who comes through the trapdoor.
 
 #### Roof Opening
 

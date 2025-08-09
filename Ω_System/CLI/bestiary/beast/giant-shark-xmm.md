@@ -18,7 +18,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Shark (XMM)"
@@ -38,7 +38,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "5"
 "speed": "5 ft., swim 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": ""
@@ -49,13 +49,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "actions":
   - "desc": "The shark makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "Melee Attack Roll: +9 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
+  - "desc": "Melee Attack Roll: +9 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ if the target doesn't have all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)),\
       \ reach 5 ft. Hit: 22 (3d10 + 6) Piercing damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-shark-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-shark-xmm.webp"
 ```
 ^statblock
 

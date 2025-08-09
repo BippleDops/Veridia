@@ -78,7 +78,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/star-spawn-grue-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/star-spawn-grue-mpmm.webp"
 ```
 ^statblock
 

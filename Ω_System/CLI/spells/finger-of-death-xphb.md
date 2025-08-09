@@ -31,8 +31,8 @@ modified: 2025-07-23 12:39
 
 You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking `7d8 + 30` Necrotic damage on a failed save or half as much damage on a successful one.
 
-A Humanoid killed by this spell rises at the start of your next turn as a [Zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) that follows your verbal orders.
+A Humanoid killed by this spell rises at the start of your next turn as a [Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) that follows your verbal orders.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

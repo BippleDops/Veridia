@@ -21,7 +21,7 @@ aliases:
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md)"
+"ac_class": "[chain shirt](/03_Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -33,8 +33,8 @@ aliases:
   - !!int "6"
   - !!int "1"
 "speed": "20 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/8"
@@ -44,6 +44,6 @@ aliases:
     "name": "Shortsword"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/drow-spore-servant-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/drow-spore-servant-oota.webp"
 ```
 ^statblock

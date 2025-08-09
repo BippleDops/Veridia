@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Trinket
 *Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/trinkets-1.webp#right)
+![](/03_Mechanics/CLI/items/img/trinkets-1.webp#right)
 
 
 When you make your character, you can roll once on the Trinkets table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
@@ -128,7 +128,7 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 | 00 | A metal urn containing the ashes of a hero |
 ^trinkets
 
-![](/3-Mechanics/CLI/items/img/trinkets-2.webp#center)
+![](/03_Mechanics/CLI/items/img/trinkets-2.webp#center)
 
 
 *Source: Player's Handbook (2024) p. 47. Available in the Free Rules (2024)*

@@ -45,14 +45,14 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal"
 "cr": "4"
@@ -71,14 +71,14 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\nAt will:\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [fear](/3-Mechanics/CLI/spells/fear-xphb.md), [heat metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)"
+      \ [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fear](/03_Mechanics/CLI/spells/fear-xphb.md), [heat metal](/03_Mechanics/CLI/spells/heat-metal-xphb.md),\
+      \ [levitate](/03_Mechanics/CLI/spells/levitate-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp"
 ```
 ^statblock
 

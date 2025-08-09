@@ -64,23 +64,23 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - !!int "16"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "truesight 30 ft., passive Perception 15"
 "languages": "all"
 "cr": "1"
 "traits":
   - "desc": "The empyrean can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ were [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "The empyrean has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The empyrean has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -89,16 +89,16 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Otherworldly Strike"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability:\n\n1/day each:\
-      \ [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\
+      \ [Bless](/03_Mechanics/CLI/spells/bless-xphb.md), [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md)\
       \ (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The empyrean casts [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
+  - "desc": "The empyrean casts [Healing Word](/03_Mechanics/CLI/spells/healing-word-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Healing Word (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-iota-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/miscellaneous/token/empyrean-iota-xmm.webp"
 ```
 ^statblock
 

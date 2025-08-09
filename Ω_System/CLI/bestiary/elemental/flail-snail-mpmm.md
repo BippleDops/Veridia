@@ -26,9 +26,9 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](/3-Mechanics/CLI/items/spellguard-shield-xdmg.md).
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](/03_Mechanics/CLI/items/spellguard-shield-xdmg.md).
 
-A flail snail shell can also be used to make a [robe of scintillating colors](/3-Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [robe of scintillating colors](/03_Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail (MPMM)"
@@ -49,7 +49,7 @@ A flail snail shell can also be used to make a [robe of scintillating colors](/3
   - !!int "5"
 "speed": "10 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"
@@ -74,17 +74,17 @@ A flail snail shell can also be used to make a [robe of scintillating colors](/3
       \ radius and dim light for an additional 30 feet, and creatures that can see\
       \ the snail have disadvantage on attack rolls against it. In addition, any creature\
       \ within the bright light and able to see the snail when this power is activated\
-      \ must succeed on a DC 15 Wisdom saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ must succeed on a DC 15 Wisdom saving throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ until the light ends."
     "name": "Scintillating Shell (Recharges after a Short or Long Rest)"
   - "desc": "The flail snail withdraws into its shell. Until it emerges, it gains\
-      \ a +4 bonus to its AC and is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
+      \ a +4 bonus to its AC and is [restrained](/03_Mechanics/CLI/conditions.md#Restrained).\
       \ It can emerge from its shell as a bonus action on its turn."
     "name": "Shell Defense"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/flail-snail-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/flail-snail-mpmm.webp"
 ```
 ^statblock
 

@@ -39,7 +39,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -47,7 +47,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "traits":
   - "desc": "The velociraptor has advantage on an attack roll against a creature if\
       \ at least one of the velociraptor's allies is within 5 feet of the creature\
-      \ and the ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ and the ally isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The velociraptor makes one Bite attack and one Claw attack."
@@ -61,7 +61,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp"
 ```
 ^statblock
 

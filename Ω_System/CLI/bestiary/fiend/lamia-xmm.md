@@ -59,11 +59,11 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
   - !!int "16"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Common"
@@ -77,22 +77,22 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
     "name": "Claw"
   - "desc": "Wisdom Saving Throw: DC 13, one creature the lamia can see within 5\
       \ feet. Failure: 13 (3d8) Psychic damage, and the target is cursed for 1 hour.\
-      \ Until the curse ends, the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ and [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) conditions."
+      \ Until the curse ends, the target has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ and [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) conditions."
     "name": "Corrupting Touch"
   - "desc": "The lamia casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt\
-      \ will: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) (can\
-      \ appear as a Large or Medium biped), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-      \n1/day each: [Geas](/3-Mechanics/CLI/spells/geas-xphb.md), [Major Image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)"
+      \ will: [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) (can\
+      \ appear as a Large or Medium biped), [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n1/day each: [Geas](/03_Mechanics/CLI/spells/geas-xphb.md), [Major Image](/03_Mechanics/CLI/spells/major-image-xphb.md),\
+      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The lamia jumps up to 30 feet by spending 10 feet of movement."
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/lamia-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/lamia-xmm.webp"
 ```
 ^statblock
 

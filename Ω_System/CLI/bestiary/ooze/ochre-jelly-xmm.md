@@ -62,10 +62,10 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [deafened](/03_Mechanics/CLI/conditions.md#Deafened),\
+  \ [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "2"
@@ -80,17 +80,17 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 12 (3d6 + 2) Acid damage."
     "name": "Pseudopod"
 "reactions":
-  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it becomes [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md) or\
+  - "desc": "Trigger: While the jelly is Large or Medium and has 10+ [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ it becomes [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md) or\
       \ is subjected to Lightning or Slashing damage. _Response:_ The jelly splits\
       \ into two new Ochre Jellies. Each new jelly is one size smaller than the original\
-      \ jelly and acts on its [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md).\
-      \ The original jelly's [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ jelly and acts on its [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md).\
+      \ The original jelly's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ are divided evenly between the new jellies (round down)."
     "name": "Split"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp"
 ```
 ^statblock
 

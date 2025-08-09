@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Creature Type
 *Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-Every creature, including every [player character](/3-Mechanics/CLI/variant-rules/player-character-xphb.md), has a tag in the rules that identifies the type of creature it is. Most [player characters](/3-Mechanics/CLI/variant-rules/player-character-xphb.md) are of the Humanoid type. These are the game's creature types:
+Every creature, including every [player character](/03_Mechanics/CLI/variant-rules/player-character-xphb.md), has a tag in the rules that identifies the type of creature it is. Most [player characters](/03_Mechanics/CLI/variant-rules/player-character-xphb.md) are of the Humanoid type. These are the game's creature types:
 
 - Aberration  
 - Beast  

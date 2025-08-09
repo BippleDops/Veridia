@@ -47,18 +47,18 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
     "desc": "+8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "11"
@@ -76,13 +76,13 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Electrified Touch"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 23\
       \ (3d12 + 4) force damage. If the target is a creature, it must succeed on a\
-      \ DC 16 Constitution saving throw or become [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ DC 16 Constitution saving throw or become [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ until the end of the yagnoloth's next turn."
     "name": "Massive Arm"
   - "desc": "Up to two allied yugoloths within 60 feet of the yagnoloth that can hear\
       \ it can use their reactions to make one melee attack each."
     "name": "Battlefield Cunning (Recharge 4-6)"
-  - "desc": "The yagnoloth touches one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "The yagnoloth touches one [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage,\
       \ and the yagnoloth gains temporary hit points equal to half the damage dealt.\
       \ The target must succeed on a DC 16 Constitution saving throw, or its hit point\
@@ -95,16 +95,16 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
-      \ magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n3/day: [lightning\
-      \ bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      \nAt will: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [detect\
+      \ magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (self only),\
+      \ [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md)\n\n3/day: [lightning\
+      \ bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
 ```
 ^statblock
 

@@ -15,11 +15,11 @@ modified: 2025-07-23 12:39
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
 
-A Ballista is a massive crossbow that fires heavy bolts. Loading a Ballista requires the [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, and aiming it requires another [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action. Then a crew member can take the Ballista Bolt action.
+A Ballista is a massive crossbow that fires heavy bolts. Loading a Ballista requires the [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action, and aiming it requires another [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action. Then a crew member can take the Ballista Bolt action.
 
 ```ad-statblock
 title: Ballista
-![](/3-Mechanics/CLI/objects/token/ballista-xdmg.webp#token)
+![](/03_Mechanics/CLI/objects/token/ballista-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15

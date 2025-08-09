@@ -53,13 +53,13 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
       \ the target immediately before the hit, the target takes an extra 7 (2d6) piercing\
       \ damage."
     "name": "Gore"
-  - "desc": "The rothé casts [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+  - "desc": "The rothé casts [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md),\
       \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Dancing Lights"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/deep-rothe-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/deep-rothe-mpmm.webp"
 ```
 ^statblock
 

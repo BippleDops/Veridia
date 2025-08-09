@@ -45,16 +45,16 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "intelligence": !!int "13"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+13"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "18"
@@ -84,23 +84,23 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "desc": "The sibriex targets up to three creatures it can see within 120 feet\
       \ of it. Each target must make a DC 20 Constitution saving throw. On a successful\
       \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
-      \ save, the target is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), which\
-      \ causes it to also gain 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the\
+      \ save, the target is [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), which\
+      \ causes it to also gain 1 level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).\
+      \ While [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way, the\
       \ target must repeat the saving throw at the start of each of its turns. Three\
       \ successful saves against the poison end it, and ending the poison removes\
-      \ any levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) caused\
-      \ by it. Each failed save causes the target to gain another level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
-      \ Once the target reaches 6 levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-      \ it dies and instantly transforms into a living [manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
+      \ any levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) caused\
+      \ by it. Each failed save causes the target to gain another level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).\
+      \ Once the target reaches 6 levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+      \ it dies and instantly transforms into a living [manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell."
+      \ only by a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \nAt will: [command](/3-Mechanics/CLI/spells/command-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md)\n\n1/day:\
-      \ [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md)"
+      \nAt will: [command](/03_Mechanics/CLI/spells/command-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md)\n\n1/day:\
+      \ [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md)"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The sibriex uses Spellcasting."
@@ -112,7 +112,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/sibriex-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/sibriex-mpmm.webp"
 ```
 ^statblock
 

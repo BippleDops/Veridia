@@ -30,7 +30,7 @@ You can communicate simple concepts to frogs and toads when you speak in Bullywu
 
 ### Swamp Camouflage
 
-You have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide in swampy terrain.
+You have advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks made to hide in swampy terrain.
 
 ### Standing Leap
 

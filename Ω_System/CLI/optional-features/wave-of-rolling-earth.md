@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 17
 
-You can spend 6 ki points to cast [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md).
+You can spend 6 ki points to cast [wall of stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md).

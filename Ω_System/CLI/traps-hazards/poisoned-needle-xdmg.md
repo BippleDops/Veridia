@@ -13,15 +13,15 @@ modified: 2025-07-23 12:39
 # Poisoned Needle
 *Generic Hazard*  
 
-A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (`d10`) Poison damage and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour. On a successful save, the creature takes half as much damage only.
+A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (`d10`) Poison damage and has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour. On a successful save, the creature takes half as much damage only.
 
 ## Avoid
 
-The trap doesn't trigger if the lock is opened using a [Knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
+The trap doesn't trigger if the lock is opened using a [Knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
 
 ## Detect and Disarm
 
-As a [Search](/3-Mechanics/CLI/actions.md#Search) action, a creature can examine the trapped lock and make a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check. On a failed check, the creature triggers the trap.
+As a [Search](/03_Mechanics/CLI/actions.md#Search) action, a creature can examine the trapped lock and make a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check, detecting the needle on a successful check. Once the trap is detected, a character can take an action to try to disarm the trap, doing so with a successful DC 15 Dexterity ([Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check. On a failed check, the creature triggers the trap.
 
 ## At Higher Levels
 

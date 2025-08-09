@@ -42,7 +42,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   - !!int "7"
 "speed": "0 ft., swim 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "blindsight 60 ft., passive Perception 13"
 "languages": ""
@@ -59,7 +59,7 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp"
 ```
 ^statblock
 

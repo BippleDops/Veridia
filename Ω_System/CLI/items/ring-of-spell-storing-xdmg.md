@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Ring of Spell Storing
 *Ring, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-spell-storing.webp#right)
+![](/03_Mechanics/CLI/items/img/ring-of-spell-storing.webp#right)
 
 
 This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains `1d6 - 1` levels of stored spells chosen by the DM.

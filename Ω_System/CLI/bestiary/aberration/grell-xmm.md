@@ -66,12 +66,12 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "Deep Speech"
 "cr": "3"
@@ -84,17 +84,17 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 11 (2d8 + 2) Piercing damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 7 (1d10 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
       \ to the following effect. Constitution Saving Throw: DC 11. Failure: The\
-      \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition\
       \ and repeats the save at the end of each of its turns, ending the effect on\
-      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+      \ the target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp"
 ```
 ^statblock
 

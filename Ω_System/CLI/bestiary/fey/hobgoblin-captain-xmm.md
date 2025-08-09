@@ -78,10 +78,10 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
-  - "desc": "While in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "While in a 10-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
-      \ [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition."
     "name": "Aura of Authority"
 "actions":
   - "desc": "The hobgoblin makes two attacks, using Greatsword or Longbow in any combination."
@@ -94,7 +94,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
     "name": "Longbow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-captain-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-captain-xmm.webp"
 ```
 ^statblock
 

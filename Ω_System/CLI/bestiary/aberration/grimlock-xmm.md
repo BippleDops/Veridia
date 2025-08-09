@@ -64,11 +64,11 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "blindsight 30 ft., passive Perception 13"
 "languages": ""
@@ -79,7 +79,7 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
     "name": "Bone Cudgel"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/grimlock-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/grimlock-xmm.webp"
 ```
 ^statblock
 

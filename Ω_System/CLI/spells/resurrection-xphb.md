@@ -29,12 +29,12 @@ modified: 2025-07-23 12:39
 
 With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
 
-The creature returns to life with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
+The creature returns to life with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). Every time the target finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), the penalty is reduced by 1 until it becomes 0.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Tests](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md). Every time the target finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md), the penalty is reduced by 1 until it becomes 0.
 
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you can't cast spells again, and you have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md).
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md), you can't cast spells again, and you have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on [D20 Tests](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md).
 
-**Classes**: [Sorcerer (Divine Soul)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md)
+**Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

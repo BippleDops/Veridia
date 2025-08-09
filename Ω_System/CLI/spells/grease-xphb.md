@@ -35,10 +35,10 @@ modified: 2025-07-23 12:39
 - **Components:** V, S, M (a bit of pork rind or butter)
 - **Duration:** 1 minute
 
-Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) for the duration.
+Nonflammable grease covers the ground in a 10-foot square centered on a point within range and turns it into [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) for the duration.
 
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [Prone](/3-Mechanics/CLI/conditions.md#Prone).
+When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition. A creature that enters the area or ends its turn there must also succeed on that save or fall [Prone](/03_Mechanics/CLI/conditions.md#Prone).
 
-**Classes**: [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

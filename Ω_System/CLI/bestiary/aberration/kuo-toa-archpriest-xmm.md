@@ -99,9 +99,9 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+4"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 19"
 "languages": "Undercommon"
@@ -109,7 +109,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -120,19 +120,19 @@ Kuo-toa typically organize their communities around sites they believe to be imp
     "name": "Strange Scepter"
   - "desc": "The kuo-toa casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 14):\n\
-      \nAt will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day each:\
-      \ [Destructive Wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md), [Divination](/3-Mechanics/CLI/spells/divination-xphb.md),\
-      \ [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) (level 6 version),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+      \nAt will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n1/day each:\
+      \ [Destructive Wave](/03_Mechanics/CLI/spells/destructive-wave-xphb.md), [Divination](/03_Mechanics/CLI/spells/divination-xphb.md),\
+      \ [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) (level 6 version),\
+      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md), [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The kuo-toa casts [Shield of Faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md),\
+  - "desc": "The kuo-toa casts [Shield of Faith](/03_Mechanics/CLI/spells/shield-of-faith-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield of Faith (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-archpriest-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/kuo-toa-archpriest-xmm.webp"
 ```
 ^statblock
 

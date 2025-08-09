@@ -34,11 +34,11 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful green hag creates one or more of the following additional regional effects within 1 mile of her lair:
 
 - Illusory duplicates of the hag appear in random places at random times (but never more than one in any given location). An illusory duplicate has no substance, but it looks, sounds, and moves like the hag. The hag can sense when one or more creatures are within 60 feet of her duplicate and can interact with them as if she were present and standing in the duplicate's space. If the illusory duplicate takes any damage, it disappears.  
 - The region takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.  
-- Trees transform into [awakened trees](/3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) and attack when hostile intruders are near.
+- Trees transform into [awakened trees](/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) and attack when hostile intruders are near.

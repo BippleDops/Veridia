@@ -44,16 +44,16 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+12"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "truesight 120 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "10"
@@ -66,7 +66,7 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
       \ bound creature can cast that spell using this pact, requiring no material\
       \ components and using Intelligence as the spellcasting ability. When it casts\
       \ the spell, the creature takes 7 (2d6) psychic damage, which can't break the\
-      \ creature's [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on\
+      \ creature's [concentration](/03_Mechanics/CLI/conditions.md#Concentration) on\
       \ a spell. Once the bound creature casts the spell in this way, it can't do\
       \ so again until it finishes a long rest."
     "name": "Pact of Pain"
@@ -80,14 +80,14 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
     "name": "Agonizing Burst"
   - "desc": "The daemogoth targets one creature it can see within 120 feet of itself.\
       \ The target must make a DC 17 Wisdom saving throw. On a failed save, the target\
-      \ takes 33 (6d10) psychic damage and is [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ takes 33 (6d10) psychic damage and is [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ of the daemogoth until the end of the daemogoth's next turn, and the daemogoth\
       \ regains 5 hit points. On a successful save, the target takes half as much\
-      \ damage and isn't [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
+      \ damage and isn't [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
       \ and the daemogoth doesn't heal."
     "name": "Terrify (Recharge 4-6)"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/daemogoth-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/daemogoth-scc.webp"
 ```
 ^statblock

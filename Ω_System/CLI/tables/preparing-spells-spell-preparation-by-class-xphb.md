@@ -16,12 +16,12 @@ modified: 2025-07-23 12:39
 
 | Class | Change When You... | Number of Spells |
 |-------|--------------------|------------------|
-| [Bard](/3-Mechanics/CLI/classes/bard-xphb.md) | Gain a level | One |
-| [Cleric](/3-Mechanics/CLI/classes/cleric-xphb.md) | Finish a Long Rest | Any |
-| [Druid](/3-Mechanics/CLI/classes/druid-xphb.md) | Finish a Long Rest | Any |
-| [Paladin](/3-Mechanics/CLI/classes/paladin-xphb.md) | Finish a Long Rest | One |
-| [Ranger](/3-Mechanics/CLI/classes/ranger-xphb.md) | Finish a Long Rest | One |
-| [Sorcerer](/3-Mechanics/CLI/classes/sorcerer-xphb.md) | Gain a level | One |
-| [Warlock](/3-Mechanics/CLI/classes/warlock-xphb.md) | Gain a level | One |
-| [Wizard](/3-Mechanics/CLI/classes/wizard-xphb.md) | Finish a Long Rest | Any |
+| [Bard](/03_Mechanics/CLI/classes/bard-xphb.md) | Gain a level | One |
+| [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md) | Finish a Long Rest | Any |
+| [Druid](/03_Mechanics/CLI/classes/druid-xphb.md) | Finish a Long Rest | Any |
+| [Paladin](/03_Mechanics/CLI/classes/paladin-xphb.md) | Finish a Long Rest | One |
+| [Ranger](/03_Mechanics/CLI/classes/ranger-xphb.md) | Finish a Long Rest | One |
+| [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md) | Gain a level | One |
+| [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | Gain a level | One |
+| [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | Finish a Long Rest | Any |
 ^spell-preparation-by-class

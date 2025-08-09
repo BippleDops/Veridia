@@ -36,7 +36,7 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
   - !!int "4"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
@@ -55,6 +55,6 @@ Grumpy, spiky, and generally irritating, pest mascots inhabit the muggy bayou of
     "name": "Bite"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/pest-mascot-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/pest-mascot-scc.webp"
 ```
 ^statblock

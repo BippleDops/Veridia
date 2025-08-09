@@ -47,33 +47,33 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
   - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
 "cr": "1/4"
 "traits":
-  - "desc": "The pixie has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The pixie has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee  or Ranged Attack Roll: +4, reach 5 ft. or range 60 ft. Hit:\
-      \ 1 Radiant damage, and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition (pixie's\
+      \ 1 Radiant damage, and the target has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ or [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition (pixie's\
       \ choice) until the start of the pixie's next turn."
     "name": "Faerie Dust"
   - "desc": "The pixie casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-      \ (self only)\n\n1/day each: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [Fly](/3-Mechanics/CLI/spells/fly-xphb.md), [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+      \ will: [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md), [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only)\n\n1/day each: [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Fly](/03_Mechanics/CLI/spells/fly-xphb.md), [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/pixie-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/pixie-xmm.webp"
 ```
 ^statblock
 

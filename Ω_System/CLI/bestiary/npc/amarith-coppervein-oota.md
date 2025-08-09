@@ -23,7 +23,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Good"
 "ac": !!int "17"
-"ac_class": "[splint armor](/3-Mechanics/CLI/items/splint-armor-xphb.md)"
+"ac_class": "[splint armor](/03_Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -36,9 +36,9 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "poison"
 "senses": "darkvision 60 ft., passive Perception 12"
@@ -63,6 +63,6 @@ aliases:
     "name": "Heavy Crossbow"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/amarith-coppervein-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/npc/token/amarith-coppervein-oota.webp"
 ```
 ^statblock

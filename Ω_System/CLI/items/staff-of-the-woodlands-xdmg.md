@@ -17,12 +17,12 @@ modified: 2025-07-23 12:39
 ---
 # Staff of the Woodlands
 *Staff, weapon, rare (requires attunement by a druid)*  
-![](/3-Mechanics/CLI/items/img/staff-of-the-woodlands.webp#right)
+![](/03_Mechanics/CLI/items/img/staff-of-the-woodlands.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff has 6 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you have a +2 bonus to spell attack rolls.
@@ -33,19 +33,19 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) | 1 |
-| [Awaken](/3-Mechanics/CLI/spells/awaken-xphb.md) | 5 |
-| [Barkskin](/3-Mechanics/CLI/spells/barkskin-xphb.md) | 2 |
-| [Locate Animals or Plants](/3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md) | 2 |
-| [Pass without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md) | 2 |
-| [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md) | 1 |
-| [Speak with Plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md) | 3 |
-| [Wall of Thorns](/3-Mechanics/CLI/spells/wall-of-thorns-xphb.md) | 6 |
+| [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md) | 1 |
+| [Awaken](/03_Mechanics/CLI/spells/awaken-xphb.md) | 5 |
+| [Barkskin](/03_Mechanics/CLI/spells/barkskin-xphb.md) | 2 |
+| [Locate Animals or Plants](/03_Mechanics/CLI/spells/locate-animals-or-plants-xphb.md) | 2 |
+| [Pass without Trace](/03_Mechanics/CLI/spells/pass-without-trace-xphb.md) | 2 |
+| [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md) | 1 |
+| [Speak with Plants](/03_Mechanics/CLI/spells/speak-with-plants-xphb.md) | 3 |
+| [Wall of Thorns](/03_Mechanics/CLI/spells/wall-of-thorns-xphb.md) | 6 |
 ^spell-charge-cost
 
 ## Tree Form
 
-You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. While touching the tree and using a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
+You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to plant one end of the staff in earth in an unoccupied space and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of Transmutation magic that can be discerned with the [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell. While touching the tree and using a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you return the staff to its normal form. Any creature in the tree falls when the tree reverts to a staff.
 
 ## Regaining Charges
 

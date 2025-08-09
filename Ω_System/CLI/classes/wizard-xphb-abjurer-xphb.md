@@ -62,22 +62,22 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Arcane Ward (Level 3)
 
-You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). The ward has a [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If the damage reduces the ward to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), you take any remaining damage. While the ward has 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), it can't absorb damage, but its magic remains.
+You can weave magic around yourself for protection. When you cast an Abjuration spell with a spell slot, you can simultaneously use a strand of the spell's magic to create a magical ward on yourself that lasts until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). The ward has a [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum equal to twice your Wizard level plus your Intelligence modifier. Whenever you take damage, the ward takes the damage instead, and if you have any Resistances or Vulnerabilities, apply them before reducing the ward's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). If the damage reduces the ward to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), you take any remaining damage. While the ward has 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), it can't absorb damage, but its magic remains.
 
-Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice the level of the spell slot. Alternatively, as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend a spell slot, and the ward regains a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice the level of the spell slot expended.
+Whenever you cast an Abjuration spell with a spell slot, the ward regains a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice the level of the spell slot. Alternatively, as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend a spell slot, and the ward regains a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice the level of the spell slot expended.
 
-Once you create the ward, you can't create it again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+Once you create the ward, you can't create it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Projected Ward (Level 6)
 
-When a creature that you can see within 30 feet of yourself takes damage, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).
+When a creature that you can see within 30 feet of yourself takes damage, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to cause your Arcane Ward to absorb that damage. If this damage reduces the ward to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), the warded creature takes any remaining damage. If that creature has any Resistances or Vulnerabilities, apply them before reducing the ward's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ### Spell Breaker (Level 10)
 
-You always have the [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md) and [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) spells prepared. In addition, you can cast [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), and you can add your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md) to its ability check.
+You always have the [Counterspell](/03_Mechanics/CLI/spells/counterspell-xphb.md) and [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) spells prepared. In addition, you can cast [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), and you can add your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md) to its ability check.
 
 When you cast either spell with a spell slot, that slot isn't expended if the spell fails to stop a spell.
 
 ### Spell Resistance (Level 14)
 
-You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells, and you have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to the damage of spells.
+You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells, and you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to the damage of spells.

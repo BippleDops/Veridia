@@ -30,7 +30,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](/03_Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "-1"
@@ -63,7 +63,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-battering-ram-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/ogre-battering-ram-mpmm.webp"
 ```
 ^statblock
 

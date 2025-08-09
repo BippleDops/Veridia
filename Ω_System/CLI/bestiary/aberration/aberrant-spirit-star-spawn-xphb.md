@@ -35,7 +35,7 @@ aliases:
 "languages": "Deep Speech, understands the languages you know"
 "traits":
   - "desc": "At the start of each of the spirit's turns, the spirit emits psionic\
-      \ energy if it doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ energy if it doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition. Wisdom Saving Throw: DC equals your spell save DC, each creature\
       \ (other than you) within 5 feet of the spirit. Failure: 2d6 Psychic damage."
     "name": "Whispering Aura"

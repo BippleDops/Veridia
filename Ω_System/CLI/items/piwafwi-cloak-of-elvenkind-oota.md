@@ -15,11 +15,11 @@ modified: 2025-07-23 12:39
 ---
 # Piwafwi (Cloak of Elvenkind)
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/piwafwi-cloak-of-elvenkind.webp#right)
+![](/03_Mechanics/CLI/items/img/piwafwi-cloak-of-elvenkind.webp#right)
 
 
-This dark spider silk cloak is made by [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). It is a [cloak of elvenkind](/3-Mechanics/CLI/items/cloak-of-elvenkind-xdmg.md). It loses its magic if exposed to sunlight for 1 hour without interruption.
+This dark spider silk cloak is made by [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). It is a [cloak of elvenkind](/03_Mechanics/CLI/items/cloak-of-elvenkind-xdmg.md). It loses its magic if exposed to sunlight for 1 hour without interruption.
 
-While you wear this cloak with its hood up, Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks made to see you have disadvantage. and you have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
+While you wear this cloak with its hood up, Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks made to see you have disadvantage. and you have advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks made to hide, as the cloak's color shifts to camouflage you. Pulling the hood up or down requires an action.
 
 *Source: Out of the Abyss p. 222*

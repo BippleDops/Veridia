@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 ---
 # Dread Helm
 *Wondrous item, common*  
-![](/3-Mechanics/CLI/items/img/dread-helm.webp#right)
+![](/03_Mechanics/CLI/items/img/dread-helm.webp#right)
 
 
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.

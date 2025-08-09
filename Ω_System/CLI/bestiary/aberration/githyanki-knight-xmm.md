@@ -17,7 +17,7 @@ aliases:
 # [Githyanki Knight](3-Mechanics\CLI\bestiary\aberration/githyanki-knight-xmm.md)
 *Source: Monster Manual (2024) p. 135*  
 
-Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
+Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
 
 ## Githyanki
 
@@ -63,29 +63,29 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
 "cr": "8"
 "actions":
   - "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
-      \ with a use of Spellcasting to cast [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)\
+      \ with a use of Spellcasting to cast [Telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md)\
       \ if available."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage\
       \ plus 14 (4d6) Psychic damage. Critical Hit: If the target is in an astral\
-      \ body (as with the [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md)\
+      \ body (as with the [Astral Projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md)\
       \ spell), the githyanki can cut the silvery cord that tethers the target to\
       \ its material body instead of dealing damage."
     "name": "Silver Sword"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      At will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
-      \ is Invisible)\n\n2/day each: [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
-      \ (self only), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\n1/day\
-      \ each: [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      At will: [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
+      \ is Invisible)\n\n2/day each: [Nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only), [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)\n\n1/day\
+      \ each: [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md), [Telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+  - "desc": "The githyanki casts [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md),\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-knight-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/githyanki-knight-xmm.webp"
 ```
 ^statblock
 

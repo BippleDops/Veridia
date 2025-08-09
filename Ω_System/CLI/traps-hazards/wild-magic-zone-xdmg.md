@@ -15,6 +15,6 @@ modified: 2025-07-23 12:39
 
 A past magical disaster or uncontrolled surge of power in a particular place can cause the fabric of magic to unravel, creating a wild magic zone. In such an area, which is typically no more than 300 feet in diameter, magic behaves unpredictably.
 
-Whenever a creature expends a spell slot to cast a spell in a wild magic zone, roll `d20`. If you roll a 20 on the die, roll on the [Wild Magic Surge](/3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to create a magical effect.
+Whenever a creature expends a spell slot to cast a spell in a wild magic zone, roll `d20`. If you roll a 20 on the die, roll on the [Wild Magic Surge](/03_Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to create a magical effect.
 
 *Source: Dungeon Master's Guide (2024) p. 69*

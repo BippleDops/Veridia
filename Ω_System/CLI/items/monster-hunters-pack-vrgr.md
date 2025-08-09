@@ -21,16 +21,16 @@ modified: 2025-07-23 12:39
 
 Includes:
 
-- a [chest](/3-Mechanics/CLI/items/chest-xphb.md)  
-- a [crowbar](/3-Mechanics/CLI/items/crowbar-xphb.md)  
-- a [hammer](/3-Mechanics/CLI/items/hammer.md)  
+- a [chest](/03_Mechanics/CLI/items/chest-xphb.md)  
+- a [crowbar](/03_Mechanics/CLI/items/crowbar-xphb.md)  
+- a [hammer](/03_Mechanics/CLI/items/hammer.md)  
 - three wooden stakes  
-- a [holy symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md)  
-- a [flask of holy water](/3-Mechanics/CLI/items/holy-water-xphb.md)  
-- a set of [manacles](/3-Mechanics/CLI/items/manacles-xphb.md)  
-- a [steel mirror](/3-Mechanics/CLI/items/mirror-xphb.md)  
-- a [flask of oil](/3-Mechanics/CLI/items/oil-xphb.md)  
-- a [tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md)  
-- 3 [torches](/3-Mechanics/CLI/items/torch-xphb.md)  
+- a [holy symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md)  
+- a [flask of holy water](/03_Mechanics/CLI/items/holy-water-xphb.md)  
+- a set of [manacles](/03_Mechanics/CLI/items/manacles-xphb.md)  
+- a [steel mirror](/03_Mechanics/CLI/items/mirror-xphb.md)  
+- a [flask of oil](/03_Mechanics/CLI/items/oil-xphb.md)  
+- a [tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md)  
+- 3 [torches](/03_Mechanics/CLI/items/torch-xphb.md)  
 
 *Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*

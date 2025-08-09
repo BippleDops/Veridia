@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Bane](/3-Mechanics/CLI/spells/bane-xphb.md "XPHB")
+- [Bane](/03_Mechanics/CLI/spells/bane-xphb.md "XPHB")

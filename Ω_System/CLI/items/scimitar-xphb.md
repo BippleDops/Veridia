@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Scimitar
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/scimitar.webp#right)
+![](/03_Mechanics/CLI/items/img/scimitar.webp#right)
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 

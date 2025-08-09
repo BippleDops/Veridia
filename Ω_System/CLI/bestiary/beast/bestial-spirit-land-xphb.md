@@ -35,7 +35,7 @@ aliases:
 "traits":
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The spirit makes a number of Rend attacks equal to half this spell's\

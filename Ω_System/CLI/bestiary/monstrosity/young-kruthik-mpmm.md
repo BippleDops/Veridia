@@ -59,7 +59,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "6"
 "speed": "30 ft., burrow 10 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": "Kruthik"
@@ -67,7 +67,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "traits":
   - "desc": "The kruthik has advantage on an attack roll against a creature if at\
       \ least one of the kruthik's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The kruthik can burrow through solid rock at half its burrowing speed\
       \ and leaves a 2½-foot-diameter tunnel in its wake."
@@ -79,7 +79,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/young-kruthik-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/young-kruthik-mpmm.webp"
 ```
 ^statblock
 

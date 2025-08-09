@@ -38,11 +38,11 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "any languages it knew in life"
@@ -63,6 +63,6 @@ Some of these spirit statues bond with and mentor a specific mage, but most serv
     "name": "Counsel of the Past (2/Day)"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/spirit-statue-mascot-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/spirit-statue-mascot-scc.webp"
 ```
 ^statblock

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Kelemvor
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-kelemvor.webp#symbol)
+![](/03_Mechanics/CLI/deities/img/scag-symbol-of-kelemvor.webp#symbol)
 
 - **Alternate Names**: The Lord of the Dead, The Judge of the Damned
 - **Alignment**: Lawful Neutral

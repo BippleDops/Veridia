@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Goblin
 *Source: Volo's Guide to Monsters p. 119*  
-![](/3-Mechanics/CLI/races/img/goblin.webp#right)
+![](/03_Mechanics/CLI/races/img/goblin.webp#right)
 
 - **Ability Scores**: dex +2 con +1
 - **Size**: Small
@@ -38,7 +38,7 @@ When you damage a creature with an attack or a spell and the creature's size is 
 
 ### Nimble Escape
 
-You can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) or [Hide](/3-Mechanics/CLI/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) or [Hide](/03_Mechanics/CLI/actions.md#Hide) action as a bonus action on each of your turns.
 
 ### Languages
 

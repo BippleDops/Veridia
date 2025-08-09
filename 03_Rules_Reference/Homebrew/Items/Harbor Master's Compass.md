@@ -17,7 +17,7 @@ price: 2500
 weight: 1
 description: A brass compass whose needle spins wildly, pointing toward mysteries
   rather than magnetic north
-image_path: z_Assets/Items/harbor_masters_compass.jpg
+image_path: Ω_Assets/Items/harbor_masters_compass.jpg
 created: 2025-01-25 12:00
 modified: 2025-07-23 12:39
 ---

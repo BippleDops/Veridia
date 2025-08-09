@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 7 Warlock
 
-You can cast [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) without expending a spell slot.
+You can cast [Speak with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) without expending a spell slot.

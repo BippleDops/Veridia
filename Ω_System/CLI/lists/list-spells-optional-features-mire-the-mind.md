@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 3rd Level
 
-- [Slow](/3-Mechanics/CLI/spells/slow-xphb.md "XPHB")
+- [Slow](/03_Mechanics/CLI/spells/slow-xphb.md "XPHB")

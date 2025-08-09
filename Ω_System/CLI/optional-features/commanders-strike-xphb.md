@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 # Commander's Strike
 *Source: Player's Handbook (2024) p. 94*  
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to make one attack with a weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), adding the Superiority Die to the attack's damage roll on a hit.
+When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks to direct one of your companions to strike. When you do so, choose a willing creature who can see or hear you and expend one Superiority Die. That creature can immediately use its [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to make one attack with a weapon or an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), adding the Superiority Die to the attack's damage roll on a hit.

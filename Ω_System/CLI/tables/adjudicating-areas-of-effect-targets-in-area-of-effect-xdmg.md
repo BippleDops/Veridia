@@ -30,4 +30,4 @@ modified: 2025-07-23 12:39
 | — | 50-foot | 30-foot-radius | — | 20 |
 ^targets-in-area-of-effect
 
-*Use this column for [Cylinders](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md).
+*Use this column for [Cylinders](/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md).

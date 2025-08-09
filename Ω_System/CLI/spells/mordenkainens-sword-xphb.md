@@ -31,8 +31,8 @@ You create a spectral sword that hovers within range. It lasts for the duration.
 
 When the sword appears, you make a melee spell attack against a target within 5 feet of the sword. On a hit, the target takes Force damage equal to `4d12` plus your spellcasting ability modifier.
 
-On your later turns, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
+On your later turns, you can take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to move the sword up to 30 feet to a spot you can see and repeat the attack against the same target or a different one.
 
-**Classes**: [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Wizard (Evoker)](/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)*

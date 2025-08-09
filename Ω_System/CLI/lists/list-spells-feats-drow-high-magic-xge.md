@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
+- [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
 
 ## 2nd Level
 
-- [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md "XPHB") 
+- [Levitate](/03_Mechanics/CLI/spells/levitate-xphb.md "XPHB") 
 
 ## 3rd Level
 
-- [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")
+- [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md "XPHB")

@@ -16,17 +16,17 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Blood Spear
-*Weapon ([spear](/3-Mechanics/CLI/items/spear-xphb.md)), uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/blood-spear.webp#right)
+*Weapon ([spear](/03_Mechanics/CLI/items/spear-xphb.md)), uncommon (requires attunement)*  
+![](/03_Mechanics/CLI/items/img/blood-spear.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
-Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
+Kavan was a ruthless chieftain whose tribe lived in the Balinok Mountains centuries before the arrival of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). Although he was very much alive, Kavan had some traits in common with vampires: he slept during the day and hunted at night, he drank the blood of his prey, and he lived underground. In battle, he wielded a spear stained with blood. His was the first blood spear, a weapon that drains life from those it kills and transfers that life to its wielder, imbuing that individual with the stamina to keep fighting.
 
 When you hit with a melee attack using this magic spear and reduce the target to 0 hit points, you gain `2d6` temporary hit points.
 

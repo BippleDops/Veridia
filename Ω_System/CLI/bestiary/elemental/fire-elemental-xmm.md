@@ -69,28 +69,28 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Ignan)"
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the elemental's turns, each creature in a 10-foot\
-      \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the elemental takes 5 (d10) Fire damage. Creatures and flammable\
-      \ objects in the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ start [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
+      \ objects in the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ start [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md)."
     "name": "Fire Aura"
   - "desc": "The elemental can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so, and it can enter a creature's space and stop there.\
       \ The first time it enters a creature's space on a turn, that creature takes\
       \ 5 (d10) Fire damage."
     "name": "Fire Form"
-  - "desc": "The elemental sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 30-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The elemental sheds [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ in a 30-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
       \ for an additional 30 feet."
     "name": "Illumination"
   - "desc": "The elemental takes 3 (d6) Cold damage for every 5 feet the elemental\
@@ -100,11 +100,11 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
   - "desc": "The elemental makes two Burn attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Fire damage.\
-      \ If the target is a creature or a flammable object, it starts [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
+      \ If the target is a creature or a flammable object, it starts [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md)."
     "name": "Burn"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/fire-elemental-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/fire-elemental-xmm.webp"
 ```
 ^statblock
 

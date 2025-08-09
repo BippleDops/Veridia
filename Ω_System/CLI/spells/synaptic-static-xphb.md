@@ -29,10 +29,10 @@ modified: 2025-07-23 12:39
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes an Intelligence saving throw, taking `8d6` Psychic damage on a failed save or half as much damage on a successful one.
+You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on that point makes an Intelligence saving throw, taking `8d6` Psychic damage on a failed save or half as much damage on a successful one.
 
-On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts `d6` from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration). The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
+On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts `d6` from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain [Concentration](/03_Mechanics/CLI/conditions.md#Concentration). The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Classes**: [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 330*

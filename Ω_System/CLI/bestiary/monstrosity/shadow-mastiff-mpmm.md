@@ -42,9 +42,9 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
@@ -60,18 +60,18 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/3-Mechanics/CLI/conditions.md#Invisible),\
+  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/03_Mechanics/CLI/conditions.md#Invisible),\
       \ along with anything it is wearing or carrying. The invisibility lasts until\
       \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-      \ attacks, is in bright light, or is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ attacks, is in bright light, or is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Shadow Blend"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp"
 ```
 ^statblock
 

@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Chapter 6: Alarums and Excursions
 *Source: Princes of the Apocalypse, p. 148* 
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/070-poa06-01.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/070-poa06-01.webp#center)
 
 This chapter presents secondary adventures loosely tied to the Elemental Evil storyline. First are adventures for 1st- through 3rd-level characters in and near Red Larch. Then come side treks for characters of higher levels.
 
@@ -34,8 +34,8 @@ For descriptions of buildings and NPCs in Red Larch, see chapter 2. The characte
 The Swinging Sword (area 2) is the only inn, and the Helm at Highsun (area 3) is a large tavern across the street from the inn. Locals gather at Gaelkur's store (area 17) or the tavern to gossip. Ironhead Arms (area 13) is the best place to buy weapons and armor, and Helvar Tarnlar (area 7) sells well-made clothing for travelers. Red Larch doesn't have a mayor, but Constable Harburk (area 11) keeps the peace. Characters affiliated with factions might know the names of faction agents and supporters in town.
 
 > [!gallery]
-> ![Map 6.1: Red Larch Surroundings](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/071-06-01.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/072-poa3.webp#gallery)
+> ![Map 6.1: Red Larch Surroundings](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/071-06-01.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/072-poa3.webp#gallery)
 
 ## Into the Wilderness
 
@@ -55,7 +55,7 @@ Constable Harburk (Red Larch, area 11) has heard rumors of a bandit lair south o
 > In a brush-choked dell a short distance from the Cairn Road is a makeshift camp in front of a cave entrance. Four surly humans sharpen their blades around the fire. Nearby is a wagon with a wooden cage atop it. Inside the cage, a black bear paws at the bars.
 ^5fc
 
-The four [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) attack strangers, preferring ranged attacks. Their hideout is a cave full of stolen food, wine, weapons, and coins. They stole a wagon loaded with a giant boar in a stout iron cage, bound for a noble in Waterdeep. They ate the beast, but then captured a [black bear](/3-Mechanics/CLI/bestiary/beast/black-bear-xmm.md).
+The four [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) attack strangers, preferring ranged attacks. Their hideout is a cave full of stolen food, wine, weapons, and coins. They stole a wagon loaded with a giant boar in a stout iron cage, bound for a noble in Waterdeep. They ate the beast, but then captured a [black bear](/03_Mechanics/CLI/bestiary/beast/black-bear-xmm.md).
 
 The bandits broke the cage's lock, so they have it spiked shut with an iron piton. Starved, the bear uses an action to heave itself into the cage door when any violence starts. If it makes a successful DC 15 Strength check, it bursts free. The bear then attacks the closest creature or the creature that hurt it most recently. It runs off when reduced to fewer than half its hit points.
 
@@ -74,7 +74,7 @@ Minthra Mhandyvver's granddaughter Pell (Red Larch, area 14) knows where this to
 
 Over time, many rich folks built in the valley. Some are buried in old tombs near town. One such tomb is the final resting place of a forgotten noble who was a warrior in his day.
 
-If the characters scout the area before entering the tomb passage, they discover a brigand camp hidden in a boulder jumble 150 feet away. A [goblin](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named Mougra and a [half-ogre](/3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) named Geeraugh have been watching the tomb. They attack anyone who invades their camp. Otherwise, they might ambush the characters—see the next section.
+If the characters scout the area before entering the tomb passage, they discover a brigand camp hidden in a boulder jumble 150 feet away. A [goblin](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named Mougra and a [half-ogre](/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) named Geeraugh have been watching the tomb. They attack anyone who invades their camp. Otherwise, they might ambush the characters—see the next section.
 
 #### Tomb Passage
 
@@ -89,7 +89,7 @@ When the characters enter, read the following:
 > Inside the door is a passage, ten feet high by ten wide, running straight into the hill. Thirty feet later, it opens out into a square room, thirty feet by thirty feet, containing a stone block table. Stains and marks atop this slab suggest rusted objects were once arrayed on it. In the middle of the wall to the right of the entry passage, is a closed and severely rusted iron door.
 ^601
 
-If the rusted iron door is touched, a ghostly armored male human wielding a spectral longsword emerges from it. This minor ghost was a guard who died having failed to protect the noble interred here. (Use [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md) statistics, except this ghost is lawful neutral.) He warns intruders to leave his master's tomb. Although the ghost might talk to peaceful characters, he attacks those who refuse to leave. The ghost doesn't pursue those who flee.
+If the rusted iron door is touched, a ghostly armored male human wielding a spectral longsword emerges from it. This minor ghost was a guard who died having failed to protect the noble interred here. (Use [specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) statistics, except this ghost is lawful neutral.) He warns intruders to leave his master's tomb. Although the ghost might talk to peaceful characters, he attacks those who refuse to leave. The ghost doesn't pursue those who flee.
 
 #### Inner Tomb
 
@@ -100,11 +100,11 @@ The iron door is rusted shut. A characters can force it open with a successful D
 > Beyond the rusted door is another square room, twenty feet by twenty feet, containing a stone coffin. The ceiling is cracked, allowing roots and water into the chamber from multiple points, although little collects here. At the coffin's feet is a rusty iron chest.
 ^603
 
-Inside the coffin is a skeleton dressed in a rusted breastplate and clasping a longsword to its chest. This [flying sword](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) attacks intruders when the coffin is opened. It returns to its place in the coffin if no one remains in this room.
+Inside the coffin is a skeleton dressed in a rusted breastplate and clasping a longsword to its chest. This [flying sword](/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) attacks intruders when the coffin is opened. It returns to its place in the coffin if no one remains in this room.
 
 #### Treasure
 
-The chest contains ruined cloth and the sodden remains of a book, but it also has a false wooden bottom. Someone who succeeds on a DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check notices the bottom is several inches higher than the chest should be deep. Within is a gold chain and locket with a portrait of a lovely half-elf female etched in profile on the inside (100 gp) and two rings of braided silver and electrum (25 gp each).
+The chest contains ruined cloth and the sodden remains of a book, but it also has a false wooden bottom. Someone who succeeds on a DC 10 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check notices the bottom is several inches higher than the chest should be deep. Within is a gold chain and locket with a portrait of a lovely half-elf female etched in profile on the inside (100 gp) and two rings of braided silver and electrum (25 gp each).
 
 ### Bloody Treasure
 
@@ -122,7 +122,7 @@ If the characters enter the crevice, read the following:
 > The crevice leads twenty feet into the hillside before opening up into a cavern. Many trickles of water combine into a pleasant sound, and the walls glisten with moisture. Stalagmites dot the floor, and stalactites hang from the ceiling.
 ^607
 
-The cave is home to four [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md), which attack as soon as a character enters the cave. Contrary to local rumors, there is no treasure to be found in Tricklerock Cave.
+The cave is home to four [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md), which attack as soon as a character enters the cave. Contrary to local rumors, there is no treasure to be found in Tricklerock Cave.
 
 ### The Last Laugh
 
@@ -176,11 +176,11 @@ The trail continues down to a cave mouth. Another warning sign with the same mes
 
 ## Necromancer's Cave
 
-An insane and reclusive necromancer named [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md)—the self-styled "Lord of Lance Rock"—has taken residence in the caves near Lance Rock. He poses no immediate threat to Red Larch but doesn't take kindly to trespassers.
+An insane and reclusive necromancer named [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md)—the self-styled "Lord of Lance Rock"—has taken residence in the caves near Lance Rock. He poses no immediate threat to Red Larch but doesn't take kindly to trespassers.
 
 > [!gallery]
-> ![Map 6.2: Necromancer's Cave](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/073-06-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/074-poa7.webp#gallery)
+> ![Map 6.2: Necromancer's Cave](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/073-06-02.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/074-poa7.webp#gallery)
 
 ### L1. Entry Cave
 
@@ -196,7 +196,7 @@ A body is sprawled on the floor 60 feet into the passage. When the characters ge
 > The corpse of a human male is sprawled here on its back. It wears only leather breeches.
 ^611
 
-The body is a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), but it animates only if touched. Then, it attacks.
+The body is a [zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md), but it animates only if touched. Then, it attacks.
 
 ### L2. Guard Cave
 
@@ -207,7 +207,7 @@ The body is a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), but it a
 
 The boulder is stained with dry blood.
 
-Above the eastern entrance, two [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) stand on a ledge 10 feet up. They hold a wooden box full of rocks between them. When they spot an intruder, they let the box go so it crashes down on the interloper. The target must succeed on a DC 12 Dexterity saving throw or take 7 (`2d6`) bludgeoning damage. The zombies then jump down from the ledge (taking `d6` bludgeoning damage each) to attack.
+Above the eastern entrance, two [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) stand on a ledge 10 feet up. They hold a wooden box full of rocks between them. When they spot an intruder, they let the box go so it crashes down on the interloper. The target must succeed on a DC 12 Dexterity saving throw or take 7 (`2d6`) bludgeoning damage. The zombies then jump down from the ledge (taking `d6` bludgeoning damage each) to attack.
 
 ### L3. Corpse Cave
 
@@ -216,7 +216,7 @@ Above the eastern entrance, two [zombies](/3-Mechanics/CLI/bestiary/undead/zombi
 > Motionless humanoid figures dressed in dirty clothes or scraps of armor are propped against the walls of this cave. Some are little more than skeletons with wisps of hair and skin stretched tightly over their bones. Others are fresher. A few old shortswords lie on the dusty floor.
 ^615
 
-Twelve corpses are stored in this chamber. Seven are skeletal, and five are fresher. Three [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) remain still among the other remains. They attack anyone who touches them or the corpses here.
+Twelve corpses are stored in this chamber. Seven are skeletal, and five are fresher. Three [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md) remain still among the other remains. They attack anyone who touches them or the corpses here.
 
 ### L4. Dancing Dead
 
@@ -234,15 +234,15 @@ Eventually this natural passage widens out:
 > The star-shaped cavern ahead has many clefts in its walls. Only two, across the cavern, seem large enough to traverse. Three zombies lurch about the area. One is costumed like a bear, another is dressed as a lady in a frilly dress and thick makeup, and the last is costumed as a jester with jingling bells on its collar and sleeves.
 ^618
 
-These three [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) are dressed to entertain the Lord of Lance Rock by acting out grotesque comedies. They have orders to playact for a few moments when they spot intruders, using the distraction to approach and attack.
+These three [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) are dressed to entertain the Lord of Lance Rock by acting out grotesque comedies. They have orders to playact for a few moments when they spot intruders, using the distraction to approach and attack.
 
-Sounds of combat in this room alert the necromancer [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) (in area L5) that intruders are nearby. [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) climbs the stairs in area L5 to peer into the end of the western passage (see that section), hoping to get a chance to trigger the trap there.
+Sounds of combat in this room alert the necromancer [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) (in area L5) that intruders are nearby. [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) climbs the stairs in area L5 to peer into the end of the western passage (see that section), hoping to get a chance to trigger the trap there.
 
 #### Southwestern Passage
 
 This tunnel leads to a small cavern with two closed iron chests resting on the floor. A peephole in the south wall allows someone standing at the top of the stairs in area L5 to observe the chests. By the peephole is a lever that opens a trapdoor in the ceiling above the chests, releasing a rockfall.
 
-If [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) is in position, he waits until at least two intruders have entered the cave, then he moves away from the peephole and pulls the lever. When he does, he cries, easily audible through the peephole, "You dare to pit yourselves against the Lord of Lance Rock? Death is your reward!" Then he continues to cackle as he retreats.
+If [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) is in position, he waits until at least two intruders have entered the cave, then he moves away from the peephole and pulls the lever. When he does, he cries, easily audible through the peephole, "You dare to pit yourselves against the Lord of Lance Rock? Death is your reward!" Then he continues to cackle as he retreats.
 
 Those in the room can make DC 10 Dexterity saving throws, taking 7 (`2d6`) bludgeoning damage on a failure, or half that damage on a success.
 
@@ -257,11 +257,11 @@ The iron chests are empty.
 > Farther to the west, a stone stair climbs the north wall, ending near the ceiling. A stone slab like a counter juts from the wall across the room from the base of the stairs. It holds saws, knives, and other tools. Four skeletons stand beyond this tool bench, guarding a wide passage that exits the to the west.
 ^61c
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/075-poa06-04.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/075-poa06-04.webp#center)
 
-The hooded figure is a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), and five [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) hide among the other body parts in the baskets. If intruders do anything other than turn back, the monsters attack.
+The hooded figure is a [zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md), and five [crawling claws](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) hide among the other body parts in the baskets. If intruders do anything other than turn back, the monsters attack.
 
-The "Lord of Lance Rock" is [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) (see chapter 7), a wild-eyed Tethyrian human with a bristly beard and a shaved head. If the characters moved through area L4 alerting him, they find [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) arranging and cleaning his tools on the tool bench. Otherwise, he watches warily from behind the four [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md). In any case, if confronted, he shrinks from conflict and orders his skeletons to attack while he retreats into area L6.
+The "Lord of Lance Rock" is [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) (see chapter 7), a wild-eyed Tethyrian human with a bristly beard and a shaved head. If the characters moved through area L4 alerting him, they find [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) arranging and cleaning his tools on the tool bench. Otherwise, he watches warily from behind the four [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md). In any case, if confronted, he shrinks from conflict and orders his skeletons to attack while he retreats into area L6.
 
 The necromancer refers to himself in the third person and by his self-appointed title. He's afraid of physical confrontation, but he pretends bravery when his pets shield him, saying, "Bow before the Lord of Lance Rock! Me! Behold my dark terrors!" He's willing to magnanimously consider a surrender or offers of truce, as long as intruders leave the cave.
 
@@ -282,17 +282,17 @@ The workshop narrows into another passage that splits and links up twice. It gen
 > An oval cavern opens here, forty feet wide and sixty feet long. Dark purple tapestries hang on the walls. At the center stands a pedestal fashioned of severed arms arranged to clutch one another in a cone. Cradled in the uppermost hands is a glowing crystal sphere. A dark sigil with an eyelike slit floats above the sphere.
 ^621
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/076-poa06-05.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/076-poa06-05.webp#center)
 
 For the sigil, show the players the Elder Elemental Eye symbol (see chapter 1) without additional context. The sigil is an illusion that disappears if it or the pedestal is disturbed.
 
-If he is here, [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) (see chapter 7) is hiding behind the draperies at the north end of the room, holding a [wand of magic missiles](/3-Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md). He reacts only if attacked or someone approaches the floating sigil. In this latter case, he yells, "Can't you see it? It's the Eye! It sees your every move! Don't you fear it?"
+If he is here, [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) (see chapter 7) is hiding behind the draperies at the north end of the room, holding a [wand of magic missiles](/03_Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md). He reacts only if attacked or someone approaches the floating sigil. In this latter case, he yells, "Can't you see it? It's the Eye! It sees your every move! Don't you fear it?"
 
-If he dies, [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) turns into a black flame. The flame dwindles to nothing with a plaintive wail and vanishes.
+If he dies, [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) turns into a black flame. The flame dwindles to nothing with a plaintive wail and vanishes.
 
 #### Treasure
 
-The glowing sphere is a [driftglobe](/3-Mechanics/CLI/items/driftglobe-xdmg.md). Behind the draperies are niches where [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) keeps his food, drink, supplies, clothes, and bedding, as well as 165 sp, 78 gp and four polished jet gems (50 gp each). If [Oreioth](/3-Mechanics/CLI/bestiary/npc/oreioth-pota.md) failed to retrieve it, the [wand of magic missiles](/3-Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md) is stored in a niche.
+The glowing sphere is a [driftglobe](/03_Mechanics/CLI/items/driftglobe-xdmg.md). Behind the draperies are niches where [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) keeps his food, drink, supplies, clothes, and bedding, as well as 165 sp, 78 gp and four polished jet gems (50 gp each). If [Oreioth](/03_Mechanics/CLI/bestiary/npc/oreioth-pota.md) failed to retrieve it, the [wand of magic missiles](/03_Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md) is stored in a niche.
 
 ## Tomb of Moving Stones
 
@@ -332,15 +332,15 @@ When characters can see within, read the following:
 
 The sinkhole exposes area T1 in the Tomb of Moving Stones. Townsfolk who've fallen in are scared, bruised, and unable to climb out without aid, but otherwise unharmed.
 
-The town elders trying to control the situation are Ilmeth Waelvur (male Tethyrian human [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md); see Red Larch, area 16), Albaeri Mellikho (female Tethyrian human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md); see Red Larch, area 18), and Ulhro Luruth (male Chondathan human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md); see Red Larch, area 19). Anxious to keep anyone from discovering that the sinkhole leads to passages, they make statements such as, "This isn't to be discussed in front of strangers!" and "The Delvers must not be angered!" and "The stones must not be moved!" Such commands elicit little obedience from the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) townsfolk.
+The town elders trying to control the situation are Ilmeth Waelvur (male Tethyrian human [bandit](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md); see Red Larch, area 16), Albaeri Mellikho (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md); see Red Larch, area 18), and Ulhro Luruth (male Chondathan human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md); see Red Larch, area 19). Anxious to keep anyone from discovering that the sinkhole leads to passages, they make statements such as, "This isn't to be discussed in front of strangers!" and "The Delvers must not be angered!" and "The stones must not be moved!" Such commands elicit little obedience from the [frightened](/03_Mechanics/CLI/conditions.md#Frightened) townsfolk.
 
 If no character has a rope, a helpful resident arrives with an old coil. He or she pushes past the elders to offer the rope to the characters. Children wail down in the pit as more onlookers arrive. It's clearly time for a rescue mission.
 
 Rescuing those who've fallen is a matter of lowering a rescuer down with a rope, tying it around a victim, and having people above haul away. The townsfolk are grateful for the characters' aid.
 
 > [!gallery]
-> ![Map 6.3: Tomb of Moving Stones](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/077-06-03.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/078-pam05_tombmoving_dm-zf-0998-75774-1-001-0.webp#gallery)
+> ![Map 6.3: Tomb of Moving Stones](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/077-06-03.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/078-pam05_tombmoving_dm-zf-0998-75774-1-001-0.webp#gallery)
 
 ### T1. Entry Cavern
 
@@ -395,7 +395,7 @@ When the characters can see the eastern end of the hall, read the following:
 > At the end of the passage is another stone door with an iron pull ring in it. It stands slightly ajar with darkness beyond. About five feet up, the door has a two-inch-wide, foot-long horizontal slit.
 ^62f
 
-Unless Grund (male half-orc [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) has already been dealt with, he is peering through the viewing slit. With his [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), he spots approaching characters 60 feet away, but if the characters are carrying light sources, he notices them as soon as they pass the doors in area T2.
+Unless Grund (male half-orc [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) has already been dealt with, he is peering through the viewing slit. With his [darkvision](/03_Mechanics/CLI/senses.md#Darkvision), he spots approaching characters 60 feet away, but if the characters are carrying light sources, he notices them as soon as they pass the doors in area T2.
 
 Grund's orders are to trap intruders. Anyone who isn't an intruder is supposed to pause 60 feet from the door, cross his or her fists, and call out, "A Believer approaches!" Grund drops cages on anyone who doesn't follow this protocol.
 
@@ -403,7 +403,7 @@ Grund's orders are to trap intruders. Anyone who isn't an intruder is supposed t
 
 Each cage's chain runs through a pulley secured to a heavy iron bar just inside the door in area T4. From where he is, Grund can use an action to release two chains. He starts with the cage at the western end of the tunnel, sealing off retreat, followed by a cage dropped on the party. Roll initiative at that point. Grund's uses his second turn to block the eastern edge of the passage with a third cage and to drop another cage on characters not already trapped.
 
-A falling cage targets the corresponding 10-foot square section of the passage. Targets in the area can stand still, taking no damage as the plaster on the cage bottom breaks and the cage seals them in. Those who wish to avoid a falling cage must succeed on a DC 15 Dexterity saving throw. Those who fail are caught in the cage. Anyone who fails by 5 or more is hit by the iron frame of the cage bottom. Such a creature takes 7 (`2d6`) bludgeoning damage and is pinned under the cage. While pinned, the character is [prone](/3-Mechanics/CLI/conditions.md#Prone) and [restrained](/3-Mechanics/CLI/conditions.md#Restrained).
+A falling cage targets the corresponding 10-foot square section of the passage. Targets in the area can stand still, taking no damage as the plaster on the cage bottom breaks and the cage seals them in. Those who wish to avoid a falling cage must succeed on a DC 15 Dexterity saving throw. Those who fail are caught in the cage. Anyone who fails by 5 or more is hit by the iron frame of the cage bottom. Such a creature takes 7 (`2d6`) bludgeoning damage and is pinned under the cage. While pinned, the character is [prone](/03_Mechanics/CLI/conditions.md#Prone) and [restrained](/03_Mechanics/CLI/conditions.md#Restrained).
 
 A character who uses an action to make a successful DC 15 Strength check can lift the cage enough to allow one creature to escape. It takes a successful DC 20 Strength check to bend the rusty bars enough to allow everyone in or under the cage to escape. A character pinned under a cage lacks good leverage and has disadvantage on these Strength checks.
 
@@ -420,9 +420,9 @@ If Grund traps the characters in the hall, he runs to tell Baragustas in area T8
 > An eight-foot-tall rectangular stone stands upright in the room's center. The stone has an inscription on it that's hard to read from a distance. At the foot of the standing stone, a small human is pinned, face down, by rocks placed atop his arms, legs, and back. He is barefoot and wears ragged clothes.
 ^634
 
-Depending on what has happened in area T3, Grund (male half-orc [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) might be standing by the western door, keeping watch down the hallway. Grund is baffled by intruders that arrive behind him. After standing and gaping for a moment, he finally says, "You can't be here. You have to go!" He points down the western hallway. In obvious exasperation and desperation, he attacks anyone who attempts to leave by the eastern door.
+Depending on what has happened in area T3, Grund (male half-orc [thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) might be standing by the western door, keeping watch down the hallway. Grund is baffled by intruders that arrive behind him. After standing and gaping for a moment, he finally says, "You can't be here. You have to go!" He points down the western hallway. In obvious exasperation and desperation, he attacks anyone who attempts to leave by the eastern door.
 
-Pinned under a pile of small boulders is an eleven-year-old boy named [Braelen Hatherhand](/3-Mechanics/CLI/bestiary/npc/braelen-hatherhand-pota.md) (male Tethyrian human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with 2 hit points and no effective attacks). He is drifting in and out of consciousness. If strangers enter the room, he revives enough to feebly plead for his freedom.
+Pinned under a pile of small boulders is an eleven-year-old boy named [Braelen Hatherhand](/03_Mechanics/CLI/bestiary/npc/braelen-hatherhand-pota.md) (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with 2 hit points and no effective attacks). He is drifting in and out of consciousness. If strangers enter the room, he revives enough to feebly plead for his freedom.
 
 #### Roleplaying Braelen
 
@@ -453,7 +453,7 @@ Characters catch the scent of death as they approach this room.
 > The tunnel opens into a square room that reeks of decaying flesh. Three human corpses, reduced to little more than bloody bone and sinew, are sprawled in the room's center. Two oversized rats root among the bodies, stopping to chew flesh they've pulled free. Scuttling noises come from narrow crevices in the walls.
 ^63a
 
-Five [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) found their way in through the narrow crevices, which are just big enough for the rodents to squeeze through. Two are in the middle of the room, and three more lurk in the crevices. Believers don't yet know the rats are here, and the grisly meal is sufficient to keep the rats from wandering. The giant rats ignore intruders that give them a wide berth and avoid startling them. They attack if harmed or provoked.
+Five [giant rats](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) found their way in through the narrow crevices, which are just big enough for the rodents to squeeze through. Two are in the middle of the room, and three more lurk in the crevices. Believers don't yet know the rats are here, and the grisly meal is sufficient to keep the rats from wandering. The giant rats ignore intruders that give them a wide berth and avoid startling them. They attack if harmed or provoked.
 
 The bodies are those of travelers who disappeared near Red Larch. Each has the symbol of the earth cult cut deeply enough in the forehead to mark the skull. To pass a test commanded by the earth cultist Larrakh (see area T9), Believers waylaid and killed the travelers in separate incidents over the last month. The Believers are rarely murderers, but Larrakh is maneuvering them into darker and darker deeds.
 
@@ -464,7 +464,7 @@ The bodies are those of travelers who disappeared near Red Larch. Each has the s
 > The tunnel opens into a square room. In the center of it, a black rock about a foot across hovers three feet from the floor.
 ^63c
 
-A normal rock floats here because of ancient magic that maintains an [invisible](/3-Mechanics/CLI/conditions.md#Invisible) floor-to-ceiling cylinder that is 10 feet wide. Visible to [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) (transmutation school), the column enables objects placed and left in it to float where released. The column can hold up to 500 pounds. Objects in excess of this weight fall. If the characters move the rock, which weighs 20 pounds, out of the column, it is freed from the effect and crashes to the floor.
+A normal rock floats here because of ancient magic that maintains an [invisible](/03_Mechanics/CLI/conditions.md#Invisible) floor-to-ceiling cylinder that is 10 feet wide. Visible to [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) (transmutation school), the column enables objects placed and left in it to float where released. The column can hold up to 500 pounds. Objects in excess of this weight fall. If the characters move the rock, which weighs 20 pounds, out of the column, it is freed from the effect and crashes to the floor.
 
 ### T7. Dwarf Statue
 
@@ -473,7 +473,7 @@ A normal rock floats here because of ancient magic that maintains an [invisible]
 > This fifty-foot-square chamber is hewn out of rock. The floor is rough but flat, the walls show the chisel-marks of the original builders, and the ceiling is about ten feet high. Identical stone doors with iron pull-ring handles stand in the middle of the east, north, and west walls. In the center of the room stands a life-sized and lifelike statue of a dwarf warrior wearing a chain shirt, helm, and big boots. He carries a shield on his left arm and a battleaxe in his right hand. The statue has clearly been broken into, roughly, the head and upper torso, lower torso, and legs. These pieces have been reassembled and held together and upright in a stout wooden frame. A dagger along with several coins and gems lie on the floor in front of the statue, surrounded by an ring of fine gravel.
 ^63e
 
-The statue is a [petrified](/3-Mechanics/CLI/conditions.md#Petrified) and long-dead dwarf. On the frame holding it together, a small, neat inscription reads:
+The statue is a [petrified](/03_Mechanics/CLI/conditions.md#Petrified) and long-dead dwarf. On the frame holding it together, a small, neat inscription reads:
 
 > [!note] 
 > 
@@ -490,7 +490,7 @@ The ring of gravel surrounds the statue at a distance of 5 feet, intended to mar
 
 Offerings left here by the Believers include 440 cp, 253 sp, and 97 gp. Six small green agates (worth 5 gp each) and two polished moonstones (worth 50 gp each) are among the coins.
 
-To encourage the Believers, Larrakh left a [+1 dagger](/3-Mechanics/CLI/items/1-weapon-xdmg.md) decorated with star motifs and a grip of night-blue leather. Dried blood still coats the dagger from its use in killing and carving symbols on the murder victims in area T5. The dagger doesn't make noise when it hits or cuts something.
+To encourage the Believers, Larrakh left a [+1 dagger](/03_Mechanics/CLI/items/1-weapon-xdmg.md) decorated with star motifs and a grip of night-blue leather. Dried blood still coats the dagger from its use in killing and carving symbols on the murder victims in area T5. The dagger doesn't make noise when it hits or cuts something.
 
 The name "Reszur" is graven on the dagger's pommel. If the wielder speaks the name, the blade gives off a faint, cold glow, shedding dim light in a 10-foot radius until the wielder speaks the name again.
 
@@ -500,7 +500,7 @@ It's only a matter of minutes before the Black Earth cultists in Red Larch—the
 
 If the party enters the dungeon before the sinkhole occurs, townsfolk or cult watchers near Mellikho Stoneworks or Waelvur's Wagonworks notice the characters' activities. The cultists hurry to whichever entrance the characters didn't use and begin searching the tomb.
 
-The Bringers of Woe are six [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) whose leather armor bears the symbol of the Black Earth cult. (This encounter is hard for a party that is only 1st level.) When the Bringers of Woe meet the adventurers, the bandits grimly and confidently say, "We are the Bringers of Woe. We have come to reward your curiosity." The cultists then attack, fighting to the death. Three hang back and shoot at spellcasters, concentrating fire on one foe at a time. The other three advance to tie up the rest of the party in melee.
+The Bringers of Woe are six [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) whose leather armor bears the symbol of the Black Earth cult. (This encounter is hard for a party that is only 1st level.) When the Bringers of Woe meet the adventurers, the bandits grimly and confidently say, "We are the Bringers of Woe. We have come to reward your curiosity." The cultists then attack, fighting to the death. Three hang back and shoot at spellcasters, concentrating fire on one foe at a time. The other three advance to tie up the rest of the party in melee.
 
 ### T8. Approach
 
@@ -509,7 +509,7 @@ The Bringers of Woe are six [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-
 > A passage—ten feet wide, ten feet high, and hewn out of the rock—runs forty feet ahead. A small lantern hangs from a hook in the wall next to the door at the east end of the passage. Sitting on a wooden stool by the lantern is a balding, beardless old male human in patched and faded work trousers and a matching tunic. He is idly whittling a stick.
 ^643
 
-The human is an elder of Red Larch named Baragustas Harbuckler, a retired carpenter (male Tethyrian human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)).
+The human is an elder of Red Larch named Baragustas Harbuckler, a retired carpenter (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)).
 
 #### Roleplaying Baragustas
 
@@ -527,14 +527,14 @@ Baragustas has 25 cp and 19 sp on him. He also has a simple silver wedding band 
 
 ### T9. Chamber of Moving Stones
 
-If the characters speak to Baragustas in area T8 or examine the door to this area, a [Black Earth priest](/3-Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) (see chapter 7) named Larrakh hears them. If he does, he quickly sets down his lantern and hides. The following descriptive text assumes this is the case:
+If the characters speak to Baragustas in area T8 or examine the door to this area, a [Black Earth priest](/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota.md) (see chapter 7) named Larrakh hears them. If he does, he quickly sets down his lantern and hides. The following descriptive text assumes this is the case:
 
 > [!readaloud] 
 > 
 > An enormous chamber with a twenty-foot ceiling has been carved out of the rock here. A lighted lantern rests on the floor near the center of the room. An odd array of stone monoliths—some upright standing stones, and others arranged in three-stone arches—stand around the chamber. Six low stone slabs are set against the walls around the perimeter of the room. Each holds humanoid bones, dressed in scraps of tattered cloth and rusted iron.
 ^648
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/079-poa06-07.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/079-poa06-07.webp#center)
 
 Larrakh is hidden behind one of the larger stones. He spends almost all his time in this chamber, studying the old stones and experimenting with the magical floor. When he sees the characters, he lashes out at them with his magic.
 
@@ -554,7 +554,7 @@ Upon the stone slabs are the bones of human miners who discovered this chamber b
 
 #### Secret Door
 
-In the southeastern corner is a secret door that requires a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to find by noticing the unmortared stone outlining the door. It swivels on a central point, making a narrow opening to either side. The tunnel leads to a wooden shed in the yard behind Waelvur's Wagonworks (Red Larch, area 16).
+In the southeastern corner is a secret door that requires a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to find by noticing the unmortared stone outlining the door. It swivels on a central point, making a narrow opening to either side. The tunnel leads to a wooden shed in the yard behind Waelvur's Wagonworks (Red Larch, area 16).
 
 The earth cultists use this passage to enter and exit the tomb, and the Believers have disguised it to keep away the curious. Farther in, the tunnel is partially blocked with dusty canvas, broken beams, and loose rock to make it look like it has collapsed. A Medium or smaller creature can carefully pick a way through the debris. If someone uses an action to yank out a shoring timber, the jumble does collapse. Then, a 10-foot section of the tunnel is buried in the heap, blocking passage. Removing the debris takes a few hours of work.
 
@@ -562,7 +562,7 @@ The earth cultists use this passage to enter and exit the tomb, and the Believer
 
 This area was a large storage cellar and workshop carved out by the dwarves of Besilmer thousands of years ago. The dwarves left behind an odd array of pillars, threshold stones, lintels, and carved stone doors. Human miners from the ancient kingdom of Phalorm discovered the dwarven delving. The miners chose to bury their dead here. Until the Believers of Red Larch discovered it, the chamber was forgotten again.
 
-The dwarves enchanted the chamber floor to levitate stone in contact with it, so the floor's magic can be detected with [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) (transmutation school). A moderate impact on the floor, such as a dropped object weighing at least 1 pound or a firm stamp of the foot, activates the levitation effect, which lasts for 1 minute. When the floor is active, the stones hover less than an inch off the floor, and they move with a light touch. Thus, minor earth tremors can cause the stones to move. Intruders, even beasts, can move stones about accidentally.
+The dwarves enchanted the chamber floor to levitate stone in contact with it, so the floor's magic can be detected with [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) (transmutation school). A moderate impact on the floor, such as a dropped object weighing at least 1 pound or a firm stamp of the foot, activates the levitation effect, which lasts for 1 minute. When the floor is active, the stones hover less than an inch off the floor, and they move with a light touch. Thus, minor earth tremors can cause the stones to move. Intruders, even beasts, can move stones about accidentally.
 
 The Believers have never figured out the magic, and none have seen the stones levitating. Larrakh and the Black Earth cultists discovered how the floor works. They have been amusing themselves by shifting the stones around and telling the Believers that the mysterious movements are fearsome signs of impending doom.
 
@@ -614,7 +614,7 @@ A sacred dwarven shrine falls silent, leading the characters to investigate. The
 
 #### Dark Dealings in Yartar
 
-Criminals are auctioning off a [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md) to the highest bidder, and the characters must recover it first. This adventure is designed for a 9th-level party.
+Criminals are auctioning off a [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md) to the highest bidder, and the characters must recover it first. This adventure is designed for a 9th-level party.
 
 #### Rundreth Manor
 
@@ -638,25 +638,25 @@ The side treks provide excellent opportunities to highlight each character's all
 
 The Bargewright Inn depends on regular supply runs downriver by barge from Yartar, but its regular supply boat is overdue. The innkeeper, Nalaskur Thaelond, a Zhentarim operative, is mounting a supply run to Waterdeep to talk matters over with his superiors there. He needs someone to mind the inn in his absence.
 
-Nalaskur works with but doesn't trust Chalaska Muruin, a terse, cold-eyed human [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md). Chalaska is the Senior Sword, master of the inn's forty [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (known as Swords). Chalaska runs the community, but she knows Nalaskur is her counterbalance, and he has orders to spy on her, as she does him. Chalaska doesn't like Nalaskur and would enjoy seeing him permanently removed. The Zhentarim could promptly replace Nalaskur, but such a replacement wouldn't know the inn's functions were rearranged to Chalaska's benefit.
+Nalaskur works with but doesn't trust Chalaska Muruin, a terse, cold-eyed human [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md). Chalaska is the Senior Sword, master of the inn's forty [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (known as Swords). Chalaska runs the community, but she knows Nalaskur is her counterbalance, and he has orders to spy on her, as she does him. Chalaska doesn't like Nalaskur and would enjoy seeing him permanently removed. The Zhentarim could promptly replace Nalaskur, but such a replacement wouldn't know the inn's functions were rearranged to Chalaska's benefit.
 
 This situation leaves Thaelond unwilling to appoint Muruin as his temporary replacement while he travels to Waterdeep. Instead, he prefers to frustrate her and have an easy scapegoat for anything that goes wrong.
 
-Unknown to Chalaska and Nalaskur, an ambitious Zhentarim agent named Inglor Brathren (male dwarf [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) has established a cover identity as a handyman, allowing him to see and overhear secrets. Inglor thinks Nalaskur is lining his pockets at the expense of the Zhentarim. He suspects that Chalaska is turning a blind eye to Nalaskur's skimming, but he fears Chalaska and can't accuse her without proof. Inglor decides both need framing and replacing.
+Unknown to Chalaska and Nalaskur, an ambitious Zhentarim agent named Inglor Brathren (male dwarf [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) has established a cover identity as a handyman, allowing him to see and overhear secrets. Inglor thinks Nalaskur is lining his pockets at the expense of the Zhentarim. He suspects that Chalaska is turning a blind eye to Nalaskur's skimming, but he fears Chalaska and can't accuse her without proof. Inglor decides both need framing and replacing.
 
 > [!gallery]
-> ![Map 6.4: Bargewright Inn](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/080-06-04.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/081-pam18_bargewright_dm-zf-0998-75774-1-009-0.webp#gallery)
+> ![Map 6.4: Bargewright Inn](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/080-06-04.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/081-pam18_bargewright_dm-zf-0998-75774-1-009-0.webp#gallery)
 
 ### Setup
 
-This adventure occurs when the characters encounter Nalaskur Thaelond (male half-elf [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)). He asks the characters to run the inn for a tenday or so, promising handsome pay and a good recommendation to his superiors. If the characters accept, Nalaskur designates one character (preferably someone associated with the Zhentarim) as the innkeeper and tells him or her where the keys are, and of the importance of those keys (see the "Key Duty" section below). He is in a hurry to leave, so he doesn't hand them over personally.
+This adventure occurs when the characters encounter Nalaskur Thaelond (male half-elf [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)). He asks the characters to run the inn for a tenday or so, promising handsome pay and a good recommendation to his superiors. If the characters accept, Nalaskur designates one character (preferably someone associated with the Zhentarim) as the innkeeper and tells him or her where the keys are, and of the importance of those keys (see the "Key Duty" section below). He is in a hurry to leave, so he doesn't hand them over personally.
 
 If the characters refuse, Thaelond leaves them a note about the keys and travels to Waterdeep. Before doing so, he tells the inn staff the characters accepted the job. Others in the Bargewright Inn rush to the characters when things start to go wrong.
 
 If the characters have no connection to the Zhentarim, someone they've befriended or owe a favor to agrees to run the inn. That person then begs the characters for aid. Alternatively, the characters are merely present as events unfold.
 
-Since the Zhentarim controls the Bargewright Inn, any number of [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), [spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), and [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) might be present in the inn complex. These agents could be at rest or on special missions. In any case, all of them look out for Zhentarim interests.
+Since the Zhentarim controls the Bargewright Inn, any number of [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md), [spies](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md), and [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) might be present in the inn complex. These agents could be at rest or on special missions. In any case, all of them look out for Zhentarim interests.
 
 ### Key Duty
 
@@ -668,13 +668,13 @@ Six keys go missing immediately after Nalaskur leaves for Waterdeep. Inglor, kee
 
 The six missing keys unlock the outer wall's main gate, the outer wall's postern, two similar inner wall gates, the meeting rooms in the southern inn tower, and the strong room at the base of the northern tower. This last room is where the Zhentarim store pay chests, stolen items, valuables, and important objects.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/082-poa06-09.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/082-poa06-09.webp#center)
 
 #### Search for the Keys
 
 When it becomes clear that the keys are missing, Chalaska sounds an alarm and doubles the guards on the gates. She then calls for the other Swords to search the fortified community and its visitors.
 
-The character who has the highest Wisdom and was in the taproom just before the keys came up missing remembers a well-dressed human male who left the tavern quickly just before Chalaska asked for the keys. If the character succeeds on a DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check, he or she remembers the man looked worried and held a small note in his hand.
+The character who has the highest Wisdom and was in the taproom just before the keys came up missing remembers a well-dressed human male who left the tavern quickly just before Chalaska asked for the keys. If the character succeeds on a DC 10 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check, he or she remembers the man looked worried and held a small note in his hand.
 
 ##### Suspicion Spreads
 
@@ -688,7 +688,7 @@ When the commotion starts over the keys, the second phase of Inglor's plan unfol
 
 ##### Grendo's Note
 
-Inglor planted a note on Grendo, a young tavern server (male Tethyrian human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). Grendo finds the note when everyone is turning out their pockets for the Swords. The crumpled parchment reads, "Tell Kendrin Feldarr it's Chalaska." Grendo doesn't know how he got the note and has never met someone named Kendrin. He's afraid of (and a little smitten with) Chalaska, so he's completely honest.
+Inglor planted a note on Grendo, a young tavern server (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). Grendo finds the note when everyone is turning out their pockets for the Swords. The crumpled parchment reads, "Tell Kendrin Feldarr it's Chalaska." Grendo doesn't know how he got the note and has never met someone named Kendrin. He's afraid of (and a little smitten with) Chalaska, so he's completely honest.
 
 ##### Finding Kendrin
 
@@ -698,7 +698,7 @@ Kendrin usually sells exotic animals and their parts around the northern Sword C
 
 Inglor learned all this information from Kendrin in an earlier taproom interaction. Inglor also slipped a note to Kendrin. That note reads, "They're watching. You aren't safe here."
 
-When confronted in his room, Kendrin (male Chondathan human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) is packing. He drops a wooden box and takes off running, out of his head and screaming in fear. When the box falls, it breaks and releases four exotic [spiders](/3-Mechanics/CLI/bestiary/beast/spider-xmm.md). He has dropped the note on his bed.
+When confronted in his room, Kendrin (male Chondathan human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) is packing. He drops a wooden box and takes off running, out of his head and screaming in fear. When the box falls, it breaks and releases four exotic [spiders](/03_Mechanics/CLI/bestiary/beast/spider-xmm.md). He has dropped the note on his bed.
 
 Kendrin shoves or punches anyone who gets in his way. He draws a weapon only if one is used against him. When he eventually scuffles with one of the Swords, all the Swords converge to capture him.
 
@@ -740,7 +740,7 @@ Although the folk who live in the area are hardy and independent, capable of han
 
 ### Background
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/083-poa06-10.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/083-poa06-10.webp#center)
 
 The Iceshield orcs reside in a handful of lodges spaced about a day apart along the western edge of the High Forest. They have long been a thorn in the side of the denizens of that wood and the settlers who farm and ranch in the plains to the west. Now the Iceshields have become a prominent threat. Disruptions to the weather and landscape due to the powerful magic being used by the elemental cults has been taken as a sign from Gruumsh that blood and gold must flow from the lands of lesser races.
 
@@ -758,7 +758,7 @@ Alternatively, use one of the following options to draw the characters into this
 
 - The next time the characters head into town for recuperation, supplies, or any other errand, they hear about the orc raids from displaced locals, who ask for help.  
 - Members of the Order of the Gauntlet, perhaps in Summit Hall, look for other faction members to find Erned Stoutblade, because he hasn't been heard from in several days (see the "Dellmon Ranch" section).  
-- Members of the Emerald Enclave are worried about missing members of the delegation sent to meet with the elves of the High Forest and need someone to search for them (see the "Dellmon Ranch" section). Using the [animal messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md) spell, the delegation sent a message, saying, "We're trapped at Dellmon Ranch and besieged by an orc war band. Safe for now, but we dare not leave. Send aid. Make sure they're tough."  
+- Members of the Emerald Enclave are worried about missing members of the delegation sent to meet with the elves of the High Forest and need someone to search for them (see the "Dellmon Ranch" section). Using the [animal messenger](/03_Mechanics/CLI/spells/animal-messenger-xphb.md) spell, the delegation sent a message, saying, "We're trapped at Dellmon Ranch and besieged by an orc war band. Safe for now, but we dare not leave. Send aid. Make sure they're tough."  
 
 ### Smoke on the Horizon
 
@@ -791,7 +791,7 @@ If any characters approach within 60 feet of the house, they hear Selwyn coughin
 > The front room is filled with heat and smoke, and flames lick the ceiling. A slender half-elf with a bloody gash on his forehead is sprawled on the floor, feebly trying to rise. He struggles to sit up when he sees you. "Maygan!" he cries. "My wife! Please find her!" Then he collapses again in another fit of coughing.
 ^66f
 
-Selwyn (a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with 1 hit point remaining) can be easily carried or led outside. Once outside, it takes him a few minutes to clear his lungs. Selwyn is frantic about the fate of his wife. A quick search of the burning house reveals that no one else, dead or alive, is inside. No remains can be found in the barn.
+Selwyn (a [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with 1 hit point remaining) can be easily carried or led outside. Once outside, it takes him a few minutes to clear his lungs. Selwyn is frantic about the fate of his wife. A quick search of the burning house reveals that no one else, dead or alive, is inside. No remains can be found in the barn.
 
 Selwyn relates as much he can remember about what happened before he was beaten to unconsciousness. If the characters include him in any discussion of following the wagon tracks, he insists on going with them. Otherwise, he frantically looks around for any clue that reveals what happened to her and the Lavelle brothers and sets out on foot by himself.
 
@@ -806,7 +806,7 @@ The procession of orcs, prisoners, and wagon doesn't move very fast, so it's not
 > Four brutish orcs surround a wagon sitting in the shade of some stunted trees along a dry riverbed. Two human males in plain farming clothes have collapsed near the front of the vehicle. The wagon's wheels are sunk several inches into the loose, sandy soil. A female human is in the wagon, among supplies and other loot.
 ^671
 
-The four [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) are emboldened by their recent success raiding several homesteads. They immediately attack, throwing their javelins first, and then moving toward the characters to engage them in melee. If Selwyn is with the group, he doesn't fight the orcs but instead rushes toward the wagon to free Maygan. The Lavelle brothers are too weary to assist in any fight.
+The four [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) are emboldened by their recent success raiding several homesteads. They immediately attack, throwing their javelins first, and then moving toward the characters to engage them in melee. If Selwyn is with the group, he doesn't fight the orcs but instead rushes toward the wagon to free Maygan. The Lavelle brothers are too weary to assist in any fight.
 
 Even if the characters win the fight and successfully rescue the homesteaders, the Anderils' place is ruined and they must find shelter for the night. They had heard about other homesteaders gathering at the Dellmon Ranch to defend against the raiding parties and would like to go there. They ask the characters to escort them. If the adventurers agree, the group can reach Dellmon Ranch in a couple hours.
 
@@ -817,29 +817,29 @@ The Dellmon family has lived in this area for several generations and is well kn
 Every able-bodied person on the premises pitched in to help bolster the defenses. They built a series of low earth ridges and ditches as defensive works running between the various buildings (see the map) and put together makeshift crenellations on the roof lines for missile combatants. They also stockpiled weapons and caches of ammunition.
 
 > [!gallery]
-> ![Map 6.5: Dellmon Ranch](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/084-06-05.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/085-pam11_iceshield_dm-zf-0998-75774-1-003-0.webp#gallery)
+> ![Map 6.5: Dellmon Ranch](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/084-06-05.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/085-pam11_iceshield_dm-zf-0998-75774-1-003-0.webp#gallery)
 
 #### The Dellmon Family
 
-Kerbin Dellmon (male Tethyrian human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), patriarch of the Dellmon family, refused to leave his home despite the fact that his family is in danger and might have been safer retreating to Yartar. He's determined to stay and fight, and nothing anyone has said has changed his mind. Kerbin's daughter Dreena sent a message to the elves of the High Forest, but no one knows if or when they might respond. As far as they know, the ranch's defenders are on their own.
+Kerbin Dellmon (male Tethyrian human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), patriarch of the Dellmon family, refused to leave his home despite the fact that his family is in danger and might have been safer retreating to Yartar. He's determined to stay and fight, and nothing anyone has said has changed his mind. Kerbin's daughter Dreena sent a message to the elves of the High Forest, but no one knows if or when they might respond. As far as they know, the ranch's defenders are on their own.
 
 Other Dellmon family members present at the ranch include the following people:
 
-- Kerbin's oldest child, Perd (male Tethyrian human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), agrees with his father's never-give-in mentality. Perd is concerned for the safety of the children and privately wonders if staying was a mistake.  
-- Perd's wife, Marka (female Tethyrian human [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) worries about whether they are safe.  
-- Kerbin's middle child, Dreena (female Tethyrian human [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md)) is a budding member of the Emerald Enclave. She was part of the delegation sent to meet the elves, and she sent the distress message to the enclave. The Emerald Enclave doesn't know, but Dreena also sent a distress message to the elves of the High Forest with an [animal messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md) spell.  
-- Kerbin's younger son, Fyndrick (male Tethyrian human [guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)), is a hothead and has been agitating to confront the orcs before they lay siege to the ranch.  
+- Kerbin's oldest child, Perd (male Tethyrian human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), agrees with his father's never-give-in mentality. Perd is concerned for the safety of the children and privately wonders if staying was a mistake.  
+- Perd's wife, Marka (female Tethyrian human [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) worries about whether they are safe.  
+- Kerbin's middle child, Dreena (female Tethyrian human [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md)) is a budding member of the Emerald Enclave. She was part of the delegation sent to meet the elves, and she sent the distress message to the enclave. The Emerald Enclave doesn't know, but Dreena also sent a distress message to the elves of the High Forest with an [animal messenger](/03_Mechanics/CLI/spells/animal-messenger-xphb.md) spell.  
+- Kerbin's younger son, Fyndrick (male Tethyrian human [guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)), is a hothead and has been agitating to confront the orcs before they lay siege to the ranch.  
 - Perd and Marka's children, Livi (female) and Thrade (male), aren't old enough to fight, though Thrade has hidden a dagger beneath his bed.  
 
 #### Ranch Workers and Guests
 
 The Dellmons have many laborers and guests, including the following people:
 
-- Flameran Verminbane, a lightfoot halfling [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), is a member of the Emerald Enclave and the delegation to the elves.  
-- Erned Stoutblade, a Tethyrian human [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) and member of the Order of the Gauntlet, came from Yartar with the intention of defending the weak and meting out justice to the Iceshield tribe. He has been trying to bring retribution to the orcs for their depredations, and he just arrived with news that a large orc war band is nearby and heading in the ranch's direction. There's not enough time to flee, and everyone is hunkering down to defend the compound as best as they can.  
-- Stowal and Branikan are brothers (male shield dwarf [guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)s) who serve as the area's blacksmiths, tinkerers, and general laborers-for-hire.  
-- The remaining defenders consist of eighteen farm and ranch folk, as well as a few Emerald Enclave allies. Twelve able-bodied [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)s wield handaxes, sickles, or spears. Half have shortbows. Four warriors ([guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) and two hunters ([scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) round out the other defenders.  
+- Flameran Verminbane, a lightfoot halfling [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md), is a member of the Emerald Enclave and the delegation to the elves.  
+- Erned Stoutblade, a Tethyrian human [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md) and member of the Order of the Gauntlet, came from Yartar with the intention of defending the weak and meting out justice to the Iceshield tribe. He has been trying to bring retribution to the orcs for their depredations, and he just arrived with news that a large orc war band is nearby and heading in the ranch's direction. There's not enough time to flee, and everyone is hunkering down to defend the compound as best as they can.  
+- Stowal and Branikan are brothers (male shield dwarf [guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)s) who serve as the area's blacksmiths, tinkerers, and general laborers-for-hire.  
+- The remaining defenders consist of eighteen farm and ranch folk, as well as a few Emerald Enclave allies. Twelve able-bodied [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)s wield handaxes, sickles, or spears. Half have shortbows. Four warriors ([guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) and two hunters ([scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) round out the other defenders.  
 - Sixteen people make up a group of noncombatant adults and children. Half can carry ammunition, tend the injured, or watch over the elderly and very young.  
 
 #### The Characters' Role
@@ -860,7 +860,7 @@ The orcs could easily defeat twice their number of commoners, but with the defen
 
 The first sign that the orcs have arrived occurs when their scouts appear on the low ridges all around the compound. Soon after, small bands of orcs spread out, surrounding the buildings. With the blast of a horn, they all rush the structures simultaneously. The battle is on.
 
-The war band includes forty [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) led by a lone [orog](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) and his second-in-command, an [orc Eye of Gruumsh](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md). When the orcs are within range, they throw javelins at any visible targets. The next round, they charge to close the distance and attack with melee weapons. After two or three rounds, the orcs retreat.
+The war band includes forty [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) led by a lone [orog](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) and his second-in-command, an [orc Eye of Gruumsh](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md). When the orcs are within range, they throw javelins at any visible targets. The next round, they charge to close the distance and attack with melee weapons. After two or three rounds, the orcs retreat.
 
 The orcs repeat this pattern several times, perhaps breaching a spot here or there before the defenders push them back. Then they start trying different tactics.
 
@@ -874,7 +874,7 @@ During the night, the orcs sneak close enough to the buildings to set them on fi
 
 #### Relief Arrives
 
-At dawn, the orcs make a final push. It should seem like they might overwhelm the defenders in several spots, and get inside the compound. Suddenly, the melodious tone of an elven war horn sounds, and a company of twenty-five elven soldiers (a mix of guards, [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), scouts, and a few [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) arrives to help.
+At dawn, the orcs make a final push. It should seem like they might overwhelm the defenders in several spots, and get inside the compound. Suddenly, the melodious tone of an elven war horn sounds, and a company of twenty-five elven soldiers (a mix of guards, [acolytes](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), scouts, and a few [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) arrives to help.
 
 ### Conclusion
 
@@ -904,19 +904,19 @@ The caravan travels from Womford to Red Larch along the Cairn Road, then heads n
 
 #### The Caravan
 
-The caravan consists of six wagons, each pulled by two oxen and equipped with an axe, a shovel, two buckets, and a three-pointed-iron-rod fire spit that can readily be used as three improvised spears. Each wagon carries two Black Network [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) as armed guards, a drover (female Tethyrian human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), and a drover's lad (male Tethyrian human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) who tends the beasts and can handle the wagon if anything happens to the drover.
+The caravan consists of six wagons, each pulled by two oxen and equipped with an axe, a shovel, two buckets, and a three-pointed-iron-rod fire spit that can readily be used as three improvised spears. Each wagon carries two Black Network [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) as armed guards, a drover (female Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), and a drover's lad (male Tethyrian human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) who tends the beasts and can handle the wagon if anything happens to the drover.
 
 Five of the six wagons carry hidden treasure. Each treasure wagon has 100 gp in thin wooden coffers concealed under a false floor. All the vehicles are filled with mundane wares to sell in Triboar. The Zhents aren't happy about traveling overland with large amounts of gold.
 
 During attacks on the caravan, the thugs defend themselves first, and then their wagon and drover. They don't leave the wagons to hunt down attackers, and they assist the characters in battle only if doing so offers minimal risk to what the thugs consider to be their primary duties. If characters decry this behavior, the thugs curtly remind them that they all have their orders.
 
-Commanded by Haeler Thommadur (male Tethyrian human [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), the caravan sets out in good weather. It takes a minimum of three days for a fast caravan in the best weather and without delays.
+Commanded by Haeler Thommadur (male Tethyrian human [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), the caravan sets out in good weather. It takes a minimum of three days for a fast caravan in the best weather and without delays.
 
 The caravan makes good time, and although the sky turns overcast, it doesn't rain. Well-established campsites are plentiful beside the Long Road wherever reasonably level ground and a water source can be found together. Haeler doesn't post sentinels outside the camp. Instead, he rings the wagons and has the thugs watch from within them.
 
 ### Bandit Attack
 
-Bandits watch for an opportunity to waylay caravans. When the characters stop for their first night, a large gang of outlaws closes in to try its luck. The band is made up of sixteen [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) led by one [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md).
+Bandits watch for an opportunity to waylay caravans. When the characters stop for their first night, a large gang of outlaws closes in to try its luck. The band is made up of sixteen [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) led by one [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md).
 
 The bandits try to take out sentinels outside the camp perimeter first. Otherwise, the attack starts with a volley of sixteen bolts, lit on fire and all directed at one wagon. The wagon starts to burn, and the attackers flee back toward their camp. Anyone pursuing them is led up over a ridge, straight into an ambush of the massed bandits waiting below the crest.
 
@@ -932,13 +932,13 @@ Before the second bandit attack, Haeler comes to the characters and asks for adv
 
 The bandits attack again on the second night, repeating the same tactics but refining their targets to reflect what they've learned of the caravan's strengths and weaknesses.
 
-Oxen are of little use to the bandits except as food, so they target the beasts this time around, hoping to strand the wagons along the road so they can harry the caravan defenders at will. Use the [rhinoceros](/3-Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md) statistics for the oxen, but remove the Charge feature.
+Oxen are of little use to the bandits except as food, so they target the beasts this time around, hoping to strand the wagons along the road so they can harry the caravan defenders at will. Use the [rhinoceros](/03_Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md) statistics for the oxen, but remove the Charge feature.
 
 Again, the bandits aren't willing to die to win. The wounded retreat as soon as they can.
 
 ### Howling Hatred Attack
 
-Just before dawn on the third morning, four [Howling Hatred initiates](/3-Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7) try to prove their usefulness to the air cult by attacking the caravan. They've been watching the group for awhile, so they bide their time, especially if the characters acquit themselves well in the second bandit attack. They swoop in, riding [giant vultures](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md), and hurl javelins at the characters (not the Zhentarim NPCs or drovers). They try for at least one kill, making a second pass before flying away.
+Just before dawn on the third morning, four [Howling Hatred initiates](/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota.md) (see chapter 7) try to prove their usefulness to the air cult by attacking the caravan. They've been watching the group for awhile, so they bide their time, especially if the characters acquit themselves well in the second bandit attack. They swoop in, riding [giant vultures](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md), and hurl javelins at the characters (not the Zhentarim NPCs or drovers). They try for at least one kill, making a second pass before flying away.
 
 ### Conclusion
 
@@ -946,11 +946,11 @@ The return journey is much quieter, except for random encounters. The bandits ar
 
 ## Curse of the Fire Witch
 
-[Wiggan Nettlebee](/3-Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md), miserly patriarch of the Nettlebee halfling family, amassed a fortune through shrewd trade and inheritance. When earth cultists first started to explore the region, Wiggan took their money for information and occasional aid. As he got to know the cultists, the earth powers they had intrigued him. Control over the earth could be valuable for a farmer. Wiggan's cult contacts helped remove a couple of his rivals, and assured him his wealth and influence could only increase as the cult ascended to power.
+[Wiggan Nettlebee](/03_Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md), miserly patriarch of the Nettlebee halfling family, amassed a fortune through shrewd trade and inheritance. When earth cultists first started to explore the region, Wiggan took their money for information and occasional aid. As he got to know the cultists, the earth powers they had intrigued him. Control over the earth could be valuable for a farmer. Wiggan's cult contacts helped remove a couple of his rivals, and assured him his wealth and influence could only increase as the cult ascended to power.
 
 Among the Nettlebees, Wiggan's secret is known only to his son, Bertram, now an initiate in the earth cult. The cult has begun its slow indoctrination of the whole Nettlebee clan, starting with Bertram's son Watson. Watson is receptive to his father's and grandfather's new religion, but he remains unaware of its true nature. In fact, Wiggan and Bertram don't know the cult's ultimate aims, only that it reveres a mighty earth power.
 
-After the adventurers infiltrate the Sacred Stone Monastery, the cult gives Wiggan a mission. He and his family must play the parts of meek halflings, lure the party to their isolated ranch, and kill the characters. For his part, Wiggan wants the characters to pay dearly for any harm they inflicted on his mentor, [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md), the Abbess of Stone (see chapter 7).
+After the adventurers infiltrate the Sacred Stone Monastery, the cult gives Wiggan a mission. He and his family must play the parts of meek halflings, lure the party to their isolated ranch, and kill the characters. For his part, Wiggan wants the characters to pay dearly for any harm they inflicted on his mentor, [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md), the Abbess of Stone (see chapter 7).
 
 ### Setup
 
@@ -985,12 +985,12 @@ Oats and barley sprawl over two fields in the hilly country near the ranch. Bert
 
 The Nettlebee family includes the following people:
 
-- The Nettlebee patriarch, [Wiggan Nettlebee](/3-Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md) (see chapter 7) is a miserly, cantankerous misanthrope and bitter widower.  
-- Wiggan's only son, Bertram (a [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)), is set in his ways and full of bluster.  
-- Bertram's wife, Jayne (a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is a no-nonsense lady who knows how to handle Wiggan, Bertram, and other loudmouths. She is afraid, though, and is most concerned for her children.  
-- Bertram's heir and oldest child, at twenty-three, Watson (a [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) is brave, honest, and forthright. He takes more after his mother than his father or grandfather, and he's angry about the mistreatment of the cattle. Watson knows about Wiggan and Bertram's new religion, but thinks it's not important, so he's unlikely to mention it. He knows nothing about Wiggan's plans.  
-- Just a year younger than Watson, Darrow (a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is Bertram's next son. He is good natured, but his grandfather's bluster over inheritance has him thinking about his future. He might take to the adventurers a little too readily for Jayne's liking.  
-- Bertram's and Jayne's only daughter, Elisa (a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is nineteen. She's like her mother and very open about disliking her "old goat" of a grandfather.  
+- The Nettlebee patriarch, [Wiggan Nettlebee](/03_Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md) (see chapter 7) is a miserly, cantankerous misanthrope and bitter widower.  
+- Wiggan's only son, Bertram (a [cult fanatic](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)), is set in his ways and full of bluster.  
+- Bertram's wife, Jayne (a [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is a no-nonsense lady who knows how to handle Wiggan, Bertram, and other loudmouths. She is afraid, though, and is most concerned for her children.  
+- Bertram's heir and oldest child, at twenty-three, Watson (a [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) is brave, honest, and forthright. He takes more after his mother than his father or grandfather, and he's angry about the mistreatment of the cattle. Watson knows about Wiggan and Bertram's new religion, but thinks it's not important, so he's unlikely to mention it. He knows nothing about Wiggan's plans.  
+- Just a year younger than Watson, Darrow (a [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is Bertram's next son. He is good natured, but his grandfather's bluster over inheritance has him thinking about his future. He might take to the adventurers a little too readily for Jayne's liking.  
+- Bertram's and Jayne's only daughter, Elisa (a [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), is nineteen. She's like her mother and very open about disliking her "old goat" of a grandfather.  
 - The youngest Nettlebee, at twelve, Ignatius is really just a little boy. Everyone (even Wiggan) favors him, so he's a happy kid, but the fire witch has him so scared that he has night terrors.  
 
 #### Interviewing the Nettlebees
@@ -1009,7 +1009,7 @@ They know the following information:
 
 ### Barrow Mound
 
-Long ago, Uthgardt barbarians built the barrow mound to hold the body of a chieftain, now forgotten. When [Wiggan Nettlebee](/3-Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md) joined the Cult of the Black Earth, he looted the barrow mound's altars, upsetting the spirit of the chieftain.
+Long ago, Uthgardt barbarians built the barrow mound to hold the body of a chieftain, now forgotten. When [Wiggan Nettlebee](/03_Mechanics/CLI/bestiary/npc/wiggan-nettlebee-pota.md) joined the Cult of the Black Earth, he looted the barrow mound's altars, upsetting the spirit of the chieftain.
 
 A few days before the characters arrived, Wiggan and Bertram set the barrow ablaze to lend credence to their fire witch ruse. When the characters go to the barrow mound, Wiggan and Bertram follow them. They keep their distance unless the characters invite them to come along.
 
@@ -1022,7 +1022,7 @@ When the characters approach the barrow, they see the following:
 
 If they accompany the characters openly, Wiggan and Bertram cower at the edge of the hill. The halflings refuse to set foot upon the "cursed" ground.
 
-![Map 6.6: The Barrow Mound](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/086-06-06.webp#center)
+![Map 6.6: The Barrow Mound](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/086-06-06.webp#center)
 
 #### Barrow Mound Entrance
 
@@ -1035,7 +1035,7 @@ When the characters move to the barrow entrance, read the following:
 
 In the barrow, the structure is made of monoliths set into the earth and capped with other fieldstones. The ceilings are corbeled fieldstone 10 feet high and supported by carved stone pillars.
 
-Motes of [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) light the passage and chambers. The flames produce no heat. They're Wiggan's addition, since the Uthgardt detest magic. A character who succeeds on a DC 10 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check knows of the Uthgardt prejudice.
+Motes of [continual flame](/03_Mechanics/CLI/spells/continual-flame-xphb.md) light the passage and chambers. The flames produce no heat. They're Wiggan's addition, since the Uthgardt detest magic. A character who succeeds on a DC 10 Intelligence ([History](/03_Mechanics/CLI/skills.md#History)) check knows of the Uthgardt prejudice.
 
 From the barrow entrance, the characters can see little within the burial chamber at the end of the hall, except vague details of the stone bier and the Elk beast altar at the bier's head.
 
@@ -1067,11 +1067,11 @@ After the characters have a minute to look around, read the following:
 > His voice is deep, resonant, and oddly accented. He says, "I return from a warrior's rest among the spirits to find my tomb burned and my bones desecrated. I know the desecraters are not among you, but who are you and why are you here?"
 ^695
 
-The chieftain, Javor, was allowed to come here from the afterlife due to the overt and callous desecration of his tomb—a terrible insult among the Uthgardt. In this form, he is a [revenant](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md).
+The chieftain, Javor, was allowed to come here from the afterlife due to the overt and callous desecration of his tomb—a terrible insult among the Uthgardt. In this form, he is a [revenant](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md).
 
 Javor doesn't attack, and he is willing to briefly listen to the characters, whom he knows to be innocent of crimes against him. He doesn't know the name of the desecraters, but his Vengeful Tracker trait means he knows where to find Wiggan and Bertram. If asked the right question, he can tell the characters the desecraters are just outside the tomb.
 
-Meanwhile, Wiggan uses a scroll of [conjure elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md). It takes him 1 minute to cast the spell, and he doesn't start until all the characters are deep inside the barrow mound. An [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) answers the summons, and Wiggan commands it to collapse the entry tunnel and slay anyone inside the barrow.
+Meanwhile, Wiggan uses a scroll of [conjure elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md). It takes him 1 minute to cast the spell, and he doesn't start until all the characters are deep inside the barrow mound. An [earth elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) answers the summons, and Wiggan commands it to collapse the entry tunnel and slay anyone inside the barrow.
 
 The elemental easily collapses the centuries-old entry tunnel. When it does, read the following text:
 
@@ -1101,21 +1101,21 @@ When the characters emerge from the barrow, read the following text:
 > He points to the Nettlebee ranch in the valley below the barrow. Then, he begins to run in that direction.
 ^698
 
-Uthgardt of the fierce Elk tribe, as can be discerned from their garb and markings, this barbarian raiding band is led by a female [berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) named [Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md). Other members include ten [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) and a male [berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) named [Padraich](/3-Mechanics/CLI/bestiary/npc/padraich-pota.md). [Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md) wears a chain shirt (AC 14), wields a greatsword that deals 10 (`2d6 + 3`) slashing damage on a hit, and has the Multiattack action, allowing her to use an action to make two attacks with her sword. She has a challenge rating of 3. [Padraich](/3-Mechanics/CLI/bestiary/npc/padraich-pota.md) wields a maul that deals 10 (`2d6 + 3`) bludgeoning damage on a hit. The two berserkers ride [warhorses](/3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md).
+Uthgardt of the fierce Elk tribe, as can be discerned from their garb and markings, this barbarian raiding band is led by a female [berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) named [Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md). Other members include ten [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) and a male [berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) named [Padraich](/03_Mechanics/CLI/bestiary/npc/padraich-pota.md). [Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md) wears a chain shirt (AC 14), wields a greatsword that deals 10 (`2d6 + 3`) slashing damage on a hit, and has the Multiattack action, allowing her to use an action to make two attacks with her sword. She has a challenge rating of 3. [Padraich](/03_Mechanics/CLI/bestiary/npc/padraich-pota.md) wields a maul that deals 10 (`2d6 + 3`) bludgeoning damage on a hit. The two berserkers ride [warhorses](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md).
 
-Anyone native to the area knows Uthgardt of the Elk tribe are dangerous raiders. Most locals consider them to be savage bandits. Those who are from other regions know the Elk tribe reputation with a successful DC 10 Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check.
+Anyone native to the area knows Uthgardt of the Elk tribe are dangerous raiders. Most locals consider them to be savage bandits. Those who are from other regions know the Elk tribe reputation with a successful DC 10 Intelligence ([History](/03_Mechanics/CLI/skills.md#History)) check.
 
 #### Roleplaying the Uthgardt
 
-The barbarians follow Javor. [Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md) assumes (only somewhat rightly) that the party emerged from the barrow unscathed only because Javor allowed them to, showing tacit approval. The Uthgardt and the returned chief are willing to talk while on the move.
+The barbarians follow Javor. [Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md) assumes (only somewhat rightly) that the party emerged from the barrow unscathed only because Javor allowed them to, showing tacit approval. The Uthgardt and the returned chief are willing to talk while on the move.
 
 Javor plans to find and slay the desecraters. He knows two of the Nettlebees are culpable, but he is able to identify them only when he sees them. The returned chief shows no concern for the other Nettlebees.
 
-[Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md) plans to "aid" the chief's justice, destroying and looting the ranch in the process. The strong implication is that the Uthgardt intend to allow no Nettlebee to survive. This intention can be confirmed if the characters ask the right questions.
+[Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md) plans to "aid" the chief's justice, destroying and looting the ranch in the process. The strong implication is that the Uthgardt intend to allow no Nettlebee to survive. This intention can be confirmed if the characters ask the right questions.
 
-If the adventurers bargain for the safety of innocent Nettlebees, Javor can be swayed. He is willing to stay [Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md)'s bloodlust. However, if he agrees, he demands recompense. The characters must aid in the capture of the desecraters, as well as find Javor's treasure and return it to his barrow, sealing the barrow's entry tunnel thereafter. For their part, the Nettlebees must willingly give the raiders supplies for the road and some livestock. (The halflings do so if it means their survival.)
+If the adventurers bargain for the safety of innocent Nettlebees, Javor can be swayed. He is willing to stay [Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md)'s bloodlust. However, if he agrees, he demands recompense. The characters must aid in the capture of the desecraters, as well as find Javor's treasure and return it to his barrow, sealing the barrow's entry tunnel thereafter. For their part, the Nettlebees must willingly give the raiders supplies for the road and some livestock. (The halflings do so if it means their survival.)
 
-[Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md) adds, "All the ones with this liar's mark!" She makes the fire symbol with her hands. Her uncanny knowledge also comes from her daughter's vision. The berserker isn't willing to share more about her child.
+[Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md) adds, "All the ones with this liar's mark!" She makes the fire symbol with her hands. Her uncanny knowledge also comes from her daughter's vision. The berserker isn't willing to share more about her child.
 
 ### Final Confrontations
 
@@ -1137,13 +1137,13 @@ If Wiggan or Bertram somehow survive, they later flee to the Temple of Black Ear
 
 #### The Barbarians
 
-Javor makes sure the other Uthgardt abide by any agreement. [Fennor](/3-Mechanics/CLI/bestiary/npc/fennor-pota.md) willingly follows "the ancient's" wishes. If Wiggan and Bertram are slain, Javor reminds the characters of promises they made (see the "Treasure" section). In exchange, the Uthgardt don't bother the surviving Nettlebees.
+Javor makes sure the other Uthgardt abide by any agreement. [Fennor](/03_Mechanics/CLI/bestiary/npc/fennor-pota.md) willingly follows "the ancient's" wishes. If Wiggan and Bertram are slain, Javor reminds the characters of promises they made (see the "Treasure" section). In exchange, the Uthgardt don't bother the surviving Nettlebees.
 
 If Javor is slain before Wiggan or Bertram are, he returns to life after 24 hours to resume his pursuit of the desecraters. He, too, might appear in the Temple of the Black Earth. Further, Uthgardt of the Elk tribe could continue to harass the Nettlebees, probably driving them from their ranch to live, much diminished, in a nearby settlement.
 
 #### Final Clues
 
-Wiggan and Bertram know the location of the Temple of Black Earth, as well as the pass phrase for entering the temple ("I serve the Black Earth"). Although they know of the prophet, neither halfling has met [Marlos Urnrayle](/3-Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md). The corrupted Nettlebees' main contacts are [Hellenrae](/3-Mechanics/CLI/bestiary/npc/hellenrae-pota.md) in the Sacred Stone Monastery and, to a lesser extent, [Miraj Vizann](/3-Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md), the "mud sorcerer" in the Temple of the Black Earth.
+Wiggan and Bertram know the location of the Temple of Black Earth, as well as the pass phrase for entering the temple ("I serve the Black Earth"). Although they know of the prophet, neither halfling has met [Marlos Urnrayle](/03_Mechanics/CLI/bestiary/npc/marlos-urnrayle-pota.md). The corrupted Nettlebees' main contacts are [Hellenrae](/03_Mechanics/CLI/bestiary/npc/hellenrae-pota.md) in the Sacred Stone Monastery and, to a lesser extent, [Miraj Vizann](/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota.md), the "mud sorcerer" in the Temple of the Black Earth.
 
 Journals, letters, and transaction records in Wiggan's study link him to the earth cult, revealing connections to the aforementioned leaders. Wiggan also writes of his conversion of Bertram, his slow influence of Watson, and the fire witch plan. If the characters fail to uncover this damning evidence, Watson later does.
 
@@ -1153,7 +1153,7 @@ The Nettlebee family is horrified and shocked by the brutal and supernatural bar
 
 #### Treasure
 
-The Nettlebee's wealth is hidden in an iron chest. Walled in with large, unmortared fieldstones that match the walls, the chest is hidden in a niche in the basement. Finding the niche requires a successful DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. If the characters promised to return Javor's treasure, the revenant pulls the chest out and remains to identify his property. Once the characters return his treasure to the barrow, Javor disappears, leaving only his bones behind.
+The Nettlebee's wealth is hidden in an iron chest. Walled in with large, unmortared fieldstones that match the walls, the chest is hidden in a niche in the basement. Finding the niche requires a successful DC 10 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check. If the characters promised to return Javor's treasure, the revenant pulls the chest out and remains to identify his property. Once the characters return his treasure to the barrow, Javor disappears, leaving only his bones behind.
 
 The chest is locked, but Wiggan has the key.
 
@@ -1161,9 +1161,9 @@ Prominently on top of the chest's contents is Javor's ornate helmet made of leat
 
 An oiled hide under the helmet wraps Javor's ornate greatsword of ancient Besilmer make. The sword's grip is bound in worn leather that doesn't look original, and is marked with sequential notches. Bear claws are tied to the pommel. The sword is worth 100 gp.
 
-In addition, Javor has four animal figurines the size of a human fist—a bear carved of lapis lazuli, a tiger carved of red obsidian, and an elk carved of banded agate (each worth 150 gp), and a [figurine of wondrous power](/3-Mechanics/CLI/items/figurine-of-wondrous-power-xdmg.md) (silver raven).
+In addition, Javor has four animal figurines the size of a human fist—a bear carved of lapis lazuli, a tiger carved of red obsidian, and an elk carved of banded agate (each worth 150 gp), and a [figurine of wondrous power](/03_Mechanics/CLI/items/figurine-of-wondrous-power-xdmg.md) (silver raven).
 
-The Nettlebee family hoard includes 775 cp, 2,512 sp, 1,553 gp, and 196 pp, as well as nine rose quartz crystals (50 gp each) and an old, worn [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md) of halfling make that is an heirloom.
+The Nettlebee family hoard includes 775 cp, 2,512 sp, 1,553 gp, and 196 pp, as well as nine rose quartz crystals (50 gp each) and an old, worn [bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md) of halfling make that is an heirloom.
 
 ##### Restoring the Barrow
 
@@ -1173,7 +1173,7 @@ If the characters fail to keep their word to Javor, the consequences are up to y
 
 ##### Watson's Visit
 
-If the Nettlebees feel they owe the characters, after a month or so, Watson meets them in a nearby town. He gives them an iron brand of the fire symbol, which he found in the fields. Watson also tells the adventurers any information about Wiggan, Bertram, and their relationship to the earth cult that the party doesn't already know. In addition, as a memento of the bond between them, he gives the party the [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md). Each Nettlebee has helped restore and decorate the bag, and it contains some homemade supplies and a letter of thanks from Jayne. Watson then jokes about how it will be harder to get bales of wool to market in the future.
+If the Nettlebees feel they owe the characters, after a month or so, Watson meets them in a nearby town. He gives them an iron brand of the fire symbol, which he found in the fields. Watson also tells the adventurers any information about Wiggan, Bertram, and their relationship to the earth cult that the party doesn't already know. In addition, as a memento of the bond between them, he gives the party the [bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md). Each Nettlebee has helped restore and decorate the bag, and it contains some homemade supplies and a letter of thanks from Jayne. Watson then jokes about how it will be harder to get bales of wool to market in the future.
 
 ## Vale of Dancing Waters
 
@@ -1188,8 +1188,8 @@ Recently, two unscrupulous treasure hunters, an oni named Obratu and a duergar n
 Reulek opted to seek the subterranean route, and he subsequently died in the Black Geode (see chapter 5, area G8). Obratu cut a deal with a dwarf named Grumink and his crew of renegade miners. The oni and its allies sneaked into the shrine, used deceit and magic to overcome the few worshipers, and began digging. They have gone unnoticed by other dwarves in the region.
 
 > [!gallery]
-> ![Map 6.7: Shrine of the Tender Oath](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/087-06-07.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/088-pam19_dancingwaters_dm-zf-0998-75774-1-010-0.webp#gallery)
+> ![Map 6.7: Shrine of the Tender Oath](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/087-06-07.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/088-pam19_dancingwaters_dm-zf-0998-75774-1-010-0.webp#gallery)
 
 ### Setup
 
@@ -1201,13 +1201,13 @@ The trip to the vale can be as eventful as you like, but once the characters rea
 
 ### D1. Switchbacks
 
-The approach to the Shrine of the Tender Oath begins as a short but steep flight of steps cut into the side of the gorge. Two of the creeks in the Vale of Dancing Waters meet near the steps before tumbling on toward the Dessarin River. The trail continues upriver to other parts of the vale, so unless the characters know about the runes, it's easy to miss the beginning of the steps; it takes a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to notice them.
+The approach to the Shrine of the Tender Oath begins as a short but steep flight of steps cut into the side of the gorge. Two of the creeks in the Vale of Dancing Waters meet near the steps before tumbling on toward the Dessarin River. The trail continues upriver to other parts of the vale, so unless the characters know about the runes, it's easy to miss the beginning of the steps; it takes a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to notice them.
 
 After twenty steps, the stairs turn into a narrow path that follows switchbacks up the wall of the gorge. The characters must walk single-file. The journey takes half an hour.
 
-Two-thirds of the way up, at a switchback turnaround, Grumink's miners constructed a trap. Its purpose is to make noise and warn the lookouts in area D2 above, but it's also dangerous. A character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher notices a steel tripwire fastened between boulders about two inches from the ground. A character who is looking for traps instead finds the tripwire with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+Two-thirds of the way up, at a switchback turnaround, Grumink's miners constructed a trap. Its purpose is to make noise and warn the lookouts in area D2 above, but it's also dangerous. A character who has a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 15 or higher notices a steel tripwire fastened between boulders about two inches from the ground. A character who is looking for traps instead finds the tripwire with a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
-If the tripwire is sprung, it tumbles one boulder along with a rush of smaller stones and gravel down the path. The first two creatures ascending the trail must make a DC 15 Dexterity saving throw. On a failure, the creature is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone) and takes 2 (`d4`) bludgeoning damage. A failure by 5 or more results in the creature being knocked from the pathway, sliding and falling to the next lower level of the path, and taking an additional 10 (`3d6`) bludgeoning damage.
+If the tripwire is sprung, it tumbles one boulder along with a rush of smaller stones and gravel down the path. The first two creatures ascending the trail must make a DC 15 Dexterity saving throw. On a failure, the creature is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone) and takes 2 (`d4`) bludgeoning damage. A failure by 5 or more results in the creature being knocked from the pathway, sliding and falling to the next lower level of the path, and taking an additional 10 (`3d6`) bludgeoning damage.
 
 Cutting the tripwire triggers the trap. To disarm it, the wire must be disconnected, kept tight, and traced back to the wood panel it holds, shoring up the loose boulder and rocks. Then the boulder must be further supported until it can't fall due to lack of tension on the tripwire. Reworking the trap this way can be done in a few ways, but checks to do so are no worse than DC 10.
 
@@ -1220,7 +1220,7 @@ As the characters reach the top of the switchbacks, read the following text:
 > The path levels off and widens before an arch cut from the dark stone of the mountain. Flanking the arch are two statues of dwarves offering a greeting. Beyond the archway is an open courtyard with a statue on a raised platform in the center. All these features have been chiseled out of the side of the mountain rather than built from fitted stonework.
 ^6ac
 
-Two dwarf [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stand watch atop this stony shelf. Instead of spears and shields, they carry warhammers that they wield with two hands (`1d10 + 1` bludgeoning damage on a hit). Without shields, they have AC 14. Whether or not the guards are present depends on how quietly the characters approach:
+Two dwarf [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) stand watch atop this stony shelf. Instead of spears and shields, they carry warhammers that they wield with two hands (`1d10 + 1` bludgeoning damage on a hit). Without shields, they have AC 14. Whether or not the guards are present depends on how quietly the characters approach:
 
 - If the characters trigger the trap in area D1 or make no attempt to approach quietly, the dwarf guards detect them and aren't here. They have retreated to the courtyard (area D3).  
 - If the characters don't trigger the trap in area D1 and make an effort to be stealthy, the guards are here, talking quietly in Dwarvish.  
@@ -1242,7 +1242,7 @@ The windows that run along the north wall, overlooking the courtyard, are 20 fee
 
 #### Ruse
 
-If the characters triggered the trap in area D1 or otherwise forecast their arrival to the guards in area D2, the renegade dwarves have time to prepare a ruse. Grumink sends six dwarf [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) from area D7 to the courtyard, bolstered by the two dwarf [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) from area D2. These eight dwarves don disguises to look like robed dwarves attending a private wedding ceremony. The [oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md), Obratu, is also present and uses Change Shape to appear as a female dwarf officiating the ceremony:
+If the characters triggered the trap in area D1 or otherwise forecast their arrival to the guards in area D2, the renegade dwarves have time to prepare a ruse. Grumink sends six dwarf [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) from area D7 to the courtyard, bolstered by the two dwarf [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) from area D2. These eight dwarves don disguises to look like robed dwarves attending a private wedding ceremony. The [oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md), Obratu, is also present and uses Change Shape to appear as a female dwarf officiating the ceremony:
 
 > [!readaloud] 
 > 
@@ -1253,9 +1253,9 @@ If the characters triggered the trap in area D1 or otherwise forecast their arri
 
 If the characters seem suspicious or threaten them in any way, the dwarves end their ruse and attack.
 
-If the characters think the ceremony is real and join the festivities, the dwarves wait for them to get close before drawing hidden weapons and taking the characters. Characters with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 13 or higher notice that the dwarves are wearing chain shirts under their robes; these characters aren't [surprised](/3-Mechanics/CLI/conditions.md#Surprised) when the dwarves attack. Instead of spears and shields, the dwarves carry warhammers that they wield with two hands (`1d10 + 1` bludgeoning damage on a hit). Without shields, these guards have AC 14.
+If the characters think the ceremony is real and join the festivities, the dwarves wait for them to get close before drawing hidden weapons and taking the characters. Characters with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 13 or higher notice that the dwarves are wearing chain shirts under their robes; these characters aren't [surprised](/03_Mechanics/CLI/conditions.md#Surprised) when the dwarves attack. Instead of spears and shields, the dwarves carry warhammers that they wield with two hands (`1d10 + 1` bludgeoning damage on a hit). Without shields, these guards have AC 14.
 
-Once combat erupts, the oni casts [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) on itself, gathers its glaive from behind the dais, and uses the statue of Sharindlar for cover while casting spells, doing its best not to affect its allies. The oni reveals its true form only if doing so might terrify the party. When reduced to half its hit points, the oni casts [gaseous form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md) on itself and flies through a window into area D7.
+Once combat erupts, the oni casts [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) on itself, gathers its glaive from behind the dais, and uses the statue of Sharindlar for cover while casting spells, doing its best not to affect its allies. The oni reveals its true form only if doing so might terrify the party. When reduced to half its hit points, the oni casts [gaseous form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md) on itself and flies through a window into area D7.
 
 ### D4. Dormitory
 
@@ -1266,7 +1266,7 @@ The passage west from the courtyard becomes a long hallway with a series of ston
 > A short hallway widens into a square room with a plain set of furniture. Each piece has been carved directly from the rock that makes up this place. A pair of beds line opposite walls, while a table with benches rests in the middle. Shelves and open cupboards are chiseled out of the walls, all of it smooth and perfectly formed. Cushions cover the benches, and mattresses rest on the beds. A variety of knickknacks sit here and there—everyday items common to someone's tidy and simple home.
 ^6b4
 
-If the characters make a point of poking around, they spot a trace of blood or other signs of violence on a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check.
+If the characters make a point of poking around, they spot a trace of blood or other signs of violence on a successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check.
 
 #### Southwest Room
 
@@ -1297,7 +1297,7 @@ This chapel is dedicated to Sharindlar. The renegade dwarves left this place alo
 
 #### Treasure
 
-If characters poke around the altar, a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals a silver chain worth 25 gp tangled on one of the braziers. Near the chain is a small bloodstain.
+If characters poke around the altar, a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check reveals a silver chain worth 25 gp tangled on one of the braziers. Near the chain is a small bloodstain.
 
 ### D6. Hall of Vows
 
@@ -1310,7 +1310,7 @@ If the characters have come this far without alerting the creatures in area D7, 
 
 #### Treasure
 
-Leaning against the corner behind the western brazier is a [+1 greataxe](/3-Mechanics/CLI/items/1-weapon-xdmg.md). Its owner left it there while attending a ceremony in the greater temple, but the oni slew the dwarf and overlooked the axe in the aftermath. The axe has Dethek runes on it, reading, "A beacon in the dark depths." The axe's wielder always knows the way to the nearest passage leading from underground toward the surface, as well as the approximate depth the axe is underground.
+Leaning against the corner behind the western brazier is a [+1 greataxe](/03_Mechanics/CLI/items/1-weapon-xdmg.md). Its owner left it there while attending a ceremony in the greater temple, but the oni slew the dwarf and overlooked the axe in the aftermath. The axe has Dethek runes on it, reading, "A beacon in the dark depths." The axe's wielder always knows the way to the nearest passage leading from underground toward the surface, as well as the approximate depth the axe is underground.
 
 ### D7. Temple
 
@@ -1332,13 +1332,13 @@ Read the following text aloud:
 > A team of dwarves is hard at work, pounding on the stone behind the altar with stout tools. Watching them intently is another dwarf wearing black leather armor. Next to him, tapping its foot impatiently, is a blue-skinned ogre.
 ^6c2
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/089-poa06-14.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/089-poa06-14.webp#center)
 
-The leather-clad dwarf is [Grumink the Renegade](/3-Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota.md) (see "Other Villains" in chapter 7), and the "blue-skinned ogre" is the [oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md), Obratu. Eight dwarf [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) are hammering at the stone wall behind the altar. Instead of spears and shields, the guards carry warhammers that they wield with two hands (`1d10 + 1` bludgeoning damage on a hit). Without shields, these guards have AC 14.
+The leather-clad dwarf is [Grumink the Renegade](/03_Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota.md) (see "Other Villains" in chapter 7), and the "blue-skinned ogre" is the [oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md), Obratu. Eight dwarf [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) are hammering at the stone wall behind the altar. Instead of spears and shields, the guards carry warhammers that they wield with two hands (`1d10 + 1` bludgeoning damage on a hit). Without shields, these guards have AC 14.
 
 #### Dwarves Alerted
 
-If the characters are coming from a big fight in the courtyard (area D3), [Grumink the Renegade](/3-Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota.md) (see chapter 7) is here with two dwarf [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), ready to make his final stand. If the [oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) survived the courtyard battle, it is here as well, in the guise of a female dwarf.
+If the characters are coming from a big fight in the courtyard (area D3), [Grumink the Renegade](/03_Mechanics/CLI/bestiary/npc/grumink-the-renegade-pota.md) (see chapter 7) is here with two dwarf [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md), ready to make his final stand. If the [oni](/03_Mechanics/CLI/bestiary/fiend/oni-xmm.md) survived the courtyard battle, it is here as well, in the guise of a female dwarf.
 
 #### Development
 
@@ -1361,27 +1361,27 @@ Characters who defeat Grumink, Obratu, and their minions can explore the rest of
 
 ## Dark Dealings in Yartar
 
-The city of Yartar is renowned as a place to make deals. Merchants, smugglers, mercenaries, and spies from all over the North meet in Yartar's taverns and alleyways to do business. Trade is the lifeblood of the city, and wherever trade flourishes, thieves are never far behind. The guild known as the Hand of Yartar is the largest and most fractious collection of scoundrels between Waterdeep and Luskan. When the Hand finds itself in possession of a [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md), the guild does what any self-respecting thieves' guild might do: They auction it off to the highest bidder.
+The city of Yartar is renowned as a place to make deals. Merchants, smugglers, mercenaries, and spies from all over the North meet in Yartar's taverns and alleyways to do business. Trade is the lifeblood of the city, and wherever trade flourishes, thieves are never far behind. The guild known as the Hand of Yartar is the largest and most fractious collection of scoundrels between Waterdeep and Luskan. When the Hand finds itself in possession of a [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md), the guild does what any self-respecting thieves' guild might do: They auction it off to the highest bidder.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/090-poa06-15.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/090-poa06-15.webp#center)
 
 ### Background
 
-Two tendays ago, the Cult of the Eternal Flame dispatched a group of cultists armed with a [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md) to strike at the large town of Triboar. A patrol of the Twelve, the militia of Triboar, met and defeated the cultists in the nearby hills. Not knowing what the cultists were carrying, they brought the [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md) in its containment case back to Triboar. Shortly thereafter, it disappeared.
+Two tendays ago, the Cult of the Eternal Flame dispatched a group of cultists armed with a [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md) to strike at the large town of Triboar. A patrol of the Twelve, the militia of Triboar, met and defeated the cultists in the nearby hills. Not knowing what the cultists were carrying, they brought the [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md) in its containment case back to Triboar. Shortly thereafter, it disappeared.
 
 Nareen Dhest, a member of the Hand of Yartar operating in Triboar, pilfered the lord protector's vaults and smuggled the orb in its case back to Yartar.
 
 The Hand of Yartar had no particular use for a fiery orb, so the thieves decided to sell it. Nareen put out the word that interested parties could submit their offers at the Wink and Kiss, a tavern in Yartar's market square. However, another Hand by the name of Haliyra Ravenfast found a different buyer: the Kraken Society, a sinister secret network with spies throughout the North. Haliyra cut a deal with society operatives to sell them the orb. They just need to eliminate Nareen and leave the Harpers, Zhentarim, and anyone else interested in the orb blaming one another for dealing in bad faith.
 
 > [!gallery]
-> ![Map 6.8: Yartar](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/091-06-08.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/092-pam17_murderinyartar_dm-zf-0998-75774-1-008-0.webp#gallery)
+> ![Map 6.8: Yartar](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/091-06-08.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/092-pam17_murderinyartar_dm-zf-0998-75774-1-008-0.webp#gallery)
 
 ### Setup
 
 You have several good options to involve the characters in this side trek. Consider one or more of the following:
 
-- If a character is allied with the Harpers, a known contact sends a message through a [sending](/3-Mechanics/CLI/spells/sending-xphb.md) spell. The message says, "Dangerous orb of fire stolen from Triboar. Hands of Yartar auctioning orb to highest bidder. Please recover orb and return it to Triboar."  
+- If a character is allied with the Harpers, a known contact sends a message through a [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell. The message says, "Dangerous orb of fire stolen from Triboar. Hands of Yartar auctioning orb to highest bidder. Please recover orb and return it to Triboar."  
 - The Zhentarim sends word to an allied character through a local contact or a messenger. The Black Network needs to secure a magic orb the Hand of Yartar is trying to sell. The character is to obtain the orb at any cost.  
 - Characters who keep up with underworld news hear that the Hand of Yartar found an elemental weapon. The thieves are auctioning it off.  
 - Characters passing through Yartar hear rumors that the Hand of Yartar stole something dangerous. Now the thieves want to get rid of it.  
@@ -1401,7 +1401,7 @@ Characters who lack any local connections can find out the same information by s
 
 ### The Wink and Kiss
 
-The Wink and Kiss is a large tavern staffed by a dozen dancers, servers, and cooks (all [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) protected by two human [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) who serve as bouncers. Nareen Dhest and her group are in a private room in the back. Everybody working in the Wink and Kiss is friendly toward the Hand of Yartar, and they know their regular clientele. Any suspicious-looking strangers are likely to be spotted at once. The staff pretends nothing is out of the ordinary and waits on newcomers, but they quietly warn Nareen and her group. Nareen might send a server to ask such folk whether they're here to talk business and invite them to join her.
+The Wink and Kiss is a large tavern staffed by a dozen dancers, servers, and cooks (all [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) protected by two human [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) who serve as bouncers. Nareen Dhest and her group are in a private room in the back. Everybody working in the Wink and Kiss is friendly toward the Hand of Yartar, and they know their regular clientele. Any suspicious-looking strangers are likely to be spotted at once. The staff pretends nothing is out of the ordinary and waits on newcomers, but they quietly warn Nareen and her group. Nareen might send a server to ask such folk whether they're here to talk business and invite them to join her.
 
 When the characters meet Nareen, read:
 
@@ -1412,23 +1412,23 @@ When the characters meet Nareen, read:
 > "The bidding starts at a fifteen hundred gold pieces," she says. "What's your offer?"
 ^6cd
 
-The woman is Nareen Dhest (female Tethyrian human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), the thief who stole the [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md) in Triboar. She is protected by two mercenary [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md). In addition, the two [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) guarding the tavern are ready to come when called. The room has two small leaded-glass windows and a barred door facing the alley behind the tavern. Nareen made sure to set up in a room with two ways out, just in case.
+The woman is Nareen Dhest (female Tethyrian human [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), the thief who stole the [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md) in Triboar. She is protected by two mercenary [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md). In addition, the two [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) guarding the tavern are ready to come when called. The room has two small leaded-glass windows and a barred door facing the alley behind the tavern. Nareen made sure to set up in a room with two ways out, just in case.
 
 #### Acquiring the Orb
 
 The orb is hidden in a nearby mausoleum. Nareen can describe the orb in great detail if questioned, reporting that it's a thick glass orb, dull red in color and warm to the touch. It is packed in a small wooden cask filled with water and sealed with wax. A mage hired by the Hand of Yartar identified it as a powerful weapon of elemental fire magic, but worries it might be unstable. She knows that soldiers of Triboar took it from strange orange-robed cultists near that town. If asked how she got the orb, Nareen just smiles.
 
-Nareen expects 1,500 gp, but characters who negotiate well and bring up good points can talk her down to 1,100 gp with a successful DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check. Her guards are vigilant for use of magic to charm or coerce her, and attack at once if they see it used. If the party attacks and defeats Nareen and her guards, she grudgingly buys her life by surrendering the orb's location.
+Nareen expects 1,500 gp, but characters who negotiate well and bring up good points can talk her down to 1,100 gp with a successful DC 15 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check. Her guards are vigilant for use of magic to charm or coerce her, and attack at once if they see it used. If the party attacks and defeats Nareen and her guards, she grudgingly buys her life by surrendering the orb's location.
 
 When Nareen agrees on a price, she requires the characters to leave half the sum with the barkeep at the Wink and Kiss. She tells the characters that she can take them to where the orb is, or send someone to fetch it.
 
 #### Rival Seller
 
-When the characters conclude dealing with Nareen, matters take a new turn. Haliyra Ravenfast (female Illuskan human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)), another Hand of Yartar, has already sold the orb to the Kraken Society. She has a good hiding spot in the alley behind the tavern that gives her a view through the small, dirty panes of the window in the back room where the characters meet Nareen.
+When the characters conclude dealing with Nareen, matters take a new turn. Haliyra Ravenfast (female Illuskan human [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)), another Hand of Yartar, has already sold the orb to the Kraken Society. She has a good hiding spot in the alley behind the tavern that gives her a view through the small, dirty panes of the window in the back room where the characters meet Nareen.
 
 When a deal appears imminent, or the characters defeat Nareen and her guards, Haliyra fires a crossbow bolt through the window from the alley outside. She targets Nareen. Nareen's guards assume the characters are responsible and attack, unless the characters immediately aid Nareen or take other actions showing their innocence.
 
-Haliyra attempts to escape by fleeing through the nearby market. The market is crowded with people. Spotting her requires a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. If none of the characters spot her, Haliyra makes her way to Thorn Alley, one of the streets leading into the market square, and disappears into Yartar's crowds.
+Haliyra attempts to escape by fleeing through the nearby market. The market is crowded with people. Spotting her requires a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. If none of the characters spot her, Haliyra makes her way to Thorn Alley, one of the streets leading into the market square, and disappears into Yartar's crowds.
 
 ##### Background
 
@@ -1444,32 +1444,32 @@ After the encounter with Haliyra, Nareen wants out. She agrees to tell the chara
 
 ### Meeting at the Tomb
 
-When the characters successfully deal with Nareen and Haliyra, they learn where the [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md) is hidden. The next step is to take possession of the orb, but Haliyra's buyers are already on the scene.
+When the characters successfully deal with Nareen and Haliyra, they learn where the [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md) is hidden. The next step is to take possession of the orb, but Haliyra's buyers are already on the scene.
 
 > [!readaloud] 
 > 
 > The overgrown cemetery sprawls beneath the eastern wall of the city. Gnarled trees and crumbling mausoleums break line of sight all around. Three humans are gathered around the door of the crypt you're looking for, along with someone—or something—that stands almost eight feet tall and hides itself under a huge, sodden cloak.
 ^6d4
 
-The Kraken Society agents here at the tomb include a large sahuagin named [Ghald](/3-Mechanics/CLI/bestiary/npc/ghald-pota.md) (see "Other Villains" in chapter 7), Unferth (male Tethyrian human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md)), and two bodyguards (male Tethyrian human [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)). The bodyguards are working with crowbars to open the crypt door, while [Ghald](/3-Mechanics/CLI/bestiary/npc/ghald-pota.md) keeps watch. Unferth is the group's spokesman, although [Ghald](/3-Mechanics/CLI/bestiary/npc/ghald-pota.md) is in command.
+The Kraken Society agents here at the tomb include a large sahuagin named [Ghald](/03_Mechanics/CLI/bestiary/npc/ghald-pota.md) (see "Other Villains" in chapter 7), Unferth (male Tethyrian human [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md)), and two bodyguards (male Tethyrian human [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)). The bodyguards are working with crowbars to open the crypt door, while [Ghald](/03_Mechanics/CLI/bestiary/npc/ghald-pota.md) keeps watch. Unferth is the group's spokesman, although [Ghald](/03_Mechanics/CLI/bestiary/npc/ghald-pota.md) is in command.
 
 If the Kraken Society agents see the party coming, Unferth calls out a warning, saying, "No closer, friends! This is a private matter, and we don't wish to be disturbed." Unferth presents himself with a false joviality, making light of the fact that two groups of upstanding citizens should find themselves engaged in an ugly bit of skulduggery involving opening a tomb. Underneath the self-deprecating manner is a stern resolve. The Kraken Society paid good money for the orb, and they intend to keep it.
 
-[Ghald](/3-Mechanics/CLI/bestiary/npc/ghald-pota.md) waits and watches to see if the adventurers can be scared away. When he decides conflict is likely, he attacks without warning. This act forces the others to join the battle. Unferth hangs back and uses his spells to support his allies.
+[Ghald](/03_Mechanics/CLI/bestiary/npc/ghald-pota.md) waits and watches to see if the adventurers can be scared away. When he decides conflict is likely, he attacks without warning. This act forces the others to join the battle. Unferth hangs back and uses his spells to support his allies.
 
 If the characters accepted Nareen's offer to guide them here, and she is uninjured from Haliyra's attack, she and one of her veterans are here. They fight as the party's allies.
 
 #### The Orb
 
-The crypt is a small stone building with a locked iron door. Nareen has the key; the Kraken Society agents don't have a key, so they must break in. The crypt holds the remains of a minor lord and lady, buried here centuries ago. The orb sits in a wooden containment cask in plain sight on the floor. See chapter 7 for more information on [devastation orbs](/3-Mechanics/CLI/items/devastation-orb-pota.md).
+The crypt is a small stone building with a locked iron door. Nareen has the key; the Kraken Society agents don't have a key, so they must break in. The crypt holds the remains of a minor lord and lady, buried here centuries ago. The orb sits in a wooden containment cask in plain sight on the floor. See chapter 7 for more information on [devastation orbs](/03_Mechanics/CLI/items/devastation-orb-pota.md).
 
 ### Conclusion
 
-When the characters recover the [devastation orb](/3-Mechanics/CLI/items/devastation-orb-pota.md), they must decide what to do with it. The Harpers want to see the orb returned to Triboar. Zhentarim agents want to smuggle the orb out in a Zhentarim-sponsored caravan, intending to study the device. Otherwise, the characters can turn it over to the authorities or detonate it in the countryside away from any populated area.
+When the characters recover the [devastation orb](/03_Mechanics/CLI/items/devastation-orb-pota.md), they must decide what to do with it. The Harpers want to see the orb returned to Triboar. Zhentarim agents want to smuggle the orb out in a Zhentarim-sponsored caravan, intending to study the device. Otherwise, the characters can turn it over to the authorities or detonate it in the countryside away from any populated area.
 
 ## Rundreth Manor
 
-One of the most powerful creatures in the Dessarin Valley is a shadow dragon named [Nurvureem](/3-Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md), who dwells in caverns under Rundreth Manor. Nurvureem has no interest in allying with the cults. After emissaries failed to return from Rundreth Manor, the elemental cults have learned to give Nurvureem a wide berth. The Harpers, the Zhentarim, and the Lords' Alliance believe the elemental cults are courting the Dark Lady, so they send the characters to investigate.
+One of the most powerful creatures in the Dessarin Valley is a shadow dragon named [Nurvureem](/03_Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md), who dwells in caverns under Rundreth Manor. Nurvureem has no interest in allying with the cults. After emissaries failed to return from Rundreth Manor, the elemental cults have learned to give Nurvureem a wide berth. The Harpers, the Zhentarim, and the Lords' Alliance believe the elemental cults are courting the Dark Lady, so they send the characters to investigate.
 
 ### Background
 
@@ -1483,7 +1483,7 @@ Although based on a faulty premise, this side trek is hardly a waste of time for
 
 This adventure is best used late in the campaign for two reasons. First, the characters know more about the elemental cults and have a better perspective to understand the Dark Lady's information. Second, it strains credulity for any of the factions to send inexperienced agents into the Dark Lady's lair.
 
-The characters receive a [sending](/3-Mechanics/CLI/spells/sending-xphb.md) spell, telling them to meet a faction agent at a local inn. When they do, read the following text:
+The characters receive a [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell, telling them to meet a faction agent at a local inn. When they do, read the following text:
 
 > [!readaloud] 
 > 
@@ -1507,7 +1507,7 @@ If the characters request payment, the contact is authorized to negotiate on her
 
 The two wings of the manor are fallen stones and forest now. Bits of flagstone floor can be seen amid the bushes and trees growing in the feast hall. With a little exploring, the characters find a hole that leads to a stairway down into the earth.
 
-The flagstones within 10 feet of the top of the stair are laid loosely atop flimsy boards concealed with dirt. They collapse under 100 or more pounds. A character searching for traps can spot these loose stones with a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. A successful check also reveals the lip at the end of the loose flagstones that forms the top step of the stair is solid. If the trap triggers, those in its area can attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the character falls 40 feet to the dirt floor of the pit, landing [prone](/3-Mechanics/CLI/conditions.md#Prone) in the undercroft.
+The flagstones within 10 feet of the top of the stair are laid loosely atop flimsy boards concealed with dirt. They collapse under 100 or more pounds. A character searching for traps can spot these loose stones with a successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check. A successful check also reveals the lip at the end of the loose flagstones that forms the top step of the stair is solid. If the trap triggers, those in its area can attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the character falls 40 feet to the dirt floor of the pit, landing [prone](/03_Mechanics/CLI/conditions.md#Prone) in the undercroft.
 
 ### Undercroft
 
@@ -1518,11 +1518,11 @@ The flagstones within 10 feet of the top of the stair are laid loosely atop flim
 
 The air shimmers, and a female drow appears in the center of the chamber.
 
-The drow is an illusory projection, like a [major image](/3-Mechanics/CLI/spells/major-image-xphb.md) spell, that [Nurvureem](/3-Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) uses to speak with interlopers without exposing herself to danger. The Dark Lady's image opens conversation by saying, "Welcome to Rundreth Manor."
+The drow is an illusory projection, like a [major image](/03_Mechanics/CLI/spells/major-image-xphb.md) spell, that [Nurvureem](/03_Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) uses to speak with interlopers without exposing herself to danger. The Dark Lady's image opens conversation by saying, "Welcome to Rundreth Manor."
 
 The image ignores any attacks the characters make against it, although such interaction reveals it to be an illusion.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/093-poa06-17.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/093-poa06-17.webp#center)
 
 #### Conversing with the Dark Lady
 
@@ -1542,7 +1542,7 @@ Skipping anything the players already know, the Dark Lady might begin by reveali
 - Centuries ago, a drow named Vizeran DeVir used the power of the shrine to make four elemental weapons, one each of air, water, earth, and fire. Each weapon is connected to an extraplanar Prince of Elemental Evil. These weapons can open or close a portal to the Inner Plane of that element.  
 - The Dark Lady can supply names and descriptions of each of the four elemental princes (described in chapter 7).  
 
-[Nurvureem](/3-Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) is curious about the prophets. She also wants to know about signs of division or rivalry among the four cults. Her curiosity is also piqued about how the cults are spreading their influence across the Dessarin Valley. She doesn't really care about the communities themselves, but she's keenly interested in the techniques the cults are using to sow fear and exert control. If the characters mention the [devastation orbs](/3-Mechanics/CLI/items/devastation-orb-pota.md), the Dark Lady expresses a keen interest in them.
+[Nurvureem](/03_Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) is curious about the prophets. She also wants to know about signs of division or rivalry among the four cults. Her curiosity is also piqued about how the cults are spreading their influence across the Dessarin Valley. She doesn't really care about the communities themselves, but she's keenly interested in the techniques the cults are using to sow fear and exert control. If the characters mention the [devastation orbs](/03_Mechanics/CLI/items/devastation-orb-pota.md), the Dark Lady expresses a keen interest in them.
 
 The Dark Lady wants the characters to attack the elemental cults and leave her alone. Nurvureem tries her utmost to manipulate the characters into attacking the four elemental cults. She doesn't lie out of malice, though Nurvureem has plenty of that, but because she's trying to motivate the adventurers. She invents details to entice the characters onward.
 
@@ -1553,9 +1553,9 @@ The Dark Lady converses with the characters as long as she's interested in the i
 > A new but familiar voice, an octave lower and far more menacing than the drow's, echoes through the chamber, saying, "Now depart, and never return! You are no longer useful to me. No longer useful alive, at any rate."
 ^6e1
 
-[Nurvureem](/3-Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) doesn't respond to further entreaties, ignoring characters who tarry in the undercroft.
+[Nurvureem](/03_Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) doesn't respond to further entreaties, ignoring characters who tarry in the undercroft.
 
-If the characters refuse to leave or go out of their way to provoke a violent confrontation, Nurvureem emerges from the shadows in her draconic form and attacks, holding nothing back. To create [Nurvureem's](/3-Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) statistics, apply the shadow dragon template to the [adult black dragon](/3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) statistics in the "Monster Manual".
+If the characters refuse to leave or go out of their way to provoke a violent confrontation, Nurvureem emerges from the shadows in her draconic form and attacks, holding nothing back. To create [Nurvureem's](/03_Mechanics/CLI/bestiary/npc/nurvureem-the-dark-lady-pota.md) statistics, apply the shadow dragon template to the [adult black dragon](/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) statistics in the "Monster Manual".
 
 ### Conclusion
 
@@ -1565,11 +1565,11 @@ Nurvureem's hoard is beyond the characters' reach. When the party returns from R
 
 The Halls of the Hunting Axe stand as a reminder of the long-forgotten dwarven kingdom of Besilmer. A gateway between the underground and surface worlds, the halls were once a magnificent complex with soaring, arched walls, beautiful stained-glass windows, and impeccable craftsmanship. The only things left standing now are a few crumbling ruins upon a prominent outcropping that survey the plains for leagues around. Rumors claim the ruins of the halls hide an entrance to the tomb of the king of Besilmer himself, Torhild Flametongue, along with his magical axe, Orcsplitter. Others insist the place serves only as a hideout for bandits and beasts.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/094-poa06-18.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/094-poa06-18.webp#center)
 
 ### Background
 
-Gargosh Blusterhelm, a young shield dwarf from Mithral Hall, has made it his life's quest to find the legendary axe [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md) and present it to the elders of Clan Blusterhelm in the hopes of restoring his family's lackluster reputation. Most of the elders believe Gargosh's plan is a fool's quest.
+Gargosh Blusterhelm, a young shield dwarf from Mithral Hall, has made it his life's quest to find the legendary axe [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) and present it to the elders of Clan Blusterhelm in the hopes of restoring his family's lackluster reputation. Most of the elders believe Gargosh's plan is a fool's quest.
 
 Gargosh has developed and maintained an extensive diary of his quest, filling it with notes, drawings, rubbings of ancient stone tablets, and so on, all holding clues pointing toward the secret location of the tomb of Torhild Flametongue. Convinced at last that he has enough to go on, Gargosh has set out to find the axe. Now he just needs a few trustworthy souls to assist him in his quest.
 
@@ -1578,8 +1578,8 @@ Gargosh's greedy cousin, Drannin Splitshield, is also interested in finding the 
 Gargosh's other problem is the Harpers. That faction feels that the legendary axe should remain exactly where it is, hidden away and undisturbed, so that its power will not fall into the wrong hands. They have taken steps to prevent treasure hunters from getting too close, keeping vigilant agents in the vicinity of the Halls in order to head off any serious digging.
 
 > [!gallery]
-> ![Map 6.9: Halls of the Hunting Axe](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/095-06-09.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/096-pam25_huntingaxe-zf-0998-75774-1-012-0.webp#gallery)
+> ![Map 6.9: Halls of the Hunting Axe](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/095-06-09.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/096-pam25_huntingaxe-zf-0998-75774-1-012-0.webp#gallery)
 
 ### Setup
 
@@ -1602,7 +1602,7 @@ Between the time the characters first meet with Gargosh and when they are to rec
 
 ### Starting Out
 
-A [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) in the guise of Gargosh meets the characters at the appointed hour:
+A [doppelganger](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) in the guise of Gargosh meets the characters at the appointed hour:
 
 > [!readaloud] 
 > 
@@ -1639,7 +1639,7 @@ See chapter 2 for more information on the Stone Bridge. When the characters reac
 > You see half a dozen figures on the bridge ahead—five dwarves in leather armor and a human in wizard's robes. They appear to be sitting on the edge of the bridge, facing north and enjoying the view. When they see you, they stand, move away from the edge of the bridge, and draw their weapons. The robed fellow pulls out a wand.
 ^6ee
 
-The figures on the bridge include five [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) (male shield dwarves) and a mercenary [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named [Cavil Zaltobar](/3-Mechanics/CLI/bestiary/npc/cavil-zaltobar-pota.md) (male Tethyrian human). Cavil is armed with a [+1 wand of the war mage](/3-Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg.md). If the characters don't attack immediately, Cavil tosses a few words at them before ordering the thugs to attack:
+The figures on the bridge include five [thugs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) (male shield dwarves) and a mercenary [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named [Cavil Zaltobar](/03_Mechanics/CLI/bestiary/npc/cavil-zaltobar-pota.md) (male Tethyrian human). Cavil is armed with a [+1 wand of the war mage](/03_Mechanics/CLI/items/1-wand-of-the-war-mage-xdmg.md). If the characters don't attack immediately, Cavil tosses a few words at them before ordering the thugs to attack:
 
 > [!readaloud] 
 > 
@@ -1648,7 +1648,7 @@ The figures on the bridge include five [thugs](/3-Mechanics/CLI/bestiary/humanoi
 
 Drannin left these forces here knowing that they were unlikely to defeat the characters, but he wanted to play up the idea that someone is trying to stop Gargosh from completing his quest. Cavil chose this spot because it's where Torhild Flametongue, the dwarf king of Besilmer, reportedly fell to his death long ago. "Not a bad place to die," the mage says with mild amusement.
 
-The doppelganger posing as Gargosh doesn't take part in the fight, remaining on the fringes of the battle and rooting for the characters to triumph. Once three of the thugs are defeated, the remaining two surrender and the mage casts [fly](/3-Mechanics/CLI/spells/fly-xphb.md) on himself to escape.
+The doppelganger posing as Gargosh doesn't take part in the fight, remaining on the fringes of the battle and rooting for the characters to triumph. Once three of the thugs are defeated, the remaining two surrender and the mage casts [fly](/03_Mechanics/CLI/spells/fly-xphb.md) on himself to escape.
 
 #### Interrogations
 
@@ -1659,7 +1659,7 @@ If the characters take prisoners, they can interrogate their captives and learn 
 > "My cousin Drannin? That cad! He stole my diary because he wants the axe and all the glory for himself! We need to make haste and catch up with him!"
 ^6f2
 
-Characters who have reason to suspect Gargosh might be lying or holding back information can make a DC 16 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check. A character who succeeds on the check realizes that Gargosh's amazement seems a little rehearsed, suggesting that Gargosh knew Drannin was involved all along. If one or more characters accuse Gargosh of withholding information from them, he admits that he has long suspected Drannin capable of such treachery, but denies knowing of Drannin's plot.
+Characters who have reason to suspect Gargosh might be lying or holding back information can make a DC 16 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check. A character who succeeds on the check realizes that Gargosh's amazement seems a little rehearsed, suggesting that Gargosh knew Drannin was involved all along. If one or more characters accuse Gargosh of withholding information from them, he admits that he has long suspected Drannin capable of such treachery, but denies knowing of Drannin's plot.
 
 If Gargosh gets the sense that the characters might turn against him, he suggests they all press on to Beliard and get a good night's rest. The doppelganger then tries to slip away in the night.
 
@@ -1674,9 +1674,9 @@ When the characters finally reach the ruined Halls of the Hunting Axe, "Gargosh"
 > You find a road of broken stone that meanders through hills, stands of trees, and ancient ruins. The road passes under the occasional stone arch as it weaves northward. One such arch stands ahead of you, and perched on a rocky escarpment to the left of the arch is an owlbear. It shrieks at you but doesn't leave its perch.
 ^6f5
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/097-poa06-20.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/097-poa06-20.webp#center)
 
-The [owlbear](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) has been hunting in the area and has fed recently, so it's not hungry enough to attack a group of well-armed travelers. If the characters leave it alone, the owlbear lets them pass. If they attack it, it leaps down and fights back, fleeing when reduced to half its hit points.
+The [owlbear](/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) has been hunting in the area and has fed recently, so it's not hungry enough to attack a group of well-armed travelers. If the characters leave it alone, the owlbear lets them pass. If they attack it, it leaps down and fights back, fleeing when reduced to half its hit points.
 
 This ancient road merges with a ravine that has a small stream flowing at the bottom of it. Characters who follow the road come to a plaza surrounded by crumbled ruins.
 
@@ -1726,9 +1726,9 @@ The symbol carved into the ceiling is one of the four elemental symbols (see cha
 
 If the players want to know what the symbol in each room looks like, sketch out the symbols as they appear on the corners of the Halls of the Hunting Axe map.
 
-No matter how hard the characters push, the flywheel doesn't move. Close inspection accompanied by a successful DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check reveals a disengaged sprocket that can be slid along an axle to engage a different part of the machinery. If the sprocket is set in place, the flywheel does move when a character pushes it, and the characters can hear the sound of grinding stone echoing off in the distance. If the characters move the flywheel and then let go, it reverses and spins back to its original position when it is released. There is no apparent way to stop this motion with raw strength; characters who push against the reversal don't even slow it down.
+No matter how hard the characters push, the flywheel doesn't move. Close inspection accompanied by a successful DC 10 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check reveals a disengaged sprocket that can be slid along an axle to engage a different part of the machinery. If the sprocket is set in place, the flywheel does move when a character pushes it, and the characters can hear the sound of grinding stone echoing off in the distance. If the characters move the flywheel and then let go, it reverses and spins back to its original position when it is released. There is no apparent way to stop this motion with raw strength; characters who push against the reversal don't even slow it down.
 
-While brute force won't work, mechanical ingenuity will. A successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check reveals a small hole on the rim of the flywheel into which a typical weapon hilt or bundle of arrows will fit. If something at least six inches long extends from the flywheel at that point, the flywheel can't reverse.
+While brute force won't work, mechanical ingenuity will. A successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check reveals a small hole on the rim of the flywheel into which a typical weapon hilt or bundle of arrows will fit. If something at least six inches long extends from the flywheel at that point, the flywheel can't reverse.
 
 Along the edge, the flywheel has faint etchings of the elemental symbols of air, earth, fire, and water. If the characters turn the flywheel so that its symbol lines up with a matching symbol on the ceiling, then lock the flywheel into place using the hole on the flywheel's rim, one of the four locks on the secret door in area X9 opens. Once all four flywheels are properly aligned, the secret door in area X9 becomes unlocked.
 
@@ -1743,7 +1743,7 @@ The doppelganger impersonating Gargosh can't figure any of this out on his own, 
 
 The Besilmer dwarves once had extensive waterworks, though little of it remains.
 
-South of the cistern are some old ruins perched on the edge of the bluff. Hidden in these ruins are three good-aligned agents of the Harpers—a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named Ariana Riverlost (female moon elf) and two half-moon elf [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) named Elifar (male) and Lorendil (female). They've heard rumblings of a dwarven plot to loot the tomb of King Torhild Flametongue. They emerge from their hiding spot and confront characters who emerge from the crypts with [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md) (see "Aftermath").
+South of the cistern are some old ruins perched on the edge of the bluff. Hidden in these ruins are three good-aligned agents of the Harpers—a [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named Ariana Riverlost (female moon elf) and two half-moon elf [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) named Elifar (male) and Lorendil (female). They've heard rumblings of a dwarven plot to loot the tomb of King Torhild Flametongue. They emerge from their hiding spot and confront characters who emerge from the crypts with [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) (see "Aftermath").
 
 ### X6. Amphitheater
 
@@ -1752,7 +1752,7 @@ South of the cistern are some old ruins perched on the edge of the bluff. Hidden
 > A large, semicircular amphitheater built into the side of the bluff takes advantage of the natural rise and the acoustics. It is still structurally sound, though a few weeds, shrubs, and small trees grow up in cracks between the stones.
 ^700
 
-[Drannin Splithelm](/3-Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md) (see "Other Villains" in chapter 7), his [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md), and three dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) armed with battleaxes instead of longswords hide here. They keep a watchful eye on the entrance to the crypts (area X7). Unless they are confronted and defeated here, Drannin and his retinue follow the characters into the crypts (see area X10).
+[Drannin Splithelm](/03_Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md) (see "Other Villains" in chapter 7), his [shield guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md), and three dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) armed with battleaxes instead of longswords hide here. They keep a watchful eye on the entrance to the crypts (area X7). Unless they are confronted and defeated here, Drannin and his retinue follow the characters into the crypts (see area X10).
 
 ### X7. Entrance to the Crypts
 
@@ -1785,13 +1785,13 @@ This particular crypt looks unremarkable among the others, but it reveals a secr
 > The effigy on this tomb depicts a dwarven king in full regalia clutching a stone scepter with one hand and pointing toward the floor with the other.
 ^706
 
-Close inspection of the effigy reveals that there are no seams to indicate that a crypt lies behind it. In fact, there is none. A successful DC 10 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check also reveals that the scepter is a separate piece of stonework that can be easily removed from the dwarf king's grip. The scepter is 2 feet long with a handle 2 inches thick; it weighs 25 pounds.
+Close inspection of the effigy reveals that there are no seams to indicate that a crypt lies behind it. In fact, there is none. A successful DC 10 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check also reveals that the scepter is a separate piece of stonework that can be easily removed from the dwarf king's grip. The scepter is 2 feet long with a handle 2 inches thick; it weighs 25 pounds.
 
-Inspection of the floor reveals that the 20-foot-square section in front of the crypt is different from the smooth stone found elsewhere in the hall. It consists of ten 20-foot-long, 1-foot-wide stone slabs neatly fitted together. Drilled next to the southernmost slab is a 2-inch wide, 6-inch deep hole, which can be found with a DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+Inspection of the floor reveals that the 20-foot-square section in front of the crypt is different from the smooth stone found elsewhere in the hall. It consists of ten 20-foot-long, 1-foot-wide stone slabs neatly fitted together. Drilled next to the southernmost slab is a 2-inch wide, 6-inch deep hole, which can be found with a DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
 The stone slabs are actually the topmost steps of a secret staircase that descends to area X10. Four locks hidden under the floor prevent the slabs from lowering. However, if the flywheels in area X4 are properly lined up, these locks are now open. Once the locks are open, inserting the stone scepter or a similarly sized "key" into the hole causes the stone slabs to sink, forming the steps of the hidden staircase. The staircase remains open as long as the key (the scepter or some other object) remains in place.
 
-"Gargosh" might be helpful at noticing the hidden staircase and the hole cut into the floor, but he's not much help when it comes to figuring out how to lower the stairs. If the characters have not yet turned the flywheels in area X4, Gargosh suggests that they look elsewhere for the symbols needed to open the way. Characters can also "cheat" by casting four [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spells on the secret staircase.
+"Gargosh" might be helpful at noticing the hidden staircase and the hole cut into the floor, but he's not much help when it comes to figuring out how to lower the stairs. If the characters have not yet turned the flywheels in area X4, Gargosh suggests that they look elsewhere for the symbols needed to open the way. Characters can also "cheat" by casting four [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spells on the secret staircase.
 
 If Gargosh is present when the characters open the secret staircase, read the following:
 
@@ -1822,11 +1822,11 @@ Any character who reads Dwarvish can translate the Dethek runes on the wall:
 > Defending it with his dying breath.
 ^70a
 
-The dwarf statues are two [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). The moment anyone attempts to open the sarcophagus, the golems animate and attack, returning to their alcoves once all intruders retreat up the stairs. If he is still with the characters, "Gargosh" flees up the stairs to escape the golems' wrath, and to reunite with Drannin (see "Development" below).
+The dwarf statues are two [stone golems](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md). The moment anyone attempts to open the sarcophagus, the golems animate and attack, returning to their alcoves once all intruders retreat up the stairs. If he is still with the characters, "Gargosh" flees up the stairs to escape the golems' wrath, and to reunite with Drannin (see "Development" below).
 
 #### Torhild's Dying Breath
 
-Opening the sarcophagus releases a cloud of poisonous gas that fills the room. Any creature in the chamber must make a DC 15 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one. A creature that fails the saving throw is also [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute.
+Opening the sarcophagus releases a cloud of poisonous gas that fills the room. Any creature in the chamber must make a DC 15 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one. A creature that fails the saving throw is also [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) for 1 minute.
 
 The sarcophagus is empty.
 
@@ -1836,26 +1836,26 @@ The stone lever protruding from the wall can be used to raise or lower the stair
 
 #### Secret Door
 
-A secret door in the southwest corner swings open to reveal a dusty, 10-foot-high, 10-foot-wide stone tunnel leading to area X11. Characters searching the walls for secret doors find the well-hidden door with a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+A secret door in the southwest corner swings open to reveal a dusty, 10-foot-high, 10-foot-wide stone tunnel leading to area X11. Characters searching the walls for secret doors find the well-hidden door with a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
 #### Development
 
-Once the characters defeat the golems, [Drannin Splithelm](/3-Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md) (see "Other Villains" in chapter 7) arrives with his [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) and his retinue—three dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) armed with battleaxes instead of longswords. If the [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) posing as Gargosh yet lives, it tries to reunite with its true companions. Drannin's crew isn't stealthy, so the characters can hear the dwarves and shield guardian approaching.
+Once the characters defeat the golems, [Drannin Splithelm](/03_Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md) (see "Other Villains" in chapter 7) arrives with his [shield guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) and his retinue—three dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) armed with battleaxes instead of longswords. If the [doppelganger](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) posing as Gargosh yet lives, it tries to reunite with its true companions. Drannin's crew isn't stealthy, so the characters can hear the dwarves and shield guardian approaching.
 
 Once Drannin and his retinue come into view, read the following aloud:
 
 > [!readaloud] 
 > 
-> A wall of dwarves wearing splint armor and brandishing axes marches into view. Behind them, a handsome dwarf encased in plate armor claps while standing in the shadow of a 9-foot-tall construct. "Well done, my friends," says the clapping dwarf. "Well done. You found ol' Flametongue's tomb. I had my doubts. I can't wait to see the expression on poor Gargosh's face when he discovers that I, [Drannin Splithelm](/3-Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md), retrieved [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md), not him!" The dwarf is beaming, but his smile fades quickly. "So, I guess this is farewell."
+> A wall of dwarves wearing splint armor and brandishing axes marches into view. Behind them, a handsome dwarf encased in plate armor claps while standing in the shadow of a 9-foot-tall construct. "Well done, my friends," says the clapping dwarf. "Well done. You found ol' Flametongue's tomb. I had my doubts. I can't wait to see the expression on poor Gargosh's face when he discovers that I, [Drannin Splithelm](/03_Mechanics/CLI/bestiary/npc/drannin-splithelm-pota.md), retrieved [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md), not him!" The dwarf is beaming, but his smile fades quickly. "So, I guess this is farewell."
 ^710
 
-Drannin imbibes a [potion of frost giant strength](/3-Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md) prior to confronting the characters and is spoiling for a fight. He couldn't be bothered to read Gargosh's diary in detail, so he has no idea that this tomb is false, or that the sarcophagus might be trapped. If the characters allow Drannin to plunder the tomb, he triggers the gas trap (if it hasn't already been triggered) and is furious to find the sarcophagus empty.
+Drannin imbibes a [potion of frost giant strength](/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md) prior to confronting the characters and is spoiling for a fight. He couldn't be bothered to read Gargosh's diary in detail, so he has no idea that this tomb is false, or that the sarcophagus might be trapped. If the characters allow Drannin to plunder the tomb, he triggers the gas trap (if it hasn't already been triggered) and is furious to find the sarcophagus empty.
 
 Drannin and his cohorts don't fight to the death. If a battle erupts and things aren't going well, they retreat and leave the shield guardian to cover their escape. If he is cornered with no one left to protect him, Drannin surrenders.
 
 #### Treasure
 
-Drannin wears the control amulet keyed to the shield guardian, as well as a [ring of cold resistance](/3-Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md). He also carries Gargosh's diary which, among other things, contains a note about a false tomb with a secret door.
+Drannin wears the control amulet keyed to the shield guardian, as well as a [ring of cold resistance](/03_Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md). He also carries Gargosh's diary which, among other things, contains a note about a false tomb with a secret door.
 
 ### X11. The True Tomb of King Torhild Flametongue
 
@@ -1878,12 +1878,12 @@ The dias is a heavy stone lid covering the king's tomb. Lifting and moving the d
 
 #### Treasure
 
-Within the stone coffin lie the remains of the dwarf king, his skeletal hands clutching his axe, [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md), to his breast. [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md) is described in chapter 7. The king's bones lie atop a bed of 500 gold ingots stamped with the king's face on one side and the rising sun on the other. Tiny runes on each ingot testify to the greatness and longevity of the ancient kingdom of Besilmer. The gold ingots are worth 10 gp each.
+Within the stone coffin lie the remains of the dwarf king, his skeletal hands clutching his axe, [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md), to his breast. [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) is described in chapter 7. The king's bones lie atop a bed of 500 gold ingots stamped with the king's face on one side and the rising sun on the other. Tiny runes on each ingot testify to the greatness and longevity of the ancient kingdom of Besilmer. The gold ingots are worth 10 gp each.
 
 ### Aftermath
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/098-poa06-21.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/098-poa06-21.webp#center)
 
 Captured members of Drannin's crew can divulge the location of the real Gargosh. He is imprisoned in a small cave on the riverbank near Yartar, locked in a large trunk with air holes and water. Gargosh can survive for four more days inside the trunk.
 
-If the characters emerge from the dwarven crypts with [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md) in their custody, the Harpers hiding in area X5 confront them under the open sky. They point out that [Orcsplitter](/3-Mechanics/CLI/items/orcsplitter-pota.md) belongs in the hands of dwarven scholars. They'll first appeal to the characters' sense of altruism, but if that doesn't work, the Harpers try to arrange an exchange of magic items. This is an opportunity for your players to ask for something—a specific weapon or two, perhaps—that suits their particular characters. If an agreement is reached, Ariana Riverlost promises to meet the characters again in two weeks, at a location chosen by them, with the agreed-upon payment.
+If the characters emerge from the dwarven crypts with [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) in their custody, the Harpers hiding in area X5 confront them under the open sky. They point out that [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) belongs in the hands of dwarven scholars. They'll first appeal to the characters' sense of altruism, but if that doesn't work, the Harpers try to arrange an exchange of magic items. This is an opportunity for your players to ask for something—a specific weapon or two, perhaps—that suits their particular characters. If an agreement is reached, Ariana Riverlost promises to meet the characters again in two weeks, at a location chosen by them, with the agreed-upon payment.

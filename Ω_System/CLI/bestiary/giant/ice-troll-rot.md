@@ -34,14 +34,14 @@ aliases:
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "The troll has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The troll has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
@@ -60,6 +60,6 @@ aliases:
     "name": "Claw"
 "source":
   - "RoT"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ice-troll-rot.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/ice-troll-rot.webp"
 ```
 ^statblock

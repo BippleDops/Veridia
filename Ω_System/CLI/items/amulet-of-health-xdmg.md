@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Amulet of Health
 *Wondrous item, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/amulet-of-health.webp#right)
+![](/03_Mechanics/CLI/items/img/amulet-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

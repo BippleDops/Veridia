@@ -40,7 +40,7 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
-| 4 | [Falling](/3-Mechanics/CLI/traps-hazards/falling-xphb.md), drowning, or suffocating. |
+| 4 | [Falling](/03_Mechanics/CLI/traps-hazards/falling-xphb.md), drowning, or suffocating. |
 | 5 | A ruinous public embarrassment. |
 | 6 | A shadowy intruder or monstrous silhouette. |
 | 7 | A traumatic past event. |
@@ -65,23 +65,23 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+9"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
     "desc": "+9"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold, fire, poison, psychic"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal; telepathy 60 ft."
 "cr": "4"
 "traits":
-  - "desc": "When the incubus finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
-      \ it can shape-shift into a [Succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md),\
+  - "desc": "When the incubus finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ it can shape-shift into a [Succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md),\
       \ using that stat block instead of this one. Any equipment it's wearing or carrying\
       \ isn't transformed."
     "name": "Succubus Form"
@@ -94,21 +94,21 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
     "name": "Restless Touch"
   - "desc": "The incubus casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-      \ [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md)\n\n1/day each:\
-      \ [Dream](/3-Mechanics/CLI/spells/dream-xphb.md), [Hypnotic Pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
+      \nAt will: [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [Etherealness](/03_Mechanics/CLI/spells/etherealness-xphb.md)\n\n1/day each:\
+      \ [Dream](/03_Mechanics/CLI/spells/dream-xphb.md), [Hypnotic Pattern](/03_Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC 15, one creature the incubus can see within\
-      \ 60 feet. Failure: If the target has 20 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ or fewer, it has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ 60 feet. Failure: If the target has 20 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ or fewer, it has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
       \ condition for 1 hour, until it takes damage, or until a creature within 5\
       \ feet of it takes an action to wake it. Otherwise, the target takes 18 (4d8)\
       \ Psychic damage."
     "name": "Nightmare (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/incubus-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/incubus-xmm.webp"
 ```
 ^statblock
 

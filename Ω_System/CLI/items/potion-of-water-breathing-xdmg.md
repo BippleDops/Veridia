@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Potion of Water Breathing
 *Potion, uncommon*  
-![](/3-Mechanics/CLI/items/img/potion-of-water-breathing.webp#right)
+![](/03_Mechanics/CLI/items/img/potion-of-water-breathing.webp#right)
 
 - **Weight**: 0.5 lbs.
 

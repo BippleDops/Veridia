@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Chain Mail
 *Heavy armor*  
-![](/3-Mechanics/CLI/items/img/chain-mail.webp#right)
+![](/03_Mechanics/CLI/items/img/chain-mail.webp#right)
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

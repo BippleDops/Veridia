@@ -43,7 +43,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "speed": "60 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "7"
@@ -60,7 +60,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 16 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ it must succeed on a DC 16 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Hooves"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16\
       \ (2d10 + 5) slashing damage."
@@ -73,7 +73,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/armanite-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/armanite-mpmm.webp"
 ```
 ^statblock
 

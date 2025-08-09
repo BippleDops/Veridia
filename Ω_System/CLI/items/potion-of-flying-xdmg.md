@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
+When you drink this potion, you gain a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) for 1 hour and can hover. If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.
 
 This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.
 

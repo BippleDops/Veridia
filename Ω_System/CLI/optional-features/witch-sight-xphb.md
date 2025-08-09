@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 15 Warlock
 
-You have [Truesight](/3-Mechanics/CLI/senses.md#Truesight) with a range of 30 feet.
+You have [Truesight](/03_Mechanics/CLI/senses.md#Truesight) with a range of 30 feet.

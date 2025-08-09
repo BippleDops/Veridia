@@ -20,7 +20,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Vulture (XMM)"
@@ -40,26 +40,26 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The vulture has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The vulture has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the vulture's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage,\
-      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition until the end of its next turn."
     "name": "Gouge"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/giant-vulture-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/giant-vulture-xmm.webp"
 ```
 ^statblock
 

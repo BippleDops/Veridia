@@ -20,11 +20,11 @@ This chapter provides the rules you need for your characters and monsters to eng
 
 The Dungeon Master controls all the monsters and nonplayer characters involved in combat, and each other player controls an adventurer. "You" can also mean the character or monster that you control.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/ch9.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch9.webp#center)
 
 > [!note] Combat Step by Step
 > 
-> - **1. Determine surprise.** The DM determines whether anyone involved in the combat encounter is [surprised](/3-Mechanics/CLI/conditions.md#Surprised).  
+> - **1. Determine surprise.** The DM determines whether anyone involved in the combat encounter is [surprised](/03_Mechanics/CLI/conditions.md#Surprised).  
 > 
 > - **2. Establish positions.** The DM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.  
 > 
@@ -43,9 +43,9 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
 
-The DM determines who might be [surprised](/3-Mechanics/CLI/conditions.md#Surprised). If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks of anyone hiding with the passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [surprised](/3-Mechanics/CLI/conditions.md#Surprised) at the start of the encounter.
+The DM determines who might be [surprised](/03_Mechanics/CLI/conditions.md#Surprised). If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks of anyone hiding with the passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [surprised](/03_Mechanics/CLI/conditions.md#Surprised) at the start of the encounter.
 
-If you're [surprised](/3-Mechanics/CLI/conditions.md#Surprised), you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [surprised](/3-Mechanics/CLI/conditions.md#Surprised) even if the other members aren't.
+If you're [surprised](/03_Mechanics/CLI/conditions.md#Surprised), you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [surprised](/03_Mechanics/CLI/conditions.md#Surprised) even if the other members aren't.
 
 ### Initiative
 
@@ -63,7 +63,7 @@ The most common actions you can take are described in the "Actions in Combat" se
 
 The "Movement and Position" section later in this chapter gives the rules for your move.
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the [Dodge](/3-Mechanics/CLI/actions.md#Dodge) or [Ready](/3-Mechanics/CLI/actions.md#Ready) action, as described in "Actions in Combat."
+You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the [Dodge](/03_Mechanics/CLI/actions.md#Dodge) or [Ready](/03_Mechanics/CLI/actions.md#Ready) action, as described in "Actions in Combat."
 
 #### Bonus Actions
 
@@ -140,7 +140,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [fly](/3-Mechanics/CLI/spells/fly-xphb.md) spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [fly](/03_Mechanics/CLI/spells/fly-xphb.md) spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ### Difficult Terrain
 
@@ -154,11 +154,11 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 ### Being Prone
 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [prone](/3-Mechanics/CLI/conditions.md#Prone), a condition described in the appendix.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [prone](/03_Mechanics/CLI/conditions.md#Prone), a condition described in the appendix.
 
-You can drop [prone](/3-Mechanics/CLI/conditions.md#Prone) without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
+You can drop [prone](/03_Mechanics/CLI/conditions.md#Prone) without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
-To move while [prone](/3-Mechanics/CLI/conditions.md#Prone), you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
+To move while [prone](/03_Mechanics/CLI/conditions.md#Prone), you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 ### Moving around Other Creatures
 
@@ -170,9 +170,9 @@ If you leave a hostile creature's reach during your move, you provoke an opportu
 
 ### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone), has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [fly](/3-Mechanics/CLI/spells/fly-xphb.md) spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone), has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [fly](/03_Mechanics/CLI/spells/fly-xphb.md) spell.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c91.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/c91.webp#center)
 
 ### Creature Size
 
@@ -180,7 +180,7 @@ Each creature takes up a different amount of space.
 
 The Size Categories table shows how much space a creature of a particular size controls in combat. Objects sometimes use the same size categories.
 
-![Creature Size; Size Categories](/3-Mechanics/CLI/tables/creature-size-size-categories-phb.md)
+![Creature Size; Size Categories](/03_Mechanics/CLI/tables/creature-size-size-categories-phb.md)
 
 #### Space
 
@@ -221,17 +221,17 @@ When you take your action on your turn, you can take one of the actions presente
 
 When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-- [Attack](/3-Mechanics/CLI/actions.md#Attack)  
-- [Cast a Spell](/3-Mechanics/CLI/actions.md#Magic)  
-- [Dash](/3-Mechanics/CLI/actions.md#Dash)  
-- [Disengage](/3-Mechanics/CLI/actions.md#Disengage)  
-- [Dodge](/3-Mechanics/CLI/actions.md#Dodge)  
-- [Help](/3-Mechanics/CLI/actions.md#Help)  
-- [Hide](/3-Mechanics/CLI/actions.md#Hide)  
-- [Ready](/3-Mechanics/CLI/actions.md#Ready)  
-- [Search](/3-Mechanics/CLI/actions.md#Search)  
-- [Use an Object](/3-Mechanics/CLI/actions.md#Utilize)  
-- [Improvising an Action](/3-Mechanics/CLI/actions.md#Improvising%20an%20Action)  
+- [Attack](/03_Mechanics/CLI/actions.md#Attack)  
+- [Cast a Spell](/03_Mechanics/CLI/actions.md#Magic)  
+- [Dash](/03_Mechanics/CLI/actions.md#Dash)  
+- [Disengage](/03_Mechanics/CLI/actions.md#Disengage)  
+- [Dodge](/03_Mechanics/CLI/actions.md#Dodge)  
+- [Help](/03_Mechanics/CLI/actions.md#Help)  
+- [Hide](/03_Mechanics/CLI/actions.md#Hide)  
+- [Ready](/03_Mechanics/CLI/actions.md#Ready)  
+- [Search](/03_Mechanics/CLI/actions.md#Search)  
+- [Use an Object](/03_Mechanics/CLI/actions.md#Utilize)  
+- [Improvising an Action](/03_Mechanics/CLI/actions.md#Improvising%20an%20Action)  
 
 ## Making an Attack
 
@@ -243,7 +243,7 @@ Whether you're striking with a melee weapon, firing a weapon at range, or making
 
 If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c92.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/c92.webp#center)
 
 ### Attack Rolls
 
@@ -273,7 +273,7 @@ If the `d20` roll for an attack is a 1, the attack misses regardless of any modi
 
 ### Unseen Attackers and Targets
 
-Combatants often try to escape their foes' notice by hiding, casting the [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) spell, or lurking in darkness.
+Combatants often try to escape their foes' notice by hiding, casting the [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) spell, or lurking in darkness.
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the DM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
@@ -281,7 +281,7 @@ When a creature can't see you, you have advantage on attack rolls against it.
 
 If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c93.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/c93.webp#center)
 
 ### Ranged Attacks
 
@@ -297,7 +297,7 @@ Some ranged attacks, such as those made with a longbow or a shortbow, have two r
 
 #### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Melee Attacks
 
@@ -313,11 +313,11 @@ In a fight, everyone is constantly watching for enemies to drop their guard. You
 
 You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.
 
-You can avoid provoking an opportunity attack by taking the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
+You can avoid provoking an opportunity attack by taking the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
 
 ### Two-Weapon Fighting
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
+When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
 
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
@@ -328,23 +328,23 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 
 ### Grappling
 
-When you want to grab a creature or wrestle with it, you can use the [Attack](/3-Mechanics/CLI/actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
+When you want to grab a creature or wrestle with it, you can use the [Attack](/03_Mechanics/CLI/actions.md#Attack) action to make a special melee attack, a grapple. If you're able to make multiple attacks with the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, this attack replaces one of them. The target of your grapple must be no more than one size larger than you, and it must be within your reach.
 
-Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you subject the target to the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+Using at least one free hand, you try to seize the target by making a grapple check, a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you subject the target to the [grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (see the appendix). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 #### Escaping a Grapple
 
-A [grappled](/3-Mechanics/CLI/conditions.md#Grappled) creature can use its action to escape. To do so, it must succeed on a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check contested by your Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
+A [grappled](/03_Mechanics/CLI/conditions.md#Grappled) creature can use its action to escape. To do so, it must succeed on a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check contested by your Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
 
 #### Moving a Grappled Target
 
-When you move, you can drag or carry the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+When you move, you can drag or carry the [grappled](/03_Mechanics/CLI/conditions.md#Grappled) creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
 ### Shoving a Creature
 
-Using the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, you can make a special melee attack to shove a creature, either to knock it [prone](/3-Mechanics/CLI/conditions.md#Prone) or push it away from you. If you're able to make multiple attacks with the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, this attack replaces one of them.
+Using the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, you can make a special melee attack to shove a creature, either to knock it [prone](/03_Mechanics/CLI/conditions.md#Prone) or push it away from you. If you're able to make multiple attacks with the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, this attack replaces one of them.
 
-The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you either knock the target [prone](/3-Mechanics/CLI/conditions.md#Prone) or push it 5 feet away from you.
+The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check contested by the target's Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check (the target chooses the ability to use). You succeed automatically if the target is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). If you succeed, you either knock the target [prone](/03_Mechanics/CLI/conditions.md#Prone) or push it 5 feet away from you.
 
 ## Cover
 
@@ -452,7 +452,7 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 > [!note] Describing the Effects of Damage
 > 
-> Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious).
+> Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious).
 ^describing-the-effects-of-damage
 
 ### Healing
@@ -465,7 +465,7 @@ A creature that has died can't regain hit points until magic such as the revivif
 
 ### Dropping to 0 Hit Points
 
-When you drop to 0 hit points, you either die outright or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious), as explained in the following sections.
+When you drop to 0 hit points, you either die outright or fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious), as explained in the following sections.
 
 #### Instant Death
 
@@ -475,7 +475,7 @@ For example, a cleric with a maximum of 12 hit points currently has 6 hit points
 
 #### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) (see the appendix). This unconsciousness ends if you regain any hit points.
+If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) (see the appendix). This unconsciousness ends if you regain any hit points.
 
 #### Death Saving Throws
 
@@ -495,21 +495,21 @@ If you take any damage while you have 0 hit points, you suffer a death saving th
 
 The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
 
-You can use your action to administer first aid to an [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check.
+You can use your action to administer first aid to an [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) creature and attempt to stabilize it, which requires a successful DC 10 Wisdom ([Medicine](/03_Mechanics/CLI/skills.md#Medicine)) check.
 
-A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `d4` hours.
+A stable creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious). The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after `d4` hours.
 
-![](/3-Mechanics/CLI/books/players-handbook-2014/img/c94.webp#center)
+![](/03_Mechanics/CLI/books/players-handbook-2014/img/c94.webp#center)
 
 #### Monsters and Death
 
-Most DMs have a monster die the instant it drops to 0 hit points, rather than having it fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) and make death saving throws.
+Most DMs have a monster die the instant it drops to 0 hit points, rather than having it fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) and make death saving throws.
 
-Mighty villains and special nonplayer characters are common exceptions; the DM might have them fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) and follow the same rules as player characters.
+Mighty villains and special nonplayer characters are common exceptions; the DM might have them fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) and follow the same rules as player characters.
 
 ### Knocking a Creature Out
 
-Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) and is stable.
+Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) and is stable.
 
 ### Temporary Hit Points
 
@@ -537,9 +537,9 @@ A willing creature that is at least one size larger than you and that has an app
 
 Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing [prone](/3-Mechanics/CLI/conditions.md#Prone) in a space within 5 feet of it. If you're knocked [prone](/3-Mechanics/CLI/conditions.md#Prone) while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing [prone](/03_Mechanics/CLI/conditions.md#Prone) in a space within 5 feet of it. If you're knocked [prone](/03_Mechanics/CLI/conditions.md#Prone) while mounted, you must make the same saving throw.
 
-If your mount is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone), you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall [prone](/3-Mechanics/CLI/conditions.md#Prone) in a space within 5 feet it.
+If your mount is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone), you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall [prone](/03_Mechanics/CLI/conditions.md#Prone) in a space within 5 feet it.
 
 ### Controlling a Mount
 
@@ -547,7 +547,7 @@ While you're mounted, you have two options. You can either control the mount or 
 
 You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training.
 
-The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: [Dash](/3-Mechanics/CLI/actions.md#Dash), [Disengage](/3-Mechanics/CLI/actions.md#Disengage), and [Dodge](/3-Mechanics/CLI/actions.md#Dodge). A controlled mount can move and act even on the turn that you mount it.
+The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: [Dash](/03_Mechanics/CLI/actions.md#Dash), [Disengage](/03_Mechanics/CLI/actions.md#Disengage), and [Dodge](/03_Mechanics/CLI/actions.md#Dodge). A controlled mount can move and act even on the turn that you mount it.
 
 An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
 

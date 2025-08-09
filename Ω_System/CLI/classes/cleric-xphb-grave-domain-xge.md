@@ -54,24 +54,24 @@ modified: 2025-07-23 12:39
 
 ### Grave Domain (Level 3)
 
-Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [the Undying Court](/3-Mechanics/CLI/deities/eberron-the-undying-court.md), [Hades](/3-Mechanics/CLI/deities/greek-hades.md), [Anubis](/3-Mechanics/CLI/deities/egyptian-anubis.md), and [Osiris](/3-Mechanics/CLI/deities/egyptian-osiris.md). Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
+Gods of the grave watch over the line between life and death. To these deities, death and the afterlife are a foundational part of the multiverse. To desecrate the peace of the dead is an abomination. Deities of the grave include Kelemvor, Wee Jas, the ancestral spirits of [the Undying Court](/03_Mechanics/CLI/deities/eberron-the-undying-court.md), [Hades](/03_Mechanics/CLI/deities/greek-hades.md), [Anubis](/03_Mechanics/CLI/deities/egyptian-anubis.md), and [Osiris](/03_Mechanics/CLI/deities/egyptian-osiris.md). Followers of these deities seek to put wandering spirits to rest, destroy the undead, and ease the suffering of the dying. Their magic also allows them to stave off death for a time, particularly for a person who still has some great work to accomplish in the world. This is a delay of death, not a denial of it, for death will eventually get its due.
 
 **Grave Domain Spells**
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [false life](/3-Mechanics/CLI/spells/false-life-xphb.md) |
-| 3rd | [gentle repose](/3-Mechanics/CLI/spells/gentle-repose-xphb.md), [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
-| 5th | [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md), [vampiric touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md) |
-| 7th | [blight](/3-Mechanics/CLI/spells/blight-xphb.md), [death ward](/3-Mechanics/CLI/spells/death-ward-xphb.md) |
-| 9th | [antilife shell](/3-Mechanics/CLI/spells/antilife-shell-xphb.md), [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md) |
+| 1st | [bane](/03_Mechanics/CLI/spells/bane-xphb.md), [false life](/03_Mechanics/CLI/spells/false-life-xphb.md) |
+| 3rd | [gentle repose](/03_Mechanics/CLI/spells/gentle-repose-xphb.md), [ray of enfeeblement](/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
+| 5th | [revivify](/03_Mechanics/CLI/spells/revivify-xphb.md), [vampiric touch](/03_Mechanics/CLI/spells/vampiric-touch-xphb.md) |
+| 7th | [blight](/03_Mechanics/CLI/spells/blight-xphb.md), [death ward](/03_Mechanics/CLI/spells/death-ward-xphb.md) |
+| 9th | [antilife shell](/03_Mechanics/CLI/spells/antilife-shell-xphb.md), [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) |
 ^grave-domain-spells
 
 ### Circle of Mortality (Level 1)
 
 At 1st level, you gain the ability to manipulate the line between life and death. When you would normally roll one or more dice to restore hit points with a spell to a creature at 0 hit points, you instead use the highest number possible for each die.
 
-In addition, you learn the [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
+In addition, you learn the [spare the dying](/03_Mechanics/CLI/spells/spare-the-dying-xphb.md) cantrip, which doesn't count against the number of cleric cantrips you know. For you, it has a range of 30 feet, and you can cast it as a bonus action.
 
 ### Eyes of the Grave (Level 1)
 
@@ -93,4 +93,4 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Keeper of Souls (Level 17)
 
-Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). Once you use it, you can't do so again until the start of your next turn.
+Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). Once you use it, you can't do so again until the start of your next turn.

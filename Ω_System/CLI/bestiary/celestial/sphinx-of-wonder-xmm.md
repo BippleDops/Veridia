@@ -64,18 +64,18 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "11"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "necrotic, psychic, radiant"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Celestial, Common"
 "cr": "1"
 "traits":
-  - "desc": "The sphinx has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The sphinx has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -89,7 +89,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/sphinx-of-wonder-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/sphinx-of-wonder-xmm.webp"
 ```
 ^statblock
 

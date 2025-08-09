@@ -14,10 +14,10 @@ modified: 2025-07-23 12:39
 ---
 # Bowl of Commanding Water Elementals
 *Wondrous item, rare*  
-![](/3-Mechanics/CLI/items/img/bowl-of-commanding-water-elementals.webp#right)
+![](/03_Mechanics/CLI/items/img/bowl-of-commanding-water-elementals.webp#right)
 
 
-While this bowl is filled with water and you are within 5 feet of it, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to summon a [Water Elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md). The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md) count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). The bowl can't be used this way again until the next dawn.
+While this bowl is filled with water and you are within 5 feet of it, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to summon a [Water Elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md). The elemental appears in an unoccupied space as close to the bowl as possible, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) count. The elemental disappears after 1 hour, when it dies, or when you dismiss it as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). The bowl can't be used this way again until the next dawn.
 
 The bowl is about 1 foot in diameter and half as deep. It holds about 3 gallons.
 

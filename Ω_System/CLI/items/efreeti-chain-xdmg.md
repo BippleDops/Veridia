@@ -20,10 +20,10 @@ modified: 2025-07-23 12:39
 ---
 # Efreeti Chain
 *Legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
+![](/03_Mechanics/CLI/items/img/efreeti-chain.webp#right)
 
 
-While wearing this armor, you gain a +3 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md), you have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
+While wearing this armor, you gain a +3 bonus to [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md), you have [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
 
 **Variants**:
 - [Efreeti Chain Mail](#Efreeti%20Chain%20Mail)

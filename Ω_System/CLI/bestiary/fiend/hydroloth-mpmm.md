@@ -38,15 +38,15 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
   - !!int "14"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "9"
@@ -78,8 +78,8 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
       \ it can't cast spells; it can't understand language; and if its Intelligence\
       \ and Charisma scores are higher than 5, they become 5. Each time the target\
       \ finishes a long rest, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ or [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell cast\
+      \ itself on a success. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md)\
+      \ or [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell cast\
       \ on the target ends this effect early."
     "name": "Steal Memory (1/Day)"
   - "desc": "The hydroloth teleports, along with any equipment it is wearing or carrying,\
@@ -87,16 +87,16 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
     "name": "Teleport"
   - "desc": "The hydroloth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\nAt will: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\
-      \n3/day each: [control water](/3-Mechanics/CLI/spells/control-water-xphb.md),\
-      \ [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [fear](/3-Mechanics/CLI/spells/fear-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+      \ DC 16):\n\nAt will: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\
+      \n3/day each: [control water](/03_Mechanics/CLI/spells/control-water-xphb.md),\
+      \ [crown of madness](/03_Mechanics/CLI/spells/crown-of-madness-xphb.md), [fear](/03_Mechanics/CLI/spells/fear-xphb.md),\
+      \ [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/hydroloth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/hydroloth-mpmm.webp"
 ```
 ^statblock

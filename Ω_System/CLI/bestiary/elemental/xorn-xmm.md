@@ -67,13 +67,13 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -92,13 +92,13 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 8 (1d10 + 3) Slashing damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The xorn moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ or [Burrow Speed](/3-Mechanics/CLI/variant-rules/burrow-speed-xphb.md) straight\
+  - "desc": "The xorn moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ or [Burrow Speed](/03_Mechanics/CLI/variant-rules/burrow-speed-xphb.md) straight\
       \ toward an enemy it can sense."
     "name": "Charge"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
 ```
 ^statblock
 

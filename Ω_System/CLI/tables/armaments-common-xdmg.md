@@ -18,14 +18,14 @@ modified: 2025-07-23 12:39
 
 | dice: 1d100 | Item |
 |-------------|------|
-| 01–10 | [Armor of Gleaming](/3-Mechanics/CLI/items/armor-of-gleaming-xdmg.md) |
-| 11–20 | [Cast-Off Armor](/3-Mechanics/CLI/items/cast-off-armor-xdmg.md) |
-| 21–30 | [Dread Helm](/3-Mechanics/CLI/items/dread-helm-xdmg.md) |
-| 31–40 | [Moon-Touched Sword](/3-Mechanics/CLI/items/moon-touched-sword-xdmg.md) |
-| 41–50 | [Shield of Expression](/3-Mechanics/CLI/items/shield-of-expression-xdmg.md) |
-| 51–60 | [Silvered Weapon](/3-Mechanics/CLI/items/silvered-weapon-xdmg.md) |
-| 61–70 | [Smoldering Armor](/3-Mechanics/CLI/items/smoldering-armor-xdmg.md) |
-| 71–80 | [Sylvan Talon](/3-Mechanics/CLI/items/sylvan-talon-xdmg.md) |
-| 81–90 | [Veteran's Cane](/3-Mechanics/CLI/items/veterans-cane-xdmg.md) |
-| 91–00 | [Walloping Ammunition](/3-Mechanics/CLI/items/walloping-ammunition-xdmg.md) |
+| 01–10 | [Armor of Gleaming](/03_Mechanics/CLI/items/armor-of-gleaming-xdmg.md) |
+| 11–20 | [Cast-Off Armor](/03_Mechanics/CLI/items/cast-off-armor-xdmg.md) |
+| 21–30 | [Dread Helm](/03_Mechanics/CLI/items/dread-helm-xdmg.md) |
+| 31–40 | [Moon-Touched Sword](/03_Mechanics/CLI/items/moon-touched-sword-xdmg.md) |
+| 41–50 | [Shield of Expression](/03_Mechanics/CLI/items/shield-of-expression-xdmg.md) |
+| 51–60 | [Silvered Weapon](/03_Mechanics/CLI/items/silvered-weapon-xdmg.md) |
+| 61–70 | [Smoldering Armor](/03_Mechanics/CLI/items/smoldering-armor-xdmg.md) |
+| 71–80 | [Sylvan Talon](/03_Mechanics/CLI/items/sylvan-talon-xdmg.md) |
+| 81–90 | [Veteran's Cane](/03_Mechanics/CLI/items/veterans-cane-xdmg.md) |
+| 91–00 | [Walloping Ammunition](/03_Mechanics/CLI/items/walloping-ammunition-xdmg.md) |
 ^armaments-common

@@ -16,7 +16,7 @@ aliases:
 # [Rothé](3-Mechanics\CLI\bestiary\beast/rothe-vgm.md)
 *Source: Volo's Guide to Monsters p. 208*  
 
-Ordinary rothé resemble musk oxen and have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 30 feet.
+Ordinary rothé resemble musk oxen and have [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 30 feet.
 
 ```statblock
 "name": "Rothé (VGM)"
@@ -49,7 +49,7 @@ Ordinary rothé resemble musk oxen and have [darkvision](/3-Mechanics/CLI/senses
     "name": "Gore"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/rothe-vgm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/rothe-vgm.webp"
 ```
 ^statblock
 

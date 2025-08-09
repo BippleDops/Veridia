@@ -19,8 +19,8 @@ modified: 2025-07-23 12:39
 | dice: d8 | Ally |
 |----------|------|
 | 1-3 | The group has no allies |
-| 4-5 | `d4` [Zerths](/3-Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md) |
-| 6 | `d4` [githzerai enlightened](/3-Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
-| 7 | `d4` [githzerai zerths](/3-Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md), `d4` [githzerai enlightened](/3-Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
-| 8 | 1 [githzerai anarch](/3-Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm.md), `d4` [githzerai enlightened](/3-Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
+| 4-5 | `d4` [Zerths](/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md) |
+| 6 | `d4` [githzerai enlightened](/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
+| 7 | `d4` [githzerai zerths](/03_Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md), `d4` [githzerai enlightened](/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
+| 8 | 1 [githzerai anarch](/03_Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm.md), `d4` [githzerai enlightened](/03_Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md) |
 ^githzerai-special-allies

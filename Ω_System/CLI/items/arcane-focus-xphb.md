@@ -20,10 +20,10 @@ modified: 2025-07-23 12:39
 
 **Items in this group:**
 
-- [Crystal](/3-Mechanics/CLI/items/crystal-xphb.md)
-- [Orb](/3-Mechanics/CLI/items/orb-xphb.md)
-- [Rod](/3-Mechanics/CLI/items/rod-xphb.md)
-- [Staff](/3-Mechanics/CLI/items/staff-xphb.md)
-- [Wand](/3-Mechanics/CLI/items/wand-xphb.md)
+- [Crystal](/03_Mechanics/CLI/items/crystal-xphb.md)
+- [Orb](/03_Mechanics/CLI/items/orb-xphb.md)
+- [Rod](/03_Mechanics/CLI/items/rod-xphb.md)
+- [Staff](/03_Mechanics/CLI/items/staff-xphb.md)
+- [Wand](/03_Mechanics/CLI/items/wand-xphb.md)
 
 *Source: Player's Handbook (2024) p. 224*

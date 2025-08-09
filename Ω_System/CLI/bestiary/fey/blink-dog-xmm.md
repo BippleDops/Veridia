@@ -45,9 +45,9 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Elvish and Sylvan but can't speak them"
@@ -60,7 +60,7 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
     "name": "Teleport (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/blink-dog-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/blink-dog-xmm.webp"
 ```
 ^statblock
 

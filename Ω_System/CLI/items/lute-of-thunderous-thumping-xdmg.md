@@ -15,17 +15,17 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Lute of Thunderous Thumping
-*Weapon ([club](/3-Mechanics/CLI/items/club-xphb.md)), very rare*  
+*Weapon ([club](/03_Mechanics/CLI/items/club-xphb.md)), very rare*  
 
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-This reinforced [lute](/3-Mechanics/CLI/items/lute-xphb.md) can be wielded as a magic Club that deals an extra `2d8` Thunder damage on a hit.
+This reinforced [lute](/03_Mechanics/CLI/items/lute-xphb.md) can be wielded as a magic Club that deals an extra `2d8` Thunder damage on a hit.
 
 ## Sing and Swing
 
-If you're a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the [lute](/3-Mechanics/CLI/items/lute-xphb.md), provided you sing or hum while making the attack.
+If you're a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the [lute](/03_Mechanics/CLI/items/lute-xphb.md), provided you sing or hum while making the attack.
 
 *Source: Dungeon Master's Guide (2024) p. 275*

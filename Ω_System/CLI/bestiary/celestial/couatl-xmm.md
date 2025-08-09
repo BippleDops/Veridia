@@ -63,34 +63,34 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
     "name": "Shielded Mind"
 "actions":
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 11 (1d12 + 5) Piercing damage,\
-      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition until the end of the couatl's next turn."
     "name": "Bite"
   - "desc": "Strength Saving Throw: DC 15, one Medium or smaller creature the couatl\
       \ can see within 5 feet. Failure: 8 (1d6 + 5) Bludgeoning damage. The target\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 13), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 13), and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition until the grapple ends."
     "name": "Constrict"
   - "desc": "The couatl casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\nAt will:\
-      \ [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-      \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
-      \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell)\n\n1/day each: [Create Food and Water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md),\
-      \ [Dream](/3-Mechanics/CLI/spells/dream-xphb.md), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+      \ [Detect Evil and Good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Shapechange](/03_Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
+      \ form only, no [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ gained from the spell, and no Concentration or [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ required to maintain the spell)\n\n1/day each: [Create Food and Water](/03_Mechanics/CLI/spells/create-food-and-water-xphb.md),\
+      \ [Dream](/03_Mechanics/CLI/spells/dream-xphb.md), [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md), [Sleep](/03_Mechanics/CLI/spells/sleep-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The couatl casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Lesser\
-      \ Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+  - "desc": "The couatl casts [Bless](/03_Mechanics/CLI/spells/bless-xphb.md), [Lesser\
+      \ Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md), or [Sanctuary](/03_Mechanics/CLI/spells/sanctuary-xphb.md),\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/couatl-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/couatl-xmm.webp"
 ```
 ^statblock
 

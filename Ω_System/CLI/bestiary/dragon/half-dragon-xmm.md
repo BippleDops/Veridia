@@ -53,11 +53,11 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "Damage type chosen for the Draconic Origin trait below"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 15"
@@ -74,7 +74,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "desc": "Melee Attack Roll: +7, reach 10 ft. Hit: 6 (1d4 + 4) Slashing damage\
       \ plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
     "name": "Claw"
-  - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Dexterity Saving Throw: DC 14, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: 28 (8d6) damage of the type chosen for the Draconic Origin trait.\
       \ Success: Half damage."
     "name": "Dragon's Breath (Recharge 5-6)"
@@ -83,7 +83,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
 ```
 ^statblock
 

@@ -52,7 +52,7 @@ Mysterious rites and mighty faith can tie spirits to their corpses, binding them
 
 Mummies pursue those who offend them, typically mortals who desecrate their resting places, steal their burial treasures, or defile sites tied to their faith. With undying rage, these ancient corpses go to extreme lengths to avenge themselves and restore what they need to find peace.
 
-A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
+A mummy might look frail, but its body possesses supernatural strength, and its gaze can strike fear in the bravest hearts. Those who escape a mummy's grasp might find themselves subject to a terrible curse. Victims of a mummy's curse gradually wither, their bodies rotting away until they're reduced to dust. This curse can be healed only by the [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
 
 ```statblock
 "name": "Mummy (XMM)"
@@ -75,9 +75,9 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - "wisdom": !!int "3"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common plus two other languages"
 "cr": "3"
@@ -86,22 +86,22 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 8 (1d10 + 3) Bludgeoning\
       \ damage plus 10 (3d6) Necrotic damage. If the target is a creature, it is cursed.\
-      \ While cursed, the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
-      \ doesn't return to normal when finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
-      \ and its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ While cursed, the target can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ its [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ doesn't return to normal when finishing a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ and its [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
       \ decreases by 10 (3d6) every 24 hours that elapse. A creature dies and turns\
-      \ to dust if reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ to dust if reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ by this attack."
     "name": "Rotting Fist"
   - "desc": "Wisdom Saving Throw: DC 11, one creature the mummy can see within 60\
-      \ feet. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ feet. Failure: The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition until the end of the mummy's next turn. Success: The target is\
       \ immune to this mummy's Dreadful Glare for 24 hours."
     "name": "Dreadful Glare"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/mummy-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/mummy-xmm.webp"
 ```
 ^statblock
 

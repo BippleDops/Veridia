@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Hobgoblin
 *Source: Volo's Guide to Monsters p. 119*  
-![](/3-Mechanics/CLI/races/img/hobgoblin.webp#right)
+![](/03_Mechanics/CLI/races/img/hobgoblin.webp#right)
 
 - **Ability Scores**: con +2 int +1
 - **Size**: Medium

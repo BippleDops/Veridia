@@ -54,16 +54,16 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)),\
   \ passive Perception 18"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "5"
@@ -72,10 +72,10 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
       \ to any creature it is grappling or any creature grappling it."
     "name": "Barbed Hide"
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -83,18 +83,18 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
       \ Hurl Flame attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Large or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 13) from both claws."
     "name": "Claws"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 14 (2d10 + 3) Slashing damage."
     "name": "Tail"
   - "desc": "Ranged Attack Roll: +5, range 150 ft. Hit: 17 (5d6) Fire damage.\
       \ If the target is a flammable object that isn't being worn or carried, it starts\
-      \ [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)."
+      \ [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md)."
     "name": "Hurl Flame"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/barbed-devil-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/barbed-devil-xmm.webp"
 ```
 ^statblock
 

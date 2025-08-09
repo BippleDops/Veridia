@@ -46,9 +46,9 @@ A leucrotta's stench would normally warn away prey long before the creature coul
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Gnoll"
@@ -56,11 +56,11 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 "traits":
   - "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature\
       \ that hears the sounds can tell they are imitations only with a successful\
-      \ DC 14 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ DC 14 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check."
     "name": "Mimicry"
   - "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
       \ 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw\
-      \ or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the start\
+      \ or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) until the start\
       \ of the creature's next turn. On a successful saving throw, the creature is\
       \ immune to the Stench of all leucrottas for 1 hour."
     "name": "Stench"
@@ -75,13 +75,13 @@ A leucrotta's stench would normally warn away prey long before the creature coul
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
 "bonus_actions":
-  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)\
+  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](/03_Mechanics/CLI/actions.md#Disengage)\
       \ action."
     "name": "Kicking Retreat"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp"
 ```
 ^statblock
 

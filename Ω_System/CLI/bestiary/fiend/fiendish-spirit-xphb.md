@@ -32,7 +32,7 @@ aliases:
 "speed": "40 ft., climb 40 ft. (Demon only), fly 60 ft. (Devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
@@ -63,6 +63,6 @@ aliases:
     "name": "Fiery Strike (Devil Only)"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp"
 ```
 ^statblock

@@ -40,7 +40,7 @@ aliases:
   - "desc": "If the bulette moves at least 20 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 15\
-      \ Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Charge"
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14\
@@ -48,6 +48,6 @@ aliases:
     "name": "Bite"
 "source":
   - "PotA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/young-bulette-pota.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/young-bulette-pota.webp"
 ```
 ^statblock

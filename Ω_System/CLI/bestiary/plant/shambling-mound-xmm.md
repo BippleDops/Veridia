@@ -60,17 +60,17 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
+"condition_immunities": "[deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion)"
 "senses": "blindsight 60 ft., passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
   - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-      \ a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ equal to the Lightning damage dealt."
     "name": "Lightning Absorption"
 "actions":
@@ -83,18 +83,18 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
     "name": "Charged Tendril"
   - "desc": "Strength Saving Throw: DC 15, one Medium or smaller creature within\
       \ 5 feet. Failure: The target is pulled into the shambling mound's space and\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 14). Until the grapple ends, the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) conditions, and\
+      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 14). Until the grapple ends, the target has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ and [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) conditions, and\
       \ it takes 10 (3d6) Lightning damage at the start of each of its turns. When\
-      \ the shambling mound moves, the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ the shambling mound moves, the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ target moves with it, costing it no extra movement. The shambling mound can\
-      \ have only one creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ have only one creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by this action at a time."
     "name": "Engulf"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
 ```
 ^statblock
 

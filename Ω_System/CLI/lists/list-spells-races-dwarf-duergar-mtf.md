@@ -13,5 +13,5 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") at class level 3
-- [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3
+- [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md "XPHB") at class level 3
+- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3

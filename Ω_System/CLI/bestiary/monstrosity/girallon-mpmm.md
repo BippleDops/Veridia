@@ -48,9 +48,9 @@ Girallons that are well treated might be willing to serve as guards, though they
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
@@ -71,7 +71,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp"
 ```
 ^statblock
 

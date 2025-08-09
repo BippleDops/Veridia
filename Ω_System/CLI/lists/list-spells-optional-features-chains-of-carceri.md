@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 5th Level
 
-- [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB")
+- [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md "XPHB")

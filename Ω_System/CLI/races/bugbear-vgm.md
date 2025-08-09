@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Bugbear
 *Source: Volo's Guide to Monsters p. 119*  
-![](/3-Mechanics/CLI/races/img/bugbear.webp#right)
+![](/03_Mechanics/CLI/races/img/bugbear.webp#right)
 
 - **Ability Scores**: str +2 dex +1
 - **Size**: Medium
@@ -42,7 +42,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the [Stealth](/3-Mechanics/CLI/skills.md#Stealth) skill.
+You are proficient in the [Stealth](/03_Mechanics/CLI/skills.md#Stealth) skill.
 
 ### Surprise Attack
 

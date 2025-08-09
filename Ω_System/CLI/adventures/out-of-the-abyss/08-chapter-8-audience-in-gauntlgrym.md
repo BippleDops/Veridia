@@ -16,9 +16,9 @@ After their escape from the Underdark in chapter 7, the adventurers have time to
 
 ## Summoned by Bruenor
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/063-08-01.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/063-08-01.webp#center)
 
-King Bruenor has learned of the characters' exploits from dwarf merchants and couriers recently returned from the Underdark. (If [Eldeth Feldrun](/3-Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) was part of the adventurers' successful escape and returned safely to Gauntlgrym, word of the party's heroics came to Bruenor through her. See "Gauntlgrym Connections.") King Bruenor's summons reaches the characters by whatever method best suits the story, depending on where they go and what they are doing following their return to the surface world. It can be in the form of a messenger carrying a handwritten letter bearing the king's seal, or even an [animal messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md) or [sending](/3-Mechanics/CLI/spells/sending-xphb.md) spell focused on one or more of the adventurers. Regardless of how it gets to them, the message is simple and clear:
+King Bruenor has learned of the characters' exploits from dwarf merchants and couriers recently returned from the Underdark. (If [Eldeth Feldrun](/03_Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) was part of the adventurers' successful escape and returned safely to Gauntlgrym, word of the party's heroics came to Bruenor through her. See "Gauntlgrym Connections.") King Bruenor's summons reaches the characters by whatever method best suits the story, depending on where they go and what they are doing following their return to the surface world. It can be in the form of a messenger carrying a handwritten letter bearing the king's seal, or even an [animal messenger](/03_Mechanics/CLI/spells/animal-messenger-xphb.md) or [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell focused on one or more of the adventurers. Regardless of how it gets to them, the message is simple and clear:
 
 > [!readaloud] 
 > 
@@ -29,7 +29,7 @@ Characters belonging to any of the factions involved in the meeting at Gauntlgry
 
 ### Gauntlgrym Connections
 
-If [Eldeth Feldrun](/3-Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) survived and escaped from the Underdark with the characters, she is eager to return home to Gauntlgrym, and does so at the first opportunity. In that case, King Bruenor's summons might come in the form of a personal message or a visit from her, and it's likely Bruenor has heard all about the Underdark exploits from Eldeth.
+If [Eldeth Feldrun](/03_Mechanics/CLI/bestiary/npc/eldeth-feldrun-oota.md) survived and escaped from the Underdark with the characters, she is eager to return home to Gauntlgrym, and does so at the first opportunity. In that case, King Bruenor's summons might come in the form of a personal message or a visit from her, and it's likely Bruenor has heard all about the Underdark exploits from Eldeth.
 
 If Eldeth didn't survive, she might have charged the characters with returning either her remains or her warhammer and shield to her home. This errand can bring the characters to Gauntlgrym of their own volition even before Bruenor's summons.
 
@@ -65,7 +65,7 @@ The following areas within Gauntlgrym might be of some importance during this pa
 > 
 > All tracks eventually lead to a switching station in the Iron Tabernacle. There, posted operators manipulate levers and gears to transfer carts from one track to another.
 > 
-> **Ghosts.** The shades of long-deceased inhabitants of the city, from the time of the Delzoun of old, haunt many of the tunnels and hallways of Gauntlgrym. These spectral remnants are seen passing through ruined sections of the city as if those sections were still intact, following habitual routes, engaging in silent conversation with one another, and generally keeping out of the way of the living. From time to time, the characters might run into a dwarven [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) who warns them away from a place of danger, or confront a less beneficial creature such as a [shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) or [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md). King Bruenor has decreed the restless dead be left alone for now unless they cause problems.
+> **Ghosts.** The shades of long-deceased inhabitants of the city, from the time of the Delzoun of old, haunt many of the tunnels and hallways of Gauntlgrym. These spectral remnants are seen passing through ruined sections of the city as if those sections were still intact, following habitual routes, engaging in silent conversation with one another, and generally keeping out of the way of the living. From time to time, the characters might run into a dwarven [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) who warns them away from a place of danger, or confront a less beneficial creature such as a [shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) or [specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md). King Bruenor has decreed the restless dead be left alone for now unless they cause problems.
 ^gauntlgrym-general-features
 
 ### The Vault of Kings
@@ -76,7 +76,7 @@ The vault is on the same level as the city's main gates and can be reached from 
 
 The majority of the city's current inhabitants live and work within the vault, happy to share tales of the city's reclamation and praise Bruenor's leadership at any opportunity. This is where the characters reside as Bruenor's guests, and where the representatives of the five factions are likely to be found. Here, residents and guests alike enjoy access to well-lit passages, comfortable quarters, and substantial amounts of food and drink.
 
-The Vault of Kings is heavily patrolled and guarded by shield dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) traveling in squads of six. It is the safest part of the city, and the characters can probably depend upon its security enough to rest without interruption in one of the guest suites provided to them, barring any unusual occurrences (see "Events in Gauntlgrym").
+The Vault of Kings is heavily patrolled and guarded by shield dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) traveling in squads of six. It is the safest part of the city, and the characters can probably depend upon its security enough to rest without interruption in one of the guest suites provided to them, barring any unusual occurrences (see "Events in Gauntlgrym").
 
 ### The Iron Tabernacle
 
@@ -86,7 +86,7 @@ Like so much else of ancient Gauntlgrym, the Iron Tabernacle isn't what it once 
 
 #### Rebuilding Faith
 
-Shield dwarf [priests](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) have begun the long task of rebuilding, revitalizing, and restoring the Iron Tabernacle to its former glory. The area is vast, and its halls are numerous and multi-leveled. The dwarf priests have restored many shrines and altars, and have cleared paths through the cracked and broken hallways to the Vault of Kings so that Bruenor can make personal visits to the main shrines and offer thanks to the gods. This procession often includes Bruenor's visitors or those ambassadors from the surface who come to Gauntlgrym to seek counsel with the king. Bruenor leads these processions not only to show off the city and its sheer size, but also to take measure of his guests' endurance and patience in matters of spirit.
+Shield dwarf [priests](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) have begun the long task of rebuilding, revitalizing, and restoring the Iron Tabernacle to its former glory. The area is vast, and its halls are numerous and multi-leveled. The dwarf priests have restored many shrines and altars, and have cleared paths through the cracked and broken hallways to the Vault of Kings so that Bruenor can make personal visits to the main shrines and offer thanks to the gods. This procession often includes Bruenor's visitors or those ambassadors from the surface who come to Gauntlgrym to seek counsel with the king. Bruenor leads these processions not only to show off the city and its sheer size, but also to take measure of his guests' endurance and patience in matters of spirit.
 
 #### All Roads Lead Here
 
@@ -96,7 +96,7 @@ As the heart of Gauntlgrym, the Iron Tabernacle is the central hub of the city's
 
 The lowest level of the Iron Tabernacle is a seemingly endless collection of crypts. Laid out according to patterns or traditions now lost to time, the tombs contain thousands of Gauntlgrym's honored dead. Some crypts are simple biers; others are intricate sarcophagi. All include names, titles, and lineage carved into the stone. A number of scholars have been drawn to Gauntlgrym in response to Bruenor's call, hoping to record a complete lineage of the great families of Gauntlgrym, including their possible connections to modern bloodlines, from an exhaustive study of the records carved in the crypt's stones.
 
-Unlike the rest of the Iron Tabernacle, the tombs are unmarred. Spectral dwarves are common in this area, though their spirits remain quiet as long as visitors are respectful of the dead. If any creatures attempt to deface or steal from the sarcophagi, a mob of dwarven [ghosts](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) quickly attacks. Start with a total number of ghosts equal to the number of intruders present, then add two new ghosts for each ghost destroyed.
+Unlike the rest of the Iron Tabernacle, the tombs are unmarred. Spectral dwarves are common in this area, though their spirits remain quiet as long as visitors are respectful of the dead. If any creatures attempt to deface or steal from the sarcophagi, a mob of dwarven [ghosts](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) quickly attacks. Start with a total number of ghosts equal to the number of intruders present, then add two new ghosts for each ghost destroyed.
 
 #### Iron Tabernacle Random Encounters
 
@@ -111,14 +111,14 @@ Check for a random encounter once every hour of travel in the Iron Tabernacle by
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–12 | No encounter |
-| 13 | 1 [cloaker](/3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md) |
-| 14 | `d2` [driders](/3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) |
-| 15 | 1 dwarf [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) (friendly unless attacked) |
-| 16 | Patrol consisting of six shield dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 17 | 1 shield dwarf [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) and `1d4 + 1` shield dwarf [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
-| 18 | `1d6 + 1` [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
-| 19 | 1 [grick alpha](/3-Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) and `1d4 + 1` [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
-| 20 | `d4` [rust monsters](/3-Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md) |
+| 13 | 1 [cloaker](/03_Mechanics/CLI/bestiary/aberration/cloaker-xmm.md) |
+| 14 | `d2` [driders](/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) |
+| 15 | 1 dwarf [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) (friendly unless attacked) |
+| 16 | Patrol consisting of six shield dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
+| 17 | 1 shield dwarf [priest](/03_Mechanics/CLI/bestiary/humanoid/priest-xmm.md) and `1d4 + 1` shield dwarf [acolytes](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
+| 18 | `1d6 + 1` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
+| 19 | 1 [grick alpha](/03_Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md) and `1d4 + 1` [gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
+| 20 | `d4` [rust monsters](/03_Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md) |
 ^encounter
 
 ### The Great Forge
@@ -145,11 +145,11 @@ In the years following, Maegera groggily awoke from time to time, causing earthq
 
 Under Bruenor's watchful governance, the Great Forge has again begun to produce metalworks. If the characters are in the market for any metal goods (including arms and armor), or have any such goods in need of repair or replacement, the dwarves of the Great Forge are happy to help. No magic weapons or armor are available for sale, although damaged magic items can be repaired.
 
-The king has left the day-to-day running of the Great Forge to a pair of experienced smiths: Helgrim Candlewick and Rollo Summergold (both shield dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)).
+The king has left the day-to-day running of the Great Forge to a pair of experienced smiths: Helgrim Candlewick and Rollo Summergold (both shield dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)).
 
 #### Great Forge Random Encounters
 
-The Great Forge is always occupied by either Helgrim or Rollo, their apprentices and assistants (`2d4` shield dwarf [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), and shield dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) working in squads of six to guard the active furnaces. The characters might also encounter other creatures if they explore the unoccupied areas of the Great Forge. Check for such an encounter once per hour of travel or rest outside the protected areas of the forge by rolling a `d20` and consulting the Great Forge Encounters table to determine what, if anything, comes out of the darkness. If the heroes call for help, four shield dwarf [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) arrive in `1d4 + 1` rounds to aid them.
+The Great Forge is always occupied by either Helgrim or Rollo, their apprentices and assistants (`2d4` shield dwarf [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), and shield dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) working in squads of six to guard the active furnaces. The characters might also encounter other creatures if they explore the unoccupied areas of the Great Forge. Check for such an encounter once per hour of travel or rest outside the protected areas of the forge by rolling a `d20` and consulting the Great Forge Encounters table to determine what, if anything, comes out of the darkness. If the heroes call for help, four shield dwarf [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) arrive in `1d4 + 1` rounds to aid them.
 
 #### Great Forge Encounters
 
@@ -158,12 +158,12 @@ The Great Forge is always occupied by either Helgrim or Rollo, their apprentices
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–14 | No encounter |
-| 15 | `1d4 + 1` [doppelgangers](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) disguised as shield dwarves |
-| 16 | `d2` [fire elementals](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) and `3d6` [magmins](/3-Mechanics/CLI/bestiary/elemental/magmin-xmm.md) |
-| 17 | 1 [salamander](/3-Mechanics/CLI/bestiary/elemental/salamander-xmm.md) and `1d4 + 1` [fire snakes](/3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) |
-| 18 | 1 [spirit naga](/3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) |
-| 19 | `3d6` [troglodytes](/3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) |
-| 20 | 1 [wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) leading `1d6 + 1` [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md) |
+| 15 | `1d4 + 1` [doppelgangers](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) disguised as shield dwarves |
+| 16 | `d2` [fire elementals](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) and `3d6` [magmins](/03_Mechanics/CLI/bestiary/elemental/magmin-xmm.md) |
+| 17 | 1 [salamander](/03_Mechanics/CLI/bestiary/elemental/salamander-xmm.md) and `1d4 + 1` [fire snakes](/03_Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md) |
+| 18 | 1 [spirit naga](/03_Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) |
+| 19 | `3d6` [troglodytes](/03_Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) |
+| 20 | 1 [wraith](/03_Mechanics/CLI/bestiary/undead/wraith-xmm.md) leading `1d6 + 1` [specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) |
 ^encounter
 
 ## Events in Gauntlgrym
@@ -191,7 +191,7 @@ The celebration serves both to welcome the adventurers, who are seated at the hi
 
 This is a free-form scene, which you can play out as best suits your group. It can range from a detailed roleplaying session, with characters mixing and mingling with their potential allies and members of Gauntlgrym society, or just a brief description of the event and the characters' initial impressions of the faction representatives, before their later efforts to negotiate with those representatives for the factions' aid.
 
-If you want to add some intrigue or action, consider having one of the options from "Enemies Among Us" interrupt the feast, giving the characters an opportunity to demonstrate their abilities in front of their potential patron and allies. Rogue [fire elementals](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) roaring out of the hearth or a disguised [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) poisoning one or more of the representatives can completely change the scene.
+If you want to add some intrigue or action, consider having one of the options from "Enemies Among Us" interrupt the feast, giving the characters an opportunity to demonstrate their abilities in front of their potential patron and allies. Rogue [fire elementals](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) roaring out of the hearth or a disguised [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) poisoning one or more of the representatives can completely change the scene.
 
 ### Bruenor's Plan
 
@@ -201,14 +201,14 @@ Once the feast winds down, Bruenor excuses himself as the guests depart. Shortly
 > 
 > "I've told the allies ye met tonight what ye told me," he says. "I invited them here to learn what is happening, to share what we know, and to get their backing for what it is I propose. Ye have braved the Underdark and lived to tell the tale. Ye know, better than anyone, what it is we face, but we need to know more.
 > 
-> "The Zhentarim have a stake in a secret Underdark trading post called Mantol-Derith. If ye can get them on our side, they'll guide ye there, where ye can meet with one of their agents, [Ghazrim DuLoc](/3-Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md). He can provide ye with a map to Gravenhollow. It's a legendary place built by the stone giants long ago, said to contain all the knowledge of the depths. If there's answers to be found for what has happened, ye might find them there. If ye are willing to go back, that is.
+> "The Zhentarim have a stake in a secret Underdark trading post called Mantol-Derith. If ye can get them on our side, they'll guide ye there, where ye can meet with one of their agents, [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md). He can provide ye with a map to Gravenhollow. It's a legendary place built by the stone giants long ago, said to contain all the knowledge of the depths. If there's answers to be found for what has happened, ye might find them there. If ye are willing to go back, that is.
 > 
 > "I don't propose to send ye into the dark unprepared, and I hope ye make an impression on those gathered here so they'll support our cause and your mission. From all I've seen and heard, there's no one better to do what needs be done.
 > 
 > "So, what say ye?"
 ^33e
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/064-ooa08-01.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/064-ooa08-01.webp#center)
 
 Paraphrase Bruenor's speech as needed to handle interjections by the characters. The king provides honest answers to any questions. He truly does believe the characters represent the best option to find out more about the demonic threat, unless they've given him any reason to think otherwise.
 
@@ -227,9 +227,9 @@ Even Gauntlgrym isn't entirely safe, nor is it immune to the influence of the de
 
 - One of the characters' traveling companions is revealed as a traitor or succumbs to madness. This NPC secretly serves one of the demon lords and turns against the adventurers.  
 - If any of the party's drow pursuers survived from the previous chapter, they might slip into Gauntlgrym and look to slay their quarry.  
-- A dwarf [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) belonging to a demon-worshiping cult steals into Gauntlgrym to kill one or more of the faction representatives. Hoping to cast suspicion onto the adventurers, the assassin frames them as demonic agents.  
-- A [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) spy poses as one of the faction representatives and tries to arrange a private meeting with one or more of the characters, hoping to discover additional information regarding the looming threat. The doppelganger might serve a faction of the Underdark or a surface world faction Bruenor didn't invite (such as the Arcane Brotherhood or the Red Wizards of Thay), or might simply be an opportunist looking to sell information to the highest bidder.  
-- Maegera roars within its prison, stirred by the madness and chaos growing within the depths of the Underdark. As a natural reaction to this new stress upon itself, the primordial spawns a trio of [fire elementals](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) that attack the Vault of Kings, setting fire to marketplaces and unleashing chaos upon the dwarven residents. If defeated or somehow convinced to return to the Fiery Pit, the elementals dissipate peacefully and Maegera falls dormant once again... for now.  
+- A dwarf [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) belonging to a demon-worshiping cult steals into Gauntlgrym to kill one or more of the faction representatives. Hoping to cast suspicion onto the adventurers, the assassin frames them as demonic agents.  
+- A [doppelganger](/03_Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) spy poses as one of the faction representatives and tries to arrange a private meeting with one or more of the characters, hoping to discover additional information regarding the looming threat. The doppelganger might serve a faction of the Underdark or a surface world faction Bruenor didn't invite (such as the Arcane Brotherhood or the Red Wizards of Thay), or might simply be an opportunist looking to sell information to the highest bidder.  
+- Maegera roars within its prison, stirred by the madness and chaos growing within the depths of the Underdark. As a natural reaction to this new stress upon itself, the primordial spawns a trio of [fire elementals](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) that attack the Vault of Kings, setting fire to marketplaces and unleashing chaos upon the dwarven residents. If defeated or somehow convinced to return to the Fiery Pit, the elementals dissipate peacefully and Maegera falls dormant once again... for now.  
 
 ## Forging an Alliance
 
@@ -243,7 +243,7 @@ If the characters are already involved with one or more factions, and especially
 
 ### The Harpers
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/065-ooa08-02.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/065-ooa08-02.webp#center)
 
 Members of this clandestine network of spellcasters and spies pride themselves on being incorruptible defenders of the greater good and champions of the oppressed. Harper agents are trained to act alone and rely on their own resources. When they get into scrapes, they don't count on fellow Harpers to rescue them. Sometimes Harper agents must band together to face world-threatening foes, at which point the deep friendships between them forge the kind of fighting force needed to overthrow tyranny and eradicate evil.
 
@@ -262,17 +262,17 @@ For long years, the Harpers have sworn to put an end to unbridled evil in all it
 
 Lord Roaringhorn hails from a Waterdhavian noble family, with all the self-assurance and pride that entails. He pursued his talent for the arcane arts, but never forgot his roots or lost his fondness for spending his family's considerable income on the finer things in life. He's a confident sort who likes to gamble. Winning over Roaringhorn requires a willingness to dine, drink, and potentially game with him.
 
-Lord Roaringhorn is accompanied by a shield guardian and holds its control amulet. The shield guardian currently has a [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md) spell stored within it. A character can gain use of the shield guardian by winning a game of chess against the Harper wizard. Zelraun suggests a match after dinner.
+Lord Roaringhorn is accompanied by a shield guardian and holds its control amulet. The shield guardian currently has a [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md) spell stored within it. A character can gain use of the shield guardian by winning a game of chess against the Harper wizard. Zelraun suggests a match after dinner.
 
 A chess match takes 1 hour, and the outcome is determined by a best-of-three Intelligence check contest. Zelraun's experience gives him a +9 modifier to his Intelligence checks. Zelraun loans the shield guardian and its control amulet to the first character to beat him at the game. If Zelraun proves unbeatable, you can decide that Zelraun, ever the gracious winner, loans the shield guardian and amulet to the party on the provision that the characters vow to redeem themselves with a rematch upon their return from the Underdark.
 
-If a character obtains Zelraun's shield guardian and control amulet, photocopy the [Shield Guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) stat card at the end of this chapter and give it to the player whose character has the amulet. If the amulet changes hands, so too does the shield guardian and its stat card.
+If a character obtains Zelraun's shield guardian and control amulet, photocopy the [Shield Guardian](/03_Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) stat card at the end of this chapter and give it to the player whose character has the amulet. If the amulet changes hands, so too does the shield guardian and its stat card.
 
-If the characters attack Zelraun, use the [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) statistics in the *Monster Manual* to represent him.
+If the characters attack Zelraun, use the [archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) statistics in the *Monster Manual* to represent him.
 
 ### The Order of the Gauntlet
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/066-ooa08-03.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/066-ooa08-03.webp#center)
 
 The Order of the Gauntlet is a dedicated, tightly knit group of holy-minded crusaders driven by a finely honed sense of justice and honor. Friendship and camaraderie are important to members of the order, and they share a trust normally reserved for siblings. They seek to uphold justice as best they can, and to continually test their mettle against the forces of evil. There are few, if any, lone operatives in this organization. Working in pairs and small groups reinforces the bonds of friendship and helps keep members from straying off the path of righteousness.
 
@@ -291,15 +291,15 @@ The demon lords embody the kind of evil the Order of the Gauntlet is sworn to de
 
 A devout follower of Tyr and a member of the Order of the Gauntlet, Sir Lanniver is the most respected figure among the factions in Gauntlgrym. Little surprises him at this point in his life, and he accepts what comes with a wry wit and an unshakable faith that things will always work out—provided those of good intent do what must be done. If most of the characters in the party are of good alignment, Sir Lanniver is supportive of their mission and wants them to succeed. However, a party of mostly neutral or evil characters will need to work to gain his support.
 
-If he's of a mind to provide aid, Sir Lanniver pledges five human veterans of the order to the party's mission. The veterans' names are Thora Nabal, Sylrien Havennor, Olaf Renghyi, Elias Drako, and Tamryn Tharke. Sir Lanniver can also offer a member of the party a [+1 warhammer](/3-Mechanics/CLI/items/1-weapon-xdmg.md), one of a handful of treasures held in trust by the order. He prefers to bestow this weapon on a good- or neutral-aligned cleric or paladin. Feel free to swap this magic weapon with another magic item more useful to the adventurers.
+If he's of a mind to provide aid, Sir Lanniver pledges five human veterans of the order to the party's mission. The veterans' names are Thora Nabal, Sylrien Havennor, Olaf Renghyi, Elias Drako, and Tamryn Tharke. Sir Lanniver can also offer a member of the party a [+1 warhammer](/03_Mechanics/CLI/items/1-weapon-xdmg.md), one of a handful of treasures held in trust by the order. He prefers to bestow this weapon on a good- or neutral-aligned cleric or paladin. Feel free to swap this magic weapon with another magic item more useful to the adventurers.
 
-If the veterans accompany the party, make five photocopies of the [Veteran of the Gauntlet](/3-Mechanics/CLI/bestiary/humanoid/veteran-of-the-gauntlet-oota.md) stat card at the end of this chapter. If you don't want to control the veterans yourself, you can distribute the stat cards among the players and let them run the NPCs.
+If the veterans accompany the party, make five photocopies of the [Veteran of the Gauntlet](/03_Mechanics/CLI/bestiary/humanoid/veteran-of-the-gauntlet-oota.md) stat card at the end of this chapter. If you don't want to control the veterans yourself, you can distribute the stat cards among the players and let them run the NPCs.
 
-Should Sir Lanniver come under attack, use the [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) statistics in the *Monster Manual* to represent him. In addition to the veterans mentioned above, Sir Lanniver travels with a young but able squire (female human [guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) named Rhiele Vannis.
+Should Sir Lanniver come under attack, use the [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md) statistics in the *Monster Manual* to represent him. In addition to the veterans mentioned above, Sir Lanniver travels with a young but able squire (female human [guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md)) named Rhiele Vannis.
 
 ### The Emerald Enclave
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/067-ooa08-05a.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/067-ooa08-05a.webp#center)
 
 Members of the Emerald Enclave are spread far and wide across the Sword Coast and the North. They usually operate in isolation, relying on their own abilities and instincts to survive. Living deep in the wilderness demands great fortitude and the mastery of certain fighting and survival skills. Down in the Underdark, far from the wild lands, the Emerald Enclave must remain ever vigilant to avoid being blindsided by unnatural forces.
 
@@ -320,15 +320,15 @@ The Emerald Enclave fights tirelessly against the corruption of nature. Its memb
 
 Morista Malkin is the only faction representative who currently resides in Gauntlgrym. Originally from the Silver Marches, she heard Bruenor's call to reclaim the glory of the ancient line of Delzoun and followed him to Gauntlgrym. Here, she balances her work with the Emerald Enclave and her loyalty to her people and their cause. Stern and stubborn, Morista sees it as her duty to protect the people of Gauntlgrym from the often savage nature of the Underdark and to remind them of its natural beauty. She serves King Bruenor as an advisor and both admires and respects him.
 
-Morista spends some of her time training elite scouts to reconnoiter the Underdark passages near the city. A few months ago, one of her scouts—a wood elf named [Sladis Vadir](/3-Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md)—disappeared while on a mission in the Underdark. Hopeful that the characters might stumble upon Sladis and see him safely back to Gauntlgrym, Morista pledges a team of three shield dwarf scouts to accompany them, along with a giant lizard mount for each enclave scout and each player character. The scouts are named Brim Coppervein, Thargus Forkbeard, and Griswalla Stonehammer.
+Morista spends some of her time training elite scouts to reconnoiter the Underdark passages near the city. A few months ago, one of her scouts—a wood elf named [Sladis Vadir](/03_Mechanics/CLI/bestiary/npc/sladis-vadir-oota.md)—disappeared while on a mission in the Underdark. Hopeful that the characters might stumble upon Sladis and see him safely back to Gauntlgrym, Morista pledges a team of three shield dwarf scouts to accompany them, along with a giant lizard mount for each enclave scout and each player character. The scouts are named Brim Coppervein, Thargus Forkbeard, and Griswalla Stonehammer.
 
-If the characters accept the Emerald Enclave's support, make three photocopies of the [Emerald Enclave Scout](/3-Mechanics/CLI/bestiary/humanoid/emerald-enclave-scout-oota.md) stat card at the end of this chapter as well as photocopies of the [Giant Riding Lizard](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) stat card (one for each enclave scout and player character). If you don't want to control the scouts and giant lizards yourself, you can distribute their stat cards among the players and let them run the NPCs.
+If the characters accept the Emerald Enclave's support, make three photocopies of the [Emerald Enclave Scout](/03_Mechanics/CLI/bestiary/humanoid/emerald-enclave-scout-oota.md) stat card at the end of this chapter as well as photocopies of the [Giant Riding Lizard](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) stat card (one for each enclave scout and player character). If you don't want to control the scouts and giant lizards yourself, you can distribute their stat cards among the players and let them run the NPCs.
 
-Should Morista come under attack, use the [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) statistics in the *Monster Manual* to represent her.
+Should Morista come under attack, use the [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) statistics in the *Monster Manual* to represent her.
 
 ### The Lords' Alliance
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/068-ooa08-04.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/068-ooa08-04.webp#center)
 
 The Lords' Alliance is a political and economic coalition of cities spread throughout the North and the Sword Coast. The alliance owes its success to effective cooperation and diplomacy between its members, who work to align their separate settlements toward a mutual purpose. This cooperation is easier during times of crisis, making the Lords' Alliance a powerful force when threats require a united front. The agents of the Lords' Alliance work to maintain the delicate network of information and diplomacy that sustains their order, alert for anything that might threaten the alliance's interests. Recent reports of unusual activity from the Underdark might mark one such threat.
 
@@ -352,15 +352,15 @@ If they can convince him otherwise, Lord Eravien arranges for some agents of the
 - Five dwarf guards from the alliance city of Mirabar. Their names are Nazrok Blueaxe, Kirsil Mantlehorn, Anzar the Brazen, Gargathine Truesilver, and Splinter Darkmorn.  
 - Three human spies from the alliance city of Yartar. Their names are Farryl Kilmander, Zilna Oakshadow, and Hilvius Haever.  
 
-If the party accepts these NPCs into its ranks, make five photocopies of the [Lords' Alliance Guard](/3-Mechanics/CLI/bestiary/humanoid/lords-alliance-guard-oota.md) and three photocopies of the [Lords' Alliance Spy](/3-Mechanics/CLI/bestiary/humanoid/lords-alliance-spy-oota.md) stat cards at the end of this chapter. If you don't want to control these NPCs yourself, you can distribute their stat cards among the players and let them run the NPCs.
+If the party accepts these NPCs into its ranks, make five photocopies of the [Lords' Alliance Guard](/03_Mechanics/CLI/bestiary/humanoid/lords-alliance-guard-oota.md) and three photocopies of the [Lords' Alliance Spy](/03_Mechanics/CLI/bestiary/humanoid/lords-alliance-spy-oota.md) stat cards at the end of this chapter. If you don't want to control these NPCs yourself, you can distribute their stat cards among the players and let them run the NPCs.
 
 Eravien knows that the Lords' Alliance has a deep-cover operative in the Underdark. Khelessa Draga, a high elf from Silverymoon, was sent to spy on the drow over a year ago. Eravien knows that Khelessa uses magic to disguise herself as a dark elf and warns the characters not to attack any drow they encounter until they can confirm the target isn't Khelessa in disguise. The Lords' Alliance lost contact with Khelessa months ago, so Eravien doesn't know where she is.
 
-Should Lord Eravien come under attack, use the [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) statistics in the *Monster Manual* to represent him. He travels with three servants (strongheart halfling [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) and three well-paid human [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md).
+Should Lord Eravien come under attack, use the [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) statistics in the *Monster Manual* to represent him. He travels with three servants (strongheart halfling [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) and three well-paid human [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md).
 
 ### The Zhentarim
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/069-ooa08-05.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/069-ooa08-05.webp#center)
 
 Members of the shadowy Black Network consider themselves part of an extended family, and rely on the larger organization for resources and security. The Zhentarim recognizes and rewards ambition, granting its members autonomy to pursue their own interests and gain some measure of personal power or influence. In this way, the organization is a meritocracy. The Zhentarim welcomes dangerous times as opportunities. When a merchant caravan needs an escort, a noble needs bodyguards, or a city needs trained soldiers, the Zhentarim provides the best-trained fighting forces money can buy.
 
@@ -381,9 +381,9 @@ Graceful and elegant as a blade, Davra Jassur ostensibly recruits promising new 
 
 The Zhentarim's intelligence-gathering resources and access to an established Underdark outpost give the organization the strongest hand of any of the factions, and Davra knows it. Access to Mantol-Derith is key to the plan, and though she ultimately won't withhold that access from the adventurers, she intends to make sure it's not given away for free. Davra deals with the adventurers directly—and privately, if possible—asking for a full share of any treasure the characters claim during their next incursion into the Underdark, and a full reporting to her of all information given to Bruenor or the other faction leaders. If one of the characters is a member of the Zhentarim, Davra tries to make the deal for information with that character alone.
 
-In addition to access to the hidden trading post of Mantol-Derith, Davra Jassur can provide Zhentarim mercenaries to fill out the expedition. These eight human thugs proudly wear the crest of the Black Network on their armor. If these NPCs join the party, make eight photocopies of the [Zhentarim Thug](/3-Mechanics/CLI/bestiary/humanoid/zhentarim-thug-oota.md) stat card at the end of this chapter. If you don't want to control these NPCs yourself, you can distribute their stat cards among the players and let them run the NPCs. The thugs' names are Nero Kelvane, Lenora Haskur, Aligor Moonwhisper, Gorath Torn, Saliyra Dalnor, Primwin Halk, Iandro Alathar, and Lhytris Ilgarn. All of them know the route to Mantol-Derith.
+In addition to access to the hidden trading post of Mantol-Derith, Davra Jassur can provide Zhentarim mercenaries to fill out the expedition. These eight human thugs proudly wear the crest of the Black Network on their armor. If these NPCs join the party, make eight photocopies of the [Zhentarim Thug](/03_Mechanics/CLI/bestiary/humanoid/zhentarim-thug-oota.md) stat card at the end of this chapter. If you don't want to control these NPCs yourself, you can distribute their stat cards among the players and let them run the NPCs. The thugs' names are Nero Kelvane, Lenora Haskur, Aligor Moonwhisper, Gorath Torn, Saliyra Dalnor, Primwin Halk, Iandro Alathar, and Lhytris Ilgarn. All of them know the route to Mantol-Derith.
 
-Davra is an [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md). In addition to her weapons, she carries [dust of disappearance](/3-Mechanics/CLI/items/dust-of-disappearance-xdmg.md) and wears [goggles of night](/3-Mechanics/CLI/items/goggles-of-night-xdmg.md) while roaming the dark halls of Gauntlgrym.
+Davra is an [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md). In addition to her weapons, she carries [dust of disappearance](/03_Mechanics/CLI/items/dust-of-disappearance-xdmg.md) and wears [goggles of night](/03_Mechanics/CLI/items/goggles-of-night-xdmg.md) while roaming the dark halls of Gauntlgrym.
 
 ## The Way Ahead
 

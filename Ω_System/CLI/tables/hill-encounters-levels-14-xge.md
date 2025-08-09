@@ -18,67 +18,67 @@ modified: 2025-07-23 12:39
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | 1 [eagle](/3-Mechanics/CLI/bestiary/beast/eagle-xmm.md) |
-| 02-03 | `2d4` [baboons](/3-Mechanics/CLI/bestiary/beast/baboon-xmm.md) |
-| 04-06 | `d6` [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 07 | `d4` [vultures](/3-Mechanics/CLI/bestiary/beast/vulture-xmm.md) |
-| 08 | `d10` [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
-| 09 | 1 [raven](/3-Mechanics/CLI/bestiary/beast/raven-xmm.md) |
-| 10 | 1 [poisonous snake](/3-Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) |
-| 11-13 | `2d6` [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) `2d6` [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) |
-| 14 | `2d8` [goats](/3-Mechanics/CLI/bestiary/beast/goat-xmm.md) |
-| 15 | `1d6 + 4` [blood hawks](/3-Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md) |
-| 16 | `1d4 + 3` [giant weasels](/3-Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md) |
-| 17-18 | `d3` [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) with `d2` [mastiffs](/3-Mechanics/CLI/bestiary/beast/mastiff-xmm.md) and 1 [mule](/3-Mechanics/CLI/bestiary/beast/mule-xmm.md) |
-| 19-20 | `1d6 + 5` [hyenas](/3-Mechanics/CLI/bestiary/beast/hyena-xmm.md) |
-| 21-22 | `2d4` [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
+| 01 | 1 [eagle](/03_Mechanics/CLI/bestiary/beast/eagle-xmm.md) |
+| 02-03 | `2d4` [baboons](/03_Mechanics/CLI/bestiary/beast/baboon-xmm.md) |
+| 04-06 | `d6` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
+| 07 | `d4` [vultures](/03_Mechanics/CLI/bestiary/beast/vulture-xmm.md) |
+| 08 | `d10` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
+| 09 | 1 [raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md) |
+| 10 | 1 [poisonous snake](/03_Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) |
+| 11-13 | `2d6` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) `2d6` [tribal warriors](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md) |
+| 14 | `2d8` [goats](/03_Mechanics/CLI/bestiary/beast/goat-xmm.md) |
+| 15 | `1d6 + 4` [blood hawks](/03_Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md) |
+| 16 | `1d4 + 3` [giant weasels](/03_Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md) |
+| 17-18 | `d3` [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) with `d2` [mastiffs](/03_Mechanics/CLI/bestiary/beast/mastiff-xmm.md) and 1 [mule](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md) |
+| 19-20 | `1d6 + 5` [hyenas](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md) |
+| 21-22 | `2d4` [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
 | 23-25 | An empty cave littered with bones |
-| 26 | 1 [pseudodragon](/3-Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) or `d3` [giant owls](/3-Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md) |
-| 27 | 1 [lion](/3-Mechanics/CLI/bestiary/beast/lion-xmm.md) or 1 cougar ([panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md)) |
-| 28-30 | `2d8` [kobolds](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
-| 31 | 1 [hippogriff](/3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md) |
-| 32-34 | `2d4` [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
-| 35 | 1 [worg](/3-Mechanics/CLI/bestiary/fey/worg-xmm.md) |
-| 36 | `d3` [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) or `d3` [swarms of ravens](/3-Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) |
-| 37 | 1 [giant eagle](/3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) |
+| 26 | 1 [pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) or `d3` [giant owls](/03_Mechanics/CLI/bestiary/celestial/giant-owl-xmm.md) |
+| 27 | 1 [lion](/03_Mechanics/CLI/bestiary/beast/lion-xmm.md) or 1 cougar ([panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md)) |
+| 28-30 | `2d8` [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
+| 31 | 1 [hippogriff](/03_Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md) |
+| 32-34 | `2d4` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
+| 35 | 1 [worg](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md) |
+| 36 | `d3` [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) or `d3` [swarms of ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) |
+| 37 | 1 [giant eagle](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) |
 | 38-40 | An old dwarf sitting on a stump, whittling a piece of wood |
-| 41 | `d4` [elk](/3-Mechanics/CLI/bestiary/beast/elk-xmm.md) |
-| 42 | `d4` [winged kobolds](/3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) with `d6` [kobolds](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
-| 43 | `1d6 + 2` [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
-| 44-45 | `2d4` [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) |
-| 46 | 1 [swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) |
-| 47 | `1d8 + 1` [axe beaks](/3-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md) |
-| 48-49 | 1 [brown bear](/3-Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) or `d3` [boars](/3-Mechanics/CLI/bestiary/beast/boar-xmm.md) |
-| 50 | 1 [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
-| 51 | 1 [ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) |
-| 52-53 | `2d4` [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) |
-| 54 | 1 [giant elk](/3-Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md) |
-| 55 | `1d3 + 1` [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md) |
-| 56 | 1 [werewolf](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) |
-| 57-58 | `2d4` [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
-| 59 | `d4` [half-ogres](/3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) |
-| 60 | 1 [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) or 1 [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 61-63 | The corpse of an adventurer that carries an intact [explorer's pack](/3-Mechanics/CLI/items/explorers-pack-xphb.md) and lies atop a longsword |
-| 64 | 1 [green hag](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) |
-| 65-66 | `d3` [dire wolves](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) |
+| 41 | `d4` [elk](/03_Mechanics/CLI/bestiary/beast/elk-xmm.md) |
+| 42 | `d4` [winged kobolds](/03_Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md) with `d6` [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
+| 43 | `1d6 + 2` [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
+| 44-45 | `2d4` [wolves](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md) |
+| 46 | 1 [swarm of insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) |
+| 47 | `1d8 + 1` [axe beaks](/03_Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md) |
+| 48-49 | 1 [brown bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) or `d3` [boars](/03_Mechanics/CLI/bestiary/beast/boar-xmm.md) |
+| 50 | 1 [scout](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
+| 51 | 1 [ogre](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) |
+| 52-53 | `2d4` [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) |
+| 54 | 1 [giant elk](/03_Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md) |
+| 55 | `1d3 + 1` [harpies](/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md) |
+| 56 | 1 [werewolf](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) |
+| 57-58 | `2d4` [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
+| 59 | `d4` [half-ogres](/03_Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) |
+| 60 | 1 [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md) or 1 [veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
+| 61-63 | The corpse of an adventurer that carries an intact [explorer's pack](/03_Mechanics/CLI/items/explorers-pack-xphb.md) and lies atop a longsword |
+| 64 | 1 [green hag](/03_Mechanics/CLI/bestiary/fey/green-hag-xmm.md) |
+| 65-66 | `d3` [dire wolves](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) |
 | 67-68 | A small cemetery containing `2d6` graves |
-| 69-70 | 1 [hobgoblin captain](/3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) with `2d4` [hobgoblins](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| 71 | `2d4` [giant goats](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) |
-| 72 | 1 [manticore](/3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
-| 73-74 | `1d6 + 2` [hobgoblins](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| 75 | 1 [phase spider](/3-Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) |
+| 69-70 | 1 [hobgoblin captain](/03_Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) with `2d4` [hobgoblins](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) |
+| 71 | `2d4` [giant goats](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) |
+| 72 | 1 [manticore](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
+| 73-74 | `1d6 + 2` [hobgoblins](/03_Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) |
+| 75 | 1 [phase spider](/03_Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) |
 | 76-78 | A pile of droppings from a very large bird |
-| 79 | 1 [gnoll fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md) |
-| 80 | `d3` [giant boars](/3-Mechanics/CLI/bestiary/beast/giant-boar-xmm.md) |
-| 81 | 1 [gnoll pack lord](/3-Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) with `d3` [giant hyenas](/3-Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md) |
-| 82 | 1 [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) with `2d4` [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
-| 83 | 1 [orc Eye of Gruumsh](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) with `1d8 + 2` [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
-| 84 | `d3` [orogs](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) or `d4` [berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
-| 85-86 | 1 [ettin](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md) or 1 [wereboar](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) |
-| 87-88 | 1 [goblin boss](/3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) with `2d6` [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
-| 89 | `d3` [griffons](/3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
-| 90 | `d3` [perytons](/3-Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md) or `d4` [pegasi](/3-Mechanics/CLI/bestiary/celestial/pegasus-xmm.md) |
-| 91-96 | `d3` [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) |
-| 97-99 | 1 [cyclops](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 00 | 1 [stone giant](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) |
+| 79 | 1 [gnoll fang of Yeenoghu](/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md) |
+| 80 | `d3` [giant boars](/03_Mechanics/CLI/bestiary/beast/giant-boar-xmm.md) |
+| 81 | 1 [gnoll pack lord](/03_Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) with `d3` [giant hyenas](/03_Mechanics/CLI/bestiary/beast/giant-hyena-xmm.md) |
+| 82 | 1 [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) with `2d4` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) |
+| 83 | 1 [orc Eye of Gruumsh](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) with `1d8 + 2` [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
+| 84 | `d3` [orogs](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) or `d4` [berserkers](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
+| 85-86 | 1 [ettin](/03_Mechanics/CLI/bestiary/giant/ettin-xmm.md) or 1 [wereboar](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) |
+| 87-88 | 1 [goblin boss](/03_Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) with `2d6` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
+| 89 | `d3` [griffons](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
+| 90 | `d3` [perytons](/03_Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md) or `d4` [pegasi](/03_Mechanics/CLI/bestiary/celestial/pegasus-xmm.md) |
+| 91-96 | `d3` [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 97-99 | 1 [cyclops](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
+| 00 | 1 [stone giant](/03_Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) |
 ^hill-encounters-levels-14

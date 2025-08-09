@@ -117,7 +117,7 @@ Keep notes whenever you create or significantly alter a monster, magic item, or 
 
 Besides the expenses associated with maintaining a particular lifestyle, adventurers might have additional drains on their adventuring income. Player characters who come into possession of property, own businesses, and employ hirelings must cover the expenses that accompany these ventures.
 
-![Recurring Expenses; Maintenance Costs](/3-Mechanics/CLI/tables/recurring-expenses-maintenance-costs.md)
+![Recurring Expenses; Maintenance Costs](/03_Mechanics/CLI/tables/recurring-expenses-maintenance-costs.md)
 
 It's not unusual for adventurers-especially after 10th level-to gain possession of a castle, a tavern, or another piece of property. They might buy it with their hard-won loot, take it by force, obtain it in a lucky draw from a *deck of many things*, or acquire it by other means.
 
@@ -151,15 +151,15 @@ As your campaign progresses, your players' characters will not only become more 
 
 Chapter 8, ""Adventuring"," of the *Player's Handbook* describes a few downtime activities to fill the void between adventures. Depending on the style of your campaign and the particular backgrounds and interests of the adventurers, you can make some or all of the following additional activities available as options.
 
-- [Building a Stronghold](/3-Mechanics/CLI/variant-rules/downtime-activity-building-a-stronghold.md)  
-- [Carousing](/3-Mechanics/CLI/variant-rules/downtime-activity-carousing.md)  
-- [Crafting a Magic Item](/3-Mechanics/CLI/variant-rules/downtime-activity-crafting-a-magic-item.md)  
-- [Gaining Renown](/3-Mechanics/CLI/variant-rules/downtime-activity-gaining-renown.md)  
-- [Performing Sacred Rites](/3-Mechanics/CLI/variant-rules/downtime-activity-performing-sacred-rites.md)  
-- [Running a Business](/3-Mechanics/CLI/variant-rules/downtime-activity-running-a-business.md)  
-- [Selling Magic Items](/3-Mechanics/CLI/variant-rules/downtime-activity-selling-magic-items.md)  
-- [Sowing Rumors](/3-Mechanics/CLI/variant-rules/downtime-activity-sowing-rumors.md)  
-- [Training to Gain Levels](/3-Mechanics/CLI/variant-rules/downtime-activity-training-to-gain-levels.md)  
+- [Building a Stronghold](/03_Mechanics/CLI/variant-rules/downtime-activity-building-a-stronghold.md)  
+- [Carousing](/03_Mechanics/CLI/variant-rules/downtime-activity-carousing.md)  
+- [Crafting a Magic Item](/03_Mechanics/CLI/variant-rules/downtime-activity-crafting-a-magic-item.md)  
+- [Gaining Renown](/03_Mechanics/CLI/variant-rules/downtime-activity-gaining-renown.md)  
+- [Performing Sacred Rites](/03_Mechanics/CLI/variant-rules/downtime-activity-performing-sacred-rites.md)  
+- [Running a Business](/03_Mechanics/CLI/variant-rules/downtime-activity-running-a-business.md)  
+- [Selling Magic Items](/03_Mechanics/CLI/variant-rules/downtime-activity-selling-magic-items.md)  
+- [Sowing Rumors](/03_Mechanics/CLI/variant-rules/downtime-activity-sowing-rumors.md)  
+- [Training to Gain Levels](/03_Mechanics/CLI/variant-rules/downtime-activity-training-to-gain-levels.md)  
 
 ### Creating Downtime Activities
 

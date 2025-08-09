@@ -66,27 +66,27 @@ Otyughs often bury themselves amid trash heaps and observe their surroundings wi
   - "desc": "The otyugh makes one Bite attack and two Tentacle attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage,\
-      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition. Whenever the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ target finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition. Whenever the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ target finishes a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md),\
       \ it is subjected to the following effect. Constitution Saving Throw: DC 15.\
-      \ Failure: The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ maximum decreases by 5 (d10) and doesn't return to normal until the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition ends on the target. Success: The [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ Failure: The target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ maximum decreases by 5 (d10) and doesn't return to normal until the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition ends on the target. Success: The [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition ends."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +6, reach 10 ft. Hit: 12 (2d8 + 3) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 13) from one of two tentacles."
     "name": "Tentacle"
-  - "desc": "Constitution Saving Throw: DC 14, each creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "Constitution Saving Throw: DC 14, each creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by the otyugh. Failure: 16 (3d8 + 3) Bludgeoning damage, and the target\
-      \ has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until\
+      \ has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) condition until\
       \ the start of the otyugh's next turn. Success: Half damage only."
     "name": "Tentacle Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/otyugh-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/otyugh-xmm.webp"
 ```
 ^statblock
 

@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 11
 
-You can spend 4 ki points to cast [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md).
+You can spend 4 ki points to cast [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md).

@@ -47,8 +47,8 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
   - !!int "15"
 "speed": "40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
@@ -60,18 +60,18 @@ In rare cases, bone nagas continue to pursue the goals they had while alive inst
       \ plus 7 (2d6) Necrotic damage."
     "name": "Bite"
   - "desc": "Wisdom Saving Throw: DC 13, one creature the naga can see within 60\
-      \ feet. Failure: 13 (3d6 + 3) Psychic damage, and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ feet. Failure: 13 (3d6 + 3) Psychic damage, and the target has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ condition until the start of the naga's next turn."
     "name": "Serpentine Gaze"
   - "desc": "The naga casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      At will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n1/day each: [Command](/3-Mechanics/CLI/spells/command-xphb.md), [Detect\
-      \ Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      At will: [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n1/day each: [Command](/03_Mechanics/CLI/spells/command-xphb.md), [Detect\
+      \ Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md), [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/bone-naga-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/bone-naga-xmm.webp"
 ```
 ^statblock
 

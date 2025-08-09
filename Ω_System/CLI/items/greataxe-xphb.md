@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Greataxe
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/greataxe.webp#right)
+![](/03_Mechanics/CLI/items/img/greataxe.webp#right)
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
 

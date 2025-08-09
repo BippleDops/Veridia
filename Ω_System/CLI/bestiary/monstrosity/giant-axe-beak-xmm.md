@@ -54,7 +54,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -67,12 +67,12 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
       \ Slashing damage."
     "name": "Sharpened Beak"
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Talons"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
 ```
 ^statblock
 

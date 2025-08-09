@@ -14,10 +14,10 @@ modified: 2025-07-23 12:39
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](/03_Mechanics/CLI/skills.md#History), [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), a [signet ring](/3-Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [fine clothes](/03_Mechanics/CLI/items/fine-clothes-xphb.md), a [signet ring](/03_Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
 
 A knighthood is among the lowest noble titles in most societies, but it can be a path to higher status. If you wish to be a knight, choose the Retainers feature instead of the Position of Privilege feature. One of your commoner retainers is replaced by a noble who serves as your squire, aiding you in exchange for training on his or her own path to knighthood. Your two remaining retainers might include a groom to care for your horse and a servant who polishes your armor (and even helps you put it on).
 

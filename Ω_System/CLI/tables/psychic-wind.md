@@ -21,7 +21,7 @@ modified: 2025-07-23 12:39
 | 1-8 | Diverted, add `d6` hours to travel time |
 | 9-12 | Blown off course, add `3d10` hours to travel time |
 | 13-16 | Lost, at the end of the travel time, characters arrive at a location other than the intended destination |
-| 17-20 | Sent through color pool to a random plane. Roll on [Astral Color Pools](/3-Mechanics/CLI/tables/astral-color-pools.md) table |
+| 17-20 | Sent through color pool to a random plane. Roll on [Astral Color Pools](/03_Mechanics/CLI/tables/astral-color-pools.md) table |
 ^psychic-wind-effects
 
 `dice: [](psychic-wind.md#^mental-effect)`
@@ -29,9 +29,9 @@ modified: 2025-07-23 12:39
 | dice: d20 | Mental Effect |
 |-----------|---------------|
 | 1-8 | Stunned for 1 minute—you can repeat the saving throw at the end of each of your turns to end the effect on yourself |
-| 9-10 | [Short-term madness](/3-Mechanics/CLI/tables/short-term-madness.md) (see chapter 8) |
+| 9-10 | [Short-term madness](/03_Mechanics/CLI/tables/short-term-madness.md) (see chapter 8) |
 | 11-12 | `2d10` psychic damage |
 | 13-16 | `4d10` psychic damage |
-| 17-18 | [Long-term madness](/3-Mechanics/CLI/tables/long-term-madness.md) (see chapter 8) |
-| 19-20 | [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) for `d10` minutes—the effect on you ends if you take damage or if another creature uses an action to shake you awake |
+| 17-18 | [Long-term madness](/03_Mechanics/CLI/tables/long-term-madness.md) (see chapter 8) |
+| 19-20 | [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) for `d10` minutes—the effect on you ends if you take damage or if another creature uses an action to shake you awake |
 ^mental-effect

@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 # Observatory
 *Level 13 Bastion facility*  
 
-- **Prerequisites**: Ability to use a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 1
 - **Order**: empower
@@ -22,7 +22,7 @@ Situated atop your Bastion, your Observatory contains a telescope aimed at the n
 
 ## Observatory Charm
 
-You can use your Observatory to peer into the far corners of "Wildspace" and the "Astral Plane". After spending a Long Rest in your Observatory, you gain a magical [Charm](/3-Mechanics/CLI/rewards/observatory-charm-xdmg.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Contact Other Plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md) without expending a spell slot. You can't gain this Charm again while you still have it.
+You can use your Observatory to peer into the far corners of "Wildspace" and the "Astral Plane". After spending a Long Rest in your Observatory, you gain a magical [Charm](/03_Mechanics/CLI/rewards/observatory-charm-xdmg.md) (see ""Supernatural Gifts"" in "chapter 3") that lasts for 7 days or until you use it. The Charm allows you to cast [Contact Other Plane](/03_Mechanics/CLI/spells/contact-other-plane-xphb.md) without expending a spell slot. You can't gain this Charm again while you still have it.
 
 ## Empower: Eldritch Discovery
 

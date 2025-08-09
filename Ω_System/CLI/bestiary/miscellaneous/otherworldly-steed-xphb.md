@@ -42,7 +42,7 @@ aliases:
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 60 feet the steed can see. Failure: The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Fiend Only; Recharges after a Long Rest)"
   - "desc": "The steed teleports, along with its rider, to an unoccupied space of\
@@ -53,6 +53,6 @@ aliases:
     "name": "Healing Touch (Celestial Only; Recharges after a Long Rest)"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp"
 ```
 ^statblock

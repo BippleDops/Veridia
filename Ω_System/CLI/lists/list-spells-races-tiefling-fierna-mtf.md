@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Friends](/3-Mechanics/CLI/spells/friends-xphb.md "XPHB") as 2nd-level, at class level 3
+- [Friends](/03_Mechanics/CLI/spells/friends-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 1st Level
 
-- [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md "XPHB") as 2nd-level, at class level 3
+- [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md "XPHB") as 2nd-level, at class level 3
 
 ## 2nd Level
 
-- [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB") as 2nd-level, at class level 3
+- [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md "XPHB") as 2nd-level, at class level 3

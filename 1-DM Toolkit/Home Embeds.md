@@ -30,7 +30,7 @@ views:
     filters:
       and:
         - tags == ["Category/Player"]
-        - file.folder != "z_Templates/World Builder Templates"
+        - file.folder != "05_Templates/World Builder Templates"
     order:
       - file.name
       - Player

@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Greatclub
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/greatclub.webp#right)
+![](/03_Mechanics/CLI/items/img/greatclub.webp#right)
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 

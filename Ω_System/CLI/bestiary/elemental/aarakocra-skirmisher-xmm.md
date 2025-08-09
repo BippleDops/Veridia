@@ -47,7 +47,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
   - !!int "11"
 "speed": "20 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Aarakocra, Primordial (Auran)"
@@ -64,7 +64,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
     "name": "Wind Javelin"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/aarakocra-skirmisher-xmm.webp"
 ```
 ^statblock
 

@@ -53,7 +53,7 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
@@ -61,15 +61,15 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 11, each creature in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the dretch. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the end of its next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the creature can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 11, each creature in a 10-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the dretch. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the end of its next turn. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+      \ the creature can take either an action or a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Cloud (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/dretch-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/dretch-xmm.webp"
 ```
 ^statblock
 

@@ -101,7 +101,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 14"
 "languages": "Undercommon"
@@ -109,7 +109,7 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -117,10 +117,10 @@ Kuo-toa typically organize their communities around sites they believe to be imp
       \ 5 (1d8 + 1) Piercing damage."
     "name": "Spear"
   - "desc": "Dexterity Saving Throw: DC 10, one Large or smaller creature the kuo-toa\
-      \ can see within 15 feet. Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition until the net is destroyed (AC 10; HP 5; [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+      \ can see within 15 feet. Failure: The target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ condition until the net is destroyed (AC 10; HP 5; [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md)\
       \ to Bludgeoning, Poison, and Psychic damage). A creature can take an action\
-      \ to make a DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
+      \ to make a DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics))\
       \ check to free itself or another creature in a net within 5 feet, destroying\
       \ the net on a success."
     "name": "Sticky Net (1/Day)"
@@ -128,14 +128,14 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - "desc": "Trigger: A creature misses the kuo-toa with a melee attack roll using\
       \ a weapon. _Response—_Strength Saving Throw: DC 11, the triggering creature.\
       \ Failure: The attack's weapon sticks to the kuo-toa's shield. If the target\
-      \ doesn't let go of the weapon, the target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ doesn't let go of the weapon, the target has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition while the weapon is stuck (escape DC 11). While stuck, the weapon\
-      \ can't be used. The target can take an action to make a DC 11 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
+      \ can't be used. The target can take an action to make a DC 11 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics))\
       \ check, freeing the weapon on a success."
     "name": "Sticky Shield"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/kuo-toa-xmm.webp"
 ```
 ^statblock
 

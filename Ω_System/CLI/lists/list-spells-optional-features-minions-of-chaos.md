@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 5th Level
 
-- [Conjure Elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB")
+- [Conjure Elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB")

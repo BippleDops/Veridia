@@ -45,11 +45,11 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
   - "charisma": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "16"
@@ -71,7 +71,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
       \nWith a touch, the phoenix can also ignite flammable objects that aren't worn\
       \ or carried (no action required)."
     "name": "Fire Form"
-  - "desc": "The phoenix doesn't provoke [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The phoenix doesn't provoke [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "The phoenix sheds bright light in a 60-foot radius and dim light for\
@@ -100,7 +100,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp"
 ```
 ^statblock
 

@@ -50,7 +50,7 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 10"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "7"
@@ -73,12 +73,12 @@ Since dhergoloths are little more than brutes, employers must use caution when i
     "name": "Teleport"
   - "desc": "The dhergoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 10):\n\
-      \nAt will: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [fear](/3-Mechanics/CLI/spells/fear-xphb.md)"
+      \nAt will: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [fear](/03_Mechanics/CLI/spells/fear-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/dhergoloth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/dhergoloth-mpmm.webp"
 ```
 ^statblock
 

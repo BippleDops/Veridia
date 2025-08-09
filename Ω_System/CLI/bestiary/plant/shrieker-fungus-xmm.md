@@ -44,19 +44,19 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "0"
 "reactions":
-  - "desc": "Trigger: A creature or a source of [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+  - "desc": "Trigger: A creature or a source of [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md)\
       \ moves within 30 feet of the shrieker. _Response:_ The shrieker emits a shriek\
       \ audible within 300 feet of itself for 1 minute or until the shrieker dies."
     "name": "Shriek"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/shrieker-fungus-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/shrieker-fungus-xmm.webp"
 ```
 ^statblock
 

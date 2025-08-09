@@ -63,10 +63,10 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "15"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 10-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the salamander takes 10 (3d6) Fire damage."
     "name": "Fire Aura"
-  - "desc": "The salamander has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The salamander has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -77,26 +77,26 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
       \ trident magically returns to the salamander's hand immediately after a ranged\
       \ attack."
     "name": "Flame Trident"
-  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 30-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 30-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
       \ centered on a point the salamander can see within 120 feet. Failure: 35\
-      \ (10d6) Fire damage, and the target starts [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md),\
+      \ (10d6) Fire damage, and the target starts [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md),\
       \ taking 5 (d10) Fire damage at the start of each of its turns instead of the\
-      \ normal [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md) damage. The\
-      \ target gains 1 [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) level\
-      \ whenever it takes this [burning](/3-Mechanics/CLI/traps-hazards/burning-xphb.md)\
+      \ normal [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md) damage. The\
+      \ target gains 1 [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) level\
+      \ whenever it takes this [burning](/03_Mechanics/CLI/traps-hazards/burning-xphb.md)\
       \ damage. Success: Half damage only."
     "name": "Inferno Blast (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The salamander moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack).\
-      \ During this movement, fire fills a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the salamander. When the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The salamander moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack).\
+      \ During this movement, fire fills a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the salamander. When the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ enters a creature's space, that creature takes 7 (2d6) Fire damage. A creature\
       \ can take this damage only once per turn."
     "name": "Blazing Movement"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-inferno-master-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/salamander-inferno-master-xmm.webp"
 ```
 ^statblock
 

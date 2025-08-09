@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Musket
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/musket.webp#right)
+![](/03_Mechanics/CLI/items/img/musket.webp#right)
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 500 gp
 - **Weight**: 10.0 lbs.
 

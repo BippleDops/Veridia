@@ -42,9 +42,9 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
@@ -60,26 +60,26 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ a DC 13 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it\
-      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of it for 1 minute. A [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ of it for 1 minute. A [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a target's save is successful or the\
       \ effect ends for it, the target is immune to any shadow mastiff's Terrifying\
       \ Howl for the next 24 hours."
     "name": "Terrifying Howl (Recharge 6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/3-Mechanics/CLI/conditions.md#Invisible),\
+  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/03_Mechanics/CLI/conditions.md#Invisible),\
       \ along with anything it is wearing or carrying. The invisibility lasts until\
       \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-      \ attacks, is in bright light, or is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ attacks, is in bright light, or is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)."
     "name": "Shadow Blend"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-alpha-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-alpha-mpmm.webp"
 ```
 ^statblock
 

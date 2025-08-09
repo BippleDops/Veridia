@@ -15,13 +15,13 @@ modified: 2025-07-23 12:39
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 97*  
 
-An iron pot is suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled before it can be used again. Filling the cauldron requires three [Utilize](/3-Mechanics/CLI/actions.md#Utilize) actions. Then a crew member can take the Spill action.
+An iron pot is suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled before it can be used again. Filling the cauldron requires three [Utilize](/03_Mechanics/CLI/actions.md#Utilize) actions. Then a crew member can take the Spill action.
 
-Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [green slime](/3-Mechanics/CLI/traps-hazards/green-slime-xdmg.md) (see ""Hazards""), with different effects.
+Cauldrons are typically filled with boiling oil but can be filled with other substances, such as acid or [green slime](/03_Mechanics/CLI/traps-hazards/green-slime-xdmg.md) (see ""Hazards""), with different effects.
 
 ```ad-statblock
 title: Suspended Cauldron
-![](/3-Mechanics/CLI/objects/token/suspended-cauldron-xdmg.webp#token)
+![](/03_Mechanics/CLI/objects/token/suspended-cauldron-xdmg.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19

@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Chapter 8: Bastions
 *Source: Dungeon Master's Guide (2024), p. 334* 
 
-![A Bastion by the sea is mo...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/194-10-001-bastion-by-the-sea.webp#center "A Bastion by the sea is more than just an adventurer's getaway A lot can happen here to fuel stories in the campaign")
+![A Bastion by the sea is mo...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/194-10-001-bastion-by-the-sea.webp#center "A Bastion by the sea is more than just an adventurer's getaway A lot can happen here to fuel stories in the campaign")
 
 A Bastion is a location that belongs to a player character: a home, a stronghold, and a place of power that the character develops over the course of a campaign. A Bastion offers a character temporary refuge from the dangerous world of adventuring, and it provides opportunities for a character to craft magic items, conduct research, harvest poisons, build ships, and carry out a range of other activities.
 
@@ -45,7 +45,7 @@ By default, a Bastion turn occurs every 7 days of in-game time. Here are common 
 
 You can slow the frequency of Bastion turns to better serve the needs of your players and your campaign. For example, if the characters have months between adventures, you can call for a Bastion turn every month instead of every 7 days, so the characters aren't issuing so many orders or reaping too many benefits at once.
 
-![A Rogue's Bastion on the o...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/195-10-002-rogue-bastion.webp#center "A Rogue's Bastion on the outskirts of town contains a Guildhall, a Pub, and more!")
+![A Rogue's Bastion on the o...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/195-10-002-rogue-bastion.webp#center "A Rogue's Bastion on the outskirts of town contains a Guildhall, a Pub, and more!")
 
 ## Bastion Map
 
@@ -66,7 +66,7 @@ Two or more players can combine their characters' Bastions into a single structu
 
 The amount of space in a basic or special facility determines its maximum area in 5-foot squares, as shown in the Facility Space table. A player can configure the squares of a facility as they please on their Bastion's map. The squares can be stacked so that a facility's area is distributed over multiple levels or stories.
 
-![Facility Space](/3-Mechanics/CLI/tables/facility-space-xdmg.md)
+![Facility Space](/03_Mechanics/CLI/tables/facility-space-xdmg.md)
 
 ## Basic Facilities
 
@@ -74,12 +74,12 @@ A character's Bastion starts with two free basic facilities, which the character
 
 ### Basic Facilities
 
-- [Bedroom](/3-Mechanics/CLI/bastions/bedroom.md)  
-- [Dining Room](/3-Mechanics/CLI/bastions/dining-room.md)  
-- [Parlor](/3-Mechanics/CLI/bastions/parlor.md)  
-- [Courtyard](/3-Mechanics/CLI/bastions/courtyard.md)  
-- [Kitchen](/3-Mechanics/CLI/bastions/kitchen.md)  
-- [Storage](/3-Mechanics/CLI/bastions/storage.md)  
+- [Bedroom](/03_Mechanics/CLI/bastions/bedroom.md)  
+- [Dining Room](/03_Mechanics/CLI/bastions/dining-room.md)  
+- [Parlor](/03_Mechanics/CLI/bastions/parlor.md)  
+- [Courtyard](/03_Mechanics/CLI/bastions/courtyard.md)  
+- [Kitchen](/03_Mechanics/CLI/bastions/kitchen.md)  
+- [Storage](/03_Mechanics/CLI/bastions/storage.md)  
 
 A basic facility comes with nonmagical furnishings and decor appropriate for that facility.
 
@@ -91,7 +91,7 @@ A character can add new basic facilities or enlarge existing ones by spending mo
 
 A character can add a basic facility to their Bastion by spending money and time. The cost of adding a basic facility and the time required depend on the facility's space, as shown on the table below.
 
-![Adding Basic Facilities](/3-Mechanics/CLI/tables/adding-basic-facilities-xdmg.md)
+![Adding Basic Facilities](/03_Mechanics/CLI/tables/adding-basic-facilities-xdmg.md)
 
 ### Enlarging Basic Facilities
 
@@ -99,7 +99,7 @@ There is no in-game benefit to enlarging a basic facility, but a character might
 
 A character can spend money and time to increase the space of a basic facility in their Bastion by one category, as shown on the table below.
 
-![Enlarging Basic Facilities](/3-Mechanics/CLI/tables/enlarging-basic-facilities-xdmg.md)
+![Enlarging Basic Facilities](/03_Mechanics/CLI/tables/enlarging-basic-facilities-xdmg.md)
 
 ## Special Facilities
 
@@ -109,11 +109,11 @@ Unlike basic facilities, special facilities can't be bought; a character gains t
 
 Each time a character gains a level, that character can replace one of their Bastion's special facilities with another for which the character qualifies.
 
-![Special Facilities; Special Facility Acquisition](/3-Mechanics/CLI/tables/special-facilities-special-facility-acquisition-xdmg.md)
+![Special Facilities; Special Facility Acquisition](/03_Mechanics/CLI/tables/special-facilities-special-facility-acquisition-xdmg.md)
 
 ### Requirements
 
-Each special facility has a level. A character must be that level or higher to gain that facility. A special facility might also have a prerequisite the character must meet to gain that facility. For example, only a character who can use an Arcane Focus or a tool as a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) can have an "Arcane Study".
+Each special facility has a level. A character must be that level or higher to gain that facility. A special facility might also have a prerequisite the character must meet to gain that facility. For example, only a character who can use an Arcane Focus or a tool as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) can have an "Arcane Study".
 
 ### Space
 
@@ -129,7 +129,7 @@ Each special facility in a Bastion generates enough income to pay the salary of 
 
 On a Bastion turn, a character in their Bastion can issue special orders—called Bastion orders—to one or more of their Bastion's special facilities. A character needn't issue orders to all the special facilities in their Bastion on a given Bastion turn.
 
-The Maintain order is unusual; it is issued to the whole Bastion rather than to one or more special facilities. If a character isn't in their Bastion on a given Bastion turn, the Bastion acts as though it were issued the Maintain order on that turn unless the owner can communicate with the Bastion hirelings using the [Sending](/3-Mechanics/CLI/spells/sending-xphb.md) spell or similar magic.
+The Maintain order is unusual; it is issued to the whole Bastion rather than to one or more special facilities. If a character isn't in their Bastion on a given Bastion turn, the Bastion acts as though it were issued the Maintain order on that turn unless the owner can communicate with the Bastion hirelings using the [Sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell or similar magic.
 
 The orders are as follows:
 
@@ -147,7 +147,7 @@ Hirelings gather a resource produced in the special facility. During the time re
 
 #### Maintain
 
-![A Bastion grows over time](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/196-10-004-bastions-over-time.webp#center)
+![A Bastion grows over time](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/196-10-004-bastions-over-time.webp#center)
 
 All the Bastion's hirelings focus on maintaining the Bastion rather than executing orders in special facilities. Issuing this order prohibits other orders from being issued to the Bastion on the current Bastion turn. Each time the Maintain order is issued, the DM rolls once on the "Bastion Events" table at the end of this chapter. Bastion events are resolved before the next Bastion turn.
 
@@ -167,96 +167,96 @@ Hirelings buy and sell goods or services stored or produced in this special faci
 
 Special facilities are presented in alphabetical order. The Special Facilities table lists all the special facilities presented in this section, along with their prerequisites and orders. Some facilities confer additional benefits, specified in their descriptions.
 
-![Special Facility Descriptions; Special Facilities](/3-Mechanics/CLI/tables/special-facility-descriptions-special-facilities-xdmg.md)
+![Special Facility Descriptions; Special Facilities](/03_Mechanics/CLI/tables/special-facility-descriptions-special-facilities-xdmg.md)
 
-![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/197-10-003-key.webp#center)
+![](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/197-10-003-key.webp#center)
 
 > [!embed-facility]- Arcane Study
-> ![Arcane Study](/3-Mechanics/CLI/bastions/arcane-study.md)
+> ![Arcane Study](/03_Mechanics/CLI/bastions/arcane-study.md)
 
 > [!embed-facility]- Archive
-> ![Archive](/3-Mechanics/CLI/bastions/archive.md)
+> ![Archive](/03_Mechanics/CLI/bastions/archive.md)
 
 > [!embed-facility]- Armory
-> ![Armory](/3-Mechanics/CLI/bastions/armory.md)
+> ![Armory](/03_Mechanics/CLI/bastions/armory.md)
 
 > [!embed-facility]- Barrack
-> ![Barrack](/3-Mechanics/CLI/bastions/barrack.md)
+> ![Barrack](/03_Mechanics/CLI/bastions/barrack.md)
 
 > [!embed-facility]- Demiplane
-> ![Demiplane](/3-Mechanics/CLI/bastions/demiplane.md)
+> ![Demiplane](/03_Mechanics/CLI/bastions/demiplane.md)
 
 > [!embed-facility]- Gaming Hall
-> ![Gaming Hall](/3-Mechanics/CLI/bastions/gaming-hall.md)
+> ![Gaming Hall](/03_Mechanics/CLI/bastions/gaming-hall.md)
 
 > [!embed-facility]- Garden
-> ![Garden](/3-Mechanics/CLI/bastions/garden.md)
+> ![Garden](/03_Mechanics/CLI/bastions/garden.md)
 
 > [!embed-facility]- Greenhouse
-> ![Greenhouse](/3-Mechanics/CLI/bastions/greenhouse.md)
+> ![Greenhouse](/03_Mechanics/CLI/bastions/greenhouse.md)
 
 > [!embed-facility]- Guildhall
-> ![Guildhall](/3-Mechanics/CLI/bastions/guildhall.md)
+> ![Guildhall](/03_Mechanics/CLI/bastions/guildhall.md)
 
 > [!embed-facility]- Laboratory
-> ![Laboratory](/3-Mechanics/CLI/bastions/laboratory.md)
+> ![Laboratory](/03_Mechanics/CLI/bastions/laboratory.md)
 
 > [!embed-facility]- Library
-> ![Library](/3-Mechanics/CLI/bastions/library.md)
+> ![Library](/03_Mechanics/CLI/bastions/library.md)
 
 > [!embed-facility]- Meditation Chamber
-> ![Meditation Chamber](/3-Mechanics/CLI/bastions/meditation-chamber.md)
+> ![Meditation Chamber](/03_Mechanics/CLI/bastions/meditation-chamber.md)
 
 > [!embed-facility]- Menagerie
-> ![Menagerie](/3-Mechanics/CLI/bastions/menagerie.md)
+> ![Menagerie](/03_Mechanics/CLI/bastions/menagerie.md)
 
 > [!embed-facility]- Observatory
-> ![Observatory](/3-Mechanics/CLI/bastions/observatory.md)
+> ![Observatory](/03_Mechanics/CLI/bastions/observatory.md)
 
 > [!embed-facility]- Pub
-> ![Pub](/3-Mechanics/CLI/bastions/pub.md)
+> ![Pub](/03_Mechanics/CLI/bastions/pub.md)
 
 > [!embed-facility]- Reliquary
-> ![Reliquary](/3-Mechanics/CLI/bastions/reliquary.md)
+> ![Reliquary](/03_Mechanics/CLI/bastions/reliquary.md)
 
 > [!embed-facility]- Sacristy
-> ![Sacristy](/3-Mechanics/CLI/bastions/sacristy.md)
+> ![Sacristy](/03_Mechanics/CLI/bastions/sacristy.md)
 
 > [!embed-facility]- Sanctuary
-> ![Sanctuary](/3-Mechanics/CLI/bastions/sanctuary.md)
+> ![Sanctuary](/03_Mechanics/CLI/bastions/sanctuary.md)
 
 > [!embed-facility]- Sanctum
-> ![Sanctum](/3-Mechanics/CLI/bastions/sanctum.md)
+> ![Sanctum](/03_Mechanics/CLI/bastions/sanctum.md)
 
 > [!embed-facility]- Scriptorium
-> ![Scriptorium](/3-Mechanics/CLI/bastions/scriptorium.md)
+> ![Scriptorium](/03_Mechanics/CLI/bastions/scriptorium.md)
 
 > [!embed-facility]- Smithy
-> ![Smithy](/3-Mechanics/CLI/bastions/smithy.md)
+> ![Smithy](/03_Mechanics/CLI/bastions/smithy.md)
 
 > [!embed-facility]- Stable
-> ![Stable](/3-Mechanics/CLI/bastions/stable.md)
+> ![Stable](/03_Mechanics/CLI/bastions/stable.md)
 
 > [!embed-facility]- Storehouse
-> ![Storehouse](/3-Mechanics/CLI/bastions/storehouse.md)
+> ![Storehouse](/03_Mechanics/CLI/bastions/storehouse.md)
 
 > [!embed-facility]- Teleportation Circle
-> ![Teleportation Circle](/3-Mechanics/CLI/bastions/teleportation-circle.md)
+> ![Teleportation Circle](/03_Mechanics/CLI/bastions/teleportation-circle.md)
 
 > [!embed-facility]- Theater
-> ![Theater](/3-Mechanics/CLI/bastions/theater.md)
+> ![Theater](/03_Mechanics/CLI/bastions/theater.md)
 
 > [!embed-facility]- Training Area
-> ![Training Area](/3-Mechanics/CLI/bastions/training-area.md)
+> ![Training Area](/03_Mechanics/CLI/bastions/training-area.md)
 
 > [!embed-facility]- Trophy Room
-> ![Trophy Room](/3-Mechanics/CLI/bastions/trophy-room.md)
+> ![Trophy Room](/03_Mechanics/CLI/bastions/trophy-room.md)
 
 > [!embed-facility]- War Room
-> ![War Room](/3-Mechanics/CLI/bastions/war-room.md)
+> ![War Room](/03_Mechanics/CLI/bastions/war-room.md)
 
 > [!embed-facility]- Workshop
-> ![Workshop](/3-Mechanics/CLI/bastions/workshop.md)
+> ![Workshop](/03_Mechanics/CLI/bastions/workshop.md)
 
 ## Bastion Events
 
@@ -264,7 +264,7 @@ Immediately after a character issues the "Maintain" order to their Bastion, the 
 
 Bastion events occur only when a Bastion is operating under the Maintain order, which often means that the Bastion's owner isn't present in the Bastion at the time. That means these events can be opportunities for the player to take on the role of the Bastion's hirelings and roleplay their reactions to these events. The DM can even turn a Bastion event into a cutscene where each player takes on the role of one of the Bastion's hirelings (under the guidance of the player whose character owns the Bastion).
 
-![Bastion Events](/3-Mechanics/CLI/tables/bastion-events-xdmg.md)
+![Bastion Events](/03_Mechanics/CLI/tables/bastion-events-xdmg.md)
 
 ### Event Descriptions
 
@@ -274,7 +274,7 @@ The events from the Bastion Events table are detailed here in alphabetical order
 
 Nothing significant happens. Roll on the following table, fleshing out the details as you see fit.
 
-![All Is Well](/3-Mechanics/CLI/tables/all-is-well-xdmg.md)
+![All Is Well](/03_Mechanics/CLI/tables/all-is-well-xdmg.md)
 
 > [!note] Bastion Tracker
 > 
@@ -295,7 +295,7 @@ One of your Bastion's hirelings has a criminal past that comes to light when off
 
 #### Extraordinary Opportunity
 
-![A hero's Bastion hosts a s...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/202-10-009-spring-festival.webp#center "A hero's Bastion hosts a spring festival to which everyone is invited")
+![A hero's Bastion hosts a s...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/202-10-009-spring-festival.webp#center "A hero's Bastion hosts a spring festival to which everyone is invited")
 
 Your Bastion is given the opportunity to host an important festival or celebration, fund the research of a powerful spellcaster, or appease a domineering noble. Work with the DM to determine the details.
 
@@ -311,7 +311,7 @@ Friendly visitors come to your Bastion, seeking to use one of your special facil
 
 A Friendly guest comes to stay at your Bastion. Determine the guest by rolling on the following table, and work with your DM to flesh out the details.
 
-![Guest](/3-Mechanics/CLI/tables/guest-xdmg.md)
+![Guest](/03_Mechanics/CLI/tables/guest-xdmg.md)
 
 #### Lost Hirelings
 
@@ -333,7 +333,7 @@ Your Bastion is called on to help a local leader. Perhaps there's a search on fo
 
 Your Bastion acquires an art object or a magic item determined by rolling on the table below and then rolling on the specified table in "chapter 7". How the Bastion acquires this treasure is up to you. It might represent an inheritance, a gift from a guest or an admirer, a theft, or a fortunate discovery. If you're in the Bastion, you can claim the treasure immediately; otherwise, it is placed in storage until you can claim it.
 
-![Treasure](/3-Mechanics/CLI/tables/treasure-xdmg.md)
+![Treasure](/03_Mechanics/CLI/tables/treasure-xdmg.md)
 
 ## Fall of a Bastion
 
@@ -341,8 +341,8 @@ A player character can lose their Bastion in the following ways:
 
 - **Divestiture.** A character can give up their Bastion anytime, releasing the Bastion's hirelings and abandoning the location. The divested Bastion is quickly vacated, is eventually looted, and might even be burned to the ground.  
 - **Neglect.** If a character issues no orders to their Bastion for a number of consecutive Bastion turns equal to the character's level (typically because the character is dead or otherwise out of commission), the hirelings abandon the Bastion and the site is eventually looted. If the character returns later, they can start a new Bastion, perhaps building it amid the ruins of the old one.  
-- **Ruination.** Drawing the Ruin card from the [Deck of Many Things](/3-Mechanics/CLI/items/deck-of-many-things-xdmg.md) (as described in "chapter 7") instantly deprives a character of their Bastion. When such an event occurs, the player can decide what terrible fate befalls the Bastion. The Bastion might be sacked by enemies or destroyed by an earthquake, for example.  
+- **Ruination.** Drawing the Ruin card from the [Deck of Many Things](/03_Mechanics/CLI/items/deck-of-many-things-xdmg.md) (as described in "chapter 7") instantly deprives a character of their Bastion. When such an event occurs, the player can decide what terrible fate befalls the Bastion. The Bastion might be sacked by enemies or destroyed by an earthquake, for example.  
 
 Regardless of how the Bastion falls, the player can work with the DM to establish a new Bastion and determine how it comes into being. Use the "Special Facility Acquisition" table to determine how many special facilities come with it. The new Bastion also starts with two basic facilities (one Cramped and one Roomy) of the player's choice.
 
-![Download PDF](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/203-10-010-bastion-tracker-sheet.webp#center)
+![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/203-10-010-bastion-tracker-sheet.webp#center)

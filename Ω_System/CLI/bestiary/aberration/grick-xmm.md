@@ -48,7 +48,7 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": ""
@@ -59,12 +59,12 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Piercing damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 12) from all four tentacles."
     "name": "Tentacles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
 ```
 ^statblock
 

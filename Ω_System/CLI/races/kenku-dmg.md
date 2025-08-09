@@ -22,11 +22,11 @@ modified: 2025-07-23 12:39
 
 ### Ambusher
 
-In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/3-Mechanics/CLI/conditions.md#Surprised).
+In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/03_Mechanics/CLI/conditions.md#Surprised).
 
 ### Mimicry
 
-You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check.
+You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check.
 
 ### Languages
 

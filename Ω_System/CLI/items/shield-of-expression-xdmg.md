@@ -14,12 +14,12 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Shield of Expression
-*Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), common*  
+*Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md)), common*  
 
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to alter the face's expression.
+The front of this Shield is shaped in the likeness of a face. While bearing the Shield, you can take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to alter the face's expression.
 
 *Source: Dungeon Master's Guide (2024) p. 303*

@@ -30,7 +30,7 @@ aliases:
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
@@ -46,13 +46,13 @@ aliases:
       \ mood:\n\n- Fuming. The spirit has Advantage on the next attack roll it\
       \ makes before the end of this turn.  \n- Mirthful. Wisdom Saving Throw:\
       \ DC equals your spell save DC, one creature the spirit can see within 10 feet\
-      \ of itself. Failure: The target is [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ of itself. Failure: The target is [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ by you and the spirit for 1 minute or until the target takes any damage. \
       \ \n- Tricksy. The spirit fills a 10-foot Cube within 5 feet of it with\
       \ magical Darkness, which lasts until the end of its next turn.  "
     "name": "Fey Step"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/fey-spirit-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/fey-spirit-xphb.webp"
 ```
 ^statblock

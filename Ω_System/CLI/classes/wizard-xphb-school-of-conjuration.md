@@ -73,7 +73,7 @@ Once you use this feature, you can't use it again until you finish a long rest o
 
 ### Focused Conjuration (Level 10)
 
-Beginning at 10th level, while you are [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a conjuration spell, your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) can't be broken as a result of taking damage.
+Beginning at 10th level, while you are [concentrating](/03_Mechanics/CLI/conditions.md#Concentration) on a conjuration spell, your [concentration](/03_Mechanics/CLI/conditions.md#Concentration) can't be broken as a result of taking damage.
 
 ### Durable Summons (Level 14)
 

@@ -60,7 +60,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
   - "desc": "The merrow makes two attacks, using Bite, Claw, or Harpoon in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage,\
-      \ and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition until the end of the merrow's next turn."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 9 (2d4 + 4) Slashing damage."
@@ -71,7 +71,7 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
     "name": "Harpoon"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/merrow-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/merrow-xmm.webp"
 ```
 ^statblock
 

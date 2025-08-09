@@ -45,7 +45,7 @@ A Strahd zombie doesn't require air or sleep.
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
@@ -61,10 +61,10 @@ A Strahd zombie doesn't require air or sleep.
       \ of 5 feet.\n\nA severed arm has a speed of 5 feet and can make one claw attack\
       \ on its turn, with disadvantage on the attack roll. Each time the zombie loses\
       \ an arm, it loses a claw attack.\n\nIf its head is severed, the zombie loses\
-      \ its bite attack and its body is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ its bite attack and its body is [blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
       \ unless the head can see it. The severed head has a speed of 0 feet. It can\
       \ make a bite attack, but only against a target in its space.\n\nThe zombie's\
-      \ speed is halved if it's missing a leg. If it loses both legs, it falls [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+      \ speed is halved if it's missing a leg. If it loses both legs, it falls [prone](/03_Mechanics/CLI/conditions.md#Prone).\
       \ If it has both arms, it can crawl. With only one arm, it can still crawl,\
       \ but its speed is halved. With no arms or legs, its speed is 0 feet, and it\
       \ can't benefit from bonuses to speed."
@@ -80,6 +80,6 @@ A Strahd zombie doesn't require air or sleep.
     "name": "Claw"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/strahd-zombie-cos.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/strahd-zombie-cos.webp"
 ```
 ^statblock

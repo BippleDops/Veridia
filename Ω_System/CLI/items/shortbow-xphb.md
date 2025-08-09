@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Shortbow
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/shortbow.webp#right)
+![](/03_Mechanics/CLI/items/img/shortbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

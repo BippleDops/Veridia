@@ -22,6 +22,6 @@ modified: 2025-07-23 12:39
 
 - **Ability.** Intelligence  
 - **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [Basic Poison](/3-Mechanics/CLI/items/basic-poison-xphb.md)  
+- **Craft.** [Basic Poison](/03_Mechanics/CLI/items/basic-poison-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

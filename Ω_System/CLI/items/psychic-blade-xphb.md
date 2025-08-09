@@ -20,6 +20,6 @@ modified: 2025-07-23 12:39
 
 - **Damage**: 1d6 psychic
 - **Range**: 60/120
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 
 *Source: Player's Handbook (2024) p. 136*

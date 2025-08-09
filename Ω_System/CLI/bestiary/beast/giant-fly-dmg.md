@@ -36,6 +36,6 @@ aliases:
 "languages": ""
 "source":
   - "DMG"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-fly-dmg.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-fly-dmg.webp"
 ```
 ^statblock

@@ -70,23 +70,23 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+6"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)),\
   \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -95,13 +95,13 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 13 (2d8 + 4) Slashing damage."
     "name": "Claw"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 15 (2d10 + 4) Piercing damage\
-      \ plus 18 (4d8) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the start of the devil's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ plus 18 (4d8) Poison damage, and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the start of the devil's next turn. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+      \ the target can't regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
     "name": "Infernal Sting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/bone-devil-xmm.webp"
 ```
 ^statblock
 

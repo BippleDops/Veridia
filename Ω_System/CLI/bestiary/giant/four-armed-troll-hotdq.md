@@ -36,13 +36,13 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Giant"
 "cr": "6"
 "traits":
-  - "desc": "The troll has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The troll has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
@@ -63,6 +63,6 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
     "name": "Claw"
 "source":
   - "HotDQ"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/four-armed-troll-hotdq.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/four-armed-troll-hotdq.webp"
 ```
 ^statblock

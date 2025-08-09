@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Freedom of Movement](/3-Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB")
+- [Freedom of Movement](/03_Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB")

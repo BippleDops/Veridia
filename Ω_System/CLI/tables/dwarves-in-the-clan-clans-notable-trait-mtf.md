@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 | dice: d10 | Trait |
 |-----------|-------|
 | 1 | Founder was one of the greatest artisans in history |
-| 2 | Clan owns a powerful artifact, such as an [Axe of the Dwarvish Lords](/3-Mechanics/CLI/items/axe-of-the-dwarvish-lords-xdmg.md) |
+| 2 | Clan owns a powerful artifact, such as an [Axe of the Dwarvish Lords](/03_Mechanics/CLI/items/axe-of-the-dwarvish-lords-xdmg.md) |
 | 3 | Clan noted for expertise in a specific craft, such as brewing or armorsmithing |
 | 4 | Clan has a sinister reputation, history plagued by scandal and mark of Abbathor |
 | 5 | Militaristic clan, known for excellent fighting skills |

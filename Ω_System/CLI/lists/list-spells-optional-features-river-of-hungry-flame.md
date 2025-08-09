@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB")
+- [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md "XPHB")

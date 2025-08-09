@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Introduction
 *Source: Curse of Strahd, p. 5* 
 
-Under raging storm clouds, a lone figure stands silhouetted against the ancient walls of Castle Ravenloft. The vampire Count [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stares down a sheer cliff at the village below. A cold, bitter wind spins dead leaves about him, billowing his cape in the darkness.
+Under raging storm clouds, a lone figure stands silhouetted against the ancient walls of Castle Ravenloft. The vampire Count [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stares down a sheer cliff at the village below. A cold, bitter wind spins dead leaves about him, billowing his cape in the darkness.
 
 Lightning splits the clouds overhead, casting stark white light across him. Strahd turns to the sky, revealing the angular muscles of his face and hands. He has a look of power—and of madness. His once handsome face is contorted by a tragedy darker than the night itself.
 
@@ -46,25 +46,25 @@ Spells and nonmagical equipment mentioned in the adventure are described in the 
 
 ### Story Overview
 
-Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), a vampire and wizard. Using a [deck of tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-cos.md) to predict their future, a fortune-teller named [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) sets them on a dark course that takes them to many corners of Barovia, culminating with a vampire hunt in Castle Ravenloft.
+Adventurers from a foreign land find themselves in Barovia, a mysterious realm surrounded by deadly fog and ruled by [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), a vampire and wizard. Using a [deck of tarokka cards](/03_Mechanics/CLI/decks/tarokka-deck-cos.md) to predict their future, a fortune-teller named [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) sets them on a dark course that takes them to many corners of Barovia, culminating with a vampire hunt in Castle Ravenloft.
 
-[Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s people are called the Vistani. They travel in covered wagons from world to world, luring strangers into Strahd's domain.
+[Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s people are called the Vistani. They travel in covered wagons from world to world, luring strangers into Strahd's domain.
 
 Barovia is a land of ghosts, werewolves, and other fell creatures. The wilderness hides many secrets, including forgotten ruins and battlefields that tell the story of Strahd's life as a conqueror. Adventurers who explore the wilderness find the remnants of Strahd's ancient enemies, not all of them as dead as one might expect.
 
 For the people of Barovia, there is no escape from this harsh land. The town of Vallaki stands ready to defend itself against the servants of Strahd, but it's far from the sanctuary it purports to be. The village of Krezk lies near the edge of Strahd's domain, its abbey now in the clutches of evil, misguided creatures.
 
-Of all the settlements in Strahd's domain, the village of Barovia is by far the most oppressed. Many of its shops are closed, and the locals have succumbed to despair. It is well known that Strahd desires the burgomaster's adopted daughter, [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md). The villagers neither protect nor harm her, lest they incur the vampire's wrath. Few know that Ireena bears an uncanny resemblance to Tatyana, Strahd's dead beloved.
+Of all the settlements in Strahd's domain, the village of Barovia is by far the most oppressed. Many of its shops are closed, and the locals have succumbed to despair. It is well known that Strahd desires the burgomaster's adopted daughter, [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md). The villagers neither protect nor harm her, lest they incur the vampire's wrath. Few know that Ireena bears an uncanny resemblance to Tatyana, Strahd's dead beloved.
 
 The village of Barovia cowers in the shadow of Castle Ravenloft, Strahd's home and fortress. The castle stands atop a great spire of rock, invincible and ever watchful. Every night, thousands of bats fly out of the castle to feed. It is said that Strahd sometimes flies with them. Barovia will never be safe until the evil in his castle is destroyed.
 
 Once Strahd becomes aware of the adventurers, he and his spies watch them closely. When the time is right, Strahd invites his "guests" to Castle Ravenloft. He aims to turn them against one another, torment them, and kill them, as he has done with so many other visitors. Some will become undead thralls. Others will never rise again.
 
-The adventurers' best hope of defeating Strahd is to learn his secrets, for he is no ordinary vampire. Guided by [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s card reading, they must scour his domain and his castle for magic items that might weaken or slay him, all the while trying to stay alive.
+The adventurers' best hope of defeating Strahd is to learn his secrets, for he is no ordinary vampire. Guided by [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s card reading, they must scour his domain and his castle for magic items that might weaken or slay him, all the while trying to stay alive.
 
 Although the adventurers can escape by slaying Strahd, he can't be truly destroyed. Barovia is his prison, and not even death can free him from his curse.
 
-The adventure ends when either [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) or the characters are defeated. Your goal is to keep Strahd in play for as long as possible, using all the abilities and resources at his disposal.
+The adventure ends when either [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) or the characters are defeated. Your goal is to keep Strahd in play for as long as possible, using all the abilities and resources at his disposal.
 
 ### Adventure Structure
 
@@ -74,7 +74,7 @@ Chapter 1 also outlines Strahd's goals, and it suggests adventure hooks to draw 
 
 Chapter 2, "The Lands of Barovia," provides an overview of the realm and includes special rules for it and its people, including the mysterious Vistani. Chapters 3–15 detail areas that correspond to places on the map of Barovia in chapter 2.
 
-The epilogue offers ways for you to end the adventure. Appendix C details the special items—magical or otherwise—introduced in the adventure, and appendix D provides stat blocks for Strahd and various NPCs and monsters that can be met in Barovia. Appendix E shows the [tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-cos.md) that the Vistani use for their fortune telling, and appendix F contains handouts for you to show the players.
+The epilogue offers ways for you to end the adventure. Appendix C details the special items—magical or otherwise—introduced in the adventure, and appendix D provides stat blocks for Strahd and various NPCs and monsters that can be met in Barovia. Appendix E shows the [tarokka cards](/03_Mechanics/CLI/decks/tarokka-deck-cos.md) that the Vistani use for their fortune telling, and appendix F contains handouts for you to show the players.
 
 ### Character Levels
 
@@ -82,9 +82,9 @@ The adventure is meant for characters of levels 1–10 and includes threats for 
 
 You can award experience points for the defeat of foes, use milestone awards, or a mixture of both. Given the fact that much of the adventure involves social interaction and exploration, rather than combat, your work will probably be easier if you use milestone awards. Appropriate milestone awards include the following:
 
-- **Finding Artifacts.** The characters gain a level when they obtain the Tome of Strahd, the [Sunsword](/3-Mechanics/CLI/items/sunsword-cos.md), or the [Holy Symbol of Ravenkind](/3-Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md).  
+- **Finding Artifacts.** The characters gain a level when they obtain the Tome of Strahd, the [Sunsword](/03_Mechanics/CLI/items/sunsword-cos.md), or the [Holy Symbol of Ravenkind](/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md).  
 - **Defeating Villains.** The characters gain a level when they defeat the featured antagonist(s) in a location, such as the hags in Old Bonegrinder (chapter 6).  
-- **Accomplishing Story Goals.** The characters gain a level when they accomplish something significant, such lighting the beacon of Argynvostholt (chapter 7), thwarting the druids' ritual atop Yester Hill (chapter 14), or forging an alliance with [Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (appendix D).  
+- **Accomplishing Story Goals.** The characters gain a level when they accomplish something significant, such lighting the beacon of Argynvostholt (chapter 7), thwarting the druids' ritual atop Yester Hill (chapter 14), or forging an alliance with [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (appendix D).  
 
 Appendix B, "Death House," uses milestone awards by way of example.
 
@@ -157,7 +157,7 @@ Ascribing human characteristics to an inanimate thing is one way to turn somethi
 In a horror story, there's no telling where danger might be lurking. A leering gargoyle might be a monster in disguise, or merely a fiendish sculpture. A mirror hanging on a wall might have the power to transfix all who gaze into it, or it might be nothing out of the ordinary. In a horror story, taking the time to describe an object in detail draws attention to it, makes one suspicious of it, and might distract from the real danger. Here are a couple of tricks you can use:
 
 - In a given encounter area, choose one object or feature to describe in some detail. It need not be important to the story.  
-- Allow the character who has the highest passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score to see, hear, or smell something that no one else can perceive.  
+- Allow the character who has the highest passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score to see, hear, or smell something that no one else can perceive.  
 
 ### Humor
 

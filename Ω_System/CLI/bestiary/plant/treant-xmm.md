@@ -78,14 +78,14 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
   - "desc": "The treant magically animates up to two trees it can see within 60 feet\
       \ of itself. Each tree uses the Treant stat block, except it has Intelligence\
       \ and Charisma scores of 1, it can't speak, and it lacks this action. The tree\
-      \ takes its turn immediately after the treant on the same [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
+      \ takes its turn immediately after the treant on the same [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md)\
       \ count, and it obeys the treant. A tree remains animate for 1 day or until\
       \ it dies, the treant dies, or it is more than 120 feet from the treant. The\
       \ tree then takes root if possible."
     "name": "Animate Trees (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/treant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/treant-xmm.webp"
 ```
 ^statblock
 

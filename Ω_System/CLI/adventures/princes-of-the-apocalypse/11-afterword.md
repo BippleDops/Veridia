@@ -22,8 +22,8 @@ modified: 2025-07-23 12:39
 ^7c7
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/141-a-01.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/142-a-02.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/143-a-03.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/144-a-04.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/145-a-05.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/141-a-01.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/142-a-02.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/143-a-03.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/144-a-04.webp#gallery)
+> ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/145-a-05.webp#gallery)

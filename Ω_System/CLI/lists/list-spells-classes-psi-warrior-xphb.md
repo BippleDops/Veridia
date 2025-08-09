@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 5th Level
 
-- [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 18
+- [Telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 18

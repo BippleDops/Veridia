@@ -54,16 +54,16 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": "Yeti"
 "cr": "9"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
@@ -77,17 +77,17 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
       \ damage plus 7 (2d6) Cold damage."
     "name": "Ice Throw"
   - "desc": "Constitution Saving Throw: DC 18, one creature the yeti can see within\
-      \ 30 feet. Failure: 21 (6d6) Cold damage, and the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ condition until the start of the yeti's next turn unless the target has [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+      \ 30 feet. Failure: 21 (6d6) Cold damage, and the target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ condition until the start of the yeti's next turn unless the target has [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md)\
       \ to Cold damage. Success: The target is immune to this yeti's Chilling Gaze\
       \ for 1 hour."
     "name": "Chilling Gaze"
-  - "desc": "Constitution Saving Throw: DC 18, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 18, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: 45 (10d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
 ```
 ^statblock
 

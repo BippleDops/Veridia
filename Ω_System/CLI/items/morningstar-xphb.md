@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Morningstar
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/morningstar.webp#right)
+![](/03_Mechanics/CLI/items/img/morningstar.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Cost**: 15 gp

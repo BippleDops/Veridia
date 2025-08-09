@@ -50,7 +50,7 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
   - !!int "3"
 "speed": "5 ft., climb 15 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
 "languages": ""
@@ -68,7 +68,7 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
     "name": "Drop"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/piercer-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/piercer-xmm.webp"
 ```
 ^statblock
 

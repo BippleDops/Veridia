@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 9th Level
 
-- [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")
+- [Astral Projection](/03_Mechanics/CLI/spells/astral-projection-xphb.md "XPHB")

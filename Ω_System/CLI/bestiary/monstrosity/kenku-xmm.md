@@ -48,11 +48,11 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Primordial (Auran)"
@@ -60,7 +60,7 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
 "traits":
   - "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
       \ that hears the sounds can tell they are imitations with a successful DC 14\
-      \ Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check."
     "name": "Mimicry"
 "actions":
   - "desc": "Melee  or Ranged Attack Roll: +5, reach 5 ft. or range 60 ft. Hit:\
@@ -68,12 +68,12 @@ The curse affecting kenku allows them to vocally communicate only by mimicking s
       \ the kenku's hand immediately after a ranged attack."
     "name": "Shadow Blade"
 "bonus_actions":
-  - "desc": "The kenku casts [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+  - "desc": "The kenku casts [Faerie Fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md),\
       \ using Intelligence as the spellcasting ability (spell save DC 10).\n"
     "name": "Eldritch Lantern (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/kenku-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/kenku-xmm.webp"
 ```
 ^statblock
 

@@ -13,8 +13,8 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Augury](/3-Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 10
+- [Augury](/03_Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 10
 
 ## 3rd Level
 
-- [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 10
+- [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 10

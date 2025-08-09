@@ -31,10 +31,10 @@ modified: 2025-07-23 12:39
 - **Components:** V, S, M (a sprig of mistletoe)
 - **Duration:** 24 hours
 
-Ten berries appear in your hand and are infused with magic for the duration. A creature can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to eat one berry. Eating a berry restores 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), and the berry provides enough nourishment to sustain a creature for one day.
+Ten berries appear in your hand and are infused with magic for the duration. A creature can take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to eat one berry. Eating a berry restores 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), and the berry provides enough nourishment to sustain a creature for one day.
 
 Uneaten berries disappear when the spell ends.
 
-**Classes**: [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+**Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

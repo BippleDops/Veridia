@@ -25,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](/03_Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "0"
@@ -39,8 +39,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Terran, one language of its creator's choice"
 "cr": "7"
@@ -52,11 +52,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     "name": "Maul"
   - "desc": "The myrmidon makes one Maul attack. On a hit, the target takes an extra\
       \ 22 (4d10) thunder damage, and the target must succeed on a DC 14 Strength\
-      \ saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Thunderous Strike (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-myrmidon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/earth-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

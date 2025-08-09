@@ -63,8 +63,8 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 "speed": "30 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1"
@@ -73,13 +73,13 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
       \ (2d8 + 2) piercing damage."
     "name": "Bite"
   - "desc": "The demon vomits in a 15-foot cube. Each creature in that area must succeed\
-      \ on a DC 11 Dexterity saving throw or take 11 (2d10) acid damage and fall [prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ on a DC 11 Dexterity saving throw or take 11 (2d10) acid damage and fall [prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ in the spew."
     "name": "Disgorge (Recharge 6)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/maw-demon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/maw-demon-mpmm.webp"
 ```
 ^statblock
 

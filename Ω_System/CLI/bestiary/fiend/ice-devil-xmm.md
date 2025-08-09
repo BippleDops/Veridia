@@ -61,23 +61,23 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)"
     "desc": "+9"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 120 ft., passive Perception 17"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "14"
 "traits":
   - "desc": "If the devil dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -86,8 +86,8 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +10, reach 5 ft. or range 30/120 ft.\
       \ Hit: 14 (2d8 + 5) Piercing damage plus 10 (3d6) Cold damage. Until the end\
-      \ of its next turn, the target can't take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
-      \ or [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md), its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ of its next turn, the target can't take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ or [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md), its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
       \ decreases by 10 feet, and it can move or take one action on its turn, not\
       \ both. Hit or Miss: The spear magically returns to the devil's hand immediately\
       \ after a ranged attack."
@@ -95,13 +95,13 @@ Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (3d6 + 5) Bludgeoning\
       \ damage plus 18 (4d8) Cold damage."
     "name": "Tail"
-  - "desc": "The devil casts [Wall of Ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\
+  - "desc": "The devil casts [Wall of Ice](/03_Mechanics/CLI/spells/wall-of-ice-xphb.md)\
       \ (level 8 version), requiring no spell components and using Intelligence as\
       \ the spellcasting ability (spell save DC 17).\n"
     "name": "Ice Wall (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/ice-devil-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/ice-devil-xmm.webp"
 ```
 ^statblock
 

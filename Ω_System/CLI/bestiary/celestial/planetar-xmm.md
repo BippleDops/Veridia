@@ -66,11 +66,11 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all; telepathy 120 ft."
 "cr": "16"
@@ -78,10 +78,10 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "The planetar knows if it hears a lie."
     "name": "Divine Awareness"
   - "desc": "If the planetar dies outside Mount Celestia, its body disappears, and\
-      \ it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The planetar has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The planetar has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -90,26 +90,26 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "Melee Attack Roll: +12, reach 10 ft. Hit: 14 (2d6 + 7) Slashing damage\
       \ plus 18 (4d8) Radiant damage."
     "name": "Radiant Sword"
-  - "desc": "Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
+  - "desc": "Dexterity Saving Throw: DC 20, each enemy in a 20-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md)\
       \ centered on a point the planetar can see within 120 feet. Failure: 24 (7d6)\
       \ Radiant damage. Success: Half damage."
     "name": "Holy Burst"
   - "desc": "The planetar casts one of the following spells, requiring no Material\
       \ components and using Charisma as spellcasting ability (spell save DC 20):\n\
-      \nAt will: [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
-      \n1/day each: [Commune](/3-Mechanics/CLI/spells/commune-xphb.md), [Control\
-      \ Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md), [Dispel Evil and\
-      \ Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)"
+      \nAt will: [Detect Evil and Good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
+      \n1/day each: [Commune](/03_Mechanics/CLI/spells/commune-xphb.md), [Control\
+      \ Weather](/03_Mechanics/CLI/spells/control-weather-xphb.md), [Dispel Evil and\
+      \ Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [Raise Dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The planetar casts [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-      \ or [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), using the\
+  - "desc": "The planetar casts [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ or [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md), using the\
       \ same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/planetar-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/planetar-xmm.webp"
 ```
 ^statblock
 

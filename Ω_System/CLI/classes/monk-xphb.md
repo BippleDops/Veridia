@@ -53,11 +53,11 @@ modified: 2025-07-23 12:39
 ## Starting Monk
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion), or [Stealth](/3-Mechanics/CLI/skills.md#Stealth)
+- **Skill Proficiencies**: *Choose 2:* [Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics), [Athletics](/03_Mechanics/CLI/skills.md#Athletics), [History](/03_Mechanics/CLI/skills.md#History), [Insight](/03_Mechanics/CLI/skills.md#Insight), [Religion](/03_Mechanics/CLI/skills.md#Religion), or [Stealth](/03_Mechanics/CLI/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Light property
-- **Tool Proficiencies**: Choose one type of [Artisan's Tools](/3-Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](/3-Mechanics/CLI/items/musical-instrument-xphb.md)
+- **Tool Proficiencies**: Choose one type of [Artisan's Tools](/03_Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](/03_Mechanics/CLI/items/musical-instrument-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Spear](/3-Mechanics/CLI/items/spear-xphb.md), 5 [Daggers](/3-Mechanics/CLI/items/dagger-xphb.md), [Artisan's Tools](/3-Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](/3-Mechanics/CLI/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](/3-Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
+**Starting Equipment:** *Choose A or B:* (A) [Spear](/03_Mechanics/CLI/items/spear-xphb.md), 5 [Daggers](/03_Mechanics/CLI/items/dagger-xphb.md), [Artisan's Tools](/03_Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](/03_Mechanics/CLI/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](/03_Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
 
 
 ## Monk
@@ -74,28 +74,28 @@ Monks generally view adventures as tests of their physical and mental developmen
 
 ### Martial Arts (Level 1)
 
-Your practice of martial arts gives you mastery of combat styles that use your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) and Monk weapons, which are the following:
+Your practice of martial arts gives you mastery of combat styles that use your [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) and Monk weapons, which are the following:
 
 - Simple Melee Weapons  
 - Martial Melee Weapons that have the Light property  
 
-You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [Shield](/3-Mechanics/CLI/items/shield-xphb.md).
+You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [Shield](/03_Mechanics/CLI/items/shield-xphb.md).
 
 ### Bonus Unarmed Strike (Level 1)
 
-You can make an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+You can make an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ### Martial Arts Die (Level 1)
 
-You can roll `d6` in place of the normal damage of your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
+You can roll `d6` in place of the normal damage of your [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.
 
 ### Dexterous Attacks (Level 1)
 
-You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
+You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.
 
 ### Unarmored Defense (Level 1)
 
-While you aren't wearing armor or wielding a [Shield](/3-Mechanics/CLI/items/shield-xphb.md), your base [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Wisdom modifiers.
+While you aren't wearing armor or wielding a [Shield](/03_Mechanics/CLI/items/shield-xphb.md), your base [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Wisdom modifiers.
 
 ### Monk's Focus (Level 2)
 
@@ -103,37 +103,37 @@ Your focus and martial training allow you to harness a well of extraordinary ene
 
 You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.
 
-When you expend a Focus Point, it is unavailable until you finish a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), at the end of which you regain all your expended points.
+When you expend a Focus Point, it is unavailable until you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md), at the end of which you regain all your expended points.
 
-Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md).
+Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
 ### Flurry of Blows (Level 2)
 
-You can expend 1 Focus Point to make two Unarmed Strikes as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+You can expend 1 Focus Point to make two Unarmed Strikes as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ### Patient Defense (Level 2)
 
-You can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) action as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). Alternatively, you can expend 1 Focus Point to take both the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) and the [Dodge](/3-Mechanics/CLI/actions.md#Dodge) actions as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+You can take the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) action as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). Alternatively, you can expend 1 Focus Point to take both the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) and the [Dodge](/03_Mechanics/CLI/actions.md#Dodge) actions as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ### Step of the Wind (Level 2)
 
-You can take the [Dash](/3-Mechanics/CLI/actions.md#Dash) action as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). Alternatively, you can expend 1 Focus Point to take both the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) and [Dash](/3-Mechanics/CLI/actions.md#Dash) actions as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), and your jump distance is doubled for the turn.
+You can take the [Dash](/03_Mechanics/CLI/actions.md#Dash) action as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). Alternatively, you can expend 1 Focus Point to take both the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) and [Dash](/03_Mechanics/CLI/actions.md#Dash) actions as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), and your jump distance is doubled for the turn.
 
 ### Unarmored Movement (Level 2)
 
-Your speed increases by 10 feet while you aren't wearing armor or wielding a [Shield](/3-Mechanics/CLI/items/shield-xphb.md). This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
+Your speed increases by 10 feet while you aren't wearing armor or wielding a [Shield](/03_Mechanics/CLI/items/shield-xphb.md). This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.
 
 ### Uncanny Metabolism (Level 2)
 
-When you roll [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md), you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Monk level plus the number rolled.
+When you roll [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md), you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Monk level plus the number rolled.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Deflect Attacks (Level 3)
 
-When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the attack's total damage against you. The reduction equals `d10` plus your Dexterity modifier and Monk level.
+When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the attack's total damage against you. The reduction equals `d10` plus your Dexterity modifier and Monk level.
 
-If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
+If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack's force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn't behind [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 
 ### Monk Subclass (Level 3)
 
@@ -141,23 +141,23 @@ You gain a Monk subclass of your choice. A subclass is a specialization that gra
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Monk levels 8, 12, and 16.
 
 ### Slow Fall (Level 4)
 
-You can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md) when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
+You can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn.
 
 ### Stunning Strike (Level 5)
 
-Once per turn when you hit a creature with a Monk weapon or an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until the start of your next turn. On a successful save, the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is halved until the start of your next turn, and the next attack roll made against the target before then has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md).
+Once per turn when you hit a creature with a Monk weapon or an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend 1 Focus Point to attempt a stunning strike. The target must make a Constitution saving throw. On a failed save, the target has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) condition until the start of your next turn. On a successful save, the target's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) is halved until the start of your next turn, and the next attack roll made against the target before then has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 ### Empowered Strikes (Level 6)
 
-Whenever you deal damage with your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), it can deal your choice of Force damage or its normal damage type.
+Whenever you deal damage with your [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), it can deal your choice of Force damage or its normal damage type.
 
 ### Subclass Feature (Level 6)
 
@@ -167,15 +167,15 @@ You gain a feature from your Monk subclass.
 
 When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
 
-You don't benefit from this feature if you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.
+You don't benefit from this feature if you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Acrobatic Movement (Level 9)
 
-While you aren't wearing armor or wielding a [Shield](/3-Mechanics/CLI/items/shield-xphb.md), you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
+While you aren't wearing armor or wielding a [Shield](/03_Mechanics/CLI/items/shield-xphb.md), you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
 
 ### Heightened Focus (Level 10)
 
@@ -187,17 +187,17 @@ You can expend 1 Focus Point to use Flurry of Blows and make three Unarmed Strik
 
 #### Patient Defense
 
-When you expend a Focus Point to use Patient Defense, you gain a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to two rolls of your Martial Arts die.
+When you expend a Focus Point to use Patient Defense, you gain a number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to two rolls of your Martial Arts die.
 
 #### Step of the Wind
 
-When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack).
+When you expend a Focus Point to use Step of the Wind, you can choose a willing creature within 5 feet of yourself that is Large or smaller. You move the creature with you until the end of your turn. The creature's movement doesn't provoke [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Self-Restoration (Level 10)
 
-Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: [Charmed](/3-Mechanics/CLI/conditions.md#Charmed), [Frightened](/3-Mechanics/CLI/conditions.md#Frightened), or [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).
+Through sheer force of will, you can remove one of the following conditions from yourself at the end of each of your turns: [Charmed](/03_Mechanics/CLI/conditions.md#Charmed), [Frightened](/03_Mechanics/CLI/conditions.md#Frightened), or [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).
 
-In addition, forgoing food and drink doesn't give you levels of [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).
+In addition, forgoing food and drink doesn't give you levels of [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).
 
 ### Subclass Feature (Level 11)
 
@@ -205,7 +205,7 @@ You gain a feature from your Monk subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Deflect Energy (Level 13)
 
@@ -219,11 +219,11 @@ Additionally, whenever you make a saving throw and fail, you can expend 1 Focus 
 
 ### Perfect Focus (Level 15)
 
-When you roll [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md) and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
+When you roll [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) and don't use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](/3-Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/03_Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -231,11 +231,11 @@ You gain a feature from your Monk subclass.
 
 ### Superior Defense (Level 18)
 
-At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. During that time, you have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage except Force damage.
+At the start of your turn, you can expend 3 Focus Points to bolster yourself against harm for 1 minute or until you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. During that time, you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage except Force damage.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](/3-Mechanics/CLI/feats/boon-of-irresistible-offense-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](/03_Mechanics/CLI/feats/boon-of-irresistible-offense-xphb.md) is recommended.
 
 ### Body and Mind (Level 20)
 

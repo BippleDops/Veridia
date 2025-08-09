@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 ---
 # Manual of Quickness of Action
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/manual-of-quickness-of-action.webp#right)
+![](/03_Mechanics/CLI/items/img/manual-of-quickness-of-action.webp#right)
 
 - **Weight**: 5.0 lbs.
 

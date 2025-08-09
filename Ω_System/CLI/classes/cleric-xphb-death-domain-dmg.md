@@ -54,7 +54,7 @@ modified: 2025-07-23 12:39
 
 ### Death Domain (Level 3)
 
-The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [Chemosh](/3-Mechanics/CLI/deities/dragonlance-chemosh-phb.md), Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([Anubis](/3-Mechanics/CLI/deities/egyptian-anubis.md), Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or [Morgion](/3-Mechanics/CLI/deities/dragonlance-morgion-phb.md)), and the underworld ([Hades](/3-Mechanics/CLI/deities/greek-hades.md) and [Hel](/3-Mechanics/CLI/deities/norse-hel.md)).
+The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [Chemosh](/03_Mechanics/CLI/deities/dragonlance-chemosh-phb.md), Myrkul, and Wee Jas are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([Anubis](/03_Mechanics/CLI/deities/egyptian-anubis.md), Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or [Morgion](/03_Mechanics/CLI/deities/dragonlance-morgion-phb.md)), and the underworld ([Hades](/03_Mechanics/CLI/deities/greek-hades.md) and [Hel](/03_Mechanics/CLI/deities/norse-hel.md)).
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -62,11 +62,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [false life](/3-Mechanics/CLI/spells/false-life-xphb.md), [ray of sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) |
-| 3rd | [blindness/deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md), [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
-| 5th | [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md), [vampiric touch](/3-Mechanics/CLI/spells/vampiric-touch-xphb.md) |
-| 7th | [blight](/3-Mechanics/CLI/spells/blight-xphb.md), [death ward](/3-Mechanics/CLI/spells/death-ward-xphb.md) |
-| 9th | [antilife shell](/3-Mechanics/CLI/spells/antilife-shell-xphb.md), [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md) |
+| 1st | [false life](/03_Mechanics/CLI/spells/false-life-xphb.md), [ray of sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md) |
+| 3rd | [blindness/deafness](/03_Mechanics/CLI/spells/blindness-deafness-xphb.md), [ray of enfeeblement](/03_Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
+| 5th | [animate dead](/03_Mechanics/CLI/spells/animate-dead-xphb.md), [vampiric touch](/03_Mechanics/CLI/spells/vampiric-touch-xphb.md) |
+| 7th | [blight](/03_Mechanics/CLI/spells/blight-xphb.md), [death ward](/03_Mechanics/CLI/spells/death-ward-xphb.md) |
+| 9th | [antilife shell](/03_Mechanics/CLI/spells/antilife-shell-xphb.md), [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md) |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)

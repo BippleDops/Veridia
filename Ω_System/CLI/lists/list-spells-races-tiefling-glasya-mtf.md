@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
+- [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") at class level 3
 
 ## 1st Level
 
-- [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
+- [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3
+- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 3

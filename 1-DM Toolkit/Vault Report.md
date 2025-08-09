@@ -4,7 +4,7 @@ const tagCounts = new Map();
 
 for (const page of dv.pages()) {
   // skip templates folder
-  if (page.file.path.startsWith("z_Templates/")) continue;
+  if (page.file.path.startsWith("05_Templates/")) continue;
 
   for (const raw of (page.file.tags ?? [])) {
     // normalize: strip leading '#', lowercase

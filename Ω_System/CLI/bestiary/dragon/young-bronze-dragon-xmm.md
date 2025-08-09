@@ -55,11 +55,11 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "3"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "lightning"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 17"
@@ -75,16 +75,16 @@ Bronze dragons usually make their homes near or under the sea.
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 16 (2d10 + 5) Slashing damage."
     "name": "Rend"
   - "desc": "Dexterity Saving Throw: DC 15, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
+      \ [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Failure:\
       \ 49 (9d10) Lightning damage. Success: Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: The target is pushed up to 40 feet straight away from the dragon\
-      \ and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon-xmm.webp"
 ```
 ^statblock
 

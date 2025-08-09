@@ -58,11 +58,11 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "cold"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
@@ -74,19 +74,19 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 15 (2d8 + 6) Slashing damage."
     "name": "Rend"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: 49 (11d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ 1st Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ 1st Failure: The target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
-      \ The target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition,\
+      \ The target has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition,\
       \ and it repeats the save at the end of each of its turns, ending the effect\
       \ on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Paralyzing Breath"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/young-silver-dragon-xmm.webp"
 ```
 ^statblock
 

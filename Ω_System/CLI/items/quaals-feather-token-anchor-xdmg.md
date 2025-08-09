@@ -14,11 +14,11 @@ modified: 2025-07-23 12:39
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/quaals-feather-token-anchor.webp#right)
+![](/03_Mechanics/CLI/items/img/quaals-feather-token-anchor.webp#right)
 
 
 This object looks like a feather.
 
-You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
+You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Feather Token, Anchor") and the Free Rules (2024)*

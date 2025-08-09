@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Studded Leather Armor
 *Light armor*  
-![](/3-Mechanics/CLI/items/img/studded-leather-armor.webp#right)
+![](/03_Mechanics/CLI/items/img/studded-leather-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp

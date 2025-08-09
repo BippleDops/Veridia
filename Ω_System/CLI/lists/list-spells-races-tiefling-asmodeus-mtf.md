@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") at class level 5
+- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") at class level 5
 
 ## 1st Level
 
-- [Hellish Rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md "XPHB") at class level 5
+- [Hellish Rebuke](/03_Mechanics/CLI/spells/hellish-rebuke-xphb.md "XPHB") at class level 5
 
 ## 2nd Level
 
-- [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 5
+- [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md "XPHB") at class level 5

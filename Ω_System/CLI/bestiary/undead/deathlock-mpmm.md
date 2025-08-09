@@ -48,15 +48,15 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "4"
@@ -76,16 +76,16 @@ An powerful necromancer might also discover the wicked methods of creating a dea
       \ (2d10 + 3) necrotic damage."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 13):\n\nAt will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each:\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [hunger of Hadar](/3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [spider climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md)"
+      \ spellcasting ability (spell save DC 13):\n\nAt will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md)\n\n1/day each:\
+      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [hunger of Hadar](/03_Mechanics/CLI/spells/hunger-of-hadar-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [spider climb](/03_Mechanics/CLI/spells/spider-climb-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/deathlock-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/deathlock-mpmm.webp"
 ```
 ^statblock
 

@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")
+- [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB")

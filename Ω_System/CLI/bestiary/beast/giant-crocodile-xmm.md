@@ -19,7 +19,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Crocodile (XMM)"
@@ -39,7 +39,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "7"
 "speed": "30 ft., swim 50 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": ""
@@ -51,18 +51,18 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The crocodile makes one Bite attack and one Tail attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 21 (3d10 + 5) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 15). While [Grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-      \ the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ If the target is a Large or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 15). While [Grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+      \ the target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition and can't be targeted by the crocodile's Tail."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Tail"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-crocodile-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-crocodile-xmm.webp"
 ```
 ^statblock
 

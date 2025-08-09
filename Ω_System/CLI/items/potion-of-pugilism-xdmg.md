@@ -15,11 +15,11 @@ modified: 2025-07-23 12:39
 ---
 # Potion of Pugilism
 *Potion, uncommon*  
-![](/3-Mechanics/CLI/items/img/potion-of-pugilism.webp#right)
+![](/03_Mechanics/CLI/items/img/potion-of-pugilism.webp#right)
 
 - **Weight**: 0.5 lbs.
 
-After you drink this potion, each [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) you make deals an extra `d6` Force damage on a hit. This effect lasts 10 minutes.
+After you drink this potion, each [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) you make deals an extra `d6` Force damage on a hit. This effect lasts 10 minutes.
 
 This potion is a thick green fluid that tastes like spinach.
 

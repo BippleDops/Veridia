@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the "reduce" effect of the [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell for `d4` hours (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required).
+When you drink this potion, you gain the "reduce" effect of the [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell for `d4` hours (no [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) required).
 
 The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
 

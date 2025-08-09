@@ -16,7 +16,7 @@ Beneath the bustling City of Waterdeep, a beholder crime lord keeps tabs on ever
 
 The first major rules expansion to the fifth edition of D&D, *Xanathar's Guide to Everything* provides a wealth of new options for the game. Xanathar might not be able to realize its dream to know everything, but this book does delve into every major part of the game: adventurers, their adventures, and the magic they wield.
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro01.webp#center)
+![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/intro01.webp#center)
 
 ## Using this Book
 
@@ -28,7 +28,7 @@ Appendix A provides guidance on running a shared campaign, similar to the activi
 
 As you peruse the many options herein, you'll come across observations from Xanathar itself. Like the beholder's roving mind, your reading will take you to places in the game familiar and new. May you enjoy the journey!
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro02.webp#center)
+![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/intro02.webp#center)
 
 > [!note] Unearthed Arcana
 > 
@@ -37,7 +37,7 @@ As you peruse the many options herein, you'll come across observations from Xana
 
 ## The Core Rules
 
-This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and [prone](/3-Mechanics/CLI/conditions.md#Prone). You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
+This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [invisible](/03_Mechanics/CLI/conditions.md#Invisible) and [prone](/03_Mechanics/CLI/conditions.md#Prone). You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
 
 If you're a DM, you should also know where to look things up in the dungeon master's guide, especially the rules on how magic items work (see chapter 7 of that book). The introduction of the monster manual is your guide on how to use a monster's stat block.
 
@@ -99,4 +99,4 @@ As soon as you start casting a spell or using a special ability that requires co
 
 Temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. Instead, you decide which temporary hit points to keep.
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/intro03.webp#center)
+![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/intro03.webp#center)

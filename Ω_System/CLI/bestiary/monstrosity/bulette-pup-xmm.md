@@ -47,7 +47,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "senses": "darkvision 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": ""
@@ -60,7 +60,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
 ```
 ^statblock
 

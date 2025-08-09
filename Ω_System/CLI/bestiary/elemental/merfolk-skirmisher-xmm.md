@@ -54,13 +54,13 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
 "actions":
   - "desc": "Melee  or Ranged Attack Roll: +2, reach 5 ft. or range 20/60 ft. Hit:\
       \ 3 (d6) Piercing damage plus 2 (d4) Cold damage. If the target is a creature,\
-      \ its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases by 10\
+      \ its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) decreases by 10\
       \ feet until the end of its next turn. Hit or Miss: The spear magically returns\
       \ to the merfolk's hand immediately after a ranged attack."
     "name": "Ocean Spear"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/merfolk-skirmisher-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/merfolk-skirmisher-xmm.webp"
 ```
 ^statblock
 

@@ -20,8 +20,8 @@ modified: 2025-07-23 12:39
 
 **Items in this group:**
 
-- [Amulet](/3-Mechanics/CLI/items/amulet-xphb.md)
-- [Emblem](/3-Mechanics/CLI/items/emblem-xphb.md)
-- [Reliquary](/3-Mechanics/CLI/items/reliquary-xphb.md)
+- [Amulet](/03_Mechanics/CLI/items/amulet-xphb.md)
+- [Emblem](/03_Mechanics/CLI/items/emblem-xphb.md)
+- [Reliquary](/03_Mechanics/CLI/items/reliquary-xphb.md)
 
 *Source: Player's Handbook (2024) p. 226*

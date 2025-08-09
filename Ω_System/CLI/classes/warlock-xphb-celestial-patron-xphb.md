@@ -62,28 +62,28 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [Aid](/3-Mechanics/CLI/spells/aid-xphb.md), [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md), [Guiding Bolt](/3-Mechanics/CLI/spells/guiding-bolt-xphb.md), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Sacred Flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md) |
-| 5 | [Daylight](/3-Mechanics/CLI/spells/daylight-xphb.md), [Revivify](/3-Mechanics/CLI/spells/revivify-xphb.md) |
-| 7 | [Guardian of Faith](/3-Mechanics/CLI/spells/guardian-of-faith-xphb.md), [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9 | [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md), [Summon Celestial](/3-Mechanics/CLI/spells/summon-celestial-xphb.md) |
+| 3 | [Aid](/03_Mechanics/CLI/spells/aid-xphb.md), [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md), [Guiding Bolt](/03_Mechanics/CLI/spells/guiding-bolt-xphb.md), [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md), [Light](/03_Mechanics/CLI/spells/light-xphb.md), [Sacred Flame](/03_Mechanics/CLI/spells/sacred-flame-xphb.md) |
+| 5 | [Daylight](/03_Mechanics/CLI/spells/daylight-xphb.md), [Revivify](/03_Mechanics/CLI/spells/revivify-xphb.md) |
+| 7 | [Guardian of Faith](/03_Mechanics/CLI/spells/guardian-of-faith-xphb.md), [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 9 | [Greater Restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md), [Summon Celestial](/03_Mechanics/CLI/spells/summon-celestial-xphb.md) |
 ^celestial-spells
 
 ### Healing Light (Level 3)
 
 You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.
 
-As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the roll's total. Your pool regains all expended dice when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the roll's total. Your pool regains all expended dice when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Radiant Soul (Level 6)
 
-Your link to your patron allows you to serve as a conduit for radiant energy. You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
+Your link to your patron allows you to serve as a conduit for radiant energy. You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Radiant damage. Once per turn, when a spell you cast deals Radiant or Fire damage, you can add your Charisma modifier to that spell's damage against one of the spell's targets.
 
 ### Celestial Resilience (Level 10)
 
-You gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) whenever you use your Magical Cunning feature or finish a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). These [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to half your Warlock level plus your Charisma modifier.
+You gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) whenever you use your Magical Cunning feature or finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). These [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to half your Warlock level plus your Charisma modifier.
 
 ### Searing Vengeance (Level 14)
 
-When you or an ally within 60 feet of you is about to make a [Death Saving Throw](/3-Mechanics/CLI/variant-rules/death-saving-throw-xphb.md), you can unleash radiant energy to save the creature. The creature regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to half its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum and can end the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until the end of the current turn.
+When you or an ally within 60 feet of you is about to make a [Death Saving Throw](/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb.md), you can unleash radiant energy to save the creature. The creature regains [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to half its [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum and can end the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded) condition until the end of the current turn.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).

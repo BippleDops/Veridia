@@ -44,16 +44,16 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+8"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "12"
@@ -69,13 +69,13 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Claw"
   - "desc": "The oinoloth touches one willing creature within 5 feet of it. The target\
       \ regains all its hit points. In addition, the oinoloth can end one disease\
-      \ on the target or remove one of the following conditions from it: [blinded](/3-Mechanics/CLI/conditions.md#Blinded),\
-      \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-      \ or [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). The target then gains\
-      \ 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), and its\
+      \ on the target or remove one of the following conditions from it: [blinded](/03_Mechanics/CLI/conditions.md#Blinded),\
+      \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+      \ or [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned). The target then gains\
+      \ 1 level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion), and its\
       \ hit point maximum is reduced by 7 (2d6). This reduction can be removed only\
-      \ by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell or by casting [greater\
-      \ restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) on the target\
+      \ by a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell or by casting [greater\
+      \ restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) on the target\
       \ three times within the same hour. The target dies if its hit point maximum\
       \ is reduced to 0."
     "name": "Corrupted Healing (Recharge 6)"
@@ -84,11 +84,11 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Teleport"
   - "desc": "The oinoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
-      \ magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-      \ (self only)\n\n1/day each: [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md),\
-      \ [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)"
+      \nAt will: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [detect\
+      \ magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only)\n\n1/day each: [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md),\
+      \ [globe of invulnerability](/03_Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The oinoloth blights the area in a 30-foot-radius sphere centered on\
@@ -96,10 +96,10 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ plants there wither and die.\n\nFurthermore, when a creature moves into the\
       \ blighted area or starts its turn there, that creature must make a DC 16 Constitution\
       \ saving throw. On a failed save, the creature takes 14 (4d6) poison damage\
-      \ and is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). On a successful\
+      \ and is [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned). On a successful\
       \ save, the creature is immune to the oinoloth's Bringer of Plagues for the\
-      \ next 24 hours.\n\nThe [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ creature can't regain hit points. After every 24 hours that elapse, the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ next 24 hours.\n\nThe [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ creature can't regain hit points. After every 24 hours that elapse, the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ creature can repeat the saving throw. On a failed save, the creature's hit\
       \ point maximum is reduced by 5 (d10). This reduction lasts until the poison\
       \ ends, and the target dies if its hit point maximum is reduced to 0. The poison\
@@ -108,7 +108,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/oinoloth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/oinoloth-mpmm.webp"
 ```
 ^statblock
 

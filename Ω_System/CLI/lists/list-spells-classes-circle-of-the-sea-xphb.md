@@ -13,29 +13,29 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 9
+- [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 9
 
 ## 1st Level
 
-- [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 9
-- [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 9
+- [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 9
+- [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 9
 
 ## 2nd Level
 
-- [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 9
-- [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 9
+- [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 9
+- [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 9
 
 ## 3rd Level
 
-- [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 9
-- [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB") at class level 9
+- [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 9
+- [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md "XPHB") at class level 9
 
 ## 4th Level
 
-- [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md "XPHB") at class level 9
-- [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 9
+- [Control Water](/03_Mechanics/CLI/spells/control-water-xphb.md "XPHB") at class level 9
+- [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 9
 
 ## 5th Level
 
-- [Conjure Elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB") at class level 9
-- [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 9
+- [Conjure Elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB") at class level 9
+- [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 9

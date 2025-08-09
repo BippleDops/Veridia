@@ -47,11 +47,11 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
   - !!int "30"
 "speed": "50 ft., fly 150 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+14"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all; telepathy 120 ft."
 "cr": "21"
@@ -59,12 +59,12 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
   - "desc": "The solar knows if it hears a lie."
     "name": "Divine Awareness"
   - "desc": "If the solar dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
   - "desc": "If the solar fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The solar has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The solar has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -77,37 +77,37 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
       \ the solar immediately after a ranged attack."
     "name": "Flying Sword"
   - "desc": "Dexterity Saving Throw: DC 21, one creature the solar can see within\
-      \ 600 feet. Failure: If the creature has 100 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ 600 feet. Failure: If the creature has 100 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ or fewer, it dies. It otherwise takes 24 (4d8 + 6) Piercing damage plus 36\
       \ (8d8) Radiant damage."
     "name": "Slaying Bow"
   - "desc": "The solar casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 25):\n\nAt\
-      \ will: [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
-      \n1/day each: [Commune](/3-Mechanics/CLI/spells/commune-xphb.md), [Control\
-      \ Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md), [Dispel Evil and\
-      \ Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [Resurrection](/3-Mechanics/CLI/spells/resurrection-xphb.md)"
+      \ will: [Detect Evil and Good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
+      \n1/day each: [Commune](/03_Mechanics/CLI/spells/commune-xphb.md), [Control\
+      \ Weather](/03_Mechanics/CLI/spells/control-weather-xphb.md), [Dispel Evil and\
+      \ Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [Resurrection](/03_Mechanics/CLI/spells/resurrection-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The solar casts [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md)\
-      \ (level 2 version), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-      \ or [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), using the\
+  - "desc": "The solar casts [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md)\
+      \ (level 2 version), [Lesser Restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ or [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md), using the\
       \ same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (3/Day)"
 "legendary_actions":
   - "desc": "Constitution Saving Throw: DC 25, one creature the solar can see within\
-      \ 120 feet. Failure: The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ 120 feet. Failure: The target has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
       \ condition for 1 minute. Failure or Success: The solar can't take this action\
       \ again until the start of its next turn."
     "name": "Blinding Gaze"
   - "desc": "The solar teleports up to 60 feet to an unoccupied space it can see.\
-      \ Dexterity Saving Throw: DC 25, each creature in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ Dexterity Saving Throw: DC 25, each creature in a 10-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the solar at its destination space. Failure: 11 (2d10)\
       \ Radiant damage. Success: Half damage."
     "name": "Radiant Teleport"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/solar-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/solar-xmm.webp"
 ```
 ^statblock
 

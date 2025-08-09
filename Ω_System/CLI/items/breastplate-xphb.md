@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Breastplate
 *Medium armor*  
-![](/3-Mechanics/CLI/items/img/breastplate.webp#right)
+![](/03_Mechanics/CLI/items/img/breastplate.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Cost**: 400 gp

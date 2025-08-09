@@ -18,39 +18,39 @@ modified: 2025-07-23 12:39
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01 | `2d8` [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
-| 02-03 | `3d6` [pteranodons](/3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) |
-| 04-05 | `2d4` [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
-| 06-07 | `1d6 + 2` [sahuagin](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 08 | 1 [sea hag](/3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) |
-| 09-10 | `1d4 + 1` [giant toads](/3-Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) |
-| 11-15 | `3d6` [sahuagin](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 16-20 | `2d6` [giant eagles](/3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) |
-| 21-25 | A [pseudodragon](/3-Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) chasing gulls through the air |
-| 26-29 | `d2` [druids](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) |
-| 30-32 | `2d4 + 1` [giant toads](/3-Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) |
-| 33-35 | 1 [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) singing a dirge (day only) or 1 [banshee](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) (night only) |
+| 01 | `2d8` [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
+| 02-03 | `3d6` [pteranodons](/03_Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) |
+| 04-05 | `2d4` [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) |
+| 06-07 | `1d6 + 2` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
+| 08 | 1 [sea hag](/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) |
+| 09-10 | `1d4 + 1` [giant toads](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) |
+| 11-15 | `3d6` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
+| 16-20 | `2d6` [giant eagles](/03_Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md) |
+| 21-25 | A [pseudodragon](/03_Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md) chasing gulls through the air |
+| 26-29 | `d2` [druids](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md) |
+| 30-32 | `2d4 + 1` [giant toads](/03_Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) |
+| 33-35 | 1 [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) singing a dirge (day only) or 1 [banshee](/03_Mechanics/CLI/bestiary/undead/banshee-xmm.md) (night only) |
 | 36-40 | A stoppered bottle containing an illegible note and half buried in the sand |
-| 41-43 | 3 [sea hags](/3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) |
-| 44-46 | `1d8 + 1` [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md) |
-| 47-50 | `d4` [plesiosauruses](/3-Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md) |
-| 51-53 | `d4` [manticores](/3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
-| 54-56 | `2d4` [ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) |
-| 57-60 | `d10` [griffons](/3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
+| 41-43 | 3 [sea hags](/03_Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) |
+| 44-46 | `1d8 + 1` [harpies](/03_Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md) |
+| 47-50 | `d4` [plesiosauruses](/03_Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md) |
+| 51-53 | `d4` [manticores](/03_Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) |
+| 54-56 | `2d4` [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) |
+| 57-60 | `d10` [griffons](/03_Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
 | 61-65 | A battle at sea between two galleons |
-| 66-70 | `1d4 + 3` [merrow](/3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) |
-| 71-75 | A pirate crew consisting of 1 [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md), 1 [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md), 2 [berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md), and `2d12` [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md), all searching for buried treasure |
+| 66-70 | `1d4 + 3` [merrow](/03_Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) |
+| 71-75 | A pirate crew consisting of 1 [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md), 1 [druid](/03_Mechanics/CLI/bestiary/humanoid/druid-xmm.md), 2 [berserkers](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md), and `2d12` [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md), all searching for buried treasure |
 | 76-80 | A severed humanoid hand tangled in a net |
-| 81-82 | 1 [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) |
-| 83-84 | 1 [cyclops](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 85-86 | `d4` [banshees](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) (night only) |
-| 87-88 | `2d4` [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| 89-90 | 1 [young bronze dragon](/3-Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md) |
-| 91-93 | `d3` [cyclopes](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 94-95 | 1 [young blue dragon](/3-Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md) |
-| 96 | 1 [sahuagin baron](/3-Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md) with `d3` [sahuagin priestesses](/3-Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md) and `2d8` [sahuagin](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
-| 97 | 1 [djinni](/3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md) |
-| 98 | 1 [roc](/3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
-| 99 | 1 [marid](/3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) |
-| 00 | 1 [storm giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) |
+| 81-82 | 1 [water elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) |
+| 83-84 | 1 [cyclops](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
+| 85-86 | `d4` [banshees](/03_Mechanics/CLI/bestiary/undead/banshee-xmm.md) (night only) |
+| 87-88 | `2d4` [veterans](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
+| 89-90 | 1 [young bronze dragon](/03_Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md) |
+| 91-93 | `d3` [cyclopes](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
+| 94-95 | 1 [young blue dragon](/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md) |
+| 96 | 1 [sahuagin baron](/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md) with `d3` [sahuagin priestesses](/03_Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md) and `2d8` [sahuagin](/03_Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) |
+| 97 | 1 [djinni](/03_Mechanics/CLI/bestiary/elemental/djinni-xmm.md) |
+| 98 | 1 [roc](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
+| 99 | 1 [marid](/03_Mechanics/CLI/bestiary/elemental/marid-xmm.md) |
+| 00 | 1 [storm giant](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) |
 ^coastal-encounters-levels-510

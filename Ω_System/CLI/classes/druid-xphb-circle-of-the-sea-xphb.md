@@ -62,23 +62,23 @@ When you reach a Druid level specified in the Circle of the Sea Spells table, yo
 
 | Druid Level | Prepared Spells |
 |-------------|-----------------|
-| 3rd | [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) |
-| 5th | [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md) |
-| 7th | [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md), [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md) |
-| 9th | [Conjure Elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md), [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) |
+| 3rd | [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md), [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md), [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md), [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md), [Thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md) |
+| 5th | [Lightning Bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md), [Water Breathing](/03_Mechanics/CLI/spells/water-breathing-xphb.md) |
+| 7th | [Control Water](/03_Mechanics/CLI/spells/control-water-xphb.md), [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md) |
+| 9th | [Conjure Elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md), [Hold Monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) |
 ^circle-of-the-sea-spells
 
 ### Wrath of the Sea (Level 3)
 
-As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend a use of your Wild Shape to manifest a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition.
+As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend a use of your Wild Shape to manifest a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) that takes the form of ocean spray that surrounds you for 10 minutes. It ends early if you dismiss it (no action required), manifest it again, or have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition.
 
-When you manifest the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) and as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your subsequent turns, you can choose another creature you can see in the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
+When you manifest the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) and as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your subsequent turns, you can choose another creature you can see in the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). The target must succeed on a Constitution saving throw against your spell save DC or take Cold damage and, if the creature is Large or smaller, be pushed up to 15 feet away from you. To determine this damage, roll a number of d6s equal to your Wisdom modifier (minimum of one die).
 
 ### Aquatic Affinity (Level 6)
 
-The size of the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) created by your Wrath of the Sea increases to 10 feet.
+The size of the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) created by your Wrath of the Sea increases to 10 feet.
 
-In addition, you gain a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md).
+In addition, you gain a [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Stormborn (Level 10)
 
@@ -86,14 +86,14 @@ Your Wrath of the Sea confers two more benefits while active, as detailed below.
 
 #### Flight
 
-You gain a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md).
+You gain a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md).
 
 #### Resistance
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold, Lightning, and Thunder damage.
+You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold, Lightning, and Thunder damage.
 
 ### Oceanic Gift (Level 14)
 
-Instead of manifesting the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) and uses your spell save DC and Wisdom modifier for it.
+Instead of manifesting the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) and uses your spell save DC and Wisdom modifier for it.
 
-In addition, you can manifest the [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
+In addition, you can manifest the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.

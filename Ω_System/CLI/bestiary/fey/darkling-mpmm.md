@@ -31,7 +31,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](/03_Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "3"
@@ -44,13 +44,13 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Elvish, Sylvan"
@@ -59,11 +59,11 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "When the darkling dies, nonmagical light flashes out from it in a 10-foot\
       \ radius as its body and possessions, other than metal or magic objects, burn\
       \ to ash. Any creature in that area must succeed on a DC 10 Constitution saving\
-      \ throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until the end\
+      \ throw or be [blinded](/03_Mechanics/CLI/conditions.md#Blinded) until the end\
       \ of its next turn."
     "name": "Death Flash"
   - "desc": "While in bright light, the darkling has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ as well as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Light Sensitivity"
 "actions":
@@ -74,7 +74,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/darkling-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/darkling-mpmm.webp"
 ```
 ^statblock
 

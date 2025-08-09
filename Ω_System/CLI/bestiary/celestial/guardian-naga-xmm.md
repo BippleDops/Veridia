@@ -70,22 +70,22 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+11"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+11"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+11"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
   - "desc": "If the naga dies, it returns to life in d6 days and regains all its [Hit\
-      \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) unless [Dispel\
-      \ Evil and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast\
+      \ Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) unless [Dispel\
+      \ Evil and Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast\
       \ on its remains."
     "name": "Celestial Restoration"
 "actions":
@@ -96,21 +96,21 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
       \ plus 22 (4d10) Poison damage."
     "name": "Bite"
   - "desc": "Constitution Saving Throw: DC 16, one creature the naga can see within\
-      \ 60 feet. Failure: 31 (7d8) Poison damage, and the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ 60 feet. Failure: 31 (7d8) Poison damage, and the target has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
       \ condition until the start of the naga's next turn. Success: Half damage\
       \ only."
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
-      1/day each: [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
-      \ [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) (level 6 version),\
-      \ [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md) (level 6 version),\
-      \ [Geas](/3-Mechanics/CLI/spells/geas-xphb.md), [True Seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)"
+      \nAt will: [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
+      1/day each: [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [Cure Wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md) (level 6 version),\
+      \ [Flame Strike](/03_Mechanics/CLI/spells/flame-strike-xphb.md) (level 6 version),\
+      \ [Geas](/03_Mechanics/CLI/spells/geas-xphb.md), [True Seeing](/03_Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/guardian-naga-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/guardian-naga-xmm.webp"
 ```
 ^statblock
 

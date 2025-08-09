@@ -12,6 +12,6 @@ modified: 2025-07-23 12:39
 ---
 # Boon of the Fire Soul
 
-You have immunity to fire damage. You can also cast [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md) (save DC 15) at will, without using a spell slot or any components. 
+You have immunity to fire damage. You can also cast [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) (save DC 15) at will, without using a spell slot or any components. 
 
 *Source: Dungeon Master's Guide p. 232*

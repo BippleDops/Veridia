@@ -12,27 +12,27 @@ modified: 2025-07-23 12:39
 # Chapter 17: Against the Demon Lords
 *Source: Out of the Abyss, p. 215* 
 
-In the culmination of *Out of the Abyss*, the heroes implement [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s scheme to take on the demon lords. The archmage's ritual draws the demon lords together to fight to the death, leaving Demogorgon victorious but weakened as the adventurers face off against the Prince of Demons. Even wounded and weakened, though, Demogorgon is a legendary foe, and the fate of the Underdark and all Faerûn rests on the adventurers' final battle.
+In the culmination of *Out of the Abyss*, the heroes implement [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s scheme to take on the demon lords. The archmage's ritual draws the demon lords together to fight to the death, leaving Demogorgon victorious but weakened as the adventurers face off against the Prince of Demons. Even wounded and weakened, though, Demogorgon is a legendary foe, and the fate of the Underdark and all Faerûn rests on the adventurers' final battle.
 
 ## Readying the Plan
 
-Over the course of their adventures, the characters have collected the components needed to create the talisman at the center of [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s summoning ritual:
+Over the course of their adventures, the characters have collected the components needed to create the talisman at the center of [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s summoning ritual:
 
 - The intact and unhatched egg of a purple worm (from the worm hatchery in chapter 13)  
 - The central eye of a beholder (from Karazikar in the Vast Oblivium in chapter 13, or some other source).  
-- Six feathers from six different angels (from the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) angels in the Labyrinth in chapter 14)  
+- Six feathers from six different angels (from the [petrified](/03_Mechanics/CLI/conditions.md#Petrified) angels in the Labyrinth in chapter 14)  
 - The heart of a goristro (from the demon slain by Yeenoghu in chapter 14)  
 - Thirteen timmasks sprouted from the footprint of a greater demon (from Araumycos's cavern in chapter 16, or elsewhere)  
 - Gromph Baenre's grimoire (from Sorcere in chapter 15)  
 - A few drops of blood or ichor from a demon lord (from Yeenoghu's battle with the goristro in chapter 14, or from fighting Juiblex in chapter 16)  
 
-After [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) uses these components to create the talisman known as the *dark heart* to draw forth the exiled demon lords from across the Underdark, he expects the adventurers to plant it in Menzoberranzan. Having learned from Vizeran's apprentice Grin Ousstyl of the archmage's secret goal to see the city destroyed, the characters might decide to place the *dark heart* talisman elsewhere, determining the battlefield for their confrontation with the demon lords (see "Let This Be Their Battlefield").
+After [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) uses these components to create the talisman known as the *dark heart* to draw forth the exiled demon lords from across the Underdark, he expects the adventurers to plant it in Menzoberranzan. Having learned from Vizeran's apprentice Grin Ousstyl of the archmage's secret goal to see the city destroyed, the characters might decide to place the *dark heart* talisman elsewhere, determining the battlefield for their confrontation with the demon lords (see "Let This Be Their Battlefield").
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/110-ooa17-01.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/110-ooa17-01.webp#center)
 
 ## Enacting the Plan
 
-Once the *dark heart* is in place, the ritual can begin. The adventurers and their allies take up a position not far from the *dark heart*, close to where the demons will appear. Where exactly depends on the placement of the talisman and the adventurers' own tactics and plans. They can use a [sending](/3-Mechanics/CLI/spells/sending-xphb.md) spell to signal Vizeran to begin the ritual once the talisman is in place. (If none of the characters can cast [sending](/3-Mechanics/CLI/spells/sending-xphb.md), Vizeran can provide the spell on a *spell scroll*).
+Once the *dark heart* is in place, the ritual can begin. The adventurers and their allies take up a position not far from the *dark heart*, close to where the demons will appear. Where exactly depends on the placement of the talisman and the adventurers' own tactics and plans. They can use a [sending](/03_Mechanics/CLI/spells/sending-xphb.md) spell to signal Vizeran to begin the ritual once the talisman is in place. (If none of the characters can cast [sending](/03_Mechanics/CLI/spells/sending-xphb.md), Vizeran can provide the spell on a *spell scroll*).
 
 Vizeran (assisted by Grin if the apprentice is available), performs the complex ritual in the sanctum of his tower. The ritual causes the *dark heart* to radiate a summons throughout the Underdark using the *faerzress*—an irresistible call drawing the demons toward it. When the ritual reaches its conclusion at the end of nine hours, portals of *faerzress* form. All the demons and demon lords in the Underdark are drawn through those portals, appearing together in the area around the *dark heart* talisman.
 
@@ -44,7 +44,7 @@ Enraged by being forcibly summoned yet again by a ritual, the demons fly into a 
 > 
 > This kind of moral dilemma can add significant drama to the story. However, it can also be played out as a red herring—by having it be something Vizeran asks for even though it's not necessary. The drow archmage might be testing the characters to see how far they'll go, or he could be afflicted with madness that makes him believe such a sacrifice is necessary even though it isn't.
 > 
-> A character can figure out the truth with a DC 20 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check, or by consulting Gromph Baenre's grimoire (see chapter 15). Alternatively, Grin Ousstyl can tell the characters the truth, enraging his master as a result.
+> A character can figure out the truth with a DC 20 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check, or by consulting Gromph Baenre's grimoire (see chapter 15). Alternatively, Grin Ousstyl can tell the characters the truth, enraging his master as a result.
 ^option-the-lesser-of-two-evils
 
 ### Let This Be Their Battlefield
@@ -55,12 +55,12 @@ Wherever the players decide to place the talisman, their characters must travel 
 
 > [!note] Staying Behind
 > 
-> One or more of the characters might choose to stay with Vizeran during the nine-hour performance of the ritual, whether to guard against treachery or to reclaim Gromph's grimoire once the ritual is done. If this is the case, you can add some action for those who remain behind by having a small number of the demons summoned by the ritual attracted to the site of the ritual rather than the location of the *dark heart* talisman. Alternatively, agents of [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) or Jarlaxle can attack Araj when the ritual is complete, wanting to silence Vizeran before he can reveal what he knows about Gromph Baenre (see chapter 15).
+> One or more of the characters might choose to stay with Vizeran during the nine-hour performance of the ritual, whether to guard against treachery or to reclaim Gromph's grimoire once the ritual is done. If this is the case, you can add some action for those who remain behind by having a small number of the demons summoned by the ritual attracted to the site of the ritual rather than the location of the *dark heart* talisman. Alternatively, agents of [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) or Jarlaxle can attack Araj when the ritual is complete, wanting to silence Vizeran before he can reveal what he knows about Gromph Baenre (see chapter 15).
 > 
 > Vizeran might also learn of Grin Ousstyl's betrayal of information to the adventurers, and choose to eliminate him immediately after he's served his purpose in assisting with the ritual. This might lead some characters back to Araj to aid the drow apprentice.
 ^staying-behind
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/111-ooa17-02.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/111-ooa17-02.webp#center)
 
 #### Araumycos
 
@@ -68,11 +68,11 @@ At the center of the network of caves and passages inhabited by Araumycos, the c
 
 #### Neverlight Grove
 
-If the characters inform the myconids of their need for a place to stage a daring last battle, [Sovereign Basidia](/3-Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) or another myconid representative might offer Neverlight Grove. The ranks of the myconids have been decimated by Zuggtmoy's depredations and the fetid wedding, and many fear their beloved caverns are corrupted. They are willing to seek a new home (perhaps in the caverns of Araumycos) and grateful enough to the heroes that they will sacrifice their old home to help them.
+If the characters inform the myconids of their need for a place to stage a daring last battle, [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) or another myconid representative might offer Neverlight Grove. The ranks of the myconids have been decimated by Zuggtmoy's depredations and the fetid wedding, and many fear their beloved caverns are corrupted. They are willing to seek a new home (perhaps in the caverns of Araumycos) and grateful enough to the heroes that they will sacrifice their old home to help them.
 
 #### Sloobludop
 
-The ruins of the kuo-toa settlement (see chapter 3) could become the site of the final fight against the demon lords. [Shuushar the Awakened](/3-Mechanics/CLI/bestiary/npc/shuushar-the-awakened-oota.md) can be convinced to help evacuate the remaining inhabitants if asked. The nearby Darklake creates its own challenges, particularly given the presence of ixitxachitl loyal to Demogorgon.
+The ruins of the kuo-toa settlement (see chapter 3) could become the site of the final fight against the demon lords. [Shuushar the Awakened](/03_Mechanics/CLI/bestiary/npc/shuushar-the-awakened-oota.md) can be convinced to help evacuate the remaining inhabitants if asked. The nearby Darklake creates its own challenges, particularly given the presence of ixitxachitl loyal to Demogorgon.
 
 #### Araj
 
@@ -89,7 +89,7 @@ The demon lords are some of the most powerful foes a party of adventurers could 
 
 #### Allied Forces
 
-Vizeran is needed to perform the ritual, placing him far from the battle and leaving him with three levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) (see appendix A of the "Player's Handbook") once the ritual is completed. He is thus unwilling to aid the characters during the fight. The archmage prefers to keep Grin Ousstyl to assist him, so the drow mage is likewise unable to assist. However, the adventurers have a number of other allies willing to fight alongside them in this last battle.
+Vizeran is needed to perform the ritual, placing him far from the battle and leaving him with three levels of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) (see appendix A of the "Player's Handbook") once the ritual is completed. He is thus unwilling to aid the characters during the fight. The archmage prefers to keep Grin Ousstyl to assist him, so the drow mage is likewise unable to assist. However, the adventurers have a number of other allies willing to fight alongside them in this last battle.
 
 Most of the heroes' allies are of limited use against the demon lords—creatures immune to many forms of attack, including nonmagical weapons. Rather than dealing with the ineffectual attacks of allies or a dozen or more additional actions each round, give characters backed up by a group of allies the following benefits.
 
@@ -126,13 +126,13 @@ Numerous other demons also pour through the portals. For a brief moment, all of 
 
 > [!note] Option: Jimjar's Last Gamble
 > 
-> If the adventurers need some extra help in their epic final battle at the end of the campaign, consider the following option involving [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md), the deep gnome gambler they met in the drow slave pen in chapter 1 of the adventure.
+> If the adventurers need some extra help in their epic final battle at the end of the campaign, consider the following option involving [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md), the deep gnome gambler they met in the drow slave pen in chapter 1 of the adventure.
 > 
-> "[Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md)" isn't at all who he appears. He is, in fact, a god or other great power in disguise—or the Chosen of such a power—and has been watching the heroes since their first encounter in Velkynvelve. His reasons for doing this are his own, but when push comes to shove, he can give the heroes some help in overcoming the demon lords.
+> "[Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md)" isn't at all who he appears. He is, in fact, a god or other great power in disguise—or the Chosen of such a power—and has been watching the heroes since their first encounter in Velkynvelve. His reasons for doing this are his own, but when push comes to shove, he can give the heroes some help in overcoming the demon lords.
 > 
-> At an opportune moment, [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) shows up (even returning from death if he appeared to perish earlier in the adventure) and gives the characters a vote of encouragement, telling them, "I bet you can do this." Each character gains inspiration and a *blessing of wound closure* (see ""Other Rewards"" in chapter 7 of the *Dungeon Master's Guide*). [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) disappears afterward, potentially putting in one last appearance at the end of the adventure to hint as to his true nature before vanishing into the Underdark.
+> At an opportune moment, [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md) shows up (even returning from death if he appeared to perish earlier in the adventure) and gives the characters a vote of encouragement, telling them, "I bet you can do this." Each character gains inspiration and a *blessing of wound closure* (see ""Other Rewards"" in chapter 7 of the *Dungeon Master's Guide*). [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md) disappears afterward, potentially putting in one last appearance at the end of the adventure to hint as to his true nature before vanishing into the Underdark.
 > 
-> Who is [Jimjar](/3-Mechanics/CLI/bestiary/npc/jimjar-oota.md) really? That depends on your characters and the campaign, but one of the characters' patron deities is a good possibility. He might also be a gnomish god such as Garl Glittergold or Callarduran Smoothhands, known tricksters and shapeshifters, and foes of demons and their ilk. The more important thing is that he serves as a "lucky charm" for the characters when they need him. This option works particularly well if the adventurers have been kind to the sometimes annoying deep gnome over the course of the campaign, earning his respect and gratitude.
+> Who is [Jimjar](/03_Mechanics/CLI/bestiary/npc/jimjar-oota.md) really? That depends on your characters and the campaign, but one of the characters' patron deities is a good possibility. He might also be a gnomish god such as Garl Glittergold or Callarduran Smoothhands, known tricksters and shapeshifters, and foes of demons and their ilk. The more important thing is that he serves as a "lucky charm" for the characters when they need him. This option works particularly well if the adventurers have been kind to the sometimes annoying deep gnome over the course of the campaign, earning his respect and gratitude.
 ^option-jimjars-last-gamble
 
 ### Demon Showdown
@@ -149,15 +149,15 @@ Rampaging lesser demons discover one or more of the characters where they wait o
 
 | dice: d4 | Demon Sortie |
 |----------|--------------|
-| 1 | 4 [barlguras](/3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
-| 2 | 4 [chasmes](/3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
-| 3 | 2 [hezrous](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
-| 4 | 3 [vrocks](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
+| 1 | 4 [barlguras](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
+| 2 | 4 [chasmes](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
+| 3 | 2 [hezrous](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
+| 4 | 3 [vrocks](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
 ^demon-sortie
 
 #### Demon Thief
 
-An [invisible](/3-Mechanics/CLI/conditions.md#Invisible) [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) tries to steal a small, valuable item from a party member. The target must succeed on a DC 13 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to notice the theft as it happens. On a failed check, the quasit makes off with the item undetected. You can make the search for the item a loose thread for the conclusion of the adventure. Alternatively, have the quasit killed during the battle, with the stolen item turning up in the aftermath.
+An [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md) tries to steal a small, valuable item from a party member. The target must succeed on a DC 13 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to notice the theft as it happens. On a failed check, the quasit makes off with the item undetected. You can make the search for the item a loose thread for the conclusion of the adventure. Alternatively, have the quasit killed during the battle, with the stolen item turning up in the aftermath.
 
 #### Endangered Allies
 
@@ -167,7 +167,7 @@ If any of the player characters' allies are accompanying them, a demon sortie (s
 > 
 > Rather than focusing on the adventurers biding their time and dealing with the fallout of the titanic battle between the demon lords, you can shift focus for this part of the adventure. Consider having the players take control of the various demon lords from appendix D, then play out the conflict between them.
 > 
-> Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [balors](/3-Mechanics/CLI/bestiary/fiend/balor-xmm.md) or other powerful demons to round out their numbers.
+> Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [balors](/03_Mechanics/CLI/bestiary/fiend/balor-xmm.md) or other powerful demons to round out their numbers.
 > 
 > The players control the demons in their battle to the death, with the only restriction being that they can't withdraw from the combat. Brief tactical retreats are permissible, but Vizeran's ritual has filled the demon lords with the rage to do battle.
 > 
@@ -183,13 +183,13 @@ The battle between the demon lords shifts dangerously close to the characters. R
 | dice: d6 | Event |
 |----------|-------|
 | 1–2 | **Explosion**. Each creature within 20 feet of a point you choose must make a DC 13 Dexterity saving throw. On a failure, the creature takes `3d6` fire damage, or half as much damage on a success. |
-| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [prone](/3-Mechanics/CLI/conditions.md#Prone) on a failure. |
+| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [prone](/03_Mechanics/CLI/conditions.md#Prone) on a failure. |
 | 5–6 | **Close Call**. A character you choose must make a successful DC 13 Dexterity saving throw to dodge a stray attack. On a failed save, the character takes `3d6` bludgeoning damage. |
 ^event
 
 #### Threatened Bystanders
 
-If the battle takes place in a populated area such as Menzoberranzan, the characters spot bystanders under attack by lesser demons that prefer to take on easy prey rather than fighting against their own kind. A dozen [dretches](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md) or [manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md) (50 percent chance of either) attack, killing and consuming their mortal victims unless the adventurers intervene.
+If the battle takes place in a populated area such as Menzoberranzan, the characters spot bystanders under attack by lesser demons that prefer to take on easy prey rather than fighting against their own kind. A dozen [dretches](/03_Mechanics/CLI/bestiary/fiend/dretch-xmm.md) or [manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md) (50 percent chance of either) attack, killing and consuming their mortal victims unless the adventurers intervene.
 
 ## Against Demogorgon
 
@@ -204,18 +204,18 @@ After running any events you wish from "The Battle," the struggle between the de
 
 Determine the characters' starting positions based on their actions during the battle. Demogorgon should be at least 80 feet away from them initially, unless the players specifically stated they were remaining close to the demon lord.
 
-Demogorgon has been wounded during the fight, giving the characters an edge in the battle to come. Apply the following penalties to the [Demogorgon](/3-Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md) stat block in appendix D:
+Demogorgon has been wounded during the fight, giving the characters an edge in the battle to come. Apply the following penalties to the [Demogorgon](/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm.md) stat block in appendix D:
 
 - Demogorgon has 290 hit points remaining and can't regain hit points due to the disruptive nature of Vizeran's *faerzress*-empowered ritual.  
 - He has only one use of Legendary Resistance remaining for the day.  
-- His [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md) innate spell is expended, as are all but one use each of [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](/3-Mechanics/CLI/spells/fear-xphb.md), and [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md).  
+- His [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md) innate spell is expended, as are all but one use each of [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](/03_Mechanics/CLI/spells/fear-xphb.md), and [telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md).  
 - With all the other demon lords banished back to the Abyss, Demogorgon becomes the focus of the disruptive power of Vizeran's ritual. This imposes a −5 penalty to his attack rolls, ability checks, and saving throws.  
 
 Even in his weakened state, the demon lord remains a terrifying opponent, attacking the adventurers in a howling fury as battle is joined.
 
 ### Wand of Orcus
 
-When Orcus is defeated, he drops the [Wand of Orcus](/3-Mechanics/CLI/items/wand-of-orcus-xdmg.md) (see "chapter 7" of the *Dungeon Master's Guide*), which falls to the ground. A party member can try to grab the wand before Demogorgon seizes it as a trophy, but any such theft draws the attention and ire of the Prince of Demons. Angry at its master's defeat, the [Wand of Orcus](/3-Mechanics/CLI/items/wand-of-orcus-xdmg.md) tries to attune itself to the first willing creature other than Demogorgon that touches it. The attunement is instantaneous, allowing the wand's properties to be used during the battle.
+When Orcus is defeated, he drops the [Wand of Orcus](/03_Mechanics/CLI/items/wand-of-orcus-xdmg.md) (see "chapter 7" of the *Dungeon Master's Guide*), which falls to the ground. A party member can try to grab the wand before Demogorgon seizes it as a trophy, but any such theft draws the attention and ire of the Prince of Demons. Angry at its master's defeat, the [Wand of Orcus](/03_Mechanics/CLI/items/wand-of-orcus-xdmg.md) tries to attune itself to the first willing creature other than Demogorgon that touches it. The attunement is instantaneous, allowing the wand's properties to be used during the battle.
 
 ### Destroying Demogorgon
 
@@ -236,7 +236,7 @@ Major loose threads left hanging at the end of the final battle include the foll
 
 ### Gromph's Grimoire
 
-After recovering Gromph Baenre's grimoire from Sorcere in chapter 15, the characters might think about what to do with the dark tome once the threat of the demon lords is ended. The knowledge and power the book represents are dangerous in anyone's hands—especially [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s, given what the characters know of him. However, the drow archmage doesn't give up the grimoire willingly.
+After recovering Gromph Baenre's grimoire from Sorcere in chapter 15, the characters might think about what to do with the dark tome once the threat of the demon lords is ended. The knowledge and power the book represents are dangerous in anyone's hands—especially [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s, given what the characters know of him. However, the drow archmage doesn't give up the grimoire willingly.
 
 Finding a means to get rid of Gromph's grimoire once and for all could be the basis for continued adventures, perhaps even leading characters into the Abyss (see "Into the Demonweb Pits"). Alternatively, if you arrange for the book to be stolen from Vizeran before the characters can deal with it, they might need to recover it to ensure its powers are never misused again.
 
@@ -246,7 +246,7 @@ If you prefer to tie up loose ends concerning the grimoire, you can have it bani
 
 One or more of the demon lords might remain in the Underdark or on the Material Plane by the end of the campaign, having managed to avoid being drawn into Vizeran's trap. Graz'zt is a good possibility. In this case, a continuing campaign might be necessary for the high-level heroes to acquire the resources they need to take on any remaining demon lords, since the trick with the *dark heart* isn't going to work a second time.
 
-The characters' continuing adventures could involve further cooperation with [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) (if he survives) or delving deeper into the Underdark for legendary weapons or magic. The characters might even venture out into the other planes of existence with the aid of Araumycos or the librarians of Gravenhollow, seeking allies, lore, and resources to combat the demon lords and return them to the Abyss.
+The characters' continuing adventures could involve further cooperation with [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) (if he survives) or delving deeper into the Underdark for legendary weapons or magic. The characters might even venture out into the other planes of existence with the aid of Araumycos or the librarians of Gravenhollow, seeking allies, lore, and resources to combat the demon lords and return them to the Abyss.
 
 ### Into the Demonweb Pits
 
@@ -262,7 +262,7 @@ In the event the heroes were not successful, a potential new campaign could take
 
 ### Gromph Baenre
 
-The fate of Gromph Baenre, instigator of chaos and Vizeran's rival, remains a mystery. If he yet lives, his role in recent events earns him many new enemies. Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) handpicks a new Archmage of Menzoberranzan to replace her troublesome brother, knowing Gromph will not be found until he chooses to reappear.
+The fate of Gromph Baenre, instigator of chaos and Vizeran's rival, remains a mystery. If he yet lives, his role in recent events earns him many new enemies. Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) handpicks a new Archmage of Menzoberranzan to replace her troublesome brother, knowing Gromph will not be found until he chooses to reappear.
 
 ### Menzoberranzan
 
@@ -278,7 +278,7 @@ Even if the heroes eliminate the threat the demon lords represent to Gauntlgrym,
 
 ### Vizeran DeVir
 
-Although he's nominally the party's ally during much of this adventure, [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) can't be underestimated. Once the immediate threat is dealt with, the drow archmage turns his attention to other goals—claiming what he considers his rightful place of power among the drow, and overthrowing the tyrannical rule of Lolth and her priestesses. Vizeran might start a civil war among the dark elves—one that could easily drag in the other civilizations of the Underdark and parts of Faerûn as well.
+Although he's nominally the party's ally during much of this adventure, [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) can't be underestimated. Once the immediate threat is dealt with, the drow archmage turns his attention to other goals—claiming what he considers his rightful place of power among the drow, and overthrowing the tyrannical rule of Lolth and her priestesses. Vizeran might start a civil war among the dark elves—one that could easily drag in the other civilizations of the Underdark and parts of Faerûn as well.
 
 Although Vizeran won't immediately turn against his former allies, the adventurers would be fools to trust him. He seizes any opportunity to increase his own power and prestige, including holding on to Gromph's grimoire and any ritual components or trinkets the adventurers might have acquired for him.
 

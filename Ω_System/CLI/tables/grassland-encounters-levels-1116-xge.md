@@ -18,22 +18,22 @@ modified: 2025-07-23 12:39
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-05 | `3d6` [wereboars](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) |
-| 06-10 | `2d10` [gnoll fangs of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md) |
-| 11-15 | `d4` [bulettes](/3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md) |
+| 01-05 | `3d6` [wereboars](/03_Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) |
+| 06-10 | `2d10` [gnoll fangs of Yeenoghu](/03_Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md) |
+| 11-15 | `d4` [bulettes](/03_Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md) |
 | 16-17 | An old road of paved stones, partly reclaimed by wilderness, that travels for `d8` miles in either direction before ending |
-| 18-27 | `d12` [couatls](/3-Mechanics/CLI/bestiary/celestial/couatl-xmm.md) |
-| 28-30 | A witch ([mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. |
-| 31-40 | `2d10` [elephants](/3-Mechanics/CLI/bestiary/beast/elephant-xmm.md) |
-| 41-46 | `2d4` [weretigers](/3-Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md) |
-| 47-56 | `1d8 + 1` [cyclopes](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
-| 57-61 | `d3` [chimeras](/3-Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md) |
-| 62-66 | 5 [triceratopses](/3-Mechanics/CLI/bestiary/beast/triceratops-xmm.md) |
+| 18-27 | `d12` [couatls](/03_Mechanics/CLI/bestiary/celestial/couatl-xmm.md) |
+| 28-30 | A witch ([mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) dwelling in a crude hut. She offers potions of healing, antitoxins, and other consumable items for sale in exchange for food and news. |
+| 31-40 | `2d10` [elephants](/03_Mechanics/CLI/bestiary/beast/elephant-xmm.md) |
+| 41-46 | `2d4` [weretigers](/03_Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md) |
+| 47-56 | `1d8 + 1` [cyclopes](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) |
+| 57-61 | `d3` [chimeras](/03_Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md) |
+| 62-66 | 5 [triceratopses](/03_Mechanics/CLI/bestiary/beast/triceratops-xmm.md) |
 | 67-69 | A giant hole 50 feet across that descends nearly 500 feet before opening into an empty cave |
-| 70-79 | `1d4 + 3` [gorgons](/3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md) |
-| 80-88 | `d3` [young gold dragons](/3-Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md) |
+| 70-79 | `1d4 + 3` [gorgons](/03_Mechanics/CLI/bestiary/construct/gorgon-xmm.md) |
+| 80-88 | `d3` [young gold dragons](/03_Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md) |
 | 89-90 | A circular section of grass nearly a quarter-mile across that appears to have been pressed down; `d4` more such circles connected by lines can be seen from overhead. |
-| 91-96 | `2d4` [tyrannosaurus rexes](/3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md) |
-| 97-99 | 1 [adult gold dragon](/3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) |
-| 00 | 1 [ancient gold dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md) |
+| 91-96 | `2d4` [tyrannosaurus rexes](/03_Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md) |
+| 97-99 | 1 [adult gold dragon](/03_Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) |
+| 00 | 1 [ancient gold dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md) |
 ^grassland-encounters-levels-1116

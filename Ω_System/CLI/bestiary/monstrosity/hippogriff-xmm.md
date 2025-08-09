@@ -61,7 +61,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
   - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
@@ -77,7 +77,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock
 

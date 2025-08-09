@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 5th Level
 
-- [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB")
+- [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md "XPHB")

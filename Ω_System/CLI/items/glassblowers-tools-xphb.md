@@ -22,6 +22,6 @@ modified: 2025-07-23 12:39
 
 - **Ability.** Intelligence  
 - **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [Glass Bottle](/3-Mechanics/CLI/items/glass-bottle-xphb.md), [Magnifying Glass](/3-Mechanics/CLI/items/magnifying-glass-xphb.md), [Spyglass](/3-Mechanics/CLI/items/spyglass-xphb.md), [Vial](/3-Mechanics/CLI/items/vial-xphb.md)  
+- **Craft.** [Glass Bottle](/03_Mechanics/CLI/items/glass-bottle-xphb.md), [Magnifying Glass](/03_Mechanics/CLI/items/magnifying-glass-xphb.md), [Spyglass](/03_Mechanics/CLI/items/spyglass-xphb.md), [Vial](/03_Mechanics/CLI/items/vial-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

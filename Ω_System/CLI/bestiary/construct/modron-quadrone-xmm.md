@@ -77,9 +77,9 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "Modron"
 "cr": "1"
@@ -96,7 +96,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
     "name": "Gears Launcher"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-quadrone-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/modron-quadrone-xmm.webp"
 ```
 ^statblock
 

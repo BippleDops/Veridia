@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md "XPHB")
+- [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md "XPHB")

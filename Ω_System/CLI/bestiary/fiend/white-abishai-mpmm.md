@@ -51,12 +51,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
 "damage_immunities": "cold, fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "6"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -82,12 +82,12 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "desc": "In response to taking damage, the abishai makes one Bite attack against\
       \ a random creature within 5 feet of it. If no creature is within reach, the\
       \ abishai moves up to half its speed toward an enemy it can see, without provoking\
-      \ [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
     "name": "Vicious Reprisal"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/white-abishai-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/white-abishai-mpmm.webp"
 ```
 ^statblock
 

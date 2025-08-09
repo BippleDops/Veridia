@@ -17,10 +17,10 @@ modified: 2025-07-23 12:39
 
 
 
-This 60-foot length of rope can hold up to 3,000 pounds. While holding one end of the rope, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to command the other end of the rope to animate and move toward a destination you choose, up to the rope's length away from you. That end moves 10 feet on your turn when you first command it and 10 feet at the start of each of your subsequent turns until reaching its destination or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
+This 60-foot length of rope can hold up to 3,000 pounds. While holding one end of the rope, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to command the other end of the rope to animate and move toward a destination you choose, up to the rope's length away from you. That end moves 10 feet on your turn when you first command it and 10 feet at the start of each of your subsequent turns until reaching its destination or until you tell it to stop. You can also tell the rope to fasten itself securely to an object or to unfasten itself, to knot or unknot itself, or to coil itself for carrying.
 
-If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on ability checks made to climb using the rope.
+If you tell the rope to knot, large knots appear at 1-foot intervals along the rope. While knotted, the rope shortens to a 50-foot length and grants [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on ability checks made to climb using the rope.
 
-The rope has AC 20, HP 20, and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Poison and Psychic damage. It regains 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) every 5 minutes as long as it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). If the rope drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), it is destroyed.
+The rope has AC 20, HP 20, and [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to Poison and Psychic damage. It regains 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) every 5 minutes as long as it has at least 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). If the rope drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), it is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

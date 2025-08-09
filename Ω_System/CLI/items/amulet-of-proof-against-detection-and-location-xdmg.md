@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)
+![](/03_Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)
 
 - **Weight**: 1.0 lbs.
 

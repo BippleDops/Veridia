@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Dwarves and Duergar
 *Source: Mordenkainen's Tome of Foes, p. 65* 
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch3.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/mtf_chapterstarts_ch3.webp#center)
 
 To impartial observers, the tale of the ancient war between dwarves and duergar is at its heart a tragedy, the story of a people turned against each other by bitterness and resentment. Once the dwarves were unified in their worship of Moradin, the deity who crafted the first dwarves from metal and fire. Today, the race is splintered into those who still embrace him as their father and creator-and those who have sworn to topple him from his divine throne.
 
@@ -64,7 +64,7 @@ To the dwarves, Moradin is the Creator. With his impeccable skills, he crafted t
 
 Moradin is also worshiped as the All-Father, in acknowledgment of his role as the progenitor of the dwarven race. In this aspect as well, he is credited not only for the birth of the dwarves but for fostering in them a deep appreciation for clan and family. He demonstrates how dwarf parents should raise their children, instilling in them the urge to further not only themselves but to contribute to the success of the larger group. Just as Moradin looks out for all dwarves, all dwarves in a clan look out for one another.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/135520_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/135520_cn_wmask.webp#center)
 
 ### The Path to Perfection
 
@@ -150,7 +150,7 @@ The masons and stone carvers in a clan consider the stronghold to be their great
 
 A clan's stronghold holds the record of its history and accomplishments. A work that an outsider regards as "merely" intricate stone carving might actually be a carefully composed recounting of deeds, events, and important persons. Dwarves combine their runes into patterns, present pictorial histories in seemingly unconnected murals and images, and otherwise leave their clan's legacy of accomplishments hiding in plain sight. The story of the clan is meant to be appreciated by clan members and fellow dwarves, not the few outsiders who might be allowed inside the stronghold.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315521_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315521_cn_wmask.webp#center)
 
 #### Island of Stability
 
@@ -174,7 +174,7 @@ Dwarves use a variety of approaches and devices in setting their defenses. The s
 
 Unlike some other races that guard their territory by creating features that actively deter invaders, dwarves rarely use arrow traps, pit traps, and other such measures that could cause harm to clan members. They see little sense in risking injury if a trap of that sort malfunctioned or was accidentally triggered by a dwarf. A defensive measure isn't doing its job if it ends up hurting those it was meant to protect.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315523_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315523_cn_wmask.webp#center)
 
 ### Dwarves of the Multiverse
 
@@ -252,9 +252,9 @@ Moradin is foremost among the dwarven pantheon, the epitome of everything dwarve
 
 The Dwarf Deities table lists the members of the Mordinsamman. For each god, the table notes alignment, province (the god's main areas of interest and responsibility), suggested domains for clerics who serve the god, and a common symbol of the god. Several of the gods in the table are described below.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315522_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315522_cn_wmask.webp#center)
 
-![Dwarven Religion; Dwarf Deities (The Mordinsamman)](/3-Mechanics/CLI/tables/dwarven-religion-dwarf-deities-the-mordinsamman-mtf.md)
+![Dwarven Religion; Dwarf Deities (The Mordinsamman)](/03_Mechanics/CLI/tables/dwarven-religion-dwarf-deities-the-mordinsamman-mtf.md)
 
 #### Moradin
 
@@ -461,7 +461,7 @@ Duergar society is a dark mirror of the dwarven clan. Where dwarves toil for lov
 
 In many ways, the culture of the duergar is fundamentally hollow. For all their wars, and all the treasures they have accumulated, duergar feel no happiness or satisfaction. They simply continue to exist, ever-turning cogs in an engine of destruction that is the antithesis of the dwarves' joyful cycle of creation.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315519_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315519_cn_wmask.webp#center)
 
 ### Three Rules of Conduct
 
@@ -527,7 +527,7 @@ Laduguer's teachings stand in direct opposition to everything Moradin represents
 
 Duergar don't worship Laduguer in any traditional way; their communities include no temples or formal services. They honor their deity by acquiring more power and wealth through any means possible. Priests of Laduguer maintain the internal functions of duergar society but have no role that is expressly religious.
 
-![Duergar Deities](/3-Mechanics/CLI/tables/duergar-deities-mtf.md)
+![Duergar Deities](/03_Mechanics/CLI/tables/duergar-deities-mtf.md)
 
 ### Inside a Stronghold
 
@@ -547,7 +547,7 @@ The priests of Deep Duerra reside in the second largest fortress, which houses t
 
 Steeders, spiders that are used as mounts and war beasts by the duergar, are housed in stables that stand between the workshops and the fortresses. Each enclosure is virtually an individual prison, since the violent creatures must be kept apart lest they tear into each other or wreak havoc in some other way. Only careful supervision and brutal discipline keep them in line when they are out of their cages. Each noble is responsible for maintaining a set of steeder pens, and a squad of duergar are assigned to train and supervise the beasts.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315524_cn_wmask.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315524_cn_wmask.webp#center)
 
 ### Power of the Mind
 
@@ -596,7 +596,7 @@ Any gray dwarves who leave the Underdark and take up adventuring, after having b
 
 At the DM's discretion, you can play a duergar character. When you choose the subrace of your dwarf, you can choose duergar, using the following rules to create your character.
 
-- [Dwarf (Duergar)](/3-Mechanics/CLI/races/dwarf-duergar-mtf.md)  
+- [Dwarf (Duergar)](/03_Mechanics/CLI/races/dwarf-duergar-mtf.md)  
 
 ## Dwarf Tables
 
@@ -608,35 +608,35 @@ In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
 When dwarves journey away from their strongholds, they prefer to move in substantial, heavily defended groups. Use the following tables to generate a band of dwarf travelers and some additional details of their situation. Roll once on each line of the Group Composition table and once on each table that follows it.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315622_cn.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315622_cn.webp#center)
 
-![Dwarves on the Move; Group Leader](/3-Mechanics/CLI/tables/dwarves-on-the-move-group-leader-mtf.md)
+![Dwarves on the Move; Group Leader](/03_Mechanics/CLI/tables/dwarves-on-the-move-group-leader-mtf.md)
 
-![Dwarves on the Move; Special Allies](/3-Mechanics/CLI/tables/dwarves-on-the-move-special-allies-mtf.md)
+![Dwarves on the Move; Special Allies](/03_Mechanics/CLI/tables/dwarves-on-the-move-special-allies-mtf.md)
 
-![Dwarves on the Move; Purpose of Travel](/3-Mechanics/CLI/tables/dwarves-on-the-move-purpose-of-travel-mtf.md)
+![Dwarves on the Move; Purpose of Travel](/03_Mechanics/CLI/tables/dwarves-on-the-move-purpose-of-travel-mtf.md)
 
-![Dwarves on the Move; Special Circumstances](/3-Mechanics/CLI/tables/dwarves-on-the-move-special-circumstances-mtf.md)
+![Dwarves on the Move; Special Circumstances](/03_Mechanics/CLI/tables/dwarves-on-the-move-special-circumstances-mtf.md)
 
 ### Dwarves in the Clan
 
 The following tables can be used to create basic information about a clan of dwarves: the group's current status, a trait or a fact that sets that clan apart from others, and the vocation of a given clan member.
 
-![Dwarves in the Clan; Clan's Status](/3-Mechanics/CLI/tables/dwarves-in-the-clan-clans-status-mtf.md)
+![Dwarves in the Clan; Clan's Status](/03_Mechanics/CLI/tables/dwarves-in-the-clan-clans-status-mtf.md)
 
-![Dwarves in the Clan; Clan's Notable Trait](/3-Mechanics/CLI/tables/dwarves-in-the-clan-clans-notable-trait-mtf.md)
+![Dwarves in the Clan; Clan's Notable Trait](/03_Mechanics/CLI/tables/dwarves-in-the-clan-clans-notable-trait-mtf.md)
 
-![Dwarves in the Clan; Clan Vocations](/3-Mechanics/CLI/tables/dwarves-in-the-clan-clan-vocations-mtf.md)
+![Dwarves in the Clan; Clan Vocations](/03_Mechanics/CLI/tables/dwarves-in-the-clan-clan-vocations-mtf.md)
 
 ### Dwarves in the World
 
 The tables below are designed to add depth to a dwarf character by offering possible reasons why the character left the clan for the life of an adventurer and a set of personality quirks tailored for dwarven sensibilities.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315526_cn.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315526_cn.webp#center)
 
-![Dwarves in the World; Dwarf Adventurer Story Hooks](/3-Mechanics/CLI/tables/dwarves-in-the-world-dwarf-adventurer-story-hooks-mtf.md)
+![Dwarves in the World; Dwarf Adventurer Story Hooks](/03_Mechanics/CLI/tables/dwarves-in-the-world-dwarf-adventurer-story-hooks-mtf.md)
 
-![Dwarves in the World; Dwarf Quirks](/3-Mechanics/CLI/tables/dwarves-in-the-world-dwarf-quirks-mtf.md)
+![Dwarves in the World; Dwarf Quirks](/03_Mechanics/CLI/tables/dwarves-in-the-world-dwarf-quirks-mtf.md)
 
 ## Duergar Tables
 
@@ -648,32 +648,32 @@ In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
 When duergar emerge from the Underdark, they generally do so in the form of small but vicious raiding parties. Use the following tables to generate a band of duergar raiders and some additional details of their situation. Roll once on each line of the Group Composition table and once on each table that follows it.
 
-![](/3-Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315527_cn.webp#center)
+![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315527_cn.webp#center)
 
-![Duergar Raiding Parties; 1](/3-Mechanics/CLI/tables/duergar-raiding-parties-1-mtf.md)
+![Duergar Raiding Parties; 1](/03_Mechanics/CLI/tables/duergar-raiding-parties-1-mtf.md)
 
-![Duergar Raiding Parties; Duergar Group Leader](/3-Mechanics/CLI/tables/duergar-raiding-parties-duergar-group-leader-mtf.md)
+![Duergar Raiding Parties; Duergar Group Leader](/03_Mechanics/CLI/tables/duergar-raiding-parties-duergar-group-leader-mtf.md)
 
-![Duergar Raiding Parties; Duergar Special Allies](/3-Mechanics/CLI/tables/duergar-raiding-parties-duergar-special-allies-mtf.md)
+![Duergar Raiding Parties; Duergar Special Allies](/03_Mechanics/CLI/tables/duergar-raiding-parties-duergar-special-allies-mtf.md)
 
-![Duergar Raiding Parties; Duergar Purpose of Raid](/3-Mechanics/CLI/tables/duergar-raiding-parties-duergar-purpose-of-raid-mtf.md)
+![Duergar Raiding Parties; Duergar Purpose of Raid](/03_Mechanics/CLI/tables/duergar-raiding-parties-duergar-purpose-of-raid-mtf.md)
 
-![Duergar Raiding Parties; Duergar Special Circumstances](/3-Mechanics/CLI/tables/duergar-raiding-parties-duergar-special-circumstances-mtf.md)
+![Duergar Raiding Parties; Duergar Special Circumstances](/03_Mechanics/CLI/tables/duergar-raiding-parties-duergar-special-circumstances-mtf.md)
 
 ### Duergar in the Clan
 
 The following tables can be used to create basic information about a clan of duergar somewhere in the world: the group's current status, and a trait or a fact that sets that clan apart from others.
 
-![Duergar in the Clan; Duergar Clan Names](/3-Mechanics/CLI/tables/duergar-in-the-clan-duergar-clan-names-mtf.md)
+![Duergar in the Clan; Duergar Clan Names](/03_Mechanics/CLI/tables/duergar-in-the-clan-duergar-clan-names-mtf.md)
 
-![Duergar in the Clan; Duergar Clan's Status](/3-Mechanics/CLI/tables/duergar-in-the-clan-duergar-clans-status-mtf.md)
+![Duergar in the Clan; Duergar Clan's Status](/03_Mechanics/CLI/tables/duergar-in-the-clan-duergar-clans-status-mtf.md)
 
-![Duergar in the Clan; Clan's Notable Trait](/3-Mechanics/CLI/tables/duergar-in-the-clan-clans-notable-trait-mtf.md)
+![Duergar in the Clan; Clan's Notable Trait](/03_Mechanics/CLI/tables/duergar-in-the-clan-clans-notable-trait-mtf.md)
 
 ### Duergar in the World
 
 The tables below are designed to add depth to a duergar character by offering possible reasons why the character left the clan for the life of an adventurer and a choice of personality quirks that are tailored for duergar.
 
-![Duergar in the World; Duergar Adventurer Story Hooks](/3-Mechanics/CLI/tables/duergar-in-the-world-duergar-adventurer-story-hooks-mtf.md)
+![Duergar in the World; Duergar Adventurer Story Hooks](/03_Mechanics/CLI/tables/duergar-in-the-world-duergar-adventurer-story-hooks-mtf.md)
 
-![Duergar in the World; Duergar Quirks](/3-Mechanics/CLI/tables/duergar-in-the-world-duergar-quirks-mtf.md)
+![Duergar in the World; Duergar Quirks](/03_Mechanics/CLI/tables/duergar-in-the-world-duergar-quirks-mtf.md)

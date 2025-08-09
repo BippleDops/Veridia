@@ -16,9 +16,9 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ## Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane-xphb.md) and [symbol](/3-Mechanics/CLI/spells/symbol-xphb.md), can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [contact other plane](/03_Mechanics/CLI/spells/contact-other-plane-xphb.md) and [symbol](/03_Mechanics/CLI/spells/symbol-xphb.md), can cause insanity, and you can use the madness rules here instead of the spell effects in the "Player's Handbook". Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
-Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [Sanity score](/3-Mechanics/CLI/variant-rules/new-ability-scores-honor-and-sanity.md) (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
+Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw. If your game includes the [Sanity score](/03_Mechanics/CLI/variant-rules/new-ability-scores-honor-and-sanity.md) (see chapter 9, "Dungeon Master's Workshop"), a creature makes a Sanity saving throw instead.
 
 ## Madness Effects
 
@@ -30,12 +30,12 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-![Short-Term Madness](/3-Mechanics/CLI/tables/short-term-madness.md)
+![Short-Term Madness](/03_Mechanics/CLI/tables/short-term-madness.md)
 
-![Long-Term Madness](/3-Mechanics/CLI/tables/long-term-madness.md)
+![Long-Term Madness](/03_Mechanics/CLI/tables/long-term-madness.md)
 
-![Indefinite Madness](/3-Mechanics/CLI/tables/indefinite-madness.md)
+![Indefinite Madness](/03_Mechanics/CLI/tables/indefinite-madness.md)
 
 ## Curing Madness
 
-A [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell can suppress the effects of madness, while a [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) or [dispel evil](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) might also prove effective. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or more powerful magic is required to rid a character of indefinite madness.
+A [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md) spell can suppress the effects of madness, while a [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) or [dispel evil](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) might also prove effective. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell or more powerful magic is required to rid a character of indefinite madness.

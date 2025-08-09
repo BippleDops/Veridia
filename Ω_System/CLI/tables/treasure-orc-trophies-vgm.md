@@ -27,7 +27,7 @@ modified: 2025-07-23 12:39
 | 7 | `d8` eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
-| 10 | [Random trinket](/3-Mechanics/CLI/items/trinket-xphb.md)* |
+| 10 | [Random trinket](/03_Mechanics/CLI/items/trinket-xphb.md)* |
 ^orc-trophies
 
 * Roll on the Trinkets table in chapter 5 of the Player's Handbook.

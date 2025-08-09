@@ -14,15 +14,15 @@ modified: 2025-07-23 12:39
 *Source: Strixhaven: A Curriculum of Chaos p. 31*  
 
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Skill Proficiencies.** [History](/03_Mechanics/CLI/skills.md#History), [Religion](/03_Mechanics/CLI/skills.md#Religion)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [bottle of black ink](/3-Mechanics/CLI/items/ink-xphb.md), an [ink pen](/3-Mechanics/CLI/items/ink-pen-xphb.md), a [hammer](/3-Mechanics/CLI/items/hammer.md), a [hooded lantern](/3-Mechanics/CLI/items/hooded-lantern-xphb.md), a [tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md), a tome of history, a school uniform, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Equipment.** A [bottle of black ink](/03_Mechanics/CLI/items/ink-xphb.md), an [ink pen](/03_Mechanics/CLI/items/ink-pen-xphb.md), a [hammer](/03_Mechanics/CLI/items/hammer.md), a [hooded lantern](/03_Mechanics/CLI/items/hooded-lantern-xphb.md), a [tinderbox](/03_Mechanics/CLI/items/tinderbox-xphb.md), a tome of history, a school uniform, and a [pouch](/03_Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
 
 You have spent your youth preparing to be a student of Lorehold College, reading every book on the college's recommended reading list for prospective students. Your academic passions are in the broad field of history. You might dream of using magic to contact great historical figures or your own ancestors or of recreating the mighty magic of a distant age.
 
 ## Feature: Lorehold Initiate
 
-You gain the [Strixhaven Initiate](/3-Mechanics/CLI/feats/strixhaven-initiate-scc.md) feat and must choose Lorehold within it.
+You gain the [Strixhaven Initiate](/03_Mechanics/CLI/feats/strixhaven-initiate-scc.md) feat and must choose Lorehold within it.
 
 In addition, if you have the Spellcasting or Pact Magic feature, the spells on the Lorehold Spells table are added to the spell list of your spellcasting class. (If you are a multiclass character with multiple spell lists, these spells are added to all of them.)
 
@@ -30,20 +30,20 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [Comprehend Languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md), [Identify](/3-Mechanics/CLI/spells/identify-xphb.md) |
-| 2nd | [Borrowed Knowledge](/3-Mechanics/CLI/spells/borrowed-knowledge-scc.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md) |
-| 3rd | [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [Spirit Guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md) |
-| 4th | [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [Stone Shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md) |
-| 5th | [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md), [Legend Lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md) |
+| 1st | [Comprehend Languages](/03_Mechanics/CLI/spells/comprehend-languages-xphb.md), [Identify](/03_Mechanics/CLI/spells/identify-xphb.md) |
+| 2nd | [Borrowed Knowledge](/03_Mechanics/CLI/spells/borrowed-knowledge-scc.md), [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md) |
+| 3rd | [Speak with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md), [Spirit Guardians](/03_Mechanics/CLI/spells/spirit-guardians-xphb.md) |
+| 4th | [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md), [Stone Shape](/03_Mechanics/CLI/spells/stone-shape-xphb.md) |
+| 5th | [Flame Strike](/03_Mechanics/CLI/spells/flame-strike-xphb.md), [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md) |
 ^lorehold-spells
 
 Consider customizing how your spells look when you cast them. Your Lorehold spells might create displays of golden light. You might use a tome or a scroll as a spellcasting focus, and your spell effects might reflect the appearance of the reference books you study.
 
 ## Building a Lorehold Character
 
-Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the [School of Divination](/3-Mechanics/CLI/classes/wizard-xphb-diviner-xphb.md)) are numerous among its students. Clerics (often with the Knowledge or [Light](/3-Mechanics/CLI/classes/cleric-xphb-light-domain-xphb.md) domains) are also quite common.
+Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the [School of Divination](/03_Mechanics/CLI/classes/wizard-xphb-diviner-xphb.md)) are numerous among its students. Clerics (often with the Knowledge or [Light](/03_Mechanics/CLI/classes/cleric-xphb-light-domain-xphb.md) domains) are also quite common.
 
-For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the Path of the Ancestral Guardian from "Xanathar's Guide to Everything") or a paladin whose [Oath of the Ancients](/3-Mechanics/CLI/classes/paladin-xphb-oath-of-the-ancients-xphb.md) gives a concrete link to history.
+For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the Path of the Ancestral Guardian from "Xanathar's Guide to Everything") or a paladin whose [Oath of the Ancients](/03_Mechanics/CLI/classes/paladin-xphb-oath-of-the-ancients-xphb.md) gives a concrete link to history.
 
 ### Suggested Characteristics
 
@@ -65,4 +65,4 @@ Methodical historians and daring adventurers alike can be found among the ranks 
 
 ### Lorehold Trinkets
 
-When you make your character, you may roll once on the [Lorehold Trinkets](/3-Mechanics/CLI/items/lorehold-trinket-scc.md) table, instead of on the [Trinkets table](/3-Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
+When you make your character, you may roll once on the [Lorehold Trinkets](/03_Mechanics/CLI/items/lorehold-trinket-scc.md) table, instead of on the [Trinkets table](/03_Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.

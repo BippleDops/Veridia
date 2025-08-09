@@ -65,7 +65,7 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
     "name": "Javelin"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
 ```
 ^statblock
 

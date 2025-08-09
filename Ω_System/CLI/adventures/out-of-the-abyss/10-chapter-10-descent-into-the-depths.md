@@ -12,9 +12,9 @@ modified: 2025-07-23 12:39
 # Chapter 10: Descent into the Depths
 *Source: Out of the Abyss, p. 143* 
 
-Having survived Mantol-Derith and obtained [Ghazrim DuLoc](/3-Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md)'s ring, the adventurers and their allies continue on into the Underdark. This time, rather than escaped prisoners looking for a way out, they are at the head of an expeditionary force ready to challenge whatever the Underdark has to offer.
+Having survived Mantol-Derith and obtained [Ghazrim DuLoc](/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota.md)'s ring, the adventurers and their allies continue on into the Underdark. This time, rather than escaped prisoners looking for a way out, they are at the head of an expeditionary force ready to challenge whatever the Underdark has to offer.
 
-Much of this middle section of the adventure is free-form, dictated largely by the characters' decisions and tactics. The adventurers' immediate destination is the legendary library of Gravenhollow (see chapter 11), where they gain information that likely takes them to the tower of Araj, home of the mysterious drow archmage [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md). However, the characters are free to explore and visit different places before and after they explore Gravenhollow and unlock its secrets.
+Much of this middle section of the adventure is free-form, dictated largely by the characters' decisions and tactics. The adventurers' immediate destination is the legendary library of Gravenhollow (see chapter 11), where they gain information that likely takes them to the tower of Araj, home of the mysterious drow archmage [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md). However, the characters are free to explore and visit different places before and after they explore Gravenhollow and unlock its secrets.
 
 The events described in chapters 13 through 16 can be interspersed among the material in this part of the adventure, as the characters work to fully understand the new menaces that have appeared in the Underdark, seek new allies and information, and ultimately attempt to create a plan to end the demon lord threat.
 
@@ -22,7 +22,7 @@ Character advancement through this section of the adventure is important. The jo
 
 ## Fellow Travelers
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/083-ooa10-01.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/083-ooa10-01.webp#center)
 
 The characters initially traveled through the Underdark as a small group, perhaps joined by a few of their fellow prisoners from Velkynvelve and other allies they met along the way. Now, they return to the subterranean realm at the head of a group of allies that might outnumber the adventurers four-to-one, depending on how many NPCs were recruited from the factions in Gauntlgrym (see chapter 8). This changes some of the conditions described in "Underdark Travel" in chapter 2.
 
@@ -41,11 +41,11 @@ The marching order affects where and how different encounters might occur, parti
 
 The pace of Underdark travel remains as outlined in chapter 2, and the characters move no slower for traveling with a larger party. Although a portion of the expeditionary force might be mounted on giant lizards, the lizards travel at the pace of the rest of the party unless they move out ahead.
 
-As noted in chapter 2, a fast pace makes it harder for characters to spot ambushers or items of interest, and prevents characters from foraging. A slow pace improves chances of foraging. However, even while traveling at a slow pace, the characters and the NPCs can't use stealth, since they are too large a group to go unnoticed. [Stealth](/3-Mechanics/CLI/skills.md#Stealth) is an option only for a smaller scouting party traveling away from the main force (see "Scouting").
+As noted in chapter 2, a fast pace makes it harder for characters to spot ambushers or items of interest, and prevents characters from foraging. A slow pace improves chances of foraging. However, even while traveling at a slow pace, the characters and the NPCs can't use stealth, since they are too large a group to go unnoticed. [Stealth](/03_Mechanics/CLI/skills.md#Stealth) is an option only for a smaller scouting party traveling away from the main force (see "Scouting").
 
 ### Navigating
 
-While traveling as part of a larger group, the characters have an easier time navigating their way through the Underdark than they did during their initial escape. The characters' own experience, plus that of their followers, along with maps and other information they might have acquired in Gauntlgrym or elsewhere, give all members of the expanded party advantage on any Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)) checks to avoid becoming lost (see chapter 5, ""Adventure Environments"," of the *Dungeon Master's Guide*).
+While traveling as part of a larger group, the characters have an easier time navigating their way through the Underdark than they did during their initial escape. The characters' own experience, plus that of their followers, along with maps and other information they might have acquired in Gauntlgrym or elsewhere, give all members of the expanded party advantage on any Wisdom ([Survival](/03_Mechanics/CLI/skills.md#Survival)) checks to avoid becoming lost (see chapter 5, ""Adventure Environments"," of the *Dungeon Master's Guide*).
 
 ### Scouting
 
@@ -118,7 +118,7 @@ For the rules on madness, see chapter 2 of this adventure and chapter 8, ""Runni
 | 10–11 | Discipline problem |
 | 12–13 | Disease |
 | 14–15 | Madness |
-| 16–17 | [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) NPCs |
+| 16–17 | [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) NPCs |
 | 18–19 | Spoiled supplies |
 | 20 | Vanishing NPCs |
 ^event
@@ -133,12 +133,12 @@ The party stumbles upon the remains of one or more creatures slaughtered by ramp
 
 | dice: d10 | Corpse Present |
 |-----------|----------------|
-| 1 | 1 dead [behir](/3-Mechanics/CLI/bestiary/monstrosity/behir-xmm.md) |
-| 2–3 | `d4` dead [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and `d4`−1 dead [giant lizards](/3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) |
-| 4–5 | `3d8` dead [giant fire beetles](/3-Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md) (their glands are no longer glowing) |
-| 6–7 | `2d4` dead [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
-| 8–9 | `2d4` dead [kuo-toa](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) |
-| 10 | 1 dead [purple worm](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) |
+| 1 | 1 dead [behir](/03_Mechanics/CLI/bestiary/monstrosity/behir-xmm.md) |
+| 2–3 | `d4` dead [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and `d4`−1 dead [giant lizards](/03_Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) |
+| 4–5 | `3d8` dead [giant fire beetles](/03_Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md) (their glands are no longer glowing) |
+| 6–7 | `2d4` dead [gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
+| 8–9 | `2d4` dead [kuo-toa](/03_Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) |
+| 10 | 1 dead [purple worm](/03_Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) |
 ^corpse-present
 
 Roll a `d6` and consult the Scavengers table to determine what scavengers, if any, are feasting on the remains.
@@ -149,10 +149,10 @@ Roll a `d6` and consult the Scavengers table to determine what scavengers, if an
 
 | dice: d6 | Scavengers |
 |----------|------------|
-| 1–2 | `d3` [black puddings](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
-| 3–4 | `d4` [carrion crawlers](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) |
-| 5 | `d6` [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) and `d6` [hyenas](/3-Mechanics/CLI/bestiary/beast/hyena-xmm.md) |
-| 6 | 1 [otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) |
+| 1–2 | `d3` [black puddings](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
+| 3–4 | `d4` [carrion crawlers](/03_Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) |
+| 5 | `d6` [gnolls](/03_Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) and `d6` [hyenas](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md) |
+| 6 | 1 [otyugh](/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) |
 ^scavengers
 
 ### Creature Encounter
@@ -169,12 +169,12 @@ Roll a `d20` and consult the Demon Encounters table to determine what appears. I
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–4 | `d4` [barlguras](/3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
-| 5–8 | `d4` [chasmes](/3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
-| 9–10 | `d2` [hezrous](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
-| 11–14 | `d4` [shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) demons |
-| 15–18 | `d3` [vrocks](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
-| 19–20 | [Juiblex](/3-Mechanics/CLI/bestiary/npc/juiblex-mpmm.md) (see appendix D) |
+| 1–4 | `d4` [barlguras](/03_Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) |
+| 5–8 | `d4` [chasmes](/03_Mechanics/CLI/bestiary/fiend/chasme-xmm.md) |
+| 9–10 | `d2` [hezrous](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) |
+| 11–14 | `d4` [shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) demons |
+| 15–18 | `d3` [vrocks](/03_Mechanics/CLI/bestiary/fiend/vrock-xmm.md) |
+| 19–20 | [Juiblex](/03_Mechanics/CLI/bestiary/npc/juiblex-mpmm.md) (see appendix D) |
 ^encounter
 
 ### Discipline Problem
@@ -223,11 +223,11 @@ One NPC party member goes mad. To determine the kind of madness, roll a `d6` and
 
 ### Poisoned NPCs
 
-One or more NPC party members are [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for `1d10 × 10` hours by eating tainted food or poisonous Underdark mushrooms. Roll a `d12` to determine how many NPCs are [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way.
+One or more NPC party members are [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) for `1d10 × 10` hours by eating tainted food or poisonous Underdark mushrooms. Roll a `d12` to determine how many NPCs are [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way.
 
 ### Spoiled Supplies
 
-The party's provisions become infested with Underdark vermin or infected with spores that render them poisonous. Unless the characters have access to [purify food and drink](/3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md) or similar magic, the party must dispose of `3d6` days of rations.
+The party's provisions become infested with Underdark vermin or infected with spores that render them poisonous. Unless the characters have access to [purify food and drink](/03_Mechanics/CLI/spells/purify-food-and-drink-xphb.md) or similar magic, the party must dispose of `3d6` days of rations.
 
 ### Vanishing NPCs
 
@@ -256,15 +256,15 @@ This section addresses what happens if the characters visit places they skipped 
 
 ### Blingdenstone
 
-If the adventurers encountered [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) and uncovered evidence of Juiblex's presence near Blingdenstone, they might want to return there to confirm that the svirfneblin settlement remains safe from the demon lord's influence.
+If the adventurers encountered [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) and uncovered evidence of Juiblex's presence near Blingdenstone, they might want to return there to confirm that the svirfneblin settlement remains safe from the demon lord's influence.
 
-Alternatively, if the characters didn't previously visit Blingdenstone, news of the challenges faced by the deep gnomes can reach them while they travel through the Underdark. Deep gnome merchants headed to Mantol-Derith bring word of oozes infesting the settlement, giving the characters an opportunity to face off against [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
+Alternatively, if the characters didn't previously visit Blingdenstone, news of the challenges faced by the deep gnomes can reach them while they travel through the Underdark. Deep gnome merchants headed to Mantol-Derith bring word of oozes infesting the settlement, giving the characters an opportunity to face off against [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md).
 
-At some point after [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) is dealt with, Juiblex and its servants make their way toward the caverns of Araumycos to crash Zuggtmoy's wedding (see chapter 16, "The Fetid Wedding"). If [the Pudding King](/3-Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) is among the survivors, he leads the mad march to confront Zuggtmoy and her fungal followers.
+At some point after [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) is dealt with, Juiblex and its servants make their way toward the caverns of Araumycos to crash Zuggtmoy's wedding (see chapter 16, "The Fetid Wedding"). If [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) is among the survivors, he leads the mad march to confront Zuggtmoy and her fungal followers.
 
 #### Reinforcements
 
-The deep gnomes of Blingdenstone are valuable allies. In gratitude for the adventurers' aid, they offer to reinforce the party's expeditionary force with twelve [deep gnomes](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md). Chief Dorbo Diggermattock can also be persuaded to lend additional aid and troops, if the heroes present a compelling case. Use the information in chapter 6 to guide any negotiations or arrangements the adventurers attempt to make with the svirfneblin.
+The deep gnomes of Blingdenstone are valuable allies. In gratitude for the adventurers' aid, they offer to reinforce the party's expeditionary force with twelve [deep gnomes](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md). Chief Dorbo Diggermattock can also be persuaded to lend additional aid and troops, if the heroes present a compelling case. Use the information in chapter 6 to guide any negotiations or arrangements the adventurers attempt to make with the svirfneblin.
 
 ### The Darklake
 
@@ -276,13 +276,13 @@ Chapter 3 contains information on navigating the Darklake. If the expeditionary 
 
 If the characters visit Sloobludop, they find the kuo-toa community in ruins. Demogorgon smashed and crushed many of the structures of the settlement, killing about half the kuo-toa community in the process. The survivors have fallen prey to madness and the predations of Underdark monsters in the time since.
 
-Obscene altars and shrines are everywhere, many of them depicting elements of Demogorgon's twisted iconography—spirals and "[Y](/3-Mechanics/CLI/bestiary/npc/y-oota.md)" shapes, two-headed creatures, manta rays, and tentacles. Other shrines show the influence of other demon lords, including piles of skulls and bones, strange maze patterns, spore clouds, and fetid pools of ooze. Conflicts are rapidly rising between the various "sects" that have formed.
+Obscene altars and shrines are everywhere, many of them depicting elements of Demogorgon's twisted iconography—spirals and "[Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md)" shapes, two-headed creatures, manta rays, and tentacles. Other shrines show the influence of other demon lords, including piles of skulls and bones, strange maze patterns, spore clouds, and fetid pools of ooze. Conflicts are rapidly rising between the various "sects" that have formed.
 
-If [Shuushar the Awakened](/3-Mechanics/CLI/bestiary/npc/shuushar-the-awakened-oota.md) (see chapter 1) was not killed in a previous chapter of the adventure, the characters find him among Sloobludop's survivors. He is the sole point of calm and reason in the ruined settlement, and the various factions of the kuo-toa show him respect. Shuushar mediates disputes between the kuo-toa and supervises the allocation of their dwindling resources. Even so, the kuo-toa monk isn't sure how long he can sustain his people and keep them from destruction.
+If [Shuushar the Awakened](/03_Mechanics/CLI/bestiary/npc/shuushar-the-awakened-oota.md) (see chapter 1) was not killed in a previous chapter of the adventure, the characters find him among Sloobludop's survivors. He is the sole point of calm and reason in the ruined settlement, and the various factions of the kuo-toa show him respect. Shuushar mediates disputes between the kuo-toa and supervises the allocation of their dwindling resources. Even so, the kuo-toa monk isn't sure how long he can sustain his people and keep them from destruction.
 
 ### Gracklstugh
 
-If the characters visited Gracklstugh previously, the duergar response to their return is dictated by the gray dwarves' prior experience with the characters. The duergar are cautious—if not downright alarmed—at the sight of an armed expeditionary force from the surface world at their gates. They likely refuse entry to the full party, allowing only a select few characters into the Darklake District. [Invisible](/3-Mechanics/CLI/conditions.md#Invisible) duergar guards keep watch on characters in the city at all times, and might even infiltrate the expeditionary force, attempting to eavesdrop on conversations to learn the adventurers' intentions.
+If the characters visited Gracklstugh previously, the duergar response to their return is dictated by the gray dwarves' prior experience with the characters. The duergar are cautious—if not downright alarmed—at the sight of an armed expeditionary force from the surface world at their gates. They likely refuse entry to the full party, allowing only a select few characters into the Darklake District. [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) duergar guards keep watch on characters in the city at all times, and might even infiltrate the expeditionary force, attempting to eavesdrop on conversations to learn the adventurers' intentions.
 
 #### Chaos in the City
 
@@ -290,15 +290,15 @@ The influence of the demon lords grows ever stronger in Gracklstugh. Paranoia an
 
 Conflict between the Keepers of the Flame and the Gray Ghosts thieves' guild comes to a boil. Each side blames the other for recent happenings in the City of Blades and believes it can use the situation to its advantage. Keepers turn up dead, murdered by mysterious assailants, while agents of that order use increasingly brutal methods to ferret out and eliminate the Gray Ghosts—or anyone believed to associate with them.
 
-Whether due to the intervention of the adventurers, the recent events in the Underdark, or both, [Themberchaud](/3-Mechanics/CLI/bestiary/npc/themberchaud-oota.md) the Wyrmsmith knows that the Keepers are deliberately oppressing him, and he plots to thin their ranks and weaken their power. Though the dragon knows that he is effectively trapped in the caverns of Gracklstugh even if he wins his freedom, he hungers for it nonetheless, just as he hungers for revenge against those who oppose him.
+Whether due to the intervention of the adventurers, the recent events in the Underdark, or both, [Themberchaud](/03_Mechanics/CLI/bestiary/npc/themberchaud-oota.md) the Wyrmsmith knows that the Keepers are deliberately oppressing him, and he plots to thin their ranks and weaken their power. Though the dragon knows that he is effectively trapped in the caverns of Gracklstugh even if he wins his freedom, he hungers for it nonetheless, just as he hungers for revenge against those who oppose him.
 
 #### Dark Plots
 
-If the characters spend much time in Gracklstugh, they become caught up in a rush of destructive events. A secret alliance of factions within the Council of Savants and the Keepers of the Flame, driven by demonic madness, comes to the conclusion that Gracklstugh's salvation lies in eliminating [Themberchaud](/3-Mechanics/CLI/bestiary/npc/themberchaud-oota.md) before he becomes a bigger threat. In the process, both factions plan to acquire a new and far more powerful patron.
+If the characters spend much time in Gracklstugh, they become caught up in a rush of destructive events. A secret alliance of factions within the Council of Savants and the Keepers of the Flame, driven by demonic madness, comes to the conclusion that Gracklstugh's salvation lies in eliminating [Themberchaud](/03_Mechanics/CLI/bestiary/npc/themberchaud-oota.md) before he becomes a bigger threat. In the process, both factions plan to acquire a new and far more powerful patron.
 
-The duergar and derro hatch a scheme to sacrifice [Themberchaud](/3-Mechanics/CLI/bestiary/npc/themberchaud-oota.md) as an offering to Demogorgon, drawing the demon prince to their city and pledging themselves to the Prince of Demons. A few of them even have delusions that they can somehow bind or influence the demon lord's power, or that the demon lord will lead them in conquering the whole of the Underdark. Meanwhile, rumors mount that the drow of Menzoberranzan are behind the demonic incursion. Tales range from the drow raising a mighty army of demons to a summoning spell gone terribly wrong. A demonic rampage is said to have nearly destroyed the City of Spiders, and characters with knowledge of the situation in Menzoberranzan are of great interest to all the factions of Gracklstugh. Any evidence that the drow are responsible for the presence of the demon lords stokes the already blazing embers of animosity against the dark elves, with the more militant factions of Gracklstugh calling for a renewed war of vengeance against Menzoberranzan.
+The duergar and derro hatch a scheme to sacrifice [Themberchaud](/03_Mechanics/CLI/bestiary/npc/themberchaud-oota.md) as an offering to Demogorgon, drawing the demon prince to their city and pledging themselves to the Prince of Demons. A few of them even have delusions that they can somehow bind or influence the demon lord's power, or that the demon lord will lead them in conquering the whole of the Underdark. Meanwhile, rumors mount that the drow of Menzoberranzan are behind the demonic incursion. Tales range from the drow raising a mighty army of demons to a summoning spell gone terribly wrong. A demonic rampage is said to have nearly destroyed the City of Spiders, and characters with knowledge of the situation in Menzoberranzan are of great interest to all the factions of Gracklstugh. Any evidence that the drow are responsible for the presence of the demon lords stokes the already blazing embers of animosity against the dark elves, with the more militant factions of Gracklstugh calling for a renewed war of vengeance against Menzoberranzan.
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/084-ooa10-02.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/084-ooa10-02.webp#center)
 
 ### Menzoberranzan
 
@@ -306,39 +306,39 @@ The characters might decide to visit Menzoberranzan before heading to Gravenholl
 
 #### March on Menzoberranzan
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/085-ooa10-03.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/085-ooa10-03.webp#center)
 
-If the characters advance their expeditionary force toward the drow city, word of their approach reaches Menzoberranzan two days before their arrival, and the drow dispatch a well-armed defense force to destroy the surface dwellers. Racing ahead of this drow force is a high elf from Silverymoon named [Khalessa Draga](/3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md). A deep cover agent of the Lords' Alliance, Khalessa has been spying on the drow for years—so long, in fact, that her superiors are beginning to wonder if she's a defector. [Khalessa](/3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md) is a loyal alliance [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) with the following statistical modifications:
+If the characters advance their expeditionary force toward the drow city, word of their approach reaches Menzoberranzan two days before their arrival, and the drow dispatch a well-armed defense force to destroy the surface dwellers. Racing ahead of this drow force is a high elf from Silverymoon named [Khalessa Draga](/03_Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md). A deep cover agent of the Lords' Alliance, Khalessa has been spying on the drow for years—so long, in fact, that her superiors are beginning to wonder if she's a defector. [Khalessa](/03_Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md) is a loyal alliance [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) with the following statistical modifications:
 
 - Khalessa's alignment is neutral.  
-- She has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
+- She has [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
 - She speaks Common, Elvish, and Undercommon.  
-- Khalessa's fey ancestry gives her advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put her to sleep.  
-- She can cast the [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip at will.  
-- She owns a [hat of disguise](/3-Mechanics/CLI/items/hat-of-disguise-xdmg.md), which she uses to appear as a female drow while in the company of drow, and she wears a [piwafwi](/3-Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota.md) (see appendix B).  
+- Khalessa's fey ancestry gives her advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put her to sleep.  
+- She can cast the [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip at will.  
+- She owns a [hat of disguise](/03_Mechanics/CLI/items/hat-of-disguise-xdmg.md), which she uses to appear as a female drow while in the company of drow, and she wears a [piwafwi](/03_Mechanics/CLI/items/piwafwi-cloak-of-elvenkind-oota.md) (see appendix B).  
 
 Khalessa urges the characters to turn back. If they don't, she fears that the drow force will overwhelm them. Having blown her cover to warn the characters, she asks to stay with them until they reach Gauntlgrym or an alliance settlement.
 
-The leaders of the drow force are a female [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Ryzliir Symryvvin and her consort, a male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Velgor Zolond. They are joined by a prisoner in manacles—an unarmed and unarmored male human [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) of the Order of the Gauntlet named [Aljanor Keenblade](/3-Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota.md). Sir Aljanor was captured during a surface raid months ago, and the drow have beaten him such that he has only 3 hit points remaining. Members of the order traveling in the party's expeditionary force recognize Sir Aljanor instantly and are [surprised](/3-Mechanics/CLI/conditions.md#Surprised); they assumed he had been killed.
+The leaders of the drow force are a female [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Ryzliir Symryvvin and her consort, a male [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Velgor Zolond. They are joined by a prisoner in manacles—an unarmed and unarmored male human [knight](/03_Mechanics/CLI/bestiary/humanoid/knight-xmm.md) of the Order of the Gauntlet named [Aljanor Keenblade](/03_Mechanics/CLI/bestiary/npc/aljanor-keenblade-oota.md). Sir Aljanor was captured during a surface raid months ago, and the drow have beaten him such that he has only 3 hit points remaining. Members of the order traveling in the party's expeditionary force recognize Sir Aljanor instantly and are [surprised](/03_Mechanics/CLI/conditions.md#Surprised); they assumed he had been killed.
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/086-ooa10-04.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/086-ooa10-04.webp#center)
 
 Ryzliir vows to execute Aljanor unless the characters withdraw their expeditionary force immediately. Under no circumstances will she willingly release her prisoner. If the characters refuse to turn back, Ryzliir kills Aljanor and orders her own force to attack. If the characters leave Aljanor behind or allow him to die, members of the party's expeditionary force in league with the Order of the Gauntlet who make it back to Gauntlgrym report the incident to Sir Lanniver Strayl (see chapter 8).
 
-Ryzliir and Velgor are mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics), and Aljanor rides behind Velgor. Ryzliir commands a force of six [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors, twelve [bugbear](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) slaves, and sixty [goblin](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) slaves. If all the drow are killed, the goblinoids flee as their morale breaks.
+Ryzliir and Velgor are mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics), and Aljanor rides behind Velgor. Ryzliir commands a force of six [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors, twelve [bugbear](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) slaves, and sixty [goblin](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) slaves. If all the drow are killed, the goblinoids flee as their morale breaks.
 
 Sir Aljanor has made his peace with Tyr and expects to die. He is disappointed if good lives are lost in a foolish attempt to rescue him. If he survives, he accepts any offer to join the party's expeditionary force and is quick to assume a leadership role.
 
 ### Neverlight Grove
 
-If the characters return to Neverlight Grove, myconids loyal to [Sovereign Basidia](/3-Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) (including [Stool](/3-Mechanics/CLI/bestiary/npc/stool-oota.md) and [Rumpadump](/3-Mechanics/CLI/bestiary/npc/rumpadump-oota.md) if they remained behind) try to intercept them before their arrival and warn them off. The myconids say that matters have become grave, and that the characters should avoid the grove at all costs.
+If the characters return to Neverlight Grove, myconids loyal to [Sovereign Basidia](/03_Mechanics/CLI/bestiary/npc/sovereign-basidia-oota.md) (including [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) and [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) if they remained behind) try to intercept them before their arrival and warn them off. The myconids say that matters have become grave, and that the characters should avoid the grove at all costs.
 
-If the adventurers don't leave immediately, six [myconid adults](/3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md), four [quaggoth spore servants](/3-Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md), and four [awakened zurkhwoods](/3-Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) (see appendix C) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.
+If the adventurers don't leave immediately, six [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md), four [quaggoth spore servants](/03_Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md), and four [awakened zurkhwoods](/03_Mechanics/CLI/bestiary/plant/awakened-zurkhwood-oota.md) (see appendix C) loyal to Sovereign Phylo cut off their retreat. They surround the characters and their followers, offering to escort them to Phylo as the sovereign's honored guests.
 
-Sovereign Phylo is friendly and offers all visitors food and drink; however, his offerings are [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). Each creature that consumes the food or drink must succeed on a DC 13 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 8 hours. The creature is also [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way. Any creature that remains [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) in the grove for 1 hour or more is afflicted by Zuggtmoy's spores, as described in chapter 5.
+Sovereign Phylo is friendly and offers all visitors food and drink; however, his offerings are [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned). Each creature that consumes the food or drink must succeed on a DC 13 Constitution saving throw or become [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) for 8 hours. The creature is also [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) while [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way. Any creature that remains [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) in the grove for 1 hour or more is afflicted by Zuggtmoy's spores, as described in chapter 5.
 
 If the characters take Basidia's advice and turn back, the myconid sovereign promises to contact them again when "the time is right to oppose Zuggtmoy" (as described in chapter 16, "The Fetid Wedding").
 
 ### Velkynvelve
 
-If the adventurers return to the drow outpost where they were imprisoned, they find Velkynvelve under the command of a [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Servan Llarabbar. Six male [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) report to him, while three more male [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and one female [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) have been locked in the slave pen. The prisoners are afflicted with various forms of indefinite madness (roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide*). Even Servan is beginning to show heightened megalomania and paranoia, seeing enemies everywhere. He has delusions of grandeur and fantasies about declaring Velkynvelve independent of Menzoberranzan, rallying followers to his side and eventually toppling the matriarchs of the great houses.
+If the adventurers return to the drow outpost where they were imprisoned, they find Velkynvelve under the command of a [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Servan Llarabbar. Six male [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) report to him, while three more male [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and one female [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) have been locked in the slave pen. The prisoners are afflicted with various forms of indefinite madness (roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide*). Even Servan is beginning to show heightened megalomania and paranoia, seeing enemies everywhere. He has delusions of grandeur and fantasies about declaring Velkynvelve independent of Menzoberranzan, rallying followers to his side and eventually toppling the matriarchs of the great houses.

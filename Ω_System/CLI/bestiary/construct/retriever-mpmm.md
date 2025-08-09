@@ -45,15 +45,15 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
   - "constitution": !!int "10"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
 "languages": "understands Abyssal, Elvish, and Undercommon but can't speak"
 "cr": "14"
@@ -77,23 +77,23 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
       \ on a failed save, or half as much damage on a successful one."
     "name": "Force Beam"
   - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
-      \ target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ for 1 minute. The [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) target\
+      \ target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ for 1 minute. The [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success.\n\nIf the [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ on itself on a success.\n\nIf the [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ creature is Medium or smaller, the retriever can pick it up as part of the\
       \ retriever's move and walk or climb with it at full speed."
     "name": "Paralyzing Beam (Recharge 5-6)"
   - "desc": "The retriever casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
-      \n3/day each: [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \n3/day each: [plane shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md)\
       \ (only self and up to one incapacitated creature, which is considered willing\
-      \ for the spell), [web](/3-Mechanics/CLI/spells/web-xphb.md)"
+      \ for the spell), [web](/03_Mechanics/CLI/spells/web-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/retriever-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/retriever-mpmm.webp"
 ```
 ^statblock
 

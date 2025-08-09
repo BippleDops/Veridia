@@ -33,13 +33,13 @@ aliases:
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/2"
@@ -57,12 +57,12 @@ aliases:
       \ (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving\
       \ throw, taking 7 (2d6) poison damage on a failed save, or half as much damage\
       \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 hour, even after regaining hit points, and is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way."
+      \ the target is stable but [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ for 1 hour, even after regaining hit points, and is [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ while [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way."
     "name": "Bite"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/fiendish-giant-spider-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/fiendish-giant-spider-oota.webp"
 ```
 ^statblock

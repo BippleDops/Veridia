@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 5th Level
 
-- [Wall of Stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB")
+- [Wall of Stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md "XPHB")

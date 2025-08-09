@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Ring Mail
 *Heavy armor*  
-![](/3-Mechanics/CLI/items/img/ring-mail.webp#right)
+![](/03_Mechanics/CLI/items/img/ring-mail.webp#right)
 
 - **Armor Class**: 14
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

@@ -16,14 +16,14 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Axe of the Dwarvish Lords
-*Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md)), artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/axe-of-the-dwarvish-lords.webp#right)
+*Weapon ([battleaxe](/03_Mechanics/CLI/items/battleaxe-xphb.md)), artifact (requires attunement)*  
+![](/03_Mechanics/CLI/items/img/axe-of-the-dwarvish-lords.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown), [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 A young dwarf prince set out to forge a weapon that would be regarded as a symbol of unity among his people. Venturing deep under the mountains, deeper than any dwarf had ever delved, the prince came to the blazing heart of a great volcano. With the aid of Moradin, a god of creation, he first crafted four mighty tools: the Starmetal Pick, the Earthheart Forge, the Anvil of Songs, and the Shaping Hammer. With these tools, he forged the Axe of the Dwarvish Lords.
@@ -38,33 +38,33 @@ The Axe of the Dwarvish Lords is a magic weapon that grants a +3 bonus to attack
 
 When you attack a creature with the axe and roll a 20 on the `d20` for the attack roll, the axe deals an extra 20 Slashing damage.
 
-The axe has [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `d8` Force damage, or an extra `2d8` Force damage if the target is a creature of the Giant type. Immediately after hitting or missing, the weapon flies back to your hand.
+The axe has [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown) with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `d8` Force damage, or an extra `2d8` Force damage if the target is a creature of the Giant type. Immediately after hitting or missing, the weapon flies back to your hand.
 
 ## Blessings of Moradin
 
 While attuned to the axe, you gain the following benefits:
 
-- **Darkvision.** You gain [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision), its range increases by 60 feet.  
+- **Darkvision.** You gain [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision), its range increases by 60 feet.  
 - **Fortitude of Stone.** Your Constitution increases by 2, to a maximum of 20.  
-- **Gifts of the Creator.** You have proficiency with [Brewer's Supplies](/3-Mechanics/CLI/items/brewers-supplies-xphb.md), [Mason's Tools](/3-Mechanics/CLI/items/masons-tools-xphb.md), and [Smith's Tools](/3-Mechanics/CLI/items/smiths-tools-xphb.md).  
-- **One with the Forge.** You have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to Poison damage and [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.  
+- **Gifts of the Creator.** You have proficiency with [Brewer's Supplies](/03_Mechanics/CLI/items/brewers-supplies-xphb.md), [Mason's Tools](/03_Mechanics/CLI/items/masons-tools-xphb.md), and [Smith's Tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md).  
+- **One with the Forge.** You have [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to Poison damage and [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.  
 - **Sunder.** When you hit an object with the axe, the object takes the maximum amount of damage possible.  
 
 ## Conjure Earth Elemental
 
-While holding the axe, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to summon an [Earth Elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md). It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md) count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). You can't use this property again until the next dawn.
+While holding the axe, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to summon an [Earth Elemental](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md). It appears in an unoccupied space you choose within 30 feet of yourself, understands your languages, obeys your commands, and takes its turn immediately after you on your [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) count. The elemental disappears after 24 hours, when it dies, or when you dismiss it as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). You can't use this property again until the next dawn.
 
 ## Random Properties
 
 The axe has the following random properties:
 
-- 2 [minor beneficial](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 1 [major beneficial](/3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
-- 2 [minor detrimental](/3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
+- 2 [minor beneficial](/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 1 [major beneficial](/03_Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 2 [minor detrimental](/03_Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) properties  
 
 ## Travel the Depths
 
-You can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [Teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
+You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to touch the axe to a fixed piece of dwarven stonework and cast [Teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) from the axe. If your intended destination is underground, there is no chance of a mishap or arriving somewhere unexpected. You can't use this property again until 3 days have passed.
 
 ## Destroying the Axe
 

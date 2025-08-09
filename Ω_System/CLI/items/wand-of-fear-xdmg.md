@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 # Wand of Fear
 *Wand, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/wand-of-fear.webp#right)
+![](/03_Mechanics/CLI/items/img/wand-of-fear.webp#right)
 
 - **Weight**: 1.0 lbs.
 
@@ -28,8 +28,8 @@ While holding the wand, you can cast one of the spells (save DC 15) on the follo
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Command](/3-Mechanics/CLI/spells/command-xphb.md) ("flee" or "grovel" only) | 1 |
-| [Fear](/3-Mechanics/CLI/spells/fear-xphb.md) (60-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md)) | 3 |
+| [Command](/03_Mechanics/CLI/spells/command-xphb.md) ("flee" or "grovel" only) | 1 |
+| [Fear](/03_Mechanics/CLI/spells/fear-xphb.md) (60-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md)) | 3 |
 ^spell-charge-cost
 
 ## Regaining Charges

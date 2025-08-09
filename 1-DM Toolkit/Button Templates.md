@@ -15,7 +15,7 @@ id: newJournal
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Journal.md
+    templateFile: 05_Templates/World Builder Templates/Template-Journal.md
     fileName: NewJournal
     folderPath: 1-Session Journals
 icon: book-plus
@@ -28,7 +28,7 @@ id: button_player
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Player.md
+    templateFile: 05_Templates/World Builder Templates/Template-Player.md
     fileName: NewPlayer
     folderPath: 1-Party
 icon: user-pen
@@ -41,7 +41,7 @@ id: button_person
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Person.md
+    templateFile: 05_Templates/World Builder Templates/Template-Person.md
     fileName: NewPerson
     folderPath: 2-World/People
 icon: users
@@ -54,7 +54,7 @@ id: button_group
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Group.md
+    templateFile: 05_Templates/World Builder Templates/Template-Group.md
     fileName: NewGroup
     folderPath: 2-World/Groups
 icon: users-round
@@ -67,7 +67,7 @@ id: button_hub
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Hub.md
+    templateFile: 05_Templates/World Builder Templates/Template-Hub.md
     fileName: NewHub
     folderPath: 2-World/Hubs
 icon: building-2
@@ -80,7 +80,7 @@ id: button_place
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Place.md
+    templateFile: 05_Templates/World Builder Templates/Template-Place.md
     fileName: NewPlace
     folderPath: 2-World/Places
 icon: landmark
@@ -93,7 +93,7 @@ id: button_pointofinterest
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-PointofInterest.md
+    templateFile: 05_Templates/World Builder Templates/Template-PointofInterest.md
     fileName: NewPOI
     folderPath: 2-World/Points of Interest
 icon: map-pin
@@ -106,7 +106,7 @@ id: button_region
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Region.md
+    templateFile: 05_Templates/World Builder Templates/Template-Region.md
     fileName: NewRegion
     folderPath: 2-World/Regions
 icon: map
@@ -119,7 +119,7 @@ id: button_continent
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Continent.md
+    templateFile: 05_Templates/World Builder Templates/Template-Continent.md
     fileName: NewContinent
     folderPath: 2-World/Continents
 icon: globe-2
@@ -132,7 +132,7 @@ id: button_galaxy
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Galaxy.md
+    templateFile: 05_Templates/World Builder Templates/Template-Galaxy.md
     fileName: NewGalaxy
     folderPath: 2-World/Galaxies
 icon: galaxy
@@ -145,7 +145,7 @@ id: button_starsystem
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Star-System.md
+    templateFile: 05_Templates/World Builder Templates/Template-Star-System.md
     fileName: NewStarSystem
     folderPath: 2-World/Star Systems
 icon: orbit
@@ -158,7 +158,7 @@ id: button_planet
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Planet.md
+    templateFile: 05_Templates/World Builder Templates/Template-Planet.md
     fileName: NewPlanet
     folderPath: 2-World/Planets
 icon: planet
@@ -171,7 +171,7 @@ id: button_species
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-SapientSpecies.md
+    templateFile: 05_Templates/World Builder Templates/Template-SapientSpecies.md
     fileName: NewSapientSpecies
     folderPath: 2-World/Sapient Species
 icon: dna
@@ -184,7 +184,7 @@ id: button_quest
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Quest.md
+    templateFile: 05_Templates/World Builder Templates/Template-Quest.md
     fileName: NewQuest
     folderPath: 2-World/Quests
 icon: target
@@ -198,9 +198,9 @@ id: button_item
 style: default
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Item.md
+    templateFile: 05_Templates/World Builder Templates/Template-Item.md
     fileName: NewItem
-    folderPath: 3-Mechanics/Items
+    folderPath: 03_Mechanics/Items
 icon: package-plus
 tooltip: Create a new Item
 ```

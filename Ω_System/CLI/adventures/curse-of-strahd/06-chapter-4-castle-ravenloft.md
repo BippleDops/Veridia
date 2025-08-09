@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Chapter 4: Castle Ravenloft
 *Source: Curse of Strahd, p. 49* 
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/023-cos04-01.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/023-cos04-01.webp#center)
 
 Castle Ravenloft was built atop the ruin of an older fortress by artisans, wizards, and workers loyal to Strahd's family. Strahd rewarded the castle's genius architect, Artimus, with a crypt in the castle's catacombs. The castle was named after Strahd's mother, Ravenovia, who also lies entombed below.
 
@@ -32,25 +32,25 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 
 | d12 + d8 | Encounter |
 |----------|-----------|
-| 2 | [Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D) |
-| 3 | [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) (see appendix D) |
-| 4 | 1 black [cat](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md) |
-| 5 | 1 [broom of animated attack](/3-Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md) (see appendix D) |
-| 6 | `1d4 + 1` [flying swords](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) |
+| 2 | [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D) |
+| 3 | [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) (see appendix D) |
+| 4 | 1 black [cat](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md) |
+| 5 | 1 [broom of animated attack](/03_Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md) (see appendix D) |
+| 6 | `1d4 + 1` [flying swords](/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) |
 | 7 | Blinsky toy |
-| 8 | [Unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md) |
-| 9 | `d4` [commoners](/3-Mechanics/CLI/bestiary/humanoid/barovian-commoner-cos.md) |
-| 10 | `2d6` [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) |
-| 11 | `d6` [shadows](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) |
-| 12 | `d6` [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) |
-| 13 | 1 crawling [Strahd zombie](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (see appendix D) |
-| 14 | `1d4 + 1` Vistani [thugs](/3-Mechanics/CLI/bestiary/humanoid/vistana-thug-cos.md) |
-| 15 | `d4` [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) |
+| 8 | [Unseen servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md) |
+| 9 | `d4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/barovian-commoner-cos.md) |
+| 10 | `2d6` [crawling claws](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) |
+| 11 | `d6` [shadows](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) |
+| 12 | `d6` [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) |
+| 13 | 1 crawling [Strahd zombie](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (see appendix D) |
+| 14 | `1d4 + 1` Vistani [thugs](/03_Mechanics/CLI/bestiary/humanoid/vistana-thug-cos.md) |
+| 15 | `d4` [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) |
 | 16 | Trinket |
 | 17 | Giant spider cocoon |
-| 18 | 1 [Barovian witch](/3-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) (see appendix D) |
-| 19 | `1d4 + 1` [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
-| 20 | [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) (see appendix D) |
+| 18 | 1 [Barovian witch](/03_Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) (see appendix D) |
+| 19 | `1d4 + 1` [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
+| 20 | [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) (see appendix D) |
 ^random-encounters-in-castle-ravenloft
 
 Use the descriptions that follow to run each encounter.
@@ -64,7 +64,7 @@ Use the descriptions that follow to run each encounter.
 > A loud clamor fills the unhallowed halls of Ravenloft. Cries of "Kill the vampire!" are mixed with bold voices shouting, "Never again!" and "To the crypts!"
 ^175
 
-Angry [villagers](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these Barovians are with the adventurers, random encounters occur on a roll of 9 or higher.
+Angry [villagers](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who have entered the castle brandish torches and pitchforks in a ridiculous display of force. Everywhere they go, they shout for justice. They follow the characters unless prevented from doing so. As long as these Barovians are with the adventurers, random encounters occur on a roll of 9 or higher.
 
 #### Barovian Witch
 
@@ -75,7 +75,7 @@ Angry [villagers](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who have e
 > Through the darkness comes a crone wearing a pointed black hat and a burlap gown stained with soot.
 ^177
 
-Characters can try to hide from the witch (who has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)) or catch her by surprise. This [Barovian witch](/3-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) is one of the servants of Strahd dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
+Characters can try to hide from the witch (who has [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)) or catch her by surprise. This [Barovian witch](/03_Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) is one of the servants of Strahd dwelling in area K56. She is calling out the name of her black cat familiar, which has gone missing. If the characters confront her, the old bat spits at them and begins casting a spell.
 
 This encounter happens only once. If this result comes up again, treat it as no encounter.
 
@@ -88,7 +88,7 @@ This encounter happens only once. If this result comes up again, treat it as no 
 
 This familiar is searching for its mistress (a Barovian witch). It wants nothing to do with the characters but attacks if cornered.
 
-If the characters capture or kill the [cat](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md), this encounter doesn't occur again. If this result comes up again, treat it as no encounter.
+If the characters capture or kill the [cat](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md), this encounter doesn't occur again. If this result comes up again, treat it as no encounter.
 
 #### Blinsky Toy
 
@@ -120,7 +120,7 @@ The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is N
 > You hear a scratching noise. Out of the shadows comes a broom, sweeping its way toward you as though held by invisible hands.
 ^17d
 
-When it gets within 5 feet of a party member, the [broom](/3-Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md) attacks.
+When it gets within 5 feet of a party member, the [broom](/03_Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md) attacks.
 
 #### Crawling Claws
 
@@ -129,7 +129,7 @@ When it gets within 5 feet of a party member, the [broom](/3-Mechanics/CLI/besti
 > A mob of severed hands, their mummified flesh black with soot, skitters out of the darkness across the dusty floor.
 ^17f
 
-The [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check contested by the character's passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
+The [crawling claws](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) check contested by the character's passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
 
 #### Crawling Strahd Zombie
 
@@ -138,13 +138,13 @@ The [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) gang
 > You hear the deathly groans of something vile.
 ^181
 
-The groans are coming from a [Strahd zombie](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) that is missing both of its legs, so that only its head, torso, and arms remain. It uses its arms to drag itself across the floor. The crawling zombie has 15 hit points remaining.
+The groans are coming from a [Strahd zombie](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) that is missing both of its legs, so that only its head, torso, and arms remain. It uses its arms to drag itself across the floor. The crawling zombie has 15 hit points remaining.
 
 If the characters are moving quietly and not using light sources, they can try to hide from the crawling zombie.
 
 #### Ezmerelda d'Avenir
 
-[Ezmerelda](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) has cast a [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md) spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
+[Ezmerelda](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) has cast a [greater invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md) spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
 
 > [!readaloud] 
 > 
@@ -164,7 +164,7 @@ This random encounter happens only once. If this result comes up again, treat it
 > Out of the gloom flies a rusty blade, followed by another!
 ^186
 
-If more than two [flying swords](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) are encountered, the others aren't far behind. These weapons drift about the castle and attack intruders within range of their [blindsight](/3-Mechanics/CLI/senses.md#Blindsight).
+If more than two [flying swords](/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) are encountered, the others aren't far behind. These weapons drift about the castle and attack intruders within range of their [blindsight](/03_Mechanics/CLI/senses.md#Blindsight).
 
 #### Giant Spider Cocoon
 
@@ -182,23 +182,23 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 | dice: d6 | Cocoon's Contents |
 |----------|-------------------|
 | 1 | A wooden mannequin wearing a gown. |
-| 2 | A [Barovian witch](/3-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) (see appendix D). She screams like a wild animal and begins casting spells. |
-| 3 | A [Strahd zombie](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (see appendix D). It fights until killed. |
-| 4 | A Barovian lunatic (CN male [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). If freed, he cackles until silenced or until a [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell is cast on him. A [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell cures his madness, at which point he tries to flee the castle. |
-| 5 | A dead Barovian that serves as host to a [swarm of insects (spiders)](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md). The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly. |
-| 6 | A [Vistana bandit](/3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md) (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters. |
+| 2 | A [Barovian witch](/03_Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) (see appendix D). She screams like a wild animal and begins casting spells. |
+| 3 | A [Strahd zombie](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (see appendix D). It fights until killed. |
+| 4 | A Barovian lunatic (CN male [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). If freed, he cackles until silenced or until a [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md) spell is cast on him. A [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) spell cures his madness, at which point he tries to flee the castle. |
+| 5 | A dead Barovian that serves as host to a [swarm of insects (spiders)](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md). The baby giant spiders (each one the size of a tarantula) crawl out of the Barovian's gaping mouth or burst forth from its distended belly. |
+| 6 | A [Vistana bandit](/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md) (CN male or female). The Vistana knows the castle's layout and helps the characters until Strahd or more Vistani appear, at which point the treacherous Vistana turns on the characters. |
 ^cocoons-contents
 
 #### Rahadin
 
-If [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score meets or exceeds [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md)'s Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check hear him.
+If [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score meets or exceeds [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md)'s Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) check hear him.
 
 > [!readaloud] 
 > 
 > "The master wishes to see you," intones a grim voice in the darkness.
 ^18a
 
-[Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) directs the characters to a random location in the castle, determined by rolling a `d6`:
+[Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) directs the characters to a random location in the castle, determined by rolling a `d6`:
 
 `dice: [](06-chapter-4-castle-ravenloft.md#^location)`
 
@@ -214,29 +214,29 @@ If [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) was killed or capture
 
 Strahd isn't actually at that location unless the card reading (see chapter 1) indicates that he is.
 
-If the characters ask [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
+If the characters ask [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) to lead the way, he declines. If the characters ask for directions, he tells them whether they need to ascend, descend, or remain on the level they're at. If they attack him, he fights to the death. Otherwise, he doesn't leave until after they do.
 
 #### Shadows
 
-If one or more characters have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 16 or higher, read:
+If one or more characters have a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 16 or higher, read:
 
 > [!readaloud] 
 > 
 > You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it.
 ^18c
 
-If more than one [shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
+If more than one [shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) is present, the others are close by but hidden in the darkness. These undead shadows follow the characters but do not attack unless attacked first. They otherwise obey Strahd's commands.
 
 #### Strahd von Zarovich
 
-[Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) makes a surprise appearance.
+[Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) makes a surprise appearance.
 
 > [!readaloud] 
 > 
 > A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
 ^18e
 
-Any character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score lower than 19 is [surprised](/3-Mechanics/CLI/conditions.md#Surprised) as Strahd appears seemingly out of nowhere. The vampire prefers to attack a [surprised](/3-Mechanics/CLI/conditions.md#Surprised) character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
+Any character who has a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score lower than 19 is [surprised](/03_Mechanics/CLI/conditions.md#Surprised) as Strahd appears seemingly out of nowhere. The vampire prefers to attack a [surprised](/03_Mechanics/CLI/conditions.md#Surprised) character, choosing the one closest to him. Otherwise, see appendix D for the vampire's tactics.
 
 #### Swarms of Bats
 
@@ -245,7 +245,7 @@ Any character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#
 > You hear a peal of thunder, followed by the flapping of tiny black wings. Suddenly, a dark cloud of bats descends upon you!
 ^190
 
-These [bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) are the servants of Strahd. They attack the characters without provocation.
+These [bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) are the servants of Strahd. They attack the characters without provocation.
 
 #### Trinket
 
@@ -256,7 +256,7 @@ One random character finds a lost trinket. Read the following text to the player
 > You kick something—a trinket buried in the dust.
 ^193
 
-To determine what the character finds, roll on the [Trinkets table](/3-Mechanics/CLI/items/trinket-cos.md) in appendix A.
+To determine what the character finds, roll on the [Trinkets table](/03_Mechanics/CLI/items/trinket-cos.md) in appendix A.
 
 #### Unseen Servant
 
@@ -265,30 +265,30 @@ To determine what the character finds, roll on the [Trinkets table](/3-Mechanics
 > A curious object drifts into view, as though held aloft by an invisible force.
 ^195
 
-This unseen servant was created by Strahd and is permanent until destroyed (see the [unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md) spell in the "Player's Handbook"). Roll a `d6` to determine what the servant is carrying, or choose one of the options below.
+This unseen servant was created by Strahd and is permanent until destroyed (see the [unseen servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md) spell in the "Player's Handbook"). Roll a `d6` to determine what the servant is carrying, or choose one of the options below.
 
 `dice: [](06-chapter-4-castle-ravenloft.md#^items)`
 
 | dice: d6 | Items |
 |----------|-------|
-| 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [crawling claw](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) that attacks the nearest character. |
-| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (`8d10`) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md). |
+| 1 | A tarnished silver platter with a lid (worth 25 gp). If a character comes within 5 feet of the servant, it lifts the lid, revealing a bunch of moldy scones. The first character to eat a scone gains inspiration. On later occurrences of this encounter, the platter holds a [crawling claw](/03_Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) that attacks the nearest character. |
+| 2 | A silver goblet (worth 50 gp) filled to the brim with wine. A character who drinks the wine must make a DC 15 Constitution saving throw, taking 44 (`8d10`) poison damage on a failed save, or half as much damage on a successful one. On future occurrences of this encounter, the wine acts as a [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md). |
 | 3 | A gold candelabrum (worth 150 gp) with three branches, each one holding an unlit candle. |
 | 4 | A purple silk handkerchief with white ruffled edges (worth 1 gp). On future occurrences of this encounter, the handkerchief is smeared with fresh blood. |
-| 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `d4` hungry [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) (see below), which arrive in `1d4 + 1` rounds. |
+| 5 | A crystal dinner bell (worth 25 gp). The unseen servant rings the bell if the characters come within 10 feet of it. The sound attracts `d4` hungry [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) (see below), which arrive in `1d4 + 1` rounds. |
 | 6 | A wizard's spellbook with a black velvet dust jacket over its stitched leather cover. The book contains all the spells Strahd has prepared (see appendix D). On subsequent occurrences of this encounter, the tome is a nonmagical leather-bound storybook worth 25 gp. |
 ^items
 
 #### Vampire Spawn
 
-If any character has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 16 or higher, the party isn't [surprised](/3-Mechanics/CLI/conditions.md#Surprised). In that case, read:
+If any character has a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 16 or higher, the party isn't [surprised](/03_Mechanics/CLI/conditions.md#Surprised). In that case, read:
 
 > [!readaloud] 
 > 
 > Creatures with pale flesh scuttle across the ceiling like spiders, their red eyes glowing in the dark. As they draw near, their cracked and bloodstained lips open wide, revealing sharp fangs.
 ^197
 
-These minions of Strahd—former adventurers all—creep along ceilings and drop down on unsuspecting prey. The [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) fight until destroyed.
+These minions of Strahd—former adventurers all—creep along ceilings and drop down on unsuspecting prey. The [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) fight until destroyed.
 
 #### Vistani Thugs
 
@@ -297,7 +297,7 @@ These minions of Strahd—former adventurers all—creep along ceilings and drop
 > You hear voices with thick accents.
 ^199
 
-A small group of Vistani (NE male and female human [thugs](/3-Mechanics/CLI/bestiary/humanoid/vistana-thug-cos.md)) claim that they were the vampire's captives, only recently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the characters accept their offer, the Vistani pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the Vistani accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
+A small group of Vistani (NE male and female human [thugs](/03_Mechanics/CLI/bestiary/humanoid/vistana-thug-cos.md)) claim that they were the vampire's captives, only recently escaped from the castle's dungeon, and they offer to help the party. In truth, they are loyal to Strahd and betray the characters as soon as he appears. If the characters accept their offer, the Vistani pretend to be the party's allies for as long as they remain with the party, or until Strahd appears. If the characters leave the castle, the Vistani accompany them, since choosing to remain in the castle would likely arouse the characters' suspicion.
 
 ##### Treasure
 
@@ -310,23 +310,23 @@ One Vistani thug carries a pouch that holds `2d8` small gemstones (50 gp each).
 > The air grows much colder, and you can hear the march of footsteps drawing near.
 ^19c
 
-If the characters are moving quietly and not carrying light sources, they can try to hide from the [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md). These undead soldiers once served as guard captains in Castle Ravenloft. They still wear bits of tattered livery, and they attack the living on sight.
+If the characters are moving quietly and not carrying light sources, they can try to hide from the [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md). These undead soldiers once served as guard captains in Castle Ravenloft. They still wear bits of tattered livery, and they attack the living on sight.
 
 ##### Treasure
 
-The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding `2d20` ep, each coin of Barovian mintage and featuring the profiled visage of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md).
+The wights carry longswords that have the crest of Barovia worked into their cross guards. Each wight also carries a pouch holding `2d20` ep, each coin of Barovian mintage and featuring the profiled visage of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md).
 
 ## Walls of Ravenloft
 
 Refer to map 2 of the castle for areas K1 through K6.
 
 > [!gallery]
-> ![Map 2: Walls of Ravenloft](/3-Mechanics/CLI/adventures/curse-of-strahd/img/024-005.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/024-005-player.webp#gallery)
+> ![Map 2: Walls of Ravenloft](/03_Mechanics/CLI/adventures/curse-of-strahd/img/024-005.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/024-005-player.webp#gallery)
 
 > [!gallery]
-> ![Walls of Ravenloft (Battlemap; DM Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-02-walls.webp#gallery)
-> ![Walls of Ravenloft (Battlemap; Player Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-02-walls-player.webp#gallery)
+> ![Walls of Ravenloft (Battlemap; DM Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-02-walls.webp#gallery)
+> ![Walls of Ravenloft (Battlemap; Player Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-02-walls-player.webp#gallery)
 
 ### K1. Front Courtyard
 
@@ -345,7 +345,7 @@ The open main doors to the keep lead to area K7. The large, shattered window ove
 
 Each outer gate tower has an ironbound door with a built-in lock.
 
-Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
+Characters who enter a gate tower find themselves on a flagstone floor with a hollow tower stretching high above them. The mechanisms for raising and lowering the drawbridge and portcullis fill both gate towers. The latch mechanism in each tower is magically activated by a word that only Strahd knows. It can also be activated with a successful casting of [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 14). Neither the drawbridge nor the portcullis will move until both latches are activated.
 
 ### K2. Center Court Gate
 
@@ -356,7 +356,7 @@ Two gates, one north of the keep and one to the south, prevent easy access to wh
 > A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.
 ^1a3
 
-The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only Strahd and [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
+The portcullis is unlocked and can be lifted with a successful DC 15 Strength check. It can also be opened with a command word that only Strahd and [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (area K62) know. Unless the portcullis is wedged or propped open, it falls back into place once it is let go.
 
 ### K3. Servants' Courtyard
 
@@ -399,7 +399,7 @@ If a character peers over the balcony, read:
 > A flash of lightning illuminates the dismal village of Barovia, its rooftops visible above a smothering blanket of fog one thousand feet below.
 ^1ac
 
-If a character who has a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 15 or higher peers over the wall, add:
+If a character who has a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 15 or higher peers over the wall, add:
 
 > [!readaloud] 
 > 
@@ -412,19 +412,19 @@ Anyone who falls from the overlook plummets 1,000 feet.
 
 #### Fortunes of Ravenloft
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is looking out over the balcony.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is looking out over the balcony.
 
 ## Main Floor
 
 Refer to map 3 of the castle for areas K7 through K24.
 
 > [!gallery]
-> ![Map 3: Main Floor](/3-Mechanics/CLI/adventures/curse-of-strahd/img/025-006.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/025-006-player.webp#gallery)
+> ![Map 3: Main Floor](/03_Mechanics/CLI/adventures/curse-of-strahd/img/025-006.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/025-006-player.webp#gallery)
 
 > [!gallery]
-> ![Main Floor (Battlemap; DM Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-03-main-floor.webp#gallery)
-> ![Main Floor (Battlemap; Player Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-03-main-floor-player.webp#gallery)
+> ![Main Floor (Battlemap; DM Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-03-main-floor.webp#gallery)
+> ![Main Floor (Battlemap; Player Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-03-main-floor-player.webp#gallery)
 
 ### K7. Entry
 
@@ -456,7 +456,7 @@ If the characters enter from either direction, read:
 > Overhead, in the vaulted entry foyer, four statues of dragons glare down, their eyes flickering in the torchlight.
 ^1b4
 
-If anyone except Strahd enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from area K1, heading east. The dragons are four [red dragon wyrmlings](/3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md), and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
+If anyone except Strahd enters this area through the doors that adjoin area K8, the dragons come alive, drop to the floor hissing and spitting, and attack. The dragons don't attack characters who enter this area from area K1, heading east. The dragons are four [red dragon wyrmlings](/03_Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md), and they have instructions to allow guests to enter the castle, but not to leave it. If intruders vacate this area, the dragons fly up to their perches and revert to stone. In their stone forms, they are impervious to weapon damage. The dragons never leave the room.
 
 ### K8. Great Entry
 
@@ -474,11 +474,11 @@ If the characters are here by invitation, add the following:
 > An elf with brown skin and long black hair descends the wide staircase, quiet as a cat. He wears a gray cloak over black studded leather armor and has a polished scimitar hanging from his belt. "My master is expecting you," he says.
 ^1b7
 
-The elf is [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md), the castle chamberlain (see appendix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area K10), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
+The elf is [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md), the castle chamberlain (see appendix D). He fights only if attacked. Otherwise, he leads the characters to the dining hall (area K10), points them inside, pulls the doors shut behind them, and withdraws to area K72 by way of the South Tower Stair (area K21).
 
 #### Development
 
-After all the characters leave this room, the eight [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
+After all the characters leave this room, the eight [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) attack any character who dares to return. The gargoyles also swoop down to fight if they are attacked. When the gargoyles attack, the turbulence in the air from their wings extinguishes the feeble torches in the sconces, plunging the hall into darkness unless the characters have light sources.
 
 ### K9. Guests' Hall
 
@@ -506,11 +506,11 @@ The figure is an illusion of Strahd. It welcomes the characters and invites them
 
 The moment the figure disappears, a fierce, bone-chilling wind rises up and roars through the hall, putting out all open flames. The characters hear the screech of ancient hinges and the solid thud of many heavy doors slamming shut, one after another, into the distance. They also hear the portcullis clang shut and the tired groan of the aged drawbridge pulling up. Finally, unless the doors to this room are being held open, they slam shut (but do not lock). If the characters open the doors, they see that all the torches in areas K7, K8, and K9 have gone out.
 
-The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area K11. Because this secret door is hidden behind the organ, it can't be found and opened until the organ is moved out of the way.
+The organ appears locked in place and immovable, but a character who makes a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check notices scratch marks on the floor that suggest that the organ can be slid outward. A character who tries pushing various keys and pedals discovers that one of the pedals, when depressed, causes the organ to slide outward about 2 feet, allowing access to a secret door in the back wall that swings open into area K11. Because this secret door is hidden behind the organ, it can't be found and opened until the organ is moved out of the way.
 
 The food on the table is tasty, the wine delicious.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/026-cos04-04.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/026-cos04-04.webp#center)
 
 ### K11. South Archers' Post
 
@@ -559,21 +559,21 @@ Double doors stand at both ends of the hall. Above the doors leading to area K15
 > Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone platform. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet.
 ^1c6
 
-The figure slumped on the altar is all that remains of Gustav Herrenghast, a lawful evil human cleric who tried to obtain the [Icon of Ravenloft](/3-Mechanics/CLI/items/icon-of-ravenloft-cos.md) and did not survive the attempt. See "Treasure" below for more information on the icon and Gustav's possessions.
+The figure slumped on the altar is all that remains of Gustav Herrenghast, a lawful evil human cleric who tried to obtain the [Icon of Ravenloft](/03_Mechanics/CLI/items/icon-of-ravenloft-cos.md) and did not survive the attempt. See "Treasure" below for more information on the icon and Gustav's possessions.
 
 A sculpted stone railing cordons off the upstairs balcony, which is described in area K28.
 
 #### Treasure
 
-The statuette on the altar is an artifact called the [Icon of Ravenloft](/3-Mechanics/CLI/items/icon-of-ravenloft-cos.md) (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking 88 (`16d10`) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
+The statuette on the altar is an artifact called the [Icon of Ravenloft](/03_Mechanics/CLI/items/icon-of-ravenloft-cos.md) (see appendix C). Any evil creature that touches the statuette must make a DC 17 Constitution saving throw, taking 88 (`16d10`) radiant damage on a failed save, or half as much damage on a successful one. The statuette is safe for all creatures to handle once it is no longer in contact with the altar.
 
-Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of [chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md), both nonmagical. Gustav's black mace is a [mace of terror](/3-Mechanics/CLI/items/mace-of-terror-xdmg.md).
+Gustav's corpse wears a handsome, fur-lined black cloak embroidered with golden thread (worth 250 gp) and a suit of [chain mail](/03_Mechanics/CLI/items/chain-mail-xphb.md), both nonmagical. Gustav's black mace is a [mace of terror](/03_Mechanics/CLI/items/mace-of-terror-xdmg.md).
 
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it lies on the floor behind the altar.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel—a dark shape in the vast hall.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is among the bats fluttering below the ceiling or he is standing at one end of the chapel—a dark shape in the vast hall.
 
 ### K16. North Chapel Access
 
@@ -602,7 +602,7 @@ The statues are harmless. The vast chamber to the east is the chapel (area K15).
 
 The staircase starts at area K84 and spirals upward around a central shaft (area K18a), climbing 300 feet to the top of the high tower (area K59).
 
-A recently constructed masonry wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall to the other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. The wall is too sturdy for characters to knock down, but they can create a hole wide enough to crawl through in 1 hour, or reduce the entire wall to a pile of masonry bricks and rubble in 2 hours.
+A recently constructed masonry wall blocks the staircase 10 feet below the landing west of area K17. A chink in this wall allows gas (or a vampire in gaseous form) to pass from one side of the wall to the other. A character who inspects the wall closely can spot the chink with a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. The wall is too sturdy for characters to knock down, but they can create a hole wide enough to crawl through in 1 hour, or reduce the entire wall to a pile of masonry bricks and rubble in 2 hours.
 
 Thirty feet below the masonry wall and 50 feet above the foot of the steps, a small crack has formed in the outer wall of the stairwell. The crack is 1/2 inch wide, 5 inches tall, and 12 inches deep; it leads to the castle's wine cellar (area K63). Characters can notice the crack automatically as they climb or descend the stairs. Widening the crack enough to squeeze through the wall requires major excavation and would take several days.
 
@@ -627,7 +627,7 @@ The bats in the catacombs (area K84) fly up the shaft at night, exiting Castle R
 
 Both staircases on the south wall climb to area K25. The massive stairs lead down to area K8. Anyone who crosses in front of the alcoves along the south wall activates the suits of armor.
 
-Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+Both suits of armor are mechanical traps, each one activated by a pressure plate hidden in the floor in front of its alcove. A character who searches for traps in one of these locations notices both pressure plates with a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
 When 40 or more pounds of weight are placed on a pressure plate, the suit of armor nearest to that plate springs forward, flailing its arms and wielding its mace. Any creature standing on a pressure plate when its trap triggers must succeed on a DC 14 Dexterity saving throw or take 7 (`2d6`) bludgeoning damage from the flailing armor. After leaping out and attacking, the armor retracts. The pressure plate resets after 1 minute, after which its armor trap can be triggered again.
 
@@ -655,25 +655,25 @@ The tower, including the spiral staircase, is alive. When the characters set foo
 > As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.
 ^1d5
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/027-cos04-05.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/027-cos04-05.webp#center)
 
 Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
-The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie [prone](/3-Mechanics/CLI/conditions.md#Prone) on the stairs succeed automatically.
+The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie [prone](/03_Mechanics/CLI/conditions.md#Prone) on the stairs succeed automatically.
 
 The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to 0 hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruction of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP.
 
 Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to 0 hit points, it is destroyed, and Strahd takes any leftover damage. The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
 
-The Heart of Sorrow is held aloft by the will of Strahd. Casting [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) on it has no effect.
+The Heart of Sorrow is held aloft by the will of Strahd. Casting [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) on it has no effect.
 
 ##### Animated Halberds
 
-Mounted on the walls along the section of staircase nearest the heart are ten [animated halberds](/3-Mechanics/CLI/bestiary/construct/animated-halberd-cos.md); use the stat block for the [flying sword](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) in the "Monster Manual", but increase each halberd's damage to `1d10 + 1` and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
+Mounted on the walls along the section of staircase nearest the heart are ten [animated halberds](/03_Mechanics/CLI/bestiary/construct/animated-halberd-cos.md); use the stat block for the [flying sword](/03_Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) in the "Monster Manual", but increase each halberd's damage to `1d10 + 1` and reduce its AC to 15. The halberds attack any creature that threatens the Heart of Sorrow.
 
 ##### Vampire Spawn
 
-Strahd senses if any damage is done to the Heart of Sorrow and sends four [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) to destroy those responsible. These vampire spawn are former adventurers whom Strahd defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
+Strahd senses if any damage is done to the Heart of Sorrow and sends four [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) to destroy those responsible. These vampire spawn are former adventurers whom Strahd defeated long ago. They use their Spider Climb feature to scuttle along the tower walls and arrive in 3 rounds.
 
 ### K20a. Tower Hall Stair
 
@@ -704,7 +704,7 @@ Each arrow slit is 2½ feet tall and 4 inches wide.
 > Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard.Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
 ^1de
 
-The skeletons, which were assembled by [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
+The skeletons, which were assembled by [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62), are held together with wire frames and hung on pegs. They pose no threat.
 
 The staircase descends to area K62. The east door leading to the courtyard is swollen in its frame and requires a successful DC 10 Strength check to force open. The north door is cracked and hangs loose on its hinges; beyond it lies another dust-filled chamber (area K24).
 
@@ -724,12 +724,12 @@ The stairs lead to area K34.
 Refer to map 4 of the castle for areas K25 through K34.
 
 > [!gallery]
-> ![Map 4: Court of the Count](/3-Mechanics/CLI/adventures/curse-of-strahd/img/028-007.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/028-007-player.webp#gallery)
+> ![Map 4: Court of the Count](/03_Mechanics/CLI/adventures/curse-of-strahd/img/028-007.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/028-007-player.webp#gallery)
 
 > [!gallery]
-> ![Court of the Count (Battlemap; DM Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-04-court-revised.webp#gallery)
-> ![Court of the Count (Battlemap; Player Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-04-court-player-revised.webp#gallery)
+> ![Court of the Count (Battlemap; DM Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-04-court-revised.webp#gallery)
+> ![Court of the Count (Battlemap; Player Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-04-court-player-revised.webp#gallery)
 
 ### K25. Audience Hall
 
@@ -740,7 +740,7 @@ Refer to map 4 of the castle for areas K25 through K34.
 > At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.
 ^1e3
 
-A secret door in the south wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to find.
+A secret door in the south wall leads to area K13. It is hidden by dust and cobwebs, and requires a successful DC 16 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to find.
 
 Both staircases in the north wall lead down to area K19. The eastern double doors can be pulled open to reveal area K26 beyond. The single door in the east wall opens into area K30.
 
@@ -748,7 +748,7 @@ Both staircases in the north wall lead down to area K19. The eastern double door
 
 If your card reading reveals that a treasure is here, it lies on the marble dais, just behind the throne.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is sitting on the wooden throne.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is sitting on the wooden throne.
 
 ### K26. Guards' Post
 
@@ -759,9 +759,9 @@ If the characters enter this hall through either set of double doors, read:
 > The doors open to reveal another set of double doors ten feet ahead. Between these doors, a ten-foot-wide corridor stretches north to south. At each end of the hall, floating in the darkness, is a human skeleton clad in the rusted armor and tattered livery of a castle guard.
 ^1e6
 
-The "floating" skeletons hang from pegs on the north and south walls. The skeletons, which were assembled by [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
+The "floating" skeletons hang from pegs on the north and south walls. The skeletons, which were assembled by [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62), are held together with wire and are harmless. Behind the skeleton on the north wall is a secret door that can be pushed open into area K33.
 
-If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), can see the skeleton at the south end of the hall as well.
+If the characters enter this hall by way of the secret door that adjoins area K33, they see the skeleton hanging on the inside of the secret door as soon as they pull it open, and, with a light source or [darkvision](/03_Mechanics/CLI/senses.md#Darkvision), can see the skeleton at the south end of the hall as well.
 
 ### K27. King's Hall
 
@@ -772,7 +772,7 @@ If the characters enter this hall by way of the secret door that adjoins area K3
 
 The moaning is only the wind.
 
-Characters who examine the ceiling can, with a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs. These items are explained in "Flight of the Vampire" below.
+Characters who examine the ceiling can, with a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check, spot pulleys and a rope that run the full length of the corridor along the ceiling, well hidden by the cobwebs. These items are explained in "Flight of the Vampire" below.
 
 Halfway down the hall on the south side is a narrow secret door that can be pulled open to reveal area K31.
 
@@ -787,7 +787,7 @@ When one or more characters reach the midpoint of the hall from either direction
 > You hear a scraping sound of stone against stone, followed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.
 ^1ea
 
-The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip.
+The scraping noise is the sound of the hidden compartment opening, and the squeaking is the sound of the pulleys supporting the weight of the mannequin as it glides through the air. The chuckling is a harmless magical effect similar to that created by a [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip.
 
 Have the players roll initiative, and run this as a combat encounter with the "vampire" acting on initiative count 5. On its turn, the mannequin flies over the characters, 10 feet above the floor, and doesn't stop until it reaches the east end of the hall. On its next turn, it reverses direction and flies back to its compartment. The trap resets after 1 minute.
 
@@ -800,7 +800,7 @@ A character who attacks the mannequin from the floor needs a range of at least 1
 > A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
 ^1ec
 
-Two [Strahd zombies](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zombie's reach, whereupon they attack.
+Two [Strahd zombies](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (see appendix D) are slouched on the thrones. They remain motionless until one of them is disturbed or another creature comes within a zombie's reach, whereupon they attack.
 
 The balcony is 50 feet above the floor of the chapel (area K15). A staircase north of the double doors leads down to area K29.
 
@@ -811,7 +811,7 @@ The balcony is 50 feet above the floor of the chapel (area K15). A staircase nor
 > This staircase is made of old wood that strains underfoot, creaking and groaning.
 ^1ee
 
-The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised) by anyone climbing the creaky steps.
+The staircase climbs from area K16 to area K28. It seems unstable but is sturdy. The creatures in area K28 can't be [surprised](/03_Mechanics/CLI/conditions.md#Surprised) by anyone climbing the creaky steps.
 
 ### K30. King's Accountant
 
@@ -822,9 +822,9 @@ The staircase climbs from area K16 to area K28. It seems unstable but is sturdy.
 > In the center of this clutter stands a great black desk. A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.
 ^1f0
 
-The figure is [Lief Lipsiege](/3-Mechanics/CLI/bestiary/npc/lief-lipsiege-cos.md) (CE male human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
+The figure is [Lief Lipsiege](/03_Mechanics/CLI/bestiary/npc/lief-lipsiege-cos.md) (CE male human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
 
-![Lief Lipsiege](/3-Mechanics/CLI/adventures/curse-of-strahd/img/029-cos04-07.webp#center)
+![Lief Lipsiege](/03_Mechanics/CLI/adventures/curse-of-strahd/img/029-cos04-07.webp#center)
 
 Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive `d6` rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a `d4`:
 
@@ -832,13 +832,13 @@ Pulling the rope requires an action. When the rope is pulled, a tremendously lou
 
 | dice: d4 | Creature |
 |----------|----------|
-| 1 | `d6` [shadows](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) |
-| 2 | `d4` [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
-| 3 | `d4` [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) |
-| 4 | 1 [wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) and `1d4 + 1` [specters](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md) |
+| 1 | `d6` [shadows](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) |
+| 2 | `d4` [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
+| 3 | `d4` [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) |
+| 4 | 1 [wraith](/03_Mechanics/CLI/bestiary/undead/wraith-xmm.md) and `1d4 + 1` [specters](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) |
 ^creature
 
-Lief was pressed into service by Strahd many years ago. He keeps all the books for Strahd, recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because Strahd doesn't allow him to know about all his treasures. Even so, Lief has found out where one of Strahd's secret treasures lies. If he is treated with kindness, Lief will divulge the hiding place of the [Holy Symbol of Ravenkind](/3-Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md), as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
+Lief was pressed into service by Strahd many years ago. He keeps all the books for Strahd, recording the vampire's riches and conquests. Lief has been here longer than he can remember. He is grumpy because Strahd doesn't allow him to know about all his treasures. Even so, Lief has found out where one of Strahd's secret treasures lies. If he is treated with kindness, Lief will divulge the hiding place of the [Holy Symbol of Ravenkind](/03_Mechanics/CLI/items/holy-symbol-of-ravenkind-cos.md), as indicated by your card reading. Lief can draw a crude map showing a route to that location. His map is geographically accurate, but he admits that it doesn't acknowledge or avoid any dangers that might lie along the way. Lief doesn't necessarily know the most direct path to the symbol's location.
 
 Lief knows that there's a key that unlocks all four chests, but he can't remember where he hid it. See "Treasure" below for more information.
 
@@ -846,9 +846,9 @@ The western door leads to area K25. The eastern door provides access to a stairc
 
 #### Treasure
 
-The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
+The room contains hundreds of worthless books and scrolls describing accounting procedures. The first character who spends at least 10 minutes searching the room and succeeds on a DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check finds a book with a bloodstained leather cover. The pages of this book have been hollowed out, creating a hole in which Lief has hidden the iron key that unlocks the four wooden chests in this room.
 
-Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a [manual of bodily health](/3-Mechanics/CLI/items/manual-of-bodily-health-xdmg.md).
+Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp. The fourth chest holds 500 pp, hidden under which is a [manual of bodily health](/03_Mechanics/CLI/items/manual-of-bodily-health-xdmg.md).
 
 ### K31. Trapworks
 
@@ -900,7 +900,7 @@ A door in the north wall is easy to spot from this side (no ability check requir
 > Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant.
 ^1f9
 
-The maid, [Helga Ruvak](/3-Mechanics/CLI/bestiary/npc/helga-ruvak-cos.md), is a [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) who claims to be the daughter of the village bootmaker, kidnapped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
+The maid, [Helga Ruvak](/03_Mechanics/CLI/bestiary/npc/helga-ruvak-cos.md), is a [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) who claims to be the daughter of the village bootmaker, kidnapped and forced into service by Strahd. She pleads, on her hands and knees if necessary, to be saved from this awful place.
 
 Helga will join the party if the characters ask her along. She intends to attack the characters but does so only if she senses an opportunity that doesn't involve having to fight the entire party. She also attacks if commanded to do so by Strahd.
 
@@ -946,12 +946,12 @@ The staircase leads down to area K24.
 Refer to map 5 of the castle for areas K35 through K46.
 
 > [!gallery]
-> ![Map 5: Rooms of Weeping](/3-Mechanics/CLI/adventures/curse-of-strahd/img/030-008.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/030-008-player.webp#gallery)
+> ![Map 5: Rooms of Weeping](/03_Mechanics/CLI/adventures/curse-of-strahd/img/030-008.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/030-008-player.webp#gallery)
 
 > [!gallery]
-> ![Rooms of Weeping (Battlemap; DM Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-05-weeping.webp#gallery)
-> ![Rooms of Weeping (Battlemap; Player Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-05-weeping-player.webp#gallery)
+> ![Rooms of Weeping (Battlemap; DM Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-05-weeping.webp#gallery)
+> ![Rooms of Weeping (Battlemap; Player Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-05-weeping-player.webp#gallery)
 
 ### K35. Guardian Vermin
 
@@ -960,7 +960,7 @@ Refer to map 5 of the castle for areas K35 through K46.
 > A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man-shaped figure stands in each alcove.
 ^202
 
-The dark figures are four [swarms of rats](/3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) piled atop one another to form manlike shapes (two swarms per alcove). These rats are under Strahd's control and attack anyone that tries to move through this area.
+The dark figures are four [swarms of rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) piled atop one another to form manlike shapes (two swarms per alcove). These rats are under Strahd's control and attack anyone that tries to move through this area.
 
 The steel door is engraved with images of a human king in armor astride a horse, a majestic range of mountains and shooting stars in the background. Tiny figures of people and wolves frame the image.
 
@@ -971,7 +971,7 @@ The steel door is engraved with images of a human king in armor astride a horse,
 > Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.
 ^204
 
-The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+The wedding cake is over four centuries old, kept in its current rotten state by the will of Strahd. The toy figure of the groom from the top of the cake was cast on the floor long ago. A character who searches the dusty floor finds the figurine with a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
 If the characters take the groom figurine out of the room, read the following if they return to the room at a later time:
 
@@ -983,30 +983,30 @@ If the characters take the groom figurine out of the room, read the following if
 There are two explanations for the burst cake and broken window. Choose the one you think is creepier:
 
 - Strahd smashes the cake and breaks the window to make the characters think something terrible has escaped and is now stalking them.  
-- Strahd's hate assumes a corporeal form, bursts out of the cake (the symbol of Sergei and Tatyana's love), and escapes through the window. "Strahd's hate" has the statistics of an [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) and tries to kill whichever character is carrying the groom figurine.  
+- Strahd's hate assumes a corporeal form, bursts out of the cake (the symbol of Sergei and Tatyana's love), and escapes through the window. "Strahd's hate" has the statistics of an [invisible stalker](/03_Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) and tries to kill whichever character is carrying the groom figurine.  
 
 The room has wooden doors in the north and west walls, and an ornate steel door in the east wall (see area K35 for details).
 
 The harp stands 6½ feet tall, weighs close to 300 pounds, and is fashioned of dark, stained wood carved with images of harts and roses. Its taut strings are made of gut.
 
-A character who plays the harp and succeeds on a DC 15 Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
+A character who plays the harp and succeeds on a DC 15 Charisma ([Performance](/03_Mechanics/CLI/skills.md#Performance)) check does well enough to summon the ghost of Pidlwick, a short little man dressed as a fool, with a tiny jingling bell at the end of his pointy dunce cap. He asks, "Why have you summoned me from beyond the grave?" Regardless of the answer, he commends the character for playing well and says, "In my crypt below the castle, thou shalt find a treasure worthy of one so talented as thee! May it help thee set this troubled place to rest." If the characters think to ask him who he is, the fool replies, "Pidlwick." If asked how he died, he replies humorlessly, "I fell down the stairs." If [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see area K59) is with the party, the ghost points at the clockwork effigy and says, "He pushed me down the stairs."
 
 With nothing more to add, the ghost of Pidlwick fades away and doesn't appear again. If the characters attack the ghost, it attacks them in turn.
 
 #### Treasure
 
-The lute, though old and covered in dust, has survived the passage of time. It is a magic [instrument of the bards](/3-Mechanics/CLI/items/instrument-of-the-bards-xdmg.md) called a [Doss lute](/3-Mechanics/CLI/items/instrument-of-the-bards-doss-lute-xdmg.md).
+The lute, though old and covered in dust, has survived the passage of time. It is a magic [instrument of the bards](/03_Mechanics/CLI/items/instrument-of-the-bards-xdmg.md) called a [Doss lute](/03_Mechanics/CLI/items/instrument-of-the-bards-doss-lute-xdmg.md).
 
 ### K37. Study
 
 > [!readaloud] 
 > 
-> A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md).
+> A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md).
 ^208
 
 This chamber has several exits, including a large set of double doors in the west wall, a door at each end of the north wall, and a door to the south.
 
-The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved. The fact that [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) looks exactly like Tatyana is proof to Strahd that both women were born with the same soul.
+The painting above the fireplace depicts Tatyana, a beautiful young woman with auburn hair. Strahd commissioned the painting over four centuries ago to impress his beloved. The fact that [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) looks exactly like Tatyana is proof to Strahd that both women were born with the same soul.
 
 The back wall of the fireplace contains a secret door, which is opened by lifting the poker from its stand. The fire must be extinguished in order for anyone to reach the secret door safely. Otherwise, a creature that enters the fireplace for the first time on a turn or starts its turn there takes 5 (`d10`) fire damage and catches fire. Until someone takes an action to douse the flames on the creature, it takes 5 (`d10`) fire damage at the start of each of its turns. (This fire damage is cumulative with the damage from standing in the fireplace.)
 
@@ -1018,7 +1018,7 @@ The real treasure here is Strahd's collection of books—over one thousand uniqu
 
 Roll a `d12` and consult the following table to determine the subject matter of a randomly chosen book.
 
-![Tatyana](/3-Mechanics/CLI/adventures/curse-of-strahd/img/031-cos04-09.webp#center)
+![Tatyana](/03_Mechanics/CLI/adventures/curse-of-strahd/img/031-cos04-09.webp#center)
 
 `dice: [](06-chapter-4-castle-ravenloft.md#^book)`
 
@@ -1046,7 +1046,7 @@ Characters who teleport to this location from area K78 arrive in front of the pa
 
 If your card reading reveals that a treasure is here, it is resting on the mantelpiece under the portrait of Tatyana.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is sitting back in one of the overstuffed chairs, staring into the fire.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is sitting back in one of the overstuffed chairs, staring into the fire.
 
 ### K38. False Treasury
 
@@ -1057,7 +1057,7 @@ If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/besti
 > Attached to the east wall are two torch sconces. The southernmost one holds a torch with an intricate metal base. The other is empty. A skeleton in broken plate armor lies against the wall. The skeleton's right hand is on its throat, and its left hand holds the matching torch from the empty sconce.
 ^20d
 
-The coins scattered around the trapped chest total 50 gp, 100 sp, and 2,000 cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC 18 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 4 hours. If all the characters succumb to the gas, they are found by the witches who lair in area K56 and dragged to area K50, then left there unharmed. If even one character resists the effect of the gas, the witches do not appear.
+The coins scattered around the trapped chest total 50 gp, 100 sp, and 2,000 cp. The chest weighs 40 pounds and is unlocked. When opened, it releases a cloud of sleeping gas that fills the room. Any creature in the room must succeed on a DC 18 Constitution saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) for 4 hours. If all the characters succumb to the gas, they are found by the witches who lair in area K56 and dragged to area K50, then left there unharmed. If even one character resists the effect of the gas, the witches do not appear.
 
 The armored skeleton on the floor is all that remains of an adventurer. His corpse has nothing of value.
 
@@ -1065,9 +1065,9 @@ The armored skeleton on the floor is all that remains of an adventurer. His corp
 
 This room is concealed behind two secret doors.
 
-The secret door to the west is set into the back wall of the fireplace (area K37) and can be pulled open from within this room by lifting a simple locking mechanism (which is connected to the poker in the study). It's possible that a character might open this secret door inadvertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
+The secret door to the west is set into the back wall of the fireplace (area K37) and can be pulled open from within this room by lifting a simple locking mechanism (which is connected to the poker in the study). It's possible that a character might open this secret door inadvertently by lifting the poker in area K37. Characters can otherwise locate the secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
 
-The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
+The secret door at the northern end of the east wall is sealed shut. If the torch is taken from the skeleton's hand and placed back in the empty sconce, the secret door swings inward, revealing area K39 beyond. Removing the torch from its sconce at any time causes the secret door to close and lock shut, becoming sealed as before. Characters can locate this secret door normally, but a successful check doesn't reveal the mechanism to open it. That can be found only through trial and error, or the characters can bypass the mechanism with a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
 
 ### K39. Hall of Webs
 
@@ -1078,15 +1078,15 @@ The secret door at the northern end of the east wall is sealed shut. If the torc
 
 The hall has an arched ceiling 20 feet overhead, hidden behind thick webbing. At the eastern end are a pair of arched bronze doors of ornate design. These doors can be pulled open to reveal area K40 beyond.
 
-Most of the hall is full of giant spider [webs](/3-Mechanics/CLI/traps-hazards/webs-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who stray from the unobstructed path through the webs risk becoming stuck.
+Most of the hall is full of giant spider [webs](/03_Mechanics/CLI/traps-hazards/webs-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who stray from the unobstructed path through the webs risk becoming stuck.
 
 #### Secret Doors
 
 At the west end of the hall are two secret doors.
 
-The secret door on the west wall can't be opened from this side, except by magic (such as a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell). See area K38 for more information on this secret door. If the characters pass through this door coming from area K38, it closes and locks behind them if they don't take measures to prop it open.
+The secret door on the west wall can't be opened from this side, except by magic (such as a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell). See area K38 for more information on this secret door. If the characters pass through this door coming from area K38, it closes and locks behind them if they don't take measures to prop it open.
 
-A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. The door can be pulled open to reveal area K31b.
+A narrow secret door at the western end of the south wall is hidden behind a mass of webs. If these webs are cleared away, characters can search for the secret door, finding it with a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. The door can be pulled open to reveal area K31b.
 
 ### K40. Belfry
 
@@ -1095,9 +1095,9 @@ A narrow secret door at the western end of the south wall is hidden behind a mas
 > You can hear the rain and thunder outside, and the air here is cold and damp. Veils and curtains of webbing fill the room, making it hard to gauge its width and depth. A single, narrow path leads to the dark center of the room, where a rope dangles from high above.
 ^213
 
-The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes five [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) to drop from their webs and attack. The spiders attack only if they are attacked or if the bell is sounded.
+The rope is attached to a great bell mounted in a wooden framework 50 feet overhead. Pulling the rope or attempting to climb it brings forth a loud, long "GONG." That sound causes five [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) to drop from their webs and attack. The spiders attack only if they are attacked or if the bell is sounded.
 
-Most of the belfry is filled with giant spider [webs](/3-Mechanics/CLI/traps-hazards/webs-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who blunder into them risk becoming stuck.
+Most of the belfry is filled with giant spider [webs](/03_Mechanics/CLI/traps-hazards/webs-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). Characters who blunder into them risk becoming stuck.
 
 At the west end of the north wall, behind thick webs, is a secret door that opens into area K41.
 
@@ -1110,21 +1110,21 @@ At the west end of the north wall, behind thick webs, is a secret door that open
 
 The domed ceiling is coated with dry pitch. The "stars" are shards of glowing crystal embedded in the pitch, each one as bright as a candle flame. Thanks to the starry "night sky," the vault is dimly lit.
 
-The plundered riches of Strahd's secret hoard lie within this adamantine tower, which is actually a [Daern's instant fortress](/3-Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) (see chapter 7, "Treasure," of the "Dungeon Master's Guide"). Only Strahd knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
+The plundered riches of Strahd's secret hoard lie within this adamantine tower, which is actually a [Daern's instant fortress](/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) (see chapter 7, "Treasure," of the "Dungeon Master's Guide"). Only Strahd knows the command word to alter its shape and size, which can't be done until every bit of treasure inside it is removed. Only Strahd can open the two means of entry: a sealed adamantine door set into the base of the tower on the north side, and an adamantine trapdoor on the roof.
 
 The arrow slits of the tower are 4 inches wide and 2 feet tall, and the walls of the fortress are 3 inches thick. Characters who are able to reduce their size or assume gaseous form can enter the tower through these slits.
 
 #### Treasure
 
-The ground floor of the [Daern's instant fortress](/3-Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [+2 shield](/3-Mechanics/CLI/items/2-shield-xdmg.md) emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+The ground floor of the [Daern's instant fortress](/03_Mechanics/CLI/items/daerns-instant-fortress-xdmg.md) contains 50,000 cp, 10,000 sp, 10,000 gp, 1,000 pp, 15 assorted gems (100 gp each), and a [+2 shield](/03_Mechanics/CLI/items/2-shield-xdmg.md) emblazoned with a stylized silver dragon that is the emblem of the Order of the Silver Dragon (see chapter 7). The shield whispers warnings to its bearer, granting a +2 bonus to initiative if the bearer isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
-The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [alchemy jug](/3-Mechanics/CLI/items/alchemy-jug-xdmg.md), a [helm of brilliance](/3-Mechanics/CLI/items/helm-of-brilliance-xdmg.md), a [rod of the pact keeper, +1](/3-Mechanics/CLI/items/1-rod-of-the-pact-keeper-xdmg.md), and an unlocked wooden coffer with four compartments, each one containing a [potion of greater healing](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
+The upper floor of the tower contains 10 pieces of jewelry (250 gp each) in a red velvet sack, an [alchemy jug](/03_Mechanics/CLI/items/alchemy-jug-xdmg.md), a [helm of brilliance](/03_Mechanics/CLI/items/helm-of-brilliance-xdmg.md), a [rod of the pact keeper, +1](/03_Mechanics/CLI/items/1-rod-of-the-pact-keeper-xdmg.md), and an unlocked wooden coffer with four compartments, each one containing a [potion of greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
 
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it is lying atop the coins on the ground floor inside the tower.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is perched atop the tower.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is perched atop the tower.
 
 ### K42. King's Bedchamber
 
@@ -1135,17 +1135,17 @@ If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/besti
 > A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot.
 ^219
 
-![Gertruda](/3-Mechanics/CLI/adventures/curse-of-strahd/img/032-cos04-10.webp#center)
+![Gertruda](/03_Mechanics/CLI/adventures/curse-of-strahd/img/032-cos04-10.webp#center)
 
 Arched double doors lead from this room to the south and east.
 
 The window is divided into four tall panes of glass, each enclosed by a lead framework. The two outermost sections have small iron hinges built into them so that they can be opened, as well as iron latches to lock them in place when they're closed. The window looks out onto the parapet (area K46).
 
-The figure on the bed is [Gertruda](/3-Mechanics/CLI/bestiary/npc/gertruda-cos.md) (NG female human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), the daughter of [Mad Mary](/3-Mechanics/CLI/bestiary/npc/mad-mary-cos.md) (see chapter 3, area E3). [Gertruda](/3-Mechanics/CLI/bestiary/npc/gertruda-cos.md) is oblivious to any danger to herself—especially from Strahd, who has [charmed](/3-Mechanics/CLI/conditions.md#Charmed) her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
+The figure on the bed is [Gertruda](/03_Mechanics/CLI/bestiary/npc/gertruda-cos.md) (NG female human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), the daughter of [Mad Mary](/03_Mechanics/CLI/bestiary/npc/mad-mary-cos.md) (see chapter 3, area E3). [Gertruda](/03_Mechanics/CLI/bestiary/npc/gertruda-cos.md) is oblivious to any danger to herself—especially from Strahd, who has [charmed](/03_Mechanics/CLI/conditions.md#Charmed) her. Sheltered by her mother, she was never allowed to leave home as a child. She finally slipped away and made her way to the castle, drawn by its majesty.
 
-[Gertruda](/3-Mechanics/CLI/bestiary/npc/gertruda-cos.md) is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
+[Gertruda](/03_Mechanics/CLI/bestiary/npc/gertruda-cos.md) is innocent, and years spent as a shut-in have twisted her sense of reality. Consequently, she maintains a fairy-tale view of life. When faced with a decision, she almost always makes the most simplistic choice. She is naive to the point of being a danger to herself and others. Fortunately for her, Strahd has not yet bitten her, though he intends to. (If he can do so while the characters look on helplessly, so much the better.)
 
-Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). [Gertruda](/3-Mechanics/CLI/bestiary/npc/gertruda-cos.md) doesn't know that this secret door exists.
+Next to the bed, set into the north wall, is a secret door. It can be pushed open to reveal a dusty hall that ends at a similar secret door in the back of an alcove (see area K45 for details). [Gertruda](/03_Mechanics/CLI/bestiary/npc/gertruda-cos.md) doesn't know that this secret door exists.
 
 ### K43. Bath Chamber
 
@@ -1200,7 +1200,7 @@ The stairs at the west end of the hall descend 40 feet to area K33. An open arch
 
 The walkway runs around the front of the upper portion of the keep. Battlemented walkways extend from the keep north, south, and east to the outer walls of the castle as well. (See map 2 for the length and location of the castle walls.) All the windows leading from this area into the keep are shut and locked, but can easily be broken.
 
-If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [Strahd's animated armor](/3-Mechanics/CLI/bestiary/npc/strahds-animated-armor-cos.md) (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) are more likely to hear the clatter of the armor approaching before they can see it.
+If the characters loiter on the parapets or atop the castle walls for more than 5 minutes, they encounter [Strahd's animated armor](/03_Mechanics/CLI/bestiary/npc/strahds-animated-armor-cos.md) (see appendix D) making the rounds. It patrols the parapets and the outer walls of Ravenloft day and night. Under a darkened sky, characters without [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) are more likely to hear the clatter of the armor approaching before they can see it.
 
 The armor can't be salvaged if it is reduced to 0 hit points.
 
@@ -1209,12 +1209,12 @@ The armor can't be salvaged if it is reduced to 0 hit points.
 Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 
 > [!gallery]
-> ![Map 6: Spires of Ravenloft](/3-Mechanics/CLI/adventures/curse-of-strahd/img/033-009.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/033-009-player.webp#gallery)
+> ![Map 6: Spires of Ravenloft](/03_Mechanics/CLI/adventures/curse-of-strahd/img/033-009.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/033-009-player.webp#gallery)
 
 > [!gallery]
-> ![Spires and Tower of Ravenl...](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-06-spires12.webp#gallery "Spires and Tower of Ravenloft (Battlemap; DM Version)")
-> ![Spires and Tower of Ravenl...](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-06-spires12-player.webp#gallery "Spires and Tower of Ravenloft (Battlemap; Player Version)")
+> ![Spires and Tower of Ravenl...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-06-spires12.webp#gallery "Spires and Tower of Ravenloft (Battlemap; DM Version)")
+> ![Spires and Tower of Ravenl...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-06-spires12-player.webp#gallery "Spires and Tower of Ravenloft (Battlemap; Player Version)")
 
 ### K47. Portrait of Strahd
 
@@ -1225,15 +1225,15 @@ Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 > An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.
 ^226
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/034-cos04-11.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/034-cos04-11.webp#center)
 
-The ornate rug is actually a [rug of smothering](/3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md). It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
+The ornate rug is actually a [rug of smothering](/03_Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md). It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
 
 The wooden, square trapdoor is 4 feet on a side and as thick as the floor, with recessed iron hinges and an iron ring built into the side opposite the hinges. Pulling up on the ring opens the door. Below the trapdoor, characters see one of two things: either a 170-foot-deep shaft (area K31a) or, if the elevator trap has been activated (see area K61), a stone elevator compartment with a secret hatch in its top.
 
-The portrait on the wall depicts [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
+The portrait on the wall depicts [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) before he became a vampire. Even in life, he was pale. The eyes of the portrait seem to watch and follow the characters as they explore the area. The picture frame is bolted to the wall and can't be removed without destroying it.
 
-If the characters attack the rug or the picture, or if they attempt to remove either item, the [guardian portrait](/3-Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md) (see appendix D) attacks.
+If the characters attack the rug or the picture, or if they attempt to remove either item, the [guardian portrait](/03_Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md) (see appendix D) attacks.
 
 ### K48. Offstair
 
@@ -1251,19 +1251,19 @@ This stairway rises from area K47, past area K54, to area K57.
 > As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
 ^22a
 
-The youthful man on the couch is [Escher](/3-Mechanics/CLI/bestiary/npc/escher-cos.md), a dashing [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) to whom Strahd has shown favor in the past. [Escher](/3-Mechanics/CLI/bestiary/npc/escher-cos.md) is feeling somewhat neglected of late and has retreated here until Strahd's mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
+The youthful man on the couch is [Escher](/03_Mechanics/CLI/bestiary/npc/escher-cos.md), a dashing [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) to whom Strahd has shown favor in the past. [Escher](/03_Mechanics/CLI/bestiary/npc/escher-cos.md) is feeling somewhat neglected of late and has retreated here until Strahd's mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
 
-![Escher and the Three Brides](/3-Mechanics/CLI/adventures/curse-of-strahd/img/035-cos04-20.webp#center)
+![Escher and the Three Brides](/03_Mechanics/CLI/adventures/curse-of-strahd/img/035-cos04-20.webp#center)
 
-In conversation, [Escher](/3-Mechanics/CLI/bestiary/npc/escher-cos.md) displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs (area K84) with Strahd's other castoff consorts.
+In conversation, [Escher](/03_Mechanics/CLI/bestiary/npc/escher-cos.md) displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs (area K84) with Strahd's other castoff consorts.
 
-The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn't allow for much of a view. If a character opens a window and leaves it open, there's a 50 percent chance that a [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) crawling around the outside wall of the tower notices the open window and investigates.
+The leaded windows are fitted with iron hinges and can be opened. They can be locked from the inside, though they are currently unlocked. The leaded glass doesn't allow for much of a view. If a character opens a window and leaves it open, there's a 50 percent chance that a [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) crawling around the outside wall of the tower notices the open window and investigates.
 
 The books in the bookcase have no value and aren't much help to the characters. Some of the titles found on the bookshelf include *Embalming: The Lost Art*, *Life Among the Undead: Learning to Cope*, *Castle Building 101*, and *Goats of the Balinok Mountains*.
 
 #### Treasure
 
-On the third finger of his left hand, [Escher](/3-Mechanics/CLI/bestiary/npc/escher-cos.md) wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
+On the third finger of his left hand, [Escher](/03_Mechanics/CLI/bestiary/npc/escher-cos.md) wears a platinum ring engraved with tiny roses and thorns (worth 150 gp). Around his neck, he wears a gold and ruby pendant (worth 750 gp).
 
 ### K50. Guest Room
 
@@ -1272,7 +1272,7 @@ On the third finger of his left hand, [Escher](/3-Mechanics/CLI/bestiary/npc/esc
 > A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
 ^22d
 
-There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of `d4` [Barovian witches](/3-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) from area K56. They try to subdue the party with [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) spells. A witch retreats to area K56 if wounded.
+There is no danger in this area during the day. But if the characters try to take a short rest here during the night, the rest is interrupted by the arrival of `d4` [Barovian witches](/03_Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) from area K56. They try to subdue the party with [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md) spells. A witch retreats to area K56 if wounded.
 
 ### K51. Closet
 
@@ -1283,7 +1283,7 @@ There is no danger in this area during the day. But if the characters try to tak
 
 The cloak is ordinary. The witches in area K56 placed it here to help them remember which hook opens the secret trapdoor in the ceiling.
 
-The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Locating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell, or similar magic. It swings down when unlocked.
+The trapdoor can be found after a search of the room and a successful DC 13 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. Locating the trapdoor doesn't enable someone to discover its opening mechanism. The door has a hidden lock and can be opened by pulling down on the hook from which the black cloak hangs. Once it has been found, the trapdoor can be opened by pulling on the hook, or it can be unlocked by someone using thieves' tools, a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell, or similar magic. It swings down when unlocked.
 
 ### K52. Smokestack
 
@@ -1308,7 +1308,7 @@ If a character tries to traverse the rooftop, read:
 > Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
 ^234
 
-A character must succeed on a DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof and falls 40 feet to the castle parapet (area K46).
+A character must succeed on a DC 15 Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check to traverse the roof. The check succeeds automatically if the character crawls. If the check fails by 5 or more, the character slides off the edge of the roof and falls 40 feet to the castle parapet (area K46).
 
 ### K54. Familiar Room
 
@@ -1317,7 +1317,7 @@ A character must succeed on a DC 15 Dexterity ([Acrobatics](/3-Mechanics/CLI/ski
 > The low ceiling of this twenty-foot-square room presses down on you. Torn and broken couches lie in heaps, haphazardly strewn about. Deep claw marks cover the hardwood furniture, and the once lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at you.
 ^236
 
-The three [cats](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md) are familiars of the witches in area K56. If the familiars see the characters here, the witches are alerted to their presence.
+The three [cats](/03_Mechanics/CLI/bestiary/beast/cat-xmm.md) are familiars of the witches in area K56. If the familiars see the characters here, the witches are alerted to their presence.
 
 ### K55. Element Room
 
@@ -1328,17 +1328,17 @@ The three [cats](/3-Mechanics/CLI/bestiary/beast/cat-xmm.md) are familiars of th
 
 The labeled glass containers hold various elements that the witches use in their fell concoctions and rituals. The labels identify such items as "Eye of Newt," "Hair of Bat," "Snail Hearts," and "Frog's Breath." There are no magic potions among the bottles and jars.
 
-The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the inside. If a character opens a window and leaves it open, there's a 50 percent chance that a [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) crawling around the outside wall of the tower notices the open window and investigates.
+The leaded windows are fitted with iron hinges and can be opened. They are currently locked from the inside. If a character opens a window and leaves it open, there's a 50 percent chance that a [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) crawling around the outside wall of the tower notices the open window and investigates.
 
 Characters who search the room spot numerous boot prints in the dust, as well as a short trail in the dust on the floor, leading from the northeast corner of the room to the easternmost door. It looks like something heavy was dragged across the floor toward the doorway.
 
-There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area K51 lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a [divination](/3-Mechanics/CLI/spells/divination-xphb.md) spell or similar magic.)
+There is a secret trapdoor in the northeast corner of the floor. Because of the trail through the dust, the trapdoor can be found without an ability check. Tapping or knocking on the trapdoor three times releases a hidden latch, causing the trapdoor to swing down. Area K51 lies below. (There's no ability check that will let the characters figure out the trick to opening the door. They can get that information from the witches, or perhaps by using a [divination](/03_Mechanics/CLI/spells/divination-xphb.md) spell or similar magic.)
 
 ### K56. Cauldron
 
 > [!gallery]
-> ![Maps 7-10: Spires and Tower of Ravenloft](/3-Mechanics/CLI/adventures/curse-of-strahd/img/036-010.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/036-010-player.webp#gallery)
+> ![Maps 7-10: Spires and Tower of Ravenloft](/03_Mechanics/CLI/adventures/curse-of-strahd/img/036-010.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/036-010-player.webp#gallery)
 
 Characters who stand outside the door to this room can smell a pungent odor coming from within.
 
@@ -1356,7 +1356,7 @@ If the witches know the characters are coming, read the following text instead:
 > Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are seven tall wooden stools.
 ^23b
 
-The [Barovian witches](/3-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) (see appendix D) that dwell in this area have sworn themselves to Strahd's service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K50. If the witches are expecting the characters, they cast [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md).
+The [Barovian witches](/03_Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) (see appendix D) that dwell in this area have sworn themselves to Strahd's service in exchange for arcane power. Seven witches are present when the characters arrive, minus any that might have been encountered and defeated in area K50. If the witches are expecting the characters, they cast [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) spells and stand quietly in the corners of the room, hoping that the cauldron draws their prey inside. Although they prefer to attack at range with their spells, they can grow magic claws using [alter self](/03_Mechanics/CLI/spells/alter-self-xphb.md).
 
 When the cauldron is touched by someone who also speaks the proper command word ("Gorah!"), it magically heats any liquid placed inside it and remains hot for 3 hours, or until the command word is spoken again by someone within 5 feet of the cauldron. Once the cauldron's property has been used, the cauldron can't be activated again until the next dawn.
 
@@ -1364,15 +1364,15 @@ Captured witches will trade information in exchange for their lives and freedom,
 
 #### Treasure
 
-Each witch carries a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) that she made herself. There is a 30 percent chance that a potion has "gone bad," in which case it's actually a [potion of poison](/3-Mechanics/CLI/items/potion-of-poison-xdmg.md).
+Each witch carries a [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) that she made herself. There is a 30 percent chance that a potion has "gone bad," in which case it's actually a [potion of poison](/03_Mechanics/CLI/items/potion-of-poison-xdmg.md).
 
 Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (`d10`) psychic damage. The book contains the following spells:
 
 > [!note] 
 > 
-> 1st level: [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [find familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md), [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [ray of sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md), [Tasha's hideous laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md), [witch bolt](/3-Mechanics/CLI/spells/witch-bolt-xphb.md)
+> 1st level: [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md), [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [find familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md), [fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md), [mage armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md), [protection from evil and good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [ray of sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md), [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md), [Tasha's hideous laughter](/03_Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [unseen servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md), [witch bolt](/03_Mechanics/CLI/spells/witch-bolt-xphb.md)
 > 
-> 2nd level: [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md), [cloud of daggers](/3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md), [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [knock](/3-Mechanics/CLI/spells/knock-xphb.md), [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md)
+> 2nd level: [alter self](/03_Mechanics/CLI/spells/alter-self-xphb.md), [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md), [cloud of daggers](/03_Mechanics/CLI/spells/cloud-of-daggers-xphb.md), [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [enlarge/reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md), [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [knock](/03_Mechanics/CLI/spells/knock-xphb.md), [misty step](/03_Mechanics/CLI/spells/misty-step-xphb.md)
 ^23d
 
 ### K57. Tower Roof
@@ -1406,27 +1406,27 @@ The hole in the floor forms the mouth of an enclosed shaft (area K18a) that desc
 
 #### Pidlwick II
 
-Hiding in the rafters is [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see appendix D). A character spots [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score that meets or exceeds its Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check. If [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) is spotted, read:
+Hiding in the rafters is [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see appendix D). A character spots [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score that meets or exceeds its Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) check. If [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) is spotted, read:
 
 > [!readaloud] 
 > 
 > Something lurks among the rafters—a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack-o'-lantern.
 ^245
 
-Although he appears to be a petite man wearing face paint and a fool's costume, [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
+Although he appears to be a petite man wearing face paint and a fool's costume, [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) is actually a clockwork effigy of the real-life Pidlwick, who lies entombed in the catacombs. The dark paint on his face is soot.
 
-If the characters see [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) in bright light, read:
+If the characters see [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) in bright light, read:
 
 > [!readaloud] 
 > 
 > It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears.
 ^246
 
-[Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple diagrams to communicate. He understands Common but can't read or write.
+[Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) can't speak and doesn't have an expressive face, so he relies mostly on hand gestures and simple diagrams to communicate. He understands Common but can't read or write.
 
 If the characters show kindness to the clockwork effigy, it accompanies them and tries its best to be helpful and entertaining. It knows its way around the castle and can serve as a silent guide.
 
-If one or more characters are mean toward [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md), its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking `d6` bludgeoning damage per 10 feet fallen.
+If one or more characters are mean toward [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md), its quiet resentment of them grows, and at some point when the group is at the top of a staircase, it pushes one of the offending party members down the stairs. The target must succeed on a DC 10 Dexterity saving throw or tumble to the bottom of the staircase, taking `d6` bludgeoning damage per 10 feet fallen.
 
 ### K60. North Tower Peak
 
@@ -1441,11 +1441,11 @@ If the characters climb the stairs to this area, read:
 
 The ceiling here is 9 feet high. The manacles are rusted and can be easily torn from the walls. The trapdoor in the ceiling leads to the tower rooftop (area K60a).
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/037-cos19-10.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/037-cos19-10.webp#center)
 
 #### Treasure
 
-The iron chest is locked, and its key is with [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) in area K62.
+The iron chest is locked, and its key is with [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) in area K62.
 
 The chest contains a bejeweled gold crown (worth 2,500 gp) resting on a silk pillow.
 
@@ -1457,7 +1457,7 @@ Characters who teleport to this location from area K78 arrive in the middle of t
 
 If your card reading reveals that a treasure is here, it is inside the iron chest.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is standing next to the iron chest.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is standing next to the iron chest.
 
 ### K60a. North Tower Rooftop
 
@@ -1466,7 +1466,7 @@ If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/besti
 > A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above suddenly coalesce into the terrible visage of Strahd. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
 ^24d
 
-Characters who remain on the roof are accosted by ten [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md), which arrive in 3 rounds. If the characters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K18a), and roost in the catacombs (area K84).
+Characters who remain on the roof are accosted by ten [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md), which arrive in 3 rounds. If the characters descend into the tower, the bats don't follow and instead fly into the high tower (area K59), descend its central shaft (area K18a), and roost in the catacombs (area K84).
 
 The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
 
@@ -1475,16 +1475,16 @@ The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
 Refer to map 11 of the castle for areas K61 through K72.
 
 > [!gallery]
-> ![Map 11: Larders of Ill Ome...](/3-Mechanics/CLI/adventures/curse-of-strahd/img/038-011.webp#gallery "Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs")
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/038-011-player.webp#gallery)
+> ![Map 11: Larders of Ill Ome...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/038-011.webp#gallery "Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs")
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/038-011-player.webp#gallery)
 
 > [!gallery]
-> ![Larders of Ill Omen (Battlemap; DM Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-08-larders.webp#gallery)
-> ![Larders of Ill Omen (Battlemap; Player Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-08-larders-player.webp#gallery)
+> ![Larders of Ill Omen (Battlemap; DM Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-08-larders.webp#gallery)
+> ![Larders of Ill Omen (Battlemap; Player Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-08-larders-player.webp#gallery)
 
 > [!gallery]
-> ![Dungeon and Catacombs (Battlemap; DM Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-09-dungeons-and-catacombs.webp#gallery)
-> ![Dungeon and Catacombs (Battlemap; Player Version)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/map-4-09-dungeons-and-catacombs-player.webp#gallery)
+> ![Dungeon and Catacombs (Battlemap; DM Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-09-dungeons-and-catacombs.webp#gallery)
+> ![Dungeon and Catacombs (Battlemap; Player Version)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-09-dungeons-and-catacombs-player.webp#gallery)
 
 ### K61. Elevator Trap
 
@@ -1496,22 +1496,22 @@ See area K31 and the accompanying Elevator Trap diagram before running this enco
 ^250
 
 > [!gallery]
-> ![Map: Elevator Trap](/3-Mechanics/CLI/adventures/curse-of-strahd/img/039-012.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/040-cos401.webp#gallery)
+> ![Map: Elevator Trap](/03_Mechanics/CLI/adventures/curse-of-strahd/img/039-012.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/040-cos401.webp#gallery)
 
 This hallway contains an elevator trap, triggered when at least 400 pounds of pressure is applied to the 10-foot-square section of floor in the center of the hall (marked T on the map), or when the lever in area K31 is raised. A party of adventurers moving in close formation down the hall is certainly heavy enough to trigger the trap.
 
-A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to the rest of the hall. A character who makes a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check discerns that the trap can't be disarmed from this location.
+A character who searches for traps while crossing the hall and succeeds on a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check detects seams in the floor, walls, and ceiling that suggest that the middle section isn't attached to the rest of the hall. A character who makes a successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check discerns that the trap can't be disarmed from this location.
 
-The middle 10-foot section of the hall is a cleverly hidden elevator compartment, open to the north and south so that it appears to be part of the passageway. When the trap is sprung, two steel portcullises drop from the ceiling at lightning speed to seal off the compartment, trapping within those creatures that triggered the trap. An instant later, the closed-off elevator is propelled up the western half of a 20-foot-wide, 170-foot-tall shaft (area K31a) to the sounds of turning gears and rattling chains. Magic sleep gas fills the compartment as it rises, and a creature trapped inside must succeed on a DC 15 Constitution saving throw or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) as though affected by a [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) spell.
+The middle 10-foot section of the hall is a cleverly hidden elevator compartment, open to the north and south so that it appears to be part of the passageway. When the trap is sprung, two steel portcullises drop from the ceiling at lightning speed to seal off the compartment, trapping within those creatures that triggered the trap. An instant later, the closed-off elevator is propelled up the western half of a 20-foot-wide, 170-foot-tall shaft (area K31a) to the sounds of turning gears and rattling chains. Magic sleep gas fills the compartment as it rises, and a creature trapped inside must succeed on a DC 15 Constitution saving throw or fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) as though affected by a [sleep](/03_Mechanics/CLI/spells/sleep-xphb.md) spell.
 
 At the same time the elevator rises, a 10-foot cube of granite suspended from heavy chains descends in the eastern half of the shaft, acting as a counterweight. The massive block lands gently at the bottom of the shaft, filling the previously open 10-foot-by-10-foot space adjacent to where the elevator stood. The block weighs thousands of tons and pulverizes anything in the space where it comes to rest.
 
 Once the elevator starts rising, its portcullises are locked in place and can't be lifted. The walls of the shaft are nearly flush with the elevator compartment; only a few inches of space exist between the portcullises and the shaft walls.
 
-All creatures trapped inside the elevator (including [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) ones) must roll initiative. The compartment takes 1 round to reach the top of the shaft, stopping just beneath area K47. Each creature inside has one turn to act before the compartment comes to a dead stop. Their initiative rolls determine the order in which the occupants act. Conscious party members can take whatever actions they like. They might search for a way out, wake sleeping party members, cast spells, or take other actions. [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) ones can do nothing.
+All creatures trapped inside the elevator (including [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) ones) must roll initiative. The compartment takes 1 round to reach the top of the shaft, stopping just beneath area K47. Each creature inside has one turn to act before the compartment comes to a dead stop. Their initiative rolls determine the order in which the occupants act. Conscious party members can take whatever actions they like. They might search for a way out, wake sleeping party members, cast spells, or take other actions. [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) ones can do nothing.
 
-A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. The trapdoor opens downward.
+A character who uses an action to search the ceiling of the elevator finds a secret trapdoor with a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. The trapdoor opens downward.
 
 Any creature on top of the elevator when it reaches the top of the shaft must make a successful DC 15 Dexterity saving throw to avoid being crushed against the ceiling of the shaft. The character takes 44 (`8d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. When the elevator comes to a stop, its portcullises retract.
 
@@ -1528,17 +1528,17 @@ The sound of the elevator moving can be heard throughout the castle. Characters 
 > This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.
 ^253
 
-The figure approaching is [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md), a [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D) and Strahd's faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
+The figure approaching is [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md), a [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D) and Strahd's faithful servant. He stands 4 feet, 9 inches tall but appears shorter because of his hunched posture. He has the Keen Hearing and Smell feature. The left side his face is covered with lizard scales, and he has the ears of a panther. His left foot looks like a duck's webbed foot, and his arms have patches of black dog fur.
 
-The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is a *hag eye* given to Cyrus by the [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) [Morgantha](/3-Mechanics/CLI/bestiary/npc/morgantha-cos.md) (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the "Monster Manual" for information about the *hag eye*.
+The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is a *hag eye* given to Cyrus by the [night hag](/03_Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) [Morgantha](/03_Mechanics/CLI/bestiary/npc/morgantha-cos.md) (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the "Monster Manual" for information about the *hag eye*.
 
-![Cyrus Belview](/3-Mechanics/CLI/adventures/curse-of-strahd/img/041-cos04-16.webp#center)
+![Cyrus Belview](/03_Mechanics/CLI/adventures/curse-of-strahd/img/041-cos04-16.webp#center)
 
 Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their "room in the tower" (area K49). If the characters aren't sure what room he is talking about, he offers to lead them there.
 
-If the characters follow Cyrus, he tells them to stay close to him as he leads them through the south door to area K61 and deliberately sets off the elevator trap there. Cyrus tries his best not to succumb to the sleeping gas as the elevator compartment climbs the shaft (area K31), and he has advantage on the saving throw. Assuming he's still conscious when the elevator compartment reaches the top of the shaft, Cyrus opens the trapdoor to area K47 and either leads the characters to area K49 or, if they're [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious), drags them there. After assuring characters who are conscious that "the master will be along shortly," Cyrus then makes his way back downstairs to the kitchen (area K65).
+If the characters follow Cyrus, he tells them to stay close to him as he leads them through the south door to area K61 and deliberately sets off the elevator trap there. Cyrus tries his best not to succumb to the sleeping gas as the elevator compartment climbs the shaft (area K31), and he has advantage on the saving throw. Assuming he's still conscious when the elevator compartment reaches the top of the shaft, Cyrus opens the trapdoor to area K47 and either leads the characters to area K49 or, if they're [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious), drags them there. After assuring characters who are conscious that "the master will be along shortly," Cyrus then makes his way back downstairs to the kitchen (area K65).
 
-If the characters don't go to their room, Cyrus shakes his head and returns to the work of preparing his dinner in area K65. If the characters take his key, he screams, "The master will not be pleased!" and begins to moan and slap his head, obviously upset. A successful DC 10 Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) check is enough to make him divulge the key's purpose, the location of the iron chest, and the chest's contents.
+If the characters don't go to their room, Cyrus shakes his head and returns to the work of preparing his dinner in area K65. If the characters take his key, he screams, "The master will not be pleased!" and begins to moan and slap his head, obviously upset. A successful DC 10 Charisma ([Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)) check is enough to make him divulge the key's purpose, the location of the iron chest, and the chest's contents.
 
 When he isn't being threatened, Cyrus giggles to himself from time to time for no clear reason. He also likes to tell poor jokes at the most inopportune moments.
 
@@ -1555,7 +1555,7 @@ The double doors at the west end of the hall are made of heavy planks banded wit
 > Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.
 ^255
 
-The rats are harmless. [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) treats them like pets.
+The rats are harmless. [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) treats them like pets.
 
 Characters who search the room find a crack at the southern end of the west wall. The crack is half an inch wide, 5 inches tall, and 12 inches deep; it leads to area K18.
 
@@ -1569,15 +1569,15 @@ All three of these casks are rotted and empty. The wine's name is Champagne du l
 
 ##### Eastern Casks
 
-Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of [yellow mold](/3-Mechanics/CLI/traps-hazards/yellow-mold-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A character who inspects the cask closely and succeeds on a DC 13 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
+Five of these casks are rotted and empty. The wine name burned on each is Red Dragon Crush. Lining the interior of the sixth one is a patch of [yellow mold](/03_Mechanics/CLI/traps-hazards/yellow-mold-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide"). A character who inspects the cask closely and succeeds on a DC 13 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check sees yellow mold in the cracks between the planks of the cask. If this cask is smashed open, the yellow mold releases a cloud of spores.
 
 ##### Southern Casks
 
-Two of these casks are rotted and empty. The wine name burned on each is Purple Grapemash No. 3. The middle one is home to a purplish [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) that bursts forth if the cask is broken open.
+Two of these casks are rotted and empty. The wine name burned on each is Purple Grapemash No. 3. The middle one is home to a purplish [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) that bursts forth if the cask is broken open.
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md).
+If your card reading reveals that a treasure is here, it is inside one of the empty casks along the north wall, hidden there by [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md).
 
 ### K64. Guards' Stair
 
@@ -1595,7 +1595,7 @@ The stairway starts at area K68 and goes up past area K13 to area K46.
 > A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements—some of which could easily double as implements of torture.
 ^25e
 
-If a character looks into the pot, three human [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If [Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
+If a character looks into the pot, three human [zombies](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md) rise up from the bubbling depths and attack. The zombies are slowly being boiled to death, and each has only 13 hit points remaining. If [Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) is present when the zombies attack, he grabs a heavy club and tries to beat them back into the pot. Cyrus explains that he just isn't the cook he used to be, and his meals tend to get out of hand these days.
 
 ### K66. Butler's Quarters
 
@@ -1604,13 +1604,13 @@ If a character looks into the pot, three human [zombies](/3-Mechanics/CLI/bestia
 > This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts Castle Ravenloft. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the floor. Broken swords, crumpled shields, and helmets lie in piles all about.
 ^260
 
-[Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) uses this room as his lair. There is nothing of value here.
+[Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) uses this room as his lair. There is nothing of value here.
 
 If Cyrus is with the party, the characters notice that he is caressing their equipment and chuckling to himself. Cyrus has been salvaging equipment from dead adventurers for years. He looks forward to adding to his collection after Strahd gets through with the characters.
 
 ### K67. Hall of Bones
 
-Once a mess hall for the castle guards, this room is now [desecrated ground](/3-Mechanics/CLI/traps-hazards/desecrated-ground.md) (see ""Wilderness Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
+Once a mess hall for the castle guards, this room is now [desecrated ground](/03_Mechanics/CLI/traps-hazards/desecrated-ground.md) (see ""Wilderness Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
 > [!readaloud] 
 > 
@@ -1621,7 +1621,7 @@ Once a mess hall for the castle guards, this room is now [desecrated ground](/3-
 > The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
 ^262
 
-[Cyrus Belview](/3-Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when Strahd hunted down and killed the remainder of his castle guards.
+[Cyrus Belview](/03_Mechanics/CLI/bestiary/npc/cyrus-belview-cos.md) (see area K62) created this enormous work of art out of the bones of dead servants and slain adventurers. It has taken him many years to complete it. The bones and skulls are held together with gray mortar and white paste. The dark stains on the floor are old bloodstains, caused here when Strahd hunted down and killed the remainder of his castle guards.
 
 The dragon skull mounted above the eastern doors belonged to Argynvost (see chapter 7), a silver dragon that was killed in the valley by Strahd and his army before the founding of Castle Ravenloft. The skull weighs 250 pounds.
 
@@ -1629,7 +1629,7 @@ The dragon skull mounted above the eastern doors belonged to Argynvost (see chap
 
 If your card reading reveals that a treasure is here, it is lying on the bone table.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is sitting comfortably at one end of the table, holding the skull of a long-dead foe.
 
 ### K68. Guards' Run
 
@@ -1647,7 +1647,7 @@ The archway leads to area K69. A door at the north end of the hall opens into ar
 > Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
 ^267
 
-The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) leap from the alcoves and attack.
+The yellow lichen is harmless. When one or more characters reach the midpoint of the hall, ten human [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md) leap from the alcoves and attack.
 
 ### K70. Kingsmen Hall
 
@@ -1671,7 +1671,7 @@ The yellow lichen is harmless. Beyond the archway to the west is area K70. The s
 
 #### Treasure
 
-Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+Three of the alcoves contain nothing of value. A loose flagstone in the southeast alcove covers a hidden cubbyhole in the floor, in which is hidden a moldy sack containing 150 ep. The coins have the profiled visage of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character who searches the alcove can find the loose flagstone with a successful DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check.
 
 ### K72. Chamberlain's Office
 
@@ -1680,9 +1680,9 @@ Three of the alcoves contain nothing of value. A loose flagstone in the southeas
 > This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls.
 ^26e
 
-If he has not been defeated elsewhere, [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) (see appendix D) is here, waiting for the characters to arrive so he can kill them.
+If he has not been defeated elsewhere, [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) (see appendix D) is here, waiting for the characters to arrive so he can kill them.
 
-A [shadow demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) also haunts this room. In the round after the characters engage [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md), the demon leaps out and attacks the nearest character from behind. The character doesn't notice the demon, unless the character's passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score meets or exceeds the demon's Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check. Both [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) and the shadow demon fight until slain.
+A [shadow demon](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) also haunts this room. In the round after the characters engage [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md), the demon leaps out and attacks the nearest character from behind. The character doesn't notice the demon, unless the character's passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score meets or exceeds the demon's Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) check. Both [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) and the shadow demon fight until slain.
 
 A secret door is set into the north end of the west wall. It can be pulled open to reveal a dusty, web-choked staircase of ancient, worn stone (area K79) that descends into darkness.
 
@@ -1699,7 +1699,7 @@ The following boxed text assumes that the characters arrive by way of the stairc
 > The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door.
 ^271
 
-![Map: Traps in Area K73](/3-Mechanics/CLI/adventures/curse-of-strahd/img/042-cos04-17.webp#center)
+![Map: Traps in Area K73](/03_Mechanics/CLI/adventures/curse-of-strahd/img/042-cos04-17.webp#center)
 
 The water is 3 feet deep in the hallway and opaque. The steps on both sides of the hallway descend another 2 feet before ending at the iron doors to the north and south.
 
@@ -1711,7 +1711,7 @@ Characters who fall victim to the teleport traps are transported to dungeon cell
 
 ### K74. North Dungeon
 
-The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check to open.
+The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to open.
 
 > [!readaloud] 
 > 
@@ -1732,7 +1732,7 @@ This cell is linked to a teleport trap in area K73. Characters who enter the cel
 
 ##### Treasure
 
-Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character can scoop up one hundred coins every minute.
+Scattered across the floor of this cell are 3,000 ep. The coins have the profiled visage of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K74b. Forgotten Treasure
 
@@ -1745,7 +1745,7 @@ Characters who enter the cell can feel coins shifting beneath their feet.
 
 ##### Treasure
 
-Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character can scoop up one hundred coins every minute.
+Scattered across the floor of this cell are 300 pp. The coins have the profiled visage of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K74c. Rotting Corpse
 
@@ -1758,7 +1758,7 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
-A search of the corpse yields a sheathed [longsword](/3-Mechanics/CLI/items/longsword-xphb.md) and two belt pouches, one containing five gemstones (50 gp each) and the other containing a [potion of heroism](/3-Mechanics/CLI/items/potion-of-heroism-xdmg.md).
+A search of the corpse yields a sheathed [longsword](/03_Mechanics/CLI/items/longsword-xphb.md) and two belt pouches, one containing five gemstones (50 gp each) and the other containing a [potion of heroism](/03_Mechanics/CLI/items/potion-of-heroism-xdmg.md).
 
 #### K74d. Empty Cell
 
@@ -1770,7 +1770,7 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Secret Door
 
-A secret door is 5 feet up from the floor on the north wall of this cell. The secret door can't be opened from this side without the use of a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. Behind the secret door is a chute of polished black marble that slants upward (area K82).
+A secret door is 5 feet up from the floor on the north wall of this cell. The secret door can't be opened from this side without the use of a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. Behind the secret door is a chute of polished black marble that slants upward (area K82).
 
 #### K74f. Empty Cell
 
@@ -1778,7 +1778,7 @@ This cell contains nothing of interest.
 
 #### K74g. Gray Ooze
 
-Clinging to the floor of this cell is a [gray ooze](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) that attacks anything that enters. While underwater, the ooze is effectively [invisible](/3-Mechanics/CLI/conditions.md#Invisible).
+Clinging to the floor of this cell is a [gray ooze](/03_Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md) that attacks anything that enters. While underwater, the ooze is effectively [invisible](/03_Mechanics/CLI/conditions.md#Invisible).
 
 #### K74h. Lost Sword
 
@@ -1791,17 +1791,17 @@ This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
-The source of the underwater glow is a sentient lawful good [+1 shortsword](/3-Mechanics/CLI/items/1-weapon-xdmg.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
+The source of the underwater glow is a sentient lawful good [+1 shortsword](/03_Mechanics/CLI/items/1-weapon-xdmg.md) (Intelligence 11, Wisdom 13, Charisma 13). It has hearing and normal vision out to a range of 120 feet. It communicates by transmitting emotion to the creature carrying or wielding it.
 
 The sword's purpose is to fight evil. The sword has the following additional properties:
 
 - The sword continually sheds bright light in a 15-foot radius and dim light for an additional 15 feet. Only by destroying the sword can this light be extinguished.  
 - A lawful good creature can attune itself to the sword in 1 minute.  
-- While attuned to the weapon, the sword's wielder can use the sword to cast the [crusader's mantle](/3-Mechanics/CLI/spells/crusaders-mantle-xphb.md) spell. Once used, this property of the sword can't be used again until the next dawn.  
+- While attuned to the weapon, the sword's wielder can use the sword to cast the [crusader's mantle](/03_Mechanics/CLI/spells/crusaders-mantle-xphb.md) spell. Once used, this property of the sword can't be used again until the next dawn.  
 
 ### K75. South Dungeon
 
-The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check to open.
+The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check to open.
 
 > [!readaloud] 
 > 
@@ -1817,9 +1817,9 @@ The corridor is 40 feet long. Branching off it are eight cells, four along each 
 > A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
 ^287
 
-The man is [Emil Toranescu](/3-Mechanics/CLI/bestiary/npc/emil-toranescu-cos.md), a [werewolf](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
+The man is [Emil Toranescu](/03_Mechanics/CLI/bestiary/npc/emil-toranescu-cos.md), a [werewolf](/03_Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
 
-![Emil Toranescu](/3-Mechanics/CLI/adventures/curse-of-strahd/img/043-cos04-18.webp#center)
+![Emil Toranescu](/03_Mechanics/CLI/adventures/curse-of-strahd/img/043-cos04-18.webp#center)
 
 In truth, Strahd locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to Strahd, Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the characters only until an opportunity to leave presents itself.
 
@@ -1829,7 +1829,7 @@ Characters who enter the cell can feel coins shifting beneath their feet.
 
 ##### Treasure
 
-Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character can scoop up one hundred coins every minute.
+Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K75c. Empty Cell
 
@@ -1837,7 +1837,7 @@ This cell contains nothing of interest.
 
 #### K75d. Dead Dwarf
 
-This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in rusted plate armor. The dwarf's nonmagical but usable [battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md) lies nearby.
+This cell is linked to a teleport trap in area K73. The skeletal remains of a dwarf fighter lie at the bottom of the cell, enclosed in rusted plate armor. The dwarf's nonmagical but usable [battleaxe](/03_Mechanics/CLI/items/battleaxe-xphb.md) lies nearby.
 
 #### K75e. Empty Cell
 
@@ -1881,9 +1881,9 @@ If the characters approach the "dark, low shapes" in the water, read:
 > The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. The skeletons of their last victims lie within them, their jaws seemingly frozen open in silent screams.
 ^294
 
-As soon as one or more characters move more than 10 feet into the room, six [Strahd zombies](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
+As soon as one or more characters move more than 10 feet into the room, six [Strahd zombies](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) rise slowly out of the water, their slime-gray arms clawing upward through the water as they attack.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/044-cos04-19.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/044-cos04-19.webp#center)
 
 ### K77. Observation Balcony
 
@@ -1905,7 +1905,7 @@ The room continues behind the curtain an additional 10 feet to a wall that has a
 > Two nine-foot-tall iron statues of knights on horseback, poised to charge with swords drawn, stand in deep alcoves facing each other. The brazier sits between them.
 ^298
 
-The two statues are [iron golems](/3-Mechanics/CLI/bestiary/construct/iron-golem-xmm.md). Each horse and rider is considered one creature, and they are inseparable. The golems will not leave the room under any circumstances, and they attack only under specific conditions (see the "Development" section that follows).
+The two statues are [iron golems](/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm.md). Each horse and rider is considered one creature, and they are inseparable. The golems will not leave the room under any circumstances, and they attack only under specific conditions (see the "Development" section that follows).
 
 The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the hourglass is reduced to 0 hit points, its glass shatters, causing the sand within it to fall to the floor. The magic writing on the base of the hourglass reads as follows:
 
@@ -1928,7 +1928,7 @@ The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, a
 > *Yellow to the master's tomb*
 ^299
 
-The brazier's flame is magical and sheds no warmth. A successful casting of [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished if the brazier is destroyed. The brazier has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
+The brazier's flame is magical and sheds no warmth. A successful casting of [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) extinguishes the flame for 1 hour. The fire is permanently extinguished if the brazier is destroyed. The brazier has AC 17, 25 hit points, immunity to poison and psychic damage, and resistance to all other damage.
 
 The stones set into the brazier's rim are colored red, orange, yellow, green, blue, indigo, and violet, respectively. Tossing one into the brazier causes its flame to change from white to the color of the stone, and the sand begins falling through the hourglass. Any creature that touches the colored flame is teleported to a location within Strahd's domain, as determined by the color:
 
@@ -1947,7 +1947,7 @@ After 5 rounds, the sand runs out, and the color of the flame returns to white. 
 
 #### Development
 
-If the brazier, the hourglass, or either [golem](/3-Mechanics/CLI/bestiary/construct/iron-golem-xmm.md) is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
+If the brazier, the hourglass, or either [golem](/03_Mechanics/CLI/bestiary/construct/iron-golem-xmm.md) is attacked, the doors of the room magically slam shut and lock (unless they are being held or wedged open), and the golems animate and attack. On the first round, the golems fill the room with their poison breath, which issues from the horses' mouths. (Each creature in the room must make two saving throws, one for each breath weapon.) On subsequent rounds, each golem makes one attack with its sword and one slam attack with its hoof. When there are no creatures left to fight in the room, the golems return to their alcoves, and the doors unlock. Forcing open a locked door requires a successful DC 25 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. Each door has AC 15, 25 hit points, and immunity to poison and psychic damage.
 
 ### K79. Western Stair
 
@@ -1960,9 +1960,9 @@ The stairs rise at a 45-degree angle for a distance of 40 feet horizontally, lea
 
 #### Landing
 
-Inscribed on the landing, hidden under years of dust, is a [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md). If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check.
+Inscribed on the landing, hidden under years of dust, is a [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md). If the characters brush away the dust, someone can spot the glyph with a successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check.
 
-The glyph triggers the first time a living creature passes over it. Triggering it activates a [major image](/3-Mechanics/CLI/spells/major-image-xphb.md) spell, conjuring an illusion of [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
+The glyph triggers the first time a living creature passes over it. Triggering it activates a [major image](/03_Mechanics/CLI/spells/major-image-xphb.md) spell, conjuring an illusion of [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
 
 > [!readaloud] 
 > 
@@ -1998,7 +1998,7 @@ The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, co
 
 Characters who have knowledge of stonecutting can tell that this passage is a relatively new construction compared to other areas of Ravenloft. The tunnel is 120 feet long, with a stone door at its eastern end.
 
-Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
+Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Characters can't spot the trapdoor passively, but an active search accompanied by a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check locates it. Unless the trapdoor is fastened shut with an iron spike or by some other means, it opens when 100 pounds of weight or more is placed on it. When the trapdoor opens, everyone who is standing on it slides into the marble chute below (area K82). The trapdoor then resets.
 
 ### K82. Marble Slide
 
@@ -2056,13 +2056,13 @@ Each crypt houses the remains of the person or persons whose epitaph is inscribe
 
 Unless noted otherwise, each crypt contains a 3-foot-by-6-foot rectangular bier of marble, 3 feet high, with a skeleton draped in rags lying atop it.
 
-The catacombs are home to tens of thousands of bats. The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft (area K18a) to hunt at night. They will not attack intruders unless they are provoked or are specifically commanded to do so by Strahd. If one or more bats within a 10-foot square on the map are attacked or caught in the area of a harmful spell, `2d4` [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) form in that area and attack. No more swarms can be formed in that square until the next dawn, when more bats arrive to replenish those that were killed.
+The catacombs are home to tens of thousands of bats. The bats hang here during daytime hours and fly out in the evening through the high tower's central shaft (area K18a) to hunt at night. They will not attack intruders unless they are provoked or are specifically commanded to do so by Strahd. If one or more bats within a 10-foot square on the map are attacked or caught in the area of a harmful spell, `2d4` [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) form in that area and attack. No more swarms can be formed in that square until the next dawn, when more bats arrive to replenish those that were killed.
 
 #### Teleport Traps
 
-Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived except with a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell, which reveals an aura of conjuration magic in the trapped areas. Although the traps can't be disarmed, a successful casting of [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) on a trap suppresses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).
+Invisible teleport traps are located between crypts 37 and 38, between crypt 37 and the wall south of it, and between crypt 38 and the wall south of it. The traps can't be perceived except with a [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell, which reveals an aura of conjuration magic in the trapped areas. Although the traps can't be disarmed, a successful casting of [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) on a trap suppresses its magic for 1 minute, allowing characters to move safely through its area. A trap is also suppressed while wholly or partly in the area of an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).
 
-These teleport traps form a protective ring around the entrance to Strahd's tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) in crypt 14. The wight materializes in the creature's previous location and attacks any living creature it sees.
+These teleport traps form a protective ring around the entrance to Strahd's tomb (area K86). Any creature that enters one of these 10-foot-square spaces is instantly teleported away, switching places with one of the [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) in crypt 14. The wight materializes in the creature's previous location and attacks any living creature it sees.
 
 #### Crypt 1
 
@@ -2103,7 +2103,7 @@ If the characters open the door to this crypt, read:
 > The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.
 ^2b4
 
-Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
+Prince Ariel was a terrible man who longed to fly. He attached artificial wings to a harness and empowered the device with magic, but the apparatus still couldn't bear his weight, and he plunged from the Pillarstone of Ravenloft to his death. His evil [ghost](/03_Mechanics/CLI/bestiary/undead/ghost-xmm.md) attacks the characters on sight. If Ariel succeeds in possessing a character, his host climbs the high tower (area K18) until it reaches the peak (area K59), then hurls itself down the tower's central shaft (area K18a), screaming, "I can fly!" the whole way down.
 
 #### Crypt 5
 
@@ -2142,7 +2142,7 @@ If the characters disturb Saint Markovia's remains, add:
 
 ##### Treasure
 
-A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on [Saint Markovia's thighbone](/3-Mechanics/CLI/items/saint-markovias-thighbone-cos.md).
+A [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the thighbone radiates an aura of evocation magic. See appendix C for more information on [Saint Markovia's thighbone](/03_Mechanics/CLI/items/saint-markovias-thighbone-cos.md).
 
 #### Crypt 7
 
@@ -2155,7 +2155,7 @@ The epitaph on the door reads "Endorovich (Endorovich the Terrible): What the bl
 
 Endorovich was a ruthless soldier and self-aggrandizing noble who loved a woman named Marya, but she loved another man. As Marya and her lover were dining, Endorovich put poison into the man's wineglass. The glasses were mixed up, and Marya drank the poison instead. The lover was hanged for murdering Marya and buried at the Ivlis River crossroads (chapter 2, area F). Endorovich never got over his guilt and, out of madness, killed many in his lifetime.
 
-Endorovich's spirit is trapped inside one of the gargoyles. If anyone disturbs the bones on the slab, one of the [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) awakens and attacks. If the gargoyle is reduced to 0 hit points, Endorovich's spirit moves to the second gargoyle, which then awakens and attacks. Both gargoyles have maximum hit points (77). Once the second [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) is destroyed, Endorovich's spirit is laid to rest.
+Endorovich's spirit is trapped inside one of the gargoyles. If anyone disturbs the bones on the slab, one of the [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) awakens and attacks. If the gargoyle is reduced to 0 hit points, Endorovich's spirit moves to the second gargoyle, which then awakens and attacks. Both gargoyles have maximum hit points (77). Once the second [gargoyle](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) is destroyed, Endorovich's spirit is laid to rest.
 
 #### Fortunes of Ravenloft
 
@@ -2181,11 +2181,11 @@ The quilt is magically preserved but not valuable.
 > A small skeleton wearing the remains of a fool's costume lies atop a stumpy marble slab in the center of the crypt.
 ^2c2
 
-If [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see area K59) is with the party, it refuses to enter the crypt. The slab in this crypt is 4 feet long (instead of the usual 6 feet long). The bones atop the slab belong to the fool servant of Duchess Dorfniya Dilisnya (see crypt 8).
+If [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) (see area K59) is with the party, it refuses to enter the crypt. The slab in this crypt is 4 feet long (instead of the usual 6 feet long). The bones atop the slab belong to the fool servant of Duchess Dorfniya Dilisnya (see crypt 8).
 
 ##### Treasure
 
-If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full [deck of illusions](/3-Mechanics/CLI/items/deck-of-illusions-xdmg.md).
+If the characters explore this crypt after summoning the ghost of Pidlwick in area K36, they find a small, flat wooden box on the marble slab next to Pidlwick's bones. The box contains a full [deck of illusions](/03_Mechanics/CLI/items/deck-of-illusions-xdmg.md).
 
 #### Crypt 10
 
@@ -2235,7 +2235,7 @@ The message refers to a gravestone in the Abbey of Saint Markovia (chapter 8, ar
 
 The helm has three evenly spaced visors crafted to look like human faces—one sad, one happy, and one angry. Only the angry visage is visible from the crypt's doorway. King Troisky wore this three-faced helm in battle, earning him the moniker of Three-Faced King. The helm is nonmagical and weighs 10 pounds.
 
-The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
+The slab upon which the helm rests is weight-sensitive. If the helm is removed from the slab without 10 pounds of weight immediately being added, poisonous gas pours out of the slab's hollow interior and fills the crypt. A character who searches the slab for traps and succeeds on a DC 12 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check spots tiny holes bored into the slab's marble base. It's from these holes that the gas spews forth.
 
 A creature in the crypt when the gas is released must make a DC 14 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -2248,7 +2248,7 @@ A creature in the crypt when the gas is released must make a DC 14 Constitution 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.
 ^2ce
 
-The stoppered drinking horn is a water-resistant [powder horn](/3-Mechanics/CLI/items/gunpowder-powder-horn-xdmg.md) loaded with gunpowder, and the "weird-looking scepter" is a [musket](/3-Mechanics/CLI/items/musket-xphb.md). The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, ""Dungeon Master's Workshop"," of the "Dungeon Master's Guide".
+The stoppered drinking horn is a water-resistant [powder horn](/03_Mechanics/CLI/items/gunpowder-powder-horn-xdmg.md) loaded with gunpowder, and the "weird-looking scepter" is a [musket](/03_Mechanics/CLI/items/musket-xphb.md). The fat pouch contains 20 silver marbles (silvered bullets for the musket). For more information on firearms and explosives, see chapter 9, ""Dungeon Master's Workshop"," of the "Dungeon Master's Guide".
 
 ##### Glider
 
@@ -2256,7 +2256,7 @@ Any Small or Medium humanoid can wear the dragon-wing glider. (It takes 1 minute
 
 If its wearer is light enough (accounting for gear), the apparatus can be used to glide, but only in wide-open spaces where there is room to maneuver. The wearer can become airborne by stepping or jumping off a high place, or by performing a high jump to take off from level ground. While aloft, the wearer gains a flying speed equal to its walking speed, with the following limitations: except in a significant updraft, the wearer can't use the glider to gain altitude, and the glider descends 1 foot for every 10 feet of horizontal distance covered. At the end of the flight, the wearer lands on its feet and the glider is intact. If the wearer tries to accelerate the rate of descent, the glider breaks, and the wearer falls.
 
-The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it to break and become inoperable. A [mending](/3-Mechanics/CLI/spells/mending-xphb.md) cantrip can repair the damage, provided all the broken pieces are present.
+The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it to break and become inoperable. A [mending](/03_Mechanics/CLI/spells/mending-xphb.md) cantrip can repair the damage, provided all the broken pieces are present.
 
 #### Crypt 14
 
@@ -2269,7 +2269,7 @@ If the characters open the door to this crypt, read:
 > A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.
 ^2d1
 
-Characters who have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, however, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
+Characters who have [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) or a sufficient light source can see that the shaft descends 40 feet to some kind of vault deep in the Pillarstone of Ravenloft. Stones protrude from the shaft at regular intervals, offering handholds and footholds. The stones are slippery, however, so a character who tries to scale the wall without the aid of magic or the use of a climber's kit must make a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
 
 ##### Vault
 
@@ -2287,11 +2287,11 @@ If a character teleports into a coffin from one of the teleport traps that prote
 > A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a confined space choked with dust.
 ^2d4
 
-This vault contains fifteen [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) (one per coffin), minus any that have been teleported away (see "Teleport Traps" at the start of this section). Lifting a coffin's lid requires an action and a successful DC 15 Strength check.
+This vault contains fifteen [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) (one per coffin), minus any that have been teleported away (see "Teleport Traps" at the start of this section). Lifting a coffin's lid requires an action and a successful DC 15 Strength check.
 
 Each wight remains inactive until it is teleported away or until its coffin is opened, whereupon it attacks.
 
-The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming `2d6` animated human [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md). These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
+The bones and rusty swords cover the floor to a depth of 6 inches, and are the remains of servants who swore to avenge Stahbal Indi-Bhak's family. Whenever a wight is killed in this vault, some of the bones knit together, forming `2d6` animated human [skeletons](/03_Mechanics/CLI/bestiary/undead/skeleton-xmm.md). These skeletons attack intruders on sight but have no ranged attacks. There are enough bones and swords in the room for one hundred skeletons to form in this manner.
 
 #### Crypt 15
 
@@ -2306,9 +2306,9 @@ Khazan was a powerful archmage who unlocked the secrets of lichdom, then later t
 
 ##### Treasure
 
-The skull's [black opal eye-gems](/3-Mechanics/CLI/items/black-opal-xdmg.md) are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
+The skull's [black opal eye-gems](/03_Mechanics/CLI/items/black-opal-xdmg.md) are worth 1,000 gp apiece. The skull also has eight amber teeth worth 100 gp each.
 
-Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a [staff of power](/3-Mechanics/CLI/items/staff-of-power-xdmg.md) materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the [staff of power](/3-Mechanics/CLI/items/staff-of-power-xdmg.md) can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
+Any creature that stands inside the crypt and boldly speaks the name "Khazan" causes the Pillarstone of Ravenloft to tremble as a [staff of power](/03_Mechanics/CLI/items/staff-of-power-xdmg.md) materializes above the marble slab and hovers in place. The first creature to grab hold of the staff must make a DC 17 Constitution saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. Afterward, the [staff of power](/03_Mechanics/CLI/items/staff-of-power-xdmg.md) can be held and used normally. If no one grabs the staff within 1 round of its appearance, it vanishes, never to return.
 
 #### Crypt 16
 
@@ -2334,7 +2334,7 @@ The coins are made of clay painted gold and are worthless. The funeral barge, wh
 
 #### Crypt 18
 
-The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md): Wife."
+The stone door of this crypt has been carefully laid to one side. Through the swirly mists of the perpetual fog, freshly engraved letters spell out the words "[Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md): Wife."
 
 The crypt is empty and has been swept clean. This is where Strahd intends to keep Ireena once he turns her into a vampire spawn.
 
@@ -2362,7 +2362,7 @@ This crypt contains nothing of interest.
 > The woman rises, the shroud of webs clinging to her in a ghastly fashion.
 ^2e0
 
-This [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) is an old wife of Strahd's. Once she realizes that the characters aren't her husband, Sasha tears away her web shroud like an unloved wedding dress and attacks.
+This [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) is an old wife of Strahd's. Once she realizes that the characters aren't her husband, Sasha tears away her web shroud like an unloved wedding dress and attacks.
 
 #### Crypt 21
 
@@ -2375,11 +2375,11 @@ The creature inside this crypt attacks as soon as the door is opened.
 > From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
 ^2e2
 
-The spectral elf is a [banshee](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
+The spectral elf is a [banshee](/03_Mechanics/CLI/bestiary/undead/banshee-xmm.md) that attacks the characters on sight, using her wail immediately. Once awakened, the banshee is free to roam Castle Ravenloft, but she can't travel more than 5 miles from this crypt.
 
-In life, [Patrina Velikovna](/3-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md) was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
+In life, [Patrina Velikovna](/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md) was a dusk elf who, having learned a great deal about the black arts, was nearly a match for Strahd's powers. She felt a great bond with him and asked to solemnize that bond in a dark marriage. Drawn to her knowledge and power, Strahd consented, but before he could drain all life from Patrina, her own people stoned her to death in an act of mercy to thwart Strahd's plans. Strahd demanded, and got, Patrina's body. She then became the banshee trapped here.
 
-Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit can't rest, however, until she is formally wed to Strahd; the banshee re-forms in her crypt 24 hours later. Casting a [hallow](/3-Mechanics/CLI/spells/hallow-xphb.md) spell on the crypt prevents the banshee from returning for as long as the spell lasts.
+Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit can't rest, however, until she is formally wed to Strahd; the banshee re-forms in her crypt 24 hours later. Casting a [hallow](/03_Mechanics/CLI/spells/hallow-xphb.md) spell on the crypt prevents the banshee from returning for as long as the spell lasts.
 
 ##### Treasure
 
@@ -2390,11 +2390,11 @@ Read the following text when the characters investigate Patrina's crypt:
 > In the center of the crypt, a skeleton draped in rags lies atop a marble slab, surrounded by thousands of coins.
 ^2e4
 
-Patrina's crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have Strahd's profiled visage stamped on them. Buried under the coins is Patrina's spellbook, which has carved wooden covers. It contains all the spells listed for the [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) in the "Monster Manual".
+Patrina's crypt contains 250 pp, 1,100 gp, 2,300 ep, 5,200 sp, and 8,000 cp. The coins are of a mixed origin. The platinum and electrum coins have Strahd's profiled visage stamped on them. Buried under the coins is Patrina's spellbook, which has carved wooden covers. It contains all the spells listed for the [archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) in the "Monster Manual".
 
 ##### Development
 
-If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Special Events" section in chapter 13), Patrina (NE female dusk elf) returns as an [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) with no spells prepared. If the characters have her spellbook, she kindly asks them to give it back to her so that she can prepare her long-forgotten spells and help destroy Strahd (a lie). If the characters oblige, she repays their kindness by learning as much about them as possible before pursuing her own goals.
+If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Special Events" section in chapter 13), Patrina (NE female dusk elf) returns as an [archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) with no spells prepared. If the characters have her spellbook, she kindly asks them to give it back to her so that she can prepare her long-forgotten spells and help destroy Strahd (a lie). If the characters oblige, she repays their kindness by learning as much about them as possible before pursuing her own goals.
 
 #### Crypt 22
 
@@ -2435,7 +2435,7 @@ This crypt contains nothing of interest.
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 ^2ed
 
-A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well informed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
+A [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell cast here reveals that Stefan's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) spell had been cast on it. This property recharges each day at dawn. In life, Stefan was neither observant nor well informed. If the skull is questioned about Strahd or Castle Ravenloft, all the information it provides is untrue.
 
 #### Crypt 26
 
@@ -2446,7 +2446,7 @@ A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell cast here r
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 ^2ef
 
-A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
+A [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
 
 #### Crypt 27
 
@@ -2455,7 +2455,7 @@ A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell cast here r
 > This crypt is missing its door.
 ^2f1
 
-Three [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) infest this otherwise empty crypt. The spiders make no noise and leap out to attack anyone who moves in front of the crypt's gaping doorway.
+Three [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) infest this otherwise empty crypt. The spiders make no noise and leap out to attack anyone who moves in front of the crypt's gaping doorway.
 
 #### Crypt 28
 
@@ -2481,13 +2481,13 @@ Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 
 > Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold.
 ^2f6
 
-A patch of [brown mold](/3-Mechanics/CLI/traps-hazards/brown-mold-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide") fills the crypt. Characters within 5 feet of the crypt's open doorway are affected.
+A patch of [brown mold](/03_Mechanics/CLI/traps-hazards/brown-mold-xdmg.md) (see ""Dungeon Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide") fills the crypt. Characters within 5 feet of the crypt's open doorway are affected.
 
 If the brown mold is killed off, characters can dig through the moldy crust to find the bones of Baron Drüf lying atop a marble slab.
 
 ##### Treasure
 
-Hidden under the brown mold next to the baron's bones is a [luck blade](/3-Mechanics/CLI/items/luck-blade-xdmg.md) with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
+Hidden under the brown mold next to the baron's bones is a [luck blade](/03_Mechanics/CLI/items/luck-blade-xdmg.md) with one wish remaining. If a creature uses the wish to try to escape from Barovia, the spell fails. If a creature uses the sword to wish for Strahd's destruction, the wish doesn't destroy Strahd but rather teleports him to within 5 feet of the sword.
 
 #### Crypt 30
 
@@ -2513,11 +2513,11 @@ The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750
 > This crypt is empty. Its walls are painted to depict mountains of gold coins.
 ^2fc
 
-The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the middle, east to west, and its doors are spring-loaded. After a victim or victims fall into the pit, its doors snap shut. (See ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide" the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren't [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).
+The floor of the crypt is actually the cover of a 30-foot-deep spiked pit. The cover opens if 100 pounds of weight or more are placed on it. It splits down the middle, east to west, and its doors are spring-loaded. After a victim or victims fall into the pit, its doors snap shut. (See ""Sample Traps"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide" the rules on locking pits and spiked pits.) The spikes at the bottom of the pit are made of iron but aren't [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).
 
 ##### Treasure
 
-A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [crowbar](/3-Mechanics/CLI/items/crowbar-xphb.md) lie nearby. Tied to the corpse's leather belt is a [50-foot coil of hempen rope](/3-Mechanics/CLI/items/rope-xphb.md), a [dagger](/3-Mechanics/CLI/items/dagger-xphb.md) in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [magic circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md).
+A human skeleton (the remains of a dead adventurer) wrapped in bits of studded leather armor lies amid the spikes at the bottom of the pit. A shattered lantern and a rusty [crowbar](/03_Mechanics/CLI/items/crowbar-xphb.md) lie nearby. Tied to the corpse's leather belt is a [50-foot coil of hempen rope](/03_Mechanics/CLI/items/rope-xphb.md), a [dagger](/03_Mechanics/CLI/items/dagger-xphb.md) in a worn scabbard, a pouch containing 25 pp, and a stoppered wooden tube containing a [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [magic circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md).
 
 #### Fortunes of Ravenloft
 
@@ -2532,7 +2532,7 @@ The door to this crypt has no name or epitaph on it.
 > This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: Pass Not These Portals Ye Foolish Mortals
 ^300
 
-A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that both alcoves radiate strong auras of conjuration magic.
+A [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that both alcoves radiate strong auras of conjuration magic.
 
 Creatures that enter the eastern alcove of this crypt are teleported to the eastern alcove of Strahd's tomb (area K86). Stepping into the western alcove of this crypt has no effect, but any creature that teleports from the western alcove of area K86 appears here.
 
@@ -2547,7 +2547,7 @@ Creatures that enter the eastern alcove of this crypt are teleported to the east
 
 Neither Sir Klutz's armor nor his longsword are magical or valuable.
 
-If the sword is pulled from the armor, Sir Klutz appears as a [phantom warrior](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before Strahd became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
+If the sword is pulled from the armor, Sir Klutz appears as a [phantom warrior](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) (see appendix D), thanks whoever pulled his weapon free, and agrees to fight alongside that character for the next seven days. Sir Klutz perished years before Strahd became a vampire, so the phantom warrior knows nothing of Strahd's downfall or the curse afflicting Barovia.
 
 #### Crypt 34
 
@@ -2560,7 +2560,7 @@ If the sword is pulled from the armor, Sir Klutz appears as a [phantom warrior](
 
 King Dostron was an ancient ruler of this land, long before the arrival of Strahd. He claimed descent from a duke of the Nine Hells, and his deeds did justice to this ancestry. His sarcophagus is made of beaten lead and encased in gold (see "Treasure" below). Its lid can be pried open with a crowbar or similar tool, revealing nothing but dust within. The stuffed owlbear is a late addition to the crypt's decor—a gift given to Strahd that wound up here. It looks almost alive but is harmless.
 
-An [invisible](/3-Mechanics/CLI/conditions.md#Invisible) [imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) is perched atop the owlbear. If someone tries to open the sarcophagus, the imp says in Common, "I wouldn't do that if I were you!" The imp is magically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
+An [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [imp](/03_Mechanics/CLI/bestiary/fiend/imp-xmm.md) is perched atop the owlbear. If someone tries to open the sarcophagus, the imp says in Common, "I wouldn't do that if I were you!" The imp is magically bound to King Dostron's remains and must watch over them for several more centuries before its contract are fulfilled. It isn't obligated to protect the contents of the crypt (so it will not attack), and it delights in telling lies and engaging in mischief. For instance, it warns the characters that the sarcophagus is trapped, and that opening the lid will free a pit fiend bound within.
 
 ##### Treasure
 
@@ -2575,11 +2575,11 @@ Characters who take the time to pry the gold from the sarcophagus can amass 500 
 > A charnel stench fills this empty crypt.
 ^307
 
-The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md). A permanent [silence](/3-Mechanics/CLI/spells/silence-xphb.md) spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
+The floor here is an illusion that hides a 20-foot-deep pit. The sides of the pit are polished smooth; a creature without a climbing speed can't move along them without the aid of magic or a climber's kit. At the bottom of the pit are six starving [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md). A permanent [silence](/03_Mechanics/CLI/spells/silence-xphb.md) spell suppresses sound in the pit. The silence can be dispelled, as can the illusory floor (DC 14 for both).
 
 ##### Treasure
 
-Sir Jarnwald was "entombed" here, so far as he was pushed into the crypt and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing, a handful of teeth, and a [signet ring](/3-Mechanics/CLI/items/signet-ring.md) that bears a stylized "J" (worth 25 gp).
+Sir Jarnwald was "entombed" here, so far as he was pushed into the crypt and devoured by the ghouls. What remains of him lies scattered on the pit floor: a few scraps of clothing, a handful of teeth, and a [signet ring](/03_Mechanics/CLI/items/signet-ring.md) that bears a stylized "J" (worth 25 gp).
 
 #### Crypt 36
 
@@ -2607,7 +2607,7 @@ Inspection of the marble slab reveals a shallow, concave recess at one end. If t
 
 ##### Treasure
 
-The compartment under the slab holds a small, black leather case containing three [spell scrolls](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), and [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)).
+The compartment under the slab holds a small, black leather case containing three [spell scrolls](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) ([cone of cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md), [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md), and [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)).
 
 #### Fortunes of Ravenloft
 
@@ -2624,14 +2624,14 @@ When the characters open the door to this crypt, read:
 > The stench of brimstone and burnt fur spills from this crypt. In its darkness are three pairs of glowing red eyes.
 ^310
 
-Three [hell hounds](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) lunge forth and attack, fighting to the death. In the round after they attack, General Grislek's [wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
+Three [hell hounds](/03_Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) lunge forth and attack, fighting to the death. In the round after they attack, General Grislek's [wraith](/03_Mechanics/CLI/bestiary/undead/wraith-xmm.md) emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
 
 > [!readaloud] 
 > 
 > Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.
 ^311
 
-A [mending](/3-Mechanics/CLI/spells/mending-xphb.md) cantrip can repair the spear, which is broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
+A [mending](/03_Mechanics/CLI/spells/mending-xphb.md) cantrip can repair the spear, which is broken into three pieces of roughly equal length. If repaired, it can be wielded as a silvered, nonmagical spear.
 
 #### Fortunes of Ravenloft
 
@@ -2648,7 +2648,7 @@ The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall
 > Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack.
 ^314
 
-The [nightmare](/3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md), [Beucephalus](/3-Mechanics/CLI/bestiary/npc/beucephalus-cos.md), is Strahd's steed. It has 104 hit points. If the characters slay it, Strahd hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
+The [nightmare](/03_Mechanics/CLI/bestiary/fiend/nightmare-xmm.md), [Beucephalus](/03_Mechanics/CLI/bestiary/npc/beucephalus-cos.md), is Strahd's steed. It has 104 hit points. If the characters slay it, Strahd hunts them down mercilessly. When the steed wants to leave the castle, it flies up the central shaft of the high tower (area K18a), exiting through the gash in the tower roof (area K59).
 
 #### Crypt 40
 
@@ -2678,13 +2678,13 @@ The coffin opens easily to the touch of a lawful good creature. Otherwise, openi
 
 #### Treasure
 
-Sergei's embalmed body is clothed in shining [+2 plate armor](/3-Mechanics/CLI/items/2-armor-xdmg.md).
+Sergei's embalmed body is clothed in shining [+2 plate armor](/03_Mechanics/CLI/items/2-armor-xdmg.md).
 
 #### Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it is inside the coffin next to Sergei's body.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is lying across Sergei's coffin, weeping.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is lying across Sergei's coffin, weeping.
 
 ### K86. Strahd's Tomb
 
@@ -2697,9 +2697,9 @@ A heavy portcullis stands closed in the archway leading to this tomb. Lifting it
 
 Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
 
-Lying under the earth near the east wall of the tomb are three [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) brides dressed in soiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who approaches Strahd's coffin.
+Lying under the earth near the east wall of the tomb are three [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) brides dressed in soiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who approaches Strahd's coffin.
 
-A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the western and eastern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
+A [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the western and eastern alcoves radiate strong auras of conjuration magic. The central alcove is nonmagical.
 
 Creatures that enter the western alcove are instantly teleported to the western alcove of crypt 32 in area K84. Stepping into the eastern alcove has no effect, but any creature that teleports from the eastern alcove of crypt 32 appears here.
 
@@ -2707,11 +2707,11 @@ Creatures that enter the western alcove are instantly teleported to the western 
 
 Strahd lavished many fine gifts on his three brides.
 
-[Ludmilla Vilisevic](/3-Mechanics/CLI/bestiary/npc/ludmilla-vilisevic-cos.md) wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
+[Ludmilla Vilisevic](/03_Mechanics/CLI/bestiary/npc/ludmilla-vilisevic-cos.md) wears a soiled white wedding gown, a gold tiara (worth 750 gp), and ten gold bracelets (worth 100 gp each).
 
-[Anastrasya Karelova](/3-Mechanics/CLI/bestiary/npc/anastrasya-karelova-cos.md) wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
+[Anastrasya Karelova](/03_Mechanics/CLI/bestiary/npc/anastrasya-karelova-cos.md) wears a stained and tattered red wedding gown, a black and crimson silk head scarf sewn with precious jewels (worth 750 gp), and a platinum necklace with a black opal pendant (worth 1,500 gp).
 
-[Volenta Popofsky](/3-Mechanics/CLI/bestiary/npc/volenta-popofsky-cos.md) wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
+[Volenta Popofsky](/03_Mechanics/CLI/bestiary/npc/volenta-popofsky-cos.md) wears a faded gold wedding gown, a platinum mask shaped vaguely like a skull (750 gp), and ten platinum rings set with gemstones (worth 250 gp each).
 
 #### Teleport Destination
 
@@ -2721,7 +2721,7 @@ Characters who teleport to this location from area K78 arrive at the bottom of t
 
 If your card reading reveals that a treasure is here, it lies in the center alcove.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is in his coffin, ready to attack anyone who opens the lid.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is in his coffin, ready to attack anyone who opens the lid.
 
 ### K87. Guardians
 
@@ -2743,7 +2743,7 @@ A creature of lawful good alignment that moves west to east through the curtain 
 > This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
 ^323
 
-![King Barov and Queen Ravenovia](/3-Mechanics/CLI/adventures/curse-of-strahd/img/045-cos04-21.webp#center)
+![King Barov and Queen Ravenovia](/03_Mechanics/CLI/adventures/curse-of-strahd/img/045-cos04-21.webp#center)
 
 The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
 
@@ -2757,4 +2757,4 @@ The south coffin holds the skeleton of Strahd's mother, Queen Ravenovia. (The ma
 
 If your card reading reveals that a treasure is here, it lies atop Queen Ravenovia's coffin.
 
-If your card reading indicates an encounter with [Strahd](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is in a frenzy of rage and despair.
+If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is in a frenzy of rage and despair.

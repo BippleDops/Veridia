@@ -56,29 +56,29 @@ Warriors of the Elements tap into the power of the Elemental Planes. Harnessing 
 
 ### Elemental Attunement (Level 3)
 
-At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. You gain the following benefits while this feature is active.
+At the start of your turn, you can expend 1 Focus Point to imbue yourself with elemental energy. The energy lasts for 10 minutes or until you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. You gain the following benefits while this feature is active.
 
 #### Reach
 
-When you make an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), your reach is 10 feet greater than normal, as elemental energy extends from you.
+When you make an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), your reach is 10 feet greater than normal, as elemental energy extends from you.
 
 #### Elemental Strikes
 
-Whenever you hit with your [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
+Whenever you hit with your [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can cause it to deal your choice of Acid, Cold, Fire, Lightning, or Thunder damage rather than its normal damage type. When you deal one of these types with it, you can also force the target to make a Strength saving throw. On a failed save, you can move the target up to 10 feet toward or away from you, as elemental energy swirls around it.
 
 ### Manipulate Elements (Level 3)
 
-You know the [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md) spell. Wisdom is your spellcasting ability for it.
+You know the [Elementalism](/03_Mechanics/CLI/spells/elementalism-xphb.md) spell. Wisdom is your spellcasting ability for it.
 
 ### Elemental Burst (Level 6)
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
+As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can expend 2 Focus Points to cause elemental energy to burst in a 20-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within 120 feet of yourself. Choose a damage type: Acid, Cold, Fire, Lightning, or Thunder.
 
-Each creature in the [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
+Each creature in the [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) must make a Dexterity saving throw. On a failed save, a creature takes damage of the chosen type equal to three rolls of your Martial Arts die. On a successful save, a creature takes half as much damage.
 
 ### Stride of the Elements (Level 11)
 
-While your Elemental Attunement is active, you also have a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) and a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md).
+While your Elemental Attunement is active, you also have a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) and a [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Elemental Epitome (Level 17)
 
@@ -86,12 +86,12 @@ While your Elemental Attunement is active, you also gain the following benefits.
 
 #### Damage Resistance
 
-You gain [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice.
+You gain [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to one of the following damage types of your choice: Acid, Cold, Fire, Lightning, or Thunder. At the start of each of your turns, you can change this choice.
 
 #### Destructive Stride
 
-When you use your Step of the Wind, your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of Acid, Cold, Fire, Lightning, or Thunder. A creature can take this damage only once per turn.
+When you use your Step of the Wind, your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) increases by 20 feet until the end of the turn. For that duration, any creature of your choice takes damage equal to one roll of your Martial Arts die when you enter a space within 5 feet of it. The damage type is your choice of Acid, Cold, Fire, Lightning, or Thunder. A creature can take this damage only once per turn.
 
 #### Empowered Strikes
 
-Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). The extra damage is the same type dealt by that strike.
+Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). The extra damage is the same type dealt by that strike.

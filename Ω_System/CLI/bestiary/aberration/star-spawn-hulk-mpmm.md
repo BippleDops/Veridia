@@ -63,10 +63,10 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "dexterity": !!int "3"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech"
 "cr": "10"
@@ -78,7 +78,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
   - "desc": "The hulk makes two Slam attacks. If both attacks hit the same target,\
       \ the target also takes 9 (2d8) psychic damage and must succeed on a DC 17 Constitution\
-      \ saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until\
+      \ saving throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until\
       \ the end of the target's next turn."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 14\
@@ -86,11 +86,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Slam"
   - "desc": "The hulk makes a separate Slam attack against each creature within 10\
       \ feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity\
-      \ saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Reaping Arms (Recharge 5-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/star-spawn-hulk-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/star-spawn-hulk-mpmm.webp"
 ```
 ^statblock

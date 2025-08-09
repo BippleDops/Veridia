@@ -14,13 +14,13 @@ modified: 2025-07-23 12:39
 
 The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines (chapter 12), to keep the locals' bellies warm and their spirits up.
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/082-cos08-01.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/082-cos08-01.webp#center)
 
 Looming high above Krezk is the Abbey of Saint Markovia, once a convent and hospital, now a madhouse overrun with wickedness. After Saint Markovia and her followers failed to overthrow Strahd, the abbey became a fortress closed off from the rest of the world. Strahd ruthlessly preyed on the fears of the clerics and nuns holed up inside, but ultimately it was their isolation and greed that doomed them. The clergy began fighting over food and wine. By the time their supplies ran out, they had either been killed by each other's hands or driven hopelessly insane by Strahd's acts of terror against them. For years afterward, the villagers of Krezk avoided the place, fearing that the abbey was cursed, haunted, or both.
 
-Then, over a century ago, a pilgrim from a distant land came to Krezk and insisted that he be allowed to reopen the abbey. The nameless man was strikingly handsome and extremely persuasive, and the villagers couldn't help but do as he commanded. Eternally young, he presides over the abbey to this day, and locals refer to him simply as [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md). Many villagers suspect that [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is Strahd in disguise, for they've heard stories about Strahd appearing in other guises. The truth, however, is even more disturbing.
+Then, over a century ago, a pilgrim from a distant land came to Krezk and insisted that he be allowed to reopen the abbey. The nameless man was strikingly handsome and extremely persuasive, and the villagers couldn't help but do as he commanded. Eternally young, he presides over the abbey to this day, and locals refer to him simply as [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md). Many villagers suspect that [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is Strahd in disguise, for they've heard stories about Strahd appearing in other guises. The truth, however, is even more disturbing.
 
-> [!quote] A quote from [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)  
+> [!quote] A quote from [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)  
 > 
 > The gleam in her eyes was like warm sunlight on a still pond. That light is gone forever. When I try to imagine those eyes, all I see is a mad abyss.
 
@@ -29,8 +29,8 @@ Then, over a century ago, a pilgrim from a distant land came to Krezk and insist
 The following areas correspond to labels on the map of Krezk below.
 
 > [!gallery]
-> ![Map 8.1: The Village of Krezk (Area S)](/3-Mechanics/CLI/adventures/curse-of-strahd/img/083-022.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/084-cos801.webp#gallery)
+> ![Map 8.1: The Village of Krezk (Area S)](/03_Mechanics/CLI/adventures/curse-of-strahd/img/083-022.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/084-cos801.webp#gallery)
 
 ### S1. Road Junction
 
@@ -54,21 +54,21 @@ The map of Krezk includes a diagram of the gatehouse.
 
 Cut into the upper floor of each tower is an arrow slit 6 inches wide, 4 feet tall, and 1 foot deep. An open doorway leads from the archer's post in each tower to the adjacent parapet. Behind the walls, wooden ladders lead from the parapets to the ground 20 feet below.
 
-Two archers (male and female human [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) are stationed inside the gatehouse, one in each tower. Four [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (male and female humans) man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk's militia consists of four more guards plus forty [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (male and female humans) armed with handaxes.
+Two archers (male and female human [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) are stationed inside the gatehouse, one in each tower. Four [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (male and female humans) man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk's militia consists of four more guards plus forty [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (male and female humans) armed with handaxes.
 
 The double doors are made of thick wood planks bound with iron bands and sealed shut with a heavy wooden bar held in iron brackets. The bar can be lifted with a successful DC 15 Strength check. The doors require a siege engine to break them open.
 
-There aren't enough people in Krezk to adequately defend its outer wall. Every 300-foot stretch of wall is watched over by a lone [guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (male or female human). The guards are trained to crouch behind the wall and sound the alarm at any sign of danger.
+There aren't enough people in Krezk to adequately defend its outer wall. Every 300-foot stretch of wall is watched over by a lone [guard](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (male or female human). The guards are trained to crouch behind the wall and sound the alarm at any sign of danger.
 
 #### Burgomaster Dmitri Krezkov
 
-If the characters ask to be let inside or otherwise draw the attention of the guards on the wall, one of the guards fetches the burgomaster, Dmitri Krezkov (LG male human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). His ancestors built Krezk at the foot of the abbey after Strahd's armies conquered the valley.
+If the characters ask to be let inside or otherwise draw the attention of the guards on the wall, one of the guards fetches the burgomaster, Dmitri Krezkov (LG male human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). His ancestors built Krezk at the foot of the abbey after Strahd's armies conquered the valley.
 
 Dmitri is a lord and expects to be treated like one. He places the safety of his village above the welfare of strangers. He has seen adventurers before and assumes that the characters are Strahd's allies or enemies; either way, their presence spells trouble for Krezk. Dmitri isn't prepared to shelter Strahd's enemies any more than he is willing to humor Strahd's allies. The only way the characters can earn his favor is to help Krezk in some way, whereupon Dmitri is required by his oath of office and his honor as a Barovian noble to show them hospitality. If the characters ask what they can do, Dmitri asks them to secure a wagonload of wine from the Wizard of Wines winery to the south. His people have been without wine for days, and the next delivery is long overdue.
 
 If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters' departure.
 
-A character who succeeds on a DC 12 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see area S3).
+A character who succeeds on a DC 12 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see area S3).
 
 ### S3. Village of Krezk
 
@@ -87,17 +87,17 @@ Krezk's residences are single-story pine cottages with stone chimneys and thatch
 
 ##### Burgomaster's Cottage
 
-The building closest to the outer gate is the burgomaster's cottage—the largest building in town but still a modest dwelling. Dmitri Krezkov and his fearless wife Anna (LG female human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) have no living children. The last of their four children, Ilya, died of an illness seven days ago at the age of fourteen. Given their age, the Krezkovs are unlikely to have more children—a source of great consternation to everyone in the village, since that means the end of the Krezkov bloodline.
+The building closest to the outer gate is the burgomaster's cottage—the largest building in town but still a modest dwelling. Dmitri Krezkov and his fearless wife Anna (LG female human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) have no living children. The last of their four children, Ilya, died of an illness seven days ago at the age of fourteen. Given their age, the Krezkovs are unlikely to have more children—a source of great consternation to everyone in the village, since that means the end of the Krezkov bloodline.
 
-The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s mongrelfolk gravediggers (see area S6). Ilya's plot is fresh and undisturbed, since he was interred only four days ago.
+The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s mongrelfolk gravediggers (see area S6). Ilya's plot is fresh and undisturbed, since he was interred only four days ago.
 
 ##### Commoner Cottages
 
-A typical cottage is only 200 square feet yet contains `d4` adults (male and female human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), `d4`−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
+A typical cottage is only 200 square feet yet contains `d4` adults (male and female human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)), `d4`−1 children (male and female human noncombatants), plus the family's pigs, hares, and chickens.
 
-Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s sneaky mongrelfolk gravediggers (see area S6).
+Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s sneaky mongrelfolk gravediggers (see area S6).
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/085-cos08-03.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/085-cos08-03.webp#center)
 
 #### Krezk Lore
 
@@ -109,7 +109,7 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 - A pool at the north end of the village provides fresh water throughout the year. Next to the pool, the village's ancestors built a shrine to the Morninglord in a gazebo. It's known as the Shrine of the White Sun.  
 - The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.  
 - The abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists. Some of the clergy fell prey to Strahd, while others went mad and either starved themselves to death or turned to cannibalism.  
-- The head of the abbey, called simply [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), arrived over a century ago and hasn't aged a day since. He occasionally visits the Shrine of the White Sun but doesn't talk much, and he demands tribute in the form of wine. No one knows his true name or where he came from, and many believe he's Strahd's servant or the vampire himself in disguise.  
+- The head of the abbey, called simply [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), arrived over a century ago and hasn't aged a day since. He occasionally visits the Shrine of the White Sun but doesn't talk much, and he demands tribute in the form of wine. No one knows his true name or where he came from, and many believe he's Strahd's servant or the vampire himself in disguise.  
 - No one from the village visits the abbey anymore. The abbey's bell rings at odd times, day and night, and the place is filled with baleful screams and horrible, inhuman laughter that can be heard throughout the village.  
 
 ### S4. Pool and Shrine
@@ -119,7 +119,7 @@ In addition to the information known to all Barovians (see "Barovian Lore" in ch
 > Even under gray skies, this pool at the north end of the village shimmers and sparkles. Near its shore sits an old gazebo on the verge of collapse. A wooden statue of a mournful, bare-chested man, its paint chipped and faded, stands in the gazebo with arms outstretched, as though waiting to be embraced.
 ^4ca
 
-The pool is fed by an underground spring and was blessed long ago by Saint Markovia. Its waters defy corruption, and anyone who drinks from it for the first time gains the benefit of a [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell. (The water once had even greater magic but has weakened over the years.) The water otherwise tastes sweet and fresh.
+The pool is fed by an underground spring and was blessed long ago by Saint Markovia. Its waters defy corruption, and anyone who drinks from it for the first time gains the benefit of a [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) spell. (The water once had even greater magic but has weakened over the years.) The water otherwise tastes sweet and fresh.
 
 The gazebo is so frail that it wouldn't take more than a strong wind to knock it over. It remains standing because it's protected from the elements by the surrounding trees, walls, and cliffs. The statue is a depiction of the Morninglord, positioned so that he is reaching toward the east (the dawn). Locals refer to the statue and gazebo as the Shrine of the White Sun, though they have no idea why their ancestors named it so.
 
@@ -141,12 +141,12 @@ The following areas correspond to labels on the maps of the Abbey of Saint Marko
 The mongrelfolk that infest the abbey are all descendants of one family—the Belviews—and all suffer from some form of madness. Whenever the characters interact with a mongrelfolk who isn't detailed here, roll on the Indefinite Madness table (see ""Madness Effects"" in chapter 8 of the "Dungeon Master's Guide") or choose from the available options on the table to determine how that particular mongrelfolk's madness is expressed.
 
 > [!gallery]
-> ![Map 8.2: Abbey of Saint Markovia - Ground Floor](/3-Mechanics/CLI/adventures/curse-of-strahd/img/086-023.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/087-cos802.webp#gallery)
+> ![Map 8.2: Abbey of Saint Markovia - Ground Floor](/03_Mechanics/CLI/adventures/curse-of-strahd/img/086-023.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/087-cos802.webp#gallery)
 
-Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
+Most of the mongrelfolk in the abbey are locked up because they can't be trusted to wander about unsupervised. The only mongrelfolk who are free to move about are [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s gravediggers, Otto and Zygfrek, and his faithful, two-headed manservant, Clovin.
 
-[Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) rings the abbey's bell (area S17) when [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) decides it's time for dinner. The toll of the bell causes all the other mongrelfolk in the abbey to hoot and holler with excitement as they wait to be fed.
+[Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) rings the abbey's bell (area S17) when [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) decides it's time for dinner. The toll of the bell causes all the other mongrelfolk in the abbey to hoot and holler with excitement as they wait to be fed.
 
 The windows of the north wing are made of leaded glass that is translucent—good for letting in light but not good for seeing through. The windows of the east wing are broken outward and have damaged shutters.
 
@@ -161,11 +161,11 @@ The windows of the north wing are made of leaded glass that is translucent—goo
 
 The iron gates are unlocked but squeal loudly when someone opens them.
 
-Two gate guards are on duty, but they aren't awake when the characters arrive (see below). Characters who succeed on a DC 12 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check can climb over the low outer wall without waking them. If one or more characters fail the check, or if the characters open the gates, the guards rouse themselves and stumble forth to confront the trespassers.
+Two gate guards are on duty, but they aren't awake when the characters arrive (see below). Characters who succeed on a DC 12 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) check can climb over the low outer wall without waking them. If one or more characters fail the check, or if the characters open the gates, the guards rouse themselves and stumble forth to confront the trespassers.
 
-![Otto Belview](/3-Mechanics/CLI/adventures/curse-of-strahd/img/088-cos08-04.webp#center)
+![Otto Belview](/03_Mechanics/CLI/adventures/curse-of-strahd/img/088-cos08-04.webp#center)
 
-The gate guards are Otto and [Zygfrek Belview](/3-Mechanics/CLI/bestiary/npc/zygfrek-belview-cos.md), two lawful evil [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
+The gate guards are Otto and [Zygfrek Belview](/03_Mechanics/CLI/bestiary/npc/zygfrek-belview-cos.md), two lawful evil [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D). They sleep under piles of musty animal furs. Both are loyal servants of [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), yet not so good at guarding. If the characters seem friendly, the mongrelfolk escort them to the courtyard (area S12) and ask the characters to wait there while they fetch [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) (area S13). If the characters seem hostile, the mongrelfolk let them enter but don't accompany them willingly.
 
 Hanging on the inside wall of each guard post is a net woven from twigs and pine needles, as well as a shovel. Otto and Zygfrek cover themselves with the nets when they skulk through the village at night in search of fresh graves to dig up.
 
@@ -173,19 +173,19 @@ Hanging on the inside wall of each guard post is a net woven from twigs and pine
 
 Use the information below to roleplay the mongrelfolk guards, Otto and Zygfrek.
 
-![Zygfrek Belview](/3-Mechanics/CLI/adventures/curse-of-strahd/img/089-cos08-05.webp#center)
+![Zygfrek Belview](/03_Mechanics/CLI/adventures/curse-of-strahd/img/089-cos08-05.webp#center)
 
 ##### Otto Belview
 
 Otto is 4 feet, 9 inches tall and squats instead of standing upright. He looks like a beardless dwarf with patches of donkey flesh covering his face and body. He has one human ear and one wolf's ear, and a protruding wolf's snout and fangs. His arms and hands are human, but his legs and feet are leonine, and he has a donkey's tail. He can barely speak Common, and his laugh sounds like a donkey's bray. He wears a plain wool cloak.
 
-Otto has the Standing Leap feature (see the [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). His madness is embodied in the following statement: "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."
+Otto has the Standing Leap feature (see the [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). His madness is embodied in the following statement: "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."
 
 ##### Zygfrek Belview
 
 Zygfrek stands 4 feet, 7 inches tall. The left side of her face and body is covered with lizard scales, the right with tufts of gray wolf fur. Between these tufts is pale human skin. One of her eyes is that of a feline, and her fingers and hands resemble cat's paws with opposable thumbs. She has a gruff voice and wears a gray cloak with black fur trim.
 
-Zygfrek has the [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) feature (see the [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). Her madness is embodied in the following statement: "I don't like the way people judge me all the time."
+Zygfrek has the [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) feature (see the [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). Her madness is embodied in the following statement: "I don't like the way people judge me all the time."
 
 ### S7. Graveyard
 
@@ -207,7 +207,7 @@ The gravestone marked X is carved with roses and bears a 3-inch-diameter sun-sha
 
 The sunray lasts for 1 minute. If the characters smash the gravestone without placing Tasha Petrovna's holy symbol in it first, they find nothing within its remains.
 
-The ring is a [ring of regeneration](/3-Mechanics/CLI/items/ring-of-regeneration-xdmg.md).
+The ring is a [ring of regeneration](/03_Mechanics/CLI/items/ring-of-regeneration-xdmg.md).
 
 ### S8. Garden Gatehouse
 
@@ -236,7 +236,7 @@ The rabbits and the scarecrows are harmless. The gardens contain a meager assort
 
 #### Fortunes of Ravenloft
 
-If your card reading reveals that a treasure is here, the item is hidden in the straw-filled gullet of the southernmost scarecrow. If the treasure is removed from the scarecrow, seven [wights](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) erupt from the gardens and attack. They wear tattered livery of Strahd's house.
+If your card reading reveals that a treasure is here, the item is hidden in the straw-filled gullet of the southernmost scarecrow. If the treasure is removed from the scarecrow, seven [wights](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) erupt from the gardens and attack. They wear tattered livery of Strahd's house.
 
 ### S10. Abbey Entrance
 
@@ -247,13 +247,13 @@ If your card reading reveals that a treasure is here, the item is hidden in the 
 
 The plaque bears the abbey's name, under which appear these words: "May her light cure all illness."
 
-The "guards" on the wall are propped-up scarecrows that wear corroded chain shirts and clutch rusted spears (see area S18). A character who succeeds on a DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check discerns the charade.
+The "guards" on the wall are propped-up scarecrows that wear corroded chain shirts and clutch rusted spears (see area S18). A character who succeeds on a DC 10 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check discerns the charade.
 
 The double doors are heavy but unlocked. They can be pushed open to reveal a foggy courtyard (area S12).
 
 > [!gallery]
-> ![Map 8.3: Abbey of Saint Ma...](/3-Mechanics/CLI/adventures/curse-of-strahd/img/090-024.webp#gallery "Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar")
-> ![Player Version](/3-Mechanics/CLI/adventures/curse-of-strahd/img/091-cos803.webp#gallery)
+> ![Map 8.3: Abbey of Saint Ma...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/090-024.webp#gallery "Map 8.3: Abbey of Saint Markovia - Upper Floor & Cellar")
+> ![Player Version](/03_Mechanics/CLI/adventures/curse-of-strahd/img/091-cos803.webp#gallery)
 
 ### S11. Inner Gatehouses
 
@@ -270,17 +270,17 @@ These two empty buildings help support the curtain wall (area S18) that encloses
 > The quiet is shattered by horrible screams coming from the sheds.
 ^4e2
 
-If the characters are escorted here by Otto and [Zygfrek Belview](/3-Mechanics/CLI/bestiary/npc/zygfrek-belview-cos.md) (area S6), they are asked to wait in the courtyard while the mongrelfolk fetch [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) from area S13.
+If the characters are escorted here by Otto and [Zygfrek Belview](/03_Mechanics/CLI/bestiary/npc/zygfrek-belview-cos.md) (area S6), they are asked to wait in the courtyard while the mongrelfolk fetch [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) from area S13.
 
 #### S12a. Well
 
-The well is 80 feet deep. Hiding 20 feet down is a chaotic evil [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D) named [Mishka Belview](/3-Mechanics/CLI/bestiary/npc/mishka-belview-cos.md). He clings to the wall of the shaft and scuttles up to attack anyone who shines a light down on him.
+The well is 80 feet deep. Hiding 20 feet down is a chaotic evil [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D) named [Mishka Belview](/03_Mechanics/CLI/bestiary/npc/mishka-belview-cos.md). He clings to the wall of the shaft and scuttles up to attack anyone who shines a light down on him.
 
 ##### Mishka Belview
 
 Mishka stands 5 feet tall and has a wiry, spindly build. He has three red spider eyes on the right side of his face, while the left side appears human. He has a frog's foot in place of his left hand and a taloned crow's foot where his right foot should be.
 
-He has the Spider Climb feature (see the [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). In his madness, he's discovered he enjoys killing people.
+He has the Spider Climb feature (see the [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). In his madness, he's discovered he enjoys killing people.
 
 #### S12b. Old Troughs
 
@@ -288,7 +288,7 @@ These three horse troughs are badly rotted and fall apart if handled or jostled.
 
 #### S12c. Chicken Sheds
 
-Each of these sheds is fitted with an iron padlock. [Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) (area S17) carries the keys to these locks.
+Each of these sheds is fitted with an iron padlock. [Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) (area S17) carries the keys to these locks.
 
 If the characters open a shed, read:
 
@@ -297,11 +297,11 @@ If the characters open a shed, read:
 > This shed holds the shattered remains of several chicken coops. Shackled to the back wall is a wretched humanoid with bestial deformities.
 ^4e7
 
-There are nine of these sheds, each one containing a howling or mewling [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D).
+There are nine of these sheds, each one containing a howling or mewling [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D).
 
 #### S12d. Tethering Posts
 
-Iron rings bolted to these wooden posts were once used to secure horses. Chained to one post is a chaotic neutral [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D) named [Marzena Belview](/3-Mechanics/CLI/bestiary/npc/marzena-belview-cos.md), the older sister of [Mishka Belview](/3-Mechanics/CLI/bestiary/npc/mishka-belview-cos.md) (see area S12a).
+Iron rings bolted to these wooden posts were once used to secure horses. Chained to one post is a chaotic neutral [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D) named [Marzena Belview](/03_Mechanics/CLI/bestiary/npc/marzena-belview-cos.md), the older sister of [Mishka Belview](/03_Mechanics/CLI/bestiary/npc/mishka-belview-cos.md) (see area S12a).
 
 If the characters approach Marzena, read:
 
@@ -310,13 +310,13 @@ If the characters approach Marzena, read:
 > The creature chained to the post flaps its leathery wings and takes to the air, but doesn't get far before its chains go taut. She flutters about madly, screaming nonsense.
 ^4e9
 
-[Marzena Belview](/3-Mechanics/CLI/bestiary/npc/marzena-belview-cos.md) is skittish and afraid of everyone and everything except for [Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) (area S17), whom she allows to come close enough to feed her.
+[Marzena Belview](/03_Mechanics/CLI/bestiary/npc/marzena-belview-cos.md) is skittish and afraid of everyone and everything except for [Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md) (area S17), whom she allows to come close enough to feed her.
 
 ##### Marzena Belview
 
 Marzena stands 4 feet, 5 inches tall and has a hunched posture. Long, stringy black hair hides much of her face, but clearly visible are the spider mandibles and teeth that replace her human mouth. She has the arms and wings of a bat, as well as a cloven hoof in place of her right foot. She doesn't allow anyone to get close enough to undo her shackles, but if her bonds are magically unlocked or if her chains are somehow broken, she flies away and never returns.
 
-Marzena has the Flight feature (see the [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). Her madness is embodied in the following statement: "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time."
+Marzena has the Flight feature (see the [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). Her madness is embodied in the following statement: "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time."
 
 ### S13. Main Hall
 
@@ -329,20 +329,20 @@ Marzena has the Flight feature (see the [mongrelfolk](/3-Mechanics/CLI/bestiary/
 > Several chairs surround a wooden table that stretches nearly the length of the room. Wooden dishware and gold candelabras are neatly arranged on the table, standing behind which is a young woman with alabaster skin dressed in a torn and soiled red gown. Her auburn hair is neatly bundled so as not to touch her soft shoulders. She seems lost in her own thoughts.
 ^4ed
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is normally here. If he is here, add:
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is normally here. If he is here, add:
 
 > [!readaloud] 
 > 
 > A handsome young man in a brown monk's robe gently takes the woman by her hand. A painted wooden holy symbol that depicts the sun hangs from a chain around his neck. He moves with the grace of a saint.
 ^4ee
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is a [deva](/3-Mechanics/CLI/bestiary/celestial/deva-xmm.md) in disguise (see appendix D, as well as "Something Old" in the "Special Events" section at the end of this chapter). He wears a holy symbol of the Morninglord around his neck. The woman in the tattered red gown is [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md), a [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) that has been exquisitely put together to serve as Strahd's bride. Characters within 5 feet of [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md) can see the seams in her powdered skin where disparate body parts stolen from Krezkite graves have been carefully stitched together.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is a [deva](/03_Mechanics/CLI/bestiary/celestial/deva-xmm.md) in disguise (see appendix D, as well as "Something Old" in the "Special Events" section at the end of this chapter). He wears a holy symbol of the Morninglord around his neck. The woman in the tattered red gown is [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md), a [flesh golem](/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) that has been exquisitely put together to serve as Strahd's bride. Characters within 5 feet of [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md) can see the seams in her powdered skin where disparate body parts stolen from Krezkite graves have been carefully stitched together.
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is teaching [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md) the finer points of etiquette. He also intends to teach her how to dance. [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md) obeys his every command. She can't speak but lets loose an unholy scream if harmed. If driven berserk, she fights until [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) reasserts control or until she is destroyed. She has the supernatural strength of a typical flesh golem despite her smaller size.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is teaching [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md) the finer points of etiquette. He also intends to teach her how to dance. [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md) obeys his every command. She can't speak but lets loose an unholy scream if harmed. If driven berserk, she fights until [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) reasserts control or until she is destroyed. She has the supernatural strength of a typical flesh golem despite her smaller size.
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) has no desire to harm the characters. He knows that Strahd has brought them to Barovia for a reason and doesn't want to thwart Strahd's plans for them. His calm, pleasant demeanor changes if they become hostile or if they threaten [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md). He sheds his disguise and assumes his true angelic form, hoping that sight is enough to make them back down.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) has no desire to harm the characters. He knows that Strahd has brought them to Barovia for a reason and doesn't want to thwart Strahd's plans for them. His calm, pleasant demeanor changes if they become hostile or if they threaten [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md). He sheds his disguise and assumes his true angelic form, hoping that sight is enough to make them back down.
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) would like to find a proper bridal gown for [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md). If the characters seem friendly, he asks them for help in locating one. In exchange, he offers his magic, agreeing to cast [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md) up to three times on their behalf, or give them each the benefit of his healing touch. If they decline to help or behave rudely, he orders them to leave the abbey at once, attacking them if they refuse and doing his utmost to keep [Vasilka](/3-Mechanics/CLI/bestiary/npc/vasilka-cos.md) safe.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) would like to find a proper bridal gown for [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md). If the characters seem friendly, he asks them for help in locating one. In exchange, he offers his magic, agreeing to cast [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) up to three times on their behalf, or give them each the benefit of his healing touch. If they decline to help or behave rudely, he orders them to leave the abbey at once, attacking them if they refuse and doing his utmost to keep [Vasilka](/03_Mechanics/CLI/bestiary/npc/vasilka-cos.md) safe.
 
 The music comes from upstairs (area S17). The stone staircase leads down to the wine cellar (area S16). The wooden stairs climb to the loft and belfry (area S17).
 
@@ -350,13 +350,13 @@ The stew pot in the fireplace contains several gallons of hot turnip and rabbit 
 
 #### Roleplaying the Abbot
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) believes he is righteous. He regrets transforming the Belviews into horrid mongrelfolk, and he considers their imprisonment to be necessary, to contain their madness. With regard to Strahd's bride, he believes that she is the key to freeing the land from its curse. The insane Abbot can't be convinced otherwise.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) believes he is righteous. He regrets transforming the Belviews into horrid mongrelfolk, and he considers their imprisonment to be necessary, to contain their madness. With regard to Strahd's bride, he believes that she is the key to freeing the land from its curse. The insane Abbot can't be convinced otherwise.
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) shares his beliefs openly, claiming that his decisions are based on the Morninglord's guidance. He will give visitors a tour of the abbey if they seem friendly, but he turns hostile if they threaten him or his charges.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) shares his beliefs openly, claiming that his decisions are based on the Morninglord's guidance. He will give visitors a tour of the abbey if they seem friendly, but he turns hostile if they threaten him or his charges.
 
 #### Treasure
 
-The golden sun disk hanging above the fireplace is worth 750 gp. Taking the disk off the wall reveals a niche that contains a [potion of healing (superior)](/3-Mechanics/CLI/items/potion-of-superior-healing-xdmg.md) in a crystal and electrum flask (worth 250 gp). Four gold candelabras (worth 250 gp each) rest atop the table.
+The golden sun disk hanging above the fireplace is worth 750 gp. Taking the disk off the wall reveals a niche that contains a [potion of healing (superior)](/03_Mechanics/CLI/items/potion-of-superior-healing-xdmg.md) in a crystal and electrum flask (worth 250 gp). Four gold candelabras (worth 250 gp each) rest atop the table.
 
 #### Fortunes of Ravenloft
 
@@ -380,18 +380,18 @@ If the characters enter this area making noise or carrying light sources, the go
 > This lightless corridor has multiple doors behind which lie creatures that shatter the quiet with their mad cackles and whispered curses. The stench is overpowering.
 ^4f5
 
-Before he set out to create a bride for Strahd, [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) tried his hand at creating a more rudimentary golem. This creature paces the hall, tirelessly guarding the abbey's madhouse and making sure no mongrelfolk escape. When the characters first see the golem, read:
+Before he set out to create a bride for Strahd, [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) tried his hand at creating a more rudimentary golem. This creature paces the hall, tirelessly guarding the abbey's madhouse and making sure no mongrelfolk escape. When the characters first see the golem, read:
 
 > [!readaloud] 
 > 
 > Even in the gloom, you can make out a monstrous shape lumbering down the hall. When the darkness can no longer hide its true nature, your eyes are treated to a terrifying, 7-foot-tall assemblage of human body parts.
 ^4f6
 
-This [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) attacks anyone who isn't in the company of [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) or [Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md).
+This [flesh golem](/03_Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) attacks anyone who isn't in the company of [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) or [Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md).
 
 None of the doors leading from the hall are locked. If the characters open any and look inside, they see that the rooms on each side of the hall are dimly lit by natural light that filters through dirty, shuttered windows. The door at the east end of the hall leads outside and can be pulled open to reveal the gardens (area S9).
 
-The sixty [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) confined here are fed at irregular intervals by [Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md). Dinner is foretold by the ringing of the abbey bell (area S17). These mongrelfolk aren't [restrained](/3-Mechanics/CLI/conditions.md#Restrained), but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
+The sixty [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) confined here are fed at irregular intervals by [Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md). Dinner is foretold by the ringing of the abbey bell (area S17). These mongrelfolk aren't [restrained](/03_Mechanics/CLI/conditions.md#Restrained), but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
 
 #### S15a. Fearful Mongrelfolk
 
@@ -400,7 +400,7 @@ The sixty [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) c
 > This room was once a shared bedchamber, but its furnishings have been destroyed. Three shrieking mongrels cower in the shadowy northwest corner. One of them cradles something shiny.
 ^4f8
 
-Three [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are confined here. One of them cradles a polished brass candlestick as if it was a doll. Any attempt to take it causes the mongrelfolk to attack.
+Three [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are confined here. One of them cradles a polished brass candlestick as if it was a doll. Any attempt to take it causes the mongrelfolk to attack.
 
 #### S15b. Quarreling Mongrelfolk
 
@@ -409,7 +409,7 @@ Three [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are c
 > Four mongrel creatures brawl amid the wreckage of this bedchamber while a fifth watches and cackles behind a life-sized, painted wooden statue of a saintly woman in robes.
 ^4fa
 
-Five [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are confined here. The four that are fighting aren't trying to kill each other, but they are trying to assert dominance. They stop fighting if a character separates them.
+Five [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are confined here. The four that are fighting aren't trying to kill each other, but they are trying to assert dominance. They stop fighting if a character separates them.
 
 The statue is a little over 5 feet tall and carved from a single piece of wood. It depicts Saint Markovia. Close inspection reveals that it is covered with bite marks.
 
@@ -420,7 +420,7 @@ The statue is a little over 5 feet tall and carved from a single piece of wood. 
 > Seven mongrels are seated in the middle of this room, forming a ring. They appear to be chanting a spell.
 ^4fc
 
-These seven [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are trying to cast a spell that will cause the abbey's bell to ring, so that dinner will be served. They are speaking nonmagical gibberish.
+These seven [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are trying to cast a spell that will cause the abbey's bell to ring, so that dinner will be served. They are speaking nonmagical gibberish.
 
 #### S15d. Hungry Mongrelfolk
 
@@ -429,7 +429,7 @@ These seven [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md)
 > Nine mongrel creatures stand in the middle of this room, staring at the doorway in silence with hungry looks in their eyes.
 ^4fe
 
-These nine [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) haven't been fed in days because Clovin doesn't like them. They try to kill and devour any character who sets foot in the room.
+These nine [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) haven't been fed in days because Clovin doesn't like them. They try to kill and devour any character who sets foot in the room.
 
 #### S15e. Mongrelfolk Horde
 
@@ -438,7 +438,7 @@ These nine [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) 
 > This room is packed wall to wall with mongrels wallowing in their own filth. The floor is strewn with gnawed bones.
 ^500
 
-Sixteen screaming [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are confined here. The bones are all that remain of mongrelfolk who perished and were eaten. The survivors beg for food.
+Sixteen screaming [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are confined here. The bones are all that remain of mongrelfolk who perished and were eaten. The survivors beg for food.
 
 #### S15f. Singing and Dancing Mongrelfolk
 
@@ -447,7 +447,7 @@ Sixteen screaming [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-c
 > Eight mongrels caper about the wreckage of this bedchamber while singing a rhyme. One of them holds up a glittering gold statuette as it leads this mad parade.
 ^502
 
-The eight [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) sing the following rhyme:
+The eight [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) sing the following rhyme:
 
 *The devil dwells in his dark house,*
 
@@ -470,7 +470,7 @@ The golden statuette depicts Saint Markovia and is worth 250 gp. It grants any g
 > Filthy mongrels cradle screaming young in the debris-strewn corners of this room while several more hoot, holler, roll on the floor, and whack each other with sticks.
 ^505
 
-This room contains ten [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md), three of which are tending to noncombatant mongrelfolk babies.
+This room contains ten [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md), three of which are tending to noncombatant mongrelfolk babies.
 
 #### S15h. Mongrelfolk Fort
 
@@ -479,7 +479,7 @@ This room contains ten [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelf
 > This room contains a fort made out of piled bits of shattered furniture and torn draperies. From within the fort, you hear a mischievous cackle.
 ^507
 
-Two [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) live in the "fort" but refuse to come out unless baited with food. While hidden under the wreckage, they have three-quarters cover.
+Two [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) live in the "fort" but refuse to come out unless baited with food. While hidden under the wreckage, they have three-quarters cover.
 
 ### S16. Wine Cellar
 
@@ -494,7 +494,7 @@ The wine racks contain thirty-three bottles of Purple Grapemash No. 3 and twenty
 
 #### Treasure
 
-Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [heroes' feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md).
+Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [heroes' feast](/03_Mechanics/CLI/spells/heroes-feast-xphb.md).
 
 ### S17. Loft and Belfry
 
@@ -509,21 +509,21 @@ Anyone on the curtain wall (area S18) who listens at this room's door hear the s
 > A cot heaped with furs rests in the northeast corner, surrounded by empty wine bottles. An oil lamp burns atop a table nearby, silhouetting a squat creature that has two heads. It sits on the edge of the cot with a viol between its legs. With a crustacean, claw-like appendage, it grasps the neck of the instrument while running a bow gently across its strings with its human hand.
 ^50c
 
-This loft is where [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) creates his flesh golems. Needles, thread, saws, and other tools lie on a small table in the northwest corner.
+This loft is where [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) creates his flesh golems. Needles, thread, saws, and other tools lie on a small table in the northwest corner.
 
 If anyone rings the bell, a cacophony erupts from the courtyard and the east wing as the mongrelfolk cry out, "Food!" The cries last until the creatures are fed.
 
-![Clovin Belview](/3-Mechanics/CLI/adventures/curse-of-strahd/img/092-cos08-07.webp#center)
+![Clovin Belview](/03_Mechanics/CLI/adventures/curse-of-strahd/img/092-cos08-07.webp#center)
 
-[Clovin Belview](/3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md), [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s manservant, a two-headed neutral evil [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
+[Clovin Belview](/03_Mechanics/CLI/bestiary/npc/clovin-belview-cos.md), [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s manservant, a two-headed neutral evil [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) (see appendix D), resides here. He plays the viol beautifully when he is drunk, and the music help puts his half-formed head to sleep. Hidden under the furs of his cot are three bottles of Purple Grapemash No. 3. Several empty wine bottles are strewn about the floor around the cot.
 
 #### Roleplaying Clovin
 
 Clovin stands 4 feet, 7 inches tall and has a barrel-like shape. His right head is fully formed and combines the features of a patchy-haired man with those of a goat, complete with stubby horns. His left head is about half normal size and has a soft, cherubic face partly covered with crocodilian hide. Clovin has a crab's pincer in place of his left hand and a bear's paw where his right foot should be. He wears an ill-fitting monk's robe with a belt made of hempen rope.
 
-Clovin is [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s faithful martinet, but he is despised by the other mongrelfolk, who accuse him of hoarding food and slowly starving them to death. He would let them starve, but [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) has forbidden it.
+Clovin is [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s faithful martinet, but he is despised by the other mongrelfolk, who accuse him of hoarding food and slowly starving them to death. He would let them starve, but [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) has forbidden it.
 
-Clovin has the Two-Headed feature (see the [mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). His madness is embodied in the following statement: "Being drunk keeps me sane." He is drunk most of the time, but not to the extent that it impedes his combat ability, and his musical performance improves when he is inebriated.
+Clovin has the Two-Headed feature (see the [mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) stat block in appendix D). His madness is embodied in the following statement: "Being drunk keeps me sane." He is drunk most of the time, but not to the extent that it impedes his combat ability, and his musical performance improves when he is inebriated.
 
 The larger head does all the talking. The smaller head has a forked snake's tongue and can't do anything except hiss and make other horrible sounds.
 
@@ -547,7 +547,7 @@ The creature on the table appears to be made from the body parts of the characte
 > Your eyes play tricks, for what truly lies atop the table are chopped-up body parts, all of them taken from cold, gray, lifeless women, all of them waiting to be stitched together into something horrid.
 ^511
 
-The body parts were plundered from graves in Krezk. They are leftovers—pieces [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) didn't use in the creation of Strahd's bride (see area S13).
+The body parts were plundered from graves in Krezk. They are leftovers—pieces [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) didn't use in the creation of Strahd's bride (see area S13).
 
 ### S18. Curtain Wall
 
@@ -571,11 +571,11 @@ Long ago, the abbey employed guards to defend its walls, and they were quartered
 
 #### Ezmerelda d'Avenir
 
-If the characters have not already encountered her elsewhere, the vampire hunter [Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D) is here, plotting her next move.
+If the characters have not already encountered her elsewhere, the vampire hunter [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md) (see appendix D) is here, plotting her next move.
 
-Ezmerelda crept into Krezk unseen under cover of darkness and made her way to the abbey, in the hope of gaining knowledge about Strahd and his domain from the residents there. Having met [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) and Strahd's "bride" (area S13), Ezmerelda realizes [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is insane. [The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) told her that he is expecting Strahd to visit his bride-to-be. Ezmerelda has decided to wait for the vampire to come, so that she can destroy him away from Castle Ravenloft, far from his resting place. She is planning to create a magic circle in this room as an added precaution.
+Ezmerelda crept into Krezk unseen under cover of darkness and made her way to the abbey, in the hope of gaining knowledge about Strahd and his domain from the residents there. Having met [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) and Strahd's "bride" (area S13), Ezmerelda realizes [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is insane. [The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) told her that he is expecting Strahd to visit his bride-to-be. Ezmerelda has decided to wait for the vampire to come, so that she can destroy him away from Castle Ravenloft, far from his resting place. She is planning to create a magic circle in this room as an added precaution.
 
-As [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s guest, Ezmerelda is free to come and go as she pleases. If the characters seem committed to fighting Strahd, she abandons her plan and offers to join forces with them.
+As [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s guest, Ezmerelda is free to come and go as she pleases. If the characters seem committed to fighting Strahd, she abandons her plan and offers to join forces with them.
 
 ### S20. Upstairs Office
 
@@ -595,7 +595,7 @@ The wood of the counter is old, soft, and easily broken. Nothing of value remain
 > Three doors are spaced along the south wall, each with a plaque mounted on it. From west to east, the plaques read Operating Room, Nursery, and Morgue.
 ^51b
 
-Six [shadows](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
+Six [shadows](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
 
 ### S22. Operating Room
 
@@ -633,9 +633,9 @@ If your card reading reveals that a treasure is here, it is under the wreckage o
 > A raven perches on the windowsill of this otherwise empty room.
 ^523
 
-If the characters approach the [raven](/3-Mechanics/CLI/bestiary/beast/raven-xmm.md), it flies to the shoulder of the nearest scarecrow in the garden (area S9).
+If the characters approach the [raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md), it flies to the shoulder of the nearest scarecrow in the garden (area S9).
 
-A character who kills the raven is cursed. While cursed, the character has disadvantage on all attack rolls and ability checks. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell, or a similar effect ends the curse.
+A character who kills the raven is cursed. While cursed, the character has disadvantage on all attack rolls and ability checks. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell, a [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell, or a similar effect ends the curse.
 
 ## Special Events
 
@@ -645,45 +645,45 @@ You can use one or more of the following special events while the characters exp
 
 This event can occur if the characters don't or can't raise the burgomaster's son, Ilya, from the dead.
 
-If alive, [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) learns that Ilya died recently and, in his human guise, visits the burgomaster's cottage. If one or more characters are staying there, they hear a knock at the door. Without bothering to introduce himself, [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) tells the burgomaster and his wife that he wants to raise their son from the dead. He claims that the "gods of light" want the Krezkov bloodline restored.
+If alive, [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) learns that Ilya died recently and, in his human guise, visits the burgomaster's cottage. If one or more characters are staying there, they hear a knock at the door. Without bothering to introduce himself, [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) tells the burgomaster and his wife that he wants to raise their son from the dead. He claims that the "gods of light" want the Krezkov bloodline restored.
 
-The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) casts a [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md), returning Ilya to life with 1 hit point. Anna Krezkova praises [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) and has no way to repay him for this supreme act of kindness.
+The characters can try to interfere in the raising of Ilya Krezkov. Otherwise, the burgomaster digs up his son's corpse. Without needing the requisite material components, [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) casts a [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md), returning Ilya to life with 1 hit point. Anna Krezkova praises [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) and Saint Markovia for this generous act before tending to her son. The burgomaster, his grief dispelled, fears that he has misjudged [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) and has no way to repay him for this supreme act of kindness.
 
 #### Development
 
-Ilya Krezkov returns to life with a random form of indefinite madness (see ""Madness Effects"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). [The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) uses the raising of Ilya as leverage to get the burgomaster to undertake an unusual quest (see "Something Borrowed" below).
+Ilya Krezkov returns to life with a random form of indefinite madness (see ""Madness Effects"" in chapter 8, "Running the Game," of the "Dungeon Master's Guide"). [The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) uses the raising of Ilya as leverage to get the burgomaster to undertake an unusual quest (see "Something Borrowed" below).
 
 ### Something New
 
-The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and offer prayers for the health of the mother and the child.
+The characters learn that a Krezkite woman named Dimira Yolensky (LG female human noncombatant) is about to give birth. A local midwife named Kretyana Dolvof (LG female human [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) is summoned to the mother's cottage to deliver the newborn. In the absence of a priest, the burgomaster's wife, Anna Krezkova, is called upon to supervise the blessed event and offer prayers for the health of the mother and the child.
 
-Dimira gives birth to a healthy baby boy, but the baby doesn't cry. While the mother coddles the infant, characters who succeed on a DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check can see that Kretyana is deeply troubled. If the characters question the midwife, she tells them in confidence, "That child has no soul. Very sad."
+Dimira gives birth to a healthy baby boy, but the baby doesn't cry. While the mother coddles the infant, characters who succeed on a DC 10 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check can see that Kretyana is deeply troubled. If the characters question the midwife, she tells them in confidence, "That child has no soul. Very sad."
 
 Kretyana was raised to believe that newborns are soulless if they don't cry, and she has come to believe, rightly, that most Barovians lack souls.
 
 ### Something Borrowed
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) needs a bridal gown. He doesn't trust the mongrelfolk to find one, so he pays a visit to Burgomaster Krezkov and instructs him to obtain a gown within a month, either as compensation for raising his dead son (see "Something Old" above) or on pain of death.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) needs a bridal gown. He doesn't trust the mongrelfolk to find one, so he pays a visit to Burgomaster Krezkov and instructs him to obtain a gown within a month, either as compensation for raising his dead son (see "Something Old" above) or on pain of death.
 
 No one in Krezk can fashion such a gown, leaving the burgomaster with no choice but to look elsewhere. His wife, Anna, says she should personally lead a well-armed group of Krezkites to the east to Vallaki.
 
-![Baron Krezkov](/3-Mechanics/CLI/adventures/curse-of-strahd/img/093-cos08-08.webp#center)
+![Baron Krezkov](/03_Mechanics/CLI/adventures/curse-of-strahd/img/093-cos08-08.webp#center)
 
-Anna Krezkova (LG female human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) bids her husband farewell and leaves with two [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), four [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), and a [mule](/3-Mechanics/CLI/bestiary/beast/mule-xmm.md) laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p). The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
+Anna Krezkova (LG female human [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) bids her husband farewell and leaves with two [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md), four [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), and a [mule](/03_Mechanics/CLI/bestiary/beast/mule-xmm.md) laden with provisions. If the characters are present, the burgomaster urges them to provide escort. If they agree, check for random encounters as they make their way along the Old Svalich Road, as normal. If the guards at Vallaki's gates can be convinced to let them in, Anna and the characters can begin searching for a bridal gown or a dressmaker. Local dressmakers are willing to fashion a gown for 50 gp, but Anna can't afford it, and the dress won't be finished in time. The dressmakers are quick to point out that Baroness Lydia Petrovna, the wife of Vallaki's burgomaster, owns a beautiful white bridal gown (see chapter 5, area N3p). The baroness, eager to please, is willing to give up her dress for a good cause, although her husband won't allow it and could care less about Krezk's problems.
 
-If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md). If they do, they hear [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) promise "divine retribution" as punishment.
+If the characters don't accompany Anna on her quest, her expedition falls prey to the perils of the wilderness and never returns. Krezkov sends more villagers to find them, and these villagers are also lost. Unwilling to risk any more lives, Krezkov visits the abbey for the first time in his life and makes a desperate plea to [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), who ignores the plea. Characters can escort the burgomaster to the abbey or eavesdrop on the burgomaster's conversation with [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md). If they do, they hear [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) promise "divine retribution" as punishment.
 
-The evening after the burgomaster's visit, [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) releases all the mongrelfolk in the abbey's madhouse (area S15) and sets them on the village. They steal pigs, chickens, and anything else that's edible. None of the villagers are harmed, but their food supplies are depleted, and `2d6` mongrelfolk are killed. The surviving mongrelfolk return to the abbey with their plunder. The burgomaster is so distraught that he hangs himself from the rafters of his cottage a few days later.
+The evening after the burgomaster's visit, [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) releases all the mongrelfolk in the abbey's madhouse (area S15) and sets them on the village. They steal pigs, chickens, and anything else that's edible. None of the villagers are harmed, but their food supplies are depleted, and `2d6` mongrelfolk are killed. The surviving mongrelfolk return to the abbey with their plunder. The burgomaster is so distraught that he hangs himself from the rafters of his cottage a few days later.
 
-The characters can stop all this from happening by delivering the dress to [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md). They can also stop the mayhem by halting the mongrelfolk as they descend from the abbey or by killing [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) beforehand.
+The characters can stop all this from happening by delivering the dress to [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md). They can also stop the mayhem by halting the mongrelfolk as they descend from the abbey or by killing [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) beforehand.
 
 #### Development
 
-If Lydia Petrovna's bridal gown is delivered to [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), he honors whatever deal he made with the characters. If the characters resort to magical trickery (for example, creating an illusory dress), [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) becomes hostile toward them once the deception is revealed.
+If Lydia Petrovna's bridal gown is delivered to [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), he honors whatever deal he made with the characters. If the characters resort to magical trickery (for example, creating an illusory dress), [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) becomes hostile toward them once the deception is revealed.
 
 ### Something Blue
 
-This encounter occurs if the characters bring [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) to Krezk, as the priest [Donavich](/3-Mechanics/CLI/bestiary/npc/donavich-cos.md) suggested (see chapter 3, area E5f).
+This encounter occurs if the characters bring [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md) to Krezk, as the priest [Donavich](/03_Mechanics/CLI/bestiary/npc/donavich-cos.md) suggested (see chapter 3, area E5f).
 
 Ireena hears a gentle voice calling to her. It leads her to the edge of the blessed pool (area S4). If the characters follow her, read:
 
@@ -714,7 +714,7 @@ Whether or not Sergei takes Ireena, Strahd senses that the two have found each o
 > A peal of thunder shakes the land, and the dark clouds coalesce into a terrible visage. A deep, dark voice from beyond the mountains cries out, "She is mine!" A terrible crack resounds as blue lightning splits the sky and strikes the pool.
 ^52d
 
-Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
+Each creature within 15 feet of the pool must make a successful DC 17 Dexterity check or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone). The blast knocks down the old gazebo as well. A creature in the water when the lightning strikes must make a DC 17 Constitution saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
 Strahd's wrath destroys the blessing on the pool, rendering its waters nonmagical and preventing the spirit of Sergei from manifesting in them again.
 

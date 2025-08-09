@@ -51,41 +51,41 @@ Imps without masters delight in manipulating other creatures and inflating their
   - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)),\
   \ passive Perception 11"
 "languages": "Common, Infernal"
 "cr": "1"
 "traits":
-  - "desc": "The imp has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The imp has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing damage\
       \ plus 7 (2d6) Poison damage."
     "name": "Sting"
-  - "desc": "The imp shape-shifts to resemble a rat ([Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "The imp shape-shifts to resemble a rat ([Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
       \ 20 ft.), a raven (20 ft., Fly 60 ft.), or a spider (20 ft., Climb 20 ft.),\
       \ or it returns to its true form. Its statistics are the same in each form,\
-      \ except for its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md). Any\
+      \ except for its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md). Any\
       \ equipment it is wearing or carrying isn't transformed."
     "name": "Shape-Shift"
-  - "desc": "The imp casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
+  - "desc": "The imp casts [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/imp-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/imp-xmm.webp"
 ```
 ^statblock
 

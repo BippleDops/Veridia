@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Orc
 *Source: Player's Handbook (2024) p. 195. Available in the Free Rules (2024)*  
-![](/3-Mechanics/CLI/races/img/orc.webp#right)
+![](/03_Mechanics/CLI/races/img/orc.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -23,17 +23,17 @@ modified: 2025-07-23 12:39
 
 ### Adrenaline Rush
 
-You can take the [Dash](/3-Mechanics/CLI/actions.md#Dash) action as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). When you do so, you gain a number of [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md).
+You can take the [Dash](/03_Mechanics/CLI/actions.md#Dash) action as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). When you do so, you gain a number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
-You can use this trait a number of times equal to your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can use this trait a number of times equal to your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Darkvision
 
-You have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
+You have [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
 
 ### Relentless Endurance
 
-When you are reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) instead. Once you use this trait, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Description
 

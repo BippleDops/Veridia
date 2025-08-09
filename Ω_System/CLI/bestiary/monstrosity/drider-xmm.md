@@ -60,9 +60,9 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+10"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Undercommon"
@@ -71,7 +71,7 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While in sunlight, the drider has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the drider has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -86,14 +86,14 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "Ranged Attack Roll: +6, range 120 ft. Hit: 13 (3d6 + 3) Poison damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/3-Mechanics/CLI/spells/web-xphb.md),\
+  - "desc": "The drider casts [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [Faerie Fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/03_Mechanics/CLI/spells/web-xphb.md),\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"
     "name": "Magic of the Spider Queen (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
 ```
 ^statblock
 

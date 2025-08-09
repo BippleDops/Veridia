@@ -23,7 +23,7 @@ Froghemoths are creatures not of this world. A journal purportedly written long 
 
 Every few years, a froghemoth can lay a fertile egg without mating. The froghemoth cares nothing for its egg and might eat the hatchling. A young froghemoth's survival thus depends on its parent leaving it behind in indifference. A newborn froghemoth grows to full size over a period of months by indiscriminately preying on other creatures in its swampy domain. It learns to hide its enormous body in murky pools, keeping only its eyestalk above water to watch for passing creatures. When food comes within reach, the froghemoth erupts from its pool, tentacles and tongue flailing. It can grab several targets at once; it wraps its tongue around one and pulls it in to be devoured while holding the rest at bay.
 
-If [bullywugs](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
+If [bullywugs](/03_Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) come across a froghemoth, the bullywugs may treat the froghemoth as a god and do all they can to coax the monster into their den. A froghemoth can be tamed (after a fashion) by offering it food, and bullywugs can communicate with it on a basic level, so the creature might eat only a few bullywugs before following the rest. The bullywugs gather food as tribute for it, provide it with a comfortable lair, protect it from harm, and try to ensure that any of its offspring reach maturity.
 
 ```statblock
 "name": "Froghemoth (MPMM)"
@@ -47,9 +47,9 @@ If [bullywugs](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) come acros
   - "constitution": !!int "9"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "fire, lightning"
 "senses": "darkvision 60 ft., passive Perception 19"
@@ -68,20 +68,20 @@ If [bullywugs](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) come acros
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 22\
       \ (3d10 + 6) piercing damage, and the target is swallowed if it is a Medium\
-      \ or smaller creature. A swallowed creature is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [restrained](/3-Mechanics/CLI/conditions.md#Restrained), has total cover\
+      \ or smaller creature. A swallowed creature is [blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ and [restrained](/03_Mechanics/CLI/conditions.md#Restrained), has total cover\
       \ against attacks and other effects outside the froghemoth, and takes 10 (3d6)\
       \ acid damage at the start of each of the froghemoth's turns.\n\nThe froghemoth's\
       \ gullet can hold up to two creatures at a time. If the froghemoth takes 20\
       \ damage or more on a single turn from a creature inside it, the froghemoth\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
-      \ or regurgitate all swallowed creatures, each of which falls [prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ or regurgitate all swallowed creatures, each of which falls [prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed\
-      \ creature is no longer [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ by it and can escape from the corpse using 10 feet of movement, exiting [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ creature is no longer [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ by it and can escape from the corpse using 10 feet of movement, exiting [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
-      \ (3d8 + 6) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (3d8 + 6) bludgeoning damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 16) if it is a Huge or smaller creature. Until the grapple ends,\
       \ the froghemoth can't use this tentacle on another target. The froghemoth has\
       \ four tentacles."
@@ -94,7 +94,7 @@ If [bullywugs](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) come acros
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/froghemoth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/froghemoth-mpmm.webp"
 ```
 ^statblock
 

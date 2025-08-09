@@ -64,34 +64,34 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "5"
 "traits":
-  - "desc": "If the golem takes Fire damage, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "If the golem takes Fire damage, it has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Aversion to Fire"
-  - "desc": "Whenever the golem starts its turn [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+  - "desc": "Whenever the golem starts its turn [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md),\
       \ roll d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
-      \ goes berserk, it remains so until it is destroyed or it is no longer [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md).\n\
+      \ goes berserk, it remains so until it is destroyed or it is no longer [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md).\n\
       \nThe golem's creator, if within 60 feet of the berserk golem, can try to calm\
-      \ it by taking an action to make a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion))\
+      \ it by taking an action to make a DC 15 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion))\
       \ check; the golem must be able to hear its creator. If this check succeeds,\
       \ the golem ceases being berserk until the start of its next turn, at which\
-      \ point it resumes rolling for the Berserk trait again if it is still [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+      \ point it resumes rolling for the Berserk trait again if it is still [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md)."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
   - "desc": "Whenever the golem is subjected to Lightning damage, it regains a number\
-      \ of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to\
+      \ of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to\
       \ the Lightning damage dealt."
     "name": "Lightning Absorption"
-  - "desc": "The golem has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -102,7 +102,7 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
     "name": "Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/flesh-golem-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/flesh-golem-xmm.webp"
 ```
 ^statblock
 

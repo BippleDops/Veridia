@@ -68,23 +68,23 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"
@@ -106,21 +106,21 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
     "name": "Arcane Bolt"
   - "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 16 Intelligence saving throw or take 22\
-      \ (4d8 + 4) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ (4d8 + 4) psychic damage and be [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      At will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
-      \ each: [dominate monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
-      \ [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall\
-      \ of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
+      At will: [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n1/day\
+      \ each: [dominate monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [globe of invulnerability](/03_Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](/03_Mechanics/CLI/spells/modify-memory-xphb.md),\
+      \ [plane shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall\
+      \ of force](/03_Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "The alhoon targets one creature it can see within 60 feet of it that\
@@ -130,7 +130,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp"
 ```
 ^statblock
 

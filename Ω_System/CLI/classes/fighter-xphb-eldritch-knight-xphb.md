@@ -60,17 +60,17 @@ You have learned to cast spells. See "chapter 7" for the rules on spellcasting. 
 
 #### Cantrips
 
-You know two cantrips of your choice from the Wizard spell list (see that class's section for its list). [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md) and [Shocking Grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md) are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
+You know two cantrips of your choice from the Wizard spell list (see that class's section for its list). [Ray of Frost](/03_Mechanics/CLI/spells/ray-of-frost-xphb.md) and [Shocking Grasp](/03_Mechanics/CLI/spells/shocking-grasp-xphb.md) are recommended. Whenever you gain a Fighter level, you can replace one of these cantrips with another cantrip of your choice from the Wizard spell list.
 
 When you reach Fighter level 10, you learn another Wizard cantrip of your choice.
 
 #### Spell Slots
 
-The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+The Eldritch Knight Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 #### Prepared Spells of Level 1+
 
-You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [Burning Hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), and [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) are recommended.
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md), [Jump](/03_Mechanics/CLI/spells/jump-xphb.md), and [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Fighter levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
@@ -84,23 +84,23 @@ Intelligence is your spellcasting ability for your Wizard spells.
 
 #### Spellcasting Focus
 
-You can use an [Arcane Focus](/3-Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](/3-Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
+You can use an [Arcane Focus](/03_Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
 
 ### War Bond (Level 3)
 
-You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a [Short Rest](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md). The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. The bond fails if another Fighter is bonded to the weapon or if the weapon is a magic item to which someone else is attuned.
+You learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a [Short Rest](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md). The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. The bond fails if another Fighter is bonded to the weapon or if the weapon is a magic item to which someone else is attuned.
 
-Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. If it is on the same plane of existence, you can summon that weapon as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), causing it to teleport instantly to your hand.
+Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. If it is on the same plane of existence, you can summon that weapon as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), causing it to teleport instantly to your hand.
 
-You can have up to two bonded weapons, but you can summon only one at a time with a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). If you attempt to bond with a third weapon, you must break the bond with one of the other two.
+You can have up to two bonded weapons, but you can summon only one at a time with a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). If you attempt to bond with a third weapon, you must break the bond with one of the other two.
 
 ### War Magic (Level 7)
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
+When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action.
 
 ### Eldritch Strike (Level 10)
 
-You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next saving throw it makes against a spell you cast before the end of your next turn.
+You learn how to make your weapon strikes undercut a creature's ability to withstand your spells. When you hit a creature with an attack using a weapon, that creature has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next saving throw it makes against a spell you cast before the end of your next turn.
 
 ### Arcane Charge (Level 15)
 
@@ -108,4 +108,4 @@ When you use your Action Surge, you can teleport up to 30 feet to an unoccupied 
 
 ### Improved War Magic (Level 18)
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.
+When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.

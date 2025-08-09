@@ -35,7 +35,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "type": "giant"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "21"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md), [Dual Shields](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[plate](/03_Mechanics/CLI/items/plate-armor-xphb.md), [Dual Shields](/03_Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "187"
 "hit_dice": "15d12 + 90"
 "modifier": !!int "-1"
@@ -52,9 +52,9 @@ When not called on to fight, dreadnoughts maintain their strength by using their
   - "constitution": !!int "11"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+13"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "fire"
 "senses": "passive Perception 15"
@@ -78,12 +78,12 @@ When not called on to fight, dreadnoughts maintain their strength by using their
       \ the space of any creature smaller than Huge. The first time it enters a creature's\
       \ space during this move, that creature must succeed on a DC 21 Strength saving\
       \ throw or take 36 (8d6 + 8) bludgeoning damage plus 14 (4d6) fire damage and\
-      \ be pushed up to 30 feet and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ be pushed up to 30 feet and knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Shield Charge (Recharge 5-6)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp"
 ```
 ^statblock
 

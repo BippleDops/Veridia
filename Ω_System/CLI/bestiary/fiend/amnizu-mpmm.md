@@ -17,7 +17,7 @@ aliases:
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
 
-Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [lemures](/3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md). Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
+Some amnizus perform the critical task of watching over the River Styx from fortresses along the river's blighted banks, where it flows through Dis and Stygia. They collect the souls arriving in the form of [lemures](/03_Mechanics/CLI/bestiary/fiend/lemure-xmm.md). Lemures have no personalities or memories; they're driven only by the desire to commit evil. The amnizus that patrol here drill the rules of the Nine Hells into the new arrivals' minds and marshal them into legions.
 
 ```statblock
 "name": "Amnizu (MPMM)"
@@ -44,17 +44,17 @@ Some amnizus perform the critical task of watching over the River Styx from fort
   - "wisdom": !!int "7"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Common, Infernal, telepathy 1,000 ft."
 "cr": "18"
 "traits":
-  - "desc": "Magical darkness doesn't impede the amnizu's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the amnizu's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The amnizu has advantage on saving throws against spells and other magical\
       \ effects."
@@ -68,23 +68,23 @@ Some amnizus perform the critical task of watching over the River Styx from fort
     "name": "Taskmaster Whip"
   - "desc": "The amnizu targets one or two creatures that it can see within 60 feet\
       \ of it. Each target must succeed on a DC 19 Wisdom saving throw or take 26\
-      \ (4d12) necrotic damage and be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ (4d12) necrotic damage and be [blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
       \ until the start of the amnizu's next turn."
     "name": "Blinding Rot"
   - "desc": "The amnizu targets one creature it can see within 60 feet of it. That\
       \ creature must succeed on a DC 18 Intelligence saving throw or take 26 (4d12)\
-      \ psychic damage and become [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
-      \ for 1 minute. A [stunned](/3-Mechanics/CLI/conditions.md#Stunned) creature\
+      \ psychic damage and become [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
+      \ for 1 minute. A [stunned](/03_Mechanics/CLI/conditions.md#Stunned) creature\
       \ repeats the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success. If the target is [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ on itself on a success. If the target is [stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ for the full minute, it forgets everything it sensed, experienced, and learned\
       \ during the last 5 hours."
     "name": "Forgetfulness (Recharge 6)"
   - "desc": "The amnizu casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 19):\n\n\
-      At will: [command](/3-Mechanics/CLI/spells/command-xphb.md)\n\n3/day:\
-      \ [dominate monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md)\n\n1/day:\
-      \ [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md)"
+      At will: [command](/03_Mechanics/CLI/spells/command-xphb.md)\n\n3/day:\
+      \ [dominate monster](/03_Mechanics/CLI/spells/dominate-monster-xphb.md)\n\n1/day:\
+      \ [feeblemind](/03_Mechanics/CLI/spells/befuddlement-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 60 feet of the amnizu makes an attack roll against\
@@ -98,6 +98,6 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/amnizu-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/amnizu-mpmm.webp"
 ```
 ^statblock

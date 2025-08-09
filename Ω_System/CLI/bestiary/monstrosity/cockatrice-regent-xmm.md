@@ -46,7 +46,7 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "speed": "30 ft., fly 60 ft."
 "saves":
   - "wisdom": !!int "6"
-"condition_immunities": "[petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
+"condition_immunities": "[petrified](/03_Mechanics/CLI/conditions.md#Petrified)"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": ""
 "cr": "8"
@@ -59,11 +59,11 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Piercing damage.\
       \ If the target is a creature, it is subjected to the following effect. Constitution\
-      \ Saving Throw: DC 14. 1st Failure: The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ Saving Throw: DC 14. 1st Failure: The target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](/3-Mechanics/CLI/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. 2nd Failure: The target has the [Petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ [Restrained](/03_Mechanics/CLI/conditions.md#Restrained), ending the effect\
+      \ on itself on a success. 2nd Failure: The target has the [Petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
+      \ condition instead of the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition."
     "name": "Petrifying Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 18 (4d6 + 4) Slashing damage."
@@ -75,7 +75,7 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
     "name": "Magical Backlash"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-regent-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/cockatrice-regent-xmm.webp"
 ```
 ^statblock
 

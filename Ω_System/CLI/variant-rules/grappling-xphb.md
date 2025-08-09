@@ -12,11 +12,11 @@ modified: 2025-07-23 12:39
 # Grappling
 *Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 
-A creature can grapple another creature. Characters typically grapple by using an [Unarmed Strike](/3-Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). Many [monsters](/3-Mechanics/CLI/variant-rules/monster-xphb.md) have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules.
+A creature can grapple another creature. Characters typically grapple by using an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). Many [monsters](/03_Mechanics/CLI/variant-rules/monster-xphb.md) have special attacks that allow them to quickly grapple prey. However a grapple is initiated, it follows these rules.
 
 ## Grappled Condition
 
-Successfully grappling a creature gives it the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition.
+Successfully grappling a creature gives it the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition.
 
 ## One Grapple per Hand
 
@@ -24,6 +24,6 @@ A creature must have a hand free to grapple another creature. Some stat blocks a
 
 ## Ending a Grapple
 
-A Grappled creature can use its action to make a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) on itself on a success. The [condition](/3-Mechanics/CLI/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
+A Grappled creature can use its action to make a Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](/03_Mechanics/CLI/variant-rules/condition-xphb.md) on itself on a success. The [condition](/03_Mechanics/CLI/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range. In addition, the grappler can release the target at any time (no action required).
 
 [[03_Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]

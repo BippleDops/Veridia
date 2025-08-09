@@ -118,30 +118,30 @@ Weapon rack
   - !!int "8"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ adhered to the mimic has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
+      \ [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
     "name": "Adhesive (Object Form Only)"
 "actions":
-  - "desc": "Melee Attack Roll: +5 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
+  - "desc": "Melee Attack Roll: +5 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) by the\
       \ mimic), reach 5 ft. Hit: 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing\
-      \ damage if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage if the target is [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by the mimic—plus 4 (d8) Acid damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Bludgeoning damage\
       \ plus 4 (d8) Acid damage. If the target is a Large or smaller creature, it\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 13). Ability checks made to escape this grapple have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
+      \ has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 13). Ability checks made to escape this grapple have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
     "name": "Pseudopod"
 "bonus_actions":
   - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\
@@ -150,7 +150,7 @@ Weapon rack
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mimic-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/mimic-xmm.webp"
 ```
 ^statblock
 

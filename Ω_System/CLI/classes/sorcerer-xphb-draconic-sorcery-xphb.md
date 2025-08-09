@@ -56,9 +56,9 @@ Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon fac
 
 ### Draconic Resilience (Level 3)
 
-The magic in your body manifests physical traits of your draconic gift. Your [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+The magic in your body manifests physical traits of your draconic gift. Your [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [Armor Class](/03_Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Draconic Spells (Level 3)
 
@@ -68,26 +68,26 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [Chromatic Orb](/3-Mechanics/CLI/spells/chromatic-orb-xphb.md), [Command](/3-Mechanics/CLI/spells/command-xphb.md), [Dragon's Breath](/3-Mechanics/CLI/spells/dragons-breath-xphb.md) |
-| 5th | [Fear](/3-Mechanics/CLI/spells/fear-xphb.md), [Fly](/3-Mechanics/CLI/spells/fly-xphb.md) |
-| 7th | [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [Charm Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md) |
-| 9th | [Legend Lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md), [Summon Dragon](/3-Mechanics/CLI/spells/summon-dragon-xphb.md) |
+| 3rd | [Alter Self](/03_Mechanics/CLI/spells/alter-self-xphb.md), [Chromatic Orb](/03_Mechanics/CLI/spells/chromatic-orb-xphb.md), [Command](/03_Mechanics/CLI/spells/command-xphb.md), [Dragon's Breath](/03_Mechanics/CLI/spells/dragons-breath-xphb.md) |
+| 5th | [Fear](/03_Mechanics/CLI/spells/fear-xphb.md), [Fly](/03_Mechanics/CLI/spells/fly-xphb.md) |
+| 7th | [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md), [Charm Monster](/03_Mechanics/CLI/spells/charm-monster-xphb.md) |
+| 9th | [Legend Lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md), [Summon Dragon](/03_Mechanics/CLI/spells/summon-dragon-xphb.md) |
 ^draconic-spells
 
 ### Elemental Affinity (Level 6)
 
 Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
 ### Dragon Wings (Level 14)
 
-As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 60 feet.
+As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
 ### Dragon Companion (Level 18)
 
-You can cast [Summon Dragon](/3-Mechanics/CLI/spells/summon-dragon-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can cast [Summon Dragon](/03_Mechanics/CLI/spells/summon-dragon-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/3-Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/03_Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.

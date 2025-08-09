@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Elf
 *Source: Player's Handbook (2024) p. 189. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
-![](/3-Mechanics/CLI/races/img/elf.webp#right)
+![](/03_Mechanics/CLI/races/img/elf.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -24,13 +24,13 @@ modified: 2025-07-23 12:39
 
 ### Darkvision
 
-You have [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet.
+You have [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet.
 
 ### Elven Lineage
 
 You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also cast the spell using any spell slots you have of the appropriate level.
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also cast the spell using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
@@ -38,22 +38,22 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your Darkvision increases to 120 feet. You also know the [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip. | [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md) | [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md) |
-| High Elf | You know the [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) | [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md) |
-| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. | [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md) | [Pass without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md) |
+| Drow | The range of your Darkvision increases to 120 feet. You also know the [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip. | [Faerie Fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md) | [Darkness](/03_Mechanics/CLI/spells/darkness-xphb.md) |
+| High Elf | You know the [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) | [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md) |
+| Wood Elf | Your Speed increases to 35 feet. You also know the [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. | [Longstrider](/03_Mechanics/CLI/spells/longstrider-xphb.md) | [Pass without Trace](/03_Mechanics/CLI/spells/pass-without-trace-xphb.md) |
 ^elven-lineages
 
 ### Fey Ancestry
 
-You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition.
+You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition.
 
 ### Keen Senses
 
-You have proficiency in the [Insight](/3-Mechanics/CLI/skills.md#Insight), [Perception](/3-Mechanics/CLI/skills.md#Perception), or [Survival](/3-Mechanics/CLI/skills.md#Survival) skill.
+You have proficiency in the [Insight](/03_Mechanics/CLI/skills.md#Insight), [Perception](/03_Mechanics/CLI/skills.md#Perception), or [Survival](/03_Mechanics/CLI/skills.md#Survival) skill.
 
 ### Trance
 
-You don't need to sleep, and magic can't put you to sleep. You can finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+You don't need to sleep, and magic can't put you to sleep. You can finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 ## Description
 
@@ -78,4 +78,4 @@ High elves have been infused with the magic of crossings between the Feywild and
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
 
-![A ship departs from a city built by high elves](/3-Mechanics/CLI/races/img/148-05-022-elf-city.webp#center)
+![A ship departs from a city built by high elves](/03_Mechanics/CLI/races/img/148-05-022-elf-city.webp#center)

@@ -15,12 +15,12 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Seeker Dart
-*Weapon ([dart](/3-Mechanics/CLI/items/dart-xphb.md)), uncommon*  
+*Weapon ([dart](/03_Mechanics/CLI/items/dart-xphb.md)), uncommon*  
 
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 This small dart is decorated with designs like windy spirals that span the length of its shaft.

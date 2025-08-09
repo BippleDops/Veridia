@@ -68,39 +68,39 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [Ensnaring Strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md), [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md) |
-| 5th | [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md), [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md) |
-| 9th | [Plant Growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md), [Protection from Energy](/3-Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 13th | [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md), [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md) |
-| 17th | [Commune with Nature](/3-Mechanics/CLI/spells/commune-with-nature-xphb.md), [Tree Stride](/3-Mechanics/CLI/spells/tree-stride-xphb.md) |
+| 3rd | [Ensnaring Strike](/03_Mechanics/CLI/spells/ensnaring-strike-xphb.md), [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md) |
+| 5th | [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md), [Moonbeam](/03_Mechanics/CLI/spells/moonbeam-xphb.md) |
+| 9th | [Plant Growth](/03_Mechanics/CLI/spells/plant-growth-xphb.md), [Protection from Energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 13th | [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md), [Stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md) |
+| 17th | [Commune with Nature](/03_Mechanics/CLI/spells/commune-with-nature-xphb.md), [Tree Stride](/03_Mechanics/CLI/spells/tree-stride-xphb.md) |
 ^oath-of-the-ancients-spells
 
 ### Nature's Wrath (Level 3)
 
-As a [Magic](/3-Mechanics/CLI/actions.md#Magic) action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition for 1 minute. A [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can expend one use of your Channel Divinity to conjure spectral vines around nearby creatures. Each creature of your choice that you can see within 15 feet of yourself must succeed on a Strength saving throw or have the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) condition for 1 minute. A [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Aura of Warding (Level 7)
 
-Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
+Ancient magic lies so heavily upon you that it forms an eldritch ward, blunting energy from beyond the Material Plane; you and your allies have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Necrotic, Psychic, and Radiant damage while in your Aura of Protection.
 
 ### Undying Sentinel (Level 15)
 
-When you are reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+When you are reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to three times your Paladin level. Once you use this feature, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 Additionally, you can't be aged magically, and you cease visibly aging.
 
 ### Elder Champion (Level 20)
 
-As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can imbue your Aura of Protection with primal power, granting the benefits below for 1 minute or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
 
 #### Diminish Defiance
 
-Enemies in the aura have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saving throws against your spells and Channel Divinity options.
+Enemies in the aura have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saving throws against your spells and Channel Divinity options.
 
 #### Regeneration
 
-At the start of each of your turns, you regain 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).
+At the start of each of your turns, you regain 10 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 #### Swift Spells
 
-Whenever you cast a spell that has a casting time of an action, you can cast it using a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) instead.
+Whenever you cast a spell that has a casting time of an action, you can cast it using a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) instead.

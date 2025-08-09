@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Belt of Stone Giant Strength
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/belt-of-giant-strength-stone.webp#right)
+![](/03_Mechanics/CLI/items/img/belt-of-giant-strength-stone.webp#right)
 
 
 While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

@@ -12,7 +12,7 @@ formulas:
     };
     const rarity = target.rarity || 'Common';
     const color = rarityColors[rarity] || '#808080';
-    const imagePath = target.image_path || `z_Assets/Placeholder Images/Item_${target.type || 'Generic'}.png`;
+    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/Item_${target.type || 'Generic'}.png`;
     return `<div style="border: 3px solid ${color}; padding: 2px; display: inline-block;">![[${imagePath}|100]]</div>`;
   
   # Item tooltip
@@ -51,11 +51,11 @@ formulas:
     return props.length > 0 ? props.join(", ") : "No magical properties";
 
 views:
-  - type: gallery
+  - type: cards
     name: Item Gallery
     filters:
       and:
-        - folder.startsWith("3-Mechanics/Items")
+        - folder startsWith "03_Mechanics/Items"
     columns: 5
     properties:
       - formula.ItemImage
@@ -98,7 +98,7 @@ views:
       and:
         - rarity
         - not:
-            - rarity.equals("Common")
+            - rarity == "Common"
     columns: 3
     properties:
       - formula.ItemImage

@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Longbow
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/longbow.webp#right)
+![](/03_Mechanics/CLI/items/img/longbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 50 gp
 - **Weight**: 2.0 lbs.
 

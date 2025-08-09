@@ -30,7 +30,7 @@ modified: 2025-07-23 12:39
 You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([20,000 GP](/3-Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
+> ([20,000 GP](/03_Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
 
 **Variants**:
 - [+3 Arrow](#+3%20Arrow)

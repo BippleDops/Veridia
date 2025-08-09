@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Wand of Polymorph
 *Wand, very rare (requires attunement by a spellcaster)*  
-![](/3-Mechanics/CLI/items/img/wand-of-polymorph.webp#right)
+![](/03_Mechanics/CLI/items/img/wand-of-polymorph.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend 1 charge to cast [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md) (save DC 15) from it.
+This wand has 7 charges. While holding it, you can expend 1 charge to cast [Polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md) (save DC 15) from it.
 
 ## Regaining Charges
 

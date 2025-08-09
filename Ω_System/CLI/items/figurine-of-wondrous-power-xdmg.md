@@ -19,14 +19,14 @@ modified: 2025-07-23 12:39
 
 **Items in this group:**
 
-- [Figurine of Wondrous Power, Bronze Griffon](/3-Mechanics/CLI/items/figurine-of-wondrous-power-bronze-griffon-xdmg.md)
-- [Figurine of Wondrous Power, Ebony Fly](/3-Mechanics/CLI/items/figurine-of-wondrous-power-ebony-fly-xdmg.md)
-- [Figurine of Wondrous Power, Golden Lions](/3-Mechanics/CLI/items/figurine-of-wondrous-power-golden-lions-xdmg.md)
-- [Figurine of Wondrous Power, Ivory Goats](/3-Mechanics/CLI/items/figurine-of-wondrous-power-ivory-goats-xdmg.md)
-- [Figurine of Wondrous Power, Marble Elephant](/3-Mechanics/CLI/items/figurine-of-wondrous-power-marble-elephant-xdmg.md)
-- [Figurine of Wondrous Power, Obsidian Steed](/3-Mechanics/CLI/items/figurine-of-wondrous-power-obsidian-steed-xdmg.md)
-- [Figurine of Wondrous Power, Onyx Dog](/3-Mechanics/CLI/items/figurine-of-wondrous-power-onyx-dog-xdmg.md)
-- [Figurine of Wondrous Power, Serpentine Owl](/3-Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl-xdmg.md)
-- [Figurine of Wondrous Power, Silver Raven](/3-Mechanics/CLI/items/figurine-of-wondrous-power-silver-raven-xdmg.md)
+- [Figurine of Wondrous Power, Bronze Griffon](/03_Mechanics/CLI/items/figurine-of-wondrous-power-bronze-griffon-xdmg.md)
+- [Figurine of Wondrous Power, Ebony Fly](/03_Mechanics/CLI/items/figurine-of-wondrous-power-ebony-fly-xdmg.md)
+- [Figurine of Wondrous Power, Golden Lions](/03_Mechanics/CLI/items/figurine-of-wondrous-power-golden-lions-xdmg.md)
+- [Figurine of Wondrous Power, Ivory Goats](/03_Mechanics/CLI/items/figurine-of-wondrous-power-ivory-goats-xdmg.md)
+- [Figurine of Wondrous Power, Marble Elephant](/03_Mechanics/CLI/items/figurine-of-wondrous-power-marble-elephant-xdmg.md)
+- [Figurine of Wondrous Power, Obsidian Steed](/03_Mechanics/CLI/items/figurine-of-wondrous-power-obsidian-steed-xdmg.md)
+- [Figurine of Wondrous Power, Onyx Dog](/03_Mechanics/CLI/items/figurine-of-wondrous-power-onyx-dog-xdmg.md)
+- [Figurine of Wondrous Power, Serpentine Owl](/03_Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl-xdmg.md)
+- [Figurine of Wondrous Power, Silver Raven](/03_Mechanics/CLI/items/figurine-of-wondrous-power-silver-raven-xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

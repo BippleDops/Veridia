@@ -43,7 +43,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+3"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "Abyssal"
@@ -52,9 +52,9 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - "desc": "When the xvart reduces an enemy to 0 hit points, the xvart gains 4 temporary\
       \ hit points."
     "name": "Raxivort's Blessing"
-  - "desc": "The xvart can communicate with ordinary [bats](/3-Mechanics/CLI/bestiary/beast/bat-xmm.md)\
-      \ and [rats](/3-Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant\
-      \ bats](/3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) and [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](/03_Mechanics/CLI/bestiary/beast/bat-xmm.md)\
+      \ and [rats](/03_Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant\
+      \ bats](/03_Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) and [giant rats](/03_Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
     "name": "Raxivort's Tongue"
 "actions":
   - "desc": "The xvart makes two Scimitar or Raxivort's Bite attacks."
@@ -67,20 +67,20 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     "name": "Raxivort's Bite"
   - "desc": "The xvart casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 11):\n\nAt\
-      \ will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [mage\
-      \ armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n1/day each: [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
+      \ will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [mage\
+      \ armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n1/day each: [burning hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The xvart takes the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)\
+  - "desc": "The xvart takes the [Disengage](/03_Mechanics/CLI/actions.md#Disengage)\
       \ action."
     "name": "Low Cunning"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/xvart-warlock-of-raxivort-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/xvart-warlock-of-raxivort-mpmm.webp"
 ```
 ^statblock
 

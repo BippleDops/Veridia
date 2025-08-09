@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Blowgun
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/blowgun.webp#right)
+![](/03_Mechanics/CLI/items/img/blowgun.webp#right)
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
 

@@ -61,25 +61,25 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
   - !!int "18"
 "speed": "30 ft., fly 60 ft. (hover)"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Abyssal, Infernal; telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "If the ultroloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The ultroloth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The ultroloth has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -89,29 +89,29 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
       \ and the ultroloth can teleport the target up to 10 feet to an unoccupied space\
       \ the ultroloth can see that isn't in the air."
     "name": "Mercurial Whip"
-  - "desc": "Wisdom Saving Throw: DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: 10 (3d6) Psychic damage, and the target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+  - "desc": "Wisdom Saving Throw: DC 17, each creature in a 30-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 10 (3d6) Psychic damage, and the target has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned)\
       \ condition until the start of the ultroloth's next turn. Success: The target\
       \ is immune to this ultroloth's Hypnotic Gaze for 24 hours."
     "name": "Hypnotic Gaze"
   - "desc": "The ultroloth casts one of the following spells, requiring no Material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md),\
-      \ [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\
-      \n1/day each: [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) (level 5 version), [Wall\
-      \ of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)"
+      \ DC 17):\n\nAt will: [Alter Self](/03_Mechanics/CLI/spells/alter-self-xphb.md),\
+      \ [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md), [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md)\n\
+      \n1/day each: [Dimension Door](/03_Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) (level 5 version), [Wall\
+      \ of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The ultroloth casts [Dispel Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only),\
-      \ [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md), or [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md),\
+  - "desc": "The ultroloth casts [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (self only),\
+      \ [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md), or [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md),\
       \ requiring no Material components and using the same spellcasting ability as\
       \ Spellcasting.\n"
     "name": "Fiendish Guile (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/ultroloth-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/ultroloth-xmm.webp"
 ```
 ^statblock
 

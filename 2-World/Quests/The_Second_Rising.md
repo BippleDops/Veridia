@@ -7,7 +7,7 @@ quest_start: 2025-08-10
 deadline: 2025-09-10
 completion_date: 
 reward: "10000gp + Blessing of the Depths + Surface/Depth Citizenship"
-location: "[[02_Worldbuilding/Aquathys/Aquathys_Overview]]"
+location: "[[2-World/Lore/Aquathys/Aquathys_Overview]]"
 quest_image: "Ω_Assets/quests/second-rising.png"
 related_npcs:
   - "[[High Tidecaller Nerissa]]"

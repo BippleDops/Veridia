@@ -25,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](/03_Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "117"
 "hit_dice": "18d8 + 36"
 "modifier": !!int "2"
@@ -40,8 +40,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Auran, one language of its creator's choice"
 "cr": "7"
@@ -53,12 +53,12 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     "name": "Flail"
   - "desc": "The myrmidon makes one Flail attack. On a hit, the target takes an extra\
       \ 18 (4d8) lightning damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until\
+      \ saving throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until\
       \ the end of the myrmidon's next turn."
     "name": "Lightning Strike (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/air-elemental-myrmidon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/air-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

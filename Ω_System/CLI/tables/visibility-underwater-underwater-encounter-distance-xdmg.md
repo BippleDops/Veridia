@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 
 | Visibility | Encounter Distance |
 |------------|--------------------|
-| Clear water, [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) | 60 feet |
-| Clear water, [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) | 30 feet |
-| Murky water or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) | 10 feet |
+| Clear water, [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) | 60 feet |
+| Clear water, [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) | 30 feet |
+| Murky water or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md) | 10 feet |
 ^underwater-encounter-distance

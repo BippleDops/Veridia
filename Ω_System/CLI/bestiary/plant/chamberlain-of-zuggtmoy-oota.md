@@ -43,7 +43,7 @@ aliases:
     "name": "Mushroom Portal"
   - "desc": "Whenever the chamberlain takes damage, it releases a cloud of spores.\
       \ Creatures within 5 feet of the chamberlain when this happens must succeed\
-      \ on a DC 12 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 12 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on a success."
     "name": "Poison Spores"
@@ -70,6 +70,6 @@ aliases:
     "name": "Infestation Spores (1/Day)"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/chamberlain-of-zuggtmoy-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/chamberlain-of-zuggtmoy-oota.webp"
 ```
 ^statblock

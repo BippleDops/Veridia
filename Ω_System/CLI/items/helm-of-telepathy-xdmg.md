@@ -15,9 +15,9 @@ modified: 2025-07-23 12:39
 ---
 # Helm of Telepathy
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/helm-of-telepathy.webp#right)
+![](/03_Mechanics/CLI/items/img/helm-of-telepathy.webp#right)
 
 
-While wearing this helm, you have telepathy with a range of 30 feet, and you can cast [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) or [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) (save DC 13) from the helm. Once either spell is cast from the helm, that spell can't be cast from it again until the next dawn.
+While wearing this helm, you have telepathy with a range of 30 feet, and you can cast [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md) or [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md) (save DC 13) from the helm. Once either spell is cast from the helm, that spell can't be cast from it again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

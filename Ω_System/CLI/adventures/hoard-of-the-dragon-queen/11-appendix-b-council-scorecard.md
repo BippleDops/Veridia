@@ -24,14 +24,14 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | +/+ | +/+ | + | + | +/+ | + | + | +/+ | + | + | Kept possession of Skyreach Castle |
 | + | + | + | + | + | -/- | + | + | + | + | Skyreach Castle returned to giants |
-|  | + |  |  |  | + |  | + |  | + | [Ontharr Frume](/3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) supports characters* |
-| + |  |  | + |  |  |  |  | + | + | [Leosin Erlanthar](/3-Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md) supports characters* |
+|  | + |  |  |  | + |  | + |  | + | [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) supports characters* |
+| + |  |  | + |  |  |  |  | + | + | [Leosin Erlanthar](/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md) supports characters* |
 | — | + | — |  | — | + | + | + |  | + | Smashed dragon hatchery* |
 | + | — | + | + | + | — | — | — |  | — | Left dragon hatchery intact |
-| + | + | + | + | + | + | + | + | + | + | Killed [Rezmir](/3-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)* |
-| + | + | + | + | + | + | + | + | + | + | Captured [Rezmir](/3-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) |
-| — | + | + | + | + | + | + | + | + | + | Killed [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) |
-| + | + | + | + | + | + | + | + | + | + | Captured [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) |
+| + | + | + | + | + | + | + | + | + | + | Killed [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md)* |
+| + | + | + | + | + | + | + | + | + | + | Captured [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) |
+| — | + | + | + | + | + | + | + | + | + | Killed [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) |
+| + | + | + | + | + | + | + | + | + | + | Captured [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) |
 ^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Second Council

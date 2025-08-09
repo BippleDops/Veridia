@@ -49,14 +49,14 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "constitution": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold, necrotic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Common plus one language spoken by its master"
 "cr": "12"
@@ -73,7 +73,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "desc": "Melee Weapon Attack: +8 to hit, reach 15 ft., one target. Hit: 20\
       \ (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target is\
       \ a creature, the boneclaw can pull the target up to 10 feet toward itself,\
-      \ and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape\
+      \ and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled) (escape\
       \ DC 14). The boneclaw has two claws. While a claw grapples a target, the claw\
       \ can attack only that target."
     "name": "Piercing Claw"
@@ -86,7 +86,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
       \ be in dim light or darkness."
     "name": "Shadow Jump (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the boneclaw takes the [Hide](/3-Mechanics/CLI/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the boneclaw takes the [Hide](/03_Mechanics/CLI/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "reactions":
@@ -96,7 +96,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp"
 ```
 ^statblock
 

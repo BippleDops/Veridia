@@ -12,11 +12,11 @@ modified: 2025-07-23 12:39
 # Chapter 14: Metallic Dragons, Arise
 *Source: Rise of Tiamat, p. 144* 
 
-![](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/020-tod-14-01.webp#center)
+![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/020-tod-14-01.webp#center)
 
-When the Cult of the Dragon sounded the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md), its tremors were felt across the North. In response, many metallic dragons began to investigate what the sounding meant, and to gather what information they could on the cult from nearby humanoid cultures.
+When the Cult of the Dragon sounded the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md), its tremors were felt across the North. In response, many metallic dragons began to investigate what the sounding meant, and to gather what information they could on the cult from nearby humanoid cultures.
 
-One of those dragons, an ancient gold wyrm named Protanther, invoked an ancient draconic rite of council, summoning ambassadors from among the metallic dragons. Meeting in the Nether Mountains, the council will determine what metallic dragons should do in the face of the looming threat of [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md).
+One of those dragons, an ancient gold wyrm named Protanther, invoked an ancient draconic rite of council, summoning ambassadors from among the metallic dragons. Meeting in the Nether Mountains, the council will determine what metallic dragons should do in the face of the looming threat of [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md).
 
 The council includes representatives from each of the five metallic dragon races, who will spread word to their fellows of the council's decision. Of specific importance to the factions of Waterdeep is the question of whether the dragons should aid the civilized humanoid races in their fight against the cult, or whether they will act on their own.
 
@@ -38,7 +38,7 @@ The journey takes the characters through areas suffering under the cult's attack
 
 Five ancient dragons make up the council charged with deciding their metallic kin's response to the cult. Though they are not necessarily the wisest or most powerful specimens of dragonkind, all are well respected. Any decision made by these dragon councilors will be accepted by the metallic dragons as a whole.
 
-The dragons have no need to judge the different factions of the Sword Coast, for they know of their reputations and actions already. The dragons' attitudes are effectively fixed in that regard. However, they know also that among all the humanoid races, leaders often determine the character of societies. Though they understand that the adventurers are not the nominal leaders of any faction, the dragons already know that the heroes' actions have set the course of the factions' battle against [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md). As such, if the dragons side with the humanoids, it will be as a statement of personal faith in the party—and in the party's ability to bring all the factions into the fight.
+The dragons have no need to judge the different factions of the Sword Coast, for they know of their reputations and actions already. The dragons' attitudes are effectively fixed in that regard. However, they know also that among all the humanoid races, leaders often determine the character of societies. Though they understand that the adventurers are not the nominal leaders of any faction, the dragons already know that the heroes' actions have set the course of the factions' battle against [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md). As such, if the dragons side with the humanoids, it will be as a statement of personal faith in the party—and in the party's ability to bring all the factions into the fight.
 
 ### Attitudes
 
@@ -54,7 +54,7 @@ See "Chapter 9:Council of Waterdeep" for information on the effects of the conce
 
 Protanther is the leader of the council. A former King of Justice—a royal title among the gold dragons—he does not care for humanoids, particularly humans and elves. Though he sees both good and bad in the lesser races, he believes that their capacity for attaining great power despite their physical limitations makes them dangerous. For all their capability, humanoids have little time to learn the wisdom to direct that capability.
 
-The gold dragon knows that many of the world's most blighted creatures descend from humans who bargained with dark forces for power, including yuan-ti and tieflings. He considers the cycle of failed human civilizations across Faerûn as a sign of a quintessential flaw in human nature. Moreover, he is quick to point out that humans make up the majority of evil archmages and liches—including Sammaster, who founded the Cult of the Dragon, and Szass Tam's Red Wizards. Even the current leader of the Cult of the Dragon, [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md), and a majority of the cult's members are human.
+The gold dragon knows that many of the world's most blighted creatures descend from humans who bargained with dark forces for power, including yuan-ti and tieflings. He considers the cycle of failed human civilizations across Faerûn as a sign of a quintessential flaw in human nature. Moreover, he is quick to point out that humans make up the majority of evil archmages and liches—including Sammaster, who founded the Cult of the Dragon, and Szass Tam's Red Wizards. Even the current leader of the Cult of the Dragon, [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md), and a majority of the cult's members are human.
 
 Protanther can at least appreciate that the crimes of the humanoid races are usually directed against each other. He knows that the short lives of many humanoids means they might not even recognize their own evil. The elves, however, live for long years and possess great knowledge—and have used that knowledge to the detriment of dragonkind in the past. It was the elves who shaped the magic of the *Dracorage mythal*, causing dragons across Faerûn to go mad with rage. Convincing Protanther to trust humanoid factions that include elves is a difficult task.
 
@@ -110,7 +110,7 @@ Otaaryliakkarnos would like the metallic dragons to strike now as Protanther sug
 
 Otaaryliakkarnos knows that the skin of her slain kin was used to make armor for the dwarf lord who slew her. She demands the remains be returned and that Ambassador Brawnanvil make an apology on behalf of all dwarves for the wrongful deaths the Dragonmoots have caused.
 
-![The Draakhorn](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/021-tod-14-02.webp#center)
+![The Draakhorn](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/021-tod-14-02.webp#center)
 
 ### Nymmurh
 
@@ -136,7 +136,7 @@ Nymmurh needs no concession unless the characters have somehow offended him. In 
 
 *Female Copper Dragon*
 
-Tazmikella is fond of humans and has spent a great deal of time living among them, but she has reservations about supporting the factions. Her lair and hoard have been the target of cunning thieves and fast-talking swindlers more than once, and she perceives betrayal as a humanoid trait. She fears what might happen if one or more factions turn against the metallic dragons to demonstrate loyalty to [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md).
+Tazmikella is fond of humans and has spent a great deal of time living among them, but she has reservations about supporting the factions. Her lair and hoard have been the target of cunning thieves and fast-talking swindlers more than once, and she perceives betrayal as a humanoid trait. She fears what might happen if one or more factions turn against the metallic dragons to demonstrate loyalty to [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md).
 
 The copper dragon also believes that unrestricted interaction between humanoids and dragons has been disastrous for both races. The *Dracorage mythal* serves as a sore reminder of the animosity that has often arisen between the two peoples.
 
@@ -150,11 +150,11 @@ Neutral. If any character is a dragonborn, Tazmikella is instead cautious. If th
 
 #### Concession
 
-Pick one magic item owned by a member of the party, and which was found during a previous adventure. That item turns out to have once belonged to Tazmikella, and was part of a hoard she took from an ancient black dragon she defeated. ([Legend lore](/3-Mechanics/CLI/spells/legend-lore-xphb.md) or similar magic used on the item confirms this story.) The item holds sentimental value to her—or it did until a thief stole it from her hoard. Returning the item to her with an apology improves Tazmikella's attitude.
+Pick one magic item owned by a member of the party, and which was found during a previous adventure. That item turns out to have once belonged to Tazmikella, and was part of a hoard she took from an ancient black dragon she defeated. ([Legend lore](/03_Mechanics/CLI/spells/legend-lore-xphb.md) or similar magic used on the item confirms this story.) The item holds sentimental value to her—or it did until a thief stole it from her hoard. Returning the item to her with an apology improves Tazmikella's attitude.
 
 > [!note] A Relic for Just Such an Occasion
 > 
-> Metallic dragons are known to bestow magic and treasure from their hoards to help heroes from time to time. If the characters do an excellent job impressing the dragons—for example, bringing all five dragons up to an attitude of friendly—or if they roleplayed the encounter well, the council dragons might grant one or more characters with a token of their esteem. This is likely a set of 3 [arrows of slaying (dragons)](/3-Mechanics/CLI/items/ammunition-of-slaying-xdmg.md), or [armor of resistance (lightning)](/3-Mechanics/CLI/items/armor-of-resistance-xdmg.md). Either will prove useful against the cult, especially if the characters have yet to play through chapter 15. Tazmikella can even return the item the characters gave to her as a concession. (She does not covet it when it might do others good, but simply resents having had it stolen.)
+> Metallic dragons are known to bestow magic and treasure from their hoards to help heroes from time to time. If the characters do an excellent job impressing the dragons—for example, bringing all five dragons up to an attitude of friendly—or if they roleplayed the encounter well, the council dragons might grant one or more characters with a token of their esteem. This is likely a set of 3 [arrows of slaying (dragons)](/03_Mechanics/CLI/items/ammunition-of-slaying-xdmg.md), or [armor of resistance (lightning)](/03_Mechanics/CLI/items/armor-of-resistance-xdmg.md). Either will prove useful against the cult, especially if the characters have yet to play through chapter 15. Tazmikella can even return the item the characters gave to her as a concession. (She does not covet it when it might do others good, but simply resents having had it stolen.)
 ^a-relic-for-just-such-an-occasion
 
 ### General Concessions
@@ -163,7 +163,7 @@ The party can make general concessions to the dragons to appease them as a group
 
 #### Wealth
 
-Even good dragons love treasure, and bestowing a share of the hoard the cult has collected for [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md) goes a long way toward improving the attitudes of the council dragons. The party can effectively treat the dragons as another faction receiving an equal portion of the hoard, granting one share of the total treasure divided among eleven factions. Doing so improves the attitude of a single dragon by one step. For every additional share the dragons are promised (two shares among twelve factions, three shares among thirteen factions, and so on), the party improves the attitude of another dragon by one step.
+Even good dragons love treasure, and bestowing a share of the hoard the cult has collected for [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md) goes a long way toward improving the attitudes of the council dragons. The party can effectively treat the dragons as another faction receiving an equal portion of the hoard, granting one share of the total treasure divided among eleven factions. Doing so improves the attitude of a single dragon by one step. For every additional share the dragons are promised (two shares among twelve factions, three shares among thirteen factions, and so on), the party improves the attitude of another dragon by one step.
 
 The attitude of the dragons is improved by wealth in the following order: Tazmikella, Otaaryliakkarnos, Ileuthra, Protanther, and Nymmurh. Promising one-third (five shares among fifteen factions) or more of the treasure improves the attitude of all five dragons.
 
@@ -171,7 +171,7 @@ The attitude of the dragons is improved by wealth in the following order: Tazmik
 
 The dragons do not prompt the party with options, but the characters can potentially sway them with other offers. Reward player ingenuity for options such as the following:
 
-- Promise to turn over [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) as a prisoner if captured, or to deliver his body to the dragons if slain  
+- Promise to turn over [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) as a prisoner if captured, or to deliver his body to the dragons if slain  
 - Consecrating a major monastery or temple to Bahamut  
 - Dedicating a historical plot of land as belonging to the dragons  
 

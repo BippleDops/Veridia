@@ -49,9 +49,9 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
   - !!int "3"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
@@ -68,14 +68,14 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
       \ + 2) piercing damage plus 4 (d8) poison damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one Small or Tiny creature.\
-      \ Hit: The target is stuck to the steeder's leg and [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 12). The steeder can have only one creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ Hit: The target is stuck to the steeder's leg and [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 12). The steeder can have only one creature [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ at a time."
     "name": "Sticky Leg"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/male-steeder-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/male-steeder-mpmm.webp"
 ```
 ^statblock
 

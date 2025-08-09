@@ -25,7 +25,7 @@ aliases:
 
 Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed canines ambush creatures they perceive as weaker than themselves, favoring the wounded or infirm. They attack recklessly, infecting as many creatures as possible with their diseased jaws. If driven off, death dogs linger close to their victims, letting infection weaken their prey before they attack again.
 
-Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition from a death dog's Bite.
+Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
 > 
@@ -63,13 +63,13 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": ""
 "cr": "1"
@@ -78,18 +78,18 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Piercing damage.\
       \ If the target is a creature, it is subjected to the following effect. Constitution\
-      \ Saving Throw: DC 12. 1st Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the\
-      \ target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
-      \ doesn't return to normal when finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ Saving Throw: DC 12. 1st Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), the\
+      \ target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ doesn't return to normal when finishing a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md),\
       \ and it repeats the save every 24 hours that elapse, ending the effect on itself\
-      \ on a success. Subsequent Failures: The [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
+      \ on a success. Subsequent Failures: The [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum\
       \ decreases by 5 (d10)."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/death-dog-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/death-dog-xmm.webp"
 ```
 ^statblock
 

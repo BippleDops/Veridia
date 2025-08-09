@@ -31,8 +31,8 @@ aliases:
   - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
 "traits":
@@ -52,6 +52,6 @@ aliases:
     "name": "Breath Weapon"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
 ```
 ^statblock

@@ -30,10 +30,10 @@ When you issue the "Harvest" order to this facility, you commission the facility
 
 | Garden Type | Description | Harvest |
 |-------------|-------------|---------|
-| Decorative | Aesthetically pleasing garden full of flowers and topiaries. | Ten exquisite floral bouquets (worth 5 GP each), ten vials of [Perfume](/3-Mechanics/CLI/items/perfume-xphb.md), or ten [Candles](/3-Mechanics/CLI/items/candle-xphb.md) |
-| Food | Garden of delicious mushrooms or vegetables | 100 days worth of [Rations](/3-Mechanics/CLI/items/rations-xphb.md) |
-| Herb | Garden of rare herbs, some of which have medicinal uses | Herbs that are used to create either ten [Healer's Kits](/3-Mechanics/CLI/items/healers-kit-xphb.md) or one [Potion of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) |
-| Poison | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of [Antitoxin](/3-Mechanics/CLI/items/antitoxin-xphb.md) or one vial of [Basic Poison](/3-Mechanics/CLI/items/basic-poison-xphb.md) |
+| Decorative | Aesthetically pleasing garden full of flowers and topiaries. | Ten exquisite floral bouquets (worth 5 GP each), ten vials of [Perfume](/03_Mechanics/CLI/items/perfume-xphb.md), or ten [Candles](/03_Mechanics/CLI/items/candle-xphb.md) |
+| Food | Garden of delicious mushrooms or vegetables | 100 days worth of [Rations](/03_Mechanics/CLI/items/rations-xphb.md) |
+| Herb | Garden of rare herbs, some of which have medicinal uses | Herbs that are used to create either ten [Healer's Kits](/03_Mechanics/CLI/items/healers-kit-xphb.md) or one [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) |
+| Poison | Garden stocked with plants and fungi from which poisons and antitoxin can be extracted | Plants that are used to create either two vials of [Antitoxin](/03_Mechanics/CLI/items/antitoxin-xphb.md) or one vial of [Basic Poison](/03_Mechanics/CLI/items/basic-poison-xphb.md) |
 ^garden-types
 
 ## Enlarging the Facility

@@ -26,7 +26,7 @@ aliases:
 
 Ravenous corpse eaters, carrion crawlers gravitate toward places of slaughter and decay. In such charnel environs, they feast on the dead with no qualms about their meals' origins or freshness.
 
-Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) and consumed.
+Carrion crawlers have segmented bodies like gigantic cutworms. From beneath their multipart maws protrude eight thin, lashing tentacles. Creatures struck by these tentacles risk being [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) and consumed.
 
 Carrion crawlers scour sewers, battlefields, necropolises, and fetid wildernesses for corpses, clinging to ceilings to ambush smaller prey and to avoid competing hunters. They're drawn to light and the scent of blood, recognizing them as signs of food.
 
@@ -50,7 +50,7 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
@@ -66,15 +66,15 @@ These scavengers avoid ingesting inorganic material. Crypts with funeral armors 
       \ plus 3 (d6) Poison damage."
     "name": "Bite"
   - "desc": "Constitution Saving Throw: DC 12, one creature the carrion crawler\
-      \ can see within 10 feet. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ can see within 10 feet. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the target has\
-      \ the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), the target has\
+      \ the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler-xmm.webp"
 ```
 ^statblock
 

@@ -33,21 +33,21 @@ aliases:
   - !!int "4"
 "speed": "20 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The octopus has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The octopus has advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth))\
       \ checks."
     "name": "Camouflage"
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 15 ft., one target. Hit: 10\
-      \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 16). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+      \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 16). Until this grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
       \ and the octopus can't use its tentacles on another target."
     "name": "Tentacles"
   - "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is\
@@ -57,6 +57,6 @@ aliases:
     "name": "Ink Cloud (Recharges after a Short or Long Rest)"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-rocktopus-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-rocktopus-oota.webp"
 ```
 ^statblock

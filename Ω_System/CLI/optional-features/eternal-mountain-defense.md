@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 17
 
-You can spend 5 ki points to cast [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md), targeting yourself.
+You can spend 5 ki points to cast [stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md), targeting yourself.

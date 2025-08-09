@@ -22,7 +22,7 @@ modified: 2025-07-23 12:39
 
 ### Nimble Escape
 
-You can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) or [Hide](/3-Mechanics/CLI/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the [Disengage](/03_Mechanics/CLI/actions.md#Disengage) or [Hide](/03_Mechanics/CLI/actions.md#Hide) action as a bonus action on each of your turns.
 
 ### Darkvision
 

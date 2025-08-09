@@ -12,36 +12,36 @@ modified: 2025-07-23 12:39
 # Chapter 15: Xonthal's Tower
 *Source: Rise of Tiamat, p. 148* 
 
-![](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/022-tod-15-01.webp#center)
+![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/022-tod-15-01.webp#center)
 
-Though [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md)'s hold on the Cult of the Dragon is strong, there remain traditionalist elements within the cult that long for the old ways of reverence for the dracoliches. Many such elements center around scholars and academics, for whom the cult's new focus has made their knowledge and research irrelevant. Others think that [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) is being taken in by devils and that [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md) will play him for a fool—a notion fairly close to the truth.
+Though [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)'s hold on the Cult of the Dragon is strong, there remain traditionalist elements within the cult that long for the old ways of reverence for the dracoliches. Many such elements center around scholars and academics, for whom the cult's new focus has made their knowledge and research irrelevant. Others think that [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) is being taken in by devils and that [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md) will play him for a fool—a notion fairly close to the truth.
 
-Two of the leading dracolich traditionalists—a dragonsoul named Jorgen Pawl and his trusted lieutenant [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)—have been most vocal in their objections. As the time of the summoning ritual approaches, [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) understands that he can't risk losing loyal troops to infighting and insurrection. He has thus agreed to give Jorgen Pawl and his followers a dragon mask to examine, allowing them to determine whether [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md)'s understanding of the masks' power is correct. If [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) is wrong, he will know before risking everything on a do-or-die gamble. If he is right, the traditionalists will give their support to [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md)'s plans.
+Two of the leading dracolich traditionalists—a dragonsoul named Jorgen Pawl and his trusted lieutenant [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)—have been most vocal in their objections. As the time of the summoning ritual approaches, [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) understands that he can't risk losing loyal troops to infighting and insurrection. He has thus agreed to give Jorgen Pawl and his followers a dragon mask to examine, allowing them to determine whether [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)'s understanding of the masks' power is correct. If [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) is wrong, he will know before risking everything on a do-or-die gamble. If he is right, the traditionalists will give their support to [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)'s plans.
 
-What Jorgen does not know is that [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) asked his [Red Wizard](/3-Mechanics/CLI/bestiary/humanoid/red-wizard-rot.md) allies to create a false mask, supplying the scholar with a duplicate of the Blue Dragon Mask that appears both powerful and inscrutable, though it holds little in the way of real magic. [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) knows the scholars will discover the deception eventually, but he hopes that the false mask will keep the traditionalists occupied while he completes his plans.
+What Jorgen does not know is that [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) asked his [Red Wizard](/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot.md) allies to create a false mask, supplying the scholar with a duplicate of the Blue Dragon Mask that appears both powerful and inscrutable, though it holds little in the way of real magic. [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) knows the scholars will discover the deception eventually, but he hopes that the false mask will keep the traditionalists occupied while he completes his plans.
 
-The Cult of the Dragon recently took control of Xonthal's Tower—an ancient and mysterious wizard's tower on the southern slope of Mount Hlim. Although not all the cult members at Xonthal's Tower are dracolich traditionalists, Jorgen Pawl and [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) are in command there, and they have drawn many like-minded individuals under their sway.
+The Cult of the Dragon recently took control of Xonthal's Tower—an ancient and mysterious wizard's tower on the southern slope of Mount Hlim. Although not all the cult members at Xonthal's Tower are dracolich traditionalists, Jorgen Pawl and [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) are in command there, and they have drawn many like-minded individuals under their sway.
 
 ## Iskander
 
 *The young second-in-command at Xonthal's Tower stands an impressive 6-feet-5-inches tall. Iskander is not overly brave, but he is observant. One fact that hasn't escaped his notice is the number of rising stars in the Cult of the Dragon who meet mysterious ends before reaching their full potential. The suspicion that some cultists practice "advancement through assassination" or eliminate ambitious underlings to safeguard their own positions preys heavily on Iskander's mind*.
 
-Four tendays past, [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) came down with a stomach affliction that left him critically weak. During the illness, his suspicions blossomed into full-blown paranoia. He is convinced that someone at Xonthal's Tower poisoned him, and he now trusts no one. To save himself, [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) has decided to betray the cult and seek safety elsewhere. Having heard the exploits of the adventurers, he has decided that the cult's most effective enemies are his best bet as allies—and that a dragon mask should be more than enough to attract their attention.
+Four tendays past, [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) came down with a stomach affliction that left him critically weak. During the illness, his suspicions blossomed into full-blown paranoia. He is convinced that someone at Xonthal's Tower poisoned him, and he now trusts no one. To save himself, [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) has decided to betray the cult and seek safety elsewhere. Having heard the exploits of the adventurers, he has decided that the cult's most effective enemies are his best bet as allies—and that a dragon mask should be more than enough to attract their attention.
 
 ## An Unexpected Message
 
-[Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)'s message to the party can arrive in any manner you see fit, including through contacts in the Zhentarim. Whether it comes directly to the characters or to an NPC on the Council of Waterdeep, the message could be a hastily scribbled note, an eloquent appeal delivered by bonded messenger, or a whispered plea in a dark corridor.
+[Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)'s message to the party can arrive in any manner you see fit, including through contacts in the Zhentarim. Whether it comes directly to the characters or to an NPC on the Council of Waterdeep, the message could be a hastily scribbled note, an eloquent appeal delivered by bonded messenger, or a whispered plea in a dark corridor.
 
 > [!readaloud] 
 > 
-> "You don't know me, but we can help each other immeasurably. My name is [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md), and I made a terrible mistake in joining the Cult of the Dragon. The cult's horrifying plans are sure to bring doom to all, but I can stop those plans with your help. Rescue me from the cult's clutches, and I will deliver to you the prize of prizes: the Blue Dragon Mask. Without it, [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) faces an insurmountable setback in his effort to call [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md) back to our world. The mask is here in Xonthal's Tower, being studied and guarded by only a handful of wizards, including myself.
+> "You don't know me, but we can help each other immeasurably. My name is [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md), and I made a terrible mistake in joining the Cult of the Dragon. The cult's horrifying plans are sure to bring doom to all, but I can stop those plans with your help. Rescue me from the cult's clutches, and I will deliver to you the prize of prizes: the Blue Dragon Mask. Without it, [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) faces an insurmountable setback in his effort to call [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md) back to our world. The mask is here in Xonthal's Tower, being studied and guarded by only a handful of wizards, including myself.
 > 
 > "The danger of my treason becoming known grows with every passing day, and if I'm discovered, I'll surely be killed. Please hurry, for the sake of everyone and everything you value."
 ^195
 
-The adventurers are likely to be suspicious of [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md), intuiting that his offer is motivated by concern for his own survival than by concern for the world. If divination spells are used to assess the situation, give the characters a strong sense that [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) is on the level, and that the Blue Dragon Mask is in his possession.
+The adventurers are likely to be suspicious of [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md), intuiting that his offer is motivated by concern for his own survival than by concern for the world. If divination spells are used to assess the situation, give the characters a strong sense that [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) is on the level, and that the Blue Dragon Mask is in his possession.
 
-If the characters ask the members of the Council of Waterdeep their opinions, the NPCs are unanimous: the risk is enormous, but the potential payoff is even greater. Losing one of the five dragon masks will be a huge setback for [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md)'s plans.
+If the characters ask the members of the Council of Waterdeep their opinions, the NPCs are unanimous: the risk is enormous, but the potential payoff is even greater. Losing one of the five dragon masks will be a huge setback for [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)'s plans.
 
 ### Xonthal's Tower
 
@@ -61,7 +61,7 @@ Once the villagers are satisfied that the adventurers haven't come to lay waste 
 
 The villagers warn the characters sternly about the danger of entering the maze. Few who enter it ever come back out, and those who do come out are much worse for wear. Even animals and birds avoid the maze.
 
-The tower and the maze are protected by brilliantly crafted [wishes](/3-Mechanics/CLI/spells/wish-xphb.md) cast by Xonthal. The tower is impervious to all scrying and divination, and invulnerable against all forms of attack and alteration. Approaching through the maze and overcoming the puzzles designed by Xonthal is the only way to get inside.
+The tower and the maze are protected by brilliantly crafted [wishes](/03_Mechanics/CLI/spells/wish-xphb.md) cast by Xonthal. The tower is impervious to all scrying and divination, and invulnerable against all forms of attack and alteration. Approaching through the maze and overcoming the puzzles designed by Xonthal is the only way to get inside.
 
 ## The Maze
 
@@ -91,7 +91,7 @@ Although the maze is devilishly hard to get through, it's easy to leave. All the
 
 ### Rescue Mission
 
-Unless the characters took extreme measures to hide their approach to the maze, they are spotted by the cultists in the tower. (The cultists watch the village closely, and immediately recognize any stir caused by the adventurers' arrival.) The cultists don't know the adventurers' plans, but with the Blue Dragon Mask on hand, they don't intend to take chances. Their preparations alarm [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md), who sees his chance for escape dwindling. In a panic, he grabs the Blue Dragon Mask and dashes to the tower balcony.
+Unless the characters took extreme measures to hide their approach to the maze, they are spotted by the cultists in the tower. (The cultists watch the village closely, and immediately recognize any stir caused by the adventurers' arrival.) The cultists don't know the adventurers' plans, but with the Blue Dragon Mask on hand, they don't intend to take chances. Their preparations alarm [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md), who sees his chance for escape dwindling. In a panic, he grabs the Blue Dragon Mask and dashes to the tower balcony.
 
 As the characters prepare to enter the maze for the first time, or if they are spending too long in the village, read or paraphrase the following.
 
@@ -105,8 +105,8 @@ As the characters prepare to enter the maze for the first time, or if they are s
 ^19b
 
 > [!gallery]
-> ![Map 15.1: Xonthal's Tower](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/023-map-15-1-xonthals-tower.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/024-map-15-1-xonthals-tower-player.webp#gallery)
+> ![Map 15.1: Xonthal's Tower](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/023-map-15-1-xonthals-tower.webp#gallery)
+> ![Player Version](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/024-map-15-1-xonthals-tower-player.webp#gallery)
 
 ### 1. The Sundial
 
@@ -153,7 +153,7 @@ Characters always return to the same sundial puzzle they most recently departed 
 
 #### Completing the Maze
 
-When the characters complete the maze by successfully entering the hedge at the fifth sundial, they emerge within sight of a teleportation circle at the foot of the tower. The body of a dead cultist lies sprawled on the ground (the one [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) threw off the balcony earlier). Behind them, the characters see a straight path that leads directly to the sundial intersection. Another path extends thirty yards beyond the sundial, ending at the exit to the village.
+When the characters complete the maze by successfully entering the hedge at the fifth sundial, they emerge within sight of a teleportation circle at the foot of the tower. The body of a dead cultist lies sprawled on the ground (the one [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) threw off the balcony earlier). Behind them, the characters see a straight path that leads directly to the sundial intersection. Another path extends thirty yards beyond the sundial, ending at the exit to the village.
 
 A few seconds after the first character steps onto the circle, all creatures in the circle are teleported to area 8. Alternatively, the characters can walk out of the garden from the foot of the tower without any detours or difficulties. However, any gems they collected in the maze (see below) will mysteriously vanish from their possession.
 
@@ -164,7 +164,7 @@ A few seconds after the first character steps onto the circle, all creatures in 
 > Filling the center of this eighty-foot-square courtyard is a circular pool of water sixty feet across. The water is dark and murky, reducing visibility to about one foot. A garnet gemstone hovers one foot above the center of the pool. Another path leaves the area through the hedge wall on the far side of the pool, directly opposite where you entered.
 ^1a2
 
-Four [chuuls](/3-Mechanics/CLI/bestiary/aberration/chuul-xmm.md) dwell in this dark water. They stay hidden as long as the characters remain in the courtyard, but attack any creature that enters the pool or touches the gem. Attacking chuuls try to paralyze characters, then drag or throw them into the 50-foot-deep pool to drown them. They are fascinated by magic, though, and if any magic item is dropped into the pool, the chuuls are distracted for 5 rounds. They won't attack during that time, and if they were already attacking, they stop and dive to the bottom of the pool to inspect their new treasure.
+Four [chuuls](/03_Mechanics/CLI/bestiary/aberration/chuul-xmm.md) dwell in this dark water. They stay hidden as long as the characters remain in the courtyard, but attack any creature that enters the pool or touches the gem. Attacking chuuls try to paralyze characters, then drag or throw them into the 50-foot-deep pool to drown them. They are fascinated by magic, though, and if any magic item is dropped into the pool, the chuuls are distracted for 5 rounds. They won't attack during that time, and if they were already attacking, they stop and dive to the bottom of the pool to inspect their new treasure.
 
 If the characters attempt to leave the area without retrieving the garnet, both paths curve away and bring them back here after a short walk. If the characters leave any marks, items, or companions behind in this area, all the same conditions apply here as in area 1.
 
@@ -172,7 +172,7 @@ If the garnet is carried out of this area, either path leads the characters back
 
 #### Treasure
 
-The bottom of the pool holds the treasure that's been dropped in by various visitors: six [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md), one [potion of growth](/3-Mechanics/CLI/items/potion-of-growth-xdmg.md), one [potion of fire breath](/3-Mechanics/CLI/items/potion-of-fire-breath-xdmg.md), a [wand of fear](/3-Mechanics/CLI/items/wand-of-fear-xdmg.md), three [+1 daggers](/3-Mechanics/CLI/items/1-weapon-xdmg.md), a [driftglobe](/3-Mechanics/CLI/items/driftglobe-xdmg.md), and an [elemental gem (clear sapphire/air elemental)](/3-Mechanics/CLI/items/elemental-gem-blue-sapphire-xdmg.md).
+The bottom of the pool holds the treasure that's been dropped in by various visitors: six [potions of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md), one [potion of growth](/03_Mechanics/CLI/items/potion-of-growth-xdmg.md), one [potion of fire breath](/03_Mechanics/CLI/items/potion-of-fire-breath-xdmg.md), a [wand of fear](/03_Mechanics/CLI/items/wand-of-fear-xdmg.md), three [+1 daggers](/03_Mechanics/CLI/items/1-weapon-xdmg.md), a [driftglobe](/03_Mechanics/CLI/items/driftglobe-xdmg.md), and an [elemental gem (clear sapphire/air elemental)](/03_Mechanics/CLI/items/elemental-gem-blue-sapphire-xdmg.md).
 
 ### 3. Cyclopes' Pasture
 
@@ -189,9 +189,9 @@ The boulders at this end of the field are all at least 2 feet in diameter and we
 
 The cyclopes speak only Giant. If any character addresses them in that language, they ignore any questions but explain the rules of their game: the characters' boulder must fly farther than the cyclops's. How the characters accomplish this is unimportant to the cyclopes, but the boulder can't be dragged or carried—it must fly at least part of the distance.
 
-The characters can beat this challenge in several ways. The most straightforward solution is to reduce the boulder with an [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell, then use the same spell to enlarge a strong character to throw it. Other solutions might involve casting [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) on the rock and giving it a push, digging a trench for the rock to roll down the length of the field, or propelling it with magic in some other way. The cyclopes will accept any solution the characters attempt, as long as it propels the stone farther than the cyclops did.
+The characters can beat this challenge in several ways. The most straightforward solution is to reduce the boulder with an [enlarge/reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell, then use the same spell to enlarge a strong character to throw it. Other solutions might involve casting [levitate](/03_Mechanics/CLI/spells/levitate-xphb.md) on the rock and giving it a push, digging a trench for the rock to roll down the length of the field, or propelling it with magic in some other way. The cyclopes will accept any solution the characters attempt, as long as it propels the stone farther than the cyclops did.
 
-Each [cyclops](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) defends itself if attacked, and killing them changes nothing. The characters still need to propel a stone farther than the cyclops did to get back to the sundial.
+Each [cyclops](/03_Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) defends itself if attacked, and killing them changes nothing. The characters still need to propel a stone farther than the cyclops did to get back to the sundial.
 
 When the characters beat the challenge, the stone that the cyclops threw splits in half, revealing a topaz gemstone inside. If the topaz is carried out of this area, either path leads the characters back to the sundial.
 
@@ -204,7 +204,7 @@ If the characters attempt to leave the area without winning the contest, both pa
 > Ahead, you see a bubbling fountain filling the pathway. Large bright flowers grow in the hedges on both sides of the fountain, each blossom shimmering in the light. The air smells particularly fresh and sweet here.
 ^1a7
 
-A large flower grows on each northern and southern side of each square on the map except the square with the fountain. As the characters get closer, they can see that the shimmering of the flowers comes from a large pearl set into each one. However, if any of these carnivorous flowers is attacked, or if a character tries to remove a pearl from a flower, all twelve flowers attack any enemy they can reach. Use the statistics of an [otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) to represent each flower, except they have speed 0, and they have the plant type.
+A large flower grows on each northern and southern side of each square on the map except the square with the fountain. As the characters get closer, they can see that the shimmering of the flowers comes from a large pearl set into each one. However, if any of these carnivorous flowers is attacked, or if a character tries to remove a pearl from a flower, all twelve flowers attack any enemy they can reach. Use the statistics of an [otyugh](/03_Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) to represent each flower, except they have speed 0, and they have the plant type.
 
 Once a flower is killed, its pearl can be removed. If a pearl is carried out of this area, either path leads the characters back to the sundial.
 
@@ -219,22 +219,22 @@ If the characters attempt to leave the area without a pearl, both paths curve aw
 
 When the characters arrive, the robed figure bows to them, and sits down on the boulder where it protrudes through the floor of the pagoda. He waits patiently for the party to join him. Around the boulder, the floor of the pagoda is not wood, but rather is a rock garden of decorative stones and brushed sand. A charcoal pit smolders beside the boulder where the man sits.
 
-The master of the pagoda does not speak, and he waits as long as long as it takes for the adventurers to join him. When they enter the pagoda, he gives a brief smile and proffers silk cushions. He then waves his hand and an iron tea kettle rises up from beneath the embers. The kettle resembles a scowling face with thick features, and a character who studies it may recognize it as a dao with a successful DC 12 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) or Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. The man pours clear water from a clay jug into the kettle and adds tea leaves. He bows to the kettle and shows great reverence to the vessel, then lowers his head in meditation. Soon steam rises from the kettle.
+The master of the pagoda does not speak, and he waits as long as long as it takes for the adventurers to join him. When they enter the pagoda, he gives a brief smile and proffers silk cushions. He then waves his hand and an iron tea kettle rises up from beneath the embers. The kettle resembles a scowling face with thick features, and a character who studies it may recognize it as a dao with a successful DC 12 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) or Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check. The man pours clear water from a clay jug into the kettle and adds tea leaves. He bows to the kettle and shows great reverence to the vessel, then lowers his head in meditation. Soon steam rises from the kettle.
 
-The tea brewer is a [dao](/3-Mechanics/CLI/bestiary/elemental/dao-xmm.md) magically disguised as a human, and the pot brews not tea but a deadly gaseous poison. The tea kettle is also the dao's [magic jar](/3-Mechanics/CLI/spells/magic-jar-xphb.md) (described below).
+The tea brewer is a [dao](/03_Mechanics/CLI/bestiary/elemental/dao-xmm.md) magically disguised as a human, and the pot brews not tea but a deadly gaseous poison. The tea kettle is also the dao's [magic jar](/03_Mechanics/CLI/spells/magic-jar-xphb.md) (described below).
 
-With a successful DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check, a character realizes that an innate ability lifted the teapot from the coals ([move earth](/3-Mechanics/CLI/spells/move-earth-xphb.md) acting on a small clay column). Characters who watch the leaves going into the kettle can attempt a DC 13 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) or Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check. Success indicates the character recognizes drakeswort, a potentially lethal herb.
+With a successful DC 15 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check, a character realizes that an innate ability lifted the teapot from the coals ([move earth](/03_Mechanics/CLI/spells/move-earth-xphb.md) acting on a small clay column). Characters who watch the leaves going into the kettle can attempt a DC 13 Intelligence ([Nature](/03_Mechanics/CLI/skills.md#Nature)) or Wisdom ([Medicine](/03_Mechanics/CLI/skills.md#Medicine)) check. Success indicates the character recognizes drakeswort, a potentially lethal herb.
 
-If characters do nothing, the steeping drakeswort fills the pagoda with poisonous vapor, and the dao encloses the pagoda in a [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md) (including the roof), trapping the poison and the characters inside. He uses Earth Glide to sink into the boulder. With his body safe beneath the ground, his soul jumps into the tea kettle, and he monitors the characters' escape attempts and enjoys watching their suffering. For the next 3 minutes (30 rounds), creatures inside the pagoda (except the dao in his [magic jar](/3-Mechanics/CLI/spells/magic-jar-xphb.md)) must make a DC 13 Constitution saving throw against poison at the start of each of their turns. On a failed save, a creature takes 14 (`4d6`) poison damage, or half damage on a successful save. Three successful saving throws in a row confer immunity to the poison.
+If characters do nothing, the steeping drakeswort fills the pagoda with poisonous vapor, and the dao encloses the pagoda in a [wall of stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md) (including the roof), trapping the poison and the characters inside. He uses Earth Glide to sink into the boulder. With his body safe beneath the ground, his soul jumps into the tea kettle, and he monitors the characters' escape attempts and enjoys watching their suffering. For the next 3 minutes (30 rounds), creatures inside the pagoda (except the dao in his [magic jar](/03_Mechanics/CLI/spells/magic-jar-xphb.md)) must make a DC 13 Constitution saving throw against poison at the start of each of their turns. On a failed save, a creature takes 14 (`4d6`) poison damage, or half damage on a successful save. Three successful saving throws in a row confer immunity to the poison.
 
 Trapped characters have several options for escape:
 
 - The stone walls are AC 5, 6 inches thick, and have 15 hit points per inch of thickness (90 hp total). Motivated characters can create air holes in the walls.  
 - Dumping the kettle into the fire reduces damage to 7 (`2d6`) poison damage on a failed save, or half damage on a successful save. Smoke from burning drakeswort is less dangerous than steam.  
 - Plugging the kettle's spout or extinguishing the fire reduces the saving throw DC to 8.  
-- Damaging the tea kettle forces the dao to return to the pagoda. When the dao's soul inhabits the kettle, the face is slightly animated. Anyone touching the kettle notices the eyes looking around the pagoda. The kettle has AC 5 and 20 hit points. If it takes more than 10 points of damage, the dao returns to his body, emerges from the stone, drops the [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md) (because he can't breathe the poison either), and attacks.  
+- Damaging the tea kettle forces the dao to return to the pagoda. When the dao's soul inhabits the kettle, the face is slightly animated. Anyone touching the kettle notices the eyes looking around the pagoda. The kettle has AC 5 and 20 hit points. If it takes more than 10 points of damage, the dao returns to his body, emerges from the stone, drops the [wall of stone](/03_Mechanics/CLI/spells/wall-of-stone-xphb.md) (because he can't breathe the poison either), and attacks.  
 
-If characters attack the dao before his trap is sprung, he fights back, making full use of [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [move earth](/3-Mechanics/CLI/spells/move-earth-xphb.md), and his other abilities. He shifts the odds in his favor by killing the weakest characters first. The dao fights to 45 hit points or fewer, then retreats into the earth.
+If characters attack the dao before his trap is sprung, he fights back, making full use of [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [move earth](/03_Mechanics/CLI/spells/move-earth-xphb.md), and his other abilities. He shifts the odds in his favor by killing the weakest characters first. The dao fights to 45 hit points or fewer, then retreats into the earth.
 
 A jade gemstone sits inside the teapot. If it is carried out of this area, either path leads characters back to the sundial.
 
@@ -247,7 +247,7 @@ If characters leave the area without the jade gemstone, both paths curve away an
 > Six suits of ornate plate mail stand in this area as if on guard. Battered and bashed pieces of armor and weapons are scattered across the carpeted floor before them. Moss and lichen cover the armor, though it remains free of rust. Another pathway opens up at the far side of this area.
 ^1ab
 
-When the characters begin exploring the area, two suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) swing into motion and attack. Each time a suit of armor is destroyed, two more activate.When there are no more suits of armor to activate, the suits reassemble themselves from the components littering the ground. Reassembling takes a suit's entire action—it can do nothing else on that turn. After reforming, the animated armor resumes attacking. This continues as long as any character remains in this area
+When the characters begin exploring the area, two suits of [animated armor](/03_Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) swing into motion and attack. Each time a suit of armor is destroyed, two more activate.When there are no more suits of armor to activate, the suits reassemble themselves from the components littering the ground. Reassembling takes a suit's entire action—it can do nothing else on that turn. After reforming, the animated armor resumes attacking. This continues as long as any character remains in this area
 
 Each time a suit of armor is destroyed, roll a `d6`. On a roll of 6, a large bloodstone rolls out of the armor as its pieces fall to the ground. If the bloodstone is carried out of this area, either path leads the characters back to the sundial.
 
@@ -262,9 +262,9 @@ As they follow the path, the characters are drawn into a maze within the larger 
 > The curving path you follow suddenly twists to reveal a proper maze cut out of the surrounding hedges. Moments later, the pounding of hooves rings out, and a gorgon charges out of the greenery toward you.
 ^1ad
 
-This area is ringed by unbroken hedge walls that make it impossible to escape. The characters won't know this until they explore the area fully, and they won't have time to do that with a [gorgon](/3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md) on the loose.
+This area is ringed by unbroken hedge walls that make it impossible to escape. The characters won't know this until they explore the area fully, and they won't have time to do that with a [gorgon](/03_Mechanics/CLI/bestiary/construct/gorgon-xmm.md) on the loose.
 
-The maze permits the gorgon to move freely through the hedges when it uses its Trampling Charge attack. As it races after the adventurers, it attacks with its Petrifying Breath as often as it can. Each time it does so, a diamond crystallizes from its breath and drops to the ground. A character can spot the gem with a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. A character can pick the diamond up before the start of the gorgon's next turn, but if not picked up, it dissipates to mist.
+The maze permits the gorgon to move freely through the hedges when it uses its Trampling Charge attack. As it races after the adventurers, it attacks with its Petrifying Breath as often as it can. Each time it does so, a diamond crystallizes from its breath and drops to the ground. A character can spot the gem with a successful DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. A character can pick the diamond up before the start of the gorgon's next turn, but if not picked up, it dissipates to mist.
 
 When a character picks up the diamond, a pathway opens up in the middle of each of the four sides of this area, any of which lead the characters back to the sundial.
 
@@ -272,7 +272,7 @@ The gorgon won't follow the characters out of the maze. If the gorgon is killed,
 
 ## The Tower
 
-After making their way through the dangers of the hedge maze, the adventurers can enter Xonthal's Tower. Once inside, they learn that [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)'s fellow cultists have discovered his treason and are trying to kill him. The characters must figure out the tower's magical teleportation system, then defeat both the cultists and some of Xonthal's original defenses to rescue [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) and claim the dragon mask he promised them. Before the characters can leave, however, they must deal with the blue dragon summoned to protect the mask.
+After making their way through the dangers of the hedge maze, the adventurers can enter Xonthal's Tower. Once inside, they learn that [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)'s fellow cultists have discovered his treason and are trying to kill him. The characters must figure out the tower's magical teleportation system, then defeat both the cultists and some of Xonthal's original defenses to rescue [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) and claim the dragon mask he promised them. Before the characters can leave, however, they must deal with the blue dragon summoned to protect the mask.
 
 Though the tower appears square from the outside, its chambers and walls are circular when seen from inside. This strange incongruity is another manifestation of Xonthal's ability to manipulate space.
 
@@ -288,7 +288,7 @@ Areas 8 to 13 are brightly lit by narrow windows and magic lamps.
 
 #### Sound
 
-The structure of the tower muffles sound between levels. Only the loudest shouting or noise can be heard on an adjacent level, and nothing short of an explosion or a [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) spell can be heard more than one level away.
+The structure of the tower muffles sound between levels. Only the loudest shouting or noise can be heard on an adjacent level, and nothing short of an explosion or a [thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md) spell can be heard more than one level away.
 
 #### Teleport Circles
 
@@ -315,9 +315,9 @@ On the wall behind each teleport circle is a metal panel inscribed with symbols.
 
 Characters who touch the right triangle return to the sundial seen from the foot of the tower, allowing them to return to the tower along the straight path or to exit the maze to the village (see "Completing the Maze," above).
 
-To teleport down to the dungeon level, the symbol must be touched by the hourglass-shaped key that [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) waved from the balcony. Xonthal conducted many dangerous experiments in the dungeons, and he didn't want anyone getting into that level—or getting out of it—without his approval.
+To teleport down to the dungeon level, the symbol must be touched by the hourglass-shaped key that [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) waved from the balcony. Xonthal conducted many dangerous experiments in the dungeons, and he didn't want anyone getting into that level—or getting out of it—without his approval.
 
-The key is a representation of an hourglass made of ivory and crystal. [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) used the key to escape into the dungeon from the observatory, but tossed the key back into the room after using it so the adventurers could follow him down. Jorgen Pawl found the key and has it now. The characters must take the key from him to reach the dungeon level.
+The key is a representation of an hourglass made of ivory and crystal. [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) used the key to escape into the dungeon from the observatory, but tossed the key back into the room after using it so the adventurers could follow him down. Jorgen Pawl found the key and has it now. The characters must take the key from him to reach the dungeon level.
 
 ### 8. Audience Chamber
 
@@ -326,11 +326,11 @@ The key is a representation of an hourglass made of ivory and crystal. [Iskander
 > The walls of this chamber bear exotic geometric designs representing feathers, eagles, and snakes, all rendered in a style you've never seen before. To one side of the room, a human female is sprawled face down in a pool of blood. She is dressed like a high-ranking member of the Cult of the Dragon.
 ^1b7
 
-The dead cultist was slain by [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md). They argued, the dead cultist turned to step onto the teleport circle, and [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) stabbed her before stepping through the teleporter himself.
+The dead cultist was slain by [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md). They argued, the dead cultist turned to step onto the teleport circle, and [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) stabbed her before stepping through the teleporter himself.
 
-A character who inspects the body and makes a successful DC 10 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check can tell that the cultist was killed by a [dragontooth dagger](/3-Mechanics/CLI/items/dragontooth-dagger-rot.md) (see appendix C).
+A character who inspects the body and makes a successful DC 10 Wisdom ([Medicine](/03_Mechanics/CLI/skills.md#Medicine)) check can tell that the cultist was killed by a [dragontooth dagger](/03_Mechanics/CLI/items/dragontooth-dagger-rot.md) (see appendix C).
 
-The balconies are set 8 feet above the floor and can be easily reached by climbing. The floor of each balcony bears a teleport circle similar to those found throughout the tower. The controls are located beneath the railing of the balcony, and can be found with a DC 8 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. These controls can take characters only back to the main circle in this area.
+The balconies are set 8 feet above the floor and can be easily reached by climbing. The floor of each balcony bears a teleport circle similar to those found throughout the tower. The controls are located beneath the railing of the balcony, and can be found with a DC 8 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check. These controls can take characters only back to the main circle in this area.
 
 The decorations in the room are reminiscent of a Maztican style of architecture. Xonthal studied the culture of Maztica extensively and incorporated many Maztican motifs into his home.
 
@@ -340,7 +340,7 @@ What use Xonthal put these rooms to is unknown. Empty when the cultists arrived,
 
 The teleporter on this level is located inside a circular chamber with a closed door. The door and the walls of the room are made of thin, unpolished steel. The door swings outward if a simple latch is turned.
 
-When the characters arrive, one [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) and four [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) are searching the floor for [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md). The cultists quickly realize they can't defeat the adventurers, and they make a dash for the teleport room. They try to escape to the lounge (area 11), where they expect to find reinforcements.
+When the characters arrive, one [cult fanatic](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) and four [cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) are searching the floor for [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md). The cultists quickly realize they can't defeat the adventurers, and they make a dash for the teleport room. They try to escape to the lounge (area 11), where they expect to find reinforcements.
 
 ### 10. Shrine
 
@@ -351,9 +351,9 @@ When Xonthal lived in the tower, this shrine was dedicated to Oghma. The cult tr
 > Painted renditions of dracoliches line the walls of this chamber, and a stone altar in the center of the area features the skeletal limbs and claws of a dragon. A half-dozen cultists look up in surprise at your appearance.
 ^1ba
 
-The skeletal forelimbs of a black dragon have been mounted to the altar and enchanted with a permanent [animate objects](/3-Mechanics/CLI/spells/animate-objects-xphb.md) spell. When the characters enter, it won't be apparent that the limbs are connected to the altar or that they can be animated. Each limb has AC 10 and 50 hit points and can make one melee attack per round at a creature within 5 feet of it: +4 to hit; 6 (`1d10 + 1`) piercing damage.
+The skeletal forelimbs of a black dragon have been mounted to the altar and enchanted with a permanent [animate objects](/03_Mechanics/CLI/spells/animate-objects-xphb.md) spell. When the characters enter, it won't be apparent that the limbs are connected to the altar or that they can be animated. Each limb has AC 10 and 50 hit points and can make one melee attack per round at a creature within 5 feet of it: +4 to hit; 6 (`1d10 + 1`) piercing damage.
 
-The room is occupied by two [mages](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) and five [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) who attack at the first sign of intruders. As an action, one of the mages screams the command word to activate the skeletal dragon limbs. If the cultist who activated the limbs is killed, the limbs stop attacking, but both mages know the command word. The cultists all fight to the death.
+The room is occupied by two [mages](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) and five [cult fanatic](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) who attack at the first sign of intruders. As an action, one of the mages screams the command word to activate the skeletal dragon limbs. If the cultist who activated the limbs is killed, the limbs stop attacking, but both mages know the command word. The cultists all fight to the death.
 
 This room contains many notes and scrolls about dracoliches but nothing of value.
 
@@ -366,7 +366,7 @@ This chamber was Xonthal's combination living room, office, and den, used for st
 > A large fireplace in the center of the room keeps this chamber warm and cozy, its smoke magically vented outside. About two-thirds of the skeleton of an adult dragon is laid out on the floor, curled around the fireplace. Before you have time for further assessment, however, a half-dozen black-cloaked figures move to attack you.
 ^1bc
 
-The six [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) in this room move in as soon as anyone appears in the teleporter. If they can, the cultists try to reach the teleport circle and activate it while one or more characters are still on it. The teleport circle takes only a few seconds to activate, so characters standing in the circle won't be able to move away unless they have the ability to move as a reaction. The cultists select the shrine level as the adventurers' destination.
+The six [cult fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) in this room move in as soon as anyone appears in the teleporter. If they can, the cultists try to reach the teleport circle and activate it while one or more characters are still on it. The teleport circle takes only a few seconds to activate, so characters standing in the circle won't be able to move away unless they have the ability to move as a reaction. The cultists select the shrine level as the adventurers' destination.
 
 When the characters have time to examine the skeleton (a black dragon), they can see that the bones are disconnected and placed roughly, and that the creature's forelimbs are missing. They also see signs that the cultists do their cooking here, finding a collection of simple dishware stacked along the north wall, along with sacks containing potatoes, turnips, jerky, and flour.
 
@@ -374,7 +374,7 @@ Aside from the lovingly cleaned skeleton and notes that a scholar might find int
 
 ### 12. Observatory
 
-Jorgen Pawl ([mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) and 3 [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) are outside this chamber on the balcony when the characters teleport in. All four wait to ambush the first character who steps onto the balcony. If the characters explore the observatory before investigating the balcony, the cultists rush into the room, hoping to attack with surprise.
+Jorgen Pawl ([mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) and 3 [cult fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) are outside this chamber on the balcony when the characters teleport in. All four wait to ambush the first character who steps onto the balcony. If the characters explore the observatory before investigating the balcony, the cultists rush into the room, hoping to attack with surprise.
 
 > [!readaloud] 
 > 
@@ -387,13 +387,13 @@ Jorgen Pawl has the hourglass-shaped key that allows access to the dungeon level
 
 ### 13. Bedroom
 
-Jorgen Pawl and [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) share this presently empty chamber, which might have been luxurious before being subjected to the ravages of time. A table assembled from planks laid across barrels is covered in notes and scrolls, all pertaining to dracoliches and having no bearing on the current crisis.
+Jorgen Pawl and [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) share this presently empty chamber, which might have been luxurious before being subjected to the ravages of time. A table assembled from planks laid across barrels is covered in notes and scrolls, all pertaining to dracoliches and having no bearing on the current crisis.
 
 ## Dungeon
 
 Though the cultists have claimed the upper levels of Xonthal's Tower, they have no control over the dungeon beneath it. The secrets and ancient guardians of this area remain a mystery to them. Xonthal performed most of his experiments here, and the dungeons once included numerous extradimensional spaces accessible from the main corridor (area 17).
 
-When the first two groups of cultists sent down here to explore were killed by the elementals in area 15, Jorgen Pawl quickly declared the dungeon off limits. [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) understood the risks of fleeing here, but he knew it was the one place where Jorgen's fanatical followers would be reluctant to pursue him.
+When the first two groups of cultists sent down here to explore were killed by the elementals in area 15, Jorgen Pawl quickly declared the dungeon off limits. [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) understood the risks of fleeing here, but he knew it was the one place where Jorgen's fanatical followers would be reluctant to pursue him.
 
 ### General Features
 
@@ -411,9 +411,9 @@ Sound carries well through these rooms and corridors. The sound of fighting or o
 
 ### 14. Dungeon Teleporter
 
-The bodies of three dead cultists lie on the floor here. A successful DC 13 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check determines that two of them were killed by bolts of magical force ([Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)'s handiwork). No check is needed to see that the third was stabbed to death. A trail of blood runs into this room from area 15.
+The bodies of three dead cultists lie on the floor here. A successful DC 13 Wisdom ([Medicine](/03_Mechanics/CLI/skills.md#Medicine)) check determines that two of them were killed by bolts of magical force ([Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)'s handiwork). No check is needed to see that the third was stabbed to death. A trail of blood runs into this room from area 15.
 
-[Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) was waiting in this chamber for pursuers to appear. He killed two immediately but the third chased him into area 15, where the elementals attacked both of them.
+[Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) was waiting in this chamber for pursuers to appear. He killed two immediately but the third chased him into area 15, where the elementals attacked both of them.
 
 The teleporter here can reach any teleport circle in the tower above, but its controls do not allow characters to return to the sundial.
 
@@ -424,17 +424,17 @@ The teleporter here can reach any teleport circle in the tower above, but its co
 > Blood streaks the floor here, including the smeared trail leading back to the teleport chamber and a second trail of bloody boot prints heading up the corridor to the north. Standing amid the gore are three humanoid figures—two that look like misshapen statues of clay and stone and one appearing as a humanoid made of flame.
 ^1c8
 
-![Iskander](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/025-tod-15-02.webp#center)
+![Iskander](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/025-tod-15-02.webp#center)
 
-The creatures are 2 [earth elementals](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) and a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) Xonthal called forth to guard his workshops. In the absence of new orders, the elementals eternally follow Xonthal's last command to slay intruders. When any character enters the room, the elementals attack. They fight until destroyed, or until the party flees back to area 14 or moves further into the dungeon. The elementals do not pursue outside this area unless attacked from a distance.
+The creatures are 2 [earth elementals](/03_Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md) and a [fire elemental](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) Xonthal called forth to guard his workshops. In the absence of new orders, the elementals eternally follow Xonthal's last command to slay intruders. When any character enters the room, the elementals attack. They fight until destroyed, or until the party flees back to area 14 or moves further into the dungeon. The elementals do not pursue outside this area unless attacked from a distance.
 
-A large, round table with four chairs sits in one corner of the room, with shelves and workbenches arranged along the walls. Books and papers are scattered on the table, along with a locked wooden chest about the size of a shoebox. Opening the lock requires [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check. A failed check sets off a magic [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) trap that triggers a [slow](/3-Mechanics/CLI/spells/slow-xphb.md) spell affecting all creatures in the area except elementals. Creatures affected by the spell can attempt the saving throw again at the end of each of their turns. Otherwise, the effect ends after 1 minute.
+A large, round table with four chairs sits in one corner of the room, with shelves and workbenches arranged along the walls. Books and papers are scattered on the table, along with a locked wooden chest about the size of a shoebox. Opening the lock requires [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check. A failed check sets off a magic [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) trap that triggers a [slow](/03_Mechanics/CLI/spells/slow-xphb.md) spell affecting all creatures in the area except elementals. Creatures affected by the spell can attempt the saving throw again at the end of each of their turns. Otherwise, the effect ends after 1 minute.
 
 The writing on the papers and books in the room has become illegible, and the paper is so brittle from the fire elementals' heat that it crumbles at a touch.
 
 #### Treasure
 
-The chest contains three scrolls: two [scroll of protection against fire elementals](/3-Mechanics/CLI/items/scroll-of-protection-xdmg.md) and one [scroll of protection against earth elementals](/3-Mechanics/CLI/items/scroll-of-protection-xdmg.md). Characters who claim these scrolls can use them to move safely past the elementals, if they bunch tightly together to keep everyone inside the effect's five-foot radius from the caster. With only one [scroll of protection against earth elementals](/3-Mechanics/CLI/items/scroll-of-protection-xdmg.md), characters will probably be forced to deal with the earth elementals at least once.
+The chest contains three scrolls: two [scroll of protection against fire elementals](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md) and one [scroll of protection against earth elementals](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md). Characters who claim these scrolls can use them to move safely past the elementals, if they bunch tightly together to keep everyone inside the effect's five-foot radius from the caster. With only one [scroll of protection against earth elementals](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md), characters will probably be forced to deal with the earth elementals at least once.
 
 ### 16. Laboratory
 
@@ -443,9 +443,9 @@ The chest contains three scrolls: two [scroll of protection against fire element
 > It's obvious at a glance that this area was once a wizard's workroom. Worktables are covered with notes, alchemical flasks, beakers, braziers, and other arcane apparatus. More startling is the whirlwind occupying the center of the room. Ten feet across and stretching from floor to ceiling, it swirls endlessly, revealing a number of sparkling gems within it.
 ^1cb
 
-The whirlwind is not a creature, but one of Xonthal's experiments. The gemstones swirling inside it are [elemental gems](/3-Mechanics/CLI/items/elemental-gem-xdmg.md). If a hand or any other material object is pushed into the whirlwind, it disrupts the perfect balance of the airflow, causing an [elemental gem](/3-Mechanics/CLI/items/elemental-gem-xdmg.md) to spin out and smash on the floor, summoning an angry **elemental**. You can choose the elemental's type or determine it randomly. The whirlwind contains eight gems, two of each elemental type. Every time the whirlwind is disturbed, another gem is ejected and breaks.
+The whirlwind is not a creature, but one of Xonthal's experiments. The gemstones swirling inside it are [elemental gems](/03_Mechanics/CLI/items/elemental-gem-xdmg.md). If a hand or any other material object is pushed into the whirlwind, it disrupts the perfect balance of the airflow, causing an [elemental gem](/03_Mechanics/CLI/items/elemental-gem-xdmg.md) to spin out and smash on the floor, summoning an angry **elemental**. You can choose the elemental's type or determine it randomly. The whirlwind contains eight gems, two of each elemental type. Every time the whirlwind is disturbed, another gem is ejected and breaks.
 
-The equipment here is now useless, and any reagents or components have long since dried up, decayed, or lost their potency. A character who spends a day poring over the notes can attempt a DC 20 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check to understand that Xonthal was involved in a complex attempt to create elementals that fused the best traits of earth, air, fire, and water.
+The equipment here is now useless, and any reagents or components have long since dried up, decayed, or lost their potency. A character who spends a day poring over the notes can attempt a DC 20 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check to understand that Xonthal was involved in a complex attempt to create elementals that fused the best traits of earth, air, fire, and water.
 
 ### 17. Cosmic Hallway
 
@@ -469,17 +469,17 @@ Though having a character fall off the walkway is dangerous (and potentially exc
 > This circular room is obviously a library or study, its walls lined with bookshelves that extend from the floor to the gently domed ceiling twenty feet overhead. A wheeled ladder is connected to a rail that runs around the curved wall, allowing access to the upper shelves. A delicate, ornate desk stands at the center of the room, surrounded by piles of blank paper. A large map sits on the desk, its corners held down with stones.
 ^1cf
 
-The two secret doors in this area are concealed behind swinging bookshelves, and can each be found with a successful DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. The door to the spellbook study (area 20) is opened by shifting a book at floor level. The door to the observation room (area 19) is located 10 feet above the floor. It is opened by positioning the rolling ladder in front of the door and pushing on the shelf 15 feet above the floor.
+The two secret doors in this area are concealed behind swinging bookshelves, and can each be found with a successful DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check. The door to the spellbook study (area 20) is opened by shifting a book at floor level. The door to the observation room (area 19) is located 10 feet above the floor. It is opened by positioning the rolling ladder in front of the door and pushing on the shelf 15 feet above the floor.
 
 If anyone but Xonthal opens either secret door, the papers piled throughout the room begin to ruffle as though a breeze blows through the area. Thousands of sheets of heavy paper then fly into the air in a great whirlwind, slashing at any creature in the area. One distinct storm of paper forms around each character on the first round. Every round after that, two more cyclones form, to a maximum of three per character.
 
-Treat these paper whirlwinds as [swarms of ravens](/3-Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md), but they are constructs instead of beasts, and they have vulnerability to fire. When the paper swarms form, they remain on guard in the study for 30 minutes, then collapse to piles of paper once more. They won't pursue characters into the hallway, but will chase them into the two adjoining rooms.
+Treat these paper whirlwinds as [swarms of ravens](/03_Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md), but they are constructs instead of beasts, and they have vulnerability to fire. When the paper swarms form, they remain on guard in the study for 30 minutes, then collapse to piles of paper once more. They won't pursue characters into the hallway, but will chase them into the two adjoining rooms.
 
 #### Treasure
 
 The contents of Xonthal's library are as valuable as they are voluminous. The wizard's collection includes nearly five thousand books, pamphlets, folios, quartos, scrolls, and tablets with a combined weight of more than a ton. The entire collection would be worth 50,000 gp if it could be moved. Alternatively, the characters can pick out a few especially valuable volumes.
 
-A character trained in one of the following skills can make a check to search the library for a work on that subject: [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), [Religion](/3-Mechanics/CLI/skills.md#Religion), or [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand). Multiply the total of the check by 10 to get the gp value of the single most valuable book a character can find on that subject. Each skill check takes 10 minutes, but many characters can be searching at the same time. Characters who search for more books take a cumulative–10 penalty to subsequent checks.
+A character trained in one of the following skills can make a check to search the library for a work on that subject: [Animal Handling](/03_Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/03_Mechanics/CLI/skills.md#Athletics), [Arcana](/03_Mechanics/CLI/skills.md#Arcana), [History](/03_Mechanics/CLI/skills.md#History), [Medicine](/03_Mechanics/CLI/skills.md#Medicine), [Nature](/03_Mechanics/CLI/skills.md#Nature), [Performance](/03_Mechanics/CLI/skills.md#Performance), [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion), [Religion](/03_Mechanics/CLI/skills.md#Religion), or [Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand). Multiply the total of the check by 10 to get the gp value of the single most valuable book a character can find on that subject. Each skill check takes 10 minutes, but many characters can be searching at the same time. Characters who search for more books take a cumulative–10 penalty to subsequent checks.
 
 The map shows the region of the Elemental Plane of Fire surrounding the fabled City of Brass. The map cannot be harmed by fire, and is worth 500 gp to a planar scholar or explorer.
 
@@ -492,7 +492,7 @@ The floor of this room is 10 feet higher than the floor of area 18.
 > A circular pane of crystal ten feet in diameter hangs vertically in this chamber, anchored to the ceiling, walls, and floor by chains. A scene of roiling fire can be glimpsed within the crystal. In front of the crystal, an ornate rod is set into the floor.
 ^1d2
 
-The scrying crystal allowed Xonthal to peer into other planes, and is currently set to view the Elemental Plane of Fire. The view is controlled by the rod set into the floor, and moving it shifts the scene. Doing so properly is challenging, however. A character can attempt a DC 20 Dexterity ([Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check to move the rod. Success indicates that the crystal displays a brief glimpse of a stunning fiery vista near the City of Brass. Failure indicates that the crystal shows only flames.
+The scrying crystal allowed Xonthal to peer into other planes, and is currently set to view the Elemental Plane of Fire. The view is controlled by the rod set into the floor, and moving it shifts the scene. Doing so properly is challenging, however. A character can attempt a DC 20 Dexterity ([Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check to move the rod. Success indicates that the crystal displays a brief glimpse of a stunning fiery vista near the City of Brass. Failure indicates that the crystal shows only flames.
 
 ### 20. Spellbook Study
 
@@ -501,7 +501,7 @@ The scrying crystal allowed Xonthal to peer into other planes, and is currently 
 > A large, simple desk with several ink pots, quill pens, and a single chair occupy the center of this otherwise empty room.
 ^1d4
 
-Xonthal used this room for writing his spellbooks, but those books went with him when he vanished. The ink pots are dried up, but any character trained in [Arcana](/3-Mechanics/CLI/skills.md#Arcana) will recognize the specific type of ink used for magical writing. The quill pens are exquisitely fashioned and still usable.
+Xonthal used this room for writing his spellbooks, but those books went with him when he vanished. The ink pots are dried up, but any character trained in [Arcana](/03_Mechanics/CLI/skills.md#Arcana) will recognize the specific type of ink used for magical writing. The quill pens are exquisitely fashioned and still usable.
 
 ### 21. Storage Closet
 
@@ -516,11 +516,11 @@ Where the hallway bends to the northeast, it once again takes on the appearance 
 > Light shines out ahead as the corridor opens into a room set with comfortable-looking oversized furnishings. In the center of the room, a red-skinned creature wearing armor of flame, bronze, and volcanic stone sits cross-legged on the floor, studying a chessboard.
 ^1d7
 
-The creature is an [efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) named Taraz the Fair. The name has nothing to do with his sense of justice or fair play, however, but refers to the light hues of his fiery hair. Xonthal trapped Taraz and was trying to bend or trick the efreeti into service when he disappeared. The trapped creature has had over a century of solitude to rue its fate.
+The creature is an [efreeti](/03_Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) named Taraz the Fair. The name has nothing to do with his sense of justice or fair play, however, but refers to the light hues of his fiery hair. Xonthal trapped Taraz and was trying to bend or trick the efreeti into service when he disappeared. The trapped creature has had over a century of solitude to rue its fate.
 
-Taraz is held in this area by a thin line of magical salt. Imbued with potent wards by Xonthal, the salt rings the bases of all four walls and extends across the doorway in the joints between paving stones. A character with a passive [Perception](/3-Mechanics/CLI/skills.md#Perception) of 18 or higher notices the salt automatically. Otherwise, a character who looks carefully spots the salt with a successful DC 12 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check.
+Taraz is held in this area by a thin line of magical salt. Imbued with potent wards by Xonthal, the salt rings the bases of all four walls and extends across the doorway in the joints between paving stones. A character with a passive [Perception](/03_Mechanics/CLI/skills.md#Perception) of 18 or higher notices the salt automatically. Otherwise, a character who looks carefully spots the salt with a successful DC 12 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana) or [Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check.
 
-Taraz greets the adventurers with a fiery smile. He assumes correctly that the characters' arrival so soon after [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)'s appearance is no coincidence, and he uses the missing mage as leverage for negotiating. Taraz's only concern is escape, and he will do anything to win his freedom.
+Taraz greets the adventurers with a fiery smile. He assumes correctly that the characters' arrival so soon after [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)'s appearance is no coincidence, and he uses the missing mage as leverage for negotiating. Taraz's only concern is escape, and he will do anything to win his freedom.
 
 Taraz's conversation with the adventurers covers the following points—many of which are utter lies designed to help him gain the characters' trust:
 
@@ -528,8 +528,8 @@ Taraz's conversation with the adventurers covers the following points—many of 
 - Xonthal warded the chamber to prevent the efreeti from harming anyone, so that the wizard and the genie could play chess. Xonthal promised to set Taraz free if he ever won a match. (False on all counts. Xonthal never entered this area, because Taraz can and will harm creatures in his chamber.)  
 - The characters are perfectly safe in the corridor. (True, as long as Taraz is confined to area 22.)  
 - Taraz has no desire to harm the characters, and couldn't even if he wanted to, thanks to Xonthal's protective magic. (False. Xonthal's wards confine the efreeti and its magic to area 22, but they don't protect other creatures in that area.)  
-- Taraz saw a human ([Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)) come down the corridor ahead of the adventurers. He was carrying a mask that resembled a dragon's face, and he looked badly wounded. (All true.)  
-- [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) stumbled and fell off the walkway with the mask into the infinite space beyond, where he undoubtedly is still falling. To rescue him and recover the mask, the characters will need Taraz's help, for the only way to get the mask back from the cosmic well around the walkway is with a wish. The efreeti will bestow this powerful magic on the party in exchange for his freedom. (False on all counts, including the efreeti's ability to bestow a wish.)  
+- Taraz saw a human ([Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)) come down the corridor ahead of the adventurers. He was carrying a mask that resembled a dragon's face, and he looked badly wounded. (All true.)  
+- [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) stumbled and fell off the walkway with the mask into the infinite space beyond, where he undoubtedly is still falling. To rescue him and recover the mask, the characters will need Taraz's help, for the only way to get the mask back from the cosmic well around the walkway is with a wish. The efreeti will bestow this powerful magic on the party in exchange for his freedom. (False on all counts, including the efreeti's ability to bestow a wish.)  
 - Freeing Taraz is as simple as breaking the line of salt across the entryway. (True.)  
 
 In the end, Taraz is desperate to escape the dungeon, and he will promise almost anything—short of continued servitude—to win his freedom. Unless the terms of the deal are ironclad, however, the efreeti will seek a way to weasel out of any bargain once he is free, and to attack the characters out of sheer malice. Because he can fly, Taraz has no fear of falling off the walkway, and he will push characters off it.
@@ -545,17 +545,17 @@ In the end, Taraz is desperate to escape the dungeon, and he will promise almost
 
 In addition to his mastery of spatial magic, Xonthal dabbled in the manipulation of time. These hourglasses were part of his attempt to control the flow of time, though he abandoned that research. The hourglasses can be rotated by pulling on their chains, but the only effect is a hideous, ear-grating groan. The sand runs, but the hourglasses' magic has long since dissipated.
 
-Casting a [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals faint auras of transmutation magic within the sand of each hourglass. An hourglass has AC 5, 25 hit points, and vulnerability to bludgeoning and thunder damage. An hourglass that drops to 0 hit points shatters, spilling its sand onto the floor. Sifting through the pile reveals `1d4 + 2` tiny diamonds amid the grains of sand. Each diamond has an apparent value of 100 gp, and a character in possession of a diamond can use a bonus action to teleport to a space it can see up to 30 feet away, whereupon the diamond disappears.
+Casting a [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals faint auras of transmutation magic within the sand of each hourglass. An hourglass has AC 5, 25 hit points, and vulnerability to bludgeoning and thunder damage. An hourglass that drops to 0 hit points shatters, spilling its sand onto the floor. Sifting through the pile reveals `1d4 + 2` tiny diamonds amid the grains of sand. Each diamond has an apparent value of 100 gp, and a character in possession of a diamond can use a bonus action to teleport to a space it can see up to 30 feet away, whereupon the diamond disappears.
 
-[Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) has been dead since shortly after he arrived here, slain by the wounds inflicted by the elementals. The (false) Blue Dragon Mask is bloody but undamaged.
+[Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) has been dead since shortly after he arrived here, slain by the wounds inflicted by the elementals. The (false) Blue Dragon Mask is bloody but undamaged.
 
 ## Exiting Xonthal's Tower
 
 The teleport circle in area 14  can take the characters back to any level of the tower (areas 8 to 13). The teleport circles in those areas can take them back to the sundial, from which they can exit the maze. The characters are not yet in the clear, though.
 
-However much Jorgen Pawl opposed [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md), he remained loyal to the Cult of the Dragon. As soon as he understood that the traitorous [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) was somehow in league with the adventurers, he used [sending](/3-Mechanics/CLI/spells/sending-xphb.md) to call an [adult blue dragon](/3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md) from its nearby lair, telling it of [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md)'s theft of the dragon mask.
+However much Jorgen Pawl opposed [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md), he remained loyal to the Cult of the Dragon. As soon as he understood that the traitorous [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) was somehow in league with the adventurers, he used [sending](/03_Mechanics/CLI/spells/sending-xphb.md) to call an [adult blue dragon](/03_Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md) from its nearby lair, telling it of [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md)'s theft of the dragon mask.
 
-When the characters teleport to the sundial, they are greeted by the terrible sound of villagers screaming, a dragon roaring, and lightning bolts tearing houses to splinters. When they reach the edge of the garden, they see the dragon swooping over the village and terrified villagers fleeing in every direction. A character with passive [Perception](/3-Mechanics/CLI/skills.md#Perception) of 14 or higher recognizes this dragon as Lennithon, the adult blue dragon the party faced in the *Hoard of the Dragon Queen*.
+When the characters teleport to the sundial, they are greeted by the terrible sound of villagers screaming, a dragon roaring, and lightning bolts tearing houses to splinters. When they reach the edge of the garden, they see the dragon swooping over the village and terrified villagers fleeing in every direction. A character with passive [Perception](/03_Mechanics/CLI/skills.md#Perception) of 14 or higher recognizes this dragon as Lennithon, the adult blue dragon the party faced in the *Hoard of the Dragon Queen*.
 
 Like any smart foe, Lennithon tries to fight on its terms, not the enemy's. It stays in the air and uses its breath weapon to maximum effect. If the characters refuse to face it, Lennithon is happy to wreck the village and murder innocents in an effort to bring the heroes into the open.
 
@@ -566,12 +566,12 @@ When the characters face the dragon, read or paraphrase the following.
 > "The mask, fools! The mask is what I've come for. Give it to me, and I'll leave these crawling ants with their miserable lives. The Queen is returning! Who are you to hope to stop her? Give me the mask!"
 ^1db
 
-This dragon is loyal to the cult, but it has no intention of getting killed before [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md)'s glorious return. It fights until it is reduced to 75 hit points, then flies away to recuperate.
+This dragon is loyal to the cult, but it has no intention of getting killed before [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md)'s glorious return. It fights until it is reduced to 75 hit points, then flies away to recuperate.
 
 ## Conclusion
 
-If any of the cultists in the tower are left alive for questioning, or if the characters use [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) to converse with either Jorgen Pawl or [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md), they learn nothing new of [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md)'s plots. The cultists here are motivated primarily by self-interest.
+If any of the cultists in the tower are left alive for questioning, or if the characters use [speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) to converse with either Jorgen Pawl or [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md), they learn nothing new of [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)'s plots. The cultists here are motivated primarily by self-interest.
 
-The fact that the Blue Dragon Mask is a forgery is quickly discovered by experts at Waterdeep. It becomes a cause for much concern among the members of the council, some of who see it as a sign that the cult might have placed spies within the council. [Speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md) used to contact either [Iskander](/3-Mechanics/CLI/bestiary/npc/iskander-rot.md) or Jorgen Pawl can shed some light on why a false mask might have been supplied to the cultists at Xonthal's Tower, but the false mask might otherwise remain a troubling mystery.
+The fact that the Blue Dragon Mask is a forgery is quickly discovered by experts at Waterdeep. It becomes a cause for much concern among the members of the council, some of who see it as a sign that the cult might have placed spies within the council. [Speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) used to contact either [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) or Jorgen Pawl can shed some light on why a false mask might have been supplied to the cultists at Xonthal's Tower, but the false mask might otherwise remain a troubling mystery.
 
 The characters gain a level at the end of this chapter.

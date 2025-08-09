@@ -54,7 +54,7 @@ modified: 2025-07-23 12:39
 
 ### Forge Domain (Level 3)
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](/3-Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/3-Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/3-Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/3-Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/3-Mechanics/CLI/deities/celtic-goibhniu.md).
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](/03_Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/03_Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/03_Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/03_Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/03_Mechanics/CLI/deities/celtic-goibhniu.md).
 
 At each indicated cleric level, add the listed spells to your spells prepared.
 
@@ -62,16 +62,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [identify](/3-Mechanics/CLI/spells/identify-xphb.md), [searing smite](/3-Mechanics/CLI/spells/searing-smite-xphb.md) |
-| 3rd | [heat metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md), [magic weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md) |
-| 5th | [elemental weapon](/3-Mechanics/CLI/spells/elemental-weapon-xphb.md), [protection from energy](/3-Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 7th | [fabricate](/3-Mechanics/CLI/spells/fabricate-xphb.md), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9th | [animate objects](/3-Mechanics/CLI/spells/animate-objects-xphb.md), [creation](/3-Mechanics/CLI/spells/creation-xphb.md) |
+| 1st | [identify](/03_Mechanics/CLI/spells/identify-xphb.md), [searing smite](/03_Mechanics/CLI/spells/searing-smite-xphb.md) |
+| 3rd | [heat metal](/03_Mechanics/CLI/spells/heat-metal-xphb.md), [magic weapon](/03_Mechanics/CLI/spells/magic-weapon-xphb.md) |
+| 5th | [elemental weapon](/03_Mechanics/CLI/spells/elemental-weapon-xphb.md), [protection from energy](/03_Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 7th | [fabricate](/03_Mechanics/CLI/spells/fabricate-xphb.md), [wall of fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 9th | [animate objects](/03_Mechanics/CLI/spells/animate-objects-xphb.md), [creation](/03_Mechanics/CLI/spells/creation-xphb.md) |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](/3-Mechanics/CLI/items/smiths-tools-xphb.md).
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md).
 
 ### Blessing of the Forge (Level 1)
 

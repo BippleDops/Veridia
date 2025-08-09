@@ -48,8 +48,8 @@ Witherlings travel with their comrades and try to kill anything in their path. T
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Gnoll but can't speak"
 "cr": "1/4"
@@ -77,7 +77,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp"
 ```
 ^statblock
 

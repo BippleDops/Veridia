@@ -45,31 +45,31 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "1"
 "speed": "5 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 30 ft., passive Perception 5"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The gas spore bursts when it dies. Constitution Saving Throw: DC 10,\
-      \ each creature in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ each creature in a 20-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the gas spore. Failure: The target takes 10 (3d6) Poison\
-      \ damage and has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-      \ for d12 hours. Unless the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ damage and has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ for d12 hours. Unless the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition is removed, the target dies at the end of that time and sprouts\
-      \ 2d4 Tiny Gas Spore Fungi (each with 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)).\
-      \ After 2d6 days, they become Large and have 13 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ 2d4 Tiny Gas Spore Fungi (each with 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)).\
+      \ After 2d6 days, they become Large and have 13 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
     "name": "Death Burst"
 "actions":
   - "desc": "Melee Attack Roll: +0, reach 5 ft. Hit: 3 (d6) Poison damage, and\
-      \ the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition\
       \ until the end of its next turn."
     "name": "Tendril"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/gas-spore-fungus-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/gas-spore-fungus-xmm.webp"
 ```
 ^statblock
 

@@ -70,7 +70,7 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/giant-strider-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/giant-strider-mpmm.webp"
 ```
 ^statblock
 

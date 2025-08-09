@@ -56,9 +56,9 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "saves":
   - "intelligence": !!int "4"
   - "charisma": !!int "2"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
 "languages": ""
 "cr": "1/4"
@@ -77,7 +77,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/oblex-spawn-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/ooze/token/oblex-spawn-mpmm.webp"
 ```
 ^statblock
 

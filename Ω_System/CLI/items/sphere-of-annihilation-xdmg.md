@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 ---
 # Sphere of Annihilation
 *Wondrous item, legendary*  
-![](/3-Mechanics/CLI/items/img/sphere-of-annihilation.webp#right)
+![](/03_Mechanics/CLI/items/img/sphere-of-annihilation.webp#right)
 
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
@@ -23,13 +23,13 @@ The sphere obliterates all matter it passes through and all matter that passes t
 
 ## Controlling the Sphere
 
-A Sphere of Annihilation is stationary until someone takes control of it. If you are within 60 feet of a sphere, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to make a DC 25 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you control the sphere until the start of your next turn, and if it was under another creature's control, that creature loses control of the sphere. On a failed check, the sphere moves 10 feet toward you in a straight line.
+A Sphere of Annihilation is stationary until someone takes control of it. If you are within 60 feet of a sphere, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to make a DC 25 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you control the sphere until the start of your next turn, and if it was under another creature's control, that creature loses control of the sphere. On a failed check, the sphere moves 10 feet toward you in a straight line.
 
-While in control of the sphere, you can take a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md) to cause it to move in one direction of your choice, up to a number of feet equal to 5 times your Intelligence modifier (minimum 5 feet). Any creature whose space the sphere enters must succeed on a DC 19 Dexterity saving throw or be touched by it, taking `8d10` Force damage. A creature reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) by this damage is obliterated, leaving its possessions behind but no other physical remains.
+While in control of the sphere, you can take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) to cause it to move in one direction of your choice, up to a number of feet equal to 5 times your Intelligence modifier (minimum 5 feet). Any creature whose space the sphere enters must succeed on a DC 19 Dexterity saving throw or be touched by it, taking `8d10` Force damage. A creature reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) by this damage is obliterated, leaving its possessions behind but no other physical remains.
 
 ## Sphere Interactions
 
-If the sphere comes into contact with a planar portal (such as that created by the [Gate](/3-Mechanics/CLI/spells/gate-xphb.md) spell) or an extradimensional space (such as that within a Portable Hole), the DM determines randomly what happens using the following table.
+If the sphere comes into contact with a planar portal (such as that created by the [Gate](/03_Mechanics/CLI/spells/gate-xphb.md) spell) or an extradimensional space (such as that within a Portable Hole), the DM determines randomly what happens using the following table.
 
 `dice: [](sphere-of-annihilation-xdmg.md#^1-result)`
 

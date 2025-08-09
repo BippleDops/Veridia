@@ -50,17 +50,17 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
+"condition_immunities": "[deafened](/03_Mechanics/CLI/conditions.md#Deafened)"
 "senses": "blindsight 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-  - "desc": "The blight has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The blight has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the blight's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -68,7 +68,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/twig-blight-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/twig-blight-xmm.webp"
 ```
 ^statblock
 

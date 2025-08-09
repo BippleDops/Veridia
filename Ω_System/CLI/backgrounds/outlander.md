@@ -14,10 +14,10 @@ modified: 2025-07-23 12:39
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Skill Proficiencies.** [Athletics](/03_Mechanics/CLI/skills.md#Athletics), [Survival](/03_Mechanics/CLI/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [staff](/3-Mechanics/CLI/items/staff-xphb.md), a [hunting trap](/3-Mechanics/CLI/items/hunting-trap-xphb.md), a trophy from an animal you killed, a set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A [staff](/03_Mechanics/CLI/items/staff-xphb.md), a [hunting trap](/03_Mechanics/CLI/items/hunting-trap-xphb.md), a trophy from an animal you killed, a set of [traveler's clothes](/03_Mechanics/CLI/items/travelers-clothes-xphb.md), and a belt [pouch](/03_Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
 

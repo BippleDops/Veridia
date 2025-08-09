@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Light Hammer
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/light-hammer.webp#right)
+![](/03_Mechanics/CLI/items/img/light-hammer.webp#right)
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Light](/03_Mechanics/CLI/item-properties.md#Light), [Thrown](/03_Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 2 gp
 - **Weight**: 2.0 lbs.
 

@@ -17,9 +17,9 @@ modified: 2025-07-23 12:39
 *Adventuring gear, poison (ingested)*  
 
 
-- **Properties**: [Poison](/3-Mechanics/CLI/item-properties.md#Poison)
+- **Properties**: [Poison](/03_Mechanics/CLI/item-properties.md#Poison)
 - **Cost**: 250 gp
 
-A creature subjected to Pale Tincture must succeed on a DC 16 Constitution saving throw or take 3 (`d6`) Poison damage and have the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition. The [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) creature repeats the save every 24 hours, taking 3 (`d6`) Poison damage on a failed save. The damage the poison deals can't be healed by any means while the creature remains [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). After seven successful saves against the poison, the creature is no longer [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).
+A creature subjected to Pale Tincture must succeed on a DC 16 Constitution saving throw or take 3 (`d6`) Poison damage and have the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition. The [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature repeats the save every 24 hours, taking 3 (`d6`) Poison damage on a failed save. The damage the poison deals can't be healed by any means while the creature remains [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned). After seven successful saves against the poison, the creature is no longer [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).
 
 *Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*

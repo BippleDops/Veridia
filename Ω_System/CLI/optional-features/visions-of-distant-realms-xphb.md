@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 9 Warlock
 
-You can cast [Arcane Eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md) without expending a spell slot.
+You can cast [Arcane Eye](/03_Mechanics/CLI/spells/arcane-eye-xphb.md) without expending a spell slot.

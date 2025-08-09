@@ -41,11 +41,11 @@ aliases:
       \ ft. Hit: 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing\
       \ damage (your choice when you summon the beast). If the beast moved at least\
       \ 20 feet straight toward the target before the hit, the target takes an extra\
-      \ d6 damage of the same type, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ d6 damage of the same type, and the target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition if it is a Large or smaller creature."
     "name": "Beast's Strike"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-land-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/beast-of-the-land-xphb.webp"
 ```
 ^statblock

@@ -61,13 +61,13 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
   - !!int "14"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+3"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Elvish, Sylvan"
@@ -76,17 +76,17 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 11): [Augury](/3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md),\
-      \ [Identify](/3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ save DC 11): [Augury](/03_Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md),\
+      \ [Identify](/03_Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md).\
+      \ The hag must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md)\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "The hag can breathe air and water."
     "name": "Amphibious"
   - "desc": "The hag can mimic animal sounds and humanoid voices. A creature that\
       \ hears the sounds can tell they are imitations only with a successful DC 14\
-      \ Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check."
     "name": "Mimicry"
 "actions":
   - "desc": "The hag makes two Claw attacks."
@@ -96,16 +96,16 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
     "name": "Claw"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 12, +4 to hit\
-      \ with spell attacks):\n\nAt will: [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) (24-hour duration),\
-      \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only, and\
-      \ the hag leaves no tracks while Invisible), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [Ray of Sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) (level\
+      \ with spell attacks):\n\nAt will: [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) (24-hour duration),\
+      \ [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (self only, and\
+      \ the hag leaves no tracks while Invisible), [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [Ray of Sickness](/03_Mechanics/CLI/spells/ray-of-sickness-xphb.md) (level\
       \ 3 version)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/green-hag-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/green-hag-xmm.webp"
 ```
 ^statblock
 

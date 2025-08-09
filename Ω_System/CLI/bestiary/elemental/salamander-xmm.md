@@ -60,7 +60,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 5-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the salamander takes 7 (2d6) Fire damage."
     "name": "Fire Aura"
 "actions":
@@ -74,13 +74,13 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
     "name": "Flame Spear"
   - "desc": "Strength Saving Throw: DC 15, one Large or smaller creature the salamander\
       \ can see within 10 feet. Failure: 11 (2d6 + 4) Bludgeoning damage plus 7\
-      \ (2d6) Fire damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ (2d6) Fire damage. The target has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 14), and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition until the grapple ends."
     "name": "Constrict"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/salamander-xmm.webp"
 ```
 ^statblock
 

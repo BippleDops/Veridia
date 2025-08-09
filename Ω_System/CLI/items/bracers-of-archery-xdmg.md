@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Bracers of Archery
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/bracers-of-archery.webp#right)
+![](/03_Mechanics/CLI/items/img/bracers-of-archery.webp#right)
 
 
 While wearing these bracers, you have proficiency with the Longbow and Shortbow, and you gain a +2 bonus to damage rolls made with such weapons.

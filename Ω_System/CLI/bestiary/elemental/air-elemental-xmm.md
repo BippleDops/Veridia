@@ -67,11 +67,11 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "speed": "10 ft., fly 90 ft. (hover)"
 "damage_resistances": "bludgeoning, lightning, piercing, slashing"
 "damage_immunities": "poison, thunder"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Auran)"
 "cr": "5"
@@ -87,12 +87,12 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
     "name": "Thunderous Slam"
   - "desc": "Strength Saving Throw: DC 13, one Medium or smaller creature in the\
       \ elemental's space. Failure: 24 (4d10 + 2) Thunder damage, and the target\
-      \ is pushed up to 20 feet straight away from the elemental and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ is pushed up to 20 feet straight away from the elemental and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition. Success: Half damage only."
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/air-elemental-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/air-elemental-xmm.webp"
 ```
 ^statblock
 

@@ -60,9 +60,9 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - "intelligence": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "senses": "blindsight 30 ft., passive Perception 18"
 "languages": "Common, Draconic, Gith"
@@ -72,26 +72,26 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +10, reach 10 ft. or range 120 ft. Hit:\
       \ 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the target has\
-      \ the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until\
+      \ the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition until\
       \ the start of the githyanki's next turn."
     "name": "Draconic Strike"
-  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: 27 (6d8) Fire damage plus 27 (6d8) Force damage. Success: Half\
       \ damage."
     "name": "Conjured Dragon's Breath (Recharge 5-6)"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18, +10\
-      \ to hit with spell attacks):\n\nAt will: [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-      \ (the hand is Invisible)\n\n2/day each: [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
-      \ (self only), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+      \ to hit with spell attacks):\n\nAt will: [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md)\
+      \ (the hand is Invisible)\n\n2/day each: [Nondetection](/03_Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only), [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md), [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+  - "desc": "The githyanki casts [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md),\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-dracomancer-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/githyanki-dracomancer-xmm.webp"
 ```
 ^statblock
 

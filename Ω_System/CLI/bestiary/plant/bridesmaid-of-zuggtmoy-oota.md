@@ -46,8 +46,8 @@ aliases:
 "actions":
   - "desc": "The bridesmaid ejects spores at one creature it can see within 5 feet\
       \ of it. The target must succeed on a DC 10 Constitution saving throw or be\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ in this way, the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).\
+      \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) for 1 minute. While [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ in this way, the target is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Hallucination Spores"
@@ -68,6 +68,6 @@ aliases:
     "name": "Infestation Spores (1/Day)"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/bridesmaid-of-zuggtmoy-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/bridesmaid-of-zuggtmoy-oota.webp"
 ```
 ^statblock

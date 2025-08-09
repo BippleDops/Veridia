@@ -53,17 +53,17 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+3"
 "damage_resistances": "acid, cold"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-  - "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on attack rolls against any creature that doesn't have all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -79,18 +79,18 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Spectral Jaws"
   - "desc": "The sahuagin casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
-      2/day each: [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+      \nAt will: [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
+      2/day each: [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [Tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The sahuagin casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md) or\
-      \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), using the same\
+  - "desc": "The sahuagin casts [Bless](/03_Mechanics/CLI/spells/bless-xphb.md) or\
+      \ [Healing Word](/03_Mechanics/CLI/spells/healing-word-xphb.md), using the same\
       \ spellcasting ability as Spellcasting.\n"
     "name": "Fiendish Aid (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
 ```
 ^statblock
 

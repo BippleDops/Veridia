@@ -17,7 +17,7 @@ aliases:
 # [Maurezhi](3-Mechanics\CLI\bestiary\fiend/maurezhi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  
 
-When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) and [ghasts](/3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) on the Material Plane.
+When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) and [ghasts](/03_Mechanics/CLI/bestiary/undead/ghast-xmm.md) on the Material Plane.
 
 When a maurezhi consumes the corpse of a Humanoid it has slain—a process that takes about 10 minutes—it instantly assumes the creature's appearance as it was in life. The new appearance begins to rot away over the next few days, eventually revealing the demon's original form.
 
@@ -43,13 +43,13 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; necrotic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Elvish, telepathy 120 ft."
 "cr": "7"
@@ -68,22 +68,22 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
       \ (2d10 + 3) piercing damage. If the target is a Humanoid, its Charisma score\
       \ is reduced by d4. This reduction lasts until the target finishes a short or\
       \ long rest. The target dies if this reduces its Charisma to 0. It rises 24\
-      \ hours later as a [ghoul](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)  unless\
+      \ hours later as a [ghoul](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md)  unless\
       \ it has been revived or its corpse has been destroyed."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d8 + 3) slashing damage. If the target is a creature other than an Undead,\
-      \ it must succeed on a DC 12 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 12 Constitution saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claw"
-  - "desc": "The maurezhi targets one dead ghoul or [ghast](/3-Mechanics/CLI/bestiary/undead/ghast-xmm.md)\
+  - "desc": "The maurezhi targets one dead ghoul or [ghast](/03_Mechanics/CLI/bestiary/undead/ghast-xmm.md)\
       \ it can see within 30 feet of it. The target is revived with all its hit points."
     "name": "Raise Ghoul (Recharge 5-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/maurezhi-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/maurezhi-mpmm.webp"
 ```
 ^statblock
 

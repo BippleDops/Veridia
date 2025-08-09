@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB")
+- [Shatter](/03_Mechanics/CLI/spells/shatter-xphb.md "XPHB")

@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Wand of Paralysis
 *Wand, rare (requires attunement by a spellcaster)*  
-![](/3-Mechanics/CLI/items/img/wand-of-paralysis.webp#right)
+![](/03_Mechanics/CLI/items/img/wand-of-paralysis.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to expend 1 charge to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of yourself. The target must succeed on a DC 15 Constitution saving throw or have the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition for 1 minute. At the end of each of the target's turns, it repeats the save, ending the effect on itself on a success.
+This wand has 7 charges. While holding it, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to expend 1 charge to cause a thin blue ray to streak from the tip toward a creature you can see within 60 feet of yourself. The target must succeed on a DC 15 Constitution saving throw or have the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition for 1 minute. At the end of each of the target's turns, it repeats the save, ending the effect on itself on a success.
 
 ## Regaining Charges
 

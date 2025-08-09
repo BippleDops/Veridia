@@ -27,10 +27,10 @@ modified: 2025-07-23 12:39
 
 You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 
-The target can take a [Study](/3-Mechanics/CLI/actions.md#Study) action to try to escape. When it does so, it makes a DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check. If it succeeds, it escapes, and the spell ends.
+The target can take a [Study](/03_Mechanics/CLI/actions.md#Study) action to try to escape. When it does so, it makes a DC 20 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check. If it succeeds, it escapes, and the spell ends.
 
 When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

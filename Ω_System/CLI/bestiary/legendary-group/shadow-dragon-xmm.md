@@ -17,7 +17,7 @@ _Source: Monster Manual (2024)_
 
 The region around a shadow dragon's lair is twisted by its presence, creating the following effects:
 
-- **Negative Energy Suffusion.** Whenever a creature within 1 mile of the lair regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) from a spell, it subtracts `d10` from the number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) regained.  
-- **Stifling Shadows.** Within 1 mile of the lair, effects that normally create [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) instead create [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md), and creatures there have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.  
+- **Negative Energy Suffusion.** Whenever a creature within 1 mile of the lair regains [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) from a spell, it subtracts `d10` from the number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) regained.  
+- **Stifling Shadows.** Within 1 mile of the lair, effects that normally create [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) instead create [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md), and creatures there have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.

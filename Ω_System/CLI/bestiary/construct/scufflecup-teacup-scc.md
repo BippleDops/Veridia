@@ -35,8 +35,8 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
   - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "0"
@@ -46,6 +46,6 @@ Scufflecup is a game students created after finding a box of teacups in a nearby
     "name": "Slam"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/scufflecup-teacup-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/scufflecup-teacup-scc.webp"
 ```
 ^statblock

@@ -50,7 +50,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "4"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "necrotic"
 "senses": "darkvision 60 ft., passive Perception 13"
@@ -73,7 +73,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp"
 ```
 ^statblock
 

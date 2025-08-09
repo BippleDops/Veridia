@@ -13,12 +13,12 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Poison Spray](/3-Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") 
+- [Poison Spray](/03_Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") 
 
 ## 1st Level
 
-- [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") 
+- [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") 
 
 ## 2nd Level
 
-- [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB")
+- [Suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md "XPHB")

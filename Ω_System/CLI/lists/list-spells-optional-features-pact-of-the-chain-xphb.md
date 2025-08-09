@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md "XPHB")
+- [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md "XPHB")

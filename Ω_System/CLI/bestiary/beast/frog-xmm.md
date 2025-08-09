@@ -19,7 +19,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Frog (XMM)"
@@ -39,9 +39,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+1"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+3"
 "senses": "darkvision 30 ft., passive Perception 11"
 "languages": ""
@@ -49,8 +49,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "traits":
   - "desc": "The frog can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The frog's [Long Jump](/3-Mechanics/CLI/variant-rules/long-jump-xphb.md)\
-      \ is up to 10 feet and its [High Jump](/3-Mechanics/CLI/variant-rules/high-jump-xphb.md)\
+  - "desc": "The frog's [Long Jump](/03_Mechanics/CLI/variant-rules/long-jump-xphb.md)\
+      \ is up to 10 feet and its [High Jump](/03_Mechanics/CLI/variant-rules/high-jump-xphb.md)\
       \ is up to 5 feet with or without a running start."
     "name": "Standing Leap"
 "actions":
@@ -59,7 +59,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/frog-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/frog-xmm.webp"
 ```
 ^statblock
 

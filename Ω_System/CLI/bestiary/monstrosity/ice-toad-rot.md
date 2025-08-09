@@ -40,7 +40,7 @@ When the characters encounter ice toads, their intelligence won't be apparent un
   - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 12"
@@ -57,11 +57,11 @@ When the characters encounter ice toads, their intelligence won't be apparent un
     "name": "Standing Leap"
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (d8)\
-      \ cold damage. If the target is a Medium or smaller creature it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ cold damage. If the target is a Medium or smaller creature it is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 11). Until this grapple ends, the toad can't bite another target."
     "name": "Bite"
 "source":
   - "RoT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ice-toad-rot.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/ice-toad-rot.webp"
 ```
 ^statblock

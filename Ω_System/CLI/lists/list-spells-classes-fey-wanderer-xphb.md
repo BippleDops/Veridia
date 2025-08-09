@@ -13,20 +13,20 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 3
+- [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
+- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Summon Fey](/3-Mechanics/CLI/spells/summon-fey-xphb.md "XPHB") at class level 3
+- [Summon Fey](/03_Mechanics/CLI/spells/summon-fey-xphb.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Dimension Door](/3-Mechanics/CLI/spells/dimension-door-xphb.md "XPHB") at class level 3
+- [Dimension Door](/03_Mechanics/CLI/spells/dimension-door-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Mislead](/3-Mechanics/CLI/spells/mislead-xphb.md "XPHB") at class level 3
+- [Mislead](/03_Mechanics/CLI/spells/mislead-xphb.md "XPHB") at class level 3

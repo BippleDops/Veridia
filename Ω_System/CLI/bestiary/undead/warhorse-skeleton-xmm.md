@@ -63,20 +63,20 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
 "cr": "1/2"
 "actions":
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 7 (1d6 + 4) Bludgeoning damage.\
       \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
-      \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ straight toward it immediately before the hit, the target has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Hooves"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/warhorse-skeleton-xmm.webp"
 ```
 ^statblock
 

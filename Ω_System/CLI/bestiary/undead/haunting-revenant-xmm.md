@@ -53,11 +53,11 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
   - "wisdom": !!int "8"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "truesight 60 ft., passive Perception 14"
 "languages": "Common plus two other languages"
 "cr": "10"
@@ -66,31 +66,31 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
       \ inside the revenant's space. Failure: The spell fails and is wasted."
     "name": "Haunted Zone"
   - "desc": "If the revenant dies, it revives 24 hours later unless [Dispel Evil and\
-      \ Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast on its\
+      \ Good](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast on its\
       \ remains. If it revives, it animates another Gargantuan object or structure\
       \ elsewhere on the same plane of existence; it now looks different but uses\
-      \ the same stat block and returns with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ the same stat block and returns with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
     "name": "Undead Restoration"
 "actions":
-  - "desc": "The revenant makes two [Object](/3-Mechanics/CLI/variant-rules/object-xphb.md)\
+  - "desc": "The revenant makes two [Object](/03_Mechanics/CLI/variant-rules/object-xphb.md)\
       \ Slam attacks and uses Invitation."
     "name": "Multiattack"
-  - "desc": "Melee  or Ranged Attack Roll: +9 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "Melee  or Ranged Attack Roll: +9 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ if the target is inside the revenant's space), reach 10 ft. or range 30/90\
       \ ft. Hit: 27 (5d8 + 5) Bludgeoning damage."
     "name": "Object Slam"
-  - "desc": "Charisma Saving Throw: DC 17, each creature in a 60-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "Charisma Saving Throw: DC 17, each creature in a 60-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
       \ Failure: The target is teleported inside the revenant's space and swallowed.\
-      \ A swallowed creature has [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md)\
+      \ A swallowed creature has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md)\
       \ against attacks and other effects outside the revenant.\n\nWhile the revenant\
-      \ has [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), a swallowed\
+      \ has [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), a swallowed\
       \ creature can leave the revenant's space only by using magic that enables planar\
-      \ travel, such as the [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \ travel, such as the [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md)\
       \ spell."
     "name": "Invitation"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/haunting-revenant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/haunting-revenant-xmm.webp"
 ```
 ^statblock
 

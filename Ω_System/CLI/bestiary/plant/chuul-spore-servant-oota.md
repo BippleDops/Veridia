@@ -34,9 +34,9 @@ aliases:
   - !!int "1"
 "speed": "30 ft., swim 30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
@@ -44,12 +44,12 @@ aliases:
   - "desc": "The spore servant makes two pincer attacks."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11\
-      \ (2d6 + 4) bludgeoning damage. The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (2d6 + 4) bludgeoning damage. The target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (Escape DC 14) if it is a Large or smaller creature and the spore servant\
-      \ doesn't have two other creatures [grappled](/3-Mechanics/CLI/conditions.md#Grappled)."
+      \ doesn't have two other creatures [grappled](/03_Mechanics/CLI/conditions.md#Grappled)."
     "name": "Pincer"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/chuul-spore-servant-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/chuul-spore-servant-oota.webp"
 ```
 ^statblock

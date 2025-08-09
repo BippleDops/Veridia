@@ -38,7 +38,7 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
   - !!int "4"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "fire"
 "senses": "blindsight 10 ft., passive Perception 14"
@@ -52,10 +52,10 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 16\
       \ (2d10 + 5) piercing damage plus 3 (d6) poison damage. If the target is a creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Tusk"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/brackish-trudge-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/brackish-trudge-scc.webp"
 ```
 ^statblock

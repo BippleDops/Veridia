@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, it removes any [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) levels you have and ends the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition on you. For the next 24 hours, you regain the maximum number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) for any [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) Die you spend.
+When you drink this potion, it removes any [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) levels you have and ends the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition on you. For the next 24 hours, you regain the maximum number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) for any [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) Die you spend.
 
 This potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 

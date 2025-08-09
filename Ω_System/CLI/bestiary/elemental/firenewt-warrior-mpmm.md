@@ -31,7 +31,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "13"
-"ac_class": "[shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[shield](/03_Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "1"
@@ -63,7 +63,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/firenewt-warrior-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/firenewt-warrior-mpmm.webp"
 ```
 ^statblock
 

@@ -40,20 +40,20 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
   - !!int "14"
 "speed": "40 ft. (hover)"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "4"
@@ -82,15 +82,15 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
     "name": "Possess Corpse (Recharge 6)"
   - "desc": "The dybbuk casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\nAt\
-      \ will: [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md)\n\
-      \n3/day: [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md)"
+      \ will: [dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md)\n\
+      \n3/day: [phantasmal force](/03_Mechanics/CLI/spells/phantasmal-force-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\
       \ unnatural, such as vomit blood, twist its head all the way around, or cause\
       \ a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior\
-      \ must succeed on a DC 12 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of the dybbuk for 1 minute. The [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ must succeed on a DC 12 Wisdom saving throw or become [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
+      \ of the dybbuk for 1 minute. The [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. A creature that succeeds on a saving throw\
       \ against this ability is immune to Control Corpse for 24 hours."
@@ -98,7 +98,7 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/dybbuk-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/dybbuk-mpmm.webp"
 ```
 ^statblock
 

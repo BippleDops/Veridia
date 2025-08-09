@@ -16,4 +16,4 @@ You can work between adventures, allowing you to maintain a modest lifestyle wit
 
 If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
 
-If you have proficiency in the [Performance](/3-Mechanics/CLI/skills.md#Performance) skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.
+If you have proficiency in the [Performance](/03_Mechanics/CLI/skills.md#Performance) skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead.

@@ -55,16 +55,16 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "intelligence": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "desc": "\n\nOne of [Arcana](/3-Mechanics/CLI/skills.md#Arcana) +7, [History](/3-Mechanics/CLI/skills.md#History)\
-      \ +7, [Nature](/3-Mechanics/CLI/skills.md#Nature) +7, or [Religion](/3-Mechanics/CLI/skills.md#Religion)\
+  - "desc": "\n\nOne of [Arcana](/03_Mechanics/CLI/skills.md#Arcana) +7, [History](/03_Mechanics/CLI/skills.md#History)\
+      \ +7, [Nature](/03_Mechanics/CLI/skills.md#Nature) +7, or [Religion](/03_Mechanics/CLI/skills.md#Religion)\
       \ +7"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 60 ft. (blind beyond this distance), passive Perception 14"
 "languages": "Common plus two more languages"
 "cr": "5"
@@ -85,22 +85,22 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "desc": "The oblex targets one creature it can see within 5 feet of it. The target\
       \ must succeed on a DC 15 Wisdom saving throw or take 18 (4d8) psychic damage\
       \ and become memory drained until it finishes a short or long rest or until\
-      \ it benefits from the [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ or [heal](/3-Mechanics/CLI/spells/heal-xphb.md) spell. Constructs, Oozes,\
+      \ it benefits from the [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md)\
+      \ or [heal](/03_Mechanics/CLI/spells/heal-xphb.md) spell. Constructs, Oozes,\
       \ Plants, and Undead succeed on the save automatically.\n\nWhile memory drained,\
       \ the target must roll a d4 and subtract the number rolled from its ability\
       \ checks and attack rolls. Each time the target is memory drained beyond the\
       \ first, the die size increases by one: the d4 becomes a d6, the d6 becomes\
       \ a d8, and so on until the die becomes a d20, at which point the target becomes\
-      \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) for 1 hour. The\
+      \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) for 1 hour. The\
       \ effect then ends.\n\nThe oblex learns all the languages a memory-drained target\
       \ knows and gains all its skill proficiencies."
     "name": "Eat Memories"
   - "desc": "The oblex casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      3/day each: [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md)\
-      \ (as 5th-level spell), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [hypnotic pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
+      3/day each: [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md)\
+      \ (as 5th-level spell), [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [hypnotic pattern](/03_Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The oblex extrudes a piece of itself that assumes the appearance of one\
@@ -117,7 +117,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/adult-oblex-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/ooze/token/adult-oblex-mpmm.webp"
 ```
 ^statblock
 

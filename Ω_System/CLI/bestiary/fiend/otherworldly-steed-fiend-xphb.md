@@ -42,7 +42,7 @@ aliases:
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. Failure: The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 60 feet the steed can see. Failure: The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Recharges after a Long Rest)"
 "source":

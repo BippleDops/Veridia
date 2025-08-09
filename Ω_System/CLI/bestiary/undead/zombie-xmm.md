@@ -57,16 +57,16 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "If damage reduces the zombie to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+  - "desc": "If damage reduces the zombie to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
       \ it makes a Constitution saving throw (DC 5 plus the damage taken) unless the\
-      \ damage is Radiant or from a [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
-      \ On a successful save, the zombie drops to 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ damage is Radiant or from a [Critical Hit](/03_Mechanics/CLI/variant-rules/critical-hit-xphb.md).\
+      \ On a successful save, the zombie drops to 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ instead."
     "name": "Undead Fortitude"
 "actions":
@@ -75,7 +75,7 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/zombie-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/zombie-xmm.webp"
 ```
 ^statblock
 

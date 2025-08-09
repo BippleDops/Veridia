@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Splint Armor
 *Heavy armor*  
-![](/3-Mechanics/CLI/items/img/splint-armor.webp#right)
+![](/03_Mechanics/CLI/items/img/splint-armor.webp#right)
 
 - **Armor Class**: 17
 - **Strength**: Requires 15 STR.

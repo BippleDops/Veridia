@@ -69,23 +69,23 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [deafened](/03_Mechanics/CLI/conditions.md#Deafened),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 120 ft., passive Perception 19"
 "languages": ""
 "cr": "30"
 "traits":
   - "desc": "If the tarrasque fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (6/Day)"
-  - "desc": "The tarrasque has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The tarrasque has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "If the tarrasque is targeted by a [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)\
+  - "desc": "If the tarrasque is targeted by a [Magic Missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md)\
       \ spell or a spell that requires a ranged attack roll, roll d6. On a 1-5, the\
       \ tarrasque is unaffected. On a 6, the tarrasque is unaffected and reflects\
       \ the spell, turning the caster into the target."
@@ -97,55 +97,55 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
       \ or Tail in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +19, reach 15 ft. Hit: 36 (4d12 + 10) Piercing\
-      \ damage, and the target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 20). Until the grapple ends, the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ damage, and the target has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 20). Until the grapple ends, the target has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition and can't teleport."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +19, reach 15 ft. Hit: 28 (4d8 + 10) Slashing\
       \ damage."
     "name": "Claw"
   - "desc": "Melee Attack Roll: +19, reach 30 ft. Hit: 23 (3d8 + 10) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Huge or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Tail"
   - "desc": "Constitution Saving Throw: DC 27, each creature and each object that\
-      \ isn't being worn or carried in a 150-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: 78 (12d12) Thunder damage, and the target has the [Deafened](/3-Mechanics/CLI/conditions.md#Deafened)\
-      \ and [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions until\
+      \ isn't being worn or carried in a 150-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: 78 (12d12) Thunder damage, and the target has the [Deafened](/03_Mechanics/CLI/conditions.md#Deafened)\
+      \ and [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) conditions until\
       \ the end of its next turn. Success: Half damage only."
     "name": "Thunderous Bellow (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Strength Saving Throw: DC 27, one Large or smaller creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "Strength Saving Throw: DC 27, one Large or smaller creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by the tarrasque (it can have up to six creatures swallowed at a time). Failure:\
-      \ The target is swallowed, and the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition ends. A swallowed creature has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) conditions and\
-      \ can't teleport, it has [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md)\
+      \ The target is swallowed, and the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ condition ends. A swallowed creature has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ and [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) conditions and\
+      \ can't teleport, it has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md)\
       \ against attacks and other effects outside the tarrasque, and it takes 56 (16d6)\
       \ Acid damage at the start of each of the tarrasque's turns.\n\nIf the tarrasque\
       \ takes 60 damage or more on a single turn from a creature inside it, the tarrasque\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
       \ or regurgitate all swallowed creatures, each of which falls in a space within\
-      \ 10 feet of the tarrasque and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ 10 feet of the tarrasque and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition. If the tarrasque dies, any swallowed creature no longer has the\
-      \ [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition and can\
-      \ escape from the corpse using 20 feet of movement, exiting [Prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) condition and can\
+      \ escape from the corpse using 20 feet of movement, exiting [Prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Swallow"
 "legendary_actions":
-  - "desc": "The tarrasque moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The tarrasque moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
       \ and it makes one Claw or Tail attack."
     "name": "Onslaught"
-  - "desc": "The tarrasque moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md).\
+  - "desc": "The tarrasque moves up to its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md).\
       \ At the end of this movement, the tarrasque creates an instantaneous shock\
-      \ wave in a 60-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from itself. Creatures in that area lose [Concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ and, if Medium or smaller, have the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ wave in a 60-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from itself. Creatures in that area lose [Concentration](/03_Mechanics/CLI/conditions.md#Concentration)\
+      \ and, if Medium or smaller, have the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition. The tarrasque can't take this action again until the start of its\
       \ next turn."
     "name": "World-Shaking Movement"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/tarrasque-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/tarrasque-xmm.webp"
 ```
 ^statblock
 

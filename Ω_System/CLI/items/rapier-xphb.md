@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Rapier
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/rapier.webp#right)
+![](/03_Mechanics/CLI/items/img/rapier.webp#right)
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [Finesse](/03_Mechanics/CLI/item-properties.md#Finesse)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

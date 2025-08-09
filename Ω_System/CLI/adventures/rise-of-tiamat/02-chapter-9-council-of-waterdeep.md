@@ -12,9 +12,9 @@ modified: 2025-07-23 12:39
 # Chapter 9: Council of Waterdeep
 *Source: Rise of Tiamat, p. 104* 
 
-![](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/006-tod-09-01.webp#center)
+![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/006-tod-09-01.webp#center)
 
-*The Rise of Tiamat* begins immediately after the conclusion of *Hoard of the Dragon Queen*, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md) that heralds the next stage of the Cult of the Dragon's plots. (See Chapter 17 for more information on the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md), but be sure to withhold that information until the characters have played through the "Chapter 10: The Sea of Moving Ice.")
+*The Rise of Tiamat* begins immediately after the conclusion of *Hoard of the Dragon Queen*, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) that heralds the next stage of the Cult of the Dragon's plots. (See Chapter 17 for more information on the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md), but be sure to withhold that information until the characters have played through the "Chapter 10: The Sea of Moving Ice.")
 
 ## Starting the Adventure
 
@@ -22,18 +22,18 @@ modified: 2025-07-23 12:39
 
 It's easy enough to simply tell the players that their characters are back in Waterdeep. However, if you suspect that your group won't find that satisfying, you can avoid playing through a long overland journey by making use of the following scenario.
 
-Wherever the characters are when this session begins, a raven flies up to them. The bird is part of an [animal messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md) relay dispatched by Leosin Erlanthar's allies in the Emerald Enclave.
+Wherever the characters are when this session begins, a raven flies up to them. The bird is part of an [animal messenger](/03_Mechanics/CLI/spells/animal-messenger-xphb.md) relay dispatched by Leosin Erlanthar's allies in the Emerald Enclave.
 
 > [!readaloud] 
 > 
 > The raven lands a dozen paces from you, then boldly hops closer, a flat parcel wrapped in oilskin strapped to its belly. It eyes you enigmatically for a few moments, then speaks in a familiar voice. "Leosin Erlanthar sends his heartiest congratulations! Please use the gift this bird brings to meet me in Waterdeep as soon as possible."
 ^061
 
-The bird waits patiently while the leather parcel is removed from its harness. The parcel contains a carefully folded [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) and the sigil sequence of a permanent teleport circle in Waterdeep. The circle can be in a temple, a government building, or any other site of your choice. If the party includes more than six characters, the parcel contains two scrolls. If none of the characters can use a [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md) scroll, they'll need to seek out an NPC who can. Just don't make it too difficult.
+The bird waits patiently while the leather parcel is removed from its harness. The parcel contains a carefully folded [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) and the sigil sequence of a permanent teleport circle in Waterdeep. The circle can be in a temple, a government building, or any other site of your choice. If the party includes more than six characters, the parcel contains two scrolls. If none of the characters can use a [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) scroll, they'll need to seek out an NPC who can. Just don't make it too difficult.
 
 ## Back in Waterdeep
 
-The most powerful factions of the Sword Coast all recognize the significance of [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md)'s possible return, and they are willing to cooperate with each other to prevent it. Trust doesn't come easily for these disparate groups. But even for orders and organizations that have been in conflict in the past, the "enemy of my enemy" is easily understood.
+The most powerful factions of the Sword Coast all recognize the significance of [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md)'s possible return, and they are willing to cooperate with each other to prevent it. Trust doesn't come easily for these disparate groups. But even for orders and organizations that have been in conflict in the past, the "enemy of my enemy" is easily understood.
 
 To coordinate their efforts against the Cult of the Dragon, the factions have sent important delegates for secret meetings in Waterdeep. If the adventurers played through *Hoard of the Dragon Queen*, they now know as much as anyone about the cult's activities, and their heroics have been brought to the attention of powerful leaders and earned them a place at the council table. If you didn't play *Hoard of the Dragon Queen*, a separate group of heroes assaulted Skyreach Castle and bravely gave their lives to crash the fortress. The characters are then invited to the council simply because of their reputation as powerful adventurers, and because the council expects to need their services.
 
@@ -41,21 +41,21 @@ To coordinate their efforts against the Cult of the Dragon, the factions have se
 
 When the characters arrive in Waterdeep, they are met by the Harper agent Leosin Erlanthar. The monk explains the purpose of the council and tells the adventurers they are expected to attend the first gathering—both so the council can thank them for their great deeds and to advise the council about the Cult of the Dragon. Four meetings of the council occur at critical points throughout the crisis, right up to the final chapter of the adventure at the Well of Dragons.
 
-During the **first session** of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md) sounds. In the aftermath, the characters are given leads to chapter 10 or to [Varram](/3-Mechanics/CLI/bestiary/npc/varram-rot.md) in chapter 11 and 12.
+During the **first session** of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) sounds. In the aftermath, the characters are given leads to chapter 10 or to [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md) in chapter 11 and 12.
 
-**second session** of the council is summoned to address increasingly aggressive dragon activity. The characters are asked to investigate a devastating series of raids in the Misty Forest, leading to [Neronvain](/3-Mechanics/CLI/bestiary/npc/neronvain-rot.md) in "Chapters 11 and 12: Death to the Wyrmspeakers." The adventurers are also approached by a representative who wishes to bring the party to a secret meeting with the metallic dragons, leading to chapter 14.
+**second session** of the council is summoned to address increasingly aggressive dragon activity. The characters are asked to investigate a devastating series of raids in the Misty Forest, leading to [Neronvain](/03_Mechanics/CLI/bestiary/npc/neronvain-rot.md) in "Chapters 11 and 12: Death to the Wyrmspeakers." The adventurers are also approached by a representative who wishes to bring the party to a secret meeting with the metallic dragons, leading to chapter 14.
 
 A **third session** of the council is called to assess the gains made by the allied factions against the Cult of the Dragon. The party is called on to pursue two leads that might grant even more advantage over the cult—a renegade cultist offering to turn over one of the dragon masks, in chapter 15, and an attempt to undercut the power of the exile Red Wizards in chapter 16.
 
 At the **fourth session** of the Council of Waterdeep, the adventurers learn that the plots of the Cult of the Dragon and the Red Wizards are nearing fruition. The forces of the various factions must gather in preparation for the assault on the Well of Dragons.
 
-During each new council, the various factions measure the party's actions and achievements, comparing those actions to their own goals. Characters who further the goals of a faction will find that faction willing to pledge more resources to the fight against the cult. However, gaining the allegiance of one faction might lead to distrust from others. The adventurers must strike a careful balance in their appeal to—and appeasement of—the delegates to gather the strongest force possible to confront [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md).
+During each new council, the various factions measure the party's actions and achievements, comparing those actions to their own goals. Characters who further the goals of a faction will find that faction willing to pledge more resources to the fight against the cult. However, gaining the allegiance of one faction might lead to distrust from others. The adventurers must strike a careful balance in their appeal to—and appeasement of—the delegates to gather the strongest force possible to confront [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md).
 
 Though it isn't ideal for all attendees, the Lords' Palace in Waterdeep is the designated location of the council meetings. The Lords' Alliance faction is sending the most delegates, and those delegates prefer a civilized gathering place.
 
 ## Gathering Allies
 
-Though every faction provides some troops and resources toward the final showdown with the forces of [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md), the extent of their support—and how much effect that support will have—is dependent on the respect the adventurers garner from each group for their actions. Before committing irrevocably to the fight, a faction must be convinced that the cult presents a danger surpassing all other concerns—and that the adventurers are the right heroes to lead this fight. Moreover, what is worthy of respect in one faction might lose respect from another.
+Though every faction provides some troops and resources toward the final showdown with the forces of [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md), the extent of their support—and how much effect that support will have—is dependent on the respect the adventurers garner from each group for their actions. Before committing irrevocably to the fight, a faction must be convinced that the cult presents a danger surpassing all other concerns—and that the adventurers are the right heroes to lead this fight. Moreover, what is worthy of respect in one faction might lose respect from another.
 
 As the adventurers complete chapters of the adventure, you track how they earn or lose respect from each faction on the council scorecard (see appendix B). "Scoring the Sessions," below, for more information.
 
@@ -73,13 +73,13 @@ Two preliminary events help to set up the first session of the council: news of 
 
 ### Death of a Masked Lord
 
-Though the leadership of the Cult of the Dragon could not have realized it, one of the key events in the fight to thwart [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md)'s plans was the cult's assassination of Arthagast Ulbrinter, a Masked Lord of Waterdeep and husband of Remi Haventree of the Harpers. News of Arthagast's recent murder has spread across the Sword Coast, and has galvanized opposition to the cult in Waterdeep.
+Though the leadership of the Cult of the Dragon could not have realized it, one of the key events in the fight to thwart [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md)'s plans was the cult's assassination of Arthagast Ulbrinter, a Masked Lord of Waterdeep and husband of Remi Haventree of the Harpers. News of Arthagast's recent murder has spread across the Sword Coast, and has galvanized opposition to the cult in Waterdeep.
 
 In her grief, Remi Haventree has sworn to destroy the cult and the threat it presents to the Sword Coast. She has been instrumental in bringing the factions together for this Council of Waterdeep, setting up the potential for alliances that the adventurers must now complete.
 
 ### The Draakhorn Sounds
 
-Shortly after the crash or capture of Skyreach Castle, operatives of the Cult of the Dragon sounded the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md) at the distant Well of Dragons. An ancient magic relic, the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md) is being used by the cult to summon chromatic dragons to their dark cause.
+Shortly after the crash or capture of Skyreach Castle, operatives of the Cult of the Dragon sounded the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) at the distant Well of Dragons. An ancient magic relic, the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) is being used by the cult to summon chromatic dragons to their dark cause.
 
 As the characters are arriving in Waterdeep, read or paraphrase the following.
 
@@ -94,10 +94,10 @@ During the first session of the council (or earlier if the characters make effor
 
 > [!readaloud] 
 > 
-> "The disturbance that's been sensed across the Sword Coast is the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md)—an ancient device whose sounding alerts dragons across Faerûn that great events are unfolding. It's impossible to say what the sounding means, but the dragons hear it clearly and will eventually answer its call. "
+> "The disturbance that's been sensed across the Sword Coast is the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md)—an ancient device whose sounding alerts dragons across Faerûn that great events are unfolding. It's impossible to say what the sounding means, but the dragons hear it clearly and will eventually answer its call. "
 ^06a
 
-Lady Silmerhelve learned this from her family's secret benefactor, an ancient bronze dragon named Nymmurh. She knows a little more about the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md), but she waits to reveal it until she attends the first council meeting. She flatly refuses to tell anyone the source of her knowledge if asked. This makes Ulder Ravengard, King Connerad, and Ontharr Frume suspicious, but others take the secrecy in stride. If Lady Silmerhelve is treated poorly, It might affect how Nymmurh interacts with the characters in Chapter 14."
+Lady Silmerhelve learned this from her family's secret benefactor, an ancient bronze dragon named Nymmurh. She knows a little more about the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md), but she waits to reveal it until she attends the first council meeting. She flatly refuses to tell anyone the source of her knowledge if asked. This makes Ulder Ravengard, King Connerad, and Ontharr Frume suspicious, but others take the secrecy in stride. If Lady Silmerhelve is treated poorly, It might affect how Nymmurh interacts with the characters in Chapter 14."
 
 ### First Session
 
@@ -111,7 +111,7 @@ Too much mistrust still burdens the factions, and not enough is known about the 
 
 #### Follow-up: Hoard of the Dragon Queen
 
-Once introductions are made, Dagult Neverember summarizes the situation if the adventurers did not play through *Hoard of the Dragon Queen*. This includes the plan to summon [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md), increased dragon raids led by the cult, the treasure collection system, the crash or capture of Skyreach Castle, and the importance of the wyrmspeakers and dragon masks to the cult.
+Once introductions are made, Dagult Neverember summarizes the situation if the adventurers did not play through *Hoard of the Dragon Queen*. This includes the plan to summon [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md), increased dragon raids led by the cult, the treasure collection system, the crash or capture of Skyreach Castle, and the importance of the wyrmspeakers and dragon masks to the cult.
 
 If the party played through the previous adventure, Dagult explains that the council has heard reports from Ontharr, Leosin, and other witnesses, but that the delegates wish to hear from the heroes at the center of recent events. (At this point, use Neverember to also fill in any information the characters did not gather during *Hoard of the Dragon Queen* that you deem important.)
 
@@ -125,11 +125,11 @@ Once the characters have been vested with their powers, the first stages of the 
 
 #### Setup: Varram the White
 
-One of Remallia Haventree's first acts in her fight against the Cult of the Dragon was to encourage the Harpers to focus all their resources on the cult's activities and its most powerful members. Those efforts have been successful, and Leosin Erlanthar reports to the adventurers of the movements of [Varram](/3-Mechanics/CLI/bestiary/npc/varram-rot.md), the cult's White Wyrmspeaker. This leads to "Varram the White," Part of "Chapters 11 and 12: Death to the Wyrmspeakers".
+One of Remallia Haventree's first acts in her fight against the Cult of the Dragon was to encourage the Harpers to focus all their resources on the cult's activities and its most powerful members. Those efforts have been successful, and Leosin Erlanthar reports to the adventurers of the movements of [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md), the cult's White Wyrmspeaker. This leads to "Varram the White," Part of "Chapters 11 and 12: Death to the Wyrmspeakers".
 
 #### Setup: The Sea of Moving Ice
 
-The sounding of the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md) weighs heavily on all the leaders of the Sword Coast. Seeking more information on the horn and its whereabouts leads the party on an expedition to the frozen North, and chapter 10.
+The sounding of the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) weighs heavily on all the leaders of the Sword Coast. Seeking more information on the horn and its whereabouts leads the party on an expedition to the frozen North, and chapter 10.
 
 ### Second Session
 
@@ -139,7 +139,7 @@ The delegates discuss the raids in their various domains after receiving the cha
 
 #### Follow-up: Varram the White
 
-In response to the fate of Wyrmspeaker [Varram](/3-Mechanics/CLI/bestiary/npc/varram-rot.md), the Harpers and Taern are upset if the dwarf was slain without being interrogated, and Connerad is upset that [Varram](/3-Mechanics/CLI/bestiary/npc/varram-rot.md) was not captured and made an example of in a court of dwarven law. Though most are pleased with capturing [Varram](/3-Mechanics/CLI/bestiary/npc/varram-rot.md), the Emerald Enclave is nonplussed, believing that capturing him only complicates matters. [Varram](/3-Mechanics/CLI/bestiary/npc/varram-rot.md) has already demonstrated a willingness to corrupt the natural order, making a trial excessive—and potentially opening the door to a rescue attempt.
+In response to the fate of Wyrmspeaker [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md), the Harpers and Taern are upset if the dwarf was slain without being interrogated, and Connerad is upset that [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md) was not captured and made an example of in a court of dwarven law. Though most are pleased with capturing [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md), the Emerald Enclave is nonplussed, believing that capturing him only complicates matters. [Varram](/03_Mechanics/CLI/bestiary/npc/varram-rot.md) has already demonstrated a willingness to corrupt the natural order, making a trial excessive—and potentially opening the door to a rescue attempt.
 
 #### Follow-up: The Sea of Moving Ice
 
@@ -159,7 +159,7 @@ The third council features another new face—the tiefling Rian Nightshade, intr
 
 #### Follow-up: Neronvain
 
-News that the dragon attacks in the elven forest have ended is gratefully received by all on the council. However, King Melandrach responds with cold fury to news of his son [Neronvain](/3-Mechanics/CLI/bestiary/npc/neronvain-rot.md)'s betrayal. He remains hesitant to put elves in the front lines of combat, but no longer acts as a roadblock to negotiations. His pragmatism means that he no longer has any qualms against the adventurers' securing the allegiance of Red Wizards, giants, or even devils in the fight against the Cult of the Dragon—as long as such allies are conveniently arrayed in front of his elves in battle.
+News that the dragon attacks in the elven forest have ended is gratefully received by all on the council. However, King Melandrach responds with cold fury to news of his son [Neronvain](/03_Mechanics/CLI/bestiary/npc/neronvain-rot.md)'s betrayal. He remains hesitant to put elves in the front lines of combat, but no longer acts as a roadblock to negotiations. His pragmatism means that he no longer has any qualms against the adventurers' securing the allegiance of Red Wizards, giants, or even devils in the fight against the Cult of the Dragon—as long as such allies are conveniently arrayed in front of his elves in battle.
 
 #### Follow-up: Metallic Dragons, Arise
 
@@ -177,7 +177,7 @@ At the summit, information comes to the characters revealing that a senior membe
 
 #### Setup: Mission to Thay
 
-The Red Wizards are integral to the cult's plans for summoning [Tiamat](/3-Mechanics/CLI/bestiary/npc/tiamat-rot.md), but the Red Wizards allied with the Cult of the Dragon are exiles with no connection to Thay. The Thayan Red Wizards approach the Council of Waterdeep asking for an envoy to be sent to Thay, where they must convince the most reviled wizards in Faerûn to join with the forces of the Sword Coast for the common good. This paves the way for chapter 16.
+The Red Wizards are integral to the cult's plans for summoning [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md), but the Red Wizards allied with the Cult of the Dragon are exiles with no connection to Thay. The Thayan Red Wizards approach the Council of Waterdeep asking for an envoy to be sent to Thay, where they must convince the most reviled wizards in Faerûn to join with the forces of the Sword Coast for the common good. This paves the way for chapter 16.
 
 ### Fourth Session
 
@@ -187,7 +187,7 @@ The fourth council is the final meeting between the faction leaders and the adve
 
 At an appropriate point in the council meetings, Rian Nightshade approaches the characters and asks for a private audience. She explains her position as an emissary of the Zhentarim, and of the Zhentarim's interest in current affairs. She bemoans the dithering of the other factions, stating that the Black Network is willing to act immediately and unflinchingly—if the party can help arrange agreeable terms for the Zhentarim's support.
 
-Rian points out that the Zhentarim have a keen interest in Xonthal's Tower. Ownership of the tower is under discussion by the council, but the tiefling wants to deal directly with the adventurers, who have claim to the tower by right of conquest. The Zhentarim are willing to purchase the adventurers' interest in the tower for 50,000 gold pieces, and Rian can throw in a [greater healing potion](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), a [potion of frost giant strength](/3-Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md), and a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md) to sweeten the deal. This price could go up considerably if the party negotiates agreeable terms from the other factions for the Zhentarim's support—up to an additional 25,000 gp, at your discretion.
+Rian points out that the Zhentarim have a keen interest in Xonthal's Tower. Ownership of the tower is under discussion by the council, but the tiefling wants to deal directly with the adventurers, who have claim to the tower by right of conquest. The Zhentarim are willing to purchase the adventurers' interest in the tower for 50,000 gold pieces, and Rian can throw in a [greater healing potion](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), a [potion of frost giant strength](/03_Mechanics/CLI/items/potion-of-frost-giant-strength-xdmg.md), and a [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) of [earthquake](/03_Mechanics/CLI/spells/earthquake-xphb.md) to sweeten the deal. This price could go up considerably if the party negotiates agreeable terms from the other factions for the Zhentarim's support—up to an additional 25,000 gp, at your discretion.
 
 #### Follow-up: Mission to Thay
 

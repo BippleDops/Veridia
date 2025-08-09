@@ -37,7 +37,7 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The badger has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The badger has advantage on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "When the badger burrows, it leaves tunnels behind."
@@ -53,6 +53,6 @@ aliases:
     "name": "Claws"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/cave-badger-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/cave-badger-oota.webp"
 ```
 ^statblock

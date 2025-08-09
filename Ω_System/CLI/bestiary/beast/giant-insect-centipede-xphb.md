@@ -45,7 +45,7 @@ aliases:
     "name": "Poison Jab"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: Your spell save DC, one creature the insect\
-      \ can see within 10 feet. Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ can see within 10 feet. Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition until the start of the insect's next turn."
     "name": "Venomous Spew (Centipede Only)"
 "source":

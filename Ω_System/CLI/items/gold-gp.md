@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Gold (gp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/gold-gp.webp#right)
+![](/03_Mechanics/CLI/items/img/gold-gp.webp#right)
 
 - **Cost**: 1 gp
 - **Weight**: 0.02 lbs.

@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Belt of Fire Giant Strength
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/belt-of-giant-strength-fire.webp#right)
+![](/03_Mechanics/CLI/items/img/belt-of-giant-strength-fire.webp#right)
 
 
 While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

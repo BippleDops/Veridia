@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 4th Level
 
-- [Stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")
+- [Stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md "XPHB")

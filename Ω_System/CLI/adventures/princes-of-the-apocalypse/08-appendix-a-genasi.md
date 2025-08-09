@@ -20,7 +20,7 @@ During these visits, a mortal might catch a genie's eye. Friendship forms, roman
 
 Occasionally, genasi result from exposure to a surge of elemental power, through phenomena such as an eruption from the Inner Planes or a planar convergence. Elemental energy saturates any creatures in the area and might alter their nature enough that their offspring with other mortals are born as genasi.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/135-poaappa-01.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/135-poaappa-01.webp#center)
 
 ## Heirs to Elemental Power
 
@@ -38,7 +38,7 @@ Genasi rarely lack confidence, seeing themselves as equal to almost any challeng
 
 Too much failure can chip away at even a genasi's sense of self, so they constantly push themselves to improve, honing their talents and perfecting their craft.
 
-![](/3-Mechanics/CLI/adventures/princes-of-the-apocalypse/img/136-poaappa-02.webp#center)
+![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/136-poaappa-02.webp#center)
 
 ## Genasi Lands
 

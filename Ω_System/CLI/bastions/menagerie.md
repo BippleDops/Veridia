@@ -30,19 +30,19 @@ Creatures in your Menagerie count as Bastion Defenders. Deduct any you lose from
 
 | Creature | Size | Cost |
 |----------|------|------|
-| [Ape](/3-Mechanics/CLI/bestiary/beast/ape-xmm.md) | Medium | 500 GP |
-| [Black Bear](/3-Mechanics/CLI/bestiary/beast/black-bear-xmm.md) | Medium | 500 GP |
-| [Brown Bear](/3-Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) | Large | 1,000 GP |
-| [Constrictor Snake](/3-Mechanics/CLI/bestiary/beast/constrictor-snake-xmm.md) | Large | 250 GP |
-| [Crocodile](/3-Mechanics/CLI/bestiary/beast/crocodile-xmm.md) | Large | 500 GP |
-| [Dire Wolf](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) | Large | 1,000 GP |
-| [Giant Vulture](/3-Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) | Large | 1,000 GP |
-| [Hyena](/3-Mechanics/CLI/bestiary/beast/hyena-xmm.md) | Medium | 50 GP |
-| [Jackal](/3-Mechanics/CLI/bestiary/beast/jackal-xmm.md) | Small | 50 GP |
-| [Lion](/3-Mechanics/CLI/bestiary/beast/lion-xmm.md) | Large | 1,000 GP |
-| [Owlbear](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) | Large | 3,500 GP |
-| [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) | Medium | 250 GP |
-| [Tiger](/3-Mechanics/CLI/bestiary/beast/tiger-xmm.md) | Large | 1,000 GP |
+| [Ape](/03_Mechanics/CLI/bestiary/beast/ape-xmm.md) | Medium | 500 GP |
+| [Black Bear](/03_Mechanics/CLI/bestiary/beast/black-bear-xmm.md) | Medium | 500 GP |
+| [Brown Bear](/03_Mechanics/CLI/bestiary/beast/brown-bear-xmm.md) | Large | 1,000 GP |
+| [Constrictor Snake](/03_Mechanics/CLI/bestiary/beast/constrictor-snake-xmm.md) | Large | 250 GP |
+| [Crocodile](/03_Mechanics/CLI/bestiary/beast/crocodile-xmm.md) | Large | 500 GP |
+| [Dire Wolf](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) | Large | 1,000 GP |
+| [Giant Vulture](/03_Mechanics/CLI/bestiary/monstrosity/giant-vulture-xmm.md) | Large | 1,000 GP |
+| [Hyena](/03_Mechanics/CLI/bestiary/beast/hyena-xmm.md) | Medium | 50 GP |
+| [Jackal](/03_Mechanics/CLI/bestiary/beast/jackal-xmm.md) | Small | 50 GP |
+| [Lion](/03_Mechanics/CLI/bestiary/beast/lion-xmm.md) | Large | 1,000 GP |
+| [Owlbear](/03_Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) | Large | 3,500 GP |
+| [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) | Medium | 250 GP |
+| [Tiger](/03_Mechanics/CLI/bestiary/beast/tiger-xmm.md) | Large | 1,000 GP |
 ^menagerie-creatures
 
 With the DM's consent, you can add different creatures than those shown in the Menagerie Creatures table to your Menagerie. The cost of a creature depends on its Challenge Rating, as shown on the Creature Costs by Challenge Rating table. Typically only Beasts and some Monstrosities can be kept in a Menagerie, though the DM might allow other creatures.

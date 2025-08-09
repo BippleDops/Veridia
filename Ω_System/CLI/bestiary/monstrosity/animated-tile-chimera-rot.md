@@ -34,13 +34,13 @@ aliases:
   - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "piercing"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"
@@ -74,6 +74,6 @@ aliases:
     "name": "Narrow Dodge"
 "source":
   - "RoT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/animated-tile-chimera-rot.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/animated-tile-chimera-rot.webp"
 ```
 ^statblock

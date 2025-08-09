@@ -31,9 +31,9 @@ aliases:
   - !!int "9"
 "speed": "30 ft., fly 40 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
 "traits":
@@ -47,7 +47,7 @@ aliases:
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target has\
-      \ the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until\
+      \ the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition until\
       \ the end of its next turn."
     "name": "Deathly Touch"
 "source":

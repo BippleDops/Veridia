@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell (save DC 13) for 10 minutes (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required).
+When you drink this potion, you gain the effect of the [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md) spell (save DC 13) for 10 minutes (no [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) required).
 
 This potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 

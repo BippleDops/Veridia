@@ -21,7 +21,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Rat (XMM)"
@@ -41,13 +41,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "darkvision 30 ft., passive Perception 12"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The rat doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The rat doesn't provoke [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ when it moves out of an enemy's reach."
     "name": "Agile"
 "actions":
@@ -56,7 +56,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/rat-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/rat-xmm.webp"
 ```
 ^statblock
 

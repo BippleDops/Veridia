@@ -21,5 +21,5 @@ modified: 2025-07-23 12:39
 | 1 | Hearing and standard vision out to 30 feet |
 | 2 | Hearing and standard vision out to 60 feet |
 | 3 | Hearing and standard vision out to 120 feet |
-| 4 | Hearing and [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to 120 feet |
+| 4 | Hearing and [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to 120 feet |
 ^sentient-items-senses

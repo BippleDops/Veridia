@@ -43,14 +43,14 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+1"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "passive Perception 11"
 "languages": "Giant"
 "cr": "6"
 "traits":
-  - "desc": "The giant is immune to the [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md)\
+  - "desc": "The giant is immune to the [confusion](/03_Mechanics/CLI/spells/confusion-xphb.md)\
       \ spell.\n\nOn each of its turns, the giant uses all its movement to move toward\
       \ the nearest creature or whatever else it might perceive as food. Roll a d10\
       \ at the start of each of the giant's turns to determine its action for that\
@@ -61,7 +61,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
       \ reach. If no creatures are within reach, the giant makes one Fist attack against\
       \ itself.  \n- 6–7. The giant makes one Bite attack against one random creature\
       \ within reach. If no other creatures are within reach, its eyes glaze over\
-      \ and it is [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the start\
+      \ and it is [stunned](/03_Mechanics/CLI/conditions.md#Stunned) until the start\
       \ of its next turn.  \n- 8–10. The giant makes one Bite attack and two Fist\
       \ attacks against one random creature within reach. If no creatures are within\
       \ reach, the giant flies into a rage and gains advantage on all attack rolls\
@@ -78,7 +78,7 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/mouth-of-grolantor-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/mouth-of-grolantor-mpmm.webp"
 ```
 ^statblock
 

@@ -47,7 +47,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
@@ -56,16 +56,16 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Tree Club"
   - "desc": "Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning\
-      \ damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ damage, and the target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ condition until the end of its next turn."
     "name": "Trash Lob"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
 ```
 ^statblock
 

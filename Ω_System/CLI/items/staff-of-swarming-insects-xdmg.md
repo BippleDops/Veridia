@@ -17,19 +17,19 @@ modified: 2025-07-23 12:39
 ---
 # Staff of Swarming Insects
 *Staff, weapon, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/staff-of-swarming-insects.webp#right)
+![](/03_Mechanics/CLI/items/img/staff-of-swarming-insects.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 This staff has 10 charges.
 
 ## Insect Cloud
 
-While holding the staff , you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. The insects remain for 10 minutes, making the area [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) for creatures other than you. A strong wind (like that created by [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md)) disperses the swarm and ends the effect.
+While holding the staff , you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action and expend 1 charge to cause a swarm of harmless flying insects to fill a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. The insects remain for 10 minutes, making the area [Heavily Obscured](/03_Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) for creatures other than you. A strong wind (like that created by [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md)) disperses the swarm and ends the effect.
 
 ## Spells
 
@@ -37,8 +37,8 @@ While holding the staff, you can cast one of the spells on the following table f
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Giant Insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md) | 4 |
-| [Insect Plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md) | 5 |
+| [Giant Insect](/03_Mechanics/CLI/spells/giant-insect-xphb.md) | 4 |
+| [Insect Plague](/03_Mechanics/CLI/spells/insect-plague-xphb.md) | 5 |
 ^spell-charge-cost
 
 ## Regaining Charges

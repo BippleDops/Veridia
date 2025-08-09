@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB")
+- [Gust of Wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB")

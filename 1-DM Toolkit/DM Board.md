@@ -12,7 +12,7 @@ id: newJournal
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Journal.md
+    templateFile: 05_Templates/World Builder Templates/Template-Journal.md
     fileName: NewJournal
     folderPath: 1-Session Journals
 ```
@@ -24,7 +24,7 @@ id: button_player
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Player.md
+    templateFile: 05_Templates/World Builder Templates/Template-Player.md
     fileName: NewPlayer
     folderPath: 1-Party
 ```
@@ -36,7 +36,7 @@ id: button_person
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Person.md
+    templateFile: 05_Templates/World Builder Templates/Template-Person.md
     fileName: NewPerson
     folderPath: 2-World/People
 ```
@@ -48,7 +48,7 @@ id: button_group
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Group.md
+    templateFile: 05_Templates/World Builder Templates/Template-Group.md
     fileName: NewGroup
     folderPath: 2-World/Groups
 ```
@@ -60,7 +60,7 @@ id: button_hub
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Hub.md
+    templateFile: 05_Templates/World Builder Templates/Template-Hub.md
     fileName: NewHub
     folderPath: 2-World/Hubs
 ```
@@ -72,7 +72,7 @@ id: button_place
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Place.md
+    templateFile: 05_Templates/World Builder Templates/Template-Place.md
     fileName: NewPlace
     folderPath: 2-World/Places
 ```
@@ -84,7 +84,7 @@ id: button_pointofinterest
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-PointofInterest.md
+    templateFile: 05_Templates/World Builder Templates/Template-PointofInterest.md
     fileName: NewPOI
     folderPath: 2-World/Points of Interest
 ```
@@ -96,7 +96,7 @@ id: button_region
 style: primary
 actions:
   - type: templaterCreateNote
-    templateFile: z_Templates/World Builder Templates/Template-Region.md
+    templateFile: 05_Templates/World Builder Templates/Template-Region.md
     fileName: NewRegion
     folderPath: 2-World/Regions
 ```

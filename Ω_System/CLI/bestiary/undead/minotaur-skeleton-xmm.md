@@ -63,8 +63,8 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
@@ -72,7 +72,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 9\
-      \ (2d8) Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ (2d8) Piercing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Gore"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning\
@@ -80,7 +80,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
     "name": "Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/minotaur-skeleton-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/minotaur-skeleton-xmm.webp"
 ```
 ^statblock
 

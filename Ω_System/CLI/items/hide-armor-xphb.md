@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Hide Armor
 *Medium armor*  
-![](/3-Mechanics/CLI/items/img/hide-armor.webp#right)
+![](/03_Mechanics/CLI/items/img/hide-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier (max of +2)
 - **Cost**: 10 gp

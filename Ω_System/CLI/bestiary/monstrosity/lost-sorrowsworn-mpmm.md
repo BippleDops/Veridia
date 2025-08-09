@@ -49,7 +49,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 8"
@@ -62,20 +62,20 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
       \ (2d10 + 3) piercing damage."
     "name": "Arm Spike"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 25\
-      \ (4d10 + 3) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (4d10 + 3) piercing damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
-      \ the target is [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and\
+      \ the target is [frightened](/03_Mechanics/CLI/conditions.md#Frightened), and\
       \ it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn\
       \ can grapple only one creature at a time."
     "name": "Embrace (Recharge 4-6)"
 "reactions":
-  - "desc": "If the sorrowsworn takes damage, the creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "If the sorrowsworn takes damage, the creature [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by Embrace takes 18 (4d8) psychic damage."
     "name": "Tightening Embrace"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

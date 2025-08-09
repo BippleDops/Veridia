@@ -55,7 +55,7 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [petrified](/3-Mechanics/CLI/conditions.md#Petrified) victims of a basilisk or medusa. |
+| 4 | The [petrified](/03_Mechanics/CLI/conditions.md#Petrified) victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |
@@ -85,11 +85,11 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
   - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "2"
@@ -104,7 +104,7 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/gargoyle-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/gargoyle-xmm.webp"
 ```
 ^statblock
 

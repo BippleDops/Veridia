@@ -68,19 +68,19 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common plus one other language"
 "cr": "3"
 "traits":
-  - "desc": "While in sunlight, the wight has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the wight has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -94,16 +94,16 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
       \ damage plus 4 (d8) Necrotic damage."
     "name": "Necrotic Bow"
   - "desc": "Constitution Saving Throw: DC 13, one creature within 5 feet. Failure:\
-      \ 6 (1d8 + 2) Necrotic damage, and the target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ 6 (1d8 + 2) Necrotic damage, and the target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ maximum decreases by an amount equal to the damage taken.\n\nA Humanoid slain\
-      \ by this attack rises 24 hours later as a [Zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
+      \ by this attack rises 24 hours later as a [Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
       \ under the wight's control, unless the Humanoid is restored to life or its\
       \ body is destroyed. The wight can have no more than twelve zombies under its\
       \ control at a time."
     "name": "Life Drain"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/wight-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/wight-xmm.webp"
 ```
 ^statblock
 

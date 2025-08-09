@@ -47,9 +47,9 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - !!int "3"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "blindsight 60 ft., passive Perception 12"
 "languages": ""
@@ -67,7 +67,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claw"
-  - "desc": "One Large or smaller creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "One Large or smaller creature [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw.\
       \ On a failed save, the target is pulled into an unoccupied space within 5 feet\
       \ of the cave fisher, and the cave fisher makes one Claw attack against it.\
@@ -77,7 +77,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "bonus_actions":
   - "desc": "The cave fisher extends a sticky filament up to 60 feet, and the filament\
       \ adheres to anything that touches it. A creature the filament adheres to is\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the cave fisher (escape\
+      \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled) by the cave fisher (escape\
       \ DC 13), and ability checks made to escape this grapple have disadvantage.\
       \ The filament can be attacked (AC 15; 5 hit points; immunity to poison and\
       \ psychic damage). A weapon that fails to sever it becomes stuck to it, requiring\
@@ -88,7 +88,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
 ```
 ^statblock
 

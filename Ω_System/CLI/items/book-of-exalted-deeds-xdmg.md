@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/book-of-exalted-deeds.webp#right)
+![](/03_Mechanics/CLI/items/img/book-of-exalted-deeds.webp#right)
 
 - **Weight**: 5.0 lbs.
 
@@ -25,13 +25,13 @@ The Book of Exalted Deeds rarely lingers in one place. As soon as the book is re
 
 A heavy clasp, wrought to look like angel wings, keeps the book's contents secure. Only a creature that is attuned to the book can release the clasp that holds it shut. Once the book is opened, the attuned creature must spend 80 hours reading and studying the book to digest its contents and gain its benefits.
 
-Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md), and it can't be reduced or avoided by any means. A creature reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [Attunement](/3-Mechanics/CLI/variant-rules/attunement-xphb.md) to it ends.
+Other creatures that peruse the book's open pages can read the text but glean no deeper meaning and reap no benefits. A Fiend, an Undead, or a servant of a god from the Lower Planes that tries to read from the book takes `24d6` Radiant damage. This damage ignores [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md), and it can't be reduced or avoided by any means. A creature reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) by this damage disappears in a flash and is destroyed, leaving its possessions behind. The book then vanishes, and the creature's [Attunement](/03_Mechanics/CLI/variant-rules/attunement-xphb.md) to it ends.
 
 Benefits granted by the Book of Exalted Deeds last only as long as you strive to do good. If you fail to perform at least one act of kindness or generosity within the span of 10 days, or if you willingly perform an evil act, you lose all the benefits granted by the book.
 
 ## Celestial Calm
 
-While attuned to the book, you have [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions and [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
+While attuned to the book, you have [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) and [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) conditions and [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
 
 ## Divine Wisdom
 
@@ -43,14 +43,14 @@ After you spend the requisite amount of time reading and studying the book, any 
 
 ## Halo
 
-After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 10 feet. You can dismiss or manifest the halo as a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md). While present, the halo gives you [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) checks. In addition, Fiends and Undead within the halo's [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) make attack rolls against you with [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md).
+After you spend the requisite amount of time reading and studying the book, you gain a protective halo. This halo sheds [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 10 feet. You can dismiss or manifest the halo as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md). While present, the halo gives you [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) checks. In addition, Fiends and Undead within the halo's [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) make attack rolls against you with [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md).
 
 ## Random Properties
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [minor beneficial](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
-- 2 [major beneficial](/3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) properties  
+- 2 [minor beneficial](/03_Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 2 [major beneficial](/03_Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) properties  
 
 ## Destroying the Book
 

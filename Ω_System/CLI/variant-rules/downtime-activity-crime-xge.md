@@ -24,7 +24,7 @@ The character must make a series of checks, with the DC for all the checks chose
 
 The chosen DC can be 10, 15, 20, or 25. Successful completion of the crime yields a number of gold pieces, as shown on the Loot Value table.
 
-To attempt a crime, the character makes three checks: Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)), Dexterity using [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md), and the player's choice of Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)), Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)), or Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)).
+To attempt a crime, the character makes three checks: Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)), Dexterity using [thieves' tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md), and the player's choice of Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)), Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)), or Charisma ([Deception](/03_Mechanics/CLI/skills.md#Deception)).
 
 If none of the checks are successful, the character is caught and jailed. The character must pay a fine equal to the profit the crime would have earned and must spend one week in jail for each 25 gp of the fine.
 
@@ -34,10 +34,10 @@ If two checks are successful, the heist is a partial success, netting the charac
 
 If all three checks are successful, the character earns the full value of the loot.
 
-![Crime; Loot Value](/3-Mechanics/CLI/tables/crime-loot-value-xge.md)
+![Crime; Loot Value](/03_Mechanics/CLI/tables/crime-loot-value-xge.md)
 
 ## Complications
 
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
-![Crime Complications](/3-Mechanics/CLI/tables/crime-complications-xge.md)
+![Crime Complications](/03_Mechanics/CLI/tables/crime-complications-xge.md)

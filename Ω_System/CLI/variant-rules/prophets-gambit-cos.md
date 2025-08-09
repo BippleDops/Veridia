@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 *Source: Curse of Strahd* 
 
 > [!note]
-> Game Designed by Sean Goodison, for 3–5 players, using the [Tarokka Deck](/3-Mechanics/CLI/decks/tarokka-deck-cos.md).
+> Game Designed by Sean Goodison, for 3–5 players, using the [Tarokka Deck](/03_Mechanics/CLI/decks/tarokka-deck-cos.md).
 
 ## How To Play
 
@@ -57,17 +57,17 @@ In the case of two players being tied for anything the player closest to the dea
 
 Revealing cards from the High Deck is risky as there's no telling what chaos you might unleash.
 
-**[Artifact](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact).** Swap your Fate card with the Focus card.  
-**[Beast](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Beast).** Each player discards a card, then draws a card from the Common Deck.  
-**[Broken One](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One).** Discard all the remaining cards in your hand. Then draw a new card from the Common Deck for each one discarded.  
-**[Darklord](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord).** Choose another player. Look at their hand of cards and choose one for them to discard. Then they draw a card from the Common Deck.  
-**[Donjon](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon).** Each player must discard cards until they have three left in their hand. The game immediately advances to the Reveal.  
-**[Executioner](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner).** Keep this card on the table in front of you. Regardless of who wins the execution you decide whether to kill or save the Focus card.  
-**[Mists](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Mists).** Rotate the Fate cards one player clockwise.  
-**[Ghost](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost).** Take a card from the discard pile, then discard a card.  
-**[Horseman](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman).** Draw two cards from the Common Deck and then discard two cards.  
-**[Innocent](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent).** Keep this card on the table in front of you. You and your cards can't be affected by any future High Deck cards.  
-**[Marionette](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette).** Choose another player who hasn't had a turn this round. That player must either play their highest or lowest numbered card, as directed by you.  
-**[Raven](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Raven).** Each player chooses a card from their hand and passes it to the player on their left.  
-**[Seer](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Seer).** Look at all player's Fate cards once.  
-**[Tempter](/3-Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter).** Choose a card from your hand and a random card from another player's hand to swap.
+**[Artifact](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Artifact).** Swap your Fate card with the Focus card.  
+**[Beast](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Beast).** Each player discards a card, then draws a card from the Common Deck.  
+**[Broken One](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Broken%20One).** Discard all the remaining cards in your hand. Then draw a new card from the Common Deck for each one discarded.  
+**[Darklord](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Darklord).** Choose another player. Look at their hand of cards and choose one for them to discard. Then they draw a card from the Common Deck.  
+**[Donjon](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Donjon).** Each player must discard cards until they have three left in their hand. The game immediately advances to the Reveal.  
+**[Executioner](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Executioner).** Keep this card on the table in front of you. Regardless of who wins the execution you decide whether to kill or save the Focus card.  
+**[Mists](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Mists).** Rotate the Fate cards one player clockwise.  
+**[Ghost](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Ghost).** Take a card from the discard pile, then discard a card.  
+**[Horseman](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Horseman).** Draw two cards from the Common Deck and then discard two cards.  
+**[Innocent](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Innocent).** Keep this card on the table in front of you. You and your cards can't be affected by any future High Deck cards.  
+**[Marionette](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Marionette).** Choose another player who hasn't had a turn this round. That player must either play their highest or lowest numbered card, as directed by you.  
+**[Raven](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Raven).** Each player chooses a card from their hand and passes it to the player on their left.  
+**[Seer](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Seer).** Look at all player's Fate cards once.  
+**[Tempter](/03_Mechanics/CLI/decks/tarokka-deck-cos.md#Tempter).** Choose a card from your hand and a random card from another player's hand to swap.

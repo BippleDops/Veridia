@@ -63,8 +63,8 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
@@ -77,7 +77,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
 ```
 ^statblock
 

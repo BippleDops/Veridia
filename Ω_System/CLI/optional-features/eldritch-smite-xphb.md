@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 5 Warlock
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `d8` Force damage to the target, plus another `d8` per level of the spell slot, and you can give the target the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `d8` Force damage to the target, plus another `d8` per level of the spell slot, and you can give the target the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition if it is Huge or smaller.

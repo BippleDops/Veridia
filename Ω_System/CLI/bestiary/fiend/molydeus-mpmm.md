@@ -44,14 +44,14 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   - "wisdom": !!int "14"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+21"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "truesight 120 ft., passive Perception 31"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "21"
@@ -76,30 +76,30 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
       \ 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution\
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target transforms into a [manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
+      \ The target transforms into a [manes](/03_Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
       \ if this reduces its hit point maximum to 0. This transformation can be ended\
-      \ only by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell."
+      \ only by a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell."
     "name": "Snakebite"
   - "desc": "Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 25\
       \ (3d10 + 9) necrotic damage."
     "name": "Wolf Bite"
   - "desc": "The molydeus casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
-      \nAt will: [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md),\
-      \ [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\n3/day: [lightning\
-      \ bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      \nAt will: [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md), [telekinesis](/03_Mechanics/CLI/spells/telekinesis-xphb.md),\
+      \ [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md)\n\n3/day: [lightning\
+      \ bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md)"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The molydeus makes one Demonic Weapon or Snakebite attack."
     "name": "Attack"
-  - "desc": "The molydeus moves without provoking [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+  - "desc": "The molydeus moves without provoking [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
     "name": "Move"
   - "desc": "The molydeus uses Spellcasting."
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/molydeus-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/molydeus-mpmm.webp"
 ```
 ^statblock

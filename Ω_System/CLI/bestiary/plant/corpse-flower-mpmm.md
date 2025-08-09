@@ -39,8 +39,8 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
   - !!int "15"
   - !!int "3"
 "speed": "20 ft., climb 20 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [deafened](/03_Mechanics/CLI/conditions.md#Deafened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 12"
 "languages": ""
 "cr": "8"
@@ -57,7 +57,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
   - "desc": "Each creature that starts its turn within 10 feet of the corpse flower\
       \ or one of its zombies must make a DC 14 Constitution saving throw, unless\
       \ the creature is a Construct or an Undead. On a failed save, the creature is\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the start of its\
+      \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) until the start of its\
       \ next turn. On a successful save, the creature is immune to the Stench of Death\
       \ of all corpse flowers for 24 hours."
     "name": "Stench of Death"
@@ -76,7 +76,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
       \ on the corpse is expelled from the corpse flower in its space."
     "name": "Digest"
   - "desc": "The corpse flower animates one corpse in its body, turning it into a\
-      \ [zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The zombie appears\
+      \ [zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md). The zombie appears\
       \ in an unoccupied space within 5 feet of the corpse flower and acts immediately\
       \ after it in the initiative order. The zombie acts as an ally of the corpse\
       \ flower but isn't under its control, and the flower's stench clings to it (see\
@@ -85,7 +85,7 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/corpse-flower-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/corpse-flower-mpmm.webp"
 ```
 ^statblock
 

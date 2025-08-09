@@ -61,22 +61,22 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
   - !!int "15"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "Abyssal, Infernal; telepathy 60 ft."
 "cr": "9"
 "traits":
   - "desc": "If the nycaloth dies outside Gehenna, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in Gehenna."
     "name": "Fiendish Restoration"
-  - "desc": "The nycaloth has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The nycaloth has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -87,13 +87,13 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
       \ axe magically returns to the nycaloth's hand immediately after a ranged attack."
     "name": "Mercurial Axe"
 "bonus_actions":
-  - "desc": "The nycaloth has the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The nycaloth has the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible)\
       \ condition for 1 minute, and it teleports up to 30 feet to an unoccupied space\
       \ it can see. The condition ends early immediately after it deals damage."
     "name": "Shadowy Teleport"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/nycaloth-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/nycaloth-xmm.webp"
 ```
 ^statblock
 

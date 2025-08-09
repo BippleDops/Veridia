@@ -79,7 +79,7 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
     "name": "Tail Spike"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
 ```
 ^statblock
 

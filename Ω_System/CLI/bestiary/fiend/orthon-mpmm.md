@@ -31,7 +31,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "subtype": "devil"
 "alignment": "Typically  Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate](/3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
+"ac_class": "[half plate](/03_Mechanics/CLI/items/half-plate-armor-xphb.md)"
 "hp": !!int "105"
 "hit_dice": "10d10 + 50"
 "modifier": !!int "3"
@@ -48,17 +48,17 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
   - "constitution": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+11"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 20"
 "languages": "Common, Infernal, telepathy 120 ft."
 "cr": "10"
@@ -70,8 +70,8 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
   - "desc": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 11\
       \ (2d4 + 6) force damage, and the target must make a DC 17 Constitution saving\
       \ throw, taking 22 (4d10) poison damage on a failed save, or half as much damage\
-      \ on a successful one. On a failure, the target is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 minute. The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) target\
+      \ on a successful one. On a failure, the target is [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ for 1 minute. The [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success."
     "name": "Infernal Dagger"
@@ -82,17 +82,17 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
       \ taking an additional 17 (5d6) acid damage on a failed save, or half as much\
       \ damage on a successful one.  \n- Blindness. The target takes 5 (d10) radiant\
       \ damage. In addition, the target and all other creatures within 20 feet of\
-      \ it must each make a successful DC 17 Dexterity saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ it must each make a successful DC 17 Dexterity saving throw or be [blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
       \ until the end of the orthon's next turn.  \n- Concussion. The target and\
       \ each creature within 20 feet of it must make a DC 17 Constitution saving throw,\
       \ taking 13 (2d12) thunder damage on a failed save, or half as much damage on\
       \ a successful one.  \n- Entanglement. The target must make a successful\
-      \ DC 17 Dexterity saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ DC 17 Dexterity saving throw or be [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ for 1 hour by strands of sticky webbing. The target can escape by taking an\
       \ action to make a DC 17 Strength or Dexterity check and succeeding.  \n- Paralysis.\
       \ The target takes 22 (4d10) lightning damage and must make a successful DC\
-      \ 17 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ for 1 minute. The [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) target\
+      \ 17 Constitution saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ for 1 minute. The [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success.  \n- Tracking. For the next 24 hours, the orthon\
       \ knows the direction and distance to the target, as long as it's on the same\
@@ -100,8 +100,8 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
       \ which one, but not the exact location there.  "
     "name": "Brass Crossbow"
 "bonus_actions":
-  - "desc": "The orthon becomes [invisible](/3-Mechanics/CLI/conditions.md#Invisible).\
-      \ Any equipment it wears or carries is also [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The orthon becomes [invisible](/03_Mechanics/CLI/conditions.md#Invisible).\
+      \ Any equipment it wears or carries is also [invisible](/03_Mechanics/CLI/conditions.md#Invisible)\
       \ as long as the equipment is on its person. This invisibility ends immediately\
       \ after it makes an attack roll or is hit by an attack roll."
     "name": "Invisibility Field (Recharge 4-6)"
@@ -115,7 +115,7 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/orthon-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/orthon-mpmm.webp"
 ```
 ^statblock
 

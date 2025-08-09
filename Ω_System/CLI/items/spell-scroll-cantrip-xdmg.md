@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Spell Scroll (Cantrip)
 *Scroll, common*  
-![](/3-Mechanics/CLI/items/img/spell-scroll.webp#right)
+![](/03_Mechanics/CLI/items/img/spell-scroll.webp#right)
 
 - **Cost**: 30 gp
 

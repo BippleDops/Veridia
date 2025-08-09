@@ -18,8 +18,8 @@ modified: 2025-07-23 12:39
 
 | dice: d6 | Leader |
 |----------|--------|
-| 1 | [Githyanki Supreme Commander](/3-Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm.md) |
-| 2-3 | [Githyanki Knight](/3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) |
-| 4-5 | [Githyanki Kith'rak](/3-Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm.md) |
-| 6 | [Githyanki Gish](/3-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md) |
+| 1 | [Githyanki Supreme Commander](/03_Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm.md) |
+| 2-3 | [Githyanki Knight](/03_Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) |
+| 4-5 | [Githyanki Kith'rak](/03_Mechanics/CLI/bestiary/humanoid/githyanki-kithrak-mpmm.md) |
+| 6 | [Githyanki Gish](/03_Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md) |
 ^raiding-party-leader

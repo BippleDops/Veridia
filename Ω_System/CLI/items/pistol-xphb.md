@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Pistol
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/pistol.webp#right)
+![](/03_Mechanics/CLI/items/img/pistol.webp#right)
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition), [Loading](/03_Mechanics/CLI/item-properties.md#Loading)
 - **Cost**: 250 gp
 - **Weight**: 3.0 lbs.
 

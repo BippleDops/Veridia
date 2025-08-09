@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 # Menacing Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until the end of your next turn.
+When you hit a creature with an attack roll, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wisdom saving throw or have the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition until the end of your next turn.

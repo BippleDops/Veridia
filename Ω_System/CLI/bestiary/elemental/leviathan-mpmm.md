@@ -43,11 +43,11 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
   - "charisma": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [stunned](/03_Mechanics/CLI/conditions.md#Stunned)"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "20"
@@ -76,9 +76,9 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
       \ it can see within 120 feet of itself. The wave is up to 250 feet long, up\
       \ to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make\
       \ a DC 24 Strength saving throw. On a failed save, a creature takes 45 (7d12)\
-      \ bludgeoning damage and is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+      \ bludgeoning damage and is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone).\
       \ On a successful save, a creature takes half as much damage and isn't knocked\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone). The water spreads out across\
+      \ [prone](/03_Mechanics/CLI/conditions.md#Prone). The water spreads out across\
       \ the ground in all directions, extinguishing unprotected flames in its area\
       \ and within 250 feet of it, and then it vanishes."
     "name": "Tidal Wave (Recharge 6)"
@@ -90,7 +90,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/leviathan-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/leviathan-mpmm.webp"
 ```
 ^statblock
 

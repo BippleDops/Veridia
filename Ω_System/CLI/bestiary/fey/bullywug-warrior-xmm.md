@@ -45,7 +45,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Bullywug, Common"
@@ -65,7 +65,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/bullywug-warrior-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/bullywug-warrior-xmm.webp"
 ```
 ^statblock
 

@@ -39,12 +39,12 @@ aliases:
 "traits":
   - "desc": "If a creature starts its turn within 15 feet of the basilisk and the\
       \ two of them can see each other, the basilisk can force the creature to make\
-      \ a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).\
-      \ On a failed save, the creature magically begins to turn to stone and is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
+      \ a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).\
+      \ On a failed save, the creature magically begins to turn to stone and is [restrained](/03_Mechanics/CLI/conditions.md#Restrained).\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
-      \ the effect ends. On a failure, the creature is [petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
-      \ until freed by the  [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell or other magic.\n\nA creature that isn't [surprised](/3-Mechanics/CLI/conditions.md#Surprised)\
+      \ the effect ends. On a failure, the creature is [petrified](/03_Mechanics/CLI/conditions.md#Petrified)\
+      \ until freed by the  [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md)\
+      \ spell or other magic.\n\nA creature that isn't [surprised](/03_Mechanics/CLI/conditions.md#Surprised)\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\
       \ it can avert its eyes again. If it looks at the basilisk in the meantime,\
@@ -58,6 +58,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/young-basilisk-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/young-basilisk-oota.webp"
 ```
 ^statblock

@@ -18,16 +18,16 @@ modified: 2025-07-23 12:39
 
 | dice: 1d12 | Stone |
 |------------|-------|
-| 1 | [Azurite](/3-Mechanics/CLI/items/azurite-xdmg.md) (mottled deep blue) |
-| 2 | [Banded agate](/3-Mechanics/CLI/items/banded-agate-xdmg.md) (striped brown, blue, white, or red) |
-| 3 | [Blue quartz](/3-Mechanics/CLI/items/blue-quartz-xdmg.md) (pale blue) |
-| 4 | [Eye agate](/3-Mechanics/CLI/items/eye-agate-xdmg.md) (circles of gray, white, brown, blue, or green) |
-| 5 | [Hematite](/3-Mechanics/CLI/items/hematite-xdmg.md) (gray black) |
-| 6 | [Lapis lazuli](/3-Mechanics/CLI/items/lapis-lazuli-xdmg.md) (light and dark blue with yellow flecks) |
-| 7 | [Malachite](/3-Mechanics/CLI/items/malachite-xdmg.md) (striated light and dark green) |
-| 8 | [Moss agate](/3-Mechanics/CLI/items/moss-agate-xdmg.md) (pink or yellow white with mossy gray or green markings) |
-| 9 | [Obsidian](/3-Mechanics/CLI/items/obsidian-xdmg.md) (black) |
-| 10 | [Rhodochrosite](/3-Mechanics/CLI/items/rhodochrosite-xdmg.md) (light pink) |
-| 11 | [Tiger eye](/3-Mechanics/CLI/items/tiger-eye-xdmg.md) (brown with golden center) |
-| 12 | [Turquoise](/3-Mechanics/CLI/items/turquoise-xdmg.md) (light blue green) |
+| 1 | [Azurite](/03_Mechanics/CLI/items/azurite-xdmg.md) (mottled deep blue) |
+| 2 | [Banded agate](/03_Mechanics/CLI/items/banded-agate-xdmg.md) (striped brown, blue, white, or red) |
+| 3 | [Blue quartz](/03_Mechanics/CLI/items/blue-quartz-xdmg.md) (pale blue) |
+| 4 | [Eye agate](/03_Mechanics/CLI/items/eye-agate-xdmg.md) (circles of gray, white, brown, blue, or green) |
+| 5 | [Hematite](/03_Mechanics/CLI/items/hematite-xdmg.md) (gray black) |
+| 6 | [Lapis lazuli](/03_Mechanics/CLI/items/lapis-lazuli-xdmg.md) (light and dark blue with yellow flecks) |
+| 7 | [Malachite](/03_Mechanics/CLI/items/malachite-xdmg.md) (striated light and dark green) |
+| 8 | [Moss agate](/03_Mechanics/CLI/items/moss-agate-xdmg.md) (pink or yellow white with mossy gray or green markings) |
+| 9 | [Obsidian](/03_Mechanics/CLI/items/obsidian-xdmg.md) (black) |
+| 10 | [Rhodochrosite](/03_Mechanics/CLI/items/rhodochrosite-xdmg.md) (light pink) |
+| 11 | [Tiger eye](/03_Mechanics/CLI/items/tiger-eye-xdmg.md) (brown with golden center) |
+| 12 | [Turquoise](/03_Mechanics/CLI/items/turquoise-xdmg.md) (light blue green) |
 ^10-gp-gemstones

@@ -14,9 +14,9 @@ modified: 2025-07-23 12:39
 *Source: Player's Handbook p. 139*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
-- **Tool Proficiencies.** [Navigator's tools](/3-Mechanics/CLI/items/navigators-tools-xphb.md), vehicles (water)  
-- **Equipment.** A belaying pin ([club](/3-Mechanics/CLI/items/club-xphb.md)), [silk rope (50 feet)](/3-Mechanics/CLI/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](/3-Mechanics/CLI/items/trinket-xphb.md) on the Trinkets table in chapter 5), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Skill Proficiencies.** [Athletics](/03_Mechanics/CLI/skills.md#Athletics), [Perception](/03_Mechanics/CLI/skills.md#Perception)  
+- **Tool Proficiencies.** [Navigator's tools](/03_Mechanics/CLI/items/navigators-tools-xphb.md), vehicles (water)  
+- **Equipment.** A belaying pin ([club](/03_Mechanics/CLI/items/club-xphb.md)), [silk rope (50 feet)](/03_Mechanics/CLI/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](/03_Mechanics/CLI/items/trinket-xphb.md) on the Trinkets table in chapter 5), a set of [common clothes](/03_Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/03_Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 

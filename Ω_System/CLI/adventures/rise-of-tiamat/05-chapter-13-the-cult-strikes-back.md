@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 # Chapter 13: The Cult Strikes Back
 *Source: Rise of Tiamat, p. 140* 
 
-![](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/018-tod-13-01.webp#center)
+![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/018-tod-13-01.webp#center)
 
 During the course of this adventure, the heroes undertake various activities to thwart the plots of the Cult of the Dragon. The cult's awareness of the characters' opposition to their goals will have started even earlier if the characters played Hoard of the Dragon Queen. Either way, it doesn't take long for the cult to target the characters as a threat that must be eliminated.
 
@@ -24,7 +24,7 @@ The cult's attacks can happen anywhere, but the characters are at greatest risk 
 
 > [!note] Character Death
 > 
-> Character death should always be handled carefully, but don't be afraid to kill party members in this adventure. The characters should be high enough level to cast [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md), or to seek out such magic from their allies. Especially if they played through Hoard of the Dragon Queen, the characters have had ample opportunity to prove their worth to the Harpers, the Order of the Gauntlet, and the other factions.
+> Character death should always be handled carefully, but don't be afraid to kill party members in this adventure. The characters should be high enough level to cast [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md), or to seek out such magic from their allies. Especially if they played through Hoard of the Dragon Queen, the characters have had ample opportunity to prove their worth to the Harpers, the Order of the Gauntlet, and the other factions.
 ^character-death
 
 ## First Attack
@@ -43,14 +43,14 @@ The assailants the cult throws against the characters should be adjusted for the
 
 | Creature | XP Value |
 |----------|----------|
-| [Dragonclaw](/3-Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md) | 200 |
-| [Dragonwing](/3-Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) | 450 |
-| [Dragonfang](/3-Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md) | 1,100 |
-| [Half-blue dragon gladiator](/3-Mechanics/CLI/bestiary/humanoid/half-blue-dragon-gladiator-rot.md)* | 1,800 |
-| [Young blue dragon](/3-Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md) | 5,000 |
+| [Dragonclaw](/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md) | 200 |
+| [Dragonwing](/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) | 450 |
+| [Dragonfang](/03_Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md) | 1,100 |
+| [Half-blue dragon gladiator](/03_Mechanics/CLI/bestiary/humanoid/half-blue-dragon-gladiator-rot.md)* | 1,800 |
+| [Young blue dragon](/03_Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md) | 5,000 |
 ^creature-xp-value
 
-* Use the [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) statistics but add resistance to lightning damage and the breath weapon of a blue dragon wyrmling.
+* Use the [gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) statistics but add resistance to lightning damage and the breath weapon of a blue dragon wyrmling.
 
 ### Plan of Attack
 
@@ -84,7 +84,7 @@ A dramatic location works best for this attack. The cultists not only want to el
 
 ### Cult Forces
 
-The second attack force comprises a team led by a [dragonsoul](/3-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) cultist (see appendix D). If this is an isolated fight with the characters at or near full strength, choose adversaries that create a deadly encounter. If the adventurers are weakened from earlier encounters, aim for a hard encounter instead.
+The second attack force comprises a team led by a [dragonsoul](/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) cultist (see appendix D). If this is an isolated fight with the characters at or near full strength, choose adversaries that create a deadly encounter. If the adventurers are weakened from earlier encounters, aim for a hard encounter instead.
 
 Don't be reluctant to use forces that are likely to kill one or more characters. The destruction of the heroes is the goal of this attack, and if the risk of death doesn't feel real, the players won't take the threat of the cult seriously.
 
@@ -92,11 +92,11 @@ Don't be reluctant to use forces that are likely to kill one or more characters.
 
 | Creature | XP Value |
 |----------|----------|
-| [Dragonwing](/3-Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) | 450 |
-| [Dragonsoul](/3-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) | 1,800 |
-| [Mezzoloth](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) | 1,800 |
-| [Nycaloth](/3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md) | 5,000 |
-| [Adult black dragon](/3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) | 11,500 |
+| [Dragonwing](/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) | 450 |
+| [Dragonsoul](/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) | 1,800 |
+| [Mezzoloth](/03_Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) | 1,800 |
+| [Nycaloth](/03_Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md) | 5,000 |
+| [Adult black dragon](/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) | 11,500 |
 ^creature-xp-value
 
 ### Plan of Attack
@@ -105,7 +105,7 @@ These attackers know more about their targets than the first group did, thanks t
 
 #### Option 1: Indoor Attack
 
-The attackers launch their assault while the characters are visiting an important location crowded with innocent bystanders. The black dragon begins by tearing off a section of the roof to incite as much terror as possible. While the characters are distracted by that assault, [invisible](/3-Mechanics/CLI/conditions.md#Invisible) nycaloths move in and attack with surprise. The mezzoloths use [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md) to surround the characters, unconcerned about NPCs caught up in the attack.
+The attackers launch their assault while the characters are visiting an important location crowded with innocent bystanders. The black dragon begins by tearing off a section of the roof to incite as much terror as possible. While the characters are distracted by that assault, [invisible](/03_Mechanics/CLI/conditions.md#Invisible) nycaloths move in and attack with surprise. The mezzoloths use [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md) to surround the characters, unconcerned about NPCs caught up in the attack.
 
 #### Option 2: Outdoor Attack
 
@@ -125,7 +125,7 @@ In addition to damaging bystanders, this encounter can easily destroy buildings 
 
 ### Conclusion
 
-The attackers might win this fight and kill all the characters. However, that doesn't need to end the adventure. Healers in the Order of the Gauntlet, the Harpers, and the Emerald Enclave can restore the characters to life so they can continue waging war for the forces of good. Surprisingly, dying in this battle might give the characters an advantage. When the attackers report to [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md) that the meddling adventurers are dead, they'll be written off as a threat. If the raised characters make an effort to keep out of sight of the cult's spies, their next blow against the cult could come as a complete surprise.
+The attackers might win this fight and kill all the characters. However, that doesn't need to end the adventure. Healers in the Order of the Gauntlet, the Harpers, and the Emerald Enclave can restore the characters to life so they can continue waging war for the forces of good. Surprisingly, dying in this battle might give the characters an advantage. When the attackers report to [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md) that the meddling adventurers are dead, they'll be written off as a threat. If the raised characters make an effort to keep out of sight of the cult's spies, their next blow against the cult could come as a complete surprise.
 
 The characters gain a level at the end of this event.
 
@@ -143,7 +143,7 @@ After the second cult attack, allow the characters to complete one or two chapte
 
 ### Cult Forces
 
-Enough chromatic dragons have responded to the [Draakhorn's](/3-Mechanics/CLI/items/draakhorn-rot.md) call that a full flight of young red dragons can be dispatched to deal with the heroes once and for all. For this final assault, the cult bolsters the red dragons with a handful of cultists, half-dragons, and Red Wizards (mages) who are members of Rath Modar's splinter sect. The cultists and Red Wizards arrive on the backs of the red dragons.
+Enough chromatic dragons have responded to the [Draakhorn's](/03_Mechanics/CLI/items/draakhorn-rot.md) call that a full flight of young red dragons can be dispatched to deal with the heroes once and for all. For this final assault, the cult bolsters the red dragons with a handful of cultists, half-dragons, and Red Wizards (mages) who are members of Rath Modar's splinter sect. The cultists and Red Wizards arrive on the backs of the red dragons.
 
 Make this a deadly encounter—and not just by the numbers prescribed in the "Dungeon Master's Guide". By now, the cult knows how the characters fight, and so do you. Sometimes players can make a group of characters tougher than their basic game statistics indicate. If that's the case for your group, take that into account when selecting the attacking force.
 
@@ -151,21 +151,21 @@ Make this a deadly encounter—and not just by the numbers prescribed in the "Du
 
 | Creature | XP Value |
 |----------|----------|
-| [Dragonwing](/3-Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) | 450 |
-| [Dragonfang](/3-Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md) | 1,100 |
-| [Half-red dragon gladiator](/3-Mechanics/CLI/bestiary/humanoid/half-red-dragon-gladiator-rot.md)* | 2,300 |
-| [Mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) | 2,300 |
-| [Half-green dragon assassin](/3-Mechanics/CLI/bestiary/humanoid/half-green-dragon-assassin-rot.md)** | 3,900 |
-| [Young red dragon](/3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md) | 5,900 |
+| [Dragonwing](/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) | 450 |
+| [Dragonfang](/03_Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md) | 1,100 |
+| [Half-red dragon gladiator](/03_Mechanics/CLI/bestiary/humanoid/half-red-dragon-gladiator-rot.md)* | 2,300 |
+| [Mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) | 2,300 |
+| [Half-green dragon assassin](/03_Mechanics/CLI/bestiary/humanoid/half-green-dragon-assassin-rot.md)** | 3,900 |
+| [Young red dragon](/03_Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md) | 5,900 |
 ^creature-xp-value
 
-* Use the [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) statistics but add resistance to fire damage and the breath weapon of a red dragon wyrmling. These changes increase the gladiator's challenge by 1, increasing its XP value.
+* Use the [gladiator](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) statistics but add resistance to fire damage and the breath weapon of a red dragon wyrmling. These changes increase the gladiator's challenge by 1, increasing its XP value.
 
-** Use the [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) statistics but add the breath weapon of a green dragon wyrmling. This change doesn't affect the assassin's challenge.
+** Use the [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) statistics but add the breath weapon of a green dragon wyrmling. This change doesn't affect the assassin's challenge.
 
 ### Plan of Attack
 
-![Dragon Cultist](/3-Mechanics/CLI/adventures/rise-of-tiamat/img/019-tod-13-02.webp#center)
+![Dragon Cultist](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/019-tod-13-02.webp#center)
 
 This encounter should challenge the adventurers in every way. The characters should be no easy match for the attacking force, such that retreat and escape might be their best option if they hope to survive. However, if the characters haven't made escape plans ahead of time, the attackers will have taken steps to make retreat impossible. The specifics are up to you, but should be based around any obvious features of the encounter area. Standard escape paths such as back doors and known sewer entrances will be watched, and tactics the characters have used before will be known. Only a special escape route—a secret passage known only to a palace's most trusted servants, for example—should come as a surprise to the cultists and Red Wizards.
 
@@ -181,7 +181,7 @@ For those players, don't make this battle just a relentless slog toward death. G
 
 ### Conclusion
 
-Great heroes rebound from losses to fight even harder for the cause they believe in. Thanks to [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md), a lost battle is a setback, not a defeat. It's a wake-up call to any players who assumed that the characters' victory was assured. The Cult of the Dragon is committed to its goal and will stop at nothing to achieve it. The characters must be even more committed to theirs.
+Great heroes rebound from losses to fight even harder for the cause they believe in. Thanks to [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md), a lost battle is a setback, not a defeat. It's a wake-up call to any players who assumed that the characters' victory was assured. The Cult of the Dragon is committed to its goal and will stop at nothing to achieve it. The characters must be even more committed to theirs.
 
 The characters gain a level at the end of this event.
 

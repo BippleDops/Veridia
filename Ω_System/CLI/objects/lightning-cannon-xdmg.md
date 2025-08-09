@@ -15,11 +15,11 @@ modified: 2025-07-23 12:39
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
 
-A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [Utilize](/3-Mechanics/CLI/actions.md#Utilize) action, then a crew member can take the Lightning Ball action.
+A Lightning Cannon is a small, bronze cannon inlaid with arcane runes and mounted on a heavy tripod device. It launches balls of crackling electricity. Aiming a Lightning Cannon requires the [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action, then a crew member can take the Lightning Ball action.
 
 ```ad-statblock
 title: Lightning Cannon
-![](/3-Mechanics/CLI/objects/token/lightning-cannon-xdmg.webp#token)
+![](/03_Mechanics/CLI/objects/token/lightning-cannon-xdmg.webp#token)
 *Medium Siege weapon*
 
 - **Armor Class** 19

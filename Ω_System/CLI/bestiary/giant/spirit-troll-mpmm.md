@@ -50,14 +50,14 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Giant"
 "cr": "11"
@@ -76,8 +76,8 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
       \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
-      \ throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) for 1 minute.\
-      \ The [stunned](/3-Mechanics/CLI/conditions.md#Stunned) target can repeat the\
+      \ throw or be [stunned](/03_Mechanics/CLI/conditions.md#Stunned) for 1 minute.\
+      \ The [stunned](/03_Mechanics/CLI/conditions.md#Stunned) target can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Bite"
@@ -87,7 +87,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/spirit-troll-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/spirit-troll-mpmm.webp"
 ```
 ^statblock
 

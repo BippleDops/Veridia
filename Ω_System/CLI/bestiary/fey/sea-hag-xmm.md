@@ -24,7 +24,7 @@ aliases:
 - **Habitat.** Coastal, Underwater  
 - **Treasure.** Arcana  
 
-Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](/3-Mechanics/CLI/conditions.md#Frightened) by their appearance.
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [frightened](/03_Mechanics/CLI/conditions.md#Frightened) by their appearance.
 
 Sea hags cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
 
@@ -66,36 +66,36 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 11): [Augury](/3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md),\
-      \ [Identify](/3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ save DC 11): [Augury](/03_Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md),\
+      \ [Identify](/03_Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md).\
+      \ The hag must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md)\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
   - "desc": "The hag can breathe air and water."
     "name": "Amphibious"
   - "desc": "Wisdom Saving Throw: DC 11, any Beast or Humanoid that starts its turn\
       \ within 30 feet of the hag and can see the hag's true form. Failure: The\
-      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
+      \ target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition\
       \ until the start of its next turn. Success: The target is immune to this\
       \ hag's Vile Appearance for 24 hours."
     "name": "Vile Appearance"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage."
     "name": "Claw"
-  - "desc": "Wisdom Saving Throw: DC 11, one [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+  - "desc": "Wisdom Saving Throw: DC 11, one [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ creature the hag can see within 30 feet. Failure: If the target has 20 [Hit\
-      \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) or fewer, it drops\
-      \ to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Otherwise,\
+      \ Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) or fewer, it drops\
+      \ to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). Otherwise,\
       \ the target takes 13 (3d8) Psychic damage."
     "name": "Death Glare (Recharge 5-6)"
-  - "desc": "The hag casts [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+  - "desc": "The hag casts [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md),\
       \ using Constitution as the spellcasting ability (spell save DC 13). The spell's\
       \ duration is 24 hours.\n"
     "name": "Illusory Appearance"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/sea-hag-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/sea-hag-xmm.webp"
 ```
 ^statblock
 

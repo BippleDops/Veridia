@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 # Feinting Attack
 *Source: Player's Handbook (2024) p. 95*  
 
-As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.
+As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one Superiority Die to feint, choosing one creature within 5 feet of yourself as your target. You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on your next attack roll against that target this turn. If that attack hits, add the Superiority Die to the attack's damage roll.

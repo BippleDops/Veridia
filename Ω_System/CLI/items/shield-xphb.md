@@ -14,8 +14,8 @@ created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
 # Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md))*  
-![](/3-Mechanics/CLI/items/img/shield.webp#right)
+*Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md))*  
+![](/03_Mechanics/CLI/items/img/shield.webp#right)
 
 - **Armor Class**: 2
 - **Cost**: 10 gp

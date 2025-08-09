@@ -14,17 +14,17 @@ modified: 2025-07-23 12:39
 
 The center of the chaos and madness now spreading throughout the Underdark is the great drow city of Menzoberranzan. Few of the city's drow residents know that the Demon Queen of Spiders is behind the summoning ritual that brought the demon lords to the Underdark—and that the reward for their faith in Lolth might well be their destruction.
 
-Menzoberranzan was the site of Demogorgon's appearance in the Underdark, and the lash of his tentacles and the crushing tread of his clawed feet left a trail of broken buildings, bodies, and minds. Unfortunately for the drow, the worst may be yet to come if the renegade drow archmage [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) won the adventurers' support for his plan to use a powerful ritual to draw the demon lords and their fiendish servants out of the Underdark and set them against each other. As the demon lords destroy each other in the material world, their dark essences will be drawn back to the Abyss once more. But one of the key parts of Vizeran's plan involves the characters' making sure that the City of Spiders plays host to this final, devastating battle.
+Menzoberranzan was the site of Demogorgon's appearance in the Underdark, and the lash of his tentacles and the crushing tread of his clawed feet left a trail of broken buildings, bodies, and minds. Unfortunately for the drow, the worst may be yet to come if the renegade drow archmage [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) won the adventurers' support for his plan to use a powerful ritual to draw the demon lords and their fiendish servants out of the Underdark and set them against each other. As the demon lords destroy each other in the material world, their dark essences will be drawn back to the Abyss once more. But one of the key parts of Vizeran's plan involves the characters' making sure that the City of Spiders plays host to this final, devastating battle.
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/103-ooa15-01.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/103-ooa15-01.webp#center)
 
 ## Goals
 
-If the characters are working with [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md), they have two goals in the City of Spiders: obtain Gromph Baenre's demon summoning grimoire, and place Vizeran's talisman in Menzoberranzan to draw the demon lords there for an epic showdown.
+If the characters are working with [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md), they have two goals in the City of Spiders: obtain Gromph Baenre's demon summoning grimoire, and place Vizeran's talisman in Menzoberranzan to draw the demon lords there for an epic showdown.
 
 ### Placing the "Dark Heart"
 
-After their adventures in the Wormwrithings and the Labyrinth, the characters can return to Araj to deliver the components they have collected to [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md). Over ten days, the drow archmage uses those components to craft a talisman that looks and feels like a five-pound black heart carved of black stone. Imbued with arcane and fiendish power, the *dark heart* talisman acts as a beacon when Vizeran's ritual is performed, drawing all demons presently loose in the Underdark. The talisman radiates faint conjuration magic even before it is activated, but it's primarily a focus for the power of the ritual rather than a source of power itself.
+After their adventures in the Wormwrithings and the Labyrinth, the characters can return to Araj to deliver the components they have collected to [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md). Over ten days, the drow archmage uses those components to craft a talisman that looks and feels like a five-pound black heart carved of black stone. Imbued with arcane and fiendish power, the *dark heart* talisman acts as a beacon when Vizeran's ritual is performed, drawing all demons presently loose in the Underdark. The talisman radiates faint conjuration magic even before it is activated, but it's primarily a focus for the power of the ritual rather than a source of power itself.
 
 Vizeran's plan calls for the adventurers to place the *dark heart* in Menzoberranzan. Vizeran would prefer for the *dark heart* to be left wherever the characters find Gromph Baenre's grimoire in Sorcere—the center of wizardly training in Menzoberranzan. However, Vizeran tells the characters that placing the talisman anywhere in the City of Spiders will do.
 
@@ -38,11 +38,11 @@ Fortunately for the characters, Vizeran isn't without allies in the city. The Co
 > 
 > When using the generic stat blocks in "appendix B" of the *Monster Manual* to represent drow NPCs, assume that the drow are neutral evil and speak Elvish and Undercommon. Also give those NPCs the following additional features.
 > 
-> **Fey Ancestry.** The drow has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put the drow to sleep.
+> **Fey Ancestry.** The drow has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put the drow to sleep.
 > 
-> **Innate Spellcasting.** The drow's innate spellcasting ability is Charisma (spell save DC equal to 10 + the drow's Charisma modifier). The drow can innately cast the following spells, requiring no material components: At will: [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md) 1/day each: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) (self only)
+> **Innate Spellcasting.** The drow's innate spellcasting ability is Charisma (spell save DC equal to 10 + the drow's Charisma modifier). The drow can innately cast the following spells, requiring no material components: At will: [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md) 1/day each: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/03_Mechanics/CLI/spells/levitate-xphb.md) (self only)
 > 
-> **Sunlight Sensitivity.** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
+> **Sunlight Sensitivity.** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 ^statistical-modifications-for-drow-npcs
 
 ## Going to Menzoberranzan
@@ -53,7 +53,7 @@ Vizeran strongly suggests that the characters leave their expeditionary force at
 
 ### Vizeran's Secret Route
 
-Grin Ousstyl shows the characters a secret door in the cavern wall outside of Vizeran's tower. Beyond this door is a long and winding tunnel that took Vizeran centuries to create using stone-shaping spells. The passage, which is free of monsters and hazards, ends at a secret door at the bottom of the Westrift in Menzoberranzan. The trip from Araj to the city takes twelve days on foot, during which time Grin says very little. Any character who succeeds on a DC 15 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check can tell that the drow mage is troubled by something, although he refuses to share his private thoughts and concerns.
+Grin Ousstyl shows the characters a secret door in the cavern wall outside of Vizeran's tower. Beyond this door is a long and winding tunnel that took Vizeran centuries to create using stone-shaping spells. The passage, which is free of monsters and hazards, ends at a secret door at the bottom of the Westrift in Menzoberranzan. The trip from Araj to the city takes twelve days on foot, during which time Grin says very little. Any character who succeeds on a DC 15 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check can tell that the drow mage is troubled by something, although he refuses to share his private thoughts and concerns.
 
 If the characters read Grin's thoughts or compel him to speak using magic or torture, Grin reveals that he has misgivings about Vizeran's plan. Though he has no affection for the matron mothers and priestesses that govern Menzoberranzan, Grin has no wish to see his birthplace—and its people—destroyed. If Grin sees firsthand the destruction wrought by Demogorgon's rampage through the city, he becomes even more reluctant to see Vizeran's plan through (see "A Change of Heart" later in this chapter).
 
@@ -80,21 +80,21 @@ The demonic invasion has put Menzoberranzan's defenses on high alert, making it 
 
 #### Drow Patrol A
 
-The standard patrol consists of two drow [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (use the statistics at the end of chapter 8). Characters who can see out to a range of 120 or more and are moving at a normal pace spot the drow scouts with a successful DC 16 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. If the characters are moving at a fast pace, they take a −5 penalty to their checks.
+The standard patrol consists of two drow [scouts](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (use the statistics at the end of chapter 8). Characters who can see out to a range of 120 or more and are moving at a normal pace spot the drow scouts with a successful DC 16 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. If the characters are moving at a fast pace, they take a −5 penalty to their checks.
 
-Unless the characters are moving at a slow pace and being stealthy, the drow spot them with their [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) and withdraw to an outpost located a mile away. Defending the drow outpost are a female [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) (the commander), a male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md), and sixteen [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). The outpost is a four-story tower carved out of a 60-foot-tall, 15-foot-wide column in the middle of a 75-foot-diameter cavern. Both the cavern and the outpost are unlit. A secret door in the column's base leads to the tower interior, but finding it requires a thorough search and a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Arrow slits on each floor allow the drow to cast spells and make ranged attacks in every direction while enjoying three-quarters cover against attacks from the cavern.
+Unless the characters are moving at a slow pace and being stealthy, the drow spot them with their [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) and withdraw to an outpost located a mile away. Defending the drow outpost are a female [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) (the commander), a male [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md), and sixteen [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). The outpost is a four-story tower carved out of a 60-foot-tall, 15-foot-wide column in the middle of a 75-foot-diameter cavern. Both the cavern and the outpost are unlit. A secret door in the column's base leads to the tower interior, but finding it requires a thorough search and a successful DC 20 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check. Arrow slits on each floor allow the drow to cast spells and make ranged attacks in every direction while enjoying three-quarters cover against attacks from the cavern.
 
 If the drow scouts escape and the characters don't follow them, the scouts report to the outpost commander, who organizes a hunting party consisting of her and eight drow (leaving the mage and eight drow to staff the outpost). Use the drow pursuit rules in chapter 2, and assume a pursuit level of 4.
 
 #### Drow Patrol B
 
-The characters encounter a [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) and `d8` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) fighting a [hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) demon. The hezrou has `2d10 + 45` hit points remaining, while each drow has `2d6` hit points remaining. The drow elite warrior isn't wounded. Without interference, the drow slay the demon, with the drow elite warrior and `d4`−1 drow surviving the encounter. If the characters get involved, the encounter becomes a three-way fight, as neither the drow nor the demon are interested in forming an alliance.
+The characters encounter a [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) and `d8` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) fighting a [hezrou](/03_Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) demon. The hezrou has `2d10 + 45` hit points remaining, while each drow has `2d6` hit points remaining. The drow elite warrior isn't wounded. Without interference, the drow slay the demon, with the drow elite warrior and `d4`−1 drow surviving the encounter. If the characters get involved, the encounter becomes a three-way fight, as neither the drow nor the demon are interested in forming an alliance.
 
 Characters can keep their distance and avoid the altercation. However, any drow who survive the battle head to the nearest drow outpost `d4` miles away. After hearing the survivors' report, the outpost commander organizes a hunting party to search for the characters, as described in "Drow Patrol A."
 
 #### Drow Patrol C
 
-The characters encounter a drow patrol consisting of a [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md), `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), and a group of slaves. Roll a `d10` and consult the Drow Slaves table to determine what slaves are present. Trolls fight to the death; other slaves attempt to flee if all the drow are killed.
+The characters encounter a drow patrol consisting of a [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md), `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), and a group of slaves. Roll a `d10` and consult the Drow Slaves table to determine what slaves are present. Trolls fight to the death; other slaves attempt to flee if all the drow are killed.
 
 #### Drow Slaves
 
@@ -102,16 +102,16 @@ The characters encounter a drow patrol consisting of a [drow mage](/3-Mechanics/
 
 | dice: d10 | Slaves |
 |-----------|--------|
-| 1–2 | `3d6` [derro](/3-Mechanics/CLI/bestiary/aberration/derro-mpmm.md) (see appendix C) |
-| 3–4 | `3d6` [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
-| 5–6 | `3d6` [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
-| 7–8 | `2d6` [quaggoths](/3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) |
-| 9–10 | `d6` [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) |
+| 1–2 | `3d6` [derro](/03_Mechanics/CLI/bestiary/aberration/derro-mpmm.md) (see appendix C) |
+| 3–4 | `3d6` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
+| 5–6 | `3d6` [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md) |
+| 7–8 | `2d6` [quaggoths](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) |
+| 9–10 | `d6` [trolls](/03_Mechanics/CLI/bestiary/giant/troll-xmm.md) |
 ^slaves
 
 #### Drow Patrol D
 
-The characters encounter a [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) riding on the back of a [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) carved from stone and shaped like a giant spider. The mage rides in a howdah that provides half cover against attacks from the ground. Escorting the mage are `2d4` [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (use the statistics at the end of chapter 8). These drow fight to the death to protect their territory.
+The characters encounter a [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) riding on the back of a [stone golem](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) carved from stone and shaped like a giant spider. The mage rides in a howdah that provides half cover against attacks from the ground. Escorting the mage are `2d4` [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (use the statistics at the end of chapter 8). These drow fight to the death to protect their territory.
 
 ##### Treasure
 
@@ -125,12 +125,12 @@ The spider golem's eight eyes are six-inch-diameter red crystal orbs worth 1,000
 > - **Government**: Matriarchal theocracy worshiping Lolth, the Demon Queen of Spiders  
 > - **Defense**: Large standing army of trained drow warriors and mages, bolstered by armed slaves and magical wards; the citizens of the city create a formidable militia  
 > - **Commerce**: Well-trained slaves; various fungi, molds, and exotic creatures for food; poisons, potions, oils, and elixirs; jewelry, perfume, and silk  
-> - **Organizations**: The Ruling Council (comprised of the matron mothers of the eight most powerful [drow noble](/3-Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md) houses in the city), the Church of Lolth (based in Arach-Tinilith), Bregan D'aerthe (company of drow spies, mercenaries, and assassins)  
+> - **Organizations**: The Ruling Council (comprised of the matron mothers of the eight most powerful [drow noble](/03_Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md) houses in the city), the Church of Lolth (based in Arach-Tinilith), Bregan D'aerthe (company of drow spies, mercenaries, and assassins)  
 ^4e5
 
 The City of Spiders is carved out of and built within a great cavern the drow call *Araurilcaurak*, its vault soaring a thousand feet above the stone floor. Drow dwellings and strongholds are carved from massive stalagmites and stalactites, connected with delicate-looking bridges of hardened spider silk and lit with coldly glowing eldritch fires.
 
-![Map 15.1: Menzoberranzan](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/104-15-01.webp#center)
+![Map 15.1: Menzoberranzan](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/104-15-01.webp#center)
 
 ## The Dark Dominion
 
@@ -144,58 +144,58 @@ The Dark Dominion is a great place for random encounters. When it suits you, rol
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–2 | `2d4` [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
+| 1–2 | `2d4` [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
 | 3–4 | Clandestine meeting |
-| 5 | `d4` [driders](/3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) |
-| 6–10 | [Drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) patrol |
-| 11–12 | `1d4 + 1` [drow spore servants](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
+| 5 | `d4` [driders](/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) |
+| 6–10 | [Drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) patrol |
+| 11–12 | `1d4 + 1` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
 | 13–14 | Escaped slaves |
-| 15–16 | `1d4 + 1` [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
-| 17–19 | [Glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) |
-| 20 | `d4` [intellect devourers](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) |
+| 15–16 | `1d4 + 1` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
+| 17–19 | [Glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) |
+| 20 | `d4` [intellect devourers](/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) |
 ^encounter
 
 ### Bugbears
 
-The [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) are branded with the mark of a drow house, identifying them as slaves. They try to sneak up on the party and score an easy kill.
+The [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) are branded with the mark of a drow house, identifying them as slaves. They try to sneak up on the party and score an easy kill.
 
 ### Clandestine Meeting
 
-The party happens upon a meeting between a [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) house representative and some outside business interest. The drow is escorted by `d4`−1 [bugbear](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) bodyguards. The individual with whom the drow is meeting can be any of the following.
+The party happens upon a meeting between a [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) house representative and some outside business interest. The drow is escorted by `d4`−1 [bugbear](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) bodyguards. The individual with whom the drow is meeting can be any of the following.
 
 #### Duergar Alchemist
 
-This [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota.md) is trying to procure rare alchemical ingredients or equipment (see the "Duergar Alchemist" sidebar in chapter 4 for statistical modifications).
+This [duergar](/03_Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota.md) is trying to procure rare alchemical ingredients or equipment (see the "Duergar Alchemist" sidebar in chapter 4 for statistical modifications).
 
 #### Duergar Spy
 
-This [duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) from Gracklstugh is trying to bribe a drow for information about who is responsible for the demonic invasion.
+This [duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) from Gracklstugh is trying to bribe a drow for information about who is responsible for the demonic invasion.
 
 #### Human Assassin
 
-This [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) does dirty work for the drow and is being hired to eliminate someone on the surface world.
+This [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) does dirty work for the drow and is being hired to eliminate someone on the surface world.
 
 #### Khalessa Draga
 
-If the characters haven't already encountered this Lords' Alliance spy, [Khalessa](/3-Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md) (see "March on Menzoberranzan" at the end of chapter 10) is in her drow disguise, buying information of value to the alliance. When she sees the party, she ends her meeting and tries to find out why the characters are here. If the party includes one or more members of the Lords' Alliance, she offers to help them complete their mission. Otherwise, she is unwilling to break her cover.
+If the characters haven't already encountered this Lords' Alliance spy, [Khalessa](/03_Mechanics/CLI/bestiary/npc/khalessa-draga-oota.md) (see "March on Menzoberranzan" at the end of chapter 10) is in her drow disguise, buying information of value to the alliance. When she sees the party, she ends her meeting and tries to find out why the characters are here. If the party includes one or more members of the Lords' Alliance, she offers to help them complete their mission. Otherwise, she is unwilling to break her cover.
 
 ### Driders
 
-These outcasts perch atop high ledges or cling to the high ceiling, attacking with their bows while staying out of the range of melee weapons. A [drider](/3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) retreats if reduced to 60 hit points or fewer.
+These outcasts perch atop high ledges or cling to the high ceiling, attacking with their bows while staying out of the range of melee weapons. A [drider](/03_Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) retreats if reduced to 60 hit points or fewer.
 
 ### Drow Patrol
 
-The characters encounter a patrol consisting of `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) led by a [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md). The patrol stops and questions any non-drow who aren't slaves, as well as drow they deem suspicious. It might take roleplaying or a successful DC 15 Wisdom ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check to convince the patrol not to attack the party. If Grin Ousstyl is with the party, he quietly suggests that the characters offer the drow a bribe of at least 50 gp. If they do, the characters gain advantage on checks made to talk their way past the patrol.
+The characters encounter a patrol consisting of `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) led by a [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md). The patrol stops and questions any non-drow who aren't slaves, as well as drow they deem suspicious. It might take roleplaying or a successful DC 15 Wisdom ([Deception](/03_Mechanics/CLI/skills.md#Deception) or [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check to convince the patrol not to attack the party. If Grin Ousstyl is with the party, he quietly suggests that the characters offer the drow a bribe of at least 50 gp. If they do, the characters gain advantage on checks made to talk their way past the patrol.
 
 Any sign of a large, armed, and potentially hostile group causes the patrol to retreat and seek reinforcements. If the characters remain in the area, the patrol returns with two additional patrols `d10` minutes later.
 
 ### Drow Spore Servants
 
-These drow became infected with Zuggtmoy's spores and have transformed into [spore servants](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md). They silently observe the party but don't attack the characters unless threatened.
+These drow became infected with Zuggtmoy's spores and have transformed into [spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md). They silently observe the party but don't attack the characters unless threatened.
 
 ### Escaped Slaves
 
-A group of `d4` [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (of any race) attempts to hide from the approaching party. If spotted, they beg the characters for mercy, explaining that they have escaped from their drow masters following "the great demon's rampage" and have been hiding in the tunnels ever since. The slaves can provide the characters with a detailed description of the attack, confirming that the demon lord Demogorgon was behind the destruction. The slaves are desperate to escape from the drow and pitifully grateful for any aid offered.
+A group of `d4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (of any race) attempts to hide from the approaching party. If spotted, they beg the characters for mercy, explaining that they have escaped from their drow masters following "the great demon's rampage" and have been hiding in the tunnels ever since. The slaves can provide the characters with a detailed description of the attack, confirming that the demon lord Demogorgon was behind the destruction. The slaves are desperate to escape from the drow and pitifully grateful for any aid offered.
 
 ### Goblins
 
@@ -208,29 +208,29 @@ The goblins beg for food. If the characters give them food or otherwise treat th
 | dice: d10 | Tunnel Destination |
 |-----------|--------------------|
 | 1–2 | Kyorbblivvin (see "Kyorbblivvin") |
-| 3–4 | A hidden cave containing `d4` [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) |
+| 3–4 | A hidden cave containing `d4` [mind flayers](/03_Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) |
 | 5–6 | A hidden cave in which the party can rest without having to worry about random encounters |
-| 7–8 | A hidden cave containing `4d8` [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) and a [goblin](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) boss, who will trade a magic item in its possession for the equivalent of 30 days of rations (to determine the item, roll once on Magic Item Table C in "chapter 7" of the *Dungeon Master's Guide*) |
+| 7–8 | A hidden cave containing `4d8` [goblins](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) and a [goblin](/03_Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) boss, who will trade a magic item in its possession for the equivalent of 30 days of rations (to determine the item, roll once on Magic Item Table C in "chapter 7" of the *Dungeon Master's Guide*) |
 | 9–10 | A trap door near the Bazaar (see "The Bazaar") |
 ^tunnel-destination
 
 ### Glyph of Warding
 
-Drow priestesses are fond of placing *glyphs of warding* in the tunnels surrounding Menzoberranzan. Such a glyph allows drow to pass safely but triggers whenever a non-drow passes by it. A drow [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) has a spell save DC of 13 and an explosive runes effect (see the spell's description in the *Player's Handbook*).
+Drow priestesses are fond of placing *glyphs of warding* in the tunnels surrounding Menzoberranzan. Such a glyph allows drow to pass safely but triggers whenever a non-drow passes by it. A drow [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) has a spell save DC of 13 and an explosive runes effect (see the spell's description in the *Player's Handbook*).
 
 ### Intellect Devourers
 
-Mind flayers like to send [intellect devourers](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) into the Dark Dominion in search of hosts, using them as spies to keep an eye on the drow city. These intellect devourers creep up behind the party and use their Devour Intellect attack against party members in the rear of the marching order.
+Mind flayers like to send [intellect devourers](/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) into the Dark Dominion in search of hosts, using them as spies to keep an eye on the drow city. These intellect devourers creep up behind the party and use their Devour Intellect attack against party members in the rear of the marching order.
 
 > [!note] Menzoberranzan: General Features
 > 
 > The following features can be found throughout the City of Spiders.
 > 
-> **Light.** Most streets and buildings are lit by eldritch green, blue, and violet lights as bright as torches (created with [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spells). Other areas are dark.
+> **Light.** Most streets and buildings are lit by eldritch green, blue, and violet lights as bright as torches (created with [continual flame](/03_Mechanics/CLI/spells/continual-flame-xphb.md) spells). Other areas are dark.
 > 
 > **Shielded City.** The drow have locked down their city in the wake of Demogorgon's rampage. For the duration of this adventure, creatures can't teleport into or out of Menzoberranzan. In addition, creatures, objects, and spaces within the city can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
 > 
-> **The Stone Curse.** The "stone curse" is an ancient enchantment woven by the wizards of Sorcere to protect the city from cave-ins. Any character casting [earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md), [move earth](/3-Mechanics/CLI/spells/move-earth-xphb.md), or similar magic within the city triggers a [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md) spell (save DC 18) centered on the caster, which takes effect before the triggering spell is completed. The [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md) lasts for 1 minute, and is accompanied by a peal of thunder that alerts everyone nearby. The caster of the triggering spell must make a successful DC 18 Constitution saving throw to maintain concentration. On a failed check, the triggering spell fails.
+> **The Stone Curse.** The "stone curse" is an ancient enchantment woven by the wizards of Sorcere to protect the city from cave-ins. Any character casting [earthquake](/03_Mechanics/CLI/spells/earthquake-xphb.md), [move earth](/03_Mechanics/CLI/spells/move-earth-xphb.md), or similar magic within the city triggers a [reverse gravity](/03_Mechanics/CLI/spells/reverse-gravity-xphb.md) spell (save DC 18) centered on the caster, which takes effect before the triggering spell is completed. The [reverse gravity](/03_Mechanics/CLI/spells/reverse-gravity-xphb.md) lasts for 1 minute, and is accompanied by a peal of thunder that alerts everyone nearby. The caster of the triggering spell must make a successful DC 18 Constitution saving throw to maintain concentration. On a failed check, the triggering spell fails.
 ^menzoberranzan-general-features
 
 ## City Locations
@@ -241,7 +241,7 @@ Characters who infiltrate Menzoberranzan might find themselves in one or more of
 
 This 750-foot-wide circle of bare bedrock is a crowded, untidy labyrinth of stalls, many of which were flattened or torn asunder by Demogorgon. Merchants who survived the attack are slowly returning to the Bazaar and cleaning up the mess, but little business is happening here at present. Drow commoners go quietly about their business, heads down and hoods drawn, as drow patrols brutally stamp down anything that resembles theft or looting.
 
-Characters moving through the Bazaar have at least one encounter with a drow patrol consisting of two [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol immediately calls for reinforcements, which arrive in `d4` rounds. These reinforcements consist of `3d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) on foot and `2d4` [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) that scuttle down from nearby rooftops.
+Characters moving through the Bazaar have at least one encounter with a drow patrol consisting of two [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol immediately calls for reinforcements, which arrive in `d4` rounds. These reinforcements consist of `3d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) on foot and `2d4` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) that scuttle down from nearby rooftops.
 
 ### The Braeryn
 
@@ -249,7 +249,7 @@ The Braeryn (also known as "the Stenchstreets") is a shantytown of ramshackle st
 
 The population of the Stenchstreets has swelled in the wake of Demogorgon's rampage. Drow who have lost homes or businesses find what shelter they can here, scratching out a meager existence among the roughest folk in Menzoberranzan.
 
-The Braeryn is a great place to find allies or meet an untimely end. Roll for random encounters as the characters explore this district. You can roll a `d20` and consult the Encounters in the Braeryn table, or choose an encounter that you like. The party can avoid random encounters in the Braeryn by succeeding on a DC 15 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+The Braeryn is a great place to find allies or meet an untimely end. Roll for random encounters as the characters explore this district. You can roll a `d20` and consult the Encounters in the Braeryn table, or choose an encounter that you like. The party can avoid random encounters in the Braeryn by succeeding on a DC 15 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### Encounters in the Braeryn
 
@@ -257,47 +257,47 @@ The Braeryn is a great place to find allies or meet an untimely end. Roll for ra
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–2 | `1d4 + 2` [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
+| 1–2 | `1d4 + 2` [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
 | 3–8 | Drow adolescents |
 | 9–10 | Drow pickpocket |
-| 11–12 | `3d6` [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
+| 11–12 | `3d6` [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
 | 13–14 | Infected drow |
 | 15–16 | Mad drow |
-| 17–18 | 1 shield dwarf [berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
+| 17–18 | 1 shield dwarf [berserker](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) |
 | 19–20 | Svirfneblin lure |
 ^encounter
 
 #### Bugbears
 
-These [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) skulk through the streets, murdering lone travelers or small groups for food. If the party outnumbers them, they follow the characters in the hopes that one or more of them become separated from the larger group, whereupon the bugbears attack.
+These [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) skulk through the streets, murdering lone travelers or small groups for food. If the party outnumbers them, they follow the characters in the hopes that one or more of them become separated from the larger group, whereupon the bugbears attack.
 
 #### Drow Adolescents
 
-This roving gang consists of `1d6 + 6` drow [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md). If the gang outnumbers the party, the drow attack. Otherwise, they make lewd hand gestures at the party but retreat if accosted.
+This roving gang consists of `1d6 + 6` drow [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md). If the gang outnumbers the party, the drow attack. Otherwise, they make lewd hand gestures at the party but retreat if accosted.
 
 #### Drow Pickpocket
 
-This homeless drow [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) tries to pick the pockets of a random party member. The drow has a [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand) skill modifier of +2.
+This homeless drow [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) tries to pick the pockets of a random party member. The drow has a [Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand) skill modifier of +2.
 
 #### Giant Wolf Spiders
 
-These [spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) are hungry and crawl out of buildings or descend from rooftops to attack the party.
+These [spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) are hungry and crawl out of buildings or descend from rooftops to attack the party.
 
 #### Infected Drow
 
-This [drow](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) has been infected with Zuggtmoy's spores (see chapter 5) and will succumb to the infestation in `d12` hours. Strange fungi has already begun sprouting from the drow's head and limbs. The drow offers a 500 gp gemstone in exchange for the party's protection and tries to stay as close to the characters as possible, hoping to infect them with his or her spores when the time comes.
+This [drow](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) has been infected with Zuggtmoy's spores (see chapter 5) and will succumb to the infestation in `d12` hours. Strange fungi has already begun sprouting from the drow's head and limbs. The drow offers a 500 gp gemstone in exchange for the party's protection and tries to stay as close to the characters as possible, hoping to infect them with his or her spores when the time comes.
 
 #### Mad Drow
 
-This drow [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) suffers from a form of indefinite madness (see "Madness" in chapter 2 of the *Dungeon Master's Guide*). The drow believes he or she is the true voice of Lolth, tasked by the Demon Queen of Spiders to admonish everyone for their lack of devotion, warning that "Demons will consume you all!" The mad drow wears an amulet made from a dead spider.
+This drow [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) suffers from a form of indefinite madness (see "Madness" in chapter 2 of the *Dungeon Master's Guide*). The drow believes he or she is the true voice of Lolth, tasked by the Demon Queen of Spiders to admonish everyone for their lack of devotion, warning that "Demons will consume you all!" The mad drow wears an amulet made from a dead spider.
 
 #### Shield Dwarf Berserker
 
-This chaotic neutral [dwarf](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)—a former slave of the drow—sees nonexistent enemies everywhere, swinging his or her greataxe at the empty air. If a character engages the dwarf in battle or conversation, the dwarf attacks.
+This chaotic neutral [dwarf](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)—a former slave of the drow—sees nonexistent enemies everywhere, swinging his or her greataxe at the empty air. If a character engages the dwarf in battle or conversation, the dwarf attacks.
 
 #### Svirfneblin Lure
 
-A homeless [deep gnome](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) serves as host to an [intellect devourer](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md). It tries to lure one or more characters to a "secret enclave where enemies of the drow plot to overthrow Menzoberranzan." A successful DC 15 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check reveals something indescribably odd or untrustworthy about the gnome. If the characters follow the possessed gnome, they are led to a cramped cave under a dilapidated building. The cave is the secret lair of another `2d4` [intellect devourers](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md).
+A homeless [deep gnome](/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) serves as host to an [intellect devourer](/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md). It tries to lure one or more characters to a "secret enclave where enemies of the drow plot to overthrow Menzoberranzan." A successful DC 15 Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check reveals something indescribably odd or untrustworthy about the gnome. If the characters follow the possessed gnome, they are led to a cramped cave under a dilapidated building. The cave is the secret lair of another `2d4` [intellect devourers](/03_Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md).
 
 ### Donigarten
 
@@ -305,7 +305,7 @@ Donigarten is the name given a large lake and the surrounding farmland that domi
 
 The dark, cold waters of the lake have a sinister reputation, dating back to days when notable leaders of the great houses and their honored heroes were cast into the lake, dressed in full regalia and weighed down with stone spars. Many less important drow have been sent by rivals to the bottom of the lake as well, whose depths are suffused with *faerzress* that makes them impenetrable to scrying and divination spells.
 
-Donigarten was spared from Demogorgon's rampage. Although it is sparsely populated, the area is so vital to the city's survival that drow patrols are common here. Roll for random encounters as the characters cross this district. You can roll a `d20` and consult the Donigarten Encounters table, or choose an encounter that you like. The party can avoid random encounters in Donigarten by succeeding on a DC 11 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+Donigarten was spared from Demogorgon's rampage. Although it is sparsely populated, the area is so vital to the city's survival that drow patrols are common here. Roll for random encounters as the characters cross this district. You can roll a `d20` and consult the Donigarten Encounters table, or choose an encounter that you like. The party can avoid random encounters in Donigarten by succeeding on a DC 11 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### Donigarten Encounters
 
@@ -314,33 +314,33 @@ Donigarten was spared from Demogorgon's rampage. Although it is sparsely populat
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–5 | Drow patrol |
-| 6–8 | `2d4 + 2` [drow spore servants](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
+| 6–8 | `2d4 + 2` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
 | 9–10 | Escaped slaves |
-| 11–14 | `1d6 + 2` [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
+| 11–14 | `1d6 + 2` [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
 | 15–20 | Slave farmers |
 ^encounter
 
 #### Drow Patrol
 
-This patrol consists of two [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol immediately calls for reinforcements, which arrive in `1d4 + 2` rounds. The reinforcements consist of `d4` similar drow patrols.
+This patrol consists of two [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol immediately calls for reinforcements, which arrive in `1d4 + 2` rounds. The reinforcements consist of `d4` similar drow patrols.
 
 #### Drow Spore Servants
 
-These [drow](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) fell prey to Zuggtmoy's spores and were drawn to the fungi fields of Donigarten, where they now roam as a pack, attacking intruders on sight.
+These [drow](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) fell prey to Zuggtmoy's spores and were drawn to the fungi fields of Donigarten, where they now roam as a pack, attacking intruders on sight.
 
 #### Escaped Slaves
 
-A group of `d4` [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (of any race) fled their masters when Demogorgon attacked and took refuge here. The characters find them hiding in the fields or a nearby building. The slaves can provide the characters with a detailed description of the attack, confirming that Demogorgon was behind the destruction. The slaves are desperate to escape from the drow and pitifully grateful for any aid offered.
+A group of `d4` [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (of any race) fled their masters when Demogorgon attacked and took refuge here. The characters find them hiding in the fields or a nearby building. The slaves can provide the characters with a detailed description of the attack, confirming that Demogorgon was behind the destruction. The slaves are desperate to escape from the drow and pitifully grateful for any aid offered.
 
 #### Giant Wolf Spiders
 
-These [spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) lurk in burrows under the spongy ground, leaping out to attack the party as it passes by. Party members with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 17 or higher aren't [surprised](/3-Mechanics/CLI/conditions.md#Surprised) by the spiders.
+These [spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) lurk in burrows under the spongy ground, leaping out to attack the party as it passes by. Party members with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 17 or higher aren't [surprised](/03_Mechanics/CLI/conditions.md#Surprised) by the spiders.
 
 #### Orc Slave Farmers
 
 The drow use orc slaves to farm their fungi fields. The orcs pour water into carefully irrigated dung fields, renewing and expanding the fields with wagonloads of excrement brought in from the city proper. The orcs are so disciplined that they can be relied upon to perform their tasks with minimal or no supervision.
 
-The characters encounter `3d6` orc [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md). The orcs are chaotic evil and have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet, but they don't attack drow or anyone accompanied by a drow. There's a 25 percent chance that `d4` drow [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) are standing within 120 feet of the orcs, quietly resenting the fact that they've been assigned to "watch orcs till our waste." If the orcs come under attack, the drow rush in to protect them.
+The characters encounter `3d6` orc [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md). The orcs are chaotic evil and have [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet, but they don't attack drow or anyone accompanied by a drow. There's a 25 percent chance that `d4` drow [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) are standing within 120 feet of the orcs, quietly resenting the fact that they've been assigned to "watch orcs till our waste." If the orcs come under attack, the drow rush in to protect them.
 
 > [!note] The Way of Lolth
 > 
@@ -359,7 +359,7 @@ The characters encounter `3d6` orc [commoners](/3-Mechanics/CLI/bestiary/humanoi
 
 Known commonly as "Manyfolk," the area surrounding the Bazaar and bordered by the Clawrift to the east is home to Menzoberranzan's merchants, tradesfolk, and crafters. Duthcloim features small inns, taprooms, and pleasure houses catering to locals, visitors, and high-status drow seeking distraction. Parts of Duthcloim were damaged or destroyed after Demogorgon emerged from the Clawrift. Nevertheless, business has been booming as drow celebrate the deaths of rivals.
 
-If you want a random encounter to occur as the characters make their way through the Duthcloim district, roll a `d20` and consult the Duthcloim Encounters table, or choose an encounter that you like. The party can avoid random encounters in Duthcloim by succeeding on a DC 13 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+If you want a random encounter to occur as the characters make their way through the Duthcloim district, roll a `d20` and consult the Duthcloim Encounters table, or choose an encounter that you like. The party can avoid random encounters in Duthcloim by succeeding on a DC 13 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### Duthcloim Encounters
 
@@ -376,37 +376,37 @@ If you want a random encounter to occur as the characters make their way through
 
 #### Bregan D'aerthe Spy
 
-A male drow [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) takes an interest in the characters and begins shadowing them, attempting to remain unseen. Characters keeping an eye out for trouble spot the drow with a successful Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check contested by the drow's Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check.
+A male drow [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) takes an interest in the characters and begins shadowing them, attempting to remain unseen. Characters keeping an eye out for trouble spot the drow with a successful Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check contested by the drow's Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) check.
 
 The drow is a member of Bregan D'aerthe (see "Unexpected Allies" later in this chapter) and reveals as much if the characters confront him. If the characters reveal that they're trying to banish the demon lords back to the Abyss, he offers Bregan D'aerthe's assistance. If they're amenable, he leads them to a Bregan D'aerthe safe house until a meeting with Jarlaxle, the leader of Bregan D'aerthe, can be arranged. While escorted by the spy, the characters have no hostile random encounters.
 
 ##### Development
 
-The Bregan D'aerthe safe house is a three-story stone tower guarded by four members of Bregan D'aerthe (male [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)) and maintained by one or more freed slaves (use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) statistics). While in the safe house, the characters have no hostile encounters.
+The Bregan D'aerthe safe house is a three-story stone tower guarded by four members of Bregan D'aerthe (male [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)) and maintained by one or more freed slaves (use the [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) statistics). While in the safe house, the characters have no hostile encounters.
 
 If the characters agree to a meeting with Jarlaxle, the Bregan D'aerthe spy tells them that a drow operative named Krilelyn H'Kar will fetch them when the time comes (see "Private Meetings"). The spy then leaves the characters alone.
 
 #### Drow Foot Patrol
 
-This patrol consists of `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol confronts the party and starts asking questions. If any of the answers arouse suspicion or come across as insolent, the drow attack.
+This patrol consists of `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol confronts the party and starts asking questions. If any of the answers arouse suspicion or come across as insolent, the drow attack.
 
-If combat erupts, reinforcements arrive every `d4` rounds. Each wave of reinforcements consists of `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) plus `d4` [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) that crawl down from rooftops.
+If combat erupts, reinforcements arrive every `d4` rounds. Each wave of reinforcements consists of `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) plus `d4` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) that crawl down from rooftops.
 
 #### Drow Priestess of Lolth
 
-A [drow priestess of Lolth](/3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) accompanied by a [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) and `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) is out surveying damaged sections of the city. Merchants and crafters who confront the priestess, claiming to have lost everything in Demogorgon's attack, are banished to the Braeryn. Locals driven mad by the demonic invasion are brought before the priestess and put to death.
+A [drow priestess of Lolth](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) accompanied by a [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) and `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) is out surveying damaged sections of the city. Merchants and crafters who confront the priestess, claiming to have lost everything in Demogorgon's attack, are banished to the Braeryn. Locals driven mad by the demonic invasion are brought before the priestess and put to death.
 
-If the characters approach the priestess claiming to have vital information about the demon attack, they can, with a successful DC 20 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, convince the priestess to escort them to Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) (see "Private Meetings" later in this chapter). If the check fails by 5 or more, the priestess and her escort attack the party.
+If the characters approach the priestess claiming to have vital information about the demon attack, they can, with a successful DC 20 Charisma ([Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check, convince the priestess to escort them to Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) (see "Private Meetings" later in this chapter). If the check fails by 5 or more, the priestess and her escort attack the party.
 
 #### Spider Nest
 
-The characters stumble upon a spiders' nest containing `4d6` giant spider eggs with soft, sticky shells. Each egg weighs 20 pounds and has AC 6 and 1 hit point. Disturbing the eggs attracts `d4` [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md), which descend from nearby rooftops to defend the nest.
+The characters stumble upon a spiders' nest containing `4d6` giant spider eggs with soft, sticky shells. Each egg weighs 20 pounds and has AC 6 and 1 hit point. Disturbing the eggs attracts `d4` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md), which descend from nearby rooftops to defend the nest.
 
 #### Statue of Lolth
 
 The characters stumble upon a 9-foot-tall statue of Lolth depicted in her drow form. There is a 25 percent chance that the statue was toppled during Demogorgon's rampage, in which case it lies in pieces on the ground.
 
-If an intact statue is touched by a non-drow or otherwise defiled, the statue opens its mouth and disgorges a [swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) (spiders). These spiders crawl down the statue and attack whoever touched or defiled the statue. Once the statue disgorges a swarm, its mouth closes, and it can't release another swarm until 1 hour has passed.
+If an intact statue is touched by a non-drow or otherwise defiled, the statue opens its mouth and disgorges a [swarm of insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) (spiders). These spiders crawl down the statue and attack whoever touched or defiled the statue. Once the statue disgorges a swarm, its mouth closes, and it can't release another swarm until 1 hour has passed.
 
 > [!note] Common Drow Phrases
 > 
@@ -429,7 +429,7 @@ If an intact statue is touched by a non-drow or otherwise defiled, the statue op
 
 Eastmyr bridges the gap between prosperous Duthcloim and the down-and-out despair of the Braeryn. It is home to common merchants, tradesfolk, mercenaries, and crafters either making their way up the social ladder or trying to slow the downward descent of shifting fortunes. Though this area suffered relatively little damage during Demogorgon's rampage, its population has swelled with formerly high-profile drow forced out of their homes and holdings.
 
-If you want a random encounter to occur as the characters make their way through the Eastmyr district, roll a `d20` and consult the Eastmyr Encounters table, or choose an encounter that you like. The party can avoid random encounters in Eastmyr by succeeding on a DC 15 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+If you want a random encounter to occur as the characters make their way through the Eastmyr district, roll a `d20` and consult the Eastmyr Encounters table, or choose an encounter that you like. The party can avoid random encounters in Eastmyr by succeeding on a DC 15 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### Eastmyr Encounters
 
@@ -438,7 +438,7 @@ If you want a random encounter to occur as the characters make their way through
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–5 | Bregan D'aerthe spy |
-| 6–10 | Cult of "[Y](/3-Mechanics/CLI/bestiary/npc/y-oota.md)" |
+| 6–10 | Cult of "[Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md)" |
 | 11–15 | Drow foot patrol |
 | 16–20 | Scroll from Narbondel's Shadow |
 ^encounter
@@ -449,13 +449,13 @@ See "Duthcloim" for more information.
 
 #### Cult of "Y"
 
-Eastmyr has become a haven for a group of drow driven mad by Demogorgon's rampage. These drow carve the symbol of Demogorgon—a [Y](/3-Mechanics/CLI/bestiary/npc/y-oota.md) with curled ends—into their palms and foreheads, and they can hear the twin voices of the Prince of Demons talking to them, telling them that they will rise from the dregs of drow society to greatness once the nobility is cast down.
+Eastmyr has become a haven for a group of drow driven mad by Demogorgon's rampage. These drow carve the symbol of Demogorgon—a [Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md) with curled ends—into their palms and foreheads, and they can hear the twin voices of the Prince of Demons talking to them, telling them that they will rise from the dregs of drow society to greatness once the nobility is cast down.
 
-The characters encounter a group of `1d4 + 4` drow [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) wearing cloaks and cowls in the midst of kidnapping a low-ranking drow [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md). If the characters kill four or more cultists, the rest flee like rats. Sounds of combat attract the attention of a drow foot patrol (see "Duthcloim" for more information), which arrives in `d6` rounds. Any cultists that escape flee to a crumbling tenement a block away that the cult has converted into a shrine to Demogorgon. The shrine contains `d4` [shadow demons](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) as well as `2d4` drow [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md), each of whom has a "second head" (in the form of a severed drow head on a pole) that the cultist has lashed to his or her body. Painted in wet blood on the shrine's floor is a familiar "[Y](/3-Mechanics/CLI/bestiary/npc/y-oota.md)" symbol.
+The characters encounter a group of `1d4 + 4` drow [cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) wearing cloaks and cowls in the midst of kidnapping a low-ranking drow [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md). If the characters kill four or more cultists, the rest flee like rats. Sounds of combat attract the attention of a drow foot patrol (see "Duthcloim" for more information), which arrives in `d6` rounds. Any cultists that escape flee to a crumbling tenement a block away that the cult has converted into a shrine to Demogorgon. The shrine contains `d4` [shadow demons](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) as well as `2d4` drow [cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md), each of whom has a "second head" (in the form of a severed drow head on a pole) that the cultist has lashed to his or her body. Painted in wet blood on the shrine's floor is a familiar "[Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md)" symbol.
 
 ##### Development
 
-The [drow noble](/3-Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md) offers no reward to his or her rescuers and chastises the drow patrol for not arriving sooner. If the characters demand a reward, the noble frowns and gives them an insignia bearing the mark of his or her house, then instructs the characters to visit the noble's estate "when the light of Narbondel reaches its zenith" to receive their "reward." If the characters visit the noble's estate in Narbondellyn at the appointed time, they are set upon by the house guards, who have orders to eliminate them and dispose of the remains (see "Narbondellyn" for more information on [drow noble](/3-Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md) estates).
+The [drow noble](/03_Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md) offers no reward to his or her rescuers and chastises the drow patrol for not arriving sooner. If the characters demand a reward, the noble frowns and gives them an insignia bearing the mark of his or her house, then instructs the characters to visit the noble's estate "when the light of Narbondel reaches its zenith" to receive their "reward." If the characters visit the noble's estate in Narbondellyn at the appointed time, they are set upon by the house guards, who have orders to eliminate them and dispose of the remains (see "Narbondellyn" for more information on [drow noble](/03_Mechanics/CLI/bestiary/humanoid/drow-noble-oota.md) estates).
 
 #### Drow Foot Patrol
 
@@ -463,17 +463,17 @@ See "Duthcloim" for more information.
 
 #### Scroll from Narbondel's Shadow
 
-A cloaked half-drow [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) named Shinzi approaches the characters when they are alone and gives them a scroll bearing an advertisement for Narbondel's Shadow, the "finest rooming house in Menzoberranzan." If the party includes non-drow, Shinzi says that non-drow are "more than welcome at the Shadow." The advertisement doesn't list any prices, but on the back of the scroll is a map marking the location of the rooming house in northeastern Eastmyr, near the Clawrift.
+A cloaked half-drow [spy](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) named Shinzi approaches the characters when they are alone and gives them a scroll bearing an advertisement for Narbondel's Shadow, the "finest rooming house in Menzoberranzan." If the party includes non-drow, Shinzi says that non-drow are "more than welcome at the Shadow." The advertisement doesn't list any prices, but on the back of the scroll is a map marking the location of the rooming house in northeastern Eastmyr, near the Clawrift.
 
 ##### Development
 
-Narbondel's Shadow, which wasn't damaged during Demogorgon's rampage, offers some of the best food and lodging money can buy, but the cost is high: 25 gp per night, per person. A strongheart halfling [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) named Dalfred Noakes owns and runs the establishment. Dalfred had a violent encounter with a young Hunzrin noble, which left him scarred and without his left ear. He has never forgotten nor forgiven the noble. To this day, he uses a small cave system that doesn't connect with the Dark Dominion to smuggle goods and hide people fleeing angry drow nobles. If the characters look like they could use his help, Dalfred does whatever he can to assist them.
+Narbondel's Shadow, which wasn't damaged during Demogorgon's rampage, offers some of the best food and lodging money can buy, but the cost is high: 25 gp per night, per person. A strongheart halfling [commoner](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) named Dalfred Noakes owns and runs the establishment. Dalfred had a violent encounter with a young Hunzrin noble, which left him scarred and without his left ear. He has never forgotten nor forgiven the noble. To this day, he uses a small cave system that doesn't connect with the Dark Dominion to smuggle goods and hide people fleeing angry drow nobles. If the characters look like they could use his help, Dalfred does whatever he can to assist them.
 
-The orphaned daughter of a drow merchant and a human slave, Shinzi was adopted by Dalfred and is one of his many spies. She has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet, as well as the Fey Ancestry and Innate Spellcasting features of a drow (see the "Statistical Modifications to Drow NPCs" sidebar). However, she doesn't have the Sunlight Sensitivity feature.
+The orphaned daughter of a drow merchant and a human slave, Shinzi was adopted by Dalfred and is one of his many spies. She has [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet, as well as the Fey Ancestry and Innate Spellcasting features of a drow (see the "Statistical Modifications to Drow NPCs" sidebar). However, she doesn't have the Sunlight Sensitivity feature.
 
 ### Kyorbblivvin
 
-Kyorbblivvin is a spider-haunted forest of giant mushrooms that spreads across the northern portion of the Qu'ellarz'orl plateau. Members of the great houses use Kyorbblivvin as a private hunting domain. Drow warriors patrol the forest, alert for poachers and intruders. Check for random encounters in Kyorbblivvin once every hour. Roll a `d20` and consult the Kyorbblivvin Encounters table to determine what, if anything, the characters encounter. The party can avoid random encounters in Kyorbblivvin by succeeding on a DC 15 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+Kyorbblivvin is a spider-haunted forest of giant mushrooms that spreads across the northern portion of the Qu'ellarz'orl plateau. Members of the great houses use Kyorbblivvin as a private hunting domain. Drow warriors patrol the forest, alert for poachers and intruders. Check for random encounters in Kyorbblivvin once every hour. Roll a `d20` and consult the Kyorbblivvin Encounters table to determine what, if anything, the characters encounter. The party can avoid random encounters in Kyorbblivvin by succeeding on a DC 15 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### Kyorbblivvin Encounters
 
@@ -482,29 +482,29 @@ Kyorbblivvin is a spider-haunted forest of giant mushrooms that spreads across t
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–10 | No encounter |
-| 11 | 1 [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
-| 12 | `3d6` [drow spore servants](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
+| 11 | 1 [black pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) |
+| 12 | `3d6` [drow spore servants](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) (see appendix C) |
 | 13 | Elite drow foot patrol |
 | 14 | Exotic fungi |
-| 15 | `d4` [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
-| 16 | `d4` [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
+| 15 | `d4` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
+| 16 | `d4` [gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
 | 17 | Hunting party |
-| 18 | 1 [shrieker](/3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) |
-| 19 | `3d6` [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
-| 20 | `1d4 + 1` [violet fungi](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
+| 18 | 1 [shrieker](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) |
+| 19 | `3d6` [stirges](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
+| 20 | `1d4 + 1` [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) |
 ^encounter
 
 #### Black Pudding
 
-Thanks to the growing influence of Juiblex, this ooze has an Intelligence of 6 (−2). It uses its newfound intelligence to hide inside a bloated, hollowed-out giant mushroom. Characters can see viscid black goo oozing from the mushroom's stalk. Disturbing the mushroom causes the [pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) to burst forth and attack.
+Thanks to the growing influence of Juiblex, this ooze has an Intelligence of 6 (−2). It uses its newfound intelligence to hide inside a bloated, hollowed-out giant mushroom. Characters can see viscid black goo oozing from the mushroom's stalk. Disturbing the mushroom causes the [pudding](/03_Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) to burst forth and attack.
 
 #### Drow Spore Servants
 
-These [drow](/3-Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) fell prey to Zuggtmoy's spores and were drawn to the fungi fields of Kyorbblivvin, where they now roam as a pack, attacking intruders on sight.
+These [drow](/03_Mechanics/CLI/bestiary/plant/drow-spore-servant-oota.md) fell prey to Zuggtmoy's spores and were drawn to the fungi fields of Kyorbblivvin, where they now roam as a pack, attacking intruders on sight.
 
 #### Elite Drow Foot Patrol
 
-This patrol consists of `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) elite warriors. If one or more party members appear to be anything other than drow belonging to one of the eight ruling houses, or slaves in the company of such a drow, the patrol attacks. Each drow carries a horn that it can blow (as an action) to summon reinforcements. The first wave of reinforcements arrives in `1d4 + 4` rounds and consists of another `2d4` [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md). The second wave arrives after ten minutes and consists of `3d6` [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics).
+This patrol consists of `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) elite warriors. If one or more party members appear to be anything other than drow belonging to one of the eight ruling houses, or slaves in the company of such a drow, the patrol attacks. Each drow carries a horn that it can blow (as an action) to summon reinforcements. The first wave of reinforcements arrives in `1d4 + 4` rounds and consists of another `2d4` [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md). The second wave arrives after ten minutes and consists of `3d6` [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics).
 
 #### Exotic Fungi
 
@@ -522,7 +522,7 @@ The characters find a patch of exotic fungi (see "Fungi of the Underdark" in cha
 | 6 | `3d6` torchstalks |
 ^fungi
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/105-ooa15-03.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/105-ooa15-03.webp#center)
 
 #### Giant Spiders
 
@@ -530,11 +530,11 @@ There is a 50 percent chance that the giant spiders have a nest nearby (see "Dut
 
 #### Gricks
 
-Drow nobles unleash these creatures in the forest and hunt them for sport. The [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) fight until slain.
+Drow nobles unleash these creatures in the forest and hunt them for sport. The [gricks](/03_Mechanics/CLI/bestiary/aberration/grick-xmm.md) fight until slain.
 
 #### Hunting Party
 
-The characters happen upon a group of `1d4 + 2` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) from one of the eight ruling houses that live atop the plateau. These "lesser nobles" wear the insignia of their house and are hunting gricks for sport. They try to make short work of any trespassers they encounter. Roll a `d8` and consult the Drow Ruling Houses table to determine which house they belong to. If the result is House Do'Urden, the drow are actually Bregan D'aerthe initiates on a training exercise (see "House Do'Urden" later in this chapter).
+The characters happen upon a group of `1d4 + 2` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) from one of the eight ruling houses that live atop the plateau. These "lesser nobles" wear the insignia of their house and are hunting gricks for sport. They try to make short work of any trespassers they encounter. Roll a `d8` and consult the Drow Ruling Houses table to determine which house they belong to. If the result is House Do'Urden, the drow are actually Bregan D'aerthe initiates on a training exercise (see "House Do'Urden" later in this chapter).
 
 #### Drow Ruling Houses
 
@@ -554,15 +554,15 @@ The characters happen upon a group of `1d4 + 2` [drow](/3-Mechanics/CLI/bestiary
 
 #### Shrieker
 
-The shrieking of this [fungus](/3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) might attract other nearby creatures, which arrive in `2d4` rounds. Roll again on the Kyorbblivvin Encounters table to determine what, if anything, shows up. Treat an "exotic fungi" encounter as "no encounter."
+The shrieking of this [fungus](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) might attract other nearby creatures, which arrive in `2d4` rounds. Roll again on the Kyorbblivvin Encounters table to determine what, if anything, shows up. Treat an "exotic fungi" encounter as "no encounter."
 
 #### Stirges
 
-These bloodsucking [pests](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) lair in the cap of a giant mushroom, fluttering out to attack when they detect light or motion within 20 feet of their roost.
+These bloodsucking [pests](/03_Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) lair in the cap of a giant mushroom, fluttering out to attack when they detect light or motion within 20 feet of their roost.
 
 #### Violet Fungi
 
-These [fungi](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) extrude their branches and attack when the characters pass between them.
+These [fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md) extrude their branches and attack when the characters pass between them.
 
 ### Narbondel
 
@@ -572,7 +572,7 @@ The most dominant feature within the city, Narbondel is a 1,000-foot-tall column
 
 | Rank | House | Matron Mother | Notes |
 |------|-------|---------------|-------|
-| 1 | Baenre | [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) | Controls all three branches of the Academy (see "Tier Breche") |
+| 1 | Baenre | [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) | Controls all three branches of the Academy (see "Tier Breche") |
 | 2 | Barrison Del'Armgo | Mez'Barris Armgo | Has the largest number of trained wizards and mercenaries-for-hire |
 | 3 | Faen Tlabbar | Vadalma Tlabbar | Fanatically devoted to Lolth |
 | 4 | Mizzrym | Miz'ri Mizzrym | Dominates Menzoberranzan's slave trade |
@@ -586,9 +586,9 @@ The most dominant feature within the city, Narbondel is a 1,000-foot-tall column
 
 The estates of the various drow houses are clustered beneath the plateau of Qu'ellarz'orl in an area called Narbondellyn, allowing the superiors of those drow to literally look down upon them. Largely untouched during Demogorgon's rampage, the so-called "Broad Streets" district remains the bright center of Menzoberranzan, as the lesser houses vie to outdo each other in shows of wealth, power, and influence. Soaring stalagmite towers and great manors rise across the area, which is also home to luxury shops, pleasure houses, and discriminating merchants.
 
-A noble estate in Narbondellyn maintains its own militia, consisting of fifty or more highly disciplined [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors and [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), with one elite warrior for every ten drow warriors. In addition, an estate holds `3d6` drow [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) and scores of slaves, `6d6` of which can be pressed into defending the house. These fighting slaves are usually [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), [ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md), [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md), or [quaggoths](/3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md). Doors and windows are protected with [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spells (spell save DC 13), and `2d6` [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) watch for trouble from ledges and rooftops.
+A noble estate in Narbondellyn maintains its own militia, consisting of fifty or more highly disciplined [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors and [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), with one elite warrior for every ten drow warriors. In addition, an estate holds `3d6` drow [nobles](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) and scores of slaves, `6d6` of which can be pressed into defending the house. These fighting slaves are usually [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md), [orcs](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md), or [quaggoths](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md). Doors and windows are protected with [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) spells (spell save DC 13), and `2d6` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) watch for trouble from ledges and rooftops.
 
-If you want a random encounter to occur as the characters make their way through the Narbondellyn district, roll a `d20` and consult the Narbondellyn Encounters table, or choose an encounter that you like. The party can avoid random encounters in Narbondellyn by succeeding on a DC 13 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+If you want a random encounter to occur as the characters make their way through the Narbondellyn district, roll a `d20` and consult the Narbondellyn Encounters table, or choose an encounter that you like. The party can avoid random encounters in Narbondellyn by succeeding on a DC 13 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### Narbondellyn Encounters
 
@@ -596,7 +596,7 @@ If you want a random encounter to occur as the characters make their way through
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–3 | [Beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) |
+| 1–3 | [Beholder](/03_Mechanics/CLI/bestiary/aberration/beholder-xmm.md) |
 | 4–7 | Bregan D'aerthe mercenaries |
 | 8–12 | Elite drow patrol |
 | 13–16 | Noble entourage |
@@ -605,15 +605,15 @@ If you want a random encounter to occur as the characters make their way through
 
 #### Beholder
 
-This [monster](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) is passing through the city. The drow give it a wide berth.
+This [monster](/03_Mechanics/CLI/bestiary/aberration/beholder-xmm.md) is passing through the city. The drow give it a wide berth.
 
 #### Bregan D'aerthe Mercenaries
 
 Bregan D'aerthe was instrumental in driving the demons out of Menzoberranzan. Since the incursion, Bregan D'aerthe mercenaries have taken to patrolling the streets of the wealthier districts, accepting payments from drow nobles for the added security.
 
-The characters encounter a group of `3d4` male [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)—all members of Bregan D'aerthe. Unlike most drow patrols, this group is gregarious and jovial. The mercenaries stop the characters to ask their business, but more to alleviate boredom than to throw their weight around. Unless the characters brazenly declare their intention to attack a noble house, the Bregan D'aerthe leader flips them a platinum coin and cheerfully sends them on their way after concluding his "interrogation."
+The characters encounter a group of `3d4` male [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)—all members of Bregan D'aerthe. Unlike most drow patrols, this group is gregarious and jovial. The mercenaries stop the characters to ask their business, but more to alleviate boredom than to throw their weight around. Unless the characters brazenly declare their intention to attack a noble house, the Bregan D'aerthe leader flips them a platinum coin and cheerfully sends them on their way after concluding his "interrogation."
 
-The Bregan D'aerthe leader carries a gem-studded minotaur horn. If the characters attack the mercenaries, the leader blows his horn, which can be heard throughout the district. All noble houses go on high alert as reinforcements arrive every round for the next `d8` rounds. Each wave of reinforcements consists of an elite drow patrol (see below) and `d4` [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md).
+The Bregan D'aerthe leader carries a gem-studded minotaur horn. If the characters attack the mercenaries, the leader blows his horn, which can be heard throughout the district. All noble houses go on high alert as reinforcements arrive every round for the next `d8` rounds. Each wave of reinforcements consists of an elite drow patrol (see below) and `d4` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md).
 
 ##### Treasure
 
@@ -621,11 +621,11 @@ The gem-studded horn carried by the Bregan D'aerthe leader is worth 2,500 gp. In
 
 #### Elite Drow Patrol
 
-This patrol consists of two [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol immediately calls for reinforcements, which arrive in `1d4 + 2` rounds. The reinforcements consist of `d4` similar drow patrols.
+This patrol consists of two [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol immediately calls for reinforcements, which arrive in `1d4 + 2` rounds. The reinforcements consist of `d4` similar drow patrols.
 
 #### Noble Entourage
 
-The characters encounter a drow [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) traveling with eight [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors bearing the symbol and colors of their noble house. There is a 25 percent chance that a [succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md) or [incubus](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) accompanies the noble in drow form, and a 75 percent chance that the noble is being carried around in a palanquin by unarmed slaves. Roll a `d6` and consult the Drow House Slaves table to determine what kind of slaves and how many.
+The characters encounter a drow [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) traveling with eight [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors bearing the symbol and colors of their noble house. There is a 25 percent chance that a [succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md) or [incubus](/03_Mechanics/CLI/bestiary/fiend/incubus-xmm.md) accompanies the noble in drow form, and a 75 percent chance that the noble is being carried around in a palanquin by unarmed slaves. Roll a `d6` and consult the Drow House Slaves table to determine what kind of slaves and how many.
 
 #### Drow House Slaves
 
@@ -633,9 +633,9 @@ The characters encounter a drow [noble](/3-Mechanics/CLI/bestiary/humanoid/noble
 
 | dice: d6 | Slaves |
 |----------|--------|
-| 1–2 | 6 shield dwarf [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
-| 3–4 | 6 moon elf [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
-| 5–6 | 6 human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
+| 1–2 | 6 shield dwarf [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
+| 3–4 | 6 moon elf [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
+| 5–6 | 6 human [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) |
 ^slaves
 
 ##### Treasure
@@ -654,11 +654,11 @@ See "Duthcloim" for more information.
 
 Untouched by Demogorgon's rampage, the high southern plateau of Menzoberranzan is home to many of the oldest and greatest noble houses, with House Baenre situated at the plateau's highest point, to the east. At the west end of Qu'ellarz'orl is a small cavern containing a sculpted stalagmite tower. Within this tower rests the Chamber of the Ruling Council, where the matron mothers of the eight great drow houses gather and meet.
 
-Each noble estate in Qu'ellarz'orl maintains its own militia, consisting of several hundred highly disciplined [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors and [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), with one elite warrior for every ten drow warriors. In addition, an estate holds `3d12` drow [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) and scores of slaves, `10d10` of which can be pressed into defending the house. These fighting slaves are usually [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), [ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md), [orogs](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md), or [quaggoths](/3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md). Doors and windows are protected with [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spells (spell save DC 13), and either `3d6` [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) or `3d6` [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) watch for trouble from ledges and rooftops. These gargoyles and giant spiders have [truesight](/3-Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet, enabling them to spot [invisible](/3-Mechanics/CLI/conditions.md#Invisible) trespassers.
+Each noble estate in Qu'ellarz'orl maintains its own militia, consisting of several hundred highly disciplined [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors and [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), with one elite warrior for every ten drow warriors. In addition, an estate holds `3d12` drow [nobles](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) and scores of slaves, `10d10` of which can be pressed into defending the house. These fighting slaves are usually [bugbears](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md), [orogs](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md), or [quaggoths](/03_Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md). Doors and windows are protected with [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) spells (spell save DC 13), and either `3d6` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) or `3d6` [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) watch for trouble from ledges and rooftops. These gargoyles and giant spiders have [truesight](/03_Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet, enabling them to spot [invisible](/03_Mechanics/CLI/conditions.md#Invisible) trespassers.
 
-Roll for random encounters as the characters cross this district. You can roll a `d20` and consult the Qu'ellarz'orl Encounters table, or choose an encounter that you like. The party can avoid random encounters in Qu'ellarz'orl by succeeding on a DC 15 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+Roll for random encounters as the characters cross this district. You can roll a `d20` and consult the Qu'ellarz'orl Encounters table, or choose an encounter that you like. The party can avoid random encounters in Qu'ellarz'orl by succeeding on a DC 15 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/106-ooa15-04.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/106-ooa15-04.webp#center)
 
 #### Qu'ellarz'orl Encounters
 
@@ -667,15 +667,15 @@ Roll for random encounters as the characters cross this district. You can roll a
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–5 | Elite drow patrol |
-| 6–8 | `2d4` [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
-| 9–10 | `1d6 + 2` [giant wolf spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
+| 6–8 | `2d4` [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) |
+| 9–10 | `1d6 + 2` [giant wolf spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) |
 | 11–14 | Groundskeepers |
 | 15–20 | Slave parade |
 ^encounter
 
 #### Elite Drow Patrol
 
-This patrol consists of two [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow of one of the eight ruling houses, or slaves in the company of such a drow, the patrol calls for reinforcements, which arrive in `1d4 + 2` rounds and consist of `d4` similar drow patrols.
+This patrol consists of two [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow of one of the eight ruling houses, or slaves in the company of such a drow, the patrol calls for reinforcements, which arrive in `1d4 + 2` rounds and consist of `d4` similar drow patrols.
 
 > [!note] Old Enemies
 > 
@@ -684,25 +684,25 @@ This patrol consists of two [drow elite warriors](/3-Mechanics/CLI/bestiary/huma
 
 #### Gargoyles
 
-These creatures are loyal to House Baenre and have magically bestowed [truesight](/3-Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet. As they fly over the plateau, they keep a watchful eye on everyone and everything. However, they don't attack unless House Baenre's holdings are in jeopardy.
+These creatures are loyal to House Baenre and have magically bestowed [truesight](/03_Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet. As they fly over the plateau, they keep a watchful eye on everyone and everything. However, they don't attack unless House Baenre's holdings are in jeopardy.
 
-If the characters drawn attention to themselves, the gargoyles fly back to House Baenre and report what they've seen. Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), believing that the characters are potentially of use to her, dispatches eight elite drow patrols (see above) to bring them to her at once. If the characters allow themselves to be brought before the most powerful individual in the city, see the "Private Meetings" section for tips on how to roleplay the encounter with Matron Mother Quenthel.
+If the characters drawn attention to themselves, the gargoyles fly back to House Baenre and report what they've seen. Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), believing that the characters are potentially of use to her, dispatches eight elite drow patrols (see above) to bring them to her at once. If the characters allow themselves to be brought before the most powerful individual in the city, see the "Private Meetings" section for tips on how to roleplay the encounter with Matron Mother Quenthel.
 
 #### Giant Wolf Spiders
 
-These [spiders](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) lurk in burrows beneath the gardens, leaping out to attack the party as it passes by. Party members with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 17 or higher aren't [surprised](/3-Mechanics/CLI/conditions.md#Surprised) by the spiders.
+These [spiders](/03_Mechanics/CLI/bestiary/beast/giant-wolf-spider-xmm.md) lurk in burrows beneath the gardens, leaping out to attack the party as it passes by. Party members with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 17 or higher aren't [surprised](/03_Mechanics/CLI/conditions.md#Surprised) by the spiders.
 
 #### Groundskeepers
 
-The characters happen upon `d8` drow [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) tending the decorative fungi fields and gardens that surround the various noble estates. These drow are low-ranking members of their house. They give strangers unpleasant looks but pose little threat.
+The characters happen upon `d8` drow [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) tending the decorative fungi fields and gardens that surround the various noble estates. These drow are low-ranking members of their house. They give strangers unpleasant looks but pose little threat.
 
-There is a 25 percent chance that one of the drow groundskeepers is actually a young drow [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) who's being punished for some infraction or political misstep. This noble is bold enough to approach the characters and demand to know their business. The noble also seizes any opportunity to reverse his or her recent misfortune, perhaps by rooting out enemy spies or using the characters to dispose of a rival. This noble is treacherous, however, and doesn't make good on any promises or bribes.
+There is a 25 percent chance that one of the drow groundskeepers is actually a young drow [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) who's being punished for some infraction or political misstep. This noble is bold enough to approach the characters and demand to know their business. The noble also seizes any opportunity to reverse his or her recent misfortune, perhaps by rooting out enemy spies or using the characters to dispose of a rival. This noble is treacherous, however, and doesn't make good on any promises or bribes.
 
 #### Slave Parade
 
 To impress its neighbors and rivals, one of the ruling houses organizes a parade of its choicest slaves. The characters encounter the parade as it meanders along the boulevards of Qu'ellarz'orl.
 
-Dozens of naked and chained slaves form the parade, their bodies painted with dyes and perfumes. Leading the slave parade is a drow [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md), while order is maintained by `4d6` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors in full ceremonial house regalia.
+Dozens of naked and chained slaves form the parade, their bodies painted with dyes and perfumes. Leading the slave parade is a drow [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md), while order is maintained by `4d6` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors in full ceremonial house regalia.
 
 ### The Rifts
 
@@ -718,21 +718,21 @@ This long gorge at the city's center earned its name from the rolling clouds of 
 
 #### Westrift
 
-The newest of the city's large clefts, Westrift swallowed up three drow houses and a score of lesser dwellings when it opened its yawning maw three centuries ago. In more recent years, the rift has become home to hundreds of giant arachnids, which have filled much of the cleft with their webs and nests—to the extent that anyone falling into the rift has a 75 percent chance of being caught in a web, taking no damage from the fall but attracting `1d4 + 1` hungry [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). See ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide* for rules on escaping webs.
+The newest of the city's large clefts, Westrift swallowed up three drow houses and a score of lesser dwellings when it opened its yawning maw three centuries ago. In more recent years, the rift has become home to hundreds of giant arachnids, which have filled much of the cleft with their webs and nests—to the extent that anyone falling into the rift has a 75 percent chance of being caught in a web, taking no damage from the fall but attracting `1d4 + 1` hungry [giant spiders](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). See ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide* for rules on escaping webs.
 
-Characters entering Menzoberranzan by means of [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s secret tunnel come to a secret door that pulls open to reveal a narrow ledge 60 feet below the lip of the rift. Characters can scale the cleft wall with a successful DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check, as there are abundant handholds. Any character who fails the check by 5 or more falls.
+Characters entering Menzoberranzan by means of [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md)'s secret tunnel come to a secret door that pulls open to reveal a narrow ledge 60 feet below the lip of the rift. Characters can scale the cleft wall with a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check, as there are abundant handholds. Any character who fails the check by 5 or more falls.
 
 ### Tier Breche
 
 The Great Stair of Tier Breche rises from the floor of Menzoberranzan to the cavern housing the three branches of the Academy: Melee-Magthere, a pyramid-shaped edifice where drow warriors are trained; Arach-Tinilith, a spider-shaped cathedral where drow priestesses worship their demon goddess; and Sorcere, a magnificent tower where drow mages learn to master the magical arts. Non-drow are forbidden from entering this part of the city.
 
-The stone steps are some three hundred feet wide and rise nearly the same distance. A pair of giant [jade spiders](/3-Mechanics/CLI/bestiary/construct/jade-giant-spider-oota.md) flanks the stairway at the top, ready to animate to attack non-drow that climb the steps. The two jade spiders have the statistics of [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) with the following statistical modifications:
+The stone steps are some three hundred feet wide and rise nearly the same distance. A pair of giant [jade spiders](/03_Mechanics/CLI/bestiary/construct/jade-giant-spider-oota.md) flanks the stairway at the top, ready to animate to attack non-drow that climb the steps. The two jade spiders have the statistics of [stone golems](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) with the following statistical modifications:
 
 - The jade spiders have 250 hit points each.  
 - They have a climbing speed of 30 feet.  
-- They have [truesight](/3-Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet.  
+- They have [truesight](/03_Mechanics/CLI/senses.md#Truesight) out to a range of 120 feet.  
 
-Roll for random encounters as the characters explore the Academy grounds. You can roll a `d20` and consult the Tier Breche Encounters table, or choose an encounter that you like. The party can avoid random encounters by succeeding on a DC 17 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check. Sounds of battle are common at the Academy; however, drow guards are trained to tell the difference between training exercises and the sound of real combat. The latter attracts reinforcements in the form of `d4` [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) every round until the perceived threat is eliminated.
+Roll for random encounters as the characters explore the Academy grounds. You can roll a `d20` and consult the Tier Breche Encounters table, or choose an encounter that you like. The party can avoid random encounters by succeeding on a DC 17 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check. Sounds of battle are common at the Academy; however, drow guards are trained to tell the difference between training exercises and the sound of real combat. The latter attracts reinforcements in the form of `d4` [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) every round until the perceived threat is eliminated.
 
 #### Tier Breche Encounters
 
@@ -747,15 +747,15 @@ Roll for random encounters as the characters explore the Academy grounds. You ca
 
 #### Drow Acolytes
 
-The characters encounter `2d6` female drow [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) out for a walk. There is a 25 percent chance that a [drow priestess of Lolth](/3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) is with them, filling the young devotees' heads with wisdom and instructing them on the Way of Lolth (see "The Way of Lolth" sidebar). If they come under attack, the acolytes withdraw to Arach-Tinilith while the priestess stands her ground.
+The characters encounter `2d6` female drow [acolytes](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) out for a walk. There is a 25 percent chance that a [drow priestess of Lolth](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) is with them, filling the young devotees' heads with wisdom and instructing them on the Way of Lolth (see "The Way of Lolth" sidebar). If they come under attack, the acolytes withdraw to Arach-Tinilith while the priestess stands her ground.
 
 #### Drow Mages
 
-The characters encounter `d3` [drow mages](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) out for a walk. There is a 50 percent chance that these mages are members of the Council of Spiders and of a mind to help the characters infiltrate Sorcere, should the characters reveal that they are in league with [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md). These mages offer to cast [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md) spells on visible characters and escort the party to Gromph's sanctum in the tower. As long as the characters are under the protection of these mages, they have no hostile encounters until they enter Gromph's sanctum (see "Sorcere" for details).
+The characters encounter `d3` [drow mages](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) out for a walk. There is a 50 percent chance that these mages are members of the Council of Spiders and of a mind to help the characters infiltrate Sorcere, should the characters reveal that they are in league with [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md). These mages offer to cast [greater invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md) spells on visible characters and escort the party to Gromph's sanctum in the tower. As long as the characters are under the protection of these mages, they have no hostile encounters until they enter Gromph's sanctum (see "Sorcere" for details).
 
 #### Drow Warriors
 
-The characters encounter `4d6` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors on a training exercise. There is a 50 percent chance that `d4` [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) are with them, providing instruction and discipline. If they spot non-drow on Academy grounds, the drow try to kill any intruder.
+The characters encounter `4d6` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) warriors on a training exercise. There is a 50 percent chance that `d4` [drow elite warriors](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) are with them, providing instruction and discipline. If they spot non-drow on Academy grounds, the drow try to kill any intruder.
 
 ### West Wall
 
@@ -763,7 +763,7 @@ West Wall (also called "the Old Quarter") is a primarily residential neighborhoo
 
 Between West Wall and Narbondellyn is a residential neighborhood called Lolth's Web. Its residents built their homes upward, crafting streets of magically calcified strands of spider silk from the cavern floor to the vaulted roof above. Hollow, cocoon-like dwellings are constructed both above and below the layers of webbing.
 
-Roll for random encounters as the characters cross this district. You can roll a `d20` and consult the West Wall Encounters table, or choose an encounter that you like. The party can avoid random encounters in West Wall by succeeding on a DC 13 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group check.
+Roll for random encounters as the characters cross this district. You can roll a `d20` and consult the West Wall Encounters table, or choose an encounter that you like. The party can avoid random encounters in West Wall by succeeding on a DC 13 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group check.
 
 #### West Wall Encounters
 
@@ -780,17 +780,17 @@ Roll for random encounters as the characters cross this district. You can roll a
 
 #### Bandersnatches
 
-The characters draw the unwanted attention of the Bandersnatches, a gang of young, demon-worshiping drow who, in the wake of Demogorgon's attack, are eager to create further unrest in the city. Gang members send coded messages to one another by tapping hollow rocks together, creating eerie clicking sounds that echo throughout the otherwise quiet neighborhood. Initially, `d4` drow [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) follow the party, scuttling through dark alleys and across web-strung rooftops while tapping their stones, urging more gang members to converge on the party's location. At the end of each round of clicking stones, another `d4` drow [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) appear. If the number of gang members grows to twenty or more, the bandits surround the party and demand payment of 100 gp per party member for safe passage. If the characters kill four or more bandits, the rest flee before a drow patrol (see below) shows up.
+The characters draw the unwanted attention of the Bandersnatches, a gang of young, demon-worshiping drow who, in the wake of Demogorgon's attack, are eager to create further unrest in the city. Gang members send coded messages to one another by tapping hollow rocks together, creating eerie clicking sounds that echo throughout the otherwise quiet neighborhood. Initially, `d4` drow [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) follow the party, scuttling through dark alleys and across web-strung rooftops while tapping their stones, urging more gang members to converge on the party's location. At the end of each round of clicking stones, another `d4` drow [bandits](/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) appear. If the number of gang members grows to twenty or more, the bandits surround the party and demand payment of 100 gp per party member for safe passage. If the characters kill four or more bandits, the rest flee before a drow patrol (see below) shows up.
 
 ##### Development
 
-The consequence of killing one or more bandits is retaliation. The gang organizes a hunting party to find and kill one party member for every gang member slain. This hunting party is bold enough to leave the West Wall district, and you might have the Bandersnatches try to ambush the characters as they make their way out of Menzoberranzan. The hunting party consists of the gang's leader, her [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) advisor, and thirty drow bandits.
+The consequence of killing one or more bandits is retaliation. The gang organizes a hunting party to find and kill one party member for every gang member slain. This hunting party is bold enough to leave the West Wall district, and you might have the Bandersnatches try to ambush the characters as they make their way out of Menzoberranzan. The hunting party consists of the gang's leader, her [quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md) advisor, and thirty drow bandits.
 
-The leader of the Bandersnatches is a capricious and nihilistic female drow named [Viln Tirin](/3-Mechanics/CLI/bestiary/npc/viln-tirin-oota.md). She has the statistics of a [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) with the following modifications:
+The leader of the Bandersnatches is a capricious and nihilistic female drow named [Viln Tirin](/03_Mechanics/CLI/bestiary/npc/viln-tirin-oota.md). She has the statistics of a [bandit captain](/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) with the following modifications:
 
 - Viln is chaotic evil and has drow features (see the "Statistical Modifications to Drow NPCs" sidebar).  
-- She wields a [scimitar of speed](/3-Mechanics/CLI/items/scimitar-of-speed-xdmg.md) and can make one attack with it as a bonus action on her turn. All of Viln's attacks with the weapon are +7 to hit and deal 8 (`1d6 + 5`) slashing damage on a hit.  
-- Viln carries four daggers coated with [purple worm poison](/3-Mechanics/CLI/items/purple-worm-poison-xdmg.md) (see ""Poisons"" in chapter 8 of the *Dungeon Master's Guide*). The poison on a dagger's blade is good for one hit only, whether the poison takes effect or not.  
+- She wields a [scimitar of speed](/03_Mechanics/CLI/items/scimitar-of-speed-xdmg.md) and can make one attack with it as a bonus action on her turn. All of Viln's attacks with the weapon are +7 to hit and deal 8 (`1d6 + 5`) slashing damage on a hit.  
+- Viln carries four daggers coated with [purple worm poison](/03_Mechanics/CLI/items/purple-worm-poison-xdmg.md) (see ""Poisons"" in chapter 8 of the *Dungeon Master's Guide*). The poison on a dagger's blade is good for one hit only, whether the poison takes effect or not.  
 - She has a challenge rating of 5 (1,800 XP).  
 
 #### Bregan D'aerthe Spy
@@ -799,11 +799,11 @@ See "Duthcloim" for more information.
 
 #### Drow Foot Patrol
 
-This patrol consists of `2d4` [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol confronts the party and starts asking questions. If any of the answers arouse suspicion or come across as insolent, the drow attack.
+This patrol consists of `2d4` [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md). If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol confronts the party and starts asking questions. If any of the answers arouse suspicion or come across as insolent, the drow attack.
 
 #### Slave Abuse
 
-The characters see a drow [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) flogging one of a handful of slaves ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) of any race) while `d4` [bugbear](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) bodyguards keep an eye out for trouble. Unless the characters intervene, the merciless noble has the slave dragged to the Westrift and unceremoniously tossed into it. The poor slave falls `3d6 × 10` feet before being caught in a web and cocooned by a [giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) (to be devoured later). If the characters come to the slave's defense, the bugbears attack them.
+The characters see a drow [noble](/03_Mechanics/CLI/bestiary/humanoid/noble-xmm.md) flogging one of a handful of slaves ([commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) of any race) while `d4` [bugbear](/03_Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) bodyguards keep an eye out for trouble. Unless the characters intervene, the merciless noble has the slave dragged to the Westrift and unceremoniously tossed into it. The poor slave falls `3d6 × 10` feet before being caught in a web and cocooned by a [giant spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) (to be devoured later). If the characters come to the slave's defense, the bugbears attack them.
 
 #### Statue of Lolth
 
@@ -821,29 +821,29 @@ If Quenthel learns that adventurers are trying to rid the Underdark of its demon
 
 ### Bregan D'aerthe
 
-Bregan D'aerthe is a mercenary company with more power and influence in Menzoberranzan than all the lesser noble houses combined. Bregan D'aerthe benefits from its close ties with House Baenre. The company's founder and leader, Jarlaxle, is brother to both Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) and Archmage Gromph Baenre, though this fact isn't widely known.
+Bregan D'aerthe is a mercenary company with more power and influence in Menzoberranzan than all the lesser noble houses combined. Bregan D'aerthe benefits from its close ties with House Baenre. The company's founder and leader, Jarlaxle, is brother to both Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) and Archmage Gromph Baenre, though this fact isn't widely known.
 
 Jarlaxle doesn't care what the demon lords do in the Underdark, but he's worried about the future of Menzoberranzan as well as his secret holdings on the surface world. He wants to know how the demon lords arrived and how to send them back, and members of Bregan D'aerthe will support characters who claim to have those answers.
 
 ### Council of Spiders
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/107-ooa15-05.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/107-ooa15-05.webp#center)
 
 Many drow wizards have long sought a means of increasing their power and influence, frustrated that the arcane arts are viewed as secondary to the divine magic of Lolth's priestesses. A secret cabal of noble wizards calling itself the Council of Spiders works to see wizards represented on the Ruling Council—overturning thousands of years of tradition while remaining true to Lolth's will.
 
-The disappearance of Gromph Baenre and the involvement of [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) in fending off the demonic invasion offers wizards of the council an unparalleled opportunity to advance their agenda. Vizeran has cultivated his role as a patron and ally of the council to gain influence among its members—while giving them no hint of his desire to destroy the drow's obsessive worship of Lolth. Vizeran has told council members that adventurers are helping him banish the demon lords back to the Abyss, and that they might come to Menzoberranzan seeking lore from Gromph's sanctum in Sorcere. The council stands ready to disable the magical wards on the tower, should this come to pass.
+The disappearance of Gromph Baenre and the involvement of [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) in fending off the demonic invasion offers wizards of the council an unparalleled opportunity to advance their agenda. Vizeran has cultivated his role as a patron and ally of the council to gain influence among its members—while giving them no hint of his desire to destroy the drow's obsessive worship of Lolth. Vizeran has told council members that adventurers are helping him banish the demon lords back to the Abyss, and that they might come to Menzoberranzan seeking lore from Gromph's sanctum in Sorcere. The council stands ready to disable the magical wards on the tower, should this come to pass.
 
 ## Private Meetings
 
-If House Baenre and Bregan D'aerthe get wind of the party's presence in the city, the characters are confronted by drow tasked with escorting them to a private meeting with the leader of each faction. Jarlaxle sends a devilishly charming and sarcastic male [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Krilelyn H'Kar, tasked with leading characters to the ruins of House Do'Urden in the West Wall district. Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) sends thirty dour [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/3-Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics), with six [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) providing aerial support. They have orders to escort the party to House Baenre atop Qu'ellarz'orl.
+If House Baenre and Bregan D'aerthe get wind of the party's presence in the city, the characters are confronted by drow tasked with escorting them to a private meeting with the leader of each faction. Jarlaxle sends a devilishly charming and sarcastic male [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Krilelyn H'Kar, tasked with leading characters to the ruins of House Do'Urden in the West Wall district. Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) sends thirty dour [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) mounted on [giant riding lizards](/03_Mechanics/CLI/bestiary/beast/giant-riding-lizard-oota.md) (see the end of chapter 8 for statistics), with six [gargoyles](/03_Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) providing aerial support. They have orders to escort the party to House Baenre atop Qu'ellarz'orl.
 
 ### Matron Mother Quenthel Baenre
 
-Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) is absolutely loyal to Lolth, but she has suspected for some time that her brother Gromph is not. The archmage has been missing since the disastrous summoning ritual that pulled the demon lords into the Underdark, and no one claims to know his whereabouts. The matron mother and her closest allies have carefully covered up the truth about Gromph's disappearance, proclaiming that the archmage is hard at work investigating the demonic invasion and seeking the means to send the demon lords back to the Abyss. Quenthel doesn't know if Gromph is alive or dead. She knows only that she can't hide his disappearance forever—even as she must ensure that no damage comes to her house as a result of his actions.
+Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) is absolutely loyal to Lolth, but she has suspected for some time that her brother Gromph is not. The archmage has been missing since the disastrous summoning ritual that pulled the demon lords into the Underdark, and no one claims to know his whereabouts. The matron mother and her closest allies have carefully covered up the truth about Gromph's disappearance, proclaiming that the archmage is hard at work investigating the demonic invasion and seeking the means to send the demon lords back to the Abyss. Quenthel doesn't know if Gromph is alive or dead. She knows only that she can't hide his disappearance forever—even as she must ensure that no damage comes to her house as a result of his actions.
 
 Quenthel doesn't care that the adventurers are fighting to send the demon lords back to the Abyss, or that Menzoberranzan might suffer under another demon lord assault. She's concerned only about House Baenre. By the matron mother's addled logic, Lolth is using the demon lords to test the strength of House Baenre and lay waste to the enemies of the drow. However, the matron mother doesn't want Gromph's spell or damning evidence of his actions falling into the wrong hands.
 
-Whether the characters are brought in by force or arrive willingly, read the following when they meet [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md).
+Whether the characters are brought in by force or arrive willingly, read the following when they meet [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md).
 
 > [!readaloud] 
 > 
@@ -852,20 +852,20 @@ Whether the characters are brought in by force or arrive willingly, read the fol
 
 When the characters are taken into the compound, the matron mother welcomes them in her throne room—a massive chamber that occupies the entire fourth level of one tower. She sits upon a throne carved from a single black sapphire, with large diamonds set into its arms shedding light at the matron's command.
 
-Quenthel doesn't know that [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) is still alive, and any mention of him piques her interest, although she doesn't consider him a threat. After Gromph disappeared, she sent underlings to Sorcere to rid his sanctum of any incriminating evidence. They found none. The matron mother doesn't know about Gromph's secret inner sanctum or the grimoire hidden there. If the characters explain the broad strokes of their goal to get the grimoire out of the city, Quenthel allows and supports their mission—even as she secretly plans to manufacture evidence that the adventurers were behind the ritual that brought the demon lords to the Underdark if they are caught with the grimoire in their possession. She grants permission for the characters to enter Sorcere and instructs the tower's inhabitants not to impede their investigation.
+Quenthel doesn't know that [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) is still alive, and any mention of him piques her interest, although she doesn't consider him a threat. After Gromph disappeared, she sent underlings to Sorcere to rid his sanctum of any incriminating evidence. They found none. The matron mother doesn't know about Gromph's secret inner sanctum or the grimoire hidden there. If the characters explain the broad strokes of their goal to get the grimoire out of the city, Quenthel allows and supports their mission—even as she secretly plans to manufacture evidence that the adventurers were behind the ritual that brought the demon lords to the Underdark if they are caught with the grimoire in their possession. She grants permission for the characters to enter Sorcere and instructs the tower's inhabitants not to impede their investigation.
 
-As a Chosen of Lolth, [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) is, by herself, a threat comparable to any demon lord. Surrounded by the well-trained guards and magical wards of House Baenre, she could annihilate the adventurers without breaking a sweat. If the characters attack her, use the statistics of the [drow priestess of Lolth](/3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) with the following modifications:
+As a Chosen of Lolth, [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) is, by herself, a threat comparable to any demon lord. Surrounded by the well-trained guards and magical wards of House Baenre, she could annihilate the adventurers without breaking a sweat. If the characters attack her, use the statistics of the [drow priestess of Lolth](/03_Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) with the following modifications:
 
-- Quenthel has an Armor Class of 19 ([+3 scale mail](/3-Mechanics/CLI/items/3-armor-xdmg.md)) and 132 (`24d8 + 24`) hit points.  
-- She has an Intelligence of 18 (+4) and a Wisdom of 20 (+5). Her saving throw bonuses are as follows: Con +8, Wis +12, Cha +11. Her skill bonuses are as follows: [Insight](/3-Mechanics/CLI/skills.md#Insight) +12, [Perception](/3-Mechanics/CLI/skills.md#Perception) +12, [Religion](/3-Mechanics/CLI/skills.md#Religion) +11, [Stealth](/3-Mechanics/CLI/skills.md#Stealth) +9.  
+- Quenthel has an Armor Class of 19 ([+3 scale mail](/03_Mechanics/CLI/items/3-armor-xdmg.md)) and 132 (`24d8 + 24`) hit points.  
+- She has an Intelligence of 18 (+4) and a Wisdom of 20 (+5). Her saving throw bonuses are as follows: Con +8, Wis +12, Cha +11. Her skill bonuses are as follows: [Insight](/03_Mechanics/CLI/skills.md#Insight) +12, [Perception](/03_Mechanics/CLI/skills.md#Perception) +12, [Religion](/03_Mechanics/CLI/skills.md#Religion) +11, [Stealth](/03_Mechanics/CLI/skills.md#Stealth) +9.  
 - She's an 20th-level spellcaster who can cast any cleric spell up to 9th level at will (save DC 20, +12 to hit with spell attacks).  
-- She wields a [tentacle rod](/3-Mechanics/CLI/items/tentacle-rod-xdmg.md).  
-- While seated on her throne, Quenthel can use an action on her turn to cast [disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md) (save DC 19). A target that fails its saving throw takes `10d6 + 40` force damage. If this damage reduces the target to 0 hit points, it is disintegrated.  
+- She wields a [tentacle rod](/03_Mechanics/CLI/items/tentacle-rod-xdmg.md).  
+- While seated on her throne, Quenthel can use an action on her turn to cast [disintegrate](/03_Mechanics/CLI/spells/disintegrate-xphb.md) (save DC 19). A target that fails its saving throw takes `10d6 + 40` force damage. If this damage reduces the target to 0 hit points, it is disintegrated.  
 - She has a challenge rating of 22 (41,000 XP).  
 
 #### XP Awards
 
-If the party gains the support of [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), award each character 2,000 XP.
+If the party gains the support of [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), award each character 2,000 XP.
 
 ### Jarlaxle Baenre of Bregan D'aerthe
 
@@ -880,11 +880,11 @@ If the characters agree to meet with Jarlaxle in House Do'Urden, read the follow
 > A drow house stands alone and forlorn with its back against the west wall of Menzoberranzan's great vault. Its towers are dark, its walls crumbling and in desperate need of repair. The old fortress has the countenance of a haunted ruin, but here and there you glimpse signs of life: drow in black leather armor standing guard in the shadows and magical flames dancing in the stone braziers that flank the entrance. As you are led inside, a pillared hall strewn with broken statuary looms all around you. Leaning against a cracked pillar is a drow with an eyepatch and a wide-brimmed hat. A saber hangs from his hip, and he cuts a dashing figure. "Well met!" he says with a smile.
 ^55b
 
-When Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) resurrected House Do'Urden, she ordered her brother Jarlaxle to look after the long-abandoned Do'Urden estate. He now uses the ruined drow house as a Bregan D'aerthe base. Most of the house is off-limits to visitors, and Jarlaxle won't allow the characters to stay long.
+When Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md) resurrected House Do'Urden, she ordered her brother Jarlaxle to look after the long-abandoned Do'Urden estate. He now uses the ruined drow house as a Bregan D'aerthe base. Most of the house is off-limits to visitors, and Jarlaxle won't allow the characters to stay long.
 
-Jarlaxle doesn't want the demon lords rampaging through the Underdark or making it to the surface world. If the characters reveal that their ultimate goal is to send the demon lords back to the Abyss, Jarlaxle gives them whatever aid he can short of doing their "dirty work" for them. If the characters mention [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md), Jarlaxle's interest is piqued, for he thought Vizeran was dead. He warns them not to trust that "relic of a bygone house." If the characters mention Vizeran's plan to make Menzoberranzan the site for the final showdown with the demon lords, Jarlaxle insists that the characters choose a different battleground, warning them that Bregan D'aerthe will oppose any effort to visit further destruction upon the city.
+Jarlaxle doesn't want the demon lords rampaging through the Underdark or making it to the surface world. If the characters reveal that their ultimate goal is to send the demon lords back to the Abyss, Jarlaxle gives them whatever aid he can short of doing their "dirty work" for them. If the characters mention [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md), Jarlaxle's interest is piqued, for he thought Vizeran was dead. He warns them not to trust that "relic of a bygone house." If the characters mention Vizeran's plan to make Menzoberranzan the site for the final showdown with the demon lords, Jarlaxle insists that the characters choose a different battleground, warning them that Bregan D'aerthe will oppose any effort to visit further destruction upon the city.
 
-If the characters claim to be looking for a safe way into Sorcere, Jarlaxle arranges for a member of the Council of Spiders to visit the party at a Bregan D'aerthe safe house in West Wall. This male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) brings scrolls of [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md)—one for each party member—and also gives the characters a password that temporarily bypasses the tower's defenses. Characters who speak the password while inside the tower won't have to deal with the tower's [guards and wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md) effect for a period of 1 hour (see "Sorcere" later in this chapter). Bregan D'aerthe makes sure that the characters have no hostile encounters as they make their way to the Academy.
+If the characters claim to be looking for a safe way into Sorcere, Jarlaxle arranges for a member of the Council of Spiders to visit the party at a Bregan D'aerthe safe house in West Wall. This male [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) brings scrolls of [greater invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md)—one for each party member—and also gives the characters a password that temporarily bypasses the tower's defenses. Characters who speak the password while inside the tower won't have to deal with the tower's [guards and wards](/03_Mechanics/CLI/spells/guards-and-wards-xphb.md) effect for a period of 1 hour (see "Sorcere" later in this chapter). Bregan D'aerthe makes sure that the characters have no hostile encounters as they make their way to the Academy.
 
 Once he becomes aware of Gromph's grimoire, Jarlaxle does everything in his power to make sure the characters get the grimoire out of the city. Once Vizeran's ritual is complete, Jarlaxle plans to send Bregan D'aerthe spies to find Vizeran and steal the grimoire, so that he has evidence he can lord over his brother.
 
@@ -902,25 +902,25 @@ Grin has studied Vizeran's work in crafting the *dark heart* talisman and its as
 
 Grin encourages the adventurers place the *dark heart* elsewhere and, in so doing, arrange a different battlefield for the demon lord showdown. He refuses to go along with any effort to leave the talisman in Menzoberranzan. If the characters intend to place the *dark heart* as planned, they need to find some way to convince Grin or ensure his silence. Alternatively, Grin can betray them to the nearest drow patrol, disclosing Vizeran's plan in the hope of saving the city.
 
-![](/3-Mechanics/CLI/adventures/out-of-the-abyss/img/108-ooa15-06.webp#center)
+![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/108-ooa15-06.webp#center)
 
 ## Sorcere
 
-The information the adventurers need to better understand the ritual that summoned the demon lords into the Underdark is in Gromph Baenre's sanctum within Sorcere, Menzoberranzan's academy of wizardry. The archmage's quarters have been declared off limits by Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), who's trying to cover up Gromph's involvement in the devastating attack on Menzoberranzan.
+The information the adventurers need to better understand the ritual that summoned the demon lords into the Underdark is in Gromph Baenre's sanctum within Sorcere, Menzoberranzan's academy of wizardry. The archmage's quarters have been declared off limits by Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), who's trying to cover up Gromph's involvement in the devastating attack on Menzoberranzan.
 
-The adventurers can safely enter Sorcere with the aid of Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), Jarlaxle Baenre, or members of the Council of Spiders. Once inside, the characters on their own, as none of these NPCs or their agents want to be connected to the adventurers if things go awry.
+The adventurers can safely enter Sorcere with the aid of Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), Jarlaxle Baenre, or members of the Council of Spiders. Once inside, the characters on their own, as none of these NPCs or their agents want to be connected to the adventurers if things go awry.
 
 ### Guards and Wards
 
-The whole tower is protected by permanent [guards and wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md) spells. The tower's drow residents are immune to the effects, but intruders are not. If the characters have the support of the Council of Spiders, members of the council give them a password which, when spoken aloud inside the tower, grants the speaker immunity to the spells' effect for 1 hour. After that, the password magically changes, and any characters still in the tower must deal with the [guards and wards](/3-Mechanics/CLI/spells/guards-and-wards-xphb.md) effect.
+The whole tower is protected by permanent [guards and wards](/03_Mechanics/CLI/spells/guards-and-wards-xphb.md) spells. The tower's drow residents are immune to the effects, but intruders are not. If the characters have the support of the Council of Spiders, members of the council give them a password which, when spoken aloud inside the tower, grants the speaker immunity to the spells' effect for 1 hour. After that, the password magically changes, and any characters still in the tower must deal with the [guards and wards](/03_Mechanics/CLI/spells/guards-and-wards-xphb.md) effect.
 
 ### Random Encounters in Sorcere
 
-Inside Sorcere, the characters might encounter drow wizards as well as their apprentices, familiars, and other magical creatures. If they enter with [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md)'s permission, they can avoid most trouble with the tower's inhabitants. Otherwise, stealth and caution will be important.
+Inside Sorcere, the characters might encounter drow wizards as well as their apprentices, familiars, and other magical creatures. If they enter with [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md)'s permission, they can avoid most trouble with the tower's inhabitants. Otherwise, stealth and caution will be important.
 
-Have the characters make four DC 13 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) group checks from the moment they enter the tower to when they reach the archmage's sanctum. Each failed group check results in an encounter from the Sorcere Encounters table. The characters make the same checks while exiting the tower.
+Have the characters make four DC 13 Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) group checks from the moment they enter the tower to when they reach the archmage's sanctum. Each failed group check results in an encounter from the Sorcere Encounters table. The characters make the same checks while exiting the tower.
 
-If the tower goes on alert (as indicated in some of the encounter descriptions), all characters have disadvantage when making their group Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.
+If the tower goes on alert (as indicated in some of the encounter descriptions), all characters have disadvantage when making their group Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks.
 
 #### Sorcere Encounters
 
@@ -928,40 +928,40 @@ If the tower goes on alert (as indicated in some of the encounter descriptions),
 
 | dice: d20 | Encounter |
 |-----------|-----------|
-| 1–6 | `d4` [drow mages](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) |
-| 7–8 | 1 [giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
-| 9–10 | 1 [invisible](/3-Mechanics/CLI/conditions.md#Invisible) [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) |
-| 11–12 | 1 mad [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) |
-| 13–14 | 1 [shadow demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) |
+| 1–6 | `d4` [drow mages](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) |
+| 7–8 | 1 [giant spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
+| 9–10 | 1 [invisible](/03_Mechanics/CLI/conditions.md#Invisible) [quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md) |
+| 11–12 | 1 mad [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) |
+| 13–14 | 1 [shadow demon](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) |
 | 15–18 | `d4` slaves |
-| 19–20 | 1 [succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md) or [incubus](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) |
+| 19–20 | 1 [succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md) or [incubus](/03_Mechanics/CLI/bestiary/fiend/incubus-xmm.md) |
 ^encounter
 
 #### Drow Mages
 
-There is a 50 percent chance that these mages have been forewarned of the party's arrival, either by [Vizeran DeVir](/3-Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) or by Matron Mother [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), in which case they let the characters pass. Otherwise, the drow mages assume the characters are intruders and attack unless Grin Ousstyl is with them. If the characters declare that they have [Quenthel Baenre](/3-Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md)'s permission to be here, they can convince the mages to stand down with a successful DC 12 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check.
+There is a 50 percent chance that these mages have been forewarned of the party's arrival, either by [Vizeran DeVir](/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota.md) or by Matron Mother [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md), in which case they let the characters pass. Otherwise, the drow mages assume the characters are intruders and attack unless Grin Ousstyl is with them. If the characters declare that they have [Quenthel Baenre](/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota.md)'s permission to be here, they can convince the mages to stand down with a successful DC 12 Charisma ([Deception](/03_Mechanics/CLI/skills.md#Deception) or [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion)) check.
 
-If one or more mages fall in battle, the rest use [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md) spells to turn [invisible](/3-Mechanics/CLI/conditions.md#Invisible) and retreat, putting the tower on alert if it isn't already.
+If one or more mages fall in battle, the rest use [greater invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md) spells to turn [invisible](/03_Mechanics/CLI/conditions.md#Invisible) and retreat, putting the tower on alert if it isn't already.
 
 #### Giant Spider
 
-This [giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) crawls along the walls or ceiling. It ignores the characters unless they take hostile action against it, in which case it attacks.
+This [giant spider](/03_Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) crawls along the walls or ceiling. It ignores the characters unless they take hostile action against it, in which case it attacks.
 
 #### Invisible Quasit
 
-A drow wizard's [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) familiar invisibly haunts the halls and chambers of the tower. It follows and observes the characters to find out what they're up to, leaving to alert its master (a [drow mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md)) if they enter Gromph's sanctum or are seen leaving it. If the demon escapes, the tower goes on alert.
+A drow wizard's [quasit](/03_Mechanics/CLI/bestiary/fiend/quasit-xmm.md) familiar invisibly haunts the halls and chambers of the tower. It follows and observes the characters to find out what they're up to, leaving to alert its master (a [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md)) if they enter Gromph's sanctum or are seen leaving it. If the demon escapes, the tower goes on alert.
 
 #### Mad Drow Mage
 
-This [drow](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) is afflicted with a form of indefinite madness. Roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide* to determine how the madness is expressed.
+This [drow](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) is afflicted with a form of indefinite madness. Roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide* to determine how the madness is expressed.
 
 #### Shadow Demon
 
-A bound servant of a drow mage, this [demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) attempts to hide from the characters, then follows to learn what they're up to. It fights the characters only if they attack it, fleeing if reduced to 10 or fewer hit points. If the demon escapes, the tower goes on alert.
+A bound servant of a drow mage, this [demon](/03_Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) attempts to hide from the characters, then follows to learn what they're up to. It fights the characters only if they attack it, fleeing if reduced to 10 or fewer hit points. If the demon escapes, the tower goes on alert.
 
 #### Slaves
 
-These [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (your choice of race) are on an errand for their drow mage master when they run into the party by accident. If the characters state that they have legitimate business in Sorcere, the slaves answer questions about the tower if asked. If the slaves suspect the characters are trespassers, or if they're threatened or attacked, they flee and call for help. If any slaves escape the encounter, the tower goes on alert.
+These [commoners](/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) (your choice of race) are on an errand for their drow mage master when they run into the party by accident. If the characters state that they have legitimate business in Sorcere, the slaves answer questions about the tower if asked. If the slaves suspect the characters are trespassers, or if they're threatened or attacked, they flee and call for help. If any slaves escape the encounter, the tower goes on alert.
 
 #### Succubus or Incubus
 
@@ -969,16 +969,16 @@ A sometime lover and ally of one of the tower's wizards, this fiend adopts the f
 
 ### Gromph's Outer Sanctum
 
-The black marble door to Gromph Baenre's chambers is etched with silvery runes around its edge and closed with an [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) keyed to him. Picking the lock requires a successful DC 23 Dexterity check using thieves' tools, while forcing the door open requires a successful DC 25 Strength check. A [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell also opens the door, and Grin Ousstyl can have the spell prepared if none of the adventurers knows it.
+The black marble door to Gromph Baenre's chambers is etched with silvery runes around its edge and closed with an [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md) keyed to him. Picking the lock requires a successful DC 23 Dexterity check using thieves' tools, while forcing the door open requires a successful DC 25 Strength check. A [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell also opens the door, and Grin Ousstyl can have the spell prepared if none of the adventurers knows it.
 
 > [!readaloud] 
 > 
 > The chamber beyond the door is floored in black marble, lined with shelves laden with books and scrolls, and dominated by a broad desk of polished bone. A plush chair covered with lizard hide sits behind the desk, while a smaller and simpler zurkhwood chair sits facing it on the opposite side. A seven-foot-tall obsidian statue of a four-armed, sword-wielding drow warrior stands behind the desk against one wall. Burning red candles are set about the room in holders made from skeletal hands.
 ^56a
 
-[Continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spells have been cast on the dozen candles in the room, filling the area with bright light. If anyone other than Gromph enters the chamber without speaking the word *tyrnae* ("quench"), a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) appears and attacks the intruders. Casting [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 15) on the door before it opens disables this trap, but the elemental can't be dispelled once it appears.
+[Continual flame](/03_Mechanics/CLI/spells/continual-flame-xphb.md) spells have been cast on the dozen candles in the room, filling the area with bright light. If anyone other than Gromph enters the chamber without speaking the word *tyrnae* ("quench"), a [fire elemental](/03_Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) appears and attacks the intruders. Casting [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 15) on the door before it opens disables this trap, but the elemental can't be dispelled once it appears.
 
-If anyone tampers with the desk or the shelves' contents, or attempts to remove anything from the room, the [four-armed statue](/3-Mechanics/CLI/bestiary/construct/four-armed-statue-oota.md) animates and attacks. It has the statistics of a [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md), but replace its Multiattack and Slam action options with the following:
+If anyone tampers with the desk or the shelves' contents, or attempts to remove anything from the room, the [four-armed statue](/03_Mechanics/CLI/bestiary/construct/four-armed-statue-oota.md) animates and attacks. It has the statistics of a [stone golem](/03_Mechanics/CLI/bestiary/construct/stone-golem-xmm.md), but replace its Multiattack and Slam action options with the following:
 
 > [!note] 
 > 
@@ -991,15 +991,15 @@ Anyone speaking the statue's name (*Szashune*) aloud isn't attacked by it.
 
 #### Trapped Secret Door
 
-Any party member with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 20 or higher notices a secret door in the wall, while a character searching the room for secret doors must succeed on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to find it. Any creature with 12 Hit Dice or fewer that approaches within 5 feet of the secret door without speaking the word *khaless* ("trust") triggers an [imprisonment](/3-Mechanics/CLI/spells/imprisonment-xphb.md) spell (save DC 17). On a failed save, the creature is trapped in minimus containment inside a gemstone in Gromph's inner sanctum (described in the next section). The trap ceases to exist once a creature becomes imprisoned. A successful [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) cast on the secret door removes the trap.
+Any party member with a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 20 or higher notices a secret door in the wall, while a character searching the room for secret doors must succeed on a DC 15 Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) check to find it. Any creature with 12 Hit Dice or fewer that approaches within 5 feet of the secret door without speaking the word *khaless* ("trust") triggers an [imprisonment](/03_Mechanics/CLI/spells/imprisonment-xphb.md) spell (save DC 17). On a failed save, the creature is trapped in minimus containment inside a gemstone in Gromph's inner sanctum (described in the next section). The trap ceases to exist once a creature becomes imprisoned. A successful [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) cast on the secret door removes the trap.
 
-Opening the secret door requires a [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or a successful DC 20 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check to assess and manipulate its magic. Beyond it lies a dark void that can't be dispelled or destroyed. Anyone or anything that touches the void is instantly transported to a labyrinthine demiplane similar to that created by a [maze](/3-Mechanics/CLI/spells/maze-xphb.md) spell. A creature that succeeds on the DC 20 Intelligence check to escape the maze reappears in the middle of the outer sanctum. However, if a creature casts a spell of 5th level or higher while in the demiplane, all creatures and objects in the demiplane instantly appear in Gromph's inner sanctum instead.
+Opening the secret door requires a [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or a successful DC 20 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check to assess and manipulate its magic. Beyond it lies a dark void that can't be dispelled or destroyed. Anyone or anything that touches the void is instantly transported to a labyrinthine demiplane similar to that created by a [maze](/03_Mechanics/CLI/spells/maze-xphb.md) spell. A creature that succeeds on the DC 20 Intelligence check to escape the maze reappears in the middle of the outer sanctum. However, if a creature casts a spell of 5th level or higher while in the demiplane, all creatures and objects in the demiplane instantly appear in Gromph's inner sanctum instead.
 
 #### Treasure
 
-The collection of rare books and scrolls in the archmage's chambers is worth 15,000 gp, assuming the characters have the means to haul it out. A character who spends 10 minutes poring over the collection can make a DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. On a successful check, the character confirms that Gromph's grimoire isn't among the books in the collection and also identifies the collection's five most valuable tomes, worth 1,000 gp each. However, one of these valuable works is trapped with a [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) that triggers the third effect of [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md) (save DC 17), and which lasts until dispelled.
+The collection of rare books and scrolls in the archmage's chambers is worth 15,000 gp, assuming the characters have the means to haul it out. A character who spends 10 minutes poring over the collection can make a DC 15 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check. On a successful check, the character confirms that Gromph's grimoire isn't among the books in the collection and also identifies the collection's five most valuable tomes, worth 1,000 gp each. However, one of these valuable works is trapped with a [glyph of warding](/03_Mechanics/CLI/spells/glyph-of-warding-xphb.md) that triggers the third effect of [bestow curse](/03_Mechanics/CLI/spells/bestow-curse-xphb.md) (save DC 17), and which lasts until dispelled.
 
-The drawers of the desk are sealed with [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spells. Picking a drawer's lock requires thieves' tools and a successful DC 23 Dexterity check. A [knock](/3-Mechanics/CLI/spells/knock-xphb.md) spell or a successful [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 15) cast on a drawer removes its magical lock. When opened, the drawers are empty. An effect similar to [Leomund's secret chest](/3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) shifts the drawers' contents into an extradimensional space when anyone other than Gromph opens them.
+The drawers of the desk are sealed with [arcane lock](/03_Mechanics/CLI/spells/arcane-lock-xphb.md) spells. Picking a drawer's lock requires thieves' tools and a successful DC 23 Dexterity check. A [knock](/03_Mechanics/CLI/spells/knock-xphb.md) spell or a successful [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 15) cast on a drawer removes its magical lock. When opened, the drawers are empty. An effect similar to [Leomund's secret chest](/03_Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) shifts the drawers' contents into an extradimensional space when anyone other than Gromph opens them.
 
 ### Gromph's Inner Sanctum
 
@@ -1012,11 +1012,11 @@ Read the following text to players whose characters escape Gromph's demiplane (s
 
 Any creature that touches the dark void is whisked away to the demiplane that separates Gromph's inner and outer sanctums (see the previous section for details).
 
-A [yochlol](/3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md) demon in drow form—Lolth's messenger to Gromph—is imprisoned within the magic circle. It pretends to be a drow priestess named [Y](/3-Mechanics/CLI/bestiary/npc/y-oota.md)'lara for as long as the disguise is useful, claiming to have been trapped in the circle by the archmage after failing to convince Gromph not to cast his spell (a lie). The demon tries to get the characters to free it by breaking the circle, whereupon it attacks and tries to kill them. As long as the circle is intact, the demon can't leave it and doesn't have line of effect to anything outside of the circle. The yochlol does whatever it can to prevent the adventurers from leaving with Gromph's grimoire (see "Treasure").
+A [yochlol](/03_Mechanics/CLI/bestiary/fiend/yochlol-xmm.md) demon in drow form—Lolth's messenger to Gromph—is imprisoned within the magic circle. It pretends to be a drow priestess named [Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md)'lara for as long as the disguise is useful, claiming to have been trapped in the circle by the archmage after failing to convince Gromph not to cast his spell (a lie). The demon tries to get the characters to free it by breaking the circle, whereupon it attacks and tries to kill them. As long as the circle is intact, the demon can't leave it and doesn't have line of effect to anything outside of the circle. The yochlol does whatever it can to prevent the adventurers from leaving with Gromph's grimoire (see "Treasure").
 
 The characters can bargain with the trapped or defeated demon. It is reluctant to tell them what it knows, but angrily answers questions in exchange for its freedom. The demon tries to convince the characters to release it before it tells them what it knows, and any promises it makes are forgotten once it is freed.
 
-The yochlol was sent by Lolth to "assist" Gromph with his ritual, knowing that it wouldn't work as intended. When Gromph lost control of the ritual, he fled the city, but not before trapping the yochlol. The yochlol knows that Gromph's inability to harness the *faerzress* is the reason why the ritual failed, but it doesn't know Gromph's present whereabouts. If the characters ask "[Y](/3-Mechanics/CLI/bestiary/npc/y-oota.md)'lara" what Lolth stands to gain from Gromph casting the ritual, the demon replies, "Chaos."
+The yochlol was sent by Lolth to "assist" Gromph with his ritual, knowing that it wouldn't work as intended. When Gromph lost control of the ritual, he fled the city, but not before trapping the yochlol. The yochlol knows that Gromph's inability to harness the *faerzress* is the reason why the ritual failed, but it doesn't know Gromph's present whereabouts. If the characters ask "[Y](/03_Mechanics/CLI/bestiary/npc/y-oota.md)'lara" what Lolth stands to gain from Gromph casting the ritual, the demon replies, "Chaos."
 
 If the yochlol is killed, a character who investigates the grimoire can confirm beyond doubt that Gromph was responsible for bringing the demon lords to the Underdark.
 
@@ -1024,7 +1024,7 @@ If the yochlol is killed, a character who investigates the grimoire can confirm 
 
 Gromph's grimoire rests atop the lectern near the circle and bears the title *Zhaun'ol'leal* ("The Book of the Eight" in Elvish) and describes rituals for summoning and binding powerful demons. It's open to a chapter that talks about the summoning of Demogorgon.
 
-The various arcane components and ritual items in the workroom are worth 1,000 gp total. A 6,000 gp diamond also sits on a small stand atop a workbench. It contains any creature trapped by the [imprisonment](/3-Mechanics/CLI/spells/imprisonment-xphb.md) spell that guards the secret door in Gromph's Outer Sanctum.
+The various arcane components and ritual items in the workroom are worth 1,000 gp total. A 6,000 gp diamond also sits on a small stand atop a workbench. It contains any creature trapped by the [imprisonment](/03_Mechanics/CLI/spells/imprisonment-xphb.md) spell that guards the secret door in Gromph's Outer Sanctum.
 
 #### XP Awards
 

@@ -26,7 +26,7 @@ A meenlock can supernaturally sense areas of darkness and shadow in its vicinity
 
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition. If the creature is susceptible and remains [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
 "name": "Meenlock (MPMM)"
@@ -47,29 +47,29 @@ Up to four meenlocks can telepathically torment one [incapacitated](/3-Mechanics
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+2"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"
 "traits":
   - "desc": "Any Beast or Humanoid that starts its turn within 10 feet of the meenlock\
-      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ must succeed on a DC 11 Wisdom saving throw or be [frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ until the start of the creature's next turn."
     "name": "Fear Aura"
   - "desc": "While in bright light, the meenlock has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ as well as on Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
       \ + 2) slashing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for\
+      \ saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) for\
       \ 1 minute. The target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Claw"
@@ -81,7 +81,7 @@ Up to four meenlocks can telepathically torment one [incapacitated](/3-Mechanics
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/meenlock-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/meenlock-mpmm.webp"
 ```
 ^statblock
 

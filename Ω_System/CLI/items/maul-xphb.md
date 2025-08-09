@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Maul
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/maul.webp#right)
+![](/03_Mechanics/CLI/items/img/maul.webp#right)
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.
 

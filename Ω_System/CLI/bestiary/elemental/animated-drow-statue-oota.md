@@ -34,19 +34,19 @@ aliases:
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The statue is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
-      \ If targeted by [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+  - "desc": "The statue is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
       \ the statue must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ spell save DC or fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the statue remains motionless, it is indistinguishable from a normal\
@@ -60,6 +60,6 @@ aliases:
     "name": "Slam"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/animated-drow-statue-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/animated-drow-statue-oota.webp"
 ```
 ^statblock

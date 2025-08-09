@@ -15,12 +15,12 @@ modified: 2025-07-23 12:39
 ---
 # Periapt of Health
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/periapt-of-health.webp#right)
+![](/03_Mechanics/CLI/items/img/periapt-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-While wearing this pendant, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to regain `2d4 + 2` [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). Once used, this property can't be used again until the next dawn.
+While wearing this pendant, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to regain `2d4 + 2` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md). Once used, this property can't be used again until the next dawn.
 
-In addition, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition while you wear this pendant.
+In addition, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condition while you wear this pendant.
 
 *Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

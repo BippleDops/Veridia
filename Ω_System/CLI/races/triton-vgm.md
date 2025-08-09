@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Triton
 *Source: Volo's Guide to Monsters p. 115*  
-![](/3-Mechanics/CLI/races/img/triton.webp#right)
+![](/03_Mechanics/CLI/races/img/triton.webp#right)
 
 - **Ability Scores**: str +1 cha +1 con +1
 - **Size**: Medium
@@ -39,7 +39,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-A child of the sea, you can call on the magic of elemental air and water. You can cast [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md) with this trait. Starting at 3rd level, you can cast [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) with it, and starting at 5th level, you can also cast [wall of water](/3-Mechanics/CLI/spells/wall-of-water-xge.md) with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
+A child of the sea, you can call on the magic of elemental air and water. You can cast [fog cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md) with this trait. Starting at 3rd level, you can cast [gust of wind](/03_Mechanics/CLI/spells/gust-of-wind-xphb.md) with it, and starting at 5th level, you can also cast [wall of water](/03_Mechanics/CLI/spells/wall-of-water-xge.md) with it. Once you cast a spell with this trait, you can't cast that spell with it again until you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Darkvision
 

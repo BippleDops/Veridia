@@ -48,20 +48,20 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "6"
 "traits":
   - "desc": "If the chasme dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The chasme has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The chasme has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The chasme can climb difficult surfaces, including along ceilings, without\
@@ -69,13 +69,13 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
     "name": "Spider Climb"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 16 (4d6 + 2) Piercing damage\
-      \ plus 21 (6d6) Necrotic damage. If the target is a creature, its [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ plus 21 (6d6) Necrotic damage. If the target is a creature, its [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ maximum decreases by an amount equal to the Necrotic damage taken."
     "name": "Proboscis"
 "bonus_actions":
-  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "Constitution Saving Throw: DC 12, each creature in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the chasme (demons automatically succeed on this save). Failure:\
-      \ The target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ The target has the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
       \ condition and repeats the save at the end of each of its turns. The target\
       \ succeeds automatically after 10 minutes or if it takes damage or a creature\
       \ within 5 feet of it takes an action to empty a flask of Holy Water on it.\
@@ -83,7 +83,7 @@ Flying forth from the Abyss, chasmes resemble horse-size flies. They incapacitat
     "name": "Drone"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/chasme-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/chasme-xmm.webp"
 ```
 ^statblock
 

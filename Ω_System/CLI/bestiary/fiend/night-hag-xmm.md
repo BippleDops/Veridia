@@ -46,16 +46,16 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
@@ -63,18 +63,18 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - "desc": "While within 30 feet of at least two hag allies, the hag can cast one\
       \ of the following spells, requiring no Material components, using the spell's\
       \ normal casting time, and using Intelligence as the spellcasting ability (spell\
-      \ save DC 14): [Augury](/3-Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md),\
-      \ [Identify](/3-Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/3-Mechanics/CLI/spells/locate-object-xphb.md),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md).\
-      \ The hag must finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)\
+      \ save DC 14): [Augury](/03_Mechanics/CLI/spells/augury-xphb.md), [Find Familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md),\
+      \ [Identify](/03_Mechanics/CLI/spells/identify-xphb.md), [Locate Object](/03_Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [Scrying](/03_Mechanics/CLI/spells/scrying-xphb.md), or [Unseen Servant](/03_Mechanics/CLI/spells/unseen-servant-xphb.md).\
+      \ The hag must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md)\
       \ before using this trait to cast that spell again.\n"
     "name": "Coven Magic"
-  - "desc": "The hag has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The hag has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The hag has a soul bag. While holding or carrying the bag, the hag can\
-      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md)\
-      \ to all damage. The bag turns to dust if reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ use its Nightmare Haunting action.\n\nThe bag has AC 15, HP 20, and [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md)\
+      \ to all damage. The bag turns to dust if reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
       \ If the bag is destroyed, any souls the bag is holding are released. The hag\
       \ can create a new bag after 7 days."
     "name": "Soul Bag"
@@ -85,19 +85,19 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
     "name": "Claw"
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      At will: [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md),\
-      \ [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md) (level 4 version)\n\
-      \n2/day each: [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md),\
-      \ [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
+      At will: [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [Etherealness](/03_Mechanics/CLI/spells/etherealness-xphb.md),\
+      \ [Magic Missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md) (level 4 version)\n\
+      \n2/day each: [Phantasmal Killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md),\
+      \ [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
-  - "desc": "While on the Ethereal Plane, the hag casts [Dream](/3-Mechanics/CLI/spells/dream-xphb.md),\
+  - "desc": "While on the Ethereal Plane, the hag casts [Dream](/03_Mechanics/CLI/spells/dream-xphb.md),\
       \ using the same spellcasting ability as Spellcasting. Only the hag can serve\
       \ as the spell's messenger, and the target must be a creature the hag can see\
       \ on the Material Plane. The spell fails and is wasted if the target is under\
-      \ the effect of the [Protection from Evil and Good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
-      \ spell or within a [Magic Circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md)\
-      \ spell.\n\nIf the target takes damage from the [Dream](/3-Mechanics/CLI/spells/dream-xphb.md)\
-      \ spell, the target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ the effect of the [Protection from Evil and Good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
+      \ spell or within a [Magic Circle](/03_Mechanics/CLI/spells/magic-circle-xphb.md)\
+      \ spell.\n\nIf the target takes damage from the [Dream](/03_Mechanics/CLI/spells/dream-xphb.md)\
+      \ spell, the target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ maximum decreases by an amount equal to that damage. If the spell kills the\
       \ target, its soul is trapped in the hag's soul bag, and the target can't be\
       \ raised from the dead until its soul is released.\n"
@@ -109,7 +109,7 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/night-hag-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/night-hag-xmm.webp"
 ```
 ^statblock
 

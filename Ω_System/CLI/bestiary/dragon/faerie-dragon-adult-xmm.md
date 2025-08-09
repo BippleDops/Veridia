@@ -45,45 +45,45 @@ Faerie dragons are cat-size pranksters with draconic features, butterfly-like wi
   - !!int "14"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Draconic, Sylvan; telepathy 60 ft. (faerie dragons only)"
 "cr": "2"
 "traits":
-  - "desc": "The dragon has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The dragon has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 7 (1d4 + 5) Piercing damage\
       \ plus 3 (d6) Psychic damage."
     "name": "Bite"
-  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ Failure: The target has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Wisdom Saving Throw: DC 13, each creature in a 15-foot [Cone](/03_Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+      \ Failure: The target has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), the target\
+      \ While [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated), the target\
       \ uses all its movement on each of its turns to move in a random direction."
     "name": "Euphoria Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\nAt\
-      \ will: [Dancing Lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-      \n1/day each: [Hallucinatory Terrain](/3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md),\
-      \ [Polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)"
+      \ will: [Dancing Lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n1/day each: [Hallucinatory Terrain](/03_Mechanics/CLI/spells/hallucinatory-terrain-xphb.md),\
+      \ [Polymorph](/03_Mechanics/CLI/spells/polymorph-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The dragon casts [Greater Invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md)\
+  - "desc": "The dragon casts [Greater Invisibility](/03_Mechanics/CLI/spells/greater-invisibility-xphb.md)\
       \ on itself, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Superior Invisibility"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/faerie-dragon-adult-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/faerie-dragon-adult-xmm.webp"
 ```
 ^statblock
 

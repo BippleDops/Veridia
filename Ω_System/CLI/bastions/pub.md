@@ -28,11 +28,11 @@ When you issue the "Research" order to this facility, you commission the Pub's b
 
 The Pub has one magical beverage on tap, chosen from the options below:
 
-- **Bigby's Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [Enlarge/Reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell that has a duration of 24 hours (no saving throw allowed).  
-- **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [Spider Climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md) spell that has a duration of 24 hours.  
-- **Moonlight Serenade.** Drinking a pint of this beverage gives you [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.  
+- **Bigby's Burden.** Drinking a pint of this beverage grants you the "enlarge" effect of an [Enlarge/Reduce](/03_Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell that has a duration of 24 hours (no saving throw allowed).  
+- **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [Spider Climb](/03_Mechanics/CLI/spells/spider-climb-xphb.md) spell that has a duration of 24 hours.  
+- **Moonlight Serenade.** Drinking a pint of this beverage gives you [Darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.  
 - **Positive Reinforcement.** Drinking a pint of this beverage gives you Resistance to Necrotic damage for 24 hours.  
-- **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition.  
+- **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition.  
 
 At the start of a Bastion turn, you can switch to one of the other options. Your DM may create new options. A pint of this magical beverage loses its magic 24 hours after it's poured.
 

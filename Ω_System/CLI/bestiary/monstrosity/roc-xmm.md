@@ -66,7 +66,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": ""
@@ -79,19 +79,19 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
       \ damage."
     "name": "Beak"
   - "desc": "Melee Attack Roll: +13, reach 5 ft. Hit: 23 (4d6 + 9) Slashing damage.\
-      \ If the target is a Huge or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 19) from both talons, and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ If the target is a Huge or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ condition (escape DC 19) from both talons, and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition until the grapple ends."
     "name": "Talons"
 "bonus_actions":
-  - "desc": "If the roc has a creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-      \ the roc flies up to half its [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "If the roc has a creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+      \ the roc flies up to half its [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ and drops that creature."
     "name": "Swoop (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/roc-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/roc-xmm.webp"
 ```
 ^statblock
 

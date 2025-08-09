@@ -50,36 +50,36 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 "cr": "11"
 "traits":
   - "desc": "At the end of each of the remorhaz's turns, each creature in a 5-foot\
-      \ [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the remorhaz takes 16 (3d10) Fire damage."
     "name": "Heat Aura"
 "actions":
   - "desc": "Melee Attack Roll: +11, reach 10 ft. Hit: 18 (2d10 + 7) Piercing\
       \ damage plus 14 (4d6) Fire damage. If the target is a Large or smaller creature,\
-      \ it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 17), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ DC 17), and it has the [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition until the grapple ends."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "Strength Saving Throw: DC 19, one Large or smaller creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "Strength Saving Throw: DC 19, one Large or smaller creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ by the remorhaz (it can have up to two creatures swallowed at a time). Failure:\
-      \ The target is swallowed by the remorhaz, and the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition ends. A swallowed creature has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) conditions, it\
-      \ has [Total Cover](/3-Mechanics/CLI/variant-rules/cover-xphb.md) against attacks\
+      \ The target is swallowed by the remorhaz, and the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ condition ends. A swallowed creature has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded)\
+      \ and [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) conditions, it\
+      \ has [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) against attacks\
       \ and other effects outside the remorhaz, and it takes 10 (3d6) Acid damage\
       \ plus 10 (3d6) Fire damage at the start of each of the remorhaz's turns.\n\n\
       If the remorhaz takes 30 damage or more on a single turn from a creature inside\
       \ it, the remorhaz must succeed on a DC 15 Constitution saving throw at the\
       \ end of that turn or regurgitate all swallowed creatures, each of which falls\
-      \ in a space within 5 feet of the remorhaz and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ in a space within 5 feet of the remorhaz and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition. If the remorhaz dies, any swallowed creature no longer has the\
-      \ [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition and can\
-      \ escape from the corpse by using 15 feet of movement, exiting [Prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ [Restrained](/03_Mechanics/CLI/conditions.md#Restrained) condition and can\
+      \ escape from the corpse by using 15 feet of movement, exiting [Prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Swallow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/remorhaz-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/remorhaz-xmm.webp"
 ```
 ^statblock
 

@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")
+- [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md "XPHB")

@@ -54,22 +54,22 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+6"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "10"
 "traits":
   - "desc": "If the yochlol dies outside the Abyss, its body dissolves, and it gains\
-      \ a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ a new body instantly, reviving with all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The yochlol has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The yochlol has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The yochlol can climb difficult surfaces, including along ceilings, without\
@@ -79,7 +79,7 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
     "name": "Web Walker"
 "actions":
   - "desc": "The yochlol makes two Caustic Lash attacks, and it can use Spellcasting\
-      \ to cast [Web](/3-Mechanics/CLI/spells/web-xphb.md) or [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)\
+      \ to cast [Web](/03_Mechanics/CLI/spells/web-xphb.md) or [Dominate Person](/03_Mechanics/CLI/spells/dominate-person-xphb.md)\
       \ if available."
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +8, reach 10 ft. or range 120 ft. Hit:\
@@ -87,9 +87,9 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
     "name": "Caustic Lash"
   - "desc": "The yochlol casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 15):\n\
-      \nAt will: [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md) (self only),\
-      \ [Web](/3-Mechanics/CLI/spells/web-xphb.md)\n\n1/day: [Dominate Person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)"
+      \nAt will: [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Gaseous Form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md) (self only),\
+      \ [Web](/03_Mechanics/CLI/spells/web-xphb.md)\n\n1/day: [Dominate Person](/03_Mechanics/CLI/spells/dominate-person-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The yochlol shape-shifts into a Medium Humanoid or a Medium spider or\
@@ -101,13 +101,13 @@ Despite their service to demon lords, yochlols harbor their own vicious whims an
       \ halves the attack's damage to itself (round down), and it teleports to an\
       \ unoccupied space it can see within 30 feet of itself. Constitution Saving\
       \ Throw: DC 15, each creature within 5 feet of the yochlol's destination space.\
-      \ Failure: The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the end of its next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ Failure: The target has the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
+      \ condition until the end of its next turn. While [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+      \ it has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition."
     "name": "Toxic Escape"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/yochlol-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/yochlol-xmm.webp"
 ```
 ^statblock
 

@@ -71,7 +71,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
   - "wisdom": !!int "4"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
@@ -82,7 +82,7 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
     "name": "Hooves"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/pegasus-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/pegasus-xmm.webp"
 ```
 ^statblock
 

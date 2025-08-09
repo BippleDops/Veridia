@@ -14,13 +14,13 @@ modified: 2025-07-23 12:39
 ---
 # Bag of Tricks
 *Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/bag-of-tricks.webp#right)
+![](/03_Mechanics/CLI/items/img/bag-of-tricks.webp#right)
 
 
 **Items in this group:**
 
-- [Bag of Tricks, Gray](/3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md)
-- [Bag of Tricks, Rust](/3-Mechanics/CLI/items/bag-of-tricks-rust-xdmg.md)
-- [Bag of Tricks, Tan](/3-Mechanics/CLI/items/bag-of-tricks-tan-xdmg.md)
+- [Bag of Tricks, Gray](/03_Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md)
+- [Bag of Tricks, Rust](/03_Mechanics/CLI/items/bag-of-tricks-rust-xdmg.md)
+- [Bag of Tricks, Tan](/03_Mechanics/CLI/items/bag-of-tricks-tan-xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

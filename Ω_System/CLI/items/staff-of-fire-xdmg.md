@@ -17,15 +17,15 @@ modified: 2025-07-23 12:39
 ---
 # Staff of Fire
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/staff-of-fire.webp#right)
+![](/03_Mechanics/CLI/items/img/staff-of-fire.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage while you hold this staff.
+You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage while you hold this staff.
 
 ## Spells
 
@@ -33,9 +33,9 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Burning Hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md) | 1 |
-| [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) | 3 |
-| [Wall of Fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) | 4 |
+| [Burning Hands](/03_Mechanics/CLI/spells/burning-hands-xphb.md) | 1 |
+| [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) | 3 |
+| [Wall of Fire](/03_Mechanics/CLI/spells/wall-of-fire-xphb.md) | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

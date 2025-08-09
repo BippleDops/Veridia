@@ -286,7 +286,7 @@ Prophecies suggest the palace will either be the key to raising Aquabyssos or th
 - [[2-World/People/Marina-Red-Tide-Coralheart]]
 
 ### Related Mechanics
-- [[3-Mechanics/Depth Adaptation System]]
+- [[03_Mechanics/Depth Adaptation System]]
 - [[Shadow Separation Rules]]
 - [[Temporal Navigation]]
 - [[Gravity Anomaly Mechanics]]

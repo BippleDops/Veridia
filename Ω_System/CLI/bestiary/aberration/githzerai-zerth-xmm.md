@@ -79,11 +79,11 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "intelligence": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common, Gith"
@@ -96,24 +96,24 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
     "name": "Psi Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 14):\n\nAt will:\
-      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
-      \n1/day each: [Phantasmal Killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
-      \ (level 6 version), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
+      \ [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is Invisible)\n\
+      \n1/day each: [Phantasmal Killer](/03_Mechanics/CLI/spells/phantasmal-killer-xphb.md)\
+      \ (level 6 version), [Plane Shift](/03_Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [See Invisibility](/03_Mechanics/CLI/spells/see-invisibility-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githzerai casts [Jump](/3-Mechanics/CLI/spells/jump-xphb.md), requiring\
+  - "desc": "The githzerai casts [Jump](/03_Mechanics/CLI/spells/jump-xphb.md), requiring\
       \ no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Psi-Powered Leap (2/Day)"
 "reactions":
-  - "desc": "The githzerai casts [Feather Fall](/3-Mechanics/CLI/spells/feather-fall-xphb.md)\
-      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The githzerai casts [Feather Fall](/03_Mechanics/CLI/spells/feather-fall-xphb.md)\
+      \ or [Shield](/03_Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
       \ trigger, requiring no spell components and using the same spellcasting ability\
       \ as Spellcasting.\n"
     "name": "Psionic Defense (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/githzerai-zerth-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/githzerai-zerth-xmm.webp"
 ```
 ^statblock
 

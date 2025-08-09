@@ -38,12 +38,12 @@ modified: 2025-07-23 12:39
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-One creature that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition for the duration. The creature succeeds automatically if it isn't Humanoid.
+One creature that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition for the duration. The creature succeeds automatically if it isn't Humanoid.
 
-A spectral crown appears on the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
+A spectral crown appears on the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
-On your later turns, you must take the [Magic](/3-Mechanics/CLI/actions.md#Magic) action to maintain control of the target, or the spell ends.
+On your later turns, you must take the [Magic](/03_Mechanics/CLI/actions.md#Magic) action to maintain control of the target, or the spell ends.
 
-**Classes**: [Paladin (Oathbreaker)](/3-Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Paladin (Oathbreaker)](/03_Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 259*

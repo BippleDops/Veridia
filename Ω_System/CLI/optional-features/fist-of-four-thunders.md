@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 # Fist of Four Thunders
 *Source: Player's Handbook p. 81*  
 
-You can spend 2 ki points to cast [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md).
+You can spend 2 ki points to cast [thunderwave](/03_Mechanics/CLI/spells/thunderwave-xphb.md).

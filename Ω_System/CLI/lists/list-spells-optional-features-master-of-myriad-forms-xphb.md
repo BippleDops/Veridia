@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Alter Self](/3-Mechanics/CLI/spells/alter-self-xphb.md "XPHB")
+- [Alter Self](/03_Mechanics/CLI/spells/alter-self-xphb.md "XPHB")

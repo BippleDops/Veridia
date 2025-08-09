@@ -22,6 +22,6 @@ modified: 2025-07-23 12:39
 
 The ammunition of a firearm is destroyed upon use.
 
-Firearm Bullets are typically stored in a [Pouch](/3-Mechanics/CLI/items/pouch-xphb.md) (bought separately).
+Firearm Bullets are typically stored in a [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) (bought separately).
 
 *Source: Player's Handbook (2024) p. 222*

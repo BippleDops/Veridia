@@ -46,6 +46,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-riding-lizard-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-riding-lizard-oota.webp"
 ```
 ^statblock

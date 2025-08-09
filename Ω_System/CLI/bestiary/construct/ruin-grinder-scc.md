@@ -36,9 +36,9 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
   - !!int "1"
 "speed": "30 ft., burrow 30 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
@@ -57,10 +57,10 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
   - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
       \ (2d6 + 6) force damage. If the target is a Huge or smaller creature, it must\
       \ succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and\
-      \ knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ knocked [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Excavator"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/ruin-grinder-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/ruin-grinder-scc.webp"
 ```
 ^statblock

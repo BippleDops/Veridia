@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip
+- [Thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md "XPHB") as cantrip

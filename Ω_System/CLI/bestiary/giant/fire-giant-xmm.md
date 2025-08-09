@@ -52,9 +52,9 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "fire"
 "senses": "passive Perception 16"
@@ -69,12 +69,12 @@ Most fire giants dwell in volcanically active mountains or cavernous depths that
     "name": "Flame Sword"
   - "desc": "Ranged Attack Roll: +11, range 60/240 ft. Hit: 23 (3d10 + 7) Bludgeoning\
       \ damage plus 4 (d8) Fire damage, and the target is pushed up to 15 feet straight\
-      \ away from the giant and has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ away from the giant and has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on the next attack roll it makes before the end of its next turn."
     "name": "Hammer Throw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fire-giant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/fire-giant-xmm.webp"
 ```
 ^statblock
 

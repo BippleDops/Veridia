@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Half-Orc
 *Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/3-Mechanics/CLI/races/img/half-orc.webp#right)
+![](/03_Mechanics/CLI/races/img/half-orc.webp#right)
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium
@@ -34,7 +34,7 @@ Thanks to your orc blood, you have superior vision in dark and dim conditions. Y
 
 ### Menacing
 
-You gain proficiency in the [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) skill.
+You gain proficiency in the [Intimidation](/03_Mechanics/CLI/skills.md#Intimidation) skill.
 
 ### Relentless Endurance
 

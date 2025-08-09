@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 3rd Level
 
-- [Gaseous Form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB")
+- [Gaseous Form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md "XPHB")

@@ -76,9 +76,9 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "necrotic"
 "senses": "darkvision 120 ft., passive Perception 17"
@@ -87,15 +87,15 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "traits":
   - "desc": "If the vampire fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day, or 4/Day in Lair)"
-  - "desc": "If the vampire drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+  - "desc": "If the vampire drops to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ outside its resting place, the vampire uses Shape-Shift to become mist (no\
       \ action required). If it can't use Shape-Shift, it is destroyed.\n\nWhile it\
-      \ has 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) in mist\
+      \ has 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) in mist\
       \ form, it can't return to its vampire form, and it must reach its resting place\
       \ within 2 hours or be destroyed. Once in its resting place, it returns to its\
-      \ vampire form and has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ condition until it regains any [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ and it regains 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ vampire form and has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
+      \ condition until it regains any [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+      \ and it regains 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ after spending 1 hour there."
     "name": "Misty Escape"
   - "desc": "The vampire can climb difficult surfaces, including along ceilings, without\
@@ -105,11 +105,11 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ enter a residence without an invitation from an occupant.  \n- Running Water.\
       \ The vampire takes 20 Acid damage if it ends its turn in running water.  \n\
       - Stake to the Heart. If a weapon that deals Piercing damage is driven into\
-      \ the vampire's heart while the vampire has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ condition in its resting place, the vampire has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ the vampire's heart while the vampire has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ condition in its resting place, the vampire has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ condition until the weapon is removed.  \n- Sunlight. The vampire takes\
       \ 20 Radiant damage if it starts its turn in sunlight. While in sunlight, it\
-      \ has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on\
+      \ has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on\
       \ attack rolls and ability checks.  "
     "name": "Vampire Weakness"
 "actions":
@@ -117,46 +117,46 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Multiattack (Vampire Form Only)"
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 8 (1d8 + 4) Bludgeoning damage\
       \ plus 7 (2d6) Necrotic damage. If the target is a Large or smaller creature,\
-      \ it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
+      \ it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition (escape\
       \ DC 14) from one of two hands."
     "name": "Grave Strike (Vampire Form Only)"
   - "desc": "Constitution Saving Throw: DC 17, one creature within 5 feet that is\
-      \ willing or that has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-      \ [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), or [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ willing or that has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+      \ [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated), or [Restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ condition. Failure: 6 (1d4 + 4) Piercing damage plus 13 (3d8) Necrotic damage.\
-      \ The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ The target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ equal to that amount. A Humanoid reduced to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ by this damage and then buried rises the following sunset as a [Vampire Spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)\
+      \ vampire regains [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ equal to that amount. A Humanoid reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ by this damage and then buried rises the following sunset as a [Vampire Spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)\
       \ under the vampire's control."
     "name": "Bite (Bat or Vampire Form Only)"
 "bonus_actions":
   - "desc": "If the vampire isn't in sunlight or running water, it shape-shifts into\
-      \ a Tiny bat ([Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) 5 ft., [Fly\
-      \ Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) 30 ft.) or a Medium\
-      \ cloud of mist ([Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) 5 ft.,\
-      \ [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md) 20 ft. [hover]),\
+      \ a Tiny bat ([Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) 5 ft., [Fly\
+      \ Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) 30 ft.) or a Medium\
+      \ cloud of mist ([Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) 5 ft.,\
+      \ [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) 20 ft. [hover]),\
       \ or it returns to its vampire form. Anything it is wearing transforms with\
       \ it.\n\nWhile in bat form, the vampire can't speak. Its game statistics, other\
-      \ than its size and [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md), are\
+      \ than its size and [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md), are\
       \ unchanged.\n\nWhile in mist form, the vampire can't take any actions, speak,\
       \ or manipulate objects. It is weightless and can enter an enemy's space and\
       \ stop there. If air can pass through a space, the mist can do so, but it can't\
-      \ pass through liquid. It has [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md)\
+      \ pass through liquid. It has [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md)\
       \ to all damage, except the damage it takes from sunlight."
     "name": "Shape-Shift"
-  - "desc": "The vampire casts [Charm Person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
+  - "desc": "The vampire casts [Charm Person](/03_Mechanics/CLI/spells/charm-person-xphb.md),\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 17), and the duration is 24 hours. The Charmed target is a\
       \ willing recipient of the vampire's Bite, the damage of which doesn't end the\
       \ spell. When the spell ends, the target is unaware it was Charmed by the vampire.\n"
     "name": "Charm (Recharge 5-6)"
 "legendary_actions":
-  - "desc": "The vampire moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The vampire moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
       \ and it makes one Grave Strike attack."
     "name": "Deathless Strike"
-  - "desc": "The vampire casts [Command](/3-Mechanics/CLI/spells/command-xphb.md),\
+  - "desc": "The vampire casts [Command](/03_Mechanics/CLI/spells/command-xphb.md),\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 17). The vampire can't take this action again until the start\
       \ of its next turn.\n"
@@ -166,13 +166,13 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ the following effects:"
     "name": ""
   - "desc": "- Children of the Night. The vampire exerts influence over the animals\
-      \ in its domain. From dusk until dawn, Medium or smaller Beasts have the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ in its domain. From dusk until dawn, Medium or smaller Beasts have the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
       \ condition while within 1 mile of the lair.  \n- Looming Shadows. Shadows\
       \ within 1 mile of the lair seem to move as if alive. Any creature (excluding\
-      \ the vampire and its allies) that finishes a [Short Rest](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md)\
+      \ the vampire and its allies) that finishes a [Short Rest](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md)\
       \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
       \ or gain no benefit from that rest.  \n- Mists. The area within 1 mile\
-      \ of the lair is [Lightly Obscured](/3-Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
+      \ of the lair is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md)\
       \ by a persistent, creeping fog. The vampire and any creatures of its choice\
       \ are unaffected by the fog.  "
     "name": ""
@@ -180,7 +180,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": ""
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/vampire-xmm.webp"
 ```
 ^statblock
 

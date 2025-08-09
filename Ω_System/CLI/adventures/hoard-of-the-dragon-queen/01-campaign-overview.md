@@ -44,7 +44,7 @@ After Severin (subtly guided by Tiamat) discovered that secret, he bent all the 
 
 The Cult of the Dragon has kept secret its goal to bring Tiamat into the world thus far. Many know of the cult's increased activity along the Sword Coast, especially in the north, but the reasons behind the resurgence are unknown.
 
-Besides his cultists, Severin has forged an alliance with a splinter faction of the Red Wizards of Thay. This small and secretive group, led by an outcast named [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md), plots to unseat the lich Szass Tam from his position over the Red Wizards. Rath believes that in exchange for his help in releasing Tiamat, she will grant him the power he needs to overthrow Szass Tam.
+Besides his cultists, Severin has forged an alliance with a splinter faction of the Red Wizards of Thay. This small and secretive group, led by an outcast named [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md), plots to unseat the lich Szass Tam from his position over the Red Wizards. Rath believes that in exchange for his help in releasing Tiamat, she will grant him the power he needs to overthrow Szass Tam.
 
 #### Cult Organization
 
@@ -62,7 +62,7 @@ The action begins when a town comes under attack by a dragon and its allies. Cha
 
 The hatchery provides clues to the cult's operation and sends the characters on a long journey northward. During that trip, they face threats from the cult and gain some unexpected allies within the Zhentarim, a shadowy organization with an unsavory history. North of Waterdeep, the cult's contraband is offloaded at a smuggler's den for shipment to a castle long ago abandoned.
 
-A portal beneath the castle connects to the stronghold of one of the cult's most powerful and most disgruntled members, [Talis the White](/3-Mechanics/CLI/bestiary/npc/talis-the-white-hotdq.md), who can become either a deadly enemy or a crucial collaborator to the characters. With or without Talis's help, the characters must get into a flying citadel that a cloud giant placed at the cult's disposal and prevent it from reaching its destination at the Well of Dragons.
+A portal beneath the castle connects to the stronghold of one of the cult's most powerful and most disgruntled members, [Talis the White](/03_Mechanics/CLI/bestiary/npc/talis-the-white-hotdq.md), who can become either a deadly enemy or a crucial collaborator to the characters. With or without Talis's help, the characters must get into a flying citadel that a cloud giant placed at the cult's disposal and prevent it from reaching its destination at the Well of Dragons.
 
 ## The Rise of Tiamat
 
@@ -84,7 +84,7 @@ News of the alliance has thus brought the various factions of the Sword Coast to
 
 In the first volume of *Tyranny of Dragons*, the Cult of the Dragon gathered up a hoard for Tiamat—then lost a portion of that hoard when Skyreach Castle fell. All the while, the cult kept secret its goal of bringing back Tiamat and its alliance with an exiled group of Red Wizards of Thay. The cult now needs only to gather enough sacrifices to power the ritual by which the dragon masks will open a portal to the Nine Hells, allowing Tiamat to travel to the Material Plane.
 
-These plans continue to move ahead as the Thayan exile [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and his Red Wizards bring expertise in summoning magic to the cult, preparing a tremendous blood sacrifice to empower the ritual. The alliance between wizards and cultists is fragile, however, since neither side entirely trusts the promises of the other.
+These plans continue to move ahead as the Thayan exile [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and his Red Wizards bring expertise in summoning magic to the cult, preparing a tremendous blood sacrifice to empower the ritual. The alliance between wizards and cultists is fragile, however, since neither side entirely trusts the promises of the other.
 
 #### Allied Forces
 
@@ -108,7 +108,7 @@ The events of *Hoard of the Dragon Queen* lead directly into The Rise of Tiamat.
 
 #### First Council of Waterdeep
 
-The characters are invited by NPCs they know and trust to the first session of the Council of Waterdeep. (If you played *Hoard of the Dragon Queen*, [Leosin Erlanthar](/3-Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md) or [Ontharr Frume](/3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) are likely candidates.)
+The characters are invited by NPCs they know and trust to the first session of the Council of Waterdeep. (If you played *Hoard of the Dragon Queen*, [Leosin Erlanthar](/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md) or [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) are likely candidates.)
 
 #### Varram the White
 
@@ -116,7 +116,7 @@ The adventurers learn the location of one of the cult's highest-ranking leaders�
 
 #### The Sea of Moving Ice
 
-Maccath the Crimson, a tiefling sorcerer of the Arcane Brotherhood, is an acknowledged expert on the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md)—an ancient relic being used by the cult to summon dragons to their cause. She disappeared three years ago in the Sea of Moving Ice, where she is presently a prisoner of the white dragon Arauthator. The characters must make their way to Arauthator's iceberg lair and convince Maccath to join them. By driving away the dragon and carrying off valuable dragon lore, they deal a blow to the cult and might gain the Arcane Brotherhood as allies in the process.
+Maccath the Crimson, a tiefling sorcerer of the Arcane Brotherhood, is an acknowledged expert on the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md)—an ancient relic being used by the cult to summon dragons to their cause. She disappeared three years ago in the Sea of Moving Ice, where she is presently a prisoner of the white dragon Arauthator. The characters must make their way to Arauthator's iceberg lair and convince Maccath to join them. By driving away the dragon and carrying off valuable dragon lore, they deal a blow to the cult and might gain the Arcane Brotherhood as allies in the process.
 
 #### The Cult Strikes Back (Part 1)
 
@@ -166,7 +166,7 @@ At the final meeting of the council, the characters must work to unite the facti
 
 #### Tiamat's Return
 
-At the Well of Dragons, a battle unfolds that will decide the fate of Faerûn. The factions of the Sword Coast fight alongside new and unexpected allies, facing off against the assembled might of the dragon cultists, flights of chromatic dragons, other monsters, and mercenaries. The adventurers choose their own role during the battle, and might rescue sacrificial prisoners, shut down the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md), or take the lead in disrupting the magical ritual that will allow Tiamat to enter the world.
+At the Well of Dragons, a battle unfolds that will decide the fate of Faerûn. The factions of the Sword Coast fight alongside new and unexpected allies, facing off against the assembled might of the dragon cultists, flights of chromatic dragons, other monsters, and mercenaries. The adventurers choose their own role during the battle, and might rescue sacrificial prisoners, shut down the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md), or take the lead in disrupting the magical ritual that will allow Tiamat to enter the world.
 
 ### Advancement
 
@@ -193,7 +193,7 @@ For characters who have not played *Hoard of the Dragon Queen*, the adventure ca
 > 
 > The The Rise of Tiamat makes use of certain NPCs from *Hoard of the Dragon Queen*, and makes the assumption that those NPCs escaped any conflict with the adventurers.
 > 
-> In the event that important nonplayer characters such as [Wyrmspeaker Rezmir](/3-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) or the Red Wizard [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) were killed or captured, simply replace them with new nonplayer characters here—or assume that they were resurrected between the previous adventure and this one. NPCs returning from the dead show the level of magical power the cult and its Red Wizard allies wield—and their dedication to seeing Severin's plans brought to fruition.
+> In the event that important nonplayer characters such as [Wyrmspeaker Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) or the Red Wizard [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) were killed or captured, simply replace them with new nonplayer characters here—or assume that they were resurrected between the previous adventure and this one. NPCs returning from the dead show the level of magical power the cult and its Red Wizard allies wield—and their dedication to seeing Severin's plans brought to fruition.
 ^recurring-villains
 
 ### Additional Encounters
@@ -202,21 +202,21 @@ The Rise of Tiamat is an open-framework adventure designed for higher-level char
 
 #### Monstrous Uprising
 
-A charismatic [half-red dragon veteran](/3-Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md) leads a band of 21 [kobolds](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) and 7 [lizardfolk](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), taking advantage of the unrest along the Sword Coast. The group might besiege a village the characters are staying at, raid and enslave another settlement, or start charging tolls along one of the trade roads of the Sword Coast. This band isn't organized enough to attack all at once and provide a significant challenge to the party. Instead, it shows the increasing anarchy of the region, and the way that Tiamat's rise has emboldened evil creatures that aren't directly serving the Dragon Queen.
+A charismatic [half-red dragon veteran](/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md) leads a band of 21 [kobolds](/03_Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) and 7 [lizardfolk](/03_Mechanics/CLI/bestiary/humanoid/scout-xmm.md), taking advantage of the unrest along the Sword Coast. The group might besiege a village the characters are staying at, raid and enslave another settlement, or start charging tolls along one of the trade roads of the Sword Coast. This band isn't organized enough to attack all at once and provide a significant challenge to the party. Instead, it shows the increasing anarchy of the region, and the way that Tiamat's rise has emboldened evil creatures that aren't directly serving the Dragon Queen.
 
 #### Power of the Cult
 
 The Cult of the Dragon expands its operation in larger and bolder ways. Its leaders send diplomatic missions to Berdusk, Triel, and other settlements demanding tribute—and offering protection from dragon raids for those who comply. Cultists shake down caravans seeking protection money, and have been burning caravans that belong to the rivals of those who do pay. Less scrupulous merchants are finding it easier to do business with the cult than to fight against them. Any Zhentarim contacts of the adventurers are understandably worried about these developments.
 
-Elite bands of cultists have been charged with establishing the cult's control from the Gray Peaks to the Sunset Mountains. They seek out allies in the area, with an eye toward choosing friendly territory for a capital city and a seat of power for the cult's Inner Circle. Such bands are led by a [dragonsoul](/3-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) defended by 4 [dragonclaws](/3-Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md) and a pack of 3 [guard drakes](/3-Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md). The dragonsoul rides a [warhorse](/3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md), but the other cultists are on foot. See appendix D for the cultists and drakes.
+Elite bands of cultists have been charged with establishing the cult's control from the Gray Peaks to the Sunset Mountains. They seek out allies in the area, with an eye toward choosing friendly territory for a capital city and a seat of power for the cult's Inner Circle. Such bands are led by a [dragonsoul](/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) defended by 4 [dragonclaws](/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md) and a pack of 3 [guard drakes](/03_Mechanics/CLI/bestiary/dragon/guard-drake-mpmm.md). The dragonsoul rides a [warhorse](/03_Mechanics/CLI/bestiary/beast/warhorse-xmm.md), but the other cultists are on foot. See appendix D for the cultists and drakes.
 
 #### Devilish Demands
 
 Though the Cult of the Dragon and the Red Wizards are making use of diabolic allies as they plan the ritual that will free Tiamat, not all devils are on their side. Some fiends not wanting to see Tiamat gain worldly power seek to break the alliance between the cult and Thay. This encounter can be used to reveal to the characters the divisions already present among the evil factions.
 
-The devils who are aligned against Tiamat send a delegation of 5 [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) and 2 [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) (devil worshipers) and a [bone devil](/3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md) named Lord Volmer to treat with the party. The cultists lead the characters to a large tent, inside which Lord Volmer awaits.
+The devils who are aligned against Tiamat send a delegation of 5 [cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) and 2 [cult fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) (devil worshipers) and a [bone devil](/03_Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md) named Lord Volmer to treat with the party. The cultists lead the characters to a large tent, inside which Lord Volmer awaits.
 
-Using telepathy, Lord Volmer tells the adventurers about the so-called "Thayan Resurrection" (the attempt by Thayan exiles to supplant Szass Tam), as well as the fact that Szass Tam intends to destroy [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and his "splinter sect" for their impudence. The bone devil assures the characters that they can earn the Red Wizards' favor by providing him with information leading to [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)'s capture.
+Using telepathy, Lord Volmer tells the adventurers about the so-called "Thayan Resurrection" (the attempt by Thayan exiles to supplant Szass Tam), as well as the fact that Szass Tam intends to destroy [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) and his "splinter sect" for their impudence. The bone devil assures the characters that they can earn the Red Wizards' favor by providing him with information leading to [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)'s capture.
 
 Lord Volmer also tells the party that the lords of the Nine Hells are divided when it comes to the matter of Tiamat's release. He tells the party that if Tiamat is prevented from escaping, the party will earn "powerful friends" in the Nine Hells. If the characters attack Lord Volmer, he and his allies retaliate. The devil is not worried about dying, since he reforms at full strength in the Nine Hells upon his demise.
 
@@ -224,7 +224,7 @@ Lord Volmer also tells the party that the lords of the Nine Hells are divided wh
 
 A group of dwarf miners has captured a high-ranking member of the Cult of the Dragon—a Wearer of Purple named Cheela Flegsteel who got a little too greedy while leading a group of cultists that was terrorizing the dwarves. Having killed Cheela's drakes and subordinates, the dwarves bring their prisoner to the adventurers hoping for a reward.
 
-Cheela has useful information about the cult's activities, which could be used to lead into any chapter of your choice. However, she also knows that a rescue party is not far behind her. The adventurers need to help the dwarves fend off an attack by 4 [ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) and a [half-red dragon veteran](/3-Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md) named Yggran. The dwarves are hopelessly overmatched and flee rather than fight. If her fellow cultists can't save Cheela, they might kill her rather than leave her in the adventurers' hands.
+Cheela has useful information about the cult's activities, which could be used to lead into any chapter of your choice. However, she also knows that a rescue party is not far behind her. The adventurers need to help the dwarves fend off an attack by 4 [ogres](/03_Mechanics/CLI/bestiary/giant/ogre-xmm.md) and a [half-red dragon veteran](/03_Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md) named Yggran. The dwarves are hopelessly overmatched and flee rather than fight. If her fellow cultists can't save Cheela, they might kill her rather than leave her in the adventurers' hands.
 
 #### Fallen Hero
 
@@ -234,9 +234,9 @@ Use this encounter to make the players aware of the dangers presented by a direc
 
 #### Death at the Council
 
-During the second or third session of the Council of Waterdeep, rumors spread of an aide from Neverwinter who killed an aide from Mithral Hall and then hanged himself. In truth, the Cult of the Dragon sent a [succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md) spy to Waterdeep. She [charmed](/3-Mechanics/CLI/conditions.md#Charmed) the Neverwinter aide into collecting information for her, but the other aide discovered their meetings. The succubus forced her victim to slay the other aide to cover her tracks, then to kill himself.
+During the second or third session of the Council of Waterdeep, rumors spread of an aide from Neverwinter who killed an aide from Mithral Hall and then hanged himself. In truth, the Cult of the Dragon sent a [succubus](/03_Mechanics/CLI/bestiary/fiend/succubus-xmm.md) spy to Waterdeep. She [charmed](/03_Mechanics/CLI/conditions.md#Charmed) the Neverwinter aide into collecting information for her, but the other aide discovered their meetings. The succubus forced her victim to slay the other aide to cover her tracks, then to kill himself.
 
-If the characters investigate, they can obtain the body to question it using [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), or they might use [commune](/3-Mechanics/CLI/spells/commune-xphb.md) to discover the spy. The succubus has gained another victim by that point—a knight of the Order of the Gauntlet who regularly goes to meet her at her slum dwelling in the Field Ward of Waterdeep. This pattern of murder and suicide continues unless the spy's true identity is discovered.
+If the characters investigate, they can obtain the body to question it using [speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md), or they might use [commune](/03_Mechanics/CLI/spells/commune-xphb.md) to discover the spy. The succubus has gained another victim by that point—a knight of the Order of the Gauntlet who regularly goes to meet her at her slum dwelling in the Field Ward of Waterdeep. This pattern of murder and suicide continues unless the spy's true identity is discovered.
 
 ## Running the Adventure
 
@@ -250,7 +250,7 @@ The plot to return Tiamat to the mortal realm has brought some of Faerûn's most
 
 ### The Cult of the Dragon
 
-The Cult of the Dragon has existed for centuries. During most of that time, its members have focused on the creation and worship of dracoliches, based on a prophecy translated by the cult's founder, Sammaster. However, those goals changed with the rise of a young cultist named [Severin](/3-Mechanics/CLI/bestiary/npc/severin-rot.md).
+The Cult of the Dragon has existed for centuries. During most of that time, its members have focused on the creation and worship of dracoliches, based on a prophecy translated by the cult's founder, Sammaster. However, those goals changed with the rise of a young cultist named [Severin](/03_Mechanics/CLI/bestiary/npc/severin-rot.md).
 
 Inspired by Tiamat, Severin reexamined the texts translated by Sammaster and discovered a different interpretation, believing that "naught will be left save shattered thrones, with no rulers but the dead. Dragons shall rule the world entire..." Severin's quest to reshape the cult led him to the dragon Hoondarrh, "the Red Rage of Mintarn." The fact that Severin not only survived this encounter but befriended the dragon impressed Tiamat in her exile in the Nine Hells. As a reward and further test, she allowed Severin a scrap of knowledge regarding the existence of the five dragon masks. Severin took that bit of information and did what few others could have accomplished, searching for and finding all five masks. The task took years to complete, and it led directly to the crisis that Faerûn now faces.
 
@@ -270,7 +270,7 @@ Cult members venerate dragons as powerful icons and masters, but their worship i
 
 The cult has a simple hierarchical structure, consisting of initiates on the bottom, four ranks for cultists, and one highest rank for "Wearers of Purple"—the lords, leaders, and cult masters of particular locales. The cult is ruled by a secretive inner group led by Severin and four other wyrmspeakers—a term of respect given to those whose bond with dragons is supernaturally strong.
 
-Rank in the cult is based on merit and fanaticism. As raw recruits, initiates (represented by [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) and [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)) have no rank and follow the orders of their superiors. Only initiates that prove their worth are allowed to advance. A Wearer of Purple can promote an initiate along the track of [dragonclaw](/3-Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md) (first rank), [dragonwing](/3-Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) (second rank), [dragonfang](/3-Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md) (third rank), and [dragonsoul](/3-Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) (fourth rank). Statistics for those four ranking cultists are found in appendix D.
+Rank in the cult is based on merit and fanaticism. As raw recruits, initiates (represented by [cultists](/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) and [cult fanatics](/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)) have no rank and follow the orders of their superiors. Only initiates that prove their worth are allowed to advance. A Wearer of Purple can promote an initiate along the track of [dragonclaw](/03_Mechanics/CLI/bestiary/humanoid/dragonclaw-hotdq.md) (first rank), [dragonwing](/03_Mechanics/CLI/bestiary/humanoid/dragonwing-hotdq.md) (second rank), [dragonfang](/03_Mechanics/CLI/bestiary/humanoid/dragonfang-rot.md) (third rank), and [dragonsoul](/03_Mechanics/CLI/bestiary/humanoid/dragonsoul-rot.md) (fourth rank). Statistics for those four ranking cultists are found in appendix D.
 
 Cult operation groups are assembled to match their assigned tasks. They vary in size, from a few low-ranking cultists operating on their own to hundreds of cultists of various ranks under the control of multiple Wearers of Purple.
 
@@ -282,13 +282,13 @@ Only Severin's inner circle can promote a dragonsoul to a Wearer of Purple, gran
 
 #### The Inner Circle
 
-![Severin](/3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/000-tod-00-01.webp#center)
+![Severin](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/000-tod-00-01.webp#center)
 
 These four Wearers of Purple are the keepers of the dragon masks and Severin's most devoted servants in the effort to summon Tiamat. Each of these wyrmspeakers bears one of the dragon masks, which they never part with except under the direst circumstances—and then only at the request of Severin or a draconic ally. The members of the inner circle each have an affinity for a particular color of chromatic dragon. They treat with dragons of those colors to recruit more dragons to the cause, and plan cult missions that advance Severin's plots.
 
-In addition to Severin, the Red Wyrmspeaker, the members of the inner circle are: Galvan (male human), the Blue Wyrmspeaker; Neronvain (male moon elf), the Green Wyrmspeaker and son of Melandrach, King of the Misty Forest; [Rezmir](/3-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) (female half-black dragon), the Black Wyrmspeaker; and Varram (male dwarf), the White Wyrmspeaker.
+In addition to Severin, the Red Wyrmspeaker, the members of the inner circle are: Galvan (male human), the Blue Wyrmspeaker; Neronvain (male moon elf), the Green Wyrmspeaker and son of Melandrach, King of the Misty Forest; [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md) (female half-black dragon), the Black Wyrmspeaker; and Varram (male dwarf), the White Wyrmspeaker.
 
-If any wyrmspeakers are killed or captured in your campaign—including [Rezmir](/3-Mechanics/CLI/bestiary/npc/rezmir-hotdq.md), who the characters might have defeated in *Hoard of the Dragon Queen*—Severin appoints new followers to his inner council.
+If any wyrmspeakers are killed or captured in your campaign—including [Rezmir](/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq.md), who the characters might have defeated in *Hoard of the Dragon Queen*—Severin appoints new followers to his inner council.
 
 #### Dissent in the Ranks
 
@@ -308,19 +308,19 @@ For many years, Szass Tam's grip on absolute power in Thay has been weakened by 
 
 #### Rath Modar's Ambition
 
-One such Red Wizard exile is [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md), an illusionist of great skill who long ago made the Sword Coast his home. Having a natural interest in dragons, it wasn't long before [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) came into contact with the Cult of the Dragon and Severin. The young, ambitious cult leader sought powerful magic to locate the scattered dragon masks and to perform the ritual that would summon Tiamat from the Nine Hells. [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) dreamed of an army that could confront and defeat Szass Tam. Out of mutual need, their alliance was born.
+One such Red Wizard exile is [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md), an illusionist of great skill who long ago made the Sword Coast his home. Having a natural interest in dragons, it wasn't long before [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) came into contact with the Cult of the Dragon and Severin. The young, ambitious cult leader sought powerful magic to locate the scattered dragon masks and to perform the ritual that would summon Tiamat from the Nine Hells. [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) dreamed of an army that could confront and defeat Szass Tam. Out of mutual need, their alliance was born.
 
-The secret cornerstone of this union is [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)'s belief that once Tiamat returns, she will see that the Red Wizards are more useful allies than the devoted but magically weak cultists. [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) hopes that Tiamat will show her gratitude for the pivotal role he and his fellow Red Wizards played in her return, granting them an army of dragons with which to assault Thay. After unseating Szass Tam, [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) plans to take his place at the head of all Red Wizards. Whether Tiamat will grant such a reward—or have any further use for the Red Wizards at all—remains unknown.
+The secret cornerstone of this union is [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)'s belief that once Tiamat returns, she will see that the Red Wizards are more useful allies than the devoted but magically weak cultists. [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) hopes that Tiamat will show her gratitude for the pivotal role he and his fellow Red Wizards played in her return, granting them an army of dragons with which to assault Thay. After unseating Szass Tam, [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) plans to take his place at the head of all Red Wizards. Whether Tiamat will grant such a reward—or have any further use for the Red Wizards at all—remains unknown.
 
-Not all members of the Cult of the Dragon are happy about the Red Wizards' involvement in the cult's plans. Wyrmspeaker Varram foresees trouble in the cult joining forces with [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)'s splinter sect. He has warned Severin about the potential danger, to no avail.
+Not all members of the Cult of the Dragon are happy about the Red Wizards' involvement in the cult's plans. Wyrmspeaker Varram foresees trouble in the cult joining forces with [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md)'s splinter sect. He has warned Severin about the potential danger, to no avail.
 
 #### Using the Red Wizards
 
-Red Wizards can be encountered anywhere on the Sword Coast (use [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Wizards might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Wizards favor deep hoods and scarves to hide their faces. Their undead [wight](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md) bodyguards are usually nearby—and often [invisible](/3-Mechanics/CLI/conditions.md#Invisible). Each Red Wizard specializes in a single school of magic, but all learn spells outside their specialty schools.
+Red Wizards can be encountered anywhere on the Sword Coast (use [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Wizards might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Wizards favor deep hoods and scarves to hide their faces. Their undead [wight](/03_Mechanics/CLI/bestiary/undead/wight-xmm.md) bodyguards are usually nearby—and often [invisible](/03_Mechanics/CLI/conditions.md#Invisible). Each Red Wizard specializes in a single school of magic, but all learn spells outside their specialty schools.
 
 Red Wizards don't share the cultists' fanaticism for Tiamat. For them, bringing the Dragon Queen into the world is just one stage of what they call the Thayan Resurrection—the larger plan to destroy Szass Tam and reclaim Thay. They tolerate the dragon cultists but do not acknowledge them as equals.
 
-Not every Red Wizard on the Sword Coast is working for [Rath Modar](/3-Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) or the Cult of the Dragon. Some pursue their own interests, while others are spies for Szass Tam. The adventurers might thus find themselves making uneasy alliances with characters they would normally never trust, since the easiest and surest way to eliminate a Red Wizard in service to the cult is to betray that wizard's location to an agent of Szass Tam. However, characters who get too close to Szass Tam's servants and his paranoid vendetta against the Red Wizard exiles might find themselves at the mercy of the Thayans. This possibility is explored more fully in chapter 16.
+Not every Red Wizard on the Sword Coast is working for [Rath Modar](/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq.md) or the Cult of the Dragon. Some pursue their own interests, while others are spies for Szass Tam. The adventurers might thus find themselves making uneasy alliances with characters they would normally never trust, since the easiest and surest way to eliminate a Red Wizard in service to the cult is to betray that wizard's location to an agent of Szass Tam. However, characters who get too close to Szass Tam's servants and his paranoid vendetta against the Red Wizard exiles might find themselves at the mercy of the Thayans. This possibility is explored more fully in chapter 16.
 
 ### Hosts of the Nine Hells
 
@@ -342,13 +342,13 @@ Devils in the adventure should always be one step ahead of the adventurers. Char
 
 ### Chromatic Dragons
 
-Severin and his supporters intend to use the ancient draconic artifact known as the [Draakhorn](/3-Mechanics/CLI/items/draakhorn-rot.md) to rally the chromatic dragons to Tiamat's cause. However, chromatic dragons are notoriously arrogant, territorial, greedy, and suspicious of any creatures begging favors—especially if those creatures might be a threat. Getting dragons to cooperate is a monumental task, even when bringing the Queen of Dragons into the world is the ultimate goal.
+Severin and his supporters intend to use the ancient draconic artifact known as the [Draakhorn](/03_Mechanics/CLI/items/draakhorn-rot.md) to rally the chromatic dragons to Tiamat's cause. However, chromatic dragons are notoriously arrogant, territorial, greedy, and suspicious of any creatures begging favors—especially if those creatures might be a threat. Getting dragons to cooperate is a monumental task, even when bringing the Queen of Dragons into the world is the ultimate goal.
 
 The Cult of the Dragon has a secret weapon for dealing with chromatic dragons, in the form of the five dragon masks. Even with a dragon mask, the process of influencing a dragon remains arduous and dangerous—though the payoff is enormous. These relics give their wearers the ability to communicate with dragons, but more importantly, they impart a subtle influence over dragons that cannot be detected. Dragons cannot be controlled by the masks, but they can be swayed by ideas and proposals that they would not normally find persuasive.
 
 #### Using Chromatic Dragons
 
-The power of the chromatic dragons is a motif running through every aspect of Tyranny of Dragons: The Rise of Tiamat. As the events of the adventure unfold, more and more dragons respond to the [Draakhorn's](/3-Mechanics/CLI/items/draakhorn-rot.md) rumbling moan and journey to the Well of Dragons—a migration that inspires alarm and panic in people across Faerûn.
+The power of the chromatic dragons is a motif running through every aspect of Tyranny of Dragons: The Rise of Tiamat. As the events of the adventure unfold, more and more dragons respond to the [Draakhorn's](/03_Mechanics/CLI/items/draakhorn-rot.md) rumbling moan and journey to the Well of Dragons—a migration that inspires alarm and panic in people across Faerûn.
 
 Characters and players should seldom be allowed to forget that the evil dragons are on the move. Whenever the adventurers are outside, they might see a dragon winging overhead in the distance. The shadow of a dragon could fall across the adventurers in the daytime, and dark draconic wings might momentarily blot out the moon at night. When the characters arrive in a settlement, they should hear stories about dragon sightings and attacks. When they travel, burned-out hamlets and demolished caravans line the road.
 
@@ -376,11 +376,11 @@ This section describes each faction's goals and driving concerns, its leading de
 
 ### The Harpers
 
-![](/3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/001-symbol-harpers.webp#center)
+![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/001-symbol-harpers.webp#center)
 
 The secret society known as the Harpers has been disbanded and rebuilt several times over its long history. The latest incarnation of the group retains its focus on gathering information, keeping a close watch on the balance of power in Faerûn, and promoting fairness and equality in quiet, unobtrusive ways. Harpers try to keep out of the public eye, preferring secrecy to fame and using knowledge to win the day over brute force. However, as the Cult of the Dragon grows more brazen and destructive, the Harpers are forced to act more openly in their opposition.
 
-If the characters played through *Hoard of the Dragon Queen*, they've already met one of the most influential of the Harpers: [Leosin Erlanthar](/3-Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md), a male half-elf monk from Berdusk.
+If the characters played through *Hoard of the Dragon Queen*, they've already met one of the most influential of the Harpers: [Leosin Erlanthar](/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md), a male half-elf monk from Berdusk.
 
 #### Using the Harpers
 
@@ -408,7 +408,7 @@ The Harpers are willing to cooperate with unsavory types and leverage evil asset
 
 ### The Order of the Gauntlet
 
-![](/3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/002-ooa08-03.webp#center)
+![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/002-ooa08-03.webp#center)
 
 The Order of the Gauntlet shares the Harpers' dedication to justice and equality, but their methods and attitude are quite different. Bearers of the gauntlet are holy warriors on a righteous quest to crush evil and promote justice, and they never hide in the shadows. Evil must be opposed openly and vanquished in the light of day, so that all can see and be emboldened by its destruction.
 
@@ -434,15 +434,15 @@ Clerics, paladins, and monks make up the majority of the Order of the Gauntlet, 
 
 **Pledged Resources**: Paladins and healing clerics to support the fight against Tiamat's forces
 
-Boisterous and gregarious to a fault, Ontharr is the leading delegate for the Order of the Gauntlet. He has all the justification he needs to support the party (especially if the characters played through *Hoard of the Dragon Queen*). However, the rest of the order is not yet convinced. In particular, the order does not tolerate evil, and if the characters are known to have committed acts of a dubious moral nature, [Ontharr Frume](/3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) will be pressured to withhold his support. Members of the order will seek proof that the party is righteous or has divine guidance, for it is only with the blessing of Torm and the other gods that Tiamat can be defeated.
+Boisterous and gregarious to a fault, Ontharr is the leading delegate for the Order of the Gauntlet. He has all the justification he needs to support the party (especially if the characters played through *Hoard of the Dragon Queen*). However, the rest of the order is not yet convinced. In particular, the order does not tolerate evil, and if the characters are known to have committed acts of a dubious moral nature, [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) will be pressured to withhold his support. Members of the order will seek proof that the party is righteous or has divine guidance, for it is only with the blessing of Torm and the other gods that Tiamat can be defeated.
 
 Just as good deeds must be performed in the light for all to see, evil must be shunned and fought at every turn. Members of the order can be won over by heroic and righteous deeds, but they will turn against characters who cooperate with or tolerate evil. The order can best be swayed by actions that demonstrate heroism and divine providence—uniting the metallic dragons to fight Tiamat's brood, for example. Slaying a wyrmspeaker will also serve the party well, while capturing and delivering such a villain to justice will raise them even higher in the order's sight.
 
-[Ontharr Frume](/3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md)'s dedication to heroic justice creates a strong connection between him and the paladin Sir Isteval. However, Ontharr has difficulty reconciling the heroic Isteval of legend with the diplomatic and retiring figure of the Council of Waterdeep. It's incomprehensible to him why Sir Isteval does not take to the field himself in this great conflict.
+[Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md)'s dedication to heroic justice creates a strong connection between him and the paladin Sir Isteval. However, Ontharr has difficulty reconciling the heroic Isteval of legend with the diplomatic and retiring figure of the Council of Waterdeep. It's incomprehensible to him why Sir Isteval does not take to the field himself in this great conflict.
 
 ### The Emerald Enclave
 
-![](/3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/003-ooa08-05a.webp#center)
+![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/003-ooa08-05a.webp#center)
 
 The Emerald Enclave is dedicated to maintaining balance in the natural order and combating the forces that threaten that balance. Members of the enclave live in the wilderness or in small communities, and the order has almost no representatives in towns and cities. They are not opposed to civilization, however. Rather, they seek to prevent civilization and wilderness from harming one another. Those who serve the Emerald Enclave are masters of survival and living off the land, of navigating through the wilderness, and of reading the signs that indicate approaching weather, the passage of creatures, and the general weal of the natural world.
 
@@ -476,7 +476,7 @@ Delaan's oldest friend and mentor is a mighty treant named Turlang who resides i
 
 ### The Lords' Alliance
 
-![](/3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/004-symbol-alliance.webp#center)
+![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/004-symbol-alliance.webp#center)
 
 "The Lords' Alliance" is not a metaphor. This organization was created and is led by leaders and nobles from across Faerûn. Although many of its members have conflicting goals and long-standing rivalries outside the alliance, they band together in the face of events that are too big for any of them to handle on their own. The rulers of Waterdeep, Silverymoon, Baldur's Gate, and other cities, families, and trading houses of the Sword Coast might never set aside their differences, but they can pull together when the survival of all depends on it.
 
@@ -544,7 +544,7 @@ In the first council meeting, Lord Dagult's resources have been spread thin betw
 
 Son of Banak Brawnanvil and a former king of Mithral Hall, Connerad has made the long journey from Mithral Hall to act as the Lords' Alliance delegate for the dwarves of the North, including Citadel Adbar and Citadel Felbarr.
 
-Even though Connerad hates dragons, devils, and cultists alike, he is as stubborn as a mule about committing troops anywhere but his homeland. The dwarven kingdoms in the North have lost many people in recent years, and the dwarves that remain are struggling to retain ancient lands only recently reclaimed. He knows the adventurers only by reputation, and desires tangible proof that they have the mettle and wits to lead soldiers and dwarves before he'll make a serious commitment. Like [Ontharr Frume](/3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) of the Order of the Gauntlet, Connerad responds well to bold demonstrations of heroism. However, he is personally and deeply insulted by any slight against dwarves or intrusions by the characters into dwarven affairs. His reactions to the adventurers' exploits determine how he votes in the fourth council.
+Even though Connerad hates dragons, devils, and cultists alike, he is as stubborn as a mule about committing troops anywhere but his homeland. The dwarven kingdoms in the North have lost many people in recent years, and the dwarves that remain are struggling to retain ancient lands only recently reclaimed. He knows the adventurers only by reputation, and desires tangible proof that they have the mettle and wits to lead soldiers and dwarves before he'll make a serious commitment. Like [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) of the Order of the Gauntlet, Connerad responds well to bold demonstrations of heroism. However, he is personally and deeply insulted by any slight against dwarves or intrusions by the characters into dwarven affairs. His reactions to the adventurers' exploits determine how he votes in the fourth council.
 
 #### Marshall Ulder Ravengard
 
@@ -608,11 +608,11 @@ A veteran dragon slayer, Isteval bears a wound in his leg that resists magical h
 
 Isteval believes in heroes as the spark that can ignite the flames of righteousness in others and the light that chases away the darkness of evil. Seeing this spark in the adventurers makes the paladin one of the party's strongest advocates at the Council of Waterdeep, as long as they pursue a principled path.
 
-Sir Isteval has much in common with [Ontharr Frume](/3-Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) of the Order of the Gauntlet. The two are potential allies in all things, which worries some of the other Lords' Alliance members.
+Sir Isteval has much in common with [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md) of the Order of the Gauntlet. The two are potential allies in all things, which worries some of the other Lords' Alliance members.
 
 ### The Zhentarim
 
-![](/3-Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/005-symbol-zhentarim.webp#center)
+![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/005-symbol-zhentarim.webp#center)
 
 The Zhentarim—also known as the Black Network—is a loose affiliation of merchants, mercenaries, and malefactors. Common folk know the Zhentarim as the people to talk to when you need the best guards or mercenaries money can buy. And if the cargo is shady or the cause you're fighting for is questionable or even unjust, the Zhentarim don't mind.
 
@@ -632,7 +632,7 @@ At least one Black Network mission is carried out regardless of payment. Without
 
 #### Using the Zhentarim
 
-Black Network agents are useful NPCs that you can introduce at appropriate times during the adventure. Characters who played *Hoard of the Dragon Queen* have already met one member of the Black Network—the female gnome [Jamna Gleamsilver](/3-Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq.md). If the characters need information or gear they can't obtain any other way, seeking out or being approached by a Zhentarim agent is an easy way for you to provide it.
+Black Network agents are useful NPCs that you can introduce at appropriate times during the adventure. Characters who played *Hoard of the Dragon Queen* have already met one member of the Black Network—the female gnome [Jamna Gleamsilver](/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq.md). If the characters need information or gear they can't obtain any other way, seeking out or being approached by a Zhentarim agent is an easy way for you to provide it.
 
 A typical Black Network agent is a highly capable adventurer with no scruples. Some Zhentarim have winged snake companions that carry messages on scrolls as they fly, allowing agents to keep in contact with one another.
 

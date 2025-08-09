@@ -72,17 +72,17 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "wisdom": !!int "9"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened)"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "13"
 "traits":
   - "desc": "The seer can move through other creatures and objects as if they were\
-      \ difficult terrain, and its movement doesn't provoke [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack).\n\
+      \ difficult terrain, and its movement doesn't provoke [opportunity attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack).\n\
       \nEach creature it moves through takes 5 (d10) psychic damage; no creature can\
       \ take this damage more than once per turn.\n\nThe seer takes 5 (d10) force\
       \ damage if it ends its turn inside an object."
@@ -93,7 +93,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "desc": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 10\
       \ (1d8 + 6) bludgeoning damage plus 18 (4d8) psychic damage, and if the target\
       \ is a creature, it must succeed on a DC 19 Constitution saving throw or be\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until the end\
+      \ [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) until the end\
       \ of its next turn."
     "name": "Comet Staff"
   - "desc": "Ranged Spell Attack: +11 to hit, range 120 feet, one creature. Hit:\
@@ -116,7 +116,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/star-spawn-seer-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/star-spawn-seer-mpmm.webp"
 ```
 ^statblock
 

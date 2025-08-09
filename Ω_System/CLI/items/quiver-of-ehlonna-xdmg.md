@@ -14,11 +14,11 @@ modified: 2025-07-23 12:39
 ---
 # Quiver of Ehlonna
 *Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/quiver-of-ehlonna.webp#right)
+![](/03_Mechanics/CLI/items/img/quiver-of-ehlonna.webp#right)
 
 - **Weight**: 2.0 lbs.
 
-Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 [Arrows](/3-Mechanics/CLI/items/arrow-xphb.md), [Bolts](/3-Mechanics/CLI/items/bolt-xphb.md), or similar objects. The midsize compartment holds up to 18 [Javelins](/3-Mechanics/CLI/items/javelin-xphb.md) or similar objects. The longest compartment holds up to 6 long objects, such as bows, [Quarterstaff's](/3-Mechanics/CLI/items/quarterstaff-xphb.md), or [Spears](/3-Mechanics/CLI/items/spear-xphb.md).
+Each of the quiver's three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 2 pounds. The shortest compartment can hold up to 60 [Arrows](/03_Mechanics/CLI/items/arrow-xphb.md), [Bolts](/03_Mechanics/CLI/items/bolt-xphb.md), or similar objects. The midsize compartment holds up to 18 [Javelins](/03_Mechanics/CLI/items/javelin-xphb.md) or similar objects. The longest compartment holds up to 6 long objects, such as bows, [Quarterstaff's](/03_Mechanics/CLI/items/quarterstaff-xphb.md), or [Spears](/03_Mechanics/CLI/items/spear-xphb.md).
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 

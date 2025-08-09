@@ -47,7 +47,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
@@ -66,8 +66,8 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5\
       \ (1d4 + 3) piercing damage. If the target is a Large or smaller creature, it\
-      \ is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until\
-      \ this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+      \ is [grappled](/03_Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until\
+      \ this grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
       \ and the choker can't use this tentacle on another target. The choker has two\
       \ tentacles. If this attack is a critical hit, the target also can't breathe\
       \ or speak until the grapple ends."
@@ -75,7 +75,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp"
 ```
 ^statblock
 

@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md "XPHB") as cantrip, at class level 3
+- [Elementalism](/03_Mechanics/CLI/spells/elementalism-xphb.md "XPHB") as cantrip, at class level 3

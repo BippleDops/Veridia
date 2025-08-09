@@ -40,11 +40,11 @@ Some brooms of animated attack allow their creators to ride them, in which case 
   - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded), [charmed](/03_Mechanics/CLI/conditions.md#Charmed),\
+  \ [deafened](/03_Mechanics/CLI/conditions.md#Deafened), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone)"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
@@ -54,11 +54,11 @@ Some brooms of animated attack allow their creators to ride them, in which case 
       \ points. An animated object reduced to 0 hit points becomes inanimate and is\
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
-  - "desc": "The broom is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
-      \ If targeted by [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+  - "desc": "The broom is [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md),\
       \ the broom must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ spell save DC or fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the broom remains motionless and isn't flying, it is indistinguishable\
@@ -78,6 +78,6 @@ Some brooms of animated attack allow their creators to ride them, in which case 
     "name": "Animated Attack"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/broom-of-animated-attack-cos.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/broom-of-animated-attack-cos.webp"
 ```
 ^statblock

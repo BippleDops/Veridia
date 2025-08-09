@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
+- [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md "XPHB")

@@ -20,7 +20,7 @@ The largest of the githyanki ships, the planar raider serves as a mobile headqua
 
 ```ad-statblock
 title: Planar Raider
-![](/3-Mechanics/CLI/vehicles/token/planar-raider-mtf.webp#token)
+![](/03_Mechanics/CLI/vehicles/token/planar-raider-mtf.webp#token)
 *Huge vehicle (120 ft. by 40 ft.); air*
 
 - **Creature Capacity** 10 crew, 100 passengers

@@ -20,7 +20,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Owl (XMM)"
@@ -42,9 +42,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic, radiant"
 "senses": "darkvision 120 ft., passive Perception 16"
@@ -59,12 +59,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Talons"
   - "desc": "The owl casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability:\n\nAt will: [Detect Evil\
-      \ and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\
-      \n1/day: [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md)"
+      \ and Good](/03_Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [Detect Magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md)\n\
+      \n1/day: [Clairvoyance](/03_Mechanics/CLI/spells/clairvoyance-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-owl-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/celestial/token/giant-owl-xmm.webp"
 ```
 ^statblock
 

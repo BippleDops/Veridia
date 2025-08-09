@@ -43,19 +43,19 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
   - "intelligence": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
     "desc": "+9"
 "senses": "passive Perception 21"
 "languages": "Common, Giant"
 "cr": "11"
 "traits":
-  - "desc": "The giant can cast the [control weather](/3-Mechanics/CLI/spells/control-weather-xphb.md)\
+  - "desc": "The giant can cast the [control weather](/03_Mechanics/CLI/spells/control-weather-xphb.md)\
       \ spell, requiring no material components and using Charisma as the spellcasting\
       \ ability."
     "name": "Control Weather (8th-level Spell)"
@@ -75,13 +75,13 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
     "name": "Change Shape"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt\
-      \ will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog\
-      \ cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n3/day\
-      \ each: [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [silent\
-      \ image](/3-Mechanics/CLI/spells/silent-image-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md),\
-      \ [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\n1/day each: [gaseous\
-      \ form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md)"
+      \ will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md), [fog\
+      \ cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md), [light](/03_Mechanics/CLI/spells/light-xphb.md),\
+      \ [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n3/day\
+      \ each: [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [silent\
+      \ image](/03_Mechanics/CLI/spells/silent-image-xphb.md), [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md),\
+      \ [tongues](/03_Mechanics/CLI/spells/tongues-xphb.md)\n\n1/day each: [gaseous\
+      \ form](/03_Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/03_Mechanics/CLI/spells/major-image-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The giant teleports, along with any equipment it is wearing or carrying,\
@@ -90,7 +90,7 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp"
 ```
 ^statblock
 

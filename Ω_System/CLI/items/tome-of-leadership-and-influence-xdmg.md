@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 ---
 # Tome of Leadership and Influence
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/tome-of-leadership-and-influence.webp#right)
+![](/03_Mechanics/CLI/items/img/tome-of-leadership-and-influence.webp#right)
 
 - **Weight**: 5.0 lbs.
 

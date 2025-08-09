@@ -34,7 +34,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Autumn Eladrin (MPMM)"
@@ -56,9 +56,9 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](/03_Mechanics/CLI/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "[Medicine](/03_Mechanics/CLI/skills.md#Medicine)"
     "desc": "+7"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 13"
@@ -67,10 +67,10 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the eladrin for 1 minute.\
+      \ [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the eladrin for 1 minute.\
       \ On a successful save, the creature becomes immune to any eladrin's Enchanting\
-      \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ creature, the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) creature can\
+      \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ creature, the [charmed](/03_Mechanics/CLI/conditions.md#Charmed) creature can\
       \ repeat the saving throw, ending the effect on itself on a success."
     "name": "Enchanting Presence"
   - "desc": "The eladrin has advantage on saving throws against spells and other magical\
@@ -89,18 +89,18 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n\
-      2/day each: [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) (as\
-      \ a 5th-level spell), [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\n\
-      \n1/day each: [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-      \ [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md)"
+      \nAt will: [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md)\n\n\
+      2/day each: [cure wounds](/03_Mechanics/CLI/spells/cure-wounds-xphb.md) (as\
+      \ a 5th-level spell), [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md)\n\
+      \n1/day each: [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [revivify](/03_Mechanics/CLI/spells/revivify-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
       \ up to 30 feet to an unoccupied space it can see."
     "name": "Fey Step (Recharge 4-6)"
 "reactions":
-  - "desc": "If a creature [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the\
+  - "desc": "If a creature [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the\
       \ eladrin hits with an attack roll while within 60 feet of the eladrin, the\
       \ eladrin magically causes the attack to miss, provided the eladrin can see\
       \ the attacker."
@@ -108,7 +108,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/autumn-eladrin-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/autumn-eladrin-mpmm.webp"
 ```
 ^statblock
 

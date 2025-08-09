@@ -16,10 +16,10 @@ modified: 2025-07-23 12:39
 ---
 # Pike
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/pike.webp#right)
+![](/03_Mechanics/CLI/items/img/pike.webp#right)
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/03_Mechanics/CLI/item-properties.md#Heavy), [Reach](/03_Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 5 gp
 - **Weight**: 18.0 lbs.
 

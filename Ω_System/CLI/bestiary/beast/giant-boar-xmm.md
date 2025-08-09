@@ -20,7 +20,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Boar (XMM)"
@@ -45,18 +45,18 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The boar has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on melee attack rolls while it is [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+  - "desc": "The boar has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ on melee attack rolls while it is [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md)."
     "name": "Bloodied Fury"
 "actions":
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
       \ If the target is a Large or smaller creature and the boar moved 20+ feet straight\
       \ toward it immediately before the hit, the target takes an extra 7 (2d6) Piercing\
-      \ damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition."
     "name": "Gore"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-boar-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/giant-boar-xmm.webp"
 ```
 ^statblock
 

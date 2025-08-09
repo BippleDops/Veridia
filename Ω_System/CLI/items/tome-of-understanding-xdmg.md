@@ -14,7 +14,7 @@ modified: 2025-07-23 12:39
 ---
 # Tome of Understanding
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/tome-of-understanding.webp#right)
+![](/03_Mechanics/CLI/items/img/tome-of-understanding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

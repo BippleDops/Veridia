@@ -58,27 +58,27 @@ These golems obey their creators' orders and protect what their makers value mos
 "speed": "20 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common plus one other language"
 "cr": "9"
 "traits":
   - "desc": "Whenever the golem is subjected to Acid damage, it takes no damage and\
-      \ instead regains a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ instead regains a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ equal to the Acid damage dealt."
     "name": "Acid Absorption"
-  - "desc": "Whenever the golem starts its turn [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+  - "desc": "Whenever the golem starts its turn [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md),\
       \ roll d6. On a 6, the golem goes berserk. On each of its turns while berserk,\
       \ the golem attacks the nearest creature it can see. If no creature is near\
       \ enough to move to and attack, the golem attacks an object. Once the golem\
       \ goes berserk, it continues to be berserk until it is destroyed or it is no\
-      \ longer [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md)."
+      \ longer [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md)."
     "name": "Berserk"
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -86,7 +86,7 @@ These golems obey their creators' orders and protect what their makers value mos
       \ used Hasten this turn."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 10 (1d10 + 5) Bludgeoning\
-      \ damage plus 6 (d12) Acid damage, and the target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ damage plus 6 (d12) Acid damage, and the target's [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)\
       \ maximum decreases by an amount equal to the Acid damage taken."
     "name": "Slam"
 "bonus_actions":
@@ -94,7 +94,7 @@ These golems obey their creators' orders and protect what their makers value mos
     "name": "Hasten (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/clay-golem-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/clay-golem-xmm.webp"
 ```
 ^statblock
 

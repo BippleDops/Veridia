@@ -16,19 +16,19 @@ modified: 2025-07-23 12:39
 
 | Container | Capacity |
 |-----------|----------|
-| [Backpack](/3-Mechanics/CLI/items/backpack-xphb.md)* | 1 cubic foot/30 pounds of gear |
-| [Barrel](/3-Mechanics/CLI/items/barrel-xphb.md) | 40 gallons liquid, 4 cubic feet solid |
-| [Basket](/3-Mechanics/CLI/items/basket-xphb.md) | 2 cubic feet/40 pounds of gear |
-| [Bottle](/3-Mechanics/CLI/items/glass-bottle-xphb.md) | 1½ pints liquid |
-| [Bucket](/3-Mechanics/CLI/items/bucket-xphb.md) | 3 gallons liquid, 1/2 cubic foot solid |
-| [Chest](/3-Mechanics/CLI/items/chest-xphb.md) | 12 cubic feet/300 pounds of gear |
-| [Flask](/3-Mechanics/CLI/items/flask-xphb.md) or [tankard](/3-Mechanics/CLI/items/tankard.md) | 1 pint liquid |
-| [Jug](/3-Mechanics/CLI/items/jug-xphb.md) or [pitcher](/3-Mechanics/CLI/items/pitcher.md) | 1 gallon liquid |
-| [Pot, iron](/3-Mechanics/CLI/items/iron-pot-xphb.md) | 1 gallon liquid |
-| [Pouch](/3-Mechanics/CLI/items/pouch-xphb.md) | 1/5 cubic foot/6 pounds of gear |
-| [Sack](/3-Mechanics/CLI/items/sack-xphb.md) | 1 cubic foot/30 pounds of gear |
-| [Vial](/3-Mechanics/CLI/items/vial-xphb.md) | 4 ounces liquid |
-| [Waterskin](/3-Mechanics/CLI/items/waterskin-xphb.md) | 4 pints liquid |
+| [Backpack](/03_Mechanics/CLI/items/backpack-xphb.md)* | 1 cubic foot/30 pounds of gear |
+| [Barrel](/03_Mechanics/CLI/items/barrel-xphb.md) | 40 gallons liquid, 4 cubic feet solid |
+| [Basket](/03_Mechanics/CLI/items/basket-xphb.md) | 2 cubic feet/40 pounds of gear |
+| [Bottle](/03_Mechanics/CLI/items/glass-bottle-xphb.md) | 1½ pints liquid |
+| [Bucket](/03_Mechanics/CLI/items/bucket-xphb.md) | 3 gallons liquid, 1/2 cubic foot solid |
+| [Chest](/03_Mechanics/CLI/items/chest-xphb.md) | 12 cubic feet/300 pounds of gear |
+| [Flask](/03_Mechanics/CLI/items/flask-xphb.md) or [tankard](/03_Mechanics/CLI/items/tankard.md) | 1 pint liquid |
+| [Jug](/03_Mechanics/CLI/items/jug-xphb.md) or [pitcher](/03_Mechanics/CLI/items/pitcher.md) | 1 gallon liquid |
+| [Pot, iron](/03_Mechanics/CLI/items/iron-pot-xphb.md) | 1 gallon liquid |
+| [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) | 1/5 cubic foot/6 pounds of gear |
+| [Sack](/03_Mechanics/CLI/items/sack-xphb.md) | 1 cubic foot/30 pounds of gear |
+| [Vial](/03_Mechanics/CLI/items/vial-xphb.md) | 4 ounces liquid |
+| [Waterskin](/03_Mechanics/CLI/items/waterskin-xphb.md) | 4 pints liquid |
 ^container-capacity
 
 * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.

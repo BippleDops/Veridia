@@ -24,10 +24,10 @@ A character needs to be proficient with the tools needed to craft an item and ha
 
 | Proficiency | Items |
 |-------------|-------|
-| [Herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md) | Antitoxin, [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) |
-| [Leatherworker's tools](/3-Mechanics/CLI/items/leatherworkers-tools-xphb.md) | Leather armor, boots |
-| [Smith's tools](/3-Mechanics/CLI/items/smiths-tools-xphb.md) | Armor, weapons |
-| [Weaver's tools](/3-Mechanics/CLI/items/weavers-tools-xphb.md) | Cloaks, robes |
+| [Herbalism kit](/03_Mechanics/CLI/items/herbalism-kit-xphb.md) | Antitoxin, [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) |
+| [Leatherworker's tools](/03_Mechanics/CLI/items/leatherworkers-tools-xphb.md) | Leather armor, boots |
+| [Smith's tools](/03_Mechanics/CLI/items/smiths-tools-xphb.md) | Armor, weapons |
+| [Weaver's tools](/03_Mechanics/CLI/items/weavers-tools-xphb.md) | Cloaks, robes |
 ^proficiency-items
 
 If all the above requirements are met, the result of the process is an item of the desired sort. A character can sell an item crafted in this way at its listed price.
@@ -36,7 +36,7 @@ If all the above requirements are met, the result of the process is an item of t
 
 Creating a magic item requires more than just time, effort, and materials. It is a long-term process that involves one or more adventures to track down rare materials and the lore needed to create the item.
 
-Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [Spell Scroll](/3-Mechanics/CLI/items/spell-scroll-xdmg.md)" section, below.
+Potions of healing and spell scrolls are exceptions to the following rules. For more information, see "Brewing Potions of Healing" later in this section and the "Scribing a [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md)" section, below.
 
 To start with, a character needs a formula for a magic item in order to create it. The formula is like a recipe. It lists the materials needed and steps required to make the item.
 
@@ -55,13 +55,13 @@ The Magic Item Ingredients table suggests the challenge rating of a creature tha
 | Legendary | 19+ |
 ^magic-item-ingredients
 
-If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating [mariner's armor](/3-Mechanics/CLI/items/mariners-armor-xdmg.md) might require the essence of a water weird. Crafting a [staff of charming](/3-Mechanics/CLI/items/staff-of-charming-xdmg.md) might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [staff of power](/3-Mechanics/CLI/items/staff-of-power-xdmg.md) might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
+If appropriate, pick a monster or a location that is a thematic fit for the item to be crafted. For example, creating [mariner's armor](/03_Mechanics/CLI/items/mariners-armor-xdmg.md) might require the essence of a water weird. Crafting a [staff of charming](/03_Mechanics/CLI/items/staff-of-charming-xdmg.md) might require the cooperation of a specific arcanaloth, who will help only if the characters complete a task for it. Making a [staff of power](/03_Mechanics/CLI/items/staff-of-power-xdmg.md) might hinge on acquiring a piece of an ancient stone that was once touched by the god of magic—a stone now guarded by a suspicious androsphinx.
 
 In addition to facing a specific creature, creating an item comes with a gold piece cost covering other materials, tools, and so on, based on the item's rarity. Those values, as well as the time a character needs to work in order to complete the item, are shown on the Magic Item Crafting Time and Cost table. Halve the listed price and creation time for any consumable items.
 
-![Crafting Magic Items; Magic Item Crafting Time and Cost](/3-Mechanics/CLI/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge.md)
+![Crafting Magic Items; Magic Item Crafting Time and Cost](/03_Mechanics/CLI/tables/crafting-magic-items-magic-item-crafting-time-and-cost-xge.md)
 
-To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill.
+To complete a magic item, a character also needs whatever tool proficiency is appropriate, as for crafting a nonmagical object, or proficiency in the [Arcana](/03_Mechanics/CLI/skills.md#Arcana) skill.
 
 If all the above requirements are met, the result of the process is a magic item of the desired sort.
 
@@ -69,11 +69,11 @@ If all the above requirements are met, the result of the process is a magic item
 
 Most of the complications involved in creating something, especially a magic item, are linked to the difficulty in finding rare ingredients or components needed to complete the work. The complications a character might face as byproducts of the creation process are most interesting when the characters are working on a magic item: there's a 10 percent chance for every five workweeks spent on crafting an item that a complication occurs. The Crafting Complications table provides examples of what might happen.
 
-![Crafting Complications](/3-Mechanics/CLI/tables/crafting-complications-xge.md)
+![Crafting Complications](/03_Mechanics/CLI/tables/crafting-complications-xge.md)
 
 ## Brewing Potions of Healing
 
-Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md) can create these potions. The times and costs for doing so are summarized on the [Potion of Healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) Creation table.
+Potions of healing fall into a special category for item crafting, separate from other magic items. A character who has proficiency with the [herbalism kit](/03_Mechanics/CLI/items/herbalism-kit-xphb.md) can create these potions. The times and costs for doing so are summarized on the [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) Creation table.
 
 **Potion of Healing Creation**
 

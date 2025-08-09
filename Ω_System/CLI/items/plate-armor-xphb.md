@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Plate Armor
 *Heavy armor*  
-![](/3-Mechanics/CLI/items/img/plate-armor.webp#right)
+![](/03_Mechanics/CLI/items/img/plate-armor.webp#right)
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

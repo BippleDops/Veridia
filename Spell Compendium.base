@@ -53,7 +53,7 @@ views:
     name: By Level
     filters:
       and:
-        - inFolder("3-Mechanics/CLI/spells")
+        - path includes "CLI/spells"
     order:
       - formula.SchoolIcon
       - formula.ClassList
@@ -102,7 +102,7 @@ views:
     name: By Class
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/spells")
+        - path includes "CLI/spells"
         - classes.contains("{{class}}")
     order:
       - formula.LevelIndicator
@@ -134,7 +134,7 @@ views:
     name: Ritual Spells
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/spells")
+        - path includes "CLI/spells"
         - ritual
     order:
       - formula.LevelIndicator
@@ -151,7 +151,7 @@ views:
     name: Concentration Spells
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/spells")
+        - path includes "CLI/spells"
         - concentration
     order:
       - formula.LevelIndicator
@@ -169,7 +169,7 @@ views:
     name: Spell Search
     filters:
       and:
-        - path.includes("3-Mechanics/CLI/spells")
+        - path includes "CLI/spells"
     searchProperties:
       - file.name
       - description

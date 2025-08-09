@@ -41,7 +41,7 @@ aliases:
   - !!int "7"
 "speed": "30 ft., burrow 20 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 12"

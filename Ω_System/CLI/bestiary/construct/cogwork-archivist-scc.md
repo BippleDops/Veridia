@@ -36,20 +36,20 @@ Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archiv
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+5"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](/03_Mechanics/CLI/skills.md#Nature)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "all"
 "cr": "4"
@@ -61,17 +61,17 @@ Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archiv
   - "desc": "The archivist makes two Grasping Limb attacks."
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 13\
-      \ (2d8 + 4) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 14). The archivist can have no more than two targets [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (2d8 + 4) bludgeoning damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
+      \ (escape DC 14). The archivist can have no more than two targets [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ at a time."
     "name": "Grasping Limb"
   - "desc": "The archivist casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability:\n\nAt will:\
-      \ [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n2/day: [silence](/3-Mechanics/CLI/spells/silence-xphb.md)"
+      \ [dancing lights](/03_Mechanics/CLI/spells/dancing-lights-xphb.md), [prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n2/day: [silence](/03_Mechanics/CLI/spells/silence-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SCC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/cogwork-archivist-scc.webp"
 ```
 ^statblock

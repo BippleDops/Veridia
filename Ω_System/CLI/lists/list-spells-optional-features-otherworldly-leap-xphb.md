@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 1st Level
 
-- [Jump](/3-Mechanics/CLI/spells/jump-xphb.md "XPHB")
+- [Jump](/03_Mechanics/CLI/spells/jump-xphb.md "XPHB")

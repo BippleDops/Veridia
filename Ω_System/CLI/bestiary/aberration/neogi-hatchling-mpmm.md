@@ -50,8 +50,8 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "languages": ""
 "cr": "1/8"
 "traits":
-  - "desc": "The neogi has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and magic can't\
+  - "desc": "The neogi has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed)\
+      \ or [frightened](/03_Mechanics/CLI/conditions.md#Frightened), and magic can't\
       \ put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -60,14 +60,14 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "actions":
   - "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4\
       \ + 1) piercing damage plus 3 (d6) poison damage, and the target must succeed\
-      \ on a DC 10 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 10 Constitution saving throw or become [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/neogi-hatchling-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/neogi-hatchling-mpmm.webp"
 ```
 ^statblock
 

@@ -27,7 +27,7 @@ aliases:
 
 Sprites dwell in mystical forests touched by the magic of the Feywild, living peacefully with most other Fey and friends of nature. These foot-tall spirits of nature resemble elves with exaggerated, whimsical features and gossamer wings.
 
-Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [invisible](/3-Mechanics/CLI/conditions.md#Invisible) sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
+Sprites can sense the innate goodness or wickedness of other creatures. Those that enter their realms with good intentions might be treated to tiny feasts and celebrations. The wicked face nasty tricks and bold ambushes at the hands of [invisible](/03_Mechanics/CLI/conditions.md#Invisible) sprite defenders. These woodland guardians enchant the arrows of their tiny bows with charming magic that can pierce the heart of the fiercest foe.
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 
@@ -54,9 +54,9 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
   - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+8"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
@@ -65,21 +65,21 @@ Sprites oppose any creatures that seek to harm places of natural magic and beaut
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 6 (1d4 + 4) Piercing damage."
     "name": "Needle Sword"
   - "desc": "Ranged Attack Roll: +6, range 40/160 ft. Hit: 1 Piercing damage,\
-      \ and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition\
+      \ and the target has the [Charmed](/03_Mechanics/CLI/conditions.md#Charmed) condition\
       \ until the start of the sprite's next turn."
     "name": "Enchanting Bow"
   - "desc": "Charisma Saving Throw: DC 10, one creature within 5 feet the sprite\
       \ can see (Celestials, Fiends, and Undead automatically fail the save). Failure:\
       \ The sprite knows the target's emotions and alignment."
     "name": "Heart Sight"
-  - "desc": "The sprite casts [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
+  - "desc": "The sprite casts [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)\
       \ on itself, requiring no spell components and using Charisma as the spellcasting\
       \ ability.\n"
     "name": "Invisibility"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/sprite-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/sprite-xmm.webp"
 ```
 ^statblock
 

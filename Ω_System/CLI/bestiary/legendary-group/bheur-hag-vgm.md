@@ -24,7 +24,7 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 
 A powerful bheur hag might have the following additional lair action:
 
-- The hag creates a blizzard in a 40-foot-high, 20-foot radius cylinder centered on a point she can see within 120 feet of her. The effect lasts until initiative count 20 on the next round. The blizzard lightly obscures every creature and object in the area for the duration. A creature that enters the blizzard for the first time on a turn or starts its turn there is [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until initiative count 20 on the next round.  
+- The hag creates a blizzard in a 40-foot-high, 20-foot radius cylinder centered on a point she can see within 120 feet of her. The effect lasts until initiative count 20 on the next round. The blizzard lightly obscures every creature and object in the area for the duration. A creature that enters the blizzard for the first time on a turn or starts its turn there is [blinded](/03_Mechanics/CLI/conditions.md#Blinded) until initiative count 20 on the next round.  
 
 ## Regional effects
 _Source: Volo's Guide to Monsters_
@@ -34,12 +34,12 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful bheur hag creates one or more of the following additional regional effects within 1 mile of her lair:
 
-- Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) and has to hold its breath until it is dug out.  
+- Small avalanches of snow intermittently fall, blocking a path or burying intruders. A buried creature is [restrained](/03_Mechanics/CLI/conditions.md#Restrained) and has to hold its breath until it is dug out.  
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
 - Blizzards come without warning. A blizzard occurs once every `2d12` hours and lasts `d3` hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.

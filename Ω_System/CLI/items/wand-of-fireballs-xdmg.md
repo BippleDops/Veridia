@@ -16,11 +16,11 @@ modified: 2025-07-23 12:39
 ---
 # Wand of Fireballs
 *Wand, rare (requires attunement by a spellcaster)*  
-![](/3-Mechanics/CLI/items/img/wand-of-fireballs.webp#right)
+![](/03_Mechanics/CLI/items/img/wand-of-fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
+This wand has 7 charges. While holding it, you can expend no more than 3 charges to cast [Fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) (save DC 15) from it. For 1 charge, you cast the level 3 version of the spell. You can increase the spell's level by 1 for each additional charge you expend.
 
 ## Regaining Charges
 

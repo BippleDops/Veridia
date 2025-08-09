@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 # Electrum (ep)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/electrum-ep.webp#right)
+![](/03_Mechanics/CLI/items/img/electrum-ep.webp#right)
 
 - **Cost**: 5 sp
 - **Weight**: 0.02 lbs.

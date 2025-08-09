@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 15, Pact of the Chain
 
-You can cast [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast [hold monster](/03_Mechanics/CLI/spells/hold-monster-xphb.md) at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.

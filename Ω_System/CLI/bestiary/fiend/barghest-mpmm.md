@@ -47,18 +47,18 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
   - !!int "14"
 "speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"
@@ -86,10 +86,10 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md), [minor\
-      \ illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md), [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)\n\
-      \n1/day each: [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+      \nAt will: [levitate](/03_Mechanics/CLI/spells/levitate-xphb.md), [minor\
+      \ illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md), [pass without trace](/03_Mechanics/CLI/spells/pass-without-trace-xphb.md)\n\
+      \n1/day each: [charm person](/03_Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](/03_Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barghest transforms into a Small goblin or back into its true form.\
@@ -100,7 +100,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp"
 ```
 ^statblock
 

@@ -21,7 +21,7 @@ aliases:
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/03_Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Lion (XMM)"
@@ -41,20 +41,20 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "8"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The lion has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The lion has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the lion's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "With a 10-foot running start, the lion can [Long Jump](/3-Mechanics/CLI/variant-rules/long-jump-xphb.md)\
+  - "desc": "With a 10-foot running start, the lion can [Long Jump](/03_Mechanics/CLI/variant-rules/long-jump-xphb.md)\
       \ up to 25 feet."
     "name": "Running Leap"
 "actions":
@@ -64,13 +64,13 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Slashing damage."
     "name": "Rend"
   - "desc": "Wisdom Saving Throw: DC 11, one creature within 15 feet. Failure:\
-      \ The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ The target has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened)\
       \ condition until the start of the lion's next turn."
     "name": "Roar"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/lion-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/lion-xmm.webp"
 ```
 ^statblock
 

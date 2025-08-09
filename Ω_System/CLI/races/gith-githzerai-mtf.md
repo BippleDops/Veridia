@@ -39,13 +39,13 @@ Githzerai tend toward lawful neutral. Their rigorous training in psychic abiliti
 
 ### Mental Discipline
 
-You have advantage on saving throws against the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
+You have advantage on saving throws against the [charmed](/03_Mechanics/CLI/conditions.md#Charmed) and [frightened](/03_Mechanics/CLI/conditions.md#Frightened) conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
 
 ### Githzerai Psionics
 
-You know the [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip, and the hand is [invisible](/3-Mechanics/CLI/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) cantrip, and the hand is [invisible](/03_Mechanics/CLI/conditions.md#Invisible) when you cast the cantrip with this trait.
 
-When you reach 3rd level, you can cast [shield](/3-Mechanics/CLI/spells/shield-xphb.md) once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell once with this trait, and you regain the ability to do so when you finish a long rest.
+When you reach 3rd level, you can cast [shield](/03_Mechanics/CLI/spells/shield-xphb.md) once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [detect thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md) spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
 Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
 

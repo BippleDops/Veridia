@@ -18,12 +18,12 @@ Whenever you use your Unarmed Strike, choose one of the following options for it
 
 ## Damage
 
-You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md). On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md). On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
 
 ## Grapple
 
-The target must succeed on a Strength or Dexterity [saving throw](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) (it chooses which), or it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition. The DC for the [saving throw](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) and any escape attempts equals 8 plus your Strength modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md). This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+The target must succeed on a Strength or Dexterity [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) (it chooses which), or it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) condition. The DC for the [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) and any escape attempts equals 8 plus your Strength modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md). This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 
 ## Shove
 
-The target must succeed on a Strength or Dexterity [saving throw](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) (it chooses which), or you either push it 5 feet away or cause it to have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. The DC for the [saving throw](/3-Mechanics/CLI/variant-rules/saving-throw-xphb.md) equals 8 plus your Strength modifier and [Proficiency Bonus](/3-Mechanics/CLI/variant-rules/proficiency-xphb.md). This shove is possible only if the target is no more than one size larger than you.
+The target must succeed on a Strength or Dexterity [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) (it chooses which), or you either push it 5 feet away or cause it to have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition. The DC for the [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) equals 8 plus your Strength modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md). This shove is possible only if the target is no more than one size larger than you.

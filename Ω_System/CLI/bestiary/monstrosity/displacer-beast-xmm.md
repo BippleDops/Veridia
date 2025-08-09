@@ -58,19 +58,19 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
   - "desc": "If the displacer beast is subjected to an effect that allows it to make\
       \ a saving throw to take only half damage, it instead takes no damage if it\
       \ succeeds on the save and half damage if it fails. It can't use this trait\
-      \ if it has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ if it has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Avoidance"
-  - "desc": "Attack rolls against the displacer beast have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md),\
+  - "desc": "Attack rolls against the displacer beast have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md),\
       \ since it projects an illusion that makes it appear to be near its actual location.\
-      \ This trait is suppressed while the displacer beast has the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ This trait is suppressed while the displacer beast has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated)\
       \ condition."
     "name": "Displacement"
 "actions":
   - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 feet. Hit: 9 (1d10 + 4) Slashing damage.\
-      \ If target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ If target is a Large or smaller creature, it has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Rend"
   - "desc": "Melee Attack Roll: +6, reach 10 feet. Hit: 11 (2d6 + 4) Piercing\
@@ -78,7 +78,7 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
     "name": "Tentacle"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/displacer-beast-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/displacer-beast-xmm.webp"
 ```
 ^statblock
 

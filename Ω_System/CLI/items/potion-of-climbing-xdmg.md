@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain a [Climb Speed](/3-Mechanics/CLI/variant-rules/climb-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) for 1 hour. During this time, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) checks to climb.
+When you drink this potion, you gain a [Climb Speed](/03_Mechanics/CLI/variant-rules/climb-speed-xphb.md) equal to your [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) for 1 hour. During this time, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) checks to climb.
 
 This potion is separated into brown, silver, and gray layers resembling bands of stone. Shaking the bottle fails to mix the colors.
 

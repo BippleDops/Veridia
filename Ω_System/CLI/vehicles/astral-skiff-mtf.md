@@ -20,7 +20,7 @@ An astral skiff is operated by a crew of three and carries up to a dozen passeng
 
 ```ad-statblock
 title: Astral Skiff
-![](/3-Mechanics/CLI/vehicles/token/astral-skiff-mtf.webp#token)
+![](/03_Mechanics/CLI/vehicles/token/astral-skiff-mtf.webp#token)
 *Huge vehicle (30 ft. by 10 ft.); air*
 
 - **Creature Capacity** 3 crew, 12 passengers

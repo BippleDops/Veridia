@@ -34,12 +34,12 @@ aliases:
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby (Air Only)"
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition."
     "name": "Pack Tactics (Land and Water Only)"
   - "desc": "The spirit can breathe only underwater."
     "name": "Water Breathing (Water Only)"
@@ -52,6 +52,6 @@ aliases:
     "name": "Rend"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/bestial-spirit-xphb.webp"
+"image": "/03_Mechanics/CLI/bestiary/beast/token/bestial-spirit-xphb.webp"
 ```
 ^statblock

@@ -57,9 +57,9 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal"
@@ -71,12 +71,12 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature and the minotaur moved 10+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 10\
-      \ (3d6) Piercing damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ (3d6) Piercing damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Gore (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/minotaur-of-baphomet-xmm.webp"
 ```
 ^statblock
 

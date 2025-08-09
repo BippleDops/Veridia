@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 2 Warlock
 
-You can cast [Disguise Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) without expending a spell slot.
+You can cast [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) without expending a spell slot.

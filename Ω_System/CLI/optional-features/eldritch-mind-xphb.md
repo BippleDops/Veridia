@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 # Eldritch Mind
 *Source: Player's Handbook (2024) p. 155*  
 
-You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Constitution saving throws that you make to maintain [Concentration](/3-Mechanics/CLI/conditions.md#Concentration).
+You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Constitution saving throws that you make to maintain [Concentration](/03_Mechanics/CLI/conditions.md#Concentration).

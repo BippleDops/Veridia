@@ -42,9 +42,9 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "speed": "30 ft."
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages but can't speak"
 "cr": "14"
@@ -62,13 +62,13 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
     "name": "Slam"
   - "desc": "The collector releases paralyzing gas in a 30-foot cone. Each creature\
       \ in that area must make a successful DC 18 Constitution saving throw or be\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed)\
       \ creature repeats the saving throw at the end of each of its turns, ending\
       \ the effect on itself with a success."
     "name": "Paralyzing Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The collector calls up the enslaved spirits of those it has slain; d4\
-      \ [specters](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md) (without Sunlight\
+      \ [specters](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md) (without Sunlight\
       \ Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters\
       \ act right after the collector on the same initiative count and fight until\
       \ they're destroyed. They disappear when the collector is destroyed."
@@ -76,7 +76,7 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/cadaver-collector-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/cadaver-collector-mpmm.webp"
 ```
 ^statblock
 

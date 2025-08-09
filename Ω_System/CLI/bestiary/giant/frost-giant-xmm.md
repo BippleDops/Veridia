@@ -55,9 +55,9 @@ Frost giants often travel far to find food and goods. This leads many to become 
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](/03_Mechanics/CLI/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "cold"
 "senses": "passive Perception 13"
@@ -70,18 +70,18 @@ Frost giants often travel far to find food and goods. This leads many to become 
       \ plus 9 (2d8) Cold damage."
     "name": "Frost Axe"
   - "desc": "Ranged Attack Roll: +9, range 150/600 ft. Hit: 17 (2d10 + 6) Piercing\
-      \ damage plus 7 (2d6) Cold damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+      \ damage plus 7 (2d6) Cold damage, and the target's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md)\
       \ decreases by 10 feet until the end of its next turn."
     "name": "Great Bow"
 "bonus_actions":
   - "desc": "The giant or one creature of its choice that can see or hear it gains\
-      \ 16 (2d10 + 5) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ and has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
+      \ 16 (2d10 + 5) [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
+      \ and has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
       \ rolls until the start of the giant's next turn."
     "name": "War Cry (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/giant/token/frost-giant-xmm.webp"
 ```
 ^statblock
 

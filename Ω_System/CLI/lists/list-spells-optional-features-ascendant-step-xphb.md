@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md "XPHB")
+- [Levitate](/03_Mechanics/CLI/spells/levitate-xphb.md "XPHB")

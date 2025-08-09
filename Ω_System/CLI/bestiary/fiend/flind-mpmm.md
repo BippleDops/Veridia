@@ -32,7 +32,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](/03_Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -48,15 +48,15 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](/03_Mechanics/CLI/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Gnoll, Abyssal"
 "cr": "9"
 "traits":
-  - "desc": "If the flind isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
+  - "desc": "If the flind isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated),\
       \ any creature with the Rampage trait can make a Bite attack as a bonus action\
       \ while within 10 feet of the flind."
     "name": "Aura of Blood Thirst"
@@ -76,7 +76,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
     "name": "Flail of Pain"
   - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
-      \ saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) until\
+      \ saving throw or be [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) until\
       \ the end of its next turn."
     "name": "Flail of Paralysis"
   - "desc": "Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit:\
@@ -85,7 +85,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp"
 ```
 ^statblock
 

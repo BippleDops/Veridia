@@ -49,7 +49,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Draconic but can't speak"
@@ -66,7 +66,7 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 "source":
   - "MPMM"
   - "HotDQ"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/guard-drake-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/dragon/token/guard-drake-mpmm.webp"
 ```
 ^statblock
 

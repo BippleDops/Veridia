@@ -48,8 +48,8 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "speed": "40 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": "Abyssal, telepathy 60 ft."
 "cr": "3"
@@ -62,14 +62,14 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "The bulezau has advantage on Strength and Dexterity saving throws made\
-      \ against effects that would knock it [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ against effects that would knock it [prone](/03_Mechanics/CLI/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12\
       \ + 2) piercing damage plus 4 (d8) necrotic damage. If the target is a creature,\
       \ it must succeed on a DC 13 Constitution saving throw against disease or become\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the disease ends.\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the\
+      \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) until the disease ends.\
+      \ While [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) in this way, the\
       \ target sports festering boils, coughs up flies, and sheds rotting skin, and\
       \ the target must repeat the saving throw after every 24 hours that elapse.\
       \ On a successful save, the disease ends. On a failed save, the target's hit\
@@ -79,6 +79,6 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/bulezau-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/bulezau-mpmm.webp"
 ```
 ^statblock

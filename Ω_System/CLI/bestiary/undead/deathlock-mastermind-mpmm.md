@@ -46,22 +46,22 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
-  - "desc": "Magical darkness doesn't impede the deathlock's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the deathlock's [darkvision](/03_Mechanics/CLI/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The deathlock has advantage on saving throws against any effect that\
       \ turns Undead."
@@ -76,23 +76,23 @@ An powerful necromancer might also discover the wicked methods of creating a dea
     "name": "Deathly Claw"
   - "desc": "Ranged Spell Attack: +6 to hit, range 120 ft., one target. Hit: 13\
       \ (3d8) necrotic damage. If the target is Large or smaller, it must succeed\
-      \ on a DC 16 Strength saving throw or become [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ as shadowy tendrils wrap around it for 1 minute. A [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ on a DC 16 Strength saving throw or become [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
+      \ as shadowy tendrils wrap around it for 1 minute. A [restrained](/03_Mechanics/CLI/conditions.md#Restrained)\
       \ target can use its action to repeat the saving throw, ending the effect on\
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\nAt will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n1/day\
-      \ each: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
+      \ spellcasting ability (spell save DC 14):\n\nAt will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](/03_Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/03_Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [minor illusion](/03_Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n1/day\
+      \ each: [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](/03_Mechanics/CLI/spells/fly-xphb.md),\
+      \ [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
 ```
 ^statblock
 

@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain 10 [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) that last for 1 hour. For the same duration, you are under the effect of the [Bless](/3-Mechanics/CLI/spells/bless-xphb.md) spell (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required).
+When you drink this potion, you gain 10 [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) that last for 1 hour. For the same duration, you are under the effect of the [Bless](/03_Mechanics/CLI/spells/bless-xphb.md) spell (no [Concentration](/03_Mechanics/CLI/conditions.md#Concentration) required).
 
 This potion's blue liquid bubbles and steams as if boiling.
 

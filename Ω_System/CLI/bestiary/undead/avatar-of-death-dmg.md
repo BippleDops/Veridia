@@ -15,7 +15,7 @@ aliases:
 # [Avatar of Death](3-Mechanics\CLI\bestiary\undead/avatar-of-death-dmg.md)
 *Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-Summoned by the "Skull" card from the [Deck of Many Things](/3-Mechanics/CLI/items/deck-of-many-things-xdmg.md).
+Summoned by the "Skull" card from the [Deck of Many Things](/03_Mechanics/CLI/items/deck-of-many-things-xdmg.md).
 
 ```statblock
 "name": "Avatar of Death (DMG)"
@@ -33,9 +33,9 @@ Summoned by the "Skull" card from the [Deck of Many Things](/3-Mechanics/CLI/ite
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [frightened](/03_Mechanics/CLI/conditions.md#Frightened),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":
@@ -51,6 +51,6 @@ Summoned by the "Skull" card from the [Deck of Many Things](/3-Mechanics/CLI/ite
     "name": "Reaping Scythe"
 "source":
   - "DMG"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/avatar-of-death-dmg.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/avatar-of-death-dmg.webp"
 ```
 ^statblock

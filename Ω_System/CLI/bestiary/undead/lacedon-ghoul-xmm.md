@@ -53,8 +53,8 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "cold"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common"
 "cr": "1"
@@ -62,22 +62,22 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - "desc": "The ghoul makes two Icy Bite attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 9 (2d6 + 2) Cold damage,\
-      \ and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
+      \ and the target's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md) decreases\
       \ by 5 feet until the start of the ghoul's next turn."
     "name": "Icy Bite"
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 4 (1d4 + 2) Slashing damage.\
       \ If the target is a creature that isn't an Undead or elf, it is subjected to\
       \ the following effect. Constitution Saving Throw: DC 10. Failure: The target\
-      \ has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition until\
+      \ has the [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed) condition until\
       \ the end of its next turn."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "While underwater, the ghoul moves up to half its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+  - "desc": "While underwater, the ghoul moves up to half its [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)."
     "name": "Watery Rush"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/lacedon-ghoul-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/lacedon-ghoul-xmm.webp"
 ```
 ^statblock
 

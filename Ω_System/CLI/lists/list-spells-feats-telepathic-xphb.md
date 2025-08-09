@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")
+- [Detect Thoughts](/03_Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB")

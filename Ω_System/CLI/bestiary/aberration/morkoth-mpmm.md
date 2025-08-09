@@ -19,7 +19,7 @@ aliases:
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [petrified](/3-Mechanics/CLI/conditions.md#Petrified) flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [petrified](/03_Mechanics/CLI/conditions.md#Petrified) body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [petrified](/03_Mechanics/CLI/conditions.md#Petrified) flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -58,13 +58,13 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](/03_Mechanics/CLI/skills.md#Arcana)"
     "desc": "+9"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](/03_Mechanics/CLI/skills.md#History)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 "languages": "telepathy 120 ft."
@@ -80,19 +80,19 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
       \ + 2) slashing damage plus 10 (3d6) psychic damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 15 ft., one target. Hit: 15\
-      \ (3d8 + 2) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (3d8 + 2) bludgeoning damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) and\
+      \ the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained) and\
       \ takes 15 (3d8 + 2) bludgeoning damage at the start of each of its turns, and\
       \ the morkoth can't use its tentacles on another target."
     "name": "Tentacles"
   - "desc": "The morkoth projects a 30-foot cone of magical energy. Each creature\
       \ in that area must make a DC 17 Wisdom saving throw. On a failed save, the\
-      \ creature is [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the morkoth\
-      \ for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed) in this\
+      \ creature is [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the morkoth\
+      \ for 1 minute. While [charmed](/03_Mechanics/CLI/conditions.md#Charmed) in this\
       \ way, the target tries to get as close to the morkoth as possible, using its\
-      \ actions to [Dash](/3-Mechanics/CLI/actions.md#Dash) until it is within 5 feet\
-      \ of the morkoth. A [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target\
+      \ actions to [Dash](/03_Mechanics/CLI/actions.md#Dash) until it is within 5 feet\
+      \ of the morkoth. A [charmed](/03_Mechanics/CLI/conditions.md#Charmed) target\
       \ can repeat the saving throw at the end of each of its turns and whenever it\
       \ takes damage, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature has advantage\
@@ -100,11 +100,11 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
     "name": "Hypnosis"
   - "desc": "The morkoth casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 17):\n\nAt will: [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n3/day each:\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
-      \ [sending](/3-Mechanics/CLI/spells/sending-xphb.md)"
+      \ DC 17):\n\nAt will: [detect magic](/03_Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md)\n\n3/day each:\
+      \ [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md), [dimension door](/03_Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md), [lightning bolt](/03_Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [sending](/03_Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If the morkoth makes a successful saving throw against a spell or a spell\
@@ -117,7 +117,7 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/morkoth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/morkoth-mpmm.webp"
 ```
 ^statblock
 

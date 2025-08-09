@@ -31,7 +31,7 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 "type": "fey"
 "alignment": "Typically  Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather armor](/03_Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "3"
@@ -44,13 +44,13 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](/03_Mechanics/CLI/skills.md#Deception)"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+7"
 "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16"
 "languages": "Elvish, Sylvan"
@@ -60,9 +60,9 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
       \ 10-foot radius as its body and possessions, other than metal or magic objects,\
       \ burn to ash. Any creature in that area must make a DC 11 Constitution saving\
       \ throw. On a failed save, the creature takes 7 (2d6) radiant damage and is\
-      \ [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until the end of its next\
+      \ [blinded](/03_Mechanics/CLI/conditions.md#Blinded) until the end of its next\
       \ turn. On a successful save, the creature takes half as much damage and isn't\
-      \ [blinded](/3-Mechanics/CLI/conditions.md#Blinded)."
+      \ [blinded](/03_Mechanics/CLI/conditions.md#Blinded)."
     "name": "Death Burn"
 "actions":
   - "desc": "The darkling elder makes two Scimitar attacks."
@@ -70,13 +70,13 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6\
       \ + 3) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Scimitar"
-  - "desc": "The darkling elder casts [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
+  - "desc": "The darkling elder casts [darkness](/03_Mechanics/CLI/spells/darkness-xphb.md),\
       \ requiring no spell components and using Wisdom as the spellcasting ability.\n"
     "name": "Darkness (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/darkling-elder-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/darkling-elder-mpmm.webp"
 ```
 ^statblock
 

@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 2nd Level
 
-- [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
+- [Hold Person](/03_Mechanics/CLI/spells/hold-person-xphb.md "XPHB")

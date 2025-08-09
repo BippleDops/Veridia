@@ -42,6 +42,6 @@ aliases:
     "name": "Bite"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/infant-basilisk-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/infant-basilisk-oota.webp"
 ```
 ^statblock

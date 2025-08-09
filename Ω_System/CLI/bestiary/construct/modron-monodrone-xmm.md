@@ -76,7 +76,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed)"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "Modron"
 "cr": "1/8"
@@ -91,7 +91,7 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
     "name": "Gear Flinger"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-monodrone-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/construct/token/modron-monodrone-xmm.webp"
 ```
 ^statblock
 

@@ -50,9 +50,9 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](/03_Mechanics/CLI/skills.md#Survival)"
     "desc": "+2"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Goblin"
@@ -62,16 +62,16 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
     "name": "Abduct"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 10 ft. Hit: 9 (2d6 + 2) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ condition (escape DC 12)."
     "name": "Grab"
-  - "desc": "Melee  or Ranged Attack Roll: +4 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
+  - "desc": "Melee  or Ranged Attack Roll: +4 (with [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) by the\
       \ bugbear), reach 10 ft. or range 20/60 ft. Hit: 9 (3d4 + 2) Bludgeoning damage."
     "name": "Light Hammer"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
 ```
 ^statblock
 

@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you can cast the level 3 version of the [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md) spell (save DC 13).
+When you drink this potion, you can cast the level 3 version of the [Animal Friendship](/03_Mechanics/CLI/spells/animal-friendship-xphb.md) spell (save DC 13).
 
 Agitating this potion's muddy liquid brings little bits into view: a fish scale, a hummingbird feather, a cat claw, or a squirrel hair.
 

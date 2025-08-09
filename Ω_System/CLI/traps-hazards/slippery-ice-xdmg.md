@@ -13,6 +13,6 @@ modified: 2025-07-23 12:39
 # Slippery Ice
 *Environmental Hazard*  
 
-Slippery ice is [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). A creature that moves onto slippery ice for the first time on a turn or starts its turn there must succeed on a DC 10 Dexterity saving throw or have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition.
+Slippery ice is [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). A creature that moves onto slippery ice for the first time on a turn or starts its turn there must succeed on a DC 10 Dexterity saving throw or have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition.
 
 *Source: Dungeon Master's Guide (2024) p. 69*

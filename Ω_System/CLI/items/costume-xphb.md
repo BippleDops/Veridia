@@ -20,6 +20,6 @@ modified: 2025-07-23 12:39
 - **Cost**: 5 gp
 - **Weight**: 4.0 lbs.
 
-While wearing a Costume, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on any ability check you make to impersonate the person or type of person it represents.
+While wearing a Costume, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on any ability check you make to impersonate the person or type of person it represents.
 
 *Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

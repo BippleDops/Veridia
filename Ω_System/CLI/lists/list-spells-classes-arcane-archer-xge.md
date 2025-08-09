@@ -13,5 +13,5 @@ modified: 2025-07-23 12:39
 
 ## Cantrip
 
-- [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") as cantrip, at class level 3
-- [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB") as cantrip, at class level 3
+- [Druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md "XPHB") as cantrip, at class level 3
+- [Prestidigitation](/03_Mechanics/CLI/spells/prestidigitation-xphb.md "XPHB") as cantrip, at class level 3

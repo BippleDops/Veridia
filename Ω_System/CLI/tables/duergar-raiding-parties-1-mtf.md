@@ -14,8 +14,8 @@ modified: 2025-07-23 12:39
 
 | Members | Number Present |
 |---------|----------------|
-| [Duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) | `2d6 + 5` |
-| [Duergar stone guards](/3-Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md) | `1d4 + 1` |
-| [Duergar kavalrachni](/3-Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md) | `d4` |
-| [Male steeders](/3-Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm.md) | `d4` |
+| [Duergar](/03_Mechanics/CLI/bestiary/humanoid/spy-xmm.md) | `2d6 + 5` |
+| [Duergar stone guards](/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm.md) | `1d4 + 1` |
+| [Duergar kavalrachni](/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md) | `d4` |
+| [Male steeders](/03_Mechanics/CLI/bestiary/monstrosity/male-steeder-mpmm.md) | `d4` |
 ^members-number-present

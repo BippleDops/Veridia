@@ -62,13 +62,13 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Bow"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
-      \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+      \ the gnoll moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
       \ and it makes one Rend attack."
     "name": "Rampage (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-warrior-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/gnoll-warrior-xmm.webp"
 ```
 ^statblock
 

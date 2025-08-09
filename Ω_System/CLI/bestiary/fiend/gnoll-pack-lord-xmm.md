@@ -65,18 +65,18 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ damage."
     "name": "Bone Javelin"
   - "desc": "The gnoll targets another creature it can see within 60 feet of itself\
-      \ that has the Rampage [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md).\
-      \ The target can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+      \ that has the Rampage [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md).\
+      \ The target can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md)\
       \ to make one melee attack."
     "name": "Incite Rampage (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/variant-rules/bloodied-xphb.md),\
-      \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md),\
+      \ the gnoll moves up to half its [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md),\
       \ and it makes one Bone Whip attack."
     "name": "Rampage (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-pack-lord-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/gnoll-pack-lord-xmm.webp"
 ```
 ^statblock
 

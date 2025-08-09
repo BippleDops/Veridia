@@ -84,11 +84,11 @@ You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [armor of Agathys](/3-Mechanics/CLI/spells/armor-of-agathys-xphb.md), [command](/3-Mechanics/CLI/spells/command-xphb.md) |
-| 5th | [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md) |
-| 9th | [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md), [fear](/3-Mechanics/CLI/spells/fear-xphb.md) |
-| 13th | [dominate beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md) |
-| 17th | [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md), [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) |
+| 3rd | [armor of Agathys](/03_Mechanics/CLI/spells/armor-of-agathys-xphb.md), [command](/03_Mechanics/CLI/spells/command-xphb.md) |
+| 5th | [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](/03_Mechanics/CLI/spells/spiritual-weapon-xphb.md) |
+| 9th | [bestow curse](/03_Mechanics/CLI/spells/bestow-curse-xphb.md), [fear](/03_Mechanics/CLI/spells/fear-xphb.md) |
+| 13th | [dominate beast](/03_Mechanics/CLI/spells/dominate-beast-xphb.md), [stoneskin](/03_Mechanics/CLI/spells/stoneskin-xphb.md) |
+| 17th | [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md), [dominate person](/03_Mechanics/CLI/spells/dominate-person-xphb.md) |
 ^oath-of-conquest-spells
 
 ### Channel Divinity (Level 3)
@@ -97,7 +97,7 @@ When you take this oath at 3rd level, you gain the following two Channel Divinit
 
 ### Conquering Presence (Level 3)
 
-You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of you for 1 minute. The [frightened](/3-Mechanics/CLI/conditions.md#Frightened) creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
+You can use your Channel Divinity to exude a terrifying presence. As an action, you force each creature of your choice that you can see within 30 feet of you to make a Wisdom saving throw. On a failed save, a creature becomes [frightened](/03_Mechanics/CLI/conditions.md#Frightened) of you for 1 minute. The [frightened](/03_Mechanics/CLI/conditions.md#Frightened) creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Guided Strike (Level 3)
 
@@ -105,22 +105,22 @@ You can use your Channel Divinity to strike with supernatural accuracy. When you
 
 ### Aura of Conquest (Level 7)
 
-Starting at 7th level, you constantly emanate a menacing aura while you're not [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). The aura extends 10 feet from you in every direction, but not through total cover.
+Starting at 7th level, you constantly emanate a menacing aura while you're not [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). The aura extends 10 feet from you in every direction, but not through total cover.
 
-If a creature is [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
+If a creature is [frightened](/03_Mechanics/CLI/conditions.md#Frightened) of you, its speed is reduced to 0 while in the aura, and that creature takes psychic damage equal to half your paladin level if it starts its turn there.
 
 At 18th level, the range of this aura increases to 30 feet.
 
 ### Scornful Rebuke (Level 15)
 
-Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Starting at 15th level, those who dare to strike you are psychically punished for their audacity. Whenever a creature hits you with an attack, that creature takes psychic damage equal to your Charisma modifier (minimum of 1) if you're not [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Invincible Conqueror (Level 20)
 
 At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
 
 - You have resistance to all damage.  
-- When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can make one additional attack as part of that action.  
+- When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can make one additional attack as part of that action.  
 - Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the `d20`.  
 
 Once you use this feature, you can't use it again until you finish a long rest.

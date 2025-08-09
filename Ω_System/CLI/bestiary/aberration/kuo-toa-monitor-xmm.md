@@ -99,9 +99,9 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](/03_Mechanics/CLI/skills.md#Religion)"
     "desc": "+3"
 "senses": "darkvision 120 ft., truesight 30 ft., passive Perception 16"
 "languages": "Undercommon"
@@ -109,19 +109,19 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The kuo-toa makes two Bone Whip attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +5, reach 10 ft. Hit: 6 (1d6 + 3) Slashing damage\
-      \ plus 7 (2d6) Lightning damage, and the target can't make [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+      \ plus 7 (2d6) Lightning damage, and the target can't make [Opportunity Attacks](/03_Mechanics/CLI/actions.md#Opportunity%20Attack)\
       \ until the start of the kuo-toa's next turn."
     "name": "Bone Whip"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/kuo-toa-monitor-xmm.webp"
 ```
 ^statblock
 

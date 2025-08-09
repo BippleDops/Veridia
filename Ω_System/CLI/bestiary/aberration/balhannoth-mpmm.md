@@ -47,9 +47,9 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 "saves":
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+6"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded)"
+"condition_immunities": "[blinded](/03_Mechanics/CLI/conditions.md#Blinded)"
 "senses": "blindsight 500 ft. (blind beyond this radius), passive Perception 16"
 "languages": "understands Deep Speech, telepathy 1 mile"
 "cr": "11"
@@ -63,26 +63,26 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
       \ (3d10 + 3) piercing damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 10\
-      \ (2d6 + 3) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (2d6 + 3) bludgeoning damage, and the target is [grappled](/03_Mechanics/CLI/conditions.md#Grappled)\
       \ (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this\
-      \ grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+      \ grapple ends, the target is [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
       \ and the balhannoth can't use this tentacle against other targets. The balhannoth\
       \ has four tentacles."
     "name": "Tentacle"
 "legendary_actions":
-  - "desc": "The balhannoth makes one Bite attack against one creature it has [grappled](/3-Mechanics/CLI/conditions.md#Grappled)."
+  - "desc": "The balhannoth makes one Bite attack against one creature it has [grappled](/03_Mechanics/CLI/conditions.md#Grappled)."
     "name": "Bite"
   - "desc": "The balhannoth teleports, along with any equipment it is wearing or carrying\
-      \ and any creatures it has [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
+      \ and any creatures it has [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
       \ up to 60 feet to an unoccupied space it can see."
     "name": "Teleport"
-  - "desc": "The balhannoth magically becomes [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The balhannoth magically becomes [invisible](/03_Mechanics/CLI/conditions.md#Invisible)\
       \ for up to 10 minutes or until immediately after it makes an attack roll."
     "name": "Vanish"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/balhannoth-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/balhannoth-mpmm.webp"
 ```
 ^statblock
 

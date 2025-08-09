@@ -17,15 +17,15 @@ modified: 2025-07-23 12:39
 ---
 # Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/staff-of-frost.webp#right)
+![](/03_Mechanics/CLI/items/img/staff-of-frost.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](/03_Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
+You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage while you hold this staff.
 
 ## Spells
 
@@ -33,10 +33,10 @@ The staff has 10 charges. While holding the staff, you can cast one of the spell
 
 | Spell | Charge Cost |
 |-------|-------------|
-| [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) | 5 |
-| [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md) | 1 |
-| [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md) | 4 |
-| [Wall of Ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md) | 4 |
+| [Cone of Cold](/03_Mechanics/CLI/spells/cone-of-cold-xphb.md) | 5 |
+| [Fog Cloud](/03_Mechanics/CLI/spells/fog-cloud-xphb.md) | 1 |
+| [Ice Storm](/03_Mechanics/CLI/spells/ice-storm-xphb.md) | 4 |
+| [Wall of Ice](/03_Mechanics/CLI/spells/wall-of-ice-xphb.md) | 4 |
 ^spell-charge-cost
 
 ## Regaining Charges

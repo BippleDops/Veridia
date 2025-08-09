@@ -63,11 +63,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
-| 5th | [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md) |
-| 9th | [haste](/3-Mechanics/CLI/spells/haste-xphb.md) |
-| 13th | [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) |
-| 17th | [teleportation circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md) |
+| 3rd | [protection from evil and good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
+| 5th | [misty step](/03_Mechanics/CLI/spells/misty-step-xphb.md) |
+| 9th | [haste](/03_Mechanics/CLI/spells/haste-xphb.md) |
+| 13th | [banishment](/03_Mechanics/CLI/spells/banishment-xphb.md) |
+| 17th | [teleportation circle](/03_Mechanics/CLI/spells/teleportation-circle-xphb.md) |
 ^horizon-walker-spells
 
 ### Detect Portal (Level 3)
@@ -86,13 +86,13 @@ As a bonus action, choose one creature you can see within 30 feet of you. The ne
 
 ### Ethereal Step (Level 7)
 
-At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md) spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the [etherealness](/03_Mechanics/CLI/spells/etherealness-xphb.md) spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Distant Strike (Level 11)
 
-At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
 
 If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
 

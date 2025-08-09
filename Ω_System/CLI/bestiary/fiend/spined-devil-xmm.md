@@ -60,8 +60,8 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)),\
+"condition_immunities": "[poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
+"senses": "darkvision 120 ft. (unimpeded by magical [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md)),\
   \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
@@ -69,7 +69,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
   - "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -84,7 +84,7 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
     "name": "Tail Spine"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
 ```
 ^statblock
 

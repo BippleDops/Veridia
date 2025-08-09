@@ -64,16 +64,16 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [grappled](/03_Mechanics/CLI/conditions.md#Grappled),\
+  \ [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [petrified](/03_Mechanics/CLI/conditions.md#Petrified),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), [prone](/03_Mechanics/CLI/conditions.md#Prone),\
+  \ [restrained](/03_Mechanics/CLI/conditions.md#Restrained), [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1/2"
@@ -81,8 +81,8 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Amorphous"
-  - "desc": "While in sunlight, the shadow has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)."
+  - "desc": "While in sunlight, the shadow has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md)."
     "name": "Sunlight Weakness"
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 5 (1d6 + 2) Necrotic damage,\
@@ -91,13 +91,13 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
       \ the corpse d4 hours later."
     "name": "Draining Swipe"
 "bonus_actions":
-  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the shadow\
+  - "desc": "While in [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), the shadow\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/shadow-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/shadow-xmm.webp"
 ```
 ^statblock
 

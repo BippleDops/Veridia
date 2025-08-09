@@ -37,5 +37,5 @@ modified: 2025-07-23 12:39
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) |
+| 20 | Inside a [Mordenkainen's magnificent mansion](/03_Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) |
 ^exotic-location

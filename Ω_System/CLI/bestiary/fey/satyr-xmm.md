@@ -47,17 +47,17 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "[Performance](/03_Mechanics/CLI/skills.md#Performance)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
 "traits":
-  - "desc": "The satyr has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The satyr has [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -70,7 +70,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
     "name": "Mockery"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/satyr-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/fey/token/satyr-xmm.webp"
 ```
 ^statblock
 

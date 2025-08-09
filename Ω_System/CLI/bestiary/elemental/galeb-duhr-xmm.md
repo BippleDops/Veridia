@@ -48,9 +48,9 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
   - !!int "11"
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
 "languages": "Primordial (Terran)"
 "cr": "6"
@@ -58,19 +58,19 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 12 (2d6 + 5) Bludgeoning\
       \ damage. If the target is a Large or smaller creature and the galeb duhr moved\
       \ 20+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra 7 (2d6) Bludgeoning damage and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ extra 7 (2d6) Bludgeoning damage and has the [Prone](/03_Mechanics/CLI/conditions.md#Prone)\
       \ condition."
     "name": "Avalanche Slam"
   - "desc": "The galeb duhr magically animates one or two boulders it can see within\
       \ 60 feet of itself. Each boulder uses the Galeb Duhr stat block, except it\
       \ has Intelligence and Charisma scores of 1 and lacks this action. The boulder\
-      \ takes its turn immediately after the galeb duhr on the same [Initiative](/3-Mechanics/CLI/variant-rules/initiative-xphb.md)\
+      \ takes its turn immediately after the galeb duhr on the same [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md)\
       \ count, and it obeys the galeb duhr. A boulder remains animate for 1 minute\
       \ or until it or the galeb duhr dies."
     "name": "Animate Boulders (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/galeb-duhr-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/elemental/token/galeb-duhr-xmm.webp"
 ```
 ^statblock
 

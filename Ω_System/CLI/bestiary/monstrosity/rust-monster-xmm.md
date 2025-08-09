@@ -59,11 +59,11 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
       \ DC 11, the creature with the object. Failure: The object takes a -1 penalty\
       \ to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed\
       \ if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty\
-      \ reaches -5. The penalty can be removed by casting the [Mending](/3-Mechanics/CLI/spells/mending-xphb.md)\
+      \ reaches -5. The penalty can be removed by casting the [Mending](/03_Mechanics/CLI/spells/mending-xphb.md)\
       \ spell on the armor or weapon."
     "name": "Antennae"
   - "desc": "The rust monster touches a nonmagical metal object within 5 feet of itself\
-      \ that isn't being worn or carried. The touch destroys a 1-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+      \ that isn't being worn or carried. The touch destroys a 1-foot [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
       \ of the object."
     "name": "Destroy Metal"
 "reactions":
@@ -72,7 +72,7 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
     "name": "Reflexive Antennae"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/rust-monster-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/monstrosity/token/rust-monster-xmm.webp"
 ```
 ^statblock
 

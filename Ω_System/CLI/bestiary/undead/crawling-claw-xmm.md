@@ -50,9 +50,9 @@ Crawling claws are severed hands that move and act of their own murderous accord
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](/03_Mechanics/CLI/conditions.md#Charmed), [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [frightened](/03_Mechanics/CLI/conditions.md#Frightened), [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated),\
+  \ [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned)"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
@@ -61,7 +61,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
     "name": "Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp"
 ```
 ^statblock
 

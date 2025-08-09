@@ -62,23 +62,23 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, necrotic, piercing, slashing"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
+"condition_immunities": "[exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion),\
+  \ [grappled](/03_Mechanics/CLI/conditions.md#Grappled), [paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed),\
+  \ [petrified](/03_Mechanics/CLI/conditions.md#Petrified), [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned),\
+  \ [prone](/03_Mechanics/CLI/conditions.md#Prone), [restrained](/03_Mechanics/CLI/conditions.md#Restrained),\
+  \ [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
   - "desc": "The wisp can't wear or carry anything."
     "name": "Ephemeral"
-  - "desc": "The wisp sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 20-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The wisp sheds [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md)\
+      \ in a 20-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md)\
       \ for an additional 20 feet."
     "name": "Illumination"
   - "desc": "The wisp can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ [Difficult Terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
       \ It takes 5 (d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -86,17 +86,17 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
     "name": "Shock"
 "bonus_actions":
   - "desc": "Constitution Saving Throw: DC 10, one living creature the wisp can\
-      \ see within 5 feet that has 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
-      \ Failure: The target dies, and the wisp regains 10 (3d6) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ see within 5 feet that has 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+      \ Failure: The target dies, and the wisp regains 10 (3d6) [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md)."
     "name": "Consume Life"
-  - "desc": "The wisp and its light have the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ condition until the wisp's [Concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
+  - "desc": "The wisp and its light have the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible)\
+      \ condition until the wisp's [Concentration](/03_Mechanics/CLI/conditions.md#Concentration)\
       \ ends on this effect, which ends early immediately after the wisp makes an\
       \ attack roll or uses Consume Life."
     "name": "Vanish"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/will-o-wisp-xmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/undead/token/will-o-wisp-xmm.webp"
 ```
 ^statblock
 

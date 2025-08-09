@@ -45,29 +45,29 @@ The monsters and NPCs are presented in alphabetical order.
 
 ### The Abbot
 
-No creature in Barovia is older than the master of the Abbey of Saint Markovia in Krezk. This nameless holy figure, whom others call [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), was drawn to the abbey after Saint Markovia died by Strahd's hand. He sought to restore the abbey after it fell to corruption, but was himself corrupted.
+No creature in Barovia is older than the master of the Abbey of Saint Markovia in Krezk. This nameless holy figure, whom others call [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), was drawn to the abbey after Saint Markovia died by Strahd's hand. He sought to restore the abbey after it fell to corruption, but was himself corrupted.
 
 #### Angel in Disguise
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is a deva that has lived for millennia. He typically assumes the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia. He reopened the abbey and began tending to the physically and mentally ill. In so doing, he hoped to bring some much-needed light to Barovia. His efforts worked for a while, but then the Dark Powers began to corrupt him.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is a deva that has lived for millennia. He typically assumes the form of a strikingly handsome human priest in his late twenties or early thirties. More than a hundred years ago, the deva was sent from the Upper Planes to honor the legacy of Saint Markovia. He reopened the abbey and began tending to the physically and mentally ill. In so doing, he hoped to bring some much-needed light to Barovia. His efforts worked for a while, but then the Dark Powers began to corrupt him.
 
 #### Imperfections
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s fall from grace started when the Belviews—a family of sickly, inbred lepers—came to the abbey seeking salvation. The deva rid them of their diseases, an act for which they were eternally grateful, but could not cure them of certain human defects that had been present since birth. [The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) became consumed with a prideful, obsessive desire to rid the poor Belviews of their lingering imperfections. The Belview family, however, had strange ideas of what it meant to be perfect. They didn't want to be ordinary humans. They wanted the eyes of a cat, wings to fly like a bat, the strength of a mule, and the guile of a snake. In short, they craved bestial traits, and [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), taking pity on them, yielded to their mad desires.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s fall from grace started when the Belviews—a family of sickly, inbred lepers—came to the abbey seeking salvation. The deva rid them of their diseases, an act for which they were eternally grateful, but could not cure them of certain human defects that had been present since birth. [The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) became consumed with a prideful, obsessive desire to rid the poor Belviews of their lingering imperfections. The Belview family, however, had strange ideas of what it meant to be perfect. They didn't want to be ordinary humans. They wanted the eyes of a cat, wings to fly like a bat, the strength of a mule, and the guile of a snake. In short, they craved bestial traits, and [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), taking pity on them, yielded to their mad desires.
 
 #### Enter Vasili von Holtz
 
-[The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s early experiments proved fatal to their subjects, but the Belviews insisted that he keep trying. One day, a Barovian lord named Vasili von Holtz visited the abbey. [The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) knew at once that the man was evil, but von Holtz stressed that he only wanted to help. He furnished [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) with forbidden lore plucked from the Amber Temple (chapter 13), then helped [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) transform the Belviews into mongrelfolk—maniacal humans with bestial deformities and traits. The Belviews were happy, albeit insane. Only then did von Holtz reveal himself to be [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). Somehow the deva realized that any attempt to slay Strahd would be futile—that the ancient curse upon the land meant that the vampire could never truly die, at least not in Barovia.
+[The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md)'s early experiments proved fatal to their subjects, but the Belviews insisted that he keep trying. One day, a Barovian lord named Vasili von Holtz visited the abbey. [The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) knew at once that the man was evil, but von Holtz stressed that he only wanted to help. He furnished [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) with forbidden lore plucked from the Amber Temple (chapter 13), then helped [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) transform the Belviews into mongrelfolk—maniacal humans with bestial deformities and traits. The Belviews were happy, albeit insane. Only then did von Holtz reveal himself to be [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). Somehow the deva realized that any attempt to slay Strahd would be futile—that the ancient curse upon the land meant that the vampire could never truly die, at least not in Barovia.
 
 #### Bride of Strahd
 
-Strahd confided in [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), lamenting his curse and telling the deva that he wished nothing more than to escape Barovia. His performance garnered the deva's sympathy, and [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md), playing into Strahd's hands, set for himself the goal of finding a cure for Strahd's "malady." [The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is now convinced that the cure lies in reuniting Strahd with his lost love and, in so doing, ending Barovia's curse. [The Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) has recently completed work on a flesh golem bride made from the body parts of dead women. While the Belviews languish in the abbey's madhouse, [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is giving his creation lessons in etiquette and ladylike conduct so that "she" can be formally presented to Strahd and win his love.
+Strahd confided in [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), lamenting his curse and telling the deva that he wished nothing more than to escape Barovia. His performance garnered the deva's sympathy, and [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md), playing into Strahd's hands, set for himself the goal of finding a cure for Strahd's "malady." [The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is now convinced that the cure lies in reuniting Strahd with his lost love and, in so doing, ending Barovia's curse. [The Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) has recently completed work on a flesh golem bride made from the body parts of dead women. While the Belviews languish in the abbey's madhouse, [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) is giving his creation lessons in etiquette and ladylike conduct so that "she" can be formally presented to Strahd and win his love.
 
-Strahd has no interest in a flesh golem bride, but he enjoys corrupting this once angelic being and driving [the Abbot](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) to commit further acts of depravity.
+Strahd has no interest in a flesh golem bride, but he enjoys corrupting this once angelic being and driving [the Abbot](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) to commit further acts of depravity.
 
 #### Statistics
 
-Use the [deva](/3-Mechanics/CLI/bestiary/celestial/deva-xmm.md) stat block in the "Monster Manual", but change [the Abbot's](/3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md) alignment to lawful evil.
+Use the [deva](/03_Mechanics/CLI/bestiary/celestial/deva-xmm.md) stat block in the "Monster Manual", but change [the Abbot's](/03_Mechanics/CLI/bestiary/npc/the-abbot-cos.md) alignment to lawful evil.
 
 #### The Abbot's Traits
 
@@ -95,7 +95,7 @@ The magic that animates an object is dispelled when the construct drops to 0 hit
 
 #### Baba Lysaga's Creeping Hut
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) built a [hut](/3-Mechanics/CLI/bestiary/npc/baba-lysagas-creeping-hut-cos.md) atop the rotting stump of a giant tree that was felled long ago. It was only after she embedded a magic gemstone in the hut that the whole thing was imbued with a semblance of life. When she wills it to do so, the hut pulls its gigantic roots free of the earth and shambles around like a spidery behemoth, shaking the ground with every step. The hut attacks with its flailing and stomping roots. It can also use its roots to fling large rocks.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) built a [hut](/03_Mechanics/CLI/bestiary/npc/baba-lysagas-creeping-hut-cos.md) atop the rotting stump of a giant tree that was felled long ago. It was only after she embedded a magic gemstone in the hut that the whole thing was imbued with a semblance of life. When she wills it to do so, the hut pulls its gigantic roots free of the earth and shambles around like a spidery behemoth, shaking the ground with every step. The hut attacks with its flailing and stomping roots. It can also use its roots to fling large rocks.
 
 ##### Hut Interior
 
@@ -103,33 +103,33 @@ The hut is a 15-foot-square, ramshackle wooden building with a gently sloping th
 
 ##### Heart of the Hut
 
-The gemstone that has given life to [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
+The gemstone that has given life to [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) stole one of the gems and perverted its magic, using it instead to animate her wooden hut.
 
-Removing the gem from the hut renders the hut [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 (`3d6`) piercing damage and fails to obtain the gem.
+Removing the gem from the hut renders the hut [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful DC 14 Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a DC 20 Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 (`3d6`) piercing damage and fails to obtain the gem.
 
 #### Broom of Animated Attack
 
-A broom of animated attack is easily mistaken for a [broom of flying](/3-Mechanics/CLI/items/broom-of-flying-xdmg.md). It attacks any creature that grabs it or tries to ride it.
+A broom of animated attack is easily mistaken for a [broom of flying](/03_Mechanics/CLI/items/broom-of-flying-xdmg.md). It attacks any creature that grabs it or tries to ride it.
 
 ##### Flying Broom
 
-Some [brooms of animated attack](/3-Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md) allow their creators to ride them, in which case they behave like typical [brooms of flying](/3-Mechanics/CLI/items/broom-of-flying-xdmg.md). A broom of animated attack, however, can carry only half the weight that a [broom of flying](/3-Mechanics/CLI/items/broom-of-flying-xdmg.md) can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
+Some [brooms of animated attack](/03_Mechanics/CLI/bestiary/construct/broom-of-animated-attack-cos.md) allow their creators to ride them, in which case they behave like typical [brooms of flying](/03_Mechanics/CLI/items/broom-of-flying-xdmg.md). A broom of animated attack, however, can carry only half the weight that a [broom of flying](/03_Mechanics/CLI/items/broom-of-flying-xdmg.md) can (see chapter 7, ""Treasure"," of the "Dungeon Master's Guide").
 
 #### Guardian Portrait
 
-A [guardian portrait](/3-Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md) looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
+A [guardian portrait](/03_Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md) looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
 
 ##### Living Image
 
-The eyes of the figure depicted in the painting are imbued with [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), and they appear to follow creatures that move in front of them.
+The eyes of the figure depicted in the painting are imbued with [darkvision](/03_Mechanics/CLI/senses.md#Darkvision), and they appear to follow creatures that move in front of them.
 
 ##### Innate Spells
 
-When a [guardian portrait](/3-Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md) attacks, the figure in the painting animates and moves as though alive (albeit in two dimensions). The guardian portrait has no effective melee attacks, but it has a repertoire of innate spells that it can cast. When it casts a spell, the figure painted on the canvas makes all the appropriate somatic gestures and verbal incantations for the spell.
+When a [guardian portrait](/03_Mechanics/CLI/bestiary/construct/guardian-portrait-cos.md) attacks, the figure in the painting animates and moves as though alive (albeit in two dimensions). The guardian portrait has no effective melee attacks, but it has a repertoire of innate spells that it can cast. When it casts a spell, the figure painted on the canvas makes all the appropriate somatic gestures and verbal incantations for the spell.
 
 #### Strahd's Animated Armor
 
-The [armor](/3-Mechanics/CLI/bestiary/npc/strahds-animated-armor-cos.md) that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
+The [armor](/03_Mechanics/CLI/bestiary/npc/strahds-animated-armor-cos.md) that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
 
 ##### Thing of Evil
 
@@ -137,33 +137,33 @@ Strahd imbued his automaton with a sliver of his being, bequeathing unto his arm
 
 The armor understands Common but obeys only the commands of its master.
 
-![Strahd's Animated Armor](/3-Mechanics/CLI/adventures/curse-of-strahd/img/143-636623960253938131.webp#center)
+![Strahd's Animated Armor](/03_Mechanics/CLI/adventures/curse-of-strahd/img/143-636623960253938131.webp#center)
 
 ### Baba Lysaga
 
-Two women gave life to [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md). Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
+Two women gave life to [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md). Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
 
 #### Other Mother
 
-When Strahd was still a baby in his crib, [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) cast protective spells on him and crept into his nursery on stormy nights to sing magical rhymes to him. She also placed the "spark of magic" in him, ensuring that he would become a spellcaster.
+When Strahd was still a baby in his crib, [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) cast protective spells on him and crept into his nursery on stormy nights to sing magical rhymes to him. She also placed the "spark of magic" in him, ensuring that he would become a spellcaster.
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s unhealthy attachment to the baby Strahd did not go unnoticed. After she received several disturbing reports, Queen Ravenovia was forced to banish the midwife from the kingdom. Lysaga never saw Strahd again, but she has succeeded in staying alive to witness the triumphs of her beloved boy, who, in her mind, is eternally blessed. Despite the horrors Strahd has wrought, Lysaga still envisions him as the perfect child she delivered into the world. Strahd is the only thing in her life that matters to her.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)'s unhealthy attachment to the baby Strahd did not go unnoticed. After she received several disturbing reports, Queen Ravenovia was forced to banish the midwife from the kingdom. Lysaga never saw Strahd again, but she has succeeded in staying alive to witness the triumphs of her beloved boy, who, in her mind, is eternally blessed. Despite the horrors Strahd has wrought, Lysaga still envisions him as the perfect child she delivered into the world. Strahd is the only thing in her life that matters to her.
 
 #### Mother Nearest
 
-During her exile, [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) made countless sacrifices to Mother Night, pleading with the goddess to afflict Queen Ravenovia with ill health and visit death upon her. Lysaga eventually got her wish, and after Strahd settled in the valley of Barovia, Lysaga moved as close to him as she dared to.
+During her exile, [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) made countless sacrifices to Mother Night, pleading with the goddess to afflict Queen Ravenovia with ill health and visit death upon her. Lysaga eventually got her wish, and after Strahd settled in the valley of Barovia, Lysaga moved as close to him as she dared to.
 
 In the filth-ridden depths of her heart, Lysaga knows that Strahd would never accept her as his true mother, nor could she bear his rejection. As a result, she has never confronted him. She would rather exist in perpetual denial, whiling away the days, months, and years practicing fell magic and looking for ways to help her "son."
 
 #### Raven Bane
 
-[Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has allies in Castle Ravenloft—a coven of witches. Through the aid of these witches, Lysaga recently uncovered a potential threat to Strahd: a secret society of wereravens called the Keepers of the Feather, a group that uses ordinary ravens as their spies.
+[Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) has allies in Castle Ravenloft—a coven of witches. Through the aid of these witches, Lysaga recently uncovered a potential threat to Strahd: a secret society of wereravens called the Keepers of the Feather, a group that uses ordinary ravens as their spies.
 
 Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen to make them the bane of her existence. After much searching and scrying, she discovered a wereraven refuge at the Wizard of Wines winery (chapter 12), and she has begun to wage war against it. In addition, she has forged an alliance with the mad druids that haunt Yester Hill (chapter 14), convincing them that she gave birth to Strahd, whom the druids consider a god. With the druids on her side, she expects to rid Barovia of its wereraven menace.
 
 #### Gifts of Mother Night
 
-The goddess Mother Night has bestowed magical gifts on [Baba Lysaga](/3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) as rewards for her ceaseless devotion to Strahd. Her skin has the resilience of stone, she is resistant to harmful magic, and she is shielded against divination magic. Mother Night has also imparted to Lysaga the secret of longevity, which requires her to bathe in the blood of beasts on nights of the new moon. Failure to do so causes Lysaga to age rapidly, becoming mere dust and bones in a matter of seconds.
+The goddess Mother Night has bestowed magical gifts on [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) as rewards for her ceaseless devotion to Strahd. Her skin has the resilience of stone, she is resistant to harmful magic, and she is shielded against divination magic. Mother Night has also imparted to Lysaga the secret of longevity, which requires her to bathe in the blood of beasts on nights of the new moon. Failure to do so causes Lysaga to age rapidly, becoming mere dust and bones in a matter of seconds.
 
 #### Baba Lysaga's Traits
 
@@ -179,11 +179,11 @@ The goddess Mother Night has bestowed magical gifts on [Baba Lysaga](/3-Mechanic
 
 "I will not rest until the last of my son's enemies are destroyed."
 
-![Baba Lysaga](/3-Mechanics/CLI/adventures/curse-of-strahd/img/144-636379873620950408.webp#center)
+![Baba Lysaga](/03_Mechanics/CLI/adventures/curse-of-strahd/img/144-636379873620950408.webp#center)
 
 ### Barovian Witch
 
-The mad women and men known as [Barovian witches](/3-Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md) spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
+The mad women and men known as [Barovian witches](/03_Mechanics/CLI/bestiary/humanoid/barovian-witch-cos.md) forge pacts with Strahd and the Dark Powers of Ravenloft in exchange for magic and longevity. They prefer to live in the shadows and can see in the dark. When traveling in the open, they use [alter self](/03_Mechanics/CLI/spells/alter-self-xphb.md) spells to assume less conspicuous forms. They also use these spells to grow long, sharp claws with which they can attack.
 
 #### Brothers and Sisters of Strahd
 
@@ -193,9 +193,9 @@ Barovian witches have no scruples. They will deal with anyone in return for powe
 
 Barovian witches are obsessive collectors, each believing that almost anything found—a piece of broken bone, a dead rodent, a handful of dust, or some other worthless item or substance—could be valuable or useful as a spell component, a ritual object, or a potion ingredient.
 
-Barovian witches use the [find familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md) spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
+Barovian witches use the [find familiar](/03_Mechanics/CLI/spells/find-familiar-xphb.md) spell to call forth familiars. They are particularly fond of cats, though snakes and toads are also common. These animals lurk amid the clutter of the witches' lairs, seldom wandering far from their vile masters.
 
-![Barovian Witch](/3-Mechanics/CLI/adventures/curse-of-strahd/img/145-636379876850421049.webp#center)
+![Barovian Witch](/03_Mechanics/CLI/adventures/curse-of-strahd/img/145-636379876850421049.webp#center)
 
 ### Blight, Tree
 
@@ -207,11 +207,11 @@ A tree blight feeds on warm-blooded prey and takes perverse delight in causing c
 
 #### Blight Animosity
 
-A [tree blight](/3-Mechanics/CLI/bestiary/plant/tree-blight-xmm.md) will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
+A [tree blight](/03_Mechanics/CLI/bestiary/plant/tree-blight-xmm.md) will often fight alongside other kinds of blights, but it hates other tree blights and will attack them given the chance. Tree blights also hate treants, and the feeling is mutual.
 
 ### Ezmerelda d'Avenir
 
-[Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md), a Vistana, is the protégé of Rudolph van Richten—despite the fact that her first encounter with the vampire hunter was anything but pleasant.
+[Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md), a Vistana, is the protégé of Rudolph van Richten—despite the fact that her first encounter with the vampire hunter was anything but pleasant.
 
 #### Witness to Tragedy
 
@@ -221,7 +221,7 @@ Van Richten tracked down Ezmerelda's family soon after the kidnapping, but not b
 
 #### Van Richten's Tragic Tale
 
-At the age of fifteen, Ezmerelda, still troubled by what her family had done to van Richten, ran away from home. After many harrowing adventures, she tracked down van Richten two years later. Thinking she was a [Vistana assassin](/3-Mechanics/CLI/bestiary/humanoid/vistana-assassin-cos.md), he put a sword to her throat and threatened to spill her blood. Ezmerelda convinced him that she genuinely wanted to help him find his missing son, whereupon van Richten told her the saddest of tales. He had found his son, who had been transformed into a vampire spawn. When Erasmus pleaded to his father for salvation, van Richten granted his request by ending his existence.
+At the age of fifteen, Ezmerelda, still troubled by what her family had done to van Richten, ran away from home. After many harrowing adventures, she tracked down van Richten two years later. Thinking she was a [Vistana assassin](/03_Mechanics/CLI/bestiary/humanoid/vistana-assassin-cos.md), he put a sword to her throat and threatened to spill her blood. Ezmerelda convinced him that she genuinely wanted to help him find his missing son, whereupon van Richten told her the saddest of tales. He had found his son, who had been transformed into a vampire spawn. When Erasmus pleaded to his father for salvation, van Richten granted his request by ending his existence.
 
 #### Farewell
 
@@ -237,7 +237,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 #### Tarokka Deck
 
-Ezmerelda keeps a [deck of tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-cos.md) in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md).
+Ezmerelda keeps a [deck of tarokka cards](/03_Mechanics/CLI/decks/tarokka-deck-cos.md) in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md).
 
 #### Ezmerelda d'Avenir's Traits
 
@@ -253,13 +253,13 @@ Ezmerelda keeps a [deck of tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-co
 
 "I go where angels fear to tread."
 
-![Ezmerelda d'Avenir](/3-Mechanics/CLI/adventures/curse-of-strahd/img/146-636623997177812461.webp#center)
+![Ezmerelda d'Avenir](/03_Mechanics/CLI/adventures/curse-of-strahd/img/146-636623997177812461.webp#center)
 
 ## Creatures (I-Q)
 
 ### Izek Strazni
 
-[Izek](/3-Mechanics/CLI/bestiary/npc/izek-strazni-cos.md) and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
+[Izek](/03_Mechanics/CLI/bestiary/npc/izek-strazni-cos.md) and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
 
 Unlike his sister, Izek was born without a soul. As time wore on, he forgot his lost sister and learned to cope with his disability.
 
@@ -275,7 +275,7 @@ The new appendage has barbed spines, elongated fingers, and long nails. He can c
 
 #### Doll Collector
 
-Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named [Gadof Blinsky](/3-Mechanics/CLI/bestiary/npc/gadof-blinsky-cos.md) to craft dolls in her likeness. The woman is [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), although Izek doesn't know her name.
+Perhaps more disturbing than his fiendish arm and his murderous nature is Izek's collection of dolls, which he keeps in his bedroom in the burgomaster's mansion. Izek often has dreams of a beautiful young woman, and for years he has forced a local toymaker named [Gadof Blinsky](/03_Mechanics/CLI/bestiary/npc/gadof-blinsky-cos.md) to craft dolls in her likeness. The woman is [Ireena Kolyana](/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), although Izek doesn't know her name.
 
 #### Family Is Forever
 
@@ -295,11 +295,11 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 
 "I would do anything, kill anything, to find my sister."
 
-![Izek Strazni](/3-Mechanics/CLI/adventures/curse-of-strahd/img/147-636623996907006468.webp#center)
+![Izek Strazni](/03_Mechanics/CLI/adventures/curse-of-strahd/img/147-636623996907006468.webp#center)
 
 ### Kasimir Velikov
 
-[Kasimir](/3-Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md), a mutilated and grief-stricken dusk elf, has been trapped in Barovia for centuries. His people were on the verge of being annihilated by Strahd's armies when they surrendered. Strahd left the few survivors to the mercy of the Vistani, who bore them to the valley of Barovia, where they have lived ever since.
+[Kasimir](/03_Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md), a mutilated and grief-stricken dusk elf, has been trapped in Barovia for centuries. His people were on the verge of being annihilated by Strahd's armies when they surrendered. Strahd left the few survivors to the mercy of the Vistani, who bore them to the valley of Barovia, where they have lived ever since.
 
 #### Old Friends
 
@@ -307,7 +307,7 @@ Kasimir's allegiance to the Vistani is so strong that he adopted the name of the
 
 #### Dreams of the Damned
 
-Kasimir's sister, [Patrina Velikovna](/3-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md), is sealed in the catacombs below Castle Ravenloft. Convinced that she was the concubine of the devil Strahd, Kasimir and his fellow dusk elves stoned Patrina to death. As punishment for depriving him of his bride, Strahd butchered all the women in the dusk elf tribe, and Kasimir's ears were cut off to punish him for instigating the stoning. He wears a cowl to conceal his mutilation.
+Kasimir's sister, [Patrina Velikovna](/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md), is sealed in the catacombs below Castle Ravenloft. Convinced that she was the concubine of the devil Strahd, Kasimir and his fellow dusk elves stoned Patrina to death. As punishment for depriving him of his bride, Strahd butchered all the women in the dusk elf tribe, and Kasimir's ears were cut off to punish him for instigating the stoning. He wears a cowl to conceal his mutilation.
 
 Kasimir's feeling of loss is tinged with simmering rage. Patrina now speaks to her brother in dreams, telling him how years of guilt and regret have dispelled all evil thoughts from her mind and cleansed her tortured soul. But Kasimir remains unconvinced by her assertions, because he knows that Strahd has corrupted Patrina and led her down a path of evil and deceit. For that reason, Kasimir wants to see the vampire destroyed so that his sister can be rescued from her eternal damnation.
 
@@ -319,12 +319,12 @@ With the characters' help, Kasimir thinks he might be able to find out how to re
 
 #### Statistics
 
-Use the [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block in the "Monster Manual", with the following adjustments:
+Use the [mage](/03_Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block in the "Monster Manual", with the following adjustments:
 
 - Kasimir's alignment is neutral.  
-- Kasimir has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
-- Kasimir has the Fey Ancestry feature, which means he has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put him to sleep.  
-- Kasimir wears a [ring of warmth](/3-Mechanics/CLI/items/ring-of-warmth-xdmg.md) and carries a spellbook (see chapter 5, area N9a, for a list of the spells it holds in addition to his prepared spells).  
+- Kasimir has [darkvision](/03_Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet.  
+- Kasimir has the Fey Ancestry feature, which means he has advantage on saving throws against being [charmed](/03_Mechanics/CLI/conditions.md#Charmed), and magic can't put him to sleep.  
+- Kasimir wears a [ring of warmth](/03_Mechanics/CLI/items/ring-of-warmth-xdmg.md) and carries a spellbook (see chapter 5, area N9a, for a list of the spells it holds in addition to his prepared spells).  
 
 #### Kasimir Velikov's Traits
 
@@ -342,21 +342,21 @@ Use the [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) stat block in the
 
 ### Madam Eva
 
-The fortune-teller [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
+The fortune-teller [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
 
 #### Royal Blood
 
-[Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) is Strahd's half-sister, though Strahd is unaware of this fact. Her real name is Katarina, and she is the daughter of a Vistani woman whom King Barov, Strahd's father, took to his bed during one of his many crusades. [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) knows she is Strahd's half-sister but has told no one of the royal blood flowing through her veins.
+[Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) is Strahd's half-sister, though Strahd is unaware of this fact. Her real name is Katarina, and she is the daughter of a Vistani woman whom King Barov, Strahd's father, took to his bed during one of his many crusades. [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) knows she is Strahd's half-sister but has told no one of the royal blood flowing through her veins.
 
 #### Mother Night
 
-Over four hundred years ago, Katarina came to Barovia and insinuated herself into Strahd's court, working as a maid in Castle Ravenloft. She came to know the castle like the back of her hand, and she was present for the wedding of Sergei and Tatyana. After Strahd went mad and murdered his brother, she fled the castle and took refuge with the Vistani. Later, she forged a pact with the goddess Mother Night, trading her youth for the power to undo the evil that Strahd had wrought. Mother Night transformed Katarina into an ageless crone gifted with the power of magical foresight. In the guise of [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md), she uses this ability to help Strahd. She can send her Vistani out in their wagons to visit other worlds and bring adventurers to Strahd's domain, in hopes that they will find a way to destroy the vampire or set Strahd free.
+Over four hundred years ago, Katarina came to Barovia and insinuated herself into Strahd's court, working as a maid in Castle Ravenloft. She came to know the castle like the back of her hand, and she was present for the wedding of Sergei and Tatyana. After Strahd went mad and murdered his brother, she fled the castle and took refuge with the Vistani. Later, she forged a pact with the goddess Mother Night, trading her youth for the power to undo the evil that Strahd had wrought. Mother Night transformed Katarina into an ageless crone gifted with the power of magical foresight. In the guise of [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md), she uses this ability to help Strahd. She can send her Vistani out in their wagons to visit other worlds and bring adventurers to Strahd's domain, in hopes that they will find a way to destroy the vampire or set Strahd free.
 
 #### For the Love of Strahd
 
-The Dark Powers of Ravenloft would consider [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md) a worthy choice to replace Strahd as the master of Ravenloft, but she has all the power she desires and doesn't seek to supplant him. She would rather help Strahd find someone else to succeed him, although she has grave doubts about her ability to locate such an individual.
+The Dark Powers of Ravenloft would consider [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) a worthy choice to replace Strahd as the master of Ravenloft, but she has all the power she desires and doesn't seek to supplant him. She would rather help Strahd find someone else to succeed him, although she has grave doubts about her ability to locate such an individual.
 
-None of [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s Vistani kin know her true identity or purpose. They puzzle over her desire to remain in Barovia.
+None of [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s Vistani kin know her true identity or purpose. They puzzle over her desire to remain in Barovia.
 
 #### Madam Eva's Traits
 
@@ -374,7 +374,7 @@ None of [Madam Eva](/3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)'s Vistani ki
 
 ### Mongrelfolk
 
-[Mongrelfolk](/3-Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
+[Mongrelfolk](/03_Mechanics/CLI/bestiary/humanoid/mongrelfolk-cos.md) are humanoids that have undergone, or whose ancestors underwent, horrific magical transformations, to the extent that they retain only a fraction of their original being. Their humanoid bodies incorporate the features of various beasts. For example, one mongrelfolk might have the basic body shape of a dwarf with a head that combines the features of a cat and a lizard, one arm that ends in a crab's pincer, and one leg that ends in a cloven hoof. Another might have the skin and horns of a cow, the eyes of a spider, frog's legs, and a scaly lizard's tail. Each mongrelfolk's mad combination of humanoid and animal forms results in its having a slow, awkward gait.
 
 #### Sound Mimicry
 
@@ -386,19 +386,19 @@ Mongrelfolk are seldom welcome in other humanoid societies, where they are abuse
 
 #### Camouflage Experts
 
-Mongrelfolk often hide their deformities under cloaks and cowls. In this way, they can sometimes pass as stout humans or thin dwarves. They are fond of camouflage, attaching leaves and twigs to their cloaks, making brown paint to cover their skin, and weaving grass nets under which they can hide. They use such camouflage while hunting in the wild or while standing guard outside their lairs. Until it is seen, a camouflaged mongrelfolk has advantage on [Stealth](/3-Mechanics/CLI/skills.md#Stealth) checks made to hide.
+Mongrelfolk often hide their deformities under cloaks and cowls. In this way, they can sometimes pass as stout humans or thin dwarves. They are fond of camouflage, attaching leaves and twigs to their cloaks, making brown paint to cover their skin, and weaving grass nets under which they can hide. They use such camouflage while hunting in the wild or while standing guard outside their lairs. Until it is seen, a camouflaged mongrelfolk has advantage on [Stealth](/03_Mechanics/CLI/skills.md#Stealth) checks made to hide.
 
 #### Horrific Offspring
 
-It's possible to restore a mongrelfolk to its original form using a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
+It's possible to restore a mongrelfolk to its original form using a [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell, but the same can't be said for a mongrelfolk's offspring. Only mongrelfolk that are made by magic can be restored to their original forms. Mongrelfolk that are born are true mongrelfolk and not the subjects of a spell or an effect that can be undone.
 
 Mongrelfolk can breed with other humanoids, but nearly all children born to such parents are mongrelfolk. (About one child in every hundred is born looking like its non-mongrelfolk parent.)
 
-![Mongrelfolk](/3-Mechanics/CLI/adventures/curse-of-strahd/img/148-636985373100391611.webp#center)
+![Mongrelfolk](/03_Mechanics/CLI/adventures/curse-of-strahd/img/148-636985373100391611.webp#center)
 
 ### Phantom Warrior
 
-A [phantom warrior](/3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
+A [phantom warrior](/03_Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md) is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
 
 #### Task Driven
 
@@ -416,11 +416,11 @@ Although they are incorporeal, phantom warriors can harness the energy around th
 
 A phantom warrior doesn't require air, food, drink, or sleep.
 
-![Phantom Warrior](/3-Mechanics/CLI/adventures/curse-of-strahd/img/149-636623996440271782.webp#center)
+![Phantom Warrior](/03_Mechanics/CLI/adventures/curse-of-strahd/img/149-636623996440271782.webp#center)
 
 ### Pidlwick II
 
-After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)'s bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
+After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)'s bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
 
 Eager to please and desiring to return the courtesy, the duchess commissioned the legendary toymaker Fritz von Weerg to build a clockwork effigy of Pidlwick as a gift for Strahd's family. Although the duchess's heart was in the right place, the effigy didn't have Pidlwick's abilities, and it failed to entertain anyone. Even though Pidlwick himself had spent months training it, the effigy couldn't speak, and its movements were more awkward than amusing.
 
@@ -428,17 +428,17 @@ A harsh winter trapped the duchess, her fool, and her fool's effigy in Castle Ra
 
 #### One Pidlwick Too Many
 
-Von Weerg was no ordinary toymaker, and he put a little of himself into all his creations, which is to say his works had a touch of their creator's madness. [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) knew that it had no purpose as long as Pidlwick remained in Castle Ravenloft, so it pushed Pidlwick down a long flight of stairs, killing him. Everyone else thought it was an accident. In the days that followed, [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) tried its best to fill its namesake's shoes, but the effigy's mere presence was upsetting to Tatyana, and it was never called on to perform. Eventually, it was shut away like a discarded toy.
+Von Weerg was no ordinary toymaker, and he put a little of himself into all his creations, which is to say his works had a touch of their creator's madness. [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) knew that it had no purpose as long as Pidlwick remained in Castle Ravenloft, so it pushed Pidlwick down a long flight of stairs, killing him. Everyone else thought it was an accident. In the days that followed, [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) tried its best to fill its namesake's shoes, but the effigy's mere presence was upsetting to Tatyana, and it was never called on to perform. Eventually, it was shut away like a discarded toy.
 
 #### Evil Toy
 
-[Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) was kept in a small closet adjacent to one of the guest bedrooms. On rare occasions when someone stayed there, Pidlwick would sneak out of the closet in the middle of the night, smother the guest with a pillow, and then retreat back to the closet. The castle staff never considered that the effigy might be responsible, instead assuming that the guests had died in their sleep.
+[Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) was kept in a small closet adjacent to one of the guest bedrooms. On rare occasions when someone stayed there, Pidlwick would sneak out of the closet in the middle of the night, smother the guest with a pillow, and then retreat back to the closet. The castle staff never considered that the effigy might be responsible, instead assuming that the guests had died in their sleep.
 
-But Strahd was not fooled. He came to realize fairly quickly that the clockwork effigy had begun to display a murderous nature. Rather than have [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) destroyed, Strahd kept the fool around to dispose of irksome guests from time to time.
+But Strahd was not fooled. He came to realize fairly quickly that the clockwork effigy had begun to display a murderous nature. Rather than have [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) destroyed, Strahd kept the fool around to dispose of irksome guests from time to time.
 
-After the deaths of Sergei and Tatyana, the castle became virtually abandoned, and there were no more guests for [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) to "entertain." The clockwork effigy emerged from its closet and found new places to hide. It fears Strahd and eagerly follows anyone who gives it the attention it craves.
+After the deaths of Sergei and Tatyana, the castle became virtually abandoned, and there were no more guests for [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) to "entertain." The clockwork effigy emerged from its closet and found new places to hide. It fears Strahd and eagerly follows anyone who gives it the attention it craves.
 
-[Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) is basically an oversized toy—a 4-foot-tall mechanism stuffed with gears, springs, and other components expertly fitted together to impart a semblance of life to it. Its skin is made of stitched leather pulled taut over an articulated wooden frame. [Pidlwick II](/3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) has rubbed soot around its eyes and mouth, giving it the triangular eyes and jagged grin of a jack-o'-lantern.
+[Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) is basically an oversized toy—a 4-foot-tall mechanism stuffed with gears, springs, and other components expertly fitted together to impart a semblance of life to it. Its skin is made of stitched leather pulled taut over an articulated wooden frame. [Pidlwick II](/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md) has rubbed soot around its eyes and mouth, giving it the triangular eyes and jagged grin of a jack-o'-lantern.
 
 #### Pidlwick II's Traits
 
@@ -454,37 +454,37 @@ After the deaths of Sergei and Tatyana, the castle became virtually abandoned, a
 
 "When I'm upset, I do bad things."
 
-![Pidlwick II](/3-Mechanics/CLI/adventures/curse-of-strahd/img/150-636623996229835683.webp#center)
+![Pidlwick II](/03_Mechanics/CLI/adventures/curse-of-strahd/img/150-636623996229835683.webp#center)
 
 ## Creatures (R-Z)
 
 ### Rahadin
 
-[Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md), the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
+[Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md), the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
 
 #### Exile
 
-[Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) was exiled for refusing to bow down to a dusk elf prince whom he considered weak and corrupt. When the dusk elves later declined to pay fealty to King Barov, [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) helped Barov conquer them. The elf kingdom's royal line was obliterated, the dusk elves hunted like rabbits. The few that survived were either subjugated or forced to live among the Vistani. So pleased was Barov with [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) that the king made the dusk elf an honorary member of his family.
+[Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) was exiled for refusing to bow down to a dusk elf prince whom he considered weak and corrupt. When the dusk elves later declined to pay fealty to King Barov, [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) helped Barov conquer them. The elf kingdom's royal line was obliterated, the dusk elves hunted like rabbits. The few that survived were either subjugated or forced to live among the Vistani. So pleased was Barov with [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) that the king made the dusk elf an honorary member of his family.
 
 #### Chamberlain
 
-After Barov died, [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) continued to fight as one of Strahd's generals. When the wars ended and Strahd turned his attention to building Castle Ravenloft, [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) saw to it that wizards and artisans were brought to Barovia. Years later, Strahd appointed [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) his castle chamberlain. [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) was pleased to do whatever Strahd asked of him, and he instilled terror in the castle staff by routinely flogging those who didn't perform their duties to his exacting standards.
+After Barov died, [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) continued to fight as one of Strahd's generals. When the wars ended and Strahd turned his attention to building Castle Ravenloft, [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) saw to it that wizards and artisans were brought to Barovia. Years later, Strahd appointed [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) his castle chamberlain. [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) was pleased to do whatever Strahd asked of him, and he instilled terror in the castle staff by routinely flogging those who didn't perform their duties to his exacting standards.
 
-When a dusk elf named [Patrina Velikovna](/3-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md) came knocking on Strahd's door, [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) could see that she intrigued Strahd, but [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) was suspicious of her motives. Patrina tried to seduce Strahd with the prospect of immortality—something Strahd desired above all. She told him of a vault of forbidden lore called the Amber Temple, where the secret of gaining immortality was hidden. While Strahd was off exploring the temple, [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) handled all of his master's affairs and began searching for a woman who could tear Strahd away from [Patrina Velikovna](/3-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md). In this task, he failed. His goal was fulfilled, however, when Sergei, Strahd's brother, found Tatyana.
+When a dusk elf named [Patrina Velikovna](/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md) came knocking on Strahd's door, [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) could see that she intrigued Strahd, but [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) was suspicious of her motives. Patrina tried to seduce Strahd with the prospect of immortality—something Strahd desired above all. She told him of a vault of forbidden lore called the Amber Temple, where the secret of gaining immortality was hidden. While Strahd was off exploring the temple, [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) handled all of his master's affairs and began searching for a woman who could tear Strahd away from [Patrina Velikovna](/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md). In this task, he failed. His goal was fulfilled, however, when Sergei, Strahd's brother, found Tatyana.
 
-Tatyana was Strahd's type—a woman of exquisite beauty and gentle manner. When Strahd returned to Ravenloft, the young woman instantly caught his eye, and [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) had the pleasure of informing Patrina that her presence at the castle was no longer desired.
+Tatyana was Strahd's type—a woman of exquisite beauty and gentle manner. When Strahd returned to Ravenloft, the young woman instantly caught his eye, and [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) had the pleasure of informing Patrina that her presence at the castle was no longer desired.
 
-[Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md)'s loyalty didn't waver after Tatyana died and Strahd became a vampire. [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) continued to do his master's bidding. Eager to put Tatyana out of his mind, Strahd lured more women to the castle, taking several of them as brides before draining their lives and turning them into vampire spawn. [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) would see to it that these women were lavished with jewels and fine clothes, and made comfortable during their stay in Ravenloft.
+[Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md)'s loyalty didn't waver after Tatyana died and Strahd became a vampire. [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) continued to do his master's bidding. Eager to put Tatyana out of his mind, Strahd lured more women to the castle, taking several of them as brides before draining their lives and turning them into vampire spawn. [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) would see to it that these women were lavished with jewels and fine clothes, and made comfortable during their stay in Ravenloft.
 
 #### Executioner
 
-[Patrina Velikovna](/3-Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md) and her people were living among the Vistani when they heard of Tatyana's death and Strahd's curse. The ageless Patrina returned to Ravenloft in the hope of winning Strahd's love. This time, it was clear that Patrina craved Strahd's power and that Strahd would never love her. [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) assumed that Patrina would suffer the same fate as those women who had come before her. He was proven wrong when Patrina's own people stoned her to death to keep Strahd from claiming her as his wife.
+[Patrina Velikovna](/03_Mechanics/CLI/bestiary/npc/patrina-velikovna-cos.md) and her people were living among the Vistani when they heard of Tatyana's death and Strahd's curse. The ageless Patrina returned to Ravenloft in the hope of winning Strahd's love. This time, it was clear that Patrina craved Strahd's power and that Strahd would never love her. [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) assumed that Patrina would suffer the same fate as those women who had come before her. He was proven wrong when Patrina's own people stoned her to death to keep Strahd from claiming her as his wife.
 
-Strahd was upset that the dusk elves had taken Patrina from him. After securing her body and entombing it in the catacombs of Ravenloft, Strahd sent [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) to punish the dusk elves. [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) slew the female elves so that the males couldn't breed. He also sliced off the ears of Patrina's brother, Kasimir, who had orchestrated the stoning.
+Strahd was upset that the dusk elves had taken Patrina from him. After securing her body and entombing it in the catacombs of Ravenloft, Strahd sent [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) to punish the dusk elves. [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) slew the female elves so that the males couldn't breed. He also sliced off the ears of Patrina's brother, Kasimir, who had orchestrated the stoning.
 
 #### Screams of the Dead
 
-So dreadful a creature is [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) that anyone who stands within 10 feet of him can hear the howling screams of the countless men and women he has killed in his lifetime. [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md) can't hear them, nor would he be haunted by them if he could. The only thing he cares about is [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), for whom he would gladly give his life.
+So dreadful a creature is [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) that anyone who stands within 10 feet of him can hear the howling screams of the countless men and women he has killed in his lifetime. [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md) can't hear them, nor would he be haunted by them if he could. The only thing he cares about is [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), for whom he would gladly give his life.
 
 #### Rahadin's Traits
 
@@ -500,11 +500,11 @@ So dreadful a creature is [Rahadin](/3-Mechanics/CLI/bestiary/npc/rahadin-cos.md
 
 "I have slain thousands of men. I will slaughter thousands more to preserve the von Zarovich legacy."
 
-![Rahadin](/3-Mechanics/CLI/adventures/curse-of-strahd/img/151-636623996027511661.webp#center)
+![Rahadin](/03_Mechanics/CLI/adventures/curse-of-strahd/img/151-636623996027511661.webp#center)
 
 ### Rictavio
 
-Several months ago, a [colorfully dressed half-elf bard](/3-Mechanics/CLI/bestiary/npc/rictavio-cos.md) came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
+Several months ago, a [colorfully dressed half-elf bard](/03_Mechanics/CLI/bestiary/npc/rictavio-cos.md) came to Barovia in a carnival wagon, with a pet monkey on his shoulder. He took over an abandoned tower on Lake Baratok before rolling into the town of Vallaki several months later. Claiming to be a carnival ringmaster in search of new actors, he began regaling locals with tales of distant lands.
 
 #### Monster Hunter
 
@@ -512,11 +512,11 @@ The half-elf ringmaster is, in fact, a legendary human vampire hunter named Rudo
 
 #### The Waiting Game
 
-Van Richten isn't a young man anymore. He knows his road is coming to an end, but his work isn't done. He has come to Barovia to kill [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), the greatest vampire of them all. Van Richten has studied Strahd for years and knows he can't hope to best the vampire in a straight-up confrontation: he must wait for the right moment to strike. He has good evidence to suggest that Strahd periodically hibernates in his coffin, sometimes for years, when all is quiet in the realm. While he bides his time, van Richten hides in plain sight with the aid of a [hat of disguise](/3-Mechanics/CLI/items/hat-of-disguise-xdmg.md), his thoughts protected by a [ring of mind shielding](/3-Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md). He is trying to learn more about the Keepers of the Feather—a society of wereravens that oppose Strahd—while trying not to expose the secret society to their mutual enemy. He thinks the wereravens might prove helpful when the time comes. Van Richten also wants to take out as many of Strahd's spies as he can, starting with evil Vistani.
+Van Richten isn't a young man anymore. He knows his road is coming to an end, but his work isn't done. He has come to Barovia to kill [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md), the greatest vampire of them all. Van Richten has studied Strahd for years and knows he can't hope to best the vampire in a straight-up confrontation: he must wait for the right moment to strike. He has good evidence to suggest that Strahd periodically hibernates in his coffin, sometimes for years, when all is quiet in the realm. While he bides his time, van Richten hides in plain sight with the aid of a [hat of disguise](/03_Mechanics/CLI/items/hat-of-disguise-xdmg.md), his thoughts protected by a [ring of mind shielding](/03_Mechanics/CLI/items/ring-of-mind-shielding-xdmg.md). He is trying to learn more about the Keepers of the Feather—a society of wereravens that oppose Strahd—while trying not to expose the secret society to their mutual enemy. He thinks the wereravens might prove helpful when the time comes. Van Richten also wants to take out as many of Strahd's spies as he can, starting with evil Vistani.
 
 #### Man with a Plan
 
-Van Richten doesn't know that his former protégé, a good-aligned Vistana named [Ezmerelda d'Avenir](/3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md), has come to Barovia looking for him. He taught her many of his monster-hunting techniques, but she doesn't know all of his tricks and disguises. So far, their paths haven't crossed. In the event that van Richten becomes aware of Ezmerelda's presence, he does his utmost to protect her without putting his own plans in jeopardy. If he can manipulate a party of adventurers into keeping an eye on her, he will do so.
+Van Richten doesn't know that his former protégé, a good-aligned Vistana named [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md), has come to Barovia looking for him. He taught her many of his monster-hunting techniques, but she doesn't know all of his tricks and disguises. So far, their paths haven't crossed. In the event that van Richten becomes aware of Ezmerelda's presence, he does his utmost to protect her without putting his own plans in jeopardy. If he can manipulate a party of adventurers into keeping an eye on her, he will do so.
 
 Van Richten works alone. A curse placed on him long ago by a Vistani seer brings doom to those he befriends. Furthermore, he believes too much is at stake to risk exposure. Consequently, if he thinks he's in danger of being unmasked, he retreats to his tower (see chapter 11) or some other quiet corner of Strahd's domain.
 
@@ -534,11 +534,11 @@ Van Richten works alone. A curse placed on him long ago by a Vistani seer brings
 
 "I am cursed. Thus, I will never have peace."
 
-![Rictavio](/3-Mechanics/CLI/adventures/curse-of-strahd/img/152-636623995708971736.webp#center)
+![Rictavio](/03_Mechanics/CLI/adventures/curse-of-strahd/img/152-636623995708971736.webp#center)
 
 ### Strahd von Zarovich
 
-With his mind sharp and his heart dark, [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
+With his mind sharp and his heart dark, [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
 
 Although Strahd can be encountered almost anywhere in his domain, the vampire is always encountered in the place indicated by the card reading in chapter 1, unless he has been forced into his tomb in the catacombs of Castle Ravenloft.
 
@@ -549,8 +549,8 @@ Because the entire adventure revolves around Strahd, you must play him intellige
 When you run an encounter with Strahd, keep the following facts in mind:
 
 - Strahd attacks at the most advantageous moment and from the most advantageous position.  
-- Strahd knows when he's in over his head. If he begins taking more damage than he can regenerate, he moves beyond the reach of melee combatants and spellcasters, or he flies away (using summoned [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) or [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) or [rats](/3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) to guard his retreat).  
-- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a [charmed](/3-Mechanics/CLI/conditions.md#Charmed) character to guard him against other members of the adventuring party.  
+- Strahd knows when he's in over his head. If he begins taking more damage than he can regenerate, he moves beyond the reach of melee combatants and spellcasters, or he flies away (using summoned [wolves](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md) or [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) or [rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) to guard his retreat).  
+- Strahd observes the characters to see who among them are most easily swayed, then tries to charm characters who have low Wisdom scores and use them as thralls. At the very least, he can order a [charmed](/03_Mechanics/CLI/conditions.md#Charmed) character to guard him against other members of the adventuring party.  
 
 #### The Vampire's Minions
 
@@ -562,12 +562,12 @@ Whenever Strahd appears in a location other than his tomb or the place indicated
 
 | dice: d20 | Creatures |
 |-----------|-----------|
-| 1–3 | `1d4 + 2` [dire wolves](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) |
-| 4–6 | `1d6 + 3` [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 7–9 | `1d4 + 2` [Strahd zombies](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (in this appendix) |
-| 10–12 | `2d4` [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) |
-| 13–15 | `1d4 + 1` [vampire spawns](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
-| 16–18 | `3d6` [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md) |
+| 1–3 | `1d4 + 2` [dire wolves](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) |
+| 4–6 | `1d6 + 3` [ghouls](/03_Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
+| 7–9 | `1d4 + 2` [Strahd zombies](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) (in this appendix) |
+| 10–12 | `2d4` [swarms of bats](/03_Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) |
+| 13–15 | `1d4 + 1` [vampire spawns](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) |
+| 16–18 | `3d6` [wolves](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md) |
 | 19–20 | None |
 ^strahds-minions
 
@@ -581,24 +581,24 @@ Any damage that Strahd takes is transferred to the Heart of Sorrow (see chapter 
 
 The effect of the protection afforded by the Heart of Sorrow can be chilling to behold, as damage to Strahd is quickly undone. For example, a critical hit might dislocate Strahd's jaw, but only for a moment; then the vampire's jaw quickly resets itself.
 
-The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).
+The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an [antimagic field](/03_Mechanics/CLI/spells/antimagic-field-xphb.md).
 
 #### Lair Actions
 
-While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated).
 
 On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
 
 - Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.  
 - Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.  
-- Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md).  
-- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) that obeys Strahd's commands, acting on initiative count 20. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
+- Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [specter](/03_Mechanics/CLI/bestiary/undead/specter-xmm.md).  
+- Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [shadow](/03_Mechanics/CLI/bestiary/undead/shadow-xmm.md) that obeys Strahd's commands, acting on initiative count 20. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell or a [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.  
 
-![Strahd von Zarovich](/3-Mechanics/CLI/adventures/curse-of-strahd/img/153-636988936829621698.webp#center)
+![Strahd von Zarovich](/03_Mechanics/CLI/adventures/curse-of-strahd/img/153-636988936829621698.webp#center)
 
 ### Strahd Zombie
 
-[Strahd zombies](/3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) are undead that serve the vampire [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
+[Strahd zombies](/03_Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md) are undead that serve the vampire [Strahd von Zarovich](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md). Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
 
 #### Loathsome Limbs
 
@@ -610,11 +610,11 @@ A Strahd zombie doesn't require air or sleep.
 
 ### Vladimir Horngaard
 
-[Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [knight of the order](/3-Mechanics/CLI/bestiary/undead/knight-of-the-order-cos.md), he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
+[Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a [knight of the order](/03_Mechanics/CLI/bestiary/undead/knight-of-the-order-cos.md), he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
 
 #### Enemies of Strahd
 
-Vladimir found himself fighting Strahd's armies time and again as they swept across the land. When it became clear that Strahd couldn't be stopped, the knights of the order led hundreds of refugees to Argynvost's valley, but Strahd tracked them to their sanctuary and overwhelmed them with a vast force. Vladimir, whom Argynvost had made a field commander, couldn't hold back the evil tide and was killed, only after the heartbreak of witnessing Strahd himself slay Vladimir's beloved, his fellow knight [Sir Godfrey Gwilym](/3-Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md). With the battle won, Strahd surrounded Argynvostholt. Rather than cower in his lair, Argynvost emerged and battled Strahd's armies to the bitter end.
+Vladimir found himself fighting Strahd's armies time and again as they swept across the land. When it became clear that Strahd couldn't be stopped, the knights of the order led hundreds of refugees to Argynvost's valley, but Strahd tracked them to their sanctuary and overwhelmed them with a vast force. Vladimir, whom Argynvost had made a field commander, couldn't hold back the evil tide and was killed, only after the heartbreak of witnessing Strahd himself slay Vladimir's beloved, his fellow knight [Sir Godfrey Gwilym](/03_Mechanics/CLI/bestiary/npc/sir-godfrey-gwilym-cos.md). With the battle won, Strahd surrounded Argynvostholt. Rather than cower in his lair, Argynvost emerged and battled Strahd's armies to the bitter end.
 
 #### Deadly Vengeance
 
@@ -630,16 +630,16 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 
 #### Statistics
 
-[Vladimir Horngaard](/3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) has the statistics of a [revenant](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md) with the following modifications:
+[Vladimir Horngaard](/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md) has the statistics of a [revenant](/03_Mechanics/CLI/bestiary/undead/revenant-xmm.md) with the following modifications:
 
 - Vladimir's alignment is lawful evil.  
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a [greatsword, +2](/3-Mechanics/CLI/items/2-weapon-xdmg.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals 20 (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra 14 (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a [greatsword, +2](/03_Mechanics/CLI/items/2-weapon-xdmg.md) with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals 20 (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra 14 (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/154-cos19-11.webp#center)
+![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/154-cos19-11.webp#center)
 
 #### Vladimir Horngaard's Traits
 
@@ -657,7 +657,7 @@ Were Vladimir to let go of his hatred, his spirit would find peace and could rem
 
 ### Wereraven
 
-[Wereravens](/3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
+[Wereravens](/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
 
 In their human and hybrid forms, wereravens favor light weapons. They are reluctant to make bite attacks in raven form for fear of spreading their curse to those who don't deserve it or who would abuse it.
 
@@ -675,4 +675,4 @@ The "Monster Manual" has rules for characters afflicted with lycanthropy. The fo
 
 A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the "Player Characters as Lycanthropes" sidebar in the lycanthropes entry in the "Monster Manual" for details.
 
-![Wereraven](/3-Mechanics/CLI/adventures/curse-of-strahd/img/155-637515969684846750.webp#center)
+![Wereraven](/03_Mechanics/CLI/adventures/curse-of-strahd/img/155-637515969684846750.webp#center)

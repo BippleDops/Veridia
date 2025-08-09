@@ -12,7 +12,7 @@ modified: 2025-07-23 12:39
 ---
 # Halfling
 *Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)*  
-![](/3-Mechanics/CLI/races/img/halfling.webp#right)
+![](/03_Mechanics/CLI/races/img/halfling.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
@@ -23,7 +23,7 @@ modified: 2025-07-23 12:39
 
 ### Brave
 
-You have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition.
+You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition.
 
 ### Halfling Nimbleness
 
@@ -31,11 +31,11 @@ You can move through the space of any creature that is a size larger than you, b
 
 ### Luck
 
-When you roll a 1 on the `d20` of a [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), you can reroll the die, and you must use the new roll.
+When you roll a 1 on the `d20` of a [D20 Test](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md), you can reroll the die, and you must use the new roll.
 
 ### Naturally Stealthy
 
-You can take the [Hide](/3-Mechanics/CLI/actions.md#Hide) action even when you are obscured only by a creature that is at least one size larger than you.
+You can take the [Hide](/03_Mechanics/CLI/actions.md#Hide) action even when you are obscured only by a creature that is at least one size larger than you.
 
 ## Description
 

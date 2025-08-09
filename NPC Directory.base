@@ -100,10 +100,10 @@ views:
     name: Active NPCs
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
-        - status.equals("active")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
+        - status == "active"
     order:
       - formula.StatusIndicator
       - file.name
@@ -130,9 +130,9 @@ views:
     name: All NPCs
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
     order:
       - formula.StatusIndicator
       - file.name
@@ -159,13 +159,13 @@ views:
     name: Important NPCs
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
-        - anyOf:
-            - tags.contains("important")
-            - relationship.equals("allied")
-            - tags.contains("questgiver")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
+        - or:
+            - tags includes "important"
+            - relationship == "allied"
+            - tags includes "questgiver"
     columns: 3
     properties:
       - image_path
@@ -180,9 +180,9 @@ views:
     name: By Location
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
         - "{{location}}"
     order:
       - formula.StatusIndicator
@@ -192,15 +192,15 @@ views:
     parameters:
       location:
         type: link
-        source: "2-World/Locations"
+        source: "2-World/Places"
         
   - type: table
     name: By Faction
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
         - faction
     order:
       - faction
@@ -214,13 +214,13 @@ views:
       - column: file.name
         direction: ASC
         
-  - type: gallery
+  - type: cards
     name: NPC Gallery
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
         - image_path
     columns: 5
     properties:
@@ -234,11 +234,11 @@ views:
     name: Relationship Tracker
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
         - not:
-            - relationship.equals("neutral")
+            - relationship == "neutral"
     order:
       - formula.RelationshipColor
       - file.name
@@ -259,10 +259,10 @@ views:
     name: Session Hooks
     filters:
       and:
-        - anyOf:
-            - tags.contains("NPC")
-            - tags.contains("npc")
-        - status.equals("active")
+        - or:
+            - tags includes "NPC"
+            - tags includes "npc"
+        - status == "active"
         - lastSeen
     order:
       - file.name

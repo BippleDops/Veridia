@@ -13,4 +13,4 @@ modified: 2025-07-23 12:39
 
 ## 3rd Level
 
-- [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")
+- [Speak with Dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md "XPHB")

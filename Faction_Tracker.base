@@ -19,15 +19,14 @@ formulas:
     js:
     const e = target.enemies || [];
     return e.map(x => `⚔️ [[${x}]]`).join(', ');
-
 views:
   - type: table
     name: All Factions
     filters:
       and:
-        - anyOf:
-            - tags.contains("Faction")
-            - tags.contains("faction")
+        - or:
+            - tags includes "Faction"
+            - tags includes "faction"
     order:
       - file.name
       - realm
@@ -36,7 +35,7 @@ views:
       - headquarters
       - formula.PowerScore
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 200
@@ -45,18 +44,17 @@ views:
       leader: 160
       headquarters: 160
       formula.PowerScore: 100
-
   - type: cards
     name: Power Rankings
     filters:
       and:
-        - anyOf:
-            - tags.contains("Faction")
-            - tags.contains("faction")
-    columns: 3
+        - or:
+            - tags includes "Faction"
+            - tags includes "faction"
     sort:
-      - column: formula.PowerScore
+      - property: formula.PowerScore
         direction: DESC
+    columns: 3
     properties:
       - emblem
       - file.name
@@ -64,26 +62,23 @@ views:
       - realm
       - formula.ReputationBadge
       - goals
-
   - type: table
     name: Party Standing
     filters:
       and:
-        - anyOf:
-            - tags.contains("Faction")
-            - tags.contains("faction")
+        - or:
+            - tags includes "Faction"
+            - tags includes "faction"
     order:
       - file.name
       - party_reputation
       - formula.AlliesList
       - formula.EnemiesList
     sort:
-      - column: party_reputation
+      - property: party_reputation
         direction: DESC
     columnSize:
       file.name: 200
       party_reputation: 120
       formula.AlliesList: 240
       formula.EnemiesList: 240
-
-

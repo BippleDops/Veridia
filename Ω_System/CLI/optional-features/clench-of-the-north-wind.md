@@ -15,4 +15,4 @@ modified: 2025-07-23 12:39
 
 **Prerequisite**: Level 6
 
-You can spend 3 ki points to cast [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md).
+You can spend 3 ki points to cast [hold person](/03_Mechanics/CLI/spells/hold-person-xphb.md).

@@ -17,11 +17,11 @@ aliases:
 # [Vegepygmy](3-Mechanics\CLI\bestiary\plant/vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
 
-Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [russet mold](/3-Mechanics/CLI/traps-hazards/russet-mold-vgm.md). One or more vegepygmies emerge from the corpse a day later.
+Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [russet mold](/03_Mechanics/CLI/traps-hazards/russet-mold-vgm.md). One or more vegepygmies emerge from the corpse a day later.
 
 ## Vegepygmies
 
-Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [myconid adults](/3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md), [shriekers](/3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md), and [violet fungi](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md).
+Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [myconid adults](/03_Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md), [shriekers](/03_Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md), and [violet fungi](/03_Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md).
 
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
@@ -44,16 +44,16 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](/03_Mechanics/CLI/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](/03_Mechanics/CLI/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "lightning, piercing"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Vegepygmy"
 "cr": "1/4"
 "traits":
-  - "desc": "The vegepygmy has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The vegepygmy has advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth))\
       \ checks it makes in any terrain with ample obscuring vegetation."
     "name": "Plant Camouflage"
   - "desc": "The vegepygmy regains 3 hit points at the start of its turn. If it takes\
@@ -71,7 +71,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/vegepygmy-mpmm.webp"
+"image": "/03_Mechanics/CLI/bestiary/plant/token/vegepygmy-mpmm.webp"
 ```
 ^statblock
 

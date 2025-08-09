@@ -304,7 +304,7 @@ graph TD
 - [[Ω_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview]]
 - [[Ω_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview]]
 - [[The Seven Shards Mystery]]
-- [[3-Mechanics/Depth Adaptation System]]
+- [[03_Mechanics/Depth Adaptation System]]
 - [[Crystal Plague Mechanics]]
 - [[NPC Cross-World Connections]]
 - [[Merged Zone Navigation]]

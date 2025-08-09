@@ -62,6 +62,6 @@ The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom
     "name": "Barbed Tail"
 "source":
   - "OotA"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/ixitxachitl-oota.webp"
+"image": "/03_Mechanics/CLI/bestiary/aberration/token/ixitxachitl-oota.webp"
 ```
 ^statblock

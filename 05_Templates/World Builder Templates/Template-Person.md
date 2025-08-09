@@ -1,35 +1,43 @@
 ---
 MyContainer: []
-MyCategory:
+MyCategory: null
 tags:
-  - Category/People
+- Category/People
 obsidianUIMode: preview
 aliases:
-  - characters other name
-NoteStatus: ❓
+- characters other name
+NoteStatus: "\u2753"
 char_status: Alive
 char_race: Human
 char_gender: Male
-char_items:
+char_items: null
 char_age: Adult
 parents:
-  - Josh
-  - Susan
+- Josh
+- Susan
 children:
-  - Bob
-  - Fred
+- Bob
+- Fred
 enemies:
-  - Zander
+- Zander
 allies:
-  - Emyerson
-  - Bob
-  - Frank
+- Emyerson
+- Bob
+- Frank
 siblings:
-  - Flip
+- Flip
 partner:
-  - Jane
+- Jane
 Connected_Quests: []
 Connected_Groups: []
+in_combat: true
+initiative: 12
+current_hp: 15
+max_hp: 20
+relationships:
+- target: '[[Captain Garrett Stormcutter]]'
+  type: ally
+  strength: 3
 ---
 
 <%*
@@ -42,10 +50,10 @@ await tp.file.rename(personName);
 // 2) Gather all potential residence notes
 const allFiles = tp.app.vault.getMarkdownFiles();
 const locationFiles = allFiles.filter(f =>
-  f.path.startsWith("2-World/Hubs/") ||
-  f.path.startsWith("2-World/Points of Interest/") ||
-  f.path.startsWith("2-World/Regions/") ||
-  f.path.startsWith("2-World/Places/")
+  f.path.startsWith("02_Worldbuilding/Hubs/") ||
+  f.path.startsWith("02_Worldbuilding/Points of Interest/") ||
+  f.path.startsWith("02_Worldbuilding/Regions/") ||
+  f.path.startsWith("02_Worldbuilding/Places/")
 );
 
 // Add placeholder option

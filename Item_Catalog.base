@@ -12,22 +12,37 @@ formulas:
     js:
     if (!target.owner) return '';
     return Array.isArray(target.owner) ? target.owner.map(o=>`[[${o}]]`).join(', ') : `[[${target.owner}]]`;
-
 views:
   - type: table
-    name: All Items
+    name: All Items (Safe)
     filters:
-      and:
-        - tags includes "Item"
-    order:
+      tags contains "Item"
+    columns:
       - file.name
-      - formula.RarityTag
+      - rarity
       - type
-      - formula.AttuneIcon
-      - formula.OwnerLink
+      - owner
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 240
+      rarity: 120
+      type: 140
+      owner: 180
+  - type: table
+    name: Item Overview
+    filters:
+      tags contains "Item"
+    columns:
+      - file.name
+      - rarity
+      - type
+      - attunement
+      - owner
       - source
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 240
@@ -36,58 +51,73 @@ views:
       formula.AttuneIcon: 120
       formula.OwnerLink: 180
       source: 120
-
   - type: cards
     name: Magic Items
     filters:
       and:
-        - tags includes "Item"
+        - tags contains "Item"
         - magic.equals(true)
+    columns: 4
+    limit: 100
+    properties:
+      - image
+      - file.name
+      - rarity
+      - attunement
+      - owner
+      - type
   - type: table
     name: Party Inventory
     filters:
       and:
-        - tags includes "Item"
+        - tags contains "Item"
         - owner
-    order:
-      - formula.OwnerLink
+    columns:
+      - owner
       - file.name
-      - formula.RarityTag
+      - rarity
       - type
     sort:
-      - column: formula.OwnerLink
+      - property: owner
         direction: ASC
     columnSize:
       formula.OwnerLink: 200
       file.name: 260
       formula.RarityTag: 120
       type: 140
-
-    columns: 4
-    properties:
-      - image
-      - file.name
-      - formula.RarityTag
-      - formula.AttuneIcon
-      - formula.OwnerLink
-      - description
-
   - type: table
     name: Shop Inventory
     filters:
       and:
-        - tags includes "Item"
+        - tags contains "Item"
         - shop
-    order:
+    columns:
       - shop
       - price_gp
       - file.name
+      - attunement
     sort:
-      - column: price_gp
+      - property: price_gp
         direction: ASC
     columnSize:
       shop: 160
       price_gp: 100
       file.name: 260
-
-
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - rarity
+      - type
+      - owner
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      rarity: 120
+      type: 140
+      owner: 180
+      tags: 200

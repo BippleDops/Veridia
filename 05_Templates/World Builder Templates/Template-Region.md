@@ -19,9 +19,9 @@ if (tp.file.title.startsWith("NewRegion")) {
   title = tp.file.title;
 }
 
-// 2) Gather all continent files under 2-World/Continents/
+// 2) Gather all continent files under 02_Worldbuilding/Continents/
 const continentFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Continents/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Continents/"));
 
 if (continentFiles.length === 0) {
   new Notice("No continent notes found.");
@@ -144,7 +144,7 @@ Make notes of what you need to track in the region here.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Hubs(s)", MyCategory as "Type"
-FROM "2-World/Hubs"
+FROM "02_Worldbuilding/Hubs"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -155,7 +155,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Points of Interest(s)", MyCategory as "Type"
-FROM "2-World/Points of Interest"
+FROM "02_Worldbuilding/Points of Interest"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -166,7 +166,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Group(s)", MyCategory as "Type"
-FROM "2-World/Groups"
+FROM "02_Worldbuilding/Groups"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -178,7 +178,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Quest(s)", questGiver AS "Quest Giver", questStatus AS "Status"
-FROM "2-World/Quests"
+FROM "02_Worldbuilding/Quests"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```

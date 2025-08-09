@@ -16,9 +16,9 @@ await tp.file.rename(poiName);
 
 // 2) Gather files from Regions and Star Systems
 const regionFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Regions/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Regions/"));
 const systemFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Star Systems/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Star Systems/"));
 
 // Add placeholder option
 const placeholderLabel = "🌀 No Container Selected";
@@ -167,7 +167,7 @@ This is inside
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", questStatus AS "Status", questGiver AS "Quest Giver"
-FROM "2-World/Quests"
+FROM "02_Worldbuilding/Quests"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -178,7 +178,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender", Connected_Groups AS "Associated Group"
-FROM "2-World/People"
+FROM "02_Worldbuilding/People"
 WHERE contains(char_status, "Alive")
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

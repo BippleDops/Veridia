@@ -1,45 +1,68 @@
-formulas:
-  Degree: |
-    js:
-    const rels = target.relationships || [];
-    return rels.length;
-  Allies: |
-    js:
-    const rels = (target.relationships||[]).filter(r=>r.relationship_type==='Ally');
-    return rels.map(r=>`[[${r.target}]]`).join(', ');
-  Enemies: |
-    js:
-    const rels = (target.relationships||[]).filter(r=>r.relationship_type==='Enemy');
-    return rels.map(r=>`[[${r.target}]]`).join(', ');
-
 views:
   - type: table
-    name: Most Connected
-    order:
-      - entity_name
-      - entity_type
-      - formula.Degree
-      - primary_faction
-      - cluster_group
+    name: All Entities with Relationships
+    filters:
+      and:
+        - relationships
+    columns:
+      - file.name
+      - relationships
     sort:
-      - column: formula.Degree
-        direction: DESC
+      - property: file.name
+        direction: ASC
+    limit: 200
     columnSize:
-      entity_name: 200
-      entity_type: 120
-      formula.Degree: 100
-      primary_faction: 160
-      cluster_group: 140
-
+      file.name: 250
+      relationships: 500
+      
   - type: table
-    name: Allies & Enemies
-    order:
-      - entity_name
-      - formula.Allies
-      - formula.Enemies
+    name: All People
+    filters:
+      tags contains "Category/People"
+    columns:
+      - file.name
+      - status
+      - alignment
+      - level
+    sort:
+      - property: file.name
+        direction: ASC
     columnSize:
-      entity_name: 220
-      formula.Allies: 300
-      formula.Enemies: 300
-
-
+      file.name: 200
+      status: 100
+      alignment: 120
+      level: 80
+      
+  - type: table
+    name: Network View
+    filters:
+      and:
+        - relationships
+    columns:
+      - file.name
+      - relationships
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      relationships: 400
+      tags: 200
+      
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - relationships
+      - tags
+      - path
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      relationships: 300
+      tags: 200
+      path: 200

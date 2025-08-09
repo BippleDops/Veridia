@@ -43,9 +43,9 @@ if (tp.file.title.startsWith("NewSpecies")) {
   title = tp.file.title;
 }
 
-// 2) Gather all planet files under 2-World/Planets
+// 2) Gather all planet files under 02_Worldbuilding/Planets
 const planetFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Planets/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Planets/"));
 
 const placeholderLabel = "🌀 No Planet Selected";
 const placeholderPath = "__placeholder__";
@@ -227,7 +227,7 @@ The following people are members of this group.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
-FROM "2-World/People"
+FROM "02_Worldbuilding/People"
 WHERE contains(Connected_Groups, this.file.link)
 SORT file.name ASC
 ```
@@ -258,7 +258,7 @@ views:
     name: People
     filters:
       and:
-        - file.inFolder("2-World/People")
+        - file.inFolder("02_Worldbuilding/People")
         - MyContainer.contains(this.file.path)
     order:
       - file.name

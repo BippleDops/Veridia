@@ -97,24 +97,39 @@ formulas:
 
 views:
   - type: table
+    name: All NPCs
+    filters:
+      and:
+        - tags contains "Category/People"
+    columns:
+      - file.name
+      - occupation
+      - location
+      - char_status
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      occupation: 120
+      location: 150
+      char_status: 100
+  - type: table
     name: Active NPCs
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
-        - status == "active"
-    order:
-      - formula.StatusIndicator
+        - tags contains "Category/People"
+        - char_status == "Alive"
+    columns:
       - file.name
-      - formula.LocationLink
       - occupation
-      - formula.FactionBadge
-      - formula.RelationshipColor
-      - formula.LastInteraction
-      - formula.OverdueContact
+      - location
+      - faction
+      - relationship
+      - char_status
+      - lastSeen
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       formula.StatusIndicator: 40
@@ -127,23 +142,21 @@ views:
       formula.OverdueContact: 110
 
   - type: table
-    name: All NPCs
+    name: All NPCs (Detailed)
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
-    order:
-      - formula.StatusIndicator
+        - tags contains "Category/People"
+    columns:
       - file.name
-      - formula.LocationLink
       - occupation
-      - formula.FactionBadge
-      - formula.RelationshipColor
-      - formula.LastInteraction
+      - location
+      - faction
+      - relationship
+      - char_status
       - firstMet
+      - lastSeen
     sort:
-      - column: file.name
+      - property: file.name
         direction: ASC
     columnSize:
       formula.StatusIndicator: 40
@@ -159,94 +172,82 @@ views:
     name: Important NPCs
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
-        - or:
-            - tags includes "important"
-            - relationship == "allied"
-            - tags includes "questgiver"
+        - tags contains "Category/People"
+        - tags contains "important"
     columns: 3
+    limit: 100
     properties:
       - image_path
-      - formula.FullName
-      - formula.QuickInfo
-      - formula.LocationLink
-      - formula.FactionBadge
-      - formula.RelationshipColor
+      - file.name
+      - occupation
+      - location
+      - relationship
       - motivation
       
   - type: table
     name: By Location
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
+        - tags contains "Category/People"
         - "{{location}}"
-    order:
-      - formula.StatusIndicator
+    columns:
       - file.name
       - occupation
-      - formula.RelationshipColor
+      - location
+      - relationship
+      - char_status
     parameters:
       location:
         type: link
-        source: "2-World/Places"
+        source: "02_Worldbuilding/Places"
         
   - type: table
     name: By Faction
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
+        - tags contains "Category/People"
         - faction
-    order:
+    columns:
       - faction
       - file.name
       - formula.StatusIndicator
       - formula.LocationLink
       - formula.RelationshipColor
     sort:
-      - column: faction
+      - property: faction
         direction: ASC
-      - column: file.name
+      - property: file.name
         direction: ASC
         
   - type: cards
     name: NPC Gallery
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
+        - tags contains "Category/People"
         - image_path
     columns: 5
+    limit: 100
     properties:
       - image_path
       - file.name
-      - formula.QuickInfo
-      - formula.LocationLink
-      - formula.RelationshipColor
+      - occupation
+      - location
+      - relationship
       
   - type: table
     name: Relationship Tracker
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
-        - not:
-            - relationship == "neutral"
-    order:
-      - formula.RelationshipColor
+        - tags contains "Category/People"
+        - relationship != "neutral"
+    columns:
       - file.name
-      - formula.LocationLink
-      - formula.LastInteraction
+      - relationship
+      - location
+      - lastSeen
       - notes
     sort:
-      - column: relationship
+      - property: relationship
         direction: DESC
     columnSize:
       formula.RelationshipColor: 100
@@ -259,21 +260,37 @@ views:
     name: Session Hooks
     filters:
       and:
-        - or:
-            - tags includes "NPC"
-            - tags includes "npc"
-        - status == "active"
+        - tags contains "Category/People"
+        - char_status == "Alive"
         - lastSeen
-    order:
+    columns:
       - file.name
       - lastSeen
-      - formula.LocationLink
-      - formula.OverdueContact
+      - location
+      - char_status
     sort:
-      - column: lastSeen
+      - property: lastSeen
         direction: ASC
     columnSize:
       file.name: 160
       lastSeen: 120
       formula.LocationLink: 160
       formula.OverdueContact: 120
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - occupation
+      - location
+      - char_status
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      occupation: 120
+      location: 150
+      char_status: 100
+      tags: 200

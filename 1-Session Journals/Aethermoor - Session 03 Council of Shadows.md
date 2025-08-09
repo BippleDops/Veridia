@@ -3,11 +3,11 @@ tags: [session, aethermoor, political, intrigue, murder]
 session_number: 3
 title: "Council of Shadows"
 date_played: 
-location: "[[2-World/Places/Port Meridian]] - Noble Quarter"
+location: "[[02_Worldbuilding/Places/Port Meridian]] - Noble Quarter"
 npcs_featured:
   - "[[Lord Aurelius Goldwave]]"
-  - "[[2-World/People/High Inquisitor Maltheos]]"
-  - "[[2-World/People/Captain Lyanna Brightshield]]"
+  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
+  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
   - "[[Brother Marcus Steelbane]]"
   - "[[Silver Mask]]"
 quests_advanced:
@@ -54,7 +54,7 @@ The party is summoned to an emergency council, but arrives to find [[Lord Aureli
 
 ### Scene 2: The Secret Council
 **Location**: Hidden chamber beneath [[Cathedral of Light]]
-**Situation**: [[2-World/People/High Inquisitor Maltheos]] chairs emergency faction meeting
+**Situation**: [[02_Worldbuilding/People/High Inquisitor Maltheos]] chairs emergency faction meeting
 **Conflict**: Accusations fly between all factions
 
 #### Faction Representatives
@@ -197,7 +197,7 @@ During the midnight market raid, [[Brother Marcus Steelbane]] arrives franticall
 ## 🔗 Connections
 - **Previous**: [[1-Session Journals/Aethermoor - Session 02 The Lighthouse of Storms]]
 - **Next**: [[1-Session Journals/Aethermoor - Session 04 The Silverscale Gambit]]
-- **NPCs Introduced**: [[2-World/People/High Inquisitor Maltheos]], [[Silver Mask]]
+- **NPCs Introduced**: [[02_Worldbuilding/People/High Inquisitor Maltheos]], [[Silver Mask]]
 - **Locations Visited**: [[Goldwave Manor]], [[Cathedral of Light]], [[Shadow Bazaar]]
 - **Items Gained**: Royal seal, Crystal fragment
 - **Factions**: Relations shifted based on party actions

@@ -4,7 +4,7 @@ formulas:
     const cr = target.cr || "?";
     const type = target.type || "unknown";
     const size = target.size || "";
-    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/${type}.png`;
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultMonster.png';
 
     const crColor = (() => {
       const crNum = parseFloat(cr);
@@ -29,7 +29,7 @@ formulas:
     js:
     const rarity = target.rarity || "Common";
     const type = target.type || "Item";
-    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/Item_${type}.png`;
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultItem.png';
     const attunement = target.attunement ? "⚡" : "";
 
     const rarityConfig = {
@@ -88,7 +88,7 @@ formulas:
     const relationship = target.relationship || "neutral";
     const occupation = target.occupation || "Commoner";
     const status = target.status || "active";
-    const imagePath = target.image_path || `Ω_Assets/Placeholder Images/Character_Default.png`;
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultImage.png';
 
     const relationshipColors = {
       'hostile': '#DC2626',
@@ -123,7 +123,7 @@ formulas:
     const locationType = target.location_type || "location";
     const population = target.population ? `Pop: ${target.population}` : "";
     const climate = target.climate || "";
-    const imagePath = target.image_path || target.map_path || `Ω_Assets/Placeholder Images/Location_Default.png`;
+    const imagePath = target.image_path || target.map_path || '04_Resources/Assets/Placeholder Images/DefaultImage.png';
 
     const typeColors = {
       'city': '#2563EB',
@@ -147,6 +147,21 @@ formulas:
       ${climate ? `<div class="card-climate" style="text-align: center; color: var(--text-muted); font-size: 0.8em;">${climate}</div>` : ''}
     </div>`;
 views:
+  - type: table
+    name: All Content
+    filters:
+      path includes "CLI/bestiary"
+    columns:
+      - file.name
+      - type
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      type: 120
+      tags: 200
   - type: cards
     name: Monster Cards
     filters:
@@ -156,23 +171,30 @@ views:
       - property: cr
         direction: ASC
     columns: 5
+    limit: 50
     properties:
-      - formula.MonsterCard
-    pageSize: 25
+      - file.name
+      - image_path
+      - type
+      - cr
+      - size
+      - hp
   - type: cards
     name: Item Cards
     filters:
-      and:
-        - or:
-            - path includes "03_Mechanics/Items"
-            - path includes "CLI/items"
+      path includes "03_Mechanics/Items"
     sort:
       - property: rarity
         direction: DESC
     columns: 4
+    limit: 50
     properties:
-      - formula.ItemCard
-    pageSize: 20
+      - file.name
+      - image_path
+      - rarity
+      - type
+      - attunement
+      - cost
   - type: cards
     name: Spell Cards
     filters:
@@ -183,9 +205,14 @@ views:
       - property: file.name
         direction: ASC
     columns: 4
+    limit: 50
     properties:
-      - formula.SpellCard
-    pageSize: 20
+      - file.name
+      - level
+      - school
+      - castingTime
+      - concentration
+      - ritual
     parameters:
       level:
         type: select
@@ -214,51 +241,85 @@ views:
     name: NPC Cards
     filters:
       and:
-        - tags includes "NPC"
+        - tags contains "Category/People"
     sort:
-      - property: relationship
-        direction: DESC
+      - property: file.name
+        direction: ASC
     columns: 4
+    limit: 50
     properties:
-      - formula.NPCCard
-    pageSize: 20
+      - file.name
+      - image_path
+      - occupation
+      - relationship
+      - char_status
+      - location
   - type: cards
     name: Location Cards
     filters:
       and:
-        - tags includes "location"
+        - tags contains "Category/Place"
     sort:
-      - property: location_type
+      - property: file.name
         direction: ASC
     columns: 3
+    limit: 50
     properties:
-      - formula.LocationCard
-    pageSize: 15
+      - file.name
+      - image_path
+      - location_type
+      - population
+      - climate
+      - region
   - type: cards
     name: Boss Cards
     filters:
       and:
         - path includes "bestiary"
-        - or:
-            - cr.gte(15)
-            - legendary
+        - cr.gte(15)
     sort:
       - property: cr
         direction: DESC
     columns: 3
+    limit: 30
     properties:
-      - formula.MonsterCard
+      - file.name
+      - image_path
+      - type
+      - cr
+      - legendary
+      - hp
   - type: cards
     name: Magic Item Cards
     filters:
       and:
-        - path includes "items"
-        - not:
-            - rarity == "Common"
+        - path includes "03_Mechanics/Items"
+        - rarity != "Common"
     sort:
       - property: rarity
         direction: DESC
     columns: 4
+    limit: 50
     properties:
-      - formula.ItemCard
-    pageSize: 16
+      - file.name
+      - image_path
+      - rarity
+      - type
+      - attunement
+      - cost
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - type
+      - tags
+      - image_path
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      type: 120
+      tags: 200
+      image_path: 300

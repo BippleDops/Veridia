@@ -43,7 +43,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Person.md
     fileName: NewPerson
-    folderPath: 2-World/People
+    folderPath: 02_Worldbuilding/People
 icon: users
 tooltip: Create a new Person (NPC)
 ```
@@ -56,7 +56,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Group.md
     fileName: NewGroup
-    folderPath: 2-World/Groups
+    folderPath: 02_Worldbuilding/Groups
 icon: users-round
 tooltip: Create a new Group/Faction
 ```
@@ -69,7 +69,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Hub.md
     fileName: NewHub
-    folderPath: 2-World/Hubs
+    folderPath: 02_Worldbuilding/Hubs
 icon: building-2
 tooltip: Create a new Hub (city, town, village)
 ```
@@ -82,7 +82,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Place.md
     fileName: NewPlace
-    folderPath: 2-World/Places
+    folderPath: 02_Worldbuilding/Places
 icon: landmark
 tooltip: Create a new Place
 ```
@@ -95,7 +95,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-PointofInterest.md
     fileName: NewPOI
-    folderPath: 2-World/Points of Interest
+    folderPath: 02_Worldbuilding/Points of Interest
 icon: map-pin
 tooltip: Create a new Point of Interest
 ```
@@ -108,7 +108,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Region.md
     fileName: NewRegion
-    folderPath: 2-World/Regions
+    folderPath: 02_Worldbuilding/Regions
 icon: map
 tooltip: Create a new Region
 ```
@@ -121,7 +121,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Continent.md
     fileName: NewContinent
-    folderPath: 2-World/Continents
+    folderPath: 02_Worldbuilding/Continents
 icon: globe-2
 tooltip: Create a new Continent
 ```
@@ -134,7 +134,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Galaxy.md
     fileName: NewGalaxy
-    folderPath: 2-World/Galaxies
+    folderPath: 02_Worldbuilding/Galaxies
 icon: galaxy
 tooltip: Create a new Galaxy
 ```
@@ -147,7 +147,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Star-System.md
     fileName: NewStarSystem
-    folderPath: 2-World/Star Systems
+    folderPath: 02_Worldbuilding/Star Systems
 icon: orbit
 tooltip: Create a new Star System
 ```
@@ -160,7 +160,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Planet.md
     fileName: NewPlanet
-    folderPath: 2-World/Planets
+    folderPath: 02_Worldbuilding/Planets
 icon: planet
 tooltip: Create a new Planet
 ```
@@ -173,7 +173,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-SapientSpecies.md
     fileName: NewSapientSpecies
-    folderPath: 2-World/Sapient Species
+    folderPath: 02_Worldbuilding/Sapient Species
 icon: dna
 tooltip: Create a new Sapient Species
 ```
@@ -186,7 +186,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Quest.md
     fileName: NewQuest
-    folderPath: 2-World/Quests
+    folderPath: 02_Worldbuilding/Quests
 icon: target
 tooltip: Create a new Quest
 ```

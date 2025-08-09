@@ -21,11 +21,11 @@ await tp.file.rename(poiName);
 
 // 2) Gather and pick a container from multiple directories
 const containerPaths = [
-  "2-World/Quests/",
-  "2-World/People/",
-  "2-World/Groups/",
-  "2-World/Points of Interest/",
-  "2-World/Places/"
+  "02_Worldbuilding/Quests/",
+  "02_Worldbuilding/People/",
+  "02_Worldbuilding/Groups/",
+  "02_Worldbuilding/Points of Interest/",
+  "02_Worldbuilding/Places/"
 ];
 
 const containerFiles = tp.app.vault.getMarkdownFiles()

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "41d23627822ad229",
+        "id": "473123416d8c17fd",
         "type": "tabs",
         "children": [
           {
-            "id": "99e728d939996712",
+            "id": "447ab8d8f238ca17",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Image Library.base",
-                "viewName": "All Images"
+                "file": "Item Showcase.base",
+                "viewName": "Item Gallery"
               },
-              "icon": "lucide-table",
-              "title": "Image Library"
+              "icon": "lucide-layout-list",
+              "title": "Item Showcase"
             }
           }
         ]
@@ -165,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Image Library.base",
+                "file": "Item Showcase.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Image Library"
+              "title": "Outline of Item Showcase"
             }
           },
           {
@@ -353,8 +353,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99e728d939996712",
+  "active": "447ab8d8f238ca17",
   "lastOpenFiles": [
+    "Location Tracker.base.tmp.83938.1754766250485",
+    "Quest Campaign Tracker.base.tmp.83938.1754766225818",
+    "NPC Directory.base.tmp.83938.1754766211564",
+    "Item_Catalog.base",
+    "Item Showcase.base",
+    "Monster Gallery.base",
+    "Spell Compendium.base",
+    "Combat Tracker.base",
+    "Image Library.base",
     "Faction_Tracker.base",
     "Ω_Assets/Pasted image 20250121213204.png",
     "Ω_Assets/Pasted Image 20240630225934_265.png",
@@ -362,22 +371,13 @@
     "Ω_Assets/Pasted image 20240630203445.png",
     "Ω_Assets/Pasted image 20240630203450.png",
     "03_Rules_Reference/Homebrew/Items/Harbor Master's Compass.md",
-    "Image Library.base",
-    "Combat Tracker.base",
     "Modern Card Galleries.base",
-    "Location Tracker.base",
     "Ω_Archive/1-DM Toolkit/Home - DV.md",
     "Ω_Archive/1-DM Toolkit/Untitled.md",
-    "npc-roster.base",
     "PROMPT_FOR_NEW_WORLD.md",
-    "location-tracker.base",
-    "campaign-dashboard.base",
-    "combat-tracker.base",
     "00_Dashboard/USER_TODO.md",
     "00_Dashboard/Master_Campaign_Control_Center_v2.md",
-    "00_Dashboard/NPC Roster.base",
     "Clippings/The Ghost in the Therapy Room.md",
-    "Clippings",
     "00_Dashboard/DM_Dashboard.md",
     "00_Dashboard/Dashboard.md",
     "01_Campaigns/Campaign_Name/Player_Characters/Example Party 1.md",

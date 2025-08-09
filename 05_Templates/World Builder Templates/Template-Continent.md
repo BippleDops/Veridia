@@ -19,9 +19,9 @@ if (tp.file.title.startsWith("NewContinent")) {
   title = tp.file.title;
 }
 
-// 2) Gather all planet files under 2-World/Planets/
+// 2) Gather all planet files under 02_Worldbuilding/Planets/
 const planetFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Planets/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Planets/"));
 
 const placeholderLabel = "🌀 No Continent Selected";
 const placeholderPath = "__placeholder__";
@@ -118,7 +118,7 @@ Make notes of what you need to track in the region here.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Region(s)", MyCategory as "Type"
-FROM "2-World/Regions"
+FROM "02_Worldbuilding/Regions"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -132,7 +132,7 @@ SORT file.name ASC
 const thisContinent = dv.current().file.path;
 
 // Step 2: Find all Region notes that belong to this continent
-const regions = dv.pages('"2-World/Regions"')
+const regions = dv.pages('"02_Worldbuilding/Regions"')
   .where(region => {
     if (!region.MyContainer) return false;
     const containerLinks = Array.isArray(region.MyContainer) ? region.MyContainer : [region.MyContainer];
@@ -143,7 +143,7 @@ const regions = dv.pages('"2-World/Regions"')
 const regionPaths = new Set(regions.map(r => r.file.path));
 
 // Step 3: Find all Hubs in those Regions and matching category
-const hubs = dv.pages('"2-World/Hubs"')
+const hubs = dv.pages('"02_Worldbuilding/Hubs"')
   .where(hub => {
     if (!hub.MyContainer || !hub.MyCategory) return false;
     const containers = Array.isArray(hub.MyContainer) ? hub.MyContainer : [hub.MyContainer];

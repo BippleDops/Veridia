@@ -10,21 +10,21 @@ primary_location: "[[Whisper Island]]"
 locations_visited:
   - "[[Whisper Island Docks]]"
   - "[[The Seahawk]]"
-  - "[[2-World/People/Lighthouse Keeper|Lighthouse Keeper's House]]"
+  - "[[02_Worldbuilding/People/Lighthouse Keeper|Lighthouse Keeper's House]]"
   - "[[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms]]"
   - "[[Resonance Chamber]]"
 npcs_met:
-  - "[[2-World/People/Marina-Red-Tide-Coralheart]]"
+  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
   - "[[Jasper Three-Eyes Flint]]"
-  - "[[2-World/People/Vex Shadowthorn|Vex Shadowthorn]]'s Apprentices"
-  - "[[2-World/People/The Crimson Sage]]" # glimpse only
+  - "[[02_Worldbuilding/People/Vex Shadowthorn|Vex Shadowthorn]]'s Apprentices"
+  - "[[02_Worldbuilding/People/The Crimson Sage]]" # glimpse only
 encounters:
   - "[[Crystal Mimics]]"
   - "[[Infected Experiments]]"
   - "[[Crimson Hand Apprentices]]"
 quests_started:
   - "[[The Whisper Island Mystery]]"
-- "[[2-World/Quests/Captain Blackwater's Fate|Captain Blackwater's Fate]]"
+- "[[02_Worldbuilding/Quests/Captain Blackwater's Fate|Captain Blackwater's Fate]]"
 quests_progressed:
   - "[[Investigate the Crystal Plague]]"
 quests_completed: []
@@ -70,7 +70,7 @@ The party investigates Whisper Island, discovering Captain Blackwater's crystall
 ### NPCs to Include
 - [[Jasper Three-Eyes Flint]] - Terrified survivor with crucial info
 - [[Vex Shadowthorn's Apprentices]] - Fanatic but doubting
-- [[2-World/People/The Crimson Sage]] - Mysterious first appearance
+- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious first appearance
 
 ## Session Timeline
 
@@ -100,7 +100,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 **Key Discovery:** Journal entry: "The seven shards aren't weapons - they're a prison. Something sleeps beneath the waves, and the crystals are its dreams made manifest."
 
 #### Event 2: The Keeper's House
-**Location:** [[2-World/People/Lighthouse Keeper|Lighthouse Keeper's House]]
+**Location:** [[02_Worldbuilding/People/Lighthouse Keeper|Lighthouse Keeper's House]]
 **NPCs:** [[Jasper Three-Eyes Flint]]
 **Outcome:**
 - Find Jasper hiding, partially crystallized (30% transformed)
@@ -133,14 +133,14 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 - Apprentices conducting ritual to "call the Deep God"
 - Can attempt to reason (Persuasion DC 20) or fight
 - Disrupting ritual triggers vision sequence
-- [[2-World/People/The Crimson Sage]] appears briefly to help if needed
+- [[02_Worldbuilding/People/The Crimson Sage]] appears briefly to help if needed
 
 ### The Shared Vision
 When the ritual is disrupted, everyone experiences:
 > *You're falling... no, sinking. The world inverts. Below becomes above. You see a vast city of impossible architecture - spires that grow downward, water that flows upward, streets that exist in multiple dimensions simultaneously. Thousands of crystallized figures are arranged in prayer formation. A voice speaks in your minds, not in words but in pure meaning: "The Seventh Shard awakens. The Drowned God stirs. The surface world's time grows short."*
 
 ### Closing Scene
-**Location:** [[2-World/People/Lighthouse Keeper|Lighthouse Keeper's House]]
+**Location:** [[02_Worldbuilding/People/Lighthouse Keeper|Lighthouse Keeper's House]]
 **Cliffhanger:**
 The party awakens from the vision to find three days have passed. Jasper is gone, leaving only a note: "They know you're here now. Both of them - the thing below and the one who wears the crown. The city prepares for war with itself. Trust the Sage, fear the Queen, find the Seven before the Festival. PS - I took one shard. Safer with me running than you fighting."
 
@@ -201,7 +201,7 @@ Per Player: 200-250 (depending on party size)
 
 ### Relationship Changes
 - [[Jasper Three-Eyes Flint]] - Disposition varies based on treatment
-- [[2-World/People/The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
+- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
 
 ## World Changes
 - Lighthouse experiments disrupted
@@ -232,7 +232,7 @@ Per Player: 200-250 (depending on party size)
 7. Festival is significant deadline
 
 ## Hooks for Next Session
-1. Emergency council in [[2-World/Places/Port Meridian]]
+1. Emergency council in [[02_Worldbuilding/Places/Port Meridian]]
 2. Three days missing - what happened?
 3. Jasper has one shard and is running
 4. Festival deadline approaching

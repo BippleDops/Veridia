@@ -2,12 +2,13 @@
   "readableLineLength": false,
   "livePreview": true,
   "promptDelete": false,
-  "attachmentFolderPath": "z_Assets",
+  "attachmentFolderPath": "04_Resources/Assets",
   "showUnsupportedFiles": true,
   "showFrontmatter": false,
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "uriCallbacks": true
 }

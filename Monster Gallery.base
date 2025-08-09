@@ -1,150 +1,60 @@
-formulas:
-  # Monster image with type fallback
-  MonsterImage: |
-    js:
-    if (target.image_path) {
-      return `![[${target.image_path}|120]]`;
-    } else if (target.type) {
-      const typeMap = {
-        'aberration': 'Aberration',
-        'beast': 'Beast',
-        'celestial': 'Celestial',
-        'construct': 'Construct',
-        'dragon': 'Dragon',
-        'elemental': 'Elemental',
-        'fey': 'Fey',
-        'fiend': 'Fiend',
-        'giant': 'Giant',
-        'humanoid': 'Humanoid',
-        'monstrosity': 'Monstrosity',
-        'ooze': 'Ooze',
-        'plant': 'Plant',
-        'undead': 'Undead'
-      };
-      const imgType = typeMap[target.type] || 'Monster';
-      return `![[Ω_Assets/Placeholder Images/${imgType}.png|120]]`;
-    }
-    return `![[Ω_Assets/Placeholder Images/Monster_Default.png|120]]`;
-  
-  # CR Display with color coding
-  CRDisplay: |
-    js:
-    if (target.cr) {
-      const cr = parseFloat(target.cr);
-      let color = '#808080';
-      if (cr >= 20) color = '#FF0000';
-      else if (cr >= 15) color = '#FF4500';
-      else if (cr >= 10) color = '#FFA500';
-      else if (cr >= 5) color = '#FFD700';
-      else if (cr >= 1) color = '#90EE90';
-      else color = '#00FF00';
-      return `<span style="color: ${color}; font-weight: bold;">CR ${target.cr}</span>`;
-    }
-    return '<span style="color: #808080;">CR ?</span>';
-  
-  # Size and type display
-  SizeType: |
-    js:
-    const parts = [];
-    if (target.size) parts.push(target.size);
-    if (target.type) parts.push(target.type);
-    if (target.subtype) parts.push(`(${target.subtype})`);
-    return parts.join(' ') || 'Unknown creature';
-  
-  # Environment tags
-  Environments: |
-    js:
-    if (target.environment && Array.isArray(target.environment)) {
-      return target.environment.map(env => `🌍 ${env}`).join(' ');
-    }
-    return '🌍 Any';
-  
-  # Combat stats summary
-  CombatStats: |
-    js:
-    const stats = [];
-    if (target.ac) stats.push(`AC ${target.ac}`);
-    if (target.hp) stats.push(`HP ${target.hp}`);
-    if (target.speed) stats.push(target.speed);
-    return stats.join(' • ') || 'No stats';
-  
-  # Legendary status
-  LegendaryStatus: |
-    js:
-    if (target.legendary) return '⭐ Legendary';
-    if (target.mythic) return '🌟 Mythic';
-    if (target.unique) return '👑 Unique';
-    return '';
-
 views:
+  - type: table
+    name: All Monsters (Simple)
+    filters:
+      and:
+        - path includes "CLI/bestiary"
+    columns:
+      - file.name
+      - cr
+      - type
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      cr: 80
+      type: 120
+      tags: 200
+      
   - type: cards
     name: Monster Gallery
     filters:
       and:
         - path includes "CLI/bestiary"
     columns: 4
+    limit: 100
     properties:
-      - formula.MonsterImage
       - file.name
-      - formula.CRDisplay
-      - formula.SizeType
-      - formula.CombatStats
-    
-  - type: table
-    name: Encounter Builder
-    filters:
-      and:
-        - cr
-    order:
-      - formula.CRDisplay
-      - formula.MonsterImage
-      - file.name
-      - formula.SizeType
-      - formula.Environments
-      - formula.LegendaryStatus
-      - formula.CombatStats
-    sort:
-      - column: cr
-        direction: ASC
-      - column: file.name
-        direction: ASC
-    columnSize:
-      formula.CRDisplay: 80
-      formula.MonsterImage: 130
-      file.name: 180
-      formula.SizeType: 150
-      formula.Environments: 150
-      formula.LegendaryStatus: 100
-      formula.CombatStats: 200
+      - image_path
+      - type
+      - cr
     
   - type: cards
     name: Boss Gallery
     filters:
-      and:
-        - or:
-            - legendary
-            - mythic
-            - unique
-            - cr.gte(15)
+      cr >= 15
     columns: 3
+    limit: 50
     properties:
-      - formula.MonsterImage
       - file.name
-      - formula.CRDisplay
-      - formula.LegendaryStatus
-      - formula.SizeType
-      - formula.CombatStats
+      - image_path
+      - type
+      - cr
     
   - type: cards
     name: By Environment
     filters:
       and:
-        - environment.contains("{{env}}")
+        - environment contains "{{env}}"
     columns: 5
+    limit: 100
     properties:
-      - formula.MonsterImage
       - file.name
-      - formula.CRDisplay
+      - image_path
+      - type
+      - cr
     parameters:
       env:
         type: select
@@ -160,3 +70,47 @@ views:
           - Underdark
           - Underwater
           - Urban 
+
+  - type: table
+    name: Encounter Builder (Simple)
+    filters:
+      and:
+        - cr
+    columns:
+      - file.name
+      - cr
+      - type
+      - size
+      - ac
+      - hp
+    sort:
+      - property: cr
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 180
+      cr: 60
+      type: 120
+      size: 80
+      ac: 60
+      hp: 80
+
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - type
+      - size
+      - cr
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      type: 120
+      size: 100
+      cr: 80
+      tags: 200

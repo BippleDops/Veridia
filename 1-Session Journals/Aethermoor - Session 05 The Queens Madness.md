@@ -13,15 +13,15 @@ locations_visited:
   - "[[Throne Room]]"
   - "[[Royal Vault]]"
 npcs_met:
-  - "[[2-World/People/Queen Seraphina Lumengarde]]"
-  - "[[2-World/People/Captain Lyanna Brightshield]]"
-  - "[[2-World/People/High Inquisitor Maltheos]]"
-  - "[[2-World/People/The Crimson Sage]]"
+  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
+  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
+  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
+  - "[[02_Worldbuilding/People/The Crimson Sage]]"
   - "[[Princess Celestia]] (revealed)"
 encounters:
   - "[[Crystal Guard Elite]]"
   - "[[Possessed Noble Coterie]]"
-  - "[[2-World/Places/Throne Room - Heart of Palace|The Queen's Shadow]]"
+  - "[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen's Shadow]]"
 quests_started:
   - "[[Save Queen Seraphina]]"
   - "[[Stop the Crystal Festival Ritual]]"

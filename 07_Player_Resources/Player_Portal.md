@@ -1,10 +1,17 @@
+---
+aliases: []
+tags:
+  - Category/Note
+type: note
+status: unknown
+---
 # Player Portal
 
 Welcome! This section contains player-safe information (no spoilers).
 
 ## World Overview
-- [[Ω_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview]] (player-safe sections)
-- [[Ω_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview]] (player-safe sections)
+- [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview]] (player-safe sections)
+- [[08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview]] (player-safe sections)
 
 ## Your Party
 - Character sheets: 07_Player_Resources/Character_Sheets/

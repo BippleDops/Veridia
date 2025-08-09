@@ -13,10 +13,10 @@ locations_visited:
   - "[[The Convergence Point]]"
   - "[[Tidal Chambers]]"
 npcs_met:
-  - "[[2-World/People/Shadow Duchess Nyx]]"
+  - "[[02_Worldbuilding/People/Shadow Duchess Nyx]]"
   - "[[Shadow Nyx]]"
   - "[[The Real Marina]]"
-  - "[[2-World/People/The Scattered Emperor]] (United)"
+  - "[[02_Worldbuilding/People/The Scattered Emperor]] (United)"
 encounters:
   - "[[Shadow Surgeons Collective]]"
   - "[[Hybrid Abominations]]"
@@ -68,9 +68,9 @@ High tide triggers the Shadow Harvest as hundreds of shadows converge on the Ref
 - [[The Shadow Duchess Duel]] - Nyx vs Shadow Nyx
 
 ### Critical NPCs
-- [[2-World/People/Shadow Duchess Nyx]] - Original, fighting her shadow
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Original, fighting her shadow
 - [[Shadow Nyx]] - The evolution, leading harvest
-- [[2-World/People/The Scattered Emperor]] - Considering reunification
+- [[02_Worldbuilding/People/The Scattered Emperor]] - Considering reunification
 - [[The Real Marina]] - Exhausted from shadow battle
 
 ## Session Timeline

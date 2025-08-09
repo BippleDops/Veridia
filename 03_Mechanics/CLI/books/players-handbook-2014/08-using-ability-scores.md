@@ -426,4 +426,4 @@ The result of a successful or failed saving throw is also detailed in the effect
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
 
-[[Ω_Archive/1-DM Toolkit/Travel Calculator]]
+[[08_Archive/1-DM Toolkit/Travel Calculator]]

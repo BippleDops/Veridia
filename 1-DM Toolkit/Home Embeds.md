@@ -1,3 +1,10 @@
+---
+aliases: []
+tags:
+  - Category/Note
+type: note
+status: unknown
+---
 # Party
 
 ```base
@@ -126,7 +133,7 @@ views:
     name: Regions
     filters:
       and:
-        - file.folder == "2-World/Regions"
+        - file.folder == "02_Worldbuilding/Regions"
     order:
       - file.name
       - MyContainer
@@ -148,7 +155,7 @@ views:
     name: Hubs
     filters:
       and:
-        - file.folder == "2-World/Hubs"
+        - file.folder == "02_Worldbuilding/Hubs"
     order:
       - file.name
       - MyContainer
@@ -172,7 +179,7 @@ views:
     name: Places
     filters:
       and:
-        - file.folder == "2-World/Places"
+        - file.folder == "02_Worldbuilding/Places"
     order:
       - file.name
       - MyContainer
@@ -196,7 +203,7 @@ views:
     name: Places of Interest
     filters:
       and:
-        - file.folder == "2-World/Points of Interest"
+        - file.folder == "02_Worldbuilding/Points of Interest"
     order:
       - file.name
       - MyContainer
@@ -218,7 +225,7 @@ views:
     name: People
     filters:
       and:
-        - file.folder == "2-World/People"
+        - file.folder == "02_Worldbuilding/People"
     order:
       - file.name
       - MyContainer
@@ -240,7 +247,7 @@ views:
     name: Groups
     filters:
       and:
-        - file.folder == "2-World/Groups"
+        - file.folder == "02_Worldbuilding/Groups"
     order:
       - file.name
       - MyContainer
@@ -266,7 +273,7 @@ views:
     name: Quests
     filters:
       and:
-        - file.folder == "2-World/Quests"
+        - file.folder == "02_Worldbuilding/Quests"
     order:
       - file.name
       - MyContainer

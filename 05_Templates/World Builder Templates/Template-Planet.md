@@ -21,7 +21,7 @@ title = tp.file.title;
 
 // 2) Get all Star System notes from folder
 const systemFiles = tp.app.vault.getMarkdownFiles()
-.filter(f => f.path.startsWith("2-World/Star Systems/"));
+.filter(f => f.path.startsWith("02_Worldbuilding/Star Systems/"));
 
 const placeholderLabel = "🌀 No Star System Selected";
 const placeholderPath = "__placeholder__";
@@ -124,7 +124,7 @@ Make notes of what you need to track in the region here.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Continent(s)"
-FROM "2-World/Continents"
+FROM "02_Worldbuilding/Continents"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -135,7 +135,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Sapient Species"
-FROM "2-World/Sapient Species"
+FROM "02_Worldbuilding/Sapient Species"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -145,7 +145,7 @@ SORT file.name ASC
 `BUTTON[button_hub]` Groups of people and power - religious, cults, guilds, military
 
 ```dataviewjs
-const hubs = dv.pages('"2-World/Hubs"')
+const hubs = dv.pages('"02_Worldbuilding/Hubs"')
   .where(hub => {
     if (!hub.MyContainer) return false;
     const regions = Array.isArray(hub.MyContainer) ? hub.MyContainer : [hub.MyContainer];

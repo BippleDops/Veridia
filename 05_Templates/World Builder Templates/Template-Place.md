@@ -13,9 +13,9 @@ const title = await tp.system.prompt("Enter Place Name", tp.file.title);
 if (!title) return;
 await tp.file.rename(title);
 
-// 2) Gather all container notes from 2-World/Hubs
+// 2) Gather all container notes from 02_Worldbuilding/Hubs
 const containerFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Hubs/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Hubs/"));
 
 const placeholderLabel = "🌀 No Hub Selected";
 const placeholderPath = "__placeholder__";
@@ -117,7 +117,7 @@ This is the places description.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
-FROM "2-World/People"
+FROM "02_Worldbuilding/People"
 WHERE contains(char_status, "Alive")
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

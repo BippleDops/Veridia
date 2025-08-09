@@ -6,9 +6,9 @@ date_played:
 location: [[Crystallium]]
 depth: "6,000-8,000 ft"
 npcs_featured:
-  - [[2-World/People/The Resonance Prophet]]
-  - [[2-World/People/Marina-Red-Tide-Coralheart]]
-  - [[2-World/People/Shadow Duchess Nyx]]
+  - [[02_Worldbuilding/People/The Resonance Prophet]]
+  - [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+  - [[02_Worldbuilding/People/Shadow Duchess Nyx]]
   - [[The Conductor]]
 status: "planned"
 party_level: 7
@@ -33,7 +33,7 @@ obsidianUIMode: preview
 > *"In Crystallium, thoughts become crystal, lies shatter like glass, and the truth resonates until it breaks you."*
 
 ## 🎬 Strong Start
-The party arrives at [[Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[2-World/People/The Resonance Prophet|Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
+The party arrives at [[Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[02_Worldbuilding/People/The Resonance Prophet|Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
 
 ## 🎭 Scenes
 
@@ -155,10 +155,10 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 
 ## 🔍 Secrets & Clues
 1. The Singers Beyond have consumed twelve realities already
-2. [[2-World/People/Shadow Duchess Nyx]] knew about Singers all along
-3. The [[2-World/People/The Scattered Emperor]] fragmented to avoid Singer detection
+2. [[02_Worldbuilding/People/Shadow Duchess Nyx]] knew about Singers all along
+3. The [[02_Worldbuilding/People/The Scattered Emperor]] fragmented to avoid Singer detection
 4. Every shadow is a survival instinct made manifest
-5. The Crystal Festival in [[2-World/Places/Aethermoor]] was Singer reconnaissance
+5. The Crystal Festival in [[02_Worldbuilding/Places/Aethermoor]] was Singer reconnaissance
 6. Children born post-Cataclysm can't be seen by Singers
 7. The [[Deep Mother]] is the last Singer trapped in this reality
 8. Harmonization is irreversible after 24 hours
@@ -186,7 +186,7 @@ As the party makes their choice about the resonance, reality cracks. Through the
 
 The Prophet gasps: "It sees us. The camouflage has failed. We have minutes, not hours." 
 
-Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[2-World/People/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
+Suddenly, every shadow in Aquabyssos screams in unison—not in fear, but in recognition. [[02_Worldbuilding/People/Shadow Duchess Nyx]] materializes: "The shadows remember. They were here before. They fought the Singers once and lost. But this time..." She turns to the party. "This time we have something we didn't before. We have humans who can think like shadows and shadows who can feel like humans. The harvest isn't our doom—it's our weapon."
 
 The ocean above begins to boil as something massive descends through dimensions toward them. Marina (whichever version) steps forward: "I know what I have to do. I'm sorry I didn't tell you sooner. I'm not from here. I'm from the last reality the Singers consumed. I came to warn you, but I fell in love with this world. With all of you."
 

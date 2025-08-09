@@ -96,43 +96,52 @@ formulas:
 
 views:
   - type: table
+    name: All Sessions
+    filters:
+      and:
+        - path includes "1-Session Journals"
+    columns:
+      - file.name
+      - sessionNumber
+      - date
+      - players
+    sort:
+      - property: sessionNumber
+        direction: DESC
+    columnSize:
+      file.name: 200
+      sessionNumber: 80
+      date: 100
+      players: 150
+  - type: table
     name: Recent Sessions
     filters:
       and:
-        - or:
-            - tags includes "session"
-            - tags includes "Session"
-    order:
+        - path includes "1-Session Journals"
+    columns:
       - sessionNumber
       - date
-      - formula.Attendance
-      - formula.EventSummary
-      - formula.NPCCount
-      - formula.QuestProgress
-      - formula.TreasureIndicator
-      - formula.MoodIcon
+      - players
+      - mood
+      - treasureValue
+      - xpAwarded
     sort:
-      - column: sessionNumber
+      - property: sessionNumber
         direction: DESC
     limit: 10
     columnSize:
       sessionNumber: 80
       date: 100
-      formula.Attendance: 80
-      formula.EventSummary: 250
-      formula.NPCCount: 80
-      formula.QuestProgress: 150
-      formula.TreasureIndicator: 120
-      formula.MoodIcon: 100
+      players: 150
+      mood: 100
+      treasureValue: 120
+      xpAwarded: 100
       
-  - type: timeline
+  - type: table
     name: Campaign Timeline
     filters:
       and:
-        - or:
-            - tags includes "session"
-            - tags includes "Session"
-    dateProperty: date
+        - path includes "1-Session Journals"
     properties:
       - formula.SessionTitle
       - formula.EventSummary
@@ -142,39 +151,33 @@ views:
     name: Session Cards
     filters:
       and:
-        - or:
-            - tags includes "session"
-            - tags includes "Session"
+        - path includes "1-Session Journals"
     columns: 2
     sort:
-      - column: sessionNumber
+      - property: sessionNumber
         direction: DESC
-    limit: 6
+    limit: 20
     properties:
-      - formula.SessionTitle
-      - formula.DaysSince
-      - formula.Attendance
-      - formula.MoodIcon
+      - file.name
+      - sessionNumber
+      - date
+      - mood
       - recap
       - cliffhanger
-      - formula.QuestProgress
-      - formula.TreasureIndicator
       
   - type: table
     name: By Player
     filters:
       and:
-        - or:
-            - tags includes "session"
-            - tags includes "Session"
+        - path includes "1-Session Journals"
         - players.contains("{{player}}")
-    order:
+    columns:
       - sessionNumber
       - date
-      - formula.EventSummary
+      - plotPoints
       - mvp
     sort:
-      - column: sessionNumber
+      - property: sessionNumber
         direction: DESC
     parameters:
       player:
@@ -185,32 +188,26 @@ views:
     name: By Quest
     filters:
       and:
-        - or:
-            - tags includes "session"
-            - tags includes "Session"
-        - or:
-            - questsStarted.contains("{{quest}}")
-            - questsAdvanced.contains("{{quest}}")
-            - questsCompleted.contains("{{quest}}")
-    order:
+        - path includes "1-Session Journals"
+        - questsAdvanced.contains("{{quest}}")
+    columns:
       - sessionNumber
       - date
-      - formula.QuestProgress
+      - questsAdvanced
+      - questsCompleted
     sort:
-      - column: sessionNumber
+      - property: sessionNumber
         direction: ASC
     parameters:
       quest:
         type: link
-        source: "2-World/Quests"
+        source: "02_Worldbuilding/Quests"
         
-  - type: statistics
+  - type: table
     name: Campaign Stats
     filters:
       and:
-        - or:
-            - tags includes "session"
-            - tags includes "Session"
+        - path includes "1-Session Journals"
     statistics:
       - name: Total Sessions
         formula: count()
@@ -223,4 +220,22 @@ views:
       - name: NPCs Met
         formula: sum(npcsMet.length)
       - name: Average Attendance
-        formula: avg(players.length) 
+        formula: avg(players.length)
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - sessionNumber
+      - date
+      - players
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      sessionNumber: 80
+      date: 100
+      players: 150
+      tags: 200

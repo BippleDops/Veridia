@@ -1,3 +1,10 @@
+---
+aliases: []
+tags:
+  - Category/Note
+type: note
+status: unknown
+---
 # Home Embeds - DV
 
 ## Party
@@ -35,7 +42,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Person.md
     fileName: NewPerson
-    folderPath: 2-World/People
+    folderPath: 02_Worldbuilding/People
 ```
 
 ```meta-bind-button
@@ -47,7 +54,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Group.md
     fileName: NewGroup
-    folderPath: 2-World/Groups
+    folderPath: 02_Worldbuilding/Groups
 ```
 
 ```meta-bind-button
@@ -59,7 +66,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Hub.md
     fileName: NewHub
-    folderPath: 2-World/Hubs
+    folderPath: 02_Worldbuilding/Hubs
 ```
 
 ```meta-bind-button
@@ -71,7 +78,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Place.md
     fileName: NewPlace
-    folderPath: 2-World/Places
+    folderPath: 02_Worldbuilding/Places
 ```
 
 ```meta-bind-button
@@ -83,7 +90,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-PointofInterest.md
     fileName: NewPOI
-    folderPath: 2-World/Points of Interest
+    folderPath: 02_Worldbuilding/Points of Interest
 ```
 
 ```meta-bind-button
@@ -95,7 +102,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Region.md
     fileName: NewRegion
-    folderPath: 2-World/Regions
+    folderPath: 02_Worldbuilding/Regions
 ```
 
 ```meta-bind-button
@@ -107,7 +114,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Continent.md
     fileName: NewContinent
-    folderPath: 2-World/Continents
+    folderPath: 02_Worldbuilding/Continents
 ```
 
 ```meta-bind-button
@@ -119,7 +126,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Galaxy.md
     fileName: NewGalaxy
-    folderPath: 2-World/Galaxies
+    folderPath: 02_Worldbuilding/Galaxies
 ```
 
 ```meta-bind-button
@@ -131,7 +138,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Star-System.md
     fileName: NewStarSystem
-    folderPath: 2-World/Star Systems
+    folderPath: 02_Worldbuilding/Star Systems
 ```
 
 ```meta-bind-button
@@ -143,7 +150,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Planet.md
     fileName: NewPlanet
-    folderPath: 2-World/Planets
+    folderPath: 02_Worldbuilding/Planets
 ```
 
 ```meta-bind-button
@@ -155,7 +162,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-SapientSpecies.md
     fileName: NewSapientSpecies
-    folderPath: 2-World/Sapient Species
+    folderPath: 02_Worldbuilding/Sapient Species
 ```
 
 ```meta-bind-button
@@ -167,7 +174,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Quest.md
     fileName: NewQuest
-    folderPath: 2-World/Quests
+    folderPath: 02_Worldbuilding/Quests
 ```
 
 ```meta-bind-button

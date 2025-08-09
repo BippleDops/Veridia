@@ -5,15 +5,15 @@ obsidianUIMode: preview
 # Getting Started
 
 ## What this vault is
-- A lean TTRPG campaign management vault built around: `2-World/*` (world data), `1-Session Journals` (sessions), Meta Bind + Templater creation buttons, and Dataview/Bases views.
+- A lean TTRPG campaign management vault built around: `02_Worldbuilding/*` (world data), `1-Session Journals` (sessions), Meta Bind + Templater creation buttons, and Dataview/Bases views.
 
 ## Organization
 - `1-DM Toolkit`: Home dashboards and button definitions.
 - `1-Session Journals`: Session notes (frontmatter `type: Session Journal`).
-- `2-World/*`: People, Groups, Places, Regions, Quests, Lore, etc. All use canonical properties: `tags: Category/*`, `MyContainer`, `MyCategory`.
+- `02_Worldbuilding/*`: People, Groups, Places, Regions, Quests, Lore, etc. All use canonical properties: `tags: Category/*`, `MyContainer`, `MyCategory`.
 - `3-Mechanics`: System mechanics/rules landing.
 - `05_Templates/World Builder Templates`: Authoring templates triggered by Meta Bind buttons.
-- `Ω_Archive/2025-08-09/*`: Historical docs, campaign docs, demos/tutorials, legacy dashboards/scripts.
+- `08_Archive/2025-08-09/*`: Historical docs, campaign docs, demos/tutorials, legacy dashboards/scripts.
 
 ## How to use
 1) Open `1-DM Toolkit/Home` (default new tab) and use the tabbed interface.
@@ -29,7 +29,7 @@ obsidianUIMode: preview
 - Use `tags: Category/*` for world entities:
   - People → `Category/People`, Groups → `Category/Group`, Places → `Category/Place`, Quests → `Category/Quest`, etc.
 - Always include `MyContainer` (parent link) and `MyCategory` (classification) where applicable.
-- Keep folder names in `2-World/*` unchanged to avoid breaking templates.
+- Keep folder names in `02_Worldbuilding/*` unchanged to avoid breaking templates.
 
 ## What it’s supposed to do
 - Provide fast creation flows for NPCs, locations, quests, etc.
@@ -38,13 +38,13 @@ obsidianUIMode: preview
 
 ## Process summary
 - Replaced QuickAdd/Buttons flows with Meta Bind + Templater.
-- Consolidated `02_Worldbuilding` and `01_Campaigns/*` into `2-World/*` and `1-Session Journals`.
+- Consolidated `02_Worldbuilding` and `01_Campaigns/*` into `02_Worldbuilding/*` and `1-Session Journals`.
 - Normalized frontmatter, repaired links, and archived legacy/demo content.
 
 ## Maintenance tips
 - Keep Meta Bind, Templater, Dataview enabled. Bases optional but supported.
-- Avoid renaming `2-World/*` subfolders.
-- File demos or old docs to `Ω_Archive/` rather than deleting.
+- Avoid renaming `02_Worldbuilding/*` subfolders.
+- File demos or old docs to `08_Archive/` rather than deleting.
 
 ## Next steps
 - Add or adjust Meta Bind input templates for your system.

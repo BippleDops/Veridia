@@ -22,9 +22,9 @@ if (tp.file.title.startsWith("NewHub")) {
   title = tp.file.title;
 }
 
-// 2) Gather all region files under 2-World/Regions
+// 2) Gather all region files under 02_Worldbuilding/Regions
 const regionFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Regions/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Regions/"));
 
 const placeholderLabel = "🌀 No Region Selected";
 const placeholderPath = "__placeholder__";
@@ -183,14 +183,14 @@ function extractPaths(mc) {
 }
 
 // 3) Find all Places whose MyContainer points to this Hub
-const placePages = dv.pages(`"2-World/Places"`)
+const placePages = dv.pages(`"02_Worldbuilding/Places"`)
   .where(p => extractPaths(p.MyContainer).includes(hubPath))
   .values;
 // collect their **paths**
 const placePaths = placePages.map(p => p.file.path);
 
 // 4a) Indirect People: whose MyContainer links to any of those placePaths
-const indirect = dv.pages(`"2-World/People"`)
+const indirect = dv.pages(`"02_Worldbuilding/People"`)
   .where(p => {
     const paths = extractPaths(p.MyContainer);
     return paths.some(path => placePaths.includes(path));
@@ -198,7 +198,7 @@ const indirect = dv.pages(`"2-World/People"`)
   .values;
 
 // 4b) Direct People: whose MyContainer links **directly** to this Hub
-const direct = dv.pages(`"2-World/People"`)
+const direct = dv.pages(`"02_Worldbuilding/People"`)
   .where(p => extractPaths(p.MyContainer).includes(hubPath))
   .values;
 
@@ -269,7 +269,7 @@ This is the content
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Commerce"
 SORT file.name ASC
@@ -281,7 +281,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Agriculture"
 SORT file.name ASC
@@ -293,7 +293,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Military"
 SORT file.name ASC
@@ -306,7 +306,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Philosophy"
 SORT file.name ASC
@@ -318,7 +318,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Industrial"
 SORT file.name ASC
@@ -330,7 +330,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Nesting"
 SORT file.name ASC
@@ -342,7 +342,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
-FROM "2-World/Places"
+FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Government"
 SORT file.name ASC

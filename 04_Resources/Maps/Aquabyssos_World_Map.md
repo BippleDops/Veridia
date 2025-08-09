@@ -21,10 +21,10 @@ tileServer: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 marker:
   - coordinates: [42.1, 12.5]
     name: Abyssos Prime
-    link: [[2-World/Places/Abyssos Prime]]
+    link: [[02_Worldbuilding/Places/Abyssos Prime]]
   - coordinates: [41.7, 13.0]
     name: Parliament of Echoes
-    link: [[2-World/Places/Parliament of Echoes]]
+    link: [[02_Worldbuilding/Places/Parliament of Echoes]]
 ``` 
 
 Notes

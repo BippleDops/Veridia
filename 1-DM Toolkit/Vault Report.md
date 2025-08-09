@@ -1,3 +1,10 @@
+---
+aliases: []
+tags:
+  - Category/Note
+type: note
+status: unknown
+---
 ```dataviewjs
 // 1) Build a map of tag → count, only for #Category/... tags
 const tagCounts = new Map();

@@ -72,7 +72,7 @@ Make notes of what you need to track in the region here.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Galaxy(s)"
-FROM "2-World/Continents"
+FROM "02_Worldbuilding/Continents"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```

@@ -3,23 +3,13 @@ formulas:
     js:
     if (target.image_path) {
       return target.image_path;
-    } else if (target.char_race && target.char_gender) {
-      return `Ω_Assets/Placeholder Images/${target.char_race}_${target.char_gender}.png`;
-    } else if (target.MyCategory === "Commerce") {
-      return "Ω_Assets/Placeholder Images/Shop.png";
-    } else if (target.MyCategory === "Military") {
-      return "Ω_Assets/Placeholder Images/Castle.png";
-    } else if (target.tags && target.tags.includes("Category/Quest")) {
-      return "Ω_Assets/Placeholder Images/Quest.png";
     } else {
-      return "Ω_Assets/Placeholder Images/DefaultImage.png";
+      return '04_Resources/Assets/Placeholder Images/DefaultImage.png';
     }
   ImageDisplay: |
     js:
-    const imagePath = target.formulas.ImagePath;
-    const fileName = target.file.name;
-    const filePath = target.file.path;
-    return `[![[${imagePath}|150]]](${filePath})`;
+    const imagePath = target.image_path || '04_Resources/Assets/Placeholder Images/DefaultImage.png';
+    return imagePath;
   CharacterInfo: |
     js:
     if (target.char_race && target.char_status) {
@@ -33,38 +23,12 @@ formulas:
     }
     return "Unknown Location";
 views:
-  - type: cards
-    name: Character Gallery
-    filters:
-      and:
-        - tags includes "Category/People"
-    columns: 4
-    properties:
-      - formula.ImageDisplay
-      - file.name
-      - formula.CharacterInfo
-      - char_status
-  - type: cards
-    name: Location Gallery
-    filters:
-      and:
-        - or:
-            - tags includes "Category/Place"
-            - tags includes "Category/Hub"
-            - tags includes "Category/Region"
-            - tags includes "Category/PointofInterest"
-    columns: 3
-    properties:
-      - formula.ImageDisplay
-      - file.name
-      - formula.LocationType
-      - MyContainer
   - type: table
     name: All Images
     filters:
       and:
         - image_path
-    order:
+    columns:
       - file.name
       - image_path
       - image_category
@@ -79,3 +43,44 @@ views:
       image_path: 300
       image_category: 150
       image_tags: 200
+  - type: cards
+    name: Character Gallery
+    filters:
+      and:
+        - tags contains "Category/People"
+    columns: 4
+    limit: 100
+    properties:
+      - image_path
+      - file.name
+      - char_race
+      - char_status
+  - type: cards
+    name: Location Gallery
+    filters:
+      tags contains "Category/Place"
+    columns: 3
+    limit: 100
+    properties:
+      - image_path
+      - file.name
+      - MyCategory
+      - MyContainer
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - image_path
+      - image_category
+      - image_tags
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      image_path: 300
+      image_category: 150
+      image_tags: 200
+      tags: 200

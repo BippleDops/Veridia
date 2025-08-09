@@ -16,20 +16,36 @@ formulas:
     return target.region || '-';
 views:
   - type: table
+    name: All Locations
+    filters:
+      tags contains "Category/Place"
+    columns:
+      - file.name
+      - type
+      - region
+      - faction
+    sort:
+      - property: file.name
+        direction: ASC
+    limit: 200
+    columnSize:
+      file.name: 200
+      type: 120
+      region: 150
+      faction: 150
+  - type: table
     name: Quest Hubs
     filters:
       and:
-        - or:
-            - tags includes "location"
-            - tags includes "Location"
+        - tags contains "Category/Place"
         - active_quests
-    order:
+    columns:
       - file.name
-      - formula.QuestCount
-      - formula.DangerBadge
+      - active_quests
+      - danger_level
       - region
     sort:
-      - property: formula.QuestCount
+      - property: danger_level
         direction: DESC
     columnSize:
       file.name: 240
@@ -39,16 +55,13 @@ views:
   - type: table
     name: All Locations
     filters:
-      and:
-        - or:
-            - tags includes "location"
-            - tags includes "Location"
-    order:
+      tags contains "Category/Place"
+    columns:
       - file.name
       - type
       - region
       - faction
-      - formula.DangerBadge
+      - danger_level
     sort:
       - property: file.name
         direction: ASC
@@ -62,14 +75,12 @@ views:
     name: Dangerous Areas
     filters:
       and:
-        - or:
-            - tags includes "location"
-            - tags includes "Location"
+        - tags contains "Category/Place"
         - danger_level
-    order:
+    columns:
       - file.name
       - region
-      - formula.DangerBadge
+      - danger_level
     sort:
       - property: danger_level
         direction: DESC
@@ -80,11 +91,8 @@ views:
   - type: table
     name: By Region
     filters:
-      and:
-        - or:
-            - tags includes "location"
-            - tags includes "Location"
-    order:
+      tags contains "Category/Place"
+    columns:
       - region
       - file.name
     sort:
@@ -92,3 +100,21 @@ views:
         direction: ASC
       - property: file.name
         direction: ASC
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - type
+      - region
+      - faction
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      type: 120
+      region: 150
+      faction: 150
+      tags: 200

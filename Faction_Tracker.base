@@ -21,64 +21,88 @@ formulas:
     return e.map(x => `⚔️ [[${x}]]`).join(', ');
 views:
   - type: table
-    name: All Factions
+    name: All Factions (Safe)
     filters:
-      and:
-        - or:
-            - tags includes "Faction"
-            - tags includes "faction"
-    order:
+      tags contains "Category/Group"
+    columns:
       - file.name
       - realm
-      - formula.ReputationBadge
       - leader
       - headquarters
-      - formula.PowerScore
     sort:
       - property: file.name
         direction: ASC
     columnSize:
       file.name: 200
       realm: 120
-      formula.ReputationBadge: 80
       leader: 160
       headquarters: 160
-      formula.PowerScore: 100
+  - type: table
+    name: Faction Overview
+    filters:
+      tags contains "Category/Group"
+    columns:
+      - file.name
+      - realm
+      - leader
+      - headquarters
+      - reputation
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      realm: 120
+      reputation: 100
+      leader: 160
+      headquarters: 160
   - type: cards
     name: Power Rankings
     filters:
-      and:
-        - or:
-            - tags includes "Faction"
-            - tags includes "faction"
+      tags contains "Category/Group"
     sort:
-      - property: formula.PowerScore
+      - property: reputation
         direction: DESC
     columns: 3
+    limit: 100
     properties:
-      - emblem
       - file.name
       - leader
       - realm
-      - formula.ReputationBadge
+      - reputation
       - goals
   - type: table
     name: Party Standing
     filters:
-      and:
-        - or:
-            - tags includes "Faction"
-            - tags includes "faction"
-    order:
+      tags contains "Category/Group"
+    columns:
       - file.name
       - party_reputation
-      - formula.AlliesList
-      - formula.EnemiesList
+      - allies
+      - enemies
     sort:
       - property: party_reputation
         direction: DESC
     columnSize:
       file.name: 200
       party_reputation: 120
-      formula.AlliesList: 240
-      formula.EnemiesList: 240
+      allies: 240
+      enemies: 240
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - realm
+      - leader
+      - headquarters
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      realm: 120
+      leader: 160
+      headquarters: 160
+      tags: 200

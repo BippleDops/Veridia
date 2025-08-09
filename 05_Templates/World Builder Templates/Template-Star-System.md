@@ -25,7 +25,7 @@ if (tp.file.title.startsWith(placeholderPrefix)) {
 
 // 2) Gather Galaxy files from folder
 const galaxyFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Galaxies/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Galaxies/"));
 
 const placeholderLabel = "🌀 No Galaxy Selected";
 const placeholderPath = "__placeholder__";
@@ -119,7 +119,7 @@ Make notes of what you need to track in the star system here.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Planet(s)"
-FROM "2-World/Planets"
+FROM "02_Worldbuilding/Planets"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```
@@ -130,7 +130,7 @@ SORT file.name ASC
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Points of Interest(s)"
-FROM "2-World/Points of Interest"
+FROM "02_Worldbuilding/Points of Interest"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
 ```

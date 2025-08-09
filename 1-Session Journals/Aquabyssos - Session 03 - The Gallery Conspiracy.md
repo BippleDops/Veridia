@@ -12,8 +12,8 @@ primary_location: "[[Gallery of Frozen Waves]]"
 depth: 1600
 locations_visited:
   - "[[Gallery of Frozen Waves]]"
-  - "[[2-World/Places/Screaming Gardens]]"
-  - "[[2-World/Places/The Memory Meadows]]"
+  - "[[02_Worldbuilding/Places/Screaming Gardens]]"
+  - "[[02_Worldbuilding/Places/The Memory Meadows]]"
   - "[[Reflection Pools]]"
 npcs_met:
   - "[[The Conductor]]"

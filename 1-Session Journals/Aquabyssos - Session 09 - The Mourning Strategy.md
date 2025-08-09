@@ -7,8 +7,8 @@ location: [[The Mourning Depths]]
 depth: "8,000+ ft (Abyssal Zone)"
 npcs_featured:
   - [[The Sorrowmaster]]
-  - [[2-World/People/Shadow Duchess Nyx]]
-  - [[2-World/People/The Scattered Emperor]]
+  - [[02_Worldbuilding/People/Shadow Duchess Nyx]]
+  - [[02_Worldbuilding/People/The Scattered Emperor]]
   - [[All Marina Versions]]
 status: "planned"
 party_level: 8
@@ -58,8 +58,8 @@ The party descends into [[The Mourning Depths]] to find it transformed—instead
 **Situation**: Withdraw stored sorrow before joy consumes it  
 **Conflict**: Other factions racing for same resources  
 **Discoveries**:
-- [[2-World/People/Shadow Duchess Nyx]] has been hoarding grief
-- The [[2-World/People/The Scattered Emperor]] arrives, fully unified
+- [[02_Worldbuilding/People/Shadow Duchess Nyx]] has been hoarding grief
+- The [[02_Worldbuilding/People/The Scattered Emperor]] arrives, fully unified
 - Ancient grief from pre-Cataclysm still exists
 - Someone's been stealing sorrow for years
 
@@ -186,9 +186,9 @@ The Grief Bomb is complete—a crystallized sphere of pure, concentrated sorrow 
 
 But as the ritual completes, the Singer Beyond SPEAKS through reality itself: "I... remember... feeling. You tiny things... you still feel. I consumed twelve realities seeking what you have. Give me your sorrow. Give me your joy. Give me... meaning."
 
-The [[2-World/People/The Scattered Emperor]], unified for the first time in centuries, steps forward: "We were never fighting it. We were trying to teach it. The Cataclysm, the shadows, the harvest—all of it was to show a god how to grieve."
+The [[02_Worldbuilding/People/The Scattered Emperor]], unified for the first time in centuries, steps forward: "We were never fighting it. We were trying to teach it. The Cataclysm, the shadows, the harvest—all of it was to show a god how to grieve."
 
-[[2-World/People/Shadow Duchess Nyx]] and her original self merge: "The bomb won't kill it. It will make it mortal. It will make it capable of death. And then..."
+[[02_Worldbuilding/People/Shadow Duchess Nyx]] and her original self merge: "The bomb won't kill it. It will make it mortal. It will make it capable of death. And then..."
 
 Marina—all versions speaking in unison—completes the thought: "And then we decide if a god deserves mercy."
 

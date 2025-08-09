@@ -38,7 +38,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Person.md
     fileName: NewPerson
-    folderPath: 2-World/People
+    folderPath: 02_Worldbuilding/People
 ```
 
 ```meta-bind-button
@@ -50,7 +50,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Group.md
     fileName: NewGroup
-    folderPath: 2-World/Groups
+    folderPath: 02_Worldbuilding/Groups
 ```
 
 ```meta-bind-button
@@ -62,7 +62,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Hub.md
     fileName: NewHub
-    folderPath: 2-World/Hubs
+    folderPath: 02_Worldbuilding/Hubs
 ```
 
 ```meta-bind-button
@@ -74,7 +74,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Place.md
     fileName: NewPlace
-    folderPath: 2-World/Places
+    folderPath: 02_Worldbuilding/Places
 ```
 
 ```meta-bind-button
@@ -86,7 +86,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-PointofInterest.md
     fileName: NewPOI
-    folderPath: 2-World/Points of Interest
+    folderPath: 02_Worldbuilding/Points of Interest
 ```
 
 ```meta-bind-button
@@ -98,7 +98,7 @@ actions:
   - type: templaterCreateNote
     templateFile: 05_Templates/World Builder Templates/Template-Region.md
     fileName: NewRegion
-    folderPath: 2-World/Regions
+    folderPath: 02_Worldbuilding/Regions
 ```
 
 ```dataview

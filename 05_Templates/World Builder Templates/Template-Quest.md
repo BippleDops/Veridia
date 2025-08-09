@@ -23,7 +23,7 @@ await tp.file.rename(poiName);
 
 // 2) Gather region notes
 const regionFiles = tp.app.vault.getMarkdownFiles()
-  .filter(f => f.path.startsWith("2-World/Regions/"));
+  .filter(f => f.path.startsWith("02_Worldbuilding/Regions/"));
 
 const placeholderLabel = "🌀 No Region Selected";
 const placeholderPath = "__placeholder__";
@@ -140,7 +140,7 @@ Plan your quest out here.
 
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender", Connected_Groups AS "Associated Group"
-FROM "2-World/People"
+FROM "02_Worldbuilding/People"
 WHERE contains(char_status, "Alive")
 WHERE contains(Connected_Quests, this.file.link)
 SORT file.name ASC

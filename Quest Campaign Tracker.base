@@ -51,9 +51,9 @@ formulas:
         'Exploration': 'Exploration'
       };
       const imgType = typeImages[target.quest_type] || 'Quest';
-      return `![[Ω_Assets/Placeholder Images/${imgType}.png|100]]`;
+      return `![[04_Resources/Assets/Placeholder Images/${imgType}.png|100]]`;
     }
-    return `![[Ω_Assets/Placeholder Images/Quest_Default.png|100]]`;
+    return `![[04_Resources/Assets/Placeholder Images/Quest_Default.png|100]]`;
   
   # Progress bar
   ProgressBar: |
@@ -135,48 +135,57 @@ formulas:
     return days >= 0 && days <= 7 ? '⚠️ Due ≤ 7d' : '';
 
 views:
+  - type: table
+    name: All Quests
+    filters:
+      tags contains "Category/Quest"
+    columns:
+      - file.name
+      - quest_status
+      - quest_type
+      - quest_giver
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      quest_status: 120
+      quest_type: 120
+      quest_giver: 150
   - type: cards
     name: Active
     filters:
       and:
-        - or:
-            - tags includes "Category/Quest"
-            - tags includes "Quest"
-        - or:
-            - quest_status == "Active"
-            - quest_status == "In Progress"
+        - tags contains "Category/Quest"
+        - quest_status == "Active"
     columns: 3
+    limit: 100
     properties:
-      - formula.QuestImage
       - file.name
-      - formula.StatusIcon
-      - formula.PriorityDisplay
-      - formula.ProgressBar
-      - formula.TimeRemaining
-      - formula.DueSoon
-      - formula.RewardSummary
+      - quest_status
+      - quest_priority
+      - quest_progress
+      - reward_gold
+      - quest_deadline
     
   - type: table
     name: Quest Journal
     filters:
-      and:
-        - or:
-            - tags includes "Category/Quest"
-            - tags includes "Quest"
-    order:
-      - formula.StatusIcon
-      - formula.PriorityDisplay
+      tags contains "Category/Quest"
+    columns:
       - file.name
+      - quest_status
+      - quest_priority
       - quest_type
-      - formula.QuestGiver
-      - formula.LocationDisplay
-      - formula.ProgressBar
-      - formula.RewardSummary
-      - formula.DueSoon
+      - quest_giver
+      - quest_location
+      - quest_progress
+      - reward_gold
+      - quest_deadline
     sort:
-      - column: quest_priority
+      - property: quest_priority
         direction: DESC
-      - column: quest_status
+      - property: quest_status
         direction: ASC
     columnSize:
       formula.StatusIcon: 50
@@ -194,23 +203,19 @@ views:
       and:
         - quest_type == "Main Quest"
     columns: 2
+    limit: 100
     properties:
-      - formula.QuestImage
       - file.name
-      - formula.StatusIcon
-      - formula.ProgressBar
+      - quest_status
       - quest_description
-      - formula.QuestGiver
-      - formula.LocationDisplay
-      - formula.RewardSummary
+      - quest_giver
+      - quest_location
+      - reward_gold
     
   - type: kanban
     name: Quest Board
     filters:
-      and:
-        - or:
-            - tags includes "Category/Quest"
-            - tags includes "Quest"
+      tags contains "Category/Quest"
     columns:
       - name: Not Started
         filter: quest_status == "Not Started"
@@ -224,4 +229,22 @@ views:
       - formula.QuestImage
       - formula.PriorityDisplay
       - formula.ProgressBar
-      - formula.RewardSummary 
+      - formula.RewardSummary
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - quest_status
+      - quest_type
+      - quest_giver
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      quest_status: 120
+      quest_type: 120
+      quest_giver: 150
+      tags: 200

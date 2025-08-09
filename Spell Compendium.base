@@ -7,7 +7,7 @@ formulas:
     return "Unknown";
   SchoolIcon: |
     js:
-    const school = target.school?.toLowerCase() || "";
+    const school = (target.school || "").toLowerCase();
     const icons = {
       'abjuration': '🛡️',
       'conjuration': '✨',
@@ -29,9 +29,10 @@ formulas:
   ComponentsDisplay: |
     js:
     const comp = [];
-    if (target.components?.v) comp.push("V");
-    if (target.components?.s) comp.push("S");
-    if (target.components?.m) comp.push("M");
+    const c = target.components || {};
+    if (c.v) comp.push("V");
+    if (c.s) comp.push("S");
+    if (c.m) comp.push("M");
     return comp.join(", ") || "None";
   CastTimeShort: |
     js:
@@ -50,18 +51,40 @@ formulas:
     return target.ritual ? "📜" : "";
 views:
   - type: table
+    name: All Spells
+    filters:
+      and:
+        - path includes "CLI/spells"
+    columns:
+      - file.name
+      - level
+      - school
+      - classes
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    limit: 300
+    columnSize:
+      file.name: 200
+      level: 60
+      school: 120
+      classes: 200
+  - type: table
     name: By Level
     filters:
       and:
         - path includes "CLI/spells"
-    order:
-      - formula.SchoolIcon
-      - formula.ClassList
-      - formula.CastTimeShort
-      - formula.ComponentsDisplay
-      - formula.ConcentrationIcon
-      - formula.RitualIcon
+        - level == {{level}}
+    columns:
       - file.name
+      - school
+      - classes
+      - castingTime
+      - components
+      - concentration
+      - ritual
     sort:
       - property: file.name
         direction: ASC
@@ -92,25 +115,25 @@ views:
             value: 9
     columnSize:
       file.name: 200
-      formula.SchoolIcon: 50
-      formula.ClassList: 200
-      formula.CastTimeShort: 80
-      formula.ComponentsDisplay: 80
-      formula.ConcentrationIcon: 40
-      formula.RitualIcon: 40
+      school: 100
+      classes: 200
+      castingTime: 100
+      components: 100
+      concentration: 80
+      ritual: 60
   - type: table
     name: By Class
     filters:
       and:
         - path includes "CLI/spells"
-        - classes.contains("{{class}}")
-    order:
-      - formula.LevelIndicator
+        - classes contains "{{class}}"
+    columns:
+      - level
       - file.name
-      - formula.SchoolIcon
-      - formula.CastTimeShort
-      - formula.ConcentrationIcon
-      - formula.RitualIcon
+      - school
+      - castingTime
+      - concentration
+      - ritual
     sort:
       - property: level
         direction: ASC
@@ -136,12 +159,12 @@ views:
       and:
         - path includes "CLI/spells"
         - ritual
-    order:
-      - formula.LevelIndicator
+    columns:
+      - level
       - file.name
-      - formula.SchoolIcon
-      - formula.ClassList
-      - formula.CastTimeShort
+      - school
+      - classes
+      - castingTime
     sort:
       - property: level
         direction: ASC
@@ -153,11 +176,11 @@ views:
       and:
         - path includes "CLI/spells"
         - concentration
-    order:
-      - formula.LevelIndicator
+    columns:
+      - level
       - file.name
-      - formula.SchoolIcon
-      - formula.ClassList
+      - school
+      - classes
       - duration
     sort:
       - property: level
@@ -165,18 +188,28 @@ views:
       - property: file.name
         direction: ASC
     pageSize: 50
-  - type: search
+  - type: table
     name: Spell Search
     filters:
       and:
         - path includes "CLI/spells"
-    searchProperties:
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
       - file.name
-      - description
+      - level
+      - school
       - classes
-    displayProperties:
-      - file.name
-      - formula.LevelIndicator
-      - formula.SchoolIcon
-      - formula.ClassList
-      - formula.ComponentsDisplay
+      - tags
+    sort:
+      - property: level
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      level: 60
+      school: 120
+      classes: 200
+      tags: 200

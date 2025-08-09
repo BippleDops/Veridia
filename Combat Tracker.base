@@ -1,80 +1,77 @@
-formulas:
-  CombatantImage: |
-    js:
-    if (target.image_path) {
-      return `![[${target.image_path}|80]]`;
-    } else if (target.monster_type) {
-      return `![[Ω_Assets/Placeholder Images/${target.monster_type}.png|80]]`;
-    } else if (target.char_race) {
-      return `![[Ω_Assets/Placeholder Images/${target.char_race}_Combat.png|80]]`;
-    } else {
-      return `![[Ω_Assets/Placeholder Images/CombatDefault.png|80]]`;
-    }
-  HealthBar: |
-    js:
-    if (target.current_hp && target.max_hp) {
-      const percentage = (target.current_hp / target.max_hp) * 100;
-      const barColor = percentage > 50 ? 'green' : percentage > 25 ? 'yellow' : 'red';
-      return `<progress value="${target.current_hp}" max="${target.max_hp}" style="width: 100px; accent-color: ${barColor};">${percentage.toFixed(0)}%</progress>`;
-    }
-    return "No HP data";
-  LowHPBadge: |
-    js:
-    if (target.current_hp && target.max_hp) {
-      const percentage = (target.current_hp / target.max_hp) * 100;
-      return percentage < 25 ? '⚠️ Low' : '';
-    }
-    return '';
-  InitiativeDisplay: |
-    js:
-    if (target.initiative) {
-      return `🎲 ${target.initiative}`;
-    }
-    return "🎲 --";
-  CombatStatus: |
-    js:
-    const conditions = [];
-    if (target.is_stunned) conditions.push("Stunned");
-    if (target.is_prone) conditions.push("Prone");
-    if (target.is_grappled) conditions.push("Grappled");
-    if (target.is_invisible) conditions.push("Invisible");
-    if (target.is_concentrating) conditions.push("Concentrating");
-    return conditions.length > 0 ? conditions.join(", ") : "Normal";
 views:
   - type: table
-    name: Initiative Tracker
+    name: Active Combat
     filters:
       and:
         - in_combat
-    order:
-      - formula.InitiativeDisplay
-      - formula.CombatantImage
+    columns:
+      - initiative
       - file.name
-      - formula.HealthBar
+      - current_hp
+      - max_hp
       - ac
-      - formula.CombatStatus
-      - notes
-      - formula.LowHPBadge
     sort:
       - property: initiative
         direction: DESC
     columnSize:
-      formula.InitiativeDisplay: 80
-      formula.CombatantImage: 100
-      file.name: 150
-      formula.HealthBar: 120
-      ac: 50
-      formula.CombatStatus: 150
-      notes: 200
-      formula.LowHPBadge: 80
+      initiative: 80
+      file.name: 200
+      current_hp: 80
+      max_hp: 80
+      ac: 60
+      
+  - type: table
+    name: All Combatants
+    filters:
+      tags contains "Category/People"
+    columns:
+      - file.name
+      - level
+      - ac
+      - current_hp
+      - max_hp
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 200
+      level: 60
+      ac: 60
+      current_hp: 80
+      max_hp: 80
+      
   - type: cards
-    name: Combat Gallery
+    name: Combat Cards
     filters:
       and:
         - in_combat
-    columns: 6
+    columns: 3
+    limit: 100
     properties:
-      - formula.CombatantImage
       - file.name
-      - formula.InitiativeDisplay
-      - formula.HealthBar
+      - initiative
+      - current_hp
+      - ac
+      
+  - type: table
+    name: All (Debug)
+    filters: {}
+    columns:
+      - file.name
+      - in_combat
+      - initiative
+      - current_hp
+      - max_hp
+      - ac
+    sort:
+      - property: in_combat
+        direction: DESC
+      - property: initiative
+        direction: DESC
+    columnSize:
+      file.name: 200
+      in_combat: 80
+      initiative: 80
+      current_hp: 80
+      max_hp: 80
+      ac: 60

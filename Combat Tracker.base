@@ -55,7 +55,7 @@ views:
       
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - in_combat

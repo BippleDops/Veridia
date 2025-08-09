@@ -240,3 +240,9 @@ None. All card views have been successfully optimized with basic properties only
   - Image Library.base: OK
   - Item Showcase.base: OK
   - Session Log.base: OK
+
+- Enforced first-view table + primitive columns across bases where needed
+- Capped all card views to limit: 100 (Monster Gallery, Modern Card Galleries, Session Log)
+- Tweaked Relationship_Graph first table columns to include a second primitive field (status)
+- Removed empty filters: {} from All (Debug) views across bases to satisfy single-operator rule
+- Standardized Item Showcase Inventory Manager to filters: and: - owner

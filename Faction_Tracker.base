@@ -90,7 +90,7 @@ views:
       enemies: 240
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - realm

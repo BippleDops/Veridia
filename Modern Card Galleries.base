@@ -171,7 +171,7 @@ views:
       - property: cr
         direction: ASC
     columns: 5
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -187,7 +187,7 @@ views:
       - property: rarity
         direction: DESC
     columns: 4
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -205,7 +205,7 @@ views:
       - property: file.name
         direction: ASC
     columns: 4
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - level
@@ -246,7 +246,7 @@ views:
       - property: file.name
         direction: ASC
     columns: 4
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -263,7 +263,7 @@ views:
       - property: file.name
         direction: ASC
     columns: 3
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -281,7 +281,7 @@ views:
       - property: cr
         direction: DESC
     columns: 3
-    limit: 30
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -299,7 +299,7 @@ views:
       - property: rarity
         direction: DESC
     columns: 4
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -309,7 +309,7 @@ views:
       - cost
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - type

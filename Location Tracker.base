@@ -102,7 +102,7 @@ views:
         direction: ASC
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - type

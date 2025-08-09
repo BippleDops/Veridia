@@ -195,7 +195,7 @@ views:
         - path includes "CLI/spells"
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - level

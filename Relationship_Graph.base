@@ -6,6 +6,7 @@ views:
         - relationships
     columns:
       - file.name
+      - status
       - relationships
     sort:
       - property: file.name
@@ -52,7 +53,7 @@ views:
       
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - relationships

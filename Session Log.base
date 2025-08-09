@@ -156,7 +156,7 @@ views:
     sort:
       - property: sessionNumber
         direction: DESC
-    limit: 20
+    limit: 100
     properties:
       - file.name
       - sessionNumber
@@ -223,7 +223,7 @@ views:
         formula: avg(players.length)
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - sessionNumber

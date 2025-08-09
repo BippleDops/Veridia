@@ -36,7 +36,7 @@ views:
     filters:
       cr >= 15
     columns: 3
-    limit: 50
+    limit: 100
     properties:
       - file.name
       - image_path
@@ -98,7 +98,7 @@ views:
 
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - type

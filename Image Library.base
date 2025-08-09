@@ -68,7 +68,7 @@ views:
       - MyContainer
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - image_path

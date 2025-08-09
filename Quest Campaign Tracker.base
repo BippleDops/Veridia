@@ -232,7 +232,7 @@ views:
       - formula.RewardSummary
   - type: table
     name: All (Debug)
-    filters: {}
+
     columns:
       - file.name
       - quest_status

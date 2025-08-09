@@ -3,8 +3,8 @@
 Welcome! This section contains player-safe information (no spoilers).
 
 ## World Overview
-- [[01_Campaigns/Aethermoor/Aethermoor Campaign Overview]] (player-safe sections)
-- [[01_Campaigns/Aquabyssos/Aquabyssos Campaign Overview]] (player-safe sections)
+- [[Ω_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview]] (player-safe sections)
+- [[Ω_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview]] (player-safe sections)
 
 ## Your Party
 - Character sheets: 07_Player_Resources/Character_Sheets/

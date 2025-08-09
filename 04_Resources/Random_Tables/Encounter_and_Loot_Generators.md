@@ -47,7 +47,7 @@ Roll: `dice: 1d20|Undersea Encounter`
 | 3 | Migrating manta shoal; stealth test to avoid startling |
 | 4 | Abandoned depth-harvester; salvage `dice: 2d6*10|Scrap (gp)` |
 | 5 | Memory tide eddies; Wis save or relive past session |
-| 6 | [[01_Campaigns/Aquabyssos/NPCs/Senator Glaucus]] scouts |
+| 6 | [[2-World/People/Senator Glaucus]] scouts |
 | 7 | Void seep; environmental hazard (necrotic trickle) |
 | 8 | Traders from Abyssos Prime; rumor table |
 | 9 | Deep Mother cult sign; leads to side quest |
@@ -72,7 +72,7 @@ Roll: `dice: 1d12|Urban Event`
 | 2 | Patrol questions strangers about recent theft |
 | 3 | Merchant caravan sale; 10% discount on common goods |
 | 4 | Noble procession blocks main road |
-| 5 | Rumor surge about [[01_Campaigns/Aethermoor/Locations/Port Meridian]] docks |
+| 5 | Rumor surge about [[2-World/Places/Port Meridian]] docks |
 | 6 | Guild recruitment drive; offers quest hook |
 | 7 | Sudden storm; disadvantage on ranged until cleared |
 | 8 | Festival lottery; `dice: 1d6|1-3 Nothing,4 Trinket,5 Tool,6 Potion` |

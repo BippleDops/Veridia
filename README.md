@@ -11,12 +11,12 @@ This vault contains two interconnected dark fantasy campaigns with comprehensive
 ## 🗂️ Vault Structure
 
 ```
-00_Dashboard/        - Master control center
+1-DM Toolkit/        - Master control center
 01_Campaigns/        - Active campaigns (Aethermoor, Aquabyssos)
 02_Worldbuilding/    - Shared world elements
 03_Rules_Reference/  - D&D 5e rules and homebrew
 04_Resources/        - Tables and utilities
-05_Templates/        - Content creation templates
+z_Templates/        - Content creation templates
 06_GM_Resources/     - DM tools and references
 07_Player_Resources/ - Player-facing content
 08_Automation/       - Scripts and workflows
@@ -52,7 +52,7 @@ This vault contains two interconnected dark fantasy campaigns with comprehensive
 - `_ENHANCED_BASES_SCHEMAS.md` - Database design documentation
 
 ### Dashboard
-- `MASTER_CAMPAIGN_DASHBOARD.md` - Unified command center with all databases
+- `1-DM Toolkit/Home` - Unified command center with all databases
 
 ## 🎮 Campaign Statistics
 
@@ -73,7 +73,7 @@ This vault contains two interconnected dark fantasy campaigns with comprehensive
 ## 🚀 Quick Start
 
 ### For New Users
-1. Open `MASTER_CAMPAIGN_DASHBOARD.md` for the main interface
+1. Open `1-DM Toolkit/Home` for the main interface
 2. Review `_QUERY_HELPER.md` to learn navigation
 3. Check campaign overviews in `01_Campaigns/[Campaign]/[Campaign] Campaign Overview.md`
 
@@ -83,7 +83,7 @@ This vault contains two interconnected dark fantasy campaigns with comprehensive
 3. Check `_AI_CONTEXT.md` for tone and themes
 
 ### For Content Creation
-1. Use templates in `05_Templates/`
+1. Use templates in `z_Templates/`
 2. Follow naming conventions in `_QUERY_HELPER.md`
 3. Add 5e references per `_5E_CONNECTIONS.md`
 
@@ -132,7 +132,7 @@ This vault contains two interconnected dark fantasy campaigns with comprehensive
 - Active content in numbered folders (00-09)
 - Archives in Ω_ prefixed folders
 - Documentation with _ prefix
-- Templates in `05_Templates/`
+- Templates in `z_Templates/`
 
 ## 🔧 Maintenance
 

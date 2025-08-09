@@ -7,6 +7,6 @@ created_by: "auto-stub"
 created: 2025-08-08
 ---
 
-# Ω_System/CLI/spells/school/transmutation
+# 03_Mechanics/CLI/spells/school/transmutation
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.

@@ -165,7 +165,7 @@ SORT file.name ASC
 ```
 
 ### Quick References
-- 📖 [[03_Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|Rules Quick Reference]]
+- 📖 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|Rules Quick Reference]]
 - 🎲 Loot Tables
 - ⚔️ Combat Tracker
 - 🗺️ [[2-World/Places/World Map|Campaign Map]]
@@ -184,7 +184,7 @@ SORT file.mtime DESC
 
 ### Combat
 - [[Combat Actions]]
-- [[Ω_System/CLI/conditions]]
+- [[03_Mechanics/CLI/conditions]]
 - [[Initiative Tracker]]
 
 ### Magic

@@ -1,6 +1,6 @@
 ---
 tags: [faction, group, cross-realm, guardians, void-watchers, reality-protectors, ancient]
-status: "stub"
+status: "complete"
 world: "Both Aethermoor & Aquabyssos"
 type: "faction"
 faction_type: "Reality Guardian Order"

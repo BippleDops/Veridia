@@ -297,6 +297,80 @@ The area within 1 mile of the Auditor's primary archive has the following effect
 - May know truth about [[02_Worldbuilding/People/The Scattered Emperor]]'s condition
 - Potentially linked to [[02_Worldbuilding/Groups/The Void Watchers]] through forbidden knowledge
 
+## The Information Empire - Detailed Structure
+### The Thousand Eyes Network
+The Auditor's surveillance network operates on multiple levels throughout [[02_Worldbuilding/Places/Aethermoor]]:
+
+**Tier 1: The Willing Informants**
+- Government clerks who provide access to official documents
+- Merchants who report on economic trends and suspicious transactions
+- Tavern keepers and innkeepers who overhear conversations
+- Guild members who share information about their trades and competitors
+- Religious officials who learn secrets through confession and counseling
+
+**Tier 2: The Unwitting Sources**
+- Nobles whose servants have been recruited or compromised
+- Officials whose communications are intercepted through magical means
+- Travelers who unknowingly carry messages or reveal information
+- Students and apprentices who gossip about their masters' activities
+- Guards and soldiers who discuss their orders and observations
+
+**Tier 3: The Coerced Assets**
+- Individuals blackmailed into providing information
+- Criminals offered reduced sentences in exchange for intelligence
+- Debtors who work off obligations through information gathering
+- Former enemies who've been turned through various pressures
+- Professionals threatened with exposure of their own secrets
+
+### Advanced Services and Capabilities
+**Intelligence Products:** Personal dossiers, predictive analysis, risk assessment, competitive intelligence, market intelligence
+**Operational Services:** Infiltration planning, communication security, identity construction, reputation management, crisis response
+**Specialized Investigations:** Historical research, technical intelligence, social network analysis, counter-intelligence, forensic investigation
+
+## The Black Ledger - Complete Contents
+### Section A: Political Intelligence
+**Royal Family Secrets:** Hidden relationships, succession disputes, and personal scandals
+**Government Corruption:** Evidence of bribes, embezzlement, and abuse of power
+**Foreign Relations:** Secret treaties, diplomatic communications, and espionage activities
+**Military Intelligence:** Troop movements, strategic plans, and defense capabilities
+
+### Section B: Economic Information
+**Banking Records:** Account details, transaction patterns, and financial relationships
+**Trade Secrets:** Industrial processes, resource locations, and business strategies
+**Market Manipulation:** Evidence of price fixing, insider trading, and economic sabotage
+**Investment Intelligence:** Upcoming opportunities, risks, and economic predictions
+
+### Section C: Social Intelligence
+**Marriage Politics:** Arranged unions, secret relationships, and inheritance disputes
+**Criminal Networks:** Organization structures, planned activities, and law enforcement penetration
+**Cultural Movements:** Underground societies, revolutionary groups, and social trends
+**Personal Files:** Complete biographies, psychological profiles, relationship maps, weakness catalogs
+
+## The Horror of Total Surveillance
+### The Watching World
+Under the Auditor's influence, [[02_Worldbuilding/Places/Aethermoor]] has become a place where privacy no longer exists:
+
+**Omnipresent Observation:** Every conversation monitored, communications intercepted, transactions tracked, travel documented
+**The Chilling Effect:** Self-censorship, relationship difficulties, suppressed innovation, eroded social trust
+**The Control Mechanism:** Behavior modification through fear, enforced conformity, managed competition, controlled social mobility
+
+### The Dehumanization Process
+**Loss of Individual Identity:** People become data points, worth measured by information value, privacy treated as selfishness
+**The Mechanical Perspective:** Emotions viewed as weaknesses, relationships analyzed as networks, suffering evaluated for information value
+
+## Ultimate Identity Theories
+### Theory 1: The Collective Consciousness
+A collective entity composed of hundreds of absorbed personalities, having lost their original identity to accumulation of others.
+
+### Theory 2: The Living Archive
+A magical construct created by Consortium founders, designed specifically as the ultimate information gathering tool.
+
+### Theory 3: The Divine Punishment
+A former deity of knowledge punished for abuse of power, stripped of divine nature but retaining abilities.
+
+### Theory 4: The Time Traveler
+A being from the future attempting to prevent disasters by gathering information about current events.
+
 ## DM Notes
 - Perfect source for plot exposition and hidden information
 - Their shifting appearance allows flexible roleplay opportunities

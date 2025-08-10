@@ -11,7 +11,7 @@ level: 16
 alignment: Lawful Evil (believes he's Good)
 location: "[[02_Worldbuilding/Places/The Verdant Reach]]"
 faction: "[[02_Worldbuilding/Groups/Purist Coalition]]"
-status: Alive
+status: complete
 created: 2024-12-20
 image: "04_Resources/Assets/NPCs/maltheos.jpg"
   - Category/People
@@ -225,3 +225,246 @@ Maltheos believes in ancient prophecy:
 - **Mid**: Direct confrontation/negotiation
 - **Late**: Possible redemption or final battle
 - **Twist**: Could become unlikely ally against greater threat
+
+## Complete D&D 5E Statistics
+*Medium humanoid (human), lawful evil*
+
+**Armor Class** 18 (Plate Armor under robes + Shield of Faith)
+**Hit Points** 165 (22d8 + 66)
+**Speed** 30 ft., fly 60 ft. (divine magic)
+
+**STR** 16 (+3) **DEX** 10 (+0) **CON** 16 (+3) **INT** 15 (+2) **WIS** 20 (+5) **CHA** 18 (+4)
+
+**Saving Throws** Wis +11, Cha +10
+**Skills** Insight +17, Intimidation +16, Persuasion +16, Religion +14
+**Damage Resistances** Necrotic, Radiant
+**Damage Immunities** Charmed, Frightened
+**Senses** Divine Sense 60 ft., passive Perception 15
+**Languages** Common, Celestial, Draconic, Ancient
+**Challenge Rating** 16 (15,000 XP)
+**Proficiency Bonus** +5
+
+### Special Abilities
+**Divine Authority.** Maltheos can command the absolute obedience of his followers. When he issues a command, allies within 60 feet gain advantage on all rolls for 1 round.
+
+**Crystal Destroyer.** Maltheos deals double damage to crystal creatures and objects. His touch can destroy up to 1 pound of crystal per round.
+
+**Purifying Aura.** Creatures within 30 feet have advantage on saves against corruption effects. Crystal-corrupted creatures take 1d6 radiant damage per round.
+
+**Legendary Resistance (3/Day).** If Maltheos fails a saving throw, he can choose to succeed instead.
+
+**Spellcasting.** Maltheos is an 18th-level spellcaster. Spell save DC 19, +11 spell attack. Spell slots: 4/3/3/3/2/1/1/1/1.
+
+**Domains:** Light and War
+
+Spells known include:
+- Cantrips: *light*, *sacred flame*, *thaumaturgy*, *guidance*
+- 1st level: *cure wounds*, *detect magic*, *protection from evil*
+- 2nd level: *lesser restoration*, *silence*, *spiritual weapon*
+- 3rd level: *daylight*, *dispel magic*, *fireball*
+- 4th level: *freedom of movement*, *wall of fire*
+- 5th level: *flame strike*, *greater restoration*
+- 6th level: *heal*, *word of recall*
+- 7th level: *fire storm*, *plane shift*
+- 8th level: *antimagic field*, *holy aura*
+- 9th level: *mass heal*
+
+### Actions
+**Multiattack.** Maltheos makes three attacks with his Cleansing Brand or casts a spell and makes one attack.
+
+**Cleansing Brand +3.** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 12 (1d8 + 8) slashing damage plus 14 (4d6) radiant damage. Against crystal creatures, deals maximum damage.
+
+**Purifying Flame (Recharge 5-6).** Maltheos creates a 30-foot radius of holy fire centered on a point within 120 feet. All creatures in area take 28 (8d6) fire damage (DC 19 Dex save for half). Crystal creatures and objects take double damage.
+
+**Divine Word (1/Day).** Maltheos speaks a word of divine power. All creatures within 30 feet with fewer than 100 hit points are banished to another plane for 1 minute.
+
+**Convert Enemy (3/Day).** Target humanoid within 60 feet must make DC 19 Wisdom save. On failure, they become charmed by Maltheos for 24 hours and view him as their spiritual leader.
+
+### Legendary Actions (3 per turn)
+- Move without provoking opportunity attacks
+- Cast a cantrip or 1st level spell
+- Make a Cleansing Brand attack (costs 2 actions)
+- Use Purifying Flame if available (costs 3 actions)
+
+## The Amber Shard - His Greatest Secret
+### Hidden Power Source
+Deep beneath the Monastery of Eternal Light, Maltheos has secretly constructed a containment chamber for the Amber Shard - one of [[02_Worldbuilding/Lore/The Seven Shards]]. This discovery has shaped his entire crusade.
+
+### How He Acquired It
+- Found the Shard 15 years ago during excavation of monastery foundations
+- Initial contact caused visions of the original Shattering
+- Learned his ancestor Marcus the Just was involved in the crown's destruction
+- Decided to keep the Shard secret while studying its properties
+
+### Effects on His Crusade
+- The Shard's presence amplifies his divine powers significantly
+- Provides him with prophetic visions about crystal corruption
+- Confirms his belief that all Shards must be destroyed to save the world
+- Creates internal conflict as the Shard's power could corrupt him too
+
+### The Containment Protocol
+- Shard is housed in pre-Shattering containment apparatus
+- Protected by layers of holy wards and guardian constructs
+- Only Maltheos knows the access codes and procedures
+- Plans to destroy it once all other Shards are located
+
+## The Purist Coalition - Military Structure
+### The Three Pillars of Purity
+**The Purifiers (Standing Army)**
+- 2,000 trained soldiers dedicated to anti-crystal warfare
+- Equipped with blessed weapons effective against corrupted creatures
+- Organized into companies led by veteran commanders
+- Based in fortified positions throughout [[02_Worldbuilding/Places/The Verdant Reach]]
+
+**The Crimson Fist (Elite Guard)**
+- 500 hand-picked warriors sworn to absolute loyalty
+- Undergo purification rituals that enhance their combat abilities
+- Serve as Maltheos's personal guard and special operations force
+- Each member has survived direct exposure to major crystal corruption
+
+**The Silent Watch (Secret Police)**
+- Unknown number of agents infiltrating all levels of society
+- Gather intelligence on crystal activity and political opposition
+- Carry out assassinations and sabotage against corruption sources
+- Report directly to Maltheos through encrypted divine communication
+
+### Command Structure
+- **High Inquisitor Maltheos** - Supreme commander and spiritual leader
+- **Commander Thrace Ironwood** - Military operations and strategy
+- **Sister Catherine Moonfall** - Propaganda and public relations
+- **Brother Marcus Steelbane** - Intelligence and internal security
+- **The Inner Circle** - Seven senior leaders who know most secrets
+
+### Resources and Funding
+- Donations from faithful throughout multiple kingdoms
+- Seized assets from "corrupt" crystal merchants and researchers
+- Secret backing from foreign powers opposed to crystal technology
+- Hidden treasures discovered in pre-Shattering religious sites
+- Income from agricultural estates worked by Coalition members
+
+## The Great Purification - His Ultimate Plan
+### Phase One: Preparation (Current)
+- Build coalition strength and recruit more followers
+- Eliminate key crystal researchers and corrupt political figures
+- Stockpile weapons and supplies for extended campaign
+- Establish hidden cells in major population centers
+
+### Phase Two: The Reckoning
+- Simultaneous strikes against all known crystal installations
+- Public executions of major corruption figures as examples
+- Mass rallies to convert or cow the general population
+- Declaration of martial law "for the people's spiritual protection"
+
+### Phase Three: The New Order
+- Establishment of theocratic government with Maltheos as divine ruler
+- Systematic destruction of all crystal technology and artifacts
+- Re-education programs for former crystal users and researchers
+- Creation of "pure communities" isolated from corruption sources
+
+### The Foreign Invasion Pact
+> [!warning] DM Only
+> Maltheos has secretly negotiated with foreign military forces who fear crystal technology. In exchange for supporting his purification campaign, they will receive territorial concessions and trade advantages. He views this as temporary alliance of convenience.
+
+## Psychological Profile - The Burden of Legacy
+### The Ancestral Guilt Complex
+Maltheos's discovery of his ancestor's role in the Shattering created a profound psychological crisis that drives all his actions.
+
+### Core Psychological Drivers
+- **Compensation**: Must prove his family line serves good, not evil
+- **Projection**: Transfers his ancestor's guilt onto all crystal users
+- **Grandiosity**: Believes only he can save the world from corruption
+- **Persecution Complex**: Views opposition as persecution of the righteous
+- **Messianic Delusion**: Convinced he is divinely chosen for this mission
+
+### Internal Contradictions
+- Uses Shard power while condemning all Shards as evil
+- Employs violence while preaching peace and healing
+- Demands absolute truth while living fundamental lies
+- Claims to serve the people while planning to rule them
+
+### Moments of Doubt
+- Late night sessions staring at the Amber Shard wondering if he's wrong
+- Brief moments of seeing the fear in his followers' eyes
+- Dreams where his ancestor Marcus asks if this is really justice
+- Times when healing crystal corruption seems more merciful than destruction
+
+## Services and Resources He Offers
+### To Genuine Converts
+- Protection from crystal corruption and its effects
+- Healing from existing corruption (limited success)
+- Community support and spiritual guidance
+- Training in anti-corruption combat techniques
+- Safe haven in Coalition territories
+
+### To Tactical Allies
+- Military support against mutual enemies
+- Intelligence about crystal technology and its users
+- Access to blessed weapons and anti-corruption equipment
+- Political backing for anti-crystal legislation
+- Financial support for aligned causes
+
+### To Those He Seeks to Convert
+- Mercy and redemption for those who renounce crystal use
+- Protection for their families during transition period
+- Assistance in destroying their crystal possessions safely
+- Integration into Coalition communities
+- Spiritual counseling to overcome corruption addiction
+
+## Adventure Hooks - Expanded
+1. **The Crystal Festival Massacre**: Stop his planned attack on major crystal celebration
+2. **The Conversion Crisis**: Rescue loved ones who have joined his cult
+3. **The Amber Shard Heist**: Steal his secret Shard before he can use it
+4. **The Moderate Rebellion**: Support [[Brother Marcus Steelbane]]'s attempt to reform the Coalition
+5. **The Foreign Conspiracy**: Expose his alliance with foreign invasion forces
+6. **The Ancestral Truth**: Uncover and reveal the real story of Marcus the Just
+7. **The Divine Test**: Prove to him that crystal corruption can be healed, not just destroyed
+8. **The Purification Plague**: Stop his bioweapon designed to kill all crystal-touched individuals
+9. **The Succession War**: Navigate power struggle after his death or disappearance
+10. **The Redemption Path**: Help him overcome his guilt and find a better way
+
+## The Monastery of Eternal Light - Detailed Layout
+### Upper Levels (Public Access)
+- **The Great Cathedral**: Massive worship hall accommodating thousands
+- **The Healing Chambers**: Where Coalition clerics treat corruption victims
+- **The Library of Purity**: Religious texts and anti-crystal propaganda
+- **The Pilgrim Quarters**: Lodging for faithful visitors and converts
+- **The Garden of Contemplation**: Peaceful space for prayer and reflection
+
+### Middle Levels (Restricted Access)
+- **The War Room**: Strategic planning center for military operations
+- **The Training Halls**: Combat instruction for Purifiers and Crimson Fist
+- **The Interrogation Chambers**: Where suspected corruption cases are "examined"
+- **The Armory**: Storage for blessed weapons and anti-crystal equipment
+- **The Inner Sanctum**: Private chambers for senior Coalition leadership
+
+### Lower Levels (Highest Security)
+- **The Amber Vault**: Containment chamber for the hidden Shard
+- **The Deep Prison**: Holding cells for high-value corruption cases
+- **The Ritual Chamber**: Where the most intensive purification ceremonies occur
+- **The Archive Forbidden**: Records of the Shattering and other dangerous knowledge
+- **The Escape Tunnels**: Hidden passages for emergency evacuation
+
+## Potential Character Development Arcs
+### The Redemption Path
+- Discovery of his hypocrisy and ancestor's true motivations
+- Gradual realization that cooperation might work better than conquest
+- Acceptance that crystal corruption can be healed rather than destroyed
+- Final sacrifice to save others from the consequences of his actions
+
+### The Villain's Victory
+- Successfully implements his purification plan
+- Becomes increasingly tyrannical as power corrupts him
+- Must be stopped by heroes before he destroys all crystal technology
+- Final confrontation with the consequences of his extremism
+
+### The Tragic Fall
+- His own use of Shard power gradually corrupts him
+- Becomes the very thing he fought against
+- Dies realizing his crusade was built on lies and self-deception
+- Legacy becomes cautionary tale about the dangers of fanaticism
+
+### The Unlikely Ally
+- Greater threat forces him to work with former enemies
+- Learns to respect those he once condemned
+- Uses his organizational skills for genuine good
+- Finds redemption through cooperation rather than conquest

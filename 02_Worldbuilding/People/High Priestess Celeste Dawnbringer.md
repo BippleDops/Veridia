@@ -16,7 +16,7 @@ level: 16
 alignment: Lawful Good (Conflicted)
 location: "[[02_Worldbuilding/Places/Crystalhaven]]"
 faction: "[[The Luminous Dawn Church]]"
-status: Alive (Burdened by Secrets)
+status: complete
 created: 2025-08-09
 world: "Aethermoor"
   - Category/People
@@ -184,8 +184,255 @@ High Priestess Celeste Dawnbringer leads the Church of the Luminous Dawn in [[02
 - [[Sacred Healing Gardens]] - Where she conducts treatments
 - [[02_Worldbuilding/Groups/The Crystal Throne]] - Royal palace connections
 
+## The Secret Medical Protocol
+### The Queen's Treatments
+Every three days, in the hidden sanctuary beneath the cathedral, Celeste performs intensive healing sessions on [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] to slow the progression of her crystal corruption.
+
+### Treatment Components
+- **Light Infusion**: Direct channeling of pure radiant energy into the queen's system
+- **Purification Prayers**: Ancient rites that temporarily cleanse corrupted crystals
+- **Soul Binding**: Celeste sacrifices portions of her own life force to strengthen the queen
+- **Memory Modification**: Subtle divine magic to help the queen cope with the psychological effects
+- **Symptom Suppression**: Magical techniques to hide visible signs of corruption
+
+### The Hidden Toll
+Each treatment session drains Celeste significantly:
+- Loses 1d4 months of natural lifespan per major healing session
+- Experiences increasing difficulty maintaining her own divine connection
+- Suffers psychosomatic symptoms that mirror the queen's condition
+- Growing dependence on the very crystal magic she's trying to cure
+
+## The Sacred Keepers - Her Inner Circle
+### Brother Marcus Lightward (Second-in-Command)
+- **Background**: Former military chaplain who discovered the queen's secret by accident
+- **Role**: Handles daily church operations while Celeste focuses on treatments
+- **Personality**: Pragmatic, loyal, increasingly concerned about Celeste's deteriorating health
+- **Secret Burden**: Knows the treatments are slowly killing Celeste but hasn't told her
+
+### Sister Elena Starweaver (Medical Specialist)
+- **Background**: Brilliant healer who developed many of the anti-corruption techniques
+- **Role**: Chief researcher working on permanent cure for crystal corruption
+- **Personality**: Obsessive, perfectionist, willing to take extreme risks for breakthrough
+- **Hidden Agenda**: Secretly believes the queen should be allowed to die to protect the kingdom
+
+### Acolyte Thomas Brightwater (The Innocent)
+- **Background**: Young priest with exceptional healing gifts, unaware of full scope of conspiracy
+- **Role**: Provides supplementary healing and serves as backup for emergencies
+- **Personality**: Idealistic, compassionate, gradually becoming suspicious
+- **Character Arc**: His discovery of the truth could expose or strengthen the conspiracy
+
+### Mother Superior Catherine (The Wise)
+- **Background**: Ancient nun who trained Celeste and remembers the kingdom before crystal magic
+- **Role**: Spiritual advisor and keeper of historical knowledge
+- **Personality**: Wise, patient, deeply concerned about the moral implications
+- **Secret Knowledge**: Suspects [[02_Worldbuilding/People/The Crimson Sage]]'s true identity
+
+## The Corruption Research Project
+### Experimental Techniques
+Celeste has developed several innovative approaches to treating crystal corruption:
+
+**Solar Resonance Therapy**
+- Uses concentrated sunlight channeled through blessed crystals
+- Creates temporary immunity to corruption effects
+- Requires rare components and perfect weather conditions
+- Side effect: Patients develop light sensitivity
+
+**Divine Essence Transfusion**
+- Direct transfer of Celeste's own divine energy to patients
+- Most effective treatment but extremely dangerous to caster
+- Can cure early-stage corruption completely
+- Risk: Could kill Celeste if overused
+
+**Memory Palace Technique**
+- Helps patients compartmentalize corruption-related trauma
+- Allows them to function normally despite ongoing physical effects
+- Requires ongoing maintenance sessions
+- Danger: Suppressed memories could resurface violently
+
+**Crystal Harmony Ritual**
+- Attempts to "purify" corrupted crystals rather than destroy them
+- Theoretical breakthrough that could revolutionize treatment
+- Still in experimental phase with mixed results
+- Opposition: [[02_Worldbuilding/People/High Inquisitor Maltheos]] would execute her if he knew
+
+### Research Facilities
+**The Hidden Sanctuary**
+- Secret chamber beneath the cathedral accessible only to Sacred Keepers
+- Contains the queen's medical records and treatment equipment
+- Protected by layers of divine wards and misdirection magic
+- Houses experimental corruption specimens for study
+
+**The Light Laboratory**
+- Disguised as a meditation chamber in the cathedral's upper levels
+- Where Celeste develops and tests new healing techniques
+- Contains dangerous experimental equipment and forbidden texts
+- Regularly inspected by church hierarchy who remain oblivious to its true purpose
+
+## Political Complexities
+### The Church Hierarchy
+Celeste must navigate complex relationships within her own organization:
+
+**Cardinal Vincent Goldspire** - Northern dioceses leader who suspects her of heretical research
+**Archbishop Helena Dawnfire** - Traditional conservative who opposes any deviation from orthodox healing
+**Bishop Marcus Sunblade** - Military chaplain who could become powerful ally or dangerous enemy
+
+### Government Relations
+**[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Knows something is wrong with the queen but hasn't confronted Celeste
+**Royal Council Members** - Several are growing suspicious of the queen's inconsistent public appearances
+**Parliament Leaders** - Some want to use any royal weakness for political advantage
+
+### International Implications
+**Foreign Ambassadors** - Have noticed changes in the queen's behavior and appearance
+**Church Officials from Other Realms** - Could expose the conspiracy if they discover the truth
+**Healing Orders Abroad** - Celeste maintains correspondence seeking cures, risking exposure
+
+## Expanded Combat Statistics
+*Medium humanoid (human), lawful good*
+
+**Additional Abilities:**
+**Desperate Healing (1/Day).** When an ally drops to 0 hit points, Celeste can immediately teleport to them and cast *heal* as a reaction, but takes 2d6 necrotic damage.
+
+**Divine Sacrifice.** Celeste can choose to take damage intended for another creature within 30 feet. She has resistance to this damage but cannot reduce it below 1.
+
+**Corruption Cleansing (3/Day).** Touch attack that removes crystal corruption effects. Target makes DC 18 Constitution save; success removes one corruption level, failure deals 4d8 radiant damage.
+
+**Light Form (1/Day).** Celeste becomes a being of pure light for 1 minute. She gains flying speed 60 ft., immunity to physical damage, and all healing spells are maximized.
+
+### Legendary Actions (Expanded)
+- Cast *cure wounds* or *lesser restoration*
+- Move and make a melee attack with radiant weapon
+- Create 20-foot radius of *daylight* (costs 2 actions)
+- Perform emergency corruption treatment (costs 3 actions, only usable in sanctuary)
+
+## The Weight of Deception
+### Psychological Impact
+The constant deception is taking a severe psychological toll on Celeste:
+
+**Stress Symptoms:**
+- Insomnia and recurring nightmares about the queen's death
+- Increasing reliance on divine magic to function normally
+- Difficulty maintaining her public persona of serene confidence
+- Growing paranoia about discovery and its consequences
+
+**Spiritual Crisis:**
+- Questions whether her deception violates her sacred oaths
+- Wonders if she's enabling the queen's descent into corruption
+- Fears that her lies have contaminated her connection to divine power
+- Struggles with the possibility that letting the queen die might be merciful
+
+**Relationship Strain:**
+- Cannot form genuine connections due to constant secret-keeping
+- Feels isolated even among her closest allies
+- Battles resentment toward the queen for putting her in this position
+- Questions whether her sacrifice will ultimately matter
+
+### The Breaking Point
+Celeste is approaching a psychological crisis that could manifest in several ways:
+- Complete mental breakdown that exposes all secrets
+- Desperate attempt to find permanent cure regardless of consequences
+- Decision to publicly confess and accept execution
+- Transformation into zealot willing to kill to protect secrets
+
+## Services She Provides
+### Official Church Services
+- Healing ceremonies for the general public
+- Blessing of marriages, births, and important events
+- Spiritual counseling for the faithful
+- Training and ordination of new clergy
+- Diplomatic functions as religious representative
+
+### Secret Medical Services
+- Advanced corruption treatment for select individuals
+- Consultation on magical healing techniques
+- Provision of rare healing supplies and components
+- Training for healers dealing with dangerous corruption cases
+- Medical documentation and research sharing
+
+### Political Services
+- Religious legitimacy for royal policies
+- Spiritual guidance for government leaders
+- Mediation between conflicting noble factions
+- International religious diplomacy
+- Moral authority in times of crisis
+
+## Adventure Hooks - Expanded
+1. **The Corruption Crisis**: New form of corruption appears that her treatments can't touch
+2. **The Suspicious Investigator**: Church authority arrives to examine her research methods  
+3. **The Cure Component**: Rare material needed for breakthrough cure is in dangerous location
+4. **The Royal Collapse**: Queen's condition deteriorates rapidly, forcing desperate measures
+5. **The Moral Test**: Party must decide whether to help or expose her conspiracy
+6. **The Successor Crisis**: Celeste's failing health requires training replacement who can be trusted
+7. **The Divine Vision**: Religious experience suggests her methods are fundamentally flawed
+8. **The Political Manipulation**: Enemy faction tries to use knowledge of conspiracy for leverage
+9. **The International Incident**: Foreign healing expert discovers inconsistencies in queen's condition
+10. **The Ultimate Choice**: Final decision between saving queen and saving kingdom
+
+## The Sacred Architecture
+### The Luminous Dawn Cathedral
+**The Great Hall of Healing**
+- Massive chamber where public healing ceremonies occur
+- Accommodates up to 3,000 worshippers during major festivals
+- Features stained glass windows that amplify divine magic
+- Hidden mechanisms allow rapid conversion to defensive position
+
+**The High Altar of Restoration** 
+- Sacred space where most powerful healing rituals are performed
+- Contains fragments of pre-corruption divine artifacts
+- Surrounded by living crystal formations that respond to divine energy
+- Secret passage behind altar leads to hidden sanctuary below
+
+**The Meditation Chambers**
+- Private rooms for spiritual counseling and confession
+- Each chamber designed for specific types of healing work
+- Acoustically isolated to prevent eavesdropping
+- Several contain hidden storage for experimental equipment
+
+### The Hidden Sanctuary (Detailed)
+**The Treatment Chamber**
+- Medical facility designed specifically for the queen's needs
+- Features advanced magical healing apparatus
+- Protected by divine wards that prevent scrying
+- Contains detailed medical records of every treatment session
+
+**The Research Laboratory**
+- Where Celeste develops experimental corruption treatments
+- Houses dangerous specimens and forbidden magical texts
+- Equipped with safety measures for magical experimentation
+- Connected to surface via secret elevator hidden in altar
+
+**The Archive of Secrets**
+- Storage for documents too dangerous for public access
+- Contains evidence of church and government corruption
+- Houses historical records about pre-corruption healing methods
+- Protected by curse that kills unauthorized readers
+
+## Moral Philosophy
+### The Greater Good vs. Individual Truth
+Celeste constantly wrestles with whether her deception serves the greater good or merely enables deeper corruption.
+
+### The Nature of Sacrifice
+Questions whether her willingness to sacrifice her own health and integrity actually helps anyone or simply perpetuates a broken system.
+
+### Divine Will vs. Human Choice
+Struggles with whether her actions represent divine guidance or human arrogance in assuming she knows better than her deity.
+
+### Healing vs. Enabling
+Wonders if her treatments actually heal the queen or simply postpone inevitable consequences while enabling continued dangerous behavior.
+
+## Connected Elements - Expanded
+- Central to the secret conspiracy surrounding [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s condition
+- Key figure in church-state relations and religious authority
+- Links healing magic to political intrigue and moral complexity
+- Represents themes of sacrifice, deception, and the cost of compassion
+- Connection point between personal ethics and institutional responsibility
+
 ## Involved Quests
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Her expertise essential
 - [[Quest - The Healer's Burden]] - Her secret threatens exposure
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - May hold the cure
 - [[Quest - Faith and Doubt]] - Her spiritual crisis affects the church
+- [[Quest - The Royal Treatment]] - Maintaining the queen's secret medical needs
+- [[Quest - The Sanctuary's Secret]] - Protecting the hidden medical facility
+- [[Quest - The Divine Test]] - Proving her methods don't violate divine will
+- [[Quest - The Successor's Burden]] - Training replacement who can handle the truth
+- [[Quest - The Corruption Cure]] - Developing permanent solution to crystal corruption

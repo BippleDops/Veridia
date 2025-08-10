@@ -14,7 +14,7 @@ obsidianUIMode: preview
 # The Oracle of the Sundered Peaks
 
 **Type:** Mystical Journey/Prophecy  
-**Level:** 9-13  
+**Level:** 17-20  
 **Location:** [[The Sundered Peaks]], [[Crystalline Wastes]], [[Lighthouse Peak]]  
 **Duration:** 3-5 sessions  
 **Threat:** Ancient prophecies are coming true, and only the cryptic Oracle can reveal how to prevent catastrophe
@@ -32,6 +32,12 @@ The Oracle, known only as "She-Who-Sees-Beyond," is the last surviving member of
 - **[[Elena Starweaver]]**: Crystal mage investigating the peaks' growing instability
 - **[[Time-Lost Delegate Chronus]]**: Temporal refugee who knows the Oracle's true nature
 - **Echo of Future-Past**: Mysterious entity claiming to be the Oracle's successor
+- **[[The Deep Mother]]**: Cosmic entity whose "birthing" threatens reality's stability
+- **[[Vault Keeper Eternal]]**: Ancient guardian who understands temporal mechanics
+- **[[Admiral Thorne Blackwater]]**: Military leader coordinating emergency response
+- **Seer Mystral the Timebinder**: Temporal mage studying the convergence patterns
+- **[[The Recursion Oracle]]**: Secondary seer who experiences time loops
+- **Paradox Guardian Flux**: Construct created to prevent temporal contradictions
 
 ## Phase 1: The Summons (1 session)
 **Location:** Various - wherever the party currently is  
@@ -87,14 +93,63 @@ The party receives the summons through supernatural means:
 - He has fragments of prophecy that complement the party's mission
 
 ### Crystal Guardian Constructs
-**CR 8** (3,900 XP each)  
+**CR 12** (8,400 XP each)  
+**Large construct, lawful neutral**
+**AC** 18 (Natural Armor), **HP** 178 (17d12 + 68), **Speed** 30 ft., fly 60 ft. (hover)
+**STR** 22 (+6) **DEX** 14 (+2) **CON** 18 (+4) **INT** 16 (+3) **WIS** 20 (+5) **CHA** 12 (+1)
+**Saving Throws** Int +8, Wis +10  
+**Skills** Arcana +8, Insight +15, Perception +10  
+**Damage Resistances** Bludgeoning, Piercing, Slashing from nonmagical attacks
+**Damage Immunities** Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** Truesight 120 ft., passive Perception 20
+**Languages** Celestial, Common, Primordial
 **Special Abilities:**
-- **Temporal Displacement**: Can phase in and out of different time streams
-- **Reality Anchor**: Stabilizes local space-time around themselves
-- **Prophecy Shield**: Resistance to divination magic and precognitive abilities
-- **Crystal Resonance**: Communicate through harmonic frequencies
-
+- **Temporal Displacement** (3/day): Can phase in and out of different time streams, becoming incorporeal for 1 round
+- **Reality Anchor** (Aura): Stabilizes local space-time in 60-foot radius, preventing teleportation and time effects
+- **Prophecy Shield**: Advantage on saves against divination magic and precognitive abilities
+- **Crystal Resonance**: Communicate telepathically with crystal creatures within 1 mile
+- **Multiattack**: Makes three Crystal Blade attacks
+- **Crystal Blade**: Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 2d8 + 6 slashing damage plus 1d8 radiant damage
+- **Temporal Strike** (Recharge 5-6): Target must make DC 18 Con save or be aged 1d10 years (or restored if already aged)
 **Purpose:** These guardians test whether visitors are worthy of the Oracle's attention. They don't fight to kill, but to evaluate courage, wisdom, and determination.
+
+**Seer Mystral the Timebinder**
+**CR 15** (13,000 XP)  
+**Medium humanoid (human), chaotic neutral**
+**AC** 17 (Natural Armor from temporal distortions), **HP** 165 (22d8 + 66), **Speed** 30 ft., fly 90 ft. (magical)
+**STR** 10 (+0) **DEX** 16 (+3) **CON** 16 (+3) **INT** 22 (+6) **WIS** 24 (+7) **CHA** 18 (+4)
+**Saving Throws** Int +12, Wis +13, Cha +10  
+**Skills** Arcana +18, History +18, Insight +19, Investigation +12  
+**Damage Resistances** Psychic, Radiant
+**Condition Immunities** Charmed, Frightened
+**Senses** Truesight 120 ft., passive Perception 17
+**Languages** Common, Celestial, Draconic, plus all languages from different time periods
+**Spellcasting** 18th-level spellcaster, spell save DC 21, +13 to hit
+**Spells:** Cantrips (4): *mage hand*, *minor illusion*, *prestidigitation*, *thaumaturgy*; 1st (4): *detect magic*, *magic missile*; 2nd (3): *misty step*, *web*; 3rd (3): *counterspell*, *fireball*; 4th (3): *confusion*, *polymorph*; 5th (3): *scrying*, *telekinesis*; 6th (1): *mass suggestion*; 7th (1): *plane shift*; 8th (1): *time stop*; 9th (1): *wish*
+**Abilities:**
+- **Temporal Mastery**: Can cast *time stop* at will, but only for 1 round
+- **Precognitive Defense**: Add Wisdom modifier to AC against attacks she can see coming
+- **Temporal Echo** (3/day): Can take an additional turn immediately after rolling initiative
+- **Reality Revision** (1/day): Can force any creature within 60 feet to reroll any die roll
+- **Legendary Actions** (3 per turn): Cast Cantrip, Move, Cast Spell (costs 2)
+
+**Paradox Guardian Flux**
+**CR 13** (10,000 XP)  
+**Large construct, true neutral**
+**AC** 19 (Natural Armor), **HP** 184 (16d12 + 80), **Speed** 40 ft., teleport 60 ft.
+**STR** 20 (+5) **DEX** 18 (+4) **CON** 20 (+5) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 14 (+2)
+**Saving Throws** Con +10, Int +9, Wis +8  
+**Skills** Arcana +9, Investigation +9, Perception +8  
+**Damage Immunities** Force, Necrotic, Psychic
+**Condition Immunities** All conditions
+**Senses** Truesight 120 ft., Temporal Sight (can see 1 round into past and future), passive Perception 18
+**Languages** All languages across all timelines
+**Abilities:**
+- **Paradox Prevention**: Can negate any effect that would create a temporal paradox within 120 feet
+- **Temporal Correction** (3/day): Can force any event within the last round to "unhappen"
+- **Multiverse Awareness**: Cannot be surprised and always acts first in initiative
+- **Phase Strike** (3/day): Melee attack that hits in multiple timelines simultaneously, dealing 4d10 + 5 force damage
+- **Legendary Resistance** (3/day): If fails a saving throw, can choose to succeed instead
 
 ## Phase 3: The Oracle's Sanctuary (1-2 sessions)
 **Location:** [[Lighthouse Peak]] - The Temporal Sanctuary  
@@ -227,12 +282,33 @@ Regardless of which path the party chooses to pursue, the Oracle gives them:
 **Cosmic Responsibility**: The fate of all existence now rests on their decisions  
 **Preparation Phase**: Final chance to gather allies and resources before the critical moment
 
-## Connected Adventures
-- **[[The Seven Shards]]**: Understanding and manipulating these artifacts becomes crucial
+## ## Wiki Links and Campaign Connections
+
+### Core Campaign Elements
+- **[[The Seven Shards]]**: Ancient artifacts whose alignment triggers the Final Sundering
+- **[[Aethermoor]]**: Surface realm that will be destroyed in the catastrophe
+- **[[Aquabyssos]]**: Underwater realm connected by the Resonance Bridge
+- **[[The Sundered Peaks]]**: Mountain range where reality grows thin and prophecy is possible
+- **[[Crystalline Wastes]]**: Areas where crystal magic interferes with normal reality
+- **[[Lighthouse Peak]]**: Specific mountain where the Oracle's sanctuary exists
+- **[[The Deep Mother]]**: Cosmic entity whose "birthing" will strain reality beyond limits
+- **[[The Singing Trenches]]**: Underwater formations creating destabilizing resonances
+- **[[Crystal Festival]]**: Annual celebration when the convergence reaches its peak
+- **[[The Lock]]**: Ancient barrier between realms that's failing
+- **[[Memory Tides]]**: Psychic phenomena affecting prophecy and temporal magic
+- **[[Parliament of Echoes]]**: Government body that must be warned of the coming catastrophe
+- **[[Time-Lost Delegate Chronus]]**: Temporal refugee whose presence weakens dimensional barriers
+- **[[The Archive of Unremembered Things]]**: Repository of knowledge about previous reality crises
+- **[[Depth Wardens]]**: Military force that will be crucial in any evacuation efforts
+
+Connected Adventures
+- **[[Crystalline Depths]]**: Crystal phenomena may be early signs of the coming Sundering
+- **[[The Maw of Darkness]]**: Another reality-threatening entity that may be connected
+- **[[Smuggler's Gambit]]**: Political instability weakens defenses against cosmic threats
+- **[[Rescue Senator Glaucus]]**: Political unity will be crucial for coordinated response
 - **[[The Crystal Festival]]**: The timing of the catastrophe connects to this celebration
 - **[[The Deep Mother]]**: Confronting or negotiating with this entity may be necessary
 - **[[The Singing Trenches]]**: The resonance problem must be addressed
-- **[[Time-Lost Delegate Chronus]]**: His temporal expertise becomes invaluable
 
 ## Campaign Impact
 

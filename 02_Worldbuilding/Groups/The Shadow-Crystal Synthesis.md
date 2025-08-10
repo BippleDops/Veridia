@@ -116,20 +116,57 @@ The Shadow-Crystal Synthesis represents the cutting edge of dangerous magical re
 - **[[Sister Thalassa the Depth-Touched]]**: Debates about Deep Mother's relationship to crystals
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]**: Potential subject for synthesis experiments
 
+## Membership Structure & Requirements
+
+### Joining the Synthesis
+#### Entry Requirements
+- Advanced degree in [[02_Worldbuilding/Subjects/Magical Theory]] or [[02_Worldbuilding/Subjects/Crystal Engineering]]
+- Demonstrated resistance to both shadow and crystal corruption
+- Willingness to undergo initial synthesis exposure treatments
+- Sponsorship by existing member with [[02_Worldbuilding/Groups/Research Council]] approval
+- Psychological evaluation to ensure stability under impossible conditions
+
+#### Research Ranks
+1. **Synthesis Initiate**: New researchers learning basic dual-energy theory
+2. **Corruption Resistant**: Members who've survived initial exposure treatments
+3. **Dual-State Theorist**: Researchers who can think in both shadow and crystal paradigms
+4. **Synthesis Practitioner**: Active experimenters with hands-on experience
+5. **Hybrid Specialist**: Experts focusing on specific synthesis applications
+6. **Unity Researcher**: Senior researchers approaching breakthrough discoveries
+7. **Transcendence Candidate**: Members preparing for full synthesis integration
+8. **Research Council Member**: Leadership positions in the organization
+
+#### Test Subject Categories
+- **Voluntary Subjects**: Paid participants in controlled experiments
+- **Research Staff**: Members undergoing synthesis enhancement for better research
+- **Enhanced Operatives**: Field agents with synthesis-powered abilities
+- **The Transformed**: Subjects successfully merged with both energy types
+- **Living Experiments**: Individuals existing as ongoing synthesis research
+
 ## Services & Capabilities
 ### What They Offer
-- Custom synthesis devices for specific applications
-- Enhancement treatments combining both energy types
-- Consultation on problems involving shadow-crystal interactions
-- Analysis of artifacts or phenomena involving both energies
-- Training in synthesis theory and safe handling procedures
+- Custom synthesis devices for specific applications through [[02_Worldbuilding/Items/Harmony Resonators]]
+- Enhancement treatments combining both energy types via [[02_Worldbuilding/Procedures/Dual Integration Therapy]]
+- Consultation on problems involving [[02_Worldbuilding/Phenomena/Shadow-Crystal Interactions]]
+- Analysis of artifacts or phenomena involving both energies using [[02_Worldbuilding/Tools/Dual-State Sensors]]
+- Training in synthesis theory and safe handling procedures at [[The Fusion Laboratory]]
+- [[02_Worldbuilding/Services/Reality Stabilization]] for areas affected by dual corruption
+- [[02_Worldbuilding/Products/Null-State Materials]] immune to both corruption types
+- [[02_Worldbuilding/Treatments/Synthesis Consciousness Transfer]] for terminal patients
+
+### Research Contracts Available
+- **Government Projects**: Secret synthesis applications for [[02_Worldbuilding/Governments/Aethermoor Council]] and [[02_Worldbuilding/Governments/Parliament of Echoes]]
+- **Medical Research**: Developing [[02_Worldbuilding/Medicine/Hybrid Healing]] techniques
+- **Military Applications**: Creating [[02_Worldbuilding/Weapons/Synthesis Combat Systems]]
+- **Infrastructure Development**: Building [[02_Worldbuilding/Architecture/Dimensional Bridging]] technology
+- **Environmental Remediation**: Healing areas corrupted by [[02_Worldbuilding/Disasters/Crystal Cascade Events]]
 
 ### What They Require
-- Test subjects willing to undergo synthesis procedures
-- Rare materials from both Aethermoor and Aquabyssos
-- Protection from authorities trying to shut them down
-- Funding for increasingly expensive and dangerous experiments
-- New knowledge about shadow and crystal energy sources
+- Test subjects willing to undergo synthesis procedures and sign [[02_Worldbuilding/Documents/Experimental Consent Forms]]
+- Rare materials from both [[02_Worldbuilding/Resources/Aethermoor Crystal Mines]] and [[02_Worldbuilding/Resources/Aquabyssos Shadow Pools]]
+- Protection from authorities through [[02_Worldbuilding/Groups/Legal Defense Network]]
+- Funding for increasingly expensive experiments via [[02_Worldbuilding/Economics/Research Investment Funds]]
+- New knowledge about [[02_Worldbuilding/Entities/Shadow Energy Sources]] and [[02_Worldbuilding/Entities/Crystal Power Nodes]]
 
 ## Adventure Hooks
 1. **The Synthesis Accident**: Help contain catastrophic experimental failure

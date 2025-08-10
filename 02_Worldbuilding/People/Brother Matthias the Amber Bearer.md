@@ -157,9 +157,232 @@ Brother Matthias is one of the most zealous and effective members of the [[02_Wo
 - Represents themes of faith, deception, and moral complexity
 - Links Shard mythology to religious extremism storylines
 
+---
+
+## D&D 5e Stat Block
+
+### Brother Matthias the Amber Bearer
+*Medium humanoid (human, shard-bearer), lawful good*
+
+**Armor Class** 20 (Plate Armor +2, Shield +1)  
+**Hit Points** 195 (23d10 + 69)  
+**Speed** 30 ft.
+
+**STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
+--------|---------|---------|---------|---------|--------
+20 (+5) | 12 (+1) | 16 (+3) | 14 (+2) | 18 (+4) | 19 (+4)
+
+**Saving Throws** Str +12, Con +10, Wis +11, Cha +11  
+**Skills** Athletics +12, Insight +11, Intimidation +11, Medicine +11, Perception +11, Religion +9  
+**Damage Resistances** Radiant, Force (Amber Shard influence)  
+**Damage Immunities** Charmed, Frightened, Crystal Corruption  
+**Condition Immunities** Exhaustion (Shard sustains him)  
+**Senses** Detect corruption 120 ft., passive Perception 21  
+**Languages** Common, Celestial (believes it's divine blessing)  
+**Challenge Rating** 15 (13,000 XP)  
+**Proficiency Bonus** +5
+
+### Special Abilities
+
+**Legendary Resistance (3/Day).** If Matthias fails a saving throw, he can choose to succeed instead.
+
+**Amber Shard Power (Unknowing).** The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] embedded in Matthias's chest grants him divine-level abilities that he believes come from righteous faith. The shard glows visibly through his armor when using its powers.
+
+**Unbreakable Faith.** Matthias cannot be turned from his cause by any means - magical, divine, or mundane. His conviction is literally reinforced by Shard power.
+
+**Corruption Immunity.** Matthias is completely immune to crystal corruption, shadow taint, and other supernatural contamination. His presence purifies corruption within 30 feet.
+
+**Divine Endurance.** Matthias can fight without rest for 24 hours and requires only 2 hours of prayer instead of sleep. The Amber Shard sustains his physical needs.
+
+**Shard Resonance (Unconscious).** Matthias is subconsciously drawn toward other Shards and their bearers, though he interprets this as "divine guidance."
+
+**Inspiring Presence.** All allies within 60 feet of Matthias gain advantage on saving throws against fear and charm effects. [[02_Worldbuilding/Groups/Purist Coalition]] members also gain +2 to attack rolls.
+
+**Truth Compulsion.** Creatures within 30 feet of Matthias have disadvantage on Deception checks and feel compelled to speak honestly.
+
+**Spellcasting.** Matthias is an 18th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 19, +11 to hit with spell attacks). He knows the following spells:
+
+- **1st level (4 slots):** command, cure wounds, detect evil and good, divine favor, sanctuary
+- **2nd level (3 slots):** aid, hold person, spiritual weapon, zone of truth
+- **3rd level (3 slots):** beacon of hope, crusader's mantle, dispel magic, spirit guardians
+- **4th level (3 slots):** freedom of movement, guardian of faith, stoneskin
+- **5th level (3 slots):** commune, dispel evil and good, flame strike, greater restoration
+- **6th level (1 slot):** harm, heal, word of recall
+- **7th level (1 slot):** divine word, plane shift
+- **8th level (1 slot):** antimagic field, earthquake
+- **9th level (1 slot):** mass heal
+
+### Actions
+
+**Multiattack.** Matthias makes three attacks with Righteous Fury or two attacks and casts a spell.
+
+**Righteous Fury (Warhammer +3).** *Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 14 (1d8 + 10) bludgeoning damage plus 9 (2d8) radiant damage. Against corrupted creatures, deals an additional 9 (2d8) force damage and the target must succeed on a DC 19 Constitution saving throw or be stunned until the end of their next turn.
+
+**Amber Burst (3/Day).** Matthias's shard flares with golden light. All creatures within 30 feet must make a DC 19 Constitution saving throw. Enemies take 27 (6d8) radiant damage on a failure (half on success), while allies regain 27 hit points. Corrupted creatures and objects in the area are automatically purified.
+
+**Divine Judgment (1/Day).** Matthias calls upon what he believes is divine justice. Target creature within 60 feet must make a DC 19 Wisdom saving throw. On a failure, they take 45 (10d8) radiant damage and are marked for 1 minute. While marked, they take an additional 5 radiant damage from any attack. If the target dies while marked, they cannot be resurrected by any means short of divine intervention.
+
+**Purifying Touch (Recharge 5-6).** Matthias touches a creature, object, or area within 5 feet. Instantly removes all curses, diseases, poisons, and magical corruption. Against corrupted creatures, this deals 36 (8d8) radiant damage (Constitution save DC 19 for half).
+
+**Coalition Rally (1/Day).** Matthias shouts an inspiring battle cry. All [[02_Worldbuilding/Groups/Purist Coalition]] allies within 120 feet gain 25 temporary hit points, advantage on their next attack roll, and can immediately move up to their speed without provoking opportunity attacks.
+
+### Legendary Actions (3 per turn)
+Matthias can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn.
+
+**Move.** Matthias moves up to his speed without provoking opportunity attacks.
+
+**Strike.** Matthias makes one Righteous Fury attack.
+
+**Purifying Aura.** All allies within 30 feet regain 10 hit points and are cured of one condition.
+
+**Divine Spell (Costs 2 Actions).** Matthias casts a spell of 4th level or lower.
+
+**Amber Shield (Costs 3 Actions).** Matthias creates a barrier of golden light. All allies within 60 feet gain resistance to all damage until the start of his next turn.
+
+### Lair Actions
+When encountered at a [[02_Worldbuilding/Groups/Purist Coalition]] stronghold or during a major purification operation, Matthias can take lair actions on initiative count 20:
+
+**Consecrated Ground.** The area becomes consecrated as the *hallow* spell for 24 hours, but only affects crystal corruption and shadow magic.
+
+**Rally the Faithful.** All [[02_Worldbuilding/Groups/Purist Coalition]] members in the area gain a +4 bonus to attack and damage rolls until initiative count 20 of the next round.
+
+**Purification Wave.** A wave of golden energy expands from Matthias. All creatures within 120 feet must make a DC 17 Constitution saving throw. Corrupted creatures take 18 (4d8) radiant damage, while allies regain 18 hit points.
+
+---
+
+## The Amber Shard's True Power
+
+### Hidden Divine Abilities
+The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] grants Matthias powers he doesn't understand:
+
+#### Earthen Authority
+- **Stone's Endurance**: Immunity to exhaustion, disease, and aging
+- **Mineral Sense**: Can detect precious metals, gems, and crystal formations within 1 mile
+- **Earth Communion**: Unconsciously draws power from stone and earth
+- **Seismic Tremor**: Can cause minor earthquakes when extremely emotional (uncontrolled)
+
+#### Divine Resonance
+- **Shard Detection**: Feels "called" toward other Shard locations
+- **Bearer Recognition**: Unconsciously recognizes other Shard bearers as "significant"
+- **Divine Dreams**: Visions of ancient Aetheron, interpreted as religious experiences
+- **Reality Anchor**: His presence makes illusions and transmutations less effective in 100-foot radius
+
+### Signs of Shard Influence
+- Golden light occasionally visible through armor, especially during prayer
+- Amber-colored scar over heart pulses with his heartbeat
+- Plants wither or flourish based on his emotional state
+- Stone and metal resonate harmonically when he speaks with conviction
+- Animals instinctively trust or fear him based on their connection to nature
+
+---
+
+## Enhanced Relationships & Connections
+
+### Fellow Shard Bearers (Unconscious Recognition)
+- **[[The Emerald Sage Willowbark]]**: Feels "kinship" with her connection to earth and growth
+- **[[Gareth Goldenheart, The Chosen Vessel]]**: Protective instinct toward the divine child
+- **[[The Azure Prophet Nerissa]]**: Her prophecies resonate with his "divine dreams"
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Senses corruption in the Crystal Shard but doesn't understand why
+- **[[The Shadow Singer Naia]]**: Her healing work appeals to his desire to help the suffering
+
+### Coalition & Military Connections
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Beloved mentor who shaped his anti-crystal crusade
+- **[[02_Worldbuilding/People/Commander Thrace Ironwood]]**: Close ally who provides military strategy
+- **[[02_Worldbuilding/Groups/The Purest Faith]]**: Fundamentalist religious sect within Coalition
+- **[[02_Worldbuilding/Places/The Sacred Armory]]**: Blessed weapons cache he helps maintain
+- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Living symbol of divine favor and righteousness
+
+### Cross-Campaign Connections
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Would be fascinated by his unknowing Shard bearer status
+- **[[02_Worldbuilding/Lore/Convergence Point]]**: His Shard contributes to dimensional weakening
+- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Consider him a key piece in cosmic chess game
+- **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: His discovery could trigger Coalition fracture
+- **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Would love to corrupt a Shard bearer
+- **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: His presence calms chaotic divine energies
+- **[[02_Worldbuilding/Items/The Resonance Forge Hammer]]**: Would resonate powerfully with Amber Shard
+- **[[02_Worldbuilding/Quests/Quest - The Memory Bridge]]**: Could provide stable foundation for divine connections
+- **[[02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance]]**: Central figure in power dynamic exploration
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Might have records of his true nature
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Would recognize him as fellow Shard bearer immediately
+
+### Enemies & Opposition
+- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Primary target for Coalition operations
+- **[[02_Worldbuilding/People/Lady Jade Clawgrip]]**: Represents everything he opposes about crystal commerce
+- **[[Crystal Corruption Cultists]]**: Seek to corrupt the "pure" Shard bearer
+- **[[Scholar Vivienne the Chronicler]]**: Investigates his supernatural abilities
+- **[[The Order of the Shattered Crown]]**: Would kill to claim his Shard
+
+---
+
+## Prophecies & Divine "Visions"
+
+### The Amber Prophecy (Misinterpreted)
+*"The foundation stone shall not be moved, though heaven and earth pass away. In the bearer of earth's strength lies the anchor that keeps the divine from scattering to the winds. But beware - for even the strongest stone may crack if it bears too great a weight."*
+
+**Matthias's Interpretation**: Divine mandate to remain steadfast in faith  
+**True Meaning**: The Amber Shard serves as reality anchor during Convergence
+
+### The Vision of Unity
+*"Seven lights become one, and in that unity, judgment falls upon the corrupt. The righteous shall stand in golden light while the wicked burn in crystal fire."*
+
+**Matthias's Interpretation**: Divine prophecy of Purist Coalition victory  
+**True Meaning**: Vision of Shard reunification and its consequences
+
+### The Dream of the Child
+*"A child of gold shall speak words that either heal or damn all creation. The bearer of earth's strength must choose - protect the innocent or preserve the cause."*
+
+**Matthias's Interpretation**: Test of faith involving protecting worthy children  
+**True Meaning**: His future choice regarding [[Gareth Goldenheart, The Chosen Vessel]]
+
+### Current Divine "Guidance"
+Matthias receives what he believes are divine visions:
+- Compulsion to travel toward other Shard locations ("pilgrimage sites")
+- Dreams of [[02_Worldbuilding/People/Archdruid Thornweaver]] and feeling called to meet "a holy druid"
+- Visions of a great underwater temple ([[The Azure Prophet Nerissa]]'s location)
+- Recurring dreams of standing in a circle with six other figures of light
+- Prophetic warnings about "the false queen's crystal crown" (Queen Seraphina)
+
+---
+
+## Services & Coalition Resources
+
+### For Coalition Members
+- **Divine Blessing**: 500gp - Permanent protection from corruption for Coalition fighters
+- **Purification Ritual**: 1,000gp - Cleanse large areas of crystal contamination
+- **Righteous Training**: 2,000gp per month - Combat training blessed with divine power
+- **Truth Ceremony**: Free for Coalition - Detect lies and corruption in potential recruits
+
+### For Proven Allies
+- **Divine Healing**: 1,500gp - Complete restoration including lost limbs and divine curses
+- **Consecration Service**: 5,000gp - Permanently bless strongholds against corruption
+- **Holy Weapons**: 3,000gp + materials - Forge weapons especially effective against crystals
+- **Divine Guidance**: 10,000gp - Direct "communion" providing strategic insights
+
+### The Crisis of Discovery
+**When Matthias learns the truth about his power source:**
+
+#### Potential Reactions
+1. **Complete Denial**: "The Shard is lying! This is a test of faith!"
+2. **Theological Crisis**: "If this power is corrupt, am I damned?"
+3. **Recontextualization**: "Perhaps the divine works through all things, even Shards"
+4. **Embrace**: "If this is what I am, then I'll use it for good"
+5. **Self-Sacrifice**: "I must die to prevent corruption spreading"
+
+#### Coalition Schism Possibilities
+- **Purist Hardliners**: "He is corrupted and must be destroyed"
+- **Moderate Faithful**: "His good works prove Shards aren't inherently evil"
+- **Pragmatists**: "We need his power regardless of its source"
+- **Matthias Loyalists**: "We follow the man, not the doctrine"
+
+---
+
 ## DM Notes
 - Perfect for exploring themes of faith vs. evidence
 - His revelation can drive major campaign plot points
 - Represents Shard power used for "good" cause
 - Can be ally, enemy, or tragic figure depending on how truth emerges
 - His choices about revealed truth can reshape entire factions
+- **Combat Role**: Tank/Support who buffs allies and purifies corruption
+- **Social Role**: Moral authority and Coalition spokesperson
+- **Plot Function**: Walking contradiction that can shatter faction ideologies
+- **Power Balance**: Very strong but believes his power comes from faith, creating interesting RP moments

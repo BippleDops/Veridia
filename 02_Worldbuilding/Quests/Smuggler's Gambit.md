@@ -31,6 +31,12 @@ The [[Goldspire Confederacy]] has been secretly stockpiling [[Aether Crystals]] 
 - **[[Caravan Master Dolrim]]**: Gruff dwarf who knows the real truth behind the crystal cache
 - **Captain Magnus Goldguard**: Military officer guarding the warehouse with suspicious dedication
 - **[[Shadow Broker Mist]]**: Information dealer playing all sides against each other
+- **[[Admiral Thorne Blackwater]]**: Concerned about crystal weapons in wrong hands
+- **Dock Inspector Coral Brightscale**: Customs official who can be bribed or convinced
+- **[[Memory Merchant Zara Mindweave]]**: Information trader with connections to all factions
+- **Quartermaster Reef Goldcoin**: [[Goldspire Confederacy]] supply officer with inside knowledge
+- **[[Professor Aldric Crystalweaver]]**: Expert whose research is being weaponized
+- **Spymaster Tide Shadowfin**: [[The Crystal Throne]] intelligence operative
 
 ## Phase 1: The Job Offer (1 session)
 **Location:** [[Goldspire Port]] - The Brass Anchor Tavern  
@@ -144,31 +150,79 @@ Once the truth emerges, multiple parties approach the party with new deals:
 If alarms are triggered during the heist:
 
 **Crystal Guards (4)**
-**CR 3** (700 XP each)  
+**CR 5** (1,800 XP each)  
+**Medium humanoid (various), lawful neutral**
+**AC** 16 (Crystal-Enhanced Chain Mail), **HP** 52 (8d8 + 16), **Speed** 30 ft.
+**STR** 16 (+3) **DEX** 12 (+1) **CON** 14 (+2) **INT** 11 (+0) **WIS** 13 (+1) **CHA** 10 (+0)
+**Saving Throws** Str +6, Con +5  
+**Skills** Athletics +6, Intimidation +3, Perception +4  
+**Damage Resistances** Force, Radiant (from crystal-enhanced armor)
+**Senses** passive Perception 14
+**Languages** Common, Aquan
 **Special Equipment:**
-- **Crystal-Enhanced Armor**: Resistance to magical damage
-- **Resonance Weapons**: Deal extra damage to creatures holding crystals
-- **Alarm Crystals**: Can summon reinforcements from across the city
+- **Crystal-Enhanced Armor**: Resistance to magical damage, glows when detecting magic
+- **Resonance Weapons**: +1 magic weapons that deal extra 1d4 force damage to creatures holding crystals
+- **Alarm Crystals**: Can summon reinforcements from across the city as action
+- **Multiattack**: Makes two weapon attacks
+- **Crystal Disruption** (1/day): Target holding crystals within 30 feet takes 2d6 force damage
 
 **Captain Magnus Goldguard**
-**CR 6** (2,300 XP)  
+**CR 8** (3,900 XP)  
+**Medium humanoid (dwarf), lawful good**
+**AC** 18 (Plate), **HP** 112 (15d8 + 45), **Speed** 25 ft.
+**STR** 18 (+4) **DEX** 10 (+0) **CON** 16 (+3) **INT** 14 (+2) **WIS** 16 (+3) **CHA** 15 (+2)
+**Saving Throws** Str +7, Con +6, Wis +6  
+**Skills** Athletics +7, Insight +6, Investigation +5, Perception +6  
+**Damage Resistances** Poison
+**Senses** Darkvision 60 ft., passive Perception 16
+**Languages** Common, Dwarvish, Aquan
 **Abilities:**
-- **Tactical Commander**: Allies gain advantage on attack rolls
-- **Crystal Mastery**: Can overload [[Aether Crystals]] for explosive damage
-- **Protective Ward**: Magic resistance and damage reduction
-- **Last Resort**: When defeated, triggers facility lockdown
+- **Tactical Commander**: Allies within 30 feet gain advantage on attack rolls and +2 to damage
+- **Crystal Mastery**: Can overload [[Aether Crystals]] within 60 feet, dealing 3d6 force damage in 15-foot radius (DC 16 Dex save for half)
+- **Protective Ward** (3/day): Gain resistance to all damage for 1 round
+- **Last Resort**: When reduced to 25 HP or fewer, triggers facility lockdown and calls all guards
+- **Multiattack**: Makes three weapon attacks
+- **Crystal Warhammer**: +2 magic weapon, +10 to hit, 1d8 + 6 bludgeoning plus 1d6 force damage
+- **Leadership** (Recharges after a Short or Long Rest): Choose up to 3 allies within 30 feet, they gain advantage on next attack roll and add +5 damage
+- **Legendary Actions** (3 per turn): Move, Attack, Rally (gives ally extra attack)
+
+**Dock Inspector Coral Brightscale**
+**CR 3** (700 XP)  
+**Medium humanoid (merfolk), neutral**
+**AC** 13 (Leather Armor), **HP** 32 (5d8 + 10), **Speed** 30 ft., swim 40 ft.
+**STR** 11 (+0) **DEX** 14 (+2) **CON** 14 (+2) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 15 (+2)
+**Skills** Insight +8, Investigation +7, Perception +8, Persuasion +6  
+**Senses** passive Perception 18
+**Languages** Aquan, Common, Draconic
+**Abilities:**
+- **Keen Senses**: Advantage on Perception checks and cannot be surprised
+- **Bureaucratic Authority**: Can call city watch, grant permits, or cause legal complications
+- **Detect Contraband**: Automatically detects magical items and illegal substances within 30 feet
+- **Bribe Assessment**: Can determine exact amount needed to convince someone to break rules
 
 ### The Betrayal Ambush
 When the double-crosses begin:
 
 **Finn's Revealed Form**
-**CR 7** (2,900 XP)  
+**CR 9** (5,000 XP)  
+**Medium humanoid (shapechanger), chaotic evil**
+**AC** 15 (Natural Armor), **HP** 127 (15d8 + 60), **Speed** 30 ft., swim 30 ft.
+**STR** 12 (+1) **DEX** 18 (+4) **CON** 18 (+4) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 20 (+5)
+**Saving Throws** Dex +8, Cha +9  
+**Skills** Deception +13, Insight +6, Persuasion +9, Sleight of Hand +8  
+**Damage Resistances** Psychic, Charm
+**Senses** Darkvision 60 ft., passive Perception 12
+**Languages** Common, Aquan, Primordial
+**Spellcasting** 10th-level spellcaster, spell save DC 17, +9 to hit
+**Spells:** Cantrips (4): *minor illusion*, *prestidigitation*, *thaumaturgy*, *mage hand*; 1st (4): *charm person*, *disguise self*; 2nd (3): *invisibility*, *suggestion*; 3rd (3): *counterspell*, *major image*; 4th (3): *confusion*, *polymorph*; 5th (2): *dominate person*, *modify memory*
 **True Identity**: [[Crystal Throne]] Infiltrator  
 **Abilities:**
-- **Shapechanger**: Has been using illusion magic to maintain false identity
-- **Crystal Corruption**: Touch attacks cause ongoing psychic damage
-- **Teleport Escape**: Can use crystals as anchors for dimensional travel
-- **Desperate Gambit**: Threatens to detonate stolen crystals if cornered
+- **Shapechanger**: Can change appearance at will, has been using illusion magic to maintain false identity
+- **Crystal Corruption**: Touch attacks (+8 to hit) deal 1d8 + 4 psychic damage plus ongoing 1d4 psychic damage per round (Con save DC 17 ends)
+- **Teleport Escape** (3/day): Can use crystals as anchors for dimensional travel up to 500 feet
+- **Desperate Gambit**: If reduced to 25 HP or fewer, threatens to detonate stolen crystals in 30-foot radius (6d6 force damage, DC 17 Dex save for half)
+- **False Identity** (At will): Perfect disguise that fools magical detection
+- **Legendary Actions** (3 per turn): Move, Cast Cantrip, Cast Spell (costs 2)
 
 ## Resolution Paths
 
@@ -220,7 +274,30 @@ When the double-crosses begin:
 - **Faction Standing**: Positive or negative reputation with major powers
 - **Professional Recognition**: Establishment as skilled operatives for hire
 
-## Connected Adventures
+## ## Wiki Links and Campaign Connections
+
+### Core Campaign Elements
+- **[[Goldspire Port]]**: Major trading city where the heist takes place
+- **[[Crystallium]]**: Ruined city that supposedly contains the original crystal cache
+- **[[Azure Citadel]]**: [[The Crystal Throne]] fortress and research facility
+- **[[The Crystal Throne]]**: Political faction seeking to acquire crystal weapons
+- **[[Goldspire Confederacy]]**: Merchant republic trying to maintain crystal monopoly
+- **[[Aethermoor]]**: Surface realm involved in the intelligence operations
+- **[[Aether Crystals]]**: Magical materials being weaponized by all factions
+- **[[The Seven Shards]]**: Ancient artifacts that may power these crystal weapons
+- **[[Crystal Festival]]**: Annual celebration that may be target for weapon deployment
+- **[[Shadow Surgeons Collective]]**: Underground organization connected to memory modification
+- **[[Memory Tides]]**: Psychic phenomena affecting crystal-based technology
+- **[[The Singing Trenches]]**: Source of harmonic frequencies used in crystal weapons
+- **[[Depth Wardens]]**: Military force concerned about crystal weapon proliferation
+- **[[Parliament of Echoes]]**: Government body monitoring inter-realm tensions
+- **[[The Archive of Unremembered Things]]**: Contains records of previous crystal weapons incidents
+
+Connected Adventures
+- **[[Crystalline Depths]]**: Crystal weapons may be connected to the spreading crystal corruption
+- **[[The Oracle of the Sundered Peaks]]**: Weapons may play a role in preventing or causing the Final Sundering
+- **[[The Maw of Darkness]]**: Crystal technology might be needed to fight reality-consuming entities
+- **[[Rescue Senator Glaucus]]**: Political stability affected by weapons proliferation
 - **[[The Crystal Festival]]**: Stolen weapons may be intended for festival sabotage
 - **[[Lady Venetia Silkwind]]**: Noble patron for future adventures or enemy to avoid
 - **[[Elena Starweaver]]**: Connection to [[Aethermoor]] intelligence operations

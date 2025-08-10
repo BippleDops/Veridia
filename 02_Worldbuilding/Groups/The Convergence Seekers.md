@@ -154,15 +154,65 @@ The Convergence Seekers believe that [[02_Worldbuilding/Places/Aethermoor]] and 
 - Some members become fanatical, justifying any means for convergence
 - Balance between patience and urgency as crises mount in both worlds
 
-## Faction Ranks
+## Membership Structure & Requirements
+
+### Joining the Seekers
+#### Recruitment Criteria
+- Demonstrated exposure to both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] environments
+- Ideological commitment to [[02_Worldbuilding/Concepts/Realm Unity Philosophy]]
+- Ability to resist corruption from both crystal and shadow energies
+- Mental flexibility to accept radical worldview changes
+- Willingness to undergo [[02_Worldbuilding/Procedures/Between-State Transformation]]
+
 ### Seeker Hierarchy
-1. **Initiate**: New member learning convergence theory
-2. **Bridge Walker**: Proven ability to think across realm boundaries
-3. **Between Touched**: Beginning transformation into dual-realm being
-4. **Convergence Agent**: Active operative working toward unity
-5. **Unity Speaker**: Regional leader and convergence theorist
-6. **Threshold Guardian**: Protector of cross-realm assets and secrets
+1. **Initiate**: New member learning [[02_Worldbuilding/Theory/Convergence Theory]]
+2. **Bridge Walker**: Proven ability to think across realm boundaries using [[02_Worldbuilding/Skills/Dual-Reality Perception]]
+3. **Between Touched**: Beginning transformation into dual-realm being via [[02_Worldbuilding/Rituals/Unity Exposure Ceremonies]]
+4. **Convergence Agent**: Active operative working toward unity through [[02_Worldbuilding/Operations/Reality Bridge Projects]]
+5. **Unity Speaker**: Regional leader and convergence theorist with access to [[02_Worldbuilding/Knowledge/Advanced Unification Techniques]]
+6. **Threshold Guardian**: Protector of cross-realm assets in [[02_Worldbuilding/Locations/The Threshold Chambers]]
 7. **The Mediator's Voice**: Inner circle member with direct leadership access
+
+#### Specialized Roles
+- **Dream Swimmers**: Navigate [[02_Worldbuilding/Realms/The Deep Mother's Unconscious]]
+- **Crystal Theorists**: Study [[02_Worldbuilding/Artifacts/The Seven Shards]] for convergence applications
+- **Reality Mappers**: Chart weak points in [[02_Worldbuilding/Barriers/Dimensional Boundaries]]
+- **Between Agents**: Elite operatives existing in both worlds simultaneously
+- **Portal Engineers**: Build and maintain [[02_Worldbuilding/Infrastructure/Convergence Portal Network]]
+
+## Services & Resources
+
+### What They Offer
+- **Cross-Realm Intelligence**: Information about conditions in both worlds through [[02_Worldbuilding/Networks/Dual-Reality Spy Network]]
+- **Portal Access**: Secret transportation between realms via [[02_Worldbuilding/Locations/Hidden Convergence Gates]]
+- **Unity Theory Education**: Training in [[02_Worldbuilding/Subjects/Convergence Philosophy]] and practical applications
+- **Dual-State Enhancement**: Treatments allowing survival in both realm environments
+- **Reality Bridging Consultation**: Expertise on [[02_Worldbuilding/Phenomena/Cross-Dimensional Events]]
+- **Cultural Synthesis**: Blending traditions from both worlds for [[02_Worldbuilding/Communities/Mixed Heritage Settlements]]
+- **Between-World Communication**: Secure messaging through [[02_Worldbuilding/Technology/Quantum Consciousness Network]]
+- **Convergence Preparation**: Help communities prepare for eventual world merger
+
+### Research Facilities
+- **The Unity Laboratory**: Experiments in [[02_Worldbuilding/Science/Dual-Energy Synthesis]]
+- **Reality Mapping Center**: Tracking [[02_Worldbuilding/Geography/Dimensional Weak Points]]
+- **Memory Palace Archive**: Storing experiences of [[02_Worldbuilding/History/Pre-Separation Era]]
+- **Between-State Chambers**: Training facilities for [[02_Worldbuilding/Personnel/Dual-Realm Operatives]]
+- **Convergence Simulation Lab**: Testing merger scenarios using [[02_Worldbuilding/Technology/Reality Modeling Systems]]
+
+### Material Assets
+- **Dual-Energy Crystals**: Artifacts powered by both shadow and crystal forces
+- **Cross-Realm Vehicles**: Transportation adapted for [[02_Worldbuilding/Travel/Inter-Dimensional Navigation]]
+- **Unity Documents**: Maps and texts describing [[02_Worldbuilding/History/Original Unified World]]
+- **Convergence Catalysts**: Substances that accelerate [[02_Worldbuilding/Processes/Dimensional Merger]]
+- **Between-State Equipment**: Tools functioning in multiple realities simultaneously
+
+### What They Require
+- **Test Subjects**: Volunteers for [[02_Worldbuilding/Experiments/Convergence Procedures]]
+- **Dimensional Materials**: Resources from [[02_Worldbuilding/Resources/Reality Boundary Zones]]
+- **Financial Support**: Funding for [[02_Worldbuilding/Projects/Large Scale Unity Operations]]
+- **Political Protection**: Shield from authorities opposing [[02_Worldbuilding/Movements/Convergence Activities]]
+- **Ancient Knowledge**: Information about [[02_Worldbuilding/History/Pre-Separation Divine Intervention]]
+- **Sacred Sites**: Access to locations significant to [[02_Worldbuilding/Religion/Original World Theology]]
 
 ## Connected Elements
 - Central to any storylines involving [[02_Worldbuilding/Places/Aethermoor]]-[[02_Worldbuilding/Places/Aquabyssos]] connections

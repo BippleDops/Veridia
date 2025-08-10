@@ -123,20 +123,82 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 4. **The Floating Market Heist**: Protect or plan robbery of dimensional trading post
 5. **The Portal Pirates**: Stop raiders attacking Company transport routes
 
-## Services for Adventurers
-### What They Offer
-- Transportation between realms for paying customers
-- Information about conditions and opportunities in either world
-- Currency exchange and financial services
-- Rare goods and equipment from both realms
-- Neutral meeting ground for cross-realm negotiations
+## Membership Structure & Ranks
 
-### Their Prices
-- Standard currency from either realm
-- Unique items or information for their collections
-- Services such as protection or problem-solving
+### Joining the Company
+#### Employment Requirements
+- Demonstrated skill in [[02_Worldbuilding/Skills/Cross-Cultural Communication]]
+- Clean legal record in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
+- Ability to handle [[02_Worldbuilding/Hazards/Dimensional Travel Stress]]
+- Proven trustworthiness with valuable or sensitive cargo
+- Basic understanding of [[02_Worldbuilding/Concepts/Inter-Dimensional Commerce]]
+
+### Company Hierarchy
+1. **Portal Apprentice**: New employees learning basic dimensional travel
+2. **Trade Courier**: Qualified to transport simple goods between realms
+3. **Cultural Liaison**: Specialist in one realm's customs and markets
+4. **Dimensional Navigator**: Licensed to pilot through unstable portal routes
+5. **Market Specialist**: Expert in specific commodity types or regions
+6. **Trade Captain**: Authorized to negotiate major deals independently
+7. **Regional Director**: Manages Company operations in specific areas
+8. **Executive Council Member**: Leadership positions with Company-wide authority
+
+#### Specialized Roles
+- **Quantum Accountants**: Handle [[02_Worldbuilding/Finance/Cross-Dimensional Currency]]
+- **Diplomatic Couriers**: Carry sensitive messages between [[02_Worldbuilding/Governments/Realm Authorities]]
+- **Reality Technicians**: Maintain [[02_Worldbuilding/Equipment/Portal Technology]]
+- **Cultural Translators**: Bridge communication gaps using [[02_Worldbuilding/Magic/Universal Translation]]
+- **Neutral Arbitrators**: Resolve disputes in [[02_Worldbuilding/Locations/The Floating Market]]
+
+### Partnership Programs
+#### Merchant Associates
+- Independent traders with Company contracts
+- Access to [[02_Worldbuilding/Services/Portal Network]] at reduced rates
+- Shared intelligence about [[02_Worldbuilding/Markets/Cross-Realm Opportunities]]
+- Protection under [[02_Worldbuilding/Treaties/Neutral Commerce Agreements]]
+
+#### Corporate Clients
+- Major factions requiring regular cross-realm services
+- Bulk shipping discounts and priority scheduling
+- Custom solutions for unique transportation needs
+- Exclusive access to rare [[02_Worldbuilding/Resources/Inter-Dimensional Commodities]]
+
+## Services & Capabilities
+### Transportation Services
+- **Standard Portal Travel**: Safe passage between established [[02_Worldbuilding/Locations/Portal Terminals]]
+- **Luxury Dimensional Tours**: Guided experiences for wealthy tourists via [[02_Worldbuilding/Services/Cross-Realm Tourism]]
+- **Emergency Evacuation**: Rapid extraction from dangerous situations using [[02_Worldbuilding/Protocols/Crisis Portal Procedures]]
+- **Cargo Transport**: Shipping goods through [[02_Worldbuilding/Infrastructure/Dimensional Freight Network]]
+- **Diplomatic Transport**: Secure travel for government officials and ambassadors
+
+### Financial Services
+- **Currency Exchange**: Converting between [[02_Worldbuilding/Economy/Aethermoor Crystal Standards]] and [[02_Worldbuilding/Economy/Aquabyssos Memory Currency]]
+- **Cross-Realm Banking**: Secure storage and transfer through [[02_Worldbuilding/Finance/Dimensional Vaults]]
+- **Investment Opportunities**: Funding ventures in both realms via [[02_Worldbuilding/Business/Inter-Dimensional Investment Fund]]
+- **Trade Insurance**: Protection against portal accidents and dimensional hazards
+- **Market Analysis**: Intelligence reports on [[02_Worldbuilding/Economics/Cross-Realm Trade Trends]]
+
+### Information & Communication
+- **Market Intelligence**: Current prices and demand for [[02_Worldbuilding/Commodities/Cross-Realm Goods]]
+- **Cultural Consulting**: Guidance on customs and etiquette through [[02_Worldbuilding/Experts/Cultural Specialists]]
+- **Political Updates**: News about conditions affecting trade in either realm
+- **Secure Messaging**: Encrypted communication via [[02_Worldbuilding/Technology/Quantum Message Network]]
+- **Translation Services**: Professional interpretation using [[02_Worldbuilding/Personnel/Dimensional Linguists]]
+
+### Specialized Offerings
+- **Neutral Venue Rental**: Access to [[02_Worldbuilding/Locations/The Floating Market]] for meetings
+- **Diplomatic Facilitation**: Mediating disputes through [[02_Worldbuilding/Departments/Conflict Resolution Division]]
+- **Custom Procurement**: Acquiring specific items from either realm
+- **Reality Stabilization**: Technical support for [[02_Worldbuilding/Hazards/Dimensional Instabilities]]
+- **Emergency Services**: 24/7 support for travelers in distress
+
+### What They Require
+- Standard currency from either realm or [[02_Worldbuilding/Finance/Company Credit]]
+- Unique items for their [[02_Worldbuilding/Collections/Inter-Dimensional Artifacts Museum]]
+- Information about new markets or opportunities
+- Protection services for Company assets and personnel
 - Exclusive trading rights or business partnerships
-- Promises of future favors or considerations
+- Compliance with [[02_Worldbuilding/Regulations/Cross-Realm Commerce Laws]]
 
 ## Moral Complexity
 ### The Profit Dilemma

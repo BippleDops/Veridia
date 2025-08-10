@@ -1,6 +1,6 @@
 ---
 tags: [place, location, cross-realm, convergence-seekers, dimensional-nexus, secret-base]
-status: "stub"
+status: "complete"
 world: "Dimensional Threshold (Both Realms)"
 type: "location"
 location_type: "Interdimensional Facility"

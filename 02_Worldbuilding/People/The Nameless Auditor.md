@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, silverscale-consortium, spymaster, information-broker, mysterious]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Scale of Information"
@@ -137,6 +137,111 @@ The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuild
 - Balances individual privacy against organizational needs
 - Questions whether their power serves justice or merely profit
 
+## Horror Elements & Dark Secrets
+### The Memory Harvest
+- Literally consumes memories from their informants and contacts
+- Each absorbed memory adds to their shapeshifting abilities
+- Victims often develop gaps in their recollection after meetings
+- The process is slowly making them less human and more like a living archive
+- May be accumulating memories to achieve some form of immortality
+
+### The Information Addiction
+- Compulsively seeks new secrets even when unnecessary for business
+- Experiences withdrawal symptoms when cut off from intelligence flow
+- Hoards information the way others collect gold or art
+- Their need for secrets has become pathological and self-destructive
+- May be planning to absorb all knowledge in existence
+
+### The Identity Plague
+- Each person they mimic leaves them a little less like their original self
+- Their true personality may be completely buried under accumulated identities
+- Sometimes acts out fragments of absorbed personalities involuntarily
+- May have forgotten their own original name and history
+- Could be nothing more than a vessel containing thousands of other people's identities
+
+### The Surveillance Curse
+- Being constantly watched has made them paranoid and isolated
+- They monitor their own agents and employees obsessively
+- Sleep in different locations each night and trust absolutely no one
+- May be gradually losing the ability to form genuine relationships
+- Their quest for control through information has trapped them in a prison of paranoia
+
+## D&D 5E Stats
+*Medium humanoid (human?), neutral evil*
+
+**Armor Class** 17 (Natural Armor from collected identities)  
+**Hit Points** 165 (22d8 + 66)  
+**Speed** 30 ft., climb 30 ft. (spider climb at will)
+
+**STR** 12 (+1) **DEX** 18 (+4) **CON** 16 (+3) **INT** 22 (+6) **WIS** 20 (+5) **CHA** 19 (+4)
+
+**Saving Throws** Int +12, Wis +11, Cha +10  
+**Skills** Deception +16, Insight +17, Investigation +18, Perception +17, Persuasion +10, Sleight of Hand +10, Stealth +16  
+**Damage Resistances** Psychic  
+**Damage Immunities** Charmed, Frightened  
+**Senses** Truesight 120 ft., passive Perception 27  
+**Languages** All languages, telepathy 120 ft.  
+**Challenge Rating** 15 (13,000 XP)  
+**Proficiency Bonus** +5
+
+### Special Abilities
+**Identity Flux.** The Auditor's appearance and voice change each round. Creatures must succeed on a DC 20 Wisdom (Perception) check to maintain a clear memory of the encounter.
+
+**Memory Drain.** When the Auditor touches a willing or unconscious creature, they can extract specific memories. The target must make a DC 20 Constitution save or lose those memories permanently while the Auditor gains access to them.
+
+**Information Network.** The Auditor can use an action to consult their network of spies, functioning as a *legend lore* spell with no casting time or material components (3/day).
+
+**Shapechanger.** The Auditor can use their action to polymorph into any humanoid form they've encountered, retaining their game statistics.
+
+**Spellcasting.** The Auditor is an 18th-level spellcaster. Spellcasting ability is Intelligence (spell save DC 20, +12 to hit). Known spells:
+- Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*, *detect magic*
+- 1st level (4 slots): *charm person*, *detect thoughts*, *disguise self*
+- 2nd level (3 slots): *suggestion*, *invisibility*, *locate object*
+- 3rd level (3 slots): *sending*, *tongues*, *counterspell*
+- 4th level (3 slots): *confusion*, *locate creature*, *polymorph*
+- 5th level (3 slots): *dominate person*, *modify memory*, *scrying*
+- 6th level (1 slot): *mass suggestion*, *true seeing*
+- 7th level (1 slot): *plane shift*
+- 8th level (1 slot): *feeblemind*, *mind blank*
+- 9th level (1 slot): *foresight*
+
+### Actions
+**Multiattack.** The Auditor makes two attacks or casts a spell and makes one attack.
+
+**Memory Blade.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage plus 14 (4d6) psychic damage. Target must succeed on DC 20 Wisdom save or have their most recent memory stolen.
+
+**Revelation Strike (Recharge 5-6).** The Auditor whispers a devastating secret about the target. One creature within 60 feet must succeed on DC 20 Wisdom save or take 35 (10d6) psychic damage and be stunned until end of their next turn.
+
+**Blackmail Command (1/Day).** The Auditor uses compromising information to control a target within 60 feet. Functions as *geas* spell (save DC 20) but lasts only 24 hours.
+
+### Legendary Actions (3 per turn)
+- Move without provoking opportunity attacks
+- Make a Memory Blade attack
+- Cast a spell (costs 2 actions)
+- Use Memory Drain on willing or unconscious target (costs 3 actions)
+
+## The Black Ledger - Expanded Details
+### Physical Description
+- Massive grimoire bound in leather from unknown creature
+- Pages made from processed memory essence that shift and change
+- Text appears in reader's native language but some sections remain encrypted
+- Locked with seven different magical seals, each requiring specific key
+- Radiates aura of unease and paranoia to those nearby
+
+### Magical Properties
+- **Living Document**: Automatically updates with new information
+- **Truth Compulsion**: Forces honesty from those who read certain sections
+- **Memory Echo**: Allows reader to experience memories associated with entries
+- **Scrying Focus**: Can be used to locate anyone mentioned within its pages
+- **Psychic Defense**: Attacks mind of unauthorized readers
+
+### Secret Sections
+- **The Dragon's True Name**: Information about [[Argyros the Silver]]'s real identity
+- **The Consortium's Endgame**: Ultimate plans for societal control
+- **The Other Auditors**: Evidence of similar entities in other organizations
+- **The Memory Wars**: Secret history of information-based conflicts
+- **The Final Secret**: Truth about what the Auditor really is
+
 ## True Nature Theories
 ### Popular Speculation
 - **Multiple People**: The "Auditor" is actually several individuals
@@ -158,6 +263,40 @@ The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuild
 - Represents themes of privacy, knowledge, and the power of secrets
 - Key figure for any storyline involving espionage or hidden information
 
+### Horror Campaign Integration
+- **Psychological Terror**: Represents fear of being watched and having no privacy
+- **Body Horror**: Their constant shapeshifting suggests loss of stable identity
+- **Existential Dread**: Questions about whether they're still human or something else
+- **Paranoia Themes**: Everyone could be their agent, nowhere is truly safe
+- **Information Terror**: Knowledge itself becomes a weapon and burden
+
+### Lair Actions (The Black Ledger Archive)
+On initiative 20 (losing ties), the Auditor can take one lair action:
+- **Memory Storm**: All creatures in 30-foot radius make DC 18 Wisdom save or be confused for 1 round
+- **Identity Crisis**: One creature must make DC 18 Charisma save or forget their name and background for 1 minute
+- **Surveillance Activation**: Hidden eyes throughout lair allow Auditor to see and target anyone within 120 feet
+- **Information Overload**: Release overwhelming data stream, all creatures in 60 feet take 10 (3d6) psychic damage
+
+### Regional Effects
+The area within 1 mile of the Auditor's primary archive has the following effects:
+- Written messages sometimes change their content after being read
+- People have difficulty remembering conversations and meetings
+- Mirrors occasionally show reflections of other people instead of the viewer
+- Secrets feel heavier and more burdensome to keep
+- Information seems to spread faster than should be possible
+
+## Connected Elements - Expanded
+- Central to all [[02_Worldbuilding/Groups/Silverscale Consortium]] intelligence operations
+- Links to [[02_Worldbuilding/Lore/The Deep Mother]] through collected memories of her influence
+- May have connections to [[02_Worldbuilding/Lore/The Seven Shards]] through ancient knowledge
+- Potential link to [[02_Worldbuilding/Places/Shadow Wells]] as source of fear-based information
+- Could be connected to [[Memory Farmers]] through memory manipulation techniques
+- May have agents within [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Links to [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]] through political intelligence
+- Connected to [[02_Worldbuilding/People/Commander Typhoon Blackheart]] through military secrets
+- May know truth about [[02_Worldbuilding/People/The Scattered Emperor]]'s condition
+- Potentially linked to [[02_Worldbuilding/Groups/The Void Watchers]] through forbidden knowledge
+
 ## DM Notes
 - Perfect source for plot exposition and hidden information
 - Their shifting appearance allows flexible roleplay opportunities
@@ -165,3 +304,8 @@ The Nameless Auditor serves as the "Scale of Information" on the [[02_Worldbuild
 - Their network explains how Consortium knows so much about everything
 - Represents the power of information in political and economic systems
 - Their true identity can be major campaign mystery
+- Use them to create paranoia about who can be trusted
+- Their memory drain ability makes every interaction potentially dangerous
+- The horror elements work best when used subtly at first
+- Their lair can serve as both treasure trove and death trap
+- Consider them as recurring villain who's always one step ahead through information

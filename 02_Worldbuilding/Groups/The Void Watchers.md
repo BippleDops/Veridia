@@ -163,16 +163,65 @@ The Void Watchers are an ancient order dedicated to preventing the collapse of r
 - Isolated by their cosmic perspective and responsibilities
 - Question whether preserving current reality is always best choice
 
-## Recruitment & Training
-### Becoming a Watcher
-- Usually recruited from those who've encountered dimensional anomalies
-- Must undergo gradual exposure to cosmic truth to avoid madness
-- Training involves experiencing multiple realities and dimensions
-- Not all recruits survive the process of gaining cosmic perspective
-- Once fully trained, can never return to normal mortal existence
+## Membership Structure & Requirements
+
+### Recruitment Criteria
+- Proven exposure to [[02_Worldbuilding/Phenomena/Dimensional Anomalies]] without complete madness
+- Strong will and mental fortitude tested by [[02_Worldbuilding/Tests/Cosmic Horror Trials]]
+- No strong attachments to specific world or faction
+- Ability to perceive [[02_Worldbuilding/Entities/Extra-Dimensional Beings]]
+- Recommendation from existing Watcher or discovery during [[02_Worldbuilding/Events/Reality Breach Incidents]]
+
+### Watcher Hierarchy
+1. **Reality Sensitive**: Individuals who can perceive dimensional instabilities
+2. **Void Touched**: Recruits undergoing initial exposure to cosmic truth
+3. **Observer**: Junior Watchers stationed at single monitoring posts
+4. **Guardian**: Field operatives capable of containing minor breaches
+5. **Sentinel**: Experienced Watchers assigned to critical locations
+6. **Monitor**: Senior Watchers overseeing multiple dimensional sites
+7. **Circle Member**: Inner council with authority over major operations
+8. **The First Watcher**: Supreme leader existing partially outside time
+
+### Training Stages
+#### Phase 1: Mental Conditioning
+- Exposure to [[02_Worldbuilding/Concepts/Cosmic Truth]] in controlled doses
+- Training to resist [[02_Worldbuilding/Afflictions/Reality Madness]]
+- Learning to perceive multiple dimensions simultaneously
+- Developing immunity to [[02_Worldbuilding/Effects/Temporal Displacement]]
+
+#### Phase 2: Dimensional Experience
+- Guided tours through [[02_Worldbuilding/Places/Parallel Realities]]
+- Observation of [[02_Worldbuilding/Creatures/Void Entities]] in their native habitat
+- Training with [[02_Worldbuilding/Equipment/Reality Anchors]] and [[02_Worldbuilding/Tools/Void Sensors]]
+- Participation in containment of minor [[02_Worldbuilding/Events/Dimensional Incursions]]
+
+#### Phase 3: Cosmic Integration
+- Full exposure to the true nature of [[02_Worldbuilding/Cosmology/The Multiverse]]
+- Development of [[02_Worldbuilding/Abilities/Cross-Dimensional Perception]]
+- Learning to communicate with [[02_Worldbuilding/Entities/Abstract Cosmic Forces]]
+- Final psychological testing to ensure stability under cosmic perspective
 
 ### The Watcher's Oath
 *"I stand at reality's edge, guardian against the void. I watch what should not be seen, know what should not be known, bear what should not be borne. I sacrifice my mortal concerns for existence itself. Should all realities crumble, I shall be the final light holding back the dark."*
+
+## Services & Capabilities
+
+### What They Offer
+- **Reality Stability Assessment**: Evaluate dimensional integrity for [[02_Worldbuilding/Governments/Local Authorities]]
+- **Void Incursion Response**: Emergency containment of [[02_Worldbuilding/Threats/Extra-Dimensional Invasions]]
+- **Cosmic Consultation**: Guidance on matters affecting [[02_Worldbuilding/Concepts/Universal Stability]]
+- **Dimensional Travel Safety**: Route planning for [[02_Worldbuilding/Services/Inter-Realm Transportation]]
+- **Reality Anchor Installation**: Protecting locations from [[02_Worldbuilding/Hazards/Dimensional Collapse]]
+- **Cosmic Truth Mediation**: Helping individuals cope with [[02_Worldbuilding/Knowledge/Overwhelming Revelations]]
+- **Temporal Anomaly Resolution**: Fixing paradoxes and [[02_Worldbuilding/Problems/Time Stream Disruptions]]
+- **Void Entity Negotiation**: Diplomatic contact with [[02_Worldbuilding/Beings/Non-Reality Consciousnesses]]
+
+### What They Require
+- **Information Networks**: Reports on unusual phenomena from [[02_Worldbuilding/Groups/Local Informants]]
+- **Resource Support**: Funding from governments who benefit from [[02_Worldbuilding/Services/Reality Protection]]
+- **Material Supplies**: Rare substances for maintaining [[02_Worldbuilding/Equipment/Dimensional Monitoring Devices]]
+- **Operational Freedom**: Permission to act without explaining cosmic implications
+- **Sanctuary Rights**: Safe bases in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
 
 ## Connected Elements
 - Provides cosmic context for major campaign threats

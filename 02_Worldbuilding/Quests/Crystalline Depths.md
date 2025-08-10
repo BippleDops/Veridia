@@ -14,7 +14,7 @@ obsidianUIMode: preview
 # Crystalline Depths
 
 **Type:** Exploration/Horror/Environmental  
-**Level:** 6-10  
+**Level:** 3-7  
 **Location:** [[The Cerulean Trench]], [[Crystalline Depths]], [[The Lock]]  
 **Duration:** 2-4 sessions  
 **Threat:** A newly discovered region where [[Aether Crystals]] are growing wild threatens to corrupt all life in [[Aquabyssos]]
@@ -32,6 +32,10 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 - **Scout Captain Vera Deepwatch**: Led the discovery expedition, now partially crystallized
 - **[[Elena Starweaver]]**: Crystal mage whose research may have inadvertently triggered this
 - **The Crystal Shepherd**: Mysterious entity that seems to guide the crystal growth
+- **[[The Deep Mother]]**: Ancient entity whose dreams may be connected to the crystal awakening
+- **[[Memory Merchant Zara Mindweave]]**: Trader whose memories contain crucial pre-crystallization data
+- **Dr. Thaddeus Resonance**: Researcher studying harmonic frequencies in [[The Singing Trenches]]
+- **Captain [[Kelp Forest Rangers|Marina Kelp]]**: Leader of the [[Kelp Forest Rangers]] monitoring ecological changes
 
 ## Phase 1: The Discovery (1 session)
 **Location:** [[Abyssos Prime]] - Emergency Crisis Center  
@@ -76,22 +80,56 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 **Crystal-Touched Creatures:**
 
 **Crystalline Leviathan**
-**CR 9** (5,000 XP)  
+**CR 6** (2,300 XP)  
+**Large monstrosity, neutral evil**
+**AC** 16 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 0 ft., swim 60 ft.
+**STR** 20 (+5) **DEX** 14 (+2) **CON** 16 (+3) **INT** 3 (-4) **WIS** 12 (+1) **CHA** 6 (-2)
+**Skills** Perception +4  
+**Damage Resistances** Cold, Thunder  
+**Damage Immunities** Petrification  
+**Condition Immunities** Charmed, Frightened
+**Senses** Blindsight 60 ft., passive Perception 14
+**Languages** —
 **Description:** Once a normal deep-sea creature, now partially made of living crystal  
 **Abilities:**
-- **Crystal Spines**: Ranged attacks that embed growing crystals in targets
-- **Harmonic Scream**: Sonic attack that resonates with crystal formations
-- **Regeneration**: Regrows lost parts using nearby crystal matter
-- **Vulnerability**: Takes extra damage from sonic attacks that disrupt crystal structure
+- **Crystal Spines**: Ranged attacks (range 120 ft.) that embed growing crystals in targets (DC 15 Con save or take 1d6 ongoing damage)
+- **Harmonic Scream** (Recharge 5-6): Sonic attack in 30-foot cone (DC 15 Con save or 3d8 thunder damage and stunned for 1 round)
+- **Regeneration**: Regrows 10 HP at start of turn if within 30 feet of crystal formations
+- **Vulnerability**: Takes double damage from sonic attacks that disrupt crystal structure
 
 **Shard Swarm**
-**CR 6** (2,300 XP)  
+**CR 4** (1,100 XP)  
+**Large swarm of Tiny constructs, neutral**
+**AC** 15 (Natural Armor), **HP** 76 (9d12 + 18), **Speed** 0 ft., swim 40 ft.
+**STR** 8 (-1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 10 (+0) **WIS** 12 (+1) **CHA** 7 (-2)
+**Skills** Perception +3  
+**Damage Resistances** Bludgeoning, Piercing, Slashing  
+**Damage Immunities** Charm, Frightened, Paralyzed, Petrified, Prone, Restrained, Stunned
+**Senses** Blindsight 30 ft., passive Perception 13
+**Languages** —
 **Description:** Countless tiny crystalline fish that move as one organism  
 **Abilities:**
-- **Crystallization Touch**: Contact causes gradual petrification
-- **Swarm Intelligence**: Coordinates attacks with mathematical precision
-- **Light Refraction**: Creates blinding light displays and illusions
-- **Hive Mind**: Destroying part of swarm alerts entire crystal ecosystem
+- **Crystallization Touch**: Creatures in the swarm's space must make DC 13 Con save or be restrained (crystallizing)
+- **Swarm Intelligence**: Advantage on all attack rolls and saving throws
+- **Light Refraction** (3/day): Creates bright light in 30-foot radius, creatures in area make DC 13 Con save or be blinded for 1 minute
+- **Hive Mind**: When reduced to half HP, sends psychic alert to all crystal creatures within 1 mile
+
+**Crystal-Touched Aquabyssos Citizen**
+**CR 2** (450 XP)  
+**Medium humanoid (aquatic), chaotic neutral**
+**AC** 13 (Crystal Growths), **HP** 27 (5d8 + 5), **Speed** 30 ft., swim 40 ft.
+**STR** 11 (+0) **DEX** 12 (+1) **CON** 12 (+1) **INT** 10 (+0) **WIS** 8 (-1) **CHA** 14 (+2)
+**Skills** Insight +1, Persuasion +4  
+**Damage Resistances** Psychic  
+**Condition Immunities** Charmed
+**Senses** Darkvision 120 ft., passive Perception 9
+**Languages** Aquan, Common
+**Description:** Citizen of [[Abyssos Prime]] in early stages of crystallization  
+**Abilities:**
+- **Crystal Memory**: Can access memories stored in crystal formations through touch
+- **Harmonic Speech**: Can communicate with crystal creatures and formations
+- **Spreading Touch** (1/day): Touch attack forces DC 12 Con save or target begins slow crystallization (1 HP damage per hour until cured)
+- **Fragmented Mind**: Random mood swings and memory gaps; unpredictable reactions
 
 ### Signs of Intelligence
 As the party descends, they notice:
@@ -198,14 +236,44 @@ The depths reveal a vast underwater cathedral made entirely of living crystal:
 If combat becomes necessary:
 
 ### The Crystal Shepherd (Transformed Vera)
-**CR 11** (7,200 XP)  
+**CR 8** (3,900 XP)  
+**Medium humanoid (crystalline), lawful neutral**
+**AC** 17 (Natural Crystal Armor), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft., fly 60 ft. (hover)
+**STR** 14 (+2) **DEX** 16 (+3) **CON** 16 (+3) **INT** 18 (+4) **WIS** 20 (+5) **CHA** 22 (+6)
+**Saving Throws** Int +7, Wis +8, Cha +9  
+**Skills** Arcana +7, Insight +11, Perception +8, Persuasion +12  
+**Damage Resistances** Bludgeoning, Piercing, Slashing from nonmagical attacks  
+**Damage Immunities** Poison, Disease, Petrification  
+**Condition Immunities** Charmed, Exhaustion, Frightened, Poisoned
+**Senses** Truesight 120 ft., passive Perception 18
+**Languages** Aquan, Common, Primordial (Crystal Dialect)
+**Spellcasting** 12th-level spellcaster, spell save DC 17, +9 to hit
+**Spells:** Cantrips (4): *mending*, *minor illusion*, *prestidigitation*, *thaumaturgy*; 1st (4): *detect magic*, *identify*; 2nd (3): *hold person*, *suggestion*; 3rd (3): *counterspell*, *hypnotic pattern*; 4th (3): *confusion*, *polymorph*; 5th (2): *dominate person*, *modify memory*; 6th (1): *mass suggestion*
 **Abilities:**
 - **Crystal Body**: Resistance to physical damage, immunity to poison and disease
-- **Harmonic Control**: Can command all crystal formations within the chamber
-- **Memory Sharing**: Forces targets to experience overwhelming amounts of stored memories
-- **Regeneration**: Heals rapidly using ambient crystal energy
-- **Transformation Touch**: Contact begins irreversible crystallization process
-- **Collective Will**: Can summon aspects of other crystallized beings
+- **Harmonic Control** (3/day): Can command all crystal formations within 120 feet as bonus action
+- **Memory Sharing** (1/day): Target must make DC 17 Wis save or be stunned for 1d4 rounds experiencing collective memories
+- **Regeneration**: Regains 15 HP at start of turn if within 30 feet of large crystal formations
+- **Transformation Touch** (3/day): Melee spell attack (+9) deals 2d8 + 6 force damage and target makes DC 17 Con save or begins crystallization (1d6 damage per hour, can be cured with *greater restoration*)
+- **Collective Will** (1/day): Summon 1d4 Crystal-Touched creatures as allies for 1 hour
+- **Legendary Actions** (3 per turn): Move, Cast Cantrip, Harmonic Pulse (costs 2, all creatures within 30 feet make DC 17 Wis save or be charmed for 1 round)
+
+**Memory Merchant Zara Mindweave**
+**CR 5** (1,800 XP)  
+**Medium humanoid (aquatic), neutral**
+**AC** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
+**STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
+**Saving Throws** Int +7, Wis +6, Cha +8  
+**Skills** Arcana +10, Deception +11, Insight +9, Investigation +7, Perception +6  
+**Senses** Darkvision 60 ft., passive Perception 16
+**Languages** Aquan, Common, Draconic
+**Spellcasting** 9th-level spellcaster, spell save DC 15, +7 to hit
+**Spells:** Cantrips (4): *detect magic*, *mage hand*, *minor illusion*, *prestidigitation*; 1st (4): *charm person*, *detect thoughts*; 2nd (3): *hold person*, *suggestion*; 3rd (3): *counterspell*, *modify memory*; 4th (3): *confusion*, *dimension door*; 5th (1): *dominate person*
+**Abilities:**
+- **Memory Trading**: Can extract and store memories in crystals, sell/trade them to others
+- **Psychic Resistance**: Advantage on saves against mental effects
+- **Crystal Focus**: Uses modified [[Aether Crystals]] as spellcasting focus, adding +2 to spell attack rolls
+- **Emergency Escape** (1/day): Teleport to any location within [[Abyssos Prime]] where she has stored a memory crystal
 
 ### Environmental Combat Factors
 - **Living Arena**: The chamber itself participates in combat
@@ -249,11 +317,32 @@ If combat becomes necessary:
 - **Dimensional Awareness**: Understanding of how different planes of existence interact
 - **Collective Empathy**: Improved ability to understand group consciousness and hive minds
 
+## Wiki Links and Campaign Connections
+
+### Core Campaign Elements
+- **[[The Seven Shards]]**: Crystal phenomena may be connected to these ancient artifacts
+- **[[Aether Crystals]]**: The corrupted crystals are a mutation of these standard magical components
+- **[[The Lock]]**: Ancient barrier that may have contained this threat previously
+- **[[Aquabyssos]]**: The underwater realm threatened by crystalline expansion
+- **[[Abyssos Prime]]**: Capital city facing potential crystallization disaster
+- **[[The Cerulean Trench]]**: Deep ocean area where the crystals first emerged
+- **[[The Hadal Depths]]**: Deepest regions where the crystal intelligence originated
+- **[[The Deep Mother]]**: Primordial entity whose dreams may connect to crystal awakening
+- **[[The Singing Trenches]]**: Geological formations that resonate with crystal harmonics
+- **[[The Archive of Unremembered Things]]**: Contains records of similar historical incidents
+- **[[Depth Wardens]]**: Military organization responsible for deep-sea security
+- **[[Shadow Surgeons Collective]]**: Underground organization studying memory-crystal interfaces
+- **[[Parliament of Echoes]]**: Government body coordinating the crisis response
+- **[[Crystal Festival]]**: Annual celebration that may amplify the crystal threat
+- **[[Memory Tides]]**: Psychic phenomena affecting the crystallization process
+
 ## Connected Adventures
-- **[[The Seven Shards]]**: Crystal phenomena may be connected to these artifacts
+- **[[The Oracle of the Sundered Peaks]]**: The Oracle may have foreseen this crystalline threat
+- **[[The Maw of Darkness]]**: Connection between reality-consuming entities
 - **[[Professor Aldric Crystalweaver]]**: Continued research into crystal applications
-- **[[The Lock]]**: Understanding how the barrier affected the crystal awakening
 - **[[Elena Starweaver]]**: Investigation into whether her research triggered the crisis
+- **[[Smuggler's Gambit]]**: Crystal weapons trade may be connected to this phenomenon
+- **[[The Crystal Throne]]**: Political faction that may exploit or cause the crisis
 
 ## DM Notes
 

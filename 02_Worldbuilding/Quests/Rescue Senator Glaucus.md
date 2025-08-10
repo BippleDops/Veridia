@@ -14,7 +14,7 @@ obsidianUIMode: preview
 # Rescue Senator Glaucus
 
 **Type:** Rescue/Political Intrigue  
-**Level:** 6-10  
+**Level:** 1-5  
 **Location:** [[The Sunken Markets]], [[Parliament of Echoes]], [[Smuggler's Cove]]  
 **Duration:** 2-3 sessions  
 **Threat:** A key political figure has been kidnapped to destabilize [[Aquabyssos]] democracy
@@ -31,6 +31,12 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 - **[[Memory Merchant Zephyr Mindweaver]]**: Reluctant accomplice with crucial information
 - **[[Commander Drake Pressureborn]]**: Military leader demanding immediate action
 - **[[Mediator Serenity Stillwater]]**: Desperate diplomat trying to prevent war
+- **[[Admiral Thorne Blackwater]]**: Naval commander coordinating search operations
+- **[[Elena Starweaver]]**: Crystal mage investigating magical aspects of the kidnapping
+- **Detective Coral Truthseeker**: [[Parliament of Echoes]] investigator with inside knowledge
+- **[[Vault Keeper Eternal]]**: Ancient guardian who may have witnessed similar incidents
+- **Nurse Tidal Mercy**: Medical professional treating pressure poisoning symptoms
+- **[[The Recursion Oracle]]**: Seer whose visions might reveal the Senator's location
 
 ## Investigation Phase
 
@@ -89,19 +95,73 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 ## Combat Encounters
 
 ### Shadow Merchant Riptide
-**CR 8** (3,900 XP)  
+**CR 6** (2,300 XP)  
+**Medium humanoid (aquatic), chaotic evil**
+**AC** 16 (Studded Leather + Dex), **HP** 97 (13d8 + 39), **Speed** 30 ft., swim 40 ft.
+**STR** 12 (+1) **DEX** 18 (+4) **CON** 16 (+3) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 20 (+5)
+**Saving Throws** Dex +7, Cha +8  
+**Skills** Deception +11, Insight +5, Persuasion +8, Sleight of Hand +7  
+**Damage Resistances** Psychic
+**Senses** Darkvision 60 ft., passive Perception 12
+**Languages** Aquan, Common, Thieves' Cant
+**Spellcasting** 8th-level spellcaster, spell save DC 16, +8 to hit
+**Spells:** Cantrips (4): *mage hand*, *minor illusion*, *prestidigitation*, *thaumaturgy*; 1st (4): *charm person*, *sleep*; 2nd (3): *hold person*, *suggestion*; 3rd (3): *counterspell*, *hypnotic pattern*; 4th (2): *confusion*, *dominate beast*
 **Abilities:**
-- **Memory Drain**: Steal spell slots and skill proficiencies
-- **Shadow Clone**: Create duplicates using stolen identities
-- **Despair Aura**: Enemies within 20 feet have disadvantage on attack rolls
-- **Escape Protocol**: Can teleport to any location where he's stored memories
+- **Memory Drain** (3/day): Target makes DC 16 Int save or loses one spell slot (spellcasters) or gains disadvantage on one skill for 24 hours
+- **Shadow Clone** (1/day): Create illusory duplicate using stolen identity that lasts 1 hour
+- **Despair Aura**: Enemies within 20 feet have disadvantage on attack rolls and saving throws against fear
+- **Escape Protocol** (1/day): Can teleport to any location within [[The Sunken Markets]] where he's stored memories
+- **Multiattack**: Makes two Psychic Blade attacks
+- **Psychic Blade**: +7 to hit, 1d6 + 4 piercing plus 1d6 psychic damage
 
 ### Modified Shadow Surgery Patients
-**CR 6** (2,300 XP each)  
-**Special:** Fight with desperate fury, having had their pain receptors removed
-- **Pain Immunity**: Cannot be incapacitated by damage
-- **Memory Feedback**: When hit, attacker must save or be stunned by victim's trauma
-- **Surgical Precision**: Critical hits on 18-20, deal extra psychic damage
+**CR 4** (1,100 XP each)  
+**Medium humanoid (various), chaotic neutral**
+**AC** 13 (Natural Armor from surgical modifications), **HP** 58 (9d8 + 18), **Speed** 30 ft.
+**STR** 16 (+3) **DEX** 14 (+2) **CON** 15 (+2) **INT** 8 (-1) **WIS** 6 (-2) **CHA** 10 (+0)
+**Damage Resistances** Psychic
+**Condition Immunities** Charmed, Frightened
+**Senses** passive Perception 8
+**Languages** Fragmented versions of their original languages
+**Description:** Desperate victims of shadow surgery fighting with modified pain responses
+**Abilities:**
+- **Pain Immunity**: Cannot be incapacitated by damage, continues fighting until 0 HP
+- **Memory Feedback**: When hit by melee attack, attacker must make DC 13 Wis save or be stunned for 1 round by victim's traumatic memories
+- **Surgical Precision**: Critical hits on 18-20, deal extra 1d8 psychic damage
+- **Berserker Rage**: When reduced to half HP, gains advantage on all attack rolls but attacks nearest creature
+- **Multiattack**: Makes two Surgical Claw attacks
+- **Surgical Claw**: +5 to hit, 1d8 + 3 slashing damage
+
+**Detective Coral Truthseeker**
+**CR 3** (700 XP)  
+**Medium humanoid (merfolk), lawful good**
+**AC** 14 (Studded Leather), **HP** 44 (8d8 + 8), **Speed** 30 ft., swim 40 ft.
+**STR** 11 (+0) **DEX** 16 (+3) **CON** 12 (+1) **INT** 18 (+4) **WIS** 17 (+3) **CHA** 14 (+2)
+**Skills** Insight +7, Investigation +8, Perception +7, Persuasion +4  
+**Senses** passive Perception 17
+**Languages** Aquan, Common, Draconic
+**Abilities:**
+- **Keen Investigation**: Advantage on Investigation checks and can determine lies with 90% accuracy
+- **Evidence Analysis**: Can reconstruct crime scenes from minimal clues
+- **Legal Authority**: Can arrest suspects and access government facilities
+- **Network of Informants**: Has contacts throughout [[Abyssos Prime]]'s criminal underworld
+- **Truth Sense** (3/day): Can cast *detect thoughts* without using a spell slot
+
+**Nurse Tidal Mercy**
+**CR 2** (450 XP)  
+**Medium humanoid (aquatic), neutral good**
+**AC** 11, **HP** 27 (5d8 + 5), **Speed** 30 ft., swim 30 ft.
+**STR** 10 (+0) **DEX** 12 (+1) **CON** 12 (+1) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 15 (+2)
+**Skills** Medicine +8, Insight +6, Nature +5  
+**Senses** passive Perception 14
+**Languages** Aquan, Common
+**Spellcasting** 5th-level spellcaster, spell save DC 14, +6 to hit
+**Spells:** Cantrips (3): *guidance*, *mending*, *spare the dying*; 1st (4): *cure wounds*, *detect poison and disease*; 2nd (3): *lesser restoration*, *protection from poison*; 3rd (2): *remove curse*, *mass healing word*
+**Abilities:**
+- **Pressure Medicine Expertise**: Specializes in treating depth-related conditions
+- **Emergency Healing** (3/day): Can cast *cure wounds* at 3rd level without using a spell slot
+- **Medical Authority**: Recognized expert whose testimony carries legal weight
+- **Gentle Hands**: Patients recover from exhaustion and stress 50% faster under her care
 
 ## Senator Glaucus's Condition
 
@@ -174,7 +234,30 @@ When found, the senator is in critical condition:
 - **Diplomatic Immunity**: Protection when operating in official capacity
 - **Information Network**: Contacts throughout both legal and criminal organizations
 
-## Connected Adventures
+## ## Wiki Links and Campaign Connections
+
+### Core Campaign Elements
+- **[[The Sunken Markets]]**: Commercial district where the senator was kidnapped
+- **[[Parliament of Echoes]]**: Government body coordinating the search and managing political fallout
+- **[[Smuggler's Cove]]**: Underground area where the criminal network operates
+- **[[Shadow Surgeons Collective]]**: Organization behind the memory modification operations
+- **[[Abyssos Prime]]**: Capital city dealing with political crisis
+- **[[Aquabyssos]]**: Underwater realm whose stability depends on successful negotiations
+- **[[Aethermoor]]**: Surface realm involved in the peace negotiations
+- **[[Pressure Tubes]]**: Transportation system with security footage of the kidnapping
+- **[[The Depth Market]]**: Black market area where information can be purchased
+- **[[Ancient Siege Tunnels]]**: Underground passages used by criminals
+- **[[The Cerulean Trench]]**: Escape route for fleeing criminals
+- **[[Memory Tides]]**: Psychic phenomena affecting memory-related magic
+- **[[Depth Wardens]]**: Military force providing security for government officials
+- **[[Crystal Festival]]**: Upcoming event that increases political tensions
+- **[[The Archive of Unremembered Things]]**: Repository where stolen memories might be stored
+
+Connected Adventures
+- **[[Crystalline Depths]]**: Political stability needed to coordinate response to crystal threat
+- **[[The Oracle of the Sundered Peaks]]**: Peace negotiations crucial for preventing the Final Sundering
+- **[[Smuggler's Gambit]]**: Criminal networks involved in both memory theft and weapon smuggling
+- **[[The Maw of Darkness]]**: Political unity essential for fighting reality-consuming threats
 - **[[The Shadow Surgeons]]**: This rescue exposes a larger conspiracy
 - **[[Investigate Shadow Conspiracy]]**: The kidnapping is part of a broader plot
 - **[[Diplomatic Tides]]**: Success here enables future peace negotiations

@@ -32,6 +32,13 @@ Ancient texts in [[The Archive of Unremembered Things]] reference a "Hunger That
 - **[[Professor Euclid Mindmaze]]**: Scholar studying reality distortions and memory gaps
 - **[[Admiral Thorne Blackwater]]**: Military commander losing soldiers to "erasure attacks"
 - **[[Anti-Priest Nullus]]**: Fanatical cultist who believes the Maw is divine judgment
+- **[[The Deep Mother]]**: Ancient entity whose relationship to the Maw is mysterious
+- **[[Elena Starweaver]]**: Crystal mage whose research may help understand void phenomena
+- **Dr. Conceptia Voidwright**: Philosopher-mage studying the nature of existence itself
+- **[[Memory Merchant Zara Mindweave]]**: Trader whose memories show pre-Maw reality
+- **Captain Paradox Anchor**: Military officer specialized in reality stabilization
+- **[[She-Who-Sees-Beyond]]**: Oracle whose prophecies warned of this threat
+- **Void Touched Remnant**: Former citizen partially consumed by the Maw
 
 ## The Maw's Influence
 
@@ -155,10 +162,75 @@ Traditional combat is impossible because:
 - **Time Pressure**: Barriers must be completed before critical reality loss
 
 **Key Encounters:**
-- **Forgotten Guards**: Security constructs that have been partially erased
-- **Memory Thieves**: Opportunists stealing experiences before the Maw gets them
-- **Void Cultists**: People who worship the Maw and try to sabotage barriers
-- **Temporal Refugees**: Beings from erased timelines seeking shelter
+- **Forgotten Guards**
+**CR 7** (2,900 XP)  
+**Medium construct, neutral**
+**AC** 16 (Natural Armor), **HP** 68 (8d8 + 32), **Speed** 30 ft.
+**STR** 18 (+4) **DEX** 14 (+2) **CON** 18 (+4) **INT** 3 (-4) **WIS** 10 (+0) **CHA** 1 (-5)
+**Skills** Perception +3  
+**Damage Resistances** Necrotic, Psychic
+**Damage Immunities** Poison, Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+**Senses** Darkvision 60 ft., passive Perception 13
+**Languages** —
+**Description:** Security constructs partially erased from existence, flickering between real and void
+**Abilities:**
+- **Partial Existence**: Has 50% miss chance against all attacks as it phases between dimensions
+- **Erasure Touch**: Melee attack (+7 to hit) deals 1d8 + 4 necrotic damage and target must make DC 15 Wis save or forget one skill proficiency for 24 hours
+- **Void Step** (3/day): Can teleport through non-space, appearing anywhere within 60 feet
+- **Memory Drain**: When it hits a creature, learns one random fact about their past
+
+**Memory Thieves**
+**CR 5** (1,800 XP)  
+**Medium humanoid (various), chaotic evil**
+**AC** 14 (Leather Armor), **HP** 58 (9d8 + 18), **Speed** 30 ft.
+**STR** 10 (+0) **DEX** 18 (+4) **CON** 14 (+2) **INT** 16 (+3) **WIS** 12 (+1) **CHA** 14 (+2)
+**Skills** Deception +5, Sleight of Hand +7, Stealth +7  
+**Senses** passive Perception 11
+**Languages** Common, Thieves' Cant
+**Description:** Opportunists stealing experiences and memories before the Maw consumes them
+**Abilities:**
+- **Memory Theft**: Can steal and store memories in crystal vials, leaving victims with gaps
+- **Sneak Attack**: Once per turn, deals extra 3d6 damage when attacking with advantage
+- **Memory Overload** (1/day): Can force target to relive traumatic memory, DC 14 Wis save or be stunned for 1 round
+- **Escape Artist**: Can squeeze through spaces as if one size smaller
+
+**Void Cultists**
+**CR 4** (1,100 XP)  
+**Medium humanoid (human), chaotic evil**
+**AC** 12 (Unarmored Defense), **HP** 45 (7d8 + 14), **Speed** 30 ft.
+**STR** 11 (+0) **DEX** 14 (+2) **CON** 15 (+2) **INT** 10 (+0) **WIS** 8 (-1) **CHA** 16 (+3)
+**Skills** Deception +5, Religion +2  
+**Damage Resistances** Necrotic
+**Senses** passive Perception 9
+**Languages** Common, Void Speech (fragmentary)
+**Description:** Fanatical worshippers who believe the Maw brings blessed oblivion
+**Spellcasting** 5th-level spellcaster, spell save DC 13, +5 to hit
+**Spells:** Cantrips (3): *chill touch*, *minor illusion*, *thaumaturgy*; 1st (4): *cause fear*, *inflict wounds*; 2nd (3): *hold person*, *spiritual weapon*; 3rd (2): *bestow curse*, *counterspell*
+**Abilities:**
+- **Void Blessing**: Advantage on saves against fear and charm effects
+- **Embrace the Void** (1/day): Can voluntarily fail any saving throw to resist void effects
+- **Sabotage** (3/day): Can disrupt magical barriers or reality anchors with touch
+- **Martyrdom**: When killed, creates 10-foot radius void zone for 1 minute
+
+**Void-Touched Remnant**
+**CR 9** (5,000 XP)  
+**Medium humanoid (partially erased), chaotic neutral**
+**AC** 15 (Natural Armor), **HP** 112 (15d8 + 45), **Speed** 30 ft., fly 60 ft. (hover)
+**STR** 14 (+2) **DEX** 20 (+5) **CON** 16 (+3) **INT** 8 (-1) **WIS** 12 (+1) **CHA** 18 (+4)
+**Saving Throws** Dex +9, Cha +8  
+**Skills** Stealth +9  
+**Damage Resistances** All damage types
+**Damage Immunities** Necrotic, Psychic
+**Condition Immunities** Charmed, Frightened
+**Senses** Truesight 120 ft., passive Perception 11
+**Languages** Fragmented memories of all languages
+**Description:** Former [[Aquabyssos]] citizen partially consumed by the Maw, existing between reality and void
+**Abilities:**
+- **Partial Existence**: Can phase through solid matter and is immune to being grappled or restrained
+- **Reality Distortion** (3/day): 20-foot radius area becomes difficult terrain and grants disadvantage on concentration saves
+- **Void Scream** (Recharge 5-6): 30-foot cone, DC 16 Wis save or 4d8 psychic damage and target forgets their name for 1 hour
+- **Phase Strike**: Can attack creatures on Material Plane while remaining in Border Ethereal
+- **Legendary Actions** (3 per turn): Move, Void Touch attack, Reality Distortion (costs 2)
 
 ### Sacrifice Strategy Approach
 **Challenges:**
@@ -228,10 +300,32 @@ Success is measured in "Reality Stability Points":
 - **Meta-Awareness**: Ability to operate on conceptual rather than just physical level
 - **Temporal Perspective**: Understanding of how choices echo across timelines
 
-## Connected Adventures
+## ## Wiki Links and Campaign Connections
+
+### Core Campaign Elements
+- **[[The Hadal Depths]]**: Deepest ocean regions where the Maw first stirred
+- **[[The Cerulean Trench]]**: Major geographical feature affected by reality distortion
+- **[[Abyssos Prime]]**: Capital city experiencing memory gaps and erasure events
+- **[[Aquabyssos]]**: The underwater realm threatened by conceptual consumption
+- **[[The Archive of Unremembered Things]]**: Repository that may contain tools for fighting the Maw
+- **[[The Seven Shards]]**: Ancient artifacts that might power reality-stabilization magic
+- **[[The Deep Mother]]**: Primordial entity whose relationship to the Maw is unclear
+- **[[Memory Tides]]**: Psychic phenomena that may be early signs of Maw influence
+- **[[Shadow Surgeons Collective]]**: Organization whose memory work might help or hinder
+- **[[Parliament of Echoes]]**: Government body coordinating response to the crisis
+- **[[Depth Wardens]]**: Military force losing members to erasure attacks
+- **[[The Singing Trenches]]**: Geological formations that may resonate with void energies
+- **[[Crystal Festival]]**: Annual event that might amplify reality distortions
+- **[[Time-Lost Delegate Chronus]]**: Temporal refugee whose presence weakens dimensional barriers
+- **[[The Lock]]**: Ancient barrier that may have contained similar threats before
+
+Connected Adventures
+- **[[Crystalline Depths]]**: Crystal intelligence may be another reality-consuming entity
+- **[[The Oracle of the Sundered Peaks]]**: Oracle's prophecies may have warned of the Maw
+- **[[Smuggler's Gambit]]**: Political instability weakens society's ability to respond to cosmic threats
+- **[[Rescue Senator Glaucus]]**: Political unity needed for coordinated response to existential crisis
 - **[[The Archive of Unremembered Things]]**: Contains tools for fighting conceptual threats
 - **[[The Seven Shards]]**: Power source for reality-stabilization magic
-- **[[Time-Lost Delegate Chronus]]**: Guide to temporal/dimensional threats
 - **[[The Deep Mother]]**: Reveals relationship between different cosmic threats
 
 ## DM Notes

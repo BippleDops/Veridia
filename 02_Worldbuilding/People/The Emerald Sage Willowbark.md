@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, emerald-shard, druid, nature-guardian]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Shard-Bonded Druid"

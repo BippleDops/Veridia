@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, azure-shard, prophet, sea-touched]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Shard Prophet"

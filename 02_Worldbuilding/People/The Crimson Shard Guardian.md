@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, guardian, elemental, corrupted]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Shard Guardian"
@@ -44,17 +44,55 @@ Once a pure water elemental summoned to cleanse the harbor, this entity has been
 - **Elemental Resilience**: Difficult to permanently destroy
 
 ## The Crimson Shard's Influence
-- **Location**: Embedded in the ship's broken figurehead
-- **Effect on Guardian**: Transformed from healer to plague-bringer
-- **Plague Properties**: Creates crystalline growths that drain life force
-- **Harbor Corruption**: Entire harbor slowly becoming infected
+
+### Physical Integration
+The Crimson Shard has become physically integrated with both the Guardian and the sunken vessel *Fortune's Folly*. The fragment, roughly the size of a human fist, pulses with a malevolent crimson light that can be seen from the harbor surface on dark nights. Crystalline growths spread from the Shard like a cancer, covering the ship's hull in razor-sharp crimson formations that cut through water and flesh with equal ease.
+
+The Guardian cannot exist more than a mile from the Shard - the artifact has become its anchor to this plane of existence. When the Guardian manifests fully, crimson veins of corrupted water flow directly from the Shard to its core, creating a visible tether of plague and power. This connection pulses with each heartbeat of the Shard, spreading corruption further into the harbor with every surge.
+
+### Plague Mechanics
+The crystal plague operates on multiple levels simultaneously:
+- **Physical**: Crimson crystals grow from infected tissue, causing excruciating pain
+- **Magical**: Drains magical energy from victims, feeding it back to the Shard
+- **Spiritual**: Creates a psychic link between victims and the Guardian
+- **Environmental**: Transforms water into a vector for further infection
+
+Infected individuals experience progressive symptoms:
+1. **Stage 1** (Days 1-3): Fever, muscle aches, small crystal formations under skin
+2. **Stage 2** (Days 4-7): Crystal growths breach skin, causing bleeding and infection
+3. **Stage 3** (Week 2): Major organ dysfunction as crystals invade internal systems
+4. **Stage 4** (Week 3): Complete crystallization of extremities, loss of motor function
+5. **Terminal Stage**: Full transformation into crystal plague carrier, controlled by Guardian
+
+### Harbor Ecosystem Collapse
+The corruption has created a dead zone expanding outward from the sunken ship:
+- **Inner Zone** (0-100 yards): No natural life survives, water is thick with plague
+- **Middle Zone** (100-300 yards): Mutated creatures, aggressive and diseased
+- **Outer Zone** (300-500 yards): Fish flee, early signs of infection appearing
+- **Warning Zone** (500+ yards): Animals sense danger, unusual behavior patterns
+
+The harbor's economic value has plummeted as fishing becomes impossible and ships report mysterious damage to their hulls after docking. The corruption seeps into the city's water table through underground channels, threatening to transform Port Meridian into a plague city.
 
 ## Relationships
-- **[[02_Worldbuilding/Places/Port Meridian]]**: Unwitting threat to the city
-- **[[Harbor Master Luna Freedrift]]**: Knows something lurks in the depths
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Seeks to purify the guardian
-- **[[The Dockworkers Union]]**: Losing members to the plague
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May know how to break the binding
+
+### Allies (Twisted)
+- **Plague Spawn**: Lesser elementals created from infected harbor water, absolutely loyal
+- **The Corrupted Schools**: Fish transformed into surveillance network throughout harbor
+- **Crystal Plague Victims**: Terminal stage patients become Guardian's unwilling servants
+- **Shadow Traders**: Black market dealers who profit from plague-derived substances
+
+### Enemies
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Actively researching purification methods
+- **[[The Harbor Guild]]**: Desperate to eliminate the threat to their livelihood
+- **[[The Purist Coalition]]**: See the Guardian as ultimate example of corruption
+- **Marine Druids Circle**: Work to heal the dying harbor ecosystem
+
+### Complicated
+- **[[Harbor Master Luna Freedrift]]**: Knows the truth but fears citywide panic
+- **[[The Dockworkers Union]]**: Some infected members hide symptoms to keep working
+- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mysterious connection to Guardian's binding
+- **[[02_Worldbuilding/Places/Port Meridian]]**: City leadership divided on how to address crisis
+- **Criminal Syndicates**: Use plague threat for extortion but fear its spread
 
 
 ## Combat Tactics
@@ -63,6 +101,39 @@ Once a pure water elemental summoned to cleanse the harbor, this entity has been
 - Summons smaller plague elementals from infected harbor water
 - Retreats deeper into ship when seriously wounded
 - Becomes more aggressive if Shard is directly threatened
+
+## Expanded Lair: The Sunken Fortune's Folly
+
+### Ship Layout
+**Upper Deck** (Partially Collapsed)
+- Crystallized rigging creates maze of razor-sharp obstacles
+- Captain's cabin contains pre-corruption records and personal effects
+- Crow's nest serves as Guardian's observation post
+- Plague crystals grow thickest here, closest to surface
+
+**Main Deck**
+- Cargo holds transformed into plague incubation chambers
+- Crew quarters contain remains of original sailors
+- Ship's wheel fused with crystal, still emanates navigation magic
+- Hidden smuggling compartments with additional treasures
+
+**Lower Deck** 
+- Flooded chambers where plague elementals spawn
+- Ship's shrine to sea gods corrupted into Shard altar
+- Ballast area contains Guardian's captured victims
+- Emergency supplies cache (potions, scrolls) preserved in crystal
+
+**The Broken Figurehead** (Shard Location)
+- Ornate mermaid carving split open to reveal Crimson Shard
+- Crimson veins spread throughout ship from this point
+- Touching figurehead directly causes immediate Stage 3 infection
+- Can only be safely approached with proper magical protection
+
+### Environmental Storytelling
+- Scattered diary pages reveal crew's gradual realization of cargo's nature
+- Crystallized corpses frozen in moments of terror or transformation
+- Messages scratched into wood warning about "the red death"
+- Personal effects suggesting wealthy merchant trying to smuggle Shard
 
 ## Connected Elements
 - Central to [[02_Worldbuilding/Lore/The Seven Shards]] Crimson Shard plotline
@@ -264,6 +335,112 @@ During a moment of clarity, the Guardian manages to communicate its desire for f
 - **Alliance**: Temporary cooperation against greater threats
 
 ---
+
+## Quest Integration
+
+### The Harbor Crisis Arc (Levels 8-16)
+**Act 1: Investigation (Levels 8-10)**
+- Harbor workers report strange illnesses and ship damage
+- Party investigates mysterious deaths and crystalline growths
+- Discovery of the Guardian's existence through survivor testimonies
+- First encounter with plague spawn and corrupted marine life
+
+**Act 2: Confrontation (Levels 11-13)**
+- Descent into harbor depths to locate source of corruption
+- Navigation through increasingly dangerous plague zones
+- Discovery of *Fortune's Folly* and the Crimson Shard
+- First battle with the Guardian (likely retreat scenario)
+
+**Act 3: Resolution (Levels 14-16)**
+- Gathering allies and resources for final confrontation
+- Choice between destroying Guardian, purifying it, or claiming Shard
+- Major battle with environmental hazards and plague mechanics
+- Consequences affecting entire Port Meridian region
+
+### Moral Dilemmas
+1. **The Mercy Kill**: Guardian retains enough consciousness to beg for death during moments of clarity
+2. **The Plague Cure**: Guardian's essence might be key to creating plague antidote
+3. **The Shard Temptation**: Players must resist Crimson Shard's corrupting influence
+4. **The City's Future**: Destroying Guardian might release worse contamination
+5. **The Witnesses**: Infected citizens plead for salvation vs. quarantine
+
+## Tactical Combat Design
+
+### Environmental Hazards
+**Corrupted Water**: All water in combat area causes plague exposure
+- DC 15 Constitution save or contract Stage 1 crystal plague
+- Difficult terrain due to crystalline formations
+- Visibility reduced to 30 feet due to crimson murk
+
+**Shard Pulses**: Every 3 rounds, the Crimson Shard releases energy wave
+- 30-foot radius burst of necrotic damage (3d6)
+- DC 17 Strength save or be pushed 15 feet
+- Heals Guardian for 20 hit points
+
+**Plague Crystals**: Razor-sharp formations throughout battlefield
+- 1d4 slashing damage for every 5 feet of movement
+- Can be used as improvised weapons (1d6 slashing + plague exposure)
+- Provide three-quarters cover but are destructible (AC 17, 25 HP)
+
+### Phases of Battle
+**Phase 1 (100% HP)**: Guardian fights defensively near ship
+- Uses ranged attacks and summons plague elementals
+- Attempts to lure party into corrupted water
+- Regenerates 10 HP per round while near Shard
+
+**Phase 2 (50% HP)**: Guardian becomes aggressive
+- Begins using legendary actions more frequently
+- Plague aura expands to 120 feet
+- Attempts to drag party members underwater
+
+**Phase 3 (25% HP)**: Desperate measures
+- Guardian attempts to merge with Crimson Shard directly
+- If successful, transforms into Colossal-sized horror (CR 18)
+- If prevented, becomes vulnerable but summons all plague victims as reinforcements
+
+## Loot and Rewards
+
+### Guardian's Essence
+**Corrupted Water Heart** (Very Rare)
+- Can be purified into *Pearl of the Tides* (Legendary)
+- Grants water breathing and swim speed of 60 feet
+- Once per day: Control water as 6th level spell
+- Cursed: Must make DC 15 Wisdom save daily or seek nearest body of water
+
+### Crimson Shard Fragment
+**The Plague Shard** (Artifact, Dangerous)
+- One of the Seven Shards of the Crown of Stars
+- Grants immunity to disease and poison
+- Can cast *Contagion* at will (DC 19)
+- Cursed: Gradual transformation into plague carrier
+- Required component for reforging the Crown
+
+### Ship's Treasure
+**Fortune's Folly Cargo** (10,000-25,000 gp value)
+- Pre-corruption trade goods transformed into valuable components
+- Crystallized plague samples worth fortune to certain buyers
+- Ship's log revealing other Shard locations (encrypted)
+- Navigation charts to lost underwater ruins
+
+## Long-term Consequences
+
+### If Guardian is Destroyed
+- Harbor begins slow recovery over 6 months
+- Some areas permanently dead, become memorial sites
+- Survivors form support group for plague victims
+- City implements strict magical contamination protocols
+
+### If Guardian is Purified
+- Becomes powerful ally in future aquatic adventures
+- Provides intelligence about other Shard guardians
+- Harbor blessed with supernatural abundance
+- Port Meridian becomes center for redemption theology
+
+### If Crimson Shard is Claimed
+- Player must resist corruption (escalating Wisdom saves)
+- Other Shard seekers begin hunting the party
+- Harbor remains contaminated without Guardian to contain it
+- City may hire assassins to recover Shard
 
 ## DM Notes
 - **Redeemable Antagonist**: Guardian can be saved if Shard is properly removed

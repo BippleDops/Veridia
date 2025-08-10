@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, silverscale-consortium, corporate-raider, ruthless-executive]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Scale of Acquisition"

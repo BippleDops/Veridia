@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, deep-mother, memory-keeper, forgotten, divine-servant]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Keeper of Lost Memories"

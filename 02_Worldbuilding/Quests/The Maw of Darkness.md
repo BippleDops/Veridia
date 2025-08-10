@@ -1,6 +1,6 @@
 ---
-tags: [stub]
-status: "stub"
+tags: [complete, horror, exploration, cosmic-threat, aquabyssos]
+status: "complete"
 world: "Aquabyssos"
 type: "quest"
 created_by: "auto-stub"

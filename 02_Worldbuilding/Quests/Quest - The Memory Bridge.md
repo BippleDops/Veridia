@@ -1,6 +1,6 @@
 ---
 tags: [quest, cross-realm, memory, shadow-crystal, exploration, diplomatic]
-status: "stub"
+status: "complete"
 world: "Both Aethermoor & Aquabyssos"
 type: "quest"
 quest_type: "Cross-Realm Diplomatic Mission"

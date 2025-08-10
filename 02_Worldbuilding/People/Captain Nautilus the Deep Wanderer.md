@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, deep-mother, explorer, pressure-adapted, divine-servant]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Deep Mother's Explorer"

@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, seeker, corrupted]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Shard Seeker"

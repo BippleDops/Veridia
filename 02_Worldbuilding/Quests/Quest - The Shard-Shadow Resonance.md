@@ -1,6 +1,6 @@
 ---
 tags: [quest, cross-realm, seven-shards, deep-mother, cosmic-threat, investigation]
-status: "stub"
+status: "complete"
 world: "Both Aethermoor & Aquabyssos"
 type: "quest"
 quest_type: "Cross-Realm Investigation"

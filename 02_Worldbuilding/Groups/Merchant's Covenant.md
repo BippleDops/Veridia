@@ -9,7 +9,7 @@ leader: "Archmerchant Codex Goldstream"
 headquarters: "The Repository Barge"
 alignment: "Neutral"
 power_level: "Major Economic"
-status: active
+status: "complete"
   - Category/Group
 MyContainer: Aquabyssos
 MyCategory: Scholarly Trade Consortium
@@ -259,35 +259,239 @@ The Covenant maintains trading posts at every major depth boundary:
 
 12. **The Archive Raid**: Strike against Covenant facilities to steal or destroy information that threatens your organization.
 
+## Advanced Political Intrigue
+
+### The Information Wars
+The Covenant sits at the center of complex intelligence networks that would rival any government's spy service:
+
+#### Triple Agent Networks
+- **[[02_Worldbuilding/Personnel/The Deep Listeners]]**: Scholar-Traders who report to multiple factions simultaneously
+- **[[02_Worldbuilding/Personnel/Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
+- **[[02_Worldbuilding/Personnel/Cultural Bridges]]**: Operatives maintaining relations with surface world governments
+- **[[02_Worldbuilding/Personnel/Truth Weavers]]**: Specialists in creating believable false intelligence
+- **[[02_Worldbuilding/Personnel/Loyalty Monitors]]**: Internal security tracking member allegiances
+
+#### Political Manipulation
+- **[[02_Worldbuilding/Operations/Faction Balance Maintenance]]**: Preventing any one faction from becoming too dominant
+- **[[02_Worldbuilding/Operations/Crisis Profit Maximization]]**: Positioning for economic advantage during political upheavals
+- **[[02_Worldbuilding/Operations/Succession Influence]]**: Subtle guidance of leadership changes in client factions
+- **[[02_Worldbuilding/Operations/Treaty Mediation]]**: Broker deals that benefit Covenant interests
+- **[[02_Worldbuilding/Operations/Revolution Prevention]]**: Intervening to maintain profitable status quo
+
+### The Repository Conspiracy
+Unknown to most members, the Covenant's leadership maintains secret archives containing:
+- Complete records of pre-Drowning government secrets that could topple current regimes
+- Detailed personality profiles of every major political figure in Aquabyssos
+- Economic intelligence allowing manipulation of depth-level currencies
+- Military intelligence from infiltrated agents in all major factions
+- Blackmail material on key figures throughout the depth hierarchy
+
+### Internal Power Struggles
+
+#### The Succession Crisis
+**Archmerchant Codex Goldstream** is showing signs of information overload psychosis, and the five House leaders are positioning for control:
+
+- **Trade Captain Marina Pathkeeper**: Advocates for expansion into dangerous new territories
+- **Scholar-Merchant Remembrance Tidekeep**: Wants to focus on historical preservation over profit
+- **Craftmaster Engineer Gearwhisper**: Pushes for technological innovation and industrial partnerships
+- **Information Broker Whisper Goldtongue**: Seeks to transform Covenant into pure intelligence organization
+- **Metamorphosis Consultant Deep-Change**: Believes Covenant should embrace radical transformation
+
+#### Philosophical Divides
+##### The Preservationists vs. The Progressives
+- **Preservationists**: Believe pre-Drowning knowledge is most valuable, resist adaptation
+- **Progressives**: Focus on contemporary information and technological advancement
+- **Resource Competition**: Both factions compete for funding and operational priority
+- **Recruitment Disputes**: Different approaches to identifying and training new members
+- **Client Relations**: Disagree on serving traditional vs. progressive faction clients
+
+##### The Neutrality Debate
+- **Strict Neutralists**: Maintain absolute political non-involvement
+- **Strategic Interventionists**: Believe selective political action serves Covenant interests
+- **Hidden Conflicts**: Secret operations conducted by interventionist members
+- **Moral Questions**: Debate over obligations to prevent harmful political outcomes
+- **Practical Concerns**: Fear that political involvement could destroy valuable neutrality
+
+## Extended Services & Specializations
+
+### Advanced Knowledge Categories
+
+#### Military Intelligence
+- **[[02_Worldbuilding/Services/Tactical Analysis]]**: Combat assessments and strategic recommendations
+- **[[02_Worldbuilding/Services/Weapons Development Intelligence]]**: Information on military technology advances
+- **[[02_Worldbuilding/Services/Fortress Blueprints]]**: Architectural plans for fortified positions
+- **[[02_Worldbuilding/Services/Supply Chain Analysis]]**: Military logistics and vulnerability assessment
+- **[[02_Worldbuilding/Services/Officer Profiling]]**: Detailed information on military commanders
+
+#### Economic Intelligence
+- **[[02_Worldbuilding/Services/Market Manipulation Strategies]]**: Techniques for controlling depth-level economies
+- **[[02_Worldbuilding/Services/Resource Scarcity Prediction]]**: Forecasting shortages and surpluses
+- **[[02_Worldbuilding/Services/Trade Route Optimization]]**: Maximum efficiency path analysis
+- **[[02_Worldbuilding/Services/Currency Valuation]]**: Exchange rate management and prediction
+- **[[02_Worldbuilding/Services/Investment Risk Assessment]]**: Detailed analysis of business ventures
+
+#### Cultural Intelligence
+- **[[02_Worldbuilding/Services/Social Movement Tracking]]**: Monitoring political and cultural changes
+- **[[02_Worldbuilding/Services/Religious Trend Analysis]]**: Spiritual movement implications for politics
+- **[[02_Worldbuilding/Services/Generational Shift Prediction]]**: Forecasting cultural evolution
+- **[[02_Worldbuilding/Services/Language Evolution Studies]]**: Changes in communication patterns
+- **[[02_Worldbuilding/Services/Art and Literature Intelligence]]**: Cultural products as political indicators
+
+### Specialized Consulting Services
+
+#### Transformation Consulting
+- **[[02_Worldbuilding/Services/Depth Adaptation Therapy]]**: Psychological support for depth transition
+- **[[02_Worldbuilding/Services/Biological Modification Guidance]]**: Safe approaches to physical transformation
+- **[[02_Worldbuilding/Services/Identity Preservation]]**: Maintaining sense of self through radical change
+- **[[02_Worldbuilding/Services/Transformation Reversal]]**: Techniques for undoing unwanted modifications
+- **[[02_Worldbuilding/Services/Enhancement Optimization]]**: Maximizing benefits of deliberate transformation
+
+#### Diplomatic Services
+- **[[02_Worldbuilding/Services/Cultural Translation]]**: More than language - complete context interpretation
+- **[[02_Worldbuilding/Services/Negotiation Strategy]]**: Tactical approaches to complex diplomatic situations
+- **[[02_Worldbuilding/Services/Alliance Assessment]]**: Evaluating potential partnerships and their stability
+- **[[02_Worldbuilding/Services/Conflict Mediation]]**: Neutral third-party dispute resolution
+- **[[02_Worldbuilding/Services/Treaty Analysis]]**: Detailed evaluation of proposed agreements
+
+## Network Security & Counter-Intelligence
+
+### Information Protection
+#### Classification Systems
+- **Public Domain**: Generally available information sold to all clients
+- **Member Restricted**: Limited to paid Covenant members and trusted partners
+- **House Confidential**: Available only within specific Trading Houses
+- **Council Secret**: Restricted to Archive Council and designated operatives
+- **Goldstream Classified**: Known only to the Archmerchant and selected successors
+
+#### Security Measures
+- **[[02_Worldbuilding/Technology/Memory Encryption]]**: Magical protection of sensitive knowledge
+- **[[02_Worldbuilding/Technology/Loyalty Verification]]**: Regular testing of member allegiances
+- **[[02_Worldbuilding/Technology/Information Tracking]]**: Monitoring distribution of sensitive data
+- **[[02_Worldbuilding/Technology/Counter-Surveillance]]**: Detection and prevention of espionage
+- **[[02_Worldbuilding/Technology/Emergency Destruction]]**: Rapid elimination of compromised information
+
+### Threat Assessment
+#### External Threats
+- **Government Intelligence Services**: Official spies from all depth levels
+- **Faction Infiltrators**: Agents planted by major political organizations
+- **Criminal Information Brokers**: Competing intelligence networks
+- **Radical Depth Purists**: Groups opposing information sharing between levels
+- **Foreign Agents**: Spies from surface world governments
+
+#### Internal Vulnerabilities
+- **Member Loyalty Questions**: Increasing factional allegiances among Scholar-Traders
+- **Information Addiction**: Members becoming psychologically dependent on knowledge
+- **Moral Corruption**: Gradual abandonment of ethical constraints for profit
+- **Technological Dependency**: Over-reliance on magical information storage systems
+- **Succession Instability**: Power struggles creating operational disruptions
+
+## Economic & Political Influence
+
+### Financial Power
+#### Revenue Streams
+- **Information Sales**: Primary income from knowledge transactions
+- **Consulting Fees**: Payment for expert analysis and advice
+- **Educational Services**: Training programs for clients and partners
+- **Research Contracts**: Funded investigations for specific clients
+- **Mediation Services**: Payment for diplomatic and commercial dispute resolution
+- **Investment Returns**: Profits from strategic investments in client organizations
+- **Transportation Fees**: Charges for secure inter-depth travel and cargo transport
+
+#### Economic Manipulation
+- **[[02_Worldbuilding/Operations/Market Intelligence Distribution]]**: Selective information sharing affecting trade
+- **[[02_Worldbuilding/Operations/Resource Flow Control]]**: Influencing availability of critical materials
+- **[[02_Worldbuilding/Operations/Credit Rating Management]]**: Information affecting borrowing and investment
+- **[[02_Worldbuilding/Operations/Technology Transfer]]**: Controlling spread of innovations between depths
+- **[[02_Worldbuilding/Operations/Labor Market Intelligence]]**: Information affecting employment and wages
+
+### Political Leverage
+#### Influence Operations
+- **[[02_Worldbuilding/Operations/Leadership Profiling]]**: Detailed psychological analysis of decision-makers
+- **[[02_Worldbuilding/Operations/Succession Planning]]**: Subtle influence on leadership transitions
+- **[[02_Worldbuilding/Operations/Crisis Management]]**: Guiding responses to political emergencies
+- **[[02_Worldbuilding/Operations/Alliance Facilitation]]**: Encouraging beneficial political partnerships
+- **[[02_Worldbuilding/Operations/Opposition Research]]**: Intelligence gathering on political rivals
+
+#### Diplomatic Immunity
+The Covenant has negotiated quasi-governmental status with major depth authorities:
+- **Neutral Territory Rights**: Repository Barge and major facilities considered neutral ground
+- **Information Sharing Agreements**: Formal treaties with depth governments
+- **Diplomatic Immunity**: Protection for Scholar-Traders in official capacity
+- **Tax Exemptions**: Special status reducing financial obligations
+- **Emergency Authority**: Right to coordinate during major crises
+
+## Crisis Response & Emergency Protocols
+
+### Disaster Management
+#### Information Crisis Response
+- **Intelligence Breach Protocols**: Containment procedures for compromised operations
+- **Disinformation Campaigns**: Counter-intelligence to protect exposed assets
+- **Asset Evacuation**: Emergency relocation of personnel and sensitive materials
+- **Client Protection**: Safeguarding customers affected by information leaks
+- **Network Reconstruction**: Rebuilding compromised intelligence operations
+
+#### Political Crisis Management
+- **Neutral Mediation**: Emergency diplomatic services during major conflicts
+- **Information Embargos**: Strategic withholding of intelligence during volatile periods
+- **Refugee Intelligence**: Gathering information from political exiles and displaced persons
+- **Succession Support**: Providing information to legitimate authorities during transitions
+- **International Relations**: Coordinating with surface world during depth-level conflicts
+
+### Long-Term Contingency Planning
+#### Survival Scenarios
+- **Government Takeover**: Protocols for maintaining operations under hostile regimes
+- **Economic Collapse**: Emergency procedures for depth-level financial crises
+- **Civil War**: Neutral position maintenance during factional conflicts
+- **Natural Disasters**: Information preservation during environmental catastrophes
+- **Social Revolution**: Adaptation to radical political and cultural changes
+
+#### Evolution Strategies
+- **Technological Integration**: Incorporating new information storage and processing methods
+- **Service Expansion**: Adding capabilities to meet changing client needs
+- **Geographic Growth**: Establishing operations in new territories and depths
+- **Political Recognition**: Formal acknowledgment as essential infrastructure
+- **Cultural Integration**: Becoming indispensable part of Aquabyssos society
+
 ## Internal Wiki-Style Links
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]]
+- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]] - Academic partners
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]] - Cautious clients
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]] - Government consultants
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]] - Sympathetic support
+- [[02_Worldbuilding/Groups/Shadow Surgeons Collective]] - Complex information trading relationship
+- [[02_Worldbuilding/Groups/The Parliament of Nobody]] - Information about non-existent citizens
 
 **Key Locations**:
-- [[The Repository Barge]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|The Three Depths]]
-- [[Depth Transition Posts]]
-- [[The Memory Palace]]
+- [[The Repository Barge]] - Mobile headquarters and primary library
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|The Three Depths]] - Operational environment
+- [[Depth Transition Posts]] - Strategic trading locations
+- [[The Memory Palace]] - Specialized consciousness research facility
+- [[The Neutral Current]] - Diplomatic vessel
+- [[Information Exchanges]] - Trading posts at major settlements
 
 **Historical Events**:
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|The Great Drowning]]
-- [[The Memory Wars]]
-- [[The Deep Expansion]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|The Great Drowning]] - Foundational catastrophe
+- [[The Memory Wars]] - Period establishing Covenant neutrality
+- [[The Deep Expansion]] - Territorial and operational growth
+- [[The Great Cataloguing]] - Organizational founding
+- [[The Succession Crisis]] - Current leadership transition
 
 **Notable NPCs**:
-- [[Archmerchant Codex Goldstream]]
-- [[Deputy Archmerchant Scroll Deepmind]]  
-- [[Trade Captain Marina Pathkeeper]]
-- [[Scholar-Merchant Remembrance Tidekeep]]
-- [[Information Broker Whisper Goldtongue]]
+- [[Archmerchant Codex Goldstream]] - Current supreme leader showing signs of instability
+- [[Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
+- [[Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
+- [[Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
+- [[Information Broker Whisper Goldtongue]] - Intelligence operations chief
+- [[Craftmaster Engineer Gearwhisper]] - Technology and innovation leader
+- [[Metamorphosis Consultant Deep-Change]] - Transformation guidance expert
 
 **Knowledge Categories**:
-- [[Navigation & Geography]]
-- [[Transformation Techniques]]
-- [[Pre-Drowning History]]
-- [[Faction Intelligence]]
-- [[Cultural Practices]]
+- [[Navigation & Geography]] - Physical world information
+- [[Transformation Techniques]] - Biological and psychological adaptation
+- [[Pre-Drowning History]] - Ancient world records and cultural preservation
+- [[Faction Intelligence]] - Contemporary political and military information
+- [[Cultural Practices]] - Social customs and behavioral analysis
+- [[Economic Intelligence]] - Market analysis and financial forecasting
+- [[Military Intelligence]] - Strategic and tactical information
+- [[Diplomatic Intelligence]] - Political relationships and negotiation data

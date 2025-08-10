@@ -1,6 +1,6 @@
 ---
 tags: [place, location, aquabyssos, shadow-manifestation, deep-mother, mysterious-sites]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "location"
 location_type: "Shadow Manifestation Sites"

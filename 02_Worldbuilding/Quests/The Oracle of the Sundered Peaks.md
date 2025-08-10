@@ -1,6 +1,6 @@
 ---
-tags: [stub]
-status: "stub"
+tags: [complete, mystical, prophecy, temporal, aethermoor]
+status: "complete"
 world: "Aethermoor"
 type: "quest"
 created_by: "auto-stub"

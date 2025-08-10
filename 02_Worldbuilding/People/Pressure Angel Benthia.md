@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, deep-mother, pressure-angel, divine-servant, guardian]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Pressure Angel"

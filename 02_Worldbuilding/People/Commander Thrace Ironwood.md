@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, purist-coalition, military-commander, former-crystal-warden]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Military Commander"

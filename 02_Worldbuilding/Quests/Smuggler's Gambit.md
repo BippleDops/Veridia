@@ -1,6 +1,6 @@
 ---
-tags: [stub]
-status: "stub"
+tags: [complete, heist, infiltration, double-cross, aethermoor]
+status: "complete"
 world: "Aethermoor"
 type: "quest"
 created_by: "auto-stub"

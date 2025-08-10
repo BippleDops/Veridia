@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, deep-mother, memory-farmer, shadow-touched, servant]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Memory Harvester"

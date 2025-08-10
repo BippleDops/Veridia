@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, memory-trader, ethical-merchant, business-owner]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Ethical Memory Merchant"

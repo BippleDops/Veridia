@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, amber-shard, purist-coalition, unknowing-bearer]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Unknowing Shard Bearer"

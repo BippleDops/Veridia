@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, scholar, lore-keeper, neutral]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Shard Historian"

@@ -1,6 +1,6 @@
 ---
 tags: [quest, cross-realm, convergence, world-bridging, crisis-management, high-stakes]
-status: "stub"
+status: "complete"
 world: "Both Aethermoor & Aquabyssos"
 type: "quest"
 quest_type: "Cross-Realm Crisis"

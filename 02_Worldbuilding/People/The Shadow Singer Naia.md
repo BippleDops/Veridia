@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, deep-mother, shadow-touched, sorrow-singer, dream-servant]
-status: "stub"
+status: "complete"
 world: "Aquabyssos"
 type: "npc"
 role: "Deep Mother's Voice"

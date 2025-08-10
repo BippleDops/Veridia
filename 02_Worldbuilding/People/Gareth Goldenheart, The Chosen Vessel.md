@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aethermoor, seven-shards, golden-shard, chosen-one, divine-vessel]
-status: "stub"
+status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Shard Vessel"

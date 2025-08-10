@@ -1,14 +1,13 @@
 ---
-tags: [stub]
-status: "stub"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags: [quest, combat, social, bandit, piracy, revenge, surface-relations]
+status: complete
+world: Aquabyssos
+type: quest
+level: 5-9
+duration: 2-3 sessions
+threat_level: moderate
+created_by: auto-stub
 created: 2025-08-08
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 # Bandit Leader Scarface
@@ -27,11 +26,11 @@ Three years ago, Captain Korvin Blacktide led a legitimate trading mission to th
 
 ## Key NPCs
 - **Korvin "Scarface" Blacktide**: The bandit leader, brilliant tactician consumed by revenge
-- **[[Current Riders Guild]] Master [[Guildmaster Harwick]]**: Former mentor seeking to bring Korvin home
-- **[[Shadow Merchant Riptide]]**: Fence who provides Scarface with intelligence and equipment
-- **Captain Marina Swiftcurrent**: Korvin's former lover, now leading efforts to stop him
-- **Surface Trader Aldric Goldspire**: The merchant who betrayed Korvin's original expedition
-- **[[Mediator Serenity Stillwater]]**: Diplomat attempting peaceful resolution
+- **[[02_Worldbuilding/People/Guildmaster Harwick]]**: Former mentor seeking to bring Korvin home
+- **[[02_Worldbuilding/People/Shadow Merchant Riptide]]**: Fence who provides Scarface with intelligence and equipment
+- **[[02_Worldbuilding/People/Captain Marina Swiftcurrent]]**: Korvin's former lover, now leading efforts to stop him
+- **[[02_Worldbuilding/People/Surface Trader Aldric Goldspire]]**: The merchant who betrayed Korvin's original expedition
+- **[[02_Worldbuilding/People/Mediator Serenity Stillwater]]**: Diplomat attempting peaceful resolution
 
 ## The Scarface Problem
 
@@ -57,10 +56,13 @@ Korvin's attacks have grown increasingly sophisticated and vicious:
 ### Gathering Intelligence
 **Sources of Information:**
 - **Surviving Victims**: Merchants who escaped recent raids
-- **[[Harbor Master Luna Freedrift]]**: Has detailed shipping records showing attack patterns
-- **[[Dockworkers Union]]**: Members have heard rumors about recruitment efforts
-- **[[Current Riders Guild]] Records**: Official files on Korvin's transformation
-- **[[Shadow Market Canals]]**: Black market dealers selling stolen goods
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Has detailed shipping records showing attack patterns
+- **[[02_Worldbuilding/Groups/Dockworkers Union]]**: Members have heard rumors about recruitment efforts
+- **[[02_Worldbuilding/Groups/Current Riders Guild]] Records**: Official files on Korvin's transformation
+- **[[02_Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling stolen goods
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Historical records of similar revenge stories
+- **[[02_Worldbuilding/Groups/Memory Farmers]]**: Those who preserve memories of the original betrayal
+- **[[02_Worldbuilding/Places/The Deepmind]]**: Psychological analysis of revenge-driven behavior
 
 **Key Discoveries:**
 1. **Personal Motivation**: Attacks specifically target [[Goldspire Confederacy]] affiliates
@@ -129,21 +131,55 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 
 ### Korvin "Scarface" Blacktide
 **CR 8** (3,900 XP)  
-**Race:** Pressure-Adapted Human  
-**Class:** Fighter/Rogue  
+*Medium humanoid (human), chaotic neutral*
 
-**Abilities:**
-- **Tactical Genius**: Can coordinate multiple allies for devastating combo attacks
-- **Scar Tissue**: Damage resistance from previous crystal corruption exposure
-- **Vengeful Fury**: Deals extra damage to surface-affiliated targets
-- **Desperate Gambit**: When near death, triggers explosive devices throughout the area
-- **Leadership Presence**: Allies within 30 feet gain advantage on morale saves
+**Armor Class** 17 (Pressure Suit of Command)  
+**Hit Points** 112 (15d8 + 45)  
+**Speed** 30 ft., swim 60 ft.
 
-**Equipment:**
-- **Corrupted Cutlass**: Weapon infused with crystal corruption, causes ongoing damage
-- **Pressure Suit of Command**: Armor that allows underwater communication with allies
+**STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
+--------|---------|---------|---------|---------|--------
+18 (+4) | 16 (+3) | 16 (+3) | 15 (+2) | 14 (+2) | 17 (+3)
+
+**Saving Throws** Str +7, Dex +6, Cha +6  
+**Skills** Athletics +7, Deception +6, Intimidation +9, Perception +5, Survival +5  
+**Damage Resistances** Cold, Necrotic (from crystal corruption)  
+**Condition Immunities** Charmed (while leading)  
+**Senses** Darkvision 60 ft., passive Perception 15  
+**Languages** Common, Aquan, Thieves' Cant  
+**Challenge Rating** 8 (3,900 XP)  
+**Proficiency Bonus** +3
+
+#### Special Abilities
+**Tactical Genius.** As a bonus action, Korvin can command up to 3 allies within 60 feet to make opportunity attacks or move up to half their speed without provoking opportunity attacks.
+
+**Crystal Corruption Scars.** Korvin has resistance to cold and necrotic damage. When he takes damage, crystalline growths on his scars glow, and all creatures within 10 feet must succeed on a DC 15 Constitution saving throw or take 3 (1d6) necrotic damage.
+
+**Vengeful Fury.** Against targets affiliated with [[02_Worldbuilding/Places/Goldspire Confederacy]] or surface dwellers who have betrayed depth dwellers, Korvin deals an additional 7 (2d6) damage with weapon attacks.
+
+**Leadership Presence.** Allied creatures within 30 feet of Korvin have advantage on saving throws against being frightened and gain a +2 bonus to damage rolls.
+
+#### Actions
+**Multiattack.** Korvin makes three attacks: two with his Corrupted Cutlass and one Depth Charge (if available).
+
+**Corrupted Cutlass.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage plus 4 (1d8) necrotic damage. The target must succeed on a DC 15 Constitution saving throw or take 3 (1d6) ongoing necrotic damage at the start of their next turn.
+
+**Depth Charge (3/Day).** *Ranged Weapon Attack:* +6 to hit, range 60/120 ft., one target. *Hit:* The charge explodes in a 15-foot radius. All creatures in the area must make a DC 16 Dexterity saving throw, taking 14 (4d6) thunder damage and being knocked prone on a failed save, or half damage and not knocked prone on a success.
+
+**Desperate Gambit (1/Day).** When reduced to 25 hit points or fewer, Korvin triggers explosive charges throughout the area. All creatures within 60 feet must make a DC 17 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much on a successful one.
+
+#### Legendary Actions (3 per turn)
+**Move.** Korvin moves up to his speed without provoking opportunity attacks.
+**Attack.** Korvin makes one Corrupted Cutlass attack.
+**Rally (Costs 2 Actions).** Korvin shouts commands, allowing all allies within 60 feet to immediately make one weapon attack as a reaction.
+**Tactical Strike (Costs 3 Actions).** Korvin makes a Corrupted Cutlass attack with advantage. If it hits, the target is also stunned until the end of their next turn.
+
+#### Equipment
+- **Corrupted Cutlass**: Weapon infused with [[02_Worldbuilding/Lore/Crystal Corruption]], causes ongoing necrotic damage
+- **Pressure Suit of Command**: AC 17 armor that allows underwater communication with allies within 1 mile
 - **Depth Charges**: Explosive devices that create underwater shockwaves
-- **Navigator's Charts**: Detailed maps of secret routes and hidden bases
+- **Navigator's Charts**: Detailed maps of secret routes and hidden bases worth 1,500 gp
+- **Leadership Badge**: Symbol of his authority over the [[02_Worldbuilding/Groups/Crimson Tide Pirates]]
 
 ### Tactical Environment
 **Fighting Location:** Flagship bridge during convoy attack
@@ -208,10 +244,16 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 - **Trade Guild Membership**: Legitimate cover for future maritime adventures
 
 ## Connected Adventures
-- **[[Goldspire Confederacy]]**: Investigation into the original betrayal
-- **[[Current Riders Guild]]**: Helping organization recover from Scarface's defection
-- **[[Smuggler's Cove]]**: Other criminal organizations affected by power vacuum
-- **[[Surface Traders]]**: Diplomatic missions to improve inter-realm relations
+- **[[02_Worldbuilding/Places/Goldspire Confederacy]]**: Investigation into the original betrayal
+- **[[02_Worldbuilding/Groups/Current Riders Guild]]**: Helping organization recover from Scarface's defection
+- **[[02_Worldbuilding/Places/Smuggler's Cove]]**: Other criminal organizations affected by power vacuum
+- **[[02_Worldbuilding/Groups/Surface Traders]]**: Diplomatic missions to improve inter-realm relations
+- **[[02_Worldbuilding/Lore/Crystal Corruption]]**: Understanding the source of Scarface's physical and mental scars
+- **[[02_Worldbuilding/Places/Temple District]]**: Seeking religious guidance on justice vs. vengeance
+- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Military response to increased piracy
+- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Political implications of inter-realm criminal activity
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative response to trade route security
+- **[[02_Worldbuilding/Groups/The Purist Coalition]]**: Extremist views on surface dweller relations
 
 ## Campaign Impact
 

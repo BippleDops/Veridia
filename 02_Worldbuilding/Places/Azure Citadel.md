@@ -1,6 +1,6 @@
 ---
-tags: [stub]
-status: "stub"
+tags: [location, fortress, military, government]
+status: "complete"
 world: "Aquabyssos"
 type: "location"
 created_by: "auto-stub"
@@ -109,6 +109,66 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **Communication Crystals**: Instant contact across vast underwater distances  
 **Defensive Constructs**: Automated guardians powered by [[Aether Crystals]]
 
+## Services and Resources Available
+
+### Military Services
+**Equipment and Armory**: Access to the most advanced underwater military equipment in [[Aquabyssos]]
+- **Depth Suits**: Pressure-resistant armor allowing operation at any depth
+- **Crystal Weapons**: Magically enhanced arms powered by [[Aether Crystal]] fragments  
+- **Leviathan Vehicles**: Submersible craft for transportation and combat
+- **Communication Arrays**: Instant contact with any point in the realm
+
+**Training Facilities**: World-class military education and combat preparation
+- **Deep Combat School**: Training for fighting in extreme underwater conditions
+- **Leadership Academy**: Officer training for [[Depth Wardens]] command positions
+- **Intelligence School**: Spy training and information analysis techniques
+- **Engineering Corps**: Technical training for maintaining citadel systems
+
+**Medical Services**: Advanced healing and trauma care
+- **Pressure Sickness Treatment**: Specialized care for depth-related injuries
+- **Magical Healing**: Crystal-enhanced regeneration and cure techniques
+- **Psychological Support**: Treatment for those traumatized by deep horrors
+- **Emergency Surgery**: Combat trauma care and life-saving procedures
+
+### Government Services
+**Administrative Support**: Bureaucratic services for realm management
+- **Intelligence Analysis**: Information gathering and threat assessment
+- **Diplomatic Communications**: Secure channels to other realms and powers
+- **Emergency Coordination**: Crisis response and disaster management
+- **Strategic Planning**: Long-term policy development and implementation
+
+**Legal Services**: Military justice and government legal support
+- **Court Martial**: Military legal proceedings for [[Depth Wardens]] personnel
+- **Security Clearance**: Background investigations and loyalty verification
+- **Contract Negotiation**: International treaties and trade agreements
+- **Constitutional Interpretation**: Legal guidance on government powers
+
+### Research and Development
+**Military Technology**: Cutting-edge equipment development
+- **Weapons Research**: New combat applications of crystal magic
+- **Defensive Systems**: Advanced protection for personnel and facilities
+- **Communication Innovation**: Improved contact with remote outposts
+- **Vehicle Development**: Better submarines and underwater transport
+
+**Intelligence Services**: Information gathering and analysis
+- **Threat Assessment**: Evaluation of dangers from [[The Hadal Depths]]
+- **Foreign Intelligence**: Information about other realms and their activities
+- **Counter-Intelligence**: Protection against espionage and infiltration
+- **Technical Intelligence**: Analysis of captured enemy equipment and technology
+
+### Civilian Services (Limited Access)
+**Diplomatic Relations**: Interface between [[Aquabyssos]] and other realms
+- **Embassy Functions**: Reception and accommodation of foreign diplomats
+- **Cultural Exchange**: Programs promoting understanding between realms
+- **Trade Negotiations**: Commercial agreements and economic partnerships
+- **Conflict Resolution**: Mediation services for international disputes
+
+**Emergency Services**: Crisis response for the general population
+- **Disaster Relief**: Coordination of response to natural catastrophes
+- **Evacuation Planning**: Emergency relocation of civilian populations
+- **Medical Emergency**: Advanced trauma care when civilian facilities are inadequate
+- **Search and Rescue**: Recovery operations in dangerous deep-water areas
+
 ## Government Functions
 
 ### Parliamentary Operations
@@ -206,8 +266,12 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **Examples**: 
 - Plans for evacuating entire population to surface world
 - Weapons capable of destroying [[The Lock]] if it becomes corrupted
- - Diplomatic agreements with entities from [[The Hadal Depths]]
- - Methods for severing connection to [[Aethermoor]] permanently
+- Diplomatic agreements with entities from [[The Hadal Depths]]
+- Methods for severing connection to [[Aethermoor]] permanently
+- Protocols for awakening ancient [[Leviathan]] guardians
+- Doomsday device targeting the [[World Tree]] roots
+- Emergency alliance treaties with [[The Crystal Throne]]
+- Backup consciousness storage for critical personnel in [[Memory Farmers]] archives
 
 ### Project Deep Strike
 **Classification**: Beyond top secret  
@@ -264,26 +328,120 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **Intelligence**: Monitors surface world for potential threats or opportunities  
 **Cooperation**: Joint operations and information sharing when interests align
 
+### [[The Gilded Shard]]
+**Academic Exchange**: Military officers receive advanced magical training
+**Research Cooperation**: Joint development of crystal-based military technology
+**Intelligence Sharing**: Information about dimensional threats and magical phenomena
+
+### [[Memory Farmers]]
+**Information Network**: Critical intelligence about underwater threats and anomalies
+**Resource Trading**: Exchange of rare materials and specialized knowledge
+**Joint Operations**: Collaborative missions to investigate strange phenomena
+
+### [[The Sunken Bazaar]]
+**Supply Chain**: Primary source for specialized equipment and rare materials
+**Intelligence Hub**: Merchants provide information about activities throughout [[Aquabyssos]]
+**Economic Protection**: Military ensures safe passage for critical trade routes
+
+### [[Coral Gardens]]
+**Recruitment**: Source of new personnel with natural aquatic abilities
+**Strategic Resources**: Coral-based construction materials and biological defenses
+**Cultural Relations**: Maintaining positive relationships with nature-aligned communities
+
+### [[The World Tree]]
+**Strategic Monitoring**: Observation of the great tree's health and any threats to its stability
+**Resource Coordination**: Protection of lumber and magical essence harvesting operations
+**Environmental Intelligence**: Early warning system for realm-wide magical disturbances
+
+### [[Leviathan]] Clans
+**Alliance Negotiations**: Diplomatic relations with the great sea creatures
+**Mutual Defense**: Coordination of protection against threats from [[The Hadal Depths]]
+**Intelligence Sharing**: Information exchange about deep-sea activities and dangers
+
+### [[The Shimmering Veil]]
+**Dimensional Security**: Monitoring of the barrier between realms for stability
+**Travel Regulation**: Control of authorized passage between [[Aquabyssos]] and other planes
+**Threat Detection**: Early warning of extra-dimensional incursions or invasions
+
+## D&D 5e Mechanical Elements
+
+### Environmental Effects
+**Crushing Depths**: Creatures not adapted to extreme underwater pressure must make a DC 15 Constitution saving throw every hour or gain one level of exhaustion.
+
+**Crystal Resonance**: The citadel's crystal walls amplify magical effects. Spell save DCs increase by 1, and spell damage increases by 1 per damage die.
+
+**Aether Crystal Exposure**: Prolonged exposure (8+ hours) to the citadel's power source grants advantage on Intelligence (Arcana) checks but requires a DC 12 Wisdom saving throw or gain one level of exhaustion from magical overload.
+
+**Temporal Communication Echoes**: Communication spells cast within the citadel have a 25% chance to receive an echo from the past or future, potentially providing cryptic information.
+
+### Special Rules
+**Security Clearance**: Different areas require specific clearance levels:
+- **Public Areas**: No restrictions
+- **Government Levels**: DC 15 Persuasion check or proper credentials
+- **Military Command**: DC 20 Deception check or military rank of Captain+
+- **Deep Operations**: DC 25 Deception check or Admiral authorization
+- **Deep Vault**: Impossible without Admiral's personal escort
+
+**Crystal Defenses**: The citadel's automated defenses activate when threatened:
+- **Detection**: Passive Perception 20 for unauthorized intrusion
+- **Crystal Turrets**: +8 to hit, 2d8+4 force damage, 120 ft range
+- **Barrier Generation**: AC 20, 50 hp force barriers appear to block passages
+
+**Deep Watch Effects**: Characters who spend extended time monitoring [[The Hadal Depths]] must make escalating Wisdom saving throws:
+- **1 week**: DC 12 or gain the Frightened condition for 1 hour
+- **1 month**: DC 15 or develop a short-term madness
+- **6 months**: DC 18 or develop a long-term madness
+- **1 year**: DC 21 or develop an indefinite madness
+
+### Notable NPCs (D&D 5e Stats)
+
+**[[Admiral Thorne Blackwater]]** (Human Veteran with additional features)
+- **AC**: 18 (Plate Armor)
+- **HP**: 95 (13d8 + 39)
+- **Speed**: 30 ft, Swim 60 ft
+- **STR**: 16, **DEX**: 13, **CON**: 16, **INT**: 14, **WIS**: 11, **CHA**: 16
+- **Skills**: Athletics +6, Intimidation +6, Perception +3
+- **Special**: Legendary Actions (3 per turn), Underwater Adaptation, Command Presence
+
+**[[Commander Drake Pressureborn]]** (Human Knight with aquatic adaptations)
+- **AC**: 18 (Plate Armor)
+- **HP**: 78 (12d8 + 24)
+- **Speed**: 30 ft, Swim 50 ft
+- **Special**: Pressure Immunity, Deep Sight (darkvision 120 ft), Tactical Genius
+
+### Magic Items Found Here
+- **Depth Warden's Plate**: +1 plate armor that grants swim speed equal to walking speed and immunity to pressure effects
+- **Crystal of Deep Sight**: Allows user to see through 60 feet of water as if it were air
+- **Aether Fragment**: Functions as a Rod of Absorption but only for spells of 3rd level or lower
+- **Citadel Command Crystal**: Allows communication with any creature within the citadel, requires attunement by military officer
+
 ## DM Notes
 
 ### Using Azure Citadel
 - **Command Center**: Central location for military and government campaigns
- - **Information Hub**: Source of intelligence and strategic knowledge
- - **Safe Haven**: Secure location for planning dangerous operations
- - **Political Arena**: Setting for conflicts between different factions and interests
- - **Last Stand**: Ultimate defensive position if all else fails
+- **Information Hub**: Source of intelligence and strategic knowledge
+- **Safe Haven**: Secure location for planning dangerous operations
+- **Political Arena**: Setting for conflicts between different factions and interests
+- **Last Stand**: Ultimate defensive position if all else fails
 
 ### Adventure Integration
- - **Military Careers**: Characters can join [[Depth Wardens]] or serve as specialists
- - **Government Service**: Opportunities in intelligence, diplomacy, or administration
- - **Contractor Work**: Independent operators hired for missions too sensitive for regular military
- - **Crisis Response**: Emergency situations requiring immediate action
+- **Military Careers**: Characters can join [[Depth Wardens]] or serve as specialists
+- **Government Service**: Opportunities in intelligence, diplomacy, or administration
+- **Contractor Work**: Independent operators hired for missions too sensitive for regular military
+- **Crisis Response**: Emergency situations requiring immediate action
+
+### Encounter Suggestions
+**Level 1-4**: Investigate sabotage in the supply warehouses, escort VIPs through dangerous areas
+**Level 5-8**: Counter-intelligence operations, defend against deep creature incursions
+**Level 9-12**: Diplomatic missions to hostile territories, special operations in [[The Hadal Depths]]
+**Level 13-16**: Prevent catastrophic breach of [[The Lock]], uncover high-level conspiracy
+**Level 17-20**: Defend against cosmic horror invasion, prevent reality-threatening catastrophe
 
 ### Customization Options
- - **Scale**: Adjust size and importance based on campaign needs
- - **Technology Level**: Modify equipment and capabilities to match setting
- - **Political Complexity**: Increase or decrease intrigue based on group interest
- - **Threat Level**: Connect to ongoing campaign dangers and conflicts
+- **Scale**: Adjust size and importance based on campaign needs
+- **Technology Level**: Modify equipment and capabilities to match setting
+- **Political Complexity**: Increase or decrease intrigue based on group interest
+- **Threat Level**: Connect to ongoing campaign dangers and conflicts
 
 > [!danger] DM Secret
 > The Azure Citadel was not built where it is by accident. It sits directly above a sealed portal to [[The Hadal Depths]] that predates the Great Drowning. The entire fortress is actually a massive containment facility, and its real purpose is not to defend [[Aquabyssos]] from external threats, but to prevent something far worse from escaping into the world. [[Admiral Thorne Blackwater]] knows this truth, and it's part of what's driving him to madness - he realizes that if the citadel ever falls, the thing beneath it will be the least of their problems.

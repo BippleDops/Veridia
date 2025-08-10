@@ -1,6 +1,6 @@
 ---
-tags: [stub]
-status: "stub"
+tags: [location, academy, magic, research]
+status: "complete"
 world: "Aethermoor"
 type: "location"
 created_by: "auto-stub"
@@ -126,6 +126,107 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Night of Floating Lanterns**: Celebration honoring the academy's founding  
 **The Silent Hour**: Daily period where all magic ceases for meditation and reflection
 
+## Services and Resources Available
+
+### Academic Services
+**Education and Training**: Comprehensive magical education from basic to advanced levels
+- **Undergraduate Programs**: Four-year degrees in theoretical and practical crystal magic
+- **Graduate Studies**: Advanced research degrees and specialization programs
+- **Continuing Education**: Professional development for practicing mages
+- **Certification Programs**: Specialized credentials for magical professions
+
+**Research Facilities**: State-of-the-art magical research infrastructure
+- **Laboratory Access**: Fully equipped spaces for magical experimentation
+- **Library Resources**: Vast collection of magical texts and research materials
+- **Expert Consultation**: Access to renowned professors and visiting scholars
+- **Prototype Development**: Support for creating new magical items and spells
+
+**Testing and Evaluation**: Assessment services for magical abilities and items
+- **Aptitude Testing**: Evaluation of magical potential and career guidance
+- **Item Analysis**: Identification and evaluation of magical artifacts
+- **Spell Verification**: Confirmation of magical effects and safety testing
+- **Competency Certification**: Professional licensing and skill validation
+
+### Commercial Services
+**Magical Item Creation**: Custom enchantment and artifact development
+- **Personal Commissions**: Tailored magical items for individual clients
+- **Bulk Orders**: Large-scale production for commercial or military use
+- **Repair Services**: Restoration of damaged or malfunctioning magical items
+- **Upgrade Services**: Enhancement of existing magical equipment
+
+**Consultation Services**: Expert advice for magical projects and problems
+- **Technical Support**: Problem-solving for complex magical challenges
+- **Design Consultation**: Planning assistance for magical construction projects
+- **Risk Assessment**: Safety evaluation of magical experiments and applications
+- **Legal Expert Testimony**: Professional opinions for magical-related legal cases
+
+### Public Services
+**Community Outreach**: Educational programs for the general public
+- **Public Lectures**: Free presentations on magical topics and discoveries
+- **School Visits**: Educational programs for primary and secondary schools
+- **Adult Education**: Basic magical literacy courses for non-mages
+- **Community Safety**: Information about magical hazards and safety practices
+
+**Emergency Response**: Magical crisis management and disaster relief
+- **Magical Accidents**: Expert response to dangerous magical mishaps
+- **Dimensional Incidents**: Specialized teams for planar emergencies
+- **Curse Breaking**: Professional removal of harmful magical effects
+- **Magical Disease Treatment**: Medical care for magically-induced illnesses
+
+## Defenses and Security Measures
+
+### Physical Defenses
+**Structural Protection**: The academy's architecture incorporates multiple defensive features
+- **Crystal Barriers**: Walls infused with protective crystals that resist both physical and magical attacks
+- **Levitation Systems**: Spires can move to avoid attacks or reconfigure for better defense
+- **Emergency Lockdown**: Ability to seal all entrances and create impenetrable barrier around facility
+- **Structural Redundancy**: Damage to one spire doesn't compromise the entire complex
+
+**Perimeter Security**: Multiple layers of protection around the academy grounds
+- **Detection Fields**: Magical sensors that identify unauthorized approaches
+- **Guardian Constructs**: Automated defenders that patrol the grounds
+- **Identification Checkpoints**: Multiple security stations verifying visitor identity
+- **Emergency Teleportation**: Instant evacuation systems for critical personnel
+
+### Magical Defenses
+**Enchantment Systems**: Sophisticated magical protections throughout the facility
+- **Anti-Magic Zones**: Areas where hostile spells are automatically dispelled
+- **Scrying Protection**: Wards that prevent magical surveillance from outside
+- **Teleportation Blocks**: Barriers preventing unauthorized magical transportation
+- **Mind Shields**: Protection against mental intrusion and telepathic attacks
+
+**Active Countermeasures**: Offensive magical systems activated during threats
+- **Lightning Arrays**: Crystal-powered energy weapons with precision targeting
+- **Binding Fields**: Magic that immobilizes intruders without permanent harm
+- **Illusion Networks**: Systems that create false images to confuse attackers
+- **Temporal Traps**: Limited time-distortion effects that slow or stop threats
+
+### Personnel Security
+**Access Control**: Strict management of who can enter different areas
+- **Magical Identification**: Unique magical signatures for every person with access
+- **Clearance Levels**: Seven different authorization levels based on position and trustworthiness
+- **Escort Requirements**: High-security areas require accompanied access
+- **Emergency Revocation**: Ability to instantly remove access privileges if needed
+
+**Internal Monitoring**: Surveillance and oversight of activities within the academy
+- **Behavioral Analysis**: Magical detection of suspicious or dangerous activities
+- **Communication Monitoring**: Oversight of sensitive conversations and correspondence
+- **Research Oversight**: Review of experiments for safety and ethical compliance
+- **Loyalty Verification**: Regular checks to ensure staff remain trustworthy
+
+### Intelligence and Counter-Intelligence
+**Information Security**: Protection of sensitive research and strategic knowledge
+- **Classified Research Protection**: Special security for dangerous or sensitive projects
+- **Communication Encryption**: Magical encoding of all sensitive messages
+- **Memory Modification**: Limited use of mind magic to protect critical secrets
+- **Document Security**: Magical protection of important texts and research notes
+
+**Counter-Espionage**: Active measures against foreign intelligence operations
+- **Infiltration Detection**: Systems designed to identify spies and saboteurs
+- **False Information**: Deliberate misinformation to mislead hostile intelligence
+- **Double Agents**: Academy personnel who pretend to work for foreign powers
+- **Security Sweeps**: Regular investigations to root out security threats
+
 ## Research and Discoveries
 
 ### Current Major Projects
@@ -174,6 +275,26 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - Competition for talented students and research grants
 - Collaboration on projects too large for single institutions
 - Academic conferences and knowledge exchange
+
+**[[Parliament of Echoes]]**: Political oversight  
+- Government regulation of dangerous magical research
+- Funding approval for major projects
+- Ethical oversight and academic freedom tensions
+
+**[[The Depth Wardens]]**: Military cooperation  
+- Joint training programs for combat mages
+- Shared research on underwater magic applications
+- Intelligence sharing about magical threats
+
+**[[The Sunken Bazaar]]**: Commercial partnership  
+- Primary source for rare magical components
+- Market for academy-developed magical items
+- Economic support through research commissions
+
+**[[Coral Gardens]]**: Environmental research  
+- Collaborative studies on natural magic
+- Shared research on biological-magical interactions
+- Environmental impact assessments of magical experiments
 
 ## Adventure Opportunities
 
@@ -224,6 +345,13 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 **Projects**: Reality manipulation, divine ascension, universal destruction  
 **Guardians**: Entities that exist partially outside normal space-time
 
+### The Convergence Engine
+**Location**: Hidden chamber beneath the Central Spire's heart
+**Purpose**: Device designed to merge all [[Seven Shards]] fragments into one
+**Status**: 60% complete, disguised as routine magical research
+**Danger**: If activated prematurely, could tear reality apart across multiple planes
+**Knowledge**: Only [[Professor Aldric Crystalweaver]] and two trusted assistants know of its existence
+
 ## Notable Locations Within
 
 ### The Crystal Garden (Central Courtyard)
@@ -252,6 +380,113 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
  - "The Engineering of Reality Collapse"
  - "A Treatise on the Cultivation of Madness"
 
+## D&D 5e Mechanical Elements
+
+### Environmental Effects
+**Magical Saturation**: Spells cast within the academy have a 10% chance to trigger a Wild Magic Surge (roll on Wild Magic table).
+
+**Crystal Resonance**: All spells cast within 100 feet of the Central Spire deal maximum damage on their first damage die.
+
+**Temporal Distortion**: In the Temporal Studies wing, time moves at different rates. Creatures must make a DC 16 Constitution saving throw when entering or age 1d4 years (25% chance) or become 1d4 years younger (75% chance).
+
+**Levitation Fields**: Throughout the academy, creatures can activate levitation as a bonus action, gaining a flying speed of 30 feet for 1 minute (recharge on a roll of 5-6 on d6).
+
+**Intellectual Enhancement**: Spending 8 hours in the Library of Crystalline Lore grants advantage on the next Intelligence-based ability check or saving throw.
+
+### Special Rules
+**Academic Hierarchy**: Different areas require specific academic standing:
+- **Public Areas**: No restrictions
+- **Student Areas**: Must be enrolled or have visitor's pass
+- **Faculty Laboratories**: DC 15 Persuasion check or professorial rank
+- **Advanced Research**: DC 20 Deception check or senior researcher status
+- **Forbidden Library**: DC 25 Deception check or special authorization
+- **Director's Sanctum**: Impossible without [[Professor Aldric Crystalweaver]]'s personal invitation
+
+**Magical Experiments**: Random magical events occur throughout the academy:
+- Roll d20 each day: On 1, roll on Magical Academy Events table
+- Events range from beneficial (all healing spells maximized) to dangerous (gravity reversal)
+
+**Crystal Attunement**: Students and faculty can attune to academy crystals:
+- **Novice Crystal**: +1 bonus to spell attack rolls and save DCs
+- **Advanced Crystal**: Above bonus plus one additional spell slot of 3rd level or lower
+- **Master Crystal**: Above bonuses plus resistance to one damage type of choice
+
+### Notable NPCs (D&D 5e Stats)
+
+**[[Professor Aldric Crystalweaver]]** (Human Archmage with modifications)
+- **AC**: 17 (Natural Armor from crystal integration)
+- **HP**: 165 (22d8 + 88)
+- **Speed**: 30 ft, Fly 60 ft
+- **STR**: 10, **DEX**: 16, **CON**: 18, **INT**: 22, **WIS**: 15, **CHA**: 16
+- **Skills**: Arcana +17, History +17, Investigation +17
+- **Special**: Legendary Actions (3 per turn), Crystal Magic (all spells deal force damage), Ageless (appears 40, actually 200+ years old)
+- **Spells**: As Archmage, plus unique crystal-based spells
+
+**[[Elena Starweaver]]** (Half-Elf Mage with enhanced abilities)
+- **AC**: 15 (Mage Armor)
+- **HP**: 58 (13d8 + 13)
+- **Speed**: 30 ft
+- **Special**: Crystal Focus (advantage on concentration saves), Practical Magic (can cast utility spells without expending spell slots 3/day)
+
+**Master Theorist Valdris Prism** (Gnome with unique abilities)
+- **AC**: 13
+- **HP**: 45 (13d6 + 13)
+- **Speed**: 25 ft
+- **Special**: Mathematical Genius (can cast Divination spells as rituals), Living Equations (spells manifest as visible mathematical formulas)
+
+### Magic Items Found Here
+- **Crystal Focus of the Academy**: +2 Arcane Focus that allows casting one additional spell per long rest
+- **Robes of the Gilded Scholar**: +1 AC, advantage on Intelligence saves, immunity to being charmed
+- **Tome of Crystalline Knowledge**: Contains 2d4 wizard spells of levels 1-3, regains spells on a long rest
+- **Temporal Hourglass**: Once per day, can rewind time 6 seconds (equivalent to legendary action)
+- **Prism of Seven Colors**: Can store up to 7 spell levels worth of spells, releases them as bonus actions
+
+### Unique Spells Developed Here
+**Crystal Lance** (3rd-level evocation)
+- Range: 120 feet
+- Creates a spear of pure crystal that deals 4d8 force damage and has a chance to pin targets
+
+**Harmonic Resonance** (2nd-level enchantment)
+- Causes crystals within 30 feet to vibrate, dealing 2d6 thunder damage to all creatures in area
+
+**Temporal Echo** (4th-level divination)
+- Allows caster to see 1d4 minutes into the past in a specific location
+
+**Academic Insight** (1st-level divination)
+- Grants advantage on next Intelligence-based check and reveals one piece of relevant academic knowledge
+
+## Faction Relations
+
+### [[The Crystal Throne]]
+**Alliance Level**: Strong (8/10)
+**Benefits**: Primary funding source, political protection, access to royal archives
+**Obligations**: Provide battle-mages, develop military applications, share strategic research
+**Tensions**: Academic freedom vs. military needs, ethical concerns about weapon development
+
+### [[Azure Citadel]]
+**Alliance Level**: Professional (6/10)
+**Benefits**: Military protection, joint magical-military research, officer training programs
+**Obligations**: Magical support for military operations, intelligence sharing
+**Tensions**: Different approaches to handling threats from [[The Hadal Depths]]
+
+### [[Memory Farmers]]
+**Alliance Level**: Cautious Cooperation (5/10)
+**Benefits**: Exchange of rare knowledge, collaborative research on consciousness
+**Obligations**: Shared research findings, ethical oversight of memory-related experiments
+**Tensions**: Different methodologies, competition for rare materials
+
+### Foreign Academies
+**Alliance Level**: Competitive (4/10)
+**Benefits**: Academic conferences, student exchanges, knowledge trading
+**Obligations**: Maintain scholarly standards, respect intellectual property
+**Tensions**: Research rivalry, recruitment competition, prestige contests
+
+### [[The Sunken Bazaar]]
+**Alliance Level**: Commercial (7/10)
+**Benefits**: Source of rare magical components, funding through magical item sales
+**Obligations**: Provide magical services, maintain trade route security
+**Tensions**: Commercialization of knowledge, academic integrity concerns
+
 ## DM Notes
 
 ### Using the Gilded Shard
@@ -260,19 +495,45 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - **Safe Haven**: Sanctuary for characters fleeing magical persecution
 - **Political Intrigue**: Academia intersects with national politics and military needs
 - **Character Development**: Opportunities for magical training and advancement
+- **Power Base**: Characters can establish influence within academic hierarchy
 
-### Adventure Hooks
-- Student characters can attend classes and participate in academy life
-- Faculty need protection during dangerous fieldwork
-- Rival institutions attempt to steal research or sabotage experiments
-- Government pressures threaten academic freedom
-- Ancient magical threats target the [[Seven Shards]] fragment
+### Adventure Hooks by Level
+**Levels 1-4**: 
+- Student initiation ceremonies gone wrong
+- Investigate missing magical components
+- Protect visiting scholars from academic rivals
+- Explore unstable magical experiments
+
+**Levels 5-8**:
+- Counter-espionage against foreign academy spies
+- Retrieve dangerous artifacts from failed experiments
+- Mediate conflicts between academic factions
+- Investigate professor's mysterious disappearance
+
+**Levels 9-12**:
+- Prevent catastrophic magical experiment
+- Explore the hidden seventh spire
+- Uncover [[Professor Aldric Crystalweaver]]'s secret agenda
+- Defend academy from planar incursion
+
+**Levels 13-16**:
+- Prevent misuse of [[Seven Shards]] fragment
+- Stop reality-threatening research project
+- Navigate interdimensional academic politics
+- Prevent war between magical institutions
+
+**Levels 17-20**:
+- Stop the Convergence Engine activation
+- Prevent ascension of corrupt professor to godhood
+- Save reality from academic hubris
+- Establish new cosmic order for magical education
 
 ### Customization
 - Adjust the level of magical technology to match campaign needs
 - Add or remove departments based on what types of magic are prominent
 - Scale the political intrigue up or down based on party interest
 - Connect research projects to ongoing campaign themes and threats
+- Modify the academy's relationship with other factions based on campaign needs
 
 > [!danger] DM Secret
 > The [[Seven Shards]] fragment at the academy's core is slowly growing, fed by the ambient magical energy of thousands of daily spells. [[Professor Aldric Crystalweaver]] has been deliberately concealing this growth because he believes a fully reconstituted Shard would give him god-like power. He's been manipulating research projects and student assignments to channel more energy into the fragment, and is planning to trigger its awakening during the next Great Exhibition when magical energy peaks.

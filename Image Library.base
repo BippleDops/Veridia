@@ -28,16 +28,16 @@ views:
     filters:
       and:
         - image_path
-    columns:
-      - file.name
-      - image_path
-      - image_category
-      - image_tags
     sort:
       - property: image_category
         direction: ASC
       - property: file.name
         direction: ASC
+    columns:
+      - file.name
+      - image_path
+      - image_category
+      - image_tags
     columnSize:
       file.name: 200
       image_path: 300
@@ -48,8 +48,9 @@ views:
     filters:
       and:
         - tags contains "Category/People"
-    columns: 4
+    order: []
     limit: 100
+    columns: 4
     properties:
       - image_path
       - file.name
@@ -57,10 +58,9 @@ views:
       - char_status
   - type: cards
     name: Location Gallery
-    filters:
-      tags contains "Category/Place"
-    columns: 3
+    filters: tags contains "Category/Place"
     limit: 100
+    columns: 3
     properties:
       - image_path
       - file.name
@@ -68,16 +68,15 @@ views:
       - MyContainer
   - type: table
     name: All (Debug)
-
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - image_path
       - image_category
       - image_tags
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       image_path: 300

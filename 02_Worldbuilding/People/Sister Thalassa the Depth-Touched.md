@@ -1,6 +1,6 @@
 ---
 tags: [person, npc, aquabyssos, deep-mother, drowned-prophets, cultist, depth-touched]
-status: "stub"
+status: complete
 world: "Aquabyssos"
 type: "npc"
 role: "Deep Mother Cultist"

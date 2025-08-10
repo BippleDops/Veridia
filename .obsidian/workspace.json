@@ -11,13 +11,14 @@
             "id": "a69447ea4390374e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Item Showcase.base",
-                "viewName": "Inventory Manager"
+                "file": "02_Worldbuilding/Places/The Phosphor Markets.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Item Showcase"
+              "icon": "lucide-file",
+              "title": "The Phosphor Markets"
             }
           }
         ]
@@ -165,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Item Showcase.base",
+                "file": "02_Worldbuilding/Places/The Phosphor Markets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Item Showcase"
+              "title": "Outline of The Phosphor Markets"
             }
           },
           {
@@ -362,7 +363,15 @@
   },
   "active": "a69447ea4390374e",
   "lastOpenFiles": [
+    "02_Worldbuilding/Places/New Tethys.md",
+    "02_Worldbuilding/People/Captain Garrett Stormcutter.md",
     "Combat Tracker.base",
+    "Faction_Tracker.base",
+    "Image Library.base",
+    "Untitled 1.md",
+    "02_Worldbuilding/Lore/Dawn-Echo Sentinel.md",
+    "Item Showcase.base",
+    "Untitled.md",
     "Faction_Tracker 2.base",
     "07_Player_Resources/Handouts/Parliament of Shadows Player Guide.md",
     "07_Player_Resources/Handouts/What You Know - Abyssos Prime.md",
@@ -389,16 +398,9 @@
     "02_Worldbuilding/Lore/Lore/The Sundering.md",
     "02_Worldbuilding/Lore/Abyssal Academy.md",
     "02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide.md",
-    "02_Worldbuilding/Lore/Aetheron.md",
-    "02_Worldbuilding/Lore/NPC Cross-World Connections.md",
-    "02_Worldbuilding/Lore/NPC Name Generator.md",
-    "02_Worldbuilding/Lore/NPC Relationship Web.md",
     "Session Log.base",
     "NPC Directory.base",
-    "Item Showcase.base",
     "Location Tracker.base.tmp.83938.1754766250485",
-    "Quest Campaign Tracker.base.tmp.83938.1754766225818",
-    "NPC Directory.base.tmp.83938.1754766211564",
     "Ω_Assets/Pasted image 20250121213204.png",
     "Ω_Assets/Pasted Image 20240630225934_265.png",
     "Ω_Assets/Pasted image 20240630204305.png",

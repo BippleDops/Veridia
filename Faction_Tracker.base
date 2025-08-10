@@ -22,16 +22,15 @@ formulas:
 views:
   - type: table
     name: All Factions (Safe)
-    filters:
-      tags contains "Category/Group"
+    filters: tags contains "Category/Group"
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - realm
       - leader
       - headquarters
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       realm: 120
@@ -39,17 +38,16 @@ views:
       headquarters: 160
   - type: table
     name: Faction Overview
-    filters:
-      tags contains "Category/Group"
+    filters: tags contains "Category/Group"
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - realm
       - leader
       - headquarters
       - reputation
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       realm: 120
@@ -58,13 +56,12 @@ views:
       headquarters: 160
   - type: cards
     name: Power Rankings
-    filters:
-      tags contains "Category/Group"
+    filters: tags contains "Category/Group"
     sort:
       - property: reputation
         direction: DESC
-    columns: 3
     limit: 100
+    columns: 3
     properties:
       - file.name
       - leader
@@ -73,16 +70,15 @@ views:
       - goals
   - type: table
     name: Party Standing
-    filters:
-      tags contains "Category/Group"
+    filters: tags contains "Category/Group"
+    sort:
+      - property: party_reputation
+        direction: DESC
     columns:
       - file.name
       - party_reputation
       - allies
       - enemies
-    sort:
-      - property: party_reputation
-        direction: DESC
     columnSize:
       file.name: 200
       party_reputation: 120
@@ -90,16 +86,15 @@ views:
       enemies: 240
   - type: table
     name: All (Debug)
-
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - realm
       - leader
       - headquarters
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       realm: 120

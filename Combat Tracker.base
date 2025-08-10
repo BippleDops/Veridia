@@ -4,58 +4,58 @@ views:
     filters:
       and:
         - in_combat
+    sort:
+      - property: initiative
+        direction: DESC
     columns:
       - initiative
       - file.name
       - current_hp
       - max_hp
       - ac
-    sort:
-      - property: initiative
-        direction: DESC
     columnSize:
       initiative: 80
       file.name: 200
       current_hp: 80
       max_hp: 80
       ac: 60
-      
   - type: table
     name: All Combatants
-    filters:
-      tags contains "Category/People"
+    filters: tags contains "Category/People"
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - level
       - ac
       - current_hp
       - max_hp
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       level: 60
       ac: 60
       current_hp: 80
       max_hp: 80
-      
   - type: cards
     name: Combat Cards
     filters:
       and:
         - in_combat
-    columns: 3
     limit: 100
+    columns: 3
     properties:
       - file.name
       - initiative
       - current_hp
       - ac
-      
   - type: table
     name: All (Debug)
-
+    sort:
+      - property: in_combat
+        direction: DESC
+      - property: initiative
+        direction: DESC
     columns:
       - file.name
       - in_combat
@@ -63,11 +63,6 @@ views:
       - current_hp
       - max_hp
       - ac
-    sort:
-      - property: in_combat
-        direction: DESC
-      - property: initiative
-        direction: DESC
     columnSize:
       file.name: 200
       in_combat: 80

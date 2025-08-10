@@ -1,23 +1,26 @@
 ---
-tags: [stub]
-status: "stub"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags: [quest, mystery, exploration, first-contact, music, transcendence, singers-beyond]
+status: complete
+world: Aquabyssos
+type: quest
+level: 7-11
+duration: 3-4 sessions
+threat_level: high
+created_by: auto-stub
 created: 2025-08-08
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
 
 # Discover the Singers Beyond
 
 **Type:** Mystery/Exploration/First Contact  
 **Level:** 7-11  
-**Location:** [[The Singing Trenches]], [[The Whispering Expanse]], [[Abyssos Prime]]  
+**Location:** [[02_Worldbuilding/Places/The Singing Trenches]], [[02_Worldbuilding/Places/The Whispering Expanse]], [[02_Worldbuilding/Places/Abyssos Prime]]  
 **Duration:** 3-4 sessions  
 **Threat:** Unknown entities are sending complex musical messages from the deep trenches - are they friend, foe, or something else entirely?
+
+**Connected Locations:** [[02_Worldbuilding/Places/The Deepmind]], [[02_Worldbuilding/Places/Temple District]], [[02_Worldbuilding/Places/The Archive of Unremembered Things]]  
+**Related Groups:** [[02_Worldbuilding/Groups/The Depth Wardens]], [[02_Worldbuilding/Groups/The Convergence Seekers]], [[02_Worldbuilding/Groups/Memory Farmers]]  
+**Key Themes:** First contact, transcendence, [[02_Worldbuilding/Lore/The Deep Mother]], consciousness evolution
 
 ## Overview
 For months, deep-sea monitoring stations have detected haunting melodies emanating from [[The Singing Trenches]]. These aren't whale songs or geological phenomena - they're structured compositions that follow mathematical patterns, suggest intelligence, and seem to be trying to communicate. As the "songs" become more frequent and complex, [[Aquabyssos]] leadership must decide whether to make contact or prepare for invasion.
@@ -26,12 +29,12 @@ For months, deep-sea monitoring stations have detected haunting melodies emanati
 The songs began shortly after the party's previous adventures disrupted the deep currents. [[Navigator Flux]] first noticed the patterns while mapping new current channels. The melodies are being transmitted through water itself, using pressure waves that carry for hundreds of miles. More disturbing: analysis shows the songs are learning and adapting, becoming more "human-like" with each transmission.
 
 ## Key NPCs
-- **[[Navigator Flux]]**: Current expert who discovered the songs, increasingly obsessed
-- **[[Choir Master Celestine Hymnsinger]]**: Temple musician analyzing the mathematical structure
-- **[[Professor Euclid Mindmaze]]**: Scholar studying the psychological effects of the melodies
-- **[[Admiral Thorne Blackwater]]**: Military commander treating this as potential threat
-- **[[The Recursion Oracle]]**: Ancient seer who claims the Singers "remember the first music"
-- **[[Memory Merchant Zephyr Mindweaver]]**: Reports customers requesting "deep songs" in their memory collections
+- **[[02_Worldbuilding/People/Navigator Flux]]**: Current expert who discovered the songs, increasingly obsessed
+- **[[02_Worldbuilding/People/Choir Master Celestine Hymnsinger]]**: Temple musician analyzing the mathematical structure
+- **[[02_Worldbuilding/People/Professor Euclid Mindmaze]]**: Scholar studying the psychological effects of the melodies
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Military commander treating this as potential threat
+- **[[02_Worldbuilding/People/The Recursion Oracle]]**: Ancient seer who claims the Singers "remember the first music"
+- **[[02_Worldbuilding/People/Memory Merchant Zephyr Mindweaver]]**: Reports customers requesting "deep songs" in their memory collections
 
 ## Phase 1: Understanding the Songs (1 session)
 **Location:** [[Abyssos Prime]] - Research facilities  
@@ -186,14 +189,68 @@ If negotiations go wrong, the Singers don't attack physically - they attempt to 
 
 ### Singer Collective Manifestation
 **CR 10** (5,900 XP)  
-**Abilities:**
-- **Reality Song**: Reshape environment through musical performance
-- **Harmonization**: Attempt to merge target consciousness with collective
-- **Sonic Shield**: Sound waves deflect physical attacks
-- **Temporal Echo**: Repeat actions from past or future versions of encounter
-- **Emotional Resonance**: Force targets to feel what the collective feels
+*Large aberration (collective consciousness), lawful neutral*
 
-**Tactics:** The Singers try to overwhelm the party with beauty and transcendent experience rather than harm them
+**Armor Class** 18 (Natural Harmony)  
+**Hit Points** 180 (19d12 + 57)  
+**Speed** 0 ft., fly 90 ft. (hover)
+
+**STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA**
+--------|---------|---------|---------|---------|--------
+6 (-2)  | 20 (+5) | 16 (+3) | 25 (+7) | 22 (+6) | 28 (+9)
+
+**Saving Throws** Int +12, Wis +11, Cha +14  
+**Skills** History +17, Insight +16, Perception +11, Performance +19  
+**Damage Resistances** Thunder, Psychic; Bludgeoning, Piercing, and Slashing from nonmagical attacks  
+**Damage Immunities** Charmed, Frightened  
+**Condition Immunities** Prone, Restrained, Stunned  
+**Senses** Blindsight 120 ft., Truesight 60 ft., passive Perception 21  
+**Languages** All languages, telepathy 1 mile  
+**Challenge Rating** 10 (5,900 XP)  
+**Proficiency Bonus** +4
+
+#### Special Abilities
+**Collective Consciousness.** The Singers exist as multiple overlapping entities. When reduced to half hit points, they split into two CR 7 manifestations with 90 hit points each.
+
+**Reality Song.** As an action, the Singers can alter reality within 120 feet by performing musical compositions. This functions as the spell *wish*, but only for changes that can be expressed through music and harmony.
+
+**Sonic Shield.** Physical attacks against the Singers have disadvantage due to sound wave interference. Ranged attacks automatically miss unless they use thunder damage.
+
+**Temporal Echo.** Once per turn, the Singers can repeat any action they took in a previous round of this encounter, including actions from "alternate timeline" versions.
+
+**Harmonization Aura.** At the start of each turn, all creatures within 60 feet must make a DC 18 Charisma saving throw or be charmed for 1 round. Charmed creatures must spend their action attempting to harmonize with the Singers' music.
+
+#### Actions
+**Multiattack.** The Singers make two Reality Song attacks or cast two spells of 3rd level or lower.
+
+**Reality Song.** The Singers reshape local reality through music. Choose one effect:
+- *Healing Harmony:* All creatures within 30 feet regain 20 (4d8 + 2) hit points
+- *Discordant Strike:* One target within 120 feet takes 22 (4d6 + 8) thunder damage and must succeed on DC 18 Wisdom save or be stunned for 1 round
+- *Environmental Shift:* Alter terrain within 60 feet as per the *hallucinatory terrain* spell
+
+**Emotional Resonance (Recharge 5-6).** All creatures within 60 feet experience the collective emotions of the Singers' ancient civilization. Each creature must make a DC 18 Wisdom saving throw. On failure: 27 (6d8) psychic damage and the creature's emotional state changes to match the Singers (usually profound melancholy mixed with transcendent joy). On success: Half damage and no emotional change.
+
+**Transcendence Offer (1/Day).** The Singers invite a willing creature within 30 feet to join their collective consciousness. The target must make a DC 20 Charisma saving throw. On failure, they become part of the collective, gaining the Singers' knowledge but losing individual identity. This effect can only be reversed by *wish* or similar magic.
+
+#### Legendary Actions (3 per turn)
+**Move.** The Singers move up to their fly speed.
+**Harmonic Pulse.** Each creature within 30 feet must succeed on a DC 16 Constitution saving throw or take 7 (2d6) thunder damage.
+**Cast Spell (Costs 2 Actions).** The Singers cast a spell of 3rd level or lower.
+**Reality Chord (Costs 3 Actions).** The Singers perform a reality-altering musical phrase, functioning as a 5th level spell of their choice.
+
+#### Spellcasting
+The Singers are 15th-level spellcasters. Their spellcasting ability is Charisma (spell save DC 22, +14 to hit with spell attacks). They know the following spells:
+- **Cantrips (at will):** *mage hand*, *minor illusion*, *prestidigitation*, *thaumaturgy*
+- **1st level (4 slots):** *charm person*, *comprehend languages*, *cure wounds*
+- **2nd level (3 slots):** *detect thoughts*, *suggestion*, *zone of truth*
+- **3rd level (3 slots):** *counterspell*, *hypnotic pattern*, *sending*
+- **4th level (3 slots):** *confusion*, *greater invisibility*, *polymorph*
+- **5th level (3 slots):** *dominate person*, *modify memory*, *scrying*
+- **6th level (1 slot):** *mass suggestion*, *otto's irresistible dance*
+- **7th level (1 slot):** *plane shift*, *reverse gravity*
+- **8th level (1 slot):** *feeblemind*, *power word stun*
+
+**Tactics:** The Singers attempt to convert rather than destroy, using charm effects and transcendent visions to convince the party to join their collective willingly.
 
 ## Rewards
 
@@ -225,10 +282,18 @@ If negotiations go wrong, the Singers don't attack physically - they attempt to 
 - **Military Doctrine**: Integration of sonic warfare capabilities
 
 ## Connected Adventures
-- **[[The Archive of Unremembered Things]]**: Singers help recover lost musical traditions
-- **[[Time-Lost Delegate Chronus]]**: Temporal expertise becomes crucial for Singer communication
-- **[[The Seven Shards]]**: Singers reveal connection between crystals and ancient music
-- **[[Memory Farmers]]**: Ethical questions about musical vs. neural memory manipulation
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Singers help recover lost musical traditions
+- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus]]**: Temporal expertise becomes crucial for Singer communication
+- **[[02_Worldbuilding/Lore/The Seven Shards]]**: Singers reveal connection between crystals and ancient music
+- **[[02_Worldbuilding/Groups/Memory Farmers]]**: Ethical questions about musical vs. neural memory manipulation
+- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Singers' transcendence offers alternative to divine worship
+- **[[02_Worldbuilding/Groups/The Drowned Prophets]]**: Religious conflict over transcendence methods
+- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Competing visions of spiritual evolution
+- **[[02_Worldbuilding/Places/The Deepmind]]**: Connection between consciousness and oceanic depths
+- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Implications for dimensional stability
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Political response to post-physical entities
+- **[[02_Worldbuilding/Groups/The Purist Coalition]]**: Opposition to non-human consciousness forms
+- **[[02_Worldbuilding/Lore/Crystal Corruption]]**: How transcendence interacts with existing magical phenomena
 
 ## DM Notes
 

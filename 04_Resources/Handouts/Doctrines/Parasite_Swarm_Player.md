@@ -1,0 +1,23 @@
+---
+title: Player Handout — Parasite Swarm Doctrine
+type: handout
+status: complete
+audience: player
+tags: [handout, doctrine]
+created: 2025-08-11
+---
+
+# Parasite Swarm
+
+How it feels
+- Living gear, boarding tubes, biohazard drills
+
+What changes in travel
+- More boarding actions; infections are a risk
+
+Crew tips
+- Medics and engineers stay sharp; fire cleanses
+- Marines protect vents and intakes
+
+Risks
+- The ship may want what the swarm wants

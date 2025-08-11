@@ -1,10 +1,10 @@
 {
   "openai": {
     "api_key": "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",
-    "model": "gpt-4",
-    "dalle_model": "dall-e-3",
-    "max_tokens": 2000,
-    "temperature": 0.7
+    "model": "gpt-4.1",
+    "dalle_model": "gpt-image-1",
+    "max_tokens": 4000,
+    "temperature": 0.6
   },
   "unsplash": {
     "access_key": "zW_6Dilkj rNL2HYiCzXz1tNSgiwVzP02Gv0718G9Q-A",

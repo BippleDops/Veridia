@@ -1,20 +1,17 @@
 ---
-tags: [npc, gambler, halfling, bard, tavern-keeper]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-challenge_rating: 6
-race: "Halfling"
-class: "Bard 10 / Rogue 3"
-alignment: "Chaotic Neutral"
-  - Category/NPC
-MyContainer: None
-MyCategory: NPCs
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.329467+00:00'
+created: '2025-08-11T13:08:50.329467+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Lucky Finn Dicetide
 
@@ -180,3 +177,9 @@ Located in the heart of [[Aquabyssos]]'s entertainment district, [[The Rolling T
 ---
 
 *"Every roll of the dice, every turn of the card, every spin of the wheel—they're all just conversations with fortune herself. And fortune, my friend, always has something interesting to say."* - Lucky Finn Dicetide
+
+
+## Connections
+
+- [[Captain Garrett Stormcutter]]
+- [[The Phosphor Markets]]

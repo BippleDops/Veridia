@@ -1,11 +1,21 @@
 ---
-tags: [location, palace, royal, government]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- government
+- location
+- palace
+- royal
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.360579+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Royal Palace
 
@@ -133,3 +143,11 @@ The Royal Palace provides rich opportunities for political intrigue, diplomatic 
 - [[Port Meridian - Market Square]] - Commercial center and trade hub
 - [[Coral Courts]] - Judicial system and legal proceedings
 - [[The Shadow Markets]] - Criminal underworld and black market activities
+
+
+## Connections
+
+- [[The Queen]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian Harbor]]
+- [[The Shadow Markets]]

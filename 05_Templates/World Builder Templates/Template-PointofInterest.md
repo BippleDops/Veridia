@@ -1,11 +1,20 @@
 ---
 tags:
-  - Category/PointofInterest
+- both
+- category/pointofinterest
+- draft
 MyContainer:
-  - "[[Jungle of Screams|Jungle of Screams]]"
+- '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Encounter
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:47.011044+00:00'
+created: '2025-08-11T13:08:47.011044+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 
@@ -166,7 +175,7 @@ This is inside
 - [ ] Recover the journal. 
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", questStatus AS "Status", questGiver AS "Quest Giver"
+TABLE WITHOUT ID link(file.name) AC "Name", questStatus AC "Status", questGiver AC "Quest Giver"
 FROM "02_Worldbuilding/Quests"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
@@ -177,7 +186,7 @@ SORT file.name ASC
 `BUTTON[button_person]`  The following people are associated with this location.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender", Connected_Groups AS "Associated Group"
+TABLE WITHOUT ID link(file.name) AC "Name", char_race AC "Race", char_gender AC "Gender", Connected_Groups AC "Associated Group"
 FROM "02_Worldbuilding/People"
 WHERE contains(char_status, "Alive")
 WHERE contains(MyContainer, this.file.link)
@@ -189,7 +198,7 @@ SORT file.name ASC
 
 Lists any mentioned monsters in this note.
 ```dataview
-TABLE WITHOUT ID link(file.name) AS Monster
+TABLE WITHOUT ID link(file.name) AC Monster
 WHERE contains(file.inlinks, this.file.link) AND SourceType = "Bestiary"
 ```
 

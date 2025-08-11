@@ -1,11 +1,21 @@
 ---
-tags: [rules, magical-mechanics, sonic-magic, system]
-status: "complete"
-world: "Aquabyssos"
-type: "rules"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- magical-mechanics
+- rules
+- sonic-magic
+- system
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.244419+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Scream Saturation Rules
 
@@ -144,3 +154,8 @@ These rules apply in areas where intense sonic magic has been used repeatedly or
 Use saturation rules to create interesting tactical challenges and environmental puzzles. Don't apply them so frequently that sonic magic becomes useless, but use them to force creative problem-solving and strategic resource management.
 
 Consider the narrative impact - areas of supernatural silence can be eerie and memorable, while the buildup to saturation creates tension around the use of powerful sonic magic.
+
+
+## Connections
+
+- [[Screaming Gardens]]

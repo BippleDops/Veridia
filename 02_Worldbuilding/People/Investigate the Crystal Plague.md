@@ -1,15 +1,26 @@
 ---
-tags: [quest, investigation, plague, crystal, aethermoor, complete]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quests
+tags:
+- aethermoor
+- complete
+- crystal
+- investigation
+- plague
+- quest
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Investigation
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.636926+00:00'
+cr: '8'
 ---
+
+
+
+
 
 # Investigate the Crystal Plague
 
@@ -64,3 +75,39 @@ The plague originates from experiments with Far Realm crystals that escaped cont
 
 ## DM Notes
 Balance body horror with investigative mystery. The conscious crystal victims create moral dilemmas about cure vs. acceptance. Use quarantine zones for tense infiltration scenes.
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

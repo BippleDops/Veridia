@@ -1,13 +1,21 @@
 ---
 title: Complete Faction Guide
-type: player_resource
+type: Lore
 status: complete
 tags:
-  - player-resource
-  - factions
-  - politics
+- both
+- complete
+- factions
+- player-resource
+- player_resource
+- politics
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.036270+00:00'
 ---
+
+
+
 
 # Complete Faction Guide
 *Navigate the Treacherous Waters of Politics*
@@ -768,3 +776,7 @@ Various cults worshipping the ancient entity in the deepest trenches. Each inter
 ---
 
 *In the depths and heights, loyalty is currency, betrayal is common, and today's ally is tomorrow's enemy. Choose your factions wisely—but not too wisely. The only constant is change, and the tide turns for no one.*
+
+## Connections
+
+- [[Quick_Start_Guide]]

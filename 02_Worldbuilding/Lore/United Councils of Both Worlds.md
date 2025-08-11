@@ -1,17 +1,31 @@
 ---
-tags: [organization, government, alliance, both-worlds, diplomacy, cooperation, aquabyssos, aethermoor, joint-council]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- alliance
+- aquabyssos
+- both-worlds
+- complete
+- cooperation
+- diplomacy
+- government
+- joint-council
+- lore
+- organization
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-organization_type: "International Alliance"
-scope: "Both Worlds"
-authority: "Diplomatic/Advisory"
-current_status: "Active"
-leadership: "Joint Council"
+updated: '2025-08-11T13:08:48.194777+00:00'
+organization_type: International Alliance
+scope: Both Worlds
+authority: Diplomatic/Advisory
+current_status: Active
+leadership: Joint Council
 ---
+
+
+
 
 # United Councils of Both Worlds
 *The Alliance Between Surface and Depths*
@@ -317,3 +331,23 @@ Information gathering and intelligence operations related to threats against the
 - [[02_Worldbuilding/Lore/Parliament of Echoes]] - Aquabyssos governing body participating in the alliance
 - [[02_Worldbuilding/Lore/Hidden Sanctuary]] - Aethermoor resistance organization with alliance connections
 - [[02_Worldbuilding/Lore/High Diplomat Coral Bridgewater]] - Chief ambassador of the United Councils
+
+
+## Connections
+
+- [[Campaign Epilogues]]
+- [[Campaign World]]
+- [[Citizens of Meridian]]
+- [[Crimson Hand Strike Team]]
+- [[Crystal Festival]]
+- [[Eastern Kingdom Fleet]]
+- [[Lamplight Alley]]
+- [[Magic Items]]
+- [[Resonance Chamber]]
+- [[Save Both Civilizations]]
+- [[Shattered Isles]]
+- [[Surface Dweller Adaptation]]
+- [[Thalassius the Wise]]
+- [[The Possessed Queen]]
+- [[Envoy Blackwater Jr.]]
+- [[Treaty of the Depths]]

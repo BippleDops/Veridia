@@ -1,12 +1,21 @@
 ---
-tags: [lore, sentinel, guardian, dawn-echo, magical-construct]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- dawn-echo
+- guardian
+- lore
+- magical-construct
+- sentinel
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.794417+00:00'
 ---
+
+
 
 # Dawn-Echo Sentinel
 
@@ -38,3 +47,9 @@ Active from dawn to dusk, dormant during nighttime hours.
 
 ## Campaign Use
 Provides area defense, patrol encounters, and technological mystery elements.
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Crystal Festival]]

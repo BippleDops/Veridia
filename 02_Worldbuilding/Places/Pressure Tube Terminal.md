@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, terminal, transportation, pressure, tubes, hub, travel, infrastructure, central]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Transportation Hub"
-parent_location: "Abyssos Prime"
-depth: "3,200 feet"
-danger_level: 2
-population: "~300 staff, travelers, merchants, and officials"
-government: "Central Transit Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.731399+00:00'
+created: '2025-08-11T13:08:50.731399+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Pressure Tube Terminal
 *Gateway to the Underwater Realm*
@@ -178,3 +173,12 @@ Authorization to review transportation system technical specifications.
 **Political Center**: Terminal politics and operations intersect with kingdom-wide governmental and diplomatic activities.
 **Economic Focus**: Commercial activities provide opportunities for trade-based adventures and economic manipulation plots.
 **Emergency Staging**: Terminal facilities provide resources and coordination for crisis response adventures.
+
+
+## Connections
+
+- [[Citizens of Meridian]]
+- [[Pressure Tube Operator Krill]]
+- [[Merchant Prince Akula]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]

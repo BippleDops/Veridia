@@ -1,27 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.996424+00:00'
+created: '2025-08-11T13:08:49.996424+00:00'
+status: draft
 tags:
-  - npc
-  - faction_leader
-  - emperor
-  - aquabyssos
-  - loyalist
-  - imperial_restoration
-  - political_leader
+- both
+- draft
 type: NPC
-race: Human (Depth-Adapted)
-class: Noble/Sorcerer
-level: 16
-alignment: Lawful Neutral
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "[[02_Worldbuilding/Groups/The Crown]]"
-status: "complete"
-created: 2025-08-08
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # Unite the Emperor
 *Lord Commander Octavius Thalassion VII, The Scattered Crown, The Last Emperor's Voice*

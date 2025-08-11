@@ -1,14 +1,29 @@
 ---
-tags: [location, dungeon, corrupted, verdant-reach, mid-level-threat]
+tags:
+- active---category/place
+- both
+- corrupted
+- dungeon
+- location
+- mid-level-threat
+- verdant-reach
 region: The Verdant Reach
-type: Dungeon
+type: Location
 danger: High
-status: Active
-  - Category/Place
+status: Active - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.063995+00:00'
+created: '2025-08-11T13:08:51.063995+00:00'
+danger_level: High
 ---
+
+
+
+
+
 
 # The Synthesis Gardens
 
@@ -124,3 +139,34 @@ An underground chamber with artificial moonlight that accelerates growth. One ho
 - Stop the root network from reaching [[Ironhold]]
 - Infiltrate a Withered Court gathering
 - Prevent alliance between Sorrow-Root and [[02_Worldbuilding/People/Ambassador Korvin Blacktide]]
+- [[Quest - The Root Network]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

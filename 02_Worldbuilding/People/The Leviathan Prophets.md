@@ -1,15 +1,24 @@
 ---
-tags: [organization, cult, prophecy, leviathan, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- cult
+- leviathan
+- organization
+- prophecy
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.640913+00:00'
 ---
+
+
+
 
 # The Leviathan Prophets
 
@@ -89,3 +98,38 @@ Members come from all social classes, united by fascination with prophecy and de
 
 ## DM Notes
 The Leviathan Prophets work well as mysterious quest givers whose cryptic guidance leads to adventure. Their prophecies can foreshadow campaign events or provide plot hooks. Use them to add mystical elements to political intrigue, while their potential accuracy makes them valuable but potentially dangerous allies.
+
+
+## Connections
+
+- [[Oracle]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

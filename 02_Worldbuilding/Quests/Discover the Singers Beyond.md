@@ -1,14 +1,25 @@
 ---
-tags: [quest, mystery, exploration, first-contact, music, transcendence, singers-beyond]
+tags:
+- aquabyssos
+- complete
+- exploration
+- first-contact
+- music
+- mystery
+- quest
+- singers-beyond
+- transcendence
 status: complete
 world: Aquabyssos
-type: quest
+type: Lore
 level: 7-11
 duration: 3-4 sessions
 threat_level: high
 created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.030609+00:00'
 ---
+
 
 # Discover the Singers Beyond
 

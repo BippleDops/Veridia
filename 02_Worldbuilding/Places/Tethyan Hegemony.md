@@ -1,44 +1,17 @@
 ---
-tags: [location, aquabyssos, nation, political, ancient, underwater]
-status: "complete"
-world: "Aquabyssos"
-type: "Underwater Nation"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Ancient Seafloor Empire"
-parent_location: "[[Aquabyssos]]"
-sub_locations:
-  - "[[New Tethys]]"
-  - "[[Coral Courts]]"
-  - "[[The Eternal Senate]]"
-  - "[[Deep Tide Academies]]"
-  - "[[Pressure Forge Districts]]"
-government: "Constitutional Maritime Republic"
-ruler: "[[High Chancellor Nerissa Deepcurrent]]"
-population: 8500000
-danger_level: 6
-depth: "500-2000 feet"
-pressure_effects: "Moderate"
-temporal_stability: 92
-shadow_density: "Low"
-services:
-  - "Political Administration"
-  - "Ancient Libraries"
-  - "Diplomatic Corps"
-  - "Trade Regulation"
-  - "Naval Academy"
-notable_npcs:
-  - "[[High Chancellor Nerissa Deepcurrent]]"
-  - "[[Admiral Thalassa Stormcurrent]]"
-  - "[[Chief Diplomat Corallion Reefwright]]"
-  - "[[Ancient Historian Memento]]"
-current_state: "Stable democratic governance with growing pressure tensions"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.558121+00:00'
+created: '2025-08-11T13:08:50.558121+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Tethyan Hegemony - The First Democracy of the Deep
 *Where Ancient Wisdom Meets Democratic Ideals*
@@ -543,3 +516,11 @@ The Tethyan Hegemony stands as [[Aquabyssos]]'s oldest and most stable underwate
 - [[The Great Democratic Renewal]] - Current reform movement
 - [[Democratic Technology Development]] - Technological innovation
 - [[Kelp Forest Constituencies]] - Environmental democratic movement
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[New Tethys]]
+- [[The Bathyal Palace]]
+- [[The Mourning Depths]]

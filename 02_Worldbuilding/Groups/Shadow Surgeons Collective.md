@@ -1,19 +1,23 @@
 ---
 tags:
-  - faction
-  - medical-organization
-  - criminal-group
-  - shadow-magic
-  - aquabyssos
+- aquabyssos
+- complete
+- criminal-group
+- faction
+- medical-organization
+- shadow-magic
 status: complete
 world: Aquabyssos
-type: faction
+type: Group
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:51.430893+00:00'
 category: Group
 obsidianUIMode: preview
 ---
+
+
+
 
 # Shadow Surgeons Collective
 
@@ -115,7 +119,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 #### Dr. Void Nultis (Surgery Division Chief)
 *Medium humanoid (human), chaotic neutral*
-**AC** 15 (Surgeon's Robes) **HP** 112 (15d8 + 45) **Speed** 30 ft.
+**AS** 15 (Surgeon's Robes) **HP** 112 (15d8 + 45) **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 16 (+3) **INT** 20 (+5) **WIS** 14 (+2) **CHA** 12 (+1)
 **Saving Throws** Int +11, Wis +8
 **Skills** Medicine +17, Arcana +11, Investigation +11
@@ -131,7 +135,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 #### Surgeon Echo (Processing Division Chief)  
 *Medium humanoid (half-elf), lawful evil*
-**AC** 14 (Natural Armor) **HP** 97 (15d8 + 30) **Speed** 30 ft.
+**AS** 14 (Natural Armor) **HP** 97 (15d8 + 30) **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 18 (+4) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 15 (+2)
 **Saving Throws** Int +10, Cha +8
 **Skills** Deception +14, Medicine +9, Sleight of Hand +10
@@ -147,7 +151,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 #### The Memory Thief (Collection Division Chief)
 *Medium humanoid (variant human), chaotic evil*  
-**AC** 16 (Studded Leather +1) **HP** 127 (15d8 + 60) **Speed** 40 ft.
+**AS** 16 (Studded Leather +1) **HP** 127 (15d8 + 60) **Speed** 40 ft.
 **STR** 12 (+1) **DEX** 20 (+5) **CON** 18 (+4) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 14 (+2)
 **Saving Throws** Dex +11, Wis +10
 **Skills** Stealth +17, Sleight of Hand +11, Perception +10, Insight +10
@@ -363,3 +367,20 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 
 > [!danger] DM Secret
 > The Silhouette Surgeon Prime is actually three different people sharing a single identity through memory synchronization. They take turns being "Prime" and have divided their original personalities among themselves to better run the organization. None of them remembers being a complete individual, and discovering this truth could either destroy the Collective or make them even more dangerous as they seek to become whole again.
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Shadow Merchant Riptide]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Campaign_Relationship_Matrix]]

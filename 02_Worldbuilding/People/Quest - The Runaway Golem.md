@@ -1,15 +1,26 @@
 ---
-tags: [quest, golem, construct, runaway, aethermoor, complete]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quests
+tags:
+- aethermoor
+- complete
+- construct
+- golem
+- quest
+- runaway
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.944441+00:00'
+cr: '5'
 ---
+
+
+
+
 
 # Quest - The Runaway Golem
 
@@ -50,3 +61,38 @@ Does a sentient construct have rights? What constitutes slavery vs. service?
 
 ## DM Notes
 Explore themes of consciousness, freedom, and creator responsibility. Faithful should be sympathetic character seeking understanding, not monster to defeat.
+
+
+## Connections
+
+- [[Master Artificer Korvin Gearwright]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

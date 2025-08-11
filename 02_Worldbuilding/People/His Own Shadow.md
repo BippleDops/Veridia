@@ -1,21 +1,16 @@
 ---
-tags: [npc, shadow-double, doppelganger, aquabyssos, reflection, identity]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Living Shadow"
-class: "Rogue (Mastermind)/Warlock"
-level: 10
-faction: "Shadow Parliament"
-location: "Reflection District"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.838357+00:00'
+created: '2025-08-11T13:08:49.838357+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Umbra Mirrorbane, His Own Shadow
 
@@ -150,3 +145,8 @@ He operates from the Reflection District, a maze-like area where mirrors line ev
 - "The mirror doesn't lie—it simply shows uncomfortable truths..."
 
 **Mannerisms**: Unconsciously mimics the mannerisms of people around him, often blending multiple personalities in subtle ways. He avoids looking directly at mirrors unless necessary, and shadows near him behave oddly, sometimes moving independently or failing to match his movements exactly.
+
+
+## Connections
+
+- [[Senator_Glaucus_Brain]]

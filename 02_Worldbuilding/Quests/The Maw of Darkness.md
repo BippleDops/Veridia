@@ -1,15 +1,24 @@
 ---
-tags: [complete, horror, exploration, cosmic-threat, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- aquabyssos
+- complete
+- cosmic-threat
+- exploration
+- horror
+- quest
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.066803+00:00'
 ---
+
+
+
 
 # The Maw of Darkness
 
@@ -165,7 +174,7 @@ Traditional combat is impossible because:
 - **Forgotten Guards**
 **CR 7** (2,900 XP)  
 **Medium construct, neutral**
-**AC** 16 (Natural Armor), **HP** 68 (8d8 + 32), **Speed** 30 ft.
+**AS** 16 (Natural Armor), **HP** 68 (8d8 + 32), **Speed** 30 ft.
 **STR** 18 (+4) **DEX** 14 (+2) **CON** 18 (+4) **INT** 3 (-4) **WIS** 10 (+0) **CHA** 1 (-5)
 **Skills** Perception +3  
 **Damage Resistances** Necrotic, Psychic
@@ -182,7 +191,7 @@ Traditional combat is impossible because:
 **Memory Thieves**
 **CR 5** (1,800 XP)  
 **Medium humanoid (various), chaotic evil**
-**AC** 14 (Leather Armor), **HP** 58 (9d8 + 18), **Speed** 30 ft.
+**AS** 14 (Leather Armor), **HP** 58 (9d8 + 18), **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 18 (+4) **CON** 14 (+2) **INT** 16 (+3) **WIS** 12 (+1) **CHA** 14 (+2)
 **Skills** Deception +5, Sleight of Hand +7, Stealth +7  
 **Senses** passive Perception 11
@@ -197,7 +206,7 @@ Traditional combat is impossible because:
 **Void Cultists**
 **CR 4** (1,100 XP)  
 **Medium humanoid (human), chaotic evil**
-**AC** 12 (Unarmored Defense), **HP** 45 (7d8 + 14), **Speed** 30 ft.
+**AS** 12 (Unarmored Defense), **HP** 45 (7d8 + 14), **Speed** 30 ft.
 **STR** 11 (+0) **DEX** 14 (+2) **CON** 15 (+2) **INT** 10 (+0) **WIS** 8 (-1) **CHA** 16 (+3)
 **Skills** Deception +5, Religion +2  
 **Damage Resistances** Necrotic
@@ -215,7 +224,7 @@ Traditional combat is impossible because:
 **Void-Touched Remnant**
 **CR 9** (5,000 XP)  
 **Medium humanoid (partially erased), chaotic neutral**
-**AC** 15 (Natural Armor), **HP** 112 (15d8 + 45), **Speed** 30 ft., fly 60 ft. (hover)
+**AS** 15 (Natural Armor), **HP** 112 (15d8 + 45), **Speed** 30 ft., fly 60 ft. (hover)
 **STR** 14 (+2) **DEX** 20 (+5) **CON** 16 (+3) **INT** 8 (-1) **WIS** 12 (+1) **CHA** 18 (+4)
 **Saving Throws** Dex +9, Cha +8  
 **Skills** Stealth +9  
@@ -350,3 +359,14 @@ Connected Adventures
 
 > [!danger] DM Secret
 > The Maw of Darkness is not truly defeatable - it can only be delayed. Every solution the party implements will eventually fail, but each buys decades or centuries of time. The real victory is recognizing that some threats require generational responses rather than heroic solutions, and establishing systems that future heroes can use to continue the fight.
+
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]
+- [[Pearl_Harbor_City]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Oracle of the Sundered Peaks]]
+- [[The_Second_Rising]]

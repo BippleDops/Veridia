@@ -1,6 +1,10 @@
 ---
-tags: [npc, Category/People]
-aliases: [Vex Shadowthorn]
+tags:
+- both
+- category/people
+- draft
+- npc
+aliases: []
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -9,7 +13,15 @@ initiative: 18
 current_hp: 45
 max_hp: 68
 ac: 16
+world: Both
+updated: '2025-08-11T13:08:49.773563+00:00'
+created: '2025-08-11T13:08:49.773563+00:00'
+status: draft
+type: NPC
 ---
+
+
+
 
 # Vex Shadowthorn
 

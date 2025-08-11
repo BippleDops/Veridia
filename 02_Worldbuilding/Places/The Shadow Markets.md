@@ -1,19 +1,28 @@
 ---
-tags: [location, black_market, criminal, trading, underground, aquabyssos, conspiracy]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-security_level: "high"
-access: "members_only"
-danger_level: "high"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- black_market
+- complete
+- conspiracy
+- criminal
+- location
+- trading
+- underground
+status: complete
+world: Aquabyssos
+type: Location
+security_level: high
+access: members_only
+danger_level: High
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.361696+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # The Shadow Markets
 
@@ -507,3 +516,22 @@ Some items traded in the Markets appear to come from alternate versions of reali
 ---
 
 *The Shadow Markets represent the pinnacle of organized crime - a parallel society that provides order, opportunity, and community for those who exist outside the boundaries of legitimate civilization. Here, in the darkness beneath the city's conscience, business thrives according to its own moral code.*
+
+
+## Connections
+
+- [[Deep Mother]]
+- [[The Great Convergence Prophecies]]
+- [[Timeline of the Drowning]]
+- [[Deepmind Conspiracy]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian Harbor]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[The Royal Palace]]
+- [[Vote Vaults]]
+- [[Smuggler]]
+- [[Traveling Merchant Finn]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]

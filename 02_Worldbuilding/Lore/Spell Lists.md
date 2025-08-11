@@ -1,17 +1,31 @@
 ---
-tags: [lore, spell-lists, magic-systems, aquabyssos, aethermoor, underwater-magic, surface-magic, comprehensive-catalog, spellcasting]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- complete
+- comprehensive-catalog
+- lore
+- magic-systems
+- spell-lists
+- spellcasting
+- surface-magic
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-magical_focus: "Comprehensive Spell Catalog"
-scope: "Cross-Realm Magic Systems"
-application: "Spellcaster Reference"
-complexity: "All Levels"
-practitioners: "All Magical Traditions"
+updated: '2025-08-11T13:08:49.510396+00:00'
+magical_focus: Comprehensive Spell Catalog
+scope: Cross-Realm Magic Systems
+application: Spellcaster Reference
+complexity: All Levels
+practitioners: All Magical Traditions
 ---
+
+
+
 
 # Spell Lists
 *Comprehensive Catalog of Cross-Realm Magic*
@@ -606,3 +620,8 @@ Magic that is forbidden due to dangerous consequences or corrupted nature.
 - [[02_Worldbuilding/Lore/Resonance Chamber]] - Facility for researching harmonic and frequency magic
 - [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical development center
 - [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface magical research hub
+
+
+## Connections
+
+- [[Templater Advanced]]

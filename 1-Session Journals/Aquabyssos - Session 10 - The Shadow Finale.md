@@ -1,32 +1,15 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, finale]
-session_number: 10
-title: "The Shadow Finale"
-date_played: 
-location: [[Singer Consciousness]]
-depth: "Beyond Measurement"
-npcs_featured:
-  - [[The Singer Beyond]]
-  - [[All Major NPCs]]
-  - [[The Deep Mother]]
-  - [[Party Shadows]]
-status: "planned"
-party_level: 8-9
-estimated_time: "4-5 hours"
-themes:
-  - Cosmic horror resolution
-  - Identity merger
-  - Sacrifice and redemption
-  - Teaching empathy to a god
-quests_advanced:
-  - [[The Final Choice]]
-  - [[02_Worldbuilding/Lore/Save-Transform Reality|Save/Transform Reality]]
-- [[02_Worldbuilding/Lore/Determine Aquabyssos|Determine Aquabyssos's Fate]]
-type: Session Journal
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.998676+00:00'
+created: '2025-08-11T13:08:46.998676+00:00'
+status: draft
+tags:
+- aquabyssos
+- draft
+type: Lore
 ---
+
+
 
 # Session 10: The Shadow Finale
 ## Inside the Mind of God
@@ -107,13 +90,13 @@ The party enters the Singer's consciousness to find themselves in a space that d
 ## 🗡️ Final Encounters
 
 ### The Singer's Antibodies
-- **Void Spawns**: AC 18, HP 75 each
+- **Void Spawns**: AS 18, HP 75 each
 - **Emotion Eaters**: Drain feelings as attacks
 - **Reality Fragments**: Pieces of consumed worlds
 - **Purpose**: Singer's automatic defenses
 
 ### The Singer Beyond (If Combat)
-- **AC** 25, **HP** 500
+- **AS** 25, **HP** 500
 - **Mythic Entity** (Second phase at 0 HP)
 - **Reality Alteration**: Changes rules each round
 - **Emotional Damage**: Only hurt by genuine feelings

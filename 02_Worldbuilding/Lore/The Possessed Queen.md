@@ -1,17 +1,30 @@
 ---
-tags: [person, ruler, corruption, possession, aethermoor, crystal-influence, tragedy, political-crisis, campaign-threat, major-npc]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- campaign-threat
+- complete
+- corruption
+- crystal-influence
+- lore
+- major-npc
+- person
+- political-crisis
+- possession
+- ruler
+- tragedy
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-person_type: "Corrupted Ruler"
-scope: "National Significance"
-threat_level: "Extreme"
-status_condition: "Crystal Possessed"
-political_impact: "Constitutional Crisis"
+updated: '2025-08-11T13:08:48.954740+00:00'
+person_type: Corrupted Ruler
+scope: National Significance
+threat_level: Extreme
+status_condition: Crystal Possessed
+political_impact: Constitutional Crisis
 ---
+
 
 # The Possessed Queen
 *The Crystal-Touched Sovereign of Aethermoor*

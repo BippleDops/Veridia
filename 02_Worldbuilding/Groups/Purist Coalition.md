@@ -1,22 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.192518+00:00'
+created: '2025-08-11T13:08:51.192518+00:00'
+status: draft
 tags:
-  - faction
-  - opposition
-  - religious
-  - political
-type: Faction
-alignment: Lawful Neutral (extremist elements)
-headquarters: "[[02_Worldbuilding/Places/The Verdant Reach]]"
-leader: "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
-status: "complete"
-power_level: Significant
-created: 2024-12-20
-image: "04_Resources/Assets/Factions/purist_coalition.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Purist Coalition
 *Return to the Time Before Corruption*
@@ -533,3 +527,21 @@ Trained soldiers dedicated to anti-crystal warfare:
 - **The Purification Crusade** - Military campaign against crystal forces
 - **The Underground Railroad** - Helping corruption victims escape
 - **The Succession Crisis** - Leadership change within Coalition
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow War Coalition]]
+- [[Discover Marina's Truth]]
+- [[Commander Thrace Ironwood]]
+- [[Emperor Thalassius the Wise]]
+- [[Lady Jade Clawgrip]]
+- [[Cathedral of Light]]
+- [[Crystal Gardens]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,14 +1,26 @@
 ---
-tags: [quest, investigation, diplomatic, corruption, moral-choice]
+tags:
+- available
+- both
+- corruption
+- diplomatic
+- investigation
+- investigation/diplomacy
+- moral-choice
+- quest
 level: 7-9
-type: Investigation/Diplomacy
+type: Lore
 status: Available
-reward: Major
-  - Category/Quest
+reward: Major - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.043661+00:00'
+created: '2025-08-11T13:08:50.043661+00:00'
 ---
+
+
 
 # The Tide Rises
 

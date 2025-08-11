@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aquabyssos, deep-mother, pressure-angel, divine-servant, guardian]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Pressure Angel"
-affiliation: "[[The Deep Mother]] (Direct Service)"
-age: "Timeless (exists outside normal temporal flow)"
-race: "Pressure Angel (Divine Being)"
-location: "[[02_Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- divine-servant
+- guardian
+- npc
+- person
+- pressure-angel
+status: complete
+world: Aquabyssos
+type: NPC
+role: Pressure Angel
+affiliation: '[[The Deep Mother]] (Direct Service)'
+age: Timeless (exists outside normal temporal flow)
+race: Pressure Angel (Divine Being)
+location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.928227+00:00'
 ---
+
+
 
 # Pressure Angel Benthia
 *Guardian of the Depths, Herald of Divine Weight*
@@ -472,3 +483,10 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 - **Social Encounters**: Otherworldly perspective, speaks in cosmic concepts, demands absolute honesty
 - **Character Development**: Her trials should provide permanent character growth and spiritual insights
 - **Campaign Integration**: Her involvement signals cosmic-level consequences for party actions
+
+## Connections
+
+- [[Memory Merchant Valeria Siltweave]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]

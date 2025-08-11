@@ -1,21 +1,29 @@
 ---
-tags: [quest, aethermoor, political, espionage, investigation, major-quest]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-quest_type: "Political Intrigue"
-level_range: "5-9"
-quest_giver: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-location: "[[Lumengarde City]] and surrounding nations"
-rewards: "3000 gp, Diplomatic Immunity, Noble Favor"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- espionage
+- investigation
+- major-quest
+- political
+- quest
+status: complete
+world: Aethermoor
+type: Lore
+quest_type: Political Intrigue
+level_range: 5-9
+quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+location: '[[Lumengarde City]] and surrounding nations'
+rewards: 3000 gp, Diplomatic Immunity, Noble Favor
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Quest
+updated: '2025-08-11T13:08:50.078880+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Quest - Foreign Interests
 *Spies in the Crystal Court, The Ambassador's Game, Shadows Across Borders*
@@ -402,3 +410,9 @@ Multiple foreign powers have sent "diplomatic missions" to [[02_Worldbuilding/Pl
 ---
 
 *"In the game of nations, every smile hides a blade, every gift conceals poison, and every alliance lasts exactly as long as its usefulness."*
+
+
+## Connections
+
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - The Crystal Festival]]

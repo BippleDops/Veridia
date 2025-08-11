@@ -1,24 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.011019+00:00'
+created: '2025-08-11T13:08:50.011019+00:00'
+status: draft
 tags:
-  - npc
-  - explorer
-  - missing
-  - quest-giver
+- both
+- draft
 type: NPC
-race: Human
-class: Ranger/Explorer
-level: 9
-alignment: Neutral Good
-location: Missing (Last: [[02_Worldbuilding/Places/The Crystalline Wastes]])
-faction: Independent
-status: Missing
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/thaddeus_blackwater.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Captain Thaddeus Blackwater
 *The Lost Explorer, Seeker of Truth*
@@ -212,3 +204,8 @@ Changes everything:
 - Provides Shard locations
 - Sparks faction conflicts
 - Enables endgame
+
+
+## Connections
+
+- [[The Azure Prophet Nerissa]]

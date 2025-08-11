@@ -1,26 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.609247+00:00'
+created: '2025-08-11T13:08:49.609247+00:00'
+status: draft
 tags:
-  - npc
-  - criminal
-  - shadow_touched
-  - information_broker
-  - aquabyssos
-  - mysterious
+- both
+- draft
 type: NPC
-race: Human (Shadow-bonded)
-class: Rogue/Warlock
-level: 11
-alignment: Neutral Evil
-location: "[[02_Worldbuilding/Places/The Shadow Markets]]"
-faction: "[[02_Worldbuilding/Groups/Shadow Conspiracy]]"
-status: Alive (Shadow-bonded)
-created: 2025-08-08
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Shadow Broker Mist
 *The Whisper in the Dark, She Who Sells Secrets, The Living Shadow*
@@ -175,3 +165,12 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - May have crucial information
 - [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Competing for same secrets
 - [[02_Worldbuilding/Quests/Depths of Whispers]] - Her shadow network is involved
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[The Bathyal Palace]]
+- [[Smuggler's Gambit]]

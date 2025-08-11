@@ -1,15 +1,26 @@
 ---
-tags: [quest, betrayal, espionage, political, aethermoor, complete]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quests
+tags:
+- aethermoor
+- betrayal
+- complete
+- espionage
+- political
+- quest
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.003519+00:00'
+cr: '6'
 ---
+
+
+
+
 
 # Quest - The Traitor Within
 
@@ -102,3 +113,38 @@ Recent military disasters suggest inside information reached enemy hands. Three 
 
 ## DM Notes
 This quest explores themes of loyalty, family, and moral complexity in wartime. The investigation should reveal sympathetic motivation behind betrayal, forcing players to balance justice with mercy. Use false leads and red herrings to maintain suspense while building toward emotional climax when truth emerges.
+
+
+## Connections
+
+- [[Lord Commander Gareth Steelborn]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

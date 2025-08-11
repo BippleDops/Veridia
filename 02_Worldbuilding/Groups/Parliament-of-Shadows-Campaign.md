@@ -1,23 +1,35 @@
 ---
-tags: [faction, group, political-campaign, shadow-representation, inter-realm-politics, cross-world, governance]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "faction"
-faction_type: "Cross-Realm Political Movement"
-alignment: "Lawful Good (Democratic Representation)"
-headquarters: "[[The Inter-Realm Council Chambers]]"
-leader: "[[Campaign Director Umbra Bridgeworth]]"
-members: "~150 campaign organizers, ~800 volunteer activists, ~5000 supporters"
-influence: "Cross-Realm Politics, Shadow Community Advocacy"
-purpose: "Establish political representation for shadow-touched individuals across both realms"
-created_by: "auto-stub"
+tags:
+- both-aethermoor-&-aquabyssos
+- complete
+- cross-world
+- faction
+- governance
+- group
+- inter-realm-politics
+- political-campaign
+- shadow-representation
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Group
+faction_type: Cross-Realm Political Movement
+alignment: Lawful Good (Democratic Representation)
+headquarters: '[[The Inter-Realm Council Chambers]]'
+leader: '[[Campaign Director Umbra Bridgeworth]]'
+members: ~150 campaign organizers, ~800 volunteer activists, ~5000 supporters
+influence: Cross-Realm Politics, Shadow Community Advocacy
+purpose: Establish political representation for shadow-touched individuals across
+  both realms
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Inter-Realm Politics
 MyCategory: Advocacy Campaign
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.276467+00:00'
 ---
+
+
 
 # Parliament-of-Shadows-Campaign
 *Voices for the Transformed, Bridges Between Worlds, Democracy for All Depths*

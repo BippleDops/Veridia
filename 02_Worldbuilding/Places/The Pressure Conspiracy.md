@@ -1,16 +1,25 @@
 ---
-tags: [location, conspiracy, political-intrigue, aquabyssos, secret-society, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- location
+- political-intrigue
+- secret-society
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.746460+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # The Pressure Conspiracy
 
@@ -85,7 +94,7 @@ The primary leader, believed to be a high-ranking member of the [[Abyssal Court]
 
 **The Deepest Current (CR 15)**
 *Medium humanoid (any race), chaotic neutral*
-- **AC** 18 (Natural Armor + Magical Protection)
+- **AS** 18 (Natural Armor + Magical Protection)
 - **HP** 195 (23d8 + 92)
 - **Speed** 30 ft., swim 60 ft.
 - **STR** 16 (+3), **DEX** 20 (+5), **CON** 18 (+4), **INT** 22 (+6), **WIS** 19 (+4), **CHA** 24 (+7)
@@ -445,3 +454,11 @@ Devices that create localized areas of extreme low pressure, causing explosive d
 Specialized underwater vehicles designed for rapid, stealthy transportation through ocean currents and pressure zones.
 
 The **Pressure Conspiracy** represents a complex web of political intrigue and revolutionary fervor that threatens to reshape the entire political landscape of [[Aquabyssos]], where the crushing weight of the depths serves as both obstacle and opportunity for those who dare to challenge the established order.
+
+
+## Connections
+
+- [[Pressure's End]]
+- [[Temporal Navigation]]
+- [[Depths of Whispers]]
+- [[The Whispering Expanse]]

@@ -1,23 +1,34 @@
 ---
-tags: [npc, aethermoor, shard-guardian, nature-touched, druid, ancient, immortal, growth, forest-bound]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-race: "Nature-Touched Elf (Transformed)"
-class: "Guardian/Druid/Shard-Keeper"
+tags:
+- aethermoor
+- ancient
+- complete
+- druid
+- forest-bound
+- growth
+- immortal
+- nature-touched
+- npc
+- shard-guardian
+status: complete
+world: Aethermoor
+type: NPC
+race: Nature-Touched Elf (Transformed)
+class: Guardian/Druid/Shard-Keeper
 level: 19
-alignment: "Neutral Good (Natural Balance)"
-location: "The Heart Grove, Whispering Wildlands"
-faction: "The Seven Shard Guardians"
-status_condition: "Active, Merged with Shard"
-created_by: "auto-stub"
+alignment: Neutral Good (Natural Balance)
+location: The Heart Grove, Whispering Wildlands
+faction: The Seven Shard Guardians
+status_condition: Active, Merged with Shard
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.958060+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Verdant Shard
 *The Green Heart, Guardian of Life's Song, The Growing Eternal*
@@ -483,3 +494,8 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 ---
 
 *"I traded my mortal heart for one that beats with every growing thing. Some days the rhythm is gentle as spring rain. Other days it pounds like roots breaking stone. But it never stops, and neither do I."*
+
+
+## Connections
+
+- [[Sorrow-Root Nightbloom]]

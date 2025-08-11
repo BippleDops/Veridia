@@ -1,18 +1,16 @@
 ---
-tags: [npc, leader, tethyan_hegemony, political]
-aliases: [Archon Saltweaver, The Glass Throne, Meredith]
-created: 2024-12-19
-image: "04_Resources/Assets/NPCs/meredith_saltweaver.jpg"
-level: 15
-class: "Wizard/Noble"
-race: "Partially Adapted Human"
-alignment: "Lawful Evil"
-status: "Alive"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.651323+00:00'
+created: '2025-08-11T13:08:49.651323+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Archon Meredith Saltweaver
 
@@ -99,3 +97,21 @@ Born to merchant family before the drowning's completion, Meredith witnessed the
 - Primary: [[02_Worldbuilding/Places/New Tethys]] - Crown Dome
 - Secondary: [[02_Worldbuilding/Places/The Bathyal Palace]] - During summits
 - Secret: Hidden sanctum in the Merchant Depths
+
+
+## Appearance
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

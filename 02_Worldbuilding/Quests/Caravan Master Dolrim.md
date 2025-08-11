@@ -1,18 +1,28 @@
 ---
-tags: [quest, aquabyssos, caravan-trade, deep-mother, corrupted-routes, crystal-smuggling]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- caravan-trade
+- complete
+- corrupted-routes
+- crystal-smuggling
+- deep-mother
+- quest
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-level_range: "3-5"
-party_size: "3-6"
-estimated_duration: "4-6 sessions"
+updated: '2025-08-11T13:08:50.074531+00:00'
+level_range: 3-5
+party_size: 3-6
+estimated_duration: 4-6 sessions
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
+
+
 
 # The Caravan Master's Dilemma
 
@@ -103,7 +113,7 @@ The quest serves as both an exciting underwater adventure and a meditation on th
 
 **Net.** *Ranged Weapon Attack:* +6 to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is restrained. A creature can use its action to make a DC 13 Strength check to free itself or another creature in a net, ending the effect on a success.
 
-**Protective Formation (1/Day).** Kira organizes the caravan's defenses, granting all allies within 30 feet +2 AC and advantage on saving throws for 1 minute.
+**Protective Formation (1/Day).** Kira organizes the caravan's defenses, granting all allies within 30 feet +2 AS and advantage on saving throws for 1 minute.
 
 **Warning Cry.** As a bonus action, Kira can alert allies to danger, allowing one ally within 60 feet to add her Wisdom modifier to their next saving throw or ability check.
 
@@ -174,7 +184,7 @@ The quest serves as both an exciting underwater adventure and a meditation on th
 
 **Rally the Caravan (1/Day).** Captain Stormcrest shouts inspiring commands, allowing all allies within 60 feet to make an immediate attack or move up to their speed as a reaction.
 
-**Protective Command (Recharge 5-6).** Captain Stormcrest designates one ally within 30 feet. That ally gains +4 AC and advantage on all saving throws until the start of Captain Stormcrest's next turn.
+**Protective Command (Recharge 5-6).** Captain Stormcrest designates one ally within 30 feet. That ally gains +4 AS and advantage on all saving throws until the start of Captain Stormcrest's next turn.
 
 **Legendary Actions (3 per turn)**
 - **Move.** Captain Stormcrest moves up to her speed without provoking opportunity attacks.
@@ -1019,3 +1029,12 @@ One of the Deep Mother's spawn approaches the party directly with an offer to he
 ---
 
 *The Caravan Master's Dilemma serves as both an exciting underwater adventure and a thoughtful exploration of beneficial corruption, moral complexity, and the difficult choices individuals make when faced with forces that offer genuine help at unknown costs. The quest's resolution affects not only Dolrim's fate but the party's understanding of cosmic influence and their role in managing the intersection between mortal civilization and otherworldly powers.*
+
+
+## Connections
+
+- [[Bandit Scouts]]
+- [[Find_the_Missing_Caravan]]
+- [[Goldspire Confederacy]]
+- [[Smuggler's Gambit]]
+- [[Traveling Merchant Finn]]

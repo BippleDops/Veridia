@@ -1,11 +1,21 @@
 ---
-tags: [npc, merchant, trader, general-goods]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- general-goods
+- merchant
+- npc
+- trader
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.938680+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Merchant
 
@@ -16,7 +26,7 @@ Captain Marina Tradecurrent is a versatile merchant operating "Current's Bounty"
 
 ## Statistics
 **Medium humanoid (merfolk)**
-- **AC** 12, **HP** 35, **Speed** 30 ft, swim 40 ft
+- **AS** 12, **HP** 35, **Speed** 30 ft, swim 40 ft
 - **STR** 12 **DEX** 13 **CON** 14 **INT** 15 **WIS** 14 **CHA** 16
 - **Skills** Persuasion +5, Insight +4, Investigation +4
 - **CR** 2

@@ -1,14 +1,16 @@
 ---
-tags: [complete, heist, infiltration, double-cross, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.057616+00:00'
+created: '2025-08-11T13:08:50.057616+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Smuggler's Gambit
 
@@ -345,3 +347,17 @@ Connected Adventures
 
 > [!danger] DM Secret
 > The crystal weapons are actually incomplete - they require a specific activation key that none of the factions possess. The real prize is in [[Elena Starweaver]]'s possession, and she's been manipulating all sides to acquire the weapons for her own mysterious purpose. The "destruction" option she offers is actually a plan to integrate the weapons into a larger magical device that could reshape the balance of power between all realms.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+- [[Aether Crystals]]
+- [[Bandit Scouts]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[The_Second_Rising]]
+- [[Traveling Merchant Finn]]

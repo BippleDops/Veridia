@@ -1,19 +1,49 @@
 ---
-aliases: ["The Great Sundering", "The Magical Cataclysm", "The Breaking of Aethel"]
-tags: [lore, history, cataclysm, magical-disaster, timeline, aethel-shattered-isles, historical-events, magocracy, world-changing-event]
-type: "Historical Event"
-category: "Magical Cataclysm"  
-significance: "World-Shaping Disaster"
-time_period: "Year 847 BCE (Before Current Era)"
-duration: "Instantaneous Event with Centuries of Consequences"
-scale: "Continental Transformation"
-participants: ["The Arcanum Supreme", "Nine High Magisters", "Continental Population"]
-outcome: "Shattering of Continent, Formation of Shattered Isles"
-status: "complete"
+aliases:
+- The Great Sundering
+- The Magical Cataclysm
+- The Breaking of Aethel
+tags:
+- aethel-shattered-isles
+- both
+- cataclysm
+- complete
+- historical-event
+- historical-events
+- history
+- lore
+- magical-disaster
+- magocracy
+- timeline
+- world-changing-event
+type: Lore
+category: Magical Cataclysm
+significance: World-Shaping Disaster
+time_period: Year 847 BCE (Before Current Era)
+duration: Instantaneous Event with Centuries of Consequences
+scale: Continental Transformation
+participants:
+- The Arcanum Supreme
+- Nine High Magisters
+- Continental Population
+outcome: Shattering of Continent, Formation of Shattered Isles
+status: complete
 created: 2025-08-11
-updated: 2025-08-11
-related_entities: ["[[The Shattered Isles]]", "[[The Arcanum Supreme]]", "[[The Nine High Magisters]]", "[[The Godhead Ritual]]", "[[The Sunken Cities]]", "[[The Great Crystallization]]", "[[Aethermoor]]"]
+updated: '2025-08-11T13:08:47.406604+00:00'
+related_entities:
+- '[[The Shattered Isles]]'
+- '[[The Arcanum Supreme]]'
+- '[[The Nine High Magisters]]'
+- '[[The Godhead Ritual]]'
+- '[[The Sunken Cities]]'
+- '[[The Great Crystallization]]'
+- '[[Aethermoor]]'
+world: Both
 ---
+
+
+
+
 
 # The Sundering
 *The Magical Cataclysm That Shattered a Continent*
@@ -1226,3 +1256,12 @@ A collection of islands that embrace the chaotic magical conditions created by t
 
 *"They sought to become gods and instead became something far more terrible - lessons for the rest of us in the price of ambition unchecked by wisdom."*
 *- Scholar Meridian Wavewright, "A History of the Shattered Isles"*
+
+
+## Connections
+
+- [[The Crown of Stars]]
+- [[The Deep Mother]]
+- [[The Forgotten Isles]]
+- [[The Lighthouse of Storms]]
+- [[The Seven Shards]]

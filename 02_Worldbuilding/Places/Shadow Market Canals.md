@@ -1,19 +1,29 @@
 ---
-tags: [location, underground, canals, black_market, smuggling, aquabyssos, criminal, waterways]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-security_level: "high"
-access: "invitation_only"
-danger_level: "moderate"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- black_market
+- canals
+- complete
+- criminal
+- location
+- smuggling
+- underground
+- waterways
+status: complete
+world: Aquabyssos
+type: Location
+security_level: high
+access: invitation_only
+danger_level: Moderate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.417054+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Shadow Market Canals
 
@@ -529,3 +539,15 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 ---
 
 *The Shadow Market Canals represent the sophisticated evolution of criminal enterprise - a hidden ecosystem that provides services, opportunities, and connections while maintaining the delicate balance between profitability and secrecy that allows the underground economy to flourish.*
+
+
+## Connections
+
+- [[Shadow Surgeons Collective]]
+- [[Deepmind Conspiracy]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Merchant Riptide]]
+- [[Vote Vaults]]
+- [[Ambush Point]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]

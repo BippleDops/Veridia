@@ -1,12 +1,22 @@
 ---
-tags: [lore, creatures, crystals, shapeshifters, aberrations, mimics]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aberrations
+- aethermoor
+- complete
+- creatures
+- crystals
+- lore
+- mimics
+- shapeshifters
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.483417+00:00'
 ---
+
+
 
 # Crystal Mimics
 
@@ -98,3 +108,11 @@ Crystal Mimics are actually evolving toward a more cooperative relationship with
 ## Campaign Use
 
 Crystal Mimics work excellent as both combat encounters and puzzle elements. Use them to create tension around treasure discovery and make players second-guess valuable finds. They can serve as recurring threats that adapt to party tactics, becoming more challenging over time as they learn from each encounter.
+
+
+## Connections
+
+- [[Crystal Cult Initiates Ambush]]
+- [[Prismatic Falls]]
+- [[The Seven Shards]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

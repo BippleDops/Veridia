@@ -1,38 +1,48 @@
 ---
-tags: [npc, aethermoor, aquabyssos, information-broker, guardian]
-first_name: "Marina"
-last_name: "Coralheart"
-aliases: ["Red Tide", "The Coral Witch", "Tide Turner"]
-location: "[[The Siren's Rest Tavern]]"
-faction: "[[The Depth Wardens]]" # Secret ancient order
-public_faction: "[[Independent Smugglers]]"
-occupation: "Smuggler Captain / Information Broker"
-true_occupation: "Guardian of the Bloodline"
-disposition: 0  # Starts neutral, very transactional
-alignment: "Chaotic Neutral (Good tendencies)"
-race: "Human (Aquabyssos Bloodline)"
-class: "Rogue/Warlock"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- draft
+- guardian
+- information-broker
+- npc
+first_name: Marina
+last_name: Coralheart
+aliases:
+- Red Tide
+- The Coral Witch
+- Tide Turner
+location: '[[The Siren''s Rest Tavern]]'
+faction: '[[The Depth Wardens]]'
+public_faction: '[[Independent Smugglers]]'
+occupation: Smuggler Captain / Information Broker
+true_occupation: Guardian of the Bloodline
+disposition: 0
+alignment: Chaotic Neutral (Good tendencies)
+race: Human (Aquabyssos Bloodline)
+class: Rogue/Warlock
 level: 7
 ac: 15
 max_hp: 52
 current_hp: 52
-influence: 8  # Extensive network
-faction_rank: 5  # Secret leader rank
-portrait: ""
-relationship_type: "complicated"
+influence: 8
+faction_rank: 5
+portrait: ''
+relationship_type: complicated
 relationships:
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]" # Uneasy cooperation
-  - "[[02_Worldbuilding/People/The Crimson Sage]]" # Secret alliance
-  - "[[Jasper Three-Eyes Flint]]" # Protects him
-  - "[[Lord Aurelius Goldwave]]" # Blackmail material
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]" # Old rivalry
-  - "[[The Bloodline Carrier]]" # Sworn to protect
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[Jasper Three-Eyes Flint]]'
+- '[[Lord Aurelius Goldwave]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[The Bloodline Carrier]]'
 related_quests:
-  - "[[Investigate the Crystal Plague]]"
-  - "[[The Seven Shards Mystery]]"
-  - "[[Uniting the Factions]]"
-  - "[[The Bloodline Awakens]]"
-last_encounter: "[[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]"
+- '[[Investigate the Crystal Plague]]'
+- '[[The Seven Shards Mystery]]'
+- '[[Uniting the Factions]]'
+- '[[The Bloodline Awakens]]'
+last_encounter: '[[1-Session Journals/Aethermoor - Session 01 Blood in the Harbor]]'
 stats:
   str: 10
   dex: 18
@@ -40,19 +50,29 @@ stats:
   int: 15
   wis: 14
   cha: 16
-description: "Striking woman in her late 20s with deep red hair that seems to move like water. Sea-green eyes that shift color with her mood. Numerous nautical tattoos that are actually ancestral marks."
-notes: "Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence."
+description: Striking woman in her late 20s with deep red hair that seems to move
+  like water. Sea-green eyes that shift color with her mood. Numerous nautical tattoos
+  that are actually ancestral marks.
+notes: Descendant of Aquabyssos survivors. Can breathe underwater. Senses shard presence.
 secrets:
-  - "Member of ancient order protecting bloodline descendants"
-  - "Can breathe underwater and sense shards"
-  - "Tattoos are actually Aquabyssos depth-marks"
-  - "Has been switching places with her shadow self"
-  - "Knows location of two shards"
-  - Category/People
+- Member of ancient order protecting bloodline descendants
+- Can breathe underwater and sense shards
+- Tattoos are actually Aquabyssos depth-marks
+- Has been switching places with her shadow self
+- Knows location of two shards
+- Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.617213+00:00'
+created: '2025-08-11T13:08:49.617213+00:00'
+status: draft
+type: NPC
 ---
+
+
+
 
 # Marina "Red Tide" Coralheart
 
@@ -202,3 +222,8 @@ Marina's shadow has gained independence and occasionally switches places with he
 - Can provide sea-based escape routes
 - If romanced, adds personal stakes to world merger
 - Her death triggers Depth Warden intervention
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

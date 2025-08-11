@@ -1,23 +1,30 @@
 ---
 tags:
-  - npc
-  - aquabyssos
-  - nobility
-  - merchant
-  - spy-master
+- active---category/people
+- aquabyssos
+- both
+- merchant
+- nobility
+- npc
+- spy-master
 type: NPC
-location: "[[Gold-Grave Harbor]]"
-faction: "[[The Current Merchants]]"
+location: '[[Gold-Grave Harbor]]'
+faction: '[[The Current Merchants]]'
 race: Depth Adapted (Former Elf)
 class: Rogue/Bard/Wizard
 level: 15
 alignment: Neutral Evil
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.809187+00:00'
+created: '2025-08-11T13:08:49.809187+00:00'
 ---
+
+
+
 
 # Duchess Marina Ever-Drowning
 

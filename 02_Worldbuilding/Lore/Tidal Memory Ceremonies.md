@@ -1,12 +1,21 @@
 ---
-tags: [lore, religion, ceremony, aquabyssos, memory, tidal-worship]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- ceremony
+- complete
+- lore
+- memory
+- religion
+- tidal-worship
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.112578+00:00'
 ---
+
+
 
 # Tidal Memory Ceremonies
 *"The tide remembers all things - in its flow and ebb, we store our joys and sorrows until the ocean itself becomes our eternal archive."*
@@ -159,3 +168,12 @@ Tidal Memory Ceremonies represent the most sacred religious practices in Aquabys
 - [[Tidal Priests Circle]] - Religious leadership guiding memory practices
 
 The Tidal Memory Ceremonies represent the spiritual heart of Aquabyssos culture, where the eternal ocean serves as both sacred temple and infinite library, preserving the experiences and wisdom of countless generations within its endless tidal embrace.
+
+## Connections
+
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]
+- [[The Festival of Rising Tides]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[Campaign_Relationship_Matrix]]

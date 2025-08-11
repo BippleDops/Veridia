@@ -1,14 +1,28 @@
 ---
-tags: [lore, merged-reality, convergence, dimensional-bleed, reality-storms, shadow-corruption, aquabyssos, aethermoor, unstable-zones, environmental-hazard]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Environmental Phenomenon"
-significance: "Campaign-Critical"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- complete
+- convergence
+- dimensional-bleed
+- environmental-hazard
+- lore
+- merged-reality
+- reality-storms
+- shadow-corruption
+- unstable-zones
+status: complete
+world: Both
+type: Lore
+category: Environmental Phenomenon
+significance: Campaign-Critical
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.441901+00:00'
 ---
+
+
 
 # Merged Reality Zones
 *Where Two Worlds Become One, and Physics Becomes Negotiable*
@@ -490,3 +504,14 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[The Con
 
 *"In the merged zones, we learned that reality is not what is, but what we agree it should be. The question is whether we can agree before we all forget who we were."*
 *- Echo Resident Sam, permanent zone inhabitant*
+
+
+## Connections
+
+- [[Crystal Garden]]
+- [[Crystal Guard Elite]]
+- [[Customs House]]
+- [[Healing Two Worlds]]
+- [[The Transformed Citizens]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Campaign_Relationship_Matrix]]

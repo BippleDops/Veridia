@@ -1,12 +1,20 @@
 ---
-tags: [lore, timeline, tracking, campaign-tool, chronology]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-tool
+- chronology
+- complete
+- lore
+- timeline
+- tracking
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.482175+00:00'
 ---
+
 
 # Timeline Tracker Base
 

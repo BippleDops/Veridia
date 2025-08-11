@@ -1,15 +1,24 @@
 ---
-tags: [organization, medical, shadow, surgeons, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- medical
+- organization
+- shadow
+- surgeons
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.896106+00:00'
 ---
+
+
+
 
 # The Shadow Surgeons
 
@@ -116,3 +125,34 @@ Shadow Surgeons are typically pragmatic and detached, focused on medical problem
 
 ## DM Notes
 The Shadow Surgeons provide excellent opportunities for moral dilemmas and desperate solutions. They can offer critical healing when conventional methods fail, but at significant ethical and financial costs. Use them to explore themes of medical ethics, the price of survival, and the gray areas between helping and harming.
+
+
+## Connections
+
+- [[Fear Farms]]
+- [[The Final Choice]]
+- [[Rescue Senator Glaucus]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

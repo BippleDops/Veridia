@@ -1,21 +1,17 @@
 ---
-tags: [npc, ambassador, diplomat, military, aquabyssos, politician, veteran]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Triton"
-class: "Fighter (Battle Master)/Noble"
-level: 13
-faction: "Imperial Diplomatic Corps"
-location: "Embassy District"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.706690+00:00'
+created: '2025-08-11T13:08:49.706690+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
+
 
 # Ambassador Korvin Blacktide
 
@@ -101,3 +97,31 @@ Born into a military family, Korvin distinguished himself in the Depth Wars befo
 **Speaking Patterns**: "In the interest of both our peoples...", "My military experience suggests...", "We must navigate these troubled waters carefully..."
 
 Korvin represents honor and duty in a world of increasing moral complexity, serving as both a potential ally and obstacle depending on the party's goals and methods.
+
+## Connections
+
+- [[Sir Marcus Dawnforge]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,15 +1,26 @@
 ---
-tags: [lore, mystery, seven_shards, crystals, conspiracy, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- crystals
+- lore
+- mystery
+- seven_shards
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Mystery
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.853237+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Seven Shards Mystery
 
@@ -130,3 +141,40 @@ This theory is controversial and lacks concrete evidence, but it has gained trac
 - The Explorer's Guild offers funding for expeditions to locate missing shards
 - Various mystical orders provide divination services, though with limited success
 - International networks of scholars share information about shard-related discoveries
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Parliament of Echoes]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,11 +1,36 @@
 ---
-tags: [lore, lost_lands, forgotten_history, temporal_anomalies, memory_magic, aethermoor, secrets]
-status: "completed"
-type: "lost_civilization"
-world: "dual"
-connections: ["[[Aethermoor]]", "[[The Sundering]]", "[[Memory Farmers]]", "[[Time's Mercy]]", "[[The Crown of Stars]]", "[[Deep Mother]]"]
-themes: ["lost_knowledge", "temporal_displacement", "collective_amnesia", "price_of_power", "forgotten_sacrifice"]
+tags:
+- aethermoor
+- completed
+- dual
+- forgotten_history
+- lore
+- lost_civilization
+- lost_lands
+- memory_magic
+- secrets
+- temporal_anomalies
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[Aethermoor]]'
+- '[[The Sundering]]'
+- '[[Memory Farmers]]'
+- '[[Time''s Mercy]]'
+- '[[The Crown of Stars]]'
+- '[[Deep Mother]]'
+themes:
+- lost_knowledge
+- temporal_displacement
+- collective_amnesia
+- price_of_power
+- forgotten_sacrifice
+updated: '2025-08-11T13:08:47.339325+00:00'
+created: '2025-08-11T13:08:47.339325+00:00'
 ---
+
+
 
 # The Forgotten Isles
 
@@ -168,3 +193,8 @@ The Forgotten Isles present the ultimate paradox of knowledge: information so da
 Their story raises fundamental questions about the price of security versus the value of knowledge, the nature of sacrifice, and whether some truths are too dangerous to remember - or too important to forget.
 
 *"We choose to be forgotten so that others may be remembered. We accept oblivion so that reality may continue. Let our sacrifice be meaningless so that meaning itself may survive."* - Final entry in the Chronicle of the Forgotten Isles, written in disappearing ink that fades as it's read
+
+
+## Connections
+
+- [[The Crown of Stars]]

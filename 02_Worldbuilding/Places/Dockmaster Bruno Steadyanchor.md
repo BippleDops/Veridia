@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, docks, harbor, commercial-shipping, cargo-handling, maritime-commerce]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- cargo-handling
+- commercial-shipping
+- complete
+- docks
+- harbor
+- location
+- maritime-commerce
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Commercial Harbor
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.759590+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Steadyanchor Docks - Commercial Maritime Hub
 
@@ -328,3 +339,8 @@ Steadyanchor Docks connects to numerous important elements throughout Aquabyssos
 - **Government Regulation**: Works closely with city authorities on trade policy and commercial regulations
 
 *Steadyanchor Docks stands as the commercial heart of Aquabyssos, where the steady flow of goods and the reliable service of dedicated professionals ensure that the city's prosperity continues to grow with each tide, anchored in the unshakeable foundation of maritime commerce.*
+
+
+## Connections
+
+- [[The Phosphor Markets]]

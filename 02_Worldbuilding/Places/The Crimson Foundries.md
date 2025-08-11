@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.986483+00:00'
+created: '2025-08-11T13:08:50.986483+00:00'
+status: draft
 tags:
-  - location
-  - dungeon
-  - combat
-  - industrial
-  - fortress
-type: Fortress-Dungeon
-region: "[[02_Worldbuilding/Places/The Sundered Peaks]]"
-danger_level: Extreme
-controlled_by: "[[02_Worldbuilding/Groups/The Crimson Fleet]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/crimson_foundries.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Crimson Foundries
 *Where War is Forged and Blood Flows Like Metal*

@@ -1,19 +1,30 @@
 ---
-tags: [location, ancient, mystery, forgotten, ruins, aquabyssos, temporal, memory, artifact]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-security_level: "extreme"
-access: "restricted"
-danger_level: "extreme"
-created_by: "auto-stub"
+tags:
+- ancient
+- aquabyssos
+- artifact
+- complete
+- forgotten
+- location
+- memory
+- mystery
+- ruins
+- temporal
+status: complete
+world: Aquabyssos
+type: Location
+security_level: extreme
+access: restricted
+danger_level: Extreme
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.659959+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # The Forgotten One
 
@@ -398,3 +409,9 @@ Certain divine magic works differently near the site, suggesting it may have con
 ---
 
 *In the deepest places where light fears to venture, The Forgotten One waits - not malevolently, but with the patient persistence of entropy itself. It reminds us that memory, identity, and existence itself are more fragile than we dare believe, and that some knowledge comes at the price of forgetting who we were when we sought it.*
+
+
+## Connections
+
+- [[Sage Lysander Deepthought]]
+- [[The Primordial Vaults]]

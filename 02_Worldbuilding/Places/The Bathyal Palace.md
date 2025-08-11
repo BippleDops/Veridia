@@ -1,15 +1,30 @@
 ---
-tags: [location, palace, midnight_expanse, political_center]
-aliases: [The Bathyal Palace, The Neutral Deep, The Court of Currents]
+tags:
+- both
+- draft
+- location
+- midnight_expanse
+- palace
+- political_center
+aliases:
+- The Neutral Deep
+- The Court of Currents
 created: 2024-12-19
-image: "04_Resources/Assets/Locations/bathyal_palace.jpg"
-danger_level: "Moderate"
-population: 8000
-  - Category/Place
+image: 04_Resources/Assets/Locations/bathyal_palace.jpg
+danger_level: Moderate
+population: 8000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.743762+00:00'
+status: draft
+type: Location
 ---
+
+
+
+
 
 # The Bathyal Palace - The Court of Currents
 
@@ -137,3 +152,8 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 - [[The Bathyal Succession]] - Influence succession choice
 - [[Treaty of the Depths]] - Negotiate critical agreement
 - [[The Missing Diplomat]] - Find the vanished ambassador
+
+
+## Connections
+
+- [[Party Shadows]]

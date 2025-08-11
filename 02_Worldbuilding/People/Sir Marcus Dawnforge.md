@@ -1,17 +1,32 @@
 ---
-tags: [npc, knight, order-shattered-crown, veteran, conflicted]
+tags:
+- active---category/people
+- both
+- conflicted
+- knight
+- npc
+- order-shattered-crown
+- veteran
 alignment: Lawful Neutral
 race: Human
 class: Paladin/Fighter
 level: 10
-location: [[02_Worldbuilding/Places/Crystalhaven]]
+location:
+- - 02_Worldbuilding/Places/Crystalhaven
 faction: Order of the Shattered Crown
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.009488+00:00'
+created: '2025-08-11T13:08:50.009488+00:00'
+type: NPC
 ---
+
+
+
+
 
 # Sir Marcus Dawnforge
 
@@ -74,3 +89,15 @@ Sir Marcus Dawnforge is a conflicted veteran knight of the [[Order of the Shatte
 - Needs help smuggling refugees out of [[02_Worldbuilding/Places/Port Meridian]] before a Purist Coalition purge
 - Offers to train party members in anti-corruption techniques
 - Seeks allies to expose Order corruption without triggering a civil war
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

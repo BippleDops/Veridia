@@ -1,23 +1,30 @@
 ---
-tags: [faction, political, aquabyssos, shadow-parliament, secret-government, legislative]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Shadow Legislative Body"
-alignment: "Lawful Evil"
-headquarters: "[[The Obsidian Chamber]]"
-leader: "[[Shadow Speaker Voidvoice]]"
-members: "~100 shadow senators and parliamentary staff"
-influence: "Government-wide (shadow influence)"
-wealth: "Government funded (diverted resources)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- faction
+- legislative
+- political
+- secret-government
+- shadow-parliament
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Shadow Legislative Body
+alignment: Lawful Evil
+headquarters: '[[The Obsidian Chamber]]'
+leader: '[[Shadow Speaker Voidvoice]]'
+members: ~100 shadow senators and parliamentary staff
+influence: Government-wide (shadow influence)
+wealth: Government funded (diverted resources)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.458648+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 # Parliament of Echoes - Shadow Chamber
 *The Dark Legislature, The Hidden Government, The Whisper Assembly*

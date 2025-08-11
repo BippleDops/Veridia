@@ -1,21 +1,30 @@
 ---
-tags: [quest, psychological, curse, royalty, aethermoor, moral-choice]
-quest_status: "Available"
-quest_priority: "High"
-quest_type: "Character Quest"
-level_range: "7-12"
-world: "Aethermoor"
-quest_giver: "Queen Seraphina Lumengarde"
-rewards: "Royal Blessing, Curse Removal, Ancient Knowledge"
-time_limit: "Before the Queen's Mind Breaks (21 days)"
-created_by: "system"
+tags:
+- aethermoor
+- curse
+- draft
+- moral-choice
+- psychological
+- quest
+- royalty
+quest_status: Available
+quest_priority: High
+quest_type: Character Quest
+level_range: 7-12
+world: Aethermoor
+quest_giver: Queen Seraphina Lumengarde
+rewards: Royal Blessing, Curse Removal, Ancient Knowledge
+time_limit: Before the Queen's Mind Breaks (21 days)
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.018375+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
+status: draft
+type: Lore
 ---
+
 
 # The Crown's Burden
 

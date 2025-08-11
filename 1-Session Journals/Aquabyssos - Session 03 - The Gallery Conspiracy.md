@@ -1,49 +1,54 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, identity-horror]
-session: "Session 03 Aquabyssos"
+tags:
+- aquabyssos
+- draft
+- identity-horror
+- parliament-shadows
+- session
+session: Session 03 Aquabyssos
 session_number: 3
-title: "The Gallery Conspiracy"
-date: 
-type: "session"
+title: The Gallery Conspiracy
+date: null
+type: Lore
 players: []
 absent: []
-campaign: "The Parliament of Shadows"
-primary_location: "[[Gallery of Frozen Waves]]"
+campaign: The Parliament of Shadows
+primary_location: '[[Gallery of Frozen Waves]]'
 depth: 1600
 locations_visited:
-  - "[[Gallery of Frozen Waves]]"
-  - "[[02_Worldbuilding/Places/Screaming Gardens]]"
-  - "[[02_Worldbuilding/Places/The Memory Meadows]]"
-  - "[[Reflection Pools]]"
+- '[[Gallery of Frozen Waves]]'
+- '[[02_Worldbuilding/Places/Screaming Gardens]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[Reflection Pools]]'
 npcs_met:
-  - "[[The Conductor]]"
-  - "[[Memory Farmer Thane]]"
-  - "[[Reflection Broker Mirrors]]"
-  - "[[Shadow Surgeon Apprentice]]"
+- '[[The Conductor]]'
+- '[[Memory Farmer Thane]]'
+- '[[Reflection Broker Mirrors]]'
+- '[[Shadow Surgeon Apprentice]]'
 encounters:
-  - "[[Memory Farmers Combat]]"
-  - "[[Screaming Tree Guardians]]"
-  - "[[Shadow Surgeon Strike Team]]"
+- '[[Memory Farmers Combat]]'
+- '[[Screaming Tree Guardians]]'
+- '[[Shadow Surgeon Strike Team]]'
 quests_started:
-  - "[[Rescue Senator Glaucus]]"
-  - "[[Investigate Shadow Surgeons]]"
+- '[[Rescue Senator Glaucus]]'
+- '[[Investigate Shadow Surgeons]]'
 quests_progressed:
-  - "[[Investigate Shadow Conspiracy]]"
-  - "[[Discover Shadow Market Location]]"
+- '[[Investigate Shadow Conspiracy]]'
+- '[[Discover Shadow Market Location]]'
 quests_completed: []
-items_gained: 
-  - "Memory Vault Key"
-  - "Conductor's Tuning Fork"
-  - "Reflection Mirror Shard"
-  - "Surgical Schedule"
+items_gained:
+- Memory Vault Key
+- Conductor's Tuning Fork
+- Reflection Mirror Shard
+- Surgical Schedule
 gold_gained: 600
 xp_awarded: 1100
-plot_threads: 
-  - "Party member replaced by reflection"
-  - "Shadow surgeons in Reflection Pools"
-  - "High tide brings mass replacement"
-  - "Real Senator Glaucus imprisoned"
-  - "Shadow Duchess Nyx arriving"
+plot_threads:
+- Party member replaced by reflection
+- Shadow surgeons in Reflection Pools
+- High tide brings mass replacement
+- Real Senator Glaucus imprisoned
+- Shadow Duchess Nyx arriving
 duration_hours: 4
 ap_gained: 3
 shadow_level_change: 1
@@ -51,7 +56,13 @@ memory_exposure: true
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.994588+00:00'
+created: '2025-08-11T13:08:46.994588+00:00'
+status: draft
 ---
+
+
 
 # Session 03: The Gallery Conspiracy
 ## The Parliament of Shadows - Act 1
@@ -222,7 +233,7 @@ Both versions' shadows:
 ### Memory Combat Mechanics
 **Farmers fight using memories**:
 - Traumatic Memory Blast: 2d6 psychic damage
-- Happy Memory Shield: +3 AC as reaction
+- Happy Memory Shield: +3 AS as reaction
 - Confusion Cloud: Targets forget why they're fighting
 - Identity Theft: Swap memories between combatants
 
@@ -243,24 +254,24 @@ Both versions' shadows:
 ## Combat Encounters
 
 ### Screaming Tree Guardians (2)
-- AC 16, HP 55 each
+- AS 16, HP 55 each
 - Vulnerability to thunder damage
 - Scream Cone: 3d6 thunder, 15 ft cone, CON DC 14 or deafened
 - Rooted: Can't move but 15 ft reach
 - Death: Releases trapped soul (grateful)
 
 ### Memory Farmers (3)
-- AC 14, HP 38 each
+- AS 14, HP 38 each
 - Memory Blast: 2d6 psychic, WIS DC 14 or stunned 1 round
-- Memory Shield: Reaction, +3 AC
+- Memory Shield: Reaction, +3 AS
 - Stolen Skills: Each has different stolen abilities
 - Death: Release cloud of memories (confusion 10 ft radius)
 
 ### Shadow Surgeon Strike Team (If Detected)
-- **Apprentice**: AC 15, HP 48
+- **Apprentice**: AS 15, HP 48
   - Shadow Scalpel: Separates shadow on hit (CON DC 15)
   - 3rd level spellcaster
-- **2 Shadow Nurses**: AC 13, HP 30 each
+- **2 Shadow Nurses**: AS 13, HP 30 each
   - Assist: Grant advantage to Apprentice
   - Shadow Stitch: Reattach separated shadows
 

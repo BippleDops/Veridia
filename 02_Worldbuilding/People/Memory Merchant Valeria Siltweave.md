@@ -1,16 +1,26 @@
 ---
-tags: [person, npc, aquabyssos, memory-trader, ethical-merchant, business-owner]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Ethical Memory Merchant"
-affiliation: "[[Memory Farmers]] (Reformed Branch)"
-age: "36"
-race: "Human"
-location: "[[Memory Meadows]] - The Ethical Exchange"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- business-owner
+- complete
+- ethical-merchant
+- memory-trader
+- npc
+- person
+status: complete
+world: Aquabyssos
+type: NPC
+role: Ethical Memory Merchant
+affiliation: '[[Memory Farmers]] (Reformed Branch)'
+age: '36'
+race: Human
+location: '[[Memory Meadows]] - The Ethical Exchange'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.850887+00:00'
 ---
+
+
 
 # Memory Merchant Valeria Siltweave
 *The Conscientious Trader, Champion of Ethical Memory Commerce*
@@ -449,3 +459,13 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 - **Combat Role**: Controller/Support, focuses on protection and memory manipulation rather than direct damage
 - **Social Encounters**: Emphasizes consent, ethics, and long-term consequences of choices
 - **Plot Integration**: Her ethical stance creates natural conflicts with exploitative factions and organizations
+
+## Connections
+
+- [[Archivist Mnemonic the Forgotten]]
+- [[His Own Shadow]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[The Cerulean Breath]]
+- [[The Sorrowmaster]]
+- [[Quest - The Memory Bridge]]
+- [[Campaign_Relationship_Matrix]]

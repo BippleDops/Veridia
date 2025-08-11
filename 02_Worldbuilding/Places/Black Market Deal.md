@@ -1,15 +1,24 @@
 ---
-tags: [quest, black_market, deal, intrigue, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- aquabyssos
+- black_market
+- complete
+- deal
+- intrigue
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.430408+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Black Market Deal
 
@@ -150,3 +159,8 @@ Use the Black Market Deal structure to:
 - Introduce the PCs to Aquabyssos's criminal underworld and its connections to legitimate society
 - Generate ongoing plot threads through the consequences of black market activities
 - Explore themes of desperation, survival, and moral compromise during times of political crisis
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

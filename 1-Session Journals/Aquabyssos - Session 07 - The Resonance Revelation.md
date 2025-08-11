@@ -1,31 +1,44 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, active]
+tags:
+- active
+- aquabyssos
+- parliament-shadows
+- planned
+- session
+- session-journal
 session_number: 7
-title: "The Resonance Revelation"
-date_played: 
-location: [[Crystallium]]
-depth: "6,000-8,000 ft"
+title: The Resonance Revelation
+date_played: null
+location:
+- - Crystallium
+depth: 6,000-8,000 ft
 npcs_featured:
-  - [[02_Worldbuilding/People/The Resonance Prophet]]
-  - [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-  - [[02_Worldbuilding/People/Shadow Duchess Nyx]]
-  - [[The Conductor]]
-status: "planned"
+- - - 02_Worldbuilding/People/The Resonance Prophet
+- - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
+- - - 02_Worldbuilding/People/Shadow Duchess Nyx
+- - - The Conductor
+status: planned
 party_level: 7
-estimated_time: "4 hours"
+estimated_time: 4 hours
 themes:
-  - Alien communication
-  - Harmonic horror
-  - Reality crystallization
+- Alien communication
+- Harmonic horror
+- Reality crystallization
 quests_advanced:
-  - [[Stop the Shadow Harvest]]
-  - [[Discover the Singers Beyond]]
-  - [[Prevent Resonance Cascade]]
-type: Session Journal
+- - - Stop the Shadow Harvest
+- - - Discover the Singers Beyond
+- - - Prevent Resonance Cascade
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.963037+00:00'
+created: '2025-08-11T13:08:46.963037+00:00'
 ---
+
+
+
 
 # Session 7: The Resonance Revelation
 ## Journey to the Crystal Deep
@@ -104,20 +117,20 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 ## 🗡️ Combat Encounters
 
 ### Crystallized Citizens (Wave Combat)
-- **Wave 1**: 6 citizens (AC 14, HP 30)
-- **Wave 2**: 4 crystal guards (AC 16, HP 45)
-- **Wave 3**: 2 harmony enforcers (AC 17, HP 65)
+- **Wave 1**: 6 citizens (AS 14, HP 30)
+- **Wave 2**: 4 crystal guards (AS 16, HP 45)
+- **Wave 3**: 2 harmony enforcers (AS 17, HP 65)
 - All immune to psychic damage
 - Death shatters them, dealing area damage
 
 ### Echo Valley Temporal Echoes
 - **Future Selves**: Mirror party stats +2 levels
 - **Past Selves**: Mirror party stats -2 levels
-- **Paradox Spawns**: AC 15, HP 50, reality-warping attacks
+- **Paradox Spawns**: AS 15, HP 50, reality-warping attacks
 - Defeating them changes timeline probabilities
 
 ### The Resonance Prophet (Transformed)
-- **AC** 19, **HP** 150
+- **AS** 19, **HP** 150
 - **Legendary Resistance** (3/day)
 - **Legendary Actions** (3/round)
 - **Harmonic Shield**: Immunity to first attack each round

@@ -1,14 +1,27 @@
 ---
-tags: [lore, queen-seraphina, crystal-possession, shadow-corruption, aethermoor, monarchy, convergence, political-power, royal-court, crystalline-madness]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Royal Authority"
-significance: "Campaign-Critical"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- convergence
+- crystal-possession
+- crystalline-madness
+- lore
+- monarchy
+- political-power
+- queen-seraphina
+- royal-court
+- shadow-corruption
+status: complete
+world: Aethermoor
+type: Lore
+category: Royal Authority
+significance: Campaign-Critical
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.376208+00:00'
 ---
+
+
 
 # The Queen
 *Queen Seraphina Lumengarde, the Crystal-Possessed Monarch*
@@ -482,3 +495,10 @@ Queen Seraphina's possession represents one path convergence might take—forced
 
 *"She was our beloved queen, wise and just and kind. Now she speaks with the voice of eternity, and we mortals can no longer understand her words."*
 *- Prince Aurelius, on his mother's transformation*
+
+
+## Connections
+
+- [[Crystal Guard Elite]]
+- [[Possessed Noble Coterie]]
+- [[Throne Room]]

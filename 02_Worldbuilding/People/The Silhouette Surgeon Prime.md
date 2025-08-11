@@ -1,16 +1,30 @@
 ---
-tags: [npc, aquabyssos, shadow, surgeon, antagonist]
-npc_type: "Major Antagonist"
-location: [[Tenebrarum]]
-faction: [[The Shadow Surgeons]]
+tags:
+- active
+- antagonist
+- aquabyssos
+- both
+- npc
+- shadow
+- surgeon
+npc_type: Major Antagonist
+location:
+- - Tenebrarum
+faction:
+- - The Shadow Surgeons
 disposition: 0
-status: "Active"
-created: 2025-08-07
-  - Category/People
+status: Active
+created: 2025-08-07 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.926864+00:00'
+type: NPC
 ---
+
+
+
 
 # The Silhouette Surgeon Prime
 ## Master of Shadow Surgery
@@ -198,3 +212,8 @@ When "killed," transforms into pure shadow:
 ---
 
 *"Your shadow isn't your servant—it's your potential. Let me show you what you could become."*
+
+
+## Connections
+
+- [[Party Shadows]]

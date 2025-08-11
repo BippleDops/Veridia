@@ -1,12 +1,23 @@
 ---
-tags: [magic, bloodlines, power-systems, inheritance, awakening]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- awakening
+- bloodlines
+- complete
+- inheritance
+- lore
+- magic
+- power-systems
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:48.999503+00:00'
 ---
+
+
 
 # Bloodline Awakening Powers
 
@@ -265,3 +276,9 @@ Different faiths view bloodline awakening through varying lenses:
 Awakened abilities have created entirely new economic sectors and disrupted traditional industries. Guilds must now compete with individuals whose bloodline powers can replicate years of training, while new service industries cater specifically to awakened needs and capabilities.
 
 The phenomenon continues to evolve, with each generation of awakened individuals discovering new applications and limitations of their inherited power, ensuring that bloodline awakening remains one of the most dynamic and influential aspects of magical life in Aethermoor.
+
+
+## Connections
+
+- [[The Seven Shards]]
+- [[Aethermoor - Session 05 The Queens Madness]]

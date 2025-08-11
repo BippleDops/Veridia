@@ -1,16 +1,26 @@
 ---
-tags: [complete, merchant, intrigue, mystery, cross-realm, investigation]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-expansion"
+tags:
+- aquabyssos
+- complete
+- cross-realm
+- intrigue
+- investigation
+- merchant
+- mystery
+- quest
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-expansion
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.041450+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Traveling Merchant Finn
 
@@ -133,7 +143,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 **Shadow Exchange Agent**
 **CR 5** (1,800 XP)  
 **Medium humanoid (shapechanger), chaotic evil**
-**AC** 14 (Natural Armor), **HP** 68 (8d10 + 24), **Speed** 30 ft., swim 30 ft.
+**AS** 14 (Natural Armor), **HP** 68 (8d10 + 24), **Speed** 30 ft., swim 30 ft.
 **STR** 12 (+1) **DEX** 16 (+3) **CON** 16 (+3) **INT** 14 (+2) **WIS** 13 (+1) **CHA** 18 (+4)
 **Saving Throws** Dex +6, Cha +7  
 **Skills** Deception +10, Insight +4, Investigation +5, Sleight of Hand +6  
@@ -150,7 +160,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 **Finn Duplicate (Beta Version)**
 **CR 6** (2,300 XP)  
 **Medium humanoid (magically duplicated), neutral evil**
-**AC** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 30 ft.
+**AS** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 30 ft.
 **STR** 13 (+1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 18 (+4)
 **Saving Throws** Int +6, Cha +7  
 **Skills** Deception +10, Insight +8, Investigation +6, Persuasion +10  
@@ -214,7 +224,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 **Madame Mirage**
 **CR 10** (5,900 XP)  
 **Medium humanoid (shapechanger), chaotic evil**
-**AC** 17 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 30 ft., fly 60 ft. (magical)
+**AS** 17 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 30 ft., fly 60 ft. (magical)
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 16 (+3) **INT** 20 (+5) **WIS** 16 (+3) **CHA** 22 (+6)
 **Saving Throws** Int +9, Wis +7, Cha +10  
 **Skills** Deception +14, Insight +11, Investigation +9, Perception +7  
@@ -237,7 +247,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 **Memory Extractor Apparatus**
 **CR 8** (3,900 XP)  
 **Large construct, neutral**
-**AC** 16 (Natural Armor), **HP** 95 (10d12 + 30), **Speed** 0 ft.
+**AS** 16 (Natural Armor), **HP** 95 (10d12 + 30), **Speed** 0 ft.
 **STR** 20 (+5) **DEX** 8 (-1) **CON** 16 (+3) **INT** 18 (+4) **WIS** 12 (+1) **CHA** 6 (-2)
 **Damage Resistances** Psychic, Necrotic  
 **Damage Immunities** Poison, Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
@@ -284,7 +294,7 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 **Finn Prime (The Original Copy)**
 **CR 9** (5,000 XP)  
 **Medium humanoid (magically enhanced), chaotic neutral**
-**AC** 16 (Studded Leather + magical enhancement), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft.
+**AS** 16 (Studded Leather + magical enhancement), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft.
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 16 (+3) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
 **Saving Throws** Int +8, Wis +7, Cha +9  
 **Skills** Deception +13, Insight +11, Investigation +8, Persuasion +13  
@@ -299,7 +309,7 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 - **Duplicate Summoning**: Can call other Finn copies to his location as action
 - **Identity Crisis**: Causes targets to question their own identity (DC 17 Cha save or confusion for 1 minute)
 - **True Self Protection**: Advantage on saves against effects that would reveal his artificial nature
-- **Desperate Preservation**: When reduced to 25 HP, gains +2 AC and advantage on all saves
+- **Desperate Preservation**: When reduced to 25 HP, gains +2 AS and advantage on all saves
 - **Legendary Actions**: Move, Cast Cantrip, Confuse Identity (target makes DC 17 Wis save or treats Finn as ally for 1 round)
 
 ### Rescue Mechanics
@@ -439,3 +449,11 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 
 > [!danger] DM Secret
 > The original Finn isn't entirely innocent—he discovered the Shadow Exchange operation and tried to blackmail them rather than report it to authorities. His capture was partially his own fault, but he's learned from the experience and genuinely wants to make amends. This revelation can create interesting moral complexity about whether he deserves complete sympathy and whether the party should help him avoid consequences for his original poor judgment.
+
+## Connections
+
+- [[Ambush Point]]
+- [[Bandit Scouts]]
+- [[Find_the_Missing_Caravan]]
+- [[Smuggler's Gambit]]
+- [[Smuggler]]

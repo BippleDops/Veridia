@@ -1,15 +1,17 @@
 ---
-tags: [location, market, trade, neutral_ground]
-aliases: [The Phosphor Markets, The Glowing Bazaar, The Neutral Trade]
-created: 2024-12-19
-image: "04_Resources/Assets/Locations/phosphor_markets.jpg"
-danger_level: "Low-Moderate"
-depth: "1500 feet"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.389411+00:00'
+created: '2025-08-11T13:08:50.389411+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Phosphor Markets - The Glowing Bazaar
 
@@ -418,3 +420,10 @@ Secret level where illegal goods are processed and distributed:
 - [[Trade War]] - Prevent faction conflict
 - [[The Lost Shipment]] - Recover stolen goods
 - [[Market Mystery]] - Why are the guardians aggressive?
+
+
+## Connections
+
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Amnesia Gallery]]
+- [[Maelstrom Palace]]

@@ -1,15 +1,24 @@
 ---
-tags: [organization, prophecy, awakening, cult, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- awakening
+- complete
+- cult
+- organization
+- prophecy
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.892171+00:00'
 ---
+
+
+
 
 # The Waking Prophets
 
@@ -87,3 +96,40 @@ The group has achieved notable success in predicting events, though critics argu
 
  ## DM Notes
 The Waking Prophets offer opportunities to explore themes of fanaticism, the price of knowledge, and the boundary between revelation and madness. Their sleep deprivation creates genuine prophetic abilities but at severe personal cost, making them complex antagonists or troubled allies.
+
+
+## Connections
+
+- [[His Own Shadow]]
+- [[Oracle]]
+- [[The Sorrowmaster]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

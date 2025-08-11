@@ -1,15 +1,27 @@
 ---
-tags: [npc, illyana, glowstream, mage, light, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- glowstream
+- illyana
+- light
+- mage
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.927516+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Illyana Glowstream
 
@@ -37,7 +49,7 @@ She wears robes woven from bioluminescent fibers that pulse gently with her hear
 
 ## Statistics
 **Medium humanoid (water genasi), neutral good**
-- **AC** 14 (Mage Armor)
+- **AS** 14 (Mage Armor)
 - **HP** 72 (16d6 + 16)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 14 (+2) **CON** 13 (+1) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 17 (+3)
@@ -105,3 +117,38 @@ She's also been providing informal counseling services, using her light magic to
 
 ## DM Notes
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

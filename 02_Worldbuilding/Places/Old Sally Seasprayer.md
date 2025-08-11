@@ -1,15 +1,28 @@
 ---
-tags: [npc, oracle, sea-witch, prophecy, folklore, aquabyssos, ancient-knowledge]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- ancient-knowledge
+- aquabyssos
+- complete
+- folklore
+- location
+- npc
+- oracle
+- prophecy
+- sea-witch
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.569103+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Old Sally Seasprayer
 
@@ -360,7 +373,7 @@ Sally provides free services to:
 
 ### Sally's Statistics
 **Old Sally Seasprayer** (Sea Hag Oracle, modified)
-- **AC**: 14 (Natural Armor + Mystical Protection)
+- **AS**: 14 (Natural Armor + Mystical Protection)
 - **HP**: 95 (13d12 + 26)
 - **Speed**: 30 ft., swim 60 ft.
 - **STR**: 10 **DEX**: 13 **CON**: 14 **INT**: 16 **WIS**: 22 **CHA**: 18
@@ -453,3 +466,8 @@ Sally's relationship with adventurers can evolve:
 - **[[The Neutral Current Tavern]]**: Location where she sometimes meets with clients requiring discretion
 - **[[Deepwater Trading Consortium]]**: Merchant networks that rely on her weather and market predictions
 - **[[Crystal Gardens]]**: Source of materials for her healing work and spiritual practices
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

@@ -1,11 +1,19 @@
 ---
 obsidianUIMode: preview
-type: note
-tags: []
+type: Lore
+tags:
+- both
+- draft
+- note
 aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
+world: Both
+updated: '2025-08-11T13:08:47.089193+00:00'
+status: draft
 ---
+
+
 There are many ways to get the notes that you need to run your games. The most efficient way, is dependant on the game system that you play. 
 Once you have obtained the notes you need, copy them into the `3-Mechanics` folder. 
 

@@ -1,23 +1,35 @@
 ---
-tags: [npc, aquabyssos, naval, captain, mysterious, echo-touched, supernatural, military, commander]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-category: "Naval Captain"
-race: "Echo-Touched Human"
-class: "Fighter/Warlock"
-location: "[[The Whispering Depths]]"
-faction: "[[Deepwatch Guard]]"
-influence: "Moderate"
-danger_level: "Moderate"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- captain
+- commander
+- complete
+- echo-touched
+- military
+- mysterious
+- naval
+- npc
+- person
+- supernatural
+status: complete
+world: Aquabyssos
+type: Location
+category: Naval Captain
+race: Echo-Touched Human
+class: Fighter/Warlock
+location: '[[The Whispering Depths]]'
+faction: '[[Deepwatch Guard]]'
+influence: Moderate
+danger_level: Moderate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Person
+updated: '2025-08-11T13:08:50.536439+00:00'
 MyContainer: None
 MyCategory: Naval Command
 obsidianUIMode: preview
 ---
+
+
 
 # Captain Echo
 *The Voice That Speaks for the Drowned*
@@ -206,3 +218,9 @@ Her supernatural abilities and diplomatic experience make her a valuable asset f
 
 *"The living fear death, but the drowned fear being forgotten. I serve both the living and the dead by ensuring that neither fear becomes reality."*  
 — Captain Echo, explaining her mission to new crew members
+
+
+## Connections
+
+- [[Sister Thalassa the Depth-Touched]]
+- [[The Whispering Depths]]

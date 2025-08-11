@@ -1,22 +1,18 @@
 ---
-tags: [location, aquabyssos, portal, surface, gateway, interdimensional, technology, transportation, bridge, diplomatic]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Interdimensional Gateway"
-parent_location: "Boundary Waters"
-depth: "300 feet"
-danger_level: 3
-population: "~60 operators, diplomats, and security personnel"
-government: "Joint Surface-Aquabyssos Portal Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.203910+00:00'
+created: '2025-08-11T13:08:50.203910+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # Surface Portal Alpha
 *The Bridge Between Two Worlds*
@@ -124,3 +120,41 @@ Equipment designed to help individuals function in both aquatic and atmospheric 
 **Transit Time**: Portal travel between realms takes 10-30 minutes depending on destination.
 **Adaptation Period**: First-time users require 1 hour to fully adapt to environmental changes.
 **Emergency Authority**: Crisis situations may grant temporary enhanced authority and access.
+
+
+## Connections
+
+- [[The Parliament of Nobody]]
+- [[Aethermoor to Aquabyssos Transition Guide]]
+- [[Harbor District]]
+- [[Pressure Terminal]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

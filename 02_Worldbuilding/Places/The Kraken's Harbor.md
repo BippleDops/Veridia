@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.952181+00:00'
+created: '2025-08-11T13:08:50.952181+00:00'
+status: draft
 tags:
-  - location
-  - naval
-  - combat
-  - fortress
-  - pirate
-type: Naval Fortress
-region: "[[02_Worldbuilding/Places/The Shattered Isles]]"
-danger_level: Extreme
-controlled_by: "[[02_Worldbuilding/Groups/The Crimson Fleet]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/krakens_harbor.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Kraken's Harbor
 *Where Sea Monsters Sleep and Pirates Rule the Waves*

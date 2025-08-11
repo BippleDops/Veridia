@@ -1,16 +1,25 @@
 ---
-tags: [location, palace, abyssal, cosmic-horror, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- abyssal
+- aquabyssos
+- complete
+- cosmic-horror
+- location
+- palace
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:51.136047+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Abyssos Prime - Inverse Palace
 
@@ -52,7 +61,7 @@ At the heart of the palace rules [[The Deep Sovereign]], a being whose true natu
 
 **The Deep Sovereign (CR 20)**
 *Gargantuan aberration, chaotic evil*
-- **AC** 22 (Natural Armor)
+- **AS** 22 (Natural Armor)
 - **HP** 350 (20d20 + 140)
 - **Speed** 0 ft., swim 60 ft., fly 60 ft. (hover)
 - **STR** 28 (+9), **DEX** 14 (+2), **CON** 25 (+7), **INT** 24 (+7), **WIS** 20 (+5), **CHA** 26 (+8)
@@ -273,9 +282,16 @@ This compass points not to magnetic north but to the nearest dimensional anomaly
 *Legendary armor (requires attunement)*
 
 Forged from the pressure-compressed remains of surface metals, this armor provides:
-- AC 18 + Dex modifier (max 2)
+- AS 18 + Dex modifier (max 2)
 - Resistance to cold and pressure damage
 - Advantage on saves against environmental hazards
 - Ability to function normally in any pressure environment
 
 The [[Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
+
+
+## Connections
+
+- [[Emperor Thalassius the Wise]]
+- [[Depths of Whispers]]
+- [[Find the Grief Bomb]]

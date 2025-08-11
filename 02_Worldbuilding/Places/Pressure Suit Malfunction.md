@@ -1,11 +1,21 @@
 ---
-tags: [event, emergency, equipment-failure, danger]
-status: "complete"
-world: "Aquabyssos"
-type: "event"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- danger
+- emergency
+- equipment-failure
+- event
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:51.075526+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Pressure Suit Malfunction
 
@@ -141,3 +151,8 @@ A critical equipment failure involving pressure suits used for deep-sea operatio
 
 ## DM Notes
 This crisis provides opportunities for rescue missions, investigation adventures, and exploration of themes around technology, safety, and corporate responsibility. The equipment failure can serve as background tension or central plot element depending on campaign needs.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

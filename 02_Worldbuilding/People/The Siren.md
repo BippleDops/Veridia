@@ -1,23 +1,31 @@
 ---
-tags: [npc, aethermoor, bard, spy, mysterious, legendary, information-broker]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-race: "Half-Elf (Crystal-Touched)"
-class: "Bard/Rogue"
+tags:
+- aethermoor
+- bard
+- complete
+- information-broker
+- legendary
+- mysterious
+- npc
+- spy
+status: complete
+world: Aethermoor
+type: NPC
+race: Half-Elf (Crystal-Touched)
+class: Bard/Rogue
 level: 14
-alignment: "Chaotic Neutral"
-location: "Various (Never stays in one place)"
-faction: "Independent (Information Broker)"
-status_condition: "Active, Identity Unknown"
-created_by: "auto-stub"
+alignment: Chaotic Neutral
+location: Various (Never stays in one place)
+faction: Independent (Information Broker)
+status_condition: Active, Identity Unknown
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/People
+updated: '2025-08-11T13:08:49.638222+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 # The Siren
 *The Voice That Knows All Secrets, The Masked Songstress, Keeper of Whispered Truths*

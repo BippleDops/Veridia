@@ -1,8 +1,15 @@
 ---
-type: feedback
-tags: [player, feedback]
-created: {{date:YYYY-MM-DD}}
+world: Both
+updated: '2025-08-11T13:08:47.038805+00:00'
+created: '2025-08-11T13:08:47.038805+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
 
 # Player Feedback Form
 

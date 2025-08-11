@@ -1,13 +1,21 @@
 ---
 title: Complete Character Creation Guide
-type: player_resource
+type: Lore
 status: complete
 tags:
-  - player-resource
-  - character-creation
-  - rules
+- both
+- character-creation
+- complete
+- player-resource
+- player_resource
+- rules
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.033781+00:00'
 ---
+
+
+
 
 # Character Creation Guide
 *Building Your Legend in the Dual Worlds*
@@ -393,3 +401,7 @@ Choose your relationship with major factions:
 ---
 
 *Your character exists between two worlds, shaped by pressure both literal and metaphorical. Every choice in creation reflects the fundamental question: In the face of change, who will you become?*
+
+## Connections
+
+- [[Quick_Start_Guide]]

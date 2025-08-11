@@ -1,15 +1,28 @@
 ---
-tags: [npc, merchant, aquabyssos, trade, shark-folk, corruption, power]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- corruption
+- location
+- merchant
+- npc
+- power
+- shark-folk
+- trade
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.399097+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Merchant Prince Akula
 
@@ -274,7 +287,7 @@ Working to increase his influence within the [[Parliament of Echoes]] by support
 
 ### Akula's Statistics
 **Merchant Prince Akula** (Sahuagin Noble, modified)
-- **AC**: 16 (Natural Armor + Magical Jewelry)
+- **AS**: 16 (Natural Armor + Magical Jewelry)
 - **HP**: 95 (13d8 + 39)
 - **Speed**: 30 ft., swim 60 ft.
 - **STR**: 14 **DEX**: 12 **CON**: 16 **INT**: 18 **WIS**: 15 **CHA**: 17
@@ -335,3 +348,8 @@ Akula's attitude toward the adventurers will change based on their actions:
 - **[[Aethermoor]]**: Target of his expansion plans into surface world commerce
 - **[[Kelp Forest Monasteries]]**: Early source of success and ongoing trade relationships
 - **[[Pressure Tube Terminal]]**: Critical infrastructure for his transportation monopolies
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

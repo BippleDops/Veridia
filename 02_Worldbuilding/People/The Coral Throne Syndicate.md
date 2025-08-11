@@ -1,16 +1,66 @@
 ---
-tags: [stub]
-status: "stub"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- npc
+- stub
+status: stub
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.955212+00:00'
 ---
+
+
+
 
 # The Coral Throne Syndicate
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
+
+
+## Connections
+
+- [[Senator]]
+- [[The Current Merchants]]
+- [[Senator's Private Chambers]]
+- [[The Frozen Throne]]
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

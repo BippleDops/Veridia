@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, inn, hospitality, dreams, rest, travelers, comfort, magical]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Magical Inn and Lodging"
-parent_location: "Harbor District"
-depth: "7,200 feet"
-danger_level: 1
-population: "~30 staff, 50-80 guests nightly"
-government: "Independent business"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.552066+00:00'
+created: '2025-08-11T13:08:50.552066+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Dreamwhisper Inn
 *Where Weary Souls Find Perfect Rest*
@@ -754,3 +749,8 @@ The Dreamwhisper Inn stands as Aquabyssos's premier lodging house for travelers 
 - [[Prophetic Dreams]]
 - [[Nightmare Protection]]
 - [[Shared Dreaming]]
+
+
+## Connections
+
+- [[New Tethys]]

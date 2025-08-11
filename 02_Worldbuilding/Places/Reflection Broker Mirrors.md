@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, mirrors, reflection-magic, information-brokerage, scrying, divination]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- divination
+- information-brokerage
+- location
+- mirrors
+- reflection-magic
+- scrying
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Information Exchange
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.478523+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Mirror Exchange - Reflection Brokerage House
 
@@ -361,3 +372,8 @@ The Mirror Exchange connects to numerous important elements throughout Aquabysso
 - **Magical Community**: Provides specialized services to practitioners of divination and information magic
 
 *The Mirror Exchange stands as a reflection of Aquabyssos itself—complex, mysterious, and revealing different truths to different observers, where those who seek knowledge must be prepared to face what they might discover about themselves and the world around them.*
+
+
+## Connections
+
+- [[Abyssos Prime]]

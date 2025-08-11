@@ -1,23 +1,32 @@
 ---
-tags: [npc, aquabyssos, death-touched, mourning, ghostly, collective-spirit, ancient, tragic]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Collective Death Spirit (Originally Multiple Individuals)"
-class: "Death-Touched/Oracle/Mourning-Keeper"
+tags:
+- ancient
+- aquabyssos
+- collective-spirit
+- complete
+- death-touched
+- ghostly
+- mourning
+- npc
+- tragic
+status: complete
+world: Aquabyssos
+type: NPC
+race: Collective Death Spirit (Originally Multiple Individuals)
+class: Death-Touched/Oracle/Mourning-Keeper
 level: 16
-alignment: "Chaotic Neutral (Bound by Grief)"
-location: "The Mourning Depths, Aquabyssos Deep Trenches"
-faction: "The Departed Collective"
-status_condition: "Active, Eternally Grieving"
-created_by: "auto-stub"
+alignment: Chaotic Neutral (Bound by Grief)
+location: The Mourning Depths, Aquabyssos Deep Trenches
+faction: The Departed Collective
+status_condition: Active, Eternally Grieving
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.964084+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 # The Wake
 *The Eternal Mourning, Keeper of Final Sorrows, Voice of the Drowned Collective*

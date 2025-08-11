@@ -1,23 +1,31 @@
 ---
 tags:
-  - npc
-  - order-of-shattered-crown
-  - shadowmere
-  - mystic
-  - neutral
+- active---category/people
+- both
+- mystic
+- neutral
+- npc
+- order-of-shattered-crown
+- shadowmere
 type: NPC
-location: "[[02_Worldbuilding/Places/The Shadowmere]]"
-faction: "[[Order of the Shattered Crown]]"
+location: '[[02_Worldbuilding/Places/The Shadowmere]]'
+faction: '[[Order of the Shattered Crown]]'
 race: Half-Elf
 class: Shadow Oracle
 level: 9
 alignment: True Neutral
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.790900+00:00'
+created: '2025-08-11T13:08:49.790900+00:00'
 ---
+
+
+
+
 
 # Sister Morwyn Veilkeeper
 
@@ -88,3 +96,15 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 
 ## DM Notes
 Sister Morwyn serves as a bridge between the material and shadow planes, offering both mystical guidance and practical warnings. She can provide crucial information about the Shards but always at a price—usually in the form of unsettling revelations or dangerous tasks in the Shadowmere.
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

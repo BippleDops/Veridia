@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, palace, ballroom, entertainment, noble, social, inverted, underwater, architecture]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Palace Wing"
-parent_location: "[[The Inverse Palace]]"
-depth: "8,500 feet"
-danger_level: 1
-population: "50-100 (nobles, entertainers, staff)"
-government: "Royal Administration"
-  - Category/Place
-MyContainer: None
-MyCategory: Entertainment
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.323800+00:00'
+created: '2025-08-11T13:08:50.323800+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Inverted Ballroom Wing
 *Where Gravity Defies Convention and Elegance Flows Upward*
@@ -348,3 +343,8 @@ The wing's unique architecture serves both practical and symbolic purposes - pra
 **Ongoing Consequences**: Social successes and failures have lasting campaign effects
 
 The Inverted Ballroom Wing stands as a testament to [[Aquabyssos]]'s unique culture, where impossible architecture enables extraordinary social experiences. Here, in defiance of natural law, society reaches new heights of elegance and sophistication, creating memories that last lifetimes and forging relationships that shape the realm's future. Whether hosting grand diplomatic receptions or intimate cultural exchanges, this remarkable space continues to serve as the beating heart of [[Aquabyssos]]'s high society, where every dance step defies gravity and every social interaction transcends conventional limitations.
+
+
+## Connections
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

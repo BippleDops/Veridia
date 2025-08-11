@@ -1,8 +1,21 @@
 ---
-tags: [worldbuilding, aquabyssos, connections, storylines, meta-plot]
+tags:
+- aquabyssos
+- both
+- connections
+- draft
+- meta-plot
+- storylines
+- worldbuilding
 created: 2025-08-07
-updated: 2025-08-07
+updated: '2025-08-11T13:08:47.248193+00:00'
+world: Both
+status: draft
+type: Lore
 ---
+
+
+
 
 # Continental Connections & Story Weave
 ## The Interconnected Mysteries of Aquabyssos
@@ -299,3 +312,7 @@ Every major NPC should have:
 ---
 
 *Remember: In Aquabyssos, isolation is an illusion. Every secret connects to another, every mystery deepens the web, and every answer reveals that the question was wrong. The continents aren't separate places—they're symptoms of the same disease, notes in the same drowning song, fragments of the same shattered dream trying desperately to wake up.*
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

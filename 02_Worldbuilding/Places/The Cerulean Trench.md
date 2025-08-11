@@ -1,15 +1,18 @@
 ---
-tags: [location, wilderness, trench, dangerous]
-aliases: [The Cerulean Trench, The Blue Abyss, The Drowning Scar]
-created: 2024-12-19
-image: "04_Resources/Assets/Locations/cerulean_trench.jpg"
-danger_level: "Extreme"
-depth: "5000-15000 feet"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.270729+00:00'
+created: '2025-08-11T13:08:50.270729+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Cerulean Trench - The Drowning Scar
 
@@ -134,3 +137,43 @@ Various groups that went too deep and never returned, occasionally spotted as gh
 - [[Depth Crystal Harvest]] - Gather rare resources
 - [[The Drowning Truth]] - Discover what really happened
 - [[Voices from Below]] - Investigate the Call
+
+
+## Connections
+
+- [[Forge of War]]
+- [[Bandit Leader Scarface]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[The Maw of Darkness]]
+- [[Traveling Merchant Finn]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

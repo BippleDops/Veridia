@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.841530+00:00'
+created: '2025-08-11T13:08:50.841530+00:00'
+status: draft
 tags:
-  - location
-  - hideout
-  - criminal
-  - secret
-  - smuggling
-type: Criminal Hideout
-region: "[[02_Worldbuilding/Places/The Shattered Isles]]"
-danger_level: High
-controlled_by: "[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/hidden_cove_whispers.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Hidden Cove of Whispers
 *Where Secrets Dock and Silence Rules*
@@ -36,3 +32,32 @@ The Hidden Cove of Whispers serves as the secret headquarters for [[02_Worldbuil
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional cooperation and competition
 - **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Active investigator seeking cove location
 - **[[02_Worldbuilding/Places/The Slave Markets of Tethys]]** - Competing criminal operation
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

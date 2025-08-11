@@ -1,3 +1,15 @@
+---
+world: Both
+updated: '2025-08-11T13:08:47.051376+00:00'
+created: '2025-08-11T13:08:47.051376+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
+---
+
+
 # Final TTRPG Vault Status Report
 *Generated: 2025-08-10*
 

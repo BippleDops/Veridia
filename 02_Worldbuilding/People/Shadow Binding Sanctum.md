@@ -1,15 +1,25 @@
 ---
-tags: [location, sanctum, shadow, binding, magic, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Places
+tags:
+- aquabyssos
+- binding
+- complete
+- location
+- magic
+- sanctum
+- shadow
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Places
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.863340+00:00'
 ---
+
+
+
 
 # Shadow Binding Sanctum
 
@@ -101,3 +111,32 @@ Built within a natural cave system that extends far below the city proper, the s
 
 ## DM Notes
 The Shadow Binding Sanctum provides opportunities for horror-themed adventures, ethical dilemmas about imprisonment and research, and encounters with alien intelligences. Use the facility to explore themes of knowledge versus safety, and the psychological costs of dealing with darkness. The captured entities can serve as sources of information, threats to overcome, or complex characters with their own agendas.
+
+
+## Connections
+
+- [[Senator_Glaucus_Brain]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

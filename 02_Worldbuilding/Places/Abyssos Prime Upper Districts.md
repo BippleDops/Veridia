@@ -1,23 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.276304+00:00'
+created: '2025-08-11T13:08:50.276304+00:00'
+status: draft
 tags:
-  - location
-  - city_district
-  - aquabyssos
-  - capital
-  - noble_quarter
-  - government
+- both
+- draft
 type: Location
-region: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-depth_zone: Bathyal (200-1000m)
-population: 15000
-government: Imperial Council Districts
-created: 2025-08-08
-world: "Aquabyssos"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Abyssos Prime Upper Districts
 *The Crown of the Deep Capital, Where Light Still Remembers the Surface*
@@ -202,3 +196,10 @@ The Upper Districts are built on five main terraces, each at a different depth:
 3. Surface world diplomats require protection during state visit
 4. Mysterious illness affecting coral infrastructure requires investigation
 5. Underground resistance planning coup against current government
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Forge of War]]
+- [[Parliament of Echoes - Public Gallery]]

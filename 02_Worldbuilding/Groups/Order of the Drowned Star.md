@@ -1,19 +1,16 @@
 ---
-type: faction
-tags: [faction, religious, military, aquabyssos, star-worship]
-aliases: [The Drowned Star, Order of Stars, The Stellar Guardians]
-world: "Aquabyssos"
-created: 2025-08-09
-modified: 2025-08-09
-leader: "Stellar Commander Nereus Voidcaller"
-headquarters: "The Sunken Observatory"
-alignment: "Lawful Neutral"
-power_level: "Major Regional"
-  - Category/Group
-MyContainer: Aquabyssos
-MyCategory: Religious Military Order
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.350789+00:00'
+created: '2025-08-11T13:08:51.350789+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Order of the Drowned Star
 *"In Depths We Seek the Light Above"*
@@ -218,3 +215,9 @@ Secret installations throughout Aquabyssos that serve as safe houses, supply cac
 - [[Sister Astara the Ever-Watching]]
 - [[Thalassa the Pathfinder]]
 - [[Brother Pelagios Irondeep]]
+
+
+## Connections
+
+- [[Corallion]]
+- [[Find the Grief Bomb]]

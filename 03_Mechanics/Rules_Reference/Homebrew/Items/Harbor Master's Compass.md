@@ -1,15 +1,18 @@
 ---
 tags:
-- magic-item
+- both
 - compass
+- draft
+- magic-item
 - quest-reward
+- wondrous-item
 aliases:
 - Strange Compass
 - The Wayward Needle
 cssclasses:
 - magic-item
 - rare-item
-type: Wondrous item
+type: Item
 rarity: Rare
 attunement: true
 school: Divination
@@ -20,7 +23,13 @@ description: A brass compass whose needle spins wildly, pointing toward mysterie
 image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
 created: 2025-01-25 12:00
 modified: 2025-07-23 12:39
+world: Both
+updated: '2025-08-11T13:08:47.090386+00:00'
+status: draft
 ---
+
+
+
 > [!infobox]
 > # Harbor Master's Compass
 > ![[03_Mechanics/Rules_Reference/Homebrew/Items/Harbor Master's Compass|cover]]

@@ -1,12 +1,22 @@
 ---
-tags: [lore, hazard, pressure, underwater, damage, environmental]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- damage
+- environmental
+- hazard
+- lore
+- pressure
+- underwater
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.491909+00:00'
 ---
+
+
 
 # Pressure Damage
 
@@ -45,3 +55,9 @@ Immediate damage with potential long-term complications requiring magical healin
 
 ## Campaign Use
 Provides realistic environmental challenges and consequences for deep-water exploration.
+
+
+## Connections
+
+- [[Depth Adaptation Points]]
+- [[Madness Effects]]

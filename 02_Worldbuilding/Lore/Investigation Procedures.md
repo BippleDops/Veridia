@@ -1,9 +1,23 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, investigation, procedures, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aquabyssos
+- both
+- complete
+- investigation
+- lore
+- procedures
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:47.937860+00:00'
+created: '2025-08-11T13:08:47.937860+00:00'
+type: Lore
 ---
+
+
+
 
 # Investigation Procedures
 
@@ -124,3 +138,22 @@ Use investigation procedures to create realistic consequences for player actions
 
 ### Customization Options
 Adapt procedures to reflect your campaign's tone - more bureaucratic for political intrigue, more action-oriented for adventure-focused games, or more mysterious for investigation-heavy scenarios.
+
+
+## Connections
+
+- [[Citizens of Meridian]]
+- [[Crimson Hand Strike Team]]
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Pressure Tube Operator Krill]]
+- [[Random Encounters]]
+- [[Reputation System]]
+- [[Session 0 - Aquabyssos]]
+- [[Silver Mask]]
+- [[Spell Components]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

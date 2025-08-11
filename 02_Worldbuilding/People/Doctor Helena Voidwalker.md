@@ -1,27 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.922887+00:00'
+created: '2025-08-11T13:08:49.922887+00:00'
+status: draft
 tags:
-  - npc
-  - scholar
-  - healer
-  - researcher
-  - aquabyssos
-  - void-touched
-  - controversial
+- both
+- draft
 type: NPC
-race: Human (Void-Touched)
-class: Wizard (School of Necromancy) / Cleric (Death Domain)
-level: 13
-alignment: Chaotic Neutral
-location: "[[02_Worldbuilding/Places/The Abyssal Research Institute]]"
-faction: "[[02_Worldbuilding/Groups/The Biomancers]]"
-status: Alive (Ostracized but protected)
-created: 2025-08-09
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
 ---
+
+
+
 
 # Doctor Helena Voidwalker
 *The Void Surgeon, Mistress of Life and Death, The Ethical Paradox*
@@ -210,3 +199,10 @@ Helena has developed several revolutionary treatments:
 - [[02_Worldbuilding/Quests/Quest - The Void Plague]] - Only she can develop a cure
 - [[02_Worldbuilding/Quests/Quest - Medical Ethics]] - Trial for her controversial methods
 - [[02_Worldbuilding/Quests/Quest - The Resurrection Request]] - Bring back someone important
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[Sage Lysander Deepthought]]
+- [[Pressure's End]]

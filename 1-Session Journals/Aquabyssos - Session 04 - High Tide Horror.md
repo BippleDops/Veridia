@@ -1,53 +1,64 @@
 ---
-tags: [session, aquabyssos, parliament-of-shadows, shadow-harvest]
-session: "Session-04"
-date: 
-type: "session"
+tags:
+- aquabyssos
+- draft
+- parliament-of-shadows
+- session
+- shadow-harvest
+session: Session-04
+date: null
+type: Lore
 players: []
 absent: []
-campaign: "Aquabyssos - The Parliament of Shadows"
-primary_location: "[[The Reflection Pools]]"
+campaign: Aquabyssos - The Parliament of Shadows
+primary_location: '[[The Reflection Pools]]'
 locations_visited:
-  - "[[Reflection Pools - Surgical Theater]]"
-  - "[[Shadow Market Canals]]"
-  - "[[The Convergence Point]]"
-  - "[[Tidal Chambers]]"
+- '[[Reflection Pools - Surgical Theater]]'
+- '[[Shadow Market Canals]]'
+- '[[The Convergence Point]]'
+- '[[Tidal Chambers]]'
 npcs_met:
-  - "[[02_Worldbuilding/People/Shadow Duchess Nyx]]"
-  - "[[Shadow Nyx]]"
-  - "[[The Real Marina]]"
-  - "[[02_Worldbuilding/People/The Scattered Emperor]] (United)"
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[Shadow Nyx]]'
+- '[[The Real Marina]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor]] (United)'
 encounters:
-  - "[[Shadow Surgeons Collective]]"
-  - "[[Hybrid Abominations]]"
-  - "[[The Shadow Duchess Duel]]"
+- '[[Shadow Surgeons Collective]]'
+- '[[Hybrid Abominations]]'
+- '[[The Shadow Duchess Duel]]'
 quests_started:
-  - "[[Stop the Shadow Harvest]]"
-  - "[[Unite or Divide]]"
+- '[[Stop the Shadow Harvest]]'
+- '[[Unite or Divide]]'
 quests_progressed:
-  - "[[The Shadow Conspiracy]]"
-  - "[[Save Marina]]"
+- '[[The Shadow Conspiracy]]'
+- '[[Save Marina]]'
 quests_completed: []
-items_gained: 
-  - "Shadow Lock Chains"
-  - "Emperor's Final Gift"
-  - "Nyx's Shadow Blade"
+items_gained:
+- Shadow Lock Chains
+- Emperor's Final Gift
+- Nyx's Shadow Blade
 gold_gained: 0
 xp_awarded: 2000
-plot_threads: 
-  - "Shadows gain independence"
-  - "The Harvest begins"
-  - "Emperor's sacrifice"
-  - "Two Nyx dilemma"
-  - "Continental war threat"
+plot_threads:
+- Shadows gain independence
+- The Harvest begins
+- Emperor's sacrifice
+- Two Nyx dilemma
+- Continental war threat
 duration_hours: 4
 level: 5
 danger_level: 9
-shadow_activity: "Critical"
+shadow_activity: Critical
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.968891+00:00'
+created: '2025-08-11T13:08:46.968891+00:00'
+status: draft
 ---
+
+
 
 # Session 4: High Tide Horror
 
@@ -166,7 +177,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 
 #### Shadow Surgeons Collective
 **Composition**: 5 Shadow Surgeons
-- **AC**: 16, **HP**: 52 each
+- **AS**: 16, **HP**: 52 each
 - **Surgical Strike**: +8 to hit, 2d6+4 damage
 - **Shadow Scalpel**: Separates shadow from body (CON DC 15)
 - **Pack Tactics**: Advantage when flanking
@@ -175,7 +186,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 
 #### Hybrid Abominations (Optional)
 **Composition**: 3 Failed Merges
-- **AC**: 14, **HP**: 65 each
+- **AS**: 14, **HP**: 65 each
 - **Unstable Form**: Random ability each round
 - **Death Burst**: 2d6 damage to adjacent on death
 - **Pitiful**: Can be reasoned with (CHA DC 16)
@@ -184,7 +195,7 @@ Water in the Reflection Pools turns pitch black as hundreds of shadows converge.
 
 #### The Shadow Duchess Battle
 **Shadow Nyx** (if combat occurs):
-- **AC**: 18, **HP**: 120
+- **AS**: 18, **HP**: 120
 - **Legendary Resistance**: 3/day
 - **Legendary Actions**: 2/round
   - Shadow Step (teleport 30 ft)

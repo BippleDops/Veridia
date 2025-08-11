@@ -1,22 +1,31 @@
 ---
-tags: [location, aquabyssos, cave, underwater, bioluminescent, crystal]
-status: "completed"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- bioluminescent
+- cave
+- completed
+- crystal
+- location
+- underwater
+status: completed
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-location_type: "Underwater Cave System"
-parent_location: "Aquabyssos Deep Waters"
+updated: '2025-08-11T13:08:50.869303+00:00'
+location_type: Underwater Cave System
+parent_location: Aquabyssos Deep Waters
 danger_level: 6
-population: "~300 deep dwellers, researchers, and pilgrims"
-government: "Independent sanctuary under Parliament protection"
-depth: 3500
-  - Category/Place
+population: ~300 deep dwellers, researchers, and pilgrims
+government: Independent sanctuary under Parliament protection
+depth: 3500 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Luminous Hollow
 ## The Cathedral of Living Light
@@ -287,7 +296,7 @@ Luminous Hollow represents one of [[Aquabyssos]]'s most spectacular natural wond
 
 ### Crystal Jelly Guardian
 **CR 9** | **Huge monstrosity, neutral**  
-**AC**: 15 (Natural Armor) | **HP**: 180 (19d12 + 57)  
+**AS**: 15 (Natural Armor) | **HP**: 180 (19d12 + 57)  
 **Speed**: 0 ft., swim 40 ft.  
 **STR**: 20 | **DEX**: 12 | **CON**: 17 | **INT**: 14 | **WIS**: 18 | **CHA**: 16  
 **Damage Resistances**: Cold, Psychic | **Damage Immunities**: Poison  
@@ -304,7 +313,7 @@ Luminous Hollow represents one of [[Aquabyssos]]'s most spectacular natural wond
 
 ### Lumina Eel
 **CR 4** | **Large beast, neutral good**  
-**AC**: 14 (Natural Armor) | **HP**: 76 (9d12 + 18)  
+**AS**: 14 (Natural Armor) | **HP**: 76 (9d12 + 18)  
 **Speed**: 0 ft., swim 60 ft.  
 **STR**: 18 | **DEX**: 16 | **CON**: 14 | **INT**: 10 | **WIS**: 14 | **CHA**: 12  
 **Skills**: Insight +4, Perception +4  
@@ -429,3 +438,8 @@ Luminous Hollow represents one of [[Aquabyssos]]'s most spectacular natural wond
 - [[The Great Drowning]]
 - [[Depth Adaptation Points]]
 - [[Bioluminescence]]
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

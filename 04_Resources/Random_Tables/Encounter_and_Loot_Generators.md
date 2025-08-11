@@ -1,8 +1,19 @@
 ---
-tags: [random, tables]
-type: generators
+tags:
+- both
+- draft
+- generators
+- random
+- tables
+type: Lore
 realm: Generic
+world: Both
+updated: '2025-08-11T13:08:47.042921+00:00'
+created: '2025-08-11T13:08:47.042921+00:00'
+status: draft
 ---
+
+
 
 # 🎲 Encounter & Loot Generators
 

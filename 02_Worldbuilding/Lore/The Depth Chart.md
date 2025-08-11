@@ -1,16 +1,28 @@
 ---
-tags: [lore, technology, navigation-system, aquabyssos, depth-mapping, underwater-navigation, pressure-zones, cartography, innovation, survey-technology]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Navigation Technology"
-significance: "Critical Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- cartography
+- complete
+- depth-mapping
+- innovation
+- lore
+- navigation-system
+- pressure-zones
+- survey-technology
+- technology
+- underwater-navigation
+status: complete
+world: Aquabyssos
+type: Lore
+category: Navigation Technology
+significance: Critical Infrastructure
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-technology_type: "Advanced Underwater Mapping System"
-access_restriction: "Public Access with Security Restrictions"
+updated: '2025-08-11T13:08:49.578605+00:00'
+technology_type: Advanced Underwater Mapping System
+access_restriction: Public Access with Security Restrictions
 ---
+
 
 # The Depth Chart
 *Comprehensive Underwater Navigation and Mapping System*

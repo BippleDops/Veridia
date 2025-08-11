@@ -1,23 +1,31 @@
 ---
-tags: [faction, maritime, aquabyssos, shadow-operations, transportation, smuggling]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Maritime Organization"
-alignment: "Chaotic Neutral"
-headquarters: "[[The Phantom Docks]]"
-leader: "[[Harbor Master Tideshade]]"
-members: "~800 sailors, dock workers, and maritime specialists"
-influence: "Coastal regions and sea routes"
-wealth: "Substantial (shadow trade and smuggling)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- faction
+- maritime
+- shadow-operations
+- smuggling
+- transportation
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Maritime Organization
+alignment: Chaotic Neutral
+headquarters: '[[The Phantom Docks]]'
+leader: '[[Harbor Master Tideshade]]'
+members: ~800 sailors, dock workers, and maritime specialists
+influence: Coastal regions and sea routes
+wealth: Substantial (shadow trade and smuggling)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.201508+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Shadow Marina
 *The Phantom Fleet, Harbormasters of the Void, The Twilight Tide*
@@ -429,3 +437,8 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 ---
 
 *"The shadow tides carry more than cargo - they bear the hopes, fears, and dreams of those who dare sail between worlds."* - Harbor Master Tideshade
+
+
+## Connections
+
+- [[Party Shadows]]

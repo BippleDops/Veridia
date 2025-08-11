@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, church, religion, tidal, throne, worship, spiritual, underwater, divine]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Religious Temple"
-parent_location: "Abyssos Prime"
-depth: "2,800 feet"
-danger_level: 1
-population: "~200 clergy, pilgrims, and worshippers"
-government: "Ecclesiastical Authority of the Deep Current"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.555896+00:00'
+created: '2025-08-11T13:08:50.555896+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Church of the Tidal Throne
 *Sacred Heart of the Underwater Realm*
@@ -199,3 +194,10 @@ Spiritual benefits granted through religious ceremonies.
 **Sacred Resources**: Access to blessed items, healing services, and protective ceremonies.
 **Information Network**: Religious contacts throughout the kingdom provide intelligence and communication opportunities.
 **Diplomatic Channel**: Church connections facilitate negotiations with other realms and cultural groups.
+
+
+## Connections
+
+- [[Prophet Nerida Voidgazer]]
+- [[New Tethys]]
+- [[The Bathyal Palace]]

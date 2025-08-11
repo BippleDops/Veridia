@@ -1,21 +1,36 @@
 ---
-tags: [location, crystal, research, facility, underwater, science]
-status: "completed"
-world: "Aquabyssos"
-region: "[[Pressure Zones]]"
-type: "Crystal Research Facility"
+tags:
+- aquabyssos
+- completed
+- crystal
+- crystal-research-facility
+- facility
+- location
+- research
+- science
+- underwater
+status: completed
+world: Aquabyssos
+region: '[[Pressure Zones]]'
+type: Location
 population: 1200
 danger_level: 6
-government: "[[The Crystal Academy Council]]"
-leader: "[[Master Crystallographer Aurora Prismheart]]"
-specialties: ["Crystal Research", "Pressure Magic", "Deep Science"]
-depth: "8,000 feet below surface"
-created: 2025-08-08
-  - Category/Place
+government: '[[The Crystal Academy Council]]'
+leader: '[[Master Crystallographer Aurora Prismheart]]'
+specialties:
+- Crystal Research
+- Pressure Magic
+- Deep Science
+depth: 8,000 feet below surface
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.059694+00:00'
 ---
+
+
+
 
 # Crystallium
 *The Underwater Crystal Laboratory*
@@ -235,3 +250,15 @@ While at Crystallium, characters experience:
 ---
 
 *"At Crystallium, we don't just study the depths - we master them, one crystal at a time."*
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Continental Connections & Story Weave]]
+- [[Nereidios]]
+- [[Aether Crystals]]
+- [[Smuggler's Gambit]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Aquabyssos - Session 07 - The Resonance Revelation]]

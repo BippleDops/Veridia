@@ -1,32 +1,41 @@
 ---
 tags:
-  - Category/Group
+- both
+- category/group
+- draft
 MyContainer:
-  - "[[Jungle of Screams|Jungle of Screams]]"
+- '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Knightly Order
 obsidianUIMode: preview
 leader: Bob
 officers:
-  - Officer 1
-  - Officer 2
+- Officer 1
+- Officer 2
 members:
-  - Member 1
-  - Member 2
-  - Member 3
+- Member 1
+- Member 2
+- Member 3
 initiates:
-  - Initiative 1
-  - Initiative 2
-  - Initiative 3
+- Initiative 1
+- Initiative 2
+- Initiative 3
 faction: Faction Name 1
 primary_contact: John Doe
 benefits:
-  - standing: 1
-    reward: What do they get at level 1?
-  - standing: 2
-    reward: What do they get at level 2?
-  - standing: 3
-    reward: What do they get at level 3?
+- standing: 1
+  reward: What do they get at level 1?
+- standing: 2
+  reward: What do they get at level 2?
+- standing: 3
+  reward: What do they get at level 3?
+world: Both
+updated: '2025-08-11T13:08:47.019368+00:00'
+created: '2025-08-11T13:08:47.019368+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 
@@ -244,7 +253,7 @@ dv.paragraph(
 The following people are members of this group.  
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
+TABLE WITHOUT ID link(file.name) AC "Name", char_race AC "Race", char_gender AC "Gender"
 FROM "02_Worldbuilding/People"
 WHERE contains(Connected_Groups, this.file.link)
 SORT file.name ASC

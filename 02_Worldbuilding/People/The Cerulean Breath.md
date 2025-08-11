@@ -1,24 +1,34 @@
 ---
-tags: [npc, dragon-turtle, ancient, aquabyssos, sage, breath-weapon, oceanic]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Ancient Dragon Turtle Sage"
-affiliation: "[[The Depth Wardens]] - Elder Advisor"
-age: "2,847"
-race: "Ancient Dragon Turtle"
-class: "Draconic Sorcerer/Circle of the Land Druid"
+tags:
+- ancient
+- aquabyssos
+- breath-weapon
+- complete
+- dragon-turtle
+- npc
+- oceanic
+- sage
+status: complete
+world: Aquabyssos
+type: NPC
+role: Ancient Dragon Turtle Sage
+affiliation: '[[The Depth Wardens]] - Elder Advisor'
+age: 2,847
+race: Ancient Dragon Turtle
+class: Draconic Sorcerer/Circle of the Land Druid
 level: 20
-alignment: "Neutral Good"
-location: "[[The Cerulean Depths]] - Sapphire Grotto"
-created_by: "auto-stub"
+alignment: Neutral Good
+location: '[[The Cerulean Depths]] - Sapphire Grotto'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.760548+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
+
+
 
 # The Cerulean Breath
 *Maraleth the Eternal Current, Keeper of Deep Memories, Living Library of the Abyss*
@@ -236,7 +246,7 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 **Cerulean Breath (Recharge 5-6).** Maraleth exhales cerulean mist in a 90-foot cone. She chooses one of the following effects:
 - **Healing Mist**: All allied creatures in the area regain 35 (10d6) hit points and are cured of one disease or condition
 - **Water Breathing**: All creatures gain ability to breathe water for 24 hours
-- **Protective Barrier**: Creates wall of solid water (AC 15, 100 hp) lasting 10 minutes
+- **Protective Barrier**: Creates wall of solid water (AS 15, 100 hp) lasting 10 minutes
 - **Calming Cloud**: All creatures must succeed DC 20 Wisdom save or become incapacitated (peaceful) for 1 minute
 
 ### Legendary Actions (3 per turn)
@@ -308,3 +318,10 @@ Despite her peaceful nature, Maraleth is still an ancient dragon turtle when thr
 - Her mobile ecosystem offers unique opportunities for underwater adventures and encounters
 - The Deep Memory Archives provide plot hooks involving lost knowledge, historical mysteries, and cultural preservation
 - Her philosophical struggles with immortality and loss create opportunities for deeper character development and moral complexity
+
+
+## Connections
+
+- [[Sage Lysander Deepthought]]
+- [[New Tethys]]
+- [[The Cerulean Trench]]

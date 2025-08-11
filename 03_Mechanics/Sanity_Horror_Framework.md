@@ -1,17 +1,23 @@
 ---
 title: Complete Sanity & Horror Framework
-type: mechanics  
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - sanity
-  - madness
-  - horror
-  - cosmic-horror
-  - psychological
+- both
+- complete
+- cosmic-horror
+- horror
+- madness
+- mechanics
+- psychological
+- sanity
 created: 2025-01-23
 version: 1.0
+world: Both
+updated: '2025-08-11T13:08:47.084274+00:00'
 ---
+
+
 
 # Complete Sanity & Horror Framework
 *When Reality Itself Becomes the Enemy*

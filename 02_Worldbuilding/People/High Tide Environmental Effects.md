@@ -1,15 +1,24 @@
 ---
-tags: [lore, environment, tides, effects, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- effects
+- environment
+- lore
+- tides
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Environmental
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.883981+00:00'
 ---
+
+
+
 
 # High Tide Environmental Effects
 
@@ -77,3 +86,38 @@ High Tide periods in Aquabyssos bring significant environmental changes affectin
 
 ## DM Notes
 Use High Tide periods to add environmental challenge and opportunity to adventures. The enhanced magic and creature activity provide narrative justification for unusual encounters and plot developments.
+
+
+## Connections
+
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

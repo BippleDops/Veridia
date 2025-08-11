@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.968866+00:00'
+created: '2025-08-11T13:08:50.968866+00:00'
+status: draft
 tags:
-  - location
-  - market
-  - economic
-  - trade
-  - merchants
-type: Grand Market
-region: "[[02_Worldbuilding/Places/Port Meridian]]"
+- both
+- draft
+type: Location
 danger_level: Moderate
-controlled_by: "[[02_Worldbuilding/Groups/Merchant Princes]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/grand_bazaar_echoing_coins.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # The Grand Bazaar of Echoing Coins
 *Where Every Currency Sings and All Fortunes Are Made*

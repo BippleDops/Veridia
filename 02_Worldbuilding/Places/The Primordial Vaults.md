@@ -1,15 +1,17 @@
 ---
-tags: [location, dungeon, ancient, extreme_danger]
-aliases: [The Primordial Vaults, The First Prison, The Origin Deep]
-created: 2024-12-19
-image: "04_Resources/Assets/Locations/primordial_vaults.jpg"
-danger_level: "Extreme"
-depth: "8000-12000 feet"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.301978+00:00'
+created: '2025-08-11T13:08:50.301978+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Primordial Vaults - The First Prison
 
@@ -153,3 +155,8 @@ Black water that doesn't reflect anything - falling in erases you from history.
 - [[Memory Heist]] - Steal specific memories from the Core
 - [[Temporal Rescue]] - Save explorers from time loops
 - [[The First Truth]] - Learn why the vaults were built
+
+
+## Connections
+
+- [[Stop the Shadow Harvest]]

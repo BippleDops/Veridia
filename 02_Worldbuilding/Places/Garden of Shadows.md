@@ -1,15 +1,25 @@
 ---
-tags: [location, garden, shadows, mysterious, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- garden
+- location
+- mysterious
+- shadows
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.301293+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Garden of Shadows
 
@@ -109,3 +119,28 @@ Initially viewed with suspicion by some citizens who associated darkness with ma
 ## Connections
 
 The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
+- [[Lumengarde]]
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

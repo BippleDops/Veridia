@@ -1,19 +1,30 @@
 ---
-tags: [organization, military, crystal, guardian, aethermoor, elite, magical, protection, order]
-status: "complete"
-world: "Aethermoor"
-type: "organization"
-security_level: "high"
-access: "military_only"
-danger_level: "moderate"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crystal
+- elite
+- guardian
+- magical
+- military
+- order
+- organization
+- protection
+status: complete
+world: Aethermoor
+type: Location
+security_level: high
+access: military_only
+danger_level: Moderate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.505273+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # The Crystal Wardens
 
@@ -552,3 +563,10 @@ Evidence hints at the existence of a rival or subsidiary organization operating 
 ---
 
 *The Crystal Wardens stand as living embodiments of Aethermoor's finest ideals: the marriage of technology and wisdom, the balance of power and responsibility, and the eternal vigilance required to protect what is precious and fragile. In their crystal-bonded hearts burns the light of duty, honor, and sacrifice that illuminates the path forward for all who would defend the innocent and preserve the peace.*
+
+
+## Connections
+
+- [[Aetheron]]
+- [[The Final Choice]]
+- [[Crystalhaven]]

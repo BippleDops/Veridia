@@ -1,37 +1,43 @@
 ---
-tags: [npc, aquabyssos, parliament, shadow-replaced]
-first_name: "Glaucus"
-last_name: "Tidecaller"
-title: "Senator"
-location: "[[Abyssos Prime - Parliament of Echoes]]"
-faction: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-secondary_faction: "[[Shadow Conspiracy]]"
-occupation: "Senator (Shadow-replaced)"
+tags:
+- aquabyssos
+- both
+- draft
+- npc
+- parliament
+- shadow-replaced
+first_name: Glaucus
+last_name: Tidecaller
+title: Senator
+location: '[[Abyssos Prime - Parliament of Echoes]]'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+secondary_faction: '[[Shadow Conspiracy]]'
+occupation: Senator (Shadow-replaced)
 disposition: -2
-alignment: "Lawful Evil"
-race: "Human (Shadow)"
-original_race: "Human"
-class: "Noble"
+alignment: Lawful Evil
+race: Human (Shadow)
+original_race: Human
+class: Noble
 level: 7
 ac: 15
 max_hp: 52
 current_hp: 52
 influence: 6
 faction_rank: 3
-shadow_status: "Replaced"
+shadow_status: Replaced
 shadow_independence: 6
 depth_adapted: 4
-portrait: ""
-relationship_type: "political"
-relationships: 
-  - "[[02_Worldbuilding/People/The Scattered Emperor]]"
-  - "[[02_Worldbuilding/People/Shadow Duchess Nyx]]"
-  - "[[Marina Red Tide Coralheart - Aquabyssos]]"
-  - "[[Original Glaucus]] (imprisoned)"
+portrait: ''
+relationship_type: political
+relationships:
+- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[Original Glaucus]] (imprisoned)'
 related_quests:
-  - "[[Investigate Shadow Conspiracy]]"
-  - "[[Shadow Citizenship Act]]"
-last_encounter: "[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]"
+- '[[Investigate Shadow Conspiracy]]'
+- '[[Shadow Citizenship Act]]'
+last_encounter: '[[1-Session Journals/Aquabyssos - Session 01 - The Drowning Welcome]]'
 stats:
   str: 10
   dex: 14
@@ -39,19 +45,26 @@ stats:
   int: 16
   wis: 12
   cha: 15
-description: "Tall, thin figure with translucent skin showing dark veins beneath. Laughs at inappropriate times."
-notes: "Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows."
-secrets: 
-  - "Is actually the shadow of the original Senator"
-  - "Reports directly to Shadow Duchess Nyx"
-  - "Knows location of shadow transformation facility"
-  - "Original Glaucus still alive but imprisoned"
-created: 2025-08-07
-  - Category/People
+description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
+  at inappropriate times.
+notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
+secrets:
+- Is actually the shadow of the original Senator
+- Reports directly to Shadow Duchess Nyx
+- Knows location of shadow transformation facility
+- Original Glaucus still alive but imprisoned
+created: 2025-08-07 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.697564+00:00'
+status: draft
+type: NPC
 ---
+
+
+
 
 # Senator Glaucus Tidecaller
 ## Shadow Replacement
@@ -251,3 +264,11 @@ Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent 
 ---
 
 *"In the Parliament of Echoes, even the senators are just shadows of democracy."*
+
+
+## Connections
+
+- [[Senator]]
+- [[Parliament of Echoes]]
+- [[Rescue Senator Glaucus]]
+- [[Campaign_Relationship_Matrix]]

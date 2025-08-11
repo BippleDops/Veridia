@@ -1,15 +1,26 @@
 ---
-tags: [npc, elder, stoneward, dwarf, engineer, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aethermoor
+- complete
+- dwarf
+- elder
+- engineer
+- npc
+- stoneward
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.459000+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Elder Matthias Stoneward
 
@@ -102,3 +113,39 @@ He's been conducting discrete investigations while maintaining his regular dutie
 
 ## DM Notes
 Matthias serves as a valuable source of information about Aethermoor's hidden areas and structural vulnerabilities. His engineering expertise can provide creative solutions to challenges or create dramatic scenarios involving the island's stability. Use his outsider perspective and growing suspicions to highlight the Silverscale Conspiracy's influence while providing a trustworthy ally for characters seeking to uncover the truth.
+
+
+## Connections
+
+- [[Captain Blackwater]]
+- [[Captain Thaddeus Blackwater]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

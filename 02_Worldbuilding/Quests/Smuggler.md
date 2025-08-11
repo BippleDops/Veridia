@@ -1,16 +1,25 @@
 ---
-tags: [complete, smuggling, infiltration, undercover, criminal-network, investigation]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-expansion"
+tags:
+- aquabyssos
+- complete
+- criminal-network
+- infiltration
+- investigation
+- quest
+- smuggling
+- undercover
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-expansion
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.026791+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Smuggler
 
@@ -87,7 +96,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 **Shadow Market Enforcer**
 **CR 5** (1,800 XP)  
 **Medium humanoid (aquatic), chaotic evil**
-**AC** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
+**AS** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
 **STR** 16 (+3) **DEX** 16 (+3) **CON** 14 (+2) **INT** 12 (+1) **WIS** 13 (+1) **CHA** 15 (+2)
 **Saving Throws** Dex +6, Cha +5  
 **Skills** Intimidation +8, Perception +4, Stealth +6  
@@ -106,7 +115,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 **Siren Blackwater**
 **CR 7** (2,900 XP)  
 **Medium humanoid (merfolk), chaotic neutral**
-**AC** 17 (Studded Leather + magical enhancement), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 50 ft.
+**AS** 17 (Studded Leather + magical enhancement), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 50 ft.
 **STR** 14 (+2) **DEX** 18 (+4) **CON** 16 (+3) **INT** 16 (+3) **WIS** 15 (+2) **CHA** 20 (+5)
 **Saving Throws** Dex +7, Cha +8  
 **Skills** Deception +11, Insight +8, Persuasion +11, Sleight of Hand +7  
@@ -172,7 +181,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 **Border Guardian**
 **CR 8** (3,900 XP)  
 **Large elemental, neutral**
-**AC** 16 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 30 ft., fly 60 ft.
+**AS** 16 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 30 ft., fly 60 ft.
 **STR** 20 (+5) **DEX** 14 (+2) **CON** 20 (+5) **INT** 10 (+0) **WIS** 16 (+3) **CHA** 12 (+1)
 **Damage Resistances** Lightning, Thunder  
 **Damage Immunities** Poison
@@ -212,7 +221,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 **Marcus "Tide Walker" Deepcurrent**
 **CR 9** (5,000 XP)  
 **Medium humanoid (aquatic), chaotic good**
-**AC** 18 (Studded Leather + magical items), **HP** 127 (15d8 + 60), **Speed** 30 ft., swim 50 ft.
+**AS** 18 (Studded Leather + magical items), **HP** 127 (15d8 + 60), **Speed** 30 ft., swim 50 ft.
 **STR** 14 (+2) **DEX** 20 (+5) **CON** 18 (+4) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 16 (+3)
 **Saving Throws** Dex +10, Wis +9  
 **Skills** Acrobatics +10, Deception +8, Insight +9, Perception +9, Sleight of Hand +15, Stealth +15  

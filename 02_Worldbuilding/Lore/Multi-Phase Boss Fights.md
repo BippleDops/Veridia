@@ -1,14 +1,25 @@
 ---
-tags: [mechanics, combat, boss-fights, multi-phase, epic-encounters, both-realms]
-status: "complete"
-world: "Both"
-type: "game-mechanics"
-system: "D&D 5e"
-complexity: "Advanced"
-created_by: "auto-stub"
+tags:
+- boss-fights
+- both
+- both-realms
+- combat
+- complete
+- epic-encounters
+- game-mechanics
+- mechanics
+- multi-phase
+status: complete
+world: Both
+type: Lore
+system: D&D 5e
+complexity: Advanced
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.749513+00:00'
 ---
+
+
 
 # Multi-Phase Boss Fights
 *Epic Encounters Across the Merged Realms*
@@ -794,3 +805,11 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **[[Phase Transition Special Effects]]**: Dramatic presentation guidelines
 
 Multi-phase boss fights serve as climactic encounters that combine mechanical challenge with narrative payoff, creating memorable moments that define character arcs and campaign storylines while showcasing the unique properties and dangers of the merged realms.
+
+
+## Connections
+
+- [[Initiative Tracker]]
+- [[Random Encounters]]
+- [[Compass Quest]]
+- [[Aethermoor - Session 05 The Queens Madness]]

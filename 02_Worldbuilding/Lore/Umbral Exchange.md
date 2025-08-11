@@ -1,18 +1,34 @@
 ---
-tags: [technology, shadow-magic, dimensional-commerce, magical-trading, umbral-technology, shadow-manipulation, inter-dimensional, economic-systems, magical-infrastructure, reality-interface]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Magical Commerce Technology"
-significance: "Critical Economic Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- dimensional-commerce
+- economic-systems
+- inter-dimensional
+- lore
+- magical-infrastructure
+- magical-trading
+- reality-interface
+- shadow-magic
+- shadow-manipulation
+- technology
+- umbral-technology
+status: complete
+world: Aquabyssos
+type: Lore
+category: Magical Commerce Technology
+significance: Critical Economic Infrastructure
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-11
-technology_type: "Dimensional Commerce Interface"
-access_restriction: "Licensed Traders Only"
-danger_level: "Moderate"
-operational_status: "Active with Restrictions"
+technology_type: Dimensional Commerce Interface
+access_restriction: Licensed Traders Only
+danger_level: Moderate
+operational_status: Active with Restrictions
+updated: '2025-08-11T13:08:49.075154+00:00'
 ---
+
+
 
 # Umbral Exchange
 *The Shadow Market of Dimensional Commerce*
@@ -473,3 +489,16 @@ Involvement with Exchange operations provides numerous opportunities for charact
 - [[02_Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
 
 The Umbral Exchange represents more than a technological achievement or economic infrastructure—it embodies Aquabyssos' bold vision of a future where the boundaries between dimensions become pathways for cooperation, understanding, and mutual prosperity. Through this remarkable system, the very concept of reality becomes fluid, commerce transcends physical limitations, and the impossible becomes merely another commodity in the marketplace of infinite possibility.
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Crystal Forest]]
+- [[Silver Mask]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Deep Mother]]
+- [[The Memory Weapon Arms Race]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

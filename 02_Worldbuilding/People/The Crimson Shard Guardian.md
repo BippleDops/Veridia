@@ -1,15 +1,28 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, guardian, elemental, corrupted]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard Guardian"
-affiliation: "None (Bound to Shard)"
-race: "Corrupted Water Elemental"
-location: "[[02_Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corrupted
+- elemental
+- guardian
+- npc
+- person
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard Guardian
+affiliation: None (Bound to Shard)
+race: Corrupted Water Elemental
+location: '[[02_Worldbuilding/Places/Port Meridian]] Harbor (Sunken Ship)'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.689617+00:00'
+cr: '18'
 ---
+
+
+
 
 # The Crimson Shard Guardian
 *Bound Elemental, Herald of the Blood Plague*
@@ -453,3 +466,9 @@ During a moment of clarity, the Guardian manages to communicate its desire for f
 - **Character Development**: Guardian's fate reflects party's approach to redemption vs. destruction
 - **Campaign Integration**: Central to Port Meridian storylines and Crimson Shard arc
 - **Power Balance**: Extremely dangerous in harbor environment, helpless if separated from water
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Discover Marina's Truth]]
+- [[Emperor Thalassius the Wise]]

@@ -1,11 +1,22 @@
 ---
-tags: [faction, merchants, surface-world, trade]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- faction
+- merchants
+- surface-world
+- trade
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.448248+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Surface Traders
 
@@ -129,3 +140,38 @@ Operating in legal gray areas, they provide access to surface goods that many in
 
 ## DM Notes
 Surface Traders provide adventure opportunities involving smuggling, diplomacy, and cross-cultural conflict. They can serve as allies, employers, or obstacles depending on campaign needs and player actions.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

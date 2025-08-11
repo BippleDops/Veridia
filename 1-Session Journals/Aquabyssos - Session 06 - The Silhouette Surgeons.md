@@ -1,31 +1,44 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, active]
+tags:
+- active
+- aquabyssos
+- parliament-shadows
+- planned
+- session
+- session-journal
 session_number: 6
-title: "The Silhouette Surgeons"
-date_played: 
-location: [[Tenebrarum]]
-depth: "4,000 ft"
+title: The Silhouette Surgeons
+date_played: null
+location:
+- - Tenebrarum
+depth: 4,000 ft
 npcs_featured:
-  - [[02_Worldbuilding/People/The Silhouette Surgeon Prime]]
-  - [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-  - [[Shadow Marina]]
-  - [[Jasper "Three-Eyes" Flint]]
-status: "planned"
+- - - 02_Worldbuilding/People/The Silhouette Surgeon Prime
+- - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
+- - - Shadow Marina
+- - - Jasper "Three-Eyes" Flint
+status: planned
 party_level: 6
-estimated_time: "4 hours"
+estimated_time: 4 hours
 themes:
-  - Body horror
-  - Identity crisis
-  - Medical nightmare
+- Body horror
+- Identity crisis
+- Medical nightmare
 quests_advanced:
-  - [[Stop the Shadow Harvest]]
-  - [[02_Worldbuilding/Lore/Discover Marina's Truth|Discover Marina's Truth]]
-  - [[Infiltrate Surgical Facilities]]
-type: Session Journal
+- - - Stop the Shadow Harvest
+- - - 02_Worldbuilding/Lore/Discover Marina's Truth|Discover Marina's Truth
+- - - Infiltrate Surgical Facilities
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:47.000383+00:00'
+created: '2025-08-11T13:08:47.000383+00:00'
 ---
+
+
+
 
 # Session 6: The Silhouette Surgeons
 ## The Nightmare Hospital
@@ -110,13 +123,13 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 - **Emotional Plea**: Disadvantage on attacks against them
 
 ### Surgical Staff (6)
-- **AC** 14, **HP** 38 each
+- **AS** 14, **HP** 38 each
 - **Surgical Tools**: 1d6+2 piercing
 - **Anesthetic Gas**: CON DC 14 or paralyzed 1 minute
 - **Pack Tactics**: Advantage when adjacent
 
 ### The Silhouette Surgeon Prime (Phase 2)
-- **AC** 18, **HP** 120
+- **AS** 18, **HP** 120
 - **Legendary Resistance** (3/day)
 - **Lair Actions**: Surgical equipment attacks
 - **Shadow Multiplication**: Splits into 3 shadows at half HP

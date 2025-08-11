@@ -1,15 +1,25 @@
 ---
-tags: [npc, healer, sage, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- healer
+- npc
+- sage
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.408263+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Healer Sage Bondseer
 
@@ -37,7 +47,7 @@ Her hands bear the telltale signs of a lifetime healer - gentle but strong, with
 
 ## Statistics
 **Medium humanoid (triton), lawful good**
-- **AC** 13 (Natural Armor)
+- **AS** 13 (Natural Armor)
 - **HP** 65 (10d8 + 20)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 14 (+2) **CON** 15 (+2) **INT** 16 (+3) **WIS** 20 (+5) **CHA** 18 (+4)
@@ -97,3 +107,38 @@ She's been quietly building a network of trusted healers and empaths throughout 
 
 ## DM Notes
 Bondseer serves as an excellent information source and neutral safe haven for parties. Her bond-sight ability can provide unique insights into NPCs' relationships and motivations. Use her empathic abilities to provide emotional depth to encounters and to highlight the human cost of the political conflicts in Aquabyssos.
+
+
+## Connections
+
+- [[Lumengarde]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,12 +1,20 @@
 ---
-tags: [lore, location, prismatic, magical-phenomenon, underwater-feature]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- location
+- lore
+- magical-phenomenon
+- prismatic
+- underwater-feature
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.652248+00:00'
 ---
+
 
 # Prismatic Falls
 

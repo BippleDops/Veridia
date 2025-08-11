@@ -1,17 +1,33 @@
 ---
-tags: [conspiracy, intrigue, silverscale, banking, corruption, political-manipulation, aethermoor, aquabyssos, power-struggle, secret-society]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- banking
+- both-worlds
+- complete
+- conspiracy
+- corruption
+- intrigue
+- lore
+- political-manipulation
+- power-struggle
+- secret-society
+- silverscale
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-conspiracy_type: "Economic and Political Manipulation"
-scope: "Cross-world influence network"
+updated: '2025-08-11T13:08:49.241456+00:00'
+conspiracy_type: Economic and Political Manipulation
+scope: Cross-world influence network
 danger_level: 4
-active_period: "Past 150 years, escalating recently"
-primary_agents: "Silverscale Banking House and allied organizations"
+active_period: Past 150 years, escalating recently
+primary_agents: Silverscale Banking House and allied organizations
 ---
+
+
+
 
 # The Silverscale Conspiracy
 *The Hidden Network That Shapes Two Worlds Through Economic Control*
@@ -108,3 +124,18 @@ Investigation reveals Silverscale conspiracy involvement in financing [[The Grea
 - [[Silverscale Emergency Bunker]] - Hidden facility for conspiracy coordination
 - [[02_Worldbuilding/Groups/Silverscale Consortium]] - Broader network of allied organizations
 - [[Investigative Chronicler Darius Truthseeker]] - Leading researcher exposing conspiracy activities
+
+
+## Connections
+
+- [[Crimson Hand Strike Team]]
+- [[Crystal Festival]]
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Restoration Movement]]
+- [[Timeline of Crimes]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, laboratory, engineering, depthwright, technology, innovation, research]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Engineering Research Laboratory"
-parent_location: "The Innovation District"
-depth: "6,000 feet"
-danger_level: 2
-population: "120 (engineers, researchers, and technicians)"
-government: "Independent Research Institution"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.335231+00:00'
+created: '2025-08-11T13:08:50.335231+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Depthwright Laboratory
 *Where Innovation Meets the Depths*
@@ -529,3 +524,9 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Impact**: Personal impact through contribution to technological advancement
 
 The Depthwright Laboratory represents the pinnacle of underwater engineering innovation, where [[Engineer Prisma Depthwright]]'s visionary leadership combines with brilliant research talent to create technological solutions that transform the possibilities for underwater civilization. Through revolutionary research programs, collaborative innovation culture, and unwavering commitment to practical applications, this facility continues to push the boundaries of what's possible in the depths, proving that human ingenuity and determination can overcome even the most challenging environmental constraints to create a better future for all underwater societies.
+
+
+## Connections
+
+- [[Depth Adaptation Points]]
+- [[Pearl_Harbor_City]]

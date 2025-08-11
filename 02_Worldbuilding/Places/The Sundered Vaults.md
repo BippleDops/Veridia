@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.616474+00:00'
+created: '2025-08-11T13:08:50.616474+00:00'
+status: draft
 tags:
-  - location
-  - dungeon
-  - combat
-  - vault
-  - ancient
-type: Underground Vault Complex
-region: "[[02_Worldbuilding/Places/The Sundered Peaks]]"
-danger_level: Extreme
-controlled_by: "Ancient Guardians"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/sundered_vaults.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Sundered Vaults
 *Where Gods' Treasures Sleep and Ancient Powers Wake*

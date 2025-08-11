@@ -1,31 +1,17 @@
 ---
-tags: [location, aquabyssos, forgotten, antimemetic]
-type: "location"
-campaign: "Aquabyssos"
-location_type: "Antimemetic Continent"
-depth: "Variable (exists outside normal space)"
-danger_level: "Cannot be remembered"
-population: "Unknown (counting requires remembering)"
-notable_features:
-  - "Continent everyone forgets exists"
-  - "Antimemetic field prevents memory formation"
-  - "History that unhappened"
-  - "The Archives of Never-Was"
-faction_control: "[[The Unremembered Parliament]]"
-connected_locations:
-  - "Nowhere (connections are forgotten)"
-  - "[[02_Worldbuilding/Places/The Memory Meadows]]" (theoretical)
-  - "Itself (recursive forgetting)"
-environment_effects:
-  - "Antimemetic Field (cannot form memories here)"
-  - "Existence Uncertainty (DC 20 WIS to remember you exist)"
-  - "Identity Dissolution (lose 1d4 memories per hour)"
-image: "04_Resources/Assets/locations/memoriam-void.webp"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.625349+00:00'
+created: '2025-08-11T13:08:50.625349+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Memoriam - The Forgotten Continent
 
@@ -199,3 +185,8 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 
 *"This journal entry is the only proof I have that Memoriam exists. By the time you read this, you'll have forgotten where you found it. By the time I reread it, I'll have forgotten I wrote it. But somewhere, nowhere, and everywhere, an entire continent of people lives, dies, and forgets, and forgetting, forgets to forget."*
 — Found carved into ...
+
+
+## Connections
+
+- [[The Forgotten One]]

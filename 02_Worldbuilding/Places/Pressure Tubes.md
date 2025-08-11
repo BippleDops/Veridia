@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, transportation, tubes, pressure, technology, infrastructure, underwater, rapid-transit]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Transportation Infrastructure"
-parent_location: "Aquabyssos Realm"
-depth: "Various depths, 500-5000 feet"
-danger_level: 2
-population: "~50 operators and maintenance staff per station"
-government: "Department of Underwater Transit Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.417875+00:00'
+created: '2025-08-11T13:08:50.417875+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Pressure Tubes
 *The Circulatory System of the Deep Realm*
@@ -286,3 +281,22 @@ Compact emergency shelters designed to protect passengers during tube system fai
 **Emergency Situations**: System failures, attacks, or natural disasters affecting the tube network create urgent scenarios that require immediate character response and can affect kingdom-wide stability.
 
 **Political Implications**: Access to different transportation routes and priority levels reflects characters' political status and can be used to demonstrate their growing influence or falling favor with authorities.
+
+
+## Connections
+
+- [[Aethermoor to Aquabyssos Transition Guide]]
+- [[Crystal Forest]]
+- [[Depth Adaptation Points]]
+- [[Depth Effect Quick Reference]]
+- [[Eastern Kingdoms 2]]
+- [[Pressure Adaptation System]]
+- [[Pressure Tube Operator Krill]]
+- [[The Deep Harvest]]
+- [[The Depth Chart]]
+- [[Tidal Chambers]]
+- [[Underwater Breathing]]
+- [[Abyssos Prime]]
+- [[Dream Rails]]
+- [[Pressure Tube Terminal]]
+- [[Rescue Senator Glaucus]]

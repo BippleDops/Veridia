@@ -1,20 +1,38 @@
 ---
-tags: [location, library, knowledge, ruins, aquabyssos, archive, scholars, ancient-wisdom, underwater-city]
-status: "complete"
-world: "Aquabyssos"
-type: "Ancient Library/Archive"
-category: "Ruins/Knowledge Repository"
-depth: "2500-3000 feet"
-difficulty: "Levels 6-12"
-original_builder: "[[Scholar Emperor Thalassius the Wise]]"
-current_state: "Partially Flooded Ruins"
-danger_level: "Moderate-High"
-population: "50+ (scholars, guardians, spirits)"
-age: "800+ years old"
+tags:
+- ancient-library/archive
+- ancient-wisdom
+- aquabyssos
+- archive
+- complete
+- knowledge
+- library
+- location
+- ruins
+- scholars
+- underwater-city
+status: complete
+world: Aquabyssos
+type: Location
+category: Ruins/Knowledge Repository
+depth: 2500-3000 feet
+difficulty: Levels 6-12
+original_builder: '[[Scholar Emperor Thalassius the Wise]]'
+current_state: Partially Flooded Ruins
+danger_level: Moderate-High
+population: 50+ (scholars, guardians, spirits)
+age: 800+ years old
 created: 2025-08-10
-updated: 2025-08-10
-related_entities: ["[[Scholar Emperor Thalassius the Wise]]", "[[02_Worldbuilding/Groups/The Scribes' Covenant]]", "[[Order of Preserved Knowledge]]", "[[The Deep Archives]]"]
+updated: '2025-08-11T13:08:50.135631+00:00'
+related_entities:
+- '[[Scholar Emperor Thalassius the Wise]]'
+- '[[02_Worldbuilding/Groups/The Scribes'' Covenant]]'
+- '[[Order of Preserved Knowledge]]'
+- '[[The Deep Archives]]'
 ---
+
+
+
 
 # The Sunken Library of Thalassius
 *Where Knowledge Sleeps Beneath the Waves*
@@ -817,3 +835,12 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 *"In the depths where knowledge sleeps, every book is a message in a bottle from a drowned world. Here, the past speaks to the present through words that survived when cities fell and civilizations ended."*  
 — [[Keeper Aquaeous Depth-Scholar]], Chief Librarian
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Aboleth Adjunct Yzz]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Amnesia Gallery]]
+- [[Maelstrom Palace]]
+- [[The_Second_Rising]]

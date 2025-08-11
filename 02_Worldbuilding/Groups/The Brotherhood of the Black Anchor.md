@@ -1,23 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.214062+00:00'
+created: '2025-08-11T13:08:51.214062+00:00'
+status: draft
 tags:
-  - faction
-  - criminal
-  - maritime
-  - smuggling
-  - piracy
-type: Criminal Organization
-alignment: Chaotic Evil
-headquarters: "[[The Hidden Cove of Whispers]]"
-leader: "[[Captain Shadowfin the Unseen]]"
-status: Active
-power_level: Regional Criminal Network
-created: 2025-08-09
-image: "04_Resources/Assets/Factions/brotherhood_black_anchor.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
 
 # The Brotherhood of the Black Anchor
 *In Shadow We Sail, In Silence We Strike*

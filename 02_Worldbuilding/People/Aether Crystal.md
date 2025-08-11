@@ -1,24 +1,33 @@
 ---
-tags: [npc, living-crystal, aethermoor, crystalline-being, elemental, ancient, consciousness]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Living Crystal Consciousness"
-affiliation: "[[The Crystal Resonance Network]] - Prime Node"
-age: "3,450"
-race: "Sentient Aether Crystal Formation"
-class: "Elemental Incarnate/Crystalline Oracle"
+tags:
+- aethermoor
+- ancient
+- complete
+- consciousness
+- crystalline-being
+- elemental
+- living-crystal
+- npc
+status: complete
+world: Aethermoor
+type: NPC
+role: Living Crystal Consciousness
+affiliation: '[[The Crystal Resonance Network]] - Prime Node'
+age: 3,450
+race: Sentient Aether Crystal Formation
+class: Elemental Incarnate/Crystalline Oracle
 level: 18
-alignment: "Lawful Neutral"
-location: "[[The Heart Chamber]] - Crystal Resonance Nexus"
-created_by: "auto-stub"
+alignment: Lawful Neutral
+location: '[[The Heart Chamber]] - Crystal Resonance Nexus'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.914325+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
+
 
 # Aether Crystal
 *Prismatica the Infinite Facet, Voice of the Crystal Harmony, Living Memory of Light*
@@ -295,3 +304,14 @@ Prismatica rarely engages in direct combat, preferring defensive and support str
 - Perfect for campaigns exploring themes of consciousness, the nature of reality, and the relationship between individual and collective identity
 - Their ongoing evolution provides opportunities for major campaign developments as they discover new capabilities or encounter existential threats
 - The crystalline network offers unique opportunities for magical infrastructure adventures and realm-wide coordination
+
+
+## Connections
+
+- [[Shadow Surgeons Collective]]
+- [[Aetheron]]
+- [[Ambassador Korvin Blacktide]]
+- [[Sorrow-Root Nightbloom]]
+- [[Azure Citadel]]
+- [[Aether Crystals]]
+- [[Smuggler's Gambit]]

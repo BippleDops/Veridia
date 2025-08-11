@@ -1,14 +1,39 @@
 ---
-tags: [lore, religion, monastery, aquabyssos, kelp-forest, spiritual-practices, meditation, underwater-mysticism, nature-worship, contemplative-order]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- complete
+- contemplative-order
+- kelp-forest
+- lore
+- meditation
+- monastery
+- nature-worship
+- religion
+- spiritual-practices
+- underwater-mysticism
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-connections: ["[[Deep Mother Cult Practices]]", "[[The Pressure Baptism Rites]]", "[[Temple of the First Tide]]", "[[Tidal Memory Ceremonies]]", "[[The Drowned God]]", "[[Aquabyssos Depth Caste System]]", "[[Pearl Diving Honor Culture]]"]
-themes: ["underwater_monasticism", "kelp_forest_spirituality", "depth_meditation", "oceanic_harmony", "natural_mysticism"]
+updated: '2025-08-11T13:08:47.468688+00:00'
+connections:
+- '[[Deep Mother Cult Practices]]'
+- '[[The Pressure Baptism Rites]]'
+- '[[Temple of the First Tide]]'
+- '[[Tidal Memory Ceremonies]]'
+- '[[The Drowned God]]'
+- '[[Aquabyssos Depth Caste System]]'
+- '[[Pearl Diving Honor Culture]]'
+themes:
+- underwater_monasticism
+- kelp_forest_spirituality
+- depth_meditation
+- oceanic_harmony
+- natural_mysticism
 ---
+
+
 
 # Kelp Forest Monasteries
 
@@ -246,3 +271,10 @@ The Kelp Forest Monasteries represent more than religious institutions - they se
 The monastic tradition also offers a unique perspective on the relationship between consciousness and environment, suggesting that spiritual development requires not transcendence of physical limitations but deeper integration with natural systems. This philosophy has implications for understanding how both [[Aquabyssos]] and [[Aethermoor]] might adapt to the challenges of world convergence.
 
 *"True depth is measured not in fathoms descended, but in the currents of wisdom that flow through a heart opened to the ocean's teaching."* - Abbess Marina Deepcurrent, Founder of the Unified Monastic Community
+
+## Connections
+
+- [[Deep Mother Cult Practices]]
+- [[Kraken Territories]]
+- [[The Bloom Fields]]
+- [[Merchant Prince Akula]]

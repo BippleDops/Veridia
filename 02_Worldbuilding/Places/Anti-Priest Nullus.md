@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, anti-religious, sanctuary, philosophy, controversial, nullus, debate, atheism, reason]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Anti-Religious Philosophical Sanctuary"
-parent_location: "Harbor District"
-depth: "2,900 feet"
-danger_level: 2
-population: "~200 members and visitors"
-government: "Independent philosophical society"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.367156+00:00'
+created: '2025-08-11T13:08:50.367156+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Null Cathedral
 *Sanctuary of Reason Against Divinity*
@@ -261,3 +256,11 @@ The Null Cathedral stands as [[Aquabyssos]]'s most controversial and intellectua
 - [[Secular Community Practices]]
 - [[Intellectual Freedom Movement]]
 - [[Anti-Religious Philosophical Arguments]]
+
+
+## Connections
+
+- [[Prophet Nerida Voidgazer]]
+- [[The Primordial Vaults]]
+- [[Find the Grief Bomb]]
+- [[The Maw of Darkness]]

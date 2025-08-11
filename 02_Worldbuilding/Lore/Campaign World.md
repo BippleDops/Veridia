@@ -1,12 +1,20 @@
 ---
-tags: [lore, campaign-setting, world-overview, aquabyssos, aethermoor]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- campaign-setting
+- complete
+- lore
+- world-overview
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.331741+00:00'
 ---
+
+
 
 # Campaign World
 
@@ -96,3 +104,11 @@ The Great Convergence was actually triggered by an ancient entity attempting to 
 ## Campaign Use
 
 The dual-realm nature of the campaign world provides endless opportunities for adventure variety. Use the contrast between environments to challenge players in different ways, while the interconnected nature ensures that all adventures feel meaningful to the larger world. The political complexity provides rich roleplay opportunities, while the environmental challenges offer unique combat and exploration scenarios.
+
+
+## Connections
+
+- [[Dock Worker Tomás]]
+- [[Random Encounter Tables]]
+- [[Session 0 - Aquabyssos]]
+- [[Templater Advanced]]

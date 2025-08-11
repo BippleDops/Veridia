@@ -1,17 +1,31 @@
 ---
-tags: [adaptation, cultural-exchange, surface-dwellers, aquabyssos, integration, lifestyle-changes, cross-realm-living, environmental-adaptation, social-adaptation, immigration]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- adaptation
+- aquabyssos
+- complete
+- cross-realm-living
+- cultural-exchange
+- environmental-adaptation
+- immigration
+- integration
+- lifestyle-changes
+- lore
+- social-adaptation
+- surface-dwellers
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-adaptation_type: "Cross-Environment Living"
-scope: "Individual and Community"
-process_duration: "Variable"
-success_rate: "Moderate"
-support_systems: "Government and Community Assisted"
+updated: '2025-08-11T13:08:48.911830+00:00'
+adaptation_type: Cross-Environment Living
+scope: Individual and Community
+process_duration: Variable
+success_rate: Moderate
+support_systems: Government and Community Assisted
 ---
+
+
 
 # Surface Dweller Adaptation
 *The Challenge of Living Beneath the Waves*
@@ -351,3 +365,9 @@ Cultural contribution recognition acknowledges character efforts to enrich their
 - [[02_Worldbuilding/Lore/Aethermoor]] - Primary source of surface dwellers seeking adaptation
 - [[02_Worldbuilding/People/Ambassador Marina Depthbridge]] - Successful adaptation model and support provider
 - [[02_Worldbuilding/Places/Coral Gardens District]] - Community with exemplary integration programs
+
+
+## Connections
+
+- [[The Deep Mother]]
+- [[The Restoration Movement]]

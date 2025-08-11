@@ -1,11 +1,20 @@
 ---
-tags: [quest, mystery, celestial, ancient-knowledge]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- ancient-knowledge
+- aquabyssos
+- celestial
+- complete
+- mystery
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.597036+00:00'
+danger_level: Moderate
 ---
+
 
 # The Constellation Mystery
 

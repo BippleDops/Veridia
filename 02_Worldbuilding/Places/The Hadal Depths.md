@@ -1,21 +1,29 @@
 ---
-tags: [location, aquabyssos, deepest-zone, primordial, dangerous, cosmic-horror]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Abyssal Zone"
-depth: "20,000-36,000+ feet"
-population: "Unknown (Non-Euclidean)"
-danger_level: "Catastrophic"
-ruler: "[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- cosmic-horror
+- dangerous
+- deepest-zone
+- location
+- primordial
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Abyssal Zone
+depth: 20,000-36,000+ feet
+population: Unknown (Non-Euclidean)
+danger_level: Catastrophic
+ruler: '[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Place
+updated: '2025-08-11T13:08:50.963426+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Hadal Depths
 *Where Reality Drowns, The Mother's Cradle, The Final Deep*
@@ -374,3 +382,37 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 ---
 
 *"In the Hadal Depths, pressure isn't measured in atmospheres—it's measured in how much reality you're willing to surrender."*
+
+
+## Connections
+
+- [[The Drowning Welcome]]
+- [[Timeline of the Drowning]]
+- [[Vorthak]]
+- [[Admiral Thorne Blackwater]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Pressure Angel Benthia]]
+- [[Aboleth Adjunct Yzz]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Azure Citadel]]
+- [[Compass Quest]]
+- [[Crystallium]]
+- [[Depth Wardens]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Navigator Flux]]
+- [[Old Sally Seasprayer]]
+- [[Pressure's End]]
+- [[The Cerulean Trench]]
+- [[The Forgotten One]]
+- [[The Foundation Depths]]
+- [[The Gilded Shard]]
+- [[The Lock]]
+- [[The Neutral Ground]]
+- [[The Phosphor Markets]]
+- [[The Singing Trenches]]
+- [[The Whispering Peaks]]
+- [[Vault Breach]]
+- [[Crystalline Depths]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]

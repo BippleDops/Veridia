@@ -1,23 +1,31 @@
 ---
-tags: [faction, silk-trade, aethermoor, merchant-guild, luxury-goods, textiles]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Luxury Merchant Guild"
-alignment: "Lawful Neutral"
-headquarters: "[[The Golden Loom]]"
-leader: "[[Lady Venetia Silkwind]]"
-members: "~800 artisans, merchants, and traders"
-influence: "International (Aethermoor and Aquabyssos)"
-wealth: "Exceptional (luxury goods monopoly)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- faction
+- luxury-goods
+- merchant-guild
+- silk-trade
+- textiles
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Luxury Merchant Guild
+alignment: Lawful Neutral
+headquarters: '[[The Golden Loom]]'
+leader: '[[Lady Venetia Silkwind]]'
+members: ~800 artisans, merchants, and traders
+influence: International (Aethermoor and Aquabyssos)
+wealth: Exceptional (luxury goods monopoly)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.360667+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Silk Trade Guild
 *Weavers of Dreams, The Golden Thread, Masters of Luxury Commerce*
@@ -227,3 +235,12 @@ Competing organizations attempt to challenge the Guild's dominance by establishi
 
 **The Royal Commission**
 The Guild receives a prestigious commission to create textiles for a major royal celebration, but the project becomes complicated by court intrigue, family rivalries, and supernatural requirements. The party must ensure the commission succeeds while dealing with sabotage attempts, political maneuvering, and the challenge of working with magical materials that have unpredictable properties and ancient cultural significance.
+
+
+## Connections
+
+- [[Merchant Princes]]
+- [[Port Meridian]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[Smuggler's Gambit]]
+- [[Campaign_Relationship_Matrix]]

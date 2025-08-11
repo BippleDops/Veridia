@@ -1,11 +1,21 @@
 ---
-tags: [quest, heist, crime, stealth]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- crime
+- heist
+- quest
+- stealth
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.483501+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Market Heist
 
@@ -138,3 +148,8 @@ Successful heist establishes criminal reputation but increases law enforcement a
 
 ## DM Notes
 This heist emphasizes planning and teamwork over combat. Reward creative problem-solving and thorough preparation. Consider moral implications and how success or failure affects future campaign opportunities.
+
+
+## Connections
+
+- [[The Phosphor Markets]]

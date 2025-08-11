@@ -1,11 +1,23 @@
 ---
-tags: [npc, beast-master, criminal, dangerous]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- beast-master
+- complete
+- criminal
+- dangerous
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.651417+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Beast Master Krell Chainbreaker
 
@@ -18,7 +30,7 @@ Once a legitimate marine biologist, Krell's descent into criminality began after
 
 ## Statistics
 **Medium humanoid (human)**
-- **AC** 16 (Studded Leather + Natural Armor), **HP** 78, **Speed** 30 ft, swim 40 ft
+- **AS** 16 (Studded Leather + Natural Armor), **HP** 78, **Speed** 30 ft, swim 40 ft
 - **STR** 16 **DEX** 14 **CON** 15 **INT** 17 **WIS** 13 **CHA** 12
 - **Skills** Animal Handling +8, Survival +6, Medicine +6, Arcana +7
 - **Damage Resistances** Cold, Poison
@@ -74,3 +86,40 @@ Now he operates from hidden facilities in abandoned kelp farms, where the scream
 
 ## DM Notes
 Krell should be portrayed as intelligent but completely amoral. His facilities are horrifying but he sees himself as a scientist. Use him to explore themes of abuse of power and scientific ethics.
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[Pressure's End]]
+- [[The Cerulean Trench]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

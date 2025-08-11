@@ -1,16 +1,28 @@
 ---
-tags: [noble-estate, time-magic, frozen, aquabyssos, temporal, mansion, tragedy]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- frozen
+- location
+- mansion
+- noble-estate
+- temporal
+- time-magic
+- tragedy
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Place
+updated: '2025-08-11T13:08:50.766184+00:00'
 MyContainer: None
 MyCategory: Noble Estate
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Thornwhisper Manor - The Unfrozen Estate
 
@@ -41,7 +53,7 @@ The manor is a sprawling complex of interconnected coral towers and kelp gardens
 
 ### [[Lady Vivienne Thornwhisper]] - "The Unfrozen"
 *Medium humanoid (elf), chaotic neutral*
-**AC** 18 (Natural Armor) **HP** 200 **Speed** 30 ft., swim 30 ft., fly 60 ft.
+**AS** 18 (Natural Armor) **HP** 200 **Speed** 30 ft., swim 30 ft., fly 60 ft.
 **STR** 12 **DEX** 18 **CON** 16 **INT** 22 **WIS** 14 **CHA** 20
 
 A tragic figure who appears as multiple versions of herself from different time periods. Her attempts to master temporal magic to save her family have left her fractured across time.
@@ -115,7 +127,7 @@ The manor is riddled with dangerous time effects:
 In areas where temporal protection has failed:
 - **Shadow Tendrils**: 1d6 necrotic damage to creatures entering affected areas
 - **Corruption Whispers**: DC 16 Wisdom save or be charmed by shadowy voices
-- **Temporal Rot**: Equipment ages and degrades rapidly (10% chance per hour of losing 1 point of AC or weapon damage)
+- **Temporal Rot**: Equipment ages and degrades rapidly (10% chance per hour of losing 1 point of AS or weapon damage)
 
 ## Treasure and Resources
 
@@ -234,3 +246,9 @@ Someone is stealing specific memories from the manor's temporal echoes, weakenin
 - **Anniversary of the Freeze**: The entire manor resets to the moment of the temporal casting
 - **Corruption Breach Day**: Annual event when corruption attempts to break through the barriers
 - **The Unfreezing Hour**: One hour per year when all temporal effects temporarily cease
+
+
+## Connections
+
+- [[Inverted Ballroom Wing]]
+- [[Old Valdris]]

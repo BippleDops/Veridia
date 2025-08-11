@@ -1,56 +1,17 @@
 ---
-tags: [location, military, forge, weapons, aquabyssos, industrial, war-machine, pressure-forge]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_name: "The Forge of War"
-location_type: "Military Industrial Complex"
-parent_location: "[[Abyssos Prime]]"
-connected_locations:
-  - "[[The Royal Palace]]"
-  - "[[Port Meridian Harbor]]"
-  - "[[Depth Wardens]]"
-sub_locations:
-  - "[[The Pressure Forges]]"
-  - "[[Arsenal of the Deep]]"
-  - "[[War Machine Assembly Halls]]"
-  - "[[Weapon Testing Grounds]]"
-  - "[[The Armorer's Quarter]]"
-depth: "2200-2800 feet"
-population: 15000
-government: "Military Industrial Council"
-ruler: "[[Forge Master Korax Hammerdeep]]"
-factions:
-  - "[[The Depth Guard]]"
-  - "[[Weapon Smiths Guild]]"
-  - "[[War Machine Engineers]]"
-  - "[[Pressure Cultists]]"
-danger_level: 3
-visited: false
-discovered: false
-services:
-  - "Weapon Manufacturing"
-  - "War Machine Construction"
-  - "Armor Smithing"
-  - "Military Engineering"
-  - "Weapon Testing"
-notable_npcs:
-  - "[[Forge Master Korax Hammerdeep]]"
-  - "[[Arsenal Keeper Thane Ironwill]]"
-  - "[[Chief Engineer Vera Steamheart]]"
-  - "[[Weapon Master Dain Sharpedge]]"
-current_state: "Full wartime production"
-temporal_stability: 85
-shadow_density: "Moderate"
-pressure_effects: "Extreme - used as power source"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.576925+00:00'
+created: '2025-08-11T13:08:50.576925+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Forge of War
 ## Where Pressure Becomes Power, and Power Becomes Victory
@@ -620,3 +581,8 @@ The Forge of War connects with numerous other locations and storylines:
 | Supervisor | Management areas, sensitive production | Supervisory position |
 | Military | Testing grounds, advanced weapons | Military rank/clearance |
 | Command | All areas, classified projects | High command authorization |
+
+
+## Connections
+
+- [[Pressure's End]]

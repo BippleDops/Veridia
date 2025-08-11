@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.992707+00:00'
+created: '2025-08-11T13:08:50.992707+00:00'
+status: draft
 tags:
-  - location
-  - temple
-  - religious
-  - aquatic
-  - sacred
-type: Grand Temple
-region: "[[02_Worldbuilding/Places/The Azure Coast]]"
-danger_level: Low
-controlled_by: "[[The Order of the Flowing Current]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/temple_eternal_tides.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Temple of Eternal Tides
 *Where Sea and Sky Meet in Sacred Harmony*
@@ -36,3 +32,32 @@ The Temple of Eternal Tides serves as the primary religious center for ocean wor
 - **[[02_Worldbuilding/Places/Temple of Divine Order]]** - Theological cooperation and shared missions
 - **[[02_Worldbuilding/People/Brother Marcus Steelbane]]** - Missionary outreach coordinator
 - **[[02_Worldbuilding/People/The Deep Mother]]** - Ancient entity requiring careful theological balance
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

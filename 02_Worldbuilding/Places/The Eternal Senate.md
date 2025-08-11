@@ -1,48 +1,60 @@
 ---
-tags: [location, aquabyssos, government, undead, political, parliament]
-location_name: "The Eternal Senate Chamber"
-location_type: "Undead Parliamentary Complex"
-parent_location: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
+tags:
+- aquabyssos
+- both
+- complete
+- government
+- location
+- parliament
+- political
+- undead
+location_name: The Eternal Senate Chamber
+location_type: Undead Parliamentary Complex
+parent_location: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
 sub_locations:
-  - "[[The Spectral Gallery]]"
-  - "[[Chamber of Eternal Debate]]"
-  - "[[The Voting Crypts]]"
-  - "[[Memory Archive Vaults]]"
-  - "[[The Speaker's Throne]]"
-depth: "2200-2400 feet"
+- '[[The Spectral Gallery]]'
+- '[[Chamber of Eternal Debate]]'
+- '[[The Voting Crypts]]'
+- '[[Memory Archive Vaults]]'
+- '[[The Speaker''s Throne]]'
+depth: 2200-2400 feet
 population: 144
-government: "Undead Parliamentary Democracy"
-ruler: "[[02_Worldbuilding/People/The Eternal Speaker]]"
+government: Undead Parliamentary Democracy
+ruler: '[[02_Worldbuilding/People/The Eternal Speaker]]'
 factions:
-  - "[[The Original Senators]]"
-  - "[[Shadow Replacements]]"
-  - "[[The Transcended]]"
-  - "[[New Death Faction]]"
+- '[[The Original Senators]]'
+- '[[Shadow Replacements]]'
+- '[[The Transcended]]'
+- '[[New Death Faction]]'
 danger_level: 7
 visited: false
 discovered: true
 services:
-  - "Legislative Sessions"
-  - "Undead Rights Advocacy"
-  - "Eternal Citizenship Services"
-  - "Spectral Legal Consultation"
-  - "Death Transition Counseling"
+- Legislative Sessions
+- Undead Rights Advocacy
+- Eternal Citizenship Services
+- Spectral Legal Consultation
+- Death Transition Counseling
 notable_npcs:
-  - "[[02_Worldbuilding/People/The Eternal Speaker]]"
-  - "[[02_Worldbuilding/People/Senator Glaucus]]"
-  - "[[Senator Morticia Graveheart]]"
-  - "[[The Clerk of Souls]]"
-current_state: "Active undead parliament"
+- '[[02_Worldbuilding/People/The Eternal Speaker]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[Senator Morticia Graveheart]]'
+- '[[The Clerk of Souls]]'
+current_state: Active undead parliament
 temporal_stability: 60
-shadow_density: "High"
-pressure_effects: "Moderate"
-status: "complete"
-created: 2025-08-11
-  - Category/Place
+shadow_density: High
+pressure_effects: Moderate
+status: complete
+created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.284914+00:00'
+type: Location
 ---
+
+
 
 # The Eternal Senate Chamber
 ## Where Death is No Barrier to Democracy

@@ -1,18 +1,29 @@
 ---
-tags: [quest, aquabyssos, underwater, diplomatic, ancient, leviathan, deep-sea]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-level_range: "8-12"
-estimated_sessions: "6-8"
-quest_type: "Diplomatic Mission & Ancient Mystery"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- ancient
+- aquabyssos
+- complete
+- deep-sea
+- diplomatic
+- leviathan
+- quest
+- underwater
+status: complete
+world: Aquabyssos
+type: Lore
+level_range: 8-12
+estimated_sessions: 6-8
+quest_type: Diplomatic Mission & Ancient Mystery
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.044874+00:00'
 ---
+
+
+
 
 # The Depth Accords
 
@@ -52,14 +63,14 @@ The quest begins when [[Captain Marina Saltborn]] of the [[Aquabyssos Royal Navy
 ### Key NPCs
 
 **[[Captain Marina Saltborn]]** (Triton Paladin/Diplomat)
-*AC 18, HP 112, STR 16, DEX 10, CON 14, INT 12, WIS 16, CHA 18*
+*AS 18, HP 112, STR 16, DEX 10, CON 14, INT 12, WIS 16, CHA 18*
 - **Skills:** Diplomacy +8, Insight +7, Persuasion +8, Religion +5
 - **Spells:** 1st (4): Command, Cure Wounds, 2nd (3): Hold Person, Zone of Truth, 3rd (3): Counterspell, Dispel Magic, 4th (1): Freedom of Movement
 - **Equipment:** Trident of Tidal Command, Plate Armor (adapted for aquatic use), Diplomatic Seal
 - **Personality:** Honorable but pragmatic, carries the weight of preventing war
 
 **[[Elder Kythara]]** (Ancient Sea Elf Oracle)
-*AC 15, HP 82, STR 8, DEX 16, CON 12, INT 20, WIS 18, CHA 14*
+*AS 15, HP 82, STR 8, DEX 16, CON 12, INT 20, WIS 18, CHA 14*
 - **Skills:** Arcana +11, History +11, Insight +10, Investigation +11
 - **Spells:** 9th level spellcaster, specializing in divination and illusion magic
 - **Special Abilities:** Prophetic Visions, Ancient Knowledge, Water Breathing (permanent)
@@ -77,7 +88,7 @@ Characters must uncover what happened to the [[Coral Throne]]:
 The party encounters [[Depth Walker Zephys]], an emissary from the [[Abyssal Courts]] who delivers an ultimatum: restore the accords within seven days, or the depths will consider the treaty void and act accordingly.
 
 **[[Depth Walker Zephys]]** (Deep One Sorcerer)
-*AC 16, HP 78, STR 12, DEX 14, CON 16, INT 16, WIS 13, CHA 18*
+*AS 16, HP 78, STR 12, DEX 14, CON 16, INT 16, WIS 13, CHA 18*
 - **Skills:** Arcana +7, Deception +8, Intimidation +8, Persuasion +8
 - **Spells:** 7th level spellcaster, specializing in enchantment and transmutation
 - **Special Abilities:** Amphibious, Telepathic Communication, Pressure Adaptation
@@ -115,14 +126,14 @@ The characters arrive at [[Ry'leth]], the ancient city of the [[Deep Ones]], whe
 ### Major NPCs of the Courts
 
 **[[Prince Thalassic]]** (Ancient Deep One Noble)
-*AC 17, HP 135, STR 18, DEX 14, CON 16, INT 18, WIS 15, CHA 16*
+*AS 17, HP 135, STR 18, DEX 14, CON 16, INT 18, WIS 15, CHA 16*
 - **Skills:** Intimidation +7, Persuasion +7, Nature +8, Athletics +8
 - **Special Abilities:** Control Currents, Telepathic Command, Pressure Immunity
 - **Equipment:** Crown of Flowing Waters, Trident of Depths, Ancient Armor
 - **Personality:** Pragmatic ruler who values strength and clear agreements
 
 **[[Princess Nereia]]** (Deep One Archsage)
-*AC 16, HP 95, STR 10, DEX 16, CON 14, INT 22, WIS 17, CHA 14*
+*AS 16, HP 95, STR 10, DEX 16, CON 14, INT 22, WIS 17, CHA 14*
 - **Skills:** Arcana +14, History +14, Investigation +14, Insight +9
 - **Spells:** 18th level spellcaster with access to unique deep-sea magic
 - **Special Abilities:** Mind Reading, Ancient Memory Access, Prophetic Dreams
@@ -130,7 +141,7 @@ The characters arrive at [[Ry'leth]], the ancient city of the [[Deep Ones]], whe
 - **Personality:** Curious and scholarly, but protective of ancient secrets
 
 **[[Prince Abyssos]]** (Deep One Warlord)
-*AC 19, HP 180, STR 20, DEV 12, CON 18, INT 14, WIS 16, CHA 14*
+*AS 19, HP 180, STR 20, DEV 12, CON 18, INT 14, WIS 16, CHA 14*
 - **Skills:** Athletics +11, Intimidation +8, Perception +9, Survival +9
 - **Special Abilities:** Command Deep Armies, Battle Frenzy, Crushing Depths
 - **Equipment:** Armor of the Abyssal Guard, Weapon of Living Water, War Crown
@@ -174,7 +185,7 @@ The characters must infiltrate the [[Void Sanctum]], a hidden fortress built wit
 ### Major Cult NPCs
 
 **[[Magister Voidheart]]** (Corrupted Human Warlock)
-*AC 17, HP 132, STR 10, DEX 14, CON 16, INT 18, WIS 12, CHA 20*
+*AS 17, HP 132, STR 10, DEX 14, CON 16, INT 18, WIS 12, CHA 20*
 - **Skills:** Arcana +10, Deception +11, History +10, Persuasion +11
 - **Spells:** 11th level warlock with unique void magic
 - **Special Abilities:** Void Walking, Reality Distortion, Corruption Touch
@@ -182,7 +193,7 @@ The characters must infiltrate the [[Void Sanctum]], a hidden fortress built wit
 - **Personality:** Charismatic madman who believes chaos will bring true freedom
 
 **[[The Void Speaker]]** (Aberrant Entity)
-*AC 18, HP 165, STR 16, DEX 12, CON 18, INT 20, WIS 15, CHA 22*
+*AS 18, HP 165, STR 16, DEX 12, CON 18, INT 20, WIS 15, CHA 22*
 - **Skills:** All mental skills at +12 or higher
 - **Special Abilities:** Mind Control, Reality Alteration, Void Summoning
 - **Damage Immunities:** Psychic, Force
@@ -341,3 +352,12 @@ With the cult defeated and the throne fragment recovered, the characters must pa
 - Long-term stability of the new accords based on player choices
 
 This quest serves as a masterclass in diplomatic adventure design, offering players the chance to prevent war through negotiation while still providing plenty of opportunities for exploration, mystery-solving, and strategic combat when diplomacy fails.
+
+
+## Connections
+
+- [[The Original Palace]]
+- [[Vault Breach]]
+- [[Diplomatic Tides]]
+- [[Quest - Nature's Balance]]
+- [[The_Second_Rising]]

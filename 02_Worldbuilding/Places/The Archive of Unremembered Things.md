@@ -1,17 +1,17 @@
 ---
-tags: [location, dungeon, library, memory, extreme_danger]
-aliases: [The Forgotten Archive, The Vault of Lost Memories, The Unremembered Halls]
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/archive_unremembered.jpg"
-danger_level: "Extreme"
-depth: "3000-5000 feet"
-world: "Aquabyssos"
-type: "location"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.932012+00:00'
+created: '2025-08-11T13:08:50.932012+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Archive of Unremembered Things
 
@@ -197,3 +197,16 @@ Surface dwellers who die from memory-related magical accidents sometimes find th
 > - One of the Nameless Scribes is actually [[The Scattered Emperor]] from before his fragmentation
 > - The Archive is slowly rising toward the surface as the weight of forgotten things increases
 > - There's a secret chamber containing memories that will be forgotten in the future - a glimpse of prophecy through temporal amnesia
+
+
+## Connections
+
+- [[Archivist Mnemonic the Forgotten]]
+- [[The Forgotten One]]
+- [[The Living Weapon]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

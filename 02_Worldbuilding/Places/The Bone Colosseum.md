@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.677923+00:00'
+created: '2025-08-11T13:08:50.677923+00:00'
+status: draft
 tags:
-  - location
-  - dungeon
-  - combat
-  - arena
-  - underground
-type: Underground Arena
-region: "[[02_Worldbuilding/Places/Port Meridian]]"
-danger_level: High
-controlled_by: "[[02_Worldbuilding/Groups/The Whisper Syndicate]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/bone_colosseum.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Bone Colosseum
 *Where Death is Entertainment and Blood is Currency*

@@ -1,0 +1,64 @@
+---
+world: Both
+updated: '2025-08-11T13:08:50.989806+00:00'
+created: '2025-08-11T13:08:50.989806+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
+---
+
+
+
+# Market District
+
+## Overview
+The bustling heart of Westmarch City's commerce, where merchants hawk their wares from dawn till dusk. The air fills with the sounds of haggling, the ring of hammer on anvil from Ironforge Smithy, and the calls of street vendors.
+
+## Geography
+A sprawling district centered around the Grand Bazaar, with permanent shops lining the main thoroughfares and temporary stalls filling the squares.
+
+### Districts/Areas
+1. **Grand Bazaar** - Open air market with rotating vendors
+2. **Craftsman's Row** - Permanent shops and workshops
+3. **Merchant Square** - Where major deals are conducted
+
+### Notable Landmarks
+- **Central Fountain** - Meeting place and water source
+- **Merchant Guild Hall** - Imposing three-story building
+- **Clock Tower** - Chimes every hour
+
+## Demographics
+**Population:** 3,000 (during market days: 5,000+)
+**Primary Race:** Human (60%), Dwarf (20%), Halfling (15%), Other (5%)
+**Government:** Merchant Council
+**Controlling Faction:** [[02_Worldbuilding/Groups/Merchants Guild]]
+
+## Notable NPCs
+### Leaders
+- [[Mayor Thompson]] - District administrator
+- [[Guildmaster Harwick]] - Merchant's Guild leader
+
+### Merchants
+- [[02_Worldbuilding/People/Gareth_Ironforge]] - Master blacksmith
+- [[Elena Starweaver]] - Magical goods
+- [[Pip Goldleaf]] - General goods
+
+## Available Services
+### Shops
+| Shop Name | Type | Owner | Notable Items |
+|-----------|------|-------|---------------|
+| Ironforge Smithy | Blacksmith | [[02_Worldbuilding/People/Gareth_Ironforge]] | Masterwork weapons |
+| Starweaver's Arcana | Magic | [[Elena Starweaver]] | Potions, scrolls |
+| The Golden Goose | Inn | [[Martha Hillbrook]] | Comfortable rooms |
+
+## Current Events
+- Tensions rising with the Thieves' Guild
+- Preparing for the Harvest Festival
+- Shortage of iron due to missing caravans
+
+## Session Log
+- Session 1: Party arrived, visited Ironforge Smithy
+- Session 4: Market Day, received caravan quest

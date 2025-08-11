@@ -1,16 +1,24 @@
 ---
-tags: [quest, cosmic-horror, investigation, aethermoor, whispers, madness, complete]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- cosmic-horror
+- investigation
+- madness
+- quest
+- whispers
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.075933+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Whispering Expanse
 
@@ -492,3 +500,13 @@ The events of this adventure permanently change the campaign world:
 - Development of protective measures against otherworldly influence
 
 **The Whispering Expanse** represents the ultimate challenge of cosmic horror in a fantasy setting, forcing heroes to confront threats that challenge not just their survival, but their sanity and their understanding of reality itself. Success requires courage, wisdom, and the willingness to sacrifice personal peace of mind for the greater good.
+
+
+## Connections
+
+- [[The Great Crystallization]]
+- [[The Crimson Sage]]
+- [[Ambush Point]]
+- [[Depths of Whispers]]
+- [[Discover the Singers Beyond]]
+- [[Quest - The Seventh Shard]]

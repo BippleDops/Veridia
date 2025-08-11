@@ -1,35 +1,37 @@
 ---
-tags: 
-  - quest
-  - aquabyssos
-  - religious
-  - corruption
-  - sea-goddess
-  - tidal-magic
-  - cult
-  - redemption
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-level: "6-10"
-duration: "3-4 sessions"
-difficulty: "Medium"
-quest_giver: "Acolyte Pelagic"
-location: "Tidal Sanctum, Coral Gardens, The Deep Maw"
-rewards: "Nerissa's Blessing, Tidal Focus, Clerical Connections"
-prerequisites: "No negative reputation with sea-worshipping faiths"
+tags:
+- aquabyssos
+- complete
+- corruption
+- cult
+- quest
+- redemption
+- religious
+- sea-goddess
+- tidal-magic
+status: complete
+world: Aquabyssos
+type: Lore
+level: 6-10
+duration: 3-4 sessions
+difficulty: Medium
+quest_giver: Acolyte Pelagic
+location: Tidal Sanctum, Coral Gardens, The Deep Maw
+rewards: Nerissa's Blessing, Tidal Focus, Clerical Connections
+prerequisites: No negative reputation with sea-worshipping faiths
 connected_to:
-  - "Temples of Aquabyssos"
-  - "The Coral Gardens"
-  - "Oceanic Divine Magic"
-created_by: "DM"
+- Temples of Aquabyssos
+- The Coral Gardens
+- Oceanic Divine Magic
+created_by: DM
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.040040+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
+
 
 # High Tidecaller Nerissa
 
@@ -322,3 +324,10 @@ Nerissa's restoration doesn't have to be all-or-nothing. Consider partial succes
 - **Roleplay Heavy**: Emphasize character development and moral choices over action
 
 The High Tidecaller Nerissa quest offers players the chance to explore themes of faith, corruption, and redemption while navigating the beautiful and dangerous world of underwater religious communities in Aquabyssos.
+
+
+## Connections
+
+- [[The_Crimson_Pearl]]
+- [[Pearl_Harbor_City]]
+- [[The_Second_Rising]]

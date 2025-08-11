@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.027189+00:00'
+created: '2025-08-11T13:08:51.027189+00:00'
+status: draft
 tags:
-  - location
-  - temple
-  - religious
-  - crystal
-  - sacred
-type: Crystal Cathedral
-region: "[[02_Worldbuilding/Places/Crystalhaven]]"
-danger_level: Low
-controlled_by: "[[Crystal Wardens]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/crystal_cathedral_pure_light.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Crystal Cathedral of Pure Light
 *Where Divine Will Flows Through Sacred Crystal*
@@ -36,3 +32,32 @@ The Crystal Cathedral serves as the spiritual headquarters of the [[Crystal Ward
 - **[[02_Worldbuilding/Groups/Purist Coalition]]** - Theological alliance against crystal corruption
 - **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
 - **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Target for liberation and purification missions
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

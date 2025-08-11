@@ -1,15 +1,27 @@
 ---
-tags: [npc, gatekeeper, boris, ironlung, security, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- boris
+- complete
+- gatekeeper
+- ironlung
+- npc
+- security
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.602763+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Gatekeeper Iron-Lung Boris
 
@@ -37,7 +49,7 @@ He wears a modified uniform that combines elements of engineering gear with offi
 
 ## Statistics
 **Medium humanoid (hill dwarf), lawful neutral**
-- **AC** 16 (Chain Mail)
+- **AS** 16 (Chain Mail)
 - **HP** 85 (13d8 + 26)
 - **Speed** 25 ft, swim 20 ft
 - **STR** 16 (+3) **DEX** 12 (+1) **CON** 16 (+3) **INT** 14 (+2) **WIS** 17 (+3) **CHA** 13 (+1)
@@ -98,3 +110,38 @@ He's also been mentoring a new generation of security personnel, passing on his 
 
 ## DM Notes
 Boris serves as both a security resource and an information source about infrastructure and technical matters. His position makes him valuable for providing access to restricted areas while his experience offers insights into the city's industrial and security operations. Use him to represent the dedicated civil servants who keep the city functioning regardless of political upheavals.
+
+
+## Connections
+
+- [[New Tethys]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

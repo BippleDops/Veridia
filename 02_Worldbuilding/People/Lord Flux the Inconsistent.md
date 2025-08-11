@@ -1,20 +1,28 @@
 ---
-tags: [npc, lord, chaos, reality-warper, aquabyssos, noble]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
+tags:
+- aquabyssos
+- chaos
+- complete
+- lord
+- noble
+- npc
+- reality-warper
+status: complete
+world: Aquabyssos
+type: NPC
 CR: 12
-class: "Aberrant Mind Sorcerer/Great Old One Warlock"
-location: "[[02_Worldbuilding/Places/New Thalassopolis]]"
-faction: "Independent Noble"
-created_by: "Claude"
+class: Aberrant Mind Sorcerer/Great Old One Warlock
+location: '[[02_Worldbuilding/Places/New Thalassopolis]]'
+faction: Independent Noble
+created_by: Claude
 created: 2025-08-09
-updated: 2025-08-09
-  - Category/People
+updated: '2025-08-11T13:08:49.720467+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Lord Flux the Inconsistent
 *Chaos-Touched Noble of the Twilight Depth*
@@ -241,3 +249,8 @@ Lord Flux's greatest secret: he's slowly losing coherence as a single individual
 - **Endgame**: Potential solution to cosmic threats, but possibly at the cost of reality itself
 
 *"The beautiful thing about chaos, my dear adventurers, is that it's the only force in any universe that's completely honest. It promises nothing, delivers everything, and asks only that you abandon your precious certainties. Shall we dance?"*
+
+
+## Connections
+
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]

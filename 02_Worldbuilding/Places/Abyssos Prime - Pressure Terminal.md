@@ -1,21 +1,31 @@
 ---
-tags: [location, transportation, pressure-system, aquabyssos, government, engineering, travel-hub]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-category: "Transportation Hub"
-depth: "1,500 feet"
-difficulty: "Levels 3-8"
-owner: "Abyssos Prime Government"
-danger_level: "Low-Moderate"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- engineering
+- government
+- location
+- pressure-system
+- transportation
+- travel-hub
+status: complete
+world: Aquabyssos
+type: Location
+category: Transportation Hub
+depth: 1,500 feet
+difficulty: Levels 3-8
+owner: Abyssos Prime Government
+danger_level: Low-Moderate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.604084+00:00'
 MyContainer: None
 MyCategory: Transportation Hub
 obsidianUIMode: preview
 ---
+
+
+
 
 # Abyssos Prime - Pressure Terminal
 *Where the Deep Roads Begin and Distance Dissolves*
@@ -139,7 +149,7 @@ Each pressure tube consists of multiple layers: an inner bio-membrane that provi
 *Female Triton, Neutral Good*
 **Terminal Operations Director**
 
-- **AC**: 15 (Natural Armor + Studded Leather), **HP**: 85 (13d8 + 26), **Speed**: 30 ft., swim 50 ft.
+- **AS**: 15 (Natural Armor + Studded Leather), **HP**: 85 (13d8 + 26), **Speed**: 30 ft., swim 50 ft.
 - **STR**: 14 (+2), **DEX**: 16 (+3), **CON**: 15 (+2), **INT**: 20 (+5), **WIS**: 16 (+3), **CHA**: 14 (+2)
 - **Skills**: Engineering +11, Investigation +8, Perception +6, Arcana +8
 - **Languages**: Common, Primordial (Aquan), Draconic, Giant
@@ -156,7 +166,7 @@ Coral has managed the Pressure Terminal for over twenty years, having started as
 *Male Sea Elf, Lawful Neutral*
 **Passenger Services Administrator**
 
-- **AC**: 13 (Natural Armor), **HP**: 45 (7d8 + 14), **Speed**: 30 ft., swim 40 ft.
+- **AS**: 13 (Natural Armor), **HP**: 45 (7d8 + 14), **Speed**: 30 ft., swim 40 ft.
 - **STR**: 11 (+0), **DEX**: 16 (+3), **CON**: 14 (+2), **INT**: 18 (+4), **WIS**: 15 (+2), **CHA**: 17 (+3)
 - **Skills**: Insight +5, Investigation +7, Perception +5, Persuasion +6
 - **Languages**: Common, Elvish, Primordial (Aquan), Deep Speech
@@ -172,7 +182,7 @@ Typhoon ensures smooth passenger operations throughout the terminal, handling ev
 *Female Human, Lawful Good*
 **Terminal Security and Safety Director**
 
-- **AC**: 16 (Chain Shirt + Shield), **HP**: 75 (10d8 + 30), **Speed**: 30 ft., swim 30 ft.
+- **AS**: 16 (Chain Shirt + Shield), **HP**: 75 (10d8 + 30), **Speed**: 30 ft., swim 30 ft.
 - **STR**: 16 (+3), **DEX**: 14 (+2), **CON**: 16 (+3), **INT**: 13 (+1), **WIS**: 17 (+3), **CHA**: 15 (+2)
 - **Skills**: Athletics +6, Investigation +4, Perception +9, Intimidation +5
 - **Equipment**: Trident of Warning, Shield of Pressure Resistance, Crystal communication device
@@ -398,3 +408,8 @@ The terminal's critical role in transportation and communication makes it a high
 
 *"Distance becomes irrelevant when pressure becomes your ally. Here, the crushing depths become the highways of progress."*  
 — Chief Engineer Coral Pressurecraft
+
+
+## Connections
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

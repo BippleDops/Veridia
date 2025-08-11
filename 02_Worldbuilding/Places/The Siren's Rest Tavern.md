@@ -1,19 +1,32 @@
 ---
-tags: [location, aethermoor, tavern, port, sailors, smuggling, gambling, entertainment, rumors]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-danger_level: "moderate"
-access: "public"
-region: "Port District"
-city: "Port Crystalfall"
-faction_influence: "Independent/Multiple"
-created_by: "auto-stub"
-updated: 2025-08-10
+tags:
+- aethermoor
+- complete
+- entertainment
+- gambling
+- location
+- port
+- rumors
+- sailors
+- smuggling
+- tavern
+status: complete
+world: Aethermoor
+type: Location
+danger_level: Moderate
+access: public
+region: Port District
+city: Port Crystalfall
+faction_influence: Independent/Multiple
+created_by: auto-stub
+updated: '2025-08-11T13:08:51.107206+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
+created: '2025-08-11T13:08:51.107206+00:00'
 ---
+
+
 
 # The Siren's Rest Tavern
 
@@ -571,3 +584,7 @@ The tavern's reputation for neutrality and discretion makes it an ideal location
 ---
 
 *The Siren's Rest Tavern stands as more than just a place to drink and gamble - it serves as the beating heart of Port Crystalfall's shadow economy, where information flows as freely as ale and every conversation might contain the seeds of adventure or disaster.*
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

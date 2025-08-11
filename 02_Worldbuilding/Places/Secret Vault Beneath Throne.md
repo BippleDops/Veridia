@@ -1,19 +1,28 @@
 ---
-tags: [location, royal, treasury, hidden, vault, conspiracy, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-security_level: "maximum"
-access: "royal_only"
-danger_level: "extreme"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- conspiracy
+- hidden
+- location
+- royal
+- treasury
+- vault
+status: complete
+world: Aethermoor
+type: Location
+security_level: maximum
+access: royal_only
+danger_level: Extreme
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.591404+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Secret Vault Beneath Throne
 
@@ -382,3 +391,12 @@ Other hidden locations connected to the vault:
 ---
 
 *The Secret Vault Beneath Throne represents the ultimate corruption of power - a system designed to preserve the realm that gradually consumes its rulers, creating an endless cycle of ambition, corruption, and renewal.*
+
+
+## Connections
+
+- [[Deepmind Conspiracy]]
+- [[Shadow Market Canals]]
+- [[The Living Weapon]]
+- [[Vote Vaults]]
+- [[Aethermoor - Session 05 The Queens Madness]]

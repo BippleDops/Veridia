@@ -1,11 +1,20 @@
 ---
-tags: [lore, culture, music, aethermoor, wind-songs, oral-tradition]
-status: "stub"
-world: "Aethermoor"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aethermoor
+- culture
+- lore
+- music
+- oral-tradition
+- stub
+- wind-songs
+status: stub
+world: Aethermoor
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
+updated: '2025-08-11T13:08:48.862241+00:00'
 ---
+
 
 # Aetheric Wind Songs
 

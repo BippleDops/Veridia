@@ -1,16 +1,30 @@
 ---
-tags: [location, aquabyssos, abyss, depths, void, leviathan, ancient-powers, darkness, mystery, forbidden-knowledge]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- abyss
+- ancient-powers
+- aquabyssos
+- complete
+- darkness
+- depths
+- forbidden-knowledge
+- leviathan
+- location
+- lore
+- mystery
+- void
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.496087+00:00'
 danger_level: 5
-depth: "Below 10,000 feet - The Measureless Deep"
-government: "None - Primordial Chaos"
-population: "Unknown entities of incomprehensible nature"
+depth: Below 10,000 feet - The Measureless Deep
+government: None - Primordial Chaos
+population: Unknown entities of incomprehensible nature
 ---
+
+
 
 # The Abyss Beneath Aquabyssos
 *The Foundational Void That Predates All Creation*
@@ -138,3 +152,10 @@ A team of scientists studying Abyssal phenomena has lost contact after reporting
 - [[02_Worldbuilding/Lore/The Deep Mother]] - Primordial entity possibly connected to Abyssal consciousness
 - [[02_Worldbuilding/Mechanics/Depth Corruption System]] - Game mechanics for handling void exposure
 - [[02_Worldbuilding/Organizations/Order of the Deep Vigil]] - Primary organization for Abyssal research and monitoring
+
+
+## Connections
+
+- [[Kraken Territories]]
+- [[Leviathan Graveyard]]
+- [[The Deep Mother]]

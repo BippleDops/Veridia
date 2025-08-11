@@ -1,23 +1,31 @@
 ---
-tags: [faction, shadow-court, aquabyssos, nobility, shadow-touched, aristocracy]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Shadow Nobility Court"
-alignment: "Lawful Evil"
-headquarters: "[[The Umbral Estate]]"
-leader: "[[Lord Vexton Shadowmere]]"
-members: "~200 shadow nobles and courtiers"
-influence: "Regional (Upper District and Shadow Quarter)"
-wealth: "Vast (generational shadow wealth)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- aristocracy
+- complete
+- faction
+- nobility
+- shadow-court
+- shadow-touched
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Shadow Nobility Court
+alignment: Lawful Evil
+headquarters: '[[The Umbral Estate]]'
+leader: '[[Lord Vexton Shadowmere]]'
+members: ~200 shadow nobles and courtiers
+influence: Regional (Upper District and Shadow Quarter)
+wealth: Vast (generational shadow wealth)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.426783+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Shadow Court
 *The Umbral Aristocracy, Lords of the Between-Spaces, The Ancient Hierarchy*
@@ -225,3 +233,8 @@ Lord Shadowmere arranges a strategic marriage between Court nobility and a power
 
 **The Cultural Revolution**
 Young Court members begin questioning traditional hierarchies and advocating for more egalitarian shadow-touched organizations, creating internal conflicts that threaten the Court's unity. The party becomes involved when reformist activities attract attention from rival factions seeking to exploit the discord, forcing them to mediate between tradition and progress while protecting the Court from external manipulation.
+
+
+## Connections
+
+- [[The Shadowhaven Smugglers Ring]]

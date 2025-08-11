@@ -1,20 +1,15 @@
 ---
-type: faction
-tags: [faction, criminal, cult, aquabyssos, psychic-terror, sonic-manipulation]
-aliases: [The Screaming Dark, Children of the Resonant Void, The Harmonic Heretics]
-world: "Aquabyssos"
-created: 2025-08-09
-modified: 2025-08-09
-leader: "Echo-Prime Cacophony Voidlungs"
-headquarters: "The Resonance Cathedral"
-alignment: "Chaotic Evil"
-power_level: "Regional Terrorist Organization"
-status: "Active Criminal Cult"
-  - Category/Group
-MyContainer: Aquabyssos
-MyCategory: Criminal Cult
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.463512+00:00'
+created: '2025-08-11T13:08:51.463512+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Group
 ---
+
+
 
 # Cult of Screams
 *"In Silence We Suffer, In Screaming We Transcend"*

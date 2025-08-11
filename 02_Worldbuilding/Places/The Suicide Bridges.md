@@ -1,31 +1,16 @@
 ---
-tags: [location, aquabyssos, horror, psychological]
-type: "location"
-campaign: "Aquabyssos"
-location_type: "Conscious Architecture"
-depth: "5,000-5,500 ft"
-danger_level: 10
-population: "743 (conscious within structure)"
-notable_features:
-  - "Dead remain conscious in bridge structure"
-  - "Living architecture that feeds on despair"
-  - "Whisper channels in the support beams"
-  - "The Choir of the Structural Dead"
-faction_control: "None (the bridges rule themselves)"
-connected_locations:
-  - "[[The Mourning Depths]]"
-  - "[[Tenebrarum]]"
-  - "[[02_Worldbuilding/Places/The Cerulean Trench]]"
-environment_effects:
-  - "Despair Aura (DC 16 WIS save or gain exhaustion)"
-  - "Structural Consciousness (the bridges know you're there)"
-  - "Death Echo (hear final thoughts of the absorbed)"
-image: "04_Resources/Assets/locations/suicide-bridges.webp"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.227175+00:00'
+created: '2025-08-11T13:08:50.227175+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Suicide Bridges
 

@@ -1,12 +1,20 @@
 ---
-tags: [lore, quest, resonance-cascade, prevention, crisis-response]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- crisis-response
+- lore
+- prevention
+- quest
+- resonance-cascade
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.302261+00:00'
 ---
+
 
 # Prevent Resonance Cascade
 

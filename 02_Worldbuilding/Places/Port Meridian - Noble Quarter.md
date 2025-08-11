@@ -1,18 +1,30 @@
 ---
-tags: [location, aethermoor, port-meridian, noble-quarter, district, city, political, aristocracy]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-location_type: "Urban District"
-parent_location: "Port Meridian"
-population: "~3,500"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aethermoor
+- aristocracy
+- city
+- complete
+- district
+- location
+- noble-quarter
+- political
+- port-meridian
+status: complete
+world: Aethermoor
+type: Location
+location_type: Urban District
+parent_location: Port Meridian
+population: ~3,500
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.376121+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Port Meridian - Noble Quarter
 
@@ -359,3 +371,8 @@ Visitors must observe strict protocols:
 - **Business Etiquette:** Formal procedures for conducting any form of business
 
 The Noble Quarter represents the pinnacle of [[Aethermoor]]'s social hierarchy, where centuries of accumulated power and wealth create an environment of both magnificent luxury and dangerous political intrigue. Its elegant façade conceals a complex web of alliances, betrayals, and secrets that shape the destiny of the entire realm.
+
+
+## Connections
+
+- [[Port Meridian - Market Square]]

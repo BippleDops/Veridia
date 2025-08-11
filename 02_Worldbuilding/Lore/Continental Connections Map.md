@@ -1,12 +1,21 @@
 ---
-tags: [lore, map, continental-connections, geography, inter-realm]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- continental-connections
+- geography
+- inter-realm
+- lore
+- map
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.592201+00:00'
 ---
+
+
 
 # Continental Connections Map
 
@@ -38,3 +47,8 @@ Requires regular updates as political boundaries and magical phenomena change.
 
 ## Campaign Use
 Provides visual aid for world-building and serves as reference for planning inter-realm travel and adventures.
+
+
+## Connections
+
+- [[Dock Worker Tomás]]

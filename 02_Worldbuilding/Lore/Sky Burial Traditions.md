@@ -1,14 +1,38 @@
 ---
-tags: [lore, culture, burial, aethermoor, sky-burial, death-customs, religion, afterlife, wind-spirits, aerial-rituals]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aerial-rituals
+- aethermoor
+- afterlife
+- burial
+- complete
+- culture
+- death-customs
+- lore
+- religion
+- sky-burial
+- wind-spirits
+status: complete
+world: Aethermoor
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-connections: ["[[Aethermoor]]", "[[Skyforged Crystal Worship]]", "[[Aetheric Wind Songs]]", "[[Cloud Shepherd Guild Customs]]", "[[Aethermoor Wind Rider Traditions]]", "[[Princess Celestia]]", "[[Queen Seraphina]]"]
-themes: ["death_rituals", "aerial_customs", "wind_spirits", "sky_sanctification", "atmospheric_communion"]
+updated: '2025-08-11T13:08:48.240303+00:00'
+connections:
+- '[[Aethermoor]]'
+- '[[Skyforged Crystal Worship]]'
+- '[[Aetheric Wind Songs]]'
+- '[[Cloud Shepherd Guild Customs]]'
+- '[[Aethermoor Wind Rider Traditions]]'
+- '[[Princess Celestia]]'
+- '[[Queen Seraphina]]'
+themes:
+- death_rituals
+- aerial_customs
+- wind_spirits
+- sky_sanctification
+- atmospheric_communion
 ---
+
 
 # Sky Burial Traditions
 

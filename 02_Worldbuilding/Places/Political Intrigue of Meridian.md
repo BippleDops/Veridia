@@ -1,11 +1,21 @@
 ---
-tags: [event, politics, conspiracy, power-struggle]
-status: "complete"
-world: "Aquabyssos"
-type: "event"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- event
+- politics
+- power-struggle
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.154021+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Political Intrigue of Meridian
 
@@ -142,3 +152,8 @@ A complex web of political maneuvering, secret alliances, and power struggles cu
 
 ## DM Notes
 Political intrigue emphasizes roleplay, investigation, and moral choices over combat. Provide multiple layers of conspiracy with some red herrings. Allow player choices to significantly affect outcomes and future campaign politics.
+
+
+## Connections
+
+- [[Parliament of Echoes]]

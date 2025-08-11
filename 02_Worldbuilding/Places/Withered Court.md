@@ -1,15 +1,27 @@
 ---
-tags: [faction, court, aethermoor, shadowlands, undead, nobility]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aethermoor
+- complete
+- court
+- faction
+- location
+- nobility
+- shadowlands
+- undead
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.983269+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Withered Court
 
@@ -130,3 +142,35 @@ Their greatest enemies are the [[Purification Order]], [[Living Alliance]], and 
 ## Connections
 
 The Withered Court serves as a unique political entity within [[Aethermoor]], offering opportunities for complex moral dilemmas, political intrigue, and supernatural horror. Their influence extends through the [[Shadow Network]], connections to various [[Undead Enclaves]], and ancient treaties with forgotten kingdoms. Characters may find themselves reluctant allies, sworn enemies, or unwilling participants in the Court's elaborate games of power that span both life and death.
+- [[The Synthesis Gardens]]
+- [[Stop the Crystal Festival Ritual]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,10 +1,12 @@
 ---
 tags:
-- npc
-- merchant
+- alive
+- both
+- category/people
 - free_current
+- merchant
+- npc
 - smuggler
-- Category/People
 aliases:
 - Captain Stormcutter
 - The Honest Smuggler
@@ -36,7 +38,12 @@ in_combat: true
 initiative: 12
 current_hp: 15
 max_hp: 20
+world: Both
+updated: '2025-08-11T13:08:50.000418+00:00'
+type: NPC
 ---
+
+
 
 # Captain Garrett Stormcutter
 

@@ -1,25 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.853872+00:00'
+created: '2025-08-11T13:08:49.853872+00:00'
+status: draft
 tags:
-  - npc
-  - mysterious
-  - wizard
-  - divine
-  - secret
+- both
+- draft
 type: NPC
-race: Human (Appears)
-class: Wizard/Divine
-level: 20+
-alignment: True Neutral
-location: Various
-faction: Independent
-status: complete
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/crimson_sage.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # The Crimson Sage
 *The Wandering Scholar, Keeper of Forgotten Truths*
@@ -405,3 +396,12 @@ The campaign will eventually force the Sage to choose between four ultimate fate
 4. **Acceptance:** Remain as guide and protector in diminished form
 
 This choice will determine not just his fate, but the future of magic, monarchy, and mortality itself.
+
+
+## Connections
+
+- [[The Final Choice]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[The Shattering of the Crown]]
+- [[Campaign_Relationship_Matrix]]

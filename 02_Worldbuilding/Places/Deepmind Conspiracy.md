@@ -1,19 +1,28 @@
 ---
-tags: [location, conspiracy, intelligence, hidden, mental, aquabyssos, psychic]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-security_level: "extreme"
-access: "psychic_only"
-danger_level: "severe"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- hidden
+- intelligence
+- location
+- mental
+- psychic
+status: complete
+world: Aquabyssos
+type: Location
+security_level: extreme
+access: psychic_only
+danger_level: High
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.195966+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Deepmind Conspiracy
 
@@ -196,3 +205,12 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 ---
 
 *The Deepmind Conspiracy represents the ultimate violation of mental privacy - where individual consciousness becomes merely a resource in a vast intelligence operation, and the concept of private thought becomes meaningless.*
+
+
+## Connections
+
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[The Bathyal Palace]]
+- [[The Phosphor Markets]]
+- [[Vote Vaults]]

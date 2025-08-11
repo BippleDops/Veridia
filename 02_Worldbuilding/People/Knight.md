@@ -1,21 +1,16 @@
 ---
-tags: [npc, knight, crystal-touched, aethermoor, nobility]
-status: "active"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-race: "Human"
-class: "Paladin (Oath of the Crown)"
-level: 14
-faction: "Crystal Guard"
-location: "Crystal Spires"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.899306+00:00'
+created: '2025-08-11T13:08:49.899306+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Sir Theron Crystalward
 
@@ -139,3 +134,33 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 **Voice**: Deep and resonant, with a tendency to quote knightly codes and ancient wisdom. Uses formal address ("Sir," "My Lady") even with close friends. When angry, his voice becomes dangerously quiet rather than loud.
 
 **Mannerisms**: Often touches his crystal pendant when thinking, polishes his armor obsessively, and has a habit of standing at windows looking toward the Crystal Spires when troubled.
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,23 +1,37 @@
 ---
-tags: [npc, aquabyssos, nobility, diplomat, surface-relations, ambassador, political, influential, aethermoor-liaison]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-category: "Noble Diplomat"
-race: "Human"
-class: "Noble"
-location: "[[Royal Palace]] - Diplomatic Wing"
-faction: "[[Parliament of Echoes]] - Diplomatic Corps"
-influence: "High"
-danger_level: "Low"
-created_by: "auto-stub"
+tags:
+- aethermoor-liaison
+- ambassador
+- aquabyssos
+- complete
+- diplomat
+- influential
+- nobility
+- npc
+- person
+- political
+- surface-relations
+status: complete
+world: Aquabyssos
+type: Location
+category: Noble Diplomat
+race: Human
+class: Noble
+location: '[[Royal Palace]] - Diplomatic Wing'
+faction: '[[Parliament of Echoes]] - Diplomatic Corps'
+influence: High
+danger_level: Low
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Person
+updated: '2025-08-11T13:08:50.752585+00:00'
 MyContainer: None
 MyCategory: Diplomat
 obsidianUIMode: preview
 ---
+
+
+
+
 
 # Lord Reginald Seaworthy
 *Bridge Between Two Worlds*
@@ -59,7 +73,7 @@ Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thir
 ## Combat Statistics
 
 **Level**: 8th level Noble  
-**AC**: 13 (Fine Clothes + Dex + Diplomatic Protection), **HP**: 58 (8d8 + 16), **Speed**: 30 ft.  
+**AS**: 13 (Fine Clothes + Dex + Diplomatic Protection), **HP**: 58 (8d8 + 16), **Speed**: 30 ft.  
 **STR**: 11 (+0), **DEX**: 14 (+2), **CON**: 14 (+2), **INT**: 16 (+3), **WIS**: 15 (+2), **CHA**: 18 (+4)  
 **Skills**: Deception +7, History +9, Insight +8, Investigation +6, Perception +5, Persuasion +10  
 **Languages**: Common, Primordial (Aquan), Celestial, Draconic, Diplomatic protocols  
@@ -89,3 +103,39 @@ Lord Seaworthy discovers evidence of a secret alliance forming against both [[Aq
 
 *"True diplomacy requires not just speaking the language, but understanding the heart behind the words."*  
 — Lord Reginald Seaworthy
+
+
+## Connections
+
+- [[The Merchant Code of Ethics]]
+- [[Pearl_Harbor_City]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,11 +1,20 @@
 ---
-tags: [artifact, book, astronomical-knowledge, ancient-wisdom]
-status: "complete"
-world: "Aquabyssos"
-type: "artifact"
-created_by: "auto-stub"
+tags:
+- ancient-wisdom
+- aquabyssos
+- artifact
+- astronomical-knowledge
+- book
+- complete
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:51.055402+00:00'
+danger_level: Moderate
 ---
+
 
 # Constellation Codex
 

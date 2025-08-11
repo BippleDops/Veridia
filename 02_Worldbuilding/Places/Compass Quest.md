@@ -1,16 +1,30 @@
 ---
-tags: [quest, navigation, mystery, compass, ancient-artifacts, exploration, depth-navigation, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-complexity: "Advanced"
-danger_level: "Moderate"
-estimated_duration: "3-5 sessions"
-required_skills: ["Navigation", "Investigation", "Survival"]
-created_by: "auto-stub"
+tags:
+- ancient-artifacts
+- aquabyssos
+- compass
+- complete
+- depth-navigation
+- exploration
+- mystery
+- navigation
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+complexity: Advanced
+danger_level: Moderate
+estimated_duration: 3-5 sessions
+required_skills:
+- Navigation
+- Investigation
+- Survival
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:50.629403+00:00'
 ---
+
+
 
 # Compass Quest
 *The Search for the Depth-Walker's True Compass*
@@ -371,3 +385,8 @@ While individual skill is important, the quest emphasizes that the greatest navi
 - **[[02_Worldbuilding/Places/The Synthesis Gardens]]**: Advanced magical research and artifact analysis
 
 The Compass Quest represents one of the signature adventures of Aquabyssos, combining exploration, mystery, survival challenges, and powerful rewards in a way that showcases the unique aspects of the underwater realm while providing a meaningful challenge that can serve as a campaign centerpiece or major story arc.
+
+
+## Connections
+
+- [[The Wandering Atoll]]

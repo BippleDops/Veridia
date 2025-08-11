@@ -1,12 +1,22 @@
 ---
-tags: [lore, encounter, cult, crystals, ambush, combat]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- ambush
+- combat
+- complete
+- crystals
+- cult
+- encounter
+- lore
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.412256+00:00'
 ---
+
+
 
 # Crystal Cult Initiates Ambush
 
@@ -114,3 +124,8 @@ Many of these "initiate" ambushes are actually elaborate tests orchestrated by h
 ## Campaign Use
 
 Use initiate ambushes as scalable encounters that can challenge parties of various levels while providing introduction to cult activities. They work well as random encounters with deeper implications, offering opportunities for investigation, roleplay, and moral decision-making about how to handle fanatical but inexperienced opponents.
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

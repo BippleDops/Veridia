@@ -1,15 +1,18 @@
 ---
-tags: [location, ruins, bubble_zone, haunted]
-aliases: [Old Valdris, The Preserved City, The Ghost Bubble]
-created: 2024-12-19
-image: "04_Resources/Assets/Locations/old_valdris.jpg"
-danger_level: "High"
-depth: "2000 feet"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.373506+00:00'
+created: '2025-08-11T13:08:50.373506+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # Old Valdris - The Preserved City
 
@@ -87,3 +90,38 @@ A messenger frozen mid-sprint, mouth open in a shout of warning that never finis
 - [[The Last Dance]] - Discover Lady Vivienne's truth
 - [[Temporal Harvest]] - Stop the Crystal Merchant
 - [[Bubble Burst]] - Prevent or cause the bubble's collapse
+
+
+## Connections
+
+- [[Time's Mercy]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

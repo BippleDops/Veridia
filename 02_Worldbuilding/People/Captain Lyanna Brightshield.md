@@ -1,29 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.611306+00:00'
+created: '2025-08-11T13:08:49.611306+00:00'
+status: draft
 tags:
-  - npc
-  - military
-  - investigator
-  - ally
+- both
+- draft
 type: NPC
-race: Half-Elf
-class: Fighter/Investigator
-level: 8
-alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "[[Crystal Wardens]]"
-status: Alive
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/lyanna_brightshield.jpg"
-# 5e Integration
-base_5e_statblock: "[[Knight]]"
-statblock_source: "MM"
-page_reference: "MM p.347"
-modifications: "Added Investigator abilities, heterochromia sight, Truth's Edge sword"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Captain Lyanna Brightshield
 *The Incorruptible, Rising Star of the Crystal Wardens*
@@ -216,3 +203,10 @@ Captain Lyanna Brightshield is the youngest captain in [[Crystal Wardens]] histo
   - Safe passage
   - Military support
   - Intelligence on criminals
+
+
+## Connections
+
+- [[Jasper Three-Eyes Flint]]
+- [[Knight]]
+- [[Campaign_Relationship_Matrix]]

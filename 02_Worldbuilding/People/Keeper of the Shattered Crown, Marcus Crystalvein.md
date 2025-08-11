@@ -1,16 +1,26 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, seeker, corrupted]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard Seeker"
-affiliation: "Order of the Shattered Crown"
-age: "47"
-race: "Human (Crystal-touched)"
-location: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corrupted
+- npc
+- person
+- seeker
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard Seeker
+affiliation: Order of the Shattered Crown
+age: '47'
+race: Human (Crystal-touched)
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.699753+00:00'
 ---
+
+
 
 # Keeper of the Shattered Crown, Marcus Crystalvein
 *Former Knight, Shard-Corrupted Seeker*
@@ -298,3 +308,12 @@ Marcus discovers that his understanding of the Crown of Stars and its purpose ha
 - **Character Development**: His evolution reflects campaign themes about power, corruption, and sacrifice
 - **Campaign Integration**: Central to Seven Shards endgame and cosmic-scale story resolution
 - **Power Balance**: Formidable but not overwhelming, grows stronger as campaign progresses
+
+## Connections
+
+- [[The Shadow-Crystal Synthesis]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Order of the Shattered Crown]]
+- [[Scholar Vivienne the Chronicler]]
+- [[The Bloodline Carrier]]
+- [[Quest - The Convergence Crisis]]

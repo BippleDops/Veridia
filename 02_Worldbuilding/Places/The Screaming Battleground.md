@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.393774+00:00'
+created: '2025-08-11T13:08:50.393774+00:00'
+status: draft
 tags:
-  - location
-  - battlefield
-  - combat
-  - cursed
-  - historical
-type: Cursed Battlefield
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-danger_level: Extreme
-controlled_by: "Nobody (Haunted)"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/screaming_battleground.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Screaming Battleground
 *Where Ancient Wars Echo and the Dead Never Rest*

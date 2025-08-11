@@ -1,12 +1,20 @@
 ---
-tags: [lore, magic, templating, advanced-techniques, spellcrafting]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- advanced-techniques
+- aquabyssos
+- complete
+- lore
+- magic
+- spellcrafting
+- templating
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.846843+00:00'
 ---
+
 
 # Templater Advanced
 

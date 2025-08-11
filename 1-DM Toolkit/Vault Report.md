@@ -1,10 +1,19 @@
 ---
 aliases: []
 tags:
-  - Category/Note
-type: note
+- both
+- category/note
+- note
+- unknown
+type: Lore
 status: unknown
+world: Both
+updated: '2025-08-11T13:08:47.047897+00:00'
+created: '2025-08-11T13:08:47.047897+00:00'
 ---
+
+
+
 ```dataviewjs
 // 1) Build a map of tag → count, only for #Category/... tags
 const tagCounts = new Map();
@@ -53,3 +62,9 @@ if (window.renderChart) {
 }
 ```
 
+
+
+## Connections
+
+- [[Home Embeds - DV]]
+- [[Home Embeds]]

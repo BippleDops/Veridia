@@ -1,23 +1,17 @@
 ---
-tags: [npc, aquabyssos, history, archives, memory, ancient-knowledge, scholar, elderly, wisdom, preservation]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-category: "Archivist Scholar"
-race: "Deep Dweller"
-class: "Lore Master"
-location: "[[The Memorial Archives]]"
-faction: "[[Aquabyssos Historical Society]]"
-influence: "Moderate"
-danger_level: "None"
-  - Category/Person
-MyContainer: None
-MyCategory: Scholar
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.378526+00:00'
+created: '2025-08-11T13:08:50.378526+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Keeper of the Past, Elderly Morgan
 *The Living Memory of Aquabyssos's Forgotten Stories*
@@ -441,3 +435,8 @@ Morgan's reputation for historical accuracy and contextual wisdom has made him a
 **Long-term Consequences**: Historical understanding that affects character decisions and campaign direction
 
 Keeper of the Past Morgan Deepmemory represents the living memory of [[Aquabyssos]], where his centuries of dedication to historical preservation ensure that the wisdom of the past remains available to guide the present and future. Through his patient scholarship and Deep Dweller memory abilities, he serves as a bridge between the realm's rich history and its contemporary challenges, ensuring that the lessons learned through centuries of experience continue to illuminate the path forward.
+
+
+## Connections
+
+- [[The Wandering Atoll]]

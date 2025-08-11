@@ -1,18 +1,36 @@
 ---
-tags: [location, region, coastal, aethermoor, trade-routes, maritime, strategic]
-status: "completed"
-world: "Aethermoor"
-type: "Coastal Region"
+tags:
+- aethermoor
+- coastal
+- coastal-region
+- completed
+- location
+- maritime
+- region
+- strategic
+- trade-routes
+status: completed
+world: Aethermoor
+type: Location
 danger_level: 3
-climate: "Temperate Maritime"
-length: "400 miles of coastline"
-major_cities: ["[[02_Worldbuilding/Places/Port Meridian]]", "[[02_Worldbuilding/Places/Goldspire Port]]", "Azure Bay"]
-government: "Multiple City-States and Kingdoms"
+climate: Temperate Maritime
+length: 400 miles of coastline
+major_cities:
+- '[[02_Worldbuilding/Places/Port Meridian]]'
+- '[[02_Worldbuilding/Places/Goldspire Port]]'
+- Azure Bay
+government: Multiple City-States and Kingdoms
 population: 850000
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Places/The Cerulean Archipelago]]", "[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]", "[[02_Worldbuilding/Groups/The Crimson Fleet]]"]
+updated: '2025-08-11T13:08:50.554939+00:00'
+related_entities:
+- '[[02_Worldbuilding/Places/The Cerulean Archipelago]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
+- '[[02_Worldbuilding/Groups/The Crimson Fleet]]'
 ---
+
+
+
 
 # The Azure Coast
 *The Golden Shore of Maritime Commerce*
@@ -244,3 +262,14 @@ The Azure Coast provides:
 - Transportation hub connecting various campaign locations
 - Source of unique resources, information, and specialized services
 EOF < /dev/null
+
+## Connections
+
+- [[Merchant Princes]]
+- [[The Great Crystallization]]
+- [[The Seven Shards]]
+- [[The Azure Prophet Nerissa]]
+- [[Port Meridian]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Seventh Shard]]
+- [[Quest - The Shard-Shadow Resonance]]

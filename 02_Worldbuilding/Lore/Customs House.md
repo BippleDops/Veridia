@@ -1,14 +1,28 @@
 ---
-tags: [lore, customs-house, interdimensional-trade, smuggling, merged-reality, border-control, aquabyssos, aethermoor, commerce, dimensional-gateway]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Border Facility"
-significance: "Major Location"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- border-control
+- both
+- commerce
+- complete
+- customs-house
+- dimensional-gateway
+- interdimensional-trade
+- lore
+- merged-reality
+- smuggling
+status: complete
+world: Both
+type: Lore
+category: Border Facility
+significance: Major Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.957604+00:00'
 ---
+
+
 
 # Customs House
 *Gateway Between Worlds*
@@ -359,3 +373,10 @@ The Customs House serves as primary defense against corruption spread:
 
 *"Where two worlds meet, opportunity and danger walk hand in hand through the same door."*
 *- Chief Inspector Dual-Current Thane*
+
+
+## Connections
+
+- [[Desperate Plague Victim]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]

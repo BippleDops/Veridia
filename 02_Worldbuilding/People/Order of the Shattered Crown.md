@@ -1,20 +1,32 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, order-leader, crystal-touched, grand-master]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Grand Master of the Shattered Crown"
-affiliation: "Order of the Shattered Crown (Founder & Leader)"
-age: "73"
-race: "Human (Heavily Crystal-touched)"
-location: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-created_by: "expansion"
-created: 2025-08-10
-  - Category/People
+tags:
+- aethermoor
+- complete
+- crystal-touched
+- grand-master
+- npc
+- order-leader
+- person
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Grand Master of the Shattered Crown
+affiliation: Order of the Shattered Crown (Founder & Leader)
+age: '73'
+race: Human (Heavily Crystal-touched)
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+created_by: expansion
+created: 2025-08-10 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.802952+00:00'
+cr: '8'
 ---
+
+
+
 
 # Grand Master Valdric Shardseeker
 *Founder and Supreme Leader of the Order of the Shattered Crown*
@@ -462,3 +474,15 @@ Specialized magical instruments created by Valdric for detecting, analyzing, and
 **Magical Development**: Order's research affects availability and understanding of crystal magic
 **Cosmic Themes**: Embodies questions about individual will versus cosmic necessity
 **Character Growth**: Provides opportunities for party members to explore their own relationships with power and responsibility
+
+
+## Connections
+
+- [[The Convergence Seekers]]
+- [[Captain Elara Shadowshard]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Sir Marcus Dawnforge]]
+- [[The Azure Prophet Nerissa]]
+- [[The Bloodline Carrier]]
+- [[Campaign_Relationship_Matrix]]

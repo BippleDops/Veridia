@@ -1,5 +1,5 @@
 ---
-type: monster
+type: Lore
 prompt-info:
   promptId: ConvMonst
   name: 🧌 Convert Monster 🧌
@@ -7,7 +7,17 @@ prompt-info:
   author: JoshP
   tags: fantasy, ttrpg
   version: 0.0.1
+world: Both
+updated: '2025-08-11T13:08:47.005626+00:00'
+created: '2025-08-11T13:08:47.005626+00:00'
+status: draft
+tags:
+- both
+- draft
+- monster
 ---
+
+
 
 {{#if selection}}
 Convert the provided text into the statblock template provided. The Syntax is important. Do not change the layout/syntax. 

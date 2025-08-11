@@ -1,21 +1,29 @@
 ---
-tags: [location, aethermoor, floating-city, refugee-settlement, alternative-community, rebellion, freedom]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-category: "Refugee Settlement"
-altitude: "8,000-12,000 feet"
-difficulty: "Levels 4-10"
-owner: "Free Council of Refugees"
-danger_level: "Moderate"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- alternative-community
+- complete
+- floating-city
+- freedom
+- location
+- rebellion
+- refugee-settlement
+status: complete
+world: Aethermoor
+type: Location
+category: Refugee Settlement
+altitude: 8,000-12,000 feet
+difficulty: Levels 4-10
+owner: Free Council of Refugees
+danger_level: Moderate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.872287+00:00'
 MyContainer: None
 MyCategory: Alternative Settlement
 obsidianUIMode: preview
 ---
+
 
 # Alternative-Path-Fled-City
 *Where the Dispossessed Find New Purpose Above the Clouds*

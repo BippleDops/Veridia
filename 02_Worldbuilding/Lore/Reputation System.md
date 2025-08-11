@@ -1,14 +1,25 @@
 ---
-tags: [mechanics, reputation, social-system, faction-relations, both-realms, influence]
-status: "complete"
-world: "Both"
-type: "game-mechanics"
-system: "D&D 5e"
-complexity: "Intermediate"
-created_by: "auto-stub"
+tags:
+- both
+- both-realms
+- complete
+- faction-relations
+- game-mechanics
+- influence
+- mechanics
+- reputation
+- social-system
+status: complete
+world: Both
+type: Lore
+system: D&D 5e
+complexity: Intermediate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.342897+00:00'
 ---
+
+
 
 # Reputation System
 *Social Standing in the Merged Realms*
@@ -631,3 +642,13 @@ Faction relationships create complex political networks:
 - **[[Political Consulting Guild]]**: Strategic reputation campaign management
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
+
+
+## Connections
+
+- [[Initiative Tracker]]
+- [[Random Encounters]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

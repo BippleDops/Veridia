@@ -1,11 +1,34 @@
 ---
-tags: [lore, event, temporal_magic, divine_intervention, aethermoor, mercy]
-status: "completed" 
-type: "temporal_phenomenon"
-world: "dual"
-connections: ["[[Old Valdris]]", "[[The Crown of Stars]]", "[[Temporal Distortion Zones]]", "[[The Recursion Oracle]]", "[[Aethermoor]]"]
-themes: ["temporal_manipulation", "sacrifice", "redemption", "divine_mercy", "second_chances"]
+tags:
+- aethermoor
+- completed
+- divine_intervention
+- dual
+- event
+- lore
+- mercy
+- temporal_magic
+- temporal_phenomenon
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[Old Valdris]]'
+- '[[The Crown of Stars]]'
+- '[[Temporal Distortion Zones]]'
+- '[[The Recursion Oracle]]'
+- '[[Aethermoor]]'
+themes:
+- temporal_manipulation
+- sacrifice
+- redemption
+- divine_mercy
+- second_chances
+updated: '2025-08-11T13:08:47.841298+00:00'
+created: '2025-08-11T13:08:47.841298+00:00'
 ---
+
+
 
 # Time's Mercy
 
@@ -140,3 +163,9 @@ The answer may determine whether the coming crisis offers ultimate salvation or 
 
 *"Time is merciful to those who show mercy to time - but mercy always demands its price in the end."* - Final words of [[Old Valdris]] before his temporal displacement incident
 
+
+
+## Connections
+
+- [[The Forgotten Isles]]
+- [[Old Valdris]]

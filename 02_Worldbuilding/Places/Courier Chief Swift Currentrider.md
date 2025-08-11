@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, courier-hub, currentrider, transportation, communication, logistics, express]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Transportation Hub"
-parent_location: "The Commerce District"
-depth: "5,000 feet"
-danger_level: 2
-population: "150 (couriers, dispatchers, support staff, and clients)"
-government: "Private Commercial Enterprise"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.641931+00:00'
+created: '2025-08-11T13:08:50.641931+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Current Express Hub
 *Where Messages Ride the Tides*
@@ -382,3 +377,8 @@ The Current Express Hub serves as [[Aquabyssos]]'s premier message and package d
 **Service**: Service improvement and quality enhancement
 
 The Current Express Hub represents the pinnacle of underwater logistics innovation, where [[Courier Chief Swift Currentrider]]'s revolutionary approach to delivery services has transformed communication and commerce throughout [[Aquabyssos]]. Through masterful use of ocean currents, advanced technology, and unwavering commitment to service excellence, this facility connects communities across the depths and ensures that distance never prevents the flow of information, goods, and relationships that bind underwater civilization together.
+
+
+## Connections
+
+- [[The Bathyal Palace]]

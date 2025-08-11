@@ -1,15 +1,30 @@
 ---
-tags: [location, city, midnight_expanse, military_stronghold]
-aliases: [Pressure's End, The Iron Deep, The Last Stand]
+tags:
+- both
+- city
+- draft
+- location
+- midnight_expanse
+- military_stronghold
+aliases:
+- The Iron Deep
+- The Last Stand
 created: 2024-12-19
-image: "04_Resources/Assets/Locations/pressures_end.jpg"
-danger_level: "High"
-population: 35000
-  - Category/Place
+image: 04_Resources/Assets/Locations/pressures_end.jpg
+danger_level: High
+population: 35000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.703964+00:00'
+status: draft
+type: Location
 ---
+
+
+
+
 
 # Pressure's End - The Iron Deep
 
@@ -140,3 +155,8 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 - [[Forge of War]] - Acquire rare materials for weapons
 - [[Breaking the Deep]] - Assault on deep creature stronghold
 - [[The Pressure Conspiracy]] - Uncover the coup plot
+
+
+## Connections
+
+- [[The Lock Saboteur]]

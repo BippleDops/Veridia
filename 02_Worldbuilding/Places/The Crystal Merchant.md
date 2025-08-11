@@ -1,11 +1,22 @@
 ---
-tags: [npc, merchant, crystals, magical-items]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- crystals
+- magical-items
+- merchant
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.494428+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Crystal Merchant
 
@@ -16,7 +27,7 @@ Madam Prism Crystalweaver is Aquabyssos's most renowned crystal merchant, operat
 
 ## Statistics
 **Medium humanoid (merfolk)**
-- **AC** 13, **HP** 42, **Speed** 30 ft, swim 40 ft
+- **AS** 13, **HP** 42, **Speed** 30 ft, swim 40 ft
 - **STR** 10 **DEX** 14 **CON** 12 **INT** 17 **WIS** 15 **CHA** 16
 - **Skills** Appraisal +8, Investigation +6, Persuasion +6
 - **Special** Crystal Affinity, Magical Item Identification
@@ -138,3 +149,8 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 
 ## DM Notes
 Prism serves as both shop keeper and quest giver, providing magical items and information about crystal-related adventures. Her expertise makes her valuable for identifying mysterious crystals or locating specific magical components.
+
+
+## Connections
+
+- [[Old Valdris]]

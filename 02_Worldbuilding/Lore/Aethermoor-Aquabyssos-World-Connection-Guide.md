@@ -1,10 +1,22 @@
 ---
-tags: [worldbuilding, aquabyssos, aethermoor, connections, lore]
-world_type: "Parallel Realms"
-connection_type: "Dimensional Overlap"
-status: "Post-Merger Possibility"
+tags:
+- aethermoor
+- aquabyssos
+- connections
+- lore
+- post-merger-possibility
+- worldbuilding
+world_type: Parallel Realms
+connection_type: Dimensional Overlap
+status: Post-Merger Possibility
 created: 2025-08-07
+world: Aquabyssos
+updated: '2025-08-11T13:08:48.291852+00:00'
+type: Lore
 ---
+
+
+
 
 # Aethermoor-Aquabyssos World Connection Guide
 ## The Convergence of Surface and Depth

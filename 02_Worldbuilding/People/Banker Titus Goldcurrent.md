@@ -1,27 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.805330+00:00'
+created: '2025-08-11T13:08:49.805330+00:00'
+status: draft
 tags:
-  - npc
-  - merchant
-  - banker
-  - aquabyssos
-  - financial
-  - triton
-  - corrupt
+- both
+- draft
 type: NPC
-race: Triton
-class: Rogue (Mastermind)
-level: 10
-alignment: Lawful Evil
-location: "[[02_Worldbuilding/Places/Aquabyssos Prime]]"
-faction: "[[02_Worldbuilding/Groups/The Current Merchants]]"
-status: Alive (Financially powerful)
-created: 2025-08-09
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
 ---
+
+
+
 
 # Banker Titus Goldcurrent
 *The Pearl Counter, Master of Depths Finance, The Pressure Baron*
@@ -225,3 +214,11 @@ His main banking facility features:
 - [[02_Worldbuilding/Quests/Quest - The Economic Conspiracy]] - His market manipulation
 - [[02_Worldbuilding/Quests/Quest - The Debtor's Revolt]] - Victims fight back
 - [[02_Worldbuilding/Quests/Quest - The Currency War]] - Inter-realm financial conflict
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Senator]]
+- [[The Phosphor Markets]]

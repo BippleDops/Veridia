@@ -1,16 +1,29 @@
 ---
-tags: [place, location, cross-realm, dimensional-nexus, trading-post, neutral-ground]
-status: "complete"
-world: "Dimensional Nexus (Both Realms)"
-type: "location"
-location_type: "Interdimensional Trading Hub"
-affiliation: "[[The Liminal Trading Company]]"
-significance: "Major"
-size: "Large Complex"
-population: "~2,000 (rotating)"
-created_by: "auto-stub"
+tags:
+- complete
+- cross-realm
+- dimensional-nexus
+- dimensional-nexus-(both-realms)
+- location
+- neutral-ground
+- place
+- trading-post
+status: complete
+world: Dimensional Nexus (Both Realms)
+type: Location
+location_type: Interdimensional Trading Hub
+affiliation: '[[The Liminal Trading Company]]'
+significance: Major
+size: Large Complex
+population: ~2,000 (rotating)
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.797032+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Floating Market
 *The Nexus of Worlds, Where All Realities Meet*
@@ -794,3 +807,12 @@ The market maintains its neutral status through a complex system of dimensional 
 - Can serve as campaign hub for adventures spanning multiple realities
 - Provides safe space for diplomatic negotiations and cultural exchange
 - Represents themes of cooperation, commerce, and cosmopolitan diversity
+
+## Connections
+
+- [[The Liminal Trading Company]]
+- [[Harbor District Customs House]]
+- [[The Free Current]]
+- [[The Neutral Ground]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]

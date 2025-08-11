@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, temple, religious, sunken, ancient, divine, marcus, drowned, sacred]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Ancient Sunken Religious Temple"
-parent_location: "Harbor District"
-depth: "3,500 feet"
-danger_level: 3
-population: "~30 priests and pilgrims"
-government: "Religious sanctuary under temple authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.643327+00:00'
+created: '2025-08-11T13:08:50.643327+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Drowned Temple
 *Ancient Sacred Site of Submerged Faith*
@@ -184,3 +179,10 @@ The Drowned Temple represents one of [[Aquabyssos]]'s most mysterious and spirit
 - [[Pool of Sacred Drowning]]
 - [[Divine Preservation Magic]]
 - [[Underwater Religious Practices]]
+
+
+## Connections
+
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Discover the Singers Beyond]]
+- [[The Lock Saboteur]]

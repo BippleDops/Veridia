@@ -1,15 +1,23 @@
 ---
-tags: [complete, mystical, prophecy, temporal, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- aethermoor
+- complete
+- mystical
+- prophecy
+- quest
+- temporal
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.019647+00:00'
 ---
+
+
 
 # The Oracle of the Sundered Peaks
 
@@ -360,3 +368,14 @@ Connected Adventures
 
 > [!danger] DM Secret
 > The Oracle is not actually the last of her order - she's the first. Her "prophecies" are actually memories from living through these events countless times in an endless temporal loop. Each cycle, she tries different approaches to break the loop, and the party represents her latest attempt. The "Innovation Path" is her hope that someone with a truly fresh perspective can find the solution that has eluded her for eons.
+
+
+## Connections
+
+- [[The Crimson Sage]]
+- [[Aether Crystals]]
+- [[Crystalline Depths]]
+- [[Quest - The Seventh Shard]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]

@@ -1,9 +1,23 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aethermoor, crimson-hand, strike-team, military, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aethermoor
+- both
+- complete
+- crimson-hand
+- lore
+- military
+- strike-team
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.382773+00:00'
+created: '2025-08-11T13:08:48.382773+00:00'
+type: Lore
 ---
+
+
 
 # Crimson Hand Strike Team
 

@@ -1,15 +1,24 @@
 ---
-tags: [organization, pirates, pressure, criminal, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- criminal
+- organization
+- pirates
+- pressure
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Criminal
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.781696+00:00'
 ---
+
+
+
 
 # The Pressure Pirates
 
@@ -91,3 +100,40 @@ The Pressure Pirates are an elite criminal organization specializing in deep-wat
 
 ## DM Notes
 The Pressure Pirates offer unique underwater adventure opportunities, combining maritime crime with environmental challenges. Their deep-water operations create natural barriers that make conventional law enforcement ineffective, requiring creative solutions from adventuring parties.
+
+
+## Connections
+
+- [[The Final Choice]]
+- [[Lighthouse Keeper]]
+- [[The Tidecaller]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,17 +1,32 @@
 ---
-tags: [lore, hazards, temporal-magic, time-distortion, navigation-dangers, aquabyssos, aethermoor, magical-phenomena, time-manipulation, chronological-threats]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- chronological-threats
+- complete
+- hazards
+- lore
+- magical-phenomena
+- navigation-dangers
+- temporal-magic
+- time-distortion
+- time-manipulation
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-hazard_type: "Temporal Distortion Phenomena"
-danger_level: "Variable - Moderate to Catastrophic"
-scope: "Cross-Realm Phenomenon"
-frequency: "Uncommon but Increasing"
-detection_difficulty: "Extremely High"
+updated: '2025-08-11T13:08:48.030685+00:00'
+hazard_type: Temporal Distortion Phenomena
+danger_level: Variable - Moderate to Catastrophic
+scope: Cross-Realm Phenomenon
+frequency: Uncommon but Increasing
+detection_difficulty: Extremely High
 ---
+
+
+
 
 # Temporal Navigation Hazards
 *When Time Itself Becomes the Enemy*
@@ -179,3 +194,10 @@ Temporal hazards create significant vulnerabilities for both realms while potent
 - [[02_Worldbuilding/Lore/Spell Lists]] - Catalog of temporal magic and protection spells
 - [[02_Worldbuilding/Lore/Aquabyssos]] - Underwater realm affected by increasing temporal instability
 - [[02_Worldbuilding/Lore/Aethermoor]] - Surface realm developing temporal hazard countermeasures
+
+
+## Connections
+
+- [[Environmental Hazards]]
+- [[The Final Choice]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]

@@ -1,16 +1,31 @@
 ---
-tags: [system, spells, conjuration, magic-theory, summoning, creation, teleportation, aquabyssos, aethermoor, underwater-magic]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- complete
+- conjuration
+- creation
+- lore
+- magic-theory
+- spells
+- summoning
+- system
+- teleportation
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-school: "Conjuration"
-focus: "Summoning, Creation, and Transportation Magic"
-complexity: "Fundamental to Cosmic"
-practitioners: "Summoners, portal mages, creators"
+updated: '2025-08-11T13:08:47.630180+00:00'
+school: Conjuration
+focus: Summoning, Creation, and Transportation Magic
+complexity: Fundamental to Cosmic
+practitioners: Summoners, portal mages, creators
 ---
+
+
 
 # Conjuration School of Magic
 *The Art of Summoning, Creation, and Transportation*

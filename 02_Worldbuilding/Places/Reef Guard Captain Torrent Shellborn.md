@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, reef-station, guard, shellborn, protection, marine, ecology]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Marine Protection Station"
-parent_location: "The Coral Gardens District"
-depth: "2,000 feet"
-danger_level: 3
-population: "65 (reef guards, marine biologists, and support staff)"
-government: "Environmental Protection Service"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.109736+00:00'
+created: '2025-08-11T13:08:50.109736+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Shellborn Reef Station
 *Guardian of Living Waters*
@@ -389,3 +384,8 @@ Shellborn Reef Station serves as the premier marine ecosystem protection facilit
 **Discovery**: Discovery of new species and ecosystems
 
 Shellborn Reef Station represents the vital intersection of environmental science and community protection in [[Aquabyssos]], where [[Reef Guard Captain Torrent Shellborn]]'s comprehensive approach to marine ecosystem protection demonstrates that healthy environments and healthy communities are inseparable. Through innovative conservation techniques, community engagement, and unwavering commitment to ecosystem health, this facility serves as a model for sustainable relationship between civilization and the natural world.
+
+
+## Connections
+
+- [[Lumengarde]]

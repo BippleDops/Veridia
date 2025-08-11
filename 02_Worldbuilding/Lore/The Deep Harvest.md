@@ -1,16 +1,29 @@
 ---
-tags: [lore, technology, deep-sea-harvesting, aquabyssos, resource-extraction, automated-systems, marine-agriculture, innovation, sustainability, bio-mechanical-engineering]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Resource Extraction Technology"
-significance: "Critical Economic Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- automated-systems
+- bio-mechanical-engineering
+- complete
+- deep-sea-harvesting
+- innovation
+- lore
+- marine-agriculture
+- resource-extraction
+- sustainability
+- technology
+status: complete
+world: Aquabyssos
+type: Lore
+category: Resource Extraction Technology
+significance: Critical Economic Infrastructure
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-technology_type: "Automated Deep-Sea Resource System"
-access_restriction: "Commercial and Government Licensed"
+updated: '2025-08-11T13:08:49.415615+00:00'
+technology_type: Automated Deep-Sea Resource System
+access_restriction: Commercial and Government Licensed
 ---
+
+
 
 # The Deep Harvest
 *Mechanized Abundance from the Ocean's Depths*
@@ -446,3 +459,15 @@ Understanding The Deep Harvest helps navigate Aquabyssos society:
 - [[02_Worldbuilding/People/Chief Marine Engineer Coral Seaforge]] - Manufacturing facility director
 - [[02_Worldbuilding/Groups/Deep Metals Consortium]] - Material supplier for harvesting equipment
 - [[02_Worldbuilding/Groups/Marine Protection Guild]] - Environmental safety organization
+
+
+## Connections
+
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Pressure Adaptation System]]
+- [[Temple of the First Tide]]
+- [[The Depth Chart]]
+- [[The Silverscale Conspiracy]]
+- [[Underwater Breathing]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]

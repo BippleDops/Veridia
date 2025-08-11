@@ -1,11 +1,21 @@
 ---
-tags: [location, government, forgotten-history, supernatural]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- forgotten-history
+- government
+- location
+- supernatural
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.779731+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Unremembered Parliament
 
@@ -114,3 +124,27 @@ The spirits cannot rest until their final legislation is properly addressed:
 
 ## DM Notes
 This location works well for political campaigns exploring themes of democracy, corruption, and historical truth. The supernatural elements add mystery while the political implications create ongoing consequences for character actions.
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

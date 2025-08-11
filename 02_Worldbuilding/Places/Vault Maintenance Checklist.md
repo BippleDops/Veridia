@@ -1,11 +1,21 @@
 ---
-tags: [document, security, maintenance, royal-vault]
-status: "complete"
-world: "Aquabyssos"
-type: "document"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- document
+- maintenance
+- royal-vault
+- security
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.774246+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Vault Maintenance Checklist
 
@@ -103,3 +113,33 @@ All maintenance activities require dual authentication:
 
 ## DM Notes
 This document can serve as exposition for vault security, a source of information for heist planning, or evidence in corruption investigations. The detailed procedures show how seriously the kingdom takes vault security.
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

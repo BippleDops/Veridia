@@ -1,17 +1,31 @@
 ---
-tags: [organization, criminal-group, apprentices, aethermoor, underground, training-program, criminal-recruitment, organized-crime, street-level, corruption]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- apprentices
+- complete
+- corruption
+- criminal-group
+- criminal-recruitment
+- lore
+- organization
+- organized-crime
+- street-level
+- training-program
+- underground
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-organization_type: "Criminal Training Program"
-scope: "Regional"
-activity_level: "Active"
-membership_structure: "Hierarchical Apprenticeship"
-primary_activities: "Recruitment and Training"
+updated: '2025-08-11T13:08:48.750120+00:00'
+organization_type: Criminal Training Program
+scope: Regional
+activity_level: Active
+membership_structure: Hierarchical Apprenticeship
+primary_activities: Recruitment and Training
 ---
+
+
 
 # Crimson Hand Apprentices
 *The Rising Generation of Organized Crime*
@@ -351,3 +365,8 @@ Disruption operations enable characters to interfere with criminal activities wh
 - [[02_Worldbuilding/People/Inspector Helena Truthseeker]] - Leading investigator of criminal apprentice programs
 - [[02_Worldbuilding/Lore/Organized Crime Networks]] - Broader criminal organization context
 - [[02_Worldbuilding/Lore/Community Support Programs]] - Prevention and intervention efforts
+
+
+## Connections
+
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

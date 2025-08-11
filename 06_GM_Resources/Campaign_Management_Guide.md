@@ -1,13 +1,20 @@
 ---
 title: Campaign Management Guide
-type: gm_resource
+type: Lore
 status: complete
 tags:
-  - gm-resource
-  - campaign-management
-  - organization
+- both
+- campaign-management
+- complete
+- gm-resource
+- gm_resource
+- organization
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.031206+00:00'
 ---
+
+
 
 # Campaign Management Guide
 *Orchestrating the Depths and Heights*

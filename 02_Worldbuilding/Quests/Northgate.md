@@ -1,20 +1,32 @@
 ---
-tags: [quest, frontier, trading, border-control, smuggling, diplomacy, wilderness, caravan-protection]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
+tags:
+- aquabyssos
+- border-control
+- caravan-protection
+- complete
+- diplomacy
+- frontier
+- quest
+- smuggling
+- trading
+- wilderness
+status: complete
+world: Aquabyssos
+type: Lore
 level: 3-7
 duration: 4-6 sessions
 threat_level: medium
-quest_giver: "Caravan Master Dolrim"
-created_by: "auto-stub"
+quest_giver: Caravan Master Dolrim
+created_by: auto-stub
 created: 2025-08-08
-last_modified: 2025-08-10
-  - Category/Quest
+last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.061306+00:00'
 ---
+
+
 
 # Northgate
 
@@ -277,3 +289,8 @@ The crisis cannot be completely resolved without significant costs - the party m
 **Outcomes**: Complex ongoing situation with both benefits and drawbacks, reputation for making difficult decisions, continued involvement in managing the consequences of their choices.
 
 This quest provides opportunities for wilderness exploration, political intrigue, and economic problem-solving while establishing the party's role in frontier development and regional politics. The resolution chosen will have lasting effects on the northern frontier's development and create precedents for handling similar crises in other border regions throughout the Aquabyssos campaign setting.
+
+
+## Connections
+
+- [[Find_the_Missing_Caravan]]

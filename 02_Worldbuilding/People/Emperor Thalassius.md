@@ -1,26 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.749601+00:00'
+created: '2025-08-11T13:08:49.749601+00:00'
+status: draft
 tags:
-  - npc
-  - ruler
-  - royalty
-  - emperor
-  - aquabyssos
-  - ancient
+- both
+- draft
 type: NPC
-race: Deep One (Ancient Human)
-class: Warlock/Noble
-level: 18
-alignment: Lawful Neutral (Shadow-touched)
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "[[02_Worldbuilding/Groups/Parliament of Echoes]]"
-status: Alive (Shadow-bonded)
-created: 2025-08-08
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Emperor Thalassius the Deep-Crowned
 *The Shadow Emperor, He Who Speaks with Depths, First of the Parliament*
@@ -172,3 +162,12 @@ Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over thr
 - [[02_Worldbuilding/Quests/Diplomatic Tides]] - Cross-realm negotiations
 - [[02_Worldbuilding/Quests/Depths of Whispers]] - Investigation of deep currents
 - [[02_Worldbuilding/Quests/The Depth Accords]] - Surface/depth treaties
+
+
+## Connections
+
+- [[The Bathyal Succession]]
+- [[Nerissa_Deepcurrent]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[The Archive of Unremembered Things]]
+- [[Campaign_Relationship_Matrix]]

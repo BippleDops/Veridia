@@ -1,28 +1,36 @@
 ---
 tags:
-  - quest
-  - investigation
-  - political
-  - shadowmere
-  - mid-level
-type: Quest
-quest_giver: "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
+- both
+- draft
+- investigation
+- mid-level
+- political
+- quest
+- shadowmere
+type: Lore
+quest_giver: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 level_range: 5-8
 reward_tier: Significant
 locations:
-  - "[[02_Worldbuilding/Places/The Shadowmere]]"
-  - "[[02_Worldbuilding/Places/The Embassy Quarter]]"
-  - "[[02_Worldbuilding/Places/The Sunken Markets]]"
+- '[[02_Worldbuilding/Places/The Shadowmere]]'
+- '[[02_Worldbuilding/Places/The Embassy Quarter]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets]]'
 npcs_involved:
-  - "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
-  - "[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]"
-  - "[[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]"
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
-  - Category/Quest
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.077296+00:00'
+created: '2025-08-11T13:08:50.077296+00:00'
+status: draft
 ---
+
+
 
 # Quest: The Drowned Prophecy
 

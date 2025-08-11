@@ -1,20 +1,15 @@
 ---
-type: faction
-tags: [faction, scholarly, trade, aquabyssos, knowledge-brokers, merchants]
-aliases: [Merchants Covenant, The Covenant, Deep Knowledge Exchange]
-world: "Aquabyssos"
-created: 2025-08-09
-modified: 2025-08-09
-leader: "Archmerchant Codex Goldstream"
-headquarters: "The Repository Barge"
-alignment: "Neutral"
-power_level: "Major Economic"
-status: "complete"
-  - Category/Group
-MyContainer: Aquabyssos
-MyCategory: Scholarly Trade Consortium
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.278246+00:00'
+created: '2025-08-11T13:08:51.278246+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Group
 ---
+
+
 
 # Merchant's Covenant
 *"Knowledge Flows Like Current, Value Rises Like Pressure"*

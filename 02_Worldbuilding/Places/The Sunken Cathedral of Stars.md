@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.070214+00:00'
+created: '2025-08-11T13:08:51.070214+00:00'
+status: draft
 tags:
-  - location
-  - temple
-  - religious
-  - underwater
-  - cult
-type: Underwater Cathedral
-region: "[[02_Worldbuilding/Places/The Azure Coast]]"
-danger_level: Extreme
-controlled_by: "[[02_Worldbuilding/Groups/The Leviathan Cult]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/sunken_cathedral_stars.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Sunken Cathedral of Stars
 *Where Deep Gods Dream and Mortals Transform*
@@ -36,3 +32,32 @@ The Sunken Cathedral of Stars serves as the primary headquarters for [[02_Worldb
 - **[[Crystal Wardens]]** - Planning consecration and purification mission
 - **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Potential alliance negotiations
 - **[[02_Worldbuilding/Places/The Sorrow Current]]** - Cathedral draws power from emotional phenomena
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

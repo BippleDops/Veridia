@@ -1,24 +1,31 @@
 ---
-tags: [npc, crystal-guardian, aethermoor, order-leader, protector, crystal-touched]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "High Warden of the Crystal Order"
-affiliation: "[[Crystal Wardens Order]] - Supreme Commander"
-age: "156"
-race: "Crystal-Touched Elf"
-class: "Eldritch Knight Fighter/Abjuration Wizard"
+tags:
+- aethermoor
+- complete
+- crystal-guardian
+- crystal-touched
+- npc
+- order-leader
+- protector
+status: complete
+world: Aethermoor
+type: NPC
+role: High Warden of the Crystal Order
+affiliation: '[[Crystal Wardens Order]] - Supreme Commander'
+age: '156'
+race: Crystal-Touched Elf
+class: Eldritch Knight Fighter/Abjuration Wizard
 level: 17
-alignment: "Lawful Good"
-location: "[[The Crystal Spires]] - Warden's Sanctum"
-created_by: "auto-stub"
+alignment: Lawful Good
+location: '[[The Crystal Spires]] - Warden''s Sanctum'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.826319+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
 
 # Crystal Wardens
 *High Warden Luminara Prismheart, Guardian of the Sacred Crystals, Defender of the Light*

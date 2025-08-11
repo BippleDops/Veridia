@@ -1,19 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.013614+00:00'
+created: '2025-08-11T13:08:51.013614+00:00'
+status: draft
 tags:
-  - location
-  - city
-  - port
-type: City
-region: "[[The Azure Coast]]"
-population: 275,000
+- both
+- draft
+type: Location
 danger_level: Moderate
-created: 2024-12-20
-image: "04_Resources/Assets/Locations/port_meridian.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Port Meridian
 *Gateway to the World, Where Gold and Crystal Meet*
@@ -184,3 +182,33 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal network
 - [[Crystal Wardens]] - Military presence
 - [[Foreign Trade Guilds]]
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Corruption Exposure Tracking]]
+- [[Discover Marina's Truth]]
+- [[The Crystal Festival]]
+- [[The Seven Shards]]
+- [[Blood Current Express]]
+- [[Compass Quest]]
+- [[Depth Warden Patrol]]
+- [[Depth Wardens]]
+- [[Harbor District Customs House]]
+- [[Harbor District]]
+- [[Mad Bell-Ringer Thomas]]
+- [[Noble Quarter]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian - Noble Quarter]]
+- [[Quest - The Blackmail Papers]]
+- [[Quest - The Truth Unveiled]]
+- [[Surface Tensions]]
+- [[Temple Ward]]
+- [[Tethyan Hegemony]]
+- [[The Crystalline Foundry]]
+- [[The Forgotten One]]
+- [[Quest - Smuggler's Run]]
+- [[Quest - The Pretender's Crown]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

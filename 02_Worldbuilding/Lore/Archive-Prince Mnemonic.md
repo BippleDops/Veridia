@@ -1,17 +1,30 @@
 ---
-tags: [person, archive-prince, memory-keeper, aquabyssos, knowledge-guardian, magical-librarian, ancient-wisdom, living-library, major-npc]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- ancient-wisdom
+- aquabyssos
+- archive-prince
+- complete
+- knowledge-guardian
+- living-library
+- lore
+- magical-librarian
+- major-npc
+- memory-keeper
+- person
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-person_type: "Magical Knowledge Guardian"
-scope: "Institutional Authority"
-role: "Chief Archivist"
-magical_specialization: "Memory Magic"
-institutional_rank: "Archive-Prince"
+updated: '2025-08-11T13:08:49.002872+00:00'
+person_type: Magical Knowledge Guardian
+scope: Institutional Authority
+role: Chief Archivist
+magical_specialization: Memory Magic
+institutional_rank: Archive-Prince
 ---
+
+
 
 # Archive-Prince Mnemonic
 *The Living Memory of Aquabyssos*
@@ -313,3 +326,18 @@ Analysis support projects enable characters to contribute to understanding curre
 - [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat requiring historical analysis and documentation
 - [[02_Worldbuilding/Lore/Royal Archives of Aquabyssos]] - Primary institutional base of operations
 - [[02_Worldbuilding/Lore/Scholarly Exchange Programs]] - Academic cooperation and knowledge sharing initiatives
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Kraken Territories]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Memory Weapon Arms Race]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

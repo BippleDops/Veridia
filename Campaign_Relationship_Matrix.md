@@ -1,14 +1,24 @@
 ---
-tags: [master-index, relationships, matrices, complete, navigation]
-status: "complete"
-world: "Universal"
-type: "relationship-matrix"
-created_by: "Agent-20"
+tags:
+- complete
+- master-index
+- matrices
+- navigation
+- relationship-matrix
+- relationships
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: Agent-20
 created: 2025-08-11
 last_updated: 2025-08-11
-completion: "100%"
+completion: 100%
 total_relationships: 500+
+updated: '2025-08-11T13:08:46.952499+00:00'
 ---
+
+
 
 # Campaign Relationship Matrix
 *Comprehensive Cross-Category Connection Mapping System*
@@ -958,3 +968,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 *Comprehensive Connection System Across All Content Categories*
 *Adventure Integration Framework with Instant Reference Capability*
 *Agent 20 - Index Building Mission: 90% Complete*
+
+## Connections
+
+- [[Campaign_Quick_Reference_Sheets]]

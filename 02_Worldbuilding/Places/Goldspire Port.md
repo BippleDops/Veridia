@@ -1,14 +1,30 @@
 ---
-tags: [location, foreign, goldspire, trade-port, international]
+tags:
+- active---category/place
+- both
+- city
+- foreign
+- goldspire
+- international
+- location
+- trade-port
 region: Goldspire Confederacy
-type: City
+type: Location
 danger: Medium
-status: Active
-  - Category/Place
+status: Active - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.653817+00:00'
+created: '2025-08-11T13:08:50.653817+00:00'
+danger_level: Moderate
 ---
+
+
+
+
+
 
 # Goldspire Port
 
@@ -101,3 +117,39 @@ Massive devices that create a field preventing crystal energy within the city. S
 - **By Sea**: 2 weeks from [[02_Worldbuilding/Places/Port Meridian]] (if permitted)
 - **By Crystal Gate**: Impossible (null field prevents it)
 - **By Air**: Confederate airships (restricted to diplomats)
+
+
+## Connections
+
+- [[Smuggler's Gambit]]
+- [[Traveling Merchant Finn]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,15 +1,27 @@
 ---
-tags: [npc, warden, marcus, stonehand, prison, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- marcus
+- npc
+- prison
+- stonehand
+- warden
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.115545+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Warden Marcus Stonehand
 
@@ -37,7 +49,7 @@ He wears a modified warden's uniform designed for underwater environments, with 
 
 ## Statistics
 **Medium humanoid (human), lawful good**
-- **AC** 17 (Studded Leather + Dex)
+- **AS** 17 (Studded Leather + Dex)
 - **HP** 95 (14d10 + 28)
 - **Speed** 30 ft, swim 25 ft
 - **STR** 16 (+3) **DEX** 14 (+2) **CON** 15 (+2) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 15 (+2)
@@ -99,3 +111,38 @@ He's also investigating reports of attempts to communicate with high-security pr
 
 ## DM Notes
 Warden Stonehand represents the principled civil servant who maintains institutional integrity despite political pressure. Use him to explore themes of justice, rehabilitation, and moral consistency. His prison can serve as a source of information, a secure meeting place, or the setting for rescue/extraction missions.
+
+
+## Connections
+
+- [[Pressure's End]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

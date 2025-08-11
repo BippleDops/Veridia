@@ -1,23 +1,33 @@
 ---
-tags: [faction, group, shadow-cult, resource-extraction, shadow-energy, aquabyssos, harvesters]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Shadow Energy Harvesting Cult"
-alignment: "Neutral Evil (Obsessive Collectors)"
-headquarters: "[[The Void Refineries]]"
-leader: "[[High Harvester Umbros Shadowdrain]]"
-members: "~200 active harvesters, ~500 shadow-touched workers"
-influence: "Underground Economy, Shadow Energy Trade"
-purpose: "Extract and refine pure shadow energy"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- faction
+- group
+- harvesters
+- resource-extraction
+- shadow-cult
+- shadow-energy
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Shadow Energy Harvesting Cult
+alignment: Neutral Evil (Obsessive Collectors)
+headquarters: '[[The Void Refineries]]'
+leader: '[[High Harvester Umbros Shadowdrain]]'
+members: ~200 active harvesters, ~500 shadow-touched workers
+influence: Underground Economy, Shadow Energy Trade
+purpose: Extract and refine pure shadow energy
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Shadow Economy
 MyCategory: Resource Cartel
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.284669+00:00'
 ---
+
+
 
 # The Shadow Harvest
 *Reapers of the Void, Masters of Shadow Essence, The Darkest Addiction*
@@ -555,3 +565,8 @@ Secret agreements with organizations in other realms provide access to different
 - [[The Final Darkening]]
 - [[Shadow Energy Addiction]]
 - [[Void-Touched Equipment]]
+
+
+## Connections
+
+- [[Aquabyssos - Session 04 - High Tide Horror]]

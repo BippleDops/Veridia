@@ -1,14 +1,26 @@
 ---
-tags: [quest, combat, moral-choice, nature, corruption]
+tags:
+- available
+- both
+- combat
+- combat/exploration
+- corruption
+- moral-choice
+- nature
+- quest
 level: 8-10
-type: Combat/Exploration
+type: Lore
 status: Available
-reward: Major
-  - Category/Quest
+reward: Major - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.073265+00:00'
+created: '2025-08-11T13:08:50.073265+00:00'
 ---
+
+
 
 # The Green Death
 

@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, amber-shard, purist-coalition, unknowing-bearer]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Unknowing Shard Bearer"
-affiliation: "[[02_Worldbuilding/Groups/Purist Coalition]]"
-age: "45"
-race: "Human (Shard-bearer)"
-location: "[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- amber-shard
+- complete
+- npc
+- person
+- purist-coalition
+- seven-shards
+- unknowing-bearer
+status: complete
+world: Aethermoor
+type: NPC
+role: Unknowing Shard Bearer
+affiliation: '[[02_Worldbuilding/Groups/Purist Coalition]]'
+age: '45'
+race: Human (Shard-bearer)
+location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.931108+00:00'
 ---
+
+
 
 # Brother Matthias the Amber Bearer
 *Unwitting Guardian of the Amber Shard, The Righteous Crusader*
@@ -386,3 +397,12 @@ Matthias receives what he believes are divine visions:
 - **Social Role**: Moral authority and Coalition spokesperson
 - **Plot Function**: Walking contradiction that can shatter faction ideologies
 - **Power Balance**: Very strong but believes his power comes from faith, creating interesting RP moments
+
+## Connections
+
+- [[Stop the Shadow Harvest]]
+- [[Commander Thrace Ironwood]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[The Azure Prophet Nerissa]]
+- [[The Emerald Sage Willowbark]]
+- [[The Shadow Singer Naia]]

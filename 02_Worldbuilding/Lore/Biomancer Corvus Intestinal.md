@@ -1,18 +1,30 @@
 ---
-tags: [lore, npc, biomancer, flesh-magic, biological-manipulation, aquabyssos, master-practitioner, dangerous-individual, research-specialist]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- biological-manipulation
+- biomancer
+- complete
+- dangerous-individual
+- flesh-magic
+- lore
+- master-practitioner
+- npc
+- research-specialist
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-npc_type: "Master Biomancer"
-organization: "Independent Research Specialist"
-danger_level: "Extreme"
-specialization: "Biological Manipulation and Flesh Magic"
-location: "Mobile - Various Deep Research Sites"
-reputation: "Feared and Respected"
+updated: '2025-08-11T13:08:49.572058+00:00'
+npc_type: Master Biomancer
+organization: Independent Research Specialist
+danger_level: Extreme
+specialization: Biological Manipulation and Flesh Magic
+location: Mobile - Various Deep Research Sites
+reputation: Feared and Respected
 ---
+
+
 
 # Biomancer Corvus Intestinal
 *The Flesh Weaver of the Deep Currents*
@@ -468,3 +480,8 @@ Corving's advanced medical techniques provide solutions to medical crises that c
 - [[02_Worldbuilding/Lore/Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
 - [[02_Worldbuilding/People/Professor Depth Biologist]] - Former colleague and current correspondent
 - [[02_Worldbuilding/People/Crystal Corruption Researcher Prime]] - Current collaborative research partner
+
+
+## Connections
+
+- [[The Deep Mother]]

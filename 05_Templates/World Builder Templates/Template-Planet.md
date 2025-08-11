@@ -1,9 +1,18 @@
 ---
 tags:
-  - Category/Planet
+- both
+- category/planet
+- draft
 obsidianUIMode: preview
-MyContainer:
+MyContainer: null
+world: Both
+updated: '2025-08-11T13:08:47.011827+00:00'
+created: '2025-08-11T13:08:47.011827+00:00'
+status: draft
+type: Lore
 ---
+
+
 <%*
 
 // 1) Rename if the file starts with "NewPlanet"
@@ -123,7 +132,7 @@ Make notes of what you need to track in the region here.
 `BUTTON[button_continent]` **Continents**  Large continuous landmasses that contain regions.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Continent(s)"
+TABLE WITHOUT ID link(file.name) AC "Continent(s)"
 FROM "02_Worldbuilding/Continents"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
@@ -134,7 +143,7 @@ SORT file.name ASC
 `BUTTON[button_species]`  Intelligent species that live on this planet. 
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Sapient Species"
+TABLE WITHOUT ID link(file.name) AC "Sapient Species"
 FROM "02_Worldbuilding/Sapient Species"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

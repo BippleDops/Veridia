@@ -1,21 +1,16 @@
 ---
-tags: [npc, criminal, shadow-touched, rogue, aethermoor]
-status: "active"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-race: "Human"
-class: "Rogue (Mastermind)/Warlock"
-level: 15
-faction: "Shadow Parliament"
-location: "Undercity Shadowmarket"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.653523+00:00'
+created: '2025-08-11T13:08:49.653523+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Marcus "The Shade" Blackwood
 
@@ -148,3 +143,17 @@ He controls the Shadowmarket—a hidden bazaar where anything can be bought for 
 - "Everyone has a price. The only question is whether you're honest about what it is..."
 
 **Mannerisms**: Always impeccably groomed. Has a habit of straightening his cufflinks when thinking. His shadow moves independently of his body when he's using magic. He never sits with his back to a door and always knows the location of every exit.
+
+
+## Connections
+
+- [[Shadow Independence Levels]]
+- [[The Whisper Syndicate]]
+- [[Captain Lyanna Brightshield]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Vex Shadowthorn's Apprentices]]
+- [[Vex Shadowthorn]]
+- [[Crystalhaven]]
+- [[The Bone Colosseum]]
+- [[Quest - The Plague of Crystals]]
+- [[Campaign_Relationship_Matrix]]

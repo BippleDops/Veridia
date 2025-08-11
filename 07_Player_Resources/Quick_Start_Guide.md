@@ -1,13 +1,21 @@
 ---
 title: Aquabyssos & Aethermoor Quick Start Guide
-type: player_resource
+type: Lore
 status: complete
 tags:
-  - player-resource
-  - quick-start
-  - rules-reference
+- both
+- complete
+- player-resource
+- player_resource
+- quick-start
+- rules-reference
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.035385+00:00'
 ---
+
+
+
 
 # Quick Start Guide
 *Welcome to the dual worlds of Aquabyssos and Aethermoor*
@@ -203,3 +211,7 @@ Unique spells available at different depths:
 ---
 
 *Remember: In the depths, pressure isn't just physical—it's political, social, and existential. Every choice matters, every alliance has a cost, and the deep remembers everything.*
+
+## Connections
+
+- [[Campaign_Dashboard]]

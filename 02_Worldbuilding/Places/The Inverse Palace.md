@@ -1,17 +1,30 @@
 ---
-tags: [location, aquabyssos, capital, political, haunted]
-location_type: "Continental Capital"
-continent: "Abyssos Prime"
-depth: "1,000-3,000 feet"
-population: "~2 million transformed souls"
-government: "The Eternal Senate (undead parliament)"
+tags:
+- aquabyssos
+- both
+- capital
+- draft
+- haunted
+- location
+- political
+location_type: Continental Capital
+continent: Abyssos Prime
+depth: 1,000-3,000 feet
+population: ~2 million transformed souls
+government: The Eternal Senate (undead parliament)
 danger_level: 8
-created: 2025-08-07
-  - Category/Place
+created: 2025-08-07 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.014779+00:00'
+status: draft
+type: Location
 ---
+
+
+
 
 # The Inverse Palace
 ## Seat of the Scattered Emperor
@@ -294,3 +307,8 @@ Prophecies suggest the palace will either be the key to raising Aquabyssos or th
 ---
 
 *"In the Inverse Palace, the only truth is paradox, the only constant is change, and the only escape is deeper."* - Court Chronicle, Year of the Drowning Tide
+
+
+## Connections
+
+- [[Inverted Ballroom Wing]]

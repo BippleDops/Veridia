@@ -1,15 +1,26 @@
 ---
-tags: [location, aethermoor, archives, knowledge, moon-magic, crystal-preservation, library]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aethermoor
+- archives
+- complete
+- crystal-preservation
+- knowledge
+- library
+- location
+- moon-magic
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Archive Facility
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.588151+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Moonwhisper Archives - Repository of Lunar Knowledge
 
@@ -392,3 +403,13 @@ The Moonwhisper Archives connect to numerous important elements throughout Aethe
 - **Diplomatic Corps**: Provides historical context for international relations
 
 *The Moonwhisper Archives stand as a beacon of preserved wisdom, where the light of knowledge shines eternal through crystallized moonbeams, offering guidance to those wise enough to seek understanding and humble enough to accept the weight of cosmic truth.*
+
+
+## Connections
+
+- [[Sorrow Pearls]]
+- [[Captain Lyanna Brightshield]]
+- [[Crystalhaven]]
+- [[Port Meridian]]
+- [[Quest - The Seventh Shard]]
+- [[The Oracle of the Sundered Peaks]]

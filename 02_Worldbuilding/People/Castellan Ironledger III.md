@@ -1,23 +1,32 @@
 ---
 tags:
-  - npc
-  - merchant-prince
-  - information-broker
-  - neutral
-  - wealthy
+- active---category/people
+- both
+- information-broker
+- merchant-prince
+- neutral
+- npc
+- wealthy
 type: NPC
-location: "[[02_Worldbuilding/Places/Port Meridian]]"
-faction: "[[02_Worldbuilding/Groups/Merchant Princes]]"
+location: '[[02_Worldbuilding/Places/Port Meridian]]'
+faction: '[[02_Worldbuilding/Groups/Merchant Princes]]'
 race: Gnome
 class: Rogue/Wizard
 level: 7
 alignment: True Neutral
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.632658+00:00'
+created: '2025-08-11T13:08:49.632658+00:00'
 ---
+
+
+
+
+
 
 # Castellan Ironledger III
 
@@ -126,3 +135,20 @@ Hidden location containing:
 
 ## DM Notes
 Castellan serves as the ultimate information broker and can provide plot hooks, crucial intelligence, or economic support to the party. His neutrality makes him useful for facilitating meetings between hostile factions. However, his knowledge makes him dangerous—he could become either an invaluable ally or a deadly enemy depending on how the party treats him. His connections to every major player allow him to naturally weave different plot threads together.
+
+
+## Connections
+
+- [[The Crown]]
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

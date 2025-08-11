@@ -1,16 +1,26 @@
 ---
-tags: [person, npc, aethermoor, silverscale-consortium, corporate-raider, ruthless-executive]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Scale of Acquisition"
-affiliation: "[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales"
-age: "38"
-race: "Half-Dragon (Silver Heritage)"
-location: "[[The Silver Tower of Commerce]] - Acquisitions Floor"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corporate-raider
+- npc
+- person
+- ruthless-executive
+- silverscale-consortium
+status: complete
+world: Aethermoor
+type: NPC
+role: Scale of Acquisition
+affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
+age: '38'
+race: Half-Dragon (Silver Heritage)
+location: '[[The Silver Tower of Commerce]] - Acquisitions Floor'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.660475+00:00'
 ---
+
+
 
 # Lady Jade Clawgrip
 *The Corporate Predator, Mistress of Hostile Takeovers*
@@ -480,3 +490,10 @@ Internal Consortium politics threaten civil war as board members position themse
 - **Social Encounters**: Negotiations are always high-stakes with hidden consequences  
 - **Character Development**: Can evolve from business rival to existential threat as dragon nature emerges
 - **Campaign Impact**: Her success or failure should have lasting economic and political consequences
+
+## Connections
+
+- [[Silverscale Consortium]]
+- [[Commander Thrace Ironwood]]
+- [[The Nameless Auditor]]
+- [[Quest - The Memory Bridge]]

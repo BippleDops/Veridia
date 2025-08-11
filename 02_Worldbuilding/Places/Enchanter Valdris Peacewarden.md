@@ -1,15 +1,26 @@
 ---
-tags: [npc, enchanter, peacewarden, magic, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- enchanter
+- magic
+- npc
+- peacewarden
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.833592+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Enchanter Valdris Peacewarden
 
@@ -37,7 +48,7 @@ He dresses in flowing robes that seem to be woven from sea silk and starlight, w
 
 ## Statistics
 **Medium humanoid (sea elf), lawful good**
-- **AC** 15 (Enchanted Robes)
+- **AS** 15 (Enchanted Robes)
 - **HP** 68 (15d6 + 15)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 16 (+3) **CON** 12 (+1) **INT** 20 (+5) **WIS** 15 (+2) **CHA** 17 (+3)
@@ -104,3 +115,38 @@ He's been quietly investigating the source of this magical disruption while main
 
 ## DM Notes
 Valdris serves as an excellent source of magical items, information about the city's political situation, and a safe meeting place for NPCs. His peace zones can provide interesting roleplay opportunities where combat is discouraged. Use his ethical stance to challenge players' assumptions about the morality of magic use.
+
+
+## Connections
+
+- [[The Bathyal Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

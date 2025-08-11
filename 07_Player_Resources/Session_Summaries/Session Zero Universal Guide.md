@@ -1,9 +1,22 @@
 ---
-tags: [session-zero, player-resource, safety-tools, campaign-setup]
-type: "session-guide"
-campaigns: ["All Aquabyssos Campaigns"]
+tags:
+- both
+- campaign-setup
+- draft
+- player-resource
+- safety-tools
+- session-guide
+- session-zero
+type: Lore
+campaigns:
+- All Aquabyssos Campaigns
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.038133+00:00'
+status: draft
 ---
+
+
 
 # Session Zero: Aquabyssos Campaigns
 ## Setting Expectations for the Depths

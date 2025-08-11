@@ -1,14 +1,28 @@
 ---
-tags: [lore, convergence, reality-merge, dimensional, shadow-corruption, aquabyssos, aethermoor, prophecy, apocalypse, metaphysical]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Cosmic Event"
-significance: "Campaign-Defining"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- apocalypse
+- aquabyssos
+- both
+- complete
+- convergence
+- dimensional
+- lore
+- metaphysical
+- prophecy
+- reality-merge
+- shadow-corruption
+status: complete
+world: Both
+type: Lore
+category: Cosmic Event
+significance: Campaign-Defining
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.605744+00:00'
 ---
+
+
 
 # The Convergence Point
 *Where Two Worlds Become One*
@@ -331,3 +345,33 @@ Key choices facing heroes:
 ---
 
 *"When worlds collide, heroes choose not just victory, but the nature of existence itself."*
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Crystal Garden]]
+- [[Crystal Guard Elite]]
+- [[Customs House]]
+- [[Desperate Plague Victim]]
+- [[Healing Two Worlds]]
+- [[Memory Alteration Consequences]]
+- [[Merged Reality Zones]]
+- [[Possessed Noble Coterie]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Crimson Hand]]
+- [[The Deep Mother]]
+- [[The Drowning Welcome]]
+- [[The Final Choice]]
+- [[The Forgetting Bomb]]
+- [[The Great Convergence Prophecies]]
+- [[The Memory Weapon Arms Race]]
+- [[The Queen]]
+- [[The Real Marina]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[The Transformed Citizens]]
+- [[Throne Room]]
+- [[Timeline of the Drowning]]
+- [[Campaign_Relationship_Matrix]]

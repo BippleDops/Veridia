@@ -1,18 +1,29 @@
 ---
-tags: [quest, investigation, conspiracy, political-intrigue, aethermoor, mystery, high-stakes]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- conspiracy
+- high-stakes
+- investigation
+- mystery
+- political-intrigue
+- quest
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-quest_type: "Investigation/Political Thriller"
-level_range: "5-10"
-party_size: "3-6 characters"
-duration: "6-8 sessions"
-difficulty: "Hard"
-primary_location: "Port Meridian and surrounding regions"
+updated: '2025-08-11T13:08:51.119353+00:00'
+quest_type: Investigation/Political Thriller
+level_range: 5-10
+party_size: 3-6 characters
+duration: 6-8 sessions
+difficulty: Hard
+primary_location: Port Meridian and surrounding regions
+danger_level: Moderate
 ---
+
+
 
 # Quest - The Truth Unveiled
 *A Web of Lies Threatening Aethermoor's Foundation*
@@ -299,3 +310,8 @@ The Truth Unveiled provides a complex, engaging investigation that challenges pl
 The quest's emphasis on player choice and moral complexity makes it ideal for mature gaming groups interested in exploring themes of corruption, responsibility, and the cost of truth. The investigation mechanics provide structure while allowing for creative problem-solving and character development.
 
 Regardless of the specific outcome, the adventure should leave lasting impacts on both player characters and the campaign world, establishing the party's reputation as capable investigators while creating ongoing relationships and consequences that can influence future adventures and character development.
+
+
+## Connections
+
+- [[The Shattered Sanctum]]

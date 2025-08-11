@@ -1,25 +1,34 @@
 ---
 tags:
-  - location
-  - shadowmere
-  - dangerous
-  - mystical
-  - corrupted
+- both
+- corrupted
+- dangerous
+- draft
+- location
+- mystical
+- shadowmere
 type: Location
 region: Northwestern Aethermoor
 danger_level: High
 notable_npcs:
-  - "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
 connected_locations:
-  - "[[02_Worldbuilding/Places/Crystalhaven]]"
-  - "[[02_Worldbuilding/Places/The Verdant Reach]]"
-  - "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-  - Category/Place
+- '[[02_Worldbuilding/Places/Crystalhaven]]'
+- '[[02_Worldbuilding/Places/The Verdant Reach]]'
+- '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+- Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.566932+00:00'
+created: '2025-08-11T13:08:50.566932+00:00'
+status: draft
 ---
+
+
+
 
 # The Shadowmere
 
@@ -138,3 +147,12 @@ Three massive obsidian pillars that prevent the Shadowmere from expanding:
 
 ## DM Notes
 The Shadowmere serves as a hub for planar adventures and psychological horror elements. Its connection to both the Shadow Shard and the underwater realm of Aquabyssos makes it crucial for the overarching plot. The time distortions allow for creative storytelling, including glimpses of potential futures or echoes of the past. This region challenges players not just physically but mentally, as reality itself becomes unreliable.
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[The Convergence Point]]
+- [[The Seven Shards]]
+- [[Captain Elara Shadowshard]]

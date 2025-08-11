@@ -1,22 +1,16 @@
 ---
-tags: [location, aquabyssos, deep-structural, ancient, engineering, pressure]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Deep Structural Complex"
-parent_location: "Aquabyssos Deep Infrastructure"
-depth: "15,000-18,000 feet"
-danger_level: 8
-population: "~200 specialists, engineers, and guards"
-government: "Parliamentary Engineering Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.163023+00:00'
+created: '2025-08-11T13:08:50.163023+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Foundation Depths
 *Where Aquabyssos Stands Upon Ancient Dreams*

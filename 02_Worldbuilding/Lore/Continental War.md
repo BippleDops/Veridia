@@ -1,16 +1,35 @@
 ---
-tags: [lore, history, war, continental, aethermoor, military, ancient-conflict]
-status: "completed"
-world: "Aethermoor"
-type: "Historical Event"
-time_period: "Third Age, Years 892-901"
-scale: "Continental"
-participants: ["Multiple Kingdoms", "City-States", "Ancient Powers"]
-outcome: "Pyrrhic Victory for Alliance Forces"
+tags:
+- aethermoor
+- ancient-conflict
+- completed
+- continental
+- historical-event
+- history
+- lore
+- military
+- war
+status: completed
+world: Aethermoor
+type: Lore
+time_period: Third Age, Years 892-901
+scale: Continental
+participants:
+- Multiple Kingdoms
+- City-States
+- Ancient Powers
+outcome: Pyrrhic Victory for Alliance Forces
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]", "[[02_Worldbuilding/Places/Crystalhaven]]", "[[02_Worldbuilding/Places/Ironhold]]", "[[02_Worldbuilding/Places/Port Meridian]]"]
+updated: '2025-08-11T13:08:48.695593+00:00'
+related_entities:
+- '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
+- '[[02_Worldbuilding/Places/Crystalhaven]]'
+- '[[02_Worldbuilding/Places/Ironhold]]'
+- '[[02_Worldbuilding/Places/Port Meridian]]'
 ---
+
+
+
 
 # Continental War
 *The Conflict That Shaped Modern Aethermoor*
@@ -279,3 +298,8 @@ The Continental War provides:
 - Background for family histories, inherited obligations, and generational conflicts
 - Inspiration for large-scale conflict scenarios and military campaign elements
 EOF < /dev/null
+
+## Connections
+
+- [[Eastern Kingdoms]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]

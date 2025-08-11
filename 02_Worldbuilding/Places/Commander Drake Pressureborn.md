@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, military, fortress, defense, pressure-warfare, underwater-tactics]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- defense
+- fortress
+- location
+- military
+- pressure-warfare
+- underwater-tactics
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Military Installation
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.319004+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Fort Pressureborn - Aquabyssos Military Command Center
 
@@ -359,3 +370,11 @@ Fort Pressureborn connects to numerous important elements throughout Aquabyssos 
 - **Research Institutions**: Collaborates with civilian scientists on military applications of new technologies
 
 *Fort Pressureborn stands as an unbreachable bastion in the depths, where the crushing power of the ocean itself serves the cause of defense, and where the finest underwater warriors forge themselves into weapons as formidable as the fortress they protect.*
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[Azure Citadel]]
+- [[Pressure's End]]
+- [[Rescue Senator Glaucus]]

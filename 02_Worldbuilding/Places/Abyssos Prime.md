@@ -1,49 +1,61 @@
 ---
-tags: [location, aquabyssos, capital, continent]
-location_name: "Abyssos Prime"
-location_type: "Sunken Capital"
-parent_location: "[[Aquabyssos]]"
+tags:
+- aquabyssos
+- both
+- capital
+- continent
+- draft
+- location
+location_name: Abyssos Prime
+location_type: Sunken Capital
+parent_location: '[[Aquabyssos]]'
 sub_locations:
-  - "[[02_Worldbuilding/Places/The Inverse Palace]]"
-  - "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-  - "[[02_Worldbuilding/Places/Screaming Gardens]]"
-  - "[[02_Worldbuilding/Places/The Memory Meadows]]"
-  - "[[Reflection Pools]]"
-  - "[[Pressure Terminal]]"
-  - "[[Throne of Bubbles]]"
-  - "[[The Depth Market]]"
-depth: "1000-3000 feet"
+- '[[02_Worldbuilding/Places/The Inverse Palace]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Places/Screaming Gardens]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[Reflection Pools]]'
+- '[[Pressure Terminal]]'
+- '[[Throne of Bubbles]]'
+- '[[The Depth Market]]'
+depth: 1000-3000 feet
 population: 2000000
-government: "[[The Eternal Senate]]"
-ruler: "[[02_Worldbuilding/People/The Scattered Emperor]]"
+government: '[[The Eternal Senate]]'
+ruler: '[[02_Worldbuilding/People/The Scattered Emperor]]'
 factions:
-  - "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-  - "[[Shadow Conspiracy]]"
-  - "[[Depth Merchants]]"
-  - "[[Memory Farmers]]"
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[Shadow Conspiracy]]'
+- '[[Depth Merchants]]'
+- '[[Memory Farmers]]'
 danger_level: 7
 visited: false
 discovered: true
 services:
-  - "Pressure Tubes"
-  - "Shadow Markets"
-  - "Memory Trading"
-  - "Depth Adaptation"
-  - "Political Intrigue"
+- Pressure Tubes
+- Shadow Markets
+- Memory Trading
+- Depth Adaptation
+- Political Intrigue
 notable_npcs:
-  - "[[02_Worldbuilding/People/The Scattered Emperor]]"
-  - "[[02_Worldbuilding/People/Senator Glaucus]]"
-  - "[[Marina Red Tide Coralheart - Aquabyssos]]"
-current_state: "Shadow conspiracy active"
+- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+current_state: Shadow conspiracy active
 temporal_stability: 85
-shadow_density: "High"
-pressure_effects: "Moderate to Severe"
-created: 2025-08-07
-  - Category/Place
+shadow_density: High
+pressure_effects: Moderate to Severe
+created: 2025-08-07 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.446512+00:00'
+status: draft
+type: Location
 ---
+
+
+
 
 # Abyssos Prime - The Drowned Throne
 ## Former Capital of the Surface World
@@ -328,3 +340,64 @@ Undead parliament that continues debating despite having no living constituents.
 ---
 
 *"In Abyssos Prime, the capital crime is remembering who you were."*
+- [[Kraken Territories]]
+- [[Tide Turner's Trident]]
+- [[Aboleth Adjunct Yzz]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Amnesia Gallery]]
+- [[Anti-Priest Nullus]]
+- [[Azure Citadel]]
+- [[Blood Current Express]]
+- [[Captain Echo]]
+- [[Chef Gastropod]]
+- [[Concierge Phillip Gracewater]]
+- [[Crystallium]]
+- [[Doctor Coral Shapeshift]]
+- [[Forge of War]]
+- [[Harbor District]]
+- [[Luminous Hollow]]
+- [[Memory Thief]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Mourning Depths]]
+- [[Navigator Flux]]
+- [[Noble Quarter]]
+- [[Old Sally Seasprayer]]
+- [[Pressure Terminal]]
+- [[Pressure Tubes]]
+- [[Royal Palace]]
+- [[Sister Morwyn]]
+- [[Supplier Erikson Tidecaller]]
+- [[Surface Tensions]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Tethyan Hegemony]]
+- [[The Depth Market]]
+- [[The Eternal Senate]]
+- [[The First Failure]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Frozen Throne]]
+- [[The Lock]]
+- [[The Mourning Depths]]
+- [[The Neutral Current Tavern]]
+- [[The Neutral Ground]]
+- [[The Recursion Cult]]
+- [[The Shrinking Sanctuary]]
+- [[The Silent Watcher]]
+- [[The Sinking Atoll]]
+- [[Theological Warfare]]
+- [[Void Currents]]
+- [[Whisper-Touched William]]
+- [[Bandit Scouts]]
+- [[Crystalline Depths]]
+- [[Discover the Singers Beyond]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler]]
+- [[The Maw of Darkness]]
+- [[The Sunken Library of Thalassius]]
+- [[Traveling Merchant Finn]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

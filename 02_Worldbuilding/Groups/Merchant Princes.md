@@ -1,22 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.324682+00:00'
+created: '2025-08-11T13:08:51.324682+00:00'
+status: draft
 tags:
-  - faction
-  - merchant
-  - economic
-  - political
-type: Faction
-alignment: Lawful Neutral
-headquarters: "[[02_Worldbuilding/Places/Port Meridian]]"
-leader: Council of Five
-status: Active
-power_level: Economic Dominance
-created: 2024-12-20
-image: "04_Resources/Assets/Factions/merchant_princes.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Merchant Princes
 *Gold Flows Like Water, Power Follows the Current*
@@ -262,3 +256,15 @@ Merchant Prince headquarters in [[02_Worldbuilding/Places/Port Meridian]]:
 - Influence employment
 - Determine trade flows
 - Can cause recession or boom
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow Trade Network]]
+- [[Tenebrarum Ambassadors]]
+- [[Campaign_Relationship_Matrix]]

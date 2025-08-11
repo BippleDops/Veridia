@@ -1,17 +1,29 @@
 ---
-tags: [item, equipment-set, shadow-touched, cursed, corrupted-equipment, aquabyssos, deep-mother-connected]
-status: "complete"
-world: "Aquabyssos"
-type: "equipment_set"
-item_type: "Cursed Equipment Set"
-rarity: "Very Rare (Cursed)"
-requires_attunement: "Yes (by a creature that has been touched by shadow magic)"
-affiliation: "[[02_Worldbuilding/Lore/The Deep Mother]] (Corrupted by Shadow)"
-current_location: "Scattered Across Shadow-Touched Locations"
+tags:
+- aquabyssos
+- complete
+- corrupted-equipment
+- cursed
+- deep-mother-connected
+- equipment-set
+- equipment_set
+- item
+- shadow-touched
+status: complete
+world: Aquabyssos
+type: Item
+item_type: Cursed Equipment Set
+rarity: Very Rare (Cursed)
+requires_attunement: Yes (by a creature that has been touched by shadow magic)
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Corrupted by Shadow)'
+current_location: Scattered Across Shadow-Touched Locations
 danger_level: 4
-created_by: "Claude"
+created_by: Claude
 created: 2025-08-10
+updated: '2025-08-11T13:08:47.104127+00:00'
 ---
+
+
 
 # Shadow-touched Equipment Set
 *Where Light Dies and Darkness Takes Form*
@@ -37,13 +49,13 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 ## Complete Equipment Set
 ### Primary Pieces
 #### Shadow-touched Armor (Plate)
-- **AC**: 18 (20 with full set)
+- **AS**: 18 (20 with full set)
 - **Properties**: Resistance to necrotic damage, vulnerability to radiant damage
 - **Special**: Grants advantage on Stealth checks in dim light or darkness
 - **Curse**: Wearer takes 1 necrotic damage at dawn each day
 
 #### Shadow-touched Shield
-- **AC**: +2 (+3 with full set)
+- **AS**: +2 (+3 with full set)
 - **Properties**: Can cast *darkness* once per short rest
 - **Special**: Absorbs light-based attacks, storing energy for later use
 - **Curse**: Disadvantage on saving throws against fear effects

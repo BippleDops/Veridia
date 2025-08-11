@@ -1,15 +1,30 @@
 ---
-tags: [lore, marina, mystery, central-plot, aquabyssos, aethermoor, memory-magic]
-status: "complete"
-world: "Both"
-type: "lore"
-significance: "Campaign Central"
-revelation_level: "Progressive"
-connected_npcs: ["Marina Coralheart", "Marina Reborn", "Marina's Echo", "The Original Marina"]
-created_by: "system"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- central-plot
+- complete
+- lore
+- marina
+- memory-magic
+- mystery
+status: complete
+world: Both
+type: Lore
+significance: Campaign Central
+revelation_level: Progressive
+connected_npcs:
+- Marina Coralheart
+- Marina Reborn
+- Marina's Echo
+- The Original Marina
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.396880+00:00'
 ---
+
+
 
 # Discover Marina's Truth
 
@@ -337,3 +352,8 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 - Explains inconsistencies in [[Parliament of Echoes]] records
 - Reveals true purpose of [[Memory Merchant Zephyr Mindweaver]]
 - Connected to prophecies of [[The Deep Mother]]'s awakening
+
+## Connections
+
+- [[Sanity System]]
+- [[The Sunken Library of Thalassius]]

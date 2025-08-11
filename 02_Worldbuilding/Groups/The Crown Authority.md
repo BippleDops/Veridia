@@ -1,23 +1,31 @@
 ---
-tags: [faction, political, aethermoor, government, bureaucracy, major-faction]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Royal Administration"
-alignment: "Lawful Neutral"
-headquarters: "[[The Administrative Palace]]"
-leader: "[[High Administrator Cornelius Protocols]]"
-members: "~15,000 civil servants, clerks, and administrators"
-influence: "Kingdom-wide"
-wealth: "Substantial (royal treasury access)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- bureaucracy
+- complete
+- faction
+- government
+- major-faction
+- political
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Royal Administration
+alignment: Lawful Neutral
+headquarters: '[[The Administrative Palace]]'
+leader: '[[High Administrator Cornelius Protocols]]'
+members: ~15,000 civil servants, clerks, and administrators
+influence: Kingdom-wide
+wealth: Substantial (royal treasury access)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Group
+updated: '2025-08-11T13:08:51.433765+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Crown Authority
 *The Royal Administration, The Bureaucratic Crown, Servants of Order*
@@ -393,3 +401,14 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 ---
 
 *"We are the steady hand that guides the kingdom through storm and calm alike. While others make grand speeches and heroic gestures, we ensure the lights stay on, the roads remain clear, and the realm continues to function."*
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Discover Marina's Truth]]
+- [[Campaign_Relationship_Matrix]]

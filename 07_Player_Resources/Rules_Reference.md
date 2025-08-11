@@ -1,13 +1,20 @@
 ---
 title: Complete Rules Reference
-type: player_resource
+type: Lore
 status: complete
 tags:
-  - player-resource
-  - rules
-  - reference
+- both
+- complete
+- player-resource
+- player_resource
+- reference
+- rules
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.032953+00:00'
 ---
+
+
 
 # Complete Rules Reference
 *Every Rule You Need for Survival*

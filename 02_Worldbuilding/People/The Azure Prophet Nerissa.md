@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, azure-shard, prophet, sea-touched]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard Prophet"
-affiliation: "The Tide Speakers (Religious Sect)"
-age: "Unknown (appears 28)"
-race: "Sea Elf (Shard-touched)"
-location: "[[The Azure Coast]] - Wandering"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- azure-shard
+- complete
+- npc
+- person
+- prophet
+- sea-touched
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard Prophet
+affiliation: The Tide Speakers (Religious Sect)
+age: Unknown (appears 28)
+race: Sea Elf (Shard-touched)
+location: '[[The Azure Coast]] - Wandering'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.968408+00:00'
 ---
+
+
 
 # The Azure Prophet Nerissa
 *Speaker for the Sunken Shard, Voice of the Depths*
@@ -478,3 +489,13 @@ Nerissa faces an ultimate decision:
 - **Social Role**: Information broker, strategic advisor, emotional counselor
 - **Plot Function**: Primary source of foreshadowing and campaign direction guidance
 - **Power Balance**: Very powerful but limited by prophetic nature - sees what might happen but can't always prevent it
+
+## Connections
+
+- [[Brother Matthias the Amber Bearer]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[The Emerald Sage Willowbark]]
+- [[The Shadow Singer Naia]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]

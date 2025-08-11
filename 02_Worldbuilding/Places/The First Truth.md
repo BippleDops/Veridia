@@ -1,15 +1,24 @@
 ---
-tags: [lore, truth, philosophy, revelation, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- lore
+- philosophy
+- revelation
+- truth
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Philosophy
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.758450+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The First Truth
 
@@ -157,3 +166,8 @@ The First Truth serves as both a philosophical framework and a plot device. Use 
 - Generate conflicts between different worldviews
 - Offer potential explanations for mysterious phenomena in the campaign
 - Challenge players to think about fundamental questions of reality and truth
+
+
+## Connections
+
+- [[The Primordial Vaults]]

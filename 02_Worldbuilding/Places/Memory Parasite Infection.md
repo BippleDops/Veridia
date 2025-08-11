@@ -1,11 +1,21 @@
 ---
-tags: [event, medical-crisis, parasites, memory]
-status: "complete"
-world: "Aquabyssos"
-type: "event"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- event
+- medical-crisis
+- memory
+- parasites
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.260342+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Memory Parasite Infection
 
@@ -137,3 +147,8 @@ The parasites are not native to local waters, suggesting either artificial intro
 
 ## DM Notes
 This outbreak provides opportunities for medical mysteries, social drama, and moral dilemmas about identity and memory. Consider how the infection affects NPCs players know, and whether memory loss is always purely negative.
+
+
+## Connections
+
+- [[Screaming Gardens]]

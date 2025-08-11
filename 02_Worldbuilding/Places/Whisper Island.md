@@ -1,18 +1,34 @@
 ---
-tags: [location, island, mysterious, secrets, whispers, supernatural, isolated]
-status: "completed"
-world: "Both Aethermoor and Aquabyssos"
-type: "Mysterious Island"
+tags:
+- both-aethermoor-and-aquabyssos
+- completed
+- island
+- isolated
+- location
+- mysterious
+- mysterious-island
+- secrets
+- supernatural
+- whispers
+status: completed
+world: Both Aethermoor and Aquabyssos
+type: Location
 danger_level: 9
-location: "[[02_Worldbuilding/Places/The Azure Coast]] waters"
-population: "Unknown (Estimated 200-500)"
-government: "None (Anarchic)"
-climate: "Temperate, frequently shrouded in mist"
-size: "12 square miles"
+location: '[[02_Worldbuilding/Places/The Azure Coast]] waters'
+population: Unknown (Estimated 200-500)
+government: None (Anarchic)
+climate: Temperate, frequently shrouded in mist
+size: 12 square miles
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Groups/The Shadow Conspiracy]]", "[[02_Worldbuilding/Lore/Memory Alterations]]", "[[02_Worldbuilding/Places/Memory Meadows Black Market]]"]
+updated: '2025-08-11T13:08:50.246423+00:00'
+related_entities:
+- '[[02_Worldbuilding/Groups/The Shadow Conspiracy]]'
+- '[[02_Worldbuilding/Lore/Memory Alterations]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
 ---
+
+
+
 
 # Whisper Island
 *The Isle of Forgotten Secrets*
@@ -231,3 +247,8 @@ Whisper Island serves as:
 - Center of identity-based adventure themes
 - Link between memory-focused storylines across the campaign world
 EOF < /dev/null
+
+## Connections
+
+- [[Luminous Hollow]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]

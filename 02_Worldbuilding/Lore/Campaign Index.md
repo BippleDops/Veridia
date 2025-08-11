@@ -1,12 +1,19 @@
 ---
-tags: [index, campaign, complete]
-status: "complete"
-world: "Universal"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- campaign
+- complete
+- index
+- lore
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 completed: 2025-08-11
+updated: '2025-08-11T13:08:47.645005+00:00'
 ---
+
 
 # Campaign Index
 

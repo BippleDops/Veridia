@@ -1,18 +1,36 @@
 ---
-tags: [lore, culture, magic, shadow-magic, integration, post-catastrophe, magical-system, daily-life, adaptation, society, both-worlds, umbral-techniques, shadow-harmonization, cultural-adaptation]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Magical Integration System"
-significance: "Cultural Foundation"
-created_by: "cultural-expansion"
+tags:
+- adaptation
+- both
+- both-worlds
+- complete
+- cultural-adaptation
+- culture
+- daily-life
+- integration
+- lore
+- magic
+- magical-system
+- post-catastrophe
+- shadow-harmonization
+- shadow-magic
+- society
+- umbral-techniques
+status: complete
+world: Both
+type: Lore
+category: Magical Integration System
+significance: Cultural Foundation
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-magical_school: "Shadow/Umbral Magic"
-practitioner_level: "Community-wide Integration"
-safety_rating: "Regulated but Accessible"
-cultural_impact: "Fundamental"
+updated: '2025-08-11T13:08:47.812499+00:00'
+magical_school: Shadow/Umbral Magic
+practitioner_level: Community-wide Integration
+safety_rating: Regulated but Accessible
+cultural_impact: Fundamental
 ---
+
+
 
 # Shadow Magic Integration Practices
 *The Art of Living with Darkness Made Light*
@@ -623,3 +641,9 @@ Integration research creates opportunities for characters to participate in cutt
 - [[02_Worldbuilding/People/Master Shadow Harmonist Penumbra Duskweaver]] - Leading authority on integration practices
 - [[02_Worldbuilding/People/Integration Safety Coordinator Luna Balancekeeper]] - Specialist in integration safety protocols
 - [[02_Worldbuilding/People/Community Integration Leader Echo Bridgewright]] - Expert in community-level integration projects
+
+## Connections
+
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[Campaign_Relationship_Matrix]]

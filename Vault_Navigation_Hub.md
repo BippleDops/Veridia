@@ -1,11 +1,25 @@
 ---
-tags: [navigation, hub, campaign-tools, vault-home]
-aliases: [Navigation Hub, Vault Home, Campaign Central, Master Index]
+tags:
+- both
+- campaign-tools
+- complete
+- hub
+- navigation
+- vault-home
+aliases:
+- Navigation Hub
+- Vault Home
+- Campaign Central
+- Master Index
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:46.954328+00:00'
 status: complete
 campaign: Aquabyssos & Aethermoor
+world: Both
+type: Lore
 ---
+
+
 
 # 🧭 AQUABYSSOS & AETHERMOOR - Vault Navigation Hub
 

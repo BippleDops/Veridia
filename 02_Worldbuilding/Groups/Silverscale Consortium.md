@@ -1,23 +1,31 @@
 ---
-tags: [faction, economic, aethermoor, merchant, crystal-trade, major-faction]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Economic Power"
-alignment: "Lawful Neutral (leaning Evil)"
-headquarters: "[[The Silver Tower of Commerce]]"
-leader: "[[02_Worldbuilding/People/Zephyr Goldwhisper]]"
-members: "~50,000 employees, contractors, agents"
-influence: "Continental"
-wealth: "Controls 60% of crystal trade"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crystal-trade
+- economic
+- faction
+- major-faction
+- merchant
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Economic Power
+alignment: Lawful Neutral (leaning Evil)
+headquarters: '[[The Silver Tower of Commerce]]'
+leader: '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
+members: ~50,000 employees, contractors, agents
+influence: Continental
+wealth: Controls 60% of crystal trade
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Group
+updated: '2025-08-11T13:08:51.299780+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Silverscale Consortium
 *Masters of the Crystal Market, The Invisible Crown, Merchants of Tomorrow*
@@ -398,3 +406,16 @@ The Silverscale Consortium is the most powerful economic entity in [[02_Worldbui
 ---
 
 *"In the Silverscale Consortium, we don't believe in good or evil—only profit and loss. And we always, always profit."*
+
+
+## Connections
+
+- [[Lady Venetia Silkwind]]
+- [[Lord Vexton Shadowmere]]
+- [[The Forsaken Consortium Collective]]
+- [[Commander Thrace Ironwood]]
+- [[Lady Jade Clawgrip]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Campaign_Relationship_Matrix]]

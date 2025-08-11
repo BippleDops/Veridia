@@ -1,26 +1,57 @@
 ---
-tags: [Quest, Aquabyssos, Combat, Investigation, Social, Bandits, Trade Routes]
+tags:
+- aquabyssos
+- bandits
+- combat
+- complete
+- investigation
+- quest
+- social
+- trade-routes
 quest_status: Active
 quest_priority: High
-quest_type: "Main Quest"
-world: "Aquabyssos"
-region: "The Windlass Islands"
-level_range: "2-4"
-duration: "3-5 sessions"
-difficulty: "Medium"
-themes: ["justice", "redemption", "economic warfare", "social inequality", "moral ambiguity"]
-connected_factions: ["The Merchant's Consortium", "Windlass Brigands", "Local Fishermen", "Port Authority"]
-connected_locations: ["Smuggler's Cove", "The Windlass Trading Post", "Blackrock Hideout", "Merchant Quarter"]
-connected_npcs: ["Captain 'Redbeard' Torrino", "Merchant Lord Cassius Goldtide", "Fisherman's Daughter Mira"]
-rewards: ["Brigand's Map", "Merchant Favor", "Trading Post Shares", "Navigation Rights"]
-status: "complete"
+quest_type: Main Quest
+world: Aquabyssos
+region: The Windlass Islands
+level_range: 2-4
+duration: 3-5 sessions
+difficulty: Medium
+themes:
+- justice
+- redemption
+- economic warfare
+- social inequality
+- moral ambiguity
+connected_factions:
+- The Merchant's Consortium
+- Windlass Brigands
+- Local Fishermen
+- Port Authority
+connected_locations:
+- Smuggler's Cove
+- The Windlass Trading Post
+- Blackrock Hideout
+- Merchant Quarter
+connected_npcs:
+- Captain 'Redbeard' Torrino
+- Merchant Lord Cassius Goldtide
+- Fisherman's Daughter Mira
+rewards:
+- Brigand's Map
+- Merchant Favor
+- Trading Post Shares
+- Navigation Rights
+status: complete
 created: 2025-08-08
-last_modified: 2025-08-10
-  - Category/Quest
+last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.032515+00:00'
+type: Lore
 ---
+
+
 
 # Bandit Camp
 
@@ -284,3 +315,8 @@ If players focus on revealing corruption:
 - Reform movements gain legitimacy and support
 
 This quest serves as an excellent examination of social justice themes while providing opportunities for investigation, combat, and political maneuvering that can significantly impact the broader campaign world and character development.
+
+
+## Connections
+
+- [[Find_the_Missing_Caravan]]

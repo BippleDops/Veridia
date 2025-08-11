@@ -1,19 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.223562+00:00'
+created: '2025-08-11T13:08:50.223562+00:00'
+status: draft
 tags:
-  - location
-  - region
-  - forest
-  - nature
-type: Region
-danger_level: Low-Moderate
-population: 50,000 (scattered communities)
-created: 2024-12-20
-image: "04_Resources/Assets/Locations/verdant_reach.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Verdant Reach
 *The Last Green Heart of Aethermoor*
@@ -224,3 +222,10 @@ Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against cryst
 - Key to several major secrets
 - Party's actions determine forest's fate
 - Home to important hidden NPCs
+
+
+## Connections
+
+- [[The Seven Shards]]
+- [[Commander Thrace Ironwood]]
+- [[Quest - The Root Network]]

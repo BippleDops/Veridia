@@ -1,21 +1,15 @@
 ---
-tags: [npc, faction/parliament/reputation-positive-7, depth/moderate, transformation/stage-2/shadow-touched, shadow/influenced]
-npc_name: "Senator Glaucus"
-title: "Senior Senator of the Parliament of Echoes"
-race: "Human (Depth-adapted)"
-gender: "Male"
-age: 67
-faction: "Parliament of Echoes"
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-first_appearance: "Session 1"
-status: "alive"
-danger_level: 3
-importance: "major"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.645822+00:00'
+created: '2025-08-11T13:08:49.645822+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # 🧠 Senator Glaucus
 > *Senior Senator of the Parliament of Echoes*

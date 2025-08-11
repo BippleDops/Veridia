@@ -1,9 +1,20 @@
 ---
-tags: [mechanics, aquabyssos, survival, depth, adaptation]
-system: "D&D 5e"
+tags:
+- adaptation
+- aquabyssos
+- depth
+- draft
+- mechanics
+- survival
+system: D&D 5e
 created: 2025-08-07
-updated: 2025-08-07
+updated: '2025-08-11T13:08:47.069279+00:00'
+world: Aquabyssos
+status: draft
+type: Lore
 ---
+
+
 
 # Aquabyssos Survival & Adaptation Mechanics
 

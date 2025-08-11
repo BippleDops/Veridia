@@ -1,11 +1,21 @@
 ---
-tags: [organization, religious-order, fallen-nobility, redemption]
-status: "complete"
-world: "Aethermoor"
-type: "organization"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- fallen-nobility
+- organization
+- redemption
+- religious-order
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.209341+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Order of the Shattered Crown
 
@@ -152,3 +162,17 @@ Established 50 years ago following the War of Succession, when many noble houses
 
 ## DM Notes
 The Order provides opportunities for redemption-themed adventures, charitable missions, and exploration of themes around forgiveness and second chances. Their unique background as former nobility creates interesting political dynamics and character development opportunities.
+
+
+## Connections
+
+- [[Purist Coalition]]
+- [[The Crystal Throne]]
+- [[The Seven Shards]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Lord Aurelius Goldwave]]
+- [[The Azure Prophet Nerissa]]
+- [[Port Meridian]]
+- [[The Living Weapon]]
+- [[Quest - The Seventh Shard]]

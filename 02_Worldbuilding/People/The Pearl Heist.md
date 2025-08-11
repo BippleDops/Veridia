@@ -1,15 +1,24 @@
 ---
-tags: [lore, heist, pearl, crime, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- crime
+- heist
+- lore
+- pearl
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.979278+00:00'
 ---
+
+
+
 
 # The Pearl Heist
 
@@ -83,3 +92,38 @@ The Pearl Heist has become legendary, inspiring criminals while haunting law enf
 
 ## DM Notes
 The Pearl Heist provides excellent background for heist adventures, criminal investigations, or political intrigue. Use it as inspiration for similar crimes or as backstory revealing character connections to notorious criminals.
+
+
+## Connections
+
+- [[The_Crimson_Pearl]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.923590+00:00'
+created: '2025-08-11T13:08:50.923590+00:00'
+status: draft
 tags:
-  - location
-  - market
-  - economic
-  - aquatic
-  - floating
-type: Floating Market City
-region: "[[02_Worldbuilding/Places/The Azure Coast]]"
+- both
+- draft
+type: Location
 danger_level: Moderate
-controlled_by: "[[The Maritime Merchants Guild]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/floating_markets_nereidios.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # The Floating Markets of Nereidios
 *Where Ocean and Commerce Flow as One*
@@ -39,3 +35,32 @@ The floating city operates on tidal schedules, with different merchant districts
 - **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Major threat to shipping lanes
 - **[[02_Worldbuilding/People/Captain Scale-Walker]]** - Leads raids on valuable cargos
 - **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Primary distribution center
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

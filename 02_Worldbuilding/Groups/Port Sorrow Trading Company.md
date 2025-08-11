@@ -1,14 +1,23 @@
 ---
-type: faction
-tags: [faction, mercantile]
-aliases: [Port Sorrow Trading Company]
+type: Group
+tags:
+- both
+- draft
+- faction
+- mercantile
+aliases: []
 created: 2025-07-23 15:40
 modified: 2025-07-23 15:40
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.182661+00:00'
+status: draft
 ---
+
+
+
 # Port Sorrow Trading Company
 
 ## General Info

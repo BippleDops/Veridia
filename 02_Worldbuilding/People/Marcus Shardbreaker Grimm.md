@@ -1,23 +1,31 @@
 ---
 tags:
-  - npc
-  - mercenary
-  - crystal-infected
-  - anti-hero
-  - whisper-syndicate
+- active---category/people
+- anti-hero
+- both
+- crystal-infected
+- mercenary
+- npc
+- whisper-syndicate
 type: NPC
 location: Mobile (Currently [[02_Worldbuilding/Places/Port Meridian]])
-faction: "Independent (Former Crystal Wardens)"
+faction: Independent (Former Crystal Wardens)
 race: Human (Crystal-Touched)
 class: Fighter/Blood Hunter
 level: 8
 alignment: Chaotic Neutral
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.856718+00:00'
+created: '2025-08-11T13:08:49.856718+00:00'
 ---
+
+
+
+
 
 # Marcus "Shardbreaker" Grimm
 
@@ -102,3 +110,15 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 
 ## DM Notes
 Marcus represents the personal cost of the crystal corruption and serves as a morally grey ally. He's useful for introducing party members to the darker aspects of the crystal plague while providing a potential tragic figure who might need saving—or stopping—depending on how his corruption progresses. His connections span multiple factions, making him an excellent information broker and quest giver for mid-level threats.
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

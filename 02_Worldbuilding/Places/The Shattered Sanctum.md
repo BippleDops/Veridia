@@ -1,19 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.803671+00:00'
+created: '2025-08-11T13:08:50.803671+00:00'
+status: draft
 tags:
-  - location
-  - dungeon
-  - ancient
-  - dangerous
-type: Dungeon
-danger_level: High
-population: 0 (Guardians only)
-created: 2024-12-20
-image: "04_Resources/Assets/Locations/shattered_sanctum.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Shattered Sanctum
 *Where Gods Once Walked*

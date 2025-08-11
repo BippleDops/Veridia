@@ -1,24 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.873946+00:00'
+created: '2025-08-11T13:08:49.873946+00:00'
+status: draft
 tags:
-  - npc
-  - merchant
-  - artificer
-  - inventor
+- both
+- draft
 type: NPC
-race: Gnome
-class: Artificer
-level: 10
-alignment: Neutral Good
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "[[02_Worldbuilding/Groups/The Crystal Throne]]"
-status: Alive
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/korvin_gearwright.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Master Artificer Korvin Gearwright
 *The Crystal Innovator, Father of Modern Aethertech*
@@ -228,3 +220,11 @@ Not a fighter, but if cornered:
 - Shard detectors (if fixed)
 - Teleportation crystals
 - Experimental gadgets
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Professor Aldric Crystalweaver]]
+- [[The Current Merchants]]
+- [[Campaign_Relationship_Matrix]]

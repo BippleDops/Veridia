@@ -1,17 +1,32 @@
 ---
-tags: [organization, fleet, naval, eastern-kingdoms, military, maritime, external, foreign-power, alliance]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- alliance
+- both-worlds
+- complete
+- eastern-kingdoms
+- external
+- fleet
+- foreign-power
+- lore
+- maritime
+- military
+- naval
+- organization
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-organization_type: "Naval Fleet"
-scope: "International"
-allegiance: "Eastern Kingdoms"
-current_status: "Allied Force"
-primary_role: "Naval Support"
+updated: '2025-08-11T13:08:49.269387+00:00'
+organization_type: Naval Fleet
+scope: International
+allegiance: Eastern Kingdoms
+current_status: Allied Force
+primary_role: Naval Support
 ---
+
+
+
 
 # Eastern Kingdom Fleet
 *The Allied Naval Force from Beyond the Horizon*
@@ -263,3 +278,10 @@ Crisis response coordination involves characters in emergency operations that de
 - [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface ally requiring fleet support
 - [[02_Worldbuilding/Lore/Admiral Storm Tidecaller]] - Aquabyssos naval commander coordinating with fleet
 - [[02_Worldbuilding/Lore/Commander Eastwind Stormbreak]] - Eastern Kingdom Fleet commanding admiral
+
+
+## Connections
+
+- [[Campaign Epilogues]]
+- [[Shattered Isles]]
+- [[Envoy Blackwater Jr.]]

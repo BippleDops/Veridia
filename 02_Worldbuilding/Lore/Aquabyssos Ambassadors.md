@@ -1,18 +1,37 @@
 ---
-tags: [diplomacy, aquabyssos, ambassadors, politics, underwater, surface-relations, faction]
-status: "completed"
-world: "Both Aethermoor and Aquabyssos"
-type: "Diplomatic Corps"
+tags:
+- ambassadors
+- aquabyssos
+- both-aethermoor-and-aquabyssos
+- completed
+- diplomacy
+- diplomatic-corps
+- faction
+- politics
+- surface-relations
+- underwater
+status: completed
+world: Both Aethermoor and Aquabyssos
+type: Lore
 danger_level: 4
-headquarters: "[[02_Worldbuilding/Places/The Embassy Quarter]]"
-parent_organization: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-leader: "[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]"
-specialties: ["Inter-realm Diplomacy", "Cultural Translation", "Trade Negotiation", "Crisis Management"]
-founded: "After the Great Drowning"
+headquarters: '[[02_Worldbuilding/Places/The Embassy Quarter]]'
+parent_organization: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+leader: '[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]'
+specialties:
+- Inter-realm Diplomacy
+- Cultural Translation
+- Trade Negotiation
+- Crisis Management
+founded: After the Great Drowning
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Places/Port Meridian]]", "[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]", "[[02_Worldbuilding/Groups/Surface Syndicate]]"]
+updated: '2025-08-11T13:08:49.371115+00:00'
+related_entities:
+- '[[02_Worldbuilding/Places/Port Meridian]]'
+- '[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]'
+- '[[02_Worldbuilding/Groups/Surface Syndicate]]'
 ---
+
+
 
 # Aquabyssos Ambassadors
 *Bridges Between Two Worlds*

@@ -1,11 +1,16 @@
 ---
-tags: [stub]
-status: "stub"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- lore
+- stub
+status: stub
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:47.363736+00:00'
 ---
+
 
 # Save Queen Seraphina
 

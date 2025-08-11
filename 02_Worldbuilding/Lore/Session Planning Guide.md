@@ -1,12 +1,20 @@
 ---
-tags: [lore, session-planning, dm-tools, campaign-management]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-management
+- complete
+- dm-tools
+- lore
+- session-planning
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.858616+00:00'
 ---
+
+
 
 # Session Planning Guide
 
@@ -38,3 +46,13 @@ Ongoing campaign management tool requiring regular updates.
 
 ## Campaign Use
 Essential reference for dungeon masters running dual-realm campaigns.
+
+
+## Connections
+
+- [[Campaign World]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Current PC Lead]]
+- [[Party Information]]
+- [[Random Encounter Tables]]
+- [[Templater Advanced]]

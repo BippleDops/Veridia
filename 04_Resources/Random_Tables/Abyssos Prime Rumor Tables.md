@@ -1,10 +1,22 @@
 ---
-tags: [rumors, investigation, random-tables, player-resource]
-type: "rumor-table"
-location: "Abyssos Prime"
-spoiler_level: "Mixed truth and lies"
+tags:
+- both
+- draft
+- investigation
+- player-resource
+- random-tables
+- rumor-table
+- rumors
+type: Lore
+location: Abyssos Prime
+spoiler_level: Mixed truth and lies
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.043790+00:00'
+status: draft
 ---
+
+
 
 # Abyssos Prime Rumor Tables
 ## What's Whispered in the Depths

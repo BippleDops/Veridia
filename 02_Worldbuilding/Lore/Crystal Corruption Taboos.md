@@ -1,18 +1,38 @@
 ---
-tags: [cultural-taboos, crystal-corruption, social-stigma, historical-development, both-worlds, cultural-restrictions, social-control, collective-fear, moral-boundaries, cultural-evolution, traditional-beliefs, social-ostracism, corruption-prevention, cultural-identity, historical-trauma]
-status: "complete"
-world: "Both"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- both
+- both-worlds
+- collective-fear
+- complete
+- corruption-prevention
+- crystal-corruption
+- cultural-evolution
+- cultural-identity
+- cultural-restrictions
+- cultural-taboos
+- historical-development
+- historical-trauma
+- lore
+- moral-boundaries
+- social-control
+- social-ostracism
+- social-stigma
+- traditional-beliefs
+status: complete
+world: Both
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-historical_period: "Post-Great Crystallization to Present (500+ Years)"
-significance: "Fundamental Cultural Framework"
-taboo_category: "Existential Threat Response"
-current_status: "Actively Enforced"
-cultural_scope: "Universal Across Both Worlds"
-enforcement_level: "Community-Based Social Control"
+updated: '2025-08-11T13:08:49.232380+00:00'
+historical_period: Post-Great Crystallization to Present (500+ Years)
+significance: Fundamental Cultural Framework
+taboo_category: Existential Threat Response
+current_status: Actively Enforced
+cultural_scope: Universal Across Both Worlds
+enforcement_level: Community-Based Social Control
 ---
+
+
 
 # Crystal Corruption Taboos
 *The Unspoken Rules That Keep Worlds Safe from Their Greatest Fear*
@@ -993,3 +1013,8 @@ Taboo variation between communities and worlds creates adventures focused on cul
 
 *"The taboos we create to protect ourselves can become the chains that bind us. The wisdom lies not in abandoning all boundaries, but in ensuring that our protective measures serve justice as well as safety, compassion as well as survival."*
 *— [[Philosopher-Reformer Unity Bridgewright]], "The Ethics of Necessary Boundaries"*
+
+## Connections
+
+- [[The Deep Mother]]
+- [[Campaign_Relationship_Matrix]]

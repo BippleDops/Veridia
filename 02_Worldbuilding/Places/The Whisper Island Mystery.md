@@ -1,11 +1,22 @@
 ---
-tags: [quest, mystery, investigation, supernatural]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- investigation
+- mystery
+- quest
+- supernatural
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.231190+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Whisper Island Mystery
 
@@ -104,3 +115,38 @@ The quest explores themes of historical injustice, the responsibility of the liv
 
 ## DM Notes
 This mystery emphasizes investigation and roleplay over combat. The supernatural elements should feel tragic rather than simply threatening. Player choices about how to handle the historical injustice can drive character development and campaign themes.
+
+
+## Connections
+
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,23 +1,32 @@
 ---
-tags: [faction, group, political-movement, crystal-governance, institutional-reform, aethermoor, moderates]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Political Reform Movement"
-alignment: "Lawful Neutral (Systematic Reformers)"
-headquarters: "[[The Crystal Governance Institute]]"
-leader: "[[Director Prism Reformheart]]"
-members: "~500 active members, ~2000 supporters"
-influence: "Political Institutions, Policy Development"
-purpose: "Systematic governmental reform through crystal-enhanced governance"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crystal-governance
+- faction
+- group
+- institutional-reform
+- moderates
+- political-movement
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Political Reform Movement
+alignment: Lawful Neutral (Systematic Reformers)
+headquarters: '[[The Crystal Governance Institute]]'
+leader: '[[Director Prism Reformheart]]'
+members: ~500 active members, ~2000 supporters
+influence: Political Institutions, Policy Development
+purpose: Systematic governmental reform through crystal-enhanced governance
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Political Reform
 MyCategory: Governance Movement
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.372235+00:00'
 ---
+
 
 # Establish New World Order
 *Architects of Crystal Democracy, Masters of Systematic Reform, The Reasonable Revolution*

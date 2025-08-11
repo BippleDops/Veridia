@@ -1,12 +1,22 @@
 ---
-tags: [lore, deity, eldritch, ocean-depths, primordial, horror]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- deity
+- eldritch
+- horror
+- lore
+- ocean-depths
+- primordial
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.539943+00:00'
 ---
+
+
 
 # The Deep Mother
 
@@ -156,3 +166,59 @@ The Deep Mother is not malevolent - she represents the ocean's natural cycle of 
 ## Campaign Use
 
 Use the Deep Mother as a source of both cosmic horror and unexpected aid. Her influence can provide plot hooks, character development opportunities, and moral complexity. Players should never be certain whether her attention is a blessing or a curse, keeping them engaged with the mysteries of the deep ocean.
+
+
+## Connections
+
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Deep Mother Influence]]
+- [[Depth Adaptation Points]]
+- [[Desperate Plague Victim]]
+- [[Discover Marina's Truth]]
+- [[Echo of the Mother]]
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Healing Two Worlds]]
+- [[Kraken Territories]]
+- [[Leviathan Graveyard]]
+- [[Madness Effects]]
+- [[Memory Alteration Consequences]]
+- [[Merged Reality Zones]]
+- [[Multi-Phase Boss Fights]]
+- [[Sorrow Pearls]]
+- [[Temple of the First Tide]]
+- [[Thalassius the Wise]]
+- [[The Bathyal Succession]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Drowning Welcome]]
+- [[The Final Choice]]
+- [[The Forgetting Bomb]]
+- [[The Great Convergence Prophecies]]
+- [[The Memory Weapon Arms Race]]
+- [[The Queen]]
+- [[The Real Marina]]
+- [[The Recursion Oracle]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[The Transformed Citizens]]
+- [[Timeline of the Drowning]]
+- [[Abyssal Cathedral]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Pressure Angel Benthia]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Battle Priest Cassius Depthshield]]
+- [[Mad Oracle Thessaly]]
+- [[Aquabyssos]]
+- [[Caravan Master Dolrim]]
+- [[Crystalline Depths]]
+- [[Elena Starweaver]]
+- [[Find the Grief Bomb]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Tradeway Road]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]

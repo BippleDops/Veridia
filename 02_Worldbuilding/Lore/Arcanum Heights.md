@@ -1,19 +1,39 @@
 ---
-tags: [location, magical, heights, aethermoor, crystalhaven, academia, tower-district, enchantment]
-status: "completed"
-world: "Aethermoor"
-type: "Magical District"
+tags:
+- academia
+- aethermoor
+- completed
+- crystalhaven
+- enchantment
+- heights
+- location
+- magical
+- magical-district
+- tower-district
+status: completed
+world: Aethermoor
+type: Lore
 danger_level: 5
-parent_location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-elevation: "Upper Crystal Spires"
-government: "[[02_Worldbuilding/Places/Crystalhaven]] Council of Mages"
+parent_location: '[[02_Worldbuilding/Places/Crystalhaven]]'
+elevation: Upper Crystal Spires
+government: '[[02_Worldbuilding/Places/Crystalhaven]] Council of Mages'
 population: 12000
-specialties: ["Advanced Magic Research", "Artifact Creation", "Planar Studies", "Elemental Manipulation"]
-founded: "Early Crystal Age"
+specialties:
+- Advanced Magic Research
+- Artifact Creation
+- Planar Studies
+- Elemental Manipulation
+founded: Early Crystal Age
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]", "[[02_Worldbuilding/Places/Crystal Gardens]]", "[[02_Worldbuilding/Lore/Abyssal Academy]]"]
+updated: '2025-08-11T13:08:48.273582+00:00'
+related_entities:
+- '[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]'
+- '[[02_Worldbuilding/Places/Crystal Gardens]]'
+- '[[02_Worldbuilding/Lore/Abyssal Academy]]'
 ---
+
+
+
 
 # Arcanum Heights
 *The Floating Towers of Magical Learning*
@@ -234,3 +254,7 @@ Arcanum Heights serves as:
 - Bridge between surface and underwater magical communities
 - Repository of pre-Drowning knowledge relevant to larger mysteries
 EOF < /dev/null
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]

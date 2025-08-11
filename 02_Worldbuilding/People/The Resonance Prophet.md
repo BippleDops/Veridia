@@ -1,16 +1,30 @@
 ---
-tags: [npc, aquabyssos, crystallium, prophet, major]
-npc_type: "Continental Leader"
-location: [[Crystallium]]
-faction: [[The Harmony Collective]]
+tags:
+- active
+- aquabyssos
+- both
+- crystallium
+- major
+- npc
+- prophet
+npc_type: Continental Leader
+location:
+- - Crystallium
+faction:
+- - The Harmony Collective
 disposition: -2
-status: "Active"
-created: 2025-08-07
-  - Category/People
+status: Active
+created: 2025-08-07 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.748030+00:00'
+type: NPC
 ---
+
+
+
 
 # The Resonance Prophet
 ## Voice of the Singers Beyond
@@ -201,3 +215,39 @@ Creatures that spend 1 hour within 100 ft must make DC 16 WIS save or begin harm
 ---
 
 *"Listen... Can you hear it? The Singers are teaching us a new song. When you learn the words, you'll never want to speak again."*
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

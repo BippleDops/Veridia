@@ -1,8 +1,21 @@
 ---
-tags: [world, aquabyssos, underwater, high-magic, dark-mystery]
-type: World Overview
+tags:
+- active
+- aquabyssos
+- dark-mystery
+- high-magic
+- underwater
+- world
+- world-overview
+type: Lore
 status: Active
+world: Aquabyssos
+updated: '2025-08-11T13:08:47.632669+00:00'
+created: '2025-08-11T13:08:47.632669+00:00'
 ---
+
+
+
 
 # Aquabyssos - The Drowned World
 

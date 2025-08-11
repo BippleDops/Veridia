@@ -1,11 +1,22 @@
 ---
-tags: [quest, investigation, black-market, stealth]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- black-market
+- complete
+- investigation
+- quest
+- stealth
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.699305+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Discover Shadow Market Location
 
@@ -59,3 +70,38 @@ Success requires careful information gathering, building trust with criminal con
 
 ## DM Notes
 Emphasize the cat-and-mouse nature of the investigation. The market should feel dangerous and exclusive. Players should earn access through roleplay rather than combat.
+
+
+## Connections
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

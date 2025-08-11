@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.144548+00:00'
+created: '2025-08-11T13:08:50.144548+00:00'
+status: draft
 tags:
-  - location
-  - trade route
-  - maritime
-  - aquatic
-  - commercial
-type: Maritime Trade Route
-region: "[[02_Worldbuilding/Places/The Azure Coast]]"
-danger_level: High
-controlled_by: "[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/deepwater_current.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Deepwater Current
 *Where Ocean Commerce Flows Beneath the Waves*
@@ -36,3 +32,32 @@ The Deepwater Current represents the primary underwater trade route connecting s
 - **[[02_Worldbuilding/People/The Tidecaller]]** - Controls access to certain current segments
 - **[[02_Worldbuilding/Places/The Temple of Eternal Tides]]** - Blesses voyages and provides diplomatic support
 - **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Piracy threat and protection racket operations
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

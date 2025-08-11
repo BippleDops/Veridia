@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.455855+00:00'
+created: '2025-08-11T13:08:50.455855+00:00'
+status: draft
 tags:
-  - location
-  - trade route
-  - economic
-  - overland
-  - commercial
-type: Major Trade Route
-region: "Continental Network"
+- both
+- draft
+type: Location
 danger_level: Moderate
-controlled_by: "[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/golden_trade_route.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # The Golden Trade Route
 *The Lifeblood of Continental Commerce*
@@ -36,3 +32,32 @@ The Golden Trade Route is the primary overland commercial highway connecting [[0
 - **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military protection provider
 - **[[02_Worldbuilding/Groups/The Seekers' Guild]]** - Equipment and expedition supply chain
 - **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Financial backbone enabling trade credit
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

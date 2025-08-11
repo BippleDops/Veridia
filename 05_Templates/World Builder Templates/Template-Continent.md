@@ -1,9 +1,18 @@
 ---
 tags:
-  - Category/Continent
+- both
+- category/continent
+- draft
 obsidianUIMode: preview
-MyContainer:
+MyContainer: null
+world: Both
+updated: '2025-08-11T13:08:47.024853+00:00'
+created: '2025-08-11T13:08:47.024853+00:00'
+status: draft
+type: Lore
 ---
+
+
 <%*
 
 // 1) Rename if the file starts with "NewContinent"
@@ -117,7 +126,7 @@ Make notes of what you need to track in the region here.
 `BUTTON[button_region]` **continent** Places where people live - Cities, Towns, Villages, Hamlets, Encampment, Keeps, Fortresses, Strongholds.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Region(s)", MyCategory as "Type"
+TABLE WITHOUT ID link(file.name) AC "Region(s)", MyCategory as "Type"
 FROM "02_Worldbuilding/Regions"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

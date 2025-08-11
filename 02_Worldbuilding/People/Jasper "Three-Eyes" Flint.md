@@ -1,26 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.604855+00:00'
+created: '2025-08-11T13:08:49.604855+00:00'
+status: draft
 tags:
-  - npc
-  - criminal
-  - information_broker
-  - mutant
-  - aquabyssos
-  - underworld
+- both
+- draft
 type: NPC
-race: Human (Depth-Changed)
-class: Rogue/Warlock
-level: 12
-alignment: Chaotic Neutral
-location: "[[02_Worldbuilding/Places/The Shadow Markets]]"
-faction: "[[02_Worldbuilding/Groups/Independent Smugglers]]"
-status: Alive (Depth-touched)
-created: 2025-08-08
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Jasper "Three-Eyes" Flint
 *The Broker of Whispers, He Who Sees All Angles, King of the Pressure Rats*
@@ -171,3 +161,12 @@ Jasper "Three-Eyes" Flint is the most notorious information broker in [[02_World
 - [[02_Worldbuilding/Quests/Smuggler's Gambit]] - His operation under threat
 - [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Has crucial information
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - Potential contractor or target
+
+
+## Connections
+
+- [[The Whisper Syndicate]]
+- [[Captain Lyanna Brightshield]]
+- [[Crystalhaven]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Campaign_Relationship_Matrix]]

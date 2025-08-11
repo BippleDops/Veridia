@@ -1,20 +1,31 @@
 ---
-tags: [quest, medical, science, pressure-adaptation, disease, investigation, corruption, underwater-medicine]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
+tags:
+- aquabyssos
+- complete
+- corruption
+- disease
+- investigation
+- medical
+- pressure-adaptation
+- quest
+- science
+- underwater-medicine
+status: complete
+world: Aquabyssos
+type: Lore
 level: 4-8
 duration: 3-5 sessions
 threat_level: medium
-quest_giver: "Harbor Master Luna Freedrift"
-created_by: "auto-stub"
+quest_giver: Harbor Master Luna Freedrift
+created_by: auto-stub
 created: 2025-08-08
-last_modified: 2025-08-10
-  - Category/Quest
+last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.062676+00:00'
 ---
+
 
 # Dr. Siphon Gillwater
 

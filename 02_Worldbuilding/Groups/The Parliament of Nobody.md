@@ -1,23 +1,30 @@
 ---
-tags: [faction, political, aquabyssos, shadow-government, major-faction]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Shadow Government"
-alignment: "Chaotic Neutral"
-headquarters: "[[The Null Chamber]]"
-leader: "[[The Speaker of Silence]]"
-members: "Unknown - estimated 200+ active representatives"
-influence: "City-wide (Aquabyssos)"
-wealth: "Moderate (funded through information trading)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- faction
+- major-faction
+- political
+- shadow-government
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Shadow Government
+alignment: Chaotic Neutral
+headquarters: '[[The Null Chamber]]'
+leader: '[[The Speaker of Silence]]'
+members: Unknown - estimated 200+ active representatives
+influence: City-wide (Aquabyssos)
+wealth: Moderate (funded through information trading)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Group
+updated: '2025-08-11T13:08:51.236760+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Parliament of Nobody
 *The Silent Democracy, The Forgotten Assembly, Voices of the Unheard*
@@ -366,3 +373,11 @@ The Parliament of Nobody represents the ultimate expression of [[02_Worldbuildin
 ---
 
 *"We are the parliament of those who have no voice because they have no existence, no memory, no recognition. Yet we persist, we vote, and we govern - for democracy itself transcends the mere accident of being."*
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Emperor Thalassius the Wise]]

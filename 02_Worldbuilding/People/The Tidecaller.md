@@ -1,21 +1,15 @@
 ---
-tags: [npc, tidecaller, ocean-shaman, aquabyssos, elemental, current-master]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Sea Elf"
-class: "Druid (Circle of Tides)/Tempest Cleric"
-level: 12
-faction: "The Tidal Council"
-location: "Current Confluence"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.736717+00:00'
+created: '2025-08-11T13:08:49.736717+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # Marina Currentborn, the Tidecaller
 

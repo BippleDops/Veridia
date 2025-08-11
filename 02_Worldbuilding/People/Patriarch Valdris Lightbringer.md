@@ -1,25 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.769835+00:00'
+created: '2025-08-11T13:08:49.769835+00:00'
+status: draft
 tags:
-  - npc
-  - religious
-  - patriarch
-  - leader
-  - divine
+- both
+- draft
 type: NPC
-race: Human
-class: Cleric
-level: 14
-alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/The Temple of Eternal Tides]]"
-faction: "[[The Order of the Flowing Current]]"
-status: Alive
-created: 2025-08-09
-image: "04_Resources/Assets/NPCs/patriarch_valdris_lightbringer.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Patriarch Valdris Lightbringer
 *Guardian of Sacred Waters*
@@ -40,3 +31,32 @@ Patriarch Valdris Lightbringer serves as the senior religious authority for ocea
 - **[[Crystal Wardens]]** - Mutual cooperation against corruption
 - **[[02_Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Blesses commercial voyages
 - **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Spiritual counselor for ocean affinity
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

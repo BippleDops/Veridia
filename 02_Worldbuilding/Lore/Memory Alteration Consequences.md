@@ -1,14 +1,29 @@
 ---
-tags: [lore, memory-alteration, consequences, psychology, society, aquabyssos, side-effects, trauma, identity, reality-distortion, medical, ethics]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Medical/Psychological"
-significance: "Social Foundation"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- consequences
+- ethics
+- identity
+- lore
+- medical
+- memory-alteration
+- psychology
+- reality-distortion
+- side-effects
+- society
+- trauma
+status: complete
+world: Aquabyssos
+type: Lore
+category: Medical/Psychological
+significance: Social Foundation
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.311283+00:00'
 ---
+
+
 
 # Memory Alteration Consequences
 *The Hidden Price of Changing the Mind*
@@ -694,3 +709,18 @@ Memory alteration in [[02_Worldbuilding/Places/Aquabyssos]] has grown from thera
 
 *"We thought we were healing trauma, but we were wounding reality itself."*
 *- Dr. Nereus Thoughtweaver, Pioneer of Memory Therapy*
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Crimson Hand]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Forgetting Bomb]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

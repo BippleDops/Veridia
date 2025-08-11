@@ -1,23 +1,33 @@
 ---
-tags: [npc, aquabyssos, emperor, fragmented, ancient, consciousness, mysterious, godlike]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Fragmented Divine Consciousness"
-class: "Emperor/Deity/Collective"
+tags:
+- ancient
+- aquabyssos
+- complete
+- consciousness
+- emperor
+- fragmented
+- godlike
+- mysterious
+- npc
+status: complete
+world: Aquabyssos
+type: NPC
+race: Fragmented Divine Consciousness
+class: Emperor/Deity/Collective
 level: 20+ (Beyond normal metrics)
-alignment: "True Neutral (Collective Will)"
-location: "Everywhere and Nowhere (Fragmented across Empire)"
-faction: "The Imperial Fragments"
-status_condition: "Fragmented, Seeking Reunification"
-created_by: "auto-stub"
+alignment: True Neutral (Collective Will)
+location: Everywhere and Nowhere (Fragmented across Empire)
+faction: The Imperial Fragments
+status_condition: Fragmented, Seeking Reunification
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.691845+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Emperor
 *The Scattered Sovereign, The Divided Divine, The Consciousness Eternal*
@@ -379,7 +389,7 @@ Will Unity bring peace, or endless night?"*
 
 ### Fragment Combat Stats (Variable)
 **Major Fragment Example**
-- **AC**: 18-22 (Divine protection + equipment)
+- **AS**: 18-22 (Divine protection + equipment)
 - **HP**: 200-400 (Divine vitality)  
 - **Speed**: 30 ft., fly 60 ft. (at will), teleport
 - **Saves**: All saves +8 to +15

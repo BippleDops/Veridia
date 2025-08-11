@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, scholar, lore-keeper, neutral]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard Historian"
-affiliation: "[[The Archive of Forgotten Things]]"
-age: "62"
-race: "Half-Elf"
-location: "[[02_Worldbuilding/Places/Crystalhaven]] - The Grand Library"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- lore-keeper
+- neutral
+- npc
+- person
+- scholar
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard Historian
+affiliation: '[[The Archive of Forgotten Things]]'
+age: '62'
+race: Half-Elf
+location: '[[02_Worldbuilding/Places/Crystalhaven]] - The Grand Library'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.604076+00:00'
 ---
+
+
 
 # Scholar Vivienne the Chronicler
 *Keeper of Shard Lore, Master of Ancient Texts*
@@ -267,3 +278,16 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 - **Social Encounters**: Speaks with academic authority, challenges assumptions through facts
 - **Character Development**: Her relationship with dangerous knowledge creates ongoing tension
 - **Campaign Integration**: Central to lore-heavy storylines and historical mysteries
+
+## Connections
+
+- [[Stop the Shadow Harvest]]
+- [[Sanity System]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Amnesia Gallery]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]
+- [[The Sunken Library of Thalassius]]
+- [[Campaign_Relationship_Matrix]]

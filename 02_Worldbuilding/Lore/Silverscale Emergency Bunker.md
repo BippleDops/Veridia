@@ -1,12 +1,22 @@
 ---
-tags: [lore, location, bunker, emergency, silverscale, safety]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- bunker
+- complete
+- emergency
+- location
+- lore
+- safety
+- silverscale
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.505143+00:00'
 ---
+
+
 
 # Silverscale Emergency Bunker
 
@@ -44,3 +54,12 @@ Designed for sustained operation up to one year without external support.
 
 ## Campaign Use
 Provides secure meeting location, refuge during disasters, or target for infiltration missions.
+
+
+## Connections
+
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

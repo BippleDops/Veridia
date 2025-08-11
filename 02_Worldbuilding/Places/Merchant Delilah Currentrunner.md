@@ -1,15 +1,27 @@
 ---
-tags: [npc, merchant, delilah, currentrunner, trade, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- currentrunner
+- delilah
+- merchant
+- npc
+- trade
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.372722+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Merchant Delilah Currentrunner
 
@@ -37,7 +49,7 @@ She dresses in practical but high-quality clothing designed for both underwater 
 
 ## Statistics
 **Medium humanoid (triton), neutral**
-- **AC** 15 (Studded Leather + Dex)
+- **AS** 15 (Studded Leather + Dex)
 - **HP** 78 (12d8 + 24)
 - **Speed** 30 ft, swim 40 ft
 - **STR** 14 (+2) **DEX** 17 (+3) **CON** 15 (+2) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 18 (+4)
@@ -104,3 +116,41 @@ She's also investigating reports of interference with shipping lanes and suspici
 
 ## DM Notes
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
+
+
+## Connections
+
+- [[Captain Garrett Stormcutter]]
+- [[Lumengarde]]
+- [[New Tethys]]
+- [[The Phosphor Markets]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

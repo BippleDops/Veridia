@@ -1,14 +1,24 @@
 ---
-tags: [lore, mechanics, horror, mental-health, optional-rules, both-realms]
-status: "complete"
-world: "Both"
-type: "lore"
-system_type: "Game Mechanic"
-complexity: "Optional/Advanced"
-created_by: "system"
+tags:
+- both
+- both-realms
+- complete
+- horror
+- lore
+- mechanics
+- mental-health
+- optional-rules
+status: complete
+world: Both
+type: Lore
+system_type: Game Mechanic
+complexity: Optional/Advanced
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.537283+00:00'
 ---
+
+
 
 # Sanity System
 
@@ -319,3 +329,11 @@ Characters are more resilient:
 - [[Sister Thalassa the Depth-Touched]] - Example of functional madness
 - [[The Nameless Auditor]] - Maintains sanity through order
 - [[Scholar Vivienne the Chronicler]] - Studies madness patterns
+
+## Connections
+
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
+- [[Multi-Phase Boss Fights]]
+- [[Random Encounters]]
+- [[Reputation System]]

@@ -1,25 +1,40 @@
 ---
 session_number: 10
-title: "The Deep Mother Rises"
-date_played: 
-location: "[[The Abyss Beneath Aquabyssos]]"
-npcs_featured: 
-  - "[[The Deep Mother]]"
-  - "[[United Councils of Both Worlds]]"
-  - "[[02_Worldbuilding/People/The Crimson Sage]] (Echo)"
-  - "[[Eastern Kingdom Fleet]]"
+title: The Deep Mother Rises
+date_played: null
+location: '[[The Abyss Beneath Aquabyssos]]'
+npcs_featured:
+- '[[The Deep Mother]]'
+- '[[United Councils of Both Worlds]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]] (Echo)'
+- '[[Eastern Kingdom Fleet]]'
 quests_advanced:
-  - "[[Face the Ancient Threat]]"
-  - "[[Unite the Two Worlds]]"
-  - "[[Establish New World Order]]"
+- '[[Face the Ancient Threat]]'
+- '[[Unite the Two Worlds]]'
+- '[[Establish New World Order]]'
 level: 6
-estimated_time: "4-5 hours"
-tags: [session, aethermoor, aquabyssos, finale, deep-mother, primordial]
-type: Session Journal
+estimated_time: 4-5 hours
+tags:
+- aethermoor
+- aquabyssos
+- deep-mother
+- draft
+- finale
+- primordial
+- session
+- session-journal
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.973431+00:00'
+created: '2025-08-11T13:08:46.973431+00:00'
+status: draft
 ---
+
+
+
 
 # Session 10: The Deep Mother Rises
 

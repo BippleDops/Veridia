@@ -1,16 +1,28 @@
 ---
-tags: [location, courts, justice, law, coral-architecture, aquabyssos, government, tribunal]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-district: "Government Quarter"
-significance: "Major"
-security_level: "High"
-architecture: "Living Coral"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- coral-architecture
+- courts
+- government
+- justice
+- law
+- location
+- tribunal
+status: complete
+world: Aquabyssos
+type: Location
+district: Government Quarter
+significance: Major
+security_level: High
+architecture: Living Coral
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:50.253777+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Coral Courts
 *The Living Halls of Justice*
@@ -315,3 +327,18 @@ Courtroom proceedings offer chances for characters to develop public speaking, p
 - **[[02_Worldbuilding/Places/Throne Room - Heart of Palace]]**: Constitutional court appeals venue
 
 The Coral Courts represent the living embodiment of justice in Aquabyssos, serving not just as functional legal facilities but as monuments to the realm's commitment to fairness, wisdom, and the organic evolution of legal understanding. Their unique combination of natural growth, magical enhancement, and deep cultural integration makes them one of the most distinctive and important institutions in the underwater realm.
+
+
+## Connections
+
+- [[Duke Cyrus Reefheart]]
+- [[Angels and Depths]]
+- [[Chef Gastropod]]
+- [[Lumengarde]]
+- [[New Tethys]]
+- [[Port Meridian Harbor]]
+- [[Tethyan Hegemony]]
+- [[The Bathyal Palace]]
+- [[The Mothercoral Crisis]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]

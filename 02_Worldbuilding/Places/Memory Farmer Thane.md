@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, memory-farm, memory-farmers, thane, harvest, memories, kelp-fields]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Memory Harvesting Farm"
-parent_location: "The Memory Fields District"
-depth: "4,000 feet"
-danger_level: 6
-population: "45 (memory farmers, workers, and captives)"
-government: "Independent Harvesting Collective"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.662245+00:00'
+created: '2025-08-11T13:08:50.662245+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Memory Farm
 *Where Experiences Become Harvest*
@@ -455,3 +450,10 @@ The Memory Farm represents the most sophisticated and controversial operation in
 **Relationships**: Building relationships with victims, investigators, and community members
 
 The Memory Farm represents one of [[Aquabyssos]]'s most morally complex enterprises, where [[Memory Farmer Thane]]'s innovative cultivation techniques have created extraordinary value while raising profound questions about consent, exploitation, and the commodification of human experience. This facility serves as a focal point for examining the darker aspects of the memory trade, while also showcasing the incredible potential of memory manipulation technology when divorced from ethical considerations.
+
+
+## Connections
+
+- [[Memory Harvester Kythara]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Abyssos Prime]]

@@ -1,17 +1,30 @@
 ---
-tags: [location, aquabyssos, political, horror, temporal]
-location_type: "Government Building"
-continent: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-depth: "1,500-2,000 feet"
-population: "~500 (plus countless echoes)"
-danger_level: "High (Political)"
-magical_phenomena: "Temporal Overlap, Echo Persistence"
-created: 2025-08-07
-  - Category/Place
+tags:
+- aquabyssos
+- both
+- draft
+- horror
+- location
+- political
+- temporal
+location_type: Government Building
+continent: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+depth: 1,500-2,000 feet
+population: ~500 (plus countless echoes)
+danger_level: High (Political)
+magical_phenomena: Temporal Overlap, Echo Persistence
+created: 2025-08-07 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.544323+00:00'
+status: draft
+type: Location
 ---
+
+
+
 
 # Parliament of Echoes
 ## Where Yesterday's Voices Decide Tomorrow's Fate
@@ -287,3 +300,92 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 8. **Echo Assassination**: Use old speeches as weapons
 
 > *"In the Parliament of Echoes, every word is law, every law is a ghost, and every ghost votes on the future."*
+
+
+## Connections
+
+- [[Lord Vexton Shadowmere]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Shadow Surgeons Collective]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Discover Marina's Truth]]
+- [[Evidence Chain Analysis]]
+- [[Fear Farms]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Emperor's Gambit]]
+- [[The Final Choice]]
+- [[The Senator's Last Stand]]
+- [[Timeline of the Drowning]]
+- [[United Councils of Both Worlds]]
+- [[Ω_System-CLI-spells-school-divination]]
+- [[Abyssal Cathedral]]
+- [[Tenebrarum]]
+- [[The Cerulean Breath]]
+- [[The Current Merchants]]
+- [[The Senator]]
+- [[Throne of Bubbles]]
+- [[Aboleth Adjunct Yzz]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Amnesia Gallery]]
+- [[Angels and Depths]]
+- [[Anti-Priest Nullus]]
+- [[Azure Citadel]]
+- [[Barkeep Mira Algaebrew]]
+- [[Captain Echo]]
+- [[Chef Gastropod]]
+- [[Doctor Coral Shapeshift]]
+- [[Forge of War]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Keeper of Contracts Minerva Bindingword]]
+- [[Keeper of the Past, Elderly Morgan]]
+- [[Lord Reginald Seaworthy]]
+- [[Luminous Hollow]]
+- [[Mad Oracle Thessaly]]
+- [[Maelstrom Palace]]
+- [[Mediator Serenity Stillwater]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Mourning Depths]]
+- [[Navigator Flux]]
+- [[Old Sally Seasprayer]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Port Meridian Harbor]]
+- [[Quest - The Truth Unveiled]]
+- [[Reflection Pools - Surgical Theater]]
+- [[Royal Palace]]
+- [[Seamstress Coral Silkweaver]]
+- [[Senator's Private Chambers]]
+- [[Shadow Merchant Riptide]]
+- [[Sister Morwyn]]
+- [[Surface Tensions]]
+- [[The Depth Market]]
+- [[The Forgotten One]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Frozen Throne]]
+- [[The Gilded Shard]]
+- [[The Living Weapon]]
+- [[The Neutral Current Tavern]]
+- [[The Neutral Ground]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+- [[The Sunken Library of Thalassius]]
+- [[Vault Breach]]
+- [[Void Currents]]
+- [[Vote Vaults]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

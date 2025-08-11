@@ -1,18 +1,34 @@
 ---
-tags: [technology, temporal-manipulation, time-distortion, magical-hazards, temporal-technology, chronoengineering, time-effects, dimensional-anomalies, temporal-research, advanced-physics]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Temporal Technology"
-significance: "Critical Hazard & Research Infrastructure"
-created_by: "auto-stub"
+tags:
+- advanced-physics
+- aquabyssos
+- chronoengineering
+- complete
+- dimensional-anomalies
+- lore
+- magical-hazards
+- technology
+- temporal-manipulation
+- temporal-research
+- temporal-technology
+- time-distortion
+- time-effects
+status: complete
+world: Aquabyssos
+type: Lore
+category: Temporal Technology
+significance: Critical Hazard & Research Infrastructure
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-11
-technology_type: "Temporal Manipulation System"
-access_restriction: "Authorized Personnel Only"
-danger_level: "Extreme"
-operational_status: "Active Research"
+technology_type: Temporal Manipulation System
+access_restriction: Authorized Personnel Only
+danger_level: Extreme
+operational_status: Active Research
+updated: '2025-08-11T13:08:48.487102+00:00'
 ---
+
+
 
 # Temporal Distortion Zones
 *Where Time Bends to Purpose and Peril*
@@ -393,3 +409,15 @@ Involvement with Temporal Distortion Zones provides unique opportunities for cha
 - [[02_Worldbuilding/People/Temporal Physician Healing Moment]] - Medical specialist for temporal contamination
 
 The Temporal Distortion Zones represent humanity's boldest attempt to master time itself, transforming the fundamental flow of existence into a tool for progress, understanding, and survival. Through these extraordinary facilities, the linear progression of moments becomes fluid, the impossible becomes inevitable, and the future becomes a destination rather than merely a direction. Yet with such power comes responsibility that extends beyond individual lives to encompass the very fabric of reality, demanding wisdom, caution, and cooperation on a cosmic scale.
+
+
+## Connections
+
+- [[Depth Effect Quick Reference]]
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
+- [[Kraken Territories]]
+- [[Multi-Phase Boss Fights]]
+- [[Random Encounters]]
+- [[Temporal Anomaly Resolution]]
+- [[The Threshold]]

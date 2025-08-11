@@ -1,15 +1,27 @@
 ---
-tags: [entertainment, venue, aquabyssos, bubble-district, casino]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- bubble-district
+- casino
+- complete
+- entertainment
+- location
+- venue
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.936174+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Bubble Burst
 
@@ -63,7 +75,7 @@ At the center rises the **Fortune's Maelstrom** - a massive spiraling column of 
 
 ### Lady Nerida Pearlsong
 *Female Sea Elf, Casino Proprietor*
-- **AC**: 17 (Natural Armor + Enchanted Jewelry)
+- **AS**: 17 (Natural Armor + Enchanted Jewelry)
 - **HP**: 112 (16d8+48)
 - **Speed**: 30 ft., swim 60 ft.
 - **STR**: 12 (+1), **DEX**: 18 (+4), **CON**: 16 (+3), **INT**: 20 (+5), **WIS**: 14 (+2), **CHA**: 22 (+6)
@@ -75,7 +87,7 @@ A centuries-old sea elf who made her fortune by understanding the deepest desire
 
 ### Captain Tobias "Depth Charge" Murrk
 *Male Dwarf, Head of Security*
-- **AC**: 18 (Plate Armor, adapted for underwater use)
+- **AS**: 18 (Plate Armor, adapted for underwater use)
 - **HP**: 142 (19d10+38)
 - **Speed**: 25 ft., swim 25 ft.
 - **STR**: 18 (+4), **DEX**: 12 (+1), **CON**: 16 (+3), **INT**: 13 (+1), **WIS**: 16 (+3), **CHA**: 10 (+0)
@@ -86,7 +98,7 @@ A former [[Deep Current Pirates]] captain who turned legitimate after losing his
 
 ### Sparkle (Actual name)
 *Agender Merfolk, Fortune Teller*
-- **AC**: 15 (Shimmering Scales)
+- **AS**: 15 (Shimmering Scales)
 - **HP**: 68 (13d8+13)
 - **Speed**: 10 ft., swim 50 ft.
 - **Languages**: Common, Aquan, Celestial, Draconic, and 6 others
@@ -120,3 +132,34 @@ A prophetic merfolk whose scales change color to reflect the fortunes of those a
 ## Connections
 
 Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with connections to the [[Shadow Tide Syndicate]], [[Merchant Marine Consortium]], and various [[Elemental Courts]]. The casino regularly hosts representatives from the [[Luck Spirits Alliance]] and maintains careful relationships with both the [[Surface Coalition]] and [[Depths Alliance]]. Many plot threads from across [[Aquabyssos]] converge here, as fortunes won and lost often determine the fate of entire organizations.
+- [[Old Valdris]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

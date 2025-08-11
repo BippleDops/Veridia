@@ -1,21 +1,31 @@
 ---
-tags: [location, aboleth, research, deep-sea, aquabyssos, alien-intelligence, bio-laboratory, dangerous]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-category: "Bio-Research Facility"
-depth: "3,000+ feet"
-difficulty: "Levels 8-15"
-owner: "Aboleth Consortium"
-danger_level: "Extreme"
-created_by: "auto-stub"
+tags:
+- aboleth
+- alien-intelligence
+- aquabyssos
+- bio-laboratory
+- complete
+- dangerous
+- deep-sea
+- location
+- research
+status: complete
+world: Aquabyssos
+type: Location
+category: Bio-Research Facility
+depth: 3,000+ feet
+difficulty: Levels 8-15
+owner: Aboleth Consortium
+danger_level: Extreme
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.189010+00:00'
 MyContainer: None
 MyCategory: Research Laboratory
 obsidianUIMode: preview
 ---
+
+
 
 # Aboleth Adjunct Yzz
 *Where Mind and Flesh Are Molded Into New Realities*
@@ -140,7 +150,7 @@ The most dangerous area of the facility, where experiments in altering the funda
 *Large aberration (aboleth), lawful evil*
 **Primary Consciousness Specialist**
 
-- **AC**: 17 (Natural Armor)
+- **AS**: 17 (Natural Armor)
 - **HP**: 195 (23d12 + 69)
 - **Speed**: 10 ft., swim 40 ft.
 - **STR**: 21 (+5), **DEX**: 9 (-1), **CON**: 17 (+3), **INT**: 24 (+7), **WIS**: 15 (+2), **CHA**: 18 (+4)
@@ -174,7 +184,7 @@ Each member of the Collective was once a separate being who underwent consciousn
 *Medium aberration, neutral*
 **Facility Maintenance and Basic Research Staff**
 
-- **AC**: 14 (Natural Armor), **HP**: 45 (7d8 + 14), **Speed**: 30 ft., swim 30 ft.
+- **AS**: 14 (Natural Armor), **HP**: 45 (7d8 + 14), **Speed**: 30 ft., swim 30 ft.
 - **STR**: 14 (+2), **DEX**: 12 (+1), **CON**: 15 (+2), **INT**: 16 (+3), **WIS**: 13 (+1), **CHA**: 10 (+0)
 - **Skills**: Medicine +4, Nature +6, Investigation +6
 - **Senses**: Darkvision 60 ft., passive Perception 11

@@ -1,17 +1,31 @@
 ---
-tags: [navigation, merged-zones, both-worlds, environmental-hazards, specialized-techniques, dangerous-travel, cross-realm-navigation, reality-distortion, magical-navigation]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- both-worlds
+- complete
+- cross-realm-navigation
+- dangerous-travel
+- environmental-hazards
+- lore
+- magical-navigation
+- merged-zones
+- navigation
+- reality-distortion
+- specialized-techniques
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-navigation_type: "Cross-Environmental Specialized"
-scope: "Inter-Realm Travel"
-difficulty_level: "Expert"
-hazard_rating: "Extreme"
-specialization_required: "Advanced Training"
+updated: '2025-08-11T13:08:47.899951+00:00'
+navigation_type: Cross-Environmental Specialized
+scope: Inter-Realm Travel
+difficulty_level: Expert
+hazard_rating: Extreme
+specialization_required: Advanced Training
 ---
+
+
+
 
 # Merged Zone Navigation
 *Traversing the Boundaries Between Worlds*
@@ -351,3 +365,8 @@ International cooperation projects involve characters in collaborative efforts t
 - [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for cross-realm navigation standards
 - [[02_Worldbuilding/People/Master Navigator Tidal Crosscurrent]] - Leading expert in merged zone navigation
 - [[02_Worldbuilding/Lore/Guild of Cross-Realm Navigators]] - Professional organization for navigation specialists
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]

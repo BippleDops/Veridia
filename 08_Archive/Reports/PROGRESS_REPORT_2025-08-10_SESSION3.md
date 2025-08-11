@@ -1,3 +1,15 @@
+---
+world: Both
+updated: '2025-08-11T13:08:47.050154+00:00'
+created: '2025-08-11T13:08:47.050154+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
+---
+
+
 # TTRPG Vault Progress Report - Session 3 (2025-08-10)
 
 ## Executive Summary

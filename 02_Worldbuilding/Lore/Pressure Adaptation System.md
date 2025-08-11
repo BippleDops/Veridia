@@ -1,14 +1,27 @@
 ---
-tags: [lore, technology, pressure-adaptation, aquabyssos, engineering, life-support, innovation, depth-survival, bio-mechanical, pressure-regulation]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Bio-Mechanical Technology"
-significance: "Critical Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- bio-mechanical
+- complete
+- depth-survival
+- engineering
+- innovation
+- life-support
+- lore
+- pressure-adaptation
+- pressure-regulation
+- technology
+status: complete
+world: Aquabyssos
+type: Lore
+category: Bio-Mechanical Technology
+significance: Critical Infrastructure
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.019561+00:00'
 ---
+
+
 
 # Pressure Adaptation System
 *The Lifeline Between Surface and Depth*
@@ -446,3 +459,22 @@ Understanding pressure adaptation helps characters navigate Aquabyssos society:
 - [[02_Worldbuilding/People/Master Engineer Coral Pressureforge]] - Manufacturing facility director
 - [[02_Worldbuilding/Groups/Pressure Engineering Guild]] - Professional organization supporting system development
 - [[02_Worldbuilding/Groups/Adaptation Medical Society]] - Healthcare professionals specializing in pressure medicine
+
+
+## Connections
+
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Depth Effect Quick Reference]]
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
+- [[Kraken Territories]]
+- [[Temple of the First Tide]]
+- [[Temporal Anomaly Resolution]]
+- [[The Bloom Fields]]
+- [[The Deep Harvest]]
+- [[The Deep Mother]]
+- [[The Depth Chart]]
+- [[The Silverscale Conspiracy]]
+- [[Underwater Breathing]]
+- [[Campaign_Relationship_Matrix]]

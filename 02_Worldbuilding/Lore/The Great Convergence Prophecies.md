@@ -1,16 +1,41 @@
 ---
-tags: [lore, religion, prophecy, convergence, both-worlds, religious-belief, ancient-prophecy, timeline, historical-events, divination, religious-text]
-status: "complete"
-world: "Both"
-type: "Historical Prophecies"
-category: "Religious-Historical Event"
-significance: "Reality-Altering"
-time_period: "Ancient Era - Current Era (Ongoing Fulfillment)"
-created_by: "cultural-expansion"
+tags:
+- ancient-prophecy
+- both
+- both-worlds
+- complete
+- convergence
+- divination
+- historical-events
+- historical-prophecies
+- lore
+- prophecy
+- religion
+- religious-belief
+- religious-text
+- timeline
+status: complete
+world: Both
+type: Lore
+category: Religious-Historical Event
+significance: Reality-Altering
+time_period: Ancient Era - Current Era (Ongoing Fulfillment)
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-related_entities: ["[[The Deep Mother]]", "[[Aetheron]]", "[[The Shattering of the Crown]]", "[[The Drowning]]", "[[The Convergence Point]]", "[[The Seven Betrayers]]", "[[Queen Seraphina]]"]
+updated: '2025-08-11T13:08:48.892371+00:00'
+related_entities:
+- '[[The Deep Mother]]'
+- '[[Aetheron]]'
+- '[[The Shattering of the Crown]]'
+- '[[The Drowning]]'
+- '[[The Convergence Point]]'
+- '[[The Seven Betrayers]]'
+- '[[Queen Seraphina]]'
 ---
+
+
+
+
 
 # The Great Convergence Prophecies
 *Ancient Visions of Two Worlds Becoming One*
@@ -180,8 +205,8 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 - "The Deep Mother's Children" - Prophecies about post-convergence humanity
 
 **Notable Prophets:**
-- **Nerida the Deep-Touched** (423-478 AS) - First to predict specific individuals involved in convergence
-- **Abyssal Prime Kollos** (511-567 AS) - Detailed architectural visions of merged cities
+- **Nerida the Deep-Touched** (423-478 AC) - First to predict specific individuals involved in convergence
+- **Abyssal Prime Kollos** (511-567 AC) - Detailed architectural visions of merged cities
 - **The Silent Oracle** (Current Era) - Anonymous prophet providing convergence timeline updates
 
 #### The Memory Tide Seers
@@ -194,7 +219,7 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 - Prediction of which Aquabyssos bloodlines carry convergence sensitivity
 - Timeline correlations between historical events and prophetic fulfillment
 
-**The Collective Vision** (387 AS): Seventeen Memory Tide Seers simultaneously experienced a shared vision showing the exact moment of convergence, down to the specific individuals present and their choices. This vision remains classified by the Aquabyssos government.
+**The Collective Vision** (387 AC): Seventeen Memory Tide Seers simultaneously experienced a shared vision showing the exact moment of convergence, down to the specific individuals present and their choices. This vision remains classified by the Aquabyssos government.
 
 #### The Current Readers
 **Location:** Major ocean current intersections throughout Aquabyssos
@@ -597,3 +622,14 @@ Remarkably, both civilizations developed extensive prophetic traditions around t
 
 *"The prophecies speak not of ending, but of beginning. Two worlds becoming something greater than either could be alone."*
 *- From the Convergence Codex, compiled prophecies of both worlds*
+
+## Connections
+
+- [[Eastern Kingdoms]]
+- [[Silver Mask]]
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]
+- [[The Lighthouse of Storms]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,19 +1,30 @@
 ---
-tags: [organization, cult, parasite, corruption, aquabyssos, biological-horror, mysterious, symbiosis]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-role: "Symbiotic Cult"
-affiliation: "[[02_Worldbuilding/Lore/The Deep Mother]] (Claimed)"
-size: "Unknown (Estimated 200-500 Members)"
-location: "[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- biological-horror
+- complete
+- corruption
+- cult
+- mysterious
+- organization
+- parasite
+- symbiosis
+status: complete
+world: Aquabyssos
+type: NPC
+role: Symbiotic Cult
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Claimed)'
+size: Unknown (Estimated 200-500 Members)
+location: '[[The Symbiotic Sanctuaries]] - Hidden throughout Aquabyssos'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-influence: "Growing"
-secrecy_level: "High"
-danger_level: "Extreme"
+updated: '2025-08-11T13:08:49.997595+00:00'
+influence: Growing
+secrecy_level: High
+danger_level: Extreme
 ---
+
+
 
 # The Parasite Priests
 *The Communion of Perfect Unity*
@@ -392,3 +403,7 @@ Disagreements about forced versus voluntary transformation, the pace of the Grea
 - **Religious Orthodox Communities**: Mainstream faiths condemning cult theology as heretical corruption
 - **[[02_Worldbuilding/Groups/Crystal Wardens]]**: Military forces investigating cult's potential threat to realm security
 - **Government Health Agencies**: Medical authorities treating cult activities as biological terrorism threat
+
+## Connections
+
+- [[The Sorrowmaster]]

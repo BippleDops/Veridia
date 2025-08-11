@@ -1,29 +1,18 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.896784+00:00'
+created: '2025-08-11T13:08:49.896784+00:00'
+status: draft
 tags:
-  - npc
-  - cult leader
-  - hybrid
-  - antagonist
-  - aquatic
+- both
+- draft
 type: NPC
-race: Human-Aboleth Hybrid
-class: Cleric/Warlock
-level: 15
-alignment: Chaotic Evil
-location: "[[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]"
-faction: "[[02_Worldbuilding/Groups/The Leviathan Cult]]"
-status: Alive
-created: 2025-08-09
-image: "04_Resources/Assets/NPCs/dagon_deepcaller.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
-base_5e_statblock: "Aboleth"
-statblock_source: "MM"
-page_reference: "MM p.13"
-modifications: "Added cleric spellcasting, warlock pact magic, hybrid physiology, cult leadership abilities"
+cr: '16'
 ---
+
+
+
+
 
 # High Priest Dagon Deepcaller
 *Prophet of the Depths, Voice of the Leviathans*
@@ -223,3 +212,8 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 - Hybrid army nearly ready for coordinated coastal assaults
 - Conversion of major naval personnel approaching critical mass
 - Alliance negotiations with other monster factions progressing rapidly
+
+## Connections
+
+- [[The Leviathan Cult]]
+- [[Campaign_Relationship_Matrix]]

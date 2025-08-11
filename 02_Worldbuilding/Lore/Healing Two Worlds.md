@@ -1,14 +1,28 @@
 ---
-tags: [lore, healing, dimensional-restoration, convergence-resolution, reality-repair, shadow-corruption-cure, aquabyssos, aethermoor, unity-seekers, metaphysical-medicine]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Healing Methodology"
-significance: "Campaign-Critical"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- complete
+- convergence-resolution
+- dimensional-restoration
+- healing
+- lore
+- metaphysical-medicine
+- reality-repair
+- shadow-corruption-cure
+- unity-seekers
+status: complete
+world: Both
+type: Lore
+category: Healing Methodology
+significance: Campaign-Critical
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.236824+00:00'
 ---
+
+
 
 # Healing Two Worlds
 *The Art and Science of Dimensional Restoration*
@@ -469,3 +483,8 @@ Healing provides the only sustainable solution to corruption:
 
 *"Healing is not about fixing what is broken, but about remembering what was never truly separated."*
 *- Master Depth-Crystal Thalamos, founder of the School of Integration*
+
+
+## Connections
+
+- [[Desperate Plague Victim]]

@@ -1,16 +1,29 @@
 ---
-tags: [lore, technology, life-support, aquabyssos, breathing-apparatus, bio-magical-engineering, survival-systems, underwater-technology, respiratory-enhancement, innovation]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Life Support Technology"
-significance: "Essential Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- bio-magical-engineering
+- breathing-apparatus
+- complete
+- innovation
+- life-support
+- lore
+- respiratory-enhancement
+- survival-systems
+- technology
+- underwater-technology
+status: complete
+world: Aquabyssos
+type: Lore
+category: Life Support Technology
+significance: Essential Infrastructure
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-technology_type: "Bio-Magical Respiratory System"
-access_restriction: "Public Infrastructure"
+updated: '2025-08-11T13:08:48.787530+00:00'
+technology_type: Bio-Magical Respiratory System
+access_restriction: Public Infrastructure
 ---
+
+
 
 # Underwater Breathing
 *The Breath of Life in the Depths*
@@ -484,3 +497,13 @@ Understanding breathing systems helps characters navigate Aquabyssos society:
 - [[02_Worldbuilding/People/Chief Manufacturing Engineer Tide Breathwright]] - Production facility leader
 - [[02_Worldbuilding/Groups/Respiratory Engineering Guild]] - Professional organization supporting breathing systems
 - [[02_Worldbuilding/Groups/Underwater Medical Society]] - Healthcare professionals specializing in breathing medicine
+
+
+## Connections
+
+- [[Crystal Forest]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Depth Effect Quick Reference]]
+- [[Pressure Adaptation System]]
+- [[The Deep Harvest]]
+- [[The Deep Mother]]

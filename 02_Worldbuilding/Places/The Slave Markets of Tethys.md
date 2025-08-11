@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.989240+00:00'
+created: '2025-08-11T13:08:50.989240+00:00'
+status: draft
 tags:
-  - location
-  - market
-  - economic
-  - slavery
-  - criminal
-type: Slave Trading Hub
-region: "[[02_Worldbuilding/Places/The Shattered Isles]]"
-danger_level: High
-controlled_by: "[[02_Worldbuilding/Groups/The Crimson Fleet]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/slave_markets_tethys.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Slave Markets of Tethys
 *Where Human Lives Become Currency*
@@ -36,3 +32,32 @@ The Slave Markets of Tethys serve as the primary hub for human trafficking opera
 - **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Investigating trafficking networks
 - **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Some oppose, others profit
 - **[[Crystal Wardens]]** - Moral opposition to slave trade operations
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

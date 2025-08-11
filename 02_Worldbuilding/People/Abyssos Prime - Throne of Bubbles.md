@@ -1,15 +1,23 @@
 ---
-tags: [location, throne, royal, bubbles, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Places
+tags:
+- aquabyssos
+- bubbles
+- complete
+- location
+- royal
+- throne
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Places
 MyContainer: None
 MyCategory: Royal
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.016469+00:00'
 ---
+
+
 
 # Abyssos Prime - Throne of Bubbles
 
@@ -83,3 +91,33 @@ Entry requires royal invitation or official government business. Multiple checkp
 
 ## DM Notes
 The Throne of Bubbles provides an excellent setting for important plot developments, political intrigue, and dramatic confrontations. The magical properties can enhance roleplaying moments while the formal atmosphere adds weight to significant decisions. Use the bubble patterns and lighting changes to reflect emotional tension and foreshadow important events.
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

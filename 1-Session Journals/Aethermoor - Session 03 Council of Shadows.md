@@ -1,27 +1,40 @@
 ---
-tags: [session, aethermoor, political, intrigue, murder]
+tags:
+- aethermoor
+- intrigue
+- murder
+- political
+- prepared
+- session
+- session-journal
 session_number: 3
-title: "Council of Shadows"
-date_played: 
-location: "[[02_Worldbuilding/Places/Port Meridian]] - Noble Quarter"
+title: Council of Shadows
+date_played: null
+location: '[[02_Worldbuilding/Places/Port Meridian]] - Noble Quarter'
 npcs_featured:
-  - "[[Lord Aurelius Goldwave]]"
-  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
-  - "[[Brother Marcus Steelbane]]"
-  - "[[Silver Mask]]"
+- '[[Lord Aurelius Goldwave]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[Brother Marcus Steelbane]]'
+- '[[Silver Mask]]'
 quests_advanced:
-  - "[[Political Intrigue of Meridian]]"
-  - "[[The Seven Shards Mystery]]"
-  - "[[Investigate the Crystal Plague]]"
+- '[[Political Intrigue of Meridian]]'
+- '[[The Seven Shards Mystery]]'
+- '[[Investigate the Crystal Plague]]'
 level: 3
-estimated_time: "3-4 hours"
+estimated_time: 3-4 hours
 status: prepared
-type: Session Journal
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.989070+00:00'
+created: '2025-08-11T13:08:46.989070+00:00'
 ---
+
+
+
 
 # Session 3: Council of Shadows
 

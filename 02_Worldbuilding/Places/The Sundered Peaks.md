@@ -1,19 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.474996+00:00'
+created: '2025-08-11T13:08:50.474996+00:00'
+status: draft
 tags:
-  - location
-  - mountains
-  - dangerous
-  - mining
-type: Region
-danger_level: Moderate-High
-population: 200,000 (mostly dwarven)
-created: 2024-12-20
-image: "04_Resources/Assets/Locations/sundered_peaks.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Sundered Peaks
 *Where Earth Meets Sky and Crystal*
@@ -235,3 +233,11 @@ Pre-Shattering tunnel system:
 - Oracle crucial for prophecies
 - Dwarven politics affect stability
 - Deep Roads hide campaign secrets
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[The Forsaken Consortium Collective]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,23 +1,31 @@
 ---
-tags: [faction, aquabyssos, shadow, conspiracy, major-antagonist, infiltration]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Secret Society"
-alignment: "Lawful Evil"
-headquarters: "[[The Shadow Parliament]] (Hidden Phase)"
-leader: "Collective Leadership"
-members: "Unknown (Estimated 5,000+)"
-influence: "Continental (Hidden)"
-wealth: "Stolen from originals"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- faction
+- infiltration
+- major-antagonist
+- shadow
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Secret Society
+alignment: Lawful Evil
+headquarters: '[[The Shadow Parliament]] (Hidden Phase)'
+leader: Collective Leadership
+members: Unknown (Estimated 5,000+)
+influence: Continental (Hidden)
+wealth: Stolen from originals
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Group
+updated: '2025-08-11T13:08:51.289462+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Shadow Conspiracy
 *The Dark Harvest Architects, The Replacement Initiative, Those Who Cast No Light*
@@ -404,3 +412,15 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 ---
 
 *"We are not stealing your lives—we are improving upon them. You cast us, and now we cast you aside."* - Shadow Parliament Motto
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Senator's Private Chambers]]
+- [[Ambush Point]]
+- [[Campaign_Relationship_Matrix]]

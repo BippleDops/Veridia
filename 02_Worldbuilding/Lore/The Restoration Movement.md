@@ -1,16 +1,30 @@
 ---
-tags: [historical, political-movement, religious-movement, restoration, reform, aquabyssos, democracy, monarchy, revolution, social-change]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- democracy
+- historical
+- lore
+- monarchy
+- political-movement
+- reform
+- religious-movement
+- restoration
+- revolution
+- social-change
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-historical_period: "Post-Bathyal Succession to Present"
-significance: "Major"
-movement_type: "Political and Religious Reform"
-current_status: "Active but Fragmented"
+updated: '2025-08-11T13:08:47.166432+00:00'
+historical_period: Post-Bathyal Succession to Present
+significance: Major
+movement_type: Political and Religious Reform
+current_status: Active but Fragmented
 ---
+
+
 
 # The Restoration Movement
 *Reclaiming the Deep Crown's Sacred Authority*
@@ -355,3 +369,12 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 **Prophetic Connections**: Connect movement activities and objectives to larger campaign themes and prophetic elements, particularly those related to [[The Great Convergence Prophecies|The Great Convergence]] and the future development of the campaign world.
 
 The Restoration Movement serves as more than just political opposition—it represents fundamental questions about authority, tradition, change, and identity that can drive character development, moral complexity, and meaningful choices throughout extended campaigns set in [[Aquabyssos]].
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Silver Mask]]
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]
+- [[The Silverscale Conspiracy]]

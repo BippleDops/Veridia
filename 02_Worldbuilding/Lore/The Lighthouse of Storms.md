@@ -1,16 +1,30 @@
 ---
-tags: [historical, lighthouse, storms, prophecy, navigation, maritime, ancient-magic, aquabyssos, lost-technology, weather-control]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- ancient-magic
+- aquabyssos
+- complete
+- historical
+- lighthouse
+- lore
+- lost-technology
+- maritime
+- navigation
+- prophecy
+- storms
+- weather-control
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-historical_period: "Pre-Shattering to Present"
-significance: "Critical"
-threat_level: "Variable"
-current_status: "Active but Unpredictable"
+updated: '2025-08-11T13:08:48.049048+00:00'
+historical_period: Pre-Shattering to Present
+significance: Critical
+threat_level: Variable
+current_status: Active but Unpredictable
 ---
+
+
 
 # The Lighthouse of Storms
 *Beacon of the Tempest, Guardian of the Maelstrom Gates*
@@ -343,3 +357,10 @@ Contemporary scholars, led by [[Scholar Windscribe]] and others, have developed 
 **Prophecy Fulfillment Tracking**: Develop systems for tracking progress toward prophesied events and how character actions influence the outcome of ancient predictions.
 
 The Lighthouse of Storms serves as more than just a landmark or location—it represents a fundamental force in the world that can drive entire campaigns while providing rich opportunities for character development, world exploration, and epic storytelling that spans both personal and cosmic scales.
+
+
+## Connections
+
+- [[The Deep Mother]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

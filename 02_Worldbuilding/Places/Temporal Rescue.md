@@ -1,11 +1,21 @@
 ---
-tags: [quest, time-travel, rescue-mission, urgent]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- quest
+- rescue-mission
+- time-travel
+- urgent
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.965254+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Temporal Rescue
 
@@ -141,3 +151,8 @@ An emergency mission where someone important has been displaced in time by magic
 
 ## DM Notes
 This quest emphasizes urgency and ethical decision-making. Time travel should feel dangerous and consequential. Use historical knowledge to create authentic period details while maintaining fantasy elements. Consider how timeline changes might affect future campaign events.
+
+
+## Connections
+
+- [[The Primordial Vaults]]

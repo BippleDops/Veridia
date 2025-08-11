@@ -1,19 +1,17 @@
 ---
+world: Aethermoor
+updated: '2025-08-11T13:08:50.198233+00:00'
+created: '2025-08-11T13:08:50.198233+00:00'
+status: draft
 tags:
-  - location
-  - continent
-  - world
-type: Continent
-region: Prime Material Plane
-population: ~15,000,000
-danger_level: Varies
-created: 2024-12-20
-image: "04_Resources/Assets/Locations/aethermoor_continent.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- aethermoor
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Aethermoor
 *The Shattered Crown Continent*
@@ -159,3 +157,147 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Investigate the corruption spreading
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Search for the lost crown fragment
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Negotiate peace between factions
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Master Artificers Guild]]
+- [[Shadow Surgeons Collective]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow War Coalition]]
+- [[Aetheron]]
+- [[Campaign Epilogues]]
+- [[Corruption Exposure Tracking]]
+- [[Crimson Hand Apprentices]]
+- [[Crystal Corruption Taboos]]
+- [[Crystal Festival]]
+- [[Deep Mother Cult Practices]]
+- [[Deep Mother]]
+- [[Depth Effect Quick Reference]]
+- [[Discover Marina's Truth]]
+- [[Eastern Kingdom Fleet]]
+- [[Eastern Kingdoms 2]]
+- [[Eastern Kingdoms]]
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Hidden Sanctuary]]
+- [[Kelp Forest Monasteries]]
+- [[Kraken Territories]]
+- [[Lighthouse Ruins]]
+- [[Magic Items]]
+- [[Marina's Echo]]
+- [[Merged Zone Navigation]]
+- [[Multiple Recursion Levels]]
+- [[Resonance Chamber]]
+- [[Resonance Peaks]]
+- [[Rewriting the Ritual]]
+- [[Save Both Civilizations]]
+- [[Shadow Magic Integration Practices]]
+- [[Silver Mask]]
+- [[Sky Burial Traditions]]
+- [[Skyforged Crystal Worship]]
+- [[Spell Lists]]
+- [[Surface Dweller Adaptation]]
+- [[Temple of the First Tide]]
+- [[Temporal Distortion Zones]]
+- [[Temporal Navigation Hazards]]
+- [[Thalassius the Wise]]
+- [[The Bloom Fields]]
+- [[The Crimson Hand]]
+- [[The Crown of Stars]]
+- [[The Crystal Festival]]
+- [[The Deep Mother]]
+- [[The Deserter's Tale]]
+- [[The Dream Shepherds]]
+- [[The Drowned God]]
+- [[The Emperor's Gambit]]
+- [[The Festival of Rising Tides]]
+- [[The Final Choice]]
+- [[The Forgotten Isles]]
+- [[The Great Convergence Prophecies]]
+- [[The Lighthouse of Storms]]
+- [[The Possessed Queen]]
+- [[The Pressure Baptism Rites]]
+- [[The Restoration Movement]]
+- [[The Senator's Last Stand]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[The Threshold]]
+- [[Tidal Chambers]]
+- [[Tide Turner's Trident]]
+- [[Time's Mercy]]
+- [[Timeline of Crimes]]
+- [[Umbral Exchange]]
+- [[United Councils of Both Worlds]]
+- [[Vorthak]]
+- [[Ω_System-CLI-spells-school-abjuration]]
+- [[Ω_System-CLI-spells-school-conjuration]]
+- [[Ω_System-CLI-spells-school-divination]]
+- [[Ω_System-CLI-spells-school-evocation]]
+- [[Ω_System-CLI-spells-school-necromancy]]
+- [[Ω_System-CLI-spells-school-transmutation]]
+- [[Commander Thrace Ironwood]]
+- [[Emperor Thalassius the Wise]]
+- [[Lady Jade Clawgrip]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Alternative-Path-Fled-City]]
+- [[Ambassador Lysandra Silvertonge]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Azure Citadel]]
+- [[Captain Echo]]
+- [[Concierge Phillip Gracewater]]
+- [[Crystal Gardens]]
+- [[Elder Whisper-In-The-Dark]]
+- [[Envoy Blackwater Jr.]]
+- [[Forge of War]]
+- [[Gravity Anomaly Mechanics]]
+- [[Harbor District Customs House]]
+- [[Harbormaster Erik Saltbeard]]
+- [[Innkeeper Mara Ironlung]]
+- [[Lady Vivienne the Unfrozen]]
+- [[Lord Reginald Seaworthy]]
+- [[Luminous Hollow]]
+- [[Madame Rosalind Goldleaf]]
+- [[Master Smith Vulcan Deepforge]]
+- [[Memory Heist]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Navigator Flux]]
+- [[Old Sally Seasprayer]]
+- [[Palace Courtyard - Crystal Garden]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian - Noble Quarter]]
+- [[Port Meridian Harbor]]
+- [[Quest - The Blackmail Papers]]
+- [[Quest - The Missing Fleet]]
+- [[Quest - The Pretender]]
+- [[Quest - The Truth Unveiled]]
+- [[Royal Vault]]
+- [[Shadow Merchant Riptide]]
+- [[Teacher Miranda Hopekeeper]]
+- [[The Crystal Wardens]]
+- [[The Crystalline Foundry]]
+- [[The Floating Market]]
+- [[The Free Current]]
+- [[The Gilded Shard]]
+- [[The Neutral Ground]]
+- [[The Royal Palace]]
+- [[Throne Room - Heart of Palace]]
+- [[Treaty of the Depths]]
+- [[Whisper Island Docks]]
+- [[Withered Court]]
+- [[Aether Crystals]]
+- [[Aquabyssos]]
+- [[Bandit Leader Scarface]]
+- [[Quest - Hearts and Minds]]
+- [[Quest - Nature's Balance]]
+- [[Quest - Smuggler's Run]]
+- [[Quest - The Lost Expedition]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[Smuggler]]
+- [[Stop the Crystal Festival Ritual]]
+- [[The Oracle of the Sundered Peaks]]
+- [[The Whispering Expanse]]
+- [[Traveling Merchant Finn]]

@@ -1,17 +1,30 @@
 ---
-tags: [location, ruins, lighthouse, aethermoor, coastal, tragedy, maritime, beacon, destruction, haunted]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- beacon
+- coastal
+- complete
+- destruction
+- haunted
+- lighthouse
+- location
+- lore
+- maritime
+- ruins
+- tragedy
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-location_type: "Ruined Lighthouse"
-region: "Aethermoor Coast"
-significance: "Former Navigation Aid"
-accessibility: "Dangerous"
-current_status: "Abandoned Ruins"
+updated: '2025-08-11T13:08:48.144038+00:00'
+location_type: Ruined Lighthouse
+region: Aethermoor Coast
+significance: Former Navigation Aid
+accessibility: Dangerous
+current_status: Abandoned Ruins
 ---
+
 
 # Lighthouse Ruins
 *The Fallen Beacon of Aethermoor's Coast*

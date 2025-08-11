@@ -1,21 +1,16 @@
 ---
-tags: [entity, coral-spirit, aquabyssos, living-city, symbiotic-intelligence]
-status: "completed"
-world: "Aquabyssos"
-type: "lore" 
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-entity_type: "Living Coral City"
-alignment: "Lawful Neutral"
-domain: "Symbiotic Architecture and Biological Harmony"
-power_level: "Regional Entity"
-active: "Continuously Growing and Thinking"
-  - Category/Lore
-MyContainer: Aquabyssos
-MyCategory: Living Entities
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.041879+00:00'
+created: '2025-08-11T13:08:49.041879+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Corallion, the Living City
 *Where Stone Dreams and Flesh Thinks*
@@ -252,3 +247,10 @@ Parts of Corallion have begun developing independent consciousness and threateni
 - [[Living Democracy]]
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Continental Connections & Story Weave]]
+- [[Depth Adaptation System]]

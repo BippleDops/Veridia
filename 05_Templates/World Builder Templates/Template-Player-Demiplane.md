@@ -1,15 +1,17 @@
 ---
 NoteIcon: player
 aliases:
-  - Bob
+- Bob
 tags:
-  - Category/Player
+- both
+- category/player
+- draft
 Player: Bob
 Role: Player
 Class:
-  - Barbarian
+- Barbarian
 Race:
-  - Human
+- Human
 level: 2
 hp: 55
 max_hp: 71
@@ -18,9 +20,9 @@ modifier: 3
 pasperc: 13
 Status: Active
 PlayerKnownLanguages:
-  - Celestial
-  - Common
-  - Dwarvish
+- Celestial
+- Common
+- Dwarvish
 faction_standing:
   Faction Name 1: 1
   Faction Name 3: 3
@@ -30,21 +32,28 @@ char_status: Alive
 char_age: Young Adult
 char_items: []
 parents:
-  - Mother
-  - Father
+- Mother
+- Father
 partner:
-  - Partner
+- Partner
 children:
-  - Son
+- Son
 allies:
-  - Friend
+- Friend
 enemies:
-  - Enemy
+- Enemy
 siblings:
-  - Sister
+- Sister
 obsidianUIMode: preview
-MyContainer:
+MyContainer: null
+world: Both
+updated: '2025-08-11T13:08:47.015694+00:00'
+created: '2025-08-11T13:08:47.015694+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewPlayer");

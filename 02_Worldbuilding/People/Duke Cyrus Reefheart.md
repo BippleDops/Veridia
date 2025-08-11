@@ -1,18 +1,17 @@
 ---
-tags: [npc, leader, coral_courts, noble]
-aliases: [Duke Reefheart, The Living Noble, Cyrus]
-created: 2024-12-19
-image: "04_Resources/Assets/NPCs/cyrus_reefheart.jpg"
-level: 14
-class: "Druid/Noble"
-race: "Symbiotically Adapted Human"
-alignment: "Neutral"
-status: "Alive (Mostly)"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.919442+00:00'
+created: '2025-08-11T13:08:49.919442+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
+
 
 # Duke Cyrus Reefheart
 
@@ -124,3 +123,26 @@ Born to ancient noble family that ruled the Coral Islands before drowning. Famil
 - Secondary: [[02_Worldbuilding/Places/The Bathyal Palace]] - Embassy suite
 - Laboratory: Deep Garden experimental chambers
 - Grows: Throughout any coral structure in Lumengarde
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

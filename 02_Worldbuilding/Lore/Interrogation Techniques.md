@@ -1,12 +1,21 @@
 ---
-tags: [lore, interrogation, investigation, techniques, law-enforcement]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- interrogation
+- investigation
+- law-enforcement
+- lore
+- techniques
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.985252+00:00'
 ---
+
+
 
 # Interrogation Techniques
 
@@ -38,3 +47,14 @@ Interrogation sessions typically last 1-4 hours with breaks for subject welfare.
 
 ## Campaign Use
 Provides framework for investigation scenes and adds realism to law enforcement encounters.
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]

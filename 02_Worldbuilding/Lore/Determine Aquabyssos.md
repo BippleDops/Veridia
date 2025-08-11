@@ -1,7 +1,19 @@
 ---
-tags: [lore, placeholder]
-aliases: [Determine Aquabyssos's Fate]
+tags:
+- aquabyssos
+- draft
+- lore
+- placeholder
+aliases:
+- Determine Aquabyssos's Fate
+world: Aquabyssos
+updated: '2025-08-11T13:08:48.051481+00:00'
+created: '2025-08-11T13:08:48.051481+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 # Determine Aquabyssos's Fate
 

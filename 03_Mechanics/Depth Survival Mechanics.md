@@ -1,10 +1,23 @@
 ---
-tags: [mechanics, aquabyssos, survival, rules]
-system: "D&D 5e"
-type: "mechanical_system"
-complexity: "advanced"
+tags:
+- aquabyssos
+- both
+- draft
+- mechanical_system
+- mechanics
+- rules
+- survival
+system: D&D 5e
+type: Lore
+complexity: advanced
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.057986+00:00'
+status: draft
 ---
+
+
+
 
 # Depth Survival Mechanics
 ## Complete Aquabyssos Survival System
@@ -337,3 +350,7 @@ Equipment:
 ---
 
 *Remember: In Aquabyssos, survival isn't about staying unchanged—it's about controlling how you change.*
+
+## Connections
+
+- [[Complete_Pressure_Adaptation_System]]

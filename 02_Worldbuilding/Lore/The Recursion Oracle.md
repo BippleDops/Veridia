@@ -1,9 +1,25 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, oracle, recursion, prophecy, time, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aquabyssos
+- both
+- complete
+- lore
+- oracle
+- prophecy
+- recursion
+- time
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:49.426640+00:00'
+created: '2025-08-11T13:08:49.426640+00:00'
+type: Lore
 ---
+
+
+
 
 # The Recursion Oracle
 
@@ -134,3 +150,12 @@ Use the Oracle for dramatic prophecies that enhance rather than replace player a
 
 ### Customization Options
 Adjust the Oracle's accessibility and clarity based on campaign needs - more available for guidance-heavy campaigns, more mysterious for exploration-focused adventures.
+
+
+## Connections
+
+- [[Echo of the Mother]]
+- [[Thalassius the Wise]]
+- [[Rescue Senator Glaucus]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

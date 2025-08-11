@@ -1,23 +1,17 @@
 ---
-tags: [npc, aquabyssos, oracle, prophecy, madness, vision, divine-connection, dangerous, unpredictable, mystic]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-category: "Divine Oracle"
-race: "Mer-Folk"
-class: "Oracle/Seer"
-location: "[[The Spiral Sanctum]]"
-faction: "[[The Depth Touched]]"
-influence: "High"
-danger_level: "Moderate"
-  - Category/Person
-MyContainer: None
-MyCategory: Oracle
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.910254+00:00'
+created: '2025-08-11T13:08:50.910254+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Mad Oracle Thessaly
 *The Broken Vessel of Infinite Visions*
@@ -452,3 +446,8 @@ Those who seek her wisdom must understand that her gift comes with a price: she 
 **Epic Scale**: Elevating campaign significance through prophecies of world-changing importance
 
 Mad Oracle Thessaly stands as [[Aquabyssos]]'s window into the divine mysteries of time and fate, where her sacrificed sanity purchases glimpses of truth too vast for mortal comprehension. Through her fractured consciousness and prophetic visions, she serves as both blessing and warning—demonstrating the terrible price of divine knowledge while offering the wisdom necessary to navigate an uncertain future. Her prophecies illuminate the path ahead, even as they remind all who seek her counsel that some knowledge comes at a cost greater than any treasure.
+
+
+## Connections
+
+- [[The Whispering Depths]]

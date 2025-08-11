@@ -1,22 +1,27 @@
 ---
-type: monster
+type: Lore
 obsidian-u-i-mode: preview
 cssclasses: json5e-monster
 tags:
-  - compendium/src/5e/ccodex
-  - monster/cr/9
-  - monster/environment/any
-  - monster/size/medium
-  - monster/type/fiend/demon
+- both
+- compendium/src/5e/ccodex
+- draft
+- monster/cr/9
+- monster/environment/any
+- monster/size/medium
+- monster/type/fiend/demon
+- note
 statblock: inline
 aliases:
 - Alpha Yek
-type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
-aliases:
-  - Alpha Yek
+world: Both
+updated: '2025-08-11T13:08:47.095371+00:00'
+status: draft
 ---
+
+
 # resource.name
 *Source: Creature Codex p. 95*  
 

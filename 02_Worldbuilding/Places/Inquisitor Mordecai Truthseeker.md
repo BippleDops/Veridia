@@ -1,15 +1,26 @@
 ---
-tags: [npc, inquisitor, church, truthseeker, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- church
+- complete
+- inquisitor
+- npc
+- truthseeker
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.108993+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Inquisitor Mordecai Truthseeker
 
@@ -37,7 +48,7 @@ His bearing is that of a soldier-priest, moving with purpose and authority. Scar
 
 ## Statistics
 **Medium humanoid (human), lawful neutral**
-- **AC** 16 (Chain Mail)
+- **AS** 16 (Chain Mail)
 - **HP** 78 (12d8 + 24)
 - **Speed** 30 ft, swim 25 ft (ring of swimming)
 - **STR** 16 (+3) **DEX** 12 (+1) **CON** 14 (+2) **INT** 17 (+3) **WIS** 19 (+4) **CHA** 15 (+2)
@@ -102,3 +113,38 @@ He's been conducting discrete interviews with witnesses and examining evidence o
 
 ## DM Notes
 Mordecai serves as both a potential ally and threat to player characters. His commitment to truth means he can provide valuable information, but also that he won't hesitate to investigate the party if they give him cause. Use him to add moral complexity to situations and to represent the consequences of players' actions catching up with them.
+
+
+## Connections
+
+- [[Prophet Nerida Voidgazer]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

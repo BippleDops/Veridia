@@ -1,12 +1,24 @@
 ---
-tags: [lore, culture, marriage, inter-realm, customs, social-practices, aquabyssos, aethermoor, diplomacy]
-status: "complete"
-world: "Both"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- complete
+- culture
+- customs
+- diplomacy
+- inter-realm
+- lore
+- marriage
+- social-practices
+status: complete
+world: Both
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.072561+00:00'
 ---
+
 
 # Marriage Between Worlds
 *"Love knows no depth nor height, but society demands both waters learn to breathe the same air."*

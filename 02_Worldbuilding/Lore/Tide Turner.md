@@ -1,12 +1,23 @@
 ---
-tags: [legendary-figures, heroes, tidal-magic, historical-figures, prophecies]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- heroes
+- historical-figures
+- legendary-figures
+- lore
+- prophecies
+- tidal-magic
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:47.559688+00:00'
 ---
+
+
 
 # Tide Turner
 
@@ -483,3 +494,8 @@ The Tide Turner concept provides extensive opportunities for long-term character
 **Historical Connection**: Linking modern adventures to ancient legends and prophecies
 
 The Tide Turner serves as both inspiration and cautionary tale, representing the potential for individuals to achieve legendary status while highlighting the responsibilities and dangers that accompany great power. Whether characters seek to fulfill the prophecy themselves or support others in doing so, the concept provides a rich foundation for memorable adventures and meaningful character development in the underwater world of Aquabyssos.
+
+
+## Connections
+
+- [[Tide Turner's Trident]]

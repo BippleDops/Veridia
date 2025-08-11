@@ -1,11 +1,23 @@
 ---
-tags: [npc, religious, hermit, tragic]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- hermit
+- npc
+- religious
+- tragic
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.217181+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Last Priest
 
@@ -18,7 +30,7 @@ Once part of a thriving religious hierarchy, he now stands alone as keeper of an
 
 ## Statistics
 **Medium humanoid (human)**
-- **AC** 12 (Holy Vestments), **HP** 52, **Speed** 25 ft, swim 30 ft
+- **AS** 12 (Holy Vestments), **HP** 52, **Speed** 25 ft, swim 30 ft
 - **STR** 10 **DEX** 12 **CON** 14 **INT** 16 **WIS** 18 **CHA** 15
 - **Skills** Religion +9, History +7, Medicine +8, Insight +8
 - **Spells** As 7th-level cleric (domains: Knowledge, Life)
@@ -114,3 +126,38 @@ If Father Aquilus dies, his death could galvanize the underground faith communit
 
 ## DM Notes
 The Last Priest embodies themes of faith versus authority, cultural preservation, and personal sacrifice. Use him to explore religious freedom, the cost of standing up for beliefs, and the value of tradition in changing times.
+
+
+## Connections
+
+- [[Old Valdris]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

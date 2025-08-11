@@ -1,25 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.270579+00:00'
+created: '2025-08-11T13:08:51.270579+00:00'
+status: draft
 tags:
-  - faction
-  - military
-  - shadow-magic
-  - wartime-organization
-  - aquabyssos
-  - temporary-alliance
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "expansion"
-created: 2025-08-11
-alignment: "Chaotic Neutral"
-size: "500+ active combatants"
-headquarters: "[[The War Room Sanctum]]"
-leader: "[[War Commander Umbral Strategist]]"
-  - Category/Group
-MyContainer: None
-MyCategory: Organization
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
 
 # The Shadow War Coalition
 *Unity Born From Darkness*

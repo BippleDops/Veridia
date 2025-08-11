@@ -1,24 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.663663+00:00'
+created: '2025-08-11T13:08:49.663663+00:00'
+status: draft
 tags:
-  - npc
-  - ruler
-  - royalty
-  - corrupted
+- both
+- draft
 type: NPC
-race: Human
-class: Sorcerer/Noble
-level: 15
-alignment: Lawful Neutral (shifting)
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "[[02_Worldbuilding/Groups/The Crystal Throne]]"
-status: Alive (Stage 2 Corruption)
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/queen_seraphina.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Queen Seraphina Lumengarde
 *The Crystal Queen, Light of Aethermoor*
@@ -166,3 +158,31 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Ordering investigation
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Secretly searching
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Needs peacekeepers
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[The Forsaken Consortium Collective]]
+- [[Aether Crystals]]
+- [[The Resonance Forge Hammer]]
+- [[Aetheron]]
+- [[Silver Mask]]
+- [[The Final Choice]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[Aether Crystal]]
+- [[Commander Thrace Ironwood]]
+- [[Emperor Thalassius the Wise]]
+- [[Knight]]
+- [[Lady Jade Clawgrip]]
+- [[Lighthouse Keeper]]
+- [[Professor Aldric Crystalweaver]]
+- [[The Bloodline Carrier]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Crystal Gardens]]
+- [[Harbor District Customs House]]
+- [[The Crystalline Foundry]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,19 +1,29 @@
 ---
-tags: [organization, military-unit, aquabyssos, elite-guards, shadow-watchers, specialized-forces]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-organization_type: "Elite Military Unit"
-affiliation: "[[02_Worldbuilding/Places/Aquabyssos]] Government"
-leadership: "[[Captain Marcus Voidward]]"
-size: "~200 Active Members"
-specialization: "Shadow Corruption & Deep Threat Response"
-headquarters: "[[The Shadowwatch Bastion]]"
+tags:
+- aquabyssos
+- complete
+- elite-guards
+- military-unit
+- organization
+- shadow-watchers
+- specialized-forces
+status: complete
+world: Aquabyssos
+type: Group
+organization_type: Elite Military Unit
+affiliation: '[[02_Worldbuilding/Places/Aquabyssos]] Government'
+leadership: '[[Captain Marcus Voidward]]'
+size: ~200 Active Members
+specialization: Shadow Corruption & Deep Threat Response
+headquarters: '[[The Shadowwatch Bastion]]'
 founded: 2987
-motto: "Where Light Cannot Reach, We Stand Guard"
-created_by: "Claude"
+motto: Where Light Cannot Reach, We Stand Guard
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:51.395989+00:00'
 ---
+
+
 
 # The Deepwatch Guard
 *Elite Sentinels Against the Darkness Below*
@@ -407,3 +417,13 @@ The Deepwatch Guard serves as Aquabyssos's most specialized military unit, train
 - Emphasize teamwork and coordination in dangerous situations
 - Allow players to contribute to developing new anti-shadow tactics
 - Show consequences of failure through civilian casualties and spreading corruption
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Tidal Chambers]]
+- [[The Memory Storm Fields]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,45 +1,57 @@
 ---
-tags: [location, aquabyssos, temple, death, memory]
-location_name: "Sister Morwyn's Memorial Sanctuary"
-location_type: "Sacred Memorial Site"
-parent_location: "[[Abyssos Prime]]"
+tags:
+- aquabyssos
+- both
+- complete
+- death
+- location
+- memory
+- temple
+location_name: Sister Morwyn's Memorial Sanctuary
+location_type: Sacred Memorial Site
+parent_location: '[[Abyssos Prime]]'
 sub_locations:
-  - "[[02_Worldbuilding/Places/The Archive of Unremembered Things]]"
-  - "[[Memory Vaults]]"
-  - "[[Garden of Whispered Names]]"
-  - "[[Hall of Final Echoes]]"
-depth: "2500-2800 feet"
+- '[[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
+- '[[Memory Vaults]]'
+- '[[Garden of Whispered Names]]'
+- '[[Hall of Final Echoes]]'
+depth: 2500-2800 feet
 population: 50
-government: "Sacred Trust"
-ruler: "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
+government: Sacred Trust
+ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 factions:
-  - "[[02_Worldbuilding/Groups/Order of the Drowned Star]]"
-  - "[[Memory Keepers]]"
-  - "[[The Forgiveness Seekers]]"
+- '[[02_Worldbuilding/Groups/Order of the Drowned Star]]'
+- '[[Memory Keepers]]'
+- '[[The Forgiveness Seekers]]'
 danger_level: 3
 visited: false
 discovered: true
 services:
-  - "Death Rites"
-  - "Memory Preservation"
-  - "Final Forgiveness"
-  - "Soul Guidance"
-  - "Grief Counseling"
+- Death Rites
+- Memory Preservation
+- Final Forgiveness
+- Soul Guidance
+- Grief Counseling
 notable_npcs:
-  - "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
-  - "[[Brother Thaddeus the Rememberer]]"
-  - "[[Echo-Keeper Selin]]"
-current_state: "Active memorial site"
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[Brother Thaddeus the Rememberer]]'
+- '[[Echo-Keeper Selin]]'
+current_state: Active memorial site
 temporal_stability: 95
-shadow_density: "Low"
-pressure_effects: "Moderate"
-status: "complete"
-created: 2025-08-11
-  - Category/Place
+shadow_density: Low
+pressure_effects: Moderate
+status: complete
+created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.127688+00:00'
+type: Location
 ---
+
+
+
 
 # Sister Morwyn's Memorial Sanctuary
 ## Where the Dead Are Not Forgotten
@@ -333,3 +345,8 @@ The sanctuary works best as:
 ---
 
 *"In the deepest waters, where hope seems lost, Sister Morwyn teaches us that remembrance itself is resurrection."*
+
+
+## Connections
+
+- [[Prophet Nerida Voidgazer]]

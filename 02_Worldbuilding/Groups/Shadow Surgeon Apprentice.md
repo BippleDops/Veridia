@@ -1,23 +1,33 @@
 ---
-tags: [faction, group, medical-organization, shadow-surgery, apprenticeship, aquabyssos, healing-arts]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Medical Training Organization"
-alignment: "Neutral Good (Healing Focus)"
-headquarters: "[[The Umbral Medical Academy]]"
-leader: "[[Master Surgeon Thane Shadowmend]]"
-members: "~80 apprentices, ~25 master surgeons, ~120 support staff"
-influence: "Shadow Medical Community, Specialized Healthcare"
-purpose: "Train the next generation of shadow surgery specialists"
-created_by: "auto-stub"
+tags:
+- apprenticeship
+- aquabyssos
+- complete
+- faction
+- group
+- healing-arts
+- medical-organization
+- shadow-surgery
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Medical Training Organization
+alignment: Neutral Good (Healing Focus)
+headquarters: '[[The Umbral Medical Academy]]'
+leader: '[[Master Surgeon Thane Shadowmend]]'
+members: ~80 apprentices, ~25 master surgeons, ~120 support staff
+influence: Shadow Medical Community, Specialized Healthcare
+purpose: Train the next generation of shadow surgery specialists
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Medical Community
 MyCategory: Training Organization
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.181337+00:00'
 ---
+
+
 
 # Shadow Surgeon Apprentice
 *The Future of Shadow Medicine, Healers of the Depths, Tomorrow's Medical Masters*
@@ -546,3 +556,8 @@ Balancing research needs with educational and service responsibilities.
 - [[Shadow Medical Ethics]]
 - [[Shadow Medical Training Methods]]
 - [[Shadow Community Healthcare]]
+
+
+## Connections
+
+- [[Party Shadows]]

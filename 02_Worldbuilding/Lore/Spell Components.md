@@ -1,9 +1,24 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, spell-components, magic, underwater, materials, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aquabyssos
+- both
+- complete
+- lore
+- magic
+- materials
+- spell-components
+- underwater
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.279883+00:00'
+created: '2025-08-11T13:08:48.279883+00:00'
+type: Lore
 ---
+
+
 
 # Spell Components
 

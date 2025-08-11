@@ -1,23 +1,35 @@
 ---
-tags: [quest, aquabyssos, environmental, crisis, coral-reef, biological, investigation, time-sensitive, community-impact]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-category: "Environmental Crisis"
-quest_type: "Investigation/Environmental Rescue"
-level_range: "5-8"
-party_size: "4-6 characters"
-duration: "3-5 sessions"
-difficulty: "Moderate to Hard"
-primary_location: "[[Coral Courts]] and surrounding reef systems"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- biological
+- community-impact
+- complete
+- coral-reef
+- crisis
+- environmental
+- investigation
+- quest
+- time-sensitive
+status: complete
+world: Aquabyssos
+type: Location
+category: Environmental Crisis
+quest_type: Investigation/Environmental Rescue
+level_range: 5-8
+party_size: 4-6 characters
+duration: 3-5 sessions
+difficulty: Moderate to Hard
+primary_location: '[[Coral Courts]] and surrounding reef systems'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Quest
+updated: '2025-08-11T13:08:50.957184+00:00'
 MyContainer: None
 MyCategory: Environmental Quest
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # The Mothercoral Crisis
 *When the Foundation of Life Begins to Die*
@@ -241,3 +253,8 @@ As the crisis escalates, panic spreads through [[Aquabyssos]] society:
 
 *"The ocean gave us life through the Mothercoral, and now we must give life back to the ocean. This crisis will test not just our knowledge and skills, but our commitment to the world that sustains us."*  
 — Dr. Reef Tender, final mission briefing
+
+
+## Connections
+
+- [[Lumengarde]]

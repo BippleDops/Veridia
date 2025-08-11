@@ -1,25 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.429908+00:00'
+created: '2025-08-11T13:08:51.429908+00:00'
+status: draft
 tags:
-  - faction
-  - industrial
-  - abandoned-territories
-  - scavenger-organization
-  - aethermoor
-  - post-catastrophe
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-created_by: "expansion"
-created: 2025-08-11
-alignment: "Neutral"
-size: "300+ members"
-headquarters: "[[The Grand Abandonment - Central Warehouse Complex]]"
-leader: "[[Foreman Prime Salvage Master]]"
-  - Category/Group
-MyContainer: None
-MyCategory: Organization
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Forsaken Consortium Collective
 *Claiming What Others Left Behind*
@@ -595,3 +586,7 @@ Massive warehouse and manufacturing complex originally built by the [[Silverscal
 - **The Trade Mission** - Establishing international business relationships and partnerships
 - **The Community Integration** - Building cooperation with surrounding populations and groups
 EOF < /dev/null
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

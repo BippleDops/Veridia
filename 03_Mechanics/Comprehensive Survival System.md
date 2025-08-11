@@ -1,10 +1,23 @@
 ---
-tags: [mechanics, aquabyssos, survival, comprehensive, reference]
-system: "D&D 5e"
-mechanic_type: "Complete Survival System"
+tags:
+- aquabyssos
+- both
+- comprehensive
+- draft
+- mechanics
+- reference
+- survival
+system: D&D 5e
+mechanic_type: Complete Survival System
 created: 2025-08-07
 version: 2.0
+world: Both
+updated: '2025-08-11T13:08:47.054825+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 # Comprehensive Aquabyssos Survival System
 ## Complete Mechanics for Underwater Horror Survival

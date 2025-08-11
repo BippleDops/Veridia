@@ -1,21 +1,41 @@
 ---
-tags: [location, aquabyssos, atoll, sinking, natural-disaster, coral, wildlife, exploration, danger, tragedy]
-status: "complete"
-world: "Aquabyssos"
-type: "Cursed Natural Formation"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- atoll
+- complete
+- coral
+- cursed-natural-formation
+- danger
+- exploration
+- location
+- natural-disaster
+- sinking
+- tragedy
+- wildlife
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Doomed Atoll"
-parent_location: "The Twilight Shallows"
-depth: "50-200 feet (and descending)"
+updated: '2025-08-11T13:08:50.633385+00:00'
+location_type: Doomed Atoll
+parent_location: The Twilight Shallows
+depth: 50-200 feet (and descending)
 danger_level: 6
-population: "~800 residents (rapidly evacuating)"
-government: "Emergency council led by [[Elder Coral Doomteller]]"
-rate_of_descent: "6 inches per day"
-time_remaining: "Estimated 3-4 months before complete submersion"
-related_entities: ["[[Free Current]]", "[[The Depth Market]]", "[[Parliament of Echoes]]", "[[Abyssos Prime]]", "[[The Memory Meadows]]"]
+population: ~800 residents (rapidly evacuating)
+government: Emergency council led by [[Elder Coral Doomteller]]
+rate_of_descent: 6 inches per day
+time_remaining: Estimated 3-4 months before complete submersion
+related_entities:
+- '[[Free Current]]'
+- '[[The Depth Market]]'
+- '[[Parliament of Echoes]]'
+- '[[Abyssos Prime]]'
+- '[[The Memory Meadows]]'
 ---
+
+
+
 
 # The Sinking Atoll
 *A Paradise Racing Against Time*
@@ -452,3 +472,8 @@ The atoll's descent defies conventional understanding of marine geology. Neither
 - [[Ancient Ocean Anchors]]
 - [[Deep-Sea Cultural Protocols]]
 - [[Sinking Phenomenon Research]]
+
+
+## Connections
+
+- [[The Wandering Atoll]]

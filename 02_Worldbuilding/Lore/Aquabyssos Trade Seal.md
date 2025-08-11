@@ -1,17 +1,33 @@
 ---
-tags: [artifact, trade, diplomacy, authentication, aquabyssos, magical-item, political-tool]
-status: "complete"
-world: "Aquabyssos"
-type: "Magical Artifact"
+tags:
+- aquabyssos
+- artifact
+- authentication
+- complete
+- diplomacy
+- magical-artifact
+- magical-item
+- political-tool
+- trade
+status: complete
+world: Aquabyssos
+type: Lore
 danger_level: 3
-rarity: "Legendary (Government Controlled)"
-creator: "[[02_Worldbuilding/Lore/Thalassius the Wise]]"
-created_date: "Second Age of Aquabyssos"
-current_location: "[[02_Worldbuilding/Places/Parliament of Echoes]] Vault"
+rarity: Legendary (Government Controlled)
+creator: '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
+created_date: Second Age of Aquabyssos
+current_location: '[[02_Worldbuilding/Places/Parliament of Echoes]] Vault'
 created: 2025-08-08
-updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Places/Parliament of Echoes]]", "[[02_Worldbuilding/Lore/Thalassius the Wise]]", "[[02_Worldbuilding/Lore/The Seven Shards]]", "[[02_Worldbuilding/Groups/Silverscale Banking House]]"]
+updated: '2025-08-11T13:08:48.688548+00:00'
+related_entities:
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[02_Worldbuilding/Lore/Thalassius the Wise]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/Groups/Silverscale Banking House]]'
 ---
+
+
+
 
 # Aquabyssos Trade Seal
 *The Foundation of Underwater Commerce*
@@ -293,3 +309,8 @@ Research reveals that the Trade Seal contains fragments of [[02_Worldbuilding/Lo
 - [[Authenticity Verification]]
 - [[Magical Authentication]]
 - [[Governmental Legitimacy]]
+
+
+## Connections
+
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

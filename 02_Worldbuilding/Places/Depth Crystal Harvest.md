@@ -1,11 +1,23 @@
 ---
-tags: [location, mining, crystals, dangerous, economic]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- crystals
+- dangerous
+- economic
+- location
+- mining
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.561337+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Depth Crystal Harvest
 
@@ -82,3 +94,32 @@ Multiple mining sites scattered across three major trench systems, connected by 
 
 ## DM Notes
 Use this location for high-stakes rescue missions and industrial espionage. The extreme environment creates natural tension and urgency. Corporate politics can drive ongoing campaigns.
+
+
+## Connections
+
+- [[The Cerulean Trench]]
+
+
+## History
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

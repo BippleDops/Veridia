@@ -1,15 +1,26 @@
 ---
-tags: [npc, captain, marcus, naval, military, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- captain
+- complete
+- marcus
+- military
+- naval
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.489603+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Captain Marcus
 
@@ -37,7 +48,7 @@ He wears a modified naval uniform designed for underwater operations, complete w
 
 ## Statistics
 **Medium humanoid (human), lawful good**
-- **AC** 18 (Naval Plate)
+- **AS** 18 (Naval Plate)
 - **HP** 112 (15d10 + 30)
 - **Speed** 30 ft, swim 40 ft (enchanted armor)
 - **STR** 17 (+3) **DEX** 14 (+2) **CON** 16 (+3) **INT** 15 (+2) **WIS** 18 (+4) **CHA** 16 (+3)
@@ -104,3 +115,33 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 
 ## DM Notes
 Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for maritime adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

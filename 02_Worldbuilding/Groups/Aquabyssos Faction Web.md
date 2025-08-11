@@ -1,13 +1,23 @@
 ---
-tags: [factions, relationships, aquabyssos, politics]
-type: "faction-web"
-campaign: "Aquabyssos"
+tags:
+- aquabyssos
+- draft
+- faction-web
+- factions
+- politics
+- relationships
+type: Group
+campaign: Aquabyssos
 created: 2025-08-07
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:51.344065+00:00'
+status: draft
 ---
+
+
 
 # Aquabyssos Faction Relationship Web
 ## Political Powers of the Drowned Realm

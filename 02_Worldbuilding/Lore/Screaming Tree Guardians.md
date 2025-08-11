@@ -1,12 +1,21 @@
 ---
-tags: [lore, guardians, screaming-trees, creatures, forest-protectors]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- creatures
+- forest-protectors
+- guardians
+- lore
+- screaming-trees
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.059447+00:00'
 ---
+
+
 
 # Screaming Tree Guardians
 
@@ -38,3 +47,8 @@ Permanent guardians active indefinitely while forest remains healthy.
 
 ## Campaign Use
 Provides environmental challenges and opportunities for characters to interact with nature-based protectors.
+
+
+## Connections
+
+- [[The Seven Shards]]

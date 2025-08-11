@@ -1,21 +1,36 @@
 ---
-tags: [location, district, trading, commercial, port, bustling]
-status: "completed"
-world: "Aethermoor"
-parent_location: "[[02_Worldbuilding/Places/Port Meridian]]"
-region: "[[The Azure Coast]]"
-type: "Commercial District"
+tags:
+- aethermoor
+- bustling
+- commercial
+- commercial-district
+- completed
+- district
+- location
+- port
+- trading
+status: completed
+world: Aethermoor
+parent_location: '[[02_Worldbuilding/Places/Port Meridian]]'
+region: '[[The Azure Coast]]'
+type: Location
 population: 85000
 danger_level: 4
-government: "[[Merchant Council of Port Meridian]]"
-leader: "[[Trade Master Silas Goldwater]]"
-specialties: ["International Trade", "Crystal Commerce", "Information Brokerage"]
-created: 2025-08-08
-  - Category/Place
+government: '[[Merchant Council of Port Meridian]]'
+leader: '[[Trade Master Silas Goldwater]]'
+specialties:
+- International Trade
+- Crystal Commerce
+- Information Brokerage
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.679205+00:00'
 ---
+
+
+
 
 # Port Meridian - Merchant Quarter
 *The Golden Heart of Commerce*
@@ -494,3 +509,9 @@ Characters operating in the Merchant Quarter gain access to:
 
 > [!info] DM Note
 > The Merchant Quarter serves as an excellent hub for adventures involving intrigue, economics, and international relations. Use the various trading houses and criminal organizations to create complex webs of loyalty and betrayal. The economic mechanics can provide ongoing campaign elements through investments and business ventures, while the foreign connections offer opportunities for travel to other locations or the introduction of new threats and allies.
+
+
+## Connections
+
+- [[Crystallium]]
+- [[Port Meridian - Market Square]]

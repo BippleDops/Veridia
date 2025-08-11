@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, diplomacy, neutral, meeting-place, politics]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Diplomatic Neutral Zone"
-parent_location: "Inter-District Boundary"
-depth: "8,000 feet"
-danger_level: 2
-population: "~400 diplomats, mediators, and support staff"
-government: "International Oversight Committee"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.696145+00:00'
+created: '2025-08-11T13:08:50.696145+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Neutral Ground
 *Where All Currents Meet in Peace*
@@ -599,3 +594,11 @@ The Neutral Ground serves as [[Aquabyssos]]'s premier diplomatic facility, a car
 - [[Truth Verification Magic]]
 - [[Cultural Exchange Programs]]
 - [[Inter-Realm Relations]]
+
+
+## Connections
+
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Mediator Serenity Stillwater]]
+- [[The Bathyal Palace]]
+- [[The Neutral Current Tavern]]

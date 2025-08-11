@@ -1,23 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.239156+00:00'
+created: '2025-08-11T13:08:51.239156+00:00'
+status: draft
 tags:
-  - faction
-  - cult
-  - monster
-  - aquatic
-  - religious
-type: Monster Cult
-alignment: Chaotic Evil
-headquarters: "[[02_Worldbuilding/Places/The Sunken Cathedral of Stars]]"
-leader: "[[High Priest Dagon Deepcaller]]"
-status: Active
-power_level: Regional Threat
-created: 2025-08-09
-image: "04_Resources/Assets/Factions/leviathan_cult.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Leviathan Cult
 *In the Deep We Trust, From the Deep We Rise*
@@ -244,3 +237,7 @@ The Leviathan Cult is a fanatical religious organization dedicated to awakening 
 - Breeding program nearing completion of perfect hybrid warriors
 - Infiltration of major naval facilities almost complete
 - Weather manipulation experiments affecting entire regional climate
+
+## Connections
+
+- [[Shadow Independence Levels]]

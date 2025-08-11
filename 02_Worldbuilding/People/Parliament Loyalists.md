@@ -1,22 +1,16 @@
 ---
-tags: [faction, politics, loyalists, aquabyssos, parliament, traditionalist]
-status: "active"
-world: "Aquabyssos"
-type: "faction"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-faction_type: "Political Movement"
-allegiance: "Parliamentary Government"
-size: "Large (500+ active members)"
-location: "The Marble Halls"
-threat_level: "Moderate"
-influence: "High"
-  - Category/People
-MyContainer: None
-MyCategory: Faction
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.808033+00:00'
+created: '2025-08-11T13:08:49.808033+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Parliament Loyalists
 
@@ -292,3 +286,10 @@ Loyalists who believe the faction needs to embrace more significant changes to s
 - A crisis requires the party to temporarily take over governmental functions while the leadership is incapacitated
 - The party must navigate complex political negotiations between the Loyalists and their enemies
 - Ancient magical compulsions affecting Loyalist behavior are discovered, requiring careful investigation and resolution
+
+
+## Connections
+
+- [[Assassin]]
+- [[Senator]]
+- [[The Biomancers]]

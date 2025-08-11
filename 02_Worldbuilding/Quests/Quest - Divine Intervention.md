@@ -1,19 +1,29 @@
 ---
-tags: [quest, divine, cosmic-horror, deep-mother, gods, level-10-15, epic]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-level_range: "10-15"
-quest_type: "Divine/Cosmic Campaign Arc"
-estimated_sessions: "6-8"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- cosmic-horror
+- deep-mother
+- divine
+- epic
+- gods
+- level-10-15
+- quest
+status: complete
+world: Aethermoor
+type: Lore
+level_range: 10-15
+quest_type: Divine/Cosmic Campaign Arc
+estimated_sessions: 6-8
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Quest
+updated: '2025-08-11T13:08:50.068027+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Quest - Divine Intervention
 *When the Gods Fall Silent and the Deep Mother Stirs, Mortals Must Choose Their Path to Divinity*
@@ -472,3 +482,16 @@ If peaceful resolution fails, the party may find themselves in the middle of a w
 - **Respect boundaries**: Some players may be uncomfortable with religious themes
 
 This quest challenges players to grapple with the biggest possible questions—the nature of divinity, the relationship between mortals and cosmic forces, and how to handle changes that affect the fundamental nature of reality itself. Success requires both courage to face the unknown and wisdom to find solutions that preserve what's valuable about existing systems while enabling necessary growth.
+
+
+## Connections
+
+- [[The Crimson Sage]]
+- [[The Shattered Sanctum]]
+- [[Vault Breach]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Plague of Crystals]]
+- [[Quest - The Pretender's Crown]]
+- [[Quest - The Seventh Shard]]
+- [[The Crown's Burden]]
+- [[The Sunken Library of Thalassius]]

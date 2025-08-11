@@ -1,18 +1,26 @@
 ---
-tags: [quest, aethermoor, crystal-corruption, confederacy, shadow-magic, memory-magic]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- confederacy
+- crystal-corruption
+- memory-magic
+- quest
+- shadow-magic
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-level_range: "3-5"
-party_size: "3-6"
-estimated_duration: "4-6 sessions"
+updated: '2025-08-11T13:08:50.038269+00:00'
+level_range: 3-5
+party_size: 3-6
+estimated_duration: 4-6 sessions
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 # The Goldspire Confederacy Crisis
 

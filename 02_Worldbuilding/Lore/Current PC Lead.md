@@ -1,12 +1,20 @@
 ---
-tags: [lore, leadership, party-dynamics, campaign-mechanics]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-mechanics
+- complete
+- leadership
+- lore
+- party-dynamics
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.832427+00:00'
 ---
+
+
 
 # Current PC Lead
 
@@ -97,3 +105,8 @@ The Abyssal currents actually respond to strong leadership presence. Parties wit
 ## Campaign Use
 
 Encourage players to naturally assume leadership roles based on their characters' strengths and the situation. Use leadership transitions as opportunities for character development and to highlight different party members' expertise. Create scenarios that specifically require different types of leadership to showcase the value of this flexible approach.
+
+
+## Connections
+
+- [[Aethermoor to Aquabyssos Transition Guide]]

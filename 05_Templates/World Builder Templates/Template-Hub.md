@@ -1,10 +1,19 @@
 ---
 tags:
-  - Category/Hub
-MyContainer:
+- both
+- category/hub
+- draft
+MyContainer: null
 MyCategory: Hamlet <80
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:47.020637+00:00'
+created: '2025-08-11T13:08:47.020637+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 %% CODE BELOW IS TEMPLATER CODE. IT TRIGGERS THIS CODE WHEN THE NOTE IS CREATED USING THE META-BIND BUTTONS %% 
 <%*
@@ -268,7 +277,7 @@ This is the content
 `BUTTON[button_place]` `BUTTON[button_person]` **C - Commerce** (Economics and Entertainment) - Shops, Malls, Theatres, Markets, Carnivals, Electronics
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Commerce"
@@ -280,7 +289,7 @@ SORT file.name ASC
 `BUTTON[button_place]` `BUTTON[button_person]` **A - Agriculture** (Resource Production and Collection) - Farms, Mines, Fisheries, Lumber Yards, Oil Rigs, Power Plants
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Agriculture"
@@ -292,7 +301,7 @@ SORT file.name ASC
 `BUTTON[button_place]` `BUTTON[button_person]` **M - Military** (Protection and Transportation) - Forts, Bases, Armories, Walls, Seaports, Airports, Spaceports
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Military"
@@ -305,7 +314,7 @@ SORT file.name ASC
 `BUTTON[button_place]` `BUTTON[button_person]` **P - Philosophy** (Religion and Education) - Houses of Worship, Schools, Universities, Laboratories, Arboretums
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Philosophy"
@@ -317,7 +326,7 @@ SORT file.name ASC
 `BUTTON[button_place]` `BUTTON[button_person]` **I - Industrial** (Resource Utilization and Processing) - Factories, Metalworks, Bakeries, Artisans, Jewelers
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Industrial"
@@ -329,7 +338,7 @@ SORT file.name ASC
 `BUTTON[button_place]` `BUTTON[button_person]` **N - Nesting** (Housing and Civil Engineering) - Residential Areas, Bridges, Parks, Inns/Hotels
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Nesting"
@@ -341,7 +350,7 @@ SORT file.name ASC
 `BUTTON[button_place]` `BUTTON[button_person]` **G - Government** (Legislation and Judicial) - Town Halls, Courthouses, Tourist Stops, Monuments/Landmarks
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Place(s)", MyCategory AS "Type"
+TABLE WITHOUT ID link(file.name) AC "Place(s)", MyCategory AC "Type"
 FROM "02_Worldbuilding/Places"
 WHERE contains(MyContainer, this.file.link)
   AND MyCategory = "Government"

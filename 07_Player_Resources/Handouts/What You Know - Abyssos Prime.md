@@ -1,10 +1,22 @@
 ---
-tags: [player-handout, location-knowledge, abyssos-prime, spoiler-free]
-type: "player-resource"
-location: "Abyssos Prime"
-depth: "2,000 ft"
+tags:
+- abyssos-prime
+- both
+- draft
+- location-knowledge
+- player-handout
+- player-resource
+- spoiler-free
+type: Lore
+location: Abyssos Prime
+depth: 2,000 ft
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.039620+00:00'
+status: draft
 ---
+
+
 
 # What You Know: Abyssos Prime
 ## The Political Heart of Aquabyssos

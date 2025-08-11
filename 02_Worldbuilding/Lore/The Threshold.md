@@ -1,17 +1,32 @@
 ---
-tags: [lore, location, dimensional-barrier, threshold, catastrophe-site, reality-breach, dangerous-zone, ancient-magic, interdimensional-gateway, betrayer-legacy]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- ancient-magic
+- betrayer-legacy
+- both-worlds
+- catastrophe-site
+- complete
+- dangerous-zone
+- dimensional-barrier
+- interdimensional-gateway
+- location
+- lore
+- reality-breach
+- threshold
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Dimensional Nexus"
-scope: "Reality-threatening anomaly"
+updated: '2025-08-11T13:08:47.895527+00:00'
+location_type: Dimensional Nexus
+scope: Reality-threatening anomaly
 danger_level: 5
-active_period: "Post-Catastrophe to present"
-primary_effects: "Dimensional instability and reality distortion"
+active_period: Post-Catastrophe to present
+primary_effects: Dimensional instability and reality distortion
 ---
+
+
+
 
 # The Threshold
 
@@ -313,3 +328,8 @@ Crown fragments are rebuilding [[The Crown of Stars]] in new form compatible wit
 - [[Face the Ancient Threat]] - Prophecies about Threshold-centered events
 - [[INV-002]], [[INV-003]], [[INV-006]] - Official Threshold investigations
 - [[The Forgotten Archive]] - Hidden repository of Threshold research
+
+## Connections
+
+- [[Depth Effect Quick Reference]]
+- [[Environmental Hazards]]

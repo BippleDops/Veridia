@@ -1,14 +1,39 @@
 ---
-tags: [lore, religion, ceremony, aquabyssos, pressure, baptism, initiation, underwater-rituals, depth-adaptation, spiritual-transformation]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- baptism
+- ceremony
+- complete
+- depth-adaptation
+- initiation
+- lore
+- pressure
+- religion
+- spiritual-transformation
+- underwater-rituals
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-connections: ["[[Deep Mother Cult Practices]]", "[[Kelp Forest Monasteries]]", "[[Temple of the First Tide]]", "[[The Drowned God]]", "[[Pressure Adaptation System]]", "[[Aquabyssos Depth Caste System]]", "[[Tidal Memory Ceremonies]]"]
-themes: ["pressure_initiation", "depth_transformation", "underwater_baptism", "spiritual_adaptation", "aquatic_communion"]
+updated: '2025-08-11T13:08:49.369496+00:00'
+connections:
+- '[[Deep Mother Cult Practices]]'
+- '[[Kelp Forest Monasteries]]'
+- '[[Temple of the First Tide]]'
+- '[[The Drowned God]]'
+- '[[Pressure Adaptation System]]'
+- '[[Aquabyssos Depth Caste System]]'
+- '[[Tidal Memory Ceremonies]]'
+themes:
+- pressure_initiation
+- depth_transformation
+- underwater_baptism
+- spiritual_adaptation
+- aquatic_communion
 ---
+
+
 
 # The Pressure Baptism Rites
 
@@ -287,3 +312,8 @@ Pressure baptism serves as a powerful metaphor for the fundamental transformatio
 The ritual also highlights themes of sacrifice, community, and the price of belonging, exploring the question of how much change individuals and communities are willing to accept in pursuit of greater spiritual and social goals. These themes resonate throughout the campaign's exploration of identity, transformation, and the costs and benefits of fundamental change.
 
 *"In the depths, we learn that transformation is not loss but discovery - not abandonment of what we were, but revelation of what we were always meant to become."* - Depth Warden Prima Benedictus Abyssal, Chief Administrator of the Great Baptistery
+
+## Connections
+
+- [[Kraken Territories]]
+- [[Temple of the First Tide]]

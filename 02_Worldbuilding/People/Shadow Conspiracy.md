@@ -1,18 +1,29 @@
 ---
-tags: [organization, shadow, conspiracy, espionage, aquabyssos, information-broker, underground, mysterious]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-role: "Shadow Network"
-affiliation: "Independent (Multiple Factions)"
-size: "Unknown (Estimated 500-2000 Members)"
-location: "[[02_Worldbuilding/Places/The Shadow Markets]]"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- espionage
+- information-broker
+- mysterious
+- organization
+- shadow
+- underground
+status: complete
+world: Aquabyssos
+type: NPC
+role: Shadow Network
+affiliation: Independent (Multiple Factions)
+size: Unknown (Estimated 500-2000 Members)
+location: '[[02_Worldbuilding/Places/The Shadow Markets]]'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-influence: "Extensive"
-secrecy_level: "Maximum"
+updated: '2025-08-11T13:08:49.956408+00:00'
+influence: Extensive
+secrecy_level: Maximum
 ---
+
+
 
 # Shadow Conspiracy
 *The Network That Doesn't Exist*
@@ -485,3 +496,10 @@ The most disturbing possibility is that the conspiracy is working to alter funda
 - [[02_Worldbuilding/People/Vex Shadowthorn]] - Criminal organization ally
 - [[02_Worldbuilding/Groups/Independent Smugglers]] - Operational support network
 - [[02_Worldbuilding/Places/Abyssos Prime]] - Major operational theater
+
+
+## Connections
+
+- [[Original Glaucus]]
+- [[Tethyan Hegemony]]
+- [[Ambush Point]]

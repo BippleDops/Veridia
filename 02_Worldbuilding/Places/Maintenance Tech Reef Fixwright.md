@@ -1,0 +1,32 @@
+---
+tags:
+- aethermoor
+- draft
+- location
+type: Location
+world: Aethermoor
+status: draft
+created: '2025-08-11T13:08:45.813403+00:00'
+updated: '2025-08-11T13:08:51.008405+00:00'
+danger_level: Moderate
+---
+
+
+## Overview
+
+TODO
+## History
+
+TODO
+## Layout
+
+TODO
+## Notables
+
+TODO
+## Threats
+
+TODO
+## Hooks
+
+TODO

@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.330872+00:00'
+created: '2025-08-11T13:08:50.330872+00:00'
+status: draft
 tags:
-  - location
-  - palace
-  - undead
-  - criminal
-  - headquarters
-type: Undead Palace
-region: "[[02_Worldbuilding/Places/The Shattered Isles]]"
-danger_level: Extreme
-controlled_by: "[[02_Worldbuilding/Groups/The Carrion Court]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/bone_palace_sorrows.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Bone Palace of Sorrows
 *Where Death Holds Court and Eternity Begins*
@@ -36,3 +32,32 @@ The Bone Palace serves as the seat of [[02_Worldbuilding/Groups/The Carrion Cour
 - **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Transport undead agents to mainland
 - **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious relationship with ancient undead knowledge
 - **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of necromantic artifacts and knowledge
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

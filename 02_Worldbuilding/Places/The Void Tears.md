@@ -1,18 +1,34 @@
 ---
-tags: [location, phenomenon, mystical, void, dimensional, catastrophic, reality-breach, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "Dimensional Anomaly"
+tags:
+- aethermoor
+- catastrophic
+- complete
+- dimensional
+- dimensional-anomaly
+- location
+- mystical
+- phenomenon
+- reality-breach
+- void
+status: complete
+world: Aethermoor
+type: Location
 danger_level: 10
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-controlled_by: "Nobody (Chaotic Phenomenon)"
-size: "Variable (Individual tears 5-100 feet diameter)"
-frequency: "Unpredictable manifestation"
-threat_status: "Critical - Reality Destabilization"
+region: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+controlled_by: Nobody (Chaotic Phenomenon)
+size: Variable (Individual tears 5-100 feet diameter)
+frequency: Unpredictable manifestation
+threat_status: Critical - Reality Destabilization
 created: 2025-08-09
-updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Places/The Crystal Hive Collective]]", "[[02_Worldbuilding/People/The Crimson Sage]]", "[[02_Worldbuilding/Places/The Sundered Vaults]]", "[[Crystal Wardens]]"]
+updated: '2025-08-11T13:08:50.424908+00:00'
+related_entities:
+- '[[02_Worldbuilding/Places/The Crystal Hive Collective]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/Places/The Sundered Vaults]]'
+- '[[Crystal Wardens]]'
 ---
+
+
 
 # The Void Tears
 *Where Reality Bleeds Into Nothingness*

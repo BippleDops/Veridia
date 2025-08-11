@@ -1,17 +1,32 @@
 ---
-tags: [magic-items, artifacts, enchanted-equipment, both-worlds, aquabyssos, aethermoor, underwater-magic, surface-magic, cross-realm-items, magical-crafting]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- artifacts
+- both-worlds
+- complete
+- cross-realm-items
+- enchanted-equipment
+- lore
+- magic-items
+- magical-crafting
+- surface-magic
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-item_categories: "Comprehensive Catalog"
-scope: "Both Worlds"
-application: "Adventure Equipment"
-crafting_traditions: "Multiple Cultures"
-magical_schools: "All Schools"
+updated: '2025-08-11T13:08:48.958871+00:00'
+item_categories: Comprehensive Catalog
+scope: Both Worlds
+application: Adventure Equipment
+crafting_traditions: Multiple Cultures
+magical_schools: All Schools
 ---
+
+
+
 
 # Magic Items
 *Enchanted Artifacts of Both Worlds*
@@ -339,3 +354,9 @@ Upgrade pathways provide long-term character development goals while ensuring th
 - [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Regulatory authority for cross-realm magical item trade
 - [[02_Worldbuilding/People/Master Artificer Coral Gemwright]] - Leading expert in cross-realm magical item development
 - [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat driving protective item development
+
+
+## Connections
+
+- [[Master Artificers Guild]]
+- [[Eastern Kingdoms 2]]

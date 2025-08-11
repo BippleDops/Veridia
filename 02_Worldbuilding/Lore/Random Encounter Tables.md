@@ -1,12 +1,21 @@
 ---
-tags: [lore, encounters, tables, campaign-tools, random-events]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-tools
+- complete
+- encounters
+- lore
+- random-events
+- tables
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.239994+00:00'
 ---
+
+
 
 # Random Encounter Tables
 
@@ -107,3 +116,11 @@ The encounter tables are partially influenced by a dormant prophetic entity that
 ## Campaign Use
 
 Use these tables to create encounters that feel both surprising and inevitable. Weight probabilities based on ongoing storylines and character actions. Consider using failed encounter rolls as opportunities for foreshadowing or world-building moments rather than "nothing happens" results.
+
+
+## Connections
+
+- [[Crystal Mimics]]
+- [[Dock Worker Tomás]]
+- [[Prismatic Falls]]
+- [[Templater Advanced]]

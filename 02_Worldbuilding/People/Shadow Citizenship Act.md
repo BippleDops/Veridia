@@ -1,15 +1,25 @@
 ---
-tags: [lore, law, citizenship, shadow, politics, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- citizenship
+- complete
+- law
+- lore
+- politics
+- shadow
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.752279+00:00'
 ---
+
+
+
 
 # Shadow Citizenship Act
 
@@ -92,3 +102,38 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 
 ## DM Notes
 The Shadow Citizenship Act provides excellent framework for exploring themes of prejudice, citizenship, and social change. Use it to create moral dilemmas and political adventures while examining real-world issues through fantasy lens.
+
+
+## Connections
+
+- [[Senator Glaucus]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

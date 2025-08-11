@@ -1,13 +1,20 @@
 ---
 title: Encounter Builder & Combat Guide
-type: gm_resource
+type: Lore
 status: complete
 tags:
-  - gm-resource
-  - encounters
-  - combat
+- both
+- combat
+- complete
+- encounters
+- gm-resource
+- gm_resource
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.028616+00:00'
 ---
+
+
 
 # Encounter Builder
 *Crafting Memorable Conflicts in the Depths*

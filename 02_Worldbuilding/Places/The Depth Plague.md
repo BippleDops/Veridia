@@ -1,16 +1,17 @@
 ---
-tags: [disease, hazard, corruption, aberration, quarantine]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-- Category/Place
-MyContainer: None
-MyCategory: Disease Zone
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.803029+00:00'
+created: '2025-08-11T13:08:50.803029+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Depth Plague
 
@@ -153,3 +154,11 @@ A military outpost on the edge of the [[Midnight Reaches]], staffed by the [[Ord
 
 ## Connected Threats
 The Depth Plague shows connections to other supernatural threats including the [[Coral Throne Syndicate]]'s smuggling operations, strange artifacts recovered from [[The Sunken Senate]], and the increasing activity of [[Deep Ones]] in the [[Abyssal Territories]].
+
+
+## Connections
+
+- [[Coral Throne Syndicate]]
+- [[Current Riders Guild]]
+- [[Memoriam]]
+- [[New Tethys]]

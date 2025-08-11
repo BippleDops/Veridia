@@ -1,17 +1,26 @@
 ---
-tags: [item, artifact, seven-shards, memory-magic, aquabyssos, legendary-artifact]
-status: "complete"
-world: "Aquabyssos"
-type: "artifact"
-item_type: "Legendary Artifact (The Seven Shards)"
-rarity: "Legendary"
-requires_attunement: "Yes"
-affiliation: "[[02_Worldbuilding/Lore/The Seven Shards]]"
-current_location: "Unknown (Hidden)"
+tags:
+- aquabyssos
+- artifact
+- complete
+- item
+- legendary-artifact
+- memory-magic
+- seven-shards
+status: complete
+world: Aquabyssos
+type: Item
+item_type: Legendary Artifact (The Seven Shards)
+rarity: Legendary
+requires_attunement: 'Yes'
+affiliation: '[[02_Worldbuilding/Lore/The Seven Shards]]'
+current_location: Unknown (Hidden)
 danger_level: 5
-created_by: "Claude"
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:47.102682+00:00'
 ---
+
 
 # The Tidal Shard of Memory
 *Crystalline Keeper of All That Was*

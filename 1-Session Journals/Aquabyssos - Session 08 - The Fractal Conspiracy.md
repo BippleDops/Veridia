@@ -1,31 +1,44 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, active]
+tags:
+- active
+- aquabyssos
+- parliament-shadows
+- planned
+- session
+- session-journal
 session_number: 8
-title: "The Fractal Conspiracy"
-date_played: 
-location: [[Multiple Recursion Levels]]
-depth: "Variable (Reality Layers)"
+title: The Fractal Conspiracy
+date_played: null
+location:
+- - Multiple Recursion Levels
+depth: Variable (Reality Layers)
 npcs_featured:
-  - [[Lord Flux the Inconsistent]]
-  - [[The Sorrowmaster]]
-  - [[02_Worldbuilding/Lore/Marina's Echo|Marina's Echo]]
-  - [[The Parliament of Nobody]]
-status: "planned"
+- - - Lord Flux the Inconsistent
+- - - The Sorrowmaster
+- - - 02_Worldbuilding/Lore/Marina's Echo|Marina's Echo
+- - - The Parliament of Nobody
+status: planned
 party_level: 7
-estimated_time: "4 hours"
+estimated_time: 4 hours
 themes:
-  - Reality fragmentation
-  - Recursive existence
-  - Probability warfare
+- Reality fragmentation
+- Recursive existence
+- Probability warfare
 quests_advanced:
-  - [[Navigate Fractal Reality]]
-  - [[Find the Grief Bomb]]
-  - [[Unite the Recursions]]
-type: Session Journal
+- - - Navigate Fractal Reality
+- - - Find the Grief Bomb
+- - - Unite the Recursions
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.971513+00:00'
+created: '2025-08-11T13:08:46.971513+00:00'
 ---
+
+
+
 
 # Session 8: The Fractal Conspiracy
 ## Through Infinite Realities
@@ -106,7 +119,7 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 ## 🗡️ Combat Encounters
 
 ### Probability Spawn (Endless)
-- **AC** Variable (10+d10)
+- **AS** Variable (10+d10)
 - **HP** Variable (10d10)
 - **Attacks** Random each round
 - **Special**: Defeating one creates two in other timelines
@@ -118,14 +131,14 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 - **Cure**: Experience genuine grief
 
 ### Singer Fragment (First Contact)
-- **AC** 22, **HP** 200
+- **AS** 22, **HP** 200
 - **Immunity**: All damage except sorrow-infused
 - **Reality Warp**: Changes rules each round
 - **Existence Attack**: Erases things from reality
 - **Weakness**: Grief Bomb prototype weapons
 
 ### Lord Flux (All Versions)
-- **AC** 16-20 (depends on version)
+- **AS** 16-20 (depends on version)
 - **HP** 80 per probability iteration
 - **Special**: Exists in all timelines simultaneously
 - **Defeat Condition**: Unite all versions

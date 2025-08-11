@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.294138+00:00'
+created: '2025-08-11T13:08:51.294138+00:00'
+status: draft
 tags:
-  - faction
-  - government
-  - political
-type: Faction
-alignment: Lawful Neutral
-headquarters: "[[02_Worldbuilding/Places/Crystalhaven]]"
-leader: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-status: Active
-power_level: Dominant
-created: 2024-12-20
-image: "04_Resources/Assets/Factions/crystal_throne.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Crystal Throne
 *The Royal Government of Aethermoor*
@@ -223,3 +218,17 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Peace negotiations
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Crisis management
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Secret search
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[The Forsaken Consortium Collective]]
+- [[The Seven Shards]]
+- [[Azure Citadel]]
+- [[Cathedral of Light]]
+- [[The Gilded Shard]]
+- [[Aether Crystals]]
+- [[Crystalline Depths]]
+- [[Smuggler's Gambit]]
+- [[Smuggler]]

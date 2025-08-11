@@ -1,11 +1,22 @@
 ---
-tags: [quest, artifact-hunt, ancient-mystery, puzzle]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- ancient-mystery
+- aquabyssos
+- artifact-hunt
+- complete
+- puzzle
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.310981+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Thirteen Keys
 
@@ -98,3 +109,38 @@ Each key is protected by a unique challenge that tests the associated virtue:
 
 ## DM Notes
 This quest works best as a campaign centerpiece spanning multiple levels. Each key should feel unique and meaningful. Consider what the vault actually contains and how it fits your campaign's themes.
+
+
+## Connections
+
+- [[The Primordial Vaults]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

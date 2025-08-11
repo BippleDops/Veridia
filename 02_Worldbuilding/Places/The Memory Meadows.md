@@ -1,31 +1,18 @@
 ---
-tags: [location, aquabyssos, memory, psychological-horror]
-type: "location"
-campaign: "Aquabyssos"
-location_type: "Metaphysical Garden"
-depth: "2,500-3,000 ft"
-danger_level: 8
-population: "Unknown (memories aren't people... or are they?)"
-notable_features:
-  - "Kelp that grants memories but erases them from existence"
-  - "Memory pools showing forgotten histories"
-  - "Temporal echoes of erased events"
-  - "Living memory entities"
-faction_control: "[[The Forgotten Collective]]"
-connected_locations:
-  - "[[02_Worldbuilding/Places/The Inverse Palace]]"
-  - "[[02_Worldbuilding/Places/Nereidios]]"
-  - "[[The Archive of Unremembered Things]]"
-environment_effects:
-  - "Memory Bleed (DC 15 WIS save or gain false memories)"
-  - "Identity Confusion (disadvantage on CHA checks)"
-  - "Temporal Displacement (1d4 hours lost per day)"
-image: "04_Resources/Assets/locations/memory-meadows.webp"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.702866+00:00'
+created: '2025-08-11T13:08:50.702866+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Memory Meadows
 
@@ -146,3 +133,43 @@ The Memory Meadows can bleed into Aethermoor during the convergence:
 
 *"In the meadows, we learned a terrible truth: forgetting is a kind of death, but remembering is a kind of murder."*
 — Final journal entry of Explorer Thaddeus Morn, who no longer exists
+
+
+## Connections
+
+- [[Stop the Shadow Harvest]]
+- [[Forge of War]]
+- [[Luminous Hollow]]
+- [[The Forgotten One]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

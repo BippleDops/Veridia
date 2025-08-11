@@ -1,19 +1,33 @@
 ---
-tags: [npc, merchant, banking, financial-manipulation, aquabyssos, corrupt-noble, shadow-connection]
-status: "complete"
-world: "Aquabyssos"
-type: "NPC"
-alignment: "Lawful Evil"
-race: "Merfolk"
-class: "Rogue (Mastermind)/Warlock (Great Old One)"
+tags:
+- aquabyssos
+- banking
+- complete
+- corrupt-noble
+- financial-manipulation
+- merchant
+- npc
+- shadow-connection
+status: complete
+world: Aquabyssos
+type: NPC
+alignment: Lawful Evil
+race: Merfolk
+class: Rogue (Mastermind)/Warlock (Great Old One)
 level: 14
-occupation: "Senior Partner, Goldwave Financial Consortium"
-allegiance: "[[02_Worldbuilding/Groups/Silverscale Banking House]] (secretly)"
-current_location: "[[02_Worldbuilding/Places/Port Meridian]] - Financial District"
+occupation: Senior Partner, Goldwave Financial Consortium
+allegiance: '[[02_Worldbuilding/Groups/Silverscale Banking House]] (secretly)'
+current_location: '[[02_Worldbuilding/Places/Port Meridian]] - Financial District'
 created: 2025-08-08
-updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Groups/Silverscale Banking House]]", "[[02_Worldbuilding/Lore/The Seven Shards]]", "[[02_Worldbuilding/Places/Memory Meadows Black Market]]", "[[02_Worldbuilding/Lore/Marina's Identity Crisis]]"]
+updated: '2025-08-11T13:08:48.270390+00:00'
+related_entities:
+- '[[02_Worldbuilding/Groups/Silverscale Banking House]]'
+- '[[02_Worldbuilding/Lore/The Seven Shards]]'
+- '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
+- '[[02_Worldbuilding/Lore/Marina''s Identity Crisis]]'
 ---
+
+
 
 # Aurelius Goldwave
 *The Golden Current Beneath Still Waters*
@@ -290,3 +304,12 @@ One of [[02_Worldbuilding/Lore/The Seven Shards]] has been located, and Aurelius
 - [[Memory Commerce]]
 - [[Economic Manipulation]]
 - [[Supernatural Influence]]
+
+## Connections
+
+- [[Leviathan Graveyard]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

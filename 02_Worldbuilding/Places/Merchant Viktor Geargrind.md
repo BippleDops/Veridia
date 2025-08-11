@@ -1,15 +1,28 @@
 ---
-tags: [npc, merchant, artificer, technology, innovation, aquabyssos, engineering]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- artificer
+- complete
+- engineering
+- innovation
+- location
+- merchant
+- npc
+- technology
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.281275+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Merchant Viktor Geargrind
 
@@ -349,7 +362,7 @@ Working with [[Parliament of Echoes]] and [[Depth Wardens]] on classified projec
 
 ### Viktor's Statistics
 **Merchant Viktor Geargrind** (Deep Gnome Artificer/Expert)
-- **AC**: 15 (Studded Leather + Mechanical Prosthetics)
+- **AS**: 15 (Studded Leather + Mechanical Prosthetics)
 - **HP**: 75 (12d8 + 24)
 - **Speed**: 25 ft., swim 25 ft.
 - **STR**: 10 **DEX**: 16 **CON**: 14 **INT**: 20 **WIS**: 13 **CHA**: 12
@@ -439,3 +452,8 @@ Viktor's relationship with adventurers can evolve significantly over time:
 - **[[Memory Farmers]]**: Collaboration on devices that interface with memory-based magic and consciousness technology
 - **[[Silverscale Consortium]]**: Financial relationships and funding for major research and development projects
 - **[[Azure Citadel]]**: Military contracts and provision of specialized equipment for government security operations
+
+
+## Connections
+
+- [[Pressure's End]]

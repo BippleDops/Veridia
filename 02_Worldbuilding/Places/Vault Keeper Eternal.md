@@ -1,20 +1,17 @@
 ---
-tags: [npc, vault-keeper, ancient, guardian, artificer]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-challenge_rating: 12
-race: "Construct (Warforged)"
-class: "Artificer 15"
-alignment: "Lawful Neutral"
-  - Category/NPC
-MyContainer: None
-MyCategory: NPCs
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.892054+00:00'
+created: '2025-08-11T13:08:50.892054+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Vault Keeper Eternal
 
@@ -141,3 +138,14 @@ A mysterious figure known only as [[The Collector]] has been attempting to acqui
 ---
 
 *"Time may weather stone and steel, but duty endures eternal. The treasures of the past guard the future of tomorrow."* - Vault Keeper Eternal
+
+
+## Connections
+
+- [[The Living Weapon]]
+- [[The Primordial Vaults]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

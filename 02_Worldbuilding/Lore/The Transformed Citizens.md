@@ -1,14 +1,28 @@
 ---
-tags: [lore, transformed-citizens, convergence-effects, mutation, adaptation, shadow-corruption, reality-sickness, dimensional-bleed, ordinary-people, survival]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Population Effects"
-significance: "Campaign-Critical"
-created_by: "auto-stub"
+tags:
+- adaptation
+- both
+- complete
+- convergence-effects
+- dimensional-bleed
+- lore
+- mutation
+- ordinary-people
+- reality-sickness
+- shadow-corruption
+- survival
+- transformed-citizens
+status: complete
+world: Both
+type: Lore
+category: Population Effects
+significance: Campaign-Critical
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.619271+00:00'
 ---
+
+
 
 # The Transformed Citizens
 *When Reality Changes, People Change With It*
@@ -420,3 +434,9 @@ Corruption specifically targets and exploits transformation processes:
 
 *"We are not becoming monsters. We are becoming what humanity needs to be to survive what's coming."*
 *- Scholar Echo-Thought, memory integration success story*
+
+
+## Connections
+
+- [[Crystal Garden]]
+- [[Desperate Plague Victim]]

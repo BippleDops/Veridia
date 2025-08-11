@@ -1,43 +1,16 @@
 ---
-tags: [location]
-type: "city"
-region: "Aquathys - Twilight Shelf"
-faction: "[[The Coral Throne Syndicate]]"
-faction_influence: 9
-danger_level: 3
-encounter_chance: 0.2
-population: 450000
-map_image: "04_Resources/Assets/locations/pearl-harbor-city.webp"
-depth: "100-500 feet"
-connected_locations:
-  - "[[02_Worldbuilding/Places/Market_District]]"
-  - "[[Azure Citadel]]"
-  - "[[Surface Portal Alpha]]"
-  - "[[The Kelp Highway]]"
-shops:
-  - name: "The Pressure Forge"
-    type: "Blacksmith"
-    owner: "[[Master Smith Coral-Hammer]]"
-  - name: "Biolume Boutique"
-    type: "Magic Shop"
-    owner: "[[Illyana Glowstream]]"
-  - name: "The Decompression Chamber"
-    type: "Inn"
-    owner: "[[Taverner Bubbles McGill]]"
-services:
-  - name: "Portal Transit Authority"
-    type: "Transportation"
-    provider: "[[Captain Marlowe Tidecrest]]"
-  - name: "Depth Adjustment Clinic"
-    type: "Medical"
-    provider: "[[02_Worldbuilding/Places/Dr. Siphon Gillwater]]"
-events: ["Weekly Surface Market", "Full Moon Tide Festival", "Smuggler's Night"]
-notable_features: ["The Great Lock System", "Floating Market Platforms", "Bioluminescent Lighthouse", "Customs House"]
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.573995+00:00'
+created: '2025-08-11T13:08:50.573995+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # Pearl Harbor City
 *Gateway Between Worlds*

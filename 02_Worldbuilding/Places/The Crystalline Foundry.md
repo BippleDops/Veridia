@@ -1,21 +1,17 @@
 ---
-tags: [location, aethermoor, foundry, industrial, crafting, crystal]
-status: "completed"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-location_type: "Industrial Complex"
-parent_location: "Aethermoor Industrial District"
-danger_level: 4
-population: "~800 workers, artificers, and guards"
-government: "Royal Crafters Guild oversight"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.985109+00:00'
+created: '2025-08-11T13:08:50.985109+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Crystalline Foundry
 ## Where Crystal Dreams Become Reality
@@ -328,3 +324,11 @@ The Crystalline Foundry represents the pinnacle of [[Aethermoor]]'s industrial m
 - [[Fire Crystals]]
 - [[Prismatic Crystal]]
 - [[Crystal Singers]]
+
+
+## Connections
+
+- [[The Resonance Forge Hammer]]
+- [[Aetheron]]
+- [[Master Artificer Korvin Gearwright]]
+- [[Crystalhaven]]

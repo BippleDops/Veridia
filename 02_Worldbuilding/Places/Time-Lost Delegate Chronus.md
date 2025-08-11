@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, temporal, parliament, anomaly, time-magic, delegate-chambers]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- anomaly
+- aquabyssos
+- complete
+- delegate-chambers
+- location
+- parliament
+- temporal
+- time-magic
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Temporal Anomaly
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.722328+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Chronus Chambers - Time-Lost Delegate's Domain
 
@@ -338,3 +349,14 @@ The Chronus Chambers connect to numerous elements of the broader campaign:
 - **Future Conflicts**: Glimpses of upcoming challenges facing Aquabyssos
 
 *The Chronus Chambers serve as a living museum where the past, present, and future coexist in impossible harmony and terrible conflict. For those brave enough to navigate its temporal currents, it offers unparalleled insights into the nature of time, history, and the consequences of our choices.*
+
+
+## Connections
+
+- [[The Recursion Oracle]]
+- [[Parliament of Echoes]]
+- [[Find the Grief Bomb]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]

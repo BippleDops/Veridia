@@ -1,23 +1,35 @@
 ---
-tags: [npc, aquabyssos, eccentric, bell-ringer, prophetic, mad, oracle, warning-system, community, acoustic]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-category: "Community Oracle"
-race: "Human"
-class: "Commoner/Oracle"
-location: "[[Port Meridian]] Bell Tower"
-faction: "Independent"
-influence: "Low"
-danger_level: "None"
-created_by: "auto-stub"
+tags:
+- acoustic
+- aquabyssos
+- bell-ringer
+- community
+- complete
+- eccentric
+- mad
+- npc
+- oracle
+- person
+- prophetic
+- warning-system
+status: complete
+world: Aquabyssos
+type: Location
+category: Community Oracle
+race: Human
+class: Commoner/Oracle
+location: '[[Port Meridian]] Bell Tower'
+faction: Independent
+influence: Low
+danger_level: None
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Person
+updated: '2025-08-11T13:08:50.431783+00:00'
 MyContainer: None
 MyCategory: Community Figure
 obsidianUIMode: preview
 ---
+
 
 # Mad Bell-Ringer Thomas
 *The Prophet of Tolling Truth*

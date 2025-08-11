@@ -1,28 +1,18 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.866255+00:00'
+created: '2025-08-11T13:08:49.866255+00:00'
+status: draft
 tags:
-  - npc
-  - druid
-  - priest
-  - cultivator
-  - aquabyssos
-  - nature_magic
-  - biological_adaptation
-  - religious_leader
+- both
+- draft
 type: NPC
-race: Human (Depth-adapted)
-class: Druid/Life Cleric
-level: 15
-alignment: Neutral Good
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "[[The Living Tide Church]]"
-status: Alive (Biologically Enhanced)
-created: 2025-08-09
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+cr: '14'
 ---
+
+
+
+
 
 # High Cultivist Jasper Lifebinder
 *The Sea's Gardener, He Who Grows in the Deep, Voice of the Living Tide*
@@ -186,3 +176,10 @@ High Cultivist Jasper Lifebinder leads the Church of the Living Tide in [[02_Wor
 - [[02_Worldbuilding/Quests/Depths of Whispers]] - Provides biological solutions
 - [[Quest - The Symbiotic Sacrament]] - Religious ceremony gone wrong
 - [[Quest - Seeds of the Deep]] - Ancient cultivation knowledge discovered
+
+
+## Connections
+
+- [[Duke Cyrus Reefheart]]
+- [[Prophet Nerida Voidgazer]]
+- [[Lumengarde]]

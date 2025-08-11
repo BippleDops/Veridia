@@ -1,12 +1,24 @@
 ---
-tags: [treaties, diplomacy, politics, inter-dimensional, peace, trade]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- diplomacy
+- inter-dimensional
+- lore
+- peace
+- politics
+- trade
+- treaties
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:48.534854+00:00'
 ---
+
+
 
 # Aquabyssos-Aethermoor Treaties
 
@@ -293,3 +305,9 @@ Both realms have discovered evidence of other surviving civilizations adapted to
 Ancient texts from both realms speak of a time when all realities will merge permanently. The treaties may be unconscious preparation for this event, creating the diplomatic and cultural infrastructure needed to manage a unified existence across multiple dimensions.
 
 The Aquabyssos-Aethermoor Treaties represent more than diplomatic agreements - they embody the triumph of cooperation over isolation, demonstrating that even the most fundamental differences can be bridged through patience, creativity, and mutual respect. As both realms face an uncertain future filled with dimensional threats and reality-altering phenomena, these treaties provide a foundation of trust that may prove essential for survival itself.
+
+
+## Connections
+
+- [[Marriage Between Worlds]]
+- [[Aethermoor - Session 09 The Price of Unity]]

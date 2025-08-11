@@ -1,23 +1,32 @@
 ---
-tags: [npc, aquabyssos, senator, prisoner, shadow-victim, tragic]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Human (Adapted)"
-class: "Noble/Diplomat"
+tags:
+- aquabyssos
+- complete
+- npc
+- prisoner
+- senator
+- shadow-victim
+- tragic
+status: complete
+world: Aquabyssos
+type: NPC
+race: Human (Adapted)
+class: Noble/Diplomat
 level: 7
-alignment: "Lawful Good"
-location: "[[02_Worldbuilding/Places/The Memory Meadows]]"
-faction: "[[02_Worldbuilding/Places/Parliament of Echoes]] (formerly)"
-status_condition: "Imprisoned, Slowly Forgotten"
-created_by: "auto-stub"
+alignment: Lawful Good
+location: '[[02_Worldbuilding/Places/The Memory Meadows]]'
+faction: '[[02_Worldbuilding/Places/Parliament of Echoes]] (formerly)'
+status_condition: Imprisoned, Slowly Forgotten
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/People
+updated: '2025-08-11T13:08:49.861265+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Original Glaucus Tidecaller
 *The True Senator, The Forgotten Voice, Prisoner of Kelp*
@@ -227,7 +236,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 ## Stats
 
 ### Current Condition (Weakened)
-- **AC**: 10 (imprisoned)
+- **AS**: 10 (imprisoned)
 - **HP**: 20/45 (deteriorating)
 - **Speed**: 5 ft (restricted by kelp)
 - **STR**: 6 (-2), **DEX**: 8 (-1), **CON**: 10 (0)
@@ -297,3 +306,8 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 ---
 
 *"In the Memory Meadows, you don't just forget who you were—you watch yourself become nothing, one memory at a time."*
+
+
+## Connections
+
+- [[Senator Glaucus]]

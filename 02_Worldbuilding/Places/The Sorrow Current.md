@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.034556+00:00'
+created: '2025-08-11T13:08:51.034556+00:00'
+status: draft
 tags:
-  - location
-  - phenomenon
-  - mystical
-  - emotional
-  - supernatural
-type: Emotional Phenomenon
-region: "[[02_Worldbuilding/Places/The Azure Coast]]"
+- both
+- draft
+type: Location
 danger_level: Moderate
-controlled_by: "[[02_Worldbuilding/Places/The Temple of Eternal Tides]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/sorrow_current.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # The Sorrow Current
 *Where Ocean Carries the Weight of All Tears*
@@ -36,3 +32,32 @@ The Sorrow Current is a mystical ocean phenomenon that carries the collective em
 - **[[02_Worldbuilding/People/Siren Maeve Echoborn]]** - Uses current to amplify emotional manipulation
 - **[[02_Worldbuilding/Groups/The Brotherhood of the Black Anchor]]** - Avoids current due to psychological effects
 - **[[02_Worldbuilding/Places/The Bone Palace of Sorrows]]** - Undead court draws power from collective sorrow
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

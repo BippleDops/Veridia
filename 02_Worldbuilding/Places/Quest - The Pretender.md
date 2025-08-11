@@ -1,18 +1,28 @@
 ---
-tags: [quest, political-intrigue, deception, identity, aethermoor, noble-houses, succession]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- deception
+- identity
+- noble-houses
+- political-intrigue
+- quest
+- succession
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-11
-updated: 2025-08-11
-quest_type: "Political Intrigue/Identity Mystery"
-level_range: "6-12"
-party_size: "4-6 characters"
-duration: "5-7 sessions"
-difficulty: "Hard"
-primary_location: "Port Meridian Noble Quarter and Crystal Throne territories"
+updated: '2025-08-11T13:08:50.626491+00:00'
+quest_type: Political Intrigue/Identity Mystery
+level_range: 6-12
+party_size: 4-6 characters
+duration: 5-7 sessions
+difficulty: Hard
+primary_location: Port Meridian Noble Quarter and Crystal Throne territories
+danger_level: Moderate
 ---
+
 
 # Quest - The Pretender
 *When Bloodlines Lie and Crowns are Stolen*

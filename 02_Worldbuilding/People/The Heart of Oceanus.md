@@ -1,21 +1,33 @@
 ---
-tags: [npc, entity, oceanus, heart, divine, aquabyssos, primordial, sea-spirit, ancient, patron]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Primordial Sea Spirit"
-affiliation: "The Ocean Itself"
-age: "Ancient - Pre-Creation"
-race: "Primordial Entity"
-location: "The Deepest Depths of All Oceans"
-created_by: "auto-stub"
+tags:
+- ancient
+- aquabyssos
+- complete
+- divine
+- entity
+- heart
+- npc
+- oceanus
+- patron
+- primordial
+- sea-spirit
+status: complete
+world: Aquabyssos
+type: NPC
+role: Primordial Sea Spirit
+affiliation: The Ocean Itself
+age: Ancient - Pre-Creation
+race: Primordial Entity
+location: The Deepest Depths of All Oceans
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/People
+updated: '2025-08-11T13:08:49.910353+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
+
 
 # The Heart of Oceanus
 *The Living Soul of All Waters, The Deep Current's Voice*
@@ -276,3 +288,8 @@ Its presence in campaigns can:
 - Bridge the gap between cosmic forces and personal, intimate connections to nature
 
 The Heart represents the philosophy that true power comes from giving rather than taking, and that the greatest strength is often shown through restraint and nurturing rather than domination.
+
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]

@@ -1,15 +1,21 @@
 ---
 title: Complete Faction Warfare System
-type: mechanics
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - factions
-  - politics
-  - warfare
-  - intrigue
+- both
+- complete
+- factions
+- intrigue
+- mechanics
+- politics
+- warfare
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.068312+00:00'
 ---
+
+
 
 # Complete Faction Warfare System
 *The Ultimate Guide to Political Maneuvering and Factional Conflict*

@@ -1,25 +1,38 @@
 ---
 session_number: 6
-title: "The Bloodline Awakens"
-date_played: 
-location: "[[Lighthouse Ruins]] to [[Hidden Sanctuary]]"
-npcs_featured: 
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
-  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
-  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
-  - "[[Jasper Three-Eyes Flint]]"
+title: The Bloodline Awakens
+date_played: null
+location: '[[Lighthouse Ruins]] to [[Hidden Sanctuary]]'
+npcs_featured:
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[Jasper Three-Eyes Flint]]'
 quests_advanced:
-  - "[[02_Worldbuilding/Quests/Quest - The Seventh Shard]]"
-  - "[[Uniting the Factions]]"
-  - "[[Rewriting the Ritual]]"
+- '[[02_Worldbuilding/Quests/Quest - The Seventh Shard]]'
+- '[[Uniting the Factions]]'
+- '[[Rewriting the Ritual]]'
 level: 4
-estimated_time: "3-4 hours"
-tags: [session, aethermoor, bloodline, revelation]
-type: Session Journal
+estimated_time: 3-4 hours
+tags:
+- aethermoor
+- bloodline
+- draft
+- revelation
+- session
+- session-journal
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.960943+00:00'
+created: '2025-08-11T13:08:46.960943+00:00'
+status: draft
 ---
+
+
+
 
 # Session 6: The Bloodline Awakens
 

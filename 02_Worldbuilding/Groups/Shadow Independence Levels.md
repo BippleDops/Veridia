@@ -1,39 +1,45 @@
 ---
 tags:
-  - Category/Group
-  - Aquabyssos/Shadow
-  - Aquabyssos/Society
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "expansion"
+- aquabyssos
+- aquabyssos/shadow
+- aquabyssos/society
+- category/group
+- complete
+- faction
+status: complete
+world: Aquabyssos
+type: Group
+created_by: expansion
 created: 2025-08-11
-MyContainer: "[[The Shadowmere|The Shadowmere]]"
+MyContainer: '[[The Shadowmere|The Shadowmere]]'
 MyCategory: Shadow Autonomy Movement
 obsidianUIMode: preview
-leader: "Council of Autonomous Shadows"
+leader: Council of Autonomous Shadows
 officers:
-  - "Elder Whisper-In-The-Dark"
-  - "The Shadow Singer Naia"
-  - "Marcus 'The Shade' Blackwood"
+- Elder Whisper-In-The-Dark
+- The Shadow Singer Naia
+- Marcus 'The Shade' Blackwood
 members:
-  - "Shadow-touched Citizens"
-  - "Voluntary Shadow Converts"
-  - "Shadow Realm Refugees"
+- Shadow-touched Citizens
+- Voluntary Shadow Converts
+- Shadow Realm Refugees
 initiates:
-  - "New Shadow-Touched"
-  - "Shadow Integration Candidates"
-  - "Transition Monitors"
-faction: "Shadow Autonomy Movement"
-primary_contact: "Elder Whisper-In-The-Dark"
+- New Shadow-Touched
+- Shadow Integration Candidates
+- Transition Monitors
+faction: Shadow Autonomy Movement
+primary_contact: Elder Whisper-In-The-Dark
 benefits:
-  - standing: 1
-    reward: "Shadow realm navigation training and basic integration support"
-  - standing: 2
-    reward: "Advanced shadow abilities development and community protection"
-  - standing: 3
-    reward: "Council membership consideration and shadow realm territory rights"
+- standing: 1
+  reward: Shadow realm navigation training and basic integration support
+- standing: 2
+  reward: Advanced shadow abilities development and community protection
+- standing: 3
+  reward: Council membership consideration and shadow realm territory rights
+updated: '2025-08-11T13:08:51.505600+00:00'
 ---
+
+
 
 # Shadow Independence Levels
 
@@ -349,3 +355,8 @@ Contact with shadow-touched populations in other realms offers opportunities for
 Advancing shadow-realm technology creates opportunities for economic development but raises questions about maintaining traditional shadow culture and practices.
 
 The Shadow Independence Levels represents a unique approach to minority rights advocacy in a supernatural setting - combining practical political action with philosophical exploration of identity, autonomy, and interdimensional citizenship. They offer extensive opportunities for campaigns exploring themes of civil rights, community building, and the challenges of creating new forms of society.
+
+
+## Connections
+
+- [[Stop the Shadow Harvest]]

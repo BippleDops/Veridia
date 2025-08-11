@@ -1,14 +1,23 @@
 ---
-type: faction
-tags: [faction, union]
-aliases: [Dockworkers Union]
+type: Group
+tags:
+- both
+- draft
+- faction
+- union
+aliases: []
 created: 2025-07-23 18:00
 modified: 2025-07-23 18:00
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.422285+00:00'
+status: draft
 ---
+
+
+
 # Dockworkers Union
 
 ## General Info

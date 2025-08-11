@@ -1,17 +1,29 @@
 ---
-tags: [bloodline, awakening, supernatural, curse, legacy, transformation, ancient-power, family-secret]
-status: "complete"
-world: "Aquabyssos"
-type: "phenomenon"
-role: "Supernatural Bloodline Event"
-affiliation: "Ancient Bloodlines (Various)"
-danger_level: "High"
-manifestation_rate: "Rare but Increasing"
-location: "Scattered throughout Aquabyssos"
-created_by: "auto-stub"
+tags:
+- ancient-power
+- aquabyssos
+- awakening
+- bloodline
+- complete
+- curse
+- family-secret
+- legacy
+- phenomenon
+- supernatural
+- transformation
+status: complete
+world: Aquabyssos
+type: NPC
+role: Supernatural Bloodline Event
+affiliation: Ancient Bloodlines (Various)
+danger_level: High
+manifestation_rate: Rare but Increasing
+location: Scattered throughout Aquabyssos
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.917725+00:00'
 ---
+
 
 # The Bloodline Awakens
 *When Ancient Heritage Stirs to Life*

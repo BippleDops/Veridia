@@ -1,15 +1,24 @@
 ---
-tags: [location, gloom_gardens, mysterious, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- gloom_gardens
+- location
+- mysterious
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.358914+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Gloom Gardens
 
@@ -107,3 +116,28 @@ As word spread about the area's unique beauty and therapeutic atmosphere, artist
 ## Connections
 
 The Gloom Gardens connect to the rest of Aquabyssos through discrete transport tubes that maintain the twilight atmosphere. The district also has cultural connections to similar contemplative communities in other underwater realms and maintains research relationships with surface-world botanical institutions studying bioluminescence.
+- [[Lumengarde]]
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

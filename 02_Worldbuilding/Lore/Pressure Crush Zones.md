@@ -1,12 +1,21 @@
 ---
-tags: [lore, hazard, pressure-zones, environmental-danger, underwater]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- environmental-danger
+- hazard
+- lore
+- pressure-zones
+- underwater
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.304274+00:00'
 ---
+
+
 
 # Pressure Crush Zones
 
@@ -39,3 +48,10 @@ Permanent environmental features requiring specialized equipment to traverse.
 
 ## Campaign Use
 Provides natural barriers and extreme environmental challenges for deep-sea exploration adventures.
+
+
+## Connections
+
+- [[Depth Effect Quick Reference]]
+- [[Initiative Tracker]]
+- [[Random Encounters]]

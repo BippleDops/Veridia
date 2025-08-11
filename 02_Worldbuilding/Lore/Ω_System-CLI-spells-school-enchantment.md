@@ -1,12 +1,19 @@
 ---
-tags: [lore, magic, enchantment, spells]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- enchantment
+- lore
+- magic
+- spells
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.365929+00:00'
 ---
+
 
 # The Enchantment School: Threads of Will and Influence
 

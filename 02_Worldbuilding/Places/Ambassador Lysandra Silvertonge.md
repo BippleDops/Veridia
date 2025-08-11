@@ -1,21 +1,31 @@
 ---
-tags: [location, embassy, diplomatic, aquabyssos, aethermoor-relations, government, political]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-category: "Diplomatic Embassy"
-depth: "800-1000 feet"
-difficulty: "Levels 2-8"
-owner: "Aethermoor Diplomatic Service"
-danger_level: "Low"
-created_by: "auto-stub"
+tags:
+- aethermoor-relations
+- aquabyssos
+- complete
+- diplomatic
+- embassy
+- government
+- location
+- political
+status: complete
+world: Aquabyssos
+type: Location
+category: Diplomatic Embassy
+depth: 800-1000 feet
+difficulty: Levels 2-8
+owner: Aethermoor Diplomatic Service
+danger_level: Low
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.999994+00:00'
 MyContainer: None
 MyCategory: Embassy Compound
 obsidianUIMode: preview
 ---
+
+
+
 
 # Ambassador Lysandra Silvertonge's Embassy
 *Where Sky and Sea Meet in Diplomatic Waters*
@@ -137,7 +147,7 @@ Academic researchers from both realms collaborate on projects that benefit both 
 *Female Aasimar, Lawful Good*
 **Chief Diplomatic Representative**
 
-- **AC**: 16 (Diplomatic Robes + Natural Grace), **HP**: 95 (14d8 + 28), **Speed**: 30 ft., fly 50 ft.
+- **AS**: 16 (Diplomatic Robes + Natural Grace), **HP**: 95 (14d8 + 28), **Speed**: 30 ft., fly 50 ft.
 - **STR**: 12 (+1), **DEX**: 16 (+3), **CON**: 14 (+2), **INT**: 18 (+4), **WIS**: 16 (+3), **CHA**: 20 (+5)
 - **Skills**: Deception +11, Insight +15, Investigation +10, Perception +9, Persuasion +17
 - **Languages**: Common, Celestial, Primordial (Air), Primordial (Water), Draconic, Elvish
@@ -154,7 +164,7 @@ Ambassador Silvertonge has served in her current position for fifteen years, dur
 *Male Triton, Lawful Neutral*
 **Senior Diplomatic Staff (Aquabyssos Liaison)**
 
-- **AC**: 15 (Natural Armor + Diplomatic Attire), **HP**: 68 (9d8 + 27), **Speed**: 30 ft., swim 50 ft.
+- **AS**: 15 (Natural Armor + Diplomatic Attire), **HP**: 68 (9d8 + 27), **Speed**: 30 ft., swim 50 ft.
 - **STR**: 14 (+2), **DEX**: 13 (+1), **CON**: 16 (+3), **INT**: 17 (+3), **WIS**: 15 (+2), **CHA**: 16 (+3)
 - **Skills**: History +9, Insight +8, Investigation +6, Persuasion +9
 - **Languages**: Common, Primordial (Water), Primordial (Air), Deep Speech
@@ -171,7 +181,7 @@ Torren serves as the primary liaison with [[Aquabyssos]] government officials an
 *Non-binary Air Genasi, Chaotic Good*
 **Cultural Programs Director**
 
-- **AC**: 14 (Natural + Dex), **HP**: 52 (8d8 + 16), **Speed**: 30 ft., fly 40 ft.
+- **AS**: 14 (Natural + Dex), **HP**: 52 (8d8 + 16), **Speed**: 30 ft., fly 40 ft.
 - **STR**: 10 (+0), **DEX**: 16 (+3), **CON**: 14 (+2), **INT**: 16 (+3), **WIS**: 13 (+1), **CHA**: 18 (+4)
 - **Skills**: Performance +10, Persuasion +10, History +6, Arcana +6
 - **Languages**: Common, Primordial (Air), Primordial (Water), Celestial
@@ -188,7 +198,7 @@ Zephyr brings creativity and innovation to the embassy's cultural programs, deve
 *Female Sea Elf, Lawful Neutral*
 **Embassy Security Director**
 
-- **AC**: 17 (Chain Shirt + Shield), **HP**: 85 (11d8 + 33), **Speed**: 30 ft., swim 40 ft.
+- **AS**: 17 (Chain Shirt + Shield), **HP**: 85 (11d8 + 33), **Speed**: 30 ft., swim 40 ft.
 - **STR**: 16 (+3), **DEX**: 14 (+2), **CON**: 16 (+3), **INT**: 14 (+2), **WIS**: 16 (+3), **CHA**: 13 (+1)
 - **Skills**: Athletics +6, Investigation +8, Perception +9, Intimidation +4
 - **Languages**: Common, Elvish, Primordial (Water), Primordial (Air)
@@ -447,3 +457,11 @@ Discovery of an ancient treaty between the realms reveals obligations that both 
 
 *"True diplomacy is not the art of avoiding conflict, but the art of finding the higher ground where apparent enemies can stand together as friends."*  
 — Ambassador Lysandra Silvertonge, Chief Diplomatic Representative
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Concierge Phillip Gracewater]]
+- [[Lord Reginald Seaworthy]]
+- [[The Bathyal Palace]]

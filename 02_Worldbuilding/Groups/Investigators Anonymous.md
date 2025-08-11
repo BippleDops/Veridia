@@ -1,20 +1,16 @@
 ---
-type: faction
-tags: [faction, investigative, secret-society, aquabyssos, truth-seekers, intelligence]
-aliases: [Investigators Anonymous, The Inquiry, The Truth Network, The Silent Witnesses]
-world: "Aquabyssos"
-created: 2025-08-09
-modified: 2025-08-09
-leader: "The Anonymous Inquisitor"
-headquarters: "The Archive of Questions"
-alignment: "Lawful Neutral"
-power_level: "Regional Intelligence Network"
-status: "Active Secret Society"
-  - Category/Group
-MyContainer: Aquabyssos
-MyCategory: Investigative Secret Society
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.509147+00:00'
+created: '2025-08-11T13:08:51.509147+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Investigators Anonymous
 *"Truth Rises Like Bubbles, Even From The Deepest Lies"*
@@ -286,3 +282,7 @@ Investigators Anonymous maintains hidden facilities at every major depth level:
 - [[Information Trading System]]
 - [[Witness Protection Protocols]]
 - [[Counter-Intelligence Methods]]
+
+## Connections
+
+- [[Stop the Shadow Harvest]]

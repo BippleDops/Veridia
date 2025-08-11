@@ -1,17 +1,33 @@
 ---
-tags: [npc, merchant, foreign-power, spy, merchant-princes]
+tags:
+- active---category/people
+- both
+- foreign-power
+- merchant
+- merchant-princes
+- npc
+- spy
 alignment: True Neutral
 race: Gnome
 class: Rogue/Artificer
 level: 9
-location: [[02_Worldbuilding/Places/Port Meridian]]
+location:
+- - 02_Worldbuilding/Places/Port Meridian
 faction: Merchant Princes / Goldspire Confederacy
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.780481+00:00'
+created: '2025-08-11T13:08:49.780481+00:00'
+type: NPC
 ---
+
+
+
+
+
 
 # Zephyr Goldwhisper
 
@@ -86,3 +102,20 @@ Zephyr Goldwhisper operates as a merchant prince's representative while secretly
 - Offers to trade crucial information for help sabotaging a competitor
 - Needs protection while conducting "market research" in the [[02_Worldbuilding/Places/The Crystalline Wastes]]
 - Can provide intelligence about any faction for the right price
+
+
+## Connections
+
+- [[Lady Jade Clawgrip]]
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

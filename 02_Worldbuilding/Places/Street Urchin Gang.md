@@ -1,11 +1,22 @@
 ---
-tags: [faction, criminals, youth, survival]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- criminals
+- faction
+- survival
+- youth
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.232814+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Street Urchin Gang
 
@@ -66,3 +77,38 @@ Despite their criminal activities, the gang maintains a strict code against seri
 
 ## DM Notes
 Use this gang to add moral complexity - they're criminals but sympathetic. They can serve as both obstacles and allies depending on party actions and needs.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

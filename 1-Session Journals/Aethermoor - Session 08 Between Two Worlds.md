@@ -1,25 +1,39 @@
 ---
 session_number: 8
-title: "Between Two Worlds"
-date_played: 
-location: "[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]"
-npcs_featured: 
-  - "[[The Drowned God]] (True Form)"
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
-  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-  - "[[Ancient Aquabyssos Rulers]]"
+title: Between Two Worlds
+date_played: null
+location: '[[The Threshold]] - Between [[Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]'
+npcs_featured:
+- '[[The Drowned God]] (True Form)'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[Ancient Aquabyssos Rulers]]'
 quests_advanced:
-  - "[[Rewrite the World Order]]"
-  - "[[The Final Sealing]]"
-  - "[[Save Both Civilizations]]"
+- '[[Rewrite the World Order]]'
+- '[[The Final Sealing]]'
+- '[[Save Both Civilizations]]'
 level: 5
-estimated_time: "4 hours"
-tags: [session, aethermoor, aquabyssos, reality-merge, dual-worlds]
-type: Session Journal
+estimated_time: 4 hours
+tags:
+- aethermoor
+- aquabyssos
+- draft
+- dual-worlds
+- reality-merge
+- session
+- session-journal
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.982068+00:00'
+created: '2025-08-11T13:08:46.982068+00:00'
+status: draft
 ---
+
+
+
 
 # Session 8: Between Two Worlds
 

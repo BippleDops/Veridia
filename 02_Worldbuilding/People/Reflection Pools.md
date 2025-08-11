@@ -1,15 +1,24 @@
 ---
-tags: [location, pools, reflection, divination, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Places
+tags:
+- aquabyssos
+- complete
+- divination
+- location
+- pools
+- reflection
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Places
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.876322+00:00'
 ---
+
+
+
 
 # Reflection Pools
 
@@ -68,3 +77,39 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 
 ## DM Notes
 Use the Reflection Pools as plot devices to provide information, foreshadow events, or create red herrings. Visions should be symbolic rather than literal, requiring interpretation and potentially misleading parties into interesting complications.
+
+
+## Connections
+
+- [[Original Glaucus]]
+- [[Senator Glaucus]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,26 +1,53 @@
 ---
-tags: [Quest, Aquabyssos, Exploration, Mystery, Ancient Ruins, Magic]
+tags:
+- ancient-ruins
+- aquabyssos
+- complete
+- exploration
+- magic
+- mystery
+- quest
 quest_status: Active
 quest_priority: Medium
-quest_type: "Side Quest"
-world: "Aquabyssos"
-region: "The Deepmere Reaches"
-level_range: "3-5"
-duration: "2-4 sessions"
-difficulty: "Medium"
-themes: ["discovery", "ancient civilizations", "lost knowledge", "underwater exploration", "magical preservation"]
-connected_factions: ["The Deepmere Scholars", "Coral Guardians", "Tidecaller Navy"]
-connected_locations: ["Sunken Marina", "The Deepmere Archives", "Coral Gardens of Reflection"]
-connected_npcs: ["Archivist Nereon Deepcurrent", "Captain Marina Pearlwhisper", "Elder Corallius"]
-rewards: ["Ancient Navigation Charts", "Marina's Compass", "Deepmere Breathing Apparatus", "Scholar's Favor"]
-status: "complete"
+quest_type: Side Quest
+world: Aquabyssos
+region: The Deepmere Reaches
+level_range: 3-5
+duration: 2-4 sessions
+difficulty: Medium
+themes:
+- discovery
+- ancient civilizations
+- lost knowledge
+- underwater exploration
+- magical preservation
+connected_factions:
+- The Deepmere Scholars
+- Coral Guardians
+- Tidecaller Navy
+connected_locations:
+- Sunken Marina
+- The Deepmere Archives
+- Coral Gardens of Reflection
+connected_npcs:
+- Archivist Nereon Deepcurrent
+- Captain Marina Pearlwhisper
+- Elder Corallius
+rewards:
+- Ancient Navigation Charts
+- Marina's Compass
+- Deepmere Breathing Apparatus
+- Scholar's Favor
+status: complete
 created: 2025-08-08
-last_modified: 2025-08-10
-  - Category/Quest
+last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.071702+00:00'
+type: Lore
 ---
+
 
 # Discover Marina
 

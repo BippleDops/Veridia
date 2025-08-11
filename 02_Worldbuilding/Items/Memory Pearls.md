@@ -1,17 +1,27 @@
 ---
-tags: [item, consumable, memory-magic, aquabyssos, memory-farmers, healing-item]
-status: "complete"
-world: "Aquabyssos"
-type: "consumable"
-item_type: "Memory Storage Consumable"
-rarity: "Uncommon to Legendary (varies by content)"
-requires_attunement: "No"
-affiliation: "[[Memory Farmers]] (Primary Creators)"
-current_location: "Various Markets and Collections Throughout Aquabyssos"
+tags:
+- aquabyssos
+- complete
+- consumable
+- healing-item
+- item
+- memory-farmers
+- memory-magic
+status: complete
+world: Aquabyssos
+type: Item
+item_type: Memory Storage Consumable
+rarity: Uncommon to Legendary (varies by content)
+requires_attunement: 'No'
+affiliation: '[[Memory Farmers]] (Primary Creators)'
+current_location: Various Markets and Collections Throughout Aquabyssos
 danger_level: 2
-created_by: "Claude"
+created_by: Claude
 created: 2025-08-10
+updated: '2025-08-11T13:08:47.098631+00:00'
 ---
+
+
 
 # Memory Pearls
 *Crystallized Experience in Lustrous Form*
@@ -418,3 +428,9 @@ Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memorie
 - Identity questions arise from extensive pearl consumption
 - Moral dilemmas about commodifying personal experiences
 - Cultural exchange through consuming memories from different backgrounds
+
+## Connections
+
+- [[Memory Farmer Thane]]
+- [[Sister Morwyn]]
+- [[The Recursion Cult]]

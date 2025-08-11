@@ -1,21 +1,16 @@
 ---
-tags: [npc, information-broker, spy, mutant, neutral-zone, third-eye, cross-realm]
-status: "complete"
-world: "Neutral Zone"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Human (Mutant)"
-class: "Rogue (Mastermind)/Warlock"
-level: 11
-faction: "Independent"
-location: "The Crossroads Tavern"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.625311+00:00'
+created: '2025-08-11T13:08:49.625311+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Jasper "Three-Eyes" Flint
 
@@ -292,3 +287,10 @@ Jasper Three-Eyes Flint serves as a perfect facilitator for complex political an
 - The complex web of loyalties that binds information networks together
 
 His character represents the theme that knowledge is power, but power always comes with responsibility and dangerous consequences. He's simultaneously indispensable and dangerous, trustworthy within his strict parameters and completely unreliable outside them.
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

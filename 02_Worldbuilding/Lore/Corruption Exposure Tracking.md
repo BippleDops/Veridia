@@ -1,15 +1,31 @@
 ---
-tags: [system, mechanics, corruption, tracking, crystal-plague, shadow-influence, void-exposure, aethermoor, aquabyssos, game-rules]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- complete
+- corruption
+- crystal-plague
+- game-rules
+- lore
+- mechanics
+- shadow-influence
+- system
+- tracking
+- void-exposure
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-system_type: "Character Condition Tracking"
-complexity_level: "Advanced"
-usage_context: "Ongoing Campaign Mechanics"
+updated: '2025-08-11T13:08:48.729467+00:00'
+system_type: Character Condition Tracking
+complexity_level: Advanced
+usage_context: Ongoing Campaign Mechanics
 ---
+
+
+
 
 # Corruption Exposure Tracking
 *Systematic Documentation of Supernatural Influence on Mortal Consciousness*
@@ -170,3 +186,15 @@ A new form of corruption affecting individuals exposed to both [[Aethermoor]] an
 - [[Dr. Lysander Mindbinder]] - Leading expert in corruption medicine and tracking protocols
 - [[Port Meridian Medical Institute]] - Primary treatment facility for corruption cases
 - [[Institute for Supernatural Health Studies]] - Research organization developing tracking standards
+
+
+## Connections
+
+- [[Depth Adaptation Points]]
+- [[Echo of the Mother]]
+- [[Investigation Procedures]]
+- [[Madness Effects]]
+- [[Sorrow Pearls]]
+- [[Spell Components]]
+- [[The Deep Mother]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

@@ -1,15 +1,24 @@
 ---
-tags: [location, academy, magic, research]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- academy
+- aethermoor
+- complete
+- location
+- magic
+- research
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.091580+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Gilded Shard
 
@@ -537,3 +546,10 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 
 > [!danger] DM Secret
 > The [[Seven Shards]] fragment at the academy's core is slowly growing, fed by the ambient magical energy of thousands of daily spells. [[Professor Aldric Crystalweaver]] has been deliberately concealing this growth because he believes a fully reconstituted Shard would give him god-like power. He's been manipulating research projects and student assignments to channel more energy into the fragment, and is planning to trigger its awakening during the next Great Exhibition when magical energy peaks.
+
+
+## Connections
+
+- [[Aboleth Adjunct Yzz]]
+- [[Azure Citadel]]
+- [[Crystalhaven]]

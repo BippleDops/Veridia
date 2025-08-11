@@ -1,14 +1,26 @@
 ---
-tags: [lore, possessed-nobles, crystal-possession, court-corruption, political-intrigue, aethermoor, shadow-infiltration, aristocracy, power-corruption]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Political Faction"
-significance: "Major Threat"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aristocracy
+- complete
+- court-corruption
+- crystal-possession
+- lore
+- political-intrigue
+- possessed-nobles
+- power-corruption
+- shadow-infiltration
+status: complete
+world: Aethermoor
+type: Lore
+category: Political Faction
+significance: Major Threat
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.444932+00:00'
 ---
+
+
 
 # Possessed Noble Coterie
 *When Power Corrupts the Powerful*
@@ -326,3 +338,11 @@ The coterie inadvertently spreads corruption through their actions:
 
 *"They still wear the masks of nobility, but behind those crystal eyes burns something that was never human."*
 *- Lady Dawn Pureheart, resistance leader*
+
+
+## Connections
+
+- [[Crystal Guard Elite]]
+- [[Customs House]]
+- [[The Queen]]
+- [[Throne Room]]

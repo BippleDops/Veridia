@@ -1,19 +1,27 @@
 ---
-tags: [quest, political, diplomacy, level-10-15, faction-unity]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-level_range: "10-15"
-quest_type: "Political Intrigue Campaign Arc"
-estimated_sessions: "5-7"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- diplomacy
+- faction-unity
+- level-10-15
+- political
+- quest
+status: complete
+world: Aethermoor
+type: Lore
+level_range: 10-15
+quest_type: Political Intrigue Campaign Arc
+estimated_sessions: 5-7
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Quest
+updated: '2025-08-11T13:08:50.036897+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Quest - The Moderate Path
 *Forge Unity Between Warring Factions Before the World Tears Itself Apart*
@@ -436,3 +444,8 @@ Foreign powers may intervene to either support or destabilize the peace process,
 - **Modify shadow involvement**: Shadow conspiracy can be more or less prominent
 
 This quest challenges players to think beyond simple combat solutions and engage with the complex realities of political change. Success requires both tactical thinking and genuine empathy for different perspectives, making it a mature exploration of leadership and responsibility.
+
+
+## Connections
+
+- [[Quest - Diplomatic Immunity]]

@@ -1,11 +1,22 @@
 ---
-tags: [quest, rescue-mission, exploration, mystery]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- exploration
+- mystery
+- quest
+- rescue-mission
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.312621+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Lost Expedition
 
@@ -115,3 +126,38 @@ The quest explores themes of scientific ambition versus safety, the value of kno
 
 ## DM Notes
 This rescue mission can serve as introduction to deeper mysteries or ancient civilizations. The expedition's fate should reflect campaign themes - whether emphasizing horror, wonder, or political intrigue.
+
+
+## Connections
+
+- [[The Cerulean Trench]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

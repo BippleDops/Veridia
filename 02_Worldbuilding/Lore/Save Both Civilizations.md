@@ -1,17 +1,31 @@
 ---
-tags: [campaign-objective, both-worlds, civilization-preservation, unity, cooperation, existential-threat, alliance-building, survival, heroic-mission, ultimate-goal]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- alliance-building
+- both-worlds
+- campaign-objective
+- civilization-preservation
+- complete
+- cooperation
+- existential-threat
+- heroic-mission
+- lore
+- survival
+- ultimate-goal
+- unity
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-objective_type: "Ultimate Campaign Goal"
-scope: "Both Worlds"
-urgency: "Critical"
-alliance_requirement: "Essential"
-threat_level: "Existential"
+updated: '2025-08-11T13:08:48.522689+00:00'
+objective_type: Ultimate Campaign Goal
+scope: Both Worlds
+urgency: Critical
+alliance_requirement: Essential
+threat_level: Existential
 ---
+
+
 
 # Save Both Civilizations
 *The Ultimate Unity Challenge*

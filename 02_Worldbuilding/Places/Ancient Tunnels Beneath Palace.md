@@ -1,22 +1,17 @@
 ---
-tags: [location, aethermoor, tunnels, underground, ancient, ruins, mystery, danger]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Ancient Underground Complex"
-parent_location: "Crystalhaven Royal Palace"
-depth: "50-200 feet below palace foundations"
-danger_level: 8
-population: "Abandoned (occasional explorers and creatures)"
-government: "Technically crown property, but largely forgotten"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.434290+00:00'
+created: '2025-08-11T13:08:50.434290+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Ancient Tunnels Beneath Palace
 *The Forgotten Depths of Power*
@@ -598,3 +593,11 @@ Beneath the gleaming crystal spires and marble halls of [[Crystalhaven]]'s Royal
 - [[Ancient Crystal Technology]]
 - [[Royal Bloodline Powers]]
 - [[Archaeological Discoveries]]
+
+
+## Connections
+
+- [[Thalassius the Wise]]
+- [[Port Meridian Harbor]]
+- [[The Royal Palace]]
+- [[Aethermoor - Session 05 The Queens Madness]]

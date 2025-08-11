@@ -1,21 +1,15 @@
 ---
-tags: [npc, lighthouse keeper, guardian, aethermoor, maritime, crystal-touched]
-status: "active"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-race: "Half-Elf"
-class: "Ranger/Warlock"
-level: 13
-faction: "Independent"
-location: "Beacon Point Lighthouse"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.846728+00:00'
+created: '2025-08-11T13:08:49.846728+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # Alaric Stormwatch, the Keeper of the Light
 

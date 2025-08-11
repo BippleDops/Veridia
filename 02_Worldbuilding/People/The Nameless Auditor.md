@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aethermoor, silverscale-consortium, spymaster, information-broker, mysterious]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Scale of Information"
-affiliation: "[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales"
-age: "Unknown"
-race: "Unknown (appears human)"
-location: "[[The Black Ledger]] - Intelligence Archive"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- information-broker
+- mysterious
+- npc
+- person
+- silverscale-consortium
+- spymaster
+status: complete
+world: Aethermoor
+type: NPC
+role: Scale of Information
+affiliation: '[[02_Worldbuilding/Groups/Silverscale Consortium]] - Board of Scales'
+age: Unknown
+race: Unknown (appears human)
+location: '[[The Black Ledger]] - Intelligence Archive'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.814075+00:00'
 ---
+
+
 
 # The Nameless Auditor
 *Master of Secrets, The Information Broker Supreme*
@@ -383,3 +394,15 @@ A being from the future attempting to prevent disasters by gathering information
 - The horror elements work best when used subtly at first
 - Their lair can serve as both treasure trove and death trap
 - Consider them as recurring villain who's always one step ahead through information
+
+## Connections
+
+- [[Silverscale Consortium]]
+- [[Discover Marina's Truth]]
+- [[Sanity System]]
+- [[The Shadowmire Tavern]]
+- [[Vault Breach]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
+- [[The Sunken Library of Thalassius]]

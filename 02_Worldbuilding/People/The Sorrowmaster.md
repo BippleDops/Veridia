@@ -1,21 +1,16 @@
 ---
-tags: [npc, sorrowmaster, death-priest, aquabyssos, necromancer, grief]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Deep Merfolk"
-class: "Necromancer/Death Domain Cleric"
-level: 15
-faction: "The Parasite Priests"
-location: "Grief Gardens"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.981506+00:00'
+created: '2025-08-11T13:08:49.981506+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Morteus Grieveheart, the Sorrowmaster
 
@@ -158,3 +153,10 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 - "Let me ease your suffering—there are ways to speak with the departed..."
 
 **Mannerisms**: Always maintains perfect posture, as if conducting a funeral service. His hands move in subtle blessing gestures when he speaks. He has a habit of touching mourning jewelry worn by others, claiming he can sense the grief contained within. Water around him becomes still and dark, reflecting his emotional state.
+
+
+## Connections
+
+- [[The Resonance Prophet]]
+- [[The Mourning Depths]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]

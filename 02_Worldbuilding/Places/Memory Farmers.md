@@ -1,18 +1,38 @@
 ---
-tags: [faction, memory, farming, aquabyssos, psychological, merchants, dangerous, unethical]
-status: "completed"
-world: "Aquabyssos"
-type: "Criminal Organization"
+tags:
+- aquabyssos
+- completed
+- criminal-organization
+- dangerous
+- faction
+- farming
+- memory
+- merchants
+- psychological
+- unethical
+status: completed
+world: Aquabyssos
+type: Location
 danger_level: 8
-headquarters: "[[02_Worldbuilding/Places/Memory Meadows Black Market]]"
-leader: "[[02_Worldbuilding/People/Memory Merchant Valeria]]"
-specialties: ["Memory Extraction", "Experience Harvesting", "Consciousness Trafficking", "Psychological Manipulation"]
-founded: "Second Age of Aquabyssos"
-current_status: "Active but Underground"
+headquarters: '[[02_Worldbuilding/Places/Memory Meadows Black Market]]'
+leader: '[[02_Worldbuilding/People/Memory Merchant Valeria]]'
+specialties:
+- Memory Extraction
+- Experience Harvesting
+- Consciousness Trafficking
+- Psychological Manipulation
+founded: Second Age of Aquabyssos
+current_status: Active but Underground
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Memory Alterations]]", "[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]", "[[02_Worldbuilding/People/Memory Trader Kellian]]"]
+updated: '2025-08-11T13:08:50.646195+00:00'
+related_entities:
+- '[[02_Worldbuilding/Lore/Memory Alterations]]'
+- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02_Worldbuilding/People/Memory Trader Kellian]]'
 ---
+
+
+
 
 # Memory Farmers
 *Harvesters of Experience and Consciousness*
@@ -215,3 +235,49 @@ Memory Farmers provide:
 - Economic and political intrigue through underground markets
 - Potential for redemption arcs involving reformed Memory Farmers
 EOF < /dev/null
+
+## Connections
+
+- [[Shadow Conspiracy Investigation]]
+- [[Shadow Surgeon Strike Team]]
+- [[Shadow Surgeons Collective]]
+- [[Shadow Surgery Centers]]
+- [[The Liminal Trading Company]]
+- [[The Parliament of Nobody]]
+- [[The Shadow Conspiracy]]
+- [[Memory Pearls]]
+- [[The Tidal Shard of Memory]]
+- [[The Forgotten Isles]]
+- [[Commander Typhoon Blackheart]]
+- [[Marina Red Tide Coralheart - Aquabyssos]]
+- [[Memory Harvester Kythara]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Oracle Nerida the Tidereader]]
+- [[The Nameless Auditor]]
+- [[Tribune Cassia Deepcurrent]]
+- [[Abyssos Prime Docks]]
+- [[Azure Citadel]]
+- [[Barkeep Mira Algaebrew]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Mediator Serenity Stillwater]]
+- [[Memory Farmer Thane]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Navigator Flux]]
+- [[Old Sally Seasprayer]]
+- [[Shadow Merchant Riptide]]
+- [[Tethyan Hegemony]]
+- [[The Forgotten One]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Frozen Throne]]
+- [[The Gilded Shard]]
+- [[The Memory Storm Fields]]
+- [[The Mourning Depths]]
+- [[The Neutral Current Tavern]]
+- [[The Neutral Ground]]
+- [[The Shadowmire Tavern]]
+- [[The Tidepool Markets]]
+- [[Void Currents]]
+- [[Find the Grief Bomb]]
+- [[The Lock Saboteur]]

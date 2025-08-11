@@ -1,12 +1,21 @@
 ---
-tags: [lore, faction, order, sunken-crown, organization]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- faction
+- lore
+- order
+- organization
+- sunken-crown
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.347375+00:00'
 ---
+
+
 
 # Order of the Sunken Crown
 
@@ -44,3 +53,14 @@ Lifetime membership with generational inheritance of obligations.
 
 ## Campaign Use
 Provides political intrigue, ancient mysteries, and moral complexity around legitimate authority and lost heritage.
+
+
+## Connections
+
+- [[Kraken Territories]]
+- [[Leviathan Graveyard]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Seven Shards]]
+- [[The Cerulean Trench]]
+- [[The Primordial Vaults]]

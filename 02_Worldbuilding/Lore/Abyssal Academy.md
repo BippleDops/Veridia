@@ -1,18 +1,37 @@
 ---
-tags: [location, academy, education, deep-lore, forbidden-knowledge, aquabyssos, institution]
-status: "completed"
-world: "Aquabyssos"
-type: "Educational Institution"
+tags:
+- academy
+- aquabyssos
+- completed
+- deep-lore
+- education
+- educational-institution
+- forbidden-knowledge
+- institution
+- location
+status: completed
+world: Aquabyssos
+type: Lore
 danger_level: 6
-parent_location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-government: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-leader: "[[02_Worldbuilding/People/Professor Euclid Mindmaze]]"
-specialties: ["Deep Lore Research", "Psionic Studies", "Aberrant Biology", "Ancient History"]
-founded: "Third Age of Aquabyssos"
+parent_location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+government: '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+leader: '[[02_Worldbuilding/People/Professor Euclid Mindmaze]]'
+specialties:
+- Deep Lore Research
+- Psionic Studies
+- Aberrant Biology
+- Ancient History
+founded: Third Age of Aquabyssos
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Deep Mother]]", "[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]", "[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]"]
+updated: '2025-08-11T13:08:49.141913+00:00'
+related_entities:
+- '[[02_Worldbuilding/Lore/Deep Mother]]'
+- '[[02_Worldbuilding/Lore/Aboleth Mind Mazes]]'
+- '[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 ---
+
+
+
 
 # Abyssal Academy
 *Institute of Deep Knowledge and Forbidden Studies*
@@ -164,3 +183,9 @@ The Abyssal Academy serves as:
 - Hub of ethical debates about knowledge versus safety
 - Connection point between surface and deep investigations through alumni networks
 EOF < /dev/null
+
+## Connections
+
+- [[Sage Lysander Deepthought]]
+- [[Lumengarde]]
+- [[New Tethys]]

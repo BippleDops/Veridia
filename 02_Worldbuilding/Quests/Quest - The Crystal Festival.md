@@ -1,21 +1,30 @@
 ---
-tags: [quest, aethermoor, crystal, festival, political, investigation, major-quest]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-quest_type: "Main Story"
-level_range: "8-12"
-quest_giver: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-location: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-rewards: "5000 gp, Noble Title, Crystal Artifacts"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crystal
+- festival
+- investigation
+- major-quest
+- political
+- quest
+status: complete
+world: Aethermoor
+type: Lore
+quest_type: Main Story
+level_range: 8-12
+quest_giver: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+location: '[[02_Worldbuilding/Places/The Crystalline Wastes]]'
+rewards: 5000 gp, Noble Title, Crystal Artifacts
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Quest
+updated: '2025-08-11T13:08:50.086332+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Quest - The Crystal Festival
 *The Convergence of Shards, The Queen's Gambit, The Transformation Celebration*
@@ -344,3 +353,10 @@ Each Shard grants:
 ---
 
 *"At the Crystal Festival, every smile hides a dagger, every toast contains poison, and every celebration becomes a funeral. Choose your dance partners wisely."*
+
+
+## Connections
+
+- [[Purist Coalition]]
+- [[High Inquisitor Maltheos]]
+- [[Quest - Diplomatic Immunity]]

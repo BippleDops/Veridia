@@ -1,10 +1,18 @@
 ---
 aliases: []
 tags:
-  - Category/Note
-type: note
+- both
+- category/note
+- note
+- unknown
+type: Lore
 status: unknown
+world: Both
+updated: '2025-08-11T13:08:47.034555+00:00'
+created: '2025-08-11T13:08:47.034555+00:00'
 ---
+
+
 # Player Portal
 
 Welcome! This section contains player-safe information (no spoilers).

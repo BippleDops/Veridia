@@ -1,15 +1,29 @@
 ---
-tags: [location, aquabyssos, continent, scholars, horror, knowledge]
-depth_range: "500-2000 feet"
+tags:
+- aquabyssos
+- both
+- continent
+- draft
+- horror
+- knowledge
+- location
+- scholars
+depth_range: 500-2000 feet
 population: ~500000
-government: "The Cognition Collective"
-danger_level: "High (Mental)"
-created: 2025-08-07
-  - Category/Place
+government: The Cognition Collective
+danger_level: High (Mental)
+created: 2025-08-07 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.001327+00:00'
+status: draft
+type: Location
 ---
+
+
+
 
 # Nereidios - The Scholar's Grave
 
@@ -151,3 +165,8 @@ The scholars discovered their reality is itself being written. The Infinite Arch
 4. Thought-form of someone's nightmare
 5. Paradox zone where effect precedes cause
 6. Living equation seeking solution
+
+
+## Connections
+
+- [[Crystallium]]

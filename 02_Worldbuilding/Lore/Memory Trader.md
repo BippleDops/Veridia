@@ -1,12 +1,22 @@
 ---
-tags: [lore, npc, memory-merchant, trader, memories, unusual-commerce]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- lore
+- memories
+- memory-merchant
+- npc
+- trader
+- unusual-commerce
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.016345+00:00'
 ---
+
+
 
 # Memory Trader
 
@@ -44,3 +54,13 @@ Memory transactions typically permanent unless reversed through specialized proc
 
 ## Campaign Use
 Provides unique roleplaying opportunities and moral dilemmas around identity, experience, and consciousness.
+
+
+## Connections
+
+- [[Silver Mask]]
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

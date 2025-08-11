@@ -1,26 +1,35 @@
 ---
 tags:
-  - location
-  - port-meridian
-  - underwater
-  - trade
-  - mysterious
+- both
+- draft
+- location
+- mysterious
+- port-meridian
+- trade
+- underwater
 type: Location
-region: "[[02_Worldbuilding/Places/Port Meridian]] Harbor District"
+region: '[[02_Worldbuilding/Places/Port Meridian]] Harbor District'
 danger_level: Moderate
 notable_npcs:
-  - "[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]"
-  - "[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]"
-  - "[[02_Worldbuilding/People/Castellan Ironledger III]]"
+- '[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'
+- '[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]'
+- '[[02_Worldbuilding/People/Castellan Ironledger III]]'
 connected_locations:
-  - "[[02_Worldbuilding/Places/Port Meridian]]"
-  - "[[Aquabyssos]]"
-  - "The Shadowmere (via underwater passages)"
-  - Category/Place
+- '[[02_Worldbuilding/Places/Port Meridian]]'
+- '[[Aquabyssos]]'
+- The Shadowmere (via underwater passages)
+- Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.344346+00:00'
+created: '2025-08-11T13:08:50.344346+00:00'
+status: draft
 ---
+
+
+
 
 # The Sunken Markets
 
@@ -161,3 +170,8 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 
 ## DM Notes
 The Sunken Markets serve as the primary interface between the surface world and Aquabyssos, allowing introduction of underwater elements without requiring full aquatic adventures. The location's mix of commerce and danger provides opportunities for social encounters, investigation, and combat. The various factions present create natural conflict and alliance opportunities. The ancient nature of the site connects to the deeper mysteries of both the Seven Shards and the origins of the crystal corruption.
+
+
+## Connections
+
+- [[Rescue Senator Glaucus]]

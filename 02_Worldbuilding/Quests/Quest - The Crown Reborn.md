@@ -1,19 +1,28 @@
 ---
-tags: [quest, epic, seven-shards, crown, level-10-15, major-campaign]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-level_range: "10-15"
-quest_type: "Epic Campaign Arc"
-estimated_sessions: "6-8"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crown
+- epic
+- level-10-15
+- major-campaign
+- quest
+- seven-shards
+status: complete
+world: Aethermoor
+type: Lore
+level_range: 10-15
+quest_type: Epic Campaign Arc
+estimated_sessions: 6-8
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Quest
+updated: '2025-08-11T13:08:50.059317+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Quest - The Crown Reborn
 *Unite the Seven Shards and Restore the Ancient Crown of Stars*
@@ -395,3 +404,9 @@ The reformation ritual requires the party to channel immense power while every f
 - The complexity of moral choices
 
 This quest serves as a capstone adventure that ties together multiple campaign threads while giving the party meaningful choices about the world's future. The Crown's reformation represents not just magical power, but the responsibility to guide civilization through cosmic challenges.
+
+
+## Connections
+
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]

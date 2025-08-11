@@ -1,14 +1,27 @@
 ---
-tags: [lore, forgetting-bomb, memory-weapon, aquabyssos, mass-amnesia, warfare, technology, memory-alteration, psychological-warfare, strategic-weapon]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Weapon Technology"
-significance: "Strategic Threat"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- forgetting-bomb
+- lore
+- mass-amnesia
+- memory-alteration
+- memory-weapon
+- psychological-warfare
+- strategic-weapon
+- technology
+- warfare
+status: complete
+world: Aquabyssos
+type: Lore
+category: Weapon Technology
+significance: Strategic Threat
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.327517+00:00'
 ---
+
+
 
 # The Forgetting Bomb
 *The Ultimate Memory Weapon*
@@ -372,3 +385,9 @@ Marina's unique nature creates both vulnerability and resistance:
 
 *"They say death is the great equalizer, but forgetting is the great eraser. Death takes your future, but amnesia steals your past, present, and the very meaning of your existence."*
 *- Dr. Nereus Thoughtweaver, creator of the Forgetting Bomb*
+
+
+## Connections
+
+- [[The Parliament of Nobody]]
+- [[The Memory Weapon Arms Race]]

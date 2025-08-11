@@ -1,21 +1,16 @@
 ---
-tags: [npc, senator, politician, aquabyssos, government]
-status: "active"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-race: "Merfolk"
-class: "Noble/Enchanter"
-level: 11
-faction: "Parliament Loyalists"
-location: "Parliament Chambers"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.948687+00:00'
+created: '2025-08-11T13:08:49.948687+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Senator Cordelia Deepcurrent
 
@@ -144,3 +139,33 @@ She represents the Deepcurrent District, the wealthiest area of Aquabyssos, wher
 - "History will judge us by our wisdom, not our good intentions..."
 
 **Mannerisms**: Always perfectly groomed and composed. She has a habit of touching her pearl necklace when thinking deeply, and her fins flutter slightly when she's annoyed (though she tries to suppress this tell). She never interrupts others but somehow always gets the last word in any conversation.
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,34 +1,36 @@
 ---
-tags: 
-  - quest
-  - aquabyssos
-  - military
-  - rebellion
-  - corruption
-  - investigation
-  - politics
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-level: "8-12"
-duration: "3-5 sessions"
-difficulty: "Medium-High"
-quest_giver: "Captain Lyralei Deepcurrent"
-location: "Deep Guard Fortress, The Shattered Depths"
-rewards: "Irontrident Plate, Medal of Deep Honor, Military Connections"
-prerequisites: "Neutral to positive reputation with Deep Guard"
+tags:
+- aquabyssos
+- complete
+- corruption
+- investigation
+- military
+- politics
+- quest
+- rebellion
+status: complete
+world: Aquabyssos
+type: Lore
+level: 8-12
+duration: 3-5 sessions
+difficulty: Medium-High
+quest_giver: Captain Lyralei Deepcurrent
+location: Deep Guard Fortress, The Shattered Depths
+rewards: Irontrident Plate, Medal of Deep Honor, Military Connections
+prerequisites: Neutral to positive reputation with Deep Guard
 connected_to:
-  - "Deep Guard"
-  - "The Shattered Depths"
-  - "Political Intrigue of Aquabyssos"
-created_by: "DM"
+- Deep Guard
+- The Shattered Depths
+- Political Intrigue of Aquabyssos
+created_by: DM
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.055040+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
+
 
 # Commander Varek Irontrident
 
@@ -304,3 +306,10 @@ The outcome of this quest can significantly impact the political landscape of Aq
 - **Social Campaign**: Emphasize political maneuvering over action sequences
 
 The Commander Varek Irontrident quest explores themes of loyalty, honor, and the price of difficult choices, while providing a complex mystery that challenges players' assumptions about heroes and villains.
+
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]
+- [[Pearl_Harbor_City]]
+- [[The_Second_Rising]]

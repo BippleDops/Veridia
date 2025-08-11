@@ -1,18 +1,27 @@
 ---
-tags: [quest, aethermoor, elena-starweaver, memory-magic, identity-crisis, marina-connection]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- elena-starweaver
+- identity-crisis
+- marina-connection
+- memory-magic
+- quest
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-level_range: "4-6"
-party_size: "3-6"
-estimated_duration: "5-7 sessions"
+updated: '2025-08-11T13:08:50.069448+00:00'
+level_range: 4-6
+party_size: 3-6
+estimated_duration: 5-7 sessions
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
+
 
 # The Elena Starweaver Enigma
 
@@ -1038,3 +1047,20 @@ A maintenance worker or security guard approaches the party with reports of impo
 ---
 
 *The Elena Starweaver Enigma serves as both a personal rescue mission and a profound exploration of identity, consciousness, and the cosmic forces that govern individual existence. The party's success in helping Elena provides crucial insights into Marina's condition while establishing their expertise in reality-threatening phenomena involving consciousness and identity manipulation.*
+
+
+## Connections
+
+- [[Gareth_Ironforge]]
+- [[Market_District]]
+- [[Pearl_Harbor_City]]
+- [[The Gilded Shard]]
+- [[Aether Crystals]]
+- [[Bandit Scouts]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[The_Second_Rising]]
+- [[Traveling Merchant Finn]]

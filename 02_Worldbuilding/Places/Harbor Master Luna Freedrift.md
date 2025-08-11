@@ -1,20 +1,17 @@
 ---
-tags: [npc, harbor-master, sailor, half-elf, rogue]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-challenge_rating: 8
-race: "Half-Elf"
-class: "Rogue 11 / Fighter 2"
-alignment: "Chaotic Good"
-  - Category/NPC
-MyContainer: None
-MyCategory: NPCs
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.440989+00:00'
+created: '2025-08-11T13:08:50.440989+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Harbor Master Luna Freedrift
 
@@ -162,3 +159,17 @@ Located in the [[Harbor Master's Tower]], a converted lighthouse overlooking the
 ---
 
 *"The tide waits for no one, but a smart sailor learns to read the currents. In this harbor, I am both tide and current—cross me at your peril, sail with me to prosperity."* - Harbor Master Luna Freedrift
+
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Admiral Thorne Blackwater]]
+- [[Captain Garrett Stormcutter]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[The Crimson Shard Guardian]]
+- [[The Tidecaller]]
+- [[Lucky Finn Dicetide]]
+- [[Supplier Erikson Tidecaller]]
+- [[The Wandering Atoll]]

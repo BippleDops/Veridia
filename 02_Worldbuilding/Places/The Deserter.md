@@ -1,22 +1,34 @@
 ---
-tags: [character, npc, deserter, military, aquabyssos, exile, rogue, survivor, outcast]
-status: "complete"
-world: "Aquabyssos"
-type: "character"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- character
+- complete
+- deserter
+- exile
+- military
+- npc
+- outcast
+- rogue
+- survivor
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Military Exile"
-faction: "Independent/Exile"
-class: "Fighter/Rogue"
+updated: '2025-08-11T13:08:50.327806+00:00'
+character_type: Military Exile
+faction: Independent/Exile
+class: Fighter/Rogue
 level: 10
 cr: 7
-occupation: "Freelance Operator"
-location: "The Outer Territories, Aquabyssos"
+occupation: Freelance Operator
+location: The Outer Territories, Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
 
 # The Deserter
 *A Soldier's Conscience in Exile*

@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aquabyssos, deep-mother, shadow-touched, sorrow-singer, dream-servant]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Deep Mother's Voice"
-affiliation: "[[The Sorrow Singers]] (Shadow Choir)"
-age: "26"
-race: "Human (Shadow-Born)"
-location: "[[Shadow Wells]] - The Echoing Chamber"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- dream-servant
+- npc
+- person
+- shadow-touched
+- sorrow-singer
+status: complete
+world: Aquabyssos
+type: NPC
+role: Deep Mother's Voice
+affiliation: '[[The Sorrow Singers]] (Shadow Choir)'
+age: '26'
+race: Human (Shadow-Born)
+location: '[[Shadow Wells]] - The Echoing Chamber'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.601347+00:00'
 ---
+
+
 
 # The Shadow Singer Naia
 *Voice of the Mother's Sorrow, Keeper of Lamentations*
@@ -308,3 +319,15 @@ Naia's connection to the [[02_Worldbuilding/Lore/The Deep Mother]] grants her pr
 - **Social Role**: Bridge between worlds, translator of divine will, emotional counselor
 - **Plot Function**: Can provide exposition about Shard bearers' emotional states and motivations
 - **Power Balance**: Strong but focused on support and emotional effects rather than direct damage
+
+## Connections
+
+- [[Shadow Independence Levels]]
+- [[Discover Marina's Truth]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Pressure Angel Benthia]]
+- [[The Azure Prophet Nerissa]]
+- [[The Emerald Sage Willowbark]]
+- [[Shadow Wells]]
+- [[Quest - Nature's Balance]]

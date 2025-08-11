@@ -1,18 +1,39 @@
 ---
-tags: [location, nation, confederacy, goldspire, foreign-power, economic, political]
-status: "completed"
-world: "Beyond Aethermoor"
-type: "Foreign Nation"
-government: "Merchant Confederacy"
+tags:
+- beyond-aethermoor
+- completed
+- confederacy
+- economic
+- foreign-nation
+- foreign-power
+- goldspire
+- location
+- nation
+- political
+status: completed
+world: Beyond Aethermoor
+type: Location
+government: Merchant Confederacy
 population: 2500000
-capital: "[[02_Worldbuilding/Places/Goldspire Port]]"
-leader: "Trade Prince Aurelius Gilt"
-specialties: ["International Commerce", "Financial Services", "Naval Power", "Null Technology"]
-relationship_with_aethermoor: "Opportunistic Economic Partner"
+capital: '[[02_Worldbuilding/Places/Goldspire Port]]'
+leader: Trade Prince Aurelius Gilt
+specialties:
+- International Commerce
+- Financial Services
+- Naval Power
+- Null Technology
+relationship_with_aethermoor: Opportunistic Economic Partner
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Quests/Economic Warfare]]", "[[02_Worldbuilding/People/Zephyr Goldwhisper]]", "[[02_Worldbuilding/Places/The Azure Coast]]"]
+updated: '2025-08-11T13:08:50.240167+00:00'
+related_entities:
+- '[[02_Worldbuilding/Quests/Economic Warfare]]'
+- '[[02_Worldbuilding/People/Zephyr Goldwhisper]]'
+- '[[02_Worldbuilding/Places/The Azure Coast]]'
+danger_level: Moderate
 ---
+
+
+
 
 # Goldspire Confederacy
 *The Golden Reach of Maritime Commerce*
@@ -252,3 +273,11 @@ The Goldspire Confederacy provides:
 - Background for characters with commercial or international backgrounds
 - Framework for exploring themes of economic vs. political freedom
 EOF < /dev/null
+
+## Connections
+
+- [[Bandit Leader Scarface]]
+- [[Economic Warfare]]
+- [[Smuggler's Gambit]]
+- [[The Green Death]]
+- [[Campaign_Relationship_Matrix]]

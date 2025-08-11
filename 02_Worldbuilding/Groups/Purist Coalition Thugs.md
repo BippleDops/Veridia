@@ -1,23 +1,31 @@
 ---
-tags: [faction, extremist, aethermoor, anti-corruption, militant, minor-faction]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Extremist Movement"
-alignment: "Chaotic Good (extremist methods)"
-headquarters: "[[The Pure Sanctum]]"
-leader: "[[Purifier Marcus Steelbane]]"
-members: "~2,000 active militants, 5,000+ sympathizers"
-influence: "Regional (Underground network)"
-wealth: "Limited (donations and seized assets)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- anti-corruption
+- complete
+- extremist
+- faction
+- militant
+- minor-faction
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Extremist Movement
+alignment: Chaotic Good (extremist methods)
+headquarters: '[[The Pure Sanctum]]'
+leader: '[[Purifier Marcus Steelbane]]'
+members: ~2,000 active militants, 5,000+ sympathizers
+influence: Regional (Underground network)
+wealth: Limited (donations and seized assets)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Group
+updated: '2025-08-11T13:08:51.402182+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Purist Coalition Thugs
 *The Clean Blade Movement, Crystal Breakers, Guardians of Natural Order*
@@ -359,3 +367,8 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ---
 
 *"We are not terrorists - we are healers cutting out a cancer before it kills the patient. Every crystal facility we destroy is a life saved from magical addiction. Every collaborator we eliminate is a step toward natural freedom."*
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

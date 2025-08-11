@@ -1,18 +1,32 @@
 ---
-tags: [faction, group, cross-realm, trading-company, merchants, smugglers, aethermoor, aquabyssos]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "faction"
-faction_type: "Cross-Realm Trading Syndicate"
-alignment: "True Neutral (Profit-focused)"
-headquarters: "[[The Floating Market]] (dimensional nexus)"
-leader: "[[Merchant Prince Vortex]]"
-members: "~1,200 traders, smugglers, and support staff"
-influence: "Significant (controls cross-realm commerce)"
-purpose: "Profit from inter-dimensional trade"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-aethermoor-&-aquabyssos
+- complete
+- cross-realm
+- faction
+- group
+- merchants
+- smugglers
+- trading-company
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Group
+faction_type: Cross-Realm Trading Syndicate
+alignment: True Neutral (Profit-focused)
+headquarters: '[[The Floating Market]] (dimensional nexus)'
+leader: '[[Merchant Prince Vortex]]'
+members: ~1,200 traders, smugglers, and support staff
+influence: Significant (controls cross-realm commerce)
+purpose: Profit from inter-dimensional trade
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:51.385573+00:00'
 ---
+
+
+
 
 # The Liminal Trading Company
 *Masters of Between-World Commerce, The Dimensional Merchants*
@@ -421,3 +435,23 @@ The Company ultimately envisions itself as the foundation of a unified multi-dim
 - Moral ambiguity of profit-first philosophy creates ethical dilemmas
 - Financial resources and influence make them powerful allies or enemies
 - Their neutrality can be tested by forcing them to choose sides in major conflicts
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Void Watchers]]
+- [[The Pressure Maelstroms]]
+- [[Commander Typhoon Blackheart]]
+- [[Oracle Nerida the Tidereader]]
+- [[Tenebrarum Ambassadors]]
+- [[Tribune Cassia Deepcurrent]]
+- [[The Floating Market]]
+- [[The Shadowmire Tavern]]
+- [[The Threshold Chambers]]
+- [[The Tidepool Markets]]
+- [[Goldspire Confederacy]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]

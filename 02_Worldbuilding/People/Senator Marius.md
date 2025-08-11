@@ -1,21 +1,17 @@
 ---
-tags: [npc, senator, politician, reformer, aquabyssos, idealist, parliament]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Sea Elf"
-class: "Bard (College of Eloquence)/Noble"
-level: 9
-faction: "Progressive Parliament"
-location: "Senate Chambers"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.836333+00:00'
+created: '2025-08-11T13:08:49.836333+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
+
 
 # Senator Marcus Marius Tidespeaker
 
@@ -108,3 +104,31 @@ Born to House Tidespeaker, a minor noble family that lost their fortune defendin
 **Speaking Patterns**: "The people of Aquabyssos deserve better...", "Justice delayed is justice denied...", "We must be the change we wish to see in our empire..."
 
 Marcus represents idealistic reform in a corrupt system, serving as a potential patron for heroic characters while facing constant threats from those who profit from the status quo. He embodies the struggle between pragmatic politics and moral principles.
+
+## Connections
+
+- [[Senator_Glaucus_Brain]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

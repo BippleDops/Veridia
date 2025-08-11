@@ -1,14 +1,25 @@
 ---
-tags: [mechanics, combat-tools, initiative, turn-order, combat-management, both-realms]
-status: "complete"
-world: "Both"
-type: "game-mechanics"
-system: "D&D 5e"
-complexity: "Intermediate"
-created_by: "auto-stub"
+tags:
+- both
+- both-realms
+- combat-management
+- combat-tools
+- complete
+- game-mechanics
+- initiative
+- mechanics
+- turn-order
+status: complete
+world: Both
+type: Lore
+system: D&D 5e
+complexity: Intermediate
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.257880+00:00'
 ---
+
+
 
 # Initiative Tracker
 *Advanced Combat Organization for the Merged Realms*
@@ -467,3 +478,9 @@ Initiative performance can affect [[Reputation System]] standings:
 - **[[Emergency Combat Procedures]]**: Rapid resolution methods for urgent situations
 
 The Initiative Tracker serves as the foundation for organized, engaging combat that takes full advantage of the unique environmental, temporal, and dimensional challenges present in the merged realms while maintaining clear, manageable gameplay flow.
+
+
+## Connections
+
+- [[Multi-Phase Boss Fights]]
+- [[Random Encounters]]

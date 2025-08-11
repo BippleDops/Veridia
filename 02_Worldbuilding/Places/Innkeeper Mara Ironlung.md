@@ -1,16 +1,26 @@
 ---
-tags: [tavern, inn, aquabyssos, corruption, safe-haven]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- corruption
+- inn
+- location
+- safe-haven
+- tavern
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Place
+updated: '2025-08-11T13:08:50.525177+00:00'
 MyContainer: None
 MyCategory: Tavern
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # The Ironlung Tavern
 
@@ -32,7 +42,7 @@ The tavern is carved directly into a living coral reef, with walls that pulse ge
 
 ### [[Mara Ironlung]] (Innkeeper)
 *Medium humanoid (sea elf), neutral good*
-**AC** 12 **HP** 58 **Speed** 30 ft., swim 30 ft.
+**AS** 12 **HP** 58 **Speed** 30 ft., swim 30 ft.
 **STR** 14 **DEX** 15 **CON** 16 **INT** 13 **WIS** 17 **CHA** 14
 
 A weathered sea elf with gills along her neck and barnacles growing on her arms - signs of the creeping corruption she fights daily. Despite this, her eyes burn with determination and kindness.
@@ -138,3 +148,8 @@ A coded message arrives for the party from [[The Resistance Network]]. They must
 - [[Mara Ironlung]] is secretly funding [[The Resistance Network]] through her tavern profits
 - The coral formation housing the tavern is slowly dying, and Mara is desperately seeking a way to save it
 - [[Whisper]] is actually a spy for [[The Corrupted Admiralty]], but has grown to care for the tavern and its patrons
+
+
+## Connections
+
+- [[Pressure's End]]

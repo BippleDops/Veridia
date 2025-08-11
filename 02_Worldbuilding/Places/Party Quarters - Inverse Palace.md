@@ -1,11 +1,22 @@
 ---
-tags: [location, palace, entertainment, luxury]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- entertainment
+- location
+- luxury
+- palace
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.906483+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Party Quarters - Inverse Palace
 
@@ -66,3 +77,32 @@ This unique venue hosts the most exclusive social events in Aquabyssos, where th
 
 ## DM Notes
 This location provides unique tactical challenges and memorable social encounters. Use the inverted gravity for creative puzzle-solving and combat scenarios that force players to think three-dimensionally.
+
+
+## Connections
+
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+
+
+## History
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

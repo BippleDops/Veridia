@@ -1,26 +1,54 @@
 ---
-tags: [Quest, Aquabyssos, Pirates, Investigation, Naval, Mystery]
+tags:
+- aquabyssos
+- complete
+- investigation
+- mystery
+- naval
+- pirates
+- quest
 quest_status: Active
 quest_priority: High
-quest_type: "Main Story"
-world: "Aquabyssos"
-region: "Tidecaller Archipelago"
-level_range: "4-7"
-duration: "4-6 sessions"
-difficulty: "Medium"
-themes: ["piracy", "betrayal", "loyalty", "maritime law", "redemption"]
-connected_factions: ["Tidecaller Navy", "The Corsair Brotherhood", "Port Authority"]
-connected_locations: ["Port Maelstrom", "The Sunken Quarter", "Blackwater's Haven"]
-connected_npcs: ["Captain Thorne Blackwater", "Admiral Coralia Deepstorm", "First Mate Jerrik"]
-rewards: ["Naval Commission", "Blackwater's Cutlass", "Treasure Map", "Ship Upgrade"]
-status: "complete"
+quest_type: Main Story
+world: Aquabyssos
+region: Tidecaller Archipelago
+level_range: 4-7
+duration: 4-6 sessions
+difficulty: Medium
+themes:
+- piracy
+- betrayal
+- loyalty
+- maritime law
+- redemption
+connected_factions:
+- Tidecaller Navy
+- The Corsair Brotherhood
+- Port Authority
+connected_locations:
+- Port Maelstrom
+- The Sunken Quarter
+- Blackwater's Haven
+connected_npcs:
+- Captain Thorne Blackwater
+- Admiral Coralia Deepstorm
+- First Mate Jerrik
+rewards:
+- Naval Commission
+- Blackwater's Cutlass
+- Treasure Map
+- Ship Upgrade
+status: complete
 created: 2025-08-10
-last_modified: 2025-08-10
-  - Category/Quest
+last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.098673+00:00'
+type: Lore
 ---
+
+
 
 # Captain Blackwater's Fate
 
@@ -247,3 +275,8 @@ The quest will take the party through the political intrigue of Port Maelstrom's
 - Resolution affects civilian trust in military and government institutions
 
 This quest serves as an excellent introduction to the maritime politics of Aquabyssos while providing opportunities for investigation, combat, and moral decision-making that will resonate throughout a longer campaign.
+
+
+## Connections
+
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

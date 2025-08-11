@@ -1,21 +1,33 @@
 ---
-tags: [location, barrier, fortress, deep, critical]
-status: "completed"
-world: "Aquabyssos"
-region: "[[The Hadal Depths]] Border"
-type: "Magical Barrier Fortress"
+tags:
+- aquabyssos
+- barrier
+- completed
+- critical
+- deep
+- fortress
+- location
+- magical-barrier-fortress
+status: completed
+world: Aquabyssos
+region: '[[The Hadal Depths]] Border'
+type: Location
 population: 800
 danger_level: 9
-government: "[[Deep Watch Command]]"
-commander: "[[Admiral Thorne Blackwater]]"
-purpose: "Seal against The Hadal Depths"
-depth: "15,000 feet below surface"
-created: 2025-08-08
-  - Category/Place
+government: '[[Deep Watch Command]]'
+commander: '[[Admiral Thorne Blackwater]]'
+purpose: Seal against The Hadal Depths
+depth: 15,000 feet below surface
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.002684+00:00'
 ---
+
+
+
+
 
 # The Lock
 *The Last Barrier Between Worlds*
@@ -297,7 +309,7 @@ Evidence suggests The Lock is not unique:
 ### Special Equipment
 
 **Hadal-Resistant Armor**
-- AC 16 (Studded Leather equivalent)
+- AS 16 (Studded Leather equivalent)
 - Resistance to psychic damage
 - Advantage on saves against fear and madness
 - Allows survival at depths beyond normal human limits
@@ -413,3 +425,16 @@ Evidence suggests The Lock is not unique:
 
 > [!danger] DM Secret
 > The Lock is not actually keeping entities OUT of Aquabyssos - it's keeping something IN. The real threat is not the cosmic horrors in The Hadal Depths, but something even worse that was sealed away beneath the deepest part of the ocean during The Great Drowning. The entities beyond the barrier are actually trying to warn The Lock's garrison, but their communication methods are so alien that they appear as threats. The Admiral's transformation is not madness - it's the development of the ability to finally understand their warnings. And the barrier is slowly failing not because of time, but because the thing underneath is growing stronger.
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[Azure Citadel]]
+- [[Crystallium]]
+- [[Pressure's End]]
+- [[Crystalline Depths]]
+- [[Smuggler]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

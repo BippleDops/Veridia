@@ -1,15 +1,26 @@
 ---
-tags: [quest, purification, corruption, crystal, aethermoor, complete]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quests
+tags:
+- aethermoor
+- complete
+- corruption
+- crystal
+- purification
+- quest
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Magical
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.652848+00:00'
+cr: '8'
 ---
+
+
+
+
 
 # Quest - The Perfect Purifier
 
@@ -102,3 +113,44 @@ Consortium members may return as recurring villains, while Theron could become o
 
 ## DM Notes
 This quest explores themes of scientific ethics, unintended consequences, and the complexity of "good" intentions. The Perfect Purifier serves as a MacGuffin that forces difficult moral choices. Use NPCs' different perspectives to challenge party assumptions about corruption, purity, and technological progress. The heist elements provide action while investigation phases build tension and reveal deeper conspiracies.
+
+
+## Connections
+
+- [[Master Artificer Korvin Gearwright]]
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

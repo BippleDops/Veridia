@@ -1,15 +1,27 @@
 ---
-tags: [npc, navigator, sage, driftwood, exploration, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- driftwood
+- exploration
+- navigator
+- npc
+- sage
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.474270+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Navigator Sage Driftwood
 
@@ -37,7 +49,7 @@ She dresses in practical but elegant robes made from various aquatic materials -
 
 ## Statistics
 **Medium humanoid (sea elf), neutral good**
-- **AC** 14 (Natural Armor + Wisdom)
+- **AS** 14 (Natural Armor + Wisdom)
 - **HP** 85 (19d8)
 - **Speed** 30 ft, swim 40 ft
 - **STR** 10 (+0) **DEX** 14 (+2) **CON** 12 (+1) **INT** 18 (+4) **WIS** 20 (+5) **CHA** 16 (+3)
@@ -104,3 +116,40 @@ She's also been approached by various factions seeking her navigation services f
 
 ## DM Notes
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
+
+
+## Connections
+
+- [[Compass Quest]]
+- [[The Forgotten One]]
+- [[The Wandering Atoll]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

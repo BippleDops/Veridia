@@ -1,18 +1,33 @@
 ---
-tags: [place, location, aquabyssos, tavern, social-hub, shadow-touched, neutral-ground]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Tavern & Social Hub"
-affiliation: "Neutral Territory"
-significance: "Minor (Social Gathering Point)"
-size: "Medium Building"
-population: "~50-200 daily patrons"
+tags:
+- aquabyssos
+- complete
+- location
+- neutral-ground
+- place
+- shadow-touched
+- social-hub
+- tavern
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Tavern & Social Hub
+affiliation: Neutral Territory
+significance: Minor (Social Gathering Point)
+size: Medium Building
+population: ~50-200 daily patrons
 danger_level: 2
-services: ["Food", "Drink", "Lodging", "Information", "Neutral Meeting Space"]
-created_by: "Claude"
+services:
+- Food
+- Drink
+- Lodging
+- Information
+- Neutral Meeting Space
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.356325+00:00'
 ---
+
 
 # The Shadowmire Tavern
 *Where Secrets Flow Deeper Than the Ale*

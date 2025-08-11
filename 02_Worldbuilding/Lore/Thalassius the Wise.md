@@ -1,9 +1,26 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, thalassius, wise, scholar, ancient, npc, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- ancient
+- aquabyssos
+- both
+- complete
+- lore
+- npc
+- scholar
+- thalassius
+- wise
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:49.173853+00:00'
+created: '2025-08-11T13:08:49.173853+00:00'
+type: Lore
 ---
+
+
+
 
 # Thalassius the Wise
 
@@ -165,3 +182,12 @@ Use Thalassius as a source of wisdom and historical context who can provide guid
 
 ### Customization Options
 Adjust Thalassius's accessibility and knowledge level based on campaign needs - more helpful for learning-focused campaigns, more mysterious for investigation-heavy adventures, or more action-oriented for crisis scenarios.
+
+
+## Connections
+
+- [[Kraken Territories]]
+- [[Leviathan Graveyard]]
+- [[Silver Mask]]
+- [[Spell Components]]
+- [[The Deep Mother]]

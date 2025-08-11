@@ -1,9 +1,24 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aethermoor, crystal-festival, grounds, celebration, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aethermoor
+- both
+- celebration
+- complete
+- crystal-festival
+- grounds
+- lore
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.432858+00:00'
+created: '2025-08-11T13:08:48.432858+00:00'
+type: Lore
 ---
+
+
+
 
 # Crystal Festival Grounds
 
@@ -135,3 +150,11 @@ Use the festival grounds to showcase Aethermoor culture while providing memorabl
 
 ### Customization Options
 Adjust festival complexity and cultural significance to match campaign tone - grander for epic campaigns, more intimate for character-focused adventures, or mysterious for investigation-heavy stories.
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Lamplight Alley]]
+- [[Reputation System]]
+- [[The Real Marina]]

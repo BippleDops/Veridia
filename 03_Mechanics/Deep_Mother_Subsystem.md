@@ -1,17 +1,23 @@
 ---
 title: Complete Deep Mother Subsystem
-type: mechanics
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - deep-mother
-  - cosmic-entity
-  - campaign-antagonist
-  - apocalypse
-  - manifestation
+- apocalypse
+- both
+- campaign-antagonist
+- complete
+- cosmic-entity
+- deep-mother
+- manifestation
+- mechanics
 created: 2025-01-23
 version: 1.0
+world: Both
+updated: '2025-08-11T13:08:47.079414+00:00'
 ---
+
+
 
 # Complete Deep Mother Subsystem
 *The Ultimate Threat from Below the World*

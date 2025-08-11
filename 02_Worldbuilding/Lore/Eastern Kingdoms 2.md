@@ -1,20 +1,45 @@
 ---
-tags: [lore, location, aethermoor, eastern-kingdoms, technology, innovation, crystal-engineering, magical-workshops, trade-guilds, advanced-crafting, industrial-complex, technological-advancement]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "lore-expansion"
+tags:
+- advanced-crafting
+- aethermoor
+- complete
+- crystal-engineering
+- eastern-kingdoms
+- industrial-complex
+- innovation
+- location
+- lore
+- magical-workshops
+- technological-advancement
+- technology
+- trade-guilds
+status: complete
+world: Aethermoor
+type: Lore
+created_by: lore-expansion
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Regional Technological Complex"
-scope: "Continental Significance"
-specialization: "Innovation and Engineering"
-economic_focus: "Advanced Manufacturing"
-political_structure: "Guild Federation"
-technological_level: "Cutting Edge"
-connections: ["[[Crystal Forest]]", "[[Resonance Chamber]]", "[[Pressure Tubes]]", "[[The Great Crystallization]]", "[[Magic Items]]"]
-themes: ["technological_innovation", "magical_engineering", "industrial_advancement", "guild_cooperation", "crystal_mastery"]
+updated: '2025-08-11T13:08:48.724897+00:00'
+location_type: Regional Technological Complex
+scope: Continental Significance
+specialization: Innovation and Engineering
+economic_focus: Advanced Manufacturing
+political_structure: Guild Federation
+technological_level: Cutting Edge
+connections:
+- '[[Crystal Forest]]'
+- '[[Resonance Chamber]]'
+- '[[Pressure Tubes]]'
+- '[[The Great Crystallization]]'
+- '[[Magic Items]]'
+themes:
+- technological_innovation
+- magical_engineering
+- industrial_advancement
+- guild_cooperation
+- crystal_mastery
 ---
+
+
 
 # Eastern Kingdoms
 *The Forge of Innovation and Engineering Excellence*
@@ -378,3 +403,8 @@ The Eastern Kingdoms operate on an economy based on innovation, expertise, and h
 - [[Eastern Technical University]] - Primary educational institution
 - [[Grand Engineer Prism Masterwork]] - Regional technological leader
 - [[Crystal Engineers Alliance]] - Professional organization for crystal specialists
+
+
+## Connections
+
+- [[Master Artificers Guild]]

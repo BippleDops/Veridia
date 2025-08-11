@@ -1,23 +1,37 @@
 ---
-tags: [npc, aquabyssos, merchant, supplier, magical-goods, tidal-magic, business, reliable, naval-supplies]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-category: "Magical Supplier"
-race: "Triton"
-class: "Expert/Artificer"
-location: "[[Harbor District]] - Tidecaller's Emporium"
-faction: "Independent Merchant"
-influence: "Moderate"
-danger_level: "Low"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- business
+- complete
+- magical-goods
+- merchant
+- naval-supplies
+- npc
+- person
+- reliable
+- supplier
+- tidal-magic
+status: complete
+world: Aquabyssos
+type: Location
+category: Magical Supplier
+race: Triton
+class: Expert/Artificer
+location: '[[Harbor District]] - Tidecaller''s Emporium'
+faction: Independent Merchant
+influence: Moderate
+danger_level: Low
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Person
+updated: '2025-08-11T13:08:50.579172+00:00'
 MyContainer: None
 MyCategory: Merchant
 obsidianUIMode: preview
 ---
+
+
+
+
 
 # Supplier Erikson Tidecaller
 *Master of Tidal Treasures*
@@ -65,7 +79,7 @@ With over four decades of experience in both practical seamanship and theoretica
 ## Combat Statistics
 
 **Level**: 6th level Expert/Artificer (4/2)  
-**AC**: 14 (Leather Armor + Dex), **HP**: 52 (6d8 + 18), **Speed**: 30 ft., swim 40 ft.  
+**AS**: 14 (Leather Armor + Dex), **HP**: 52 (6d8 + 18), **Speed**: 30 ft., swim 40 ft.  
 **STR**: 14 (+2), **DEX**: 15 (+2), **CON**: 16 (+3), **INT**: 17 (+3), **WIS**: 14 (+2), **CHA**: 13 (+1)  
 **Skills**: Arcana +9, Investigation +6, Nature +6, Perception +5, Persuasion +4, Sleight of Hand +5  
 **Languages**: Common, Primordial (Aquan), Draconic  
@@ -95,3 +109,38 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 
 *"Good equipment can mean the difference between a successful mission and a watery grave. I don't sell anything I wouldn't trust with my own life."*  
 — Erikson Tidecaller
+
+
+## Connections
+
+- [[Pressure's End]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

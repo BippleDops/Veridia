@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, espionage, hidden, intelligence, shadow-network, parliament]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- espionage
+- hidden
+- intelligence
+- location
+- parliament
+- shadow-network
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Intelligence Network
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.172470+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Crow's Perch - Spymaster's Sanctum
 
@@ -276,3 +287,11 @@ The Crow's network connects to numerous other locations and organizations:
 - **The Seven Shards**: Possesses crucial intelligence about shard locations and effects
 
 *The Crow's Perch represents the shadowy underbelly of diplomacy and politics in Aquabyssos. In a world where information can be more valuable than gold and secrets can topple governments, the network serves as both a vital service and a constant reminder that someone is always watching from the shadows.*
+
+
+## Connections
+
+- [[Investigation Procedures]]
+- [[Admiral Thorne Blackwater]]
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[Pressure's End]]

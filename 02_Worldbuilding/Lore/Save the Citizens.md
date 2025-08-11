@@ -1,12 +1,20 @@
 ---
-tags: [lore, quest, rescue-mission, citizens, emergency-response]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- citizens
+- complete
+- emergency-response
+- lore
+- quest
+- rescue-mission
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.373891+00:00'
 ---
+
 
 # Save the Citizens
 

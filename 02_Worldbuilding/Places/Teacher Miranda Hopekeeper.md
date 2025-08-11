@@ -1,16 +1,27 @@
 ---
-tags: [academy, school, knowledge, aquabyssos, resistance, magic]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- academy
+- aquabyssos
+- complete
+- knowledge
+- location
+- magic
+- resistance
+- school
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Place
+updated: '2025-08-11T13:08:50.422778+00:00'
 MyContainer: None
 MyCategory: Academy
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # The Hopekeeper Academy
 
@@ -40,7 +51,7 @@ The academy is ingeniously constructed within a living kelp forest, with buildin
 
 ### [[Miranda Hopekeeper]] (Headmistress)
 *Medium humanoid (half-elf), lawful good*
-**AC** 15 (Robes of the Archmagi) **HP** 165 **Speed** 30 ft., swim 30 ft.
+**AS** 15 (Robes of the Archmagi) **HP** 165 **Speed** 30 ft., swim 30 ft.
 **STR** 10 **DEX** 14 **CON** 14 **INT** 20 **WIS** 18 **CHA** 16
 
 A distinguished half-elf with silver hair that seems to shimmer with its own light. Her eyes are pools of deep blue that reflect an ancient wisdom and unwavering hope.
@@ -185,3 +196,8 @@ Final exams are approaching, but the testing chambers have been corrupted. Stude
 - **Purification Ceremony**: Monthly cleansing of academy grounds
 - **Knowledge Festival**: Students present research to the community
 - **Memorial Vigil**: Honoring those lost to corruption
+
+
+## Connections
+
+- [[The Wandering Atoll]]

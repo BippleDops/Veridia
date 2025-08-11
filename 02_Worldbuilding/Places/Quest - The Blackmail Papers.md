@@ -1,18 +1,31 @@
 ---
-tags: [quest, intrigue, blackmail, documents, secrets, political-corruption, espionage, social]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- blackmail
+- complete
+- documents
+- espionage
+- intrigue
+- political-corruption
+- quest
+- secrets
+- social
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-11
-updated: 2025-08-11
-quest_type: "Social Intrigue/Heist Adventure"
-level_range: "4-9"
-party_size: "3-6 characters"
-duration: "4-6 sessions"
-difficulty: "Moderate to Hard"
-primary_location: "Port Meridian and Noble Quarter"
+updated: '2025-08-11T13:08:50.226155+00:00'
+quest_type: Social Intrigue/Heist Adventure
+level_range: 4-9
+party_size: 3-6 characters
+duration: 4-6 sessions
+difficulty: Moderate to Hard
+primary_location: Port Meridian and Noble Quarter
+danger_level: Moderate
 ---
+
+
 
 # Quest - The Blackmail Papers
 *When Secrets Become Weapons and Trust Becomes Currency*
@@ -345,3 +358,7 @@ Success requires not just uncovering hidden information but making difficult dec
 The quest's focus on the power of information and the corruption of authority makes it particularly relevant for exploring contemporary themes while maintaining the fantasy adventure context. The multiple possible outcomes ensure that player choices have meaningful consequences that extend beyond the immediate adventure.
 
 Regardless of the specific resolution, the adventure should leave lasting impacts on both the characters and the campaign world, establishing the party's reputation as significant political actors while exploring timeless questions about the relationship between truth, justice, and social stability.
+
+## Connections
+
+- [[Vex Shadowthorn]]

@@ -1,15 +1,24 @@
 ---
-tags: [organization, council, tidal, government, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- council
+- government
+- organization
+- tidal
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.682442+00:00'
 ---
+
+
+
 
 # The Tidal Council
 
@@ -94,3 +103,40 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 
 ## DM Notes
 The Tidal Council provides excellent opportunities for environmental adventures, political intrigue, and maritime challenges. Use them as quest givers for ocean-based missions or obstacles when party actions conflict with environmental regulations.
+
+
+## Connections
+
+- [[The Emperor's Gambit]]
+- [[The Current Merchants]]
+- [[The Tidecaller]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

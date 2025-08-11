@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+# Reject non-LFS large files (>5MB)
+large=$(git diff --cached --name-only --diff-filter=ACM | while read -r f; do [ -f "$f" ] || continue; s=$(stat -c%s "$f"); if [ $s -gt 5242880 ]; then echo "$f"; fi; done)
+if [ -n "${large:-}" ]; then
+  echo "ERROR: Large files staged (>5MB). Ensure tracked by Git LFS or reduce size:" >&2
+  echo "$large" >&2
+  exit 1
+fi
+exit 0

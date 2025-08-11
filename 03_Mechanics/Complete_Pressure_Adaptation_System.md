@@ -20,17 +20,20 @@ updated: '2025-08-11T13:08:47.063898+00:00'
 # Complete Pressure Adaptation System
 *The Ultimate Guide to Evolution Under Pressure*
 
+> **For the Table - Safety First:** This system includes body horror elements. Always check with players about comfort levels. Use the "Narrative Adaptation" option for players who want mechanical benefits without descriptive transformation.
+
 ## Table of Contents
 1. [Core Concepts](#core-concepts)
-2. [Adaptation Paths](#adaptation-paths)
-3. [Biological Evolution Trees](#biological-evolution-trees)
-4. [Technological Modification Paths](#technological-modification-paths)
-5. [Hybrid Adaptations](#hybrid-adaptations)
-6. [Failure & Mutation Tables](#failure--mutation-tables)
-7. [Social Implications](#social-implications)
-8. [Mechanical Integration](#mechanical-integration)
-9. [Advanced Systems](#advanced-systems)
-10. [Quick Reference](#quick-reference)
+2. [Safety Tools & Player Agency](#safety-tools--player-agency)
+3. [Adaptation Paths](#adaptation-paths)
+4. [Biological Evolution Trees](#biological-evolution-trees)
+5. [Technological Modification Paths](#technological-modification-paths)
+6. [Hybrid Adaptations](#hybrid-adaptations)
+7. [Failure & Mutation Tables](#failure--mutation-tables)
+8. [Social Implications](#social-implications)
+9. [Mechanical Integration](#mechanical-integration)
+10. [Advanced Systems](#advanced-systems)
+11. [Quick Reference](#quick-reference)
 
 ## Core Concepts
 
@@ -79,6 +82,44 @@ Not everyone adapts equally. Your **Adaptation Resistance** determines how your 
 | 11-15 | Resistant: Half AP gains, fewer mutations |
 | 16-20 | Stubborn: Quarter AP gains, minimal change |
 | 21+ | Immutable: No natural adaptation possible |
+
+## Safety Tools & Player Agency
+
+> **For the Table:** These options ensure all players can engage with the system comfortably.
+
+### Narrative Adaptation Mode
+Players uncomfortable with body horror can choose "Narrative Adaptation":
+- Gain mechanical benefits without physical description
+- Changes described as "auras," "spiritual evolution," or "pressure attunement"
+- Same game effects, different narrative framing
+- Player decides how much detail they're comfortable with
+
+### The Veil System
+**Green Light:** Full description okay
+**Yellow Light:** Mechanical effects only, minimal description  
+**Red Light:** Skip this content entirely, use alternate progression
+
+### Recovery & Reversal Options
+
+> **For the Table - Giving Players Control:**
+> - **Stabilization Rituals:** Pause adaptation at any stage (500gp components, 8-hour ritual)
+> - **Regression Therapy:** Reverse 1d4 AP per week with medical treatment (100gp/week)
+> - **Divine Intervention:** Clerics can halt/reverse with Greater Restoration
+> - **Technological Suppression:** Pressure suits prevent further adaptation
+> - **The Surface Cure:** Extended surface time (1 month+) reverses most changes
+
+### Consent Checkpoints
+Before major transformations, always ask:
+1. "Are you okay with this change?"
+2. "How would you like it described?"
+3. "Do you want to explore reversal options?"
+
+### Alternative Progression Paths
+For players opting out of transformation:
+- **Pressure Mastery:** Mental techniques for depth resistance
+- **Technological Reliance:** Enhanced equipment instead of body changes
+- **Symbiotic Partnership:** External creature provides adaptation
+- **Magical Warding:** Protective spells replace physical change
 
 ## Adaptation Paths
 

@@ -1,0 +1,48 @@
+---
+title: Encounter Sheet — D-010 Pirate Shadow Net
+type: gm_resource
+status: complete
+tags: [gm, encounter, depth, faction]
+created: 2025-08-11
+---
+
+# D-010 Pirate Shadow Net
+
+## Read-Aloud
+> A lattice of thread-thin lines gleams for a heartbeat in your floodlights—then vanishes back into the dark. Your sensors stutter.
+
+## Setup
+- Zone: Pressure (DC 14) • Category: Faction Trap
+- Pirates intend to entangle bow sensors and board
+
+## Mechanics
+- Detect Net: Sensor Perception DC 14
+- Avoid Net: Helm DC 15
+- Cut Net: Gunnery DC 13 (ranged) or Boarding Team (Athletics DC 14)
+
+## Outcomes
+- Success: Avoid/clear without engagement
+- Partial: Sensor -2 for 1 hour; pirates tail
+- Fail: Grapple; resolve boarding with parasite tubes
+
+## Stat Blocks
+### Shadow Net (Trap)
+AC 15; HP 20 (section); Immune: psychic, poison; Vulnerable: fire
+Effects: On contact, Sensor -2; Speed -10 kn
+
+### Pirate Boarders (Squad)
+AC 14; HP 45; Attack +5 (harpoon rifles 1d8+3); Morale 12
+Tactics: Aim to disable, then board; retreat if leader down
+
+## Integrations
+- [[Complete Faction Warfare System]]: adjust standing on outcome
+- [[Vehicle_Core_Rules#12) Parasite Boarding & Biohazards]]: infection risks if tubes attach
+
+## Scaling
+- Elite privateers add anchor jammer (RSB -2 within 200 ft)
+
+## Variants
+- Legal privateers with letter of marque; law complications
+
+## Quick-Run
+- Roll detect; if failed, run avoid/cut; apply penalties; if grappled, boarders enter next round

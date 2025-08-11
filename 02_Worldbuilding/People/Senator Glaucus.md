@@ -45,25 +45,20 @@ stats:
   int: 16
   wis: 12
   cha: 15
-description: Tall, thin figure with translucent skin showing dark veins beneath. Laughs
-  at inappropriate times.
-notes: Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows.
+description: "Tall, thin figure with translucent skin showing dark veins beneath. Laughs at inappropriate times."
+notes: "Has been shadow-replaced for three weeks. Original imprisoned in Memory Meadows."
 secrets:
-- Is actually the shadow of the original Senator
-- Reports directly to Shadow Duchess Nyx
-- Knows location of shadow transformation facility
-- Original Glaucus still alive but imprisoned
-created: 2025-08-07 - Category/People
-MyContainer: None
-MyCategory: Unknown
+  - "Is actually the shadow of the original Senator"
+  - "Reports directly to Shadow Duchess Nyx"
+  - "Knows location of shadow transformation facility"
+  - "Original Glaucus still alive but imprisoned"
+created: 2025-08-07
+updated: 2025-08-11
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:49.697564+00:00'
 status: draft
 type: NPC
 ---
-
-
 
 
 # Senator Glaucus Tidecaller
@@ -264,7 +259,6 @@ Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent 
 ---
 
 *"In the Parliament of Echoes, even the senators are just shadows of democracy."*
-
 
 ## Connections
 

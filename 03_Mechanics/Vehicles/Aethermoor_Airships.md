@@ -1,0 +1,52 @@
+---
+title: Aethermoor Airships
+type: mechanics
+status: complete
+tags: [mechanics, vehicles, airships, aethermoor]
+created: 2025-08-11
+---
+
+# Aethermoor Airships
+
+Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[Sanity System]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
+
+## Crystal-Powered Airships (Examples)
+- Harmonium Skiff (Resonant levitation; silent running)
+- Wind-Sung Clipper (Sails on songs; bard-boosted speed)
+- Void-Touched Corsair (Gravity-null pods; sanity risks)
+- Nimbus Garden (Living cloud hull; weather control)
+- Star-Anchored Platform (Orbital relay; anchor array)
+- Fold-Gate Courier (Short-range reality folds; mishap risk)
+- Zephyr Pike (Ramming prow; pressure inversion on impact)
+- Choir of Glass (Crystal choir drives; shatter risk)
+- Thunder Sloop (Storm battery; lightning lances)
+- Aurora Ark (Light-bend stealth; prism shields)
+- Sky Loom (Weaves jet streams; path editor)
+- Gravity Well Dreadnought (Controls descent/ascent fields)
+- Gale Harrier (Interception specialist)
+- Halo Monastery (Shrine-ship; mass sanity buffer)
+- Whisper Kite (Scout; hears memory winds)
+
+GM Note: Expand to 50+ designs via template [[05_Templates/Vehicles/New_Ship_Template|New Ship Template]].
+
+## Aerial Combat Mechanics
+- 3D Grid: Altitude bands; stall checks when overburdened or de-powered
+- Crystal Resonance Arrays: Select frequency for damage/control; mis-tune causes feedback
+- Gravity Manipulation: Spend POU to alter local gravity; risky near merger zones
+- Sky Piracy: Boarding grapnels, anchor jammers, wind shear traps
+
+## Integration Hooks
+- Altitude Pressure Inversion: Apply pressure rules inverted for height (see [[Depth Survival Mechanics]])
+- Sanity: Prolonged void-sight requires [[Sanity System]] saves; shrine-chant stabilizes
+- Reality: Fold-Gate Couriers create micro-mergers; anchors mitigate
+- Memory: Whisper Kites harvest route echoes; charts fuel long-haul jumps
+- Faction: Doctrines yield preferred altitude bands and weapon arrays (see [[Fleet_Dynamics_Generator]])
+
+## Example Stat Block: Wind-Sung Clipper (Medium Frigate)
+- Hull 140 (Segments 4×35) • AC 15 crystal-rig • Speed 80 kn air • Maneuver 3/round
+- Crew 10/18/30 (Captain, Helms, Engineer×2, Sensor, Gunnery×2, Rigger×3, Anchorite)
+- Power POU 7 (Crystal 5, Memory 2)
+- RSB +2 • Sanity Threshold 14 • Anchors 1 • Upgrade Slots Bio 1 / Crystal 3 / Pressure 1 / Memory 1 / Shrine 1
+- Specials: Songride (+20 kn while bard performs), Prism Dive (vertical speed boost; Con saves on crew)
+
+Tables and events: [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]], [[Merger_Transit_Complications]].

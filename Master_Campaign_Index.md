@@ -18,6 +18,8 @@ updated: '2025-08-11T13:08:46.956171+00:00'
 # Master Campaign Index
 *Complete Navigation System for Aquabyssos & Aethermoor*
 
+See also: [[03_Mechanics/Phase_Omega_Enhanced_Index|Phase Omega Enhanced Index]]
+
 ## 🎮 Control Centers
 
 ### Existing Dashboards & Trackers
@@ -36,6 +38,7 @@ updated: '2025-08-11T13:08:46.956171+00:00'
 - [[Complete Pressure Adaptation System]] - Full transformation mechanics
 - [[Complete Faction Warfare System]] - Political warfare rules
 - [[Complete Reality Merger System]] - Dimensional mechanics
+- [[03_Mechanics/Vehicles/Vehicles_Index|Vehicle Systems Index]] - Aquatic, aerial, and merger vessels
 
 ## 📚 Content by Category
 

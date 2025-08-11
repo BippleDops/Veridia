@@ -21,6 +21,8 @@ status: draft
 # The Seven Shards
 *Fragments of Godhood Scattered Across the World*
 
+> **For the Table:** The Seven Shards are your campaign's nuclear option - use them to escalate stakes, corrupt heroes, or offer terrible choices. Each shard should feel like handling unstable dynamite that whispers promises.
+
 ## Overview
 When the Crown of Stars shattered during [[The Great Crystallization]], it broke into seven primary fragments, each containing a portion of [[The Crimson Sage]] (Aetheron)'s divine essence. These Shards are the most powerful artifacts in [[Aethermoor]], capable of granting godlike power or bringing about the world's destruction. Their growing activity may be connected to [[The Convergence Point]] between [[Aethermoor]] and [[Aquabyssos]].
 
@@ -49,6 +51,12 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 **Effect**: Grants rulership, accelerates corruption
 **Secret**: Slowly merging with Queen
 **Connections**: May influence [[Crystal Festival]] displays, [[The Crystal Throne]] faction activities
+
+> **For the Table - Running the Clear Shard:**
+> - **Corruption Check:** Anyone sitting on throne must make DC 18 WIS save or gain 1 corruption point
+> - **Authority Effect:** Advantage on Persuasion/Intimidation within Crystalhaven
+> - **Fail Forward:** Failed attempt to claim grants vision of Queen's eventual fate
+> - **Escalation:** Each use makes Queen 5% more crystalline
 
 ### The Crimson Shard (Blood)
 **Location**: [[Port Meridian]] harbor (sunken ship)
@@ -89,6 +97,12 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 **Effect**: Corrupts entire region
 **Secret**: Creating shadow realm
 **Connections**: Source of [[Shadow Corruption]], connected to [[The Crimson Hand]] power, [[Fear Farms]]
+
+> **For the Table - Shadow Shard Encounters:**
+> - **Discovery Scene:** "The water turns black as ink. Your reflection shows your deepest fear made flesh."
+> - **Temptation Mechanics:** Offers to remove one fear/trauma in exchange for shadow corruption
+> - **Environmental Effect:** 300ft radius of magical darkness, shadows act independently
+> - **Recovery Option:** Can be calmed (not controlled) through genuine self-acceptance ritual
 
 ### The Golden Shard (Divine Heart)
 **Location**: Within [[Aria Lumengarde]]
@@ -188,6 +202,14 @@ When the Crown of Stars shattered during [[The Great Crystallization]], it broke
 *For power gained is humanity waste,*
 *The price of godhood, mortals learn,*
 *Is everything for which they yearn."*
+
+## The Prophecy of Reunification
+
+> **For the Table - Using the Prophecy:**
+> - **Partial Reveals:** Give players one line per major milestone
+> - **Multiple Interpretations:** Each faction reads it differently - let players discover why
+> - **False Prophecies:** Include 2-3 red herrings that seem equally valid
+> - **Player Agency:** The prophecy describes what COULD happen, not what MUST happen
 
 ## Campaign Integration
 

@@ -38,6 +38,34 @@ const OUT_DIRS = {
 Object.values(OUT_DIRS).forEach(ensureDir);
 ensureDir(path.join(GENERATED_ROOT, 'metadata'));
 
+// CLI args
+const ARGS = process.argv.slice(2);
+const USE_REAL = ARGS.includes('--real');
+const TYPES_FILTER = (() => {
+  const arg = ARGS.find(a => a.startsWith('--types='));
+  if (!arg) return null;
+  return arg.replace('--types=', '').split(',').map(s => s.trim().toLowerCase());
+})();
+const LIMIT = (() => {
+  const arg = ARGS.find(a => a.startsWith('--limit='));
+  if (!arg) return null;
+  const n = parseInt(arg.replace('--limit=', ''), 10);
+  return Number.isFinite(n) ? n : null;
+})();
+
+// Load config
+const CONFIG_PATH = path.join(ROOT, '.obsidian', 'api_config.json');
+let OPENAI_API_KEY = process.env.OPENAI_API_KEY || '';
+let DALLE_MODEL = 'dall-e-3';
+try {
+  if (fs.existsSync(CONFIG_PATH)) {
+    const raw = fs.readFileSync(CONFIG_PATH, 'utf8');
+    const cfg = JSON.parse(raw);
+    if (!OPENAI_API_KEY && cfg?.openai?.api_key) OPENAI_API_KEY = cfg.openai.api_key;
+    if (cfg?.openai?.dalle_model) DALLE_MODEL = cfg.openai.dalle_model;
+  }
+} catch {}
+
 const walkFiles = (dir, acc = []) => {
   const entries = fs.readdirSync(dir, { withFileTypes: true });
   for (const entry of entries) {
@@ -155,6 +183,7 @@ const svgTemplate = ({ width, height, colors, title, subtitle, footer }) => {
 
 const writePlaceholder = (prompt) => {
   const type = (prompt.type || 'portrait').toLowerCase();
+  if (TYPES_FILTER && !TYPES_FILTER.includes(type)) return null;
   const outDir = OUT_DIRS[type];
   if (!outDir) return null;
 
@@ -168,45 +197,151 @@ const writePlaceholder = (prompt) => {
   const svg = svgTemplate({ width, height, colors, title, subtitle, footer });
 
   const baseName = `${type}-${slug(prompt.id || title)}-${slug(title)}`.replace(/-+/g, '-');
-  const fileName = `${baseName}.svg`;
-  const outPath = path.join(outDir, fileName);
-  fs.writeFileSync(outPath, svg, 'utf8');
+  const outPathSvg = path.join(outDir, `${baseName}.svg`);
+  if (!fs.existsSync(outPathSvg)) {
+    fs.writeFileSync(outPathSvg, svg, 'utf8');
+  }
 
   // metadata sidecar
   const metaOut = path.join(GENERATED_ROOT, 'metadata', `${baseName}.json`);
-  fs.writeFileSync(metaOut, JSON.stringify(prompt, null, 2), 'utf8');
+  const meta = { ...prompt, generator: 'placeholder', file: path.relative(ROOT, outPathSvg) };
+  fs.writeFileSync(metaOut, JSON.stringify(meta, null, 2), 'utf8');
 
-  return { outPath, metaOut };
+  return { outPath: outPathSvg, metaOut, baseName, outDir };
 };
 
-const main = () => {
+const openaiSizeFor = (aspect) => {
+  // Supported sizes for DALL·E 3: 1024x1024, 1792x1024, 1024x1792
+  if (!aspect) return '1024x1024';
+  const a = aspect.trim();
+  if (a === '1:1') return '1024x1024';
+  // treat landscape
+  if (a === '16:9' || a === '3:2' || a === '4:3') return '1792x1024';
+  // treat portrait
+  if (a === '2:3' || a === '9:16' || a === '3:4') return '1024x1792';
+  return '1024x1024';
+};
+
+async function generateRealImage(promptObj, ctx) {
+  const type = (promptObj.type || 'portrait').toLowerCase();
+  if (TYPES_FILTER && !TYPES_FILTER.includes(type)) return null;
+  const outDir = OUT_DIRS[type];
+  if (!outDir) return null;
+
+  const baseName = `${type}-${slug(promptObj.id || promptObj.name || 'untitled')}-${slug(promptObj.name || 'untitled')}`.replace(/-+/g, '-');
+  const outPath = path.join(outDir, `${baseName}.png`);
+  const metaOut = path.join(GENERATED_ROOT, 'metadata', `${baseName}.json`);
+  if (!OPENAI_API_KEY) throw new Error('OPENAI_API_KEY missing');
+
+  const size = openaiSizeFor(promptObj.aspect);
+  const promptText = promptObj.prompt || `${promptObj.name} ${type} in ${Array.isArray(promptObj.style)?promptObj.style.join(', '):'cohesive style'}`;
+
+  const body = {
+    model: DALLE_MODEL,
+    prompt: promptText,
+    size,
+    n: 1,
+    style: 'vivid'
+  };
+
+  const res = await fetch('https://api.openai.com/v1/images/generations', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${OPENAI_API_KEY}`
+    },
+    body: JSON.stringify(body)
+  });
+
+  if (!res.ok) {
+    const txt = await res.text().catch(() => '');
+    throw new Error(`OpenAI error ${res.status}: ${txt}`);
+  }
+  const data = await res.json();
+  const first = data?.data?.[0];
+  if (!first) throw new Error('OpenAI returned no image');
+
+  let imageUrl = first.url;
+  let b64 = first.b64_json;
+
+  if (!b64 && imageUrl) {
+    const imgRes = await fetch(imageUrl);
+    if (!imgRes.ok) throw new Error(`Failed to fetch image URL: ${imgRes.status}`);
+    const buf = Buffer.from(await imgRes.arrayBuffer());
+    fs.writeFileSync(outPath, buf);
+  } else if (b64) {
+    const buf = Buffer.from(b64, 'base64');
+    fs.writeFileSync(outPath, buf);
+  } else {
+    throw new Error('No image content in response');
+  }
+
+  const meta = {
+    ...promptObj,
+    generator: 'openai',
+    model: DALLE_MODEL,
+    size,
+    revised_prompt: first.revised_prompt || null,
+    file: path.relative(ROOT, outPath)
+  };
+  fs.writeFileSync(metaOut, JSON.stringify(meta, null, 2), 'utf8');
+  return { outPath, metaOut };
+}
+
+const main = async () => {
   const files = walkFiles(ASSETS_ROOT, []);
   let parsedCount = 0;
   let writtenCount = 0;
   const written = [];
 
+  const promptsAll = [];
   for (const file of files) {
     const md = fs.readFileSync(file, 'utf8');
     const prompts = parsePromptsFromMd(md);
     if (!prompts.length) continue;
-
     for (const p of prompts) {
-      // basic validation
       if (!p || p.disabled) continue;
       if (!p.type || !p.name || !p.id) continue;
-      // skip non-visual specs (audio/animation)
+      // skip non-visual specs
       if (['audio','animation'].includes(String(p.type).toLowerCase())) continue;
+      promptsAll.push(p);
+    }
+  }
 
+  // Optionally limit
+  const filtered = TYPES_FILTER ? promptsAll.filter(p => TYPES_FILTER.includes(String(p.type).toLowerCase())) : promptsAll;
+  const toProcess = typeof LIMIT === 'number' ? filtered.slice(0, LIMIT) : filtered;
+
+  for (const p of toProcess) {
+    try {
       parsedCount++;
+      if (USE_REAL && OPENAI_API_KEY) {
+        const res = await generateRealImage(p);
+        if (res) {
+          writtenCount++;
+          written.push(res);
+          continue;
+        }
+      }
+      // fallback placeholder
       const res = writePlaceholder(p);
       if (res) {
         writtenCount++;
         written.push(res);
       }
+    } catch (err) {
+      console.warn(`Failed for ${p.id}: ${err.message}. Falling back to placeholder.`);
+      try {
+        const res = writePlaceholder(p);
+        if (res) {
+          writtenCount++;
+          written.push(res);
+        }
+      } catch {}
     }
   }
 
-  console.log(`Parsed ${parsedCount} prompts, wrote ${writtenCount} image placeholders.`);
+  console.log(`Parsed ${parsedCount} prompts, wrote ${writtenCount} assets (${USE_REAL ? 'real/placeholder mix' : 'placeholders'}).`);
   for (const w of written.slice(0, 10)) {
     console.log(` - ${path.relative(ROOT, w.outPath)}`);
   }
@@ -214,5 +349,6 @@ const main = () => {
 };
 
 if (require.main === module) {
+  // eslint-disable-next-line no-undef
   main();
 }

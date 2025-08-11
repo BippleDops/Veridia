@@ -18,5 +18,10 @@
     "extra fingers"
   ],
   "seed": 2004,
-  "alt_text": "Portrait of Marcus Shardbreaker Grimm with distinctive attire and evocative background."
+  "alt_text": "Portrait of Marcus Shardbreaker Grimm with distinctive attire and evocative background.",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "revised_prompt": "Image of a fictional adult human man from an imaginary realm named Aquabyssos/Aethermoor, known as Marcus Shardbreaker Grimm. He wears distinct attire appropriate to his realm, adorned with a unique insignia. His facial expression should exude a specific character-driven emotion. He also has unique distinguishing features that make him easily recognizable. The locale in the picture should hint at his origin. Employ dramatic, directional lighting to effectively shape form. Use a painterly, detailed style to mimic fantasy realism. Ensure consistent styling tags are used, and avoid any elements that could result in visual artifacts. The image should follow the specified aspect and resolution.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.png"
 }

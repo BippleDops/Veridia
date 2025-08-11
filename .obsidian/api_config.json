@@ -1,16 +1,15 @@
 {
   "openai": {
-    "api_key": "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",
-    "model": "gpt-4",
-    "dalle_model": "dall-e-3",
-    "max_tokens": 2000,
-    "temperature": 0.7
+    "api_key": "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",
+    "model": "gpt-4o-mini",
+    "max_tokens": 600,
+    "temperature": 0.8,
+    "dalle_model": "dall-e-3"
   },
   "unsplash": {
-    "access_key": "zW_6Dilkj rNL2HYiCzXz1tNSgiwVzP02Gv0718G9Q-A",
     "base_url": "https://api.unsplash.com",
-    "per_page": 10,
-    "orientation": "landscape"
+    "orientation": "landscape",
+    "per_page": 10
   },
   "spotify": {
     "client_id": "831f4fb0abb04d718f93918f31df8d7a",

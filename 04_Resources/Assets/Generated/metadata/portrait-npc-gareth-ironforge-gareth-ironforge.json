@@ -18,5 +18,10 @@
     "extra fingers"
   ],
   "seed": 2002,
-  "alt_text": "Portrait of Gareth_Ironforge with distinctive attire and evocative background."
+  "alt_text": "Portrait of Gareth_Ironforge with distinctive attire and evocative background.",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "revised_prompt": "Create a visually striking portrait of an adult human figure known as Gareth_Ironforge, who is renowned in the mystical realms of Aquabyssos and Aethermoor. Dress this character in attire befitting of their unique status within these realms, including distinct insignia. Make sure to capture an emotion that reflects their character. Include memorable distinguishing features and situate them within a signature environment that subtly hints at their origins. Employ dramatic, directional lighting to artistically sculpt their form. The overall aesthetic should be one of painterly fantasy realism, with a high level of detail. Please abide by the specified aspect and resolution, maintain consistency with styling tags, and make sure to avoid any artifacts.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-gareth-ironforge-gareth-ironforge.png"
 }

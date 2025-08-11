@@ -18,5 +18,10 @@
     "extra fingers"
   ],
   "seed": 2003,
-  "alt_text": "Portrait of Senator Glaucus with distinctive attire and evocative background."
+  "alt_text": "Portrait of Senator Glaucus with distinctive attire and evocative background.",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "revised_prompt": "Portrait of a notable figure from an underwater realm known as Aquabyssos/Aethermoor. This adult human figure is adorned in realm-specific attire displaying unique insignias signifying their importance. This person's features are distinctive and memorable, their expression revealing an aspect of their character. The setting hints at their origin, adding depth to their story. The image is highlighted with dramatic, directional lighting that sculpts form and provides depth to the figure. The overall style should aim for painterly fantasy realism with a high level of detail. The aspect and resolution should be maintained as specified, with consistent styling tags, and effort should be made to avoid potential artifacts.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-senator-glaucus-senator-glaucus.png"
 }

@@ -18,5 +18,10 @@
     "extra fingers"
   ],
   "seed": 2001,
-  "alt_text": "Portrait of Master Cultivator Thalia Greenglow with distinctive attire and evocative background."
+  "alt_text": "Portrait of Master Cultivator Thalia Greenglow with distinctive attire and evocative background.",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "revised_prompt": "Create a detailed portrait of a mature human female cultivator by the name of Thalia Greenglow, a notable figure originating from an imaginative fantasy realm known as Aquabyssos/Aethermoor. Her realm-specific attire is adorned with unique insignia mapping her high ranking status. She communicates her personality through her emotive expressions and memorable distinguishing features. The backdrop subtly hints at her fantastical place of origin, consequently adding depth to her character. The illumination within the scene casts dramatic, directional lighting that molds her form, creating a play of light and shadow for a more dynamic look. The overall style blends fantasy and realism, employing a painterly touch for a textural finish. The image should be high in detail, and the aspect and resolution should be as specified. Apply consistent styling conventions throughout the composition, and mindfully include elements or techniques that help avoid unnecessary visual artifacts.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-master-cultivator-thalia-greenglow-master-cultivator-thalia-greenglow.png"
 }

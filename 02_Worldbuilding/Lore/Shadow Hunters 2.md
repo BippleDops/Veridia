@@ -1,0 +1,16 @@
+---
+tags:
+- aquabyssos
+- draft
+- npc
+type: Lore
+world: Aquabyssos
+status: draft
+created: '2025-08-11T13:08:46.024592+00:00'
+updated: '2025-08-11T13:08:47.592994+00:00'
+---
+
+
+## Overview
+
+TODO

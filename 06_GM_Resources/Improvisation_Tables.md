@@ -133,7 +133,7 @@ created: 2025-01-10
 | 17 | Already dead |
 | 18 | From the future |
 | 19 | A deity in disguise |
-| 20 | The BBEG |
+| 20 | The true villain |
 
 ### Instant Motivation (d12)
 

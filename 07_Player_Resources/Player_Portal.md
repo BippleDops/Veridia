@@ -45,6 +45,15 @@ WHERE quest_status = "Active" OR quest_status = "In Progress"
 - Common actions
 - Homebrew notes (player-facing)
 
+## Vehicles & Travel
+- Ship Handouts: [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|Aquabyssos Submarines]] • [[04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships|Aethermoor Airships]] • [[04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels|Merger Vessels]]
+- Encounter Handouts:
+```dataview
+LIST FROM "04_Resources/Handouts/Encounters"
+SORT file.name ASC
+```
+- Doctrine Quick Reference: [[04_Resources/Handouts/Doctrines/Doctrine_Quick_Reference|Doctrine Quick Reference]]
+
 ---
 Last updated: {{date:YYYY-MM-DD}}
 

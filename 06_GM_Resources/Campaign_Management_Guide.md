@@ -12,6 +12,17 @@ created: 2025-08-11
 # Campaign Management Guide
 *Orchestrating the Depths and Heights*
 
+## Session Packets
+Use the template at `05_Templates/Sessions/Session_Packet_Template.md` to build a packet for each session.
+
+Steps:
+1. Create a new note from the template; fill `session_number`, `session_date`, `campaign_name`.
+2. Add wiki-links of handouts to the `handouts:` list and GM sheets to the `gm_sheets:` list.
+3. Optional: add `assets:` links (indexes, maps).
+4. The DataviewJS blocks will auto-render lists for quick export and printing.
+
+Tip: Keep one packet per session in `06_GM_Resources/Session_Packets/Session_XX.md`.
+
 ## Campaign Frameworks
 
 ### Campaign Types

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1933f1f8013fcc59",
+        "id": "065898ea9e40ae14",
         "type": "tabs",
         "children": [
           {
-            "id": "a69447ea4390374e",
+            "id": "4a536f6029fef5ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Worldbuilding/Places/The Phosphor Markets.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Phosphor Markets"
+              "title": "New tab"
             }
           }
         ]
@@ -166,13 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Worldbuilding/Places/The Phosphor Markets.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Phosphor Markets"
+              "title": "Outline"
             }
           },
           {
@@ -361,8 +356,23 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "a69447ea4390374e",
+  "active": "4a536f6029fef5ce",
   "lastOpenFiles": [
+    "02_Worldbuilding/Lore/The Forgotten Isles.md",
+    "02_Worldbuilding/Lore/The Bloom Fields.md",
+    "02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos.md",
+    "02_Worldbuilding/Lore/Templater Advanced.md",
+    "02_Worldbuilding/Lore/Spell Lists.md",
+    "02_Worldbuilding/Lore/Spell Components.md",
+    "02_Worldbuilding/Lore/Save the Citizens.md",
+    "02_Worldbuilding/Lore/Reputation System.md",
+    "02_Worldbuilding/Lore/Professor Euclid Mindmaze.md",
+    "02_Worldbuilding/Lore/Possessed Noble Coterie.md",
+    "02_Worldbuilding/Lore/Party Information.md",
+    "02_Worldbuilding/Lore/NPC Name Generator.md",
+    "02_Worldbuilding/Items/Shadow-touched Equipment Set.md",
+    "02_Worldbuilding/Items/Depth Pressure Rings.md",
+    "02_Worldbuilding/Places/The Phosphor Markets.md",
     "02_Worldbuilding/Places/New Tethys.md",
     "02_Worldbuilding/People/Captain Garrett Stormcutter.md",
     "Combat Tracker.base",
@@ -381,23 +391,8 @@
     "03_Mechanics/Shadow Independence Rules.md",
     "03_Mechanics/Depth Adaptation System.md",
     "03_Mechanics/Crystal-Plague-Mechanics.md",
-    "03_Mechanics/Crystal Plague Mechanics.md",
-    "03_Mechanics/Crystal Plague.md",
-    "03_Mechanics/Character Index.md",
     "Item_Catalog 2.base",
-    "03_Mechanics/Combat Actions.md",
     "Relationship_Graph 2.base",
-    "03_Mechanics/Aquabyssos Survival Mechanics.md",
-    "03_Mechanics/Aquabyssos Adaptation Mechanics.md",
-    "03_Mechanics/All Suspects by Faction.md",
-    "02_Worldbuilding/Groups/Establish New World Order.md",
-    "02_Worldbuilding/Groups/Captain Rodrigo Ironanchor.md",
-    "02_Worldbuilding/Groups/Abandoned Consortium Warehouse.md",
-    "02_Worldbuilding/Places/The Void Touched Depths.md",
-    "02_Worldbuilding/Lore/Aquathys/Aquathys_Overview.md",
-    "02_Worldbuilding/Lore/Lore/The Sundering.md",
-    "02_Worldbuilding/Lore/Abyssal Academy.md",
-    "02_Worldbuilding/Lore/Aethermoor to Aquabyssos Transition Guide.md",
     "Session Log.base",
     "NPC Directory.base",
     "Location Tracker.base.tmp.83938.1754766250485",

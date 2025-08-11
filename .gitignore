@@ -11,3 +11,7 @@ backups/
 /data/
 /snapshots/
 08_Archive/tmp_dedupe/
+
+# macOS
+.DS_Store
+**/.DS_Store

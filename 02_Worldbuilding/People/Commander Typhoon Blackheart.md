@@ -94,10 +94,32 @@ Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite mil
 - **Political Extremists**: Opposes any faction threatening civilian safety
 
 ### Military Network
-- **[[Captain Nautilus the Deep Wanderer]]**: Shares intelligence about deep-ocean threats
-- **[[The Depth Wardens]]**: Absolute loyalty from professional soldiers under her command
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Shares intelligence about deep-ocean threats
+- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Absolute loyalty from professional soldiers under her command
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Fellow military commander, mutual professional respect
 - **Allied Military Forces**: Cooperation with other realm defense organizations
 - **Veterans**: Maintains connections with retired soldiers and their families
+
+## Associates & Military Command Structure
+
+### The Officer Corps
+- **Senior Field Commanders** - Battle-tested leaders of major military units
+- **Intelligence Officers** - Specialists gathering information about deep threats
+- **Logistics Coordinators** - Essential support staff managing supply lines
+- **Training Cadre** - Instructors preparing new recruits for deep-sea combat
+- **Medical Corps** - Military healers specializing in pressure-related injuries
+
+### External Military Relations
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ultimate imperial authority they serve
+- **[[02_Worldbuilding/Groups/The Pearl Guard]]** - Imperial elite forces, occasional cooperation
+- **Regional Defense Forces** - Local militias and guard units throughout Aquabyssos
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Coordination on maritime security
+
+### Complex Relationships
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]** - Unknown infiltration threat requiring vigilance
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Potential ally against shadow threats
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Valuable intelligence source on shadow activities
+- **Deep-Sea Researchers** - Scholars studying threats the military faces
 - **Intelligence Services**: Works with various information-gathering agencies
 
 ### Civilians & Others

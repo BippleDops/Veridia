@@ -61,6 +61,33 @@ For the past twenty years, Aldric has pushed the boundaries of crystal magic fur
 
 His current obsession involves something he calls "The Crystal Synthesis"—a theoretical technique that could merge living beings with crystal magic to create a new form of life. This research has brought him to the attention of both admirers seeking transcendence and enemies who consider his work an abomination.
 
+## Relationships & Academic Network
+
+### Academic Colleagues
+- **[[02_Worldbuilding/Groups/Crystal Academy]]** - Primary institutional affiliation
+- **Crystal Research Faculty** - Fellow professors studying crystal magic at the academy
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection providing research insights
+- **Graduate Students** - Proteges learning advanced crystal manipulation techniques
+- **International Scholars** - Researchers from other institutions studying crystal phenomena
+
+### Political Connections
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Military unit interested in his weapon applications
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
+- **Government Oversight** - Officials monitoring his more dangerous experiments
+
+### Opposition & Critics
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
+- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
+- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Organization dedicated to eliminating crystal influence
+- **Ethics Committees** - Academic groups questioning his experimental methods
+
+### Research Subjects & Collaborators
+- **Volunteer Test Subjects** - Individuals seeking crystal enhancement
+- **Crystal Construct Assistants** - Artificial beings he's created to aid research
+- **Medical Consultants** - Healers attempting to treat crystal corruption
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal contacts providing illegal research materials
+
 ## Special Abilities
 
 **Crystal Attunement.** Aldric can attune to any magical crystal or crystal-based magic item by touching it for 1 minute. While attuned, he gains resistance to damage from that crystal type and can activate its powers at will.
@@ -98,6 +125,20 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 **Living Crystal Arm.** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 8 (1d8 + 4) force damage plus 7 (2d6) additional force damage. The arm can grapple targets (escape DC 18) and lift up to 500 pounds.
 
 **Crystalline Explosion (1/Day).** Aldric overloads a crystal, causing it to explode in a 20-foot radius. All creatures in the area must make a DC 18 Dexterity saving throw. On a failure, they take 28 (8d6) force damage and are knocked prone. On a success, they take half damage and aren't knocked prone.
+
+## Associates & Professional Network
+
+### Laboratory Staff
+- **Research Assistants** - Graduate students helping with experiments
+- **Laboratory Technicians** - Specialists maintaining equipment and crystal samples
+- **Security Personnel** - Guards protecting dangerous experimental materials
+- **Crystal Construct Helpers** - Artificial assistants he's created for specialized tasks
+
+### Supply Networks
+- **Crystal Miners** - Sources for raw crystal materials
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Traders providing rare and exotic crystals
+- **Equipment Suppliers** - Craftsmen creating specialized research tools
+- **Black Market Contacts** - Illegal sources for forbidden or restricted materials
 
 **Emergency Reconstruction (1/Day).** If Aldric is reduced to 10 hit points or fewer, his crystal prosthetics activate emergency protocols. He regains 30 hit points and gains resistance to all damage types for 1 minute, but must make a DC 15 Constitution save or gain one level of exhaustion from the strain.
 

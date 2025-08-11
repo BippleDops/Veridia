@@ -78,6 +78,34 @@ Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, 
 - **Archive Keeper Benthic**: Records all observations and measurements
 - **The Twin Scouts**: Explore areas too dangerous even for Nautilus
 
+## Relationships & Deep Network
+
+### Divine Servants & Deep Explorers
+- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Fellow servant of [[02_Worldbuilding/Lore/Deep Mother]], shares prophetic insights
+- **[[02_Worldbuilding/Groups/The Deep Wanderers]]** - Network of explorers mapping divine presence
+- **Deep Priests** - Clerics serving the oceanic depths who revere his mission
+- **[[02_Worldbuilding/Groups/The Void Watchers]]** - Organization monitoring cosmic forces
+- **Other Divine Champions** - Rare individuals transformed by cosmic powers
+
+### Military & Official Contacts
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Military leader who values his deep intelligence
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]** - [[02_Worldbuilding/Groups/The Depth Wardens]] commander needing deep reconnaissance
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ancient ruler who understands divine servants
+- **Deep Patrol Units** - Military forces operating in his territory
+- **Research Stations** - Scientific outposts monitoring deep-sea phenomena
+
+### Complex Relationships
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient aboleth that may try to manipulate or oppose him
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Fellow adapted individual who might understand his transformation
+- **Surface Authorities** - Officials who need his warnings but fear his divine nature
+- **Deep-Sea Creatures** - Ancient beings that recognize his protected status
+
+### Information Network
+- **Deep Observation Posts** - Network of monitoring stations throughout the depths
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]** - Repository where he may store dangerous knowledge
+- **Scientific Community** - Researchers studying deep-sea phenomena and divine manifestations
+- **Early Warning Network** - System for alerting surface world to Deep Mother's stirring
+
 ### Sacred Stations
 - Hidden observation posts throughout the Hadal Depths
 - Each station monitors different aspect of Deep Mother's condition

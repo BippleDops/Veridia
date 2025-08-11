@@ -78,6 +78,33 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - Deep Mother's stirring causing memory instabilities
 - Archive approaching capacity for first time in centuries
 
+## Relationships & Memory Network
+
+### Those Who Seek the Archive
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ancient ruler seeking lost imperial memories
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Interested in memories of surface-depth adaptation
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Consults him about military history and deep threats
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - May seek memories from before the Shattering
+- **Grief-stricken Individuals** - Those seeking to recover lost memories of deceased loved ones
+
+### Professional Connections
+- **[[02_Worldbuilding/Groups/Memory Farmers]]** - Commercial memory harvesters he often opposes
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Complex relationship with legitimate memory trader
+- **Deep Priests** - Clerics serving the [[02_Worldbuilding/Lore/Deep Mother]] who understand his purpose
+- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Fellow servant of cosmic forces beyond mortal understanding
+
+### The Memory Underground
+- **Memory Refugees** - Those fleeing forced memory alteration
+- **Shadow Resistance** - Individuals fighting [[02_Worldbuilding/Groups/The Shadow Conspiracy]]'s memory manipulation
+- **Historians** - Scholars seeking suppressed or lost historical records
+- **[[02_Worldbuilding/Groups/Free Current]]** - Resistance members needing secure memory storage
+
+### Connection to Greater Powers
+- **[[02_Worldbuilding/Lore/The Deep Mother]]** - Divine patron who chose him for this role
+- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]** - Living structure he serves and maintains
+- **Memory Spirits** - Ethereal beings formed from powerful forgotten experiences
+- **The Collective Unconscious** - Deeper layer of shared memory he helps maintain
+
 ### The Paradox Problem
 - His existence prevents others from forgetting completely
 - But forgetting is sometimes necessary for mental health

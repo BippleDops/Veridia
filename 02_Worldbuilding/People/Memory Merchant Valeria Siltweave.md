@@ -78,6 +78,35 @@ Valeria Siltweave represents the reformed wing of the [[Memory Farmers]] movemen
 - **Artistic Inspiration**: Sharing creative experiences and aesthetic memories
 - **Skill Transfer**: Limited programs for sharing professional expertise
 
+## Relationships & Professional Network
+
+### Reform Movement Allies
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Complex relationship with keeper of lost memories
+- **Reform-minded Memory Farmers** - Other ethical practitioners working to change the industry
+- **[[02_Worldbuilding/Groups/Free Current]]** - Resistance movement that values ethical memory practices
+- **Medical Professionals** - Healers who refer trauma patients for memory therapy
+- **Legal Advocates** - Lawyers working on memory rights and donor protection
+
+### Industry Relations
+- **Traditional [[02_Worldbuilding/Groups/Memory Farmers]]** - Former colleagues who view her as threat to profits
+- **Memory Collectors** - Unethical harvesters who compete with her business
+- **[[02_Worldbuilding/People/Memory Harvester Kythara]]** - Possible former mentor turned rival
+- **Memory Regulation Officials** - Government agents monitoring the memory trade
+- **Underground Memory Markets** - Black market operators she actively opposes
+
+### Client Networks
+- **Trauma Survivors** - Individuals seeking healing through memory therapy
+- **Cultural Preservationists** - Scholars and historians preserving community memories
+- **Artists and Creators** - Those seeking inspiration through experiential memories
+- **Educational Institutions** - Schools using memories for immersive learning
+- **Elderly Donors** - Seniors sharing wisdom and life experience
+
+### Political Connections
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Politicians interested in memory trade regulation
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Mutual respect for ethical business practices
+- **Community Leaders** - Local officials who value her contribution to society
+- **Reform Advocates** - Activists working for memory rights and protection
+
 ## Relationships
 ### Allied Memory Workers
 - **[[Memory Harvester Kythara]]**: Shares commitment to protecting sacred aspects of memory

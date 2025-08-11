@@ -1,14 +1,15 @@
 ---
-tags: [quest]
+tags:
+  - quest
 quest_giver: "[[High Tidecaller Nerissa]]"
-status: "complete"
-priority: "urgent"
+status: complete
+priority: urgent
 quest_start: 2025-08-10
 deadline: 2025-09-10
-completion_date: 
-reward: "10000gp + Blessing of the Depths + Surface/Depth Citizenship"
-location: "[[02_Worldbuilding/Lore/Aquathys/Aquathys_Overview]]"
-quest_image: "04_Resources/Assets/quests/second-rising.png"
+completion_date:
+reward: 10000gp + Blessing of the Depths + Surface/Depth Citizenship
+location: "[[Aquathys_Overview]]"
+quest_image: 04_Resources/Assets/quests/second-rising.png
 related_npcs:
   - "[[High Tidecaller Nerissa]]"
   - "[[Prophet Miralyn Surfacer]]"
@@ -27,15 +28,15 @@ prerequisite_quests:
   - "[[Diplomatic Tides]]"
 assigned_party_members: []
 objectives:
-  - text: "Investigate the prophecy of the Second Rising"
+  - text: Investigate the prophecy of the Second Rising
     completed: false
-  - text: "Find the three Hidden Verses of the original prophecy"
+  - text: Find the three Hidden Verses of the original prophecy
     completed: false
-  - text: "Locate the scattered pieces of the Heart of Oceanus"
+  - text: Locate the scattered pieces of the Heart of Oceanus
     completed: false
-  - text: "Unite or defeat the five faction leaders"
+  - text: Unite or defeat the five faction leaders
     completed: false
-  - text: "Discover the truth about the Void Plague"
+  - text: Discover the truth about the Void Plague
     completed: false
   - text: "Make the Choice: Rise, Sink, or Transform"
     completed: false

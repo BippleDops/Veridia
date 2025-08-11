@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "065898ea9e40ae14",
+        "id": "e19660f6c4983b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a536f6029fef5ce",
+            "id": "030da86bd965753b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -356,8 +356,13 @@
       "solo-rpg-toolkit:Solo RPG Toolkit": false
     }
   },
-  "active": "4a536f6029fef5ce",
+  "active": "030da86bd965753b",
   "lastOpenFiles": [
+    "03_Mechanics/Crystal-Plague-Mechanics.md",
+    "03_Mechanics/Crystal Plague Mechanics.md",
+    "03_Mechanics/Comprehensive Survival System.md",
+    "02_Worldbuilding/Items/The Tidal Shard of Memory.md",
+    "02_Worldbuilding/Lore/The Sundering.md",
     "02_Worldbuilding/Lore/The Forgotten Isles.md",
     "02_Worldbuilding/Lore/The Bloom Fields.md",
     "02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos.md",
@@ -384,13 +389,8 @@
     "Untitled.md",
     "Faction_Tracker 2.base",
     "07_Player_Resources/Handouts/Parliament of Shadows Player Guide.md",
-    "07_Player_Resources/Handouts/What You Know - Abyssos Prime.md",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
-    "03_Mechanics/Possession Mechanics.md",
-    "03_Mechanics/Shadow Independence Rules.md",
-    "03_Mechanics/Depth Adaptation System.md",
-    "03_Mechanics/Crystal-Plague-Mechanics.md",
     "Item_Catalog 2.base",
     "Relationship_Graph 2.base",
     "Session Log.base",

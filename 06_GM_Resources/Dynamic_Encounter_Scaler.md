@@ -24,6 +24,9 @@ The Dynamic Encounter Scaler transforms static encounters into perfectly balance
 Adjusted CR = Base CR × (Party Size / 4) × (Party Level / Expected Level)
 ```
 
+> **Note:**  
+> - `Expected Level` must be greater than 0. If `Expected Level` is 0, do not use this formula.  
+> - If `Party Level` is much higher than `Expected Level`, consider capping the scaling factor (e.g., `Party Level / Expected Level` should not exceed 2). This prevents encounters from becoming unreasonably difficult or unbalanced.
 ### Modifier Table
 | Party Status | Multiplier | Narrative Justification |
 |--------------|------------|-------------------------|

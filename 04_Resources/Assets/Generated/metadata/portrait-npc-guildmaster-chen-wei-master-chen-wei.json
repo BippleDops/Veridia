@@ -1,0 +1,20 @@
+{
+  "id": "npc-guildmaster-chen-wei",
+  "type": "portrait",
+  "name": "Master Chen Wei",
+  "prompt": "Portrait of Master Chen Wei, human guildmaster, 60s, minimalist robe with embroidery of trade winds, calligrapher's gloves, ledger brush, backdrop of silk banners, soft lantern lighting, clean brushwork style, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "60s",
+  "clothing": "embroidered robe",
+  "expression": "measured kindness",
+  "features": "calligrapher gloves",
+  "background": "silk banners",
+  "style": [
+    "clean brushwork"
+  ],
+  "lighting": "soft lantern",
+  "mood": "orderly",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1117
+}

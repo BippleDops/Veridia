@@ -1,0 +1,20 @@
+{
+  "id": "npc-the-nameless-auditor",
+  "type": "portrait",
+  "name": "The Nameless Auditor",
+  "prompt": "Portrait of the Nameless Auditor, faceless bureaucrat, cloak of stamped forms, wax-seal mask, vault shelves receding into fog, cool grey fluorescent lighting, bureaucratic horror realism, 1:1, 2048x2048",
+  "race": "Unknown",
+  "age": "—",
+  "clothing": "form-cloak",
+  "expression": "blank",
+  "features": "wax-seal mask",
+  "background": "endless shelves",
+  "style": [
+    "bureaucratic horror"
+  ],
+  "lighting": "cool fluorescent",
+  "mood": "oppressive",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1120
+}

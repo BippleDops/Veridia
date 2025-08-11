@@ -1,0 +1,20 @@
+{
+  "id": "npc-surface-ambassador",
+  "type": "portrait",
+  "name": "Surface Ambassador Lord Seaworthy",
+  "prompt": "Portrait of Lord Seaworthy, human diplomat, 50s, salt-and-silver hair, trident lapel pin, coat with maritime brocade, embassy atrium with pressure glass, soft daylight, diplomatic portrait realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "50s",
+  "clothing": "maritime brocade",
+  "expression": "urbane warmth",
+  "features": "trident lapel",
+  "background": "pressure-glass atrium",
+  "style": [
+    "diplomatic realism"
+  ],
+  "lighting": "soft daylight",
+  "mood": "cordial",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1125
+}

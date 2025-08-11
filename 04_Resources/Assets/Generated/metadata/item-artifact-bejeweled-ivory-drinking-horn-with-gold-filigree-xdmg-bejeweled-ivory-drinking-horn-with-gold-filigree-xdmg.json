@@ -1,0 +1,22 @@
+{
+  "id": "artifact-bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg",
+  "type": "item",
+  "name": "bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg",
+  "prompt": "Detailed artifact: bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, inlaid runes with gentle glow (no bloom), include hand or ruler for size context, product-style hero render, clean backdrop, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2026,
+  "alt_text": "Artifact bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg displayed with materials, runes, and scale."
+}

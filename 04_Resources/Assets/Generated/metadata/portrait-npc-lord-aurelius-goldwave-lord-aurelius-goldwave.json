@@ -1,0 +1,22 @@
+{
+  "id": "npc-lord-aurelius-goldwave",
+  "type": "portrait",
+  "name": "Lord Aurelius Goldwave",
+  "prompt": "Portrait of Lord Aurelius Goldwave, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire with unique insignia, character-driven emotion, memorable distinguishing features, signature environment hinting at their origin, dramatic, directional lighting that sculpts form, painterly fantasy realism with high detail, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2043,
+  "alt_text": "Portrait of Lord Aurelius Goldwave with distinctive attire and evocative background."
+}

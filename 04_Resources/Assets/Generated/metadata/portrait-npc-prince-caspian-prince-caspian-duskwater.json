@@ -1,0 +1,20 @@
+{
+  "id": "npc-prince-caspian",
+  "type": "portrait",
+  "name": "Prince Caspian Duskwater",
+  "prompt": "Portrait of Prince Caspian Duskwater, mer-folk noble, 90s, dusk-toned scales, silver kelp circlet, cloak of tidefoam, balcony over twilight trench, purple-blue rim light, romantic aquatic portrait, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "90s",
+  "clothing": "tidefoam cloak",
+  "expression": "melancholic poise",
+  "features": "silver kelp circlet",
+  "background": "twilight trench",
+  "style": [
+    "romantic portrait"
+  ],
+  "lighting": "purple-blue rim",
+  "mood": "wistful",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1123
+}

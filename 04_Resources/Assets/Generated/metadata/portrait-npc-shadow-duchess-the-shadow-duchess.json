@@ -1,0 +1,20 @@
+{
+  "id": "npc-shadow-duchess",
+  "type": "portrait",
+  "name": "The Shadow Duchess",
+  "prompt": "Portrait of the Shadow Duchess, human mastermind, 40s, veil of shadowlace, onyx fan, crown of negative space, black ballroom that seems too large, silver rim light, baroque noir realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "40s",
+  "clothing": "shadowlace veil",
+  "expression": "serpentine charm",
+  "features": "onyx fan",
+  "background": "endless black ballroom",
+  "style": [
+    "baroque noir"
+  ],
+  "lighting": "silver rim",
+  "mood": "dangerous allure",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1126
+}

@@ -1,0 +1,22 @@
+{
+  "id": "artifact-dark-shard-amulet-xdmg",
+  "type": "item",
+  "name": "dark-shard-amulet-xdmg",
+  "prompt": "Detailed artifact: dark-shard-amulet-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, inlaid runes with gentle glow (no bloom), include hand or ruler for size context, product-style hero render, clean backdrop, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2008,
+  "alt_text": "Artifact dark-shard-amulet-xdmg displayed with materials, runes, and scale."
+}

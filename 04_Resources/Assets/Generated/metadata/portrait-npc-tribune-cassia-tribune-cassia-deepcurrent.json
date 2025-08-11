@@ -1,0 +1,22 @@
+{
+  "id": "npc-tribune-cassia",
+  "type": "portrait",
+  "name": "Tribune Cassia Deepcurrent",
+  "prompt": "Portrait of Tribune Cassia Deepcurrent, mer-folk stateswoman, 120s, firm gaze, silver-tipped fins, lacquered coral mantle, pearl-studded sash, pressure-dome senate hall background, cool directional lighting, realist illustration, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "elder",
+  "clothing": "coral mantle, pearl sash",
+  "expression": "composed, determined",
+  "features": "silver fin edges, legislative badges",
+  "background": "pressure-dome senate tiers",
+  "style": [
+    "realist",
+    "institutional"
+  ],
+  "lighting": "cool, directional",
+  "mood": "authoritative",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1101,
+  "alt_text": "A composed mer-folk tribune in coral regalia before a pressure-dome senate."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "handout-ancient-prophecy-fragment",
+  "type": "handout",
+  "name": "Ancient Prophecy Fragment",
+  "prompt": "In-world document: Ancient Prophecy Fragment, creased parchment, water damage, ink bleed, era-appropriate fonts and ligatures, microtext, cipher keys, invisible ink hints, high-res scan aesthetic, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2015,
+  "alt_text": "Ancient Prophecy Fragment designed as an in-world paper prop with texture and typography."
+}

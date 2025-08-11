@@ -1,0 +1,22 @@
+{
+  "id": "handout-encoded-shipping-route",
+  "type": "handout",
+  "name": "Encoded Shipping Route",
+  "prompt": "In-world document: Encoded Shipping Route, creased parchment, water damage, ink bleed, era-appropriate fonts and ligatures, microtext, cipher keys, invisible ink hints, high-res scan aesthetic, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2017,
+  "alt_text": "Encoded Shipping Route designed as an in-world paper prop with texture and typography."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "npc-professor-aldric",
+  "type": "portrait",
+  "name": "Professor Aldric Crystalweaver",
+  "prompt": "Portrait of Professor Aldric Crystalweaver, human arcanist, 60s, prism spectacles, coat lined with resonance threads, crystal lattice diagrams behind, cool studio lighting, academic fantasy realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "60s",
+  "clothing": "resonant coat",
+  "expression": "analytical",
+  "features": "prism spectacles",
+  "background": "lattice diagrams",
+  "style": [
+    "academic realism"
+  ],
+  "lighting": "cool studio",
+  "mood": "inquisitive",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1122
+}

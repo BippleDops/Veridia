@@ -1,0 +1,20 @@
+{
+  "id": "npc-oracle-nerida",
+  "type": "portrait",
+  "name": "Oracle Nerida the Tidereader",
+  "prompt": "Portrait of Oracle Nerida, mer-folk seer, 200+, opal eye-cover, tide-scrolls circling, hair drifting like sea grass, chamber with tidal orrery, caustic teal lighting, visionary aquatic realism, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "ancient",
+  "clothing": "seer wraps",
+  "expression": "rapt attention",
+  "features": "opal eye-cover",
+  "background": "tidal orrery",
+  "style": [
+    "visionary realism"
+  ],
+  "lighting": "teal caustics",
+  "mood": "prophetic",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1121
+}

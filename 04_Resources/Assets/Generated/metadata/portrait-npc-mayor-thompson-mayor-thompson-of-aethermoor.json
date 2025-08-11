@@ -1,0 +1,21 @@
+{
+  "id": "npc-mayor-thompson",
+  "type": "portrait",
+  "name": "Mayor Thompson of Aethermoor",
+  "prompt": "Portrait of Mayor Thompson, older human bureaucrat, 60s, kind eyes with sleepless rings, ink-stained fingers, patched waistcoat, ledgers and petitions piled behind, morning desk light, grounded painterly realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "60s",
+  "clothing": "patched waistcoat",
+  "expression": "weary kindness",
+  "features": "ink-stained fingers",
+  "background": "town office with papers",
+  "style": [
+    "grounded realism"
+  ],
+  "lighting": "morning desk light",
+  "mood": "humble duty",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1108,
+  "alt_text": "A kindly older bureaucrat with ink-stained fingers at a cluttered desk."
+}

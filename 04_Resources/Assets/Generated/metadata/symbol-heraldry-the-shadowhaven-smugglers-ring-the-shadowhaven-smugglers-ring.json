@@ -1,0 +1,23 @@
+{
+  "id": "heraldry-the-shadowhaven-smugglers-ring",
+  "type": "symbol",
+  "name": "The Shadowhaven Smugglers Ring",
+  "prompt": "Heraldic emblem: The Shadowhaven Smugglers Ring, simple geometry, strong silhouette, 2-3 motifs tied to faction identity, seal, banner, and coin variants, flat vector style, export as SVG, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2019,
+  "alt_text": "Heraldic emblem for The Shadowhaven Smugglers Ring with clear motifs and color coding.",
+  "palette": "storm greys"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "npc-investigate-the-crystal-plague",
+  "type": "portrait",
+  "name": "Investigate the Crystal Plague",
+  "prompt": "Portrait of Investigate the Crystal Plague, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire with unique insignia, character-driven emotion, memorable distinguishing features, signature environment hinting at their origin, dramatic, directional lighting that sculpts form, painterly fantasy realism with high detail, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2019,
+  "alt_text": "Portrait of Investigate the Crystal Plague with distinctive attire and evocative background."
+}

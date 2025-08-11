@@ -1,0 +1,31 @@
+{
+  "id": "npc-nerissa-azure-prophet",
+  "type": "portrait",
+  "name": "The Azure Prophet Nerissa",
+  "prompt": "Portrait of Nerissa, mer-folk prophet, 300+, sapphire scales, bioluminescent markings across cheeks, flowing kelp-like hair, translucent pressure-dome veil, ceremonial shell diadem, tranquil expression, cathedral of coral in background, subsurface caustic lighting, painterly aquatic realism, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "ancient",
+  "clothing": "ceremonial diadem, veil of pressure glass",
+  "expression": "tranquil, prescient",
+  "features": "sapphire scales, bioluminescent cheek sigils",
+  "background": "bioluminescent coral cathedral with drifting particulates",
+  "style": [
+    "painterly realism",
+    "aquatic fantasy"
+  ],
+  "lighting": "subsurface caustics, teal-blue palette",
+  "mood": "mystic calm",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "negative": [
+    "cartoon",
+    "flat lighting"
+  ],
+  "seed": 1022,
+  "variations": [
+    {
+      "veil": "no veil"
+    }
+  ],
+  "alt_text": "An ancient mer-folk prophet with glowing facial sigils before a coral cathedral bathed in rippling underwater light."
+}

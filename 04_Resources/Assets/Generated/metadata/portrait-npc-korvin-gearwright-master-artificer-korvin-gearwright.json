@@ -1,0 +1,20 @@
+{
+  "id": "npc-korvin-gearwright",
+  "type": "portrait",
+  "name": "Master Artificer Korvin Gearwright",
+  "prompt": "Portrait of Korvin Gearwright, dwarf artificer, 130s, soot-dusted beard rings, monocle loupe, pressure boiler suit with brass fittings, workshop of valves and gauges, warm furnace lighting, industrial fantasy realism, 1:1, 2048x2048",
+  "race": "Dwarf",
+  "age": "130s",
+  "clothing": "boiler suit",
+  "expression": "focused grit",
+  "features": "monocle loupe, beard rings",
+  "background": "valves and gauges",
+  "style": [
+    "industrial realism"
+  ],
+  "lighting": "furnace warm",
+  "mood": "hands-on",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1114
+}

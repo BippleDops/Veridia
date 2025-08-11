@@ -1,0 +1,22 @@
+{
+  "id": "city-crystalhaven",
+  "type": "location",
+  "name": "Crystalhaven",
+  "prompt": "Panoramic view of Crystalhaven, realm-appropriate materials like bioluminescent coral or cloudstone, weather cues like currents, storms, or drifting pollen, golden hour, night glow, or storm-lit ambience, small figures, creatures, or vehicles for life and scale, cinematic environmental concept art, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2015,
+  "alt_text": "Cinematic view of Crystalhaven showing architecture, atmosphere, and inhabitants."
+}

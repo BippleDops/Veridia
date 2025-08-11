@@ -1,0 +1,22 @@
+{
+  "id": "scene-golden-trade-route-convoy",
+  "type": "scene",
+  "name": "Golden Trade Route convoy",
+  "prompt": "Atmospheric scene: Golden Trade Route convoy, clear narrative focal point with readable staging, atmospheric VFX supporting the scene, cinematic light shaping and color contrast, high-fidelity illustration with painterly touches, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2013,
+  "alt_text": "Atmospheric illustration of: Golden Trade Route convoy."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "map-airship-deck-melee",
+  "type": "map",
+  "name": "Airship Deck Melee",
+  "prompt": "Top-down tactical map: Airship Deck Melee, 30x40 at 140 px per square, clearly marked cover: crates, pillars, rocks, coral, dynamic hazards like collapsing floors, rips, currents, clean export with 10px grid lines and labeled layers, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "16:9",
+  "resolution": "2560x1440",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2012,
+  "alt_text": "Top-down tactical map of Airship Deck Melee with grid and hazards.",
+  "grid": "35x35",
+  "vtt": {
+    "format": "Foundry",
+    "tileSize": 140
+  },
+  "levels": 3
+}

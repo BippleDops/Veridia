@@ -1,0 +1,21 @@
+{
+  "id": "npc-lord-commander-gareth",
+  "type": "portrait",
+  "name": "Lord Commander Gareth Steelborn",
+  "prompt": "Portrait of Gareth Steelborn, human admiral, 50s, iron-grey beard, pressure-hardened plate with anchor sigil, epaulette cords, command deck windows with abyssal trench beyond, cool steel lighting, militarist realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "50s",
+  "clothing": "pressure plate armor",
+  "expression": "unyielding",
+  "features": "anchor sigil, scar at brow",
+  "background": "command deck over abyss",
+  "style": [
+    "militarist realism"
+  ],
+  "lighting": "cool steel",
+  "mood": "stoic",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1105,
+  "alt_text": "A stern admiral in pressure plate armor overlooking an abyssal trench."
+}

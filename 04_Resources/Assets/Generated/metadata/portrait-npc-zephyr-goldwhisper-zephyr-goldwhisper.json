@@ -1,0 +1,22 @@
+{
+  "id": "npc-zephyr-goldwhisper",
+  "type": "portrait",
+  "name": "Zephyr Goldwhisper",
+  "prompt": "Portrait of Zephyr Goldwhisper, halfling windspeaker, late 20s, windswept curls, brass wind chimes earrings, sky-blue vest, cloud harbor in background with kites, warm golden-hour lighting, whimsical painterly style, 1:1, 2048x2048",
+  "race": "Halfling",
+  "age": "20s",
+  "clothing": "sky-blue vest",
+  "expression": "bright, curious",
+  "features": "wind chime earrings",
+  "background": "cloud harbor with kites",
+  "style": [
+    "whimsical",
+    "painterly"
+  ],
+  "lighting": "golden hour",
+  "mood": "uplifting",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1104,
+  "alt_text": "A cheerful halfling with wind-chime earrings before a bright cloud harbor."
+}

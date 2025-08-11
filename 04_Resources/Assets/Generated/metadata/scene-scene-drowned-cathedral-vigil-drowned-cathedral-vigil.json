@@ -1,0 +1,22 @@
+{
+  "id": "scene-drowned-cathedral-vigil",
+  "type": "scene",
+  "name": "Drowned cathedral vigil",
+  "prompt": "Atmospheric scene: Drowned cathedral vigil, clear narrative focal point with readable staging, atmospheric VFX supporting the scene, cinematic light shaping and color contrast, high-fidelity illustration with painterly touches, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2009,
+  "alt_text": "Atmospheric illustration of: Drowned cathedral vigil."
+}

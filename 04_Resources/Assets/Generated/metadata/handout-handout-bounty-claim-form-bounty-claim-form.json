@@ -1,0 +1,22 @@
+{
+  "id": "handout-bounty-claim-form",
+  "type": "handout",
+  "name": "Bounty Claim Form",
+  "prompt": "In-world document: Bounty Claim Form, creased parchment, water damage, ink bleed, era-appropriate fonts and ligatures, microtext, cipher keys, invisible ink hints, high-res scan aesthetic, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2018,
+  "alt_text": "Bounty Claim Form designed as an in-world paper prop with texture and typography."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "creature-giant-rocktopus-oota",
+  "type": "creature",
+  "name": "giant-rocktopus-oota",
+  "prompt": "Illustration of giant-rocktopus-oota, highlight joints, musculature, and unique limbs, include human silhouette for scale, three-color palette with accent patterns, place in underwater depths, sky currents, or merged zones as appropriate, depict native motion like swimming, soaring, or phasing, detailed concept art with realistic texturing, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2009,
+  "alt_text": "Concept art of giant-rocktopus-oota with anatomy, scale, and environment shown."
+}

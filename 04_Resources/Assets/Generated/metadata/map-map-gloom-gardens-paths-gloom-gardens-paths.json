@@ -1,0 +1,28 @@
+{
+  "id": "map-gloom-gardens-paths",
+  "type": "map",
+  "name": "Gloom Gardens Paths",
+  "prompt": "Top-down tactical map: Gloom Gardens Paths, 30x40 at 140 px per square, clearly marked cover: crates, pillars, rocks, coral, dynamic hazards like collapsing floors, rips, currents, clean export with 10px grid lines and labeled layers, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "16:9",
+  "resolution": "2560x1440",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2023,
+  "alt_text": "Top-down tactical map of Gloom Gardens Paths with grid and hazards.",
+  "grid": "40x30",
+  "vtt": {
+    "format": "Foundry",
+    "tileSize": 140
+  },
+  "levels": 2
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ship-altitude-tuned-skiff",
+  "type": "vehicle",
+  "name": "Altitude-Tuned Skiff",
+  "prompt": "Blueprint cutaway: Altitude-Tuned Skiff, top, side, cross-section, and deck plans, annotate ballast, pressure hulls, engines, and crew spaces, clean blueprint style with legend and scale, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "16:9",
+  "resolution": "3840x2160",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2013,
+  "alt_text": "Blueprint cutaway of Altitude-Tuned Skiff with sections and annotations."
+}

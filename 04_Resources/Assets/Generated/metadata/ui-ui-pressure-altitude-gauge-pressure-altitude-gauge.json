@@ -1,0 +1,22 @@
+{
+  "id": "ui-pressure-altitude-gauge",
+  "type": "ui",
+  "name": "Pressure/Altitude Gauge",
+  "prompt": "Interface screen: Pressure/Altitude Gauge, grid-based layout with spacing and hierarchy, icons, meters, and interactive controls, modern game UI mockup, high contrast, readable, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2003,
+  "alt_text": "Interface mockup: Pressure/Altitude Gauge with readable hierarchy and controls."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "ui-faction-reputation-bar",
+  "type": "ui",
+  "name": "Faction Reputation Bar",
+  "prompt": "Interface screen: Faction Reputation Bar, grid-based layout with spacing and hierarchy, icons, meters, and interactive controls, modern game UI mockup, high contrast, readable, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2004,
+  "alt_text": "Interface mockup: Faction Reputation Bar with readable hierarchy and controls."
+}

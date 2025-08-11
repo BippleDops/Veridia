@@ -1,0 +1,22 @@
+{
+  "id": "ui-inventory-management-screen",
+  "type": "ui",
+  "name": "Inventory Management Screen",
+  "prompt": "Interface screen: Inventory Management Screen, grid-based layout with spacing and hierarchy, icons, meters, and interactive controls, modern game UI mockup, high contrast, readable, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2005,
+  "alt_text": "Interface mockup: Inventory Management Screen with readable hierarchy and controls."
+}

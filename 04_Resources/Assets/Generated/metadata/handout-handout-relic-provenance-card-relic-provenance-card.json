@@ -1,0 +1,22 @@
+{
+  "id": "handout-relic-provenance-card",
+  "type": "handout",
+  "name": "Relic Provenance Card",
+  "prompt": "In-world document: Relic Provenance Card, creased parchment, water damage, ink bleed, era-appropriate fonts and ligatures, microtext, cipher keys, invisible ink hints, high-res scan aesthetic, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2023,
+  "alt_text": "Relic Provenance Card designed as an in-world paper prop with texture and typography."
+}

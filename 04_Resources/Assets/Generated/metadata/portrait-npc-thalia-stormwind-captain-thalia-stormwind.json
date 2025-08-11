@@ -1,0 +1,39 @@
+{
+  "id": "npc-thalia-stormwind",
+  "type": "portrait",
+  "name": "Captain Thalia Stormwind",
+  "prompt": "Portrait of Captain Thalia Stormwind, female human sky captain, 40s, weathered face, confident smile, brass goggles on forehead, blue military coat with gold epaulettes, storm clouds background, dramatic rim lighting, oil painting style, heroic fantasy art, high detail, 1:1 aspect, 2048x2048",
+  "race": "Human",
+  "age": "40s",
+  "clothing": "blue military coat, gold epaulettes, brass goggles",
+  "expression": "confident, battle-tested",
+  "features": "weathered skin, wind-tossed hair, captain insignia",
+  "background": "towering storm clouds, distant airship silhouettes",
+  "style": [
+    "oil painting",
+    "heroic fantasy",
+    "dramatic"
+  ],
+  "lighting": "dramatic rim light, cool sky tones",
+  "mood": "resolute, adventurous",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "negative": [
+    "low detail",
+    "cartoonish",
+    "blur",
+    "extra fingers"
+  ],
+  "seed": 1011,
+  "variations": [
+    {
+      "time": "dawn",
+      "weather": "clear skies"
+    },
+    {
+      "time": "night",
+      "weather": "lightning storm"
+    }
+  ],
+  "alt_text": "A weathered human sky captain with brass goggles smiles confidently before storm clouds, painted in heroic fantasy style."
+}

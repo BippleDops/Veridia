@@ -1,0 +1,20 @@
+{
+  "id": "npc-aurelius-goldwave",
+  "type": "portrait",
+  "name": "Lord Aurelius Goldwave",
+  "prompt": "Portrait of Lord Aurelius Goldwave, human magnate, 50s, sun-creased skin, gilded trade medallions, sea-blue cloak, harbor palace balcony background, warm sunset lighting, romantic realist style, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "50s",
+  "clothing": "sea-blue cloak",
+  "expression": "magnanimous pride",
+  "features": "gilded medallions",
+  "background": "harbor palace balcony",
+  "style": [
+    "romantic realism"
+  ],
+  "lighting": "sunset warm",
+  "mood": "grand",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1113
+}

@@ -1,0 +1,22 @@
+{
+  "id": "npc-archivist-mnemonic-the-forgotten",
+  "type": "portrait",
+  "name": "Archivist Mnemonic the Forgotten",
+  "prompt": "Portrait of Archivist Mnemonic the Forgotten, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire with unique insignia, character-driven emotion, memorable distinguishing features, signature environment hinting at their origin, dramatic, directional lighting that sculpts form, painterly fantasy realism with high detail, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2023,
+  "alt_text": "Portrait of Archivist Mnemonic the Forgotten with distinctive attire and evocative background."
+}

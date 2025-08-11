@@ -1,0 +1,20 @@
+{
+  "id": "npc-tenebrarum-envoy",
+  "type": "portrait",
+  "name": "Tenebrarum Envoy",
+  "prompt": "Portrait of a Tenebrarum envoy, void-fae, 200+, starfield iris eyes, veil of night-silk, skin with subtle cosmic grain, background of impossible stairways, cool indigo lighting, cosmic surrealism, 1:1, 2048x2048",
+  "race": "Void-fae",
+  "age": "ancient",
+  "clothing": "night-silk veil",
+  "expression": "otherworldly calm",
+  "features": "starfield irises",
+  "background": "impossible stairways",
+  "style": [
+    "cosmic surrealism"
+  ],
+  "lighting": "cool indigo",
+  "mood": "unsettling grace",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1116
+}

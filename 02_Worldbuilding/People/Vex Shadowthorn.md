@@ -89,15 +89,33 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate]], [[02
 
 ## Relationships
 
-### Assets
-- [[Marcus "The Shade" Blackwood]] - Top enforcer
-- [[Jasper "Three-Eyes" Flint]] - Information broker
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Smuggling partner
-- Dozens of corrupted officials
+### Criminal Network
+- **[[Marcus "The Shade" Blackwood]]** - Top enforcer and field commander
+- **[[02_Worldbuilding/People/Jasper Three-Eyes Flint]]** - Information broker and intelligence chief
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Smuggling partner with access to [[02_Worldbuilding/Places/Aquabyssos]]
+- **[[02_Worldbuilding/Groups/Vex Shadowthorn's Apprentices]]** - Elite operatives trained personally
+- **Dozens of corrupted officials** - Judges, guards, merchants under their control
 
-### Blackmail Victims
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Knows of corruption
-- [[Lord Aurelius Goldwave]] - Financial crimes
+### Blackmail Victims & Targets
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Knows of her crystal corruption
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Financial crimes and secret activities
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Information about his ancestor being a Betrayer
+- **Various nobles** - Compromising crystal addiction evidence
+- **Merchant Guild Leaders** - Proof of illegal crystal trade participation
+
+## Associates & Criminal Empire
+
+### The Whisper Syndicate Structure
+- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Primary criminal organization under their leadership
+- **Crystal Trade Network** - Smugglers and dealers moving corrupted crystals
+- **Information Brokers** - Network of spies and informants
+- **Blackmail Operations** - Specialists in gathering compromising information
+- **Enforcement Division** - Assassins and thugs maintaining order
+
+### Political Connections
+- **Corrupt Officials** - Government contacts providing protection
+- **Underground Networks** - Connections to other criminal organizations
+- **Black Market Merchants** - Dealers in forbidden goods and services
 - [[Brother Marcus Steelbane]] - Past indiscretions
 - Many nobles and merchants
 

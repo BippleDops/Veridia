@@ -14,7 +14,7 @@ image: "04_Resources/Assets/Lore/seven_shards.jpg"
 *Fragments of Godhood Scattered Across the World*
 
 ## Overview
-When the Crown of Stars shattered during [[02_Worldbuilding/Lore/The Great Crystallization]], it broke into seven primary fragments, each containing a portion of Aetheron's divine essence. These Shards are the most powerful artifacts in [[02_Worldbuilding/Places/Aethermoor]], capable of granting godlike power or bringing about the world's destruction.
+When the Crown of Stars shattered during [[The Great Crystallization]], it broke into seven primary fragments, each containing a portion of [[The Crimson Sage]] (Aetheron)'s divine essence. These Shards are the most powerful artifacts in [[Aethermoor]], capable of granting godlike power or bringing about the world's destruction. Their growing activity may be connected to [[The Convergence Point]] between [[Aethermoor]] and [[Aquabyssos]].
 
 ## The Nature of Shards
 
@@ -35,32 +35,36 @@ When the Crown of Stars shattered during [[02_Worldbuilding/Lore/The Great Cryst
 ## Individual Shards
 
 ### The Clear Shard (Crystal Throne)
-**Location**: [[02_Worldbuilding/Places/Crystalhaven]] - IS the Crystal Throne
+**Location**: [[Crystalhaven]] - IS the Crystal Throne
 **Power**: Pure magical energy, authority
-**Guardian**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+**Guardian**: [[Queen Seraphina Lumengarde]]
 **Effect**: Grants rulership, accelerates corruption
 **Secret**: Slowly merging with Queen
+**Connections**: May influence [[Crystal Festival]] displays, [[The Crystal Throne]] faction activities
 
 ### The Crimson Shard (Blood)
-**Location**: [[02_Worldbuilding/Places/Port Meridian]] harbor (sunken ship)
+**Location**: [[Port Meridian]] harbor (sunken ship)
 **Power**: Life and death, necromancy
 **Guardian**: Corrupted Elemental
 **Effect**: Creates plague, animates dead
 **Status**: Causing crystal plague
+**Connections**: May be connected to [[Infected Experiments]], [[The Crimson Hand]] interest, [[Hybrid Abominations]]
 
 ### The Amber Shard (Earth)
-**Location**: [[02_Worldbuilding/People/High Inquisitor Maltheos]]'s possession
+**Location**: [[High Inquisitor Maltheos]]'s possession
 **Power**: Physical might, endurance
-**Guardian**: The Purist Coalition
+**Guardian**: [[The Purist Coalition]]
 **Effect**: Grants unbreakable will
 **Secret**: Maltheos doesn't know its true nature
+**Connections**: Influences [[Order of the Sunken Crown]] activities, [[Interrogation Techniques]]
 
 ### The Emerald Shard (Nature)
-**Location**: Heart Tree in [[02_Worldbuilding/Places/The Verdant Reach]]
+**Location**: Heart Tree in [[The Verdant Reach]]
 **Power**: Natural magic, growth, healing
-**Guardian**: [[02_Worldbuilding/People/Archdruid Thornweaver]]
+**Guardian**: [[Archdruid Thornweaver]]
 **Effect**: Accelerates plant growth
 **Secret**: Tree becoming sentient
+**Connections**: May influence [[Crystal Forest]], [[The Bloom Fields]], [[Screaming Tree Guardians]]
 
 ### The Azure Shard (Ocean)
 **Location**: Sunken temple, [[The Azure Coast]]
@@ -68,13 +72,15 @@ When the Crown of Stars shattered during [[02_Worldbuilding/Lore/The Great Cryst
 **Guardian**: Sea monsters
 **Effect**: Controls tides and storms
 **Status**: Undiscovered by factions
+**Connections**: May be connected to [[The Deep Mother]], [[Memory Tide Events]], [[Tidal Memory Ceremonies]], [[Leviathan Graveyard]]
 
 ### The Obsidian Shard (Shadow)
-**Location**: [[02_Worldbuilding/Places/The Shadowmere]] depths
+**Location**: [[The Shadowmere]] depths
 **Power**: Shadow, fear, nightmares
 **Guardian**: The Shadowmere itself
 **Effect**: Corrupts entire region
 **Secret**: Creating shadow realm
+**Connections**: Source of [[Shadow Corruption]], connected to [[The Crimson Hand]] power, [[Fear Farms]]
 
 ### The Golden Shard (Divine Heart)
 **Location**: Within [[Aria Lumengarde]]
@@ -82,6 +88,7 @@ When the Crown of Stars shattered during [[02_Worldbuilding/Lore/The Great Cryst
 **Guardian**: The child herself
 **Effect**: Creating new form of divinity
 **Secret**: Most important piece
+**Connections**: May be key to resolving [[The Convergence Point]], connected to [[Bloodline Awakening Powers]]
 
 ## Properties When Wielded
 
@@ -150,11 +157,14 @@ When the Crown of Stars shattered during [[02_Worldbuilding/Lore/The Great Cryst
 ## Faction Knowledge
 
 ### Who Knows What
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Knows of 4 Shards
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Has 1, knows of 3
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows all locations
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Knows of 5
+- **[[The Crystal Throne]]**: Knows of 4 Shards
+- **[[The Purist Coalition]]**: Has 1, knows of 3
+- **[[The Crimson Sage]]**: Knows all locations
+- **[[Vex Shadowthorn]]**: Knows of 5
 - **[[The Order of the Shattered Crown]]**: Seeks all
+- **[[The Crimson Hand]]**: Actively seeking multiple Shards
+- **[[Silverscale Banking House]]**: Funding Shard acquisition attempts
+- **[[Aurelius Goldwave]]**: Using financial networks to track Shard movements
 - **Common People**: Myth and legend only
 
 ## Prophecies
@@ -209,12 +219,40 @@ If party gathers all seven:
 3. **Scatter**: Restart cycle
 4. **Transform**: Change reality's nature
 
-## Connected Topics
-- [[02_Worldbuilding/Lore/The Great Crystallization]] - Origin event
-- [[The Crown of Stars]] - Original artifact
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - The search
-- [[02_Worldbuilding/People/The Crimson Sage]] - Aetheron's form
-- All major factions - Seeking Shards
+## Related Lore
+
+### Origin and History
+- [[The Great Crystallization]] - Origin event that shattered the Crown
+- [[The Crown of Stars]] - Original divine artifact
+- [[The Crimson Sage]] - Aetheron's current form, creator of the Shards
+- [[The Sundering]] - Related dimensional catastrophe
+- [[The Shattering of the Crown]] - Detailed account of the breaking
+
+### Current Seekers and Guardians
+- [[The Crystal Throne]] - Major faction controlling Clear Shard
+- [[The Purist Coalition]] - Guardians of Amber Shard
+- [[The Crimson Hand]] - Actively seeking multiple Shards
+- [[Silverscale Banking House]] - Funding acquisition operations
+- [[The Order of the Shattered Crown]] - Dedicated to reunification
+- [[Queen Seraphina Lumengarde]] - Guardian of Clear Shard
+- [[High Inquisitor Maltheos]] - Unknowing bearer of Amber Shard
+- [[Archdruid Thornweaver]] - Guardian of Emerald Shard
+
+### Related Phenomena and Consequences
+- [[Shadow Corruption]] - Spreading from Obsidian Shard
+- [[Crystal Festival]] - Shards sometimes displayed or referenced
+- [[The Convergence Point]] - May be accelerated by Shard activity
+- [[Bloodline Awakening Powers]] - Connected to Golden Shard
+- [[Memory Tide Events]] - Possibly influenced by Azure Shard
+- [[Infected Experiments]] - May be connected to Crimson Shard
+- [[Crystal Mimics]] - Artificial Shard fragments
+
+### Strategic Interests
+- [[Quest - The Seventh Shard]] - The ongoing search
+- [[Aurelius Goldwave]] - Using financial networks to track Shards
+- [[Vex Shadowthorn]] - Major information holder
+- [[Crystal Guard Elite]] - Security forces protecting Shards
+- [[Reality Merge Zones]] - Areas where Shard power weakens barriers
 
 ## DM Secrets
 > [!warning] Ultimate Truth

@@ -263,9 +263,23 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 ### Family Tragedy and Legacy
 - **Lost Family**: Parents and siblings killed in deep incursion when he was 14
 - **[[02_Worldbuilding/People/Envoy Blackwater Jr.]]**: Son who rejected military life, secretly works for [[02_Worldbuilding/Groups/Free Current]]
-- **Inherited Duty**: Feels responsible for protecting all Aquabyssos citizens as his family
+- **Inherited Duty**: Feels responsible for protecting all [[02_Worldbuilding/Places/Aquabyssos]] citizens as his family
 - **Succession Plans**: Training multiple potential replacements despite having living heir
 - **Family Guilt**: Blames himself for son's rebellion and lack of understanding
+
+## Associates & Military Network
+
+### The Deep Command Structure
+- **[[Commander Drake Pressureborn]]** - Second-in-command and trusted deputy
+- **[[Beast Master Krell Chainbreaker]]** - Leader of the War-Leviathan Corps
+- **[[Scout Captain Vera Deepwatch]]** - Intelligence and reconnaissance commander
+- **[[Battle Priest Cassius Depthshield]]** - Military chaplain and spiritual advisor
+
+### Political Relations
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ultimate imperial authority, complex loyalty
+- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]** - Suspected threat requiring monitoring
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Potential ally against shadow threats
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Respected guide with valuable shadow intelligence
 
 ### The Shadow Council
 - **[[Elder Whisper-In-The-Dark]]**: Secretly consults her prophecies about deep threats
@@ -354,11 +368,12 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - Command: [[Deep Fortress Network]] - Military installations throughout the depths
 
 ## Connected NPCs - Expanded
-- [[02_Worldbuilding/People/Envoy Blackwater Jr.]] - Estranged son working for Free Current
-- [[Doctor Helena Voidwalker]] - Personal physician hiding his terminal condition
-- [[Elder Whisper-In-The-Dark]] - Oracle providing prophetic guidance
-- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]] - Suspected threat he monitors
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Respected rival with different loyalties
+- **[[02_Worldbuilding/People/Envoy Blackwater Jr.]]** - Estranged son working for [[02_Worldbuilding/Groups/Free Current]]
+- **[[Doctor Helena Voidwalker]]** - Personal physician hiding his terminal condition
+- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Oracle providing prophetic guidance about deep threats
+- **[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]** - Suspected threat he monitors for imperial security
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Respected rival with different loyalties but shared competence
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Source of historical knowledge about deep threats
 
 ## Involved Quests
 - [[Quest - The Deep Incursion]] - Defending against major assault from the depths

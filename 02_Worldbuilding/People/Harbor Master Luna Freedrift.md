@@ -78,6 +78,26 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 - **International Recognition**: Her word on shipping matters is respected across realms
 - **Diplomatic Immunity**: Her position grants protection from most political interference
 
+## Relationships & Social Network
+
+### Free Current Leadership
+- **[[02_Worldbuilding/Groups/Free Current]]** - Key leader and strategic coordinator
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Professional respect despite ideological differences
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Mutual aid in protecting refugees and resisters
+- **[[02_Worldbuilding/People/Envoy Blackwater Jr.]]** - Secret ally working within the system
+
+### Political Relations
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Complex relationship balancing imperial authority with harbor neutrality
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Official oversight body, many members unaware of her resistance activities
+- **[[02_Worldbuilding/People/Senator Glaucus]]** - Suspects something wrong but maintains professional facade
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Mutual wariness, both operating in gray areas
+
+### Trade & Information Networks
+- **Surface Traders** - Connections to [[02_Worldbuilding/Places/Aethermoor]] merchants and captains
+- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Coordinates with various smuggling operations
+- **[[02_Worldbuilding/Groups/Merchant's Covenant]]** - Professional relationships with legitimate traders
+- **Information Brokers** - Network of contacts gathering intelligence throughout Aquabyssos
+
 ### Free Current Operations
 - **Smuggling Network**: Coordinates movement of people, goods, and information
 - **Safe Houses**: Network of secure locations for political refugees

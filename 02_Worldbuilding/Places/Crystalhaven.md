@@ -30,13 +30,13 @@ Crystalhaven stands as the shining jewel of [[02_Worldbuilding/Places/Aethermoor
 
 ### The Forge District
 - **[[The Crystalline Foundry]]** - Largest crystal refinement facility
-- **Artificer's Row** - Magical item creation
-- **The Aether Works** - Run by [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- **[[Artificer's Row]]** - Magical item creation
+- **[[The Aether Works]]** - Run by [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
 
 ### The Scholar's Sanctum
-- **The Grand Archive** - Overseen by [[Keeper Elara Moonwhisper]]
-- **The Crystal Academy** - Where [[Professor Aldric Crystalweaver]] teaches
-- **The Observatory** - Studies crystal formations
+- **[[The Grand Archive]]** - Overseen by [[Keeper Elara Moonwhisper]]
+- **[[The Crystal Academy]]** - Where [[Professor Aldric Crystalweaver]] teaches
+- **[[The Observatory]]** - Studies crystal formations
 
 ### The Market Spiral
 - **[[The Gilded Shard]]** - Upscale inn run by [[Madame Rosalind Goldleaf]]
@@ -153,9 +153,16 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 
 ## Connected Locations
 - [[02_Worldbuilding/Places/Lumengarde]] - Surrounding kingdom
-- [[The Crystalline Foundry]] - Major industry
+- [[02_Worldbuilding/Places/The Crystalline Foundry]] - Major industry
 - [[02_Worldbuilding/Places/Port Meridian]] - Trade partner
 - [[02_Worldbuilding/Places/The Sundered Peaks]] - Crystal source
+
+## See Also
+- [[02_Worldbuilding/Places/The Gilded Shard]] - Luxury inn
+- [[02_Worldbuilding/Places/Royal Palace]] - Government seat
+- [[02_Worldbuilding/Places/The Crystal Palace]] - Royal residence
+- [[02_Worldbuilding/Places/Aethermoor]] - Continental connection
+- [[02_Worldbuilding/Places/The Azure Coast]] - Coastal access
 
 ## Key Factions
 - [[02_Worldbuilding/Groups/The Crystal Throne]] - Government

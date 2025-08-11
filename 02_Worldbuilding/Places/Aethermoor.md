@@ -28,15 +28,15 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 - **[[02_Worldbuilding/Places/Lumengarde]]** - Central kingdom, center of crystal technology
 - **[[02_Worldbuilding/Places/The Verdant Reach]]** - Southern forests resisting crystal expansion
 - **[[02_Worldbuilding/Places/The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
-- **[[The Azure Coast]]** - Western trading ports and naval power
-- **[[The Whispering Expanse]]** - Mysterious desert where crystals sing
+- **[[02_Worldbuilding/Places/The Azure Coast]]** - Western trading ports and naval power
+- **[[02_Worldbuilding/Places/The Whispering Expanse]]** - Mysterious desert where crystals sing
 - **[[02_Worldbuilding/Places/The Shadowmere]]** - Corrupted swamplands in the southeast
 
 ### Major Cities
 - **[[02_Worldbuilding/Places/Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
 - **[[02_Worldbuilding/Places/Port Meridian]]** - Largest trading hub on the Azure Coast
-- **[[Ironhold]]** - Dwarven stronghold in the Sundered Peaks
-- **[[Sylvanheart]]** - Elven sanctuary in the Verdant Reach
+- **[[02_Worldbuilding/Places/Ironhold]]** - Dwarven stronghold in the Sundered Peaks
+- **[[02_Worldbuilding/Places/Sylvanheart]]** - Elven sanctuary in the Verdant Reach
 
 ## History
 
@@ -46,7 +46,7 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 When the God-King Aetheron ruled with the Crown of Stars, maintaining perfect order through divine mandate.
 
 #### The Shattering (500 years ago)
-[[02_Worldbuilding/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[The Shattering of the Crown]].
+[[02_Worldbuilding/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[02_Worldbuilding/Lore/The Shattering of the Crown]].
 
 #### The Crystal Age (Present)
 Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[02_Worldbuilding/Groups/Purist Coalition]], and other factions vying for control.
@@ -55,9 +55,9 @@ Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens
 
 ### Major Powers
 - **[[02_Worldbuilding/Groups/The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
-- **[[The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
+- **[[02_Worldbuilding/Groups/The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
 - **[[02_Worldbuilding/Groups/Merchant Princes]]** - Control trade routes and crystal commerce
-- **[[The Order of the Shattered Crown]]** - Seeks to reforge the Crown of Stars
+- **[[02_Worldbuilding/Groups/The Order of the Shattered Crown]]** - Seeks to reforge the Crown of Stars
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
 
 ### Key Figures
@@ -102,7 +102,7 @@ A new form of corruption spreading through [[02_Worldbuilding/Places/Port Meridi
 The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civil war. Their leader, [[02_Worldbuilding/People/High Inquisitor Maltheos]], calls for the destruction of all crystals.
 
 ### The Prophecy
-[[The Oracle of the Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
+[[02_Worldbuilding/People/The Oracle of the Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
 
 ## Adventure Hooks
 1. Strange crystal formations appearing overnight near villages
@@ -137,6 +137,16 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[02_Worldbuilding/Places/Port Meridian]] - Major trade hub
 - [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain range
 - [[02_Worldbuilding/Places/The Verdant Reach]] - Southern forests
+- [[02_Worldbuilding/Places/Lumengarde]] - Central kingdom
+- [[02_Worldbuilding/Places/The Shadowmere]] - Corrupted swamplands
+- [[02_Worldbuilding/Places/Ironhold]] - Dwarven stronghold
+- [[02_Worldbuilding/Places/Sylvanheart]] - Elven sanctuary
+
+## See Also
+- [[02_Worldbuilding/Places/The Azure Coast]] - Western coastal region
+- [[02_Worldbuilding/Places/The Whispering Expanse]] - Crystal desert
+- [[02_Worldbuilding/Lore/The Great Crystallization]] - World-changing event
+- [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Historical event
 
 ## Key NPCs
 - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Ruler

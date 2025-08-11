@@ -13,13 +13,13 @@ updated: 2025-08-11
 *"Here lie the titans of the deep, their bones a monument to ages lost."*
 
 ## Overview
-The Leviathan Graveyard is a vast underwater necropolis where the massive skeletal remains of ancient sea creatures create a haunting landscape of bone and coral. These colossal skeletons, some stretching for miles, serve as both archaeological sites and dangerous lairs for creatures that make their homes among the ancient bones.
+The Leviathan Graveyard is a vast underwater necropolis where the massive skeletal remains of ancient sea creatures create a haunting landscape of bone and coral. Located in the deepest reaches accessible from [[Aquabyssos]], it may be connected to [[The Deep Mother]]'s ancient domain. These colossal skeletons, some stretching for miles, serve as both archaeological sites and dangerous lairs for creatures that make their homes among the ancient bones.
 
 ## Historical Background
-The graveyard formed over millennia as ancient leviathans came to die in this region, drawn by unknown forces. The concentration of such massive remains has created unique magical and environmental conditions.
+The graveyard formed over millennia as ancient leviathans came to die in this region, drawn by unknown forces. The concentration of such massive remains has created unique magical and environmental conditions, possibly influencing nearby locations like [[Kraken Territories]] and [[The Abyss Beneath Aquabyssos]].
 
 ## Current State
-The graveyard now serves as a research site, pilgrimage destination, and source of rare materials. However, it's also home to dangerous undead leviathan spirits and bone-dwelling creatures.
+The graveyard now serves as a research site for scholars like [[Thalassius the Wise]], a pilgrimage destination for [[Order of the Sunken Crown]] members, and source of rare materials sought by [[Aurelius Goldwave]] and other merchants. However, it's also home to dangerous undead leviathan spirits and bone-dwelling creatures.
 
 ## Mechanics
 ### Requirements

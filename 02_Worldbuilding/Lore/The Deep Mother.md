@@ -20,23 +20,23 @@ She is simultaneously revered and feared as the ultimate mother of all sea life,
 
 ## Historical Background
 
-Before the founding of either Aquabyssos or the great cities of Aethermoor, ancient texts speak of the Deep Mother's awakening during the world's earliest days. Geological evidence suggests massive oceanic upheavals occurred millennia ago, possibly marking her first stirrings in the world's deepest places. The oldest merfolk legends claim their ancestors made a pact with her - protection from the crushing depths in exchange for eternal guardianship of her domain.
+Before the founding of either [[Aquabyssos]] or the great cities of [[Aethermoor]], ancient texts speak of the Deep Mother's awakening during the world's earliest days, possibly connected to the cataclysmic events that led to [[The Sundering]]. Geological evidence suggests massive oceanic upheavals occurred millennia ago, possibly marking her first stirrings in the world's deepest places. The oldest merfolk legends claim their ancestors made a pact with her - protection from the crushing depths in exchange for eternal guardianship of her domain.
 
-As civilizations grew and diving technology advanced, more surface dwellers began encountering traces of her influence. The first deep-sea expeditions from Aethermoor reported strange visions and compulsions in the deepest waters. Many explorers never returned, while others came back fundamentally changed, speaking in hushed tones of a vast presence watching from below.
+As civilizations grew and diving technology advanced, more surface dwellers began encountering traces of her influence. The first deep-sea expeditions from [[Aethermoor]] reported strange visions and compulsions in the deepest waters, particularly in areas now known as [[Kraken Territories]] and near [[Pre-Submersion Ruins]]. Many explorers never returned, while others came back fundamentally changed, speaking in hushed tones of a vast presence watching from below.
 
 ## Current State
 
-The Deep Mother's influence has been growing stronger in recent years, coinciding with increased activity from the Abyss Beneath Aquabyssos. Scholars theorize that the barriers between the deepest ocean trenches and the mortal realms are weakening. Her whispers now reach further than ever before, affecting sensitive individuals even in the upper levels of Aquabyssos.
+The Deep Mother's influence has been growing stronger in recent years, coinciding with increased activity from [[The Abyss Beneath Aquabyssos]]. Scholars theorize that the barriers between the deepest ocean trenches and the mortal realms are weakening. Her whispers now reach further than ever before, affecting sensitive individuals even in the upper levels of [[Aquabyssos]], including members of [[The Coral Courts]] and researchers at [[Aethermoor Archives]].
 
 Priests and oracles throughout both worlds report increasingly vivid dreams of oceanic imagery. Some have formed cults dedicated to her worship, while others work desperately to strengthen the ancient seals that keep her fully contained in the deepest reaches.
 
 ## Cultural Impact
 
 ### Aquabyssos
-Many underwater citizens view the Deep Mother with complex reverence - she is the source of their oceanic home's power, yet also its greatest potential threat. Conservative factions seek to maintain the ancient barriers, while progressive groups argue for attempting communication. Her influence on local magic is undeniable, with water-based spells becoming stronger yet more unpredictable.
+Many underwater citizens, particularly those in [[Aquabyssos Depth Caste System|deeper castes]], view the Deep Mother with complex reverence - she is the source of their oceanic home's power, yet also its greatest potential threat. Conservative factions like [[Order of the Sunken Crown]] seek to maintain the ancient barriers, while progressive groups such as [[The Deep Uprising]] argue for attempting communication. Her influence on local magic is undeniable, with water-based spells becoming stronger yet more unpredictable.
 
 ### Aethermoor
-Surface dwellers largely view her as a distant mythology, though coastal communities increasingly report strange dreams and visions. Maritime trading companies have begun hiring priests to bless their deepest diving expeditions, and ancient protective rituals are being rediscovered and practiced.
+Surface dwellers in [[Aethermoor]] largely view her as a distant mythology, though coastal communities near [[Lighthouse Peak - Resonance Chamber]] and [[Resonance Peaks]] increasingly report strange dreams and visions. Maritime trading companies, particularly those connected to [[Silverscale Banking House]], have begun hiring priests from [[Temple of the First Tide]] to bless their deepest diving expeditions, and ancient protective rituals are being rediscovered and practiced.
 
 ## Mechanics
 
@@ -67,9 +67,9 @@ Effects persist based on exposure level:
 
 ## Key Figures
 
-- **High Priestess Nerida Deepcurrent**: Leads the largest Deep Mother cult in Aquabyssos
-- **Captain Hadal Voidwright**: Surface explorer who claims to have seen her physical form
-- **The Abyssal Prophet**: Anonymous figure leaving cryptic warnings about her awakening
+- **[[High Priestess Nerida Deepcurrent]]**: Leads the largest Deep Mother cult in [[Aquabyssos]], operating from [[Temple of the First Tide]]
+- **[[Captain Hadal Voidwright]]**: Surface explorer from [[Aethermoor]] who claims to have seen her physical form in [[Leviathan Graveyard]]
+- **[[The Abyssal Prophet]]**: Anonymous figure leaving cryptic warnings about her awakening, possibly connected to [[The Crimson Hand]]
 
 ## Mysteries
 
@@ -86,15 +86,38 @@ Effects persist based on exposure level:
 
 ## Secrets (DM Only)
 
-The Deep Mother is not malevolent - she represents the ocean's natural cycle of death and rebirth. Her "corruption" of mortals is actually an evolutionary adaptation to help them survive in the changing world she foresees. The true threat lies in the ancient entities that seek to exploit her awakening for their own dark purposes.
+The Deep Mother is not malevolent - she represents the ocean's natural cycle of death and rebirth. Her "corruption" of mortals is actually an evolutionary adaptation to help them survive in the changing world she foresees, possibly related to [[The Convergence Point]] between [[Aethermoor]] and [[Aquabyssos]]. The true threat lies in the ancient entities like fragments of [[The Seven Betrayers]] that seek to exploit her awakening for their own dark purposes, and organizations like [[The Crimson Hand]] that may be unwittingly serving corrupted aspects of her influence.
 
-## Related Topics
+## Related Lore
 
-- [[The Abyss Beneath Aquabyssos]]
-- [[Deep Mother Lore]]
-- [[Corruption Exposure Tracking]]
-- [[Leviathan Graveyard]]
-- [[The Deep Uprising]]
+### Locations
+- [[The Abyss Beneath Aquabyssos]] - Her primary domain and source of power
+- [[Leviathan Graveyard]] - Site of ancient encounters with her influence
+- [[Kraken Territories]] - Areas where her whispers are strongest
+- [[Temple of the First Tide]] - Primary worship site for her followers
+- [[Pre-Submersion Ruins]] - Ancient sites showing evidence of her early influence
+- [[Fortress of the Deeps]] - Military installation monitoring her activity
+
+### People and Organizations
+- [[High Priestess Nerida Deepcurrent]] - Primary cult leader and interpreter
+- [[Captain Hadal Voidwright]] - Explorer documenting her manifestations
+- [[The Abyssal Prophet]] - Mysterious herald of her awakening
+- [[Order of the Sunken Crown]] - Conservative faction opposing her influence
+- [[The Deep Uprising]] - Progressive movement seeking communion
+- [[The Crimson Hand]] - May be exploiting her awakening for their own ends
+
+### Events and Phenomena
+- [[The Sundering]] - Possible connection to ancient awakening
+- [[The Deep Uprising]] - Movement inspired by her growing influence
+- [[Deep Mother Influence]] - Tracking and understanding her effects
+- [[Corruption Exposure Tracking]] - Monitoring exposure to her presence
+- [[Memory Tide Events]] - Manifestations of her consciousness affecting reality
+
+### Related Magic and Technology
+- [[Deep Mother Lore]] - Accumulated knowledge about her nature
+- [[Pressure Adaptation System]] - Technology needed to explore her domain
+- [[Tidal Memory Ceremonies]] - Rituals connected to her influence
+- [[Underwater Breathing]] - Essential for deep communion attempts
 
 ## Campaign Use
 

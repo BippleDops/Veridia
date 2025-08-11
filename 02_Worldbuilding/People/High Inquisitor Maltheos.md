@@ -74,10 +74,31 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]] 
 ## Resources & Influence
 
 ### Military Command
-- 2,000 Purifiers (soldiers)
-- 500 Crimson Fist (elite guard)
-- Unknown number of secret cells
-- Sympathizers everywhere
+- **2,000 Purifiers** - Regular soldiers of the [[02_Worldbuilding/Groups/Purist Coalition]]
+- **500 Crimson Fist** - Elite guard unit and personal protection
+- **Unknown number of secret cells** - Underground resistance networks
+- **Sympathizers everywhere** - Citizens who agree with crystal purification goals
+- **Inquisitor Orders** - Various specialized units for different tasks
+
+## Associates & Coalition Network
+
+### Religious Hierarchy
+- **High Clerics of Purification** - Senior religious leaders supporting his cause
+- **Temple Networks** - Priests across [[02_Worldbuilding/Places/Aethermoor]] spreading his message
+- **[[02_Worldbuilding/Groups/Temple of Divine Order]]** - Religious organization aligned with his goals
+- **Purification Monks** - Ascetics dedicated to cleansing crystal corruption
+
+### Political Alliances
+- **Anti-Crystal Nobles** - Aristocrats who support his cause
+- **Merchant Opposition** - Traders who profit from non-crystal alternatives
+- **Military Sympathizers** - Soldiers and officers who agree with his methods
+- **[[02_Worldbuilding/Groups/The Crown Authority]]** - Complex relationship with royal government
+
+### Enemies & Opposition
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Primary political opponent
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Military force protecting crystal interests
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection to his ancestral guilt
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - May possess blackmail material about his heritage
 
 ### Political Power
 - 30% of population supports him

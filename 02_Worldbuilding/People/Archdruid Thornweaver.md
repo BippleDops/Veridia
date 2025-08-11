@@ -96,8 +96,34 @@ Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]
 ### Resources
 - Natural magic unreliant on crystals
 - Healing herbs and potions
-- Ancient knowledge
-- Spy network of animals
+- Ancient knowledge from before the Shattering
+- Spy network of animals throughout [[02_Worldbuilding/Places/Aethermoor]]
+
+## Relationships & Social Network
+
+### Fellow Betrayer Descendants
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Shares the burden of ancestral guilt, potential ally in redemption
+- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Another descendant, but their methods are incompatible
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - The ultimate figure of their ancestors' betrayal
+- **Other descendants** - Seeks to unite them in making amends
+
+### Political Relations
+- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Opposes crystal expansion policies
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Primary opponents in protecting crystal interests
+- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Complicated alliance with different end goals
+- **[[02_Worldbuilding/Places/The Crystal Throne]]** - The seat of power she ultimately opposes
+
+### Natural World Network
+- **[[02_Worldbuilding/Groups/The Verdant Accord]]** - Organization she leads and guides
+- **Forest Spirits** - Ancient beings who remember the pre-Shattering world
+- **Awakened Trees** - Sentient forest guardians under her protection
+- **Nature Clerics** - Religious figures who serve the old gods of nature
+- **Rangers and Scouts** - Human and elf allies protecting the wilderness
+
+### Complex Relationships
+- **Crystal-corrupted druids** - Former allies she may need to oppose or redeem
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Academic whose research she both needs and opposes
+- **Surface traders** - Necessary contacts for resources but many profit from crystal trade
 
 ## Relationships
 

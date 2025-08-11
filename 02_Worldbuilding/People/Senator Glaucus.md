@@ -86,17 +86,32 @@ Three weeks ago, Glaucus was ambushed at the [[Reflection Pools]] and underwent 
 ## Relationships
 
 ### Allies
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy
-- **[[Shadow Parliament]]** - Secret organization of replaced officials
-- **[[Tenebrarum Ambassadors]]** - Fellow shadows
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Direct superior in shadow hierarchy from [[02_Worldbuilding/Places/Tenebrarum]]
+- **[[02_Worldbuilding/Groups/Shadow Parliament]]** - Secret organization of replaced officials
+- **[[02_Worldbuilding/Groups/Tenebrarum Ambassadors]]** - Fellow shadows working the political system
+- **[[02_Worldbuilding/Groups/Memory Farmers]]** - Collaborates in harvesting original memories
 
 ### Rivals
 - **[[02_Worldbuilding/People/The Scattered Emperor]]** - Knows something is wrong but too paranoid to act
 - **[[Original Glaucus]]** - Imprisoned but still fighting mentally
 
 ### Unknowing Associates
-- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Suspects something but unsure
-- **[[Parliament Loyalists]]** - Still believe he's the original
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Suspects something but unsure of the truth
+- **[[02_Worldbuilding/Groups/Parliament Loyalists]]** - Still believe he's the original Senator
+- **Other Parliament Members** - Unaware colleagues in [[02_Worldbuilding/Places/Parliament of Echoes]]
+
+## Associates & Shadow Network
+
+### Shadow Hierarchy
+- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Primary superior and coordinator
+- **Other Replaced Senators** - Fellow shadows infiltrating the Parliament
+- **Shadow Operatives** - Field agents carrying out replacement operations
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]** - The broader organization he serves
+
+### Political Connections (Maintained for Cover)
+- **Parliamentary Committees** - Various legislative bodies he serves on
+- **Trade Relations Council** - His original area of expertise
+- **Surface-Depth Diplomatic Corps** - Connections to [[02_Worldbuilding/Places/Aethermoor]] relations
 
 ## Shadow Abilities
 

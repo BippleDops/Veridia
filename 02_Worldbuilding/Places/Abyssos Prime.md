@@ -138,10 +138,10 @@ Undead parliament that continues debating despite having no living constituents.
 
 ### Current Political Climate
 - **Shadow Citizenship Act** pending vote
-- **Surface Contact Prohibition** in effect
-- **Depth Supremacy Movement** gaining power
-- **Memory Rights Debate** ongoing
-- **The Harvest** preparation underway
+- **[[Surface Contact Prohibition]]** in effect
+- **[[Depth Supremacy Movement]]** gaining power
+- **[[Memory Rights Debate]]** ongoing
+- **[[The Harvest]]** preparation underway
 
 ## Economics
 
@@ -211,10 +211,17 @@ Undead parliament that continues debating despite having no living constituents.
 - **[[Dream Rails]]:** Unconscious travel only
 - **[[Void Currents]]:** Dangerous but fast
 
+## See Also
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]] - Port facilities
+- [[02_Worldbuilding/Places/Abyssos Prime Upper Districts]] - Upper city areas
+- [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]] - Transportation hub
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]] - Palace details
+- [[02_Worldbuilding/Places/Ancient Tunnels Beneath Palace]] - Underground network
+
 ### Allied Locations
-- **[[Tenebrarum]]:** Shadow trade partner
+- **[[02_Worldbuilding/Places/Tenebrarum]]:** Shadow trade partner
 - **[[02_Worldbuilding/Places/Nereidios]]:** Knowledge exchange
-- **[[Crystallium]]:** Crystal trade
+- **[[02_Worldbuilding/Places/Crystallium]]:** Crystal trade
 
 ### Enemy Territories
 - **[[The Mourning Depths]]:** Sorrow competition
@@ -309,7 +316,7 @@ Undead parliament that continues debating despite having no living constituents.
 2. Parliamentary vote on Shadow Citizenship
 3. Memory Tides in 3 days
 4. Temporal storm probability: 40%
-5. The Harvest preparation
+5. [[The Harvest]] preparation
 
 ### Safe Zones
 - Emperor's Throne (sometimes)

@@ -15,13 +15,13 @@ updated: 2025-08-10
 
 ## Overview
 
-The Crimson Hand is a secretive organization that operates across both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], making them unique among the factions vying for power as [[The Convergence Point]] approaches. Unlike other groups that favor one world over another, the Crimson Hand seeks to control the convergence process itself, positioning themselves to rule whatever reality emerges from the merger. They are masters of shadow corruption, memory manipulation, and dimensional infiltration, with cells and agents embedded throughout both civilizations.
+The Crimson Hand is a secretive organization that operates across both [[Aethermoor]] and [[Aquabyssos]], making them unique among the factions vying for power as [[The Convergence Point]] approaches. Unlike other groups that favor one world over another, the Crimson Hand seeks to control the convergence process itself, positioning themselves to rule whatever reality emerges from the merger. They are masters of shadow corruption, memory manipulation, and dimensional infiltration, with cells and agents embedded throughout both civilizations.
 
 ## Origins and History
 
 ### The Founding Vision
 **Pre-Convergence Formation (approximately 50 years ago):**
-The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both Aethermoor and Aquabyssos, recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries.
+The Crimson Hand was founded by a cabal of individuals who experienced prophetic visions of the coming convergence between worlds. These founders, drawn from both [[Aethermoor]] and [[Aquabyssos]], recognized that the approaching reality merger would create unprecedented opportunities for those prepared to seize them. Rather than fight against convergence or try to prevent it, they chose to position themselves as its architects and beneficiaries.
 
 **Founding Principles:**
 - Convergence is inevitable and should be embraced rather than resisted
@@ -34,7 +34,7 @@ The Crimson Hand was founded by a cabal of individuals who experienced prophetic
 **The Shadow Awakening (Years 1-10):**
 - Discovery that shadow corruption could be controlled and weaponized
 - Recruitment of individuals with natural resistance or affinity to shadows
-- Establishment of communication networks between Aethermoor and Aquabyssos
+- Establishment of communication networks between [[Aethermoor]] and [[Aquabyssos]], utilizing [[Crystal Forest]] resonance and [[Umbral Exchange]] shadow channels
 - Development of memory manipulation techniques for recruitment and infiltration
 - Creation of safe houses and hidden sanctuaries in both worlds
 

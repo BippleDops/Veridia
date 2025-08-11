@@ -60,10 +60,11 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 ## Relationships
 
 ### Allies
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military commander (unaware of corruption)
-- [[02_Worldbuilding/People/The Crimson Sage]] - Secret advisor on corruption
-- [[High Priestess Celeste Dawnbringer]] - Provides healing (sworn to secrecy)
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Creates devices to slow corruption
+- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Military commander (unaware of corruption)
+- **[[02_Worldbuilding/People/The Crimson Sage]]** - Secret advisor on corruption, actually the diminished god [[02_Worldbuilding/People/The Crimson Sage|Aetheron]]
+- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Provides healing (sworn to secrecy)
+- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Creates devices to slow corruption progression
+- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Wealthy supporter, secretly seeking the Shards for his own redemption
 
 ### Enemies
 - [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Leads [[02_Worldbuilding/Groups/Purist Coalition]] against her
@@ -71,9 +72,24 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - [[02_Worldbuilding/People/Archdruid Thornweaver]] - Opposes crystal expansion
 
 ### Complicated
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Blackmailing her about corruption
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Loyal but suspicious
-- [[Professor Aldric Crystalweaver]] - Would be horrified by her condition
+- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - Blackmailing her about corruption, seeking to exploit her desperation
+- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Loyal but increasingly suspicious of her behavior
+- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Would be horrified by her condition, represents the academic community
+- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Diplomatic relations strained by events in [[02_Worldbuilding/Places/Aquabyssos]]
+
+## Associates & Royal Network
+
+### The Crystal Court
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Elite guard unit she directly commands
+- **Royal Physicians** - Medical staff unaware of her true condition
+- **Court Wizards** - Magical advisors helping maintain her illusions
+- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Economic allies who support her policies
+
+### Secret Support Network
+- **Corruption Researchers** - Scholars secretly seeking a cure
+- **[[Aria Lumengarde]]** - Hidden daughter kept safe in [[02_Worldbuilding/Places/Sylvanheart]]
+- **Temple Healers** - Clerics providing discrete medical aid
+- **Loyal Spies** - Intelligence network monitoring threats to the crown
 
 ## Secrets
 > [!warning] DM Only

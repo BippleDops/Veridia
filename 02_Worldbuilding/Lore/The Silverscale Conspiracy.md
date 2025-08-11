@@ -21,7 +21,7 @@ primary_agents: "Silverscale Banking House and allied organizations"
 
 ## Overview
 
-The Silverscale Conspiracy represents one of the most sophisticated and far-reaching influence networks operating across both [[Aethermoor]] and [[Aquabyssos]], utilizing economic manipulation, information control, and political leverage to shape events according to the hidden agenda of the [[Silverscale Banking House]] and its allied organizations. Unlike traditional conspiracies that operate through violence or magical coercion, the Silverscale network achieves its goals through the careful manipulation of financial systems, trade relationships, and political dependencies.
+The Silverscale Conspiracy represents one of the most sophisticated and far-reaching influence networks operating across both [[Aethermoor]] and [[Aquabyssos]], utilizing economic manipulation, information control, and political leverage to shape events according to the hidden agenda of the [[Silverscale Banking House]] and its allied organizations, with potential connections to [[The Crimson Hand]] and influence over figures like [[Aurelius Goldwave]]. Unlike traditional conspiracies that operate through violence or magical coercion, the Silverscale network achieves its goals through the careful manipulation of financial systems, trade relationships, and political dependencies.
 
 The conspiracy's power stems from its control of essential economic infrastructure in both worlds, including banking services, trade financing, currency exchange, and investment capital. By positioning themselves as indispensable partners to governments, merchants, and nobles, the Silverscale network has created a web of influence that extends into every major political and economic decision affecting both surface and underwater civilizations.
 
@@ -33,7 +33,7 @@ The Silverscale Conspiracy originated approximately 150 years ago when [[Directo
 
 The network's early success came from providing essential funding to cash-strapped nobles and merchants during a period of economic instability, but with loan terms that included information sharing requirements and informal political agreements. These arrangements created a foundation of influence that Silverscale could leverage to guide policy decisions and business developments in directions that served the organization's broader interests.
 
-The conspiracy's expansion into [[Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships.
+The conspiracy's expansion into [[Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[Goldwave Manor]] and influence over [[Memory Trader]] networks. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships.
 
 ## Cultural Significance and Impact
 
@@ -54,7 +54,7 @@ Silverscale gained control of crucial shipping routes through strategic loans an
 The establishment of unified financial standards between [[Aethermoor]] and [[Aquabyssos]] created opportunities for Silverscale to influence both civilizations' monetary policies.
 
 ### The Recent Acceleration (Past 5 years)
-Conspiracy activities have intensified dramatically, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.
+Conspiracy activities have intensified dramatically, possibly in response to [[The Convergence Point]] approaching or [[The Seven Shards]] becoming more active, suggesting that whatever long-term plan Silverscale has been implementing may be approaching its culmination.
 
 ## Key Figures and Organizations
 

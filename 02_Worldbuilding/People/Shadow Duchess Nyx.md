@@ -155,19 +155,38 @@ That she IS a shadow who killed her original
 ## 🔗 Relationships
 
 ### Allies (Tenuous)
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Mutual benefit
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Information exchange
-- Shadowless Cult - Devoted followers
+- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Mutual benefit, both oppose shadow conspiracy
+- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Information exchange between two unique shadow-resistant individuals
+- **[[02_Worldbuilding/Groups/Shadowless Cult]]** - Devoted followers who worship her shadow-free state
+- **[[02_Worldbuilding/People/Original Glaucus]]** - Imprisoned senator she might rescue to prove shadows can be defeated
 
 ### Enemies
-- Shadow Liberation Front
-- [[Senator Glaucus]]
-- Most of Tenebrarum (feared ruler)
+- **[[02_Worldbuilding/Groups/Shadow Liberation Front]]** - Shadows seeking independence from originals
+- **[[02_Worldbuilding/People/Senator Glaucus]]** - Shadow replacement she can detect and destroy
+- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]** - Organized shadow replacement network
+- **Most of [[02_Worldbuilding/Places/Tenebrarum]]** - Feared ruler governing through terror
+- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient mind that might control shadows
 
 ### Complicated
-- Her own shadow (destroyed but haunts her)
-- [[02_Worldbuilding/Places/Parliament of Echoes]] (investigating)
-- Surface seekers (potential allies)
+- **Her own shadow** - Destroyed but psychologically haunts her thoughts
+- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Investigating shadow infiltration but mistrusted
+- **[[02_Worldbuilding/Groups/Surface Seekers]]** - Potential allies who might accept her shadowless state
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Military leader who might value her anti-shadow abilities
+- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Oracle who might know the true cost of shadowlessness
+
+## Associates & Power Network
+
+### The Umbral Court
+- **Shadow Hunters** - Elite operatives trained to detect and destroy shadows
+- **The Shadowless Guard** - Personal bodyguards who've undergone shadow removal
+- **Fear Priests** - Clerics who weaponize terror as a divine force
+- **Void Touched** - Individuals partially existing outside normal reality
+
+### Intelligence Network
+- **Light Spies** - Operatives who can function in bright environments
+- **Shadow Market Informants** - Contacts within [[02_Worldbuilding/Places/The Shadow Markets]]
+- **Parliament Infiltrators** - Agents monitoring government for shadow replacement
+- **Tenebrarum Enforcers** - Those who maintain order through fear and violence
 
 ## 🎯 Plot Hooks
 

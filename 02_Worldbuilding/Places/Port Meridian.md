@@ -114,13 +114,13 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 ### Taverns
 - **The Salty Serpent** - Rough crowd, good information
 - **The Golden Anchor** - Merchant hangout
-- **The Kraken's Wake** - Sailor's favorite
+- **[[The Kraken's Wake]]** - Sailor's favorite
 
 ### Shops
-- **Stormwind Supplies** - Naval and sailing equipment
-- **The Exotic Emporium** - [[Master Chen Wei]]'s shop
-- **Crystals & Curiosities** - Magical goods
-- **The Plague Ward** - Protective equipment (new)
+- **[[Stormwind Supplies]]** - Naval and sailing equipment
+- **[[The Exotic Emporium]]** - [[Master Chen Wei]]'s shop
+- **[[Crystals & Curiosities]]** - Magical goods
+- **[[The Plague Ward]]** - Protective equipment (new)
 
 ## Ships in Harbor
 - **The Celestial Wind** - [[Admiral Cassandra Stormwind]]'s flagship
@@ -163,6 +163,16 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - [[The Azure Coast]] - Regional area
 - [[02_Worldbuilding/Places/The Crystalline Wastes]] - Source of plague?
 - [[02_Worldbuilding/Places/The Verdant Reach]] - Food imports
+- [[02_Worldbuilding/Places/Ironhold]] - Mountain trade partner
+- [[02_Worldbuilding/Places/Sylvanheart]] - Elven goods
+- [[02_Worldbuilding/Places/The Sundered Peaks]] - Raw materials
+
+## See Also
+- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Harbor facilities
+- [[02_Worldbuilding/Places/Port Meridian - Harbor District]] - Harbor district details
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]] - Market areas
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]] - Merchant areas
+- [[02_Worldbuilding/Places/Port Meridian - Noble Quarter]] - Noble district
 
 ## Active Quests
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Main crisis
@@ -173,4 +183,4 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - [[02_Worldbuilding/Groups/Merchant Princes]] - Ruling council
 - [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal network
 - [[Crystal Wardens]] - Military presence
-- Foreign trade guilds
+- [[Foreign Trade Guilds]]

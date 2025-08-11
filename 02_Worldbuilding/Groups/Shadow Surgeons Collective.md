@@ -151,7 +151,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 #### The Memory Thief (Collection Division Chief)
 *Medium humanoid (variant human), chaotic evil*  
-**AS** 16 (Studded Leather +1) **HP** 127 (15d8 + 60) **Speed** 40 ft.
+**AC** 16 (Studded Leather +1) **HP** 127 (15d8 + 60) **Speed** 40 ft.
 **STR** 12 (+1) **DEX** 20 (+5) **CON** 18 (+4) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 14 (+2)
 **Saving Throws** Dex +11, Wis +10
 **Skills** Stealth +17, Sleight of Hand +11, Perception +10, Insight +10

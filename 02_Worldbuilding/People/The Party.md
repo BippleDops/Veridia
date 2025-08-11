@@ -415,7 +415,7 @@ Adjust for party composition:
 ---
 
 ## See Also
-- [[04_Player_Resources/Character_Options/Character_Bonds]]
+- [[07_Player_Resources/Imported_from_04/Character_Options/Character_Bonds]]
 - [[02_Worldbuilding/Groups/Faction_Overview]]
 - [[03_Mechanics/Social_Systems/Party_Reputation]]
 - [[06_GM_Resources/Session_Tools/Session_Zero_Guide]]

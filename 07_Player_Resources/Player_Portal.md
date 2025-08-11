@@ -64,7 +64,7 @@ SORT file.name ASC
 
 ## Quick References
 - [[07_Player_Resources/Handouts/Sanity_Quick_Reference|Sanity System]] — Mental health mechanics
-- [[04_Player_Resources/Handouts/Welcome_to_Aquabyssos|Welcome to Aquabyssos]] — World primer
+- [[07_Player_Resources/Imported_from_04/Handouts/Welcome_to_Aquabyssos|Welcome to Aquabyssos]] — World primer
 - [[07_Player_Resources/Character_Creation_Extended|Character Creation]] — Build options
 - [[07_Player_Resources/Faction_Guide|Faction Guide]] — Political landscape
 

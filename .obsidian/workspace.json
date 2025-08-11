@@ -11,10 +11,14 @@
             "id": "030da86bd965753b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Master_People_Index.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Master_People_Index"
             }
           }
         ]
@@ -162,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Master_People_Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Master_People_Index"
             }
           },
           {
@@ -358,6 +363,24 @@
   },
   "active": "030da86bd965753b",
   "lastOpenFiles": [
+    "03_Mechanics/CLI/bestiary/giant/ogre-xmm.md",
+    "scripts/build_prompts.js",
+    "03_Mechanics/CLI/books/monster-manual-2014/1-introduction.md",
+    "09_Performance/Monster Gallery.base",
+    "09_Performance/Location Tracker.base",
+    "09_Performance/Image Library.base",
+    "09_Performance/Faction_Tracker.base",
+    "09_Performance/Combat Tracker.base",
+    "04_Player_Resources/Character_Options/Depth_Adapted_Background.md",
+    "03_Mechanics/Vault_Self_Improvement_Engine.md",
+    "03_Mechanics/Weather_And_Seasons.md",
+    "03_Mechanics/Travel Rules.md",
+    "03_Mechanics/Memory Absorption Rules.md",
+    "03_Mechanics/Language_Evolution_Tracker.md",
+    "03_Mechanics/Aquabyssos Survival Mechanics.md",
+    "03_Mechanics/Aquabyssos Languages.md",
+    "03_Mechanics/Vehicles/Aethermoor_Airships_Catalog.md",
+    "03_Mechanics/Social_Systems/Faction_Reputation.md",
     "03_Mechanics/Crystal-Plague-Mechanics.md",
     "03_Mechanics/Crystal Plague Mechanics.md",
     "03_Mechanics/Comprehensive Survival System.md",
@@ -372,30 +395,12 @@
     "02_Worldbuilding/Lore/Save the Citizens.md",
     "02_Worldbuilding/Lore/Reputation System.md",
     "02_Worldbuilding/Lore/Professor Euclid Mindmaze.md",
-    "02_Worldbuilding/Lore/Possessed Noble Coterie.md",
-    "02_Worldbuilding/Lore/Party Information.md",
-    "02_Worldbuilding/Lore/NPC Name Generator.md",
-    "02_Worldbuilding/Items/Shadow-touched Equipment Set.md",
-    "02_Worldbuilding/Items/Depth Pressure Rings.md",
-    "02_Worldbuilding/Places/The Phosphor Markets.md",
-    "02_Worldbuilding/Places/New Tethys.md",
-    "02_Worldbuilding/People/Captain Garrett Stormcutter.md",
     "Combat Tracker.base",
     "Faction_Tracker.base",
     "Image Library.base",
-    "Untitled 1.md",
-    "02_Worldbuilding/Lore/Dawn-Echo Sentinel.md",
     "Item Showcase.base",
-    "Untitled.md",
-    "Faction_Tracker 2.base",
-    "07_Player_Resources/Handouts/Parliament of Shadows Player Guide.md",
     "04_Resources/Assets/quests/missing-caravan.png",
     "04_Resources/Assets/Canvas/Relationship_Graph.canvas",
-    "Item_Catalog 2.base",
-    "Relationship_Graph 2.base",
-    "Session Log.base",
-    "NPC Directory.base",
-    "Location Tracker.base.tmp.83938.1754766250485",
     "Ω_Assets/Pasted image 20250121213204.png",
     "Ω_Assets/Pasted Image 20240630225934_265.png",
     "Ω_Assets/Pasted image 20240630204305.png",

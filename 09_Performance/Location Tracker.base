@@ -17,17 +17,16 @@ formulas:
 views:
   - type: table
     name: All Locations
-    filters:
-      tags contains "Category/Place"
+    filters: tags contains "Category/Place"
+    sort:
+      - property: file.name
+        direction: ASC
+    limit: 200
     columns:
       - file.name
       - type
       - region
       - faction
-    sort:
-      - property: file.name
-        direction: ASC
-    limit: 200
     columnSize:
       file.name: 200
       type: 120
@@ -39,14 +38,14 @@ views:
       and:
         - tags contains "Category/Place"
         - active_quests
+    sort:
+      - property: danger_level
+        direction: DESC
     columns:
       - file.name
       - active_quests
       - danger_level
       - region
-    sort:
-      - property: danger_level
-        direction: DESC
     columnSize:
       file.name: 240
       formula.QuestCount: 120
@@ -54,17 +53,16 @@ views:
       region: 180
   - type: table
     name: All Locations
-    filters:
-      tags contains "Category/Place"
+    filters: tags contains "Category/Place"
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - type
       - region
       - faction
       - danger_level
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 240
       type: 140
@@ -77,41 +75,39 @@ views:
       and:
         - tags contains "Category/Place"
         - danger_level
+    sort:
+      - property: danger_level
+        direction: DESC
     columns:
       - file.name
       - region
       - danger_level
-    sort:
-      - property: danger_level
-        direction: DESC
     columnSize:
       file.name: 240
       region: 160
       formula.DangerBadge: 100
   - type: table
     name: By Region
-    filters:
-      tags contains "Category/Place"
-    columns:
-      - region
-      - file.name
+    filters: tags contains "Category/Place"
     sort:
       - property: region
         direction: ASC
       - property: file.name
         direction: ASC
+    columns:
+      - region
+      - file.name
   - type: table
     name: All (Debug)
-
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - type
       - region
       - faction
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       type: 120

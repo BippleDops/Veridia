@@ -4,52 +4,52 @@ views:
     filters:
       and:
         - path includes "CLI/bestiary"
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - cr
       - type
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       cr: 80
       type: 120
       tags: 200
-      
   - type: cards
     name: Monster Gallery
     filters:
       and:
-        - path includes "CLI/bestiary"
-    columns: 4
+        - path includes "bestiary"
+    order:
+      - file.name
+      - file.basename
+      - file.ctime
     limit: 100
+    columns: 4
     properties:
       - file.name
       - image_path
       - type
       - cr
-    
   - type: cards
     name: Boss Gallery
-    filters:
-      cr >= 15
-    columns: 3
+    filters: cr >= 15
     limit: 100
+    columns: 3
     properties:
       - file.name
       - image_path
       - type
       - cr
-    
   - type: cards
     name: By Environment
     filters:
       and:
         - environment contains "{{env}}"
-    columns: 5
     limit: 100
+    columns: 5
     properties:
       - file.name
       - image_path
@@ -69,13 +69,17 @@ views:
           - Swamp
           - Underdark
           - Underwater
-          - Urban 
-
+          - Urban
   - type: table
     name: Encounter Builder (Simple)
     filters:
       and:
         - cr
+    sort:
+      - property: cr
+        direction: ASC
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - cr
@@ -83,11 +87,6 @@ views:
       - size
       - ac
       - hp
-    sort:
-      - property: cr
-        direction: ASC
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 180
       cr: 60
@@ -95,19 +94,17 @@ views:
       size: 80
       ac: 60
       hp: 80
-
   - type: table
     name: All (Debug)
-
+    sort:
+      - property: file.name
+        direction: ASC
     columns:
       - file.name
       - type
       - size
       - cr
       - tags
-    sort:
-      - property: file.name
-        direction: ASC
     columnSize:
       file.name: 200
       type: 120

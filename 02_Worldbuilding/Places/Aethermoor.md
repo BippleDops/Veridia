@@ -282,7 +282,7 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 - [[Teacher Miranda Hopekeeper]]
 - [[The Crystal Wardens]]
 - [[The Crystalline Foundry]]
-- [[The Floating Market]]
+- [[02_Worldbuilding/Lore/pat]]
 - [[The Free Current]]
 - [[The Gilded Shard]]
 - [[The Neutral Ground]]

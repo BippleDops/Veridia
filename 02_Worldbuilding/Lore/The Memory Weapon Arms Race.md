@@ -224,7 +224,7 @@ Every major power began developing memory weapons:
 - **Ethical Concerns**: Accused of creating artificial demand and manipulating economic memories
 - **Current Research**: Memory-based currency systems, thought-pattern economic prediction
 
-**[[Memory Merchant]] Consortium:**
+**[[02_Worldbuilding/People/Sire]] Consortium:**
 - **Role**: Largest civilian memory technology developer and distributor
 - **Market Share**: 67% of commercial memory manipulation technology
 - **Services**: Memory storage, experience trading, skill implantation, entertainment memories

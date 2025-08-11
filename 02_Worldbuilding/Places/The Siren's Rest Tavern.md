@@ -90,7 +90,7 @@ Smaller rooms designed for intimate conversations or romantic encounters. Despit
 The top floor serves as Morgana's private domain and the tavern's intelligence center. Officially, it's her personal residence and office space. In reality, it's a sophisticated surveillance and coordination hub for maritime criminal activities throughout the region.
 
 **The Map Room**
-Contains the most comprehensive collection of nautical charts in Port Crystalfall, including detailed maps of shipping routes, underwater hazards, and the locations of known [[Shadow Crystal]] deposits. Many of these charts show information not available to legitimate navigators, marking hidden bases, safe harbors, and profitable raiding locations.
+Contains the most comprehensive collection of nautical charts in Port Crystalfall, including detailed maps of shipping routes, underwater hazards, and the locations of known [[02_Worldbuilding/Places/Trade Union]] deposits. Many of these charts show information not available to legitimate navigators, marking hidden bases, safe harbors, and profitable raiding locations.
 
 **The Crystal Chamber**
 A magically warded room containing Morgana's communication network - a collection of synchronized shadow crystals that allow her to maintain contact with affiliated operations throughout Aethermoor. The crystals are arranged in a circular pattern around a central focusing stone that amplifies signals and filters out unwanted interference.
@@ -198,7 +198,7 @@ Using her accumulated wealth and reputation, she won the tavern in the legendary
 ### The Core Staff
 
 **"Driftwood" Danny McReary** - *Bartender and Information Broker*
-A grizzled former sailor who lost his right arm to a [[Shadow Crystal]]-corrupted sea creature. Danny can mix any drink known to maritime culture and several that probably shouldn't exist. He maintains the tavern's most extensive collection of rumors, gossip, and useful intelligence, trading information as skillfully as he pours ale.
+A grizzled former sailor who lost his right arm to a [[02_Worldbuilding/Places/Trade Union]]-corrupted sea creature. Danny can mix any drink known to maritime culture and several that probably shouldn't exist. He maintains the tavern's most extensive collection of rumors, gossip, and useful intelligence, trading information as skillfully as he pours ale.
 
 **The Tidecaller Twins - Reef and Coral** - *Servers and Security*
 Identical twin sisters of sea elf heritage who handle most of the tavern's day-to-day service. Despite their diminutive appearance, both are skilled fighters trained by Morgana personally. They possess an almost supernatural ability to anticipate trouble before it starts, often defusing situations through strategic drink placement and careful crowd management.
@@ -247,7 +247,7 @@ A retired lighthouse keeper who comes to the tavern every evening to drink exact
 **Signature Drinks**
 
 **The Siren's Call** (5 sp)
-A potent blue-green cocktail made with smuggled spirits and a dash of diluted [[Shadow Crystal]] essence. Provides enhanced night vision for 2d4 hours but requires a DC 12 Constitution save or suffer one level of exhaustion the next day.
+A potent blue-green cocktail made with smuggled spirits and a dash of diluted [[02_Worldbuilding/Places/Trade Union]] essence. Provides enhanced night vision for 2d4 hours but requires a DC 12 Constitution save or suffer one level of exhaustion the next day.
 
 **Blackwater's Revenge** (3 sp)
 A dark rum mixture that Morgana claims contains water from the deepest ocean trenches. Provides temporary resistance to psychic damage for 1 hour.

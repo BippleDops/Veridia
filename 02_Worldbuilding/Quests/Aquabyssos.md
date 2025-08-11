@@ -1151,7 +1151,7 @@ A descendant of ancient mer-folk approaches the party with family heirlooms that
 - [[The Embassy Quarter]]
 - [[The Eternal Senate]]
 - [[The First Failure]]
-- [[The Floating Market]]
+- [[02_Worldbuilding/Lore/pat]]
 - [[The Forgotten One]]
 - [[The Foundation Depths]]
 - [[The Free Current]]

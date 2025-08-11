@@ -77,7 +77,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 
 #### Commercial & Economic
 - [[The Grand Bazaar of Echoing Coins]] - Massive marketplace
-- [[The Floating Market]] - Mobile trading platform
+- [[02_Worldbuilding/Lore/pat]] - Mobile trading platform
 - [[The Floating Markets of Nereidios]] - Sea-elf commerce center
 - [[The Sunken Markets]] - Underwater trading district
 - [[The Tidepool Markets]] - Tidal zone commerce
@@ -211,7 +211,7 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 - [[Pressure Tube Terminal]] - Pneumatic transport station
 - [[Pressure Tubes]] - Transportation tunnel network
 - [[Dream Rails]] - Mystical transport system
-- [[The Kelp Highway]] - Natural underwater roadway
+- [[02_Worldbuilding/Lore/NPC ]] - Natural underwater roadway
 - [[Surface Portal Alpha]] - Primary surface-depth gateway
 - [[Blood Current Express]] - Rapid transport system
 

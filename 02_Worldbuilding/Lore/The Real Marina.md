@@ -53,7 +53,7 @@ Each Marina believes herself to be the "real" one, with memories that contradict
 - Age: 28 (born 572 AC - After Submersion)
 - Occupation: Senior Pressure Engineer, [[Silverscale Banking House]]
 - Residence: Mid-bathyal zone of [[02_Worldbuilding/Places/Parliament of Echoes]]
-- Family: Daughter of renowned [[Memory Merchant]] Thalassa Depthborn
+- Family: Daughter of renowned [[02_Worldbuilding/People/Sire]] Thalassa Depthborn
 - Education: [[The Memory Academies]], specialized in pressure-based systems
 
 **Capabilities and Skills:**

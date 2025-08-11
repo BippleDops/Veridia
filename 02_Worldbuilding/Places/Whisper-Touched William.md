@@ -12,7 +12,7 @@ location_name: Whisper-Touched William's Oracle Shrine
 location_type: Prophetic Shrine Complex
 parent_location: '[[Abyssos Prime]]'
 sub_locations:
-- '[[The Whispering Chamber]]'
+- '[[02_Worldbuilding/Lore/NPC ]]'
 - '[[Gallery of Echoing Truths]]'
 - '[[The Silence Garden]]'
 - '[[Prophecy Translation Center]]'

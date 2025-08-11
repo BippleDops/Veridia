@@ -166,7 +166,7 @@ The extraction of usable fear-essence requires sophisticated psychological manip
 - **Temporal Confusion**: Manipulation of light cycles to destroy sense of time
 
 **Psychological Terror:**
-- **Memory Manipulation**: Using [[Memory Merchant]] techniques to alter or erase memories
+- **Memory Manipulation**: Using [[02_Worldbuilding/People/Sire]] techniques to alter or erase memories
 - **Identity Erosion**: Systematic destruction of personal identity and self-worth
 - **False Hope Cycles**: Repeatedly offering and withdrawing possibilities of escape or rescue
 - **Social Isolation**: Preventing contact with other subjects to maintain desperation

@@ -67,7 +67,7 @@ Merged Reality Zones typically form around specific catalyst locations:
 **Artificial Manipulation:**
 - [[The Crimson Hand]] techniques can deliberately create new zones
 - [[02_Worldbuilding/Groups/The Crystal Throne]] crystal networks can slow expansion
-- [[Memory Merchant]]s sometimes trigger zones through consciousness experiments
+- [[02_Worldbuilding/People/Sire]]s sometimes trigger zones through consciousness experiments
 - Resistance groups attempt to contain zones using hybrid magic techniques
 
 ## Environmental Characteristics
@@ -170,7 +170,7 @@ Within Merged Reality Zones, gravity operates according to rules from both world
 - **Reality Anchors**: Structural elements maintaining stability across dimensions
 
 ### The Trading Nexus
-**Location**: Areas where [[Silverscale Banking House]] operations overlap with [[Memory Merchant]] networks
+**Location**: Areas where [[Silverscale Banking House]] operations overlap with [[02_Worldbuilding/People/Sire]] networks
 **Characteristics:**
 - Markets where goods from both worlds are traded simultaneously
 - Currency that exists as both crystal formations and pressure-stored memories

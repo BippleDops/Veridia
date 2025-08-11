@@ -567,7 +567,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 **Innovation**: Joint development of new techniques and technologies  
 **Knowledge**: Access to academy knowledge and research resources
 
-### [[The Floating Market]]
+### [[02_Worldbuilding/Lore/pat]]
 **Competition**: Commercial competition affecting customs revenues and procedures  
 **Coordination**: Some coordination on trade routes and commercial standards  
 **Information**: Information sharing on market conditions and trading patterns  
@@ -591,7 +591,7 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 - [[Port Meridian Harbor District]]
 - [[Crystalhaven]]
 - [[The Crystal Academy]]
-- [[The Floating Market]]
+- [[02_Worldbuilding/Lore/pat]]
 
 **Related NPCs**:
 - [[Chief Inspector Magnus Ledgerkeep]]

@@ -15,7 +15,7 @@ world: Both Aethermoor & Aquabyssos
 type: Group
 faction_type: Cross-Realm Trading Syndicate
 alignment: True Neutral (Profit-focused)
-headquarters: '[[The Floating Market]] (dimensional nexus)'
+headquarters: '[[02_Worldbuilding/Lore/pat]] (dimensional nexus)'
 leader: '[[Merchant Prince Vortex]]'
 members: ~1,200 traders, smugglers, and support staff
 influence: Significant (controls cross-realm commerce)
@@ -36,7 +36,7 @@ updated: '2025-08-11T13:08:51.385573+00:00'
 *Masters of Between-World Commerce, The Dimensional Merchants*
 
 ## Overview
-The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[The Floating Market]]—a dimensional nexus that exists partially in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
+The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[02_Worldbuilding/Lore/pat]]—a dimensional nexus that exists partially in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
 
 ## Business Model
 ### Cross-Realm Arbitrage
@@ -451,7 +451,7 @@ The Company ultimately envisions itself as the foundation of a unified multi-dim
 - [[Oracle Nerida the Tidereader]]
 - [[Tenebrarum Ambassadors]]
 - [[Tribune Cassia Deepcurrent]]
-- [[The Floating Market]]
+- [[02_Worldbuilding/Lore/pat]]
 - [[The Shadowmire Tavern]]
 - [[The Threshold Chambers]]
 - [[The Tidepool Markets]]

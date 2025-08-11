@@ -51,7 +51,7 @@ Unlike surface palaces built from dead stone, the Original Palace grows from a m
 - **Expansion potential:** New wings can be grown as needed
 
 ### The Five Spires
-The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[Deep One]] culture:
+The palace consists of five great spires, each serving a distinct purpose and representing a different aspect of [[02_Worldbuilding/Places/Trade Union]] culture:
 
 **The Spire of Currents** (Central Tower)
 - **Height:** 500 feet above the sea floor
@@ -178,7 +178,7 @@ The palace serves as the hub for an ancient communication system that connects t
 - Occasionally picks up communications from other planes of existence
 
 **The Calling Chambers**
-- Specialized rooms where [[Deep One]] nobles can communicate with surface contacts
+- Specialized rooms where [[02_Worldbuilding/Places/Trade Union]] nobles can communicate with surface contacts
 - Protected by magical wards that prevent eavesdropping
 - Equipped with translation magic for cross-species communication
 - Used for diplomatic correspondence and intelligence gathering
@@ -282,7 +282,7 @@ The palace's roots extend far deeper than most realize, connecting to an undergr
 ### Access Requirements
 - Official diplomatic credentials or invitation from the [[Abyssal Courts]]
 - Ability to survive at crushing depths (magic or natural adaptation required)
-- Respect for [[Deep One]] customs and protocols
+- Respect for [[02_Worldbuilding/Places/Trade Union]] customs and protocols
 - Payment of appropriate tribute or demonstration of worthy purpose
 
 ### Cultural Protocols

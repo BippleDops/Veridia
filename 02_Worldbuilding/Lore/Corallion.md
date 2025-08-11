@@ -17,7 +17,7 @@ type: Lore
 
 ## Overview
 
-Corallion is a unique entity that exists as both a living creature and an architectural marvel—a massive coral organism that has grown into the shape of a city, complete with streets, buildings, and infrastructure. Located in the [[Twilight Depth]] of [[Aquabyssos]], Corallion serves as both home to thousands of inhabitants and as a sentient being with its own consciousness, goals, and personality.
+Corallion is a unique entity that exists as both a living creature and an architectural marvel—a massive coral organism that has grown into the shape of a city, complete with streets, buildings, and infrastructure. Located in the [[02_Worldbuilding/Places/Trade Union]] of [[Aquabyssos]], Corallion serves as both home to thousands of inhabitants and as a sentient being with its own consciousness, goals, and personality.
 
 Unlike traditional cities built from dead materials, every surface, wall, and structure in Corallion is alive and growing. The entity continuously reshapes itself to better serve its inhabitants while pursuing its own mysterious agenda. Residents must negotiate with their city for changes to their homes, and the city itself participates in local governance through a complex system of biochemical communication.
 
@@ -233,7 +233,7 @@ Parts of Corallion have begun developing independent consciousness and threateni
 - [[New Tethys]]
 - [[The Memory Walls]]
 - [[The Growth Points]]
-- [[Twilight Depth]]
+- [[02_Worldbuilding/Places/Trade Union]]
 
 **Related NPCs**:
 - [[The Coral Council]]

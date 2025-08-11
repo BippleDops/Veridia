@@ -57,7 +57,7 @@ type: Lore
 - [[The Living Docks]] - Biotechnology harbor
 
 #### Natural Features
-- [[The Kelp Highway]] - Underwater trade routes
+- [[02_Worldbuilding/Lore/NPC ]] - Underwater trade routes
 - [[The Void Touched Depths]] - Corrupted ocean floor
 - [[The Bloom Fields]] - Bioluminescent gardens
 - [[The Pressure Crown]] - Deep sea power nexus

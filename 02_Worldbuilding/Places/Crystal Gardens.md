@@ -51,7 +51,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 ### The Upper Gardens (Surface Level)
 
 #### The Prism Plaza
-**Description**: Central gathering area with a massive [[Sunlight Crystal]] that refracts daylight into rainbow patterns  
+**Description**: Central gathering area with a massive [[02_Worldbuilding/Lore/NPC ]] that refracts daylight into rainbow patterns  
 **Features**: Benches of living crystal that adjust to sitter comfort, fountain of liquid light  
 **Purpose**: Public events, crystal light festivals, ceremonial gatherings  
 **Special Property**: All spells cast here gain radiant damage bonus

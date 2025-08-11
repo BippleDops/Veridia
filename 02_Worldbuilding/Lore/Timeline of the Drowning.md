@@ -196,7 +196,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ### The Memory Wars
 **Years 400-600 AS**
 - Conflicts over control of memory-manipulation technology
-- Rise of the [[Memory Merchant]] class
+- Rise of the [[02_Worldbuilding/People/Sire]] class
 - Development of memory-based weapons and defenses
 - Establishment of memory-preservation protocols
 - Creation of the [[Memory Vault]] system

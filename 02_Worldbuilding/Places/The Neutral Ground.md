@@ -546,7 +546,7 @@ The Neutral Ground serves as [[Aquabyssos]]'s premier diplomatic facility, a car
 **Protection**: Military forces available for defense but cannot enter facility  
 **Tension**: Military priorities sometimes conflict with diplomatic openness
 
-### [[The Floating Market]]
+### [[02_Worldbuilding/Lore/pat]]
 **Economic Diplomacy**: Commercial negotiations often conducted at Neutral Ground  
 **Cultural Exchange**: Market traders provide cultural context and understanding  
 **Information**: Traders bring news and intelligence from across the known world  
@@ -581,7 +581,7 @@ The Neutral Ground serves as [[Aquabyssos]]'s premier diplomatic facility, a car
 - [[Parliament of Echoes]]
 - [[Abyssos Prime]]
 - [[Azure Citadel]]  
-- [[The Floating Market]]
+- [[02_Worldbuilding/Lore/pat]]
 
 **Related NPCs**:
 - [[Mediator Supreme Cora Peaceweaver]]

@@ -344,7 +344,7 @@ A groundbreaking experiment to create a "memory bridge" between [[02_Worldbuildi
 24. [[The Azure Prophet Nerissa]] - Seer warning of consciousness-related futures
 25. [[Pressure Angel Benthia]] - Divine messenger concerned with mortal consciousness
 26. [[02_Worldbuilding/People/The Crimson Sage]] - Ancient being with unique perspective on consciousness
-27. [[The Floating Market]] - Neutral ground for cross-realm negotiations
+27. [[02_Worldbuilding/Lore/pat]] - Neutral ground for cross-realm negotiations
 28. [[The Threshold Chambers]] - Between-worlds location for advanced experiments
 
 ## DM Notes & Epic Campaign Guidance

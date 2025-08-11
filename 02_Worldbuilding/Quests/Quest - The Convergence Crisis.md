@@ -431,7 +431,7 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 27. [[The Azure Coast]] - Coastal region experiencing reality storms
 28. [[Memory Meadows]] - Dream realm affected by convergence
 29. [[02_Worldbuilding/Places/The Deepmind]] - Consciousness nexus monitoring crisis
-30. [[The Floating Market]] - Neutral zone for cross-realm negotiations
+30. [[02_Worldbuilding/Lore/pat]] - Neutral zone for cross-realm negotiations
 31. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Crystal Throne ruler's response
 32. [[02_Worldbuilding/People/The Crimson Sage]] - Aetheron's perspective on convergence
 33. [[Pressure Angel Benthia]] - Divine messenger warning of consequences

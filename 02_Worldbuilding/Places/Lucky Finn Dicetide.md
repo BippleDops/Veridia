@@ -145,7 +145,7 @@ Finn is perpetually optimistic, seeing every setback as simply setting up for a 
 Someone has been using magical items to cheat at Finn's tables, threatening his reputation and livelihood. The cheating is so sophisticated that even Finn's magical protections haven't detected it. He needs discrete investigators to identify the culprit without alerting other patrons to the security breach.
 
 ### The Debt Collector's Dilemma
-A powerful [[Noble House]] owes Finn a substantial gambling debt, but they're threatening violence rather than payment. Finn needs allies who can either collect the debt diplomatically or find leverage to ensure his safety while maintaining his establishment's neutral reputation.
+A powerful [[02_Worldbuilding/Lore/pat]] owes Finn a substantial gambling debt, but they're threatening violence rather than payment. Finn needs allies who can either collect the debt diplomatically or find leverage to ensure his safety while maintaining his establishment's neutral reputation.
 
 ### The Lucky Streak Mystery
 Finn's legendary luck has been failing him in small but noticeable ways. He suspects magical interference but can't determine the source. Strange dreams and omens suggest something significant is about to happen, and his usual divination methods are giving contradictory results.

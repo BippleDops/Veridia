@@ -24,6 +24,10 @@ obsidianUIMode: preview
 created: '2025-08-11T13:08:50.716185+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg)
+
+
 
 
 # Hidden Smuggler's Cove

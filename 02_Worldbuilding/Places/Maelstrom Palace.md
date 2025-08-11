@@ -31,6 +31,10 @@ related_entities:
 - '[[The Maelstrom Court]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-maelstrom-palace-maelstrom-palace.svg)
+
+
 
 
 

@@ -32,6 +32,10 @@ related_entities:
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-goldspire-confederacy-goldspire-confederacy.svg)
+
+
 
 
 

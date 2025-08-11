@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-gallery-of-frozen-waves-gallery-of-frozen-waves.svg)
+
+
 
 
 

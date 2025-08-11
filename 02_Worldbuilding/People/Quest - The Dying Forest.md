@@ -18,6 +18,10 @@ updated: '2025-08-11T13:08:49.658703+00:00'
 cr: '6'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg)
+
+
 
 
 

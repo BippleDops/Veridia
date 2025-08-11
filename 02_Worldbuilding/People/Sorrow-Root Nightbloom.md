@@ -24,6 +24,10 @@ created: '2025-08-11T13:08:49.897864+00:00'
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-sorrow-root-nightbloom-sorrow-root-nightbloom.svg)
+
+
 
 
 

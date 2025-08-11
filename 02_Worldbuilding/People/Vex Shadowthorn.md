@@ -20,6 +20,10 @@ status: draft
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-vex-shadowthorn-s-apprentices.svg)
+
+
 
 
 

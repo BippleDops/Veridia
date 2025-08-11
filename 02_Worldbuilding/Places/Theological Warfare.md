@@ -54,6 +54,10 @@ updated: '2025-08-11T13:08:50.676446+00:00'
 type: Location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-theological-warfare-theological-warfare.svg)
+
+
 
 
 # The Theological Warfare Grounds

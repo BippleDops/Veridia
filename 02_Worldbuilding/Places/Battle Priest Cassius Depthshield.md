@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg)
+
+
 
 
 

@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-harbor-depths-the-harbor-depths.svg)
+
+
 
 
 # The Harbor Depths

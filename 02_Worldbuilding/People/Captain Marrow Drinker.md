@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-marrow-drinker-captain-marrow-drinker.svg)
+
+
 
 
 # Captain Marrow Drinker

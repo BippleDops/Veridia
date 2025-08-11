@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-consortium-security-constructs-consortium-security-constructs.svg)
+
+
 
 # Consortium Security Constructs
 *The Crystal Guard, The Ironprice Legion, Corporate Justice*

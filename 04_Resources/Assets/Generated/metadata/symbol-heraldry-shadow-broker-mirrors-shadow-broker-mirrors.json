@@ -21,10 +21,10 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2014,
+  "seed": 2048,
   "alt_text": "Heraldic emblem for Shadow Broker Mirrors.",
   "realm": "aquabyssos",
-  "palette": "seafoam greens",
+  "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
   "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-broker-mirrors-shadow-broker-mirrors.svg"

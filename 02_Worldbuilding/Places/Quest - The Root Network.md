@@ -25,6 +25,10 @@ primary_location: The Verdant Reach underground network and surrounding regions
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-quest-the-root-network-quest-the-root-network.svg)
+
+
 
 
 # Quest - The Root Network

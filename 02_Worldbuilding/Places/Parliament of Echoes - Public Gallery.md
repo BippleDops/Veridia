@@ -27,6 +27,10 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.svg)
+
+
 
 
 # Parliament of Echoes - Public Gallery

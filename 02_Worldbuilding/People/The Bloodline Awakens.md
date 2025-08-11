@@ -24,6 +24,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:49.917725+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-bloodline-awakens-the-bloodline-awakens.svg)
+
+
 
 # The Bloodline Awakens
 *When Ancient Heritage Stirs to Life*

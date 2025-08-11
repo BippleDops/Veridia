@@ -16,6 +16,10 @@ updated: '2025-08-11T13:08:51.323998+00:00'
 status: draft
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
+
+
 
 
 # Bexley Port Authority

@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg)
+
+
 
 
 # The Silk Trade Guild

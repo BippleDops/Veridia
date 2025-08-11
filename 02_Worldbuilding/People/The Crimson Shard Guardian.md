@@ -21,6 +21,10 @@ updated: '2025-08-11T13:08:49.689617+00:00'
 cr: '18'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg)
+
+
 
 
 

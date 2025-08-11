@@ -18,6 +18,10 @@ updated: '2025-08-11T13:08:49.636926+00:00'
 cr: '8'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
+
+
 
 
 

@@ -22,6 +22,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:51.471450+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-conspiracy-investigation-shadow-conspiracy-investigation.svg)
+
+
 
 # Shadow Conspiracy Investigation
 *The Light Brigade, Truth Seekers, Those Who Remember*

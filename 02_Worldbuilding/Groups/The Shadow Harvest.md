@@ -27,6 +27,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:51.284669+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-stop-the-shadow-harvest-stop-the-shadow-harvest.svg)
+
+
 
 
 # The Shadow Harvest

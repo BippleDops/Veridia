@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-professor-aldric-crystalweaver-professor-aldric-crystalweaver.svg)
+
+
 
 
 

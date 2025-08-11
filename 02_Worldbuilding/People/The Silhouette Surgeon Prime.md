@@ -23,6 +23,10 @@ updated: '2025-08-11T13:08:49.926864+00:00'
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-silhouette-surgeon-prime-the-silhouette-surgeon-prime.svg)
+
+
 
 
 

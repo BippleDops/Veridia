@@ -9,6 +9,10 @@ tags:
 type: Group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-war-coalition-the-shadow-war-coalition.svg)
+
+
 
 
 # The Shadow War Coalition

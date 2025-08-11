@@ -27,6 +27,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-wake-the-wake.svg)
+
+
 
 # The Wake
 *The Eternal Mourning, Keeper of Final Sorrows, Voice of the Drowned Collective*

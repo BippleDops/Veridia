@@ -17,6 +17,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:50.016469+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-abyssos-prime-throne-of-bubbles-abyssos-prime-throne-of-bubbles.svg)
+
+
 
 
 # Abyssos Prime - Throne of Bubbles

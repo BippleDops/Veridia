@@ -21,10 +21,10 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2010,
+  "seed": 2003,
   "alt_text": "Heraldic emblem for Merchants Guild.",
   "realm": "aquabyssos",
-  "palette": "seafoam greens",
+  "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
   "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-merchants-guild-merchants-guild.svg"

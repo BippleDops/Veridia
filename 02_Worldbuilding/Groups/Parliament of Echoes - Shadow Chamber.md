@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-parliament-of-echoes-shadow-chamber-parliament-of-echoes-shadow-chamber.svg)
+
+
 
 # Parliament of Echoes - Shadow Chamber
 *The Dark Legislature, The Hidden Government, The Whisper Assembly*

@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg)
+
+
 
 
 # Sage Lysander Deepthought

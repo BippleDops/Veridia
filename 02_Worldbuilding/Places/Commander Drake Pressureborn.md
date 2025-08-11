@@ -20,6 +20,10 @@ updated: '2025-08-11T13:08:50.319004+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-commander-drake-pressureborn-commander-drake-pressureborn.svg)
+
+
 
 
 # Fort Pressureborn - Aquabyssos Military Command Center

@@ -24,6 +24,10 @@ MyCategory: Group
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg)
+
+
 
 
 # The Depth Wardens

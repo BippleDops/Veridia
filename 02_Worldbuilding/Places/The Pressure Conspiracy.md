@@ -18,6 +18,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-pressure-conspiracy-the-pressure-conspiracy.svg)
+
+
 
 
 

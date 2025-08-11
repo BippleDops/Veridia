@@ -30,6 +30,10 @@ MyCategory: Community Figure
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-mad-bell-ringer-thomas-mad-bell-ringer-thomas.svg)
+
+
 
 # Mad Bell-Ringer Thomas
 *The Prophet of Tolling Truth*

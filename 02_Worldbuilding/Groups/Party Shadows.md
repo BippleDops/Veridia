@@ -39,6 +39,10 @@ benefits:
 updated: '2025-08-11T13:08:51.211308+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-party-shadows-party-shadows.svg)
+
+
 
 
 # Party Shadows

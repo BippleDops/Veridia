@@ -21,6 +21,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:49.613096+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-tribune-cassia-deepcurrent-tribune-cassia-deepcurrent.svg)
+
+
 
 
 # Tribune Cassia Deepcurrent

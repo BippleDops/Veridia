@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
+
+
 
 
 # Envoy Cassius Blackwater Jr.

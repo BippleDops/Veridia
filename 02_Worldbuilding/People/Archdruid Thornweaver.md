@@ -10,6 +10,10 @@ type: NPC
 cr: '6'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-archdruid-thornweaver-archdruid-thornweaver.svg)
+
+
 
 
 

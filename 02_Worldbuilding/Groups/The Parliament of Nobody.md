@@ -24,6 +24,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-parliament-of-nobody-the-parliament-of-nobody.svg)
+
+
 
 
 # The Parliament of Nobody

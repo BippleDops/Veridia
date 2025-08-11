@@ -33,6 +33,10 @@ related_entities:
 - '[[Dimensional Research Institute]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg)
+
+
 
 
 

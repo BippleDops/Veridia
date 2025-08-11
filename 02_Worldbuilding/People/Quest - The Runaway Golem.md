@@ -18,6 +18,10 @@ updated: '2025-08-11T13:08:49.944441+00:00'
 cr: '5'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg)
+
+
 
 
 

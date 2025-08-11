@@ -27,6 +27,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-senator-the-senator.svg)
+
+
 
 
 

@@ -21,10 +21,10 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 2008,
+  "seed": 2011,
   "alt_text": "Heraldic emblem for The Order of the Azure Flame.",
   "realm": "aquabyssos",
-  "palette": "gold accents",
+  "palette": "storm greys",
   "textPolicy": "no words or inscriptions; pure iconography",
   "generator": "placeholder",
   "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-order-of-the-azure-flame-the-order-of-the-azure-flame.svg"

@@ -10,6 +10,10 @@ type: NPC
 cr: '13'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-master-of-currents-zephyr-master-of-currents-zephyr.svg)
+
+
 
 
 

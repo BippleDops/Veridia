@@ -63,6 +63,10 @@ status: draft
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg)
+
+
 
 
 

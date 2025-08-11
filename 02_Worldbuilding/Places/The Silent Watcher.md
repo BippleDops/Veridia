@@ -52,6 +52,10 @@ updated: '2025-08-11T13:08:50.727419+00:00'
 type: Location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-silent-watcher-the-silent-watcher.svg)
+
+
 
 
 

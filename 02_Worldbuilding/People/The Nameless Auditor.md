@@ -21,6 +21,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:49.814075+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-nameless-auditor-the-nameless-auditor.svg)
+
+
 
 
 # The Nameless Auditor

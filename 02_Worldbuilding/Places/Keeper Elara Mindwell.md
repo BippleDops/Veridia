@@ -29,6 +29,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-keeper-elara-mindwell-keeper-elara-mindwell.svg)
+
+
 
 
 

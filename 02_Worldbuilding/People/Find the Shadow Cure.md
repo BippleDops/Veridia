@@ -18,6 +18,10 @@ updated: '2025-08-11T13:08:49.705356+00:00'
 cr: '7'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)
+
+
 
 
 

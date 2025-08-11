@@ -27,6 +27,10 @@ MyCategory: NPC
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-cerulean-breath-the-cerulean-breath.svg)
+
+
 
 
 

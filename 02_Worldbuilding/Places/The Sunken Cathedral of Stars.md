@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-sunken-cathedral-of-stars-the-sunken-cathedral-of-stars.svg)
+
+
 
 
 

@@ -1,0 +1,22 @@
+{
+  "id": "npc-kythara-harvester",
+  "type": "portrait",
+  "name": "Memory Harvester Kythara",
+  "prompt": "Portrait of Kythara, void-touched archivist, 30s, pallid skin with starfleck freckles, black vellum robes etched with thin silver runes, iridescent data-vials at belt, library of chained tomes background, cool violet underlight, surreal realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "30s",
+  "clothing": "black vellum robes",
+  "expression": "haunted focus",
+  "features": "starfleck freckles, silver runes",
+  "background": "chained tome stacks",
+  "style": [
+    "surreal realism",
+    "void mystic"
+  ],
+  "lighting": "cool violet underlight",
+  "mood": "obsessive",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1103,
+  "alt_text": "A pallid archivist with star-like freckles among chained tomes under violet light."
+}

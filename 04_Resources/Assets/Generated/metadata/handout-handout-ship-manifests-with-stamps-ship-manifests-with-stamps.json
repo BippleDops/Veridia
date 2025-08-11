@@ -1,0 +1,22 @@
+{
+  "id": "handout-ship-manifests-with-stamps",
+  "type": "handout",
+  "name": "Ship Manifests with Stamps",
+  "prompt": "In-world document: Ship Manifests with Stamps, creased parchment, water damage, ink bleed, era-appropriate fonts and ligatures, microtext, cipher keys, invisible ink hints, high-res scan aesthetic, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2007,
+  "alt_text": "Ship Manifests with Stamps designed as an in-world paper prop with texture and typography."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "npc-shadow-surgeon-prime",
+  "type": "portrait",
+  "name": "Silhouette Surgeon Prime",
+  "prompt": "Portrait of the Silhouette Surgeon Prime, masked figure with glass scalpel halo, coat stitched from shadows, surgical amphitheater of living ink, harsh top light, clinical gothic style, 1:1, 2048x2048",
+  "race": "Unknown",
+  "age": "unknown",
+  "clothing": "shadow-stitched coat",
+  "expression": "hidden",
+  "features": "glass scalpel halo",
+  "background": "ink amphitheater",
+  "style": [
+    "clinical gothic"
+  ],
+  "lighting": "harsh top",
+  "mood": "menacing",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1118
+}

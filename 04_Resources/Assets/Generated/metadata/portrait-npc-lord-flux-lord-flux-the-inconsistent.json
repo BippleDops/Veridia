@@ -1,0 +1,20 @@
+{
+  "id": "npc-lord-flux",
+  "type": "portrait",
+  "name": "Lord Flux the Inconsistent",
+  "prompt": "Portrait of Lord Flux the Inconsistent, human mage, 40s, face shifting subtly between ages, coat with misaligned seams, pocket watch showing multiple times, warped library background, paradox lighting, reality-bending portrait, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "40s/varies",
+  "clothing": "misaligned coat",
+  "expression": "unsettling composure",
+  "features": "multi-time pocket watch",
+  "background": "warped library",
+  "style": [
+    "paradox realism"
+  ],
+  "lighting": "impossible highlights",
+  "mood": "uncanny",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1128
+}

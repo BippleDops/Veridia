@@ -1,0 +1,22 @@
+{
+  "id": "npc-sister-thalassa",
+  "type": "portrait",
+  "name": "Sister Thalassa the Depth-Touched",
+  "prompt": "Portrait of Sister Thalassa, human priestess, 30s, eyes reflecting abyssal galaxies, kelp-green vestments, shell reliquary, drowned chapel background, bioluminescent candles, ethereal underwater lighting, sacred aquatic realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "30s",
+  "clothing": "kelp vestments",
+  "expression": "rapturous calm",
+  "features": "galaxy eyes",
+  "background": "drowned chapel with candles",
+  "style": [
+    "sacred realism",
+    "aquatic"
+  ],
+  "lighting": "bioluminescent",
+  "mood": "reverent",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1107,
+  "alt_text": "A priestess with starry eyes in a drowned chapel with glowing candles."
+}

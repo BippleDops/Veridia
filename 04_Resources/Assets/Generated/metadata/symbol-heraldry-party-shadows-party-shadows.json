@@ -1,0 +1,23 @@
+{
+  "id": "heraldry-party-shadows",
+  "type": "symbol",
+  "name": "Party Shadows",
+  "prompt": "Heraldic emblem: Party Shadows, simple geometry, strong silhouette, 2-3 motifs tied to faction identity, seal, banner, and coin variants, flat vector style, export as SVG, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2009,
+  "alt_text": "Heraldic emblem for Party Shadows with clear motifs and color coding.",
+  "palette": "deep blues"
+}

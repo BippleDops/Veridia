@@ -1,0 +1,20 @@
+{
+  "id": "npc-the-crimson-sage",
+  "type": "portrait",
+  "name": "The Crimson Sage",
+  "prompt": "Portrait of the Crimson Sage, tiefling scholar, 90s, crimson skin with gold filigree scars, horn rings, layered velvet scholar-robes, floating folios burning at edges, crimson-gold volumetric lighting, arcane realist style, 1:1, 2048x2048",
+  "race": "Tiefling",
+  "age": "90s",
+  "clothing": "velvet scholar robes",
+  "expression": "dangerous curiosity",
+  "features": "gold filigree scars",
+  "background": "floating burning folios",
+  "style": [
+    "arcane realism"
+  ],
+  "lighting": "crimson-gold volumetric",
+  "mood": "intense",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1130
+}

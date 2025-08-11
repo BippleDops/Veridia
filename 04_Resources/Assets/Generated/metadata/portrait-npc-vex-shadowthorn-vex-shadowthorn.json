@@ -1,0 +1,23 @@
+{
+  "id": "npc-vex-shadowthorn",
+  "type": "portrait",
+  "name": "Vex Shadowthorn",
+  "prompt": "Portrait of Vex Shadowthorn, elven shadow broker, 200s, sly half-smile, obsidian cloak lined with starlight threads, fractured mirror shards floating behind, chiaroscuro lighting, ink-and-gold illustration, 1:1, 2048x2048",
+  "race": "Elf",
+  "age": "ancient",
+  "clothing": "obsidian cloak, starlight lining",
+  "expression": "sly, unreadable",
+  "features": "ear cuffs, shadowy tattoos",
+  "background": "levitating mirror shards",
+  "style": [
+    "inked",
+    "gold accent",
+    "noir"
+  ],
+  "lighting": "chiaroscuro",
+  "mood": "enigmatic",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1102,
+  "alt_text": "An elven broker cloaked in obsidian with floating mirror shards in dramatic light."
+}

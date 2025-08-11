@@ -1,0 +1,20 @@
+{
+  "id": "npc-lighthouse-keeper",
+  "type": "portrait",
+  "name": "Lighthouse Keeper of Aethermoor",
+  "prompt": "Portrait of the Lighthouse Keeper, human, 70s, skin leathered by salt, storm lamp cradled, patched oilskin, roaring cliffside lighthouse platform, freezing spray lighting, maritime realist art, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "70s",
+  "clothing": "patched oilskin",
+  "expression": "unyielding duty",
+  "features": "storm lamp",
+  "background": "cliffside platform in storm",
+  "style": [
+    "maritime realism"
+  ],
+  "lighting": "freezing spray",
+  "mood": "defiant",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1129
+}

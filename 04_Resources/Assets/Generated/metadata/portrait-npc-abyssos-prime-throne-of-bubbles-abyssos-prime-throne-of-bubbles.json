@@ -1,0 +1,22 @@
+{
+  "id": "npc-abyssos-prime-throne-of-bubbles",
+  "type": "portrait",
+  "name": "Abyssos Prime - Throne of Bubbles",
+  "prompt": "Portrait of Abyssos Prime - Throne of Bubbles, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire with unique insignia, character-driven emotion, memorable distinguishing features, signature environment hinting at their origin, dramatic, directional lighting that sculpts form, painterly fantasy realism with high detail, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2032,
+  "alt_text": "Portrait of Abyssos Prime - Throne of Bubbles with distinctive attire and evocative background."
+}

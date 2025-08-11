@@ -1,0 +1,20 @@
+{
+  "id": "npc-sorrow-root",
+  "type": "portrait",
+  "name": "Sorrow-Root Nightbloom",
+  "prompt": "Portrait of Sorrow-Root Nightbloom, elf assassin, 180s, thorned vine braids, obsidian petal mantle, crescent scar at jaw, rain-slick alley of shadow market, wet neon lighting, neo-noir fantasy art, 1:1, 2048x2048",
+  "race": "Elf",
+  "age": "180s",
+  "clothing": "obsidian petal mantle",
+  "expression": "cold resolve",
+  "features": "jaw scar",
+  "background": "rain-slick alley",
+  "style": [
+    "neo-noir fantasy"
+  ],
+  "lighting": "wet neon",
+  "mood": "tense",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1124
+}

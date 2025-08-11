@@ -1,0 +1,21 @@
+{
+  "id": "npc-marina-red-tide",
+  "type": "portrait",
+  "name": "Marina Red Tide Coralheart",
+  "prompt": "Portrait of Marina Red Tide Coralheart, mer-folk corsair, 30s, coral-pink armor grown to fit, tide tattoos along neck, confident smirk, flooded cavern dock background, cinematic blue-green lighting, dynamic fantasy art, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "30s",
+  "clothing": "grown coral armor",
+  "expression": "confident smirk",
+  "features": "tide tattoos",
+  "background": "flooded cavern dock",
+  "style": [
+    "dynamic fantasy"
+  ],
+  "lighting": "cinematic blue-green",
+  "mood": "bold",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1109,
+  "alt_text": "A mer-folk corsair in coral armor smirks at a flooded cavern dock."
+}

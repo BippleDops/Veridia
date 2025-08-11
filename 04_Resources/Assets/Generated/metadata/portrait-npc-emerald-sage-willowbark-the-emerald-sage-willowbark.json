@@ -1,0 +1,21 @@
+{
+  "id": "npc-emerald-sage-willowbark",
+  "type": "portrait",
+  "name": "The Emerald Sage Willowbark",
+  "prompt": "Portrait of Willowbark, dryad scholar, ageless, bark-textured skin with moss filigree, leaf-lensed spectacles, vinebound tome, bioluminescent grove background, soft green volumetric light, storybook realism, 1:1, 2048x2048",
+  "race": "Dryad",
+  "age": "ageless",
+  "clothing": "leaf shawl",
+  "expression": "patient wisdom",
+  "features": "moss filigree, spectacles",
+  "background": "bioluminescent grove",
+  "style": [
+    "storybook realism"
+  ],
+  "lighting": "soft green volumetric",
+  "mood": "nurturing",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1110,
+  "alt_text": "A dryad scholar with moss filigree and spectacles in a glowing grove."
+}

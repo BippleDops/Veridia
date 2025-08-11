@@ -1,0 +1,20 @@
+{
+  "id": "npc-abyssal-cathedral",
+  "type": "portrait",
+  "name": "Abyssal Cathedral Abbot",
+  "prompt": "Portrait of the Abbot of the Abyssal Cathedral, human, 70s, gaunt cheeks, abyss-glass rosary, salt-stiff black robes, shattered stained glass background underwater, cold spectral lighting, gothic aquatic realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "70s",
+  "clothing": "black robes",
+  "expression": "ascetic severity",
+  "features": "abyss-glass rosary",
+  "background": "underwater stained glass",
+  "style": [
+    "gothic realism"
+  ],
+  "lighting": "cold spectral",
+  "mood": "austere",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1111
+}

@@ -1,0 +1,20 @@
+{
+  "id": "npc-shadow-singer-naia",
+  "type": "portrait",
+  "name": "The Shadow Singer Naia",
+  "prompt": "Portrait of Naia, siren performer, 20s, opalescent scales at temples, throat glyphs, midnight gown with watery sheen, stage of shadow velvet curtains, spotlight rim light, lyrical fantasy realism, 1:1, 2048x2048",
+  "race": "Siren",
+  "age": "20s",
+  "clothing": "midnight gown",
+  "expression": "melancholy poise",
+  "features": "opalescent temple scales",
+  "background": "velvet stage",
+  "style": [
+    "lyrical realism"
+  ],
+  "lighting": "spotlight rim",
+  "mood": "haunting",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1115
+}

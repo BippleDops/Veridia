@@ -1,0 +1,22 @@
+{
+  "id": "artifact-common-wine-bottle-xphb",
+  "type": "item",
+  "name": "common-wine-bottle-xphb",
+  "prompt": "Detailed artifact: common-wine-bottle-xphb, pearl, coral, cloud-crystal, pressure-forged metals, inlaid runes with gentle glow (no bloom), include hand or ruler for size context, product-style hero render, clean backdrop, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2023,
+  "alt_text": "Artifact common-wine-bottle-xphb displayed with materials, runes, and scale."
+}

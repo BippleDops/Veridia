@@ -1,0 +1,22 @@
+{
+  "id": "npc-sister-thalassa-the-depth-touched",
+  "type": "portrait",
+  "name": "Sister Thalassa the Depth-Touched",
+  "prompt": "Portrait of Sister Thalassa the Depth-Touched, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire with unique insignia, character-driven emotion, memorable distinguishing features, signature environment hinting at their origin, dramatic, directional lighting that sculpts form, painterly fantasy realism with high detail, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2008,
+  "alt_text": "Portrait of Sister Thalassa the Depth-Touched with distinctive attire and evocative background."
+}

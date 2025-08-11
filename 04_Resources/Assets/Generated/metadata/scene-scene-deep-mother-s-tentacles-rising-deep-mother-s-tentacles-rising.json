@@ -1,0 +1,22 @@
+{
+  "id": "scene-deep-mother-s-tentacles-rising",
+  "type": "scene",
+  "name": "Deep Mother's tentacles rising",
+  "prompt": "Atmospheric scene: Deep Mother's tentacles rising, clear narrative focal point with readable staging, atmospheric VFX supporting the scene, cinematic light shaping and color contrast, high-fidelity illustration with painterly touches, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2003,
+  "alt_text": "Atmospheric illustration of: Deep Mother's tentacles rising."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "npc-the-siren",
+  "type": "portrait",
+  "name": "The Siren",
+  "prompt": "Portrait of The Siren, mer-folk diva, 30s, pearl microphone, sequined wave gown, bioluminescent backup choir silhouettes, spotlit stage, cinematic teal-magenta lighting, glamorous aquatic fantasy, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "30s",
+  "clothing": "sequined wave gown",
+  "expression": "sultry confidence",
+  "features": "pearl microphone",
+  "background": "spotlit stage",
+  "style": [
+    "glam fantasy"
+  ],
+  "lighting": "teal-magenta",
+  "mood": "showtime",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1127
+}

@@ -1,0 +1,20 @@
+{
+  "id": "npc-the-senator",
+  "type": "portrait",
+  "name": "The Senator of Abyssos Prime",
+  "prompt": "Portrait of The Senator, mer-folk powerbroker, 140s, sharkskin lapels, pressure-sealed cane, subtle scar over lip, parliament chamber background, cool overhead lighting, political portrait style, 1:1, 2048x2048",
+  "race": "Mer-folk",
+  "age": "elder",
+  "clothing": "sharkskin lapels",
+  "expression": "measured confidence",
+  "features": "lip scar, pressure cane",
+  "background": "parliament chamber",
+  "style": [
+    "political portrait"
+  ],
+  "lighting": "cool overhead",
+  "mood": "calculating",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1112
+}

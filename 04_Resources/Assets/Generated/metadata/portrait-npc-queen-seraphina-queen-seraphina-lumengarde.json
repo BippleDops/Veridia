@@ -1,0 +1,20 @@
+{
+  "id": "npc-queen-seraphina",
+  "type": "portrait",
+  "name": "Queen Seraphina Lumengarde",
+  "prompt": "Portrait of Queen Seraphina Lumengarde, human monarch, 30s, luminous crown of sea-crystal, white-gold mantle, gaze like sunrise on water, palace of prisms background, high-key radiant lighting, luminous fantasy realism, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "30s",
+  "clothing": "white-gold mantle",
+  "expression": "serene authority",
+  "features": "sea-crystal crown",
+  "background": "prismatic palace",
+  "style": [
+    "luminous realism"
+  ],
+  "lighting": "high-key radiant",
+  "mood": "beatific",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1119
+}

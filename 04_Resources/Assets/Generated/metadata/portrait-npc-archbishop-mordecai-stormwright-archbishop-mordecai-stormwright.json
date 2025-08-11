@@ -1,0 +1,27 @@
+{
+  "id": "npc-archbishop-mordecai-stormwright",
+  "type": "portrait",
+  "name": "Archbishop Mordecai Stormwright",
+  "prompt": "Portrait of Archbishop Mordecai Stormwright, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire with unique insignia, character-driven emotion, memorable distinguishing features, signature environment hinting at their origin, dramatic, directional lighting that sculpts form, painterly fantasy realism with high detail, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2005,
+  "alt_text": "Portrait of Archbishop Mordecai Stormwright with distinctive attire and evocative background.",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "revised_prompt": "Create an image of an Archbishop, a well-known adult in the fantasy lands of Aquabyssos and Aethermoor. He is a Human with Realm-specific attire that bears unique insignia. Let the subject's emotion be defined by his character that includes memorable distinguishing features. The background should suggest his origins. Use dramatic, directional lighting to accentuate his form. The style should be a mixture of painterly fantasy and realism with a high level of detail. Please follow the specified aspect and resolution. Consistently apply the styling tags and include elements that help prevent artifact generation.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-archbishop-mordecai-stormwright-archbishop-mordecai-stormwright.png"
+}

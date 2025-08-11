@@ -1,0 +1,23 @@
+{
+  "id": "heraldry-purist-coalition-thugs",
+  "type": "symbol",
+  "name": "Purist Coalition Thugs",
+  "prompt": "Heraldic emblem: Purist Coalition Thugs, simple geometry, strong silhouette, 2-3 motifs tied to faction identity, seal, banner, and coin variants, flat vector style, export as SVG, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2001,
+  "alt_text": "Heraldic emblem for Purist Coalition Thugs with clear motifs and color coding.",
+  "palette": "deep blues"
+}

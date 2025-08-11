@@ -1,0 +1,22 @@
+{
+  "id": "ship-kelp-weave-patrol-boat",
+  "type": "vehicle",
+  "name": "Kelp-Weave Patrol Boat",
+  "prompt": "Blueprint cutaway: Kelp-Weave Patrol Boat, top, side, cross-section, and deck plans, annotate ballast, pressure hulls, engines, and crew spaces, clean blueprint style with legend and scale, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "16:9",
+  "resolution": "3840x2160",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2012,
+  "alt_text": "Blueprint cutaway of Kelp-Weave Patrol Boat with sections and annotations."
+}

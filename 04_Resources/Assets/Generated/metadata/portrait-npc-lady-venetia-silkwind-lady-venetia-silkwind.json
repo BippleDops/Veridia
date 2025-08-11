@@ -1,0 +1,22 @@
+{
+  "id": "npc-lady-venetia-silkwind",
+  "type": "portrait",
+  "name": "Lady Venetia Silkwind",
+  "prompt": "Portrait of Lady Venetia Silkwind, human merchant prince, 40s, jeweled veil, silk-lamellar bodice, ring-laden fingers, ledger-scrolls swirling, market bokeh, soft studio lighting, fashion editorial fantasy, 1:1, 2048x2048",
+  "race": "Human",
+  "age": "40s",
+  "clothing": "silk lamellar, jeweled veil",
+  "expression": "calculating charm",
+  "features": "ring-laden fingers",
+  "background": "market with scroll bokeh",
+  "style": [
+    "editorial",
+    "fantasy couture"
+  ],
+  "lighting": "soft studio",
+  "mood": "opulent",
+  "aspect": "1:1",
+  "resolution": "2048x2048",
+  "seed": 1106,
+  "alt_text": "A jeweled merchant lady with scrolls swirling in a market scene."
+}

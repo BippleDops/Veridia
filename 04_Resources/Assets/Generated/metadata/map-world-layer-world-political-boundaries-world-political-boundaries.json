@@ -1,0 +1,32 @@
+{
+  "id": "world-layer-world-political-boundaries",
+  "type": "map",
+  "name": "World Political Boundaries",
+  "prompt": "Top-down tactical map: World Political Boundaries, no tactical grid; focus on labeled overlays, base relief with bathymetry/sky currents, overlay symbology with legend, layered export with toggles per theme, Use aspect and resolution as specified, maintain consistent styling tags, include negative prompts to avoid artifacts.",
+  "aspect": "16:9",
+  "resolution": "3840x2160",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "low detail",
+    "blurry",
+    "artifacts",
+    "extra fingers"
+  ],
+  "seed": 2001,
+  "alt_text": "World Political Boundaries overlay for world map with clear legend.",
+  "layers": [
+    "base",
+    "political",
+    "routes",
+    "depth",
+    "faction",
+    "magic",
+    "hidden"
+  ],
+  "scale": "1:25,000,000"
+}

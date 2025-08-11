@@ -170,3 +170,23 @@ Your players might be interested in pursuing downtime activities that aren't cov
 - Activities that reveal new adventure hooks and previously unknown facts about your campaign can help you foreshadow future events and conflicts.  
 - For an activity you expect a character to repeat with variable degrees of success, consider creating a random outcome table, modeled on the ones in this chapter.  
 - If a character belongs to a class or has a proficiency or background that would make him or her well suited to a particular activity, consider granting a bonus to ability checks made by the character to complete that activity successfully.
+
+## Player-Facing Summary
+
+07 between adventures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 07 between adventures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 between adventures.
+
+## Adventure Hooks
+
+- A rumor ties 07 between adventures to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 07 between adventures to avert a public scandal.
+- A map overlay reveals a hidden approach to 07 between adventures active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

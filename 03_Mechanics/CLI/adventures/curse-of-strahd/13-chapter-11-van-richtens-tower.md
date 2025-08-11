@@ -215,3 +215,23 @@ Ezmerelda's altercation with Strahd has left her with only 30 hit points. She gr
 From this moment on, Strahd gains a new goal: kill [Ezmerelda d'Avenir](/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md). Knowing that his Vistani spies might be conflicted at the thought of slaying one of their own, Strahd relies on the druids and the werewolves of the Svalich Woods, as well as human spies and vampire spawn hidden in Barovia's settlements, to help him find and kill Ezmerelda. If Strahd learns that she and the characters are working together, he invites the characters to Ravenloft, expecting that Ezmerelda will accompany them. The characters receive their invitation in the form of a letter delivered by one of Strahd's spies. If the characters open and read the letter, show the players the "Strahd's Invitation" handout in appendix F. If the characters head toward the castle, they have no threatening random encounters on the way.
 
 ![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/109-cos11-05.webp#center)
+
+## Player-Facing Summary
+
+13 chapter 11 van richtens tower is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 13 chapter 11 van richtens tower as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 chapter 11 van richtens tower.
+
+## Adventure Hooks
+
+- A rumor ties 13 chapter 11 van richtens tower to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 13 chapter 11 van richtens tower to avert a public scandal.
+- A map overlay reveals a hidden approach to 13 chapter 11 van richtens tower active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

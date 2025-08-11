@@ -433,3 +433,13 @@ The Parliament of Echoes - Shadow Chamber operates as [[02_Worldbuilding/Places/
 ---
 
 *"Democracy is not about who votes, but about who counts the votes and writes the laws. We ensure the right people do both."* - Shadow Speaker Voidvoice
+
+## Player-Facing Summary
+
+Parliament of Echoes   Shadow Chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Parliament of Echoes   Shadow Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament of Echoes   Shadow Chamber.
+
+<!-- enriched: true -->

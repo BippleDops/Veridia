@@ -334,3 +334,19 @@ The Singers are 15th-level spellcasters. Their spellcasting ability is Charisma 
 
 > [!danger] DM Secret
 > The Singers Beyond are not the first civilization to achieve transcendence - they're just the most recent. There are layers of post-physical beings throughout reality, each representing different approaches to existence beyond matter. The Singers are actually "middle management" in a cosmic hierarchy, and making contact with them will eventually draw attention from much more powerful entities.
+
+## Player-Facing Summary
+
+Discover the Singers Beyond is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Discover the Singers Beyond as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Discover the Singers Beyond.
+
+## Adventure Hooks
+
+- A rumor ties Discover the Singers Beyond to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Discover the Singers Beyond to avert a public scandal.
+- A map overlay reveals a hidden approach to Discover the Singers Beyond active only during specific tides/storms.
+
+<!-- enriched: true -->

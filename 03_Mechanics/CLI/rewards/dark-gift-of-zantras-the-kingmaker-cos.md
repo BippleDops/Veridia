@@ -18,3 +18,23 @@ Zantras's gift is power that comes from great presence and force of personality.
 The beneficiary of this dark gift gains the following flaw: "I won't take no for an answer."
 
 *Source: Curse of Strahd p. 192*
+
+## Player-Facing Summary
+
+Dark gift of zantras the kingmaker cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dark gift of zantras the kingmaker cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dark gift of zantras the kingmaker cos.
+
+## Adventure Hooks
+
+- A rumor ties dark gift of zantras the kingmaker cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dark gift of zantras the kingmaker cos to avert a public scandal.
+- A map overlay reveals a hidden approach to dark gift of zantras the kingmaker cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

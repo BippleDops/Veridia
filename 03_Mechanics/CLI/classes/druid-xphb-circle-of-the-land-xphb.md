@@ -129,3 +129,23 @@ You are immune to the [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) condi
 As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition or die. You and your allies have [Half Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) while in that area, and your allies gain the current [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) of your [Nature](/03_Mechanics/CLI/skills.md#Nature)'s Ward while there.
 
 As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can move the [Cube](/03_Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) up to 60 feet to ground within 120 feet of yourself.
+
+## Player-Facing Summary
+
+Druid xphb circle of the land xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of druid xphb circle of the land xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around druid xphb circle of the land xphb.
+
+## Adventure Hooks
+
+- A rumor ties druid xphb circle of the land xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at druid xphb circle of the land xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to druid xphb circle of the land xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

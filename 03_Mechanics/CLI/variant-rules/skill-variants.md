@@ -47,3 +47,23 @@ If a character has the Expertise feature, the player can apply its benefit to pe
 This system relies heavily on players developing their characters' personalities. Make sure that different characters' traits—positive and negative—come into play with about the same frequency. Don't let a player get away with a positive trait that always seems to apply and a negative trait that never does.
 
 At your discretion, you can also tie a character's ideals, bonds, and flaws to this system.
+
+## Player-Facing Summary
+
+Skill variants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of skill variants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skill variants.
+
+## Adventure Hooks
+
+- A rumor ties skill variants to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at skill variants to avert a public scandal.
+- A map overlay reveals a hidden approach to skill variants active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

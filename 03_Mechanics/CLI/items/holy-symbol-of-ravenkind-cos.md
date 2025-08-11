@@ -37,3 +37,23 @@ If you have the Turn Undead or the Turn the Unholy feature, you can expend 3 cha
 As an action, you can expend 5 charges while presenting the holy symbol to make it shed bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight and lasts for 10 minutes or until you end the effect (no action required).
 
 *Source: Curse of Strahd p. 222*
+
+## Player-Facing Summary
+
+Holy symbol of ravenkind cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of holy symbol of ravenkind cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy symbol of ravenkind cos.
+
+## Adventure Hooks
+
+- A rumor ties holy symbol of ravenkind cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at holy symbol of ravenkind cos to avert a public scandal.
+- A map overlay reveals a hidden approach to holy symbol of ravenkind cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

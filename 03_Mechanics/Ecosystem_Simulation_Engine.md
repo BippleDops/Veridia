@@ -33,3 +33,23 @@ Simulates food chains, migrations, predator-prey, weather, symbiosis, and extinc
 - Evolution grants new traits; extinction creates voids filled by horrors
 
 Integration: Affects trade goods, travel safety, and faction stability. Hooks into [[Journey_Event_Compiler]].
+
+## Player-Facing Summary
+
+Ecosystem Simulation Engine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ecosystem Simulation Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ecosystem Simulation Engine.
+
+## Adventure Hooks
+
+- A rumor ties Ecosystem Simulation Engine to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ecosystem Simulation Engine to avert a public scandal.
+- A map overlay reveals a hidden approach to Ecosystem Simulation Engine active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

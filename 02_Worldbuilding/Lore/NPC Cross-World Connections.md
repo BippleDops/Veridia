@@ -39,3 +39,23 @@ NPC Cross-World Connections describes a turning current in history where choices
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
+
+## Player-Facing Summary
+
+NPC Cross World Connections is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of NPC Cross World Connections as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Cross World Connections.
+
+## Adventure Hooks
+
+- A rumor ties NPC Cross World Connections to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at NPC Cross World Connections to avert a public scandal.
+- A map overlay reveals a hidden approach to NPC Cross World Connections active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

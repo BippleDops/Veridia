@@ -178,3 +178,23 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - [[Captain Garrett Stormcutter]]
 - [[The Bathyal Palace]]
 - [[Smuggler's Gambit]]
+
+## Player-Facing Summary
+
+Shadow Broker Mist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Broker Mist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Broker Mist.
+
+## Adventure Hooks
+
+- A rumor ties Shadow Broker Mist to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Shadow Broker Mist to avert a public scandal.
+- A map overlay reveals a hidden approach to Shadow Broker Mist active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Shadow Broker Mist]]
+
+<!-- enriched: true -->

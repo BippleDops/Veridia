@@ -36,3 +36,23 @@ modified: 2025-07-23 12:39
 | [Poseidon](/03_Mechanics/CLI/deities/greek-poseidon.md), god of the sea and earthquakes | CN | Tempest | Trident |
 | [Tyche](/03_Mechanics/CLI/deities/greek-tyche.md), goddess of good fortune | N | Trickery | Red pentagram |
 ^greek-deities
+
+## Player-Facing Summary
+
+The greek pantheon greek deities phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of the greek pantheon greek deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the greek pantheon greek deities phb.
+
+## Adventure Hooks
+
+- A rumor ties the greek pantheon greek deities phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at the greek pantheon greek deities phb to avert a public scandal.
+- A map overlay reveals a hidden approach to the greek pantheon greek deities phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -27,3 +27,23 @@ A creature who tries and fails to cast a spell from a [spell scroll](/03_Mechani
 | 5 | The caster suffers a minor but bizarre effect related to the spell. Such effects last only as long as the original spell's duration, or `d10` minutes for spells that take effect instantaneously. For example, a [fireball](/03_Mechanics/CLI/spells/fireball-xphb.md) might cause smoke to billow from the caster's ears for `d10` minutes.  |
 | 6 | The spell activates after `d12` hours. If the caster was the intended target, the spell takes effect normally. If the caster was not the intended target, the spell goes off in the general direction of the intended target, up to the spell's maximum range, if the target has moved away. |
 ^scroll-mishap
+
+## Player-Facing Summary
+
+Scroll mishaps is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scroll mishaps as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scroll mishaps.
+
+## Adventure Hooks
+
+- A rumor ties scroll mishaps to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scroll mishaps to avert a public scandal.
+- A map overlay reveals a hidden approach to scroll mishaps active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

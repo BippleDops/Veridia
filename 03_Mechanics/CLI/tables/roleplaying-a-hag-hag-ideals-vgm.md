@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | Power. I will become an auntie or a grandmother, even if I have to kill my own mother to do it. (Evil) |
 | 6 | Ugliness. I want to be envied for my appearance and my cruel heart. (Evil) |
 ^hag-ideals
+
+## Player-Facing Summary
+
+Roleplaying a hag hag ideals vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of roleplaying a hag hag ideals vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a hag hag ideals vgm.
+
+## Adventure Hooks
+
+- A rumor ties roleplaying a hag hag ideals vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at roleplaying a hag hag ideals vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to roleplaying a hag hag ideals vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

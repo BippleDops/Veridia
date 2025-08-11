@@ -34,3 +34,23 @@ You gain the following benefits.
 | [Weaver's Tools](/03_Mechanics/CLI/items/weavers-tools-xphb.md) | [Basket](/03_Mechanics/CLI/items/basket-xphb.md), [Rope](/03_Mechanics/CLI/items/rope-xphb.md), [Net](/03_Mechanics/CLI/items/net-xphb.md), [Tent](/03_Mechanics/CLI/items/tent-xphb.md) |
 | [Woodcarver's Tools](/03_Mechanics/CLI/items/woodcarvers-tools-xphb.md) | [Club](/03_Mechanics/CLI/items/club-xphb.md), [Greatclub](/03_Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](/03_Mechanics/CLI/items/quarterstaff-xphb.md) |
 ^fast-crafting
+
+## Player-Facing Summary
+
+Crafter xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of crafter xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crafter xphb.
+
+## Adventure Hooks
+
+- A rumor ties crafter xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at crafter xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to crafter xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

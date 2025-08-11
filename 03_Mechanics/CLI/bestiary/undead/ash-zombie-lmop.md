@@ -73,3 +73,23 @@ The first time the zombie takes damage, any living creature within 5 feet of the
 "image": "/03_Mechanics/CLI/bestiary/undead/token/ash-zombie-lmop.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Ash zombie lmop is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ash zombie lmop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ash zombie lmop.
+
+## Adventure Hooks
+
+- A rumor ties ash zombie lmop to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ash zombie lmop to avert a public scandal.
+- A map overlay reveals a hidden approach to ash zombie lmop active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

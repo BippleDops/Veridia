@@ -40,3 +40,23 @@ You can use this transportation ability only once on each of your turns. You mus
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Druid (Circle of the Land)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of the Ancients)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Tree stride xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of tree stride xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tree stride xphb.
+
+## Adventure Hooks
+
+- A rumor ties tree stride xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at tree stride xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to tree stride xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

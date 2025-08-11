@@ -170,3 +170,17 @@ Spy Games emphasizes roleplay, investigation, and moral choices over combat. Kee
 ## Connections
 
 - [[The Wandering Atoll]]
+
+## Player-Facing Summary
+
+Spy Games is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Spy Games as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spy Games.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Spy Games]]
+
+<!-- enriched: true -->

@@ -351,3 +351,23 @@ Information gathering and intelligence operations related to threats against the
 - [[The Possessed Queen]]
 - [[Envoy Blackwater Jr.]]
 - [[Treaty of the Depths]]
+
+## Player-Facing Summary
+
+United Councils of Both Worlds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of United Councils of Both Worlds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around United Councils of Both Worlds.
+
+## Adventure Hooks
+
+- A rumor ties United Councils of Both Worlds to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at United Councils of Both Worlds to avert a public scandal.
+- A map overlay reveals a hidden approach to United Councils of Both Worlds active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

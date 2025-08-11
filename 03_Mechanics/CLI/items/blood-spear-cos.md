@@ -33,3 +33,23 @@ When you hit with a melee attack using this magic spear and reduce the target to
 Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
 
 *Source: Curse of Strahd p. 221*
+
+## Player-Facing Summary
+
+Blood spear cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of blood spear cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blood spear cos.
+
+## Adventure Hooks
+
+- A rumor ties blood spear cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at blood spear cos to avert a public scandal.
+- A map overlay reveals a hidden approach to blood spear cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -119,3 +119,27 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Archon Meredith Saltweaver is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Archon Meredith Saltweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archon Meredith Saltweaver.
+
+## Adventure Hooks
+
+- A rumor ties Archon Meredith Saltweaver to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Archon Meredith Saltweaver to avert a public scandal.
+- A map overlay reveals a hidden approach to Archon Meredith Saltweaver active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Archon Meredith Saltweaver]]
+
+<!-- enriched: true -->

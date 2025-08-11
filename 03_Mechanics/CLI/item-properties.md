@@ -186,3 +186,23 @@ In some settings, laws prohibit the possession and use of poison, but an illicit
 ### Harvesting Poison
 
 A character can attempt to harvest poison from a venomous creature that is dead or has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. The effort takes `d6` minutes, after which the character makes a DC 20 Intelligence ([Nature](/03_Mechanics/CLI/skills.md#Nature)) check using a [Poisoner's Kit](/03_Mechanics/CLI/items/poisoners-kit-xphb.md). On a successful check, the character harvests enough poison for a single dose, and no additional poison can be harvested from that creature. On a failed check, the character is unable to extract any poison. If the character fails the check by 5 or more, the character is subjected to the creature's poison.
+
+## Player-Facing Summary
+
+Item properties is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of item properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around item properties.
+
+## Adventure Hooks
+
+- A rumor ties item properties to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at item properties to avert a public scandal.
+- A map overlay reveals a hidden approach to item properties active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -154,3 +154,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+The Whisper Island Mystery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Whisper Island Mystery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Whisper Island Mystery.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Whisper Island Mystery]]
+
+<!-- enriched: true -->

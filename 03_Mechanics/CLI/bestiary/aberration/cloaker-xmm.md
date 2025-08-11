@@ -97,3 +97,23 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Cloaker xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cloaker xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cloaker xmm.
+
+## Adventure Hooks
+
+- A rumor ties cloaker xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cloaker xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to cloaker xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

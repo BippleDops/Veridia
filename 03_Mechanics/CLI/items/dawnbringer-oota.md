@@ -46,3 +46,23 @@ Forged by ancient sun worshippers, Dawnbringer is meant to bring light into dark
 Long years lost in darkness have made Dawnbringer frightened of both the dark and abandonment. It prefers that its blade always be present and shedding light in areas of darkness, and it strongly resists being parted from its wielder for any length of time.
 
 *Source: Out of the Abyss p. 222*
+
+## Player-Facing Summary
+
+Dawnbringer oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dawnbringer oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dawnbringer oota.
+
+## Adventure Hooks
+
+- A rumor ties dawnbringer oota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dawnbringer oota to avert a public scandal.
+- A map overlay reveals a hidden approach to dawnbringer oota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

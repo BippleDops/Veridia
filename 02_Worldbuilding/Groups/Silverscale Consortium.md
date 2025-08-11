@@ -423,3 +423,13 @@ The Silverscale Consortium is the most powerful economic entity in [[02_Worldbui
 - [[Merchant Prince Akula]]
 - [[Merchant Viktor Geargrind]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Silverscale Consortium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Silverscale Consortium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Consortium.
+
+<!-- enriched: true -->

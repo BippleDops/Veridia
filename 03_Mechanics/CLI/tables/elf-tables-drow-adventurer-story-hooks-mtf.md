@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | All your life, you were alienated and terrified by the cruelty of your kin. The first chance you got, you volunteered to go on a surface raid, then deserted the group and remained behind. Now you're hated and feared wherever you go, but at least you've found a small group of adventurous friends who trust and support each other. |
 | 8 | You were part of a delegation carrying diplomatic messages to another drow city when duergar attacked the caravan for slaves and treasure. Only you and one other guard escaped. If you'd returned home, you'd have been poisoned or worse for failure. Becoming a mercenary was your best option. |
 ^drow-adventurer-story-hooks
+
+## Player-Facing Summary
+
+Elf tables drow adventurer story hooks mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elf tables drow adventurer story hooks mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf tables drow adventurer story hooks mtf.
+
+## Adventure Hooks
+
+- A rumor ties elf tables drow adventurer story hooks mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elf tables drow adventurer story hooks mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elf tables drow adventurer story hooks mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

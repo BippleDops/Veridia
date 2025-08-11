@@ -37,3 +37,23 @@ The staff can be wielded as a magic quarterstaff. On a hit, it deals damage as a
 While you are attuned to the staff, blights and other evil plant creatures don't regard you as hostile unless you harm them.
 
 *Source: Curse of Strahd p. 221*
+
+## Player-Facing Summary
+
+Gulthias staff cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gulthias staff cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gulthias staff cos.
+
+## Adventure Hooks
+
+- A rumor ties gulthias staff cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gulthias staff cos to avert a public scandal.
+- A map overlay reveals a hidden approach to gulthias staff cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

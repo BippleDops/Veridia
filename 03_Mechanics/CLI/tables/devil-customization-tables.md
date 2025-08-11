@@ -95,3 +95,23 @@ modified: 2025-07-23 12:39
 | 5 | I'm so reliant on the laws of the Nine Hells that I panic without their guidance. |
 | 6 | I am secretly jealous of the freedom that mortals enjoy. |
 ^devil-flaws
+
+## Player-Facing Summary
+
+Devil customization tables is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of devil customization tables as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devil customization tables.
+
+## Adventure Hooks
+
+- A rumor ties devil customization tables to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at devil customization tables to avert a public scandal.
+- A map overlay reveals a hidden approach to devil customization tables active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

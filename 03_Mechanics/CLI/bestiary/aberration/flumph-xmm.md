@@ -131,3 +131,23 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Flumph xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of flumph xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flumph xmm.
+
+## Adventure Hooks
+
+- A rumor ties flumph xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at flumph xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to flumph xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

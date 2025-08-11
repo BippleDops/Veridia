@@ -325,3 +325,23 @@ Award standard XP for defeated foes. This chapter includes many challenges other
 - For each dragon egg destroyed or taken: 250 XP.  
 
 With the dragon hatchery destroyed and the cultists all gone, characters should head for Elturel and their rendezvous with [Leosin Erlanthar](/03_Mechanics/CLI/bestiary/npc/leosin-erlanthar-hotdq.md) and [Ontharr Frume](/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq.md). They might choose to follow the wagon tracks instead. The wagons followed the course roughly laid out on the map in Mondath's chamber: west to Beregost, then north along the Trade Way. They have at least a full day's head start on the characters, and possibly more, depending on how much time characters spent in Greenest before returning to the plateau.
+
+## Player-Facing Summary
+
+04 chapter 3 dragon hatchery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 04 chapter 3 dragon hatchery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 3 dragon hatchery.
+
+## Adventure Hooks
+
+- A rumor ties 04 chapter 3 dragon hatchery to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 04 chapter 3 dragon hatchery to avert a public scandal.
+- A map overlay reveals a hidden approach to 04 chapter 3 dragon hatchery active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

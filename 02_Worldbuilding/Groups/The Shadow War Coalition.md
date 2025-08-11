@@ -511,3 +511,23 @@ Extensive network of hidden tunnels, safe houses, and supply caches throughout [
 - **Government Victory** - Campaign ending with traditional authority restored
 - **The Negotiated Peace** - Diplomatic resolution and power-sharing agreement
 EOF < /dev/null
+
+## Player-Facing Summary
+
+The Shadow War Coalition is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shadow War Coalition as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow War Coalition.
+
+## Adventure Hooks
+
+- A rumor ties The Shadow War Coalition to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Shadow War Coalition to avert a public scandal.
+- A map overlay reveals a hidden approach to The Shadow War Coalition active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

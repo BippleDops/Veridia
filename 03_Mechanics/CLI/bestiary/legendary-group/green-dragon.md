@@ -51,3 +51,23 @@ Either or both of these effects might appear in the area around a green dragon's
 
 - **Inviting Whispers.** Whispers rustle in the foliage within 1 mile of the dragon's lair. The words are indistinct, but a creature with an Intelligence score of 5 or higher interprets them as an invitation to move deeper into the greenery.  
 - **Twisted Messengers.** The dragon can cause any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily warp into a twisted version of the dragon's own in order to allow the dragon's voice to issue forth.
+
+## Player-Facing Summary
+
+Green dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of green dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green dragon.
+
+## Adventure Hooks
+
+- A rumor ties green dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at green dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to green dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

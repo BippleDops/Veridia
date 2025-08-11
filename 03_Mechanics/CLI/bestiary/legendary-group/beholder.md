@@ -36,3 +36,23 @@ A region containing a beholder's lair is warped by the creature's unnatural pres
 - When the beholder sleeps, minor warps in reality occur within 1 mile of its lair and then vanish 24 hours later. Marks on cave walls might change subtly, an eerie trinket might appear where none existed before, harmless slime might coat a statue, and so on. These effects apply only to natural surfaces and to nonmagical objects that aren't on anyone's person.  
 
 If the beholder dies, these effects fade over the course of `d10` days.
+
+## Player-Facing Summary
+
+Beholder is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of beholder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beholder.
+
+## Adventure Hooks
+
+- A rumor ties beholder to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at beholder to avert a public scandal.
+- A map overlay reveals a hidden approach to beholder active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

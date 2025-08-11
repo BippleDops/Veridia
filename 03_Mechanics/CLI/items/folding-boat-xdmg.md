@@ -29,3 +29,23 @@ When the box becomes a vessel, its weight becomes that of a normal vessel its si
 Statistics for the [Rowboat](/03_Mechanics/CLI/items/rowboat-xphb.md) and [Keelboat](/03_Mechanics/CLI/items/keelboat-xphb.md) appear in the "Player's Handbook". If either vessel is reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), the Folding Boat is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Folding boat xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of folding boat xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around folding boat xdmg.
+
+## Adventure Hooks
+
+- A rumor ties folding boat xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at folding boat xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to folding boat xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

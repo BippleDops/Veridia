@@ -173,3 +173,23 @@ Use with core systems and vehicle rules. This pack complements [[06_GM_Resources
 - Reality Control: Extra anchors stabilize lanes; Complication severity -1 if allied; +1 if opposed.
 - Humanitarian Relief: Refugee/rescue events +1 frequency; higher standing gains, lower gp.
 - Pirate Confederacy: Boarding/mines prolific; legal friction escalates consequences.
+
+## Player-Facing Summary
+
+Depth Events Pack B is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Depth Events Pack B as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Events Pack B.
+
+## Adventure Hooks
+
+- A rumor ties Depth Events Pack B to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Depth Events Pack B to avert a public scandal.
+- A map overlay reveals a hidden approach to Depth Events Pack B active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

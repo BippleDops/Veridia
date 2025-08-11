@@ -25,3 +25,23 @@ The pipes have 3 charges and regain `d3` expended charges daily at dawn. If you 
 Whenever a Swarm of Rats that isn't under another creature's control comes within 30 feet of you while you are playing the pipes, the swarm makes a DC 15 Wisdom saving throw. On a successful save, the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours. On a failed save, the swarm is swayed by the pipes' music and becomes [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you and your allies for as long as you continue to play the pipes each round as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action. A [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) swarm obeys your commands. If you issue no commands to a [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) swarm, it defends itself but otherwise takes no actions. If a [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) swarm starts its turn more than 30 feet away from you, your control over that swarm ends, and the swarm behaves as it normally would and can't be swayed by the pipes' music for the next 24 hours.
 
 *Source: Dungeon Master's Guide (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Pipes of the sewers xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of pipes of the sewers xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pipes of the sewers xdmg.
+
+## Adventure Hooks
+
+- A rumor ties pipes of the sewers xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at pipes of the sewers xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to pipes of the sewers xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

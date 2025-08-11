@@ -32,3 +32,23 @@ The creature exists for a duration specific to each figurine. At the end of the 
 This silver statuette of a raven can become a [Raven](/03_Mechanics/CLI/bestiary/beast/raven-xmm.md) for up to 12 hours. Once it has been used, it can't be used again until 2 days have passed. While in raven form, the figurine grants you the ability to cast [Animal Messenger](/03_Mechanics/CLI/spells/animal-messenger-xphb.md) on it.
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Figurine of wondrous power silver raven xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of figurine of wondrous power silver raven xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around figurine of wondrous power silver raven xdmg.
+
+## Adventure Hooks
+
+- A rumor ties figurine of wondrous power silver raven xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at figurine of wondrous power silver raven xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to figurine of wondrous power silver raven xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

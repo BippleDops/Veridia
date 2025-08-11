@@ -32,3 +32,23 @@ Most young orcs that an explorer or an adventurer might encounters are followers
 ## The Sacred Bull
 
 Orcs of Bahgtru sometimes enter battle astride [aurochs](/03_Mechanics/CLI/bestiary/beast/aurochs-mpmm.md), large creatures that resemble oxen or cattle but are much more ferocious. By doing so they honor the creatures as well as their deity, because legends tell that Bahgtru also rode a great bull into battle. No orc will eat or harm one of these sacred beasts, which are believed to be imbued with Bahgtru's spirit.
+
+## Player-Facing Summary
+
+Orc bahgtru vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of orc bahgtru vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc bahgtru vgm.
+
+## Adventure Hooks
+
+- A rumor ties orc bahgtru vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at orc bahgtru vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to orc bahgtru vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

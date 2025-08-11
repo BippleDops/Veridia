@@ -97,3 +97,23 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Col
 Instead of manifesting the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) of Wrath of the Sea around yourself, you can manifest it around one willing creature within 60 feet of yourself. That creature gains all the benefits of the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) and uses your spell save DC and Wisdom modifier for it.
 
 In addition, you can manifest the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) around both the other creature and yourself if you expend two uses of your Wild Shape instead of one when manifesting it.
+
+## Player-Facing Summary
+
+Druid xphb circle of the sea xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of druid xphb circle of the sea xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around druid xphb circle of the sea xphb.
+
+## Adventure Hooks
+
+- A rumor ties druid xphb circle of the sea xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at druid xphb circle of the sea xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to druid xphb circle of the sea xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

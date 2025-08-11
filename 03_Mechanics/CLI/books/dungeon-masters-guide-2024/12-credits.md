@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 > [!gallery]
 > ![On the Cover: Tyler Jacobs...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/250-14-002-on-the-cover.webp#gallery "On the Cover: Tyler Jacobson illustrates the archvillain Venger, his evil cohorts Skylla and Warduke, and a legion of skeletal minions.")
 > ![On the Alt-Cover: Lolth, t...](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/251-14-003-on-the-alt-cover.webp#gallery "On the Alt-Cover: Lolth, the Demon Queen of Spiders, spins a tangled web of schemes and snares in this illustration by Olena Richards.")
+
+## Player-Facing Summary
+
+12 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 12 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 credits.
+
+## Adventure Hooks
+
+- A rumor ties 12 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 12 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 12 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

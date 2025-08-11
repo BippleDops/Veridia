@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 11 | Repulsive. The bearer feels a sense of distaste when in contact with the item, and continues to sense discomfort while bearing it. |
 | 12 | Slothful. The bearer of this item feels slothful and lethargic. While attuned to the item, the bearer requires 10 hours to finish a long rest. |
 ^what-quirk-does-it-have
+
+## Player-Facing Summary
+
+Special features what quirk does it have is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of special features what quirk does it have as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special features what quirk does it have.
+
+## Adventure Hooks
+
+- A rumor ties special features what quirk does it have to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at special features what quirk does it have to avert a public scandal.
+- A map overlay reveals a hidden approach to special features what quirk does it have active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

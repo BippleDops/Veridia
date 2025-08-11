@@ -47,3 +47,23 @@ You have disadvantage on attack rolls and on Wisdom ([Perception](/03_Mechanics/
 ### Languages
 
 You can speak, read, and write Common and Draconic.
+
+## Player-Facing Summary
+
+Kobold vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of kobold vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kobold vgm.
+
+## Adventure Hooks
+
+- A rumor ties kobold vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at kobold vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to kobold vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

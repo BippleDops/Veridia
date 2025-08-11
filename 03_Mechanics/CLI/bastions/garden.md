@@ -45,3 +45,23 @@ When you issue the "Harvest" order to this facility, you commission the facility
 You can enlarge your Garden to a Vast facility by spending 2,000 GP. A Vast Garden is equivalent to two Roomy Gardens and can include two of the same type of Garden or two different types. When you issue the Harvest order to a Vast Garden, each component garden produces its own harvest. A Vast Garden gains one additional hireling.
 
 *Source: Dungeon Master's Guide (2024) p. 340*
+
+## Player-Facing Summary
+
+Garden is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of garden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around garden.
+
+## Adventure Hooks
+
+- A rumor ties garden to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at garden to avert a public scandal.
+- A map overlay reveals a hidden approach to garden active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

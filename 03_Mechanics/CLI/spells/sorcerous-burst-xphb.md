@@ -33,3 +33,23 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 **Classes**: [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Sorcerous burst xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerous burst xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerous burst xphb.
+
+## Adventure Hooks
+
+- A rumor ties sorcerous burst xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerous burst xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerous burst xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

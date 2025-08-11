@@ -39,3 +39,23 @@ Your Archive contains one copy of a rare and valuable reference book, which give
 You can enlarge your Archive to a Vast facility by spending 2,000 GP. If you do so, you gain two additional reference books chosen from the list above.
 
 *Source: Dungeon Master's Guide (2024) p. 337*
+
+## Player-Facing Summary
+
+Archive is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of archive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around archive.
+
+## Adventure Hooks
+
+- A rumor ties archive to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at archive to avert a public scandal.
+- A map overlay reveals a hidden approach to archive active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

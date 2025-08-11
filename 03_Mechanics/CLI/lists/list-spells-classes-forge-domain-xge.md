@@ -35,3 +35,23 @@ modified: 2025-07-23 12:39
 
 - [Animate Objects](/03_Mechanics/CLI/spells/animate-objects-xphb.md "XPHB") at class level 9
 - [Creation](/03_Mechanics/CLI/spells/creation-xphb.md "XPHB") at class level 9
+
+## Player-Facing Summary
+
+List spells classes forge domain xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of list spells classes forge domain xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes forge domain xge.
+
+## Adventure Hooks
+
+- A rumor ties list spells classes forge domain xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at list spells classes forge domain xge to avert a public scandal.
+- A map overlay reveals a hidden approach to list spells classes forge domain xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

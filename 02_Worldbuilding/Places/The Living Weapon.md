@@ -540,3 +540,27 @@ Similar artifacts may exist in other realms or dimensions, suggesting The Living
 ## Connections
 
 - [[Lumengarde]]
+
+## Player-Facing Summary
+
+The Living Weapon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Living Weapon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Living Weapon.
+
+## Adventure Hooks
+
+- A rumor ties The Living Weapon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Living Weapon to avert a public scandal.
+- A map overlay reveals a hidden approach to The Living Weapon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Living Weapon]]
+
+<!-- enriched: true -->

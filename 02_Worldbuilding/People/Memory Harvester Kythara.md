@@ -753,3 +753,17 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - [[Quest - The Memory Bridge]]
 - [[Quest - The Shard-Shadow Resonance]]
 - [[The Crown's Burden]]
+
+## Player-Facing Summary
+
+Memory Harvester Kythara is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Harvester Kythara as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Harvester Kythara.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Memory Harvester Kythara]]
+
+<!-- enriched: true -->

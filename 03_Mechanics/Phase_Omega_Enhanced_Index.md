@@ -37,3 +37,23 @@ Master index for VAULT PERFECTION PROTOCOL. All subsystems integrate with: [[Com
 
 ## Comprehensive Vehicle Systems
 - [[03_Mechanics/Vehicles/Vehicles_Index|Vehicle Systems Index]]
+
+## Player-Facing Summary
+
+Phase Omega Enhanced Index is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Phase Omega Enhanced Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Phase Omega Enhanced Index.
+
+## Adventure Hooks
+
+- A rumor ties Phase Omega Enhanced Index to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Phase Omega Enhanced Index to avert a public scandal.
+- A map overlay reveals a hidden approach to Phase Omega Enhanced Index active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -31,3 +31,23 @@ The character makes three checks: Strength ([Athletics](/03_Mechanics/CLI/skills
 Characters involved in pit fighting must deal with their opponents, the people who bet on matches, and the matches' promoters. Every workweek spent pit fighting brings a 10 percent chance of a complication, examples of which are on the Pit Fighting Complications table.
 
 ![Pit Fighting Complications](/03_Mechanics/CLI/tables/pit-fighting-complications-xge.md)
+
+## Player-Facing Summary
+
+Downtime activity pit fighting xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity pit fighting xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity pit fighting xge.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity pit fighting xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity pit fighting xge to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity pit fighting xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

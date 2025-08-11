@@ -570,3 +570,21 @@ Evidence hints at the existence of a rival or subsidiary organization operating 
 - [[Aetheron]]
 - [[The Final Choice]]
 - [[Crystalhaven]]
+
+## Player-Facing Summary
+
+The Crystal Wardens is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crystal Wardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Wardens.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Crystal Wardens]]
+
+<!-- enriched: true -->

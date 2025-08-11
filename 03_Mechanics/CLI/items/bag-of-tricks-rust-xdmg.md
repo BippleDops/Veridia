@@ -40,3 +40,23 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 ^1-creature
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Bag of tricks rust xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bag of tricks rust xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bag of tricks rust xdmg.
+
+## Adventure Hooks
+
+- A rumor ties bag of tricks rust xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bag of tricks rust xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to bag of tricks rust xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

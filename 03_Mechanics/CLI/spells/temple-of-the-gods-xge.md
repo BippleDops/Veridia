@@ -46,3 +46,23 @@ Casting this spell on the same spot every day for a year makes this effect perma
 **Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Xanathar's Guide to Everything p. 167*
+
+## Player-Facing Summary
+
+Temple of the gods xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of temple of the gods xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around temple of the gods xge.
+
+## Adventure Hooks
+
+- A rumor ties temple of the gods xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at temple of the gods xge to avert a public scandal.
+- A map overlay reveals a hidden approach to temple of the gods xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

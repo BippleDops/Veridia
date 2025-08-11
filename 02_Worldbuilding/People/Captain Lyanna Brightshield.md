@@ -214,3 +214,23 @@ Captain Lyanna Brightshield is the youngest captain in [[Crystal Wardens]] histo
 - [[Jasper Three-Eyes Flint]]
 - [[Knight]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Captain Lyanna Brightshield is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Captain Lyanna Brightshield as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Lyanna Brightshield.
+
+## Adventure Hooks
+
+- A rumor ties Captain Lyanna Brightshield to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Captain Lyanna Brightshield to avert a public scandal.
+- A map overlay reveals a hidden approach to Captain Lyanna Brightshield active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Captain Lyanna Brightshield]]
+
+<!-- enriched: true -->

@@ -117,3 +117,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Reflection Pools is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Reflection Pools]]
+
+<!-- enriched: true -->

@@ -26,3 +26,23 @@ modified: 2025-07-23 12:39
 | 6 | A creature native to the area notices you. (The DM chooses a creature appropriate for the terrain.) Make a DC 10 Wisdom or Charisma saving throw (your choice). On a failed save, the creature joins the chase, with you as its quarry. |
 | 7–12 | There is no complication. |
 ^wilderness-chase-complications
+
+## Player-Facing Summary
+
+Wilderness chase complications xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wilderness chase complications xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wilderness chase complications xdmg.
+
+## Adventure Hooks
+
+- A rumor ties wilderness chase complications xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wilderness chase complications xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to wilderness chase complications xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

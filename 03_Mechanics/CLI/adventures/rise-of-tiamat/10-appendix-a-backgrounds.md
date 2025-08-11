@@ -51,3 +51,23 @@ You have infiltrated the ranks of the Cult of the Dragon. Having spied on the or
 ### Optional Feature: Dragon Scholar
 
 You have studied dragons and their lore for many years. You can automatically identify locations built or used by dragons and can identify dragon eggs and scales by sight. If you fail an Intelligence check to recall lore relating to dragons, you know someone or some book you can consult for the answer unless the DM rules that the lore is unknown.
+
+## Player-Facing Summary
+
+10 appendix a backgrounds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 10 appendix a backgrounds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix a backgrounds.
+
+## Adventure Hooks
+
+- A rumor ties 10 appendix a backgrounds to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 10 appendix a backgrounds to avert a public scandal.
+- A map overlay reveals a hidden approach to 10 appendix a backgrounds active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -294,3 +294,27 @@ Despite the party's efforts, the investigation triggers a catastrophic outbreak 
 **Outcomes**: Major changes to Pearl Harbor City's population and society, ongoing campaign consequences as the party deals with the aftermath of the medical crisis, potential for expanded threat to other Aquabyssos communities.
 
 This quest provides opportunities for investigative role-playing, moral decision-making about medical ethics, and exploration of the body horror themes inherent in underwater pressure adaptation. The resolution chosen by the party will have lasting effects on medical practice and public health policy throughout the Aquabyssos campaign setting, while establishing precedents for handling scientific research that pushes the boundaries of human capability.
+
+## Player-Facing Summary
+
+Dr. Siphon Gillwater is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Dr. Siphon Gillwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Siphon Gillwater.
+
+## Adventure Hooks
+
+- A rumor ties Dr. Siphon Gillwater to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Dr. Siphon Gillwater to avert a public scandal.
+- A map overlay reveals a hidden approach to Dr. Siphon Gillwater active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Dr. Siphon Gillwater]]
+
+<!-- enriched: true -->

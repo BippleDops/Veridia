@@ -388,3 +388,13 @@ Remember: Some knowledge is forgotten for good reason.
 - [[02_Worldbuilding/Lore/Censorship Magic]]
 
 *"In the Forgotten Archive, every burning makes books eternal, every erasure makes memories permanent, and every forgetting makes truth undeniable."*
+
+## Player-Facing Summary
+
+The Forgotten Archive is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Forgotten Archive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten Archive.
+
+<!-- enriched: true -->

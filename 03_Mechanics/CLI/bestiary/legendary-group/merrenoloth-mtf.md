@@ -35,3 +35,23 @@ A merrenoloth imbues its vessel with powerful magic that creates one or more of 
 - Creatures the merrenoloth chooses to take on the ship aren't discomfited by wind or weather, though this effect doesn't protect against damage.  
 
 If the merrenoloth dies, these effects fade over the course of `d6` hours.
+
+## Player-Facing Summary
+
+Merrenoloth mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of merrenoloth mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around merrenoloth mtf.
+
+## Adventure Hooks
+
+- A rumor ties merrenoloth mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at merrenoloth mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to merrenoloth mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

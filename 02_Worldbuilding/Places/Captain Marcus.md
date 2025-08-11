@@ -145,3 +145,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Captain Marcus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Captain Marcus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Marcus.
+
+## Adventure Hooks
+
+- A rumor ties Captain Marcus to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Captain Marcus to avert a public scandal.
+- A map overlay reveals a hidden approach to Captain Marcus active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Captain Marcus]]
+
+<!-- enriched: true -->

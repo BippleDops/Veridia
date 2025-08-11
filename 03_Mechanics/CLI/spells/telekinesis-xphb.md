@@ -52,3 +52,23 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 **Classes**: [Fighter (Psi Warrior)](/03_Mechanics/CLI/lists/list-spells-classes-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](/03_Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Telekinesis xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of telekinesis xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around telekinesis xphb.
+
+## Adventure Hooks
+
+- A rumor ties telekinesis xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at telekinesis xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to telekinesis xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

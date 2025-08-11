@@ -33,3 +33,23 @@ In addition, unusual coins made of other precious metals sometimes appear in tre
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 *Source: Player's Handbook p. 143*
+
+## Player-Facing Summary
+
+Electrum ep is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of electrum ep as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around electrum ep.
+
+## Adventure Hooks
+
+- A rumor ties electrum ep to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at electrum ep to avert a public scandal.
+- A map overlay reveals a hidden approach to electrum ep active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

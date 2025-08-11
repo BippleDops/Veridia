@@ -98,3 +98,23 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 ## Environment
 
 coastal, forest, swamp, underdark
+
+## Player-Facing Summary
+
+Spirit troll mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of spirit troll mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spirit troll mpmm.
+
+## Adventure Hooks
+
+- A rumor ties spirit troll mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at spirit troll mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to spirit troll mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

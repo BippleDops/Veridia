@@ -155,3 +155,18 @@ The Tidecaller serves as powerful ally for maritime adventures, quest giver for 
 ## Connections
 
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+The Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidecaller.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Tidecaller]]
+- [[02_Worldbuilding/Places/The Tidecaller]]
+
+<!-- enriched: true -->

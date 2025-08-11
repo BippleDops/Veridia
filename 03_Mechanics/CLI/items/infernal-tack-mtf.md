@@ -29,3 +29,23 @@ You can use an action to call a nightmare equipped with infernal tack by clashin
 The tack doesn't conjure a nightmare; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become true partners in evil.
 
 *Source: Mordenkainen's Tome of Foes p. 167*
+
+## Player-Facing Summary
+
+Infernal tack mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of infernal tack mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around infernal tack mtf.
+
+## Adventure Hooks
+
+- A rumor ties infernal tack mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at infernal tack mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to infernal tack mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

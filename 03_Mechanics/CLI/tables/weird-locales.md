@@ -35,3 +35,23 @@ modified: 2025-07-23 12:39
 | 19 | Canyon containing a dragons' graveyard |
 | 20 | Floating earth mote with a tower on it |
 ^weird-locales
+
+## Player-Facing Summary
+
+Weird locales is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of weird locales as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around weird locales.
+
+## Adventure Hooks
+
+- A rumor ties weird locales to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at weird locales to avert a public scandal.
+- A map overlay reveals a hidden approach to weird locales active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

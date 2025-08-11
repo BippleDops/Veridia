@@ -35,3 +35,23 @@ The territory within 5 miles of an elder brain is altered by the creature's psio
 - Any creature with which the elder brain has formed a psychic link hears faint, incomprehensible whispers in the deepest recesses of its mind. This psychic detritus consists of the elder brain's stray thoughts commingled with those of other creatures to which it is linked.  
 
 If the elder brain dies, these effects immediately end.
+
+## Player-Facing Summary
+
+Elder brain vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elder brain vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elder brain vgm.
+
+## Adventure Hooks
+
+- A rumor ties elder brain vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elder brain vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to elder brain vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

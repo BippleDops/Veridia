@@ -431,3 +431,27 @@ Secret level where illegal goods are processed and distributed:
 - [[Abyssos Prime - Pressure Terminal]]
 - [[Amnesia Gallery]]
 - [[Maelstrom Palace]]
+
+## Player-Facing Summary
+
+The Phosphor Markets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Phosphor Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Phosphor Markets.
+
+## Adventure Hooks
+
+- A rumor ties The Phosphor Markets to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Phosphor Markets to avert a public scandal.
+- A map overlay reveals a hidden approach to The Phosphor Markets active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Phosphor Markets]]
+
+<!-- enriched: true -->

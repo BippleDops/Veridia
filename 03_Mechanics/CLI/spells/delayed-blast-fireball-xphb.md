@@ -42,3 +42,23 @@ When the bead explodes, flammable objects in the explosion that aren't being wor
 **Classes**: [Wizard (Evoker)](/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Delayed blast fireball xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of delayed blast fireball xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around delayed blast fireball xphb.
+
+## Adventure Hooks
+
+- A rumor ties delayed blast fireball xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at delayed blast fireball xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to delayed blast fireball xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

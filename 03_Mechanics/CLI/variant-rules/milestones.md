@@ -23,3 +23,23 @@ When awarding XP, treat a major milestone as a hard encounter and a minor milest
 - The adventurers gain the benefit of a short rest.  
 - Characters can recover a Hit Die or a low-level spell slot.  
 - Characters can regain the use of magic items that have had their limited uses expended.
+
+## Player-Facing Summary
+
+Milestones is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of milestones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around milestones.
+
+## Adventure Hooks
+
+- A rumor ties milestones to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at milestones to avert a public scandal.
+- A map overlay reveals a hidden approach to milestones active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -29,3 +29,23 @@ You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to throw the b
 An enclosed creature can take a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action to push against the sphere's wall, moving the sphere up to half the creature's [Speed](/03_Mechanics/CLI/variant-rules/speed-xphb.md). The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Bead of force xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bead of force xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bead of force xdmg.
+
+## Adventure Hooks
+
+- A rumor ties bead of force xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bead of force xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to bead of force xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

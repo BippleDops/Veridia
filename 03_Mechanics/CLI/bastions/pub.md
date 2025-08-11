@@ -45,3 +45,23 @@ At the start of a Bastion turn, you can switch to one of the other options. Your
 You can enlarge your Pub to a Vast facility by spending 2,000 GP. If you do so, the Pub can have two magical beverages from the Pub Special list on tap at a time. A Vast Pub gains three additional hirelings, for a total of four. These new hirelings are servers. Assign names and personalities to them as you see fit.
 
 *Source: Dungeon Master's Guide (2024) p. 344*
+
+## Player-Facing Summary
+
+Pub is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of pub as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pub.
+
+## Adventure Hooks
+
+- A rumor ties pub to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at pub to avert a public scandal.
+- A map overlay reveals a hidden approach to pub active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

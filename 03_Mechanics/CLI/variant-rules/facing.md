@@ -23,3 +23,23 @@ Feel free to determine that not all creatures have every type of arc. For exampl
 On hexes, determining the front, rear, and side arcs requires more judgment. Pick one side of the creature's space and create a wedge shape expanding out from there for the front arc, and another on the opposite side of the creature for the rear arc. The remaining spaces to either side of the creature are its side arcs.
 
 A square or hex might be in more than one arc, depending on how you draw the lines from a creature's space. If more than half of a square or hex lies in one arc, it is in that arc. If it is split exactly down the middle, use this rule: if half of it lies in the front arc, it's in that arc. If half of it is in a side arc and the rear arc, it's in the side arc.
+
+## Player-Facing Summary
+
+Facing is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of facing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around facing.
+
+## Adventure Hooks
+
+- A rumor ties facing to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at facing to avert a public scandal.
+- A map overlay reveals a hidden approach to facing active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

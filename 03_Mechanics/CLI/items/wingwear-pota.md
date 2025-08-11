@@ -27,3 +27,23 @@ This snug uniform has symbols of air stitched into it and leathery flaps that st
 The suit regains all of its expended charges after spending at least 1 hour in an elemental air node.
 
 *Source: Princes of the Apocalypse p. 223*
+
+## Player-Facing Summary
+
+Wingwear pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wingwear pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wingwear pota.
+
+## Adventure Hooks
+
+- A rumor ties wingwear pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wingwear pota to avert a public scandal.
+- A map overlay reveals a hidden approach to wingwear pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

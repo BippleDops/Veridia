@@ -31,3 +31,23 @@ Vengeance is the aspect of Kiaransalee that appeals to most drow, because it bec
 Some of her most fervent followers seek out the secret of attaining undeath for themselves. Kiaransalee favors them by bringing them back as undead, but unlike other gods of similar sort, Kiaransalee doesn't offer the undeath of lichdom but a lowly existence as a banshee, a revenant, or a wight.
 
 Drow believe that Kiaransalee was driven mad by returning from death as a god so many times, but her followers aren't discouraged by this assessment. Despite her madness, her actions are guided by a deep and devious cunning-a trait that drow attach more importance to than they do to sanity.
+
+## Player-Facing Summary
+
+Drow kiaransalee mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of drow kiaransalee mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow kiaransalee mtf.
+
+## Adventure Hooks
+
+- A rumor ties drow kiaransalee mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at drow kiaransalee mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to drow kiaransalee mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

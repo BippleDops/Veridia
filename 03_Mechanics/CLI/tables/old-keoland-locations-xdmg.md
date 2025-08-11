@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 | Valley of the Mage, the | The Mage of the Valley (identity unknown) | Secluded refuge of an ancient archmage; current inhabitants unknown |
 | Yeomanry, the | Freeholder Vyndi Skyspear (goliath) | Independent republic governed by an elected freeholder |
 ^old-keoland-locations
+
+## Player-Facing Summary
+
+Old keoland locations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of old keoland locations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around old keoland locations xdmg.
+
+## Adventure Hooks
+
+- A rumor ties old keoland locations xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at old keoland locations xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to old keoland locations xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

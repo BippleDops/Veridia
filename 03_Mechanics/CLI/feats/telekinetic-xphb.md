@@ -22,3 +22,23 @@ You gain the following benefits.
 **Minor Telekinesis.** You learn the [Mage Hand](/03_Mechanics/CLI/spells/mage-hand-xphb.md) spell. You can cast it without Verbal or Somatic components, you can make the spectral hand [Invisible](/03_Mechanics/CLI/conditions.md#Invisible), and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
 
 **Telekinetic Shove.** As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.
+
+## Player-Facing Summary
+
+Telekinetic xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of telekinetic xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around telekinetic xphb.
+
+## Adventure Hooks
+
+- A rumor ties telekinetic xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at telekinetic xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to telekinetic xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

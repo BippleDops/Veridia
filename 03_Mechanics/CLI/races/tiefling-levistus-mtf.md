@@ -73,3 +73,23 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 > 
 > People tend to be suspicious of tieflings, assuming that their infernal heritage has left its mark on their personality and morality, not just their appearance. Shopkeepers keep a close eye on their goods when tieflings enter their stores, the town watch might follow a tiefling around for a while, and demagogues blame tieflings for strange happenings. The reality, though, is that a tiefling's bloodline doesn't affect his or her personality to any great degree. Years of dealing with mistrust does leave its mark on most tieflings, and they respond to it in different ways. Some choose to live up to the wicked stereotype, but others are virtuous. Most are simply very aware of how people respond to them. After dealing with this mistrust throughout youth, a tiefling often develops the ability to overcome prejudice through charm or intimidation.
 ^mutual-mistrust
+
+## Player-Facing Summary
+
+Tiefling levistus mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of tiefling levistus mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tiefling levistus mtf.
+
+## Adventure Hooks
+
+- A rumor ties tiefling levistus mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at tiefling levistus mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to tiefling levistus mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -397,3 +397,23 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 - [[Abyssos Prime]]
 - [[The First Failure]]
 - [[Aquabyssos - Session 01 - The Drowning Welcome]]
+
+## Player-Facing Summary
+
+Marina Red Tide Coralheart   Aquabyssos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marina Red Tide Coralheart   Aquabyssos.
+
+## Adventure Hooks
+
+- A rumor ties Marina Red Tide Coralheart   Aquabyssos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Marina Red Tide Coralheart   Aquabyssos to avert a public scandal.
+- A map overlay reveals a hidden approach to Marina Red Tide Coralheart   Aquabyssos active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]
+
+<!-- enriched: true -->

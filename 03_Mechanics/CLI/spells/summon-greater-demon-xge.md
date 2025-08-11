@@ -44,3 +44,23 @@ As part of casting the spell, you can form a circle on the ground with the blood
 **Classes**: [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 166*
+
+## Player-Facing Summary
+
+Summon greater demon xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of summon greater demon xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summon greater demon xge.
+
+## Adventure Hooks
+
+- A rumor ties summon greater demon xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at summon greater demon xge to avert a public scandal.
+- A map overlay reveals a hidden approach to summon greater demon xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

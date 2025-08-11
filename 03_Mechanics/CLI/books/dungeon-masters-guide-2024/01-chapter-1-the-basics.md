@@ -642,3 +642,23 @@ Setting expectations is just as important in a digital environment as in person.
 Some groups confine out-of-character jokes, comments, and memes to a text channel, keeping the voice channel focused on the game. But some groups find it distracting to have a separate conversation unfolding in text while the game is going on. Choose an option that works best for your group.
 
 Who moves tokens on a virtual tabletop? Are players expected to use the built-in dice roller, or is it OK to roll physical dice and report the result? The particular technology (https://foundryvtt.com) you're using might dictate answers to these questions or raise other questions you'll need to sort out as you play.
+
+## Player-Facing Summary
+
+01 chapter 1 the basics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 chapter 1 the basics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 chapter 1 the basics.
+
+## Adventure Hooks
+
+- A rumor ties 01 chapter 1 the basics to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 chapter 1 the basics to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 chapter 1 the basics active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

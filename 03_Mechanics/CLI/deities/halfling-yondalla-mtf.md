@@ -26,3 +26,23 @@ The story of Yondalla begins at the dawn of the world, when halflings were timid
 Yondalla created the first halfling villages and showed the people how to build, plant, and harvest. She knew that the bounty of a halfling village would be tempting plunder for any brigand or monster, so she used her powers to conceal their homes from easy discovery, blending them into the landscape so that most travelers would pass by without a second glance.
 
 To the halflings, Yondalla is responsible for the spring in their step and the bubbly excitement they feel from knowing that luck is on their side. When a pumpkin grows to enormous size or a garden yields twice as many carrots as usual, credit goes to Yondalla. When a halfling trips, slides down a hillside, and lands on a nugget of gold, that's Yondalla turning bad luck into good.
+
+## Player-Facing Summary
+
+Halfling yondalla mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of halfling yondalla mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling yondalla mtf.
+
+## Adventure Hooks
+
+- A rumor ties halfling yondalla mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at halfling yondalla mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to halfling yondalla mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -57,3 +57,23 @@ aliases:
 "image": "/03_Mechanics/CLI/bestiary/plant/token/chuul-spore-servant-oota.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Chuul spore servant oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of chuul spore servant oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chuul spore servant oota.
+
+## Adventure Hooks
+
+- A rumor ties chuul spore servant oota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at chuul spore servant oota to avert a public scandal.
+- A map overlay reveals a hidden approach to chuul spore servant oota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -107,3 +107,23 @@ If you have both the Spellcasting class feature and the Pact Magic class feature
 | 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 ^multiclass-spellcaster-spell-slots-per-spell-level
+
+## Player-Facing Summary
+
+Multiclassing phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of multiclassing phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around multiclassing phb.
+
+## Adventure Hooks
+
+- A rumor ties multiclassing phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at multiclassing phb to avert a public scandal.
+- A map overlay reveals a hidden approach to multiclassing phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

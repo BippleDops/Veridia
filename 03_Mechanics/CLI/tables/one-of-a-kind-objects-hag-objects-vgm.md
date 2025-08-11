@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 | 9 | A thick, dusty tome, every page filled with tiny, barely legible writing. Careful study of the book reveals it to be a written transcript of every conversation that took place over the course of a year, three years ago, in a nearby village. |
 | 10 | A small painting that depicts a placid field. Just after midnight each day, the painting changes to depict the following day's weather. |
 ^hag-objects
+
+## Player-Facing Summary
+
+One of a kind objects hag objects vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of one of a kind objects hag objects vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around one of a kind objects hag objects vgm.
+
+## Adventure Hooks
+
+- A rumor ties one of a kind objects hag objects vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at one of a kind objects hag objects vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to one of a kind objects hag objects vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

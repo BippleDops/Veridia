@@ -45,3 +45,23 @@ If you hit a creature with this weapon, you can force the creature to make a Con
 ## Vex
 
 If you hit a creature with this weapon and deal damage to the creature, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on your next attack roll against that creature before the end of your next turn.
+
+## Player-Facing Summary
+
+Weapon mastery properties xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of weapon mastery properties xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around weapon mastery properties xphb.
+
+## Adventure Hooks
+
+- A rumor ties weapon mastery properties xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at weapon mastery properties xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to weapon mastery properties xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

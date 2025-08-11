@@ -257,3 +257,19 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ## DM Notes
 This quest explores the corruption of previously noble institutions and the moral complexity of the "greater good" argument. It provides opportunities for investigation, combat, and difficult moral choices with no perfect solutions. The Shard Dust epidemic can become an ongoing campaign element, and the revelations about government corruption can trigger larger political upheavals. The quest connects multiple NPCs and factions while introducing personal stakes through the victims and addicts encountered.
+
+## Player-Facing Summary
+
+Quest   The Crystal Black Market is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Crystal Black Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Crystal Black Market.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Crystal Black Market to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Crystal Black Market to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Crystal Black Market active only during specific tides/storms.
+
+<!-- enriched: true -->

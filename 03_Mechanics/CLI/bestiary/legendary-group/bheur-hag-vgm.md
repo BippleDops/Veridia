@@ -47,3 +47,23 @@ A powerful bheur hag creates one or more of the following additional regional ef
 - Human-sized blocks of ice appear, containing frozen corpses. These corpses might break free and attack as zombies, or their spirits might attack as specters.  
 - Blizzards come without warning. A blizzard occurs once every `2d12` hours and lasts `d3` hours. During a storm, creatures moving overland travel at half normal speed, and normal visibility is reduced to 30 feet.  
 - Roads, paths, and trails twist and turn back on themselves, making navigation in the area exceedingly difficult.
+
+## Player-Facing Summary
+
+Bheur hag vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bheur hag vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bheur hag vgm.
+
+## Adventure Hooks
+
+- A rumor ties bheur hag vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bheur hag vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to bheur hag vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

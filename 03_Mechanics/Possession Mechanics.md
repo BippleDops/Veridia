@@ -38,3 +38,23 @@ Practical, table-ready rules for Possession Mechanics across Aquabyssos and Aeth
 ## Cross-References
 - [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|Ultimate GM Screen]]
+
+## Player-Facing Summary
+
+Possession Mechanics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Possession Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Possession Mechanics.
+
+## Adventure Hooks
+
+- A rumor ties Possession Mechanics to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Possession Mechanics to avert a public scandal.
+- A map overlay reveals a hidden approach to Possession Mechanics active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

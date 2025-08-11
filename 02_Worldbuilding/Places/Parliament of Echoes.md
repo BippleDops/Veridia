@@ -393,3 +393,27 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 - [[The Oracle of the Sundered Peaks]]
 - [[Campaign_Quick_Reference_Sheets]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Parliament of Echoes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Parliament of Echoes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament of Echoes.
+
+## Adventure Hooks
+
+- A rumor ties Parliament of Echoes to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Parliament of Echoes to avert a public scandal.
+- A map overlay reveals a hidden approach to Parliament of Echoes active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Parliament of Echoes]]
+
+<!-- enriched: true -->

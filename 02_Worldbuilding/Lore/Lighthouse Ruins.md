@@ -292,3 +292,23 @@ Resource allocation decisions about supporting research at the ruins versus othe
 - [[02_Worldbuilding/Lore/Coastal Survivor Marin Saltwind]] - Last keeper's apprentice and witness to the disaster
 - [[02_Worldbuilding/Lore/Hidden Sanctuary]] - Resistance organization that studies the ruins for intelligence
 - [[02_Worldbuilding/Lore/Maritime Trade Routes]] - The navigation systems the lighthouse once served
+
+## Player-Facing Summary
+
+Lighthouse Ruins is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Lighthouse Ruins as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Ruins.
+
+## Adventure Hooks
+
+- A rumor ties Lighthouse Ruins to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Lighthouse Ruins to avert a public scandal.
+- A map overlay reveals a hidden approach to Lighthouse Ruins active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

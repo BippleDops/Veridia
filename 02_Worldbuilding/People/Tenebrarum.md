@@ -397,3 +397,17 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 - [[Diplomatic Tides]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
 - [[Aquabyssos - Session 05 - Descent into Darkness]]
+
+## Player-Facing Summary
+
+Tenebrarum is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Tenebrarum as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tenebrarum.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Tenebrarum]]
+
+<!-- enriched: true -->

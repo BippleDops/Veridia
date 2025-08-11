@@ -105,3 +105,23 @@ You can use any [Spell Scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md), us
 ### Thief's Reflexes (Level 17)
 
 You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) and your second turn at your [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) minus 10.
+
+## Player-Facing Summary
+
+Rogue xphb thief xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb thief xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb thief xphb.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb thief xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb thief xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb thief xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

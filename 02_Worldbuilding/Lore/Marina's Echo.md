@@ -104,3 +104,23 @@ Investigation reveals that Marina's condition isn't natural convergence effect -
 ## Connections
 
 - [[The Dream Shepherds]]
+
+## Player-Facing Summary
+
+Marina's Echo is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Marina's Echo as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marina's Echo.
+
+## Adventure Hooks
+
+- A rumor ties Marina's Echo to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Marina's Echo to avert a public scandal.
+- A map overlay reveals a hidden approach to Marina's Echo active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

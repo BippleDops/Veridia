@@ -109,3 +109,23 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
 ## Environment
 
 coastal, planar, water, underwater
+
+## Player-Facing Summary
+
+Marid xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of marid xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around marid xmm.
+
+## Adventure Hooks
+
+- A rumor ties marid xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at marid xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to marid xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

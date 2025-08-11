@@ -393,3 +393,17 @@ The Stop the Shadow Harvest movement has fundamentally changed how Aquabyssos so
 - Advancing trauma treatment methods for harvest survivors
 
 The Stop the Shadow Harvest represents the organized voice of those who refuse to accept memory manipulation as inevitable evolution of Aquabyssos society. Their resistance operations provide extensive opportunities for campaigns exploring themes of consciousness, identity, civil rights, and the price of fighting for fundamental human dignity against sophisticated and invasive threats. They serve as both protective organization for vulnerable individuals and active opposition force challenging the normalization of memory harvesting in their society.
+
+## Player-Facing Summary
+
+Stop the Shadow Harvest is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Stop the Shadow Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Stop the Shadow Harvest.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

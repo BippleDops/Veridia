@@ -1961,3 +1961,23 @@ This area has a weak floor like the one in area H14. Creatures that fall drop 15
 When the characters defeat Elizar and his followers, this scenario is largely over. The party can still deal with any campers still on the slope.
 
 The tunnel in area H6 leads to area E1 in the Temple of Eternal Flame. If you aren't ready for the characters to explore that temple, a force from the temple could emerge to drive the characters away. Or, you can allow the characters to descend to the Temple of Eternal Flame and discover how dangerous it is for themselves.
+
+## Player-Facing Summary
+
+03 chapter 3 secret of the sumber hills is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 chapter 3 secret of the sumber hills as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 3 secret of the sumber hills.
+
+## Adventure Hooks
+
+- A rumor ties 03 chapter 3 secret of the sumber hills to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 chapter 3 secret of the sumber hills to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 chapter 3 secret of the sumber hills active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

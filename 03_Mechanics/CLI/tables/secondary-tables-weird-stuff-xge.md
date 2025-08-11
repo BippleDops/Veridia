@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 11 | You were swallowed by a giant fish and spent a month in its gullet before you escaped. |
 | 12 | A powerful being granted you a wish, but you squandered it on something frivolous. |
 ^weird-stuff
+
+## Player-Facing Summary
+
+Secondary tables weird stuff xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of secondary tables weird stuff xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables weird stuff xge.
+
+## Adventure Hooks
+
+- A rumor ties secondary tables weird stuff xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at secondary tables weird stuff xge to avert a public scandal.
+- A map overlay reveals a hidden approach to secondary tables weird stuff xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -150,3 +150,23 @@ If your card reading reveals that a treasure is here, it's easy to find, either 
 The four ancient stones near the windmill were erected centuries ago by the valley's original human inhabitants. Each moss-covered stone bears a crude carving of a city, each of which is associated with a different season. The city of winter is shown covered with snow, the city of spring is arrayed in flowers, the city of summer has a sunburst overhead, and the city of autumn is covered with leaves. If the characters ask any of the priests or scholarly NPCs in Barovia about the stones, the characters are told that ancient legends tell of the Four Cities, said to be the cities of paradise where the Morninglord, Mother Night, and the other ancient gods first dwelled.
 
 Several ravens circle overhead, and one pecks at something on top of the stone that depicts the city of autumn. Upon inspection, the characters see the raven is pecking at a dream pastry, and on the ground in the center of the stone circle is a small pile of children's teeth. The hags placed these here to desecrate the stones and as an offering to the entity they worship, the wicked archfey Ceithlenn of the Crooked Teeth.
+
+## Player-Facing Summary
+
+08 chapter 6 old bonegrinder is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 08 chapter 6 old bonegrinder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 chapter 6 old bonegrinder.
+
+## Adventure Hooks
+
+- A rumor ties 08 chapter 6 old bonegrinder to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 08 chapter 6 old bonegrinder to avert a public scandal.
+- A map overlay reveals a hidden approach to 08 chapter 6 old bonegrinder active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -221,3 +221,21 @@ High Priest Dagon Deepcaller is the supreme leader of [[02_Worldbuilding/Groups/
 
 - [[The Leviathan Cult]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+High Priest Dagon Deepcaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of High Priest Dagon Deepcaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priest Dagon Deepcaller.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/High Priest Dagon Deepcaller]]
+
+<!-- enriched: true -->

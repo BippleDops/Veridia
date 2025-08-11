@@ -122,3 +122,23 @@ Most triton names have two or three syllables. Male names typically end with a v
 - **Female Triton Names.** Aryn, Belthyn, Duthyn, Feloren, Otanyn, Shalryn, Vlaryn, Wolyn  
 - **Male Triton Names.** Corus, Delnis, Jhimas, Keros, Molos, Nalos, Vodos, Zunis  
 - **Triton Surnames.** Ahlorsath, Pumanath, Vuuvaxath
+
+## Player-Facing Summary
+
+Triton vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of triton vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around triton vgm.
+
+## Adventure Hooks
+
+- A rumor ties triton vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at triton vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to triton vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

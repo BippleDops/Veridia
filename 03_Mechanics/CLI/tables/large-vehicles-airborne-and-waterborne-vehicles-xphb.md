@@ -24,3 +24,23 @@ modified: 2025-07-23 12:39
 | [Sailing Ship](/03_Mechanics/CLI/items/sailing-ship-xphb.md) | 2 mph | 20 | 20 | 100 | 15 | 300 | 15 | 10,000 GP |
 | [Warship](/03_Mechanics/CLI/items/warship-xphb.md) | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 | 25,000 GP |
 ^airborne-and-waterborne-vehicles
+
+## Player-Facing Summary
+
+Large vehicles airborne and waterborne vehicles xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of large vehicles airborne and waterborne vehicles xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around large vehicles airborne and waterborne vehicles xphb.
+
+## Adventure Hooks
+
+- A rumor ties large vehicles airborne and waterborne vehicles xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at large vehicles airborne and waterborne vehicles xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to large vehicles airborne and waterborne vehicles xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

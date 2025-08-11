@@ -82,3 +82,23 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ### Eye for Weakness (Level 17)
 
 At 17th level, you learn to exploit a creature's weaknesses by carefully studying its tactics and movement. While your Insightful Fighting feature applies to a creature, your Sneak Attack damage against that creature increases by `3d6`.
+
+## Player-Facing Summary
+
+Rogue xphb inquisitive xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb inquisitive xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb inquisitive xge.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb inquisitive xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb inquisitive xge to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb inquisitive xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

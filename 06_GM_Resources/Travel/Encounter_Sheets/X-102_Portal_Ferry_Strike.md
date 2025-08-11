@@ -29,3 +29,23 @@ created: 2025-08-11
 
 ## Quick-Run
 - Talk→Plan→Leverage; resolve pass/toll/detour
+
+## Player-Facing Summary
+
+X 102 Portal Ferry Strike is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of X 102 Portal Ferry Strike as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around X 102 Portal Ferry Strike.
+
+## Adventure Hooks
+
+- A rumor ties X 102 Portal Ferry Strike to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at X 102 Portal Ferry Strike to avert a public scandal.
+- A map overlay reveals a hidden approach to X 102 Portal Ferry Strike active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

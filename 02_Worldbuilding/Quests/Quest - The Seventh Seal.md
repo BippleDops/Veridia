@@ -298,3 +298,19 @@ Location: Where the Crown originally shattered
 
 ## DM Notes
 This quest makes the party central to the world's fate while maintaining personal stakes through the Seals' effects on their bodies and minds. The trials can be customized based on each character's backstory and development. The multiple possible endings allow player agency in determining the campaign's conclusion. The Seals provide ongoing character development opportunities and can explain new abilities as characters level. This quest ties together all major plot threads while introducing the cosmic level of the conflict.
+
+## Player-Facing Summary
+
+Quest   The Seventh Seal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Seventh Seal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Seventh Seal.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Seventh Seal to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Seventh Seal to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Seventh Seal active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -116,3 +116,23 @@ This appendix contains statistics for various animals, vermin, and other critter
 - [Winter Wolf](/03_Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md)  
 - [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
 - [Worg](/03_Mechanics/CLI/bestiary/fey/worg-xmm.md)
+
+## Player-Facing Summary
+
+2 appendix a miscellaneous creatures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 2 appendix a miscellaneous creatures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 appendix a miscellaneous creatures.
+
+## Adventure Hooks
+
+- A rumor ties 2 appendix a miscellaneous creatures to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 2 appendix a miscellaneous creatures to avert a public scandal.
+- A map overlay reveals a hidden approach to 2 appendix a miscellaneous creatures active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

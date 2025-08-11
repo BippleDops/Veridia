@@ -62,3 +62,23 @@ modified: 2025-07-23 12:39
 | 97–98 | [Stone of Good Luck](/03_Mechanics/CLI/items/stone-of-good-luck-xdmg.md) |
 | 99–00 | [Wand of Secrets](/03_Mechanics/CLI/items/wand-of-secrets-xdmg.md) |
 ^implements-uncommon
+
+## Player-Facing Summary
+
+Implements uncommon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of implements uncommon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around implements uncommon xdmg.
+
+## Adventure Hooks
+
+- A rumor ties implements uncommon xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at implements uncommon xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to implements uncommon xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

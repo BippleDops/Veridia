@@ -52,3 +52,23 @@ If a creature goes mad in Fraz-Urb'luu's lair or within line of sight of the dem
 | 61–80 | "I convince myself that things are true, even in the face of overwhelming evidence to the contrary." |
 | 81–00 | "My perception of reality doesn't match anyone else's. It makes me prone to violent delusions that make no sense to anyone else." |
 ^madness-of-fraz-urbluu
+
+## Player-Facing Summary
+
+Fraz urbluu mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fraz urbluu mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fraz urbluu mtf.
+
+## Adventure Hooks
+
+- A rumor ties fraz urbluu mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fraz urbluu mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to fraz urbluu mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -676,3 +676,23 @@ The "Monster Manual" has rules for characters afflicted with lycanthropy. The fo
 A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy; see the "Player Characters as Lycanthropes" sidebar in the lycanthropes entry in the "Monster Manual" for details.
 
 ![Wereraven](/03_Mechanics/CLI/adventures/curse-of-strahd/img/155-637515969684846750.webp#center)
+
+## Player-Facing Summary
+
+22 appendix d monsters and npcs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 22 appendix d monsters and npcs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 22 appendix d monsters and npcs.
+
+## Adventure Hooks
+
+- A rumor ties 22 appendix d monsters and npcs to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 22 appendix d monsters and npcs to avert a public scandal.
+- A map overlay reveals a hidden approach to 22 appendix d monsters and npcs active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

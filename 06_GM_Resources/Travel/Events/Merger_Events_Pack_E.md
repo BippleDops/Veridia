@@ -67,3 +67,23 @@ created: 2025-08-11
 - Stakes: Her will decides.
 - Checks: Religion DC 18; Sanity DC 18.
 - Outcomes: Success: Blessing and burden. Partial: Omen. Fail: Wrath.
+
+## Player-Facing Summary
+
+Merger Events Pack E is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Merger Events Pack E as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Events Pack E.
+
+## Adventure Hooks
+
+- A rumor ties Merger Events Pack E to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Merger Events Pack E to avert a public scandal.
+- A map overlay reveals a hidden approach to Merger Events Pack E active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

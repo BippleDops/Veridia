@@ -172,3 +172,23 @@ The Coral Architecture Philosophy represents the foundational approach to constr
 - [[The Coral Cultivation Collective]] - Research and development organization advancing coral construction techniques
 
 The Coral Architecture Philosophy represents the perfect marriage of human ingenuity with natural systems, creating a building tradition that enhances rather than exploits the marine environment while providing beautiful, functional, and sustainable structures for human habitation.
+
+## Player-Facing Summary
+
+The Coral Architecture Philosophy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Coral Architecture Philosophy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Coral Architecture Philosophy.
+
+## Adventure Hooks
+
+- A rumor ties The Coral Architecture Philosophy to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Coral Architecture Philosophy to avert a public scandal.
+- A map overlay reveals a hidden approach to The Coral Architecture Philosophy active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -604,3 +604,23 @@ The Fortress of the Deeps should feel like a combination of military professiona
 | Power | Fortress operations | Geothermal backup | Emergency batteries |
 | Defenses | Fortress protection | Automated systems | Manual override |
 | Transportation | Personnel movement | Multiple vehicle types | Emergency evacuation |
+
+## Player-Facing Summary
+
+Fortress of the Deeps is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Fortress of the Deeps as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Fortress of the Deeps.
+
+## Adventure Hooks
+
+- A rumor ties Fortress of the Deeps to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Fortress of the Deeps to avert a public scandal.
+- A map overlay reveals a hidden approach to Fortress of the Deeps active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

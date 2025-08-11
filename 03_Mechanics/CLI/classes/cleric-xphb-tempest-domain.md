@@ -92,3 +92,23 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 ### Stormborn (Level 17)
 
 At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
+
+## Player-Facing Summary
+
+Cleric xphb tempest domain is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb tempest domain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb tempest domain.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb tempest domain to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb tempest domain to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb tempest domain active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

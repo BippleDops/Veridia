@@ -106,3 +106,17 @@ The most advanced templates actually tap into the same fundamental forces that m
 ## Campaign Use
 
 Advanced Templating provides excellent opportunities for puzzle-solving, magical research quests, and complex problem-solving scenarios. Use it to create adaptive magical environments that challenge players to think creatively about spell use and magical theory. The discipline can serve as both a powerful tool and a source of magical complications.
+
+## Player-Facing Summary
+
+Templater Advanced is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Templater Advanced as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Templater Advanced.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

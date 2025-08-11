@@ -525,3 +525,23 @@ Regardless of how many battles the characters might have had inside Neverlight G
 If the adventurers simply passed through the grove and enjoyed the hospitality of the doomed myconids, they leave with only suspicions about their odd behavior, which can help them later in piecing together the greater mystery in the Underdark.
 
 If the adventurers learned nothing about the presence of Zuggtmoy or her plans, you might pass the information on to them by having a friendly myconid such as [Stool](/03_Mechanics/CLI/bestiary/npc/stool-oota.md) or [Rumpadump](/03_Mechanics/CLI/bestiary/npc/rumpadump-oota.md) come to them just as they are leaving. The myconid enters rapport and shows them a vision of the Garden of Welcome and Yggmorgus, saying these images come from the minds of other myconids in the grove, and asking what these "strange dreams" mean.
+
+## Player-Facing Summary
+
+05 chapter 5 neverlight grove is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 05 chapter 5 neverlight grove as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 5 neverlight grove.
+
+## Adventure Hooks
+
+- A rumor ties 05 chapter 5 neverlight grove to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 05 chapter 5 neverlight grove to avert a public scandal.
+- A map overlay reveals a hidden approach to 05 chapter 5 neverlight grove active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

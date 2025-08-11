@@ -45,3 +45,23 @@ modified: 2025-07-23 12:39
 | 93–96 | [Universal Solvent](/03_Mechanics/CLI/items/universal-solvent-xdmg.md) |
 | 97–00 | [Well of Many Worlds](/03_Mechanics/CLI/items/well-of-many-worlds-xdmg.md) |
 ^arcana-legendary
+
+## Player-Facing Summary
+
+Arcana legendary xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of arcana legendary xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana legendary xdmg.
+
+## Adventure Hooks
+
+- A rumor ties arcana legendary xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at arcana legendary xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to arcana legendary xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

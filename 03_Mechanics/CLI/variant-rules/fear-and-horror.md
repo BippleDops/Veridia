@@ -23,3 +23,23 @@ When adventurers confront threats they have no hope of overcoming, you can call 
 Horror involves more than simple fright. It entails revulsion and anguish. Often it arises when adventurer see something completely contrary to the common understanding of what can and should occur in the world, or upon the realization of a dreadful truth.
 
 In such a situation, you can call on characters to make a Charisma saving throw to resist the horror. Set the DC based on the magnitude of the horrific circumstances. On a failed save, a character gains a [short-term](/03_Mechanics/CLI/tables/short-term-madness.md) or [long-term](/03_Mechanics/CLI/tables/long-term-madness.md) form of madness that you choose or determine randomly, as detailed in chapter 8, "Running the Game."
+
+## Player-Facing Summary
+
+Fear and horror is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fear and horror as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fear and horror.
+
+## Adventure Hooks
+
+- A rumor ties fear and horror to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fear and horror to avert a public scandal.
+- A map overlay reveals a hidden approach to fear and horror active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -118,3 +118,23 @@ Once you use this feature, you can't do so again until you finish a [Long Rest](
 You can sweep your Psychic Blades through a creature's mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC 8 plus your Dexterity modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md)). If the save fails, the target has the [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) condition for 1 minute. The [Stunned](/03_Mechanics/CLI/conditions.md#Stunned) target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend three Psionic Energy Dice (no action required) to restore your use of it.
+
+## Player-Facing Summary
+
+Rogue xphb soulknife xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb soulknife xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb soulknife xphb.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb soulknife xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb soulknife xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb soulknife xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

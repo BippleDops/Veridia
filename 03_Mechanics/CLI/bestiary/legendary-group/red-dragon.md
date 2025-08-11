@@ -50,3 +50,23 @@ Any of these effects might appear in the area around a red dragon's lair, in add
 - **Desertification.** Precipitation is almost nonexistent within 6 miles of the dragon's lair, making the land parched and arid and most plant life withered and brown.  
 - **Fiery Senses.** The dragon can hear up to 30 feet through any open flame within 1 mile of the dragon's lair.  
 - **Ominous Flames.** Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and crackle constantly, and throw off embers and showers of sparks.
+
+## Player-Facing Summary
+
+Red dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of red dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around red dragon.
+
+## Adventure Hooks
+
+- A rumor ties red dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at red dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to red dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

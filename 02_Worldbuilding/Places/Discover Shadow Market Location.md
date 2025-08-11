@@ -109,3 +109,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Discover Shadow Market Location is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Discover Shadow Market Location as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Discover Shadow Market Location.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Discover Shadow Market Location]]
+
+<!-- enriched: true -->

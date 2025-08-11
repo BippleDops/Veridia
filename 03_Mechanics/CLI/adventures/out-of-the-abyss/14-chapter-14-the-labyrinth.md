@@ -496,3 +496,23 @@ On each of the engine's turns, roll a `d100` and consult the Maze Engine Effects
 #### Development
 
 If you want to add tension to the end of this encounter, have the Maze Engine trigger a minor eruption after it sinks into the magma, causing the magma to bubble up out of the crevasse, spill into the cavern and nearby tunnels, and force the adventurers and their allies to stay ahead of the magma surge.
+
+## Player-Facing Summary
+
+14 chapter 14 the labyrinth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 14 chapter 14 the labyrinth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 chapter 14 the labyrinth.
+
+## Adventure Hooks
+
+- A rumor ties 14 chapter 14 the labyrinth to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 14 chapter 14 the labyrinth to avert a public scandal.
+- A map overlay reveals a hidden approach to 14 chapter 14 the labyrinth active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

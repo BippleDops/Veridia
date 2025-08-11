@@ -15,3 +15,23 @@ modified: 2025-07-23 12:39
 Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md) is doubled for that check unless the bonus is doubled by another feature.
 
 If you gain Expertise, you gain it in one [skill](/03_Mechanics/CLI/variant-rules/skill-xphb.md) in which you have proficiency. You can't have Expertise in the same skill proficiency more than once.
+
+## Player-Facing Summary
+
+Expertise xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of expertise xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around expertise xphb.
+
+## Adventure Hooks
+
+- A rumor ties expertise xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at expertise xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to expertise xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

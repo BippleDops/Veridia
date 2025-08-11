@@ -2758,3 +2758,23 @@ The south coffin holds the skeleton of Strahd's mother, Queen Ravenovia. (The ma
 If your card reading reveals that a treasure is here, it lies atop Queen Ravenovia's coffin.
 
 If your card reading indicates an encounter with [Strahd](/03_Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md) in this area, he is in a frenzy of rage and despair.
+
+## Player-Facing Summary
+
+06 chapter 4 castle ravenloft is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 06 chapter 4 castle ravenloft as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 4 castle ravenloft.
+
+## Adventure Hooks
+
+- A rumor ties 06 chapter 4 castle ravenloft to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 06 chapter 4 castle ravenloft to avert a public scandal.
+- A map overlay reveals a hidden approach to 06 chapter 4 castle ravenloft active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

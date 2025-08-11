@@ -49,3 +49,23 @@ You can find all the tracking sheets found throughout the "Dungeon Master's Guid
 ## Bastion Tracker
 
 ![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/248-13-009-bastion-tracker-sheet.webp#center)
+
+## Player-Facing Summary
+
+11 appendix c tracking sheets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 11 appendix c tracking sheets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 appendix c tracking sheets.
+
+## Adventure Hooks
+
+- A rumor ties 11 appendix c tracking sheets to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 11 appendix c tracking sheets to avert a public scandal.
+- A map overlay reveals a hidden approach to 11 appendix c tracking sheets active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

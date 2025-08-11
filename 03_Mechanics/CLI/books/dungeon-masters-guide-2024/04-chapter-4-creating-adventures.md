@@ -678,3 +678,23 @@ After the second dance, the ball is interrupted by a Neutral Evil [Hobgoblin War
 ##### Conclusion
 
 After three dances, the Baron of the Boreal Ball appears. If the party's Renown Score is at least 6, he bestows on each character a Charm of the Boreal Ball. This charm (see ""Supernatural Gifts"" in "chapter 3") allows a character who has it to cast the level 3 version of the [Ice Knife](/03_Mechanics/CLI/spells/ice-knife-xphb.md) spell. Once used, the Charm vanishes. Each character also earns a bonus 1,700 XP.
+
+## Player-Facing Summary
+
+04 chapter 4 creating adventures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 04 chapter 4 creating adventures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 4 creating adventures.
+
+## Adventure Hooks
+
+- A rumor ties 04 chapter 4 creating adventures to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 04 chapter 4 creating adventures to avert a public scandal.
+- A map overlay reveals a hidden approach to 04 chapter 4 creating adventures active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

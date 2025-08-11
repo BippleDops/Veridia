@@ -162,3 +162,23 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 
 
 ### You (The Deck's Owner)
+
+## Player-Facing Summary
+
+Deck of illusions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of deck of illusions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of illusions.
+
+## Adventure Hooks
+
+- A rumor ties deck of illusions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at deck of illusions to avert a public scandal.
+- A map overlay reveals a hidden approach to deck of illusions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

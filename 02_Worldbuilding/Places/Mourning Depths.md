@@ -711,3 +711,27 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 - [[Ω_System-CLI-spells-school-conjuration]]
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
+
+## Player-Facing Summary
+
+Mourning Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Mourning Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mourning Depths.
+
+## Adventure Hooks
+
+- A rumor ties Mourning Depths to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Mourning Depths to avert a public scandal.
+- A map overlay reveals a hidden approach to Mourning Depths active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Mourning Depths]]
+
+<!-- enriched: true -->

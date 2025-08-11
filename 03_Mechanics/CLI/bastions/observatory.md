@@ -33,3 +33,23 @@ You can use your Observatory to peer into the far corners of "Wildspace" and the
 When you issue the "Empower" order to this facility, you enable yourself or the facility's hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: "Charm of Darkvision", "Charm of Heroism", or "Charm of Vitality" (all described in "chapter 3").
 
 *Source: Dungeon Master's Guide (2024) p. 343*
+
+## Player-Facing Summary
+
+Observatory is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of observatory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around observatory.
+
+## Adventure Hooks
+
+- A rumor ties observatory to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at observatory to avert a public scandal.
+- A map overlay reveals a hidden approach to observatory active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

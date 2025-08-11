@@ -371,3 +371,23 @@ Cultural contribution recognition acknowledges character efforts to enrich their
 
 - [[The Deep Mother]]
 - [[The Restoration Movement]]
+
+## Player-Facing Summary
+
+Surface Dweller Adaptation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Surface Dweller Adaptation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Dweller Adaptation.
+
+## Adventure Hooks
+
+- A rumor ties Surface Dweller Adaptation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Surface Dweller Adaptation to avert a public scandal.
+- A map overlay reveals a hidden approach to Surface Dweller Adaptation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

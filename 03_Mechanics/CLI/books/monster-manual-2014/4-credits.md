@@ -34,3 +34,23 @@ modified: 2025-07-23 12:39
 - **Additional feedback provided by.** Robert Alaniz, Anthony Caroselli, Josh Dillard, Curt Duval, Sam E. Simpson Jr., Adam Hennebeck, Sterling Hershey, Paul Hughes, Doug Irwin, Ken J. Breese, Yan Lacharité, Tom Lommel, Jonathan Longstaff, Rory Madden, Matt Maranda, Paul Melamed, Mike Mihalas, David Milman, Daren Mitchell, Claudio Pozas, John Proudfoot, Karl Resch, M. Sean Molley, Sam Sherry, Pieter Sleijpen, David "Oak" Stark, Vincent Venturella, Fredrick Wheeler, Arthur Wright  
 
 ![On the Cover: Raymond Swan...](/03_Mechanics/CLI/books/monster-manual-2014/img/mmcover.webp#center "On the Cover: Raymond Swanland illustrates the Xanathar ambushing explorers in the darkest depths of Undermountain, proving that the beholder crime lord's interests run deep beneath the city of Waterdeep.")
+
+## Player-Facing Summary
+
+4 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 4 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 4 credits.
+
+## Adventure Hooks
+
+- A rumor ties 4 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 4 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 4 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

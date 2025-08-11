@@ -24,3 +24,23 @@ A successful DC 20 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) c
 A successful [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 18) removes this enchantment.
 
 *Source: Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+
+## Player-Facing Summary
+
+Sphere of annihilation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sphere of annihilation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphere of annihilation.
+
+## Adventure Hooks
+
+- A rumor ties sphere of annihilation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sphere of annihilation to avert a public scandal.
+- A map overlay reveals a hidden approach to sphere of annihilation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

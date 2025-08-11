@@ -1018,3 +1018,23 @@ Taboo variation between communities and worlds creates adventures focused on cul
 
 - [[The Deep Mother]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Crystal Corruption Taboos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Crystal Corruption Taboos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Corruption Taboos.
+
+## Adventure Hooks
+
+- A rumor ties Crystal Corruption Taboos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Crystal Corruption Taboos to avert a public scandal.
+- A map overlay reveals a hidden approach to Crystal Corruption Taboos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

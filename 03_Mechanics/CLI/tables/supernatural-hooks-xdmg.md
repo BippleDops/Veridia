@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | Animals or animated objects speak clearly to direct the adventurers toward the situation. |
 | 6 | Someone who died returns as a ghost and haunts the characters. The ghost prompts the characters to investigate the cause of the ghost's death and put it to rest. |
 ^supernatural-hooks
+
+## Player-Facing Summary
+
+Supernatural hooks xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of supernatural hooks xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supernatural hooks xdmg.
+
+## Adventure Hooks
+
+- A rumor ties supernatural hooks xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at supernatural hooks xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to supernatural hooks xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

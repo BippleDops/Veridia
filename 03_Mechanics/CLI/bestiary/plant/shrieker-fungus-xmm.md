@@ -67,3 +67,23 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Shrieker fungus xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of shrieker fungus xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shrieker fungus xmm.
+
+## Adventure Hooks
+
+- A rumor ties shrieker fungus xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at shrieker fungus xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to shrieker fungus xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

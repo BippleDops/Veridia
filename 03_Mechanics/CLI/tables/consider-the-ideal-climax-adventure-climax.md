@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 11 | The adventurers must choose whether to pursue the fleeing main villain or save an NPC they care about or a group of innocents. |
 | 12 | The adventurers must discover the main villain's secret weakness before they can hope to defeat that villain. |
 ^adventure-climax
+
+## Player-Facing Summary
+
+Consider the ideal climax adventure climax is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of consider the ideal climax adventure climax as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around consider the ideal climax adventure climax.
+
+## Adventure Hooks
+
+- A rumor ties consider the ideal climax adventure climax to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at consider the ideal climax adventure climax to avert a public scandal.
+- A map overlay reveals a hidden approach to consider the ideal climax adventure climax active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

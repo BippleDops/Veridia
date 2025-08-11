@@ -36,3 +36,23 @@ In addition, immediately after you take damage from a creature you can see withi
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Druid (Circle of the Moon)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 277*
+
+## Player-Facing Summary
+
+Fount of moonlight xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fount of moonlight xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fount of moonlight xphb.
+
+## Adventure Hooks
+
+- A rumor ties fount of moonlight xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fount of moonlight xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to fount of moonlight xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

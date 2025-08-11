@@ -102,3 +102,23 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 ## Environment
 
 swamp, underdark, urban
+
+## Player-Facing Summary
+
+Bodak mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bodak mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bodak mpmm.
+
+## Adventure Hooks
+
+- A rumor ties bodak mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bodak mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to bodak mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

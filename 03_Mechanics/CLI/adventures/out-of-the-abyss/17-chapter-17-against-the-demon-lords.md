@@ -283,3 +283,23 @@ Although he's nominally the party's ally during much of this adventure, [Vizeran
 Although Vizeran won't immediately turn against his former allies, the adventurers would be fools to trust him. He seizes any opportunity to increase his own power and prestige, including holding on to Gromph's grimoire and any ritual components or trinkets the adventurers might have acquired for him.
 
 If the adventurers thwarted Vizeran's revenge scheme by placing the *dark heart* talisman somewhere other than Menzoberranzan, they earn the drow archmage's enmity. Vizeran's plots expand to include the adventurers as well as his own people, and the next great challenge the heroes face might come from the archmage as he plans his revenge.
+
+## Player-Facing Summary
+
+17 chapter 17 against the demon lords is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 17 chapter 17 against the demon lords as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 17 chapter 17 against the demon lords.
+
+## Adventure Hooks
+
+- A rumor ties 17 chapter 17 against the demon lords to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 17 chapter 17 against the demon lords to avert a public scandal.
+- A map overlay reveals a hidden approach to 17 chapter 17 against the demon lords active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

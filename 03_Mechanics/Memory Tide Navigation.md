@@ -38,3 +38,23 @@ Practical, table-ready rules for Memory Tide Navigation across Aquabyssos and Ae
 ## Cross-References
 - [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|Ultimate GM Screen]]
+
+## Player-Facing Summary
+
+Memory Tide Navigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Tide Navigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Tide Navigation.
+
+## Adventure Hooks
+
+- A rumor ties Memory Tide Navigation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Tide Navigation to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Tide Navigation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

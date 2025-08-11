@@ -196,3 +196,23 @@ She seeks a third option but hasn't found it.
 
 *"To lead in the depths requires pressure that would crush lesser souls."*
 - Court saying about the High Tidecaller
+
+## Player-Facing Summary
+
+Nerissa Deepcurrent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Nerissa Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nerissa Deepcurrent.
+
+## Adventure Hooks
+
+- A rumor ties Nerissa Deepcurrent to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Nerissa Deepcurrent to avert a public scandal.
+- A map overlay reveals a hidden approach to Nerissa Deepcurrent active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Nerissa_Deepcurrent]]
+
+<!-- enriched: true -->

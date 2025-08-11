@@ -16,3 +16,23 @@ modified: 2025-07-23 12:39
 You gain proficiency in any combination of three [skills](/03_Mechanics/CLI/tables/skill-list-skills-xphb.md) or tools of your choice.
 
 **Repeatable.** You can take this feat more than once.
+
+## Player-Facing Summary
+
+Skilled xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of skilled xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skilled xphb.
+
+## Adventure Hooks
+
+- A rumor ties skilled xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at skilled xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to skilled xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

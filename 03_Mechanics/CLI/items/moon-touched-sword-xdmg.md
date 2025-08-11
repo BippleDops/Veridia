@@ -76,3 +76,23 @@ In [Darkness](/03_Mechanics/CLI/variant-rules/darkness-xphb.md), the unsheathed 
 
 
 *Source: Dungeon Master's Guide (2024) p. 280*
+
+## Player-Facing Summary
+
+Moon touched sword xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of moon touched sword xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around moon touched sword xdmg.
+
+## Adventure Hooks
+
+- A rumor ties moon touched sword xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at moon touched sword xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to moon touched sword xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

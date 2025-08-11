@@ -154,3 +154,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Merchant Delilah Currentrunner is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Merchant Delilah Currentrunner as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Delilah Currentrunner.
+
+## Adventure Hooks
+
+- A rumor ties Merchant Delilah Currentrunner to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Merchant Delilah Currentrunner to avert a public scandal.
+- A map overlay reveals a hidden approach to Merchant Delilah Currentrunner active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Merchant Delilah Currentrunner]]
+
+<!-- enriched: true -->

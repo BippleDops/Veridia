@@ -16,3 +16,23 @@ modified: 2025-07-23 12:39
 **Prerequisite**: Level 9
 
 You can cast [conjure elemental](/03_Mechanics/CLI/spells/conjure-elemental-xphb.md) once using a warlock spell slot. You can't do so again until you finish a long rest.
+
+## Player-Facing Summary
+
+Minions of chaos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of minions of chaos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around minions of chaos.
+
+## Adventure Hooks
+
+- A rumor ties minions of chaos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at minions of chaos to avert a public scandal.
+- A map overlay reveals a hidden approach to minions of chaos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

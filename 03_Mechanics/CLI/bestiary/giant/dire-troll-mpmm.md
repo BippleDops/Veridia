@@ -97,3 +97,23 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 ## Environment
 
 arctic, forest, hill, mountain, underdark
+
+## Player-Facing Summary
+
+Dire troll mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dire troll mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dire troll mpmm.
+
+## Adventure Hooks
+
+- A rumor ties dire troll mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dire troll mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to dire troll mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

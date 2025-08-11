@@ -873,3 +873,23 @@ The following tables can be used to generate random cults dedicated to fiends. R
 ![Fiendish Cults; Cult Hardship](/03_Mechanics/CLI/tables/fiendish-cults-cult-hardship-mtf.md)
 
 Use the template linked above to quickly draw up some information on a Fiendish Cult.
+
+## Player-Facing Summary
+
+1 the blood war is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 1 the blood war as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 the blood war.
+
+## Adventure Hooks
+
+- A rumor ties 1 the blood war to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 1 the blood war to avert a public scandal.
+- A map overlay reveals a hidden approach to 1 the blood war active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

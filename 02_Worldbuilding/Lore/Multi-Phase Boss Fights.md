@@ -813,3 +813,23 @@ Multi-phase boss fights serve as climactic encounters that combine mechanical ch
 - [[Random Encounters]]
 - [[Compass Quest]]
 - [[Aethermoor - Session 05 The Queens Madness]]
+
+## Player-Facing Summary
+
+Multi Phase Boss Fights is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Multi Phase Boss Fights as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Multi Phase Boss Fights.
+
+## Adventure Hooks
+
+- A rumor ties Multi Phase Boss Fights to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Multi Phase Boss Fights to avert a public scandal.
+- A map overlay reveals a hidden approach to Multi Phase Boss Fights active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -44,3 +44,23 @@ The monsters appearing in the adventure are presented in this section in alphabe
 - [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
 - [Young Green Dragon](/03_Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md) ([Venomfang](/03_Mechanics/CLI/bestiary/npc/venomfang-lmop.md))  
 - [Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md)
+
+## Player-Facing Summary
+
+7 appendix b monsters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 7 appendix b monsters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 7 appendix b monsters.
+
+## Adventure Hooks
+
+- A rumor ties 7 appendix b monsters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 7 appendix b monsters to avert a public scandal.
+- A map overlay reveals a hidden approach to 7 appendix b monsters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

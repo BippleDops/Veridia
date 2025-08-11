@@ -72,3 +72,23 @@ Crawling claws are severed hands that move and act of their own murderous accord
 ## Environment
 
 any
+
+## Player-Facing Summary
+
+Crawling claw xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of crawling claw xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crawling claw xmm.
+
+## Adventure Hooks
+
+- A rumor ties crawling claw xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at crawling claw xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to crawling claw xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

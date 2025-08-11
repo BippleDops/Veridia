@@ -334,3 +334,23 @@ This event occurs as the characters make their way through the village.
 - Strahd's most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).  
 
 ![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/022-cos03-09.webp#center)
+
+## Player-Facing Summary
+
+05 chapter 3 the village of barovia is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 05 chapter 3 the village of barovia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 3 the village of barovia.
+
+## Adventure Hooks
+
+- A rumor ties 05 chapter 3 the village of barovia to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 05 chapter 3 the village of barovia to avert a public scandal.
+- A map overlay reveals a hidden approach to 05 chapter 3 the village of barovia active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

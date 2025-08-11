@@ -476,3 +476,23 @@ During a moment of clarity, the Guardian manages to communicate its desire for f
 - [[Crystal Wardens]]
 - [[Discover Marina's Truth]]
 - [[Emperor Thalassius the Wise]]
+
+## Player-Facing Summary
+
+The Crimson Shard Guardian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crimson Shard Guardian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Shard Guardian.
+
+## Adventure Hooks
+
+- A rumor ties The Crimson Shard Guardian to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Crimson Shard Guardian to avert a public scandal.
+- A map overlay reveals a hidden approach to The Crimson Shard Guardian active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Crimson Shard Guardian]]
+
+<!-- enriched: true -->

@@ -346,3 +346,23 @@ A player character can lose their Bastion in the following ways:
 Regardless of how the Bastion falls, the player can work with the DM to establish a new Bastion and determine how it comes into being. Use the "Special Facility Acquisition" table to determine how many special facilities come with it. The new Bastion also starts with two basic facilities (one Cramped and one Roomy) of the player's choice.
 
 ![Download PDF](/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/203-10-010-bastion-tracker-sheet.webp#center)
+
+## Player-Facing Summary
+
+08 chapter 8 bastions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 08 chapter 8 bastions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 chapter 8 bastions.
+
+## Adventure Hooks
+
+- A rumor ties 08 chapter 8 bastions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 08 chapter 8 bastions to avert a public scandal.
+- A map overlay reveals a hidden approach to 08 chapter 8 bastions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

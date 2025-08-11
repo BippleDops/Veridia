@@ -24,3 +24,23 @@ modified: 2025-07-23 12:39
 | 16-17 | I always found it easy to make friends, and I loved being around people. |
 | 18-25 | Everyone knew who I was, and I had friends everywhere I went. |
 ^childhood-memories
+
+## Player-Facing Summary
+
+Supplemental tables childhood memories xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of supplemental tables childhood memories xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supplemental tables childhood memories xge.
+
+## Adventure Hooks
+
+- A rumor ties supplemental tables childhood memories xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at supplemental tables childhood memories xge to avert a public scandal.
+- A map overlay reveals a hidden approach to supplemental tables childhood memories xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

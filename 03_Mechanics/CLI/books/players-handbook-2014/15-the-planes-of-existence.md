@@ -124,3 +124,23 @@ The entities that abide in the Far Realm are too alien for a normal mind to acce
 There are no known portals to the Far Realm, or at least none that are still viable. Ancient elves once pierced the boundary of eons with a vast portal to the Far Realm within a mountain called Firestorm Peak, but their civilization imploded in bloody terror and the portal's location—even its home world—is long forgotten. Other portals might still exist, marked by the alien forces leaking through to corrupt the Material Plane around them.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/planes-2.webp#center)
+
+## Player-Facing Summary
+
+15 the planes of existence is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 15 the planes of existence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 15 the planes of existence.
+
+## Adventure Hooks
+
+- A rumor ties 15 the planes of existence to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 15 the planes of existence to avert a public scandal.
+- A map overlay reveals a hidden approach to 15 the planes of existence active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

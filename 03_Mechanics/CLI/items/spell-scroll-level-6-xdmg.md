@@ -29,3 +29,23 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 17,
 A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 6 spell is copied in this way, the copier must succeed on a DC 16 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Spell scroll level 6 xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of spell scroll level 6 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll level 6 xdmg.
+
+## Adventure Hooks
+
+- A rumor ties spell scroll level 6 xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at spell scroll level 6 xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to spell scroll level 6 xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

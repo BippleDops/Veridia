@@ -93,3 +93,23 @@ The worlds of the multiverse share characteristics, but each world is set apart 
 > 
 > If you can't find a rule, check the index. If a rule's name has changed from what was printed in the 2014 *Player's Handbook*, the index points you to the new name. For example, if you look up Inspiration in the index, it points you to the rules for [Heroic Inspiration](/03_Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) in the rules glossary.
 ^whats-new-in-the-2024-version
+
+## Player-Facing Summary
+
+01 introduction welcome to adventure is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 introduction welcome to adventure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 introduction welcome to adventure.
+
+## Adventure Hooks
+
+- A rumor ties 01 introduction welcome to adventure to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 introduction welcome to adventure to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 introduction welcome to adventure active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

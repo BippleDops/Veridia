@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 15-19 | Trap designed to kill or capture creatures |
 | 20 | Observation room, allowing guards or spectators to observe creatures moving through the dungeon |
 ^dungeon-death-trap
+
+## Player-Facing Summary
+
+Chamber purpose dungeon death trap is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of chamber purpose dungeon death trap as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon death trap.
+
+## Adventure Hooks
+
+- A rumor ties chamber purpose dungeon death trap to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at chamber purpose dungeon death trap to avert a public scandal.
+- A map overlay reveals a hidden approach to chamber purpose dungeon death trap active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

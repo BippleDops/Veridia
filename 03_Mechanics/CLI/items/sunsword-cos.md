@@ -44,3 +44,23 @@ The Sunsword is a sentient chaotic good weapon with an Intelligence of 11, a Wis
 The Sunsword's special purpose is to destroy Strahd, not so much because it wants to free the land of Barovia from evil but because it wants revenge for the loss of its crystal blade. The weapon secretly fears its own destruction.
 
 *Source: Curse of Strahd p. 223*
+
+## Player-Facing Summary
+
+Sunsword cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sunsword cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sunsword cos.
+
+## Adventure Hooks
+
+- A rumor ties sunsword cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sunsword cos to avert a public scandal.
+- A map overlay reveals a hidden approach to sunsword cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

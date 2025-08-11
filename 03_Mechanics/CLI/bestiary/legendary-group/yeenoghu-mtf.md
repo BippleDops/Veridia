@@ -52,3 +52,23 @@ If a creature goes mad in Yeenoghu's lair or within line of sight of the demon l
 | 61–80 | "I hunger for the deaths of others, and am constantly starting fights in the hope of seeing bloodshed." |
 | 81–00 | "I keep trophies from the bodies I have slain, turning them into adornments." |
 ^madness-of-yeenoghu
+
+## Player-Facing Summary
+
+Yeenoghu mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of yeenoghu mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yeenoghu mtf.
+
+## Adventure Hooks
+
+- A rumor ties yeenoghu mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at yeenoghu mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to yeenoghu mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

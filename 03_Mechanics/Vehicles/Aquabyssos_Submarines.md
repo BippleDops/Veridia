@@ -68,3 +68,23 @@ GM Note: Use [[05_Templates/Vehicles/New_Ship_Template|New Ship Template]] to ad
 1 Pressure surge • 2 Kelp snare • 3 Cavitation bloom • 4 Shadow bloom • 5 Merger flicker • 6 Leviathan passing • 7 Parasite cloud • 8 Memory storm • 9 Thermal vent • 10 Hull hymn (ship hums prophecy)
 
 See also: [[Vessel_Horror_Intensifier]], [[Journey_Event_Compiler]], [[Transportation_Infrastructure]].
+
+## Player-Facing Summary
+
+Aquabyssos Submarines is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aquabyssos Submarines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Submarines.
+
+## Adventure Hooks
+
+- A rumor ties Aquabyssos Submarines to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aquabyssos Submarines to avert a public scandal.
+- A map overlay reveals a hidden approach to Aquabyssos Submarines active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

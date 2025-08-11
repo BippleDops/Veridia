@@ -21,3 +21,23 @@ A creature that comes in contact with green slime takes 5 (`d10`) Acid damage. T
 Direct sunlight or any amount of Cold, Fire, or Radiant damage destroys a patch of green slime.
 
 *Source: Dungeon Master's Guide (2024) p. 76*
+
+## Player-Facing Summary
+
+Green slime xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of green slime xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green slime xdmg.
+
+## Adventure Hooks
+
+- A rumor ties green slime xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at green slime xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to green slime xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

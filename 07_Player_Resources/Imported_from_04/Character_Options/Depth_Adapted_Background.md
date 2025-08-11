@@ -117,3 +117,17 @@ Consider how your depth-adapted background affects your interaction with:
 - [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Mechanical effects
 - [[02_Worldbuilding/Places/Abyssos Prime]] - Capital showcasing depth hierarchy
 - [[02_Worldbuilding/Lore/The Deep Mother]] - Entity of the deepest depths
+
+## Player-Facing Summary
+
+Depth Adapted Background is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Depth Adapted Background as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Adapted Background.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

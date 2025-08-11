@@ -331,3 +331,23 @@ The High Tidecaller Nerissa quest offers players the chance to explore themes of
 - [[The_Crimson_Pearl]]
 - [[Pearl_Harbor_City]]
 - [[The_Second_Rising]]
+
+## Player-Facing Summary
+
+High Tidecaller Nerissa is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of High Tidecaller Nerissa as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Tidecaller Nerissa.
+
+## Adventure Hooks
+
+- A rumor ties High Tidecaller Nerissa to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at High Tidecaller Nerissa to avert a public scandal.
+- A map overlay reveals a hidden approach to High Tidecaller Nerissa active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

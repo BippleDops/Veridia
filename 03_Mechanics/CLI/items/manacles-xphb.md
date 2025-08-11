@@ -29,3 +29,23 @@ As a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action, you can use Manacle
 Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md) to pick the Manacles' lock with a successful DC 15 Dexterity ([Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand)) check.
 
 *Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Manacles xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of manacles xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around manacles xphb.
+
+## Adventure Hooks
+
+- A rumor ties manacles xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at manacles xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to manacles xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

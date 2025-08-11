@@ -37,3 +37,23 @@ Rebutter, the Neutral Good sword, has a topaz set in its pommel.
 You gain a +3 bonus to attack and damage rolls made with this sword. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
 
 *Source: Dungeon Master's Guide p. 206*
+
+## Player-Facing Summary
+
+Sword of answering rebutter is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sword of answering rebutter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword of answering rebutter.
+
+## Adventure Hooks
+
+- A rumor ties sword of answering rebutter to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sword of answering rebutter to avert a public scandal.
+- A map overlay reveals a hidden approach to sword of answering rebutter active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

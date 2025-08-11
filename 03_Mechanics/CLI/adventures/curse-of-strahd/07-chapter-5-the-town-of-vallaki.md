@@ -1527,3 +1527,23 @@ If Father Lucian dies, locals bury his body in the church cemetery, whereupon it
 The attack on St. Andral's church terrorizes and demoralizes the town. After a few days, fear turns to misdirected rage as townsfolk blame the burgomaster. Baron Vallakovich's "All will be well!" mantra can't protect him from their wrath. Barring intervention by the characters, the burgomaster's mansion is set ablaze, and the baron, his wife, and his son are dragged to the town square, thrown in the stocks, and stoned to death. If he is alive, [Izek Strazni](/03_Mechanics/CLI/bestiary/npc/izek-strazni-cos.md) flees the town to avoid a similar fate. Where he hides is up to you, but likely locations include Old Bonegrinder (chapter 6), Argynvostholt (chapter 7), or the ruins of Berez (chapter 10).
 
 If the characters thwart the attack on the church and protect Father Lucian, Strahd pays a visit to Wachterhaus (area N4) and there composes a letter, which he asks Lady Wachter to deliver to the characters. The letter is written in Strahd's hand and extends an invitation to the characters to come to Castle Ravenloft. Lady Wachter orders her spy, Ernst Larnak, or one of her sons to take the letter to the characters. If the characters open and read it, show the players "Strahd's Invitation" in appendix F. If the characters head toward the castle, they have no threatening random encounters on the way.
+
+## Player-Facing Summary
+
+07 chapter 5 the town of vallaki is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 07 chapter 5 the town of vallaki as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 5 the town of vallaki.
+
+## Adventure Hooks
+
+- A rumor ties 07 chapter 5 the town of vallaki to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 07 chapter 5 the town of vallaki to avert a public scandal.
+- A map overlay reveals a hidden approach to 07 chapter 5 the town of vallaki active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

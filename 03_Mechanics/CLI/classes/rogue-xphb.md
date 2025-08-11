@@ -217,3 +217,23 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 You have a marvelous knack for succeeding when you need to. If you fail a [D20 Test](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md), you can turn the roll into a 20.
 
 Once you use this feature, you can't use it again until you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Rogue xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

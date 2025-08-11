@@ -104,3 +104,23 @@ Holding an object as you meditate, you can see visions of the object's previous 
 _Source: Player's Handbook_
 
 As you meditate, you see visions of recent events in your immediate vicinity (a room, street, tunnel, clearing, or the like, up to a 50-foot cube), going back a number of days equal to your Wisdom score. For each minute you meditate, you learn about one significant event, beginning with the most recent. Significant events typically involve powerful emotions, such as battles and betrayals, marriages and murders, births and funerals. However, they might also include more mundane events that are nevertheless important in your current situation.
+
+## Player-Facing Summary
+
+Cleric xphb knowledge domain is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb knowledge domain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb knowledge domain.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb knowledge domain to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb knowledge domain to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb knowledge domain active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

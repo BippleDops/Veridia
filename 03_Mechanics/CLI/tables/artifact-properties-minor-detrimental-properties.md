@@ -37,3 +37,23 @@ modified: 2025-07-23 12:39
 | 91-95 | While attuned to the artifact, you must eat and drink six times the normal amount each day. |
 | 96-00 | While you are attuned to the artifact, your flaw is amplified in a way determined by the DM. |
 ^minor-detrimental-properties
+
+## Player-Facing Summary
+
+Artifact properties minor detrimental properties is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of artifact properties minor detrimental properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties minor detrimental properties.
+
+## Adventure Hooks
+
+- A rumor ties artifact properties minor detrimental properties to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at artifact properties minor detrimental properties to avert a public scandal.
+- A map overlay reveals a hidden approach to artifact properties minor detrimental properties active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

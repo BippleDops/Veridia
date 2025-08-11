@@ -67,3 +67,23 @@ The infernal legacy connects tieflings not only to Gehenna but also the Nine Hel
 > [!gallery]
 ![Infernal Tiefling, Chthoni...](/03_Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling")
 ![](/03_Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp)
+
+## Player-Facing Summary
+
+Tiefling xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of tiefling xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tiefling xphb.
+
+## Adventure Hooks
+
+- A rumor ties tiefling xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at tiefling xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to tiefling xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

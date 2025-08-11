@@ -236,3 +236,23 @@ The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian]], where 
 - [[Scream Saturation Rules]]
 - [[Memory Parasite Infection]]
 - [[Crystallization Process]]
+
+## Player-Facing Summary
+
+Screaming Gardens is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Screaming Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Screaming Gardens.
+
+## Adventure Hooks
+
+- A rumor ties Screaming Gardens to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Screaming Gardens to avert a public scandal.
+- A map overlay reveals a hidden approach to Screaming Gardens active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Screaming Gardens]]
+
+<!-- enriched: true -->

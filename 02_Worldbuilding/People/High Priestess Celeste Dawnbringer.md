@@ -449,3 +449,23 @@ Wonders if her treatments actually heal the queen or simply postpone inevitable 
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+High Priestess Celeste Dawnbringer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of High Priestess Celeste Dawnbringer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Celeste Dawnbringer.
+
+## Adventure Hooks
+
+- A rumor ties High Priestess Celeste Dawnbringer to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at High Priestess Celeste Dawnbringer to avert a public scandal.
+- A map overlay reveals a hidden approach to High Priestess Celeste Dawnbringer active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]
+
+<!-- enriched: true -->

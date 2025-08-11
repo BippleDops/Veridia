@@ -410,3 +410,17 @@ A being from the future attempting to prevent disasters by gathering information
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
 - [[The Sunken Library of Thalassius]]
+
+## Player-Facing Summary
+
+The Nameless Auditor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Nameless Auditor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Nameless Auditor.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Nameless Auditor]]
+
+<!-- enriched: true -->

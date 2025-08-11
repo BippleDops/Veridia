@@ -32,3 +32,23 @@ You fortify up to six creatures you can see within range. The spell bestows 120 
 **Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 306*
+
+## Player-Facing Summary
+
+Power word fortify xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of power word fortify xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around power word fortify xphb.
+
+## Adventure Hooks
+
+- A rumor ties power word fortify xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at power word fortify xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to power word fortify xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

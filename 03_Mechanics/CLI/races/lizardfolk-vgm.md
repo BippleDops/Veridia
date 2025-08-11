@@ -138,3 +138,23 @@ Lizardfolk take their names from the Draconic language. They use simple descript
 Lizardfolk make no distinction between male and female in their naming conventions. Each example name includes its translation in parenthesis.
 
 - **Lizardfolk Names.** Achuak (green), Aryte (war), Baeshra (animal), Darastrix (dragon), Garurt (axe), Irhtos (secret), Jhank (hammer), Kepesk (storm), Kethend (gem), Korth (danger), Kosj (small), Kothar (demon), Litrix (armor), Mirik (song), Othokent (smart), Sauriv (eye), Throden (many), Thurkear (night), Usk (iron), Valignat (burn), Vargach (battle), Verthica (mountain), Vutha (black), Vyth (steel)
+
+## Player-Facing Summary
+
+Lizardfolk vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of lizardfolk vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lizardfolk vgm.
+
+## Adventure Hooks
+
+- A rumor ties lizardfolk vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at lizardfolk vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to lizardfolk vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

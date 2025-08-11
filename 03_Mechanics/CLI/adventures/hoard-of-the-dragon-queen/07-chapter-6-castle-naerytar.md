@@ -734,3 +734,23 @@ To travel through the gate, a command word must be spoken aloud (a whisper will 
 ## Rewards
 
 Award standard XP for defeated foes. If you are using the milestone experience rule, the characters reach 6th level after activating the gate.
+
+## Player-Facing Summary
+
+07 chapter 6 castle naerytar is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 07 chapter 6 castle naerytar as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 6 castle naerytar.
+
+## Adventure Hooks
+
+- A rumor ties 07 chapter 6 castle naerytar to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 07 chapter 6 castle naerytar to avert a public scandal.
+- A map overlay reveals a hidden approach to 07 chapter 6 castle naerytar active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

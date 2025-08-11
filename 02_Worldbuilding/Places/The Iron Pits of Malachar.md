@@ -256,3 +256,21 @@ The Iron Pits of Malachar are a massive mining complex in the depths of [[02_Wor
 - Crystal corruption reaching critical contamination levels
 - Malachar's ghost growing more powerful and aggressive
 - External military forces planning coordinated assault on facility
+
+## Player-Facing Summary
+
+The Iron Pits of Malachar is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Iron Pits of Malachar as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Iron Pits of Malachar.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Iron Pits of Malachar]]
+
+<!-- enriched: true -->

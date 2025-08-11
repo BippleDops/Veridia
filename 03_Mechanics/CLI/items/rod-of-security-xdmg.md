@@ -30,3 +30,23 @@ For each hour spent in the demiplane, a visitor regains [Hit Points](/03_Mechani
 When the time runs out or you take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to end the effect, all visitors reappear in the location they occupied when you activated the rod or an unoccupied space nearest that location. Once used, this property can't be used again until 10 days have passed.
 
 *Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Rod of security xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rod of security xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rod of security xdmg.
+
+## Adventure Hooks
+
+- A rumor ties rod of security xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rod of security xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to rod of security xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

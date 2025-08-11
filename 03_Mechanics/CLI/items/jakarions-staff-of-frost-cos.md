@@ -37,3 +37,23 @@ The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the la
 Imprinted on this staff is a fragment of a dead wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
 *Source: Curse of Strahd p. 187*
+
+## Player-Facing Summary
+
+Jakarions staff of frost cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of jakarions staff of frost cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around jakarions staff of frost cos.
+
+## Adventure Hooks
+
+- A rumor ties jakarions staff of frost cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at jakarions staff of frost cos to avert a public scandal.
+- A map overlay reveals a hidden approach to jakarions staff of frost cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -380,3 +380,23 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - Use memory effects to enhance rather than replace character agency
 - Create opportunities for characters to learn from historical experiences
 - Balance danger with potential benefits of memory storm exposure
+
+## Player-Facing Summary
+
+The Memory Storm Fields is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Memory Storm Fields as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Storm Fields.
+
+## Adventure Hooks
+
+- A rumor ties The Memory Storm Fields to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Memory Storm Fields to avert a public scandal.
+- A map overlay reveals a hidden approach to The Memory Storm Fields active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Memory Storm Fields]]
+
+<!-- enriched: true -->

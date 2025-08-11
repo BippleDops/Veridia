@@ -701,3 +701,23 @@ Kraken territories present unique environmental conditions that create both obst
 
 - [[Leviathan Graveyard]]
 - [[The Deep Mother]]
+
+## Player-Facing Summary
+
+Kraken Territories is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Kraken Territories as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Kraken Territories.
+
+## Adventure Hooks
+
+- A rumor ties Kraken Territories to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Kraken Territories to avert a public scandal.
+- A map overlay reveals a hidden approach to Kraken Territories active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

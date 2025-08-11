@@ -575,3 +575,23 @@ If any of the cultists in the tower are left alive for questioning, or if the ch
 The fact that the Blue Dragon Mask is a forgery is quickly discovered by experts at Waterdeep. It becomes a cause for much concern among the members of the council, some of who see it as a sign that the cult might have placed spies within the council. [Speak with dead](/03_Mechanics/CLI/spells/speak-with-dead-xphb.md) used to contact either [Iskander](/03_Mechanics/CLI/bestiary/npc/iskander-rot.md) or Jorgen Pawl can shed some light on why a false mask might have been supplied to the cultists at Xonthal's Tower, but the false mask might otherwise remain a troubling mystery.
 
 The characters gain a level at the end of this chapter.
+
+## Player-Facing Summary
+
+07 chapter 15 xonthals tower is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 07 chapter 15 xonthals tower as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 15 xonthals tower.
+
+## Adventure Hooks
+
+- A rumor ties 07 chapter 15 xonthals tower to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 07 chapter 15 xonthals tower to avert a public scandal.
+- A map overlay reveals a hidden approach to 07 chapter 15 xonthals tower active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

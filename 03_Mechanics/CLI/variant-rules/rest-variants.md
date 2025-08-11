@@ -25,3 +25,23 @@ Spellcasters using this system can afford to burn through spell slots quickly, e
 This variant uses a short rest of 8 hours and a long rest of 7 days. This puts the brakes on the campaign, requiring the players to carefully judge the benefits and drawbacks of combat. Characters can't afford to engage in too many battles in a row, and all adventuring requires careful planning.
 
 This approach encourages the characters to spend time out of the dungeon. It's a good option for campaigns that emphasize intrigue, politics, and interactions among other PCs, and in which combat is rare or something to be avoided rather than rushed into.
+
+## Player-Facing Summary
+
+Rest variants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rest variants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rest variants.
+
+## Adventure Hooks
+
+- A rumor ties rest variants to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rest variants to avert a public scandal.
+- A map overlay reveals a hidden approach to rest variants active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -174,3 +174,23 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - [[Duke Cyrus Reefheart]]
 - [[Sage Lysander Deepthought]]
 - [[Lumengarde]]
+
+## Player-Facing Summary
+
+Master Cultivator Thalia Greenglow is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Master Cultivator Thalia Greenglow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Cultivator Thalia Greenglow.
+
+## Adventure Hooks
+
+- A rumor ties Master Cultivator Thalia Greenglow to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Master Cultivator Thalia Greenglow to avert a public scandal.
+- A map overlay reveals a hidden approach to Master Cultivator Thalia Greenglow active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Master Cultivator Thalia Greenglow]]
+
+<!-- enriched: true -->

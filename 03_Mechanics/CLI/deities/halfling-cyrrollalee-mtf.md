@@ -28,3 +28,23 @@ Every halfling village tells its version of the legendary tale of Cyrrollalee an
 So Cyrrollalee set all the people in the town to baking pies, but not just any pies. They were special troll pies. Into each one she put a pinch of magic to make them irresistible to trolls. While the warriors of the town grumbled and sharpened their steel, Cyrrollalee created an atmosphere of fun, bringing cheer to the frightened people as they worked. When the day was done, she set off with a cart full of pies and laid them in a tasty trail far up into the mountains. When the troll came near the town and found the trail, it began to gobble up pie after pie, following the delightful smells up the mountain path until it walked right into the lair of a young red dragon. The greedy troll was swiftly incinerated.
 
 Cyrrollalee returned a hero, and from that day forward all the townsfolk remembered her with a word of thanks when baking pies.
+
+## Player-Facing Summary
+
+Halfling cyrrollalee mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of halfling cyrrollalee mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling cyrrollalee mtf.
+
+## Adventure Hooks
+
+- A rumor ties halfling cyrrollalee mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at halfling cyrrollalee mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to halfling cyrrollalee mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

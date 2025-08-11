@@ -519,3 +519,27 @@ Characters operating in the Merchant Quarter gain access to:
 
 - [[Crystallium]]
 - [[Port Meridian - Market Square]]
+
+## Player-Facing Summary
+
+Port Meridian   Merchant Quarter is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Port Meridian   Merchant Quarter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian   Merchant Quarter.
+
+## Adventure Hooks
+
+- A rumor ties Port Meridian   Merchant Quarter to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Port Meridian   Merchant Quarter to avert a public scandal.
+- A map overlay reveals a hidden approach to Port Meridian   Merchant Quarter active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Port Meridian - Merchant Quarter]]
+
+<!-- enriched: true -->

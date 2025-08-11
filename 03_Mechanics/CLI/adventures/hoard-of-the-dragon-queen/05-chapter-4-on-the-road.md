@@ -417,3 +417,23 @@ In the end, the caravan's most prominent merchants agree that without witnesses,
 Most of the cultists never again look at the accused character with anything but undisguised hatred. This animosity becomes important later on in chapter 5.
 
 The murderer was, of course, [Jamna Gleamsilver](/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq.md). Knowing what was in the cargo, she couldn't resist helping herself to some. The theft itself is undetectable, because she left no signs, and the cult isn't carrying a manifest of its looted treasure. The guard interrupted her in the act and had to die; it was just that simple.
+
+## Player-Facing Summary
+
+05 chapter 4 on the road is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 05 chapter 4 on the road as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 4 on the road.
+
+## Adventure Hooks
+
+- A rumor ties 05 chapter 4 on the road to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 05 chapter 4 on the road to avert a public scandal.
+- A map overlay reveals a hidden approach to 05 chapter 4 on the road active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

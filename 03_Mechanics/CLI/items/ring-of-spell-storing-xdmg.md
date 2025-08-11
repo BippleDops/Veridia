@@ -26,3 +26,23 @@ Any creature can cast a spell of level 1 through 5 into the ring by touching the
 While wearing this ring, you can cast any spell stored in it. The spell uses the slot level, spell save DC, spell attack bonus, and spellcasting ability of the original caster but is otherwise treated as if you cast the spell. The spell cast from the ring is no longer stored in it, freeing up space.
 
 *Source: Dungeon Master's Guide (2024) p. 295. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Ring of spell storing xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ring of spell storing xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of spell storing xdmg.
+
+## Adventure Hooks
+
+- A rumor ties ring of spell storing xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ring of spell storing xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to ring of spell storing xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -32,3 +32,23 @@ When you issue the "Harvest" order to this facility, choose one of the following
 - **Harvest.** Poison. You commission the facility's hireling to extract one application of a poison from rare plants or fungi. Choose the type of poison from the following options: [Assassin's Blood](/03_Mechanics/CLI/items/assassins-blood-xdmg.md), [Malice](/03_Mechanics/CLI/items/malice-xdmg.md), [Pale Tincture](/03_Mechanics/CLI/items/pale-tincture-xdmg.md), or [Truth Serum](/03_Mechanics/CLI/items/truth-serum-xdmg.md). See ""Poison"" in "chapter 3" for each poison's effect. Once harvested, the poison can be contained in a vial. The work takes 7 days and costs no money.  
 
 *Source: Dungeon Master's Guide (2024) p. 341*
+
+## Player-Facing Summary
+
+Greenhouse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of greenhouse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greenhouse.
+
+## Adventure Hooks
+
+- A rumor ties greenhouse to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at greenhouse to avert a public scandal.
+- A map overlay reveals a hidden approach to greenhouse active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

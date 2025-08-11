@@ -547,3 +547,17 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 
 - [[Nerissa_Deepcurrent]]
 - [[Senator]]
+
+## Player-Facing Summary
+
+Surface Ambassador Lord Seaworthy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Surface Ambassador Lord Seaworthy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Ambassador Lord Seaworthy.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+
+<!-- enriched: true -->

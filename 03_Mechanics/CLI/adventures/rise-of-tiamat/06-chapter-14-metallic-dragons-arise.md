@@ -178,3 +178,23 @@ The dragons do not prompt the party with options, but the characters can potenti
 ## Conclusion
 
 When the characters have reached a satisfactory agreement with the dragons, Otaaryliakkarnos offers to return to Waterdeep to let the council know an agreement has been reached. The details and terms—including any concessions promised by the characters—can be discussed during the next council session. If the characters do not reach an agreement because they cannot or will not meet the dragons' demands, Otaaryliakkarnos flies them back but departs Waterdeep at once.
+
+## Player-Facing Summary
+
+06 chapter 14 metallic dragons arise is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 06 chapter 14 metallic dragons arise as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 14 metallic dragons arise.
+
+## Adventure Hooks
+
+- A rumor ties 06 chapter 14 metallic dragons arise to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 06 chapter 14 metallic dragons arise to avert a public scandal.
+- A map overlay reveals a hidden approach to 06 chapter 14 metallic dragons arise active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

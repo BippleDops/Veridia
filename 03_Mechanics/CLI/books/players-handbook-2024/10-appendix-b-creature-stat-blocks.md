@@ -67,3 +67,23 @@ The following stat blocks are presented in alphabetical order. When the Dungeon 
 - [Weasel](/03_Mechanics/CLI/bestiary/beast/weasel-xmm.md)  
 - [Wolf](/03_Mechanics/CLI/bestiary/beast/wolf-xmm.md)  
 - [Zombie](/03_Mechanics/CLI/bestiary/undead/zombie-xmm.md)
+
+## Player-Facing Summary
+
+10 appendix b creature stat blocks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 10 appendix b creature stat blocks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix b creature stat blocks.
+
+## Adventure Hooks
+
+- A rumor ties 10 appendix b creature stat blocks to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 10 appendix b creature stat blocks to avert a public scandal.
+- A map overlay reveals a hidden approach to 10 appendix b creature stat blocks active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

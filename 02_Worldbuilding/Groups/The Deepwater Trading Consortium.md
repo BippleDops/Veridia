@@ -39,3 +39,23 @@ The Deepwater Trading Consortium dominates maritime trade across the known world
 ## Connections
 
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+The Deepwater Trading Consortium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Deepwater Trading Consortium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepwater Trading Consortium.
+
+## Adventure Hooks
+
+- A rumor ties The Deepwater Trading Consortium to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Deepwater Trading Consortium to avert a public scandal.
+- A map overlay reveals a hidden approach to The Deepwater Trading Consortium active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

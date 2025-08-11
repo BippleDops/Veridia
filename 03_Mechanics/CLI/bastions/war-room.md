@@ -30,3 +30,23 @@ When you issue the "Recruit" order to this facility, choose one of the following
 - **Recruit.** Soldiers. You commission one or more of your lieutenants to assemble a small army. Each lieutenant can muster one hundred [Guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md) (see the "Monster Manual") in 7 days to fight for your cause. Reduce that number to twenty if you want them to be mounted on [Riding Horses](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) (see the "Monster Manual"). It costs you 1 GP per day to feed each guard and each horse in your army. Wherever the army goes, it must be led by you or at least one of your lieutenants, or else it disbands immediately. The army also disbands if it goes 1 day without being fed. Otherwise, the army remains until it is destroyed or you command it to disband. You can't issue this Recruit order again until your current army disbands or is destroyed.  
 
 *Source: Dungeon Master's Guide (2024) p. 349*
+
+## Player-Facing Summary
+
+War room is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of war room as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around war room.
+
+## Adventure Hooks
+
+- A rumor ties war room to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at war room to avert a public scandal.
+- A map overlay reveals a hidden approach to war room active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

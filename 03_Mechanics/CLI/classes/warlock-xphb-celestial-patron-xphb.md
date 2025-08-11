@@ -87,3 +87,23 @@ You gain [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-po
 When you or an ally within 60 feet of you is about to make a [Death Saving Throw](/03_Mechanics/CLI/variant-rules/death-saving-throw-xphb.md), you can unleash radiant energy to save the creature. The creature regains [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to half its [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum and can end the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition on itself. Each creature of your choice that is within 30 feet of the creature takes Radiant damage equal to `2d8` plus your Charisma modifier, and each has the [Blinded](/03_Mechanics/CLI/conditions.md#Blinded) condition until the end of the current turn.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Warlock xphb celestial patron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of warlock xphb celestial patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb celestial patron xphb.
+
+## Adventure Hooks
+
+- A rumor ties warlock xphb celestial patron xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at warlock xphb celestial patron xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to warlock xphb celestial patron xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

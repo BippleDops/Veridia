@@ -971,3 +971,23 @@ Award experience points based on the following accomplishments:
 *End of Session 1: The Queen's Summons*
 
 **Next Session Preview**: In "Court of Whispers," the PCs begin their investigation in earnest, attending private faction meetings while navigating the complex social dynamics of a grand court festival. Hidden agendas become more apparent as political tensions escalate toward their first major crisis point.
+
+## Player-Facing Summary
+
+Session 1 The Queens Summons is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 1 The Queens Summons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 1 The Queens Summons.
+
+## Adventure Hooks
+
+- A rumor ties Session 1 The Queens Summons to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 1 The Queens Summons to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 1 The Queens Summons active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

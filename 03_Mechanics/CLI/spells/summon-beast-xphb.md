@@ -40,3 +40,23 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](/03_Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 322*
+
+## Player-Facing Summary
+
+Summon beast xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of summon beast xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summon beast xphb.
+
+## Adventure Hooks
+
+- A rumor ties summon beast xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at summon beast xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to summon beast xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

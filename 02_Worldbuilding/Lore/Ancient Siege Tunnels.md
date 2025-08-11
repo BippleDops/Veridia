@@ -196,3 +196,23 @@ EOF < /dev/null
 - [[Bandit Scouts]]
 - [[Rescue Senator Glaucus]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Ancient Siege Tunnels is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ancient Siege Tunnels as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Siege Tunnels.
+
+## Adventure Hooks
+
+- A rumor ties Ancient Siege Tunnels to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ancient Siege Tunnels to avert a public scandal.
+- A map overlay reveals a hidden approach to Ancient Siege Tunnels active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

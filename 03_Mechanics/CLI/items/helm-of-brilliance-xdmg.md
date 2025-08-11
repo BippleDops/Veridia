@@ -43,3 +43,23 @@ You can cast one of the following spells (save DC 18), using one of the helm's g
 Roll `d20` if you are wearing the helm and take Fire damage as a result of failing a saving throw against a spell. On a roll of 1, the helm emits beams of light from its remaining gems and is then destroyed. Each creature within a 60-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you must succeed on a DC 17 Dexterity saving throw or be struck by a beam, taking Radiant damage equal to the number of gems in the helm.
 
 *Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Helm of brilliance xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of helm of brilliance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around helm of brilliance xdmg.
+
+## Adventure Hooks
+
+- A rumor ties helm of brilliance xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at helm of brilliance xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to helm of brilliance xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

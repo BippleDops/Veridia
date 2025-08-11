@@ -90,3 +90,23 @@ Starting at 6th level, when you or a creature within 30 feet of you takes acid, 
 ### Master of Nature (Level 17)
 
 At 17th level, you gain the ability to command animals and plant creatures. While creatures are [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by your Charm Animals and Plants feature, you can take a bonus action on your turn to verbally command what each of those creatures will do on its next turn.
+
+## Player-Facing Summary
+
+Cleric xphb nature domain is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb nature domain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb nature domain.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb nature domain to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb nature domain to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb nature domain active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

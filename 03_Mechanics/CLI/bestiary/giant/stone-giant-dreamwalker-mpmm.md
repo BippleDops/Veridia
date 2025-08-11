@@ -101,3 +101,23 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 ## Environment
 
 coastal, hill, mountain
+
+## Player-Facing Summary
+
+Stone giant dreamwalker mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of stone giant dreamwalker mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around stone giant dreamwalker mpmm.
+
+## Adventure Hooks
+
+- A rumor ties stone giant dreamwalker mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at stone giant dreamwalker mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to stone giant dreamwalker mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

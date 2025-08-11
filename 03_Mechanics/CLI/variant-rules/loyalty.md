@@ -29,3 +29,23 @@ When other party members act in a manner that runs counter to the NPC's alignmen
 An NPC whose loyalty score drops to 0 is no longer loyal to the party and might part ways with them. A loyalty score can never drop below 0.
 
 An NPC with a loyalty score of 10 or higher risks life and limb to help fellow party members. If the NPC's loyalty score is between 1 and 10, its loyalty is tenuous. An NPC whose loyalty drops to 0 no longer acts in the party's best interests. The disloyal NPC either leaves the party (attacking characters who attempt to intervene) or works in secret to bring about the party's downfall.
+
+## Player-Facing Summary
+
+Loyalty is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of loyalty as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around loyalty.
+
+## Adventure Hooks
+
+- A rumor ties loyalty to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at loyalty to avert a public scandal.
+- A map overlay reveals a hidden approach to loyalty active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

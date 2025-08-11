@@ -122,3 +122,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Parliament High Council is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Parliament High Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament High Council.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Parliament High Council]]
+
+<!-- enriched: true -->

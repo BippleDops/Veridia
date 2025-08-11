@@ -95,3 +95,23 @@ The affinity you chose for your Divine Magic feature determines the appearance o
 At 18th level, you gain the ability to overcome grievous injuries. As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Player-Facing Summary
+
+Sorcerer xphb divine soul xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerer xphb divine soul xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb divine soul xge.
+
+## Adventure Hooks
+
+- A rumor ties sorcerer xphb divine soul xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerer xphb divine soul xge to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerer xphb divine soul xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

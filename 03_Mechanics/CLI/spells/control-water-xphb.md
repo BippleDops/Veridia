@@ -65,3 +65,23 @@ You cause a whirlpool to form in the center of the area, which must be at least 
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Cleric (Tempest Domain)](/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain.md "class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Control water xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of control water xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around control water xphb.
+
+## Adventure Hooks
+
+- A rumor ties control water xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at control water xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to control water xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

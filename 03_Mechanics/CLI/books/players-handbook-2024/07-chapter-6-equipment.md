@@ -948,3 +948,23 @@ To scribe a scroll, you must have proficiency in the [Arcana](/03_Mechanics/CLI/
 If the scribed spell is a cantrip, the version on the scroll works as if the caster were your level.
 
 ![Scribing Spell Scrolls; Spell Scroll Costs](/03_Mechanics/CLI/tables/scribing-spell-scrolls-spell-scroll-costs-xphb.md)
+
+## Player-Facing Summary
+
+07 chapter 6 equipment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 07 chapter 6 equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 6 equipment.
+
+## Adventure Hooks
+
+- A rumor ties 07 chapter 6 equipment to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 07 chapter 6 equipment to avert a public scandal.
+- A map overlay reveals a hidden approach to 07 chapter 6 equipment active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

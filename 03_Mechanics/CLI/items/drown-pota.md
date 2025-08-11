@@ -47,3 +47,23 @@ While inside a water node, you can perform a ritual called the Tears of Endless 
 Drown makes its wielder covetous. While attuned to the weapon, you gain the following flaw: "I demand and deserve the largest share of the spoils, and I refuse to part with anything that's mine." In addition, if you are attuned to Drown for 24 consecutive hours, barnacles form on your skin. The barnacles can be removed with a [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic, but not while you are attuned to the weapon.
 
 *Source: Princes of the Apocalypse p. 224*
+
+## Player-Facing Summary
+
+Drown pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of drown pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drown pota.
+
+## Adventure Hooks
+
+- A rumor ties drown pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at drown pota to avert a public scandal.
+- A map overlay reveals a hidden approach to drown pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

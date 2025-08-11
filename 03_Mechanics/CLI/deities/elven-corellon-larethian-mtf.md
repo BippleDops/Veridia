@@ -50,3 +50,23 @@ Stories about the Mysteries are preached by many theologians as examples of Core
 > 
 > The rarest of these blessed elves can change their sex whenever they finish a long rest-a miracle celebrated by elves of all sorts except drow. (The DM decides whether an elf can manifest this miracle.) Dark elves find this ability to be terrifying and characterize it as a curse, for it could destabilize their entire society. If Corellon's blessing manifests in a drow, that elf usually flees to the surface world to seek shelter among those dedicated to Corellon.
 ^the-blessed-of-corellon
+
+## Player-Facing Summary
+
+Elven corellon larethian mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elven corellon larethian mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven corellon larethian mtf.
+
+## Adventure Hooks
+
+- A rumor ties elven corellon larethian mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elven corellon larethian mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elven corellon larethian mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

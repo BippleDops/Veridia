@@ -120,3 +120,23 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 ## Environment
 
 planar, upper
+
+## Player-Facing Summary
+
+Planetar xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of planetar xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around planetar xmm.
+
+## Adventure Hooks
+
+- A rumor ties planetar xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at planetar xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to planetar xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

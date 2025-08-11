@@ -135,4 +135,20 @@ This item is designed to:
 
 ---
 
-*"Some say the compass doesn't find what you're looking for - it finds what needs to be found. Whether that's a blessing or a curse depends on how comfortable you are with the unknown."* - Harbormaster Willem Tidecaller 
+*"Some say the compass doesn't find what you're looking for - it finds what needs to be found. Whether that's a blessing or a curse depends on how comfortable you are with the unknown."* - Harbormaster Willem Tidecaller
+
+## Player-Facing Summary
+
+Harbor Master's Compass is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Harbor Master's Compass as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master's Compass.
+
+## Adventure Hooks
+
+- A rumor ties Harbor Master's Compass to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Harbor Master's Compass to avert a public scandal.
+- A map overlay reveals a hidden approach to Harbor Master's Compass active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -352,3 +352,19 @@ What the party will eventually discover is that Marcus was transporting a collec
 
 > [!danger] DM Secret
 > Marcus discovered that his mysterious client is actually working for a faction that wants to merge the realms, but the client doesn't realize that his superiors plan to sacrifice [[Aquabyssos]] to power [[Aethermoor]]'s expansion. The Lock Fragments aren't just keys to the barrier—they're the realm's life support system. Using them incorrectly won't just merge the worlds; it will drain one to feed the other, potentially destroying millions of lives in the process.
+
+## Player-Facing Summary
+
+Smuggler is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Smuggler as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Smuggler.
+
+## Adventure Hooks
+
+- A rumor ties Smuggler to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Smuggler to avert a public scandal.
+- A map overlay reveals a hidden approach to Smuggler active only during specific tides/storms.
+
+<!-- enriched: true -->

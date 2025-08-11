@@ -62,3 +62,23 @@ Wave zealously encourages mortals to worship sea gods and has a habit of humming
 Wave can be destroyed only on the island of Thunderforge, where it was forged. The weapon must be melted down by a [storm giant](/03_Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) or someone imbued with a storm giant's strength. Destroying Wave angers a god of the sea, who sends powerful agents to attack the island and punish the destroyers.
 
 *Source: Dungeon Master's Guide (2024) p. 323*
+
+## Player-Facing Summary
+
+Wave xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wave xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wave xdmg.
+
+## Adventure Hooks
+
+- A rumor ties wave xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wave xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to wave xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

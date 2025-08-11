@@ -319,3 +319,27 @@ Regardless of the specific outcome, the adventure should leave lasting impacts o
 ## Connections
 
 - [[The Shattered Sanctum]]
+
+## Player-Facing Summary
+
+Quest   The Truth Unveiled is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Truth Unveiled as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Truth Unveiled.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Truth Unveiled to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Truth Unveiled to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Truth Unveiled active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Quest - The Truth Unveiled]]
+
+<!-- enriched: true -->

@@ -80,3 +80,23 @@ After deciding on an action, everyone rolls initiative and applies modifiers, ke
 On its turn, a creature moves as normal but must take the action it selected or take no action at all.
 
 Once everyone has acted, the process repeats. Everyone in the battle selects an action, rolls initiative, and takes turns in order.
+
+## Player-Facing Summary
+
+Initiative variants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of initiative variants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around initiative variants.
+
+## Adventure Hooks
+
+- A rumor ties initiative variants to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at initiative variants to avert a public scandal.
+- A map overlay reveals a hidden approach to initiative variants active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

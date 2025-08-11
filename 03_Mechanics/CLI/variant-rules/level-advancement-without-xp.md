@@ -23,3 +23,23 @@ A good rate of session-based advancement is to have characters reach 2nd level a
 ## Story-Based Advancement
 
 When you let the story of the campaign drive advancement, you award levels when adventurers accomplish significant goals in the campaign.
+
+## Player-Facing Summary
+
+Level advancement without xp is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of level advancement without xp as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around level advancement without xp.
+
+## Adventure Hooks
+
+- A rumor ties level advancement without xp to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at level advancement without xp to avert a public scandal.
+- A map overlay reveals a hidden approach to level advancement without xp active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

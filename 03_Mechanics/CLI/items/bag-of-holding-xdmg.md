@@ -25,3 +25,23 @@ If the bag is overloaded, pierced, or torn, it is destroyed, and its contents ar
 Placing a Bag of Holding inside an extradimensional space created by a [Heward's Handy Haversack](/03_Mechanics/CLI/items/hewards-handy-haversack-xdmg.md), Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within a 10-foot-radius [Sphere](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Bag of holding xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bag of holding xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bag of holding xdmg.
+
+## Adventure Hooks
+
+- A rumor ties bag of holding xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bag of holding xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to bag of holding xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

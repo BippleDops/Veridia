@@ -110,3 +110,23 @@ The target and each creature within 10 feet of it must make a Wisdom saving thro
 ### Shadowy Dodge (Level 15)
 
 When a creature makes an attack roll against you, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to impose [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on that roll. Whether the attack hits or misses, you can then teleport up to 30 feet to an unoccupied space you can see.
+
+## Player-Facing Summary
+
+Ranger xphb gloom stalker xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ranger xphb gloom stalker xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb gloom stalker xphb.
+
+## Adventure Hooks
+
+- A rumor ties ranger xphb gloom stalker xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ranger xphb gloom stalker xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to ranger xphb gloom stalker xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

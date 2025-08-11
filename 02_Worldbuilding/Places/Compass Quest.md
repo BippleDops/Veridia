@@ -394,3 +394,27 @@ The Compass Quest represents one of the signature adventures of Aquabyssos, comb
 ## Connections
 
 - [[The Wandering Atoll]]
+
+## Player-Facing Summary
+
+Compass Quest is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Compass Quest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Compass Quest.
+
+## Adventure Hooks
+
+- A rumor ties Compass Quest to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Compass Quest to avert a public scandal.
+- A map overlay reveals a hidden approach to Compass Quest active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Compass Quest]]
+
+<!-- enriched: true -->

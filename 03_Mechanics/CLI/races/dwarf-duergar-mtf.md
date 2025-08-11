@@ -130,3 +130,23 @@ A dwarf who misuses or brings shame to a clan name is stripped of the name and f
 > 
 > In cities deep in the Underdark live the duergar, or gray dwarves. These vicious, stealthy slave traders raid the surface world for captives, then sell their prey to the other races of the Underdark. They have innate magical abilities to become invisible and to temporarily grow to giant size.
 ^duergar
+
+## Player-Facing Summary
+
+Dwarf duergar mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dwarf duergar mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarf duergar mtf.
+
+## Adventure Hooks
+
+- A rumor ties dwarf duergar mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dwarf duergar mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to dwarf duergar mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

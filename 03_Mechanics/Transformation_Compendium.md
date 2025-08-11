@@ -1055,3 +1055,23 @@ The transformation system should create tension between power and humanity, offe
 
 *"In the depths, transformation is not just possible—it's inevitable. The question is not whether you will change, but what you will choose to become."*
 - Dr. Erasmus Thorne, Final Research Notes
+
+## Player-Facing Summary
+
+Transformation Compendium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Transformation Compendium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Transformation Compendium.
+
+## Adventure Hooks
+
+- A rumor ties Transformation Compendium to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Transformation Compendium to avert a public scandal.
+- A map overlay reveals a hidden approach to Transformation Compendium active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

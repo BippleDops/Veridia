@@ -47,3 +47,23 @@ While crafting a magic item, a character can maintain modest lifestyle without h
 > 
 > If the creation of magic items is commonplace in your campaign, a formula can have a rarity that matches the rarity of the item it allows a character to create. Formulas for common and uncommon items might even be for sale, each with a cost double that of its magic item.
 ^magic-item-formulas
+
+## Player-Facing Summary
+
+Downtime activity crafting a magic item is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity crafting a magic item as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity crafting a magic item.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity crafting a magic item to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity crafting a magic item to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity crafting a magic item active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

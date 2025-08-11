@@ -21,3 +21,23 @@ Some creatures have special speeds, such as a Burrow Speed, [Climb Speed](/03_Me
 ## Changes to Your Speeds
 
 If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a [Climb Speed](/03_Mechanics/CLI/variant-rules/climb-speed-xphb.md), your [Climb Speed](/03_Mechanics/CLI/variant-rules/climb-speed-xphb.md) is also reduced to 0. Similarly, if your Speed is halved and you have a [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md), your [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) is also halved.
+
+## Player-Facing Summary
+
+Speed xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of speed xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around speed xphb.
+
+## Adventure Hooks
+
+- A rumor ties speed xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at speed xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to speed xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

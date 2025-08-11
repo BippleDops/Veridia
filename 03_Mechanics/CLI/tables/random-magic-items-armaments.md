@@ -169,3 +169,23 @@ modified: 2025-07-23 12:39
 | 91–95 | [Sword of Answering](/03_Mechanics/CLI/items/sword-of-answering-xdmg.md) |
 | 96–00 | [Vorpal Sword](/03_Mechanics/CLI/items/vorpal-sword-xdmg.md) |
 ^armaments-legendary
+
+## Player-Facing Summary
+
+Random magic items armaments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of random magic items armaments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items armaments.
+
+## Adventure Hooks
+
+- A rumor ties random magic items armaments to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at random magic items armaments to avert a public scandal.
+- A map overlay reveals a hidden approach to random magic items armaments active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

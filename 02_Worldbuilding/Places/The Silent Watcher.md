@@ -383,3 +383,21 @@ The crystalline structures respond to mental and emotional states:
 - [[Shadow Market Canals]]
 - [[The Whispering Depths]]
 - [[Vote Vaults]]
+
+## Player-Facing Summary
+
+The Silent Watcher is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Silent Watcher as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Silent Watcher.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Silent Watcher]]
+
+<!-- enriched: true -->

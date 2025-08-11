@@ -30,3 +30,23 @@ modified: 2025-07-23 12:39
 | 97-99 | 1 [dragon turtle](/03_Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) |
 | 00 | 1 [kraken](/03_Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) |
 ^underwater-encounters-levels-1120
+
+## Player-Facing Summary
+
+Underwater encounters levels 1120 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of underwater encounters levels 1120 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around underwater encounters levels 1120 xge.
+
+## Adventure Hooks
+
+- A rumor ties underwater encounters levels 1120 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at underwater encounters levels 1120 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to underwater encounters levels 1120 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

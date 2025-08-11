@@ -51,3 +51,23 @@ Any of these effects might appear in the area around a black dragon's lair, in a
 - **Ennui.** Creatures that spend a year within 10 miles of the dragon's lair are filled with listless despair.  
 - **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks. The dragon can suppress this effect at will.  
 - **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.
+
+## Player-Facing Summary
+
+Black dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of black dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black dragon.
+
+## Adventure Hooks
+
+- A rumor ties black dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at black dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to black dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

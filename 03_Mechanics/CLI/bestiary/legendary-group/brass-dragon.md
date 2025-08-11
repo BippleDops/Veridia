@@ -49,3 +49,23 @@ Any of these effects might appear in the area around a brass dragon's lair, in a
 
 - **Cloud Companion.** A small, wispy cloud follows non-evil creatures as they journey within 6 miles of the dragon's lair. It changes direction as the creatures do, remaining interposed between them and the direct glare of the sun, and grants them advantage on saving throws to resist the effects of "extreme heat" (see the "Dungeon Master's Guide").  
 - **Talkative Denizens.** Creatures within 1 mile of the dragon's lair find pleasure in hearing the sound of their own voices. The air is filled with a deafening chorus of birds and small animals, and sapient creatures talk extensively.
+
+## Player-Facing Summary
+
+Brass dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of brass dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brass dragon.
+
+## Adventure Hooks
+
+- A rumor ties brass dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at brass dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to brass dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

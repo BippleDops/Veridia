@@ -109,3 +109,23 @@ When you use your Action Surge, you can teleport up to 30 feet to an unoccupied 
 ### Improved War Magic (Level 18)
 
 When you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action.
+
+## Player-Facing Summary
+
+Fighter xphb eldritch knight xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fighter xphb eldritch knight xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fighter xphb eldritch knight xphb.
+
+## Adventure Hooks
+
+- A rumor ties fighter xphb eldritch knight xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fighter xphb eldritch knight xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to fighter xphb eldritch knight xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

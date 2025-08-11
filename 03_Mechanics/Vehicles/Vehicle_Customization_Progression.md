@@ -39,3 +39,23 @@ Tier 2: Choir Wells • Parasite Countermeasures • Symbiotic Brig
 Tier 3: Cathedral Spine • Living Drydock • Oracle Polyps
 
 Use [[05_Templates/Vehicles/New_Ship_Template|New Ship Template]] to attach upgrade notes per hull.
+
+## Player-Facing Summary
+
+Vehicle Customization Progression is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vehicle Customization Progression as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vehicle Customization Progression.
+
+## Adventure Hooks
+
+- A rumor ties Vehicle Customization Progression to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Vehicle Customization Progression to avert a public scandal.
+- A map overlay reveals a hidden approach to Vehicle Customization Progression active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

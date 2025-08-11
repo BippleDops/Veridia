@@ -109,3 +109,23 @@ Your body, along with any equipment you are wearing or carrying, becomes slimy a
 You can unleash a space-warping anomaly. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you teleport to an unoccupied space you can see within 120 feet of yourself. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw against your spell save DC. On a failed save, a creature takes `3d10` Force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage only.
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+
+## Player-Facing Summary
+
+Sorcerer xphb aberrant sorcery xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerer xphb aberrant sorcery xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb aberrant sorcery xphb.
+
+## Adventure Hooks
+
+- A rumor ties sorcerer xphb aberrant sorcery xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerer xphb aberrant sorcery xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerer xphb aberrant sorcery xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

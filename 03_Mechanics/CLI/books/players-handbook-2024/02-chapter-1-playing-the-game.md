@@ -1254,3 +1254,23 @@ In this scene, threats force a group of adventurers into battle. This example de
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/011-01-012-combat-example.webp#center)
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+
+## Player-Facing Summary
+
+02 chapter 1 playing the game is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 chapter 1 playing the game as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 1 playing the game.
+
+## Adventure Hooks
+
+- A rumor ties 02 chapter 1 playing the game to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 chapter 1 playing the game to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 chapter 1 playing the game active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

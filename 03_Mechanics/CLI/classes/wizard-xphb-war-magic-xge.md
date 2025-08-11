@@ -84,3 +84,23 @@ Beginning at 10th level, the magic you channel helps ward off harm. While you ma
 ### Deflecting Shroud (Level 14)
 
 At 14th level, your Arcane Deflection becomes infused with deadly magic. When you use your Arcane Deflection feature, you can cause magical energy to arc from you. Up to three creatures of your choice that you can see within 60 feet of you each take force damage equal to half your wizard level.
+
+## Player-Facing Summary
+
+Wizard xphb war magic xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb war magic xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb war magic xge.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb war magic xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb war magic xge to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb war magic xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

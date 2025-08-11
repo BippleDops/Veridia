@@ -129,3 +129,23 @@ Integration: Apply Zone Modifiers from [[03_Mechanics/Vehicles/Vehicle_Core_Rule
 
 ### Optional Complication (d20)
 1 Weather worsens • 2 Anchor fails • 3 Rival appears • 4 Time slips • 5 Trade opportunity • 6 Rescue plea • 7 Betrayal • 8 Secret revealed • 9 Map lies • 10 Structural failure • 11 Ammunition scarce • 12 Fuel low • 13 Sanity brink • 14 Creature hunger • 15 Faction ultimatum • 16 Dream intrudes • 17 Reality tier drops • 18 Systems cascade • 19 Crew romance drama • 20 Deep Mother gaze
+
+## Player-Facing Summary
+
+Journey Event Permutation Engine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Journey Event Permutation Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Journey Event Permutation Engine.
+
+## Adventure Hooks
+
+- A rumor ties Journey Event Permutation Engine to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Journey Event Permutation Engine to avert a public scandal.
+- A map overlay reveals a hidden approach to Journey Event Permutation Engine active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

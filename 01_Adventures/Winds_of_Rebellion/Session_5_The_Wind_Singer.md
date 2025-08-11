@@ -1340,3 +1340,23 @@ Each PC should have clear personal investment in the adventure's resolution:
 *End of Session 5: The Wind Singer*
 
 **Next Session Preview**: In "Revolution Dawn," the kingdom's newly unified forces face the foreign fleet in a climactic confrontation that will determine whether spiritual authority and cultural unity can triumph over military superiority and international pressure. The adventure concludes with the PCs helping to shape their realm's future.
+
+## Player-Facing Summary
+
+Session 5 The Wind Singer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 5 The Wind Singer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 5 The Wind Singer.
+
+## Adventure Hooks
+
+- A rumor ties Session 5 The Wind Singer to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 5 The Wind Singer to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 5 The Wind Singer active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

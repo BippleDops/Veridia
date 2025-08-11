@@ -39,3 +39,23 @@ You can take the [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action to pour 
 Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action) and rekindle it again until it has burned for a total of 6 hours.
 
 *Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Oil xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of oil xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around oil xphb.
+
+## Adventure Hooks
+
+- A rumor ties oil xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at oil xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to oil xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -98,3 +98,23 @@ Here are several inspiring works that can help you become a better storyteller, 
 > 
 > **Writers Digest.**, *The Writer's Complete Fantasy Reference.*
 ^3b1
+
+## Player-Facing Summary
+
+14 appendix d dungeon master inspiration is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 14 appendix d dungeon master inspiration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 appendix d dungeon master inspiration.
+
+## Adventure Hooks
+
+- A rumor ties 14 appendix d dungeon master inspiration to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 14 appendix d dungeon master inspiration to avert a public scandal.
+- A map overlay reveals a hidden approach to 14 appendix d dungeon master inspiration active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

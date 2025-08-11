@@ -92,3 +92,23 @@ In addition, whenever you use Warding Flare, you can give the target of the trig
 As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you cause yourself to emit an aura of sunlight that lasts for 1 minute or until you dismiss it (no action required). You emit [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 60-foot radius and [Dim Light](/03_Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 30 feet. Your enemies in the [Bright Light](/03_Mechanics/CLI/variant-rules/bright-light-xphb.md) have [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saving throws against your Radiance of the Dawn and any spell that deals Fire or Radiant damage.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Cleric xphb light domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb light domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb light domain xphb.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb light domain xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb light domain xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb light domain xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

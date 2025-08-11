@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | Ull | Orakhan Drasika Borinok (human) | Independent fiefdom founded by Ulakandar nomads who settled the land |
 | Zeif, the Sultanate of | Sultan Naxas Murad (human) | Monarchy ruled by a reclusive philosopher who resists his advisers' call to imperial expansion |
 ^western-flanaess-locations
+
+## Player-Facing Summary
+
+Western flanaess locations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of western flanaess locations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around western flanaess locations xdmg.
+
+## Adventure Hooks
+
+- A rumor ties western flanaess locations xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at western flanaess locations xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to western flanaess locations xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

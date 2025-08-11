@@ -50,3 +50,23 @@ Any of these effects might appear in the area around a blue dragon's lair, in ad
 - **Blue Luster.** Creatures that spend a year within 1 mile of the dragon's lair find blue objects fascinating and feel compelled to acquire them at every opportunity.  
 - **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](/03_Mechanics/CLI/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
 - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.
+
+## Player-Facing Summary
+
+Blue dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of blue dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blue dragon.
+
+## Adventure Hooks
+
+- A rumor ties blue dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at blue dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to blue dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

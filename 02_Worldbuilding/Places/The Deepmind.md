@@ -322,3 +322,17 @@ Yoth can take one lair action per round:
 - [[Vault Breach]]
 - [[Ambush Point]]
 - [[The Sunken Library of Thalassius]]
+
+## Player-Facing Summary
+
+The Deepmind is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Deepmind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepmind.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Deepmind]]
+
+<!-- enriched: true -->

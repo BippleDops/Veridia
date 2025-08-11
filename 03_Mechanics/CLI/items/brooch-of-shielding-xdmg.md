@@ -21,3 +21,23 @@ modified: 2025-07-23 12:39
 While wearing this brooch, you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Force damage, and you have [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md) to damage from the [Magic Missile](/03_Mechanics/CLI/spells/magic-missile-xphb.md) spell.
 
 *Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Brooch of shielding xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of brooch of shielding xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brooch of shielding xdmg.
+
+## Adventure Hooks
+
+- A rumor ties brooch of shielding xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at brooch of shielding xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to brooch of shielding xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

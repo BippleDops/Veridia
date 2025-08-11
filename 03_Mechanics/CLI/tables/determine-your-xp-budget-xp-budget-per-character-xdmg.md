@@ -37,3 +37,23 @@ modified: 2025-07-23 12:39
 | 19 | 5,500 | 10,700 | 17,200 |
 | 20 | 6,400 | 13,200 | 22,000 |
 ^xp-budget-per-character
+
+## Player-Facing Summary
+
+Determine your xp budget xp budget per character xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of determine your xp budget xp budget per character xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine your xp budget xp budget per character xdmg.
+
+## Adventure Hooks
+
+- A rumor ties determine your xp budget xp budget per character xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at determine your xp budget xp budget per character xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to determine your xp budget xp budget per character xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

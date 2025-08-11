@@ -93,3 +93,23 @@ If an effect forces a [saving throw](/03_Mechanics/CLI/variant-rules/saving-thro
 ## Damage Notation
 
 A stat block usually provides both a static number and a die expression for each instance of damage. For example, an attack might deal 4 (`1d4 + 2`) damage on a hit. The DM determines whether you use the static number or the die expression in parentheses; you don't use both.
+
+## Player-Facing Summary
+
+Stat block xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of stat block xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around stat block xphb.
+
+## Adventure Hooks
+
+- A rumor ties stat block xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at stat block xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to stat block xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -1033,3 +1033,23 @@ If the party acquires Gromph's grimoire, award each character 1,500 XP.
 ## Developments
 
 By the end of this chapter, characters should have Gromph's grimoire and certain knowledge of the archmage's ritual in their possession. Given Grin Ousstyl's information, the characters are faced with a grim choice—place Vizeran's *dark heart* talisman in Menzoberranzan or in some other location. If they decide to leave it in Menzoberranzan, they must also decide how to deal with Grin, and possibly the wrath of Jarlaxle Baenre as well.
+
+## Player-Facing Summary
+
+15 chapter 15 the city of spiders is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 15 chapter 15 the city of spiders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 15 chapter 15 the city of spiders.
+
+## Adventure Hooks
+
+- A rumor ties 15 chapter 15 the city of spiders to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 15 chapter 15 the city of spiders to avert a public scandal.
+- A map overlay reveals a hidden approach to 15 chapter 15 the city of spiders active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

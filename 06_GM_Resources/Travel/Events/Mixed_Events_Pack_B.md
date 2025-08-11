@@ -58,3 +58,23 @@ Complements [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_A|Pack A]].
 - Reality Control: Complication severity -1/+1 by stance; anchor duels frequent.
 - Humanitarian Relief: Portal handoffs; standing-focused outcomes.
 - Pirate Confederacy: Cross-law havens; nets through portals; legal ambiguity.
+
+## Player-Facing Summary
+
+Mixed Events Pack B is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Mixed Events Pack B as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mixed Events Pack B.
+
+## Adventure Hooks
+
+- A rumor ties Mixed Events Pack B to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Mixed Events Pack B to avert a public scandal.
+- A map overlay reveals a hidden approach to Mixed Events Pack B active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

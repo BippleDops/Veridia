@@ -101,3 +101,23 @@ At 20th level, the paladin can, as an action, surround himself or herself with a
 While the aura lasts, the paladin can use a bonus action on his or her turn to cause the shadows in the aura to attack one creature. The paladin makes a melee spell attack against the target. If the attack hits, the target takes necrotic damage equal to `3d10` + the paladin's Charisma modifier.
 
 After activating the aura, the paladin can't do so again until he or she finishes a long rest.
+
+## Player-Facing Summary
+
+Paladin xphb oathbreaker dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of paladin xphb oathbreaker dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paladin xphb oathbreaker dmg.
+
+## Adventure Hooks
+
+- A rumor ties paladin xphb oathbreaker dmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at paladin xphb oathbreaker dmg to avert a public scandal.
+- A map overlay reveals a hidden approach to paladin xphb oathbreaker dmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

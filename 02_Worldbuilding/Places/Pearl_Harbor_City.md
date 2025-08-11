@@ -156,3 +156,27 @@ Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontati
 
 *"In Pearl Harbor, everyone's swimming in the same water - just at different pressures."* 
 - [[Taverner Bubbles McGill]]
+
+## Player-Facing Summary
+
+Pearl Harbor City is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pearl Harbor City as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pearl Harbor City.
+
+## Adventure Hooks
+
+- A rumor ties Pearl Harbor City to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pearl Harbor City to avert a public scandal.
+- A map overlay reveals a hidden approach to Pearl Harbor City active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Pearl_Harbor_City]]
+
+<!-- enriched: true -->

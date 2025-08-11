@@ -177,3 +177,23 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 ## Connections
 
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Lord Commander Gareth Steelborn is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Lord Commander Gareth Steelborn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Commander Gareth Steelborn.
+
+## Adventure Hooks
+
+- A rumor ties Lord Commander Gareth Steelborn to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Lord Commander Gareth Steelborn to avert a public scandal.
+- A map overlay reveals a hidden approach to Lord Commander Gareth Steelborn active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+
+<!-- enriched: true -->

@@ -27,3 +27,23 @@ The target must succeed on a Strength or Dexterity [saving throw](/03_Mechanics/
 ## Shove
 
 The target must succeed on a Strength or Dexterity [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) (it chooses which), or you either push it 5 feet away or cause it to have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition. The DC for the [saving throw](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) equals 8 plus your Strength modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md). This shove is possible only if the target is no more than one size larger than you.
+
+## Player-Facing Summary
+
+Unarmed strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of unarmed strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around unarmed strike xphb.
+
+## Adventure Hooks
+
+- A rumor ties unarmed strike xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at unarmed strike xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to unarmed strike xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

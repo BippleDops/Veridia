@@ -467,3 +467,21 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 - [[Find the Grief Bomb]]
 - [[The Maw of Darkness]]
 - [[The Whispering Expanse]]
+
+## Player-Facing Summary
+
+Temporal Navigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Temporal Navigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Navigation.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Temporal Navigation]]
+
+<!-- enriched: true -->

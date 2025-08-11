@@ -32,3 +32,23 @@ Attacks and other harmful effects deal different types of damage. Damage types h
 | Slashing | Claws, cutting objects |
 | Thunder | Concussive sound |
 ^damage-types
+
+## Player-Facing Summary
+
+Damage types xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of damage types xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around damage types xphb.
+
+## Adventure Hooks
+
+- A rumor ties damage types xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at damage types xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to damage types xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

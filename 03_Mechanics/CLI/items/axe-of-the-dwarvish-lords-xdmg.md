@@ -71,3 +71,23 @@ You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to touch the a
 The only way to destroy the axe is to melt it down in the Earthheart Forge, where it was created. It must remain in the burning forge for 50 years before it finally succumbs to the fire and is consumed.
 
 *Source: Dungeon Master's Guide (2024) p. 231*
+
+## Player-Facing Summary
+
+Axe of the dwarvish lords xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of axe of the dwarvish lords xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around axe of the dwarvish lords xdmg.
+
+## Adventure Hooks
+
+- A rumor ties axe of the dwarvish lords xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at axe of the dwarvish lords xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to axe of the dwarvish lords xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

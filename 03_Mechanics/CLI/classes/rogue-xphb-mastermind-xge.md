@@ -85,3 +85,23 @@ Beginning at 13th level, you can sometimes cause another creature to suffer an a
 Starting at 17th level, your thoughts can't be read by telepathy or other means, unless you allow it. You can present false thoughts by succeeding on a Charisma ([Deception](/03_Mechanics/CLI/skills.md#Deception)) check contested by the mind reader's Wisdom ([Insight](/03_Mechanics/CLI/skills.md#Insight)) check.
 
 Additionally, no matter what you say, magic that would determine if you are telling the truth indicates you are being truthful if you so choose, and you can't be compelled to tell the truth by magic.
+
+## Player-Facing Summary
+
+Rogue xphb mastermind xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb mastermind xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb mastermind xge.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb mastermind xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb mastermind xge to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb mastermind xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

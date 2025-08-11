@@ -41,3 +41,23 @@ Sprinkled throughout the book are observations and musings from two denizens of 
 ### Playtesters:
 
 Robert Alaniz, Jay Anderson, Kevin Baumann, Jerry Behrendt, Bill Benham, Stacy Bermes, Matthew Budde, Mik Calow, Anthony Caroselli, Chris Eadie, Frank Foulis, Jason Fransella, Jason Fuller, Jeffrey Fuller, Nick Graves, Richard Green, Gregory Harris, Ken Hart, Sterling Hershey, Eric Hufstetler, Paul Hughes, Mark Knapik, Yan Lacharité, Shane Leahy, Tom Lommel, Jonathan Longstaff, Matt Maranda, Chris "Kong" McDaniel, Lou Michelli, Mike Mihalas, Daren Mitchell, William Myers, Kevin Neff, Robert Quillen II, David "Oak" Rice, Sam Robertson, Arthur Severance, Pieter Sleijpen, Phil Tobin, Steve Townshend, Kyle Turner, William Vaughan, Arthur Wright
+
+## Player-Facing Summary
+
+6 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 6 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 6 credits.
+
+## Adventure Hooks
+
+- A rumor ties 6 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 6 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 6 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

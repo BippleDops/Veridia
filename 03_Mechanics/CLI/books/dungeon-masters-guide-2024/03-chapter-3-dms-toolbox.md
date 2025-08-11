@@ -1293,3 +1293,23 @@ When designing your own traps, use the Building a Trap table to determine an app
 If the trap requires an attack roll or allows a saving throw, use the appropriate columns on the table to determine the attack bonus or an appropriate save DC.
 
 ![Building Your Own Traps; Building a Trap](/03_Mechanics/CLI/tables/building-your-own-traps-building-a-trap-xdmg.md)
+
+## Player-Facing Summary
+
+03 chapter 3 dms toolbox is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 chapter 3 dms toolbox as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 3 dms toolbox.
+
+## Adventure Hooks
+
+- A rumor ties 03 chapter 3 dms toolbox to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 chapter 3 dms toolbox to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 chapter 3 dms toolbox active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

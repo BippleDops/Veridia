@@ -29,3 +29,23 @@ Sling bullets are used with a weapon that has the ammunition property to make a 
 Sling Bullets are typically stored in a [Pouch](/03_Mechanics/CLI/items/pouch-xphb.md) (bought separately).
 
 *Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+## Player-Facing Summary
+
+Sling bullets 20 xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sling bullets 20 xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sling bullets 20 xphb.
+
+## Adventure Hooks
+
+- A rumor ties sling bullets 20 xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sling bullets 20 xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to sling bullets 20 xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

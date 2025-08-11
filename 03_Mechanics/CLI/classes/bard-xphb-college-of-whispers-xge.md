@@ -100,3 +100,23 @@ The [charmed](/03_Mechanics/CLI/conditions.md#Charmed) creature obeys your comma
 When the effect ends, the creature has no understanding of why it held you in such fear.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Player-Facing Summary
+
+Bard xphb college of whispers xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bard xphb college of whispers xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bard xphb college of whispers xge.
+
+## Adventure Hooks
+
+- A rumor ties bard xphb college of whispers xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bard xphb college of whispers xge to avert a public scandal.
+- A map overlay reveals a hidden approach to bard xphb college of whispers xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

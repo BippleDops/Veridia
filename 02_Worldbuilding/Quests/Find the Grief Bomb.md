@@ -243,3 +243,19 @@ Nullus is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell sa
 
 > [!danger] DM Secret
 > The Grief Bomb contains a fragment of [[The Deep Mother]]'s consciousness, making it partially sentient and capable of adaptive tactics. It "learns" from each attempt to defuse it, becoming harder to stop with repeated failure.
+
+## Player-Facing Summary
+
+Find the Grief Bomb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Find the Grief Bomb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Find the Grief Bomb.
+
+## Adventure Hooks
+
+- A rumor ties Find the Grief Bomb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Find the Grief Bomb to avert a public scandal.
+- A map overlay reveals a hidden approach to Find the Grief Bomb active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -38,3 +38,23 @@ If you have Truesight, your vision is enhanced within a specified range. Within 
 - **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [saving throws](/03_Mechanics/CLI/variant-rules/saving-throw-xphb.md) against them.  
 - **Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.  
 - **Ethereal Plane.** You see into the Ethereal Plane.
+
+## Player-Facing Summary
+
+Senses is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of senses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around senses.
+
+## Adventure Hooks
+
+- A rumor ties senses to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at senses to avert a public scandal.
+- A map overlay reveals a hidden approach to senses active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

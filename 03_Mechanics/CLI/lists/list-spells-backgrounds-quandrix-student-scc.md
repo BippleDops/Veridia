@@ -35,3 +35,23 @@ modified: 2025-07-23 12:39
 
 - [Circle of Power](/03_Mechanics/CLI/spells/circle-of-power-xphb.md "XPHB") with access to 3rd-level spells
 - [Passwall](/03_Mechanics/CLI/spells/passwall-xphb.md "XPHB") with access to 3rd-level spells
+
+## Player-Facing Summary
+
+List spells backgrounds quandrix student scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of list spells backgrounds quandrix student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells backgrounds quandrix student scc.
+
+## Adventure Hooks
+
+- A rumor ties list spells backgrounds quandrix student scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at list spells backgrounds quandrix student scc to avert a public scandal.
+- A map overlay reveals a hidden approach to list spells backgrounds quandrix student scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

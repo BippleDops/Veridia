@@ -35,3 +35,23 @@ A mummy lord's temple or tomb is warped in any of the following ways by the crea
 - A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.  
 
 If the mummy lord is destroyed, these regional effects end immediately.
+
+## Player-Facing Summary
+
+Mummy lord is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mummy lord as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mummy lord.
+
+## Adventure Hooks
+
+- A rumor ties mummy lord to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mummy lord to avert a public scandal.
+- A map overlay reveals a hidden approach to mummy lord active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

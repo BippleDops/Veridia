@@ -163,3 +163,23 @@ The regional map shows just a tiny part of this vast world, in a region called t
 > [!gallery]
 > ![The Sword Coast](/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/the-sword-coast.webp#gallery)
 > ![Player Version](/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/the-sword-coast-player.webp#gallery)
+
+## Player-Facing Summary
+
+1 introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 1 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 introduction.
+
+## Adventure Hooks
+
+- A rumor ties 1 introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 1 introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to 1 introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

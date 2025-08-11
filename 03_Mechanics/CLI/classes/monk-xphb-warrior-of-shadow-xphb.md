@@ -93,3 +93,23 @@ You can move through occupied spaces as if they were [Difficult Terrain](/03_Mec
 #### Shadow Flurry
 
 You can use your Flurry of Blows without expending any Focus Points.
+
+## Player-Facing Summary
+
+Monk xphb warrior of shadow xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monk xphb warrior of shadow xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb warrior of shadow xphb.
+
+## Adventure Hooks
+
+- A rumor ties monk xphb warrior of shadow xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monk xphb warrior of shadow xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to monk xphb warrior of shadow xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

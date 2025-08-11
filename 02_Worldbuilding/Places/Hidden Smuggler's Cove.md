@@ -571,3 +571,21 @@ Environmental damage from crystal corruption may reach a tipping point, forcing 
 - [[The Siren's Rest Tavern]]
 - [[Ambush Point]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
+
+## Player-Facing Summary
+
+Hidden Smuggler's Cove is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Hidden Smuggler's Cove as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hidden Smuggler's Cove.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+
+<!-- enriched: true -->

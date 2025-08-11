@@ -47,3 +47,23 @@ This table provides alternative bonds that characters can have instead of the bo
 | 9 | Years ago, you lost people you loved in a raid by creatures from the Underdark. They disappeared without a trace, either slain or taken into the depths, and you've always wondered whether they might still be alive and held as prisoners. |
 | 10 | You know the dwarf hold of Gauntlgrym well, having fought alongside the dwarves to help reclaim it. King Bruenor Battlehammer congratulated you on your valor, and you know the price the dwarves paid in blood to regain their home. |
 ^bond
+
+## Player-Facing Summary
+
+18 appendix a modifying backgrounds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 18 appendix a modifying backgrounds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 18 appendix a modifying backgrounds.
+
+## Adventure Hooks
+
+- A rumor ties 18 appendix a modifying backgrounds to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 18 appendix a modifying backgrounds to avert a public scandal.
+- A map overlay reveals a hidden approach to 18 appendix a modifying backgrounds active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

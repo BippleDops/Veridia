@@ -1480,3 +1480,23 @@ Each PC should have clear personal reasons for their continued involvement based
 *End of Session 4: Battle Above Clouds*
 
 **Next Session Preview**: In "The Wind Singer," the PCs delve into ancient mysteries as they seek the power to permanently resolve the crisis. Ancient wind magic and forgotten alliances offer hope, but at a price that will test the very foundations of their beliefs and commitments.
+
+## Player-Facing Summary
+
+Session 4 Battle Above Clouds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 4 Battle Above Clouds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 4 Battle Above Clouds.
+
+## Adventure Hooks
+
+- A rumor ties Session 4 Battle Above Clouds to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 4 Battle Above Clouds to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 4 Battle Above Clouds active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

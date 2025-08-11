@@ -447,3 +447,13 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 
 - [[Party Shadows]]
 - [[Aethermoor - Session 03 Council of Shadows]]
+
+## Player-Facing Summary
+
+Shadow Bazaar is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Bazaar as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Bazaar.
+
+<!-- enriched: true -->

@@ -35,3 +35,23 @@ The greatest risk in research is uncovering false information. Not all lore is a
 In addition, a character might run into other complications during research. Every workweek spent in research brings a 10 percent chance of a complication, examples of which are on the Research Complications table.
 
 ![Research Complications](/03_Mechanics/CLI/tables/research-complications-xge.md)
+
+## Player-Facing Summary
+
+Downtime activity research xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity research xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity research xge.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity research xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity research xge to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity research xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -154,3 +154,17 @@ This mission emphasizes planning, stealth, and non-violent solutions over direct
 ## Connections
 
 - [[The Whispering Depths]]
+
+## Player-Facing Summary
+
+The Silent Rescue is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Silent Rescue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Silent Rescue.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Silent Rescue]]
+
+<!-- enriched: true -->

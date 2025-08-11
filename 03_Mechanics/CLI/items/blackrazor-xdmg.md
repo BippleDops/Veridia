@@ -58,3 +58,23 @@ Blackrazor's hunger for souls must be regularly fed. If the sword goes 3 days or
 Blackrazor can be destroyed by crushing it in the great gears of Mechanus. Primus, the creator of the modrons, also knows a series of musical tones that Blackrazor can't stand to hear, causing the sword to shatter.
 
 *Source: Dungeon Master's Guide (2024) p. 236*
+
+## Player-Facing Summary
+
+Blackrazor xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of blackrazor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blackrazor xdmg.
+
+## Adventure Hooks
+
+- A rumor ties blackrazor xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at blackrazor xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to blackrazor xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

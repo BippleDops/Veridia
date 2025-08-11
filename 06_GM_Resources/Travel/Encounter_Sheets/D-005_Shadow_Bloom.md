@@ -49,3 +49,23 @@ Countermeasures: Anchor hymn (Religion DC 14) reduces DCs by 1 for duration
 - Call group Sanity DC 15; on fail, roll madness
 - Sensor DC 16 to clear a path; else Disadvantage on evasion
 - Optional anchor hymn to reduce DCs
+
+## Player-Facing Summary
+
+D 005 Shadow Bloom is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of D 005 Shadow Bloom as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around D 005 Shadow Bloom.
+
+## Adventure Hooks
+
+- A rumor ties D 005 Shadow Bloom to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at D 005 Shadow Bloom to avert a public scandal.
+- A map overlay reveals a hidden approach to D 005 Shadow Bloom active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

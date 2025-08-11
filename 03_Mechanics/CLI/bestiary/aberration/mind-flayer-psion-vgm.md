@@ -134,3 +134,23 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Mind flayer psion vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mind flayer psion vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mind flayer psion vgm.
+
+## Adventure Hooks
+
+- A rumor ties mind flayer psion vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mind flayer psion vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to mind flayer psion vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

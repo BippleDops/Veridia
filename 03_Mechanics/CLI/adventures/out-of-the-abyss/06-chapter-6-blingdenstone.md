@@ -1080,3 +1080,23 @@ The characters can leave Blingdenstone as heroes of the svirfneblin. If they exp
 The characters achieve a great victory if they defeat [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md), but their victory is incomplete. [The Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md)'s death is a small setback for Juiblex, and the demon lord might send another minion to command the remaining oozes in Blingdenstone until they are destroyed.
 
 The "banquet" [the Pudding King](/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota.md) referred to is the demonic rite of domination through which Zuggtmoy plans to transform the Underdark into her new abyssal domain. See chapter 16, "The Fetid Wedding," for more information.
+
+## Player-Facing Summary
+
+06 chapter 6 blingdenstone is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 06 chapter 6 blingdenstone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 6 blingdenstone.
+
+## Adventure Hooks
+
+- A rumor ties 06 chapter 6 blingdenstone to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 06 chapter 6 blingdenstone to avert a public scandal.
+- A map overlay reveals a hidden approach to 06 chapter 6 blingdenstone active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

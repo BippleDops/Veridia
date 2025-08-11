@@ -660,3 +660,23 @@ This technology represents a clear threat to Aquabyssos sovereignty.
 ---
 
 *In the crushing depths where pressure can kill and politics can destroy, the party discovers that some currents run deeper than the ocean itself. As they race through the arteries of Port Meridian, they begin to understand that this conspiracy is not just about stolen ships or corrupt officials—it's about the very future of their underwater world and its relationship with the surface above.*
+
+## Player-Facing Summary
+
+Session 3 Underwater Chase is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 3 Underwater Chase as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 3 Underwater Chase.
+
+## Adventure Hooks
+
+- A rumor ties Session 3 Underwater Chase to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 3 Underwater Chase to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 3 Underwater Chase active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 - [Unbroken Air](/03_Mechanics/CLI/optional-features/unbroken-air.md)
 - [Water Whip](/03_Mechanics/CLI/optional-features/water-whip.md)
 - [Wave of Rolling Earth](/03_Mechanics/CLI/optional-features/wave-of-rolling-earth.md)
+
+## Player-Facing Summary
+
+List optfeaturetype ed is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of list optfeaturetype ed as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list optfeaturetype ed.
+
+## Adventure Hooks
+
+- A rumor ties list optfeaturetype ed to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at list optfeaturetype ed to avert a public scandal.
+- A map overlay reveals a hidden approach to list optfeaturetype ed active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

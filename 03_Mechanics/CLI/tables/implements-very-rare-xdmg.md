@@ -33,3 +33,23 @@ modified: 2025-07-23 12:39
 | 87–93 | [Potion of Speed](/03_Mechanics/CLI/items/potion-of-speed-xdmg.md) |
 | 94–00 | [Tome of Leadership and Influence](/03_Mechanics/CLI/items/tome-of-leadership-and-influence-xdmg.md) |
 ^implements-very-rare
+
+## Player-Facing Summary
+
+Implements very rare xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of implements very rare xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around implements very rare xdmg.
+
+## Adventure Hooks
+
+- A rumor ties implements very rare xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at implements very rare xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to implements very rare xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -264,3 +264,27 @@ The Null Cathedral stands as [[Aquabyssos]]'s most controversial and intellectua
 - [[The Primordial Vaults]]
 - [[Find the Grief Bomb]]
 - [[The Maw of Darkness]]
+
+## Player-Facing Summary
+
+Anti Priest Nullus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Anti Priest Nullus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Anti Priest Nullus.
+
+## Adventure Hooks
+
+- A rumor ties Anti Priest Nullus to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Anti Priest Nullus to avert a public scandal.
+- A map overlay reveals a hidden approach to Anti Priest Nullus active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Anti-Priest Nullus]]
+
+<!-- enriched: true -->

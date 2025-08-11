@@ -21,3 +21,23 @@ modified: 2025-07-23 12:39
 | [Bard](/03_Mechanics/CLI/classes/bard-xphb.md), [Cleric](/03_Mechanics/CLI/classes/cleric-xphb.md), [Druid](/03_Mechanics/CLI/classes/druid-xphb.md), [Monk](/03_Mechanics/CLI/classes/monk-xphb.md), [Rogue](/03_Mechanics/CLI/classes/rogue-xphb.md), or [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | 8 + Con. modifier |
 | [Sorcerer](/03_Mechanics/CLI/classes/sorcerer-xphb.md) or [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | 6 + Con. modifier |
 ^level-1-hit-points-by-class
+
+## Player-Facing Summary
+
+Level 1 hit points by class xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of level 1 hit points by class xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around level 1 hit points by class xphb.
+
+## Adventure Hooks
+
+- A rumor ties level 1 hit points by class xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at level 1 hit points by class xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to level 1 hit points by class xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

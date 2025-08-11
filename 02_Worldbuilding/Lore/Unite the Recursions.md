@@ -483,3 +483,23 @@ The real question isn't whether to unite the recursions, but whether the party w
 - [[02_Worldbuilding/Places/The Recursion Nexus]]
 
 *"To Unite the Recursions is to choose one truth from infinite lies, one path from all possibilities, one reality from endless dreams. The question is not can we, but should we, and if we should, which we should do it?"*
+
+## Player-Facing Summary
+
+Unite the Recursions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Unite the Recursions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Unite the Recursions.
+
+## Adventure Hooks
+
+- A rumor ties Unite the Recursions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Unite the Recursions to avert a public scandal.
+- A map overlay reveals a hidden approach to Unite the Recursions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

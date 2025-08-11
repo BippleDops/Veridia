@@ -82,3 +82,23 @@ Starting at 13th level, you can use a bonus action on your turn to gain advantag
 ### Master Duelist (Level 17)
 
 Beginning at 17th level, your mastery of the blade lets you turn failure into success in combat. If you miss with an attack roll, you can roll it again with advantage. Once you do so, you can't use this feature again until you finish a short or long rest.
+
+## Player-Facing Summary
+
+Rogue xphb swashbuckler xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb swashbuckler xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb swashbuckler xge.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb swashbuckler xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb swashbuckler xge to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb swashbuckler xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

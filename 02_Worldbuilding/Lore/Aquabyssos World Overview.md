@@ -274,3 +274,23 @@ Navigation and manipulation of spaces that shouldn't exist:
 3. **The Second Drowning**: Aquabyssos succeeds in submerging Aethermoor
 4. **Synthesis**: Merger of crystal and depth magic creates new horror
 5. **Mutual Destruction**: Both realms fall to their respective corruptions
+
+## Player-Facing Summary
+
+Aquabyssos World Overview is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aquabyssos World Overview as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos World Overview.
+
+## Adventure Hooks
+
+- A rumor ties Aquabyssos World Overview to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aquabyssos World Overview to avert a public scandal.
+- A map overlay reveals a hidden approach to Aquabyssos World Overview active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -92,3 +92,23 @@ Starting at 14th level, you can use your action to consume the reserve of transm
 - **Panacea.** You remove all curses, diseases, and poisons affecting a creature that you touch with the transmuter's stone. The creature also regains all its hit points.  
 - **Restore Life.** You cast the [raise dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) spell on a creature you touch with the transmuter's stone, without expending a spell slot or needing to have the spell in your spellbook.  
 - **Restore Youth.** You touch the transmuter's stone to a willing creature, and that creature's apparent age is reduced by `3d10` years, to a minimum of 13 years. This effect doesn't extend the creature's lifespan.
+
+## Player-Facing Summary
+
+Wizard xphb school of transmutation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb school of transmutation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb school of transmutation.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb school of transmutation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb school of transmutation to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb school of transmutation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

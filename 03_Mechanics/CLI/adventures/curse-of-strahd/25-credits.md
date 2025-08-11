@@ -58,3 +58,23 @@ modified: 2025-07-23 12:39
 ^326
 
 ![On the Cover: the master o...](/03_Mechanics/CLI/adventures/curse-of-strahd/img/credits.webp#center "On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds.")
+
+## Player-Facing Summary
+
+25 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 25 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 25 credits.
+
+## Adventure Hooks
+
+- A rumor ties 25 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 25 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 25 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

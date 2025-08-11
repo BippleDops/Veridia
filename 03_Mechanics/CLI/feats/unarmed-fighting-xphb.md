@@ -16,3 +16,23 @@ modified: 2025-07-23 12:39
 When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to `d6` plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the `d6` becomes a `d8`.
 
 At the start of each of your turns, you can deal `d4` Bludgeoning damage to one creature [Grappled](/03_Mechanics/CLI/conditions.md#Grappled) by you.
+
+## Player-Facing Summary
+
+Unarmed fighting xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of unarmed fighting xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around unarmed fighting xphb.
+
+## Adventure Hooks
+
+- A rumor ties unarmed fighting xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at unarmed fighting xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to unarmed fighting xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

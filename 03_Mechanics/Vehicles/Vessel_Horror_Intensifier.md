@@ -34,3 +34,23 @@ Turn ships into characters and haunted spaces. Hooks deeply into [[Sanity System
 - Exorcism/Communion: Anchor rites vs. Deep Mother bargains
 
 Tables are expanded under [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]].
+
+## Player-Facing Summary
+
+Vessel Horror Intensifier is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vessel Horror Intensifier as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vessel Horror Intensifier.
+
+## Adventure Hooks
+
+- A rumor ties Vessel Horror Intensifier to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Vessel Horror Intensifier to avert a public scandal.
+- A map overlay reveals a hidden approach to Vessel Horror Intensifier active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

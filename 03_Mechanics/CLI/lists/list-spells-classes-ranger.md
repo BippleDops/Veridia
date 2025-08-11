@@ -94,3 +94,23 @@ modified: 2025-07-23 12:39
 - [Swift Quiver](/03_Mechanics/CLI/spells/swift-quiver-xphb.md "XPHB")
 - [Tree Stride](/03_Mechanics/CLI/spells/tree-stride-xphb.md "XPHB")
 - [Wrath of Nature](/03_Mechanics/CLI/spells/wrath-of-nature-xge.md "XGE") (\*)
+
+## Player-Facing Summary
+
+List spells classes ranger is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of list spells classes ranger as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes ranger.
+
+## Adventure Hooks
+
+- A rumor ties list spells classes ranger to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at list spells classes ranger to avert a public scandal.
+- A map overlay reveals a hidden approach to list spells classes ranger active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

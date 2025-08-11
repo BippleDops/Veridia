@@ -33,3 +33,23 @@ This reinforced [lute](/03_Mechanics/CLI/items/lute-xphb.md) can be wielded as a
 If you're a Bard, you can use your Charisma modifier instead of your Strength modifier when making a melee attack roll with the [lute](/03_Mechanics/CLI/items/lute-xphb.md), provided you sing or hum while making the attack.
 
 *Source: Dungeon Master's Guide (2024) p. 275*
+
+## Player-Facing Summary
+
+Lute of thunderous thumping xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of lute of thunderous thumping xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lute of thunderous thumping xdmg.
+
+## Adventure Hooks
+
+- A rumor ties lute of thunderous thumping xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at lute of thunderous thumping xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to lute of thunderous thumping xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

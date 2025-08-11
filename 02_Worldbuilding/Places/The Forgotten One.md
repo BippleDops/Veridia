@@ -415,3 +415,21 @@ Certain divine magic works differently near the site, suggesting it may have con
 
 - [[Sage Lysander Deepthought]]
 - [[The Primordial Vaults]]
+
+## Player-Facing Summary
+
+The Forgotten One is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Forgotten One as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten One.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Forgotten One]]
+
+<!-- enriched: true -->

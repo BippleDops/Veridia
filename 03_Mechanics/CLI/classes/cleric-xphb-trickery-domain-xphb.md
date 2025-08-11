@@ -106,3 +106,23 @@ When you and your allies make attack rolls against a creature within 5 feet of t
 #### Healing Illusion
 
 When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Cleric level.
+
+## Player-Facing Summary
+
+Cleric xphb trickery domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb trickery domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb trickery domain xphb.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb trickery domain xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb trickery domain xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb trickery domain xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

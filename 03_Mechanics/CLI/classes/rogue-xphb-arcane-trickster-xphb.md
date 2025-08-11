@@ -107,3 +107,23 @@ You gain the ability to magically steal the knowledge of how to cast a spell fro
 Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.
 
 Once you steal a spell with this feature, you can't use this feature again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Rogue xphb arcane trickster xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb arcane trickster xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb arcane trickster xphb.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb arcane trickster xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb arcane trickster xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb arcane trickster xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -37,3 +37,23 @@ modified: 2025-07-23 12:39
 | [Vecna](/03_Mechanics/CLI/deities/dawn-war-vecna-dmg.md), god of evil secrets | NE | Death, Knowledge | Partially shattered one-eyed skull |
 | [Zehir](/03_Mechanics/CLI/deities/dawn-war-zehir-dmg.md), god of darkness and poison | CE | Trickery, Death | Snake in the shape of a dagger |
 ^dawn-war-deities
+
+## Player-Facing Summary
+
+A sample pantheon dawn war deities is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of a sample pantheon dawn war deities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around a sample pantheon dawn war deities.
+
+## Adventure Hooks
+
+- A rumor ties a sample pantheon dawn war deities to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at a sample pantheon dawn war deities to avert a public scandal.
+- A map overlay reveals a hidden approach to a sample pantheon dawn war deities active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -97,3 +97,23 @@ Successful entertainers have to be able to capture and hold an audience's attent
 | 5 | I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble. |
 | 6 | Despite my best efforts, I am unreliable to my friends. |
 ^flaw
+
+## Player-Facing Summary
+
+Entertainer gladiator variant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of entertainer gladiator variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around entertainer gladiator variant.
+
+## Adventure Hooks
+
+- A rumor ties entertainer gladiator variant to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at entertainer gladiator variant to avert a public scandal.
+- A map overlay reveals a hidden approach to entertainer gladiator variant active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -216,3 +216,21 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - [[Quest - The Pretender's Crown]]
 - [[Campaign_Quick_Reference_Sheets]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Port Meridian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Port Meridian]]
+
+<!-- enriched: true -->

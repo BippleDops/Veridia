@@ -666,3 +666,27 @@ Decisions about supernatural integration and cosmic adaptation will affect futur
 ## Connections
 
 - [[The Maw of Darkness]]
+
+## Player-Facing Summary
+
+Abyssos Prime   Parliament of Echoes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Abyssos Prime   Parliament of Echoes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime   Parliament of Echoes.
+
+## Adventure Hooks
+
+- A rumor ties Abyssos Prime   Parliament of Echoes to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Abyssos Prime   Parliament of Echoes to avert a public scandal.
+- A map overlay reveals a hidden approach to Abyssos Prime   Parliament of Echoes active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Abyssos Prime - Parliament of Echoes]]
+
+<!-- enriched: true -->

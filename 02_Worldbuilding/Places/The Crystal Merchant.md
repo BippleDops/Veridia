@@ -158,3 +158,17 @@ Prism serves as both shop keeper and quest giver, providing magical items and in
 ## Connections
 
 - [[Old Valdris]]
+
+## Player-Facing Summary
+
+The Crystal Merchant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crystal Merchant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Merchant.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Crystal Merchant]]
+
+<!-- enriched: true -->

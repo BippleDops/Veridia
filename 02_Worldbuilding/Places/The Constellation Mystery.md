@@ -172,3 +172,17 @@ Scholars and mystics believe the shifting constellations herald either great for
 
 ## DM Notes
 This mystery combines cosmic horror elements with scholarly investigation. The shifting constellations should feel ominous and significant. Use the investigation to reveal deeper campaign lore and set up future cosmic threats or opportunities.
+
+## Player-Facing Summary
+
+The Constellation Mystery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Constellation Mystery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Constellation Mystery.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Constellation Mystery]]
+
+<!-- enriched: true -->

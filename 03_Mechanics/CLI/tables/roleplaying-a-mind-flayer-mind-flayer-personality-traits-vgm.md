@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | I find battle stimulating. |
 | 8 | I'm curious about the limits of other creatures' intelligence and devise situations to test them. |
 ^mind-flayer-personality-traits
+
+## Player-Facing Summary
+
+Roleplaying a mind flayer mind flayer personality traits vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of roleplaying a mind flayer mind flayer personality traits vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a mind flayer mind flayer personality traits vgm.
+
+## Adventure Hooks
+
+- A rumor ties roleplaying a mind flayer mind flayer personality traits vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at roleplaying a mind flayer mind flayer personality traits vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to roleplaying a mind flayer mind flayer personality traits vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

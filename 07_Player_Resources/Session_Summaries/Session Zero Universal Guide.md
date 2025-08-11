@@ -339,3 +339,23 @@ Rate 1-5 (1=less, 5=more):
 Once everyone agrees to the above, we begin our journey into Aquabyssos. The pressure awaits, the shadows stir, and somewhere in the depths, the Mother dreams...
 
 **See you in the depths!**
+
+## Player-Facing Summary
+
+Session Zero Universal Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session Zero Universal Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session Zero Universal Guide.
+
+## Adventure Hooks
+
+- A rumor ties Session Zero Universal Guide to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session Zero Universal Guide to avert a public scandal.
+- A map overlay reveals a hidden approach to Session Zero Universal Guide active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

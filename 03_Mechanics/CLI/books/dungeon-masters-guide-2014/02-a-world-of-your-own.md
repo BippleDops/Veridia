@@ -1152,3 +1152,23 @@ Having players refer to a tetsubo or a katana rather than a greatclub or a longs
 The renowned paladin Murlynd, from the world of Oerth (as featured in Greyhawk novels and game products), dresses in the traditional garb of Earth's Old West and wears a pair of six-shooters strapped to his waist. The Mace of St. Cuthbert, a holy weapon belonging to Greyhawk's god of justice, found its way to the Victoria and Albert Museum in London in 1985. Somewhere in the Barrier Peaks of Oerth, the wreckage of a spacefaring vessel is said to lie, with bizarre alien lifeforms and strange items of technology on board. And the famous wizard Elminster of the Forgotten Realms has been said to make occasional appearances in the kitchen of Canadian writer Ed Greenwood—where he is sometimes joined by wizards from the worlds of Oerth and Krynn (homeworld of the Dragonlance saga).
 
 Deep in D&D's roots are elements of science fiction and science fantasy, and your campaign might draw on those sources as well. It's okay to send your characters hurtling through a magic mirror to Lewis Carroll's Wonderland, put them aboard a ship traveling between the stars, or set your campaign in a far-future world where laser blasters and magic missiles exist side by side. The possibilities are limitless. Chapter 9, "Dungeon Master's Workshop" provides tools for exploring those possibilities.
+
+## Player-Facing Summary
+
+02 a world of your own is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 a world of your own as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 a world of your own.
+
+## Adventure Hooks
+
+- A rumor ties 02 a world of your own to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 a world of your own to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 a world of your own active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

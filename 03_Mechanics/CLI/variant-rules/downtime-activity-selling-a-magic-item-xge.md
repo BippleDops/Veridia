@@ -38,3 +38,23 @@ A character who wants to sell an item must make a Charisma ([Persuasion](/03_Mec
 The main risk in selling a magic item lies in attracting thieves and anyone else who wants the item but doesn't want to pay for it. Other folk might try to undermine a deal in order to bolster their own business or seek to discredit the character as a legitimate seller. Every workweek spent trying to sell an item brings a 10 percent chance of a complication, examples of which are on the Magic Item Sale Complications table.
 
 ![Magic Item Sale Complications](/03_Mechanics/CLI/tables/magic-item-sale-complications-xge.md)
+
+## Player-Facing Summary
+
+Downtime activity selling a magic item xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity selling a magic item xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity selling a magic item xge.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity selling a magic item xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity selling a magic item xge to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity selling a magic item xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

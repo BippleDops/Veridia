@@ -158,3 +158,22 @@ The answer may determine whether his gambit saves both worlds or delivers them d
 
 *"A king rules one realm, but a gambiteer shapes destiny itself across all possible worlds."* - Final recorded words of Emperor Thalassius the Wise
 
+## Player-Facing Summary
+
+The Emperor's Gambit is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Emperor's Gambit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emperor's Gambit.
+
+## Adventure Hooks
+
+- A rumor ties The Emperor's Gambit to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Emperor's Gambit to avert a public scandal.
+- A map overlay reveals a hidden approach to The Emperor's Gambit active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

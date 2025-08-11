@@ -37,3 +37,23 @@ modified: 2025-07-23 12:39
 > [!gallery]
 > ![On the Cover: On this cove...](/03_Mechanics/CLI/books/monster-manual-2025/img/029-29-002-traditional-cover.webp#gallery "On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?")
 > ![On the Alt-Cover: Got some...](/03_Mechanics/CLI/books/monster-manual-2025/img/030-29-003-alt-cover.webp#gallery "On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards.")
+
+## Player-Facing Summary
+
+5 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 5 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 credits.
+
+## Adventure Hooks
+
+- A rumor ties 5 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 5 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 5 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

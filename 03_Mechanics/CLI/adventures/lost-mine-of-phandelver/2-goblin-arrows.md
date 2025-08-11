@@ -400,3 +400,23 @@ Level advancement rules for characters are provided on loose sheets included in 
 In the next part of the adventure, you'll award XP differently. The characters will earn experience points based on the monsters and traps they overcome, the NPCs they interact with, and the goals they accomplish.
 
 If the adventurers come up with a nonviolent way to neutralize the threat that a monster poses, award them experience points as if they had defeated it.
+
+## Player-Facing Summary
+
+2 goblin arrows is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 2 goblin arrows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 goblin arrows.
+
+## Adventure Hooks
+
+- A rumor ties 2 goblin arrows to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 2 goblin arrows to avert a public scandal.
+- A map overlay reveals a hidden approach to 2 goblin arrows active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

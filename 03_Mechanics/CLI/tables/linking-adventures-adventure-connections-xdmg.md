@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | Have travelers bring news of events transpiring elsewhere, leading characters toward the new adventure. |
 | 6 | Give the characters a treasure that's wrapped in mystery they'll need to unravel in the new adventure. |
 ^adventure-connections
+
+## Player-Facing Summary
+
+Linking adventures adventure connections xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of linking adventures adventure connections xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around linking adventures adventure connections xdmg.
+
+## Adventure Hooks
+
+- A rumor ties linking adventures adventure connections xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at linking adventures adventure connections xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to linking adventures adventure connections xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

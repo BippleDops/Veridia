@@ -94,3 +94,23 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
 ## Environment
 
 coastal, desert, grassland, hill, mountain, underdark
+
+## Player-Facing Summary
+
+Cyclops oracle xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cyclops oracle xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cyclops oracle xmm.
+
+## Adventure Hooks
+
+- A rumor ties cyclops oracle xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cyclops oracle xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to cyclops oracle xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

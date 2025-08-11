@@ -132,3 +132,23 @@ Complements Packs A and B. Use with core systems and vehicle rules.
 - Reality Control: Severity -1 allied; +1 opposed.
 - Humanitarian Relief: Rescues +1 freq; standing > gp.
 - Pirate Confederacy: Boarding/mines more frequent.
+
+## Player-Facing Summary
+
+Depth Events Pack C is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Depth Events Pack C as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Events Pack C.
+
+## Adventure Hooks
+
+- A rumor ties Depth Events Pack C to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Depth Events Pack C to avert a public scandal.
+- A map overlay reveals a hidden approach to Depth Events Pack C active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

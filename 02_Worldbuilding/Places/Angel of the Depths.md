@@ -230,3 +230,27 @@ The Angel of the Depths connects to numerous other locations and NPCs:
 - **Other Corrupted Sites**: Part of a network of locations affected by shadow corruption
 
 *The Angel of the Depths stands as a testament to both the heights of divine aspiration and the depths of corruption's reach. Whether it will serve as a beacon of hope or a harbinger of doom depends largely on the actions of those brave enough to seek it out in the crushing darkness of the deepest ocean.*
+
+## Player-Facing Summary
+
+Angel of the Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Angel of the Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Angel of the Depths.
+
+## Adventure Hooks
+
+- A rumor ties Angel of the Depths to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Angel of the Depths to avert a public scandal.
+- A map overlay reveals a hidden approach to Angel of the Depths active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Angel of the Depths]]
+
+<!-- enriched: true -->

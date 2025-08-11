@@ -65,3 +65,23 @@ modified: 2025-07-23 12:39
 | 99 | 1 [gynosphinx](/03_Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm.md) |
 | 00 | 1 [adult brass dragon](/03_Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md) |
 ^desert-encounters-levels-510
+
+## Player-Facing Summary
+
+Desert encounters levels 510 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of desert encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around desert encounters levels 510 xge.
+
+## Adventure Hooks
+
+- A rumor ties desert encounters levels 510 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at desert encounters levels 510 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to desert encounters levels 510 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

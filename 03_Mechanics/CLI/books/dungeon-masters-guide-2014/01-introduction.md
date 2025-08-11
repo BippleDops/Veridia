@@ -146,3 +146,23 @@ Engage players who like storytelling by...
 - making sure an encounter advances the story in some way.  
 - making their characters' actions help steer future events.  
 - giving NPCs ideals, bonds, and flaws that the adventurers can exploit.
+
+## Player-Facing Summary
+
+01 introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 introduction.
+
+## Adventure Hooks
+
+- A rumor ties 01 introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -36,3 +36,23 @@ A region containing a death tyrant's lair is warped by the creature's unnatural 
 - When a creature hostile to the tyrant and aware of its existence finishes a long rest within 1 mile of the tyrant's lair, roll a `d20` for that creature. On a roll of 10 or lower, the creature is subjected to one random eye ray of the tyrant.  
 
 If the death tyrant dies, these effects fade over the course of `d10` days.
+
+## Player-Facing Summary
+
+Death tyrant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of death tyrant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around death tyrant.
+
+## Adventure Hooks
+
+- A rumor ties death tyrant to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at death tyrant to avert a public scandal.
+- A map overlay reveals a hidden approach to death tyrant active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

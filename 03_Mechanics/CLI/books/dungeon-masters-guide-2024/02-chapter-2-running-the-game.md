@@ -1090,3 +1090,23 @@ A good rate of session-based advancement is to have characters reach level 2 aft
 #### Story-Based Advancement
 
 Rather than having characters gain a level after a certain number of sessions, you can instead tie their advancement to accomplishing particular goals in the campaign. When the characters achieve those goals, they level up. Try to plan significant campaign goals so the characters gain levels at about the same rate as for session-based advancement.
+
+## Player-Facing Summary
+
+02 chapter 2 running the game is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 chapter 2 running the game as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 2 running the game.
+
+## Adventure Hooks
+
+- A rumor ties 02 chapter 2 running the game to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 chapter 2 running the game to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 chapter 2 running the game active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

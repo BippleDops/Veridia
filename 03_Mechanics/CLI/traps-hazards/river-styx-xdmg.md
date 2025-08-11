@@ -21,3 +21,23 @@ The effect can be ended only by the [Greater Restoration](/03_Mechanics/CLI/spel
 Water taken from the River Styx loses its potency after 24 hours, becoming a harmless, foul-tasting liquid. Arcanaloths, night hags, and other fell creatures might know rituals that can prolong the water's potency, at your discretion.
 
 *Source: Dungeon Master's Guide (2024) p. 78*
+
+## Player-Facing Summary
+
+River styx xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of river styx xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around river styx xdmg.
+
+## Adventure Hooks
+
+- A rumor ties river styx xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at river styx xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to river styx xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

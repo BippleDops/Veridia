@@ -33,3 +33,23 @@ This method of determining ability scores enables you to create a set of three h
 ^ability-score-point-cost
 
 Alternatively, see the Point Buy Calculator.
+
+## Player-Facing Summary
+
+Customizing ability scores phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of customizing ability scores phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around customizing ability scores phb.
+
+## Adventure Hooks
+
+- A rumor ties customizing ability scores phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at customizing ability scores phb to avert a public scandal.
+- A map overlay reveals a hidden approach to customizing ability scores phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

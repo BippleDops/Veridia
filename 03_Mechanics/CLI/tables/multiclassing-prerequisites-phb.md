@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 | [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | Charisma 13 |
 | [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | Intelligence 13 |
 ^multiclassing-prerequisites
+
+## Player-Facing Summary
+
+Multiclassing prerequisites phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of multiclassing prerequisites phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around multiclassing prerequisites phb.
+
+## Adventure Hooks
+
+- A rumor ties multiclassing prerequisites phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at multiclassing prerequisites phb to avert a public scandal.
+- A map overlay reveals a hidden approach to multiclassing prerequisites phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

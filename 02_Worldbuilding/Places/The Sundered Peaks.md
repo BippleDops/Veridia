@@ -241,3 +241,17 @@ Pre-Shattering tunnel system:
 - [[The Forsaken Consortium Collective]]
 - [[The Oracle of the Sundered Peaks]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+The Sundered Peaks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Sundered Peaks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sundered Peaks.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Sundered Peaks]]
+
+<!-- enriched: true -->

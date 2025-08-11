@@ -97,3 +97,23 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 5 | Secretly, I believe that things would be better if I were a tyrant lording over the land. |
 | 6 | I have trouble trusting in my allies. |
 ^flaw
+
+## Player-Facing Summary
+
+Folk hero is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of folk hero as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around folk hero.
+
+## Adventure Hooks
+
+- A rumor ties folk hero to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at folk hero to avert a public scandal.
+- A map overlay reveals a hidden approach to folk hero active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -63,3 +63,23 @@ aliases:
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ambush-drake-hotdq.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Ambush drake hotdq is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ambush drake hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ambush drake hotdq.
+
+## Adventure Hooks
+
+- A rumor ties ambush drake hotdq to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ambush drake hotdq to avert a public scandal.
+- A map overlay reveals a hidden approach to ambush drake hotdq active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

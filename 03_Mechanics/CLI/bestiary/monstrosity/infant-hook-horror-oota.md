@@ -54,3 +54,23 @@ aliases:
 "image": "/03_Mechanics/CLI/bestiary/monstrosity/token/infant-hook-horror-oota.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Infant hook horror oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of infant hook horror oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around infant hook horror oota.
+
+## Adventure Hooks
+
+- A rumor ties infant hook horror oota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at infant hook horror oota to avert a public scandal.
+- A map overlay reveals a hidden approach to infant hook horror oota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

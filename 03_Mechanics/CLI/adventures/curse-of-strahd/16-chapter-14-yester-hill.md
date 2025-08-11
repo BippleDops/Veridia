@@ -154,3 +154,23 @@ The character feels drawn to one of the cairns on the hillside (see area Y2). Wh
 #### Treasure
 
 The rocks of the cairn are heavy but can be rolled aside, revealing a [blood spear](/03_Mechanics/CLI/items/blood-spear-cos.md) (see appendix C) lying amid Kavan's moldy bones. Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
+
+## Player-Facing Summary
+
+16 chapter 14 yester hill is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 16 chapter 14 yester hill as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 chapter 14 yester hill.
+
+## Adventure Hooks
+
+- A rumor ties 16 chapter 14 yester hill to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 16 chapter 14 yester hill to avert a public scandal.
+- A map overlay reveals a hidden approach to 16 chapter 14 yester hill active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

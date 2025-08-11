@@ -508,3 +508,21 @@ The facility's influence extends throughout [[Aquabyssos]] through:
 
 *"The boundary between self and other is merely a construct of limited imagination. Here, we transcend such primitive limitations."*  
 — Master Researcher Zyx'thylla
+
+## Player-Facing Summary
+
+Aboleth Adjunct Yzz is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aboleth Adjunct Yzz as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aboleth Adjunct Yzz.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Aboleth Adjunct Yzz]]
+
+<!-- enriched: true -->

@@ -410,3 +410,17 @@ Matthias receives what he believes are divine visions:
 - [[The Azure Prophet Nerissa]]
 - [[The Emerald Sage Willowbark]]
 - [[The Shadow Singer Naia]]
+
+## Player-Facing Summary
+
+Brother Matthias the Amber Bearer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Brother Matthias the Amber Bearer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Brother Matthias the Amber Bearer.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Brother Matthias the Amber Bearer]]
+
+<!-- enriched: true -->

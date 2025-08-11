@@ -182,3 +182,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Quieting the Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quieting the Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quieting the Depths.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Quieting the Depths]]
+
+<!-- enriched: true -->

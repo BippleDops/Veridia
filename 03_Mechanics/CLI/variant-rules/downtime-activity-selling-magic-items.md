@@ -46,3 +46,23 @@ You determine a buyer's identity. Buyers sometimes procure rare and very rare it
 | 81-90 | A buyer offering the full base price |
 | 91 or higher | A shady buyer offering one and a half times the base price, no questions asked |
 ^selling-a-magic-item
+
+## Player-Facing Summary
+
+Downtime activity selling magic items is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity selling magic items as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity selling magic items.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity selling magic items to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity selling magic items to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity selling magic items active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

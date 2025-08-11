@@ -481,3 +481,19 @@ This quest provides a masterclass in tactical planning and execution while explo
 ## Connections
 
 - [[Find_the_Missing_Caravan]]
+
+## Player-Facing Summary
+
+Ambush Point is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ambush Point as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ambush Point.
+
+## Adventure Hooks
+
+- A rumor ties Ambush Point to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ambush Point to avert a public scandal.
+- A map overlay reveals a hidden approach to Ambush Point active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -50,3 +50,23 @@ modified: 2025-07-23 12:39
 | 99 | 1 [roc](/03_Mechanics/CLI/bestiary/monstrosity/roc-xmm.md) |
 | 00 | `2d4` [young remorhazes](/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm.md) |
 ^arctic-encounters-levels-510
+
+## Player-Facing Summary
+
+Arctic encounters levels 510 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of arctic encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arctic encounters levels 510 xge.
+
+## Adventure Hooks
+
+- A rumor ties arctic encounters levels 510 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at arctic encounters levels 510 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to arctic encounters levels 510 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

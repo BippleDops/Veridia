@@ -37,3 +37,23 @@ Diagonal movement can't cross the corner of a wall, large tree, or other terrain
 ## Ranges
 
 To determine the range on a grid between two things—whether creatures or objects—start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
+
+## Player-Facing Summary
+
+Playing on a grid phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of playing on a grid phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around playing on a grid phb.
+
+## Adventure Hooks
+
+- A rumor ties playing on a grid phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at playing on a grid phb to avert a public scandal.
+- A map overlay reveals a hidden approach to playing on a grid phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

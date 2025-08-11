@@ -261,3 +261,23 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 - [[Senator]]
 - [[The Sorrowmaster]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Prince Caspian Duskwater is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Prince Caspian Duskwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prince Caspian Duskwater.
+
+## Adventure Hooks
+
+- A rumor ties Prince Caspian Duskwater to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Prince Caspian Duskwater to avert a public scandal.
+- A map overlay reveals a hidden approach to Prince Caspian Duskwater active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Prince Caspian Duskwater]]
+
+<!-- enriched: true -->

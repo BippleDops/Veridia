@@ -86,3 +86,23 @@ Water weirds might protect a site for generations and learn much about their sur
 ## Environment
 
 underdark, urban
+
+## Player-Facing Summary
+
+Water weird xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of water weird xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around water weird xmm.
+
+## Adventure Hooks
+
+- A rumor ties water weird xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at water weird xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to water weird xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

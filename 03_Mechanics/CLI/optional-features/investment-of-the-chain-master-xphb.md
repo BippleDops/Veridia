@@ -36,3 +36,23 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 ## Resistance
 
 When the familiar takes damage, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to grant it [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) against that damage.
+
+## Player-Facing Summary
+
+Investment of the chain master xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of investment of the chain master xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around investment of the chain master xphb.
+
+## Adventure Hooks
+
+- A rumor ties investment of the chain master xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at investment of the chain master xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to investment of the chain master xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

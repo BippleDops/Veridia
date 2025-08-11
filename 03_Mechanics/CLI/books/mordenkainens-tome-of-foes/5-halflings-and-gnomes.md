@@ -610,3 +610,23 @@ This section provides several tables useful for players and DMs who want to crea
 ![Gnome Tables; Gnome Bonds](/03_Mechanics/CLI/tables/gnome-tables-gnome-bonds-mtf.md)
 
 ![Gnome Tables; Gnome Flaws](/03_Mechanics/CLI/tables/gnome-tables-gnome-flaws-mtf.md)
+
+## Player-Facing Summary
+
+5 halflings and gnomes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 5 halflings and gnomes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 halflings and gnomes.
+
+## Adventure Hooks
+
+- A rumor ties 5 halflings and gnomes to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 5 halflings and gnomes to avert a public scandal.
+- A map overlay reveals a hidden approach to 5 halflings and gnomes active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

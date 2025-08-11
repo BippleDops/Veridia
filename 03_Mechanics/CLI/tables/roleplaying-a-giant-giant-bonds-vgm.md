@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | My own kind have turned their backs on me, so I make my way among the lesser creatures of the world. |
 | 6 | Humans have proven their worth in the world and earned a measure of respect from giantkind. |
 ^giant-bonds
+
+## Player-Facing Summary
+
+Roleplaying a giant giant bonds vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of roleplaying a giant giant bonds vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a giant giant bonds vgm.
+
+## Adventure Hooks
+
+- A rumor ties roleplaying a giant giant bonds vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at roleplaying a giant giant bonds vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to roleplaying a giant giant bonds vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

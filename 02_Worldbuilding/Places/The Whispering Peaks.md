@@ -354,3 +354,27 @@ The Order is secretly building an army of willing spirits who could be called up
 
 > [!tip] DM Note
 > The Whispering Peaks serve as an excellent location for emotional storytelling, allowing characters to confront their past, communicate with lost loved ones, and grapple with themes of death, redemption, and memory. The constant spiritual activity provides ongoing plot hooks and can reveal information about any aspect of the campaign's history.
+
+## Player-Facing Summary
+
+The Whispering Peaks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Whispering Peaks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Whispering Peaks.
+
+## Adventure Hooks
+
+- A rumor ties The Whispering Peaks to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Whispering Peaks to avert a public scandal.
+- A map overlay reveals a hidden approach to The Whispering Peaks active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Whispering Peaks]]
+
+<!-- enriched: true -->

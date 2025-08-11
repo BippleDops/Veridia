@@ -38,3 +38,23 @@ In return for victims and adoration, Lolth grants signs of her favor, such as gr
 Drow of the world of Eberron worship a scorpion-god named Vulkoor, which is their world's equivalent of Lolth. Vulkoor is often portrayed or envisioned as a giant scorpion or as a hybrid creature with the head, arms, and upper torso of a strong male drow and the lower body of a scorpion. The dark elves of Eberron revere scorpions, seeing spiders and other arachnids to be lesser servitors of Vulkoor. Many drow believe that Vulkoor and the Mockery (one of the group of evil deities known as the Dark Six) are one and the same. Drow from the jungle continent of Xen'drik ritually tattoo themselves using scorpion venom, leaving white scars etched into their skin.
 
 Drow of other worlds rarely know of Vulkoor. Those who are familiar with his name consider him one of the weakest of the Dark Seldarine, a subordinate of Lolth who is disregarded by the other gods. Both visions of Vulkoor might be accurate, since Lolth seems to have little influence in Khyber but the drow there bear many similarities to the Lolth-worshiping drow of other realms throughout the multiverse.
+
+## Player-Facing Summary
+
+Drow lolth mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of drow lolth mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow lolth mtf.
+
+## Adventure Hooks
+
+- A rumor ties drow lolth mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at drow lolth mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to drow lolth mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

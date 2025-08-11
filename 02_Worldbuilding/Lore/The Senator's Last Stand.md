@@ -166,3 +166,22 @@ His transformation serves as both warning and inspiration - proof that fighting 
 
 *"If speaking truth makes me a monster, then let me be a monster whose words save those still human enough to listen."* - Senator Glaucus Deepcurrent, final recorded statement
 
+## Player-Facing Summary
+
+The Senator's Last Stand is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Senator's Last Stand as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Senator's Last Stand.
+
+## Adventure Hooks
+
+- A rumor ties The Senator's Last Stand to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Senator's Last Stand to avert a public scandal.
+- A map overlay reveals a hidden approach to The Senator's Last Stand active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

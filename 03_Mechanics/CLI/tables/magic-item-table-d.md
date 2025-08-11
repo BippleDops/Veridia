@@ -35,3 +35,23 @@ modified: 2025-07-23 12:39
 | 99 | [Bag of devouring](/03_Mechanics/CLI/items/bag-of-devouring-xdmg.md) |
 | 00 | [Portable hole](/03_Mechanics/CLI/items/portable-hole-xdmg.md) |
 ^magic-item-table-d
+
+## Player-Facing Summary
+
+Magic item table d is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of magic item table d as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table d.
+
+## Adventure Hooks
+
+- A rumor ties magic item table d to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at magic item table d to avert a public scandal.
+- A map overlay reveals a hidden approach to magic item table d active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -34,3 +34,23 @@ Orcs who die "a good death" are sent to Gruumsh by the priests of Yurtrus. The p
 ## Chosen of Yurtrus
 
 Orcs that suffer from gruesome diseases are brought into Yurtrus's fold and tended like prized cattle. These orcs are called nurtured ones, and they are considered the chosen of Yurtrus because they have been picked for the special purpose of spreading his virulent message among the enemy. At night, or during a heavy fog, these infected orcs rush toward an enemy's encampment, often through a hail of arrows, in order to spread their affliction within their foe's ranks.
+
+## Player-Facing Summary
+
+Orc yurtrus vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of orc yurtrus vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc yurtrus vgm.
+
+## Adventure Hooks
+
+- A rumor ties orc yurtrus vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at orc yurtrus vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to orc yurtrus vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -95,3 +95,23 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Gazer mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gazer mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gazer mpmm.
+
+## Adventure Hooks
+
+- A rumor ties gazer mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gazer mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to gazer mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

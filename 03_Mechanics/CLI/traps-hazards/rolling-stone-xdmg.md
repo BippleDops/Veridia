@@ -32,3 +32,23 @@ The stone is a Large object that has AC 17, HP 100, a [Damage Threshold](/03_Mec
 As an action, a creature can try to slow down the stone with a DC 20 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. If the check is successful, the distance the stone moves on its turn is reduced by 15 feet. If that distance drops to 0, it stops moving and is no longer a threat.
 
 *Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+## Player-Facing Summary
+
+Rolling stone xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rolling stone xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rolling stone xdmg.
+
+## Adventure Hooks
+
+- A rumor ties rolling stone xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rolling stone xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to rolling stone xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -29,3 +29,23 @@ Framework to produce 1,000+ varied travel events by combining depth/height/merge
 1 Power surge • 2 Anchor drift • 3 Hull leak • 4 Sensor blindness • 5 Weapon jam • 6 Parasite alarm • 7 Crystal crack • 8 Memory loop • 9 Crew panic • 10 Sanity wave • 11 Rations spoil • 12 O2 scrub fail • 13 Ballast miscalc • 14 Rigging snap • 15 Shrine silence • 16 Command dispute • 17 Map misprint • 18 Ghost at hatch • 19 Clock loss • 20 Time double
 
 See also: [[Vessel_Horror_Intensifier]], [[Transportation_Infrastructure]].
+
+## Player-Facing Summary
+
+Journey Event Compiler is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Journey Event Compiler as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Journey Event Compiler.
+
+## Adventure Hooks
+
+- A rumor ties Journey Event Compiler to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Journey Event Compiler to avert a public scandal.
+- A map overlay reveals a hidden approach to Journey Event Compiler active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -23,3 +23,23 @@ modified: 2025-07-23 12:39
 | 13–17 | You take 22 (`4d10`) Psychic damage. |
 | 18–20 | You have the [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) condition for 5 (`d10`) hours; the effect on you ends if you take damage or if another creature takes an action to shake you awake. |
 ^psychic-wind-psychic-effects
+
+## Player-Facing Summary
+
+Psychic wind psychic effects xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of psychic wind psychic effects xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around psychic wind psychic effects xdmg.
+
+## Adventure Hooks
+
+- A rumor ties psychic wind psychic effects xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at psychic wind psychic effects xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to psychic wind psychic effects xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

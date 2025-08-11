@@ -168,3 +168,17 @@ Use the Black Market Deal structure to:
 ## Connections
 
 - [[Pearl_Harbor_City]]
+
+## Player-Facing Summary
+
+Black Market Deal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Black Market Deal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Black Market Deal.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Black Market Deal]]
+
+<!-- enriched: true -->

@@ -23,3 +23,23 @@ modified: 2025-07-23 12:39
 | &emsp;[Semiautomatic Pistol](/03_Mechanics/CLI/items/semiautomatic-pistol-xdmg.md) | `2d6` Piercing | [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition) (Range 50/150; Bullet), [Reload](/03_Mechanics/CLI/item-properties.md#Reload) (15 shots) | [Vex](/03_Mechanics/CLI/item-mastery.md#Vex) | 3 lb. |
 | &emsp;[Shotgun](/03_Mechanics/CLI/items/shotgun-xdmg.md) | `2d8` Piercing | [Ammunition](/03_Mechanics/CLI/item-properties.md#Ammunition) (Range 30/90; Bullet), [Reload](/03_Mechanics/CLI/item-properties.md#Reload) (2 shots), [Two-Handed](/03_Mechanics/CLI/item-properties.md#Two-Handed) | [Push](/03_Mechanics/CLI/item-mastery.md#Push) | 7 lb. |
 ^firearms
+
+## Player-Facing Summary
+
+Firearms xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of firearms xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around firearms xdmg.
+
+## Adventure Hooks
+
+- A rumor ties firearms xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at firearms xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to firearms xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

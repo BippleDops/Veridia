@@ -95,3 +95,23 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 5 | I turn tail and run when things look bad. |
 | 6 | An innocent person is in prison for a crime that I committed. I'm okay with that. |
 ^flaw
+
+## Player-Facing Summary
+
+Criminal spy variant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of criminal spy variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around criminal spy variant.
+
+## Adventure Hooks
+
+- A rumor ties criminal spy variant to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at criminal spy variant to avert a public scandal.
+- A map overlay reveals a hidden approach to criminal spy variant active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

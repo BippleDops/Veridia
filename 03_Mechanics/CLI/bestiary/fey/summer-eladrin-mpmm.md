@@ -109,3 +109,23 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 ## Environment
 
 desert, forest
+
+## Player-Facing Summary
+
+Summer eladrin mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of summer eladrin mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summer eladrin mpmm.
+
+## Adventure Hooks
+
+- A rumor ties summer eladrin mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at summer eladrin mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to summer eladrin mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

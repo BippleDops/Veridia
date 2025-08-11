@@ -295,3 +295,27 @@ DMs can use her character to explore questions about cultural relativism, the re
 - [[Amnesia Gallery]]
 - [[Envoy Blackwater Jr.]]
 - [[New Tethys]]
+
+## Player-Facing Summary
+
+Keeper Elara Mindwell is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Keeper Elara Mindwell as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper Elara Mindwell.
+
+## Adventure Hooks
+
+- A rumor ties Keeper Elara Mindwell to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Keeper Elara Mindwell to avert a public scandal.
+- A map overlay reveals a hidden approach to Keeper Elara Mindwell active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Keeper Elara Mindwell]]
+
+<!-- enriched: true -->

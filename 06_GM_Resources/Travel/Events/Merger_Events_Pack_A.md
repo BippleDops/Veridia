@@ -113,3 +113,23 @@ Use with [[Complete Reality Merger System]], [[03_Mechanics/Vehicles/Merger_Hybr
 - Reality Control: Severity -1 when allied; +1 when opposed; anchors more accessible.
 - Humanitarian Relief: Evacuations through flickers; Reputation >> gp.
 - Pirate Confederacy: Exploit paradox to board; nets through doors opening elsewhere.
+
+## Player-Facing Summary
+
+Merger Events Pack A is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Merger Events Pack A as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Events Pack A.
+
+## Adventure Hooks
+
+- A rumor ties Merger Events Pack A to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Merger Events Pack A to avert a public scandal.
+- A map overlay reveals a hidden approach to Merger Events Pack A active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

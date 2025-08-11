@@ -532,3 +532,23 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 - [[The Sinking Atoll]]
 - [[The Wandering Atoll]]
 - [[The Whispering Depths]]
+
+## Player-Facing Summary
+
+Free Current is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Free Current as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Free Current.
+
+## Adventure Hooks
+
+- A rumor ties Free Current to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Free Current to avert a public scandal.
+- A map overlay reveals a hidden approach to Free Current active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Free Current]]
+
+<!-- enriched: true -->

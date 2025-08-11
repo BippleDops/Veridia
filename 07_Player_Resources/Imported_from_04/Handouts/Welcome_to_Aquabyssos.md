@@ -312,3 +312,23 @@ Honor the courage of pearl divers and deep explorers:
 ---
 
 *This guide represents publicly available knowledge. For specific adventure information, consult your Game Master.*
+
+## Player-Facing Summary
+
+Welcome to Aquabyssos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Welcome to Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Welcome to Aquabyssos.
+
+## Adventure Hooks
+
+- A rumor ties Welcome to Aquabyssos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Welcome to Aquabyssos to avert a public scandal.
+- A map overlay reveals a hidden approach to Welcome to Aquabyssos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

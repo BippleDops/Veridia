@@ -847,3 +847,23 @@ The servant loses all known languages, but it responds to orders given to it by 
 ### Attacks
 
 If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `d4` + the servant's Strength modifier, or, if the servant is Large, `2d4` + its Strength modifier.
+
+## Player-Facing Summary
+
+1 introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 1 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 introduction.
+
+## Adventure Hooks
+
+- A rumor ties 1 introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 1 introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to 1 introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

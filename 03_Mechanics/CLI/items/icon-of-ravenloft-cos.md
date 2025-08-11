@@ -38,3 +38,23 @@ You can use the icon as a holy symbol while using the Turn Undead or Turn the Un
 While holding the icon, you can take an action to heal one creature that you can see within 30 feet of you. The target regains `3d8 + 3` hit points, unless it is an undead, a construct, or a fiend. Once used, this property can't be used again until the next dawn.
 
 *Source: Curse of Strahd p. 222*
+
+## Player-Facing Summary
+
+Icon of ravenloft cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of icon of ravenloft cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around icon of ravenloft cos.
+
+## Adventure Hooks
+
+- A rumor ties icon of ravenloft cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at icon of ravenloft cos to avert a public scandal.
+- A map overlay reveals a hidden approach to icon of ravenloft cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

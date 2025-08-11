@@ -170,3 +170,23 @@ Complements [[06_GM_Resources/Travel/Events/Sky_Events_Pack_A|Pack A]].
 - Reality Control: Portable pylons stabilize lanes; Complication severity -1 if allied; +1 if opposed.
 - Humanitarian Relief: Airbridges/med-evacs +1 frequency; standing gains boosted; gp reduced.
 - Pirate Confederacy: Gravity snares/sky nets surge; legal gray zones widen.
+
+## Player-Facing Summary
+
+Sky Events Pack B is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sky Events Pack B as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Events Pack B.
+
+## Adventure Hooks
+
+- A rumor ties Sky Events Pack B to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Sky Events Pack B to avert a public scandal.
+- A map overlay reveals a hidden approach to Sky Events Pack B active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

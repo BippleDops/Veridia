@@ -31,3 +31,23 @@ When you issue the "Empower" order to this facility, magical runes appear on the
 While in the Demiplane, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can't have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
 
 *Source: Dungeon Master's Guide (2024) p. 340*
+
+## Player-Facing Summary
+
+Demiplane is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of demiplane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demiplane.
+
+## Adventure Hooks
+
+- A rumor ties demiplane to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at demiplane to avert a public scandal.
+- A map overlay reveals a hidden approach to demiplane active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

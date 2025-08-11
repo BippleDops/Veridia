@@ -34,3 +34,23 @@ The region containing Zariel's lair is warped by her magic, which creates one or
 - The area within 2 miles, but no closer than 500 feet, of the lair is filled with smoke, which causes the area to be heavily obscured. The smoke can't be cleared away.  
 
 If Zariel dies, these effects fade over the course of `d10` days.
+
+## Player-Facing Summary
+
+Zariel mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of zariel mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zariel mtf.
+
+## Adventure Hooks
+
+- A rumor ties zariel mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at zariel mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to zariel mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

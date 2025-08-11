@@ -249,3 +249,23 @@ For example, if two clerics cast [bless](/03_Mechanics/CLI/spells/bless-xphb.md)
 ^the-weave-of-magic
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c103.webp#center)
+
+## Player-Facing Summary
+
+11 spellcasting is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 11 spellcasting as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 spellcasting.
+
+## Adventure Hooks
+
+- A rumor ties 11 spellcasting to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 11 spellcasting to avert a public scandal.
+- A map overlay reveals a hidden approach to 11 spellcasting active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -43,3 +43,23 @@ Distant kin of giant owls from the Feywild, owlin come in many shapes and sizes,
 Like owls, owlin are graced with feathers that make no sound when they move or fly, making it easy for them to sneak up on you in the library.
 
 Your owlin character might be nocturnal. Or perhaps your character is simply prone to rise later, embodying the common nickname of night owl.
+
+## Player-Facing Summary
+
+Owlin scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of owlin scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around owlin scc.
+
+## Adventure Hooks
+
+- A rumor ties owlin scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at owlin scc to avert a public scandal.
+- A map overlay reveals a hidden approach to owlin scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

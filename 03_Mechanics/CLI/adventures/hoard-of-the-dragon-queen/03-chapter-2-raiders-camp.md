@@ -212,3 +212,23 @@ Award standard XP for defeated foes. This chapter does not involve many fights, 
 - For each piece of information listed under "Exploring the Camp" that characters learn on their own (not from Leosin): 25 XP per character.  
 
 When the characters arrive safely back at Greenest—presumably with Leosin in tow—he can fill them in on any details they missed during their investigation of the cult's camp. The monks who accompanied him are delighted to see him alive, and the families of any other released prisoners are equally grateful for the return of their loved ones. Governor Nighthill pays the characters their promised 250 gp each and publicly praises their courage and daring.
+
+## Player-Facing Summary
+
+03 chapter 2 raiders camp is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 chapter 2 raiders camp as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 2 raiders camp.
+
+## Adventure Hooks
+
+- A rumor ties 03 chapter 2 raiders camp to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 chapter 2 raiders camp to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 chapter 2 raiders camp active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -365,3 +365,23 @@ If the characters didn't collect traces of Yeenoghu's blood from the fallen gori
 ### XP Awards
 
 If the characters rid Araumycos's mind of its demonic infection, award each of them 2,000 XP. If the party delivers to Vizeran all of the components he needs to craft his *dark heart* talisman, award each character an additional 2,500 XP.
+
+## Player-Facing Summary
+
+16 chapter 16 the fetid wedding is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 16 chapter 16 the fetid wedding as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 chapter 16 the fetid wedding.
+
+## Adventure Hooks
+
+- A rumor ties 16 chapter 16 the fetid wedding to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 16 chapter 16 the fetid wedding to avert a public scandal.
+- A map overlay reveals a hidden approach to 16 chapter 16 the fetid wedding active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

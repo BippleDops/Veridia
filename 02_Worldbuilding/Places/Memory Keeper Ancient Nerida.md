@@ -30,3 +30,27 @@ TODO
 ## Hooks
 
 TODO
+
+## Player-Facing Summary
+
+Memory Keeper Ancient Nerida is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Keeper Ancient Nerida as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Keeper Ancient Nerida.
+
+## Adventure Hooks
+
+- A rumor ties Memory Keeper Ancient Nerida to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Keeper Ancient Nerida to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Keeper Ancient Nerida active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Memory Keeper Ancient Nerida]]
+
+<!-- enriched: true -->

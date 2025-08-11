@@ -97,3 +97,23 @@ Your thoughts can't be read by telepathy or other means unless you allow it. You
 When you cast [Summon Aberration](/03_Mechanics/CLI/spells/summon-aberration-xphb.md), you can modify it so that it doesn't require [Concentration](/03_Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Warlock level plus your Charisma modifier.
 
 In addition, the first time each turn the Aberration hits a creature under the effect of your [Hex](/03_Mechanics/CLI/spells/hex-xphb.md), the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell.
+
+## Player-Facing Summary
+
+Warlock xphb great old one patron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of warlock xphb great old one patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb great old one patron xphb.
+
+## Adventure Hooks
+
+- A rumor ties warlock xphb great old one patron xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at warlock xphb great old one patron xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to warlock xphb great old one patron xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

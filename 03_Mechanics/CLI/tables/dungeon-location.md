@@ -43,3 +43,23 @@ modified: 2025-07-23 12:39
 | 91-95 | Underwater |
 | 96-100 | Roll on the Exotic Location Table |
 ^dungeon-location
+
+## Player-Facing Summary
+
+Dungeon location is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dungeon location as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon location.
+
+## Adventure Hooks
+
+- A rumor ties dungeon location to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dungeon location to avert a public scandal.
+- A map overlay reveals a hidden approach to dungeon location active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

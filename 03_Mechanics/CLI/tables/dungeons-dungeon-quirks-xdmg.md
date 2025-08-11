@@ -55,3 +55,23 @@ modified: 2025-07-23 12:39
 | 97–98 | Slowly abandoned as its creators died out or migrated away |
 | 99–00 | Transformed by multiple events or disasters over the course of centuries |
 ^dungeon-quirks
+
+## Player-Facing Summary
+
+Dungeons dungeon quirks xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dungeons dungeon quirks xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeons dungeon quirks xdmg.
+
+## Adventure Hooks
+
+- A rumor ties dungeons dungeon quirks xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dungeons dungeon quirks xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to dungeons dungeon quirks xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | `2d4` [swarms of insects](/03_Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) or [swarms of rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) |
 | 8 | [Yeth Hounds](/03_Mechanics/CLI/bestiary/fey/yeth-hound-mpmm.md) |
 ^servants
+
+## Player-Facing Summary
+
+Random hag minions servants vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of random hag minions servants vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random hag minions servants vgm.
+
+## Adventure Hooks
+
+- A rumor ties random hag minions servants vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at random hag minions servants vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to random hag minions servants vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

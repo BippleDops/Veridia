@@ -188,3 +188,23 @@ The characters gain a level at the end of this event.
 ## Sequence of Events
 
 Depending on how the adventure unfolds, feel free to alter the forces and tactics in the second and third attacks as you see fit. For example, you might want to hold off with the yugoloths until the third attack, or you might want Red Wizards showing up in the second attack rather than the third.
+
+## Player-Facing Summary
+
+05 chapter 13 the cult strikes back is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 05 chapter 13 the cult strikes back as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 13 the cult strikes back.
+
+## Adventure Hooks
+
+- A rumor ties 05 chapter 13 the cult strikes back to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 05 chapter 13 the cult strikes back to avert a public scandal.
+- A map overlay reveals a hidden approach to 05 chapter 13 the cult strikes back active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

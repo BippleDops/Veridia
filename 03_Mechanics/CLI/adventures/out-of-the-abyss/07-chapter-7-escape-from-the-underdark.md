@@ -176,3 +176,23 @@ If you'd rather skip the encounters and jump ahead to chapter 8, assume that the
 | 10 | The chase kicks up a cloud of dust, sand, or spores. You must succeed on a DC 10 Constitution saving throw to pass through the cloud. On a failure, you are [blinded](/03_Mechanics/CLI/conditions.md#Blinded) until the end of your turn. While [blinded](/03_Mechanics/CLI/conditions.md#Blinded) in this way, your speed is reduced by half. |
 | 11–20 | No complication. |
 ^complication
+
+## Player-Facing Summary
+
+07 chapter 7 escape from the underdark is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 07 chapter 7 escape from the underdark as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 7 escape from the underdark.
+
+## Adventure Hooks
+
+- A rumor ties 07 chapter 7 escape from the underdark to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 07 chapter 7 escape from the underdark to avert a public scandal.
+- A map overlay reveals a hidden approach to 07 chapter 7 escape from the underdark active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

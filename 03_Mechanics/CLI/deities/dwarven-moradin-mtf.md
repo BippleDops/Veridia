@@ -29,3 +29,23 @@ Moradin is the master of every craft practiced by the dwarves and the patron of 
 Priests of Moradin are responsible for judging and assessing the work of a stronghold's artisans. They keep great volumes that describe various crafting techniques in detail, and use the guidelines in them to judge the quality of individual works.
 
 The priests also evaluate young dwarves to determine the youths' vocations. The decisions of the priests are accepted without question.
+
+## Player-Facing Summary
+
+Dwarven moradin mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dwarven moradin mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarven moradin mtf.
+
+## Adventure Hooks
+
+- A rumor ties dwarven moradin mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dwarven moradin mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to dwarven moradin mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

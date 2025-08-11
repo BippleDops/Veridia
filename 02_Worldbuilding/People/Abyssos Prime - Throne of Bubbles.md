@@ -125,3 +125,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Abyssos Prime   Throne of Bubbles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Abyssos Prime   Throne of Bubbles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime   Throne of Bubbles.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Abyssos Prime - Throne of Bubbles]]
+
+<!-- enriched: true -->

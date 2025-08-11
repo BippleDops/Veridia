@@ -76,3 +76,23 @@ You have advantage on initiative rolls. In addition, the first creature you hit 
 ### Sudden Strike (Level 17)
 
 Starting at 17th level, you can strike with deadly speed. If you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can make one additional attack as a bonus action. This attack can benefit from your Sneak Attack even if you have already used it this turn, but you can't use your Sneak Attack against the same target more than once in a turn.
+
+## Player-Facing Summary
+
+Rogue xphb scout xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rogue xphb scout xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb scout xge.
+
+## Adventure Hooks
+
+- A rumor ties rogue xphb scout xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rogue xphb scout xge to avert a public scandal.
+- A map overlay reveals a hidden approach to rogue xphb scout xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

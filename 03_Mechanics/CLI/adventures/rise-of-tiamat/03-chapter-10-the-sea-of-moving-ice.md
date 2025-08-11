@@ -581,3 +581,23 @@ To claim this treasure, it must be hacked out of the ice in the lair cavern. Doi
 Arauthator is a strong ally of the Cult of the Dragon, and the adventurers deal a solid blow to the cult by defeating him. Additionally, by returning Maccath and the stolen lore of the Hosttower, the characters can earn the allegiance of the Arcane Brotherhood in the fight against the cult's plans.
 
 The characters gain a level at the end of this chapter.
+
+## Player-Facing Summary
+
+03 chapter 10 the sea of moving ice is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 chapter 10 the sea of moving ice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 10 the sea of moving ice.
+
+## Adventure Hooks
+
+- A rumor ties 03 chapter 10 the sea of moving ice to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 chapter 10 the sea of moving ice to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 chapter 10 the sea of moving ice active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

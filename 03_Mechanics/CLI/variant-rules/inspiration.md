@@ -81,3 +81,23 @@ This approach makes your life easier and also gives players the chance to recogn
 This approach works best with groups that are focused on the story. It falls flat if the players merely manipulate it to gain advantage in key situations, without earning inspiration by way of good roleplaying or whatever other criteria the group has established.
 
 In this variant, you can allow each player to award inspiration more than once per session. If you do so, the first time that a player awards inspiration in a session is free. Whenever that player awards it later in the same session, you gain inspiration that you can spend to give advantage to any foe of the player characters. There's no limit to the number of inspirations you can gain in this way, and unspent inspiration carries over from one session to the next.
+
+## Player-Facing Summary
+
+Inspiration is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of inspiration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inspiration.
+
+## Adventure Hooks
+
+- A rumor ties inspiration to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at inspiration to avert a public scandal.
+- A map overlay reveals a hidden approach to inspiration active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

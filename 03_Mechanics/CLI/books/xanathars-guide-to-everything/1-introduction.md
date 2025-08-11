@@ -100,3 +100,23 @@ As soon as you start casting a spell or using a special ability that requires co
 Temporary hit points aren't cumulative. If you have temporary hit points and receive more of them, you don't add them together, unless a game feature says you can. Instead, you decide which temporary hit points to keep.
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/intro03.webp#center)
+
+## Player-Facing Summary
+
+1 introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 1 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 introduction.
+
+## Adventure Hooks
+
+- A rumor ties 1 introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 1 introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to 1 introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -699,3 +699,21 @@ A rival adventuring party or individual challenges the player characters to a ra
 ---
 
 *This quest serves as a crucial entry point into the larger narrative of Aethermoor's struggle against the [[The Convergence Crisis|Convergence Crisis]], while providing a complete adventure experience focused on political intrigue, magical corruption, and the moral complexities of power. The party's choices here will echo throughout future adventures and determine their standing with one of the realm's most important economic and political entities.*
+
+## Player-Facing Summary
+
+Goldspire Confederacy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Goldspire Confederacy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Goldspire Confederacy.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Goldspire Confederacy]]
+
+<!-- enriched: true -->

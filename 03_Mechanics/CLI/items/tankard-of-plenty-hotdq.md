@@ -24,3 +24,23 @@ modified: 2025-07-23 12:39
 This golden stein is decorated with dancing dwarves and grain patterns. Speaking the command word ("Illefarn") while grasping the handle fills the tankard with three pints of rich dwarven ale. This power can be used up to three times per day.
 
 *Source: Hoard of the Dragon Queen p. 74*
+
+## Player-Facing Summary
+
+Tankard of plenty hotdq is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of tankard of plenty hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tankard of plenty hotdq.
+
+## Adventure Hooks
+
+- A rumor ties tankard of plenty hotdq to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at tankard of plenty hotdq to avert a public scandal.
+- A map overlay reveals a hidden approach to tankard of plenty hotdq active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

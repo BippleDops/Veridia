@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 - **Drawing from further development by.** J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, David "Zeb" Cook, Ed Greenwood, Keith Baker, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bill Slavicsek, Andy Collins, and Rob Heinsoo  
 - **Playtesting provided by.** over 175,000 fans of D&D. Thank you!  
 - **Additional feedback provided by.** Teos Abadía, Robert Alaniz, Jason Baxter, Bill Benham, Darron Bowley, David Callander, Mik Calow, Christopher D'Andrea, Brian Danford, Krupal Desai, Josh Dillard, Sam E. Simpson Jr., Tim Eagon, David Ewalt, Rob Ford, Robert Ford, Jason Fuller, Pierce Gaithe, Richard Green, Christopher Hackler, Adam Hennebeck, Sterling Hershey, Paul Hughes, Gregory L. Harris, Yan Lacharité, Shane Leahy, Ryan Leary, Tom Lommel, Jonathan Longstaff, Rory Madden, Matt Maranda, Derek McIntosh, Paul Melamed, Shawn Merwin, Lou Michelli, Mike Mihalas, David Milman, Daren Mitchell, Matthew Mosher, David Muller, Kevin Neff, Adam Page, John Proudfoot, Max Reichlin, Karl Resch, Matthew Rolston, Jason Romein, Sam Sherry, Pieter Sleijpen, Robin Stacey, David "Oak" Stark, Adam Strong-Morse, Arthur Wright
+
+## Player-Facing Summary
+
+15 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 15 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 15 credits.
+
+## Adventure Hooks
+
+- A rumor ties 15 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 15 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 15 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

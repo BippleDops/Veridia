@@ -459,3 +459,13 @@ The Company ultimately envisions itself as the foundation of a unified multi-dim
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Memory Bridge]]
 - [[Quest - The Shard-Shadow Resonance]]
+
+## Player-Facing Summary
+
+The Liminal Trading Company is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Liminal Trading Company as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Liminal Trading Company.
+
+<!-- enriched: true -->

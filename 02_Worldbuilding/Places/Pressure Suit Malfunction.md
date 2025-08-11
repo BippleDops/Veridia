@@ -160,3 +160,23 @@ This crisis provides opportunities for rescue missions, investigation adventures
 ## Connections
 
 - [[Pearl_Harbor_City]]
+
+## Player-Facing Summary
+
+Pressure Suit Malfunction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pressure Suit Malfunction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Suit Malfunction.
+
+## Adventure Hooks
+
+- A rumor ties Pressure Suit Malfunction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pressure Suit Malfunction to avert a public scandal.
+- A map overlay reveals a hidden approach to Pressure Suit Malfunction active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Pressure Suit Malfunction]]
+
+<!-- enriched: true -->

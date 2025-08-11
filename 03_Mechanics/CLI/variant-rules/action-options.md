@@ -45,3 +45,23 @@ With this option, a creature uses the special [shove](/03_Mechanics/CLI/variant-
 ## Tumble
 
 A creature can try to tumble through a hostile creature's space, ducking and weaving past the opponent. As an action or a bonus action, the tumbler makes a Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check contested by the hostile creature's Dexterity ([Acrobatics](/03_Mechanics/CLI/skills.md#Acrobatics)) check. If the tumbler wins the contest, it can move through the hostile creature's space once this turn.
+
+## Player-Facing Summary
+
+Action options is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of action options as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around action options.
+
+## Adventure Hooks
+
+- A rumor ties action options to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at action options to avert a public scandal.
+- A map overlay reveals a hidden approach to action options active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

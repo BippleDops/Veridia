@@ -59,3 +59,23 @@ modified: 2025-07-23 12:39
 | 95–97 | [Wand of Polymorph](/03_Mechanics/CLI/items/wand-of-polymorph-xdmg.md) |
 | 98–00 | [Wand of the War Mage, +3](/03_Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg.md) |
 ^arcana-very-rare
+
+## Player-Facing Summary
+
+Arcana very rare xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of arcana very rare xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana very rare xdmg.
+
+## Adventure Hooks
+
+- A rumor ties arcana very rare xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at arcana very rare xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to arcana very rare xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

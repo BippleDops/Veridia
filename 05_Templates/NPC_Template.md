@@ -187,3 +187,19 @@ The [NPC name] can take 3 legendary actions...
 **Related NPCs**: [[NPC1]], [[NPC2]], [[NPC3]]
 **Involved in Quests**: [[Quest1]], [[Quest2]]
 **Faction Ties**: [[Faction1]], [[Faction2]]
+
+## Player-Facing Summary
+
+NPC Template is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of NPC Template as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Template.
+
+## Adventure Hooks
+
+- A rumor ties NPC Template to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at NPC Template to avert a public scandal.
+- A map overlay reveals a hidden approach to NPC Template active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -89,3 +89,23 @@ Destroying the Wand of Orcus requires that it be taken to the Positive Energy Pl
 Bathing the wand in positive energy (such as that which permeates the Positive Plane) causes it to crack and explode, but unless the above conditions are met, the wand instantly re-forms on Orcus's layer of the Abyss.
 
 *Source: Dungeon Master's Guide (2024) p. 320*
+
+## Player-Facing Summary
+
+Wand of orcus xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wand of orcus xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of orcus xdmg.
+
+## Adventure Hooks
+
+- A rumor ties wand of orcus xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wand of orcus xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to wand of orcus xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

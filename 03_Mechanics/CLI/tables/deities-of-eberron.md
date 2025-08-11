@@ -44,3 +44,23 @@ modified: 2025-07-23 12:39
 | [The Undying Court](/03_Mechanics/CLI/deities/eberron-the-undying-court.md), elven ancestors | NG | Knowledge, Life | Varies |
 | [The Spirits of the Past](/03_Mechanics/CLI/deities/eberron-the-spirits-of-the-past.md), elven ancestors | CG | War | Varies |
 ^other-faiths-of-eberron-alignment-suggested-domains-symbol
+
+## Player-Facing Summary
+
+Deities of eberron is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of deities of eberron as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deities of eberron.
+
+## Adventure Hooks
+
+- A rumor ties deities of eberron to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at deities of eberron to avert a public scandal.
+- A map overlay reveals a hidden approach to deities of eberron active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

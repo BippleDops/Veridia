@@ -26,3 +26,23 @@ If the spell is on your spell list but of a higher level than you can normally c
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
 
 *Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Spell scroll cantrip xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of spell scroll cantrip xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll cantrip xdmg.
+
+## Adventure Hooks
+
+- A rumor ties spell scroll cantrip xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at spell scroll cantrip xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to spell scroll cantrip xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -50,3 +50,23 @@ As a bonus action on your turn, you can cause a loose rock in the cube to launch
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Xanathar's Guide to Everything p. 171*
+
+## Player-Facing Summary
+
+Wrath of nature xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wrath of nature xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wrath of nature xge.
+
+## Adventure Hooks
+
+- A rumor ties wrath of nature xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wrath of nature xge to avert a public scandal.
+- A map overlay reveals a hidden approach to wrath of nature xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

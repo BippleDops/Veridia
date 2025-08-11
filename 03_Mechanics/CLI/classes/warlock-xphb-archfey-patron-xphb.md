@@ -105,3 +105,23 @@ In addition, immediately after a creature you can see hits you with an attack ro
 ### Bewitching Magic (Level 14)
 
 Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md) as part of the same action and without expending a spell slot.
+
+## Player-Facing Summary
+
+Warlock xphb archfey patron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of warlock xphb archfey patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb archfey patron xphb.
+
+## Adventure Hooks
+
+- A rumor ties warlock xphb archfey patron xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at warlock xphb archfey patron xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to warlock xphb archfey patron xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

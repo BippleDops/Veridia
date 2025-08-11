@@ -31,3 +31,23 @@ A condition is a temporary game state. The definition of a condition says how it
 - [Unconscious](/03_Mechanics/CLI/conditions.md#Unconscious)  
 
 A condition doesn't stack with itself; a recipient either has a condition or doesn't. The [Exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) condition is an exception to that rule.
+
+## Player-Facing Summary
+
+Condition xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of condition xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around condition xphb.
+
+## Adventure Hooks
+
+- A rumor ties condition xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at condition xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to condition xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

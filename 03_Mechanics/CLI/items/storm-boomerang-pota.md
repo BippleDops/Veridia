@@ -30,3 +30,23 @@ This boomerang is a ranged weapon carved from [griffon](/03_Mechanics/CLI/bestia
 Once the boomerang deals thunder damage to a target, the weapon loses its ability to deal thunder damage and its ability to stun a target. These properties return after the boomerang spends at least 1 hour inside an elemental air node.
 
 *Source: Princes of the Apocalypse p. 223*
+
+## Player-Facing Summary
+
+Storm boomerang pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of storm boomerang pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around storm boomerang pota.
+
+## Adventure Hooks
+
+- A rumor ties storm boomerang pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at storm boomerang pota to avert a public scandal.
+- A map overlay reveals a hidden approach to storm boomerang pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

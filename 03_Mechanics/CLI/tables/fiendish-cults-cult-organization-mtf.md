@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | Cult of Personality. The cult leader is a beloved figure renowned for great, benevolent deeds. |
 | 6 | Entrenched. The cult is part of the local culture, a tradition that established decades ago and kept secret from outsiders. |
 ^cult-organization
+
+## Player-Facing Summary
+
+Fiendish cults cult organization mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fiendish cults cult organization mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fiendish cults cult organization mtf.
+
+## Adventure Hooks
+
+- A rumor ties fiendish cults cult organization mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fiendish cults cult organization mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to fiendish cults cult organization mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

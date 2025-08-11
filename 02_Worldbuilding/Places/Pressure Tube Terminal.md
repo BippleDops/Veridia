@@ -186,3 +186,27 @@ Authorization to review transportation system technical specifications.
 - [[Merchant Prince Akula]]
 - [[Rescue Senator Glaucus]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
+
+## Player-Facing Summary
+
+Pressure Tube Terminal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pressure Tube Terminal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Tube Terminal.
+
+## Adventure Hooks
+
+- A rumor ties Pressure Tube Terminal to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pressure Tube Terminal to avert a public scandal.
+- A map overlay reveals a hidden approach to Pressure Tube Terminal active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Pressure Tube Terminal]]
+
+<!-- enriched: true -->

@@ -40,3 +40,23 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ### Languages
 
 You can't speak, but you can understand the languages you knew in life.
+
+## Player-Facing Summary
+
+Zombie dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of zombie dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zombie dmg.
+
+## Adventure Hooks
+
+- A rumor ties zombie dmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at zombie dmg to avert a public scandal.
+- A map overlay reveals a hidden approach to zombie dmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

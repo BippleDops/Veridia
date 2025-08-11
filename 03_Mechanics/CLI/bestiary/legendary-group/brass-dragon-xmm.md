@@ -25,3 +25,23 @@ The area containing an adult or ancient brass dragon's lair is altered by its pr
 - **Refreshing Water.** Water within 1 mile of the lair is magically refreshing. A creature that drinks such water gains `2d4` [Temporary Hit Points](/03_Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md), and the dragon is immediately aware of the creature's presence.  
 
 If the dragon dies or moves its lair elsewhere, these effects end immediately.
+
+## Player-Facing Summary
+
+Brass dragon xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of brass dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brass dragon xmm.
+
+## Adventure Hooks
+
+- A rumor ties brass dragon xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at brass dragon xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to brass dragon xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

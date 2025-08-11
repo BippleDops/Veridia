@@ -36,3 +36,23 @@ The region within 1 mile of a grandmother hag's lair is warped by the creature's
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
 - Beasts that have an Intelligence score of 2 or lower are [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.
+
+## Player-Facing Summary
+
+Hag vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of hag vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hag vgm.
+
+## Adventure Hooks
+
+- A rumor ties hag vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at hag vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to hag vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -841,3 +841,23 @@ Once she arrives, Ezmerelda releases the horse (which flees back to its camp) an
 Hot on Ezmerelda's trail are the Vistani leader [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) (NE male human [assassin](/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)) and two Vistani bodyguards (CE female [bandits](/03_Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)). [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) rides a black [riding horse](/03_Mechanics/CLI/bestiary/beast/riding-horse-xmm.md), while the bandits ride two [dire wolves](/03_Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md). These dire wolves are servants of Strahd and can't be [charmed](/03_Mechanics/CLI/conditions.md#Charmed) or [frightened](/03_Mechanics/CLI/conditions.md#Frightened).
 
 [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md) is determined to capture Ezmerelda and haul her back to the Vistani camp to face punishment for horse theft. He does nothing to antagonize the characters, however, and returns to the Vistani camp if he can't convince them to give up Ezmerelda. For more information on [Arrigal](/03_Mechanics/CLI/bestiary/npc/arrigal-cos.md), see chapter 5, area N9c.
+
+## Player-Facing Summary
+
+09 chapter 7 argynvostholt is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 09 chapter 7 argynvostholt as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 chapter 7 argynvostholt.
+
+## Adventure Hooks
+
+- A rumor ties 09 chapter 7 argynvostholt to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 09 chapter 7 argynvostholt to avert a public scandal.
+- A map overlay reveals a hidden approach to 09 chapter 7 argynvostholt active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

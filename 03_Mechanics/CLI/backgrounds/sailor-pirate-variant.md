@@ -79,3 +79,23 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 5 | I can't help but pocket loose coins and other trinkets I come across. |
 | 6 | My pride will probably lead to my destruction. |
 ^flaw
+
+## Player-Facing Summary
+
+Sailor pirate variant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sailor pirate variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sailor pirate variant.
+
+## Adventure Hooks
+
+- A rumor ties sailor pirate variant to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sailor pirate variant to avert a public scandal.
+- A map overlay reveals a hidden approach to sailor pirate variant active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

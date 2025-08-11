@@ -15,3 +15,23 @@ modified: 2025-07-23 12:39
 An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
 
 Your base AC calculation is 10 plus your Dexterity modifier. If a rule gives you another base AC calculation, you choose which calculation to use; you can't use more than one.
+
+## Player-Facing Summary
+
+Armor class xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of armor class xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armor class xphb.
+
+## Adventure Hooks
+
+- A rumor ties armor class xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at armor class xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to armor class xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

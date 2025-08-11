@@ -299,3 +299,21 @@ The [[Inverse Palace]] stands as both a marvel of impossible architecture and a 
 - [[Emperor Thalassius the Wise]]
 - [[Depths of Whispers]]
 - [[Find the Grief Bomb]]
+
+## Player-Facing Summary
+
+Abyssos Prime   Inverse Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Abyssos Prime   Inverse Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime   Inverse Palace.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Abyssos Prime - Inverse Palace]]
+
+<!-- enriched: true -->

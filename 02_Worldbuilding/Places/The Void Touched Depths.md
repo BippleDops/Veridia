@@ -487,3 +487,27 @@ New religious movement worshipping the Oracle:
 - [[The Forgotten One]]
 - [[The Shadow Markets]]
 - [[Vote Vaults]]
+
+## Player-Facing Summary
+
+The Void Touched Depths is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Void Touched Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Touched Depths.
+
+## Adventure Hooks
+
+- A rumor ties The Void Touched Depths to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Void Touched Depths to avert a public scandal.
+- A map overlay reveals a hidden approach to The Void Touched Depths active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Void Touched Depths]]
+
+<!-- enriched: true -->

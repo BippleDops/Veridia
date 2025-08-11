@@ -222,3 +222,23 @@ If you can't find a feature that matches your desired background, work with your
 > 
 > Tika Waylan and Artemis Entreri both lived their earliest years as street urchins. Tika's later career as a barmaid didn't really change her, so she might choose the urchin background, gaining proficiency in the [Sleight of Hand](/03_Mechanics/CLI/skills.md#Sleight%20of%20Hand) and [Stealth](/03_Mechanics/CLI/skills.md#Stealth) skills, and learning the tools of the thieving trade. Artemis is more defined by his criminal background, giving him skills in [Deception](/03_Mechanics/CLI/skills.md#Deception) and [Stealth](/03_Mechanics/CLI/skills.md#Stealth), as well as proficiency with the tools of thievery and poison.
 ^tika-and-artemis-backgrounds
+
+## Player-Facing Summary
+
+05 personality and background is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 05 personality and background as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 personality and background.
+
+## Adventure Hooks
+
+- A rumor ties 05 personality and background to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 05 personality and background to avert a public scandal.
+- A map overlay reveals a hidden approach to 05 personality and background active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -357,3 +357,23 @@ The party must decide: Do they unite the Marinas to face the crisis with maximum
 
 - [[Sanity System]]
 - [[The Sunken Library of Thalassius]]
+
+## Player-Facing Summary
+
+Discover Marina's Truth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Discover Marina's Truth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Discover Marina's Truth.
+
+## Adventure Hooks
+
+- A rumor ties Discover Marina's Truth to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Discover Marina's Truth to avert a public scandal.
+- A map overlay reveals a hidden approach to Discover Marina's Truth active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

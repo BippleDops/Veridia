@@ -298,3 +298,21 @@ His character represents the theme that knowledge is power, but power always com
 - [[Marina-Red-Tide-Coralheart]]
 - [[Aethermoor - Session 01 Blood in the Harbor]]
 - [[Aethermoor - Session 02 The Lighthouse of Storms]]
+
+## Player-Facing Summary
+
+Jasper Three Eyes Flint is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Jasper Three Eyes Flint as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Jasper Three Eyes Flint.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Jasper Three-Eyes Flint]]
+
+<!-- enriched: true -->

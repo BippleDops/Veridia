@@ -180,3 +180,23 @@ The answer may determine whether the approaching convergence represents an oppor
 
 - [[Tide Turner's Trident]]
 - [[Aethermoor - Session 08 Between Two Worlds]]
+
+## Player-Facing Summary
+
+The Drowned God is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Drowned God as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowned God.
+
+## Adventure Hooks
+
+- A rumor ties The Drowned God to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Drowned God to avert a public scandal.
+- A map overlay reveals a hidden approach to The Drowned God active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

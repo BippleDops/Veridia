@@ -411,3 +411,13 @@ After Aetheron's Crown shattered into Seven Shards:
 ---
 
 *"The Crown endures not through divine right, but through the careful balance of fear, hope, and the promise that tomorrow might be better than today—if you just trust us one more time."*
+
+## Player-Facing Summary
+
+The Crown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown.
+
+<!-- enriched: true -->

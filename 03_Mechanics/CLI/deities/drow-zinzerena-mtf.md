@@ -28,3 +28,23 @@ The liturgy of Zinzerena is passed on in the form of folk tales, for her faith h
 In some stories, Zinzerena is Lolth's daughter, who was spirited away and hidden from her by illusions. In other tales, she begins life as a mortal elf who uses glamors to trick her way into the company of the gods. Regardless, Zinzerena always has some element of illusion magic about her, and she uses it and other deceptions to get the better of more powerful opponents. Deceit and taking advantage of others' weaknesses are recurring themes in the tales of her exploits. The only figure in the Dark Seldarine immune to Zinzerena's deceptions is Lolth, although even the Queen of Spiders is sometimes tricked when Zinzerena shifts blame for her actions onto others.
 
 Not many female drow devote their lives to the study of magic, because it's held to be a low-status avocation more suited to males. Most females who pursue it seriously do so in secret. Even rumors that a drow matron practices arcane magic, if they aren't quashed, can sabotage her standing in society. Yet there's no denying that knowledge of arcane magic could be a great boon to an ambitious female. Zinzerena's worshipers encourage this pursuit and offer tutelage and tools in exchange for a candidate's alliance with Zinzerena's secret cult.
+
+## Player-Facing Summary
+
+Drow zinzerena mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of drow zinzerena mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow zinzerena mtf.
+
+## Adventure Hooks
+
+- A rumor ties drow zinzerena mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at drow zinzerena mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to drow zinzerena mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

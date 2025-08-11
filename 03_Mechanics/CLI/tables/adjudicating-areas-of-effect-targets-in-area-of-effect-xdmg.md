@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 ^targets-in-area-of-effect
 
 *Use this column for [Cylinders](/03_Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md), [Emanations](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) (using the size of the Emanation rather than its radius), and [Spheres](/03_Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md).
+
+## Player-Facing Summary
+
+Adjudicating areas of effect targets in area of effect xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of adjudicating areas of effect targets in area of effect xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adjudicating areas of effect targets in area of effect xdmg.
+
+## Adventure Hooks
+
+- A rumor ties adjudicating areas of effect targets in area of effect xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at adjudicating areas of effect targets in area of effect xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to adjudicating areas of effect targets in area of effect xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

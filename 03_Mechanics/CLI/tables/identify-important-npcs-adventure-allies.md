@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 11 | Disguised monster |
 | 12 | Villain posing as an ally |
 ^adventure-allies
+
+## Player-Facing Summary
+
+Identify important npcs adventure allies is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of identify important npcs adventure allies as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around identify important npcs adventure allies.
+
+## Adventure Hooks
+
+- A rumor ties identify important npcs adventure allies to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at identify important npcs adventure allies to avert a public scandal.
+- A map overlay reveals a hidden approach to identify important npcs adventure allies active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

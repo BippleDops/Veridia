@@ -153,3 +153,27 @@ Alaric's quarters atop the lighthouse are spartan but functional: charts of ever
 - "Light's been burning twenty-three years now, never missed a night..."
 
 **Mannerisms**: Constantly checks wind direction and cloud formations. Has a habit of polishing the lighthouse lens when thinking. Often stares out to sea even during conversations, and can predict weather changes hours in advance by subtle environmental cues.
+
+## Player-Facing Summary
+
+Lighthouse Keeper is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Lighthouse Keeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Keeper.
+
+## Adventure Hooks
+
+- A rumor ties Lighthouse Keeper to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Lighthouse Keeper to avert a public scandal.
+- A map overlay reveals a hidden approach to Lighthouse Keeper active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Lighthouse Keeper]]
+
+<!-- enriched: true -->

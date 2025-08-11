@@ -25,3 +25,23 @@ The region containing a death tyrant's lair is warped by its presence, creating 
 - **Scopophobia.** Creatures within 1 mile of the lair feel as if they're being watched. Any creature (excluding the death tyrant and its allies) that finishes a [Short Rest](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw or gain no benefit from that rest.  
 
 If the death tyrant dies or moves its lair elsewhere, these effects end immediately.
+
+## Player-Facing Summary
+
+Death tyrant xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of death tyrant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around death tyrant xmm.
+
+## Adventure Hooks
+
+- A rumor ties death tyrant xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at death tyrant xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to death tyrant xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

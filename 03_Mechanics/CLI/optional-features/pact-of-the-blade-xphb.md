@@ -18,3 +18,23 @@ As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you c
 Whenever you attack with the bonded weapon, you can use your Charisma modifier for the attack and damage rolls instead of using Strength or Dexterity; and you can cause the weapon to deal Necrotic, Psychic, or Radiant damage or its normal damage type.
 
 Your bond with the weapon ends if you use this feature's [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) again, if the weapon is more than 5 feet away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+
+## Player-Facing Summary
+
+Pact of the blade xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of pact of the blade xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pact of the blade xphb.
+
+## Adventure Hooks
+
+- A rumor ties pact of the blade xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at pact of the blade xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to pact of the blade xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

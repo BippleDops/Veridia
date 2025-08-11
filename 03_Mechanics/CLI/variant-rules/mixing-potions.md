@@ -31,3 +31,23 @@ When a character mixes two potions together, you can roll on the Potion Miscibil
 | 91-99 | The numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
 | 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [potion of healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) might increase the drinker's hit point maximum by 4, or [oil of etherealness](/03_Mechanics/CLI/items/oil-of-etherealness-xdmg.md) might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [dispel magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md), might end this lasting effect. |
 ^potion-miscibility
+
+## Player-Facing Summary
+
+Mixing potions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mixing potions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mixing potions.
+
+## Adventure Hooks
+
+- A rumor ties mixing potions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mixing potions to avert a public scandal.
+- A map overlay reveals a hidden approach to mixing potions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

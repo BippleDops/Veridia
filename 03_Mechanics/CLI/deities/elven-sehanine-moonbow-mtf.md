@@ -36,3 +36,23 @@ Sehanine's priests often seek her guidance by entering into a state of true slee
 Temples to Sehanine Moonbow are almost always aligned with the heavens to enable the priests to track the motion and phases of the moon. The sleeping quarters of the priests are positioned such that a shaft of light from the full moon falls on them while they are sleeping, and this silver light of Sehanine can influence their dreams and impart messages to them.
 
 Offerings to Sehanine are mostly made from silver, often shaped in a way that is reminiscent of the full moon. Cups, bowls, cloak pins, and plates of silver are found at her shrines, as well as those dedicated to the Seldarine collectively. The weapons and gear used by her followers, such as silver arrowheads, knife blades, and wooden shields, are often decorated with a stylized image of Sehanine's eye with rays coming out of it-a warning to the elves' enemies that Sehanine's gaze has fallen upon them.
+
+## Player-Facing Summary
+
+Elven sehanine moonbow mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elven sehanine moonbow mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven sehanine moonbow mtf.
+
+## Adventure Hooks
+
+- A rumor ties elven sehanine moonbow mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elven sehanine moonbow mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elven sehanine moonbow mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

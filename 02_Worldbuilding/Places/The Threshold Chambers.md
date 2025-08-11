@@ -307,3 +307,23 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 - [[Quest - Nature's Balance]]
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Memory Bridge]]
+
+## Player-Facing Summary
+
+The Threshold Chambers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Threshold Chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Threshold Chambers.
+
+## Adventure Hooks
+
+- A rumor ties The Threshold Chambers to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Threshold Chambers to avert a public scandal.
+- A map overlay reveals a hidden approach to The Threshold Chambers active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Threshold Chambers]]
+
+<!-- enriched: true -->

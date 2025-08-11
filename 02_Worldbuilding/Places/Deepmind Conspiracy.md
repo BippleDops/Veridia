@@ -218,3 +218,21 @@ Built around a core of powerful psychic individuals, the Conspiracy maintains a 
 - [[The Bathyal Palace]]
 - [[The Phosphor Markets]]
 - [[Vote Vaults]]
+
+## Player-Facing Summary
+
+Deepmind Conspiracy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Deepmind Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deepmind Conspiracy.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Deepmind Conspiracy]]
+
+<!-- enriched: true -->

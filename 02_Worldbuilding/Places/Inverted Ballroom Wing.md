@@ -352,3 +352,27 @@ The Inverted Ballroom Wing stands as a testament to [[Aquabyssos]]'s unique cult
 ## Connections
 
 - [[Aquabyssos - Session 01 - The Drowning Welcome]]
+
+## Player-Facing Summary
+
+Inverted Ballroom Wing is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Inverted Ballroom Wing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Inverted Ballroom Wing.
+
+## Adventure Hooks
+
+- A rumor ties Inverted Ballroom Wing to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Inverted Ballroom Wing to avert a public scandal.
+- A map overlay reveals a hidden approach to Inverted Ballroom Wing active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Inverted Ballroom Wing]]
+
+<!-- enriched: true -->

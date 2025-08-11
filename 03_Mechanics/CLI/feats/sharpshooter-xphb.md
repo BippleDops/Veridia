@@ -24,3 +24,23 @@ You gain the following benefits.
 **Firing in Melee.** Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
 **Long Shots.** Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
+
+## Player-Facing Summary
+
+Sharpshooter xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sharpshooter xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sharpshooter xphb.
+
+## Adventure Hooks
+
+- A rumor ties sharpshooter xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sharpshooter xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to sharpshooter xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

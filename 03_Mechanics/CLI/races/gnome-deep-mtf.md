@@ -47,3 +47,23 @@ Svirfneblin believe that survival depends on avoiding entanglements with other c
 ### Stone Camouflage
 
 You have advantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks to hide in rocky terrain.
+
+## Player-Facing Summary
+
+Gnome deep mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gnome deep mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome deep mtf.
+
+## Adventure Hooks
+
+- A rumor ties gnome deep mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gnome deep mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to gnome deep mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

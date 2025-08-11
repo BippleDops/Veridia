@@ -253,3 +253,27 @@ A powerful cleric claims to have found a way to break Marrow Drinker's vampiric 
 - [[02_Worldbuilding/Quests/Quest - The Crystal Black Market]] - Smuggling operations
 - [[Quest - Redemption's Price]] - Potential redemption arc
 - [[Quest - The Admiral's Gambit]] - Capture storyline
+
+## Player-Facing Summary
+
+Captain Marrow Drinker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Captain Marrow Drinker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Marrow Drinker.
+
+## Adventure Hooks
+
+- A rumor ties Captain Marrow Drinker to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Captain Marrow Drinker to avert a public scandal.
+- A map overlay reveals a hidden approach to Captain Marrow Drinker active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Captain Marrow Drinker]]
+
+<!-- enriched: true -->

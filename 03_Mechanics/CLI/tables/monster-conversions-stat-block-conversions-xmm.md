@@ -76,3 +76,23 @@ modified: 2025-07-23 12:39
 | [Young Red Shadow Dragon](/03_Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm.md) | [Shadow Dragon](/03_Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm.md) |
 | [Yuan-ti Pureblood](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) | [Yuan-ti Infiltrator](/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) |
 ^stat-block-conversions
+
+## Player-Facing Summary
+
+Monster conversions stat block conversions xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monster conversions stat block conversions xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monster conversions stat block conversions xmm.
+
+## Adventure Hooks
+
+- A rumor ties monster conversions stat block conversions xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monster conversions stat block conversions xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to monster conversions stat block conversions xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

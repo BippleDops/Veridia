@@ -29,3 +29,23 @@ Each pouch of the haversack holds enough air for 10 minutes of breathing, divide
 Placing the haversack inside an extradimensional space created by a [Bag of Holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md), [Portable Hole](/03_Mechanics/CLI/items/portable-hole-xdmg.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Handy Haversack") and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Hewards handy haversack xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of hewards handy haversack xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hewards handy haversack xdmg.
+
+## Adventure Hooks
+
+- A rumor ties hewards handy haversack xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at hewards handy haversack xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to hewards handy haversack xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

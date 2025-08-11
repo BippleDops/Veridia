@@ -30,3 +30,23 @@ created: 2025-08-11
 
 ## Quick-Run
 - Anchorite→Engineer; apply state; choose consequence arc
+
+## Player-Facing Summary
+
+D L 11 The Last Anchor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of D L 11 The Last Anchor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around D L 11 The Last Anchor.
+
+## Adventure Hooks
+
+- A rumor ties D L 11 The Last Anchor to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at D L 11 The Last Anchor to avert a public scandal.
+- A map overlay reveals a hidden approach to D L 11 The Last Anchor active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

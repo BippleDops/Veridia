@@ -57,3 +57,23 @@ You speak a one-word command to a creature you can see within range. The target 
 **Classes**: [Cleric (Knowledge Domain)](/03_Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB"); [Warlock (Fiend Patron)](/03_Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Glamour)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Conquest)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Draconic Sorcery)](/03_Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Command xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of command xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around command xphb.
+
+## Adventure Hooks
+
+- A rumor ties command xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at command xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to command xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -110,3 +110,23 @@ If you fail a saving throw, you can take a [Reaction](/03_Mechanics/CLI/variant-
 #### Unerring Strike
 
 Once on each of your turns when you make an attack roll with a weapon and miss, you can cause that attack to hit instead.
+
+## Player-Facing Summary
+
+Paladin xphb oath of glory xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of paladin xphb oath of glory xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paladin xphb oath of glory xphb.
+
+## Adventure Hooks
+
+- A rumor ties paladin xphb oath of glory xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at paladin xphb oath of glory xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to paladin xphb oath of glory xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

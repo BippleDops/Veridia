@@ -280,3 +280,23 @@ The shading in the Character Advancement table shows the four tiers of play. The
 **At the fourth tier (levels 17-20),** characters achieve the pinnacle of their class features, becoming heroic (or villainous) archetypes in their own right. The fate of the world or even the fundamental order of the multiverse might hang in the balance during their adventures.
 
 ![Beyond 1st Level; Character Advancement](/03_Mechanics/CLI/tables/beyond-1st-level-character-advancement-phb.md)
+
+## Player-Facing Summary
+
+02 step by step characters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 step by step characters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 step by step characters.
+
+## Adventure Hooks
+
+- A rumor ties 02 step by step characters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 step by step characters to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 step by step characters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

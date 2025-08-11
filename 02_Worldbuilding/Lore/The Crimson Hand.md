@@ -509,3 +509,23 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 - [[The Seven Shards]]
 - [[The Silverscale Conspiracy]]
 - [[Throne Room]]
+
+## Player-Facing Summary
+
+The Crimson Hand is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crimson Hand as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Hand.
+
+## Adventure Hooks
+
+- A rumor ties The Crimson Hand to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Crimson Hand to avert a public scandal.
+- A map overlay reveals a hidden approach to The Crimson Hand active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

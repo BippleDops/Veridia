@@ -42,3 +42,23 @@ A few of the orcs touched by the power of Gruumsh are given the ultimate honor o
 > 
 > The cosmic battle between the two pantheons has raged for eons without resolution, leading those who study its ebb and flow to expect the stalemate to continue. A different view is put forth by the archmage Tzunk, who notes that Maglubiyet has never faced a foe as ferocious and protective as Luthic. He predicts that the war will end with Luthic the only deity standing, as the cave mother ascends to rule her warrior children.
 ^nishrek-and-the-eternal-war
+
+## Player-Facing Summary
+
+Orc gruumsh vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of orc gruumsh vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc gruumsh vgm.
+
+## Adventure Hooks
+
+- A rumor ties orc gruumsh vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at orc gruumsh vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to orc gruumsh vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

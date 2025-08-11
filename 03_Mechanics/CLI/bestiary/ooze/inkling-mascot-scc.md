@@ -68,3 +68,23 @@ Squelching slightly as they wriggle through the air, inklings serve as the masco
 "image": "/03_Mechanics/CLI/bestiary/ooze/token/inkling-mascot-scc.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Inkling mascot scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of inkling mascot scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inkling mascot scc.
+
+## Adventure Hooks
+
+- A rumor ties inkling mascot scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at inkling mascot scc to avert a public scandal.
+- A map overlay reveals a hidden approach to inkling mascot scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

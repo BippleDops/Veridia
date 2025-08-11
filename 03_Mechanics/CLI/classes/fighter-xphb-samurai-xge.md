@@ -84,3 +84,23 @@ Starting at 15th level, you learn to trade accuracy for swift strikes. If you ta
 Starting at 18th level, your fighting spirit can delay the grasp of death. If you take damage that reduces you to 0 hit points and doesn't kill you outright, you can use your reaction to delay falling [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious), and you can immediately take an extra turn, interrupting the current turn. While you have 0 hit points during that extra turn, taking damage causes death saving throw failures as normal, and three death saving throw failures can still kill you. When the extra turn ends, you fall [unconscious](/03_Mechanics/CLI/conditions.md#Unconscious) if you still have 0 hit points.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Player-Facing Summary
+
+Fighter xphb samurai xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fighter xphb samurai xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fighter xphb samurai xge.
+
+## Adventure Hooks
+
+- A rumor ties fighter xphb samurai xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fighter xphb samurai xge to avert a public scandal.
+- A map overlay reveals a hidden approach to fighter xphb samurai xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

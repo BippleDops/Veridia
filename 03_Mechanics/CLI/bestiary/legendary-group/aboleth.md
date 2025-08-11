@@ -35,3 +35,23 @@ The region containing an aboleth's lair is warped by the creature's presence, wh
 - As an action, the aboleth can create an illusory image of itself within 1 mile of the lair. The copy can appear at any location the aboleth has seen before or in any location a creature [charmed](/03_Mechanics/CLI/conditions.md#Charmed) by the aboleth can currently see. Once created, the image lasts for as long as the aboleth maintains [concentration](/03_Mechanics/CLI/conditions.md#Concentration), as if [concentrating](/03_Mechanics/CLI/conditions.md#Concentration) on a spell. Although the image is intangible, it looks, sounds, and can move like the aboleth. The aboleth can sense, speak, and use telepathy from the image's position as if present at that position. If the image takes any damage, it disappears.  
 
 If the aboleth dies, the first two effects fade over the course of `3d10` days.
+
+## Player-Facing Summary
+
+Aboleth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of aboleth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aboleth.
+
+## Adventure Hooks
+
+- A rumor ties aboleth to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at aboleth to avert a public scandal.
+- A map overlay reveals a hidden approach to aboleth active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

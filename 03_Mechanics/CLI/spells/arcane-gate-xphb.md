@@ -38,3 +38,23 @@ A portal is open on only one side (you choose which). Anything entering the open
 **Classes**: [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 242*
+
+## Player-Facing Summary
+
+Arcane gate xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of arcane gate xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcane gate xphb.
+
+## Adventure Hooks
+
+- A rumor ties arcane gate xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at arcane gate xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to arcane gate xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

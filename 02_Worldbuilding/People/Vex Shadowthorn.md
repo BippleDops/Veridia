@@ -250,3 +250,23 @@ Vex Shadowthorn controls [[02_Worldbuilding/Groups/The Whisper Syndicate]], [[02
 - [[Quest - Syndicate Shadows]] - Main antagonist
 - [[Quest - The Blackmail Papers]] - Central figure
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Competing for it
+
+## Player-Facing Summary
+
+Vex Shadowthorn is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vex Shadowthorn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vex Shadowthorn.
+
+## Adventure Hooks
+
+- A rumor ties Vex Shadowthorn to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Vex Shadowthorn to avert a public scandal.
+- A map overlay reveals a hidden approach to Vex Shadowthorn active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+
+<!-- enriched: true -->

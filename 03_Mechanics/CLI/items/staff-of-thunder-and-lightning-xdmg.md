@@ -48,3 +48,23 @@ You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to cause a bol
 You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to cause the staff to produce a thunderclap audible out to 600 feet. Every creature within a 60-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you makes a DC 17 Constitution saving throw. On a failed save, a creature takes `2d6` Thunder damage and has the [Deafened](/03_Mechanics/CLI/conditions.md#Deafened) condition for 1 minute. On a successful save, a creature takes half as much damage only.
 
 *Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Staff of thunder and lightning xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of staff of thunder and lightning xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around staff of thunder and lightning xdmg.
+
+## Adventure Hooks
+
+- A rumor ties staff of thunder and lightning xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at staff of thunder and lightning xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to staff of thunder and lightning xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

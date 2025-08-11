@@ -46,3 +46,23 @@ For the duration, you hide a target that you touch from Divination spells. The t
 **Classes**: [Cleric (Knowledge Domain)](/03_Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB"); [Cleric (Trickery Domain)](/03_Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Abjurer)](/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Nondetection xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of nondetection xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nondetection xphb.
+
+## Adventure Hooks
+
+- A rumor ties nondetection xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at nondetection xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to nondetection xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

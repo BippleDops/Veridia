@@ -34,3 +34,23 @@ You can use the talisman as a Holy Symbol. You gain a +2 bonus to spell attack r
 The talisman has 7 charges. While wearing or holding the talisman, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to expend 1 charge and target one creature you can see on the ground within 120 feet of yourself. A flaming fissure opens under the target, and the target makes a DC 20 Dexterity saving throw. If the target is a Fiend or an Undead, it has [Disadvantage](/03_Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the save. On a failed save, the target falls into the fissure and is destroyed, leaving no remains. On a successful save, the target isn't cast into the fissure but takes `4d6` Psychic damage from the ordeal. In either case, the fissure then closes, leaving no trace of its existence. When you expend the last charge, the talisman disperses into motes of golden light and is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Talisman of pure good xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of talisman of pure good xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around talisman of pure good xdmg.
+
+## Adventure Hooks
+
+- A rumor ties talisman of pure good xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at talisman of pure good xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to talisman of pure good xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

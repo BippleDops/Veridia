@@ -98,3 +98,23 @@ The training to which a deep scion is subjected rids it of empathy for those the
 ## Environment
 
 coastal, underwater
+
+## Player-Facing Summary
+
+Deep scion mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of deep scion mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deep scion mpmm.
+
+## Adventure Hooks
+
+- A rumor ties deep scion mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at deep scion mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to deep scion mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

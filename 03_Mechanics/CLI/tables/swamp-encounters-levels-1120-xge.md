@@ -36,3 +36,23 @@ modified: 2025-07-23 12:39
 | 81-96 | 1 [adult black dragon](/03_Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) |
 | 97-00 | 1 [ancient black dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md) |
 ^swamp-encounters-levels-1120
+
+## Player-Facing Summary
+
+Swamp encounters levels 1120 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of swamp encounters levels 1120 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swamp encounters levels 1120 xge.
+
+## Adventure Hooks
+
+- A rumor ties swamp encounters levels 1120 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at swamp encounters levels 1120 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to swamp encounters levels 1120 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

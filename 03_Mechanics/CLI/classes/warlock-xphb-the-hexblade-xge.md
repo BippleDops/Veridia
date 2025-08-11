@@ -104,3 +104,23 @@ At 10th level, your hex grows more powerful. If the target cursed by your Hexbla
 ### Master of Hexes (Level 14)
 
 Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+
+## Player-Facing Summary
+
+Warlock xphb the hexblade xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of warlock xphb the hexblade xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb the hexblade xge.
+
+## Adventure Hooks
+
+- A rumor ties warlock xphb the hexblade xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at warlock xphb the hexblade xge to avert a public scandal.
+- A map overlay reveals a hidden approach to warlock xphb the hexblade xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

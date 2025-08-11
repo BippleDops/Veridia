@@ -410,3 +410,23 @@ Instead of gold, offer:
 ---
 
 *In the depths, memories are more than thoughts—they are commodity, weapon, and lifeline. Trade wisely, for you may be selling more than you know.*
+
+## Player-Facing Summary
+
+Memory Trading Economy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Trading Economy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Trading Economy.
+
+## Adventure Hooks
+
+- A rumor ties Memory Trading Economy to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Trading Economy to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Trading Economy active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

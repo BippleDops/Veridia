@@ -60,3 +60,23 @@ aliases:
 "image": "/03_Mechanics/CLI/bestiary/monstrosity/token/young-hook-horror-oota.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Young hook horror oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of young hook horror oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young hook horror oota.
+
+## Adventure Hooks
+
+- A rumor ties young hook horror oota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at young hook horror oota to avert a public scandal.
+- A map overlay reveals a hidden approach to young hook horror oota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

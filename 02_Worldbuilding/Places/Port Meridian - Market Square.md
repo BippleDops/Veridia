@@ -606,3 +606,27 @@ Rumors persist of a secret market that operates in the Square during the darkest
 - [[Port Meridian Harbor]]
 - [[The Royal Palace]]
 - [[The Shadow Markets]]
+
+## Player-Facing Summary
+
+Port Meridian   Market Square is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Port Meridian   Market Square as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian   Market Square.
+
+## Adventure Hooks
+
+- A rumor ties Port Meridian   Market Square to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Port Meridian   Market Square to avert a public scandal.
+- A map overlay reveals a hidden approach to Port Meridian   Market Square active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Port Meridian - Market Square]]
+
+<!-- enriched: true -->

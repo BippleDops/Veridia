@@ -482,3 +482,23 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - [[Aether Crystals]]
 - [[Smuggler's Gambit]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Azure Citadel is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Azure Citadel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Azure Citadel.
+
+## Adventure Hooks
+
+- A rumor ties Azure Citadel to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Azure Citadel to avert a public scandal.
+- A map overlay reveals a hidden approach to Azure Citadel active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Azure Citadel]]
+
+<!-- enriched: true -->

@@ -35,3 +35,23 @@ In a similar way, you can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) act
 Placing the mirror inside an extradimensional space created by a [Bag of Holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md), Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [Total Cover](/03_Mechanics/CLI/variant-rules/cover-xphb.md) is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
 *Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Mirror of life trapping xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mirror of life trapping xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mirror of life trapping xdmg.
+
+## Adventure Hooks
+
+- A rumor ties mirror of life trapping xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mirror of life trapping xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to mirror of life trapping xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

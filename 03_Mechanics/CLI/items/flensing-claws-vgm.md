@@ -34,3 +34,23 @@ Each set of flensing claws is designed for a specific creature and can't be used
 - [Flensing Claws (Huge)](/03_Mechanics/CLI/items/flensing-claws-huge-vgm.md)
 
 *Source: Volo's Guide to Monsters p. 81*
+
+## Player-Facing Summary
+
+Flensing claws vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of flensing claws vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flensing claws vgm.
+
+## Adventure Hooks
+
+- A rumor ties flensing claws vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at flensing claws vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to flensing claws vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

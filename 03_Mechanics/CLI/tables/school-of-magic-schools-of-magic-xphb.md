@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 ^schools-of-magic
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+
+## Player-Facing Summary
+
+School of magic schools of magic xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of school of magic schools of magic xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around school of magic schools of magic xphb.
+
+## Adventure Hooks
+
+- A rumor ties school of magic schools of magic xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at school of magic schools of magic xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to school of magic schools of magic xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

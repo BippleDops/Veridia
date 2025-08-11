@@ -29,3 +29,23 @@ You can use the hat as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/sp
 As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can try to cast a cantrip that you don't know. The cantrip must be on the Wizard spell list and have a casting time of an action, and you make a DC 10 Intelligence ([Arcana](/03_Mechanics/CLI/skills.md#Arcana)) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 267*
+
+## Player-Facing Summary
+
+Hat of wizardry xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of hat of wizardry xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hat of wizardry xdmg.
+
+## Adventure Hooks
+
+- A rumor ties hat of wizardry xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at hat of wizardry xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to hat of wizardry xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

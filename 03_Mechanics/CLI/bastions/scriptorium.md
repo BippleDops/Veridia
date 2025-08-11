@@ -29,3 +29,23 @@ When you issue the "Craft" order to this facility, choose one of the following o
 - **Craft.** Paperwork. You commission the facility's hireling to create up to fifty copies of a broadsheet, a pamphlet, or another loose-leaf paper product. The work takes 7 days and costs you 1 GP per copy. At no additional cost in time or money, the facility's hireling can distribute the paperwork to one or more locations within 50 miles of your Bastion.  
 
 *Source: Dungeon Master's Guide (2024) p. 346*
+
+## Player-Facing Summary
+
+Scriptorium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scriptorium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scriptorium.
+
+## Adventure Hooks
+
+- A rumor ties scriptorium to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scriptorium to avert a public scandal.
+- A map overlay reveals a hidden approach to scriptorium active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

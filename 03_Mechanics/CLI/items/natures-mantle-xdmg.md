@@ -23,3 +23,23 @@ This cloak shifts color and texture to blend with the terrain surrounding you. W
 While you are in an area that is [Lightly Obscured](/03_Mechanics/CLI/variant-rules/lightly-obscured-xphb.md), you can [Hide](/03_Mechanics/CLI/actions.md#Hide) as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) even if you are being directly observed.
 
 *Source: Dungeon Master's Guide (2024) p. 280*
+
+## Player-Facing Summary
+
+Natures mantle xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of natures mantle xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around natures mantle xdmg.
+
+## Adventure Hooks
+
+- A rumor ties natures mantle xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at natures mantle xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to natures mantle xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

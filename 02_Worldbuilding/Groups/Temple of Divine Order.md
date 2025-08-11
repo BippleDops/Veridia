@@ -318,3 +318,23 @@ The Temple maintains religious facilities in every major settlement:
 - [[Anti-Priest Nullus]]
 - [[Temple Guardian Marcus the Drowned]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Temple of Divine Order is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Temple of Divine Order as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temple of Divine Order.
+
+## Adventure Hooks
+
+- A rumor ties Temple of Divine Order to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Temple of Divine Order to avert a public scandal.
+- A map overlay reveals a hidden approach to Temple of Divine Order active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

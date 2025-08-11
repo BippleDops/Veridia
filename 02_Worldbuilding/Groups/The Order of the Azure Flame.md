@@ -52,3 +52,23 @@ The Order employs a variety of methods to achieve its goals, from public burning
 ## Connections
 
 - [[Establish the New Order]]
+
+## Player-Facing Summary
+
+The Order of the Azure Flame is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Order of the Azure Flame as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Order of the Azure Flame.
+
+## Adventure Hooks
+
+- A rumor ties The Order of the Azure Flame to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Order of the Azure Flame to avert a public scandal.
+- A map overlay reveals a hidden approach to The Order of the Azure Flame active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

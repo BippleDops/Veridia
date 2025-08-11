@@ -33,3 +33,23 @@ As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can cause the cauld
 If you place the corpse of a Humanoid into the cauldron and cover the corpse with 200 pounds of salt (which costs 10 GP) for at least 8 hours, the salt is consumed and the creature returns to life as if by [Raise Dead](/03_Mechanics/CLI/spells/raise-dead-xphb.md) at the next dawn. Once used, this property can't be used again for 7 days.
 
 *Source: Dungeon Master's Guide (2024) p. 243*
+
+## Player-Facing Summary
+
+Cauldron of rebirth xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cauldron of rebirth xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cauldron of rebirth xdmg.
+
+## Adventure Hooks
+
+- A rumor ties cauldron of rebirth xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cauldron of rebirth xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to cauldron of rebirth xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

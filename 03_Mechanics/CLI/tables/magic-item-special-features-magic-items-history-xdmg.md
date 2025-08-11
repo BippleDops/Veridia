@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | Sinister. This item is linked to a deed of great evil, such as a massacre or an assassination. It might have a name or be closely associated with a villain who used it. |
 | 8 | Symbol of Power. This item was once used as part of royal regalia or as a badge of high office. |
 ^magic-items-history
+
+## Player-Facing Summary
+
+Magic item special features magic items history xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of magic item special features magic items history xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item special features magic items history xdmg.
+
+## Adventure Hooks
+
+- A rumor ties magic item special features magic items history xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at magic item special features magic items history xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to magic item special features magic items history xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

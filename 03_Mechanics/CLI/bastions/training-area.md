@@ -38,3 +38,23 @@ When a Training Area becomes part of your Bastion, choose one trainer from the "
 When you issue the "Empower" order to this facility, the facility's hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted in the Expert Trainers table. The benefit lasts for 7 days.
 
 *Source: Dungeon Master's Guide (2024) p. 348*
+
+## Player-Facing Summary
+
+Training area is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of training area as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around training area.
+
+## Adventure Hooks
+
+- A rumor ties training area to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at training area to avert a public scandal.
+- A map overlay reveals a hidden approach to training area active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

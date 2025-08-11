@@ -557,3 +557,23 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - [[Aboleth Adjunct Yzz]]
 - [[Azure Citadel]]
 - [[Crystalhaven]]
+
+## Player-Facing Summary
+
+The Gilded Shard is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Gilded Shard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Gilded Shard.
+
+## Adventure Hooks
+
+- A rumor ties The Gilded Shard to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Gilded Shard to avert a public scandal.
+- A map overlay reveals a hidden approach to The Gilded Shard active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Gilded Shard]]
+
+<!-- enriched: true -->

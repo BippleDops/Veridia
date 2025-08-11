@@ -36,3 +36,23 @@ The essence of Markovia's saintliness passed partly into her bones as the rest o
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: Curse of Strahd p. 222*
+
+## Player-Facing Summary
+
+Saint markovias thighbone cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of saint markovias thighbone cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around saint markovias thighbone cos.
+
+## Adventure Hooks
+
+- A rumor ties saint markovias thighbone cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at saint markovias thighbone cos to avert a public scandal.
+- A map overlay reveals a hidden approach to saint markovias thighbone cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

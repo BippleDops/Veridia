@@ -100,3 +100,23 @@ You sprout spectral wings on your back, have a [Fly Speed](/03_Mechanics/CLI/var
 #### Frightful Aura
 
 Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](/03_Mechanics/CLI/actions.md#Attack) rolls against the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) creature have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md).
+
+## Player-Facing Summary
+
+Paladin xphb oath of vengeance xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of paladin xphb oath of vengeance xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paladin xphb oath of vengeance xphb.
+
+## Adventure Hooks
+
+- A rumor ties paladin xphb oath of vengeance xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at paladin xphb oath of vengeance xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to paladin xphb oath of vengeance xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

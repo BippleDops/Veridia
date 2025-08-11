@@ -192,3 +192,23 @@ Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitu
 - Reality Control: Portable anchors on pylons; Complication severity -1 if allied; +1 if opposed.
 - Humanitarian Relief: Airbridges and med-evacs +1 frequency; standing gains boosted; gp reduced.
 - Pirate Confederacy: Gravity snares and sky nets proliferate; legal gray zones widen.
+
+## Player-Facing Summary
+
+Sky Events Pack A is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sky Events Pack A as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Events Pack A.
+
+## Adventure Hooks
+
+- A rumor ties Sky Events Pack A to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Sky Events Pack A to avert a public scandal.
+- A map overlay reveals a hidden approach to Sky Events Pack A active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

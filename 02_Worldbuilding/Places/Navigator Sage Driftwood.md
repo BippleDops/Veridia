@@ -157,3 +157,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Navigator Sage Driftwood is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Navigator Sage Driftwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Navigator Sage Driftwood.
+
+## Adventure Hooks
+
+- A rumor ties Navigator Sage Driftwood to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Navigator Sage Driftwood to avert a public scandal.
+- A map overlay reveals a hidden approach to Navigator Sage Driftwood active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Navigator Sage Driftwood]]
+
+<!-- enriched: true -->

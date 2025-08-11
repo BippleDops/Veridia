@@ -272,3 +272,23 @@ Comprehensive guide to all locations across both the Aquabyssos and Aethermoor c
 *Status: Complete - All major locations indexed and categorized*
 *Worlds Covered: Aquabyssos (Underwater Empire), Aethermoor (Sky Realms)*
 *Total Locations Indexed: 200+*
+
+## Player-Facing Summary
+
+Location Index is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Location Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Location Index.
+
+## Adventure Hooks
+
+- A rumor ties Location Index to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Location Index to avert a public scandal.
+- A map overlay reveals a hidden approach to Location Index active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -70,3 +70,23 @@ created: 2025-08-11
 60. Choir Courier — Broadcasts morale; allied initiative +1
 
 Integration keys: Altitude pressure inversion, resonance arrays, anchors, sanity hooks, memory charts, faction doctrines.
+
+## Player-Facing Summary
+
+Aethermoor Airships Catalog is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aethermoor Airships Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Airships Catalog.
+
+## Adventure Hooks
+
+- A rumor ties Aethermoor Airships Catalog to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aethermoor Airships Catalog to avert a public scandal.
+- A map overlay reveals a hidden approach to Aethermoor Airships Catalog active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

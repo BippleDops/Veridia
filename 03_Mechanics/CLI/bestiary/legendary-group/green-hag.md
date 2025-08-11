@@ -46,3 +46,23 @@ A powerful green hag creates one or more of the following additional regional ef
 - Illusory duplicates of the hag appear in random places at random times (but never more than one in any given location). An illusory duplicate has no substance, but it looks, sounds, and moves like the hag. The hag can sense when one or more creatures are within 60 feet of her duplicate and can interact with them as if she were present and standing in the duplicate's space. If the illusory duplicate takes any damage, it disappears.  
 - The region takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.  
 - Trees transform into [awakened trees](/03_Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) and attack when hostile intruders are near.
+
+## Player-Facing Summary
+
+Green hag is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of green hag as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green hag.
+
+## Adventure Hooks
+
+- A rumor ties green hag to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at green hag to avert a public scandal.
+- A map overlay reveals a hidden approach to green hag active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

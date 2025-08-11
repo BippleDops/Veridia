@@ -78,3 +78,23 @@ Beginning at 10th level, while you are [concentrating](/03_Mechanics/CLI/conditi
 ### Durable Summons (Level 14)
 
 Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.
+
+## Player-Facing Summary
+
+Wizard xphb school of conjuration is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb school of conjuration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb school of conjuration.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb school of conjuration to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb school of conjuration to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb school of conjuration active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

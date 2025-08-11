@@ -447,3 +447,23 @@ Throughout the adventure, each encounter presents monster names in bold. This is
 ### Using the Side Treks
 
 In addition to the core narrative, *Princes of the Apocalypse* presents a number of short adventures as side treks. Side treks provide players with a change of pace. You need not run side treks in order or at all. Let the natural course of the campaign and the players' interests dictate when or if a side trek becomes available. You can find the side treks in chapter 6.
+
+## Player-Facing Summary
+
+01 chapter 1 rise of elemental evil is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 chapter 1 rise of elemental evil as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 chapter 1 rise of elemental evil.
+
+## Adventure Hooks
+
+- A rumor ties 01 chapter 1 rise of elemental evil to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 chapter 1 rise of elemental evil to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 chapter 1 rise of elemental evil active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

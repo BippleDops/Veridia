@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 8 | 60 days | 15,000 GP |
 | 9 | 120 days | 50,000 GP |
 ^spell-scroll-costs
+
+## Player-Facing Summary
+
+Scribing spell scrolls spell scroll costs xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scribing spell scrolls spell scroll costs xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scribing spell scrolls spell scroll costs xphb.
+
+## Adventure Hooks
+
+- A rumor ties scribing spell scrolls spell scroll costs xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scribing spell scrolls spell scroll costs xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to scribing spell scrolls spell scroll costs xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

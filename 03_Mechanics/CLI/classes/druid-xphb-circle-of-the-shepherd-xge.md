@@ -104,3 +104,23 @@ Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that yo
 Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) against your will, you can immediately gain the benefits of [conjure animals](/03_Mechanics/CLI/spells/conjure-animals-xphb.md) as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [concentration](/03_Mechanics/CLI/conditions.md#Concentration), or until you dismiss it (no action required).
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Player-Facing Summary
+
+Druid xphb circle of the shepherd xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of druid xphb circle of the shepherd xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around druid xphb circle of the shepherd xge.
+
+## Adventure Hooks
+
+- A rumor ties druid xphb circle of the shepherd xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at druid xphb circle of the shepherd xge to avert a public scandal.
+- A map overlay reveals a hidden approach to druid xphb circle of the shepherd xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

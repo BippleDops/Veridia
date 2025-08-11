@@ -29,3 +29,23 @@ While wearing this armor, you gain a +1 bonus to [Armor Class](/03_Mechanics/CLI
 Additionally, you can focus your senses as a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to discern the distance and direction to the closest red dragon within 30 miles of yourself. This action can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Red dragon scale mail xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of red dragon scale mail xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around red dragon scale mail xdmg.
+
+## Adventure Hooks
+
+- A rumor ties red dragon scale mail xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at red dragon scale mail xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to red dragon scale mail xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

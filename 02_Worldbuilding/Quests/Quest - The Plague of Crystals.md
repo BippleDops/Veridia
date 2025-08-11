@@ -202,3 +202,19 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 - Sets up next major quest arc
 - Queen may reveal corruption if party trusted
 - [[Quest - The Crystal Festival]]
+
+## Player-Facing Summary
+
+Quest   The Plague of Crystals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Plague of Crystals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Plague of Crystals.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Plague of Crystals to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Plague of Crystals to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Plague of Crystals active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -460,3 +460,27 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 ## Connections
 
 - [[Secret Vault Beneath Throne]]
+
+## Player-Facing Summary
+
+The Shrinking Sanctuary is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shrinking Sanctuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shrinking Sanctuary.
+
+## Adventure Hooks
+
+- A rumor ties The Shrinking Sanctuary to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Shrinking Sanctuary to avert a public scandal.
+- A map overlay reveals a hidden approach to The Shrinking Sanctuary active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Shrinking Sanctuary]]
+
+<!-- enriched: true -->

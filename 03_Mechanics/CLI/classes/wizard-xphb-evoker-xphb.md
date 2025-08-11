@@ -79,3 +79,23 @@ You can increase the power of your spells. When you cast a Wizard spell with a s
 The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/03_Mechanics/CLI/variant-rules/immunity-xphb.md).
 
 Each time you use this feature again before finishing a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `d12`.
+
+## Player-Facing Summary
+
+Wizard xphb evoker xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb evoker xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb evoker xphb.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb evoker xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb evoker xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb evoker xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

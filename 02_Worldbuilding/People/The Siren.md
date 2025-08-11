@@ -339,3 +339,23 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 ---
 
 *"In the end, everyone sings for The Siren—whether they know the words or not."*
+
+## Player-Facing Summary
+
+The Siren is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Siren as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Siren.
+
+## Adventure Hooks
+
+- A rumor ties The Siren to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Siren to avert a public scandal.
+- A map overlay reveals a hidden approach to The Siren active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Siren]]
+
+<!-- enriched: true -->

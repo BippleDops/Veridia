@@ -790,3 +790,23 @@ The adventure ends, but the story of these heroes and the world they helped shap
 <function_calls>
 <invoke name="TodoWrite">
 <parameter name="todos">[{"id": "session1", "content": "Create Session_1_Missing_Ships.md - Investigation begins at Port Meridian docks", "status": "completed"}, {"id": "session2", "content": "Create Session_2_Harbor_Investigation.md - Uncovering smuggling operations", "status": "completed"}, {"id": "session3", "content": "Create Session_3_Underwater_Chase.md - Pursuing suspects through pressure tubes", "status": "completed"}, {"id": "session4", "content": "Create Session_4_Smuggler_Base.md - Infiltrating the hidden base", "status": "completed"}, {"id": "session5", "content": "Create Session_5_Conspiracy_Revealed.md - Final confrontation and revelations", "status": "completed"}]
+
+## Player-Facing Summary
+
+Session 5 Conspiracy Revealed is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 5 Conspiracy Revealed as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 5 Conspiracy Revealed.
+
+## Adventure Hooks
+
+- A rumor ties Session 5 Conspiracy Revealed to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 5 Conspiracy Revealed to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 5 Conspiracy Revealed active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

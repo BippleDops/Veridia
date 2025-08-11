@@ -126,3 +126,23 @@ At 20th level, you become an avatar of peace, which gives you two benefits:
 - Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack.  
 
 If you attack a creature, cast a spell on it, or deal damage to it by any means but this feature, neither benefit works against that creature until you finish a long rest.
+
+## Player-Facing Summary
+
+Paladin xphb oath of redemption xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of paladin xphb oath of redemption xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paladin xphb oath of redemption xge.
+
+## Adventure Hooks
+
+- A rumor ties paladin xphb oath of redemption xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at paladin xphb oath of redemption xge to avert a public scandal.
+- A map overlay reveals a hidden approach to paladin xphb oath of redemption xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

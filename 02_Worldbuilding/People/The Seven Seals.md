@@ -407,3 +407,17 @@ Points toward nearest Anchor Point:
 - [[03_Mechanics/Deep_Mother_Subsystem]]
 
 *"Seven to bind, seven to hold, seven to keep the story untold."*
+
+## Player-Facing Summary
+
+The Seven Seals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Seven Seals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Seals.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Seven Seals]]
+
+<!-- enriched: true -->

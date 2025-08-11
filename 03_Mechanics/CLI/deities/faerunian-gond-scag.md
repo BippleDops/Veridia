@@ -32,3 +32,23 @@ Priests of Gond wander the North dressed in saffron vestments, adorned with sash
 Most who favor Gond practice time-honored crafting professions: they are smiths and engineers, architects and weavers, leatherworkers and jewelers. Even so, this faith has a well-earned reputation as a haven for crackpot inventors and visionaries.
 
 The center of Gond's worship on the Sword Coast lies in Baldur's Gate, where the faithful have erected two huge structures in honor of the Wonderbringer: a temple called the High House of Wonders and a museum of craft and design called the Hall of Wonders. Lantan had been the preeminent place of Gond's worship in the world until a century ago, when the island nation disappeared, and since its return the few Lantanese merchants seen in Sword Coast ports have said little about the present state of their homeland.
+
+## Player-Facing Summary
+
+Faerunian gond scag is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of faerunian gond scag as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around faerunian gond scag.
+
+## Adventure Hooks
+
+- A rumor ties faerunian gond scag to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at faerunian gond scag to avert a public scandal.
+- A map overlay reveals a hidden approach to faerunian gond scag active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

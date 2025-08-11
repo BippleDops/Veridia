@@ -324,3 +324,23 @@ Before starting any scene:
 *Remember: Every scene should advance story, develop character, or raise stakes. If it doesn't do at least one, cut it and frame something that does.*
 
 **The perfect scene starts with a bang, middles with meaning, and ends with a gasp.**
+
+## Player-Facing Summary
+
+Scene Framing Templates is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Scene Framing Templates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scene Framing Templates.
+
+## Adventure Hooks
+
+- A rumor ties Scene Framing Templates to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Scene Framing Templates to avert a public scandal.
+- A map overlay reveals a hidden approach to Scene Framing Templates active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

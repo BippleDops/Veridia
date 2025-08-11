@@ -319,3 +319,17 @@ Prismatica rarely engages in direct combat, preferring defensive and support str
 - [[Azure Citadel]]
 - [[Aether Crystals]]
 - [[Smuggler's Gambit]]
+
+## Player-Facing Summary
+
+Aether Crystal is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aether Crystal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aether Crystal.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Aether Crystal]]
+
+<!-- enriched: true -->

@@ -398,3 +398,23 @@ The Martikovs narrowly escape the carnage and flee to the Blue Water Inn in Vall
 Three days after Wintersplinter's attack, [Baba Lysaga](/03_Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md) (see chapter 10, area U3) dispatches the seven [scarecrows](/03_Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) from Berez and orders them to take up positions in the vineyard, to discourage the wereravens from returning. These scarecrows attack anyone who crosses the vineyard or approaches the ruined winery.
 
 ![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/115-cos12-05.webp#center)
+
+## Player-Facing Summary
+
+14 chapter 12 the wizard of wines is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 14 chapter 12 the wizard of wines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 chapter 12 the wizard of wines.
+
+## Adventure Hooks
+
+- A rumor ties 14 chapter 12 the wizard of wines to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 14 chapter 12 the wizard of wines to avert a public scandal.
+- A map overlay reveals a hidden approach to 14 chapter 12 the wizard of wines active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -409,3 +409,23 @@ This choice will determine not just his fate, but the future of magic, monarchy,
 - [[The Seven Shards]]
 - [[The Shattering of the Crown]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+The Crimson Sage is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crimson Sage as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Sage.
+
+## Adventure Hooks
+
+- A rumor ties The Crimson Sage to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Crimson Sage to avert a public scandal.
+- A map overlay reveals a hidden approach to The Crimson Sage active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Crimson Sage]]
+
+<!-- enriched: true -->

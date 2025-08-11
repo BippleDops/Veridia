@@ -25,3 +25,23 @@ You either have inspiration or you don't—you can't stockpile multiple "inspira
 If you have inspiration, you can expend it when you make an attack roll, saving throw, or ability check. Spending your inspiration gives you advantage on that roll.
 
 Additionally, if you have inspiration, you can reward another player for good roleplaying, clever thinking, or simply doing something exciting in the game. When another player character does something that really contributes to the story in a fun and interesting way, you can give up your inspiration to give that character inspiration.
+
+## Player-Facing Summary
+
+Inspiration phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of inspiration phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inspiration phb.
+
+## Adventure Hooks
+
+- A rumor ties inspiration phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at inspiration phb to avert a public scandal.
+- A map overlay reveals a hidden approach to inspiration phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

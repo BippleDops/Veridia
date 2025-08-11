@@ -125,3 +125,23 @@ modified: 2025-07-23 12:39
 | [Waterskin](/03_Mechanics/CLI/items/waterskin-xphb.md) | 2 sp | 5 lb. (full) |
 | [Whetstone](/03_Mechanics/CLI/items/whetstone.md) | 1 cp | 1 lb. |
 ^adventuring-gear
+
+## Player-Facing Summary
+
+Adventuring gear phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of adventuring gear phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adventuring gear phb.
+
+## Adventure Hooks
+
+- A rumor ties adventuring gear phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at adventuring gear phb to avert a public scandal.
+- A map overlay reveals a hidden approach to adventuring gear phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

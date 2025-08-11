@@ -241,3 +241,21 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 - Increasing criminal infiltration requiring enhanced security measures
 - New trade routes opening due to political changes in distant kingdoms
 - Economic warfare between legitimate and black market operations
+
+## Player-Facing Summary
+
+The Grand Bazaar of Echoing Coins is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Grand Bazaar of Echoing Coins as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Grand Bazaar of Echoing Coins.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]
+
+<!-- enriched: true -->

@@ -131,3 +131,23 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Mind flayer arcanist xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mind flayer arcanist xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mind flayer arcanist xmm.
+
+## Adventure Hooks
+
+- A rumor ties mind flayer arcanist xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mind flayer arcanist xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to mind flayer arcanist xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -364,3 +364,17 @@ The Shadow Independence Levels represents a unique approach to minority rights a
 ## Connections
 
 - [[Stop the Shadow Harvest]]
+
+## Player-Facing Summary
+
+Shadow Independence Levels is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Independence Levels as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Independence Levels.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

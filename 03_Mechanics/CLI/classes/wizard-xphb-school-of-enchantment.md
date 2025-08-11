@@ -82,3 +82,23 @@ Starting at 10th level, when you cast an enchantment spell of 1st level or highe
 At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being [charmed](/03_Mechanics/CLI/conditions.md#Charmed).
 
 Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent [charmed](/03_Mechanics/CLI/conditions.md#Charmed). The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.
+
+## Player-Facing Summary
+
+Wizard xphb school of enchantment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb school of enchantment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb school of enchantment.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb school of enchantment to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb school of enchantment to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb school of enchantment active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

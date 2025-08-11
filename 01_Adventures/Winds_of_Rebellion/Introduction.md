@@ -203,3 +203,23 @@ For DMs who want to jump directly into the adventure, the essential information 
 - **Stakes**: The future of Aethermoor's government and society
 
 Each session file provides detailed guidance for running that specific segment of the adventure, while the supporting files offer expanded rules and reference materials for political intrigue campaigns in Aethermoor.
+
+## Player-Facing Summary
+
+Introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Introduction.
+
+## Adventure Hooks
+
+- A rumor ties Introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to Introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -291,3 +291,13 @@ The Tidal Shard of Memory stands as one of [[02_Worldbuilding/Lore/The Seven Sha
 - Collective experiences can help players understand other cultures and perspectives
 - Risk/reward mechanics for accessing increasingly powerful but dangerous abilities
 - Moral complexity around responsibility for preserving vs. sharing accumulated wisdom
+
+## Player-Facing Summary
+
+The Tidal Shard of Memory is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Tidal Shard of Memory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidal Shard of Memory.
+
+<!-- enriched: true -->

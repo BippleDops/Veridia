@@ -41,3 +41,23 @@ modified: 2025-07-23 12:39
 | &emsp;[Common (pitcher)](/03_Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 sp |
 | &emsp;[Fine (bottle)](/03_Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 gp |
 ^food-drink-and-lodging
+
+## Player-Facing Summary
+
+Food drink and lodging phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of food drink and lodging phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around food drink and lodging phb.
+
+## Adventure Hooks
+
+- A rumor ties food drink and lodging phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at food drink and lodging phb to avert a public scandal.
+- A map overlay reveals a hidden approach to food drink and lodging phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

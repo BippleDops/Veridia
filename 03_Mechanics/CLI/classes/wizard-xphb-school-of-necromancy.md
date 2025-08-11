@@ -83,3 +83,23 @@ Beginning at 10th level, you have resistance to necrotic damage, and your hit po
 Starting at 14th level, you can use magic to bring undead under your control, even those created by other wizards. As an action, you can choose one undead that you can see within 60 feet of you. That creature must make a Charisma saving throw against your wizard spell save DC. If it succeeds, you can't use this feature on it again. If it fails, it becomes friendly to you and obeys your commands until you use this feature again.
 
 Intelligent undead are harder to control in this way. If the target has an Intelligence of 8 or higher, it has advantage on the saving throw. If it fails the saving throw and has an Intelligence of 12 or higher, it can repeat the saving throw at the end of every hour until it succeeds and breaks free.
+
+## Player-Facing Summary
+
+Wizard xphb school of necromancy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb school of necromancy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb school of necromancy.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb school of necromancy to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb school of necromancy to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb school of necromancy active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

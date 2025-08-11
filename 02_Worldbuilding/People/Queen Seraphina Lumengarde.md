@@ -190,3 +190,23 @@ Queen Seraphina Lumengarde has ruled [[02_Worldbuilding/Places/Aethermoor]] for 
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Queen Seraphina Lumengarde is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Queen Seraphina Lumengarde as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Queen Seraphina Lumengarde.
+
+## Adventure Hooks
+
+- A rumor ties Queen Seraphina Lumengarde to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Queen Seraphina Lumengarde to avert a public scandal.
+- A map overlay reveals a hidden approach to Queen Seraphina Lumengarde active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+
+<!-- enriched: true -->

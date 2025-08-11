@@ -149,3 +149,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Gatekeeper Iron Lung Boris is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Gatekeeper Iron Lung Boris as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gatekeeper Iron Lung Boris.
+
+## Adventure Hooks
+
+- A rumor ties Gatekeeper Iron Lung Boris to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Gatekeeper Iron Lung Boris to avert a public scandal.
+- A map overlay reveals a hidden approach to Gatekeeper Iron Lung Boris active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Gatekeeper Iron-Lung Boris]]
+
+<!-- enriched: true -->

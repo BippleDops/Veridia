@@ -86,3 +86,23 @@ The healing spells you cast on others heal you as well. Immediately after you ca
 ### Supreme Healing (Level 17)
 
 When you would normally roll one or more dice to restore [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature with a spell, you restore 12.
+
+## Player-Facing Summary
+
+Cleric xphb life domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb life domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb life domain xphb.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb life domain xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb life domain xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb life domain xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

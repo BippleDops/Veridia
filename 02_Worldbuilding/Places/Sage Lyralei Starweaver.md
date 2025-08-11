@@ -50,3 +50,23 @@ Sage Lyralei Starweaver is a living crossroads where memory-currents and trade f
 - [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]]
 - [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
+
+## Player-Facing Summary
+
+Sage Lyralei Starweaver is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sage Lyralei Starweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sage Lyralei Starweaver.
+
+## Adventure Hooks
+
+- A rumor ties Sage Lyralei Starweaver to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Sage Lyralei Starweaver to avert a public scandal.
+- A map overlay reveals a hidden approach to Sage Lyralei Starweaver active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

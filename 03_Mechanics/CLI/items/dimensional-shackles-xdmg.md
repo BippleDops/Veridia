@@ -22,3 +22,23 @@ You can take a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action to place t
 You and any creature you designate when you use the shackles can take a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action to remove them. Once every 30 days, the bound creature can make a DC 30 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. On a successful check, the creature breaks free and destroys the shackles.
 
 *Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Dimensional shackles xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dimensional shackles xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dimensional shackles xdmg.
+
+## Adventure Hooks
+
+- A rumor ties dimensional shackles xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dimensional shackles xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to dimensional shackles xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

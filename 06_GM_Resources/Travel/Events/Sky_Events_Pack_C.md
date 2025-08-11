@@ -72,3 +72,23 @@ Complements Packs A and B. Use with core systems and vehicle rules.
 - Reality Control: Severity -1 allied; +1 opposed.
 - Humanitarian Relief: Airbridges; standing > gp.
 - Pirate Confederacy: Gravity snares; legal chaos.
+
+## Player-Facing Summary
+
+Sky Events Pack C is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sky Events Pack C as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Events Pack C.
+
+## Adventure Hooks
+
+- A rumor ties Sky Events Pack C to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Sky Events Pack C to avert a public scandal.
+- A map overlay reveals a hidden approach to Sky Events Pack C active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

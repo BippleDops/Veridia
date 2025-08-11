@@ -80,3 +80,23 @@ Genasi use the naming conventions of the people among whom they were raised. The
 > 
 > Water genasi almost all have some experience aboard or around sea vessels. They make excellent mariners and fishers. Like earth genasi, though, water genasi prefer quiet and solitude; the wide shores are their natural homes. They go where they want, do what they want, and rarely feel bound to anything. Good backgrounds for water genasi include hermit and sailor.
 ^genasi-backgrounds
+
+## Player-Facing Summary
+
+08 appendix a genasi is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 08 appendix a genasi as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 appendix a genasi.
+
+## Adventure Hooks
+
+- A rumor ties 08 appendix a genasi to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 08 appendix a genasi to avert a public scandal.
+- A map overlay reveals a hidden approach to 08 appendix a genasi active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

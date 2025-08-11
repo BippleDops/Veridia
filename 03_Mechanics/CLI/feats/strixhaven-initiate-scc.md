@@ -31,3 +31,23 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 | Silverquill | Choose two from [sacred flame](/03_Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/03_Mechanics/CLI/spells/thaumaturgy-xphb.md), and [vicious mockery](/03_Mechanics/CLI/spells/vicious-mockery-xphb.md). | Choose one 1st-level bard or cleric spell. |
 | Witherbloom | Choose two from [chill touch](/03_Mechanics/CLI/spells/chill-touch-xphb.md), [druidcraft](/03_Mechanics/CLI/spells/druidcraft-xphb.md), and [spare the dying](/03_Mechanics/CLI/spells/spare-the-dying-xphb.md). | Choose one 1st-level druid or wizard spell. |
 ^strixhaven-spells
+
+## Player-Facing Summary
+
+Strixhaven initiate scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of strixhaven initiate scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strixhaven initiate scc.
+
+## Adventure Hooks
+
+- A rumor ties strixhaven initiate scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at strixhaven initiate scc to avert a public scandal.
+- A map overlay reveals a hidden approach to strixhaven initiate scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -38,3 +38,23 @@ Once the cube summons a creature, the cube can't do so again until the next dawn
 ^cube-of-summoning
 
 *Source: Dungeon Master's Guide (2024) p. 247*
+
+## Player-Facing Summary
+
+Cube of summoning xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cube of summoning xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cube of summoning xdmg.
+
+## Adventure Hooks
+
+- A rumor ties cube of summoning xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cube of summoning xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to cube of summoning xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

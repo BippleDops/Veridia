@@ -100,3 +100,23 @@ Escape notice by moving quietly and hiding behind things.
 _Source: Player's Handbook (2024) p. 14. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 Follow tracks, forage, find a trail, or avoid natural hazards.
+
+## Player-Facing Summary
+
+Skills is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of skills as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skills.
+
+## Adventure Hooks
+
+- A rumor ties skills to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at skills to avert a public scandal.
+- A map overlay reveals a hidden approach to skills active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

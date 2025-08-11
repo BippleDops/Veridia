@@ -155,3 +155,27 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 - "The future flows like water—it finds the easiest path, but can be diverted..."
 
 **Mannerisms**: Her eyes frequently lose focus as visions overlay her present sight. She traces patterns in the air when thinking deeply, and water around her begins to swirl when she's accessing powerful prophecies. She sometimes responds to questions before they're asked, then appears confused when others don't understand the context.
+
+## Player-Facing Summary
+
+Oracle is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Oracle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Oracle.
+
+## Adventure Hooks
+
+- A rumor ties Oracle to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Oracle to avert a public scandal.
+- A map overlay reveals a hidden approach to Oracle active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Oracle]]
+
+<!-- enriched: true -->

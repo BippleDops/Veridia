@@ -36,3 +36,23 @@ Energetic debates have been held over whether Rillifane's oak tree exists only o
 Ancient trees are almost always incorporated into shrines to Rillifane Rallathil. Many forests in elven lands have sacred groves where such trees stand as silent witnesses to the events of the world. At the base of such a tree, amid its immense, gnarled roots, the druids of Rillifane place their offerings. Carvings of animals, golden acorns, snowdrops, and sprigs of holly or witch hazel are all common offerings to the god of the passing seasons and the beasts of the forest. Often a shrine to Rillifane contains resting places where one can bend knee and meditate at the base of the great tree.
 
 The druids of Rillifane consider trees to be symbolic of the connection between the mental and the physical, between what is illuminated and what remains mysterious. Trunks and branches reach high into the expanse of the mind and the realm of revelation, while roots sink deep, anchoring themselves in the known and enwrapping what remains hidden. When Rillifane's druids meditate at the site of a great tree, they can receive visions that afford them a new way of seeing the world. Often these flashes compel the devotee to undertake a quest to bring balance to the natural order by delivering a vital message or completing some other task.
+
+## Player-Facing Summary
+
+Elven rillifane rallathil mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elven rillifane rallathil mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven rillifane rallathil mtf.
+
+## Adventure Hooks
+
+- A rumor ties elven rillifane rallathil mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elven rillifane rallathil mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elven rillifane rallathil mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -22,3 +22,23 @@ modified: 2025-07-23 12:39
 | 14th | 1/10 | 1/4 | 1/3 | 1/2 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 4/1 | 5/1 | 6/1 | — |
 | 15th | 1/12 | 1/5 | 1/3 | 1/2 | 1/1 | 1/1 | 1/1 | 2/1 | 2/1 | 3/1 | 3/1 | 4/1 | 5/1 | 5/1 | 6/1 |
 ^multiple-monsters-11th-15th-level
+
+## Player-Facing Summary
+
+Determine numbers and challenge ratings multiple monsters 11th 15th level xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of determine numbers and challenge ratings multiple monsters 11th 15th level xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine numbers and challenge ratings multiple monsters 11th 15th level xge.
+
+## Adventure Hooks
+
+- A rumor ties determine numbers and challenge ratings multiple monsters 11th 15th level xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at determine numbers and challenge ratings multiple monsters 11th 15th level xge to avert a public scandal.
+- A map overlay reveals a hidden approach to determine numbers and challenge ratings multiple monsters 11th 15th level xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

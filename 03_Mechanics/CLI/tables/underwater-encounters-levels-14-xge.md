@@ -42,3 +42,23 @@ modified: 2025-07-23 12:39
 | 99 | 1 [water elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) |
 | 00 | 1 [sahuagin baron](/03_Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md) |
 ^underwater-encounters-levels-14
+
+## Player-Facing Summary
+
+Underwater encounters levels 14 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of underwater encounters levels 14 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around underwater encounters levels 14 xge.
+
+## Adventure Hooks
+
+- A rumor ties underwater encounters levels 14 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at underwater encounters levels 14 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to underwater encounters levels 14 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -65,3 +65,23 @@ Using this approach, you track renown based on specific divine figures in your c
 The gods bestow favors on those who prove their devotion. With each rank of piety gained, a character can pray for divine favor once per day. This favor usually comes in the form of a cleric spell like bless. The favor often comes with a sign of the divine benefactor; for example, a character dedicated to Thor might receive a spell accompanied by the boom of thunder.
 
 A high level of piety can also lead to a character gaining a more persistent benefit, in the form of a blessing or charm (see chapter 7, "Treasure," for such supernatural gifts).
+
+## Player-Facing Summary
+
+Renown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of renown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around renown.
+
+## Adventure Hooks
+
+- A rumor ties renown to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at renown to avert a public scandal.
+- A map overlay reveals a hidden approach to renown active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

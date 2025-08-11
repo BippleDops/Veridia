@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master_People_Index.md",
+                "file": "02_Worldbuilding/Places/Port Meridian.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master_People_Index"
+              "title": "Port Meridian"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Master_People_Index.md",
+                "file": "02_Worldbuilding/Places/Port Meridian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Master_People_Index"
+              "title": "Outline of Port Meridian"
             }
           },
           {
@@ -363,6 +363,7 @@
   },
   "active": "030da86bd965753b",
   "lastOpenFiles": [
+    "Master_People_Index.md",
     "03_Mechanics/CLI/bestiary/giant/ogre-xmm.md",
     "scripts/build_prompts.js",
     "03_Mechanics/CLI/books/monster-manual-2014/1-introduction.md",
@@ -394,7 +395,6 @@
     "02_Worldbuilding/Lore/Spell Components.md",
     "02_Worldbuilding/Lore/Save the Citizens.md",
     "02_Worldbuilding/Lore/Reputation System.md",
-    "02_Worldbuilding/Lore/Professor Euclid Mindmaze.md",
     "Combat Tracker.base",
     "Faction_Tracker.base",
     "Image Library.base",

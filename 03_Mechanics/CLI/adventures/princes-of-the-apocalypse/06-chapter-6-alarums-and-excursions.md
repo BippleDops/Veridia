@@ -1887,3 +1887,23 @@ Within the stone coffin lie the remains of the dwarf king, his skeletal hands cl
 Captured members of Drannin's crew can divulge the location of the real Gargosh. He is imprisoned in a small cave on the riverbank near Yartar, locked in a large trunk with air holes and water. Gargosh can survive for four more days inside the trunk.
 
 If the characters emerge from the dwarven crypts with [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) in their custody, the Harpers hiding in area X5 confront them under the open sky. They point out that [Orcsplitter](/03_Mechanics/CLI/items/orcsplitter-pota.md) belongs in the hands of dwarven scholars. They'll first appeal to the characters' sense of altruism, but if that doesn't work, the Harpers try to arrange an exchange of magic items. This is an opportunity for your players to ask for something—a specific weapon or two, perhaps—that suits their particular characters. If an agreement is reached, Ariana Riverlost promises to meet the characters again in two weeks, at a location chosen by them, with the agreed-upon payment.
+
+## Player-Facing Summary
+
+06 chapter 6 alarums and excursions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 06 chapter 6 alarums and excursions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 6 alarums and excursions.
+
+## Adventure Hooks
+
+- A rumor ties 06 chapter 6 alarums and excursions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 06 chapter 6 alarums and excursions to avert a public scandal.
+- A map overlay reveals a hidden approach to 06 chapter 6 alarums and excursions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

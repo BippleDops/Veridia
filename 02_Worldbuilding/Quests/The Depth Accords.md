@@ -361,3 +361,19 @@ This quest serves as a masterclass in diplomatic adventure design, offering play
 - [[Diplomatic Tides]]
 - [[Quest - Nature's Balance]]
 - [[The_Second_Rising]]
+
+## Player-Facing Summary
+
+The Depth Accords is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Depth Accords as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Depth Accords.
+
+## Adventure Hooks
+
+- A rumor ties The Depth Accords to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Depth Accords to avert a public scandal.
+- A map overlay reveals a hidden approach to The Depth Accords active only during specific tides/storms.
+
+<!-- enriched: true -->

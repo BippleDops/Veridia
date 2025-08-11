@@ -218,3 +218,19 @@ This quest serves as an excellent introduction to the political complexities of 
 - [[The Shadow Trade Network]]
 - [[Port Meridian - Noble Quarter]]
 - [[Port Meridian]]
+
+## Player-Facing Summary
+
+Quest   Smuggler's Run is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   Smuggler's Run as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   Smuggler's Run.
+
+## Adventure Hooks
+
+- A rumor ties Quest   Smuggler's Run to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   Smuggler's Run to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   Smuggler's Run active only during specific tides/storms.
+
+<!-- enriched: true -->

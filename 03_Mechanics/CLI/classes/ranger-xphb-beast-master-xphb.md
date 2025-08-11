@@ -85,3 +85,23 @@ In addition, the first time each turn it hits a creature under the effect of you
 ### Share Spells (Level 15)
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
+
+## Player-Facing Summary
+
+Ranger xphb beast master xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ranger xphb beast master xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb beast master xphb.
+
+## Adventure Hooks
+
+- A rumor ties ranger xphb beast master xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ranger xphb beast master xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to ranger xphb beast master xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

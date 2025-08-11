@@ -735,3 +735,17 @@ The Legal System of Aquabyssos continues to evolve as society faces new challeng
 **Social Justice Movements**: Ongoing social evolution may drive reforms in legal procedures, rights protections, and the fundamental philosophy of justice in Aquabyssos society.
 
 The legal system serves not just as a means of maintaining order, but as a reflection of Aquabyssos society's values, priorities, and vision for the future. As both society and the underwater environment continue to change, the law must balance stability with adaptability, ensuring that justice remains achievable for all inhabitants of the drowned world while preparing for challenges that have yet to emerge from the depths.
+
+## Player-Facing Summary
+
+Legal System of Aquabyssos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Legal System of Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Legal System of Aquabyssos.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -72,3 +72,23 @@ The book has 8 charges and regains `d8` expended charges daily at dawn. While ho
 To destroy the book, six different demon lords must each tear out a sixth of the book's pages. If this occurs, the pages reappear after 24 hours. Before all those hours pass, anyone who opens the book's remaining binding is transported to a nascent layer of the Abyss that lies hidden within the book. At the heart of this deadly, semi-sentient domain lies a long-lost Artifact, Fraz-Urb'luu's Staff. If the staff is dragged from the pocket plane, the tome is reduced to a mundane and out-of-date copy of the Tome of Zyx, the work that served as the foundation of the Demonomicon of Iggwilv. The Tome of Zyx can be destroyed like any ordinary book. Once the staff emerges, the demon lord Fraz-Urb'luu knows instantly.
 
 *Source: Dungeon Master's Guide (2024) p. 252*
+
+## Player-Facing Summary
+
+Demonomicon of iggwilv xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of demonomicon of iggwilv xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demonomicon of iggwilv xdmg.
+
+## Adventure Hooks
+
+- A rumor ties demonomicon of iggwilv xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at demonomicon of iggwilv xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to demonomicon of iggwilv xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

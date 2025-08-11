@@ -388,3 +388,19 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 - [[The Maw of Darkness]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Shadow Surgeons Collective is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Surgeons Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Surgeons Collective.
+
+## Adventure Hooks
+
+- A rumor ties Shadow Surgeons Collective to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Shadow Surgeons Collective to avert a public scandal.
+- A map overlay reveals a hidden approach to Shadow Surgeons Collective active only during specific tides/storms.
+
+<!-- enriched: true -->

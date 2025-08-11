@@ -22,3 +22,23 @@ When the book appears, choose three cantrips, and choose two level 1 spells that
 ## Spellcasting Focus
 
 You can use the book as a [Spellcasting Focus](/03_Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md).
+
+## Player-Facing Summary
+
+Pact of the tome xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of pact of the tome xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pact of the tome xphb.
+
+## Adventure Hooks
+
+- A rumor ties pact of the tome xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at pact of the tome xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to pact of the tome xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

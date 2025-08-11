@@ -342,3 +342,23 @@ If the characters take Basidia's advice and turn back, the myconid sovereign pro
 ### Velkynvelve
 
 If the adventurers return to the drow outpost where they were imprisoned, they find Velkynvelve under the command of a [drow mage](/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Servan Llarabbar. Six male [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) report to him, while three more male [drow](/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and one female [drow elite warrior](/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) have been locked in the slave pen. The prisoners are afflicted with various forms of indefinite madness (roll on the Indefinite Madness table in "chapter 8" of the *Dungeon Master's Guide*). Even Servan is beginning to show heightened megalomania and paranoia, seeing enemies everywhere. He has delusions of grandeur and fantasies about declaring Velkynvelve independent of Menzoberranzan, rallying followers to his side and eventually toppling the matriarchs of the great houses.
+
+## Player-Facing Summary
+
+10 chapter 10 descent into the depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 10 chapter 10 descent into the depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 chapter 10 descent into the depths.
+
+## Adventure Hooks
+
+- A rumor ties 10 chapter 10 descent into the depths to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 10 chapter 10 descent into the depths to avert a public scandal.
+- A map overlay reveals a hidden approach to 10 chapter 10 descent into the depths active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

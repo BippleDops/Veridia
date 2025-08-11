@@ -514,3 +514,23 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 - [[The Restoration Movement]]
 - [[The Silverscale Conspiracy]]
 - [[Aethermoor - Session 03 Council of Shadows]]
+
+## Player-Facing Summary
+
+Silver Mask is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Silver Mask as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silver Mask.
+
+## Adventure Hooks
+
+- A rumor ties Silver Mask to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Silver Mask to avert a public scandal.
+- A map overlay reveals a hidden approach to Silver Mask active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

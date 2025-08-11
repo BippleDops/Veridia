@@ -302,3 +302,23 @@ If a character steps up to the challenge and fights Cyanwrath, each party member
 #### Developments
 
 It's assumed that when characters first see the fighting in Greenest, they will rush to its defense. If they don't, and they're traveling with others, then the NPCs they're traveling with suggest that an immediate attack might turn the tide or at least save many lives. If characters still sit out this fight, they see about half of the attackers leave around midnight, with the rest retiring in small groups over the next few hours. When the sun comes up, even a quick inspection shows that over half of the buildings are heavily damaged and much of the town's wealth was carried away. Hundreds of injured people are crowded into the keep or are found hiding in cellars, but most of them will survive.
+
+## Player-Facing Summary
+
+02 chapter 1 greenest in flames is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 chapter 1 greenest in flames as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 1 greenest in flames.
+
+## Adventure Hooks
+
+- A rumor ties 02 chapter 1 greenest in flames to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 chapter 1 greenest in flames to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 chapter 1 greenest in flames active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

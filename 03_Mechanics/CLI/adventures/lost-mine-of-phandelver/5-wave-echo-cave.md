@@ -482,3 +482,23 @@ With hard work and a little luck, the adventurers have defeated the Black Spider
 Gundren and [Nundro Rockseeker](/03_Mechanics/CLI/bestiary/npc/nundro-rockseeker-lmop.md) take over administration of the new mine. For the adventurers' service to their family, they gladly award the party a 10 percent share of the mine's profits. If the characters want to remain in Phandalin and perhaps restore Tresendar Manor or establish homes of their own, the people of the area are glad to have them stay. Even if they choose to move on in search of new adventures, they'll always have a warm welcome in Phandalin.
 
 By the end of the adventure, the characters should be 5th level. If your players wish to continue playing their characters, you can use the contents of this set to create your own adventures; the mysterious map found in 14 of Wave Echo Cave provides one possible adventure hook, but feel free to explore other ideas using the monsters, magic items, and locations in this adventure. If you want to create adventures for characters higher than 5th level, you'll need the basic rules online or the advanced rulebooks: the *Player's Handbook, Dungeon Master's Guide* and *Monster Manual*.
+
+## Player-Facing Summary
+
+5 wave echo cave is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 5 wave echo cave as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 wave echo cave.
+
+## Adventure Hooks
+
+- A rumor ties 5 wave echo cave to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 5 wave echo cave to avert a public scandal.
+- A map overlay reveals a hidden approach to 5 wave echo cave active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

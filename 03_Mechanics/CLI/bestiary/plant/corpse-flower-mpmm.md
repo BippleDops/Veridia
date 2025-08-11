@@ -96,3 +96,23 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 ## Environment
 
 forest, swamp, urban
+
+## Player-Facing Summary
+
+Corpse flower mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of corpse flower mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around corpse flower mpmm.
+
+## Adventure Hooks
+
+- A rumor ties corpse flower mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at corpse flower mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to corpse flower mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -36,3 +36,23 @@ In addition, you can take the [Disengage](/03_Mechanics/CLI/actions.md#Disengage
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Conjure woodland beings xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of conjure woodland beings xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around conjure woodland beings xphb.
+
+## Adventure Hooks
+
+- A rumor ties conjure woodland beings xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at conjure woodland beings xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to conjure woodland beings xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

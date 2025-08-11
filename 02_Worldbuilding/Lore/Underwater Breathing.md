@@ -507,3 +507,23 @@ Understanding breathing systems helps characters navigate Aquabyssos society:
 - [[Pressure Adaptation System]]
 - [[The Deep Harvest]]
 - [[The Deep Mother]]
+
+## Player-Facing Summary
+
+Underwater Breathing is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Underwater Breathing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Underwater Breathing.
+
+## Adventure Hooks
+
+- A rumor ties Underwater Breathing to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Underwater Breathing to avert a public scandal.
+- A map overlay reveals a hidden approach to Underwater Breathing active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

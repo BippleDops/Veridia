@@ -1007,3 +1007,23 @@ If [Kasimir Velikov](/03_Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md) (see
 If Kasimir succeeds in his quest, the newly resurrected Patrina (NE female dusk elf [archmage](/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) feigns repentance until she regains her strength and her spells, whereupon she travels to Castle Ravenloft and attempts to return to Strahd, seeking to become his vampire bride at last. The mutilation of her brother at the hands of [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md), Strahd's chamberlain, doesn't sit well with her. She hopes to avenge her brother and distract the characters by setting them on a path to killing [Rahadin](/03_Mechanics/CLI/bestiary/npc/rahadin-cos.md), who has long opposed her marriage to Strahd.
 
 Strahd has lost interest in Patrina as a consort. Given the chance, he turns her into a [vampire spawn](/03_Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) and puts her back in her crypt—a fate she would do everything in her power to prevent. Her attraction to Strahd is outmatched by a desire to increase her own power. She is no one's plaything.
+
+## Player-Facing Summary
+
+15 chapter 13 the amber temple is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 15 chapter 13 the amber temple as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 15 chapter 13 the amber temple.
+
+## Adventure Hooks
+
+- A rumor ties 15 chapter 13 the amber temple to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 15 chapter 13 the amber temple to avert a public scandal.
+- A map overlay reveals a hidden approach to 15 chapter 13 the amber temple active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

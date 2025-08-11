@@ -21,3 +21,23 @@ modified: 2025-07-23 12:39
 - **Equipment.** Choose A or B: (A) [2 Daggers](/03_Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.md), [Gaming Set](/03_Mechanics/CLI/items/gaming-set-xphb.md) (any), [Bedroll](/03_Mechanics/CLI/items/bedroll-xphb.md), [2 Pouches](/03_Mechanics/CLI/items/pouch-xphb.md), [Traveler's Clothes](/03_Mechanics/CLI/items/travelers-clothes-xphb.md), 16 GP; or (B) 50 GP  
 
 You grew up on the streets surrounded by similarly ill-fated castoffs, a few of them friends and a few of them rivals. You slept where you could and did odd jobs for food. At times, when the hunger became unbearable, you resorted to theft. Still, you never lost your pride and never abandoned hope. Fate is not yet finished with you.
+
+## Player-Facing Summary
+
+Wayfarer xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wayfarer xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wayfarer xphb.
+
+## Adventure Hooks
+
+- A rumor ties wayfarer xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wayfarer xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wayfarer xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

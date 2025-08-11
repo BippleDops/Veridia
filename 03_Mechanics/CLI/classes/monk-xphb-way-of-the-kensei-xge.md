@@ -100,3 +100,23 @@ At 11th level, you gain the ability to augment your weapons further with your ki
 ### Unerring Accuracy (Level 17)
 
 At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
+
+## Player-Facing Summary
+
+Monk xphb way of the kensei xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monk xphb way of the kensei xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb way of the kensei xge.
+
+## Adventure Hooks
+
+- A rumor ties monk xphb way of the kensei xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monk xphb way of the kensei xge to avert a public scandal.
+- A map overlay reveals a hidden approach to monk xphb way of the kensei xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

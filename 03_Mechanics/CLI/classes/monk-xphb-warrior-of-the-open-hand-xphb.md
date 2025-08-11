@@ -85,3 +85,23 @@ When you take a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb
 You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend 4 Focus Points to start these imperceptible vibrations, which last for a number of days equal to your Monk level. The vibrations are harmless unless you take an action to end them. Alternatively, when you take the [Attack](/03_Mechanics/CLI/actions.md#Attack) action on your turn, you can forgo one of the attacks to end the vibrations. To end them, you and the target must be on the same plane of existence. When you end them, the target must make a Constitution saving throw, taking `10d12` Force damage on a failed save or half as much damage on a successful one.
 
 You can have only one creature under the effect of this feature at a time. You can end the vibrations harmlessly (no action required).
+
+## Player-Facing Summary
+
+Monk xphb warrior of the open hand xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monk xphb warrior of the open hand xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb warrior of the open hand xphb.
+
+## Adventure Hooks
+
+- A rumor ties monk xphb warrior of the open hand xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monk xphb warrior of the open hand xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to monk xphb warrior of the open hand xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

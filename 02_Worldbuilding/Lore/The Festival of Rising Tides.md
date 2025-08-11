@@ -557,3 +557,23 @@ Neighborhood areas specializing in traditional crafts and artistic activities, s
 Sacred locations dedicated to honoring deceased community members and maintaining spiritual connections with ancestral wisdom and guidance.
 
 The Festival of Rising Tides represents the living heart of Aquabyssos culture, where ancient wisdom meets contemporary adaptation in a celebration that strengthens community bonds while preparing for future challenges. Through this week-long festival, the people of Aquabyssos renew their connection to their deepest cultural values while building the relationships and skills needed to thrive in an changing world.
+
+## Player-Facing Summary
+
+The Festival of Rising Tides is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Festival of Rising Tides as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Festival of Rising Tides.
+
+## Adventure Hooks
+
+- A rumor ties The Festival of Rising Tides to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Festival of Rising Tides to avert a public scandal.
+- A map overlay reveals a hidden approach to The Festival of Rising Tides active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

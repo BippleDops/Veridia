@@ -40,3 +40,23 @@ title: Flamethrower Coach
 ***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [Line](/03_Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). *Failure:* 14 (4d6) Fire damage, and the creature starts burning. *Success:* Half damage only.
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Flamethrower coach xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of flamethrower coach xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flamethrower coach xdmg.
+
+## Adventure Hooks
+
+- A rumor ties flamethrower coach xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at flamethrower coach xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to flamethrower coach xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

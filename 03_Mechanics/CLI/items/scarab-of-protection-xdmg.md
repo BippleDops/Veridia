@@ -34,3 +34,23 @@ The scarab has 12 charges. If you fail a saving throw against a Necromancy spell
 You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells.
 
 *Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Scarab of protection xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scarab of protection xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scarab of protection xdmg.
+
+## Adventure Hooks
+
+- A rumor ties scarab of protection xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scarab of protection xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to scarab of protection xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

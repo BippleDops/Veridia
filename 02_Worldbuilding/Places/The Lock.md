@@ -442,3 +442,27 @@ Evidence suggests The Lock is not unique:
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
 - [[The Oracle of the Sundered Peaks]]
+
+## Player-Facing Summary
+
+The Lock is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Lock as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Lock.
+
+## Adventure Hooks
+
+- A rumor ties The Lock to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Lock to avert a public scandal.
+- A map overlay reveals a hidden approach to The Lock active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Lock]]
+
+<!-- enriched: true -->

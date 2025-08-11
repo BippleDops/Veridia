@@ -38,3 +38,23 @@ Practical, table-ready rules for Pressure Combat Modifiers across Aquabyssos and
 ## Cross-References
 - [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|Ultimate GM Screen]]
+
+## Player-Facing Summary
+
+Pressure Combat Modifiers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pressure Combat Modifiers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Combat Modifiers.
+
+## Adventure Hooks
+
+- A rumor ties Pressure Combat Modifiers to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pressure Combat Modifiers to avert a public scandal.
+- A map overlay reveals a hidden approach to Pressure Combat Modifiers active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

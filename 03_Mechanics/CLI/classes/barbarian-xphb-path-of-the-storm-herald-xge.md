@@ -112,3 +112,23 @@ At 14th level, the power of the storm you channel grows mightier, lashing out at
 - **Tundra**  
 
     Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the storm herald xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the storm herald xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the storm herald xge.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the storm herald xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the storm herald xge to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the storm herald xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

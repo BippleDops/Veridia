@@ -52,3 +52,23 @@ If a creature goes mad in Baphomet's lair or within line of sight of the demon l
 | 61–80 | "Hate comes easily to me and explodes into rage." |
 | 81–00 | "I see those who oppose me not as people, but as beasts meant to be preyed upon." |
 ^madness-of-baphomet
+
+## Player-Facing Summary
+
+Baphomet mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of baphomet mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around baphomet mtf.
+
+## Adventure Hooks
+
+- A rumor ties baphomet mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at baphomet mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to baphomet mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

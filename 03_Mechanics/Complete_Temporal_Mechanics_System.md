@@ -50,3 +50,23 @@ Builds time travel rules, paradox resolution, temporal combat, chrono-corruption
 - Long exposure: Aging/regression risks; sanity checks
 
 Integration: [[Complete Reality Merger System]], [[Sanity System]], [[Memory Trading Economy System|Memory Economy]], [[Deep Mother]].
+
+## Player-Facing Summary
+
+Complete Temporal Mechanics System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Complete Temporal Mechanics System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Complete Temporal Mechanics System.
+
+## Adventure Hooks
+
+- A rumor ties Complete Temporal Mechanics System to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Complete Temporal Mechanics System to avert a public scandal.
+- A map overlay reveals a hidden approach to Complete Temporal Mechanics System active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

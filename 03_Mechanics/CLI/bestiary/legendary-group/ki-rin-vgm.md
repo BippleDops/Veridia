@@ -33,3 +33,23 @@ The ki-rin's celestial nature transforms the region around its lair. Any of the 
 - Within 3 miles of the lair, winds buoy non-evil creatures that fall due to no act of the ki-rin or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.  
 
 When the ki-rin dies, all these effects disappear immediately, although the invigorating effect on flora and fauna remains for 3 years.
+
+## Player-Facing Summary
+
+Ki rin vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ki rin vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ki rin vgm.
+
+## Adventure Hooks
+
+- A rumor ties ki rin vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ki rin vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to ki rin vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

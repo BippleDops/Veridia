@@ -35,3 +35,23 @@ Once imbued with a spell, the gem can't be imbued again until the next dawn.
 Deep gnomes created these magic gemstones and keep the creation process a secret.
 
 *Source: Out of the Abyss p. 223*
+
+## Player-Facing Summary
+
+Spell gem lapis lazuli oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of spell gem lapis lazuli oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell gem lapis lazuli oota.
+
+## Adventure Hooks
+
+- A rumor ties spell gem lapis lazuli oota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at spell gem lapis lazuli oota to avert a public scandal.
+- A map overlay reveals a hidden approach to spell gem lapis lazuli oota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

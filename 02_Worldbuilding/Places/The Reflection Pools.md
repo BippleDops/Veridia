@@ -445,3 +445,17 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - [[03_Mechanics/Temporal_Mechanics_System]]
 
 *"In the Reflection Pools, every maybe becomes a mirror, and every mirror tells a truth that never was."*
+
+## Player-Facing Summary
+
+The Reflection Pools is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Reflection Pools.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Reflection Pools]]
+
+<!-- enriched: true -->

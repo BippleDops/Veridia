@@ -223,3 +223,23 @@ Their beaked, crested heads are distinctive.
 (A crisp, faintly chemical odor).
 
 ![White Dragon Identifiers](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/133-tod-e-17a.webp#center)
+
+## Player-Facing Summary
+
+14 appendix e concept gallery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 14 appendix e concept gallery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 appendix e concept gallery.
+
+## Adventure Hooks
+
+- A rumor ties 14 appendix e concept gallery to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 14 appendix e concept gallery to avert a public scandal.
+- A map overlay reveals a hidden approach to 14 appendix e concept gallery active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

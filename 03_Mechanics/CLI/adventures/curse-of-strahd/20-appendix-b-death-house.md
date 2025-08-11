@@ -571,3 +571,23 @@ If the characters deny the cult its sacrifice and either destroy the shambling m
 - The interior walls become rotted and brittle. Each 5-foot-section has AC 5 and 5 hit points, and can also be destroyed with a successful DC 10 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check. Each 5-foot section of wall that's destroyed causes a [swarm of rats](/03_Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) to pour out and attack. The swarm won't leave the house.  
 
 Keep track of initiative as the characters make their way through the house. Once they escape, they advance to 3rd level, and the house does no more to harm them.
+
+## Player-Facing Summary
+
+20 appendix b death house is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 20 appendix b death house as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 20 appendix b death house.
+
+## Adventure Hooks
+
+- A rumor ties 20 appendix b death house to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 20 appendix b death house to avert a public scandal.
+- A map overlay reveals a hidden approach to 20 appendix b death house active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

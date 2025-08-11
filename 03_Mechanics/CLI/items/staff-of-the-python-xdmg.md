@@ -32,3 +32,23 @@ On your turn, you can mentally command the snake (no action required) if it is w
 As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can command the snake to revert to staff form in its current space, and you can't use the staff's property again for 1 hour. If the snake is reduced to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), it regains all of them.
 
 *Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Staff of the python xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of staff of the python xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around staff of the python xdmg.
+
+## Adventure Hooks
+
+- A rumor ties staff of the python xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at staff of the python xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to staff of the python xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

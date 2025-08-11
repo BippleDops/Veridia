@@ -153,3 +153,27 @@ A mysterious figure known only as [[The Collector]] has been attempting to acqui
 - [[The Lock Saboteur]]
 - [[The Maw of Darkness]]
 - [[The Oracle of the Sundered Peaks]]
+
+## Player-Facing Summary
+
+Vault Keeper Eternal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vault Keeper Eternal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vault Keeper Eternal.
+
+## Adventure Hooks
+
+- A rumor ties Vault Keeper Eternal to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Vault Keeper Eternal to avert a public scandal.
+- A map overlay reveals a hidden approach to Vault Keeper Eternal active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Vault Keeper Eternal]]
+
+<!-- enriched: true -->

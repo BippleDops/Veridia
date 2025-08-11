@@ -198,3 +198,17 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuild
 - [[Tenebrarum Ambassadors]]
 - [[The Cerulean Breath]]
 - [[Quest - The Convergence Crisis]]
+
+## Player-Facing Summary
+
+Tribune Cassia Deepcurrent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Tribune Cassia Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tribune Cassia Deepcurrent.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Tribune Cassia Deepcurrent]]
+
+<!-- enriched: true -->

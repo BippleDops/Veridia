@@ -1558,3 +1558,23 @@ The revelation that some allies may be enemies creates ongoing tension that shou
 *End of Session 2: Court of Whispers*
 
 **Next Session Preview**: In "The Skyship Heist," the PCs must infiltrate Admiral Stormwind's flagship to steal crucial evidence while navigating aerial defenses and political complications. The conspiracy moves to eliminate threats as the political crisis escalates toward open conflict.
+
+## Player-Facing Summary
+
+Session 2 Court of Whispers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 2 Court of Whispers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 2 Court of Whispers.
+
+## Adventure Hooks
+
+- A rumor ties Session 2 Court of Whispers to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 2 Court of Whispers to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 2 Court of Whispers active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

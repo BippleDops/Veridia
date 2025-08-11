@@ -35,3 +35,23 @@ modified: 2025-07-23 12:39
 | [Stealth](/03_Mechanics/CLI/skills.md#Stealth) | Dexterity | Escape notice by moving quietly and hiding behind things. |
 | [Survival](/03_Mechanics/CLI/skills.md#Survival) | Wisdom | Follow tracks, forage, find a trail, or avoid natural hazards. |
 ^skills
+
+## Player-Facing Summary
+
+Skill list skills xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of skill list skills xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skill list skills xphb.
+
+## Adventure Hooks
+
+- A rumor ties skill list skills xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at skill list skills xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to skill list skills xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

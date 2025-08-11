@@ -16,3 +16,23 @@ modified: 2025-07-23 12:39
 If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the `d20`, and you must use the new roll.
 
 You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
+
+## Player-Facing Summary
+
+Seeking spell xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of seeking spell xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around seeking spell xphb.
+
+## Adventure Hooks
+
+- A rumor ties seeking spell xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at seeking spell xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to seeking spell xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -405,3 +405,21 @@ Observations from the Temporal Observation Deck show that in every timeline wher
 - [[The Forgotten One]]
 - [[The Shadow Markets]]
 - [[Vote Vaults]]
+
+## Player-Facing Summary
+
+The Recursion Cult is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Recursion Cult as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Recursion Cult.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Recursion Cult]]
+
+<!-- enriched: true -->

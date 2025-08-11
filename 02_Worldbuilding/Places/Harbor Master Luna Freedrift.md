@@ -177,3 +177,28 @@ Located in the [[Harbor Master's Tower]], a converted lighthouse overlooking the
 - [[Lucky Finn Dicetide]]
 - [[Supplier Erikson Tidecaller]]
 - [[The Wandering Atoll]]
+
+## Player-Facing Summary
+
+Harbor Master Luna Freedrift is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Harbor Master Luna Freedrift as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master Luna Freedrift.
+
+## Adventure Hooks
+
+- A rumor ties Harbor Master Luna Freedrift to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Harbor Master Luna Freedrift to avert a public scandal.
+- A map overlay reveals a hidden approach to Harbor Master Luna Freedrift active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
+
+<!-- enriched: true -->

@@ -153,3 +153,23 @@ Scylla represents the alien horror of Aquabyssos—someone who chose transformat
 - [[Timeline of the Drowning]]
 - [[Oracle]]
 - [[The Sorrowmaster]]
+
+## Player-Facing Summary
+
+High Priestess Scylla Deepdream is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of High Priestess Scylla Deepdream as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Scylla Deepdream.
+
+## Adventure Hooks
+
+- A rumor ties High Priestess Scylla Deepdream to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at High Priestess Scylla Deepdream to avert a public scandal.
+- A map overlay reveals a hidden approach to High Priestess Scylla Deepdream active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]]
+
+<!-- enriched: true -->

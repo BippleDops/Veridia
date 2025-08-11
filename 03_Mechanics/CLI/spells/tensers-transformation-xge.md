@@ -39,3 +39,23 @@ Immediately after the spell ends, you must succeed on a DC 15 Constitution savin
 **Classes**: [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 168*
+
+## Player-Facing Summary
+
+Tensers transformation xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of tensers transformation xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tensers transformation xge.
+
+## Adventure Hooks
+
+- A rumor ties tensers transformation xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at tensers transformation xge to avert a public scandal.
+- A map overlay reveals a hidden approach to tensers transformation xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

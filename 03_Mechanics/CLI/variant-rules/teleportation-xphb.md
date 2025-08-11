@@ -19,3 +19,23 @@ When you teleport, all the equipment you're wearing and carrying teleports with 
 If the destination space of your teleportation is occupied by another creature or blocked by a solid obstacle, you instead appear in the nearest unoccupied space of your choice.
 
 The description of a teleportation effect tells you if you must see the teleportation's destination.
+
+## Player-Facing Summary
+
+Teleportation xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of teleportation xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around teleportation xphb.
+
+## Adventure Hooks
+
+- A rumor ties teleportation xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at teleportation xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to teleportation xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -499,3 +499,19 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 
 - [[Vault Breach]]
 - [[Quest - Nature's Balance]]
+
+## Player-Facing Summary
+
+Quest   The Convergence Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Convergence Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Convergence Crisis.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Convergence Crisis to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Convergence Crisis to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Convergence Crisis active only during specific tides/storms.
+
+<!-- enriched: true -->

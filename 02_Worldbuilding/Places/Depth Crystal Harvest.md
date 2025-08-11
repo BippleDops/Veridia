@@ -127,3 +127,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Depth Crystal Harvest is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Depth Crystal Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Crystal Harvest.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Depth Crystal Harvest]]
+
+<!-- enriched: true -->

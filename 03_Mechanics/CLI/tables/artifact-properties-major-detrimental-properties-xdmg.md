@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 91–96 | The Artifact imprisons a [Death Slaad](/03_Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md). Each time you become attuned to the Artifact, the slaad has a 10 percent chance of escaping, whereupon it appears in an unoccupied space as close to you as possible and attacks you. |
 | 97–00 | While attuned to the Artifact, you can't spend Hit Point Dice or regain Hit Points. |
 ^major-detrimental-properties
+
+## Player-Facing Summary
+
+Artifact properties major detrimental properties xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of artifact properties major detrimental properties xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties major detrimental properties xdmg.
+
+## Adventure Hooks
+
+- A rumor ties artifact properties major detrimental properties xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at artifact properties major detrimental properties xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to artifact properties major detrimental properties xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

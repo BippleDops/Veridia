@@ -27,3 +27,23 @@ When you issue the "Trade" order to this facility, its hireling spends the next 
 When you sell goods from your Storehouse, the buyer pays you 10 percent more than the standard price; this profit increases to 20 percent when you reach level 9, 50 percent when you reach level 13, and 100 percent when you reach level 17.
 
 *Source: Dungeon Master's Guide (2024) p. 347*
+
+## Player-Facing Summary
+
+Storehouse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of storehouse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around storehouse.
+
+## Adventure Hooks
+
+- A rumor ties storehouse to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at storehouse to avert a public scandal.
+- A map overlay reveals a hidden approach to storehouse active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

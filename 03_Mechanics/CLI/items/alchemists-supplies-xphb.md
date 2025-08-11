@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 - **Craft.** [Acid](/03_Mechanics/CLI/items/acid-xphb.md), [Alchemist's Fire](/03_Mechanics/CLI/items/alchemists-fire-xphb.md), [Component Pouch](/03_Mechanics/CLI/items/component-pouch-xphb.md), [Oil](/03_Mechanics/CLI/items/oil-xphb.md), [Paper](/03_Mechanics/CLI/items/paper-xphb.md), [Perfume](/03_Mechanics/CLI/items/perfume-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Alchemists supplies xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of alchemists supplies xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around alchemists supplies xphb.
+
+## Adventure Hooks
+
+- A rumor ties alchemists supplies xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at alchemists supplies xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to alchemists supplies xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

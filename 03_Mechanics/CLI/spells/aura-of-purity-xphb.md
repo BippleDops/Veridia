@@ -34,3 +34,23 @@ An aura radiates from you in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rul
 **Classes**: [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 244*
+
+## Player-Facing Summary
+
+Aura of purity xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of aura of purity xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aura of purity xphb.
+
+## Adventure Hooks
+
+- A rumor ties aura of purity xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at aura of purity xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to aura of purity xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

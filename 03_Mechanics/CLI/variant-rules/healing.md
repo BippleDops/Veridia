@@ -37,3 +37,23 @@ For a more super-heroic feel, you can let a character use a healing surge as a b
 Characters don't regain hit points at the end of a long rest. Instead, a character can spend Hit Dice to heal at the end of a long rest, just as with a short rest.
 
 This optional rule prolongs the amount of time that characters need to recover from their wounds without the benefits of magical healing and works well for grittier, more realistic campaigns.
+
+## Player-Facing Summary
+
+Healing is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of healing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around healing.
+
+## Adventure Hooks
+
+- A rumor ties healing to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at healing to avert a public scandal.
+- A map overlay reveals a hidden approach to healing active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

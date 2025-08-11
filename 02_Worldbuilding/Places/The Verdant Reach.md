@@ -233,3 +233,17 @@ Pressure to ally with [[02_Worldbuilding/Groups/Purist Coalition]] against cryst
 - [[The Seven Shards]]
 - [[Commander Thrace Ironwood]]
 - [[Quest - The Root Network]]
+
+## Player-Facing Summary
+
+The Verdant Reach is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Verdant Reach as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Verdant Reach.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Verdant Reach]]
+
+<!-- enriched: true -->

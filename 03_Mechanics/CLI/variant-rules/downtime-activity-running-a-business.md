@@ -30,3 +30,23 @@ If the character is required to pay a cost as a result of rolling on this table 
 | 81-90 | The business covers its own maintenance cost for each of the days. It earns a profit of `2d8 × 5` gp. |
 | 91-100 | The business covers its own maintenance cost for each of the days. It earns a profit of `3d10 × 5` gp. |
 ^running-a-business
+
+## Player-Facing Summary
+
+Downtime activity running a business is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity running a business as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity running a business.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity running a business to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity running a business to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity running a business active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -289,3 +289,19 @@ Each of the seven fragments retains part of the crown's original power while dev
 ## Connections
 
 - [[Sister Morwyn]]
+
+## Player-Facing Summary
+
+Crown of Tidal Sovereignty is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Crown of Tidal Sovereignty as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crown of Tidal Sovereignty.
+
+## Adventure Hooks
+
+- A rumor ties Crown of Tidal Sovereignty to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Crown of Tidal Sovereignty to avert a public scandal.
+- A map overlay reveals a hidden approach to Crown of Tidal Sovereignty active only during specific tides/storms.
+
+<!-- enriched: true -->

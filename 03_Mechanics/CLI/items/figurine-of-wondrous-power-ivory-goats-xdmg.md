@@ -32,3 +32,23 @@ These ivory statuettes of goats are always created in sets of three. Each goat l
 - **Goat of Travail.** This figurine can become a [Giant Goat](/03_Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.  
 
 *Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Figurine of wondrous power ivory goats xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of figurine of wondrous power ivory goats xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around figurine of wondrous power ivory goats xdmg.
+
+## Adventure Hooks
+
+- A rumor ties figurine of wondrous power ivory goats xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at figurine of wondrous power ivory goats xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to figurine of wondrous power ivory goats xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

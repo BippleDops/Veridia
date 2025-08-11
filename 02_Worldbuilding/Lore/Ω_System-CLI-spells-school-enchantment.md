@@ -75,3 +75,23 @@ The practice of enchantment magic raises profound questions about free will and 
 4. **Emergency Exceptions**: Life-threatening situations may warrant temporary overrides
 
 The debate over these principles continues to shape magical education and practice across both realms, with some arguing that the Deep Mother's corruption makes such ethical niceties a luxury they can no longer afford.
+
+## Player-Facing Summary
+
+Ω System CLI spells school enchantment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ω System CLI spells school enchantment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ω System CLI spells school enchantment.
+
+## Adventure Hooks
+
+- A rumor ties Ω System CLI spells school enchantment to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ω System CLI spells school enchantment to avert a public scandal.
+- A map overlay reveals a hidden approach to Ω System CLI spells school enchantment active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

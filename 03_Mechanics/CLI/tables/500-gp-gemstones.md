@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | [Peridot](/03_Mechanics/CLI/items/peridot-xdmg.md) (transparent rich olive green) |
 | 6 | [Topaz](/03_Mechanics/CLI/items/topaz-xdmg.md) (transparent golden yellow) |
 ^500-gp-gemstones
+
+## Player-Facing Summary
+
+500 gp gemstones is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 500 gp gemstones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 500 gp gemstones.
+
+## Adventure Hooks
+
+- A rumor ties 500 gp gemstones to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 500 gp gemstones to avert a public scandal.
+- A map overlay reveals a hidden approach to 500 gp gemstones active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

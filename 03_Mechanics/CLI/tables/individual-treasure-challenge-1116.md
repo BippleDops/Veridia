@@ -23,3 +23,23 @@ modified: 2025-07-23 12:39
 | 36-75 | — | — | — | `2d6 × 100` (700) | `1d6 × 10` (35) |
 | 76-00 | — | — | — | `2d6 × 100` (700) | `2d6 × 10` (70) |
 ^individual-treasure-challenge-1116
+
+## Player-Facing Summary
+
+Individual treasure challenge 1116 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of individual treasure challenge 1116 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around individual treasure challenge 1116.
+
+## Adventure Hooks
+
+- A rumor ties individual treasure challenge 1116 to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at individual treasure challenge 1116 to avert a public scandal.
+- A map overlay reveals a hidden approach to individual treasure challenge 1116 active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

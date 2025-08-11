@@ -109,3 +109,23 @@ While your Rage is active, any of your enemies within 5 feet of you have [Disadv
 #### Ram
 
 While your Rage is active, you can cause a Large or smaller creature to have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition when you hit it with a melee attack.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the wild heart xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the wild heart xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the wild heart xphb.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the wild heart xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the wild heart xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the wild heart xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

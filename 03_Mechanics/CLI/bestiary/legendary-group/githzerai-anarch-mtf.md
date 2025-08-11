@@ -34,3 +34,23 @@ The region containing an anarch's lair is warped by its presence, which creates 
 - The anarch stabilizes any object created in Limbo and brought to the Material Plane for as long as the anarch remains within 1 mile of it (no action required).  
 
 If the anarch dies, these effects end after `d6` rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates `d6` rounds later.
+
+## Player-Facing Summary
+
+Githzerai anarch mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of githzerai anarch mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githzerai anarch mtf.
+
+## Adventure Hooks
+
+- A rumor ties githzerai anarch mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at githzerai anarch mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to githzerai anarch mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -25,3 +25,23 @@ Any creature that comes within 5 feet of russet mold must make a DC 13 Constitut
 Russet mold can be hard to kill, since weapons and most types of damage do it no harm. Effects that deal acid, necrotic, or radiant damage kill 1 square foot of russet mold per 1 damage dealt. A pound of salt, a gallon of alcohol, or magic that cures disease kills russet mold in a square area that is 10 feet on a side. Sunlight kills any russet mold in the light's area.
 
 *Source: Volo's Guide to Monsters p. 196*
+
+## Player-Facing Summary
+
+Russet mold vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of russet mold vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around russet mold vgm.
+
+## Adventure Hooks
+
+- A rumor ties russet mold vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at russet mold vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to russet mold vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

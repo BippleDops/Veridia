@@ -325,3 +325,18 @@ The area within 3 miles of the Whispering Chamber has the following effects:
 - [[Quest - The Prophecy Fulfilled]] - Preventing or enabling her dire predictions
 - [[Quest - The Cure for Madness]] - Helping her break free from corruption
 - [[Quest - The Voice Beneath]] - Exploring the Deep Mother's influence on Aquabyssos
+
+## Player-Facing Summary
+
+Elder Whisper In The Dark is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Elder Whisper In The Dark as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Elder Whisper In The Dark.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]
+- [[02_Worldbuilding/Places/Elder Whisper-In-The-Dark]]
+
+<!-- enriched: true -->

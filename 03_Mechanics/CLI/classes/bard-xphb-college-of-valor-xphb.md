@@ -81,3 +81,23 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 ### Battle Magic (Level 14)
 
 After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+
+## Player-Facing Summary
+
+Bard xphb college of valor xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bard xphb college of valor xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bard xphb college of valor xphb.
+
+## Adventure Hooks
+
+- A rumor ties bard xphb college of valor xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bard xphb college of valor xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to bard xphb college of valor xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

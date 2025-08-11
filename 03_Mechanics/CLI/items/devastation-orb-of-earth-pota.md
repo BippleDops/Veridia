@@ -34,3 +34,23 @@ Regardless of the type of orb, its effect is contained within a sphere with a 1 
 When this orb detonates, it subjects the area to the effects of the [earthquake](/03_Mechanics/CLI/spells/earthquake-xphb.md) spell for 1 minute (spell save DC 18). For the purpose of the spell's effects, the spell is cast on the turn that the orb explodes.
 
 *Source: Princes of the Apocalypse p. 222*
+
+## Player-Facing Summary
+
+Devastation orb of earth pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of devastation orb of earth pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devastation orb of earth pota.
+
+## Adventure Hooks
+
+- A rumor ties devastation orb of earth pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at devastation orb of earth pota to avert a public scandal.
+- A map overlay reveals a hidden approach to devastation orb of earth pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

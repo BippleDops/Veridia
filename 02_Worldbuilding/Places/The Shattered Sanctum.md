@@ -272,3 +272,21 @@ Record all events that ever occurred here:
 ## DM Secrets
 > [!warning] Ultimate Secret
 > The Sanctum isn't just a temple—it's Aetheron's anchor to reality. As long as it exists, he cannot truly die or be reborn. The Crimson Sage maintains it to preserve his own existence. Destroying it would either free Aetheron or destroy him permanently, depending on the method used.
+
+## Player-Facing Summary
+
+The Shattered Sanctum is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shattered Sanctum as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shattered Sanctum.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Shattered Sanctum]]
+
+<!-- enriched: true -->

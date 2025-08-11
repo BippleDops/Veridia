@@ -201,3 +201,23 @@ While you have the Unconscious condition, you experience the following effects.
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
 
 [[08_Archive/1-DM Toolkit/Travel Calculator]]
+
+## Player-Facing Summary
+
+Conditions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of conditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around conditions.
+
+## Adventure Hooks
+
+- A rumor ties conditions to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at conditions to avert a public scandal.
+- A map overlay reveals a hidden approach to conditions active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

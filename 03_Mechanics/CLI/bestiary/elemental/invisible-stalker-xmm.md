@@ -111,3 +111,23 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 ## Environment
 
 urban
+
+## Player-Facing Summary
+
+Invisible stalker xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of invisible stalker xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around invisible stalker xmm.
+
+## Adventure Hooks
+
+- A rumor ties invisible stalker xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at invisible stalker xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to invisible stalker xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

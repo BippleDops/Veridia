@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 | 19 | Illusion. The item is imbued with illusion magic, allowing its bearer to alter the item's appearance in minor ways. Such alterations don't change how the item is worn, carried, or wielded, and they have no effect on its other magical properties. For example, the wearer could make a red robe appear blue, or make a gold ring look like it's made of ivory. The item reverts to its true appearance when no one is carrying or wearing it. |
 | 20 | Roll twice, rerolling any additional 20s. |
 ^what-minor-property-does-it-have
+
+## Player-Facing Summary
+
+Special features what minor property does it have is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of special features what minor property does it have as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special features what minor property does it have.
+
+## Adventure Hooks
+
+- A rumor ties special features what minor property does it have to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at special features what minor property does it have to avert a public scandal.
+- A map overlay reveals a hidden approach to special features what minor property does it have active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

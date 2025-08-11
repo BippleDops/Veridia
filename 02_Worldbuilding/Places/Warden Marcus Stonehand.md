@@ -146,3 +146,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Warden Marcus Stonehand is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Warden Marcus Stonehand as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Warden Marcus Stonehand.
+
+## Adventure Hooks
+
+- A rumor ties Warden Marcus Stonehand to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Warden Marcus Stonehand to avert a public scandal.
+- A map overlay reveals a hidden approach to Warden Marcus Stonehand active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Warden Marcus Stonehand]]
+
+<!-- enriched: true -->

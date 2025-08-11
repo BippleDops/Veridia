@@ -536,3 +536,23 @@ Whichever route the characters take, chapter 2 covers their passage through the 
 ## XP Awards
 
 In addition to the XP awards earned for overcoming the creatures in this chapter, escaping from Velkynvelve earns the characters a special award of 150 XP (divided equally among all party members).
+
+## Player-Facing Summary
+
+01 chapter 1 prisoners of the drow is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 chapter 1 prisoners of the drow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 chapter 1 prisoners of the drow.
+
+## Adventure Hooks
+
+- A rumor ties 01 chapter 1 prisoners of the drow to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 chapter 1 prisoners of the drow to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 chapter 1 prisoners of the drow active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

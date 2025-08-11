@@ -210,3 +210,23 @@ Helena has developed several revolutionary treatments:
 - [[Admiral Thorne Blackwater]]
 - [[Sage Lysander Deepthought]]
 - [[Pressure's End]]
+
+## Player-Facing Summary
+
+Doctor Helena Voidwalker is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Doctor Helena Voidwalker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Doctor Helena Voidwalker.
+
+## Adventure Hooks
+
+- A rumor ties Doctor Helena Voidwalker to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Doctor Helena Voidwalker to avert a public scandal.
+- A map overlay reveals a hidden approach to Doctor Helena Voidwalker active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Doctor Helena Voidwalker]]
+
+<!-- enriched: true -->

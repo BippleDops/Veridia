@@ -23,3 +23,23 @@ modified: 2025-07-23 12:39
 | 5 | One [Gelatinous Cube](/03_Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md) |
 | 6 | Sounds of Terror (see below) |
 ^1-encounter
+
+## Player-Facing Summary
+
+Exploring the mine xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of exploring the mine xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around exploring the mine xdmg.
+
+## Adventure Hooks
+
+- A rumor ties exploring the mine xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at exploring the mine xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to exploring the mine xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

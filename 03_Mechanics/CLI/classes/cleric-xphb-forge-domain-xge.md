@@ -100,3 +100,23 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
 - You gain immunity to fire damage  
 - While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+## Player-Facing Summary
+
+Cleric xphb forge domain xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb forge domain xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb forge domain xge.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb forge domain xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb forge domain xge to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb forge domain xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

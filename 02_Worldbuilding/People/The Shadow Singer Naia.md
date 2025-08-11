@@ -335,3 +335,17 @@ Naia's connection to the [[02_Worldbuilding/Lore/The Deep Mother]] grants her pr
 - [[The Emerald Sage Willowbark]]
 - [[Shadow Wells]]
 - [[Quest - Nature's Balance]]
+
+## Player-Facing Summary
+
+The Shadow Singer Naia is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shadow Singer Naia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Singer Naia.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Shadow Singer Naia]]
+
+<!-- enriched: true -->

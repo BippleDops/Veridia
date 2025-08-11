@@ -30,3 +30,23 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 **Classes**: [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Xanathar's Guide to Everything p. 171*
+
+## Player-Facing Summary
+
+Zephyr strike xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of zephyr strike xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zephyr strike xge.
+
+## Adventure Hooks
+
+- A rumor ties zephyr strike xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at zephyr strike xge to avert a public scandal.
+- A map overlay reveals a hidden approach to zephyr strike xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

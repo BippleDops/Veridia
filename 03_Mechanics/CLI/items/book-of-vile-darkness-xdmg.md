@@ -80,3 +80,23 @@ If a [solar](/03_Mechanics/CLI/bestiary/celestial/solar-xmm.md) tears the book i
 A creature attuned to the book for 100 years can unearth a phrase hidden in the original text that, when translated to Celestial and spoken aloud, destroys both the speaker and the book in a flash of radiance. However, as long as evil exists in the multiverse, the book re-forms `1d10 × 100` years later.
 
 *Source: Dungeon Master's Guide (2024) p. 238*
+
+## Player-Facing Summary
+
+Book of vile darkness xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of book of vile darkness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around book of vile darkness xdmg.
+
+## Adventure Hooks
+
+- A rumor ties book of vile darkness xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at book of vile darkness xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to book of vile darkness xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

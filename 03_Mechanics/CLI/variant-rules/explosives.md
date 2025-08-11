@@ -39,3 +39,23 @@ As an action, a character can throw a grenade at a point up to 60 feet away. Wit
 Each creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking `5d6` piercing damage on a failed save, or half as much damage on a successful one.
 
 One round after a smoke grenade lands, it emits a cloud of smoke that creates a heavily obscured area in a 20-foot radius. A moderate wind (at least 10 miles per hour) disperses the smoke in 4 rounds; a strong wind (20 or more miles per hour) disperses it in 1 round.
+
+## Player-Facing Summary
+
+Explosives is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of explosives as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around explosives.
+
+## Adventure Hooks
+
+- A rumor ties explosives to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at explosives to avert a public scandal.
+- A map overlay reveals a hidden approach to explosives active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

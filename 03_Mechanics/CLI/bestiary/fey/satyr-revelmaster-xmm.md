@@ -95,3 +95,23 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 ## Environment
 
 forest, planar, feywild
+
+## Player-Facing Summary
+
+Satyr revelmaster xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of satyr revelmaster xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around satyr revelmaster xmm.
+
+## Adventure Hooks
+
+- A rumor ties satyr revelmaster xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at satyr revelmaster xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to satyr revelmaster xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

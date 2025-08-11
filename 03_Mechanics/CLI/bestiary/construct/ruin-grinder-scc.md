@@ -68,3 +68,23 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
 "image": "/03_Mechanics/CLI/bestiary/construct/token/ruin-grinder-scc.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Ruin grinder scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ruin grinder scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ruin grinder scc.
+
+## Adventure Hooks
+
+- A rumor ties ruin grinder scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ruin grinder scc to avert a public scandal.
+- A map overlay reveals a hidden approach to ruin grinder scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

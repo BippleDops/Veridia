@@ -99,3 +99,23 @@ If you attack at least two different creatures with the action, you can make one
 ### Spectral Defense (Level 15)
 
 At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack's damage on this turn.
+
+## Player-Facing Summary
+
+Ranger xphb horizon walker xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ranger xphb horizon walker xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb horizon walker xge.
+
+## Adventure Hooks
+
+- A rumor ties ranger xphb horizon walker xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ranger xphb horizon walker xge to avert a public scandal.
+- A map overlay reveals a hidden approach to ranger xphb horizon walker xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

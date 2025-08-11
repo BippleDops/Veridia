@@ -154,3 +154,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Enchanter Valdris Peacewarden is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Enchanter Valdris Peacewarden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Enchanter Valdris Peacewarden.
+
+## Adventure Hooks
+
+- A rumor ties Enchanter Valdris Peacewarden to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Enchanter Valdris Peacewarden to avert a public scandal.
+- A map overlay reveals a hidden approach to Enchanter Valdris Peacewarden active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Enchanter Valdris Peacewarden]]
+
+<!-- enriched: true -->

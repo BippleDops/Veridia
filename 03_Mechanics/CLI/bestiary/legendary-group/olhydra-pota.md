@@ -36,3 +36,23 @@ Olhydra's presence in an elemental node creates a number of widespread effects�
 - Natural springs and pools within 1 mile of the lair form intermittent portals to the Elemental Plane of Water, allowing elemental creatures into the mortal world to dwell near those points.  
 
 If Olhydra is destroyed or banished back to her home plane, the regional effects fade over the next `d10` days.
+
+## Player-Facing Summary
+
+Olhydra pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of olhydra pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around olhydra pota.
+
+## Adventure Hooks
+
+- A rumor ties olhydra pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at olhydra pota to avert a public scandal.
+- A map overlay reveals a hidden approach to olhydra pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

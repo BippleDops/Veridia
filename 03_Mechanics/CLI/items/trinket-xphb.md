@@ -132,3 +132,23 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 
 
 *Source: Player's Handbook (2024) p. 47. Available in the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Trinket xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of trinket xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around trinket xphb.
+
+## Adventure Hooks
+
+- A rumor ties trinket xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at trinket xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to trinket xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

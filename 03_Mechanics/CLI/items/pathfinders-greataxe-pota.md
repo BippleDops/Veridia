@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 When you wield this +1 greataxe, you always know the way to the nearest passage leading from underground toward the surface, as well as the approximate depth the axe is underground.
 
 *Source: Princes of the Apocalypse p. 175*
+
+## Player-Facing Summary
+
+Pathfinders greataxe pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of pathfinders greataxe pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pathfinders greataxe pota.
+
+## Adventure Hooks
+
+- A rumor ties pathfinders greataxe pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at pathfinders greataxe pota to avert a public scandal.
+- A map overlay reveals a hidden approach to pathfinders greataxe pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

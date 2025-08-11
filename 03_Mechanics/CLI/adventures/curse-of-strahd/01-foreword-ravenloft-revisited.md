@@ -45,3 +45,23 @@ modified: 2025-07-23 12:39
 > Now we invite you again as our guests to pass through the Svalich Woods if you dare. For here the romance is tragically dangerous... and a true monster smiles at your approach.
 
 ^001
+
+## Player-Facing Summary
+
+01 foreword ravenloft revisited is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 foreword ravenloft revisited as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 foreword ravenloft revisited.
+
+## Adventure Hooks
+
+- A rumor ties 01 foreword ravenloft revisited to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 foreword ravenloft revisited to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 foreword ravenloft revisited active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

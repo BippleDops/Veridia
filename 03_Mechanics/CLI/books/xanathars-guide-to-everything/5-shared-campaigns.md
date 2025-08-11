@@ -91,3 +91,23 @@ For the sake of simplicity and efficiency, it's a good idea to require that begi
 A shared campaign might use some variant rules to handle certain aspects of the game. The Adventurers League, for instance, has variant systems for gaining levels and acquiring treasure. These "house rules," presented below, serve as a sort of common language, ensuring that the rewards all characters receive are equivalent no matter what kind of adventure a character experienced.
 
 See the [variant rules](/03_Mechanics/CLI/variant-rules/shared-campaign-variant-rules-xge.md) entry for more information.
+
+## Player-Facing Summary
+
+5 shared campaigns is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 5 shared campaigns as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 shared campaigns.
+
+## Adventure Hooks
+
+- A rumor ties 5 shared campaigns to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 5 shared campaigns to avert a public scandal.
+- A map overlay reveals a hidden approach to 5 shared campaigns active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

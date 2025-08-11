@@ -112,3 +112,23 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 5 | I would kill to acquire a noble title. |
 | 6 | I'm horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I'm surrounded by rivals. |
 ^flaw
+
+## Player-Facing Summary
+
+Guild artisan guild merchant variant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of guild artisan guild merchant variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guild artisan guild merchant variant.
+
+## Adventure Hooks
+
+- A rumor ties guild artisan guild merchant variant to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at guild artisan guild merchant variant to avert a public scandal.
+- A map overlay reveals a hidden approach to guild artisan guild merchant variant active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

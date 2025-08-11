@@ -35,3 +35,23 @@ modified: 2025-07-23 12:39
 | 19 | Gnome. The item is crafted to appear ordinary and it might look worn. It could also incorporate gears and mechanical components, even if these aren't essential to the item's function. |
 | 20 | Undead. The item incorporates imagery of death such as bones and skulls, and it might be crafted from parts of corpses. It feels cold to the touch |
 ^who-created-it-or-was-intended-to-use-it
+
+## Player-Facing Summary
+
+Special features who created it or was intended to use it is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of special features who created it or was intended to use it as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special features who created it or was intended to use it.
+
+## Adventure Hooks
+
+- A rumor ties special features who created it or was intended to use it to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at special features who created it or was intended to use it to avert a public scandal.
+- A map overlay reveals a hidden approach to special features who created it or was intended to use it active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

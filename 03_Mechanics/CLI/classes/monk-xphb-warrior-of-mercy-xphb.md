@@ -91,3 +91,23 @@ You can use these benefits a total number of times equal to your Wisdom modifier
 Your mastery of life energy opens the door to the ultimate mercy. As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 Focus Points. The creature then returns to life with a number of [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `4d10` plus your Wisdom modifier. If the creature died with any of the following conditions, the creature revives with the conditions removed: [Blinded](/03_Mechanics/CLI/conditions.md#Blinded), [Deafened](/03_Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/03_Mechanics/CLI/conditions.md#Paralyzed), [Poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), and [Stunned](/03_Mechanics/CLI/conditions.md#Stunned).
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Monk xphb warrior of mercy xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monk xphb warrior of mercy xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb warrior of mercy xphb.
+
+## Adventure Hooks
+
+- A rumor ties monk xphb warrior of mercy xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monk xphb warrior of mercy xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to monk xphb warrior of mercy xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -269,3 +269,27 @@ The storm itself becomes almost a character in the adventure, with moods, reacti
 This quest works well as a campaign climax or as a major arc within a longer campaign. The political ramifications and power gained make excellent springboards for future adventures.
 
 The Maelstrom Palace represents one of Aquabyssos's greatest mysteries and dangers, offering players the chance to become legends while making choices that will echo throughout the realm for generations to come.
+
+## Player-Facing Summary
+
+Maelstrom Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Maelstrom Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Maelstrom Palace.
+
+## Adventure Hooks
+
+- A rumor ties Maelstrom Palace to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Maelstrom Palace to avert a public scandal.
+- A map overlay reveals a hidden approach to Maelstrom Palace active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Maelstrom Palace]]
+
+<!-- enriched: true -->

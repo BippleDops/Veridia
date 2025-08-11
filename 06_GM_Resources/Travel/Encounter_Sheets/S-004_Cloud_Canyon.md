@@ -40,3 +40,23 @@ AC —; HP —; Save DC 14; On fail: 2d6 lightning to nearest segment; Systems c
 
 ## Quick-Run
 - Roll Helm & Sensor; resolve strike; check for ambush as desired
+
+## Player-Facing Summary
+
+S 004 Cloud Canyon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of S 004 Cloud Canyon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around S 004 Cloud Canyon.
+
+## Adventure Hooks
+
+- A rumor ties S 004 Cloud Canyon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at S 004 Cloud Canyon to avert a public scandal.
+- A map overlay reveals a hidden approach to S 004 Cloud Canyon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

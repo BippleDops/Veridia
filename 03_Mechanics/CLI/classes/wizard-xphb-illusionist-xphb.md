@@ -79,3 +79,23 @@ Once you use this feature, you can't use it again until you finish a [Short](/03
 ### Illusory Reality (Level 14)
 
 You have learned to weave shadow magic into your illusions to give them a semi-reality. When you cast an Illusion spell with a spell slot, you can choose one inanimate, nonmagical object that is part of the illusion and make that object real. You can do this on your turn as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) while the spell is ongoing. The object remains real for 1 minute, during which it can't deal damage or give any conditions. For example, you can create an illusion of a bridge over a chasm and then make it real and cross it.
+
+## Player-Facing Summary
+
+Wizard xphb illusionist xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb illusionist xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb illusionist xphb.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb illusionist xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb illusionist xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb illusionist xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

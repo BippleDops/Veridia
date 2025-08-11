@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 17-18 | Iron-willed but respected |
 | 19-20 | Religious leader |
 ^rulers-status
+
+## Player-Facing Summary
+
+Random settlements rulers status is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of random settlements rulers status as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random settlements rulers status.
+
+## Adventure Hooks
+
+- A rumor ties random settlements rulers status to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at random settlements rulers status to avert a public scandal.
+- A map overlay reveals a hidden approach to random settlements rulers status active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -106,3 +106,23 @@ Ezmerelda's suspicion proves justified. Strahd's destruction is temporary, for h
 After the mists reappear, [Madam Eva](/03_Mechanics/CLI/bestiary/npc/madam-eva-cos.md) and her Vistani come back to the valley, the beasts of the land once more fall under Strahd's spell, and the burgomasters fortify their settlements, hoping against all hope that someone can save them from Strahd again.
 
 ![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/132-cos16-02.webp#center)
+
+## Player-Facing Summary
+
+18 epilogue is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 18 epilogue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 18 epilogue.
+
+## Adventure Hooks
+
+- A rumor ties 18 epilogue to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 18 epilogue to avert a public scandal.
+- A map overlay reveals a hidden approach to 18 epilogue active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

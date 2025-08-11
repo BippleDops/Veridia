@@ -56,3 +56,23 @@ Big objects, such as castle walls, often have extra resilience represented by a 
 ## No Ability Scores
 
 An object lacks ability scores unless a rule assigns scores to the object. Without ability scores, an object can't make ability checks, and it fails all saving throws.
+
+## Player-Facing Summary
+
+Breaking objects xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of breaking objects xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around breaking objects xphb.
+
+## Adventure Hooks
+
+- A rumor ties breaking objects xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at breaking objects xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to breaking objects xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

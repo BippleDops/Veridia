@@ -126,3 +126,23 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
 ## Environment
 
 hill, mountain
+
+## Player-Facing Summary
+
+Adult red dragon xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of adult red dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult red dragon xmm.
+
+## Adventure Hooks
+
+- A rumor ties adult red dragon xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at adult red dragon xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to adult red dragon xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

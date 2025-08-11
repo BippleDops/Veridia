@@ -50,3 +50,23 @@ Doctor Silas Voidtouch is a living crossroads where memory-currents and trade fl
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
+
+## Player-Facing Summary
+
+Doctor Silas Voidtouch is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Doctor Silas Voidtouch as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Doctor Silas Voidtouch.
+
+## Adventure Hooks
+
+- A rumor ties Doctor Silas Voidtouch to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Doctor Silas Voidtouch to avert a public scandal.
+- A map overlay reveals a hidden approach to Doctor Silas Voidtouch active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

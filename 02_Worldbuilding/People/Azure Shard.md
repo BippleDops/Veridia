@@ -471,3 +471,17 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 ## Connections
 
 - [[Sir Marcus Dawnforge]]
+
+## Player-Facing Summary
+
+Azure Shard is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Azure Shard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Azure Shard.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Azure Shard]]
+
+<!-- enriched: true -->

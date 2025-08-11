@@ -126,3 +126,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Marcus Shardbreaker Grimm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus Shardbreaker Grimm.
+
+## Adventure Hooks
+
+- A rumor ties Marcus Shardbreaker Grimm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Marcus Shardbreaker Grimm to avert a public scandal.
+- A map overlay reveals a hidden approach to Marcus Shardbreaker Grimm active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]
+
+<!-- enriched: true -->

@@ -66,3 +66,23 @@ Instead of targeting a creature, you can target a location you have seen. When y
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Cleric (Knowledge Domain)](/03_Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB"); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric (Light Domain)](/03_Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](/03_Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Vengeance)](/03_Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Scrying xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scrying xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scrying xphb.
+
+## Adventure Hooks
+
+- A rumor ties scrying xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scrying xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to scrying xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

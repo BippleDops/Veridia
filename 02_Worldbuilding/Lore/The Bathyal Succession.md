@@ -674,3 +674,23 @@ Some succession-era issues remain unresolved:
 - [[The Lighthouse of Storms]]
 - [[The Restoration Movement]]
 - [[The Bathyal Palace]]
+
+## Player-Facing Summary
+
+The Bathyal Succession is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Bathyal Succession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bathyal Succession.
+
+## Adventure Hooks
+
+- A rumor ties The Bathyal Succession to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Bathyal Succession to avert a public scandal.
+- A map overlay reveals a hidden approach to The Bathyal Succession active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -99,3 +99,23 @@ An allip might attempt to share its lore to escape its curse and enter the after
 ## Environment
 
 swamp, urban
+
+## Player-Facing Summary
+
+Allip mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of allip mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around allip mpmm.
+
+## Adventure Hooks
+
+- A rumor ties allip mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at allip mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to allip mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

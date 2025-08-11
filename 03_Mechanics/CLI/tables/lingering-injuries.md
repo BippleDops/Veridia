@@ -28,3 +28,23 @@ modified: 2025-07-23 12:39
 | 14-16 | **Festering Wound.** Your hit point maximum is reduced by 1 every 24 hours the wound persists. If your hit point maximum drops to 0, you die. The wound heals if you receive magical healing. Alternatively, someone can tend to the wound and make a DC 15 Wisdom ([Medicine](/03_Mechanics/CLI/skills.md#Medicine)) check once every 24 hours. After ten successes, the wound heals. |
 | 17-20 | **Minor Scar.** The scar doesn't have any adverse effect. Magical healing of 6th level or higher, such as [heal](/03_Mechanics/CLI/spells/heal-xphb.md) and [regenerate](/03_Mechanics/CLI/spells/regenerate-xphb.md), removes the scar. |
 ^lingering-injuries
+
+## Player-Facing Summary
+
+Lingering injuries is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of lingering injuries as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lingering injuries.
+
+## Adventure Hooks
+
+- A rumor ties lingering injuries to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at lingering injuries to avert a public scandal.
+- A map overlay reveals a hidden approach to lingering injuries active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -268,3 +268,23 @@ The drowned capital of Aquabyssos, where the Byzantine Empire's greatest city wa
 
 ## DM Notes
 Liminal Constantinople is the heart of Aquabyssos—a city that exemplifies the alien logic of the drowned world. Nothing here works as surface dwellers expect. The city's fluid nature allows for surreal encounters and reality-bending scenarios. The Parliament provides political intrigue while the various districts offer different adventure types. The city's connection to both the surface and the deepest depths makes it a perfect hub for Aquabyssos campaigns. Remember that the city literally reshapes itself based on the collective unconscious, so the party's fears and desires might manifest physically.
+
+## Player-Facing Summary
+
+Liminal Constantinople is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Liminal Constantinople as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Liminal Constantinople.
+
+## Adventure Hooks
+
+- A rumor ties Liminal Constantinople to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Liminal Constantinople to avert a public scandal.
+- A map overlay reveals a hidden approach to Liminal Constantinople active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Liminal Constantinople]]
+
+<!-- enriched: true -->

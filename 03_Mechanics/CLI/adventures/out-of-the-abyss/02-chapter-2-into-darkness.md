@@ -1098,3 +1098,23 @@ On initiative count 1 in the round in which Brysis attacks, the characters hear 
 The thin gold sheath covering Brysis's sarcophagus can be pried loose and is worth 250 gp. Inside the stone sarcophagus, lying atop Brysis's withered and mummified corpse, is a magic sword called [Dawnbringer](/03_Mechanics/CLI/items/dawnbringer-oota.md) (see appendix B). This intelligent weapon is the source of the telepathic messages.
 
 The stone chest is unlocked and contains the other treasures Brysis took with her into the afterlife: 4,000 sp, 1,200 gp, eleven zircons (worth 50 gp each), a [necklace of fireballs](/03_Mechanics/CLI/items/necklace-of-fireballs-xdmg.md), a [philter of love](/03_Mechanics/CLI/items/philter-of-love-xdmg.md), and a [potion of greater healing](/03_Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
+
+## Player-Facing Summary
+
+02 chapter 2 into darkness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 chapter 2 into darkness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 2 into darkness.
+
+## Adventure Hooks
+
+- A rumor ties 02 chapter 2 into darkness to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 chapter 2 into darkness to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 chapter 2 into darkness active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

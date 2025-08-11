@@ -360,3 +360,27 @@ The Chronus Chambers connect to numerous elements of the broader campaign:
 - [[The Maw of Darkness]]
 - [[The Oracle of the Sundered Peaks]]
 - [[Aquabyssos - Session 02 - The Parliament's Paradox]]
+
+## Player-Facing Summary
+
+Time Lost Delegate Chronus is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Time Lost Delegate Chronus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Time Lost Delegate Chronus.
+
+## Adventure Hooks
+
+- A rumor ties Time Lost Delegate Chronus to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Time Lost Delegate Chronus to avert a public scandal.
+- A map overlay reveals a hidden approach to Time Lost Delegate Chronus active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Time-Lost Delegate Chronus]]
+
+<!-- enriched: true -->

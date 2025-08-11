@@ -306,3 +306,23 @@ This quest connects to numerous elements throughout [[Aethermoor]]:
 ## Connections
 
 - [[Quest - Nature's Balance]]
+
+## Player-Facing Summary
+
+Stop the Crystal Festival Ritual is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Stop the Crystal Festival Ritual as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Stop the Crystal Festival Ritual.
+
+## Adventure Hooks
+
+- A rumor ties Stop the Crystal Festival Ritual to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Stop the Crystal Festival Ritual to avert a public scandal.
+- A map overlay reveals a hidden approach to Stop the Crystal Festival Ritual active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -47,3 +47,23 @@ A powerful annis hag creates one or more of the following additional regional ef
 - Small avalanches of rock intermittently fall, blocking a path or burying intruders. A buried creature is [restrained](/03_Mechanics/CLI/conditions.md#Restrained) and has to hold its breath until it is dug out.  
 - Strange laughter, sounding like that of children or the hag herself, occasionally pierces the silence.  
 - Small cairns appear along the route of travelers, containing anything from mysterious bones to nothing at all. These cairns might be haunted by skeletons, specters, or hostile fey.
+
+## Player-Facing Summary
+
+Annis hag vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of annis hag vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around annis hag vgm.
+
+## Adventure Hooks
+
+- A rumor ties annis hag vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at annis hag vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to annis hag vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

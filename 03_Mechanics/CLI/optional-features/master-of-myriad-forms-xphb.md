@@ -16,3 +16,23 @@ modified: 2025-07-23 12:39
 **Prerequisite**: Level 5 Warlock
 
 You can cast [Alter Self](/03_Mechanics/CLI/spells/alter-self-xphb.md) without expending a spell slot.
+
+## Player-Facing Summary
+
+Master of myriad forms xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of master of myriad forms xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around master of myriad forms xphb.
+
+## Adventure Hooks
+
+- A rumor ties master of myriad forms xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at master of myriad forms xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to master of myriad forms xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

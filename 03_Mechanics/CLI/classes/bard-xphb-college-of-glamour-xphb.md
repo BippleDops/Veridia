@@ -81,3 +81,23 @@ Once you use this feature, you can't use it again until you finish a [Long Rest]
 As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
 
 Once you assume this majestic presence, you can't do so again until you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Bard xphb college of glamour xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bard xphb college of glamour xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bard xphb college of glamour xphb.
+
+## Adventure Hooks
+
+- A rumor ties bard xphb college of glamour xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bard xphb college of glamour xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to bard xphb college of glamour xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

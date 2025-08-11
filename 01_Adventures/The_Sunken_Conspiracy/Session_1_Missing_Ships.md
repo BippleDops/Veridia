@@ -710,3 +710,23 @@ By the end of Session 1, players should:
 ---
 
 *The depths hold many secrets, but some secrets are worth killing for. As the party delves deeper into the conspiracy, they'll find that in Port Meridian, every current carries whispers, and not all of them are friendly.*
+
+## Player-Facing Summary
+
+Session 1 Missing Ships is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 1 Missing Ships as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 1 Missing Ships.
+
+## Adventure Hooks
+
+- A rumor ties Session 1 Missing Ships to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 1 Missing Ships to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 1 Missing Ships active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

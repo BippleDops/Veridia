@@ -473,3 +473,17 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 - [[The Sorrowmaster]]
 - [[Quest - The Memory Bridge]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Memory Merchant Valeria Siltweave is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Merchant Valeria Siltweave as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Merchant Valeria Siltweave.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]
+
+<!-- enriched: true -->

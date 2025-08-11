@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 | 19 | Exiled noble looking for revenge |
 | 20 | Corrupt official worried that recent misdeeds will be revealed |
 ^rival
+
+## Player-Facing Summary
+
+Creating a rival rival xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of creating a rival rival xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around creating a rival rival xge.
+
+## Adventure Hooks
+
+- A rumor ties creating a rival rival xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at creating a rival rival xge to avert a public scandal.
+- A map overlay reveals a hidden approach to creating a rival rival xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

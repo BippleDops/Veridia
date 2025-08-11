@@ -368,3 +368,23 @@ Track per character:
 ---
 
 *Remember: Survival in Aquabyssos isn't about winning—it's about choosing what you're willing to lose to keep existing.*
+
+## Player-Facing Summary
+
+Comprehensive Survival System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Comprehensive Survival System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Comprehensive Survival System.
+
+## Adventure Hooks
+
+- A rumor ties Comprehensive Survival System to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Comprehensive Survival System to avert a public scandal.
+- A map overlay reveals a hidden approach to Comprehensive Survival System active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

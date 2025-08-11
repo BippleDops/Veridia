@@ -49,3 +49,23 @@ Until the spell ends, you can make the attack again on each of your turns as a [
 **Classes**: [Fighter (Eldritch Knight)](/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric (Grave Domain)](/03_Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/03_Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Cleric (Death Domain)](/03_Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Rogue (Arcane Trickster)](/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Vampiric touch xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of vampiric touch xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampiric touch xphb.
+
+## Adventure Hooks
+
+- A rumor ties vampiric touch xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at vampiric touch xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to vampiric touch xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

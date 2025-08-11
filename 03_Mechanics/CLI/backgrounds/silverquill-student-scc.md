@@ -66,3 +66,23 @@ With the college's intense standards looming over them, Silverquill students ran
 ### Silverquill Trinkets
 
 When you make your character, you may roll once on the [Silverquill Trinkets](/03_Mechanics/CLI/items/silverquill-trinket-scc.md) table, instead of on the [Trinkets table](/03_Mechanics/CLI/items/trinket-xphb.md) in the "Player's Handbook", for your starting trinket.
+
+## Player-Facing Summary
+
+Silverquill student scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of silverquill student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silverquill student scc.
+
+## Adventure Hooks
+
+- A rumor ties silverquill student scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at silverquill student scc to avert a public scandal.
+- A map overlay reveals a hidden approach to silverquill student scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

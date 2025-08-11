@@ -179,3 +179,23 @@ The Sunken Markets serve as the primary interface between the surface world and 
 ## Connections
 
 - [[Rescue Senator Glaucus]]
+
+## Player-Facing Summary
+
+The Sunken Markets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Sunken Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sunken Markets.
+
+## Adventure Hooks
+
+- A rumor ties The Sunken Markets to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Sunken Markets to avert a public scandal.
+- A map overlay reveals a hidden approach to The Sunken Markets active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Sunken Markets]]
+
+<!-- enriched: true -->

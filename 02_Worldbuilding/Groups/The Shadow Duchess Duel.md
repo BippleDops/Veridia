@@ -556,3 +556,23 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 ## Connections
 
 - [[Aquabyssos - Session 04 - High Tide Horror]]
+
+## Player-Facing Summary
+
+The Shadow Duchess Duel is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shadow Duchess Duel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Duchess Duel.
+
+## Adventure Hooks
+
+- A rumor ties The Shadow Duchess Duel to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Shadow Duchess Duel to avert a public scandal.
+- A map overlay reveals a hidden approach to The Shadow Duchess Duel active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

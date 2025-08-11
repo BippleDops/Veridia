@@ -38,3 +38,23 @@ Save Queen Seraphina describes a turning current in history where choices about 
 - [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]]
 - [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
 - [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
+
+## Player-Facing Summary
+
+Save Queen Seraphina is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Save Queen Seraphina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Save Queen Seraphina.
+
+## Adventure Hooks
+
+- A rumor ties Save Queen Seraphina to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Save Queen Seraphina to avert a public scandal.
+- A map overlay reveals a hidden approach to Save Queen Seraphina active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

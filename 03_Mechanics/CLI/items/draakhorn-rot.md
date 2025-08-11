@@ -30,3 +30,23 @@ For any character entering the enclosed space, the sound fades to silence—beca
 While the horn is sounding, a creature must make a DC 15 Constitution saving throw the first time on a turn the creature enters a 150-foot cone in front of the horn or starts its turn there. On a failed save, the creature takes 27 (`6d8`) thunder damage and is knocked [prone](/03_Mechanics/CLI/conditions.md#Prone). On a successful save, the creature takes half damage and isn't knocked [prone](/03_Mechanics/CLI/conditions.md#Prone).
 
 *Source: The Rise of Tiamat p. 93*
+
+## Player-Facing Summary
+
+Draakhorn rot is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of draakhorn rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around draakhorn rot.
+
+## Adventure Hooks
+
+- A rumor ties draakhorn rot to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at draakhorn rot to avert a public scandal.
+- A map overlay reveals a hidden approach to draakhorn rot active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

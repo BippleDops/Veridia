@@ -501,3 +501,17 @@ Internal Consortium politics threaten civil war as board members position themse
 - [[Commander Thrace Ironwood]]
 - [[The Nameless Auditor]]
 - [[Quest - The Memory Bridge]]
+
+## Player-Facing Summary
+
+Lady Jade Clawgrip is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Lady Jade Clawgrip as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lady Jade Clawgrip.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Lady Jade Clawgrip]]
+
+<!-- enriched: true -->

@@ -40,3 +40,23 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Xanathar's Guide to Everything p. 157*
+
+## Player-Facing Summary
+
+Healing spirit xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of healing spirit xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around healing spirit xge.
+
+## Adventure Hooks
+
+- A rumor ties healing spirit xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at healing spirit xge to avert a public scandal.
+- A map overlay reveals a hidden approach to healing spirit xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

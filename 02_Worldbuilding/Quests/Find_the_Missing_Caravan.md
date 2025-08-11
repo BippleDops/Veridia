@@ -464,3 +464,23 @@ Gareth Ironforge approaches the party in his smithy, visibly worried. Tools lie 
 ---
 
 *The missing caravan quest serves as both an introduction to adventure and a window into the complex web of relationships that bind communities together. Success requires more than martial prowess—it demands investigation skills, moral judgment, and the wisdom to see beyond immediate objectives to long-term consequences.*
+
+## Player-Facing Summary
+
+Find the Missing Caravan is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Find the Missing Caravan as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Find the Missing Caravan.
+
+## Adventure Hooks
+
+- A rumor ties Find the Missing Caravan to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Find the Missing Caravan to avert a public scandal.
+- A map overlay reveals a hidden approach to Find the Missing Caravan active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

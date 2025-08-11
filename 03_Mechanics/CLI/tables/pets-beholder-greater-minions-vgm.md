@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 ^beholder-greater-minions
 
 * For death tyrant lairs, use this table, but replace approximately half of its living minions with ogre zombies.
+
+## Player-Facing Summary
+
+Pets beholder greater minions vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of pets beholder greater minions vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pets beholder greater minions vgm.
+
+## Adventure Hooks
+
+- A rumor ties pets beholder greater minions vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at pets beholder greater minions vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to pets beholder greater minions vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

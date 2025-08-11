@@ -82,3 +82,23 @@ Girallons that are well treated might be willing to serve as guards, though they
 ## Environment
 
 forest
+
+## Player-Facing Summary
+
+Girallon mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of girallon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around girallon mpmm.
+
+## Adventure Hooks
+
+- A rumor ties girallon mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at girallon mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to girallon mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

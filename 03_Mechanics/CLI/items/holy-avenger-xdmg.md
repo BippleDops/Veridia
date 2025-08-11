@@ -499,3 +499,23 @@ While you hold the drawn weapon, it creates a 10-foot [Emanation](/03_Mechanics/
 
 
 *Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Holy avenger xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of holy avenger xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy avenger xdmg.
+
+## Adventure Hooks
+
+- A rumor ties holy avenger xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at holy avenger xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to holy avenger xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

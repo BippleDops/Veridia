@@ -36,3 +36,23 @@ modified: 2025-07-23 12:39
 | 19 | 1 [treant](/03_Mechanics/CLI/bestiary/plant/treant-xmm.md). The [treant](/03_Mechanics/CLI/bestiary/plant/treant-xmm.md) is friendly if the party includes one or more elves or is accompanied by a visible fey creature. The [treant](/03_Mechanics/CLI/bestiary/plant/treant-xmm.md) is hostile if the characters are carrying open flames. Otherwise, it is indifferent and doesn't announce its presence as the characters pass by. |
 | 20 | 1 [unicorn](/03_Mechanics/CLI/bestiary/celestial/unicorn-xmm.md) |
 ^sylvan-forest-encounters
+
+## Player-Facing Summary
+
+Probabilities sylvan forest encounters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of probabilities sylvan forest encounters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around probabilities sylvan forest encounters.
+
+## Adventure Hooks
+
+- A rumor ties probabilities sylvan forest encounters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at probabilities sylvan forest encounters to avert a public scandal.
+- A map overlay reveals a hidden approach to probabilities sylvan forest encounters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

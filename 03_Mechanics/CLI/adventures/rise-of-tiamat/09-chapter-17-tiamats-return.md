@@ -506,3 +506,23 @@ Moreover, much of the wealth of the Sword Coast is sitting in the Well of Dragon
 Among the cult's former allies, the vindictive chromatic dragons scatter back to their lairs, but only after many of them try to claim choice pieces of treasure or barrels bulging with gold and gems from the cult's hoard. Furious at having their queen vanquished, the chromatic dragons might engage in sprees of destruction not seen in Faerûn for centuries.
 
 Even victorious, the armies of good will have paid a steep cost in the fight against [Tiamat](/03_Mechanics/CLI/bestiary/npc/tiamat-rot.md). In addition to soldiers, leaders representing the ruling nobility of countless regions and houses will have fallen in the fight. The situation is not all bleak, however. Stirring instances of generosity and cooperation will stand out amid the darkness—and none of those will be greater than the legend of the adventurers. For generations, folk will look to the exploits and sacrifices of the heroes for inspiration as they rebuild and set their sights on better days.
+
+## Player-Facing Summary
+
+09 chapter 17 tiamats return is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 09 chapter 17 tiamats return as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 chapter 17 tiamats return.
+
+## Adventure Hooks
+
+- A rumor ties 09 chapter 17 tiamats return to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 09 chapter 17 tiamats return to avert a public scandal.
+- A map overlay reveals a hidden approach to 09 chapter 17 tiamats return active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -259,3 +259,23 @@ Divination magic works synergistically with other magical traditions:
 - [[02_Worldbuilding/Lore/The Crystal Networks]] - Ancient information storage and communication
 - [[02_Worldbuilding/Lore/Parliament of Echoes]] - Government body relying on prophetic guidance
 - [[02_Worldbuilding/Lore/The Observatory of Depths]] - Research institution for cosmic divination
+
+## Player-Facing Summary
+
+Ω System CLI spells school divination is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ω System CLI spells school divination as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ω System CLI spells school divination.
+
+## Adventure Hooks
+
+- A rumor ties Ω System CLI spells school divination to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ω System CLI spells school divination to avert a public scandal.
+- A map overlay reveals a hidden approach to Ω System CLI spells school divination active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

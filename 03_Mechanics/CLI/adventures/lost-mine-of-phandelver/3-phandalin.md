@@ -746,3 +746,23 @@ Divide 200 XP equally among the characters if the party slays Iarno Albrek. Doub
 ## What's Next?
 
 The next stage of the adventure continues with part 3, "The Spider's Web," in which the characters undertake a number of short adventures that advance the story. At some point during part 2, the characters are likely to advance to 3rd level, so make sure the players are keeping track of their XP.
+
+## Player-Facing Summary
+
+3 phandalin is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 3 phandalin as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 phandalin.
+
+## Adventure Hooks
+
+- A rumor ties 3 phandalin to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 3 phandalin to avert a public scandal.
+- A map overlay reveals a hidden approach to 3 phandalin active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -662,3 +662,17 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 - [[The Crimson Hand]]
 - [[The Seven Shards]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Vex Shadowthorn is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vex Shadowthorn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vex Shadowthorn.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Vex Shadowthorn]]
+
+<!-- enriched: true -->

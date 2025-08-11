@@ -39,3 +39,23 @@ Memory Trader Kellian describes a turning current in history where choices about
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
+
+## Player-Facing Summary
+
+Memory Trader Kellian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Trader Kellian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Trader Kellian.
+
+## Adventure Hooks
+
+- A rumor ties Memory Trader Kellian to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Trader Kellian to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Trader Kellian active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

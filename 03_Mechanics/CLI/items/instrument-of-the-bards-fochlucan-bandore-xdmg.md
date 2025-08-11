@@ -23,3 +23,23 @@ An Instrument of the Bards is superior to an ordinary instrument in every way. S
 You can play the Fochlucan Bandore to cast one of the following spells: [Fly](/03_Mechanics/CLI/spells/fly-xphb.md), [Invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md), [Levitate](/03_Mechanics/CLI/spells/levitate-xphb.md), [Protection from Evil and Good](/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [Entangle](/03_Mechanics/CLI/spells/entangle-xphb.md), [Faerie Fire](/03_Mechanics/CLI/spells/faerie-fire-xphb.md), [Shillelagh](/03_Mechanics/CLI/spells/shillelagh-xphb.md), and [Speak with Animals](/03_Mechanics/CLI/spells/speak-with-animals-xphb.md). Once the Fochlucan Bandore has been used to cast a spell, it can't be used to cast that spell again until the next dawn. The spells use your spellcasting ability and spell save DC.
 
 *Source: Dungeon Master's Guide (2024) p. 272*
+
+## Player-Facing Summary
+
+Instrument of the bards fochlucan bandore xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of instrument of the bards fochlucan bandore xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around instrument of the bards fochlucan bandore xdmg.
+
+## Adventure Hooks
+
+- A rumor ties instrument of the bards fochlucan bandore xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at instrument of the bards fochlucan bandore xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to instrument of the bards fochlucan bandore xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

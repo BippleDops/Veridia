@@ -81,3 +81,23 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild Magic Surge](/03_Mechanics/CLI/tables/wild-magic-surge-xphb.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Player-Facing Summary
+
+Sorcerer xphb wild magic sorcery xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerer xphb wild magic sorcery xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb wild magic sorcery xphb.
+
+## Adventure Hooks
+
+- A rumor ties sorcerer xphb wild magic sorcery xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerer xphb wild magic sorcery xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerer xphb wild magic sorcery xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 | 9 | You saw a creature being conjured by magic. |
 | 10 | Your fortune was read by a diviner. Roll twice on the Life Events table, but don't apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true). |
 ^arcane-matters
+
+## Player-Facing Summary
+
+Secondary tables arcane matters xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of secondary tables arcane matters xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables arcane matters xge.
+
+## Adventure Hooks
+
+- A rumor ties secondary tables arcane matters xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at secondary tables arcane matters xge to avert a public scandal.
+- A map overlay reveals a hidden approach to secondary tables arcane matters xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

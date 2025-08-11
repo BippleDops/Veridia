@@ -29,3 +29,23 @@ This system can be applied to monsters that cast spells using spell slots, but i
 ![Variant: Spell Points; Spell Point Cost](/03_Mechanics/CLI/tables/variant-spell-points-spell-point-cost.md)
 
 ![Variant: Spell Points; Spell Points by Level](/03_Mechanics/CLI/tables/variant-spell-points-spell-points-by-level.md)
+
+## Player-Facing Summary
+
+Spell points is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of spell points as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell points.
+
+## Adventure Hooks
+
+- A rumor ties spell points to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at spell points to avert a public scandal.
+- A map overlay reveals a hidden approach to spell points active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

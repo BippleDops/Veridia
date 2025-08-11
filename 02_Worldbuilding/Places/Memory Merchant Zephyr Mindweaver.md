@@ -193,3 +193,27 @@ Her vast collection makes her one of the most knowledgeable NPCs in the campaign
 - [[Rescue Senator Glaucus]]
 - [[The Crown's Burden]]
 - [[The Sunken Library of Thalassius]]
+
+## Player-Facing Summary
+
+Memory Merchant Zephyr Mindweaver is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Merchant Zephyr Mindweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Merchant Zephyr Mindweaver.
+
+## Adventure Hooks
+
+- A rumor ties Memory Merchant Zephyr Mindweaver to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Merchant Zephyr Mindweaver to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Merchant Zephyr Mindweaver active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver]]
+
+<!-- enriched: true -->

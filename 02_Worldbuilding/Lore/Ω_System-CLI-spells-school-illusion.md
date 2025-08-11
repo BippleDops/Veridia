@@ -98,3 +98,23 @@ Military forces in both realms employ illusion magic for:
 The [[02_Worldbuilding/Factions/The Storm Riders]] of Aethermoor are particularly famous for their aerial illusions that make their sky ships appear as harmless clouds until they're already upon their targets. Meanwhile, the [[02_Worldbuilding/Factions/Abyssal Courts]] employ "Depth Phantoms"—illusions that exploit the natural disorientation of underwater combat.
 
 The ongoing conflict with the Deep Mother has pushed the boundaries of illusion magic to new extremes, as both realms seek any advantage in their struggle against an entity that may itself be the ultimate illusion—or the only truth that remains in a world gone mad.
+
+## Player-Facing Summary
+
+Ω System CLI spells school illusion is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ω System CLI spells school illusion as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ω System CLI spells school illusion.
+
+## Adventure Hooks
+
+- A rumor ties Ω System CLI spells school illusion to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ω System CLI spells school illusion to avert a public scandal.
+- A map overlay reveals a hidden approach to Ω System CLI spells school illusion active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -32,3 +32,23 @@ When you issue the "Craft" order to this facility, choose one of the following o
 Having a Sacristy allows you to regain one expended spell slot of level 5 or lower after spending an entire Short Rest in your Bastion. You can't gain this benefit again until you finish a Long Rest.
 
 *Source: Dungeon Master's Guide (2024) p. 344*
+
+## Player-Facing Summary
+
+Sacristy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sacristy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sacristy.
+
+## Adventure Hooks
+
+- A rumor ties sacristy to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sacristy to avert a public scandal.
+- A map overlay reveals a hidden approach to sacristy active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

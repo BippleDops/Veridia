@@ -434,3 +434,19 @@ Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memorie
 - [[Memory Farmer Thane]]
 - [[Sister Morwyn]]
 - [[The Recursion Cult]]
+
+## Player-Facing Summary
+
+Memory Pearls is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Pearls as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Pearls.
+
+## Adventure Hooks
+
+- A rumor ties Memory Pearls to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Pearls to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Pearls active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -64,3 +64,23 @@ The githyanki were motivated by revenge and convinced that they deserved to take
 The githzerai believed that the path to an enlightened civilization lay in seclusion, not conflict. Their dedication to the principles of order is so strong that they can manipulate the stuff of chaos and use it to their benefit; thus, they have carved out a stronghold for themselves on the plane of Limbo that is virtually impervious. Though the githzerai are pacifists by nature, they share the githyanki's racial hatred for mind flayers, and from time to time they send out squads to destroy illithid outposts.
 
 If the two races were ever to team up against the illithids, a combined force of gith could conceivably tip the balance in their favor. But as long as the githyanki and githzerai stay at each other's throats, their goal of ultimate victory over their original common enemy will likely remain unachieved.
+
+## Player-Facing Summary
+
+Gith githyanki mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gith githyanki mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gith githyanki mtf.
+
+## Adventure Hooks
+
+- A rumor ties gith githyanki mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gith githyanki mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to gith githyanki mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

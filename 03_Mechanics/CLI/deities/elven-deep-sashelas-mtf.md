@@ -34,3 +34,23 @@ Over time, much of the world sinks to the depths of the oceans and is thought to
 Away from the open sea, many lagoons, reefs, and grottoes have shrines devoted to Sashelas. Many come in reverence to bathe in the waters in the hope of receiving visions from the god, since it is known that Sashelas is fond of sharing knowledge with those who are true seekers. Scholars, monks, and clerics visit these elaborately decorated seaside temples, immersing themselves in the blessed waters and looking for enlightenment.
 
 Because the god also dispenses lore through dreams and reveries of memory, many artists and poets worship Sashelas. They seek his creative insight by spending time floating on the waves, then return to shore to write down or sketch out the gifts bequeathed to them.
+
+## Player-Facing Summary
+
+Elven deep sashelas mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elven deep sashelas mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven deep sashelas mtf.
+
+## Adventure Hooks
+
+- A rumor ties elven deep sashelas mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elven deep sashelas mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elven deep sashelas mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

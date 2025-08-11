@@ -357,3 +357,18 @@ Harbor Master Luna Freedrift controls [[02_Worldbuilding/Places/Freedom Harbor]]
 - [[Quest - The Harbor War]] - Defense of Freedom Harbor against Parliament seizure
 - [[Quest - The Underground Railroad]] - Establishing permanent escape routes from Aquabyssos
 - [[Quest - The Corruption Files]] - Gathering evidence to expose Parliament crimes
+
+## Player-Facing Summary
+
+Harbor Master Luna Freedrift is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Harbor Master Luna Freedrift as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master Luna Freedrift.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]]
+- [[02_Worldbuilding/Places/Harbor Master Luna Freedrift]]
+
+<!-- enriched: true -->

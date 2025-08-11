@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 | 19 | Eyeless. The demon is blind. It has blindsight with a radius of 60 feet. |
 | 20 | Vestigial Demon. A miniature vestigial twin of the demon grows from its body. The demon can't be blinded, deafened, or stunned. |
 ^unusual-demon-features
+
+## Player-Facing Summary
+
+Demon customization tables unusual demon features mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of demon customization tables unusual demon features mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demon customization tables unusual demon features mtf.
+
+## Adventure Hooks
+
+- A rumor ties demon customization tables unusual demon features mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at demon customization tables unusual demon features mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to demon customization tables unusual demon features mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

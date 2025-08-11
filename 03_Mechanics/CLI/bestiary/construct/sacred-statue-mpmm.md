@@ -83,3 +83,23 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "image": "/03_Mechanics/CLI/bestiary/construct/token/sacred-statue-mpmm.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Sacred statue mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sacred statue mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sacred statue mpmm.
+
+## Adventure Hooks
+
+- A rumor ties sacred statue mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sacred statue mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to sacred statue mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

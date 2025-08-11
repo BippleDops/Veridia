@@ -66,3 +66,23 @@ Half-elves use either human or elven naming conventions. As if to emphasize that
 > 
 > Many half-elves learn at an early age to get along with everyone, defusing hostility and finding common ground. As a race, they have elven grace without elven aloofness and human energy without human boorishness. They often make excellent ambassadors and go-betweens (except between elves and humans, since each side suspects the half-elf of favoring the other).
 ^excellent-ambassadors
+
+## Player-Facing Summary
+
+Half elf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of half elf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around half elf.
+
+## Adventure Hooks
+
+- A rumor ties half elf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at half elf to avert a public scandal.
+- A map overlay reveals a hidden approach to half elf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -28,3 +28,23 @@ When you issue the "Research" order to this facility, choose one of the followin
 - **Research.** Trinket Trophy. You commission the facility's hireling to search for a trinket that might be of use to you. The work takes 7 days. When the research concludes, roll any die. If the number rolled is odd, the hireling finds nothing useful. If the number rolled is even, the hireling finds a magic item. Roll on the "Implements—Common" table in "chapter 7" to determine what it is.  
 
 *Source: Dungeon Master's Guide (2024) p. 349*
+
+## Player-Facing Summary
+
+Trophy room is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of trophy room as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around trophy room.
+
+## Adventure Hooks
+
+- A rumor ties trophy room to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at trophy room to avert a public scandal.
+- A map overlay reveals a hidden approach to trophy room active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

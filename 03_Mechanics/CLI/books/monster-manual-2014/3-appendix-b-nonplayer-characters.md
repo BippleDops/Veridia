@@ -55,3 +55,23 @@ The more powerful an NPC, the more likely it has one or more magic items in its 
 - [Thug](/03_Mechanics/CLI/bestiary/humanoid/tough-xmm.md)  
 - [Tribal Warrior](/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm.md)  
 - [Veteran](/03_Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)
+
+## Player-Facing Summary
+
+3 appendix b nonplayer characters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 3 appendix b nonplayer characters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 appendix b nonplayer characters.
+
+## Adventure Hooks
+
+- A rumor ties 3 appendix b nonplayer characters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 3 appendix b nonplayer characters to avert a public scandal.
+- A map overlay reveals a hidden approach to 3 appendix b nonplayer characters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

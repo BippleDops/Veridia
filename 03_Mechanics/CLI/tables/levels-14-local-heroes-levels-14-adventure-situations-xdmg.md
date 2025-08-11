@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 | 19 | The ruins on the hill near the village lie under a curse, so people don't go there—except a scholar who wants to study the ruins. |
 | 20 | A new captain has taken charge of a band of pirates or bandits and started raiding more frequently. |
 ^levels-14-adventure-situations
+
+## Player-Facing Summary
+
+Levels 14 local heroes levels 14 adventure situations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of levels 14 local heroes levels 14 adventure situations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around levels 14 local heroes levels 14 adventure situations xdmg.
+
+## Adventure Hooks
+
+- A rumor ties levels 14 local heroes levels 14 adventure situations xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at levels 14 local heroes levels 14 adventure situations xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to levels 14 local heroes levels 14 adventure situations xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

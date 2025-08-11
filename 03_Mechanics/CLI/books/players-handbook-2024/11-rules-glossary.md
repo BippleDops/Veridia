@@ -491,3 +491,23 @@ Here are definitions of various rules.
 
 > [!embed-variantrule]- Weapon Attack
 > ![Weapon Attack](/03_Mechanics/CLI/variant-rules/weapon-attack-xphb.md)
+
+## Player-Facing Summary
+
+11 rules glossary is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 11 rules glossary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 rules glossary.
+
+## Adventure Hooks
+
+- A rumor ties 11 rules glossary to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 11 rules glossary to avert a public scandal.
+- A map overlay reveals a hidden approach to 11 rules glossary active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

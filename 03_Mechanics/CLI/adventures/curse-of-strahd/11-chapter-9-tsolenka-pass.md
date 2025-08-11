@@ -186,3 +186,23 @@ The goat flees if it takes 10 damage or more. The mist and snowfall prevent seei
 #### Development
 
 A character who wears [Sangzor](/03_Mechanics/CLI/bestiary/npc/sangzor-cos.md)'s pelt can command the respect of the berserkers who inhabit Strahd's domain. They will not attack the character or that character's companions unless provoked.
+
+## Player-Facing Summary
+
+11 chapter 9 tsolenka pass is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 11 chapter 9 tsolenka pass as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 chapter 9 tsolenka pass.
+
+## Adventure Hooks
+
+- A rumor ties 11 chapter 9 tsolenka pass to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 11 chapter 9 tsolenka pass to avert a public scandal.
+- A map overlay reveals a hidden approach to 11 chapter 9 tsolenka pass active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

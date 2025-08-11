@@ -125,3 +125,23 @@ The Firbolg Adventurers table can serve as inspiration for determining why a fir
 Firbolg adopt elven names when they must deal with outsiders, although the concept of names strikes them as strange. They know the animals and plants of the forest without formal names, and instead identify the forest's children by their deeds, habits, and other actions.
 
 By the same token, their tribe names merely refer to their homes. When dealing with other races, firbolgs refer to their lands by whatever name the surrounding folk use, as a matter of tact and hospitality, but among their own kind they simply call it "home." Sometimes firbolgs adopt the nicknames or titles outsiders give them under the assumption that those who need names can call them whatever they wish.
+
+## Player-Facing Summary
+
+Firbolg vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of firbolg vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around firbolg vgm.
+
+## Adventure Hooks
+
+- A rumor ties firbolg vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at firbolg vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to firbolg vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

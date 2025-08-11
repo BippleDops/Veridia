@@ -40,3 +40,23 @@ modified: 2025-07-23 12:39
 | Urnst, the Duchy of | Duke Jalken Lorinar (human) | Independent fiefdom |
 | Vast Swamp, the | — | Morass separating the Tilvanot Peninsula and Shar from the rest of the East |
 ^eastern-flanaess-locations
+
+## Player-Facing Summary
+
+Eastern flanaess locations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of eastern flanaess locations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eastern flanaess locations xdmg.
+
+## Adventure Hooks
+
+- A rumor ties eastern flanaess locations xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at eastern flanaess locations xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to eastern flanaess locations xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -296,3 +296,23 @@ The Shadowmire Tavern serves as one of Aquabyssos's premier neutral meeting grou
 - **Chef Coral**: Passionate about food, uses cooking metaphors, protective of kitchen space
 - **Guards**: Professional and alert, intervene minimally but decisively when needed
 - **Regular Patrons**: Each has established personality, relationships, and tavern habits
+
+## Player-Facing Summary
+
+The Shadowmire Tavern is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shadowmire Tavern as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadowmire Tavern.
+
+## Adventure Hooks
+
+- A rumor ties The Shadowmire Tavern to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Shadowmire Tavern to avert a public scandal.
+- A map overlay reveals a hidden approach to The Shadowmire Tavern active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Shadowmire Tavern]]
+
+<!-- enriched: true -->

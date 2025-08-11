@@ -838,3 +838,23 @@ On **Eberron** (the heroic-fantasy world of the Eberron setting), a terrible war
 On **Aebrynis** (the heroic-fantasy world of the Birthright setting), scions born from divine bloodlines carve up the continent of Cerilia. Monarchs, prelates, guildmasters, and great wizards balance the demands of rulership against the threat of horrible abominations born from the blood of an evil god.
 
 On **Mystara** (a heroic-fantasy world born out of the earliest editions of the D&D game), diverse cultures, savage monsters, and warring empires collide. The world is further shaped by the meddling of the Immortals-former adventurers raised to nearly divine status.
+
+## Player-Facing Summary
+
+03 creating a multiverse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 creating a multiverse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 creating a multiverse.
+
+## Adventure Hooks
+
+- A rumor ties 03 creating a multiverse to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 creating a multiverse to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 creating a multiverse active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

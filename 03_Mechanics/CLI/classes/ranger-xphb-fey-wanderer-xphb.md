@@ -112,3 +112,23 @@ Whenever you start casting the spell, you can modify it so that it doesn't requi
 You can cast [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 In addition, whenever you cast [Misty Step](/03_Mechanics/CLI/spells/misty-step-xphb.md), you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+
+## Player-Facing Summary
+
+Ranger xphb fey wanderer xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ranger xphb fey wanderer xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb fey wanderer xphb.
+
+## Adventure Hooks
+
+- A rumor ties ranger xphb fey wanderer xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ranger xphb fey wanderer xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to ranger xphb fey wanderer xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

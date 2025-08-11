@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 > [!gallery]
 > ![On the Cover: Guided by a ...](/03_Mechanics/CLI/books/players-handbook-2024/img/credits2.webp#gallery "On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson.")
 > ![On the Alt-Cover: Nothing'...](/03_Mechanics/CLI/books/players-handbook-2024/img/credits3.webp#gallery "On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert.")
+
+## Player-Facing Summary
+
+12 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 12 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 credits.
+
+## Adventure Hooks
+
+- A rumor ties 12 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 12 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 12 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -20,3 +20,23 @@ Your study of high elven lore has unlocked fey power that few other elves posses
 - Increase your Intelligence or Charisma by 1, to a maximum of 20.  
 - You learn to speak, read, and write Sylvan.  
 - You learn the [misty step](/03_Mechanics/CLI/spells/misty-step-xphb.md) spell and can cast it once without expending a spell slot. You regain the ability to cast it in this way when you finish a short or long rest. Intelligence is your spellcasting ability for this spell.
+
+## Player-Facing Summary
+
+Fey teleportation xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fey teleportation xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fey teleportation xge.
+
+## Adventure Hooks
+
+- A rumor ties fey teleportation xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fey teleportation xge to avert a public scandal.
+- A map overlay reveals a hidden approach to fey teleportation xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -179,3 +179,23 @@ modified: 2025-07-23 12:39
 | 5 | While exploring an old tomb, library, or temple, I found a spellbook. I was immediately driven to learn all I could about becoming a wizard. |
 | 6 | I was a prodigy who demonstrated mastery of the arcane arts at an early age. When I became old enough to set out on my own, I did so to learn more magic and expand my power. |
 ^wizard
+
+## Player-Facing Summary
+
+Class training i became is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of class training i became as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around class training i became.
+
+## Adventure Hooks
+
+- A rumor ties class training i became to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at class training i became to avert a public scandal.
+- A map overlay reveals a hidden approach to class training i became active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

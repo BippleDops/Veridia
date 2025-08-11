@@ -386,3 +386,13 @@ The Shadow-touched Equipment Set represents gear that has been fundamentally tra
 - Moral dilemmas about using corrupted power for good purposes
 - Relationships tested by character's increasing darkness
 - Redemption arcs provide powerful emotional storylines
+
+## Player-Facing Summary
+
+Shadow touched Equipment Set is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow touched Equipment Set as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow touched Equipment Set.
+
+<!-- enriched: true -->

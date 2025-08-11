@@ -94,3 +94,23 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ### Keeper of Souls (Level 17)
 
 Starting at 17th level, you can seize a trace of vitality from a parting soul and use it to heal the living. When an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy's number of Hit Dice. You can use this feature only if you aren't [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated). Once you use it, you can't do so again until the start of your next turn.
+
+## Player-Facing Summary
+
+Cleric xphb grave domain xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb grave domain xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb grave domain xge.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb grave domain xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb grave domain xge to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb grave domain xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

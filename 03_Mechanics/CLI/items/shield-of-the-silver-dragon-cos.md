@@ -32,3 +32,23 @@ The shield is emblazoned with a stylized silver dragon that is the emblem of the
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
 *Source: Curse of Strahd p. 68*
+
+## Player-Facing Summary
+
+Shield of the silver dragon cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of shield of the silver dragon cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shield of the silver dragon cos.
+
+## Adventure Hooks
+
+- A rumor ties shield of the silver dragon cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at shield of the silver dragon cos to avert a public scandal.
+- A map overlay reveals a hidden approach to shield of the silver dragon cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

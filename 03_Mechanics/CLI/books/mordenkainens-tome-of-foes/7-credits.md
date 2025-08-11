@@ -30,3 +30,23 @@ modified: 2025-07-23 12:39
 - **Other D&D Team Members.** Bart Carroll, Trevor Kidd, Christopher Lindsay, Shelly Mazzanoble, Hilary Ross, Liz Schuh, Nathan Stewart, Greg Tito  
 - **Playtesters.** Adam Hennebeck, Adam Pearson, Alex D'Amico, Alex Kammer, Alexander Forsyth, Andrew Norman, Andrey Sarafanov, Arthur Wright, Ashleigh Bishop, Beau Coker, Ben Rabin, Brian Dahl, Brittany Schoen, Bryan Gillispie, Bryan Harris, Burt Beegle, C. McGovern, Cait Davis-Pauley, Caleb Zutavern, Cameron Scruggs, Charles Benscoter, Chloe Urbano, Chris Garner, Chris Presnall, Cody Helms, Daniel "KBlin" Oliveira, Dave Rosser Jr., Davena Oaks, David Callander, David Gidcumb, David Krolnik, David Merritt, David Morris, Derek DaSilva, Derek Gray, Emre Cihangir, Enrique Bertran, Eric Weberg, Evan Jackson, Garrett Colon, George Strayton, Gerald Wan, Grant Fisk, Gregory L. Harris, Grigory Parovichnikov, J. Connor Self, Jacob DelMauro, James Schweiss, Jared Fegan, Jawsh Murdock, Jay Anderson, Jay Elmore, Jay White, Jenna Schmitt, Jeremy Nagorny, Jerry Behrendt, Jia Jian Tin, Jim Berrier, Jimmer Moeller, Joe Alfano, Joe Reilly, Jonathan Longstaff, Joseph Schenck, Joshua Hart, Justin Donie, Karl Resch, Keith Williams, Kerry Kaszak, Kevin Engling, Kevin Grigsby, Kevin Moore, Kevin Murphy, Kevin Neff, Kirsten Thomas, Kyle Turner, Justin Hicks, Lawrence "Bear" Beals, Lou Michelli, Marcello De Velazquez, Marcus Wiles, Mark Merida, Matt Maranda, Matthew H Budde, Matthew Roderick, Matthew Shurboff, Matthew Warwick, Michael Long, Michael Obermeier, Mike Mihalas, Nel Pulanco, Nichola Sobota, Nicholas Giovannetti, Oleg Suetnov, Paige Miller, Paul Hughes, Phil Morlan, Pieter Sleijpen, Randall Harris, Randall Shepherd, Richard Chamberlain, Robert Alaniz, Russ Paulsen, Russell Engel, Sam Robertson, Sam Shircel, Samuel Sherry, Scott Beck, Scott Chipman, Shane Leahy, Stacy Bermes, Stephen Lindberg, Stephen Morman, Sterling Hershey, Tashfeen Bhimdi, Teos Abadía, Timothy Hunt, Travis Fuller, Travis Woodall, Troy Sandlin, Wayne Chang, Zachary Pickett  
 - This book is dedicated to artist William O'Connor, who passed away during its creation. Since 2001, his work has graced numerous D&D products, including this one. Like his art, his was a spirit of vibrancy and warmth.
+
+## Player-Facing Summary
+
+7 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 7 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 7 credits.
+
+## Adventure Hooks
+
+- A rumor ties 7 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 7 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 7 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

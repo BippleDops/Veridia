@@ -1140,3 +1140,17 @@ This scenario assumes that the characters are camping in a forest when the fog e
 ^09f
 
 No matter which direction they go, the characters come to a lonely dirt road that cuts through the woods, leading to area A (see chapter 2). As an alternative, you can have them enter Barovia near Krezk (see chapter 8).
+
+## Player-Facing Summary
+
+03 chapter 1 into the mists is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 chapter 1 into the mists as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 1 into the mists.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

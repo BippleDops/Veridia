@@ -98,3 +98,23 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 5 | Violence is my answer to almost any challenge. |
 | 6 | Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish. |
 ^flaw
+
+## Player-Facing Summary
+
+Outlander is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of outlander as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around outlander.
+
+## Adventure Hooks
+
+- A rumor ties outlander to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at outlander to avert a public scandal.
+- A map overlay reveals a hidden approach to outlander active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

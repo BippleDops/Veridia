@@ -239,3 +239,23 @@ Two hundred years ago, Scarlett was a legitimate pearl trader who made regular r
 
 *"In Pearl Harbor, we say the water runs red for a reason."*
 - Common saying about the Syndicate
+
+## Player-Facing Summary
+
+The Crimson Pearl is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crimson Pearl as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crimson Pearl.
+
+## Adventure Hooks
+
+- A rumor ties The Crimson Pearl to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Crimson Pearl to avert a public scandal.
+- A map overlay reveals a hidden approach to The Crimson Pearl active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The_Crimson_Pearl]]
+
+<!-- enriched: true -->

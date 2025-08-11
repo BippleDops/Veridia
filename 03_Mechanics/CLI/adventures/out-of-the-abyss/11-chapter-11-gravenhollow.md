@@ -484,3 +484,23 @@ The last favor the library provides for the adventurers is to have the tunnel ou
 ### XP Awards
 
 The characters should leave Gravenhollow with a clear picture of what is happening in the Underdark under the influence of the demon lords, and the roles that Gromph Baenre and Lolth have played in creating the crisis. Each character gains 5,000 XP for learning the truth.
+
+## Player-Facing Summary
+
+11 chapter 11 gravenhollow is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 11 chapter 11 gravenhollow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 chapter 11 gravenhollow.
+
+## Adventure Hooks
+
+- A rumor ties 11 chapter 11 gravenhollow to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 11 chapter 11 gravenhollow to avert a public scandal.
+- A map overlay reveals a hidden approach to 11 chapter 11 gravenhollow active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

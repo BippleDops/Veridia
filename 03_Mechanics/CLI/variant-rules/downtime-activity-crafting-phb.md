@@ -19,3 +19,23 @@ For every day of downtime you spend crafting, you can craft one or more items wi
 Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.
 
 While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost (see chapter 5 for more information on lifestyle expenses).
+
+## Player-Facing Summary
+
+Downtime activity crafting phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity crafting phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity crafting phb.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity crafting phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity crafting phb to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity crafting phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

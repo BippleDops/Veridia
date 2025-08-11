@@ -187,3 +187,23 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 ### Signature Spells (Level 20)
 
 Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). To cast either spell at a higher level, you must expend a spell slot.
+
+## Player-Facing Summary
+
+Wizard xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

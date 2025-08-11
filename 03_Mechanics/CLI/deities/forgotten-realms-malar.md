@@ -18,3 +18,23 @@ modified: 2025-07-23 12:39
 - **Domains**: Nature
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Clawed paw
+
+## Player-Facing Summary
+
+Forgotten realms malar is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of forgotten realms malar as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forgotten realms malar.
+
+## Adventure Hooks
+
+- A rumor ties forgotten realms malar to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at forgotten realms malar to avert a public scandal.
+- A map overlay reveals a hidden approach to forgotten realms malar active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

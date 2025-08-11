@@ -32,3 +32,23 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 **Classes**: [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Vicious mockery xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of vicious mockery xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vicious mockery xphb.
+
+## Adventure Hooks
+
+- A rumor ties vicious mockery xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at vicious mockery xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to vicious mockery xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

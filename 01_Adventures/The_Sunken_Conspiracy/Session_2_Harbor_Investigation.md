@@ -789,3 +789,23 @@ Estimated Completion: 18 hours
 ---
 
 *As the conspiracy's true scope becomes clear, the party must navigate treacherous political waters where allies and enemies are not always who they seem. In the depths of Aquabyssos, even the currents carry secrets, and some truths are more dangerous than the crushing pressure of the abyss.*
+
+## Player-Facing Summary
+
+Session 2 Harbor Investigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Session 2 Harbor Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Session 2 Harbor Investigation.
+
+## Adventure Hooks
+
+- A rumor ties Session 2 Harbor Investigation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Session 2 Harbor Investigation to avert a public scandal.
+- A map overlay reveals a hidden approach to Session 2 Harbor Investigation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

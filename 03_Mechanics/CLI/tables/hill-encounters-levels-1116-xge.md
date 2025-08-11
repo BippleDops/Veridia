@@ -47,3 +47,23 @@ modified: 2025-07-23 12:39
 | 97-99 | 1 [adult red dragon](/03_Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) |
 | 00 | 1 [ancient copper dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md) |
 ^hill-encounters-levels-1116
+
+## Player-Facing Summary
+
+Hill encounters levels 1116 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of hill encounters levels 1116 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hill encounters levels 1116 xge.
+
+## Adventure Hooks
+
+- A rumor ties hill encounters levels 1116 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at hill encounters levels 1116 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to hill encounters levels 1116 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

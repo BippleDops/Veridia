@@ -750,3 +750,23 @@ This chapter can end either with one or both of Chuth and [Neronvain](/03_Mechan
 In any event, the threat against the Misty Forest is ended. King Melandrach hears of the party's actions and is grateful for the heroes' bravery. However, the discovery that his lost son [Neronvain](/03_Mechanics/CLI/bestiary/npc/neronvain-rot.md) is a wyrmspeaker fills him with shame and rage.
 
 The characters gain a level at the end of this chapter.
+
+## Player-Facing Summary
+
+04 chapters 11 and 12 death to the wyrmspeakers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 04 chapters 11 and 12 death to the wyrmspeakers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapters 11 and 12 death to the wyrmspeakers.
+
+## Adventure Hooks
+
+- A rumor ties 04 chapters 11 and 12 death to the wyrmspeakers to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 04 chapters 11 and 12 death to the wyrmspeakers to avert a public scandal.
+- A map overlay reveals a hidden approach to 04 chapters 11 and 12 death to the wyrmspeakers active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

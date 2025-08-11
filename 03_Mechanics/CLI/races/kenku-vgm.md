@@ -104,3 +104,23 @@ Kenku thugs, warriors, and toughs adopt noises made by weapons, such as the clan
 Kenku thieves, con artists, and burglars adopt animal noises, typically those common in urban settings. In this manner, kenku can call out to each other while those who overhear them mistake them for common animals. Non-kenku use names that refer to the sound made or the animal a kenku mimics, such as Rat Scratch, Whistler, Mouser, and Growler.
 
 Some kenku turn their back on crime to pursue legitimate trades. These kenku adopt noises made as part of their craft. A sailor duplicates the sound of a fluttering sail, while a smith mimics the clanging of a hammer on metal. Non-kenku describe these folk by their trade sounds, such as Sail Snap, Hammerer, and Cutter.
+
+## Player-Facing Summary
+
+Kenku vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of kenku vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kenku vgm.
+
+## Adventure Hooks
+
+- A rumor ties kenku vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at kenku vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to kenku vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

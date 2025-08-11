@@ -452,3 +452,23 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 - **Character Development**: Void exposure can drive character growth and change
 - **World Building**: Tears affect every aspect of society from economics to religion
 - **Moral Complexity**: No easy answers to tear problem creates interesting dilemmas
+
+## Player-Facing Summary
+
+The Void Tears is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Void Tears as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Tears.
+
+## Adventure Hooks
+
+- A rumor ties The Void Tears to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Void Tears to avert a public scandal.
+- A map overlay reveals a hidden approach to The Void Tears active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Void Tears]]
+
+<!-- enriched: true -->

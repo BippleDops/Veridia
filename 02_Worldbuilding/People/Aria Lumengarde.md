@@ -232,3 +232,23 @@ Aria's position grants her significant soft power:
 - [[Quest - The Pretender]]
 - [[The Verdant Reach]]
 - [[Quest - The Seventh Shard]]
+
+## Player-Facing Summary
+
+Aria Lumengarde is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aria Lumengarde as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aria Lumengarde.
+
+## Adventure Hooks
+
+- A rumor ties Aria Lumengarde to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aria Lumengarde to avert a public scandal.
+- A map overlay reveals a hidden approach to Aria Lumengarde active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Aria Lumengarde]]
+
+<!-- enriched: true -->

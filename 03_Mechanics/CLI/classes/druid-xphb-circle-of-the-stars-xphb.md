@@ -114,3 +114,23 @@ Moreover, at the start of each of your turns while in your Starry Form, you can 
 ### Full of Stars (Level 14)
 
 While in your Starry Form, you become partially incorporeal, giving you [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+
+## Player-Facing Summary
+
+Druid xphb circle of the stars xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of druid xphb circle of the stars xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around druid xphb circle of the stars xphb.
+
+## Adventure Hooks
+
+- A rumor ties druid xphb circle of the stars xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at druid xphb circle of the stars xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to druid xphb circle of the stars xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

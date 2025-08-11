@@ -19,3 +19,23 @@ An inferno consists of at least four contiguous 10-foot [Cubes](/03_Mechanics/CL
 An inferno damages any vegetation or object that isn't being worn or carried that it touches, dealing 22 (`4d10`) Fire damage immediately and again at the end of each minute. Any creature that enters the inferno for the first time on a turn or starts its turn there takes 22 (`4d10`) Fire damage and is burning.
 
 *Source: Dungeon Master's Guide (2024) p. 76*
+
+## Player-Facing Summary
+
+Inferno xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of inferno xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inferno xdmg.
+
+## Adventure Hooks
+
+- A rumor ties inferno xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at inferno xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to inferno xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

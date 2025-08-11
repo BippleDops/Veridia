@@ -494,3 +494,17 @@ Benthia needs mortals to serve as her representatives in negotiations with surfa
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Memory Bridge]]
 - [[Quest - The Shard-Shadow Resonance]]
+
+## Player-Facing Summary
+
+Pressure Angel Benthia is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pressure Angel Benthia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Angel Benthia.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Pressure Angel Benthia]]
+
+<!-- enriched: true -->

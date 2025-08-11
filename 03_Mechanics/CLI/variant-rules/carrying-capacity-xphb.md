@@ -26,3 +26,23 @@ While dragging, lifting, or pushing weight in excess of the maximum weight you c
 | Huge | Str. × 60 lb. | Str. × 120 lb. |
 | Gargantuan | Str. × 120 lb. | Str. × 240 lb. |
 ^carrying-capacity
+
+## Player-Facing Summary
+
+Carrying capacity xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of carrying capacity xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around carrying capacity xphb.
+
+## Adventure Hooks
+
+- A rumor ties carrying capacity xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at carrying capacity xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to carrying capacity xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

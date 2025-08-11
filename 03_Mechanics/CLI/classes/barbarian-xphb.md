@@ -231,3 +231,23 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 ### Primal Champion (Level 20)
 
 You embody primal power. Your Strength and Constitution scores increase by 4, to a maximum of 25.
+
+## Player-Facing Summary
+
+Barbarian xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

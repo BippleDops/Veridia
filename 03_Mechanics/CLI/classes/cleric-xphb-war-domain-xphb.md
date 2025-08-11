@@ -86,3 +86,23 @@ You can expend a use of your Channel Divinity to cast [Shield of Faith](/03_Mech
 ### Avatar of Battle (Level 17)
 
 You gain [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+
+## Player-Facing Summary
+
+Cleric xphb war domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb war domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb war domain xphb.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb war domain xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb war domain xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb war domain xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

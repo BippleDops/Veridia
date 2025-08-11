@@ -162,3 +162,17 @@ Cryptic predictions about coming events, written in symbolic language that becom
 
 ## DM Notes
 The Constellation Codex serves as a powerful plot device that can drive entire campaign arcs. Its prophecies should be sufficiently vague to maintain player agency while providing clear guidance about major events. Use it to foreshadow important storylines and create urgency around astronomical phenomena.
+
+## Player-Facing Summary
+
+Constellation Codex is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Constellation Codex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Constellation Codex.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Constellation Codex]]
+
+<!-- enriched: true -->

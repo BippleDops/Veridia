@@ -33,3 +33,23 @@ modified: 2025-07-23 12:39
 | 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn't a creature. |
 | 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are [Hostile](/03_Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) toward you. |
 ^minor-detrimental-properties
+
+## Player-Facing Summary
+
+Artifact properties minor detrimental properties xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of artifact properties minor detrimental properties xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties minor detrimental properties xdmg.
+
+## Adventure Hooks
+
+- A rumor ties artifact properties minor detrimental properties xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at artifact properties minor detrimental properties xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to artifact properties minor detrimental properties xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

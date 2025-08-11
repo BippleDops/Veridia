@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | [Jade game board with solid gold playing pieces](/03_Mechanics/CLI/items/jade-game-board-with-gold-playing-pieces-xdmg.md) |
 | 8 | [Bejeweled ivory drinking horn with gold filigree](/03_Mechanics/CLI/items/bejeweled-ivory-drinking-horn-with-gold-filigree-xdmg.md) |
 ^7500-gp-art-objects
+
+## Player-Facing Summary
+
+7500 gp art objects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 7500 gp art objects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 7500 gp art objects.
+
+## Adventure Hooks
+
+- A rumor ties 7500 gp art objects to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 7500 gp art objects to avert a public scandal.
+- A map overlay reveals a hidden approach to 7500 gp art objects active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

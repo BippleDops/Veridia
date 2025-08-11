@@ -101,3 +101,23 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/amnizu-mpmm.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Amnizu mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of amnizu mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around amnizu mpmm.
+
+## Adventure Hooks
+
+- A rumor ties amnizu mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at amnizu mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to amnizu mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

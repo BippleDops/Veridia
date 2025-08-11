@@ -39,3 +39,23 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 ## Curing Madness
 
 A [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md) spell can suppress the effects of madness, while a [lesser restoration](/03_Mechanics/CLI/spells/lesser-restoration-xphb.md) spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [remove curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) or [dispel evil](/03_Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) might also prove effective. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell or more powerful magic is required to rid a character of indefinite madness.
+
+## Player-Facing Summary
+
+Madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around madness.
+
+## Adventure Hooks
+
+- A rumor ties madness to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at madness to avert a public scandal.
+- A map overlay reveals a hidden approach to madness active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

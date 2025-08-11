@@ -555,3 +555,21 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 - [[Ambush Point]]
 - [[Rescue Senator Glaucus]]
 - [[Aquabyssos - Session 04 - High Tide Horror]]
+
+## Player-Facing Summary
+
+Shadow Market Canals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Market Canals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Market Canals.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Shadow Market Canals]]
+
+<!-- enriched: true -->

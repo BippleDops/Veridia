@@ -28,3 +28,23 @@ When either spell ends, the balloon slowly deflates as the elemental spirit esca
 After the spirit departs, the backpack's property is unusable unless the backpack is recharged for 1 hour in an elemental air node, which binds another spirit to the backpack.
 
 *Source: Princes of the Apocalypse p. 222*
+
+## Player-Facing Summary
+
+Balloon pack pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of balloon pack pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around balloon pack pota.
+
+## Adventure Hooks
+
+- A rumor ties balloon pack pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at balloon pack pota to avert a public scandal.
+- A map overlay reveals a hidden approach to balloon pack pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

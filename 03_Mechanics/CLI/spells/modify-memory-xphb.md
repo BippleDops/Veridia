@@ -44,3 +44,23 @@ A [Remove Curse](/03_Mechanics/CLI/spells/remove-curse-xphb.md) or [Greater Rest
 **Classes**: [Cleric (Trickery Domain)](/03_Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](/03_Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Modify memory xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of modify memory xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around modify memory xphb.
+
+## Adventure Hooks
+
+- A rumor ties modify memory xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at modify memory xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to modify memory xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -37,3 +37,23 @@ Macro-systems that make journeys strategic. Connects to economies, factions, and
 - Faction Control of Routes: Tolling, patrols, piracy, and privateering
 - Trade Lanes: Risk/Reward tables (see [[Journey_Event_Compiler]])
 - Infrastructure Sabotage: Target anchors, beacons, stations to shift strategic balance
+
+## Player-Facing Summary
+
+Transportation Infrastructure is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Transportation Infrastructure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Transportation Infrastructure.
+
+## Adventure Hooks
+
+- A rumor ties Transportation Infrastructure to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Transportation Infrastructure to avert a public scandal.
+- A map overlay reveals a hidden approach to Transportation Infrastructure active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

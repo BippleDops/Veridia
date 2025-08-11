@@ -119,3 +119,23 @@ The Mind Mazes serve as both plot devices and psychological exploration tools, c
 - [[02_Worldbuilding/Lore/Memory Alterations]] research and ethical implications
 - [[02_Worldbuilding/Places/Parliament of Echoes]] debates on mental sovereignty rights
 - [[02_Worldbuilding/Lore/Sanity System]] mechanics for prolonged psychological stress
+
+## Player-Facing Summary
+
+Aboleth Mind Mazes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aboleth Mind Mazes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aboleth Mind Mazes.
+
+## Adventure Hooks
+
+- A rumor ties Aboleth Mind Mazes to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aboleth Mind Mazes to avert a public scandal.
+- A map overlay reveals a hidden approach to Aboleth Mind Mazes active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

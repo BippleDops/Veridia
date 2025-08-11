@@ -95,3 +95,23 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "image": "/03_Mechanics/CLI/bestiary/undead/token/phantom-warrior-cos.webp"
 ```
 ^statblock
+
+## Player-Facing Summary
+
+Phantom warrior cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of phantom warrior cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around phantom warrior cos.
+
+## Adventure Hooks
+
+- A rumor ties phantom warrior cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at phantom warrior cos to avert a public scandal.
+- A map overlay reveals a hidden approach to phantom warrior cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

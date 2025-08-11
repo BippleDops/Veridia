@@ -48,3 +48,23 @@ Either of these effects might appear in the area around a copper dragon's lair, 
 
 - **Distant Melodies.** The ethereal music of woodwinds and bells can be heard carried on the wind within 1 mile of the dragon's lair.  
 - **Starlit Stones.** Standing stones are common on hilltops within 1 mile of the dragon's lair. The stones shed dim light in a 10-foot radius at night. (If the dragon dies, the stones remain, but they no longer shed light.)
+
+## Player-Facing Summary
+
+Copper dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of copper dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around copper dragon.
+
+## Adventure Hooks
+
+- A rumor ties copper dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at copper dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to copper dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

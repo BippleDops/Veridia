@@ -26,3 +26,23 @@ modified: 2025-07-23 12:39
 | 6 | You must make a sharp turn to avoid colliding with something impassable. Make a DC 10 Dexterity saving throw to navigate the turn. On a failed save, you collide with something hard and take `d4` Bludgeoning damage. |
 | 7–12 | There is no complication. |
 ^urban-chase-complications
+
+## Player-Facing Summary
+
+Urban chase complications xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of urban chase complications xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around urban chase complications xdmg.
+
+## Adventure Hooks
+
+- A rumor ties urban chase complications xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at urban chase complications xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to urban chase complications xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

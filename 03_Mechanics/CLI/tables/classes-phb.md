@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | [Warlock](/03_Mechanics/CLI/classes/warlock-xphb.md) | A wielder of magic that is derived from a bargain with an extraplanar entity | d8 | Charisma | Wisdom & Charisma | Light armor, simple weapons |
 | [Wizard](/03_Mechanics/CLI/classes/wizard-xphb.md) | A scholarly magic-user capable of manipulating the structures of reality | d6 | Intelligence | Intelligence & Wisdom | Daggers, darts, slings, quarterstaffs, light crossbows |
 ^class-description-hit-die-primary-ability-saving-throw-proficiencies-armor-and-weapon-proficiencies
+
+## Player-Facing Summary
+
+Classes phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of classes phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around classes phb.
+
+## Adventure Hooks
+
+- A rumor ties classes phb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at classes phb to avert a public scandal.
+- A map overlay reveals a hidden approach to classes phb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

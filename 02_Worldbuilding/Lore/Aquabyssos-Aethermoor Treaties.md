@@ -311,3 +311,17 @@ The Aquabyssos-Aethermoor Treaties represent more than diplomatic agreements - t
 
 - [[Marriage Between Worlds]]
 - [[Aethermoor - Session 09 The Price of Unity]]
+
+## Player-Facing Summary
+
+Aquabyssos Aethermoor Treaties is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aquabyssos Aethermoor Treaties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Aethermoor Treaties.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

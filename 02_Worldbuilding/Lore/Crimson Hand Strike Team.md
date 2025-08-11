@@ -149,3 +149,17 @@ Use the Crimson Hand as mysterious antagonists, reluctant allies, or complex mor
 
 ### Customization Options
 Adjust the team's morality and methods to match your campaign tone - noble defenders, necessary evils, or ruthless pragmatists depending on the story needs.
+
+## Player-Facing Summary
+
+Crimson Hand Strike Team is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Crimson Hand Strike Team as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crimson Hand Strike Team.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

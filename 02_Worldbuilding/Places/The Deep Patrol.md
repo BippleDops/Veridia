@@ -162,3 +162,17 @@ The Deep Patrol provides opportunities for extreme environment adventures, milit
 - [[Harbor District]]
 - [[Pressure Terminal]]
 - [[Pressure's End]]
+
+## Player-Facing Summary
+
+The Deep Patrol is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Deep Patrol as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Patrol.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Deep Patrol]]
+
+<!-- enriched: true -->

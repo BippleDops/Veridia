@@ -89,3 +89,23 @@ When you roll [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md), 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.
 
 You can't use this feature if you have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition.
+
+## Player-Facing Summary
+
+Bard xphb college of dance xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bard xphb college of dance xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bard xphb college of dance xphb.
+
+## Adventure Hooks
+
+- A rumor ties bard xphb college of dance xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bard xphb college of dance xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to bard xphb college of dance xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

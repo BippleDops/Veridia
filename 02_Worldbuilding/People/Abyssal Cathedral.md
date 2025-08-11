@@ -286,3 +286,17 @@ On initiative 20, Cathedral can:
 - Can serve as patron, ally, or complication depending on party goals and needs
 - Their distributed consciousness means they're very hard to truly defeat or control
 - Use them to blur the line between character and environment, making spaces themselves part of the story
+
+## Player-Facing Summary
+
+Abyssal Cathedral is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Abyssal Cathedral as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssal Cathedral.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Abyssal Cathedral]]
+
+<!-- enriched: true -->

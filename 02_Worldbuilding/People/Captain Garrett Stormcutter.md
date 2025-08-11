@@ -174,3 +174,27 @@ Was a successful merchant captain when the drowning accelerated. Watched his hom
 - Warehouse: [[02_Worldbuilding/Places/The Wandering Atoll]] - Hidden level
 - Contacts: [[02_Worldbuilding/Places/The Phosphor Markets]] - Everywhere
 - Safe house: [[02_Worldbuilding/Places/The Bathyal Palace]] - Embassy row
+
+## Player-Facing Summary
+
+Captain Garrett Stormcutter is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Captain Garrett Stormcutter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Garrett Stormcutter.
+
+## Adventure Hooks
+
+- A rumor ties Captain Garrett Stormcutter to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Captain Garrett Stormcutter to avert a public scandal.
+- A map overlay reveals a hidden approach to Captain Garrett Stormcutter active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Captain Garrett Stormcutter]]
+
+<!-- enriched: true -->

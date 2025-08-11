@@ -297,3 +297,23 @@ Some parts of a stat block have restrictions on the number of times they can be 
 - **X/Day.** This notation means the stat block part can be used a certain number of times (represented by X) and that a monster must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) to regain expended uses. For example, a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) that includes "1/Day" means the [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) can be taken once and that the monster must finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) to take it again.  
 - **Recharge X–Y.** This notation means a monster can use the stat block part once. At the start of each of the monster's turns, roll `d6`. If the roll is within the number range given in the notation (represented by X–Y), the monster regains the use of that part, which also recharges when the monster finishes a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md). For example, "Recharge 5–6" in an action means a monster can take the action once. Then, at the start of each of the monster's turns, it regains the use of that action if it rolls a 5 or 6 on `d6`.  
 - **Recharge after a Short or Long Rest.** This notation means the monster can use the stat block part once and must then finish a [Short](/03_Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) to use it again.
+
+## Player-Facing Summary
+
+1 how to use a monster is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 1 how to use a monster as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 how to use a monster.
+
+## Adventure Hooks
+
+- A rumor ties 1 how to use a monster to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 1 how to use a monster to avert a public scandal.
+- A map overlay reveals a hidden approach to 1 how to use a monster active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

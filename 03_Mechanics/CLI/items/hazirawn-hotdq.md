@@ -42,3 +42,23 @@ Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you an
 While you are attuned to the weapon, any creature that you hit with Hazirawn can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 
 *Source: Hoard of the Dragon Queen p. 94*
+
+## Player-Facing Summary
+
+Hazirawn hotdq is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of hazirawn hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hazirawn hotdq.
+
+## Adventure Hooks
+
+- A rumor ties hazirawn hotdq to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at hazirawn hotdq to avert a public scandal.
+- A map overlay reveals a hidden approach to hazirawn hotdq active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

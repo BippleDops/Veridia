@@ -198,3 +198,19 @@ Ancient prophecies are manifesting as physical objects in [[02_Worldbuilding/Pla
 
 ## DM Notes
 This quest bridges the gap between the crystal corruption storyline and the introduction of Aquabyssos as a major threat. It provides personal stakes (the prince's family drama), moral complexity (no perfect solution), and connections to multiple factions. The prophecy shards can become recurring plot devices, and the outcome significantly affects the campaign's direction. The investigation structure allows for both combat and social solutions, while the various NPCs provide different approaches to problem-solving.
+
+## Player-Facing Summary
+
+Quest   The Drowned Prophecy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Drowned Prophecy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Drowned Prophecy.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Drowned Prophecy to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Drowned Prophecy to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Drowned Prophecy active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -47,3 +47,23 @@ A powerful sea hag creates one or more of the following additional regional effe
 - Most surfaces are covered by a thin film of slime, which is slick and sticks to anything that touches it.  
 - Currents and tides are exceptionally strong and treacherous. Any ability check made to safely navigate or control a vessel moving through these waters has disadvantage.  
 - Shores are littered with dead, rotting fish. The hag can sense when one of the fish is handled and cause it to speak with her voice.
+
+## Player-Facing Summary
+
+Sea hag is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sea hag as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sea hag.
+
+## Adventure Hooks
+
+- A rumor ties sea hag to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sea hag to avert a public scandal.
+- A map overlay reveals a hidden approach to sea hag active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

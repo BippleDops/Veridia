@@ -136,3 +136,23 @@ modified: 2025-07-23 12:39
 | 81–90 | [Talisman of Pure Good](/03_Mechanics/CLI/items/talisman-of-pure-good-xdmg.md) |
 | 91–00 | [Talisman of Ultimate Evil](/03_Mechanics/CLI/items/talisman-of-ultimate-evil-xdmg.md) |
 ^relics-legendary
+
+## Player-Facing Summary
+
+Random magic items relics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of random magic items relics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items relics.
+
+## Adventure Hooks
+
+- A rumor ties random magic items relics to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at random magic items relics to avert a public scandal.
+- A map overlay reveals a hidden approach to random magic items relics active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -165,3 +165,23 @@ There are no stranger bedfellows than horror and humor. Tension can't be sustain
 
 - Allow NPCs (even evil ones) to tell jokes, speak in a funny voice, or behave idiotically. Even morbid humor is better than none.  
 - When a hero, villain, or monster rolls a natural 1 on an attack roll, ability check, or saving throw, describe a humorous mishap that occurs as a result of the low roll, such as a character accidentally knocking over a lamp and setting some drapes on fire while trying to hide or move silently.
+
+## Player-Facing Summary
+
+02 introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 02 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 introduction.
+
+## Adventure Hooks
+
+- A rumor ties 02 introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 02 introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to 02 introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

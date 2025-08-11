@@ -1265,3 +1265,23 @@ A collection of islands that embrace the chaotic magical conditions created by t
 - [[The Forgotten Isles]]
 - [[The Lighthouse of Storms]]
 - [[The Seven Shards]]
+
+## Player-Facing Summary
+
+The Sundering is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Sundering as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sundering.
+
+## Adventure Hooks
+
+- A rumor ties The Sundering to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Sundering to avert a public scandal.
+- A map overlay reveals a hidden approach to The Sundering active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

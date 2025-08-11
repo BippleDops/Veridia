@@ -24,3 +24,23 @@ Creating a map for an adventure is a fun, challenging, and time-consuming endeav
 > ![Map 7](/03_Mechanics/CLI/books/dungeon-masters-guide-2014/img/app-c-7.webp#gallery)
 > ![Map 8](/03_Mechanics/CLI/books/dungeon-masters-guide-2014/img/app-c-8.webp#gallery)
 > ![Map 9](/03_Mechanics/CLI/books/dungeon-masters-guide-2014/img/app-c-9.webp#gallery)
+
+## Player-Facing Summary
+
+13 appendix c maps is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 13 appendix c maps as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 appendix c maps.
+
+## Adventure Hooks
+
+- A rumor ties 13 appendix c maps to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 13 appendix c maps to avert a public scandal.
+- A map overlay reveals a hidden approach to 13 appendix c maps active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

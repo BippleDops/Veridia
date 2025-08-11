@@ -466,3 +466,13 @@ Training new Watchers requires exposing them to cosmic horrors that fundamentall
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Memory Bridge]]
 - [[Quest - The Shard-Shadow Resonance]]
+
+## Player-Facing Summary
+
+The Void Watchers is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Void Watchers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Watchers.
+
+<!-- enriched: true -->

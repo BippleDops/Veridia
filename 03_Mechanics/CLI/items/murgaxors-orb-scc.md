@@ -56,3 +56,23 @@ As a side effect of the orb's curse, the spell [detect magic](/03_Mechanics/CLI/
 Murgaxor's orb has AC 18; 20 hit points; immunity to necrotic, poison, and psychic damage; and resistance to all other types of damage. If reduced to 0 hit points, the orb shatters.
 
 *Source: Strixhaven: A Curriculum of Chaos p. 126*
+
+## Player-Facing Summary
+
+Murgaxors orb scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of murgaxors orb scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around murgaxors orb scc.
+
+## Adventure Hooks
+
+- A rumor ties murgaxors orb scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at murgaxors orb scc to avert a public scandal.
+- A map overlay reveals a hidden approach to murgaxors orb scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

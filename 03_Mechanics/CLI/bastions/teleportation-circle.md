@@ -29,3 +29,23 @@ While you are in your Bastion, you can ask the spellcaster to cast one Wizard sp
 The spellcaster stays for 14 days or until they cast a spell for you. The spellcaster won't defend your Bastion and departs immediately if the Bastion is attacked (see ""Bastion Events"" at the end of the chapter).
 
 *Source: Dungeon Master's Guide (2024) p. 347*
+
+## Player-Facing Summary
+
+Teleportation circle is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of teleportation circle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around teleportation circle.
+
+## Adventure Hooks
+
+- A rumor ties teleportation circle to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at teleportation circle to avert a public scandal.
+- A map overlay reveals a hidden approach to teleportation circle active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

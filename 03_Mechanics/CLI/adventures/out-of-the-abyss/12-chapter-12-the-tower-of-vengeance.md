@@ -215,3 +215,23 @@ The tower's twenty-four suits of [animated armor](/03_Mechanics/CLI/bestiary/con
 Vizeran casts his protective spells before entering combat, along with [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) (renewing the death slaad's [invisibility](/03_Mechanics/CLI/spells/invisibility-xphb.md) as well if he has time). As a last-ditch escape, Vizeran casts [time stop](/03_Mechanics/CLI/spells/time-stop-xphb.md) and uses the opportunity to flee or make a risky [teleport](/03_Mechanics/CLI/spells/teleport-xphb.md) attempt to a bolt-hole shelter he has hidden in another Underdark location of your choice.
 
 In the event the characters have the opportunity to loot Araj, they find the items listed under "What Vizeran Offers," along with other treasure suitable for a foe of the archmage's power. See chapter 7, ""Treasure"," of the *Dungeon Master's Guide* for guidelines on creating Vizeran's treasury, keeping in mind that the wily drow has likely trapped his most powerful magic items. If he survives and escapes, Vizeran adds those who dare to threaten him and loot his home to the list of people who will suffer his revenge.
+
+## Player-Facing Summary
+
+12 chapter 12 the tower of vengeance is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 12 chapter 12 the tower of vengeance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 chapter 12 the tower of vengeance.
+
+## Adventure Hooks
+
+- A rumor ties 12 chapter 12 the tower of vengeance to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 12 chapter 12 the tower of vengeance to avert a public scandal.
+- A map overlay reveals a hidden approach to 12 chapter 12 the tower of vengeance active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

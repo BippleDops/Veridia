@@ -22,3 +22,23 @@ You gain the following benefits.
 **Overcome Defenses.** The Bludgeoning, Piercing, and Slashing damage you deal always ignores Resistance.
 
 **Overwhelming Strike.** When you roll a 20 on the `d20` for an attack roll, you can deal extra damage to the target equal to the ability score increased by this feat. The extra damage's type is the same as the attack's type.
+
+## Player-Facing Summary
+
+Boon of irresistible offense xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of boon of irresistible offense xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of irresistible offense xphb.
+
+## Adventure Hooks
+
+- A rumor ties boon of irresistible offense xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at boon of irresistible offense xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to boon of irresistible offense xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -95,3 +95,23 @@ When you use your Step of the Wind, your [Speed](/03_Mechanics/CLI/variant-rules
 #### Empowered Strikes
 
 Once on each of your turns, you can deal extra damage to a target equal to one roll of your Martial Arts die when you hit it with an [Unarmed Strike](/03_Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). The extra damage is the same type dealt by that strike.
+
+## Player-Facing Summary
+
+Monk xphb warrior of the elements xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monk xphb warrior of the elements xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb warrior of the elements xphb.
+
+## Adventure Hooks
+
+- A rumor ties monk xphb warrior of the elements xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monk xphb warrior of the elements xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to monk xphb warrior of the elements xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

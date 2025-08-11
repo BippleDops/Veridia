@@ -448,3 +448,13 @@ Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most
 - [[Party Shadows]]
 - [[Shadow Independence Levels]]
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+
+## Player-Facing Summary
+
+Shadow Vale is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Vale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Vale.
+
+<!-- enriched: true -->

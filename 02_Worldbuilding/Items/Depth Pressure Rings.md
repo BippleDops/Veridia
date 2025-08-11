@@ -358,3 +358,19 @@ Depth Pressure Rings represent one of the most fundamental and widely-used magic
 - Cultural variations show diversity within Aquabyssos society
 - Maintenance and replacement create ongoing character concerns
 - Gifting and inheritance create emotional story connections
+
+## Player-Facing Summary
+
+Depth Pressure Rings is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Depth Pressure Rings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Pressure Rings.
+
+## Adventure Hooks
+
+- A rumor ties Depth Pressure Rings to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Depth Pressure Rings to avert a public scandal.
+- A map overlay reveals a hidden approach to Depth Pressure Rings active only during specific tides/storms.
+
+<!-- enriched: true -->

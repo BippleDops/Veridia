@@ -98,3 +98,17 @@ Provides colorful setting for social encounters, cultural exploration, and diplo
 - [[The Oracle of the Sundered Peaks]]
 - [[Traveling Merchant Finn]]
 - [[Aethermoor - Session 07 The Festival of Transformation]]
+
+## Player-Facing Summary
+
+Crystal Festival is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Crystal Festival as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Festival.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -37,3 +37,23 @@ assets:
 ```dataviewjs
 (dv.current().assets ?? []).forEach(l=>dv.list(l))
 ```
+
+## Player-Facing Summary
+
+Aethermoor Session 01 is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aethermoor Session 01 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Session 01.
+
+## Adventure Hooks
+
+- A rumor ties Aethermoor Session 01 to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aethermoor Session 01 to avert a public scandal.
+- A map overlay reveals a hidden approach to Aethermoor Session 01 active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

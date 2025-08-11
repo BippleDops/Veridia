@@ -193,3 +193,23 @@ modified: 2025-07-23 12:39
 | 5 | One day I woke up on the streets, alone and hungry, with no memory of my early childhood. |
 | 6 | My parents died, leaving no one to look after me. I raised myself. |
 ^urchin
+
+## Player-Facing Summary
+
+Background i became is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of background i became as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around background i became.
+
+## Adventure Hooks
+
+- A rumor ties background i became to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at background i became to avert a public scandal.
+- A map overlay reveals a hidden approach to background i became active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

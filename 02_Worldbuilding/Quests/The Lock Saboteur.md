@@ -295,3 +295,19 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 
 - [[Pearl_Harbor_City]]
 - [[The_Second_Rising]]
+
+## Player-Facing Summary
+
+The Lock Saboteur is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Lock Saboteur as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Lock Saboteur.
+
+## Adventure Hooks
+
+- A rumor ties The Lock Saboteur to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Lock Saboteur to avert a public scandal.
+- A map overlay reveals a hidden approach to The Lock Saboteur active only during specific tides/storms.
+
+<!-- enriched: true -->

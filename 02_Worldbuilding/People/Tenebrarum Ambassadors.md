@@ -278,3 +278,23 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 ## Connections
 
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Tenebrarum Ambassadors is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Tenebrarum Ambassadors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tenebrarum Ambassadors.
+
+## Adventure Hooks
+
+- A rumor ties Tenebrarum Ambassadors to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Tenebrarum Ambassadors to avert a public scandal.
+- A map overlay reveals a hidden approach to Tenebrarum Ambassadors active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Tenebrarum Ambassadors]]
+
+<!-- enriched: true -->

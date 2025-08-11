@@ -126,3 +126,23 @@ Defensive systems and personnel quarters:
 ## Connected Locations and Adventure Integration
 
 Goldwave Manor serves as a natural hub connecting to numerous other important locations throughout [[Aethermoor]] and beyond, providing rich opportunities for campaign development and character engagement across multiple storylines and adventure themes.
+
+## Player-Facing Summary
+
+Goldwave Manor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Goldwave Manor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Goldwave Manor.
+
+## Adventure Hooks
+
+- A rumor ties Goldwave Manor to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Goldwave Manor to avert a public scandal.
+- A map overlay reveals a hidden approach to Goldwave Manor active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

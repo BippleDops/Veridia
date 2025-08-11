@@ -144,3 +144,17 @@ Use transitions as opportunities for character development, world-building expos
 - [[Dock Worker Tomás]]
 - [[Lamplight Alley]]
 - [[Session 0 - Aquabyssos]]
+
+## Player-Facing Summary
+
+Aethermoor to Aquabyssos Transition Guide is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aethermoor to Aquabyssos Transition Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor to Aquabyssos Transition Guide.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

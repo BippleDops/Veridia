@@ -81,3 +81,23 @@ When you cast either spell with a spell slot, that slot isn't expended if the sp
 ### Spell Resistance (Level 14)
 
 You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells, and you have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to the damage of spells.
+
+## Player-Facing Summary
+
+Wizard xphb abjurer xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wizard xphb abjurer xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wizard xphb abjurer xphb.
+
+## Adventure Hooks
+
+- A rumor ties wizard xphb abjurer xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wizard xphb abjurer xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wizard xphb abjurer xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

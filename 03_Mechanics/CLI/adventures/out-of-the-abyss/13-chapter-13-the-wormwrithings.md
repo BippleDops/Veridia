@@ -599,3 +599,23 @@ The duodrone has 1 hit point remaining and speaks its own language of clicks and
 #### Treasure
 
 The beholder used its disintegration eye ray to carve a rough likeness of itself in the ceiling of Karazikar's Maw—a great stone beholder face glaring down upon the gaping chasm, its central eye a hollow shaft that leads up to a hemispherical vault where the beholder hides its considerable hoard: 15,000 gp, 1,300 pp, ten assorted gems worth 500 gp each, a [gem of seeing](/03_Mechanics/CLI/items/gem-of-seeing-xdmg.md), a [necklace of adaptation](/03_Mechanics/CLI/items/necklace-of-adaptation-xdmg.md), and a [robe of eyes](/03_Mechanics/CLI/items/robe-of-eyes-xdmg.md).
+
+## Player-Facing Summary
+
+13 chapter 13 the wormwrithings is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 13 chapter 13 the wormwrithings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 chapter 13 the wormwrithings.
+
+## Adventure Hooks
+
+- A rumor ties 13 chapter 13 the wormwrithings to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 13 chapter 13 the wormwrithings to avert a public scandal.
+- A map overlay reveals a hidden approach to 13 chapter 13 the wormwrithings active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -21,3 +21,23 @@ A fireball fungus has AC 10, HP 6, and [Immunity](/03_Mechanics/CLI/variant-rule
 The explosion of a fireball fungus causes other fireball fungi in the area of effect to explode as well. You can scale the hazard for higher levels by adding one additional fungus at levels 11–16 or three additional fungi at levels 17–20.
 
 *Source: Dungeon Master's Guide (2024) p. 76*
+
+## Player-Facing Summary
+
+Fireball fungus xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fireball fungus xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fireball fungus xdmg.
+
+## Adventure Hooks
+
+- A rumor ties fireball fungus xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fireball fungus xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to fireball fungus xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -20,3 +20,23 @@ Fiendish blood runs strong in you, unlocking a resilience akin to that possessed
 - Increase your Constitution score by 1, to a maximum of 20.  
 - You have resistance to cold and poison damage.  
 - You have advantage on saving throws against being [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned).
+
+## Player-Facing Summary
+
+Infernal constitution xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of infernal constitution xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around infernal constitution xge.
+
+## Adventure Hooks
+
+- A rumor ties infernal constitution xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at infernal constitution xge to avert a public scandal.
+- A map overlay reveals a hidden approach to infernal constitution xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

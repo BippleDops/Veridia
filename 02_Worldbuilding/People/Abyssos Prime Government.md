@@ -122,3 +122,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Abyssos Prime Government is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Abyssos Prime Government as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime Government.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Abyssos Prime Government]]
+
+<!-- enriched: true -->

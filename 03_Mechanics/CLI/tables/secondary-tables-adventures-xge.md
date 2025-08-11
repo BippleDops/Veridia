@@ -30,3 +30,23 @@ modified: 2025-07-23 12:39
 | 91-99 | You found a considerable amount of treasure on your adventure. You have `+50` gp left from your share of it. |
 | 100 | You came across a common magic item (of the DM's choice). |
 ^adventures
+
+## Player-Facing Summary
+
+Secondary tables adventures xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of secondary tables adventures xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables adventures xge.
+
+## Adventure Hooks
+
+- A rumor ties secondary tables adventures xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at secondary tables adventures xge to avert a public scandal.
+- A map overlay reveals a hidden approach to secondary tables adventures xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

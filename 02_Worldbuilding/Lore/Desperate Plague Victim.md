@@ -327,3 +327,23 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 ## Connections
 
 - [[Aethermoor - Session 01 Blood in the Harbor]]
+
+## Player-Facing Summary
+
+Desperate Plague Victim is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Desperate Plague Victim as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Desperate Plague Victim.
+
+## Adventure Hooks
+
+- A rumor ties Desperate Plague Victim to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Desperate Plague Victim to avert a public scandal.
+- A map overlay reveals a hidden approach to Desperate Plague Victim active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

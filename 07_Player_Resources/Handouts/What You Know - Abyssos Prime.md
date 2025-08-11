@@ -335,3 +335,23 @@ status: draft
 *Remember: You're visitors in a complex society recovering from catastrophe. Show respect, stay observant, and trust carefully. The depths hold more than water.*
 
 **"In Abyssos Prime, every bubble carries meaning, every shadow has weight, and every memory has a price."**
+
+## Player-Facing Summary
+
+What You Know   Abyssos Prime is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of What You Know   Abyssos Prime as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around What You Know   Abyssos Prime.
+
+## Adventure Hooks
+
+- A rumor ties What You Know   Abyssos Prime to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at What You Know   Abyssos Prime to avert a public scandal.
+- A map overlay reveals a hidden approach to What You Know   Abyssos Prime active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

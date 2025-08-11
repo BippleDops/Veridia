@@ -179,3 +179,23 @@ For adventurers, though, magic is key to their survival. Without the healing mag
 Magic is also a favored tool of villains. Many adventures are driven by the machinations of spellcasters who are hellbent on using magic for some ill end. A cult leader seeks to awaken a god who slumbers beneath the sea, a hag kidnaps youths to magically drain them of their vigor, a mad wizard labors to invest an army of automatons with a facsimile of life, a dragon begins a mystical ritual to rise up as a god of destruction—these are just a few of the magical threats that adventurers might face. With magic of their own, in the form of spells and magic items, the adventurers might prevail!
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/dice_2.webp#center)
+
+## Player-Facing Summary
+
+01 introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 01 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 introduction.
+
+## Adventure Hooks
+
+- A rumor ties 01 introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 01 introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to 01 introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

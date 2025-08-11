@@ -650,3 +650,27 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 ## Connections
 
 - [[Comprehensive-World-Connection-Guide]]
+
+## Player-Facing Summary
+
+Abyssos Prime Docks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Abyssos Prime Docks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime Docks.
+
+## Adventure Hooks
+
+- A rumor ties Abyssos Prime Docks to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Abyssos Prime Docks to avert a public scandal.
+- A map overlay reveals a hidden approach to Abyssos Prime Docks active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Abyssos Prime Docks]]
+
+<!-- enriched: true -->

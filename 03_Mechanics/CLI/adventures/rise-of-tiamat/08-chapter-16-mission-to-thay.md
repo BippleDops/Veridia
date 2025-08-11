@@ -109,3 +109,23 @@ If the tally is half the number of non-elven characters in the party or fewer, N
 If the mission to Thay was a success, it benefits the factions during chapter 17. Additionally, hidden in a backpack or pocket, each character finds a human finger bone tied to a loop of dried gut. Each bone acts as a [scroll of protection (undead)](/03_Mechanics/CLI/items/scroll-of-protection-xdmg.md) that is activated and spent by snapping it in half.
 
 If you choose, the characters gain a level at the end of this chapter.
+
+## Player-Facing Summary
+
+08 chapter 16 mission to thay is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 08 chapter 16 mission to thay as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 chapter 16 mission to thay.
+
+## Adventure Hooks
+
+- A rumor ties 08 chapter 16 mission to thay to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 08 chapter 16 mission to thay to avert a public scandal.
+- A map overlay reveals a hidden approach to 08 chapter 16 mission to thay active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

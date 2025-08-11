@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 91–99 | Both potions work, but the numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
 | 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [Potion of Healing](/03_Mechanics/CLI/items/potion-of-healing-xdmg.md) might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [Potion of Invisibility](/03_Mechanics/CLI/items/potion-of-invisibility-xdmg.md) might give the drinker the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition indefinitely. At your discretion, a [Dispel Magic](/03_Mechanics/CLI/spells/dispel-magic-xphb.md) spell or similar magic might end this lasting effect. |
 ^potion-miscibility
+
+## Player-Facing Summary
+
+Mixing potions potion miscibility xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mixing potions potion miscibility xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mixing potions potion miscibility xdmg.
+
+## Adventure Hooks
+
+- A rumor ties mixing potions potion miscibility xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mixing potions potion miscibility xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to mixing potions potion miscibility xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

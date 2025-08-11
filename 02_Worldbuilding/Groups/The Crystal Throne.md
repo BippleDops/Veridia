@@ -236,3 +236,19 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 - [[Crystalline Depths]]
 - [[Smuggler's Gambit]]
 - [[Smuggler]]
+
+## Player-Facing Summary
+
+The Crystal Throne is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crystal Throne as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Throne.
+
+## Adventure Hooks
+
+- A rumor ties The Crystal Throne to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Crystal Throne to avert a public scandal.
+- A map overlay reveals a hidden approach to The Crystal Throne active only during specific tides/storms.
+
+<!-- enriched: true -->

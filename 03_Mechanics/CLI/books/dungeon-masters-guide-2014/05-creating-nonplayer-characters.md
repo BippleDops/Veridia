@@ -248,3 +248,23 @@ An Oathbreaker is a paladin who breaks his or her sacred oaths to pursue some da
 A paladin must be evil and at least 3rd level to become an Oathbreaker. The paladin replaces the features specific to his or her Sacred Oath with Oathbreaker features.
 
 See the Oathbreaker classes page entry for more information.
+
+## Player-Facing Summary
+
+05 creating nonplayer characters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 05 creating nonplayer characters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 creating nonplayer characters.
+
+## Adventure Hooks
+
+- A rumor ties 05 creating nonplayer characters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 05 creating nonplayer characters to avert a public scandal.
+- A map overlay reveals a hidden approach to 05 creating nonplayer characters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

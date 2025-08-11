@@ -283,3 +283,27 @@ The Deserter's journey from military officer to humanitarian operator provides e
 Their ongoing work demonstrates how individuals can create positive change even when working outside conventional systems and structures.
 
 Interactions with The Deserter can help players explore themes of personal responsibility, moral courage, and the relationship between individual action and systemic change.
+
+## Player-Facing Summary
+
+The Deserter is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Deserter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deserter.
+
+## Adventure Hooks
+
+- A rumor ties The Deserter to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Deserter to avert a public scandal.
+- A map overlay reveals a hidden approach to The Deserter active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Deserter]]
+
+<!-- enriched: true -->

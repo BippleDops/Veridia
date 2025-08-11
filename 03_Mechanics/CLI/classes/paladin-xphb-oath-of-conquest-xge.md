@@ -124,3 +124,23 @@ At 20th level, you gain the ability to harness extraordinary martial prowess. As
 - Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the `d20`.  
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Player-Facing Summary
+
+Paladin xphb oath of conquest xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of paladin xphb oath of conquest xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paladin xphb oath of conquest xge.
+
+## Adventure Hooks
+
+- A rumor ties paladin xphb oath of conquest xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at paladin xphb oath of conquest xge to avert a public scandal.
+- A map overlay reveals a hidden approach to paladin xphb oath of conquest xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

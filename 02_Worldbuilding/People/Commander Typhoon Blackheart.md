@@ -226,3 +226,18 @@ Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite mil
 - Her dilemmas create interesting choices about military role in democracy
 - Key figure in determining how Aquabyssos defends itself against cosmic threats
 - Can provide exposition on military capabilities and threat assessments
+
+## Player-Facing Summary
+
+Commander Typhoon Blackheart is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Commander Typhoon Blackheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Commander Typhoon Blackheart.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Commander Typhoon Blackheart]]
+- [[02_Worldbuilding/Places/Commander Typhoon Blackheart]]
+
+<!-- enriched: true -->

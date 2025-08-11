@@ -161,3 +161,17 @@ Adjust pearl effects and availability based on campaign tone - more therapeutic 
 - [[Aquabyssos - Session 07 - The Resonance Revelation]]
 - [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
 - [[Aquabyssos - Session 09 - The Mourning Strategy]]
+
+## Player-Facing Summary
+
+Sorrow Pearls is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sorrow Pearls as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sorrow Pearls.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

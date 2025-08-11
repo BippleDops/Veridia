@@ -376,3 +376,13 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ## Connections
 
 - [[Aethermoor - Session 01 Blood in the Harbor]]
+
+## Player-Facing Summary
+
+Purist Coalition Thugs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Purist Coalition Thugs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Purist Coalition Thugs.
+
+<!-- enriched: true -->

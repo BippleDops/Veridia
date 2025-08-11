@@ -223,3 +223,23 @@ Octavius's master plan involves seven parallel diplomatic/political campaigns:
 - [[02_Worldbuilding/Quests/Quest - The Crown Reborn]] - Central to reunification plot
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Protecting the conference
 - [[02_Worldbuilding/Quests/Unite or Divide]] - The central choice of his campaign
+
+## Player-Facing Summary
+
+Unite the Emperor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Unite the Emperor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Unite the Emperor.
+
+## Adventure Hooks
+
+- A rumor ties Unite the Emperor to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Unite the Emperor to avert a public scandal.
+- A map overlay reveals a hidden approach to Unite the Emperor active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Unite the Emperor]]
+
+<!-- enriched: true -->

@@ -247,3 +247,23 @@ Trust carefully. Question everything. Watch your shadow.
 Your journey begins aboard the *Diplomatic Seal*, approaching the First Transition Pool located 50 miles off the original coast. As you prepare to descend, you notice your shadows seem eager, reaching toward the water before you do...
 
 **Session 1 begins with your arrival at the Harbor of Forgotten Ships.**
+
+## Player-Facing Summary
+
+Parliament of Shadows Player Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Parliament of Shadows Player Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament of Shadows Player Guide.
+
+## Adventure Hooks
+
+- A rumor ties Parliament of Shadows Player Guide to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Parliament of Shadows Player Guide to avert a public scandal.
+- A map overlay reveals a hidden approach to Parliament of Shadows Player Guide active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

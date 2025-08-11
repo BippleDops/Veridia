@@ -1038,3 +1038,17 @@ One of the Deep Mother's spawn approaches the party directly with an offer to he
 - [[Goldspire Confederacy]]
 - [[Smuggler's Gambit]]
 - [[Traveling Merchant Finn]]
+
+## Player-Facing Summary
+
+Caravan Master Dolrim is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Caravan Master Dolrim as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Caravan Master Dolrim.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

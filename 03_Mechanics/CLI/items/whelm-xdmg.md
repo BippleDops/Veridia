@@ -61,3 +61,23 @@ Whelm has ties to the dwarf clan that created it, called the Dankil or the Might
 Whelm can be dissolved in the acidic bile of a recently slain [ancient black dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md). It can also be melted down in the forges of the Mightyhammer dwarf clan, but only by the rightful leader of that clan.
 
 *Source: Dungeon Master's Guide (2024) p. 324*
+
+## Player-Facing Summary
+
+Whelm xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of whelm xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around whelm xdmg.
+
+## Adventure Hooks
+
+- A rumor ties whelm xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at whelm xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to whelm xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 18-19 | Storage for tools and other equipment |
 | 20 | Strong room or vault used to store ore for transport to the surface |
 ^dungeon-mine
+
+## Player-Facing Summary
+
+Chamber purpose dungeon mine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of chamber purpose dungeon mine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon mine.
+
+## Adventure Hooks
+
+- A rumor ties chamber purpose dungeon mine to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at chamber purpose dungeon mine to avert a public scandal.
+- A map overlay reveals a hidden approach to chamber purpose dungeon mine active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

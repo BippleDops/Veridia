@@ -24,3 +24,23 @@ modified: 2025-07-23 12:39
 | Mithral | 21 |
 | Adamantine | 23 |
 ^object-armor-class
+
+## Player-Facing Summary
+
+Object armor class is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of object armor class as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around object armor class.
+
+## Adventure Hooks
+
+- A rumor ties object armor class to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at object armor class to avert a public scandal.
+- A map overlay reveals a hidden approach to object armor class active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -31,3 +31,23 @@ The legends about Garl Glittergold inspire gnomes to work together. Garl knows t
 ## Brains over Brawn
 
 Garl favors trickery and illusion over direct combat, preferring to use his mind to overcome a problem rather than his steel. For gnomes to thrive, they must use their intellect and ingenuity. But when push comes to shove, Garl uses Arumdina, his intelligent two-headed battle axe-capable of cleaving through any substance-to escape a perilous situation.
+
+## Player-Facing Summary
+
+Gnome garl glittergold mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gnome garl glittergold mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome garl glittergold mtf.
+
+## Adventure Hooks
+
+- A rumor ties gnome garl glittergold mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gnome garl glittergold mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to gnome garl glittergold mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

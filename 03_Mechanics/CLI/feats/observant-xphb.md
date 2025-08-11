@@ -22,3 +22,23 @@ You gain the following benefits.
 **Keen Observer.** Choose one of the following skills: [Insight](/03_Mechanics/CLI/skills.md#Insight), [Investigation](/03_Mechanics/CLI/skills.md#Investigation), or [Perception](/03_Mechanics/CLI/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.
 
 **Quick Search.** You can take the [Search](/03_Mechanics/CLI/actions.md#Search) action as a Bonus Action.
+
+## Player-Facing Summary
+
+Observant xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of observant xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around observant xphb.
+
+## Adventure Hooks
+
+- A rumor ties observant xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at observant xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to observant xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

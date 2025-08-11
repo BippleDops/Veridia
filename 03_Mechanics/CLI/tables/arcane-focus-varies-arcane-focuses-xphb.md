@@ -22,3 +22,23 @@ modified: 2025-07-23 12:39
 | [Staff](/03_Mechanics/CLI/items/staff-xphb.md) (also a [Quarterstaff](/03_Mechanics/CLI/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
 | [Wand](/03_Mechanics/CLI/items/wand-xphb.md) | 1 lb. | 10 GP |
 ^arcane-focuses
+
+## Player-Facing Summary
+
+Arcane focus varies arcane focuses xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of arcane focus varies arcane focuses xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcane focus varies arcane focuses xphb.
+
+## Adventure Hooks
+
+- A rumor ties arcane focus varies arcane focuses xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at arcane focus varies arcane focuses xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to arcane focus varies arcane focuses xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

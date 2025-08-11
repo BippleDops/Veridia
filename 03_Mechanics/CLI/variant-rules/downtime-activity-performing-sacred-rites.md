@@ -17,3 +17,23 @@ A pious character can spend time between adventures performing sacred rites in a
 A character who is a priest in the temple can lead these rites, which might include weddings, funerals, and ordinations. A layperson can offer sacrifices in a temple or assist a priest with a rite.
 
 A character who spends at least 10 days performing sacred rites gains "inspiration" (described in chapter 4 of the "Player's Handbook") at the start of each day for the next `2d6` days.
+
+## Player-Facing Summary
+
+Downtime activity performing sacred rites is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity performing sacred rites as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity performing sacred rites.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity performing sacred rites to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity performing sacred rites to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity performing sacred rites active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

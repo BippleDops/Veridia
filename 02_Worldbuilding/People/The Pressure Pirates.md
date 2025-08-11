@@ -141,3 +141,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+The Pressure Pirates is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Pressure Pirates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Pirates.
+
+## Adventure Hooks
+
+- A rumor ties The Pressure Pirates to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Pressure Pirates to avert a public scandal.
+- A map overlay reveals a hidden approach to The Pressure Pirates active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Pressure Pirates]]
+
+<!-- enriched: true -->

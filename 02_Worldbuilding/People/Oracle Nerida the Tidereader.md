@@ -351,3 +351,17 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 - [[The Memory Storm Fields]]
 - [[The Tidepool Markets]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Oracle Nerida the Tidereader is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Oracle Nerida the Tidereader as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Oracle Nerida the Tidereader.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Oracle Nerida the Tidereader]]
+
+<!-- enriched: true -->

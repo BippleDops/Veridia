@@ -31,3 +31,23 @@ Procedures to build faction fleets and AI opponent behavior. Interfaces with [[C
 1 Pick Doctrine → 2 Assign Fleet Points → 3 Choose Admirals → 4 Place Bases → 5 Define Objectives
 
 Use with: [[Transportation_Infrastructure]], [[Journey_Event_Compiler]].
+
+## Player-Facing Summary
+
+Fleet Dynamics Generator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Fleet Dynamics Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Fleet Dynamics Generator.
+
+## Adventure Hooks
+
+- A rumor ties Fleet Dynamics Generator to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Fleet Dynamics Generator to avert a public scandal.
+- A map overlay reveals a hidden approach to Fleet Dynamics Generator active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -31,3 +31,23 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ### Rampage
 
 When you reduce a creature to 0 hit points with a melee attack on your turn, you can take a bonus action to move up to half your speed and make a bite attack.
+
+## Player-Facing Summary
+
+Gnoll dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gnoll dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll dmg.
+
+## Adventure Hooks
+
+- A rumor ties gnoll dmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gnoll dmg to avert a public scandal.
+- A map overlay reveals a hidden approach to gnoll dmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

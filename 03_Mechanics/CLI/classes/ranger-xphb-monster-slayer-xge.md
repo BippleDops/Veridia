@@ -95,3 +95,23 @@ Once you use this feature, you can't use it again until you finish a short or lo
 ### Slayer's Counter (Level 15)
 
 At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer's Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack's normal effects.
+
+## Player-Facing Summary
+
+Ranger xphb monster slayer xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ranger xphb monster slayer xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb monster slayer xge.
+
+## Adventure Hooks
+
+- A rumor ties ranger xphb monster slayer xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ranger xphb monster slayer xge to avert a public scandal.
+- A map overlay reveals a hidden approach to ranger xphb monster slayer xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

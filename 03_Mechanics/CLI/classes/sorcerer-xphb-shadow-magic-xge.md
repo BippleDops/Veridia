@@ -103,3 +103,23 @@ At 14th level, you gain the ability to step from one shadow into another. When y
 Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
 
 You remain in this form for 1 minute. It ends early if you are [incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated), if you die, or if you dismiss it as a bonus action.
+
+## Player-Facing Summary
+
+Sorcerer xphb shadow magic xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerer xphb shadow magic xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb shadow magic xge.
+
+## Adventure Hooks
+
+- A rumor ties sorcerer xphb shadow magic xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerer xphb shadow magic xge to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerer xphb shadow magic xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

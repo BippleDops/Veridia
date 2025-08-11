@@ -15,3 +15,23 @@ Apply Zone Modifiers from [[Vehicle_Core_Rules]]. Many events trigger saves from
 
 ## Sky (d20)
 1 Shear front • 2 Downburst • 3 Jet stream kink • 4 Hail veil • 5 Static lattice • 6 Sun spear • 7 Aurora spill • 8 Mirage tunnel • 9 Thunder ladder • 10 Anvil top • 11 Ice needles • 12 Cloud canyon • 13 Gravity ripple • 14 Dust river • 15 Gale choir • 16 Fog brain • 17 Starfall • 18 Blue hole • 19 Air mines • 20 Void moan
+
+## Player-Facing Summary
+
+Pressure Weather Events is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pressure Weather Events as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Weather Events.
+
+## Adventure Hooks
+
+- A rumor ties Pressure Weather Events to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pressure Weather Events to avert a public scandal.
+- A map overlay reveals a hidden approach to Pressure Weather Events active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

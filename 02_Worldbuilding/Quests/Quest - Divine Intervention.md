@@ -495,3 +495,19 @@ This quest challenges players to grapple with the biggest possible questions—t
 - [[Quest - The Seventh Shard]]
 - [[The Crown's Burden]]
 - [[The Sunken Library of Thalassius]]
+
+## Player-Facing Summary
+
+Quest   Divine Intervention is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   Divine Intervention as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   Divine Intervention.
+
+## Adventure Hooks
+
+- A rumor ties Quest   Divine Intervention to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   Divine Intervention to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   Divine Intervention active only during specific tides/storms.
+
+<!-- enriched: true -->

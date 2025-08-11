@@ -57,3 +57,23 @@ The Book of Exalted Deeds has the following random properties:
 The Book of Exalted Deeds can't be destroyed. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `d100` years.
 
 *Source: Dungeon Master's Guide (2024) p. 237*
+
+## Player-Facing Summary
+
+Book of exalted deeds xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of book of exalted deeds xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around book of exalted deeds xdmg.
+
+## Adventure Hooks
+
+- A rumor ties book of exalted deeds xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at book of exalted deeds xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to book of exalted deeds xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

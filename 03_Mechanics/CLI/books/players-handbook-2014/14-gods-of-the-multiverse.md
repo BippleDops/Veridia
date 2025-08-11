@@ -100,3 +100,23 @@ Where the land plummets from the snowy hills into the icy fjords below, where th
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym). Like the gods of Greyhawk, gods in different families sometimes have overlap in their spheres of influence: Frey (of the Vanir) and Odur (of the Aesir) are both associated with the sun, for example.
 
 ![The Norse Pantheon; Norse Deities](/03_Mechanics/CLI/tables/the-norse-pantheon-norse-deities-phb.md)
+
+## Player-Facing Summary
+
+14 gods of the multiverse is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 14 gods of the multiverse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 gods of the multiverse.
+
+## Adventure Hooks
+
+- A rumor ties 14 gods of the multiverse to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 14 gods of the multiverse to avert a public scandal.
+- A map overlay reveals a hidden approach to 14 gods of the multiverse active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -52,3 +52,23 @@ If a creature goes mad in Graz'zt's lair or within line of sight of the demon lo
 | 81–90 | "My own pleasure is of paramount importance. Everything else, including social graces, is a triviality." |
 | 91–00 | "Anything that can bring me happiness should be enjoyed immediately. There is no point to saving anything pleasurable for later." |
 ^madness-of-grazzt
+
+## Player-Facing Summary
+
+Grazzt mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of grazzt mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around grazzt mtf.
+
+## Adventure Hooks
+
+- A rumor ties grazzt mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at grazzt mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to grazzt mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

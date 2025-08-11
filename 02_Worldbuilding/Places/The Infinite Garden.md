@@ -179,3 +179,23 @@ Some theorize the entire garden is just one scale of an even larger recursion—
 
 *"I've spent three lifetimes mapping the garden, only to discover I've never left the shadow of the first tree. The infinite is not just vast—it's intimate, existing in every scale simultaneously."*
 — Explorer's log, recursion level unknown
+
+## Player-Facing Summary
+
+The Infinite Garden is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Infinite Garden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Infinite Garden.
+
+## Adventure Hooks
+
+- A rumor ties The Infinite Garden to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Infinite Garden to avert a public scandal.
+- A map overlay reveals a hidden approach to The Infinite Garden active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Infinite Garden]]
+
+<!-- enriched: true -->

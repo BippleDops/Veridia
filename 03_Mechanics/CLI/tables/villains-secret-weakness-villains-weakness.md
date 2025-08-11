@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | The villain falls when an ancient enemy forgives its past actions. |
 | 8 | The villain loses its power if a mystic bargain it struck long ago is completed. |
 ^villains-weakness
+
+## Player-Facing Summary
+
+Villains secret weakness villains weakness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of villains secret weakness villains weakness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around villains secret weakness villains weakness.
+
+## Adventure Hooks
+
+- A rumor ties villains secret weakness villains weakness to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at villains secret weakness villains weakness to avert a public scandal.
+- A map overlay reveals a hidden approach to villains secret weakness villains weakness active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

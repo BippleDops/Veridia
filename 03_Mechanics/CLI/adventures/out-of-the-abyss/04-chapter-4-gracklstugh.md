@@ -1487,3 +1487,23 @@ The Deepking's royal consort is a [succubus](/03_Mechanics/CLI/bestiary/fiend/su
 #### Development
 
 If the characters expose the succubus as a fiendish spy and help restore Horgar's sanity, the Deepking becomes friendly toward them and tries to set them against the drow, whom he blames for the spreading madness.
+
+## Player-Facing Summary
+
+04 chapter 4 gracklstugh is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 04 chapter 4 gracklstugh as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 4 gracklstugh.
+
+## Adventure Hooks
+
+- A rumor ties 04 chapter 4 gracklstugh to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 04 chapter 4 gracklstugh to avert a public scandal.
+- A map overlay reveals a hidden approach to 04 chapter 4 gracklstugh active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

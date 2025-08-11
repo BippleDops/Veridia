@@ -23,3 +23,23 @@ Using a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to read the scroll cr
 As a [Magic](/03_Mechanics/CLI/actions.md#Magic) action, a creature within 5 feet of the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md).
 
 *Source: Dungeon Master's Guide (2024) p. 302*
+
+## Player-Facing Summary
+
+Scroll of protection constructs xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scroll of protection constructs xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scroll of protection constructs xdmg.
+
+## Adventure Hooks
+
+- A rumor ties scroll of protection constructs xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scroll of protection constructs xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to scroll of protection constructs xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

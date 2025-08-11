@@ -222,3 +222,23 @@ If the characters aren't sure where to take the children, a [wereraven](/03_Mech
 The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A [calm emotions](/03_Mechanics/CLI/spells/calm-emotions-xphb.md) spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a DC 15 Charisma ([Intimidation](/03_Mechanics/CLI/skills.md#Intimidation), [Persuasion](/03_Mechanics/CLI/skills.md#Persuasion), or [Deception](/03_Mechanics/CLI/skills.md#Deception)) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.
 
 If the characters take the children to Krezk, the villagers there look after the children and see that they are fed and properly clothed. If the characters take them to Vallaki instead, the Martikovs allow the children to stay at the Blue Water Inn until the characters return to collect them.
+
+## Player-Facing Summary
+
+17 chapter 15 werewolf den is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 17 chapter 15 werewolf den as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 17 chapter 15 werewolf den.
+
+## Adventure Hooks
+
+- A rumor ties 17 chapter 15 werewolf den to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 17 chapter 15 werewolf den to avert a public scandal.
+- A map overlay reveals a hidden approach to 17 chapter 15 werewolf den active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

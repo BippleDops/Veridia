@@ -366,3 +366,28 @@ Regardless of the specific resolution, the adventure should leave lasting impact
 ## Connections
 
 - [[Vex Shadowthorn]]
+
+## Player-Facing Summary
+
+Quest   The Blackmail Papers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Blackmail Papers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Blackmail Papers.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Blackmail Papers to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Blackmail Papers to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Blackmail Papers active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Quest - The Blackmail Papers]]
+- [[02_Worldbuilding/Places/Quest - The Blackmail Papers]]
+
+<!-- enriched: true -->

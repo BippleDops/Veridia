@@ -83,3 +83,23 @@ When you make your character, you can roll once on the Trinkets table to gain a 
 ^curse-of-strahd-character-options-gothic-trinket-table
 
 *Source: Curse of Strahd p. 2*
+
+## Player-Facing Summary
+
+Trinket cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of trinket cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around trinket cos.
+
+## Adventure Hooks
+
+- A rumor ties trinket cos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at trinket cos to avert a public scandal.
+- A map overlay reveals a hidden approach to trinket cos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

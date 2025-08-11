@@ -36,3 +36,23 @@ modified: 2025-07-23 12:39
 | 21 | [Ancient Copper Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md) |
 | 24 | [Ancient Red Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md) |
 ^hill-monsters
+
+## Player-Facing Summary
+
+Monsters by habitat hill monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monsters by habitat hill monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat hill monsters xmm.
+
+## Adventure Hooks
+
+- A rumor ties monsters by habitat hill monsters xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monsters by habitat hill monsters xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to monsters by habitat hill monsters xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

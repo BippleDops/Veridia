@@ -152,3 +152,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Inquisitor Mordecai Truthseeker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Inquisitor Mordecai Truthseeker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Inquisitor Mordecai Truthseeker.
+
+## Adventure Hooks
+
+- A rumor ties Inquisitor Mordecai Truthseeker to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Inquisitor Mordecai Truthseeker to avert a public scandal.
+- A map overlay reveals a hidden approach to Inquisitor Mordecai Truthseeker active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Inquisitor Mordecai Truthseeker]]
+
+<!-- enriched: true -->

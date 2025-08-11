@@ -96,3 +96,23 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 ## Environment
 
 forest
+
+## Player-Facing Summary
+
+Treant xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of treant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around treant xmm.
+
+## Adventure Hooks
+
+- A rumor ties treant xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at treant xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to treant xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

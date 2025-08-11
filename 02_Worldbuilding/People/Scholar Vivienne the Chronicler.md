@@ -295,3 +295,23 @@ Vivienne can take 2 legendary actions, choosing from the options below. Only one
 - [[Quest - The Shard-Shadow Resonance]]
 - [[The Sunken Library of Thalassius]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Scholar Vivienne the Chronicler is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Scholar Vivienne the Chronicler as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scholar Vivienne the Chronicler.
+
+## Adventure Hooks
+
+- A rumor ties Scholar Vivienne the Chronicler to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Scholar Vivienne the Chronicler to avert a public scandal.
+- A map overlay reveals a hidden approach to Scholar Vivienne the Chronicler active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]
+
+<!-- enriched: true -->

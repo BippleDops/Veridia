@@ -14,3 +14,23 @@ updated: '2025-08-11T13:08:47.377947+00:00'
 ## Overview
 
 TODO
+
+## Player-Facing Summary
+
+Diamond Dust Dealer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Diamond Dust Dealer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diamond Dust Dealer.
+
+## Adventure Hooks
+
+- A rumor ties Diamond Dust Dealer to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Diamond Dust Dealer to avert a public scandal.
+- A map overlay reveals a hidden approach to Diamond Dust Dealer active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

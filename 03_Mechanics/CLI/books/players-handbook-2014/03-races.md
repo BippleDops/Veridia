@@ -97,3 +97,23 @@ Some races have subraces. Members of a subrace have the traits of the parent rac
 - [Halfling](/03_Mechanics/CLI/races/halfling-xphb.md)  
 - [Human](/03_Mechanics/CLI/races/human-xphb.md)  
 - [Tiefling](/03_Mechanics/CLI/races/tiefling-xphb.md)
+
+## Player-Facing Summary
+
+03 races is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 races as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 races.
+
+## Adventure Hooks
+
+- A rumor ties 03 races to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 races to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 races active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

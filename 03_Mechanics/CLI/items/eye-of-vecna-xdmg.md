@@ -60,3 +60,23 @@ While you are attuned to the eye, your alignment is Neutral Evil, and you gain t
 If the Eye of Vecna and the [Hand of Vecna](/03_Mechanics/CLI/items/hand-of-vecna-xdmg.md) are both attached to the same creature and that creature is slain by the [Sword of Kas](/03_Mechanics/CLI/items/sword-of-kas-xdmg.md), both the eye and the hand burst into flame, turn to ash, and are destroyed. Any other attempt to destroy the eye or hand seems to work, but the Artifact reappears in one of Vecna's many hidden vaults, where it waits to be rediscovered.
 
 *Source: Dungeon Master's Guide (2024) p. 259*
+
+## Player-Facing Summary
+
+Eye of vecna xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of eye of vecna xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eye of vecna xdmg.
+
+## Adventure Hooks
+
+- A rumor ties eye of vecna xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at eye of vecna xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to eye of vecna xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

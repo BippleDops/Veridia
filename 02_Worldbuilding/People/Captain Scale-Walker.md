@@ -227,3 +227,27 @@ A research expedition funded by [[02_Worldbuilding/People/Castellan Ironledger I
 - [[Quest - The Deep Alliance]] - Political negotiations
 - [[Quest - The Deepest Current]] - Personal obsession
 - [[Quest - Refugees of the Deep]] - Humanitarian missions
+
+## Player-Facing Summary
+
+Captain Scale Walker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Captain Scale Walker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Scale Walker.
+
+## Adventure Hooks
+
+- A rumor ties Captain Scale Walker to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Captain Scale Walker to avert a public scandal.
+- A map overlay reveals a hidden approach to Captain Scale Walker active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Captain Scale-Walker]]
+
+<!-- enriched: true -->

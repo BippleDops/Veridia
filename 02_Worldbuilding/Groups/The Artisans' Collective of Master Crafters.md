@@ -39,3 +39,23 @@ The Artisans' Collective represents the finest craftspeople across all trades, f
 ## Connections
 
 - [[The Forsaken Consortium Collective]]
+
+## Player-Facing Summary
+
+The Artisans' Collective of Master Crafters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Artisans' Collective of Master Crafters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Artisans' Collective of Master Crafters.
+
+## Adventure Hooks
+
+- A rumor ties The Artisans' Collective of Master Crafters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Artisans' Collective of Master Crafters to avert a public scandal.
+- A map overlay reveals a hidden approach to The Artisans' Collective of Master Crafters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

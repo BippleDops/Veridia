@@ -24,3 +24,23 @@ You gain the following benefits.
 **Hop Up.** When you have the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
 
 **Jumping.** You can make a running Long or High Jump after moving only 5 feet.
+
+## Player-Facing Summary
+
+Athlete xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of athlete xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around athlete xphb.
+
+## Adventure Hooks
+
+- A rumor ties athlete xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at athlete xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to athlete xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

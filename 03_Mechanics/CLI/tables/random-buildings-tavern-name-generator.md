@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 | 19 | The Black | Spider |
 | 20 | The Gleaming | Star |
 ^tavern-name-generator
+
+## Player-Facing Summary
+
+Random buildings tavern name generator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of random buildings tavern name generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random buildings tavern name generator.
+
+## Adventure Hooks
+
+- A rumor ties random buildings tavern name generator to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at random buildings tavern name generator to avert a public scandal.
+- A map overlay reveals a hidden approach to random buildings tavern name generator active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

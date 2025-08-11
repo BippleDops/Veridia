@@ -662,3 +662,27 @@ The fortress employs various coral creatures as security:
 
 *"The beauty of living coral hides the poison of criminal ambition. In the depths where law cannot reach, power flows to those bold enough to claim it."*  
 — Anonymous intelligence report on syndicate activities
+
+## Player-Facing Summary
+
+Coral Throne Syndicate HQ is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Coral Throne Syndicate HQ as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Coral Throne Syndicate HQ.
+
+## Adventure Hooks
+
+- A rumor ties Coral Throne Syndicate HQ to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Coral Throne Syndicate HQ to avert a public scandal.
+- A map overlay reveals a hidden approach to Coral Throne Syndicate HQ active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Coral Throne Syndicate HQ]]
+
+<!-- enriched: true -->

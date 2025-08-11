@@ -16,3 +16,23 @@ modified: 2025-07-23 12:39
 **Prerequisite**: Level 2 Warlock
 
 You can cast [Disguise Self](/03_Mechanics/CLI/spells/disguise-self-xphb.md) without expending a spell slot.
+
+## Player-Facing Summary
+
+Mask of many faces xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of mask of many faces xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mask of many faces xphb.
+
+## Adventure Hooks
+
+- A rumor ties mask of many faces xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at mask of many faces xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to mask of many faces xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

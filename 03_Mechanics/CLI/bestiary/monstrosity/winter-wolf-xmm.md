@@ -87,3 +87,23 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
 ## Environment
 
 arctic
+
+## Player-Facing Summary
+
+Winter wolf xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of winter wolf xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around winter wolf xmm.
+
+## Adventure Hooks
+
+- A rumor ties winter wolf xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at winter wolf xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to winter wolf xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

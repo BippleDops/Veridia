@@ -79,3 +79,23 @@ During your turn, your reach is 10 feet greater with any Melee weapon that has t
 When you activate your Rage and as a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md) while your Rage is active, you can teleport up to 60 feet to an unoccupied space you can see.
 
 In addition, once per Rage, you can increase the range of that teleport to 150 feet. When you do so, you can also bring up to six willing creatures who are within 10 feet of you. Each creature teleports to an unoccupied space of your choice within 10 feet of your destination space.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the world tree xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the world tree xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the world tree xphb.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the world tree xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the world tree xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the world tree xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

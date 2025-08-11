@@ -82,3 +82,23 @@ You can increase the sphere's damage by spending ki points. Each point you spend
 At 17th level, you become wreathed in a luminous, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.
 
 If a creature hits you with a melee attack while this light shines, you can use your reaction to deal radiant damage to the creature. The radiant damage equals 5 + your Wisdom modifier.
+
+## Player-Facing Summary
+
+Monk xphb way of the sun soul xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monk xphb way of the sun soul xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb way of the sun soul xge.
+
+## Adventure Hooks
+
+- A rumor ties monk xphb way of the sun soul xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monk xphb way of the sun soul xge to avert a public scandal.
+- A map overlay reveals a hidden approach to monk xphb way of the sun soul xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

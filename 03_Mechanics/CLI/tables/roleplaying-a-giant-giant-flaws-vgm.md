@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | I am terrified of arcane magic and can be cowed by overt displays of it. |
 | 6 | Ancient dragons fill me with dread. My knees grow weak in their presence. |
 ^giant-flaws
+
+## Player-Facing Summary
+
+Roleplaying a giant giant flaws vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of roleplaying a giant giant flaws vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a giant giant flaws vgm.
+
+## Adventure Hooks
+
+- A rumor ties roleplaying a giant giant flaws vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at roleplaying a giant giant flaws vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to roleplaying a giant giant flaws vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

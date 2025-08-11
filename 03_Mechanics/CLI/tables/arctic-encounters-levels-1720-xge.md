@@ -37,3 +37,23 @@ modified: 2025-07-23 12:39
 | 97-99 | `2d4` [abominable yetis](/03_Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md) |
 | 00 | 1 [ancient white dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) with `d3` [young white dragons](/03_Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm.md) |
 ^arctic-encounters-levels-1720
+
+## Player-Facing Summary
+
+Arctic encounters levels 1720 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of arctic encounters levels 1720 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arctic encounters levels 1720 xge.
+
+## Adventure Hooks
+
+- A rumor ties arctic encounters levels 1720 xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at arctic encounters levels 1720 xge to avert a public scandal.
+- A map overlay reveals a hidden approach to arctic encounters levels 1720 xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

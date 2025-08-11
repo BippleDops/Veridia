@@ -39,3 +39,23 @@ modified: 2025-07-23 12:39
 | 19 | Bites fingernails |
 | 20 | Twirls hair or tugs beard |
 ^npc-mannerisms
+
+## Player-Facing Summary
+
+Npc mannerisms is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of npc mannerisms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around npc mannerisms.
+
+## Adventure Hooks
+
+- A rumor ties npc mannerisms to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at npc mannerisms to avert a public scandal.
+- A map overlay reveals a hidden approach to npc mannerisms active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

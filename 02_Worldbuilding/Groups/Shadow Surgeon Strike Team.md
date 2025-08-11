@@ -442,3 +442,13 @@ The Shadow Surgeon Strike Team represents the elite military arm of the [[02_Wor
 ---
 
 *"We took an oath to do no harm. We simply redefined what constitutes harm in service to the greater good of shadow medical advancement."* - Colonel Dr. Vivisection
+
+## Player-Facing Summary
+
+Shadow Surgeon Strike Team is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Surgeon Strike Team as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Surgeon Strike Team.
+
+<!-- enriched: true -->

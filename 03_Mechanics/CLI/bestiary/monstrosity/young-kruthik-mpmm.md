@@ -90,3 +90,23 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 ## Environment
 
 desert, mountain, underdark
+
+## Player-Facing Summary
+
+Young kruthik mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of young kruthik mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young kruthik mpmm.
+
+## Adventure Hooks
+
+- A rumor ties young kruthik mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at young kruthik mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to young kruthik mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

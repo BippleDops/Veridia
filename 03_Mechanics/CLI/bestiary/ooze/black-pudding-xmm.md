@@ -111,3 +111,23 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Black pudding xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of black pudding xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black pudding xmm.
+
+## Adventure Hooks
+
+- A rumor ties black pudding xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at black pudding xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to black pudding xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

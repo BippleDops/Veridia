@@ -51,3 +51,23 @@ A creature you touch regains a number of [Hit Points](/03_Mechanics/CLI/variant-
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock (Celestial Patron)](/03_Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Cleric (Life Domain)](/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md); [Druid (Circle of the Moon)](/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Divine Soul)](/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Cleric](/03_Mechanics/CLI/lists/list-spells-classes-cleric.md); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Cure wounds xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cure wounds xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cure wounds xphb.
+
+## Adventure Hooks
+
+- A rumor ties cure wounds xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cure wounds xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to cure wounds xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

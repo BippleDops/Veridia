@@ -947,3 +947,23 @@ This system connects with:
 ---
 
 *When the walls between worlds grow thin, remember: reality is negotiable, identity is fluid, and the only constant is change. Navigate wisely, for each merger zone is both opportunity and oblivion.*
+
+## Player-Facing Summary
+
+Complete Reality Merger System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Complete Reality Merger System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Complete Reality Merger System.
+
+## Adventure Hooks
+
+- A rumor ties Complete Reality Merger System to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Complete Reality Merger System to avert a public scandal.
+- A map overlay reveals a hidden approach to Complete Reality Merger System active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

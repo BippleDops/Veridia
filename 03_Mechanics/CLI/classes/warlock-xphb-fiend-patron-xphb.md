@@ -87,3 +87,23 @@ Choose one damage type, other than Force, whenever you finish a [Short](/03_Mech
 Once per turn when you hit a creature with an attack roll, you can try to instantly transport the target through the Lower Planes. The target must succeed on a Charisma saving throw against your spell save DC, or the target disappears and hurtles through a nightmare landscape. The target takes `8d10` Psychic damage if it isn't a Fiend, and it has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition until the end of your next turn, when it returns to the space it previously occupied or the nearest unoccupied space.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+
+## Player-Facing Summary
+
+Warlock xphb fiend patron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of warlock xphb fiend patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb fiend patron xphb.
+
+## Adventure Hooks
+
+- A rumor ties warlock xphb fiend patron xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at warlock xphb fiend patron xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to warlock xphb fiend patron xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

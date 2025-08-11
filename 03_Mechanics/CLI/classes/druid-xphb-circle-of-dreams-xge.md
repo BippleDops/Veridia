@@ -86,3 +86,23 @@ When you finish a short rest, you can cast one of the following spells, without 
 This use of [teleportation circle](/03_Mechanics/CLI/spells/teleportation-circle-xphb.md) is special. Rather than opening a portal to a permanent [teleportation circle](/03_Mechanics/CLI/spells/teleportation-circle-xphb.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Player-Facing Summary
+
+Druid xphb circle of dreams xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of druid xphb circle of dreams xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around druid xphb circle of dreams xge.
+
+## Adventure Hooks
+
+- A rumor ties druid xphb circle of dreams xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at druid xphb circle of dreams xge to avert a public scandal.
+- A map overlay reveals a hidden approach to druid xphb circle of dreams xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

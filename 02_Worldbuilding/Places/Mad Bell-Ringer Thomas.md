@@ -254,3 +254,27 @@ While never formally appointed, Thomas's effectiveness has earned implicit offic
 
 *"The bells speak truth, but truth is not always what we want to hear. I ring them anyway, for the town's safety is worth more than their comfort with pleasant lies."*  
 — Mad Bell-Ringer Thomas, explaining his mission to skeptical officials
+
+## Player-Facing Summary
+
+Mad Bell Ringer Thomas is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Mad Bell Ringer Thomas as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mad Bell Ringer Thomas.
+
+## Adventure Hooks
+
+- A rumor ties Mad Bell Ringer Thomas to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Mad Bell Ringer Thomas to avert a public scandal.
+- A map overlay reveals a hidden approach to Mad Bell Ringer Thomas active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Mad Bell-Ringer Thomas]]
+
+<!-- enriched: true -->

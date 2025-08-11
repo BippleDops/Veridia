@@ -25,3 +25,23 @@ The region containing a beholder's lair is twisted by its presence, creating the
 - **Warping Terrain.** Minor warps in reality occur near the lair; any creature (excluding the beholder) within 1 mile of the lair that makes a [D20 Test](/03_Mechanics/CLI/variant-rules/d20-test-xphb.md) and rolls a 1 has the [Prone](/03_Mechanics/CLI/conditions.md#Prone) condition.  
 
 If the beholder dies or moves its lair elsewhere, these effects end immediately.
+
+## Player-Facing Summary
+
+Beholder xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of beholder xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beholder xmm.
+
+## Adventure Hooks
+
+- A rumor ties beholder xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at beholder xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to beholder xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

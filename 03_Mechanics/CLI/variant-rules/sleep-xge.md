@@ -33,3 +33,23 @@ A long rest is never mandatory, but going without sleep does have its consequenc
 Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 Constitution saving throw or suffer one level of [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion).
 
 It becomes harder to fight off [exhaustion](/03_Mechanics/CLI/conditions.md#Exhaustion) if you stay awake for multiple days. After the first 24 hours, the DC increases by 5 for each consecutive 24-hour period without a long rest. The DC resets to 10 when you finish a long rest.
+
+## Player-Facing Summary
+
+Sleep xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sleep xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sleep xge.
+
+## Adventure Hooks
+
+- A rumor ties sleep xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sleep xge to avert a public scandal.
+- A map overlay reveals a hidden approach to sleep xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

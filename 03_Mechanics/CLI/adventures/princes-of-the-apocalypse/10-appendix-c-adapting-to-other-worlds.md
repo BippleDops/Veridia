@@ -312,3 +312,23 @@ The events of *Princes of the Apocalypse* take place in a thinly settled frontie
 Alternatively, you can find a suitable place in your world where you can arrange towns analogous to Red Larch, Womford, Beliard, and Westbridge in the vicinity of a desolate wilderness like the Sumber Hills. In this adventure, these towns are as much as 70 or 80 miles apart, but there is no reason you couldn't fit them in a much smaller area. As long as the towns are at least a day's travel from each other, you have enough wilderness to make moving from town to town a serious decision point for the players.
 
 The Sumber Hills are presented as an area of dry badlands, but they don't have to be hills in your campaign. A region of uninhabited moorland, a wide marsh or swamp, or even a dark and haunted forest would serve just as well as a setting for the cult outposts and the events described in the search for the missing delegation from Mirabar. Naturally, you should select a setting where old castles are likely to be reoccupied by sinister newcomers, and a huge old subterranean complex could underlie the mysterious ruins.
+
+## Player-Facing Summary
+
+10 appendix c adapting to other worlds is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 10 appendix c adapting to other worlds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix c adapting to other worlds.
+
+## Adventure Hooks
+
+- A rumor ties 10 appendix c adapting to other worlds to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 10 appendix c adapting to other worlds to avert a public scandal.
+- A map overlay reveals a hidden approach to 10 appendix c adapting to other worlds active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

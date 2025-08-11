@@ -30,3 +30,23 @@ This carapace-like augmentation encases portions of the wearer's shoulders, neck
 A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [cloudkill](/03_Mechanics/CLI/spells/cloudkill-xphb.md) spell, a [stinking cloud](/03_Mechanics/CLI/spells/stinking-cloud-xphb.md) spell, inhaled poisons, and the breath weapons of some dragons).
 
 *Source: Volo's Guide to Monsters p. 81*
+
+## Player-Facing Summary
+
+Survival mantle vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of survival mantle vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around survival mantle vgm.
+
+## Adventure Hooks
+
+- A rumor ties survival mantle vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at survival mantle vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to survival mantle vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

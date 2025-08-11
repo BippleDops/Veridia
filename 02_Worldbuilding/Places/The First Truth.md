@@ -175,3 +175,17 @@ The First Truth serves as both a philosophical framework and a plot device. Use 
 ## Connections
 
 - [[The Primordial Vaults]]
+
+## Player-Facing Summary
+
+The First Truth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The First Truth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The First Truth.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The First Truth]]
+
+<!-- enriched: true -->

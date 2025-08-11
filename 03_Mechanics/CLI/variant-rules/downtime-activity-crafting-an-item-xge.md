@@ -84,3 +84,23 @@ Potions of healing fall into a special category for item crafting, separate from
 | Superior healing | 3 workweeks | 1,000 gp |
 | Supreme healing | 4 workweeks | 10,000 gp |
 ^potion-of-healing-creation
+
+## Player-Facing Summary
+
+Downtime activity crafting an item xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity crafting an item xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity crafting an item xge.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity crafting an item xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity crafting an item xge to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity crafting an item xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

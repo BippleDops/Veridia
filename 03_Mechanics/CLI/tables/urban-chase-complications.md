@@ -30,3 +30,23 @@ modified: 2025-07-23 12:39
 | 10 | You are forced to make a sharp turn to avoid colliding with something impassable. Make a DC 10 Dexterity saving throw to navigate the turn. On a failed save, you collide with something hard and take `d4` bludgeoning damage. |
 | 11-20 | No complication. |
 ^urban-chase-complications
+
+## Player-Facing Summary
+
+Urban chase complications is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of urban chase complications as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around urban chase complications.
+
+## Adventure Hooks
+
+- A rumor ties urban chase complications to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at urban chase complications to avert a public scandal.
+- A map overlay reveals a hidden approach to urban chase complications active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

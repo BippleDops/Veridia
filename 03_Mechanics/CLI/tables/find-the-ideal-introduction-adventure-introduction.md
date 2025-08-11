@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 | 11 | One night, the characters all dream about entering the adventure location. |
 | 12 | A ghost appears and terrorizes a village. Research reveals that it can be put to rest only by entering the adventure location. |
 ^adventure-introduction
+
+## Player-Facing Summary
+
+Find the ideal introduction adventure introduction is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of find the ideal introduction adventure introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around find the ideal introduction adventure introduction.
+
+## Adventure Hooks
+
+- A rumor ties find the ideal introduction adventure introduction to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at find the ideal introduction adventure introduction to avert a public scandal.
+- A map overlay reveals a hidden approach to find the ideal introduction adventure introduction active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -32,3 +32,23 @@ modified: 2025-07-23 12:39
 - **Production Services.** Cynda Callaway, Jefferson Dunlap, David Gershman  
 - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, John Feil, Laura Tommervik, Greg Tito, Kim Lundstrom, Trevor Kidd  
 - **Playtesters.** Robert Alaniz, Jay Anderson, Bill Benham, Stacy Bermes, Anthony Caroselli, Krupal Desai, Frank Foulis, Jason Fuller, Gregory L. Harris, Justin Hicks, Yan Lacharité, Jonathan Longstaff, Matt Maranda, Shawn Merwin, Lou Michelli, Mike Mihalas, Karl Resch, Kyle Turner, Arthur Wright, Keoki Young
+
+## Player-Facing Summary
+
+23 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 23 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 23 credits.
+
+## Adventure Hooks
+
+- A rumor ties 23 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 23 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 23 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -37,3 +37,23 @@ Regardless of the type of orb, its effect is contained within a sphere with a 1 
 - [Devastation Orb of Water](/03_Mechanics/CLI/items/devastation-orb-of-water-pota.md)
 
 *Source: Princes of the Apocalypse p. 222*
+
+## Player-Facing Summary
+
+Devastation orb pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of devastation orb pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devastation orb pota.
+
+## Adventure Hooks
+
+- A rumor ties devastation orb pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at devastation orb pota to avert a public scandal.
+- A map overlay reveals a hidden approach to devastation orb pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

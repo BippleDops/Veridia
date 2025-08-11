@@ -52,3 +52,23 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md); [Bard](/03_Mechanics/CLI/lists/list-spells-classes-bard.md)
 
 *Source: Xanathar's Guide to Everything p. 157*
+
+## Player-Facing Summary
+
+Guardian of nature xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of guardian of nature xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guardian of nature xge.
+
+## Adventure Hooks
+
+- A rumor ties guardian of nature xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at guardian of nature xge to avert a public scandal.
+- A map overlay reveals a hidden approach to guardian of nature xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

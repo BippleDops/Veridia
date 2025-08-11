@@ -34,3 +34,23 @@ This culling of the weak and the unworthy is accepted as necessary by the tribe,
 When faced with a particularly skilled foe able to withstand direct assaults, a war chief might call upon the cultists of Shargaas to assassinate an enemy leader, kidnap an influential hostage, or steal a valuable item.
 
 Gruumsh doesn't always look kindly on acts of subterfuge and indirectness, because orcs are meant to take and do what they want through straightforward assault and brutality. Nonetheless, when the chief seeks the aid of Shargaas to accomplish such a task, the leader of the cult is willing to comply-for a price. In exchange for its less than honorable services, the leader will strike a deal with the war chief to provide food, tools, slaves, or some other commodity that the cult prizes.
+
+## Player-Facing Summary
+
+Orc shargaas vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of orc shargaas vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc shargaas vgm.
+
+## Adventure Hooks
+
+- A rumor ties orc shargaas vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at orc shargaas vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to orc shargaas vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

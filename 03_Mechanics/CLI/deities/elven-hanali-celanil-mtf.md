@@ -34,3 +34,23 @@ Those who worship Hanali Celanil build shrines in her honor around natural pools
 Hanali's pool is a symbol of rejuvenation, and its water has significance as well in representing the ever-flowing force of love. To Hanali's followers, love is a living thing that flows like a river, moving around obstacles with ease, and, if it must, carving a path through bedrock to reach the sea of unity where all love gathers to become one with the cosmos. As one would navigate a river, the faithful of Hanali are known for following their hearts, unwilling to deviate from the pursuit of ultimate beauty.
 
 Devotees of Hanali Celanil are known for taking the initiative in beautifying their surroundings without asking or expecting others to follow suit. If a shrine to the gods is beginning to look somewhat untidy, her followers will straighten things up, bring fresh flowers, and refresh offerings of food, water, and wine. Especially vigilant individuals might even decide to clean up after others who carelessly spill a drink in a tavern or leave their dinner table in a slovenly condition, all in humble service to their god.
+
+## Player-Facing Summary
+
+Elven hanali celanil mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elven hanali celanil mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven hanali celanil mtf.
+
+## Adventure Hooks
+
+- A rumor ties elven hanali celanil mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elven hanali celanil mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elven hanali celanil mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

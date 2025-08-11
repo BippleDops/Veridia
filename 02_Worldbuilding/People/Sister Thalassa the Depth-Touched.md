@@ -738,3 +738,17 @@ Thalassa's awakening efforts interact catastrophically with dimensional converge
 - [[Quest - The Memory Bridge]]
 - [[Quest - The Shard-Shadow Resonance]]
 - [[The Sunken Library of Thalassius]]
+
+## Player-Facing Summary
+
+Sister Thalassa the Depth Touched is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sister Thalassa the Depth Touched as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sister Thalassa the Depth Touched.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]
+
+<!-- enriched: true -->

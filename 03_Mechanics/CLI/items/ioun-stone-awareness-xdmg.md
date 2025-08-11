@@ -29,3 +29,23 @@ As a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action, you can seize and s
 While this dark-blue rhomboid orbits your head, you have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on [Initiative](/03_Mechanics/CLI/variant-rules/initiative-xphb.md) rolls and Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) checks.
 
 *Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Ioun stone awareness xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ioun stone awareness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ioun stone awareness xdmg.
+
+## Adventure Hooks
+
+- A rumor ties ioun stone awareness xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ioun stone awareness xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to ioun stone awareness xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

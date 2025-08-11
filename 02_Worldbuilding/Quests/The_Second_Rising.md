@@ -929,3 +929,23 @@ With the Heart of Oceanus reformed and faction unity achieved (or failed), Aquat
 *"The greatest depths require the greatest courage to rise from... but sometimes, the greatest wisdom lies in choosing a path that no one has walked before."*
 
 *- Prophecy of the Second Rising, Final Interpretation*
+
+## Player-Facing Summary
+
+The Second Rising is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Second Rising as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Second Rising.
+
+## Adventure Hooks
+
+- A rumor ties The Second Rising to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Second Rising to avert a public scandal.
+- A map overlay reveals a hidden approach to The Second Rising active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

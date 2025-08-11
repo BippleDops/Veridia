@@ -31,3 +31,23 @@ Keep track of the Bastion Defenders housed in each of your Barracks. If you lose
 You can enlarge your Barrack to a Vast facility by spending 2,000 GP. A Vast Barrack can accommodate up to twenty-five Bastion Defenders.
 
 *Source: Dungeon Master's Guide (2024) p. 339*
+
+## Player-Facing Summary
+
+Barrack is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barrack as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barrack.
+
+## Adventure Hooks
+
+- A rumor ties barrack to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barrack to avert a public scandal.
+- A map overlay reveals a hidden approach to barrack active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

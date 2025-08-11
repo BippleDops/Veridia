@@ -33,3 +33,23 @@ After spending a Long Rest in your Bastion, you gain a magical [Charm](/03_Mecha
 When you issue the "Craft" order to this facility, you commission the facility's hireling to craft a [Druidic Focus](/03_Mechanics/CLI/items/druidic-focus-xphb.md) ([wooden staff](/03_Mechanics/CLI/items/wooden-staff-xphb.md)) or a [Holy Symbol](/03_Mechanics/CLI/items/holy-symbol-xphb.md). The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
 *Source: Dungeon Master's Guide (2024) p. 345*
+
+## Player-Facing Summary
+
+Sanctuary is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sanctuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sanctuary.
+
+## Adventure Hooks
+
+- A rumor ties sanctuary to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sanctuary to avert a public scandal.
+- A map overlay reveals a hidden approach to sanctuary active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

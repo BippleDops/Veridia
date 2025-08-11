@@ -67,3 +67,23 @@ These blend depth, sky, and merger motifs. Use all core systems (Pressure/Altitu
 - Reality Control: Complication severity -1 allied; +1 opposed; anchor duels common.
 - Humanitarian Relief: Portal air–sea handoffs; standing > gp.
 - Pirate Confederacy: Mixed-law havens; boarding nets through portals.
+
+## Player-Facing Summary
+
+Mixed Events Pack A is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Mixed Events Pack A as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mixed Events Pack A.
+
+## Adventure Hooks
+
+- A rumor ties Mixed Events Pack A to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Mixed Events Pack A to avert a public scandal.
+- A map overlay reveals a hidden approach to Mixed Events Pack A active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

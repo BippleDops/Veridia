@@ -46,3 +46,23 @@ Tactics: Aim to disable, then board; retreat if leader down
 
 ## Quick-Run
 - Roll detect; if failed, run avoid/cut; apply penalties; if grappled, boarders enter next round
+
+## Player-Facing Summary
+
+D 010 Pirate Shadow Net is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of D 010 Pirate Shadow Net as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around D 010 Pirate Shadow Net.
+
+## Adventure Hooks
+
+- A rumor ties D 010 Pirate Shadow Net to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at D 010 Pirate Shadow Net to avert a public scandal.
+- A map overlay reveals a hidden approach to D 010 Pirate Shadow Net active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

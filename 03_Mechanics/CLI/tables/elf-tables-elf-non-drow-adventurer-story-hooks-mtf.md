@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | You're secretly in love with one of the other members of your adventuring group, and you can't bear the thought of any harm befalling that person. |
 | 8 | When you were born, your grandmother prophesied you would one day rule a human kingdom. You've gone in search of that destiny. |
 ^elf-non-drow-adventurer-story-hooks
+
+## Player-Facing Summary
+
+Elf tables elf non drow adventurer story hooks mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elf tables elf non drow adventurer story hooks mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf tables elf non drow adventurer story hooks mtf.
+
+## Adventure Hooks
+
+- A rumor ties elf tables elf non drow adventurer story hooks mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elf tables elf non drow adventurer story hooks mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elf tables elf non drow adventurer story hooks mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -41,3 +41,23 @@ If all three checks are successful, the character earns the full value of the lo
 A life of crime is filled with complications. Roll on the Crime Complications table (or create a complication of your own) if the character succeeds on only one check. If the character's rival is involved in crime or law enforcement, a complication ensues if the character succeeds on only two checks.
 
 ![Crime Complications](/03_Mechanics/CLI/tables/crime-complications-xge.md)
+
+## Player-Facing Summary
+
+Downtime activity crime xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity crime xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity crime xge.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity crime xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity crime xge to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity crime xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

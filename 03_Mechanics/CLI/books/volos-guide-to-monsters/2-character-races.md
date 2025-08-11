@@ -45,3 +45,23 @@ If you're the DM, including any of these races in your campaign is a storytellin
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
 
 ![Height and Weight](/03_Mechanics/CLI/tables/height-and-weight-vgm.md)
+
+## Player-Facing Summary
+
+2 character races is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 2 character races as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 character races.
+
+## Adventure Hooks
+
+- A rumor ties 2 character races to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 2 character races to avert a public scandal.
+- A map overlay reveals a hidden approach to 2 character races active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

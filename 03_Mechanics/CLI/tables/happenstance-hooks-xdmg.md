@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | While traveling in a caravan or aboard a ship, the characters befriend an NPC who has news about the adventure situation. |
 | 6 | The characters are attacked after being mistaken for another group of adventurers. They learn about the adventure situation from a clue left behind by their attackers. |
 ^happenstance-hooks
+
+## Player-Facing Summary
+
+Happenstance hooks xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of happenstance hooks xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around happenstance hooks xdmg.
+
+## Adventure Hooks
+
+- A rumor ties happenstance hooks xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at happenstance hooks xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to happenstance hooks xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

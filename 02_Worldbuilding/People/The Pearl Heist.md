@@ -131,3 +131,17 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+The Pearl Heist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Pearl Heist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pearl Heist.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Pearl Heist]]
+
+<!-- enriched: true -->

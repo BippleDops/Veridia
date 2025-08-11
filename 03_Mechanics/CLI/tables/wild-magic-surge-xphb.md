@@ -44,3 +44,23 @@ modified: 2025-07-23 12:39
 | 93–96 | You and all creatures within 30 feet of you have [Vulnerability](/03_Mechanics/CLI/variant-rules/vulnerability-xphb.md) to Piercing damage for the next minute. |
 | 97–00 | Roll `d6` On a 1, you regain `2d10` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md); on a 2, one ally of your choice within 300 feet of you regains `2d10` [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md); on a 3, you regain your lowest-level expended spell slot; on a 4, one ally of your choice within 300 feet of you regains their lowest-level expended spell slot; on a 5, you regain all your expended Sorcery Points; on a 6, all the effects of row 17–20 affect you simultaneously. |
 ^wild-magic-surge
+
+## Player-Facing Summary
+
+Wild magic surge xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wild magic surge xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wild magic surge xphb.
+
+## Adventure Hooks
+
+- A rumor ties wild magic surge xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wild magic surge xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wild magic surge xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

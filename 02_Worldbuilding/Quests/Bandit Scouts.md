@@ -447,3 +447,19 @@ Through investigation, the party discovers the bandits' main base is located in 
 ## Connections
 
 - [[Find_the_Missing_Caravan]]
+
+## Player-Facing Summary
+
+Bandit Scouts is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Bandit Scouts as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bandit Scouts.
+
+## Adventure Hooks
+
+- A rumor ties Bandit Scouts to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Bandit Scouts to avert a public scandal.
+- A map overlay reveals a hidden approach to Bandit Scouts active only during specific tides/storms.
+
+<!-- enriched: true -->

@@ -7303,3 +7303,23 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 
 > [!embed-monster]- Beholder Zombie
 > ![Beholder Zombie](/03_Mechanics/CLI/bestiary/undead/beholder-zombie-xmm.md#^statblock)
+
+## Player-Facing Summary
+
+2 monsters a to z is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 2 monsters a to z as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 monsters a to z.
+
+## Adventure Hooks
+
+- A rumor ties 2 monsters a to z to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 2 monsters a to z to avert a public scandal.
+- A map overlay reveals a hidden approach to 2 monsters a to z active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

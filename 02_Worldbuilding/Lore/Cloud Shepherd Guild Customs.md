@@ -281,3 +281,17 @@ The Cloud Shepherd Guild represents one of Aethermoor's most ancient and respect
 - [[Inter-Realm Weather Coalition]] - Cross-cultural weather management alliance
 
 The Cloud Shepherd Guild Customs represent a perfect synthesis of practical necessity and spiritual connection, where ancient traditions of harmony with natural forces adapt to meet the challenges of a changing world while preserving the essential wisdom of those who dance with clouds and partner with the sky itself.
+
+## Player-Facing Summary
+
+Cloud Shepherd Guild Customs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Cloud Shepherd Guild Customs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cloud Shepherd Guild Customs.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -27,3 +27,23 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 Crafting a [spell scroll](/03_Mechanics/CLI/items/spell-scroll-xdmg.md) is a solitary task, unlikely to attract much attention. The complications that arise are more likely to involve the preparation needed for the activity. Every workweek spent scribing brings a 10 percent chance of a complication, examples of which are on the Scribe a Scroll Complications table.
 
 ![Scribe a Scroll Complications](/03_Mechanics/CLI/tables/scribe-a-scroll-complications-xge.md)
+
+## Player-Facing Summary
+
+Downtime activity scribing a spell scroll xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of downtime activity scribing a spell scroll xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity scribing a spell scroll xge.
+
+## Adventure Hooks
+
+- A rumor ties downtime activity scribing a spell scroll xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at downtime activity scribing a spell scroll xge to avert a public scandal.
+- A map overlay reveals a hidden approach to downtime activity scribing a spell scroll xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

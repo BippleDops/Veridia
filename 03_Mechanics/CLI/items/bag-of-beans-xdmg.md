@@ -42,3 +42,23 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 ^1-effect
 
 *Source: Dungeon Master's Guide (2024) p. 233. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Bag of beans xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of bag of beans xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bag of beans xdmg.
+
+## Adventure Hooks
+
+- A rumor ties bag of beans xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at bag of beans xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to bag of beans xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

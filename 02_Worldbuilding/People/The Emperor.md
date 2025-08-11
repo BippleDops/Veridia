@@ -483,3 +483,17 @@ Will Unity bring peace, or endless night?"*
 ---
 
 *"I am Legion, for we are Many. I am One, for we were Whole. I am Emperor, for we shall be Again."*
+
+## Player-Facing Summary
+
+The Emperor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Emperor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emperor.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Emperor]]
+
+<!-- enriched: true -->

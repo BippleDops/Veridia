@@ -281,3 +281,17 @@ Sky burial traditions represent more than isolated cultural practices - they ser
 The traditions also offer unique opportunities for cross-cultural understanding and cooperation, as the fundamental human need to honor the dead transcends the differences between aerial and aquatic civilizations. Diplomatic efforts often begin with exchanges of burial customs and shared mourning observances.
 
 *"In the end, we all return to the elements that shaped us - sky dwellers to the wind, sea people to the depths. Perhaps wisdom lies not in choosing between them, but in understanding how the great currents of air and water dance together in the cosmic dance of existence."* - Meditation on Dual Worlds by Wind Speaker Celestial Driftwhisper
+
+## Player-Facing Summary
+
+Sky Burial Traditions is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sky Burial Traditions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sky Burial Traditions.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

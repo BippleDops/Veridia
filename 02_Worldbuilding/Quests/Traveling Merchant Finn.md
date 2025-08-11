@@ -457,3 +457,19 @@ The party faces all three primary Finn duplicates simultaneously, plus Finn Prim
 - [[Find_the_Missing_Caravan]]
 - [[Smuggler's Gambit]]
 - [[Smuggler]]
+
+## Player-Facing Summary
+
+Traveling Merchant Finn is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Traveling Merchant Finn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Traveling Merchant Finn.
+
+## Adventure Hooks
+
+- A rumor ties Traveling Merchant Finn to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Traveling Merchant Finn to avert a public scandal.
+- A map overlay reveals a hidden approach to Traveling Merchant Finn active only during specific tides/storms.
+
+<!-- enriched: true -->

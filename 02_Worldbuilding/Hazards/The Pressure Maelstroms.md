@@ -313,3 +313,19 @@ Pressure Maelstroms represent one of Aquabyssos's most dangerous natural phenome
 - Demonstrate how civilization adapts to extreme environmental challenges
 - Explore themes of risk vs. reward in dangerous resource exploitation
 - Highlight importance of cooperation and specialized knowledge for survival
+
+## Player-Facing Summary
+
+The Pressure Maelstroms is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Pressure Maelstroms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Maelstroms.
+
+## Adventure Hooks
+
+- A rumor ties The Pressure Maelstroms to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Pressure Maelstroms to avert a public scandal.
+- A map overlay reveals a hidden approach to The Pressure Maelstroms active only during specific tides/storms.
+
+<!-- enriched: true -->

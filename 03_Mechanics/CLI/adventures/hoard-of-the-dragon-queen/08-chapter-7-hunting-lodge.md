@@ -472,3 +472,23 @@ The village of Parnast and the castle is a five-mile hike from the lodge, on the
 ### Missing the Castle
 
 If the characters kill Talis and all her servants and guardians, there's no one to tell the characters about Skyreach Castle, and the party may well delay too long healing up or investigating the lodge. Consider leaving a paper trail in Talis's personal effects, or have a villager (most villagers are cultists) show up at the lodge with a delivery of food and supplies.
+
+## Player-Facing Summary
+
+08 chapter 7 hunting lodge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 08 chapter 7 hunting lodge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 chapter 7 hunting lodge.
+
+## Adventure Hooks
+
+- A rumor ties 08 chapter 7 hunting lodge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 08 chapter 7 hunting lodge to avert a public scandal.
+- A map overlay reveals a hidden approach to 08 chapter 7 hunting lodge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

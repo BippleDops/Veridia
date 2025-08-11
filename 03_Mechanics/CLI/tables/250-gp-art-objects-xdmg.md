@@ -29,3 +29,23 @@ modified: 2025-07-23 12:39
 | 9 | [Box of turquoise animal figurines](/03_Mechanics/CLI/items/box-of-turquoise-animal-figurines-xdmg.md) |
 | 10 | [Gold birdcage with electrum filigree](/03_Mechanics/CLI/items/gold-birdcage-with-electrum-filigree-xdmg.md) |
 ^250-gp-art-objects
+
+## Player-Facing Summary
+
+250 gp art objects xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 250 gp art objects xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 250 gp art objects xdmg.
+
+## Adventure Hooks
+
+- A rumor ties 250 gp art objects xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 250 gp art objects xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to 250 gp art objects xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

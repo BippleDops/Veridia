@@ -79,3 +79,23 @@ The Sword of Kas also seeks to destroy anyone corrupted by the [Eye and Hand of 
 A creature attuned to both the [Eye of Vecna](/03_Mechanics/CLI/items/eye-of-vecna-xdmg.md) and the [Hand of Vecna](/03_Mechanics/CLI/items/hand-of-vecna-xdmg.md) can use the [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) property of those combined Artifacts to unmake the Sword of Kas, provided the sword is within 30 feet of the spell's caster. Upon casting Wish, the creature makes a DC 18 Charisma saving throw. On a failed save, nothing happens, and the [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) spell is wasted. On a successful save, the Sword of Kas is destroyed.
 
 *Source: Dungeon Master's Guide (2024) p. 313*
+
+## Player-Facing Summary
+
+Sword of kas xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sword of kas xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword of kas xdmg.
+
+## Adventure Hooks
+
+- A rumor ties sword of kas xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sword of kas xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to sword of kas xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

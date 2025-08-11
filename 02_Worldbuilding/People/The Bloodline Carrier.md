@@ -169,3 +169,27 @@ He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his
 ## Connections
 
 - [[Marina-Red-Tide-Coralheart]]
+
+## Player-Facing Summary
+
+The Bloodline Carrier is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Bloodline Carrier as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Bloodline Carrier.
+
+## Adventure Hooks
+
+- A rumor ties The Bloodline Carrier to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Bloodline Carrier to avert a public scandal.
+- A map overlay reveals a hidden approach to The Bloodline Carrier active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Bloodline Carrier]]
+
+<!-- enriched: true -->

@@ -329,3 +329,28 @@ The Pretender offers a sophisticated exploration of legitimacy, identity, and th
 Success requires not just uncovering hidden truths but understanding how those truths should be used to serve the greater good. The adventure's emphasis on character development and moral complexity makes it ideal for mature gaming groups interested in political intrigue and ethical decision-making.
 
 Regardless of the specific resolution chosen, the quest should leave lasting impacts on both the characters and the campaign world, establishing the party as significant political actors while exploring timeless questions about the nature of legitimate authority and the cost of maintaining necessary deceptions.
+
+## Player-Facing Summary
+
+Quest   The Pretender is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Pretender as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Pretender.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Pretender to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Pretender to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Pretender active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Quest - The Pretender]]
+- [[02_Worldbuilding/Places/Quest - The Pretender]]
+
+<!-- enriched: true -->

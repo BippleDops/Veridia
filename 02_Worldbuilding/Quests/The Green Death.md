@@ -200,3 +200,23 @@ Hidden in the research:
 - Connects to: "The Tide Rises" (Aquabyssos as solution?)
 - Leads to: "Economic Warfare" (Confederate resources needed)
 - References: "The Shards United" (potential world-saving solution)
+
+## Player-Facing Summary
+
+The Green Death is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Green Death as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Green Death.
+
+## Adventure Hooks
+
+- A rumor ties The Green Death to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Green Death to avert a public scandal.
+- A map overlay reveals a hidden approach to The Green Death active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

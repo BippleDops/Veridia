@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 99 | [Bag of holding](/03_Mechanics/CLI/items/bag-of-holding-xdmg.md) |
 | 00 | [Driftglobe](/03_Mechanics/CLI/items/driftglobe-xdmg.md) |
 ^magic-item-table-a
+
+## Player-Facing Summary
+
+Magic item table a is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of magic item table a as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table a.
+
+## Adventure Hooks
+
+- A rumor ties magic item table a to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at magic item table a to avert a public scandal.
+- A map overlay reveals a hidden approach to magic item table a active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

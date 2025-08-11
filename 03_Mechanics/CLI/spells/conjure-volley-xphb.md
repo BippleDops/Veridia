@@ -28,3 +28,23 @@ You brandish the weapon used to cast the spell and choose a point within range. 
 **Classes**: [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 255*
+
+## Player-Facing Summary
+
+Conjure volley xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of conjure volley xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around conjure volley xphb.
+
+## Adventure Hooks
+
+- A rumor ties conjure volley xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at conjure volley xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to conjure volley xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

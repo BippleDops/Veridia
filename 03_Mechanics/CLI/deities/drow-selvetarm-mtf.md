@@ -30,3 +30,23 @@ The Queen of Spiders had long resented the existence of Zanassu, a minor demon l
 Enraged by Lolth's duplicity, Selvetarm is an engine of destruction, an eight-limbed maestro of slaughter. If allowed to operate unchecked, he could rend his way through an entire drow city in a berserk rage. Keeping him restrained is one of the few acts of Lolth that can be described as merciful.
 
 Because of his status as a captive, Selvetarm draws little attention from drow of high status. Low-caste drow warriors who are themselves slaves or indentured servants, or who have no chance to rise in rank, can beseech Selvetarm for prowess in battle without suffering any shame. Anyone of high standing or who hopes to attain high standing shies away from openly expressing reverence for Selvetarm, though such an individual might still beg his aid privately.
+
+## Player-Facing Summary
+
+Drow selvetarm mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of drow selvetarm mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow selvetarm mtf.
+
+## Adventure Hooks
+
+- A rumor ties drow selvetarm mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at drow selvetarm mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to drow selvetarm mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

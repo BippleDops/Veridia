@@ -19,3 +19,23 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
 ![Proficiency Dice](/03_Mechanics/CLI/tables/proficiency-dice.md)
+
+## Player-Facing Summary
+
+Proficiency dice is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of proficiency dice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around proficiency dice.
+
+## Adventure Hooks
+
+- A rumor ties proficiency dice to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at proficiency dice to avert a public scandal.
+- A map overlay reveals a hidden approach to proficiency dice active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -117,3 +117,23 @@ Once per turn, you can deal an extra `2d10` Radiant damage to a target you hit w
 #### Shared Moonlight
 
 Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
+
+## Player-Facing Summary
+
+Druid xphb circle of the moon xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of druid xphb circle of the moon xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around druid xphb circle of the moon xphb.
+
+## Adventure Hooks
+
+- A rumor ties druid xphb circle of the moon xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at druid xphb circle of the moon xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to druid xphb circle of the moon xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

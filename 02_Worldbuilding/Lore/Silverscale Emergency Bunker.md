@@ -63,3 +63,17 @@ Provides secure meeting location, refuge during disasters, or target for infiltr
 - [[The Final Choice]]
 - [[The Silverscale Conspiracy]]
 - [[Aethermoor - Session 04 The Silverscale Gambit]]
+
+## Player-Facing Summary
+
+Silverscale Emergency Bunker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Silverscale Emergency Bunker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silverscale Emergency Bunker.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

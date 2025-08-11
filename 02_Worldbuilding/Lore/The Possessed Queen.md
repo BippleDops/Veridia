@@ -353,3 +353,23 @@ Revolutionary change scenarios might emerge if the crisis undermines confidence 
 - [[02_Worldbuilding/Lore/Resonance Chamber]] - Research facility developing countermeasures
 - [[02_Worldbuilding/People/Royal Advisor Cornelius Stormwind]] - Former chief counselor to the crown
 - [[02_Worldbuilding/Lore/Council of Mages]] - Organization working on magical solutions
+
+## Player-Facing Summary
+
+The Possessed Queen is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Possessed Queen as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Possessed Queen.
+
+## Adventure Hooks
+
+- A rumor ties The Possessed Queen to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Possessed Queen to avert a public scandal.
+- A map overlay reveals a hidden approach to The Possessed Queen active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -232,3 +232,23 @@ Not a fighter, but if cornered:
 - [[Professor Aldric Crystalweaver]]
 - [[The Current Merchants]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Master Artificer Korvin Gearwright is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Master Artificer Korvin Gearwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Artificer Korvin Gearwright.
+
+## Adventure Hooks
+
+- A rumor ties Master Artificer Korvin Gearwright to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Master Artificer Korvin Gearwright to avert a public scandal.
+- A map overlay reveals a hidden approach to Master Artificer Korvin Gearwright active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+
+<!-- enriched: true -->

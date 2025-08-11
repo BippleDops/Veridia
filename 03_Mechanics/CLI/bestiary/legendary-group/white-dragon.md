@@ -50,3 +50,23 @@ Any of these effects might appear in the area around a white dragon's lair, in a
 
 - **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
 - **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([Stealth](/03_Mechanics/CLI/skills.md#Stealth)) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.
+
+## Player-Facing Summary
+
+White dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of white dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around white dragon.
+
+## Adventure Hooks
+
+- A rumor ties white dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at white dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to white dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

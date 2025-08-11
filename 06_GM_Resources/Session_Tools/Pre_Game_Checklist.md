@@ -294,3 +294,23 @@
 ---
 
 *Remember: The best preparation is flexible preparation. This checklist is a tool, not a mandate. Adapt as needed for your group's style and needs.*
+
+## Player-Facing Summary
+
+Pre Game Checklist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pre Game Checklist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pre Game Checklist.
+
+## Adventure Hooks
+
+- A rumor ties Pre Game Checklist to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Pre Game Checklist to avert a public scandal.
+- A map overlay reveals a hidden approach to Pre Game Checklist active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

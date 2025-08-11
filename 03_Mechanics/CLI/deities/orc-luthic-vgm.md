@@ -31,3 +31,23 @@ Luthic is often thought to take the guise of an enormous cave bear. Her follower
 ## Holding the Fort
 
 Along with protecting the young and the tribe's food stores, the worshipers of Luthic also serve as the crafters, engineers, and builders of an orc tribe. They fashion crude weapons, armor, and the few manufactured items that the orcs need for daily life. When the tribe is away on raids, they are expected to dig deeper into the caverns of the den to create more living space for the ever-increasing population.
+
+## Player-Facing Summary
+
+Orc luthic vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of orc luthic vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc luthic vgm.
+
+## Adventure Hooks
+
+- A rumor ties orc luthic vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at orc luthic vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to orc luthic vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

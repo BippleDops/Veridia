@@ -173,3 +173,23 @@ As convergence approaches, the temple faces increasing threats from various form
 - [[The Restoration Movement]]
 - [[The Silverscale Conspiracy]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+Temple of the First Tide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Temple of the First Tide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temple of the First Tide.
+
+## Adventure Hooks
+
+- A rumor ties Temple of the First Tide to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Temple of the First Tide to avert a public scandal.
+- A map overlay reveals a hidden approach to Temple of the First Tide active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

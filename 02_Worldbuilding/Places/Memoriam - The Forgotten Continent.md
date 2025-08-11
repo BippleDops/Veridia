@@ -194,3 +194,23 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 ## Connections
 
 - [[The Forgotten One]]
+
+## Player-Facing Summary
+
+Memoriam   The Forgotten Continent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memoriam   The Forgotten Continent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memoriam   The Forgotten Continent.
+
+## Adventure Hooks
+
+- A rumor ties Memoriam   The Forgotten Continent to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memoriam   The Forgotten Continent to avert a public scandal.
+- A map overlay reveals a hidden approach to Memoriam   The Forgotten Continent active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Memoriam - The Forgotten Continent]]
+
+<!-- enriched: true -->

@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | Sequence prophet, studying repeating patterns that bend the mind | Theory |
 | 8 | Vivifier, conjuring fractal creatures based on biological life | Substance |
 ^quandrix-scholars
+
+## Player-Facing Summary
+
+Scholars of quandrix quandrix scholars scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of scholars of quandrix quandrix scholars scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scholars of quandrix quandrix scholars scc.
+
+## Adventure Hooks
+
+- A rumor ties scholars of quandrix quandrix scholars scc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at scholars of quandrix quandrix scholars scc to avert a public scandal.
+- A map overlay reveals a hidden approach to scholars of quandrix quandrix scholars scc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

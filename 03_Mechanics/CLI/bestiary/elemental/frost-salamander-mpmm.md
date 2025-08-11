@@ -86,3 +86,23 @@ On rare occasions, [frost giants](/03_Mechanics/CLI/bestiary/giant/frost-giant-x
 ## Environment
 
 arctic
+
+## Player-Facing Summary
+
+Frost salamander mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of frost salamander mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around frost salamander mpmm.
+
+## Adventure Hooks
+
+- A rumor ties frost salamander mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at frost salamander mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to frost salamander mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

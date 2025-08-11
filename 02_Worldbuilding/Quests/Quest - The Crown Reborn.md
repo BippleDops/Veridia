@@ -410,3 +410,19 @@ This quest serves as a capstone adventure that ties together multiple campaign t
 
 - [[Quest - The Pretender's Crown]]
 - [[The Crown's Burden]]
+
+## Player-Facing Summary
+
+Quest   The Crown Reborn is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Quest   The Crown Reborn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quest   The Crown Reborn.
+
+## Adventure Hooks
+
+- A rumor ties Quest   The Crown Reborn to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Quest   The Crown Reborn to avert a public scandal.
+- A map overlay reveals a hidden approach to Quest   The Crown Reborn active only during specific tides/storms.
+
+<!-- enriched: true -->

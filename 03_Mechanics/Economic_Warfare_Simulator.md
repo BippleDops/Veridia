@@ -29,3 +29,23 @@ Markets as battlegrounds: supply/demand for 100+ goods, manipulation, sabotage, 
 ## Collapse Scenarios
 - Triggers: Anchor failure, Deep Mother cult strikes, plague waves
 - Effects: Faction pillar shocks (see [[Complete Faction Warfare System]])
+
+## Player-Facing Summary
+
+Economic Warfare Simulator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Economic Warfare Simulator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Economic Warfare Simulator.
+
+## Adventure Hooks
+
+- A rumor ties Economic Warfare Simulator to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Economic Warfare Simulator to avert a public scandal.
+- A map overlay reveals a hidden approach to Economic Warfare Simulator active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

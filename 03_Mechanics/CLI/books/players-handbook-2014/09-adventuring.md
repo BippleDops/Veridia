@@ -388,3 +388,23 @@ The training lasts for 250 days and costs 1 gp per day. After you spend the requ
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
+
+## Player-Facing Summary
+
+09 adventuring is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 09 adventuring as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 adventuring.
+
+## Adventure Hooks
+
+- A rumor ties 09 adventuring to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 09 adventuring to avert a public scandal.
+- A map overlay reveals a hidden approach to 09 adventuring active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -528,13 +528,25 @@
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-blue-dragon-xmm-v4-ancient-blue-dragon-xmm.svg)
 
 ## creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.png)
+
+## creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.svg)
+
+## creature-creature-ancient-brass-dragon-xmm-v1-ancient-brass-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v1-ancient-brass-dragon-xmm.png)
 
 ## creature-creature-ancient-brass-dragon-xmm-v1-ancient-brass-dragon-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v1-ancient-brass-dragon-xmm.svg)
 
 ## creature-creature-ancient-brass-dragon-xmm-v2-ancient-brass-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v2-ancient-brass-dragon-xmm.png)
+
+## creature-creature-ancient-brass-dragon-xmm-v2-ancient-brass-dragon-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v2-ancient-brass-dragon-xmm.svg)
+
+## creature-creature-ancient-brass-dragon-xmm-v3-ancient-brass-dragon-xmm
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v3-ancient-brass-dragon-xmm.png)
 
 ## creature-creature-ancient-brass-dragon-xmm-v3-ancient-brass-dragon-xmm
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v3-ancient-brass-dragon-xmm.svg)

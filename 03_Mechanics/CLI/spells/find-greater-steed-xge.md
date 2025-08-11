@@ -41,3 +41,23 @@ Whenever the mount disappears, it leaves behind any objects it was wearing or ca
 **Classes**: [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190*
+
+## Player-Facing Summary
+
+Find greater steed xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of find greater steed xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around find greater steed xge.
+
+## Adventure Hooks
+
+- A rumor ties find greater steed xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at find greater steed xge to avert a public scandal.
+- A map overlay reveals a hidden approach to find greater steed xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

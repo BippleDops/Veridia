@@ -1124,3 +1124,23 @@ Ysgard is the home of slain heroes who wage eternal battle on fields of glory. A
 The nature of Ysgard is glory earned through heroic deeds in battle. It's the euphoria of an athlete, the exhilaration of a summer storm, and the triumphant celebration of victory. Since those who die on the plane return to life to fight again the next day, Ysgard can overlook the horrors of war and focus entirely on the glory.
 
 An adventure in Ysgard can be an opportunity for lighthearted combat without consequences, for characters to prove their mettle against truly epic foes and perhaps even against each other. Adventurers might find themselves on the Plain of Ida on the topmost layer of Ysgard, where daily festivals let warriors and athletes show off their bravery and skill. Or they might venture into the lower layers to face greater challenges—or secrets buried in the deep caverns of the plane.
+
+## Player-Facing Summary
+
+06 chapter 6 cosmology is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 06 chapter 6 cosmology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 6 cosmology.
+
+## Adventure Hooks
+
+- A rumor ties 06 chapter 6 cosmology to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 06 chapter 6 cosmology to avert a public scandal.
+- A map overlay reveals a hidden approach to 06 chapter 6 cosmology active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

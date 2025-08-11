@@ -89,3 +89,23 @@ Once per turn when you deal damage to a creature marked by your Hunter's Mark, y
 ### Superior Hunter's Defense (Level 15)
 
 When you take damage, you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to give yourself [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage and any other damage of the same type until the end of the current turn.
+
+## Player-Facing Summary
+
+Ranger xphb hunter xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of ranger xphb hunter xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb hunter xphb.
+
+## Adventure Hooks
+
+- A rumor ties ranger xphb hunter xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at ranger xphb hunter xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to ranger xphb hunter xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

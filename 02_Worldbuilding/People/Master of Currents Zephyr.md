@@ -189,3 +189,23 @@ Master of Currents Zephyr is the supreme authority over water movement and under
 
 - [[Nerissa_Deepcurrent]]
 - [[The Pearl Guard]]
+
+## Player-Facing Summary
+
+Master of Currents Zephyr is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Master of Currents Zephyr as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master of Currents Zephyr.
+
+## Adventure Hooks
+
+- A rumor ties Master of Currents Zephyr to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Master of Currents Zephyr to avert a public scandal.
+- A map overlay reveals a hidden approach to Master of Currents Zephyr active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Master of Currents Zephyr]]
+
+<!-- enriched: true -->

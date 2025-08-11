@@ -416,3 +416,13 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - [[Stop the Shadow Harvest]]
 - [[Discover Marina's Truth]]
 - [[Campaign_Relationship_Matrix]]
+
+## Player-Facing Summary
+
+The Crown Authority is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crown Authority as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crown Authority.
+
+<!-- enriched: true -->

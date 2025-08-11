@@ -257,3 +257,23 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 ## Environment
 
 underdark
+
+## Player-Facing Summary
+
+Illithilich vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of illithilich vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around illithilich vgm.
+
+## Adventure Hooks
+
+- A rumor ties illithilich vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at illithilich vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to illithilich vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

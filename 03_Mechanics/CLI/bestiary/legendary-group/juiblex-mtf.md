@@ -51,3 +51,23 @@ If a creature goes mad in Juiblex's lair or within line of sight of the demon lo
 | 61–80 | "I must possess as many material goods as I can." |
 | 81–00 | "My personality is irrelevant. I am defined by what I consume." |
 ^madness-of-juiblex
+
+## Player-Facing Summary
+
+Juiblex mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of juiblex mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around juiblex mtf.
+
+## Adventure Hooks
+
+- A rumor ties juiblex mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at juiblex mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to juiblex mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

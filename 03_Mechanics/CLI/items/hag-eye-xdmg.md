@@ -28,3 +28,23 @@ The Hag Eye is usually entrusted to a hag's minion for safekeeping and transport
 Only a hag coven can craft this item, which is made from a real eye coated in varnish and often fitted to a pendant or another wearable item. A hag coven can have only one Hag Eye at a time, and creating a new one requires all three members of the coven to perform a special rite. This rite takes 1 hour, and the hags can't perform it if one or more of them has the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition. If the hags take any other actions during this rite, the rite fails and ends.
 
 *Source: Dungeon Master's Guide (2024) p. 265*
+
+## Player-Facing Summary
+
+Hag eye xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of hag eye xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hag eye xdmg.
+
+## Adventure Hooks
+
+- A rumor ties hag eye xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at hag eye xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to hag eye xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

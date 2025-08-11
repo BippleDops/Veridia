@@ -370,3 +370,19 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 - Economic inequality based on crystal access rather than just gold accumulation
 - Cultural differences in how various groups value different crystal types
 - Moral questions about commoditizing magical energy and natural resources
+
+## Player-Facing Summary
+
+Aether Crystals is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aether Crystals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aether Crystals.
+
+## Adventure Hooks
+
+- A rumor ties Aether Crystals to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aether Crystals to avert a public scandal.
+- A map overlay reveals a hidden approach to Aether Crystals active only during specific tides/storms.
+
+<!-- enriched: true -->

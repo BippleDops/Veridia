@@ -321,3 +321,23 @@ Marcus discovers that his understanding of the Crown of Stars and its purpose ha
 - [[Scholar Vivienne the Chronicler]]
 - [[The Bloodline Carrier]]
 - [[Quest - The Convergence Crisis]]
+
+## Player-Facing Summary
+
+Keeper of the Shattered Crown, Marcus Crystalvein is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Keeper of the Shattered Crown, Marcus Crystalvein as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper of the Shattered Crown, Marcus Crystalvein.
+
+## Adventure Hooks
+
+- A rumor ties Keeper of the Shattered Crown, Marcus Crystalvein to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Keeper of the Shattered Crown, Marcus Crystalvein to avert a public scandal.
+- A map overlay reveals a hidden approach to Keeper of the Shattered Crown, Marcus Crystalvein active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Keeper of the Shattered Crown, Marcus Crystalvein]]
+
+<!-- enriched: true -->

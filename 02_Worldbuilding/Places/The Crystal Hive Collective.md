@@ -231,3 +231,21 @@ The Crystal Hive Collective is a massive crystalline structure that has grown li
 - Infiltration units operating in multiple surface communities
 - Queen Mother preparing for "Great Harmony" mass conversion event
 - Crystal resonance network approaching critical mass for global influence
+
+## Player-Facing Summary
+
+The Crystal Hive Collective is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Crystal Hive Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Hive Collective.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Crystal Hive Collective]]
+
+<!-- enriched: true -->

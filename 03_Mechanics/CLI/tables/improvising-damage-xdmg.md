@@ -23,3 +23,23 @@ modified: 2025-07-23 12:39
 | `18d10` | Submerged in lava, hit by a crashing flying fortress |
 | `24d10` | Tumbling into a vortex of fire on the "Elemental Plane of Fire", crushed in the jaws of a godlike creature or a moon-size monster |
 ^improvising-damage
+
+## Player-Facing Summary
+
+Improvising damage xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of improvising damage xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around improvising damage xdmg.
+
+## Adventure Hooks
+
+- A rumor ties improvising damage xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at improvising damage xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to improvising damage xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

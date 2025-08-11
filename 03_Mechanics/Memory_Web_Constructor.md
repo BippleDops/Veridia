@@ -24,3 +24,23 @@ Builds 10,000+ interconnected memory fragments, archaeology, false memories, col
 
 ## Memory Viruses
 - Propagate along edges; cause identity drift or mass hysteria
+
+## Player-Facing Summary
+
+Memory Web Constructor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Memory Web Constructor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Web Constructor.
+
+## Adventure Hooks
+
+- A rumor ties Memory Web Constructor to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Memory Web Constructor to avert a public scandal.
+- A map overlay reveals a hidden approach to Memory Web Constructor active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -50,3 +50,23 @@ Whisper Translation is a living crossroads where memory-currents and trade flows
 - [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
 - [[02_Worldbuilding/Quests/Quest - The Seventh Shard.md|Quest - The Seventh Shard]]
 - [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
+
+## Player-Facing Summary
+
+Whisper Translation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Whisper Translation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Whisper Translation.
+
+## Adventure Hooks
+
+- A rumor ties Whisper Translation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Whisper Translation to avert a public scandal.
+- A map overlay reveals a hidden approach to Whisper Translation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

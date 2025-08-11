@@ -48,3 +48,23 @@ Any of these effects might appear in the area around a gold dragon's lair, in ad
 - **Beneficent Trail.** Within 10 miles of the dragon's lair, small runes in the shape of a gold dragon appear to creatures in great need, marking a subtle trail leading to the dragon's lair.  
 - **Emanation of Justice.** Creatures that spend a year within 6 miles of the dragon's lair value fairness and justice over their personal feelings.  
 - **Liar's Revelation.** Within 6 miles of the dragon's lair, any creature attempting to tell a deliberate lie must succeed on a DC 15 Charisma saving throw or find itself accidentally revealing the truth it was attempting to conceal. The first time a creature fails this saving throw, it is immune to this effect for 24 hours.
+
+## Player-Facing Summary
+
+Gold dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gold dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gold dragon.
+
+## Adventure Hooks
+
+- A rumor ties gold dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gold dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to gold dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

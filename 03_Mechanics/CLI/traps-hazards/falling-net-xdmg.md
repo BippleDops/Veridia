@@ -34,3 +34,23 @@ A creature that has [Thieves' Tools](/03_Mechanics/CLI/items/thieves-tools-xphb.
 You can scale the trap for higher levels by increasing the weight of the Net, which increases the save DC and the DC of the Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check as follows: DC 12 at levels 5–10, DC 14 at levels 11–16, or DC 16 at levels 17–20.
 
 *Source: Dungeon Master's Guide (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+
+## Player-Facing Summary
+
+Falling net xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of falling net xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around falling net xdmg.
+
+## Adventure Hooks
+
+- A rumor ties falling net xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at falling net xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to falling net xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -31,3 +31,23 @@ You can mimic any sounds you have heard, including voices. A creature that hears
 ### Languages
 
 You can read and write Common and Auran, but you can only speak using your Mimicry trait.
+
+## Player-Facing Summary
+
+Kenku dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of kenku dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kenku dmg.
+
+## Adventure Hooks
+
+- A rumor ties kenku dmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at kenku dmg to avert a public scandal.
+- A map overlay reveals a hidden approach to kenku dmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -26,3 +26,23 @@ This small packet contains `1d6 + 4` pinches of dust. As a [Utilize](/03_Mechani
 As a [Utilize](/03_Mechanics/CLI/actions.md#Utilize) action, you can sprinkle a pinch of the dust on an Elemental within 5 feet of yourself that is composed mostly of water (such as a [Water Elemental](/03_Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) or a [Water Weird](/03_Mechanics/CLI/bestiary/elemental/water-weird-xmm.md)). Such a creature exposed to a pinch of the dust makes a DC 13 Constitution saving throw, taking `10d6` Necrotic damage on a failed save or half as much damage on a successful one.
 
 *Source: Dungeon Master's Guide (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Dust of dryness xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dust of dryness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dust of dryness xdmg.
+
+## Adventure Hooks
+
+- A rumor ties dust of dryness xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dust of dryness xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to dust of dryness xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

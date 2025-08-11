@@ -46,3 +46,23 @@ Anyone who has spent time around halflings, particularly halfling adventurers, h
 Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there's a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.
 
 Halflings who prefer to live underground are sometimes called strongheart halflings or stouts. Nomadic halflings, as well as those who live among humans and other tall folk, are sometimes called lightfoot halflings or tallfellows.
+
+## Player-Facing Summary
+
+Halfling xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of halfling xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling xphb.
+
+## Adventure Hooks
+
+- A rumor ties halfling xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at halfling xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to halfling xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

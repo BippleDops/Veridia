@@ -226,3 +226,23 @@ His main banking facility features:
 - [[Captain Garrett Stormcutter]]
 - [[Senator]]
 - [[The Phosphor Markets]]
+
+## Player-Facing Summary
+
+Banker Titus Goldcurrent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Banker Titus Goldcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Banker Titus Goldcurrent.
+
+## Adventure Hooks
+
+- A rumor ties Banker Titus Goldcurrent to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Banker Titus Goldcurrent to avert a public scandal.
+- A map overlay reveals a hidden approach to Banker Titus Goldcurrent active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Banker Titus Goldcurrent]]
+
+<!-- enriched: true -->

@@ -372,3 +372,23 @@ Disaster prevention scenarios involve characters in preventing or mitigating cat
 
 - [[Aethermoor-Aquabyssos-World-Connection-Guide]]
 - [[Quest - The Lost Expedition]]
+
+## Player-Facing Summary
+
+Shattered Isles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shattered Isles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shattered Isles.
+
+## Adventure Hooks
+
+- A rumor ties Shattered Isles to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Shattered Isles to avert a public scandal.
+- A map overlay reveals a hidden approach to Shattered Isles active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

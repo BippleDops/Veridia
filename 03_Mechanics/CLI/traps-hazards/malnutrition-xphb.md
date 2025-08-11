@@ -29,3 +29,23 @@ A creature needs an amount of food per day based on its size, as shown in the Fo
 ^food-needs-per-day
 
 *Source: Player's Handbook (2024) p. 371*
+
+## Player-Facing Summary
+
+Malnutrition xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of malnutrition xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around malnutrition xphb.
+
+## Adventure Hooks
+
+- A rumor ties malnutrition xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at malnutrition xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to malnutrition xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

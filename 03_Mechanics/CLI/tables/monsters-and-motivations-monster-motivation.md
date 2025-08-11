@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 16-17 | Avoid danger |
 | 18-20 | Seek wealth |
 ^monster-motivation
+
+## Player-Facing Summary
+
+Monsters and motivations monster motivation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monsters and motivations monster motivation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters and motivations monster motivation.
+
+## Adventure Hooks
+
+- A rumor ties monsters and motivations monster motivation to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monsters and motivations monster motivation to avert a public scandal.
+- A map overlay reveals a hidden approach to monsters and motivations monster motivation active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

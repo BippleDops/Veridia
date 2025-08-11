@@ -263,3 +263,17 @@ Cooperation with [[02_Worldbuilding/Places/Aethermoor]] creates enhanced navigat
 The Depth Chart serves as essential infrastructure for underwater adventures, providing realistic navigation challenges and opportunities for exploration. It offers frameworks for adventure scenarios involving discovery, crisis response, technological challenges, and inter-dimensional travel.
 
 The system's integration with other city technologies creates interconnected adventure possibilities, while its focus on underwater navigation provides unique challenges and opportunities not found in traditional fantasy settings. Characters can serve as navigators, explorers, cartographers, rescue specialists, or technology developers working with or depending on the navigation system.
+
+## Player-Facing Summary
+
+The Depth Chart is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Depth Chart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Depth Chart.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

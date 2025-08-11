@@ -33,3 +33,23 @@ The target takes an extra `d6` Necrotic damage from the attack, and it must succ
 **Classes**: [Warlock (The Hexblade)](/03_Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB"); [Paladin](/03_Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook (2024) p. 343*
+
+## Player-Facing Summary
+
+Wrathful smite xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of wrathful smite xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wrathful smite xphb.
+
+## Adventure Hooks
+
+- A rumor ties wrathful smite xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at wrathful smite xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to wrathful smite xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

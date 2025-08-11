@@ -463,3 +463,23 @@ In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 ![Githzerai Groups; Githzerai Special Allies](/03_Mechanics/CLI/tables/githzerai-groups-githzerai-special-allies-mtf.md)
 
 ![Githzerai Groups; Githzerai Mission Purpose](/03_Mechanics/CLI/tables/githzerai-groups-githzerai-mission-purpose-mtf.md)
+
+## Player-Facing Summary
+
+4 gith and their endless war is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 4 gith and their endless war as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 4 gith and their endless war.
+
+## Adventure Hooks
+
+- A rumor ties 4 gith and their endless war to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 4 gith and their endless war to avert a public scandal.
+- A map overlay reveals a hidden approach to 4 gith and their endless war active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

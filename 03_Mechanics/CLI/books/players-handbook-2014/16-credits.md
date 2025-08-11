@@ -31,3 +31,23 @@ modified: 2025-07-23 12:39
 - **Playtesting provided by.** over 175,000 fans of D&D. Thank you!  
 
 ![On the Cover: In this fier...](/03_Mechanics/CLI/books/players-handbook-2014/img/phbcover.webp#center "On the Cover: In this fiery scene illustrated by Tyler Jacobson, the fire giant King Snurre, suffering no fools to live, calls his hell hounds to join him in confronting unwelcome guests in his home.")
+
+## Player-Facing Summary
+
+16 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 16 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 credits.
+
+## Adventure Hooks
+
+- A rumor ties 16 credits to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 16 credits to avert a public scandal.
+- A map overlay reveals a hidden approach to 16 credits active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

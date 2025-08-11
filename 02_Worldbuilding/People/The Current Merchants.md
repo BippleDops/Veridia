@@ -312,3 +312,17 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 
 - [[Mayor Thompson]]
 - [[The Pearl Guard]]
+
+## Player-Facing Summary
+
+The Current Merchants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Current Merchants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Current Merchants.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Current Merchants]]
+
+<!-- enriched: true -->

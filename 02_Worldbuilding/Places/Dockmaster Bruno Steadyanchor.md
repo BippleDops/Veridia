@@ -348,3 +348,27 @@ Steadyanchor Docks connects to numerous important elements throughout Aquabyssos
 ## Connections
 
 - [[The Phosphor Markets]]
+
+## Player-Facing Summary
+
+Dockmaster Bruno Steadyanchor is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Dockmaster Bruno Steadyanchor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dockmaster Bruno Steadyanchor.
+
+## Adventure Hooks
+
+- A rumor ties Dockmaster Bruno Steadyanchor to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Dockmaster Bruno Steadyanchor to avert a public scandal.
+- A map overlay reveals a hidden approach to Dockmaster Bruno Steadyanchor active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Dockmaster Bruno Steadyanchor]]
+
+<!-- enriched: true -->

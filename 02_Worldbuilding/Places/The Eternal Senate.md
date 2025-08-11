@@ -412,3 +412,21 @@ The Eternal Speaker may not be a lich but rather a collective consciousness form
 ---
 
 *"The Eternal Senate proves that democracy can survive anything—even the death of its participants. Whether that's inspiring or terrifying depends entirely on your perspective."*
+
+## Player-Facing Summary
+
+The Eternal Senate is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Eternal Senate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Eternal Senate.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Eternal Senate]]
+
+<!-- enriched: true -->

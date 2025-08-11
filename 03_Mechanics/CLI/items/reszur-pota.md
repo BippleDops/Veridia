@@ -32,3 +32,23 @@ You have a +1 bonus to attack and damage rolls made with this weapon, which does
 The name "Reszur" is graven on the dagger's pommel. If the wielder speaks the name, the blade gives off a faint, cold glow, shedding dim light in a 10-foot radius until the wielder speaks the name again.
 
 *Source: Princes of the Apocalypse p. 157*
+
+## Player-Facing Summary
+
+Reszur pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of reszur pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around reszur pota.
+
+## Adventure Hooks
+
+- A rumor ties reszur pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at reszur pota to avert a public scandal.
+- A map overlay reveals a hidden approach to reszur pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

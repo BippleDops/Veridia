@@ -93,3 +93,23 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 ## Environment
 
 grassland, swamp
+
+## Player-Facing Summary
+
+Sword wraith commander mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sword wraith commander mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword wraith commander mpmm.
+
+## Adventure Hooks
+
+- A rumor ties sword wraith commander mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sword wraith commander mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to sword wraith commander mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

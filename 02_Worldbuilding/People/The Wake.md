@@ -379,3 +379,17 @@ The Wake is not a single entity but a collective consciousness formed from the s
 ---
 
 *"We are the voices that water carries, the sorrow that tide remembers, the love that drowning cannot kill. Until every message is delivered and every soul properly mourned, we remain. After that... we do not know. We have never thought beyond the mourning."*
+
+## Player-Facing Summary
+
+The Wake is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Wake as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Wake.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/The Wake]]
+
+<!-- enriched: true -->

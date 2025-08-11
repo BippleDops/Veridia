@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | You won't rob or hurt those who are weaker or less fortunate than you. |
 | 6 | No matter how small you may be, you won't back down from a bully. |
 ^halfling-bonds
+
+## Player-Facing Summary
+
+Halfling tables halfling bonds mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of halfling tables halfling bonds mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling tables halfling bonds mtf.
+
+## Adventure Hooks
+
+- A rumor ties halfling tables halfling bonds mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at halfling tables halfling bonds mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to halfling tables halfling bonds mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -207,3 +207,17 @@ Rumors suggest that the Breathing Stone has been spotted in the hands of **Surfa
 - [[The Final Gasp]] - Breathing plague
 
 The Breathing Stone represents more than mere magical convenience - it embodies the fundamental struggle for survival in Aquabyssos, where the simple act of drawing breath cannot be taken for granted. Whether as quest objective, character motivation, or world-shaping artifact, it provides countless opportunities for adventure while highlighting the unique challenges of life in the drowned world.
+
+## Player-Facing Summary
+
+The Breathing Stone is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Breathing Stone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Breathing Stone.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

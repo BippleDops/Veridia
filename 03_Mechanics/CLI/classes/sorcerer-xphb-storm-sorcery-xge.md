@@ -86,3 +86,23 @@ Starting at 14th level, when you are hit by a melee attack, you can use your rea
 At 18th level, you gain immunity to lightning and thunder damage.
 
 You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can't do so again until you finish a short or long rest.
+
+## Player-Facing Summary
+
+Sorcerer xphb storm sorcery xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerer xphb storm sorcery xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb storm sorcery xge.
+
+## Adventure Hooks
+
+- A rumor ties sorcerer xphb storm sorcery xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerer xphb storm sorcery xge to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerer xphb storm sorcery xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

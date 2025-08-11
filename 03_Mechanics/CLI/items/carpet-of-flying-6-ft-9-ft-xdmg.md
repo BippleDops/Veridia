@@ -26,3 +26,23 @@ You can make this carpet hover and fly by taking a [Magic](/03_Mechanics/CLI/act
 A 6 ft. × 9 ft. carpet can carry up to 800 lb. at a fly speed of 30 feet. A carpet can carry up to twice the weight shown on the table, but its [Fly Speed](/03_Mechanics/CLI/variant-rules/fly-speed-xphb.md) is halved if it carries more than its normal capacity.
 
 *Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Carpet of flying 6 ft 9 ft xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of carpet of flying 6 ft 9 ft xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around carpet of flying 6 ft 9 ft xdmg.
+
+## Adventure Hooks
+
+- A rumor ties carpet of flying 6 ft 9 ft xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at carpet of flying 6 ft 9 ft xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to carpet of flying 6 ft 9 ft xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -28,3 +28,23 @@ When you drink this potion, you gain the effect of the [Comprehend Languages](/0
 This potion's liquid is a clear concoction with bits of salt and soot swirling in it.
 
 *Source: Dungeon Master's Guide (2024) p. 287*
+
+## Player-Facing Summary
+
+Potion of comprehension xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of potion of comprehension xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around potion of comprehension xdmg.
+
+## Adventure Hooks
+
+- A rumor ties potion of comprehension xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at potion of comprehension xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to potion of comprehension xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -35,3 +35,23 @@ A demilich's tomb might have any or all of the following effects in place:
 - The tomb is warded against the magical travel of creatures the demilich hasn't authorized. Such creatures can't teleport into or out of the tomb's area or use planar travel to enter or leave it. Effects that allow teleportation or planar travel work within the tomb as long as they aren't used to leave or enter the tomb's area.  
 
 If the demilich is destroyed, these effects fade over the course of 10 days.
+
+## Player-Facing Summary
+
+Demilich is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of demilich as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demilich.
+
+## Adventure Hooks
+
+- A rumor ties demilich to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at demilich to avert a public scandal.
+- A map overlay reveals a hidden approach to demilich active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

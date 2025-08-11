@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | Sinister. This item is linked to a deed of great evil such as a massacre or an assassination. It might have a name or be closely associated with a villain who used it. Anyone familiar with the item's history is likely to treat it and its owner with suspicion. |
 | 8 | Symbol of Power. This item was once used as part of royal regalia or as a badge of high office. Its former owner or that person's descendants might desire it, or someone might mistakenly assume its new owner is the item's legitimate inheritor. |
 ^what-is-a-detail-from-its-history
+
+## Player-Facing Summary
+
+Special features what is a detail from its history is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of special features what is a detail from its history as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special features what is a detail from its history.
+
+## Adventure Hooks
+
+- A rumor ties special features what is a detail from its history to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at special features what is a detail from its history to avert a public scandal.
+- A map overlay reveals a hidden approach to special features what is a detail from its history active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -71,3 +71,23 @@ When you take damage from a creature that is within 5 feet of you, you can take 
 As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](/03_Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](/03_Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](/03_Mechanics/CLI/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the berserker xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the berserker xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the berserker xphb.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the berserker xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the berserker xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the berserker xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

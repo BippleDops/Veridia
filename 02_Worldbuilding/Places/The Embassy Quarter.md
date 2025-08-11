@@ -309,3 +309,27 @@ The Embassy Quarter serves as:
 - Starting point for adventures in foreign lands
 - Source of allies, enemies, and patrons from various nations and cultures
 EOF < /dev/null
+
+## Player-Facing Summary
+
+The Embassy Quarter is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Embassy Quarter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Embassy Quarter.
+
+## Adventure Hooks
+
+- A rumor ties The Embassy Quarter to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Embassy Quarter to avert a public scandal.
+- A map overlay reveals a hidden approach to The Embassy Quarter active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Embassy Quarter]]
+
+<!-- enriched: true -->

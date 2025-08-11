@@ -398,3 +398,23 @@ The Gardener can take 3 legendary actions, choosing from the options below.
 
 *"Every creature in Aquabyssos tells a story—of transformation, loss, or something worse. They're not monsters; they're warnings of what we might become."*
 — Bestiary of the Depths
+
+## Player-Facing Summary
+
+Aquabyssos Creature Compendium is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aquabyssos Creature Compendium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Creature Compendium.
+
+## Adventure Hooks
+
+- A rumor ties Aquabyssos Creature Compendium to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aquabyssos Creature Compendium to avert a public scandal.
+- A map overlay reveals a hidden approach to Aquabyssos Creature Compendium active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

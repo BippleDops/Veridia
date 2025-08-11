@@ -169,3 +169,23 @@ Visitors must observe:
 
 ## DM Notes
 Marina represents the desperate clinging to humanity while embracing monstrous transformation. She's a tragic figure who uses commerce and etiquette to maintain sanity. Her memory manipulation makes her incredibly dangerous for information-based campaigns. She should feel like a decadent noble playing elaborate games while drowning eternally. Her connection to surface operations makes her a perfect bridge between Aquabyssos and Aethermoor plots. The countdown to her 1000th drowning creates timeline pressure.
+
+## Player-Facing Summary
+
+Duchess Marina Ever Drowning is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Duchess Marina Ever Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Duchess Marina Ever Drowning.
+
+## Adventure Hooks
+
+- A rumor ties Duchess Marina Ever Drowning to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Duchess Marina Ever Drowning to avert a public scandal.
+- A map overlay reveals a hidden approach to Duchess Marina Ever Drowning active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]
+
+<!-- enriched: true -->

@@ -23,3 +23,23 @@ Rot grubs pose a threat both singly and as a swarm. See the [stat block](/03_Mec
 Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned), as the rot grub burrows into the creature. The [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature takes 3 (`d6`) poison damage at the end of each of its turns. Whenever the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/03_Mechanics/CLI/conditions.md#Poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 *Source: Volo's Guide to Monsters p. 208*
+
+## Player-Facing Summary
+
+Rot grub vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of rot grub vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rot grub vgm.
+
+## Adventure Hooks
+
+- A rumor ties rot grub vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at rot grub vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to rot grub vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

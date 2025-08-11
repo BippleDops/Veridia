@@ -546,3 +546,13 @@ A radical wing led by survivors of replacement attempts advocates for immediate 
 ---
 
 *"In a world where your own shadow might betray you, we remember what it means to cast light in the darkness."* - SCI Motto
+
+## Player-Facing Summary
+
+Shadow Conspiracy Investigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Conspiracy Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Conspiracy Investigation.
+
+<!-- enriched: true -->

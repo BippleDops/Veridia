@@ -24,3 +24,23 @@ You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to throw the t
 As a [Bonus Action](/03_Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can direct the whip to fly up to 20 feet and repeat the attack against a creature within 10 feet of the whip. The whip disappears after 1 hour, when you take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to dismiss it, or when you die or have the [Incapacitated](/03_Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 *Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Feather Token, Whip") and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Quaals feather token whip xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of quaals feather token whip xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quaals feather token whip xdmg.
+
+## Adventure Hooks
+
+- A rumor ties quaals feather token whip xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at quaals feather token whip xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to quaals feather token whip xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

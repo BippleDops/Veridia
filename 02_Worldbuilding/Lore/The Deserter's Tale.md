@@ -106,3 +106,22 @@ The tale raises uncomfortable questions: How many other "failures" were actually
 
 *"Honor is not in glory, but in the darkness one enters willingly so others might live in light."* - Final transmission from Captain Nereon Truthkeeper
 
+## Player-Facing Summary
+
+The Deserter's Tale is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Deserter's Tale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deserter's Tale.
+
+## Adventure Hooks
+
+- A rumor ties The Deserter's Tale to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Deserter's Tale to avert a public scandal.
+- A map overlay reveals a hidden approach to The Deserter's Tale active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -35,3 +35,23 @@ The region containing a storm giant quintessent's lair is warped by the giant's 
 - Flashes of lightning and peals of thunder are continual, day and night, within 5 miles of the lair.  
 
 If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within `d8` days.
+
+## Player-Facing Summary
+
+Storm giant quintessent vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of storm giant quintessent vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around storm giant quintessent vgm.
+
+## Adventure Hooks
+
+- A rumor ties storm giant quintessent vgm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at storm giant quintessent vgm to avert a public scandal.
+- A map overlay reveals a hidden approach to storm giant quintessent vgm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -28,3 +28,23 @@ When you cast the spell and as a [Bonus Action](/03_Mechanics/CLI/variant-rules/
 **Classes**: [Ranger](/03_Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 329*
+
+## Player-Facing Summary
+
+Swift quiver xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of swift quiver xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swift quiver xphb.
+
+## Adventure Hooks
+
+- A rumor ties swift quiver xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at swift quiver xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to swift quiver xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -405,3 +405,23 @@ Choose your relationship with major factions:
 ## Connections
 
 - [[Quick_Start_Guide]]
+
+## Player-Facing Summary
+
+Character Creation Extended is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Character Creation Extended as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Character Creation Extended.
+
+## Adventure Hooks
+
+- A rumor ties Character Creation Extended to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Character Creation Extended to avert a public scandal.
+- A map overlay reveals a hidden approach to Character Creation Extended active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

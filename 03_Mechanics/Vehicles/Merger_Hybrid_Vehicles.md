@@ -38,3 +38,23 @@ Impossible vessels for zones where physics fails and timelines knot. Requires cl
 4) Roll stability, sanity, and paradox; resolve anomalies
 
 See: [[Vessel_Horror_Intensifier]], [[Journey_Event_Compiler]].
+
+## Player-Facing Summary
+
+Merger Hybrid Vehicles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Merger Hybrid Vehicles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Hybrid Vehicles.
+
+## Adventure Hooks
+
+- A rumor ties Merger Hybrid Vehicles to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Merger Hybrid Vehicles to avert a public scandal.
+- A map overlay reveals a hidden approach to Merger Hybrid Vehicles active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

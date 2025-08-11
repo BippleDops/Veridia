@@ -40,3 +40,23 @@ The region containing a legendary silver dragon's lair is warped by the dragon's
 - Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.  
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in `d10` days.
+
+## Player-Facing Summary
+
+Silver dragon is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of silver dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silver dragon.
+
+## Adventure Hooks
+
+- A rumor ties silver dragon to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at silver dragon to avert a public scandal.
+- A map overlay reveals a hidden approach to silver dragon active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

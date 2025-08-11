@@ -1060,3 +1060,23 @@ A background feature should avoid strict game benefits, such as a bonus to an ab
 For example, the sage's Researcher feature is designed to send the character on adventures. It doesn't provide information or an automatic success for a check. Instead, if a character with the sage background fails to recall information, he or she instead knows where to learn it. This might be a pointer to another sage or to a library long lost within an ancient tomb.
 
 The best background features give characters a reason to strike out on quests, to make contact with NPCs, and to develop bonds to the setting you've devised.
+
+## Player-Facing Summary
+
+10 dungeon masters workshop is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 10 dungeon masters workshop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 dungeon masters workshop.
+
+## Adventure Hooks
+
+- A rumor ties 10 dungeon masters workshop to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 10 dungeon masters workshop to avert a public scandal.
+- A map overlay reveals a hidden approach to 10 dungeon masters workshop active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -91,3 +91,23 @@ Once you use this feature, you can't use it again until you finish a [Long Rest]
 You can cast [Summon Dragon](/03_Mechanics/CLI/spells/summon-dragon-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/03_Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/03_Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+
+## Player-Facing Summary
+
+Sorcerer xphb draconic sorcery xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of sorcerer xphb draconic sorcery xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb draconic sorcery xphb.
+
+## Adventure Hooks
+
+- A rumor ties sorcerer xphb draconic sorcery xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at sorcerer xphb draconic sorcery xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to sorcerer xphb draconic sorcery xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

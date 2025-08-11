@@ -285,3 +285,23 @@ updated: '2025-08-11T13:08:49.901034+00:00'
 
 - [[Party Shadows]]
 - [[Aethermoor - Session 02 The Lighthouse of Storms]]
+
+## Player-Facing Summary
+
+Vex Shadowthorn's Apprentices is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vex Shadowthorn's Apprentices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vex Shadowthorn's Apprentices.
+
+## Adventure Hooks
+
+- A rumor ties Vex Shadowthorn's Apprentices to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Vex Shadowthorn's Apprentices to avert a public scandal.
+- A map overlay reveals a hidden approach to Vex Shadowthorn's Apprentices active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Vex Shadowthorn's Apprentices]]
+
+<!-- enriched: true -->

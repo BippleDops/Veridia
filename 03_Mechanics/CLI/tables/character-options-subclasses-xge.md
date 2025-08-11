@@ -48,3 +48,23 @@ modified: 2025-07-23 12:39
 | Warlock | The Hexblade | 1st | Serves a shadowy entity that bestows dread curses |
 | Wizard | War Magic | 2nd | Mixes evocation and abjuration magic to dominate the battlefield |
 ^subclasses
+
+## Player-Facing Summary
+
+Character options subclasses xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of character options subclasses xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around character options subclasses xge.
+
+## Adventure Hooks
+
+- A rumor ties character options subclasses xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at character options subclasses xge to avert a public scandal.
+- A map overlay reveals a hidden approach to character options subclasses xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

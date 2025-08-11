@@ -399,3 +399,17 @@ The sphere raises questions:
 - [[02_Worldbuilding/Places/The Philosophical Depths]]
 
 *"In the Drowning Truth, we all become what we fear most: ourselves."*
+
+## Player-Facing Summary
+
+The Drowning Truth is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Drowning Truth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowning Truth.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Drowning Truth]]
+
+<!-- enriched: true -->

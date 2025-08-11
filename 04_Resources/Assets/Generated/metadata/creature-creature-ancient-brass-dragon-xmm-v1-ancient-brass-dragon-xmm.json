@@ -24,6 +24,9 @@
   "seed": 7002,
   "alt_text": "Concept art of ancient-brass-dragon-xmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v1-ancient-brass-dragon-xmm.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a medieval fantasy illustration in a consistent painterly style, depicting the ancient brass dragon, perhaps similar to a creature one might find in traditional tabletop fantasy games. Accentuate the dragon's muscular physique and unique limbs in detailed concept art. Include a silhouette of a human for scale. Use a three-color palette of teals, deep blues, and sea greens, with pearl highlights. The setting should be an ambiguous zone blending underwater and sky elements, hinting at the fluidity of motion. Decorate the scenery with bioluminescent accents and materials resembling a pressure dome, creating a surreal sense of an aquatic fantasy realm. Subsurface caustics should add a realistic touch. Ensure that there is no gibberish text or symbols, modern tech, sci-fi UIs, bloom glare, or anime style in the design. Finally, maintain the specified aspect and resolution, while avoiding any visual artifacts.",
+  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-v1-ancient-brass-dragon-xmm.png"
 }

@@ -27,3 +27,23 @@ modified: 2025-07-23 12:39
 | 7 | Painful. You experience a harmless flash of pain when using the item. |
 | 8 | Repulsive. You feel a sense of distaste when in contact with the item and continue to experience discomfort while bearing it. |
 ^magic-items-quirk
+
+## Player-Facing Summary
+
+Magic item special features magic items quirk xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of magic item special features magic items quirk xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item special features magic items quirk xdmg.
+
+## Adventure Hooks
+
+- A rumor ties magic item special features magic items quirk xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at magic item special features magic items quirk xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to magic item special features magic items quirk xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

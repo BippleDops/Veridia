@@ -86,3 +86,23 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
+
+## Player-Facing Summary
+
+Lost sorrowsworn mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of lost sorrowsworn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lost sorrowsworn mpmm.
+
+## Adventure Hooks
+
+- A rumor ties lost sorrowsworn mpmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at lost sorrowsworn mpmm to avert a public scandal.
+- A map overlay reveals a hidden approach to lost sorrowsworn mpmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

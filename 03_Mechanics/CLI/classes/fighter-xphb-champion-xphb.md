@@ -87,3 +87,23 @@ You have [Advantage](/03_Mechanics/CLI/variant-rules/advantage-xphb.md) on Death
 #### Heroic Rally
 
 At the start of each of your turns, you regain [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](/03_Mechanics/CLI/variant-rules/bloodied-xphb.md) and have at least 1 [Hit Point](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md).
+
+## Player-Facing Summary
+
+Fighter xphb champion xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of fighter xphb champion xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fighter xphb champion xphb.
+
+## Adventure Hooks
+
+- A rumor ties fighter xphb champion xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at fighter xphb champion xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to fighter xphb champion xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

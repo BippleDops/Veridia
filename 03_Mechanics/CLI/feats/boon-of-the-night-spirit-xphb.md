@@ -22,3 +22,23 @@ You gain the following benefits.
 **Merge with Shadows.** While within Dim Light or Darkness, you can give yourself the [Invisible](/03_Mechanics/CLI/conditions.md#Invisible) condition as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Action, or a Reaction.
 
 **Shadowy Form.** While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.
+
+## Player-Facing Summary
+
+Boon of the night spirit xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of boon of the night spirit xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of the night spirit xphb.
+
+## Adventure Hooks
+
+- A rumor ties boon of the night spirit xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at boon of the night spirit xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to boon of the night spirit xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

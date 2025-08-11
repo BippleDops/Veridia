@@ -29,3 +29,23 @@ TODO
 ## Hooks
 
 TODO
+
+## Player-Facing Summary
+
+Divine Transformation Theology is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Divine Transformation Theology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Divine Transformation Theology.
+
+## Adventure Hooks
+
+- A rumor ties Divine Transformation Theology to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Divine Transformation Theology to avert a public scandal.
+- A map overlay reveals a hidden approach to Divine Transformation Theology active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

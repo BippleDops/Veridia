@@ -22,3 +22,23 @@ You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to blow this h
 A silver horn summons 2 [Berserkers](/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm.md). They are [Friendly](/03_Mechanics/CLI/variant-rules/friendly-attitude-xphb.md) to you and your allies and follow your commands.
 
 *Source: Dungeon Master's Guide (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Horn of valhalla silver xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of horn of valhalla silver xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around horn of valhalla silver xdmg.
+
+## Adventure Hooks
+
+- A rumor ties horn of valhalla silver xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at horn of valhalla silver xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to horn of valhalla silver xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

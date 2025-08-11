@@ -275,3 +275,23 @@ What the party will discover goes beyond simple ruins. Marina was preserved not 
 - Success encourages further exploration of the deep ocean regions
 
 This quest provides an excellent introduction to the deeper mysteries of Aquabyssos while offering opportunities for exploration, puzzle-solving, and meaningful moral choices that can influence the broader campaign world.
+
+## Player-Facing Summary
+
+Discover Marina is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Discover Marina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Discover Marina.
+
+## Adventure Hooks
+
+- A rumor ties Discover Marina to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Discover Marina to avert a public scandal.
+- A map overlay reveals a hidden approach to Discover Marina active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

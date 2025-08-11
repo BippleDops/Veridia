@@ -42,3 +42,23 @@ Centered around specially cultivated crystals that are believed to contain fragm
 The worship system operates through a network of Crystal Sanctuaries located throughout Aethermoor's floating cities, where specially trained Techno-Priests maintain the delicate balance between technological advancement and spiritual devotion. These facilities serve as temples, research laboratories, and manufacturing centers, reflecting the culture's belief that technological progress and spiritual growth are inseparable aspects of the same divine purpose.
 
 Recent developments have focused on expanding the integration between Skyforged crystal technology and emerging interdimensional connections, particularly with [[Aquabyssos]], creating new challenges and opportunities for both technological advancement and spiritual understanding as the faithful grapple with the theological implications of cross-dimensional reality.
+
+## Player-Facing Summary
+
+Skyforged Crystal Worship is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Skyforged Crystal Worship as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Skyforged Crystal Worship.
+
+## Adventure Hooks
+
+- A rumor ties Skyforged Crystal Worship to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Skyforged Crystal Worship to avert a public scandal.
+- A map overlay reveals a hidden approach to Skyforged Crystal Worship active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

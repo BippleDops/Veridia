@@ -32,3 +32,23 @@ You gain a +1 bonus to attack and damage rolls made with this weapon. On a hit w
 Against enemies of the Cult of the Dragon, the dagger's bonus to attack and damage rolls increases to 2, and the extra acid damage increases to `2d6`.
 
 *Source: The Rise of Tiamat p. 94*
+
+## Player-Facing Summary
+
+Dragontooth dagger rot is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of dragontooth dagger rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragontooth dagger rot.
+
+## Adventure Hooks
+
+- A rumor ties dragontooth dagger rot to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at dragontooth dagger rot to avert a public scandal.
+- A map overlay reveals a hidden approach to dragontooth dagger rot active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

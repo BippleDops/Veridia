@@ -143,3 +143,23 @@ TODO
 
 
 TODO
+
+## Player-Facing Summary
+
+Vault Maintenance Checklist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Vault Maintenance Checklist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vault Maintenance Checklist.
+
+## Adventure Hooks
+
+- A rumor ties Vault Maintenance Checklist to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Vault Maintenance Checklist to avert a public scandal.
+- A map overlay reveals a hidden approach to Vault Maintenance Checklist active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Vault Maintenance Checklist]]
+
+<!-- enriched: true -->

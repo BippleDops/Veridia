@@ -33,3 +33,23 @@ modified: 2025-07-23 12:39
 | 15 | [Mummy Lord](/03_Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md) |
 | 21 | [Ancient Black Dragon](/03_Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md) |
 ^swamp-monsters
+
+## Player-Facing Summary
+
+Monsters by habitat swamp monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of monsters by habitat swamp monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat swamp monsters xmm.
+
+## Adventure Hooks
+
+- A rumor ties monsters by habitat swamp monsters xmm to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at monsters by habitat swamp monsters xmm to avert a public scandal.
+- A map overlay reveals a hidden approach to monsters by habitat swamp monsters xmm active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

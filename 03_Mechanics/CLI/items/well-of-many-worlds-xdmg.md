@@ -28,3 +28,23 @@ You can take a [Magic](/03_Mechanics/CLI/actions.md#Magic) action to unfold the 
 Once the Well of Many Worlds has opened a portal, it can't do so again for `d8` hours.
 
 *Source: Dungeon Master's Guide (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## Player-Facing Summary
+
+Well of many worlds xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of well of many worlds xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around well of many worlds xdmg.
+
+## Adventure Hooks
+
+- A rumor ties well of many worlds xdmg to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at well of many worlds xdmg to avert a public scandal.
+- A map overlay reveals a hidden approach to well of many worlds xdmg active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

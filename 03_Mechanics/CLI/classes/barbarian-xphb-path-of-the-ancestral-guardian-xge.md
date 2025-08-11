@@ -76,3 +76,23 @@ After you cast either spell in this way, you can't use this feature again until 
 ### Vengeful Ancestors (Level 14)
 
 At 14th level, your ancestral spirits grow powerful enough to retaliate. When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the ancestral guardian xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the ancestral guardian xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the ancestral guardian xge.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the ancestral guardian xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the ancestral guardian xge to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the ancestral guardian xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

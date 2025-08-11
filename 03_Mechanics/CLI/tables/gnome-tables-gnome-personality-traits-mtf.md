@@ -25,3 +25,23 @@ modified: 2025-07-23 12:39
 | 5 | Your curiosity is so wide-ranging that you sometimes have trouble concentrating on any one thing. |
 | 6 | You like to make little objects and creatures out of twigs or bits of metal and give them to friends. |
 ^gnome-personality-traits
+
+## Player-Facing Summary
+
+Gnome tables gnome personality traits mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of gnome tables gnome personality traits mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome tables gnome personality traits mtf.
+
+## Adventure Hooks
+
+- A rumor ties gnome tables gnome personality traits mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at gnome tables gnome personality traits mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to gnome tables gnome personality traits mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

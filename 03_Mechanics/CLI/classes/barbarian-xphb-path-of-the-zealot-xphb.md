@@ -93,3 +93,23 @@ You have [Resistance](/03_Mechanics/CLI/variant-rules/resistance-xphb.md) to Nec
 #### Revivification
 
 When a creature within 30 feet of you would drop to 0 [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md), you can take a [Reaction](/03_Mechanics/CLI/variant-rules/reaction-xphb.md) to expend a use of your Rage to instead change the target's [Hit Points](/03_Mechanics/CLI/variant-rules/hit-points-xphb.md) to a number equal to your Barbarian level.
+
+## Player-Facing Summary
+
+Barbarian xphb path of the zealot xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of barbarian xphb path of the zealot xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the zealot xphb.
+
+## Adventure Hooks
+
+- A rumor ties barbarian xphb path of the zealot xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at barbarian xphb path of the zealot xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to barbarian xphb path of the zealot xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

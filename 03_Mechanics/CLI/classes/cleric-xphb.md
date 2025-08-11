@@ -206,3 +206,23 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 ### Greater Divine Intervention (Level 20)
 
 You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](/03_Mechanics/CLI/spells/wish-xphb.md) when you select a spell. If you do so, you can't use Divine Intervention again until you finish `2d4` Long Rests.
+
+## Player-Facing Summary
+
+Cleric xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of cleric xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb.
+
+## Adventure Hooks
+
+- A rumor ties cleric xphb to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at cleric xphb to avert a public scandal.
+- A map overlay reveals a hidden approach to cleric xphb active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

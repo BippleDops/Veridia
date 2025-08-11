@@ -173,3 +173,23 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 - [[Archon Meredith Saltweaver]]
 - [[Captain Garrett Stormcutter]]
 - [[New Tethys]]
+
+## Player-Facing Summary
+
+Enforcer Chief Mako Ironjaw is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Enforcer Chief Mako Ironjaw as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Enforcer Chief Mako Ironjaw.
+
+## Adventure Hooks
+
+- A rumor ties Enforcer Chief Mako Ironjaw to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Enforcer Chief Mako Ironjaw to avert a public scandal.
+- A map overlay reveals a hidden approach to Enforcer Chief Mako Ironjaw active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
+
+<!-- enriched: true -->

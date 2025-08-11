@@ -141,3 +141,23 @@ At an opportune time, the cultist tries to goad the character into a fight. She'
 As far as the other cultists, teamsters, and hired guards are concerned, this is a personal issue between these two. If the character backs down, everyone assumes the character is a coward and treats this character with disrespect for the rest of his or her time at the camp. If other characters jump into the fight at their companion's side, more cultists do the same (treat them as twelve [guards](/03_Mechanics/CLI/bestiary/humanoid/guard-xmm.md). Bog Luck and Ardred Briferhew prevent anyone else from joining in, but they don't mind watching some limited bloodshed to break the boredom.
 
 The cultist means to kill the character, and she will if she wins the duel (continuing to stab the body after the character is at 0 hit points) and no one stops her.
+
+## Player-Facing Summary
+
+06 chapter 5 construction ahead is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 06 chapter 5 construction ahead as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 5 construction ahead.
+
+## Adventure Hooks
+
+- A rumor ties 06 chapter 5 construction ahead to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 06 chapter 5 construction ahead to avert a public scandal.
+- A map overlay reveals a hidden approach to 06 chapter 5 construction ahead active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

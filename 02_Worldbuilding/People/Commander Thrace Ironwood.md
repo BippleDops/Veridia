@@ -521,3 +521,17 @@ Thrace plans a massive assault on the [[Crystal Festival]] that could kill thous
 - [[Quest - The Convergence Crisis]]
 - [[Quest - The Memory Bridge]]
 - [[Quest - The Shard-Shadow Resonance]]
+
+## Player-Facing Summary
+
+Commander Thrace Ironwood is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Commander Thrace Ironwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Commander Thrace Ironwood.
+
+## Cross-References
+
+- [[02_Worldbuilding/People/Commander Thrace Ironwood]]
+
+<!-- enriched: true -->

@@ -75,3 +75,23 @@ You might call for a Sanity saving throw when a character runs the risk of succu
 - Resisting an effect conferred by an attack or spell that deals psychic damage  
 
 A failed Sanity save might result in [short-term](/03_Mechanics/CLI/tables/short-term-madness.md), [long-term](/03_Mechanics/CLI/tables/long-term-madness.md), or [indefinite madness](/03_Mechanics/CLI/tables/indefinite-madness.md), as described in chapter 8, "Running the Game." Any time a character suffers from long-term or indefinite madness, the character's Sanity is reduced by 1. A [greater restoration](/03_Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore Sanity lost in this way, and a character can increase his or her Sanity through level advancement.
+
+## Player-Facing Summary
+
+New ability scores honor and sanity is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of new ability scores honor and sanity as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around new ability scores honor and sanity.
+
+## Adventure Hooks
+
+- A rumor ties new ability scores honor and sanity to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at new ability scores honor and sanity to avert a public scandal.
+- A map overlay reveals a hidden approach to new ability scores honor and sanity active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -40,3 +40,23 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 **Classes**: [Druid](/03_Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/03_Mechanics/CLI/lists/list-spells-classes-warlock.md); [Cleric (Nature Domain)](/03_Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB"); [Bard (College of Lore)](/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
 
 *Source: Xanathar's Guide to Everything p. 160*
+
+## Player-Facing Summary
+
+Magic stone xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of magic stone xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic stone xge.
+
+## Adventure Hooks
+
+- A rumor ties magic stone xge to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at magic stone xge to avert a public scandal.
+- A map overlay reveals a hidden approach to magic stone xge active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

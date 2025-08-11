@@ -40,3 +40,23 @@ Labelas Enoreth is the custodian of time, monitoring its passing and making sure
 Despite Labelas's influence in the Seldarine, elves can become psychologically immersed in their mortal incarnations, forgetting about the tick of time and the eventual end of their physical forms. Even Labelas's appearance, with his obvious signs of aging, isn't enough to dissuade some elves from growing attached to their youthful features, long life, and worldly treasures. But all such naive behavior is brought to heel when the Remembrance occurs, and an elf's inward examination begins as one journeys toward death and a new beginning. Priests of Labelas smile with compassion when these wide-eyed elves show up at their temples, suddenly full of contrition and offerings for Labelas, still shaken from the vision of their Remembrance and the gravity of its meaning.
 
 To enhance an elf's Remembrance, the priests of Labelas use a special mirror made of polished black onyx. Small versions of these can be seen at many shrines dedicated to the Seldarine, as a reminder to the passing faithful of the importance of Remembrance. The priests advise those in their care to look into the mirror in order to deepen the trance of Remembrance. In the black void of the mirror, they see the faces of their former selves and scenes from their past lives-a glimpse into the grand tapestry of the each soul's existence as Labelas begins to weave yet another incarnation.
+
+## Player-Facing Summary
+
+Elven labelas enoreth mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of elven labelas enoreth mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven labelas enoreth mtf.
+
+## Adventure Hooks
+
+- A rumor ties elven labelas enoreth mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at elven labelas enoreth mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to elven labelas enoreth mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

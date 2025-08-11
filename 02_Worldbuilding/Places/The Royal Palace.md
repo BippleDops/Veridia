@@ -151,3 +151,23 @@ The Royal Palace provides rich opportunities for political intrigue, diplomatic 
 - [[Port Meridian - Market Square]]
 - [[Port Meridian Harbor]]
 - [[The Shadow Markets]]
+
+## Player-Facing Summary
+
+The Royal Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Royal Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Royal Palace.
+
+## Adventure Hooks
+
+- A rumor ties The Royal Palace to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Royal Palace to avert a public scandal.
+- A map overlay reveals a hidden approach to The Royal Palace active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/The Royal Palace]]
+
+<!-- enriched: true -->

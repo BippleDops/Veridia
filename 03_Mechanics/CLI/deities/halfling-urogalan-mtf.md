@@ -29,3 +29,23 @@ Urogalan declared that all who have gone before still watch over their loved one
 As a divine being, Urogalan can move freely through the earth and across the planes of existence. He holds aloft a magic lantern that protects him on his journeys. With his black hound leading the way, Urogalan scours the multiverse and shepherds deceased halflings to their eternal home in the Green Fields.
 
 Unlike other halfling deities, Urogalan is surrounded by a cloud of melancholy. He is gaunt, with his dusky skin covered by white robes. Priests who venerate Urogalan emulate this practice of dress and demeanor.
+
+## Player-Facing Summary
+
+Halfling urogalan mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of halfling urogalan mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling urogalan mtf.
+
+## Adventure Hooks
+
+- A rumor ties halfling urogalan mtf to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at halfling urogalan mtf to avert a public scandal.
+- A map overlay reveals a hidden approach to halfling urogalan mtf active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

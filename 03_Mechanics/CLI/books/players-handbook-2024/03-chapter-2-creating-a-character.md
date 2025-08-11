@@ -519,3 +519,23 @@ If you have the Pact Magic feature from the Warlock class and the Spellcasting f
 ## Trinkets
 
 When you make your character, you can roll once on the [Trinkets](/03_Mechanics/CLI/items/trinket-xphb.md) table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
+
+## Player-Facing Summary
+
+03 chapter 2 creating a character is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 03 chapter 2 creating a character as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 2 creating a character.
+
+## Adventure Hooks
+
+- A rumor ties 03 chapter 2 creating a character to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 03 chapter 2 creating a character to avert a public scandal.
+- A map overlay reveals a hidden approach to 03 chapter 2 creating a character active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

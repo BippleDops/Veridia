@@ -75,3 +75,23 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | 5 | 7 | 5 | 7 | 5 | 7 | 6 | 7 | 6 | 6 | Score Needed for Support |
 ^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
+
+## Player-Facing Summary
+
+11 appendix b council scorecard is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 11 appendix b council scorecard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 appendix b council scorecard.
+
+## Adventure Hooks
+
+- A rumor ties 11 appendix b council scorecard to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 11 appendix b council scorecard to avert a public scandal.
+- A map overlay reveals a hidden approach to 11 appendix b council scorecard active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

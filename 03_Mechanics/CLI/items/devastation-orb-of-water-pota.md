@@ -34,3 +34,23 @@ Regardless of the type of orb, its effect is contained within a sphere with a 1 
 When this orb detonates, it creates a torrential rainstorm that lasts for 24 hours. Within the area of effect, the rules for [heavy precipitation](/03_Mechanics/CLI/traps-hazards/heavy-precipitation-xdmg.md) apply, as detailed in chapter 5 of the Dungeon Master's Guide. If there is a substantial body of water in the area, it floods after `2d10` hours of heavy rain, rising 10 feet above its banks and inundating the surrounding area. The flood advances at a rate of 100 feet per round, moving away from the body of water where it began until it reaches the edge of the area of effect: at that point, the water flows downhill (and possibly recedes back to its origin). Light structures collapse and wash away. Any Large or smaller creature caught in the flood's path is swept away. The flooding destroys crops and might trigger mudslides, depending on the terrain.
 
 *Source: Princes of the Apocalypse p. 222*
+
+## Player-Facing Summary
+
+Devastation orb of water pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of devastation orb of water pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devastation orb of water pota.
+
+## Adventure Hooks
+
+- A rumor ties devastation orb of water pota to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at devastation orb of water pota to avert a public scandal.
+- A map overlay reveals a hidden approach to devastation orb of water pota active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

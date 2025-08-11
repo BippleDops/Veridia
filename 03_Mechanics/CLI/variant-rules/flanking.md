@@ -25,3 +25,23 @@ When in doubt about whether two creatures flank an enemy on a grid, trace an ima
 ## Flanking on Hexes
 
 When a creature and at least one of its allies are adjacent to an enemy and on opposite sides of the enemy's space, they flank that enemy, and each of them has advantage on attack rolls against that enemy. On hexes, count around the enemy from one creature to its ally. Against a Medium or smaller creature, the allies flank if there are 2 hexes between them. Against a Large creature, the allies flank if there are 4 hexes between them. Against a Huge creature, they must have 5 hexes between them. Against a Gargantuan creature, they must have at least 6 hexes between them.
+
+## Player-Facing Summary
+
+Flanking is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of flanking as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flanking.
+
+## Adventure Hooks
+
+- A rumor ties flanking to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at flanking to avert a public scandal.
+- A map overlay reveals a hidden approach to flanking active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

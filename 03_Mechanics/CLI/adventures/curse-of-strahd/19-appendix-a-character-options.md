@@ -19,3 +19,23 @@ During character creation, players can select the following background for their
 ## Gothic Trinkets
 
 When rolling for a trinket, consider using the [Gothic Trinkets table](/03_Mechanics/CLI/items/trinket-cos.md), which is designed for a gothic game.
+
+## Player-Facing Summary
+
+19 appendix a character options is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 19 appendix a character options as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 19 appendix a character options.
+
+## Adventure Hooks
+
+- A rumor ties 19 appendix a character options to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 19 appendix a character options to avert a public scandal.
+- A map overlay reveals a hidden approach to 19 appendix a character options active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

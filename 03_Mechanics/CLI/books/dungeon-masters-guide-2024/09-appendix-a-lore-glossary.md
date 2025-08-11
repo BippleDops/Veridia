@@ -371,3 +371,23 @@ The archmage Zagig Yragerne *(ZAG-igg EE-rag-airn)* was an adventurer in the Gre
 ## Zargon
 
 Zargon *(ZAR-gawn)* is an "Elder Evil"—an undying abomination from eons past with an insatiable appetite. A tentacled, slime-covered horror with a cyclopic red eye and an indestructible horn, Zargon corrupts creatures it doesn't devour, transforming its victims into amorphous servants. Zargon is imprisoned on the Material Plane in a prison deep in the earth. This prison is described in the Quests from the Infinite Staircase adventure anthology.
+
+## Player-Facing Summary
+
+09 appendix a lore glossary is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of 09 appendix a lore glossary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 appendix a lore glossary.
+
+## Adventure Hooks
+
+- A rumor ties 09 appendix a lore glossary to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at 09 appendix a lore glossary to avert a public scandal.
+- A map overlay reveals a hidden approach to 09 appendix a lore glossary active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

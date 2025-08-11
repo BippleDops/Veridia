@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Discover Marina.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    }
+  ],
+  "edges": []
+}

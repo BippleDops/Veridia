@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/Commander Varek Irontrident.md",
+      "x": 0,
+      "y": 0,
+      "width": 460,
+      "height": 140
+    },
+    {
+      "id": "n_02-worldbuilding-people-nerissa-deepcurrent-md_300",
+      "type": "file",
+      "file": "02_Worldbuilding/People/Nerissa_Deepcurrent.md",
+      "x": -520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-places-pearl-harbor-city-md_220",
+      "type": "file",
+      "file": "02_Worldbuilding/Places/Pearl_Harbor_City.md",
+      "x": 0,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    },
+    {
+      "id": "n_02-worldbuilding-quests-the-second-rising-md_740",
+      "type": "file",
+      "file": "02_Worldbuilding/Quests/The_Second_Rising.md",
+      "x": 520,
+      "y": 220,
+      "width": 380,
+      "height": 120
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_0",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-people-nerissa-deepcurrent-md_300"
+    },
+    {
+      "id": "e_1",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-places-pearl-harbor-city-md_220"
+    },
+    {
+      "id": "e_2",
+      "fromNode": "root",
+      "toNode": "n_02-worldbuilding-quests-the-second-rising-md_740"
+    }
+  ]
+}

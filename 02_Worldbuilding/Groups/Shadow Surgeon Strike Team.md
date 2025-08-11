@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgeon-strike-team-shadow-surgeon-strike-team.svg)
+
+
 
 # Shadow Surgeon Strike Team
 *The Scalpel Squadron, Surgical Assassins, Doctors of Death*

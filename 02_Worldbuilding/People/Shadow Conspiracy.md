@@ -23,6 +23,10 @@ influence: Extensive
 secrecy_level: Maximum
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
+
+
 
 
 # Shadow Conspiracy

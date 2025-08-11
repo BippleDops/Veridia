@@ -9,6 +9,10 @@ tags:
 type: Group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-forsaken-consortium-collective-the-forsaken-consortium-collective.svg)
+
+
 
 
 

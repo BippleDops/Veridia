@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg)
+
+
 
 
 # Purist Coalition Thugs

@@ -2,6 +2,9 @@
 
 %% Use reading mode for visual gallery %%
 
+## item-artifact-1-ammunition-xdmg-1-ammunition-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-1-ammunition-xdmg-1-ammunition-xdmg.svg)
+
 ## item-artifact-1-armor-xdmg-1-armor-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg)
 
@@ -20,8 +23,14 @@
 ## item-artifact-2-wraps-of-unarmed-power-xdmg-2-wraps-of-unarmed-power-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-2-wraps-of-unarmed-power-xdmg-2-wraps-of-unarmed-power-xdmg.svg)
 
+## item-artifact-3-ammunition-xdmg-3-ammunition-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-3-ammunition-xdmg-3-ammunition-xdmg.svg)
+
 ## item-artifact-3-wand-of-the-war-mage-xdmg-3-wand-of-the-war-mage-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-3-wand-of-the-war-mage-xdmg-3-wand-of-the-war-mage-xdmg.svg)
+
+## item-artifact-adamantine-weapon-xdmg-adamantine-weapon-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-adamantine-weapon-xdmg-adamantine-weapon-xdmg.svg)
 
 ## item-artifact-airship-xphb-airship-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-airship-xphb-airship-xphb.svg)
@@ -32,11 +41,20 @@
 ## item-artifact-alchemists-supplies-xphb-alchemists-supplies-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-alchemists-supplies-xphb-alchemists-supplies-xphb.svg)
 
+## item-artifact-amber-xdmg-amber-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-amber-xdmg-amber-xdmg.svg)
+
 ## item-artifact-ammunition-of-slaying-xdmg-ammunition-of-slaying-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-ammunition-of-slaying-xdmg-ammunition-of-slaying-xdmg.svg)
 
 ## item-artifact-antimatter-rifle-xdmg-antimatter-rifle-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-antimatter-rifle-xdmg-antimatter-rifle-xdmg.svg)
+
+## item-artifact-apparatus-of-kwalish-xdmg-apparatus-of-kwalish-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-apparatus-of-kwalish-xdmg-apparatus-of-kwalish-xdmg.svg)
+
+## item-artifact-aquamarine-xdmg-aquamarine-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-aquamarine-xdmg-aquamarine-xdmg.svg)
 
 ## item-artifact-armor-of-fire-resistance-xdmg-armor-of-fire-resistance-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-armor-of-fire-resistance-xdmg-armor-of-fire-resistance-xdmg.svg)
@@ -47,14 +65,26 @@
 ## item-artifact-armor-of-poison-resistance-xdmg-armor-of-poison-resistance-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-armor-of-poison-resistance-xdmg-armor-of-poison-resistance-xdmg.svg)
 
+## item-artifact-armor-of-radiant-resistance-xdmg-armor-of-radiant-resistance-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-armor-of-radiant-resistance-xdmg-armor-of-radiant-resistance-xdmg.svg)
+
 ## item-artifact-armor-of-vulnerability-slashing-xdmg-armor-of-vulnerability-slashing-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-armor-of-vulnerability-slashing-xdmg-armor-of-vulnerability-slashing-xdmg.svg)
 
 ## item-artifact-baba-yagas-dancing-broom-xdmg-baba-yagas-dancing-broom-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-baba-yagas-dancing-broom-xdmg-baba-yagas-dancing-broom-xdmg.svg)
 
+## item-artifact-bag-of-tricks-gray-xdmg-bag-of-tricks-gray-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-bag-of-tricks-gray-xdmg-bag-of-tricks-gray-xdmg.svg)
+
 ## item-artifact-bag-of-tricks-xdmg-bag-of-tricks-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-bag-of-tricks-xdmg-bag-of-tricks-xdmg.svg)
+
+## item-artifact-balloon-pack-pota-balloon-pack-pota
+![](04_Resources/Assets/Generated/Items/item-artifact-balloon-pack-pota-balloon-pack-pota.svg)
+
+## item-artifact-banded-agate-xdmg-banded-agate-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-banded-agate-xdmg-banded-agate-xdmg.svg)
 
 ## item-artifact-basket-xphb-basket-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-basket-xphb-basket-xphb.svg)
@@ -74,6 +104,9 @@
 ## item-artifact-belt-of-giant-strength-xdmg-belt-of-giant-strength-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-belt-of-giant-strength-xdmg-belt-of-giant-strength-xdmg.svg)
 
+## item-artifact-bit-and-bridle-bit-and-bridle
+![](04_Resources/Assets/Generated/Items/item-artifact-bit-and-bridle-bit-and-bridle.svg)
+
 ## item-artifact-black-dragon-mask-hotdq-black-dragon-mask-hotdq
 ![](04_Resources/Assets/Generated/Items/item-artifact-black-dragon-mask-hotdq-black-dragon-mask-hotdq.svg)
 
@@ -83,8 +116,14 @@
 ## item-artifact-block-and-tackle-xphb-block-and-tackle-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-block-and-tackle-xphb-block-and-tackle-xphb.svg)
 
+## item-artifact-bloodstone-xdmg-bloodstone-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-bloodstone-xdmg-bloodstone-xdmg.svg)
+
 ## item-artifact-blowgun-xphb-blowgun-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-blowgun-xphb-blowgun-xphb.svg)
+
+## item-artifact-blue-sapphire-xdmg-blue-sapphire-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-blue-sapphire-xdmg-blue-sapphire-xdmg.svg)
 
 ## item-artifact-blue-spinel-xdmg-blue-spinel-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-blue-spinel-xdmg-blue-spinel-xdmg.svg)
@@ -92,11 +131,17 @@
 ## item-artifact-bolt-xphb-bolt-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-bolt-xphb-bolt-xphb.svg)
 
+## item-artifact-bolts-20-xphb-bolts-20-xphb
+![](04_Resources/Assets/Generated/Items/item-artifact-bolts-20-xphb-bolts-20-xphb.svg)
+
 ## item-artifact-boots-of-false-tracks-xdmg-boots-of-false-tracks-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-boots-of-false-tracks-xdmg-boots-of-false-tracks-xdmg.svg)
 
 ## item-artifact-boots-of-levitation-xdmg-boots-of-levitation-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-boots-of-levitation-xdmg-boots-of-levitation-xdmg.svg)
+
+## item-artifact-boots-of-striding-and-springing-xdmg-boots-of-striding-and-springing-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-boots-of-striding-and-springing-xdmg-boots-of-striding-and-springing-xdmg.svg)
 
 ## item-artifact-box-of-turquoise-animal-figurines-xdmg-box-of-turquoise-animal-figurines-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-box-of-turquoise-animal-figurines-xdmg-box-of-turquoise-animal-figurines-xdmg.svg)
@@ -122,6 +167,12 @@
 ## item-artifact-calligraphers-supplies-xphb-calligraphers-supplies-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-calligraphers-supplies-xphb-calligraphers-supplies-xphb.svg)
 
+## item-artifact-candle-of-invocation-xdmg-candle-of-invocation-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-candle-of-invocation-xdmg-candle-of-invocation-xdmg.svg)
+
+## item-artifact-candle-of-the-deep-xdmg-candle-of-the-deep-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-candle-of-the-deep-xdmg-candle-of-the-deep-xdmg.svg)
+
 ## item-artifact-candle-xphb-candle-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-candle-xphb-candle-xphb.svg)
 
@@ -131,11 +182,26 @@
 ## item-artifact-cape-of-the-mountebank-xdmg-cape-of-the-mountebank-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-cape-of-the-mountebank-xdmg-cape-of-the-mountebank-xdmg.svg)
 
+## item-artifact-carpenters-tools-xphb-carpenters-tools-xphb
+![](04_Resources/Assets/Generated/Items/item-artifact-carpenters-tools-xphb-carpenters-tools-xphb.svg)
+
+## item-artifact-carved-bone-statuette-xdmg-carved-bone-statuette-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-carved-bone-statuette-xdmg-carved-bone-statuette-xdmg.svg)
+
 ## item-artifact-cast-off-armor-xdmg-cast-off-armor-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-cast-off-armor-xdmg-cast-off-armor-xdmg.svg)
 
+## item-artifact-catapult-munition-scc-catapult-munition-scc
+![](04_Resources/Assets/Generated/Items/item-artifact-catapult-munition-scc-catapult-munition-scc.svg)
+
+## item-artifact-ceremonial-gold-armor-with-black-pearls-xdmg-ceremonial-gold-armor-with-black-pearls-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-ceremonial-gold-armor-with-black-pearls-xdmg-ceremonial-gold-armor-with-black-pearls-xdmg.svg)
+
 ## item-artifact-chariot-xphb-chariot-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-chariot-xphb-chariot-xphb.svg)
+
+## item-artifact-charlatans-die-xdmg-charlatans-die-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-charlatans-die-xdmg-charlatans-die-xdmg.svg)
 
 ## item-artifact-cheese-wedge-xphb-cheese-wedge-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-cheese-wedge-xphb-cheese-wedge-xphb.svg)
@@ -155,6 +221,12 @@
 ## item-artifact-cloak-of-displacement-xdmg-cloak-of-displacement-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-cloak-of-displacement-xdmg-cloak-of-displacement-xdmg.svg)
 
+## item-artifact-cloak-of-the-bat-xdmg-cloak-of-the-bat-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-cloak-of-the-bat-xdmg-cloak-of-the-bat-xdmg.svg)
+
+## item-artifact-clothes-of-mending-xdmg-clothes-of-mending-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-clothes-of-mending-xdmg-clothes-of-mending-xdmg.svg)
+
 ## item-artifact-club-xphb-club-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-club-xphb-club-xphb.svg)
 
@@ -167,11 +239,17 @@
 ## item-artifact-cooks-utensils-xphb-cooks-utensils-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-cooks-utensils-xphb-cooks-utensils-xphb.svg)
 
+## item-artifact-copper-cp-copper-cp
+![](04_Resources/Assets/Generated/Items/item-artifact-copper-cp-copper-cp.svg)
+
 ## item-artifact-copper-xdmg-copper-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-copper-xdmg-copper-xdmg.svg)
 
 ## item-artifact-costume-xphb-costume-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-costume-xphb-costume-xphb.svg)
+
+## item-artifact-cotton-cloth-1-sq-yd-xdmg-cotton-cloth-1-sq-yd-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-cotton-cloth-1-sq-yd-xdmg-cotton-cloth-1-sq-yd-xdmg.svg)
 
 ## item-artifact-crystal-ball-of-telepathy-xdmg-crystal-ball-of-telepathy-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-crystal-ball-of-telepathy-xdmg-crystal-ball-of-telepathy-xdmg.svg)
@@ -181,6 +259,15 @@
 
 ## item-artifact-dagger-xphb-dagger-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-dagger-xphb-dagger-xphb.svg)
+
+## item-artifact-dart-xphb-dart-xphb
+![](04_Resources/Assets/Generated/Items/item-artifact-dart-xphb-dart-xphb.svg)
+
+## item-artifact-dawnbringer-oota-dawnbringer-oota
+![](04_Resources/Assets/Generated/Items/item-artifact-dawnbringer-oota-dawnbringer-oota.svg)
+
+## item-artifact-deck-of-many-things-xdmg-deck-of-many-things-xdmg
+![](04_Resources/Assets/Generated/Items/item-artifact-deck-of-many-things-xdmg-deck-of-many-things-xdmg.svg)
 
 ## item-artifact-demonomicon-of-iggwilv-xdmg-demonomicon-of-iggwilv-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-demonomicon-of-iggwilv-xdmg-demonomicon-of-iggwilv-xdmg.svg)
@@ -194,6 +281,9 @@
 ## item-artifact-devastation-orb-of-water-pota-devastation-orb-of-water-pota
 ![](04_Resources/Assets/Generated/Items/item-artifact-devastation-orb-of-water-pota-devastation-orb-of-water-pota.svg)
 
+## item-artifact-devastation-orb-pota-devastation-orb-pota
+![](04_Resources/Assets/Generated/Items/item-artifact-devastation-orb-pota-devastation-orb-pota.svg)
+
 ## item-artifact-diamond-xdmg-diamond-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-diamond-xdmg-diamond-xdmg.svg)
 
@@ -206,8 +296,14 @@
 ## item-artifact-diplomats-pack-xphb-diplomats-pack-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-diplomats-pack-xphb-diplomats-pack-xphb.svg)
 
+## item-artifact-disguise-kit-xphb-disguise-kit-xphb
+![](04_Resources/Assets/Generated/Items/item-artifact-disguise-kit-xphb-disguise-kit-xphb.svg)
+
 ## item-artifact-dragonchess-set-xphb-dragonchess-set-xphb
 ![](04_Resources/Assets/Generated/Items/item-artifact-dragonchess-set-xphb-dragonchess-set-xphb.svg)
+
+## item-artifact-dragontooth-dagger-rot-dragontooth-dagger-rot
+![](04_Resources/Assets/Generated/Items/item-artifact-dragontooth-dagger-rot-dragontooth-dagger-rot.svg)
 
 ## item-artifact-dread-helm-xdmg-dread-helm-xdmg
 ![](04_Resources/Assets/Generated/Items/item-artifact-dread-helm-xdmg-dread-helm-xdmg.svg)

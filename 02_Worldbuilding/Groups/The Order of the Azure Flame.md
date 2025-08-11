@@ -19,6 +19,10 @@ updated: '2025-08-11T13:08:51.529742+00:00'
 status: draft
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-order-of-the-azure-flame-the-order-of-the-azure-flame.svg)
+
+
 
 
 # The Order of the Azure Flame

@@ -26,6 +26,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:51.313481+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-ancient-mer-folk-empire-ancient-mer-folk-empire.svg)
+
+
 
 
 

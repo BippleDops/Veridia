@@ -16,6 +16,10 @@ category: Group
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgeons-collective-shadow-surgeons-collective.svg)
+
+
 
 
 

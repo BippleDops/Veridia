@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg)
+
+
 
 
 

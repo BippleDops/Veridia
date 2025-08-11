@@ -41,6 +41,10 @@ themes:
 - masterwork_tradition
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-artificers-guild-master-artificers-guild.svg)
+
+
 
 
 # Master Artificers Guild

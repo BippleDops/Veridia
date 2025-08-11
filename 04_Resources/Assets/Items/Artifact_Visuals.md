@@ -3,10 +3,10 @@
 ```json
 [
   {
-    "id": "artifact-bolt-xphb",
+    "id": "artifact-banded-agate-xdmg",
     "type": "item",
-    "name": "bolt-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bolt-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "banded-agate-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: banded-agate-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -26,14 +26,14 @@
       "anime"
     ],
     "seed": 2001,
-    "alt_text": "Artifact bolt-xphb with materials, runes, and scale.",
+    "alt_text": "Artifact banded-agate-xdmg with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-diplomats-pack-xphb",
+    "id": "artifact-copper-cp",
     "type": "item",
-    "name": "diplomats-pack-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: diplomats-pack-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "copper-cp",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: copper-cp, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -53,14 +53,14 @@
       "anime"
     ],
     "seed": 2002,
-    "alt_text": "Artifact diplomats-pack-xphb with materials, runes, and scale.",
+    "alt_text": "Artifact copper-cp with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-bag-of-tricks-xdmg",
+    "id": "artifact-candle-of-invocation-xdmg",
     "type": "item",
-    "name": "bag-of-tricks-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bag-of-tricks-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "candle-of-invocation-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: candle-of-invocation-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -80,14 +80,14 @@
       "anime"
     ],
     "seed": 2003,
-    "alt_text": "Artifact bag-of-tricks-xdmg with materials, runes, and scale.",
+    "alt_text": "Artifact candle-of-invocation-xdmg with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-dragonchess-set-xphb",
+    "id": "artifact-bloodstone-xdmg",
     "type": "item",
-    "name": "dragonchess-set-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dragonchess-set-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "bloodstone-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bloodstone-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -107,14 +107,14 @@
       "anime"
     ],
     "seed": 2004,
-    "alt_text": "Artifact dragonchess-set-xphb with materials, runes, and scale.",
+    "alt_text": "Artifact bloodstone-xdmg with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-diamond-xdmg",
+    "id": "artifact-candle-of-the-deep-xdmg",
     "type": "item",
-    "name": "diamond-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: diamond-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "candle-of-the-deep-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: candle-of-the-deep-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -134,849 +134,7 @@
       "anime"
     ],
     "seed": 2005,
-    "alt_text": "Artifact diamond-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-2-rod-of-the-pact-keeper-xdmg",
-    "type": "item",
-    "name": "2-rod-of-the-pact-keeper-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: 2-rod-of-the-pact-keeper-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2006,
-    "alt_text": "Artifact 2-rod-of-the-pact-keeper-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-boots-of-levitation-xdmg",
-    "type": "item",
-    "name": "boots-of-levitation-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: boots-of-levitation-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2007,
-    "alt_text": "Artifact boots-of-levitation-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-chunk-of-meat",
-    "type": "item",
-    "name": "chunk-of-meat",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: chunk-of-meat, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2008,
-    "alt_text": "Artifact chunk-of-meat with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-cheese-wedge-xphb",
-    "type": "item",
-    "name": "cheese-wedge-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: cheese-wedge-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2009,
-    "alt_text": "Artifact cheese-wedge-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-burnt-othur-fumes-xdmg",
-    "type": "item",
-    "name": "burnt-othur-fumes-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: burnt-othur-fumes-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2010,
-    "alt_text": "Artifact burnt-othur-fumes-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-blowgun-xphb",
-    "type": "item",
-    "name": "blowgun-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: blowgun-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2011,
-    "alt_text": "Artifact blowgun-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-devastation-orb-of-earth-pota",
-    "type": "item",
-    "name": "devastation-orb-of-earth-pota",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: devastation-orb-of-earth-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2012,
-    "alt_text": "Artifact devastation-orb-of-earth-pota with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-chariot-xphb",
-    "type": "item",
-    "name": "chariot-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: chariot-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2013,
-    "alt_text": "Artifact chariot-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-drow-1-armor-mm",
-    "type": "item",
-    "name": "drow-1-armor-mm",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: drow-1-armor-mm, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2014,
-    "alt_text": "Artifact drow-1-armor-mm with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-armor-of-lightning-resistance-xdmg",
-    "type": "item",
-    "name": "armor-of-lightning-resistance-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: armor-of-lightning-resistance-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2015,
-    "alt_text": "Artifact armor-of-lightning-resistance-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-climbers-kit-xphb",
-    "type": "item",
-    "name": "climbers-kit-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: climbers-kit-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2016,
-    "alt_text": "Artifact climbers-kit-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-alchemists-fire-xphb",
-    "type": "item",
-    "name": "alchemists-fire-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: alchemists-fire-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2017,
-    "alt_text": "Artifact alchemists-fire-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-antimatter-rifle-xdmg",
-    "type": "item",
-    "name": "antimatter-rifle-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: antimatter-rifle-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2018,
-    "alt_text": "Artifact antimatter-rifle-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-armor-of-vulnerability-slashing-xdmg",
-    "type": "item",
-    "name": "armor-of-vulnerability-slashing-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: armor-of-vulnerability-slashing-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2019,
-    "alt_text": "Artifact armor-of-vulnerability-slashing-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-canvas-1-sq-yd-xdmg",
-    "type": "item",
-    "name": "canvas-1-sq-yd-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: canvas-1-sq-yd-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2020,
-    "alt_text": "Artifact canvas-1-sq-yd-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  }
-]
-```
-
-```json
-[
-  {
-    "id": "artifact-dice-set-xphb",
-    "type": "item",
-    "name": "dice-set-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dice-set-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2021,
-    "alt_text": "Artifact dice-set-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-command-amulet-xmm",
-    "type": "item",
-    "name": "command-amulet-xmm",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: command-amulet-xmm, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2022,
-    "alt_text": "Artifact command-amulet-xmm with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-dungeoneers-pack-xphb",
-    "type": "item",
-    "name": "dungeoneers-pack-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dungeoneers-pack-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2023,
-    "alt_text": "Artifact dungeoneers-pack-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-claws-of-the-umber-hulk-pota",
-    "type": "item",
-    "name": "claws-of-the-umber-hulk-pota",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: claws-of-the-umber-hulk-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2024,
-    "alt_text": "Artifact claws-of-the-umber-hulk-pota with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-blue-spinel-xdmg",
-    "type": "item",
-    "name": "blue-spinel-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: blue-spinel-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2025,
-    "alt_text": "Artifact blue-spinel-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-brooch-of-shielding-xdmg",
-    "type": "item",
-    "name": "brooch-of-shielding-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: brooch-of-shielding-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2026,
-    "alt_text": "Artifact brooch-of-shielding-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-dread-helm-xdmg",
-    "type": "item",
-    "name": "dread-helm-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dread-helm-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2027,
-    "alt_text": "Artifact dread-helm-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-belt-of-dwarvenkind-xdmg",
-    "type": "item",
-    "name": "belt-of-dwarvenkind-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: belt-of-dwarvenkind-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2028,
-    "alt_text": "Artifact belt-of-dwarvenkind-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-cloak-of-displacement-xdmg",
-    "type": "item",
-    "name": "cloak-of-displacement-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: cloak-of-displacement-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2029,
-    "alt_text": "Artifact cloak-of-displacement-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-belt-of-giant-strength-xdmg",
-    "type": "item",
-    "name": "belt-of-giant-strength-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: belt-of-giant-strength-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2030,
-    "alt_text": "Artifact belt-of-giant-strength-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-dimensional-shackles-xdmg",
-    "type": "item",
-    "name": "dimensional-shackles-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dimensional-shackles-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2031,
-    "alt_text": "Artifact dimensional-shackles-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-crystal-ball-of-telepathy-xdmg",
-    "type": "item",
-    "name": "crystal-ball-of-telepathy-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: crystal-ball-of-telepathy-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2032,
-    "alt_text": "Artifact crystal-ball-of-telepathy-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-demonomicon-of-iggwilv-xdmg",
-    "type": "item",
-    "name": "demonomicon-of-iggwilv-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: demonomicon-of-iggwilv-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2033,
-    "alt_text": "Artifact demonomicon-of-iggwilv-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-baba-yagas-dancing-broom-xdmg",
-    "type": "item",
-    "name": "baba-yagas-dancing-broom-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: baba-yagas-dancing-broom-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2034,
-    "alt_text": "Artifact baba-yagas-dancing-broom-xdmg with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-dagger-xphb",
-    "type": "item",
-    "name": "dagger-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dagger-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2035,
-    "alt_text": "Artifact dagger-xphb with materials, runes, and scale.",
-    "realm": "aquabyssos"
-  },
-  {
-    "id": "artifact-boots-of-false-tracks-xdmg",
-    "type": "item",
-    "name": "boots-of-false-tracks-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: boots-of-false-tracks-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2036,
-    "alt_text": "Artifact boots-of-false-tracks-xdmg with materials, runes, and scale.",
+    "alt_text": "Artifact candle-of-the-deep-xdmg with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
@@ -1002,15 +160,857 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2037,
+    "seed": 2006,
     "alt_text": "Artifact crystal-xphb with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-2-wand-of-the-war-mage-xdmg",
+    "id": "artifact-disguise-kit-xphb",
     "type": "item",
-    "name": "2-wand-of-the-war-mage-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: 2-wand-of-the-war-mage-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "disguise-kit-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: disguise-kit-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2007,
+    "alt_text": "Artifact disguise-kit-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-bag-of-tricks-gray-xdmg",
+    "type": "item",
+    "name": "bag-of-tricks-gray-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bag-of-tricks-gray-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2008,
+    "alt_text": "Artifact bag-of-tricks-gray-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-1-armor-xdmg",
+    "type": "item",
+    "name": "1-armor-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: 1-armor-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2009,
+    "alt_text": "Artifact 1-armor-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-3-ammunition-xdmg",
+    "type": "item",
+    "name": "3-ammunition-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: 3-ammunition-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2010,
+    "alt_text": "Artifact 3-ammunition-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-cooks-utensils-xphb",
+    "type": "item",
+    "name": "cooks-utensils-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: cooks-utensils-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2011,
+    "alt_text": "Artifact cooks-utensils-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-boots-of-striding-and-springing-xdmg",
+    "type": "item",
+    "name": "boots-of-striding-and-springing-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: boots-of-striding-and-springing-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2012,
+    "alt_text": "Artifact boots-of-striding-and-springing-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-1-ammunition-xdmg",
+    "type": "item",
+    "name": "1-ammunition-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: 1-ammunition-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2013,
+    "alt_text": "Artifact 1-ammunition-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-cloak-of-the-bat-xdmg",
+    "type": "item",
+    "name": "cloak-of-the-bat-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: cloak-of-the-bat-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2014,
+    "alt_text": "Artifact cloak-of-the-bat-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-amber-xdmg",
+    "type": "item",
+    "name": "amber-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: amber-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2015,
+    "alt_text": "Artifact amber-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-blue-sapphire-xdmg",
+    "type": "item",
+    "name": "blue-sapphire-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: blue-sapphire-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2016,
+    "alt_text": "Artifact blue-sapphire-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-dart-xphb",
+    "type": "item",
+    "name": "dart-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dart-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2017,
+    "alt_text": "Artifact dart-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-burnt-othur-fumes-xdmg",
+    "type": "item",
+    "name": "burnt-othur-fumes-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: burnt-othur-fumes-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2018,
+    "alt_text": "Artifact burnt-othur-fumes-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-diplomats-pack-xphb",
+    "type": "item",
+    "name": "diplomats-pack-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: diplomats-pack-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2019,
+    "alt_text": "Artifact diplomats-pack-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-armor-of-radiant-resistance-xdmg",
+    "type": "item",
+    "name": "armor-of-radiant-resistance-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: armor-of-radiant-resistance-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2020,
+    "alt_text": "Artifact armor-of-radiant-resistance-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  }
+]
+```
+
+```json
+[
+  {
+    "id": "artifact-bolts-20-xphb",
+    "type": "item",
+    "name": "bolts-20-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bolts-20-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2021,
+    "alt_text": "Artifact bolts-20-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-apparatus-of-kwalish-xdmg",
+    "type": "item",
+    "name": "apparatus-of-kwalish-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: apparatus-of-kwalish-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2022,
+    "alt_text": "Artifact apparatus-of-kwalish-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-carpenters-tools-xphb",
+    "type": "item",
+    "name": "carpenters-tools-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: carpenters-tools-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2023,
+    "alt_text": "Artifact carpenters-tools-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-dungeoneers-pack-xphb",
+    "type": "item",
+    "name": "dungeoneers-pack-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dungeoneers-pack-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2024,
+    "alt_text": "Artifact dungeoneers-pack-xphb with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-bit-and-bridle",
+    "type": "item",
+    "name": "bit-and-bridle",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bit-and-bridle, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2025,
+    "alt_text": "Artifact bit-and-bridle with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-carved-bone-statuette-xdmg",
+    "type": "item",
+    "name": "carved-bone-statuette-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: carved-bone-statuette-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2026,
+    "alt_text": "Artifact carved-bone-statuette-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-cotton-cloth-1-sq-yd-xdmg",
+    "type": "item",
+    "name": "cotton-cloth-1-sq-yd-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: cotton-cloth-1-sq-yd-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2027,
+    "alt_text": "Artifact cotton-cloth-1-sq-yd-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-dawnbringer-oota",
+    "type": "item",
+    "name": "dawnbringer-oota",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dawnbringer-oota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2028,
+    "alt_text": "Artifact dawnbringer-oota with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-diamond-xdmg",
+    "type": "item",
+    "name": "diamond-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: diamond-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2029,
+    "alt_text": "Artifact diamond-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-catapult-munition-scc",
+    "type": "item",
+    "name": "catapult-munition-scc",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: catapult-munition-scc, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2030,
+    "alt_text": "Artifact catapult-munition-scc with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-charlatans-die-xdmg",
+    "type": "item",
+    "name": "charlatans-die-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: charlatans-die-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2031,
+    "alt_text": "Artifact charlatans-die-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-ceremonial-gold-armor-with-black-pearls-xdmg",
+    "type": "item",
+    "name": "ceremonial-gold-armor-with-black-pearls-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: ceremonial-gold-armor-with-black-pearls-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2032,
+    "alt_text": "Artifact ceremonial-gold-armor-with-black-pearls-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-deck-of-many-things-xdmg",
+    "type": "item",
+    "name": "deck-of-many-things-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: deck-of-many-things-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2033,
+    "alt_text": "Artifact deck-of-many-things-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-balloon-pack-pota",
+    "type": "item",
+    "name": "balloon-pack-pota",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: balloon-pack-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2034,
+    "alt_text": "Artifact balloon-pack-pota with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-adamantine-weapon-xdmg",
+    "type": "item",
+    "name": "adamantine-weapon-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: adamantine-weapon-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2035,
+    "alt_text": "Artifact adamantine-weapon-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-clothes-of-mending-xdmg",
+    "type": "item",
+    "name": "clothes-of-mending-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: clothes-of-mending-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2036,
+    "alt_text": "Artifact clothes-of-mending-xdmg with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-dragontooth-dagger-rot",
+    "type": "item",
+    "name": "dragontooth-dagger-rot",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: dragontooth-dagger-rot, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2037,
+    "alt_text": "Artifact dragontooth-dagger-rot with materials, runes, and scale.",
+    "realm": "aquabyssos"
+  },
+  {
+    "id": "artifact-devastation-orb-pota",
+    "type": "item",
+    "name": "devastation-orb-pota",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: devastation-orb-pota, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -1030,14 +1030,14 @@
       "anime"
     ],
     "seed": 2038,
-    "alt_text": "Artifact 2-wand-of-the-war-mage-xdmg with materials, runes, and scale.",
+    "alt_text": "Artifact devastation-orb-pota with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-costume-xphb",
+    "id": "artifact-aquamarine-xdmg",
     "type": "item",
-    "name": "costume-xphb",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: costume-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "aquamarine-xdmg",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: aquamarine-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -1057,14 +1057,14 @@
       "anime"
     ],
     "seed": 2039,
-    "alt_text": "Artifact costume-xphb with materials, runes, and scale.",
+    "alt_text": "Artifact aquamarine-xdmg with materials, runes, and scale.",
     "realm": "aquabyssos"
   },
   {
-    "id": "artifact-bejeweled-gold-bracelet-xdmg",
+    "id": "artifact-alchemists-supplies-xphb",
     "type": "item",
-    "name": "bejeweled-gold-bracelet-xdmg",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: bejeweled-gold-bracelet-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "alchemists-supplies-xphb",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Detailed artifact: alchemists-supplies-xphb, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -1084,7 +1084,7 @@
       "anime"
     ],
     "seed": 2040,
-    "alt_text": "Artifact bejeweled-gold-bracelet-xdmg with materials, runes, and scale.",
+    "alt_text": "Artifact alchemists-supplies-xphb with materials, runes, and scale.",
     "realm": "aquabyssos"
   }
 ]

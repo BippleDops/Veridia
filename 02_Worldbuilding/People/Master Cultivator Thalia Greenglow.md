@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-master-cultivator-thalia-greenglow-master-cultivator-thalia-greenglow.svg)
+
+
 
 
 

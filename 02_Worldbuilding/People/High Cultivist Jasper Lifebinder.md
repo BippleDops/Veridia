@@ -10,6 +10,10 @@ type: NPC
 cr: '14'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-high-cultivist-jasper-lifebinder-high-cultivist-jasper-lifebinder.svg)
+
+
 
 
 

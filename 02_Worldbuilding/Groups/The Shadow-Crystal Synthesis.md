@@ -24,6 +24,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:51.508238+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.svg)
+
+
 
 
 

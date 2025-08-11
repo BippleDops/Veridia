@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crown-authority-the-crown-authority.svg)
+
+
 
 # The Crown
 *The Royal Authority of Aethermoor, Keepers of the Shattered Legacy, The Crystal Throne*

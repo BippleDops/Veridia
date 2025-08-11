@@ -27,6 +27,10 @@ MyCategory: NPC
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-aether-crystal-aether-crystal.svg)
+
+
 
 
 # Aether Crystal

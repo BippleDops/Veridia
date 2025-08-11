@@ -23,6 +23,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:49.701132+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
+
+
 
 
 # Investigate Shadow Conspiracy

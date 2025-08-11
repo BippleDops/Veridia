@@ -24,6 +24,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:51.256037+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-void-watchers-the-void-watchers.svg)
+
+
 
 
 

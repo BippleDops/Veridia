@@ -26,6 +26,10 @@ MyCategory: NPC
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-crystal-wardens-crystal-wardens.svg)
+
+
 
 # Crystal Wardens
 *High Warden Luminara Prismheart, Guardian of the Sacred Crystals, Defender of the Light*

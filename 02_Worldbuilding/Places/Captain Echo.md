@@ -29,6 +29,10 @@ MyCategory: Naval Command
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-captain-echo-captain-echo.svg)
+
+
 
 
 # Captain Echo

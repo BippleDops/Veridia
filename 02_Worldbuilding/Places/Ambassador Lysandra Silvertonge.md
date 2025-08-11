@@ -24,6 +24,10 @@ MyCategory: Embassy Compound
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-ambassador-lysandra-silvertonge-ambassador-lysandra-silvertonge.svg)
+
+
 
 
 

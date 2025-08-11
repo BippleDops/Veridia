@@ -22,6 +22,10 @@ updated: '2025-08-11T13:08:49.865326+00:00'
 cr: '5'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-archivist-mnemonic-the-forgotten-archivist-mnemonic-the-forgotten.svg)
+
+
 
 
 

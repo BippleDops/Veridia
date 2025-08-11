@@ -21,6 +21,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:49.607409+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg)
+
+
 
 
 # Captain Elara Shadowshard

@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgery-centers-shadow-surgery-centers.svg)
+
+
 
 
 # Shadow Surgery Centers

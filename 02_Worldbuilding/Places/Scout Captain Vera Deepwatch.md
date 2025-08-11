@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, outpost, scouting, deepwatch, surveillance, military, reconnaissance]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Military Reconnaissance Outpost"
-parent_location: "The Deep Frontier"
-depth: "18,000 feet"
-danger_level: 7
-population: "35 (scouts, specialists, and support)"
-government: "Military Outpost Command"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.111757+00:00'
+created: '2025-08-11T13:08:50.111757+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Deepwatch Outpost
 *Eyes in the Deepest Dark*
@@ -384,3 +379,9 @@ Deepwatch Outpost serves as [[Aquabyssos]]'s most remote reconnaissance station,
 **Discovery**: Discovery opportunities advancing campaign storylines
 
 Deepwatch Outpost represents the ultimate expression of [[Aquabyssos]]'s commitment to vigilance and defense, where [[Scout Captain Vera Deepwatch]] and her team push the limits of human endurance and technology to provide early warning of threats from the deepest, most dangerous parts of the ocean. Through exceptional courage, innovative survival techniques, and unwavering dedication to their mission, these frontier guardians ensure that civilization's enemies cannot approach undetected from the abyss.
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[The Cerulean Trench]]

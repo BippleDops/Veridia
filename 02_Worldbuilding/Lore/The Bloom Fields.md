@@ -1,20 +1,34 @@
 ---
-tags: [environmental-zone, aquatic-ecology, bioluminescent-ecosystem, deep-sea-agriculture, marine-biodiversity, crystal-coral-synthesis, pressure-adapted-flora, environmental-phenomenon, aquabyssos, underwater-cultivation]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Environmental Zone"
-significance: "Critical Ecosystem"
-created_by: "environmental-expansion"
+tags:
+- aquabyssos
+- aquatic-ecology
+- bioluminescent-ecosystem
+- complete
+- crystal-coral-synthesis
+- deep-sea-agriculture
+- environmental-phenomenon
+- environmental-zone
+- lore
+- marine-biodiversity
+- pressure-adapted-flora
+- underwater-cultivation
+status: complete
+world: Aquabyssos
+type: Lore
+category: Environmental Zone
+significance: Critical Ecosystem
+created_by: environmental-expansion
 created: 2025-08-08
-updated: 2025-08-11
-zone_type: "Bioluminescent Agricultural Complex"
-danger_level: "Low to Moderate"
-ecological_status: "Thriving"
-access_level: "Managed Cultivation"
-seasonal_variation: "Bioluminescent Tide Cycles"
-biodiversity_index: "Exceptional"
+updated: '2025-08-11T13:08:49.004407+00:00'
+zone_type: Bioluminescent Agricultural Complex
+danger_level: Low to Moderate
+ecological_status: Thriving
+access_level: Managed Cultivation
+seasonal_variation: Bioluminescent Tide Cycles
+biodiversity_index: Exceptional
 ---
+
+
 
 # The Bloom Fields
 *Where Light Grows in the Darkness of the Deep*
@@ -581,3 +595,8 @@ Working with Bloom Fields provides unique opportunities for character developmen
 - **[[Conservation Director Ecosystem Protector]]**: Manager of field environmental protection
 
 The Bloom Fields represent the triumph of sustainable agriculture in the deep-sea environment, demonstrating that human civilization can thrive in harmony with natural ecosystems rather than in opposition to them. Through careful cultivation, scientific research, and community cooperation, these underwater gardens of light provide not only sustenance for the body, but nourishment for the soul through their spectacular beauty and their representation of life's determination to create light even in the deepest darkness.
+
+
+## Connections
+
+- [[The Seven Shards]]

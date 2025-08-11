@@ -1,15 +1,23 @@
 ---
-tags: [location, harbor, treasure, graves, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Places
+tags:
+- aquabyssos
+- complete
+- graves
+- harbor
+- location
+- treasure
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Places
 MyContainer: None
 MyCategory: Harbor
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.983206+00:00'
 ---
+
+
 
 # Gold-Grave Harbor
 
@@ -73,3 +81,33 @@ Gold-Grave Harbor serves as Aquabyssos's most notorious docking area, built atop
 
 ## DM Notes
 Gold-Grave Harbor provides excellent opportunities for treasure hunting adventures, underwater exploration, and encounters with both natural and supernatural guardians. Use the harbor as a starting point for maritime adventures or source of magical items with interesting histories.
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,25 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.240459+00:00'
+created: '2025-08-11T13:08:51.240459+00:00'
+status: draft
 tags:
-  - faction
-  - criminal-organization
-  - shadow-magic
-  - illicit-commerce
-  - aquabyssos
-  - underground-economy
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "expansion"
-created: 2025-08-11
-alignment: "Neutral Evil"
-size: "400+ active members"
-headquarters: "[[The Umbral Exchange]]"
-leader: "[[The Shadow Merchant Prime]]"
-  - Category/Group
-MyContainer: None
-MyCategory: Organization
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Shadow Trade Network
 *Commerce in the Darkness Between Laws*
@@ -554,3 +545,7 @@ Early smugglers discovered that shadow magic could:
 - **The International Incident** - Network activities create diplomatic crisis requiring character intervention
 - **The Economic War** - Conflict between Network and legitimate businesses affecting community welfare
 EOF < /dev/null
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

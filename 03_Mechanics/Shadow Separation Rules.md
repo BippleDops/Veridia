@@ -6,6 +6,8 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
+
 # Shadow Separation Rules
 
 ## Summary

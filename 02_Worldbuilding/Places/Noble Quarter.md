@@ -1,21 +1,17 @@
 ---
-tags: [location, aquabyssos, noble, politics, luxury, aristocracy, residential, intrigue]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Aristocratic District"
-parent_location: "Port Meridian"
-danger_level: 2
-population: "~3,500 nobles and family, ~12,000 servants and staff"
-government: "Council of Noble Houses under Royal Charter"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.768863+00:00'
+created: '2025-08-11T13:08:50.768863+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Noble Quarter
 ## The Crown Jewel of Aquabyssos Society
@@ -578,3 +574,10 @@ The Noble Quarter represents the pinnacle of [[Aquabyssos]] society, where the k
 - [[The Noble Compact]]  
 - [[Living Coral Architecture]]  
 - [[Political Alliances]]
+
+
+## Connections
+
+- [[Seamstress Coral Silkweaver]]
+- [[Temple Ward]]
+- [[Quest - The Pretender's Crown]]

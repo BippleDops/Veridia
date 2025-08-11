@@ -1,16 +1,29 @@
 ---
-tags: [place, location, cross-realm, convergence-seekers, dimensional-nexus, secret-base]
-status: "complete"
-world: "Dimensional Threshold (Both Realms)"
-type: "location"
-location_type: "Interdimensional Facility"
-affiliation: "[[The Convergence Seekers]]"
-significance: "Major (Convergence Research Center)"
-size: "Large Complex"
-population: "~300 researchers and support staff"
-created_by: "auto-stub"
+tags:
+- complete
+- convergence-seekers
+- cross-realm
+- dimensional-nexus
+- dimensional-threshold-(both-realms)
+- location
+- place
+- secret-base
+status: complete
+world: Dimensional Threshold (Both Realms)
+type: Location
+location_type: Interdimensional Facility
+affiliation: '[[The Convergence Seekers]]'
+significance: Major (Convergence Research Center)
+size: Large Complex
+population: ~300 researchers and support staff
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.987589+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Threshold Chambers
 *Where Two Worlds Become One*
@@ -282,3 +295,11 @@ The Threshold Chambers serve as the secret headquarters of [[The Convergence See
 - Show how convergence affects both technology and psychology
 - Allow players to explore implications of their choices for both realms
 - Consider using facility as catalyst for major campaign events
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Sanity System]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]

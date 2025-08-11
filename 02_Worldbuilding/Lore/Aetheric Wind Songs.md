@@ -32,6 +32,7 @@ magical_intensity: "Moderate to High"
 access_requirements: "Wind affinity or magical training"
 ---
 
+
 # Aetheric Wind Songs
 ## The Living Music of Sky and Storm
 

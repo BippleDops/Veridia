@@ -2,11 +2,13 @@
 MyContainer: []
 MyCategory: null
 tags:
-- Category/People
+- both
+- category/people
+- draft
 obsidianUIMode: preview
 aliases:
 - characters other name
-NoteStatus: "\u2753"
+NoteStatus: ❓
 char_status: Alive
 char_race: Human
 char_gender: Male
@@ -38,7 +40,14 @@ relationships:
 - target: '[[Captain Garrett Stormcutter]]'
   type: ally
   strength: 3
+world: Both
+updated: '2025-08-11T13:08:47.023522+00:00'
+created: '2025-08-11T13:08:47.023522+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 

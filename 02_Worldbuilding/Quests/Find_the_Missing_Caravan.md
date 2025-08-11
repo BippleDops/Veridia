@@ -1,40 +1,53 @@
 ---
-tags: [quest]
-quest_giver: "[[02_Worldbuilding/People/Gareth_Ironforge]]"
-status: "complete"
-priority: "high"
+tags:
+- both
+- complete
+- quest
+quest_giver: '[[02_Worldbuilding/People/Gareth_Ironforge]]'
+status: complete
+priority: high
 quest_start: 2025-08-01
 deadline: 2025-08-10
-completion_date: 
-reward: "500gp + Masterwork weapon"
-location: "[[Tradeway Road]]"
-quest_image: "04_Resources/Assets/quests/missing-caravan.png"
+completion_date: null
+reward: 500gp + Masterwork weapon
+location: '[[Tradeway Road]]'
+quest_image: 04_Resources/Assets/quests/missing-caravan.png
 related_npcs:
-  - "[[02_Worldbuilding/People/Gareth_Ironforge]]"
-  - "[[Caravan Master Dolrim]]"
-  - "[[Bandit Leader Scarface]]"
+- '[[02_Worldbuilding/People/Gareth_Ironforge]]'
+- '[[Caravan Master Dolrim]]'
+- '[[Bandit Leader Scarface]]'
 related_locations:
-  - "[[02_Worldbuilding/Places/Market_District]]"
-  - "[[Tradeway Road]]"
-  - "[[Ambush Point]]"
+- '[[02_Worldbuilding/Places/Market_District]]'
+- '[[Tradeway Road]]'
+- '[[Ambush Point]]'
 prerequisite_quests: []
-assigned_party_members: ["Fighter", "Rogue", "Cleric", "Wizard"]
+assigned_party_members:
+- Fighter
+- Rogue
+- Cleric
+- Wizard
 objectives:
-  - text: "Investigate the missing caravan"
-    completed: true
-  - text: "Find the ambush site"
-    completed: true
-  - text: "Track the bandits"
-    completed: false
-  - text: "Recover the stolen ore"
-    completed: false
-  - text: "Return to Gareth"
-    completed: false
-  - Category/Quest
+- text: Investigate the missing caravan
+  completed: true
+- text: Find the ambush site
+  completed: true
+- text: Track the bandits
+  completed: false
+- text: Recover the stolen ore
+  completed: false
+- text: Return to Gareth
+  completed: false
+- Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.080993+00:00'
+created: '2025-08-11T13:08:50.080993+00:00'
+type: Lore
 ---
+
+
 
 # Find the Missing Caravan
 

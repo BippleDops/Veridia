@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Corroded Crown
 
 ![The Corroded Crown Portrait](04_Resources/Assets/Art/NPCs/The_Corroded_Crown.png)

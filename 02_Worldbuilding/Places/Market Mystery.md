@@ -1,11 +1,21 @@
 ---
-tags: [quest, investigation, market, mystery]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- investigation
+- market
+- mystery
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.729116+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Market Mystery
 
@@ -146,3 +156,8 @@ Solving this mystery establishes party reputation as investigators and may lead 
 
 ## DM Notes
 This investigation should emphasize deductive reasoning over combat. Provide multiple clues pointing to different theories, allowing players to eliminate possibilities through careful investigation.
+
+
+## Connections
+
+- [[The Phosphor Markets]]

@@ -1,22 +1,17 @@
 ---
-tags: [location, aethermoor, docks, harbor, maritime, whispers, surface, trade, corruption, mysterious]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Mystical Harbor"
-parent_location: "Whisper Island"
-depth: "Surface"
-danger_level: 3
-population: "~800 dockworkers, merchants, sailors, and mysterious figures"
-government: "Harbormaster's Authority under Aethermoor Crown oversight"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.809938+00:00'
+created: '2025-08-11T13:08:50.809938+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Whisper Island Docks
 *Where the Sea Speaks in Silent Tongues*
@@ -272,3 +267,8 @@ Crystalline artifacts that provide stability in areas where reality becomes unst
 **High Level (11-16)**: Major supernatural crises affecting multiple planes, diplomatic incidents with otherworldly entities, and large-scale threats to the stability of reality around the docks.
 
 **Epic Level (17-20)**: Fundamental threats to the supernatural agreements that maintain the docks' special status, conflicts that could destabilize the boundaries between planes, or opportunities to reshape the relationship between different levels of reality.
+
+
+## Connections
+
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

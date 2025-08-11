@@ -1,12 +1,21 @@
 ---
-tags: [lore, combat, memory-farmers, encounter, tactics]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- combat
+- complete
+- encounter
+- lore
+- memory-farmers
+- tactics
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.103289+00:00'
 ---
+
+
 
 # Memory Farmers Combat
 
@@ -44,3 +53,10 @@ Combat typically lasts until farmers retreat to protect their memory crops.
 
 ## Campaign Use
 Provides unique combat challenges that affect character abilities and create lasting psychological consequences.
+
+
+## Connections
+
+- [[Crystal Cult Initiates Ambush]]
+- [[Fear Farms]]
+- [[The Recursion Oracle]]

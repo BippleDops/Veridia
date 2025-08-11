@@ -1,10 +1,19 @@
 ---
 tags:
-  - Category/Place
-MyContainer: "[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]"
+- both
+- category/place
+- draft
+MyContainer: '[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]'
 MyCategory: Commerce
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:47.017154+00:00'
+created: '2025-08-11T13:08:47.017154+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 
@@ -116,7 +125,7 @@ This is the places description.
 `BUTTON[button_person]` The following people are associated with this place.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender"
+TABLE WITHOUT ID link(file.name) AC "Name", char_race AC "Race", char_gender AC "Gender"
 FROM "02_Worldbuilding/People"
 WHERE contains(char_status, "Alive")
 WHERE contains(MyContainer, this.file.link)

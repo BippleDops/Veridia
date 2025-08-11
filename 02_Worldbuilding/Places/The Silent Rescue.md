@@ -1,11 +1,21 @@
 ---
-tags: [quest, stealth-mission, rescue, espionage]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- espionage
+- quest
+- rescue
+- stealth-mission
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.206214+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Silent Rescue
 
@@ -139,3 +149,8 @@ Successful rescue improves diplomatic relations and establishes characters as ca
 
 ## DM Notes
 This mission emphasizes planning, stealth, and non-violent solutions over direct combat. Reward creative thinking and careful preparation. The stealth requirement creates natural tension and forces players to think strategically.
+
+
+## Connections
+
+- [[The Whispering Depths]]

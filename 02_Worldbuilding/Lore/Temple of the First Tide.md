@@ -1,21 +1,38 @@
 ---
-tags: [sacred-location, planar-boundary, tidal-magic, aquabyssos-history, ancient-temple, environmental-nexus, water-elemental-plane, tidal-cycles, spiritual-center, planar-convergence, primordial-magic, deep-sea-sanctuary]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Sacred Location"
-significance: "Planar Nexus Point"
-created_by: "environmental-expansion"
+tags:
+- ancient-temple
+- aquabyssos
+- aquabyssos-history
+- complete
+- deep-sea-sanctuary
+- environmental-nexus
+- lore
+- planar-boundary
+- planar-convergence
+- primordial-magic
+- sacred-location
+- spiritual-center
+- tidal-cycles
+- tidal-magic
+- water-elemental-plane
+status: complete
+world: Aquabyssos
+type: Lore
+category: Sacred Location
+significance: Planar Nexus Point
+created_by: environmental-expansion
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Ancient Temple Complex"
-danger_level: "Moderate to High"
-sacred_status: "Active Religious Site"
-access_level: "Pilgrimage and Ritual Access"
-planar_connection: "Water Elemental Plane"
-temporal_effects: "Tidal Time Cycles"
-spiritual_significance: "Foundational Aquabyssos Religion"
+updated: '2025-08-11T13:08:49.471474+00:00'
+location_type: Ancient Temple Complex
+danger_level: Moderate to High
+sacred_status: Active Religious Site
+access_level: Pilgrimage and Ritual Access
+planar_connection: Water Elemental Plane
+temporal_effects: Tidal Time Cycles
+spiritual_significance: Foundational Aquabyssos Religion
 ---
+
+
 
 # Temple of the First Tide
 *Where the Primordial Waters First Stirred with Divine Purpose*
@@ -146,3 +163,13 @@ As convergence approaches, the temple faces increasing threats from various form
 - [[Aethermoor]] - Partner civilization for convergence preparation
 - [[The Deep Harvest]] - Economic and spiritual partner for resource sharing
 - [[Tidal Chambers]] - Specialized ritual spaces throughout the temple complex
+
+
+## Connections
+
+- [[Kraken Territories]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Campaign_Relationship_Matrix]]

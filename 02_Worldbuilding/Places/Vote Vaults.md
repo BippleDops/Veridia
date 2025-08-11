@@ -1,19 +1,28 @@
 ---
-tags: [location, political, conspiracy, hidden, voting, manipulation, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-security_level: "maximum"
-access: "elite_only"
-danger_level: "extreme"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- hidden
+- location
+- manipulation
+- political
+- voting
+status: complete
+world: Aquabyssos
+type: Location
+security_level: maximum
+access: elite_only
+danger_level: Extreme
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.912978+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Vote Vaults
 
@@ -328,3 +337,13 @@ A hidden protocol exists to restore legitimate democracy, but activating it requ
 ---
 
 *The Vote Vaults represent the corruption of democracy itself - where the people's will is manufactured rather than respected, and freedom becomes another commodity to be bought and sold in the shadows.*
+
+
+## Connections
+
+- [[Deepmind Conspiracy]]
+- [[Parliament of Echoes - Public Gallery]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[The Shadow Markets]]
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]

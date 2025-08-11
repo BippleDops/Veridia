@@ -1,23 +1,31 @@
 ---
-tags: [faction, iron-fleet, aethermoor, naval-force, mercenary, military]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Naval Mercenary Fleet"
-alignment: "Chaotic Neutral"
-headquarters: "[[The Iron Bastion]]"
-leader: "[[Captain Rodrigo Ironanchor]]"
-members: "~1,200 sailors, marines, and support crew"
-influence: "Maritime (Coastal waters and shipping lanes)"
-wealth: "Substantial (mercenary contracts and salvage)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- faction
+- iron-fleet
+- mercenary
+- military
+- naval-force
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Naval Mercenary Fleet
+alignment: Chaotic Neutral
+headquarters: '[[The Iron Bastion]]'
+leader: '[[Captain Rodrigo Ironanchor]]'
+members: ~1,200 sailors, marines, and support crew
+influence: Maritime (Coastal waters and shipping lanes)
+wealth: Substantial (mercenary contracts and salvage)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.388656+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Iron Fleet
 *Masters of the Storm Seas, The Steel Armada, Guardians of Maritime Commerce*
@@ -234,3 +242,10 @@ The Fleet faces a shortage of qualified personnel just as demand for their servi
 
 **The Treaty Negotiations**
 The Fleet must negotiate new agreements with multiple governments simultaneously, but the complex diplomatic process becomes complicated by competing interests, cultural misunderstandings, and sabotage attempts from organizations opposed to the Fleet's expanded influence. The party serves as neutral facilitators while investigating threats, preventing diplomatic incidents, and ensuring the negotiations succeed despite numerous obstacles and enemies.
+
+
+## Connections
+
+- [[Merchant Princes]]
+- [[Port Meridian]]
+- [[Campaign_Relationship_Matrix]]

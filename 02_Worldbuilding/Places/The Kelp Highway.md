@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # The Kelp Highway
 
 ![The Kelp Highway Portrait](04_Resources/Assets/Art/Places/The_Kelp_Highway.png)

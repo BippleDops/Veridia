@@ -1,16 +1,26 @@
 ---
-tags: [location, temporal, time-magic, aquabyssos, navigation, cosmic-horror, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- cosmic-horror
+- location
+- navigation
+- temporal
+- time-magic
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.636367+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Temporal Navigation
 
@@ -97,7 +107,7 @@ Pressurized vessels that allow groups to travel through time while maintaining e
 
 **Temporal Diving Bell**
 *Legendary vehicle*
-- **AC** 20, **HP** 300
+- **AS** 20, **HP** 300
 - **Speed** Swim 40 ft., Temporal Navigation 500 years/day
 - **Crew** 1 pilot + 8 passengers
 - **Special**: Immunity to temporal effects, can carry non-temporal creatures safely
@@ -163,7 +173,7 @@ Led by the **Chronarch Supreme**, a being whose existence spans multiple timelin
 
 **Chronarch (CR 17)**
 *Medium humanoid (any race), lawful neutral*
-- **AC** 19 (Temporal Armor)
+- **AS** 19 (Temporal Armor)
 - **HP** 225 (25d8 + 125)
 - **Speed** 30 ft., swim 60 ft., temporal displacement 100 ft.
 - **STR** 16 (+3), **DEX** 18 (+4), **CON** 20 (+5), **INT** 24 (+7), **WIS** 22 (+6), **CHA** 18 (+4)
@@ -443,3 +453,13 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 - Requires attunement by creature with temporal navigation skills
 
 **Temporal Navigation** represents one of the most sophisticated and dangerous aspects of [[Aquabyssos]] culture, where the crushing depths of the ocean create the perfect conditions for bending the very fabric of time itself, allowing those brave or foolish enough to navigate the currents of past and future.
+
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[The Inverse Palace]]
+- [[Depths of Whispers]]
+- [[Find the Grief Bomb]]
+- [[The Maw of Darkness]]
+- [[The Whispering Expanse]]

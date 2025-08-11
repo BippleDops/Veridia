@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Lighthouse of Storms
 
 ![Lighthouse of Storms Portrait](04_Resources/Assets/Art/Lore/Lighthouse_of_Storms.png)

@@ -1,23 +1,31 @@
 ---
-tags: [faction, economic, aethermoor, marketplace, shadow-trade, interdimensional]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Commercial Organization"
-alignment: "Chaotic Neutral"
-headquarters: "[[The Umbral Market Plaza]]"
-leader: "[[Market Master Duskwater]]"
-members: "~2,000 merchants, vendors, brokers, and support staff"
-influence: "Multi-dimensional (trade networks)"
-wealth: "Enormous (shadow trade monopoly)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- economic
+- faction
+- interdimensional
+- marketplace
+- shadow-trade
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Commercial Organization
+alignment: Chaotic Neutral
+headquarters: '[[The Umbral Market Plaza]]'
+leader: '[[Market Master Duskwater]]'
+members: ~2,000 merchants, vendors, brokers, and support staff
+influence: Multi-dimensional (trade networks)
+wealth: Enormous (shadow trade monopoly)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.411085+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Shadow Bazaar
 *The Twilight Market, Merchants of the Void, The Between-Worlds Exchange*
@@ -429,3 +437,9 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 ---
 
 *"In the Shadow Bazaar, we believe in the fundamental truth that everything has value - memories, dreams, fears, hopes, and even the absence of these things. Our market simply makes these values visible and tradeable."* - Market Master Duskwater
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Aethermoor - Session 03 Council of Shadows]]

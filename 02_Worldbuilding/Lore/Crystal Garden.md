@@ -1,14 +1,28 @@
 ---
-tags: [lore, crystal-garden, merged-reality, impossible-growth, dimensional-bleed, aethermoor, aquabyssos, reality-anchor, magical-sanctuary, transformation-site]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Unique Location"
-significance: "Major Landmark"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- complete
+- crystal-garden
+- dimensional-bleed
+- impossible-growth
+- lore
+- magical-sanctuary
+- merged-reality
+- reality-anchor
+- transformation-site
+status: complete
+world: Both
+type: Lore
+category: Unique Location
+significance: Major Landmark
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.826464+00:00'
 ---
+
+
 
 # Crystal Garden
 *Where Stone Dreams and Water Sings*
@@ -437,3 +451,9 @@ While the garden maintains immunity to direct [[Shadow Corruption]], hostile for
 
 *"In the Crystal Garden, we learned that two worlds can become one without either losing what makes it beautiful."*
 *- Master Gardener Prism-Tide Lyra*
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Desperate Plague Victim]]

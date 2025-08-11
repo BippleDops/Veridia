@@ -1,11 +1,22 @@
 ---
-tags: [location, settlements, political-dissidents, hidden]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- hidden
+- location
+- political-dissidents
+- settlements
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.190162+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Surface Sympathizer Settlements
 
@@ -121,3 +132,32 @@ Settlements are deliberately hidden and defensible:
 
 ## DM Notes
 These settlements provide opportunities for political intrigue, moral choices about loyalty versus conscience, and connections to larger surface world conflicts. They can serve as safe havens or sources of dangerous political complications.
+
+
+## Connections
+
+- [[Abyssos Prime]]
+
+
+## History
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

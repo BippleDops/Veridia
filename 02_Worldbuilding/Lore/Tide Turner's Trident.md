@@ -1,11 +1,32 @@
 ---
-tags: [lore, artifact, legendary_weapon, tide_magic, aquabyssos, ancient_power]
-status: "completed"
-type: "legendary_artifact"
-world: "dual"
-connections: ["[[Tide Turner]]", "[[Deep Mother]]", "[[Ancient Aquabyssos Rulers]]", "[[Tidal Council]]", "[[The Drowned God]]"]
-themes: ["mastery_over_currents", "balance_of_power", "ancient_bloodlines", "oceanic_authority"]
+tags:
+- ancient_power
+- aquabyssos
+- artifact
+- completed
+- dual
+- legendary_artifact
+- legendary_weapon
+- lore
+- tide_magic
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[Tide Turner]]'
+- '[[Deep Mother]]'
+- '[[Ancient Aquabyssos Rulers]]'
+- '[[Tidal Council]]'
+- '[[The Drowned God]]'
+themes:
+- mastery_over_currents
+- balance_of_power
+- ancient_bloodlines
+- oceanic_authority
+created: '2025-08-11T13:08:48.764312+00:00'
+updated: '2025-08-11T13:08:48.764312+00:00'
 ---
+
 
 # Tide Turner's Trident
 

@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Prep Note
 
 ![Prep Note Portrait](04_Resources/Assets/Art/Lore/Prep_Note.png)

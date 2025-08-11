@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Crown Dome Conspiracy
 
 ![Crown Dome Conspiracy Portrait](04_Resources/Assets/Art/NPCs/Crown_Dome_Conspiracy.png)

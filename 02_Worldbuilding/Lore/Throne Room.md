@@ -1,14 +1,26 @@
 ---
-tags: [lore, throne-room, royal-palace, crystal-possession, seat-of-power, aethermoor, dimensional-nexus, corrupted-architecture, political-center]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Royal Location"
-significance: "Major Landmark"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corrupted-architecture
+- crystal-possession
+- dimensional-nexus
+- lore
+- political-center
+- royal-palace
+- seat-of-power
+- throne-room
+status: complete
+world: Aethermoor
+type: Lore
+category: Royal Location
+significance: Major Landmark
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:49.499685+00:00'
 ---
+
+
 
 # Throne Room
 *The Crystal Heart of a Corrupted Kingdom*
@@ -304,3 +316,8 @@ The throne room maintains immunity while studying corruption:
 
 *"The throne still bears the crown, but the crown now bears something that was never meant to rule mortals."*
 *- Ambassador Valdris, reporting to foreign kingdoms*
+
+
+## Connections
+
+- [[Quest - The Pretender]]

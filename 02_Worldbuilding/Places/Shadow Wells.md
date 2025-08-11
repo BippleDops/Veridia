@@ -1,16 +1,27 @@
 ---
-tags: [place, location, aquabyssos, shadow-manifestation, deep-mother, mysterious-sites]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Shadow Manifestation Sites"
-affiliation: "[[02_Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)"
-significance: "Major (Deep Mother Activity)"
-size: "Multiple Sites Throughout Realm"
-population: "Variable (Pilgrims and Researchers)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- location
+- mysterious-sites
+- place
+- shadow-manifestation
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Shadow Manifestation Sites
+affiliation: '[[02_Worldbuilding/Lore/The Deep Mother]] (Natural Phenomenon)'
+significance: Major (Deep Mother Activity)
+size: Multiple Sites Throughout Realm
+population: Variable (Pilgrims and Researchers)
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.863204+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Shadow Wells
 *Where the Mother's Nightmares Surface*
@@ -264,3 +275,16 @@ Shadow Wells are mysterious phenomena scattered throughout [[02_Worldbuilding/Pl
 - Emphasize the therapeutic potential alongside the dangers
 - Consider player comfort levels with horror and trauma themes
 - Use Wells as sources of exposition about the Deep Mother's nature and concerns
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Deep Mother]]
+- [[Discover Marina's Truth]]
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
+- [[Random Encounters]]
+- [[Sanity System]]
+- [[The Shadow Singer Naia]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Shard-Shadow Resonance]]

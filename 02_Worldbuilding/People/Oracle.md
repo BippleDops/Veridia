@@ -1,21 +1,15 @@
 ---
-tags: [npc, oracle, divination, aquabyssos, mystic]
-status: "active"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-race: "Triton"
-class: "Divination Wizard/Warlock"
-level: 16
-faction: "The Waking Prophets"
-location: "Depths of Contemplation"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.694521+00:00'
+created: '2025-08-11T13:08:49.694521+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # Pythia Deepgazer, the Tide Oracle
 

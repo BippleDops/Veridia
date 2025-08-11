@@ -1,27 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.752983+00:00'
+created: '2025-08-11T13:08:49.752983+00:00'
+status: draft
 tags:
-  - npc
-  - harbor_master
-  - aquabyssos
-  - trade
-  - smuggling
-  - information_broker
-  - free_current
+- both
+- draft
 type: NPC
-race: Half-Elf (Sea-born)
-class: Rogue/Ranger (Urban)
-level: 14
-alignment: Chaotic Good
-location: "[[02_Worldbuilding/Places/Freedom Harbor]]"
-faction: "[[02_Worldbuilding/Groups/Free Current]]"
-status: complete
-created: 2025-08-10
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # Harbor Master Luna Freedrift
 *The Current's Voice, She Who Opens All Ports, The People's Harbor*

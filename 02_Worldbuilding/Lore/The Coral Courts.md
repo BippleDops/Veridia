@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # The Coral Courts
 
 ![The Coral Courts Portrait](04_Resources/Assets/Art/Lore/The_Coral_Courts.png)

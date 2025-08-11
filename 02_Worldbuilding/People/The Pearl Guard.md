@@ -1,20 +1,31 @@
 ---
-tags: [person, npc, aquabyssos, imperial-guard, pearl-guard, captain, military, law-enforcement]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Pearl Guard Captain"
-affiliation: "The Pearl Guard (Imperial Elite)"
-age: "45"
-race: "Triton"
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-created_by: "expansion"
-created: 2025-08-10
-  - Category/People
+tags:
+- aquabyssos
+- captain
+- complete
+- imperial-guard
+- law-enforcement
+- military
+- npc
+- pearl-guard
+- person
+status: complete
+world: Aquabyssos
+type: NPC
+role: Pearl Guard Captain
+affiliation: The Pearl Guard (Imperial Elite)
+age: '45'
+race: Triton
+location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+created_by: expansion
+created: 2025-08-10 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.973794+00:00'
 ---
+
+
 
 # Captain Nerion Pearlshield
 *Commander of the Pearl Guard, Protector of the Deep Crown*
@@ -426,3 +437,14 @@ Nerion's position provides access to extensive institutional resources that can 
 **Military Evolution**: Pearl Guard capabilities and focus adapt based on threats encountered during campaign
 **Social Order**: Success or failure of law enforcement affects citizen confidence and social stability
 **Character Growth**: Nerion's personal development reflects broader themes about duty, justice, and leadership in changing world
+
+
+## Connections
+
+- [[Current PC Lead]]
+- [[Investigation Procedures]]
+- [[Envoy Blackwater Jr.]]
+- [[Mayor Thompson]]
+- [[Nerissa_Deepcurrent]]
+- [[Senator Marius]]
+- [[The Current Merchants]]

@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Dataview Query Guide
 
 ![Dataview Query Guide Portrait](04_Resources/Assets/Art/Lore/Dataview_Query_Guide.png)

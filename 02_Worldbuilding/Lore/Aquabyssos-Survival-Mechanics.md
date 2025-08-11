@@ -1,9 +1,23 @@
 ---
-tags: [mechanics, aquabyssos, survival, adaptation, rules]
-type: "game-mechanics"
-system: "D&D 5e"
-complexity: "Advanced"
+tags:
+- adaptation
+- aquabyssos
+- draft
+- game-mechanics
+- mechanics
+- rules
+- survival
+type: Lore
+system: D&D 5e
+complexity: Advanced
+world: Aquabyssos
+updated: '2025-08-11T13:08:48.108390+00:00'
+created: '2025-08-11T13:08:48.108390+00:00'
+status: draft
 ---
+
+
+
 
 # Aquabyssos Survival & Adaptation Mechanics
 
@@ -458,3 +472,7 @@ These mechanics create pressure (pun intended) for players to make difficult cho
 The interplay between crystal corruption and depth adaptation creates unique character development paths. Players must balance the benefits of adaptation against the loss of their surface identity.
 
 Remember: The mechanics serve the horror of transformation. Use them to enhance the narrative of losing humanity to the depths, not as a punishment system.
+
+## Connections
+
+- [[Initiative Tracker]]

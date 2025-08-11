@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, surface, diplomacy, conflict, interface, politics, tension]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Surface-Underwater Interface Zone"
-parent_location: "The Boundary Waters"
-depth: "Surface to 500 feet"
-danger_level: 5
-population: "~2,500 diplomats, traders, refugees, and border guards"
-government: "Joint administration between Aquabyssos and surface nations"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.104240+00:00'
+created: '2025-08-11T13:08:50.104240+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Surface Tensions
 *Where Two Worlds Reluctantly Meet*
@@ -658,3 +653,8 @@ Surface Tensions exists as [[Aquabyssos]]'s most politically charged and diploma
 - [[Inter-Realm Diplomacy]]
 - [[Surface-Underwater Trade]]
 - [[Cultural Integration]]
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

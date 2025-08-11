@@ -1,23 +1,34 @@
 ---
-tags: [npc, aquabyssos, senator, politician, shadow-touched, corruption, parliamentary, mysterious]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Human (Shadow-Touched)"
-class: "Noble/Warlock (Shadow Patron)"
+tags:
+- aquabyssos
+- complete
+- corruption
+- mysterious
+- npc
+- parliamentary
+- politician
+- senator
+- shadow-touched
+status: complete
+world: Aquabyssos
+type: NPC
+race: Human (Shadow-Touched)
+class: Noble/Warlock (Shadow Patron)
 level: 15
-alignment: "Lawful Evil (Believes she's Lawful Good)"
-location: "Parliament of Echoes, Aquabyssos Prime"
-faction: "Shadow Parliament (Unknowingly)"
-status_condition: "Active, Partially Replaced"
-created_by: "auto-stub"
+alignment: Lawful Evil (Believes she's Lawful Good)
+location: Parliament of Echoes, Aquabyssos Prime
+faction: Shadow Parliament (Unknowingly)
+status_condition: Active, Partially Replaced
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.855173+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # The Senator
 *The People's Voice, The Progressive Champion, The Unwitting Pawn*
@@ -372,7 +383,7 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ## Combat Statistics (If Necessary)
 
 ### Basic Combat Abilities
-- **AC**: 16 (Enhanced reflexes + magical protection)
+- **AS**: 16 (Enhanced reflexes + magical protection)
 - **HP**: 165 (15d8 + 60)
 - **Speed**: 30 ft., swim 40 ft.
 - **Saves**: WIS +9, CHA +12
@@ -469,3 +480,8 @@ Senator Cordelia Valerius is one of Aquabyssos' most beloved and respected parli
 ---
 
 *"I have always fought for the people. If my methods have evolved, it is because the threats we face have evolved. Democracy must be strong enough to defend itself, even from those who would use freedom to destroy freedom."*
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

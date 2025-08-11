@@ -1,12 +1,19 @@
 ---
-tags: [index, navigation, complete]
-status: "complete"
-world: "Universal"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- complete
+- index
+- lore
+- navigation
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 completed: 2025-08-11
+updated: '2025-08-11T13:08:48.849888+00:00'
 ---
+
 
 # Update Indexes
 

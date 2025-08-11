@@ -1,14 +1,30 @@
 ---
-tags: [location, shadowmere, embassy, aquabyssos, corrupted]
+tags:
+- active---category/place
+- aquabyssos
+- both
+- building
+- corrupted
+- embassy
+- location
+- shadowmere
 region: The Shadowmere
-type: Building
+type: Location
 danger: High
-status: Active
-  - Category/Place
+status: Active - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.114358+00:00'
+created: '2025-08-11T13:08:51.114358+00:00'
+danger_level: High
 ---
+
+
+
+
+
 
 # The Drowned Embassy
 
@@ -88,3 +104,34 @@ A grotesque fusion of corrupted [[Aether Crystals]] and deep-sea coral, growing 
 - Infiltrate a cultural exchange ceremony
 - Investigate strange shipwrecks connected to the Embassy
 - Prevent the completion of the Deep Gate ritual
+- [[Forge of War]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,9 +1,18 @@
 ---
 tags:
-  - Category/StarSystem
+- both
+- category/starsystem
+- draft
 obsidianUIMode: preview
-MyContainer:
+MyContainer: null
+world: Both
+updated: '2025-08-11T13:08:47.010279+00:00'
+created: '2025-08-11T13:08:47.010279+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 
 
@@ -118,7 +127,7 @@ Make notes of what you need to track in the star system here.
 `BUTTON[button_planet]` 
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Planet(s)"
+TABLE WITHOUT ID link(file.name) AC "Planet(s)"
 FROM "02_Worldbuilding/Planets"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
@@ -129,7 +138,7 @@ SORT file.name ASC
 `BUTTON[button_pointofinterest]` 
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Points of Interest(s)"
+TABLE WITHOUT ID link(file.name) AC "Points of Interest(s)"
 FROM "02_Worldbuilding/Points of Interest"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

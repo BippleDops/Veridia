@@ -1,17 +1,27 @@
 ---
-tags: [encounter, patrol, law-enforcement, depth-wardens, aquabyssos, security, mobile-unit]
-status: "complete"
-world: "Aquabyssos"
-type: "encounter"
-category: "Mobile Patrol Unit"
-danger_level: "Variable"
-encounter_type: "Social/Combat"
-frequency: "Common"
-location_type: "Any depth zone"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- depth-wardens
+- encounter
+- law-enforcement
+- mobile-unit
+- patrol
+- security
+status: complete
+world: Aquabyssos
+type: Location
+category: Mobile Patrol Unit
+danger_level: Variable
+encounter_type: Social/Combat
+frequency: Common
+location_type: Any depth zone
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:50.157606+00:00'
 ---
+
+
 
 # Depth Warden Patrol
 *Mobile Law Enforcement in the Deep*
@@ -435,3 +445,8 @@ Patrols serve as excellent sources of information about local conditions, crimin
 - **[[02_Worldbuilding/Places/Shadow Wells]]**: Dangerous locations requiring specialized patrol attention
 
 Depth Warden Patrols represent the mobile face of law and order in Aquabyssos, serving as both protectors of the innocent and enforcers of justice while navigating the complex social, political, and environmental challenges of maintaining security in a vast underwater realm.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

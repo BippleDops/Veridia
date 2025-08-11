@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Face the Ancient Threat
 
 ![Face the Ancient Threat Portrait](04_Resources/Assets/Art/Lore/Face_the_Ancient_Threat.png)

@@ -1,12 +1,20 @@
 ---
-tags: [lore, culture, architecture, aquabyssos, coral, building-traditions]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- architecture
+- building-traditions
+- complete
+- coral
+- culture
+- lore
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.668439+00:00'
 ---
+
 
 # The Coral Architecture Philosophy
 *"We do not build upon the sea floor - we grow with it, breathing life into stone until stone breathes back."*

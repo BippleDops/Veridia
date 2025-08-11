@@ -44,6 +44,7 @@ visited: false
 discovered: false
 ---
 
+
 # Goldwave Manor
 ## The Crown Jewel of Merchant Nobility
 

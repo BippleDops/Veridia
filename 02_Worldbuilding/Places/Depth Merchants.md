@@ -1,18 +1,38 @@
 ---
-tags: [location, aquabyssos, trading-district, commerce, deep-ocean, pressure-adapted, merchant-quarter]
-status: "complete"
-world: "Aquabyssos"
-type: "Commercial District"
+tags:
+- aquabyssos
+- commerce
+- commercial-district
+- complete
+- deep-ocean
+- location
+- merchant-quarter
+- pressure-adapted
+- trading-district
+status: complete
+world: Aquabyssos
+type: Location
 danger_level: 4
-depth: "3,000-5,000 feet below surface"
-population: "~8,000 (merchants, workers, and support staff)"
-government: "Merchant Council Oligarchy"
-specialties: ["Deep-Ocean Resources", "Pressure Equipment", "Exotic Goods", "Deep Current Navigation"]
-established: "~300 years ago"
+depth: 3,000-5,000 feet below surface
+population: ~8,000 (merchants, workers, and support staff)
+government: Merchant Council Oligarchy
+specialties:
+- Deep-Ocean Resources
+- Pressure Equipment
+- Exotic Goods
+- Deep Current Navigation
+established: ~300 years ago
 created: 2025-08-08
-updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Groups/Silverscale Consortium]]", "[[02_Worldbuilding/Places/Free Current]]", "[[02_Worldbuilding/Places/The Memory Meadows]]", "[[02_Worldbuilding/Lore/The Deep Mother]]"]
+updated: '2025-08-11T13:08:50.606890+00:00'
+related_entities:
+- '[[02_Worldbuilding/Groups/Silverscale Consortium]]'
+- '[[02_Worldbuilding/Places/Free Current]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
+- '[[02_Worldbuilding/Lore/The Deep Mother]]'
 ---
+
+
+
 
 # Depth Merchants
 *Where the Deep Ocean Yields Its Treasures*
@@ -480,3 +500,8 @@ Living at crushing depths has created unique cultural practices and social adapt
 - **Community vs Individual**: Personal success vs collective survival needs
 - **Known vs Unknown**: Exploring unmapped depths with uncertain dangers
 - **Cooperation vs Competition**: Working together vs competing for limited resources
+
+
+## Connections
+
+- [[The Shadow Conspiracy]]

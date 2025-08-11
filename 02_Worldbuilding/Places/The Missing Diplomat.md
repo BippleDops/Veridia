@@ -1,11 +1,22 @@
 ---
-tags: [quest, investigation, diplomacy, political-intrigue]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- diplomacy
+- investigation
+- political-intrigue
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.340130+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Missing Diplomat
 
@@ -116,3 +127,38 @@ Success maintains peaceful relations and opens future diplomatic opportunities. 
 
 ## DM Notes
 This investigation combines political intrigue with detective work. Focus on the ticking clock of diplomatic deadlines and the complex motivations of various factions. The truth should be logical but not obvious, requiring players to piece together multiple clues.
+
+
+## Connections
+
+- [[The Bathyal Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

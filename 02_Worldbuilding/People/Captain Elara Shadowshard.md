@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, mercenary, obsidian-shard, corrupted]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard-Touched Mercenary"
-affiliation: "The Shadow Company (Mercenary Band)"
-age: "34"
-race: "Human (Shadow-touched)"
-location: "[[02_Worldbuilding/Places/The Shadowmere]]"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corrupted
+- mercenary
+- npc
+- obsidian-shard
+- person
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard-Touched Mercenary
+affiliation: The Shadow Company (Mercenary Band)
+age: '34'
+race: Human (Shadow-touched)
+location: '[[02_Worldbuilding/Places/The Shadowmere]]'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.607409+00:00'
 ---
+
+
 
 # Captain Elara Shadowshard
 *Shadow-Touched Mercenary, Seeker of the Obsidian Shard*
@@ -690,3 +701,8 @@ Elara's shadow-touched nature makes her crucial to resolving crisis where shadow
 - **Character Development**: Her evolution drives major campaign themes and party relationship dynamics
 - **Campaign Integration**: Central to Seven Shards storylines, supernatural rights politics, and shadow realm exploration
 - **Power Balance**: Formidable in shadow-touched environments, increasingly unreliable due to growing obsession
+
+## Connections
+
+- [[Stop the Shadow Harvest]]
+- [[Discover Marina's Truth]]

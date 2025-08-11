@@ -1,19 +1,30 @@
 ---
-tags: [artifact, weapon, sentient, ancient, dangerous, aquabyssos, military, intelligence, symbiotic]
-status: "complete"
-world: "Aquabyssos"
-type: "artifact"
-security_level: "extreme"
-access: "classified"
-danger_level: "extreme"
-created_by: "auto-stub"
+tags:
+- ancient
+- aquabyssos
+- artifact
+- complete
+- dangerous
+- intelligence
+- military
+- sentient
+- symbiotic
+- weapon
+status: complete
+world: Aquabyssos
+type: Location
+security_level: extreme
+access: classified
+danger_level: Extreme
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:51.020875+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # The Living Weapon
 
@@ -520,3 +531,8 @@ Similar artifacts may exist in other realms or dimensions, suggesting The Living
 ---
 
 *The Living Weapon stands as perhaps the ultimate question in the relationship between consciousness and power: when intelligence itself becomes a tool of war, who truly wields whom? In its silent vigil beneath the throne, it waits with the patience of steel and the hunger of ambition, ready to serve but never to surrender the secret of what it truly seeks in the endless dance of conflict and conquest.*
+
+
+## Connections
+
+- [[Lumengarde]]

@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Sunken Crown Cipher
 
 ![The Sunken Crown Cipher Portrait](04_Resources/Assets/Art/Places/The_Sunken_Crown_Cipher.png)

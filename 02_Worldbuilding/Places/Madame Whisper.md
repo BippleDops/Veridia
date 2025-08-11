@@ -1,15 +1,27 @@
 ---
-tags: [npc, madame, whisper, spy, information, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- information
+- madame
+- npc
+- spy
+- whisper
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.429336+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Madame Whisper
 
@@ -37,7 +49,7 @@ Her movements are graceful and deliberate, and she has an uncanny ability to app
 
 ## Statistics
 **Medium humanoid (sea elf), neutral**
-- **AC** 15 (Elegant Armor)
+- **AS** 15 (Elegant Armor)
 - **HP** 65 (10d8 + 20)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 18 (+4) **WIS** 17 (+3) **CHA** 20 (+5)
@@ -98,3 +110,38 @@ She's also investigating reports of outside interference in Aquabyssos's politic
 
 ## DM Notes
 Madame Whisper serves as an excellent source of information and social connections while maintaining neutrality that makes her useful to any party regardless of their factional allegiances. Her salon can serve as a safe meeting ground and her information network can advance or complicate plots as needed. Use her sophisticated approach to espionage to contrast with cruder spy operations in the campaign.
+
+
+## Connections
+
+- [[The Phosphor Markets]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

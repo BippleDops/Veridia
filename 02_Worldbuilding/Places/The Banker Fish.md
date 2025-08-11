@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, bank, finance, underwater-currency, pearl-economy, maritime-banking]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- bank
+- complete
+- finance
+- location
+- maritime-banking
+- pearl-economy
+- underwater-currency
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Financial Institution
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.718204+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Aquatic Bank - Underwater Financial Institution
 
@@ -342,3 +353,8 @@ The Aquatic Bank connects to numerous important elements throughout Aquabyssos a
 - **Emergency Services**: Coordinates financial aspects of disaster response and crisis management
 
 *The Aquatic Bank stands as the financial heart of Aquabyssos, where the wisdom of the depths meets the precision of sound banking, and where every transaction flows with the reliability of the eternal tides, anchored in trust and guided by the currents of prosperity.*
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

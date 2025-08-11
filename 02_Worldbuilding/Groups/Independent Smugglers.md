@@ -1,25 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.171605+00:00'
+created: '2025-08-11T13:08:51.171605+00:00'
+status: draft
 tags:
-  - faction
-  - criminal
-  - smugglers
-  - cross_realm
-  - underground
-  - merchants
-type: Faction
-alignment: Chaotic Neutral
-scope: Cross-Realm
-size: Large Network
-influence: Moderate
-headquarters: "[[02_Worldbuilding/Places/The Harbor Depths]]"
-leaders: Council of Captains
-created: 2025-08-08
-world: "Cross-Realm"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Independent Smugglers
 *The Free Current Traders, Masters of the Grey Market, Lords of the Deep Routes*
@@ -200,3 +191,13 @@ The Independent Smugglers represent a loose confederation of opportunistic trade
 - [[02_Worldbuilding/Quests/Smuggler's Gambit]] - Organization under threat
 - [[02_Worldbuilding/Quests/Quest - Smuggler's Run]] - Direct employment
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - Information sources
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Shadow Surgeons Collective]]
+- [[Stop the Shadow Harvest]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]

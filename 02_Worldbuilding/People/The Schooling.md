@@ -1,15 +1,24 @@
 ---
-tags: [lore, event, schooling, education, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- education
+- event
+- lore
+- schooling
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.622150+00:00'
 ---
+
+
+
 
 # The Schooling
 
@@ -78,3 +87,38 @@ The Schooling raises questions about individual autonomy versus collective benef
 
 ## DM Notes
 The Schooling provides excellent opportunities for large-scale cooperative adventures, emergencies requiring community response, and exploration of themes around individuality versus collective action. Use it to create dramatic moments where entire populations must work together.
+
+
+## Connections
+
+- [[The_Crimson_Pearl]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

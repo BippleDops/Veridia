@@ -1,22 +1,17 @@
 ---
-tags: [location, aethermoor, palace, courtyard, crystal, garden, nature, magic, beauty, peaceful]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Royal Gardens"
-parent_location: "Royal Palace"
-depth: "Surface"
-danger_level: 1
-population: "~30 gardeners, courtiers, and visitors"
-government: "Royal Grounds Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.881240+00:00'
+created: '2025-08-11T13:08:50.881240+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Palace Courtyard - Crystal Garden
 *Where Nature and Magic Bloom in Perfect Harmony*
@@ -184,3 +179,12 @@ Access to garden facilities for conducting sensitive negotiations.
 **Summer Bloom**: Peak flowering creates enhanced diplomatic environments and increased garden beauty.
 **Autumn Harvest**: Seasonal changes provide opportunities for gathering rare magical materials and seeds.
 **Winter Reflection**: Dormant periods offer ideal conditions for contemplation and strategic planning.
+
+
+## Connections
+
+- [[Crystal Gardens]]
+- [[The Crystalline Foundry]]
+- [[The Royal Palace]]
+- [[Find the Grief Bomb]]
+- [[Aethermoor - Session 05 The Queens Madness]]

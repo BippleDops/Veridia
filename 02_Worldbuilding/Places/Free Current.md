@@ -1,18 +1,35 @@
 ---
-tags: [location, aquabyssos, underwater-highway, transportation, trade-route, current, communal, neutral]
-status: "complete"
-world: "Aquabyssos"
-type: "Transportation Corridor"
+tags:
+- aquabyssos
+- communal
+- complete
+- current
+- location
+- neutral
+- trade-route
+- transportation
+- transportation-corridor
+- underwater-highway
+status: complete
+world: Aquabyssos
+type: Location
 danger_level: 3
-length: "Over 2,000 miles of interconnected currents"
-traffic: "High - Major commercial and civilian route"
-government: "Collective Self-Governance"
-population: "~15,000 (rotating community of travelers and workers)"
-established: "Ancient natural phenomenon, organized 400+ years ago"
+length: Over 2,000 miles of interconnected currents
+traffic: High - Major commercial and civilian route
+government: Collective Self-Governance
+population: ~15,000 (rotating community of travelers and workers)
+established: Ancient natural phenomenon, organized 400+ years ago
 created: 2025-08-08
-updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Groups/Current Riders Guild]]", "[[02_Worldbuilding/Places/Abyssos Prime]]", "[[02_Worldbuilding/Places/New Tethys]]", "[[02_Worldbuilding/Places/The Memory Meadows]]"]
+updated: '2025-08-11T13:08:50.482260+00:00'
+related_entities:
+- '[[02_Worldbuilding/Groups/Current Riders Guild]]'
+- '[[02_Worldbuilding/Places/Abyssos Prime]]'
+- '[[02_Worldbuilding/Places/New Tethys]]'
+- '[[02_Worldbuilding/Places/The Memory Meadows]]'
 ---
+
+
+
 
 # Free Current
 *The Great Highway of the Deep*
@@ -497,3 +514,17 @@ Diverse population and egalitarian ideals sometimes create conflicts:
 - **Freedom vs Security**: Explore tensions between openness and safety
 - **Tradition vs Innovation**: Show how communities adapt while preserving core values
 - **Local vs Global**: Connect Current-specific issues to broader world concerns
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Angels and Depths]]
+- [[Lumengarde]]
+- [[New Tethys]]
+- [[The Bathyal Palace]]
+- [[The Shrinking Sanctuary]]
+- [[The Sinking Atoll]]
+- [[The Wandering Atoll]]
+- [[The Whispering Depths]]

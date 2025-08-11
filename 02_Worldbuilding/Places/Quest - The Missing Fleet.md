@@ -1,21 +1,33 @@
 ---
-tags: [quest, missing-fleet, aethermoor, naval, mystery, investigation, diplomatic, military]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- diplomatic
+- investigation
+- military
+- missing-fleet
+- mystery
+- naval
+- quest
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-quest_type: "Investigation/Diplomatic Mission"
-level_range: "7-11"
-party_size: "4-6 characters"
-duration: "4-6 sessions"
-difficulty: "Moderate to Hard"
-primary_location: "Aethermoor Maritime Region"
+updated: '2025-08-11T13:08:51.068562+00:00'
+quest_type: Investigation/Diplomatic Mission
+level_range: 7-11
+party_size: 4-6 characters
+duration: 4-6 sessions
+difficulty: Moderate to Hard
+primary_location: Aethermoor Maritime Region
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # Quest - The Missing Fleet
 *A Diplomatic Crisis Beneath the Waves*
@@ -320,3 +332,8 @@ The Missing Fleet provides a rich foundation for adventure combining investigati
 The adventure's emphasis on consequences and relationships makes it ideal for campaigns focusing on political development and character growth through moral complexity. Players must consider not just immediate solutions but long-term implications of their choices and actions.
 
 Regardless of which scenario proves true, the investigation process creates opportunities for meaningful character development, relationship building, and world exploration that can enhance ongoing campaign development and provide foundation for future adventures involving the characters' growing reputation and expertise.
+
+
+## Connections
+
+- [[Port Meridian]]

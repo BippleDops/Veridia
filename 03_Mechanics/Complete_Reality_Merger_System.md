@@ -1,15 +1,21 @@
 ---
 title: Complete Reality Merger System
-type: mechanics
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - reality
-  - dimensions
-  - merger
-  - cosmic-horror
+- both
+- complete
+- cosmic-horror
+- dimensions
+- mechanics
+- merger
+- reality
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.074000+00:00'
 ---
+
+
 
 # Complete Reality Merger System
 *When Two Worlds Become One, Nothing Remains Unchanged*

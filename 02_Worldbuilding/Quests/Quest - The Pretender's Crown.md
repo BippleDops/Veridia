@@ -1,21 +1,31 @@
 ---
-tags: [quest, political, intrigue, succession, aethermoor, investigation]
-quest_status: "Available"
-quest_priority: "Critical"
-quest_type: "Main Quest"
-level_range: "10-16"
-world: "Aethermoor"
-quest_giver: "The Nameless Auditor"
-rewards: "Noble Title, Royal Artifacts, Political Power"
-time_limit: "Before the Coronation (14 days)"
-created_by: "system"
+tags:
+- aethermoor
+- draft
+- intrigue
+- investigation
+- political
+- quest
+- succession
+quest_status: Available
+quest_priority: Critical
+quest_type: Main Quest
+level_range: 10-16
+world: Aethermoor
+quest_giver: The Nameless Auditor
+rewards: Noble Title, Royal Artifacts, Political Power
+time_limit: Before the Coronation (14 days)
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.035543+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
+status: draft
+type: Lore
 ---
+
+
 
 # Quest - The Pretender's Crown
 
@@ -428,3 +438,8 @@ Build support through side quests:
 - [[Royal Bloodline Codex]]
 - [[Shadow Detection Crystals]]
 - [[Memory Modification Apparatus]]
+
+## Connections
+
+- [[Prince Caspian Duskwater]]
+- [[The Crown's Burden]]

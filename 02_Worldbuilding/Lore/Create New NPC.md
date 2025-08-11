@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Create New NPC
 
 ![Create New NPC Portrait](04_Resources/Assets/Art/Lore/Create_New_NPC.png)

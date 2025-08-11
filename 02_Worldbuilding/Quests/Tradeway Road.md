@@ -1,18 +1,27 @@
 ---
-tags: [quest, aquabyssos, deep-mother, tradeway, corruption, memory-magic]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- corruption
+- deep-mother
+- memory-magic
+- quest
+- tradeway
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-level_range: "4-6"
-party_size: "3-6"
-estimated_duration: "5-7 sessions"
+updated: '2025-08-11T13:08:50.049117+00:00'
+level_range: 4-6
+party_size: 3-6
+estimated_duration: 5-7 sessions
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
+
 
 # The Darkening of Tradeway Road
 
@@ -919,3 +928,8 @@ A descendant of ancient mer-folk guardians approaches the party with growing com
 ---
 
 *The Darkening of Tradeway Road serves as a complex exploration of the intersection between ancient powers and modern commerce, challenging players to navigate supernatural politics while maintaining the economic stability that millions of underwater citizens depend upon. The quest's resolution affects not only immediate trade concerns but also the cosmic balance between order and chaos that governs all existence.*
+
+
+## Connections
+
+- [[Find_the_Missing_Caravan]]

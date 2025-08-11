@@ -6,6 +6,8 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
+
 # Dual World Mechanics
 
 ## Summary

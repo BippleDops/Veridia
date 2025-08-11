@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Cure
 
 ![The Cure Portrait](04_Resources/Assets/Art/NPCs/The_Cure.png)

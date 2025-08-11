@@ -1,16 +1,31 @@
 ---
-tags: [system, spells, evocation, magic-theory, destruction, energy, force, aquabyssos, aethermoor, underwater-magic]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- complete
+- destruction
+- energy
+- evocation
+- force
+- lore
+- magic-theory
+- spells
+- system
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-school: "Evocation"
-focus: "Destructive and Energy Manipulation Magic"
-complexity: "Fundamental to Catastrophic"
-practitioners: "Battle mages, energy manipulators, destroyers"
+updated: '2025-08-11T13:08:47.790517+00:00'
+school: Evocation
+focus: Destructive and Energy Manipulation Magic
+complexity: Fundamental to Catastrophic
+practitioners: Battle mages, energy manipulators, destroyers
 ---
+
+
 
 # Evocation School of Magic
 *The Art of Destruction, Energy, and Force*

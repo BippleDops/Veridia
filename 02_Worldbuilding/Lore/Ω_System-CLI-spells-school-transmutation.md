@@ -1,16 +1,31 @@
 ---
-tags: [system, spells, transmutation, magic-theory, transformation, adaptation, change, aquabyssos, aethermoor, underwater-magic]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- adaptation
+- aethermoor
+- aquabyssos
+- both-worlds
+- change
+- complete
+- lore
+- magic-theory
+- spells
+- system
+- transformation
+- transmutation
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-school: "Transmutation"
-focus: "Transformation and Adaptation Magic"
-complexity: "Fundamental to Revolutionary"
-practitioners: "Shapechangers, adaptors, transformers"
+updated: '2025-08-11T13:08:48.265975+00:00'
+school: Transmutation
+focus: Transformation and Adaptation Magic
+complexity: Fundamental to Revolutionary
+practitioners: Shapechangers, adaptors, transformers
 ---
+
+
 
 # Transmutation School of Magic
 *The Art of Transformation and Adaptation*

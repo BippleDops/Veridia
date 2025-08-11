@@ -1,22 +1,18 @@
 ---
-tags: [npc, diplomats, ambassadors, aquabyssos, shadow-realm, political-authority, international-relations]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Shadow-touched Humanoids (Various)"
-class: "Bard/Warlock (Diplomatic Corps)"
-level: 12-15
-alignment: "Lawful Neutral (Shadow-influenced)"
-location: "[[02_Worldbuilding/Places/The Shadowmere]] - [[Embassy of Eternal Shadows]]"
-faction: "[[The Tenebrarum Diplomatic Corps]] - Shadow Realm Embassy"
-status_living: "Active (Multiple Individuals)"
-created: 2025-08-11
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Diplomatic Authority
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.988727+00:00'
+created: '2025-08-11T13:08:49.988727+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
+cr: '12'
 ---
+
+
+
+
 
 # The Tenebrarum Ambassadors
 *Voices from the Shadow Realm, Diplomats of the Dark Current*
@@ -274,3 +270,7 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 - Provide gateway to shadow-realm adventures and parallel dimension storylines
 - Serve as information brokers with knowledge spanning multiple realms
 - Represent sophisticated political entities beyond simple good/evil classifications
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

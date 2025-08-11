@@ -1,21 +1,36 @@
 ---
-tags: [location, cathedral, religious, holy, light, magnificent]
-status: "completed"
-world: "Aethermoor"
-region: "[[Capital District]]"
-type: "Grand Cathedral"
+tags:
+- aethermoor
+- cathedral
+- completed
+- grand-cathedral
+- holy
+- light
+- location
+- magnificent
+- religious
+status: completed
+world: Aethermoor
+region: '[[Capital District]]'
+type: Location
 population: 500
 danger_level: 1
-government: "[[Sacred Order of Luminous Dawn]]"
-leader: "[[High Luminary Celestine Brightward]]"
-specialties: ["Divine Magic", "Healing Arts", "Light Magic"]
-founded: "300 years before Great Crystallization"
-created: 2025-08-08
-  - Category/Place
+government: '[[Sacred Order of Luminous Dawn]]'
+leader: '[[High Luminary Celestine Brightward]]'
+specialties:
+- Divine Magic
+- Healing Arts
+- Light Magic
+founded: 300 years before Great Crystallization
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.958815+00:00'
 ---
+
+
+
 
 # Cathedral of Light
 *The Radiant Heart of Faith*
@@ -418,3 +433,8 @@ While in the Cathedral, characters experience:
 
 > [!tip] DM Note
 > The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, moral dilemmas, and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
+
+
+## Connections
+
+- [[Aethermoor - Session 03 Council of Shadows]]

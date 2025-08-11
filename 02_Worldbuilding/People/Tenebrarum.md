@@ -1,23 +1,34 @@
 ---
-tags: [npc, aquabyssos, void, ambassador, shadows, mysterious, extraplanar, ancient]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Void-Touched Humanoid (Original Race Unknown)"
-class: "Warlock/Diplomat/Aberrant"
+tags:
+- ambassador
+- ancient
+- aquabyssos
+- complete
+- extraplanar
+- mysterious
+- npc
+- shadows
+- void
+status: complete
+world: Aquabyssos
+type: NPC
+race: Void-Touched Humanoid (Original Race Unknown)
+class: Warlock/Diplomat/Aberrant
 level: 18
-alignment: "Lawful Neutral (Void Perspective)"
-location: "Embassy of Emptiness, Deep Parliament District"
-faction: "The Void Realms (Ambassador)"
-status_condition: "Active, Negotiating"
-created_by: "auto-stub"
+alignment: Lawful Neutral (Void Perspective)
+location: Embassy of Emptiness, Deep Parliament District
+faction: The Void Realms (Ambassador)
+status_condition: Active, Negotiating
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.911916+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Tenebrarum
 *The Void Ambassador, Speaker for the Spaces Between, The Negotiating Dark*
@@ -211,7 +222,7 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 ## Combat Statistics (If Necessary)
 
 ### Defensive Capabilities
-- **AC**: 19 (Natural Void Armor)
+- **AS**: 19 (Natural Void Armor)
 - **HP**: 285 (18d8 + 144)
 - **Speed**: 40 ft., fly 60 ft. (hover), teleport at will
 - **Saves**: INT +14, WIS +12, CHA +15
@@ -369,3 +380,16 @@ Tenebrarum is the official ambassador from the Void Realms to [[02_Worldbuilding
 ---
 
 *"In the end, all things return to the void. I merely negotiate the terms of their journey."*
+
+
+## Connections
+
+- [[The Shadow Conspiracy]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Continental Connections & Story Weave]]
+- [[Senator Glaucus]]
+- [[Dream Rails]]
+- [[Parliament of Echoes]]
+- [[Diplomatic Tides]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]

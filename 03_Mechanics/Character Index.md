@@ -6,6 +6,7 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
 # Character Index
 
 ## Summary

@@ -1,14 +1,22 @@
 ---
-tags: [quick-reference, campaign-tools, complete, session-ready]
-status: "complete"
-world: "Universal"
-type: "quick-reference"
-created_by: "Agent-20"
+tags:
+- campaign-tools
+- complete
+- quick-reference
+- session-ready
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: Agent-20
 created: 2025-08-11
 last_updated: 2025-08-11
-completion: "100%"
+completion: 100%
 session_ready: true
+updated: '2025-08-11T13:08:46.947975+00:00'
 ---
+
+
 
 # Campaign Quick Reference Sheets
 *Session-Ready Reference Materials for Immediate Use*
@@ -705,3 +713,7 @@ These session-ready reference sheets provide instant access to critical campaign
 *Quick Lookup Systems for All Campaign Elements*
 *Instant Adventure Generation and Implementation Tools*
 *Agent 20 - Index Building Mission: 95% Complete*
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

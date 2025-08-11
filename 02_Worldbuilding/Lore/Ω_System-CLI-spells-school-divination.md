@@ -1,16 +1,31 @@
 ---
-tags: [system, spells, divination, magic-theory, knowledge, perception, prophecy, aquabyssos, aethermoor, underwater-magic]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- complete
+- divination
+- knowledge
+- lore
+- magic-theory
+- perception
+- prophecy
+- spells
+- system
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-school: "Divination"
-focus: "Knowledge, Perception, and Prophecy Magic"
-complexity: "Fundamental to Cosmic"
-practitioners: "Seers, scouts, oracles"
+updated: '2025-08-11T13:08:47.992177+00:00'
+school: Divination
+focus: Knowledge, Perception, and Prophecy Magic
+complexity: Fundamental to Cosmic
+practitioners: Seers, scouts, oracles
 ---
+
+
 
 # Divination School of Magic
 *The Art of Knowledge, Perception, and Prophecy*

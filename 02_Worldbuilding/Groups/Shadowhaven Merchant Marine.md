@@ -1,14 +1,23 @@
 ---
-type: faction
-tags: [faction, mercantile]
-aliases: [Shadowhaven Merchant Marine]
+type: Group
+tags:
+- both
+- draft
+- faction
+- mercantile
+aliases: []
 created: 2025-07-23 15:25
 modified: 2025-07-23 15:25
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.525046+00:00'
+status: draft
 ---
+
+
+
 # Shadowhaven Merchant Marine
 
 ## General Info

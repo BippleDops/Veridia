@@ -1,14 +1,29 @@
 ---
-tags: [lore, crimson-hand, faction, shadow-corruption, aethermoor, aquabyssos, secret-society, manipulation, convergence, infiltration, power-seeking]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Secret Organization"
-significance: "Major Faction"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- complete
+- convergence
+- crimson-hand
+- faction
+- infiltration
+- lore
+- manipulation
+- power-seeking
+- secret-society
+- shadow-corruption
+status: complete
+world: Both
+type: Lore
+category: Secret Organization
+significance: Major Faction
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:49.419142+00:00'
 ---
+
+
 
 # The Crimson Hand
 *Masters of Shadow and Convergence*
@@ -472,3 +487,25 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 
 *"We are not conquerors but gardeners, tending the growth of reality itself toward its destined flowering."*
 *- Crimson Hand recruitment motto*
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Desperate Plague Victim]]
+- [[Healing Two Worlds]]
+- [[Merged Reality Zones]]
+- [[Possessed Noble Coterie]]
+- [[Silver Mask]]
+- [[Temple of the First Tide]]
+- [[The Convergence Point]]
+- [[The Deep Mother]]
+- [[The Forgetting Bomb]]
+- [[The Memory Weapon Arms Race]]
+- [[The Real Marina]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[Throne Room]]

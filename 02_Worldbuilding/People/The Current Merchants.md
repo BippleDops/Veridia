@@ -1,24 +1,33 @@
 ---
-tags: [npc, merchant-lord, aquabyssos, trade-master, current-magic, navigator, entrepreneur]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Guildmaster of the Deep Current Trading Company"
-affiliation: "[[Deep Current Trading Company]] - Founder and Supreme Navigator"
-age: "78"
-race: "Sea Elf"
-class: "Storm Sorcerer/Divination Wizard"
+tags:
+- aquabyssos
+- complete
+- current-magic
+- entrepreneur
+- merchant-lord
+- navigator
+- npc
+- trade-master
+status: complete
+world: Aquabyssos
+type: NPC
+role: Guildmaster of the Deep Current Trading Company
+affiliation: '[[Deep Current Trading Company]] - Founder and Supreme Navigator'
+age: '78'
+race: Sea Elf
+class: Storm Sorcerer/Divination Wizard
 level: 15
-alignment: "Chaotic Neutral"
-location: "[[The Flowing Market]] - Current's Edge Trading Post"
-created_by: "auto-stub"
+alignment: Chaotic Neutral
+location: '[[The Flowing Market]] - Current''s Edge Trading Post'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.786013+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
+
 
 # The Current Merchants
 *Nereon Swiftcurrent, Master of the Deep Trades, Navigator of Infinite Possibilities*
@@ -293,3 +302,9 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 - His business empire offers numerous plot hooks involving trade disputes, exploration, and innovation
 - Perfect for campaigns exploring themes of environmental change, economic development, and cultural adaptation
 - His eventual succession crisis could be a major campaign storyline affecting all of Aquabyssos
+
+
+## Connections
+
+- [[Mayor Thompson]]
+- [[The Pearl Guard]]

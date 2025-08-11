@@ -1,22 +1,18 @@
 ---
-tags: [npc, ruler, royalty, emperor, aquabyssos, ancient, throne-guardian, political-authority]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Ancient Human (Transformed)"
-class: "Noble/Warlock"
-level: 20
-alignment: "Lawful Neutral (Abyssal-touched)"
-location: "[[02_Worldbuilding/Places/Abyssos Prime]] - [[The Throne Chamber of Eternal Bubbles]]"
-faction: "[[The Bubble Court]] - Ancient Royalty"
-status_living: "Alive (Perpetually Suspended)"
-created: 2025-08-11
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Political Authority
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.664236+00:00'
+created: '2025-08-11T13:08:49.664236+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
+cr: '20'
 ---
+
+
+
+
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles
 *The Suspended Emperor, He Who Breathes Water, The Eternal Sovereign of Depths*
@@ -283,3 +279,10 @@ The Throne itself is a marvel of ancient magic—a living coral structure that c
 - Could face choice between preserving throne or enabling democracy
 - May need to make ultimate sacrifice to save realm from cosmic threat
 - Represents bridge between ancient world and modern politics
+
+
+## Connections
+
+- [[The Parasite Priests]]
+- [[The Scattered Emperor]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

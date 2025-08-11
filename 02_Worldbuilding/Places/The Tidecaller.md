@@ -1,11 +1,21 @@
 ---
-tags: [npc, spellcaster, tide-magic, maritime]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- maritime
+- npc
+- spellcaster
+- tide-magic
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.413606+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Tidecaller
 
@@ -136,3 +146,8 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 
 ## DM Notes
 The Tidecaller serves as powerful ally for maritime adventures, quest giver for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

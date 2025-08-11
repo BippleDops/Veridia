@@ -6,6 +6,7 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
 # Navigate Fractal Reality
 
 ## Summary

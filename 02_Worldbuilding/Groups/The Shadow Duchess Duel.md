@@ -1,23 +1,33 @@
 ---
-tags: [faction, group, shadow-court, dueling-society, aristocracy, honor-codes, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Aristocratic Dueling Society"
-alignment: "Lawful Neutral (Honor-bound)"
-headquarters: "[[The Umbral Pavilion]]"
-leader: "[[Shadow Duchess Lysandra Voidgrace]]"
-members: "~75 active duelists, ~300 affiliates"
-influence: "High Society, Shadow Court"
-purpose: "Maintain honor through formal combat"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- aristocracy
+- complete
+- dueling-society
+- faction
+- group
+- honor-codes
+- shadow-court
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Aristocratic Dueling Society
+alignment: Lawful Neutral (Honor-bound)
+headquarters: '[[The Umbral Pavilion]]'
+leader: '[[Shadow Duchess Lysandra Voidgrace]]'
+members: ~75 active duelists, ~300 affiliates
+influence: High Society, Shadow Court
+purpose: Maintain honor through formal combat
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Shadow Society
 MyCategory: Honor Society
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.273410+00:00'
 ---
+
+
 
 # The Shadow Duchess Duel
 *The Noble Art of Shadow Combat, Arbiters of Honor Amongst the Depths*
@@ -537,3 +547,8 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 - [[Formal Dueling Protocols]]
 - [[Shadow Society Hierarchy]]
 - [[Honor-Based Conflict Resolution]]
+
+
+## Connections
+
+- [[Aquabyssos - Session 04 - High Tide Horror]]

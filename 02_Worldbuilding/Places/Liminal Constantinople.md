@@ -1,27 +1,35 @@
 ---
 tags:
-  - location
-  - aquabyssos
-  - capital
-  - political
-  - underwater-city
+- aquabyssos
+- both
+- capital
+- draft
+- location
+- political
+- underwater-city
 type: Location
 region: Central Aquabyssos
 danger_level: Variable (Safe to Lethal)
 notable_npcs:
-  - Parliament Members
-  - "[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]"
-  - Morpheus Tidecaller
+- Parliament Members
+- '[[02_Worldbuilding/People/Duchess Marina Ever-Drowning]]'
+- Morpheus Tidecaller
 connected_locations:
-  - "[[Gold-Grave Harbor]]"
-  - "[[Abyssal Cathedral]]"
-  - "[[02_Worldbuilding/Places/The Sunken Markets]]"
-  - Surface Portal Points
-  - Category/Place
+- '[[Gold-Grave Harbor]]'
+- '[[Abyssal Cathedral]]'
+- '[[02_Worldbuilding/Places/The Sunken Markets]]'
+- Surface Portal Points
+- Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.692018+00:00'
+created: '2025-08-11T13:08:50.692018+00:00'
+status: draft
 ---
+
+
 
 # Liminal Constantinople
 

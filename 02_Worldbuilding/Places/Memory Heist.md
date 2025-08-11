@@ -1,20 +1,35 @@
 ---
-tags: [lore, memory, heist, theft, mental, magic, crime, investigation, psychological]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- both-worlds
+- complete
+- crime
+- heist
+- investigation
+- lore
+- magic
+- memory
+- mental
+- psychological
+- theft
+status: complete
+world: Both Worlds
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-lore_type: "Criminal Technique"
-scope: "Magical Crime"
-category: "Mental Magic Applications"
-significance: "Specialized Knowledge"
-primary_application: "Criminal Enterprise and Investigation"
+updated: '2025-08-11T13:08:50.420737+00:00'
+lore_type: Criminal Technique
+scope: Magical Crime
+category: Mental Magic Applications
+significance: Specialized Knowledge
+primary_application: Criminal Enterprise and Investigation
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Memory Heist
 *The Art of Stealing Thoughts*
@@ -342,3 +357,8 @@ This practice has evolved from crude magical experimentation into refined crimin
 **Narrative Purpose**: Use memory theft to serve larger story goals rather than just shock value.
 
 Memory Heist represents a sophisticated form of magical crime that challenges traditional concepts of theft, identity, and justice while providing rich opportunities for complex storytelling and character development in campaigns emphasizing mystery, investigation, and psychological thriller elements.
+
+
+## Connections
+
+- [[The Primordial Vaults]]

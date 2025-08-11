@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
 # Surface Signals
 
 ![Surface Signals Portrait](04_Resources/Assets/Art/Places/Surface_Signals.png)
@@ -413,7 +414,6 @@ Roll d20 for random signals:
 - Constitution saves after extended listening
 - Gradual dependency development
 - Physical and mental symptoms
-- Potential transformation into receiver
 
 ### Campaign Integration
 

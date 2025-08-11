@@ -1,23 +1,31 @@
 ---
-tags: [faction, shadow-network, aquabyssos, intelligence, espionage, shadow-touched]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Intelligence Network"
-alignment: "Chaotic Neutral"
-headquarters: "[[The Shadowmeld Sanctum]]"
-leader: "[[Shadow Nyx]]"
-members: "~300 operatives and informants"
-influence: "Citywide (Information networks throughout Aquabyssos)"
-wealth: "Moderate (Information brokerage and contracts)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- espionage
+- faction
+- intelligence
+- shadow-network
+- shadow-touched
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Intelligence Network
+alignment: Chaotic Neutral
+headquarters: '[[The Shadowmeld Sanctum]]'
+leader: '[[Shadow Nyx]]'
+members: ~300 operatives and informants
+influence: Citywide (Information networks throughout Aquabyssos)
+wealth: Moderate (Information brokerage and contracts)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.349079+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Shadow Network
 *Eyes in Every Corner, The Information Web, Whispers in the Dark*
@@ -233,3 +241,8 @@ A magical catastrophe disrupts the Network's communication systems and surveilla
 
 **The Rogue Operative**
 A former Network operative has gone rogue and is selling sensitive intelligence to the highest bidders, threatening to expose ongoing operations and endanger personnel while damaging the Network's reputation. The party must track down the rogue operative while minimizing damage to Network interests, protecting endangered assets, and uncovering why a trusted member turned against the organization that trained and trusted them.
+
+
+## Connections
+
+- [[Aquabyssos - Session 04 - High Tide Horror]]

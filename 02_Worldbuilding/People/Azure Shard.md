@@ -1,23 +1,33 @@
 ---
-tags: [npc, aethermoor, shard-guardian, crystal-touched, ancient, immortal, wisdom, sky-bound]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-race: "Crystal-Touched Human (Transformed)"
-class: "Guardian/Oracle/Shard-Keeper"
+tags:
+- aethermoor
+- ancient
+- complete
+- crystal-touched
+- immortal
+- npc
+- shard-guardian
+- sky-bound
+- wisdom
+status: complete
+world: Aethermoor
+type: NPC
+race: Crystal-Touched Human (Transformed)
+class: Guardian/Oracle/Shard-Keeper
 level: 19
-alignment: "Lawful Good (Cosmic Perspective)"
-location: "The Skyfall Observatory, Floating Crystal Peaks"
-faction: "The Seven Shard Guardians"
-status_condition: "Active, Merged with Shard"
-created_by: "auto-stub"
+alignment: Lawful Good (Cosmic Perspective)
+location: The Skyfall Observatory, Floating Crystal Peaks
+faction: The Seven Shard Guardians
+status_condition: Active, Merged with Shard
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.801439+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Azure Shard
 *The Sky-Watcher, Guardian of the Heavens' Heart, The Blue Oracle*
@@ -452,3 +462,8 @@ Azure Shard is both a person and an artifact—the human guardian who has become
 ---
 
 *"I gave up my heart so that the sky might have one. Some days I wonder if that was wisdom or folly. But the storms still answer when I call, and the realm endures another day."*
+
+
+## Connections
+
+- [[Sir Marcus Dawnforge]]

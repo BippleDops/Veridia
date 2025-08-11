@@ -1,10 +1,21 @@
 ---
-type: note
-tags: [dm-screen, 5e]
-aliases: [Side Screen]
+type: Lore
+tags:
+- 5e
+- both
+- dm-screen
+- draft
+- note
+aliases:
+- Side Screen
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
+world: Both
+updated: '2025-08-11T13:08:47.086655+00:00'
+status: draft
 ---
+
+
 # D&D 5e Side Screen (2014)
 
 | Name | Effect |

@@ -1,19 +1,28 @@
 ---
-tags: [faction, aquabyssos, military-organization, ambush-specialists, guerrilla-warfare, tactical]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Military Tactical Unit"
-alignment: "Lawful Neutral"
-headquarters: "[[The Strategic Command Center]] (Mobile)"
-leader: "[[Commander Reef Shadowstrike]]"
-members: "~150 elite soldiers and tactical specialists"
-influence: "Specialized (Military Operations)"
-purpose: "Elite ambush and tactical warfare unit"
-created_by: "auto-stub"
+tags:
+- ambush-specialists
+- aquabyssos
+- complete
+- faction
+- guerrilla-warfare
+- military-organization
+- tactical
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Military Tactical Unit
+alignment: Lawful Neutral
+headquarters: '[[The Strategic Command Center]] (Mobile)'
+leader: '[[Commander Reef Shadowstrike]]'
+members: ~150 elite soldiers and tactical specialists
+influence: Specialized (Military Operations)
+purpose: Elite ambush and tactical warfare unit
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:51.269686+00:00'
 ---
+
+
 
 # Shadow Ambush - Optional
 *The Tidal Strikers, Masters of Battlefield Surprise, Those Who Strike from Darkness*
@@ -516,3 +525,8 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 ---
 
 *"In the depths where darkness meets strategy, we offer our enemies a choice: wisdom or defeat. Most choose wisdom."* - Shadow Ambush Optional Motto
+
+
+## Connections
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

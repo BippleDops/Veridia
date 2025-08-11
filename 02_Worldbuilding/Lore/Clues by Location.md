@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Clues by Location
 
 ![Clues by Location Portrait](04_Resources/Assets/Art/Lore/Clues_by_Location.png)

@@ -1,16 +1,25 @@
 ---
-tags: [person, npc, aquabyssos, military-commander, depth-wardens, professional-soldier]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Military Commander"
-affiliation: "[[The Depth Wardens]] (Military Force)"
-age: "51"
-race: "Human (Pressure-Adapted)"
-location: "[[The Fortress of the Deeps]] - Command Center"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- depth-wardens
+- military-commander
+- npc
+- person
+- professional-soldier
+status: complete
+world: Aquabyssos
+type: NPC
+role: Military Commander
+affiliation: '[[The Depth Wardens]] (Military Force)'
+age: '51'
+race: Human (Pressure-Adapted)
+location: '[[The Fortress of the Deeps]] - Command Center'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.906719+00:00'
 ---
+
 
 # Commander Typhoon Blackheart
 *Iron Fist of the Depths, Guardian of Order*

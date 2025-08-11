@@ -1,13 +1,20 @@
 ---
-type: npc
+type: Lore
 status: alive
 tags:
-  - template
-  - ai-generation
-  - npc
+- ai-generation
+- alive
+- both
+- npc
+- template
 prompt_type: npc_generation
 setting: Shadowhaven
+world: Both
+updated: '2025-08-11T13:08:47.004688+00:00'
+created: '2025-08-11T13:08:47.004688+00:00'
 ---
+
+
 
 # 🎭 NPC Generation Prompts
 

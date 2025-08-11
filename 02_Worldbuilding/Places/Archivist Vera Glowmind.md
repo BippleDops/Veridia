@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, archives, glowmind, knowledge, library, research, preservation]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Knowledge Archive"
-parent_location: "The Scholar's District"
-depth: "7,000 feet"
-danger_level: 2
-population: "85 (archivists, scholars, and researchers)"
-government: "Independent Academic Institution"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.918261+00:00'
+created: '2025-08-11T13:08:50.918261+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Glowmind Archives
 *Repository of Accumulated Wisdom*
@@ -321,3 +316,13 @@ The Glowmind Archives stand as [[Aquabyssos]]'s premier repository of knowledge,
 **Development**: Supporting campaign development through information access
 
 The Glowmind Archives represent the intellectual heart of [[Aquabyssos]], where [[Archivist Vera Glowmind]]'s dedication to knowledge preservation ensures that the wisdom of ages remains available to scholars, researchers, and citizens throughout the realm. Through comprehensive collections, professional services, and unwavering commitment to intellectual freedom, this institution serves as a beacon of learning that illuminates the depths with the light of accumulated human wisdom and experience.
+
+
+## Connections
+
+- [[Thalassius the Wise]]
+- [[Sage Lysander Deepthought]]
+- [[Keeper Elara Mindwell]]
+- [[Lumengarde]]
+- [[The Archive of Unremembered Things]]
+- [[The Forgotten One]]

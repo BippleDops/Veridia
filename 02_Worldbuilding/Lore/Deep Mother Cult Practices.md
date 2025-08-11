@@ -1,14 +1,38 @@
 ---
-tags: [lore, religion, cult, aquabyssos, deep-mother, worship-practices, ritual, cosmic-horror, transformation, sacrifice]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- complete
+- cosmic-horror
+- cult
+- deep-mother
+- lore
+- religion
+- ritual
+- sacrifice
+- transformation
+- worship-practices
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-connections: ["[[Deep Mother]]", "[[The Drowned God]]", "[[Echo of the Mother]]", "[[Deep Mother Influence]]", "[[Deep Mother Lore]]", "[[Kelp Forest Monasteries]]", "[[The Pressure Baptism Rites]]"]
-themes: ["cosmic_horror_worship", "transformation_rituals", "sacrificial_devotion", "eldritch_communion"]
+updated: '2025-08-11T13:08:47.922942+00:00'
+connections:
+- '[[Deep Mother]]'
+- '[[The Drowned God]]'
+- '[[Echo of the Mother]]'
+- '[[Deep Mother Influence]]'
+- '[[Deep Mother Lore]]'
+- '[[Kelp Forest Monasteries]]'
+- '[[The Pressure Baptism Rites]]'
+themes:
+- cosmic_horror_worship
+- transformation_rituals
+- sacrificial_devotion
+- eldritch_communion
 ---
+
+
 
 # Deep Mother Cult Practices
 
@@ -220,3 +244,13 @@ The Deep Mother Cult forces both characters and players to confront difficult qu
 The cult serves as a mirror for examining our own assumptions about what constitutes acceptable change versus dangerous corruption, and whether some truths might be too alien for human minds to safely comprehend.
 
 *"We do not lose ourselves in the depths - we find ourselves beyond the shallow boundaries of what we mistook for identity."* - Brother Leviathan Deepcall, current Voice of the Deep Mother
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Fear Farms]]
+- [[Kraken Territories]]
+- [[Silver Mask]]
+- [[Temple of the First Tide]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

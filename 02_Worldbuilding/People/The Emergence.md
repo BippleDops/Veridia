@@ -1,15 +1,24 @@
 ---
-tags: [lore, event, emergence, transformation, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- emergence
+- event
+- lore
+- transformation
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.725496+00:00'
 ---
+
+
+
 
 # The Emergence
 
@@ -73,3 +82,41 @@ Similar prophecies have occurred throughout Aquabyssos history, sometimes coinci
 
 ## DM Notes
 The Emergence provides flexible framework for introducing major campaign changes, new factions, or significant plot developments. Use it to foreshadow important events while maintaining ambiguity about specific outcomes.
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[Prophet Nerida Voidgazer]]
+- [[New Tethys]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

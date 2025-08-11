@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # The Seahawk
 
 ![The Seahawk Portrait](04_Resources/Assets/Art/Lore/The_Seahawk.png)

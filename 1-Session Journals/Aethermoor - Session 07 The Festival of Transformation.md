@@ -1,26 +1,40 @@
 ---
 session_number: 7
-title: "The Festival of Transformation"
-date_played: 
-location: "[[Crystal Festival Grounds]]"
-npcs_featured: 
-  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
-  - "[[Brother Marcus Steelbane]]"
-  - "[[Citizens of Meridian]]"
+title: The Festival of Transformation
+date_played: null
+location: '[[Crystal Festival Grounds]]'
+npcs_featured:
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[Brother Marcus Steelbane]]'
+- '[[Citizens of Meridian]]'
 quests_advanced:
-  - "[[Stop the Crystal Festival Ritual]]"
-  - "[[Save the Citizens]]"
-  - "[[Confront the Possessed Queen]]"
+- '[[Stop the Crystal Festival Ritual]]'
+- '[[Save the Citizens]]'
+- '[[Confront the Possessed Queen]]'
 level: 5
-estimated_time: "4 hours"
-tags: [session, aethermoor, festival, climax, transformation]
-type: Session Journal
+estimated_time: 4 hours
+tags:
+- aethermoor
+- climax
+- draft
+- festival
+- session
+- session-journal
+- transformation
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.978499+00:00'
+created: '2025-08-11T13:08:46.978499+00:00'
+status: draft
 ---
+
+
+
 
 # Session 7: The Festival of Transformation
 

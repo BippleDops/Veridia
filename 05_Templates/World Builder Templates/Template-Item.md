@@ -1,16 +1,25 @@
 ---
 MyContainer: []
-MyCategory: 
+MyCategory: null
 tags:
-  - Category/Item
+- both
+- category/item
+- draft
 obsidianUIMode: preview
 aliases:
-  - ItemOtherName
+- ItemOtherName
 Connected_Quests:
-  - "[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"
+- '[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]'
 Connected_Groups:
-  - "[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]"
+- '[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
+world: Both
+updated: '2025-08-11T13:08:47.021687+00:00'
+created: '2025-08-11T13:08:47.021687+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 

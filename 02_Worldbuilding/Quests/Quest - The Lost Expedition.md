@@ -1,19 +1,16 @@
 ---
-tags: [quest, exploration, mystery, survival, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-quest_level: "7-10"
-estimated_sessions: "4-6"
-quest_type: "Investigation/Exploration"
-  - Category/Quest
-MyContainer: None
-MyCategory: Quests
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.058217+00:00'
+created: '2025-08-11T13:08:50.058217+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Quest - The Lost Expedition
 
@@ -285,3 +282,9 @@ Ancient defense systems reactivated by the corruption. Attack anything that thre
 ---
 
 *"Some expeditions discover new lands. Others discover that some places should remain lost. The question is: which kind of expedition were we?"* - Captain Zara Stormwind
+
+
+## Connections
+
+- [[Captain Thaddeus Blackwater]]
+- [[Quest - The Seventh Shard]]

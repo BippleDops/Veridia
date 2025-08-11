@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Lord Flux
 
 ![Lord Flux Portrait](04_Resources/Assets/Art/Lore/Lord_Flux.png)

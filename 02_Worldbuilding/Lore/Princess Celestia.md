@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Princess Celestia
 
 ![Princess Celestia Portrait](04_Resources/Assets/Art/Lore/Princess_Celestia.png)

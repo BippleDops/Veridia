@@ -1,20 +1,30 @@
 ---
-tags: [person, npc, aethermoor, crystal-artificer, inventor, aetherian-guild, crystal-technology]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Master Crystal Artificer"
-affiliation: "Aetherian Guild of Artificers"
-age: "67"
-race: "Human (Aethermoor Native)"
-location: "[[02_Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aetherian-guild
+- aethermoor
+- complete
+- crystal-artificer
+- crystal-technology
+- inventor
+- npc
+- person
+status: complete
+world: Aethermoor
+type: NPC
+role: Master Crystal Artificer
+affiliation: Aetherian Guild of Artificers
+age: '67'
+race: Human (Aethermoor Native)
+location: '[[02_Worldbuilding/Places/Crystal Gardens]] - Innovation Workshop'
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.799059+00:00'
 ---
+
+
 
 # Maestra Luminara Crystalweave
 *Master Crystal Artificer of Aethermoor, Pioneer of Living Crystal Technology*
@@ -511,3 +521,7 @@ When encountered in her Crystal Innovation Laboratory, Luminara can take lair ac
 - **Professional respect** earned through understanding of technical complexities and innovation challenges
 - **Personal connection** develops through shared commitment to using technology for beneficial purposes
 - **Long-term alliance** possible for parties that consistently support ethical technological development
+
+## Connections
+
+- [[Master Artificer Korvin Gearwright]]

@@ -35,6 +35,7 @@ influence_level: "Maximum within Aquabyssos"
 access_level: "Royal Court Only"
 ---
 
+
 # Queen Seraphina
 ## The Deep Crown's Steady Hand in Turbulent Times
 

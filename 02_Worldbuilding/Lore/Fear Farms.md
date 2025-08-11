@@ -1,17 +1,34 @@
 ---
-tags: [conspiracy, fear-farms, emotion-harvesting, psychological-manipulation, hidden-facility, agricultural-horror, mind-control, shadow-surgeons, deep-mother, aquabyssos, secret-operation, human-experiments]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-conspiracy_type: "Emotion Harvesting Operation"
-scope: "Regional - multiple hidden facilities across Aquabyssos depths"
+tags:
+- agricultural-horror
+- aquabyssos
+- complete
+- conspiracy
+- deep-mother
+- emotion-harvesting
+- fear-farms
+- hidden-facility
+- human-experiments
+- lore
+- mind-control
+- psychological-manipulation
+- secret-operation
+- shadow-surgeons
+status: complete
+world: Aquabyssos
+type: Lore
+conspiracy_type: Emotion Harvesting Operation
+scope: Regional - multiple hidden facilities across Aquabyssos depths
 danger_level: 8
-active_period: "Past 75 years, expanding operations recently"
-primary_agents: "Shadow Surgeon Collective, Deep Mother Cultists, Corrupted Agricultural Guilds"
-created_by: "auto-stub"
+active_period: Past 75 years, expanding operations recently
+primary_agents: Shadow Surgeon Collective, Deep Mother Cultists, Corrupted Agricultural
+  Guilds
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.082566+00:00'
 ---
+
+
 
 # Fear Farms
 *The Hidden Agricultural Conspiracy That Harvests Human Terror*
@@ -408,3 +425,13 @@ The existence of the Fear Farms raises fundamental questions about the relations
 *"In the depths where sunlight never reaches, we thought we had found salvation in the form of abundant food grown through miraculous techniques. Only later did we learn that the real miracle was teaching human beings to ignore the screaming that came from beneath the kelp beds. The Fear Farms fed our bodies while starving our souls - and perhaps that was always the point."*
 
 *- [[Depth Chronicler Maris Saltwater]], "The Hidden Harvest: A Survivor's Account"*
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Temple of the First Tide]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]

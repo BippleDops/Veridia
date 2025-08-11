@@ -1,17 +1,28 @@
 ---
-tags: [organization, law-enforcement, military, depth-wardens, aquabyssos, government, security]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-category: "Government Agency"
-significance: "Major"
-scope: "Realm-wide"
-authority_level: "High"
-member_count: "~2,000 active wardens"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- depth-wardens
+- government
+- law-enforcement
+- military
+- organization
+- security
+status: complete
+world: Aquabyssos
+type: Location
+category: Government Agency
+significance: Major
+scope: Realm-wide
+authority_level: High
+member_count: ~2,000 active wardens
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:50.138011+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Depth Wardens
 *The Guardians of Aquabyssos*
@@ -646,3 +657,36 @@ Characters may find themselves in conflict with Depth Warden authority for vario
 - **[[02_Worldbuilding/Lore/Memory Alterations]]**: Crimes and evidence issues affecting warden investigations
 
 The Depth Wardens represent the backbone of law and order in Aquabyssos, serving as both protectors of the innocent and symbols of governmental authority while adapting to the unique challenges of maintaining security in a vast, three-dimensional underwater society.
+
+
+## Connections
+
+- [[Shadow Surgeons Collective]]
+- [[Legal System of Aquabyssos]]
+- [[The Emperor's Gambit]]
+- [[Admiral Thorne Blackwater]]
+- [[Azure Citadel]]
+- [[Harbor District]]
+- [[Merchant Prince Akula]]
+- [[Merchant Viktor Geargrind]]
+- [[Navigator Flux]]
+- [[New Tethys]]
+- [[Old Sally Seasprayer]]
+- [[Port Meridian - Market Square]]
+- [[Port Meridian Harbor]]
+- [[Pressure's End]]
+- [[The Bathyal Palace]]
+- [[The Cerulean Trench]]
+- [[The Living Weapon]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]
+- [[The Void Touched Depths]]
+- [[The Wandering Atoll]]
+- [[The Whispering Depths]]
+- [[Ambush Point]]
+- [[Bandit Scouts]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

@@ -1,16 +1,30 @@
 ---
-tags: [event, festival, aethermoor, crystal-corruption, transformation, bloodline, ritual, queen-seraphina, celebration, disaster]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- bloodline
+- celebration
+- complete
+- crystal-corruption
+- disaster
+- event
+- festival
+- lore
+- queen-seraphina
+- ritual
+- transformation
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-event_type: "Annual Festival turned Catastrophic Ritual"
-duration: "Originally 7 days, final year lasted 3 hours"
-location: "[[Crystal Festival Grounds]], [[Port Meridian]]"
-participants: "Entire population of [[Port Meridian]] and neighboring regions"
+updated: '2025-08-11T13:08:48.186783+00:00'
+event_type: Annual Festival turned Catastrophic Ritual
+duration: Originally 7 days, final year lasted 3 hours
+location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
+participants: Entire population of [[Port Meridian]] and neighboring regions
 ---
+
+
 
 # The Crystal Festival
 *The Celebration That Became a Chrysalis of Transformation*
@@ -140,3 +154,14 @@ Magical disturbances at the former festival grounds threaten to reactivate [[02_
 - [[02_Worldbuilding/Lore/The Great Crystallization]] - Historical event that established crystal-based magic
 - [[Festival Master Elena Brightcrystal]] - Traditional festival coordinator
 - [[The Crystal Artisans Guild]] - Organization responsible for festival's magical elements
+
+
+## Connections
+
+- [[Crystal Festival Grounds]]
+- [[Prismatic Falls]]
+- [[Bandit Scouts]]
+- [[Smuggler's Gambit]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Traveling Merchant Finn]]
+- [[Aethermoor - Session 06 The Bloodline Awakens]]

@@ -1,18 +1,33 @@
 ---
-tags: [technology, resonance-technology, crystal-amplification, magical-infrastructure, sound-manipulation, harmonic-engineering, aquabyssos, underwater-acoustics, vibration-control, dimensional-resonance]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Technological Infrastructure"
-significance: "Regional Critical Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- crystal-amplification
+- dimensional-resonance
+- harmonic-engineering
+- lore
+- magical-infrastructure
+- resonance-technology
+- sound-manipulation
+- technology
+- underwater-acoustics
+- vibration-control
+status: complete
+world: Aquabyssos
+type: Lore
+category: Technological Infrastructure
+significance: Regional Critical Infrastructure
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-11
-technology_type: "Harmonic Amplification Network"
-access_restriction: "Professional Only"
-danger_level: "High"
-operational_status: "Active"
+technology_type: Harmonic Amplification Network
+access_restriction: Professional Only
+danger_level: High
+operational_status: Active
+updated: '2025-08-11T13:08:47.182383+00:00'
 ---
+
+
 
 # Resonance Peaks
 *The Symphony of Stone and Crystal*
@@ -446,3 +461,9 @@ Involvement with Peak operations provides numerous opportunities for character d
 - [[02_Worldbuilding/People/Safety Director Storm Shieldvoice]] - Safety and security director
 
 The Resonance Peaks represent more than technological infrastructure—they embody Aquabyssos' mastery over the fundamental forces of sound and vibration, transforming the natural acoustic properties of the underwater environment into powerful tools for communication, defense, and discovery. Through these magnificent installations, the boundaries between engineering and art, between technology and harmony, dissolve into a symphony of stone, crystal, and purpose that resonates throughout the depths.
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[The Deep Mother]]

@@ -1,19 +1,28 @@
 ---
-tags: [npc, criminal, merchant]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
+tags:
+- aquabyssos
+- complete
+- criminal
+- merchant
+- npc
+status: complete
+world: Aquabyssos
+type: Location
 level: 8
-class: "Rogue/Warlock"
-race: "Pressure-Adapted Human"
-alignment: "Chaotic Evil"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+class: Rogue/Warlock
+race: Pressure-Adapted Human
+alignment: Chaotic Evil
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.102610+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Shadow Merchant Riptide
 
@@ -44,7 +53,7 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 ## Abilities and Resources
 
 ### Combat Capabilities
-**AC**: 16 (Studded Leather + Dex)  
+**AS**: 16 (Studded Leather + Dex)  
 **HP**: 112 (16d8 + 32)  
 **Speed**: 30 ft., swim 40 ft.  
 **Saving Throws**: Dex +8, Cha +6
@@ -196,3 +205,9 @@ Riptide operates as one of [[Aquabyssos]]'s most dangerous information brokers, 
 
 > [!danger] DM Secret
 > Riptide is actually the original founder of the [[Shadow Surgeons Collective]], but he had his own memories of this fact surgically removed to protect himself from retaliation. The current leadership of the Collective doesn't know their organization's true origins, and Riptide himself has forgotten why he sometimes experiences unexplained familiarity with their operations. If this truth is revealed, it could either destroy the Collective or reunite it under his leadership, dramatically shifting the criminal landscape of [[Aquabyssos]].
+
+
+## Connections
+
+- [[The Phosphor Markets]]
+- [[Rescue Senator Glaucus]]

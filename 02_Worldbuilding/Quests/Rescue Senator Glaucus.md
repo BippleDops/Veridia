@@ -1,15 +1,24 @@
 ---
-tags: [complete, rescue, political, intrigue, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- aquabyssos
+- complete
+- intrigue
+- political
+- quest
+- rescue
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.095819+00:00'
 ---
+
+
+
 
 # Rescue Senator Glaucus
 
@@ -97,7 +106,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 ### Shadow Merchant Riptide
 **CR 6** (2,300 XP)  
 **Medium humanoid (aquatic), chaotic evil**
-**AC** 16 (Studded Leather + Dex), **HP** 97 (13d8 + 39), **Speed** 30 ft., swim 40 ft.
+**AS** 16 (Studded Leather + Dex), **HP** 97 (13d8 + 39), **Speed** 30 ft., swim 40 ft.
 **STR** 12 (+1) **DEX** 18 (+4) **CON** 16 (+3) **INT** 16 (+3) **WIS** 14 (+2) **CHA** 20 (+5)
 **Saving Throws** Dex +7, Cha +8  
 **Skills** Deception +11, Insight +5, Persuasion +8, Sleight of Hand +7  
@@ -117,7 +126,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 ### Modified Shadow Surgery Patients
 **CR 4** (1,100 XP each)  
 **Medium humanoid (various), chaotic neutral**
-**AC** 13 (Natural Armor from surgical modifications), **HP** 58 (9d8 + 18), **Speed** 30 ft.
+**AS** 13 (Natural Armor from surgical modifications), **HP** 58 (9d8 + 18), **Speed** 30 ft.
 **STR** 16 (+3) **DEX** 14 (+2) **CON** 15 (+2) **INT** 8 (-1) **WIS** 6 (-2) **CHA** 10 (+0)
 **Damage Resistances** Psychic
 **Condition Immunities** Charmed, Frightened
@@ -135,7 +144,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 **Detective Coral Truthseeker**
 **CR 3** (700 XP)  
 **Medium humanoid (merfolk), lawful good**
-**AC** 14 (Studded Leather), **HP** 44 (8d8 + 8), **Speed** 30 ft., swim 40 ft.
+**AS** 14 (Studded Leather), **HP** 44 (8d8 + 8), **Speed** 30 ft., swim 40 ft.
 **STR** 11 (+0) **DEX** 16 (+3) **CON** 12 (+1) **INT** 18 (+4) **WIS** 17 (+3) **CHA** 14 (+2)
 **Skills** Insight +7, Investigation +8, Perception +7, Persuasion +4  
 **Senses** passive Perception 17
@@ -150,7 +159,7 @@ Senator Glaucus was investigating reports of illegal [[Shadow Surgeons Collectiv
 **Nurse Tidal Mercy**
 **CR 2** (450 XP)  
 **Medium humanoid (aquatic), neutral good**
-**AC** 11, **HP** 27 (5d8 + 5), **Speed** 30 ft., swim 30 ft.
+**AS** 11, **HP** 27 (5d8 + 5), **Speed** 30 ft., swim 30 ft.
 **STR** 10 (+0) **DEX** 12 (+1) **CON** 12 (+1) **INT** 16 (+3) **WIS** 18 (+4) **CHA** 15 (+2)
 **Skills** Medicine +8, Insight +6, Nature +5  
 **Senses** passive Perception 14
@@ -298,3 +307,12 @@ Connected Adventures
 
 > [!danger] DM Secret
 > Senator Glaucus has been replaced by a [[Shadow Surgeons Collective]] duplicate. The real senator died during the first memory extraction, but the duplicate believes it's the original. The truth will only emerge through careful magical examination.
+
+
+## Connections
+
+- [[Bandit Scouts]]
+- [[Smuggler's Gambit]]
+- [[Smuggler]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

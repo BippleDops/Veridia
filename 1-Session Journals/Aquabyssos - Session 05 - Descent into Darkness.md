@@ -1,30 +1,43 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, active]
+tags:
+- active
+- aquabyssos
+- parliament-shadows
+- planned
+- session
+- session-journal
 session_number: 5
-title: "Descent into Darkness"
-date_played: 
-location: [[Tenebrarum]]
-depth: "3,000-4,000 ft"
+title: Descent into Darkness
+date_played: null
+location:
+- - Tenebrarum
+depth: 3,000-4,000 ft
 npcs_featured:
-  - [[02_Worldbuilding/People/Shadow Duchess Nyx]]
-  - [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
-  - [[Shadow Broker Mirrors]]
-  - [[02_Worldbuilding/People/The Silhouette Surgeon Prime]]
-status: "planned"
+- - - 02_Worldbuilding/People/Shadow Duchess Nyx
+- - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
+- - - Shadow Broker Mirrors
+- - - 02_Worldbuilding/People/The Silhouette Surgeon Prime
+status: planned
 party_level: 6
-estimated_time: "4 hours"
+estimated_time: 4 hours
 themes:
-  - Shadow economy
-  - Identity theft
-  - Surgical body horror
+- Shadow economy
+- Identity theft
+- Surgical body horror
 quests_advanced:
-  - [[Stop the Shadow Harvest]]
-  - [[Investigate Shadow Trade]]
-type: Session Journal
+- - - Stop the Shadow Harvest
+- - - Investigate Shadow Trade
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.984214+00:00'
+created: '2025-08-11T13:08:46.984214+00:00'
 ---
+
+
+
 
 # Session 5: Descent into Darkness
 ## Act 2 Begins - Journey to Tenebrarum
@@ -99,20 +112,20 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 ## 🗡️ Combat Encounters
 
 ### Nightmare Surgeons (3)
-- **AC** 16, **HP** 58 each
+- **AS** 16, **HP** 58 each
 - **Surgical Precision**: +8 to hit, 2d6+4 slashing
 - **Shadow Scalpel**: Separates shadow on crit (CON DC 15)
 - **Nightmare Form**: Can phase through dream logic
 - **Weakness**: Disrupted by positive emotions
 
 ### Shadow Auction Enforcers (4)
-- **AC** 15, **HP** 42 each
+- **AS** 15, **HP** 42 each
 - **Shadow Weapons**: +1 magical, phase through armor
 - **Darkness Control**: Cast Darkness 1/day
 - **Tag Team**: Advantage when fighting alongside shadows
 
 ### The Silhouette Surgeon Prime
-- **AC** 17, **HP** 95
+- **AS** 17, **HP** 95
 - **Legendary Actions** (2/round)
 - **Shadow Surgery**: Can swap shadows between targets
 - **Flesh Suit**: Damage resistance while wearing human form

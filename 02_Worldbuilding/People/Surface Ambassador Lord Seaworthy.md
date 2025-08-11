@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aquabyssos, diplomat, surface-dweller, ambassador, aristocrat]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Surface Ambassador"
-affiliation: "[[Surface Kingdoms]] - Diplomatic Corps"
-age: "52"
-race: "Human (Air-breathing)"
-location: "[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy"
-created_by: "auto-stub"
+tags:
+- ambassador
+- aquabyssos
+- aristocrat
+- complete
+- diplomat
+- npc
+- person
+- surface-dweller
+status: complete
+world: Aquabyssos
+type: NPC
+role: Surface Ambassador
+affiliation: '[[Surface Kingdoms]] - Diplomatic Corps'
+age: '52'
+race: Human (Air-breathing)
+location: '[[02_Worldbuilding/Places/The Diplomatic Quarter]] - Surface Embassy'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.739968+00:00'
 ---
+
+
 
 # Surface Ambassador Lord Seaworthy
 *Bridge Between Worlds, Voice of the Surface Kingdoms*
@@ -527,3 +538,8 @@ Political upheaval in Aquabyssos or surface kingdoms threatens established diplo
 - **Social Encounters**: Master of complex negotiations and cultural translation
 - **Plot Integration**: His diplomatic position makes him involved in major political developments
 - **Character Development**: His struggles with divided loyalty can mirror party member conflicts
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]
+- [[Senator]]

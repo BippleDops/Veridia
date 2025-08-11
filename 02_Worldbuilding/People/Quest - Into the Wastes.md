@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Quest - Into the Wastes
 
 ![Quest - Into the Wastes Portrait](04_Resources/Assets/Art/NPCs/Quest_-_Into_the_Wastes.png)

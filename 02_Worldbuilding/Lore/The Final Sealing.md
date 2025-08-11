@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # The Final Sealing
 
 ![The Final Sealing Portrait](04_Resources/Assets/Art/Lore/The_Final_Sealing.png)

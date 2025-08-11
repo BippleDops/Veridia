@@ -1,0 +1,26 @@
+{
+  "required_frontmatter": [
+    "tags",
+    "type",
+    "world",
+    "status",
+    "created",
+    "updated"
+  ],
+  "required_tags": [
+    "world",
+    "type",
+    "status"
+  ],
+  "allowed_status": [
+    "draft",
+    "active",
+    "deprecated",
+    "stub"
+  ],
+  "allowed_world": [
+    "Aethermoor",
+    "Aquabyssos",
+    "Both"
+  ]
+}

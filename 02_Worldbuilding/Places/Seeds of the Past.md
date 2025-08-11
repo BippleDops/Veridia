@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Seeds of the Past
 
 ![Seeds of the Past Portrait](04_Resources/Assets/Art/Places/Seeds_of_the_Past.png)

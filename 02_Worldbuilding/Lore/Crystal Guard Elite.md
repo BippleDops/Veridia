@@ -1,14 +1,26 @@
 ---
-tags: [lore, crystal-guard, elite-warriors, crystal-magic, shadow-corruption, aethermoor, royal-guard, military-elite, possession-resistance]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Military Organization"
-significance: "Major Force"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crystal-guard
+- crystal-magic
+- elite-warriors
+- lore
+- military-elite
+- possession-resistance
+- royal-guard
+- shadow-corruption
+status: complete
+world: Aethermoor
+type: Lore
+category: Military Organization
+significance: Major Force
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.612037+00:00'
 ---
+
+
 
 # Crystal Guard Elite
 *The Queen's Crystalline Protectors*
@@ -344,3 +356,13 @@ The Guard represents the most successful anti-corruption force:
 
 *"They are no longer the knights we knew, but they are still the knights we need. The question is whether we can accept what they have become."*
 *- General Sterling Truecrystal, resistance leader*
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Customs House]]
+- [[Desperate Plague Victim]]
+- [[The Queen]]
+- [[The Seven Shards]]
+- [[Throne Room]]

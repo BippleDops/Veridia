@@ -1,11 +1,22 @@
 ---
-tags: [quest, exploration, mystery, deep-ocean]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-ocean
+- exploration
+- mystery
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.994975+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Into the Blue
 
@@ -114,3 +125,38 @@ Discoveries made during this quest can fundamentally change the campaign world's
 
 ## DM Notes
 This quest emphasizes exploration and discovery over combat. Focus on the sense of venturing into the truly unknown. Whatever players discover should feel significant and world-changing.
+
+
+## Connections
+
+- [[The Cerulean Trench]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

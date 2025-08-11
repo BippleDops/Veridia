@@ -1,44 +1,17 @@
 ---
-tags: [location, aquabyssos, abyssal, sorrow, memory, deep, dangerous]
-status: "complete"
-world: "Aquabyssos"
-type: "Abyssal Grief Sanctuary"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Deepest Ocean Mourning Ground"
-parent_location: "[[Aquabyssos]]"
-sub_locations:
-  - "[[The Sorrow Gardens]]"
-  - "[[Memory Tide Pools]]"
-  - "[[The Weeping Cliffs]]"
-  - "[[Grief Current Channels]]"
-  - "[[The Bone Monastery]]"
-depth: "8000-12000 feet"
-population: 150000
-danger_level: 9
-government: "Council of Mourners"
-ruler: "[[The Sorrowmaster]]"
-pressure_effects: "Extreme"
-temporal_stability: 65
-shadow_density: "Very High"
-services:
-  - "Memory Preservation"
-  - "Grief Processing"
-  - "Death Rites"
-  - "Sorrow Harvesting"
-  - "Memorial Construction"
-notable_npcs:
-  - "[[The Sorrowmaster]]"
-  - "[[Memory Keeper Lament]]"
-  - "[[Grief Harvester Melancholy]]"
-  - "[[Bone Architect Ossuary]]"
-current_state: "Eternal mourning with increasing shadow contamination"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.900175+00:00'
+created: '2025-08-11T13:08:50.900175+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Mourning Depths - Where Sorrow Never Ends
 *The Deepest Place of Grief in All the Oceans*
@@ -637,3 +610,12 @@ Built around the philosophy that sorrow, properly channeled, becomes the most po
 - [[Memory Sanctity Laws]] - Memory preservation regulations
 - [[Grief Overwhelming Syndrome]] - Emotional hazard
 - [[Lament Architecture]] - Unique building style
+
+
+## Connections
+
+- [[Continental Connections & Story Weave]]
+- [[The Wake]]
+- [[Abyssos Prime]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]

@@ -1,14 +1,27 @@
 ---
-tags: [quest, political, economic, espionage, international]
+tags:
+- available
+- both
+- economic
+- espionage
+- international
+- intrigue/social
+- political
+- quest
 level: 6-8
-type: Intrigue/Social
+type: Lore
 status: Available
-reward: Major
-  - Category/Quest
+reward: Major - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.096901+00:00'
+created: '2025-08-11T13:08:50.096901+00:00'
 ---
+
+
+
 
 # Economic Warfare
 
@@ -202,3 +215,8 @@ Aethermoor genuinely cannot pay its debts without Confederate help. Default mean
 - Relates to: "The Green Death" (Confederate resources for cure)
 - Leads to: "Sovereignty's End" (if failed)
 - References: All Shard quests (proving solution to crisis)
+
+
+## Connections
+
+- [[Aurelius Goldwave]]

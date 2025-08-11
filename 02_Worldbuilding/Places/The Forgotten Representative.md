@@ -1,15 +1,27 @@
 ---
-tags: [npc, forgotten, representative, political, mystery, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- forgotten
+- mystery
+- npc
+- political
+- representative
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.799096+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Forgotten Representative
 
@@ -29,7 +41,7 @@ Their voice carries strange harmonics, as if multiple people were speaking simul
 
 ## Statistics
 **Medium humanoid (?), lawful good**
-- **AC** 15 (Natural Armor)
+- **AS** 15 (Natural Armor)
 - **HP** 78 (12d8 + 24)
 - **Speed** 30 ft, swim 30 ft
 - **STR** 12 (+1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 20 (+5) **WIS** 18 (+4) **CHA** 19 (+4)
@@ -66,3 +78,41 @@ They seem particularly focused on ensuring that any resolution to the crisis ack
 
 ## DM Notes
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

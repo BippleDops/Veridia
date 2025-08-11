@@ -1,18 +1,17 @@
 ---
-tags: [npc, leader, church_of_tidal_throne, religious, prophet]
-aliases: [Prophet Voidgazer, The Drowned Oracle, Nerida]
-created: 2024-12-19
-image: "04_Resources/Assets/NPCs/nerida_voidgazer.jpg"
-level: 16
-class: "Cleric/Warlock"
-race: "Void-Touched Human"
-alignment: "Chaotic Neutral"
-status: "Alive?"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.941396+00:00'
+created: '2025-08-11T13:08:49.941396+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
+
 
 # Prophet Nerida Voidgazer
 
@@ -137,3 +136,27 @@ Recent visions she's shared:
 - **Depth Pilgrims**: Seek transformation in trenches
 - **Void Witnesses**: Spread her visions
 - **The Ascending**: Prepare for the Second Drowning
+
+
+## Connections
+
+- [[The Drowning Welcome]]
+- [[Timeline of the Drowning]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

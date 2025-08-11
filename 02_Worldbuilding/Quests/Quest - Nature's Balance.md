@@ -1,21 +1,32 @@
 ---
-tags: [quest, elemental, balance, nature, both-realms, environmental]
-quest_status: "Available"
-quest_priority: "High"
-quest_type: "Main Quest"
-level_range: "8-14"
-world: "Both"
-quest_giver: "The Emerald Sage Willowbark"
-rewards: "Legendary Items, Realm Stability, Nature's Blessing"
-time_limit: "30 days before irreversible damage"
-created_by: "system"
+tags:
+- balance
+- both
+- both-realms
+- draft
+- elemental
+- environmental
+- nature
+- quest
+quest_status: Available
+quest_priority: High
+quest_type: Main Quest
+level_range: 8-14
+world: Both
+quest_giver: The Emerald Sage Willowbark
+rewards: Legendary Items, Realm Stability, Nature's Blessing
+time_limit: 30 days before irreversible damage
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.046236+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
+status: draft
+type: Lore
 ---
+
+
 
 # Quest - Nature's Balance
 
@@ -338,3 +349,9 @@ With the device destroyed, the party must perform a forgotten ritual to permanen
 - [[The Concordat Seal]]
 - [[Nature's Heart]]
 - [[Balance Stones]]
+
+## Connections
+
+- [[The Forsaken Consortium Collective]]
+- [[Archdruid Thornweaver]]
+- [[The Verdant Reach]]

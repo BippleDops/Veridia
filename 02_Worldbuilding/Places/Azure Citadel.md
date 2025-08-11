@@ -1,15 +1,25 @@
 ---
-tags: [location, fortress, military, government]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- fortress
+- government
+- location
+- military
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.767310+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Azure Citadel
 
@@ -385,7 +395,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **Crystal Defenses**: The citadel's automated defenses activate when threatened:
 - **Detection**: Passive Perception 20 for unauthorized intrusion
 - **Crystal Turrets**: +8 to hit, 2d8+4 force damage, 120 ft range
-- **Barrier Generation**: AC 20, 50 hp force barriers appear to block passages
+- **Barrier Generation**: AS 20, 50 hp force barriers appear to block passages
 
 **Deep Watch Effects**: Characters who spend extended time monitoring [[The Hadal Depths]] must make escalating Wisdom saving throws:
 - **1 week**: DC 12 or gain the Frightened condition for 1 hour
@@ -396,7 +406,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 ### Notable NPCs (D&D 5e Stats)
 
 **[[Admiral Thorne Blackwater]]** (Human Veteran with additional features)
-- **AC**: 18 (Plate Armor)
+- **AS**: 18 (Plate Armor)
 - **HP**: 95 (13d8 + 39)
 - **Speed**: 30 ft, Swim 60 ft
 - **STR**: 16, **DEX**: 13, **CON**: 16, **INT**: 14, **WIS**: 11, **CHA**: 16
@@ -404,7 +414,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - **Special**: Legendary Actions (3 per turn), Underwater Adaptation, Command Presence
 
 **[[Commander Drake Pressureborn]]** (Human Knight with aquatic adaptations)
-- **AC**: 18 (Plate Armor)
+- **AS**: 18 (Plate Armor)
 - **HP**: 78 (12d8 + 24)
 - **Speed**: 30 ft, Swim 50 ft
 - **Special**: Pressure Immunity, Deep Sight (darkvision 120 ft), Tactical Genius
@@ -445,3 +455,26 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 
 > [!danger] DM Secret
 > The Azure Citadel was not built where it is by accident. It sits directly above a sealed portal to [[The Hadal Depths]] that predates the Great Drowning. The entire fortress is actually a massive containment facility, and its real purpose is not to defend [[Aquabyssos]] from external threats, but to prevent something far worse from escaping into the world. [[Admiral Thorne Blackwater]] knows this truth, and it's part of what's driving him to madness - he realizes that if the citadel ever falls, the thing beneath it will be the least of their problems.
+
+
+## Connections
+
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Merchant Viktor Geargrind]]
+- [[Pearl_Harbor_City]]
+- [[Royal Palace]]
+- [[Seamstress Coral Silkweaver]]
+- [[The Crystal Wardens]]
+- [[The Depth Market]]
+- [[The Foundation Depths]]
+- [[The Free Current]]
+- [[The Gilded Shard]]
+- [[The Lock]]
+- [[The Neutral Current Tavern]]
+- [[The Neutral Ground]]
+- [[Void Currents]]
+- [[Aether Crystals]]
+- [[Smuggler's Gambit]]
+- [[Campaign_Relationship_Matrix]]

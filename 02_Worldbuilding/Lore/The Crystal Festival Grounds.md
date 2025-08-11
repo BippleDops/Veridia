@@ -1,12 +1,21 @@
 ---
-tags: [lore, location, festival-grounds, crystal-festival, celebration]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- celebration
+- complete
+- crystal-festival
+- festival-grounds
+- location
+- lore
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.341978+00:00'
 ---
+
+
 
 # The Crystal Festival Grounds
 
@@ -44,3 +53,9 @@ Main festival lasts one week annually, with year-round smaller events.
 
 ## Campaign Use
 Provides colorful setting for social encounters, diplomatic missions, and cultural exploration adventures.
+
+
+## Connections
+
+- [[Crystal Festival]]
+- [[Crystal Mimics]]

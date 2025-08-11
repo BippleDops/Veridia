@@ -1,17 +1,33 @@
 ---
-tags: [npc, druid, corrupted, eco-terrorist, verdant-reach]
+tags:
+- active---category/people
+- both
+- corrupted
+- druid
+- eco-terrorist
+- npc
+- verdant-reach
 alignment: Neutral Evil
 race: Elf
 class: Druid/Blood Hunter
 level: 11
-location: [[02_Worldbuilding/Places/The Verdant Reach]]
+location:
+- - 02_Worldbuilding/Places/The Verdant Reach
 faction: The Withered Court (Splinter Group)
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.897864+00:00'
+created: '2025-08-11T13:08:49.897864+00:00'
+type: NPC
 ---
+
+
+
+
+
 
 # Sorrow-Root Nightbloom
 
@@ -87,3 +103,21 @@ A growing faction of druids, rangers, and fey who believe that:
 - Negotiate a temporary alliance against a greater threat
 - Investigate disappearing druid circles being forcibly recruited
 - Race to find the components for the Green Death before they do
+
+
+## Connections
+
+- [[Quest - The Root Network]]
+- [[Find the Grief Bomb]]
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # The Forgotten Archive
 
 ![The Forgotten Archive Portrait](04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png)

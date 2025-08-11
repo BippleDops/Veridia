@@ -1,17 +1,27 @@
 ---
-tags: [item, currency, magical-currency, aethermoor, seven-shards-connected, economic-system]
-status: "complete"
-world: "Aethermoor"
-type: "magical_currency"
-item_type: "Crystallized Magical Energy"
-rarity: "Common to Legendary (varies by size and purity)"
-requires_attunement: "No (for basic use)"
-affiliation: "[[Queen Seraphina Lumengarde]] (Royal Mint Authority)"
-current_location: "Throughout Aethermoor Economic System"
+tags:
+- aethermoor
+- complete
+- currency
+- economic-system
+- item
+- magical-currency
+- magical_currency
+- seven-shards-connected
+status: complete
+world: Aethermoor
+type: Item
+item_type: Crystallized Magical Energy
+rarity: Common to Legendary (varies by size and purity)
+requires_attunement: No (for basic use)
+affiliation: '[[Queen Seraphina Lumengarde]] (Royal Mint Authority)'
+current_location: Throughout Aethermoor Economic System
 danger_level: 1
-created_by: "Claude"
+created_by: Claude
 created: 2025-08-10
+updated: '2025-08-11T13:08:47.106787+00:00'
 ---
+
 
 # Aether Crystals
 *Crystallized Magic as Living Currency*

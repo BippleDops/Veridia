@@ -1,20 +1,35 @@
 ---
-tags: [temporal-mechanics, anomaly-resolution, time-distortion, chronological-engineering, temporal-safety, temporal-research, dimensional-stability, time-paradox, advanced-physics, environmental-hazards]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Temporal Engineering"
-significance: "Critical Safety Infrastructure"
-created_by: "environmental-expansion"
+tags:
+- advanced-physics
+- anomaly-resolution
+- both
+- chronological-engineering
+- complete
+- dimensional-stability
+- environmental-hazards
+- lore
+- temporal-mechanics
+- temporal-research
+- temporal-safety
+- time-distortion
+- time-paradox
+status: complete
+world: Both
+type: Lore
+category: Temporal Engineering
+significance: Critical Safety Infrastructure
+created_by: environmental-expansion
 created: 2025-08-08
-updated: 2025-08-11
-technology_type: "Temporal Stabilization System"
-access_restriction: "Specialist Personnel Only"
-danger_level: "Variable - Moderate to Catastrophic"
-operational_scope: "Cross-Realm Temporal Management"
-response_time: "Immediate to Extended Operations"
-specialization_required: "Temporal Engineering Certification"
+updated: '2025-08-11T13:08:48.583849+00:00'
+technology_type: Temporal Stabilization System
+access_restriction: Specialist Personnel Only
+danger_level: Variable - Moderate to Catastrophic
+operational_scope: Cross-Realm Temporal Management
+response_time: Immediate to Extended Operations
+specialization_required: Temporal Engineering Certification
 ---
+
+
 
 # Temporal Anomaly Resolution
 *Restoring Order to the Flow of Time*
@@ -622,3 +637,8 @@ Working with Temporal Anomaly Resolution provides unique character development o
 - **[[Training Supervisor Learning Moment]]**: Director of temporal engineering education programs
 
 Temporal Anomaly Resolution represents humanity's most ambitious attempt to master time itself, not for personal gain or power, but for the protection and preservation of causality itself. Through these dedicated services, the natural order of cause and effect is maintained, paradoxes are prevented, and the flow of time continues toward its intended destination. As the convergence between realms creates increasingly complex temporal challenges, these brave specialists stand as guardians of the very foundation of reality—ensuring that tomorrow will arrive as it should, and yesterday remains where it belongs.
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

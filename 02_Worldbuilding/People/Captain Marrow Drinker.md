@@ -1,26 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.977566+00:00'
+created: '2025-08-11T13:08:49.977566+00:00'
+status: draft
 tags:
-  - npc
-  - captain
-  - vampire
-  - pirate
-  - evil
-  - undead
+- both
+- draft
 type: NPC
-race: Vampire (formerly Human)
-class: Fighter/Warlock
-level: 14
-alignment: Chaotic Evil
-location: [[02_Worldbuilding/Places/The Shadowmere]]
-faction: [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
-status: Active
-created: 2025-08-09
-image: "04_Resources/Assets/NPCs/captain_marrow_drinker.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # Captain Marrow Drinker
 *The Crimson Terror, Lord of the Shadow-Touched Waters*

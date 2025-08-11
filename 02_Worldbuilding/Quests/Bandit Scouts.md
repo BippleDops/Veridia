@@ -1,16 +1,25 @@
 ---
-tags: [complete, adventure, bandits, wilderness, escort, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-expansion"
+tags:
+- adventure
+- aquabyssos
+- bandits
+- complete
+- escort
+- quest
+- wilderness
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-expansion
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.050552+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Bandit Scouts
 
@@ -118,7 +127,7 @@ Recent incidents include:
 **Bandit Scout Patrol**
 **CR 3** (700 XP each)  
 **Medium humanoid (various aquatic), chaotic evil**
-**AC** 14 (Studded Leather), **HP** 38 (7d8 + 7), **Speed** 30 ft., swim 40 ft.
+**AS** 14 (Studded Leather), **HP** 38 (7d8 + 7), **Speed** 30 ft., swim 40 ft.
 **STR** 13 (+1) **DEX** 16 (+3) **CON** 12 (+1) **INT** 11 (+0) **WIS** 15 (+2) **CHA** 10 (+0)
 **Skills** Perception +4, Stealth +7, Survival +4  
 **Senses** Darkvision 60 ft., passive Perception 14
@@ -136,7 +145,7 @@ Recent incidents include:
 **Scout Leader Razor Finstrike**
 **CR 6** (2,300 XP)  
 **Medium humanoid (merfolk), chaotic evil**
-**AC** 16 (Studded Leather + Shield), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
+**AS** 16 (Studded Leather + Shield), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
 **STR** 15 (+2) **DEX** 16 (+3) **CON** 14 (+2) **INT** 14 (+2) **WIS** 16 (+3) **CHA** 12 (+1)
 **Saving Throws** Dex +6, Wis +6  
 **Skills** Athletics +5, Insight +6, Perception +9, Stealth +6, Survival +6  
@@ -201,7 +210,7 @@ Recent incidents include:
 **Bandit Quartermaster**
 **CR 4** (1,100 XP)  
 **Medium humanoid (aquatic), neutral evil**
-**AC** 15 (Chain Shirt), **HP** 58 (9d8 + 18), **Speed** 30 ft., swim 30 ft.
+**AS** 15 (Chain Shirt), **HP** 58 (9d8 + 18), **Speed** 30 ft., swim 30 ft.
 **STR** 14 (+2) **DEX** 13 (+1) **CON** 14 (+2) **INT** 16 (+3) **WIS** 12 (+1) **CHA** 15 (+2)
 **Skills** Deception +4, Insight +3, Investigation +5, Sleight of Hand +3  
 **Senses** passive Perception 11
@@ -215,7 +224,7 @@ Recent incidents include:
 **Trained War Shark**
 **CR 5** (1,800 XP)  
 **Large beast, unaligned**
-**AC** 13 (Natural Armor), **HP** 84 (8d12 + 32), **Speed** 0 ft., swim 60 ft.
+**AS** 13 (Natural Armor), **HP** 84 (8d12 + 32), **Speed** 0 ft., swim 60 ft.
 **STR** 23 (+6) **DEX** 11 (+0) **CON** 19 (+4) **INT** 2 (-4) **WIS** 10 (+0) **CHA** 5 (-3)
 **Skills** Perception +3  
 **Senses** Blindsight 30 ft., passive Perception 13
@@ -271,7 +280,7 @@ Through investigation, the party discovers the bandits' main base is located in 
 **Bandit Chief "Depth Reaper"**
 **CR 9** (5,000 XP)  
 **Medium humanoid (aquatic), chaotic evil**
-**AC** 17 (Studded Leather + Cloak of Protection), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft.
+**AS** 17 (Studded Leather + Cloak of Protection), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft.
 **STR** 16 (+3) **DEX** 18 (+4) **CON** 16 (+3) **INT** 15 (+2) **WIS** 14 (+2) **CHA** 18 (+4)
 **Saving Throws** Dex +8, Cha +8  
 **Skills** Deception +8, Insight +6, Intimidation +12, Perception +6, Persuasion +8  
@@ -296,7 +305,7 @@ Through investigation, the party discovers the bandits' main base is located in 
 **Elite Bandit Lieutenant**
 **CR 7** (2,900 XP each)  
 **Medium humanoid (various), lawful evil**
-**AC** 16 (Chain Mail), **HP** 84 (13d8 + 26), **Speed** 30 ft., swim 30 ft.
+**AS** 16 (Chain Mail), **HP** 84 (13d8 + 26), **Speed** 30 ft., swim 30 ft.
 **STR** 16 (+3) **DEX** 14 (+2) **CON** 14 (+2) **INT** 13 (+1) **WIS** 16 (+3) **CHA** 14 (+2)
 **Saving Throws** Str +6, Con +5  
 **Skills** Athletics +6, Intimidation +5, Perception +6  
@@ -434,3 +443,7 @@ Through investigation, the party discovers the bandits' main base is located in 
 
 > [!danger] DM Secret
 > The "Depth Reaper" is actually a front for a legitimate political faction attempting to destabilize the current government. The bandits believe they're working for a crime boss, but they're actually pawns in a larger political conspiracy. This revelation can lead to higher-level adventures involving political intrigue and government reform.
+
+## Connections
+
+- [[Find_the_Missing_Caravan]]

@@ -1,21 +1,27 @@
 ---
 tags:
-  - npc
-  - criminal
-  - syndicate
-  - apprentice
-  - aethermoor
-  - aquabyssos
-type: NPC Group
-world: "Both Realms"
-faction: "[[02_Worldbuilding/Groups/The Whisper Syndicate]]"
+- active
+- aethermoor
+- apprentice
+- aquabyssos
+- both-realms
+- criminal
+- npc
+- npc-group
+- syndicate
+type: NPC
+world: Both Realms
+faction: '[[02_Worldbuilding/Groups/The Whisper Syndicate]]'
 status: Active
-created: 2025-08-09
-  - Category/People
+created: 2025-08-09 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.901034+00:00'
 ---
+
+
+
 
 # Vex Shadowthorn's Apprentices
 *The Next Generation of Shadow*
@@ -269,3 +275,9 @@ obsidianUIMode: preview
 - Perfect for recurring antagonist roles that can eventually become allies
 - Each has enough character development to carry their own subplot
 - Group represents different aspects of criminal life in the setting
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Aethermoor - Session 02 The Lighthouse of Storms]]

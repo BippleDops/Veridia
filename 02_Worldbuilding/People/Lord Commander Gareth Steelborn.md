@@ -1,24 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.898715+00:00'
+created: '2025-08-11T13:08:49.898715+00:00'
+status: draft
 tags:
-  - npc
-  - military
-  - paladin
-  - leader
+- both
+- draft
 type: NPC
-race: Human
-class: Paladin/Fighter
-level: 14
-alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "[[Crystal Wardens]]"
-status: Alive
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/gareth_steelborn.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Lord Commander Gareth Steelborn
 *The Crystal Shield, Defender of the Realm*
@@ -176,3 +168,8 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Military support
 - [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
 - [[Quest - The Traitor Within]] - Investigating corruption
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

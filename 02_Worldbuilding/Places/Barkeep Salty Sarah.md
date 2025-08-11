@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Barkeep Salty Sarah
 
 ![Barkeep Salty Sarah Portrait](04_Resources/Assets/Art/Places/Barkeep_Salty_Sarah.png)

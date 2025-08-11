@@ -1,22 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.027611+00:00'
+created: '2025-08-11T13:08:50.027611+00:00'
+status: draft
 tags:
-  - quest
-  - diplomacy
-  - political
-  - urgent
-type: Quest
-quest_giver: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-location: Multiple
-level: 6-10
-status: Available
-reward_type: Political
-created: 2024-12-20
-image: "04_Resources/Assets/Quests/diplomatic_immunity.jpg"
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Quest - Diplomatic Immunity
 *Preventing the War Nobody Wins*
@@ -290,3 +284,8 @@ Need 25+ points for lasting peace
 - Determines NPC fates
 - Changes campaign tone
 - Influences ending
+
+
+## Connections
+
+- [[The Shadow War Coalition]]

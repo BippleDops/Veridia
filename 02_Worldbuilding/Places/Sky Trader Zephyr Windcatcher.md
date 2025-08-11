@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Sky Trader Zephyr Windcatcher
 
 ![Sky Trader Zephyr Windcatcher Portrait](04_Resources/Assets/Art/Places/Sky_Trader_Zephyr_Windcatcher.png)

@@ -1,16 +1,29 @@
 ---
-tags: [lore, technology, crystal-corruption, tracking-system, aethermoor, monitoring-device, magical-technology, corruption-detection, data-analysis, innovation]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Monitoring Technology"
-significance: "Critical Safety System"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corruption-detection
+- crystal-corruption
+- data-analysis
+- innovation
+- lore
+- magical-technology
+- monitoring-device
+- technology
+- tracking-system
+status: complete
+world: Aethermoor
+type: Lore
+category: Monitoring Technology
+significance: Critical Safety System
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-technology_type: "Magical Detection and Analysis System"
-access_restriction: "Authorized Personnel Only"
+updated: '2025-08-11T13:08:47.653566+00:00'
+technology_type: Magical Detection and Analysis System
+access_restriction: Authorized Personnel Only
 ---
+
+
 
 # Crystal-Corruption-Tracking-Sheet
 *The Silent Guardian Against Crystalline Corruption*
@@ -464,3 +477,12 @@ Understanding tracking systems helps navigate society:
 - [[02_Worldbuilding/People/Master Detection Engineer Crystal Sensorwright]] - Manufacturing facility director
 - [[02_Worldbuilding/Groups/Corruption Intelligence Agency]] - Primary user organization
 - [[02_Worldbuilding/Groups/Anti-Corruption Research Institute]] - Research partner using tracking data
+
+
+## Connections
+
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
+- [[Random Encounters]]
+- [[The Depth Chart]]
+- [[Campaign_Relationship_Matrix]]

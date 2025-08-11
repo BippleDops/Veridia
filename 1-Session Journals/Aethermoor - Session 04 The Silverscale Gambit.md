@@ -1,46 +1,51 @@
 ---
-tags: [session, aethermoor, crystal-plague, seven-shards]
-session: "Session-04"
-date: 
-type: "session"
+tags:
+- aethermoor
+- crystal-plague
+- draft
+- session
+- seven-shards
+session: Session-04
+date: null
+type: Lore
 players: []
 absent: []
-campaign: "Aethermoor - The Plague of Crystals"
-primary_location: "[[Port Meridian - Merchant Quarter]]"
+campaign: Aethermoor - The Plague of Crystals
+primary_location: '[[Port Meridian - Merchant Quarter]]'
 locations_visited:
-  - "[[Port Meridian - Merchant Quarter]]"
-  - "[[Silverscale Banking House]]"
-  - "[[Smuggler's Cove]]"
-  - "[[Silverscale Emergency Bunker]]"
-  - "[[Abandoned Consortium Warehouse]]"
+- '[[Port Meridian - Merchant Quarter]]'
+- '[[Silverscale Banking House]]'
+- '[[Smuggler''s Cove]]'
+- '[[Silverscale Emergency Bunker]]'
+- '[[Abandoned Consortium Warehouse]]'
 npcs_met:
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
-  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
-  - "[[Director Hadrian Silverscale]]"
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
+- '[[02_Worldbuilding/People/Vex Shadowthorn]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[Director Hadrian Silverscale]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
 encounters:
-  - "[[Crimson Hand Strike Team]]"
-  - "[[Vex Shadowthorn Boss Fight]]"
-  - "[[Consortium Security Constructs]]"
+- '[[Crimson Hand Strike Team]]'
+- '[[Vex Shadowthorn Boss Fight]]'
+- '[[Consortium Security Constructs]]'
 quests_started:
-  - "[[The Silverscale Conspiracy]]"
-  - "[[Race Against the Festival]]"
+- '[[The Silverscale Conspiracy]]'
+- '[[Race Against the Festival]]'
 quests_progressed:
-  - "[[The Seven Shards Mystery]]"
-  - "[[Investigate the Crystal Plague]]"
+- '[[The Seven Shards Mystery]]'
+- '[[Investigate the Crystal Plague]]'
 quests_completed: []
-items_gained: 
-  - "Shard Compass"
-  - "Aquabyssos breathing apparatus"
-  - "Crimson Hand intelligence reports"
+items_gained:
+- Shard Compass
+- Aquabyssos breathing apparatus
+- Crimson Hand intelligence reports
 gold_gained: 1000
 xp_awarded: 1200
-plot_threads: 
-  - "Marina revealed as Aquabyssos descendant"
-  - "Consortium mining dead Aquabyssos ruins"
-  - "Vex was Marcus's apprentice"
-  - "Queen discovered shard in royal vault"
-  - "Crystal Festival aligned with cosmic event"
+plot_threads:
+- Marina revealed as Aquabyssos descendant
+- Consortium mining dead Aquabyssos ruins
+- Vex was Marcus's apprentice
+- Queen discovered shard in royal vault
+- Crystal Festival aligned with cosmic event
 duration_hours: 4
 level: 4
 danger_level: 7
@@ -49,7 +54,13 @@ aquabyssos_connection: true
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.965863+00:00'
+created: '2025-08-11T13:08:46.965863+00:00'
+status: draft
 ---
+
+
 
 # Session 4: The Silverscale Gambit
 

@@ -1,48 +1,61 @@
 ---
-tags: [location, aquabyssos, cult, recursion, temporal, dangerous]
-location_name: "The Recursion Cult Complex"
-location_type: "Temporal Cult Compound"
-parent_location: "[[Abyssos Prime]]"
+tags:
+- aquabyssos
+- both
+- complete
+- cult
+- dangerous
+- location
+- recursion
+- temporal
+location_name: The Recursion Cult Complex
+location_type: Temporal Cult Compound
+parent_location: '[[Abyssos Prime]]'
 sub_locations:
-  - "[[The Infinite Chamber]]"
-  - "[[Memory Loop Gardens]]"
-  - "[[Paradox Meditation Cells]]"
-  - "[[The Causality Engine]]"
-  - "[[Temporal Observation Deck]]"
-depth: "3200-3500 feet"
+- '[[The Infinite Chamber]]'
+- '[[Memory Loop Gardens]]'
+- '[[Paradox Meditation Cells]]'
+- '[[The Causality Engine]]'
+- '[[Temporal Observation Deck]]'
+depth: 3200-3500 feet
 population: 200
-government: "Theocratic Recursion Council"
-ruler: "[[02_Worldbuilding/People/The Recursion Oracle]]"
+government: Theocratic Recursion Council
+ruler: '[[02_Worldbuilding/People/The Recursion Oracle]]'
 factions:
-  - "[[The Infinity Seekers]]"
-  - "[[Temporal Purists]]"
-  - "[[The Loop Breakers]]"
-  - "[[Paradox Engineers]]"
+- '[[The Infinity Seekers]]'
+- '[[Temporal Purists]]'
+- '[[The Loop Breakers]]'
+- '[[Paradox Engineers]]'
 danger_level: 8
 visited: false
 discovered: false
 services:
-  - "Temporal Navigation"
-  - "Memory Loop Creation"
-  - "Paradox Consultation"
-  - "Reality Anchoring"
-  - "Time Distortion Effects"
+- Temporal Navigation
+- Memory Loop Creation
+- Paradox Consultation
+- Reality Anchoring
+- Time Distortion Effects
 notable_npcs:
-  - "[[02_Worldbuilding/People/The Recursion Oracle]]"
-  - "[[Paradox Engineer Zeno]]"
-  - "[[Loop-Walker Celia]]"
-  - "[[Temporal Archivist Chronos]]"
-current_state: "Active temporal experiments"
+- '[[02_Worldbuilding/People/The Recursion Oracle]]'
+- '[[Paradox Engineer Zeno]]'
+- '[[Loop-Walker Celia]]'
+- '[[Temporal Archivist Chronos]]'
+current_state: Active temporal experiments
 temporal_stability: 15
-shadow_density: "Variable"
-pressure_effects: "Severe"
-status: "complete"
-created: 2025-08-11
-  - Category/Place
+shadow_density: Variable
+pressure_effects: Severe
+status: complete
+created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.949136+00:00'
+type: Location
 ---
+
+
+
 
 # The Recursion Cult Complex
 ## Where Time Eats Itself
@@ -380,3 +393,11 @@ Observations from the Temporal Observation Deck show that in every timeline wher
 ---
 
 *"In the Recursion Cult Complex, the question isn't who you are, but when you are—and whether you'll still be you when you find out."*
+
+
+## Connections
+
+- [[Secret Vault Beneath Throne]]
+- [[The Forgotten One]]
+- [[The Shadow Markets]]
+- [[Vote Vaults]]

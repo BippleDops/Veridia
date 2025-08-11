@@ -1,16 +1,26 @@
 ---
-tags: [person, npc, aethermoor, purist-coalition, military-commander, former-crystal-warden]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Military Commander"
-affiliation: "[[02_Worldbuilding/Groups/Purist Coalition]] - Military Wing"
-age: "43"
-race: "Human"
-location: "[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- former-crystal-warden
+- military-commander
+- npc
+- person
+- purist-coalition
+status: complete
+world: Aethermoor
+type: NPC
+role: Military Commander
+affiliation: '[[02_Worldbuilding/Groups/Purist Coalition]] - Military Wing'
+age: '43'
+race: Human
+location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.824235+00:00'
 ---
+
+
 
 # Commander Thrace Ironwood
 *The Steel Fist of Purity, Former Crystal Warden Turned Crusader*
@@ -500,3 +510,10 @@ Thrace plans a massive assault on the [[Crystal Festival]] that could kill thous
 - **Social Encounters**: Driven by genuine conviction but increasingly inflexible
 - **Character Development**: Can be redeemed through addressing his trauma, or can fall further into extremism
 - **Campaign Impact**: His actions should have lasting consequences for crystal technology and political stability
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]

@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, cathedral, religious, military, temple, depthshield, depths, fortress-temple]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Fortress-Cathedral"
-parent_location: "The Abyssal Defense Line"
-depth: "12,000 feet"
-danger_level: 3
-population: "250 (priests, acolytes, and guards)"
-government: "Religious Military Order"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.104453+00:00'
+created: '2025-08-11T13:08:51.104453+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Depthshield Cathedral
 *Fortress of Faith in the Deep*
@@ -421,3 +416,11 @@ The Depthshield Cathedral serves as both religious sanctuary and military fortre
 **Sacred Mission**: Divine missions that advance both personal and campaign objectives
 
 The Depthshield Cathedral stands as a beacon of faith and strength in [[Aquabyssos]]'s depths, where the combination of divine blessing and martial prowess creates defenders capable of facing the realm's most dangerous supernatural threats. Under the guidance of [[Battle Priest Cassius Depthshield]]'s legacy, this unique institution continues to forge warrior-priests who serve as bulwarks against the darkness rising from the deepest places, ensuring that faith and courage can overcome even the most crushing pressures of the deep.
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[Pressure's End]]
+- [[The Forgotten One]]
+- [[The Living Weapon]]

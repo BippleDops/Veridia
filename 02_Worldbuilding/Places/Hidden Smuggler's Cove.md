@@ -1,18 +1,30 @@
 ---
-tags: [location, aethermoor, coastal, smuggling, pirates, crystals, dangerous, secret]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-danger_level: "moderate"
-access: "hidden"
-region: "Shattered Coast"
-faction_influence: "Shadowhawk Syndicate"
-created_by: "auto-stub"
-updated: 2025-08-10
+tags:
+- aethermoor
+- coastal
+- complete
+- crystals
+- dangerous
+- location
+- pirates
+- secret
+- smuggling
+status: complete
+world: Aethermoor
+type: Location
+danger_level: Moderate
+access: hidden
+region: Shattered Coast
+faction_influence: Shadowhawk Syndicate
+created_by: auto-stub
+updated: '2025-08-11T13:08:50.716185+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
+created: '2025-08-11T13:08:50.716185+00:00'
 ---
+
+
 
 # Hidden Smuggler's Cove
 
@@ -547,3 +559,11 @@ Environmental damage from crystal corruption may reach a tipping point, forcing 
 ---
 
 *The Hidden Smuggler's Cove represents the intersection of criminal enterprise and magical corruption that defines much of Aethermoor's shadowy underworld. Here, desperation and opportunity create strange alliances, while the ever-present threat of discovery keeps tensions high and loyalties fluid.*
+
+## Connections
+
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[The Siren's Rest Tavern]]
+- [[Ambush Point]]
+- [[Aethermoor - Session 04 The Silverscale Gambit]]

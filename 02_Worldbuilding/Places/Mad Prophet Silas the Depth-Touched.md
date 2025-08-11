@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Mad Prophet Silas the Depth-Touched
 
 ![Mad Prophet Silas the Depth-Touched Portrait](04_Resources/Assets/Art/Places/Mad_Prophet_Silas_the_Depth-Touched.png)

@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, docks, trade, transport, maritime, commerce, harbor]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Major Port Complex"
-parent_location: "Abyssos Prime"
-depth: "4,000-6,000 feet"
-danger_level: 3
-population: "~8,000 workers, traders, and travelers daily"
-government: "Harbor Authority under Crown jurisdiction"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.484183+00:00'
+created: '2025-08-11T13:08:50.484183+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Abyssos Prime Docks
 *Gateway to the Crown City*
@@ -646,3 +641,8 @@ The Abyssos Prime Docks represent the maritime heart of the crown city, a sprawl
 - [[Maritime Commerce]]
 - [[Deep Harbor Technology]]
 - [[Trade Regulations]]
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]

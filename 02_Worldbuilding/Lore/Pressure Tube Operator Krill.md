@@ -1,9 +1,25 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, pressure-tube, operator, npc, transport, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aquabyssos
+- both
+- complete
+- lore
+- npc
+- operator
+- pressure-tube
+- transport
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.334449+00:00'
+created: '2025-08-11T13:08:48.334449+00:00'
+type: Lore
 ---
+
+
+
 
 # Pressure Tube Operator Krill
 
@@ -135,3 +151,8 @@ Use Krill as a reliable resource who can provide transportation, information, an
 
 ### Customization Options
 Adjust Krill's role and capabilities based on campaign needs - more action-oriented for adventure-heavy campaigns, more mysterious for investigation-focused games, or more supportive for transportation-dependent scenarios.
+
+
+## Connections
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

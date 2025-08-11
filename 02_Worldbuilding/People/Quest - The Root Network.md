@@ -15,6 +15,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # Quest - The Root Network
 
 ![Quest - The Root Network Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Root_Network.png)

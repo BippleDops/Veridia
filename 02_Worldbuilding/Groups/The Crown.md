@@ -1,23 +1,30 @@
 ---
-tags: [faction, government, aethermoor, royalty, political, major-faction]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Government"
-alignment: "Lawful Neutral"
-headquarters: "[[02_Worldbuilding/Places/The Crystal Palace]]"
-leader: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-members: "~10,000 direct servants"
-influence: "National"
-wealth: "Immense"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- faction
+- government
+- major-faction
+- political
+- royalty
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Government
+alignment: Lawful Neutral
+headquarters: '[[02_Worldbuilding/Places/The Crystal Palace]]'
+leader: '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+members: ~10,000 direct servants
+influence: National
+wealth: Immense
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Group
+updated: '2025-08-11T13:08:51.330150+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 # The Crown
 *The Royal Authority of Aethermoor, Keepers of the Shattered Legacy, The Crystal Throne*

@@ -1,11 +1,23 @@
 ---
-tags: [npc, fugitive, criminal, mysterious]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- criminal
+- fugitive
+- mysterious
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.693229+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Deep Fugitive
 
@@ -18,7 +30,7 @@ This enigmatic figure serves as both a cautionary tale and a symbol of freedom t
 
 ## Statistics
 **Medium humanoid (race unknown)**
-- **AC** 17 (Natural + Magical), **HP** 95, **Speed** 30 ft, swim 60 ft
+- **AS** 17 (Natural + Magical), **HP** 95, **Speed** 30 ft, swim 60 ft
 - **STR** 14 **DEX** 18 **CON** 16 **INT** 15 **WIS** 17 **CHA** 12
 - **Skills** Stealth +11, Survival +9, Athletics +6, Perception +9
 - **Damage Resistances** Cold, Pressure
@@ -92,3 +104,38 @@ What's certain is their ability to survive in the deepest ocean trenches where p
 
 ## DM Notes
 Use the Deep Fugitive as a recurring character who appears when least expected. They should embody themes of justice versus law, freedom versus security. Their true identity and motivations can drive long-term campaign arcs.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

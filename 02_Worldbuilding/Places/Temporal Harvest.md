@@ -1,15 +1,25 @@
 ---
-tags: [lore, temporal, harvest, time_magic, mystery, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- harvest
+- lore
+- mystery
+- temporal
+- time_magic
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Mystery
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.984399+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Temporal Harvest
 
@@ -188,3 +198,8 @@ Use the Temporal Harvest to:
 - Provide explanations for magical anomalies and supernatural events
 - Generate ongoing plot threads involving the consequences of temporal manipulation
 - Explore themes of causality, responsibility, and the nature of time itself
+
+
+## Connections
+
+- [[Old Valdris]]

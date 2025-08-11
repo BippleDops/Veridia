@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, supply-depot, logistics, warehouse, military-supply, provisioning]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- location
+- logistics
+- military-supply
+- provisioning
+- supply-depot
+- warehouse
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Supply Facility
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.605357+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Steadfast Supply Depot - Aquabyssos Logistics Hub
 
@@ -318,3 +329,8 @@ The Steadfast Supply Depot connects to numerous important elements throughout Aq
 - **Research Institutions**: Provides materials and equipment for academic and experimental projects
 
 *The Steadfast Supply Depot stands as the unseen foundation upon which Aquabyssos's prosperity rests, where the careful orchestration of countless details ensures that the right supplies reach the right people at precisely the right time, every time.*
+
+
+## Connections
+
+- [[Pressure's End]]

@@ -1,44 +1,16 @@
 ---
-tags: [npc]
-first_name: "Gareth"
-last_name: "Ironforge"
-location: "[[02_Worldbuilding/Places/Market_District]]"
-faction: "[[02_Worldbuilding/Groups/Merchants Guild]]"
-occupation: "Master Blacksmith"
-disposition: 5
-alignment: "Lawful Good"
-race: "Dwarf"
-class: "Fighter"
-level: 8
-ac: 16
-max_hp: 76
-current_hp: 76
-influence: 6
-faction_rank: 3
-portrait: "04_Resources/Assets/npcs/gareth-default.png"
-relationship_type: "business"
-relationships: 
-  - "[[Elena Starweaver]]"
-  - "[[Mayor Thompson]]"
-related_quests:
-  - "[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]"
-  - "[[The Stolen Anvil]]"
-last_encounter: "[[Session-4]]"
-stats:
-  str: 18
-  dex: 12
-  con: 16
-  int: 13
-  wis: 14
-  cha: 10
-description: "Stocky dwarf with intricate beard braids and soot-stained leather apron"
-notes: "Best smithy in the region, knows ancient forging techniques"
-secrets: ["Has a map to the Lost Forge of Durgan", "Secretly funding the resistance"]
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.648743+00:00'
+created: '2025-08-11T13:08:49.648743+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Gareth Ironforge
 
@@ -65,3 +37,33 @@ Gareth came to the Market District fifteen years ago after his clan's mountain h
 ## Quest Hooks
 - **[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]** - His shipment has gone missing
 - **[[The Stolen Anvil]]** - Family heirloom was taken
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

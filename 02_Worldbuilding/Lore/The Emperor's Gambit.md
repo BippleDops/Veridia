@@ -1,11 +1,32 @@
 ---
-tags: [lore, plot, history, political_intrigue, aquabyssos, strategy]
-status: "completed"
-type: "political_legend"
-world: "dual"
-connections: ["[[The Scattered Emperor]]", "[[Parliament of Echoes]]", "[[Tidal Council]]", "[[Deep Mother]]", "[[Marina Red Tide Coralheart - Aquabyssos]]"]
-themes: ["political_manipulation", "long_term_strategy", "hidden_knowledge", "sacrifice_of_self"]
+tags:
+- aquabyssos
+- completed
+- dual
+- history
+- lore
+- plot
+- political_intrigue
+- political_legend
+- strategy
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[The Scattered Emperor]]'
+- '[[Parliament of Echoes]]'
+- '[[Tidal Council]]'
+- '[[Deep Mother]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+themes:
+- political_manipulation
+- long_term_strategy
+- hidden_knowledge
+- sacrifice_of_self
+created: '2025-08-11T13:08:47.391203+00:00'
+updated: '2025-08-11T13:08:47.391203+00:00'
 ---
+
 
 # The Emperor's Gambit
 

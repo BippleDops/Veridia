@@ -1,7 +1,17 @@
 ---
 obsidianUIMode: preview
-assa:
+assa: null
+world: Both
+updated: '2025-08-11T13:08:47.048508+00:00'
+created: '2025-08-11T13:08:47.048508+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
 
 # DM Board
 
@@ -102,7 +112,7 @@ actions:
 ```
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, ac, pasperc As "Pass Perc (WIS)"
+TABLE WITHOUT ID link(file.name) AC "Character Name", Player, ac, pasperc As "Pass Perc (WIS)"
 from "1-Party"
 where contains(Role, "Player")
 where contains(Status, "Active")

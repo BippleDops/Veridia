@@ -1,12 +1,21 @@
 ---
-tags: [lore, culture, society, aquabyssos, caste-system, social-hierarchy]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- caste-system
+- complete
+- culture
+- lore
+- social-hierarchy
+- society
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.520037+00:00'
 ---
+
+
 
 # Aquabyssos Depth Caste System
 *"Pressure shapes not just the body, but the soul - and society follows where the depths lead."*
@@ -319,3 +328,12 @@ The Aquabyssos Depth Caste System represents one of the most complex and entrenc
 - [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization with depth-based membership tiers
 
 The Aquabyssos Depth Caste System represents both the ingenuity and cruelty of survival adaptation, creating a society where biological capability determines social destiny while fostering both remarkable innovation and systemic oppression.
+
+## Connections
+
+- [[Kraken Territories]]
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Campaign_Relationship_Matrix]]

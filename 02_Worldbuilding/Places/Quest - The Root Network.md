@@ -1,18 +1,31 @@
 ---
-tags: [quest, exploration, underground, nature, corruption, verdant-reach, druid, network]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- corruption
+- druid
+- exploration
+- nature
+- network
+- quest
+- underground
+- verdant-reach
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-11
-updated: 2025-08-11
-quest_type: "Exploration/Environmental Adventure"
-level_range: "7-13"
-party_size: "4-6 characters"
-duration: "6-9 sessions"
-difficulty: "Hard"
-primary_location: "The Verdant Reach underground network and surrounding regions"
+updated: '2025-08-11T13:08:50.682266+00:00'
+quest_type: Exploration/Environmental Adventure
+level_range: 7-13
+party_size: 4-6 characters
+duration: 6-9 sessions
+difficulty: Hard
+primary_location: The Verdant Reach underground network and surrounding regions
+danger_level: Moderate
 ---
+
+
 
 # Quest - The Root Network
 *The Ancient Arteries of the Living World*
@@ -311,3 +324,8 @@ The quest's emphasis on environmental themes and biological horror creates oppor
 Regardless of the specific resolution, the adventure should leave lasting impacts on both the characters and the campaign world, establishing the party as significant figures in the relationship between civilization and nature while providing ongoing hooks for future environmental and exploration adventures.
 
 The root network's continental scope ensures that the consequences of the party's actions will be felt across multiple regions and adventures, creating a sense of meaningful impact on the world that extends far beyond the immediate quest resolution.
+
+## Connections
+
+- [[Archdruid Thornweaver]]
+- [[The Verdant Reach]]

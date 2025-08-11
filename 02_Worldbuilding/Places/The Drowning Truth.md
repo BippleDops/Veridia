@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
 # The Drowning Truth
 
 ![The Drowning Truth Portrait](04_Resources/Assets/Art/Places/The_Drowning_Truth.png)

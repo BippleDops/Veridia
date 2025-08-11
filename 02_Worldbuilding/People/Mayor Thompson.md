@@ -1,21 +1,16 @@
 ---
-tags: [npc, mayor, politician, merchant, aquabyssos, corruption]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Human"
-class: "Noble/Rogue"
-level: 8
-faction: "Tidal Merchants Guild"
-location: "Drift Harbor District"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.936175+00:00'
+created: '2025-08-11T13:08:49.936175+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Mayor Bartholomew "Barrel" Thompson
 
@@ -246,3 +241,11 @@ Thompson serves as an excellent example of corruption at the local level and can
 - Economic warfare between legitimate and criminal enterprises
 
 His character represents the theme that evil often wears a friendly face and that corruption can make even beneficial changes morally questionable. He's simultaneously an effective leader who's improved his district and a criminal who's destroyed lives for profit.
+
+## Connections
+
+- [[Gareth_Ironforge]]
+- [[Jasper Three-Eyes Flint]]
+- [[The Pearl Guard]]
+- [[Market_District]]
+- [[The_Second_Rising]]

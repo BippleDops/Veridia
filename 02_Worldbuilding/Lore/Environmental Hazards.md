@@ -1,14 +1,26 @@
 ---
-tags: [mechanics, environmental-hazards, underwater-dangers, sky-hazards, survival, ruleset, both-realms]
-status: "complete"
-world: "Both"
-type: "game-mechanics"
-system: "D&D 5e"
-complexity: "Advanced"
-created_by: "auto-stub"
+tags:
+- both
+- both-realms
+- complete
+- environmental-hazards
+- game-mechanics
+- mechanics
+- ruleset
+- sky-hazards
+- survival
+- underwater-dangers
+status: complete
+world: Both
+type: Lore
+system: D&D 5e
+complexity: Advanced
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.682745+00:00'
 ---
+
+
 
 # Environmental Hazards
 *Dangers of the Merged Realms*
@@ -667,3 +679,16 @@ Hazards that work together for mutual benefit:
 - **[[Hazard Equipment Manufacturers]]**: Protection technology producers
 
 Environmental hazards serve as both mechanical challenges and narrative devices, emphasizing the alien and dangerous nature of the merged realms while providing meaningful obstacles that require preparation, skill, and teamwork to overcome.
+
+
+## Connections
+
+- [[Depth Effect Quick Reference]]
+- [[Initiative Tracker]]
+- [[Kraken Territories]]
+- [[Multi-Phase Boss Fights]]
+- [[Random Encounters]]
+- [[Silver Mask]]
+- [[Temporal Anomaly Resolution]]
+- [[The Bloom Fields]]
+- [[The Deep Mother]]

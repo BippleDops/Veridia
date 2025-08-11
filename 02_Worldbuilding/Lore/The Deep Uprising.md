@@ -1,12 +1,21 @@
 ---
-tags: [lore, uprising, revolution, deep-dwellers, political-conflict]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-dwellers
+- lore
+- political-conflict
+- revolution
+- uprising
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.252481+00:00'
 ---
+
+
 
 # The Deep Uprising
 
@@ -38,3 +47,9 @@ Active uprising lasted two years, with political ramifications continuing to pre
 
 ## Campaign Use
 Provides political complexity and opportunities for characters to engage with social justice themes in underwater society.
+
+
+## Connections
+
+- [[The Deep Mother]]
+- [[The Bathyal Palace]]

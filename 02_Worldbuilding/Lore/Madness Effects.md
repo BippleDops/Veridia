@@ -1,12 +1,22 @@
 ---
-tags: [lore, madness, mental-effects, corruption, psychological, mechanics]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- corruption
+- lore
+- madness
+- mechanics
+- mental-effects
+- psychological
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.450941+00:00'
 ---
+
+
 
 # Madness Effects
 
@@ -114,3 +124,9 @@ Certain forms of "madness" are actually the mind's attempt to process informatio
 ## Campaign Use
 
 Use madness effects as both mechanical challenges and roleplay opportunities. They can serve as consequences for reckless behavior, plot devices for mystery scenarios, or character development tools. Consider allowing players to choose how their characters express madness effects rather than imposing specific behaviors, maintaining agency while creating interesting complications.
+
+
+## Connections
+
+- [[Crystal Cult Initiates Ambush]]
+- [[Sorrow Pearls]]

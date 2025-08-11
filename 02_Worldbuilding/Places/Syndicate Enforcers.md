@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Syndicate Enforcers
 
 ![Syndicate Enforcers Portrait](04_Resources/Assets/Art/Places/Syndicate_Enforcers.png)

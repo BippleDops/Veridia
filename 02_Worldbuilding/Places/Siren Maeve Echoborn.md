@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, amphitheater, siren, echoborn, music, performance, entertainment, culture]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Cultural Performance Venue"
-parent_location: "The Arts District"
-depth: "3,000 feet"
-danger_level: 1
-population: "200 (performers, staff, and patrons)"
-government: "Independent Cultural Institution"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.515930+00:00'
+created: '2025-08-11T13:08:50.515930+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Echo Amphitheater
 *Where Voices Become Legends*
@@ -407,3 +402,8 @@ The Echo Amphitheater stands as [[Aquabyssos]]'s premier cultural venue, where [
 **Innovation**: Cultural innovation and artistic creation
 
 The Echo Amphitheater represents the cultural heart of [[Aquabyssos]], where [[Siren Maeve Echoborn]]'s visionary leadership has created a space that celebrates the transformative power of music and performance while building community through shared cultural experiences. Through innovative acoustic architecture, diverse programming, and unwavering commitment to artistic excellence, this venue serves as a beacon of cultural achievement that reminds underwater civilization of the beauty, unity, and transcendence that music brings to life in the depths.
+
+
+## Connections
+
+- [[Lumengarde]]

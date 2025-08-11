@@ -1,20 +1,30 @@
 ---
-tags: [npc, merchant, mind-magic, memory, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
+tags:
+- aquabyssos
+- complete
+- memory
+- merchant
+- mind-magic
+- npc
+status: complete
+world: Aquabyssos
+type: Location
 cr: 12
-race: "Sea Elf"
-class: "Enchanter"
-location: "Memory Bazaar, Abyssal Depths"
-faction: "Independent Traders"
-created_by: "auto-stub"
+race: Sea Elf
+class: Enchanter
+location: Memory Bazaar, Abyssal Depths
+faction: Independent Traders
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:51.044693+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Memory Merchant Zephyr Mindweaver
 
@@ -154,7 +164,7 @@ Currently, she is investigating strange reports of memories being "eaten" by som
 Zephyr's shop contains:
 - **Memory Orbs** (varies): Crystalline spheres containing specific memories or skills
 - **Circlet of Mental Protection** (very rare): Advantage on saves against mind-affecting magic
-- **Robes of the Memory Keeper** (rare): +2 AC, advantage on Intelligence (History) checks
+- **Robes of the Memory Keeper** (rare): +2 AS, advantage on Intelligence (History) checks
 - **Pearl of Remembrance** (uncommon): Once per day, perfectly recall any memory from the last month
 - Ancient spell scrolls of rare enchantment spells
 - Platinum and pearl currency worth approximately 50,000 gp
@@ -164,3 +174,18 @@ Zephyr's shop contains:
 Zephyr represents the ethical complexities of memory magic - she genuinely seeks to preserve and protect experiences, but her methods raise questions about the ownership of one's own thoughts and memories. She serves as both a valuable ally and potential moral dilemma for player characters seeking her services.
 
 Her vast collection makes her one of the most knowledgeable NPCs in the campaign, capable of providing information about nearly any historical event or lost secret, but always at a price.
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Discover Marina's Truth]]
+- [[Sanity System]]
+- [[Emperor Thalassius the Wise]]
+- [[Hidden Smuggler's Cove]]
+- [[The Phosphor Markets]]
+- [[The Siren's Rest Tavern]]
+- [[Vault Breach]]
+- [[Quest - The Pretender's Crown]]
+- [[Rescue Senator Glaucus]]
+- [[The Crown's Burden]]
+- [[The Sunken Library of Thalassius]]

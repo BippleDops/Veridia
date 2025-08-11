@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Chronomancer Paradox
 
 ![Chronomancer Paradox Portrait](04_Resources/Assets/Art/Places/Chronomancer_Paradox.png)

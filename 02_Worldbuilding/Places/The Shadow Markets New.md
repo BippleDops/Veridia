@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.590290+00:00'
+created: '2025-08-11T13:08:50.590290+00:00'
+status: draft
 tags:
-  - location
-  - market
-  - criminal
-  - underground
-  - black market
-type: Underground Market Complex
-region: "[[02_Worldbuilding/Places/Port Meridian]]"
-danger_level: High
-controlled_by: "[[02_Worldbuilding/Groups/The Whisper Syndicate]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/shadow_markets.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Shadow Markets
 *Where Forbidden Goods Find Willing Buyers*
@@ -39,3 +35,32 @@ The markets specialize in corrupted crystal trade, stolen artifacts from [[02_Wo
 - **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]** - Primary law enforcement threat
 - **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Transportation and logistics
 - **[[02_Worldbuilding/People/Marcus "The Shade" Blackwood]]** - Security enforcement
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

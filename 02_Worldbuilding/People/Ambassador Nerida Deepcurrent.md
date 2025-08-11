@@ -1,23 +1,32 @@
 ---
 tags:
-  - npc
-  - diplomat
-  - aquabyssos
-  - foreign-power
-  - merchant-princes
+- active---category/people
+- aquabyssos
+- both
+- diplomat
+- foreign-power
+- merchant-princes
+- npc
 type: NPC
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "Tidal Courts of Aquabyssos"
+location: '[[02_Worldbuilding/Places/Crystalhaven]]'
+faction: Tidal Courts of Aquabyssos
 race: Sea Elf (Aquatic Variant)
 class: Bard/Warlock
 level: 11
 alignment: Lawful Neutral
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.829951+00:00'
+created: '2025-08-11T13:08:49.829951+00:00'
 ---
+
+
+
+
+
 
 # Ambassador Nerida Deepcurrent
 
@@ -100,3 +109,27 @@ Located in Crystalhaven's Embassy Quarter, her residence is a architectural marv
 
 ## DM Notes
 Nerida represents the looming threat of Aquabyssos while maintaining plausible deniability. She's a master manipulator who views the surface world as a chess board for the Tidal Courts' expansion. Her presence should make players question whether cooperation or conflict with the underwater realm is inevitable.
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Kraken Territories]]
+- [[Marriage Between Worlds]]
+- [[Crystal Wardens]]
+- [[Jasper Three-Eyes Flint]]
+- [[Mayor Thompson]]
+- [[Senator]]
+- [[The Pearl Guard]]
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -6,6 +6,7 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
 # Crystal-Plague-Mechanics
 
 ## Summary

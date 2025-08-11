@@ -1,19 +1,32 @@
 ---
-tags: [lore, location, crystal-cultivation, aquabyssos, resource-production, magical-agriculture, crystal-technology, bio-magical-farming, innovation, sustainability]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Resource Production Facility"
-significance: "Critical Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- bio-magical-farming
+- complete
+- crystal-cultivation
+- crystal-technology
+- innovation
+- location
+- lore
+- magical-agriculture
+- resource-production
+- sustainability
+status: complete
+world: Aquabyssos
+type: Lore
+category: Resource Production Facility
+significance: Critical Infrastructure
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Magical Agricultural Complex"
-scope: "City-Wide Resource Production"
-danger_level: "Moderate"
-magical_properties: "Crystal Growth Acceleration"
-access_restriction: "Authorized Personnel and Guided Tours"
+updated: '2025-08-11T13:08:48.210000+00:00'
+location_type: Magical Agricultural Complex
+scope: City-Wide Resource Production
+danger_level: Moderate
+magical_properties: Crystal Growth Acceleration
+access_restriction: Authorized Personnel and Guided Tours
 ---
+
+
 
 # Crystal Forest
 *The Growing Heart of Aquabyssos Technology*
@@ -485,3 +498,27 @@ Understanding crystal agriculture helps characters navigate society:
 - [[02_Worldbuilding/People/Master Harvester Tide Crystalcut]] - Harvesting operations leader
 - [[02_Worldbuilding/Groups/Crystal Agricultural Research Institute]] - Primary research partner
 - [[02_Worldbuilding/Groups/Master Cultivators Guild]] - Professional organization supporting cultivators
+
+
+## Connections
+
+- [[Master Artificers Guild]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Crystal Festival]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Depth Effect Quick Reference]]
+- [[Eastern Kingdoms 2]]
+- [[Environmental Hazards]]
+- [[Initiative Tracker]]
+- [[Pressure Adaptation System]]
+- [[Random Encounters]]
+- [[Silver Mask]]
+- [[Temple of the First Tide]]
+- [[The Bloom Fields]]
+- [[The Crimson Hand]]
+- [[The Deep Harvest]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]
+- [[The Silverscale Conspiracy]]
+- [[Underwater Breathing]]

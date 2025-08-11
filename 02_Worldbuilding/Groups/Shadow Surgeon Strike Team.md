@@ -1,23 +1,30 @@
 ---
-tags: [faction, military, aquabyssos, shadow-operations, elite-force, medical-combat]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Elite Special Forces"
-alignment: "Chaotic Evil"
-headquarters: "[[The Shadow Operating Theater]]"
-leader: "[[Colonel Dr. Vivisection]]"
-members: "~50 elite shadow surgeons and support staff"
-influence: "Covert operations across multiple realms"
-wealth: "Well-funded by shadow organizations"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- elite-force
+- faction
+- medical-combat
+- military
+- shadow-operations
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Elite Special Forces
+alignment: Chaotic Evil
+headquarters: '[[The Shadow Operating Theater]]'
+leader: '[[Colonel Dr. Vivisection]]'
+members: ~50 elite shadow surgeons and support staff
+influence: Covert operations across multiple realms
+wealth: Well-funded by shadow organizations
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.231750+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
 
 # Shadow Surgeon Strike Team
 *The Scalpel Squadron, Surgical Assassins, Doctors of Death*

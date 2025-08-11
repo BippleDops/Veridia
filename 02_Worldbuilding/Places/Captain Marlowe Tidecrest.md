@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, marina, harbor, naval-operations, shipping, maritime]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- harbor
+- location
+- marina
+- maritime
+- naval-operations
+- shipping
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Maritime Facility
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.324845+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Tidecrest Marina - Premier Naval Harbor
 
@@ -328,3 +339,9 @@ The Tidecrest Marina connects to numerous important elements throughout Aquabyss
 - **Tourism and Recreation**: Provides facilities and services for leisure maritime activities
 
 *The Tidecrest Marina stands as a beacon of maritime excellence, where the ancient traditions of seamanship meet modern innovation, and where every vessel finds not just safe harbor, but a gateway to the endless possibilities that lie beyond the horizon.*
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+- [[The_Second_Rising]]

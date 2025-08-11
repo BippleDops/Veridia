@@ -1,22 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.029535+00:00'
+created: '2025-08-11T13:08:50.029535+00:00'
+status: draft
 tags:
-  - quest
-  - main
-  - epic
-  - artifact
-type: Quest
-quest_giver: Multiple
-location: Continent-wide
-level: 8-15
-status: "complete"
-reward_type: Legendary
-created: 2024-12-20
-image: "04_Resources/Assets/Quests/seventh_shard.jpg"
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Quest - The Seventh Shard
 *The Lost Fragment of Divinity*
@@ -953,3 +947,10 @@ Each path requires different approaches:
 ---
 
 *The quest for the Seventh Shard reveals that the greatest treasures are not always meant to be claimed, but sometimes to be protected, nurtured, and allowed to choose their own destiny. In finding Aetheron's heart, the heroes discover that true divine power lies not in command over others, but in the wisdom to know when not to use the power one possesses.*
+
+
+## Connections
+
+- [[The Seven Shards]]
+- [[Quest - Foreign Interests]]
+- [[Quest - The Crystal Festival]]

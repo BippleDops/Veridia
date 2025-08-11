@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # The Vote Vault Mystery
 
 ![The Vote Vault Mystery Portrait](04_Resources/Assets/Art/Places/The_Vote_Vault_Mystery.png)

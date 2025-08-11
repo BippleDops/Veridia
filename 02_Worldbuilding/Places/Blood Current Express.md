@@ -1,22 +1,16 @@
 ---
-tags: [location, aquabyssos, transportation, current, dangerous, fast, trade, route]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "High-Speed Transportation Current"
-parent_location: "The Pelagic Highways"
-depth: "6,000-8,000 feet"
-danger_level: 6
-population: "~500 transport operators, guards, and support crew"
-government: "Regulated by the Transportation Guild"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.870967+00:00'
+created: '2025-08-11T13:08:50.870967+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # Blood Current Express
 *The Fastest and Most Feared Route in Aquabyssos*

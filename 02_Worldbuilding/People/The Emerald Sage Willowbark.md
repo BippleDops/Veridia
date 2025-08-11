@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, emerald-shard, druid, nature-guardian]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard-Bonded Druid"
-affiliation: "[[The Verdant Accord]] & The Heart Tree"
-age: "Unknown (appears ancient)"
-race: "Half-Dryad (Shard-fused)"
-location: "[[02_Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- druid
+- emerald-shard
+- nature-guardian
+- npc
+- person
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard-Bonded Druid
+affiliation: '[[The Verdant Accord]] & The Heart Tree'
+age: Unknown (appears ancient)
+race: Half-Dryad (Shard-fused)
+location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Heart Tree Grove'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.796214+00:00'
 ---
+
+
 
 # The Emerald Sage Willowbark
 *Guardian of the Heart Tree, Keeper of Natural Balance*
@@ -426,3 +437,12 @@ Willowbark focuses on preparing others and chooses to:
 - **Social Role**: Ancient wisdom keeper, environmental advocate, bridge to fey courts
 - **Plot Function**: Living example of successful Shard integration and its costs
 - **Power Balance**: Extremely powerful within her domain, but bound to [[02_Worldbuilding/Places/The Verdant Reach]]
+
+## Connections
+
+- [[Brother Matthias the Amber Bearer]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[The Azure Prophet Nerissa]]
+- [[The Shadow Singer Naia]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Shard-Shadow Resonance]]

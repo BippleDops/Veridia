@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Dr. Siphon Gillwater
 
 ![Dr. Siphon Gillwater Portrait](04_Resources/Assets/Art/Places/Dr._Siphon_Gillwater.png)

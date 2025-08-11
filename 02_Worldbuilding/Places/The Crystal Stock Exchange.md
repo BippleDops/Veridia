@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.521260+00:00'
+created: '2025-08-11T13:08:50.521260+00:00'
+status: draft
 tags:
-  - location
-  - economic
-  - exchange
-  - crystal
-  - finance
-type: Financial Exchange
-region: "[[02_Worldbuilding/Places/Crystalhaven]]"
-danger_level: Low
-controlled_by: "[[The Crystal Trading Consortium]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/crystal_stock_exchange.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Crystal Stock Exchange
 *Where Crystal Futures Shape the World's Fortune*
@@ -39,3 +35,32 @@ The Exchange operates complex markets for standard crystals, corrupted variants,
 - **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Gray market crystal distribution
 - **[[02_Worldbuilding/People/Memory Merchant Valeria]]** - Specialized crystal-enhanced services
 - **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Investigating corruption in crystal trade
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

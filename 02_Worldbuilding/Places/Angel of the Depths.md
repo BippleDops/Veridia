@@ -1,15 +1,25 @@
 ---
-tags: [location, aquabyssos, religious, monument, depths, shadow-corruption, divine]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- depths
+- divine
+- location
+- monument
+- religious
+- shadow-corruption
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Religious Monument
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.113216+00:00'
+danger_level: Moderate
 ---
+
 
 # Angel of the Depths
 

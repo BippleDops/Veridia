@@ -1,21 +1,16 @@
 ---
-tags: [entity, primordial, crystal-spirit, aethermoor, magical-being]
-status: "completed"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-entity_type: "Primordial Crystal Spirit"
-alignment: "True Neutral"
-domain: "Crystal Magic and Light Manipulation"
-power_level: "Cosmic Entity"
-active: "Dormant but Influential"
-  - Category/Lore
-MyContainer: Aethermoor
-MyCategory: Primordial Entities
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:48.256908+00:00'
+created: '2025-08-11T13:08:48.256908+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Aetheron, the Crystal Heart
 *The First Light That Shaped the Stones*
@@ -221,3 +216,9 @@ A region of [[Aethermoor]] has been corrupted by shadow magic, cutting it off fr
 - [[Resonance Networks]]
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
+
+
+## Connections
+
+- [[The Final Choice]]
+- [[The Great Crystallization]]

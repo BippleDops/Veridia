@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Memory Merchant Valeria
 
 ![Memory Merchant Valeria Portrait](04_Resources/Assets/Art/Lore/Memory_Merchant_Valeria.png)

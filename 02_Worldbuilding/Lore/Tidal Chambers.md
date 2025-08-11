@@ -1,17 +1,32 @@
 ---
-tags: [technology, magical-engineering, tidal-manipulation, pressure-systems, aquabyssos, water-magic, infrastructure, mechanical-systems, bio-magical-fusion, tidal-power]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Magical Technology"
-significance: "Critical Infrastructure"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- bio-magical-fusion
+- complete
+- infrastructure
+- lore
+- magical-engineering
+- mechanical-systems
+- pressure-systems
+- technology
+- tidal-manipulation
+- tidal-power
+- water-magic
+status: complete
+world: Aquabyssos
+type: Lore
+category: Magical Technology
+significance: Critical Infrastructure
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-11
-technology_type: "Tidal Manipulation System"
-access_restriction: "Guild Controlled"
-danger_level: "High"
+technology_type: Tidal Manipulation System
+access_restriction: Guild Controlled
+danger_level: High
+updated: '2025-08-11T13:08:49.306752+00:00'
 ---
+
+
 
 # Tidal Chambers
 *The Heartbeat of Aquabyssos Water Management*
@@ -479,3 +494,12 @@ Involvement with Chamber operations provides numerous opportunities for characte
 - [[02_Worldbuilding/People/Emergency Coordinator Storm Quickfix]] - Crisis response team leader
 
 The Tidal Chambers stand as testament to the ingenuity and ambition of Aquabyssos civilization, representing not merely an engineering achievement but a fundamental transformation of the relationship between sentient beings and the forces of nature. Through these systems, the citizens of Aquabyssos have not conquered the ocean but learned to dance with it, creating a harmony between technological advancement and environmental stewardship that offers hope for sustainable underwater civilization.
+
+
+## Connections
+
+- [[Depth Effect Quick Reference]]
+- [[Initiative Tracker]]
+- [[Random Encounters]]
+- [[Resonance Peaks]]
+- [[Temple of the First Tide]]

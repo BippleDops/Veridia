@@ -1,10 +1,21 @@
 ---
-tags: [player-handout, parliament-shadows, campaign-guide]
-type: "player-resource"
-campaign: "Parliament of Shadows"
+tags:
+- both
+- campaign-guide
+- draft
+- parliament-shadows
+- player-handout
+- player-resource
+type: Lore
+campaign: Parliament of Shadows
 spoiler_free: true
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.040504+00:00'
+status: draft
 ---
+
+
 
 # Welcome to Aquabyssos
 ## A Player's Guide to the Parliament of Shadows

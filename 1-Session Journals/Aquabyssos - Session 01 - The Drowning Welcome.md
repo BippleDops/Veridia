@@ -1,51 +1,61 @@
 ---
-tags: [session, aquabyssos, parliament-shadows]
-session: "Session 01 Aquabyssos"
+tags:
+- aquabyssos
+- draft
+- parliament-shadows
+- session
+session: Session 01 Aquabyssos
 session_number: 1
-title: "The Drowning Welcome"
-date: 
-type: "session"
+title: The Drowning Welcome
+date: null
+type: Lore
 players: []
 absent: []
-campaign: "The Parliament of Shadows"
-primary_location: "[[Abyssos Prime - Inverse Palace]]"
+campaign: The Parliament of Shadows
+primary_location: '[[Abyssos Prime - Inverse Palace]]'
 depth: 1500
 locations_visited:
-  - "[[Abyssos Prime - Pressure Terminal]]"
-  - "[[Throne of Bubbles]]"
-  - "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-  - "[[Inverted Ballroom Wing]]"
+- '[[Abyssos Prime - Pressure Terminal]]'
+- '[[Throne of Bubbles]]'
+- '[[02_Worldbuilding/Places/Parliament of Echoes]]'
+- '[[Inverted Ballroom Wing]]'
 npcs_met:
-  - "[[02_Worldbuilding/People/Senator Glaucus]]"
-  - "[[02_Worldbuilding/People/The Scattered Emperor]]"
-  - "[[Marina Red Tide Coralheart - Aquabyssos]]"
-  - "[[Pressure Tube Operator Krill]]"
+- '[[02_Worldbuilding/People/Senator Glaucus]]'
+- '[[02_Worldbuilding/People/The Scattered Emperor]]'
+- '[[Marina Red Tide Coralheart - Aquabyssos]]'
+- '[[Pressure Tube Operator Krill]]'
 encounters:
-  - "[[Shadow Ambush - Optional]]"
+- '[[Shadow Ambush - Optional]]'
 quests_started:
-  - "[[Investigate Shadow Conspiracy]]"
-  - "[[Discover Shadow Market Location]]"
+- '[[Investigate Shadow Conspiracy]]'
+- '[[Discover Shadow Market Location]]'
 quests_progressed: []
 quests_completed: []
-items_gained: 
-  - "Senator's Emergency Beacon"
-  - "Pressure Adaptation Pills (3)"
-  - "Encrypted Shadow Market invitation"
-  - "Palace safe zones map"
+items_gained:
+- Senator's Emergency Beacon
+- Pressure Adaptation Pills (3)
+- Encrypted Shadow Market invitation
+- Palace safe zones map
 gold_gained: 200
-xp_awarded: 
-plot_threads: 
-  - "Shadows acting independently"
-  - "Senator dissolution incident"
-  - "Shadow Duchess arriving"
-  - "Parliament voting on Shadow Citizenship Act"
+xp_awarded: null
+plot_threads:
+- Shadows acting independently
+- Senator dissolution incident
+- Shadow Duchess arriving
+- Parliament voting on Shadow Citizenship Act
 duration_hours: 4
 ap_gained: 2
 shadow_level_change: 0
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.991547+00:00'
+created: '2025-08-11T13:08:46.991547+00:00'
+status: draft
 ---
+
+
 
 # Session 01: The Drowning Welcome
 ## The Parliament of Shadows - Act 1
@@ -152,7 +162,7 @@ Party members wake to find their shadows standing at the foot of their beds, per
 ### Shadow Ambush (Optional)
 **Trigger:** Investigating quarters too thoroughly
 **Enemies:** 2 Lesser Shadow Doubles
-- AC 14, HP 35 each
+- AS 14, HP 35 each
 - Resistance to non-magical damage
 - Strength Drain: DC 13 CON save or -1 STR
 - Hide in Shadows: Bonus action

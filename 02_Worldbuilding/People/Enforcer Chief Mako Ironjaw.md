@@ -1,26 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.992377+00:00'
+created: '2025-08-11T13:08:49.992377+00:00'
+status: draft
 tags:
-  - npc
-  - law_enforcement
-  - aquabyssos
-  - enforcer
-  - sahuagin_hybrid
-  - authority
+- both
+- draft
 type: NPC
-race: Sahuagin-Human Hybrid
-class: Fighter/Ranger
-level: 13
-alignment: Lawful Neutral
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "[[02_Worldbuilding/Groups/The Depth Wardens]]"
-status: Alive (Depth-adapted)
-created: 2025-08-08
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Enforcer Chief Mako Ironjaw
 *The Steel-Toothed Hunter, Terror of the Black Markets, The Emperor's Fang*
@@ -172,3 +162,10 @@ Chief Mako Ironjaw is the most feared law enforcement officer in [[02_Worldbuild
 - [[02_Worldbuilding/Quests/Smuggler's Gambit]] - Law enforcement perspective
 - [[02_Worldbuilding/Quests/The Lock Saboteur]] - Investigation leader
 - [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Official inquiry
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Captain Garrett Stormcutter]]
+- [[New Tethys]]

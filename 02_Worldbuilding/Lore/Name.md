@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Name
 
 ![Name Portrait](04_Resources/Assets/Art/Lore/Name.png)

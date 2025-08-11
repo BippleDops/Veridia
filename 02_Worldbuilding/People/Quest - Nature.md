@@ -15,6 +15,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # Quest - Nature
 
 ![Quest - Nature Portrait](04_Resources/Assets/Art/NPCs/Quest_-_Nature.png)

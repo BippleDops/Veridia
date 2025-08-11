@@ -1,21 +1,17 @@
 ---
-tags: [npc, assassin, shadow-touched, aethermoor]
-status: "active"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-race: "Half-Elf"
-class: "Rogue (Assassin)"
-level: 12
-faction: "Independent"
-location: "Shadowblade District"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.942676+00:00'
+created: '2025-08-11T13:08:49.942676+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
+
 
 # Vespara "Nightwhisper" Thorne
 
@@ -121,3 +117,40 @@ She operates from the Shadowblade District, a neutral zone where information flo
 **Flaws**: "I trust no one completely, not even those who've earned it. Everyone has a price, everyone has a secret, everyone will betray you eventually."
 
 **Voice**: Speaks Common with an upper-class accent that she occasionally slips back into. Uses Aquabyssan curse words when frustrated.
+
+
+## Connections
+
+- [[Parliament Loyalists]]
+- [[The Biomancers]]
+- [[Vex Shadowthorn]]
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

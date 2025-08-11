@@ -1,17 +1,29 @@
 ---
-tags: [location, aquabyssos, palace, underwater, ancient, coral, royal, deep-sea]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Royal Palace"
-depth: "2,000 fathoms below surface"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- ancient
+- aquabyssos
+- complete
+- coral
+- deep-sea
+- location
+- palace
+- royal
+- underwater
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Royal Palace
+depth: 2,000 fathoms below surface
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.218351+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Original Palace
 
@@ -282,3 +294,8 @@ The palace's roots extend far deeper than most realize, connecting to an undergr
 - The palace's day/night cycle follows deep-sea patterns, not surface rhythms
 
 The Original Palace stands not just as an architectural wonder, but as a living piece of history that continues to shape the political and magical landscape of [[Aquabyssos]]. Its ancient halls have witnessed the rise and fall of dynasties, the forging of treaties that shaped continents, and the preservation of secrets that could change the fate of multiple worlds.
+
+
+## Connections
+
+- [[Find the Grief Bomb]]

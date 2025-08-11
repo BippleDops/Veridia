@@ -1,20 +1,30 @@
 ---
-tags: [group, faction, aquabyssos, depth-wardens, guardians, deep-sea, military, elite]
-status: "complete"
-world: "Aquabyssos"
-type: "group"
-category: "Military Organization"
-size: "Elite Unit (50-100 members)"
-alignment: "Lawful Neutral"
-influence: "High in Deep Ocean Territories"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-sea
+- depth-wardens
+- elite
+- faction
+- group
+- guardians
+- military
+status: complete
+world: Aquabyssos
+type: NPC
+category: Military Organization
+size: Elite Unit (50-100 members)
+alignment: Lawful Neutral
+influence: High in Deep Ocean Territories
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Groups
+updated: '2025-08-11T13:08:49.735878+00:00'
 MyContainer: None
 MyCategory: Group
 obsidianUIMode: preview
 ---
+
+
 
 # The Depth Wardens
 *Elite Guardians of the Deepest Places*
@@ -279,3 +289,19 @@ Deep beneath even the Depth Wardens' normal operating areas lies the **Primordia
 - **Royal Politics**: The Crown depends on them but fears what they might discover
 
 The Depth Wardens represent the theme that some knowledge and some duties are too dangerous for ordinary citizens, and that true guardianship sometimes requires personal sacrifice and terrible secrets. They embody the price of security and the weight of protecting others from truths they cannot handle.
+
+
+## Connections
+
+- [[The Deepwatch Guard]]
+- [[The Pressure Maelstroms]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Commander Typhoon Blackheart]]
+- [[Nerissa_Deepcurrent]]
+- [[Oracle Nerida the Tidereader]]
+- [[Sister Thalassa the Depth-Touched]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Lumengarde]]
+- [[Pearl_Harbor_City]]
+- [[The Gilded Shard]]
+- [[The Shadowmire Tavern]]

@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, herald-chambers, court, official, communication, messages, diplomatic]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Official Court Facility"
-parent_location: "Parliament District"
-depth: "8,000 feet"
-danger_level: 1
-population: "75 (herald staff, scribes, and messengers)"
-government: "Official Parliamentary Department"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.480125+00:00'
+created: '2025-08-11T13:08:50.480125+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Herald's Chambers
 *Voice of Authority in the Depths*
@@ -403,3 +398,8 @@ The Herald's Chambers serve as the central communications hub for [[Aquabyssos]]
 **Democratic Values**: Representing democratic values and transparent government
 
 The Herald's Chambers represent the vital communication infrastructure that makes democratic government possible in [[Aquabyssos]], where [[Court Herald Titus]]'s dedication to professional excellence ensures that the voice of democracy reaches every corner of the realm. Through advanced communication systems, meticulous record-keeping, and unwavering commitment to accuracy, this facility serves as the nervous system of underwater democracy, proving that even in the depths, information remains the foundation of free government.
+
+
+## Connections
+
+- [[The Inverse Palace]]

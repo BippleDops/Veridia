@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aquabyssos, parliament, politician, pragmatic-leader, government]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Parliamentary Tribune"
-affiliation: "[[02_Worldbuilding/Places/Parliament of Echoes]] - Centrist Faction"
-age: "48"
-race: "Human"
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]] - Central Chamber"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- government
+- npc
+- parliament
+- person
+- politician
+- pragmatic-leader
+status: complete
+world: Aquabyssos
+type: NPC
+role: Parliamentary Tribune
+affiliation: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Centrist Faction'
+age: '48'
+race: Human
+location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Central Chamber'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.613096+00:00'
 ---
+
+
 
 # Tribune Cassia Deepcurrent
 *Voice of Pragmatic Governance, The Compromise Builder*
@@ -172,3 +183,14 @@ Tribune Cassia Deepcurrent leads the Centrist Faction within the [[02_Worldbuild
 - Her dilemmas create interesting moral choices for party
 - Key figure in determining how Aquabyssos responds to major threats
 - Can provide exposition on political situation and government capabilities
+
+## Connections
+
+- [[Party Shadows]]
+- [[Commander Typhoon Blackheart]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Surface Ambassador Lord Seaworthy]]
+- [[Tenebrarum Ambassadors]]
+- [[The Cerulean Breath]]
+- [[Quest - The Convergence Crisis]]

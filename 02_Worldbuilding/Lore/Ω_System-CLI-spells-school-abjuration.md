@@ -1,16 +1,32 @@
 ---
-tags: [system, spells, abjuration, magic-theory, protection, warding, banishment, aquabyssos, aethermoor, underwater-magic]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- abjuration
+- aethermoor
+- aquabyssos
+- banishment
+- both-worlds
+- complete
+- lore
+- magic-theory
+- protection
+- spells
+- system
+- underwater-magic
+- warding
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-school: "Abjuration"
-focus: "Protective and Banishment Magic"
-complexity: "Fundamental to Advanced"
-practitioners: "Protective mages, clerics, wardens"
+updated: '2025-08-11T13:08:48.859734+00:00'
+school: Abjuration
+focus: Protective and Banishment Magic
+complexity: Fundamental to Advanced
+practitioners: Protective mages, clerics, wardens
 ---
+
+
+
 
 # Abjuration School of Magic
 *The Art of Protection, Banishment, and Magical Barriers*
@@ -205,3 +221,8 @@ Abjuration study follows structured progressions:
 - [[02_Worldbuilding/Lore/Corruption Exposure Tracking]] - Managing supernatural influence
 - [[02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts requiring specialized protection
 - [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary threat requiring void defenses
+
+
+## Connections
+
+- [[Spell Components]]

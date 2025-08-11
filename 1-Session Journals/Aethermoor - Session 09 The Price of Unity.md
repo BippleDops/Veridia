@@ -1,26 +1,40 @@
 ---
 session_number: 9
-title: "The Price of Unity"
-date_played: 
-location: "New Meridian - The Merged City"
-npcs_featured: 
-  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
-  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
-  - "[[Aquabyssos Ambassadors]]"
-  - "[[The Transformed Citizens]]"
+title: The Price of Unity
+date_played: null
+location: New Meridian - The Merged City
+npcs_featured:
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[Aquabyssos Ambassadors]]'
+- '[[The Transformed Citizens]]'
 quests_advanced:
-  - "[[Establish the New Order]]"
-  - "[[The Crown's Burden]]"
-  - "[[Healing Two Worlds]]"
+- '[[Establish the New Order]]'
+- '[[The Crown''s Burden]]'
+- '[[Healing Two Worlds]]'
 level: 5
-estimated_time: "3-4 hours"
-tags: [session, aethermoor, aquabyssos, merged-reality, new-world]
-type: Session Journal
+estimated_time: 3-4 hours
+tags:
+- aethermoor
+- aquabyssos
+- draft
+- merged-reality
+- new-world
+- session
+- session-journal
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.980290+00:00'
+created: '2025-08-11T13:08:46.980290+00:00'
+status: draft
 ---
+
+
+
 
 # Session 9: The Price of Unity
 

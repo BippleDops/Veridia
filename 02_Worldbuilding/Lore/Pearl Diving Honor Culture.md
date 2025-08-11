@@ -1,12 +1,21 @@
 ---
-tags: [lore, culture, tradition, aquabyssos, pearl-diving, honor-code]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- complete
+- culture
+- honor-code
+- lore
+- pearl-diving
+- tradition
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.539052+00:00'
 ---
+
+
 
 # Pearl Diving Honor Culture
 *"The pearl does not choose who finds it - but the finder's honor determines whether they deserve its gift."*
@@ -167,3 +176,7 @@ Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dange
 - [[Sea Spirit Priests]] - Religious order blessing diving operations and protecting maritime workers
 
 Pearl Diving Honor Culture exemplifies the perfect balance between individual courage and community responsibility, where ancient traditions provide both practical safety and spiritual meaning to those who risk everything in the ocean's depths to bring beauty and prosperity to their people.
+
+## Connections
+
+- [[Kraken Territories]]

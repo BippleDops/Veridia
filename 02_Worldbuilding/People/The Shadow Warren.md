@@ -1,15 +1,25 @@
 ---
-tags: [npc, aethermoor, shadow-corruption, underground, leader, mysterious, network]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aethermoor
+- complete
+- leader
+- mysterious
+- network
+- npc
+- shadow-corruption
+- underground
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: Shadow Network Leader
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.756896+00:00'
 ---
+
+
 
 # The Shadow Warren
 
@@ -317,3 +327,11 @@ Warren's story can evolve throughout a campaign:
 **Cast Spell (Costs 2 Actions)**: Warren casts a spell of 3rd level or lower.
 
 *The Shadow Warren represents the complex moral landscape of Aethermoor, where the line between hero and villain is as murky as the shadows they inhabit. Their story serves as a powerful reminder that good intentions and noble goals can lead down dark paths, and that sometimes the price of revolution is higher than anyone anticipates.*
+
+
+## Connections
+
+- [[The Whisper Syndicate]]
+- [[Investigation Procedures]]
+- [[Vex Shadowthorn]]
+- [[Ancient Tunnels Beneath Palace]]

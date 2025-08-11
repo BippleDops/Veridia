@@ -1,15 +1,31 @@
 ---
-tags: [location, city, twilight_reaches, major_settlement]
-aliases: [New Tethys, The Glass City, The First Refuge]
+tags:
+- both
+- city
+- draft
+- location
+- major_settlement
+- twilight_reaches
+aliases:
+- The Glass City
+- The First Refuge
 created: 2024-12-19
-image: "04_Resources/Assets/Locations/new_tethys.jpg"
-danger_level: "Moderate"
-population: 75000
-  - Category/Place
+image: 04_Resources/Assets/Locations/new_tethys.jpg
+danger_level: Moderate
+population: 75000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.133300+00:00'
+status: draft
+type: Location
 ---
+
+
+
+
+
 
 # New Tethys - The Glass City
 
@@ -133,3 +149,40 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 - [[Memory Thief]] - Retrieve stolen artifacts
 - [[The Depth Plague]] - Find the source of infection
 - [[Pressure Politics]] - Navigate trade negotiations
+
+
+## Connections
+
+- [[Corallion]]
+- [[Angels and Depths]]
+- [[Tethyan Hegemony]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,21 +1,15 @@
 ---
-tags: [npc, envoy, diplomat, noble, aquabyssos, shadow-touched, blackwater-family]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Half-Elf"
-class: "Warlock/Diplomat"
-level: 10
-faction: "Blackwater Dynasty"
-location: "Diplomatic Quarter"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.879208+00:00'
+created: '2025-08-11T13:08:49.879208+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # Envoy Cassius Blackwater Jr.
 

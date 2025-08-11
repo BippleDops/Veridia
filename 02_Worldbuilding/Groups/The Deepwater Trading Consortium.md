@@ -1,23 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.234830+00:00'
+created: '2025-08-11T13:08:51.234830+00:00'
+status: draft
 tags:
-  - faction
-  - guild
-  - trade
-  - maritime
-  - economic
-type: Trade Guild
-alignment: Lawful Neutral
-headquarters: "[[02_Worldbuilding/Places/The Floating Markets of Nereidios]]"
-leader: "[[Guildmaster Admiral Tidal Goldwave]]"
-status: Active
-power_level: Regional Economic Power
-created: 2025-08-09
-image: "04_Resources/Assets/Factions/deepwater_trading_consortium.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Deepwater Trading Consortium
 *Masters of Ocean Commerce*
@@ -38,3 +31,7 @@ The Deepwater Trading Consortium dominates maritime trade across the known world
 - **[[02_Worldbuilding/People/The Tidecaller]]** - Controls access to profitable sea routes
 - **[[02_Worldbuilding/Groups/Merchant Princes]]** - Competition and cooperation dynamics
 - **[[02_Worldbuilding/Places/The Kraken's Harbor]]** - Major threat requiring route diversification
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

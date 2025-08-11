@@ -1,14 +1,26 @@
 ---
-tags: [quest, infiltration, sabotage, mystery, the-lock, environmental-horror]
+tags:
+- aquabyssos
+- complete
+- environmental-horror
+- infiltration
+- mystery
+- quest
+- sabotage
+- the-lock
 status: complete
 world: Aquabyssos
-type: quest
+type: Lore
 level: 10-14
 duration: 2-3 sessions
 threat_level: extreme
 created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.034125+00:00'
 ---
+
+
+
 
 # The Lock Saboteur
 
@@ -175,7 +187,7 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 - **6th level (1 slot):** *disintegrate*, *flesh to stone*
 
 #### Equipment
-- **Reinforced Engineer's Coat**: AC 14 + Dex modifier, provides resistance to one type of energy damage per day
+- **Reinforced Engineer's Coat**: AS 14 + Dex modifier, provides resistance to one type of energy damage per day
 - **Magnetic Climbing Boots**: Grant climbing speed and immunity to being knocked prone
 - **Master's Toolkit**: Gives advantage on all tool-based checks
 - **Abyssal Corruption Focus**: Crystal shard that enhances spells with necrotic energy
@@ -277,3 +289,9 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 
 > [!danger] DM Secret
 > The Lock was never meant to be permanent. It's a stopgap measure created during an ancient emergency, and it's slowly destabilizing reality itself. Brass Gearspin is partially right - the Lock will eventually fail catastrophically, but his timeline is off by centuries. The real question is whether society should begin preparing for that eventuality now or wait until the crisis becomes undeniable.
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+- [[The_Second_Rising]]

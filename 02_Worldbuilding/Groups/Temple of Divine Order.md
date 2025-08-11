@@ -1,20 +1,16 @@
 ---
-type: faction
-tags: [faction, religious, aquabyssos, divine-hierarchy, transformation-acceptance]
-aliases: [Temple of Divine Order, The Ordered Depths, Divine Hierarchy, Sacred Transformation]
-world: "Aquabyssos"
-created: 2025-08-09
-modified: 2025-08-09
-leader: "High Oracle Serenity Deepcall"
-headquarters: "The Sunken Cathedral of Perfect Order"
-alignment: "Lawful Good"
-power_level: "Major Religious Authority"
-status: "Active Religious Organization"
-  - Category/Group
-MyContainer: Aquabyssos
-MyCategory: Religious Organization
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.354309+00:00'
+created: '2025-08-11T13:08:51.354309+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Temple of Divine Order
 *"In Transformation We Find Truth, In Order We Find Peace"*
@@ -307,3 +303,14 @@ The Temple maintains religious facilities in every major settlement:
 - [[Community Support Networks]]
 - [[Transformation Assistance]]
 - [[Crisis Response Services]]
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Lord Vexton Shadowmere]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Anti-Priest Nullus]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Campaign_Relationship_Matrix]]

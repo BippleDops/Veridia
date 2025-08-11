@@ -1,0 +1,1010 @@
+VAULT IMPROVEMENT PHASE 5: Redlink Resolver
+
+Detected missing link targets: 6221
+Seed files created: 4602
+
+Created files:
+- 02_Worldbuilding/Lore/The Deep Territories.md
+- 02_Worldbuilding/Lore/The Celestial Wind.md
+- 02_Worldbuilding/Lore/The Exotic Emporium.md
+- 02_Worldbuilding/Places/Port facilities.md
+- 02_Worldbuilding/Lore/The Umbral Exchange.md
+- 02_Worldbuilding/Lore/Market Square.md
+- 02_Worldbuilding/Lore/The Shadow Merchant Prime.md
+- 02_Worldbuilding/Lore/Master Trader Darkmarket.md
+- 02_Worldbuilding/Lore/Commander Shadowguard.md
+- 02_Worldbuilding/People/High Priestess Celeste.md
+- 02_Worldbuilding/Lore/Royal Government.md
+- 02_Worldbuilding/Lore/Prince Caspian.md
+- 02_Worldbuilding/People/Lord Commander Gareth.md
+- 02_Worldbuilding/Lore/Seven Shards.md
+- 02_Worldbuilding/People/Lord Aurelius.md
+- 02_Worldbuilding/Lore/The Silent Marketplace.md
+- 02_Worldbuilding/Lore/The Crystal Forest.md
+- 02_Worldbuilding/Places/The Sunken Palace.md
+- 02_Worldbuilding/Lore/The Forge of War.md
+- 02_Worldbuilding/Places/Port Meridian - Market District.md
+- 02_Worldbuilding/Lore/The Living Docks.md
+- 02_Worldbuilding/Lore/Skyhold Citadel.md
+- 02_Worldbuilding/Lore/Windweaver Spire.md
+- 02_Worldbuilding/Lore/The Floating Markets.md
+- 02_Worldbuilding/Places/Stormwatch Keep.md
+- 02_Worldbuilding/Lore/The Wind Roads.md
+- 02_Worldbuilding/Lore/Cloud Gardens.md
+- 02_Worldbuilding/Lore/The Lightning Forge.md
+- 02_Worldbuilding/Lore/The Observatory.md
+- 02_Worldbuilding/Lore/Admiral Coralheart.md
+- 02_Worldbuilding/Lore/Sky Marshal Windstrider.md
+- 02_Worldbuilding/Lore/Elder Stormcaller.md
+- 02_Worldbuilding/Lore/Balta Kaine.md
+- 02_Worldbuilding/Lore/Forge Master Thorne.md
+- 02_Worldbuilding/Lore/Oracle Mistweaver.md
+- 02_Worldbuilding/Lore/Void Prophet Zephyr.md
+- 02_Worldbuilding/People/Captain Nautilus.md
+- 02_Worldbuilding/Lore/Ranger Skybow.md
+- 02_Worldbuilding/Lore/Scout Deepfinder.md
+- 02_Worldbuilding/Groups/Guild Master Shellforge.md
+- 02_Worldbuilding/Lore/Matriarch Cloudweaver.md
+- 02_Worldbuilding/Lore/Sky Sovereign Alliance.md
+- 02_Worldbuilding/Lore/The Neutral Zones Treaty.md
+- 02_Worldbuilding/Groups/Void Touched Cult.md
+- 02_Worldbuilding/Lore/The Preservers.md
+- 02_Worldbuilding/Groups/Shadow Market Syndicate.md
+- 02_Worldbuilding/Lore/Timeline of the Catastrophe.md
+- 02_Worldbuilding/Lore/The Merging.md
+- 02_Worldbuilding/Lore/Pressure Magic Theory.md
+- 02_Worldbuilding/Lore/Wind Song Traditions.md
+- 02_Worldbuilding/Lore/The Void Conspiracy.md
+- 02_Worldbuilding/Lore/Lost Archives.md
+- 02_Worldbuilding/Lore/The Prophecy of Tides.md
+- 02_Worldbuilding/Lore/Ancient Pacts.md
+- 02_Worldbuilding/Lore/Random_Encounter_Tables.md
+- 02_Worldbuilding/Lore/Treasure_Generators.md
+- 02_Worldbuilding/Lore/NPC_Generator.md
+- 02_Worldbuilding/Lore/Character_Creation_Guide.md
+- 02_Worldbuilding/Lore/Equipment_Catalogs.md
+- 02_Worldbuilding/Lore/Spell_Compendiums.md
+- 02_Worldbuilding/Lore/Player_Handouts.md
+- 02_Worldbuilding/Lore/Quest - Missing Shipments.md
+- 02_Worldbuilding/Lore/Quest - The Haunted Depths.md
+- 02_Worldbuilding/Lore/Quest - Sky Pirates.md
+- 02_Worldbuilding/Lore/Quest - Crystal Corruption.md
+- 02_Worldbuilding/Lore/Quest - War of Tides.md
+- 02_Worldbuilding/Lore/Quest - The Lost City.md
+- 02_Worldbuilding/People/Quest - Storm Lord's Challenge.md
+- 02_Worldbuilding/Lore/Quest - The Deep Mother Awakens.md
+- 02_Worldbuilding/Lore/Quest - Planar Convergence.md
+- 02_Worldbuilding/Lore/Quest - The Final Tide.md
+- 02_Worldbuilding/Lore/Quest - Ascension.md
+- 02_Worldbuilding/Lore/Pressure & Depth Mechanics.md
+- 02_Worldbuilding/Lore/Altitude & Wind Effects.md
+- 02_Worldbuilding/Lore/Corruption & Sanity.md
+- 02_Worldbuilding/Lore/Faction Reputation.md
+- 02_Worldbuilding/Lore/Pressure Magic.md
+- 02_Worldbuilding/Lore/Wind Songs.md
+- 02_Worldbuilding/Lore/Void Touch.md
+- 02_Worldbuilding/Lore/Merged Magic.md
+- 02_Worldbuilding/Lore/Session_Zero_Checklist.md
+- 02_Worldbuilding/Lore/Session_Notes_Template.md
+- 02_Worldbuilding/Lore/Initiative_Tracker.md
+- 02_Worldbuilding/Lore/Campaign_Calendar.md
+- 02_Worldbuilding/Lore/Random_Location_Generator.md
+- 02_Worldbuilding/Groups/Culture_Builder.md
+- 02_Worldbuilding/Lore/Faction_Relationship_Web.md
+- 02_Worldbuilding/Lore/Economic_Systems.md
+- 02_Worldbuilding/Lore/Master Index.md
+- 02_Worldbuilding/Lore/World Bible.md
+- 02_Worldbuilding/Lore/Session Planning Toolkit.md
+- 02_Worldbuilding/Lore/Encounter Builder.md
+- 02_Worldbuilding/Lore/NPC Dialogue Generator.md
+- 02_Worldbuilding/Lore/Complete Pressure Adaptation System.md
+- 02_Worldbuilding/Lore/Complete Faction Warfare System.md
+- 02_Worldbuilding/Lore/Complete Reality Merger System.md
+- 02_Worldbuilding/Lore/Memory Trading Economy.md
+- 02_Worldbuilding/Lore/Sanity Horror Framework.md
+- 02_Worldbuilding/Lore/07_Player_Resources.md
+- 02_Worldbuilding/Lore/06_GM_Resources.md
+- 02_Worldbuilding/Lore/GM Resources.md
+- 02_Worldbuilding/Lore/Quest Campaign Tracker.md
+- 02_Worldbuilding/Lore/Faction_Tracker.md
+- 02_Worldbuilding/Lore/Session Log.md
+- 02_Worldbuilding/Lore/NPC Directory.md
+- 02_Worldbuilding/Lore/Combat Tracker.md
+- 02_Worldbuilding/Lore/Location Tracker.md
+- 02_Worldbuilding/Lore/Item_Catalog.md
+- 02_Worldbuilding/Lore/Spell Compendium.md
+- 02_Worldbuilding/Lore/Political Maneuvering.md
+- 02_Worldbuilding/Lore/Mass Combat Resolution.md
+- 02_Worldbuilding/Lore/Reality Merger Mechanics.md
+- 02_Worldbuilding/Lore/Aquabyssos Rumors.md
+- 02_Worldbuilding/Lore/05_Templates.md
+- 02_Worldbuilding/Lore/Faction_Tracker.base.md
+- 02_Worldbuilding/Lore/Quest Campaign Tracker.base.md
+- 02_Worldbuilding/Lore/NPC Directory.base.md
+- 02_Worldbuilding/Lore/Session Log.base.md
+- 02_Worldbuilding/Lore/UNIFIED_VAULT_COMPLETION_GUIDE.md
+- 02_Worldbuilding/Lore/README_FUTURE_WORK.md
+- 02_Worldbuilding/Lore/Abandoned Consortium Warehouse.md
+- 02_Worldbuilding/Lore/Session 05 - The Shadow War.md
+- 02_Worldbuilding/Lore/Location.md
+- 02_Worldbuilding/Lore/<% questGiver %>.md
+- 02_Worldbuilding/Lore/Player 1.md
+- 02_Worldbuilding/Lore/Player 2.md
+- 02_Worldbuilding/Lore/Player 3.md
+- 02_Worldbuilding/Lore/Player 4.md
+- 02_Worldbuilding/Lore/Quest 1.md
+- 02_Worldbuilding/Lore/NPC 1.md
+- 02_Worldbuilding/Lore/Location 1.md
+- 02_Worldbuilding/Lore/Councillor Elara Brightwater.md
+- 02_Worldbuilding/Lore/Whisper Jack.md
+- 02_Worldbuilding/Lore/Master Thorne Blackforge.md
+- 02_Worldbuilding/People/Lady Seraphina Goldleaf.md
+- 02_Worldbuilding/Lore/Template_Player_Placeholder.png.md
+- 02_Worldbuilding/Lore/${chosenPath}.md
+- 02_Worldbuilding/Lore/Template_Quest_Placeholder.png.md
+- 02_Worldbuilding/Lore/Template_StarSystem_Placeholder.png.md
+- 02_Worldbuilding/Lore/A Cave.png.md
+- 02_Worldbuilding/Lore/Travel Calculator.md
+- 02_Worldbuilding/Lore/Exhaustion.md
+- 02_Worldbuilding/Lore/Next Town A.md
+- 02_Worldbuilding/Lore/Next Town B.md
+- 02_Worldbuilding/Lore/Template_Planet_Placeholder.png.md
+- 02_Worldbuilding/Lore/The Island of Screams.jpg.md
+- 02_Worldbuilding/Lore/Template_Place_Placeholder.png.md
+- 02_Worldbuilding/Lore/Template_Galaxy_Placeholder.png.md
+- 02_Worldbuilding/Lore/Template_Group_Placeholder.png.md
+- 02_Worldbuilding/Lore/Zelkor's Ferry.png.md
+- 02_Worldbuilding/Lore/path.md
+- 02_Worldbuilding/Lore/Template_Item_Placeholder.png.md
+- 02_Worldbuilding/Lore/Template_Person_Placeholder.png.md
+- 02_Worldbuilding/Lore/Template_Continent_Placeholder.png.md
+- 02_Worldbuilding/Lore/Template_Species_Placeholder.png.md
+- 02_Worldbuilding/Lore/Player_Handbook.md
+- 02_Worldbuilding/Lore/Complete_Rules_Reference.md
+- 02_Worldbuilding/Lore/Island of Screams.md
+- 02_Worldbuilding/Lore/Journey Board.md
+- 02_Worldbuilding/Lore/City of Trade.md
+- 02_Worldbuilding/Lore/Example Party 1.md
+- 02_Worldbuilding/Lore/Home Embeds#Party.md
+- 02_Worldbuilding/Lore/Home Embeds#Session Journals.md
+- 02_Worldbuilding/Lore/Home Embeds#Create New.md
+- 02_Worldbuilding/Lore/Home Embeds#Recently Modified.md
+- 02_Worldbuilding/Lore/Home Embeds#Vault Graph.md
+- 02_Worldbuilding/Lore/Island of Skulls.md
+- 02_Worldbuilding/Lore/City of Screams.md
+- 02_Worldbuilding/Lore/Home Embeds - DV#Party.md
+- 02_Worldbuilding/Lore/Home Embeds - DV#Session Journals.md
+- 02_Worldbuilding/Lore/Home Embeds - DV#Create New.md
+- 02_Worldbuilding/Lore/Home Embeds - DV#Recently Modified.md
+- 02_Worldbuilding/Lore/Home Embeds - DV#Vault Graph.md
+- 02_Worldbuilding/Lore/Political Intrigue Session.md
+- 02_Worldbuilding/Lore/Deep Mother Subsystem.md
+- 02_Worldbuilding/Lore/The Fortress of the Deeps.md
+- 02_Worldbuilding/Lore/The Tidal Sanctum.md
+- 02_Worldbuilding/People/The Pressure King.md
+- 02_Worldbuilding/Lore/The Phantom Tide.md
+- 02_Worldbuilding/Lore/The Grand Crystal Exchange.md
+- 02_Worldbuilding/Lore/Tidal-Crown Maraleth.md
+- 02_Worldbuilding/People/Deep-Priest Covenant.md
+- 02_Worldbuilding/Lore/Noble-Born Marina Deepcurrent.md
+- 02_Worldbuilding/People/Militant-Priest Abyssal.md
+- 02_Worldbuilding/People/Scholar-Priest Tidal-Memory.md
+- 02_Worldbuilding/Lore/Philosopher-Noble Depth-Crown.md
+- 02_Worldbuilding/Places/Political Leader Reef-Crown.md
+- 02_Worldbuilding/Lore/High Restorer Tidal-Crown Maraleth.md
+- 02_Worldbuilding/People/Warrior-Priest Abyss-Sworn.md
+- 02_Worldbuilding/Groups/Cultural-Sage Deep-Memory.md
+- 02_Worldbuilding/Places/Temple-Scholar Depth-Seer.md
+- 02_Worldbuilding/Lore/Master Resonance Architect Echo Stonewhisper.md
+- 02_Worldbuilding/Lore/Senior Resonance Engineer Harmony Deepnote.md
+- 02_Worldbuilding/Lore/Crystal Master Chorus Gemgrow.md
+- 02_Worldbuilding/Lore/Geology Specialist Stone Soundshape.md
+- 02_Worldbuilding/Lore/Network Coordinator Wave Linkmaster.md
+- 02_Worldbuilding/Lore/Safety Director Storm Shieldvoice.md
+- 02_Worldbuilding/Lore/Shadow Corruption.md
+- 02_Worldbuilding/Lore/Saint Meridia the Unifier.md
+- 02_Worldbuilding/Lore/Master Depth-Crystal Thalamos.md
+- 02_Worldbuilding/Lore/The Unity Institute.md
+- 02_Worldbuilding/Lore/The Healing Circles.md
+- 02_Worldbuilding/Groups/The Order of Sacred Integration.md
+- 02_Worldbuilding/People/Deep Lords.md
+- 02_Worldbuilding/Lore/Memory Merchants.md
+- 02_Worldbuilding/Lore/The Corruption Saint Marina.md
+- 02_Worldbuilding/Lore/Master Healer Prism-Light Thalassos.md
+- 02_Worldbuilding/Lore/Identity Integration of Scholar Depth-Crystal.md
+- 02_Worldbuilding/People/The Dimensional Adaptation Recovery of Captain Pressure-Storm.md
+- 02_Worldbuilding/Lore/The Healing of Mermaid's Rest.md
+- 02_Worldbuilding/Lore/The Restoration of Crystal Grove.md
+- 02_Worldbuilding/Lore/The Unity Festival Healing.md
+- 02_Worldbuilding/Lore/The Shadowmere Purification.md
+- 02_Worldbuilding/Lore/The Dimensional Bridge Healing.md
+- 02_Worldbuilding/Lore/The Pressure-Crystal Synthesis Project.md
+- 02_Worldbuilding/Lore/Unity Ambassador Cross-Current.md
+- 02_Worldbuilding/Lore/The Integration Oracle.md
+- 02_Worldbuilding/Lore/The Healing Sanctuary.md
+- 02_Worldbuilding/Places/The Integration Temple.md
+- 02_Worldbuilding/Lore/The Dimensional Hospital.md
+- 02_Worldbuilding/Lore/The Bridge of Understanding.md
+- 02_Worldbuilding/Lore/The First Healing.md
+- 02_Worldbuilding/Lore/The Great Integration.md
+- 02_Worldbuilding/Lore/The Healer's Persecution.md
+- 02_Worldbuilding/Lore/The Unity Festival.md
+- 02_Worldbuilding/Lore/The Divine Reconciliation.md
+- 02_Worldbuilding/Lore/The Unity Crystal.md
+- 02_Worldbuilding/Lore/The Healer's Codex.md
+- 02_Worldbuilding/Lore/The Integration Chalice.md
+- 02_Worldbuilding/Lore/The Dimensional Sutures.md
+- 02_Worldbuilding/Lore/The Love Bridge.md
+- 02_Worldbuilding/Lore/Master Wind Rider Zephyr Stormcaller.md
+- 02_Worldbuilding/Lore/The Wind Shrine Archipelago.md
+- 02_Worldbuilding/Lore/Storm's End Citadel.md
+- 02_Worldbuilding/Groups/The Sky Knight Orders.md
+- 02_Worldbuilding/Lore/The Weather Wardens Council.md
+- 02_Worldbuilding/Groups/Combat Coordinator Master Strike Orderwright.md
+- 02_Worldbuilding/Lore/Combat Encounter Design.md
+- 02_Worldbuilding/Lore/Environmental Combat Rules.md
+- 02_Worldbuilding/Lore/Mass Combat Systems.md
+- 02_Worldbuilding/Lore/Tactical Combat Options.md
+- 02_Worldbuilding/Lore/Emergency Combat Procedures.md
+- 02_Worldbuilding/Places/Master Chronologist Temporal Truthkeeper.md
+- 02_Worldbuilding/Lore/The Depth Guard.md
+- 02_Worldbuilding/Lore/The Drowned Prophets.md
+- 02_Worldbuilding/Lore/The Memory Merchants.md
+- 02_Worldbuilding/Lore/Aboleth.md
+- 02_Worldbuilding/Lore/Memory Merchant.md
+- 02_Worldbuilding/Lore/The Memory Vaults.md
+- 02_Worldbuilding/Lore/The Reality Laboratory.md
+- 02_Worldbuilding/Lore/Memory Meadows.md
+- 02_Worldbuilding/Lore/The Truth Sanctuary.md
+- 02_Worldbuilding/Lore/The Great Forgetting.md
+- 02_Worldbuilding/Lore/The False History Crisis.md
+- 02_Worldbuilding/Lore/The Identity Wars.md
+- 02_Worldbuilding/Lore/The Memory Plague.md
+- 02_Worldbuilding/Lore/The Reality Audit.md
+- 02_Worldbuilding/Lore/The Memory Crown.md
+- 02_Worldbuilding/Lore/The Truth Seeker.md
+- 02_Worldbuilding/Lore/The Reality Anchor.md
+- 02_Worldbuilding/Lore/The Consciousness Mirror.md
+- 02_Worldbuilding/Groups/The Depth Mysteries Cult.md
+- 02_Worldbuilding/Lore/Dock Worker Tomás.md
+- 02_Worldbuilding/Lore/The Deep Mother's Garden.md
+- 02_Worldbuilding/Lore/The Pressure Chambers.md
+- 02_Worldbuilding/Lore/The Deep Mother Rises.md
+- 02_Worldbuilding/Lore/The Shadow Integration.md
+- 02_Worldbuilding/Lore/The Community Awakening.md
+- 02_Worldbuilding/Lore/The First Breath Relic.md
+- 02_Worldbuilding/Lore/The Depth Mother's Blessing.md
+- 02_Worldbuilding/Lore/The Community Crown.md
+- 02_Worldbuilding/Lore/The Memory Pearl.md
+- 02_Worldbuilding/Lore/The Pressure Stone.md
+- 02_Worldbuilding/Lore/Crystal Heart of the Realm.md
+- 02_Worldbuilding/Groups/Crystal Academy Networks.md
+- 02_Worldbuilding/Lore/Harmonic Defense Grid.md
+- 02_Worldbuilding/Lore/Peace of Singing Stones.md
+- 02_Worldbuilding/Lore/Royal Crystal Gardens.md
+- 02_Worldbuilding/Lore/Great Crystallization.md
+- 02_Worldbuilding/Lore/Ancient Crystaldeep.md
+- 02_Worldbuilding/People/Lord Chancellor Prism.md
+- 02_Worldbuilding/Lore/High Crystallographer Magnus.md
+- 02_Worldbuilding/Lore/General Radiance Stormwright.md
+- 02_Worldbuilding/Lore/Princess Luminara.md
+- 02_Worldbuilding/Lore/Prince Aurelius.md
+- 02_Worldbuilding/People/Kingdom of Luminal Peaks.md
+- 02_Worldbuilding/Lore/Federation of Crystal Traders.md
+- 02_Worldbuilding/Lore/The Shadowmere Territories.md
+- 02_Worldbuilding/Groups/Order of the True Crown.md
+- 02_Worldbuilding/Lore/General Truthseeker Vale.md
+- 02_Worldbuilding/Lore/Archcrystallographer Clarity.md
+- 02_Worldbuilding/People/Lady Resistance Brightshield.md
+- 02_Worldbuilding/Lore/Crystal Cleansing Brotherhood.md
+- 02_Worldbuilding/People/King Consort Meridian.md
+- 02_Worldbuilding/People/Lady Crystal-Heart Miraleth.md
+- 02_Worldbuilding/Lore/Ambassador Foreign-Relations Valdris.md
+- 02_Worldbuilding/Lore/Ancient Crystal Mines.md
+- 02_Worldbuilding/Lore/Iron Mountain Province.md
+- 02_Worldbuilding/Groups/The Border Marches.md
+- 02_Worldbuilding/Lore/Peasant Villages.md
+- 02_Worldbuilding/Places/Merchant Quarter Districts.md
+- 02_Worldbuilding/Places/Temple Districts.md
+- 02_Worldbuilding/Lore/Academic Centers.md
+- 02_Worldbuilding/Lore/The Throne Room.md
+- 02_Worldbuilding/Lore/Resistance Safe Houses.md
+- 02_Worldbuilding/Lore/The Shard Incident.md
+- 02_Worldbuilding/Lore/The Crystal Awakening.md
+- 02_Worldbuilding/Lore/The Royal Transformation.md
+- 02_Worldbuilding/Lore/The Resistance Formation.md
+- 02_Worldbuilding/Lore/The Final Confrontation.md
+- 02_Worldbuilding/Lore/The Crown of Consciousness.md
+- 02_Worldbuilding/Lore/The Shard Fragment.md
+- 02_Worldbuilding/Lore/The Royal Crystals.md
+- 02_Worldbuilding/Lore/The Identity Anchor.md
+- 02_Worldbuilding/Lore/The Love Token.md
+- 02_Worldbuilding/Groups/The Parliament of Echoes.md
+- 02_Worldbuilding/Lore/Shadow-Crystal Synthesis.md
+- 02_Worldbuilding/Lore/Crystal Spires.md
+- 02_Worldbuilding/Lore/The Convergence Crisis.md
+- 02_Worldbuilding/Places/The Shattered Isles.md
+- 02_Worldbuilding/Lore/The Arcanum Supreme.md
+- 02_Worldbuilding/Lore/The Nine High Magisters.md
+- 02_Worldbuilding/Lore/The Godhead Ritual.md
+- 02_Worldbuilding/Lore/The Sunken Cities.md
+- 02_Worldbuilding/Lore/Lumengarde Republic.md
+- 02_Worldbuilding/Lore/The Wild Current Confederacy.md
+- 02_Worldbuilding/Lore/The Free Trading Federation.md
+- 02_Worldbuilding/Lore/The Sacred Archipelago.md
+- 02_Worldbuilding/Lore/Wild Magic Zones.md
+- 02_Worldbuilding/Lore/Dead Magic Seas.md
+- 02_Worldbuilding/Lore/The Great Circuit.md
+- 02_Worldbuilding/Lore/Maritime Technology.md
+- 02_Worldbuilding/Lore/Memory Alteration.md
+- 02_Worldbuilding/Places/Coral Reef Sanctuaries.md
+- 02_Worldbuilding/Lore/The Crystal Express.md
+- 02_Worldbuilding/Lore/Institute for Dimensional Studies.md
+- 02_Worldbuilding/Lore/The Harmonic Gardens.md
+- 02_Worldbuilding/Lore/The Storm Convergence.md
+- 02_Worldbuilding/Lore/The Drowning Spires.md
+- 02_Worldbuilding/Lore/The Trading Nexus.md
+- 02_Worldbuilding/Lore/The Battlefield Convergence.md
+- 02_Worldbuilding/Lore/Reality Shepherd Nexus.md
+- 02_Worldbuilding/Lore/Professor Dimensional Voss.md
+- 02_Worldbuilding/People/Captain Twin-Reality Marsh.md
+- 02_Worldbuilding/Lore/Trader Cross-Current Jin.md
+- 02_Worldbuilding/Lore/Echo Resident Sam.md
+- 02_Worldbuilding/Lore/The First Zone Formation.md
+- 02_Worldbuilding/Lore/The Great Zone Expansion.md
+- 02_Worldbuilding/Lore/The Reality Storm Crisis.md
+- 02_Worldbuilding/Lore/The Zone Consciousness Awakening.md
+- 02_Worldbuilding/Lore/The Final Merger.md
+- 02_Worldbuilding/Lore/The Reality Compass.md
+- 02_Worldbuilding/Lore/The Dimensional Anchor.md
+- 02_Worldbuilding/Lore/The Zone Map Codex.md
+- 02_Worldbuilding/Lore/The Identity Stabilizer.md
+- 02_Worldbuilding/Lore/The Convergence Key.md
+- 02_Worldbuilding/Lore/Chief Resonance Engineer Harmony Crystalstone.md
+- 02_Worldbuilding/Lore/The Crystal Influence.md
+- 02_Worldbuilding/Lore/Council of Mages.md
+- 02_Worldbuilding/Lore/Royal Guard.md
+- 02_Worldbuilding/Lore/Deep Sage Erebus Voidwalker.md
+- 02_Worldbuilding/Groups/Order of the Deep Vigil.md
+- 02_Worldbuilding/Lore/Great Silence.md
+- 02_Worldbuilding/Lore/Abyssal Cyclicalism.md
+- 02_Worldbuilding/Lore/School of Deep Resonance.md
+- 02_Worldbuilding/Groups/Academy of Foundational Inquiry.md
+- 02_Worldbuilding/Lore/Institute of Practical Philosophy.md
+- 02_Worldbuilding/Lore/Goldspire Expedition.md
+- 02_Worldbuilding/Lore/Master Engineer Nautilus Goldspire.md
+- 02_Worldbuilding/Groups/Academy of Deep Understanding.md
+- 02_Worldbuilding/Lore/Archscholar Marina Voidseeker.md
+- 02_Worldbuilding/Places/High Vigil Keeper Thalassa Depthmind.md
+- 02_Worldbuilding/Lore/Pelagic the Current-Walker.md
+- 02_Worldbuilding/Lore/Abyssal the Deep-Touched.md
+- 02_Worldbuilding/Lore/Marina the Unifier.md
+- 02_Worldbuilding/Places/Temple of Perpetual Tides.md
+- 02_Worldbuilding/Groups/Order of the Eternal Current.md
+- 02_Worldbuilding/Groups/Church of Tidal Harmony.md
+- 02_Worldbuilding/Lore/Council of Depths.md
+- 02_Worldbuilding/Lore/Tidal Engineering.md
+- 02_Worldbuilding/Lore/Current Riders Union.md
+- 02_Worldbuilding/Lore/Deep Current Society.md
+- 02_Worldbuilding/Lore/The Corrupted Current.md
+- 02_Worldbuilding/Lore/Tide Turner Investigation Committee.md
+- 02_Worldbuilding/Lore/The Ready Current.md
+- 02_Worldbuilding/Lore/Tidal Reserve.md
+- 02_Worldbuilding/Places/Chronicle Keeper Sage Deepmemory.md
+- 02_Worldbuilding/Lore/Baker's Daughter Crysa.md
+- 02_Worldbuilding/Groups/Merchant Family Tidewalker.md
+- 02_Worldbuilding/Lore/Blacksmith Cross-Hammer Grendel.md
+- 02_Worldbuilding/Lore/Ancient Mining Communities.md
+- 02_Worldbuilding/Groups/Border Reality Zones.md
+- 02_Worldbuilding/Lore/Crystal Vein Settlements.md
+- 02_Worldbuilding/Lore/Iron Mountain Regions.md
+- 02_Worldbuilding/Groups/Agricultural Provinces.md
+- 02_Worldbuilding/Lore/Coastal Communities.md
+- 02_Worldbuilding/Lore/Refugee Settlements.md
+- 02_Worldbuilding/Lore/Religious Sanctuaries.md
+- 02_Worldbuilding/Lore/Deep Mining Operations.md
+- 02_Worldbuilding/Lore/Sacred Depth Sites.md
+- 02_Worldbuilding/Lore/Memory Merchant Centers.md
+- 02_Worldbuilding/Lore/Pressure Anomaly Regions.md
+- 02_Worldbuilding/Places/Surface Trade Ports.md
+- 02_Worldbuilding/Groups/Established Family Communities.md
+- 02_Worldbuilding/Lore/Military Bases.md
+- 02_Worldbuilding/Lore/Religious Communities.md
+- 02_Worldbuilding/Lore/The Crystal-Touched Teacher, Miss Luminara.md
+- 02_Worldbuilding/People/The Depth-Blessed Fisherman, Captain Sal Deepcurrent.md
+- 02_Worldbuilding/Lore/The Memory-Gifted Historian, Scholar Echo-Thought.md
+- 02_Worldbuilding/Lore/The Lost Mother, Seaweed Sarah.md
+- 02_Worldbuilding/Lore/The Crystal-Consumed Merchant, Trader Glass-Eye Gorvin.md
+- 02_Worldbuilding/Lore/The Memory-Fragmented Child, Little Luna Patchwork.md
+- 02_Worldbuilding/Lore/The Shadow-Touched Farmer, Blight-Heart Maddox.md
+- 02_Worldbuilding/People/The Depth-Mad Priest, Curator Deep-Voice Thren.md
+- 02_Worldbuilding/People/The Reality-Sick Mayor, Lord Quantum Aldrich.md
+- 02_Worldbuilding/Lore/The Crystal Harmony Collective.md
+- 02_Worldbuilding/Lore/The Deep Unity Fellowship.md
+- 02_Worldbuilding/Lore/The Pure Human Enclave.md
+- 02_Worldbuilding/Lore/The Stability Zones.md
+- 02_Worldbuilding/Places/The Hybrid Harbor.md
+- 02_Worldbuilding/Places/The Evolution District.md
+- 02_Worldbuilding/Lore/Scholar Echo-Thought.md
+- 02_Worldbuilding/Lore/Shadow-Touched Farmer Blight-Heart Maddox.md
+- 02_Worldbuilding/Lore/Transformation Specialist Doctor Prism-Current.md
+- 02_Worldbuilding/Lore/Transformation Hospital.md
+- 02_Worldbuilding/Lore/The First Transformation Wave.md
+- 02_Worldbuilding/Lore/The Crystal Integration Festival.md
+- 02_Worldbuilding/Lore/The Transformation Rights Movement.md
+- 02_Worldbuilding/Lore/The Purification Raids.md
+- 02_Worldbuilding/Lore/The Universal Transformation.md
+- 02_Worldbuilding/Lore/The Adaptation Guide.md
+- 02_Worldbuilding/Lore/The Transformation Tracker.md
+- 02_Worldbuilding/Lore/The Community Bridge.md
+- 02_Worldbuilding/Lore/The Evolution Catalyst.md
+- 02_Worldbuilding/Lore/Master Conductor Nereus Voidcaller.md
+- 02_Worldbuilding/Groups/Deep Current Academy.md
+- 02_Worldbuilding/Lore/Campaign Management Guide.md
+- 02_Worldbuilding/Groups/The Deep Mother Cult.md
+- 02_Worldbuilding/Lore/Dimensional Theorist Prime Echo.md
+- 02_Worldbuilding/Lore/Institute of Recursive Reality Studies.md
+- 02_Worldbuilding/Lore/Cross-Dimensional Research Consortium.md
+- 02_Worldbuilding/Lore/Scaling Physics Laboratory.md
+- 02_Worldbuilding/Lore/Infinite Mathematics Division.md
+- 02_Worldbuilding/Lore/Reality Structure Analysis Group.md
+- 02_Worldbuilding/Lore/Chief Corruption Analyst Prism Datascribe.md
+- 02_Worldbuilding/Lore/Crystal Corruption.md
+- 02_Worldbuilding/Lore/Master Detection Engineer Crystal Sensorwright.md
+- 02_Worldbuilding/Lore/Detection Specialist Gleam Corruptwatch.md
+- 02_Worldbuilding/Lore/Analysis Programmer Spark Dataweave.md
+- 02_Worldbuilding/Lore/Network Designer Flow Linkwright.md
+- 02_Worldbuilding/Lore/Field Engineer Stone Installwright.md
+- 02_Worldbuilding/Lore/Quality Inspector Gem Precisiontest.md
+- 02_Worldbuilding/Groups/Magical Component Manufacturers Guild.md
+- 02_Worldbuilding/Lore/Communication Systems Consortium.md
+- 02_Worldbuilding/Lore/Environmental Systems Suppliers.md
+- 02_Worldbuilding/Lore/Information Systems Alliance.md
+- 02_Worldbuilding/Lore/System Operator Tide Watchwright.md
+- 02_Worldbuilding/Lore/Data Analyst Current Patternweave.md
+- 02_Worldbuilding/Lore/Communications Coordinator Wave Messagewright.md
+- 02_Worldbuilding/Places/Maintenance Tech Reef Fixwright.md
+- 02_Worldbuilding/Lore/Emergency Coordinator Storm Responsewright.md
+- 02_Worldbuilding/Lore/Corruption Intelligence Agency.md
+- 02_Worldbuilding/Lore/Anti-Corruption Research Institute.md
+- 02_Worldbuilding/Lore/Emergency Response Coordination.md
+- 02_Worldbuilding/Groups/Environmental Protection Authority.md
+- 02_Worldbuilding/Lore/International Corruption Monitoring Consortium.md
+- 02_Worldbuilding/Lore/Aethermoor Technical University.md
+- 02_Worldbuilding/Lore/Corruption Studies Research Institute.md
+- 02_Worldbuilding/Lore/Detection Technology Laboratory.md
+- 02_Worldbuilding/Groups/Cross-Realm Cooperation Authority.md
+- 02_Worldbuilding/Lore/Emergency Technology Development Foundation.md
+- 02_Worldbuilding/Lore/Master Architect Coral Dreamwright.md
+- 02_Worldbuilding/Places/Professor Marina Reefbuilder.md
+- 02_Worldbuilding/Lore/The Living Spires.md
+- 02_Worldbuilding/Places/The Guild of Reef Builders.md
+- 02_Worldbuilding/Groups/The Coral Cultivation Collective.md
+- 02_Worldbuilding/People/High Techno-Priest Lumina Skyweaver.md
+- 02_Worldbuilding/Lore/Combat Master Surge Battlewright.md
+- 02_Worldbuilding/Lore/The Crystal Sovereign.md
+- 02_Worldbuilding/Lore/The Convergence Entity.md
+- 02_Worldbuilding/Lore/Marina's True Form.md
+- 02_Worldbuilding/Lore/The Shadow Collective.md
+- 02_Worldbuilding/Lore/Boss Monster Creation Guidelines.md
+- 02_Worldbuilding/Lore/Epic Encounter Scaling.md
+- 02_Worldbuilding/Lore/Narrative Combat Integration.md
+- 02_Worldbuilding/Lore/Phase Transition Special Effects.md
+- 02_Worldbuilding/Lore/Arcane Destroyer Tidal Stormcaller.md
+- 02_Worldbuilding/Lore/War College of Depths.md
+- 02_Worldbuilding/Lore/Trade Arbitrator Marina Fairwave.md
+- 02_Worldbuilding/Groups/Merchant Guild Leader Titus Goldcurrent.md
+- 02_Worldbuilding/Groups/Cultural Advisor Coral Bridgebuilder.md
+- 02_Worldbuilding/Places/Legal Scholar Professor Depth Lawkeeper.md
+- 02_Worldbuilding/Lore/Ethics Investigator Steel Truthseeker.md
+- 02_Worldbuilding/Lore/Inter-Realm Commercial Court.md
+- 02_Worldbuilding/Places/Merchant Guild Headquarters.md
+- 02_Worldbuilding/Lore/The Neutral Trading Post.md
+- 02_Worldbuilding/Lore/Commercial Archives.md
+- 02_Worldbuilding/Groups/Cultural Exchange Commercial Center.md
+- 02_Worldbuilding/Lore/Inter-Realm Commercial Council.md
+- 02_Worldbuilding/Groups/Cultural Integration Trade Association.md
+... and 4102 more
+
+Missing targets (suggested type and dir):
+- [[The Deep Territories]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Celestial Wind]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Exotic Emporium]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[Port facilities]] -> type=Location, dir=02_Worldbuilding/Places, world=Universal
+- [[The Celestial Wind]] -> type=quick-reference, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Exotic Emporium]] -> type=quick-reference, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Umbral Exchange]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Umbral Exchange]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[Market Square]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Umbral Exchange]] -> type=master-index, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Shadow Merchant Prime]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[Master Trader Darkmarket]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[Commander Shadowguard]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Umbral Exchange]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[High Priestess Celeste]] -> type=NPC, dir=02_Worldbuilding/People, world=Universal
+- [[Royal Government]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[Prince Caspian]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[Lord Commander Gareth]] -> type=NPC, dir=02_Worldbuilding/People, world=Universal
+- [[The Umbral Exchange]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[Seven Shards]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[Lord Aurelius]] -> type=NPC, dir=02_Worldbuilding/People, world=Universal
+- [[The Umbral Exchange]] -> type=relationship-matrix, dir=02_Worldbuilding/Lore, world=Universal
+- [[The Silent Marketplace]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Crystal Forest]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Sunken Palace]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+- [[The Forge of War]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Port Meridian - Market District]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+- [[The Living Docks]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Skyhold Citadel]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Windweaver Spire]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Floating Markets]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Stormwatch Keep]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+- [[The Wind Roads]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Cloud Gardens]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Lightning Forge]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Observatory]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Admiral Coralheart]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Sky Marshal Windstrider]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Elder Stormcaller]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Balta Kaine]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Forge Master Thorne]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Oracle Mistweaver]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Void Prophet Zephyr]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Captain Nautilus]] -> type=NPC, dir=02_Worldbuilding/People, world=Both
+- [[Ranger Skybow]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Scout Deepfinder]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Guild Master Shellforge]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Matriarch Cloudweaver]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Sky Sovereign Alliance]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Neutral Zones Treaty]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Void Touched Cult]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[The Preservers]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Market Syndicate]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Timeline of the Catastrophe]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Merging]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Pressure Magic Theory]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Wind Song Traditions]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Void Conspiracy]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Lost Archives]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Prophecy of Tides]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Ancient Pacts]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Random_Encounter_Tables]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Treasure_Generators]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[NPC_Generator]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Character_Creation_Guide]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Equipment_Catalogs]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Spell_Compendiums]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Player_Handouts]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - Missing Shipments]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - The Haunted Depths]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - Sky Pirates]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - Crystal Corruption]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - War of Tides]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - The Lost City]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - Storm Lord's Challenge]] -> type=NPC, dir=02_Worldbuilding/People, world=Both
+- [[Quest - The Deep Mother Awakens]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - Planar Convergence]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - The Final Tide]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest - Ascension]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Pressure & Depth Mechanics]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Altitude & Wind Effects]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Corruption & Sanity]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Faction Reputation]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Pressure Magic]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Wind Songs]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Void Touch]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Merged Magic]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Session_Zero_Checklist]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Session_Notes_Template]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Initiative_Tracker]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Campaign_Calendar]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Random_Location_Generator]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Culture_Builder]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Faction_Relationship_Web]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Economic_Systems]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Index]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[World Bible]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Session Planning Toolkit]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Encounter Builder]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[NPC Dialogue Generator]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Pressure Adaptation System]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Faction Warfare System]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Reality Merger System]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Trading Economy]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Sanity Horror Framework]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[07_Player_Resources]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[06_GM_Resources]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Index]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[World Bible]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[GM Resources]] -> type=dashboard, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest Campaign Tracker]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Faction_Tracker]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Session Log]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[NPC Directory]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Combat Tracker]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Location Tracker]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Item_Catalog]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Spell Compendium]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Pressure Adaptation System]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Faction Warfare System]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Reality Merger System]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Political Maneuvering]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Mass Combat Resolution]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Reality Merger Mechanics]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Aquabyssos Rumors]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[05_Templates]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Faction_Tracker.base]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest Campaign Tracker.base]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[NPC Directory.base]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Session Log.base]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[UNIFIED_VAULT_COMPLETION_GUIDE]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[README_FUTURE_WORK]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Session Log]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Faction_Tracker]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest Campaign Tracker]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[NPC Directory]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[05_Templates]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Session Log]] -> type=index, dir=02_Worldbuilding/Lore, world=Both
+- [[Abandoned Consortium Warehouse]] -> type=session, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Session 05 - The Shadow War]] -> type=session, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Location]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[<% questGiver %>]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[<% questGiver %>]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Location]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Location]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Player 1]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Player 2]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Player 3]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Player 4]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Quest 1]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[NPC 1]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Location 1]] -> type=note, dir=02_Worldbuilding/Lore, world=Both
+- [[Councillor Elara Brightwater]] -> type=npc, dir=02_Worldbuilding/Lore, world=Both
+- [[Whisper Jack]] -> type=npc, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Thorne Blackforge]] -> type=npc, dir=02_Worldbuilding/Lore, world=Both
+- [[Lady Seraphina Goldleaf]] -> type=NPC, dir=02_Worldbuilding/People, world=Both
+- [[Template_Player_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Quest_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_StarSystem_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[A Cave.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Travel Calculator]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Exhaustion]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Next Town A]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Next Town B]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Planet_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Island of Screams.jpg]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Player_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Place_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Galaxy_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Group_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Zelkor's Ferry.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[path]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Travel Calculator]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Exhaustion]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Next Town A]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Next Town B]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Item_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Person_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Continent_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[${chosenPath}]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Template_Species_Placeholder.png]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Player_Handbook]] -> type=player_resource, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete_Rules_Reference]] -> type=player_resource, dir=02_Worldbuilding/Lore, world=Both
+- [[Island of Screams]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Journey Board]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[City of Trade]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Example Party 1]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds#Party]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds#Session Journals]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds#Create New]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds#Recently Modified]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds#Vault Graph]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Island of Skulls]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Journey Board]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[City of Screams]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Example Party 1]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds - DV#Party]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds - DV#Session Journals]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds - DV#Create New]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds - DV#Recently Modified]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Home Embeds - DV#Vault Graph]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Trading Economy]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Sanity Horror Framework]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Reality Merger Mechanics]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Pressure Adaptation System]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Reality Merger Mechanics]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Trading Economy]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Political Intrigue Session]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Pressure Adaptation System]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Complete Faction Warfare System]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Trading Economy]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Sanity Horror Framework]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Deep Mother Subsystem]] -> type=mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[The Fortress of the Deeps]] -> type=artifact, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Tidal Sanctum]] -> type=artifact, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Pressure King]] -> type=NPC, dir=02_Worldbuilding/People, world=Aquabyssos
+- [[The Phantom Tide]] -> type=equipment_set, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Grand Crystal Exchange]] -> type=magical_currency, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Tidal-Crown Maraleth]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Deep-Priest Covenant]] -> type=NPC, dir=02_Worldbuilding/People, world=Aquabyssos
+- [[Noble-Born Marina Deepcurrent]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Militant-Priest Abyssal]] -> type=NPC, dir=02_Worldbuilding/People, world=Aquabyssos
+- [[Scholar-Priest Tidal-Memory]] -> type=NPC, dir=02_Worldbuilding/People, world=Aquabyssos
+- [[Philosopher-Noble Depth-Crown]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Political Leader Reef-Crown]] -> type=Location, dir=02_Worldbuilding/Places, world=Aquabyssos
+- [[High Restorer Tidal-Crown Maraleth]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Political Leader Reef-Crown]] -> type=Location, dir=02_Worldbuilding/Places, world=Aquabyssos
+- [[High Restorer Tidal-Crown Maraleth]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Warrior-Priest Abyss-Sworn]] -> type=NPC, dir=02_Worldbuilding/People, world=Aquabyssos
+- [[Cultural-Sage Deep-Memory]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Deep-Priest Covenant]] -> type=NPC, dir=02_Worldbuilding/People, world=Aquabyssos
+- [[Temple-Scholar Depth-Seer]] -> type=Location, dir=02_Worldbuilding/Places, world=Aquabyssos
+- [[Master Resonance Architect Echo Stonewhisper]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Senior Resonance Engineer Harmony Deepnote]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Crystal Master Chorus Gemgrow]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Geology Specialist Stone Soundshape]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Network Coordinator Wave Linkmaster]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Safety Director Storm Shieldvoice]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Saint Meridia the Unifier]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Depth-Crystal Thalamos]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Unity Institute]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Healing Circles]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Order of Sacred Integration]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Deep Lords]] -> type=NPC, dir=02_Worldbuilding/People, world=Both
+- [[Memory Merchants]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Corruption Saint Marina]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Healer Prism-Light Thalassos]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Identity Integration of Scholar Depth-Crystal]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Unity Institute]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Dimensional Adaptation Recovery of Captain Pressure-Storm]] -> type=NPC, dir=02_Worldbuilding/People, world=Both
+- [[The Healing of Mermaid's Rest]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Restoration of Crystal Grove]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Unity Festival Healing]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Shadowmere Purification]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Dimensional Bridge Healing]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Pressure-Crystal Synthesis Project]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Saint Meridia the Unifier]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Healer Prism-Light Thalassos]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Depth-Crystal Thalamos]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Unity Ambassador Cross-Current]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Integration Oracle]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Unity Institute]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Healing Sanctuary]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Integration Temple]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+- [[The Dimensional Hospital]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Bridge of Understanding]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The First Healing]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Great Integration]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Healer's Persecution]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Unity Festival]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Divine Reconciliation]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Unity Crystal]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Healer's Codex]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Integration Chalice]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Dimensional Sutures]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Love Bridge]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Wind Rider Zephyr Stormcaller]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Wind Shrine Archipelago]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Storm's End Citadel]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Sky Knight Orders]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aethermoor
+- [[The Weather Wardens Council]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Combat Coordinator Master Strike Orderwright]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Combat Encounter Design]] -> type=game-mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Environmental Combat Rules]] -> type=game-mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Mass Combat Systems]] -> type=game-mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Tactical Combat Options]] -> type=game-mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Emergency Combat Procedures]] -> type=game-mechanics, dir=02_Worldbuilding/Lore, world=Both
+- [[Master Chronologist Temporal Truthkeeper]] -> type=Location, dir=02_Worldbuilding/Places, world=Both Worlds
+- [[The Depth Guard]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Drowned Prophets]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Memory Merchants]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Aboleth]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Memory Merchant]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Drowned Prophets]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Memory Vaults]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Reality Laboratory]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Memory Meadows]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Truth Sanctuary]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Great Forgetting]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The False History Crisis]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Identity Wars]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Memory Plague]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Reality Audit]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Memory Crown]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Truth Seeker]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Reality Anchor]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Consciousness Mirror]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Depth Mysteries Cult]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[The Depth Mysteries Cult]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Dock Worker Tomás]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Memory Vaults]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Deep Mother's Garden]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Pressure Chambers]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Deep Mother Rises]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Shadow Integration]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Community Awakening]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The First Breath Relic]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Depth Mother's Blessing]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Community Crown]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Memory Pearl]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Pressure Stone]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Crystal Heart of the Realm]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Crystal Heart of the Realm]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Crystal Academy Networks]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aethermoor
+- [[Harmonic Defense Grid]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Peace of Singing Stones]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Royal Crystal Gardens]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Crystal Heart of the Realm]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Great Crystallization]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Ancient Crystaldeep]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Lord Chancellor Prism]] -> type=NPC, dir=02_Worldbuilding/People, world=Aethermoor
+- [[High Crystallographer Magnus]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[General Radiance Stormwright]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Princess Luminara]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Prince Aurelius]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Kingdom of Luminal Peaks]] -> type=NPC, dir=02_Worldbuilding/People, world=Aethermoor
+- [[Federation of Crystal Traders]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Shadowmere Territories]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Order of the True Crown]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aethermoor
+- [[Prince Aurelius]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[General Truthseeker Vale]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Archcrystallographer Clarity]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Lady Resistance Brightshield]] -> type=NPC, dir=02_Worldbuilding/People, world=Aethermoor
+- [[Crystal Cleansing Brotherhood]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Princess Luminara]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Prince Aurelius]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Prince Aurelius]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[King Consort Meridian]] -> type=NPC, dir=02_Worldbuilding/People, world=Aethermoor
+- [[Lady Crystal-Heart Miraleth]] -> type=NPC, dir=02_Worldbuilding/People, world=Aethermoor
+- [[Ambassador Foreign-Relations Valdris]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Crystal Heart of the Realm]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Ancient Crystal Mines]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Royal Crystal Gardens]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Iron Mountain Province]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Border Marches]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aethermoor
+- [[Peasant Villages]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Merchant Quarter Districts]] -> type=Location, dir=02_Worldbuilding/Places, world=Aethermoor
+- [[Temple Districts]] -> type=Location, dir=02_Worldbuilding/Places, world=Aethermoor
+- [[Academic Centers]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Prince Aurelius]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Princess Luminara]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Lord Chancellor Prism]] -> type=NPC, dir=02_Worldbuilding/People, world=Aethermoor
+- [[General Radiance Stormwright]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Crystal Heart of the Realm]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Throne Room]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Resistance Safe Houses]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Shard Incident]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crystal Awakening]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Royal Transformation]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Resistance Formation]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Final Confrontation]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crown of Consciousness]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Shard Fragment]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Royal Crystals]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Identity Anchor]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Love Token]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Parliament of Echoes]] -> type=Group, dir=02_Worldbuilding/Groups, world=dual
+- [[Shadow-Crystal Synthesis]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Crystal Spires]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Convergence Crisis]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Shattered Isles]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+- [[The Arcanum Supreme]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[The Nine High Magisters]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[The Godhead Ritual]] -> type=Lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Sunken Cities]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[Lumengarde Republic]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[The Wild Current Confederacy]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[The Free Trading Federation]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[The Sacred Archipelago]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[Wild Magic Zones]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[Dead Magic Seas]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[The Great Circuit]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[Maritime Technology]] -> type=Historical Event, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Alteration]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Merchant]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Coral Reef Sanctuaries]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+- [[Memory Merchant]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Crystal Express]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Institute for Dimensional Studies]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Harmonic Gardens]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Storm Convergence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Drowning Spires]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Trading Nexus]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Battlefield Convergence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Reality Shepherd Nexus]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Professor Dimensional Voss]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Captain Twin-Reality Marsh]] -> type=NPC, dir=02_Worldbuilding/People, world=Both
+- [[Trader Cross-Current Jin]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Echo Resident Sam]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The First Zone Formation]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Great Zone Expansion]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Reality Storm Crisis]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Zone Consciousness Awakening]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Final Merger]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Reality Compass]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Dimensional Anchor]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Zone Map Codex]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Identity Stabilizer]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[The Convergence Key]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Chief Resonance Engineer Harmony Crystalstone]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crystal Influence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crystal Influence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crystal Influence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crystal Influence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Chief Resonance Engineer Harmony Crystalstone]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Council of Mages]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Royal Guard]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[The Crystal Influence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aethermoor
+- [[Deep Sage Erebus Voidwalker]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Order of the Deep Vigil]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Great Silence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Great Silence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Great Silence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Abyssal Cyclicalism]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[School of Deep Resonance]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Academy of Foundational Inquiry]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Institute of Practical Philosophy]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Goldspire Expedition]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Master Engineer Nautilus Goldspire]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Academy of Deep Understanding]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Archscholar Marina Voidseeker]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[High Vigil Keeper Thalassa Depthmind]] -> type=Location, dir=02_Worldbuilding/Places, world=Aquabyssos
+- [[Deep Sage Erebus Voidwalker]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Pelagic the Current-Walker]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Abyssal the Deep-Touched]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Marina the Unifier]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Temple of Perpetual Tides]] -> type=Location, dir=02_Worldbuilding/Places, world=Aquabyssos
+- [[Order of the Eternal Current]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Church of Tidal Harmony]] -> type=Group, dir=02_Worldbuilding/Groups, world=Aquabyssos
+- [[Council of Depths]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Tidal Engineering]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Current Riders Union]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Deep Current Society]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Corrupted Current]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Tide Turner Investigation Committee]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[The Ready Current]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Tidal Reserve]] -> type=lore, dir=02_Worldbuilding/Lore, world=Aquabyssos
+- [[Chronicle Keeper Sage Deepmemory]] -> type=Location, dir=02_Worldbuilding/Places, world=Both Worlds
+- [[The Crystal Influence]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both Worlds
+- [[Baker's Daughter Crysa]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Merchant Family Tidewalker]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Blacksmith Cross-Hammer Grendel]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Shadow Corruption]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Ancient Mining Communities]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Royal Crystal Gardens]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Border Reality Zones]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Crystal Vein Settlements]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Iron Mountain Regions]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Agricultural Provinces]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Coastal Communities]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Refugee Settlements]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Religious Sanctuaries]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Deep Mining Operations]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Sacred Depth Sites]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Memory Merchant Centers]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Pressure Anomaly Regions]] -> type=lore, dir=02_Worldbuilding/Lore, world=Both
+- [[Border Reality Zones]] -> type=Group, dir=02_Worldbuilding/Groups, world=Both
+- [[Surface Trade Ports]] -> type=Location, dir=02_Worldbuilding/Places, world=Both
+... and 5721 more

@@ -1,15 +1,25 @@
 ---
-tags: [tavern, inn, aquabyssos, port-quarter]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- inn
+- location
+- port-quarter
+- tavern
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.658650+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Angels and Depths
 
@@ -48,7 +58,7 @@ The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from cr
 
 ### Cordelia "Dead-Eye" Marrows
 *Female Human, Tavern Keeper*
-- **AC**: 15 (Studded Leather)
+- **AS**: 15 (Studded Leather)
 - **HP**: 78 (12d8+24)
 - **Speed**: 30 ft., swim 30 ft.
 - **STR**: 16 (+3), **DEX**: 18 (+4), **CON**: 14 (+2), **INT**: 12 (+1), **WIS**: 16 (+3), **CHA**: 15 (+2)
@@ -59,7 +69,7 @@ Former pirate captain who lost her crew to the [[Abyssal Depths]]. Her replaceme
 
 ### Thalassos the Tide-Speaker
 *Male Merfolk, Diplomatic Envoy*
-- **AC**: 13 (Natural Armor)
+- **AS**: 13 (Natural Armor)
 - **HP**: 52 (8d8+16)
 - **Speed**: 10 ft., swim 50 ft.
 - **Languages**: Common, Aquan, Primordial, Deep Speech
@@ -519,3 +529,8 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 *"In the depths where ancient giants rest, even the dead can offer sanctuary to the living. Here, beneath the weight of water and memory, strangers become allies and enemies find temporary peace."*  
 — Inscription carved into the Leviathan's skull
+
+
+## Connections
+
+- [[The Forgotten One]]

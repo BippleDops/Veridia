@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Confront the Possessed Queen
 
 ![Confront the Possessed Queen Portrait](04_Resources/Assets/Art/Lore/Confront_the_Possessed_Queen.png)

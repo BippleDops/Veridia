@@ -1,23 +1,34 @@
 ---
-tags: [npc, aethermoor, shard-guardian, void-touched, mysterious, ancient, immortal, enigmatic, reality-warper]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-race: "Void-Touched Human (Transformed Beyond Recognition)"
-class: "Guardian/Void-Walker/Reality-Keeper"
+tags:
+- aethermoor
+- ancient
+- complete
+- enigmatic
+- immortal
+- mysterious
+- npc
+- reality-warper
+- shard-guardian
+- void-touched
+status: complete
+world: Aethermoor
+type: NPC
+race: Void-Touched Human (Transformed Beyond Recognition)
+class: Guardian/Void-Walker/Reality-Keeper
 level: 20
-alignment: "True Neutral (Beyond Mortal Understanding)"
-location: "The Null Sanctum, Between Dimensions"
-faction: "The Seven Shard Guardians (Increasingly Isolated)"
-status_condition: "Active, Partially Phased Out of Reality"
-created_by: "auto-stub"
+alignment: True Neutral (Beyond Mortal Understanding)
+location: The Null Sanctum, Between Dimensions
+faction: The Seven Shard Guardians (Increasingly Isolated)
+status_condition: Active, Partially Phased Out of Reality
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.764206+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Seventh Shard
 *The Nameless Guardian, Keeper of Mysteries, The One Who Walks Between*
@@ -439,3 +450,10 @@ The Seventh Shard is the most enigmatic of the Seven Shard Guardians—so myster
 ---
 
 *"I exist because I don't exist, and I don't exist because I must exist. This paradox is the only truth that makes sense, which is why it makes no sense at all. Do you understand? Good. Neither do I."*
+
+
+## Connections
+
+- [[Deep Mother]]
+- [[Aboleth Prime Yoth]]
+- [[Ambassador Korvin Blacktide]]

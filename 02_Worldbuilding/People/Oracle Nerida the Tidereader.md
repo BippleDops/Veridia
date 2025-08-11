@@ -1,19 +1,30 @@
 ---
-tags: [person, npc, aquabyssos, oracle, divination, sea-touched, mystical-advisor]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Oracle & Divination Specialist"
-affiliation: "Independent (Serves All Seekers)"
-age: "67 (appears timeless)"
-race: "Human (Sea-Touched)"
-location: "[[The Tidal Sanctum]] - Orbital Shrine"
-class: "Divination Wizard/Sea Domain Cleric"
+tags:
+- aquabyssos
+- complete
+- divination
+- mystical-advisor
+- npc
+- oracle
+- person
+- sea-touched
+status: complete
+world: Aquabyssos
+type: NPC
+role: Oracle & Divination Specialist
+affiliation: Independent (Serves All Seekers)
+age: 67 (appears timeless)
+race: Human (Sea-Touched)
+location: '[[The Tidal Sanctum]] - Orbital Shrine'
+class: Divination Wizard/Sea Domain Cleric
 level: 15
-alignment: "Neutral"
-created_by: "Claude"
+alignment: Neutral
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.629630+00:00'
 ---
+
+
 
 # Oracle Nerida the Tidereader
 *Seer of the Depths, Voice of Future Tides*
@@ -329,3 +340,10 @@ Oracle Nerida the Tidereader serves as Aquabyssos's most trusted divination spec
 - Shows genuine care for all clients regardless of social status
 - Never lies but may withhold information that would cause more harm
 - Demonstrates wisdom gained from seeing many possible futures
+
+## Connections
+
+- [[Crown of Tidal Sovereignty]]
+- [[The Memory Storm Fields]]
+- [[The Tidepool Markets]]
+- [[Campaign_Relationship_Matrix]]

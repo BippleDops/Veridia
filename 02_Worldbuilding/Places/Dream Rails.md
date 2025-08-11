@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, transportation, dreams, consciousness, mystical, rails, psychic, underwater, alternate-reality]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Psychic Transportation Network"
-parent_location: "Aquabyssos Realm"
-depth: "Exists in multiple dimensions simultaneously"
-danger_level: 4
-population: "~25 dream conductors and consciousness navigators"
-government: "Ministry of Mental Transit and Psychic Safety"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.457918+00:00'
+created: '2025-08-11T13:08:50.457918+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Dream Rails
 *Where Consciousness Transcends the Physical*
@@ -286,3 +281,10 @@ Protective artifacts that maintain connection to individual identity during deep
 **Therapeutic Interventions**: Characters with psychological trauma or mental challenges can receive treatment through Dream Rail therapy sessions that provide healing equivalent to magical restoration.
 
 **Strategic Planning**: Access to collective wisdom and multiple perspectives can enhance planning and decision-making for complex challenges that require diverse expertise and knowledge.
+
+
+## Connections
+
+- [[Abyssos Prime]]
+- [[Harbor District]]
+- [[Pressure Terminal]]

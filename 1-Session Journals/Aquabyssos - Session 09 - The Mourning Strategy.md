@@ -1,31 +1,44 @@
 ---
-tags: [session, aquabyssos, parliament-shadows, active]
+tags:
+- active
+- aquabyssos
+- parliament-shadows
+- planned
+- session
+- session-journal
 session_number: 9
-title: "The Mourning Strategy"
-date_played: 
-location: [[The Mourning Depths]]
-depth: "8,000+ ft (Abyssal Zone)"
+title: The Mourning Strategy
+date_played: null
+location:
+- - The Mourning Depths
+depth: 8,000+ ft (Abyssal Zone)
 npcs_featured:
-  - [[The Sorrowmaster]]
-  - [[02_Worldbuilding/People/Shadow Duchess Nyx]]
-  - [[02_Worldbuilding/People/The Scattered Emperor]]
-  - [[All Marina Versions]]
-status: "planned"
+- - - The Sorrowmaster
+- - - 02_Worldbuilding/People/Shadow Duchess Nyx
+- - - 02_Worldbuilding/People/The Scattered Emperor
+- - - All Marina Versions
+status: planned
 party_level: 8
-estimated_time: "4 hours"
+estimated_time: 4 hours
 themes:
-  - Weaponized sorrow
-  - Collective sacrifice
-  - Emotional transcendence
+- Weaponized sorrow
+- Collective sacrifice
+- Emotional transcendence
 quests_advanced:
-  - [[Activate the Grief Bomb]]
-  - [[Navigate Singer Consciousness]]
-  - [[Unite All Factions]]
-type: Session Journal
+- - - Activate the Grief Bomb
+- - - Navigate Singer Consciousness
+- - - Unite All Factions
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.958978+00:00'
+created: '2025-08-11T13:08:46.958978+00:00'
 ---
+
+
+
 
 # Session 9: The Mourning Strategy
 ## Into the Heart of Sorrow
@@ -104,19 +117,19 @@ The party descends into [[The Mourning Depths]] to find it transformed—instead
 ## 🗡️ Combat Encounters
 
 ### Joy-Infected Citizens (Waves)
-- **Wave 1**: 10 laughing corpses (AC 12, HP 20)
-- **Wave 2**: 5 dancing abominations (AC 14, HP 40)
-- **Wave 3**: 3 happiness elementals (AC 16, HP 60)
+- **Wave 1**: 10 laughing corpses (AS 12, HP 20)
+- **Wave 2**: 5 dancing abominations (AS 14, HP 40)
+- **Wave 3**: 3 happiness elementals (AS 16, HP 60)
 - Death spreads joy plague in 10ft radius
 
 ### The Grief Thieves
-- **Leader**: AC 17, HP 90 (stealing sorrow for centuries)
-- **4 Sorrow Siphoners**: AC 15, HP 50 each
+- **Leader**: AS 17, HP 90 (stealing sorrow for centuries)
+- **4 Sorrow Siphoners**: AS 15, HP 50 each
 - **Special**: Drain emotional energy from party
 - **Motivation**: Trying to escape to another reality
 
 ### The First Mourner (Optional Boss)
-- **AC** 19, **HP** 160
+- **AS** 19, **HP** 160
 - **Legendary Resistance** (3/day)
 - **Aura of Absolute Sorrow**: Auto-fail joy saves
 - **Grief Wave**: AOE emotional damage

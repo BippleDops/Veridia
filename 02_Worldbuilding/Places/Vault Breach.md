@@ -1,20 +1,28 @@
 ---
-tags: [location, dungeon, aquabyssos, treasure-vault, dangerous, heist]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Dungeon/Vault"
-danger_level: "Extreme"
-access: "Hidden, requires specific knowledge"
-treasures: "Ancient artifacts, forbidden knowledge, cursed items"
-created_by: "system"
+tags:
+- aquabyssos
+- complete
+- dangerous
+- dungeon
+- heist
+- location
+- treasure-vault
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Dungeon/Vault
+danger_level: Extreme
+access: Hidden, requires specific knowledge
+treasures: Ancient artifacts, forbidden knowledge, cursed items
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:51.138743+00:00'
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
 ---
+
+
 
 # Vault Breach
 
@@ -310,3 +318,8 @@ Intelligence suggests someone plans to deliberately breach the Divine Vault. Par
 - [[Quest - Divine Intervention]] - Divine Vault connection
 - [[The Depth Accords]] - Political implications of vaults
 - [[Quest - The Memory Bridge]] - Memory Vault effects
+
+## Connections
+
+- [[Sanity System]]
+- [[The Primordial Vaults]]

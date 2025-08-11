@@ -1,10 +1,12 @@
 ---
 tags:
-  - npc
-  - noble
-  - rival
-  - prince
-  - Category/People
+- alive
+- both
+- category/people
+- noble
+- npc
+- prince
+- rival
 type: NPC
 race: Human
 class: Noble/Warlock
@@ -14,7 +16,7 @@ location: Exile (Various)
 faction: Independent (Building own)
 status: Alive
 created: 2024-12-20
-image: "04_Resources/Assets/NPCs/prince_caspian.jpg"
+image: 04_Resources/Assets/NPCs/prince_caspian.jpg
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -23,7 +25,12 @@ initiative: 14
 current_hp: 38
 max_hp: 55
 ac: 15
+world: Both
+updated: '2025-08-11T13:08:49.848074+00:00'
 ---
+
+
+
 
 # Prince Caspian Duskwater
 *The Exiled Heir, The Forgotten Prince*
@@ -239,3 +246,14 @@ Prince Caspian Duskwater is [[02_Worldbuilding/People/Queen Seraphina Lumengarde
 - **Father's Crystal**: Contains soul fragment
 - **Void Stone**: Communication with patron
 - **Letters**: Evidence of Queen's crimes
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Envoy Blackwater Jr.]]
+- [[Knight]]
+- [[Oracle]]
+- [[Senator]]
+- [[The Sorrowmaster]]
+- [[Campaign_Relationship_Matrix]]

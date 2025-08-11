@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Master Smith Coral-Hammer
 
 ![Master Smith Coral-Hammer Portrait](04_Resources/Assets/Art/Places/Master_Smith_Coral-Hammer.png)

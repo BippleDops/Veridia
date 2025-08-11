@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Quest - The Missing Guards
 
 ![Quest - The Missing Guards Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Missing_Guards.png)

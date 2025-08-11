@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, gallery, art, frozen, waves, cultural, museum, preservation, crystalline]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Cultural Museum"
-parent_location: "Abyssos Prime"
-depth: "2,500 feet"
-danger_level: 1
-population: "~80 curators, artists, scholars, and visitors"
-government: "Royal Cultural Preservation Society"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.111100+00:00'
+created: '2025-08-11T13:08:50.111100+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Gallery of Frozen Waves
 *Where Motion Becomes Eternal Art*
@@ -178,3 +173,12 @@ Devices that allow observation of crystallized scenes from multiple time periods
 **Cultural Diplomacy**: Gallery connections facilitate relationships with artists, scholars, and cultural leaders.
 **Memory Preservation**: Characters can preserve important experiences for future reference or evidence.
 **Temporal Insights**: Some displays provide clues about future events or alternate timeline possibilities.
+
+
+## Connections
+
+- [[Crystal Festival Grounds]]
+- [[Lamplight Alley]]
+- [[Screaming Gardens]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Campaign_Relationship_Matrix]]

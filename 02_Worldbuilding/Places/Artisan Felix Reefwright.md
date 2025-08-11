@@ -1,11 +1,23 @@
 ---
-tags: [npc, artisan, coral-sculptor, artist]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- artisan
+- artist
+- complete
+- coral-sculptor
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.540836+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Artisan Felix Reefwright
 
@@ -16,7 +28,7 @@ Felix Reefwright is Aquabyssos's master coral sculptor, renowned for creating li
 
 ## Statistics
 **Medium humanoid (merfolk)**
-- **AC** 12, **HP** 45, **Speed** 30 ft, swim 40 ft
+- **AS** 12, **HP** 45, **Speed** 30 ft, swim 40 ft
 - **STR** 12 **DEX** 16 **CON** 14 **INT** 15 **WIS** 17 **CHA** 13
 - **Skills** Nature +8, Sleight of Hand +6, Perception +6
 - **Special** Coral Affinity, Growth Magic
@@ -123,3 +135,39 @@ Felix discovered his talent for coral cultivation as a young reef tender, notici
 
 ## DM Notes
 Felix serves as expert consultant for underwater construction, source of unique magical items, and connection to the natural world. His living artworks can develop in unexpected ways, providing ongoing story elements and evolving campaign locations.
+
+
+## Connections
+
+- [[Duke Cyrus Reefheart]]
+- [[Lumengarde]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

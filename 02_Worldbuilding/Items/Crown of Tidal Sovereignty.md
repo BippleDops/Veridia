@@ -1,17 +1,28 @@
 ---
-tags: [item, artifact, seven-shards-connected, crown, aquabyssos, political-artifact, legendary]
-status: "complete"
-world: "Aquabyssos"
-type: "artifact"
-item_type: "Crown of Rule (Seven Shards Enhanced)"
-rarity: "Legendary"
-requires_attunement: "Yes (by a creature of noble blood or appointed by divine authority)"
-affiliation: "[[02_Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)"
-current_location: "Multiple Pieces Scattered Across Aquabyssos"
+tags:
+- aquabyssos
+- artifact
+- complete
+- crown
+- item
+- legendary
+- political-artifact
+- seven-shards-connected
+status: complete
+world: Aquabyssos
+type: Item
+item_type: Crown of Rule (Seven Shards Enhanced)
+rarity: Legendary
+requires_attunement: Yes (by a creature of noble blood or appointed by divine authority)
+affiliation: '[[02_Worldbuilding/People/The Scattered Emperor]] (Currently Fragmented)'
+current_location: Multiple Pieces Scattered Across Aquabyssos
 danger_level: 4
-created_by: "Claude"
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:47.101402+00:00'
 ---
+
+
 
 # Crown of Tidal Sovereignty
 *Symbol of Unity, Now Broken Like the Realm It Once Ruled*
@@ -274,3 +285,7 @@ Each of the seven fragments retains part of the crown's original power while dev
 - Reunification could solve political instability or create new problems
 - Use fragment guardians to represent different governmental philosophies
 - Consider how fragment powers might corrupt or ennoble their wielders
+
+## Connections
+
+- [[Sister Morwyn]]

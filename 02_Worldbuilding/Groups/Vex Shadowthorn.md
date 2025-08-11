@@ -1,19 +1,28 @@
 ---
-tags: [faction, aethermoor, criminal-organization, shadow-magic, thieves-guild, smuggling]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Criminal Syndicate"
-alignment: "Chaotic Evil"
-headquarters: "[[The Thorned Sanctuary]] (Hidden)"
-leader: "[[Vex Shadowthorn the Kingpin]]"
-members: "~800 criminals, smugglers, and shadow-touched"
-influence: "Major (Underground)"
-purpose: "Control criminal activities and exploit shadow corruption"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- criminal-organization
+- faction
+- shadow-magic
+- smuggling
+- thieves-guild
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Criminal Syndicate
+alignment: Chaotic Evil
+headquarters: '[[The Thorned Sanctuary]] (Hidden)'
+leader: '[[Vex Shadowthorn the Kingpin]]'
+members: ~800 criminals, smugglers, and shadow-touched
+influence: Major (Underground)
+purpose: Control criminal activities and exploit shadow corruption
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:51.297484+00:00'
 ---
+
+
 
 # Vex Shadowthorn
 *The Shadow Syndicate, Masters of the Dark Trade, Lords of Corrupted Crystal*
@@ -642,3 +651,10 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 ---
 
 *"In a world of crystal light and floating dreams, we are the shadow that gives it meaning. We are the necessary darkness that makes the light precious."* - Vex Shadowthorn Syndicate Creed
+
+
+## Connections
+
+- [[The Crimson Hand]]
+- [[The Seven Shards]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,12 +1,21 @@
 ---
-tags: [lore, corruption, tracking, mechanics, campaign-system]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-system
+- complete
+- corruption
+- lore
+- mechanics
+- tracking
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.013306+00:00'
 ---
+
+
 
 # Corruption Tracking
 
@@ -38,3 +47,10 @@ Ongoing campaign system requiring constant monitoring.
 
 ## Campaign Use
 Provides mechanical framework for corruption as ongoing threat and character development element.
+
+
+## Connections
+
+- [[Fear Farms]]
+- [[Silver Mask]]
+- [[The Deep Mother]]

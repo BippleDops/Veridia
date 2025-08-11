@@ -1,18 +1,27 @@
 ---
-tags: [environmental-hazard, aquabyssos, memory-phenomena, temporal-distortion, dangerous-region]
-status: "complete"
-world: "Aquabyssos"
-type: "environmental_hazard"
-hazard_type: "Memory/Temporal Anomaly"
+tags:
+- aquabyssos
+- complete
+- dangerous-region
+- environmental-hazard
+- environmental_hazard
+- memory-phenomena
+- temporal-distortion
+status: complete
+world: Aquabyssos
+type: Location
+hazard_type: Memory/Temporal Anomaly
 danger_level: 5
-affected_areas: "Deep Ocean Regions with High Memory Density"
-frequency: "Seasonal (Peak during Remembrance Tides)"
-duration: "3-10 days per storm event"
+affected_areas: Deep Ocean Regions with High Memory Density
+frequency: Seasonal (Peak during Remembrance Tides)
+duration: 3-10 days per storm event
 discovery_date: 2985
-research_status: "Ongoing Investigation"
-created_by: "Claude"
+research_status: Ongoing Investigation
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.101282+00:00'
 ---
+
 
 # The Memory Storm Fields
 *Where Past and Present Collide in Torrents of Recollection*

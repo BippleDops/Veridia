@@ -1,12 +1,22 @@
 ---
-tags: [lore, guide, transition, travel, campaign-mechanics, surface-to-underwater]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-mechanics
+- complete
+- guide
+- lore
+- surface-to-underwater
+- transition
+- travel
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.227160+00:00'
 ---
+
+
 
 # Aethermoor to Aquabyssos Transition Guide
 
@@ -124,3 +134,13 @@ The transition process actually creates temporary psychic links between individu
 ## Campaign Use
 
 Use transitions as opportunities for character development, world-building exposition, and creating dramatic tension. The adaptation process provides natural breaks for learning about new cultures and environments. Consider transition challenges as both obstacles and opportunities for player creativity and problem-solving.
+
+
+## Connections
+
+- [[Citizens of Meridian]]
+- [[Crimson Hand Strike Team]]
+- [[Crystal Festival Grounds]]
+- [[Dock Worker Tomás]]
+- [[Lamplight Alley]]
+- [[Session 0 - Aquabyssos]]

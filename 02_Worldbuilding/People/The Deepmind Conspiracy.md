@@ -1,15 +1,24 @@
 ---
-tags: [lore, conspiracy, mind, deep, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- deep
+- lore
+- mind
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Conspiracy
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.751266+00:00'
 ---
+
+
+
 
 # The Deepmind Conspiracy
 
@@ -80,3 +89,40 @@ The conspiracy theory has increased paranoia and social tension. Mental protecti
 
 ## DM Notes
 The Deepmind Conspiracy works whether true or false. If real, it provides shadowy antagonists operating through mental manipulation. If false, it creates social paranoia and investigative red herrings while exploring themes of trust and evidence.
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Prophet Nerida Voidgazer]]
+- [[New Tethys]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

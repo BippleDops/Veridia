@@ -1,20 +1,38 @@
 ---
-tags: [location, palace, maelstrom, storm, aquabyssos, royal-residence, elemental-magic, weather-control, tempest-throne]
-status: "complete"
-world: "Aquabyssos"
-type: "Royal Palace"
-category: "Government Seat/Magical Fortress"
-depth: "Variable (0-4000 feet)"
-difficulty: "Levels 10-18"
-ruler: "[[Storm Empress Tempestas Maelstrom]]"
-government: "[[The Tempest Sovereignty]]"
-danger_level: "Extreme"
-population: "800+ (court, staff, guards, prisoners)"
-age: "300 years (built post-Drowning)"
+tags:
+- aquabyssos
+- complete
+- elemental-magic
+- location
+- maelstrom
+- palace
+- royal-palace
+- royal-residence
+- storm
+- tempest-throne
+- weather-control
+status: complete
+world: Aquabyssos
+type: Location
+category: Government Seat/Magical Fortress
+depth: Variable (0-4000 feet)
+difficulty: Levels 10-18
+ruler: '[[Storm Empress Tempestas Maelstrom]]'
+government: '[[The Tempest Sovereignty]]'
+danger_level: Extreme
+population: 800+ (court, staff, guards, prisoners)
+age: 300 years (built post-Drowning)
 created: 2025-08-10
-updated: 2025-08-10
-related_entities: ["[[Storm Empress Tempestas Maelstrom]]", "[[The Tempest Sovereignty]]", "[[Stormcaller Navy]]", "[[The Maelstrom Court]]"]
+updated: '2025-08-11T13:08:50.147383+00:00'
+related_entities:
+- '[[Storm Empress Tempestas Maelstrom]]'
+- '[[The Tempest Sovereignty]]'
+- '[[Stormcaller Navy]]'
+- '[[The Maelstrom Court]]'
 ---
+
+
+
 
 # Maelstrom Palace
 *The Eye of the Eternal Storm*
@@ -769,3 +787,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 *"In the eye of eternal storm, we have built not just a palace, but a promise - that mortal will can find peace within nature's fury, and that even chaos itself can be made to serve the cause of civilization."*  
 — [[Storm Empress Tempestas Maelstrom]], First Address from the Tempest Throne
+
+## Connections
+
+- [[Campaign_Quick_Reference_Sheets]]

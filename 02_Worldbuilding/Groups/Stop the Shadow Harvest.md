@@ -1,39 +1,44 @@
 ---
 tags:
-  - Category/Group
-  - Aquabyssos/Resistance
-  - Aquabyssos/Shadow
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "expansion"
+- aquabyssos
+- aquabyssos/resistance
+- aquabyssos/shadow
+- category/group
+- complete
+- faction
+status: complete
+world: Aquabyssos
+type: Group
+created_by: expansion
 created: 2025-08-11
-MyContainer: "[[New Thalassopolis|New Thalassopolis]]"
+MyContainer: '[[New Thalassopolis|New Thalassopolis]]'
 MyCategory: Anti-Shadow Resistance Movement
 obsidianUIMode: preview
-leader: "The Harvest Vigilant Council"
+leader: The Harvest Vigilant Council
 officers:
-  - "Captain Elara Shadowshard"
-  - "Brother Matthias the Amber Bearer"
-  - "Scholar Vivienne the Chronicler"
+- Captain Elara Shadowshard
+- Brother Matthias the Amber Bearer
+- Scholar Vivienne the Chronicler
 members:
-  - "Shadow Harvest Survivors"
-  - "Memory Protection Advocates"
-  - "Anti-Surgery Activists"
+- Shadow Harvest Survivors
+- Memory Protection Advocates
+- Anti-Surgery Activists
 initiates:
-  - "New Resistance Recruits"
-  - "Memory Security Trainees"
-  - "Shadow Detection Students"
-faction: "Purist Coalition"
-primary_contact: "Captain Elara Shadowshard"
+- New Resistance Recruits
+- Memory Security Trainees
+- Shadow Detection Students
+faction: Purist Coalition
+primary_contact: Captain Elara Shadowshard
 benefits:
-  - standing: 1
-    reward: "Shadow detection training and memory protection techniques"
-  - standing: 2
-    reward: "Advanced anti-shadow technology and resistance network access"
-  - standing: 3
-    reward: "Council membership and covert operations authority"
+- standing: 1
+  reward: Shadow detection training and memory protection techniques
+- standing: 2
+  reward: Advanced anti-shadow technology and resistance network access
+- standing: 3
+  reward: Council membership and covert operations authority
+updated: '2025-08-11T13:08:51.286784+00:00'
 ---
+
 
 # Stop the Shadow Harvest
 

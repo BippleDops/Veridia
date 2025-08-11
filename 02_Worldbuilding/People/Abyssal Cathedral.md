@@ -1,24 +1,33 @@
 ---
-tags: [npc, architect, biomancer, aquabyssos, corrupted, living-structures, abyssal]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Living Architect"
-affiliation: "[[The Biomancers]] - Master Shaper"
-age: "347"
-race: "Aberrant Merfolk"
-class: "Aberrant Mind Sorcerer/Conjuration Wizard"
+tags:
+- abyssal
+- aquabyssos
+- architect
+- biomancer
+- complete
+- corrupted
+- living-structures
+- npc
+status: complete
+world: Aquabyssos
+type: NPC
+role: Living Architect
+affiliation: '[[The Biomancers]] - Master Shaper'
+age: '347'
+race: Aberrant Merfolk
+class: Aberrant Mind Sorcerer/Conjuration Wizard
 level: 16
-alignment: "Chaotic Neutral"
-location: "[[The Ossuary Gardens]] - Living Architecture Wing"
-created_by: "auto-stub"
+alignment: Chaotic Neutral
+location: '[[The Ossuary Gardens]] - Living Architecture Wing'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/People
+updated: '2025-08-11T13:08:49.661988+00:00'
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
 ---
+
+
 
 # Abyssal Cathedral
 *The Living Architect, Master of Flesh Stone, Builder of Dreams Made Manifest*
@@ -206,7 +215,7 @@ Cathedral prefers to avoid violence, but when threatened:
 
 **Architectural Strike.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) bludgeoning damage plus 7 (2d6) force damage. Cathedral's limbs temporarily harden into construction tools for the attack.
 
-**Living Construction (1/Day).** Cathedral rapidly grows a 20-foot square structure around themselves and allies within 30 feet. The structure has AC 17, 100 hit points, and provides total cover. It includes firing ports and can be dismissed as a bonus action.
+**Living Construction (1/Day).** Cathedral rapidly grows a 20-foot square structure around themselves and allies within 30 feet. The structure has AS 17, 100 hit points, and provides total cover. It includes firing ports and can be dismissed as a bonus action.
 
 **Structural Collapse (Recharge 5-6).** Cathedral destabilizes a 30-foot cube of structure within 120 feet. All creatures in the area must make a DC 20 Dexterity saving throw, taking 35 (10d6) bludgeoning damage on failure (half on success). The area becomes difficult terrain.
 

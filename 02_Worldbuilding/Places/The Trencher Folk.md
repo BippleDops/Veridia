@@ -1,15 +1,24 @@
 ---
-tags: [people, trencher_folk, community, depths, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "people"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- community
+- complete
+- depths
+- people
+- trencher_folk
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: Community
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.316063+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Trencher Folk
 
@@ -157,3 +166,9 @@ Use the Trencher Folk to:
 - Create opportunities for cultural roleplay and exploration of alternative ways of life
 - Generate plots involving resource management and environmental challenges
 - Represent marginalized communities with valuable but overlooked perspectives
+
+
+## Connections
+
+- [[The Bathyal Palace]]
+- [[The Cerulean Trench]]

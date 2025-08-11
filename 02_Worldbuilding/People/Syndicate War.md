@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Syndicate War
 
 ![Syndicate War Portrait](04_Resources/Assets/Art/NPCs/Syndicate_War.png)

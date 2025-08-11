@@ -1,24 +1,36 @@
 ---
-tags: [quest, cross-realm, memory, shadow-crystal, exploration, diplomatic]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "quest"
-quest_type: "Cross-Realm Diplomatic Mission"
-difficulty: "Epic (Levels 10-20)"
-patron: "[[The Liminal Trading Company]] or [[The Convergence Seekers]]"
-location: "[[Memory Meadows]] and [[02_Worldbuilding/Places/Crystalhaven]]"
-created_by: "auto-stub"
+tags:
+- both-aethermoor-&-aquabyssos
+- complete
+- cross-realm
+- diplomatic
+- exploration
+- memory
+- quest
+- shadow-crystal
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Lore
+quest_type: Cross-Realm Diplomatic Mission
+difficulty: Epic (Levels 10-20)
+patron: '[[The Liminal Trading Company]] or [[The Convergence Seekers]]'
+location: '[[Memory Meadows]] and [[02_Worldbuilding/Places/Crystalhaven]]'
+created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-10
-quest_length: "Epic Campaign Arc (35-45 sessions)"
-sessions_per_act: "5-12 sessions each"
+updated: '2025-08-11T13:08:50.093227+00:00'
+quest_length: Epic Campaign Arc (35-45 sessions)
+sessions_per_act: 5-12 sessions each
 total_acts: 5
 legendary_items: 4
 epic_encounters: 16
-world_consequences: "Consciousness-altering"
+world_consequences: Consciousness-altering
 prerequisite_level: 10
-psychic_content_warning: "Contains themes of identity alteration and consciousness merging"
+psychic_content_warning: Contains themes of identity alteration and consciousness
+  merging
 ---
+
+
+
 
 # Quest - The Memory Bridge
 *Connecting Minds Across Realms*
@@ -370,3 +382,9 @@ A groundbreaking experiment to create a "memory bridge" between [[02_Worldbuildi
 **Personal Focus**: Center on individual relationships and identity questions
 **Action Focus**: Increase combat encounters and physical challenges
 **Exploration Focus**: Add more locations and cross-realm investigation opportunities
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Vault Breach]]
+- [[The Sunken Library of Thalassius]]

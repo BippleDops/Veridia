@@ -1,21 +1,30 @@
 ---
-tags: [location, aquabyssos, political, secure-area, parliament, luxury]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Private Quarters"
-affiliation: "Parliament of Echoes"
-security_level: "Maximum"
-size: "Suite Complex (5,000 sq ft)"
-access: "Restricted - Senate Members Only"
-created_by: "system"
+tags:
+- aquabyssos
+- complete
+- location
+- luxury
+- parliament
+- political
+- secure-area
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Private Quarters
+affiliation: Parliament of Echoes
+security_level: Maximum
+size: Suite Complex (5,000 sq ft)
+access: Restricted - Senate Members Only
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:50.776213+00:00'
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # Senator's Private Chambers
 
@@ -234,3 +243,4 @@ Summons immediate military response when activated, single use.
 - Security should be nearly impenetrable without inside help
 - Contains numerous plot hooks and secrets for ongoing campaigns
 - Can serve as safe house or dangerous trap depending on senator's alignment
+- [[Discover Marina's Truth]]

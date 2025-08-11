@@ -1,16 +1,24 @@
 ---
-tags: [complete, crystals, magical-research, environmental, discovery, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-expansion"
+tags:
+- aethermoor
+- complete
+- crystals
+- discovery
+- environmental
+- magical-research
+- quest
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-expansion
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.094678+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Aether Crystals
 
@@ -433,3 +441,17 @@ The team can communicate with the party and share their experiences:
 
 > [!danger] DM Secret
 > The [[Archcrystal]] is not the only awakened crystal consciousness—it's part of a network of similar entities across multiple realms that are beginning to reconnect after millennia of dormancy. The party's resolution of this crisis will determine whether these entities view organic life as partners, subjects, or obstacles. Their choice here will influence how other awakening crystal consciousnesses react to future contact with organic civilizations.
+
+## Connections
+
+- [[Shadow Surgeons Collective]]
+- [[Aetheron]]
+- [[Azure Citadel]]
+- [[Crystal Gardens]]
+- [[The Crystalline Foundry]]
+- [[The Drowned Embassy]]
+- [[Bandit Scouts]]
+- [[Crystalline Depths]]
+- [[Smuggler's Gambit]]
+- [[The Green Death]]
+- [[The Oracle of the Sundered Peaks]]

@@ -1,19 +1,33 @@
 ---
-tags: [location, headquarters, criminal, coral-formation, aquabyssos, stronghold, underwater-fortress]
-status: "complete"
-world: "Aquabyssos"
-type: "Criminal Headquarters"
-category: "Fortress/Stronghold"
-depth: "1800-2200 feet"
-difficulty: "Levels 8-15"
-controlled_by: "[[02_Worldbuilding/Groups/Coral Throne Syndicate]]"
-ruler: "[[Coral Empress Scarletina]]"
-danger_level: "Very High"
-population: "500+ (guards, staff, prisoners)"
+tags:
+- aquabyssos
+- complete
+- coral-formation
+- criminal
+- criminal-headquarters
+- headquarters
+- location
+- stronghold
+- underwater-fortress
+status: complete
+world: Aquabyssos
+type: Location
+category: Fortress/Stronghold
+depth: 1800-2200 feet
+difficulty: Levels 8-15
+controlled_by: '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
+ruler: '[[Coral Empress Scarletina]]'
+danger_level: Very High
+population: 500+ (guards, staff, prisoners)
 created: 2025-08-10
-updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Groups/Coral Throne Syndicate]]", "[[Coral Empress Scarletina]]", "[[02_Worldbuilding/Places/The Crimson Reef]]"]
+updated: '2025-08-11T13:08:50.933344+00:00'
+related_entities:
+- '[[02_Worldbuilding/Groups/Coral Throne Syndicate]]'
+- '[[Coral Empress Scarletina]]'
+- '[[02_Worldbuilding/Places/The Crimson Reef]]'
 ---
+
+
 
 # Coral Throne Syndicate HQ
 *The Crimson Fortress - Where Blood Coral Reigns Supreme*

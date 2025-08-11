@@ -1,22 +1,17 @@
 ---
-tags: [location, aethermoor, customs, trade, government, harbor, inspection, law]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Government Administrative Building"
-parent_location: "Port Meridian Harbor District"
-elevation: "Sea level"
-danger_level: 2
-population: "~200 customs officers, clerks, and support staff"
-government: "Royal Customs Authority under Crown jurisdiction"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.830264+00:00'
+created: '2025-08-11T13:08:50.830264+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Harbor District Customs House
 *Gateway of Law and Commerce*
@@ -605,3 +600,8 @@ The Harbor District Customs House stands as the imposing gatekeeping fortress of
 - [[Customs Authority]]
 - [[Anti-Smuggling Operations]]
 - [[International Trade Agreements]]
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

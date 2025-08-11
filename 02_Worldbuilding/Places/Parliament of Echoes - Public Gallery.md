@@ -1,31 +1,33 @@
 ---
 tags:
-  - location
-  - parliament
-  - government
-  - public_space
-  - aquabyssos
-  - political
-  - gallery
-  - observation
-  - democracy
-  - civic
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Public Gallery"
-parent_location: "Parliament of Echoes"
+- aquabyssos
+- civic
+- complete
+- democracy
+- gallery
+- government
+- location
+- observation
+- parliament
+- political
+- public_space
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Public Gallery
+parent_location: Parliament of Echoes
 danger_level: 1
-population: "200-800 visitors daily"
-government: "Parliamentary oversight and citizen access"
-created_by: "auto-stub"
+population: 200-800 visitors daily
+government: Parliamentary oversight and citizen access
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.159815+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Parliament of Echoes - Public Gallery
 
@@ -382,3 +384,8 @@ Some Gallery operations serve hidden political purposes:
 ---
 
 *The Parliament of Echoes Public Gallery stands as both symbol and instrument of democratic progress, where the ancient principle that government serves at the pleasure of the people finds its most visible and vital expression in the depths of Aquabyssos.*
+
+
+## Connections
+
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

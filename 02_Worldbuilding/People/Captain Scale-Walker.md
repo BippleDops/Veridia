@@ -1,25 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.787764+00:00'
+created: '2025-08-11T13:08:49.787764+00:00'
+status: draft
 tags:
-  - npc
-  - captain
-  - lizardfolk
-  - navigator
-  - neutral
+- both
+- draft
 type: NPC
-race: Lizardfolk
-class: Ranger/Navigator
-level: 12
-alignment: Neutral Good
-location: [[02_Worldbuilding/Places/The Harbor Depths]]
-faction: [[02_Worldbuilding/Groups/Independent Smugglers]]
-status: Active
-created: 2025-08-09
-image: "04_Resources/Assets/NPCs/captain_scale_walker.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # Captain Scale-Walker
 *The Deep Navigator, Keeper of Ancient Routes*

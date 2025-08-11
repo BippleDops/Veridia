@@ -1,15 +1,25 @@
 ---
-tags: [lore, voices, below, abyssal, mystery, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- abyssal
+- aquabyssos
+- below
+- complete
+- lore
+- mystery
+- voices
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Mystery
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.299381+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Voices from Below
 
@@ -158,3 +168,8 @@ Use the Voices from Below to:
 - Introduce moral complexity around the reliability of supernatural guidance
 - Generate plot hooks involving ancient mysteries and abyssal exploration
 - Explore themes of communication, consciousness, and the unknown
+
+
+## Connections
+
+- [[The Cerulean Trench]]

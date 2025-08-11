@@ -1,9 +1,22 @@
 ---
-tags: [gm-resource, npcs, quick-reference, roleplay]
-type: "npc-guide"
-campaign: "Aquabyssos"
+tags:
+- both
+- draft
+- gm-resource
+- npc-guide
+- npcs
+- quick-reference
+- roleplay
+type: Lore
+campaign: Aquabyssos
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.030347+00:00'
+status: draft
 ---
+
+
+
 
 # NPC Quick Reference Guide
 ## Voices, Mannerisms & Instant Personality
@@ -344,3 +357,7 @@ Roll 3d6:
 *Remember: Every NPC in Aquabyssos is drowning in their own way. Some accept it, some fight it, some profit from it. Let that inform how you play them.*
 
 **The key to memorable NPCs: One strong voice, one obvious mannerism, one clear want.**
+
+## Connections
+
+- [[Complete_Faction_Warfare_System]]

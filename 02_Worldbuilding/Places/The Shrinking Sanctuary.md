@@ -1,22 +1,40 @@
 ---
-tags: [location, aquabyssos, sanctuary, dimensional-anomaly, refuge, magical-space, shrinking, community, crisis]
-status: "complete"
-world: "Aquabyssos"
-type: "Dimensional Refuge"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- community
+- complete
+- crisis
+- dimensional-anomaly
+- dimensional-refuge
+- location
+- magical-space
+- refuge
+- sanctuary
+- shrinking
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Dimensional Pocket"
-parent_location: "The Wandering Depths"
-depth: "Variable (exists outside normal depth)"
+updated: '2025-08-11T13:08:50.287203+00:00'
+location_type: Dimensional Pocket
+parent_location: The Wandering Depths
+depth: Variable (exists outside normal depth)
 danger_level: 5
-population: "~300 refugees and guardians"
-government: "Council of Sanctuary Keepers"
-shrinking_rate: "5 cubic feet per hour"
-original_size: "10 square miles"
-current_size: "3 square miles"
-related_entities: ["[[Free Current]]", "[[Parliament of Echoes]]", "[[The Memory Meadows]]", "[[Dimensional Research Institute]]"]
+population: ~300 refugees and guardians
+government: Council of Sanctuary Keepers
+shrinking_rate: 5 cubic feet per hour
+original_size: 10 square miles
+current_size: 3 square miles
+related_entities:
+- '[[Free Current]]'
+- '[[Parliament of Echoes]]'
+- '[[The Memory Meadows]]'
+- '[[Dimensional Research Institute]]'
 ---
+
+
+
 
 # The Shrinking Sanctuary
 *A Haven Running Out of Time*
@@ -434,3 +452,7 @@ The Sanctuary represents the ultimate expression of [[Aquabyssos]]' post-Catastr
 - [[Community Resource Sharing]]
 - [[Sanctuary Emergency Systems]]
 - [[Faith-Stability Magical Theory]]
+
+## Connections
+
+- [[Secret Vault Beneath Throne]]

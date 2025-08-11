@@ -1,17 +1,33 @@
 ---
-tags: [investigation, evidence-analysis, conspiracy-detection, forensic-methodology, hidden-knowledge, secret-investigation, aquabyssos-aethermoor, investigation-procedures, truth-seeking, methodology]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-system_type: "Investigation Methodology"
-scope: "Multiversal - applicable to investigations across both worlds"
+tags:
+- aquabyssos-aethermoor
+- both-worlds
+- complete
+- conspiracy-detection
+- evidence-analysis
+- forensic-methodology
+- hidden-knowledge
+- investigation
+- investigation-procedures
+- lore
+- methodology
+- secret-investigation
+- truth-seeking
+status: complete
+world: Both Worlds
+type: Lore
+system_type: Investigation Methodology
+scope: Multiversal - applicable to investigations across both worlds
 complexity_level: 9
-application_period: "Developed over 200 years, refined for conspiracy investigation"
-primary_users: "Independent Investigators, Truth Seekers, Conspiracy Researchers"
-created_by: "auto-stub"
+application_period: Developed over 200 years, refined for conspiracy investigation
+primary_users: Independent Investigators, Truth Seekers, Conspiracy Researchers
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.019024+00:00'
 ---
+
+
+
 
 # Evidence Chain Analysis
 *The Systematic Methodology for Uncovering Hidden Conspiracies and Secret Knowledge*
@@ -698,3 +714,14 @@ Evidence Chain Analysis techniques have been retroactively applied to investigat
 *"The truth is never lost, only hidden. Every conspiracy, no matter how powerful or sophisticated, leaves traces that can be followed by those with the knowledge and determination to see them. Evidence Chain Analysis is not just a methodology - it is a commitment to uncovering truth regardless of the personal cost, and a recognition that the price of ignorance is always higher than the price of knowledge."*
 
 *- [[Master Investigator Lysander Truthweaver]], Final Lecture to Advanced Students, Academy of Investigative Arts*
+
+
+## Connections
+
+- [[Evidence Types Guide]]
+- [[Fear Farms]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]

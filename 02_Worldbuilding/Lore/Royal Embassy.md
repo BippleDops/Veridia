@@ -1,12 +1,23 @@
 ---
-tags: [politics, diplomacy, architecture, government, embassies]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- architecture
+- complete
+- diplomacy
+- embassies
+- government
+- lore
+- politics
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:48.408078+00:00'
 ---
+
+
 
 # Royal Embassy
 
@@ -280,3 +291,9 @@ Military planners are pushing for significant security upgrades, including autom
 The success of the **Academy of International Relations** has led to proposals for establishing branch campuses in allied realms. This expansion would create a network of diplomatic training centers but would require substantial resources and international cooperation.
 
 The Royal Embassy stands as both a testament to Aethermoor's diplomatic achievements and a symbol of the kingdom's commitment to peaceful coexistence with all realms. As international relations grow more complex and the number of known civilizations expands, the embassy continues to evolve, adapting its ancient purposes to meet modern challenges while maintaining its core mission of fostering understanding between diverse peoples and cultures.
+
+
+## Connections
+
+- [[Reputation System]]
+- [[Aethermoor - Session 03 Council of Shadows]]

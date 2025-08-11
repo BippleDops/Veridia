@@ -1,23 +1,31 @@
 ---
-tags: [faction, medical, aquabyssos, shadow-manipulation, conspiracy, underground]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Medical/Scientific Organization"
-alignment: "Neutral Evil"
-headquarters: "[[The Umbral Infirmary]]"
-leader: "[[Dr. Penumbra Voidheart]]"
-members: "~300 surgeons, technicians, and support staff"
-influence: "City-wide (Aquabyssos) with growing network"
-wealth: "Substantial (shadow trade funded)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- conspiracy
+- faction
+- medical
+- shadow-manipulation
+- underground
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Medical/Scientific Organization
+alignment: Neutral Evil
+headquarters: '[[The Umbral Infirmary]]'
+leader: '[[Dr. Penumbra Voidheart]]'
+members: ~300 surgeons, technicians, and support staff
+influence: City-wide (Aquabyssos) with growing network
+wealth: Substantial (shadow trade funded)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.486606+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Shadow Surgery Centers
 *The Umbral Medical Network, Practitioners of Darkness, The Shadow Healers*
@@ -429,3 +437,8 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 ---
 
 *"We do not merely treat the body - we heal the very essence of being. Shadow medicine achieves what conventional practice cannot even dream of."* - Dr. Penumbra Voidheart
+
+
+## Connections
+
+- [[Party Shadows]]

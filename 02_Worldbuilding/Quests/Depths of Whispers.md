@@ -1,16 +1,25 @@
 ---
-tags: [quest, underwater, cosmic-horror, aquabyssos, whispers, deep-sea, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- cosmic-horror
+- deep-sea
+- quest
+- underwater
+- whispers
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.022237+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Depths of Whispers
 
@@ -152,7 +161,7 @@ The party encounters **[[The Deep Resistance]]**, a coalition of nobles, merchan
 
 **[[Captain Depths-Walker Marina]]** (CR 12)
 *Medium humanoid (triton), lawful good*
-- **AC** 18 (Plate Armor)
+- **AS** 18 (Plate Armor)
 - **HP** 140 (15d8 + 75)
 - **Speed** 30 ft., swim 60 ft.
 - **STR** 20 (+5), **DEX** 14 (+2), **CON** 20 (+5), **INT** 16 (+3), **WIS** 18 (+4), **CHA** 16 (+3)
@@ -223,7 +232,7 @@ The chamber is protected by **[[The Whisper Keepers]]**, beings that were once r
 
 **Whisper Keeper** (CR 13)
 *Medium humanoid (transformed), chaotic evil*
-- **AC** 16 (Natural Armor)
+- **AS** 16 (Natural Armor)
 - **HP** 180 (20d8 + 100)
 - **Speed** 30 ft., swim 80 ft., hover 40 ft.
 - **STR** 16 (+3), **DEX** 18 (+4), **CON** 20 (+5), **INT** 24 (+7), **WIS** 12 (+1), **CHA** 22 (+6)
@@ -309,7 +318,7 @@ The party faces multiple possible approaches to resolving the crisis:
 - High chance of casualties due to exposure to concentrated Far Realm energy
 
 **The Whisper Core** (Artifact/Location)
-- **AC** 25, **HP** 500 (immunity to most damage types)
+- **AS** 25, **HP** 500 (immunity to most damage types)
 - **Whisper Aura**: All creatures within 100 feet make DC 20 Wisdom saves each round
 - **Reality Distortion**: Space and time function unpredictably within 200 feet
 - **Dimensional Gateway**: Can summon reinforcements from the Far Realm
@@ -465,7 +474,7 @@ The resolution of the whisper crisis fundamentally alters [[Aquabyssos]]:
 
 **Whisper Ward Armor** (Legendary)
 *Requires attunement*
-- AC 18 + Dex modifier (max 2)
+- AS 18 + Dex modifier (max 2)
 - Immunity to psychic damage from Far Realm sources
 - Resistance to all damage while underwater
 - Advantage on saves against madness and dimensional effects
@@ -530,3 +539,9 @@ Characters from this adventure can appear in future campaigns:
 - Discovery of other ancient threats awakened by the dimensional disruption
 
 **Depths of Whispers** represents the ultimate underwater cosmic horror experience, combining the claustrophobic terror of deep-sea exploration with the mind-bending horror of Far Realm influence. Success requires not just combat prowess and magical power, but the wisdom to navigate complex political situations and the courage to face threats that challenge the very nature of reality itself.
+
+
+## Connections
+
+- [[The Whispering Expanse]]
+- [[The_Second_Rising]]

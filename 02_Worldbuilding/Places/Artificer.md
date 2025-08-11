@@ -1,11 +1,21 @@
 ---
-tags: [npc, artificer, inventor, magical-technology]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- artificer
+- complete
+- inventor
+- magical-technology
+- npc
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.940281+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Artificer
 
@@ -128,3 +138,33 @@ Her innovations have revolutionized several industries, though her tendency to p
 
 ## DM Notes
 Cogwheel works well as a source for magical items, technical expertise, and plot hooks involving magical technology. Her workshop can serve as a recurring location, and her projects can drive adventure storylines or provide campaign equipment.
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

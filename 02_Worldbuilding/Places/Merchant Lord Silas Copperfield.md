@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Merchant Lord Silas Copperfield
 
 ![Merchant Lord Silas Copperfield Portrait](04_Resources/Assets/Art/Places/Merchant_Lord_Silas_Copperfield.png)

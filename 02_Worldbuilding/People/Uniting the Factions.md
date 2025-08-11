@@ -15,6 +15,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # Uniting the Factions
 
 ![Uniting the Factions Portrait](04_Resources/Assets/Art/NPCs/Uniting_the_Factions.png)

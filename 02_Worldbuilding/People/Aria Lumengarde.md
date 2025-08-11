@@ -1,27 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.840439+00:00'
+created: '2025-08-11T13:08:49.840439+00:00'
+status: draft
 tags:
-  - npc
-  - nobility
-  - royal-family
-  - bard
-  - aethermoor
-  - court-intrigue
-  - crystal-touched
+- both
+- draft
 type: NPC
-race: Half-Elf
-class: Bard (College of Glamour)
-level: 9
-alignment: Chaotic Good
-location: "[[02_Worldbuilding/Places/Crystal Spires]]"
-faction: "[[02_Worldbuilding/Groups/The Crown Authority]]"
-status: Alive (Secretly rebellious)
-created: 2025-08-09
-world: "Aethermoor"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
 ---
+
+
+
 
 # Aria Lumengarde
 *The Singing Crystal, Voice of the Royal Court, The Secret Revolutionary*
@@ -223,3 +212,19 @@ Aria's position grants her significant soft power:
 - [[02_Worldbuilding/Quests/Quest - The Noble Conspiracy]] - Exposing corrupt nobility
 - [[02_Worldbuilding/Quests/Quest - The Crystal Crown]] - Royal succession crisis
 - [[02_Worldbuilding/Quests/Quest - Songs of Revolution]] - Cultural warfare through art
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[The Seven Shards]]
+- [[Captain Thaddeus Blackwater]]
+- [[Gareth Goldenheart, The Chosen Vessel]]
+- [[Knight]]
+- [[Lord Aurelius Goldwave]]
+- [[Prince Caspian Duskwater]]
+- [[Queen Seraphina Lumengarde]]
+- [[The Azure Prophet Nerissa]]
+- [[Quest - The Pretender]]
+- [[The Verdant Reach]]
+- [[Quest - The Seventh Shard]]

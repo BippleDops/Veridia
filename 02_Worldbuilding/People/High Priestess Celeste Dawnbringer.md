@@ -1,29 +1,18 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.985943+00:00'
+created: '2025-08-11T13:08:49.985943+00:00'
+status: draft
 tags:
-  - npc
-  - cleric
-  - priest
-  - healer
-  - aethermoor
-  - light_domain
-  - royal_advisor
-  - secret_keeper
-  - religious_leader
+- both
+- draft
 type: NPC
-race: Human (Crystal-touched)
-class: Light Cleric/Divine Soul Sorcerer
-level: 16
-alignment: Lawful Good (Conflicted)
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "[[The Luminous Dawn Church]]"
-status: complete
-created: 2025-08-09
-world: "Aethermoor"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+cr: '15'
 ---
+
+
+
+
 
 # High Priestess Celeste Dawnbringer
 *The Healing Light, She Who Brings Dawn to Darkness, Keeper of Sacred Flames*
@@ -436,3 +425,23 @@ Wonders if her treatments actually heal the queen or simply postpone inevitable 
 - [[Quest - The Divine Test]] - Proving her methods don't violate divine will
 - [[Quest - The Successor's Burden]] - Training replacement who can handle the truth
 - [[Quest - The Corruption Cure]] - Developing permanent solution to crystal corruption
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[The Crystal Throne]]
+- [[Discover Marina's Truth]]
+- [[Captain Lyanna Brightshield]]
+- [[Knight]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Marcus "The Shade" Blackwood]]
+- [[Queen Seraphina Lumengarde]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Crystalhaven]]
+- [[Port Meridian]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
+- [[Campaign_Relationship_Matrix]]

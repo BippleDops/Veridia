@@ -1,21 +1,16 @@
 ---
-tags: [npc, barnacle, deep-dweller, aquabyssos, aberrant, symbiotic]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Aberrant Merfolk"
-class: "Warlock/Ranger"
-level: 8
-faction: "The Biomancers"
-location: "Symbiosis Depths"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.983921+00:00'
+created: '2025-08-11T13:08:49.983921+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Crust Deepmeld, the Barnacle
 
@@ -154,3 +149,10 @@ Crust dwells in the Symbiosis Depths, an area of the deep ocean where the bounda
 - "Our symbiosis teaches us that individual strength comes from community..."
 
 **Mannerisms**: Constantly tending to his symbiotic partners—adjusting barnacles, feeding anemones with scraps, communicating through touch with various organisms. His bioluminescent patches pulse with his emotions. He collects small specimens compulsively, even during conversations.
+
+
+## Connections
+
+- [[The_Crimson_Pearl]]
+- [[Pearl_Harbor_City]]
+- [[The_Second_Rising]]

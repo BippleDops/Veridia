@@ -1,20 +1,16 @@
 ---
-tags: [faction, organization, military, aethermoor, crystal-touched, guardians]
-status: "complete"
-world: "Aethermoor"
-type: "organization"
-created_by: "system"
-created: 2025-08-08
-updated: 2025-08-10
-alignment: "Lawful Good"
-size: "500 active members"
-headquarters: "The Crystalline Citadel, Crystal Spires"
-leader: "High Warden Seraphiel Dawnforge"
-  - Category/Groups
-MyContainer: None
-MyCategory: Organization
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.336759+00:00'
+created: '2025-08-11T13:08:51.336759+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # Crystal Wardens
 
@@ -230,3 +226,68 @@ Aspirants undergo five years of preparation:
 - **Year 5**: Individual specialization and pre-ritual preparation
 
 Only 1 in 10 aspirants complete training, and of those, 30% don't survive the bonding ritual.
+
+## Connections
+
+- [[Consortium Security Constructs]]
+- [[Establish the New Order]]
+- [[Merchant Princes]]
+- [[Party Shadows]]
+- [[Purist Coalition]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Artisans' Collective of Master Crafters]]
+- [[The Carrion Court]]
+- [[The Crystal Throne]]
+- [[The Forsaken Consortium Collective]]
+- [[The Leviathan Cult]]
+- [[The Seekers' Guild]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[The Whisper Syndicate]]
+- [[Aether Crystals]]
+- [[The Resonance Forge Hammer]]
+- [[Aetheron]]
+- [[Discover Marina's Truth]]
+- [[Aether Crystal]]
+- [[Archbishop Mordecai Stormwright]]
+- [[Captain Lyanna Brightshield]]
+- [[High Priest Dagon Deepcaller]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Master Artificer Korvin Gearwright]]
+- [[Patriarch Valdris Lightbringer]]
+- [[Prince Caspian Duskwater]]
+- [[Queen Seraphina Lumengarde]]
+- [[Vex Shadowthorn]]
+- [[Aethermoor]]
+- [[Crystal Gardens]]
+- [[Crystalhaven]]
+- [[Hidden Smuggler's Cove]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Port Meridian]]
+- [[The Bone Colosseum]]
+- [[The Bone Palace of Sorrows]]
+- [[The Crimson Foundries]]
+- [[The Crystal Cathedral of Pure Light]]
+- [[The Crystal Hive Collective]]
+- [[The Crystal Stock Exchange]]
+- [[The Crystalline Foundry]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[The Iron Pits of Malachar]]
+- [[The Kraken's Harbor]]
+- [[The Memory Meadows Black Market]]
+- [[The Screaming Battleground]]
+- [[The Siren's Rest Tavern]]
+- [[The Slave Markets of Tethys]]
+- [[The Sundered Peaks]]
+- [[The Sundered Vaults]]
+- [[The Sunken Cathedral of Stars]]
+- [[The Temple of Eternal Tides]]
+- [[The Temporal Convergence Storms]]
+- [[The Void Tears]]
+- [[Ambush Point]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Pretender's Crown]]
+- [[The Crown's Burden]]
+- [[Campaign_Relationship_Matrix]]

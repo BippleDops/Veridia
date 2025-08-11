@@ -1,27 +1,40 @@
 ---
-tags: [session, aquabyssos, political, temporal, paradox]
+tags:
+- aquabyssos
+- paradox
+- political
+- prepared
+- session
+- session-journal
+- temporal
 session_number: 2
-title: "The Parliament's Paradox"
-date_played: 
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers"
-depth: "1,800 feet"
+title: The Parliament's Paradox
+date_played: null
+location: '[[02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers'
+depth: 1,800 feet
 npcs_featured:
-  - "[[Senator Glaucus]]"
-  - "[[The Forgotten Representative]]"
-  - "[[Time-Lost Delegate Chronus]]"
-  - "[[02_Worldbuilding/People/Shadow Duchess Nyx]]"
+- '[[Senator Glaucus]]'
+- '[[The Forgotten Representative]]'
+- '[[Time-Lost Delegate Chronus]]'
+- '[[02_Worldbuilding/People/Shadow Duchess Nyx]]'
 quests_advanced:
-  - "[[Shadow Conspiracy Investigation]]"
-  - "[[Temporal Anomaly Resolution]]"
-  - "[[The Vote Vault Mystery]]"
+- '[[Shadow Conspiracy Investigation]]'
+- '[[Temporal Anomaly Resolution]]'
+- '[[The Vote Vault Mystery]]'
 level: 5
-estimated_time: "4 hours"
+estimated_time: 4 hours
 status: prepared
-type: Session Journal
+type: Lore
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.997625+00:00'
+created: '2025-08-11T13:08:46.997625+00:00'
 ---
+
+
+
 
 # Session 2: The Parliament's Paradox
 
@@ -159,17 +172,17 @@ In Exchange:
 ## ⚔️ Combat Encounters
 
 ### Law Constructs (2)
-- **AC**: 17
+- **AS**: 17
 - **HP**: 65 each
 - **Attacks**: Gavel Slam (+8 to hit, 2d8+4 bludgeoning)
 - **Special Abilities**:
   - Legal Precedent: Copy one party member's last action
   - Hold Person (1/day, DC 15)
   - Immunity to charm, frightened, paralyzed
-- **Weakness**: Chaotic/random actions confuse them (-2 AC)
+- **Weakness**: Chaotic/random actions confuse them (-2 AS)
 
 ### Temporal Shadows (3) - Optional
-- **AC**: 15
+- **AS**: 15
 - **HP**: 45 each
 - **Attacks**: Temporal Drain (+6 to hit, 1d8+3 necrotic + age 1 year)
 - **Special Abilities**:
@@ -178,7 +191,7 @@ In Exchange:
 - **Vulnerability**: Radiant damage
 
 ### Paradox Spawn - If Timeline Damaged
-- **AC**: 16
+- **AS**: 16
 - **HP**: 80
 - **Attacks**: Reality Tear (+7 to hit, 2d6 force + temporal displacement)
 - **Special**: Exists in multiple timelines (3 legendary actions)

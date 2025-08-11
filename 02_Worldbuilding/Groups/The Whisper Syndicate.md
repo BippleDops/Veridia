@@ -1,22 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.202453+00:00'
+created: '2025-08-11T13:08:51.202453+00:00'
+status: draft
 tags:
-  - faction
-  - criminal
-  - syndicate
-  - underworld
-type: Faction
-alignment: Neutral Evil
-headquarters: "[[02_Worldbuilding/Places/Crystalhaven]]" (Hidden)
-leader: "[[02_Worldbuilding/People/Vex Shadowthorn]]"
-status: Active
-power_level: Shadow Power
-created: 2024-12-20
-image: "04_Resources/Assets/Factions/whisper_syndicate.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Whisper Syndicate
 *In Shadows We Trust, In Secrets We Trade*
@@ -258,3 +252,17 @@ The Whisper Syndicate is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful 
 - "Silence" - Kill
 - "Darken" - Blackmail
 - "The Quiet" - Death
+
+
+## Connections
+
+- [[Shadow Independence Levels]]
+- [[Shadow Surgeons Collective]]
+- [[Stop the Shadow Harvest]]
+- [[The Forsaken Consortium Collective]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Harbor District Customs House]]
+- [[Port Meridian - Merchant Quarter]]
+- [[Shadow Merchant Riptide]]
+- [[Campaign_Relationship_Matrix]]

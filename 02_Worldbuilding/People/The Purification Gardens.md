@@ -1,15 +1,24 @@
 ---
-tags: [location, gardens, purification, healing, aethermoor, complete]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Places
+tags:
+- aethermoor
+- complete
+- gardens
+- healing
+- location
+- purification
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Places
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.915693+00:00'
 ---
+
+
+
 
 # The Purification Gardens
 
@@ -103,3 +112,33 @@ The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where m
 
 ## DM Notes
 The Purification Gardens provide excellent opportunities for healing interlude adventures, moral dilemmas about resource allocation, and mysteries involving corruption or sabotage. Use them as safe havens where characters can recover while engaging with deeper spiritual themes.
+
+
+## Connections
+
+- [[Queen Seraphina Lumengarde]]
+- [[Ancient Tunnels Beneath Palace]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

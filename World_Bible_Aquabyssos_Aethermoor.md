@@ -1,18 +1,24 @@
 ---
 title: World Bible - Aquabyssos & Aethermoor
-type: reference
+type: Lore
 status: complete
 tags:
-  - world-bible
-  - lore
-  - canon
-  - reference
-  - timeline
-  - cultures
-  - languages
+- aquabyssos
+- canon
+- complete
+- cultures
+- languages
+- lore
+- reference
+- timeline
+- world-bible
 created: 2025-01-23
 version: 1.0
+world: Aquabyssos
+updated: '2025-08-11T13:08:46.957175+00:00'
 ---
+
+
 
 # World Bible - Aquabyssos & Aethermoor
 *The Authoritative Reference for the Dual Worlds*

@@ -1,16 +1,28 @@
 ---
-tags: [person, npc, aquabyssos, deep-mother, explorer, pressure-adapted, divine-servant]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Deep Mother's Explorer"
-affiliation: "The Deep Wanderers (Independent)"
-age: "Unknown (appears ageless)"
-race: "Human (Divinely Transformed)"
-location: "[[02_Worldbuilding/Places/The Hadal Depths]] - Wandering"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- divine-servant
+- explorer
+- npc
+- person
+- pressure-adapted
+status: complete
+world: Aquabyssos
+type: NPC
+role: Deep Mother's Explorer
+affiliation: The Deep Wanderers (Independent)
+age: Unknown (appears ageless)
+race: Human (Divinely Transformed)
+location: '[[02_Worldbuilding/Places/The Hadal Depths]] - Wandering'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.788844+00:00'
 ---
+
+
+
 
 # Captain Nautilus the Deep Wanderer
 *Explorer of the Mother's Domain, Mapper of Divine Dreams*
@@ -228,7 +240,7 @@ Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, 
 
 **Divine Navigation.** Nautilus always knows his exact location relative to the Deep Mother's body and can sense changes in her vital signs from anywhere in the world. He cannot become lost while underwater.
 
-**Pressure Mastery.** As a bonus action, Nautilus can manipulate water pressure in a 60-foot radius around him. He can create barriers of compressed water (AC 20, 50 HP), crush enemies, or propel himself at incredible speed.
+**Pressure Mastery.** As a bonus action, Nautilus can manipulate water pressure in a 60-foot radius around him. He can create barriers of compressed water (AS 20, 50 HP), crush enemies, or propel himself at incredible speed.
 
 **Sacred Mission Compulsion.** Nautilus is driven by unbreakable divine purpose to map the Deep Mother and warn of her awakening. This grants him advantage on Wisdom saves and makes him immune to charm and fear effects.
 
@@ -550,3 +562,11 @@ The Deep Mother's changing sleep patterns are causing unprecedented supernatural
 - **Character Development**: His relationship with divine purpose can evolve based on player interactions
 - **Campaign Integration**: Central to oceanic divine storylines, provides intelligence for cosmic threat assessment
 - **Power Balance**: Extremely capable in aquatic environments, vulnerable to isolation from oceanic power source
+
+## Connections
+
+- [[Pressure Angel Benthia]]
+- [[Sister Thalassa the Depth-Touched]]
+- [[The Shadow Singer Naia]]
+- [[The Tidecaller]]
+- [[Quest - The Shard-Shadow Resonance]]

@@ -1,11 +1,21 @@
 ---
-tags: [quest, mystery, final-message, urgent]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- final-message
+- mystery
+- quest
+- urgent
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:51.152542+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Last Words
 
@@ -144,3 +154,8 @@ Successful completion establishes characters as city protectors and reveals deep
 
 ## DM Notes
 This quest emphasizes puzzle-solving, coalition building, and time management over combat. The cryptic message should gradually become clearer through investigation. Use the deadline to maintain tension while allowing enough time for character development through diplomatic challenges.
+
+
+## Connections
+
+- [[The Whispering Depths]]

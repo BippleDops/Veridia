@@ -1,21 +1,31 @@
 ---
-tags: [location, gallery, memory, aquabyssos, entertainment, dangerous, mind-magic]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-category: "Entertainment/Gallery"
-depth: "800-1200 feet"
-difficulty: "Levels 3-8"
-owner: "[[Keeper Elara Mindwell]]"
-danger_level: "Moderate-High"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- dangerous
+- entertainment
+- gallery
+- location
+- memory
+- mind-magic
+status: complete
+world: Aquabyssos
+type: Location
+category: Entertainment/Gallery
+depth: 800-1200 feet
+difficulty: Levels 3-8
+owner: '[[Keeper Elara Mindwell]]'
+danger_level: Moderate-High
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Place
+updated: '2025-08-11T13:08:51.058132+00:00'
 MyContainer: None
 MyCategory: Memory Gallery
 obsidianUIMode: preview
 ---
+
+
+
 
 # Amnesia Gallery
 *Where Memories Dance in Crystal and Shadow, Where Forgetting is Art*
@@ -139,7 +149,7 @@ The gallery's deepest level where memories deemed too dangerous or painful are s
 *Medium humanoid (sea elf), neutral*
 **Gallery Director and Chief Memory Curator**
 
-- **AC**: 15 (Natural Armor + Dex)
+- **AS**: 15 (Natural Armor + Dex)
 - **HP**: 110 (17d8 + 34)
 - **Speed**: 30 ft., swim 50 ft.
 - **STR**: 10 (+0), **DEX**: 16 (+3), **CON**: 14 (+2), **INT**: 20 (+5), **WIS**: 18 (+4), **CHA**: 16 (+3)
@@ -169,7 +179,7 @@ Each appears as a translucent humanoid figure that phases between different form
 *Medium humanoid (various), neutral*
 **Gallery Staff and Guides**
 
-- **AC**: 12, **HP**: 27 (6d8), **Speed**: 30 ft.
+- **AS**: 12, **HP**: 27 (6d8), **Speed**: 30 ft.
 - **STR**: 10 (+0), **DEX**: 14 (+2), **CON**: 11 (+0), **INT**: 15 (+2), **WIS**: 16 (+3), **CHA**: 13 (+1)
 - **Skills**: Insight +5, Perception +5, Persuasion +3
 - **Senses**: Passive Perception 15
@@ -184,7 +194,7 @@ Former visitors who volunteered to undergo partial memory integration with the g
 *Medium humanoid (triton), lawful neutral*
 **Security and Safety Officers**
 
-- **AC**: 16 (Scale Mail), **HP**: 58 (9d8 + 18), **Speed**: 30 ft., swim 40 ft.
+- **AS**: 16 (Scale Mail), **HP**: 58 (9d8 + 18), **Speed**: 30 ft., swim 40 ft.
 - **STR**: 16 (+3), **DEX**: 13 (+1), **CON**: 14 (+2), **INT**: 12 (+1), **WIS**: 17 (+3), **CHA**: 14 (+2)
 - **Skills**: Athletics +6, Intimidation +5, Perception +6
 - **Damage Resistances**: Psychic
@@ -364,3 +374,7 @@ The Amnesia Gallery serves as a cultural and research hub for memory-related act
 
 *"In the depths of forgetting, we sometimes find who we truly are."*  
 — Keeper Elara Mindwell, Gallery Director
+
+## Connections
+
+- [[Aquabyssos - Session 02 - The Parliament's Paradox]]

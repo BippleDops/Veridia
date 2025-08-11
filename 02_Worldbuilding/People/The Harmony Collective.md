@@ -1,15 +1,23 @@
 ---
-tags: [organization, cult, harmony, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- cult
+- harmony
+- organization
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Religious
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.767747+00:00'
 ---
+
+
+
 
 # The Harmony Collective
 
@@ -86,3 +94,39 @@ Harmonized members speak in calm, measured tones and rarely show individual pers
 
 ## DM Notes
 The Harmony Collective works excellently as both subtle antagonists and moral dilemma generators. Their genuine benefits (reduced conflict, community aid) contrast sharply with their sinister methods. Use them to explore themes of conformity versus individuality, and the price of peace. Their harmonized members make for disturbing encounters that blur the line between ally and enemy.
+
+
+## Connections
+
+- [[Sister Morwyn]]
+- [[Campaign_Relationship_Matrix]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

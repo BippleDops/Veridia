@@ -1,23 +1,37 @@
 ---
-tags: [npc, aquabyssos, service, hospitality, information, embassy, diplomatic, helpful, social]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-category: "Service Professional"
-race: "Sea Elf"
-class: "Expert"
-location: "[[Ambassador Lysandra Silvertonge's Embassy]]"
-faction: "Embassy Staff"
-influence: "Low"
-danger_level: "None"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- diplomatic
+- embassy
+- helpful
+- hospitality
+- information
+- npc
+- person
+- service
+- social
+status: complete
+world: Aquabyssos
+type: Location
+category: Service Professional
+race: Sea Elf
+class: Expert
+location: '[[Ambassador Lysandra Silvertonge''s Embassy]]'
+faction: Embassy Staff
+influence: Low
+danger_level: None
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Person
+updated: '2025-08-11T13:08:50.973130+00:00'
 MyContainer: None
 MyCategory: Embassy Staff
 obsidianUIMode: preview
 ---
+
+
+
+
 
 # Concierge Phillip Gracewater
 *The Welcoming Face of Diplomacy*
@@ -70,7 +84,7 @@ Phillip's extensive knowledge of both [[Aquabyssos]] and [[Aethermoor]] customs,
 - **Event Coordination**: Managing diplomatic receptions and cultural exchange events
 - **Information Management**: Maintaining databases of contacts, protocols, and cultural requirements
 
-**Combat Statistics**: 4th level Expert (AC 13, HP 31, Speed 30 ft./swim 40 ft.)
+**Combat Statistics**: 4th level Expert (AS 13, HP 31, Speed 30 ft./swim 40 ft.)
 - **STR**: 10 (+0), **DEX**: 15 (+2), **CON**: 14 (+2)
 - **INT**: 16 (+3), **WIS**: 17 (+3), **CHA**: 18 (+4)
 - **Skills**: Insight +9, Persuasion +10, History +5, Investigation +5
@@ -99,3 +113,38 @@ Phillip suspects that someone has been using embassy events to gather intelligen
 
 *"Diplomacy succeeds when people feel heard, respected, and cared for. My role may be to serve refreshments and arrange accommodations, but really I'm serving understanding and peace."*  
 — Concierge Phillip Gracewater
+
+
+## Connections
+
+- [[The Bathyal Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

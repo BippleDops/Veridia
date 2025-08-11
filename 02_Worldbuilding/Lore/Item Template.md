@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Item Template
 
 ![Item Template Portrait](04_Resources/Assets/Art/Lore/Item_Template.png)

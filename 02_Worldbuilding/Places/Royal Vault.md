@@ -1,22 +1,17 @@
 ---
-tags: [location, aethermoor, vault, treasure, royal, security, magical, storage, crown, artifacts]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Royal Treasury"
-parent_location: "Royal Palace"
-depth: "Surface"
-danger_level: 5
-population: "~12 vault keepers and security specialists"
-government: "Crown Treasury Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.332974+00:00'
+created: '2025-08-11T13:08:50.332974+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Royal Vault
 *Where the Crown's Greatest Treasures Rest*
@@ -220,3 +215,8 @@ Items with significant historical importance that provide insight into past even
 **Emergency Authorization**: Crisis situations may grant temporary access to normally restricted areas and items.
 
 **Diplomatic Implications**: Vault contents connect to various political relationships and historical events throughout the campaign.
+
+
+## Connections
+
+- [[The Royal Palace]]

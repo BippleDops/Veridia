@@ -1,12 +1,20 @@
 ---
-tags: [lore, party-tracking, campaign-mechanics, character-data]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- campaign-mechanics
+- character-data
+- complete
+- lore
+- party-tracking
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.205864+00:00'
 ---
+
+
 
 # Party Information
 
@@ -76,3 +84,9 @@ Some long-term adventuring parties develop subtle magical bonds that allow limit
 
 ## Campaign Use
 Use party information to create personalized consequences, rewards, and opportunities. Track reputation changes to make the world feel reactive to player choices.
+
+
+## Connections
+
+- [[Aethermoor to Aquabyssos Transition Guide]]
+- [[Session 0 - Aquabyssos]]

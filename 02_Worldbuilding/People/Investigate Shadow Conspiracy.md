@@ -1,18 +1,29 @@
 ---
-tags: [investigation, shadow-conspiracy, secret-network, political-intrigue, supernatural-crime, aquabyssos, mystery, corruption]
-status: "complete"
-world: "Aquabyssos"
-type: "investigation"
-role: "Active Investigation Network"
-affiliation: "Independent Investigators (Multiple Factions)"
-danger_level: "Extreme"
-scope: "City-Wide"
-confidentiality: "Maximum Classification"
-location: "Throughout [[02_Worldbuilding/Places/Aquabyssos]]"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- corruption
+- investigation
+- mystery
+- political-intrigue
+- secret-network
+- shadow-conspiracy
+- supernatural-crime
+status: complete
+world: Aquabyssos
+type: NPC
+role: Active Investigation Network
+affiliation: Independent Investigators (Multiple Factions)
+danger_level: Extreme
+scope: City-Wide
+confidentiality: Maximum Classification
+location: Throughout [[02_Worldbuilding/Places/Aquabyssos]]
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.701132+00:00'
 ---
+
+
 
 # Investigate Shadow Conspiracy
 *Unraveling the Web of Darkness Beneath the Depths*
@@ -676,3 +687,11 @@ Evidence suggests conspiracy goals may be complex rather than simply malevolent:
 - Address questions of civil rights during crisis and exceptional circumstances
 - Show both benefits and costs of transparency and secrecy in governance
 - Balance criticism of institutions with recognition of their necessity and value
+
+
+## Connections
+
+- [[The Shadow Conspiracy]]
+- [[Original Glaucus]]
+- [[Rescue Senator Glaucus]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

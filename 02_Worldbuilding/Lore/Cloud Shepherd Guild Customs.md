@@ -1,12 +1,20 @@
 ---
-tags: [lore, culture, guild, aethermoor, cloud-shepherds, customs]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aethermoor
+- cloud-shepherds
+- complete
+- culture
+- customs
+- guild
+- lore
+status: complete
+world: Aethermoor
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.676683+00:00'
 ---
+
 
 # Cloud Shepherd Guild Customs
 *"We are the keepers of the sky's flocks, guiding the clouds as our ancestors guided earthbound herds - with patience, wisdom, and respect for the eternal dance of wind and weather."*

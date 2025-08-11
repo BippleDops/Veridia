@@ -1,24 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.719038+00:00'
+created: '2025-08-11T13:08:50.719038+00:00'
+status: draft
 tags:
-  - location
-  - harbor
-  - underwater
-  - aethermoor
-  - port_meridian
-  - transition_zone
-  - dangerous
+- both
+- draft
 type: Location
-region: "[[02_Worldbuilding/Places/Port Meridian Harbor]]"
-depth_zone: "Surface to Twilight (0-200m)"
-danger_level: High
-government: "Port Authority & Crown Naval Command"
-created: 2025-08-08
-world: "Aethermoor"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # The Harbor Depths
 *Where Surface Meets Abyss, The Drowned Foundation of Port Meridian*

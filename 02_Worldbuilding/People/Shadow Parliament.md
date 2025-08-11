@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Shadow Parliament
 
 ![Shadow Parliament Portrait](04_Resources/Assets/Art/NPCs/Shadow_Parliament.png)

@@ -1,19 +1,29 @@
 ---
-tags: [quest, ambush, tactical-warfare, resistance-movement, guerrilla-tactics, shadow-conspiracy]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-level_range: "5-10"
-quest_type: "Tactical Combat & Resistance Operations"
-estimated_sessions: "4-6"
-created_by: "auto-stub"
+tags:
+- ambush
+- aquabyssos
+- complete
+- guerrilla-tactics
+- quest
+- resistance-movement
+- shadow-conspiracy
+- tactical-warfare
+status: complete
+world: Aquabyssos
+type: Lore
+level_range: 5-10
+quest_type: Tactical Combat & Resistance Operations
+estimated_sessions: 4-6
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.028661+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Ambush Point
 
@@ -239,7 +249,7 @@ The convoy enters the gorge exactly on schedule, unaware of the trap waiting for
 
 **Shadow Admiral Vex** (CR 9)
 **Medium humanoid (human, shadow-touched), lawful evil**
-**AC** 18 (Shadow-Plate Armor), **HP** 135 (18d8 + 54), **Speed** 30 ft., swim 40 ft.
+**AS** 18 (Shadow-Plate Armor), **HP** 135 (18d8 + 54), **Speed** 30 ft., swim 40 ft.
 **STR** 16 (+3) **DEX** 14 (+2) **CON** 16 (+3) **INT** 17 (+3) **WIS** 15 (+2) **CHA** 18 (+4)
 
 **Saving Throws** Wis +7, Cha +9  
@@ -466,3 +476,8 @@ Success against the convoy creates opportunities but also obligations. The party
 - **Epic Levels (15+)**: Expand to multi-region operations with international implications
 
 This quest provides a masterclass in tactical planning and execution while exploring themes of resistance, sacrifice, and the moral complexities of warfare. Success requires both strategic thinking and adaptability, making it memorable for players who enjoy both combat and roleplay challenges.
+
+
+## Connections
+
+- [[Find_the_Missing_Caravan]]

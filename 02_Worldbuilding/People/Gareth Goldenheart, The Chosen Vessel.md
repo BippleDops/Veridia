@@ -1,16 +1,29 @@
 ---
-tags: [person, npc, aethermoor, seven-shards, golden-shard, chosen-one, divine-vessel]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-role: "Shard Vessel"
-affiliation: "None (Too young to understand)"
-age: "8"
-race: "Human (Divine-touched)"
-location: "[[02_Worldbuilding/Places/Crystalhaven]] - Hidden in Royal Orphanage"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- chosen-one
+- complete
+- divine-vessel
+- golden-shard
+- npc
+- person
+- seven-shards
+status: complete
+world: Aethermoor
+type: NPC
+role: Shard Vessel
+affiliation: None (Too young to understand)
+age: '8'
+race: Human (Divine-touched)
+location: '[[02_Worldbuilding/Places/Crystalhaven]] - Hidden in Royal Orphanage'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.013055+00:00'
+cr: '15'
 ---
+
+
+
 
 # Gareth Goldenheart, The Chosen Vessel
 *Bearer of the Golden Shard, The Innocent Divine*
@@ -444,3 +457,11 @@ Gareth's innocent questions often reveal profound truths:
 - **Plot Function**: Ultimate key to Shard reunification and campaign resolution
 - **Power Balance**: Extremely powerful but constrained by innocence and protection needs
 - **Character Growth**: His development from child to adult drives overall campaign arc
+
+## Connections
+
+- [[Brother Matthias the Amber Bearer]]
+- [[The Azure Prophet Nerissa]]
+- [[The Emerald Sage Willowbark]]
+- [[The Shadow Singer Naia]]
+- [[Quest - The Shard-Shadow Resonance]]

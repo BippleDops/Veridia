@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Forgotten Collective
 
 ![The Forgotten Collective Portrait](04_Resources/Assets/Art/Places/The_Forgotten_Collective.png)

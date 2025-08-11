@@ -1,39 +1,44 @@
 ---
 tags:
-  - Category/Group
-  - Aethermoor/Politics
-  - Aethermoor/Restoration
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-created_by: "expansion"
+- aethermoor
+- aethermoor/politics
+- aethermoor/restoration
+- category/group
+- complete
+- faction
+status: complete
+world: Aethermoor
+type: Group
+created_by: expansion
 created: 2025-08-11
-MyContainer: "[[Lumengarde|Lumengarde]]"
+MyContainer: '[[Lumengarde|Lumengarde]]'
 MyCategory: Revolutionary Political Movement
 obsidianUIMode: preview
-leader: "The Architect of Order"
+leader: The Architect of Order
 officers:
-  - "Commander Thrace Ironwood"
-  - "Aria Lumengarde"
-  - "Brother Marcus Steelbane"
+- Commander Thrace Ironwood
+- Aria Lumengarde
+- Brother Marcus Steelbane
 members:
-  - "Order Initiates"
-  - "Crystal Wardens Reformed"
-  - "Sky Island Unificationists"
+- Order Initiates
+- Crystal Wardens Reformed
+- Sky Island Unificationists
 initiates:
-  - "New Order Recruits"
-  - "Reality Stabilization Trainees"
-  - "Unity Doctrine Students"
-faction: "The Restoration Movement"
-primary_contact: "Commander Thrace Ironwood"
+- New Order Recruits
+- Reality Stabilization Trainees
+- Unity Doctrine Students
+faction: The Restoration Movement
+primary_contact: Commander Thrace Ironwood
 benefits:
-  - standing: 1
-    reward: "Access to crystal stabilization techniques and unified governance training"
-  - standing: 2
-    reward: "Advanced reality anchor technology and regional leadership opportunities"
-  - standing: 3
-    reward: "Direct council with the Architect and realm-shaping authority"
+- standing: 1
+  reward: Access to crystal stabilization techniques and unified governance training
+- standing: 2
+  reward: Advanced reality anchor technology and regional leadership opportunities
+- standing: 3
+  reward: Direct council with the Architect and realm-shaping authority
+updated: '2025-08-11T13:08:51.292179+00:00'
 ---
+
 
 # Establish the New Order
 

@@ -1,21 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.394402+00:00'
+created: '2025-08-11T13:08:50.394402+00:00'
+status: draft
 tags:
-  - location
-  - monster
-  - hive
-  - crystal
-  - aberration
-type: Monster Colony
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-danger_level: Extreme
-controlled_by: "[[The Crystal Queen Mother]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/crystal_hive_collective.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Crystal Hive Collective
 *Where Consciousness Merges and Individual Thought Dies*

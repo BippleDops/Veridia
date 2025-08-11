@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Doctor Silas Voidtouch
 
 ![Doctor Silas Voidtouch Portrait](04_Resources/Assets/Art/Places/Doctor_Silas_Voidtouch.png)

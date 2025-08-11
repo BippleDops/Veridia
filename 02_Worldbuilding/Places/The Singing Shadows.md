@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Singing Shadows
 
 ![The Singing Shadows Portrait](04_Resources/Assets/Art/Places/The_Singing_Shadows.png)

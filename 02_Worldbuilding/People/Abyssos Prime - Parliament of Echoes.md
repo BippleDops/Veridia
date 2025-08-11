@@ -1,18 +1,30 @@
 ---
-tags: [government, parliament, politics, aquabyssos, democracy, representation, underwater-governance, political-intrigue]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-role: "Primary Government Institution"
-affiliation: "[[02_Worldbuilding/Places/Abyssos Prime]] Government"
-size: "300+ Members"
-influence: "Maximum"
-authority_level: "Supreme Legislative"
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]] Building, Upper Districts"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- democracy
+- government
+- organization
+- parliament
+- political-intrigue
+- politics
+- representation
+- underwater-governance
+status: complete
+world: Aquabyssos
+type: NPC
+role: Primary Government Institution
+affiliation: '[[02_Worldbuilding/Places/Abyssos Prime]] Government'
+size: 300+ Members
+influence: Maximum
+authority_level: Supreme Legislative
+location: '[[02_Worldbuilding/Places/Parliament of Echoes]] Building, Upper Districts'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.686611+00:00'
 ---
+
+
 
 # Abyssos Prime - Parliament of Echoes
 *The Resonating Chamber of Democratic Will*
@@ -645,3 +657,8 @@ Decisions about supernatural integration and cosmic adaptation will affect futur
 - Address questions of human relevance in face of cosmic forces and otherworldly entities
 - Balance cosmic horror themes with affirmation of democratic values and human dignity
 - Create opportunities for characters to influence decisions affecting civilization's future
+
+
+## Connections
+
+- [[The Maw of Darkness]]

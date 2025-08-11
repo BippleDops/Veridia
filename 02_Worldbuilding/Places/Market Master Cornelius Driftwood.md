@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Market Master Cornelius Driftwood
 
 ![Market Master Cornelius Driftwood Portrait](04_Resources/Assets/Art/Places/Market_Master_Cornelius_Driftwood.png)

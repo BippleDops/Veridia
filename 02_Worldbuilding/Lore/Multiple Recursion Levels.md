@@ -1,17 +1,31 @@
 ---
-tags: [lore, reality-mechanics, dimensional-layers, recursion-magic, cosmic-phenomena, reality-nesting, dimensional-structure, advanced-magic, reality-manipulation]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- advanced-magic
+- both-worlds
+- complete
+- cosmic-phenomena
+- dimensional-layers
+- dimensional-structure
+- lore
+- reality-manipulation
+- reality-mechanics
+- reality-nesting
+- recursion-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-phenomenon_type: "Reality Layering and Dimensional Recursion"
-complexity: "Extreme - Cosmic Scale"
-danger_level: "Catastrophic"
-scope: "Universal Implications"
-comprehension_difficulty: "Nearly Impossible"
+updated: '2025-08-11T13:08:47.649902+00:00'
+phenomenon_type: Reality Layering and Dimensional Recursion
+complexity: Extreme - Cosmic Scale
+danger_level: Catastrophic
+scope: Universal Implications
+comprehension_difficulty: Nearly Impossible
 ---
+
+
+
 
 # Multiple Recursion Levels
 *The Infinite Mirrors of Nested Reality*
@@ -422,3 +436,9 @@ Exposure to recursion levels provides unique opportunities for character growth 
 - [[02_Worldbuilding/Lore/Spell Lists]] - Catalog of magic that can create or navigate recursive effects
 - [[02_Worldbuilding/Lore/Aquabyssos]] - Underwater realm affected by cosmic-induced recursive phenomena
 - [[02_Worldbuilding/Lore/Aethermoor]] - Surface realm developing recursive research capabilities
+
+
+## Connections
+
+- [[Depth Effect Quick Reference]]
+- [[Campaign_Relationship_Matrix]]

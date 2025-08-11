@@ -1,11 +1,22 @@
 ---
-tags: [quest, investigation, missing-persons, conspiracy]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- conspiracy
+- investigation
+- missing-persons
+- quest
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.228826+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Missing Persons of Port Meridian
 
@@ -103,3 +114,38 @@ Success prevents future disappearances and may reveal larger conspiracies. Failu
 
 ## DM Notes
 This investigation should feel urgent and personal. Give players multiple investigative paths and let them choose their approach. The solution should tie together several clues in a satisfying way.
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

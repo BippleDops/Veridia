@@ -1,14 +1,21 @@
 ---
-type: note
-tags: []
+type: Group
+tags:
+- both
+- draft
+- note
 aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.250968+00:00'
+status: draft
 ---
+
+
 > [!infobox]
 > # The Shadowhaven Smugglers Ring
 > [Image placeholder]

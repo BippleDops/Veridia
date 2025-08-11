@@ -1,12 +1,21 @@
 ---
-tags: [lore, festival, crystals, celebration, inter-realm-event]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- celebration
+- complete
+- crystals
+- festival
+- inter-realm-event
+- lore
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.151539+00:00'
 ---
+
+
 
 # Crystal Festival
 
@@ -70,3 +79,22 @@ Week-long celebration held annually during optimal magical alignment.
 
 ## Campaign Use
 Provides colorful setting for social encounters, cultural exploration, and diplomatic adventures. The festival serves as a nexus where multiple campaign elements intersect: [[The Seven Shards]] may be displayed, [[The Crimson Hand]] agents operate, [[Memory Alteration Consequences]] affect visitors, and [[The Convergence Point]] influences magical displays. Perfect venue for introducing cross-realm NPCs and advancing multiple plot threads simultaneously.
+
+
+## Connections
+
+- [[Corruption Exposure Tracking]]
+- [[Crystal Cult Initiates Ambush]]
+- [[Crystal Mimics]]
+- [[The Seven Shards]]
+- [[Commander Thrace Ironwood]]
+- [[Aether Crystals]]
+- [[Bandit Scouts]]
+- [[Crystalline Depths]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[Stop the Crystal Festival Ritual]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Traveling Merchant Finn]]
+- [[Aethermoor - Session 07 The Festival of Transformation]]

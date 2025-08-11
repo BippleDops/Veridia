@@ -1,24 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.651865+00:00'
+created: '2025-08-11T13:08:49.651865+00:00'
+status: draft
 tags:
-  - npc
-  - antagonist
-  - leader
-  - zealot
+- both
+- draft
 type: NPC
-race: Human
-class: Cleric/Inquisitor
-level: 16
-alignment: Lawful Evil (believes he's Good)
-location: "[[02_Worldbuilding/Places/The Verdant Reach]]"
-faction: "[[02_Worldbuilding/Groups/Purist Coalition]]"
-status: complete
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/maltheos.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # High Inquisitor Maltheos
 *The Pure Flame, Cleanser of Corruption*
@@ -489,3 +481,15 @@ Maltheos's discovery of his ancestor's role in the Shattering created a profound
 - Learns to respect those he once condemned
 - Uses his organizational skills for genuine good
 - Finds redemption through cooperation rather than conquest
+
+
+## Connections
+
+- [[The Final Choice]]
+- [[The Real Marina]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[Commander Thrace Ironwood]]
+- [[Jasper Three-Eyes Flint]]
+- [[Professor Aldric Crystalweaver]]
+- [[Find the Grief Bomb]]

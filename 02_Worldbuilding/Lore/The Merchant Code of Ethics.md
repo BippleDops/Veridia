@@ -1,12 +1,25 @@
 ---
-tags: [lore, culture, commerce, ethics, trade-customs, both-worlds, aquabyssos, aethermoor, guild-law]
-status: "complete"
-world: "Both"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- both-worlds
+- commerce
+- complete
+- culture
+- ethics
+- guild-law
+- lore
+- trade-customs
+status: complete
+world: Both
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.800274+00:00'
 ---
+
+
 
 # The Merchant Code of Ethics
 *"Profit without honor is merely theft with better accounting."*
@@ -317,3 +330,7 @@ The Merchant Code of Ethics represents the comprehensive moral and legal framewo
 - [[Sustainable Commerce Guidelines]] - Environmental standards integrated into Code requirements
 
 The Merchant Code of Ethics stands as the foundation of inter-realm prosperity, proving that when honor guides commerce, both profit and peace can flourish across any divide - whether of water, air, or culture.
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

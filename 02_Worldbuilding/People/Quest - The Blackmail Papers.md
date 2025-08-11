@@ -15,6 +15,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # Quest - The Blackmail Papers
 
 ![Quest - The Blackmail Papers Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Blackmail_Papers.png)

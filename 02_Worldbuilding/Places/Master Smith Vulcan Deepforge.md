@@ -1,22 +1,37 @@
 ---
-tags: [character, npc, smith, craftsman, aquabyssos, deepforge, master, artisan, weapons, armor]
-status: "complete"
-world: "Aquabyssos"
-type: "character"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- armor
+- artisan
+- character
+- complete
+- craftsman
+- deepforge
+- master
+- npc
+- smith
+- weapons
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Master Craftsman"
-faction: "Artisan Guild"
-class: "Artificer"
+updated: '2025-08-11T13:08:50.991783+00:00'
+character_type: Master Craftsman
+faction: Artisan Guild
+class: Artificer
 level: 14
 cr: 10
-occupation: "Master Smith and Weaponsmith"
-location: "The Great Forge, Aquabyssos"
+occupation: Master Smith and Weaponsmith
+location: The Great Forge, Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Master Smith Vulcan Deepforge
 *The Legendary Craftsman of the Depths*
@@ -166,7 +181,7 @@ This balance between traditional respect and innovative thinking has kept his wo
 
 **The Forge Master's Hammer** - Legendary warhammer that can shape any material, cast *heat metal* at will, and serves as focus for his magical abilities. The hammer grows stronger with each masterwork created.
 
-**Masterwork Plate of the Depths** - Custom-forged armor providing AC 18 and resistance to fire and cold damage. The armor adapts to underwater pressure and enhances physical capabilities.
+**Masterwork Plate of the Depths** - Custom-forged armor providing AS 18 and resistance to fire and cold damage. The armor adapts to underwater pressure and enhances physical capabilities.
 
 **Tools of Mastery** - Complete set of masterwork smithing tools that provide advantage on all crafting checks and can work with materials normally requiring magical enhancement.
 
@@ -271,3 +286,11 @@ Vulcan's dedication to excellence and teaching provides good examples for charac
 His balance between tradition and innovation offers opportunities to explore themes of progress, heritage, and the responsibility that comes with exceptional skill.
 
 Interactions with Vulcan can help players understand the value of craftsmanship, attention to detail, and the satisfaction that comes from creating something meaningful and lasting.
+
+
+## Connections
+
+- [[Admiral Thorne Blackwater]]
+- [[Pressure's End]]
+- [[The Bone Colosseum]]
+- [[The Crimson Foundries]]

@@ -1,26 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.006955+00:00'
+created: '2025-08-11T13:08:50.006955+00:00'
+status: draft
 tags:
-  - npc
-  - military
-  - admiral
-  - aethermoor
-  - naval_commander
-  - anti-corruption
+- both
+- draft
 type: NPC
-race: Human
-class: Fighter/Paladin
-level: 14
-alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/Port Meridian]]"
-faction: "[[02_Worldbuilding/Groups/The Crown Authority]]"
-status: Alive (Corruption-resistant)
-created: 2025-08-08
-world: "Aethermoor"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Admiral Cassandra Stormwind
 *The Iron Lady of the Fleet, Scourge of Pirates, Guardian of the Crown Waters*
@@ -169,3 +159,17 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - [[02_Worldbuilding/Quests/Quest - Foreign Interests]] - Naval intelligence gathering
 - [[02_Worldbuilding/Quests/Quest - The Crown Reborn]] - Military support for succession
 - [[02_Worldbuilding/Quests/Economic Warfare]] - Protecting trade routes
+
+
+## Connections
+
+- [[Merchant Princes]]
+- [[The Crystal Throne]]
+- [[Captain Lyanna Brightshield]]
+- [[Captain Thaddeus Blackwater]]
+- [[Lighthouse Keeper]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Vex Shadowthorn]]
+- [[Port Meridian]]
+- [[Quest - The Plague of Crystals]]
+- [[Campaign_Relationship_Matrix]]

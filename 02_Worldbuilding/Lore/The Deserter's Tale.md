@@ -1,11 +1,30 @@
 ---
-tags: [lore, event, history, aquabyssos, honor]
-status: "completed"
-type: "historical_legend"
-world: "dual"
-connections: ["[[Pressure's End]]", "[[Honor Guard]]", "[[Deep Mother]]", "[[The Tidal Council]]"]
-themes: ["betrayal", "redemption", "duty_vs_survival", "cosmic_horror"]
+tags:
+- aquabyssos
+- completed
+- dual
+- event
+- historical_legend
+- history
+- honor
+- lore
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[Pressure''s End]]'
+- '[[Honor Guard]]'
+- '[[Deep Mother]]'
+- '[[The Tidal Council]]'
+themes:
+- betrayal
+- redemption
+- duty_vs_survival
+- cosmic_horror
+created: '2025-08-11T13:08:47.827834+00:00'
+updated: '2025-08-11T13:08:47.827834+00:00'
 ---
+
 
 # The Deserter's Tale
 

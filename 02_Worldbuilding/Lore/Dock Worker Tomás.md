@@ -1,12 +1,20 @@
 ---
-tags: [lore, npc, dock-worker, aethermoor, commoner, contact]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- commoner
+- complete
+- contact
+- dock-worker
+- lore
+- npc
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.990566+00:00'
 ---
+
 
 # Dock Worker Tomás
 

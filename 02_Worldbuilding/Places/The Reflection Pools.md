@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
 # The Reflection Pools
 
 ![The Reflection Pools Portrait](04_Resources/Assets/Art/Places/The_Reflection_Pools.png)

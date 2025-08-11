@@ -1,41 +1,45 @@
 ---
-tags: [session, aethermoor, crystal-plague]
-session: "Session-01"
-date: 
-type: "session"
+tags:
+- aethermoor
+- crystal-plague
+- draft
+- session
+session: Session-01
+date: null
+type: Lore
 players: []
 absent: []
-campaign: "Aethermoor - The Plague of Crystals"
-primary_location: "[[Port Meridian - Harbor District]]"
+campaign: Aethermoor - The Plague of Crystals
+primary_location: '[[Port Meridian - Harbor District]]'
 locations_visited:
-  - "[[Port Meridian - Harbor District]]"
-  - "[[Pier 7]]"
-  - "[[The Siren's Rest Tavern]]"
-  - "[[Harbor District Customs House]]"
-  - "[[Lamplight Alley]]"
+- '[[Port Meridian - Harbor District]]'
+- '[[Pier 7]]'
+- '[[The Siren''s Rest Tavern]]'
+- '[[Harbor District Customs House]]'
+- '[[Lamplight Alley]]'
 npcs_met:
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
-  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
-  - "[[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]"
-  - "[[Brother Marcus Steelbane]]"
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'
+- '[[02_Worldbuilding/Lore/Dock Worker Tomás|Dock Worker Tomás]]'
+- '[[Brother Marcus Steelbane]]'
 encounters:
-  - "[[Crystal Cult Initiates Ambush]]"
+- '[[Crystal Cult Initiates Ambush]]'
 quests_started:
-  - "[[Investigate the Crystal Plague]]"
-  - "[[Missing Persons of Port Meridian]]"
+- '[[Investigate the Crystal Plague]]'
+- '[[Missing Persons of Port Meridian]]'
 quests_progressed: []
 quests_completed: []
-items_gained: 
-  - "Vial of purple liquid"
-  - "Map fragment - harbor shipping routes"
-  - "Letter of introduction from Marina"
+items_gained:
+- Vial of purple liquid
+- Map fragment - harbor shipping routes
+- Letter of introduction from Marina
 gold_gained: 150
 xp_awarded: 750
-plot_threads: 
-  - "Crystal plague spreading for 3 weeks"
-  - "Captain Blackwater missing 2 months"
-  - "Singing crystals near Forgotten Isles"
-  - "Nightmares of drowning in crystal caves"
+plot_threads:
+- Crystal plague spreading for 3 weeks
+- Captain Blackwater missing 2 months
+- Singing crystals near Forgotten Isles
+- Nightmares of drowning in crystal caves
 duration_hours: 4
 level: 3
 danger_level: 5
@@ -43,7 +47,13 @@ corruption_exposure: 2
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.986765+00:00'
+created: '2025-08-11T13:08:46.986765+00:00'
+status: draft
 ---
+
+
 
 # Session 1: Blood in the Harbor
 

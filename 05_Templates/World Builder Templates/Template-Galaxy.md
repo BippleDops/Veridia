@@ -1,9 +1,18 @@
 ---
 tags:
-  - Category/Galaxy
+- both
+- category/galaxy
+- draft
 obsidianUIMode: preview
-MyContainer:
+MyContainer: null
+world: Both
+updated: '2025-08-11T13:08:47.017942+00:00'
+created: '2025-08-11T13:08:47.017942+00:00'
+status: draft
+type: Lore
 ---
+
+
 <%*
 const hasTitle = !tp.file.title.startsWith("NewGalaxy");
 let title;
@@ -71,7 +80,7 @@ Make notes of what you need to track in the region here.
 `BUTTON[button_starsystem]` **Continents**  Large continuous landmasses that contain regions.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Galaxy(s)"
+TABLE WITHOUT ID link(file.name) AC "Galaxy(s)"
 FROM "02_Worldbuilding/Continents"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

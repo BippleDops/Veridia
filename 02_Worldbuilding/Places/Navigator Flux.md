@@ -1,15 +1,28 @@
 ---
-tags: [npc, navigator, flux, temporal-magic, sea-travel, aquabyssos, mysterious]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- flux
+- location
+- mysterious
+- navigator
+- npc
+- sea-travel
+- temporal-magic
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.411041+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Navigator Flux
 
@@ -292,7 +305,7 @@ Flux possesses information that could be catastrophic if revealed:
 
 ### Flux's Statistics
 **Navigator Flux** (Unique Temporal Entity)
-- **AC**: 17 (Natural Temporal Distortion)
+- **AS**: 17 (Natural Temporal Distortion)
 - **HP**: 120 (16d10 + 32)
 - **Speed**: 30 ft., swim 60 ft., temporal shift 120 ft.
 - **STR**: 12 **DEX**: 18 **CON**: 14 **INT**: 22 **WIS**: 20 **CHA**: 16
@@ -375,3 +388,9 @@ Flux works best in campaigns that can accommodate:
 - **[[Memory Farmers]]**: Collaboration on temporal research and consciousness studies
 - **[[The Temporal Convergence Storms]]**: Natural phenomena that Flux studies and navigates
 - **[[The Whispering Depths]]**: Mysterious location where time flows differently
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]
+- [[Discover the Singers Beyond]]

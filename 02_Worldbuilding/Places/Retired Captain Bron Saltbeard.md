@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Retired Captain Bron Saltbeard
 
 ![Retired Captain Bron Saltbeard Portrait](04_Resources/Assets/Art/Places/Retired_Captain_Bron_Saltbeard.png)

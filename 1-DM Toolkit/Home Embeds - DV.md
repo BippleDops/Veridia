@@ -1,10 +1,18 @@
 ---
 aliases: []
 tags:
-  - Category/Note
-type: note
+- both
+- category/note
+- note
+- unknown
+type: Lore
 status: unknown
+world: Both
+updated: '2025-08-11T13:08:47.046535+00:00'
+created: '2025-08-11T13:08:47.046535+00:00'
 ---
+
+
 # Home Embeds - DV
 
 ## Party
@@ -190,7 +198,7 @@ actions:
 ```
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Character Name", Player, Class, Race, level, Role
+TABLE WITHOUT ID link(file.name) AC "Character Name", Player, Class, Race, level, Role
 from "1-Party"
 where (Role = "Player")
 where (Status = "Active")
@@ -238,7 +246,7 @@ where (Status = "Active")
 
 ```dataview
 TABLE WITHOUT ID
-  link(file.name) AS "Location Name", MyContainer, MyCategory
+  link(file.name) AC "Location Name", MyContainer, MyCategory
 FROM "2-World"
 WHERE
   contains(tags, "Category/People")
@@ -251,7 +259,7 @@ LIMIT 10
 
 ```dataview
 TABLE WITHOUT ID
-  link(file.name) AS "Location Name", MyContainer, MyCategory
+  link(file.name) AC "Location Name", MyContainer, MyCategory
 FROM "2-World"
 WHERE
   contains(tags, "Category/Place")
@@ -265,8 +273,8 @@ LIMIT 10
 
 ```dataview
 TABLE WITHOUT ID
-    link(file.path, file.folder + " / " + file.name) AS "Note",
-    file.mtime AS "Last modified"
+    link(file.path, file.folder + " / " + file.name) AC "Note",
+    file.mtime AC "Last modified"
 FROM "/"
 WHERE file.mtime >= date(today) - dur(30 days)
 AND file.name != this.file.name
@@ -282,7 +290,7 @@ LIMIT 10
 ## Session Journals
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players
+TABLE WITHOUT ID link(file.name) AC "Session Date", Status, players
 from "1-Session Journals"
 where (type = "Session Journal")
 SORT file.name DESC

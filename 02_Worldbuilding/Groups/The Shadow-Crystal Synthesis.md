@@ -1,18 +1,31 @@
 ---
-tags: [faction, group, cross-realm, synthesis, shadow-crystal, researchers, experimenters]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "faction"
-faction_type: "Research Collective"
-alignment: "Chaotic Neutral (Science over Ethics)"
-headquarters: "[[The Fusion Laboratory]] (hidden dimensional pocket)"
-leader: "[[Doctor Prism Voidweaver]]"
-members: "~150 researchers and test subjects"
-influence: "Secretive but Growing"
-purpose: "Merge shadow and crystal energies"
-created_by: "auto-stub"
+tags:
+- both-aethermoor-&-aquabyssos
+- complete
+- cross-realm
+- experimenters
+- faction
+- group
+- researchers
+- shadow-crystal
+- synthesis
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Group
+faction_type: Research Collective
+alignment: Chaotic Neutral (Science over Ethics)
+headquarters: '[[The Fusion Laboratory]] (hidden dimensional pocket)'
+leader: '[[Doctor Prism Voidweaver]]'
+members: ~150 researchers and test subjects
+influence: Secretive but Growing
+purpose: Merge shadow and crystal energies
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:51.508238+00:00'
 ---
+
+
+
 
 # The Shadow-Crystal Synthesis
 *Pioneers of Forbidden Integration, Masters of Impossible Science*
@@ -428,3 +441,11 @@ Ethical obligations toward experimental subjects:
 - Internal politics provide opportunities for espionage and infiltration storylines
 - Crisis response protocols create time-sensitive adventure opportunities
 - Long-term projects provide campaign-spanning goals and consequences
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Emperor Thalassius the Wise]]
+- [[The Threshold Chambers]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]

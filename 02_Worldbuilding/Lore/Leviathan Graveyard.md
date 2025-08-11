@@ -1,12 +1,22 @@
 ---
-tags: [lore, location, leviathan, graveyard, ancient-remains, underwater]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- ancient-remains
+- aquabyssos
+- complete
+- graveyard
+- leviathan
+- location
+- lore
+- underwater
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.645881+00:00'
 ---
+
+
 
 # Leviathan Graveyard
 
@@ -44,3 +54,12 @@ Exploration can take days or weeks due to vast size.
 
 ## Campaign Use
 Provides atmospheric location for horror-themed adventures, archaeological quests, and encounters with ancient powers.
+
+
+## Connections
+
+- [[Temple of the First Tide]]
+- [[Thalassius the Wise]]
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Seven Shards]]

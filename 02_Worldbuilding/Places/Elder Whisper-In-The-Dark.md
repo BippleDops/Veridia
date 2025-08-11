@@ -1,22 +1,37 @@
 ---
-tags: [character, npc, elder, whisper, darkness, aquabyssos, mystic, shadowkeeper, ancient, wisdom]
-status: "complete"
-world: "Aquabyssos"
-type: "character"
-created_by: "auto-stub"
+tags:
+- ancient
+- aquabyssos
+- character
+- complete
+- darkness
+- elder
+- mystic
+- npc
+- shadowkeeper
+- whisper
+- wisdom
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Shadow Elder"
-faction: "The Whisper Circle"
-class: "Warlock/Cleric"
+updated: '2025-08-11T13:08:50.787817+00:00'
+character_type: Shadow Elder
+faction: The Whisper Circle
+class: Warlock/Cleric
 level: 16
 cr: 13
-occupation: "Keeper of Hidden Knowledge"
-location: "The Shadowed Sanctum, Deep Aquabyssos"
+occupation: Keeper of Hidden Knowledge
+location: The Shadowed Sanctum, Deep Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Elder Whisper-In-The-Dark
 *Guardian of Forbidden Truths*
@@ -230,7 +245,7 @@ Elder Whisper's extra-dimensional allies face a crisis that threatens their coop
 
 ### Artifacts of Power
 
-**Robes of the Void** - Legendary garments woven from shadow and starlight, providing AC 19 and immunity to charm and fear effects while granting limited flight.
+**Robes of the Void** - Legendary garments woven from shadow and starlight, providing AS 19 and immunity to charm and fear effects while granting limited flight.
 
 **The Whisper Stone** - Ancient artifact allowing communication across dimensions and planes, serving as focus for Elder Whisper's telepathic network.
 
@@ -273,3 +288,13 @@ Elder Whisper's cosmic connections provide opportunities to introduce Lovecrafti
 Her knowledge of cosmic threats can serve as basis for high-level adventures involving interdimensional travel, cosmic politics, and reality manipulation.
 
 DMs should consider how exposure to Elder Whisper's knowledge might permanently affect characters, potentially changing their fundamental understanding of reality.
+
+
+## Connections
+
+- [[Shadow Independence Levels]]
+- [[Admiral Thorne Blackwater]]
+- [[Memory Harvester Kythara]]
+- [[Sage Lysander Deepthought]]
+- [[The Cerulean Trench]]
+- [[The Primordial Vaults]]

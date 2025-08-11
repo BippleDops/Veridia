@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Identity Crisis Resolution
 
 ![Identity Crisis Resolution Portrait](04_Resources/Assets/Art/Lore/Identity_Crisis_Resolution.png)

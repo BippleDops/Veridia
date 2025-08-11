@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # The Divine Trial
 
 ![The Divine Trial Portrait](04_Resources/Assets/Art/Places/The_Divine_Trial.png)

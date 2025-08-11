@@ -6,6 +6,8 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
+
 # Memory Absorption Rules
 
 ## Summary

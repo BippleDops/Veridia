@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, restaurant, culinary, gastropod, famous, entertainment, business, food]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Famous Underwater Restaurant"
-parent_location: "Harbor District"
-depth: "2,800 feet"
-danger_level: 1
-population: "~150 staff and patrons at peak times"
-government: "Private business establishment"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.099980+00:00'
+created: '2025-08-11T13:08:51.099980+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Gastropod's Kitchen
 *Premier Culinary Destination of the Deep Realm*
@@ -258,3 +253,8 @@ The Gastropod's Kitchen stands as the undisputed crown jewel of underwater cuisi
 - [[Underwater Cuisine Techniques]]
 - [[Diplomatic Dining Protocol]]
 - [[Rare Ingredient Network]]
+
+
+## Connections
+
+- [[Pearl_Harbor_City]]

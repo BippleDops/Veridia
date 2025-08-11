@@ -1,11 +1,36 @@
 ---
-tags: [lore, artifact, royal_regalia, celestial_power, convergence, dual_world, stellar_magic]
-status: "completed"
-type: "legendary_artifact"
-world: "dual"
-connections: ["[[Queen Seraphina]]", "[[Aethermoor]]", "[[The Forgotten Isles]]", "[[Time's Mercy]]", "[[The Emperor's Gambit]]", "[[Deep Mother]]"]
-themes: ["celestial_authority", "sacrifice_of_rulers", "stellar_alignment", "dual_world_sovereignty", "price_of_power"]
+tags:
+- artifact
+- celestial_power
+- completed
+- convergence
+- dual
+- dual_world
+- legendary_artifact
+- lore
+- royal_regalia
+- stellar_magic
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[Queen Seraphina]]'
+- '[[Aethermoor]]'
+- '[[The Forgotten Isles]]'
+- '[[Time''s Mercy]]'
+- '[[The Emperor''s Gambit]]'
+- '[[Deep Mother]]'
+themes:
+- celestial_authority
+- sacrifice_of_rulers
+- stellar_alignment
+- dual_world_sovereignty
+- price_of_power
+updated: '2025-08-11T13:08:49.247090+00:00'
+created: '2025-08-11T13:08:49.247090+00:00'
 ---
+
+
 
 # The Crown of Stars
 
@@ -179,3 +204,18 @@ Each ruler who has worn the crown has faced the same impossible choice: remain h
 As the convergence approaches its climax, Queen Seraphina and the Crown of Stars represent both the greatest hope and the greatest threat to the survival of [[Aethermoor]] and [[Aquabyssos]]. Whether the crown's power will save or damn both worlds may depend less on the wearer's intentions and more on whether some costs are simply too high to pay - even for salvation itself.
 
 *"To wear the stars is to become the void between them - necessary darkness that defines the light, but darkness nonetheless."* - Final entry in the Journal of Queen Celestine the Star-Touched
+
+
+## Connections
+
+- [[The Convergence Point]]
+- [[The Final Choice]]
+- [[The Great Crystallization]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[The Shattering of the Crown]]
+- [[The Threshold]]
+- [[Keeper of the Shattered Crown, Marcus Crystalvein]]
+- [[Lord Aurelius Goldwave]]
+- [[Order of the Shattered Crown]]
+- [[Scholar Vivienne the Chronicler]]

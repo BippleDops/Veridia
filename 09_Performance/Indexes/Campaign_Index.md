@@ -1,11 +1,25 @@
 ---
-type: index
-tags: [index, navigation, performance]
-aliases: ["Campaign Index", "Quick Navigation"]
+type: Lore
+tags:
+- both
+- draft
+- index
+- navigation
+- performance
+aliases:
+- Campaign Index
+- Quick Navigation
 created: 2025-08-05
 modified: 2025-08-05
-cssclasses: [wide-page, index-page]
+cssclasses:
+- wide-page
+- index-page
+world: Both
+updated: '2025-08-11T13:08:51.534430+00:00'
+status: draft
 ---
+
+
 
 # 📚 Campaign Master Index
 

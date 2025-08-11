@@ -1,21 +1,17 @@
 ---
-tags: [location, aethermoor, harbor, port, maritime, trade, commerce, crystal, magic]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Major Harbor Port"
-parent_location: "Aethermoor"
-danger_level: 3
-population: "~12,000 permanent residents, 20,000+ daily workers and travelers"
-government: "Harbor Authority under Crown jurisdiction"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.018106+00:00'
+created: '2025-08-11T13:08:51.018106+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Saltbeard Harbor
 *Where Crystal Ships Meet Sky and Sea*
@@ -726,3 +722,11 @@ Saltbeard Harbor stands as the premier maritime gateway to [[Aethermoor]], a spr
 - [[Crystal Storm Barriers]]
 - [[Harbor Defense Grid]]
 - [[Skyship Technology]]
+
+
+## Connections
+
+- [[Harbor District]]
+- [[Port Meridian Harbor]]
+- [[Port Meridian]]
+- [[Campaign_Relationship_Matrix]]

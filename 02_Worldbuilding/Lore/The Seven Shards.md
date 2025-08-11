@@ -1,14 +1,22 @@
 ---
 tags:
-  - lore
-  - artifact
-  - divine
-  - shards
+- artifact
+- both
+- divine
+- draft
+- lore
+- shards
 type: Lore
 importance: Campaign-Defining
 created: 2024-12-20
-image: "04_Resources/Assets/Lore/seven_shards.jpg"
+image: 04_Resources/Assets/Lore/seven_shards.jpg
+world: Both
+updated: '2025-08-11T13:08:48.873876+00:00'
+status: draft
 ---
+
+
+
 
 # The Seven Shards
 *Fragments of Godhood Scattered Across the World*
@@ -279,3 +287,32 @@ If party gathers all seven:
 ## DM Secrets
 > [!warning] Ultimate Truth
 > The Shards aren't just fragments—they're Aetheron's attempt to experience mortality through division. Each represents an aspect of divinity experiencing mortal existence. The Golden Shard in Aria is his heart, experiencing innocence and growth. Reunification means choosing between godhood's power and mortality's meaning.
+
+## Connections
+
+- [[Aetheron]]
+- [[Aquabyssos Trade Seal]]
+- [[Crystal Festival]]
+- [[Crystal Garden]]
+- [[Crystal Guard Elite]]
+- [[Customs House]]
+- [[Merged Reality Zones]]
+- [[Possessed Noble Coterie]]
+- [[Silver Mask]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Final Choice]]
+- [[The Queen]]
+- [[The Silverscale Conspiracy]]
+- [[Throne Room]]
+- [[Crystal Gardens]]
+- [[Smuggler's Cove]]
+- [[The Gilded Shard]]
+- [[Aether Crystals]]
+- [[Ambush Point]]
+- [[Crystalline Depths]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Campaign_Relationship_Matrix]]

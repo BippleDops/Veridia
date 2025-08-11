@@ -1,24 +1,17 @@
 ---
-tags: [location, aquabyssos, abyssal-zone, void-corruption, cosmic-horror, natural-feature]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Abyssal Trench"
-depth: "18,000-25,000 feet"
-danger_level: "Catastrophic"
-population: "Unknown (Non-Euclidean Entity Presence)"
-ruler: "The Void Touched Oracle"
-environment_type: "Corrupted Abyssal Wilderness"
-temperature: "Near-freezing (32°F/0°C)"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-aliases: ["The Screaming Abyss", "Void Scar", "The Hungry Deep"]
-  - Category/Place
-MyContainer: None
-MyCategory: Natural Feature
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.443017+00:00'
+created: '2025-08-11T13:08:50.443017+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Void Touched Depths
 *Where Reality Fractures and the Hungry Dark Feeds*
@@ -481,3 +474,12 @@ New religious movement worshipping the Oracle:
 *"In the end, we learned that some mysteries are meant to remain unsolved—not because they're complex, but because understanding them means ceasing to exist. The void doesn't just kill you. It makes it so you never were, and that's a fate infinitely worse than death."*
 
 —Final log entry of the *Deep Discovery*, recorded after the ship's destruction
+
+## Connections
+
+- [[Luminous Hollow]]
+- [[Port Meridian Harbor]]
+- [[Secret Vault Beneath Throne]]
+- [[The Forgotten One]]
+- [[The Shadow Markets]]
+- [[Vote Vaults]]

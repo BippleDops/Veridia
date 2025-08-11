@@ -1,14 +1,30 @@
 ---
-tags: [lore, marina, identity-crisis, memory-alteration, shadow-corruption, aquabyssos, aethermoor, dimensional-anchor, convergence, truth, reality-manipulation]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Character Truth"
-significance: "Campaign-Critical"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both
+- complete
+- convergence
+- dimensional-anchor
+- identity-crisis
+- lore
+- marina
+- memory-alteration
+- reality-manipulation
+- shadow-corruption
+- truth
+status: complete
+world: Both
+type: Lore
+category: Character Truth
+significance: Campaign-Critical
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.880087+00:00'
 ---
+
+
+
 
 # The Real Marina
 *The Truth Behind the Identity Crisis*
@@ -34,7 +50,7 @@ Each Marina believes herself to be the "real" one, with memories that contradict
 
 ### Background and History
 **Personal Details:**
-- Age: 28 (born 572 AS - After Submersion)
+- Age: 28 (born 572 AC - After Submersion)
 - Occupation: Senior Pressure Engineer, [[Silverscale Banking House]]
 - Residence: Mid-bathyal zone of [[02_Worldbuilding/Places/Parliament of Echoes]]
 - Family: Daughter of renowned [[Memory Merchant]] Thalassa Depthborn
@@ -461,3 +477,20 @@ Her decision directly affects:
 ---
 
 *"The question is not which Marina is real, but whether reality is large enough to contain them both."*
+
+
+## Connections
+
+- [[Crystal Garden]]
+- [[Customs House]]
+- [[Healing Two Worlds]]
+- [[Memory Alteration Consequences]]
+- [[Merged Reality Zones]]
+- [[The Crimson Hand]]
+- [[The Drowning Welcome]]
+- [[The Forgetting Bomb]]
+- [[The Memory Weapon Arms Race]]
+- [[The Queen]]
+- [[The Transformed Citizens]]
+- [[Throne Room]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]

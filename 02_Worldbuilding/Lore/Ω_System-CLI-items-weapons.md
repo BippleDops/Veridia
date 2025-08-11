@@ -1,12 +1,20 @@
 ---
-tags: [lore, weapons, crafting, combat, artifacts]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- artifacts
+- combat
+- complete
+- crafting
+- lore
+- weapons
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:49.440484+00:00'
 ---
+
 
 # Weapons of the Split Realms: Steel, Crystal, and Corruption
 

@@ -1,11 +1,31 @@
 ---
-tags: [lore, event, heroic_sacrifice, political_corruption, aquabyssos, deep_mother]
-status: "completed"
-type: "historical_event"
-world: "aquabyssos"
-connections: ["[[Senator Glaucus]]", "[[Parliament of Echoes]]", "[[Deep Mother]]", "[[Tidal Council]]", "[[Abyssos Prime]]"]
-themes: ["corruption_versus_duty", "political_sacrifice", "cosmic_horror_infiltration", "heroic_final_act"]
+tags:
+- aquabyssos
+- completed
+- deep_mother
+- event
+- heroic_sacrifice
+- historical_event
+- lore
+- political_corruption
+status: completed
+type: Lore
+world: aquabyssos
+connections:
+- '[[Senator Glaucus]]'
+- '[[Parliament of Echoes]]'
+- '[[Deep Mother]]'
+- '[[Tidal Council]]'
+- '[[Abyssos Prime]]'
+themes:
+- corruption_versus_duty
+- political_sacrifice
+- cosmic_horror_infiltration
+- heroic_final_act
+created: '2025-08-11T13:08:48.771977+00:00'
+updated: '2025-08-11T13:08:48.771977+00:00'
 ---
+
 
 # The Senator's Last Stand
 

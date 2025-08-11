@@ -1,14 +1,28 @@
 ---
-tags: [location, aquabyssos, city, capital, underwater]
+tags:
+- active---category/place
+- aquabyssos
+- both
+- capital
+- city
+- location
+- underwater
 region: Aquabyssos - Twilight Depth
-type: City
+type: Location
 danger: Medium-High
-status: Active
-  - Category/Place
+status: Active - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.213163+00:00'
+created: '2025-08-11T13:08:50.213163+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # New Thalassopolis
 
@@ -229,3 +243,12 @@ Some citizens are transforming beyond even Hadean levels:
 - Stop/assist the Second Drowning preparations
 - Find the resistance movement helping people escape
 - Discover what the city itself is dreaming
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Forge of War]]
+- [[Campaign_Relationship_Matrix]]

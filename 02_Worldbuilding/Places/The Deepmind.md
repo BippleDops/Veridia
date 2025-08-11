@@ -1,20 +1,31 @@
 ---
-tags: [location, dungeon, aquabyssos, aboleth-lair, psychic, living-structure, memory, major-location]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-category: "Dungeon/Lair"
-depth: "3000-5000 feet"
-difficulty: "Levels 16-20"
-ruler: "[[02_Worldbuilding/People/Aboleth Prime Yoth]]"
-created_by: "auto-stub"
+tags:
+- aboleth-lair
+- aquabyssos
+- complete
+- dungeon
+- living-structure
+- location
+- major-location
+- memory
+- psychic
+status: complete
+world: Aquabyssos
+type: Location
+category: Dungeon/Lair
+depth: 3000-5000 feet
+difficulty: Levels 16-20
+ruler: '[[02_Worldbuilding/People/Aboleth Prime Yoth]]'
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Place
+updated: '2025-08-11T13:08:51.160596+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # The Deepmind
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne*
@@ -289,3 +300,21 @@ Yoth can take one lair action per round:
 ---
 
 *"In the depths of The Deepmind, you are what you remember—nothing more, nothing less."*
+
+
+## Connections
+
+- [[Discover Marina's Truth]]
+- [[Sanity System]]
+- [[Admiral Thorne Blackwater]]
+- [[Duke Cyrus Reefheart]]
+- [[Sage Lysander Deepthought]]
+- [[Aboleth Adjunct Yzz]]
+- [[Amnesia Gallery]]
+- [[Pressure's End]]
+- [[The Cerulean Trench]]
+- [[The Primordial Vaults]]
+- [[The Whispering Depths]]
+- [[Vault Breach]]
+- [[Ambush Point]]
+- [[The Sunken Library of Thalassius]]

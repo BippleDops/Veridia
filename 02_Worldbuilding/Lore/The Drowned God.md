@@ -1,11 +1,33 @@
 ---
-tags: [lore, deity, creation_myth, drowning, sacrifice, dual_world, transformation]
-status: "completed"
-type: "creation_myth"
-world: "dual"
-connections: ["[[The Great Drowning]]", "[[Aquabyssos]]", "[[Deep Mother]]", "[[Tide Turner's Trident]]", "[[Ancient Aquabyssos Rulers]]"]
-themes: ["sacrifice_of_divinity", "necessary_transformation", "protective_drowning", "dual_nature_deity"]
+tags:
+- completed
+- creation_myth
+- deity
+- drowning
+- dual
+- dual_world
+- lore
+- sacrifice
+- transformation
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[The Great Drowning]]'
+- '[[Aquabyssos]]'
+- '[[Deep Mother]]'
+- '[[Tide Turner''s Trident]]'
+- '[[Ancient Aquabyssos Rulers]]'
+themes:
+- sacrifice_of_divinity
+- necessary_transformation
+- protective_drowning
+- dual_nature_deity
+updated: '2025-08-11T13:08:48.352032+00:00'
+created: '2025-08-11T13:08:48.352032+00:00'
 ---
+
+
 
 # The Drowned God
 
@@ -152,3 +174,9 @@ The Drowned God embodies the fundamental question of whether protective sacrific
 The answer may determine whether the approaching convergence represents an opportunity for transcendence or a trap leading to cosmic horror dominion.
 
 *"In drowning, we learn to breathe new truths. In breathing new truths, we discover what parts of ourselves were always meant to drown."* - Inscription at the First Temple of Sacred Depths
+
+
+## Connections
+
+- [[Tide Turner's Trident]]
+- [[Aethermoor - Session 08 Between Two Worlds]]

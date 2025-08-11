@@ -1,9 +1,25 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aethermoor, citizens, meridian, population, society, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aethermoor
+- both
+- citizens
+- complete
+- lore
+- meridian
+- population
+- society
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:47.950315+00:00'
+created: '2025-08-11T13:08:47.950315+00:00'
+type: Lore
 ---
+
+
+
 
 # Citizens of Meridian
 
@@ -135,3 +151,10 @@ Use Meridian citizens as bridges between different aspects of your campaign, pro
 
 ### Customization Options
 Adjust the complexity and influence of Meridian citizens based on your campaign's focus on inter-realm relations and cultural integration themes.
+
+
+## Connections
+
+- [[Crystal Festival Grounds]]
+- [[Lamplight Alley]]
+- [[Pressure Tube Operator Krill]]

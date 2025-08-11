@@ -1,28 +1,18 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.005654+00:00'
+created: '2025-08-11T13:08:50.005654+00:00'
+status: draft
 tags:
-  - npc
-  - elemental_master
-  - water_elemental
-  - aquabyssos
-  - trade_controller
-  - current_rider
-  - navigation_expert
-  - economic_power
+- both
+- draft
 type: NPC
-race: Water Elemental (Humanoid Form)
-class: Storm Sorcerer/Ranger
-level: 14
-alignment: Lawful Neutral (Pragmatic)
-location: "[[02_Worldbuilding/Places/The Current Nexus]]"
-faction: "[[The Current Riders Guild]]"
-status: Active (Elemental Essence)
-created: 2025-08-09
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+cr: '13'
 ---
+
+
+
+
 
 # Master of Currents Zephyr
 *The Tide's Commander, He Who Rides the Deep Flows, Lord of Liquid Roads*
@@ -189,3 +179,9 @@ Master of Currents Zephyr is the supreme authority over water movement and under
 - [[02_Worldbuilding/Quests/Economic Warfare]] - His expertise in trade manipulation
 - [[Quest - The Deep Cartographer]] - Mapping unknown currents
 - [[02_Worldbuilding/Quests/Diplomatic Tides]] - Cross-realm trade negotiations
+
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]
+- [[The Pearl Guard]]

@@ -1,9 +1,24 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, mechanics, adaptation, pressure, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- adaptation
+- aquabyssos
+- both
+- complete
+- lore
+- mechanics
+- pressure
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.721933+00:00'
+created: '2025-08-11T13:08:48.721933+00:00'
+type: Lore
 ---
+
+
+
 
 # Depth Adaptation Points
 
@@ -129,3 +144,11 @@ Use DAP as both mechanical limitation and character development opportunity. All
 
 ### Customization Options
 Adjust DAP requirements based on campaign focus - stricter for survival-heavy games, more lenient for exploration-focused adventures, or use as plot gates for story progression.
+
+
+## Connections
+
+- [[Citizens of Meridian]]
+- [[Pressure Tube Operator Krill]]
+- [[Session 0 - Aquabyssos]]
+- [[Luminous Hollow]]

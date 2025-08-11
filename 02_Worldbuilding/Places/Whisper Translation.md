@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Whisper Translation
 
 ![Whisper Translation Portrait](04_Resources/Assets/Art/Places/Whisper_Translation.png)

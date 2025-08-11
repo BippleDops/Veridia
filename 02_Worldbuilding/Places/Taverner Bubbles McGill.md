@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Taverner Bubbles McGill
 
 ![Taverner Bubbles McGill Portrait](04_Resources/Assets/Art/Places/Taverner_Bubbles_McGill.png)

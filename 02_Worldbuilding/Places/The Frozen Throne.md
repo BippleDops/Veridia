@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, ruins, ancient, throne, ice, curse, abandoned, mystery]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Cursed Ancient Palace"
-parent_location: "The Sunken Wastes"
-depth: "18,000 feet"
-danger_level: 9
-population: "None (abandoned for 500 years)"
-government: "Former seat of the Ice Kingdom (defunct)"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.608735+00:00'
+created: '2025-08-11T13:08:50.608735+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Frozen Throne
 *Where Winter Never Ends*
@@ -622,3 +617,8 @@ The Frozen Throne stands as one of [[Aquabyssos]]'s most mysterious and dangerou
 - [[Scepter of Winter's Command]]
 - [[Curse of Eternal Winter]]
 - [[Ice Kingdom Magic]]
+
+
+## Connections
+
+- [[Old Valdris]]

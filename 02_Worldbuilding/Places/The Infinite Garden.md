@@ -1,31 +1,16 @@
 ---
-tags: [location, aquabyssos, recursive-reality, exploration]
-type: "location"
-campaign: "Aquabyssos"
-location_type: "Recursive Dimension"
-depth: "3,500-4,000 ft"
-danger_level: 9
-population: "∞ (Each crystal tree contains a universe)"
-notable_features:
-  - "Crystal trees containing recursive realities"
-  - "Infinite regression of smaller gardens"
-  - "Probability flowers that bloom all possibilities"
-  - "The Fractal Fountain of endless depth"
-faction_control: "[[The Recursion Cult]]"
-connected_locations:
-  - "[[Crystallium]]"
-  - "[[02_Worldbuilding/Places/The Inverse Palace]]"
-  - "[[02_Worldbuilding/Places/The Primordial Vaults]]"
-environment_effects:
-  - "Reality Recursion (DC 17 INT save or get lost in nested realities)"
-  - "Infinite Regression (size categories become meaningless)"
-  - "Probability Collapse (all dice rolls use d12s)"
-image: "04_Resources/Assets/locations/infinite-garden.webp"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.307091+00:00'
+created: '2025-08-11T13:08:50.307091+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Infinite Garden
 

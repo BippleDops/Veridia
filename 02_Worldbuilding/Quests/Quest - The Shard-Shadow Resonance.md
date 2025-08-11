@@ -1,22 +1,32 @@
 ---
-tags: [quest, cross-realm, seven-shards, deep-mother, cosmic-threat, investigation]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "quest"
-quest_type: "Cross-Realm Investigation"
-difficulty: "Epic (Levels 10-20)"
-patron: "[[The Void Watchers]] or [[Scholar Vivienne the Chronicler]]"
-location: "Multiple sacred sites in both realms"
-created_by: "auto-stub"
+tags:
+- both-aethermoor-&-aquabyssos
+- complete
+- cosmic-threat
+- cross-realm
+- deep-mother
+- investigation
+- quest
+- seven-shards
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Lore
+quest_type: Cross-Realm Investigation
+difficulty: Epic (Levels 10-20)
+patron: '[[The Void Watchers]] or [[Scholar Vivienne the Chronicler]]'
+location: Multiple sacred sites in both realms
+created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-10
-quest_length: "Epic Campaign Arc (30-40 sessions)"
-sessions_per_act: "4-10 sessions each"
+updated: '2025-08-11T13:08:50.025383+00:00'
+quest_length: Epic Campaign Arc (30-40 sessions)
+sessions_per_act: 4-10 sessions each
 total_acts: 5
 legendary_items: 4
 epic_encounters: 16
-world_consequences: "Reality-altering"
+world_consequences: Reality-altering
 ---
+
+
 
 # Quest - The Shard-Shadow Resonance
 *When Ancient Powers Stir in Harmony*

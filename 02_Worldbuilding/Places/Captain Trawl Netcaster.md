@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Captain Trawl Netcaster
 
 ![Captain Trawl Netcaster Portrait](04_Resources/Assets/Art/Places/Captain_Trawl_Netcaster.png)

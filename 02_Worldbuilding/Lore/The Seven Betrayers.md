@@ -1,19 +1,43 @@
 ---
-tags: [lore, history, betrayal, ancient-conspiracy, seven-shards, crown-shattering, aethermoor, political-intrigue, divine-betrayal, pre-crystallization]
-status: "complete"
-world: "Aethermoor"
-type: "Historical Event"
-category: "Ancient Conspiracy"
-significance: "World-Defining"
-time_period: "Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)"
-scale: "Continental"
-participants: ["God-King Aetheron", "Seven Trusted Advisors", "Divine Court"]
-outcome: "Catastrophic Success - Crown Shattered, Crystallization Triggered"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- ancient-conspiracy
+- betrayal
+- complete
+- crown-shattering
+- divine-betrayal
+- historical-event
+- history
+- lore
+- political-intrigue
+- pre-crystallization
+- seven-shards
+status: complete
+world: Aethermoor
+type: Lore
+category: Ancient Conspiracy
+significance: World-Defining
+time_period: Pre-Crystallization Era, Year 1 BGC (Before Great Crystallization)
+scale: Continental
+participants:
+- God-King Aetheron
+- Seven Trusted Advisors
+- Divine Court
+outcome: Catastrophic Success - Crown Shattered, Crystallization Triggered
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-11
-related_entities: ["[[The Great Crystallization]]", "[[The Seven Shards]]", "[[The Crown of Stars]]", "[[Aetheron]]", "[[The Shattering of the Crown]]"]
+related_entities:
+- '[[The Great Crystallization]]'
+- '[[The Seven Shards]]'
+- '[[The Crown of Stars]]'
+- '[[Aetheron]]'
+- '[[The Shattering of the Crown]]'
+updated: '2025-08-11T13:08:48.554555+00:00'
 ---
+
+
+
 
 # The Seven Betrayers
 *The Conspirators Who Broke the World to Steal Divinity*
@@ -503,3 +527,19 @@ These questions have no easy answers, making the legacy of the Seven Betrayers a
 
 *"Seven hands reached for the stars, and seven stars fell to earth. In their falling, they lit the world on fire - but also illuminated the darkness in mortal hearts."*  
 *- Chronicle of the Shattering, [[Aethermoor Archives]]*
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]
+- [[The Final Choice]]
+- [[The Great Convergence Prophecies]]
+- [[The Great Crystallization]]
+- [[The Restoration Movement]]
+- [[The Shattering of the Crown]]
+- [[The Silverscale Conspiracy]]
+- [[The Threshold]]
+- [[Lord Aurelius Goldwave]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,18 +1,30 @@
 ---
-tags: [lore, environmental-mechanics, pressure-effects, depth-adaptation, biological-systems, aquabyssos, underwater-survival, quick-reference, environmental-hazards]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Environmental Reference Guide"
-significance: "Essential Survival Information"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- biological-systems
+- complete
+- depth-adaptation
+- environmental-hazards
+- environmental-mechanics
+- lore
+- pressure-effects
+- quick-reference
+- underwater-survival
+status: complete
+world: Aquabyssos
+type: Lore
+category: Environmental Reference Guide
+significance: Essential Survival Information
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-reference_type: "Depth-Based Environmental Effects"
-scope: "Underwater Environmental Conditions"
-application: "Field Reference and Survival Planning"
-complexity: "Moderate to Advanced"
+updated: '2025-08-11T13:08:48.096435+00:00'
+reference_type: Depth-Based Environmental Effects
+scope: Underwater Environmental Conditions
+application: Field Reference and Survival Planning
+complexity: Moderate to Advanced
 ---
+
+
 
 # Depth Effect Quick Reference
 *Essential Guide to Underwater Environmental Pressure and Biological Adaptation*
@@ -617,3 +629,8 @@ Characters specialized in different depth ranges develop unique capabilities:
 - **[[Professional Divers Association]]** - Training and certification body
 
 The Depth Effect Quick Reference serves as both a practical survival guide and a framework for understanding how the underwater environment shapes daily life, professional activities, and adventure opportunities in [[Aquabyssos]].
+
+## Connections
+
+- [[Pressure Adaptation System]]
+- [[Underwater Breathing]]

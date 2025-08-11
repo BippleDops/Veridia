@@ -1,11 +1,21 @@
 ---
-tags: [organization, military, patrol, deep-sea]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-sea
+- military
+- organization
+- patrol
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.177335+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Deep Patrol
 
@@ -141,3 +151,10 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 
 ## DM Notes
 The Deep Patrol provides opportunities for extreme environment adventures, military campaigns, and exploration of deep-sea mysteries. Their specialized equipment and training make them valuable allies or formidable opponents in appropriate scenarios.
+
+
+## Connections
+
+- [[Harbor District]]
+- [[Pressure Terminal]]
+- [[Pressure's End]]

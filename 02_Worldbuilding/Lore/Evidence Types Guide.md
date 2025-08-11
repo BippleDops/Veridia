@@ -1,17 +1,32 @@
 ---
-tags: [investigation, evidence-classification, forensic-categories, hidden-knowledge, conspiracy-detection, aquabyssos-aethermoor, secret-investigation, methodology, reference-guide]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-system_type: "Classification Reference"
-scope: "Multiversal - applicable to all investigation activities"
+tags:
+- aquabyssos-aethermoor
+- both-worlds
+- complete
+- conspiracy-detection
+- evidence-classification
+- forensic-categories
+- hidden-knowledge
+- investigation
+- lore
+- methodology
+- reference-guide
+- secret-investigation
+status: complete
+world: Both Worlds
+type: Lore
+system_type: Classification Reference
+scope: Multiversal - applicable to all investigation activities
 complexity_level: 7
-application_period: "Comprehensive guide developed over 150 years"
-primary_users: "Investigators, Truth Seekers, Evidence Analysts, Conspiracy Researchers"
-created_by: "auto-stub"
+application_period: Comprehensive guide developed over 150 years
+primary_users: Investigators, Truth Seekers, Evidence Analysts, Conspiracy Researchers
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.817113+00:00'
 ---
+
+
+
 
 # Evidence Types Guide
 *Comprehensive Classification System for All Forms of Investigative Evidence*
@@ -561,3 +576,11 @@ Certain evidence categories require specialized preservation methods.
 *"Evidence is the foundation upon which all truth is built. Without proper understanding of evidence - its nature, its limitations, its potential for corruption, and its capacity to reveal hidden realities - no investigation can succeed in uncovering the conspiracies that shape our world. The Evidence Types Guide is not merely a reference manual; it is a roadmap to truth itself."*
 
 *- [[Master Archivist Catalogus Veritas]], Preface to "The Complete Investigator's Manual: Evidence Recognition and Analysis"*
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Silver Mask]]
+- [[The Deep Mother]]
+- [[The Silverscale Conspiracy]]

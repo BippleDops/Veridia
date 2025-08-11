@@ -1,10 +1,12 @@
 ---
 tags:
-- npc
-- leader
+- both
+- category/people
+- complete
 - depth_wardens
+- leader
 - military
-- Category/People
+- npc
 aliases:
 - Admiral Blackwater
 - The Iron Admiral
@@ -33,7 +35,13 @@ in_combat: true
 initiative: 12
 current_hp: 15
 max_hp: 20
+world: Both
+updated: '2025-08-11T13:08:49.817429+00:00'
+type: NPC
 ---
+
+
+
 
 # Admiral Thorne Blackwater
 
@@ -382,3 +390,26 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - [[Quest - The Succession Crisis]] - Preparing for leadership transition
 - [[02_Worldbuilding/Quests/Discover Marina]] - Investigating Marina's true nature and threat level
 - [[Quest - The Family Reconciliation]] - Healing the rift with his son
+
+
+## Connections
+
+- [[Shadow Ambush - Optional]]
+- [[Shadow Surgeons Collective]]
+- [[The Shadow Trade Network]]
+- [[Captain Elara Shadowshard]]
+- [[Envoy Blackwater Jr.]]
+- [[Korvin Blacktide]]
+- [[Azure Citadel]]
+- [[Shadow Merchant Riptide]]
+- [[The Lock]]
+- [[Bandit Leader Scarface]]
+- [[Crystalline Depths]]
+- [[Discover the Singers Beyond]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Lock Saboteur]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]
+- [[Traveling Merchant Finn]]
+- [[Campaign_Relationship_Matrix]]

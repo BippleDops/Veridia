@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aquabyssos, deep-mother, memory-farmer, shadow-touched, servant]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Memory Harvester"
-affiliation: "[[Memory Farmers]] & The Deep Mother's Service"
-age: "42"
-race: "Human (Shadow-Touched)"
-location: "[[Memory Meadows]] - The Harvesting Fields"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- memory-farmer
+- npc
+- person
+- servant
+- shadow-touched
+status: complete
+world: Aquabyssos
+type: NPC
+role: Memory Harvester
+affiliation: '[[Memory Farmers]] & The Deep Mother''s Service'
+age: '42'
+race: Human (Shadow-Touched)
+location: '[[Memory Meadows]] - The Harvesting Fields'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.775739+00:00'
 ---
+
+
 
 # Memory Harvester Kythara
 *Tender of the Mother's Dreams, Shepherd of Forgotten Thoughts*
@@ -724,3 +735,17 @@ The Deep Mother's awakening appears imminent. Kythara must coordinate with other
 - **Character Development**: Her growth from individual healer to cosmic servant can parallel campaign development
 - **Campaign Integration**: Central to memory-related storylines, provides connection to Divine consciousness themes
 - **Power Balance**: Extremely powerful in memory-related situations, vulnerable to physical threats and isolation from sacred sites
+
+## Connections
+
+- [[Abyssal Cathedral]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Memory Merchant Valeria Siltweave]]
+- [[Pressure Angel Benthia]]
+- [[Sister Thalassa the Depth-Touched]]
+- [[The Barnacle]]
+- [[The Shadow Singer Naia]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]
+- [[The Crown's Burden]]

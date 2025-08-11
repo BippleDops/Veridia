@@ -1,21 +1,30 @@
 ---
-tags: [quest, aquabyssos, political, negotiation, diplomacy, multi-faction]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-quest_type: "Political Negotiation"
-level_range: "6-10"
-quest_giver: "[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]"
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]], [[The Diplomatic Depths]], [[Deep Embassy]]"
-rewards: "2500 gp, Political Influence, Treaty Benefits, Depth Citizenship"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- diplomacy
+- multi-faction
+- negotiation
+- political
+- quest
+status: complete
+world: Aquabyssos
+type: Lore
+quest_type: Political Negotiation
+level_range: 6-10
+quest_giver: '[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]'
+location: '[[02_Worldbuilding/Places/Parliament of Echoes]], [[The Diplomatic Depths]],
+  [[Deep Embassy]]'
+rewards: 2500 gp, Political Influence, Treaty Benefits, Depth Citizenship
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/Quest
+updated: '2025-08-11T13:08:50.056658+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Diplomatic Tides
 *The Great Negotiation, Waters of Peace, The Deep Summit*
@@ -580,3 +589,9 @@ The party must:
 ---
 
 *"In the depths where light fails and currents shift, three realms meet to shape the future. Here, words carry the weight of armies, and a single phrase might determine whether worlds unite in harmony or drown in war."*
+
+
+## Connections
+
+- [[Rescue Senator Glaucus]]
+- [[The_Second_Rising]]

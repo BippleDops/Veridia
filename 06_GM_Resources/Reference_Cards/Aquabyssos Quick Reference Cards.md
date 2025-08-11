@@ -1,10 +1,22 @@
 ---
-tags: [gm-resource, reference-cards, mechanics, quick-reference]
-type: "reference"
-system: "D&D 5e"
-campaign: "Aquabyssos"
+tags:
+- aquabyssos
+- draft
+- gm-resource
+- mechanics
+- quick-reference
+- reference
+- reference-cards
+type: Lore
+system: D&D 5e
+campaign: Aquabyssos
 created: 2025-08-07
+world: Aquabyssos
+updated: '2025-08-11T13:08:47.032076+00:00'
+status: draft
 ---
+
+
 
 # Aquabyssos Quick Reference Cards
 ## Simplified Mechanics for Fast Play

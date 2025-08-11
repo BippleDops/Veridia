@@ -1,18 +1,36 @@
 ---
-tags: [location, district, diplomatic, international, aethermoor, politics, embassy]
-status: "completed"
-world: "Aethermoor"
-type: "Diplomatic District"
+tags:
+- aethermoor
+- completed
+- diplomatic
+- diplomatic-district
+- district
+- embassy
+- international
+- location
+- politics
+status: completed
+world: Aethermoor
+type: Location
 danger_level: 2
-parent_location: "[[02_Worldbuilding/Places/Port Meridian]]"
+parent_location: '[[02_Worldbuilding/Places/Port Meridian]]'
 population: 8500
-government: "International Diplomatic Council"
-specialties: ["International Relations", "Cultural Exchange", "Trade Negotiations", "Conflict Resolution"]
-established: "Post-Continental War"
+government: International Diplomatic Council
+specialties:
+- International Relations
+- Cultural Exchange
+- Trade Negotiations
+- Conflict Resolution
+established: Post-Continental War
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]", "[[02_Worldbuilding/Places/The Azure Coast]]", "[[02_Worldbuilding/Lore/Continental War]]"]
+updated: '2025-08-11T13:08:50.741485+00:00'
+related_entities:
+- '[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]'
+- '[[02_Worldbuilding/Places/The Azure Coast]]'
+- '[[02_Worldbuilding/Lore/Continental War]]'
 ---
+
+
 
 # The Embassy Quarter
 *Where Nations Meet in Peace*

@@ -1,23 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.325989+00:00'
+created: '2025-08-11T13:08:51.325989+00:00'
+status: draft
 tags:
-  - faction
-  - undead
-  - monster
-  - necromancy
-  - court
-type: Undead Hierarchy
-alignment: Neutral Evil
-headquarters: "[[02_Worldbuilding/Places/The Bone Palace of Sorrows]]"
-leader: "[[Lich-Queen Morwyn the Deathless]]"
-status: Active
-power_level: Regional Threat
-created: 2025-08-09
-image: "04_Resources/Assets/Factions/carrion_court.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
 
 # The Carrion Court
 *In Death We Find True Nobility*

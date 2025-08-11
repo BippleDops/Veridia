@@ -1,15 +1,24 @@
 ---
-tags: [organization, syndicate, criminal, surface, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- criminal
+- organization
+- surface
+- syndicate
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Criminal
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.599445+00:00'
 ---
+
+
+
 
 # Surface Syndicate
 
@@ -106,3 +115,39 @@ Syndicate members blend surface and depth cultural elements, often speaking with
 
 ## DM Notes
 The Surface Syndicate provides excellent opportunities for morally ambiguous adventures. They can serve as employers, antagonists, or uneasy allies depending on circumstances. Their cross-realm nature allows for adventures that span both underwater and surface settings, while their criminal activities offer heist scenarios and underworld intrigue.
+
+
+## Connections
+
+- [[The Barnacle]]
+- [[The_Crimson_Pearl]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

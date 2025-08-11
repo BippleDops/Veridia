@@ -1,17 +1,16 @@
 ---
-tags: [quest, aethermoor, adventure, smuggling, political, intrigue]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-level_range: "3-7"
-estimated_sessions: "4-6"
-quest_type: "Investigation & Heist"
-created_by: "auto-stub"
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.017118+00:00'
+created: '2025-08-11T13:08:50.017118+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Quest - Smuggler's Run
 
@@ -212,3 +211,10 @@ If the characters flee with the cargo:
 - Props: Fake [[Voidstone]] crystals, signet rings, official documents
 
 This quest serves as an excellent introduction to the political complexities of [[Aethermoor]] while providing multiple resolution paths that can significantly impact future adventures in the campaign.
+
+
+## Connections
+
+- [[The Shadow Trade Network]]
+- [[Port Meridian - Noble Quarter]]
+- [[Port Meridian]]

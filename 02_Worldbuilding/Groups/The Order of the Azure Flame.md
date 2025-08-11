@@ -1,14 +1,26 @@
 ---
-type: faction
-tags: [faction, zealots, magic-hunters]
-aliases: [Azure Flame, The Order]
+type: Group
+tags:
+- both
+- draft
+- faction
+- magic-hunters
+- zealots
+aliases:
+- Azure Flame
+- The Order
 created: 2025-07-23 18:50
 modified: 2025-07-23 18:50
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.529742+00:00'
+status: draft
 ---
+
+
+
 # The Order of the Azure Flame
 
 ## General Info
@@ -31,3 +43,8 @@ The Order employs a variety of methods to achieve its goals, from public burning
 - The Order is a major antagonist for any magic-using players.
 - The Order is a good source of conflict and moral ambiguity.
 - The Order is not entirely evil, and some of its members are genuinely trying to protect the world from what they see as a great danger.
+
+
+## Connections
+
+- [[Establish the New Order]]

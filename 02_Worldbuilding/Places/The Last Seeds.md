@@ -1,11 +1,22 @@
 ---
-tags: [quest, artifact, environmental, urgency]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- artifact
+- complete
+- environmental
+- quest
+- urgency
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.809288+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Last Seeds
 
@@ -95,3 +106,38 @@ Success in this quest can fundamentally change the campaign setting, restoring n
 
 ## DM Notes
 This quest combines environmental urgency with political intrigue and dungeon exploration. The time pressure creates natural tension while the large-scale consequences give weight to player actions. Consider how success or failure affects the broader campaign world.
+
+
+## Connections
+
+- [[The Wandering Atoll]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

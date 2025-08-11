@@ -1,20 +1,45 @@
 ---
-tags: [lore, history, catastrophic-event, divine-artifact, crown-of-stars, great-crystallization, aethermoor, world-ending, reality-breaking, shattering]
-status: "complete"
-world: "Aethermoor"
-type: "Historical Event"
-category: "Divine Catastrophe"
-significance: "Reality-Altering"
-time_period: "Year 1 GC - The Moment of Great Crystallization"
-duration: "Instantaneous Event with Eternal Consequences"
-scale: "Multidimensional"
-participants: ["God-King Aetheron", "The Seven Betrayers", "The Crown of Stars", "Reality Itself"]
-outcome: "Crown Shattered, World Transformed, Divinity Scattered"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- catastrophic-event
+- complete
+- crown-of-stars
+- divine-artifact
+- great-crystallization
+- historical-event
+- history
+- lore
+- reality-breaking
+- shattering
+- world-ending
+status: complete
+world: Aethermoor
+type: Lore
+category: Divine Catastrophe
+significance: Reality-Altering
+time_period: Year 1 GC - The Moment of Great Crystallization
+duration: Instantaneous Event with Eternal Consequences
+scale: Multidimensional
+participants:
+- God-King Aetheron
+- The Seven Betrayers
+- The Crown of Stars
+- Reality Itself
+outcome: Crown Shattered, World Transformed, Divinity Scattered
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-11
-related_entities: ["[[The Seven Betrayers]]", "[[The Crown of Stars]]", "[[The Great Crystallization]]", "[[Aetheron]]", "[[The Seven Shards]]"]
+related_entities:
+- '[[The Seven Betrayers]]'
+- '[[The Crown of Stars]]'
+- '[[The Great Crystallization]]'
+- '[[Aetheron]]'
+- '[[The Seven Shards]]'
+updated: '2025-08-11T13:08:49.114116+00:00'
 ---
+
+
+
 
 # The Shattering of the Crown
 *The Moment When Divinity Broke and Reality Bled*
@@ -538,3 +563,12 @@ These questions continue to resonate through Aethermoor culture, politics, and i
 
 *"In breaking the crown, they broke the world - but they also freed it. Whether that freedom was worth the price, only time will tell."*  
 *- **The Crimson Sage**, reflecting on the betrayal of his trusted advisors*
+
+
+## Connections
+
+- [[Eastern Kingdoms]]
+- [[The Great Convergence Prophecies]]
+- [[The Great Crystallization]]
+- [[The Seven Shards]]
+- [[Campaign_Relationship_Matrix]]

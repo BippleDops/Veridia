@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Truth and Madness
 
 ![Truth and Madness Portrait](04_Resources/Assets/Art/Places/Truth_and_Madness.png)

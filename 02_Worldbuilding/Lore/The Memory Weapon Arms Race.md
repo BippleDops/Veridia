@@ -1,14 +1,29 @@
 ---
-tags: [lore, memory-weapons, arms-race, aquabyssos, warfare, technology, memory-alteration, espionage, politics, shadow-corruption, consciousness, psychological-warfare]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Technological Warfare"
-significance: "Major Conflict"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- arms-race
+- complete
+- consciousness
+- espionage
+- lore
+- memory-alteration
+- memory-weapons
+- politics
+- psychological-warfare
+- shadow-corruption
+- technology
+- warfare
+status: complete
+world: Aquabyssos
+type: Lore
+category: Technological Warfare
+significance: Major Conflict
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.313330+00:00'
 ---
+
+
 
 # The Memory Weapon Arms Race
 *The War for Truth in the Depths*
@@ -616,3 +631,9 @@ Every major power began developing memory weapons:
 ---
 
 *"In a world where memories can be weapons, truth becomes the most dangerous casualty of war."*
+
+
+## Connections
+
+- [[The Forgetting Bomb]]
+- [[Rescue Senator Glaucus]]

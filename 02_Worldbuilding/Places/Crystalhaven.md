@@ -1,19 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.203323+00:00'
+created: '2025-08-11T13:08:50.203323+00:00'
+status: draft
 tags:
-  - location
-  - city
-  - capital
-type: City
-region: "[[02_Worldbuilding/Places/Lumengarde]]"
-population: 450,000
-danger_level: Low-Moderate
-created: 2024-12-20
-image: "04_Resources/Assets/Locations/crystalhaven.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Crystalhaven
 *The Crystal Throne, Heart of Aethermoor*
@@ -169,3 +167,17 @@ Where those suffering from crystal corruption seek healing. Run by [[High Priest
 - [[Crystal Wardens]] - Military/Police
 - [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal underground
 - [[02_Worldbuilding/Groups/Purist Coalition]] - Secret opposition cells
+
+
+## Connections
+
+- [[Master Artificers Guild]]
+- [[Eastern Kingdoms 2]]
+- [[The Seven Shards]]
+- [[Abyssos Prime - Pressure Terminal]]
+- [[Ancient Tunnels Beneath Palace]]
+- [[Crystal Gardens]]
+- [[Harbor District Customs House]]
+- [[The Crystal Wardens]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,23 +1,32 @@
 ---
-tags: [faction, group, mercenary-company, combat-specialists, boss-hunting, aethermoor, professional-fighters]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Elite Combat Mercenary Company"
-alignment: "Chaotic Neutral (Professional Warriors)"
-headquarters: "[[The Battle Forge Arena]]"
-leader: "[[Commander Vex Shadowthorn]]"
-members: "~45 elite fighters, ~150 support personnel"
-influence: "Combat Training, Mercenary Services"
-purpose: "Eliminate dangerous creatures and hostile entities"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- boss-hunting
+- combat-specialists
+- complete
+- faction
+- group
+- mercenary-company
+- professional-fighters
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Elite Combat Mercenary Company
+alignment: Chaotic Neutral (Professional Warriors)
+headquarters: '[[The Battle Forge Arena]]'
+leader: '[[Commander Vex Shadowthorn]]'
+members: ~45 elite fighters, ~150 support personnel
+influence: Combat Training, Mercenary Services
+purpose: Eliminate dangerous creatures and hostile entities
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Combat Services
 MyCategory: Mercenary Company
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.461030+00:00'
 ---
+
 
 # Vex Shadowthorn Boss Fight
 *Elite Creature Hunters, Masters of Combat Excellence, The Ultimate Challenge*

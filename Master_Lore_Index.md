@@ -1,14 +1,21 @@
 ---
-tags: [master-index, lore, complete, navigation]
-status: "complete"
-world: "Universal"
-type: "master-index"
-created_by: "Agent-20"
+tags:
+- complete
+- lore
+- master-index
+- navigation
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: Agent-20
 created: 2025-08-11
 last_updated: 2025-08-11
-completion: "100%"
+completion: 100%
 total_lore_entries: 194
+updated: '2025-08-11T13:08:46.950272+00:00'
 ---
+
 
 # Master Lore Index
 *Comprehensive Directory of All Lore, History, and World Knowledge*

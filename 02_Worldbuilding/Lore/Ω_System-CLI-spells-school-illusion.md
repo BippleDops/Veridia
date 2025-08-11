@@ -1,12 +1,20 @@
 ---
-tags: [lore, magic, illusion, spells, deception]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deception
+- illusion
+- lore
+- magic
+- spells
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.532537+00:00'
 ---
+
 
 # The Illusion School: Veils of Reality and Dreams
 

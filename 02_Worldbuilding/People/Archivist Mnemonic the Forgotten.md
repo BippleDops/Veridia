@@ -1,16 +1,29 @@
 ---
-tags: [person, npc, aquabyssos, deep-mother, memory-keeper, forgotten, divine-servant]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-role: "Keeper of Lost Memories"
-affiliation: "[[The Archive of Unremembered Things]]"
-age: "Unknown (memory fragments suggest centuries)"
-race: "Human (Memory-Touched)"
-location: "[[The Archive of Unremembered Things]] - The Forgetting Vaults"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- divine-servant
+- forgotten
+- memory-keeper
+- npc
+- person
+status: complete
+world: Aquabyssos
+type: NPC
+role: Keeper of Lost Memories
+affiliation: '[[The Archive of Unremembered Things]]'
+age: Unknown (memory fragments suggest centuries)
+race: Human (Memory-Touched)
+location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.865326+00:00'
+cr: '5'
 ---
+
+
+
 
 # Archivist Mnemonic the Forgotten
 *Keeper of What Was Lost, Guardian of Unremembered Truth*
@@ -534,3 +547,10 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 - **Character Development**: His search for identity can parallel party members' character growth
 - **Campaign Integration**: Archive serves as neutral ground and information source for multiple faction storylines
 - **Philosophical Themes**: Explores questions of identity, memory, and the value of both remembering and forgetting
+
+## Connections
+
+- [[Memory Merchant Valeria Siltweave]]
+- [[Pressure Angel Benthia]]
+- [[The Cerulean Breath]]
+- [[Campaign_Relationship_Matrix]]

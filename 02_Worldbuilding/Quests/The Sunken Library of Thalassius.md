@@ -1,21 +1,29 @@
 ---
-tags: [quest, exploration, knowledge, aquabyssos, ancient, research, dungeon]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-quest_type: "Exploration/Investigation"
-level_range: "6-10"
-quest_giver: "Scholar Vivienne the Chronicler"
-rewards: "Ancient Knowledge, Magical Tomes, Research Alliance"
-time_limit: "None (but library is slowly collapsing)"
-created_by: "system"
+tags:
+- ancient
+- aquabyssos
+- complete
+- dungeon
+- exploration
+- knowledge
+- quest
+- research
+status: complete
+world: Aquabyssos
+type: Lore
+quest_type: Exploration/Investigation
+level_range: 6-10
+quest_giver: Scholar Vivienne the Chronicler
+rewards: Ancient Knowledge, Magical Tomes, Research Alliance
+time_limit: None (but library is slowly collapsing)
+created_by: system
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.020956+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 # The Sunken Library of Thalassius
 

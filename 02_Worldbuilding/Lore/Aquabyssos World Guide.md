@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Aquabyssos World Guide
 
 ![Aquabyssos World Guide Portrait](04_Resources/Assets/Art/Lore/Aquabyssos_World_Guide.png)

@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Pressure Politics
 
 ![Pressure Politics Portrait](04_Resources/Assets/Art/Places/Pressure_Politics.png)

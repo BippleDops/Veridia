@@ -1,15 +1,31 @@
 ---
-tags: [location, city, gloom_gardens, major_settlement]
-aliases: [Lumengarde, The Living Light, Garden City]
+tags:
+- both
+- city
+- draft
+- gloom_gardens
+- location
+- major_settlement
+aliases:
+- The Living Light
+- Garden City
 created: 2024-12-19
-image: "04_Resources/Assets/Locations/lumengarde.jpg"
-danger_level: "Low-Moderate"
-population: 45000
-  - Category/Place
+image: 04_Resources/Assets/Locations/lumengarde.jpg
+danger_level: Low-Moderate
+population: 45000 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.508907+00:00'
+status: draft
+type: Location
 ---
+
+
+
+
+
 
 # Lumengarde - The Living Light
 
@@ -139,3 +155,38 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 - [[Seeds of the Past]] - Explore pre-drowning agriculture
 - [[The Perfect Symbiosis]] - Help with adaptation experiments
 - [[Garden of Shadows]] - Uncover Deep Garden secrets
+
+
+## Connections
+
+- [[Establish the New Order]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,18 +1,31 @@
 ---
-tags: [faction, group, cross-realm, aethermoor, aquabyssos, convergence, bridging-worlds]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "faction"
-faction_type: "Cross-Realm Organization"
-alignment: "Neutral (with extremist elements)"
-headquarters: "[[The Threshold Chambers]] (exists between worlds)"
-leader: "[[The Mediator]] (identity unknown)"
-members: "~500 across both realms"
-influence: "Growing (operates in shadows)"
-purpose: "Merge Aethermoor and Aquabyssos"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-aethermoor-&-aquabyssos
+- bridging-worlds
+- complete
+- convergence
+- cross-realm
+- faction
+- group
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Group
+faction_type: Cross-Realm Organization
+alignment: Neutral (with extremist elements)
+headquarters: '[[The Threshold Chambers]] (exists between worlds)'
+leader: '[[The Mediator]] (identity unknown)'
+members: ~500 across both realms
+influence: Growing (operates in shadows)
+purpose: Merge Aethermoor and Aquabyssos
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:51.435266+00:00'
 ---
+
+
+
 
 # The Convergence Seekers
 *Bridgers of the Realms, Architects of Unity*
@@ -348,3 +361,26 @@ Their experiments have already created several small reality tears that could ex
 - Their experiments can create temporary adventure locations and unique encounters
 - Moral complexity prevents simple good vs. evil categorization
 - Secret agendas can drive long-term campaign mysteries and revelations
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Deepwatch Guard]]
+- [[The Liminal Trading Company]]
+- [[The Shadow-Crystal Synthesis]]
+- [[The Void Watchers]]
+- [[The Resonance Forge Hammer]]
+- [[The Tidal Shard of Memory]]
+- [[Emperor Thalassius the Wise]]
+- [[Oracle Nerida the Tidereader]]
+- [[The Bloodline Carrier]]
+- [[The Threshold Chambers]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Pretender's Crown]]
+- [[Quest - The Shard-Shadow Resonance]]
+- [[The Sunken Library of Thalassius]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,53 +1,15 @@
 ---
-tags: [session, aethermoor, crystal-plague, whisper-island]
-session: "Session-02"
-date: 
-type: "session"
-players: []
-absent: []
-campaign: "Aethermoor - The Plague of Crystals"
-primary_location: "[[Whisper Island]]"
-locations_visited:
-  - "[[Whisper Island Docks]]"
-  - "[[The Seahawk]]"
-  - "[[02_Worldbuilding/People/Lighthouse Keeper|Lighthouse Keeper's House]]"
-  - "[[01_Campaigns/Aethermoor/Locations/Lighthouse of Storms]]"
-  - "[[Resonance Chamber]]"
-npcs_met:
-  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
-  - "[[Jasper Three-Eyes Flint]]"
-  - "[[02_Worldbuilding/People/Vex Shadowthorn|Vex Shadowthorn]]'s Apprentices"
-  - "[[02_Worldbuilding/People/The Crimson Sage]]" # glimpse only
-encounters:
-  - "[[Crystal Mimics]]"
-  - "[[Infected Experiments]]"
-  - "[[Crimson Hand Apprentices]]"
-quests_started:
-  - "[[The Whisper Island Mystery]]"
-- "[[02_Worldbuilding/Quests/Captain Blackwater's Fate|Captain Blackwater's Fate]]"
-quests_progressed:
-  - "[[Investigate the Crystal Plague]]"
-quests_completed: []
-items_gained:
-  - "Captain Blackwater's coded journal"
-  - "Resonance crystal"
-  - "Spell scroll of Detect Thoughts"
-  - "Map showing seven shard locations (partial)"
-gold_gained: 500
-xp_awarded: 1000
-plot_threads:
-  - "Seven Shards of the Deep God discovered"
-  - "Lighthouse experiments authorized by 'The Sovereign Eye'"
-  - "Something massive moved beneath harbor 3 weeks ago"
-  - "The Crimson Sage sabotaging experiments"
-duration_hours: 4
-level: 3
-danger_level: 7
-corruption_exposure: 3
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.996271+00:00'
+created: '2025-08-11T13:08:46.996271+00:00'
+status: draft
+tags:
+- aethermoor
+- draft
+type: Lore
 ---
+
+
 
 # Session 2: The Lighthouse of Storms
 

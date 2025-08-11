@@ -1,9 +1,21 @@
 ---
-tags: [gm-resource, scene-framing, session-management, templates]
-type: "dm-tool"
-campaign: "Aquabyssos"
+tags:
+- both
+- dm-tool
+- draft
+- gm-resource
+- scene-framing
+- session-management
+- templates
+type: Lore
+campaign: Aquabyssos
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.027738+00:00'
+status: draft
 ---
+
+
 
 # Scene Framing Templates
 ## Strong Opens for Every Session Type

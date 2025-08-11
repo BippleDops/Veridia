@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Shadow Chancellor
 
 ![Shadow Chancellor Portrait](04_Resources/Assets/Art/Places/Shadow_Chancellor.png)

@@ -1,22 +1,17 @@
 ---
-tags: [location, aethermoor, throne, royal, palace, power, ceremony, governance, crystal, divine]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Royal Ceremonial Hall"
-parent_location: "Royal Palace"
-depth: "Surface"
-danger_level: 2
-population: "~50 court officials, guards, and attendants"
-government: "Royal Court of Aethermoor"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.740195+00:00'
+created: '2025-08-11T13:08:50.740195+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Throne Room - Heart of Palace
 *Where Crown and Crystal Meet Divine Authority*
@@ -178,3 +173,10 @@ Permission to wear or use items associated with court ceremony.
 **Crisis Command**: During kingdom-wide emergencies, the throne room provides coordination and resources for large-scale response efforts.
 **Cultural Center**: Major ceremonial events provide opportunities for character involvement in historically significant moments.
 **Information Access**: Court connections provide access to kingdom-wide intelligence and strategic information.
+
+
+## Connections
+
+- [[The Royal Palace]]
+- [[Find the Grief Bomb]]
+- [[Aethermoor - Session 05 The Queens Madness]]

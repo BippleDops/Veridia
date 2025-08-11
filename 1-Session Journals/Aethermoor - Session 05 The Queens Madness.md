@@ -1,48 +1,54 @@
 ---
-tags: [session, aethermoor, crystal-plague, seven-shards, queen-seraphina]
-session: "Session-05"
-date: 
-type: "session"
+tags:
+- aethermoor
+- crystal-plague
+- draft
+- queen-seraphina
+- session
+- seven-shards
+session: Session-05
+date: null
+type: Lore
 players: []
 absent: []
-campaign: "Aethermoor - The Plague of Crystals"
-primary_location: "[[Royal Palace of Meridian]]"
+campaign: Aethermoor - The Plague of Crystals
+primary_location: '[[Royal Palace of Meridian]]'
 locations_visited:
-  - "[[Ancient Siege Tunnels]]"
-  - "[[Crystal Garden]]"
-  - "[[Throne Room]]"
-  - "[[Royal Vault]]"
+- '[[Ancient Siege Tunnels]]'
+- '[[Crystal Garden]]'
+- '[[Throne Room]]'
+- '[[Royal Vault]]'
 npcs_met:
-  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
-  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
-  - "[[Princess Celestia]] (revealed)"
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- '[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[Princess Celestia]] (revealed)'
 encounters:
-  - "[[Crystal Guard Elite]]"
-  - "[[Possessed Noble Coterie]]"
-  - "[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen's Shadow]]"
+- '[[Crystal Guard Elite]]'
+- '[[Possessed Noble Coterie]]'
+- '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
 quests_started:
-  - "[[Save Queen Seraphina]]"
-  - "[[Stop the Crystal Festival Ritual]]"
+- '[[Save Queen Seraphina]]'
+- '[[Stop the Crystal Festival Ritual]]'
 quests_progressed:
-  - "[[The Seven Shards Mystery]]"
-  - "[[Race Against the Festival]]"
+- '[[The Seven Shards Mystery]]'
+- '[[Race Against the Festival]]'
 quests_completed: []
-items_gained: 
-  - "Royal Seal of Authority"
-  - "Crown jewel (shard fragment)"
-  - "Potion of Greater Restoration (3)"
-  - "Queen's personal spellbook"
-  - "Ancient Aquabyssos texts"
+items_gained:
+- Royal Seal of Authority
+- Crown jewel (shard fragment)
+- Potion of Greater Restoration (3)
+- Queen's personal spellbook
+- Ancient Aquabyssos texts
 gold_gained: 0
 xp_awarded: 1500
-plot_threads: 
-  - "Queen fighting possession intermittently"
-  - "Crimson Sage is Princess Celestia"
-  - "Palace foundation contains underwater gate"
-  - "High Inquisitor's son is key to shard"
-  - "One party member carries the bloodline"
+plot_threads:
+- Queen fighting possession intermittently
+- Crimson Sage is Princess Celestia
+- Palace foundation contains underwater gate
+- High Inquisitor's son is key to shard
+- One party member carries the bloodline
 duration_hours: 4
 level: 4
 danger_level: 8
@@ -51,7 +57,13 @@ aquabyssos_connection: true
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Aethermoor
+updated: '2025-08-11T13:08:46.976068+00:00'
+created: '2025-08-11T13:08:46.976068+00:00'
+status: draft
 ---
+
+
 
 # Session 5: The Queen's Madness
 

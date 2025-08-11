@@ -1,17 +1,31 @@
 ---
-tags: [location, magical-facility, resonance, crystal-technology, aethermoor, magical-research, dangerous-location, crystal-influence, amplification, magical-experiments]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- amplification
+- complete
+- crystal-influence
+- crystal-technology
+- dangerous-location
+- location
+- lore
+- magical-experiments
+- magical-facility
+- magical-research
+- resonance
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Magical Research Facility"
-scope: "Regional Significance"
-danger_level: "Extreme"
-magical_properties: "Resonance Amplification"
-access_restriction: "Authorized Personnel Only"
+updated: '2025-08-11T13:08:47.472391+00:00'
+location_type: Magical Research Facility
+scope: Regional Significance
+danger_level: Extreme
+magical_properties: Resonance Amplification
+access_restriction: Authorized Personnel Only
 ---
+
+
 
 # Resonance Chamber
 *The Heart of Crystal Frequency Research*
@@ -314,3 +328,14 @@ Leadership experience opportunities arise from coordinating research activities 
 - [[02_Worldbuilding/Lore/Council of Mages]] - Primary magical research partner organization
 - [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Inter-realm coordination authority
 - [[02_Worldbuilding/People/Chief Resonance Engineer Harmony Crystalstone]] - Chamber facility director
+
+
+## Connections
+
+- [[Master Artificers Guild]]
+- [[Crystal Festival]]
+- [[Crystal-Corruption-Tracking-Sheet]]
+- [[Eastern Kingdoms 2]]
+- [[Resonance Peaks]]
+- [[The Possessed Queen]]
+- [[Campaign_Relationship_Matrix]]

@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Botanist Rose Sundrinker
 
 ![Botanist Rose Sundrinker Portrait](04_Resources/Assets/Art/Places/Botanist_Rose_Sundrinker.png)

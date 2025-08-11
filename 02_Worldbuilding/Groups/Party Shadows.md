@@ -1,39 +1,45 @@
 ---
 tags:
-  - Category/Group
-  - Aquabyssos/Politics
-  - Aquabyssos/Shadow
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "expansion"
+- aquabyssos
+- aquabyssos/politics
+- aquabyssos/shadow
+- category/group
+- complete
+- faction
+status: complete
+world: Aquabyssos
+type: Group
+created_by: expansion
 created: 2025-08-11
-MyContainer: "[[Parliament of Echoes|Parliament of Echoes]]"
+MyContainer: '[[Parliament of Echoes|Parliament of Echoes]]'
 MyCategory: Shadow Influence Network
 obsidianUIMode: preview
-leader: "Shadow Broker Mist"
+leader: Shadow Broker Mist
 officers:
-  - "Ambassador Nerida Deepcurrent"
-  - "Senator Glaucus Brain"
-  - "Tribune Cassia Deepcurrent"
+- Ambassador Nerida Deepcurrent
+- Senator Glaucus Brain
+- Tribune Cassia Deepcurrent
 members:
-  - "Shadow Parliament"
-  - "Parliament Loyalists"
-  - "The Silhouette Surgeon Prime"
+- Shadow Parliament
+- Parliament Loyalists
+- The Silhouette Surgeon Prime
 initiates:
-  - "Vex Shadowthorn's Apprentices"
-  - "Shadow Surgeon Apprentice"
-  - "Shadow Broker Mirrors"
-faction: "Parliament of Echoes - Shadow Chamber"
-primary_contact: "Shadow Broker Mist"
+- Vex Shadowthorn's Apprentices
+- Shadow Surgeon Apprentice
+- Shadow Broker Mirrors
+faction: Parliament of Echoes - Shadow Chamber
+primary_contact: Shadow Broker Mist
 benefits:
-  - standing: 1
-    reward: "Access to shadow memory markets and political whisper networks"
-  - standing: 2
-    reward: "Shadow surgery consultation and identity modification services"
-  - standing: 3
-    reward: "Direct audience with Shadow Broker Mist and parliamentary influence"
+- standing: 1
+  reward: Access to shadow memory markets and political whisper networks
+- standing: 2
+  reward: Shadow surgery consultation and identity modification services
+- standing: 3
+  reward: Direct audience with Shadow Broker Mist and parliamentary influence
+updated: '2025-08-11T13:08:51.211308+00:00'
 ---
+
+
 
 # Party Shadows
 
@@ -247,3 +253,10 @@ An intelligence operation gone wrong that nearly exposed the entire surveillance
 Successful passage of legislation legitimizing shadow-touched individuals, achieved through a combination of political pressure and selective memory adjustment of opposing voters.
 
 The Party Shadows represents the dark evolution of political power in Aquabyssos - an organization that has learned to turn the realm's unique properties into tools of control and influence. They are simultaneously the greatest threat to democratic governance and the most sophisticated political organization in the realm's history, making them ideal antagonists for campaigns exploring themes of identity, democracy, and the price of power.
+
+
+## Connections
+
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow War Coalition]]

@@ -1,11 +1,21 @@
 ---
-tags: [quest, espionage, political-intrigue, investigation]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- espionage
+- investigation
+- political-intrigue
+- quest
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.792129+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Spy Games
 
@@ -151,3 +161,8 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 
 ## DM Notes
 Spy Games emphasizes roleplay, investigation, and moral choices over combat. Keep players uncertain about NPC loyalties. Use revealed information to drive future storylines and create complex political situations.
+
+
+## Connections
+
+- [[The Wandering Atoll]]

@@ -6,6 +6,8 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
+
 # Crystal Plague
 
 ## Summary

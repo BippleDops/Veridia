@@ -1,17 +1,33 @@
 ---
-tags: [npc, diplomat, aquabyssos, shadowmere, corrupted]
+tags:
+- active---category/people
+- aquabyssos
+- both
+- corrupted
+- diplomat
+- npc
+- shadowmere
 alignment: Lawful Evil
 race: Half-Triton
 class: Bard/Warlock
 level: 12
-location: [[02_Worldbuilding/Places/The Shadowmere]]
+location:
+- - 02_Worldbuilding/Places/The Shadowmere
 faction: Aquabyssos Embassy
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.872391+00:00'
+created: '2025-08-11T13:08:49.872391+00:00'
+type: NPC
 ---
+
+
+
+
+
 
 # Ambassador Korvin Blacktide
 
@@ -69,3 +85,25 @@ Ambassador Korvin Blacktide serves as the enigmatic representative of [[Aquabyss
 - Offers the party a diplomatic mission to Aquabyssos
 - Requests help retrieving a "cultural artifact" from the [[02_Worldbuilding/Places/The Crystalline Wastes]]
 - Information broker for those seeking forbidden knowledge about the Shards
+
+
+## Connections
+
+- [[The Merchant Code of Ethics]]
+- [[Envoy Blackwater Jr.]]
+- [[Knight]]
+- [[Lighthouse Keeper]]
+- [[Quest - The Pretender]]
+- [[Campaign_Relationship_Matrix]]
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

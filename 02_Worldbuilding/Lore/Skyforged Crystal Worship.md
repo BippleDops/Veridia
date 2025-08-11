@@ -1,17 +1,31 @@
 ---
-tags: [technology, religion, crystal-technology, sky-worship, aethermoor, magical-engineering, skyforged-crystals, techno-religious, divine-technology, crystal-cultivation]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Techno-Religious Infrastructure"
-significance: "Cultural and Technological Foundation"
-created_by: "cultural-expansion"
+tags:
+- aethermoor
+- complete
+- crystal-cultivation
+- crystal-technology
+- divine-technology
+- lore
+- magical-engineering
+- religion
+- sky-worship
+- skyforged-crystals
+- techno-religious
+- technology
+status: complete
+world: Aethermoor
+type: Lore
+category: Techno-Religious Infrastructure
+significance: Cultural and Technological Foundation
+created_by: cultural-expansion
 created: 2025-08-11
 expanded: 2025-08-11
-technology_type: "Divine Crystal Engineering"
-access_restriction: "Religious Authority Controlled"
-operational_status: "Active Worship & Technology"
+technology_type: Divine Crystal Engineering
+access_restriction: Religious Authority Controlled
+operational_status: Active Worship & Technology
+updated: '2025-08-11T13:08:47.711980+00:00'
 ---
+
 
 # Skyforged Crystal Worship
 *The Sacred Technology of Divine Light*

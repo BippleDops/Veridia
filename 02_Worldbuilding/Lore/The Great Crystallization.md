@@ -1,15 +1,23 @@
 ---
 tags:
-  - lore
-  - history
-  - event
-  - catastrophe
+- both
+- catastrophe
+- draft
+- event
+- history
+- lore
 type: Lore
 period: 500 years ago
 importance: World-Defining
 created: 2024-12-20
-image: "04_Resources/Assets/Lore/great_crystallization.jpg"
+image: 04_Resources/Assets/Lore/great_crystallization.jpg
+world: Both
+updated: '2025-08-11T13:08:48.740785+00:00'
+status: draft
 ---
+
+
+
 
 # The Great Crystallization
 *The Day the Sky Wept Crystal Tears*
@@ -167,3 +175,27 @@ The Great Crystallization is the defining event of the campaign world. Its true 
 - [[The Crown of Stars]] - The original artifact
 - [[Aetheron]] - The fallen god-king
 - [[The Seven Betrayers]] - Those who caused it
+
+## Connections
+
+- [[Master Artificers Guild]]
+- [[Crystal Corruption Taboos]]
+- [[Eastern Kingdoms 2]]
+- [[Eastern Kingdoms]]
+- [[Evidence Chain Analysis]]
+- [[Fear Farms]]
+- [[Healing Two Worlds]]
+- [[Kraken Territories]]
+- [[Merged Reality Zones]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Crimson Hand]]
+- [[The Final Choice]]
+- [[The Queen]]
+- [[The Real Marina]]
+- [[The Seven Betrayers]]
+- [[The Seven Shards]]
+- [[The Shattering of the Crown]]
+- [[Timeline of the Drowning]]
+- [[Cathedral of Light]]
+- [[Quest - The Root Network]]

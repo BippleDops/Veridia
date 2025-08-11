@@ -1,23 +1,31 @@
 ---
 tags:
-  - npc
-  - aquabyssos
-  - high-priestess
-  - villain
-  - transformed
+- active---category/people
+- aquabyssos
+- both
+- high-priestess
+- npc
+- transformed
+- villain
 type: NPC
-location: "[[Abyssal Cathedral]]"
-faction: "[[The Wake]]"
+location: '[[Abyssal Cathedral]]'
+faction: '[[The Wake]]'
 race: Depth Evolved (Former Human)
 class: Cleric/Warlock
 level: 18
 alignment: Lawful Evil
-status: Active
-  - Category/People
+status: Active - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.770929+00:00'
+created: '2025-08-11T13:08:49.770929+00:00'
 ---
+
+
+
+
 
 # High Priestess Scylla Deepdream
 
@@ -133,3 +141,11 @@ Her seat of power:
 
 ## DM Notes
 Scylla represents the alien horror of Aquabyssos—someone who chose transformation and can't understand why others resist. Her temporal abilities make her nearly impossible to surprise or defeat conventionally. She should feel like a force of nature rather than a person, speaking in paradoxes and prophecies that come true in unexpected ways. Her genuine belief that she's saving the world through drowning makes her sympathetic yet terrifying.
+
+
+## Connections
+
+- [[The Drowning Welcome]]
+- [[Timeline of the Drowning]]
+- [[Oracle]]
+- [[The Sorrowmaster]]

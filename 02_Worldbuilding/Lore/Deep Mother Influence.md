@@ -1,12 +1,24 @@
 ---
-tags: [entities, corruption, influence, deep-sea, eldritch, religion]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- corruption
+- deep-sea
+- eldritch
+- entities
+- influence
+- lore
+- religion
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:48.969510+00:00'
 ---
+
+
 
 # Deep Mother Influence
 
@@ -298,3 +310,12 @@ Characters accumulate influence points based on exposure:
 The Deep Mother's influence represents both the greatest threat and potentially the greatest opportunity facing Aquabyssos. While the corruption undermines individual autonomy and social stability, the adaptations it provides may be essential for humanity's continued evolution in the deep ocean environment. The challenge for Aquabyssos's leaders is determining how to harness the beneficial aspects of the influence while preventing the loss of human agency and cultural identity.
 
 As the influence continues to spread and evolve, future generations may face a choice between remaining purely human but increasingly unable to survive in the deepest parts of their world, or accepting transformation that grants survival at the cost of independence. The resolution of this dilemma will likely determine the ultimate fate of civilization in Aquabyssos.
+
+
+## Connections
+
+- [[Healing Two Worlds]]
+- [[Merged Reality Zones]]
+- [[The Deep Mother]]
+- [[The Transformed Citizens]]
+- [[Aethermoor - Session 05 The Queens Madness]]

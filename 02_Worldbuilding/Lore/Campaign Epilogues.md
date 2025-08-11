@@ -1,17 +1,30 @@
 ---
-tags: [campaign-structure, epilogues, endings, resolution, both-worlds, aftermath, consequences, future-stories]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aftermath
+- both-worlds
+- campaign-structure
+- complete
+- consequences
+- endings
+- epilogues
+- future-stories
+- lore
+- resolution
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-structure_type: "Campaign Framework"
-scope: "Both Worlds"
-purpose: "Campaign Resolution"
-usage: "Epilogue Guidance"
-timeframe: "Post-Campaign"
+updated: '2025-08-11T13:08:47.582343+00:00'
+structure_type: Campaign Framework
+scope: Both Worlds
+purpose: Campaign Resolution
+usage: Epilogue Guidance
+timeframe: Post-Campaign
 ---
+
+
+
 
 # Campaign Epilogues
 *Concluding the Adventures of Both Worlds*
@@ -205,3 +218,8 @@ Alternative outcome exploration examines different possible consequences for maj
 - [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface setting shaped by campaign resolution
 - [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat requiring resolution consideration
 - [[02_Worldbuilding/Lore/Chronicle Keeper Sage Deepmemory]] - Historian documenting campaign aftermath
+
+
+## Connections
+
+- [[Aethermoor - Session 10 The Deep Mother Rises]]

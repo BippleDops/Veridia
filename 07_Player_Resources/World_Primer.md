@@ -1,13 +1,21 @@
 ---
 title: World Primer - Player's Guide to Aquabyssos & Aethermoor
-type: player_resource
+type: Lore
 status: complete
 tags:
-  - player-resource
-  - lore
-  - world-guide
+- both
+- complete
+- lore
+- player-resource
+- player_resource
+- world-guide
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.037217+00:00'
 ---
+
+
+
 
 # World Primer
 *A Player's Guide to the Sundered Realms*
@@ -384,3 +392,7 @@ What will you do when the tide turns?
 ---
 
 *Welcome to the depths and heights. May you find your path between pressure and light.*
+
+## Connections
+
+- [[Quick_Start_Guide]]

@@ -15,6 +15,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
 # Quest - The Pretender
 
 ![Quest - The Pretender Portrait](04_Resources/Assets/Art/NPCs/Quest_-_The_Pretender.png)

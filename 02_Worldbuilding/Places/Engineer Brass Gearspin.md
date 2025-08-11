@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, engineering, workshop, mechanical, innovation, brass-works]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- brass-works
+- complete
+- engineering
+- innovation
+- location
+- mechanical
+- workshop
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Engineering Facility
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.672786+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Brass Works - Engineer Gearspin's Domain
 
@@ -365,3 +376,10 @@ The Brass Works connects to numerous important elements throughout Aquabyssos an
 - **Underground Politics**: Gearspin's innovations influence the balance of power between city factions
 
 *The Brass Works stands as a monument to the power of innovation and determination, where the impossible becomes inevitable through the marriage of skill, creativity, and relentless dedication to the art of mechanical engineering.*
+
+
+## Connections
+
+- [[Captain Garrett Stormcutter]]
+- [[The Wandering Atoll]]
+- [[The Lock Saboteur]]

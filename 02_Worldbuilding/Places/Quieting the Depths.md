@@ -1,11 +1,22 @@
 ---
-tags: [quest, supernatural, ancient-evil, ritual]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
+tags:
+- ancient-evil
+- aquabyssos
+- complete
+- quest
+- ritual
+- supernatural
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:51.162513+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Quieting the Depths
 
@@ -132,3 +143,38 @@ The quest explores themes of sacrifice for greater good, ancient wisdom versus m
 
 ## DM Notes
 This quest combines Lovecraftian horror with heroic fantasy. Build tension gradually through increasing supernatural influence. The ritual should feel dangerous and uncertain even when performed correctly.
+
+
+## Connections
+
+- [[The Whispering Depths]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # The Singer Beyond
 
 ![The Singer Beyond Portrait](04_Resources/Assets/Art/Lore/The_Singer_Beyond.png)

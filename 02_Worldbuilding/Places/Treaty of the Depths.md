@@ -1,20 +1,35 @@
 ---
-tags: [lore, treaty, diplomacy, aquabyssos, aethermoor, inter-realm, agreement, politics, law]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- agreement
+- aquabyssos
+- both-worlds
+- complete
+- diplomacy
+- inter-realm
+- law
+- lore
+- politics
+- treaty
+status: complete
+world: Both Worlds
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-lore_type: "Political Document"
-scope: "Inter-Realm Relations"
-time_period: "Current Era"
-significance: "Foundational"
-primary_participants: "Aquabyssos and Aethermoor"
+updated: '2025-08-11T13:08:51.024771+00:00'
+lore_type: Political Document
+scope: Inter-Realm Relations
+time_period: Current Era
+significance: Foundational
+primary_participants: Aquabyssos and Aethermoor
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Treaty of the Depths
 *The Foundational Agreement Between Two Worlds*
@@ -275,3 +290,9 @@ The Treaty's influence extends beyond its immediate participants, providing mode
 As living document that continues to evolve and develop, the Treaty represents ongoing commitment to building better relationships between different societies while respecting diversity and promoting mutual understanding.
 
 Its ultimate significance may lie not just in specific provisions or immediate benefits, but in its demonstration that cooperative approaches to international relations can achieve results that competitive or isolationist approaches cannot match.
+
+
+## Connections
+
+- [[Envoy Blackwater Jr.]]
+- [[The Bathyal Palace]]

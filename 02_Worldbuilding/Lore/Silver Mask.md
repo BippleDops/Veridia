@@ -1,18 +1,32 @@
 ---
-tags: [mystery, conspiracy, identity, investigation, aethermoor, secret-society, infiltration, political-manipulation, shadow-operations, hidden-identity]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-category: "Mystery Figure"
-significance: "Major Conspiracy Element"
-mystery_type: "Identity and Conspiracy Network"
+tags:
+- aethermoor
+- complete
+- conspiracy
+- hidden-identity
+- identity
+- infiltration
+- investigation
+- lore
+- mystery
+- political-manipulation
+- secret-society
+- shadow-operations
+status: complete
+world: Aethermoor
+type: Lore
+category: Mystery Figure
+significance: Major Conspiracy Element
+mystery_type: Identity and Conspiracy Network
 danger_level: 5
-active_period: "Past 30+ years, identity constantly shifting"
-investigation_difficulty: "Extremely High"
-created_by: "auto-stub"
+active_period: Past 30+ years, identity constantly shifting
+investigation_difficulty: Extremely High
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:49.320608+00:00'
 ---
+
+
 
 # Silver Mask
 *The Phantom Agent of Aethermoor's Hidden Networks*
@@ -492,3 +506,11 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 
 *"The silver mask reflects not the face that wears it, but the face that each observer expects to see. In this way, Silver Mask becomes not one person, but every person - a mirror of our own assumptions and a keeper of our deepest secrets."*
 *- Final entry from the personal notes of Agent Marcus Brightstone, found after his disappearance*
+
+
+## Connections
+
+- [[The Deep Mother]]
+- [[The Restoration Movement]]
+- [[The Silverscale Conspiracy]]
+- [[Aethermoor - Session 03 Council of Shadows]]

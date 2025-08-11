@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Garden Keeper Zen Currentdancer
 
 ![Garden Keeper Zen Currentdancer Portrait](04_Resources/Assets/Art/Places/Garden_Keeper_Zen_Currentdancer.png)

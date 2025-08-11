@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Trader Grimm Voidheart
 
 ![Trader Grimm Voidheart Portrait](04_Resources/Assets/Art/Places/Trader_Grimm_Voidheart.png)

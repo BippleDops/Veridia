@@ -1,14 +1,22 @@
 ---
-tags: [master-index, people, npcs, complete, navigation]
-status: "complete"
-world: "Universal"
-type: "master-index"
-created_by: "Agent-20"
+tags:
+- complete
+- master-index
+- navigation
+- npcs
+- people
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: Agent-20
 created: 2025-08-11
 last_updated: 2025-08-11
-completion: "100%"
+completion: 100%
 total_npcs: 101
+updated: '2025-08-11T13:08:46.946373+00:00'
 ---
+
 
 # Master People Index
 *Comprehensive Directory of All NPCs and Characters*

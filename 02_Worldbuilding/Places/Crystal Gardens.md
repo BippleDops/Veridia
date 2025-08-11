@@ -1,21 +1,17 @@
 ---
-tags: [location, aethermoor, crystal, garden, magical, research]
-status: "completed"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-location_type: "Magical Garden"
-parent_location: "Aethermoor Capital"
-danger_level: 3
-population: "~150 staff, 500+ daily visitors"
-government: "Crown Preserve under Royal Garden Authority"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.856931+00:00'
+created: '2025-08-11T13:08:50.856931+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Crystal Gardens
 ## The Prismatic Heart of Aethermoor's Wonder
@@ -441,3 +437,17 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 - [[Resonance Roses]]  
 - [[The Seven Shards]]
 - [[Crystal Speak]]
+
+
+## Connections
+
+- [[The Crown]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Aetheron]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Merged Reality Zones]]
+- [[The Queen]]
+- [[Old Sally Seasprayer]]
+- [[The Crystalline Foundry]]
+- [[Quest - Nature's Balance]]
+- [[Campaign_Relationship_Matrix]]

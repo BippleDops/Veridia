@@ -1,13 +1,19 @@
 ---
 title: Master Campaign Index
-type: index
+type: Lore
 status: complete
 tags:
-  - index
-  - navigation
-  - master-control
+- both
+- complete
+- index
+- master-control
+- navigation
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:46.956171+00:00'
 ---
+
+
 
 # Master Campaign Index
 *Complete Navigation System for Aquabyssos & Aethermoor*
@@ -39,9 +45,9 @@ See also: [[03_Mechanics/Phase_Omega_Enhanced_Index|Phase Omega Enhanced Index]]
 ### 🌍 Worldbuilding (02_Worldbuilding/)
 ```dataview
 TABLE WITHOUT ID
-  length(filter(file.inlinks, (x) => contains(x.file.folder, "02_Worldbuilding"))) AS "Links",
-  status AS "Status",
-  file.mtime AS "Modified"
+  length(filter(file.inlinks, (x) => contains(x.file.folder, "02_Worldbuilding"))) AC "Links",
+  status AC "Status",
+  file.mtime AC "Modified"
 FROM "02_Worldbuilding"
 WHERE status = "complete"
 SORT file.mtime DESC
@@ -59,9 +65,9 @@ LIMIT 10
 ### ⚙️ Mechanics (03_Mechanics/)
 ```dataview
 TABLE WITHOUT ID
-  file.link AS "System",
-  status AS "Status",
-  contains(tags, "complete") AS "Ready"
+  file.link AC "System",
+  status AC "Status",
+  contains(tags, "complete") AC "Ready"
 FROM "03_Mechanics"
 WHERE !contains(file.name, "CLI")
 AND status = "complete"
@@ -145,9 +151,9 @@ SORT file.name ASC
 ### Find by Status
 ```dataview
 TABLE WITHOUT ID
-  file.link AS "File",
-  type AS "Type",
-  file.folder AS "Location"
+  file.link AC "File",
+  type AC "Type",
+  file.folder AC "Location"
 FROM ""
 WHERE status = "stub"
 LIMIT 20
@@ -156,9 +162,9 @@ LIMIT 20
 ### Recently Modified
 ```dataview
 TABLE WITHOUT ID
-  file.link AS "File",
-  file.mtime AS "Modified",
-  status AS "Status"
+  file.link AC "File",
+  file.mtime AC "Modified",
+  status AC "Status"
 FROM ""
 WHERE file.mtime > date(today) - dur(7 days)
 SORT file.mtime DESC
@@ -168,9 +174,9 @@ LIMIT 10
 ### Most Connected
 ```dataview
 TABLE WITHOUT ID
-  file.link AS "File",
-  length(file.inlinks) AS "Incoming Links",
-  length(file.outlinks) AS "Outgoing Links"
+  file.link AC "File",
+  length(file.inlinks) AC "Incoming Links",
+  length(file.outlinks) AC "Outgoing Links"
 FROM "02_Worldbuilding"
 WHERE status = "complete"
 SORT length(file.inlinks) DESC
@@ -237,10 +243,10 @@ Reality Stability → Merger Events
 
 ```dataview
 TABLE WITHOUT ID
-  "📚 " + length(file.lists) AS "Total Files",
-  "✅ " + length(filter(file.lists, (x) => x.status = "complete")) AS "Complete",
-  "⚠️ " + length(filter(file.lists, (x) => x.status = "stub")) AS "Stubs",
-  "🔄 " + length(filter(file.lists, (x) => x.status = "in-progress")) AS "Active"
+  "📚 " + length(file.lists) AC "Total Files",
+  "✅ " + length(filter(file.lists, (x) => x.status = "complete")) AC "Complete",
+  "⚠️ " + length(filter(file.lists, (x) => x.status = "stub")) AC "Stubs",
+  "🔄 " + length(filter(file.lists, (x) => x.status = "in-progress")) AC "Active"
 FROM "02_Worldbuilding"
 ```
 

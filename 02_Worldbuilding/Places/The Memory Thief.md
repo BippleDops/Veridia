@@ -1,15 +1,26 @@
 ---
-tags: [npc, memory_thief, criminal, mysterious, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- complete
+- criminal
+- memory_thief
+- mysterious
+- npc
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.077268+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Memory Thief
 
@@ -42,7 +53,7 @@ The only consistent element across all accounts is that encounters with the Memo
 
 ## Statistics
 **Medium humanoid (?), chaotic neutral**
-- **AC** 17 (Natural Deflection)
+- **AS** 17 (Natural Deflection)
 - **HP** 95 (17d8 + 17)
 - **Speed** 30 ft, swim 30 ft, fly 40 ft (hover)
 - **STR** 12 (+1) **DEX** 18 (+4) **CON** 13 (+1) **INT** 20 (+5) **WIS** 17 (+3) **CHA** 19 (+4)
@@ -115,3 +126,39 @@ The entity has also been linked to a growing black market in stolen memories, wh
 
 ## DM Notes
 The Memory Thief serves as both a recurring antagonist and a source of mystery in the campaign. Their ability to alter memories creates unique storytelling opportunities where players must question the reliability of their own knowledge and experiences. Use the Memory Thief to introduce plot twists, remove inconvenient knowledge from NPCs, or create situations where the party must decide whether recovering stolen memories is worth the risks involved.
+
+
+## Connections
+
+- [[Vex Shadowthorn]]
+- [[The Phosphor Markets]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, trade, freedom, libertarian, commerce, independent]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Free Trade District"
-parent_location: "Independent Commercial Zone"
-depth: "5,000-7,000 feet"
-danger_level: 4
-population: "~15,000 merchants, traders, refugees, and free spirits"
-government: "Merchant Council (minimal governance)"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.568014+00:00'
+created: '2025-08-11T13:08:50.568014+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Free Current
 *Where the Waters Flow Unbound*
@@ -656,3 +651,18 @@ The Free Current stands as [[Aquabyssos]]'s most radical experiment in individua
 - [[Liberty Coalition]]
 - [[Private Arbitration]]
 - [[Voluntary Taxation]]
+
+
+## Connections
+
+- [[Captain Garrett Stormcutter]]
+- [[Abyssos Prime Docks]]
+- [[Blood Current Express]]
+- [[Chef Gastropod]]
+- [[New Tethys]]
+- [[Royal Palace]]
+- [[Surface Tensions]]
+- [[The Cerulean Trench]]
+- [[The Depth Market]]
+- [[The Phosphor Markets]]
+- [[The Void Touched Depths]]

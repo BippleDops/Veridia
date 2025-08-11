@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Location Name
 
 ![Location Name Portrait](04_Resources/Assets/Art/Lore/Location_Name.png)

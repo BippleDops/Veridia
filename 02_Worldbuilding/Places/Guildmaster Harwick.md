@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Guildmaster Harwick
 
 ![Guildmaster Harwick Portrait](04_Resources/Assets/Art/Places/Guildmaster_Harwick.png)

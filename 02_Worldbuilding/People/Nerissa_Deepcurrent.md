@@ -1,51 +1,15 @@
 ---
-tags: [npc, Category/People]
-first_name: "Nerissa"
-last_name: "Deepcurrent"
-title: "High Tidecaller"
-location: "[[Maelstrom Palace]]"
-faction: "[[The Tidal Council]]"
-occupation: "Supreme Leader of Aquabyssos"
-disposition: 0
-alignment: "Lawful Neutral"
-race: "Triton"
-class: "Druid/Sorcerer"
-level: 18
-ac: 20
-max_hp: 142
-current_hp: 112
-influence: 10
-faction_rank: 5
-portrait: "04_Resources/Assets/npcs/nerissa-tidecaller.png"
-relationship_type: "political"
-in_combat: true
-initiative: 12
-relationships: 
-  - "[[Commander Varek Irontrident]]"
-  - "[[02_Worldbuilding/People/The_Crimson_Pearl]]"
-  - "[[Aboleth Prime Yoth]]"
-  - "[[Prophet Miralyn Surfacer]]"
-  - "[[Emperor Thalassius the Wise]]"
-related_quests:
-  - "[[02_Worldbuilding/Quests/The_Second_Rising]]"
-  - "[[Diplomatic Tides]]"
-  - "[[The Depth Accords]]"
-last_encounter: ""
-stats:
-  str: 12
-  dex: 14
-  con: 16
-  int: 18
-  wis: 20
-  cha: 19
-description: "Ethereal triton with flowing silver hair that moves like water, eyes that shift between deep blue and green"
-notes: "Secretly questions if the Submersion was the right choice"
-secrets: ["Has visions of the surface world burning", "Daughter of the last Oracle", "Possesses fragment of the Heart of Oceanus"]
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.761546+00:00'
+created: '2025-08-11T13:08:49.761546+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # High Tidecaller Nerissa Deepcurrent
 

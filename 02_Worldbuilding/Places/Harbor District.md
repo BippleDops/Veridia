@@ -1,21 +1,17 @@
 ---
-tags: [location, aquabyssos, harbor, trade, port, pressure, maritime, commerce]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Harbor District"
-parent_location: "Port Meridian"
-danger_level: 2
-population: "~8,000 permanent residents, 15,000+ daily workers"
-government: "Harbor Authority under Port Meridian jurisdiction"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.045613+00:00'
+created: '2025-08-11T13:08:51.045613+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Harbor District
 ## The Beating Heart of Aquabyssos Commerce
@@ -597,3 +593,19 @@ The Harbor District serves as the primary maritime gateway to [[Port Meridian]] 
 - [[Harbor Wall]]  
 - [[Deep Pearls]]  
 - [[Pressure Crystals]]
+
+
+## Connections
+
+- [[Anti-Priest Nullus]]
+- [[Barkeep Mira Algaebrew]]
+- [[Chef Gastropod]]
+- [[Doctor Coral Shapeshift]]
+- [[Innkeeper Marina Dreamwhisper]]
+- [[Mediator Serenity Stillwater]]
+- [[Noble Quarter]]
+- [[Pressure Terminal]]
+- [[Seamstress Coral Silkweaver]]
+- [[Supplier Erikson Tidecaller]]
+- [[Temple Guardian Marcus the Drowned]]
+- [[Temple Ward]]

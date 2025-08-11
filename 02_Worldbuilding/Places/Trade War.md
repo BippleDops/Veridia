@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Trade War
 
 ![Trade War Portrait](04_Resources/Assets/Art/Places/Trade_War.png)

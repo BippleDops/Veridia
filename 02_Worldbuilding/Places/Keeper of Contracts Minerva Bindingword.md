@@ -1,23 +1,17 @@
 ---
-tags: [npc, aquabyssos, contracts, legal, bureaucracy, binding-magic, authority, government, administrative, lawkeeper]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-category: "Government Official"
-race: "Sea Elf"
-class: "Expert/Enchanter"
-location: "[[The Contract Archive]]"
-faction: "[[Aquabyssos Government]]"
-influence: "High"
-danger_level: "Low"
-  - Category/Person
-MyContainer: None
-MyCategory: Government
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.817520+00:00'
+created: '2025-08-11T13:08:50.817520+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Keeper of Contracts Minerva Bindingword
 *The Living Archive of Aquabyssos's Sacred Agreements*
@@ -441,3 +435,8 @@ Mineva's reputation for absolute impartiality and uncompromising attention to de
 **Social Structure**: Representing the legal foundations that hold society together
 
 Keeper of Contracts Minerva Bindingword stands as a pillar of [[Aquabyssos]]'s legal and administrative system, where her combination of magical ability and legal expertise ensures that the complex web of agreements holding society together remains strong and fair. Through her dedication to justice and her mastery of binding magic, she serves as both protector and facilitator of the contracts that enable [[Aquabyssos]]'s civilization to thrive in the depths of the ocean.
+
+
+## Connections
+
+- [[The Bathyal Palace]]

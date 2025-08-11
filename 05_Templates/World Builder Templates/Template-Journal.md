@@ -2,23 +2,33 @@
 NoteIcon: journal
 aat-render-enabled: true
 fc-category:
-  - Event Category 1
-fc-display-name:
+- Event Category 1
+fc-display-name: null
 sessionstatus:
-  - Occured
-type: Session Journal
+- Occured
+type: Lore
 sessionDate: 2000-01-01
 players: 2
 Status:
-  - ⏳
+- ⏳
 OneLiner: 1 Line Summary
 timelines:
-  - journal
+- journal
 tags:
-  - journal
-  - "#Category/Journal"
+- '#category/journal'
+- both
+- draft
+- journal
+- session-journal
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:47.013707+00:00'
+created: '2025-08-11T13:08:47.013707+00:00'
+status: draft
 ---
+
+
+
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewJournal");

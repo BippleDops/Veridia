@@ -1,11 +1,22 @@
 ---
-tags: [event, politics, succession, royal]
-status: "complete"
-world: "Aquabyssos"
-type: "event"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- event
+- politics
+- royal
+- succession
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.825160+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Bathyal Succession
 
@@ -75,3 +86,38 @@ The succession process is expected to take 3-6 months, with each phase potential
 
 ## DM Notes
 This succession crisis provides a backdrop for political intrigue, moral choices, and large-scale consequences based on player actions. Each faction should have compelling motivations and legitimate grievances.
+
+
+## Connections
+
+- [[The Bathyal Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

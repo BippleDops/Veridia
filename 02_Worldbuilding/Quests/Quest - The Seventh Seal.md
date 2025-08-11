@@ -1,30 +1,38 @@
 ---
 tags:
-  - quest
-  - personal
-  - order-of-shattered-crown
-  - mystical
-  - mid-level
-type: Quest
-quest_giver: "[[02_Worldbuilding/People/The Crimson Sage]]"
+- both
+- draft
+- mid-level
+- mystical
+- order-of-shattered-crown
+- personal
+- quest
+type: Lore
+quest_giver: '[[02_Worldbuilding/People/The Crimson Sage]]'
 level_range: 7-10
 reward_tier: Major
 locations:
-  - "[[02_Worldbuilding/Places/The Shattered Sanctum]]"
-  - "[[02_Worldbuilding/Places/The Shadowmere]]"
-  - "[[02_Worldbuilding/Places/The Embassy Quarter]]"
-  - "[[02_Worldbuilding/Places/The Verdant Reach]]"
+- '[[02_Worldbuilding/Places/The Shattered Sanctum]]'
+- '[[02_Worldbuilding/Places/The Shadowmere]]'
+- '[[02_Worldbuilding/Places/The Embassy Quarter]]'
+- '[[02_Worldbuilding/Places/The Verdant Reach]]'
 npcs_involved:
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
-  - "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
-  - "[[02_Worldbuilding/People/Archdruid Thornweaver]]"
-  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
-  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-  - Category/Quest
+- '[[02_Worldbuilding/People/The Crimson Sage]]'
+- '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
+- '[[02_Worldbuilding/People/Archdruid Thornweaver]]'
+- '[[02_Worldbuilding/People/High Inquisitor Maltheos]]'
+- '[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'
+- Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.064211+00:00'
+created: '2025-08-11T13:08:50.064211+00:00'
+status: draft
 ---
+
+
 
 # Quest: The Seventh Seal
 

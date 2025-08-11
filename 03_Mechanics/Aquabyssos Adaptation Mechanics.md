@@ -6,6 +6,8 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+
+
 # Aquabyssos Adaptation Mechanics
 
 ## Summary

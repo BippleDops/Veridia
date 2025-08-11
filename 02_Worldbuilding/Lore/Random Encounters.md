@@ -1,14 +1,24 @@
 ---
-tags: [mechanics, random-encounters, encounter-generation, both-realms, procedural-content]
-status: "complete"
-world: "Both"
-type: "game-mechanics"
-system: "D&D 5e"
-complexity: "Advanced"
-created_by: "auto-stub"
+tags:
+- both
+- both-realms
+- complete
+- encounter-generation
+- game-mechanics
+- mechanics
+- procedural-content
+- random-encounters
+status: complete
+world: Both
+type: Lore
+system: D&D 5e
+complexity: Advanced
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.257994+00:00'
 ---
+
+
 
 # Random Encounters
 *Procedural Adventure Generation for the Merged Realms*
@@ -486,3 +496,8 @@ Track resolved encounters and their outcomes to influence future encounters:
 - **[[Emergency Response Procedures]]**: Crisis encounter resolution
 
 The Random Encounters system provides a comprehensive framework for generating meaningful, world-consistent adventures that enhance rather than distract from ongoing campaigns while taking full advantage of the unique opportunities and challenges present in the merged realms.
+
+
+## Connections
+
+- [[Initiative Tracker]]

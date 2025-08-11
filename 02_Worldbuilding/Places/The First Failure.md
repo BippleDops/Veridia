@@ -1,47 +1,60 @@
 ---
-tags: [location, aquabyssos, historical, ruins, tragedy, magical]
-location_name: "The First Failure - Prototype Salvation Site"
-location_type: "Ruined Magical Laboratory"
-parent_location: "[[Abyssos Prime]]"
+tags:
+- aquabyssos
+- both
+- complete
+- historical
+- location
+- magical
+- ruins
+- tragedy
+location_name: The First Failure - Prototype Salvation Site
+location_type: Ruined Magical Laboratory
+parent_location: '[[Abyssos Prime]]'
 sub_locations:
-  - "[[The Shattered Summoning Circle]]"
-  - "[[Memorial Wall of Names]]"
-  - "[[The Preservation Chamber]]"
-  - "[[Library of Lost Solutions]]"
-  - "[[The Guilt Garden]]"
-depth: "2800-3100 feet"
+- '[[The Shattered Summoning Circle]]'
+- '[[Memorial Wall of Names]]'
+- '[[The Preservation Chamber]]'
+- '[[Library of Lost Solutions]]'
+- '[[The Guilt Garden]]'
+depth: 2800-3100 feet
 population: 12
-government: "Memorial Custodianship"
-ruler: "[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]"
+government: Memorial Custodianship
+ruler: '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
 factions:
-  - "[[The Penitent Order]]"
-  - "[[Solution Seekers]]"
-  - "[[Memorial Guardians]]"
+- '[[The Penitent Order]]'
+- '[[Solution Seekers]]'
+- '[[Memorial Guardians]]'
 danger_level: 6
 visited: false
 discovered: true
 services:
-  - "Historical Research"
-  - "Magical Failure Analysis"
-  - "Guilt Counseling"
-  - "Memorial Services"
-  - "Experimental Records Access"
+- Historical Research
+- Magical Failure Analysis
+- Guilt Counseling
+- Memorial Services
+- Experimental Records Access
 notable_npcs:
-  - "[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]"
-  - "[[Archivist Elena Sorrowkeeper]]"
-  - "[[Ghost of Dr. Thaddeus Brightwater]]"
-  - "[[Memorial Tender Sarah]]"
-current_state: "Preserved memorial and research site"
+- '[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]'
+- '[[Archivist Elena Sorrowkeeper]]'
+- '[[Ghost of Dr. Thaddeus Brightwater]]'
+- '[[Memorial Tender Sarah]]'
+current_state: Preserved memorial and research site
 temporal_stability: 70
-shadow_density: "Moderate"
-pressure_effects: "Moderate"
-status: "complete"
-created: 2025-08-11
-  - Category/Place
+shadow_density: Moderate
+pressure_effects: Moderate
+status: complete
+created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.859720+00:00'
+type: Location
 ---
+
+
+
 
 # The First Failure - Prototype Salvation Site
 ## Where Good Intentions Drowned the World
@@ -329,3 +342,8 @@ This location works best as:
 ---
 
 *"At the First Failure, we learn that the greatest catastrophes often begin with the noblest hearts and the brightest minds—making vigilance, not just intelligence, the highest virtue of those who would change the world."*
+
+
+## Connections
+
+- [[The Primordial Vaults]]

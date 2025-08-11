@@ -1,21 +1,16 @@
 ---
-tags: [npc, professor, researcher, crystal-touched, aethermoor, artificer, scholar]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Rock Gnome"
-class: "Artificer/Wizard"
-level: 12
-faction: "Crystal Academy"
-location: "Luminous Laboratory District"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.844677+00:00'
+created: '2025-08-11T13:08:49.844677+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Professor Aldric Crystalweaver
 
@@ -347,3 +342,22 @@ Professor Crystalweaver embodies the classic "mad scientist" archetype while rai
 - The isolation that comes from pursuing knowledge others consider forbidden
 
 His character represents the theme that genius and madness often walk hand-in-hand, and that the pursuit of knowledge can lead to both miraculous discoveries and terrible consequences. He's simultaneously a valuable ally and dangerous enemy, depending on how his research aligns with the party's goals and moral compass.
+
+## Connections
+
+- [[The Crystal Throne]]
+- [[Aether Crystal]]
+- [[Master Artificer Korvin Gearwright]]
+- [[The Barnacle]]
+- [[The Bloodline Carrier]]
+- [[The Cerulean Breath]]
+- [[The Crimson Sage]]
+- [[Crystalhaven]]
+- [[The Gilded Shard]]
+- [[The Void Tears]]
+- [[Aether Crystals]]
+- [[Crystalline Depths]]
+- [[Elena Starweaver]]
+- [[Quest - The Seventh Shard]]
+- [[Smuggler's Gambit]]
+- [[Campaign_Relationship_Matrix]]

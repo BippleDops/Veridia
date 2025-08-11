@@ -1,22 +1,35 @@
 ---
-tags: [location, mountains, haunted, mystical, dangerous]
-status: "completed"
-world: "Aquabyssos"
-region: "[[Northern Shattered Isles]]"
-type: "Haunted Mountain Range"
+tags:
+- aquabyssos
+- completed
+- dangerous
+- haunted
+- haunted-mountain-range
+- location
+- mountains
+- mystical
+status: completed
+world: Aquabyssos
+region: '[[Northern Shattered Isles]]'
+type: Location
 population: 800
 danger_level: 8
-government: "[[The Order of Azure Flame]]"
-leader: "[[Grand Master Tempest Windvoice]]"
-specialties: ["Spirit Communication", "Ancient Mysteries", "Wind Magic"]
-elevation: "Sea level to 12,000 feet above surface"
+government: '[[The Order of Azure Flame]]'
+leader: '[[Grand Master Tempest Windvoice]]'
+specialties:
+- Spirit Communication
+- Ancient Mysteries
+- Wind Magic
+elevation: Sea level to 12,000 feet above surface
 created: 2025-07-23 18:55
-modified: 2025-08-09
-  - Category/Place
+modified: 2025-08-09 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.710689+00:00'
 ---
+
+
 
 # The Whispering Peaks
 *Where the Dead Never Rest*

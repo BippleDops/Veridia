@@ -1,14 +1,27 @@
 ---
-tags: [lore, plague-victim, shadow-corruption, reality-sickness, transformation-trauma, desperation, individual-story, human-cost, both-worlds]
-status: "complete"
-world: "Both"
-type: "lore"
-category: "Individual Character"
-significance: "Human Representative"
-created_by: "auto-stub"
+tags:
+- both
+- both-worlds
+- complete
+- desperation
+- human-cost
+- individual-story
+- lore
+- plague-victim
+- reality-sickness
+- shadow-corruption
+- transformation-trauma
+status: complete
+world: Both
+type: Lore
+category: Individual Character
+significance: Human Representative
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:49.569927+00:00'
 ---
+
+
 
 # Desperate Plague Victim
 *The Human Cost of Cosmic Conflict*
@@ -309,3 +322,8 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 
 *"I used to think the worst thing that could happen was losing everything you love. Now I know the worst thing is surviving it."*
 *- Mira Shadowtouched, in her journal*
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

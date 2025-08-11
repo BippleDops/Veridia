@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Race Against the Festival
 
 ![Race Against the Festival Portrait](04_Resources/Assets/Art/Lore/Race_Against_the_Festival.png)

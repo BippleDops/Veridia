@@ -1,15 +1,26 @@
 ---
-tags: [npc, cleric, death, keeper, sister, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/People
+tags:
+- aquabyssos
+- cleric
+- complete
+- death
+- keeper
+- npc
+- sister
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/People
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.317901+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Keeper of the Dead, Sister Morwyn
 
@@ -37,7 +48,7 @@ Her hands are gentle but strong, bearing small scars from years of preparing bod
 
 ## Statistics
 **Medium humanoid (human), lawful neutral**
-- **AC** 14 (Natural Armor + Dex)
+- **AS** 14 (Natural Armor + Dex)
 - **HP** 82 (15d8 + 15)
 - **Speed** 30 ft, swim 25 ft (ring of swimming)
 - **STR** 12 (+1) **DEX** 14 (+2) **CON** 13 (+1) **INT** 16 (+3) **WIS** 20 (+5) **CHA** 17 (+3)
@@ -102,3 +113,33 @@ She's been conducting discrete investigations while maintaining her public dutie
 
 ## DM Notes
 Morwyn serves as an excellent source of information about recent events, as she often learns secrets from the deceased that the living would never reveal. Her neutral status makes her a safe contact for all parties, while her connection to death magic provides unique plot opportunities involving undead, resurrection, and communication with the deceased.
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

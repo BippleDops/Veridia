@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
 # The Party
 
 ![The Party Portrait](04_Resources/Assets/Art/NPCs/The_Party.png)

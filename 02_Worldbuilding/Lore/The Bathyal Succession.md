@@ -1,20 +1,46 @@
 ---
-tags: [lore, history, succession, political-conflict, aquabyssos-history, royal-succession, war, civil-war, timeline, bathyal-zone, historical-events]
-status: "complete"
-world: "Aquabyssos"
-type: "Historical Event"
-category: "Political Succession War"
-significance: "Constitutional Crisis"
-time_period: "Years 234-267 AS (After Submersion)"
-duration: "33 years of active conflict"
-scale: "Continental (All Depth Zones)"
-participants: ["Bathyal Royal Houses", "Deep Parliament", "Pressure Nobility", "Hadal Council"]
-outcome: "Establishment of Modern Parliamentary System"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- aquabyssos-history
+- bathyal-zone
+- civil-war
+- complete
+- historical-event
+- historical-events
+- history
+- lore
+- political-conflict
+- royal-succession
+- succession
+- timeline
+- war
+status: complete
+world: Aquabyssos
+type: Lore
+category: Political Succession War
+significance: Constitutional Crisis
+time_period: Years 234-267 AS (After Submersion)
+duration: 33 years of active conflict
+scale: Continental (All Depth Zones)
+participants:
+- Bathyal Royal Houses
+- Deep Parliament
+- Pressure Nobility
+- Hadal Council
+outcome: Establishment of Modern Parliamentary System
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-related_entities: ["[[The Parliament of Echoes]]", "[[Aboleth Prime Yoth]]", "[[The Deep Mother]]", "[[Emperor Thalassius]]", "[[The Pressure Wars]]"]
+updated: '2025-08-11T13:08:47.918183+00:00'
+related_entities:
+- '[[The Parliament of Echoes]]'
+- '[[Aboleth Prime Yoth]]'
+- '[[The Deep Mother]]'
+- '[[Emperor Thalassius]]'
+- '[[The Pressure Wars]]'
 ---
+
+
+
 
 # The Bathyal Succession
 *The Crisis That Transformed Aquabyssos from Monarchy to Democracy*
@@ -640,3 +666,11 @@ Some succession-era issues remain unresolved:
 
 *"The crown fell not to conquest, but to the simple truth that no one person can bear the pressure of an entire world's hopes."*
 *- Senator Nerida Currentflow, first President of the Parliament of Echoes*
+
+
+## Connections
+
+- [[Eastern Kingdoms]]
+- [[The Lighthouse of Storms]]
+- [[The Restoration Movement]]
+- [[The Bathyal Palace]]

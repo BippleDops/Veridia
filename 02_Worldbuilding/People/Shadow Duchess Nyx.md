@@ -1,19 +1,31 @@
 ---
-tags: [npc, aquabyssos, antagonist, shadow, nobility]
-npc_type: "Major Antagonist"
-race: "Shadow Entity"
-class: "Noble/Assassin"
+tags:
+- active
+- antagonist
+- aquabyssos
+- both
+- nobility
+- npc
+- shadow
+npc_type: Major Antagonist
+race: Shadow Entity
+class: Noble/Assassin
 level: 12
-alignment: "Lawful Evil"
-location: "[[Tenebrarum]]"
-faction: "Shadow Liberation Front"
+alignment: Lawful Evil
+location: '[[Tenebrarum]]'
+faction: Shadow Liberation Front
 status: active
-created: 2025-08-07
-  - Category/People
+created: 2025-08-07 - Category/People
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.924745+00:00'
+type: NPC
 ---
+
+
+
 
 # Shadow Duchess Nyx
 ## The Woman Who Murdered Her Shadow
@@ -275,3 +287,8 @@ That she IS a shadow who killed her original
 - **Dismissal**: "Your shadow speaks louder than you"
 
 > *"In the depths where darkness rules, the shadowless queen reigns through absence—the most terrifying presence of all."*
+
+
+## Connections
+
+- [[Campaign_Relationship_Matrix]]

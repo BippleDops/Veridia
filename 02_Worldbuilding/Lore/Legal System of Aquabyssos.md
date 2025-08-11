@@ -1,12 +1,22 @@
 ---
-tags: [legal-systems, politics, government, law-enforcement, justice]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- government
+- justice
+- law-enforcement
+- legal-systems
+- lore
+- politics
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:49.066570+00:00'
 ---
+
 
 # Legal System of Aquabyssos
 

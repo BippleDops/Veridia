@@ -1,15 +1,22 @@
 ---
-tags: [organization, government, abyssos-prime, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- abyssos-prime
+- aquabyssos
+- complete
+- government
+- organization
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.795006+00:00'
 ---
+
+
 
 # Abyssos Prime Government
 
@@ -81,3 +88,33 @@ The government faces increasing complexity as the region grows and diversifies. 
 
 ## DM Notes
 The Abyssos Prime Government offers excellent opportunities for bureaucratic adventures, political intrigue, and large-scale crisis management scenarios. Use them as quest givers for missions requiring official authority, or as obstacles when party actions conflict with governmental policies.
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Astrologer Prime Cassandra Starweaver
 
 ![Astrologer Prime Cassandra Starweaver Portrait](04_Resources/Assets/Art/Places/Astrologer_Prime_Cassandra_Starweaver.png)

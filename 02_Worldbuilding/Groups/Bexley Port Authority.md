@@ -1,14 +1,23 @@
 ---
-type: faction
-tags: [faction, law]
-aliases: [Bexley Port Authority]
+type: Group
+tags:
+- both
+- draft
+- faction
+- law
+aliases: []
 created: 2025-07-23 18:15
 modified: 2025-07-23 18:15
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.323998+00:00'
+status: draft
 ---
+
+
+
 # Bexley Port Authority
 
 ## General Info

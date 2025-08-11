@@ -1,24 +1,35 @@
 ---
-tags: [quest, cross-realm, convergence, world-bridging, crisis-management, high-stakes]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "quest"
-quest_type: "Cross-Realm Crisis"
-difficulty: "Legendary (Levels 10-20)"
-patron: "[[The Void Watchers]] or [[The Convergence Seekers]]"
-location: "Multiple locations in both realms"
-created_by: "auto-stub"
+tags:
+- both-aethermoor-&-aquabyssos
+- complete
+- convergence
+- crisis-management
+- cross-realm
+- high-stakes
+- quest
+- world-bridging
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Lore
+quest_type: Cross-Realm Crisis
+difficulty: Legendary (Levels 10-20)
+patron: '[[The Void Watchers]] or [[The Convergence Seekers]]'
+location: Multiple locations in both realms
+created_by: auto-stub
 created: 2025-08-09
-updated: 2025-08-10
-quest_length: "Legendary Campaign Arc (40-50 sessions)"
-sessions_per_act: "6-12 sessions each"
+updated: '2025-08-11T13:08:50.089780+00:00'
+quest_length: Legendary Campaign Arc (40-50 sessions)
+sessions_per_act: 6-12 sessions each
 total_acts: 5
 legendary_items: 6
 epic_encounters: 20
-world_consequences: "Reality-shaping"
+world_consequences: Reality-shaping
 prerequisite_level: 10
-content_warning: "Contains themes of reality alteration and existential choice"
+content_warning: Contains themes of reality alteration and existential choice
 ---
+
+
+
 
 # Quest - The Convergence Crisis
 *When Two Worlds Collide*
@@ -483,3 +494,8 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 **Shorter Campaign**: Compress to 3 acts focusing on discovery, choice, and resolution
 **Political Focus**: Emphasize factional negotiations over combat encounters
 **Action Focus**: Add more epic battles and reduce investigation/dialogue scenes
+
+## Connections
+
+- [[Vault Breach]]
+- [[Quest - Nature's Balance]]

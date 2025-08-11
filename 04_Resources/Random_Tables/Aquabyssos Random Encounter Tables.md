@@ -1,10 +1,20 @@
 ---
-tags: [random-tables, encounters, aquabyssos, reference]
-type: "random-tables"
-system: "D&D 5e"
-campaign: "Aquabyssos"
+tags:
+- aquabyssos
+- draft
+- encounters
+- random-tables
+- reference
+type: Lore
+system: D&D 5e
+campaign: Aquabyssos
 created: 2025-08-07
+world: Aquabyssos
+updated: '2025-08-11T13:08:47.042129+00:00'
+status: draft
 ---
+
+
 
 # Aquabyssos Random Encounter Tables
 ## Depth-Based Encounters for the Drowned Realm

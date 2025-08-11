@@ -1,19 +1,23 @@
 ---
 tags:
-  - faction
-  - medical-organization
-  - criminal-group
-  - shadow-magic
-  - aquabyssos
+- aquabyssos
+- complete
+- criminal-group
+- faction
+- medical-organization
+- shadow-magic
 status: complete
 world: Aquabyssos
-type: faction
+type: Group
 created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:51.430893+00:00'
 category: Group
 obsidianUIMode: preview
 ---
+
+
+
 
 # Shadow Surgeons Collective
 
@@ -363,3 +367,20 @@ Hidden beneath the [[Shadow Market Canals]] in a pocket dimension partially exis
 
 > [!danger] DM Secret
 > The Silhouette Surgeon Prime is actually three different people sharing a single identity through memory synchronization. They take turns being "Prime" and have divided their original personalities among themselves to better run the organization. None of them remembers being a complete individual, and discovering this truth could either destroy the Collective or make them even more dangerous as they seek to become whole again.
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow Trade Network]]
+- [[The Shadow War Coalition]]
+- [[Shadow Merchant Riptide]]
+- [[Crystalline Depths]]
+- [[Find the Grief Bomb]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,11 +1,23 @@
 ---
-tags: [npc, chef, culinary-arts, prestigious]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- chef
+- complete
+- culinary-arts
+- npc
+- prestigious
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.139955+00:00'
+danger_level: Moderate
 ---
+
+
+
+
 
 # Chef Amara Tastecurrent
 
@@ -18,7 +30,7 @@ Amara's unique talent lies in her ability to enhance flavors using subtle magica
 
 ## Statistics
 **Medium humanoid (merfolk)**
-- **AC** 12, **HP** 38, **Speed** 30 ft, swim 50 ft
+- **AS** 12, **HP** 38, **Speed** 30 ft, swim 50 ft
 - **STR** 10 **DEX** 14 **CON** 12 **INT** 16 **WIS** 15 **CHA** 18
 - **Skills** Performance +7, Insight +5, Medicine +5, Sleight of Hand +5
 - **Special Abilities** Culinary Magic, Flavor Enhancement, Memory Infusion
@@ -95,3 +107,38 @@ After years of training under master chefs and studying magical cuisine techniqu
 
 ## DM Notes
 Amara works well as a sophisticated contact who can provide both services and information. Her restaurant is an excellent location for social encounters, and her magical cuisine can provide interesting mechanical benefits or plot complications.
+
+
+## Connections
+
+- [[The Bathyal Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

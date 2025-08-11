@@ -1,15 +1,22 @@
 ---
-tags: [organization, government, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "organization"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Groups
+tags:
+- aquabyssos
+- complete
+- government
+- organization
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Groups
 MyContainer: None
 MyCategory: Government
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.832820+00:00'
 ---
+
+
+
 
 # Parliament High Council
 
@@ -82,3 +89,32 @@ Citizens view the Council with mixed feelings - respect for the democratic proce
 
 ## DM Notes
 The Parliament High Council provides excellent political intrigue opportunities. Members can serve as quest givers, obstacles, or allies depending on party actions. The complex factional relationships allow for shifting alliances and unexpected betrayals. Use Council sessions as dramatic set pieces where party testimony or evidence can influence major city decisions.
+
+
+## Connections
+
+- [[Senator_Glaucus_Brain]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

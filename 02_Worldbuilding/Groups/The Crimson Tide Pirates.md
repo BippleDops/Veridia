@@ -1,14 +1,23 @@
 ---
-type: faction
-tags: [faction, pirate]
-aliases: [The Crimson Tide]
+type: Group
+tags:
+- both
+- draft
+- faction
+- pirate
+aliases:
+- The Crimson Tide
 created: 2025-07-23 15:30
 modified: 2025-07-23 15:30
 MyContainer: None
-MyCategory: Unknown
-  - Category/Group
+MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.170921+00:00'
+status: draft
 ---
+
+
 # The Crimson Tide Pirates
 
 ## General Info

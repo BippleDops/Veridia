@@ -1,23 +1,31 @@
 ---
-tags: [faction, martial-order, aethermoor, monastery, combat-training, spiritual-discipline]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Martial Arts Order"
-alignment: "Lawful Neutral"
-headquarters: "[[The Temple of Flowing Waters]]"
-leader: "[[Master Chen Wei]]"
-members: "~150 monks, students, and initiates"
-influence: "Regional (Martial arts community and spiritual seekers)"
-wealth: "Modest (Donations and training fees)"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- combat-training
+- complete
+- faction
+- martial-order
+- monastery
+- spiritual-discipline
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Martial Arts Order
+alignment: Lawful Neutral
+headquarters: '[[The Temple of Flowing Waters]]'
+leader: '[[Master Chen Wei]]'
+members: ~150 monks, students, and initiates
+influence: Regional (Martial arts community and spiritual seekers)
+wealth: Modest (Donations and training fees)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.302878+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # The Order of the Flowing Current
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors*
@@ -230,3 +238,11 @@ A community the Order has served for generations faces a crisis that threatens t
 
 **The Spiritual Journey**
 Master Chen Wei undertakes a dangerous spiritual journey to seek ancient wisdom that could benefit the Order, but the quest attracts attention from entities and organizations that seek to exploit or corrupt the knowledge he hopes to gain. The party must protect the Grand Master while accompanying him through physical and spiritual challenges that test their own character and capabilities as much as their martial arts skills.
+
+
+## Connections
+
+- [[Merchant Princes]]
+- [[Port Meridian]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[Campaign_Relationship_Matrix]]

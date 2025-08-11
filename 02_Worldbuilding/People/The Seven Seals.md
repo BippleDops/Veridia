@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
 # The Seven Seals
 
 ![The Seven Seals Portrait](04_Resources/Assets/Art/NPCs/The_Seven_Seals.png)
@@ -395,9 +396,6 @@ Points toward nearest Anchor Point:
 - Their power comes with massive restrictions
 - Death of a Seal should have cosmic consequences
 - Players might become Witnesses or even Seals
-
-### The Secret Truth
-Unknown to all but the GM: The Seven Seals are not protecting reality from the Deep Mother—they ARE the Deep Mother, split into seven aspects to prevent her from awakening to her true nature. The day all Seven realize this truth is the day reality ends.
 
 ---
 

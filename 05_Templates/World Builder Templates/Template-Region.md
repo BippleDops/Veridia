@@ -1,9 +1,18 @@
 ---
 tags:
-  - Category/Region
+- both
+- category/region
+- draft
 obsidianUIMode: preview
-MyContainer:
+MyContainer: null
+world: Both
+updated: '2025-08-11T13:08:47.012584+00:00'
+created: '2025-08-11T13:08:47.012584+00:00'
+status: draft
+type: Lore
 ---
+
+
 <%*
 
 // 1) Rename if title starts with "NewRegion"
@@ -143,7 +152,7 @@ Make notes of what you need to track in the region here.
 `BUTTON[button_hub]` **Hubs** Places where people live - Cities, Towns, Villages, Hamlets, Encampment, Keeps, Fortresses, Strongholds.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Hubs(s)", MyCategory as "Type"
+TABLE WITHOUT ID link(file.name) AC "Hubs(s)", MyCategory as "Type"
 FROM "02_Worldbuilding/Hubs"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
@@ -154,7 +163,7 @@ SORT file.name ASC
 `BUTTON[button_pointofinterest]`  Places that can be explored. 
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Points of Interest(s)", MyCategory as "Type"
+TABLE WITHOUT ID link(file.name) AC "Points of Interest(s)", MyCategory as "Type"
 FROM "02_Worldbuilding/Points of Interest"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
@@ -165,7 +174,7 @@ SORT file.name ASC
 `BUTTON[button_group]` Groups of people and power - religious, cults, guilds, military
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Group(s)", MyCategory as "Type"
+TABLE WITHOUT ID link(file.name) AC "Group(s)", MyCategory as "Type"
 FROM "02_Worldbuilding/Groups"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC
@@ -177,7 +186,7 @@ SORT file.name ASC
 `BUTTON[button_quest]` **P - Philosophy** (Religion and Education) - Houses of Worship, Schools, Universities, Laboratories, Arboretums
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Quest(s)", questGiver AS "Quest Giver", questStatus AS "Status"
+TABLE WITHOUT ID link(file.name) AC "Quest(s)", questGiver AC "Quest Giver", questStatus AC "Status"
 FROM "02_Worldbuilding/Quests"
 WHERE contains(MyContainer, this.file.link)
 SORT file.name ASC

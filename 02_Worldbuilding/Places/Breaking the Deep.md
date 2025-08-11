@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Breaking the Deep
 
 ![Breaking the Deep Portrait](04_Resources/Assets/Art/Places/Breaking_the_Deep.png)

@@ -1,15 +1,24 @@
 ---
-tags: [lore, anvil, theft, crafting, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- anvil
+- aquabyssos
+- complete
+- crafting
+- lore
+- theft
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.623917+00:00'
 ---
+
+
+
 
 # The Stolen Anvil
 
@@ -94,3 +103,38 @@ Without the anvil's return, Aquabyssos may lose its reputation as premier underw
 
 ## DM Notes
 The Stolen Anvil provides excellent motivation for retrieval quests, investigation adventures, or economic intrigue. The theft's impact creates ongoing consequences affecting equipment availability and NPC attitudes toward the party's crafting needs.
+
+
+## Connections
+
+- [[Gareth_Ironforge]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

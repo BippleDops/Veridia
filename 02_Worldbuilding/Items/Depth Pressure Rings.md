@@ -1,17 +1,27 @@
 ---
-tags: [item, magical-item, common-magic, aquabyssos, pressure-adaptation, underwater-gear]
-status: "complete"
-world: "Aquabyssos"
-type: "magical_item"
-item_type: "Environmental Adaptation Ring"
-rarity: "Common"
-requires_attunement: "No"
-affiliation: "Available Throughout Aquabyssos"
-current_location: "Common Throughout Underwater Communities"
+tags:
+- aquabyssos
+- common-magic
+- complete
+- item
+- magical-item
+- magical_item
+- pressure-adaptation
+- underwater-gear
+status: complete
+world: Aquabyssos
+type: Item
+item_type: Environmental Adaptation Ring
+rarity: Common
+requires_attunement: 'No'
+affiliation: Available Throughout Aquabyssos
+current_location: Common Throughout Underwater Communities
 danger_level: 1
-created_by: "Claude"
+created_by: Claude
 created: 2025-08-10
+updated: '2025-08-11T13:08:47.100035+00:00'
 ---
+
 
 # Depth Pressure Rings
 *Essential Protection for the Ocean's Embrace*

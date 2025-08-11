@@ -1,14 +1,22 @@
 ---
-tags: [master-index, groups, factions, complete, navigation]
-status: "complete"
-world: "Universal"
-type: "master-index"
-created_by: "Agent-20"
+tags:
+- complete
+- factions
+- groups
+- master-index
+- navigation
+- universal
+status: complete
+world: Universal
+type: Lore
+created_by: Agent-20
 created: 2025-08-11
 last_updated: 2025-08-11
-completion: "100%"
+completion: 100%
 total_organizations: 46
+updated: '2025-08-11T13:08:46.949208+00:00'
 ---
+
 
 # Master Groups Index
 *Comprehensive Directory of All Factions and Organizations*

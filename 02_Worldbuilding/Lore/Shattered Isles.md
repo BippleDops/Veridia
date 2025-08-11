@@ -1,17 +1,31 @@
 ---
-tags: [location, archipelago, aquabyssos, underwater-islands, dangerous-region, crystal-corruption, void-influence, exploration, isolation, fractured-reality]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- archipelago
+- complete
+- crystal-corruption
+- dangerous-region
+- exploration
+- fractured-reality
+- isolation
+- location
+- lore
+- underwater-islands
+- void-influence
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-location_type: "Dangerous Archipelago"
-scope: "Regional"
-danger_level: "Extreme"
-environmental_hazards: "Multiple"
-access_restriction: "Prohibited Without Authorization"
+updated: '2025-08-11T13:08:49.010278+00:00'
+location_type: Dangerous Archipelago
+scope: Regional
+danger_level: Extreme
+environmental_hazards: Multiple
+access_restriction: Prohibited Without Authorization
 ---
+
+
 
 # Shattered Isles
 *The Broken Chain of Underwater Mountains*
@@ -352,3 +366,9 @@ Disaster prevention scenarios involve characters in preventing or mitigating cat
 - [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for research efforts
 - [[02_Worldbuilding/People/Navigator Deep Current]] - Leading expert on Shattered Isles navigation
 - [[02_Worldbuilding/Lore/Royal Academy of Magical Sciences]] - Primary research organization
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Quest - The Lost Expedition]]

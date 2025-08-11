@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, tavern, brewing, entertainment, social, kelp, underwater, drinks]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Specialty Brewing Tavern"
-parent_location: "Harbor District"
-depth: "7,100 feet"
-danger_level: 1
-population: "~20 staff, 100-200 patrons nightly"
-government: "Independent business"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.304135+00:00'
+created: '2025-08-11T13:08:50.304135+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Algaebrew Tavern
 *Where the Sea's Bounty Flows Like Wine*
@@ -689,3 +684,8 @@ The Algaebrew Tavern stands as Aquabyssos's most innovative drinking establishme
 - [[Depth-Aging Process]]
 - [[Underwater Fermentation]]
 - [[Pressure Brewing Technology]]
+
+
+## Connections
+
+- [[Lumengarde]]

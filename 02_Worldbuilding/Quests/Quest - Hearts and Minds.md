@@ -1,19 +1,16 @@
 ---
-tags: [quest, political, intrigue, social, aethermoor, war]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-quest_level: "5-8"
-estimated_sessions: "5-7"
-quest_type: "Political Intrigue/Social"
-  - Category/Quest
-MyContainer: None
-MyCategory: Quests
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.087269+00:00'
+created: '2025-08-11T13:08:50.087269+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Quest - Hearts and Minds
 
@@ -332,3 +329,10 @@ The heroes must:
 ---
 
 *"The greatest battles are not fought with swords and spells, but with words and ideas. In New Skyholm, the war for hearts and minds will determine whether we soar together or fall divided."* - Councilor Elena Brightwind
+
+
+## Connections
+
+- [[Purist Coalition]]
+- [[The Shadow War Coalition]]
+- [[Quest - Diplomatic Immunity]]

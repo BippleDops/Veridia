@@ -1,18 +1,34 @@
 ---
-tags: [place, location, aquabyssos, marketplace, trade-hub, social-center, tidal-influenced]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Floating Marketplace"
-affiliation: "Independent Merchants (Loosely [[The Liminal Trading Company]] influenced)"
-significance: "Major (Primary Commercial Hub)"
-size: "Large Complex (50+ Individual Markets)"
-population: "~2,000 daily traders, 10,000+ daily customers"
+tags:
+- aquabyssos
+- complete
+- location
+- marketplace
+- place
+- social-center
+- tidal-influenced
+- trade-hub
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Floating Marketplace
+affiliation: Independent Merchants (Loosely [[The Liminal Trading Company]] influenced)
+significance: Major (Primary Commercial Hub)
+size: Large Complex (50+ Individual Markets)
+population: ~2,000 daily traders, 10,000+ daily customers
 danger_level: 2
-services: ["Trade", "Crafting", "Food", "Entertainment", "Information"]
-created_by: "Claude"
+services:
+- Trade
+- Crafting
+- Food
+- Entertainment
+- Information
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:50.462062+00:00'
 ---
+
+
 
 # The Tidepool Markets
 *Where Commerce Flows with the Tides*
@@ -400,3 +416,7 @@ The Tidepool Markets represent Aquabyssos's largest and most dynamic commercial 
 - Use merchant knowledge and connections to advance plot developments
 - Allow long-term relationship building with recurring market contacts
 - Balance helpful merchant allies with potential commercial rivals or obstacles
+
+## Connections
+
+- [[Old Sally Seasprayer]]

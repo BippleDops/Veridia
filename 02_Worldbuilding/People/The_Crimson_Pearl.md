@@ -1,51 +1,15 @@
 ---
-tags: [npc]
-first_name: "Scarlett"
-last_name: "Unknown"
-title: "The Crimson Pearl"
-location: "[[02_Worldbuilding/Places/Pearl_Harbor_City]]"
-faction: "[[The Coral Throne Syndicate]]"
-occupation: "Crime Boss / Trade Magnate"
-disposition: -2
-alignment: "Neutral Evil"
-race: "Sea Elf / Vampire Spawn"
-class: "Rogue/Warlock"
-level: 15
-ac: 18
-max_hp: 98
-current_hp: 98
-influence: 9
-faction_rank: 5
-portrait: "04_Resources/Assets/npcs/crimson-pearl.png"
-relationship_type: "criminal"
-relationships: 
-  - "[[High Tidecaller Nerissa]]"
-  - "[[02_Worldbuilding/People/Gareth_Ironforge]]"
-  - "Whisper Jack"
-  - "[[The Barnacle]]"
-  - "[[Captain Marlowe Tidecrest]]"
-  - "[[Aboleth Prime Yoth]]"
-related_quests:
-  - "[[Smuggler's Gambit]]"
-  - "[[The Pressure Pirates]]"
-  - "[[Blood in the Water]]"
-  - "[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]"
-last_encounter: ""
-stats:
-  str: 10
-  dex: 20
-  con: 14
-  int: 17
-  wis: 15
-  cha: 18
-description: "Pale sea elf with crimson eyes, always wears pearls that seem to pulse with inner light"
-notes: "Never appears during daylight hours, even underwater"
-secrets: ["Is a vampire spawn who feeds on blood mixed with seawater", "Has a direct tunnel to Market District", "Secretly funds the Restoration Movement", "Knows location of surface black market portals"]
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.825068+00:00'
+created: '2025-08-11T13:08:49.825068+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # The Crimson Pearl
 

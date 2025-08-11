@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Memory Trader Kellian
 
 ![Memory Trader Kellian Portrait](04_Resources/Assets/Art/Lore/Memory_Trader_Kellian.png)

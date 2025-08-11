@@ -1,18 +1,31 @@
 ---
-tags: [faction, group, cross-realm, guardians, void-watchers, reality-protectors, ancient]
-status: "complete"
-world: "Both Aethermoor & Aquabyssos"
-type: "faction"
-faction_type: "Reality Guardian Order"
-alignment: "Lawful Neutral (Cosmic Perspective)"
-headquarters: "[[The Observatory Between]] (outside normal reality)"
-leader: "[[The First Watcher]] (ancient entity)"
-members: "~200 across both realms and beyond"
-influence: "Hidden but Critical"
-purpose: "Prevent reality collapse and dimensional instability"
-created_by: "auto-stub"
+tags:
+- ancient
+- both-aethermoor-&-aquabyssos
+- complete
+- cross-realm
+- faction
+- group
+- guardians
+- reality-protectors
+- void-watchers
+status: complete
+world: Both Aethermoor & Aquabyssos
+type: Group
+faction_type: Reality Guardian Order
+alignment: Lawful Neutral (Cosmic Perspective)
+headquarters: '[[The Observatory Between]] (outside normal reality)'
+leader: '[[The First Watcher]] (ancient entity)'
+members: ~200 across both realms and beyond
+influence: Hidden but Critical
+purpose: Prevent reality collapse and dimensional instability
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:51.256037+00:00'
 ---
+
+
+
 
 # The Void Watchers
 *Guardians of Reality's Edge, Sentinels Against the Unmaking*
@@ -435,3 +448,17 @@ Training new Watchers requires exposing them to cosmic horrors that fundamentall
 - Internal conflicts between philosophical schools create complex political dynamics
 - Secret knowledge about reality cycles can drive long-term campaign mysteries
 - Moral complexity of cosmic protection versus individual agency creates ethical storylines
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[The Shadow-Crystal Synthesis]]
+- [[Elder Whisper-In-The-Dark]]
+- [[The Threshold Chambers]]
+- [[Goldspire Confederacy]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]

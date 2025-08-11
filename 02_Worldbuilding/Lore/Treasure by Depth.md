@@ -1,12 +1,21 @@
 ---
-tags: [lore, treasure, depth-scaling, loot-tables, rewards]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- depth-scaling
+- loot-tables
+- lore
+- rewards
+- treasure
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.757720+00:00'
 ---
+
+
 
 # Treasure by Depth
 
@@ -38,3 +47,9 @@ Permanent system governing treasure distribution throughout campaign.
 
 ## Campaign Use
 Provides mechanical framework for encouraging exploration while maintaining appropriate challenge-reward ratios.
+
+
+## Connections
+
+- [[Crystal Mimics]]
+- [[Random Encounter Tables]]

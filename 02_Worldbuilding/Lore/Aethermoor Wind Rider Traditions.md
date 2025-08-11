@@ -1,12 +1,20 @@
 ---
-tags: [lore, culture, tradition, aethermoor, wind-riders, aerial-customs]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aerial-customs
+- aethermoor
+- complete
+- culture
+- lore
+- tradition
+- wind-riders
+status: complete
+world: Aethermoor
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.244496+00:00'
 ---
+
 
 # Aethermoor Wind Rider Traditions
 *"The wind remembers every story told in its embrace - we are merely the voices that give it song."*

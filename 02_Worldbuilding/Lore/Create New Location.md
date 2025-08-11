@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Create New Location
 
 ![Create New Location Portrait](04_Resources/Assets/Art/Lore/Create_New_Location.png)

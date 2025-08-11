@@ -1,23 +1,33 @@
 ---
-tags: [npc, aquabyssos, guide, adapted, ranger, shadow-resistant, major-npc]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Human (Depth-Adapted)"
-class: "Ranger/Druid"
+tags:
+- adapted
+- aquabyssos
+- complete
+- guide
+- major-npc
+- npc
+- ranger
+- shadow-resistant
+status: complete
+world: Aquabyssos
+type: NPC
+race: Human (Depth-Adapted)
+class: Ranger/Druid
 level: 10
-alignment: "Neutral Good"
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "Independent (Former [[Depth Guard]])"
-status_condition: "Switching with Shadow"
-created_by: "auto-stub"
+alignment: Neutral Good
+location: '[[02_Worldbuilding/Places/Abyssos Prime]]'
+faction: Independent (Former [[Depth Guard]])
+status_condition: Switching with Shadow
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/People
+updated: '2025-08-11T13:08:49.940491+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
 
 # Marina Red Tide Coralheart
 *The Adapted Guide, Shadow Switcher, Depth Walker*
@@ -208,7 +218,7 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 ## Combat Statistics
 
 ### Base Stats (Level 10)
-- **AC**: 16 (Natural armor + Dex)
+- **AS**: 16 (Natural armor + Dex)
 - **HP**: 95 (10d10 + 30)
 - **Speed**: 30 ft, Swim 60 ft
 - **Initiative**: +4
@@ -373,3 +383,13 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[0
 ---
 
 *"In the depths, you learn that identity isn't about who you were—it's about who you choose to be when you could be anyone."*
+
+
+## Connections
+
+- [[Marina's Echo]]
+- [[The Emperor's Gambit]]
+- [[The Scattered Emperor]]
+- [[Abyssos Prime]]
+- [[The First Failure]]
+- [[Aquabyssos - Session 01 - The Drowning Welcome]]

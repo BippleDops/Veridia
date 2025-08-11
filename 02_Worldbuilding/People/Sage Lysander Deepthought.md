@@ -1,18 +1,15 @@
 ---
-tags: [npc, scholar, abyssal_academy, researcher]
-aliases: [Sage Deepthought, The Mad Scholar, Lysander]
-created: 2024-12-19
-image: "04_Resources/Assets/NPCs/lysander_deepthought.jpg"
-level: 13
-class: "Wizard/Artificer"
-race: "Mentally Adapted Human"
-alignment: "True Neutral"
-status: "Alive"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.659423+00:00'
+created: '2025-08-11T13:08:49.659423+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
 
 # Sage Lysander Deepthought
 

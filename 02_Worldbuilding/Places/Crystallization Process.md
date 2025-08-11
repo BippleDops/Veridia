@@ -1,11 +1,21 @@
 ---
-tags: [process, magical-crafting, crystals, manufacturing]
-status: "complete"
-world: "Aquabyssos"
-type: "process"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- crystals
+- magical-crafting
+- manufacturing
+- process
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.730733+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Crystallization Process
 
@@ -152,3 +162,8 @@ The process is essential to the city's economy and magical infrastructure, provi
 
 ## DM Notes
 The crystallization process provides background for industrial adventures, corporate espionage, and technological quests. It explains the city's wealth and magical capabilities while offering plot hooks around sabotage, rare materials, and magical innovation.
+
+
+## Connections
+
+- [[Screaming Gardens]]

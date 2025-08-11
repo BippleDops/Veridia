@@ -1,15 +1,24 @@
 ---
-tags: [lore, event, blood, violence, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Lore
+tags:
+- aquabyssos
+- blood
+- complete
+- event
+- lore
+- violence
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Lore
 MyContainer: None
 MyCategory: Events
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.621113+00:00'
 ---
+
+
+
 
 # Blood in the Water
 
@@ -68,3 +77,39 @@ Recent Shadow Conspiracy violence has increased blood-spill incidents. Cleanup c
 
 ## DM Notes
 Use "Blood in the Water" as both literal environmental hazard and metaphor for escalating conflicts. The concept works well for investigation scenarios where initial violence hints at larger conspiracies, or action scenes where combat consequences create ongoing complications.
+
+
+## Connections
+
+- [[The_Crimson_Pearl]]
+- [[The_Second_Rising]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

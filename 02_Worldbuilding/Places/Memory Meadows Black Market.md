@@ -1,11 +1,22 @@
 ---
-tags: [location, black-market, memory-trade, criminal]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- black-market
+- complete
+- criminal
+- location
+- memory-trade
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.762077+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Memory Meadows Black Market
 
@@ -129,3 +140,41 @@ The market exists in a legal gray area, as memory extraction is heavily regulate
 
 ## DM Notes
 This market explores themes of identity, the value of experience, and the ethics of memory manipulation. Use it for morally complex scenarios where players must decide what memories are worth preserving or forgetting.
+
+
+## Connections
+
+- [[Memory Farmer Thane]]
+- [[Diplomatic Tides]]
+- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- [[Campaign_Relationship_Matrix]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

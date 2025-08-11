@@ -1,48 +1,61 @@
 ---
-tags: [location, aquabyssos, shrine, whispers, madness, oracle]
-location_name: "Whisper-Touched William's Oracle Shrine"
-location_type: "Prophetic Shrine Complex"
-parent_location: "[[Abyssos Prime]]"
+tags:
+- aquabyssos
+- both
+- complete
+- location
+- madness
+- oracle
+- shrine
+- whispers
+location_name: Whisper-Touched William's Oracle Shrine
+location_type: Prophetic Shrine Complex
+parent_location: '[[Abyssos Prime]]'
 sub_locations:
-  - "[[The Whispering Chamber]]"
-  - "[[Gallery of Echoing Truths]]"
-  - "[[The Silence Garden]]"
-  - "[[Prophecy Translation Center]]"
-  - "[[William's Living Quarters]]"
-depth: "2400-2600 feet"
+- '[[The Whispering Chamber]]'
+- '[[Gallery of Echoing Truths]]'
+- '[[The Silence Garden]]'
+- '[[Prophecy Translation Center]]'
+- '[[William''s Living Quarters]]'
+depth: 2400-2600 feet
 population: 25
-government: "Oracular Authority"
-ruler: "[[02_Worldbuilding/People/Whisper-Touched William]]"
+government: Oracular Authority
+ruler: '[[02_Worldbuilding/People/Whisper-Touched William]]'
 factions:
-  - "[[The Voice Interpreters]]"
-  - "[[Silence Seekers]]"
-  - "[[Truth Hunters]]"
-  - "[[The Whisper Touched]]"
+- '[[The Voice Interpreters]]'
+- '[[Silence Seekers]]'
+- '[[Truth Hunters]]'
+- '[[The Whisper Touched]]'
 danger_level: 5
 visited: false
 discovered: true
 services:
-  - "Prophetic Consultation"
-  - "Whisper Translation"
-  - "Future Glimpse Sessions"
-  - "Truth Seeking Guidance"
-  - "Madness Counseling"
+- Prophetic Consultation
+- Whisper Translation
+- Future Glimpse Sessions
+- Truth Seeking Guidance
+- Madness Counseling
 notable_npcs:
-  - "[[02_Worldbuilding/People/Whisper-Touched William]]"
-  - "[[Echo-Translator Vera]]"
-  - "[[Silent Guardian Marcus]]"
-  - "[[Truth-Seeker Cornelius]]"
-current_state: "Active oracle shrine"
+- '[[02_Worldbuilding/People/Whisper-Touched William]]'
+- '[[Echo-Translator Vera]]'
+- '[[Silent Guardian Marcus]]'
+- '[[Truth-Seeker Cornelius]]'
+current_state: Active oracle shrine
 temporal_stability: 40
-shadow_density: "Low"
-pressure_effects: "Moderate"
-status: "complete"
-created: 2025-08-11
-  - Category/Place
+shadow_density: Low
+pressure_effects: Moderate
+status: complete
+created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.133315+00:00'
+type: Location
 ---
+
+
+
 
 # Whisper-Touched William's Oracle Shrine
 ## Where Madness Speaks Truth
@@ -363,3 +376,8 @@ The shrine's atmosphere makes deception difficult:
 ---
 
 *"At Whisper-Touched William's shrine, the question isn't whether you can handle the truth—it's whether the truth can handle being known."*
+
+
+## Connections
+
+- [[The Whispering Depths]]

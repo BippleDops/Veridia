@@ -1,23 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.274454+00:00'
+created: '2025-08-11T13:08:51.274454+00:00'
+status: draft
 tags:
-  - faction
-  - guild
-  - craft
-  - artisan
-  - economic
-type: Crafting Guild
-alignment: Lawful Good
-headquarters: "[[02_Worldbuilding/Places/Crystalhaven]]"
-leader: "[[Master Artificer Korvin Gearwright]]"
-status: Active
-power_level: Regional Influence
-created: 2025-08-09
-image: "04_Resources/Assets/Factions/artisans_collective.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Artisans' Collective of Master Crafters
 *Where Skill Meets Magic and Perfection is Born*
@@ -38,3 +31,7 @@ The Artisans' Collective represents the finest craftspeople across all trades, f
 - **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient crafting techniques
 - **[[02_Worldbuilding/People/Engineer Brass Gearspin]]** - Captured member needing liberation
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Stolen designs and counterfeiting threats
+
+## Connections
+
+- [[The Forsaken Consortium Collective]]

@@ -1,21 +1,16 @@
 ---
-tags: [location, aquabyssos, temple, religion, faith, spiritual, sacred, pilgrimage]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Religious District"
-parent_location: "Port Meridian"
-danger_level: 1
-population: "~2,500 clergy and pilgrims, ~8,000 worshippers daily"
-government: "Council of Faiths under Royal Religious Charter"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.955839+00:00'
+created: '2025-08-11T13:08:50.955839+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # Temple Ward
 ## The Sacred Heart of Aquabyssos Faith

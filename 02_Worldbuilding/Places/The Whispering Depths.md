@@ -1,15 +1,18 @@
 ---
-tags: [location, wilderness, psychological, mysterious]
-aliases: [The Whispering Depths, The Madness Wells, Echo's End]
-created: 2024-12-19
-image: "04_Resources/Assets/Locations/whispering_depths.jpg"
-danger_level: "High"
-depth: "3000-4000 feet"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.502628+00:00'
+created: '2025-08-11T13:08:50.502628+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Whispering Depths - Echo's End
 
@@ -113,3 +116,39 @@ Perfectly preserved vessel in a silence pool. Crew found dead with expressions o
 - [[Truth and Madness]] - Retrieve information from Truth Well
 - [[Quieting the Depths]] - Investigate spreading whispers
 - [[The Last Words]] - Record dying messages in whispers
+
+
+## Connections
+
+- [[Forge of War]]
+- [[Navigator Flux]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

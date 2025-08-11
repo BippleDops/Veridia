@@ -1,15 +1,21 @@
 ---
 title: Memory Trading Economy System
-type: mechanics
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - memory
-  - economy
-  - trading
-  - narrative
+- both
+- complete
+- economy
+- mechanics
+- memory
+- narrative
+- trading
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.072349+00:00'
 ---
+
+
 
 # Memory Trading Economy System
 *Where Experience Becomes Currency and Identity Is Negotiable*

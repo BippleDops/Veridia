@@ -1,13 +1,20 @@
 ---
 title: Session Planning Toolkit
-type: gm_resource
+type: Lore
 status: complete
 tags:
-  - gm-resource
-  - session-planning
-  - templates
+- both
+- complete
+- gm-resource
+- gm_resource
+- session-planning
+- templates
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.029453+00:00'
 ---
+
+
 
 # Session Planning Toolkit
 *Everything You Need for Memorable Sessions*

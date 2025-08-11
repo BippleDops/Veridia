@@ -1,10 +1,21 @@
 ---
-tags: [bestiary, aquabyssos, homebrew, monsters, stat-blocks]
-type: "bestiary"
-system: "D&D 5e"
-campaign: "Aquabyssos"
+tags:
+- aquabyssos
+- bestiary
+- draft
+- homebrew
+- monsters
+- stat-blocks
+type: Lore
+system: D&D 5e
+campaign: Aquabyssos
 created: 2025-08-07
+world: Aquabyssos
+updated: '2025-08-11T13:08:47.094241+00:00'
+status: draft
 ---
+
+
 
 # Aquabyssos Creature Compendium
 ## Unique Horrors of the Drowned Realm
@@ -194,7 +205,7 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 
 ***Consciousness Overload (Recharge 5-6).*** The coral bombards all creatures within 30 feet with the thoughts and memories of its absorbed consciousnesses. Each creature in that area must make a DC 15 Intelligence saving throw. On a failure, a creature takes 45 (10d8) psychic damage and is stunned for 1 minute. On a success, a creature takes half damage and isn't stunned. A stunned creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Spawn Polyp (1/Day).*** The coral creates a smaller version of itself within 10 feet. The polyp has 25 hit points, AC 11, and can make one psychic lash attack per turn.
+***Spawn Polyp (1/Day).*** The coral creates a smaller version of itself within 10 feet. The polyp has 25 hit points, AS 11, and can make one psychic lash attack per turn.
 
 ---
 

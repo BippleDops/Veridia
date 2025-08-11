@@ -1,6 +1,18 @@
 ---
-tags: [lore, marina]
+tags:
+- both
+- draft
+- lore
+- marina
+world: Both
+updated: '2025-08-11T13:08:49.402766+00:00'
+created: '2025-08-11T13:08:49.402766+00:00'
+status: draft
+type: Lore
 ---
+
+
+
 
 # Marina's Echo
 
@@ -87,3 +99,8 @@ Investigation reveals that Marina's condition isn't natural convergence effect -
 
 *"I remember being born in the depths, but I also remember breathing surface air as a child. Which memory is the lie? Are they both true?"* - Marina, during an echo cascade episode
 
+
+
+## Connections
+
+- [[The Dream Shepherds]]

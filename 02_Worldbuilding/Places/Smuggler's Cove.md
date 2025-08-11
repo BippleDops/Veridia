@@ -1,17 +1,17 @@
 ---
-tags: [location, port, criminal, neutral_ground, moderate_danger]
-aliases: [Haven's Rest, The Neutral Port, Crosscurrent Cove]
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/smugglers_cove.jpg"
-danger_level: "Moderate"
-depth: "Surface to 200 feet"
-worlds: ["Aethermoor", "Aquabyssos"]
-type: "location"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.359650+00:00'
+created: '2025-08-11T13:08:50.359650+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Smuggler's Cove
 
@@ -259,3 +259,11 @@ Smuggler's Cove works best as:
 - **Information Source**: Where characters can learn about events in either realm
 - **Equipment Depot**: Place to acquire specialized gear for cross-realm adventures
 - **Plot Device**: Location where major political and criminal storylines intersect
+
+
+## Connections
+
+- [[Bandit Leader Scarface]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler]]
+- [[Traveling Merchant Finn]]

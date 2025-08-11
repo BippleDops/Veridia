@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Pressure Crown
 
 ![The Pressure Crown Portrait](04_Resources/Assets/Art/Places/The_Pressure_Crown.png)

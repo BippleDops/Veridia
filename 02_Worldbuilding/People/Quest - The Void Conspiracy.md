@@ -1,20 +1,30 @@
 ---
-tags: [quest, void, conspiracy, aethermoor, high-level, investigation, shadow-crystal, dimensional]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-level: "11-15"
-category: "Major Story Arc"
-location: "Multiple - Aethermoor Cities"
-reward: "Epic"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- conspiracy
+- dimensional
+- high-level
+- investigation
+- quest
+- shadow-crystal
+- void
+status: complete
+world: Aethermoor
+type: NPC
+level: 11-15
+category: Major Story Arc
+location: Multiple - Aethermoor Cities
+reward: Epic
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Quests
+updated: '2025-08-11T13:08:49.935309+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
+
 
 # Quest - The Void Conspiracy
 *Uncover the truth behind dimensional reality manipulation*
@@ -348,3 +358,8 @@ This quest can connect to other campaign elements:
 - **The Crimson Sage**: Ancient being might have opinions on reality manipulation
 
 The Void Conspiracy serves as a high-level investigation that challenges players intellectually while providing plenty of combat and moral complexity. It demonstrates the dangers of unchecked scientific advancement and the responsibility that comes with power over reality itself.
+
+
+## Connections
+
+- [[Prince Caspian Duskwater]]

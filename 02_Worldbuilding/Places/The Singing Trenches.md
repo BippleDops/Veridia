@@ -1,17 +1,17 @@
 ---
-tags: [location, wilderness, sonic_hazard, high_danger]
-aliases: [The Resonant Depths, The Harmonic Abyss, The Choir of Stone]
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/singing_trenches.jpg"
-danger_level: "High"
-depth: "4000-7000 feet"
-world: "Aquabyssos"
-type: "location"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.357219+00:00'
+created: '2025-08-11T13:08:50.357219+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Singing Trenches
 
@@ -218,3 +218,13 @@ The Singing Trenches work best as:
 - **Diplomatic Challenge**: Balancing the needs of preservation vs. exploitation
 - **Musical Dungeon**: Where sound and music replace traditional traps and puzzles
 - **Connection Point**: Bridge between surface musical traditions and depth magic
+
+
+## Connections
+
+- [[Crystalline Depths]]
+- [[Discover the Singers Beyond]]
+- [[Find the Grief Bomb]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

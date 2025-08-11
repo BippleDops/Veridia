@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Save Queen Seraphina
 
 ![Save Queen Seraphina Portrait](04_Resources/Assets/Art/Lore/Save_Queen_Seraphina.png)

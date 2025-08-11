@@ -1,15 +1,21 @@
 ---
 title: Complete Pressure Adaptation System
-type: mechanics
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - pressure
-  - adaptation
-  - transformation
-  - character-progression
+- adaptation
+- both
+- character-progression
+- complete
+- mechanics
+- pressure
+- transformation
 created: 2025-08-11
+world: Both
+updated: '2025-08-11T13:08:47.063898+00:00'
 ---
+
+
 
 # Complete Pressure Adaptation System
 *The Ultimate Guide to Evolution Under Pressure*

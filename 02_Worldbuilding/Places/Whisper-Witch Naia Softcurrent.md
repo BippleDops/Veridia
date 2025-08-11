@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Whisper-Witch Naia Softcurrent
 
 ![Whisper-Witch Naia Softcurrent Portrait](04_Resources/Assets/Art/Places/Whisper-Witch_Naia_Softcurrent.png)

@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # The Remembrancer General
 
 ![The Remembrancer General Portrait](04_Resources/Assets/Art/Lore/The_Remembrancer_General.png)

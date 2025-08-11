@@ -1,11 +1,22 @@
 ---
-tags: [location, palace, government, royal]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- government
+- location
+- palace
+- royal
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.762943+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Royal Palace of Meridian
 
@@ -120,3 +131,38 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 
 ## DM Notes
 The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and government officials to create multilayered plots with significant consequences for player choices.
+
+
+## Connections
+
+- [[The Royal Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

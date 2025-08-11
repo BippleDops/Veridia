@@ -1,15 +1,26 @@
 ---
-tags: [quest, forest, death, corruption, aethermoor, complete]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quests
+tags:
+- aethermoor
+- complete
+- corruption
+- death
+- forest
+- quest
+status: complete
+world: Aethermoor
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Environmental
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.658703+00:00'
+cr: '6'
 ---
+
+
+
+
 
 # Quest - The Dying Forest
 
@@ -90,3 +101,45 @@ The Silverleaf Forest has stood for millennia, its magical trees providing prote
 
 ## DM Notes
 This quest explores environmental themes and offers multiple problem-solving approaches. The corruption provides visceral horror while the dying forest creates urgency. Use the investigation phase to build tension before revealing the supernatural threat. The multiple solution paths accommodate different party strengths and moral approaches.
+
+
+## Connections
+
+- [[Archdruid Thornweaver]]
+- [[The Verdant Reach]]
+
+
+## Overview
+
+
+TODO
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

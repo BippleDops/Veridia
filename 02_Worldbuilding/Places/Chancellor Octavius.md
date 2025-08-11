@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Chancellor Octavius
 
 ![Chancellor Octavius Portrait](04_Resources/Assets/Art/Places/Chancellor_Octavius.png)

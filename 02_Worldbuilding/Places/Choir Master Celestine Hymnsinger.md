@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Choir Master Celestine Hymnsinger
 
 ![Choir Master Celestine Hymnsinger Portrait](04_Resources/Assets/Art/Places/Choir_Master_Celestine_Hymnsinger.png)

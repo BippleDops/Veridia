@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, fortress, military, blackheart, typhoon, deep-sea, defensive]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Military Fortress"
-parent_location: "The Deep Military Zone"
-depth: "15,000 feet"
-danger_level: 4
-population: "800 (military personnel, support staff, and specialists)"
-government: "Military Command Structure"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.843658+00:00'
+created: '2025-08-11T13:08:50.843658+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Blackheart Fortress
 *Iron Will in the Crushing Depths*
@@ -483,3 +478,10 @@ Blackheart Fortress serves as [[Commander Typhoon Blackheart]]'s primary militar
 **Brotherhood**: Building strong bonds with military personnel and commanders
 
 Blackheart Fortress stands as [[Commander Typhoon Blackheart]]'s greatest achievement and [[Aquabyssos]]'s strongest defense against the unknown horrors that emerge from the deepest reaches of the ocean. Through advanced military technology, elite training programs, and unwavering dedication to territorial defense, this fortress represents the pinnacle of deep-sea military capability, proving that even in the crushing depths where lesser installations would fail, military discipline and technological innovation can create an impregnable bulwark against the darkest threats facing underwater civilization.
+
+## Connections
+
+- [[Captain Garrett Stormcutter]]
+- [[Emperor Thalassius the Wise]]
+- [[Tenebrarum Ambassadors]]
+- [[The Wandering Atoll]]

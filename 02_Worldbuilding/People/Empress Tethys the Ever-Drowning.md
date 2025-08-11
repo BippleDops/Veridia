@@ -1,17 +1,16 @@
 ---
-tags: [npc, aquabyssos, royalty, tragic, complex]
-alignment: Lawful Neutral (varies)
-race: Transformed Human (Depth Sovereign)
-class: Sorcerer/Cleric
-level: 20
-location: [[Aquabyssos]] - The Obsidian Palace
-faction: The Depth Hierarchy
-status: Active (Dying/Resurrecting Daily)
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.931945+00:00'
+created: '2025-08-11T13:08:49.931945+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Empress Tethys the Ever-Drowning
 
@@ -137,3 +136,27 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 - Needs help preventing/causing the Second Drowning
 - Requests assassination of one of her other selves
 - Wants to send message to her lost love's descendant
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

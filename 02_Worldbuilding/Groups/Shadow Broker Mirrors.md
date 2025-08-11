@@ -1,19 +1,28 @@
 ---
-tags: [faction, aquabyssos, information-brokers, mirrors, reflection-magic, espionage]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Information Syndicate"
-alignment: "True Neutral"
-headquarters: "[[The Reflection Chamber]] (Hidden)"
-leader: "[[The Prime Reflection]]"
-members: "~200 brokers, spies, and mirror-touched"
-influence: "Extensive (Information Networks)"
-purpose: "Control information through reflection magic"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- espionage
+- faction
+- information-brokers
+- mirrors
+- reflection-magic
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Information Syndicate
+alignment: True Neutral
+headquarters: '[[The Reflection Chamber]] (Hidden)'
+leader: '[[The Prime Reflection]]'
+members: ~200 brokers, spies, and mirror-touched
+influence: Extensive (Information Networks)
+purpose: Control information through reflection magic
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:51.381809+00:00'
 ---
+
+
 
 # Shadow Broker Mirrors
 *The Reflection Syndicate, Masters of Information Mirrors, Those Who See All Faces*
@@ -544,3 +553,8 @@ Advanced mirror magic research is developing ability to trap people's consciousn
 ---
 
 *"Every surface that can cast a reflection is a window into truth. We simply provide the view."* - Shadow Broker Mirrors Creed
+
+
+## Connections
+
+- [[Party Shadows]]

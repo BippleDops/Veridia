@@ -1,21 +1,16 @@
 ---
-tags: [faction, biomancers, flesh-magic, aquabyssos, organization]
-status: "active"
-world: "Aquabyssos"
-type: "faction"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-09
-faction_type: "Magical Order"
-allegiance: "Independent"
-size: "Medium (50-100 members)"
-location: "The Ossuary Gardens"
-threat_level: "High"
-  - Category/People
-MyContainer: None
-MyCategory: Faction
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.954327+00:00'
+created: '2025-08-11T13:08:49.954327+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # The Biomancers
 
@@ -220,3 +215,23 @@ When forced to fight, Biomancers prefer to reshape the battlefield and their ene
 - The party must negotiate a peace treaty between the Biomancers and their enemies, but each side wants the other completely destroyed
 - One party member is revealed to have Biomancer modifications they don't remember receiving
 - The Biomancers offer to resurrect a beloved fallen party member, but the resurrection comes with... alterations
+
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Corallion]]
+- [[Abyssal Cathedral]]
+- [[Aether Crystal]]
+- [[Assassin]]
+- [[Duke Cyrus Reefheart]]
+- [[His Own Shadow]]
+- [[Knight]]
+- [[Marcus "The Shade" Blackwood]]
+- [[Oracle]]
+- [[Parliament Loyalists]]
+- [[The Barnacle]]
+- [[The Cerulean Breath]]
+- [[The Sorrowmaster]]
+- [[The Tidecaller]]
+- [[Lumengarde]]

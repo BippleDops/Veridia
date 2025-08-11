@@ -1,16 +1,27 @@
 ---
-tags: [lore, festival, celebration, aquabyssos, tides, cultural-event, community, seasonal, spiritual]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "cultural-expansion"
+tags:
+- aquabyssos
+- celebration
+- community
+- complete
+- cultural-event
+- festival
+- lore
+- seasonal
+- spiritual
+- tides
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: cultural-expansion
 created: 2025-08-11
-updated: 2025-08-11
-festival_type: "Annual Community Celebration"
-season: "Spring"
-duration: "Seven Days"
-participants: "All Aquabyssos Communities"
+updated: '2025-08-11T13:08:49.149135+00:00'
+festival_type: Annual Community Celebration
+season: Spring
+duration: Seven Days
+participants: All Aquabyssos Communities
 ---
+
 
 # The Festival of Rising Tides
 *The Great Awakening of Waters and Spirits*

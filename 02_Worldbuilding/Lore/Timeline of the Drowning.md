@@ -1,14 +1,27 @@
 ---
-tags: [lore, timeline, drowning, aquabyssos, cataclysm, history, civilization, deep-mother, transformation, pre-submersion]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Historical Timeline"
-significance: "Foundational"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- cataclysm
+- civilization
+- complete
+- deep-mother
+- drowning
+- history
+- lore
+- pre-submersion
+- timeline
+- transformation
+status: complete
+world: Aquabyssos
+type: Lore
+category: Historical Timeline
+significance: Foundational
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:48.399710+00:00'
 ---
+
+
 
 # Timeline of the Drowning
 *The Great Submersion That Created Aquabyssos*
@@ -540,3 +553,17 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 
 *"The Drowning was not the end of our world, but the birth of our true nature."*
 *- Inscription at the [[Parliament of Echoes]]*
+
+
+## Connections
+
+- [[Healing Two Worlds]]
+- [[Memory Alteration Consequences]]
+- [[Merged Reality Zones]]
+- [[Thalassius the Wise]]
+- [[The Convergence Point]]
+- [[The Drowning Welcome]]
+- [[The Memory Weapon Arms Race]]
+- [[The Queen]]
+- [[The Real Marina]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,20 +1,31 @@
 ---
-tags: [quest, religion, politics, surface-world, prophecy, heresy, social-upheaval]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
+tags:
+- aquabyssos
+- complete
+- heresy
+- politics
+- prophecy
+- quest
+- religion
+- social-upheaval
+- surface-world
+status: complete
+world: Aquabyssos
+type: Lore
 level: 6-10
 duration: 4-6 sessions
 threat_level: high
-quest_giver: "High Tidecaller Nerissa Deepcurrent"
-created_by: "auto-stub"
+quest_giver: High Tidecaller Nerissa Deepcurrent
+created_by: auto-stub
 created: 2025-08-08
-last_modified: 2025-08-10
-  - Category/Quest
+last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.047660+00:00'
 ---
+
+
 
 # Prophet Miralyn Surfacer
 
@@ -269,3 +280,9 @@ The party discovers that Miralyn's visions come from manipulation by external fo
 **Outcomes**: Immediate crisis ends but larger questions about security and divine revelation emerge. New adventures focus on identifying and confronting the manipulating forces.
 
 This quest provides opportunities for complex moral decision-making, theological exploration, and social problem-solving while advancing the larger themes of surface/depth relations that define the Aquabyssos campaign setting. The resolution chosen by the party will have lasting consequences for the campaign world and establish precedents for handling future religious and political conflicts.
+
+
+## Connections
+
+- [[Nerissa_Deepcurrent]]
+- [[The_Second_Rising]]

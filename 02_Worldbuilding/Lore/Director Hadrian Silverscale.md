@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Director Hadrian Silverscale
 
 ![Director Hadrian Silverscale Portrait](04_Resources/Assets/Art/Lore/Director_Hadrian_Silverscale.png)

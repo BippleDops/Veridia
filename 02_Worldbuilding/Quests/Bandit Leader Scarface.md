@@ -1,14 +1,27 @@
 ---
-tags: [quest, combat, social, bandit, piracy, revenge, surface-relations]
+tags:
+- aquabyssos
+- bandit
+- combat
+- complete
+- piracy
+- quest
+- revenge
+- social
+- surface-relations
 status: complete
 world: Aquabyssos
-type: quest
+type: Lore
 level: 5-9
 duration: 2-3 sessions
 threat_level: moderate
 created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.065667+00:00'
 ---
+
+
+
 
 # Bandit Leader Scarface
 
@@ -176,7 +189,7 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 
 #### Equipment
 - **Corrupted Cutlass**: Weapon infused with [[02_Worldbuilding/Lore/Crystal Corruption]], causes ongoing necrotic damage
-- **Pressure Suit of Command**: AC 17 armor that allows underwater communication with allies within 1 mile
+- **Pressure Suit of Command**: AS 17 armor that allows underwater communication with allies within 1 mile
 - **Depth Charges**: Explosive devices that create underwater shockwaves
 - **Navigator's Charts**: Detailed maps of secret routes and hidden bases worth 1,500 gp
 - **Leadership Badge**: Symbol of his authority over the [[02_Worldbuilding/Groups/Crimson Tide Pirates]]
@@ -291,3 +304,8 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 
 > [!danger] DM Secret
 > Korvin's crystal corruption is slowly killing him - he has maybe six months to live. His desperate escalation isn't just about revenge; it's about accomplishing something meaningful before his death. This knowledge could completely change how the party approaches the situation, turning a villain into a tragic figure racing against time.
+
+
+## Connections
+
+- [[Find_the_Missing_Caravan]]

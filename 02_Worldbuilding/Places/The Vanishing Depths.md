@@ -1,17 +1,17 @@
 ---
-tags: [location, dimensional_hazard, unstable_reality, extreme_danger]
-aliases: [The Shifting Deep, The Reality Tears, The Inconstant Abyss]
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/vanishing_depths.jpg"
-danger_level: "Extreme"
-depth: "Variable (5000-15000+ feet)"
-world: "Aquabyssos"
-type: "location"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.047730+00:00'
+created: '2025-08-11T13:08:51.047730+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Vanishing Depths
 
@@ -229,3 +229,8 @@ The Vanishing Depths work best as:
 - **Plot Device**: Explaining time travel, alternate timelines, or dimensional events
 - **Ultimate Test**: Location that challenges players' problem-solving abilities beyond combat
 - **Campaign Climax**: Final location where reality-threatening plots come to a head
+
+
+## Connections
+
+- [[New Tethys]]

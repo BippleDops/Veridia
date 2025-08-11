@@ -1,16 +1,33 @@
 ---
-tags: [location, historical, warfare, tunnels, siege, aethermoor, underground, military]
-status: "completed"
-world: "Aethermoor"
-type: "Historical Infrastructure"
+tags:
+- aethermoor
+- completed
+- historical
+- historical-infrastructure
+- location
+- military
+- siege
+- tunnels
+- underground
+- warfare
+status: completed
+world: Aethermoor
+type: Lore
 danger_level: 7
-era: "The Continental Wars"
-builders: "[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]"
-current_status: "Partially Collapsed, Some Sections Active"
+era: The Continental Wars
+builders: '[[02_Worldbuilding/Lore/Ancient Aquabyssos Rulers]]'
+current_status: Partially Collapsed, Some Sections Active
 created: 2025-08-09
-updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Continental War]]", "[[02_Worldbuilding/Places/Port Meridian]]", "[[02_Worldbuilding/Places/Crystalhaven]]", "[[02_Worldbuilding/Places/Ironhold]]"]
+updated: '2025-08-11T13:08:48.591203+00:00'
+related_entities:
+- '[[02_Worldbuilding/Lore/Continental War]]'
+- '[[02_Worldbuilding/Places/Port Meridian]]'
+- '[[02_Worldbuilding/Places/Crystalhaven]]'
+- '[[02_Worldbuilding/Places/Ironhold]]'
 ---
+
+
+
 
 # Ancient Siege Tunnels
 *The Underground Arteries of Ancient Warfare*
@@ -173,3 +190,9 @@ The Ancient Siege Tunnels serve as:
 - Sources of historical context for current political tensions
 - Venues for encounters that blend exploration, combat, and puzzle-solving
 EOF < /dev/null
+
+## Connections
+
+- [[Bandit Scouts]]
+- [[Rescue Senator Glaucus]]
+- [[Campaign_Relationship_Matrix]]

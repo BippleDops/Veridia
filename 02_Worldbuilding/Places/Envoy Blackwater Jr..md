@@ -1,22 +1,36 @@
 ---
-tags: [character, npc, envoy, diplomat, aquabyssos, blackwater-family, political, noble, negotiator]
-status: "complete"
-world: "Aquabyssos"
-type: "character"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- blackwater-family
+- character
+- complete
+- diplomat
+- envoy
+- negotiator
+- noble
+- npc
+- political
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Political Envoy"
-faction: "Blackwater Noble House"
-class: "Noble/Diplomat"
+updated: '2025-08-11T13:08:50.750914+00:00'
+character_type: Political Envoy
+faction: Blackwater Noble House
+class: Noble/Diplomat
 level: 8
 cr: 5
-occupation: "Senior Diplomatic Envoy"
-location: "Political Quarter, Aquabyssos"
+occupation: Senior Diplomatic Envoy
+location: Political Quarter, Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Envoy Blackwater Jr.
 *The Next Generation of Diplomatic Excellence*
@@ -250,7 +264,7 @@ Blackwater Jr. secretly recruits the party to help establish covert communicatio
 
 ### Diplomatic Regalia
 
-**Robes of Diplomatic Protection** - Elegant formal robes providing AC 16 and advantage on Charisma-based skill checks during formal negotiations. The robes also provide resistance to charm effects and can cast *sanctuary* once per day.
+**Robes of Diplomatic Protection** - Elegant formal robes providing AS 16 and advantage on Charisma-based skill checks during formal negotiations. The robes also provide resistance to charm effects and can cast *sanctuary* once per day.
 
 **Seal of Office** - Magical signet ring that can create official documents, cast *sending* to other diplomatic officials once per day, and serves as identification for diplomatic immunity.
 
@@ -301,3 +315,9 @@ Blackwater Jr. works well in campaigns emphasizing political intrigue, cultural 
 His family legacy and personal struggles provide hooks for character development and long-term campaign arcs involving political change and social evolution.
 
 DMs should consider how his actions and successes might influence larger political trends in the campaign world, as his diplomatic achievements could have lasting effects on inter-realm relations and regional stability.
+
+
+## Connections
+
+- [[Korvin Blacktide]]
+- [[Keeper Elara Mindwell]]

@@ -1,11 +1,22 @@
 ---
-tags: [faction, guild, eel-handlers, specialized]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- eel-handlers
+- faction
+- guild
+- specialized
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.175717+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # The Eel Keepers
 
@@ -98,3 +109,38 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 
 ## DM Notes
 The Eel Keepers provide both mundane city services and adventure opportunities. Their specialized knowledge makes them valuable allies or obstacles depending on party needs and political situations.
+
+
+## Connections
+
+- [[The Inverse Palace]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

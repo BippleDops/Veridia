@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Screaming Gardens - Songwood Grove
 
 ![Screaming Gardens - Songwood Grove Portrait](04_Resources/Assets/Art/Places/Screaming_Gardens_-_Songwood_Grove.png)

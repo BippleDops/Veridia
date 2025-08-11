@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Lost Shipment
 
 ![The Lost Shipment Portrait](04_Resources/Assets/Art/Places/The_Lost_Shipment.png)

@@ -1,26 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.992986+00:00'
+created: '2025-08-11T13:08:49.992986+00:00'
+status: draft
 tags:
-  - npc
-  - captain
-  - corrupted
-  - family
-  - tragic
-  - explorer
+- both
+- draft
 type: NPC
-race: Human (Crystal-Corrupted)
-class: Warlock/Navigator
-level: 11
-alignment: Chaotic Neutral (formerly Neutral Good)
-location: [[02_Worldbuilding/Places/The Crystalline Wastes]]
-faction: The Corrupted (formerly [[02_Worldbuilding/Groups/The Crown]])
-status: Missing/Transformed
-created: 2025-08-09
-image: "04_Resources/Assets/NPCs/captain_blackwater_corrupted.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # Captain Blackwater
 *The Lost Brother, Herald of Crystal Song*

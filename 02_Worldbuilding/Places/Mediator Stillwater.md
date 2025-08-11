@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Mediator Stillwater
 
 ![Mediator Stillwater Portrait](04_Resources/Assets/Art/Places/Mediator_Stillwater.png)

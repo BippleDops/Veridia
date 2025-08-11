@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # NPC Cross-World Connections
 
 ![NPC Cross-World Connections Portrait](04_Resources/Assets/Art/Lore/NPC_Cross-World_Connections.png)

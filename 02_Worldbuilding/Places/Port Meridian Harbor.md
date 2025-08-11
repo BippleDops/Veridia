@@ -1,15 +1,25 @@
 ---
-tags: [location, port, harbor, trade, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- aquabyssos
+- complete
+- harbor
+- location
+- port
+- trade
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.882206+00:00'
+danger_level: Moderate
 ---
+
+
+
 
 # Port Meridian Harbor
 
@@ -123,3 +133,31 @@ Port Meridian connects directly to [[Aquabyssos]]'s main transportation network 
 - [[Depth Wardens]] - Security and law enforcement agency
 - [[Aethermoor]] - Primary surface trading partner
 - [[The Void Touched Depths]] - Mysterious deep-sea connection
+- [[Comprehensive-World-Connection-Guide]]
+- [[Port Meridian - Market Square]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

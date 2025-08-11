@@ -1,16 +1,31 @@
 ---
-tags: [system, spells, necromancy, magic-theory, death, undeath, life-force, aquabyssos, aethermoor, underwater-magic]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- aquabyssos
+- both-worlds
+- complete
+- death
+- life-force
+- lore
+- magic-theory
+- necromancy
+- spells
+- system
+- undeath
+- underwater-magic
+status: complete
+world: Both Worlds
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-school: "Necromancy"
-focus: "Death, Undeath, and Life Force Magic"
-complexity: "Fundamental to Forbidden"
-practitioners: "Death speakers, life mages, preservers"
+updated: '2025-08-11T13:08:49.362202+00:00'
+school: Necromancy
+focus: Death, Undeath, and Life Force Magic
+complexity: Fundamental to Forbidden
+practitioners: Death speakers, life mages, preservers
 ---
+
+
 
 # Necromancy School of Magic
 *The Art of Death, Undeath, and Life Force*

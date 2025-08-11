@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Pre-Submersion Ruins
 
 ![Pre-Submersion Ruins Portrait](04_Resources/Assets/Art/Lore/Pre-Submersion_Ruins.png)

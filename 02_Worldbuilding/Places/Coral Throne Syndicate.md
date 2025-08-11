@@ -1,16 +1,17 @@
 ---
-tags: [criminal, organization, smuggling, coral, syndicate]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-- Category/Place
-MyContainer: None
-MyCategory: Criminal Organization
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.442404+00:00'
+created: '2025-08-11T13:08:50.442404+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Coral Throne Syndicate
 
@@ -200,3 +201,16 @@ An elite unit within the [[Order of the Deep Current]] specifically tasked with 
 
 ## Connected Plots
 The Coral Throne Syndicate's operations intersect with major campaign elements including the [[Depth Plague]] cure shortage, artifacts from [[The Sunken Senate]], conflicts with the [[Current Riders Guild]], and the broader political tensions throughout [[Aquabyssos]].
+
+
+## Connections
+
+- [[Shadow Surgeons Collective]]
+- [[Current Riders Guild]]
+- [[Memoriam]]
+- [[Pearl_Harbor_City]]
+- [[The Depth Plague]]
+- [[The Free Current]]
+- [[The Neutral Ground]]
+- [[Vault Breach]]
+- [[Rescue Senator Glaucus]]

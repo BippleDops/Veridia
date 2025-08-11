@@ -1,23 +1,32 @@
 ---
-tags: [faction, group, revolutionary-movement, crystal-ideology, world-transformation, aethermoor, extremists]
-status: "complete"
-world: "Aethermoor"
-type: "faction"
-faction_type: "Revolutionary Transformation Movement"
-alignment: "Chaotic Neutral (Radical Reformers)"
-headquarters: "[[The Crystal Manifesto Center]]"
-leader: "[[Architect Prime Crystalline Vision]]"
-members: "~300 active revolutionaries, ~1200 sympathizers"
-influence: "Underground Networks, Intellectual Circles"
-purpose: "Complete societal transformation through crystal integration"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- crystal-ideology
+- extremists
+- faction
+- group
+- revolutionary-movement
+- world-transformation
+status: complete
+world: Aethermoor
+type: Group
+faction_type: Revolutionary Transformation Movement
+alignment: Chaotic Neutral (Radical Reformers)
+headquarters: '[[The Crystal Manifesto Center]]'
+leader: '[[Architect Prime Crystalline Vision]]'
+members: ~300 active revolutionaries, ~1200 sympathizers
+influence: Underground Networks, Intellectual Circles
+purpose: Complete societal transformation through crystal integration
+created_by: auto-stub
 created: 2025-08-08
-modified: 2025-08-11
-  - Category/Group
+modified: 2025-08-11 - Category/Group
 MyContainer: Crystal Society
 MyCategory: Revolutionary Movement
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.309593+00:00'
 ---
+
 
 # Rewrite the World Order
 *Architects of Tomorrow, Visionaries of Crystal Perfection, The Inevitable Revolution*

@@ -1,11 +1,21 @@
 ---
-tags: [concept, temporal-magic, philosophy, abstract]
-status: "complete"
-world: "Aquabyssos"
-type: "concept"
-created_by: "auto-stub"
+tags:
+- abstract
+- aquabyssos
+- complete
+- concept
+- philosophy
+- temporal-magic
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.877447+00:00'
+danger_level: Moderate
 ---
+
+
 
 # Time
 
@@ -128,3 +138,33 @@ Time in Aquabyssos is understood differently than in surface cultures. The absen
 
 ## DM Notes
 Time in Aquabyssos provides rich opportunities for unique adventures and philosophical exploration. Use temporal elements to create memorable challenges that require creative thinking beyond traditional combat solutions. The cultural understanding of time can drive character development and world-building depth.
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

@@ -1,12 +1,23 @@
 ---
-tags: [magic-systems, rituals, redirections, spells, techniques]
-status: "complete"
-world: "Aethermoor"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- lore
+- magic-systems
+- redirections
+- rituals
+- spells
+- techniques
+status: complete
+world: Aethermoor
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:48.184829+00:00'
 ---
+
+
 
 # Ritual Redirection Options
 
@@ -412,3 +423,8 @@ The development of **Automated Redirection Systems** could democratize these tec
 Perhaps most significantly, the theoretical possibility of **Retroactive Redirection** - the ability to redirect rituals that have already been completed - could have profound implications for causality, free will, and the very nature of reality itself. Such capabilities might blur the line between magic and time travel, fundamentally altering how societies understand cause and effect.
 
 The field of Ritual Redirection Options continues to push the boundaries of what magic can accomplish, representing both humanity's greatest magical achievement and its most dangerous temptation to reshape reality according to will rather than wisdom.
+
+
+## Connections
+
+- [[Aethermoor - Session 05 The Queens Madness]]

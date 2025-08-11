@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Memory Alterations
 
 ![Memory Alterations Portrait](04_Resources/Assets/Art/Lore/Memory_Alterations.png)

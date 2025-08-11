@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, memorial, death, sorrow, spiritual, cemetery, sacred]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Sacred Memorial Complex"
-parent_location: "The Deep Sanctuaries"
-depth: "12,000 feet"
-danger_level: 3
-population: "~300 keepers, mourners, and spiritual guides"
-government: "Administered by the Order of Eternal Tides"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.532785+00:00'
+created: '2025-08-11T13:08:50.532785+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Mourning Depths
 *Where Memory Becomes Monument*
@@ -705,3 +700,10 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 - [[Memorial Traditions]]
 - [[Grief Counseling]]
 - [[Spiritual Healing]]
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Ω_System-CLI-spells-school-conjuration]]
+- [[Aquabyssos - Session 07 - The Resonance Revelation]]

@@ -1,21 +1,16 @@
 ---
-tags: [npc, bloodline-carrier, ancestral-magic, aethermoor, heritage, crystal-blessed]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Crystal-Touched Human"
-class: "Sorcerer (Divine Soul)/Paladin"
-level: 14
-faction: "Order of the Shattered Crown"
-location: "Bloodline Sanctum"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.729034+00:00'
+created: '2025-08-11T13:08:49.729034+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Lysander Crystalborn, the Bloodline Carrier
 
@@ -165,3 +160,8 @@ He maintains the Bloodline Sanctum, a crystal cathedral where the spirits of his
 - "The crystal remembers what the mind forgets..."
 
 **Mannerisms**: Unconsciously traces genealogical patterns in the air when thinking deeply. The crystal patterns under his skin glow brighter when he's emotional. He has a habit of consulting with empty air, as if speaking to invisible advisors—which he actually is.
+
+
+## Connections
+
+- [[Marina-Red-Tide-Coralheart]]

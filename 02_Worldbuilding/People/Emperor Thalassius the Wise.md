@@ -1,21 +1,16 @@
 ---
-tags: [npc, emperor, aquabyssos, ancient, undead, lich, ruler]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-created_by: "system"
-created: 2025-08-08
-updated: 2025-08-10
-race: "Ancient Human (Lich)"
-class: "Wizard/Cleric"
-level: 20
-faction: "Imperial Throne of Depths"
-location: "The Sunken Throne, Abyssos Prime"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.762133+00:00'
+created: '2025-08-11T13:08:49.762133+00:00'
+status: draft
+tags:
+- both
+- draft
+type: NPC
 ---
+
+
+
 
 # Emperor Thalassius the Wise
 
@@ -171,3 +166,21 @@ For three millennia, he has maintained the delicate balance of power in the dept
 **Voice**: Speaks in a deep, echoing tone that seems to come from the ocean itself. His words carry the sound of distant tides and whale songs. Often pauses mid-sentence as if consulting memories from ages past.
 
 **Mannerisms**: Never hurries, moves with the deliberate grace of deep currents. Occasionally, small fish swim through his translucent form. His crown constantly drips water that never seems to run out.
+
+## Connections
+
+- [[Crystal Wardens]]
+- [[Discover Marina's Truth]]
+- [[Korvin Blacktide]]
+- [[Nerissa_Deepcurrent]]
+- [[Oracle]]
+- [[Senator Marius]]
+- [[Senator]]
+- [[The Cerulean Breath]]
+- [[The Current Merchants]]
+- [[The Pearl Guard]]
+- [[The Sorrowmaster]]
+- [[Senator's Private Chambers]]
+- [[Vault Breach]]
+- [[The Sunken Library of Thalassius]]
+- [[Campaign_Relationship_Matrix]]

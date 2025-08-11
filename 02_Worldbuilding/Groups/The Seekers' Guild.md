@@ -1,23 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:51.176437+00:00'
+created: '2025-08-11T13:08:51.176437+00:00'
+status: draft
 tags:
-  - faction
-  - guild
-  - exploration
-  - treasure hunting
-  - archaeological
-type: Explorer's Guild
-alignment: Chaotic Good
-headquarters: "[[02_Worldbuilding/Places/Port Meridian]]"
-leader: "[[Expedition Master Calista Brightcompass]]"
-status: Active
-power_level: Regional Network
-created: 2025-08-09
-image: "04_Resources/Assets/Factions/seekers_guild.jpg"
-  - Category/Group
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Group
 ---
+
+
+
 
 # The Seekers' Guild
 *Exploring the Unknown, Uncovering the Lost*
@@ -38,3 +31,11 @@ The Seekers' Guild organizes expeditions to dangerous locations, coordinates tre
 - **[[Crystal Wardens]]** - Joint expeditions to purify corrupted sites
 - **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Competition for valuable discoveries
 - **[[02_Worldbuilding/Places/Aethermoor Archives]]** - Historical research and expedition planning
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Campaign_Relationship_Matrix]]

@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Navigate Singer Consciousness
 
 ![Navigate Singer Consciousness Portrait](04_Resources/Assets/Art/Lore/Navigate_Singer_Consciousness.png)

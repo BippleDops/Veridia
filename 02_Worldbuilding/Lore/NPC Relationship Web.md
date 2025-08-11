@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # NPC Relationship Web
 
 ![NPC Relationship Web Portrait](04_Resources/Assets/Art/Lore/NPC_Relationship_Web.png)

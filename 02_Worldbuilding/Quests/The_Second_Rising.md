@@ -1,50 +1,58 @@
 ---
 tags:
-  - quest
-quest_giver: "[[High Tidecaller Nerissa]]"
+- both
+- complete
+- quest
+quest_giver: '[[High Tidecaller Nerissa]]'
 status: complete
 priority: urgent
 quest_start: 2025-08-10
 deadline: 2025-09-10
-completion_date:
+completion_date: null
 reward: 10000gp + Blessing of the Depths + Surface/Depth Citizenship
-location: "[[Aquathys_Overview]]"
+location: '[[Aquathys_Overview]]'
 quest_image: 04_Resources/Assets/quests/second-rising.png
 related_npcs:
-  - "[[High Tidecaller Nerissa]]"
-  - "[[Prophet Miralyn Surfacer]]"
-  - "[[Commander Varek Irontrident]]"
-  - "[[02_Worldbuilding/People/The_Crimson_Pearl]]"
-  - "[[Aboleth Prime Yoth]]"
-  - "[[02_Worldbuilding/People/Gareth_Ironforge]]"
+- '[[High Tidecaller Nerissa]]'
+- '[[Prophet Miralyn Surfacer]]'
+- '[[Commander Varek Irontrident]]'
+- '[[02_Worldbuilding/People/The_Crimson_Pearl]]'
+- '[[Aboleth Prime Yoth]]'
+- '[[02_Worldbuilding/People/Gareth_Ironforge]]'
 related_locations:
-  - "[[02_Worldbuilding/Places/Pearl_Harbor_City]]"
-  - "[[Maelstrom Palace]]"
-  - "[[The Maw of Darkness]]"
-  - "[[02_Worldbuilding/Places/Market_District]]"
-  - "[[Crystalline Depths]]"
+- '[[02_Worldbuilding/Places/Pearl_Harbor_City]]'
+- '[[Maelstrom Palace]]'
+- '[[The Maw of Darkness]]'
+- '[[02_Worldbuilding/Places/Market_District]]'
+- '[[Crystalline Depths]]'
 prerequisite_quests:
-  - "[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]"
-  - "[[Diplomatic Tides]]"
+- '[[02_Worldbuilding/Quests/Find_the_Missing_Caravan]]'
+- '[[Diplomatic Tides]]'
 assigned_party_members: []
 objectives:
-  - text: Investigate the prophecy of the Second Rising
-    completed: false
-  - text: Find the three Hidden Verses of the original prophecy
-    completed: false
-  - text: Locate the scattered pieces of the Heart of Oceanus
-    completed: false
-  - text: Unite or defeat the five faction leaders
-    completed: false
-  - text: Discover the truth about the Void Plague
-    completed: false
-  - text: "Make the Choice: Rise, Sink, or Transform"
-    completed: false
-  - Category/Quest
+- text: Investigate the prophecy of the Second Rising
+  completed: false
+- text: Find the three Hidden Verses of the original prophecy
+  completed: false
+- text: Locate the scattered pieces of the Heart of Oceanus
+  completed: false
+- text: Unite or defeat the five faction leaders
+  completed: false
+- text: Discover the truth about the Void Plague
+  completed: false
+- text: 'Make the Choice: Rise, Sink, or Transform'
+  completed: false
+- Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.084026+00:00'
+created: '2025-08-11T13:08:50.084026+00:00'
+type: Lore
 ---
+
+
 
 # The Second Rising
 

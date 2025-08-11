@@ -1,19 +1,30 @@
 ---
-tags: [location, market, commerce, trading, port_meridian, aethermoor, economy, social, bustling]
-status: "complete"
-world: "Aethermoor"
-type: "location"
-security_level: "moderate"
-access: "public"
-danger_level: "low"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- bustling
+- commerce
+- complete
+- economy
+- location
+- market
+- port_meridian
+- social
+- trading
+status: complete
+world: Aethermoor
+type: Location
+security_level: moderate
+access: public
+danger_level: Low
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.839954+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Port Meridian - Market Square
 
@@ -584,3 +595,10 @@ Rumors persist of a secret market that operates in the Square during the darkest
 ---
 
 *The Market Square of Port Meridian stands as more than a center of commerce - it is a living symbol of the values that make civilization possible: cooperation, cultural respect, fair dealing, and the recognition that prosperity shared is prosperity multiplied. In its bustling activity and peaceful coexistence, the Square demonstrates that diversity of origin need not prevent unity of purpose.*
+
+
+## Connections
+
+- [[Port Meridian Harbor]]
+- [[The Royal Palace]]
+- [[The Shadow Markets]]

@@ -1,23 +1,35 @@
 ---
-tags: [npc, aquabyssos, criminal, memory-thief, mind-magic, dangerous, mysterious, psychological, mental-crime]
-status: "complete"
-world: "Aquabyssos"
-type: "person"
-category: "Criminal Mind-Mage"
-race: "Changeling"
-class: "Rogue/Enchanter"
-location: "[[The Shadow Markets]]"
-faction: "[[Memory Thieves Guild]]"
-influence: "Moderate"
-danger_level: "High"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- criminal
+- dangerous
+- memory-thief
+- mental-crime
+- mind-magic
+- mysterious
+- npc
+- person
+- psychological
+status: complete
+world: Aquabyssos
+type: Location
+category: Criminal Mind-Mage
+race: Changeling
+class: Rogue/Enchanter
+location: '[[The Shadow Markets]]'
+faction: '[[Memory Thieves Guild]]'
+influence: Moderate
+danger_level: High
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Person
+updated: '2025-08-11T13:08:50.491740+00:00'
 MyContainer: None
 MyCategory: Criminal Operative
 obsidianUIMode: preview
 ---
+
+
 
 # The Memory Thief
 *Dealer in Stolen Thoughts*
@@ -273,3 +285,11 @@ The existence of reliable memory modification technology raises fundamental ques
 
 *"Everyone wants to remember the good times and forget the bad, but memory is not so simple. Take away the pain, and you may lose the wisdom. Add false joy, and you risk destroying genuine happiness. I am an artist working with the most delicate medium in existence—the human soul."*  
 — The Memory Thief, explaining their philosophy to a client
+
+
+## Connections
+
+- [[New Tethys]]
+- [[Secret Vault Beneath Throne]]
+- [[Shadow Market Canals]]
+- [[Vote Vaults]]

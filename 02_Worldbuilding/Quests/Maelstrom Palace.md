@@ -1,34 +1,35 @@
 ---
-tags: 
-  - quest
-  - aquabyssos
-  - maelstrom
-  - palace
-  - tempest
-  - artifact
-  - ancient-magic
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-level: "11-16"
-duration: "4-6 sessions"
-difficulty: "High"
-quest_giver: "Archon Thalassos"
-location: "The Maelstrom Palace"
-rewards: "Tempest Crown, Storm Caller's Trident, Ancient Knowledge"
-prerequisites: "Must have reputation with Depth Council"
+tags:
+- ancient-magic
+- aquabyssos
+- artifact
+- complete
+- maelstrom
+- palace
+- quest
+- tempest
+status: complete
+world: Aquabyssos
+type: Lore
+level: 11-16
+duration: 4-6 sessions
+difficulty: High
+quest_giver: Archon Thalassos
+location: The Maelstrom Palace
+rewards: Tempest Crown, Storm Caller's Trident, Ancient Knowledge
+prerequisites: Must have reputation with Depth Council
 connected_to:
-  - "The Tempest Lords"
-  - "Ancient Aquabyssos"
-  - "The Whispering Expanse"
-created_by: "DM"
+- The Tempest Lords
+- Ancient Aquabyssos
+- The Whispering Expanse
+created_by: DM
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Quest
+updated: '2025-08-11T13:08:50.023777+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
 ---
+
 
 # Maelstrom Palace
 

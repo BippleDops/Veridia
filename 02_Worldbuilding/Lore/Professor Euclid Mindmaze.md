@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Professor Euclid Mindmaze
 
 ![Professor Euclid Mindmaze Portrait](04_Resources/Assets/Art/Lore/Professor_Euclid_Mindmaze.png)

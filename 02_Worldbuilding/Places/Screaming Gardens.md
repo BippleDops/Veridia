@@ -1,18 +1,16 @@
 ---
-tags: [location, aquabyssos, abyssos-prime, garden, horror]
-location_type: "District"
-parent_location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-depth: 1500
-danger_level: 7
-population: "Variable (50-500 trapped souls)"
-government: "None (Anarchic suffering)"
-created: 2025-08-07
-aliases: ["The Gardens", "Songwood Grove", "The Symphony of Drowning"]
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.838101+00:00'
+created: '2025-08-11T13:08:50.838101+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
 
 # The Screaming Gardens
 ## Where Every Tree Was Once a Drowning Child

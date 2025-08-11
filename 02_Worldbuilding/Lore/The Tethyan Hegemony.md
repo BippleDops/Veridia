@@ -1,12 +1,23 @@
 ---
-tags: [historical-events, empires, politics, ancient-civilizations, aquabyssos-history]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- ancient-civilizations
+- aquabyssos
+- aquabyssos-history
+- complete
+- empires
+- historical-events
+- lore
+- politics
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
 expanded: 2025-08-10
+updated: '2025-08-11T13:08:48.259956+00:00'
 ---
+
+
 
 # The Tethyan Hegemony
 
@@ -455,3 +466,8 @@ The Tethyan Hegemony provides a rich foundation for long-term campaigns in Aquab
 **Military Campaigns**: Confronting the possibility of surviving Tethyan forces and determining whether they represent allies, enemies, or something more complex.
 
 The Hegemony's legacy ensures that the past remains a living force in Aquabyssos, creating ongoing tension between tradition and progress, unity and autonomy, and the dream of restored greatness versus the reality of changed circumstances. Characters who engage deeply with this history will find themselves at the center of debates about identity, destiny, and the price of civilization itself.
+
+
+## Connections
+
+- [[Thalassius the Wise]]

@@ -1,21 +1,17 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.485636+00:00'
+created: '2025-08-11T13:08:50.485636+00:00'
+status: draft
 tags:
-  - location
-  - market
-  - criminal
-  - memory
-  - mystical
-type: Mystical Black Market
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-danger_level: High
-controlled_by: "[[02_Worldbuilding/People/Memory Merchant Valeria]]"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/memory_meadows_black_market.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Memory Meadows Black Market
 *Where Experiences Become Currency*
@@ -36,3 +32,32 @@ The Memory Meadows serve as a hidden marketplace where memories, experiences, an
 - **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient memories stored in artifacts
 - **[[02_Worldbuilding/Places/The Grand Bazaar of Echoing Coins]]** - Legitimate front operations
 - **[[Crystal Wardens]]** - Attempting to shut down mind manipulation operations
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

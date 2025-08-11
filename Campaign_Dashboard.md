@@ -1,15 +1,20 @@
 ---
 title: Campaign Dashboard - Aquabyssos & Aethermoor
-type: dashboard
+type: Lore
 status: active
 tags:
-  - dashboard
-  - campaign-management
-  - tracking
-  - master-control
+- active
+- both
+- campaign-management
+- dashboard
+- master-control
+- tracking
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-11T13:08:46.955303+00:00'
+world: Both
 ---
+
+
 
 # 🌊🌬️ Campaign Dashboard
 *Master Control Center for the Dual Worlds*
@@ -18,10 +23,10 @@ updated: 2025-08-11
 TABLE WITHOUT ID
   "⚡ " + choice(reality_stability < 25, "**CRITICAL**", 
          choice(reality_stability < 50, "**UNSTABLE**", 
-         choice(reality_stability < 75, "Wavering", "Stable"))) AS "Reality Status",
-  "📊 " + reality_stability + "/100" AS "Stability",
-  "🌀 " + deep_mother_influence + "/100" AS "Deep Mother",
-  "⏰ Session " + current_session AS "Progress"
+         choice(reality_stability < 75, "Wavering", "Stable"))) AC "Reality Status",
+  "📊 " + reality_stability + "/100" AC "Stability",
+  "🌀 " + deep_mother_influence + "/100" AC "Deep Mother",
+  "⏰ Session " + current_session AC "Progress"
 FROM "Campaign_Dashboard"
 WHERE file.name = this.file.name
 ```
@@ -56,13 +61,13 @@ WHERE file.name = this.file.name
 
 ```dataview
 TABLE WITHOUT ID
-  faction AS "Faction",
-  "⚔️ " + military AS "Military",
-  "💰 " + economic AS "Economic",
-  "🏛️ " + political AS "Political",
-  "🔍 " + information AS "Information",
-  "✨ " + ideological AS "Ideological",
-  "📈 " + total_power AS "Total"
+  faction AC "Faction",
+  "⚔️ " + military AC "Military",
+  "💰 " + economic AC "Economic",
+  "🏛️ " + political AC "Political",
+  "🔍 " + information AC "Information",
+  "✨ " + ideological AC "Ideological",
+  "📈 " + total_power AC "Total"
 FROM "02_Worldbuilding/Groups"
 WHERE contains(tags, "major-faction")
 SORT total_power DESC
@@ -143,12 +148,12 @@ LIMIT 10
 ### Party Status
 ```dataview
 TABLE WITHOUT ID
-  character_name AS "Character",
-  player AS "Player",
-  adaptation_points AS "AP",
-  faction_standing AS "Primary Faction",
-  sanity AS "Sanity",
-  status AS "Status"
+  character_name AC "Character",
+  player AC "Player",
+  adaptation_points AC "AP",
+  faction_standing AC "Primary Faction",
+  sanity AC "Sanity",
+  status AC "Status"
 FROM "Player_Characters"
 WHERE campaign = "Active"
 ```
@@ -182,7 +187,7 @@ WHERE campaign = "Active"
 - **Session 15**: The Choice
 
 ### In-Game Calendar
-- **Current Date**: 7th of Depth's Embrace, Year 300 AS (After Sundering)
+- **Current Date**: 7th of Depth's Embrace, Year 300 AC (After Sundering)
 - **Days Until Festival**: 21
 - **Days Until Convergence**: 180
 - **Moon Phase**: Waxing (affects tides)

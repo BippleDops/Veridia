@@ -1,22 +1,36 @@
 ---
-tags: [character, npc, keeper, scholar, aquabyssos, mindwell, advisor, lore, knowledge]
-status: "complete"
-world: "Aquabyssos"
-type: "character"
-created_by: "auto-stub"
+tags:
+- advisor
+- aquabyssos
+- character
+- complete
+- keeper
+- knowledge
+- lore
+- mindwell
+- npc
+- scholar
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Knowledge Keeper"
-faction: "Aquabyssos Academy"
-class: "Wizard/Lore Master"
+updated: '2025-08-11T13:08:51.165281+00:00'
+character_type: Knowledge Keeper
+faction: Aquabyssos Academy
+class: Wizard/Lore Master
 level: 12
 cr: 8
-occupation: "Senior Cultural Advisor"
-location: "Academy Archives, Aquabyssos"
+occupation: Senior Cultural Advisor
+location: Academy Archives, Aquabyssos
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Keeper Elara Mindwell
 *Guardian of Cultural Memory and Wisdom*
@@ -226,7 +240,7 @@ A major diplomatic crisis has emerged due to cultural misunderstandings, and Kee
 
 ### Scholarly Equipment
 
-**Robes of the Cultural Archivist** - Elegant robes providing AC 15 and advantage on all Intelligence-based skill checks. The robes also allow the wearer to comprehend any written language and provide resistance to psychic damage.
+**Robes of the Cultural Archivist** - Elegant robes providing AS 15 and advantage on all Intelligence-based skill checks. The robes also allow the wearer to comprehend any written language and provide resistance to psychic damage.
 
 **Archive Access Crystal** - Magical device providing instant access to vast databases of cultural, historical, and linguistic information. Functions as a portable library with *comprehend languages* and *legend lore* capabilities.
 
@@ -269,3 +283,11 @@ Keeper Mindwell's commitment to cultural respect and understanding provides oppo
 Her internal conflicts about knowledge preservation versus political sensitivity create opportunities for moral complexity and difficult decisions about when to share sensitive information.
 
 DMs can use her character to explore questions about cultural relativism, the responsibilities that come with knowledge, and the balance between scholarship and practical application.
+
+
+## Connections
+
+- [[Archon Meredith Saltweaver]]
+- [[Amnesia Gallery]]
+- [[Envoy Blackwater Jr.]]
+- [[New Tethys]]

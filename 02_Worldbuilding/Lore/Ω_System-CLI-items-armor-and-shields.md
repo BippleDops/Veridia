@@ -1,12 +1,20 @@
 ---
-tags: [lore, armor, shields, protection, crafting]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- armor
+- complete
+- crafting
+- lore
+- protection
+- shields
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:49.227267+00:00'
 ---
+
 
 # Armor and Shields: Bulwarks Against the Darkness
 

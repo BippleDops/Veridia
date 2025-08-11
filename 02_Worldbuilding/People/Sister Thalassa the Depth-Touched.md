@@ -1,16 +1,27 @@
 ---
-tags: [person, npc, aquabyssos, deep-mother, drowned-prophets, cultist, depth-touched]
+tags:
+- aquabyssos
+- complete
+- cultist
+- deep-mother
+- depth-touched
+- drowned-prophets
+- npc
+- person
 status: complete
-world: "Aquabyssos"
-type: "npc"
-role: "Deep Mother Cultist"
-affiliation: "[[02_Worldbuilding/Groups/The Drowned Prophets]]"
-age: "Unknown (appears 35, actually much older)"
-race: "Human (Depth-Touched)"
-location: "[[02_Worldbuilding/Places/The Deepmind]] - Shrine of Sorrows"
-created_by: "auto-stub"
+world: Aquabyssos
+type: NPC
+role: Deep Mother Cultist
+affiliation: '[[02_Worldbuilding/Groups/The Drowned Prophets]]'
+age: Unknown (appears 35, actually much older)
+race: Human (Depth-Touched)
+location: '[[02_Worldbuilding/Places/The Deepmind]] - Shrine of Sorrows'
+created_by: auto-stub
 created: 2025-08-09
+updated: '2025-08-11T13:08:49.619714+00:00'
 ---
+
+
 
 # Sister Thalassa the Depth-Touched
 *High Priestess of the Drowned Prophets, Voice of the Mother's Dreams*
@@ -703,3 +714,23 @@ Thalassa's awakening efforts interact catastrophically with dimensional converge
 - **Character Development**: Her evolution based on player interactions can drive major campaign themes
 - **Campaign Integration**: Central to religious conflict storylines, connects individual faith to cosmic consequences
 - **Power Balance**: Extremely powerful in spiritual/religious contexts, vulnerable to isolation from Divine source and followers
+
+## Connections
+
+- [[The Shadow-Crystal Synthesis]]
+- [[Crown of Tidal Sovereignty]]
+- [[Discover Marina's Truth]]
+- [[Sanity System]]
+- [[Archivist Mnemonic the Forgotten]]
+- [[Captain Nautilus the Deep Wanderer]]
+- [[Emperor Thalassius the Wise]]
+- [[Memory Harvester Kythara]]
+- [[Pressure Angel Benthia]]
+- [[The Shadow Singer Naia]]
+- [[Shadow Wells]]
+- [[Vault Breach]]
+- [[Quest - Nature's Balance]]
+- [[Quest - The Convergence Crisis]]
+- [[Quest - The Memory Bridge]]
+- [[Quest - The Shard-Shadow Resonance]]
+- [[The Sunken Library of Thalassius]]

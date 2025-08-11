@@ -1,17 +1,23 @@
 ---
 title: Complete Transformation Compendium
-type: mechanics
+type: Lore
 status: complete
 tags:
-  - mechanics
-  - transformation
-  - mutation
-  - evolution
-  - character-progression
-  - body-horror
+- body-horror
+- both
+- character-progression
+- complete
+- evolution
+- mechanics
+- mutation
+- transformation
 created: 2025-01-23
 version: 1.0
+world: Both
+updated: '2025-08-11T13:08:47.067201+00:00'
 ---
+
+
 
 # Complete Transformation Compendium
 *100+ Paths to Transcendence, Corruption, and Evolution*

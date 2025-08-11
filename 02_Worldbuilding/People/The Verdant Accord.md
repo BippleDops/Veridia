@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Verdant Accord
 
 ![The Verdant Accord Portrait](04_Resources/Assets/Art/NPCs/The_Verdant_Accord.png)

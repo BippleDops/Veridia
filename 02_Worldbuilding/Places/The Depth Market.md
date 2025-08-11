@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, market, trade, deep-sea, exotic, dangerous, commerce]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Deep-Sea Trading Complex"
-parent_location: "The Abyssal Territories"
-depth: "15,000-20,000 feet"
-danger_level: 7
-population: "~3,000 traders, merchants, and support staff"
-government: "Independent trading consortium with loose governance"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.155453+00:00'
+created: '2025-08-11T13:08:50.155453+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Depth Market
 *Where the Abyss Yields Its Treasures*
@@ -626,3 +621,12 @@ The Depth Market stands as [[Aquabyssos]]'s most dangerous and exotic trading hu
 - [[Deep-Sea Artifacts]]
 - [[Pressure Technology]]
 - [[Depth Merchant's Consortium]]
+
+
+## Connections
+
+- [[The Frozen Throne]]
+- [[The Inverse Palace]]
+- [[The Sinking Atoll]]
+- [[Void Currents]]
+- [[Rescue Senator Glaucus]]

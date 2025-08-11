@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Coral Throne Syndicate
 
 ![The Coral Throne Syndicate Portrait](04_Resources/Assets/Art/NPCs/The_Coral_Throne_Syndicate.png)

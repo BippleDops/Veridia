@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, tavern, social, meeting-place, neutral, hospitality]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Tavern and Social Hub"
-parent_location: "The Neutral Ground"
-depth: "8,000 feet"
-danger_level: 1
-population: "~150 staff and guests at any time"
-government: "Independent business within Neutral Ground"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.525903+00:00'
+created: '2025-08-11T13:08:50.525903+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Neutral Current Tavern
 *Where All Currents Meet and Stories Flow*
@@ -617,3 +612,11 @@ The Neutral Current Tavern serves as the beating heart of [[The Neutral Ground]]
 - [[Neutrality Laws]]
 - [[Diplomatic Immunity]]
 - [[Cultural Mediation]]
+
+
+## Connections
+
+- [[Mourning Depths]]
+- [[Navigator Flux]]
+- [[Old Sally Seasprayer]]
+- [[Pearl_Harbor_City]]

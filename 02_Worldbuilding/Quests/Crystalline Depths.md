@@ -1,15 +1,24 @@
 ---
-tags: [complete, exploration, horror, environmental, aquabyssos]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- aquabyssos
+- complete
+- environmental
+- exploration
+- horror
+- quest
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.088320+00:00'
 ---
+
+
+
 
 # Crystalline Depths
 
@@ -82,7 +91,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 **Crystalline Leviathan**
 **CR 6** (2,300 XP)  
 **Large monstrosity, neutral evil**
-**AC** 16 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 0 ft., swim 60 ft.
+**AS** 16 (Natural Armor), **HP** 142 (15d12 + 45), **Speed** 0 ft., swim 60 ft.
 **STR** 20 (+5) **DEX** 14 (+2) **CON** 16 (+3) **INT** 3 (-4) **WIS** 12 (+1) **CHA** 6 (-2)
 **Skills** Perception +4  
 **Damage Resistances** Cold, Thunder  
@@ -100,7 +109,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 **Shard Swarm**
 **CR 4** (1,100 XP)  
 **Large swarm of Tiny constructs, neutral**
-**AC** 15 (Natural Armor), **HP** 76 (9d12 + 18), **Speed** 0 ft., swim 40 ft.
+**AS** 15 (Natural Armor), **HP** 76 (9d12 + 18), **Speed** 0 ft., swim 40 ft.
 **STR** 8 (-1) **DEX** 16 (+3) **CON** 14 (+2) **INT** 10 (+0) **WIS** 12 (+1) **CHA** 7 (-2)
 **Skills** Perception +3  
 **Damage Resistances** Bludgeoning, Piercing, Slashing  
@@ -117,7 +126,7 @@ The discovery happened during a routine deep patrol led by [[Admiral Thorne Blac
 **Crystal-Touched Aquabyssos Citizen**
 **CR 2** (450 XP)  
 **Medium humanoid (aquatic), chaotic neutral**
-**AC** 13 (Crystal Growths), **HP** 27 (5d8 + 5), **Speed** 30 ft., swim 40 ft.
+**AS** 13 (Crystal Growths), **HP** 27 (5d8 + 5), **Speed** 30 ft., swim 40 ft.
 **STR** 11 (+0) **DEX** 12 (+1) **CON** 12 (+1) **INT** 10 (+0) **WIS** 8 (-1) **CHA** 14 (+2)
 **Skills** Insight +1, Persuasion +4  
 **Damage Resistances** Psychic  
@@ -238,7 +247,7 @@ If combat becomes necessary:
 ### The Crystal Shepherd (Transformed Vera)
 **CR 8** (3,900 XP)  
 **Medium humanoid (crystalline), lawful neutral**
-**AC** 17 (Natural Crystal Armor), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft., fly 60 ft. (hover)
+**AS** 17 (Natural Crystal Armor), **HP** 112 (15d8 + 45), **Speed** 30 ft., swim 40 ft., fly 60 ft. (hover)
 **STR** 14 (+2) **DEX** 16 (+3) **CON** 16 (+3) **INT** 18 (+4) **WIS** 20 (+5) **CHA** 22 (+6)
 **Saving Throws** Int +7, Wis +8, Cha +9  
 **Skills** Arcana +7, Insight +11, Perception +8, Persuasion +12  
@@ -261,7 +270,7 @@ If combat becomes necessary:
 **Memory Merchant Zara Mindweave**
 **CR 5** (1,800 XP)  
 **Medium humanoid (aquatic), neutral**
-**AC** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
+**AS** 15 (Studded Leather + Dex), **HP** 78 (12d8 + 24), **Speed** 30 ft., swim 40 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 20 (+5)
 **Saving Throws** Int +7, Wis +6, Cha +8  
 **Skills** Arcana +10, Deception +11, Insight +9, Investigation +7, Perception +6  
@@ -372,3 +381,12 @@ If combat becomes necessary:
 
 > [!danger] DM Secret
 > The Crystal Intelligence is not truly alien - it's an evolved form of the original [[Seven Shards]] consciousness that was shattered eons ago. The "invasion" is actually the Shards trying to reunify themselves by converting all matter in the area to crystal form. This connection means that any solution involving the Seven Shards could either solve the problem completely or make it exponentially worse, depending on how the party uses them.
+
+
+## Connections
+
+- [[Aether Crystals]]
+- [[Rescue Senator Glaucus]]
+- [[Smuggler's Gambit]]
+- [[The Maw of Darkness]]
+- [[The Oracle of the Sundered Peaks]]

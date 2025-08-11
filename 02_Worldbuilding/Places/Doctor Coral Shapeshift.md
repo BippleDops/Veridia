@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, medical, transformation, clinic, magic, healing, metamorphosis, dangerous, experimental]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Experimental Transformation Medical Facility"
-parent_location: "Harbor District"
-depth: "3,200 feet"
-danger_level: 3
-population: "~50 staff and patients"
-government: "Private medical practice with city licensing"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:51.046280+00:00'
+created: '2025-08-11T13:08:51.046280+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Metamorphosis Clinic
 *Revolutionary Center of Biological Transformation*
@@ -264,3 +259,9 @@ The Metamorphosis Clinic represents the pinnacle of experimental medical practic
 - [[Memory Preservation Technology]]
 - [[Biological Enhancement Procedures]]
 - [[Experimental Medical Ethics]]
+
+
+## Connections
+
+- [[Memory Merchant Zephyr Mindweaver]]
+- [[The Phosphor Markets]]

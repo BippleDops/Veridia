@@ -1,21 +1,47 @@
 ---
-tags: [group, organization, aethermoor, guild, artificers, magical-engineering, craftsmanship, innovation, technology, professional-association, elite-crafters, masterwork-creation, apprenticeship]
-status: "complete"
-world: "Aethermoor"
-type: "organization"
-created_by: "lore-expansion-specialist"
+tags:
+- aethermoor
+- apprenticeship
+- artificers
+- complete
+- craftsmanship
+- elite-crafters
+- group
+- guild
+- innovation
+- magical-engineering
+- masterwork-creation
+- organization
+- professional-association
+- technology
+status: complete
+world: Aethermoor
+type: Group
+created_by: lore-expansion-specialist
 created: 2025-08-11
-updated: 2025-08-11
-organization_type: "Professional Guild"
-scope: "Continental"
-membership: "Elite Crafters"
-specialization: "Advanced Magical Items"
-political_influence: "High"
-economic_impact: "Major"
-headquarters: "Eastern Kingdoms - Crystalhaven"
-connections: ["[[Eastern Kingdoms 2]]", "[[Crystal Forest]]", "[[Magic Items]]", "[[Resonance Chamber]]", "[[Maestra Luminara Crystalweave]]"]
-themes: ["elite_craftsmanship", "technological_innovation", "magical_engineering", "guild_hierarchy", "masterwork_tradition"]
+updated: '2025-08-11T13:08:51.420860+00:00'
+organization_type: Professional Guild
+scope: Continental
+membership: Elite Crafters
+specialization: Advanced Magical Items
+political_influence: High
+economic_impact: Major
+headquarters: Eastern Kingdoms - Crystalhaven
+connections:
+- '[[Eastern Kingdoms 2]]'
+- '[[Crystal Forest]]'
+- '[[Magic Items]]'
+- '[[Resonance Chamber]]'
+- '[[Maestra Luminara Crystalweave]]'
+themes:
+- elite_craftsmanship
+- technological_innovation
+- magical_engineering
+- guild_hierarchy
+- masterwork_tradition
 ---
+
+
 
 # Master Artificers Guild
 *The Pinnacle of Magical Craftsmanship and Innovation*
@@ -407,3 +433,11 @@ Guild innovations can serve as plot devices that create new capabilities, introd
 ---
 
 *"In the fusion of tradition and innovation, in the marriage of skill and vision, we create not merely tools and trinkets, but the very foundations upon which civilization builds its future." - Guild Motto, inscribed in crystal at every chapter house*
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Eastern Kingdoms 2]]
+- [[Port Meridian - Market Square]]
+- [[The Royal Palace]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,23 +1,31 @@
 ---
-tags: [faction, municipal, aquabyssos, city-government, administration, port-city]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Municipal Government"
-alignment: "Lawful Neutral"
-headquarters: "[[Bexley City Hall]]"
-leader: "[[Mayor Cornelius Tidecrest]]"
-members: "~5,000 city employees and officials"
-influence: "Municipal (Bexley city limits)"
-wealth: "Substantial (municipal taxes and port revenues)"
-created_by: "auto-stub"
+tags:
+- administration
+- aquabyssos
+- city-government
+- complete
+- faction
+- municipal
+- port-city
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Municipal Government
+alignment: Lawful Neutral
+headquarters: '[[Bexley City Hall]]'
+leader: '[[Mayor Cornelius Tidecrest]]'
+members: ~5,000 city employees and officials
+influence: Municipal (Bexley city limits)
+wealth: Substantial (municipal taxes and port revenues)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.245487+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Bexley
 *The Port City Administration, Gateway to the Depths, The Merchant's Harbor*
@@ -454,3 +462,8 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 ---
 
 *"Bexley proves that good government isn't about grand gestures or perfect solutions - it's about competent people working together to solve problems and serve citizens, one day at a time."* - Mayor Cornelius Tidecrest
+
+
+## Connections
+
+- [[Bexley Port Authority]]

@@ -1,9 +1,25 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aquabyssos, sorrow-pearls, artifacts, emotion, magic, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aquabyssos
+- artifacts
+- both
+- complete
+- emotion
+- lore
+- magic
+- sorrow-pearls
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.484305+00:00'
+created: '2025-08-11T13:08:48.484305+00:00'
+type: Lore
 ---
+
+
+
 
 # Sorrow Pearls
 
@@ -135,3 +151,13 @@ Use Sorrow Pearls to explore emotional themes and provide opportunities for char
 
 ### Customization Options
 Adjust pearl effects and availability based on campaign tone - more therapeutic for character-development focused games, more mysterious for exploration adventures, or more dangerous for darker themed campaigns.
+
+
+## Connections
+
+- [[Sister Morwyn]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
+- [[Aquabyssos - Session 07 - The Resonance Revelation]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
+- [[Aquabyssos - Session 09 - The Mourning Strategy]]

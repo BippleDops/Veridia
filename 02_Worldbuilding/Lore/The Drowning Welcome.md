@@ -1,14 +1,26 @@
 ---
-tags: [lore, drowning-welcome, adaptation-ritual, aquabyssos, cultural-ceremony, transformation, deep-mother, spiritual-practice, community-support, identity-formation]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-category: "Cultural Practice"
-significance: "Social Foundation"
-created_by: "auto-stub"
+tags:
+- adaptation-ritual
+- aquabyssos
+- community-support
+- complete
+- cultural-ceremony
+- deep-mother
+- drowning-welcome
+- identity-formation
+- lore
+- spiritual-practice
+- transformation
+status: complete
+world: Aquabyssos
+type: Lore
+category: Cultural Practice
+significance: Social Foundation
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
+updated: '2025-08-11T13:08:47.317576+00:00'
 ---
+
 
 # The Drowning Welcome
 *The Sacred Rite of Aquatic Transformation*

@@ -1,14 +1,25 @@
 ---
-tags: [quest, investigation, horror, psychological-warfare, memory-manipulation, order-drowned-star]
+tags:
+- aquabyssos
+- complete
+- horror
+- investigation
+- memory-manipulation
+- order-drowned-star
+- psychological-warfare
+- quest
 status: complete
 world: Aquabyssos
-type: quest
+type: Lore
 level: 8-12
 duration: 3-4 sessions
 threat_level: high
 created_by: auto-stub
 created: 2025-08-08
+updated: '2025-08-11T13:08:50.042559+00:00'
 ---
+
+
 
 # Find the Grief Bomb
 
@@ -163,7 +174,7 @@ Nullus is a 14th-level spellcaster. His spellcasting ability is Wisdom (spell sa
 - **7th level (1 slot):** *plane shift*, *reverse gravity*
 
 #### Equipment
-- **Robes of Eternal Sorrow**: AC 17, grants immunity to fear and charm while attuned
+- **Robes of Eternal Sorrow**: AS 17, grants immunity to fear and charm while attuned
 - **Staff of Memory Drain**: +2 spellcasting focus that can store extracted memories
 - **[[02_Worldbuilding/Items/Grief Bomb]] Activation Crystal**: Allows remote activation of the device
 - **Vial of Concentrated Despair**: Can be thrown to create a 20-foot radius area of magical despair

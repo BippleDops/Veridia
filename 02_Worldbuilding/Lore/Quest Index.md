@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Quest Index
 
 ![Quest Index Portrait](04_Resources/Assets/Art/Lore/Quest_Index.png)

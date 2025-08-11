@@ -1,22 +1,34 @@
 ---
-tags: [npc, aboleth, aquabyssos, parliament, ancient, psychic, villain, major-npc]
-status: "complete"
-world: "Aquabyssos"
-type: "npc"
-race: "Aboleth (Ancient)"
-alignment: "Lawful Evil"
-location: "[[02_Worldbuilding/Places/The Deepmind]]"
-faction: "[[02_Worldbuilding/Groups/The Parliament of Echoes]]"
-role: "Shadow Prime Minister"
+tags:
+- aboleth
+- ancient
+- aquabyssos
+- complete
+- major-npc
+- npc
+- parliament
+- psychic
+- villain
+status: complete
+world: Aquabyssos
+type: NPC
+race: Aboleth (Ancient)
+alignment: Lawful Evil
+location: '[[02_Worldbuilding/Places/The Deepmind]]'
+faction: '[[02_Worldbuilding/Groups/The Parliament of Echoes]]'
+role: Shadow Prime Minister
 cr: 25
-created_by: "auto-stub"
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-09
-  - Category/People
+updated: '2025-08-11T13:08:49.852373+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
+
+
 
 # Aboleth Prime Yoth
 *The Eternal Memory, First Among Shadows, The Depth's Ancient Will*
@@ -138,7 +150,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 5. Retreats to deeper lair levels if threatened
 
 ### Combat Statistics
-- **AC**: 20 (natural armor + shadow shroud)
+- **AS**: 20 (natural armor + shadow shroud)
 - **HP**: 750 (50d20 + 250)
 - **Speed**: Swim 60 ft., Shadow Step 120 ft.
 - **STR**: 28 (+9), DEX**: 14 (+2), **CON**: 20 (+5)
@@ -254,3 +266,42 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 ---
 
 *"In the depths of memory, all truths converge into shadow."*
+
+
+## Connections
+
+- [[Sanity System]]
+- [[The Bathyal Succession]]
+- [[The Convergence Point]]
+- [[The Great Convergence Prophecies]]
+- [[The Real Marina]]
+- [[Timeline of the Drowning]]
+- [[Emperor Thalassius the Wise]]
+- [[Nerissa_Deepcurrent]]
+- [[Pressure Angel Benthia]]
+- [[The_Crimson_Pearl]]
+- [[The_Second_Rising]]
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

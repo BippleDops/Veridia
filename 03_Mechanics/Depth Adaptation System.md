@@ -1,10 +1,23 @@
 ---
-tags: [mechanics, aquabyssos, adaptation, survival, transformation]
-system: "D&D 5e"
-mechanic_type: "Environmental Progression"
-danger_level: "Escalating"
+tags:
+- adaptation
+- aquabyssos
+- both
+- draft
+- mechanics
+- survival
+- transformation
+system: D&D 5e
+mechanic_type: Environmental Progression
+danger_level: Escalating
 created: 2025-08-07
+world: Both
+updated: '2025-08-11T13:08:47.080391+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 # Depth Adaptation System
 ## Survival & Transformation Mechanics for Aquabyssos

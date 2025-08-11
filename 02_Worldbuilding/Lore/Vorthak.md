@@ -1,21 +1,16 @@
 ---
-tags: [entity, ancient-kraken, hadal-depths, primordial-intelligence, cosmic-horror]
-status: "completed"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub" 
-created: 2025-08-08
-updated: 2025-08-09
-entity_type: "Ancient Kraken Oracle"
-alignment: "Chaotic Neutral"
-domain: "Deep Prophecy and Primordial Memory"
-power_level: "Cosmic Entity"
-active: "Dormant but Dreaming"
-  - Category/Lore
-MyContainer: Aquabyssos
-MyCategory: Ancient Entities
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:49.579456+00:00'
+created: '2025-08-11T13:08:49.579456+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Vorthak, the Dreaming Depths
 *The Oracle Beneath All Oceans*
@@ -227,3 +222,11 @@ Vorthak shows signs of fully awakening, which could either save [[Aquabyssos]] f
 - [[The Deep Awakening]]
 
 > Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Continental Connections & Story Weave]]
+- [[Nereidios]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]

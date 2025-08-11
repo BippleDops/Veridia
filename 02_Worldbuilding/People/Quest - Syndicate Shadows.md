@@ -15,6 +15,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Quest - Syndicate Shadows
 
 ![Quest - Syndicate Shadows Portrait](04_Resources/Assets/Art/NPCs/Quest_-_Syndicate_Shadows.png)

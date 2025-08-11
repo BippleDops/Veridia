@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # NPC Name Generator
 
 ![NPC Name Generator Portrait](04_Resources/Assets/Art/Lore/NPC_Name_Generator.png)

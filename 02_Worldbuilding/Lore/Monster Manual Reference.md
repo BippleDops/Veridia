@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Monster Manual Reference
 
 ![Monster Manual Reference Portrait](04_Resources/Assets/Art/Lore/Monster_Manual_Reference.png)

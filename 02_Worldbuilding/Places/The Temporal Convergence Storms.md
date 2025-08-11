@@ -1,21 +1,18 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.222958+00:00'
+created: '2025-08-11T13:08:50.222958+00:00'
+status: draft
 tags:
-  - location
-  - phenomenon
-  - mystical
-  - temporal
-  - anomaly
-type: Mystical Phenomenon
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
-danger_level: Extreme
-controlled_by: "Nobody (Natural Phenomenon)"
-created: 2025-08-09
-image: "04_Resources/Assets/Locations/temporal_convergence_storms.jpg"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # The Temporal Convergence Storms
 *Where Past, Present, and Future Collide*
@@ -36,3 +33,37 @@ The Temporal Convergence Storms are recurring mystical phenomena that cause time
 - **[[Crystal Wardens]]** - Studies storms for signs of coming corruption events
 - **[[02_Worldbuilding/People/The Deep Mother]]** - Ancient entity possibly connected to storm origins
 - **[[02_Worldbuilding/Places/Aethermoor Archives]]** - Documents storm patterns and temporal effects
+
+## Connections
+
+- [[Navigator Flux]]
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

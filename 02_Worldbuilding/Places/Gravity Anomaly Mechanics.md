@@ -1,20 +1,35 @@
 ---
-tags: [lore, mechanics, gravity, anomaly, physics, magic, underwater, environmental, hazards]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- anomaly
+- both-worlds
+- complete
+- environmental
+- gravity
+- hazards
+- lore
+- magic
+- mechanics
+- physics
+- underwater
+status: complete
+world: Both Worlds
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-lore_type: "Magical Mechanics"
-scope: "Environmental Phenomena"
-category: "Physics and Magic"
-significance: "Mechanical Framework"
-primary_application: "Environmental Hazards and Effects"
+updated: '2025-08-11T13:08:51.033626+00:00'
+lore_type: Magical Mechanics
+scope: Environmental Phenomena
+category: Physics and Magic
+significance: Mechanical Framework
+primary_application: Environmental Hazards and Effects
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
+
 
 # Gravity Anomaly Mechanics
 *When Natural Laws Bend and Break*
@@ -332,3 +347,8 @@ Unlike simple magical effects that temporarily alter gravity, true gravity anoma
 **Long-term Consequences**: Consider how repeated exposure to gravitational anomalies might affect characters, locations, and ongoing storylines.
 
 Gravitational anomalies represent powerful tools for creating unique and memorable gaming experiences that challenge players to think creatively about movement, tactics, and problem-solving in environments where normal physical laws no longer apply.
+
+
+## Connections
+
+- [[The Inverse Palace]]

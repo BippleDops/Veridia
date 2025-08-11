@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, palace, royal, government, power, nobility, administration]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-location_type: "Royal Government Complex"
-parent_location: "Abyssos Prime"
-depth: "3,000 feet"
-danger_level: 2
-population: "~1,500 royal family, nobles, guards, and staff"
-government: "Seat of Royal Authority and Central Government"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.402361+00:00'
+created: '2025-08-11T13:08:50.402361+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Royal Palace
 *Crown Jewel of the Deep Realm*
@@ -676,3 +671,16 @@ The Royal Palace stands as the magnificent centerpiece of [[Abyssos Prime]], a s
 - [[Crown Jewels]]
 - [[Royal Protocol]]
 - [[Constitutional Monarchy]]
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Resonance Chamber]]
+- [[Doctor Coral Shapeshift]]
+- [[Dream Rails]]
+- [[Noble Quarter]]
+- [[Temple Ward]]
+- [[Throne Room - Heart of Palace]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

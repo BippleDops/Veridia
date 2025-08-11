@@ -1,22 +1,17 @@
 ---
-tags: [location, aquabyssos, fashion, atelier, clothing, luxury, craftsmanship, social]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-11
-location_type: "Fashion Atelier"
-parent_location: "Noble Quarter"
-depth: "7,500 feet"
-danger_level: 1
-population: "~25 staff and apprentices"
-government: "Independent business"
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.460671+00:00'
+created: '2025-08-11T13:08:50.460671+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # The Silkweaver Atelier
 *Where Pressure Creates Perfection*
@@ -694,3 +689,8 @@ The Silkweaver Atelier stands as the premier fashion house of [[Aquabyssos]], wh
 - [[Pressure-Responsive Fabrics]]
 - [[Bio-Luminescent Threading]]
 - [[Fashion Guild]]
+
+
+## Connections
+
+- [[New Tethys]]

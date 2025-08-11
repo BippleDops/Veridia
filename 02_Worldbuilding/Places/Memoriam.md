@@ -1,16 +1,17 @@
 ---
-tags: [memorial, sacred, undead, history, ancient]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-- Category/Place
-MyContainer: None
-MyCategory: Memorial Site
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.589693+00:00'
+created: '2025-08-11T13:08:50.589693+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Memoriam
 
@@ -202,3 +203,12 @@ Areas where ancient plague victims are interred:
 
 ## Connected Mysteries
 Memoriam holds secrets connecting to the [[War of Crushing Depths]], the origins of [[The Depth Plague]], ancient pacts with [[The Deep Ones]], and prophecies about Aquabyssos's future. The memorial's vast archives contain information crucial to understanding the threats facing the underwater realm, but accessing this knowledge requires navigating complex relationships with both the living and the dead.
+
+
+## Connections
+
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
+- [[Nereidios]]
+- [[The Forgotten One]]
+- [[Aquabyssos - Session 05 - Descent into Darkness]]
+- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]

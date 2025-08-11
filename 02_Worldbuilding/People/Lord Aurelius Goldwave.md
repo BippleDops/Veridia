@@ -1,20 +1,29 @@
 ---
-tags: [npc, lord, betrayer-descendant, aethermoor, noble, crystal-magic, political-intrigue]
-status: "complete"
-world: "Aethermoor"
-type: "npc"
+tags:
+- aethermoor
+- betrayer-descendant
+- complete
+- crystal-magic
+- lord
+- noble
+- npc
+- political-intrigue
+status: complete
+world: Aethermoor
+type: NPC
 CR: 10
-class: "Enchantment Wizard/College of Eloquence Bard"
-location: "[[02_Worldbuilding/Places/Port Meridian]]"
-faction: "[[The Order of the Shattered Crown]]"
-created_by: "Claude"
+class: Enchantment Wizard/College of Eloquence Bard
+location: '[[02_Worldbuilding/Places/Port Meridian]]'
+faction: '[[The Order of the Shattered Crown]]'
+created_by: Claude
 created: 2025-08-09
-updated: 2025-08-09
-  - Category/People
+updated: '2025-08-11T13:08:49.731694+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Lord Aurelius Goldwave
 *The Golden Tongue of Port Meridian*
@@ -293,3 +302,23 @@ Use his various businesses and contacts to:
 - Generate ongoing relationships that evolve based on party actions
 
 *"They say gold cannot buy redemption. Perhaps not. But it can purchase the opportunity to earn it, and that, my friends, is priceless."*
+
+
+## Connections
+
+- [[Merchant Princes]]
+- [[The Crystal Throne]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[The Great Crystallization]]
+- [[The Seven Betrayers]]
+- [[Captain Lyanna Brightshield]]
+- [[Marina-Red-Tide-Coralheart]]
+- [[The Crimson Sage]]
+- [[Port Meridian]]
+- [[The Bone Colosseum]]
+- [[The Crystal Stock Exchange]]
+- [[The Grand Bazaar of Echoing Coins]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - The Plague of Crystals]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,8 +1,10 @@
 ---
 aliases:
-  - Bob
+- Bob
 tags:
-  - Category/Player
+- both
+- category/player
+- draft
 Player: Bob
 Role: Player
 level: 11
@@ -13,14 +15,14 @@ modifier: 2
 pasperc: 13
 Status: Active
 PlayerKnownLanguages:
-  - Celestial
-  - Common
-  - Dwarvish
+- Celestial
+- Common
+- Dwarvish
 faction_standing:
   Faction Name 1: 1
   Faction Name 3: 3
 char_race: Human
-char_class:
+char_class: null
 char_gender: Male
 char_status: Alive
 char_age: Young Adult
@@ -28,23 +30,30 @@ char_items: []
 Connected_Quests: []
 Connected_Groups: []
 parents:
-  - Father
-  - Mother
+- Father
+- Mother
 partner:
-  - Partner
+- Partner
 children:
-  - Child
+- Child
 enemies:
-  - Enemy
+- Enemy
 allies:
-  - Friend
+- Friend
 siblings:
-  - Brother
-  - Sister
+- Brother
+- Sister
 obsidianUIMode: preview
-MyContainer:
-MyCategory:
+MyContainer: null
+MyCategory: null
+world: Both
+updated: '2025-08-11T13:08:47.007559+00:00'
+created: '2025-08-11T13:08:47.007559+00:00'
+status: draft
+type: Lore
 ---
+
+
 
 <%*
 const hasTitle = !tp.file.title.startsWith("NewPlayer");

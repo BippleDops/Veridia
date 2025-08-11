@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # Palace Guard Captain Neutralis
 
 ![Palace Guard Captain Neutralis Portrait](04_Resources/Assets/Art/Places/Palace_Guard_Captain_Neutralis.png)

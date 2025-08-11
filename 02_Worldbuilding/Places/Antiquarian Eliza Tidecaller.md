@@ -1,15 +1,26 @@
 ---
-tags: [location, aquabyssos, antiquarian, artifacts, ocean-relics, deep-sea-treasures, collection]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Place
+tags:
+- antiquarian
+- aquabyssos
+- artifacts
+- collection
+- complete
+- deep-sea-treasures
+- location
+- ocean-relics
+status: complete
+world: Aquabyssos
+type: Location
+created_by: auto-stub
+created: 2025-08-08 - Category/Place
 MyContainer: None
 MyCategory: Antiquarian Shop
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.273996+00:00'
+danger_level: Moderate
 ---
+
+
 
 # The Tidecaller Antiquarium - Repository of Deep-Sea Wonders
 
@@ -389,3 +400,8 @@ The Tidecaller Antiquarium connects to numerous important elements throughout Aq
 - **Magical Research**: Supplies authentic oceanic artifacts for magical study and experimentation
 
 *The Tidecaller Antiquarium stands as a bridge between the mysterious depths and the curious surface, where the treasures of lost civilizations find new purpose in illuminating the rich tapestry of oceanic history and the endless wonders that lie beneath the waves.*
+
+
+## Connections
+
+- [[The Phosphor Markets]]

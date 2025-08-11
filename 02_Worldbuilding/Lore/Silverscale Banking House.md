@@ -11,6 +11,8 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
+
 # Silverscale Banking House
 
 ![Silverscale Banking House Portrait](04_Resources/Assets/Art/Lore/Silverscale_Banking_House.png)

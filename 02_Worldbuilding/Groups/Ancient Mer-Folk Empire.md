@@ -1,20 +1,33 @@
 ---
-type: faction
-tags: [faction, ancient, aquabyssos, mer-folk, aquatic-empire, deep-sea-civilization]
-aliases: [Ancient Mer-Folk Empire, The Deep Kingdom, Aeridor Empire, Children of the Abyss]
-world: "Aquabyssos"
+type: Group
+tags:
+- ancient
+- aquabyssos
+- aquatic-empire
+- complete
+- deep-sea-civilization
+- faction
+- mer-folk
+aliases:
+- The Deep Kingdom
+- Aeridor Empire
+- Children of the Abyss
+world: Aquabyssos
 created: 2025-07-23 15:35
 modified: 2025-08-10
-leader: "Deep Lord Pelagios the Eternal"
-headquarters: "The Sunken City of Aeridor"
-alignment: "Lawful Neutral"
-power_level: "Ancient Major Power"
-status: "complete"
+leader: Deep Lord Pelagios the Eternal
+headquarters: The Sunken City of Aeridor
+alignment: Lawful Neutral
+power_level: Ancient Major Power
+status: complete
 MyContainer: Aquabyssos
-MyCategory: Ancient Civilization
-  - Category/Group
+MyCategory: Ancient Civilization - Category/Group
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:51.313481+00:00'
 ---
+
+
+
 
 # Ancient Mer-Folk Empire
 *The Deep Kingdom, Lords of the Abyssal Currents, Keepers of Ancient Wisdom*
@@ -393,3 +406,12 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 - [[Deep Adaptation Processes]]
 - [[Mer-Folk Honor Codes]]
 - [[Ocean Ecosystem Management]]
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Stop the Shadow Harvest]]
+- [[Tradeway Road]]
+- [[Campaign_Relationship_Matrix]]

@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Unite the Recursions
 
 ![Unite the Recursions Portrait](04_Resources/Assets/Art/Lore/Unite_the_Recursions.png)
@@ -189,7 +190,7 @@ Believe recursions must merge for survival:
 **The Harmony Seekers**
 - Pursue peaceful unification
 - Negotiate between recursions
-- Arrange inter-recursion marriages
+- Arrange inter-recussion marriages
 - Promote cultural exchange
 - Believe love will unite all
 

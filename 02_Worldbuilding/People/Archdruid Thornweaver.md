@@ -1,24 +1,18 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.853286+00:00'
+created: '2025-08-11T13:08:49.853286+00:00'
+status: draft
 tags:
-  - npc
-  - druid
-  - leader
-  - nature
+- both
+- draft
 type: NPC
-race: Wood Elf
-class: Druid/Archdruid
-level: 18
-alignment: True Neutral
-location: "[[02_Worldbuilding/Places/The Verdant Reach]]"
-faction: "[[The Verdant Accord]]"
-status: Alive
-created: 2024-12-20
-image: "04_Resources/Assets/NPCs/archdruid_thornweaver.jpg"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+cr: '6'
 ---
+
+
+
+
 
 # Archdruid Thornweaver
 *Voice of the Ancient Forest, Guardian of the Green*
@@ -267,3 +261,10 @@ Her seat of power, containing:
 - Knowledge of secret paths
 - Awakened animal companions
 - Blessing of the Forest (+2 Wisdom)
+
+
+## Connections
+
+- [[The Seven Shards]]
+- [[Lighthouse Keeper]]
+- [[Quest - The Root Network]]

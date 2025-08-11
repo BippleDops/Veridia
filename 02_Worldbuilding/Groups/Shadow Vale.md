@@ -1,23 +1,31 @@
 ---
-tags: [faction, community, aquabyssos, shadow-touched, residential, mutual-aid]
-status: "complete"
-world: "Aquabyssos"
-type: "faction"
-faction_type: "Community Organization"
-alignment: "Neutral Good"
-headquarters: "[[The Umbral Community Center]]"
-leader: "[[Community Elder Mistweave]]"
-members: "~3,500 residents and 200 community organizers"
-influence: "Local district (Shadow Vale neighborhood)"
-wealth: "Modest (community resources and mutual aid)"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- community
+- complete
+- faction
+- mutual-aid
+- residential
+- shadow-touched
+status: complete
+world: Aquabyssos
+type: Group
+faction_type: Community Organization
+alignment: Neutral Good
+headquarters: '[[The Umbral Community Center]]'
+leader: '[[Community Elder Mistweave]]'
+members: ~3,500 residents and 200 community organizers
+influence: Local district (Shadow Vale neighborhood)
+wealth: Modest (community resources and mutual aid)
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-10
-  - Category/Group
+updated: '2025-08-11T13:08:51.398366+00:00'
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 ---
+
+
 
 # Shadow Vale
 *The Twilight Commune, Haven of the Shadow-Touched, The Community of Faded Light*
@@ -429,3 +437,10 @@ Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most
 ---
 
 *"In Shadow Vale, we prove that shadow corruption doesn't mean the loss of humanity - it means the discovery of new ways to be human."* - Community Elder Mistweave
+
+
+## Connections
+
+- [[Party Shadows]]
+- [[Shadow Independence Levels]]
+- [[Aethermoor-Aquabyssos-World-Connection-Guide]]

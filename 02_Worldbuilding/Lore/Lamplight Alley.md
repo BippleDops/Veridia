@@ -1,9 +1,24 @@
 ---
-status: "complete"
-date_created: "2025-08-11"
-date_modified: "2025-08-11"
-tags: [lore, aethermoor, lamplight-alley, district, urban, worldbuilding]
+status: complete
+date_created: '2025-08-11'
+date_modified: '2025-08-11'
+tags:
+- aethermoor
+- both
+- complete
+- district
+- lamplight-alley
+- lore
+- urban
+- worldbuilding
+world: Both
+updated: '2025-08-11T13:08:48.593061+00:00'
+created: '2025-08-11T13:08:48.593061+00:00'
+type: Lore
 ---
+
+
+
 
 # Lamplight Alley
 
@@ -135,3 +150,8 @@ Use Lamplight Alley for atmospheric encounters that emphasize mood and social in
 
 ### Customization Options
 Adjust the alley's atmosphere and services to match your campaign's needs - more mysterious for intrigue-heavy games, more welcoming for diplomatic campaigns, or more dangerous for gritty urban adventures.
+
+
+## Connections
+
+- [[Aethermoor - Session 01 Blood in the Harbor]]

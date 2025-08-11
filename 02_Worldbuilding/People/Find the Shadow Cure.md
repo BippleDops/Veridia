@@ -1,15 +1,26 @@
 ---
-tags: [quest, shadow, cure, healing, aquabyssos, complete]
-status: "complete"
-world: "Aquabyssos"
-type: "quest"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quests
+tags:
+- aquabyssos
+- complete
+- cure
+- healing
+- quest
+- shadow
+status: complete
+world: Aquabyssos
+type: NPC
+created_by: auto-stub
+created: 2025-08-08 - Category/Quests
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:49.705356+00:00'
+cr: '7'
 ---
+
+
+
+
 
 # Find the Shadow Cure
 
@@ -67,3 +78,38 @@ Completed cure requires master-level alchemy check and ritual casting involving 
 
 ## DM Notes
 Emphasize research and preparation over combat. The quest rewards careful investigation and creative problem-solving while building tension through the spreading corruption.
+
+
+## Connections
+
+- [[Senator_Glaucus_Brain]]
+
+
+## Appearance
+
+
+TODO
+
+
+## Personality
+
+
+TODO
+
+
+## Goals
+
+
+TODO
+
+
+## Relationships
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

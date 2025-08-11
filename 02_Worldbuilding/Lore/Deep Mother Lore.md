@@ -1,12 +1,21 @@
 ---
-tags: [lore, deep-mother, deity-lore, primordial, ocean-entity]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-created_by: "auto-stub"
+tags:
+- aquabyssos
+- complete
+- deep-mother
+- deity-lore
+- lore
+- ocean-entity
+- primordial
+status: complete
+world: Aquabyssos
+type: Lore
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.264087+00:00'
 ---
+
+
 
 # Deep Mother Lore
 
@@ -38,3 +47,10 @@ Accumulated knowledge base requiring ongoing research and validation.
 
 ## Campaign Use
 Provides background lore for Deep Mother encounters and serves as source for prophecies and ancient knowledge.
+
+
+## Connections
+
+- [[Comprehensive-World-Connection-Guide]]
+- [[Temple of the First Tide]]
+- [[The Deep Mother]]

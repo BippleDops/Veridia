@@ -11,6 +11,7 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
+
 # Depth Surnames
 
 ![Depth Surnames Portrait](04_Resources/Assets/Art/Lore/Depth_Surnames.png)

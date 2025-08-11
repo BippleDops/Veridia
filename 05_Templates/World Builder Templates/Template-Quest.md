@@ -1,19 +1,28 @@
 ---
 tags:
-  - Category/Quest
+- both
+- category/quest
+- draft
 MyContainer: []
-MyCategory:
+MyCategory: null
 obsidianUIMode: preview
-questObtained:
+questObtained: null
 questStatus: Not Started
-questGiver:
-questLocationObtained:
-questSessionObtained:
-questNotes:
-questLootAvail:
-questLookEarned:
+questGiver: null
+questLocationObtained: null
+questSessionObtained: null
+questNotes: null
+questLootAvail: null
+questLookEarned: null
 NoteIcon: quest
+world: Both
+updated: '2025-08-11T13:08:47.009338+00:00'
+created: '2025-08-11T13:08:47.009338+00:00'
+status: draft
+type: Lore
 ---
+
+
 <%*
 
 // 1) Prompt for Quest name
@@ -139,7 +148,7 @@ Plan your quest out here.
 `BUTTON[button_person]` The following people are associated with this quest.
 
 ```dataview
-TABLE WITHOUT ID link(file.name) AS "Name", char_race AS "Race", char_gender AS "Gender", Connected_Groups AS "Associated Group"
+TABLE WITHOUT ID link(file.name) AC "Name", char_race AC "Race", char_gender AC "Gender", Connected_Groups AC "Associated Group"
 FROM "02_Worldbuilding/People"
 WHERE contains(char_status, "Alive")
 WHERE contains(Connected_Quests, this.file.link)

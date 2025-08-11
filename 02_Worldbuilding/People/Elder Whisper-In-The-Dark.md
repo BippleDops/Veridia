@@ -1,28 +1,15 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.890419+00:00'
+created: '2025-08-11T13:08:49.890419+00:00'
+status: draft
 tags:
-  - npc
-  - elder
-  - aquabyssos
-  - depths
-  - mysterious
-  - shadow_corruption
-  - prophet
-  - ancient
+- both
+- draft
 type: NPC
-race: Ancient Triton (Shadow-touched)
-class: Warlock/Divination Wizard
-level: 19
-alignment: Chaotic Neutral (Insane)
-location: "[[02_Worldbuilding/Places/The Whispering Depths]]"
-faction: "[[The Void Watchers]]"
-status: complete
-created: 2025-08-10
-world: "Aquabyssos"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
 
 # Elder Whisper-In-The-Dark
 *The First Voice, She Who Speaks the Deep Truths, The Maddened Oracle*

@@ -11,6 +11,9 @@ accessibility:
   safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
+
+
+
 # The Last Dance
 
 ![The Last Dance Portrait](04_Resources/Assets/Art/Places/The_Last_Dance.png)

@@ -1,27 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.649304+00:00'
+created: '2025-08-11T13:08:49.649304+00:00'
+status: draft
 tags:
-  - npc
-  - druid
-  - cultivator
-  - plant_magic
-  - cross_realm
-  - healer
-  - nature_guardian
+- both
+- draft
 type: NPC
-race: Half-Elf (Depth-adapted)
-class: Druid/Cleric
-level: 12
-alignment: Neutral Good
-location: "[[02_Worldbuilding/Places/The Synthesis Gardens]]"
-faction: "[[02_Worldbuilding/Groups/The Verdant Accord]]"
-status: Alive (Crystal-plant hybrid)
-created: 2025-08-08
-world: "Cross-Realm"
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
 ---
+
+
+
 
 # Master Cultivator Thalia Greenglow
 *The Bridge-Builder, She Who Grows in Dark Waters, Guardian of the Synthesis*
@@ -174,3 +163,10 @@ Master Cultivator Thalia Greenglow represents one of the most extraordinary achi
 - [[02_Worldbuilding/Quests/Quest - Nature's Balance]] - Her expertise needed
 - [[02_Worldbuilding/Quests/The Depth Accords]] - Provides agricultural solutions
 - [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - May have the cure
+
+
+## Connections
+
+- [[Duke Cyrus Reefheart]]
+- [[Sage Lysander Deepthought]]
+- [[Lumengarde]]

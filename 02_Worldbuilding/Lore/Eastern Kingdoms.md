@@ -1,19 +1,44 @@
 ---
-tags: [lore, history, eastern-kingdoms, aethermoor, political-history, monarchy, timeline, historical-events, military-history, trade-empire]
-status: "complete"
-world: "Aethermoor"
-type: "Historical Region"
-category: "Political Entity"
-significance: "Major Continental Power"
-time_period: "Ancient Era - Current Era"
-scale: "Multi-Continental Empire"
-participants: ["Eastern Royal Houses", "Imperial Navy", "Colonial Administrations", "Trade Guilds"]
-outcome: "Ongoing Major Power"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- complete
+- eastern-kingdoms
+- historical-events
+- historical-region
+- history
+- lore
+- military-history
+- monarchy
+- political-history
+- timeline
+- trade-empire
+status: complete
+world: Aethermoor
+type: Lore
+category: Political Entity
+significance: Major Continental Power
+time_period: Ancient Era - Current Era
+scale: Multi-Continental Empire
+participants:
+- Eastern Royal Houses
+- Imperial Navy
+- Colonial Administrations
+- Trade Guilds
+outcome: Ongoing Major Power
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-related_entities: ["[[Aethermoor]]", "[[Continental War]]", "[[The Great Crystallization]]", "[[The Bathyal Succession]]", "[[Aquabyssos]]", "[[The Shattering of the Crown]]"]
+updated: '2025-08-11T13:08:48.178347+00:00'
+related_entities:
+- '[[Aethermoor]]'
+- '[[Continental War]]'
+- '[[The Great Crystallization]]'
+- '[[The Bathyal Succession]]'
+- '[[Aquabyssos]]'
+- '[[The Shattering of the Crown]]'
 ---
+
+
+
 
 # Eastern Kingdoms
 *The Maritime Empire of the Rising Sun*
@@ -1308,3 +1333,10 @@ The Eastern Kingdoms maintain multiple specialized military forces:
 
 *"The Eastern Kingdoms endure not through resistance to change, but through wisdom in adapting while preserving what truly matters. In a world of transformation, our strength lies in balance."*
 *- Emperor Aurelius Magnus VII, Address to the Imperial Council*
+
+
+## Connections
+
+- [[The Lighthouse of Storms]]
+- [[Aethermoor - Session 09 The Price of Unity]]
+- [[Aethermoor - Session 10 The Deep Mother Rises]]

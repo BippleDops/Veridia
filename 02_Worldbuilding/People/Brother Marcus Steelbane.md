@@ -1,26 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:49.655568+00:00'
+created: '2025-08-11T13:08:49.655568+00:00'
+status: draft
 tags:
-  - npc
-  - religious
-  - monk
-  - aethermoor
-  - temple
-  - crystal-touched
+- both
+- draft
 type: NPC
-race: Human
-class: Monk (Way of the Elements)
-level: 11
-alignment: Lawful Neutral
-location: "[[02_Worldbuilding/Places/Crystal Spires]]"
-faction: "[[02_Worldbuilding/Groups/Order of the Crystal Flame]]"
-status: Alive
-created: 2025-08-09
-world: "Aethermoor"
-  - Category/People
-MyContainer: None
-MyCategory: NPC
-obsidianUIMode: preview
 ---
+
+
+
 
 # Brother Marcus Steelbane
 *The Iron Monk, Guardian of the Sacred Flame*
@@ -209,3 +199,26 @@ Marcus believes that true strength comes from discipline, not power. He teaches 
 - [[02_Worldbuilding/Quests/Quest - The Sacred Flame]] - Protecting crystal fire sites
 - [[02_Worldbuilding/Quests/Quest - Corruption in the Temple]] - Internal investigation
 - [[02_Worldbuilding/Quests/Quest - The Forge of Memory]] - Confronting his past
+
+
+## Connections
+
+- [[Establish the New Order]]
+- [[Purist Coalition Thugs]]
+- [[Purist Coalition]]
+- [[Comprehensive-World-Connection-Guide]]
+- [[Brother Matthias the Amber Bearer]]
+- [[Captain Lyanna Brightshield]]
+- [[Commander Thrace Ironwood]]
+- [[High Inquisitor Maltheos]]
+- [[Lord Commander Gareth Steelborn]]
+- [[Vex Shadowthorn]]
+- [[Crystalhaven]]
+- [[Port Meridian]]
+- [[Quest - Diplomatic Immunity]]
+- [[Quest - The Moderate Path]]
+- [[Quest - The Plague of Crystals]]
+- [[Aethermoor - Session 01 Blood in the Harbor]]
+- [[Aethermoor - Session 03 Council of Shadows]]
+- [[Aethermoor - Session 07 The Festival of Transformation]]
+- [[Campaign_Relationship_Matrix]]

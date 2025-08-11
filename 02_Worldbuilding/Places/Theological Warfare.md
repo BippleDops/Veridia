@@ -1,48 +1,60 @@
 ---
-tags: [location, aquabyssos, religious, warfare, battlefield, contested]
-location_name: "The Theological Warfare Grounds"
-location_type: "Contested Religious Battlefield"
-parent_location: "[[Abyssos Prime]]"
+tags:
+- aquabyssos
+- battlefield
+- both
+- complete
+- contested
+- location
+- religious
+- warfare
+location_name: The Theological Warfare Grounds
+location_type: Contested Religious Battlefield
+parent_location: '[[Abyssos Prime]]'
 sub_locations:
-  - "[[The Argument Amphitheater]]"
-  - "[[Divine Intervention Plaza]]"
-  - "[[Heresy Hunter Barracks]]"
-  - "[[The Schism Bridges]]"
-  - "[[Faith Testing Grounds]]"
-depth: "2600-2900 feet"
+- '[[The Argument Amphitheater]]'
+- '[[Divine Intervention Plaza]]'
+- '[[Heresy Hunter Barracks]]'
+- '[[The Schism Bridges]]'
+- '[[Faith Testing Grounds]]'
+depth: 2600-2900 feet
 population: 500
-government: "Religious Council of War"
-ruler: "[[02_Worldbuilding/People/High Theologian Commander Aurelius]]"
+government: Religious Council of War
+ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
 factions:
-  - "[[02_Worldbuilding/Groups/Temple of Divine Order]]"
-  - "[[02_Worldbuilding/Groups/The Leviathan Cult]]"
-  - "[[Deep Mother Zealots]]"
-  - "[[Syncretist Mediators]]"
+- '[[02_Worldbuilding/Groups/Temple of Divine Order]]'
+- '[[02_Worldbuilding/Groups/The Leviathan Cult]]'
+- '[[Deep Mother Zealots]]'
+- '[[Syncretist Mediators]]'
 danger_level: 9
 visited: false
 discovered: true
 services:
-  - "Theological Debate Resolution"
-  - "Religious Combat Training"
-  - "Divine Magic Testing"
-  - "Heresy Trials"
-  - "Faith Counseling"
+- Theological Debate Resolution
+- Religious Combat Training
+- Divine Magic Testing
+- Heresy Trials
+- Faith Counseling
 notable_npcs:
-  - "[[02_Worldbuilding/People/High Theologian Commander Aurelius]]"
-  - "[[Leviathan Prophet Thalassa]]"
-  - "[[Deep Mother Priestess Sira]]"
-  - "[[Mediator Cardinal Harmony]]"
-current_state: "Active religious conflict zone"
+- '[[02_Worldbuilding/People/High Theologian Commander Aurelius]]'
+- '[[Leviathan Prophet Thalassa]]'
+- '[[Deep Mother Priestess Sira]]'
+- '[[Mediator Cardinal Harmony]]'
+current_state: Active religious conflict zone
 temporal_stability: 30
-shadow_density: "Variable"
-pressure_effects: "Severe"
-status: "complete"
-created: 2025-08-11
-  - Category/Place
+shadow_density: Variable
+pressure_effects: Severe
+status: complete
+created: 2025-08-11 - Category/Place
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.676446+00:00'
+type: Location
 ---
+
+
 
 # The Theological Warfare Grounds
 ## Where Faith Battles Faith in Holy Combat

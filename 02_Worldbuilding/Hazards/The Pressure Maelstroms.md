@@ -1,16 +1,25 @@
 ---
-tags: [environmental-hazard, aquabyssos, pressure-anomaly, natural-phenomenon, dangerous-waters]
-status: "complete"
-world: "Aquabyssos"
-type: "environmental_hazard"
-hazard_type: "Pressure Anomaly"
+tags:
+- aquabyssos
+- complete
+- dangerous-waters
+- environmental-hazard
+- environmental_hazard
+- natural-phenomenon
+- pressure-anomaly
+status: complete
+world: Aquabyssos
+type: Hazard
+hazard_type: Pressure Anomaly
 danger_level: 4
-affected_areas: "Deep Ocean Zones"
-frequency: "Rare but Predictable"
-duration: "3-7 days per manifestation"
-created_by: "Claude"
+affected_areas: Deep Ocean Zones
+frequency: Rare but Predictable
+duration: 3-7 days per manifestation
+created_by: Claude
 created: 2025-08-09
+updated: '2025-08-11T13:08:47.097295+00:00'
 ---
+
 
 # The Pressure Maelstroms
 *Where the Ocean's Weight Becomes Weapon*

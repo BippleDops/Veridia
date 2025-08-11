@@ -1,16 +1,35 @@
 ---
-tags: [lore, geography, environment, kraken, territories, deep-sea, ecosystem, intelligence, apex-predator, aquabyssos, marine-life, underwater-domains, territorial-behavior, ancient-creatures, ocean-depths, natural-phenomena]
-status: "complete"
-world: "Aquabyssos"
-type: "lore"
-location_type: "Marine Territory"
-ecosystem: "Deep Ocean Trenches and Abyssal Plains"
+tags:
+- ancient-creatures
+- apex-predator
+- aquabyssos
+- complete
+- deep-sea
+- ecosystem
+- environment
+- geography
+- intelligence
+- kraken
+- lore
+- marine-life
+- natural-phenomena
+- ocean-depths
+- territorial-behavior
+- territories
+- underwater-domains
+status: complete
+world: Aquabyssos
+type: Lore
+location_type: Marine Territory
+ecosystem: Deep Ocean Trenches and Abyssal Plains
 danger_level: 9
-access_difficulty: "Extreme - requires specialized deep-sea equipment and kraken permission"
-created_by: "auto-stub"
+access_difficulty: Extreme - requires specialized deep-sea equipment and kraken permission
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:48.422940+00:00'
 ---
+
+
 
 # Kraken Territories
 *The Sovereign Domains of the Ancient Ocean Lords*
@@ -676,3 +695,9 @@ Kraken territories present unique environmental conditions that create both obst
 *"To understand the kraken territories, one must first abandon surface assumptions about ownership, governance, and the relationship between intelligence and environment. Here, in the deepest places where pressure and darkness reign, ancient minds have spent millennia perfecting forms of civilization that surface dwellers are only beginning to imagine. They are teachers, if we have the wisdom to learn - and guardians, if we have the sense to respect their authority in realms where our presence exists only by their sufferance."*
 
 *- From "Deep Diplomacy: A Guide to Inter-Species Relations" by [[Ambassador Nerida Deepcurrent]]
+
+
+## Connections
+
+- [[Leviathan Graveyard]]
+- [[The Deep Mother]]

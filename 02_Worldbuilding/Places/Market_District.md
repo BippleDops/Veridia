@@ -1,35 +1,17 @@
 ---
-tags: [location]
-type: "district"
-region: "Westmarch City"
-faction: "[[02_Worldbuilding/Groups/Merchants Guild]]"
-faction_influence: 8
-danger_level: 2
-encounter_chance: 0.1
-population: 3000
-map_image: "04_Resources/Assets/locations/market-district.webp"
-connected_locations:
-  - "[[Harbor District]]"
-  - "[[Noble Quarter]]"
-  - "[[Temple Ward]]"
-shops:
-  - name: "Ironforge Smithy"
-    type: "Blacksmith"
-    owner: "[[02_Worldbuilding/People/Gareth_Ironforge]]"
-  - name: "Starweaver's Arcana"
-    type: "Magic Shop"
-    owner: "[[Elena Starweaver]]"
-services:
-  - name: "Town Guard Post"
-    type: "Security"
-    provider: "[[Captain Marcus]]"
-events: ["Weekly Market Day", "Harvest Festival"]
-notable_features: ["Central Fountain", "Merchant Guild Hall", "The Grand Bazaar"]
-  - Category/Place
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.989806+00:00'
+created: '2025-08-11T13:08:50.989806+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
 
 # Market District
 
@@ -81,3 +63,33 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 ## Session Log
 - Session 1: Party arrived, visited Ironforge Smithy
 - Session 4: Market Day, received caravan quest
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

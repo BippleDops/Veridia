@@ -1,22 +1,36 @@
 ---
-tags: [character, npc, pip, goldleaf, young, heir, merchant, family, apprentice, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "character"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- apprentice
+- character
+- complete
+- family
+- goldleaf
+- heir
+- merchant
+- npc
+- pip
+- young
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Merchant Heir"
-faction: "Goldleaf Trading House"
-class: "Rogue/Noble"
+updated: '2025-08-11T13:08:50.572335+00:00'
+character_type: Merchant Heir
+faction: Goldleaf Trading House
+class: Rogue/Noble
 level: 6
 cr: 4
-occupation: "Apprentice Merchant"
-location: "Various Trade Routes, Aethermoor"
+occupation: Apprentice Merchant
+location: Various Trade Routes, Aethermoor
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # Pip Goldleaf
 *The Next Generation of Golden Commerce*
@@ -245,3 +259,9 @@ For lower-level parties, emphasize Pip's learning and development aspects, with 
 For higher-level parties, Pip can represent established merchant leader dealing with complex political and economic challenges requiring experienced assistance.
 
 The character can grow and develop alongside party members, making them suitable for long-term campaign involvement rather than just single adventure appearances.
+
+
+## Connections
+
+- [[Madame Rosalind Goldleaf]]
+- [[Market_District]]

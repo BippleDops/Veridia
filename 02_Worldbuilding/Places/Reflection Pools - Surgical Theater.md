@@ -1,31 +1,33 @@
 ---
 tags:
-  - location
-  - medical
-  - surgical
-  - reflection_pools
-  - aquabyssos
-  - healing
-  - theater
-  - consciousness
-  - memory
-  - specialized
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-location_type: "Medical Theater"
-parent_location: "The Reflection Pools"
+- aquabyssos
+- complete
+- consciousness
+- healing
+- location
+- medical
+- memory
+- reflection_pools
+- specialized
+- surgical
+- theater
+status: complete
+world: Aquabyssos
+type: Location
+location_type: Medical Theater
+parent_location: The Reflection Pools
 danger_level: 3
-population: "50-80 medical staff, 20-40 patients daily"
-government: "Medical Board oversight and Imperial licensing"
-created_by: "auto-stub"
+population: 50-80 medical staff, 20-40 patients daily
+government: Medical Board oversight and Imperial licensing
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-  - Category/Place
+updated: '2025-08-11T13:08:50.754147+00:00'
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
 ---
+
+
 
 # Reflection Pools - Surgical Theater
 
@@ -455,3 +457,11 @@ The facility's most closely guarded secret is a device preventing reality distor
 ---
 
 *The Reflection Pools Surgical Theater represents the cutting edge of medical science, where the boundaries between mind and body, memory and reality, healing and transformation blur in the pursuit of perfect therapeutic intervention. Here, medicine becomes art, science becomes magic, and the very nature of identity and consciousness becomes malleable in the hands of skilled practitioners.*
+
+
+## Connections
+
+- [[Shadow Market Canals]]
+- [[Aquabyssos - Session 04 - High Tide Horror]]
+- [[Campaign_Quick_Reference_Sheets]]
+- [[Campaign_Relationship_Matrix]]

@@ -1,22 +1,16 @@
 ---
+world: Both
+updated: '2025-08-11T13:08:50.060116+00:00'
+created: '2025-08-11T13:08:50.060116+00:00'
+status: draft
 tags:
-  - quest
-  - main
-  - investigation
-  - urgent
-type: Quest
-quest_giver: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-location: "[[02_Worldbuilding/Places/Port Meridian]]"
-level: 5-8
-status: Available
-reward_type: Major
-created: 2024-12-20
-image: "04_Resources/Assets/Quests/plague_crystals.jpg"
-  - Category/Quest
-MyContainer: None
-MyCategory: Unknown
-obsidianUIMode: preview
+- both
+- draft
+type: Lore
 ---
+
+
+
 
 # Quest - The Plague of Crystals
 *A Corruption Spreading Like Wildfire*
@@ -207,3 +201,4 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 - Party gains reputation (good or bad)
 - Sets up next major quest arc
 - Queen may reveal corruption if party trusted
+- [[Quest - The Crystal Festival]]

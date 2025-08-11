@@ -1,16 +1,25 @@
 ---
-tags: [quest, high-stakes, ritual, crystal-festival, apocalyptic, aethermoor]
-status: "complete"
-world: "Aethermoor"
-type: "quest"
-level: "10-15"
-created_by: "auto-stub"
-created: 2025-08-08
-  - Category/Quest
+tags:
+- aethermoor
+- apocalyptic
+- complete
+- crystal-festival
+- high-stakes
+- quest
+- ritual
+status: complete
+world: Aethermoor
+type: Lore
+level: 10-15
+created_by: auto-stub
+created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+updated: '2025-08-11T13:08:50.053579+00:00'
 ---
+
+
 
 # Stop the Crystal Festival Ritual
 
@@ -292,3 +301,8 @@ This quest connects to numerous elements throughout [[Aethermoor]]:
 - May lead to alliances with [[Elemental Courts]] and [[Fey Nobility]]
 - Sets up future conflicts with [[Aberrant Cults]] and [[Far Realm]] entities
 - Establishes relationships with [[Crystal Guardian Orders]] and [[Planar Wardens]]
+
+
+## Connections
+
+- [[Quest - Nature's Balance]]

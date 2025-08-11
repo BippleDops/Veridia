@@ -1,17 +1,33 @@
 ---
-tags: [conspiracy, timeline, chronological-crimes, hidden-history, criminal-patterns, investigation-framework, aquabyssos-aethermoor, secret-operations, conspiracy-development, historical-analysis]
-status: "complete"
-world: "Both Worlds"
-type: "lore"
-system_type: "Chronological Investigation Framework"
-scope: "Multiversal - tracking conspiracy development across both worlds and time"
+tags:
+- aquabyssos-aethermoor
+- both-worlds
+- chronological-crimes
+- complete
+- conspiracy
+- conspiracy-development
+- criminal-patterns
+- hidden-history
+- historical-analysis
+- investigation-framework
+- lore
+- secret-operations
+- timeline
+status: complete
+world: Both Worlds
+type: Lore
+system_type: Chronological Investigation Framework
+scope: Multiversal - tracking conspiracy development across both worlds and time
 complexity_level: 9
-timeline_span: "From pre-history to current events, approximately 3,000+ years"
-primary_users: "Master Investigators, Temporal Researchers, Conspiracy Analysts"
-created_by: "auto-stub"
+timeline_span: From pre-history to current events, approximately 3,000+ years
+primary_users: Master Investigators, Temporal Researchers, Conspiracy Analysts
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-11T13:08:47.271482+00:00'
 ---
+
+
+
 
 # Timeline of Crimes
 *Chronological Framework for Understanding Conspiracy Development Across History*
@@ -63,3 +79,11 @@ The earliest criminal activities occurred during the establishment of the fundam
 - **Evidence**: Recurring family names in unrelated criminal activities, similar criminal methods across different time periods
 - **Connections**: Direct predecessor to modern conspiracy networks like [[The Silverscale Conspiracy]]
 - **Long-term Impact**: Establishes the hereditary nature of major conspiracy participation
+
+
+## Connections
+
+- [[Evidence Chain Analysis]]
+- [[Evidence Types Guide]]
+- [[Silver Mask]]
+- [[Campaign_Relationship_Matrix]]

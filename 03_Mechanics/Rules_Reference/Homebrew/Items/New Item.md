@@ -1,18 +1,27 @@
 ---
-type: item
+type: Item
 attunement: false
 my-container: '[[The Giants Skull]]'
 my-category: null
 tags:
-  - Category/Item
+- both
+- category/item
+- draft
+- item
 obsidian-u-i-mode: preview
 aliases:
-  - ItemOtherName
+- ItemOtherName
 connected_-quests:
-  - 'Template-Quest'
+- Template-Quest
 connected_-groups:
-  - 'Template-Group'
+- Template-Group
+world: Both
+updated: '2025-08-11T13:08:47.092484+00:00'
+created: '2025-08-11T13:08:47.092484+00:00'
+status: draft
 ---
+
+
 > [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Quest),optionQuery(#Category/People),optionQuery(#Category/Group),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`
 
 > [!column|no-i no-t]

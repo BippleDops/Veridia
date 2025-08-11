@@ -1,16 +1,18 @@
 ---
-tags: [guild, organization, water, transport]
-status: "complete"
-world: "Aquabyssos"
-type: "location"
-created_by: "auto-stub"
-created: 2025-08-08
-updated: 2025-08-10
-- Category/Place
-MyContainer: None
-MyCategory: Guild Hall
-obsidianUIMode: preview
+world: Both
+updated: '2025-08-11T13:08:50.974001+00:00'
+created: '2025-08-11T13:08:50.974001+00:00'
+status: draft
+tags:
+- both
+- draft
+type: Location
+danger_level: Moderate
 ---
+
+
+
+
 
 # Current Riders Guild
 
@@ -118,3 +120,47 @@ Characters who join the Current Riders Guild (requires proficiency in Animal Han
 
 ## Connected Locations
 The Current Riders Guild maintains outposts in [[Port Abyssos]], [[The Twilight Gardens]], [[Fort Nautilus]], and [[The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos.
+
+
+## Connections
+
+- [[Coral Throne Syndicate]]
+- [[Pearl_Harbor_City]]
+- [[Bandit Leader Scarface]]
+- [[Rescue Senator Glaucus]]
+
+
+## Overview
+
+
+TODO
+
+
+## History
+
+
+TODO
+
+
+## Layout
+
+
+TODO
+
+
+## Notables
+
+
+TODO
+
+
+## Threats
+
+
+TODO
+
+
+## Hooks
+
+
+TODO

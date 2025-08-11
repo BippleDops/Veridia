@@ -1,11 +1,35 @@
 ---
-tags: [lore, dream_magic, protectors, mystical_guides, sleep, dual_world, consciousness]
-status: "completed"
-type: "mystical_order"
-world: "dual"
-connections: ["[[Deep Mother]]", "[[Marina's Echo]]", "[[Memory Farmers]]", "[[The Recursion Oracle]]", "[[Sleep Magic]]", "[[Convergence Point]]"]
-themes: ["protection_through_dreams", "shepherding_consciousness", "boundary_guardians", "sacrificial_vigilance"]
+tags:
+- completed
+- consciousness
+- dream_magic
+- dual
+- dual_world
+- lore
+- mystical_guides
+- mystical_order
+- protectors
+- sleep
+status: completed
+type: Lore
+world: dual
+connections:
+- '[[Deep Mother]]'
+- '[[Marina''s Echo]]'
+- '[[Memory Farmers]]'
+- '[[The Recursion Oracle]]'
+- '[[Sleep Magic]]'
+- '[[Convergence Point]]'
+themes:
+- protection_through_dreams
+- shepherding_consciousness
+- boundary_guardians
+- sacrificial_vigilance
+updated: '2025-08-11T13:08:48.136108+00:00'
+created: '2025-08-11T13:08:48.136108+00:00'
 ---
+
+
 
 # The Dream Shepherds
 
@@ -151,3 +175,8 @@ The Dream Shepherds' deepest concern is that their protective work may be counte
 This philosophical divide threatens to split the order at the very moment when their services are most desperately needed. The question of whether to protect or prepare minds for cosmic integration may determine not just the fate of the Dream Shepherds, but the ultimate outcome of the convergence crisis itself.
 
 *"We guard the gates of sleep so that rest remains refuge. But what if the dreams we call nightmares are actually doorways to salvation?"* - Final journal entry of Master Dream Walker Celestine Moonwhisper
+
+
+## Connections
+
+- [[Captain Nautilus the Deep Wanderer]]

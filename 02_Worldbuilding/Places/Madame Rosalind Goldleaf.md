@@ -1,22 +1,35 @@
 ---
-tags: [character, npc, madame, goldleaf, aethermoor, noble, merchant, socialite, influencer]
-status: "complete"
-world: "Aethermoor"
-type: "character"
-created_by: "auto-stub"
+tags:
+- aethermoor
+- character
+- complete
+- goldleaf
+- influencer
+- madame
+- merchant
+- noble
+- npc
+- socialite
+status: complete
+world: Aethermoor
+type: Location
+created_by: auto-stub
 created: 2025-08-08
-updated: 2025-08-11
-character_type: "Noble Merchant"
-faction: "Goldleaf Trading House"
-class: "Noble/Bard"
+updated: '2025-08-11T13:08:50.946093+00:00'
+character_type: Noble Merchant
+faction: Goldleaf Trading House
+class: Noble/Bard
 level: 11
 cr: 8
-occupation: "Trading House Matriarch"
-location: "Goldleaf Manor, Aethermoor"
+occupation: Trading House Matriarch
+location: Goldleaf Manor, Aethermoor
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
+
+
 
 # Madame Rosalind Goldleaf
 *The Golden Voice of Commerce*
@@ -279,3 +292,12 @@ Madame Goldleaf's combination of business acumen and social grace provides good 
 Her success demonstrates how characters can build influence and power through intelligence, hard work, and relationship building rather than just combat prowess or magical abilities.
 
 Interactions with Madame Goldleaf can help players understand economic systems, political influence, and the importance of reputation and relationships in achieving long-term goals.
+
+
+## Connections
+
+- [[Merchant Princes]]
+- [[Crystalhaven]]
+- [[Pip Goldleaf]]
+- [[Port Meridian]]
+- [[The Grand Bazaar of Echoing Coins]]

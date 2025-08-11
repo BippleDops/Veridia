@@ -342,6 +342,18 @@ When encountered in the Deep Mother's vicinity or at one of his observation post
 - Provides historical context for current awakening signs
 - Maintains archive of prophecies related to oceanic divine awakening
 
+**[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Ethical memory preservation partnership
+- Shares memories of Deep Mother experiences with trauma survivors seeking healing
+- Collaborates on preserving cultural memories of divine encounters
+- Provides therapeutic framework for processing overwhelming cosmic experiences
+- Refers clients needing specialized divine-related memory therapy
+
+**[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]**: Research collaboration on divine crystalline phenomena
+- Studies crystalline formations appearing on Deep Mother's body parts
+- Analyzes crystal resonance patterns that correlate with divine heartbeat changes
+- Provides technical expertise on crystal-based early warning systems
+- Collaborates on research into divine consciousness affecting material reality
+
 **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Deep Mother's awakening affects dimensional stability
 - Her stirring sends ripples through the cosmic fabric affecting multiple realities
 - Nautilus's observations provide crucial data for understanding convergence effects

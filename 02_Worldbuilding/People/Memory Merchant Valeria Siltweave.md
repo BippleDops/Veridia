@@ -419,6 +419,13 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 - Potential role as bridge between mortal and divine memory
 - May receive prophetic visions during deep memory work
 
+### Divine Exploration Network
+**[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Divine memory research partnership
+- Receives memories of Deep Mother encounters from his exploration network
+- Provides therapeutic support for individuals overwhelmed by cosmic consciousness experiences
+- Collaborates on preserving cultural memories related to divine oceanic encounters
+- Offers memory-based counseling for those affected by Deep Mother's awakening signs
+
 ### Trade Relations with [[Silverscale Consortium]]
 - Ongoing conflict over ethical vs. profitable approaches
 - Competition for government contracts and public support

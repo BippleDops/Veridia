@@ -47,9 +47,7 @@ secrets:
   - "Knows location of shadow transformation facility"
   - "Original Glaucus still alive but imprisoned"
 created: 2025-08-07
-  - Category/People
-MyContainer: None
-MyCategory: Unknown
+updated: 2025-08-11
 obsidianUIMode: preview
 ---
 

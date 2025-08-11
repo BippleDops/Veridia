@@ -24,6 +24,9 @@
   "seed": 7013,
   "alt_text": "Concept art of allip-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-v2-allip-mpmm.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create an illustration of a heroic underwater scene in a painterly style, featuring a fantasy creature similar to a D&D allip-mpmm. This creature is muscular and has unique limbs. As a point of reference, include the silhouette of a Caucasian male human. The style should be medieval fantasy with culturally coherent gear, using materials like leather and metal, while avoiding modern technology or signage. The environment merges the sky and underwater realms, conveying a sense of motion and depth. The aquatic realism should be complemented with subsurface caustics and bioluminescent accents, reminiscent of a pressure-dome. The color palette should consist of teals, deep blues, sea-greens, and pearl highlights. No embedded texts or words, meaningless symbols, or modern elements like sci-fi UIs and signage should be included. Aim for detailed concept art that avoids artifacts and adheres to the specified aspect/resolution.",
+  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-v2-allip-mpmm.png"
 }

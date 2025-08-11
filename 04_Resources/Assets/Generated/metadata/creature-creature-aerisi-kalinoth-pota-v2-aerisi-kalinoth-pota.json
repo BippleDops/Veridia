@@ -21,9 +21,12 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 9488,
+  "seed": 7008,
   "alt_text": "Concept art of aerisi-kalinoth-pota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-aerisi-kalinoth-pota-v2-aerisi-kalinoth-pota.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Generate an illustration of a heroic, fantasy character in the style of a tabletop game setting, akin to Dungeons and Dragons. The character should possess an elaborate and culturally coherent gear made from grounded medieval-fantasy materials. No modern technology or signage should be included, and the style should be consistent, painterly, detailed concept art echoing aquatic fantasy realism with highlights of the character's musculature and unique limbs. A human silhouette should be included for scale. The image should be set in a unique zone merging underwater and sky elements, incorporating details such as subsurface caustics, bioluminescent accents, and pressure-dome materials to depict a sense of motion. The color palette should be dominated by teals, deep blues, sea-greens, and pearl highlights. The illustration resolution and aspect ratio should be per specified, avoiding any artifacts. Ensure no random – or meaningless symbols are included, preferring meaningful symbols or numbered pins. The style should not bring to mind sci-fi UIs, modern signals, photoreal CGI or anime style, and should avoid bloom glare.",
+  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-aerisi-kalinoth-pota-v2-aerisi-kalinoth-pota.png"
 }

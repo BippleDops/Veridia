@@ -21,9 +21,12 @@
     "sci-fi ui",
     "anime"
   ],
-  "seed": 9490,
+  "seed": 7010,
   "alt_text": "Concept art of aerisi-kalinoth-pota with anatomy, scale, and environment.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-aerisi-kalinoth-pota-v4-aerisi-kalinoth-pota.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A heroic tabletop fantasy scene in a painting-like style, featuring a character in consistent medieval-fantasy attire that is culturally coherent to the era. The character is influenced by fantasy realism and possesses unique muscular features and limbs. There's another human silhouette in the scene for comparison. The setting blends an underwater and sky zone, emphasizing motion and bioluminescent accents. The palette is dominated by sea-inspired colors such as teals, deep blues, sea-greens, and pearl highlights. The image should depict the character within a subsurface caustic environment and pressure-dome material. Take care to avoid contemporary technology, sci-fi UIs, random letter strings, and any form of embedded texts unless specified.",
+  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-aerisi-kalinoth-pota-v4-aerisi-kalinoth-pota.png"
 }

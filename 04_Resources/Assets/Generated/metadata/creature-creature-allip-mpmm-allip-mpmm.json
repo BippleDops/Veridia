@@ -24,6 +24,9 @@
   "seed": 2003,
   "alt_text": "Concept art of allip-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-allip-mpmm.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a visually captivating illustration of a fantasy setting that could be related to tabletop gaming like Dungeons & Dragons. The theme is medieval-fantasy, with all equipment and gear consistent to the era, without modern technology or signs. The image must be in a consistent, painterly style. Pay attention to the depiction of a muscular creature with unique limbs, probably an allip, and include the silhouette of a human for scale. Utilize a three-color palette consisting of teals, deep blues, sea-greens, and pearl highlight accents. The scene should convey motion, suggesting it's located in an underwater and sky merged zone. It implies a mixture of both aquatic fantasy realism and underneath water light refraction, known as subsurface caustics. Add in a few bioluminescent elements to emphasis the creature and avoid any artifacts. Keep symbols meaningful, avoiding any text or words unless specified, and no random string of letters. Stay away from styles such as sci-fi, modern signage, photoreal CGI, anime style, and excessive bloom glare.",
+  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-allip-mpmm.png"
 }

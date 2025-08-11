@@ -24,6 +24,9 @@
   "seed": 7014,
   "alt_text": "Concept art of allip-mpmm with anatomy, scale, and environment.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-v3-allip-mpmm.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a detailed concept art in painterly style that depicts an alluring scene from a heroic tabletop fantasy. The scene should incorporate no modern tech or signage and comprise of grounded medieval-fantasy materials. Imagine a blend of underwater and sky zone where an allip-mpmm creature, highlighted by distinctive musculature and unique limbs, exists. Include a silhouette of a human for scale comparison. The scene should evoke motion and portray the realm's aquatic fantasy realism with subsurface caustics and bioluminescent accents. Materialize a concept of pressure-dome, incorporating teals, deep blues, sea-greens with pearl highlights in a three-color palette restriction. Ensure consistency in style and avoid any form of embedded text or words unless specified, modern signage, photo-real CGI, and anime style.",
+  "file": "04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-v3-allip-mpmm.png"
 }

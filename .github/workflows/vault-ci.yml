@@ -1,0 +1,88 @@
+name: Vault CI
+
+on:
+  push:
+    branches: [ main, ops/** ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+concurrency:
+  group: vault-ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  link-integrity:
+    name: Link Integrity (wikilinks)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (LFS enabled)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run wikilink integrity check
+        run: |
+          python3 scripts/link_integrity_check.py --root . --report reports/ci_link_integrity.md
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-integrity
+          path: reports/ci_link_integrity.md
+
+  markdownlint:
+    name: Markdown Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DavidAnson/markdownlint-cli2-action@v15
+        with:
+          globs: |
+            **/*.md
+          config: .markdownlint.yaml
+
+  lfs-and-size-budget:
+    name: LFS Enforcement and Size Budget
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+      - name: Verify large files are LFS-tracked and enforce budget
+        shell: bash
+        run: |
+          set -euo pipefail
+          MAX_BYTES=$((50 * 1024 * 1024)) # 50MB total budget advisory
+          find . -type f \
+            -not -path './.git/*' -not -path './.github/*' -not -path './node_modules/*' \
+            -not -path './reports/*' -not -path './backups/*' \
+            -printf '%s\t%p\n' | sort -nr | head -n 200 > largest.txt
+
+          echo 'Top files by size:'
+          cat largest.txt
+
+          # Check each staged (in CI, checked-out) large file >5MB is an LFS pointer
+          violations=0
+          while IFS=$'\t' read -r size path; do
+            [ -f "$path" ] || continue
+            if [ "$size" -gt $((5*1024*1024)) ]; then
+              # LFS pointer files are small text files with known header
+              head -n 3 "$path" | grep -q 'git-lfs.github.com/spec/v1' || {
+                echo "ERROR: $path is >5MB and not an LFS pointer" >&2
+                violations=$((violations+1))
+              }
+            fi
+          done < largest.txt
+
+          # Advisory total size check
+          total=$(du -sb . | awk '{print $1}')
+          echo "Total repo size (bytes): $total"
+
+          if [ "$violations" -gt 0 ]; then
+            echo "Found $violations large non-LFS files" >&2
+            exit 1
+          fi

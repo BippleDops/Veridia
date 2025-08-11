@@ -135,7 +135,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 #### Surgeon Echo (Processing Division Chief)  
 *Medium humanoid (half-elf), lawful evil*
-**AS** 14 (Natural Armor) **HP** 97 (15d8 + 30) **Speed** 30 ft.
+**AC** 14 (Natural Armor) **HP** 97 (15d8 + 30) **Speed** 30 ft.
 **STR** 8 (-1) **DEX** 18 (+4) **CON** 14 (+2) **INT** 18 (+4) **WIS** 16 (+3) **CHA** 15 (+2)
 **Saving Throws** Int +10, Cha +8
 **Skills** Deception +14, Medicine +9, Sleight of Hand +10

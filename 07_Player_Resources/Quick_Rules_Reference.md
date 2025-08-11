@@ -81,7 +81,7 @@ created: 2025-01-10
 - **Melee Attacks**: Normal if you have swim speed, otherwise disadvantage
 - **Ranged Attacks**: Auto-miss beyond normal range, disadvantage within normal range
 - **Fire Damage**: Resistance unless magical
-- **Lightning Damage**: Hits all within 10 feet if not careful
+- **Lightning Damage**: All within 10 feet must make a DC 15 Dex save or take full damage (half on success)
 - **Speaking**: Difficult, spells with verbal components require air bubble
 
 ### Pressure Mechanics

@@ -81,7 +81,7 @@ Operating as an independent information broker while secretly gathering intellig
 
 ### Allies
 - [[The Remembrancer]]: Trades memories for prophecies
-- [[Captain Trawl Netcaster]]: Provides protection and transportation
+- [[Captain Trawl Netcaster]]: Mutual protection, transportation, and information exchange
 
 ### Rivals
 - [[The Coral Throne Syndicate]]: They want to monopolize information

@@ -1,0 +1,6 @@
+
+# Local scripts, reports, backups
+scripts/
+08_Archive/Reports/
+backups/
+*.zip

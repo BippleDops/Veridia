@@ -222,6 +222,20 @@ action Create contextual NPC reaction based on current situation
 color yellow
 ```
 
+## 📜 Handouts & GM Sheets
+
+### Player-Facing Encounter Handouts
+```dataview
+LIST FROM "04_Resources/Handouts/Encounters"
+SORT file.name ASC
+```
+
+### GM Encounter Sheets
+```dataview
+LIST FROM "06_GM_Resources/Travel/Encounter_Sheets"
+SORT file.name ASC
+```
+
 ## 📈 Campaign Metrics
 
 ### Pacing Analysis

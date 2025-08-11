@@ -61,6 +61,11 @@ Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and
 - [[06_GM_Resources/Travel/Encounter_Sheets/X-003_Anchor_Storm|X-003 Anchor Storm]]
 - [[06_GM_Resources/Travel/Encounter_Sheets/X-005_Dream_Sailing_Convoy|X-005 Dream Sailing Convoy]]
 
+```dataview
+LIST FROM "06_GM_Resources/Travel/Encounter_Sheets"
+SORT file.name ASC
+```
+
 ## Catalogs
 - [[Aquabyssos_Submarines_Catalog]] — 60 designs
 - [[Aethermoor_Airships_Catalog]] — 60 designs

@@ -155,4 +155,18 @@ Complements [[06_GM_Resources/Travel/Events/Sky_Events_Pack_A|Pack A]].
 ---
 
 ### S-121–S-150 (Additional Hooks)
-- Crown tournament escort • Sky mine belt • Anchor duel above city • Wind-river contraband chase • Solar sail tear • Mirage relay race • Choir blackout • Gravity tide surge • Refugee petrels swarm • Sky abbey schism • Dust river dragons •  Stratos kite sabotage • Eclipse raid window • Choir thunder mutiny • Star anchor theft • Platform quarantine • Crown’s mercy mission • Aurora omen fulfilled • Black swan twist • Gate drift lottery • Skywright midair refit • Pirate confederacy parley • War-balloon bombardment • Gale monk duel • Prism lightning sculpt
+ - Crown tournament escort • Sky mine belt • Anchor duel above city • Wind-river contraband chase • Solar sail tear • Mirage relay race • Choir blackout • Gravity tide surge • Refugee petrels swarm • Sky abbey schism • Dust river dragons •  Stratos kite sabotage • Eclipse raid window • Choir thunder mutiny • Star anchor theft • Platform quarantine • Crown’s mercy mission • Aurora omen fulfilled • Black swan twist • Gate drift lottery • Skywright midair refit • Pirate confederacy parley • War-balloon bombardment • Gale monk duel • Prism lightning sculpt
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Cloud canyons/dust rivers favored; Detect DCs +2 for ambushers; stealth improves disengage.
+- Anchor Fortress: Star anchor layers raise Integrity +1; add tuning tasks; failure increases Complication severity.
+- Parasite Swarm: Bio-glider boarding +1 frequency; Medicine DCs +2 in pressurized cabins.
+- Crystal Artillery: Choir arrays prevalent; feedback hazards frequent; Null pockets can shut arrays off.
+- Carrier Strike: Fighter wings present; altitude band maneuver DCs +1 for escorts.
+- Trade Escort: More convoy audits; fewer pirate rolls; bribes common.
+- Guerrilla Currents: Jetstream ambushes; Helm DC +1 in shear; advantage vs. patrols.
+- Zealot Crusade: Void-tinged liturgy broadcasts; Sanity triggers.
+- Memory Warfare: Whisper markets aloft; memory wind rewards and risks increased.
+- Reality Control: Portable pylons stabilize lanes; Complication severity -1 if allied; +1 if opposed.
+- Humanitarian Relief: Airbridges/med-evacs +1 frequency; standing gains boosted; gp reduced.
+- Pirate Confederacy: Gravity snares/sky nets surge; legal gray zones widen.

@@ -178,3 +178,17 @@ Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitu
   - Consequences impacting: Sanity, RSB/anchors, Memory rewards, Faction standing, Logistics
   - Scaling to increase DCs/effects at higher bands
   - Variants tying into merger flickers, Deep Mother whispers, and crystal corruption
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Cloud canyons and dust rivers favored; Detect DCs +2 for ambushers; stealth grants advantage on disengage.
+- Anchor Fortress: Star anchor coverage +1 Integrity; add tuning tasks; failure increases Complication step.
+- Parasite Swarm: Boarding via grapples and bio-gliders +1 frequency; Medicine DCs +2 in pressurized cabins.
+- Crystal Artillery: Choir arrays dominate; feedback hazards more common; Null pockets shut arrays off.
+- Carrier Strike: Fighter wings present; altitude band maneuvers DCs +1 for escorts.
+- Trade Escort: Convoy presence +1; fewer pure pirate rolls, more legal inspections/bribes.
+- Guerrilla Currents: Jetstream traps; Helm DC +1 in shear events; advantage vs. patrols.
+- Zealot Crusade: Sky sermons; Sanity saves on void-tinged liturgy; shrine-ships alter DCs.
+- Memory Warfare: Whisper markets aloft; memory winds increase rewards and risks.
+- Reality Control: Portable anchors on pylons; Complication severity -1 if allied; +1 if opposed.
+- Humanitarian Relief: Airbridges and med-evacs +1 frequency; standing gains boosted; gp reduced.
+- Pirate Confederacy: Gravity snares and sky nets proliferate; legal gray zones widen.

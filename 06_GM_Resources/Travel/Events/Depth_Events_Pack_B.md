@@ -158,4 +158,18 @@ Use with core systems and vehicle rules. This pack complements [[06_GM_Resources
 ---
 
 ### D-121–D-150 (Additional Hooks)
-- Pressure prism storm • Anchor raid decoy • Parasite breeder den • Leviathan migration crossing • Memory meadow eddy • Deep current logjam • Bone sledge convoy • Warden blockade run • Deep Mother pilgrimage • Rift predator flock • Coral cathedral procession • Debris-driven maelstrom • Uncharted trench window • Illegal anchor test • Choir regatta • Null-zone smuggling lane • Vent harvest stampede • Oracle eel swarm • Abyssal mirror lake • Shadow trawler spill • Pressure-tube failure relay • Convoy morale festival • Depth minesweep op • Anchor relic retrieval • Black swan twist
+ - Pressure prism storm • Anchor raid decoy • Parasite breeder den • Leviathan migration crossing • Memory meadow eddy • Deep current logjam • Bone sledge convoy • Warden blockade run • Deep Mother pilgrimage • Rift predator flock • Coral cathedral procession • Debris-driven maelstrom • Uncharted trench window • Illegal anchor test • Choir regatta • Null-zone smuggling lane • Vent harvest stampede • Oracle eel swarm • Abyssal mirror lake • Shadow trawler spill • Pressure-tube failure relay • Convoy morale festival • Depth minesweep op • Anchor relic retrieval • Black swan twist
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Prefer silt/kelp cover; Detect DCs +2 for ambushers; successful stealth grants advantage on evade.
+- Anchor Fortress: Wardens bolster Integrity +1 locally; add calibration mini-games; failure increases Complication severity by 1.
+- Parasite Swarm: Boarding/biohazard events +1 frequency; Medicine DCs +2 to treat infections.
+- Crystal Artillery: Resonance hazards more common; Null Hush pockets mitigate arrays.
+- Carrier Strike: Fighter-skiff screens present; escort DCs +1 on convoy events.
+- Trade Escort: More inspections/bribes; fewer pirate rolls; logistics rewards higher.
+- Guerrilla Currents: Rogue-current traps; Helm DCs +1 in current events; advantage vs. patrol detection.
+- Zealot Crusade: Sermons/shrine overlays; Sanity saves on liturgy broadcasts.
+- Memory Warfare: Memory storm intensity +1; reward bias to pearls/charts.
+- Reality Control: Extra anchors stabilize lanes; Complication severity -1 if allied; +1 if opposed.
+- Humanitarian Relief: Refugee/rescue events +1 frequency; higher standing gains, lower gp.
+- Pirate Confederacy: Boarding/mines prolific; legal friction escalates consequences.

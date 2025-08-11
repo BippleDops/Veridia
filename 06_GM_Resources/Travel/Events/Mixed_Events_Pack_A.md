@@ -53,3 +53,17 @@ These blend depth, sky, and merger motifs. Use all core systems (Pressure/Altitu
   - Outcomes with Sanity, Integrity, faction standing, memory rewards
   - Scaling by zone/band and merger type
   - Variants that hook into current campaign arcs
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Stage at portal edges; cross-world Detect DCs +2.
+- Anchor Fortress: Twin-anchor harmonics; Integrity +1; cadence puzzles.
+- Parasite Swarm: Herd blooms into flight lanes; mixed biohazard checks.
+- Crystal Artillery: Choir barrages across apertures; feedback risk on both sides.
+- Carrier Strike: Mixed-profile screen (subs + air); escort DCs +1.
+- Trade Escort: Duty corridors with memory tolls; fewer pirates, more audits.
+- Guerrilla Currents: Current/jetstream exploit; routing advantage vs. patrols.
+- Zealot Crusade: Dual-world processions; Sanity saves vs. synchronized sermons.
+- Memory Warfare: Cross-market arbitrage; high-risk/high-reward pearls.
+- Reality Control: Complication severity -1 allied; +1 opposed; anchor duels common.
+- Humanitarian Relief: Portal air–sea handoffs; standing > gp.
+- Pirate Confederacy: Mixed-law havens; boarding nets through portals.

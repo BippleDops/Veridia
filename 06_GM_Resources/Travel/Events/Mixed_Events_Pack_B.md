@@ -43,4 +43,18 @@ Complements [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_A|Pack A]].
 - Integration: Faction; politics.
 
 ### X-106–X-150 (Additional Hooks)
-- Choir pirate/privateer alliance test • Refugee air–sea handoff • Memory tax at gate • Starfall through trench window • Anchor duel across portal • Parasite cloud shepherded into jetstream • Dream barge convoy exchange • Hybrid convoy mixed escort • Crown audit of sub-airship docks • Synchronized festival across worlds • Prophecy echoed by both suns • Black swan treaty rupture
+ - Choir pirate/privateer alliance test • Refugee air–sea handoff • Memory tax at gate • Starfall through trench window • Anchor duel across portal • Parasite cloud shepherded into jetstream • Dream barge convoy exchange • Hybrid convoy mixed escort • Crown audit of sub-airship docks • Synchronized festival across worlds • Prophecy echoed by both suns • Black swan treaty rupture
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Portal rim blinds; Detect DC +2 for ambushers.
+- Anchor Fortress: Twin-anchor lanes; Integrity +1; cadence tests blend sea and sky hymns.
+- Parasite Swarm: Bloom shepherds into jetstreams; mixed Medicine DCs +2.
+- Crystal Artillery: Choir barrages across apertures; Null shields across boundary.
+- Carrier Strike: Mixed sub/air escorts; DC +1 on escort actions.
+- Trade Escort: Duty corridors with inspections and memory tolls.
+- Guerrilla Currents: Jetstream/current pivots; routing advantage vs patrols.
+- Zealot Crusade: Dual-world liturgies; Sanity saves.
+- Memory Warfare: Arbitrage across markets; high stakes and attention.
+- Reality Control: Complication severity -1/+1 by stance; anchor duels frequent.
+- Humanitarian Relief: Portal handoffs; standing-focused outcomes.
+- Pirate Confederacy: Cross-law havens; nets through portals; legal ambiguity.

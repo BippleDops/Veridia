@@ -99,3 +99,17 @@ Use with [[Complete Reality Merger System]], [[03_Mechanics/Vehicles/Merger_Hybr
   - Memory tradeoffs/rewards when appropriate
   - Faction implications (who wants or fears this zone)
   - Scaling per zone class (Flicker → Paradox)
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Use low-Integrity eddies; Detect DCs +2 while flickering.
+- Anchor Fortress: Anchor grids stabilize lanes (Integrity +1); add cadence mini-games.
+- Parasite Swarm: Identity-parasite infestations; Sanity/Medicine DCs +2.
+- Crystal Artillery: Resonance in paradox spikes; arrays risk feedback; Null zones as counters.
+- Carrier Strike: Multi-ship synchrony; initiative layers across flickers.
+- Trade Escort: Focus on stabilized corridors; tolls in memory charts.
+- Guerrilla Currents: Probability routes; evade checks advantage but map drift risk.
+- Zealot Crusade: Doctrine imposes ritual stops; Sanity saves vs. cosmic sermons.
+- Memory Warfare: Memory tolls and heists; high-value chart rewards.
+- Reality Control: Severity -1 when allied; +1 when opposed; anchors more accessible.
+- Humanitarian Relief: Evacuations through flickers; Reputation >> gp.
+- Pirate Confederacy: Exploit paradox to board; nets through doors opening elsewhere.

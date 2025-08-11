@@ -83,4 +83,18 @@ Complements [[06_GM_Resources/Travel/Events/Merger_Events_Pack_A|Pack A]].
 - Integration: Navigation; sanity.
 
 ### M-111–M-150 (Additional Hooks)
-- Möbius cargo paradox • Liar’s helm command • Echo predator shadow • Tesseract cargo fight • Mnemosyne market • Anchor duel inside out • Glitch junker chase • Palinode regret ritual • Aleph sensor overload • Blind cartographer bargain • Event horizon shear • Spiral thesis suppression • Refrain loop of last round • Waking dream engine • Identity shuttle arbitration • Catabasis bargain • Anamnesis déjà vu • Palimpsest overwrite toll • Penrose deck puzzle • Chorus hymn anchor cadence • Black swan convergence twist
+ - Möbius cargo paradox • Liar’s helm command • Echo predator shadow • Tesseract cargo fight • Mnemosyne market • Anchor duel inside out • Glitch junker chase • Palinode regret ritual • Aleph sensor overload • Blind cartographer bargain • Event horizon shear • Spiral thesis suppression • Refrain loop of last round • Waking dream engine • Identity shuttle arbitration • Catabasis bargain • Anamnesis déjà vu • Palimpsest overwrite toll • Penrose deck puzzle • Chorus hymn anchor cadence • Black swan convergence twist
+
+## Faction Doctrine Variants
+- Stealth & Ambush: Flicker cloaks; Detect DCs +2 during oscillations.
+- Anchor Fortress: Grid cadence increases Integrity +1; cadence mini-games required.
+- Parasite Swarm: Identity-parasite infestations; Sanity/Medicine DCs +2.
+- Crystal Artillery: Paradox-resonant barrages; Null counterplays.
+- Carrier Strike: Multi-profile escort; initiative layers across flickers.
+- Trade Escort: Memory toll lanes preferred; fewer pirates; audits rise.
+- Guerrilla Currents: Probability routes; evade advantage, map drift risk.
+- Zealot Crusade: Cosmic rites at anchors; Sanity triggers.
+- Memory Warfare: Chart/pearl heists; large payouts.
+- Reality Control: Complication severity -1 when allied; +1 when opposed.
+- Humanitarian Relief: Flicker evacuations; reputation over gp.
+- Pirate Confederacy: Board through doors opening elsewhere; legal chaos.

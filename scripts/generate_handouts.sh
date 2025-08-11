@@ -28,7 +28,13 @@ declare -a files=(
   "Quiet_Chapel_Oath_Scroll.md"
   "Emergency_Evacuation_Map_Stormglass_Riots.md"
   "Dockworker_Union_Flyer.md"
-)
+# Read handout file list from external config file
+handout_list_file="scripts/handout_files.txt"
+if [[ ! -f "$handout_list_file" ]]; then
+  echo "Handout file list not found: $handout_list_file" >&2
+  exit 1
+fi
+mapfile -t files < "$handout_list_file"
 
 for f in "${files[@]}"; do
   path="$base/$f"

@@ -25,6 +25,8 @@ obsidianUIMode: preview
 # Captain Blackwater
 *The Lost Brother, Herald of Crystal Song*
 
+> *"For the Table: Captain Blackwater works best as a tragic mirror to heroic ideals - a warning of what happens when noble intentions meet corrupting power. Use him to challenge players' assumptions about salvation versus corruption."*
+
 ## Overview
 Captain Marcus "Black Mark" Blackwater is the younger brother of the famous explorer [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]. Once a respected naval officer in his own right, Marcus became obsessed with finding his missing brother and launched his own expedition into [[02_Worldbuilding/Places/The Crystalline Wastes]]. What he found there changed him forever. Now partially transformed by crystal corruption, he serves as an unwitting herald for the awakening power of the [[02_Worldbuilding/Quests/Quest - The Seventh Shard]], leading a crew of similarly corrupted souls through the dangerous borderlands between the crystal wastes and the civilized world.
 
@@ -53,6 +55,12 @@ Captain Marcus "Black Mark" Blackwater is the younger brother of the famous expl
 - Transformation began slowly, crew loyalty keeping them together as they changed
 - Now leads expeditions that blur the line between rescue and recruitment
 
+> **For the Table - Fail Forward Options:**
+> - **If players fail to stop his recruitment:** He gains 2d6 new corrupted followers but leaves clear trail
+> - **If combat goes badly:** Crystal harmony teleports him away, but party gains crystal compass
+> - **If negotiation fails:** He offers corrupted "gift" that provides clue but requires CON save
+> - **If party kills him:** His death triggers crystal resonance alerting [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]
+
 ## The Ship: *Crystal Harmony*
 
 ### Vessel Specifications
@@ -78,6 +86,12 @@ Captain Marcus "Black Mark" Blackwater is the younger brother of the famous expl
 - **Ship's Scholar Dr. Prism**: Former researcher studying crystal corruption, now studies it from within
 - **Quartermaster Shine**: Handles crystal-based supplies and equipment
 - **17 Crew Members**: Various stages of crystal corruption, all maintaining their essential humanity while gaining crystal abilities
+
+> **For the Table - Encounter Hooks:**
+> - **The Mercy Mission:** Party finds Marcus attempting to "save" a coastal village through crystallization
+> - **Family Reunion:** His children hire party to find their father, not knowing his transformation
+> - **The Crystal Compass:** Marcus seeks party's help finding specific shard, offers corrupted navigation
+> - **Rival Expeditions:** Marcus and party race to reach same crystal site with different goals
 
 ## Combat Statistics (D&D 5e)
 

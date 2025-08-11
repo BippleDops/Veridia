@@ -23,13 +23,13 @@ obsidianUIMode: preview
 *The Dark Legislature, The Hidden Government, The Whisper Assembly*
 
 ## Overview
-The Parliament of Echoes - Shadow Chamber operates as [[02_Worldbuilding/Places/Aquabyssos]]'s secret shadow legislature, functioning as a parallel government structure that mirrors and manipulates the conventional [[02_Worldbuilding/Places/Parliament of Echoes]]. Comprised of shadow duplicates, corrupted officials, and shadow-touched legislators, this hidden assembly crafts legislation that serves shadow interests while maintaining the illusion of democratic governance. They represent the political arm of shadow infiltration, working to transform Aquabyssos from within through legal and bureaucratic means.
+The Parliament of Echoes - Shadow Chamber operates as [[Aquabyssos]]'s secret shadow legislature, functioning as a parallel government structure that mirrors and manipulates the conventional [[Parliament of Echoes]]. Comprised of shadow duplicates, corrupted officials, and shadow-touched legislators, this hidden assembly crafts legislation that serves shadow interests while maintaining the illusion of democratic governance. They represent the political arm of shadow infiltration, working to transform Aquabyssos from within through legal and bureaucratic means.
 
 ## History
 
 ### Foundation Era (45 Years Ago)
 **The Shadow Infiltration**
-- Founded when first shadow duplicates successfully infiltrated [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Founded when first shadow duplicates successfully infiltrated [[Parliament of Echoes]]
 - Initial shadow senators began coordinating secret sessions
 - Established [[The Obsidian Chamber]] as hidden meeting location
 - Created shadow parliamentary procedures and legislative processes
@@ -41,7 +41,7 @@ The Parliament of Echoes - Shadow Chamber operates as [[02_Worldbuilding/Places/
 - Development of shadow legislative calendar parallel to official sessions
 - Creation of shadow committee system and specialized working groups
 - Establishment of shadow lobbying networks and influence operations
-- Integration with [[02_Worldbuilding/Groups/The Shadow Conspiracy]] political operations
+- Integration with [[The Shadow Conspiracy]] political operations
 
 ### The Hidden Governance Era (20-10 Years Ago)
 **Shadow Political Control**
@@ -215,16 +215,16 @@ The Parliament of Echoes - Shadow Chamber operates as [[02_Worldbuilding/Places/
 ## Relationships & Politics
 
 ### Government Integration
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Complete infiltration and parallel structure
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Complex relationship of hidden influence and potential opposition
+- **[[Parliament of Echoes]]**: Complete infiltration and parallel structure
+- **[[Empress Tethys the Ever-Drowning]]**: Complex relationship of hidden influence and potential opposition
 - **Civil Service**: Extensive infiltration and coordination with shadow bureaucrats
 - **Judicial System**: Influence operations and coordination with shadow judges
 - **Military Leadership**: Coordination with shadow-influenced military commanders
 
 ### Shadow Organizations
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Primary coordination and strategic alignment
-- **[[02_Worldbuilding/Groups/The Parliament of Nobody]]**: Ideological conflict over representation philosophy
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship of cooperation and independence
+- **[[The Shadow Conspiracy]]**: Primary coordination and strategic alignment
+- **[[The Parliament of Nobody]]**: Ideological conflict over representation philosophy
+- **[[Shadow Duchess Nyx]]**: Complex relationship of cooperation and independence
 - **Shadow Civil Service**: Administrative coordination and bureaucratic support
 - **Shadow Military**: Defense and security coordination
 
@@ -236,7 +236,7 @@ The Parliament of Echoes - Shadow Chamber operates as [[02_Worldbuilding/Places/
 - **Independent Media**: Information warfare and narrative control efforts
 
 ### International Relations
-- **[[02_Worldbuilding/Places/Aethermoor]] Shadow Organizations**: Political coordination and mutual support
+- **[[Aethermoor]] Shadow Organizations**: Political coordination and mutual support
 - **Foreign Shadow Governments**: Diplomatic relations and alliance building
 - **International Organizations**: Representation and influence operations
 - **Trade Partners**: Economic coordination and policy alignment
@@ -393,16 +393,16 @@ The Parliament of Echoes - Shadow Chamber operates as [[02_Worldbuilding/Places/
 
 ### Key NPCs
 - **[[Shadow Speaker Voidvoice]]** - Shadow parliamentary leader and authority
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]** - Official government relationship
-- **[[02_Worldbuilding/People/Senator Glaucus]]** - Shadow duplicate coordination
+- **[[Empress Tethys the Ever-Drowning]]** - Official government relationship
+- **[[Senator Glaucus]]** - Shadow duplicate coordination
 - **[[Whip of Whispers]]** - Legislative coordination specialist
 - **[[Minister Nightpolicy]]** - Shadow government administration
 
 ### Related Locations
 - **[[The Obsidian Chamber]]** - Shadow parliamentary meeting facility
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Official parliament being infiltrated
+- **[[Parliament of Echoes]]** - Official parliament being infiltrated
 - **[[Shadow Government Complex]]** - Administrative facilities
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Seat of government and political center
+- **[[Abyssos Prime]]** - Seat of government and political center
 - **[[Legislative Archives]]** - Document storage and research
 
 ### Associated Quests

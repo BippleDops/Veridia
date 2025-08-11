@@ -20,13 +20,13 @@ access_restriction: "Commercial and Government Licensed"
 
 ## Overview
 
-The Deep Harvest represents the most advanced automated resource extraction and marine agriculture system in [[02_Worldbuilding/Places/Aquabyssos]], combining sophisticated robotics, bio-mechanical cultivation, magical enhancement, and sustainable harvesting techniques to exploit the ocean's depths for food, materials, and energy production. This comprehensive system enables the underwater city to achieve food security and economic prosperity despite the challenging deep-sea environment.
+The Deep Harvest represents the most advanced automated resource extraction and marine agriculture system in [[Aquabyssos]], combining sophisticated robotics, bio-mechanical cultivation, magical enhancement, and sustainable harvesting techniques to exploit the ocean's depths for food, materials, and energy production. This comprehensive system enables the underwater city to achieve food security and economic prosperity despite the challenging deep-sea environment.
 
 Operating through networks of automated harvesting platforms, bio-mechanical cultivation farms, processing facilities, and distribution systems, The Deep Harvest produces everything from basic food staples to exotic materials used in advanced technology. The system's integration with the [[Crystal Forest]] provides magical enhancement, while coordination with the [[Pressure Adaptation System]] ensures worker safety during manual operations.
 
 The technology represents a revolutionary approach to marine resource utilization, moving beyond traditional fishing and gathering to create sustainable production systems that enhance rather than deplete ocean ecosystems. Advanced bio-mechanical engineering enables cultivation of species specifically adapted to deep-sea conditions while automated systems operate continuously in environments too dangerous for human workers.
 
-Recent innovations have focused on expanding production capacity, improving resource sustainability, accommodating [[02_Worldbuilding/Places/Aethermoor]] trade requirements, and preparing for potential population increases during reality convergence events that might bring surface dwellers to underwater environments permanently.
+Recent innovations have focused on expanding production capacity, improving resource sustainability, accommodating [[Aethermoor]] trade requirements, and preparing for potential population increases during reality convergence events that might bring surface dwellers to underwater environments permanently.
 
 ## System Architecture and Components
 
@@ -216,7 +216,7 @@ The Deep Harvest produces the majority of Aquabyssos's food supply through advan
 **Distribution Networks:**
 - **City Food Supply**: Primary distribution to Aquabyssos markets and consumers
 - **Emergency Reserves**: Strategic food stockpiles for crisis situations
-- **Export Markets**: Trade products for exchange with [[02_Worldbuilding/Places/Aethermoor]] and other locations
+- **Export Markets**: Trade products for exchange with [[Aethermoor]] and other locations
 - **Specialized Diets**: Custom food production for specific health and dietary needs
 - **Industrial Food**: Bulk production for large-scale food processing and manufacturing
 
@@ -253,7 +253,7 @@ The Deep Harvest generates significant economic value through diverse commercial
 
 **Trade Networks:**
 - **[[Umbral Exchange]]**: Primary trading platform for Deep Harvest products
-- **Surface Trade**: Commercial relationships with [[02_Worldbuilding/Places/Aethermoor]] markets
+- **Surface Trade**: Commercial relationships with [[Aethermoor]] markets
 - **International Commerce**: Trade with other underwater civilizations
 - **Specialized Markets**: Niche products for specific customer needs
 - **Emergency Supply**: Reserve production capacity for crisis situations
@@ -294,7 +294,7 @@ Future developments focus on making harvesting operations beneficial to marine e
 ### Cross-Realm Integration
 
 **Collaborative Development:**
-Cooperation with [[02_Worldbuilding/Places/Aethermoor]] creates opportunities for enhanced resource production:
+Cooperation with [[Aethermoor]] creates opportunities for enhanced resource production:
 
 **Joint Development Projects:**
 - **Dual-Environment Harvesting**: Systems operating in both water and air environments
@@ -438,11 +438,11 @@ Understanding The Deep Harvest helps navigate Aquabyssos society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location utilizing Deep Harvest products
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Resource production partner providing enhancement materials
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Life support technology using harvested materials
-- [[02_Worldbuilding/Lore/Umbral Exchange]] - Primary trading platform for harvested products
-- [[02_Worldbuilding/People/Master Harvest Engineer Kelp Deepsow]] - System director and operations leader
-- [[02_Worldbuilding/People/Chief Marine Engineer Coral Seaforge]] - Manufacturing facility director
-- [[02_Worldbuilding/Groups/Deep Metals Consortium]] - Material supplier for harvesting equipment
-- [[02_Worldbuilding/Groups/Marine Protection Guild]] - Environmental safety organization
+- [[Aquabyssos]] - Primary location utilizing Deep Harvest products
+- [[Crystal Forest]] - Resource production partner providing enhancement materials
+- [[Pressure Adaptation System]] - Life support technology using harvested materials
+- [[Umbral Exchange]] - Primary trading platform for harvested products
+- [[Master Harvest Engineer Kelp Deepsow]] - System director and operations leader
+- [[Chief Marine Engineer Coral Seaforge]] - Manufacturing facility director
+- [[Deep Metals Consortium]] - Material supplier for harvesting equipment
+- [[Marine Protection Guild]] - Environmental safety organization

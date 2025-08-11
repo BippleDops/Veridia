@@ -12,7 +12,7 @@ sub_locations:
 depth: "3800-4100 feet"
 population: 1
 government: "Ancient Custodianship"
-ruler: "[[02_Worldbuilding/People/The Silent Watcher Entity]]"
+ruler: "[[The Silent Watcher Entity]]"
 factions:
   - "[[The Observers]]"
   - "[[Record Keepers]]"
@@ -27,7 +27,7 @@ services:
   - "Threat Assessment"
   - "Temporal Observation"
 notable_npcs:
-  - "[[02_Worldbuilding/People/The Silent Watcher Entity]]"
+  - "[[The Silent Watcher Entity]]"
   - "[[Echo-Scribe Matthias]]"
   - "[[Observation Tender Clara]]"
 current_state: "Active ancient surveillance"
@@ -63,7 +63,7 @@ Unlike other locations in the deep world, the Silent Watcher Observatory appears
 ## The Silent Watcher Entity
 
 ### Nature and Origin
-**[[02_Worldbuilding/People/The Silent Watcher Entity|Full Details]]**
+**[[The Silent Watcher Entity|Full Details]]**
 The Silent Watcher defies easy categorization. It appears to be a fusion of advanced magical construct, evolved consciousness, and cosmic force. Whether it was created, evolved, or simply emerged from the intersection of observation and time remains unknown.
 
 **Physical Manifestation:**
@@ -188,10 +188,10 @@ The Watcher's perfect memory and observation capabilities make it an ultimate ar
 The Silent Watcher has been tracking the expansion of shadow entities throughout [[Abyssos Prime]] and warns that the phenomenon represents a threat to the fundamental nature of reality.
 
 ### Temporal Instability
-Increasing temporal anomalies throughout [[Aquabyssos]] have drawn the Watcher's attention, particularly the activities of [[02_Worldbuilding/Places/The Recursion Cult]].
+Increasing temporal anomalies throughout [[Aquabyssos]] have drawn the Watcher's attention, particularly the activities of [[The Recursion Cult]].
 
 ### The Memory Crisis
-The Watcher observes that the widespread trading and manipulation of memories by [[02_Worldbuilding/Groups/Memory Farmers]] is creating dangerous instabilities in individual and collective consciousness.
+The Watcher observes that the widespread trading and manipulation of memories by [[Memory Farmers]] is creating dangerous instabilities in individual and collective consciousness.
 
 ### Surface World Stirrings
 Recent observations suggest significant changes occurring in the surface world, including attempts to contact the deep civilization.
@@ -236,14 +236,14 @@ The Watcher possesses knowledge about the ultimate fate of reality itself, inclu
 ## Connected Locations
 
 ### Information Networks
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Information sharing and comparison
-- **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine]]:** Prophetic consultation exchange
-- **[[02_Worldbuilding/Lore/Aethermoor Archives]]:** Cross-referencing historical records
+- **[[The Archive of Unremembered Things]]:** Information sharing and comparison
+- **[[Whisper-Touched William's Oracle Shrine]]:** Prophetic consultation exchange
+- **[[Aethermoor Archives]]:** Cross-referencing historical records
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Strategic intelligence provision
-- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Counsel to the Scattered Emperor
-- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Historical verification services
+- **[[Parliament of Echoes]]:** Strategic intelligence provision
+- **[[The Inverse Palace]]:** Counsel to the Scattered Emperor
+- **[[The Eternal Senate]]:** Historical verification services
 
 ### Observation Points
 - **[[Observatory Network Nodes]]:** Extended viewing points throughout the deep

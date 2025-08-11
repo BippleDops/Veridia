@@ -19,7 +19,7 @@ obsidianUIMode: preview
 *Where Earth Meets Sky and Crystal*
 
 ## Overview
-The Sundered Peaks form [[02_Worldbuilding/Places/Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[02_Worldbuilding/Lore/The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
+The Sundered Peaks form [[Aethermoor]]'s eastern border, a massive mountain range split by the Eastern Spire during [[The Great Crystallization]]. Home to the finest crystal mines and the dwarven stronghold of [[Ironhold]], these peaks produce the purest Aether Crystals while hiding ancient secrets in their depths.
 
 ## Geography
 
@@ -48,7 +48,7 @@ Where the Azure Shard struck:
 - Mental enhancement effects
 
 ### Mining Operations
-- **Royal Mines**: [[02_Worldbuilding/Groups/The Crystal Throne]] controlled
+- **Royal Mines**: [[The Crystal Throne]] controlled
 - **Free Mines**: Independent operators
 - **Dwarven Depths**: Traditional deep mining
 - **Smuggler Holes**: Illegal operations
@@ -111,7 +111,7 @@ Sacred site at 15,000 feet:
 ## Current Conflicts
 
 ### The Mining Wars
-- [[02_Worldbuilding/Groups/The Crystal Throne]] vs. Free Miners
+- [[The Crystal Throne]] vs. Free Miners
 - Claim disputes
 - Smuggling operations
 - Worker strikes
@@ -127,8 +127,8 @@ Sacred site at 15,000 feet:
 ### Political Tensions
 - Dwarves want independence
 - Humans demand more mines
-- [[02_Worldbuilding/Groups/Purist Coalition]] sabotage
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] infiltration
+- [[Purist Coalition]] sabotage
+- [[The Whisper Syndicate]] infiltration
 
 ## The Deep Roads
 
@@ -216,17 +216,17 @@ Pre-Shattering tunnel system:
 - Captain Orik Stoneward
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Aethermoor]] - Part of continent
+- [[Aethermoor]] - Part of continent
 - [[Ironhold]] - Major city
-- [[02_Worldbuilding/Places/Crystalhaven]] - Trade partner
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Northern border
+- [[Crystalhaven]] - Trade partner
+- [[The Crystalline Wastes]] - Northern border
 - The Deep Roads - Underground
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Claims sovereignty
+- [[The Crystal Throne]] - Claims sovereignty
 - [[Crystal Wardens]] - Garrison forces
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Control trade
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Smuggling
+- [[Merchant Princes]] - Control trade
+- [[The Whisper Syndicate]] - Smuggling
 
 ## DM Notes
 - Balance tradition vs. progress

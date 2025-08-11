@@ -6,7 +6,7 @@ tags:
   - foreign-power
   - merchant-princes
 type: NPC
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
+location: "[[Crystalhaven]]"
 faction: "Tidal Courts of Aquabyssos"
 race: Sea Elf (Aquatic Variant)
 class: Bard/Warlock
@@ -22,7 +22,7 @@ obsidianUIMode: preview
 # Ambassador Nerida Deepcurrent
 
 ## Overview
-The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empire thought lost to legend. Nerida arrived in [[02_Worldbuilding/Places/Crystalhaven]] six months ago, claiming to represent the "Drowned Parliament"—a coalition of submerged civilizations that have thrived beneath the waves for centuries.
+The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empire thought lost to legend. Nerida arrived in [[Crystalhaven]] six months ago, claiming to represent the "Drowned Parliament"—a coalition of submerged civilizations that have thrived beneath the waves for centuries.
 
 ## Appearance
 - Aquamarine skin with bioluminescent markings that pulse with emotion
@@ -56,11 +56,11 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 - Warlock invocations granting water control and psychic abilities
 
 ## Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Maintains cordial diplomatic relations while secretly assessing her weakness
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]**: Sees him as potentially useful for future succession manipulation
-- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Knows his ships have discovered Aquabyssos ruins; wants him silenced or recruited
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Trading partner for smuggling operations between surface and depths
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Fascinated by his crystal technology; secretly offers deep-sea materials
+- **[[Queen Seraphina Lumengarde]]**: Maintains cordial diplomatic relations while secretly assessing her weakness
+- **[[Prince Caspian Duskwater]]**: Sees him as potentially useful for future succession manipulation
+- **[[Captain Thaddeus Blackwater]]**: Knows his ships have discovered Aquabyssos ruins; wants him silenced or recruited
+- **[[Vex Shadowthorn]]**: Trading partner for smuggling operations between surface and depths
+- **[[Master Artificer Korvin Gearwright]]**: Fascinated by his crystal technology; secretly offers deep-sea materials
 - **Sister Morwyn Veilkeeper**: Exchanges prophetic visions about the coming convergence
 
 ## Current Activities
@@ -76,7 +76,7 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 > - Knows that three of the Seven Shards originated from Aquabyssos temples
 > - Has been marking key surface dwellers with invisible deep-marks for future "collection"
 > - The palanquin water contains a scrying pool linked to the Sunken Sovereign
-> - Plans to trigger controlled flooding of [[02_Worldbuilding/Places/Port Meridian]] to establish an Aquabyssos foothold
+> - Plans to trigger controlled flooding of [[Port Meridian]] to establish an Aquabyssos foothold
 > - Carries a Tide Pearl that can summon a tsunami once per year
 
 ## Embassy: The Cerulean Depths
@@ -88,7 +88,7 @@ Located in Crystalhaven's Embassy Quarter, her residence is a architectural marv
 
 ## Plot Hooks
 1. Hires party to retrieve a sunken relic from pre-drowning ruins
-2. Requests escort to [[02_Worldbuilding/Places/Port Meridian]] for "trade negotiations"
+2. Requests escort to [[Port Meridian]] for "trade negotiations"
 3. Offers valuable information about underwater passages in exchange for crystal samples
 4. Needs discrete investigation of ships that have been exploring too deep
 

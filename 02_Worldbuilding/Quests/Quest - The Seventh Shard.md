@@ -22,32 +22,32 @@ obsidianUIMode: preview
 *The Lost Fragment of Divinity*
 
 ## Overview
-Six of the Seven Shards of the Crown of Stars have been located or rumored, but the Seventh remains missing. Multiple factions race to find it, believing it to be the key to either ultimate power or final destruction. [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition sought it in [[02_Worldbuilding/Places/The Crystalline Wastes]] but vanished. Now the search intensifies as signs point to its awakening.
+Six of the Seven Shards of the Crown of Stars have been located or rumored, but the Seventh remains missing. Multiple factions race to find it, believing it to be the key to either ultimate power or final destruction. [[Captain Thaddeus Blackwater]]'s expedition sought it in [[The Crystalline Wastes]] but vanished. Now the search intensifies as signs point to its awakening.
 
 ## The Seven Shards
 
 ### Known Locations
 > [!warning] DM Only
 > 1. **Clear Shard**: The Crystal Throne itself
-> 2. **Crimson Shard**: Hidden in [[02_Worldbuilding/Places/Port Meridian]] harbor (causing plague)
-> 3. **Amber Shard**: [[02_Worldbuilding/People/High Inquisitor Maltheos]] possesses
-> 4. **Emerald Shard**: Within the Heart Tree, [[02_Worldbuilding/Places/The Verdant Reach]]
+> 2. **Crimson Shard**: Hidden in [[Port Meridian]] harbor (causing plague)
+> 3. **Amber Shard**: [[High Inquisitor Maltheos]] possesses
+> 4. **Emerald Shard**: Within the Heart Tree, [[The Verdant Reach]]
 > 5. **Azure Shard**: Sunken temple, [[The Azure Coast]]
-> 6. **Obsidian Shard**: [[02_Worldbuilding/Places/The Shadowmere]], corrupting swamp
+> 6. **Obsidian Shard**: [[The Shadowmere]], corrupting swamp
 > 7. **Golden Shard**: The Seventh - location unknown
 
 ## Quest Stages
 
 ### Stage 1: The Call
 **Triggers**:
-- Complete [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]]
+- Complete [[Quest - The Plague of Crystals]]
 - Reach level 8+
 - Major faction offers employment
 - Strange dreams of golden light
 
 **Initial Clues**:
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s journal found
-- [[02_Worldbuilding/People/The Crimson Sage]] provides cryptic map
+- [[Captain Thaddeus Blackwater]]'s journal found
+- [[The Crimson Sage]] provides cryptic map
 - Ancient prophecy discovered
 - Visions during crystal exposure
 
@@ -60,7 +60,7 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 - Discover they found something
 
 #### Path B: Ancient Libraries
-- Research in [[02_Worldbuilding/Places/Crystalhaven]] archives
+- Research in [[Crystalhaven]] archives
 - Seek [[Keeper Elara Moonwhisper]]'s help
 - Decode pre-Shattering texts
 - Learn about Crown's creation
@@ -74,11 +74,11 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 ### Stage 3: The Competition
 
 **Other Seekers**:
-- [[02_Worldbuilding/People/Vex Shadowthorn]]'s agents - Ruthless
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s spies - Desperate
+- [[Vex Shadowthorn]]'s agents - Ruthless
+- [[Queen Seraphina Lumengarde]]'s spies - Desperate
 - [[The Order of the Shattered Crown]] - Fanatical
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]]'s forces - Military
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious agenda
+- [[Prince Caspian Duskwater]]'s forces - Military
+- [[The Crimson Sage]] - Mysterious agenda
 
 **Encounters**:
 - Ambushes by rival groups
@@ -132,8 +132,8 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 ## Key Locations
 
 ### Search Sites
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Blackwater's route
-- [[02_Worldbuilding/Places/The Shattered Sanctum]] - Hidden temple
+- [[The Crystalline Wastes]] - Blackwater's route
+- [[The Shattered Sanctum]] - Hidden temple
 - [[The Oracle of the Sundered Peaks]] - Prophecy
 - [[The Whispering Expanse]] - Desert mysteries
 - [[Sylvanheart]] - Secret haven
@@ -141,16 +141,16 @@ Six of the Seven Shards of the Crown of Stars have been located or rumored, but 
 ## NPCs Involved
 
 ### Information Sources
-- [[02_Worldbuilding/People/The Crimson Sage]] - Knows truth
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Missing seeker
+- [[The Crimson Sage]] - Knows truth
+- [[Captain Thaddeus Blackwater]] - Missing seeker
 - [[The Oracle of the Sundered Peaks]] - Prophet
 - [[Professor Aldric Crystalweaver]] - Research
 
 ### Competitors
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Wants power
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Needs cure
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Seeks destruction
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Claims birthright
+- [[Vex Shadowthorn]] - Wants power
+- [[Queen Seraphina Lumengarde]] - Needs cure
+- [[High Inquisitor Maltheos]] - Seeks destruction
+- [[Prince Caspian Duskwater]] - Claims birthright
 
 ### The Hidden Key
 - [[Aria Lumengarde]] - The Shard's host
@@ -249,19 +249,19 @@ Party members begin experiencing shared dreams of a golden light calling to them
 - A crown reassembling itself
 
 #### Scenario C: The Faction's Desperation
-**[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** secretly contacts the party through intermediaries. The corruption is advancing faster than predicted, and her court mages believe only the Seventh Shard can provide a permanent cure.
+**[[Queen Seraphina Lumengarde]]** secretly contacts the party through intermediaries. The corruption is advancing faster than predicted, and her court mages believe only the Seventh Shard can provide a permanent cure.
 
 *"My daughter grows weaker each day, and I fear what I might become to save her. Find the Seventh Shard before I am forced to make choices that will damn us all."*
 
 #### Scenario D: The Unexpected Inheritance
-One party member discovers they've inherited [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s effects, including his encrypted journal and a crystal compass that points not north, but toward "divine resonance."
+One party member discovers they've inherited [[Captain Thaddeus Blackwater]]'s effects, including his encrypted journal and a crystal compass that points not north, but toward "divine resonance."
 
 ### Initial Investigation Phase
 
 #### Gathering Intelligence
 **Available Information Sources:**
 
-**The Crystal Archives** ([[02_Worldbuilding/Places/Crystalhaven]])
+**The Crystal Archives** ([[Crystalhaven]])
 - **Keeper Elara Moonwhisper**: Provides historical context and theoretical framework
 - **Research Cost**: 500 gp in fees and materials
 - **Information Gained**: 
@@ -296,7 +296,7 @@ One party member discovers they've inherited [[02_Worldbuilding/People/Captain T
 
 #### Major Faction Involvement
 
-**[[02_Worldbuilding/People/Vex Shadowthorn]]'s Syndicate**
+**[[Vex Shadowthorn]]'s Syndicate**
 - **Resources**: Unlimited funding, extensive spy network, magical assassins
 - **Method**: Aggressive acquisition through theft, coercion, and elimination of rivals
 - **Advantage**: No moral constraints, well-organized
@@ -317,7 +317,7 @@ One party member discovers they've inherited [[02_Worldbuilding/People/Captain T
 - **Weakness**: Inflexible thinking, potential for martyrdom
 - **Key Agent**: **High Crusader Matthias** (CR 10 Cleric/Paladin)
 
-**[[02_Worldbuilding/People/Prince Caspian Duskwater]]'s Aquabyssos Expedition**
+**[[Prince Caspian Duskwater]]'s Aquabyssos Expedition**
 - **Resources**: Naval forces, deep-sea magic, political alliances
 - **Method**: Archaeological exploration, underwater investigation, diplomatic marriage
 - **Advantage**: Access to unique locations, powerful magic
@@ -367,7 +367,7 @@ One party member discovers they've inherited [[02_Worldbuilding/People/Captain T
 ### Path B: Ancient Research Route
 
 #### The Scholarly Investigation
-**Primary Locations**: [[02_Worldbuilding/Places/Crystalhaven]], The Wandering Library, Abandoned Temples
+**Primary Locations**: [[Crystalhaven]], The Wandering Library, Abandoned Temples
 
 **Crystalhaven Archives**
 - **[[Keeper Elara Moonwhisper]]**: Provides access to restricted sections
@@ -386,7 +386,7 @@ One party member discovers they've inherited [[02_Worldbuilding/People/Captain T
 - **Warning**: "The Heart cannot be taken—only given freely"
 
 **Abandoned Temple Complex**
-**Location**: Hidden in the [[02_Worldbuilding/Places/The Verdant Reach]]
+**Location**: Hidden in the [[The Verdant Reach]]
 **Challenges**: 
 - **Guardian Constructs**: 3 **Stone Guardians** (CR 5 each)
 - **Ancient Traps**: Dexterity saves (DC 16) against crushing walls
@@ -434,11 +434,11 @@ One party member discovers they've inherited [[02_Worldbuilding/People/Captain T
 
 ### Path Integration: Discovering Sylvanheart
 
-All investigation paths ultimately point to **Sylvanheart**, a hidden sanctuary created by **[[02_Worldbuilding/People/The Crimson Sage]]** to protect Aria Lumengarde.
+All investigation paths ultimately point to **Sylvanheart**, a hidden sanctuary created by **[[The Crimson Sage]]** to protect Aria Lumengarde.
 
 #### Finding the Sanctuary
 **Requirements**: At least two different investigation paths completed
-**Location**: Magically hidden grove within [[02_Worldbuilding/Places/The Verdant Reach]]
+**Location**: Magically hidden grove within [[The Verdant Reach]]
 **Access Method**: 
 - **Crystal Compass**: Points directly to the sanctuary
 - **Oracle's Vision**: Provides exact mental map
@@ -542,7 +542,7 @@ All investigation paths ultimately point to **Sylvanheart**, a hidden sanctuary 
 - Leads to various locations based on need
 
 #### The Crimson Sage's Revelation
-**[[02_Worldbuilding/People/The Crimson Sage]]** appears to explain the situation:
+**[[The Crimson Sage]]** appears to explain the situation:
 
 *"You have found what countless others sought through force and ambition. The Heart of Aetheron beats within this innocent child, not as a curse or burden, but as a blessing freely given. She is my hope for redemption, the chance to heal what was broken when the Crown shattered."*
 
@@ -867,7 +867,7 @@ Each path requires different approaches:
 ## Connected Quests and Campaign Integration
 
 ### Prerequisite Adventures
-- **[[02_Worldbuilding/Quests/Quest - The Plague of Crystals]]**: Establishes crystal corruption threat
+- **[[Quest - The Plague of Crystals]]**: Establishes crystal corruption threat
 - **[[Quest - Divine Intervention]]**: Introduces the Crimson Sage's role
 - **[[Quest - The Lost Expedition]]**: Sets up Blackwater's mystery
 - **Any Shard-related quest**: Provides context for Shard network

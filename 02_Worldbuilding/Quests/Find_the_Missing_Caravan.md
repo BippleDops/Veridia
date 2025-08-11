@@ -1,6 +1,6 @@
 ---
 tags: [quest]
-quest_giver: "[[02_Worldbuilding/People/Gareth_Ironforge]]"
+quest_giver: "[[Gareth_Ironforge]]"
 status: "complete"
 priority: "high"
 quest_start: 2025-08-01
@@ -10,11 +10,11 @@ reward: "500gp + Masterwork weapon"
 location: "[[Tradeway Road]]"
 quest_image: "04_Resources/Assets/quests/missing-caravan.png"
 related_npcs:
-  - "[[02_Worldbuilding/People/Gareth_Ironforge]]"
+  - "[[Gareth_Ironforge]]"
   - "[[Caravan Master Dolrim]]"
   - "[[Bandit Leader Scarface]]"
 related_locations:
-  - "[[02_Worldbuilding/Places/Market_District]]"
+  - "[[Market_District]]"
   - "[[Tradeway Road]]"
   - "[[Ambush Point]]"
 prerequisite_quests: []
@@ -42,8 +42,8 @@ obsidianUIMode: preview
 Gareth Ironforge's monthly shipment of rare star-iron ore has gone missing along the Tradeway Road. The caravan was due three days ago, and he fears the worst. Without this ore, he cannot complete the town guard's weapon order.
 
 ## Quest Giver
-**NPC:** [[02_Worldbuilding/People/Gareth_Ironforge]]
-**Location:** [[02_Worldbuilding/Places/Market_District]] - Ironforge Smithy
+**NPC:** [[Gareth_Ironforge]]
+**Location:** [[Market_District]] - Ironforge Smithy
 **Motivation:** Needs the ore for important commissions and maintaining reputation
 
 ## Objectives
@@ -63,11 +63,11 @@ None - This is an introductory quest
 
 ### Secondary
 - [[Bandit Camp]] - Hidden in the forest
-- [[02_Worldbuilding/Places/Market_District]] - Quest start/end point
+- [[Market_District]] - Quest start/end point
 
 ## NPCs Involved
 ### Allies
-- [[02_Worldbuilding/People/Gareth_Ironforge]] - Quest giver
+- [[Gareth_Ironforge]] - Quest giver
 - [[Caravan Master Dolrim]] - Missing, possibly captured
 
 ### Enemies

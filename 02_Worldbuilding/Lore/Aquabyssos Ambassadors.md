@@ -4,14 +4,14 @@ status: "completed"
 world: "Both Aethermoor and Aquabyssos"
 type: "Diplomatic Corps"
 danger_level: 4
-headquarters: "[[02_Worldbuilding/Places/The Embassy Quarter]]"
-parent_organization: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
-leader: "[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]"
+headquarters: "[[The Embassy Quarter]]"
+parent_organization: "[[Parliament of Echoes]]"
+leader: "[[Ambassador Korvin Blacktide]]"
 specialties: ["Inter-realm Diplomacy", "Cultural Translation", "Trade Negotiation", "Crisis Management"]
 founded: "After the Great Drowning"
 created: 2025-08-09
 updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Places/Port Meridian]]", "[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]", "[[02_Worldbuilding/Groups/Surface Syndicate]]"]
+related_entities: ["[[Port Meridian]]", "[[Aquabyssos-Aethermoor Treaties]]", "[[Surface Syndicate]]"]
 ---
 
 # Aquabyssos Ambassadors
@@ -19,9 +19,9 @@ related_entities: ["[[02_Worldbuilding/Places/Port Meridian]]", "[[02_Worldbuild
 
 ## Overview
 
-The Aquabyssos Ambassadors represent one of the most challenging diplomatic corps in either realm, tasked with maintaining relations between the underwater civilization of [[Aquabyssos]] and the surface world of [[02_Worldbuilding/Places/Aethermoor]]. These skilled diplomats must navigate not only political complexities but also the literal challenges of operating in two drastically different environments.
+The Aquabyssos Ambassadors represent one of the most challenging diplomatic corps in either realm, tasked with maintaining relations between the underwater civilization of [[Aquabyssos]] and the surface world of [[Aethermoor]]. These skilled diplomats must navigate not only political complexities but also the literal challenges of operating in two drastically different environments.
 
-Led by the experienced [[02_Worldbuilding/People/Ambassador Korvin Blacktide]], the Ambassador Corps serves as the primary interface between [[02_Worldbuilding/Places/Parliament of Echoes]] and surface governments. Their work ranges from negotiating trade agreements to preventing wars, all while managing the deep cultural misunderstandings that arise between civilizations separated by [[02_Worldbuilding/Lore/The Great Drowning]].
+Led by the experienced [[Ambassador Korvin Blacktide]], the Ambassador Corps serves as the primary interface between [[Parliament of Echoes]] and surface governments. Their work ranges from negotiating trade agreements to preventing wars, all while managing the deep cultural misunderstandings that arise between civilizations separated by [[The Great Drowning]].
 
 ## Organizational Structure
 
@@ -78,7 +78,7 @@ Operating between underwater and surface environments creates unique obstacles:
 
 ### The Deep Roads Agreement
 *Infrastructure cooperation with multiple surface cities*
-- Connects [[02_Worldbuilding/Lore/Ancient Siege Tunnels]] to underwater passages
+- Connects [[Ancient Siege Tunnels]] to underwater passages
 - Enables rapid communication between realms
 - Establishes emergency evacuation protocols
 - Creates joint military response capabilities
@@ -108,16 +108,16 @@ Characters might engage with ambassadors through:
 ## Notable Current Assignments
 
 ### The Missing Merchant Crisis
-Several [[02_Worldbuilding/Places/Port Meridian]] merchants vanished while conducting underwater trade, straining relations and requiring delicate investigation without accusations.
+Several [[Port Meridian]] merchants vanished while conducting underwater trade, straining relations and requiring delicate investigation without accusations.
 
 ### The Pressure Technology Dispute
-[[02_Worldbuilding/Places/Ironhold]] demands access to Aquabyssos pressure-adaptation technology, while underwater manufacturers fear military applications.
+[[Ironhold]] demands access to Aquabyssos pressure-adaptation technology, while underwater manufacturers fear military applications.
 
 ### The Memory Pearl Incident
 Illegal memory extraction operations targeting surface visitors have created diplomatic tensions requiring careful handling to maintain trust.
 
 ### The Border Demarcation Project
-Establishing clear boundaries between surface and underwater territorial claims in contested areas near [[02_Worldbuilding/Places/Whisper Island]].
+Establishing clear boundaries between surface and underwater territorial claims in contested areas near [[Whisper Island]].
 
 ## Embassy Facilities & Services
 
@@ -150,7 +150,7 @@ Ambassadors serve dual roles as diplomats and intelligence assets:
 
 ## Quest Hooks
 
-1. **The Vanishing Ambassador**: [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] has disappeared during crucial trade negotiations
+1. **The Vanishing Ambassador**: [[Ambassador Korvin Blacktide]] has disappeared during crucial trade negotiations
 2. **The Diplomatic Conspiracy**: Evidence suggests surface agents are sabotaging peace talks
 3. **The Cultural Exchange**: Characters must escort important cultural artifacts between realms
 4. **The Treaty Crisis**: A diplomatic incident threatens to restart hostilities between worlds

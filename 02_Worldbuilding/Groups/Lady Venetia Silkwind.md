@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *Weavers of Dreams, The Golden Thread, Masters of Luxury Commerce*
 
 ## Organization Overview and Purpose
-The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[02_Worldbuilding/Places/Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[02_Worldbuilding/Places/Aquabyssos]].
+The Silk Trade Guild represents the pinnacle of luxury textile commerce in [[Aethermoor]], controlling the production, distribution, and sale of the finest silks, enchanted fabrics, and magical textiles throughout the realm. Under the leadership of Lady Venetia Silkwind, the Guild has evolved from a traditional artisan cooperative into a sophisticated commercial empire that influences fashion, politics, and economic policy across both Aethermoor and [[Aquabyssos]].
 
 The Guild operates through a complex network of master weavers, silk farmers, magical enchanters, merchant traders, and diplomatic representatives who ensure that their products reach the highest echelons of society in both realms. Members of the Guild are renowned not only for their technical expertise in textile production but also for their business acumen, cultural sophistication, and ability to navigate the intricate social hierarchies that determine luxury market success.
 

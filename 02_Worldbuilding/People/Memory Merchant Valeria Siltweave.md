@@ -81,16 +81,16 @@ Valeria Siltweave represents the reformed wing of the [[Memory Farmers]] movemen
 ## Relationships & Professional Network
 
 ### Reform Movement Allies
-- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]** - Complex relationship with keeper of lost memories
+- **[[Archivist Mnemonic the Forgotten]]** - Complex relationship with keeper of lost memories
 - **Reform-minded Memory Farmers** - Other ethical practitioners working to change the industry
-- **[[02_Worldbuilding/Groups/Free Current]]** - Resistance movement that values ethical memory practices
+- **[[Free Current]]** - Resistance movement that values ethical memory practices
 - **Medical Professionals** - Healers who refer trauma patients for memory therapy
 - **Legal Advocates** - Lawyers working on memory rights and donor protection
 
 ### Industry Relations
-- **Traditional [[02_Worldbuilding/Groups/Memory Farmers]]** - Former colleagues who view her as threat to profits
+- **Traditional [[Memory Farmers]]** - Former colleagues who view her as threat to profits
 - **Memory Collectors** - Unethical harvesters who compete with her business
-- **[[02_Worldbuilding/People/Memory Harvester Kythara]]** - Possible former mentor turned rival
+- **[[Memory Harvester Kythara]]** - Possible former mentor turned rival
 - **Memory Regulation Officials** - Government agents monitoring the memory trade
 - **Underground Memory Markets** - Black market operators she actively opposes
 
@@ -102,14 +102,14 @@ Valeria Siltweave represents the reformed wing of the [[Memory Farmers]] movemen
 - **Elderly Donors** - Seniors sharing wisdom and life experience
 
 ### Political Connections
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Politicians interested in memory trade regulation
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]** - Mutual respect for ethical business practices
+- **[[Parliament of Echoes]]** - Politicians interested in memory trade regulation
+- **[[Harbor Master Luna Freedrift]]** - Mutual respect for ethical business practices
 - **Community Leaders** - Local officials who value her contribution to society
 - **Reform Advocates** - Activists working for memory rights and protection
 
 ### Military & Security Alliances
-- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military protection for ethical businesses and civilian rights
-- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Provides security intelligence about memory-related crimes
+- **[[Commander Typhoon Blackheart]]**: Military protection for ethical businesses and civilian rights
+- **[[The Depth Wardens]]**: Provides security intelligence about memory-related crimes
 - **Civilian Protection Services**: Coordinates with military for citizen safety during memory trade disputes
 - **Legal Enforcement**: Works with military investigators on memory trafficking cases
 
@@ -426,7 +426,7 @@ Full-scale conflict erupts between ethical and exploitative memory factions. Val
 - May receive prophetic visions during deep memory work
 
 ### Divine Exploration Network
-**[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Divine memory research partnership
+**[[Captain Nautilus the Deep Wanderer]]**: Divine memory research partnership
 - Receives memories of Deep Mother encounters from his exploration network
 - Provides therapeutic support for individuals overwhelmed by cosmic consciousness experiences
 - Collaborates on preserving cultural memories related to divine oceanic encounters

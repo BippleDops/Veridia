@@ -4,10 +4,10 @@ status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Military Commander"
-affiliation: "[[02_Worldbuilding/Groups/Purist Coalition]] - Military Wing"
+affiliation: "[[Purist Coalition]] - Military Wing"
 age: "43"
 race: "Human"
-location: "[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base"
+location: "[[The Verdant Reach]] - Coalition Military Base"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *The Steel Fist of Purity, Former Crystal Warden Turned Crusader*
 
 ## Overview
-Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Groups/Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
+Commander Thrace Ironwood leads the military wing of the [[Purist Coalition]], bringing tactical expertise and bitter personal experience to their war against crystal corruption. A former Crystal Warden who witnessed his entire unit corrupted during a routine patrol, he represents the Coalition's more militant approach while struggling with the trauma that drove him to extremism. His strategic brilliance and uncompromising dedication make him both the Coalition's greatest asset and their most dangerous liability.
 
 ## Description
 - **Appearance**: Scarred, weathered man with steel-gray hair and haunted blue eyes
@@ -43,7 +43,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 ### The Conversion
 - Resigned from Crystal Wardens immediately after incident
 - Spent months in isolation, consumed by guilt and rage
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] found him and offered purpose
+- [[High Inquisitor Maltheos]] found him and offered purpose
 - Joined Coalition believing only total crystal destruction could prevent recurrence
 - Rose quickly through Coalition ranks due to military expertise
 
@@ -79,7 +79,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 
 ## Relationships
 ### Coalition Leadership
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Absolute loyalty to mentor who saved him
+- **[[High Inquisitor Maltheos]]**: Absolute loyalty to mentor who saved him
 - **[[Brother Matthias the Amber Bearer]]**: Respects his supernatural resilience
 - **[[Brother Marcus Steelbane]]**: Growing concern about his wavering commitment
 - **Coalition Moderates**: Tensions over increasingly violent methods
@@ -87,9 +87,9 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 
 ### External Relations
 - **Former Crystal Warden Colleagues**: Complex mix of guilt, anger, and residual affection
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Views her as corrupted beyond redemption
+- **[[Queen Seraphina Lumengarde]]**: Views her as corrupted beyond redemption
 - **Crystal Industry Leaders**: Prime targets for assassination or capture
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Strategic enemy controlling crystal trade
+- **[[Silverscale Consortium]]**: Strategic enemy controlling crystal trade
 - **Coalition Sympathizers**: Network of supporters providing intelligence and resources
 
 ## Personal Struggles
@@ -165,7 +165,7 @@ Commander Thrace Ironwood leads the military wing of the [[02_Worldbuilding/Grou
 - Ultimately becomes the tyrannical leader he once opposed
 
 ## Connected Elements
-- Central military figure for [[02_Worldbuilding/Groups/Purist Coalition]] storylines
+- Central military figure for [[Purist Coalition]] storylines
 - Links Crystal Warden organization to Coalition through personal history
 - Represents themes of trauma, revenge, and political extremism
 - Key figure in Coalition's evolution from protesters to paramilitary force

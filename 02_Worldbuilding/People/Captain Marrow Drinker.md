@@ -11,8 +11,8 @@ race: Vampire (formerly Human)
 class: Fighter/Warlock
 level: 14
 alignment: Chaotic Evil
-location: [[02_Worldbuilding/Places/The Shadowmere]]
-faction: [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
+location: [[The Shadowmere]]
+faction: [[The Shadow Conspiracy]]
 status: Active
 created: 2025-08-09
 image: "04_Resources/Assets/NPCs/captain_marrow_drinker.jpg"
@@ -26,7 +26,7 @@ obsidianUIMode: preview
 *The Crimson Terror, Lord of the Shadow-Touched Waters*
 
 ## Overview
-Captain Marrow Drinker is a vampire pirate who rules the shadow-touched waters where reality bleeds into darker realms. Once a noble sea captain, he was transformed during an expedition into the [[02_Worldbuilding/Places/The Shadowmere]] thirty years ago. Now he commands the *Bloodtide Reaper*, a ship that exists partially in the shadow realm, allowing him to strike from the darkness and vanish before retaliation. His crew of undead and shadow-touched beings terrorizes shipping lanes while serving the larger agenda of [[02_Worldbuilding/Groups/The Shadow Conspiracy]].
+Captain Marrow Drinker is a vampire pirate who rules the shadow-touched waters where reality bleeds into darker realms. Once a noble sea captain, he was transformed during an expedition into the [[The Shadowmere]] thirty years ago. Now he commands the *Bloodtide Reaper*, a ship that exists partially in the shadow realm, allowing him to strike from the darkness and vanish before retaliation. His crew of undead and shadow-touched beings terrorizes shipping lanes while serving the larger agenda of [[The Shadow Conspiracy]].
 
 ## Appearance
 - **Age**: Appears 35 (actually 67, transformed at 37)
@@ -48,7 +48,7 @@ Captain Marrow Drinker is a vampire pirate who rules the shadow-touched waters w
 - Born to minor nobility in the surface world, joined the navy at 16
 - Rose through ranks to captain his own ship, the *Meridian's Pride*
 - Led an expedition to investigate strange disappearances in the shadow-touched waters
-- Ship was pulled into the [[02_Worldbuilding/Places/The Shadowmere]] during a supernatural storm
+- Ship was pulled into the [[The Shadowmere]] during a supernatural storm
 - Crew died one by one; he made a pact with a shadow entity to save them
 - Transformation turned him into a vampire and his crew into various undead
 - Spent decades building a reputation as the most feared pirate in shadow waters
@@ -141,14 +141,14 @@ Captain Marrow Drinker is a vampire pirate who rules the shadow-touched waters w
 ## Relationships
 
 ### Major Factions
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Key lieutenant, carries out maritime operations
-- **[[02_Worldbuilding/Groups/The Crown]]**: Sworn enemy, frequently attacks imperial shipping
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]**: Rival, competes for control of shadow routes
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Superior and patron, provides shadow magic support
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**: Primary nemesis, she's hunting him personally
+- **[[The Shadow Conspiracy]]**: Key lieutenant, carries out maritime operations
+- **[[The Crown]]**: Sworn enemy, frequently attacks imperial shipping
+- **[[Independent Smugglers]]**: Rival, competes for control of shadow routes
+- **[[Shadow Duchess Nyx]]**: Superior and patron, provides shadow magic support
+- **[[Admiral Cassandra Stormwind]]**: Primary nemesis, she's hunting him personally
 
 ### Personal Connections
-- **[[02_Worldbuilding/People/Captain Scale-Walker]]**: Rival smuggler, they compete for the same routes but occasionally cooperate
+- **[[Captain Scale-Walker]]**: Rival smuggler, they compete for the same routes but occasionally cooperate
 - **Lord Captain Reginald Thornfield**: Former friend and fellow captain, now his most wanted target
 - **The Shadow Entity**: The dark being that transformed him, still influences his actions
 - **Captain Miranda Goldwater**: Former love interest who tried to save him, now hunts him
@@ -164,14 +164,14 @@ Captain Marrow Drinker is a vampire pirate who rules the shadow-touched waters w
 - Ships carrying religious artifacts or holy items
 
 ### Territory & Hunting Grounds
-- **[[02_Worldbuilding/Places/The Shadowmere]]**: Primary base of operations
+- **[[The Shadowmere]]**: Primary base of operations
 - **The Twilight Straits**: Shipping lane between major ports
 - **Phantom's Triangle**: Area where ships frequently disappear
 - **The Bleeding Currents**: Waters touched by shadow magic
 - **Corsair's Graveyard**: Where he stores captured ships
 
 ### Hidden Lairs
-- Floating fortress in the heart of [[02_Worldbuilding/Places/The Shadowmere]]
+- Floating fortress in the heart of [[The Shadowmere]]
 - Abandoned lighthouse converted into a vampire lair
 - Underwater cavern system accessible only during low tide
 - Ruined temple on a cursed island
@@ -184,7 +184,7 @@ Marrow Drinker has begun systematically hunting down the descendants of his form
 
 ### The Shadow Fleet
 **Level**: 12-16  
-The vampire captain is assembling a fleet of shadow-touched ships for a major assault on [[02_Worldbuilding/Places/New Thalassopolis]]. The party must infiltrate his operations, gather intelligence, and find a way to stop the attack before the city falls.
+The vampire captain is assembling a fleet of shadow-touched ships for a major assault on [[New Thalassopolis]]. The party must infiltrate his operations, gather intelligence, and find a way to stop the attack before the city falls.
 
 ### The Cursed Compass
 **Level**: 8-12  
@@ -196,26 +196,26 @@ A powerful cleric claims to have found a way to break Marrow Drinker's vampiric 
 
 ### The Admiral's Gambit
 **Level**: 11-15  
-[[02_Worldbuilding/People/Admiral Cassandra Stormwind]] has devised a plan to finally capture Marrow Drinker, but she needs the party's help to execute it. The plan involves using themselves as bait while navigating the political complexities of involving vampire-hunting specialists from the surface world.
+[[Admiral Cassandra Stormwind]] has devised a plan to finally capture Marrow Drinker, but she needs the party's help to execute it. The plan involves using themselves as bait while navigating the political complexities of involving vampire-hunting specialists from the surface world.
 
 ## Secrets & Hidden Knowledge
 
 ### What He Knows
 - The true location and nature of several shadow realm entrances
-- Identities of high-ranking officials secretly working with [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
+- Identities of high-ranking officials secretly working with [[The Shadow Conspiracy]]
 - The location of the *Meridian's Pride*'s lost treasure
 - Weaknesses of various undead creatures he's encountered
 - Secret routes through the shadow-touched waters
 
 ### What He Suspects
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition disturbed something that affects both realms
-- There's a connection between the shadow corruption and the crystal corruption in [[02_Worldbuilding/Places/Aethermoor]]
+- [[Captain Thaddeus Blackwater]]'s expedition disturbed something that affects both realms
+- There's a connection between the shadow corruption and the crystal corruption in [[Aethermoor]]
 - Someone in the imperial navy is feeding information to shadow agents
 - The shadow entity that transformed him has larger plans for the mortal realm
 
 ### The Transformation Truth
 > [!warning] DM Secret
-> Marrow Drinker wasn't transformed by accident. He was deliberately targeted by [[02_Worldbuilding/Groups/The Shadow Conspiracy]] because of his tactical brilliance and knowledge of naval operations. The "expedition" was a setup, and some of his crew were shadow agents from the beginning.
+> Marrow Drinker wasn't transformed by accident. He was deliberately targeted by [[The Shadow Conspiracy]] because of his tactical brilliance and knowledge of naval operations. The "expedition" was a setup, and some of his crew were shadow agents from the beginning.
 
 ## Roleplaying Notes
 
@@ -236,27 +236,27 @@ A powerful cleric claims to have found a way to break Marrow Drinker's vampiric 
 ### Motivations
 - Revenge against those who "abandoned" him to his fate
 - Prove that undeath has made him stronger, not weaker
-- Serve [[02_Worldbuilding/Groups/The Shadow Conspiracy]] to gain more power
+- Serve [[The Shadow Conspiracy]] to gain more power
 - Find a way to bring his former love to his side, willingly or not
 - Ultimately conquer enough territory to be recognized as a legitimate power
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Captain Scale-Walker]] - Rival navigator
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Primary nemesis
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Shadow patron
-- [[02_Worldbuilding/People/Captain Blackwater]] - Potential ally or enemy
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Distant but significant enemy
+- [[Captain Scale-Walker]] - Rival navigator
+- [[Admiral Cassandra Stormwind]] - Primary nemesis
+- [[Shadow Duchess Nyx]] - Shadow patron
+- [[Captain Blackwater]] - Potential ally or enemy
+- [[Emperor Thalassius]] - Distant but significant enemy
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Shadowmere]] - Primary territory
-- [[02_Worldbuilding/Places/New Thalassopolis]] - Target for major operations
-- [[02_Worldbuilding/Places/The Harbor Depths]] - Competing territory with Scale-Walker
-- [[02_Worldbuilding/Places/The Whispering Depths]] - Source of shadow knowledge
-- [[02_Worldbuilding/Places/The Drowned Embassy]] - Diplomatic target
+- [[The Shadowmere]] - Primary territory
+- [[New Thalassopolis]] - Target for major operations
+- [[The Harbor Depths]] - Competing territory with Scale-Walker
+- [[The Whispering Depths]] - Source of shadow knowledge
+- [[The Drowned Embassy]] - Diplomatic target
 
 ## Related Quests
 - [[Quest - The Crimson Tide]] - Personal vendetta storyline
 - [[Quest - The Shadow Fleet]] - Major threat to civilization
-- [[02_Worldbuilding/Quests/Quest - The Crystal Black Market]] - Smuggling operations
+- [[Quest - The Crystal Black Market]] - Smuggling operations
 - [[Quest - Redemption's Price]] - Potential redemption arc
 - [[Quest - The Admiral's Gambit]] - Capture storyline

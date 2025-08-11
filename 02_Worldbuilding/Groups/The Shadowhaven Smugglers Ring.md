@@ -197,10 +197,10 @@ Net_Profit: "120,000 gold"
 
 ### Primary Enemies
 
-#### [[02_Worldbuilding/Groups/Merchants Guild]] - Economic War
+#### [[Merchants Guild]] - Economic War
 - **Conflict Type**: Economic competition and territorial disputes
 - **Flashpoints**: Smuggling undercuts Guild pricing, protection rackets target Guild members
-- **Recent Escalations**: Guild hired [[02_Worldbuilding/Groups/Investigators Anonymous]] to probe Ring activities
+- **Recent Escalations**: Guild hired [[Investigators Anonymous]] to probe Ring activities
 - **Future Predictions**: Open conflict likely within 6 months without intervention
 
 #### Captain Helena Stormwatch - Law Enforcement Vendetta
@@ -209,7 +209,7 @@ Net_Profit: "120,000 gold"
 - **Current Status**: Active investigation with growing evidence
 - **Threat Level**: High - could expose significant operations if successful
 
-#### [[02_Worldbuilding/Groups/Temple of Divine Order]] - Moral Opposition  
+#### [[Temple of Divine Order]] - Moral Opposition  
 - **Conflict Type**: Religious organization opposes vice and corruption
 - **Leader**: High Priestess Seraphina Lightbringer
 - **Activities**: Public sermons against corruption, supporting honest merchants
@@ -223,7 +223,7 @@ Net_Profit: "120,000 gold"
 - **Vulnerability**: If exposed, could bring down both Ring and Councillor
 - **Maintenance**: Monthly payments of 2,000 gold plus "special considerations"
 
-#### [[02_Worldbuilding/Groups/Dockworkers Union]] - Partial Infiltration
+#### [[Dockworkers Union]] - Partial Infiltration
 - **Relationship**: Several union leaders secretly work for Ring
 - **Benefits**: Information about cargo manifests, assistance moving contraband
 - **Limitations**: Not all workers are compromised, honest members remain
@@ -333,9 +333,9 @@ if (ringSessions.length > 0) {
 - **Councillor Marcus Greywind** - Secret Ally
 
 ### Connected Organizations
-- **[[02_Worldbuilding/Groups/Merchants Guild]]** - Primary Rival
-- **[[02_Worldbuilding/Groups/Bexley Port Authority]]** - Law Enforcement Opposition
-- **[[02_Worldbuilding/Groups/Dockworkers Union]]** - Partial Infiltration Target
+- **[[Merchants Guild]]** - Primary Rival
+- **[[Bexley Port Authority]]** - Law Enforcement Opposition
+- **[[Dockworkers Union]]** - Partial Infiltration Target
 
 ### Relevant Locations
 - **The Gilded Serpent Tavern** - Headquarters

@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Mystery
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Seven Shards Mystery

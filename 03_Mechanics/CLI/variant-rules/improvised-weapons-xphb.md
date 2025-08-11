@@ -30,4 +30,4 @@ If you throw the weapon, it has a normal range of 20 feet and a long range of 60
 
 If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon's rules. For example, the DM could treat a table leg as a [Club](/03_Mechanics/CLI/items/club-xphb.md).
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

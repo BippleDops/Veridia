@@ -6,7 +6,7 @@ race: "Human (Depth-adapted)"
 gender: "Male"
 age: 67
 faction: "Parliament of Echoes"
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]]"
+location: "[[Parliament of Echoes]]"
 first_appearance: "Session 1"
 status: "alive"
 danger_level: 3
@@ -25,8 +25,8 @@ obsidianUIMode: preview
 ### Quick Reference
 - **Name**: Senator Glaucus
 - **Role**: Senior Senator, Shadow Containment Committee Chair
-- **Faction**: [[02_Worldbuilding/Places/Parliament of Echoes]]
-- **Location**: [[02_Worldbuilding/Places/Parliament of Echoes]]
+- **Faction**: [[Parliament of Echoes]]
+- **Location**: [[Parliament of Echoes]]
 - **Status**: Alive (Shadow-compromised)
 - **Threat**: 3/10
 
@@ -74,15 +74,15 @@ An elderly statesman whose body shows decades of depth adaptation - slightly tra
 
 | Name | Relationship | Trust Level |
 |------|--------------|-------------|
-| [[02_Worldbuilding/People/Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
-| [[02_Worldbuilding/People/Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
+| [[Archon Meredith Saltweaver]] | Political ally, suspicious lately | 🟢🟢🟢⚪⚪ |
+| [[Captain Garrett Stormcutter]] | Former student, loyal supporter | 🟢🟢🟢🟢⚪ |
 | [[The Party]] | Useful investigators | 🟢🟢🟢⚪⚪ |
 
 ### 🔴 Enemies & Rivals
-- **Primary Rival**: [[02_Worldbuilding/People/Shadow Duchess Nyx]]
+- **Primary Rival**: [[Shadow Duchess Nyx]]
   - **Conflict**: She represents everything he fears about shadow independence
 - **Secondary Enemies**: 
-  - [[02_Worldbuilding/People/The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
+  - [[The Scattered Emperor]] - Blames Glaucus for not reuniting his fragments
 
 ### 🟡 Neutral/Complex
 - **Complicated**: [[His Own Shadow]]
@@ -255,20 +255,20 @@ Current Reputation: **Respected but Declining**
 ## 🔗 Connections
 
 ### Related NPCs
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Political ally (actually traitor)
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Primary opposition
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Hidden threat
+- [[Archon Meredith Saltweaver]] - Political ally (actually traitor)
+- [[Shadow Duchess Nyx]] - Primary opposition
+- [[The Scattered Emperor]] - Hidden threat
 - [[Senator Marius]] - Dissolved predecessor (cautionary tale)
 
 ### Associated Locations
-- Primary: [[02_Worldbuilding/Places/Parliament of Echoes]]
-- Secondary: [[02_Worldbuilding/Places/Senator's Private Chambers|Senator's Private Chambers]]
+- Primary: [[Parliament of Echoes]]
+- Secondary: [[Senator's Private Chambers|Senator's Private Chambers]]
 - Hidden: [[Shadow Binding Sanctum]]
 
 ### Connected Quests
-- Main: [[01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy]]
+- Main: [[The_Shadow_Parliament_Conspiracy]]
 - Side: [[Find the Shadow Cure]]
-- Personal: [[02_Worldbuilding/Lore/The Senator's Last Stand|The Senator's Last Stand]]
+- Personal: [[The Senator's Last Stand|The Senator's Last Stand]]
 
 ---
 **NPC Brain Active** | *Last Updated: Session 10*

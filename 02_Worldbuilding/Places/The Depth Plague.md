@@ -10,6 +10,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Disease Zone
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Depth Plague

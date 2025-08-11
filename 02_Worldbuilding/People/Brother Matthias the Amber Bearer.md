@@ -4,10 +4,10 @@ status: "complete"
 world: "Aethermoor"
 type: "npc"
 role: "Unknowing Shard Bearer"
-affiliation: "[[02_Worldbuilding/Groups/Purist Coalition]]"
+affiliation: "[[Purist Coalition]]"
 age: "45"
 race: "Human (Shard-bearer)"
-location: "[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Monastery"
+location: "[[The Verdant Reach]] - Coalition Monastery"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *Unwitting Guardian of the Amber Shard, The Righteous Crusader*
 
 ## Overview
-Brother Matthias is one of the most zealous and effective members of the [[02_Worldbuilding/Groups/Purist Coalition]], known for his unwavering faith and supernatural resilience in battle against crystal corruption. What neither he nor his leader [[02_Worldbuilding/People/High Inquisitor Maltheos]] realizes is that his legendary endurance and unbreakable will come from the [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] embedded in his chest—a cruel irony that would destroy his worldview if discovered.
+Brother Matthias is one of the most zealous and effective members of the [[Purist Coalition]], known for his unwavering faith and supernatural resilience in battle against crystal corruption. What neither he nor his leader [[High Inquisitor Maltheos]] realizes is that his legendary endurance and unbreakable will come from the [[The Seven Shards|Amber Shard]] embedded in his chest—a cruel irony that would destroy his worldview if discovered.
 
 ## Description
 - **Appearance**: Stocky, muscular man with graying brown hair and intense brown eyes
@@ -95,23 +95,23 @@ Brother Matthias is one of the most zealous and effective members of the [[02_Wo
 
 ### The Investigation
 - **[[Scholar Vivienne the Chronicler]]**: Suspects his true nature
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May recognize Shard resonance
+- **[[The Crimson Sage]]**: May recognize Shard resonance
 - **[[Keeper of the Shattered Crown, Marcus Crystalvein]]**: Senses kinship
 - **Coalition Doctors**: Notice his impossible healing rate
 - **Enemy Survivors**: Report his "unnatural" resilience
 
 ## Relationships
 ### Coalition Bonds
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Beloved mentor and father figure
+- **[[High Inquisitor Maltheos]]**: Beloved mentor and father figure
 - **[[Brother Marcus Steelbane]]**: Fellow Coalition member, growing suspicious
 - **Pure Strike Team**: Utterly devoted followers
 - **Coalition Rank and File**: View him as living saint
 - **Coalition Enemies**: Fear his "divine protection"
 
 ### External Relations
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Personal enemy (has tried to kill her)
+- **[[Queen Seraphina Lumengarde]]**: Personal enemy (has tried to kill her)
 - **Crystal Researchers**: Prime target for assassination
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Would pay fortune for his "secret"
+- **[[Silverscale Consortium]]**: Would pay fortune for his "secret"
 - **Other Shard Bearers**: Unconscious attraction to them
 
 ## Adventure Hooks
@@ -152,8 +152,8 @@ Brother Matthias is one of the most zealous and effective members of the [[02_Wo
 - Becomes bridge between Coalition and Shard bearers
 
 ## Connected Elements
-- Central to [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] storylines
-- Key figure in [[02_Worldbuilding/Groups/Purist Coalition]] internal conflicts
+- Central to [[The Seven Shards|Amber Shard]] storylines
+- Key figure in [[Purist Coalition]] internal conflicts
 - Represents themes of faith, deception, and moral complexity
 - Links Shard mythology to religious extremism storylines
 
@@ -186,7 +186,7 @@ Brother Matthias is one of the most zealous and effective members of the [[02_Wo
 
 **Legendary Resistance (3/Day).** If Matthias fails a saving throw, he can choose to succeed instead.
 
-**Amber Shard Power (Unknowing).** The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] embedded in Matthias's chest grants him divine-level abilities that he believes come from righteous faith. The shard glows visibly through his armor when using its powers.
+**Amber Shard Power (Unknowing).** The [[The Seven Shards|Amber Shard]] embedded in Matthias's chest grants him divine-level abilities that he believes come from righteous faith. The shard glows visibly through his armor when using its powers.
 
 **Unbreakable Faith.** Matthias cannot be turned from his cause by any means - magical, divine, or mundane. His conviction is literally reinforced by Shard power.
 
@@ -196,7 +196,7 @@ Brother Matthias is one of the most zealous and effective members of the [[02_Wo
 
 **Shard Resonance (Unconscious).** Matthias is subconsciously drawn toward other Shards and their bearers, though he interprets this as "divine guidance."
 
-**Inspiring Presence.** All allies within 60 feet of Matthias gain advantage on saving throws against fear and charm effects. [[02_Worldbuilding/Groups/Purist Coalition]] members also gain +2 to attack rolls.
+**Inspiring Presence.** All allies within 60 feet of Matthias gain advantage on saving throws against fear and charm effects. [[Purist Coalition]] members also gain +2 to attack rolls.
 
 **Truth Compulsion.** Creatures within 30 feet of Matthias have disadvantage on Deception checks and feel compelled to speak honestly.
 
@@ -224,7 +224,7 @@ Brother Matthias is one of the most zealous and effective members of the [[02_Wo
 
 **Purifying Touch (Recharge 5-6).** Matthias touches a creature, object, or area within 5 feet. Instantly removes all curses, diseases, poisons, and magical corruption. Against corrupted creatures, this deals 36 (8d8) radiant damage (Constitution save DC 19 for half).
 
-**Coalition Rally (1/Day).** Matthias shouts an inspiring battle cry. All [[02_Worldbuilding/Groups/Purist Coalition]] allies within 120 feet gain 25 temporary hit points, advantage on their next attack roll, and can immediately move up to their speed without provoking opportunity attacks.
+**Coalition Rally (1/Day).** Matthias shouts an inspiring battle cry. All [[Purist Coalition]] allies within 120 feet gain 25 temporary hit points, advantage on their next attack roll, and can immediately move up to their speed without provoking opportunity attacks.
 
 ### Legendary Actions (3 per turn)
 Matthias can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn.
@@ -240,11 +240,11 @@ Matthias can take 3 legendary actions, choosing from the options below. Only one
 **Amber Shield (Costs 3 Actions).** Matthias creates a barrier of golden light. All allies within 60 feet gain resistance to all damage until the start of his next turn.
 
 ### Lair Actions
-When encountered at a [[02_Worldbuilding/Groups/Purist Coalition]] stronghold or during a major purification operation, Matthias can take lair actions on initiative count 20:
+When encountered at a [[Purist Coalition]] stronghold or during a major purification operation, Matthias can take lair actions on initiative count 20:
 
 **Consecrated Ground.** The area becomes consecrated as the *hallow* spell for 24 hours, but only affects crystal corruption and shadow magic.
 
-**Rally the Faithful.** All [[02_Worldbuilding/Groups/Purist Coalition]] members in the area gain a +4 bonus to attack and damage rolls until initiative count 20 of the next round.
+**Rally the Faithful.** All [[Purist Coalition]] members in the area gain a +4 bonus to attack and damage rolls until initiative count 20 of the next round.
 
 **Purification Wave.** A wave of golden energy expands from Matthias. All creatures within 120 feet must make a DC 17 Constitution saving throw. Corrupted creatures take 18 (4d8) radiant damage, while allies regain 18 hit points.
 
@@ -253,7 +253,7 @@ When encountered at a [[02_Worldbuilding/Groups/Purist Coalition]] stronghold or
 ## The Amber Shard's True Power
 
 ### Hidden Divine Abilities
-The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] grants Matthias powers he doesn't understand:
+The [[The Seven Shards|Amber Shard]] grants Matthias powers he doesn't understand:
 
 #### Earthen Authority
 - **Stone's Endurance**: Immunity to exhaustion, disease, and aging
@@ -282,32 +282,32 @@ The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] grants Matthias power
 - **[[The Emerald Sage Willowbark]]**: Feels "kinship" with her connection to earth and growth
 - **[[Gareth Goldenheart, The Chosen Vessel]]**: Protective instinct toward the divine child
 - **[[The Azure Prophet Nerissa]]**: Her prophecies resonate with his "divine dreams"
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Senses corruption in the Crystal Shard but doesn't understand why
+- **[[Queen Seraphina Lumengarde]]**: Senses corruption in the Crystal Shard but doesn't understand why
 - **[[The Shadow Singer Naia]]**: Her healing work appeals to his desire to help the suffering
 
 ### Coalition & Military Connections
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Beloved mentor who shaped his anti-crystal crusade
-- **[[02_Worldbuilding/People/Commander Thrace Ironwood]]**: Close ally who provides military strategy
-- **[[02_Worldbuilding/Groups/The Purest Faith]]**: Fundamentalist religious sect within Coalition
-- **[[02_Worldbuilding/Places/The Sacred Armory]]**: Blessed weapons cache he helps maintain
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Living symbol of divine favor and righteousness
+- **[[High Inquisitor Maltheos]]**: Beloved mentor who shaped his anti-crystal crusade
+- **[[Commander Thrace Ironwood]]**: Close ally who provides military strategy
+- **[[The Purest Faith]]**: Fundamentalist religious sect within Coalition
+- **[[The Sacred Armory]]**: Blessed weapons cache he helps maintain
+- **[[Purist Coalition]]**: Living symbol of divine favor and righteousness
 
 ### Cross-Campaign Connections
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Would be fascinated by his unknowing Shard bearer status
-- **[[02_Worldbuilding/Lore/Convergence Point]]**: His Shard contributes to dimensional weakening
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: Consider him a key piece in cosmic chess game
-- **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: His discovery could trigger Coalition fracture
-- **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Would love to corrupt a Shard bearer
-- **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: His presence calms chaotic divine energies
-- **[[02_Worldbuilding/Items/The Resonance Forge Hammer]]**: Would resonate powerfully with Amber Shard
-- **[[02_Worldbuilding/Quests/Quest - The Memory Bridge]]**: Could provide stable foundation for divine connections
-- **[[02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance]]**: Central figure in power dynamic exploration
-- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Might have records of his true nature
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Would recognize him as fellow Shard bearer immediately
+- **[[The Convergence Seekers]]**: Would be fascinated by his unknowing Shard bearer status
+- **[[Convergence Point]]**: His Shard contributes to dimensional weakening
+- **[[The Void Watchers]]**: Consider him a key piece in cosmic chess game
+- **[[Quest - The Convergence Crisis]]**: His discovery could trigger Coalition fracture
+- **[[The Shadow-Crystal Synthesis]]**: Would love to corrupt a Shard bearer
+- **[[The Memory Storm Fields]]**: His presence calms chaotic divine energies
+- **[[The Resonance Forge Hammer]]**: Would resonate powerfully with Amber Shard
+- **[[Quest - The Memory Bridge]]**: Could provide stable foundation for divine connections
+- **[[Quest - The Shard-Shadow Resonance]]**: Central figure in power dynamic exploration
+- **[[Archivist Mnemonic the Forgotten]]**: Might have records of his true nature
+- **[[The Crimson Sage]]**: Would recognize him as fellow Shard bearer immediately
 
 ### Enemies & Opposition
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Primary target for Coalition operations
-- **[[02_Worldbuilding/People/Lady Jade Clawgrip]]**: Represents everything he opposes about crystal commerce
+- **[[Silverscale Consortium]]**: Primary target for Coalition operations
+- **[[Lady Jade Clawgrip]]**: Represents everything he opposes about crystal commerce
 - **[[Crystal Corruption Cultists]]**: Seek to corrupt the "pure" Shard bearer
 - **[[Scholar Vivienne the Chronicler]]**: Investigates his supernatural abilities
 - **[[The Order of the Shattered Crown]]**: Would kill to claim his Shard
@@ -337,7 +337,7 @@ The [[02_Worldbuilding/Lore/The Seven Shards|Amber Shard]] grants Matthias power
 ### Current Divine "Guidance"
 Matthias receives what he believes are divine visions:
 - Compulsion to travel toward other Shard locations ("pilgrimage sites")
-- Dreams of [[02_Worldbuilding/People/Archdruid Thornweaver]] and feeling called to meet "a holy druid"
+- Dreams of [[Archdruid Thornweaver]] and feeling called to meet "a holy druid"
 - Visions of a great underwater temple ([[The Azure Prophet Nerissa]]'s location)
 - Recurring dreams of standing in a circle with six other figures of light
 - Prophetic warnings about "the false queen's crystal crown" (Queen Seraphina)

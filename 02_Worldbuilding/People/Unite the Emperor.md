@@ -12,8 +12,8 @@ race: Human (Depth-Adapted)
 class: Noble/Sorcerer
 level: 16
 alignment: Lawful Neutral
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "[[02_Worldbuilding/Groups/The Crown]]"
+location: "[[Abyssos Prime]]"
+faction: "[[The Crown]]"
 status: "complete"
 created: 2025-08-08
 world: "Aquabyssos"
@@ -27,9 +27,9 @@ obsidianUIMode: preview
 *Lord Commander Octavius Thalassion VII, The Scattered Crown, The Last Emperor's Voice*
 
 ## Overview
-Lord Commander Octavius Thalassion VII represents the most legitimate claim to reuniting the fractured imperial throne of Aquabyssos. As the great-nephew of [[02_Worldbuilding/People/Emperor Thalassius the Wise]], he carries both the bloodline and the burden of imperial restoration. Unlike pretenders seeking personal power, Octavius genuinely believes in reuniting the scattered fragments of the empire not for conquest, but to restore the golden age of prosperity and stability that existed before [[02_Worldbuilding/Lore/The Great Drowning]].
+Lord Commander Octavius Thalassion VII represents the most legitimate claim to reuniting the fractured imperial throne of Aquabyssos. As the great-nephew of [[Emperor Thalassius the Wise]], he carries both the bloodline and the burden of imperial restoration. Unlike pretenders seeking personal power, Octavius genuinely believes in reuniting the scattered fragments of the empire not for conquest, but to restore the golden age of prosperity and stability that existed before [[The Great Drowning]].
 
-Operating from the deep political currents of [[02_Worldbuilding/Places/Abyssos Prime]], he leads a sophisticated campaign to gather the Seven Scattered Crowns - fragments of the original [[02_Worldbuilding/Items/Crown of Tidal Sovereignty]] that were broken and distributed to prevent any single ruler from wielding absolute power again. His approach combines political maneuvering, diplomatic alliances, and when necessary, strategic force to convince the current fragment holders that unity serves everyone's interests.
+Operating from the deep political currents of [[Abyssos Prime]], he leads a sophisticated campaign to gather the Seven Scattered Crowns - fragments of the original [[Crown of Tidal Sovereignty]] that were broken and distributed to prevent any single ruler from wielding absolute power again. His approach combines political maneuvering, diplomatic alliances, and when necessary, strategic force to convince the current fragment holders that unity serves everyone's interests.
 
 ## Appearance
 - **Build**: Tall and dignified at 6'2", bearing the distinctive elongated features of depth-nobility
@@ -84,7 +84,7 @@ Operating from the deep political currents of [[02_Worldbuilding/Places/Abyssos 
 - **Ambassador Korvin Blacktide** - Lead negotiator with the Crown Fragment holders
 
 ### Crown Fragment Holders (The Seven)
-- [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]] - Holds the Crown of Sorrows (complicated alliance)
+- [[Empress Tethys the Ever-Drowning]] - Holds the Crown of Sorrows (complicated alliance)
 - **King Pelagic the Pressure-Born** - Crown of Depths (respectful rivalry)
 - **Queen Nerida of the Twilight Realm** - Crown of Shadows (potential romantic interest)
 - **Duke Abyssal** - Crown of Mysteries (suspicious but negotiating)
@@ -93,20 +93,20 @@ Operating from the deep political currents of [[02_Worldbuilding/Places/Abyssos 
 - **The Deep Mother's Champion** - Crown of Ancient Ways (philosophical opposition)
 
 ### Allies
-- [[02_Worldbuilding/Groups/The Crown Authority]] (partial support from traditional monarchists)
-- [[02_Worldbuilding/Groups/Merchant Princes]] (see economic benefits of reunification)
+- [[The Crown Authority]] (partial support from traditional monarchists)
+- [[Merchant Princes]] (see economic benefits of reunification)
 - **The Imperial Scholar Society** - Intellectual support for legitimacy
 - **Depth-Loyal Houses** - Noble families who never accepted the fragmentation
 
 ### Enemies
-- [[02_Worldbuilding/Groups/The Parliament of Nobody]] - Opposes any return to monarchy
+- [[The Parliament of Nobody]] - Opposes any return to monarchy
 - **Republican Separatists** - Believe republics serve better than empires
 - **The Void Watchers** - See imperial reunification as preventing necessary change
 - **Pretender Claimants** - Other would-be emperors seeking power for themselves
 
 ### Complex Relations
-- [[02_Worldbuilding/People/Senator Glaucus]] - Sometimes ally, sometimes opponent in Parliament
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Useful but untrustworthy ally of convenience
+- [[Senator Glaucus]] - Sometimes ally, sometimes opponent in Parliament
+- [[Vex Shadowthorn]] - Useful but untrustworthy ally of convenience
 - **The Deep Mother Cult** - Opposes monarchy but respects imperial traditions
 
 ## Secrets
@@ -218,16 +218,16 @@ Octavius's master plan involves seven parallel diplomatic/political campaigns:
 5. **The Ancient Prophecy**: Dealing with consequences of crown reunification
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]] - Major fragment holder
-- [[02_Worldbuilding/People/Senator Glaucus]] - Political ally/opponent
-- [[02_Worldbuilding/People/Emperor Thalassius the Wise]] - Ancestral inspiration
+- [[Empress Tethys the Ever-Drowning]] - Major fragment holder
+- [[Senator Glaucus]] - Political ally/opponent
+- [[Emperor Thalassius the Wise]] - Ancestral inspiration
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Primary base of operations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Site of political negotiations
-- [[02_Worldbuilding/Places/The Royal Palace]] - Historic imperial seat
+- [[Abyssos Prime]] - Primary base of operations
+- [[Parliament of Echoes]] - Site of political negotiations
+- [[The Royal Palace]] - Historic imperial seat
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Crown Reborn]] - Central to reunification plot
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Protecting the conference
-- [[02_Worldbuilding/Quests/Unite or Divide]] - The central choice of his campaign
+- [[Quest - The Crown Reborn]] - Central to reunification plot
+- [[Quest - Diplomatic Immunity]] - Protecting the conference
+- [[Unite or Divide]] - The central choice of his campaign

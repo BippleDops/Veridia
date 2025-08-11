@@ -14,7 +14,7 @@ notable_features:
 faction_control: "[[The Unremembered Parliament]]"
 connected_locations:
   - "Nowhere (connections are forgotten)"
-  - "[[02_Worldbuilding/Places/The Memory Meadows]]" (theoretical)
+  - "[[The Memory Meadows]]" (theoretical)
   - "Itself (recursive forgetting)"
 environment_effects:
   - "Antimemetic Field (cannot form memories here)"

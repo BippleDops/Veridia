@@ -73,4 +73,4 @@ modified: 2025-07-23 12:39
 
 - [Foresight](/03_Mechanics/CLI/spells/foresight-xphb.md "XPHB")
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

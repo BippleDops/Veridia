@@ -3,7 +3,7 @@ tags: [location, port, criminal, neutral_ground, moderate_danger]
 aliases: [Haven's Rest, The Neutral Port, Crosscurrent Cove]
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/smugglers_cove.jpg"
-danger_level: "Moderate"
+danger_level: Moderate
 depth: "Surface to 200 feet"
 worlds: ["Aethermoor", "Aquabyssos"]
 type: "location"
@@ -16,7 +16,7 @@ obsidianUIMode: preview
 # Smuggler's Cove
 
 ## Overview
-Smuggler's Cove exists at the unique intersection between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], a half-submerged trading post built into a natural grotto where surface meets depth. Neither realm claims jurisdiction over this lawless haven, making it the perfect place for illegal trade, political refugees, and those who don't fit into either world. The Cove operates on a simple principle: gold talks, questions don't get asked, and everyone minds their own business.
+Smuggler's Cove exists at the unique intersection between [[Aethermoor]] and [[Aquabyssos]], a half-submerged trading post built into a natural grotto where surface meets depth. Neither realm claims jurisdiction over this lawless haven, making it the perfect place for illegal trade, political refugees, and those who don't fit into either world. The Cove operates on a simple principle: gold talks, questions don't get asked, and everyone minds their own business.
 
 ## Physical Description
 
@@ -141,7 +141,7 @@ The Peace Keepers are a professional security force that focuses on maintaining 
 ## Threats and Dangers
 
 ### Political Pressure
-Both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] would prefer to control or shut down the Cove, but they're prevented by:
+Both [[Aethermoor]] and [[Aquabyssos]] would prefer to control or shut down the Cove, but they're prevented by:
 - The Cove's usefulness for their own covert operations
 - Treaties that guarantee the area's neutral status  
 - The economic disruption that closing it would cause
@@ -196,16 +196,16 @@ The Cove's neutral status is fragile and constantly threatened by:
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/Port Meridian]]
+### [[Port Meridian]]
 The closest major surface port to the Cove, with regular (though officially unacknowledged) trade connections. Many surface goods destined for the Cove are initially processed through Meridian.
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [[New Tethys]]
 Aquabyssos city that maintains "cultural exchange" programs with the Cove. Many depth dwellers use the Cove as their first exposure to surface culture.
 
-### [[02_Worldbuilding/Places/The Crystal Throne]]
+### [[The Crystal Throne]]
 Aethermoor's government officially condemns the Cove while secretly using it for intelligence gathering and covert operations.
 
-### [[02_Worldbuilding/Places/The Bathyal Palace]]
+### [[The Bathyal Palace]]
 Aquabyssos leadership similarly maintains public disapproval while conducting private business through Cove intermediaries.
 
 ## Quest Hooks and Adventures

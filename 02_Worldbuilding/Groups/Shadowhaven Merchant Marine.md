@@ -19,5 +19,5 @@ The Shadowhaven Merchant Marine is a powerful and influential guild that control
 
 ## GM Notes
 - The guild is led by a council of wealthy merchants, including Lady Seraphina Goldleaf.
-- The guild is a rival of the [[02_Worldbuilding/Groups/Thieves Guild.md]] and the [[02_Worldbuilding/Groups/The Crimson Fleet.md]].
+- The guild is a rival of the [[Thieves Guild.md]] and the [[The Crimson Fleet.md]].
 - The guild is a potential patron for the party, but they will expect a hefty price for their services.

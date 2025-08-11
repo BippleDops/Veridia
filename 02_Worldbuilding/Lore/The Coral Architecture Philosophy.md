@@ -148,19 +148,19 @@ The Coral Architecture Philosophy represents the foundational approach to constr
 
 ## Connected NPCs
 - [[Master Architect Coral Dreamwright]] - Renowned expert in coral cultivation and architectural design
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal patron of architectural projects and inter-realm cooperation
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Spiritual advisor with deep knowledge of coral consciousness
+- [[Queen Seraphina Lumengarde]] - Royal patron of architectural projects and inter-realm cooperation
+- [[Elder Whisper-In-The-Dark]] - Spiritual advisor with deep knowledge of coral consciousness
 - [[Professor Marina Reefbuilder]] - Academic researcher studying coral architecture and marine ecology
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Capital city showcasing finest examples of coral architecture
-- [[02_Worldbuilding/Places/Coral Courts]] - Administrative and judicial centers built using traditional techniques
-- [[02_Worldbuilding/Places/Crystalhaven]] - Experimental city integrating coral and crystal architecture
+- [[Abyssos Prime]] - Capital city showcasing finest examples of coral architecture
+- [[Coral Courts]] - Administrative and judicial centers built using traditional techniques
+- [[Crystalhaven]] - Experimental city integrating coral and crystal architecture
 - [[The Living Spires]] - Residential towers representing pinnacle of coral architectural achievement
 
 ## Connected Organizations
 - [[The Guild of Reef Builders]] - Professional organization maintaining architectural standards and traditions
-- [[02_Worldbuilding/Groups/Temple of the Healing Waters]] - Religious organization incorporating coral architecture in sacred spaces
+- [[Temple of the Healing Waters]] - Religious organization incorporating coral architecture in sacred spaces
 - [[The Coral Cultivation Collective]] - Research and development organization advancing coral construction techniques
 
 The Coral Architecture Philosophy represents the perfect marriage of human ingenuity with natural systems, creating a building tradition that enhances rather than exploits the marine environment while providing beautiful, functional, and sustainable structures for human habitation.

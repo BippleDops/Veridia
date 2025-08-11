@@ -308,9 +308,9 @@ Safety protocol mastery provides characters with expertise in dangerous situatio
 Leadership experience opportunities arise from coordinating research activities while teaching characters to manage complex projects involving multiple specialists and organizations.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary setting and political authority for Chamber operations
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Primary threat being studied within the Chamber
-- [[02_Worldbuilding/Lore/Royal Palace]] - Physical location containing the Chamber facility
-- [[02_Worldbuilding/Lore/Council of Mages]] - Primary magical research partner organization
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Inter-realm coordination authority
-- [[02_Worldbuilding/People/Chief Resonance Engineer Harmony Crystalstone]] - Chamber facility director
+- [[Aethermoor]] - Primary setting and political authority for Chamber operations
+- [[The Crystal Influence]] - Primary threat being studied within the Chamber
+- [[Royal Palace]] - Physical location containing the Chamber facility
+- [[Council of Mages]] - Primary magical research partner organization
+- [[United Councils of Both Worlds]] - Inter-realm coordination authority
+- [[Chief Resonance Engineer Harmony Crystalstone]] - Chamber facility director

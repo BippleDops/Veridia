@@ -11,8 +11,8 @@ race: Human (Depth-Changed)
 class: Rogue/Warlock
 level: 12
 alignment: Chaotic Neutral
-location: "[[02_Worldbuilding/Places/The Shadow Markets]]"
-faction: "[[02_Worldbuilding/Groups/Independent Smugglers]]"
+location: "[[The Shadow Markets]]"
+faction: "[[Independent Smugglers]]"
 status: Alive (Depth-touched)
 created: 2025-08-08
 world: "Aquabyssos"
@@ -26,7 +26,7 @@ obsidianUIMode: preview
 *The Broker of Whispers, He Who Sees All Angles, King of the Pressure Rats*
 
 ## Overview
-Jasper "Three-Eyes" Flint is the most notorious information broker in [[02_Worldbuilding/Places/Aquabyssos]], operating from the shadowy depths where official law holds little sway. Born on the surface but transformed during the great submersion, his most distinctive feature is the third eye that opened in his forehead - a mutation that grants him supernatural perception. He trades in secrets, contraband, and favors, maintaining an intricate network of contacts throughout both the depths and surface world.
+Jasper "Three-Eyes" Flint is the most notorious information broker in [[Aquabyssos]], operating from the shadowy depths where official law holds little sway. Born on the surface but transformed during the great submersion, his most distinctive feature is the third eye that opened in his forehead - a mutation that grants him supernatural perception. He trades in secrets, contraband, and favors, maintaining an intricate network of contacts throughout both the depths and surface world.
 
 ## Appearance
 - **Build**: Wiry, 5'6", moves with predatory grace
@@ -61,7 +61,7 @@ Jasper "Three-Eyes" Flint is the most notorious information broker in [[02_World
 
 ### Criminal Organization
 - **The Pressure Rats**: Network of depth-changed outcasts and criminals
-- **Safe Houses**: Hidden throughout [[02_Worldbuilding/Places/Abyssos Prime]] undercity
+- **Safe Houses**: Hidden throughout [[Abyssos Prime]] undercity
 - **Supply Lines**: Smuggling routes between surface and depths
 - **Protection Racket**: "Insurance" for dangerous depth trading
 
@@ -74,38 +74,38 @@ Jasper "Three-Eyes" Flint is the most notorious information broker in [[02_World
 - **The Twins** - Sahuagin half-breeds, ruthless fighters
 
 ### Clients & Contacts
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Rival who sometimes collaborates
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Secretly purchases surface intelligence
-- Various [[02_Worldbuilding/Places/Parliament of Echoes]] members - Blackmail material
-- [[02_Worldbuilding/Groups/Current Riders Guild]] - Smuggling partnership
+- [[Shadow Broker Mist]] - Rival who sometimes collaborates
+- [[Ambassador Nerida Deepcurrent]] - Secretly purchases surface intelligence
+- Various [[Parliament of Echoes]] members - Blackmail material
+- [[Current Riders Guild]] - Smuggling partnership
 
 ### Enemies
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Relentless pursuer
-- **Captain Torrent Shellborn** - [[02_Worldbuilding/Groups/The Depth Wardens]] who wants him dead
+- [[Enforcer Chief Mako Ironjaw]] - Relentless pursuer
+- **Captain Torrent Shellborn** - [[The Depth Wardens]] who wants him dead
 - Surface world agents who know his real identity
 - Rival criminal organizations
 
 ### Complex Relations
-- [[02_Worldbuilding/People/Emperor Thalassius]] - May know about his unofficial services
+- [[Emperor Thalassius]] - May know about his unofficial services
 - Former surface contacts (complicated by his transformation)
-- The [[02_Worldbuilding/Lore/Deep Mother]] (through dream-visions)
+- The [[Deep Mother]] (through dream-visions)
 
 ## Secrets
 > [!warning] DM Only
 > - His real name was Jacob Fletcher, a surface world spy before transformation
 > - The third eye is slowly driving him insane with too much knowledge
-> - Has been collecting pieces of a lost [[02_Worldbuilding/Lore/The Seven Shards]]
+> - Has been collecting pieces of a lost [[The Seven Shards]]
 > - Maintains secret safe house with pre-submersion artifacts
 > - His crew doesn't know he sometimes works with surface agents
 > - The gills were self-surgery gone wrong - he nearly died
 > - Dreams regularly of the Deep Mother, who may be influencing him
 
 ## Current Activities
-- Investigating [[02_Worldbuilding/Groups/Shadow Surgeons Collective]] for valuable information
+- Investigating [[Shadow Surgeons Collective]] for valuable information
 - Tracking movements of surface world infiltrators
 - Building alliance with other independent criminal organizations
 - Searching for artifacts that might reverse depth mutations
-- Avoiding [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]'s investigations
+- Avoiding [[Enforcer Chief Mako Ironjaw]]'s investigations
 
 ## Motivations
 1. **Primary**: Maintain independence and protect his crew
@@ -138,7 +138,7 @@ Jasper "Three-Eyes" Flint is the most notorious information broker in [[02_World
 
 ## Quest Hooks
 1. Needs adventurers to investigate rival organization
-2. Has information about [[02_Worldbuilding/Lore/The Seven Shards]] - for a price
+2. Has information about [[The Seven Shards]] - for a price
 3. Crew member captured by authorities - needs rescue
 4. Strange artifacts appearing in black market need investigation
 5. Surface world agents hiring through him for depth missions
@@ -158,16 +158,16 @@ Jasper "Three-Eyes" Flint is the most notorious information broker in [[02_World
 - Connection to Deep Mother can introduce cosmic horror elements
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Rival/occasional ally
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Relentless enemy
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Secret client
+- [[Shadow Broker Mist]] - Rival/occasional ally
+- [[Enforcer Chief Mako Ironjaw]] - Relentless enemy
+- [[Ambassador Nerida Deepcurrent]] - Secret client
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Primary base of operations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Territory and contacts
-- [[02_Worldbuilding/Places/Pressure Tubes]] - Smuggling routes
+- [[The Shadow Markets]] - Primary base of operations
+- [[Abyssos Prime]] - Territory and contacts
+- [[Pressure Tubes]] - Smuggling routes
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Smuggler's Gambit]] - His operation under threat
-- [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Has crucial information
-- [[02_Worldbuilding/Quests/The Lock Saboteur]] - Potential contractor or target
+- [[Smuggler's Gambit]] - His operation under threat
+- [[Discover the Singers Beyond]] - Has crucial information
+- [[The Lock Saboteur]] - Potential contractor or target

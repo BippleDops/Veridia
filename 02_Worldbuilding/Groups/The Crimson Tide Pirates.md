@@ -19,5 +19,5 @@ The Crimson Tide is the most feared pirate crew on the seas. They are led by the
 
 ## GM Notes
 - The Crimson Tide is a major antagonist for the party, but they are also a potential ally if the party can earn their respect.
-- The Crimson Tide is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md]] and the Shadowhaven Navy.
+- The Crimson Tide is a rival of the [[Shadowhaven Merchant Marine.md]] and the Shadowhaven Navy.
 - The Crimson Tide has a secret base on Merchant's Rest Island.

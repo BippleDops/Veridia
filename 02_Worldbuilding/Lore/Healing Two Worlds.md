@@ -15,13 +15,13 @@ updated: 2025-08-10
 
 ## Overview
 
-Healing Two Worlds represents both a philosophical movement and a practical discipline focused on repairing the dimensional wounds that separate [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. Unlike approaches that seek to dominate or eliminate one reality in favor of another, healing practitioners believe that both worlds can be restored to wholeness while maintaining their unique characteristics. This discipline combines advanced magical theory, consciousness manipulation, and profound spiritual understanding to address the fundamental trauma that fractured reality during [[The Great Crystallization]] and [[Timeline of the Drowning]].
+Healing Two Worlds represents both a philosophical movement and a practical discipline focused on repairing the dimensional wounds that separate [[Aethermoor]] and [[Aquabyssos]]. Unlike approaches that seek to dominate or eliminate one reality in favor of another, healing practitioners believe that both worlds can be restored to wholeness while maintaining their unique characteristics. This discipline combines advanced magical theory, consciousness manipulation, and profound spiritual understanding to address the fundamental trauma that fractured reality during [[The Great Crystallization]] and [[Timeline of the Drowning]].
 
 ## Philosophical Foundation
 
 ### The Unity Principle
 **Core Belief:**
-The fundamental premise of world healing is that [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] were originally one reality, and their separation represents a cosmic trauma that continues to cause suffering in both dimensions. Healing practitioners believe that wholeness can be restored without erasing the unique evolution each world has undergone during separation.
+The fundamental premise of world healing is that [[Aethermoor]] and [[Aquabyssos]] were originally one reality, and their separation represents a cosmic trauma that continues to cause suffering in both dimensions. Healing practitioners believe that wholeness can be restored without erasing the unique evolution each world has undergone during separation.
 
 **The Wound Metaphor:**
 Dimensional separation is conceptualized as a massive spiritual and physical wound that has been festering for centuries. [[Shadow Corruption]] represents infection in this wound, while phenomena like [[Merged Reality Zones]] are attempts at natural healing. Professional healers see their role as assisting the universe's natural healing processes rather than forcing unnatural outcomes.
@@ -56,7 +56,7 @@ Before the dimensional split, there existed practitioners who specialized in hea
 ### Modern Rediscovery
 
 **The First Healers (200 years ago):**
-The discipline of world healing began with [[Saint Meridia the Unifier]], a mystic from [[02_Worldbuilding/Places/Aethermoor]] who claimed to receive visions of the original unified reality. Her attempts to heal minor dimensional tears were initially dismissed as fantasy, but her successes at curing [[Shadow Corruption]] on a small scale eventually attracted serious attention.
+The discipline of world healing began with [[Saint Meridia the Unifier]], a mystic from [[Aethermoor]] who claimed to receive visions of the original unified reality. Her attempts to heal minor dimensional tears were initially dismissed as fantasy, but her successes at curing [[Shadow Corruption]] on a small scale eventually attracted serious attention.
 
 **The School of Integration (150 years ago):**
 [[Master Depth-Crystal Thalamos]] established the first formal school for world healing, combining Meridia's visionary insights with practical magical techniques. The school developed systematic approaches to:
@@ -66,7 +66,7 @@ The discipline of world healing began with [[Saint Meridia the Unifier]], a myst
 - Establishing ethical guidelines for healing practice
 
 **The Unity Movement (100 years ago):**
-As dimensional instabilities increased, world healing evolved from specialized practice to organized movement. [[02_Worldbuilding/Groups/The Unity Seekers]] formed as a political and spiritual organization dedicated to promoting healing approaches over military or exploitative solutions to convergence crisis.
+As dimensional instabilities increased, world healing evolved from specialized practice to organized movement. [[The Unity Seekers]] formed as a political and spiritual organization dedicated to promoting healing approaches over military or exploitative solutions to convergence crisis.
 
 ## Healing Methodologies
 
@@ -118,14 +118,14 @@ Advanced techniques for healing the fundamental barriers between worlds:
 - **Reality Mapping**: Identifying the exact locations and nature of dimensional wounds
 - **Trauma Archaeology**: Uncovering the original emotional and spiritual causes of dimensional separation
 - **Consciousness Weaving**: Using collective meditation and prayer to strengthen dimensional fabric
-- **Love Bridging**: Channeling the original love between [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]] to heal their separation
+- **Love Bridging**: Channeling the original love between [[The Crimson Sage]] and [[The Deep Mother]] to heal their separation
 - **Integration Ceremonies**: Massive rituals involving participants from both worlds
 
 **Shadow Corruption Purification:**
 Large-scale efforts to cleanse corruption from entire regions:
 - **Purification Networks**: Coordinated healing efforts across multiple communities
-- **Crystal-Memory Synthesis**: Combining [[02_Worldbuilding/Places/Aethermoor]]'s crystal healing with [[02_Worldbuilding/Places/Aquabyssos]]'s memory techniques
-- **Divine Intervention**: Attempting to channel the healing power of [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]
+- **Crystal-Memory Synthesis**: Combining [[Aethermoor]]'s crystal healing with [[Aquabyssos]]'s memory techniques
+- **Divine Intervention**: Attempting to channel the healing power of [[The Crimson Sage]] and [[The Deep Mother]]
 - **Mass Consciousness Work**: Organizing thousands of people in simultaneous healing meditations
 - **Reality Stabilization**: Creating permanent zones of stability that resist further corruption
 
@@ -135,7 +135,7 @@ Large-scale efforts to cleanse corruption from entire regions:
 
 **The Unity Crystal:**
 A unique magical focus that resonates with both worlds simultaneously:
-- Contains crystalline elements from [[02_Worldbuilding/Places/Aethermoor]] and pressure-formed minerals from [[02_Worldbuilding/Places/Aquabyssos]]
+- Contains crystalline elements from [[Aethermoor]] and pressure-formed minerals from [[Aquabyssos]]
 - Amplifies healing magic while providing protection from dimensional distortions
 - Allows practitioner to perceive both realities at once without losing sanity
 - Can store and transmit healing intentions across dimensional barriers
@@ -235,7 +235,7 @@ Advanced healers work on large-scale healing and discipline leadership:
 - **Dimensional Work**: Directly healing reality wounds and dimensional instabilities
 - **Innovation**: Developing new healing techniques and expanding discipline capabilities
 - **Leadership**: Guiding healing organizations and movements
-- **Divine Connection**: Channeling the healing power of [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]
+- **Divine Connection**: Channeling the healing power of [[The Crimson Sage]] and [[The Deep Mother]]
 
 ### Schools and Organizations
 
@@ -300,8 +300,8 @@ Religious organization devoted to healing as spiritual practice:
 ### Political Opposition
 
 **Faction Resistance:**
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Opposes healing that might weaken [[02_Worldbuilding/Places/Aethermoor]]'s magical dominance
-- **[[Deep Lords]]**: Resist integration that might compromise [[02_Worldbuilding/Places/Aquabyssos]]'s independence
+- **[[The Crystal Throne]]**: Opposes healing that might weaken [[Aethermoor]]'s magical dominance
+- **[[Deep Lords]]**: Resist integration that might compromise [[Aquabyssos]]'s independence
 - **[[The Crimson Hand]]**: Oppose healing because chaos and instability serve their political goals
 - **[[Memory Merchants]]**: Economic interests threatened by healing that reduces demand for their services
 - **Military Factions**: War profiteers who benefit from ongoing dimensional conflict
@@ -334,7 +334,7 @@ Religious organization devoted to healing as spiritual practice:
 ### Individual Healings
 
 **[[The Corruption Saint Marina]]:**
-A young woman from [[02_Worldbuilding/Places/Crystalhaven]] who was 90% corrupted by [[Shadow Corruption]] was successfully healed through intensive consciousness work by [[Master Healer Prism-Light Thalassos]]. The healing process took three years and required the patient to confront and integrate traumatic memories from childhood. She now works as a healer herself, specializing in severe corruption cases.
+A young woman from [[Crystalhaven]] who was 90% corrupted by [[Shadow Corruption]] was successfully healed through intensive consciousness work by [[Master Healer Prism-Light Thalassos]]. The healing process took three years and required the patient to confront and integrate traumatic memories from childhood. She now works as a healer herself, specializing in severe corruption cases.
 
 **[[Identity Integration of Scholar Depth-Crystal]]:**
 An academic who began experiencing memories from his alternate-reality self was helped through the identity integration process by a team from [[The Unity Institute]]. Rather than choosing between his two authentic identities, he learned to function as a unified consciousness that honored both sets of experiences. He now serves as a diplomatic liaison between academic institutions in both worlds.
@@ -348,7 +348,7 @@ A military officer who spent six months trapped in a [[Merged Reality Zones|Merg
 A fishing community of 3,000 people that was 60% affected by [[Deep Mother Influence]] was successfully healed through a year-long community-wide healing process. The healing combined individual therapy, community ceremonies, environmental purification, and economic reconstruction. The community now serves as a model for large-scale corruption healing.
 
 **[[The Restoration of Crystal Grove]]:**
-A [[02_Worldbuilding/Places/Aethermoor]] town whose crystal networks had been corrupted was healed through innovative techniques combining traditional crystal magic with [[02_Worldbuilding/Places/Aquabyssos]] memory healing. The collaboration between healers from both worlds demonstrated the effectiveness of integrated healing approaches and established permanent cross-dimensional healing exchanges.
+A [[Aethermoor]] town whose crystal networks had been corrupted was healed through innovative techniques combining traditional crystal magic with [[Aquabyssos]] memory healing. The collaboration between healers from both worlds demonstrated the effectiveness of integrated healing approaches and established permanent cross-dimensional healing exchanges.
 
 **[[The Unity Festival Healing]]:**
 During a massive celebration involving participants from both worlds, spontaneous healing occurred on a scale never before documented. Over 10,000 people experienced partial or complete healing from various forms of corruption, identity confusion, and dimensional trauma. The event demonstrated the power of collective healing and led to annual repetition of the festival.
@@ -362,7 +362,7 @@ A region heavily affected by [[Shadow Corruption]] covering over 100 square mile
 The first successful permanent healing of a dimensional wound created a stable connection point between specific locations in both worlds. The bridge allows safe travel and communication while maintaining the distinct nature of each reality. Plans are underway to create additional bridges in strategic locations.
 
 **[[The Pressure-Crystal Synthesis Project]]:**
-A collaborative research effort successfully integrated [[02_Worldbuilding/Places/Aethermoor]]'s crystal technology with [[02_Worldbuilding/Places/Aquabyssos]]'s pressure techniques, creating new forms of healing magic that are more effective than either tradition alone. The synthesis techniques are being taught to healers throughout both worlds.
+A collaborative research effort successfully integrated [[Aethermoor]]'s crystal technology with [[Aquabyssos]]'s pressure techniques, creating new forms of healing magic that are more effective than either tradition alone. The synthesis techniques are being taught to healers throughout both worlds.
 
 ## Connection to Campaign Elements
 
@@ -402,11 +402,11 @@ Healing provides the only sustainable solution to corruption:
 
 ### The Divine Romance
 > [!warning] DM Only
-> The most powerful healing work channels the love between [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]. Master healers who understand this can tap into cosmic-level healing power, but they also risk becoming overwhelmed by divine emotion. The ultimate healing of the dimensional wounds requires the divine lovers to forgive each other for the catastrophe that separated them.
+> The most powerful healing work channels the love between [[The Crimson Sage]] and [[The Deep Mother]]. Master healers who understand this can tap into cosmic-level healing power, but they also risk becoming overwhelmed by divine emotion. The ultimate healing of the dimensional wounds requires the divine lovers to forgive each other for the catastrophe that separated them.
 
 ### The Healing Limitation
 > [!warning] DM Secret
-> World healing cannot be completed by mortals alone. The dimensional wounds are too fundamental and too large for any amount of mortal effort to fully heal. True healing requires the direct participation of [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]], who must choose to heal their own relationship. Mortal healers can prepare the way and provide support, but cannot force divine reconciliation.
+> World healing cannot be completed by mortals alone. The dimensional wounds are too fundamental and too large for any amount of mortal effort to fully heal. True healing requires the direct participation of [[The Crimson Sage]] and [[The Deep Mother]], who must choose to heal their own relationship. Mortal healers can prepare the way and provide support, but cannot force divine reconciliation.
 
 ### The Integration Requirement
 > [!warning] Hidden Knowledge
@@ -432,7 +432,7 @@ Healing provides the only sustainable solution to corruption:
 - Attempt large-scale healing of major dimensional wounds
 - Make crucial decisions about whether to pursue healing vs. other convergence solutions
 - Channel divine healing power while managing its overwhelming effects
-- Help [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]] work toward reconciliation
+- Help [[The Crimson Sage]] and [[The Deep Mother]] work toward reconciliation
 - Shape the nature of the integrated reality that emerges from successful healing
 
 ## Connected Elements

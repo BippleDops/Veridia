@@ -121,7 +121,7 @@ SORT population DESC
 - 🏛️ Ironhold Fortress - Military stronghold
 
 #### Islands & Regions
-- 🏝️ [[02_Worldbuilding/Places/The Cerulean Archipelago]] - World overview
+- 🏝️ [[The Cerulean Archipelago]] - World overview
 - 🏝️ Island of Skulls - Dangerous waters
 - 🏝️ Merchant's Rest Island - Safe harbor
 - 🏝️ Whisper Rock Lighthouse - Strategic point
@@ -165,10 +165,10 @@ SORT file.name ASC
 ```
 
 ### Quick References
-- 📖 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|Rules Quick Reference]]
+- 📖 [[DnD5e-DM Screen-2014|Rules Quick Reference]]
 - 🎲 Loot Tables
 - ⚔️ Combat Tracker
-- 🗺️ [[02_Worldbuilding/Places/World Map|Campaign Map]]
+- 🗺️ [[World Map|Campaign Map]]
 
 ### Handouts Available
 ```dataview
@@ -184,7 +184,7 @@ SORT file.mtime DESC
 
 ### Combat
 - [[Combat Actions]]
-- [[03_Mechanics/CLI/conditions]]
+- [[conditions]]
 - [[Initiative Tracker]]
 
 ### Magic

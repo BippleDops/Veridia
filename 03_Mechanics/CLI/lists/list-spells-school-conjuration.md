@@ -129,4 +129,4 @@ modified: 2025-07-23 12:39
 - [Storm of Vengeance](/03_Mechanics/CLI/spells/storm-of-vengeance-xphb.md "XPHB")
 - [Wish](/03_Mechanics/CLI/spells/wish-xphb.md "XPHB")
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

@@ -151,19 +151,19 @@ Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dange
 
 ## Connected NPCs
 - [[Pearl Master Ancient Nautilus]] - Legendary diver and keeper of traditional wisdom
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Port authority official managing diving operations
+- [[Harbor Master Luna Freedrift]] - Port authority official managing diving operations
 - [[Young Diver Coral Swiftcurrent]] - Ambitious novice challenging traditional practices
 - [[Pearl Merchant Tidal Goldflow]] - Trader specializing in high-quality pearl commerce
 
 ## Connected Locations
 - [[The Sacred Pearl Beds]] - Traditional diving grounds protected by ancient customs
 - [[Diver's Rest Tavern]] - Community gathering place for pearl divers and maritime workers
-- [[02_Worldbuilding/Places/Harbor District]] - Commercial center for pearl trade and diving operations
+- [[Harbor District]] - Commercial center for pearl trade and diving operations
 - [[The Deep Temple]] - Sacred site for diving blessing ceremonies and spiritual practices
 
 ## Connected Organizations
 - [[The Pearl Divers Guild]] - Professional organization maintaining standards and traditions
-- [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization handling pearl commerce and exports
+- [[Merchants Guild]] - Trade organization handling pearl commerce and exports
 - [[Sea Spirit Priests]] - Religious order blessing diving operations and protecting maritime workers
 
 Pearl Diving Honor Culture exemplifies the perfect balance between individual courage and community responsibility, where ancient traditions provide both practical safety and spiritual meaning to those who risk everything in the ocean's depths to bring beauty and prosperity to their people.

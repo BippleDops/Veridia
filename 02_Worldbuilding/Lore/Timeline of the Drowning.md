@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[02_Worldbuilding/Places/Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening.
+The Drowning represents the cataclysmic transformation of a surface civilization into the underwater realm of [[Aquabyssos]]. Unlike a simple flood, this was a gradual, supernatural process spanning decades that fundamentally altered not just geography, but the very nature of reality, consciousness, and life itself. The event was both natural disaster and divine intervention, orchestrated by the stirring dreams of [[The Deep Mother]] as she began her long awakening.
 
 ## Pre-Drowning Era: The Tethyan Hegemony
 *Dates: Ancient Era - Year 0 (Before Submersion)*
@@ -23,7 +23,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 ### The Surface Empire
 **Years -2000 to -500 BS (Before Submersion)**
 - Massive continental empire centered around the [[Tethyan Basin]]
-- Advanced civilization with crystal-based technology similar to [[02_Worldbuilding/Places/Aethermoor]]
+- Advanced civilization with crystal-based technology similar to [[Aethermoor]]
 - Population of approximately 50 million across seven major city-states
 - Sophisticated understanding of pressure, water, and depth-based engineering
 - Complex trade networks spanning three continents
@@ -33,7 +33,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 **Major Population Centers:**
 1. **Tethyopolis** (Capital) - 8 million residents, now [[The Parliament of Echoes]]
 2. **Benthica** (Military Hub) - 4 million residents, now [[The Citadel of Depths]]
-3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+3. **Abyssos Prime** (Trade Center) - 6 million residents, now [[Abyssos Prime - Pressure Terminal]]
 4. **Pelagia** (Religious Center) - 2 million residents, now [[The Temple of First Tide]]
 5. **Hadalia** (Industrial Hub) - 5 million residents, now [[The Forge Depths]]
 6. **Nereia** (Academic Center) - 3 million residents, now [[The Memory Vaults]]
@@ -177,7 +177,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Gradual increase in shadow corruption phenomena
 - Development of shadow-manipulation technologies
 - First major conflicts with shadow entities
-- Discovery of connections to surface world [[02_Worldbuilding/Places/Aethermoor]]
+- Discovery of connections to surface world [[Aethermoor]]
 - Beginning of dimensional research programs
 
 ### The Memory Wars
@@ -481,7 +481,7 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - Shadow corruption continues to spread and evolve
 - Memory alteration creates questions about historical accuracy
 - Depth hierarchy creates social inequality and conflict
-- Connection to surface world [[02_Worldbuilding/Places/Aethermoor]] raises identity questions
+- Connection to surface world [[Aethermoor]] raises identity questions
 - [[The Deep Mother]]'s increasing activity creates uncertainty
 
 **Future Concerns:**
@@ -516,14 +516,14 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - [[High Priestess Scylla Deepdream]] - Religious leader connecting to Deep Mother
 
 ### Related Events
-- [[The Great Crystallization]] - Parallel event in [[02_Worldbuilding/Places/Aethermoor]]
+- [[The Great Crystallization]] - Parallel event in [[Aethermoor]]
 - [[The Convergence Point]] - Potential reversal or transformation
 - [[The Deep Mother Rises]] - Culmination of the awakening process
 - [[The Shadow Integration]] - Managing corruption as natural phenomenon
 - [[The Memory Synthesis]] - Combining pre and post-Drowning knowledge
 
 ### Important Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Former capital, now government center
+- [[Parliament of Echoes]] - Former capital, now government center
 - [[The Hadal Depths]] - Deepest regions where [[The Deep Mother]] rests
 - [[The Memory Vaults]] - Preserved pre-Drowning knowledge and experiences
 - [[The Pressure Forges]] - Industrial centers using depth for manufacturing

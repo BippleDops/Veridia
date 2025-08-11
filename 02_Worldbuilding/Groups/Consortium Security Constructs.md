@@ -23,14 +23,14 @@ obsidianUIMode: preview
 *The Crystal Guard, The Ironprice Legion, Corporate Justice*
 
 ## Overview
-The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silverscale Consortium]]'s private military force, a fusion of advanced crystal technology and ruthless corporate enforcement. This organization combines magically-animated construct soldiers with highly trained human operators to form an elite security force that protects Consortium interests across [[02_Worldbuilding/Places/Aethermoor]]. They are judge, jury, and executioner for corporate law, operating with near-governmental authority in Consortium-controlled territories.
+The Consortium Security Constructs represent [[The Silverscale Consortium]]'s private military force, a fusion of advanced crystal technology and ruthless corporate enforcement. This organization combines magically-animated construct soldiers with highly trained human operators to form an elite security force that protects Consortium interests across [[Aethermoor]]. They are judge, jury, and executioner for corporate law, operating with near-governmental authority in Consortium-controlled territories.
 
 ## History
 
 ### Foundation Era (80 Years Ago)
 **Birth of Corporate Enforcement**
 - Created following the [[Merchant Wars]] to protect Consortium assets
-- First constructs built using captured [[02_Worldbuilding/Places/Aether Crystals]]
+- First constructs built using captured [[Aether Crystals]]
 - Initial designs based on captured [[Crystal Wardens]] technology
 - Established [[The Enforcement Citadel]] as headquarters
 - Commander Ironprice recruited from disbanded royal guard
@@ -57,7 +57,7 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - Development of autonomous construct squadrons
 - Cross-dimensional reconnaissance capabilities
 - Advanced corporate crime investigation units
-- Preparation for potential conflict with [[02_Worldbuilding/Groups/The Crown]]
+- Preparation for potential conflict with [[The Crown]]
 
 ## Structure & Organization
 
@@ -186,7 +186,7 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - Prepare for potential human-construct integrated command structure
 
 #### Shadow Trade Interdiction
-**Counter-[[02_Worldbuilding/Places/Aquabyssos]] Operations**
+**Counter-[[Aquabyssos]] Operations**
 - Investigate and disrupt shadow trade networks
 - Develop anti-shadow weaponry and detection equipment
 - Train specialized units for supernatural threat response
@@ -196,15 +196,15 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 ## Relationships & Politics
 
 ### Corporate Integration
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]**: Primary employer and authority
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Ultimate corporate commander
+- **[[The Silverscale Consortium]]**: Primary employer and authority
+- **[[Zephyr Goldwhisper]]**: Ultimate corporate commander
 - **Board of Scales**: Report directly to executive leadership
 - **Corporate Departments**: Integrated security for all business operations
 - **Subsidiary Companies**: Protection and enforcement for Consortium enterprises
 
 ### Government Relations
-- **[[02_Worldbuilding/Groups/The Crown]]**: Tense relationship, competing authority
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Mutual distrust and political maneuvering
+- **[[The Crown]]**: Tense relationship, competing authority
+- **[[Queen Seraphina Lumengarde]]**: Mutual distrust and political maneuvering
 - **Royal Guard**: Professional rivalry and jurisdictional conflicts
 - **Local Law Enforcement**: Often supersede or conflict with municipal authority
 - **Judicial System**: Work around or through legal system as needed
@@ -217,9 +217,9 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - **Criminal Organizations**: Both enemy and occasional business partner
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Moral opposition but practical cooperation
+- **[[High Inquisitor Maltheos]]**: Moral opposition but practical cooperation
 - **[[The People's Movement]]**: Revolutionary threat requiring careful monitoring
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Technical expertise vs. ethical concerns
+- **[[Master Artificer Korvin Gearwright]]**: Technical expertise vs. ethical concerns
 - **Common Citizens**: Protection vs. oppression depending on corporate interests
 - **Worker Organizations**: Suppress unions while maintaining productive workforce
 
@@ -374,17 +374,17 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 
 ### Key NPCs
 - **[[Commander Ironprice]]** - Supreme military leader
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Corporate authority
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Government opposition
+- **[[Zephyr Goldwhisper]]** - Corporate authority
+- **[[Queen Seraphina Lumengarde]]** - Government opposition
 - **[[Master Artificer Cogsworth]]** - Construct engineer
-- **[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]** - Technology rival
+- **[[Master Artificer Korvin Gearwright]]** - Technology rival
 
 ### Related Locations
 - **[[The Enforcement Citadel]]** - Military headquarters
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]** - Parent organization
-- **[[02_Worldbuilding/Places/The Crystal Palace]]** - Government rivalry location
+- **[[The Silverscale Consortium]]** - Parent organization
+- **[[The Crystal Palace]]** - Government rivalry location
 - **[[Crystal Core Foundry]]** - Construct manufacturing
-- **[[02_Worldbuilding/Places/Aethermoor]]** - Primary operation territory
+- **[[Aethermoor]]** - Primary operation territory
 
 ### Associated Quests
 - **[[Quest - The Corporate Coup]]** - Military takeover attempt

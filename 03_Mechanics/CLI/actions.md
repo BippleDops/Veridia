@@ -394,6 +394,6 @@ A creature that is naturally sleeping, as opposed to being in a magically or che
 
 Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score is 20 or higher and the whispers are within 10 feet of the sleeper. Speech at a normal volume awakens a sleeper if the environment is otherwise silent (no wind, birdsong, crickets, street sounds, or the like) and the sleeper has a passive Wisdom ([Perception](/03_Mechanics/CLI/skills.md#Perception)) score of 15 or higher.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
+[[DnD5e-DM Screen-2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
+[[DnD5e-SideScreen-2014]]

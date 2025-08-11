@@ -2,9 +2,10 @@
 tags: [npc, merchant, crystals, magical-items]
 status: "complete"
 world: "Aquabyssos"
-type: "npc"
+type: "location"
 created_by: "auto-stub"
 created: 2025-08-08
+danger_level: Moderate
 ---
 
 # The Crystal Merchant

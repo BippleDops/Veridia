@@ -17,7 +17,7 @@ obsidianUIMode: preview
 # Sage Lysander Deepthought
 
 ## Overview
-Sage Lysander Deepthought is the [[Abyssal Academy]]'s most brilliant and unstable researcher, obsessed with understanding [[The Great Drowning]] and [[The Cerulean Breath]]. Based in [[02_Worldbuilding/Places/New Tethys]]'s Scholar's Spiral, his laboratory is a chaotic maze of experiments, calculations, and captured phenomena. His body remains mostly human, but his mind has been "adapted" through exposure to deep knowledge - he thinks in equations and sees reality as mathematical probabilities.
+Sage Lysander Deepthought is the [[Abyssal Academy]]'s most brilliant and unstable researcher, obsessed with understanding [[The Great Drowning]] and [[The Cerulean Breath]]. Based in [[New Tethys]]'s Scholar's Spiral, his laboratory is a chaotic maze of experiments, calculations, and captured phenomena. His body remains mostly human, but his mind has been "adapted" through exposure to deep knowledge - he thinks in equations and sees reality as mathematical probabilities.
 
 ## Personality
 - **Obsessive**: Cannot stop researching even when dangerous
@@ -62,10 +62,10 @@ Sage Lysander Deepthought is the [[Abyssal Academy]]'s most brilliant and unstab
 - [[Master Cultivator Thalia Greenglow]] - Biological research
 
 ### Patrons & Enemies
-- [[02_Worldbuilding/People/Archon Meredith Saltweaver]] - Funds his research
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Former colleague, now rival
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Uses his inventions
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Considers him heretical
+- [[Archon Meredith Saltweaver]] - Funds his research
+- [[Duke Cyrus Reefheart]] - Former colleague, now rival
+- [[Admiral Thorne Blackwater]] - Uses his inventions
+- [[Prophet Nerida Voidgazer]] - Considers him heretical
 
 ### Secret Contacts
 - [[Elder Whisper-In-The-Dark]] - Trencher Folk knowledge
@@ -76,8 +76,8 @@ Sage Lysander Deepthought is the [[Abyssal Academy]]'s most brilliant and unstab
 Child prodigy who predicted the drowning's acceleration at age 12. Parents sent him to study at the Academy. Breakthrough came when he learned to think in "deep mathematics" - non-Euclidean calculations that match underwater reality. Has been slowly losing human perspective for 30 years.
 
 ## Current Activities
-1. Building device to communicate with [[02_Worldbuilding/Places/The Primordial Vaults]]
-2. Decoding mathematical whispers from [[02_Worldbuilding/Places/The Whispering Depths]]
+1. Building device to communicate with [[The Primordial Vaults]]
+2. Decoding mathematical whispers from [[The Whispering Depths]]
 3. Creating map of probability streams
 4. Studying captured Cerulean spawn
 5. Racing to complete "Reality Anchor" before Emergence
@@ -149,7 +149,7 @@ Will trade knowledge for:
 - Access to faction secrets
 
 ## Locations
-- Primary: [[02_Worldbuilding/Places/New Tethys]] - Scholar's Spiral
-- Secondary: [[02_Worldbuilding/Places/The Cerulean Trench]] - Field research
-- Secret: Hidden lab in [[02_Worldbuilding/Places/The Whispering Depths]]
-- Future: Plans station at [[02_Worldbuilding/Places/The Primordial Vaults]]
+- Primary: [[New Tethys]] - Scholar's Spiral
+- Secondary: [[The Cerulean Trench]] - Field research
+- Secret: Hidden lab in [[The Whispering Depths]]
+- Future: Plans station at [[The Primordial Vaults]]

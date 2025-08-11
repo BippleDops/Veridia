@@ -5,8 +5,8 @@ world: "Aethermoor"
 type: "faction"
 faction_type: "Government"
 alignment: "Lawful Neutral"
-headquarters: "[[02_Worldbuilding/Places/The Crystal Palace]]"
-leader: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
+headquarters: "[[The Crystal Palace]]"
+leader: "[[Queen Seraphina Lumengarde]]"
 members: "~10,000 direct servants"
 influence: "National"
 wealth: "Immense"
@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *The Royal Authority of Aethermoor, Keepers of the Shattered Legacy, The Crystal Throne*
 
 ## Overview
-The Crown represents the royal government of [[02_Worldbuilding/Places/Aethermoor]], built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival.
+The Crown represents the royal government of [[Aethermoor]], built upon the ruins of the God-King Aetheron's empire 500 years ago. Currently led by [[Queen Seraphina Lumengarde]], The Crown maintains authority through control of Aether Crystals, military might, and the myth of divine mandate. However, crystal corruption, noble rebellions, and the Queen's deteriorating condition threaten the institution's survival.
 
 ## History
 
@@ -45,26 +45,26 @@ After Aetheron's Crown shattered into Seven Shards:
 ### Decline (Last Century)
 - Increasing crystal corruption
 - Noble house rebellions
-- Economic pressure from [[02_Worldbuilding/Groups/Silverscale Consortium]]
-- Shadow infiltration from [[02_Worldbuilding/Places/Aquabyssos]]
+- Economic pressure from [[Silverscale Consortium]]
+- Shadow infiltration from [[Aquabyssos]]
 - Queen's progressive madness
 
 ## Structure & Hierarchy
 
 ### The Royal Family
 #### Current Monarchy
-- **Queen**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] (corrupted)
+- **Queen**: [[Queen Seraphina Lumengarde]] (corrupted)
 - **King Consort**: [[King Marcus Lumengarde]] (deceased mysteriously)
 - **Crown Prince**: [[Prince Aurelius Lumengarde]] (missing)
 - **Princess**: [[Princess Celestine Lumengarde]] (in hiding)
-- **Bastard Son**: [[02_Worldbuilding/People/Vex Shadowthorn]] (unacknowledged)
+- **Bastard Son**: [[Vex Shadowthorn]] (unacknowledged)
 
 #### The Inner Circle
-- **Royal Advisor**: [[02_Worldbuilding/People/The Crimson Sage]] (secret identity)
-- **Lord Commander**: [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+- **Royal Advisor**: [[The Crimson Sage]] (secret identity)
+- **Lord Commander**: [[Lord Commander Gareth Steelborn]]
 - **High Treasurer**: [[Castellan Ironledger III]]
 - **Spymaster**: [[The Whispered Voice]] (unknown identity)
-- **Court Wizard**: [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]
+- **Court Wizard**: [[Master Artificer Korvin Gearwright]]
 
 ### Government Branches
 
@@ -147,8 +147,8 @@ After Aetheron's Crown shattered into Seven Shards:
 5. **Succession Crisis**: Find legitimate heir
 
 ### Desperate Measures
-- Considering alliance with [[02_Worldbuilding/Places/Aquabyssos]]
-- Secretly negotiating with [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- Considering alliance with [[Aquabyssos]]
+- Secretly negotiating with [[Silverscale Consortium]]
 - Exploring forbidden magic
 - Preparing for possible civil war
 - Planning Queen's "retirement"
@@ -157,31 +157,31 @@ After Aetheron's Crown shattered into Seven Shards:
 
 ### Allies
 - **[[House Brightblade]]**: Military support
-- **[[02_Worldbuilding/Groups/The Silver Order]]**: Religious backing
+- **[[The Silver Order]]**: Religious backing
 - **[[Merchant Guilds]]**: Economic cooperation
 - **[[Northern Principalities]]**: Defense pact
-- **[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]**: Naval loyalty
+- **[[Captain Thaddeus Blackwater]]**: Naval loyalty
 
 ### Rivals
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Economic competition
+- **[[Silverscale Consortium]]**: Economic competition
 - **[[House Shadowmere]]**: Succession dispute
 - **[[The Free Cities]]**: Independence movement
-- **[[02_Worldbuilding/Groups/The Crimson Hand]]**: Revolutionary threat
+- **[[The Crimson Hand]]**: Revolutionary threat
 - **[[Noble Opposition]]**: Internal dissent
 
 ### Enemies
-- **[[02_Worldbuilding/Groups/Shadow Conspiracy]]**: Active infiltration
+- **[[Shadow Conspiracy]]**: Active infiltration
 - **[[Separatist Movements]]**: Seek kingdom division
 - **[[Crystal Cults]]**: Religious extremists
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Through agents
+- **[[Aboleth Prime Yoth]]**: Through agents
 - **[[The Forgotten Princes]]**: Rival claimants
 
 ### Complicated
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Advisor with agenda
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Conditional support
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Unacknowledged blood
+- **[[The Crimson Sage]]**: Advisor with agenda
+- **[[High Inquisitor Maltheos]]**: Conditional support
+- **[[Vex Shadowthorn]]**: Unacknowledged blood
 - **[[Common People]]**: Growing unrest
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Secret negotiations
+- **[[Aquabyssos]]**: Secret negotiations
 
 ## Internal Conflicts
 
@@ -239,15 +239,15 @@ After Aetheron's Crown shattered into Seven Shards:
 ## Notable Members
 
 ### Leadership
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Corrupted monarch
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
-- [[02_Worldbuilding/People/The Crimson Sage]] - Secret advisor
+- [[Queen Seraphina Lumengarde]] - Corrupted monarch
+- [[Lord Commander Gareth Steelborn]] - Military leader
+- [[The Crimson Sage]] - Secret advisor
 - [[Castellan Ironledger III]] - Financial master
 - [[The Whispered Voice]] - Spy network head
 
 ### Key Operatives
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Royal Guard Captain
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Crystal expert
+- [[Captain Lyanna Brightshield]] - Royal Guard Captain
+- [[Master Artificer Korvin Gearwright]] - Crystal expert
 - [[Dame Rosanna Truthseeker]] - Inquisitor
 - [[Lord Marcus Shadowbane]] - Anti-infiltration
 - [[Sister Catherine]] - Royal Confessor
@@ -262,7 +262,7 @@ After Aetheron's Crown shattered into Seven Shards:
 ## Headquarters & Holdings
 
 ### Primary Locations
-- **[[02_Worldbuilding/Places/The Crystal Palace]]**: Royal seat
+- **[[The Crystal Palace]]**: Royal seat
 - **[[Lumengarde City]]**: Capital
 - **[[The Royal Vaults]]**: Treasury and armory
 - **[[Crystal Gardens]]**: Shard cultivation
@@ -370,22 +370,22 @@ After Aetheron's Crown shattered into Seven Shards:
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Leader
-- [[02_Worldbuilding/People/The Crimson Sage]] - Hidden power
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Religious ally
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Bastard heir
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Naval commander
+- [[Queen Seraphina Lumengarde]] - Leader
+- [[The Crimson Sage]] - Hidden power
+- [[High Inquisitor Maltheos]] - Religious ally
+- [[Vex Shadowthorn]] - Bastard heir
+- [[Captain Thaddeus Blackwater]] - Naval commander
 
 ### Related Locations
-- [[02_Worldbuilding/Places/The Crystal Palace]] - Headquarters
-- [[02_Worldbuilding/Places/Lumengarde City]] - Capital
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Resource source
+- [[The Crystal Palace]] - Headquarters
+- [[Lumengarde City]] - Capital
+- [[The Crystalline Wastes]] - Resource source
 - [[The Royal Vaults]] - Treasury
 - [[Northern Fortresses]] - Military power
 
 ### Associated Quests
-- [[02_Worldbuilding/Quests/Quest - The Crystal Festival]]
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]]
+- [[Quest - The Crystal Festival]]
+- [[Quest - The Seventh Shard]]
 - [[Quest - Succession Crisis]]
 - [[Quest - The Crown's Shadow]]
 - [[Quest - Royal Redemption]]

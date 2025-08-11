@@ -19,7 +19,7 @@ obsidianUIMode: preview
 *Where Gods Once Walked*
 
 ## Overview
-Hidden deep within [[02_Worldbuilding/Places/The Crystalline Wastes]], the Shattered Sanctum is a pre-Shattering temple complex that once served as Aetheron's primary place of worship. Now it serves as [[02_Worldbuilding/People/The Crimson Sage]]'s secret laboratory and sanctuary. The temple exists partially outside normal reality, making it difficult to find and dangerous to explore.
+Hidden deep within [[The Crystalline Wastes]], the Shattered Sanctum is a pre-Shattering temple complex that once served as Aetheron's primary place of worship. Now it serves as [[The Crimson Sage]]'s secret laboratory and sanctuary. The temple exists partially outside normal reality, making it difficult to find and dangerous to explore.
 
 ## History
 
@@ -38,7 +38,7 @@ Hidden deep within [[02_Worldbuilding/Places/The Crystalline Wastes]], the Shatt
 ### Current State
 - Hidden by crystal storms
 - Protected by divine guardians
-- Used by [[02_Worldbuilding/People/The Crimson Sage]]
+- Used by [[The Crimson Sage]]
 - Contains two of the Seven Shards
 
 ## Accessing the Sanctum
@@ -47,7 +47,7 @@ Hidden deep within [[02_Worldbuilding/Places/The Crystalline Wastes]], the Shatt
 - Location shifts within the Wastes
 - Requires divine guidance or map
 - Visible only during crystal storms
-- Following [[02_Worldbuilding/People/The Crimson Sage]]'s clues
+- Following [[The Crimson Sage]]'s clues
 
 ### Entry Requirements
 - Pass through reality distortion
@@ -92,7 +92,7 @@ Hidden deep within [[02_Worldbuilding/Places/The Crystalline Wastes]], the Shatt
 - The Keeper of Truth (CR 12)
 
 ### Level 3: The Divine Laboratory
-**[[02_Worldbuilding/People/The Crimson Sage]]'s Domain**:
+**[[The Crimson Sage]]'s Domain**:
 - Corruption experiments
 - Shard research
 - Divine essence extraction
@@ -113,7 +113,7 @@ Hidden deep within [[02_Worldbuilding/Places/The Crystalline Wastes]], the Shatt
 
 **Ultimate Guardian**:
 - Avatar of Aetheron (CR 15)
-- Or [[02_Worldbuilding/People/The Crimson Sage]] himself
+- Or [[The Crimson Sage]] himself
 
 ## Unique Features
 
@@ -253,18 +253,18 @@ Record all events that ever occurred here:
 | 12 | Glimpse true divinity |
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Surrounding area
-- [[02_Worldbuilding/Places/Crystalhaven]] - Seeks its secrets
+- [[The Crystalline Wastes]] - Surrounding area
+- [[Crystalhaven]] - Seeks its secrets
 - Divine realm - Thin barrier
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/The Crimson Sage]] - Current occupant
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Sought it
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Wants its knowledge
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Would destroy it
+- [[The Crimson Sage]] - Current occupant
+- [[Captain Thaddeus Blackwater]] - Sought it
+- [[Queen Seraphina Lumengarde]] - Wants its knowledge
+- [[High Inquisitor Maltheos]] - Would destroy it
 
 ## Connected Quests
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Contains clues
+- [[Quest - The Seventh Shard]] - Contains clues
 - [[Quest - Divine Intervention]] - Sage's home
 - [[Quest - The Truth Unveiled]] - Ultimate revelations
 

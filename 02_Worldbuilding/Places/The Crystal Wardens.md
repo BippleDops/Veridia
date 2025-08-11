@@ -5,7 +5,7 @@ world: "Aethermoor"
 type: "organization"
 security_level: "high"
 access: "military_only"
-danger_level: "moderate"
+danger_level: Moderate
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11

@@ -15,6 +15,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Senator's Private Chambers

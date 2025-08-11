@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Investigation
 obsidianUIMode: preview
+cr: 8
 ---
 
 # Investigate the Crystal Plague

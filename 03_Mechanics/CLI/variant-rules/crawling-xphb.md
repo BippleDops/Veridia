@@ -14,4 +14,4 @@ modified: 2025-07-23 12:39
 
 While you're crawling, each foot of movement costs 1 extra foot (2 extra feet in [difficult terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)).
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

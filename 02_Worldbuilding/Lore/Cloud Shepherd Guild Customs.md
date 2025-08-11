@@ -257,18 +257,18 @@ The Cloud Shepherd Guild represents one of Aethermoor's most ancient and respect
 
 ## Connected NPCs
 - [[Master Cloud Shepherd Zephyr Stormcaller]] - Legendary guild elder and weather expert
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal patron supporting weather cooperation
+- [[Queen Seraphina Lumengarde]] - Royal patron supporting weather cooperation
 - [[Apprentice Shepherd Nimbus Brightwind]] - Young shepherd struggling with cultural changes
 - [[Weather Sage Ancient Tempest]] - Elderly keeper of traditional atmospheric knowledge
 
 ## Connected Locations
 - [[The Great Sky Harbor]] - Central hub for cloud shepherd operations
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary homeland of cloud shepherd culture
+- [[Aethermoor]] - Primary homeland of cloud shepherd culture
 - [[Storm Sanctuary]] - Sacred site for dangerous weather management
 - [[Wind Walker Academy]] - Training center for apprentice shepherds
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Weather Wardens]] - Government organization regulating atmospheric safety
+- [[The Weather Wardens]] - Government organization regulating atmospheric safety
 - [[Sky City Councils]] - Local governments employing shepherd services
 - [[Inter-Realm Weather Coalition]] - Cross-cultural weather management alliance
 

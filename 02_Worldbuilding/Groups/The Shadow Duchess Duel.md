@@ -24,7 +24,7 @@ obsidianUIMode: preview
 
 ## Organization Overview
 
-The Shadow Duchess Duel represents the pinnacle of civilized conflict resolution within [[02_Worldbuilding/Places/Aquabyssos]]'s elite shadow society. Founded by the legendary Shadow Duchess Lysandra Voidgrace, this aristocratic organization maintains strict codes of honor through formal dueling practices that have evolved far beyond simple combat into an art form combining martial prowess, shadow manipulation, and social diplomacy.
+The Shadow Duchess Duel represents the pinnacle of civilized conflict resolution within [[Aquabyssos]]'s elite shadow society. Founded by the legendary Shadow Duchess Lysandra Voidgrace, this aristocratic organization maintains strict codes of honor through formal dueling practices that have evolved far beyond simple combat into an art form combining martial prowess, shadow manipulation, and social diplomacy.
 
 Unlike the chaotic violence that often characterizes conflicts in the depths, the Shadow Duchess Duel operates according to elaborate protocols that transform potentially lethal disputes into structured competitions. Their influence extends throughout the upper echelons of shadow-touched society, where a duel properly conducted according to their standards can resolve everything from minor social slights to major political disputes.
 
@@ -303,37 +303,37 @@ The Shadow Duchess Duel offers professional mediation and arbitration services t
 
 ### Formal Alliances
 
-#### **[[02_Worldbuilding/Groups/Order of the Drowned Star]]**
+#### **[[Order of the Drowned Star]]**
 **Relationship**: Mutual Respect and Cooperation
 Both organizations value tradition, honor, and scholarly excellence. The Order provides astronomical timing for important ceremonies while the Duel provides conflict resolution services for scholarly disputes.
 
-#### **[[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]**
+#### **[[Ancient Mer-Folk Empire]]**
 **Relationship**: Diplomatic Recognition
 The Empire recognizes the Duel as legitimate representatives of shadow nobility. Formal protocols exist for handling disputes between mer-folk and shadow-touched individuals.
 
 ### Neutral Relations
 
-#### **[[02_Worldbuilding/Groups/Silverscale Consortium]]**
+#### **[[Silverscale Consortium]]**
 **Relationship**: Professional Services
 The Consortium occasionally employs the Duel for arbitration of complex business disputes. The relationship is cordial but entirely professional.
 
-#### **[[02_Worldbuilding/Groups/Parliament of Echoes]]**
+#### **[[Parliament of Echoes]]**
 **Relationship**: Cautious Coexistence
 The Parliament appreciates the Duel's role in maintaining order among shadow-touched citizens but remains wary of their aristocratic exclusivity and potential political influence.
 
 ### Complex Relationships
 
-#### **[[02_Worldbuilding/Groups/The Shadow Warren]]**
+#### **[[The Shadow Warren]]**
 **Relationship**: Philosophical Opposition
 While both organizations serve shadow-touched individuals, they have fundamentally different approaches. The Warren values collective action and social equality, while the Duel emphasizes individual honor and aristocratic hierarchy.
 
-#### **[[02_Worldbuilding/Groups/Cult of Screams]]**
+#### **[[Cult of Screams]]**
 **Relationship**: Active Opposition
 The Cult's chaotic violence and disregard for civilized conduct directly contradicts everything the Duel represents. Members actively support law enforcement efforts against Cult activities.
 
 ### Hostile Relations
 
-#### **[[02_Worldbuilding/Groups/Purist Coalition]]**
+#### **[[Purist Coalition]]**
 **Relationship**: Ideological Enemies
 The Coalition views shadow-touched individuals as corrupted abominations, making any cooperation impossible. The Duel maintains defensive protocols against Purist attacks.
 
@@ -514,10 +514,10 @@ Secret agreements with other organizations may commit the Shadow Duchess Duel to
 ## Connected Elements
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Order of the Drowned Star]]
-- [[02_Worldbuilding/Groups/Ancient Mer-Folk Empire]]
-- [[02_Worldbuilding/Groups/The Shadow Warren]]
-- [[02_Worldbuilding/Groups/Parliament of Echoes]]
+- [[Order of the Drowned Star]]
+- [[Ancient Mer-Folk Empire]]
+- [[The Shadow Warren]]
+- [[Parliament of Echoes]]
 
 **Key Locations**:
 - [[The Umbral Pavilion]]

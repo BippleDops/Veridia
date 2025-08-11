@@ -39,7 +39,7 @@ The Inverse Palace defies every law of nature, a massive complex where gravity b
 - Breaking a bubble releases a death scream (WIS save DC 13 or frightened)
 
 **Notable NPCs**:
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Mad consciousness across creatures
+- [[The Scattered Emperor]] - Mad consciousness across creatures
 - [[Court Herald Titus]] - Translates the Emperor's fragmented speech
 - [[The Eel Keepers]] - Maintain the Emperor's physical forms
 
@@ -130,7 +130,7 @@ Still serve the fragmented Emperor despite his madness
 
 ### The Pragmatists
 Seek to maintain status quo while Emperor is incapacitated
-- **Leader**: [[02_Worldbuilding/People/Senator Glaucus]]
+- **Leader**: [[Senator Glaucus]]
 - **Goal**: Prevent chaos, slow change
 - **Resource**: Bureaucratic control
 
@@ -201,8 +201,8 @@ The shadows of courtiers forming their own government
 ## 🔗 Connections
 
 ### To Other Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]]: Underground tunnel, flooded
-- [[02_Worldbuilding/Places/Screaming Gardens]]: View from palace windows
+- [[Parliament of Echoes]]: Underground tunnel, flooded
+- [[Screaming Gardens]]: View from palace windows
 - [[The Depth Market]]: Secret passages for smuggling
 - [[Pressure Terminal]]: Official transport hub
 
@@ -274,19 +274,19 @@ Prophecies suggest the palace will either be the key to raising Aquabyssos or th
 ---
 
 ### Related Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
-- [[02_Worldbuilding/Places/Screaming Gardens]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
+- [[Screaming Gardens]]
 - [[The Depth Market]]
 
 ### Related NPCs
-- [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[02_Worldbuilding/People/Senator Glaucus]]
+- [[The Scattered Emperor]]
+- [[Senator Glaucus]]
 - [[Shadow Chancellor]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[Marina-Red-Tide-Coralheart]]
 
 ### Related Mechanics
-- [[03_Mechanics/Depth Adaptation System]]
+- [[Depth Adaptation System]]
 - [[Shadow Separation Rules]]
 - [[Temporal Navigation]]
 - [[Gravity Anomaly Mechanics]]

@@ -466,16 +466,16 @@ Involvement with Chamber operations provides numerous opportunities for characte
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location utilizing Tidal Chamber technology
-- [[02_Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional integration projects
-- [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Complementary technology working with Chamber systems
-- [[02_Worldbuilding/Lore/Underwater Breathing]] - Life support technology supported by Chamber operations
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Chamber facilities
-- [[02_Worldbuilding/People/Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
-- [[02_Worldbuilding/People/Senior Tidal Engineer Marina Flowmaster]] - Tidal engineering specialist
-- [[02_Worldbuilding/People/Bio-Tech Supervisor Reef Lifeweaver]] - Bio-magical systems specialist
-- [[02_Worldbuilding/People/Pressure Master Current Depthwright]] - Pressure systems operations manager
-- [[02_Worldbuilding/People/Quality Inspector Wave Purewater]] - Water quality control specialist
-- [[02_Worldbuilding/People/Emergency Coordinator Storm Quickfix]] - Crisis response team leader
+- [[Aquabyssos]] - Primary location utilizing Tidal Chamber technology
+- [[Aethermoor]] - Partner civilization for cross-dimensional integration projects
+- [[Pressure Adaptation System]] - Complementary technology working with Chamber systems
+- [[Underwater Breathing]] - Life support technology supported by Chamber operations
+- [[The Deepwatch Guard]] - Security organization protecting Chamber facilities
+- [[Master Tidal Engineer Coral Wavewright]] - Chief Designer of Chamber network
+- [[Senior Tidal Engineer Marina Flowmaster]] - Tidal engineering specialist
+- [[Bio-Tech Supervisor Reef Lifeweaver]] - Bio-magical systems specialist
+- [[Pressure Master Current Depthwright]] - Pressure systems operations manager
+- [[Quality Inspector Wave Purewater]] - Water quality control specialist
+- [[Emergency Coordinator Storm Quickfix]] - Crisis response team leader
 
 The Tidal Chambers stand as testament to the ingenuity and ambition of Aquabyssos civilization, representing not merely an engineering achievement but a fundamental transformation of the relationship between sentient beings and the forces of nature. Through these systems, the citizens of Aquabyssos have not conquered the ocean but learned to dance with it, creating a harmony between technological advancement and environmental stewardship that offers hope for sustainable underwater civilization.

@@ -32,7 +32,7 @@ The Merchant Code of Ethics represents the comprehensive moral and legal framewo
 
 ### Modern Codification and Updates
 **Regular Review Cycles:** Annual assessments updating the Code to address new commercial challenges and opportunities
-**Merchant Guild Participation:** Active involvement of [[02_Worldbuilding/Groups/Merchants Guild]] in policy development and enforcement
+**Merchant Guild Participation:** Active involvement of [[Merchants Guild]] in policy development and enforcement
 **Technological Adaptations:** Modifications accommodating new transportation, communication, and trade technologies
 **Cultural Evolution Response:** Updates reflecting changing social attitudes and diplomatic relationships
 **Dispute Resolution Improvements:** Ongoing refinements to arbitration and enforcement procedures
@@ -93,7 +93,7 @@ The Merchant Code of Ethics represents the comprehensive moral and legal framewo
 **Authority Limits:** Power to mediate disputes and impose minor penalties with appeals to higher authorities
 
 ### Merchant Guild Integration
-**Self-Regulation:** [[02_Worldbuilding/Groups/Merchants Guild]] chapters responsible for educating members and monitoring compliance
+**Self-Regulation:** [[Merchants Guild]] chapters responsible for educating members and monitoring compliance
 **Certification Programs:** Training and testing ensuring merchants understand Code requirements and cultural sensitivities
 **Peer Oversight:** Fellow merchants expected to report violations and provide guidance to struggling colleagues
 **Professional Standards:** Guild membership contingent on Code compliance and ethical business practices
@@ -285,7 +285,7 @@ The Merchant Code of Ethics represents the comprehensive moral and legal framewo
 12. **Price Manipulation Scheme:** Coordinated effort to artificially inflate prices threatening market stability
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] - Diplomat instrumental in developing original Code framework
+- [[Ambassador Korvin Blacktide]] - Diplomat instrumental in developing original Code framework
 - [[Lord Reginald Seaworthy]] - Noble merchant advocating for ethical trade practices
 - [[Trade Arbitrator Marina Fairwave]] - Senior official resolving major commercial disputes
 - [[Merchant Guild Leader Titus Goldcurrent]] - Professional organization head enforcing Code standards
@@ -295,22 +295,22 @@ The Merchant Code of Ethics represents the comprehensive moral and legal framewo
 
 ## Connected Locations
 - [[Inter-Realm Commercial Court]] - Legal facility for resolving major trade disputes
-- [[02_Worldbuilding/Places/Harbor District]] - Major commercial center where Code is actively enforced
+- [[Harbor District]] - Major commercial center where Code is actively enforced
 - [[Merchant Guild Headquarters]] - Professional organization center for Code education and enforcement
 - [[The Neutral Trading Post]] - Commercial facility specifically designed for inter-realm business
 - [[Commercial Archives]] - Repository of contracts, case law, and Code documentation
 - [[Cultural Exchange Commercial Center]] - Trading facility emphasizing cultural sensitivity and education
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/Merchants Guild]] - Primary professional organization enforcing Code standards
+- [[Merchants Guild]] - Primary professional organization enforcing Code standards
 - [[Inter-Realm Commercial Council]] - Governing body overseeing Code administration and enforcement
 - [[Cultural Integration Trade Association]] - Organization promoting cross-cultural business education
 - [[Commercial Ethics Enforcement Agency]] - Government body investigating and prosecuting Code violations
 - [[Cross-Cultural Business Development Society]] - Support organization helping new merchants learn Code requirements
 
 ## Connected Lore
-- [[02_Worldbuilding/Lore/Marriage Between Worlds]] - Personal relationships often facilitating trusted commercial partnerships
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]] - Diplomatic agreements providing legal foundation for Code
+- [[Marriage Between Worlds]] - Personal relationships often facilitating trusted commercial partnerships
+- [[Aquabyssos-Aethermoor Treaties]] - Diplomatic agreements providing legal foundation for Code
 - [[Inter-Realm Trade Protocols]] - Specific procedures implementing Code principles in daily commerce
 - [[Commercial Dispute Resolution Procedures]] - Legal processes for handling Code violations and business conflicts
 - [[Cross-Cultural Business Ethics Training]] - Educational programs ensuring merchant Code compliance

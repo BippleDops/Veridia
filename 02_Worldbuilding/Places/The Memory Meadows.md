@@ -13,8 +13,8 @@ notable_features:
   - "Living memory entities"
 faction_control: "[[The Forgotten Collective]]"
 connected_locations:
-  - "[[02_Worldbuilding/Places/The Inverse Palace]]"
-  - "[[02_Worldbuilding/Places/Nereidios]]"
+  - "[[The Inverse Palace]]"
+  - "[[Nereidios]]"
   - "[[The Archive of Unremembered Things]]"
 environment_effects:
   - "Memory Bleed (DC 15 WIS save or gain false memories)"
@@ -105,7 +105,7 @@ Time moves differently here. Characters may age or grow younger based on which m
 ## Quest Hooks
 
 ### "The Autobiography Thief"
-Someone is systematically stealing all memories of [[02_Worldbuilding/People/The Scattered Emperor]], erasing him from history. The party must navigate the meadows to find and stop them before reality restructures around his absence.
+Someone is systematically stealing all memories of [[The Scattered Emperor]], erasing him from history. The party must navigate the meadows to find and stop them before reality restructures around his absence.
 
 ### "Remember Me"
 A loved one has been completely forgotten due to memory kelp consumption. The party must find their erased memories in the meadows and somehow restore them to existence.
@@ -139,7 +139,7 @@ Track consumed memories on index cards. When a character eats memory kelp:
 ### Integration with Aethermoor
 The Memory Meadows can bleed into Aethermoor during the convergence:
 - Crystal plague victims' memories grow here
-- The [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s forgotten sister exists only here
+- The [[Queen Seraphina Lumengarde]]'s forgotten sister exists only here
 - The true history of the Seven Shards is preserved in the pools
 
 ---

@@ -19,14 +19,14 @@ updated: 2025-08-10
 *The Shadow Syndicate, Masters of the Dark Trade, Lords of Corrupted Crystal*
 
 ## Overview
-Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and dangerous criminal organization, built around exploiting the growing [[02_Worldbuilding/Lore/Shadow Corruption]] that seeps through crystal networks. Named after their enigmatic leader [[Vex Shadowthorn the Kingpin]], this syndicate controls illegal activities across multiple floating cities, specializing in corrupted crystal trafficking, shadow-magic services, and exploiting the chaos caused by unstable [[02_Worldbuilding/Lore/The Seven Shards]]. They thrive in the gray areas where legitimate authorities fear to tread, offering services that respectable society needs but won't acknowledge.
+Vex Shadowthorn is [[Aethermoor]]'s most powerful and dangerous criminal organization, built around exploiting the growing [[Shadow Corruption]] that seeps through crystal networks. Named after their enigmatic leader [[Vex Shadowthorn the Kingpin]], this syndicate controls illegal activities across multiple floating cities, specializing in corrupted crystal trafficking, shadow-magic services, and exploiting the chaos caused by unstable [[The Seven Shards]]. They thrive in the gray areas where legitimate authorities fear to tread, offering services that respectable society needs but won't acknowledge.
 
 ## Origins & History
 
 ### The Founding Crime (15 Years Ago)
 **First Shadow Crystal Heist**
 - Young Vex Shadowthorn discovered shadow-corrupted crystals had unique properties
-- Assembled crew to steal from [[02_Worldbuilding/Groups/Silverscale Consortium]] transport
+- Assembled crew to steal from [[Silverscale Consortium]] transport
 - First successful theft of unstable crystal cargo worth fortune on black market
 - Realized shadow corruption created opportunities others feared to exploit
 - Established contacts for selling dangerous magical materials
@@ -51,7 +51,7 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 **Criminal Supremacy**
 - Controls majority of illegal crystal trade throughout Aethermoor
 - Expanded into information brokerage and political blackmail
-- Developed international connections with [[02_Worldbuilding/Places/Aquabyssos]] crime
+- Developed international connections with [[Aquabyssos]] crime
 - Created legitimate business fronts for money laundering
 - Built network of corrupted officials and shadow-touched assets
 
@@ -159,11 +159,11 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 
 #### Corrupted Crystal Technology
 **Enhanced Criminal Capabilities**
-- **[[02_Worldbuilding/Items/Shadow Sight Crystals]]**: See through illusions and magical concealment
-- **[[02_Worldbuilding/Items/Silence Stones]]**: Create zones where sound cannot escape
-- **[[02_Worldbuilding/Items/Phase Crystals]]**: Allow passage through solid barriers
-- **[[02_Worldbuilding/Items/Shadow Bind Gems]]**: Restrain victims with shadow tentacles
-- **[[02_Worldbuilding/Items/Memory Fog Crystals]]**: Cause temporary amnesia in witnesses
+- **[[Shadow Sight Crystals]]**: See through illusions and magical concealment
+- **[[Silence Stones]]**: Create zones where sound cannot escape
+- **[[Phase Crystals]]**: Allow passage through solid barriers
+- **[[Shadow Bind Gems]]**: Restrain victims with shadow tentacles
+- **[[Memory Fog Crystals]]**: Cause temporary amnesia in witnesses
 
 #### Corruption Exploitation
 **Using What Others Fear**
@@ -205,7 +205,7 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 - Infiltration of merchant guilds and trade organizations
 - Connections with other criminal organizations
 - Relationships with shadow-magic practitioners and researchers
-- International contacts in [[02_Worldbuilding/Places/Aquabyssos]] underworld
+- International contacts in [[Aquabyssos]] underworld
 
 ### Protected Operations
 - Crystal processing facilities hidden in dangerous zones
@@ -476,11 +476,11 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 ## Services & Capabilities
 
 ### What They Offer
-- **Illegal Transportation**: Smuggling people and goods through dangerous areas via [[02_Worldbuilding/Services/Shadow Route Network]]
-- **Shadow Enhancement**: Voluntary corruption procedures providing [[02_Worldbuilding/Abilities/Shadow-Touched Powers]]
-- **Information Services**: Intelligence gathering and blackmail material through [[02_Worldbuilding/Networks/Criminal Information Exchange]]
+- **Illegal Transportation**: Smuggling people and goods through dangerous areas via [[Shadow Route Network]]
+- **Shadow Enhancement**: Voluntary corruption procedures providing [[Shadow-Touched Powers]]
+- **Information Services**: Intelligence gathering and blackmail material through [[Criminal Information Exchange]]
 - **Protection Services**: Security from other criminals and corrupt officials
-- **Contraband Goods**: Access to dangerous or illegal items via [[02_Worldbuilding/Markets/Shadow Crystal Black Market]]
+- **Contraband Goods**: Access to dangerous or illegal items via [[Shadow Crystal Black Market]]
 - **Document Forgery**: False identities and legal documentation
 - **Debt Collection**: Aggressive recovery services using supernatural methods
 - **Assassination Services**: Contract killing using shadow-magic techniques
@@ -502,44 +502,44 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 ## Faction Items & Equipment
 
 ### Shadow-Enhanced Weapons
-- **[[02_Worldbuilding/Items/Shadowthorn Blades]]**: Weapons that phase through armor
-- **[[02_Worldbuilding/Items/Corruption Crossbows]]**: Bolts that spread shadow infection
-- **[[02_Worldbuilding/Items/Nightmare Whips]]**: Weapons that cause fear and paralysis
-- **[[02_Worldbuilding/Items/Shadow Binding Chains]]**: Restraints that adapt to prisoner struggles
-- **[[02_Worldbuilding/Items/Silencing Daggers]]**: Blades that prevent victims from crying out
-- **[[02_Worldbuilding/Items/Phase Bullets]]**: Ammunition that ignores physical barriers
-- **[[02_Worldbuilding/Items/Terror Grenades]]**: Explosives that cause panic and confusion
-- **[[02_Worldbuilding/Items/Memory Erasure Darts]]**: Projectiles that cause amnesia
+- **[[Shadowthorn Blades]]**: Weapons that phase through armor
+- **[[Corruption Crossbows]]**: Bolts that spread shadow infection
+- **[[Nightmare Whips]]**: Weapons that cause fear and paralysis
+- **[[Shadow Binding Chains]]**: Restraints that adapt to prisoner struggles
+- **[[Silencing Daggers]]**: Blades that prevent victims from crying out
+- **[[Phase Bullets]]**: Ammunition that ignores physical barriers
+- **[[Terror Grenades]]**: Explosives that cause panic and confusion
+- **[[Memory Erasure Darts]]**: Projectiles that cause amnesia
 
 ### Criminal Tools
-- **[[02_Worldbuilding/Items/Universal Lock Picks]]**: Crystal-powered tools that open any lock
-- **[[02_Worldbuilding/Items/Surveillance Defeating Cloaks]]**: Garments that prevent magical detection
-- **[[02_Worldbuilding/Items/Voice Changing Masks]]**: Disguises that alter speech patterns
-- **[[02_Worldbuilding/Items/Wall Walking Boots]]**: Footwear allowing movement on any surface
-- **[[02_Worldbuilding/Items/Dimension Pocket Bags]]**: Storage containers larger inside than outside
-- **[[02_Worldbuilding/Items/Truth Serum Antidotes]]**: Chemicals that resist interrogation magic
-- **[[02_Worldbuilding/Items/Evidence Destroying Acid]]**: Substances that eliminate forensic traces
-- **[[02_Worldbuilding/Items/Emergency Teleportation Crystals]]**: Escape devices for dangerous situations
+- **[[Universal Lock Picks]]**: Crystal-powered tools that open any lock
+- **[[Surveillance Defeating Cloaks]]**: Garments that prevent magical detection
+- **[[Voice Changing Masks]]**: Disguises that alter speech patterns
+- **[[Wall Walking Boots]]**: Footwear allowing movement on any surface
+- **[[Dimension Pocket Bags]]**: Storage containers larger inside than outside
+- **[[Truth Serum Antidotes]]**: Chemicals that resist interrogation magic
+- **[[Evidence Destroying Acid]]**: Substances that eliminate forensic traces
+- **[[Emergency Teleportation Crystals]]**: Escape devices for dangerous situations
 
 ### Communication Equipment
-- **[[02_Worldbuilding/Items/Shadow Message Crystals]]**: Undetectable communication devices
-- **[[02_Worldbuilding/Items/Encrypted Thought Transmitters]]**: Mental communication networks
-- **[[02_Worldbuilding/Items/Meeting Coordinate Generators]]**: Devices that create secure gathering spaces
-- **[[02_Worldbuilding/Items/Counter-Surveillance Scramblers]]**: Equipment that confuses investigation magic
-- **[[02_Worldbuilding/Items/Identity Verification Tokens]]**: Authentication devices for syndicate members
+- **[[Shadow Message Crystals]]**: Undetectable communication devices
+- **[[Encrypted Thought Transmitters]]**: Mental communication networks
+- **[[Meeting Coordinate Generators]]**: Devices that create secure gathering spaces
+- **[[Counter-Surveillance Scramblers]]**: Equipment that confuses investigation magic
+- **[[Identity Verification Tokens]]**: Authentication devices for syndicate members
 
 ### Shadow Crystal Technology
-- **[[02_Worldbuilding/Items/Corruption Amplifier Arrays]]**: Devices that enhance shadow-touched abilities
-- **[[02_Worldbuilding/Items/Crystal Processing Equipment]]**: Machinery for refining dangerous materials
-- **[[02_Worldbuilding/Items/Shadow Energy Storage Batteries]]**: Power sources for illegal magical devices
-- **[[02_Worldbuilding/Items/Corruption Detection Sensors]]**: Equipment that identifies shadow-touched individuals
-- **[[02_Worldbuilding/Items/Instability Prediction Computers]]**: Systems that forecast crystal network failures
+- **[[Corruption Amplifier Arrays]]**: Devices that enhance shadow-touched abilities
+- **[[Crystal Processing Equipment]]**: Machinery for refining dangerous materials
+- **[[Shadow Energy Storage Batteries]]**: Power sources for illegal magical devices
+- **[[Corruption Detection Sensors]]**: Equipment that identifies shadow-touched individuals
+- **[[Instability Prediction Computers]]**: Systems that forecast crystal network failures
 
 ## Secret Agendas & Conspiracies
 
 ### The True Purpose
 **Beyond Crime**
-Vex Shadowthorn the Kingpin is not simply a criminal leader but an agent of [[02_Worldbuilding/Lore/The Deep Mother]] working to spread shadow corruption throughout Aethermoor. The criminal activities are cover for systematic infection of the population.
+Vex Shadowthorn the Kingpin is not simply a criminal leader but an agent of [[The Deep Mother]] working to spread shadow corruption throughout Aethermoor. The criminal activities are cover for systematic infection of the population.
 
 ### The Corruption Experiment
 **Testing Enhancement Limits**
@@ -551,7 +551,7 @@ Long-term plans involve making shadow corruption socially acceptable and legally
 
 ### Cross-Realm Connections
 **International Conspiracy**
-The syndicate has secret partnerships with [[02_Worldbuilding/Groups/The Shadow Conspiracy]] in Aquabyssos, working to coordinate shadow corruption spread across both realms.
+The syndicate has secret partnerships with [[The Shadow Conspiracy]] in Aquabyssos, working to coordinate shadow corruption spread across both realms.
 
 ### The Enhancement Trap
 **Addiction by Design**
@@ -560,7 +560,7 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 ## Campaign Integration
 
 ### Connection to Main Themes
-- Represents the criminal exploitation of [[02_Worldbuilding/Themes/Shadow Corruption]]
+- Represents the criminal exploitation of [[Shadow Corruption]]
 - Links traditional crime with supernatural horror elements
 - Explores themes of enhancement, addiction, and moral compromise
 - Provides gray-area antagonists with understandable motivations
@@ -615,13 +615,13 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 - [[Vex Shadowthorn the Kingpin]] - Criminal mastermind and shadow-touched leader
 - [[Duchess Nightshade]] - Shadow magic expert and strategic planner
 - [[The Crimson Calculator]] - Financial genius and legitimacy advocate
-- [[02_Worldbuilding/People/The Crimson Sage]] - Potential connection or rival
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Cross-realm criminal contact
+- [[The Crimson Sage]] - Potential connection or rival
+- [[Shadow Duchess Nyx]] - Cross-realm criminal contact
 
 ### Important Locations
 - [[The Thorned Sanctuary]] - Criminal headquarters and fortress
 - [[Shadow's End]] - Criminal haven in corrupted territory
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary area of operations
+- [[Aethermoor]] - Primary area of operations
 - [[The Crystal Depths]] - Illegal mining operations
 - [[Nightmarket Plaza]] - Commercial front and trading center
 
@@ -634,7 +634,7 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 
 ### Opposing Organizations
 - [[The Crystal Guard]] - Primary law enforcement enemy
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents of corruption
+- [[Purist Coalition]] - Ideological opponents of corruption
 - [[The Old Families]] - Traditional crime displaced by syndicate
 - [[Anti-Corruption Task Force]] - Specialized law enforcement unit
 - [[International Law Enforcement]] - Cross-realm cooperation against crime

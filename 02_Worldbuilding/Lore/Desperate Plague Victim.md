@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-[[Mira Shadowtouched]] represents thousands of ordinary citizens throughout both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] who have been caught in the crossfire of cosmic forces beyond their understanding. A former seamstress from [[02_Worldbuilding/Places/Crystalhaven]], Mira contracted a severe case of [[Shadow Corruption]] while caring for infected family members. Now slowly dying from reality sickness, she has become a desperate wanderer seeking any cure, no matter how dangerous or morally compromising.
+[[Mira Shadowtouched]] represents thousands of ordinary citizens throughout both [[Aethermoor]] and [[Aquabyssos]] who have been caught in the crossfire of cosmic forces beyond their understanding. A former seamstress from [[Crystalhaven]], Mira contracted a severe case of [[Shadow Corruption]] while caring for infected family members. Now slowly dying from reality sickness, she has become a desperate wanderer seeking any cure, no matter how dangerous or morally compromising.
 
 Her story exemplifies the human tragedy underlying the grand cosmic drama of [[The Convergence Point]]—ordinary people suffering extraordinary consequences while powerful forces pursue their own agendas. Mira's desperate search for healing has led her into contact with every major faction and phenomenon in both worlds, making her both a victim and an unwitting catalyst for larger events.
 
@@ -23,7 +23,7 @@ Her story exemplifies the human tragedy underlying the grand cosmic drama of [[T
 
 ### Before the Corruption
 **Life as a Seamstress (Ages 16-34)**
-Mira lived a simple but fulfilling life in [[02_Worldbuilding/Places/Crystalhaven]]'s artisan district:
+Mira lived a simple but fulfilling life in [[Crystalhaven]]'s artisan district:
 - **Family Business**: Inherited her mother's tailoring shop specializing in crystal-enhanced fabrics
 - **Community Standing**: Respected member of the Seamstress Guild with steady clientele
 - **Personal Life**: Married to [[Gareth Brightweave]], a fellow textile worker, with two young children
@@ -111,7 +111,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 
 ### Cross-Dimensional Hope
 **Recent Developments (Months 12-18):**
-- **[[Customs House]] Crossing**: Illegally entered [[02_Worldbuilding/Places/Aquabyssos]] seeking different medical approaches
+- **[[Customs House]] Crossing**: Illegally entered [[Aquabyssos]] seeking different medical approaches
 - **Memory Therapy**: Attempted consciousness treatments that nearly drove her insane
 - **Pressure Experiments**: Underwent deep-sea pressure treatments that caused severe pain
 - **[[Crystal Garden]] Pilgrimage**: Visited healing sanctuary but was turned away due to corruption risk
@@ -151,7 +151,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 
 ## Interactions with Major Factions
 
-### [[02_Worldbuilding/Groups/The Crystal Throne]]
+### [[The Crystal Throne]]
 **Official Government Response:**
 - **Initial Contact**: Sought help from royal healers and government medical facilities
 - **Bureaucratic Obstacles**: Complicated paperwork and requirements for treatment
@@ -167,7 +167,7 @@ Unlike many corruption cases, Mira retains most of her individuality while the s
 - **Leverage Tactics**: Using her desperation and isolation to pressure recruitment
 - **Current Status**: Under consideration, maintaining contact while evaluating alternatives
 
-### [[02_Worldbuilding/Groups/The Unity Seekers]]
+### [[The Unity Seekers]]
 **Compassionate Response:**
 - **Unconditional Support**: Only faction offering help without demanding service in return
 - **Resource Sharing**: Providing basic necessities and emotional support
@@ -256,7 +256,7 @@ Mira's story illustrates how ordinary people suffer when powerful forces clash:
 **Traditional Healing:**
 - **[[Healing Two Worlds]] Techniques**: Unity-based approaches to corruption treatment
 - **[[Crystal Garden]] Sanctuary**: Possible healing in stable merged reality zone
-- **Divine Intervention**: Direct assistance from [[02_Worldbuilding/People/The Crimson Sage]] or [[The Deep Mother]]
+- **Divine Intervention**: Direct assistance from [[The Crimson Sage]] or [[The Deep Mother]]
 - **Convergence Resolution**: Corruption eliminated when dimensional wounds heal
 - **Medical Breakthrough**: Scientific discovery enabling corruption reversal
 

@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Financial Institution
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Aquatic Bank - Underwater Financial Institution

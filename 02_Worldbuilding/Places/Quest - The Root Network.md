@@ -12,6 +12,7 @@ party_size: "4-6 characters"
 duration: "6-9 sessions"
 difficulty: "Hard"
 primary_location: "The Verdant Reach underground network and surrounding regions"
+danger_level: Moderate
 ---
 
 # Quest - The Root Network

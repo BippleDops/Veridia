@@ -461,15 +461,15 @@ Involvement with Exchange operations provides numerous opportunities for charact
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location hosting Exchange operations
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary interdimensional trading partner
-- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
-- [[02_Worldbuilding/Groups/The Shadow Trade Network]] - Commercial organization utilizing Exchange services
-- [[02_Worldbuilding/Groups/The Liminal Trading Company]] - Major Exchange trading partner
-- [[02_Worldbuilding/People/Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
-- [[02_Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
-- [[02_Worldbuilding/People/Portal Engineer Shade Linkwright]] - Technical systems specialist
-- [[02_Worldbuilding/People/Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
-- [[02_Worldbuilding/People/Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
+- [[Aquabyssos]] - Primary location hosting Exchange operations
+- [[Aethermoor]] - Primary interdimensional trading partner
+- [[Shadow Magic Integration Practices]] - Related magical technology supporting Exchange operations
+- [[The Shadow Trade Network]] - Commercial organization utilizing Exchange services
+- [[The Liminal Trading Company]] - Major Exchange trading partner
+- [[Prime Shadow Trader Whisper Voidwright]] - Director of Umbral Commerce Operations
+- [[Dimensional Security Chief Echo Gatekeeper]] - Exchange security director
+- [[Portal Engineer Shade Linkwright]] - Technical systems specialist
+- [[Cultural Liaison Twilight Bridgewalker]] - Cross-dimensional cultural expert
+- [[Market Analyst Dream Trendwatcher]] - Interdimensional market research specialist
 
 The Umbral Exchange represents more than a technological achievement or economic infrastructure—it embodies Aquabyssos' bold vision of a future where the boundaries between dimensions become pathways for cooperation, understanding, and mutual prosperity. Through this remarkable system, the very concept of reality becomes fluid, commerce transcends physical limitations, and the impossible becomes merely another commodity in the marketplace of infinite possibility.

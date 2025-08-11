@@ -6,7 +6,7 @@ type: "location"
 category: "Dungeon/Lair"
 depth: "3000-5000 feet"
 difficulty: "Levels 16-20"
-ruler: "[[02_Worldbuilding/People/Aboleth Prime Yoth]]"
+ruler: "[[Aboleth Prime Yoth]]"
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-09
@@ -14,13 +14,14 @@ updated: 2025-08-09
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Deepmind
 *The Living Palace of Thought, Memory Made Manifest, The Neural Throne*
 
 ## Overview
-The Deepmind is a massive organic structure that serves as both the lair and extended body of [[02_Worldbuilding/People/Aboleth Prime Yoth]]. Located in the crushing depths beneath [[02_Worldbuilding/Places/Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
+The Deepmind is a massive organic structure that serves as both the lair and extended body of [[Aboleth Prime Yoth]]. Located in the crushing depths beneath [[Abyssos Prime]], this living dungeon has grown over twelve millennia from Yoth's own flesh and psychic emanations. It functions as a physical manifestation of collective memory, storing the stolen thoughts and experiences of countless beings within its pulsing, neural architecture.
 
 ## Physical Description
 
@@ -84,7 +85,7 @@ Travelers approaching The Deepmind experience:
 ## Inhabitants & Denizens
 
 ### Permanent Residents
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Supreme ruler
+- **[[Aboleth Prime Yoth]]**: Supreme ruler
 - **Lesser Aboleths** (12): Extensions of Yoth's will
 - **Memory Collectors**: Specialized servant creatures
 - **Thought Thieves**: Invisible psychic parasites
@@ -259,21 +260,21 @@ Yoth can take one lair action per round:
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Creator and consciousness
-- [[02_Worldbuilding/People/Senator Glaucus]] - Frequent visitor
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Born here
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Knows weaknesses
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sees its true nature
+- [[Aboleth Prime Yoth]] - Creator and consciousness
+- [[Senator Glaucus]] - Frequent visitor
+- [[Shadow Duchess Nyx]] - Born here
+- [[The Scattered Emperor]] - Knows weaknesses
+- [[Prophet Nerida Voidgazer]] - Sees its true nature
 
 ### Related Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Puppet government
-- [[02_Worldbuilding/Places/Abyssos Prime]] - City above
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Deeper connections
+- [[Parliament of Echoes]] - Puppet government
+- [[Abyssos Prime]] - City above
+- [[The Hadal Depths]] - Deeper connections
 - [[Memory Meadows]] - Opposite aspect
 - [[Shadow Markets]] - Trade stolen memories
 
 ### Important Quests
-- [[02_Worldbuilding/Quests/Quest - The Shadow Conspiracy]]
+- [[Quest - The Shadow Conspiracy]]
 - [[Quest - The Memory Thieves]]
 - [[Quest - Liberation of The Deepmind]]
 - [[Quest - The Collective Consciousness]]

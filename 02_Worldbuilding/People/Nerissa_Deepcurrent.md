@@ -22,12 +22,12 @@ in_combat: true
 initiative: 12
 relationships: 
   - "[[Commander Varek Irontrident]]"
-  - "[[02_Worldbuilding/People/The_Crimson_Pearl]]"
+  - "[[The_Crimson_Pearl]]"
   - "[[Aboleth Prime Yoth]]"
   - "[[Prophet Miralyn Surfacer]]"
   - "[[Emperor Thalassius the Wise]]"
 related_quests:
-  - "[[02_Worldbuilding/Quests/The_Second_Rising]]"
+  - "[[The_Second_Rising]]"
   - "[[Diplomatic Tides]]"
   - "[[The Depth Accords]]"
 last_encounter: ""
@@ -72,7 +72,7 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 - **[[The Pearl Guard]]** - Elite protectors
 
 ### Rivals
-- **[[02_Worldbuilding/People/The_Crimson_Pearl]]** - Necessary evil, controls too much trade
+- **[[The_Crimson_Pearl]]** - Necessary evil, controls too much trade
 - **[[Prophet Miralyn Surfacer]]** - Dangerous idealist threatening stability
 - **[[Aboleth Prime Yoth]]** - Ancient threat that must be contained
 
@@ -89,13 +89,13 @@ Her own visions show two paths:
 She seeks a third option but hasn't found it.
 
 ### The Pressure Wars
-- [[02_Worldbuilding/Places/Pearl_Harbor_City]] grows too independent
+- [[Pearl_Harbor_City]] grows too independent
 - [[The Maw of Darkness]] stirs with ancient evil
 - Resources stretched thin across seven depths
 
 ### Surface Relations
 - Trade is necessary but brings contamination
-- [[02_Worldbuilding/People/Gareth_Ironforge]] offers alliance but at what cost?
+- [[Gareth_Ironforge]] offers alliance but at what cost?
 - Surface nations eye Aquabyssos's resources greedily
 
 ## Powers & Abilities
@@ -140,7 +140,7 @@ She seeks a third option but hasn't found it.
 - Frustrated by his rigid thinking
 - Relies on him absolutely for defense
 
-### [[02_Worldbuilding/People/The_Crimson_Pearl]]
+### [[The_Crimson_Pearl]]
 "A parasite that keeps the body functioning."
 - Knows she's corrupt but needs her network
 - Has evidence of her crimes but can't act
@@ -160,8 +160,8 @@ She seeks a third option but hasn't found it.
 
 ## Quest Hooks
 
-1. **[[02_Worldbuilding/Lore/Tide Turner's Trident|The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
-2. **[[02_Worldbuilding/Quests/The Crown's Burden|Oracle's Burden]]** - Help her break the prophetic curse
+1. **[[Tide Turner's Trident|The Tidecaller's Doubt]]** - She secretly seeks proof the surface is safe
+2. **[[The Crown's Burden|Oracle's Burden]]** - Help her break the prophetic curse
 3. **[[The Seven Seals]]** - Gather the Depth Seals before enemies do
 4. **Diplomatic Immunity** - Escort her to dangerous negotiations
 

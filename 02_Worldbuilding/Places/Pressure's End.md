@@ -3,7 +3,7 @@ tags: [location, city, midnight_expanse, military_stronghold]
 aliases: [Pressure's End, The Iron Deep, The Last Stand]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/pressures_end.jpg"
-danger_level: "High"
+danger_level: High
 population: 35000
   - Category/Place
 MyContainer: None
@@ -14,12 +14,12 @@ obsidianUIMode: preview
 # Pressure's End - The Iron Deep
 
 ## Overview
-Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]]. This fortress-city serves as headquarters for the [[Depth Wardens]] and stands as the last major defense against the horrors rising from [[The Hadal Depths]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
+Carved into a massive underwater cliff face at 3,500 feet depth, Pressure's End is the military heart of [[Aquabyssos World Overview|Aquabyssos]]. This fortress-city serves as headquarters for the [[Depth Wardens]] and stands as the last major defense against the horrors rising from [[The Hadal Depths]]. Built from reinforced stone and pearlsteel, it's the only city that has never fallen to deep-sea invasion.
 
 ## Districts
 
 ### The Garrison Deeps
-Military quarter housing the [[Depth Wardens]]' barracks, training grounds, and armories. [[02_Worldbuilding/People/Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
+Military quarter housing the [[Depth Wardens]]' barracks, training grounds, and armories. [[Admiral Thorne Blackwater]] commands from the Strategic Depth Chamber, a room where pressure can be adjusted to simulate any depth.
 
 ### The Forge Trenches
 Industrial district where [[Master Smith Vulcan Deepforge]] oversees the creation of pressure-resistant weapons and armor. The forges burn with eternal flame preserved from before [[The Great Drowning]].
@@ -65,7 +65,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 [[Supplier Erikson Tidecaller]] provides specialized equipment for deep expeditions, including pressure suits and emergency ascent magic.
 
 ## Government & Law
-- Military dictatorship under [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- Military dictatorship under [[Admiral Thorne Blackwater]]
 - Martial law enforced by the [[Depth Wardens]]
 - Civilian council exists but has little power
 - Justice is swift and harsh, with execution common
@@ -91,10 +91,10 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 
 ## Current Events
 1. Increased activity detected in [[The Hadal Depths]]
-2. Conflict with [[02_Worldbuilding/Places/Lumengarde]] over bioweapon development
+2. Conflict with [[Lumengarde]] over bioweapon development
 3. Several scout patrols have failed to return
 4. Political pressure to expand military control
-5. Discovery of massive creature movement in [[02_Worldbuilding/Places/The Cerulean Trench]]
+5. Discovery of massive creature movement in [[The Cerulean Trench]]
 
 ## Secrets
 > [!warning] DM Only
@@ -117,7 +117,7 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 10. Veterans protesting treatment
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Supreme Commander
+- [[Admiral Thorne Blackwater]] - Supreme Commander
 - [[Master Smith Vulcan Deepforge]] - Chief Armorer
 - [[Commander Drake Pressureborn]] - Training Master
 - [[Warden Marcus Stonehand]] - Prison Commander
@@ -128,15 +128,15 @@ Inn catering to deep scouts and travelers, run by [[Innkeeper Mara Ironlung]]. E
 - [[Quartermaster Judith Steadfast]] - Supply Chief
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Bathyal Palace]] - Uneasy alliance
+- [[The Bathyal Palace]] - Uneasy alliance
 - [[The Hadal Depths]] - Primary threat
-- [[02_Worldbuilding/Places/New Tethys]] - Military contracts
-- [[02_Worldbuilding/Places/The Cerulean Trench]] - Patrol area
+- [[New Tethys]] - Military contracts
+- [[The Cerulean Trench]] - Patrol area
 - [[The Lock]] - Prison complex
 
 ## Quests Available
 - [[The Deep Patrol]] - Scout the increasing threats
-- [[02_Worldbuilding/Lore/The Deserter's Tale|The Deserter's Tale]] - Track down missing soldiers
+- [[The Deserter's Tale|The Deserter's Tale]] - Track down missing soldiers
 - [[Forge of War]] - Acquire rare materials for weapons
 - [[Breaking the Deep]] - Assault on deep creature stronghold
 - [[The Pressure Conspiracy]] - Uncover the coup plot

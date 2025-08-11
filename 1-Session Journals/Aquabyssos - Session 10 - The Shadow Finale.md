@@ -20,8 +20,8 @@ themes:
   - Teaching empathy to a god
 quests_advanced:
   - [[The Final Choice]]
-  - [[02_Worldbuilding/Lore/Save-Transform Reality|Save/Transform Reality]]
-- [[02_Worldbuilding/Lore/Determine Aquabyssos|Determine Aquabyssos's Fate]]
+  - [[Save-Transform Reality|Save/Transform Reality]]
+- [[Determine Aquabyssos|Determine Aquabyssos's Fate]]
 type: Session Journal
 MyContainer: None
 MyCategory: Unknown
@@ -234,7 +234,7 @@ As reality settles into its new configuration, the party stands at the threshold
 
 Marina (or her echo) speaks one last time: "We did something impossible. We made a god feel. We taught the universe empathy. We proved that even shadows can cast light."
 
-The [[02_Worldbuilding/People/Shadow Duchess Nyx]], original and shadow unified or forever separated based on choices, adds: "The Parliament of Shadows will remember this. All parliaments will. When the next Singer comes—and one will come—we'll be ready."
+The [[Shadow Duchess Nyx]], original and shadow unified or forever separated based on choices, adds: "The Parliament of Shadows will remember this. All parliaments will. When the next Singer comes—and one will come—we'll be ready."
 
 The party looks out at their transformed world. Aquabyssos is forever changed:
 - If floating: Crystal bridges connect to surface

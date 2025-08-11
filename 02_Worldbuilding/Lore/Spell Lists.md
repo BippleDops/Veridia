@@ -596,13 +596,13 @@ Magic that is forbidden due to dangerous consequences or corrupted nature.
 - **Defensive Applications**: Using environmental magic to protect communities
 
 ## Connected Magical Systems and Organizations
-- [[02_Worldbuilding/Lore/Spell Components]] - Materials and focuses for magical casting
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-transmutation]] - Transformation and adaptation magic
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation]] - Energy and force manipulation magic
-- [[02_Worldbuilding/Lore/Institute of Unified Magic]] - Premier cross-realm magical research institution
-- [[02_Worldbuilding/People/Archmage Tidal Currentweave]] - Master of both magical traditions
-- [[02_Worldbuilding/People/Biomancer Corvus Intestinal]] - Specialist in biological manipulation magic
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Location where crystal-based magic is developed
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Facility for researching harmonic and frequency magic
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical development center
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface magical research hub
+- [[Spell Components]] - Materials and focuses for magical casting
+- [[Ω_System-CLI-spells-school-transmutation]] - Transformation and adaptation magic
+- [[Ω_System-CLI-spells-school-evocation]] - Energy and force manipulation magic
+- [[Institute of Unified Magic]] - Premier cross-realm magical research institution
+- [[Archmage Tidal Currentweave]] - Master of both magical traditions
+- [[Biomancer Corvus Intestinal]] - Specialist in biological manipulation magic
+- [[Crystal Forest]] - Location where crystal-based magic is developed
+- [[Resonance Chamber]] - Facility for researching harmonic and frequency magic
+- [[Aquabyssos]] - Primary underwater magical development center
+- [[Aethermoor]] - Primary surface magical research hub

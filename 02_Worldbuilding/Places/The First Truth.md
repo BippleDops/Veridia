@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Philosophy
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The First Truth

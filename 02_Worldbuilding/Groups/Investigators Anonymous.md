@@ -21,7 +21,7 @@ obsidianUIMode: preview
 
 ## Organization Overview
 
-Investigators Anonymous represents the most sophisticated intelligence and investigation network in [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]], operating as a secret society dedicated to uncovering truth regardless of political consequences. Founded by refugees from law enforcement agencies who became disgusted with corruption and cover-ups, the organization fills the crucial gap between official investigators (who are often compromised) and criminal information brokers (who care only about profit).
+Investigators Anonymous represents the most sophisticated intelligence and investigation network in [[Aquabyssos World Overview|Aquabyssos]], operating as a secret society dedicated to uncovering truth regardless of political consequences. Founded by refugees from law enforcement agencies who became disgusted with corruption and cover-ups, the organization fills the crucial gap between official investigators (who are often compromised) and criminal information brokers (who care only about profit).
 
 Unlike traditional detective agencies, Investigators Anonymous operates on principles of absolute anonymity and collective knowledge sharing. Members never know each other's identities, cases are distributed through coded networks, and payment comes not in currency but in information exchange. The organization has evolved into something between a professional guild and a philosophical movement, united by the belief that truth-seeking is both a sacred duty and a necessary tool for survival in the transformed world.
 
@@ -30,7 +30,7 @@ The Investigators maintain vast databases of unsolved mysteries, criminal patter
 ## History and Foundation
 
 ### The Great Corruption Scandal (350 years post-Drowning)
-The organization emerged from the aftermath of a massive corruption scandal that revealed how deeply the early [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|Depth Hierarchy]] government had been compromised. When several high-ranking officials were discovered selling government positions to [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|Deep Dreamers]] infiltrators, the scandal destroyed public trust in official investigations.
+The organization emerged from the aftermath of a massive corruption scandal that revealed how deeply the early [[Aquabyssos World Overview#Government The Depth Hierarchy|Depth Hierarchy]] government had been compromised. When several high-ranking officials were discovered selling government positions to [[Aquabyssos World Overview#The Deep Dreamers|Deep Dreamers]] infiltrators, the scandal destroyed public trust in official investigations.
 
 ### The Anonymous Accords (348 years post-Drowning)
 **Detective-Prime Clarity Truthseeker** and twelve other disgraced law enforcement officials established the founding principles of Investigators Anonymous: absolute anonymity for operatives, shared intelligence networks, and independence from all political factions. They established the first "Archive of Questions" - a hidden repository of unsolved cases and suspicious activities.
@@ -150,7 +150,7 @@ The organization actively protects itself from infiltration and manipulation, us
 
 ### Valued Clients
 
-#### [[02_Worldbuilding/Groups/Merchant's Covenant|Merchant's Covenant]]
+#### [[Merchant's Covenant|Merchant's Covenant]]
 **Relationship**: Professional Partnership
 The Covenant provides research resources and historical context for investigations, while Investigators Anonymous offers intelligence about criminal activities affecting trade networks. Both organizations value information and maintain professional neutrality.
 
@@ -160,29 +160,29 @@ The organization's core mission focuses on serving individuals and groups who la
 
 ### Complex Professional Relationships
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
+#### [[Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
 **Relationship**: Cautious Cooperation
 While officially neutral, many government officials privately use Anonymous services for sensitive investigations they can't conduct through official channels. The relationship is complicated by the organization's willingness to investigate government corruption.
 
-#### [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+#### [[Order of the Drowned Star|Order of the Drowned Star]]
 **Relationship**: Respectful Distance
 The Order appreciates the Anonymous commitment to truth and justice, but their military structure conflicts with Anonymous anarchic principles. Occasional cooperation on cases involving threats to civilian safety.
 
 ### Hostile Relationships
 
-#### [[02_Worldbuilding/Groups/Cult of Screams|Cult of Screams]]
+#### [[Cult of Screams|Cult of Screams]]
 **Relationship**: Active Opposition
 The Cult's terrorist activities create numerous cases for Anonymous investigators. The organization has become expert at investigating acoustic terrorism and protecting witnesses from Cult retaliation.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
+#### [[Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
 **Relationship**: Investigative Target
 The Deep Dreamers' infiltration networks make them frequent subjects of Anonymous investigations. The organization has extensive files on Dreamer activities and maintains special protocols for cases involving reality-warping phenomena.
 
 ### Dangerous Associations
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Void Touched|The Void Touched]]
+#### [[Aquabyssos World Overview#The Void Touched|The Void Touched]]
 **Relationship**: Necessary Expertise
-Some cases require investigation of [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|Hadean Depth]] phenomena that only Void Touched individuals can survive. These collaborations are extremely dangerous but sometimes necessary.
+Some cases require investigation of [[Aquabyssos World Overview#The Three Depths|Hadean Depth]] phenomena that only Void Touched individuals can survive. These collaborations are extremely dangerous but sometimes necessary.
 
 #### Corrupt Officials Across All Factions
 **Relationship**: Investigative Targets
@@ -249,22 +249,22 @@ Investigators Anonymous maintains hidden facilities at every major depth level:
 ## Internal Wiki-Style Links
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Merchant's Covenant|Merchant's Covenant]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
-- [[02_Worldbuilding/Groups/Cult of Screams|Cult of Screams]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
+- [[Merchant's Covenant|Merchant's Covenant]]
+- [[Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
+- [[Cult of Screams|Cult of Screams]]
+- [[Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
 
 **Key Locations**:
 - [[The Archive of Questions]]
 - [[Deep Investigation Posts]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|The Three Depths]]
+- [[Aquabyssos World Overview#The Three Depths|The Three Depths]]
 - [[Witness Protection Network]]
 
 **Historical Events**:
 - [[The Great Corruption Scandal]]
 - [[The Anonymous Accords]]
 - [[The Code Wars]]
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|The Great Drowning]]
+- [[Aquabyssos World Overview#The Great Drowning|The Great Drowning]]
 
 **Notable NPCs**:
 - [[The Anonymous Inquisitor]]

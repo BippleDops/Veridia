@@ -15,10 +15,10 @@ obsidianUIMode: preview
 *When the cure becomes worse than the disease*
 
 ## Quest Overview
-[[02_Worldbuilding/People/Sorrow-Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[02_Worldbuilding/Places/The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
+[[Sorrow-Root Nightbloom]] has completed their fungal weapon designed to kill anyone exposed to crystal corruption. With 90% of Aethermoor's population having some crystal exposure, this represents genocide. The party must navigate the dangerous [[The Synthesis Gardens]], stop the weapon's deployment, and decide whether Sorrow-Root is villain or inadvertent savior.
 
 ## Quest Giver
-**[[02_Worldbuilding/People/Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.
+**[[Archdruid Thornweaver]]** desperately seeks help after several of his druids were corrupted attempting to stop their former colleague. Alternatively, **[[Sir Marcus Dawnforge]]** receives intelligence about the threat through his underground network.
 
 ## Background
 Sorrow-Root's research has uncovered a terrible truth: the [[Aether Crystals]] aren't just corrupting magic stones - they're eggs of an extraplanar parasite. The Green Death might be the only way to stop a worse catastrophe, but at the cost of nearly everyone in Aethermoor.
@@ -26,7 +26,7 @@ Sorrow-Root's research has uncovered a terrible truth: the [[Aether Crystals]] a
 ## Objectives
 
 ### Primary Objectives
-1. Infiltrate [[02_Worldbuilding/Places/The Synthesis Gardens]]
+1. Infiltrate [[The Synthesis Gardens]]
 2. Stop or delay the Green Death deployment
 3. Discover the truth about the crystal parasites
 4. Make the impossible choice: genocide or potential extinction
@@ -39,12 +39,12 @@ Sorrow-Root's research has uncovered a terrible truth: the [[Aether Crystals]] a
 - Secure research data about crystal origins
 
 ## Key NPCs Involved
-- **[[02_Worldbuilding/People/Sorrow-Root Nightbloom]]** - Primary antagonist with valid concerns
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Desperate to save both nature and people
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]** - Secretly funding research for his own purposes
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Has Confederate resources that might help
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - May temporarily ally against this threat
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Knows the truth about the crystals
+- **[[Sorrow-Root Nightbloom]]** - Primary antagonist with valid concerns
+- **[[Archdruid Thornweaver]]** - Desperate to save both nature and people
+- **[[Ambassador Korvin Blacktide]]** - Secretly funding research for his own purposes
+- **[[Zephyr Goldwhisper]]** - Has Confederate resources that might help
+- **[[High Inquisitor Maltheos]]** - May temporarily ally against this threat
+- **[[The Crimson Sage]]** - Knows the truth about the crystals
 
 ## Investigation Discoveries
 
@@ -53,7 +53,7 @@ Through Sorrow-Root's research notes, the party learns:
 - Crystals are indeed eggs that will hatch in 2-3 years
 - The parasites feed on life force and magic
 - Each infected person becomes an incubator
-- [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron) has been trying to prevent this
+- [[The Crimson Sage]] (Aetheron) has been trying to prevent this
 
 ### The Green Death Mechanism
 - Fungal spores that target crystal-corrupted tissue
@@ -65,8 +65,8 @@ Through Sorrow-Root's research notes, the party learns:
 ### Alternative Solutions
 Hidden in the research:
 - Batch 7-Alpha can reverse corruption if mass-produced
-- [[02_Worldbuilding/Places/Goldspire Port]]'s null technology might destroy eggs
-- The [[02_Worldbuilding/Lore/The Seven Shards]] united might purge all corruption
+- [[Goldspire Port]]'s null technology might destroy eggs
+- The [[The Seven Shards]] united might purge all corruption
 - [[Aquabyssos]] magic could transform people to survive
 
 ## Paths Through the Gardens
@@ -91,7 +91,7 @@ Hidden in the research:
 
 ### The Alliance Option
 - Unite unlikely allies against threat
-- Bring [[02_Worldbuilding/People/High Inquisitor Maltheos]] and [[02_Worldbuilding/People/Archdruid Thornweaver]] together
+- Bring [[High Inquisitor Maltheos]] and [[Archdruid Thornweaver]] together
 - Coordinate multi-pronged approach
 - Risk: Alliance instability, conflicting goals
 
@@ -169,7 +169,7 @@ Hidden in the research:
 - Crystal parasites remain active threat
 - Must find alternative solution quickly
 - Sorrow-Root becomes recurring villain or tragic ally
-- [[02_Worldbuilding/Places/The Synthesis Gardens]] continues spreading
+- [[The Synthesis Gardens]] continues spreading
 
 ### If Green Death Deployed
 - 90% population death

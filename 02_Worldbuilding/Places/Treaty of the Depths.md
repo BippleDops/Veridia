@@ -14,6 +14,7 @@ primary_participants: "Aquabyssos and Aethermoor"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Treaty of the Depths

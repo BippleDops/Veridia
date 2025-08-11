@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Medical
 obsidianUIMode: preview
+cr: 7
 ---
 
 # Find the Shadow Cure

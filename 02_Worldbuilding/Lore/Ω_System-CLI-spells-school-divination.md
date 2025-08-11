@@ -239,8 +239,8 @@ Divination magic works synergistically with other magical traditions:
 - **Knowledge Integration**: Processing large amounts of magical information effectively
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-enchantment]] - Mental influence using divined knowledge
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protecting against divination and mental intrusion
-- [[02_Worldbuilding/Lore/The Crystal Networks]] - Ancient information storage and communication
-- [[02_Worldbuilding/Lore/Parliament of Echoes]] - Government body relying on prophetic guidance
-- [[02_Worldbuilding/Lore/The Observatory of Depths]] - Research institution for cosmic divination
+- [[Ω_System-CLI-spells-school-enchantment]] - Mental influence using divined knowledge
+- [[Ω_System-CLI-spells-school-abjuration]] - Protecting against divination and mental intrusion
+- [[The Crystal Networks]] - Ancient information storage and communication
+- [[Parliament of Echoes]] - Government body relying on prophetic guidance
+- [[The Observatory of Depths]] - Research institution for cosmic divination

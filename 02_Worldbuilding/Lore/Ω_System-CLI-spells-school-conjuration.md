@@ -232,8 +232,8 @@ Conjuration magic works synergistically with other magical traditions:
 - **Resource Logistics**: Balancing the convenience of conjuration with magical energy costs
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protective magic for summoning safety
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-divination]] - Locating and identifying summoning targets
-- [[02_Worldbuilding/Lore/The Crystal Networks]] - Anchor points for permanent transportation
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Source of void space connections
-- [[02_Worldbuilding/Lore/Deep Current Academy]] - Primary institution for conjuration study
+- [[Ω_System-CLI-spells-school-abjuration]] - Protective magic for summoning safety
+- [[Ω_System-CLI-spells-school-divination]] - Locating and identifying summoning targets
+- [[The Crystal Networks]] - Anchor points for permanent transportation
+- [[The Abyss Beneath Aquabyssos]] - Source of void space connections
+- [[Deep Current Academy]] - Primary institution for conjuration study

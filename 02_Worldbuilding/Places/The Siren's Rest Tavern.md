@@ -3,7 +3,7 @@ tags: [location, aethermoor, tavern, port, sailors, smuggling, gambling, enterta
 status: "complete"
 world: "Aethermoor"
 type: "location"
-danger_level: "moderate"
+danger_level: Moderate
 access: "public"
 region: "Port District"
 city: "Port Crystalfall"

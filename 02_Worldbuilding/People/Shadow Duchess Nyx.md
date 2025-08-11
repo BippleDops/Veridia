@@ -155,24 +155,24 @@ That she IS a shadow who killed her original
 ## 🔗 Relationships
 
 ### Allies (Tenuous)
-- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Mutual benefit, both oppose shadow conspiracy
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Information exchange between two unique shadow-resistant individuals
-- **[[02_Worldbuilding/Groups/Shadowless Cult]]** - Devoted followers who worship her shadow-free state
-- **[[02_Worldbuilding/People/Original Glaucus]]** - Imprisoned senator she might rescue to prove shadows can be defeated
+- **[[The Scattered Emperor]]** - Mutual benefit, both oppose shadow conspiracy
+- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Information exchange between two unique shadow-resistant individuals
+- **[[Shadowless Cult]]** - Devoted followers who worship her shadow-free state
+- **[[Original Glaucus]]** - Imprisoned senator she might rescue to prove shadows can be defeated
 
 ### Enemies
-- **[[02_Worldbuilding/Groups/Shadow Liberation Front]]** - Shadows seeking independence from originals
-- **[[02_Worldbuilding/People/Senator Glaucus]]** - Shadow replacement she can detect and destroy
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]** - Organized shadow replacement network
-- **Most of [[02_Worldbuilding/Places/Tenebrarum]]** - Feared ruler governing through terror
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient mind that might control shadows
+- **[[Shadow Liberation Front]]** - Shadows seeking independence from originals
+- **[[Senator Glaucus]]** - Shadow replacement she can detect and destroy
+- **[[The Shadow Conspiracy]]** - Organized shadow replacement network
+- **Most of [[Tenebrarum]]** - Feared ruler governing through terror
+- **[[Aboleth Prime Yoth]]** - Ancient mind that might control shadows
 
 ### Complicated
 - **Her own shadow** - Destroyed but psychologically haunts her thoughts
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - Investigating shadow infiltration but mistrusted
-- **[[02_Worldbuilding/Groups/Surface Seekers]]** - Potential allies who might accept her shadowless state
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Military leader who might value her anti-shadow abilities
-- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Oracle who might know the true cost of shadowlessness
+- **[[Parliament of Echoes]]** - Investigating shadow infiltration but mistrusted
+- **[[Surface Seekers]]** - Potential allies who might accept her shadowless state
+- **[[Admiral Thorne Blackwater]]** - Military leader who might value her anti-shadow abilities
+- **[[Elder Whisper-In-The-Dark]]** - Oracle who might know the true cost of shadowlessness
 
 ## Associates & Power Network
 
@@ -184,7 +184,7 @@ That she IS a shadow who killed her original
 
 ### Intelligence Network
 - **Light Spies** - Operatives who can function in bright environments
-- **Shadow Market Informants** - Contacts within [[02_Worldbuilding/Places/The Shadow Markets]]
+- **Shadow Market Informants** - Contacts within [[The Shadow Markets]]
 - **Parliament Infiltrators** - Agents monitoring government for shadow replacement
 - **Tenebrarum Enforcers** - Those who maintain order through fear and violence
 
@@ -197,7 +197,7 @@ That she IS a shadow who killed her original
 4. **The Fear Itself**: Protect Nyx from shadow assassination
 
 ### Campaign Integration
-- Key figure in [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]
+- Key figure in [[The Parliament of Shadows Campaign]]
 - Potential ally against shadow conspiracy
 - Source of shadow-related equipment/knowledge
 - Living example of the cost of power

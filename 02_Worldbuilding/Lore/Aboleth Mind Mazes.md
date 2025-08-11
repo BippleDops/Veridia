@@ -7,7 +7,7 @@ danger_level: 10
 created_by: "worldbuilder"
 created: 2025-08-09
 updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Deep Mother]]", "[[02_Worldbuilding/People/Aboleth Prime Yoth]]", "[[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]]"]
+related_entities: ["[[Deep Mother]]", "[[Aboleth Prime Yoth]]", "[[The Abyss Beneath Aquabyssos]]"]
 ---
 
 # Aboleth Mind Mazes
@@ -15,9 +15,9 @@ related_entities: ["[[02_Worldbuilding/Lore/Deep Mother]]", "[[02_Worldbuilding/
 
 ## Overview
 
-The Aboleth Mind Mazes are horrifying psionic constructs created by ancient [[02_Worldbuilding/People/Aboleth Prime Yoth|aboleths]] as both torture chambers and breeding grounds for madness. These intricate mental labyrinths trap the consciousness of victims while their bodies remain catatonic, serving the alien desires of their aberrant creators. Found in the deepest trenches of [[Aquabyssos]], particularly near [[02_Worldbuilding/Places/The Abyss Beneath Aquabyssos]], these mazes represent one of the most insidious threats to explorers of the deep.
+The Aboleth Mind Mazes are horrifying psionic constructs created by ancient [[Aboleth Prime Yoth|aboleths]] as both torture chambers and breeding grounds for madness. These intricate mental labyrinths trap the consciousness of victims while their bodies remain catatonic, serving the alien desires of their aberrant creators. Found in the deepest trenches of [[Aquabyssos]], particularly near [[The Abyss Beneath Aquabyssos]], these mazes represent one of the most insidious threats to explorers of the deep.
 
-Each maze is a unique psychological architecture tailored to its victim, designed to slowly dissolve their sense of self while harvesting their memories, emotions, and knowledge for the [[02_Worldbuilding/Lore/Deep Mother]]'s incomprehensible purposes.
+Each maze is a unique psychological architecture tailored to its victim, designed to slowly dissolve their sense of self while harvesting their memories, emotions, and knowledge for the [[Deep Mother]]'s incomprehensible purposes.
 
 ## Structure & Mechanics
 
@@ -43,7 +43,7 @@ The Mind Mazes exist as complex geometric patterns in pure thought, manifesting 
 **Trigger Conditions:**
 - Failed Wisdom save (DC 20) against aboleth domination
 - Voluntary entry through psionic research
-- Exposure to corrupted [[02_Worldbuilding/People/Memory Trader|memory pearls]]
+- Exposure to corrupted [[Memory Trader|memory pearls]]
 - Contact with aboleth slime in certain deep trenches
 
 ### Maze Navigation
@@ -61,7 +61,7 @@ The Mind Mazes exist as complex geometric patterns in pure thought, manifesting 
 ## Notable Maze Configurations
 
 ### The Spiral of Sorrows
-*Created by Aboleth Prime Yoth for [[02_Worldbuilding/People/Senator Glaucus]]*
+*Created by Aboleth Prime Yoth for [[Senator Glaucus]]*
 - Focused on political guilt and betrayed trust
 - Contains phantom constituents the senator failed
 - Exit requires accepting responsibility for past decisions
@@ -70,13 +70,13 @@ The Mind Mazes exist as complex geometric patterns in pure thought, manifesting 
 *Ancient maze containing dozens of simultaneous victims*
 - Victims must help each other remember their identities
 - Collaborative puzzle requiring teamwork between prisoners
-- Connected to [[02_Worldbuilding/Places/Memory Meadows Black Market]]
+- Connected to [[Memory Meadows Black Market]]
 
 ### The Tide of Fears
 *Constantly shifting maze based on oceanic terror*
 - Floods with illusory seawater during "high tide" periods
 - Contains manifestations of drowning and pressure-related fears
-- Links to [[02_Worldbuilding/Lore/The Great Drowning]] traumatic memories
+- Links to [[The Great Drowning]] traumatic memories
 
 ## Inhabitants & Guardians
 
@@ -87,21 +87,21 @@ The Mind Mazes exist as complex geometric patterns in pure thought, manifesting 
 
 ## Quest Hooks
 
-1. **The Missing Diplomat**: [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] has been trapped in a maze for weeks, vital treaty negotiations await his return
+1. **The Missing Diplomat**: [[Ambassador Korvin Blacktide]] has been trapped in a maze for weeks, vital treaty negotiations await his return
 2. **The Maze Walker**: A mysterious figure claims to guide people through mind mazes for a price - but what is their true agenda?
 3. **Collective Escape**: Multiple important NPCs are trapped in the same maze, requiring coordinated rescue
-4. **The Maze Maker**: An aboleth offers to trade maze-trapped souls for information about [[02_Worldbuilding/Places/Port Meridian]] defenses
+4. **The Maze Maker**: An aboleth offers to trade maze-trapped souls for information about [[Port Meridian]] defenses
 5. **Inherited Madness**: A character begins experiencing maze-like dreams, suggesting their ancestor was never fully freed
 6. **The Liberation**: A large-scale assault on aboleth positions could free hundreds of maze victims, but at what cost?
-7. **Mind Maze Research**: [[02_Worldbuilding/People/Professor Euclid Mindmaze]] seeks volunteers to study maze structures from the inside
-8. **The Broken Maze**: A partially destroyed maze is leaking its contents into reality near [[02_Worldbuilding/Places/The Reflection Pools]]
-9. **Maze Immunity**: Characters must learn to resist maze effects before confronting the [[02_Worldbuilding/Lore/Deep Mother]]
+7. **Mind Maze Research**: [[Professor Euclid Mindmaze]] seeks volunteers to study maze structures from the inside
+8. **The Broken Maze**: A partially destroyed maze is leaking its contents into reality near [[The Reflection Pools]]
+9. **Maze Immunity**: Characters must learn to resist maze effects before confronting the [[Deep Mother]]
 10. **The Sympathetic Aboleth**: One aboleth claims to oppose the maze system and offers alliance, but can it be trusted?
 
 ## Connections to Ongoing Campaigns
 
 The Mind Mazes serve as both plot devices and psychological exploration tools, connecting to:
-- [[02_Worldbuilding/Groups/The Shadow Conspiracy]] investigations into missing persons
-- [[02_Worldbuilding/Lore/Memory Alterations]] research and ethical implications
-- [[02_Worldbuilding/Places/Parliament of Echoes]] debates on mental sovereignty rights
-- [[02_Worldbuilding/Lore/Sanity System]] mechanics for prolonged psychological stress
+- [[The Shadow Conspiracy]] investigations into missing persons
+- [[Memory Alterations]] research and ethical implications
+- [[Parliament of Echoes]] debates on mental sovereignty rights
+- [[Sanity System]] mechanics for prolonged psychological stress

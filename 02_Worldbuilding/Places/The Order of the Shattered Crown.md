@@ -5,6 +5,7 @@ world: "Aethermoor"
 type: "organization"
 created_by: "auto-stub"
 created: 2025-08-08
+danger_level: Moderate
 ---
 
 # The Order of the Shattered Crown

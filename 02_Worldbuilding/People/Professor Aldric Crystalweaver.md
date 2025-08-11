@@ -64,29 +64,29 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 ## Relationships & Academic Network
 
 ### Academic Colleagues
-- **[[02_Worldbuilding/Groups/Crystal Academy]]** - Primary institutional affiliation
+- **[[Crystal Academy]]** - Primary institutional affiliation
 - **Crystal Research Faculty** - Fellow professors studying crystal magic at the academy
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection providing research insights
+- **[[The Crimson Sage]]** - Unknown connection providing research insights
 - **Graduate Students** - Proteges learning advanced crystal manipulation techniques
 - **International Scholars** - Researchers from other institutions studying crystal phenomena
 
 ### Political Connections
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
-- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Military unit interested in his weapon applications
-- **[[02_Worldbuilding/People/Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
+- **[[Queen Seraphina Lumengarde]]** - Royal patron funding his research (unaware of his corruption)
+- **[[Crystal Wardens]]** - Military unit interested in his weapon applications
+- **[[Lord Aurelius Goldwave]]** - Wealthy backer with hidden agenda involving the Shards
 - **Government Oversight** - Officials monitoring his more dangerous experiments
 
 ### Opposition & Critics
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Organization dedicated to eliminating crystal influence
+- **[[High Inquisitor Maltheos]]** - Views his work as crystal corruption abomination
+- **[[Archdruid Thornweaver]]** - Opposes crystal expansion and corruption of nature
+- **[[Purist Coalition]]** - Organization dedicated to eliminating crystal influence
 - **Ethics Committees** - Academic groups questioning his experimental methods
 
 ### Research Subjects & Collaborators
 - **Volunteer Test Subjects** - Individuals seeking crystal enhancement
 - **Crystal Construct Assistants** - Artificial beings he's created to aid research
 - **Medical Consultants** - Healers attempting to treat crystal corruption
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal contacts providing illegal research materials
+- **[[The Whisper Syndicate]]** - Criminal contacts providing illegal research materials
 
 ## Special Abilities
 
@@ -136,7 +136,7 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 
 ### Supply Networks
 - **Crystal Miners** - Sources for raw crystal materials
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Traders providing rare and exotic crystals
+- **[[Merchant Princes]]** - Traders providing rare and exotic crystals
 - **Equipment Suppliers** - Craftsmen creating specialized research tools
 - **Black Market Contacts** - Illegal sources for forbidden or restricted materials
 
@@ -182,7 +182,7 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 - **[[The Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
 
 ### Cross-Realm Research Collaborations
-- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
+- **[[Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
   - Studies crystalline formations found on divine entities in deepest ocean trenches
   - Analyzes how crystal resonance patterns correlate with cosmic consciousness
   - Develops early warning systems using crystal-based divine activity detection

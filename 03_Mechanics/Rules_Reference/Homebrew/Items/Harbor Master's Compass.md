@@ -23,7 +23,7 @@ modified: 2025-07-23 12:39
 ---
 > [!infobox]
 > # Harbor Master's Compass
-> ![[03_Mechanics/Rules_Reference/Homebrew/Items/Harbor Master's Compass|cover]]
+> ![[Harbor Master's Compass|cover]]
 > ###### Item Information
 > | | |
 > |---|---|

@@ -246,8 +246,8 @@ Necromancy magic works synergistically with other magical traditions:
 - **Corruption Risks**: Preventing exposure to void influences during necromantic practice
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protecting consciousness from external threats
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-enchantment]] - Understanding and influencing consciousness patterns
-- [[02_Worldbuilding/Lore/Halls of Eternal Memory]] - Repository for preserved consciousness and knowledge
-- [[02_Worldbuilding/Lore/The Crystal Networks]] - Storage matrices for consciousness preservation
-- [[02_Worldbuilding/Lore/Void Corruption Tracking]] - Managing risks from reality-dissolving influences
+- [[Ω_System-CLI-spells-school-abjuration]] - Protecting consciousness from external threats
+- [[Ω_System-CLI-spells-school-enchantment]] - Understanding and influencing consciousness patterns
+- [[Halls of Eternal Memory]] - Repository for preserved consciousness and knowledge
+- [[The Crystal Networks]] - Storage matrices for consciousness preservation
+- [[Void Corruption Tracking]] - Managing risks from reality-dissolving influences

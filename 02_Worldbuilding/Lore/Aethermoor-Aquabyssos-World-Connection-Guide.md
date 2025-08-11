@@ -26,9 +26,9 @@ created: 2025-08-07
 - **Timeline**: Post-Crystal Festival events
 - **Barrier**: Weakening, selective breaches
 - **Merged Zones**: 
-  - [[02_Worldbuilding/Places/Port Meridian]] ↔ [[Abyssos Prime Upper Districts]]
-  - [[Lighthouse of Storms]] ↔ [[02_Worldbuilding/Places/The Inverse Palace]]
-  - [[Crystal Gardens]] ↔ [[02_Worldbuilding/Places/Screaming Gardens]]
+  - [[Port Meridian]] ↔ [[Abyssos Prime Upper Districts]]
+  - [[Lighthouse of Storms]] ↔ [[The Inverse Palace]]
+  - [[Crystal Gardens]] ↔ [[Screaming Gardens]]
 - **Mechanics**: Reality shifts every 12 hours
 
 #### State 3: Full Convergence (Possible Future)
@@ -47,8 +47,8 @@ Each Aquabyssos continent has an Aethermoor counterpart:
 
 | Aquabyssos | Aethermoor | Connection Type | Merger Effect |
 |------------|------------|----------------|---------------|
-| [[02_Worldbuilding/Places/Abyssos Prime]] | [[02_Worldbuilding/Places/Port Meridian]] | Political Centers | Shared Parliament |
-| [[02_Worldbuilding/Places/Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
+| [[Abyssos Prime]] | [[Port Meridian]] | Political Centers | Shared Parliament |
+| [[Nereidios]] | [[Arcanum Heights]] | Knowledge Hubs | Merged Libraries |
 | [[Corallion]] | [[Crystal Forest]] | Living Systems | Symbiotic Growth |
 | [[Vorthak]] | [[Shattered Isles]] | Fragmented Realms | Reality Chaos |
 | [[Tenebrarum]] | [[Shadow Vale]] | Darkness Domains | Shadow Overlap |
@@ -72,7 +72,7 @@ Each Aquabyssos continent has an Aethermoor counterpart:
    - Danger: Void current exposure
 
 3. **Memory Streams**
-   - Flow between [[02_Worldbuilding/Places/The Memory Meadows]] and [[Aethermoor Archives]]
+   - Flow between [[The Memory Meadows]] and [[Aethermoor Archives]]
    - Travel: Consciousness only, body remains
    - Duration: 1d4 hours maximum
    - Cost: Temporary memory loss
@@ -301,10 +301,10 @@ graph TD
 - Attract multiversal attention
 
 ## 🔗 Related Documents
-- [[08_Archive/2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview]]
-- [[08_Archive/2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview]]
+- [[2025-08-09/Campaign_Docs/Aethermoor/Aethermoor Campaign Overview]]
+- [[2025-08-09/Campaign_Docs/Aquabyssos/Aquabyssos Campaign Overview]]
 - [[The Seven Shards Mystery]]
-- [[03_Mechanics/Depth Adaptation System]]
+- [[Depth Adaptation System]]
 - [[Crystal Plague Mechanics]]
 - [[NPC Cross-World Connections]]
 - [[Merged Zone Navigation]]

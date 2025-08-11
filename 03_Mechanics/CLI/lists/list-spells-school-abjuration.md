@@ -102,4 +102,4 @@ modified: 2025-07-23 12:39
 - [Mass Heal](/03_Mechanics/CLI/spells/mass-heal-xphb.md "XPHB")
 - [Prismatic Wall](/03_Mechanics/CLI/spells/prismatic-wall-xphb.md "XPHB")
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

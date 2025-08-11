@@ -9,7 +9,7 @@ race: Human
 class: Paladin/Fighter
 level: 14
 alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
+location: "[[Crystalhaven]]"
 faction: "[[Crystal Wardens]]"
 status: Alive
 created: 2024-12-20
@@ -24,7 +24,7 @@ obsidianUIMode: preview
 *The Crystal Shield, Defender of the Realm*
 
 ## Overview
-Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuilding/Places/Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
+Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[Aethermoor]]'s elite military force. A veteran of countless battles and absolutely loyal to [[Queen Seraphina Lumengarde]], he represents the idealistic view of crystal technology used for protection and justice. He remains unaware of the Queen's corruption, believing fully in the righteousness of their cause.
 
 ## Appearance
 - **Build**: Imposing, 6'3", muscular
@@ -52,7 +52,7 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 ### Military Command
 - Commands 10,000 [[Crystal Wardens]]
 - Elite personal guard: "The Crystalline Guard"
-- Network of fortresses across [[02_Worldbuilding/Places/Aethermoor]]
+- Network of fortresses across [[Aethermoor]]
 - Access to military intelligence
 
 ### Combat Abilities
@@ -69,39 +69,39 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 ## Relationships
 
 ### Loyalties
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé and surrogate daughter
+- [[Queen Seraphina Lumengarde]] - Absolute devotion (tragic if he learns truth)
+- [[Captain Lyanna Brightshield]] - Protégé and surrogate daughter
 - [[Brother Marcus Steelbane]] - Former student (unaware of his Purist sympathies)
 
 ### Allies
 - [[Admiral Cassandra Stormwind]] - Military cooperation
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Supplies crystal weapons
+- [[Master Artificer Korvin Gearwright]] - Supplies crystal weapons
 - [[High Priestess Celeste Dawnbringer]] - Provides healing for troops
 
 ### Tensions
-- [[02_Worldbuilding/People/The Crimson Sage]] - Distrusts their influence on Queen
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Sees as threat to stability
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Sworn enemy of crime
+- [[The Crimson Sage]] - Distrusts their influence on Queen
+- [[Prince Caspian Duskwater]] - Sees as threat to stability
+- [[Vex Shadowthorn]] - Sworn enemy of crime
 
 ### Respected Opponents
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Respects but opposes
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Understands concerns but disagrees
+- [[Archdruid Thornweaver]] - Respects but opposes
+- [[High Inquisitor Maltheos]] - Understands concerns but disagrees
 
 ## Secrets
 > [!warning] DM Only
 > - Has noticed Queen's behavioral changes but attributes to stress
-> - Secretly loves [[02_Worldbuilding/People/Captain Lyanna Brightshield]] like a daughter
-> - Possesses evidence that could expose [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+> - Secretly loves [[Captain Lyanna Brightshield]] like a daughter
+> - Possesses evidence that could expose [[The Whisper Syndicate]]
 > - His brother [[Marcus "The Shade" Blackwood]] works for the Syndicate
 > - Would turn against the Queen if he knew about her corruption
 > - Has been having prophetic dreams about a great betrayal
 
 ## Current Activities
 - Training new Crystal Warden recruits
-- Investigating [[02_Worldbuilding/Groups/Purist Coalition]] terrorist cells
+- Investigating [[Purist Coalition]] terrorist cells
 - Planning defenses for Crystal Festival
-- Searching for [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition
-- Monitoring [[02_Worldbuilding/Places/The Crystalline Wastes]] border
+- Searching for [[Captain Thaddeus Blackwater]]'s expedition
+- Monitoring [[The Crystalline Wastes]] border
 
 ## Motivations
 1. **Primary**: Protect the innocent and maintain order
@@ -134,7 +134,7 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 1. Needs help investigating corruption in the Wardens
 2. Secret mission to retrieve stolen crystal weapons
 3. Find evidence about his brother's criminal activities
-4. Rescue captured Wardens from [[02_Worldbuilding/Places/The Crystalline Wastes]]
+4. Rescue captured Wardens from [[The Crystalline Wastes]]
 5. Test party's worthiness to join elite unit
 
 ## Speaking Style
@@ -160,19 +160,19 @@ Lord Commander Gareth Steelborn leads the [[Crystal Wardens]], [[02_Worldbuildin
 - Critical figure in preventing/causing civil war
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Sworn liege
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Protégé
+- [[Queen Seraphina Lumengarde]] - Sworn liege
+- [[Captain Lyanna Brightshield]] - Protégé
 - [[Marcus "The Shade" Blackwood]] - Estranged brother
 - [[Brother Marcus Steelbane]] - Former student
 - [[Admiral Cassandra Stormwind]] - Military ally
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Base of operations
+- [[Crystalhaven]] - Base of operations
 - [[Crystal Wardens]] Fortress - Military headquarters
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Patrol area
-- [[02_Worldbuilding/Places/Port Meridian]] - Reinforcement duties
+- [[The Crystalline Wastes]] - Patrol area
+- [[Port Meridian]] - Reinforcement duties
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Military support
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Security detail
+- [[Quest - The Plague of Crystals]] - Military support
+- [[Quest - Diplomatic Immunity]] - Security detail
 - [[Quest - The Traitor Within]] - Investigating corruption

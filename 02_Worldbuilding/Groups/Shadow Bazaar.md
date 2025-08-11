@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *The Twilight Market, Merchants of the Void, The Between-Worlds Exchange*
 
 ## Overview
-The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier interdimensional marketplace, specializing in goods and services that exist in the liminal spaces between realities. Part commercial enterprise, part secret society, the Bazaar facilitates trade in shadow-touched items, memories, identities, and experiences that cannot be found in conventional markets. They bridge the gap between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], creating a thriving economy in the spaces others fear to enter.
+The Shadow Bazaar operates as [[Aethermoor]]'s premier interdimensional marketplace, specializing in goods and services that exist in the liminal spaces between realities. Part commercial enterprise, part secret society, the Bazaar facilitates trade in shadow-touched items, memories, identities, and experiences that cannot be found in conventional markets. They bridge the gap between [[Aethermoor]] and [[Aquabyssos]], creating a thriving economy in the spaces others fear to enter.
 
 ## History
 
@@ -39,7 +39,7 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 **Building the Between-Market**
 - Discovered stable dimensional pocket for permanent marketplace location
 - Developed shadow portal network connecting multiple locations
-- Established trade relationships with [[02_Worldbuilding/Places/Aquabyssos]] shadow merchants
+- Established trade relationships with [[Aquabyssos]] shadow merchants
 - Created merchant guild structure and trading standards
 - Began trafficking in memories, experiences, and consciousness
 
@@ -54,7 +54,7 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 ### Modern Operations (Last 10 Years)
 **The Interdimensional Monopoly**
 - Achieved near-monopoly on shadow trade between realms
-- Integration with [[02_Worldbuilding/Groups/The Silverscale Consortium]] shadow operations
+- Integration with [[The Silverscale Consortium]] shadow operations
 - Expansion into consciousness brokerage and identity trading
 - Development of reality-anchor manipulation services
 - Preparation for dimensional expansion beyond current two realms
@@ -116,7 +116,7 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 
 ### Shadow Material Trading
 **Corrupted and Transformed Goods**
-- **Shadow Crystals**: Transformed [[02_Worldbuilding/Places/Aether Crystals]] with unique properties
+- **Shadow Crystals**: Transformed [[Aether Crystals]] with unique properties
 - **Void Metals**: Materials infused with dimensional energy
 - **Memory Glass**: Crystallized experiences and consciousness fragments
 - **Reality Shards**: Fragments of broken dimensional anchors
@@ -156,7 +156,7 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 - **Security Stations**: Market protection and enforcement operations
 
 ### Transportation Network
-- **Dimensional Portals**: Direct connections to [[02_Worldbuilding/Places/Aquabyssos]]
+- **Dimensional Portals**: Direct connections to [[Aquabyssos]]
 - **Shadow Caravans**: Merchant convoys for dangerous goods transport
 - **Reality Bridges**: Temporary connections to new dimensional spaces
 - **Emergency Gates**: Rapid evacuation and escape routes
@@ -222,23 +222,23 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 ## Relationships & Politics
 
 ### Government Relations
-- **[[02_Worldbuilding/Groups/The Crown]]**: Uneasy tolerance due to economic necessity
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Complex relationship of mutual dependence and suspicion
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Mixed support and opposition depending on political faction
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Neutral trading relationship with careful boundaries
+- **[[The Crown]]**: Uneasy tolerance due to economic necessity
+- **[[Queen Seraphina Lumengarde]]**: Complex relationship of mutual dependence and suspicion
+- **[[Parliament of Echoes]]**: Mixed support and opposition depending on political faction
+- **[[Empress Tethys the Ever-Drowning]]**: Neutral trading relationship with careful boundaries
 - **Law Enforcement**: Bribery and cooperation maintain operational freedom
 
 ### Corporate Partners
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]**: Major client and complex business partner
+- **[[The Silverscale Consortium]]**: Major client and complex business partner
 - **Independent Merchants**: Competition and cooperation in legitimate markets
 - **Shadow Organizations**: Primary suppliers and customers
 - **Transportation Companies**: Partnerships for legitimate logistics
 - **Financial Institutions**: Integration with conventional banking systems
 
 ### Shadow Community
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Major client but potential threat to independence
-- **[[02_Worldbuilding/Groups/Shadow Surgery Centers]]**: Supplier of consciousness services
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complicated relationship of mutual benefit and wariness
+- **[[The Shadow Conspiracy]]**: Major client but potential threat to independence
+- **[[Shadow Surgery Centers]]**: Supplier of consciousness services
+- **[[Shadow Duchess Nyx]]**: Complicated relationship of mutual benefit and wariness
 - **Shadow-Touched Individuals**: Core customer base and supplier network
 - **Memory Farmers**: Competitive relationship with occasional cooperation
 
@@ -400,17 +400,17 @@ The Shadow Bazaar operates as [[02_Worldbuilding/Places/Aethermoor]]'s premier i
 
 ### Key NPCs
 - **[[Market Master Duskwater]]** - Bazaar founder and supreme authority
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Government relationship complexity
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Major client and potential threat
+- **[[Queen Seraphina Lumengarde]]** - Government relationship complexity
+- **[[Shadow Duchess Nyx]]** - Major client and potential threat
 - **[[Merchant Prince Shadowgold]]** - Operations coordinator and trade manager
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Corporate partnership and competition
+- **[[Zephyr Goldwhisper]]** - Corporate partnership and competition
 
 ### Related Locations
 - **[[The Umbral Market Plaza]]** - Primary marketplace facility
-- **[[02_Worldbuilding/Places/Aquabyssos]]** - Major trade partner realm
-- **[[02_Worldbuilding/Places/The Memory Meadows]]** - Competitor and supplier
+- **[[Aquabyssos]]** - Major trade partner realm
+- **[[The Memory Meadows]]** - Competitor and supplier
 - **[[Portal Network]]** - Transportation infrastructure
-- **[[02_Worldbuilding/Places/Aethermoor]]** - Host realm and regulatory authority
+- **[[Aethermoor]]** - Host realm and regulatory authority
 
 ### Associated Quests
 - **[[Quest - The Shadow Market Wars]]** - Competition between interdimensional markets

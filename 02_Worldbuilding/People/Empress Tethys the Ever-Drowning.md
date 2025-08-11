@@ -61,10 +61,10 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 - **Surface Tethys**: A version that never drowned, exists in dreams
 
 ## Relationships
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
+- **[[Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
 - **The Tidal Council**: Fear and worship her in equal measure
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
+- **[[Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
+- **[[The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
 - **The Things That Dwell Beneath**: Her true masters, or perhaps her children
 
 ## Powers & Abilities
@@ -90,7 +90,7 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 ## Current Schemes
 1. **The Great Convergence**: Reuniting all versions of herself
 2. **The Surface Mirror**: Creating reflection of Aquabyssos above water
-3. **The Shard Drowning**: Acquiring one of Aethermoor's [[02_Worldbuilding/Lore/The Seven Shards]]
+3. **The Shard Drowning**: Acquiring one of Aethermoor's [[The Seven Shards]]
 4. **The Memory Harvest**: Collecting all drowned memories into herself
 5. **The Final Transformation**: Becoming a Thing That Dwells Beneath
 

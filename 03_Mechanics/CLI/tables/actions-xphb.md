@@ -30,4 +30,4 @@ modified: 2025-07-23 12:39
 | [Utilize](/03_Mechanics/CLI/actions.md#Utilize) | Use a nonmagical object. |
 ^actions
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

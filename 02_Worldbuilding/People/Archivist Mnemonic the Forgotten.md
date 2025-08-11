@@ -10,13 +10,14 @@ race: "Human (Memory-Touched)"
 location: "[[The Archive of Unremembered Things]] - The Forgetting Vaults"
 created_by: "auto-stub"
 created: 2025-08-09
+cr: 5
 ---
 
 # Archivist Mnemonic the Forgotten
 *Keeper of What Was Lost, Guardian of Unremembered Truth*
 
 ## Overview
-Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the [[02_Worldbuilding/Lore/The Deep Mother]] to preserve memories that would otherwise be lost forever, he maintains the [[The Archive of Unremembered Things]] where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
+Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the [[The Deep Mother]] to preserve memories that would otherwise be lost forever, he maintains the [[The Archive of Unremembered Things]] where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
 
 ## Description
 - **Appearance**: Middle-aged man whose features shift slightly when not being directly observed
@@ -81,27 +82,27 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 ## Relationships & Memory Network
 
 ### Those Who Seek the Archive
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ancient ruler seeking lost imperial memories
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Interested in memories of surface-depth adaptation
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Consults him about military history and deep threats
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - May seek memories from before the Shattering
+- **[[Emperor Thalassius the Wise]]** - Ancient ruler seeking lost imperial memories
+- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Interested in memories of surface-depth adaptation
+- **[[Admiral Thorne Blackwater]]** - Consults him about military history and deep threats
+- **[[The Crimson Sage]]** - May seek memories from before the Shattering
 - **Grief-stricken Individuals** - Those seeking to recover lost memories of deceased loved ones
 
 ### Professional Connections
-- **[[02_Worldbuilding/Groups/Memory Farmers]]** - Commercial memory harvesters he often opposes
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]** - Complex relationship with legitimate memory trader
-- **Deep Priests** - Clerics serving the [[02_Worldbuilding/Lore/Deep Mother]] who understand his purpose
-- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Fellow servant of cosmic forces beyond mortal understanding
+- **[[Memory Farmers]]** - Commercial memory harvesters he often opposes
+- **[[Memory Merchant Valeria Siltweave]]** - Complex relationship with legitimate memory trader
+- **Deep Priests** - Clerics serving the [[Deep Mother]] who understand his purpose
+- **[[Elder Whisper-In-The-Dark]]** - Fellow servant of cosmic forces beyond mortal understanding
 
 ### The Memory Underground
 - **Memory Refugees** - Those fleeing forced memory alteration
-- **Shadow Resistance** - Individuals fighting [[02_Worldbuilding/Groups/The Shadow Conspiracy]]'s memory manipulation
+- **Shadow Resistance** - Individuals fighting [[The Shadow Conspiracy]]'s memory manipulation
 - **Historians** - Scholars seeking suppressed or lost historical records
-- **[[02_Worldbuilding/Groups/Free Current]]** - Resistance members needing secure memory storage
+- **[[Free Current]]** - Resistance members needing secure memory storage
 
 ### Connection to Greater Powers
-- **[[02_Worldbuilding/Lore/The Deep Mother]]** - Divine patron who chose him for this role
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]** - Living structure he serves and maintains
+- **[[The Deep Mother]]** - Divine patron who chose him for this role
+- **[[The Archive of Unremembered Things]]** - Living structure he serves and maintains
 - **Memory Spirits** - Ethereal beings formed from powerful forgotten experiences
 - **The Collective Unconscious** - Deeper layer of shared memory he helps maintain
 
@@ -116,7 +117,7 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 ### Fellow Memory Workers
 - **[[Memory Harvester Kythara]]**: Collaborates on sacred memory preservation
 - **[[Memory Trader Kellian]]**: Ethical merchant who respects memory sanctity
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Keeps many of his lost memories safe
+- **[[The Scattered Emperor]]**: Keeps many of his lost memories safe
 - **The Remembrancers**: Secret society dedicated to preserving truth
 - **Archive Spirits**: Manifestations of particularly powerful memories
 
@@ -179,7 +180,7 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 - Can make others forget his presence after encounters
 
 ## Connected Elements
-- Central to memory-related storylines in [[02_Worldbuilding/Lore/The Deep Mother]] mythology
+- Central to memory-related storylines in [[The Deep Mother]] mythology
 - Links individual psychology to cosmic purposes
 - Represents themes of trauma, healing, and the value of both memory and forgetting
 - Bridge between personal identity and collective history
@@ -471,16 +472,16 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 ## Connected Campaign Elements
 
 ### Military & Intelligence Networks
-- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Provides archived military intelligence and historical battle records
-- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Repository for classified mission reports and strategic intelligence
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Preserves naval historical records and tactical knowledge
+- **[[Commander Typhoon Blackheart]]**: Provides archived military intelligence and historical battle records
+- **[[The Depth Wardens]]**: Repository for classified mission reports and strategic intelligence
+- **[[Admiral Thorne Blackwater]]**: Preserves naval historical records and tactical knowledge
 - **Military Veterans**: Archive contains memories from soldiers across multiple conflicts and campaigns
 - **Intelligence Services**: Stores suppressed operational records and classified information
 
 ### Trade & Economic Connections
-- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Professional collaboration on ethical memory preservation standards
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Archive maintains commercial records and trade agreement histories
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Preserves maritime trade documentation and port authority records
+- **[[Memory Merchant Valeria Siltweave]]**: Professional collaboration on ethical memory preservation standards
+- **[[Merchant Princes]]**: Archive maintains commercial records and trade agreement histories
+- **[[Harbor Master Luna Freedrift]]**: Preserves maritime trade documentation and port authority records
 - **Economic Historians**: Repository for financial records and trade pattern analysis
 - **Commercial Guild Archives**: Maintains backup records for destroyed or compromised business documentation
 

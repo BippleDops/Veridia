@@ -12,7 +12,7 @@ class: "Expert/Enchanter"
 location: "[[The Contract Archive]]"
 faction: "[[Aquabyssos Government]]"
 influence: "High"
-danger_level: "Low"
+danger_level: Low
   - Category/Person
 MyContainer: None
 MyCategory: Government

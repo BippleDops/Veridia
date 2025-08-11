@@ -2,9 +2,10 @@
 tags: [npc, fugitive, criminal, mysterious]
 status: "complete"
 world: "Aquabyssos"
-type: "npc"
+type: "location"
 created_by: "auto-stub"
 created: 2025-08-08
+danger_level: Moderate
 ---
 
 # The Deep Fugitive

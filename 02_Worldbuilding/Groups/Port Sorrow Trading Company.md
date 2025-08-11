@@ -19,5 +19,5 @@ The Port Sorrow Trading Company is a ruthless and ambitious mercantile company t
 
 ## GM Notes
 - The Port Sorrow Trading Company is a major antagonist for the party, and they will stop at nothing to achieve their goals.
-- The Port Sorrow Trading Company is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md]].
+- The Port Sorrow Trading Company is a rival of the [[Shadowhaven Merchant Marine.md]].
 - The Port Sorrow Trading Company is secretly in league with the Zhentarim.

@@ -106,5 +106,5 @@ Investigation reveals Silverscale conspiracy involvement in financing [[The Grea
 - [[Silverscale Banking House]] - Primary organization driving conspiracy activities
 - [[Director Hadrian Silverscale]] - Current conspiracy leader and strategic mastermind
 - [[Silverscale Emergency Bunker]] - Hidden facility for conspiracy coordination
-- [[02_Worldbuilding/Groups/Silverscale Consortium]] - Broader network of allied organizations
+- [[Silverscale Consortium]] - Broader network of allied organizations
 - [[Investigative Chronicler Darius Truthseeker]] - Leading researcher exposing conspiracy activities

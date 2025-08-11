@@ -3,7 +3,7 @@ tags: [location, dungeon, ancient, extreme_danger]
 aliases: [The Primordial Vaults, The First Prison, The Origin Deep]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/primordial_vaults.jpg"
-danger_level: "Extreme"
+danger_level: Extreme
 depth: "8000-12000 feet"
   - Category/Place
 MyContainer: None
@@ -14,7 +14,7 @@ obsidianUIMode: preview
 # The Primordial Vaults - The First Prison
 
 ## Overview
-Deep beneath [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
+Deep beneath [[Aquabyssos World Overview|Aquabyssos]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
 
 ## Vault Sections
 
@@ -113,10 +113,10 @@ Black water that doesn't reflect anything - falling in erases you from history.
 > - The vaults are slowly rising toward the surface
 
 ## Connections to Other Areas
-- Secret tunnel from [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] crypts
-- Overlaps with deepest parts of [[02_Worldbuilding/Places/The Cerulean Trench]]
+- Secret tunnel from [[The Sunken Cathedral of Stars]] crypts
+- Overlaps with deepest parts of [[The Cerulean Trench]]
 - The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[02_Worldbuilding/Places/New Tethys]] Conservatory of Memory
+- Memory streams connect to [[New Tethys]] Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
 1. No one may speak their true name within

@@ -18,7 +18,7 @@ updated: 2025-08-11
 
 ## Overview
 
-The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
+The Initiative Tracker provides comprehensive tools and systems for managing complex combat encounters in the merged realms of [[Aquabyssos]] and [[Aethermoor]]. Unlike standard initiative systems, this framework accounts for environmental factors, multi-dimensional combat, temporal distortions, and the unique challenges of underwater and aerial combat scenarios.
 
 The system addresses several complications unique to the merged realms: pressure effects that can slow actions, crystal resonance that affects reaction times, memory magic that can alter turn order, and reality distortions that may cause combatants to act in multiple time streams simultaneously. These factors require enhanced tracking methods and contingency procedures.
 

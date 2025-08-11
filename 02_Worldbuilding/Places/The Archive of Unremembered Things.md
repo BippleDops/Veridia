@@ -3,7 +3,7 @@ tags: [location, dungeon, library, memory, extreme_danger]
 aliases: [The Forgotten Archive, The Vault of Lost Memories, The Unremembered Halls]
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/archive_unremembered.jpg"
-danger_level: "Extreme"
+danger_level: Extreme
 depth: "3000-5000 feet"
 world: "Aquabyssos"
 type: "location"
@@ -16,7 +16,7 @@ obsidianUIMode: preview
 # The Archive of Unremembered Things
 
 ## Overview
-Deep within the darkest reaches of [[02_Worldbuilding/Places/Aquabyssos]], where pressure and shadow converge, lies the Archive of Unremembered Things - a vast underwater library containing every memory, fact, name, and experience that has been forgotten by the living world. Built by unknown architects in chambers that defy physics, the Archive exists as both sanctuary and prison for lost knowledge. Those who enter risk losing themselves entirely, their own memories joining the collection.
+Deep within the darkest reaches of [[Aquabyssos]], where pressure and shadow converge, lies the Archive of Unremembered Things - a vast underwater library containing every memory, fact, name, and experience that has been forgotten by the living world. Built by unknown architects in chambers that defy physics, the Archive exists as both sanctuary and prison for lost knowledge. Those who enter risk losing themselves entirely, their own memories joining the collection.
 
 ## Physical Structure
 
@@ -83,9 +83,9 @@ The living shelf system has developed its own form of awareness through exposure
 ### The Lost Researchers
 Scholars from various civilizations who came seeking forbidden knowledge and became trapped. They retain some of their original memories but are slowly forgetting more each day. Some try to warn newcomers, while others have become obsessed with specific forgotten subjects.
 
-**[[Archivist Vera Glowmind]]**: Former [[02_Worldbuilding/Places/New Tethys]] scholar studying collective memory who has been trapped for three years. She's fighting to maintain her identity while helping others navigate the Archive safely.
+**[[Archivist Vera Glowmind]]**: Former [[New Tethys]] scholar studying collective memory who has been trapped for three years. She's fighting to maintain her identity while helping others navigate the Archive safely.
 
-**[[Elder Scribe Marcus the Lost]]**: Once a historian from [[02_Worldbuilding/Places/Aethermoor]], he's been here for decades and remembers only his purpose: to catalogue the memories of surface dwellers who died in [[The Great Drowning]].
+**[[Elder Scribe Marcus the Lost]]**: Once a historian from [[Aethermoor]], he's been here for decades and remembers only his purpose: to catalogue the memories of surface dwellers who died in [[The Great Drowning]].
 
 ### The Forgotten Themselves
 Entities composed entirely of lost memories, these beings are the accumulated consciousness of particularly traumatic or significant forgotten events. They exist as living reminders of what was lost and can be either helpful guides or dangerous obstacles.
@@ -148,11 +148,11 @@ Chart showing the location of all forgotten places, including lost continents, v
 
 ### The Missing Scholar
 **Level**: 9-12  
-A renowned researcher from [[02_Worldbuilding/Places/The Gilded Shard]] has vanished while investigating lost magical techniques. The party must navigate the Archive to find them before they forget their identity completely.
+A renowned researcher from [[The Gilded Shard]] has vanished while investigating lost magical techniques. The party must navigate the Archive to find them before they forget their identity completely.
 
 ### The Forgotten Plague
 **Level**: 11-14  
-A disease that causes memory loss has begun spreading through [[02_Worldbuilding/Places/Abyssos Prime]]. The cure lies in the Archive among forgotten medical knowledge, but retrieving it requires bargaining with the Coral Consciousness.
+A disease that causes memory loss has begun spreading through [[Abyssos Prime]]. The cure lies in the Archive among forgotten medical knowledge, but retrieving it requires bargaining with the Coral Consciousness.
 
 ### The Last Testimony
 **Level**: 7-10  
@@ -164,16 +164,16 @@ An ancient conflict is about to repeat because all knowledge of how it was previ
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [[New Tethys]]
 Many of the memories in the Archive come from this city's residents, particularly from the [[Conservatory of Memory]]. The two locations have a complex relationship - New Tethys tries to preserve memories while the Archive collects those that slip away.
 
-### [[02_Worldbuilding/Places/The Memory Meadows]]
+### [[The Memory Meadows]]
 The peaceful counterpart to the Archive, where pleasant memories are preserved and cultivated. Some scholars believe the two locations are connected by underground tunnels of living coral.
 
-### [[02_Worldbuilding/Places/The Bathyal Palace]]
+### [[The Bathyal Palace]]
 The ruling class has a secret arrangement with the Archive, using it to dispose of inconvenient historical truths. [[Emperor Thalassius]] may have forgotten crucial details about his own past due to these dealings.
 
-### [[02_Worldbuilding/Places/Aethermoor]]
+### [[Aethermoor]]
 Surface dwellers who die from memory-related magical accidents sometimes find their consciousness pulled to the Archive. This creates a hidden connection between the surface and depth realms.
 
 ## Random Encounters (d12)

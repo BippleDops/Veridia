@@ -20,19 +20,19 @@ obsidianUIMode: preview
 
 **Type:** Religious/Political Investigation  
 **Level:** 6-10  
-**Location:** [[02_Worldbuilding/Places/Pearl_Harbor_City]], [[02_Worldbuilding/Places/Maelstrom Palace]], [[02_Worldbuilding/Places/Surface Portal Alpha]]  
+**Location:** [[Pearl_Harbor_City]], [[Maelstrom Palace]], [[Surface Portal Alpha]]  
 **Duration:** 4-6 sessions  
 **Threat:** Charismatic prophet threatens to destabilize Aquabyssos society
 
-**Connected Locations:** [[02_Worldbuilding/Places/The Kelp Highway]], [[02_Worldbuilding/Places/Azure Citadel]], [[02_Worldbuilding/Places/Temple Ward]]  
-**Related Groups:** [[02_Worldbuilding/Groups/The Tidal Council]], [[02_Worldbuilding/Groups/Temple of Divine Order]], [[02_Worldbuilding/Groups/Surface Sympathizer Settlements]]  
+**Connected Locations:** [[The Kelp Highway]], [[Azure Citadel]], [[Temple Ward]]  
+**Related Groups:** [[The Tidal Council]], [[Temple of Divine Order]], [[Surface Sympathizer Settlements]]  
 **Key Themes:** Religious heresy, surface world nostalgia, political upheaval, ancient prophecies
 
 ## Quest Overview
 
-Prophet Miralyn Surfacer has emerged as the charismatic leader of a growing religious movement called "The Second Rising," which preaches that the Great Submersion was a divine mistake and that the people of Aquabyssos must return to the surface world to reclaim their rightful place under the sun. Her passionate sermons draw massive crowds in [[02_Worldbuilding/Places/Pearl_Harbor_City]], and her followers grow bolder each day, openly defying depth restrictions and attempting dangerous ascents to forbidden surface levels.
+Prophet Miralyn Surfacer has emerged as the charismatic leader of a growing religious movement called "The Second Rising," which preaches that the Great Submersion was a divine mistake and that the people of Aquabyssos must return to the surface world to reclaim their rightful place under the sun. Her passionate sermons draw massive crowds in [[Pearl_Harbor_City]], and her followers grow bolder each day, openly defying depth restrictions and attempting dangerous ascents to forbidden surface levels.
 
-High Tidecaller [[02_Worldbuilding/People/Nerissa_Deepcurrent]] views Miralyn as both a theological threat and a political one. The prophet's teachings directly contradict the official doctrine that the Submersion was necessary salvation, and her movement threatens to tear apart the careful social order that keeps Aquabyssos stable. Intelligence reports suggest that Miralyn possesses knowledge of ancient surface world artifacts and may be planning something catastrophic.
+High Tidecaller [[Nerissa_Deepcurrent]] views Miralyn as both a theological threat and a political one. The prophet's teachings directly contradict the official doctrine that the Submersion was necessary salvation, and her movement threatens to tear apart the careful social order that keeps Aquabyssos stable. Intelligence reports suggest that Miralyn possesses knowledge of ancient surface world artifacts and may be planning something catastrophic.
 
 The party is recruited to investigate the prophet's true intentions, uncover the source of her "divine revelations," and determine whether she represents a genuine spiritual awakening or a dangerous delusion that could destroy thousands of lives. As the investigation deepens, the characters will discover that Miralyn's visions may be more accurate than anyone realizes, and that the choice between surface and depth is more complex than either side admits.
 
@@ -64,7 +64,7 @@ The quest explores themes of religious freedom versus social stability, the natu
 **CR 9** (5,000 XP)  
 *Medium humanoid (human), chaotic good*
 
-**Background**: Once a minor temple acolyte who experienced powerful visions after discovering an ancient surface world shrine in the ruins beneath [[02_Worldbuilding/Places/Pearl_Harbor_City]]. Her visions showed her the surface world as a paradise lost and filled her with divine purpose to lead her people home.
+**Background**: Once a minor temple acolyte who experienced powerful visions after discovering an ancient surface world shrine in the ruins beneath [[Pearl_Harbor_City]]. Her visions showed her the surface world as a paradise lost and filled her with divine purpose to lead her people home.
 
 **Personality**: Passionate and eloquent, with the magnetic charisma of a true believer. Speaks with absolute certainty about her divine mission but shows genuine concern for her followers' welfare. Can be ruthless when she believes the greater good demands it.
 

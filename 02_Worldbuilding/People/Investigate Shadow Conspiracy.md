@@ -8,7 +8,7 @@ affiliation: "Independent Investigators (Multiple Factions)"
 danger_level: "Extreme"
 scope: "City-Wide"
 confidentiality: "Maximum Classification"
-location: "Throughout [[02_Worldbuilding/Places/Aquabyssos]]"
+location: "Throughout [[Aquabyssos]]"
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11
@@ -18,11 +18,11 @@ updated: 2025-08-11
 *Unraveling the Web of Darkness Beneath the Depths*
 
 > *"They call it shadow because light cannot touch it. They call it conspiracy because truth cannot name it. In the deepest places where pressure drives men mad and darkness devours hope, something moves between the spaces of reality. Something that has learned to wear the faces of our leaders, speak with the voices of our trusted, and guide our choices toward an end we cannot comprehend."*
-> — Final report of Senior Investigator [[02_Worldbuilding/People/Marcus "The Shade" Blackwood]], found floating in the harbor three days after submission
+> — Final report of Senior Investigator [[Marcus "The Shade" Blackwood]], found floating in the harbor three days after submission
 
 ## Overview
 
-The Shadow Conspiracy investigation represents the most dangerous and complex criminal inquiry ever undertaken in [[02_Worldbuilding/Places/Aquabyssos]]. What began as routine investigations into political corruption, unexplained disappearances, and supernatural incidents has revealed evidence of a vast, coordinated network operating throughout the city's power structures. This conspiracy appears to involve shadow magic, dimensional manipulation, political infiltration, and goals that extend far beyond simple criminal enterprise.
+The Shadow Conspiracy investigation represents the most dangerous and complex criminal inquiry ever undertaken in [[Aquabyssos]]. What began as routine investigations into political corruption, unexplained disappearances, and supernatural incidents has revealed evidence of a vast, coordinated network operating throughout the city's power structures. This conspiracy appears to involve shadow magic, dimensional manipulation, political infiltration, and goals that extend far beyond simple criminal enterprise.
 
 The investigation itself has become as dangerous as the conspiracy it seeks to expose. Multiple investigators have died under mysterious circumstances, evidence disappears overnight, and witnesses suffer memory modification or simply vanish. Those brave or foolish enough to continue the investigation operate in secret, using encrypted communications, dead drops, and supernatural protections. They have discovered that the conspiracy reaches into every level of government, commerce, and society - and that exposure might trigger catastrophic consequences for all of Aquabyssos.
 
@@ -45,7 +45,7 @@ Detective Truthseeker began investigating shadow-related crimes two years ago wh
 *Current Status:* Under internal investigation for "inappropriate resource allocation"
 
 **Archivist Elias Deepmind** - Historical Research Specialist
-*[[02_Worldbuilding/Lore/The Archive of Unremembered Things]] (Secret Access)*
+*[[The Archive of Unremembered Things]] (Secret Access)*
 
 Elias discovered the Shadow Conspiracy through historical research revealing consistent patterns of disappearances, political changes, and supernatural incidents spanning decades. His access to restricted archives allows him to identify long-term patterns and historical precedents that reveal the conspiracy's extended timeline.
 
@@ -55,7 +55,7 @@ Elias discovered the Shadow Conspiracy through historical research revealing con
 *Current Status:* Officially researching "maritime trade history" while conducting shadow investigation
 
 **Dr. Marina Voidwatch** - Supernatural Phenomena Specialist
-*Independent Researcher (Formerly [[02_Worldbuilding/Groups/The Void Watchers]])*
+*Independent Researcher (Formerly [[The Void Watchers]])*
 
 Dr. Voidwatch joined the investigation after her organization was infiltrated and partially destroyed by shadow operatives. Her expertise in dimensional magic and reality manipulation makes her invaluable for understanding the supernatural aspects of the conspiracy, but also makes her a primary target for elimination.
 
@@ -397,7 +397,7 @@ Intelligence suggests that key conspiracy decisions are made by an entity known 
 - Emergency response coordination during investigation breakthrough or exposure
 
 **Councilor Marcus Shadowvote**
-*[[02_Worldbuilding/Places/Parliament of Echoes]] - Verified Infiltrator*
+*[[Parliament of Echoes]] - Verified Infiltrator*
 
 Councilor Shadowvote appears to be a normal government official but investigation reveals impossible knowledge, unexplained influence, and direct connection to conspiracy operations.
 

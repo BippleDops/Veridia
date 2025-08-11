@@ -5,8 +5,8 @@ tags:
   - investigation
   - urgent
 type: Quest
-quest_giver: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
-location: "[[02_Worldbuilding/Places/Port Meridian]]"
+quest_giver: "[[Queen Seraphina Lumengarde]]"
+location: "[[Port Meridian]]"
 level: 5-8
 status: Available
 reward_type: Major
@@ -22,7 +22,7 @@ obsidianUIMode: preview
 *A Corruption Spreading Like Wildfire*
 
 ## Overview
-A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian]], causing accelerated crystal corruption that turns victims into crystalline zombies. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] has secretly commissioned investigators to find the source and stop it before it spreads to other cities—or before people realize how similar it is to her own condition.
+A mysterious plague is spreading through [[Port Meridian]], causing accelerated crystal corruption that turns victims into crystalline zombies. [[Queen Seraphina Lumengarde]] has secretly commissioned investigators to find the source and stop it before it spreads to other cities—or before people realize how similar it is to her own condition.
 
 ## Quest Details
 
@@ -35,30 +35,30 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 
 ### The Real Problem
 > [!warning] DM Only
-> A corrupted Shard of the Crown was smuggled into the harbor by [[02_Worldbuilding/Groups/The Whisper Syndicate]]. It's hidden in a sunken ship, radiating corruption through the water. [[02_Worldbuilding/People/Vex Shadowthorn]] knows but is using the chaos for profit while searching for the Shard.
+> A corrupted Shard of the Crown was smuggled into the harbor by [[The Whisper Syndicate]]. It's hidden in a sunken ship, radiating corruption through the water. [[Vex Shadowthorn]] knows but is using the chaos for profit while searching for the Shard.
 
 ## Quest Stages
 
 ### Stage 1: Investigation
 **Objectives**:
-- Travel to [[02_Worldbuilding/Places/Port Meridian]]
-- Meet contact [[02_Worldbuilding/People/Captain Lyanna Brightshield]] at the docks
+- Travel to [[Port Meridian]]
+- Meet contact [[Captain Lyanna Brightshield]] at the docks
 - Investigate the quarantine zone
 - Interview survivors and witnesses
 
 **Clues to Find**:
 - All victims had contact with harbor water
 - Corruption spreads faster at night
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] seen near first cases
+- [[Marina-Red-Tide-Coralheart]] seen near first cases
 - Strange glow beneath the water on foggy nights
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] selling "protection" crystals
+- [[The Whisper Syndicate]] selling "protection" crystals
 
 ### Stage 2: Deeper Mystery
 **Objectives**:
-- Infiltrate [[02_Worldbuilding/Groups/The Whisper Syndicate]] operations
+- Infiltrate [[The Whisper Syndicate]] operations
 - Investigate the harbor at night
 - Track suspicious crystal shipments
-- Find [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- Find [[Marina-Red-Tide-Coralheart]]
 
 **Discoveries**:
 - Syndicate is profiting but didn't cause it
@@ -84,32 +84,32 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 - Defeat the Corrupted Elemental (CR 8)
 - Secure the Crimson Shard
 - Decide what to do with it
-- Escape before [[02_Worldbuilding/People/Vex Shadowthorn]]'s forces arrive
+- Escape before [[Vex Shadowthorn]]'s forces arrive
 
 **Choices**:
-- Give Shard to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
-- Give to [[02_Worldbuilding/People/The Crimson Sage]] (if encountered)
-- Give to [[02_Worldbuilding/People/High Inquisitor Maltheos]] to destroy
+- Give Shard to [[Queen Seraphina Lumengarde]]
+- Give to [[The Crimson Sage]] (if encountered)
+- Give to [[High Inquisitor Maltheos]] to destroy
 - Keep it (dangerous but powerful)
 - Sell to highest bidder
 
 ## Key NPCs
 
 ### Allies
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Official contact
+- [[Captain Lyanna Brightshield]] - Official contact
 - [[Brother Marcus Steelbane]] - Treating victims
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Information for price
+- [[Marina-Red-Tide-Coralheart]] - Information for price
 - [[Admiral Cassandra Stormwind]] - Naval support
 
 ### Opponents
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Wants the Shard
+- [[Vex Shadowthorn]] - Wants the Shard
 - [[Marcus "The Shade" Blackwood]] - Syndicate enforcer
 - Corrupted Citizens - Crystal zombies
 - **The Tide Warden** - Corrupted elemental
 
 ### Wild Cards
-- [[02_Worldbuilding/People/The Crimson Sage]] - May appear to "help"
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants to blame crystals
+- [[The Crimson Sage]] - May appear to "help"
+- [[High Inquisitor Maltheos]] - Wants to blame crystals
 - [[Lord Aurelius Goldwave]] - Has hidden agenda
 
 ## Locations
@@ -122,8 +122,8 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 - **Emergency Hospice** - Victim treatment
 
 ### Optional Areas
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] hideout
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]'s ship
+- [[The Whisper Syndicate]] hideout
+- [[Marina-Red-Tide-Coralheart]]'s ship
 - Merchant Prince councils
 - Temple of the Tides
 
@@ -133,13 +133,13 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 - 5,000 gold pieces
 - Royal favor
 - Magic item (Crystal resonance weapon)
-- Property in [[02_Worldbuilding/Places/Port Meridian]]
+- Property in [[Port Meridian]]
 - Title and lands
 
 ### From Other Factions
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Support if Shard destroyed
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]**: Criminal connections if sold
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mysterious boon if given Shard
+- **[[Purist Coalition]]**: Support if Shard destroyed
+- **[[The Whisper Syndicate]]**: Criminal connections if sold
+- **[[The Crimson Sage]]**: Mysterious boon if given Shard
 
 ### The Crimson Shard
 > [!warning] DM Only - Shard Powers
@@ -152,11 +152,11 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 ## Complications
 
 ### Potential Twists
-1. [[02_Worldbuilding/People/Prince Caspian Duskwater]] arrives claiming throne
-2. [[02_Worldbuilding/Groups/Purist Coalition]] attacks during investigation
-3. The plague spreads to [[02_Worldbuilding/Places/Crystalhaven]]
+1. [[Prince Caspian Duskwater]] arrives claiming throne
+2. [[Purist Coalition]] attacks during investigation
+3. The plague spreads to [[Crystalhaven]]
 4. Another Shard activates elsewhere
-5. [[02_Worldbuilding/People/The Crimson Sage]] reveals partial truth
+5. [[The Crimson Sage]] reveals partial truth
 
 ### Time Pressure
 - **Day 1-3**: Investigation phase
@@ -185,21 +185,21 @@ A mysterious plague is spreading through [[02_Worldbuilding/Places/Port Meridian
 - This quest introduces the Seven Shards plot
 - Party's choice affects campaign direction
 - Queen's desperation reveals if party is trustworthy
-- [[02_Worldbuilding/People/Vex Shadowthorn]] becomes recurring villain
+- [[Vex Shadowthorn]] becomes recurring villain
 - Success/failure affects Port Meridian's future
 
 ## Connections
 
 ### Related Quests
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Part of larger arc
+- [[Quest - The Seventh Shard]] - Part of larger arc
 - [[Quest - Syndicate Shadows]] - Confronting Vex
 - [[Quest - Divine Intervention]] - Crimson Sage's interest
 
 ### Faction Reactions
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Grateful but worried
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Uses as propaganda
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]**: Seeks revenge
-- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Economic concerns
+- **[[The Crystal Throne]]**: Grateful but worried
+- **[[Purist Coalition]]**: Uses as propaganda
+- **[[The Whisper Syndicate]]**: Seeks revenge
+- **[[Merchant Princes]]**: Economic concerns
 
 ## Aftermath
 - Port Meridian's fate depends on success

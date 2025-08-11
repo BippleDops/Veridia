@@ -124,4 +124,4 @@ modified: 2025-07-23 12:39
 
 - [Meteor Swarm](/03_Mechanics/CLI/spells/meteor-swarm-xphb.md "XPHB")
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

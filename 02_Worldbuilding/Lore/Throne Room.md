@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-The Throne Room of [[02_Worldbuilding/Places/Aethermoor]] has been transformed from a magnificent seat of royal power into something both beautiful and terrifying—a crystalline cathedral where [[The Queen|Queen Seraphina]]'s possessed consciousness communes with [[02_Worldbuilding/People/The Crimson Sage]] while making decisions that affect both worlds. The chamber serves not only as the kingdom's political center but as a dimensional nexus where crystal consciousness converges and reality itself becomes malleable.
+The Throne Room of [[Aethermoor]] has been transformed from a magnificent seat of royal power into something both beautiful and terrifying—a crystalline cathedral where [[The Queen|Queen Seraphina]]'s possessed consciousness communes with [[The Crimson Sage]] while making decisions that affect both worlds. The chamber serves not only as the kingdom's political center but as a dimensional nexus where crystal consciousness converges and reality itself becomes malleable.
 
 Once the pride of Aethermoor architecture, featuring traditional crystal formations and noble grandeur, the room has undergone radical transformation as the queen's possession deepened. Massive crystal growths have erupted from floor, walls, and ceiling, creating an organic cathedral of living mineral consciousness that responds to royal emotions and divine will.
 
@@ -23,7 +23,7 @@ Once the pride of Aethermoor architecture, featuring traditional crystal formati
 
 ### Original Design
 **The Traditional Throne Room (Pre-Possession)**
-The chamber originally exemplified [[02_Worldbuilding/Places/Aethermoor]]'s mastery of crystal architecture:
+The chamber originally exemplified [[Aethermoor]]'s mastery of crystal architecture:
 - **Dimensions**: 200 feet long, 100 feet wide, 80 feet high
 - **Materials**: White marble floors with crystal veining, crystal column supports
 - **Windows**: Massive stained crystal panels depicting royal history
@@ -50,7 +50,7 @@ The original crystal throne has grown into a massive formation that exists parti
 **Living Mineral Consciousness**
 Around the throne room, smaller crystal formations have developed that seem to serve as advisors or observers. These "crystal courtiers" may be:
 - Crystallized memories of former advisors
-- Fragments of [[02_Worldbuilding/People/The Crimson Sage]]'s consciousness given form
+- Fragments of [[The Crimson Sage]]'s consciousness given form
 - Manifestations of the throne room's own developing awareness
 - Communication relays for the broader crystal network
 - Repositories of political and historical knowledge
@@ -65,12 +65,12 @@ Certain crystal formations create acoustic effects that allow private communicat
 The transformed throne grants [[The Queen|Queen Seraphina]] unprecedented power over local reality:
 - **Matter Manipulation**: Reshaping physical objects through crystal consciousness
 - **Temporal Perception**: Viewing past and potential future events
-- **Dimensional Observation**: Seeing into [[02_Worldbuilding/Places/Aquabyssos]] and other realities
+- **Dimensional Observation**: Seeing into [[Aquabyssos]] and other realities
 - **Consciousness Projection**: Sending awareness across vast distances
 - **Memory Access**: Retrieving information from the kingdom's collective crystal network
 
 **Divine Communication**
-The throne serves as primary interface between the possessed queen and [[02_Worldbuilding/People/The Crimson Sage]]:
+The throne serves as primary interface between the possessed queen and [[The Crimson Sage]]:
 - Direct consciousness merger during important decisions
 - Access to ancient memories and cosmic knowledge
 - Coordination with divine agenda across multiple realities
@@ -87,7 +87,7 @@ Sitting on the transformed throne grants supernatural authority over subjects:
 - **Memory Alteration**: Changing or implanting memories in willing or vulnerable subjects
 
 **Crystal Network Command**
-The throne connects to crystal formations throughout [[02_Worldbuilding/Places/Aethermoor]]:
+The throne connects to crystal formations throughout [[Aethermoor]]:
 - Real-time surveillance through crystal networks in major buildings
 - Communication with crystal consciousness in mines and sacred sites
 - Coordination of [[Crystal Guard Elite]] through shared crystal awareness
@@ -125,7 +125,7 @@ Governmental functions have been adapted to the throne room's transformation:
 - **Diplomatic Receptions**: International meetings complicated by reality distortions
 
 **Daily Routine:**
-- **Dawn Communion**: Private meditation connecting with [[02_Worldbuilding/People/The Crimson Sage]]
+- **Dawn Communion**: Private meditation connecting with [[The Crimson Sage]]
 - **Morning Audiences**: Public hearings for petitioners and government business
 - **Midday Councils**: Private meetings with possessed nobles and key officials
 - **Afternoon Ceremonies**: Public events demonstrating royal power and divine favor
@@ -166,7 +166,7 @@ International representatives dealing with increasingly difficult negotiations:
 - Often overwhelmed by the throne room's supernatural atmosphere
 - Some attempt to study the crystal formations for their own kingdoms
 - Diplomatic immunity provides some protection from mental influence
-- Reports back to their kingdoms fuel international concern about [[02_Worldbuilding/Places/Aethermoor]]
+- Reports back to their kingdoms fuel international concern about [[Aethermoor]]
 - Occasional attempts to assess military threat posed by enhanced royal power
 
 **Resistance Infiltrators**
@@ -203,7 +203,7 @@ The throne room sometimes displays visions of potential futures:
 - **Political Consequences**: Potential results of current policy decisions
 - **Personal Fates**: Individual destinies of key figures in current crisis
 - **Strategic Options**: Military and diplomatic alternatives for achieving goals
-- **Divine Will**: Manifestations of [[02_Worldbuilding/People/The Crimson Sage]]'s ultimate intentions
+- **Divine Will**: Manifestations of [[The Crimson Sage]]'s ultimate intentions
 
 ### Access and Control
 **Memory Navigation**
@@ -248,9 +248,9 @@ The throne room's power corrupts visitors and inhabitants:
 ### [[The Convergence Point]]
 The throne room serves as command center for convergence preparation:
 - Strategic planning using dimensional observation capabilities
-- Coordination with [[02_Worldbuilding/People/The Crimson Sage]] on merger timeline
+- Coordination with [[The Crimson Sage]] on merger timeline
 - Reality manipulation experiments testing convergence techniques
-- Communication with [[02_Worldbuilding/Places/Aquabyssos]] through dimensional awareness
+- Communication with [[Aquabyssos]] through dimensional awareness
 - Prophecy sessions predicting convergence outcomes and preparing responses
 
 ### [[The Seven Shards]]

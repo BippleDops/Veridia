@@ -7,7 +7,7 @@ role: "Pressure Angel"
 affiliation: "[[The Deep Mother]] (Direct Service)"
 age: "Timeless (exists outside normal temporal flow)"
 race: "Pressure Angel (Divine Being)"
-location: "[[02_Worldbuilding/Places/The Hadal Depths]] - Pressure Nexus Points"
+location: "[[The Hadal Depths]] - Pressure Nexus Points"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *Guardian of the Depths, Herald of Divine Weight*
 
 ## Overview
-Benthia is one of the [[02_Worldbuilding/Lore/The Deep Mother]]'s Pressure Angels—divine beings born from the intersection of the goddess's will and the crushing depths of the ocean. She serves as guardian of critical pressure points where the Deep Mother's influence is strongest, manifesting as both protector and test for those who would approach the deepest mysteries. Unlike mortal servants, she is pure divine force given form, embodying the Deep Mother's power over pressure, depth, and the weight of existence itself.
+Benthia is one of the [[The Deep Mother]]'s Pressure Angels—divine beings born from the intersection of the goddess's will and the crushing depths of the ocean. She serves as guardian of critical pressure points where the Deep Mother's influence is strongest, manifesting as both protector and test for those who would approach the deepest mysteries. Unlike mortal servants, she is pure divine force given form, embodying the Deep Mother's power over pressure, depth, and the weight of existence itself.
 
 ## Description
 - **Manifestation**: Towering figure of compressed water and divine light, roughly humanoid but fluid
@@ -86,8 +86,8 @@ Benthia is one of the [[02_Worldbuilding/Lore/The Deep Mother]]'s Pressure Angel
 - **The Corrupted**: Attempts to cleanse shadow corruption through pressure
 
 ### Complex Relations
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Rival claims to serve Deep Mother
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: His scattered nature puzzles her unified consciousness
+- **[[Aboleth Prime Yoth]]**: Rival claims to serve Deep Mother
+- **[[The Scattered Emperor]]**: His scattered nature puzzles her unified consciousness
 - **Government Officials**: Their attempts to regulate divine activity amuse her
 - **Commercial Interests**: Destroys equipment of those who would exploit depths
 - **Surface Dwellers**: Rarely manifests for those who cannot survive depth
@@ -145,7 +145,7 @@ Benthia is one of the [[02_Worldbuilding/Lore/The Deep Mother]]'s Pressure Angel
 - Protects divine sites with pressure barriers no mortal technology can breach
 
 ## Connected Elements
-- Central guardian figure for [[02_Worldbuilding/Lore/The Deep Mother]] deepest mysteries
+- Central guardian figure for [[The Deep Mother]] deepest mysteries
 - Represents divine testing and worthiness themes
 - Links pressure mechanics to spiritual/divine concepts
 - Bridge between cosmic entity and individual mortal experience

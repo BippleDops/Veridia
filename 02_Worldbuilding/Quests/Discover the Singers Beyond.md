@@ -14,13 +14,13 @@ created: 2025-08-08
 
 **Type:** Mystery/Exploration/First Contact  
 **Level:** 7-11  
-**Location:** [[02_Worldbuilding/Places/The Singing Trenches]], [[02_Worldbuilding/Places/The Whispering Expanse]], [[02_Worldbuilding/Places/Abyssos Prime]]  
+**Location:** [[The Singing Trenches]], [[The Whispering Expanse]], [[Abyssos Prime]]  
 **Duration:** 3-4 sessions  
 **Threat:** Unknown entities are sending complex musical messages from the deep trenches - are they friend, foe, or something else entirely?
 
-**Connected Locations:** [[02_Worldbuilding/Places/The Deepmind]], [[02_Worldbuilding/Places/Temple District]], [[02_Worldbuilding/Places/The Archive of Unremembered Things]]  
-**Related Groups:** [[02_Worldbuilding/Groups/The Depth Wardens]], [[02_Worldbuilding/Groups/The Convergence Seekers]], [[02_Worldbuilding/Groups/Memory Farmers]]  
-**Key Themes:** First contact, transcendence, [[02_Worldbuilding/Lore/The Deep Mother]], consciousness evolution
+**Connected Locations:** [[The Deepmind]], [[Temple District]], [[The Archive of Unremembered Things]]  
+**Related Groups:** [[The Depth Wardens]], [[The Convergence Seekers]], [[Memory Farmers]]  
+**Key Themes:** First contact, transcendence, [[The Deep Mother]], consciousness evolution
 
 ## Overview
 For months, deep-sea monitoring stations have detected haunting melodies emanating from [[The Singing Trenches]]. These aren't whale songs or geological phenomena - they're structured compositions that follow mathematical patterns, suggest intelligence, and seem to be trying to communicate. As the "songs" become more frequent and complex, [[Aquabyssos]] leadership must decide whether to make contact or prepare for invasion.
@@ -29,12 +29,12 @@ For months, deep-sea monitoring stations have detected haunting melodies emanati
 The songs began shortly after the party's previous adventures disrupted the deep currents. [[Navigator Flux]] first noticed the patterns while mapping new current channels. The melodies are being transmitted through water itself, using pressure waves that carry for hundreds of miles. More disturbing: analysis shows the songs are learning and adapting, becoming more "human-like" with each transmission.
 
 ## Key NPCs
-- **[[02_Worldbuilding/People/Navigator Flux]]**: Current expert who discovered the songs, increasingly obsessed
-- **[[02_Worldbuilding/People/Choir Master Celestine Hymnsinger]]**: Temple musician analyzing the mathematical structure
-- **[[02_Worldbuilding/People/Professor Euclid Mindmaze]]**: Scholar studying the psychological effects of the melodies
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Military commander treating this as potential threat
-- **[[02_Worldbuilding/People/The Recursion Oracle]]**: Ancient seer who claims the Singers "remember the first music"
-- **[[02_Worldbuilding/People/Memory Merchant Zephyr Mindweaver]]**: Reports customers requesting "deep songs" in their memory collections
+- **[[Navigator Flux]]**: Current expert who discovered the songs, increasingly obsessed
+- **[[Choir Master Celestine Hymnsinger]]**: Temple musician analyzing the mathematical structure
+- **[[Professor Euclid Mindmaze]]**: Scholar studying the psychological effects of the melodies
+- **[[Admiral Thorne Blackwater]]**: Military commander treating this as potential threat
+- **[[The Recursion Oracle]]**: Ancient seer who claims the Singers "remember the first music"
+- **[[Memory Merchant Zephyr Mindweaver]]**: Reports customers requesting "deep songs" in their memory collections
 
 ## Phase 1: Understanding the Songs (1 session)
 **Location:** [[Abyssos Prime]] - Research facilities  
@@ -282,18 +282,18 @@ The Singers are 15th-level spellcasters. Their spellcasting ability is Charisma 
 - **Military Doctrine**: Integration of sonic warfare capabilities
 
 ## Connected Adventures
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Singers help recover lost musical traditions
-- **[[02_Worldbuilding/People/Time-Lost Delegate Chronus]]**: Temporal expertise becomes crucial for Singer communication
-- **[[02_Worldbuilding/Lore/The Seven Shards]]**: Singers reveal connection between crystals and ancient music
-- **[[02_Worldbuilding/Groups/Memory Farmers]]**: Ethical questions about musical vs. neural memory manipulation
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Singers' transcendence offers alternative to divine worship
-- **[[02_Worldbuilding/Groups/The Drowned Prophets]]**: Religious conflict over transcendence methods
-- **[[02_Worldbuilding/People/Sister Thalassa the Depth-Touched]]**: Competing visions of spiritual evolution
-- **[[02_Worldbuilding/Places/The Deepmind]]**: Connection between consciousness and oceanic depths
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Implications for dimensional stability
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Political response to post-physical entities
-- **[[02_Worldbuilding/Groups/The Purist Coalition]]**: Opposition to non-human consciousness forms
-- **[[02_Worldbuilding/Lore/Crystal Corruption]]**: How transcendence interacts with existing magical phenomena
+- **[[The Archive of Unremembered Things]]**: Singers help recover lost musical traditions
+- **[[Time-Lost Delegate Chronus]]**: Temporal expertise becomes crucial for Singer communication
+- **[[The Seven Shards]]**: Singers reveal connection between crystals and ancient music
+- **[[Memory Farmers]]**: Ethical questions about musical vs. neural memory manipulation
+- **[[The Deep Mother]]**: Singers' transcendence offers alternative to divine worship
+- **[[The Drowned Prophets]]**: Religious conflict over transcendence methods
+- **[[Sister Thalassa the Depth-Touched]]**: Competing visions of spiritual evolution
+- **[[The Deepmind]]**: Connection between consciousness and oceanic depths
+- **[[The Convergence Seekers]]**: Implications for dimensional stability
+- **[[Parliament of Echoes]]**: Political response to post-physical entities
+- **[[The Purist Coalition]]**: Opposition to non-human consciousness forms
+- **[[Crystal Corruption]]**: How transcendence interacts with existing magical phenomena
 
 ## DM Notes
 

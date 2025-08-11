@@ -186,14 +186,14 @@ The Seventh Shard is the most enigmatic of the Seven Shard Guardians—so myster
 ## Relationships with Other Guardians
 
 ### Communication Difficulties
-**With [[02_Worldbuilding/People/Azure Shard]]**
+**With [[Azure Shard]]**
 - Azure provides weather support but finds Seventh incomprehensible
 - Seventh offers void-stability in return for atmospheric grounding
 - Communication requires interpreting paradoxes and weather patterns
 - Azure growing concerned about Seventh's increasing isolation
 - Seventh appreciates Azure's straightforward nature but can't explain why
 
-**With [[02_Worldbuilding/People/Verdant Shard]]**
+**With [[Verdant Shard]]**
 - Verdant represents life while Seventh represents the spaces between life
 - Necessary cooperation for maintaining balance between existence and void
 - Verdant provides natural anchoring for Seventh's reality-defying activities
@@ -402,10 +402,10 @@ The Seventh Shard is the most enigmatic of the Seven Shard Guardians—so myster
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/Azure Shard]] - Weather coordination partner
-- [[02_Worldbuilding/People/Verdant Shard]] - Philosophical counterpart
-- [[02_Worldbuilding/People/The Emperor]] - Original Crown bearer
-- [[02_Worldbuilding/People/Tenebrarum]] - Fellow void-entity
+- [[Azure Shard]] - Weather coordination partner
+- [[Verdant Shard]] - Philosophical counterpart
+- [[The Emperor]] - Original Crown bearer
+- [[Tenebrarum]] - Fellow void-entity
 - [[The Unknown Original]] - Their lost identity
 
 ### Locations

@@ -7,7 +7,7 @@ tags:
   - noble_quarter
   - government
 type: Location
-region: "[[02_Worldbuilding/Places/Abyssos Prime]]"
+region: "[[Abyssos Prime]]"
 depth_zone: Bathyal (200-1000m)
 population: 15000
 government: Imperial Council Districts
@@ -17,13 +17,14 @@ world: "Aquabyssos"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Abyssos Prime Upper Districts
 *The Crown of the Deep Capital, Where Light Still Remembers the Surface*
 
 ## Overview
-The Upper Districts of [[02_Worldbuilding/Places/Abyssos Prime]] represent the pinnacle of Aquabyssos civilization - both literally and figuratively. Built in the shallower waters where filtered sunlight can still penetrate, these districts house the empire's nobility, government officials, and wealthy merchants. Grand coral palaces rise from cultivated reef platforms, connected by graceful current-bridges that allow citizens to swim effortlessly between buildings. The architecture here blends the organic curves of sea life with the geometric precision of crystal-enhanced construction.
+The Upper Districts of [[Abyssos Prime]] represent the pinnacle of Aquabyssos civilization - both literally and figuratively. Built in the shallower waters where filtered sunlight can still penetrate, these districts house the empire's nobility, government officials, and wealthy merchants. Grand coral palaces rise from cultivated reef platforms, connected by graceful current-bridges that allow citizens to swim effortlessly between buildings. The architecture here blends the organic curves of sea life with the geometric precision of crystal-enhanced construction.
 
 ## Geography & Layout
 
@@ -31,8 +32,8 @@ The Upper Districts of [[02_Worldbuilding/Places/Abyssos Prime]] represent the p
 The Upper Districts are built on five main terraces, each at a different depth:
 
 **The Crown Tier (200m depth)**
-- [[02_Worldbuilding/Places/The Inverse Palace]] - Emperor's residence
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government seat
+- [[The Inverse Palace]] - Emperor's residence
+- [[Parliament of Echoes]] - Government seat
 - Imperial Gardens and ceremonial spaces
 
 **The Noble Ring (300m depth)**
@@ -43,7 +44,7 @@ The Upper Districts are built on five main terraces, each at a different depth:
 **The Administrative Circle (400m depth)**
 - Government offices and civil service buildings
 - Imperial Academy and archives
-- [[02_Worldbuilding/Groups/The Depth Wardens]] headquarters
+- [[The Depth Wardens]] headquarters
 
 **The Merchant Heights (500m depth)**
 - Luxury shops and exclusive trading houses
@@ -78,7 +79,7 @@ The Upper Districts are built on five main terraces, each at a different depth:
 ## Notable Locations
 
 ### Government Buildings
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]** - The imperial legislature
+- **[[Parliament of Echoes]]** - The imperial legislature
 - **The Crystal Court** - Judicial center with truth-detecting crystals
 - **Imperial Treasury** - Heavily guarded financial center
 - **The Diplomatic Coral** - Foreign embassy complex
@@ -147,7 +148,7 @@ The Upper Districts are built on five main terraces, each at a different depth:
 ## Threats & Challenges
 
 ### Security Concerns
-- **[[02_Worldbuilding/Groups/Shadow Surgeons Collective]]** - Underground corruption network
+- **[[Shadow Surgeons Collective]]** - Underground corruption network
 - **Surface Infiltrators** - Spies and saboteurs
 - **Political Assassination** - Competition between noble houses
 - **Memory Thieves** - Criminals targeting consciousness-based services
@@ -185,16 +186,16 @@ The Upper Districts are built on five main terraces, each at a different depth:
 - Stop counterfeit crystal operation
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Rules from the Crown Tier
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Major noble house leader
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Diplomatic representative
+- [[Emperor Thalassius]] - Rules from the Crown Tier
+- [[Duke Cyrus Reefheart]] - Major noble house leader
+- [[Ambassador Nerida Deepcurrent]] - Diplomatic representative
 - Various noble house heads and government officials
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - The greater capital city
-- [[02_Worldbuilding/Places/The Inverse Palace]] - Imperial residence
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government center
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Underground counterpart
+- [[Abyssos Prime]] - The greater capital city
+- [[The Inverse Palace]] - Imperial residence
+- [[Parliament of Echoes]] - Government center
+- [[The Shadow Markets]] - Underground counterpart
 
 ## Quest Hooks
 1. Noble house rivalry threatens to destabilize district politics

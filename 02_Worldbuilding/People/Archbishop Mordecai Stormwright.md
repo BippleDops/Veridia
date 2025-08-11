@@ -10,7 +10,7 @@ race: Human
 class: Cleric
 level: 16
 alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]"
+location: "[[The Crystal Cathedral of Pure Light]]"
 faction: "[[Crystal Wardens]]"
 status: Alive
 created: 2025-08-09
@@ -33,14 +33,14 @@ Archbishop Mordecai Stormwright serves as the supreme religious authority for cr
 
 ## Key Connections
 - **[[Crystal Wardens]]** - Supreme religious authority and theological leader
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Close cooperation in anti-corruption campaigns
-- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]** - Primary residence and religious center
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual respect
-- **[[02_Worldbuilding/Places/The Crystal Hive Collective]]** - Primary target for purification missions
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Leading religious opposition to corruption
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Academic collaboration on crystal properties
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Provides theological justification for anti-crystal stance
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Seeks to consecrate ancient sites
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Deeply suspicious of mysterious figure's motives
-- **[[02_Worldbuilding/Groups/The Carrion Court]]** - Active crusade against undead influence
-- **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
+- **[[High Inquisitor Maltheos]]** - Close cooperation in anti-corruption campaigns
+- **[[The Crystal Cathedral of Pure Light]]** - Primary residence and religious center
+- **[[High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual respect
+- **[[The Crystal Hive Collective]]** - Primary target for purification missions
+- **[[The Whisper Syndicate]]** - Leading religious opposition to corruption
+- **[[Professor Aldric Crystalweaver]]** - Academic collaboration on crystal properties
+- **[[Purist Coalition]]** - Provides theological justification for anti-crystal stance
+- **[[The Sundered Vaults]]** - Seeks to consecrate ancient sites
+- **[[The Crimson Sage]]** - Deeply suspicious of mysterious figure's motives
+- **[[The Carrion Court]]** - Active crusade against undead influence
+- **[[The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade

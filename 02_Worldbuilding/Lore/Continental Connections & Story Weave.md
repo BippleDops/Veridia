@@ -16,8 +16,8 @@ All seven continents were once part of a single empire that discovered something
 
 ### The Hidden Pattern
 Each continent represents one aspect of the original empire's plan:
-1. **[[02_Worldbuilding/Places/Abyssos Prime]]** - The Control (government and power)
-2. **[[02_Worldbuilding/Places/Nereidios]]** - The Knowledge (what they discovered)
+1. **[[Abyssos Prime]]** - The Control (government and power)
+2. **[[Nereidios]]** - The Knowledge (what they discovered)
 3. **[[Corallion]]** - The Unity (forced convergence)
 4. **[[Vorthak]]** - The Experiment (reality manipulation)
 5. **[[Tenebrarum]]** - The Price (shadows as payment)
@@ -31,7 +31,7 @@ Each continent represents one aspect of the original empire's plan:
 - Secret tunnel system between capitals
 - Shadow senators have been replacing officials for decades
 - The Scattered Emperor's fragments include shadows
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] was originally from Abyssos Prime nobility
+- [[Shadow Duchess Nyx]] was originally from Abyssos Prime nobility
 - Joint project: The Harvest Protocol
 
 **Shared Secrets**:
@@ -45,7 +45,7 @@ Each continent represents one aspect of the original empire's plan:
 - Scholars discovered the crystals are receiving alien signals
 - Books in Nereidios predict Crystallium's future
 - The Infinite Archive has a Crystal Wing that exists in both places
-- [[02_Worldbuilding/People/The Resonance Prophet]] was trained in Nereidios
+- [[The Resonance Prophet]] was trained in Nereidios
 
 **Shared Mystery**: The Singers Beyond are trying to write reality
 

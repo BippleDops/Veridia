@@ -312,8 +312,8 @@ External threats to the alliance from groups opposing cooperation provide antago
 Information gathering and intelligence operations related to threats against the alliance create espionage-style adventures that combine investigation, infiltration, and analysis while serving important strategic objectives.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater member of the alliance
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface member of the alliance  
-- [[02_Worldbuilding/Lore/Parliament of Echoes]] - Aquabyssos governing body participating in the alliance
-- [[02_Worldbuilding/Lore/Hidden Sanctuary]] - Aethermoor resistance organization with alliance connections
-- [[02_Worldbuilding/Lore/High Diplomat Coral Bridgewater]] - Chief ambassador of the United Councils
+- [[Aquabyssos]] - Primary underwater member of the alliance
+- [[Aethermoor]] - Primary surface member of the alliance  
+- [[Parliament of Echoes]] - Aquabyssos governing body participating in the alliance
+- [[Hidden Sanctuary]] - Aethermoor resistance organization with alliance connections
+- [[High Diplomat Coral Bridgewater]] - Chief ambassador of the United Councils

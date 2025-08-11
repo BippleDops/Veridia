@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *The Clean Blade Movement, Crystal Breakers, Guardians of Natural Order*
 
 ## Overview
-The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Places/Aethermoor]]'s anti-crystal corruption movement, believing that the widespread use of [[02_Worldbuilding/Places/Aether Crystals]] is slowly poisoning both the land and its people. What began as a legitimate philosophical movement questioning magical dependence has evolved into a violent extremist organization that uses terrorism, sabotage, and assassination to "purify" the kingdom from crystal influence. They see themselves as freedom fighters saving civilization from magical addiction, but their methods often harm innocent civilians caught between ideology and pragmatism.
+The Purist Coalition Thugs represent the militant arm of [[Aethermoor]]'s anti-crystal corruption movement, believing that the widespread use of [[Aether Crystals]] is slowly poisoning both the land and its people. What began as a legitimate philosophical movement questioning magical dependence has evolved into a violent extremist organization that uses terrorism, sabotage, and assassination to "purify" the kingdom from crystal influence. They see themselves as freedom fighters saving civilization from magical addiction, but their methods often harm innocent civilians caught between ideology and pragmatism.
 
 ## History
 
@@ -38,7 +38,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ### The Radicalization (50 Years Ago)
 **From Philosophy to Violence**
 - Frustrated by government inaction on crystal regulation
-- Witnessed [[02_Worldbuilding/Groups/The Silverscale Consortium]] suppression of anti-crystal research
+- Witnessed [[The Silverscale Consortium]] suppression of anti-crystal research
 - First violent incident: bombing of crystal refinery killing 12 workers
 - Split from mainstream anti-crystal movement
 - Adopted cell-based organization structure for security
@@ -134,7 +134,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ### Specific Targets
 
 #### Primary Objectives
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]**: Primary enemy controlling crystal trade
+- **[[The Silverscale Consortium]]**: Primary enemy controlling crystal trade
 - **[[Crystal Research Facilities]]**: Scientific institutions studying magical applications
 - **[[Government Crystal Programs]]**: Official policies promoting magical dependence
 - **[[Major Crystal Users]]**: High-profile individuals representing magical corruption
@@ -182,14 +182,14 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 - **[[Foreign Anti-Magic States]]**: International groups with similar ideologies
 
 ### Primary Enemies
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]**: Economic powerhouse profiting from crystals
-- **[[02_Worldbuilding/Groups/The Crown Authority]]**: Government enabling magical dependency
+- **[[The Silverscale Consortium]]**: Economic powerhouse profiting from crystals
+- **[[The Crown Authority]]**: Government enabling magical dependency
 - **[[Crystal Research Institutes]]**: Scientific organizations advancing magical technology
 - **[[Magic User Associations]]**: Professional organizations of wizards and sorcerers
 - **[[Law Enforcement]]**: Security forces protecting crystal infrastructure
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Opposed to but not primary target (yet)
+- **[[Queen Seraphina Lumengarde]]**: Opposed to but not primary target (yet)
 - **[[Crystal Addiction Victims]]**: Those they claim to help but often victimize
 - **[[Working Class Citizens]]**: Potential recruits but often harmed by coalition actions
 - **[[Anti-Establishment Groups]]**: Potential allies with different motivations
@@ -259,7 +259,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 
 ### External Threats
 - Government security forces actively hunting coalition members
-- [[02_Worldbuilding/Groups/The Silverscale Consortium]] private security and intelligence
+- [[The Silverscale Consortium]] private security and intelligence
 - Magical law enforcement with supernatural detection capabilities
 - Public opinion turning against coalition due to civilian casualties
 - International pressure from magic-using allied nations
@@ -330,14 +330,14 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 
 ### Key NPCs
 - **[[Purifier Marcus Steelbane]]** - Coalition founder and leader
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]** - Primary consortium target
+- **[[Zephyr Goldwhisper]]** - Primary consortium target
 - **[[Brother Marcus Steelbane]]** - Religious figure with coalition sympathies
 - **[[Commander Elena Crystalbreaker]]** - Military operations coordinator
 - **[[Agent Viktor Cleanslate]]** - Intelligence and infiltration specialist
 
 ### Related Locations
 - **[[The Pure Sanctum]]** - Coalition headquarters
-- **[[02_Worldbuilding/Groups/The Silverscale Consortium]]** - Primary target organization
+- **[[The Silverscale Consortium]]** - Primary target organization
 - **[[Crystal Refineries]]** - Frequent attack targets
 - **[[Safe House Network]]** - Coalition operational infrastructure
 - **[[Training Camps]]** - Member preparation facilities

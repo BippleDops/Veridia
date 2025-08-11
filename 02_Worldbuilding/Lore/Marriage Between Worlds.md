@@ -210,7 +210,7 @@ Marriage Between Worlds represents the complex and evolving cultural phenomenon 
 - [[Ambassador Nerida Deepcurrent]] - Aquabyssos diplomat pioneering inter-realm marriage policies
 - [[Prince Caelum Stormwright]] - Aethermoor noble advocating for cultural integration through marriage
 - [[Marriage Counselor Tidal Harmony]] - Specialist in inter-realm relationship guidance and support
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Port official facilitating inter-realm family travel
+- [[Harbor Master Luna Freedrift]] - Port official facilitating inter-realm family travel
 - [[Cultural Mediator Coral Windweaver]] - Expert in resolving cross-cultural conflicts and misunderstandings
 - [[Legal Advisor Depth Justice]] - Attorney specializing in inter-realm marriage and family law
 - [[Religious Leader Father Ocean Breeze]] - Clergy member conducting inter-realm wedding ceremonies
@@ -218,21 +218,21 @@ Marriage Between Worlds represents the complex and evolving cultural phenomenon 
 ## Connected Locations
 - [[Inter-Realm Marriage Registry]] - Official government office for marriage licenses and documentation
 - [[Cultural Exchange Center]] - Community facility supporting inter-realm families and cultural education
-- [[02_Worldbuilding/Places/Harbor District]] - Commercial area where many inter-realm couples establish businesses
+- [[Harbor District]] - Commercial area where many inter-realm couples establish businesses
 - [[The Neutral Waters]] - Ceremonial location popular for inter-realm wedding ceremonies
 - [[Bridge-Builder Community Center]] - Support facility for children and families of mixed heritage
 - [[Embassy Quarter]] - Diplomatic district housing many inter-realm diplomatic marriages
 
 ## Connected Organizations
 - [[The Inter-Realm Marriage Guild]] - Professional support organization for cross-cultural couples
-- [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization benefiting from inter-realm marriage business connections
+- [[Merchants Guild]] - Trade organization benefiting from inter-realm marriage business connections
 - [[Cultural Integration Council]] - Government body developing policies for inter-realm social issues
 - [[Bridge-Builder Society]] - Youth organization for children of inter-realm marriages
 - [[Cross-Cultural Legal Association]] - Professional organization for attorneys specializing in inter-realm family law
 
 ## Connected Lore
-- [[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]] - Diplomatic agreements establishing framework for inter-realm relations
-- [[02_Worldbuilding/Lore/The Merchant Code of Ethics]] - Commercial ethics governing inter-realm business relationships
+- [[Aquabyssos-Aethermoor Treaties]] - Diplomatic agreements establishing framework for inter-realm relations
+- [[The Merchant Code of Ethics]] - Commercial ethics governing inter-realm business relationships
 - [[Cultural Exchange Programs]] - Educational initiatives promoting inter-realm understanding
 - [[Inter-Realm Trade Protocols]] - Commercial frameworks often involving married couples as trusted intermediaries
 - [[Cross-Cultural Adaptation Techniques]] - Practical methods for navigating cultural differences in daily life

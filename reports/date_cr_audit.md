@@ -1,0 +1,660 @@
+# Date and CR/Danger-Level Audit Report
+
+Date: 2025-08-11T12:51:39.721854Z
+
+## Summary
+- Files scanned: 954
+- Files modified: 67
+- Total date marker matches: 7604
+- People CR set/updated: 67
+- Places danger_level changes: 72
+
+## Date Tokens Found (top)
+- AS: 6735
+- YEARS AGO: 473
+- AC: 290
+- BCE: 15
+- YEAR 1: 11
+- BS: 10
+- AFTER SUBMERSION: 5
+- YEAR 5: 5
+- YEAR 0: 3
+- YEAR 3: 3
+- YEAR 14: 2
+- BEFORE SUBMERSION: 2
+- YEAR 2: 2
+- YEAR 4: 2
+- YEAR 7: 2
+- YEAR 11: 2
+- YEAR 15: 2
+- YEAR 37: 2
+- BEFORE CATASTROPHE: 2
+- YEAR AGO: 2
+- YEAR 847: 1
+- YEAR 21: 1
+- YEAR 51: 1
+- YEAR 76: 1
+- YEAR 100: 1
+- YEAR 234: 1
+- YEAR 592: 1
+- YEAR 9: 1
+- YEAR 13: 1
+- YEAR 18: 1
+- YEAR 22: 1
+- YEAR 26: 1
+- YEAR 29: 1
+- YEAR 33: 1
+- YEAR 35: 1
+- YEAR 40: 1
+- YEAR 43: 1
+- YEAR 46: 1
+- YEAR 49: 1
+- YEAR 25: 1
+- YEAR 50: 1
+- YEAR 200: 1
+- YEAR 600: 1
+- YEAR 500: 1
+- YEAR 893: 1
+- YEAR 894: 1
+- YEAR 898: 1
+- YEAR
+4: 1
+- YEAR 31: 1
+- YEAR 61: 1
+
+## People with CR set
+- 02_Worldbuilding/People/Archdruid Thornweaver.md: cr -> 6
+- 02_Worldbuilding/People/Archivist Mnemonic the Forgotten.md: cr -> 5
+- 02_Worldbuilding/People/Astrologer Prime Cassandra Starweaver.md: cr -> 5
+- 02_Worldbuilding/People/Banker Cornelius Goldflow.md: cr -> 5
+- 02_Worldbuilding/People/Barkeep Salty Sarah.md: cr -> 5
+- 02_Worldbuilding/People/Botanist Rose Sundrinker.md: cr -> 5
+- 02_Worldbuilding/People/Brother Matthias Inkdrinker.md: cr -> 5
+- 02_Worldbuilding/People/Captain Marcus.md: cr -> 8
+- 02_Worldbuilding/People/Captain Trawl Netcaster.md: cr -> 5
+- 02_Worldbuilding/People/Chancellor Octavius.md: cr -> 5
+- 02_Worldbuilding/People/Chronomancer Paradox.md: cr -> 5
+- 02_Worldbuilding/People/Coral Throne Syndicate.md: cr -> 12
+- 02_Worldbuilding/People/Crown Dome Conspiracy.md: cr -> 5
+- 02_Worldbuilding/People/Current Riders Guild.md: cr -> 8
+- 02_Worldbuilding/People/Depth Warden Patrol.md: cr -> 3
+- 02_Worldbuilding/People/Doctor Silas Voidtouch.md: cr -> 5
+- 02_Worldbuilding/People/Find the Shadow Cure.md: cr -> 7
+- 02_Worldbuilding/People/Gareth Goldenheart, The Chosen Vessel.md: cr -> 15
+- 02_Worldbuilding/People/Guildmaster Harwick.md: cr -> 5
+- 02_Worldbuilding/People/Harbormaster Erik Saltbeard.md: cr -> 3
+- 02_Worldbuilding/People/Healer Sage Bondseer.md: cr -> 5
+- 02_Worldbuilding/People/High Cultivist Jasper Lifebinder.md: cr -> 14
+- 02_Worldbuilding/People/High Priest Dagon Deepcaller.md: cr -> 16
+- 02_Worldbuilding/People/High Priestess Celeste Dawnbringer.md: cr -> 15
+- 02_Worldbuilding/People/Illyana Glowstream.md: cr -> 6
+- 02_Worldbuilding/People/Inquisitor Mordecai Truthseeker.md: cr -> 6
+- 02_Worldbuilding/People/Investigate the Crystal Plague.md: cr -> 8
+- 02_Worldbuilding/People/Luminous Hollow.md: cr -> 9
+- 02_Worldbuilding/People/Madame Whisper.md: cr -> 5
+- 02_Worldbuilding/People/Martha Hillbrook.md: cr -> 5
+- 02_Worldbuilding/People/Master Smith Coral-Hammer.md: cr -> 5
+- 02_Worldbuilding/People/Master of Currents Zephyr.md: cr -> 13
+- 02_Worldbuilding/People/Mediator Stillwater.md: cr -> 5
+- 02_Worldbuilding/People/Merchant Delilah Currentrunner.md: cr -> 5
+- 02_Worldbuilding/People/Navigator Sage Driftwood.md: cr -> 6
+- 02_Worldbuilding/People/Order of the Shattered Crown.md: cr -> 8
+- 02_Worldbuilding/People/Pressure Crystals.md: cr -> 5
+- 02_Worldbuilding/People/Pressure Politics.md: cr -> 5
+- 02_Worldbuilding/People/Pressure Terminal.md: cr -> 3
+- 02_Worldbuilding/People/Quest - Into the Wastes.md: cr -> 5
+- 02_Worldbuilding/People/Quest - Nature.md: cr -> 5
+- 02_Worldbuilding/People/Quest - Syndicate Shadows.md: cr -> 5
+- 02_Worldbuilding/People/Quest - The Blackmail Papers.md: cr -> 5
+- 02_Worldbuilding/People/Quest - The Missing Guards.md: cr -> 5
+- 02_Worldbuilding/People/Quest - The Perfect Purifier.md: cr -> 8
+- 02_Worldbuilding/People/Quest - The Pretender.md: cr -> 5
+- 02_Worldbuilding/People/Quest - The Root Network.md: cr -> 5
+- 02_Worldbuilding/People/Quest - The Runaway Golem.md: cr -> 5
+- 02_Worldbuilding/People/Quest - The Traitor Within.md: cr -> 6
+- 02_Worldbuilding/People/Sage Lyralei Starweaver.md: cr -> 5
+- 02_Worldbuilding/People/Session-4.md: cr -> 5
+- 02_Worldbuilding/People/Shadow Chancellor.md: cr -> 5
+- 02_Worldbuilding/People/Shadow Parliament.md: cr -> 5
+- 02_Worldbuilding/People/Surface Signals.md: cr -> 5
+- 02_Worldbuilding/People/Syndicate Enforcers.md: cr -> 5
+- 02_Worldbuilding/People/Syndicate War.md: cr -> 5
+- 02_Worldbuilding/People/Temporal Navigation.md: cr -> 17
+- 02_Worldbuilding/People/Tenebrarum Ambassadors.md: cr -> 12
+- 02_Worldbuilding/People/Throne of Bubbles.md: cr -> 20
+- 02_Worldbuilding/People/Trade War.md: cr -> 5
+- 02_Worldbuilding/People/Trader Grimm Voidheart.md: cr -> 5
+- 02_Worldbuilding/People/Tribune Cassia.md: cr -> 5
+- 02_Worldbuilding/People/Uniting the Factions.md: cr -> 5
+- 02_Worldbuilding/People/Vault Breach.md: cr -> 15
+- 02_Worldbuilding/People/Verdant Accord.md: cr -> 5
+- 02_Worldbuilding/People/Warden Marcus Stonehand.md: cr -> 6
+- 02_Worldbuilding/People/Whisper Translation.md: cr -> 5
+
+## Places danger_level changes
+- 02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal.md: "Low-Moderate" (unknown)
+- 02_Worldbuilding/Places/Abyssos Prime Docks.md: 3 (unknown)
+- 02_Worldbuilding/Places/Aethermoor.md: Varies (unknown)
+- 02_Worldbuilding/Places/Ancient Tunnels Beneath Palace.md: 8 (unknown)
+- 02_Worldbuilding/Places/Anti-Priest Nullus.md: 2 (unknown)
+- 02_Worldbuilding/Places/Battle Priest Cassius Depthshield.md: 3 (unknown)
+- 02_Worldbuilding/Places/Cathedral of Light.md: 1 (unknown)
+- 02_Worldbuilding/Places/Church of the Tidal Throne.md: 1 (unknown)
+- 02_Worldbuilding/Places/Courier Chief Swift Currentrider.md: 2 (unknown)
+- 02_Worldbuilding/Places/Crystal Gardens.md: 3 (unknown)
+- 02_Worldbuilding/Places/Crystalhaven.md: Low-Moderate (unknown)
+- 02_Worldbuilding/Places/Crystallium.md: 6 (unknown)
+- 02_Worldbuilding/Places/Forge of War.md: 3 (unknown)
+- 02_Worldbuilding/Places/Gallery of Frozen Waves.md: 1 (unknown)
+- 02_Worldbuilding/Places/Harbor District Customs House.md: 2 (unknown)
+- 02_Worldbuilding/Places/Harbor District.md: 2 (unknown)
+- 02_Worldbuilding/Places/Keeper of the Past, Elderly Morgan.md: "None" (unknown)
+- 02_Worldbuilding/Places/Lumengarde.md: "Low-Moderate" (unknown)
+- 02_Worldbuilding/Places/Mad Bell-Ringer Thomas.md: "None" (unknown)
+- 02_Worldbuilding/Places/Market_District.md: 2 (unknown)
+- 02_Worldbuilding/Places/Memoriam - The Forgotten Continent.md: "Cannot be remembered" (unknown)
+- 02_Worldbuilding/Places/Nereidios.md: "High (Mental)" (unknown)
+- 02_Worldbuilding/Places/Noble Quarter.md: 2 (unknown)
+- 02_Worldbuilding/Places/Palace Courtyard - Crystal Garden.md: 1 (unknown)
+- 02_Worldbuilding/Places/Parliament of Echoes - Public Gallery.md: 1 (unknown)
+- 02_Worldbuilding/Places/Parliament of Echoes.md: "High (Political)" (unknown)
+- 02_Worldbuilding/Places/Pearl_Harbor_City.md: 3 (unknown)
+- 02_Worldbuilding/Places/Port Meridian - Merchant Quarter.md: 4 (unknown)
+- 02_Worldbuilding/Places/Reef Guard Captain Torrent Shellborn.md: 3 (unknown)
+- 02_Worldbuilding/Places/Reflection Pools - Surgical Theater.md: 3 (unknown)
+- 02_Worldbuilding/Places/Royal Palace.md: 2 (unknown)
+- 02_Worldbuilding/Places/Scout Captain Vera Deepwatch.md: 7 (unknown)
+- 02_Worldbuilding/Places/Screaming Gardens.md: 7 (unknown)
+- 02_Worldbuilding/Places/Temple Guardian Marcus the Drowned.md: 3 (unknown)
+- 02_Worldbuilding/Places/Temple Ward.md: 1 (unknown)
+- 02_Worldbuilding/Places/The Azure Coast.md: 3 (unknown)
+- 02_Worldbuilding/Places/The Crystalline Foundry.md: 4 (unknown)
+- 02_Worldbuilding/Places/The Crystalline Wastes.md: 10 (unknown)
+- 02_Worldbuilding/Places/The Depth Market.md: 7 (unknown)
+- 02_Worldbuilding/Places/The Embassy Quarter.md: 2 (unknown)
+- 02_Worldbuilding/Places/The Eternal Senate.md: 7 (unknown)
+- 02_Worldbuilding/Places/The First Failure.md: 6 (unknown)
+- 02_Worldbuilding/Places/The Foundation Depths.md: 8 (unknown)
+- 02_Worldbuilding/Places/The Free Current.md: 4 (unknown)
+- 02_Worldbuilding/Places/The Frozen Throne.md: 9 (unknown)
+- 02_Worldbuilding/Places/The Hadal Depths.md: "Catastrophic" (unknown)
+- 02_Worldbuilding/Places/The Infinite Garden.md: 9 (unknown)
+- 02_Worldbuilding/Places/The Inverse Palace.md: 8 (unknown)
+- 02_Worldbuilding/Places/The Lock.md: 9 (unknown)
+- 02_Worldbuilding/Places/The Memory Meadows.md: 8 (unknown)
+- 02_Worldbuilding/Places/The Memory Storm Fields.md: 5 (unknown)
+- 02_Worldbuilding/Places/The Mourning Depths.md: 9 (unknown)
+- 02_Worldbuilding/Places/The Neutral Current Tavern.md: 1 (unknown)
+- 02_Worldbuilding/Places/The Neutral Ground.md: 2 (unknown)
+- 02_Worldbuilding/Places/The Phosphor Markets.md: "Low-Moderate" (unknown)
+- 02_Worldbuilding/Places/The Recursion Cult.md: 8 (unknown)
+- 02_Worldbuilding/Places/The Shadowmire Tavern.md: 2 (unknown)
+- 02_Worldbuilding/Places/The Shrinking Sanctuary.md: 5 (unknown)
+- 02_Worldbuilding/Places/The Silent Watcher.md: 4 (unknown)
+- 02_Worldbuilding/Places/The Sinking Atoll.md: 6 (unknown)
+- 02_Worldbuilding/Places/The Suicide Bridges.md: 10 (unknown)
+- 02_Worldbuilding/Places/The Sundered Peaks.md: Moderate-High (unknown)
+- 02_Worldbuilding/Places/The Sunken Library of Thalassius.md: "Moderate-High" (unknown)
+- 02_Worldbuilding/Places/The Tidepool Markets.md: 2 (unknown)
+- 02_Worldbuilding/Places/The Verdant Reach.md: Low-Moderate (unknown)
+- 02_Worldbuilding/Places/The Void Tears.md: 10 (unknown)
+- 02_Worldbuilding/Places/The Void Touched Depths.md: "Catastrophic" (unknown)
+- 02_Worldbuilding/Places/The Whispering Peaks.md: 8 (unknown)
+- 02_Worldbuilding/Places/Throne Room - Heart of Palace.md: 2 (unknown)
+- 02_Worldbuilding/Places/Whisper Island Docks.md: 3 (unknown)
+- 02_Worldbuilding/Places/Whisper Island.md: 9 (unknown)
+- 02_Worldbuilding/Places/Whisper-Touched William.md: 5 (unknown)
+
+## Files with mixed epoch markers (AC/BC and AS/BS)
+- 02_Worldbuilding/Groups/Shadow Surgeons Collective.md (world: Aquabyssos)
+- 02_Worldbuilding/Items/Shadow-touched Equipment Set.md (world: Aquabyssos)
+- 02_Worldbuilding/Lore/Crystal Garden.md (world: Both)
+- 02_Worldbuilding/Lore/Initiative Tracker.md (world: Both)
+- 02_Worldbuilding/People/Aboleth Adjunct Yzz.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Aboleth Prime Yoth.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Admiral Cassandra Stormwind.md (world: Aethermoor)
+- 02_Worldbuilding/People/Admiral Thorne Blackwater.md (world: )
+- 02_Worldbuilding/People/Aether Crystal.md (world: Aethermoor)
+- 02_Worldbuilding/People/Ambassador Korvin Blacktide.md (world: )
+- 02_Worldbuilding/People/Ambassador Lysandra Silvertonge.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Ambassador Nerida Deepcurrent.md (world: )
+- 02_Worldbuilding/People/Amnesia Gallery.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Archdruid Thornweaver.md (world: )
+- 02_Worldbuilding/People/Archon Meredith Saltweaver.md (world: )
+- 02_Worldbuilding/People/Aria Lumengarde.md (world: Aethermoor)
+- 02_Worldbuilding/People/Artisan Felix Reefwright.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Azure Citadel.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Azure Shard.md (world: Aethermoor)
+- 02_Worldbuilding/People/Banker Titus Goldcurrent.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Brother Marcus Steelbane.md (world: Aethermoor)
+- 02_Worldbuilding/People/Bubble Burst.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Captain Garrett Stormcutter.md (world: )
+- 02_Worldbuilding/People/Captain Lyanna Brightshield.md (world: )
+- 02_Worldbuilding/People/Captain Marcus.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Captain Nautilus the Deep Wanderer.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Castellan Ironledger III.md (world: )
+- 02_Worldbuilding/People/Chef Amara Tastecurrent.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Concierge Phillip Gracewater.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Coral Throne Syndicate.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Doctor Helena Voidwalker.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Duchess Marina Ever-Drowning.md (world: )
+- 02_Worldbuilding/People/Duke Cyrus Reefheart.md (world: )
+- 02_Worldbuilding/People/Elder Whisper-In-The-Dark.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Emperor Thalassius.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Empress Tethys the Ever-Drowning.md (world: )
+- 02_Worldbuilding/People/Enforcer Chief Mako Ironjaw.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Harbormaster Erik Saltbeard.md (world: Aethermoor)
+- 02_Worldbuilding/People/Healer Sage Bondseer.md (world: Aquabyssos)
+- 02_Worldbuilding/People/High Cultivist Jasper Lifebinder.md (world: Aquabyssos)
+- 02_Worldbuilding/People/High Inquisitor Maltheos.md (world: )
+- 02_Worldbuilding/People/High Priest Dagon Deepcaller.md (world: )
+- 02_Worldbuilding/People/High Priestess Celeste Dawnbringer.md (world: Aethermoor)
+- 02_Worldbuilding/People/High Priestess Scylla Deepdream.md (world: )
+- 02_Worldbuilding/People/Illyana Glowstream.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Innkeeper Mara Ironlung.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Inquisitor Mordecai Truthseeker.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Jasper "Three-Eyes" Flint.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Keeper Elara Mindwell.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Keeper of the Shattered Crown, Marcus Crystalvein.md (world: Aethermoor)
+- 02_Worldbuilding/People/Lady Vivienne the Unfrozen.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Lighthouse Keeper.md (world: Aethermoor)
+- 02_Worldbuilding/People/Lord Commander Gareth Steelborn.md (world: )
+- 02_Worldbuilding/People/Lord Reginald Seaworthy.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Luminous Hollow.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Madame Whisper.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Marcus Shardbreaker Grimm.md (world: )
+- 02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Marina-Red-Tide-Coralheart.md (world: )
+- 02_Worldbuilding/People/Master Artificer Korvin Gearwright.md (world: )
+- 02_Worldbuilding/People/Master Cultivator Thalia Greenglow.md (world: Cross-Realm)
+- 02_Worldbuilding/People/Master Smith Vulcan Deepforge.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Master of Currents Zephyr.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Merchant Delilah Currentrunner.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Merchant Prince Akula.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Merchant Viktor Geargrind.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Merchant.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Navigator Flux.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Navigator Sage Driftwood.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Nerissa_Deepcurrent.md (world: )
+- 02_Worldbuilding/People/Old Sally Seasprayer.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Order of the Shattered Crown.md (world: Aethermoor)
+- 02_Worldbuilding/People/Original Glaucus.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Parliament Loyalists.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Pressure Terminal.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Pressure Tubes.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Prince Caspian Duskwater.md (world: )
+- 02_Worldbuilding/People/Prophet Nerida Voidgazer.md (world: )
+- 02_Worldbuilding/People/Quest - Crystal Innovation.md (world: Aethermoor)
+- 02_Worldbuilding/People/Sage Lysander Deepthought.md (world: )
+- 02_Worldbuilding/People/Senator Glaucus.md (world: )
+- 02_Worldbuilding/People/Senator_Glaucus_Brain.md (world: )
+- 02_Worldbuilding/People/Seventh Shard.md (world: Aethermoor)
+- 02_Worldbuilding/People/Shadow Broker Mist.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Shadow Duchess Nyx.md (world: )
+- 02_Worldbuilding/People/Shadow Merchant Riptide.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Sir Marcus Dawnforge.md (world: )
+- 02_Worldbuilding/People/Sister Morwyn Veilkeeper.md (world: )
+- 02_Worldbuilding/People/Sorrow-Root Nightbloom.md (world: )
+- 02_Worldbuilding/People/Teacher Miranda Hopekeeper.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Temporal Navigation.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Tenebrarum Ambassadors.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Tenebrarum.md (world: Aquabyssos)
+- 02_Worldbuilding/People/The_Crimson_Pearl.md (world: )
+- 02_Worldbuilding/People/Throne of Bubbles.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Unite the Emperor.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Verdant Shard.md (world: Aethermoor)
+- 02_Worldbuilding/People/Vex Shadowthorn's Apprentices.md (world: Both Realms)
+- 02_Worldbuilding/People/Vex Shadowthorn.md (world: )
+- 02_Worldbuilding/People/Warden Marcus Stonehand.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Withered Court.md (world: Aethermoor)
+- 02_Worldbuilding/People/Zephyr Goldwhisper.md (world: )
+- 02_Worldbuilding/Places/Abyssal Cathedral.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Abyssos Prime - Inverse Palace.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Alternative-Path-Fled-City.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Angels and Depths.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Artificer.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Beast Master Krell Chainbreaker.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Cathedral of Light.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Crystal Gardens.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Elder Matthias Stoneward.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Enchanter Valdris Peacewarden.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Envoy Blackwater Jr..md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Gatekeeper Iron-Lung Boris.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Harbor District.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Ironhold.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Keeper of the Dead, Sister Morwyn.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Memoriam - The Forgotten Continent.md (world: )
+- 02_Worldbuilding/Places/Memory Merchant Zephyr Mindweaver.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Noble Quarter.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/Screaming Gardens.md (world: )
+- 02_Worldbuilding/Places/Temple Ward.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Barnacle.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Biomancers.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Cerulean Breath.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Crimson Sage.md (world: )
+- 02_Worldbuilding/Places/The Crimson Shard Guardian.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Crystal Merchant.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Crystalline Foundry.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Deep Fugitive.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Emperor.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The First Failure.md (world: )
+- 02_Worldbuilding/Places/The Floating Market.md (world: Dimensional Nexus (Both Realms))
+- 02_Worldbuilding/Places/The Forgotten Representative.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Foundation Depths.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Gilded Shard.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Last Priest.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Lock.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Memory Meadows.md (world: )
+- 02_Worldbuilding/Places/The Memory Thief.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Pressure Conspiracy.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Resonance Prophet.md (world: )
+- 02_Worldbuilding/Places/The Scattered Emperor.md (world: )
+- 02_Worldbuilding/Places/The Senator.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Silhouette Surgeon Prime.md (world: )
+- 02_Worldbuilding/Places/The Siren.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Sorrowmaster.md (world: Aquabyssos)
+- 02_Worldbuilding/Places/The Suicide Bridges.md (world: )
+- 02_Worldbuilding/Places/The Sundered Vaults.md (world: )
+- 02_Worldbuilding/Places/The Tidecaller.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Void Tears.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Whisper Island Docks.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Aether Crystals.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Ambush Point.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Aquabyssos.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Bandit Leader Scarface.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Bandit Scouts.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Caravan Master Dolrim.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Crystalline Depths.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Depths of Whispers.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Elena Starweaver.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Find the Grief Bomb.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Find_the_Missing_Caravan.md (world: )
+- 02_Worldbuilding/Quests/Goldspire Confederacy.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - Hearts and Minds.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - Smuggler's Run.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - The Lost Expedition.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - The Pretender's Crown.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Rescue Senator Glaucus.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/Smuggler's Gambit.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Smuggler.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/The Depth Accords.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/The Lock Saboteur.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/The Maw of Darkness.md (world: Aquabyssos)
+- 02_Worldbuilding/Quests/The Oracle of the Sundered Peaks.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/The Whispering Expanse.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Traveling Merchant Finn.md (world: Aquabyssos)
+
+## Files with epoch mismatch based on world
+- Aethermoor should use AC/BC; Aquabyssos should use AS/BS.
+- 02_Worldbuilding/Groups/Captain Rodrigo Ironanchor.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Consortium Security Constructs.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Crystal Wardens.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Establish New World Order.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Establish the New Order.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Lady Venetia Silkwind.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Master Artificers Guild.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Master Chen Wei.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Parliament-of-Shadows-Campaign.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Groups/Purist Coalition Thugs.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Rewrite the World Order.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Shadow Bazaar.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Silverscale Consortium.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/The Convergence Seekers.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Groups/The Crown Authority.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/The Forsaken Consortium Collective.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/The Liminal Trading Company.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Groups/The Shadow-Crystal Synthesis.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Groups/The Void Watchers.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Groups/Vex Shadowthorn Boss Fight.md (world: Aethermoor)
+- 02_Worldbuilding/Groups/Vex Shadowthorn.md (world: Aethermoor)
+- 02_Worldbuilding/Items/Aether Crystals.md (world: Aethermoor)
+- 02_Worldbuilding/Items/The Resonance Forge Hammer.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Aetheric Wind Songs.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Aethermoor Archives.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Aethermoor Wind Rider Traditions.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Aetheron.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Ancient Siege Tunnels.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Aquabyssos Ambassadors.md (world: Both Aethermoor and Aquabyssos)
+- 02_Worldbuilding/Lore/Aquabyssos World Guide.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Arcanum Heights.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Bloodline Awakening Powers.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Campaign Path.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Cloud Shepherd Guild Customs.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Clues by Location.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Confront the Possessed Queen.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Continental War.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Convergence Point.md (world: Both Aethermoor and Aquabyssos)
+- 02_Worldbuilding/Lore/Create New Location.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Create New NPC.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Create New Session.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Crimson Hand Apprentices.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Crystal Cult Initiates Ambush.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Crystal Festival.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Crystal Guard Elite.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Crystal Mimics.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Crystal-Corruption-Tracking-Sheet.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Dataview Query Guide.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Depth Surnames.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Determine Aquabyssos.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Director Hadrian Silverscale.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Dock Worker Tomás.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Eastern Kingdoms 2.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Eastern Kingdoms.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Face the Ancient Threat.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Fortress of the Deeps.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Goldwave Manor.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Hidden Sanctuary.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Hybrid Abominations.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/INV-002.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/INV-003.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/INV-006.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/INV-007.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/INV-008.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/INV-009.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Identity Crisis Resolution.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Infected Experiments.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Infiltrate Surgical Facilities.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Item Template.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Lighthouse Peak - Resonance Chamber.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Lighthouse Ruins.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Lighthouse of Storms.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Like This.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Location Name.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Lord Flux.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Memory Alterations.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Memory Merchant Valeria.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Memory Tide Events.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Memory Trader Kellian.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Meta Bind Examples.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Monster Manual Reference.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/NPC Cross-World Connections.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/NPC Name Generator.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/NPC Relationship Web.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Name.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Navigate Singer Consciousness.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Pier 7.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Possessed Noble Coterie.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Pre-Submersion Ruins.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Prep Note.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Princess Celestia.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Professor Euclid Mindmaze.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Queen Seraphina.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Quest Index.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Race Against the Festival.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Random Encounter Tables - Aquabyssos.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Random-Encounter-Tables-Aethermoor.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Resonance Chamber.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Rewriting the Ritual.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Ritual Redirection Options.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Royal Embassy.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Save Marina.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Save Queen Seraphina.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Save-Transform Reality.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Silver Mask.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Silverscale Banking House.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Silverscale Emergency Bunker.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Sky Burial Traditions.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Skyforged Crystal Worship.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Coral Courts.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Crystal Festival Grounds.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Crystal Festival.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Deep Mother.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Final Sealing.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Forgotten Archive.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Possessed Queen.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Queen.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Remembrancer General.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Seahawk.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Seven Betrayers.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Shattering of the Crown.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/The Singer Beyond.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Throne Room.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Unite or Divide.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Unite the Recursions.md (world: Aethermoor)
+- 02_Worldbuilding/Lore/Unite the Two Worlds.md (world: Aethermoor)
+- 02_Worldbuilding/People/Assassin.md (world: Aethermoor)
+- 02_Worldbuilding/People/Astrologer Prime Cassandra Starweaver.md (world: Aethermoor)
+- 02_Worldbuilding/People/Banker Cornelius Goldflow.md (world: Aethermoor)
+- 02_Worldbuilding/People/Barkeep Salty Sarah.md (world: Aethermoor)
+- 02_Worldbuilding/People/Botanist Rose Sundrinker.md (world: Aethermoor)
+- 02_Worldbuilding/People/Brother Matthias Inkdrinker.md (world: Aethermoor)
+- 02_Worldbuilding/People/Brother Matthias the Amber Bearer.md (world: Aethermoor)
+- 02_Worldbuilding/People/Captain Elara Shadowshard.md (world: Aethermoor)
+- 02_Worldbuilding/People/Captain Trawl Netcaster.md (world: Aethermoor)
+- 02_Worldbuilding/People/Chancellor Octavius.md (world: Aethermoor)
+- 02_Worldbuilding/People/Chronomancer Paradox.md (world: Aethermoor)
+- 02_Worldbuilding/People/Commander Thrace Ironwood.md (world: Aethermoor)
+- 02_Worldbuilding/People/Crown Dome Conspiracy.md (world: Aethermoor)
+- 02_Worldbuilding/People/Doctor Silas Voidtouch.md (world: Aethermoor)
+- 02_Worldbuilding/People/Gareth Goldenheart, The Chosen Vessel.md (world: Aethermoor)
+- 02_Worldbuilding/People/Guildmaster Harwick.md (world: Aethermoor)
+- 02_Worldbuilding/People/Keeper Elara Moonwhisper.md (world: Aethermoor)
+- 02_Worldbuilding/People/Knight.md (world: Aethermoor)
+- 02_Worldbuilding/People/Lady Jade Clawgrip.md (world: Aethermoor)
+- 02_Worldbuilding/People/Lord Aurelius Goldwave.md (world: Aethermoor)
+- 02_Worldbuilding/People/Madame Rosalind Goldleaf.md (world: Aethermoor)
+- 02_Worldbuilding/People/Marcus "The Shade" Blackwood.md (world: Aethermoor)
+- 02_Worldbuilding/People/Martha Hillbrook.md (world: Aethermoor)
+- 02_Worldbuilding/People/Master Smith Coral-Hammer.md (world: Aethermoor)
+- 02_Worldbuilding/People/Mediator Stillwater.md (world: Aethermoor)
+- 02_Worldbuilding/People/Pip Goldleaf.md (world: Aethermoor)
+- 02_Worldbuilding/People/Pressure Crystals.md (world: Aethermoor)
+- 02_Worldbuilding/People/Pressure Politics.md (world: Aethermoor)
+- 02_Worldbuilding/People/Professor Aldric Crystalweaver.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - Into the Wastes.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - Nature.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - Syndicate Shadows.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Blackmail Papers.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Missing Guards.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Perfect Purifier.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Pretender.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Root Network.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Traitor Within.md (world: Aethermoor)
+- 02_Worldbuilding/People/Quest - The Void Conspiracy.md (world: Aethermoor)
+- 02_Worldbuilding/People/Royal Vault.md (world: Aethermoor)
+- 02_Worldbuilding/People/Sage Lyralei Starweaver.md (world: Aethermoor)
+- 02_Worldbuilding/People/Scholar Vivienne the Chronicler.md (world: Aethermoor)
+- 02_Worldbuilding/People/Session-4.md (world: Aethermoor)
+- 02_Worldbuilding/People/Shadow Chancellor.md (world: Aethermoor)
+- 02_Worldbuilding/People/Shadow Parliament.md (world: Aethermoor)
+- 02_Worldbuilding/People/Supplier Erikson Tidecaller.md (world: Aquabyssos)
+- 02_Worldbuilding/People/Surface Signals.md (world: Aethermoor)
+- 02_Worldbuilding/People/Syndicate Enforcers.md (world: Aethermoor)
+- 02_Worldbuilding/People/Syndicate War.md (world: Aethermoor)
+- 02_Worldbuilding/People/Trade War.md (world: Aethermoor)
+- 02_Worldbuilding/People/Trader Grimm Voidheart.md (world: Aethermoor)
+- 02_Worldbuilding/People/Tribune Cassia.md (world: Aethermoor)
+- 02_Worldbuilding/People/Uniting the Factions.md (world: Aethermoor)
+- 02_Worldbuilding/People/Verdant Accord.md (world: Aethermoor)
+- 02_Worldbuilding/People/Whisper Translation.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Ancient Tunnels Beneath Palace.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Breaking the Deep.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Choir Master Celestine Hymnsinger.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Crystal Wardens.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Dr. Siphon Gillwater.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Forge Master Petra Hammerdeep.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Garden Keeper Zen Currentdancer.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Harbor District Customs House.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Hidden Smuggler's Cove.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Mad Prophet Silas the Depth-Touched.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Market Master Cornelius Driftwood.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Merchant Lord Silas Copperfield.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Palace Courtyard - Crystal Garden.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Palace Guard Captain Neutralis.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Port Meridian - Harbor District.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Port Meridian - Market Square.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Port Meridian - Merchant Quarter.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Port Meridian - Noble Quarter.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Quest - The Blackmail Papers.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Quest - The Dying Forest.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Quest - The Missing Fleet.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Quest - The Pretender.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Quest - The Root Network.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Quest - The Truth Unveiled.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Retired Captain Bron Saltbeard.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Royal Palace of Meridian.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Screaming Gardens - Songwood Grove.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Secret Vault Beneath Throne.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Seeds of the Past.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Sky Trader Zephyr Windcatcher.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Sylvanheart.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Tavern Keeper Finn Splitlung.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Taverner Bubbles McGill.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Azure Coast.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Azure Prophet Nerissa.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Bloodline Carrier.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Conductor.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Coral Throne Syndicate.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Corroded Crown.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Crystal Wardens.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Crystalline Wastes.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Cure.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Divine Trial.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Drowning Truth.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Embassy Quarter.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Emerald Sage Willowbark.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Forgotten Collective.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Great Drowning.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Harbor Depths.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Kelp Highway.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Last Dance.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Lost Shipment.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Nameless Auditor.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Order of the Shattered Crown.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Party.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Perfect Symbiosis.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Pressure Crown.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Purification Gardens.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Reflection Pools.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Royal Palace.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Seven Seals.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Shadow Warren.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Singing Shadows.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Siren's Rest Tavern.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Sunken Crown Cipher.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Verdant Accord.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Vote Vault Mystery.md (world: Aethermoor)
+- 02_Worldbuilding/Places/The Whisper Island Mystery.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Throne Room - Heart of Palace.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Truth and Madness.md (world: Aethermoor)
+- 02_Worldbuilding/Places/Whisper Island.md (world: Both Aethermoor and Aquabyssos)
+- 02_Worldbuilding/Places/Whisper-Witch Naia Softcurrent.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - Divine Intervention.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - Foreign Interests.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - The Convergence Crisis.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Quests/Quest - The Crown Reborn.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - The Crystal Festival.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - The Memory Bridge.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Quests/Quest - The Moderate Path.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance.md (world: Both Aethermoor & Aquabyssos)
+- 02_Worldbuilding/Quests/Stop the Crystal Festival Ritual.md (world: Aethermoor)
+- 02_Worldbuilding/Quests/The Crown's Burden.md (world: Aethermoor)
+
+## Notes
+- Date abbreviations normalized: A.C./B.C. -> AC/BC.
+- No automatic conversion between AC/BC and AS/BS performed.
+- Non-standard date schemes (BCE/CE, spelled phrases) listed above for manual review.
+- People frontmatter now includes `cr:` if a Challenge value was found in content.
+- Places frontmatter `danger_level` normalized to Low/Moderate/High/Extreme (default Moderate when missing).

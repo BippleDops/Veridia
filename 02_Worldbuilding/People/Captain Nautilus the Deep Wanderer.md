@@ -7,7 +7,7 @@ role: "Deep Mother's Explorer"
 affiliation: "The Deep Wanderers (Independent)"
 age: "Unknown (appears ageless)"
 race: "Human (Divinely Transformed)"
-location: "[[02_Worldbuilding/Places/The Hadal Depths]] - Wandering"
+location: "[[The Hadal Depths]] - Wandering"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *Explorer of the Mother's Domain, Mapper of Divine Dreams*
 
 ## Overview
-Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, charting the [[02_Worldbuilding/Places/The Hadal Depths]] and mapping the physical form of the sleeping [[02_Worldbuilding/Lore/The Deep Mother]]. Transformed by years of exposure to divine presence and impossible pressures, he has become something between mortal explorer and divine servant, tasked with understanding the Deep Mother's physical manifestation and preparing for her eventual awakening.
+Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, charting the [[The Hadal Depths]] and mapping the physical form of the sleeping [[The Deep Mother]]. Transformed by years of exposure to divine presence and impossible pressures, he has become something between mortal explorer and divine servant, tasked with understanding the Deep Mother's physical manifestation and preparing for her eventual awakening.
 
 ## Description
 - **Appearance**: Tall figure with pressure-adapted features, skin with a pearl-like sheen
@@ -81,28 +81,28 @@ Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, 
 ## Relationships & Deep Network
 
 ### Divine Servants & Deep Explorers
-- **[[02_Worldbuilding/People/Elder Whisper-In-The-Dark]]** - Fellow servant of [[02_Worldbuilding/Lore/Deep Mother]], shares prophetic insights
-- **[[02_Worldbuilding/Groups/The Deep Wanderers]]** - Network of explorers mapping divine presence
+- **[[Elder Whisper-In-The-Dark]]** - Fellow servant of [[Deep Mother]], shares prophetic insights
+- **[[The Deep Wanderers]]** - Network of explorers mapping divine presence
 - **Deep Priests** - Clerics serving the oceanic depths who revere his mission
-- **[[02_Worldbuilding/Groups/The Void Watchers]]** - Organization monitoring cosmic forces
+- **[[The Void Watchers]]** - Organization monitoring cosmic forces
 - **Other Divine Champions** - Rare individuals transformed by cosmic powers
 
 ### Military & Official Contacts
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Military leader who values his deep intelligence
-- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]** - [[02_Worldbuilding/Groups/The Depth Wardens]] commander needing deep reconnaissance
-- **[[02_Worldbuilding/People/Emperor Thalassius the Wise]]** - Ancient ruler who understands divine servants
+- **[[Admiral Thorne Blackwater]]** - Military leader who values his deep intelligence
+- **[[Commander Typhoon Blackheart]]** - [[The Depth Wardens]] commander needing deep reconnaissance
+- **[[Emperor Thalassius the Wise]]** - Ancient ruler who understands divine servants
 - **Deep Patrol Units** - Military forces operating in his territory
 - **Research Stations** - Scientific outposts monitoring deep-sea phenomena
 
 ### Complex Relationships
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]** - Ancient aboleth that may try to manipulate or oppose him
-- **[[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]]** - Fellow adapted individual who might understand his transformation
+- **[[Aboleth Prime Yoth]]** - Ancient aboleth that may try to manipulate or oppose him
+- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Fellow adapted individual who might understand his transformation
 - **Surface Authorities** - Officials who need his warnings but fear his divine nature
 - **Deep-Sea Creatures** - Ancient beings that recognize his protected status
 
 ### Information Network
 - **Deep Observation Posts** - Network of monitoring stations throughout the depths
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]** - Repository where he may store dangerous knowledge
+- **[[The Archive of Unremembered Things]]** - Repository where he may store dangerous knowledge
 - **Scientific Community** - Researchers studying deep-sea phenomena and divine manifestations
 - **Early Warning Network** - System for alerting surface world to Deep Mother's stirring
 
@@ -130,17 +130,17 @@ Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, 
 
 ## Relationships
 ### Divine Connections
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Direct servant and observer
+- **[[The Deep Mother]]**: Direct servant and observer
 - **[[Sister Thalassa the Depth-Touched]]**: Shares information about Mother's dreams
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Tense relationship over Mother's favor
+- **[[Aboleth Prime Yoth]]**: Tense relationship over Mother's favor
 - **[[The Dream Shepherds]]**: Coordinates with other divine servants
 - **Deep Sea Creatures**: Commands respect from abyssal life forms
 
 ### Surface Relations
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Provides intelligence about deep activities
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Occasionally consults government officials
+- **[[The Scattered Emperor]]**: Provides intelligence about deep activities
+- **[[Parliament of Echoes]]**: Occasionally consults government officials
 - **[[The Depth Wardens]]**: Military force that sometimes aids his missions
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Theological debates about Mother's will
+- **[[High Priestess Scylla Deepdream]]**: Theological debates about Mother's will
 - **Independent Researchers**: Few scholars brave enough to study his findings
 
 ## Services & Knowledge
@@ -188,7 +188,7 @@ Captain Nautilus has spent decades exploring the deepest reaches of Aquabyssos, 
 - Protected by Deep Mother's power from most forms of harm
 
 ## Connected Elements
-- Central source of information about [[02_Worldbuilding/Lore/The Deep Mother]]'s physical state
+- Central source of information about [[The Deep Mother]]'s physical state
 - Links deep exploration themes to cosmic horror elements
 - Provides early warning system for campaign's cosmic threat
 - Represents transformation in service to greater purpose
@@ -317,13 +317,13 @@ When encountered in the Deep Mother's vicinity or at one of his observation post
 - Only beings other than Nautilus trusted to approach the Deep Mother's head region
 
 ### Divine Network Connections
-**[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Theological partnership and occasional conflict
+**[[High Priestess Scylla Deepdream]]**: Theological partnership and occasional conflict
 - Regular debates about interpretation of Deep Mother's will and intentions
 - Collaborates on rituals to commune safely with sleeping goddess
 - Disagreement over whether awakening should be prevented or prepared for
 - Mutual respect despite fundamental philosophical differences about divine intervention
 
-**[[02_Worldbuilding/People/Captain Echoing Thunder]]**: Military liaison maintaining government contact
+**[[Captain Echoing Thunder]]**: Military liaison maintaining government contact
 - Provides intelligence about Deep Mother's activity to naval command
 - Receives protection for Deep Wanderer operations in return for warnings
 - Struggles with loyalty between divine mission and national service
@@ -336,31 +336,31 @@ When encountered in the Deep Mother's vicinity or at one of his observation post
 - Collaboration on evacuation procedures for awakening-related disasters
 
 ### Cross-Campaign Integration
-**[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Repository for Deep Mother's ancient memories
+**[[Archivist Mnemonic the Forgotten]]**: Repository for Deep Mother's ancient memories
 - Stores cultural memories from civilizations that worshiped the Deep Mother
 - Preserves records of previous divine stirrings and their consequences
 - Provides historical context for current awakening signs
 - Maintains archive of prophecies related to oceanic divine awakening
 
-**[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Ethical memory preservation partnership
+**[[Memory Merchant Valeria Siltweave]]**: Ethical memory preservation partnership
 - Shares memories of Deep Mother experiences with trauma survivors seeking healing
 - Collaborates on preserving cultural memories of divine encounters
 - Provides therapeutic framework for processing overwhelming cosmic experiences
 - Refers clients needing specialized divine-related memory therapy
 
-**[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]**: Research collaboration on divine crystalline phenomena
+**[[Professor Aldric Crystalweaver]]**: Research collaboration on divine crystalline phenomena
 - Studies crystalline formations appearing on Deep Mother's body parts
 - Analyzes crystal resonance patterns that correlate with divine heartbeat changes
 - Provides technical expertise on crystal-based early warning systems
 - Collaborates on research into divine consciousness affecting material reality
 
-**[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Deep Mother's awakening affects dimensional stability
+**[[Quest - The Convergence Crisis]]**: Deep Mother's awakening affects dimensional stability
 - Her stirring sends ripples through the cosmic fabric affecting multiple realities
 - Nautilus's observations provide crucial data for understanding convergence effects
 - Awakening timeline may accelerate due to dimensional weakening
 - His warning network becomes critical for multi-dimensional threat assessment
 
-**[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Interested in Deep Mother as cosmic force
+**[[The Convergence Seekers]]**: Interested in Deep Mother as cosmic force
 - View her awakening as potential key to their dimensional manipulation goals
 - Seek Nautilus's knowledge about divine consciousness spanning multiple realities
 - Potential alliance or conflict depending on their true intentions
@@ -373,13 +373,13 @@ When encountered in the Deep Mother's vicinity or at one of his observation post
 - Coordinates with port authorities to prepare for divine weather events
 - Maintains cover stories to explain supernatural maritime phenomena
 
-**[[02_Worldbuilding/People/Scholar Vivienne the Chronicler]]**: Academic collaboration on divine lore
+**[[Scholar Vivienne the Chronicler]]**: Academic collaboration on divine lore
 - Shares historical records about oceanic deities and their awakening patterns
 - Provides scholarly analysis of Nautilus's observational data
 - Collaborates on translating ancient prophecies about the Deep Mother
 - Maintains academic credibility for Deep Wanderer research
 
-**[[02_Worldbuilding/Groups/The Memory Keepers]]**: Alliance preserving oceanic cultural heritage
+**[[The Memory Keepers]]**: Alliance preserving oceanic cultural heritage
 - Documents traditional knowledge of sea-faring peoples about divine presence
 - Preserves cultural memories threatened by commercialization and forgetting
 - Maintains oral traditions about proper relationships with oceanic deities
@@ -478,7 +478,7 @@ When encountered in the Deep Mother's vicinity or at one of his observation post
 
 ### 1. The Accelerating Heartbeat (Level 12-18)
 The Deep Mother's heartbeat has suddenly doubled in speed, causing massive tidal disruptions worldwide. Nautilus needs investigators to determine what has triggered this acceleration.
-- **Leads**: Investigation reveals correlation with [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+- **Leads**: Investigation reveals correlation with [[Quest - The Convergence Crisis]]
 - **Complications**: Accelerated awakening timeline threatens multiple coastal civilizations
 - **Rewards**: 25,000gp, permanent divine protection, early warning about cosmic threats
 

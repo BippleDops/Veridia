@@ -6,9 +6,9 @@ tags:
   - trade
   - merchants
 type: Grand Market
-region: "[[02_Worldbuilding/Places/Port Meridian]]"
+region: "[[Port Meridian]]"
 danger_level: Moderate
-controlled_by: "[[02_Worldbuilding/Groups/Merchant Princes]]"
+controlled_by: "[[Merchant Princes]]"
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/grand_bazaar_echoing_coins.jpg"
   - Category/Place
@@ -21,7 +21,7 @@ obsidianUIMode: preview
 *Where Every Currency Sings and All Fortunes Are Made*
 
 ## Overview
-The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[02_Worldbuilding/Places/Port Meridian]]. This massive commercial district operates under the direct protection of the [[02_Worldbuilding/Groups/Merchant Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated financial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
+The Grand Bazaar of Echoing Coins is the largest and most influential marketplace in the known world, spanning twelve city blocks in the heart of [[Port Meridian]]. This massive commercial district operates under the direct protection of the [[Merchant Princes]], featuring hundreds of permanent shops, thousands of temporary stalls, and the most sophisticated financial exchange systems ever developed. The bazaar's name comes from the magical acoustics that make every coin dropped audible throughout the complex, creating a constant symphony of commerce.
 
 ## Market Structure
 
@@ -58,15 +58,15 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 - **[[Madame Rosalind Goldleaf]]** - Information brokerage and social commodities
 
 ### Independent Major Traders
-- **[[02_Worldbuilding/People/Merchant Viktor Geargrind]]** - Specialized equipment and magical devices
-- **[[02_Worldbuilding/People/Banker Titus Goldcurrent]]** - International banking and currency exchange
-- **[[02_Worldbuilding/People/Antiquarian Eliza Tidecaller]]** - Historical artifacts and archaeological finds
-- **[[02_Worldbuilding/People/Memory Merchant Valeria]]** - Magical services and memory manipulation
+- **[[Merchant Viktor Geargrind]]** - Specialized equipment and magical devices
+- **[[Banker Titus Goldcurrent]]** - International banking and currency exchange
+- **[[Antiquarian Eliza Tidecaller]]** - Historical artifacts and archaeological finds
+- **[[Memory Merchant Valeria]]** - Magical services and memory manipulation
 
 ### Specialized Service Providers
-- **[[02_Worldbuilding/People/Merchant Delilah Currentrunner]]** - Rapid courier and shipping services
-- **[[02_Worldbuilding/People/Market Master Cornelius Driftwood]]** - Bazaar coordination and stall assignments
-- **[[02_Worldbuilding/People/Keeper of Contracts Minerva Bindingword]]** - Legal services and contract enforcement
+- **[[Merchant Delilah Currentrunner]]** - Rapid courier and shipping services
+- **[[Market Master Cornelius Driftwood]]** - Bazaar coordination and stall assignments
+- **[[Keeper of Contracts Minerva Bindingword]]** - Legal services and contract enforcement
 - **Assessment Master Tobias Goldscale** - Item valuation and authenticity verification
 
 ## Financial Systems & Services
@@ -92,9 +92,9 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ## Merchant Networks & Trade Routes
 
 ### International Connections
-- **Northern Route** - Trade with [[02_Worldbuilding/Places/Crystalhaven]] and mountain kingdoms
+- **Northern Route** - Trade with [[Crystalhaven]] and mountain kingdoms
 - **Southern Seas** - Maritime connections to tropical trading partners
-- **Eastern Overland** - Caravan routes through [[02_Worldbuilding/Places/The Sundered Peaks]]
+- **Eastern Overland** - Caravan routes through [[The Sundered Peaks]]
 - **Western Islands** - Island-hopping trade networks and exotic goods
 
 ### Supplier Networks
@@ -104,16 +104,16 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 - **Monster Hunter Associations** - Exotic materials from dangerous expeditions
 
 ### Distribution Channels
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]** - Gray market distribution
+- **[[Independent Smugglers]]** - Gray market distribution
 - **Noble House Purchasing Agents** - Direct sales to aristocracy
 - **Regional Merchant Caravans** - Bulk distribution to smaller markets
-- **[[02_Worldbuilding/People/The Current Merchants]]** - Rapid delivery services
+- **[[The Current Merchants]]** - Rapid delivery services
 
 ## Security & Regulations
 
 ### Market Protection
 - **Merchant Guard Companies** - Private security for valuable shipments
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]'s Patrols** - Official city watch presence
+- **[[Captain Lyanna Brightshield]]'s Patrols** - Official city watch presence
 - **Magic Detection Teams** - Identifying cursed or dangerous items
 - **Anti-Theft Enchantments** - Magical security throughout the bazaar
 
@@ -132,7 +132,7 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ## Underworld Connections
 
 ### Criminal Infiltration
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Money laundering operations
+- **[[The Whisper Syndicate]]** - Money laundering operations
 - **Stolen Goods Fences** - Converting illegal items to legitimate sales
 - **Information Brokers** - Trading in secrets and blackmail material
 - **Protection Rackets** - Illegal security "services" for vulnerable merchants
@@ -154,11 +154,11 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 ### Regional Economics
 - **Price Setting** - Bazaar rates influence markets across the continent
 - **Employment** - Provides jobs for 50,000+ people directly
-- **Tax Revenue** - Major source of income for [[02_Worldbuilding/Places/Port Meridian]]
+- **Tax Revenue** - Major source of income for [[Port Meridian]]
 - **Innovation Hub** - New business models and financial instruments
 
 ### Political Influence
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** effectively rule the city
+- **[[Merchant Princes]]** effectively rule the city
 - **Foreign Relations** - Economic ties influence diplomatic policies
 - **Military Funding** - Financing various factions and conflicts
 - **Information Control** - News and rumors spread from bazaar networks
@@ -224,18 +224,18 @@ The Grand Bazaar of Echoing Coins is the largest and most influential marketplac
 - **Sky Bridges** - Elevated walkways connecting major merchant buildings
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian]] - Host city providing legal framework
-- [[02_Worldbuilding/Places/Crystalhaven]] - Major trading partner via northern routes
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Competing and complementary black markets
-- [[02_Worldbuilding/Places/The Sundered Peaks]] - Source of exotic mountain goods
-- [[02_Worldbuilding/Places/The Azure Coast]] - Regional network of smaller markets
+- [[Port Meridian]] - Host city providing legal framework
+- [[Crystalhaven]] - Major trading partner via northern routes
+- [[The Shadow Markets]] - Competing and complementary black markets
+- [[The Sundered Peaks]] - Source of exotic mountain goods
+- [[The Azure Coast]] - Regional network of smaller markets
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Primary owners and operators
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal infiltration and money laundering
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Gray market distribution networks
+- [[Merchant Princes]] - Primary owners and operators
+- [[The Whisper Syndicate]] - Criminal infiltration and money laundering
+- [[Independent Smugglers]] - Gray market distribution networks
 - [[Crystal Wardens]] - Investigating illegal crystal trade
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Both customer and threat to shipping
+- [[The Crimson Fleet]] - Both customer and threat to shipping
 
 ## Current Threats & Opportunities
 - Rising tensions between major merchant houses threatening market stability

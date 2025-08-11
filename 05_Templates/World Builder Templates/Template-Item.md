@@ -7,9 +7,9 @@ obsidianUIMode: preview
 aliases:
   - ItemOtherName
 Connected_Quests:
-  - "[[05_Templates/World Builder Templates/Template-Quest.md|Template-Quest]]"
+  - "[[World Builder Templates/Template-Quest.md|Template-Quest]]"
 Connected_Groups:
-  - "[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]"
+  - "[[World Builder Templates/Template-Group.md|Template-Group]]"
 ---
 
 <%*

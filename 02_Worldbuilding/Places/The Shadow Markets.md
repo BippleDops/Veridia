@@ -5,7 +5,7 @@ world: "Aquabyssos"
 type: "location"
 security_level: "high"
 access: "members_only"
-danger_level: "high"
+danger_level: High
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11
@@ -275,28 +275,28 @@ Communal treasury supporting market operations:
 
 ### Primary Alliances
 
-**[[02_Worldbuilding/Places/Shadow Market Canals]]**
+**[[Shadow Market Canals]]**
 Transportation and logistics partnership:
 - Discrete movement of goods and people between locations including [[Port Meridian Harbor]]
 - Shared security protocols and mutual defense agreements
 - Coordinated pricing and territory agreements
 - Joint operations for major criminal enterprises connecting to [[Port Meridian - Market Square]]
 
-**[[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]**
+**[[The Shadowhawk Syndicate]]**
 Cross-realm criminal organization:
 - Intelligence sharing and operational coordination
 - Joint ventures for international criminal enterprises
 - Mutual protection against law enforcement
 - Shared resources for large-scale operations
 
-**[[02_Worldbuilding/Places/Vote Vaults]]**
+**[[Vote Vaults]]**
 Political manipulation coordination:
 - Joint operations for election manipulation
 - Shared intelligence on political targets
 - Coordinated bribery and corruption efforts
 - Mutual protection of political assets
 
-**[[02_Worldbuilding/Groups/Syndicate Enforcers]]**
+**[[Syndicate Enforcers]]**
 Muscle and enforcement services:
 - Shared security personnel for major operations
 - Joint response to external threats
@@ -305,21 +305,21 @@ Muscle and enforcement services:
 
 ### Subsidiary Operations
 
-**[[02_Worldbuilding/Places/Memory Thief]]**
+**[[Memory Thief]]**
 Specialized memory extraction facility:
 - Exclusive supplier of rare and valuable memories
 - Joint operations for acquiring target memories
 - Shared security for sensitive memory storage
 - Coordinated intelligence gathering through memory extraction
 
-**[[02_Worldbuilding/Groups/The Forgotten Collective]]**
+**[[The Forgotten Collective]]**
 Identity management and witness protection:
 - False identity creation and background establishment
 - Witness relocation and protection services
 - Memory modification for identity changes
 - Long-term security for high-value individuals
 
-**[[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**
+**[[Hidden Smuggler's Cove]]**
 Maritime smuggling operations:
 - Goods transfer between sea and underground networks
 - Joint storage and distribution operations
@@ -479,7 +479,7 @@ A plan emerges to rob the Markets themselves, requiring the party to choose side
 ### Hidden Truths
 
 **The Royal Connection**
-The Shadow Markets pay tribute to the royal family through [[02_Worldbuilding/Places/Secret Vault Beneath Throne]], making them technically a legitimate business enterprise with connections to [[02_Worldbuilding/Places/The Royal Palace]].
+The Shadow Markets pay tribute to the royal family through [[Secret Vault Beneath Throne]], making them technically a legitimate business enterprise with connections to [[The Royal Palace]].
 
 **The Prophecy Traders**
 A secret sub-market deals in prophecies and future knowledge, with traders who may not be entirely human.

@@ -6,9 +6,9 @@ tags:
   - industrial
   - fortress
 type: Fortress-Dungeon
-region: "[[02_Worldbuilding/Places/The Sundered Peaks]]"
+region: "[[The Sundered Peaks]]"
 danger_level: Extreme
-controlled_by: "[[02_Worldbuilding/Groups/The Crimson Fleet]]"
+controlled_by: "[[The Crimson Fleet]]"
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/crimson_foundries.jpg"
   - Category/Place
@@ -21,15 +21,15 @@ obsidianUIMode: preview
 *Where War is Forged and Blood Flows Like Metal*
 
 ## Overview
-The Crimson Foundries are a massive industrial fortress built into the volcanic peaks of [[02_Worldbuilding/Places/The Sundered Peaks]], serving as the primary weapons manufacturing facility for [[02_Worldbuilding/Groups/The Crimson Fleet]]. This multi-level complex combines military fortification with advanced metallurgy, powered by volcanic heat and manned by enslaved workers, corrupted guards, and fire elementals bound to serve [[02_Worldbuilding/People/Captain Marrow Drinker]].
+The Crimson Foundries are a massive industrial fortress built into the volcanic peaks of [[The Sundered Peaks]], serving as the primary weapons manufacturing facility for [[The Crimson Fleet]]. This multi-level complex combines military fortification with advanced metallurgy, powered by volcanic heat and manned by enslaved workers, corrupted guards, and fire elementals bound to serve [[Captain Marrow Drinker]].
 
 ## Fortress Structure
 
 ### Level 1: The Anvil Gates
-- **Main Entrance**: Massive adamantine gates guarded by [[02_Worldbuilding/Groups/The Crimson Fleet]] marines
+- **Main Entrance**: Massive adamantine gates guarded by [[The Crimson Fleet]] marines
 - **Visitor Processing**: Where legitimate traders and spies are sorted
-- **Guard Barracks**: 200 elite marines commanded by [[02_Worldbuilding/People/Commander Drake Pressureborn]]
-- **Weapon Testing Grounds**: Live fire ranges overlooking [[02_Worldbuilding/Places/The Crystalline Wastes]]
+- **Guard Barracks**: 200 elite marines commanded by [[Commander Drake Pressureborn]]
+- **Weapon Testing Grounds**: Live fire ranges overlooking [[The Crystalline Wastes]]
 
 ### Level 2: Production Floors
 - **Crystal Weapon Assembly**: Where corrupted crystals are weaponized
@@ -41,38 +41,38 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 - **Primary Furnaces**: Fed directly by volcanic lava tubes
 - **Elemental Binding Chambers**: Where fire elementals are enslaved
 - **Master's Workshop**: [[Master Smith Vulcan Deepforge]]'s personal domain
-- **Crystal Corruption Labs**: Experiments led by [[02_Worldbuilding/People/Doctor Silas Voidtouch]]
+- **Crystal Corruption Labs**: Experiments led by [[Doctor Silas Voidtouch]]
 
 ### Level 4: Command & Control
-- **War Room**: Strategic planning under [[02_Worldbuilding/People/Admiral Thorne Blackwater]]
+- **War Room**: Strategic planning under [[Admiral Thorne Blackwater]]
 - **Communications Array**: Crystal-powered long-range communication
 - **Officers' Quarters**: Luxurious apartments for fleet commanders
 - **Trophy Hall**: Weapons from defeated enemies displayed
 
 ### The Depths: The Slag Pits
 - **Slave Quarters**: Hundreds of workers in horrific conditions
-- **Punishment Chambers**: Torture facilities run by [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]]
+- **Punishment Chambers**: Torture facilities run by [[Enforcer Chief Mako Ironjaw]]
 - **Failed Experiments**: Mutated creatures from crystal corruption tests
-- **Emergency Evacuation**: Secret tunnels to [[02_Worldbuilding/Places/Hidden Smuggler's Cove]]
+- **Emergency Evacuation**: Secret tunnels to [[Hidden Smuggler's Cove]]
 
 ## Key NPCs
 
 ### Leadership
 - **[[Master Smith Vulcan Deepforge]]** - Master craftsman and facility overseer
-- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]** - Military commander
-- **[[02_Worldbuilding/People/Commander Drake Pressureborn]]** - Security chief
-- **[[02_Worldbuilding/People/Doctor Silas Voidtouch]]** - Head of corruption experiments
+- **[[Admiral Thorne Blackwater]]** - Military commander
+- **[[Commander Drake Pressureborn]]** - Security chief
+- **[[Doctor Silas Voidtouch]]** - Head of corruption experiments
 
 ### Workers & Prisoners
-- **[[02_Worldbuilding/People/Forge Master Petra Hammerdeep]]** - Reluctant enslaved master smith
+- **[[Forge Master Petra Hammerdeep]]** - Reluctant enslaved master smith
 - **Rebellion Leader Kessa Ironwill** - Organizing slave uprising
-- **[[02_Worldbuilding/People/Engineer Brass Gearspin]]** - Captured gnome inventor
+- **[[Engineer Brass Gearspin]]** - Captured gnome inventor
 - **Fire Warden Pyrros** - Bound fire elemental seeking freedom
 
 ## Military Assets
 
 ### Garrison
-- 200 [[02_Worldbuilding/Groups/The Crimson Fleet]] marines
+- 200 [[The Crimson Fleet]] marines
 - 50 corrupted crystal guardians
 - 12 bound fire elementals
 - 30 enslaved war machines
@@ -92,29 +92,29 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 ## Connections & Operations
 
 ### Supply Network
-- Raw materials from [[02_Worldbuilding/Places/The Crystal Mines of Sorrow]]
-- Slave labor raids from [[02_Worldbuilding/Places/Nereidios]]
-- Coal shipments from [[02_Worldbuilding/Places/The Shadow Markets]]
-- Crystal corruption research shared with [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+- Raw materials from [[The Crystal Mines of Sorrow]]
+- Slave labor raids from [[Nereidios]]
+- Coal shipments from [[The Shadow Markets]]
+- Crystal corruption research shared with [[The Whisper Syndicate]]
 
 ### Military Coordination
-- Direct command link to [[02_Worldbuilding/People/Captain Marrow Drinker]]
-- Supplies weapons to [[02_Worldbuilding/Groups/Purist Coalition]] (secretly)
-- Coordinates with [[02_Worldbuilding/Places/The Kraken's Harbor]] for naval warfare
-- Intelligence sharing with [[02_Worldbuilding/People/Spymaster Crow]]
+- Direct command link to [[Captain Marrow Drinker]]
+- Supplies weapons to [[Purist Coalition]] (secretly)
+- Coordinates with [[The Kraken's Harbor]] for naval warfare
+- Intelligence sharing with [[Spymaster Crow]]
 
 ### Economic Impact
-- Competes with legitimate smiths in [[02_Worldbuilding/Places/Port Meridian]]
-- Supplies to mercenary groups via [[02_Worldbuilding/Groups/Independent Smugglers]]
-- Crystal weapons traded through [[02_Worldbuilding/People/Memory Merchant Valeria]]
-- Profits flow to [[02_Worldbuilding/People/Banker Titus Goldcurrent]] for laundering
+- Competes with legitimate smiths in [[Port Meridian]]
+- Supplies to mercenary groups via [[Independent Smugglers]]
+- Crystal weapons traded through [[Memory Merchant Valeria]]
+- Profits flow to [[Banker Titus Goldcurrent]] for laundering
 
 ## Combat Encounters
 
 ### Random Encounters (d12)
 | Roll | Encounter |
 |------|-----------|
-| 1-2 | Patrol of 4 [[02_Worldbuilding/Groups/The Crimson Fleet]] marines |
+| 1-2 | Patrol of 4 [[The Crimson Fleet]] marines |
 | 3-4 | Steam vent eruption (3d6 fire damage, CON save) |
 | 5-6 | Enslaved smith begging for rescue |
 | 7-8 | Bound fire elemental testing its bonds |
@@ -133,28 +133,28 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 - **Master's Vault**: Contains blueprints for crystal-powered airships
 - **Emergency Arsenal**: 500 masterwork weapons
 - **Corruption Samples**: Vials of weaponized crystal essence
-- **Slave Liberation Plans**: Hidden by [[02_Worldbuilding/People/Forge Master Petra Hammerdeep]]
+- **Slave Liberation Plans**: Hidden by [[Forge Master Petra Hammerdeep]]
 
 ### Secret Intelligence
 > [!warning] DM Only
-> - Contains plans for invasion of [[02_Worldbuilding/Places/Crystalhaven]]
+> - Contains plans for invasion of [[Crystalhaven]]
 > - Holds one of the Seven Shards in the master forge
-> - Secret tunnel connects to [[02_Worldbuilding/Groups/The Whisper Syndicate]] operations
+> - Secret tunnel connects to [[The Whisper Syndicate]] operations
 > - Fire elementals can be turned against captors with right ritual
 
 ## Quest Hooks
 
 ### Liberation Missions
-1. **Free the Slaves**: Help [[02_Worldbuilding/People/Forge Master Petra Hammerdeep]] organize uprising
+1. **Free the Slaves**: Help [[Forge Master Petra Hammerdeep]] organize uprising
 2. **Sabotage Production**: Destroy weapon manufacturing for [[Crystal Wardens]]
-3. **Steal the Plans**: Acquire invasion blueprints for [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]
+3. **Steal the Plans**: Acquire invasion blueprints for [[Lord Commander Gareth Steelborn]]
 4. **Free the Elementals**: Help bound fire elementals escape
 
 ### Investigation Plots
 5. **Follow the Weapons**: Track corrupted weapons to their source
-6. **Infiltrate the Command**: Spy on [[02_Worldbuilding/People/Admiral Thorne Blackwater]]'s war planning
-7. **The Missing Smith**: Find [[02_Worldbuilding/People/Engineer Brass Gearspin]] before execution
-8. **Corruption Research**: Discover [[02_Worldbuilding/People/Doctor Silas Voidtouch]]'s experiments
+6. **Infiltrate the Command**: Spy on [[Admiral Thorne Blackwater]]'s war planning
+7. **The Missing Smith**: Find [[Engineer Brass Gearspin]] before execution
+8. **Corruption Research**: Discover [[Doctor Silas Voidtouch]]'s experiments
 
 ## Environmental Hazards
 
@@ -185,20 +185,20 @@ The Crimson Foundries are a massive industrial fortress built into the volcanic 
 - Elemental binding disruption creates chaos
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain region housing the foundries
-- [[02_Worldbuilding/Places/The Crystal Mines of Sorrow]] - Raw material source
-- [[02_Worldbuilding/Places/The Kraken's Harbor]] - Naval coordination point
-- [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] - Emergency escape route
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Supply chain connection
+- [[The Sundered Peaks]] - Mountain region housing the foundries
+- [[The Crystal Mines of Sorrow]] - Raw material source
+- [[The Kraken's Harbor]] - Naval coordination point
+- [[Hidden Smuggler's Cove]] - Emergency escape route
+- [[The Shadow Markets]] - Supply chain connection
 
 ## Connected Factions
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Primary controllers
+- [[The Crimson Fleet]] - Primary controllers
 - [[Crystal Wardens]] - Primary enemies
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Secret cooperation
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Secret weapons recipients
+- [[The Whisper Syndicate]] - Secret cooperation
+- [[Purist Coalition]] - Secret weapons recipients
 
 ## Active Threats
-- Slave rebellion brewing under [[02_Worldbuilding/People/Forge Master Petra Hammerdeep]]
+- Slave rebellion brewing under [[Forge Master Petra Hammerdeep]]
 - Fire elementals growing increasingly restless
 - Crystal corruption spreading to nearby areas
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] planning investigation
+- [[Captain Lyanna Brightshield]] planning investigation

@@ -298,8 +298,8 @@ Treatment of crystal-influenced individuals raises questions about rehabilitatio
 Community leadership challenges require balancing individual needs against group welfare, creating opportunities for characters to explore different approaches to social organization and responsibility.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aethermoor]] - The corrupted kingdom the sanctuary opposes
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Primary enemy threatening the surface world
-- [[02_Worldbuilding/Lore/Resistance Leader Thane Freeheart]] - Commander of the sanctuary operations
-- [[02_Worldbuilding/Lore/Crystal Garden]] - Corrupted area from which many refugees fled
-- [[02_Worldbuilding/Lore/The Transformed Citizens]] - Population the resistance seeks to liberate
+- [[Aethermoor]] - The corrupted kingdom the sanctuary opposes
+- [[The Crystal Influence]] - Primary enemy threatening the surface world
+- [[Resistance Leader Thane Freeheart]] - Commander of the sanctuary operations
+- [[Crystal Garden]] - Corrupted area from which many refugees fled
+- [[The Transformed Citizens]] - Population the resistance seeks to liberate

@@ -5,13 +5,14 @@ world: "Aethermoor"
 type: "Forest City"
 population: 180000
 government: "Circle of Elders"
-leader: "[[02_Worldbuilding/People/Archdruid Thornweaver]]"
+leader: "[[Archdruid Thornweaver]]"
 specialties: ["Natural Magic", "Environmental Harmony", "Herbal Medicine", "Forest Protection"]
 founded: "Time Immemorial"
 climate: "Temperate Forest"
 created: 2025-08-09
 updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Places/The Verdant Reach]]", "[[02_Worldbuilding/Lore/Continental War]]", "[[02_Worldbuilding/Lore/The Restoration Movement]]"]
+related_entities: ["[[The Verdant Reach]]", "[[Continental War]]", "[[The Restoration Movement]]"]
+danger_level: Moderate
 ---
 
 # Sylvanheart
@@ -19,9 +20,9 @@ related_entities: ["[[02_Worldbuilding/Places/The Verdant Reach]]", "[[02_Worldb
 
 ## Overview
 
-Sylvanheart represents the pinnacle of harmonious coexistence between civilization and the natural world, a living city grown rather than built within the ancient forests of [[02_Worldbuilding/Places/The Verdant Reach]]. This unique settlement demonstrates that progress and environmental preservation are not mutually exclusive, offering an alternative model of development that has attracted attention from across [[02_Worldbuilding/Places/Aethermoor]] and beyond.
+Sylvanheart represents the pinnacle of harmonious coexistence between civilization and the natural world, a living city grown rather than built within the ancient forests of [[The Verdant Reach]]. This unique settlement demonstrates that progress and environmental preservation are not mutually exclusive, offering an alternative model of development that has attracted attention from across [[Aethermoor]] and beyond.
 
-The city exists as a partnership between multiple species - elves, humans, halflings, and others - all united under the guidance of the Circle of Elders and the leadership of [[02_Worldbuilding/People/Archdruid Thornweaver]]. Rather than imposing structures upon the landscape, Sylvanheart's inhabitants have persuaded the forest itself to provide shelter, transportation, and infrastructure through careful cultivation and respectful cooperation.
+The city exists as a partnership between multiple species - elves, humans, halflings, and others - all united under the guidance of the Circle of Elders and the leadership of [[Archdruid Thornweaver]]. Rather than imposing structures upon the landscape, Sylvanheart's inhabitants have persuaded the forest itself to provide shelter, transportation, and infrastructure through careful cultivation and respectful cooperation.
 
 ## Geography & Living Architecture
 
@@ -101,9 +102,9 @@ Life in Sylvanheart follows natural cycles:
 **Consulting Services**: Expertise in sustainable development and environmental restoration
 
 ### Trade Relationships
-**[[02_Worldbuilding/Places/Crystalhaven]]**: Exchange of natural materials for magical knowledge
-**[[02_Worldbuilding/Places/Ironhold]]**: Forest products for metal tools and equipment
-**[[02_Worldbuilding/Places/Port Meridian]]**: Herbal goods and consulting for international trade
+**[[Crystalhaven]]**: Exchange of natural materials for magical knowledge
+**[[Ironhold]]**: Forest products for metal tools and equipment
+**[[Port Meridian]]**: Herbal goods and consulting for international trade
 **Rural Communities**: Support for sustainable agricultural development
 
 ### Resource Management
@@ -147,7 +148,7 @@ Life in Sylvanheart follows natural cycles:
 **Environmental Weapons**: Ability to use forest itself as weapon against invaders
 
 ### Historical Military Role
-During [[02_Worldbuilding/Lore/Continental War]]:
+During [[Continental War]]:
 - Initially maintained neutrality
 - Eventually mediated peace negotiations
 - Provided humanitarian aid to all sides

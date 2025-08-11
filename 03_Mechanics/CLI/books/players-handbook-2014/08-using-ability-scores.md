@@ -422,8 +422,8 @@ The Difficulty Class for a saving throw is determined by the effect that causes 
 
 The result of a successful or failed saving throw is also detailed in the effect that allows the save. Usually, a successful save means that a creature suffers no harm, or reduced harm, from an effect.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
+[[DnD5e-DM Screen-2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
+[[DnD5e-SideScreen-2014]]
 
-[[08_Archive/1-DM Toolkit/Travel Calculator]]
+[[1-DM Toolkit/Travel Calculator]]

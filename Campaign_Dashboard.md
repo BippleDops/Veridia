@@ -257,9 +257,9 @@ color yellow
 - [[Sanity Horror Framework]] - Madness tracking
 
 ### Resource Management
-- [[04_Resources/Assets]] - Visual materials
-- [[04_Resources/Handouts]] - Player handouts
-- [[04_Resources/Random_Tables]] - Generation tables
+- [[Assets]] - Visual materials
+- [[Handouts]] - Player handouts
+- [[Random_Tables]] - Generation tables
 - [[07_Player_Resources]] - Player references
 - [[06_GM_Resources]] - GM materials
 

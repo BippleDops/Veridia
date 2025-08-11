@@ -5,7 +5,7 @@ world: "Aquabyssos"
 type: "npc"
 CR: 12
 class: "Aberrant Mind Sorcerer/Great Old One Warlock"
-location: "[[02_Worldbuilding/Places/New Thalassopolis]]"
+location: "[[New Thalassopolis]]"
 faction: "Independent Noble"
 created_by: "Claude"
 created: 2025-08-09
@@ -22,7 +22,7 @@ obsidianUIMode: preview
 > *"Reality is such a fragile concept, don't you think? One moment you're drowning, the next you're flying, and sometimes... sometimes you're both. Or neither. Or something that hasn't been invented yet."*
 
 ## Overview
-Lord Cassius Flux, known as "the Inconsistent," is one of the most powerful and unpredictable nobles in [[02_Worldbuilding/Places/New Thalassopolis]]. Originally a surface-world aristocrat who was transformed during [[The Great Drowning]], he has since become something far stranger than the typical Drowning Embrace survivors. His exposure to chaotic energies from [[The Wound]] in the [[The Hadean Depth]] has granted him reality-warping abilities that make him both invaluable and dangerous to the [[The Depth Hierarchy]].
+Lord Cassius Flux, known as "the Inconsistent," is one of the most powerful and unpredictable nobles in [[New Thalassopolis]]. Originally a surface-world aristocrat who was transformed during [[The Great Drowning]], he has since become something far stranger than the typical Drowning Embrace survivors. His exposure to chaotic energies from [[The Wound]] in the [[The Hadean Depth]] has granted him reality-warping abilities that make him both invaluable and dangerous to the [[The Depth Hierarchy]].
 
 ## Appearance
 - **Age**: Appears to be in his 40s, but his actual age fluctuates with reality distortions
@@ -125,13 +125,13 @@ Cassius Flux was born into the aristocratic Flux family, renowned merchants and 
 Unlike most who received [[The Drowning Embrace]] as a desperate survival measure, Cassius actively sought out the most dangerous aspects of the transformation. During the [[The Final Submersion]], he dove deeper than any other survivor, reaching the edges of what would become [[The Wound]] - the reality tear left by the failed weather magic. This exposure to raw chaotic forces changed him beyond the typical Drowning Embrace.
 
 ### Rise to Power
-His unique abilities made him invaluable to the emerging [[The Depth Hierarchy]]. He could navigate impossibly dangerous areas, communicate with entities that existed outside normal reality, and solve problems that required thinking beyond conventional limitations. [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]] granted him noble status both for his abilities and to keep him close where he could be monitored.
+His unique abilities made him invaluable to the emerging [[The Depth Hierarchy]]. He could navigate impossibly dangerous areas, communicate with entities that existed outside normal reality, and solve problems that required thinking beyond conventional limitations. [[Empress Tethys the Ever-Drowning]] granted him noble status both for his abilities and to keep him close where he could be monitored.
 
 ## Current Role & Position
 
 ### Political Standing
 - **Title**: Lord of the Impossible Estates (properties that exist in multiple dimensions)
-- **Territory**: The Flux Demesne - a district of [[02_Worldbuilding/Places/New Thalassopolis]] where reality is particularly malleable
+- **Territory**: The Flux Demesne - a district of [[New Thalassopolis]] where reality is particularly malleable
 - **Role in Government**: Special Advisor on Anomalous Events and Reality Stability
 - **Relationship with Empress**: Cautiously respected; she values his abilities but fears his unpredictability
 
@@ -145,8 +145,8 @@ Lord Flux's territory is a wonder and terror of Aquabyssos:
 ## Relationships & Political Connections
 
 ### Allied With:
-- **[[02_Worldbuilding/People/The Deep Dreamers]] Leadership**: Shares their interest in reality's malleable nature
-- **[[02_Worldbuilding/People/Doctor Marius Lastbreath]]**: Collaborates on transformation research
+- **[[The Deep Dreamers]] Leadership**: Shares their interest in reality's malleable nature
+- **[[Doctor Marius Lastbreath]]**: Collaborates on transformation research
 - **[[The Void Touched]] Explorers**: Provides safe passage through reality-unstable areas
 
 ### Opposed By:
@@ -155,8 +155,8 @@ Lord Flux's territory is a wonder and terror of Aquabyssos:
 - **Orthodox Church of Drowning Truths**: Considers his transformation heretical
 
 ### Complex Relationships:
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Valuable but unpredictable ally
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Professional respect despite philosophical differences
+- **[[Empress Tethys the Ever-Drowning]]**: Valuable but unpredictable ally
+- **[[Ambassador Korvin Blacktide]]**: Professional respect despite philosophical differences
 - **Surface World Representatives**: Simultaneously fascinated and terrified by him
 
 ## Secrets & Hidden Agendas
@@ -173,7 +173,7 @@ Lord Flux's territory is a wonder and terror of Aquabyssos:
 ### Secret Knowledge:
 - Has been to alternate timelines where the Great Drowning never happened
 - Knows the exact location and nature of [[The Wound]] in the Hadean Depths
-- Understands the true relationship between the [[02_Worldbuilding/Lore/The Seven Shards]] and Aquabyssos's reality distortions
+- Understands the true relationship between the [[The Seven Shards]] and Aquabyssos's reality distortions
 - Has met versions of himself from other realities, some of which never underwent the Drowning Embrace
 
 ### The Flux Paradox
@@ -220,9 +220,9 @@ Lord Flux's greatest secret: he's slowly losing coherence as a single individual
 - Could become tragically sympathetic if players understand his true goals
 
 ## Connected NPCs & Plots
-- [[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]] - Complex political relationship
-- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] - Diplomatic tensions about reality stability
-- [[02_Worldbuilding/Places/The Wound]] - Source of his power and greatest danger
+- [[Empress Tethys the Ever-Drowning]] - Complex political relationship
+- [[Ambassador Korvin Blacktide]] - Diplomatic tensions about reality stability
+- [[The Wound]] - Source of his power and greatest danger
 - [[The Deep Dreamers]] - Potential allies in reality manipulation
 - [[The Preservation Current]] - Primary opposition to his experiments
 

@@ -563,6 +563,6 @@ A **ranged weapon attack** automatically misses a target beyond the weapon's nor
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
+[[DnD5e-DM Screen-2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
+[[DnD5e-SideScreen-2014]]

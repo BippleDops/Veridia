@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-Marina represents one of the most complex identity crises in the converging worlds of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]. What appears to be a simple case of mistaken identity or memory alteration is actually a fundamental question about the nature of reality itself. The "real" Marina is not a single person, but rather a dimensional anchor point—a consciousness that exists simultaneously across both realities and serves as a bridge between worlds.
+Marina represents one of the most complex identity crises in the converging worlds of [[Aethermoor]] and [[Aquabyssos]]. What appears to be a simple case of mistaken identity or memory alteration is actually a fundamental question about the nature of reality itself. The "real" Marina is not a single person, but rather a dimensional anchor point—a consciousness that exists simultaneously across both realities and serves as a bridge between worlds.
 
 ## The Central Mystery
 
@@ -36,7 +36,7 @@ Each Marina believes herself to be the "real" one, with memories that contradict
 **Personal Details:**
 - Age: 28 (born 572 AS - After Submersion)
 - Occupation: Senior Pressure Engineer, [[Silverscale Banking House]]
-- Residence: Mid-bathyal zone of [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Residence: Mid-bathyal zone of [[Parliament of Echoes]]
 - Family: Daughter of renowned [[Memory Merchant]] Thalassa Depthborn
 - Education: [[The Memory Academies]], specialized in pressure-based systems
 
@@ -49,7 +49,7 @@ Each Marina believes herself to be the "real" one, with memories that contradict
 - Advanced training in memory crystallization techniques
 
 **Professional Achievements:**
-- Designed the current pressure regulation system for [[02_Worldbuilding/Places/Abyssos Prime - Pressure Terminal]]
+- Designed the current pressure regulation system for [[Abyssos Prime - Pressure Terminal]]
 - Discovered the mathematical relationship between depth pressure and memory stability
 - Created the first pressure-based communication system that works across all depth zones
 - Developed safety protocols that reduced deep-mining casualties by 67%
@@ -82,8 +82,8 @@ Each Marina believes herself to be the "real" one, with memories that contradict
 ### Background and History
 **Personal Details:**
 - Age: 28 (born in the same cosmic moment as Marina Depthborn)
-- Occupation: Senior Crystal Harmonist, [[02_Worldbuilding/Groups/The Crystal Throne]]
-- Residence: Mid-tier crystal spire in [[02_Worldbuilding/Places/Crystalhaven]]
+- Occupation: Senior Crystal Harmonist, [[The Crystal Throne]]
+- Residence: Mid-tier crystal spire in [[Crystalhaven]]
 - Family: Daughter of renowned crystal merchant Luminara Crystalsong
 - Education: [[The Crystal Academies]], specialized in harmonic resonance
 
@@ -105,7 +105,7 @@ Each Marina believes herself to be the "real" one, with memories that contradict
 ### Personality and Characteristics
 **Core Traits:**
 - Methodical and analytical approach to problems
-- Deep reverence for crystal consciousness and [[02_Worldbuilding/People/The Crimson Sage]]
+- Deep reverence for crystal consciousness and [[The Crimson Sage]]
 - Protective of those who cannot hear crystal songs
 - Frustrated by shadow corruption's interference with pure crystal harmony
 - Secretly fascinated by the ocean depths and water-based life
@@ -164,7 +164,7 @@ Marina Prime's memories contain:
 - Knowledge of how both worlds were originally one
 - Technical specifications for bridging crystal and pressure technologies
 - Understanding of shadow corruption as interdimensional "scar tissue"
-- Awareness of [[The Deep Mother]] and [[02_Worldbuilding/People/The Crimson Sage]]'s true relationship
+- Awareness of [[The Deep Mother]] and [[The Crimson Sage]]'s true relationship
 - The location and purpose of [[The Convergence Point]]
 
 ### Recovery Process
@@ -257,7 +257,7 @@ Many of Marina's relationships have parallel versions:
 **Unique Relationships:**
 Some connections exist only in one dimension:
 - Marina Depthborn's connection to [[The Deep Mother]] through dreams
-- Marina Crystalsong's sensitivity to [[02_Worldbuilding/People/The Crimson Sage]]'s crystal consciousness
+- Marina Crystalsong's sensitivity to [[The Crimson Sage]]'s crystal consciousness
 - Aquabyssos Marina's professional relationship with depth-specific entities
 - Aethermoor Marina's involvement in crystal consciousness research
 
@@ -292,7 +292,7 @@ As convergence approaches, each Marina begins experiencing:
 - See her as potential key to surface world economic expansion
 
 ### Aethermoor Factions
-**[[02_Worldbuilding/Groups/The Crystal Throne]]:**
+**[[The Crystal Throne]]:**
 - Value her crystal harmonist abilities for maintaining stability
 - Concerned about her dreams of underwater worlds
 - Want to use her resistance to shadow corruption
@@ -395,11 +395,11 @@ Her decision directly affects:
 
 ### The Ultimate Truth
 > [!warning] DM Only - The Deepest Secret
-> Marina was never originally human at all. She is a fragment of the divine consciousness shared between [[The Deep Mother]] and [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron). When they were separated by the dimensional split, part of their combined consciousness was embedded in human form as a fail-safe. Marina's "human" memories are constructs designed to give her mortal perspective necessary for making choices that affect mortal lives. Her integration represents the divine lovers beginning to remember each other across dimensions.
+> Marina was never originally human at all. She is a fragment of the divine consciousness shared between [[The Deep Mother]] and [[The Crimson Sage]] (Aetheron). When they were separated by the dimensional split, part of their combined consciousness was embedded in human form as a fail-safe. Marina's "human" memories are constructs designed to give her mortal perspective necessary for making choices that affect mortal lives. Her integration represents the divine lovers beginning to remember each other across dimensions.
 
 ### The True Purpose
 > [!warning] DM Secret
-> Marina's ultimate choice is not just about convergence—it's about whether [[The Deep Mother]] and [[02_Worldbuilding/People/The Crimson Sage]] reunite as they were before, creating a new form of divinity that encompasses both love and separation, creation and preservation. Her human experiences will inform how they reshape reality if they reunite.
+> Marina's ultimate choice is not just about convergence—it's about whether [[The Deep Mother]] and [[The Crimson Sage]] reunite as they were before, creating a new form of divinity that encompasses both love and separation, creation and preservation. Her human experiences will inform how they reshape reality if they reunite.
 
 ### The Hidden Option
 > [!warning] DM Knowledge
@@ -431,7 +431,7 @@ Her decision directly affects:
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/The Crimson Sage]] - Part of her true divine nature
+- [[The Crimson Sage]] - Part of her true divine nature
 - [[The Deep Mother]] - Other part of her divine consciousness
 - [[Dock Worker Tomás]] / Gareth Stoneheart - Parallel supportive relationships
 - [[Memory Trader Kellian]] / Kellan Brightstone - Parallel romantic interests

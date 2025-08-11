@@ -14,4 +14,4 @@ modified: 2025-07-23 12:39
 
 While you're swimming, each foot of movement costs 1 extra foot (2 extra feet in [difficult terrain](/03_Mechanics/CLI/variant-rules/difficult-terrain-xphb.md)). You ignore this extra cost if you have a [Swim Speed](/03_Mechanics/CLI/variant-rules/swim-speed-xphb.md) and use it to swim. At the DM's option, moving any distance in rough water might require a successful DC 15 Strength ([Athletics](/03_Mechanics/CLI/skills.md#Athletics)) check.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

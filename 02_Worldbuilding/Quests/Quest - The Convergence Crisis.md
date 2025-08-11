@@ -24,12 +24,12 @@ content_warning: "Contains themes of reality alteration and existential choice"
 *When Two Worlds Collide*
 
 ## Overview
-A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merging sections of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], creating unstable hybrid zones where the laws of both realms clash violently. The party must navigate between dimensions, work with factions from both worlds, and ultimately decide whether to complete the convergence, reverse it, or find a third option that preserves both realms' integrity.
+A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merging sections of [[Aethermoor]] and [[Aquabyssos]], creating unstable hybrid zones where the laws of both realms clash violently. The party must navigate between dimensions, work with factions from both worlds, and ultimately decide whether to complete the convergence, reverse it, or find a third option that preserves both realms' integrity.
 
 ## Background
 ### The Experiment
 - [[The Convergence Seekers]] attempted to create a "test convergence" in a small area
-- Used combination of [[02_Worldbuilding/Lore/The Seven Shards|Crystal Shard]] energy and [[02_Worldbuilding/Lore/The Deep Mother]] shadow resonance
+- Used combination of [[The Seven Shards|Crystal Shard]] energy and [[The Deep Mother]] shadow resonance
 - The reaction proved far more powerful than anticipated
 - Convergence zones are spreading, threatening both worlds with chaotic merger
 - Reality itself is becoming unstable in affected areas
@@ -86,9 +86,9 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 - **The Deep Mother Stirs**: Realize convergence is affecting the sleeping goddess
 
 #### Faction Conflicts
-- **Aethermoor Response**: [[02_Worldbuilding/Groups/Purist Coalition]] demands total separation
-- **Aquabyssos Politics**: [[02_Worldbuilding/Places/Parliament of Echoes]] debates military intervention
-- **Corporate Interests**: [[02_Worldbuilding/Groups/Silverscale Consortium]] sees profit opportunities
+- **Aethermoor Response**: [[Purist Coalition]] demands total separation
+- **Aquabyssos Politics**: [[Parliament of Echoes]] debates military intervention
+- **Corporate Interests**: [[Silverscale Consortium]] sees profit opportunities
 - **Reality Guardians**: [[The Void Watchers]] insist on immediate containment
 - **Extremist Actions**: Radical elements from both sides complicate solutions
 
@@ -110,8 +110,8 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 #### Reshaping All That Is
 #### The Final Operation
 - **Multi-Realm Coordination**: Organize simultaneous actions in both worlds
-- **Shard Involvement**: Deal with [[02_Worldbuilding/Lore/The Seven Shards]]' response to crisis
-- **Deep Mother's Awakening**: Handle [[02_Worldbuilding/Lore/The Deep Mother]]'s stirring due to convergence disturbance
+- **Shard Involvement**: Deal with [[The Seven Shards]]' response to crisis
+- **Deep Mother's Awakening**: Handle [[The Deep Mother]]'s stirring due to convergence disturbance
 - **Reality Stabilization**: Perform complex ritual to implement chosen solution
 - **Crisis Resolution**: Navigate final complications and unexpected consequences
 
@@ -391,38 +391,38 @@ A catastrophic experiment by [[The Convergence Seekers]] has begun forcibly merg
 ## Essential Campaign Integration & Wiki Links
 
 ### Core Dependencies (30+ Critical Links)
-1. [[02_Worldbuilding/Places/Aethermoor]] - Primary crystal realm facing convergence
-2. [[02_Worldbuilding/Places/Aquabyssos]] - Shadow realm being forcibly merged
-3. [[02_Worldbuilding/Groups/The Convergence Seekers]] - Primary faction driving crisis
+1. [[Aethermoor]] - Primary crystal realm facing convergence
+2. [[Aquabyssos]] - Shadow realm being forcibly merged
+3. [[The Convergence Seekers]] - Primary faction driving crisis
 4. [[The Void Watchers]] - Cosmic guardians opposing uncontrolled convergence
-5. [[02_Worldbuilding/Lore/The Seven Shards]] - Power source amplifying convergence effects
-6. [[02_Worldbuilding/Lore/The Deep Mother]] - Sleeping entity affected by dimensional disruption
+5. [[The Seven Shards]] - Power source amplifying convergence effects
+6. [[The Deep Mother]] - Sleeping entity affected by dimensional disruption
 7. [[The Mediator]] - Mysterious leader orchestrating convergence
 8. [[The Threshold Chambers]] - Headquarters existing between worlds
-9. [[02_Worldbuilding/Groups/Purist Coalition]] - Faction violently opposing merger
-10. [[02_Worldbuilding/Groups/Silverscale Consortium]] - Corporate interests in crisis
+9. [[Purist Coalition]] - Faction violently opposing merger
+10. [[Silverscale Consortium]] - Corporate interests in crisis
 11. [[Commander Thrace Ironwood]] - Military leader organizing resistance
 12. [[Tribune Cassia Deepcurrent]] - Aquabyssos political representative
 13. [[Doctor Prism Voidweaver]] - Researcher studying convergence effects
 14. [[Captain Threshold]] - Expert on inter-dimensional travel
 15. [[The Liminal Trading Company]] - Neutral merchants caught in crisis
-16. [[02_Worldbuilding/Places/Parliament of Echoes]] - Aquabyssos government response
-17. [[02_Worldbuilding/Places/Crystalhaven]] - Crystal Throne's role in crisis
+16. [[Parliament of Echoes]] - Aquabyssos government response
+17. [[Crystalhaven]] - Crystal Throne's role in crisis
 18. [[Sister Thalassa the Depth-Touched]] - Religious prophet interpreting events
 19. [[Memory Harvester Kythara]] - Expert on consciousness effects of convergence
 20. [[Keeper of the Shattered Crown, Marcus Crystalvein]] - Shard lore keeper
 21. [[Scholar Vivienne the Chronicler]] - Academic studying dimensional theory
 22. [[The Nameless Auditor]] - Bureaucratic entity managing cosmic paperwork
-23. [[02_Worldbuilding/Places/The Hadal Depths]] - Deep Mother's physical location
-24. [[02_Worldbuilding/Places/The Shadowmere]] - Zone affected by convergence
-25. [[02_Worldbuilding/Places/Port Meridian]] - Trade hub dealing with crisis refugees
-26. [[02_Worldbuilding/Places/The Verdant Reach]] - Natural area resisting merger
+23. [[The Hadal Depths]] - Deep Mother's physical location
+24. [[The Shadowmere]] - Zone affected by convergence
+25. [[Port Meridian]] - Trade hub dealing with crisis refugees
+26. [[The Verdant Reach]] - Natural area resisting merger
 27. [[The Azure Coast]] - Coastal region experiencing reality storms
 28. [[Memory Meadows]] - Dream realm affected by convergence
-29. [[02_Worldbuilding/Places/The Deepmind]] - Consciousness nexus monitoring crisis
+29. [[The Deepmind]] - Consciousness nexus monitoring crisis
 30. [[The Floating Market]] - Neutral zone for cross-realm negotiations
-31. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Crystal Throne ruler's response
-32. [[02_Worldbuilding/People/The Crimson Sage]] - Aetheron's perspective on convergence
+31. [[Queen Seraphina Lumengarde]] - Crystal Throne ruler's response
+32. [[The Crimson Sage]] - Aetheron's perspective on convergence
 33. [[Pressure Angel Benthia]] - Divine messenger warning of consequences
 34. [[The Azure Prophet Nerissa]] - Seer predicting convergence outcomes
 

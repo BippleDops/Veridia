@@ -6,7 +6,7 @@ type: "quest"
 quest_type: "Cross-Realm Diplomatic Mission"
 difficulty: "Epic (Levels 10-20)"
 patron: "[[The Liminal Trading Company]] or [[The Convergence Seekers]]"
-location: "[[Memory Meadows]] and [[02_Worldbuilding/Places/Crystalhaven]]"
+location: "[[Memory Meadows]] and [[Crystalhaven]]"
 created_by: "auto-stub"
 created: 2025-08-09
 updated: 2025-08-10
@@ -24,7 +24,7 @@ psychic_content_warning: "Contains themes of identity alteration and consciousne
 *Connecting Minds Across Realms*
 
 ## Overview
-A groundbreaking experiment to create a "memory bridge" between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] has reached a critical juncture. By combining crystal-enhanced communication technology with Aquabyssos memory-sharing techniques, researchers hope to enable people from both realms to share experiences and understanding directly. However, the project faces sabotage, political opposition, and unexpected side effects that threaten to create dangerous psychic contamination.
+A groundbreaking experiment to create a "memory bridge" between [[Aethermoor]] and [[Aquabyssos]] has reached a critical juncture. By combining crystal-enhanced communication technology with Aquabyssos memory-sharing techniques, researchers hope to enable people from both realms to share experiences and understanding directly. However, the project faces sabotage, political opposition, and unexpected side effects that threaten to create dangerous psychic contamination.
 
 ## Background
 ### The Memory Bridge Project
@@ -70,8 +70,8 @@ A groundbreaking experiment to create a "memory bridge" between [[02_Worldbuildi
 - **Psychological Support**: Help test subjects adapt to foreign memories
 
 #### The Opposition Emerges
-- **Purist Sabotage**: [[02_Worldbuilding/Groups/Purist Coalition]] agents attempt to destroy "corrupt" technology
-- **Corporate Interference**: [[02_Worldbuilding/Groups/Silverscale Consortium]] tries to steal or control project
+- **Purist Sabotage**: [[Purist Coalition]] agents attempt to destroy "corrupt" technology
+- **Corporate Interference**: [[Silverscale Consortium]] tries to steal or control project
 - **Religious Objections**: Various faiths declare memory sharing heretical or dangerous
 - **Government Pressure**: Officials from both realms demand control over project
 - **Underground Resistance**: Secret groups fearing loss of cultural identity
@@ -307,31 +307,31 @@ A groundbreaking experiment to create a "memory bridge" between [[02_Worldbuildi
 
 ### Core Campaign Integration (25+ Essential Links)
 1. [[Memory Meadows]] - Primary testing location in Aquabyssos
-2. [[02_Worldbuilding/Places/Crystalhaven]] - Crystal technology research center
+2. [[Crystalhaven]] - Crystal technology research center
 3. [[The Liminal Trading Company]] - Funding and resource provider
-4. [[02_Worldbuilding/Groups/The Convergence Seekers]] - Ideological allies or competitors
+4. [[The Convergence Seekers]] - Ideological allies or competitors
 5. [[The Shadow-Crystal Synthesis]] - Technical expertise in hybrid technologies
 6. [[Doctor Prism Voidweaver]] - Lead researcher and key NPC
 7. [[Memory Merchant Valeria Siltweave]] - Ethical consultant and guardian of memory trade
 8. [[Merchant Prince Vortex]] - Financial backer with cross-realm interests
 9. [[Captain Threshold]] - Transportation and logistics coordinator
-10. [[02_Worldbuilding/Places/Aethermoor]] - Primary realm of crystal technology
-11. [[02_Worldbuilding/Places/Aquabyssos]] - Realm of memory and shadow techniques
-12. [[02_Worldbuilding/Groups/Silverscale Consortium]] - Corporate opposition and potential ally
-13. [[02_Worldbuilding/Groups/Purist Coalition]] - Primary ideological opposition
+10. [[Aethermoor]] - Primary realm of crystal technology
+11. [[Aquabyssos]] - Realm of memory and shadow techniques
+12. [[Silverscale Consortium]] - Corporate opposition and potential ally
+13. [[Purist Coalition]] - Primary ideological opposition
 14. [[Commander Thrace Ironwood]] - Military leader opposing "contamination"
 15. [[Lady Jade Clawgrip]] - Corporate antagonist seeking control
-16. [[02_Worldbuilding/Places/Parliament of Echoes]] - Aquabyssos governmental response
-17. [[02_Worldbuilding/Places/The Deepmind]] - Consciousness research center
+16. [[Parliament of Echoes]] - Aquabyssos governmental response
+17. [[The Deepmind]] - Consciousness research center
 18. [[Memory Harvester Kythara]] - Expert on dream realm effects
 19. [[Sister Thalassa the Depth-Touched]] - Religious perspective on consciousness merging
 20. [[The Void Watchers]] - Monitors for dimensional stability threats
 21. [[Scholar Vivienne the Chronicler]] - Academic research supporter
-22. [[02_Worldbuilding/Lore/The Seven Shards]] - Potential power source for enhanced bridges
-23. [[02_Worldbuilding/Lore/The Deep Mother]] - Consciousness entity affected by memory sharing
+22. [[The Seven Shards]] - Potential power source for enhanced bridges
+23. [[The Deep Mother]] - Consciousness entity affected by memory sharing
 24. [[The Azure Prophet Nerissa]] - Seer warning of consciousness-related futures
 25. [[Pressure Angel Benthia]] - Divine messenger concerned with mortal consciousness
-26. [[02_Worldbuilding/People/The Crimson Sage]] - Ancient being with unique perspective on consciousness
+26. [[The Crimson Sage]] - Ancient being with unique perspective on consciousness
 27. [[The Floating Market]] - Neutral ground for cross-realm negotiations
 28. [[The Threshold Chambers]] - Between-worlds location for advanced experiments
 

@@ -9,8 +9,8 @@ race: Gnome
 class: Artificer
 level: 10
 alignment: Neutral Good
-location: "[[02_Worldbuilding/Places/Crystalhaven]]"
-faction: "[[02_Worldbuilding/Groups/The Crystal Throne]]"
+location: "[[Crystalhaven]]"
+faction: "[[The Crystal Throne]]"
 status: Alive
 created: 2024-12-20
 image: "04_Resources/Assets/NPCs/korvin_gearwright.jpg"
@@ -24,7 +24,7 @@ obsidianUIMode: preview
 *The Crystal Innovator, Father of Modern Aethertech*
 
 ## Overview
-Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[02_Worldbuilding/Places/Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
+Master Artificer Korvin Gearwright stands at the forefront of crystal technology innovation in [[Crystalhaven]]. A brilliant gnome inventor who sees Aether Crystals as the key to a utopian future, he creates devices that push the boundaries of what's possible—often without fully considering the consequences. His workshop produces both miracles and disasters in equal measure.
 
 ## Appearance
 - **Race**: Rock Gnome
@@ -38,7 +38,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Personality
 - **Traits**: Brilliant, enthusiastic, absent-minded, optimistic
 - **Loves**: Innovation, solving problems, teaching
-- **Dislikes**: Luddites, safety regulations, the [[02_Worldbuilding/Groups/Purist Coalition]]
+- **Dislikes**: Luddites, safety regulations, the [[Purist Coalition]]
 - **Quirks**: Talks to his inventions, forgets to eat when working
 - **Flaw**: Doesn't consider long-term consequences
 
@@ -66,7 +66,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 
 ### Current Projects
 > [!warning] DM Only
-> - Device to hide [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption
+> - Device to hide [[Queen Seraphina Lumengarde]]'s corruption
 > - Weapon to destroy Shards (secretly for Queen)
 > - Crystal consciousness transfer device
 > - Portal to crystal dimension
@@ -75,7 +75,7 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## The Crystalline Foundry
 
 ### Facilities
-- Main workshop in [[02_Worldbuilding/Places/Crystalhaven]]
+- Main workshop in [[Crystalhaven]]
 - Testing range (heavily warded)
 - Student laboratories
 - Crystal storage vault
@@ -97,19 +97,19 @@ Master Artificer Korvin Gearwright stands at the forefront of crystal technology
 ## Relationships
 
 ### Professional
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Patron and secret patient
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Supplies military
+- [[Queen Seraphina Lumengarde]] - Patron and secret patient
+- [[Lord Commander Gareth Steelborn]] - Supplies military
 - [[Professor Aldric Crystalweaver]] - Friendly rival
 - [[Sage Lyralei Starweaver]] - Theoretical advisor
 
 ### Opposition
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants him dead
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Represents everything she opposes
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Regular death threats
+- [[High Inquisitor Maltheos]] - Wants him dead
+- [[Archdruid Thornweaver]] - Represents everything she opposes
+- [[Purist Coalition]] - Regular death threats
 
 ### Complicated
-- [[02_Worldbuilding/People/The Crimson Sage]] - Provides cryptic advice
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Has been approached for illegal work
+- [[The Crimson Sage]] - Provides cryptic advice
+- [[Vex Shadowthorn]] - Has been approached for illegal work
 - Insurance companies - No longer cover him
 
 ## Workshop Inventory
@@ -212,15 +212,15 @@ Not a fighter, but if cornered:
 - His death would set back progress decades
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret patron
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military client
+- [[Queen Seraphina Lumengarde]] - Secret patron
+- [[Lord Commander Gareth Steelborn]] - Military client
 - [[Professor Aldric Crystalweaver]] - Academic rival
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Wants him dead
+- [[High Inquisitor Maltheos]] - Wants him dead
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Workshop location
+- [[Crystalhaven]] - Workshop location
 - [[The Crystalline Foundry]] - His facility
-- [[02_Worldbuilding/Places/Port Meridian]] - Ships inventions
+- [[Port Meridian]] - Ships inventions
 
 ## Key Inventions for Party
 - Custom crystal weapons

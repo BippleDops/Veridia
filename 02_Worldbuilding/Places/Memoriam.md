@@ -10,6 +10,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Memorial Site
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Memoriam

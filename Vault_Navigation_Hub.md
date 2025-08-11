@@ -179,9 +179,9 @@ campaign: Aquabyssos & Aethermoor
 ## 🌟 Featured Content
 
 ### New Additions
-- [[03_Mechanics/Deep_Mother_Subsystem]] - Eldritch horror mechanics
-- [[03_Mechanics/Sanity_Horror_Framework]] - Mental health rules
-- [[03_Mechanics/Transformation_Compendium]] - Mutation systems
+- [[Deep_Mother_Subsystem]] - Eldritch horror mechanics
+- [[Sanity_Horror_Framework]] - Mental health rules
+- [[Transformation_Compendium]] - Mutation systems
 
 ### Recently Updated
 - [[Campaign_Relationship_Matrix]] - Complete NPC connections

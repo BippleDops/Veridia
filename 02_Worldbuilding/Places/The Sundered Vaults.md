@@ -6,7 +6,7 @@ tags:
   - vault
   - ancient
 type: Underground Vault Complex
-region: "[[02_Worldbuilding/Places/The Sundered Peaks]]"
+region: "[[The Sundered Peaks]]"
 danger_level: Extreme
 controlled_by: "Ancient Guardians"
 created: 2025-08-09
@@ -21,7 +21,7 @@ obsidianUIMode: preview
 *Where Gods' Treasures Sleep and Ancient Powers Wake*
 
 ## Overview
-Hidden deep within [[02_Worldbuilding/Places/The Sundered Peaks]], the Sundered Vaults are a vast underground complex built by the ancient civilization that predated both surface kingdoms and the [[02_Worldbuilding/Lore/Ancient Mer-Folk Empire]]. These vaults contain the most dangerous artifacts and forbidden knowledge of a bygone age, protected by mechanical guardians, magical traps, and the lingering will of their creators. Many believe one of the Seven Shards lies hidden in the deepest chamber.
+Hidden deep within [[The Sundered Peaks]], the Sundered Vaults are a vast underground complex built by the ancient civilization that predated both surface kingdoms and the [[Ancient Mer-Folk Empire]]. These vaults contain the most dangerous artifacts and forbidden knowledge of a bygone age, protected by mechanical guardians, magical traps, and the lingering will of their creators. Many believe one of the Seven Shards lies hidden in the deepest chamber.
 
 ## Vault Structure
 
@@ -72,10 +72,10 @@ Hidden deep within [[02_Worldbuilding/Places/The Sundered Peaks]], the Sundered 
 - **Corrupted Scholar Malachar** - Previous explorer driven mad
 
 ### Current Explorers
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Seeking specific artifacts
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Researching ancient technology
-- **Tomb Robber Guild** - Led by [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]]
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Attempting to purify the vaults
+- **[[The Crimson Sage]]** - Seeking specific artifacts
+- **[[Professor Aldric Crystalweaver]]** - Researching ancient technology
+- **Tomb Robber Guild** - Led by [[Jasper "Three-Eyes" Flint]]
+- **[[High Inquisitor Maltheos]]** - Attempting to purify the vaults
 
 ## Vault Contents & Treasures
 
@@ -122,30 +122,30 @@ Hidden deep within [[02_Worldbuilding/Places/The Sundered Peaks]], the Sundered 
 ## Exploration Networks
 
 ### Research Expeditions
-- [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] leads academic study team
+- [[Professor Aldric Crystalweaver]] leads academic study team
 - [[Crystal Wardens]] investigate connection to corruption spread
-- [[02_Worldbuilding/People/Sage Lysander Deepthought]] provides historical context
-- [[02_Worldbuilding/People/The Crimson Sage]] operates independently with specific goals
+- [[Sage Lysander Deepthought]] provides historical context
+- [[The Crimson Sage]] operates independently with specific goals
 
 ### Treasure Hunting Operations
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] funds expeditions for profit
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] leads tomb robber consortium
-- [[02_Worldbuilding/Groups/Independent Smugglers]] provide extraction services
-- [[02_Worldbuilding/People/Merchant Viktor Geargrind]] finances equipment and supplies
+- [[The Whisper Syndicate]] funds expeditions for profit
+- [[Jasper "Three-Eyes" Flint]] leads tomb robber consortium
+- [[Independent Smugglers]] provide extraction services
+- [[Merchant Viktor Geargrind]] finances equipment and supplies
 
 ### Military Interest
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] seeks ancient weapons
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] wants naval technology
-- [[02_Worldbuilding/Groups/Purist Coalition]] attempts to destroy crystal sources
-- [[02_Worldbuilding/People/Captain Scale-Walker]] searches for enhancement artifacts
+- [[Lord Commander Gareth Steelborn]] seeks ancient weapons
+- [[Admiral Thorne Blackwater]] wants naval technology
+- [[Purist Coalition]] attempts to destroy crystal sources
+- [[Captain Scale-Walker]] searches for enhancement artifacts
 
 ## Secret Operations
 
 ### Hidden Agendas
 > [!warning] DM Only
-> - [[02_Worldbuilding/People/The Crimson Sage]] seeks to awaken the vault's original builders
+> - [[The Crimson Sage]] seeks to awaken the vault's original builders
 > - One of the Seven Shards is the vault's primary power source
-> - [[02_Worldbuilding/People/Prince Caspian Duskwater]] secretly funds exploration
+> - [[Prince Caspian Duskwater]] secretly funds exploration
 > - The vault connects to similar sites across multiple continents
 
 ### Dangerous Discoveries
@@ -184,7 +184,7 @@ Hidden deep within [[02_Worldbuilding/Places/The Sundered Peaks]], the Sundered 
 4. **Mechanical Malfunction**: Repair critical systems before vault collapses
 
 ### Knowledge Quests
-5. **The Scholar's Obsession**: Stop [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] from dangerous experiment
+5. **The Scholar's Obsession**: Stop [[Professor Aldric Crystalweaver]] from dangerous experiment
 6. **Translation Crisis**: Decode ancient warning before catastrophe
 7. **The Memory Heist**: Steal specific knowledge from Archive Mind
 8. **Forbidden Wisdom**: Decide whether dangerous knowledge should be preserved
@@ -198,35 +198,35 @@ Hidden deep within [[02_Worldbuilding/Places/The Sundered Peaks]], the Sundered 
 ## Economic Connections
 
 ### Funding Sources
-- [[02_Worldbuilding/People/Banker Titus Goldcurrent]] finances major expeditions
-- [[02_Worldbuilding/Groups/Merchant Princes]] invest in artifact recovery
-- [[02_Worldbuilding/People/Lord Aurelius Goldwave]] provides secret backing
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] funds through intermediaries
+- [[Banker Titus Goldcurrent]] finances major expeditions
+- [[Merchant Princes]] invest in artifact recovery
+- [[Lord Aurelius Goldwave]] provides secret backing
+- [[Prince Caspian Duskwater]] funds through intermediaries
 
 ### Equipment Suppliers
-- Specialized gear from [[02_Worldbuilding/Places/The Crimson Foundries]]
-- Magical protection from [[02_Worldbuilding/Places/Crystalhaven]] enchanters
-- Survival supplies through [[02_Worldbuilding/Places/Port Meridian]] merchants
-- Maps and guides from [[02_Worldbuilding/Places/Aethermoor Archives]]
+- Specialized gear from [[The Crimson Foundries]]
+- Magical protection from [[Crystalhaven]] enchanters
+- Survival supplies through [[Port Meridian]] merchants
+- Maps and guides from [[Aethermoor Archives]]
 
 ### Artifact Trading
-- Recovered items sold through [[02_Worldbuilding/Places/The Shadow Markets]]
-- Academic specimens go to [[02_Worldbuilding/Places/Aethermoor Archives]]
+- Recovered items sold through [[The Shadow Markets]]
+- Academic specimens go to [[Aethermoor Archives]]
 - Weapons purchased by various military factions
 - Dangerous artifacts contained by [[Crystal Wardens]]
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain range housing the vaults
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Shows effects of vault's influence
-- [[02_Worldbuilding/Places/Aethermoor Archives]] - Historical records of vault builders
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Artifact trading network
-- [[02_Worldbuilding/Places/The Screaming Battleground]] - Connected by underground passages
+- [[The Sundered Peaks]] - Mountain range housing the vaults
+- [[The Crystalline Wastes]] - Shows effects of vault's influence
+- [[Aethermoor Archives]] - Historical records of vault builders
+- [[The Shadow Markets]] - Artifact trading network
+- [[The Screaming Battleground]] - Connected by underground passages
 
 ## Connected Factions
 - [[Crystal Wardens]] - Monitoring corruption spread from vaults
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Profiting from artifact recovery
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Providing vault access services
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Attempting to destroy crystal sources
+- [[The Whisper Syndicate]] - Profiting from artifact recovery
+- [[Independent Smugglers]] - Providing vault access services
+- [[Purist Coalition]] - Attempting to destroy crystal sources
 
 ## Current Threats
 - Vault defenses growing more aggressive and unpredictable

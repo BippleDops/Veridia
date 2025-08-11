@@ -13,7 +13,7 @@ race: Water Elemental (Humanoid Form)
 class: Storm Sorcerer/Ranger
 level: 14
 alignment: Lawful Neutral (Pragmatic)
-location: "[[02_Worldbuilding/Places/The Current Nexus]]"
+location: "[[The Current Nexus]]"
 faction: "[[The Current Riders Guild]]"
 status: Active (Elemental Essence)
 created: 2025-08-09
@@ -22,13 +22,14 @@ world: "Aquabyssos"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 13
 ---
 
 # Master of Currents Zephyr
 *The Tide's Commander, He Who Rides the Deep Flows, Lord of Liquid Roads*
 
 ## Overview
-Master of Currents Zephyr is the supreme authority over water movement and underwater trade routes in [[02_Worldbuilding/Places/Aquabyssos]]. Neither fully elemental nor entirely humanoid, Zephyr exists as a conscious manifestation of the ocean's currents themselves, given form and purpose during the Great Drowning. As head of the [[The Current Riders Guild]], he controls the flow of goods, information, and people through the vast underwater realm, making him one of the most powerful figures in Aquabyssos politics and economics.
+Master of Currents Zephyr is the supreme authority over water movement and underwater trade routes in [[Aquabyssos]]. Neither fully elemental nor entirely humanoid, Zephyr exists as a conscious manifestation of the ocean's currents themselves, given form and purpose during the Great Drowning. As head of the [[The Current Riders Guild]], he controls the flow of goods, information, and people through the vast underwater realm, making him one of the most powerful figures in Aquabyssos politics and economics.
 
 ## Appearance
 - **Fluid Form**: 6'2" tall but constantly shifting between solid and liquid states
@@ -62,7 +63,7 @@ Master of Currents Zephyr is the supreme authority over water movement and under
 - **Current Maps**: Detailed knowledge of all water flows and safe passages
 - **Fleet Command**: Hundreds of vessels and trained current-riders
 - **Information Network**: Messages travel faster than any other system
-- **Political Influence**: Essential advisor to [[02_Worldbuilding/People/Emperor Thalassius]]
+- **Political Influence**: Essential advisor to [[Emperor Thalassius]]
 
 ### Trade Empire Resources
 - **Negotiation Mastery**: Centuries of deal-making experience
@@ -79,21 +80,21 @@ Master of Currents Zephyr is the supreme authority over water movement and under
 - **Elder Whirlpool** - Ancient water elemental, Zephyr's mentor
 
 ### Political Allies
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Mutual respect and cooperation
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Military escort arrangements
-- [[02_Worldbuilding/People/High Cultivist Jasper Lifebinder]] - Transports cultivation supplies
+- [[Emperor Thalassius]] - Mutual respect and cooperation
+- [[Duke Cyrus Reefheart]] - Military escort arrangements
+- [[High Cultivist Jasper Lifebinder]] - Transports cultivation supplies
 - Progressive Parliament members who support free trade
 
 ### Business Partners
-- [[02_Worldbuilding/Groups/Silverscale Consortium]] - Major surface trading partner
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Diplomatic trade missions
+- [[Silverscale Consortium]] - Major surface trading partner
+- [[Ambassador Nerida Deepcurrent]] - Diplomatic trade missions
 - Various surface world merchant princes
 - Independent smugglers and privateers (when convenient)
 
 ### Opposition & Rivals
 - **The Static Lords** - Conservative faction opposing change
 - **Rogue Current Riders** - Guild members who've gone independent
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Compete for smuggling routes
+- [[The Whisper Syndicate]] - Compete for smuggling routes
 - Surface world navies that interfere with trade
 
 ## Secrets
@@ -103,18 +104,18 @@ Master of Currents Zephyr is the supreme authority over water movement and under
 > - Maintains secret trade routes to surface world that bypass official channels
 > - Has hidden caches of pre-Drowning treasures along major current routes
 > - Can temporarily merge with other water elementals to create massive forms
-> - Knows the location of underwater passages to [[02_Worldbuilding/Places/Aethermoor]]
+> - Knows the location of underwater passages to [[Aethermoor]]
 > - His control over currents could flood or drain entire regions if he chose
 
 ## Current Activities
-- Negotiating new trade agreements between [[02_Worldbuilding/Places/Aquabyssos]] settlements
+- Negotiating new trade agreements between [[Aquabyssos]] settlements
 - Mapping previously unknown deep currents and abyssal routes
 - Mediating disputes between merchant factions and transport guilds
-- Coordinating supply lines for [[02_Worldbuilding/People/High Cultivist Jasper Lifebinder]]'s cultivation projects
+- Coordinating supply lines for [[High Cultivist Jasper Lifebinder]]'s cultivation projects
 - Secret exploration of surface-world connection possibilities
 
 ## Motivations
-1. **Primary**: Maintain free flow of trade and movement throughout [[02_Worldbuilding/Places/Aquabyssos]]
+1. **Primary**: Maintain free flow of trade and movement throughout [[Aquabyssos]]
 2. **Secondary**: Expand economic opportunities between realms
 3. **Hidden**: Discover the true extent of his elemental nature and abilities
 4. **Personal**: Create a legacy that outlasts even elemental existence
@@ -173,19 +174,19 @@ Master of Currents Zephyr is the supreme authority over water movement and under
 - His elemental nature allows for unique story possibilities
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Political ally and advisor
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Military cooperation
-- [[02_Worldbuilding/People/High Cultivist Jasper Lifebinder]] - Supply chain partner
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Diplomatic trader
+- [[Emperor Thalassius]] - Political ally and advisor
+- [[Duke Cyrus Reefheart]] - Military cooperation
+- [[High Cultivist Jasper Lifebinder]] - Supply chain partner
+- [[Ambassador Nerida Deepcurrent]] - Diplomatic trader
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Current Nexus]] - His headquarters and power center
+- [[The Current Nexus]] - His headquarters and power center
 - [[The Deep Trade Routes]] - Network of underwater highways he controls
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Major trade hub
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Political influence
+- [[Abyssos Prime]] - Major trade hub
+- [[Parliament of Echoes]] - Political influence
 
 ## Involved Quests
 - [[Quest - The Tide War]] - Control of crucial trade routes
-- [[02_Worldbuilding/Quests/Economic Warfare]] - His expertise in trade manipulation
+- [[Economic Warfare]] - His expertise in trade manipulation
 - [[Quest - The Deep Cartographer]] - Mapping unknown currents
-- [[02_Worldbuilding/Quests/Diplomatic Tides]] - Cross-realm trade negotiations
+- [[Diplomatic Tides]] - Cross-realm trade negotiations

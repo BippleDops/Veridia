@@ -19,7 +19,7 @@ updated: 2025-08-10
 *The Medical Vigilants, Healers of the Light, Those Who Mend What Shadows Break*
 
 ## Overview
-The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedicated to studying, treating, and ultimately preventing the growing epidemic of shadow-related health complications plaguing [[02_Worldbuilding/Places/Aquabyssos]]. As shadow corruption spreads throughout the realm and [[02_Worldbuilding/Groups/The Shadow Conspiracy]] continues its replacement operations, the ISS has emerged as the foremost authority on shadow-inflicted medical conditions, developing treatments for everything from shadow poisoning to identity dissociation caused by shadow separation. They operate with the dual mission of healing the afflicted and gathering evidence about shadow-based crimes against the populace.
+The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedicated to studying, treating, and ultimately preventing the growing epidemic of shadow-related health complications plaguing [[Aquabyssos]]. As shadow corruption spreads throughout the realm and [[The Shadow Conspiracy]] continues its replacement operations, the ISS has emerged as the foremost authority on shadow-inflicted medical conditions, developing treatments for everything from shadow poisoning to identity dissociation caused by shadow separation. They operate with the dual mission of healing the afflicted and gathering evidence about shadow-based crimes against the populace.
 
 ## Origins & History
 
@@ -131,19 +131,19 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 
 #### Shadow Corruption Assessment
 **Medical Evaluation Protocols**
-- **[[02_Worldbuilding/Procedures/Thermal Differential Analysis]]**: Detect abnormal body temperature patterns
-- **[[02_Worldbuilding/Procedures/Memory Coherence Testing]]**: Identify gaps in personal memory
-- **[[02_Worldbuilding/Procedures/Shadow Resonance Scanning]]**: Medical imaging of shadow-affected tissue
-- **[[02_Worldbuilding/Procedures/Behavioral Pattern Analysis]]**: Psychological evaluation for personality changes
-- **[[02_Worldbuilding/Procedures/Biological Authentication]]**: Genetic testing to confirm identity
+- **[[Thermal Differential Analysis]]**: Detect abnormal body temperature patterns
+- **[[Memory Coherence Testing]]**: Identify gaps in personal memory
+- **[[Shadow Resonance Scanning]]**: Medical imaging of shadow-affected tissue
+- **[[Behavioral Pattern Analysis]]**: Psychological evaluation for personality changes
+- **[[Biological Authentication]]**: Genetic testing to confirm identity
 
 #### Advanced Detection Methods
 **Specialized Medical Technology**
-- **[[02_Worldbuilding/Equipment/Shadow Contamination Scanners]]**: Detect shadow energy in biological tissue
-- **[[02_Worldbuilding/Equipment/Memory Pattern Analyzers]]**: Evaluate memory authenticity and gaps
-- **[[02_Worldbuilding/Equipment/Cellular Shadow Trackers]]**: Monitor shadow corruption at cellular level
-- **[[02_Worldbuilding/Equipment/Neural Activity Mappers]]**: Brain function analysis for replaced individuals
-- **[[02_Worldbuilding/Equipment/Identity Verification Systems]]**: Medical confirmation of true identity
+- **[[Shadow Contamination Scanners]]**: Detect shadow energy in biological tissue
+- **[[Memory Pattern Analyzers]]**: Evaluate memory authenticity and gaps
+- **[[Cellular Shadow Trackers]]**: Monitor shadow corruption at cellular level
+- **[[Neural Activity Mappers]]**: Brain function analysis for replaced individuals
+- **[[Identity Verification Systems]]**: Medical confirmation of true identity
 
 ### Treatment Protocols
 
@@ -263,11 +263,11 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 - **Training Centers**: Medical education and professional development (4 centers)
 
 ### Medical Technology
-- **[[02_Worldbuilding/Equipment/Advanced Shadow Scanners]]**: State-of-the-art diagnostic equipment
-- **[[02_Worldbuilding/Equipment/Surgical Shadow Tools]]**: Specialized instruments for shadow-affected tissue
-- **[[02_Worldbuilding/Equipment/Memory Restoration Devices]]**: Technology for recovering damaged memories
-- **[[02_Worldbuilding/Equipment/Corruption Purification Systems]]**: Experimental treatment equipment
-- **[[02_Worldbuilding/Equipment/Emergency Life Support]]**: Advanced care for critical shadow corruption cases
+- **[[Advanced Shadow Scanners]]**: State-of-the-art diagnostic equipment
+- **[[Surgical Shadow Tools]]**: Specialized instruments for shadow-affected tissue
+- **[[Memory Restoration Devices]]**: Technology for recovering damaged memories
+- **[[Corruption Purification Systems]]**: Experimental treatment equipment
+- **[[Emergency Life Support]]**: Advanced care for critical shadow corruption cases
 
 ### Research Assets
 - Comprehensive database of shadow-related medical conditions
@@ -346,9 +346,9 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 ## Treatment Services & Specializations
 
 ### What They Offer
-- **Shadow Corruption Diagnosis**: Comprehensive medical evaluation using [[02_Worldbuilding/Procedures/Advanced Shadow Detection]]
+- **Shadow Corruption Diagnosis**: Comprehensive medical evaluation using [[Advanced Shadow Detection]]
 - **Replacement Trauma Treatment**: Specialized care for shadow separation victims
-- **Memory Restoration Therapy**: Treatment for damaged or false memories via [[02_Worldbuilding/Treatments/Neural Reconstruction]]
+- **Memory Restoration Therapy**: Treatment for damaged or false memories via [[Neural Reconstruction]]
 - **Shadow Detoxification**: Medical procedures for reducing shadow corruption
 - **Identity Verification Services**: Medical confirmation of true identity
 - **Emergency Medical Response**: Rapid deployment for shadow-related medical crises
@@ -372,31 +372,31 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 ## Medical Equipment & Innovations
 
 ### Diagnostic Technology
-- **[[02_Worldbuilding/Items/Shadow Resonance Medical Scanner]]**: Advanced imaging for shadow-affected tissue
-- **[[02_Worldbuilding/Items/Memory Coherence Analyzer]]**: Device for evaluating memory authenticity
-- **[[02_Worldbuilding/Items/Thermal Signature Medical Detector]]**: Precise body temperature analysis
-- **[[02_Worldbuilding/Items/Cellular Corruption Microscope]]**: Visualize shadow effects at cellular level
-- **[[02_Worldbuilding/Items/Neural Pattern Recognition System]]**: Brain activity analysis for replaced individuals
-- **[[02_Worldbuilding/Items/Biological Authentication Scanner]]**: Genetic identity verification
-- **[[02_Worldbuilding/Items/Shadow Energy Medical Meter]]**: Quantify corruption levels in patients
-- **[[02_Worldbuilding/Items/Psychological Profile Generator]]**: Automated personality change detection
+- **[[Shadow Resonance Medical Scanner]]**: Advanced imaging for shadow-affected tissue
+- **[[Memory Coherence Analyzer]]**: Device for evaluating memory authenticity
+- **[[Thermal Signature Medical Detector]]**: Precise body temperature analysis
+- **[[Cellular Corruption Microscope]]**: Visualize shadow effects at cellular level
+- **[[Neural Pattern Recognition System]]**: Brain activity analysis for replaced individuals
+- **[[Biological Authentication Scanner]]**: Genetic identity verification
+- **[[Shadow Energy Medical Meter]]**: Quantify corruption levels in patients
+- **[[Psychological Profile Generator]]**: Automated personality change detection
 
 ### Treatment Equipment
-- **[[02_Worldbuilding/Items/Corruption Purification Chamber]]**: Full-body treatment for shadow contamination
-- **[[02_Worldbuilding/Items/Memory Reconstruction Headset]]**: Technology for restoring damaged memories
-- **[[02_Worldbuilding/Items/Shadow Extraction Surgical Suite]]**: Operating room for removing corrupted tissue
-- **[[02_Worldbuilding/Items/Light Therapy Restoration Bed]]**: Healing device using concentrated light energy
-- **[[02_Worldbuilding/Items/Neural Pathway Rebuilder]]**: Equipment for repairing brain damage from separation
-- **[[02_Worldbuilding/Items/Biological Stabilization Unit]]**: Life support for critical corruption cases
-- **[[02_Worldbuilding/Items/Identity Restoration Console]]**: Help patients recover sense of self
-- **[[02_Worldbuilding/Items/Trauma Processing Interface]]**: Therapeutic device for psychological healing
+- **[[Corruption Purification Chamber]]**: Full-body treatment for shadow contamination
+- **[[Memory Reconstruction Headset]]**: Technology for restoring damaged memories
+- **[[Shadow Extraction Surgical Suite]]**: Operating room for removing corrupted tissue
+- **[[Light Therapy Restoration Bed]]**: Healing device using concentrated light energy
+- **[[Neural Pathway Rebuilder]]**: Equipment for repairing brain damage from separation
+- **[[Biological Stabilization Unit]]**: Life support for critical corruption cases
+- **[[Identity Restoration Console]]**: Help patients recover sense of self
+- **[[Trauma Processing Interface]]**: Therapeutic device for psychological healing
 
 ### Research Instruments
-- **[[02_Worldbuilding/Items/Shadow Corruption Laboratory Set]]**: Comprehensive research equipment
-- **[[02_Worldbuilding/Items/Biological Sample Analysis Array]]**: Study shadow effects on tissue samples
-- **[[02_Worldbuilding/Items/Pharmaceutical Development Station]]**: Create new treatments for corruption
-- **[[02_Worldbuilding/Items/Clinical Trial Monitoring System]]**: Track experimental treatment outcomes
-- **[[02_Worldbuilding/Items/Data Correlation Computer]]**: Analyze patterns in shadow medical cases
+- **[[Shadow Corruption Laboratory Set]]**: Comprehensive research equipment
+- **[[Biological Sample Analysis Array]]**: Study shadow effects on tissue samples
+- **[[Pharmaceutical Development Station]]**: Create new treatments for corruption
+- **[[Clinical Trial Monitoring System]]**: Track experimental treatment outcomes
+- **[[Data Correlation Computer]]**: Analyze patterns in shadow medical cases
 
 ## Adventure Hooks
 
@@ -532,7 +532,7 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 ## Campaign Integration
 
 ### Connection to Main Themes
-- Represents healing and restoration against [[02_Worldbuilding/Themes/Shadow Corruption]]
+- Represents healing and restoration against [[Shadow Corruption]]
 - Explores medical ethics and professional responsibility themes
 - Links individual patient care with population-level public health
 - Provides scientific approach to supernatural threats
@@ -588,13 +588,13 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 - [[Chief Surgeon Nerissa Tideheart]] - Organization founder and leader
 - [[Dr. Aquarius Brightwater]] - Premier shadow corruption researcher
 - [[Surgeon Marcus Healhand]] - Emergency response specialist
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]] - Potential patient or ally
-- [[02_Worldbuilding/People/The Scattered Emperor]] - High-profile potential patient
+- [[Marina-Red-Tide-Coralheart]] - Potential patient or ally
+- [[The Scattered Emperor]] - High-profile potential patient
 
 ### Important Locations
 - [[The Surgical Sanctum]] - Primary medical facility and headquarters
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Source of patients needing treatment
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Policy development and funding
+- [[The Memory Meadows]] - Source of patients needing treatment
+- [[Parliament of Echoes]] - Policy development and funding
 - [[Community Health Clinics]] - Distributed medical care network
 - [[Emergency Response Stations]] - Crisis management facilities
 
@@ -606,7 +606,7 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 - [[Quest - Public Health Crisis]] - Managing population-level shadow threats
 
 ### Supporting Organizations
-- [[02_Worldbuilding/Groups/Shadow Conspiracy Investigation]] - Criminal investigation partners
+- [[Shadow Conspiracy Investigation]] - Criminal investigation partners
 - [[Medical College of Aquabyssos]] - Academic and training collaboration
 - [[Department of Public Health]] - Government health policy partnership
 - [[Replacement Survivor Support Groups]] - Patient advocacy organizations

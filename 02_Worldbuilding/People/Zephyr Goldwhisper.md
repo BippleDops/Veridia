@@ -4,7 +4,7 @@ alignment: True Neutral
 race: Gnome
 class: Rogue/Artificer
 level: 9
-location: [[02_Worldbuilding/Places/Port Meridian]]
+location: [[Port Meridian]]
 faction: Merchant Princes / Goldspire Confederacy
 status: Active
   - Category/People
@@ -34,12 +34,12 @@ Zephyr Goldwhisper operates as a merchant prince's representative while secretly
 - Treats everything as a transaction, including friendships
 
 ## Relationships
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Business rival and occasional partner in extremely profitable ventures
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Sells her corruption-hiding cosmetics while gathering intelligence
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Provides her with "tips" about competitors' illegal activities
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Surprisingly cordial relationship - trades information about crystal-resistant plants
-- **[[02_Worldbuilding/People/Sir Marcus Dawnforge]]**: Supplies his underground railroad with untraceable funds
-- **[[02_Worldbuilding/People/Ambassador Korvin Blacktide]]**: Engaged in a careful dance of mutual espionage
+- **[[Vex Shadowthorn]]**: Business rival and occasional partner in extremely profitable ventures
+- **[[Queen Seraphina Lumengarde]]**: Sells her corruption-hiding cosmetics while gathering intelligence
+- **[[Captain Lyanna Brightshield]]**: Provides her with "tips" about competitors' illegal activities
+- **[[Archdruid Thornweaver]]**: Surprisingly cordial relationship - trades information about crystal-resistant plants
+- **[[Sir Marcus Dawnforge]]**: Supplies his underground railroad with untraceable funds
+- **[[Ambassador Korvin Blacktide]]**: Engaged in a careful dance of mutual espionage
 
 ## Current Activities
 - Cataloguing the economic impact of crystal corruption for foreign investors
@@ -52,7 +52,7 @@ Zephyr Goldwhisper operates as a merchant prince's representative while secretly
 > The Goldspire Confederacy has authorized Zephyr to orchestrate Aethermoor's economic dependency on foreign aid. They're deliberately creating supply shortages to make Aethermoor reliant on Goldspire imports, planning eventual economic colonization.
 
 > [!danger] The Backup Plan
-> Zephyr has hidden several "Null Bombs" throughout [[02_Worldbuilding/Places/Port Meridian]] - devices that can temporarily nullify all crystal energy in a mile radius. The Confederacy plans to use these if Aethermoor's crystal crisis threatens to spread internationally.
+> Zephyr has hidden several "Null Bombs" throughout [[Port Meridian]] - devices that can temporarily nullify all crystal energy in a mile radius. The Confederacy plans to use these if Aethermoor's crystal crisis threatens to spread internationally.
 
 > [!info] Personal Conflict
 > Zephyr is genuinely growing fond of several Aethermoor citizens and increasingly conflicted about their mission. They've started withholding certain intelligence from the Confederacy and may be turned into a double agent with the right approach.
@@ -84,5 +84,5 @@ Zephyr Goldwhisper operates as a merchant prince's representative while secretly
 ## Plot Hooks
 - Hires party to escort a "merchant caravan" that's actually surveying for invasion routes
 - Offers to trade crucial information for help sabotaging a competitor
-- Needs protection while conducting "market research" in the [[02_Worldbuilding/Places/The Crystalline Wastes]]
+- Needs protection while conducting "market research" in the [[The Crystalline Wastes]]
 - Can provide intelligence about any faction for the right price

@@ -10,13 +10,14 @@ size: "Large Complex"
 population: "~2,000 (rotating)"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Floating Market
 *The Nexus of Worlds, Where All Realities Meet*
 
 ## Overview
-The Floating Market exists in a carefully maintained dimensional pocket that touches both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] while belonging fully to neither. Created and operated by [[The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
+The Floating Market exists in a carefully maintained dimensional pocket that touches both [[Aethermoor]] and [[Aquabyssos]] while belonging fully to neither. Created and operated by [[The Liminal Trading Company]], it serves as the primary hub for cross-realm commerce, diplomacy, and cultural exchange. The Market literally "floats" through dimensional space, periodically shifting its access points to avoid territorial claims from either realm's governments.
 
 ## Physical Description
 ### The Market Structure

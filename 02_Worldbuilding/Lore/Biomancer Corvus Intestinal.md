@@ -461,10 +461,10 @@ Corving's advanced medical techniques provide solutions to medical crises that c
 **Species Integration** - Characters facilitate cooperation between different species while utilizing biological modifications that enable perfect cultural and biological compatibility.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary realm where Corvus conducts his research
-- [[02_Worldbuilding/Lore/Institute of Living Sciences]] - Academic institution where Corvus received his training
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon studied in current research
-- [[02_Worldbuilding/Lore/Spell Lists]] - Catalog including biological manipulation spells
-- [[02_Worldbuilding/Lore/Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
-- [[02_Worldbuilding/People/Professor Depth Biologist]] - Former colleague and current correspondent
-- [[02_Worldbuilding/People/Crystal Corruption Researcher Prime]] - Current collaborative research partner
+- [[Aquabyssos]] - Primary realm where Corvus conducts his research
+- [[Institute of Living Sciences]] - Academic institution where Corvus received his training
+- [[The Crystal Influence]] - Corruption phenomenon studied in current research
+- [[Spell Lists]] - Catalog including biological manipulation spells
+- [[Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
+- [[Professor Depth Biologist]] - Former colleague and current correspondent
+- [[Crystal Corruption Researcher Prime]] - Current collaborative research partner

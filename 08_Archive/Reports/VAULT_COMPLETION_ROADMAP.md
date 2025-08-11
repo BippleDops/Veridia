@@ -87,11 +87,11 @@
 
 **Search Commands for Verification:**
 ```bash
-# Find remaining stub files
-grep -l 'status: "stub"' /path/to/quests/*.md
+# Find remaining stub files (avoid false positives in docs)
+find . -name "*.md" -exec grep -l -E 'status: stub' {} \;
 
 # Verify completion
-wc -l /path/to/quests/*.md | grep -E "^\s+[0-9]{1,2}\s"
+find 02_Worldbuilding/Quests -name "*.md" | wc -l
 ```
 
 This roadmap provides complete context for any future Claude agent to immediately understand the work completed and efficiently finish the remaining stub quest expansions.

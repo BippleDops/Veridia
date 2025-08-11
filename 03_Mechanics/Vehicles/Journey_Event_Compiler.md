@@ -8,7 +8,7 @@ created: 2025-08-11
 
 # Journey Event Compiler
 
-Framework to produce 1,000+ varied travel events by combining depth/height/merger categories with weather, faction, horror, and discovery layers. Detailed tables live in [[06_GM_Resources/Travel/Travel_Event_Table|GM Travel Tables]].
+Framework to produce 1,000+ varied travel events by combining depth/height/merger categories with weather, faction, horror, and discovery layers. Detailed tables live in [[06_GM_Resources/Travel/Travel_Event_Table|GM Travel Tables]]. For rapid combinatorics, also see [[06_GM_Resources/Travel/Journey_Event_Permutation_Engine|Journey Event Permutation Engine]].
 
 ## Categories
 - Environment: Weather, pressure, currents, winds, merger pulses

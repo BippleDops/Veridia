@@ -29,12 +29,42 @@ Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and
 ## Generators & GM Tools
 - [[Fleet_Dynamics_Generator]] — Doctrines, compositions, admirals, supply lines, bases.
 - [[Journey_Event_Compiler]] — 1,000+ scalable travel events framework across depth, height, and merger zones.
+- [[06_GM_Resources/Travel/Journey_Event_Permutation_Engine|Journey Event Permutation Engine]] — Fast combinator for 1,000,000+ unique encounters.
 - [[Vessel_Horror_Intensifier]] — Confined-space horror, infestations, ghosts, cursed and hungry ships.
 
 ## GM Resources & Handouts
 - GM Travel Tables: [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]] • [[06_GM_Resources/Travel/Pressure_Weather_Events|Pressure & Weather]] • [[06_GM_Resources/Travel/Merger_Transit_Complications|Merger Complications]] • [[06_GM_Resources/Travel/Crew_Relationship_Events|Crew Events]]
 - Player Handouts: [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|Aquabyssos Submarines]] • [[04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships|Aethermoor Airships]] • [[04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels|Merger Vessels]]
 - Templates: [[05_Templates/Vehicles/New_Ship_Template|New Ship]] • [[05_Templates/Vehicles/New_Fleet_Template|New Fleet]] • [[05_Templates/Vehicles/New_Journey_Event_Template|New Journey Event]]
+
+### Event Packs
+- [[06_GM_Resources/Travel/Events/Depth_Events_Pack_A|Depth Events Pack A]] — 50 detailed depth encounters
+- [[06_GM_Resources/Travel/Events/Depth_Events_Pack_B|Depth Events Pack B]] — 50 more depth encounters
+- [[06_GM_Resources/Travel/Events/Sky_Events_Pack_A|Sky Events Pack A]] — 50 detailed sky encounters
+- [[06_GM_Resources/Travel/Events/Sky_Events_Pack_B|Sky Events Pack B]] — 50 more sky encounters
+- [[06_GM_Resources/Travel/Events/Merger_Events_Pack_A|Merger Events Pack A]] — 50 detailed breach encounters
+- [[06_GM_Resources/Travel/Events/Merger_Events_Pack_B|Merger Events Pack B]] — 50 more breach encounters
+- [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_A|Mixed Events Pack A]] — 50 cross-world encounters
+- [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_B|Mixed Events Pack B]] — 50 more cross-world encounters
+
+### Encounter Sheets
+- [[06_GM_Resources/Travel/Encounter_Sheets/D-005_Shadow_Bloom|D-005 Shadow Bloom]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/D-010_Pirate_Shadow_Net|D-010 Pirate Shadow Net]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/D-019_Oracle_Whale|D-019 Oracle Whale]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/S-004_Cloud_Canyon|S-004 Cloud Canyon]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/S-009_Void_Moan|S-009 Void Moan]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/S-018_Choir_Pirates|S-018 Choir Pirates]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/M-001_Physics_Denial|M-001 Physics Denial]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/M-003_Duplicate_Crew|M-003 Duplicate Crew Arrival]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/M-008_Door_Opens_Elsewhere|M-008 Door Opens Elsewhere]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/X-001_Trench_to_Cloud_Transfer|X-001 Trench-to-Cloud Transfer]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/X-003_Anchor_Storm|X-003 Anchor Storm]]
+- [[06_GM_Resources/Travel/Encounter_Sheets/X-005_Dream_Sailing_Convoy|X-005 Dream Sailing Convoy]]
+
+## Catalogs
+- [[Aquabyssos_Submarines_Catalog]] — 60 designs
+- [[Aethermoor_Airships_Catalog]] — 60 designs
+- [[Merger_Vessels_Catalog]] — 36 designs
 
 ## Obsidian Queries
 ```dataview

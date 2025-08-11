@@ -5,7 +5,7 @@ last_name: "Deepcurrent"
 title: "High Tidecaller"
 location: "[[Maelstrom Palace]]"
 faction: "[[The Tidal Council]]"
-occupation: "Supreme Leader of Aquathys"
+occupation: "Supreme Leader of Aquabyssos"
 disposition: 0
 alignment: "Lawful Neutral"
 race: "Triton"
@@ -55,7 +55,7 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 
 ## Background
 
-Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquathys. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise]] before his sacrifice.
+Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise]] before his sacrifice.
 
 ### Rise to Power
 - Age 7: First prophetic vision
@@ -78,14 +78,14 @@ Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was 
 
 ### Neutral Parties
 - **[[Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
-- **[[The Depth Wardens]]** - Loyal to Aquathys, not necessarily to her
+- **[[The Depth Wardens]]** - Loyal to Aquabyssos, not necessarily to her
 
 ## Current Concerns
 
 ### The Second Rising Prophecy
 Her own visions show two paths:
-1. Aquathys rises and burns in the sun
-2. Aquathys stays and drowns in darkness
+1. Aquabyssos rises and burns in the sun
+2. Aquabyssos stays and drowns in darkness
 She seeks a third option but hasn't found it.
 
 ### The Pressure Wars
@@ -96,7 +96,7 @@ She seeks a third option but hasn't found it.
 ### Surface Relations
 - Trade is necessary but brings contamination
 - [[02_Worldbuilding/People/Gareth_Ironforge]] offers alliance but at what cost?
-- Surface nations eye Aquathys's resources greedily
+- Surface nations eye Aquabyssos's resources greedily
 
 ## Powers & Abilities
 
@@ -122,7 +122,7 @@ She seeks a third option but hasn't found it.
 
 ### Secret Projects
 1. **Project Surface Light:** Building surface observation posts
-2. **The Third Path:** Seeking way to partially surface Aquathys
+2. **The Third Path:** Seeking way to partially surface Aquabyssos
 3. **Memory Preservation:** Recording pre-Submersion history
 4. **Void Research:** Investigating if the threat still exists
 
@@ -192,7 +192,7 @@ She seeks a third option but hasn't found it.
 - +3: Solve depth conflicts peacefully
 - +1: Show respect for traditions
 - -2: Support the Restoration Movement
-- -3: Threaten Aquathys stability
+- -3: Threaten Aquabyssos stability
 - -5: Harm innocents
 
 ## Secrets & Mysteries
@@ -220,7 +220,7 @@ She seeks a third option but hasn't found it.
 
 ### Plot Potential
 - Could become ally or adversary based on party actions
-- Her death would destabilize all Aquathys
+- Her death would destabilize all Aquabyssos
 - Key to any "return to surface" storyline
 - Connects to larger cosmic threats through visions
 

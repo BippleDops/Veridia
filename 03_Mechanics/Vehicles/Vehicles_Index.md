@@ -46,6 +46,14 @@ Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and
 - [[06_GM_Resources/Travel/Events/Merger_Events_Pack_B|Merger Events Pack B]] — 50 more breach encounters
 - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_A|Mixed Events Pack A]] — 50 cross-world encounters
 - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_B|Mixed Events Pack B]] — 50 more cross-world encounters
+ - [[06_GM_Resources/Travel/Events/Depth_Events_Pack_C|Depth Events Pack C]] — 50 depth encounters
+ - [[06_GM_Resources/Travel/Events/Sky_Events_Pack_C|Sky Events Pack C]] — 50 sky encounters
+ - [[06_GM_Resources/Travel/Events/Merger_Events_Pack_C|Merger Events Pack C]] — 50 breach encounters
+ - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_C|Mixed Events Pack C]] — 50 cross-world encounters
+ - [[06_GM_Resources/Travel/Events/Depth_Events_Pack_D|Depth Events Pack D — Faction Spotlight]]
+ - [[06_GM_Resources/Travel/Events/Sky_Events_Pack_D|Sky Events Pack D — Faction Spotlight]]
+ - [[06_GM_Resources/Travel/Events/Merger_Events_Pack_D|Merger Events Pack D — Faction Spotlight]]
+ - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_D|Mixed Events Pack D — Faction Spotlight]]
 
 ### Encounter Sheets
 - [[06_GM_Resources/Travel/Encounter_Sheets/D-005_Shadow_Bloom|D-005 Shadow Bloom]]
@@ -63,6 +71,14 @@ Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and
 
 ```dataview
 LIST FROM "06_GM_Resources/Travel/Encounter_Sheets"
+SORT file.name ASC
+```
+
+### Handouts
+- Player Ship Handouts: [[04_Resources/Handouts/Ships/Player_Handout_Aquabyssos_Submarines|Aquabyssos Submarines]] • [[04_Resources/Handouts/Ships/Player_Handout_Aethermoor_Airships|Aethermoor Airships]] • [[04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels|Merger Vessels]]
+
+```dataview
+LIST FROM "04_Resources/Handouts/Encounters"
 SORT file.name ASC
 ```
 

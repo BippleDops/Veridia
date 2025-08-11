@@ -23,6 +23,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg)
+
+
 
 
 # Lord Aurelius Goldwave

@@ -20,6 +20,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:49.850887+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-memory-merchant-valeria-siltweave-memory-merchant-valeria-siltweave.svg)
+
+
 
 
 # Memory Merchant Valeria Siltweave

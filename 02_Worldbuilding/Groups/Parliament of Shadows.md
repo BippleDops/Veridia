@@ -10,6 +10,10 @@ created: '2025-08-11T13:08:46.660856+00:00'
 updated: '2025-08-11T13:08:51.343244+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-parliament-of-shadows-campaign-parliament-of-shadows-campaign.svg)
+
+
 
 ## Overview
 

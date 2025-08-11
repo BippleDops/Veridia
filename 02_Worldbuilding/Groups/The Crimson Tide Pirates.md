@@ -17,6 +17,10 @@ updated: '2025-08-11T13:08:51.170921+00:00'
 status: draft
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crimson-tide-pirates-the-crimson-tide-pirates.svg)
+
+
 
 # The Crimson Tide Pirates
 

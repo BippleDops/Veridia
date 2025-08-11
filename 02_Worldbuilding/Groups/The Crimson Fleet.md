@@ -24,6 +24,10 @@ updated: '2025-08-11T13:08:51.225968+00:00'
 status: draft
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crimson-fleet-the-crimson-fleet.svg)
+
+
 
 
 

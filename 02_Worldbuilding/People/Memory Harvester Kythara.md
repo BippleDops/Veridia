@@ -21,6 +21,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:49.775739+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-memory-harvester-kythara-memory-harvester-kythara.svg)
+
+
 
 
 # Memory Harvester Kythara

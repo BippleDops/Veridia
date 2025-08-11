@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor.svg)
+
+
 
 
 # The Iron Fleet

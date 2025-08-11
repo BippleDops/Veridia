@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg)
+
+
 
 
 # Elder Whisper-In-The-Dark

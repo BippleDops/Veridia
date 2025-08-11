@@ -39,6 +39,10 @@ benefits:
 updated: '2025-08-11T13:08:51.505600+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-independence-levels-shadow-independence-levels.svg)
+
+
 
 
 # Shadow Independence Levels

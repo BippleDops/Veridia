@@ -24,6 +24,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:49.686611+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-abyssos-prime-parliament-of-echoes-abyssos-prime-parliament-of-echoes.svg)
+
+
 
 
 # Abyssos Prime - Parliament of Echoes

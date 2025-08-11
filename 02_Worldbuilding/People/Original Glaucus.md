@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-original-glaucus-original-glaucus.svg)
+
+
 
 
 

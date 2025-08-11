@@ -29,6 +29,10 @@ MyCategory: Diplomat
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg)
+
+
 
 
 

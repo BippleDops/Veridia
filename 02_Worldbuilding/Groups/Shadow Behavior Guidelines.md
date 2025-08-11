@@ -27,6 +27,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:51.519051+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-behavior-guidelines-shadow-behavior-guidelines.svg)
+
+
 
 # Shadow Behavior Guidelines
 *The Moral Compass of the Depths, Keepers of Shadow Ethics, Community Standards Council*

@@ -9,6 +9,10 @@ tags:
 type: Group
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg)
+
+
 
 
 

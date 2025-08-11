@@ -9,6 +9,10 @@ tags:
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-harbor-master-luna-freedrift-harbor-master-luna-freedrift.svg)
+
+
 
 
 # Harbor Master Luna Freedrift

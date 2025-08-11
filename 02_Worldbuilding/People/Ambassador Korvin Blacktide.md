@@ -24,6 +24,10 @@ created: '2025-08-11T13:08:49.872391+00:00'
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-ambassador-korvin-blacktide-ambassador-korvin-blacktide.svg)
+
+
 
 
 

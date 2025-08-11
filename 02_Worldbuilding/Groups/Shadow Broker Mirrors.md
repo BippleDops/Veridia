@@ -22,6 +22,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:51.381809+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-broker-mirrors-shadow-broker-mirrors.svg)
+
+
 
 
 # Shadow Broker Mirrors

@@ -27,6 +27,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:51.461030+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.svg)
+
+
 
 # Vex Shadowthorn Boss Fight
 *Elite Creature Hunters, Masters of Combat Excellence, The Ultimate Challenge*

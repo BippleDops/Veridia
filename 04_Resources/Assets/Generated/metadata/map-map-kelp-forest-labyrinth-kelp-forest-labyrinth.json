@@ -1,0 +1,37 @@
+{
+  "id": "map-kelp-forest-labyrinth",
+  "type": "map",
+  "name": "Kelp Forest Labyrinth",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Top-down tactical map: Kelp Forest Labyrinth, 15x15 squares at 140 px per square (140 DPI), 15x15, distinct patterns for passable / impassable / difficult, collapses, rips, currents; marked clearly, multiple routes and flanking options, ramps, stairs, ledges, or contour lines, bold lines for walls/obstacles; fine lines for textures; high-contrast grid, icons only; no text labels; VTT-ready export, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., No embedded text labels; use icons and clear linework only. Reserve clean margins and text-safe areas for VTT overlays. Render grid and numeric ticks crisply; avoid stylized fonts entirely., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "16:9",
+  "resolution": "2560x1440",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2015,
+  "alt_text": "Top-down tactical map of Kelp Forest Labyrinth.",
+  "realm": "aquabyssos",
+  "dpi": 140,
+  "grid": "15x15",
+  "vtt": {
+    "format": "Foundry",
+    "tileSize": 140,
+    "textPolicy": "no text; overlays only"
+  },
+  "levels": 2,
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg"
+}

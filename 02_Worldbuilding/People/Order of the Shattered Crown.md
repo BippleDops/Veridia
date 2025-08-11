@@ -25,6 +25,10 @@ updated: '2025-08-11T13:08:49.802952+00:00'
 cr: '8'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
+
+
 
 
 

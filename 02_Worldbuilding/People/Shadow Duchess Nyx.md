@@ -24,6 +24,10 @@ updated: '2025-08-11T13:08:49.924745+00:00'
 type: NPC
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-shadow-duchess-nyx-shadow-duchess-nyx.svg)
+
+
 
 
 

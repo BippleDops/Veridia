@@ -16,6 +16,10 @@ updated: '2025-08-11T13:08:51.524005+00:00'
 status: draft
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-merchants-guild-merchants-guild.svg)
+
+
 
 
 

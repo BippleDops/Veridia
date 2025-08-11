@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Underwater_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Underwater_Ambience.wav",
+    "duration_s": 60,
+    "sampleRate": 44100
+  },
+  {
+    "name": "Airship_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Airship_Ambience.wav",
+    "duration_s": 60,
+    "sampleRate": 44100
+  },
+  {
+    "name": "Market_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Market_Ambience.wav",
+    "duration_s": 60,
+    "sampleRate": 44100
+  },
+  {
+    "name": "Temple_Ambience",
+    "file": "04_Resources/Assets/Audio/Generated/Temple_Ambience.wav",
+    "duration_s": 60,
+    "sampleRate": 44100
+  }
+]

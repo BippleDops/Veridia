@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-conspiracy-the-shadow-conspiracy.svg)
+
+
 
 
 # The Shadow Conspiracy

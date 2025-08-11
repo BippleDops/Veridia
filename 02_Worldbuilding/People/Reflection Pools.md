@@ -17,6 +17,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:49.876322+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-reflection-pools-reflection-pools.svg)
+
+
 
 
 

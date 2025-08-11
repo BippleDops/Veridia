@@ -24,6 +24,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:49.799059+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-crystal-innovation-quest-crystal-innovation.svg)
+
+
 
 
 # Maestra Luminara Crystalweave

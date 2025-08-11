@@ -10,6 +10,10 @@ type: NPC
 cr: '16'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-high-priest-dagon-deepcaller-high-priest-dagon-deepcaller.svg)
+
+
 
 
 

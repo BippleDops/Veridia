@@ -3,388 +3,6 @@
 ```json
 [
   {
-    "id": "heraldry-the-whisper-syndicate",
-    "type": "symbol",
-    "name": "The Whisper Syndicate",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Whisper Syndicate, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2001,
-    "alt_text": "Heraldic emblem for The Whisper Syndicate.",
-    "realm": "aquabyssos",
-    "palette": "deep blues",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-lady-venetia-silkwind",
-    "type": "symbol",
-    "name": "Lady Venetia Silkwind",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Lady Venetia Silkwind, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2002,
-    "alt_text": "Heraldic emblem for Lady Venetia Silkwind.",
-    "realm": "aethermoor",
-    "palette": "seafoam greens",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-party-shadows",
-    "type": "symbol",
-    "name": "Party Shadows",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Party Shadows, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2003,
-    "alt_text": "Heraldic emblem for Party Shadows.",
-    "realm": "aquabyssos",
-    "palette": "storm greys",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-shadow-surgeon-strike-team",
-    "type": "symbol",
-    "name": "Shadow Surgeon Strike Team",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Surgeon Strike Team, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2004,
-    "alt_text": "Heraldic emblem for Shadow Surgeon Strike Team.",
-    "realm": "aquabyssos",
-    "palette": "gold accents",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-the-order-of-the-azure-flame",
-    "type": "symbol",
-    "name": "The Order of the Azure Flame",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Order of the Azure Flame, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2005,
-    "alt_text": "Heraldic emblem for The Order of the Azure Flame.",
-    "realm": "aquabyssos",
-    "palette": "deep blues",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-purist-coalition-thugs",
-    "type": "symbol",
-    "name": "Purist Coalition Thugs",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Purist Coalition Thugs, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2006,
-    "alt_text": "Heraldic emblem for Purist Coalition Thugs.",
-    "realm": "aquabyssos",
-    "palette": "seafoam greens",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-independent-smugglers",
-    "type": "symbol",
-    "name": "Independent Smugglers",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Independent Smugglers, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2007,
-    "alt_text": "Heraldic emblem for Independent Smugglers.",
-    "realm": "aquabyssos",
-    "palette": "storm greys",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-the-liminal-trading-company",
-    "type": "symbol",
-    "name": "The Liminal Trading Company",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Liminal Trading Company, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2008,
-    "alt_text": "Heraldic emblem for The Liminal Trading Company.",
-    "realm": "aquabyssos",
-    "palette": "gold accents",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-master-chen-wei",
-    "type": "symbol",
-    "name": "Master Chen Wei",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Master Chen Wei, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2009,
-    "alt_text": "Heraldic emblem for Master Chen Wei.",
-    "realm": "aquabyssos",
-    "palette": "deep blues",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-the-crown",
-    "type": "symbol",
-    "name": "The Crown",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Crown, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2010,
-    "alt_text": "Heraldic emblem for The Crown.",
-    "realm": "aquabyssos",
-    "palette": "seafoam greens",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-investigators-anonymous",
-    "type": "symbol",
-    "name": "Investigators Anonymous",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Investigators Anonymous, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2011,
-    "alt_text": "Heraldic emblem for Investigators Anonymous.",
-    "realm": "aquabyssos",
-    "palette": "storm greys",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-shadow-broker-mirrors",
-    "type": "symbol",
-    "name": "Shadow Broker Mirrors",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Broker Mirrors, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2012,
-    "alt_text": "Heraldic emblem for Shadow Broker Mirrors.",
-    "realm": "aquabyssos",
-    "palette": "gold accents",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-shadow-bazaar",
-    "type": "symbol",
-    "name": "Shadow Bazaar",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Bazaar, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2013,
-    "alt_text": "Heraldic emblem for Shadow Bazaar.",
-    "realm": "aquabyssos",
-    "palette": "deep blues",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  }
-]
-```
-
-```json
-[
-  {
     "id": "heraldry-the-shadowhaven-smugglers-ring",
     "type": "symbol",
     "name": "The Shadowhaven Smugglers Ring",
@@ -407,39 +25,10 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2014,
+    "seed": 2001,
     "alt_text": "Heraldic emblem for The Shadowhaven Smugglers Ring.",
     "realm": "aquabyssos",
-    "palette": "seafoam greens",
-    "textPolicy": "no words or inscriptions; pure iconography"
-  },
-  {
-    "id": "heraldry-shadow-independence-levels",
-    "type": "symbol",
-    "name": "Shadow Independence Levels",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Independence Levels, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
-    "aspect": "2:3",
-    "resolution": "2048x3072",
-    "style": [
-      "concept art",
-      "high detail"
-    ],
-    "lighting": "studio",
-    "mood": "on-brand",
-    "negative": [
-      "blurry",
-      "artifacts",
-      "nonsense text",
-      "garbled letters",
-      "extra fingers",
-      "modern signage",
-      "sci-fi ui",
-      "anime"
-    ],
-    "seed": 2015,
-    "alt_text": "Heraldic emblem for Shadow Independence Levels.",
-    "realm": "aquabyssos",
-    "palette": "storm greys",
+    "palette": "deep blues",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
@@ -465,10 +54,126 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2016,
+    "seed": 2002,
     "alt_text": "Heraldic emblem for Crystal Wardens.",
     "realm": "aquabyssos",
+    "palette": "seafoam greens",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-the-liminal-trading-company",
+    "type": "symbol",
+    "name": "The Liminal Trading Company",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Liminal Trading Company, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2003,
+    "alt_text": "Heraldic emblem for The Liminal Trading Company.",
+    "realm": "aquabyssos",
+    "palette": "storm greys",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-bexley",
+    "type": "symbol",
+    "name": "Bexley",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Bexley, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2004,
+    "alt_text": "Heraldic emblem for Bexley.",
+    "realm": "aquabyssos",
     "palette": "gold accents",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-captain-rodrigo-ironanchor",
+    "type": "symbol",
+    "name": "Captain Rodrigo Ironanchor",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Captain Rodrigo Ironanchor, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2005,
+    "alt_text": "Heraldic emblem for Captain Rodrigo Ironanchor.",
+    "realm": "aquabyssos",
+    "palette": "deep blues",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-the-crimson-fleet",
+    "type": "symbol",
+    "name": "The Crimson Fleet",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Crimson Fleet, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2006,
+    "alt_text": "Heraldic emblem for The Crimson Fleet.",
+    "realm": "aquabyssos",
+    "palette": "seafoam greens",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
@@ -494,10 +199,155 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2017,
+    "seed": 2007,
     "alt_text": "Heraldic emblem for Investigate Shadow Surgeons.",
     "realm": "aquabyssos",
+    "palette": "storm greys",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-thieves-guild",
+    "type": "symbol",
+    "name": "Thieves Guild",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Thieves Guild, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2008,
+    "alt_text": "Heraldic emblem for Thieves Guild.",
+    "realm": "aquabyssos",
+    "palette": "gold accents",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-the-crystal-throne",
+    "type": "symbol",
+    "name": "The Crystal Throne",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Crystal Throne, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2009,
+    "alt_text": "Heraldic emblem for The Crystal Throne.",
+    "realm": "aquabyssos",
     "palette": "deep blues",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-merchants-guild",
+    "type": "symbol",
+    "name": "Merchants Guild",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Merchants Guild, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2010,
+    "alt_text": "Heraldic emblem for Merchants Guild.",
+    "realm": "aquabyssos",
+    "palette": "seafoam greens",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-lord-vexton-shadowmere",
+    "type": "symbol",
+    "name": "Lord Vexton Shadowmere",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Lord Vexton Shadowmere, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2011,
+    "alt_text": "Heraldic emblem for Lord Vexton Shadowmere.",
+    "realm": "aquabyssos",
+    "palette": "storm greys",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-port-sorrow-trading-company",
+    "type": "symbol",
+    "name": "Port Sorrow Trading Company",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Port Sorrow Trading Company, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2012,
+    "alt_text": "Heraldic emblem for Port Sorrow Trading Company.",
+    "realm": "aquabyssos",
+    "palette": "gold accents",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
@@ -523,17 +373,22 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2018,
+    "seed": 2013,
     "alt_text": "Heraldic emblem for Parliament-of-Shadows-Campaign.",
     "realm": "aquabyssos",
-    "palette": "seafoam greens",
+    "palette": "deep blues",
     "textPolicy": "no words or inscriptions; pure iconography"
-  },
+  }
+]
+```
+
+```json
+[
   {
-    "id": "heraldry-temple-of-divine-order",
+    "id": "heraldry-shadow-broker-mirrors",
     "type": "symbol",
-    "name": "Temple of Divine Order",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Temple of Divine Order, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "Shadow Broker Mirrors",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Broker Mirrors, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -552,8 +407,37 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2019,
-    "alt_text": "Heraldic emblem for Temple of Divine Order.",
+    "seed": 2014,
+    "alt_text": "Heraldic emblem for Shadow Broker Mirrors.",
+    "realm": "aquabyssos",
+    "palette": "seafoam greens",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-establish-new-world-order",
+    "type": "symbol",
+    "name": "Establish New World Order",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Establish New World Order, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2015,
+    "alt_text": "Heraldic emblem for Establish New World Order.",
     "realm": "aquabyssos",
     "palette": "storm greys",
     "textPolicy": "no words or inscriptions; pure iconography"
@@ -581,17 +465,133 @@
       "sci-fi ui",
       "anime"
     ],
-    "seed": 2020,
+    "seed": 2016,
     "alt_text": "Heraldic emblem for Shadow Behavior Guidelines.",
     "realm": "aquabyssos",
     "palette": "gold accents",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
-    "id": "heraldry-the-artisans-collective-of-master-crafters",
+    "id": "heraldry-vex-shadowthorn-boss-fight",
     "type": "symbol",
-    "name": "The Artisans' Collective of Master Crafters",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Artisans' Collective of Master Crafters, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "Vex Shadowthorn Boss Fight",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Vex Shadowthorn Boss Fight, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2017,
+    "alt_text": "Heraldic emblem for Vex Shadowthorn Boss Fight.",
+    "realm": "aquabyssos",
+    "palette": "deep blues",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-the-shadow-conspiracy",
+    "type": "symbol",
+    "name": "The Shadow Conspiracy",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Shadow Conspiracy, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2018,
+    "alt_text": "Heraldic emblem for The Shadow Conspiracy.",
+    "realm": "aquabyssos",
+    "palette": "seafoam greens",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-the-seekers-guild",
+    "type": "symbol",
+    "name": "The Seekers' Guild",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Seekers' Guild, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2019,
+    "alt_text": "Heraldic emblem for The Seekers' Guild.",
+    "realm": "aquabyssos",
+    "palette": "storm greys",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-the-shadow-duchess-duel",
+    "type": "symbol",
+    "name": "The Shadow Duchess Duel",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Shadow Duchess Duel, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "aspect": "2:3",
+    "resolution": "2048x3072",
+    "style": [
+      "concept art",
+      "high detail"
+    ],
+    "lighting": "studio",
+    "mood": "on-brand",
+    "negative": [
+      "blurry",
+      "artifacts",
+      "nonsense text",
+      "garbled letters",
+      "extra fingers",
+      "modern signage",
+      "sci-fi ui",
+      "anime"
+    ],
+    "seed": 2020,
+    "alt_text": "Heraldic emblem for The Shadow Duchess Duel.",
+    "realm": "aquabyssos",
+    "palette": "gold accents",
+    "textPolicy": "no words or inscriptions; pure iconography"
+  },
+  {
+    "id": "heraldry-vex-shadowthorn",
+    "type": "symbol",
+    "name": "Vex Shadowthorn",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Vex Shadowthorn, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -611,16 +611,16 @@
       "anime"
     ],
     "seed": 2021,
-    "alt_text": "Heraldic emblem for The Artisans' Collective of Master Crafters.",
+    "alt_text": "Heraldic emblem for Vex Shadowthorn.",
     "realm": "aquabyssos",
     "palette": "deep blues",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
-    "id": "heraldry-captain-rodrigo-ironanchor",
+    "id": "heraldry-order-of-the-drowned-star",
     "type": "symbol",
-    "name": "Captain Rodrigo Ironanchor",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Captain Rodrigo Ironanchor, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "Order of the Drowned Star",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Order of the Drowned Star, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, cosmic surrealism, impossible geometries, starfield grain, indigo glows, palette: indigos, violets, black, cold silver, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -640,16 +640,16 @@
       "anime"
     ],
     "seed": 2022,
-    "alt_text": "Heraldic emblem for Captain Rodrigo Ironanchor.",
-    "realm": "aquabyssos",
+    "alt_text": "Heraldic emblem for Order of the Drowned Star.",
+    "realm": "void",
     "palette": "seafoam greens",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
-    "id": "heraldry-the-crimson-fleet",
+    "id": "heraldry-the-whisper-syndicate",
     "type": "symbol",
-    "name": "The Crimson Fleet",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Crimson Fleet, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "The Whisper Syndicate",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Whisper Syndicate, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -669,16 +669,16 @@
       "anime"
     ],
     "seed": 2023,
-    "alt_text": "Heraldic emblem for The Crimson Fleet.",
+    "alt_text": "Heraldic emblem for The Whisper Syndicate.",
     "realm": "aquabyssos",
     "palette": "storm greys",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
-    "id": "heraldry-the-convergence-seekers",
+    "id": "heraldry-the-crimson-tide-pirates",
     "type": "symbol",
-    "name": "The Convergence Seekers",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Convergence Seekers, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "The Crimson Tide Pirates",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Crimson Tide Pirates, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -698,16 +698,16 @@
       "anime"
     ],
     "seed": 2024,
-    "alt_text": "Heraldic emblem for The Convergence Seekers.",
+    "alt_text": "Heraldic emblem for The Crimson Tide Pirates.",
     "realm": "aquabyssos",
     "palette": "gold accents",
     "textPolicy": "no words or inscriptions; pure iconography"
   },
   {
-    "id": "heraldry-the-brotherhood-of-the-black-anchor",
+    "id": "heraldry-shadow-independence-levels",
     "type": "symbol",
-    "name": "The Brotherhood of the Black Anchor",
-    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: The Brotherhood of the Black Anchor, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+    "name": "Shadow Independence Levels",
+    "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Heraldic emblem: Shadow Independence Levels, simple geometry, 2-3 motifs tied to identity, seal/banner/coin variants, vector SVG, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
     "aspect": "2:3",
     "resolution": "2048x3072",
     "style": [
@@ -727,7 +727,7 @@
       "anime"
     ],
     "seed": 2025,
-    "alt_text": "Heraldic emblem for The Brotherhood of the Black Anchor.",
+    "alt_text": "Heraldic emblem for Shadow Independence Levels.",
     "realm": "aquabyssos",
     "palette": "deep blues",
     "textPolicy": "no words or inscriptions; pure iconography"

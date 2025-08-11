@@ -15,6 +15,10 @@ updated: '2025-08-11T13:08:51.250968+00:00'
 status: draft
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadowhaven-smugglers-ring-the-shadowhaven-smugglers-ring.svg)
+
+
 
 > [!infobox]
 > # The Shadowhaven Smugglers Ring

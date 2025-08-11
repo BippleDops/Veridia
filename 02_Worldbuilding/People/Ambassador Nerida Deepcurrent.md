@@ -23,6 +23,10 @@ updated: '2025-08-11T13:08:49.829951+00:00'
 created: '2025-08-11T13:08:49.829951+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-ambassador-nerida-deepcurrent-ambassador-nerida-deepcurrent.svg)
+
+
 
 
 

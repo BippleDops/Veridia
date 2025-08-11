@@ -15,6 +15,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:49.832820+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-parliament-high-council-parliament-high-council.svg)
+
+
 
 
 

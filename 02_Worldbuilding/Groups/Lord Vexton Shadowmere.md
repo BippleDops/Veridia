@@ -25,6 +25,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-lord-vexton-shadowmere-lord-vexton-shadowmere.svg)
+
+
 
 
 # The Shadow Court

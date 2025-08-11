@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-church-of-the-tidal-throne-church-of-the-tidal-throne.svg)
+
+
 
 
 

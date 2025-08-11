@@ -23,6 +23,10 @@ updated: '2025-08-11T13:08:49.809187+00:00'
 created: '2025-08-11T13:08:49.809187+00:00'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg)
+
+
 
 
 

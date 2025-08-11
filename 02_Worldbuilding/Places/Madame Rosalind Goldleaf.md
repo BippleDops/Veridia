@@ -29,6 +29,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg)
+
+
 
 
 # Madame Rosalind Goldleaf

@@ -27,6 +27,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-azure-shard-azure-shard.svg)
+
+
 
 
 # Azure Shard

@@ -27,6 +27,10 @@ related_entities:
 - '[[02_Worldbuilding/Places/The Crimson Reef]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg)
+
+
 
 
 # Coral Throne Syndicate HQ

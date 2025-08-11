@@ -22,6 +22,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:51.297484+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.svg)
+
+
 
 
 # Vex Shadowthorn

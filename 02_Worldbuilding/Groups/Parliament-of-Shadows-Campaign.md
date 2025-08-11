@@ -29,6 +29,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:51.276467+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-parliament-of-shadows-campaign-parliament-of-shadows-campaign.svg)
+
+
 
 
 # Parliament-of-Shadows-Campaign

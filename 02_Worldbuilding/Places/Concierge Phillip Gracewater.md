@@ -29,6 +29,10 @@ MyCategory: Embassy Staff
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-concierge-phillip-gracewater-concierge-phillip-gracewater.svg)
+
+
 
 
 

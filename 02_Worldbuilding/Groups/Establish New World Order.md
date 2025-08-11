@@ -27,6 +27,10 @@ obsidianUIMode: preview
 updated: '2025-08-11T13:08:51.372235+00:00'
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-establish-new-world-order-establish-new-world-order.svg)
+
+
 
 # Establish New World Order
 *Architects of Crystal Democracy, Masters of Systematic Reform, The Reasonable Revolution*

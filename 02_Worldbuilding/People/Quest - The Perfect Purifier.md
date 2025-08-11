@@ -18,6 +18,10 @@ updated: '2025-08-11T13:08:49.652848+00:00'
 cr: '8'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg)
+
+
 
 
 

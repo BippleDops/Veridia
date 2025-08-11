@@ -1,0 +1,17 @@
+---
+tags:
+- aethermoor
+- draft
+- historical-event
+type: Lore
+world: Aethermoor
+status: draft
+created: '2025-08-11T13:08:45.965031+00:00'
+updated: '2025-08-11T13:08:49.224879+00:00'
+---
+
+
+
+## Overview
+
+TODO

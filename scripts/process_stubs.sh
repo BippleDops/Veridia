@@ -16,7 +16,8 @@ mkdir -p "04_Resources/Assets/Art/NPCs" \
 
 sanitize_title() {
   # Replace slashes with dash, spaces with underscores for asset filenames
-  echo "$1" | sed -E 's/[\\/]+/-/g; s/\s+/_/g'
+  # Replace slashes with dash, whitespace with underscores for asset filenames
+  echo "$1" | sed -E 's|[/\\]+|-|g; s/[[:space:]]+/_/g'
 }
 
 while IFS= read -r relpath; do

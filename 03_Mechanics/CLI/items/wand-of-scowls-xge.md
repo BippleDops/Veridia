@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-wand-of-scowls-xge-v1-wand-of-scowls-xge.svg)
+
 # Wand of Scowls
 *Wand, minor, common*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Demilich
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
+
 # [Demilich](3-Mechanics\CLI\bestiary\undead/demilich-xmm.md)
 *Source: Monster Manual (2024) p. 96*  
 

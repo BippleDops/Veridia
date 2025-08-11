@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ancient Brass Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.svg)
+
 # [Ancient Brass Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-brass-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 56. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

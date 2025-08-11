@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bridesmaid of Zuggtmoy
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-bridesmaid-of-zuggtmoy-oota.svg)
+
 # [Bridesmaid of Zuggtmoy](3-Mechanics\CLI\bestiary\plant/bridesmaid-of-zuggtmoy-oota.md)
 *Source: Out of the Abyss p. 230*  
 

@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-silver-necklace-with-a-gemstone-pendant-xdmg-silver-necklace-with-a-gemstone-pendant-xdmg.svg)
+
 # Silver necklace with a gemstone pendant
 *Treasure (art object)*  
 

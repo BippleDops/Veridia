@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-belt-of-hill-giant-strength-xdmg-belt-of-hill-giant-strength-xdmg.svg)
+
 # Belt of Hill Giant Strength
 *Wondrous item, rare (requires attunement)*  
 

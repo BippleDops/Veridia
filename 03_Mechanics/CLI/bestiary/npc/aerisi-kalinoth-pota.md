@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Aerisi Kalinoth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota.svg)
+
 # [Aerisi Kalinoth](3-Mechanics\CLI\bestiary\npc/aerisi-kalinoth-pota.md)
 *Source: Princes of the Apocalypse p. 192*  
 

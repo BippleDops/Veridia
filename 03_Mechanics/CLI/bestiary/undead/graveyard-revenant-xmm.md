@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Graveyard Revenant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-graveyard-revenant-xmm-graveyard-revenant-xmm.svg)
+
 # [Graveyard Revenant](3-Mechanics\CLI\bestiary\undead/graveyard-revenant-xmm.md)
 *Source: Monster Manual (2024) p. 260*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Chain Devil
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-chain-devil-xmm-chain-devil-xmm.svg)
+
 # [Chain Devil](3-Mechanics\CLI\bestiary\fiend/chain-devil-xmm.md)
 *Source: Monster Manual (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

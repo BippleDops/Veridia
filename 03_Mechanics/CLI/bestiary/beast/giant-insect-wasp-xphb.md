@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Insect (Wasp)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-wasp-xphb-giant-insect-wasp-xphb.svg)
+
 # [Giant Insect (Wasp)](3-Mechanics\CLI\bestiary\beast/giant-insect-wasp-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 

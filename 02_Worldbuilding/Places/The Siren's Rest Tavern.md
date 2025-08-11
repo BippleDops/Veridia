@@ -26,6 +26,10 @@ obsidianUIMode: preview
 created: '2025-08-11T13:08:51.107206+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-siren-s-rest-tavern-the-siren-s-rest-tavern.svg)
+
+
 
 
 # The Siren's Rest Tavern

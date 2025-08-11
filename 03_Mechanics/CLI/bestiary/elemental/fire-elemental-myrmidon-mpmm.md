@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Fire Elemental Myrmidon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-fire-elemental-myrmidon-mpmm-fire-elemental-myrmidon-mpmm.svg)
+
 # [Fire Elemental Myrmidon](3-Mechanics\CLI\bestiary\elemental/fire-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 

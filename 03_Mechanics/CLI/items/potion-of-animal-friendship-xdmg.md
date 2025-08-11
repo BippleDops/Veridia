@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-potion-of-animal-friendship-xdmg-potion-of-animal-friendship-xdmg.svg)
+
 # Potion of Animal Friendship
 *Potion, uncommon*  
 

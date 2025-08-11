@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Kraken Priest
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-kraken-priest-mpmm-kraken-priest-mpmm.svg)
+
 # [Kraken Priest](3-Mechanics\CLI\bestiary\monstrosity/kraken-priest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
 

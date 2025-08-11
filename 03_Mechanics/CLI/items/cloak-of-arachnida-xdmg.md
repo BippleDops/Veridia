@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-cloak-of-arachnida-xdmg-cloak-of-arachnida-xdmg.svg)
+
 # Cloak of Arachnida
 *Wondrous item, very rare (requires attunement)*  
 

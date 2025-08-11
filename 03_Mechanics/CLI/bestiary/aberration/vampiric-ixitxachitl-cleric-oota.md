@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Vampiric Ixitxachitl Cleric
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-vampiric-ixitxachitl-cleric-oota-v1-vampiric-ixitxachitl-cleric-oota.svg)
+
 # [Vampiric Ixitxachitl Cleric](3-Mechanics\CLI\bestiary\aberration/vampiric-ixitxachitl-cleric-oota.md)
 *Source: Out of the Abyss p. 226*  
 

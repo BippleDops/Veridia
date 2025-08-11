@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Barghest
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-barghest-mpmm-barghest-mpmm.svg)
+
 # [Barghest](3-Mechanics\CLI\bestiary\fiend/barghest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  
 

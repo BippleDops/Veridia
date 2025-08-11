@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-silk-vestments-with-gold-embroidery-xdmg-silk-vestments-with-gold-embroidery-xdmg.svg)
+
 # Silk vestments with gold embroidery
 *Treasure (art object)*  
 

@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-rod-of-alertness-xdmg-rod-of-alertness-xdmg.svg)
+
 # Rod of Alertness
 *Rod, very rare (requires attunement)*  
 

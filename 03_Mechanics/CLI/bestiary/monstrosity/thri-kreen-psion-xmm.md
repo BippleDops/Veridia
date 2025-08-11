@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Thri-kreen Psion
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thri-kreen-psion-xmm-thri-kreen-psion-xmm.svg)
+
 # [Thri-kreen Psion](3-Mechanics\CLI\bestiary\monstrosity/thri-kreen-psion-xmm.md)
 *Source: Monster Manual (2024) p. 306*  
 

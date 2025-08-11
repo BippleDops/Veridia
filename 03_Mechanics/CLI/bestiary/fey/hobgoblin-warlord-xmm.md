@@ -20,6 +20,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hobgoblin Warlord
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-warlord-xmm-hobgoblin-warlord-xmm.svg)
+
 # [Hobgoblin Warlord](3-Mechanics\CLI\bestiary\fey/hobgoblin-warlord-xmm.md)
 *Source: Monster Manual (2024) p. 171*  
 

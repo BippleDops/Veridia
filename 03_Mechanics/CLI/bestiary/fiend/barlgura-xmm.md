@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Barlgura
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-barlgura-xmm-barlgura-xmm.svg)
+
 # [Barlgura](3-Mechanics\CLI\bestiary\fiend/barlgura-xmm.md)
 *Source: Monster Manual (2024) p. 31*  
 

@@ -22,6 +22,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:48.957604+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-harbor-district-customs-house-harbor-district-customs-house.svg)
+
+
 
 
 # Customs House

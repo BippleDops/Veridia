@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Beholder Zombie
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-beholder-zombie-xmm-beholder-zombie-xmm.svg)
+
 # [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie-xmm.md)
 *Source: Monster Manual (2024) p. 347*  
 

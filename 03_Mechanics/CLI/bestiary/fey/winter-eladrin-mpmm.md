@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Winter Eladrin
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-winter-eladrin-mpmm-v1-winter-eladrin-mpmm.svg)
+
 # [Winter Eladrin](3-Mechanics\CLI\bestiary\fey/winter-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 117, Mordenkainen's Tome of Foes p. 197*  
 

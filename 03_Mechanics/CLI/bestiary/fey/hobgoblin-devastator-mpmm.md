@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hobgoblin Devastator
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm.svg)
+
 # [Hobgoblin Devastator](3-Mechanics\CLI\bestiary\fey/hobgoblin-devastator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
 

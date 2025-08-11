@@ -29,6 +29,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-armor-level-8-xdmg-enspelled-armor-level-8-xdmg.svg)
+
 # Enspelled Armor (Level 8)
 *Legendary (requires attunement)*  
 

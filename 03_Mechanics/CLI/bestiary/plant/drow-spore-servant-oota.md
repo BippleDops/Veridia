@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Drow Spore Servant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-drow-spore-servant-oota-drow-spore-servant-oota.svg)
+
 # [Drow Spore Servant](3-Mechanics\CLI\bestiary\plant/drow-spore-servant-oota.md)
 *Source: Out of the Abyss p. 229*  
 

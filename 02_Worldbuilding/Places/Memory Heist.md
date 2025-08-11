@@ -28,6 +28,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-memory-heist-memory-heist.svg)
+
+
 
 
 

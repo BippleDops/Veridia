@@ -24,6 +24,10 @@ MyCategory: Transportation Hub
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-pressure-terminal-abyssos-prime-pressure-terminal.svg)
+
+
 
 
 

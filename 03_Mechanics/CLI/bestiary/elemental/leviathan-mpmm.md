@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Leviathan
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-leviathan-mpmm-leviathan-mpmm.svg)
+
 # [Leviathan](3-Mechanics\CLI\bestiary\elemental/leviathan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171, Mordenkainen's Tome of Foes p. 198*  
 

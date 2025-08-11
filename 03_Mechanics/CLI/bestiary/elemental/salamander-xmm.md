@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Salamander
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-xmm-salamander-xmm.svg)
+
 # [Salamander](3-Mechanics\CLI\bestiary\elemental/salamander-xmm.md)
 *Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

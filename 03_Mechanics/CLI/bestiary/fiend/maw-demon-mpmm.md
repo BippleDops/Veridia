@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Maw Demon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.svg)
+
 # [Maw Demon](3-Mechanics\CLI\bestiary\fiend/maw-demon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
 

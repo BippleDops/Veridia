@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Wraith
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-wraith-xmm-v1-wraith-xmm.svg)
+
 # [Wraith](3-Mechanics\CLI\bestiary\undead/wraith-xmm.md)
 *Source: Monster Manual (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

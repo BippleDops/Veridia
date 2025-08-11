@@ -53,6 +53,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-adamantine-weapon-xdmg-adamantine-weapon-xdmg.svg)
+
 # Adamantine Weapon
 *Uncommon*  
 

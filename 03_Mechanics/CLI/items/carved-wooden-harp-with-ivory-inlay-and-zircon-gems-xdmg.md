@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg-carved-wooden-harp-with-ivory-inlay-and-zircon-gems-xdmg.svg)
+
 # Carved wooden harp with ivory inlay and zircon gems
 *Treasure (art object)*  
 

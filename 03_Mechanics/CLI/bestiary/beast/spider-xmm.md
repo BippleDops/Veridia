@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Spider
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-spider-xmm-giant-spider-xmm.svg)
+
 # [Spider](3-Mechanics\CLI\bestiary\beast/spider-xmm.md)
 *Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

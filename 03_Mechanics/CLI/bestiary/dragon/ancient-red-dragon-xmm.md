@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ancient Red Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-red-dragon-xmm-ancient-red-dragon-xmm.svg)
+
 # [Ancient Red Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-red-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

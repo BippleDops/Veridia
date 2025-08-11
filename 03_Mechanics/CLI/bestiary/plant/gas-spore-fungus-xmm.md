@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gas Spore Fungus
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gas-spore-fungus-xmm-gas-spore-fungus-xmm.svg)
+
 # [Gas Spore Fungus](3-Mechanics\CLI\bestiary\plant/gas-spore-fungus-xmm.md)
 *Source: Monster Manual (2024) p. 125*  
 

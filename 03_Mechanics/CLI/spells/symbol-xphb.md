@@ -24,6 +24,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-holy-symbol-xphb-holy-symbol-xphb.svg)
+
 # Symbol
 *7th-level, Abjuration*  
 

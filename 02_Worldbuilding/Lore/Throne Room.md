@@ -20,6 +20,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:49.499685+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg)
+
+
 
 
 # Throne Room

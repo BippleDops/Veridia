@@ -22,6 +22,10 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-shadow-markets-new-the-shadow-markets-new.svg)
+
+
 
 
 # The Shadow Markets

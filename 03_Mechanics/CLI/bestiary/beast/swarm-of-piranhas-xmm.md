@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Swarm of Piranhas
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-piranhas-xmm-swarm-of-piranhas-xmm.svg)
+
 # [Swarm of Piranhas](3-Mechanics\CLI\bestiary\beast/swarm-of-piranhas-xmm.md)
 *Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

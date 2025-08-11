@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Aquatic Troll
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-aquatic-troll-rot-aquatic-troll-rot.svg)
+
 # [Aquatic Troll](3-Mechanics\CLI\bestiary\giant/aquatic-troll-rot.md)
 *Source: The Rise of Tiamat p. 36, Princes of the Apocalypse p. 88*  
 

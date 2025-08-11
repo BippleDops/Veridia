@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-3-shield-xdmg-3-shield-xdmg.svg)
+
 # +3 Shield
 *Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md)), very rare*  
 

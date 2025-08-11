@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Crawling Claw
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-crawling-claw-xmm-crawling-claw-xmm.svg)
+
 # [Crawling Claw](3-Mechanics\CLI\bestiary\undead/crawling-claw-xmm.md)
 *Source: Monster Manual (2024) p. 83*  
 

@@ -10,6 +10,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg)
+
 # Sanctuary
 *Level 5 Bastion facility*  
 

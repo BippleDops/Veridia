@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hill Giant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hill-giant-xmm-hill-giant-xmm.svg)
+
 # [Hill Giant](3-Mechanics\CLI\bestiary\giant/hill-giant-xmm.md)
 *Source: Monster Manual (2024) p. 168. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

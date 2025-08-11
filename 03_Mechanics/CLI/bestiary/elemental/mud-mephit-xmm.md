@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mud Mephit
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mud-mephit-xmm-mud-mephit-xmm.svg)
+
 # [Mud Mephit](3-Mechanics\CLI\bestiary\elemental/mud-mephit-xmm.md)
 *Source: Monster Manual (2024) p. 207*  
 

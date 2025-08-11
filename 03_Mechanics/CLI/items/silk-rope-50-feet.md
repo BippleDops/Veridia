@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-silk-rope-50-feet-silk-rope-50-feet.svg)
+
 # Silk Rope (50 feet)
 *Adventuring gear*  
 

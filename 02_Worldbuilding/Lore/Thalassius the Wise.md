@@ -19,6 +19,10 @@ created: '2025-08-11T13:08:49.173853+00:00'
 type: Lore
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-emperor-thalassius-the-wise-emperor-thalassius-the-wise.svg)
+
+
 
 
 

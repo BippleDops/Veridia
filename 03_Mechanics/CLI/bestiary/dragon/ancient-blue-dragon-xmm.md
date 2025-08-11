@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ancient Blue Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-blue-dragon-xmm-ancient-blue-dragon-xmm.svg)
+
 # [Ancient Blue Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -11,6 +11,10 @@ updated: '2025-08-11T13:08:50.668737+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-cloak-of-the-manta-ray-xdmg-cloak-of-the-manta-ray-xdmg.svg)
+
+
 
 ## Overview
 

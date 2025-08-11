@@ -7,6 +7,10 @@ aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-beast-beast.svg)
+
 # Index of Beast
 
 - [Allosaurus](./allosaurus-xmm.md)

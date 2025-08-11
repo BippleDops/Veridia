@@ -18,6 +18,10 @@ statblock-link: '#^statblock'
 aliases:
   - Zaratan
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-zaratan-mpmm-v1-zaratan-mpmm.svg)
+
 # [Zaratan](3-Mechanics\CLI\bestiary\elemental/zaratan-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 278, Mordenkainen's Tome of Foes p. 201*  
 

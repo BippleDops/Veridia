@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Autumn Eladrin
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-autumn-eladrin-mpmm-autumn-eladrin-mpmm.svg)
+
 # [Autumn Eladrin](3-Mechanics\CLI\bestiary\fey/autumn-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 115, Mordenkainen's Tome of Foes p. 195*  
 

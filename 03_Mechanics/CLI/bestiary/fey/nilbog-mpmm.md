@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Nilbog
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nilbog-mpmm-nilbog-mpmm.svg)
+
 # [Nilbog](3-Mechanics\CLI\bestiary\fey/nilbog-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 195, Volo's Guide to Monsters p. 182*  
 

@@ -35,6 +35,10 @@ influence_level: "Maximum within Aquabyssos"
 access_level: "Royal Court Only"
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg)
+
+
 
 # Queen Seraphina
 ## The Deep Crown's Steady Hand in Turbulent Times

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Stench Kow
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-stench-kow-mpmm-stench-kow-mpmm.svg)
+
 # [Stench Kow](3-Mechanics\CLI\bestiary\fiend/stench-kow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 

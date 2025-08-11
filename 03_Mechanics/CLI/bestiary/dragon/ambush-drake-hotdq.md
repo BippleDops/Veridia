@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ambush Drake
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ambush-drake-hotdq-ambush-drake-hotdq.svg)
+
 # [Ambush Drake](3-Mechanics\CLI\bestiary\dragon/ambush-drake-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 88*  
 

@@ -10,6 +10,10 @@ created: '2025-08-11T13:08:46.384402+00:00'
 updated: '2025-08-11T13:08:48.234123+00:00'
 ---
 
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-merfolk-skirmisher-xmm-merfolk-skirmisher-xmm.svg)
+
+
 
 ## Overview
 

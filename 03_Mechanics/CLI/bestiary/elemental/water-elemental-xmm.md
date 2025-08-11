@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Water Elemental
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-water-elemental-xmm-v1-water-elemental-xmm.svg)
+
 # [Water Elemental](3-Mechanics\CLI\bestiary\elemental/water-elemental-xmm.md)
 *Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

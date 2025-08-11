@@ -24,6 +24,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-allosaurus-xmm-allosaurus-xmm.svg)
+
 # Allosaurus
 *Source: Monster Manual p. 79, Tomb of Annihilation, Waterdeep: Dragon Heist, Journeys through the Radiant Citadel, Keys from the Golden Vault. Available in the Basic Rules.*  
 

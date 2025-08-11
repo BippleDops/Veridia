@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Violet Fungus Necrohulk
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-necrohulk-xmm-v1-violet-fungus-necrohulk-xmm.svg)
+
 # [Violet Fungus Necrohulk](3-Mechanics\CLI\bestiary\plant/violet-fungus-necrohulk-xmm.md)
 *Source: Monster Manual (2024) p. 126*  
 

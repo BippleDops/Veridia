@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Deathlock
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-deathlock-mpmm-deathlock-mpmm.svg)
+
 # [Deathlock](3-Mechanics\CLI\bestiary\undead/deathlock-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86, Mordenkainen's Tome of Foes p. 128*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Tlincalli
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-tlincalli-mpmm-tlincalli-mpmm.svg)
+
 # [Tlincalli](3-Mechanics\CLI\bestiary\monstrosity/tlincalli-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  
 

@@ -23,6 +23,10 @@ primary_location: Port Meridian and surrounding regions
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
+
+
 
 
 # Quest - The Truth Unveiled

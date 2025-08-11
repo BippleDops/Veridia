@@ -16,6 +16,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-xphb-giant-insect-xphb.svg)
+
 # Giant Insect
 *4th-level, Conjuration*  
 

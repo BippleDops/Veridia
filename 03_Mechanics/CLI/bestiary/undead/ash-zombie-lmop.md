@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ash Zombie
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ash-zombie-lmop-ash-zombie-lmop.svg)
+
 # [Ash Zombie](3-Mechanics\CLI\bestiary\undead/ash-zombie-lmop.md)
 *Source: Lost Mine of Phandelver p. 31*  
 

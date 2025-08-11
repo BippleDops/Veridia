@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bone Naga
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bone-naga-xmm-bone-naga-xmm.svg)
+
 # [Bone Naga](3-Mechanics\CLI\bestiary\undead/bone-naga-xmm.md)
 *Source: Monster Manual (2024) p. 53*  
 

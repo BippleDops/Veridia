@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Nalfeshnee
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nalfeshnee-xmm-nalfeshnee-xmm.svg)
+
 # [Nalfeshnee](3-Mechanics\CLI\bestiary\fiend/nalfeshnee-xmm.md)
 *Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

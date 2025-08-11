@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Celestial Spirit (Defender)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-celestial-spirit-defender-xphb-celestial-spirit-defender-xphb.svg)
+
 # [Celestial Spirit (Defender)](3-Mechanics\CLI\bestiary\celestial/celestial-spirit-defender-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 

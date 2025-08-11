@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Red Slaad
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-red-slaad-xmm-red-slaad-xmm.svg)
+
 # [Red Slaad](3-Mechanics\CLI\bestiary\aberration/red-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  
 

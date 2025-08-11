@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Baboon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-baboon-xmm-baboon-xmm.svg)
+
 # [Baboon](3-Mechanics\CLI\bestiary\beast/baboon-xmm.md)
 *Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ghast
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ghast-xmm-ghast-xmm.svg)
+
 # [Ghast](3-Mechanics\CLI\bestiary\undead/ghast-xmm.md)
 *Source: Monster Manual (2024) p. 130. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

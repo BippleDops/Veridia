@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Swarm of Lemures
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-lemures-xmm-swarm-of-lemures-xmm.svg)
+
 # [Swarm of Lemures](3-Mechanics\CLI\bestiary\fiend/swarm-of-lemures-xmm.md)
 *Source: Monster Manual (2024) p. 194*  
 

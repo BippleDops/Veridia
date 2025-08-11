@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mezzoloth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mezzoloth-xmm-mezzoloth-xmm.svg)
+
 # [Mezzoloth](3-Mechanics\CLI\bestiary\fiend/mezzoloth-xmm.md)
 *Source: Monster Manual (2024) p. 211*  
 

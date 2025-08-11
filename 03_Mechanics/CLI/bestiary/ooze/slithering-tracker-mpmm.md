@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Slithering Tracker
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-slithering-tracker-mpmm-slithering-tracker-mpmm.svg)
+
 # [Slithering Tracker](3-Mechanics\CLI\bestiary\ooze/slithering-tracker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  
 

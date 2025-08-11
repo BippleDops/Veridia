@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Canoloth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-canoloth-mpmm-canoloth-mpmm.svg)
+
 # [Canoloth](3-Mechanics\CLI\bestiary\fiend/canoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 69, Mordenkainen's Tome of Foes p. 247*  
 

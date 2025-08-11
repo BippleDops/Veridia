@@ -30,6 +30,10 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-master-smith-vulcan-deepforge-master-smith-vulcan-deepforge.svg)
+
+
 
 
 

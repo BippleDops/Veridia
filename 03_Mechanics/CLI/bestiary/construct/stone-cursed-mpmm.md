@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Stone Cursed
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-stone-cursed-mpmm-stone-cursed-mpmm.svg)
+
 # [Stone Cursed](3-Mechanics\CLI\bestiary\construct/stone-cursed-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233, Mordenkainen's Tome of Foes p. 240*  
 

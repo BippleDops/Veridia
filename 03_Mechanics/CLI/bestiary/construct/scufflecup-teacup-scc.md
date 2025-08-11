@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Scufflecup Teacup
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-scufflecup-teacup-scc-scufflecup-teacup-scc.svg)
+
 # [Scufflecup Teacup](3-Mechanics\CLI\bestiary\construct/scufflecup-teacup-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 159*  
 

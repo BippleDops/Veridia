@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Adult Copper Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-copper-dragon-xmm-adult-copper-dragon-xmm.svg)
+
 # [Adult Copper Dragon](3-Mechanics\CLI\bestiary\dragon/adult-copper-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 79. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

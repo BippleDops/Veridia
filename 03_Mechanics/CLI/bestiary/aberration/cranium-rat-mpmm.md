@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Cranium Rat
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-cranium-rat-mpmm-cranium-rat-mpmm.svg)
+
 # [Cranium Rat](3-Mechanics\CLI\bestiary\aberration/cranium-rat-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 

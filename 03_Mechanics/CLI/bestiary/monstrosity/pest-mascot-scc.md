@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Pest Mascot
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-pest-mascot-scc-pest-mascot-scc.svg)
+
 # [Pest Mascot](3-Mechanics\CLI\bestiary\monstrosity/pest-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 203*  
 

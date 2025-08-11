@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Four-Armed Statue
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-four-armed-statue-oota-four-armed-statue-oota.svg)
+
 # [Four-Armed Statue](3-Mechanics\CLI\bestiary\construct/four-armed-statue-oota.md)
 *Source: Out of the Abyss p. 206*  
 

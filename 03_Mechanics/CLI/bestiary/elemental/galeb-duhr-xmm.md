@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Galeb Duhr
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-galeb-duhr-xmm-galeb-duhr-xmm.svg)
+
 # [Galeb Duhr](3-Mechanics\CLI\bestiary\elemental/galeb-duhr-xmm.md)
 *Source: Monster Manual (2024) p. 127*  
 

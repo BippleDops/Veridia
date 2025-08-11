@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Shadow Demon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-shadow-demon-xmm-shadow-demon-xmm.svg)
+
 # [Shadow Demon](3-Mechanics\CLI\bestiary\fiend/shadow-demon-xmm.md)
 *Source: Monster Manual (2024) p. 273*  
 

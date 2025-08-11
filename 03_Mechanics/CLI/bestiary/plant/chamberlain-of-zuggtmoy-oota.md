@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Chamberlain of Zuggtmoy
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-chamberlain-of-zuggtmoy-oota-chamberlain-of-zuggtmoy-oota.svg)
+
 # [Chamberlain of Zuggtmoy](3-Mechanics\CLI\bestiary\plant/chamberlain-of-zuggtmoy-oota.md)
 *Source: Out of the Abyss p. 230*  
 

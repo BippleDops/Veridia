@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-jade-game-board-with-gold-playing-pieces-xdmg-jade-game-board-with-gold-playing-pieces-xdmg.svg)
+
 # Jade game board with gold playing pieces
 *Treasure (art object)*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Amarith Coppervein
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-amarith-coppervein-oota-amarith-coppervein-oota.svg)
+
 # [Amarith Coppervein](3-Mechanics\CLI\bestiary\npc/amarith-coppervein-oota.md)
 *Source: Out of the Abyss p. 142*  
 

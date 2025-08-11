@@ -10,6 +10,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)
+
 # Sanctum
 *Level 17 Bastion facility*  
 

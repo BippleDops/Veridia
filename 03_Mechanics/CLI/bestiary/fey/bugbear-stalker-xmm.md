@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bugbear Stalker
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bugbear-stalker-xmm-bugbear-stalker-xmm.svg)
+
 # [Bugbear Stalker](3-Mechanics\CLI\bestiary\fey/bugbear-stalker-xmm.md)
 *Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

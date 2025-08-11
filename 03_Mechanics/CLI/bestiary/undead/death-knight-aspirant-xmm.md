@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Death Knight Aspirant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-death-knight-aspirant-xmm-death-knight-aspirant-xmm.svg)
+
 # [Death Knight Aspirant](3-Mechanics\CLI\bestiary\undead/death-knight-aspirant-xmm.md)
 *Source: Monster Manual (2024) p. 93*  
 

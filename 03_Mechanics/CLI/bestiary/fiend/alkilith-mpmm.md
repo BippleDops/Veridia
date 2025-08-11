@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Alkilith
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-alkilith-mpmm-alkilith-mpmm.svg)
+
 # [Alkilith](3-Mechanics\CLI\bestiary\fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Froghemoth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-froghemoth-mpmm-froghemoth-mpmm.svg)
+
 # [Froghemoth](3-Mechanics\CLI\bestiary\monstrosity/froghemoth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*  
 

@@ -31,6 +31,10 @@ related_entities:
 - '[[02_Worldbuilding/People/Memory Trader Kellian]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-memory-farmers-memory-farmers.svg)
+
+
 
 
 

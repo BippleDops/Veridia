@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Armanite
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-armanite-mpmm-armanite-mpmm.svg)
+
 # [Armanite](3-Mechanics\CLI\bestiary\fiend/armanite-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 50, Mordenkainen's Tome of Foes p. 131*  
 

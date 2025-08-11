@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Young Blue Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-blue-dragon-xmm-young-blue-dragon-xmm.svg)
+
 # [Young Blue Dragon](3-Mechanics\CLI\bestiary\dragon/young-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

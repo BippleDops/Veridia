@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sphinx of Secrets
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-of-secrets-xmm-sphinx-of-secrets-xmm.svg)
+
 # [Sphinx of Secrets](3-Mechanics\CLI\bestiary\celestial/sphinx-of-secrets-xmm.md)
 *Source: Monster Manual (2024) p. 292*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Lich
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
+
 # [Lich](3-Mechanics\CLI\bestiary\undead/lich-xmm.md)
 *Source: Monster Manual (2024) p. 196. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

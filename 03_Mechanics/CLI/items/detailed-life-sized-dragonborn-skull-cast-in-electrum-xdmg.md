@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg-detailed-life-sized-dragonborn-skull-cast-in-electrum-xdmg.svg)
+
 # Detailed, life-sized dragonborn skull cast in electrum
 *Treasure (art object)*  
 

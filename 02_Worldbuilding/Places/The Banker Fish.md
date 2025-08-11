@@ -20,6 +20,10 @@ updated: '2025-08-11T13:08:50.718204+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-banker-fish-the-banker-fish.svg)
+
+
 
 
 # The Aquatic Bank - Underwater Financial Institution

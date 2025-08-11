@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Shark
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-shark-xmm-giant-shark-xmm.svg)
+
 # [Giant Shark](3-Mechanics\CLI\bestiary\beast/giant-shark-xmm.md)
 *Source: Monster Manual (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Myconid Sovereign
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-myconid-sovereign-xmm-myconid-sovereign-xmm.svg)
+
 # [Myconid Sovereign](3-Mechanics\CLI\bestiary\plant/myconid-sovereign-xmm.md)
 *Source: Monster Manual (2024) p. 223*  
 

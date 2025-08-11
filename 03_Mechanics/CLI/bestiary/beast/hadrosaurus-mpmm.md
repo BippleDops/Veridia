@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hadrosaurus
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hadrosaurus-mpmm-hadrosaurus-mpmm.svg)
+
 # [Hadrosaurus](3-Mechanics\CLI\bestiary\beast/hadrosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 

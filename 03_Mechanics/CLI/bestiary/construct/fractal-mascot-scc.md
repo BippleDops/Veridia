@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Fractal Mascot
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-fractal-mascot-scc-fractal-mascot-scc.svg)
+
 # [Fractal Mascot](3-Mechanics\CLI\bestiary\construct/fractal-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 192*  
 

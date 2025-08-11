@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ancient Bronze Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-bronze-dragon-xmm-ancient-bronze-dragon-xmm.svg)
+
 # [Ancient Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 60. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

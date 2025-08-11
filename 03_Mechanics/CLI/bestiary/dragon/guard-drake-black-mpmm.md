@@ -19,6 +19,10 @@ statblock-link: '#^statblock'
 aliases:
   - Guard Drake (Black)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-guard-drake-black-mpmm-guard-drake-black-mpmm.svg)
+
 # [Guard Drake (Black)](3-Mechanics\CLI\bestiary\dragon/guard-drake-black-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 

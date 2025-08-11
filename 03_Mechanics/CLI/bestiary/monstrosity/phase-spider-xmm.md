@@ -20,6 +20,10 @@ statblock-link: '#^statblock'
 aliases:
   - Phase Spider
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-phase-spider-xmm-phase-spider-xmm.svg)
+
 # [Phase Spider](3-Mechanics\CLI\bestiary\monstrosity/phase-spider-xmm.md)
 *Source: Monster Manual (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

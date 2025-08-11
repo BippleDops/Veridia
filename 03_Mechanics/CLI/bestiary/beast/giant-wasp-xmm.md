@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Wasp
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-wasp-xmm-giant-wasp-xmm.svg)
+
 # [Giant Wasp](3-Mechanics\CLI\bestiary\beast/giant-wasp-xmm.md)
 *Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

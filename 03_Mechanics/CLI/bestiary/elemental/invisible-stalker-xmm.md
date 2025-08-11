@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Invisible Stalker
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-invisible-stalker-xmm-invisible-stalker-xmm.svg)
+
 # [Invisible Stalker](3-Mechanics\CLI\bestiary\elemental/invisible-stalker-xmm.md)
 *Source: Monster Manual (2024) p. 180. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

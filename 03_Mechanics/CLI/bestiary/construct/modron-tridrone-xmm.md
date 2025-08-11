@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Modron Tridrone
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-modron-tridrone-xmm-modron-tridrone-xmm.svg)
+
 # [Modron Tridrone](3-Mechanics\CLI\bestiary\construct/modron-tridrone-xmm.md)
 *Source: Monster Manual (2024) p. 217*  
 

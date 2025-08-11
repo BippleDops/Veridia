@@ -12,6 +12,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-rope-of-mending-xdmg-rope-of-mending-xdmg.svg)
+
 # Rope of Mending
 *Wondrous item, common*  
 

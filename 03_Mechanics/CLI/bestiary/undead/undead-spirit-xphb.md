@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Undead Spirit
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-xphb-undead-spirit-xphb.svg)
+
 # [Undead Spirit](3-Mechanics\CLI\bestiary\undead/undead-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  
 

@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Flaming Skeleton
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-flaming-skeleton-xmm-flaming-skeleton-xmm.svg)
+
 # [Flaming Skeleton](3-Mechanics\CLI\bestiary\undead/flaming-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 283*  
 

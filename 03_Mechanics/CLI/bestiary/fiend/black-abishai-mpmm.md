@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Black Abishai
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-black-abishai-mpmm-black-abishai-mpmm.svg)
+
 # [Black Abishai](3-Mechanics\CLI\bestiary\fiend/black-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
 

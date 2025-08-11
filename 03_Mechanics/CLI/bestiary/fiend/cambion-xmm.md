@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Cambion
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-cambion-xmm-cambion-xmm.svg)
+
 # [Cambion](3-Mechanics\CLI\bestiary\fiend/cambion-xmm.md)
 *Source: Monster Manual (2024) p. 65*  
 

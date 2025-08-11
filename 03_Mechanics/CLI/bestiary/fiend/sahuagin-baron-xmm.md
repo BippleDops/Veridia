@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sahuagin Baron
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sahuagin-baron-xmm-sahuagin-baron-xmm.svg)
+
 # [Sahuagin Baron](3-Mechanics\CLI\bestiary\fiend/sahuagin-baron-xmm.md)
 *Source: Monster Manual (2024) p. 265*  
 

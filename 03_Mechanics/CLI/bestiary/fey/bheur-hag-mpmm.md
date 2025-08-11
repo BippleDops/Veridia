@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bheur Hag
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bheur-hag-mpmm-bheur-hag-mpmm.svg)
+
 # [Bheur Hag](3-Mechanics\CLI\bestiary\fey/bheur-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
 

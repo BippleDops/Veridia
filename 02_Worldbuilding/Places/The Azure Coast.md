@@ -29,6 +29,10 @@ related_entities:
 - '[[02_Worldbuilding/Groups/The Crimson Fleet]]'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-azure-coast-the-azure-coast.svg)
+
+
 
 
 

@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Elder Tempest
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-elder-tempest-mpmm-elder-tempest-mpmm.svg)
+
 # [Elder Tempest](3-Mechanics\CLI\bestiary\elemental/elder-tempest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121, Mordenkainen's Tome of Foes p. 200*  
 

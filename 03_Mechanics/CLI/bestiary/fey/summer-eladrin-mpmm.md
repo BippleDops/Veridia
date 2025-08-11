@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Summer Eladrin
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-summer-eladrin-mpmm-summer-eladrin-mpmm.svg)
+
 # [Summer Eladrin](3-Mechanics\CLI\bestiary\fey/summer-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 

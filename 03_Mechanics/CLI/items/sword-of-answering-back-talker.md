@@ -16,6 +16,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-sword-of-answering-back-talker-sword-of-answering-back-talker.svg)
+
 # Sword of Answering (Back Talker)
 *Weapon ([longsword](/03_Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement by a chaotic evil creature)*  
 

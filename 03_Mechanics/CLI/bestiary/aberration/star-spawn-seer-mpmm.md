@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Star Spawn Seer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-star-spawn-seer-mpmm-star-spawn-seer-mpmm.svg)
+
 # [Star Spawn Seer](3-Mechanics\CLI\bestiary\aberration/star-spawn-seer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230, Mordenkainen's Tome of Foes p. 236*  
 

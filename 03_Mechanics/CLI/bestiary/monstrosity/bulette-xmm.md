@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bulette
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bulette-xmm-bulette-xmm.svg)
+
 # [Bulette](3-Mechanics\CLI\bestiary\monstrosity/bulette-xmm.md)
 *Source: Monster Manual (2024) p. 63. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

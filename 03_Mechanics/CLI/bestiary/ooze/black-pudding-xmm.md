@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Black Pudding
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-black-pudding-xmm-black-pudding-xmm.svg)
+
 # [Black Pudding](3-Mechanics\CLI\bestiary\ooze/black-pudding-xmm.md)
 *Source: Monster Manual (2024) p. 42. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

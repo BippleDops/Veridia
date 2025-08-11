@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Elemental Spirit (Water)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-elemental-spirit-water-xphb-elemental-spirit-water-xphb.svg)
+
 # [Elemental Spirit (Water)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-water-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
 

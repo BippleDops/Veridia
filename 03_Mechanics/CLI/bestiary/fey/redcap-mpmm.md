@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Redcap
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-redcap-mpmm-redcap-mpmm.svg)
+
 # [Redcap](3-Mechanics\CLI\bestiary\fey/redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
 

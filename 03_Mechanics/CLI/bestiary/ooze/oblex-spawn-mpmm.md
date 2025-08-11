@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Oblex Spawn
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-oblex-spawn-mpmm-oblex-spawn-mpmm.svg)
+
 # [Oblex Spawn](3-Mechanics\CLI\bestiary\ooze/oblex-spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 197, Mordenkainen's Tome of Foes p. 217*  
 

@@ -11,6 +11,10 @@ updated: '2025-08-11T13:08:50.565148+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dolphin-mpmm-dolphin-mpmm.svg)
+
+
 
 ## Overview
 

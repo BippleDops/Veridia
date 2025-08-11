@@ -24,6 +24,10 @@ MyCategory: Memory Gallery
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-amnesia-gallery-amnesia-gallery.svg)
+
+
 
 
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Lizardfolk Sovereign
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-lizardfolk-sovereign-xmm-lizardfolk-sovereign-xmm.svg)
+
 # [Lizardfolk Sovereign](3-Mechanics\CLI\bestiary\elemental/lizardfolk-sovereign-xmm.md)
 *Source: Monster Manual (2024) p. 197*  
 

@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ogre Chain Brute
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ogre-chain-brute-mpmm-ogre-chain-brute-mpmm.svg)
+
 # [Ogre Chain Brute](3-Mechanics\CLI\bestiary\giant/ogre-chain-brute-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 

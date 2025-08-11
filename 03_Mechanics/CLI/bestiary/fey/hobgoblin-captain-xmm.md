@@ -20,6 +20,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hobgoblin Captain
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-captain-xmm-hobgoblin-captain-xmm.svg)
+
 # [Hobgoblin Captain](3-Mechanics\CLI\bestiary\fey/hobgoblin-captain-xmm.md)
 *Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

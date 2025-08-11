@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mind Flayer Arcanist
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-arcanist-xmm-mind-flayer-arcanist-xmm.svg)
+
 # [Mind Flayer Arcanist](3-Mechanics\CLI\bestiary\aberration/mind-flayer-arcanist-xmm.md)
 *Source: Monster Manual (2024) p. 214*  
 

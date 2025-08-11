@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Merfolk Wavebender
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-merfolk-wavebender-xmm-merfolk-wavebender-xmm.svg)
+
 # [Merfolk Wavebender](3-Mechanics\CLI\bestiary\elemental/merfolk-wavebender-xmm.md)
 *Source: Monster Manual (2024) p. 209*  
 

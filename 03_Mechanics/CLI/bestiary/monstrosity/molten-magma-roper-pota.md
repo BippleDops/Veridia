@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Molten Magma Roper
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-molten-magma-roper-pota-molten-magma-roper-pota.svg)
+
 # [Molten Magma Roper](3-Mechanics\CLI\bestiary\monstrosity/molten-magma-roper-pota.md)
 *Source: Princes of the Apocalypse p. 143*  
 

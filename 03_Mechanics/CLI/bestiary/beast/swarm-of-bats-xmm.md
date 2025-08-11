@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Swarm of Bats
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-bats-xmm-swarm-of-bats-xmm.svg)
+
 # [Swarm of Bats](3-Mechanics\CLI\bestiary\beast/swarm-of-bats-xmm.md)
 *Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

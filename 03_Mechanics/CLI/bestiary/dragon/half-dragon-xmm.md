@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Half-Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-half-dragon-xmm-half-dragon-xmm.svg)
+
 # [Half-Dragon](3-Mechanics\CLI\bestiary\dragon/half-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

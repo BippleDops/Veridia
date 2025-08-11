@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Helmed Horror
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-helmed-horror-xmm-helmed-horror-xmm.svg)
+
 # [Helmed Horror](3-Mechanics\CLI\bestiary\construct/helmed-horror-xmm.md)
 *Source: Monster Manual (2024) p. 166*  
 

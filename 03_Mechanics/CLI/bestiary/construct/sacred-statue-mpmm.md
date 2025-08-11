@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sacred Statue
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sacred-statue-mpmm-sacred-statue-mpmm.svg)
+
 # [Sacred Statue](3-Mechanics\CLI\bestiary\construct/sacred-statue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Pony
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-pony-xmm-pony-xmm.svg)
+
 # [Pony](3-Mechanics\CLI\bestiary\beast/pony-xmm.md)
 *Source: Monster Manual (2024) p. 367, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

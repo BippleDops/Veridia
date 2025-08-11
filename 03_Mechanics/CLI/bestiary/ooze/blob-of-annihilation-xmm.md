@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Blob of Annihilation
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-blob-of-annihilation-xmm-blob-of-annihilation-xmm.svg)
+
 # [Blob of Annihilation](3-Mechanics\CLI\bestiary\ooze/blob-of-annihilation-xmm.md)
 *Source: Monster Manual (2024) p. 47*  
 

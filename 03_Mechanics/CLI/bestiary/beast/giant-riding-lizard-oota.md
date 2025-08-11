@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Riding Lizard
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-riding-lizard-oota-giant-riding-lizard-oota.svg)
+
 # [Giant Riding Lizard](3-Mechanics\CLI\bestiary\beast/giant-riding-lizard-oota.md)
 *Source: Out of the Abyss p. 131*  
 

@@ -28,6 +28,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:50.462062+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-tidepool-markets-the-tidepool-markets.svg)
+
+
 
 
 # The Tidepool Markets

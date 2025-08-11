@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-wand-of-viscid-globs-oota-v1-wand-of-viscid-globs-oota.svg)
+
 # Wand of Viscid Globs
 *Wand, rare (requires attunement)*  
 

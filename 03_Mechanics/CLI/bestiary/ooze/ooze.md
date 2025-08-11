@@ -7,6 +7,10 @@ aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gray-ooze-xmm-gray-ooze-xmm.svg)
+
 # Index of Ooze
 
 - [Adult Oblex](./adult-oblex-mpmm.md)

@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-elixir-of-health-xdmg-elixir-of-health-xdmg.svg)
+
 # Elixir of Health
 *Potion, rare*  
 

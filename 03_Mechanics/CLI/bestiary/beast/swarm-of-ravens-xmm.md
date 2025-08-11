@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Swarm of Ravens
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-ravens-xmm-swarm-of-ravens-xmm.svg)
+
 # [Swarm of Ravens](3-Mechanics\CLI\bestiary\beast/swarm-of-ravens-xmm.md)
 *Source: Monster Manual (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

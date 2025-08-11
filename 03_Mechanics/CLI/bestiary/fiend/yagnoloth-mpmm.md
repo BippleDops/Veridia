@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Yagnoloth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-yagnoloth-mpmm-v1-yagnoloth-mpmm.svg)
+
 # [Yagnoloth](3-Mechanics\CLI\bestiary\fiend/yagnoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
 

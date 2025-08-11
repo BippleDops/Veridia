@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Derro Savant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-derro-savant-mpmm-derro-savant-mpmm.svg)
+
 # [Derro Savant](3-Mechanics\CLI\bestiary\aberration/derro-savant-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92, Mordenkainen's Tome of Foes p. 159*  
 

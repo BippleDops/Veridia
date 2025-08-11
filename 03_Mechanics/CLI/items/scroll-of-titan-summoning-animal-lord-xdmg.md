@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-scroll-of-titan-summoning-animal-lord-xdmg-scroll-of-titan-summoning-animal-lord-xdmg.svg)
+
 # Scroll of Titan Summoning (Animal Lord)
 *Scroll, legendary*  
 

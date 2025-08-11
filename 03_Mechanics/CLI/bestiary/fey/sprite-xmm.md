@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sprite
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sprite-xmm-sprite-xmm.svg)
+
 # [Sprite](3-Mechanics\CLI\bestiary\fey/sprite-xmm.md)
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

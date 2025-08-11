@@ -29,6 +29,10 @@ MyCategory: Criminal Operative
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-memory-thief-the-memory-thief.svg)
+
+
 
 
 # The Memory Thief

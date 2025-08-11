@@ -18,6 +18,10 @@ statblock-link: '#^statblock'
 aliases:
   - Cyclops Oracle
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-cyclops-oracle-xmm-cyclops-oracle-xmm.svg)
+
 # [Cyclops Oracle](3-Mechanics\CLI\bestiary\giant/cyclops-oracle-xmm.md)
 *Source: Monster Manual (2024) p. 88*  
 

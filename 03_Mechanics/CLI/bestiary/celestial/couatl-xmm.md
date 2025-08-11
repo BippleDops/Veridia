@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Couatl
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-couatl-xmm-couatl-xmm.svg)
+
 # [Couatl](3-Mechanics\CLI\bestiary\celestial/couatl-xmm.md)
 *Source: Monster Manual (2024) p. 82. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

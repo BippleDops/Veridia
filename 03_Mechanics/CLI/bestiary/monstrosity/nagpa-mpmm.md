@@ -18,6 +18,10 @@ statblock-link: '#^statblock'
 aliases:
   - Nagpa
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nagpa-mpmm-nagpa-mpmm.svg)
+
 # [Nagpa](3-Mechanics\CLI\bestiary\monstrosity/nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
 

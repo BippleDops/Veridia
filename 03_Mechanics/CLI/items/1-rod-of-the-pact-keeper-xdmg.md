@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-1-rod-of-the-pact-keeper-xdmg-1-rod-of-the-pact-keeper-xdmg.svg)
+
 # +1 Rod of the Pact Keeper
 *Rod, uncommon (requires attunement by a warlock)*  
 

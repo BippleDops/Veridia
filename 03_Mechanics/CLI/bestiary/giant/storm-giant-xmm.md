@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Storm Giant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-xmm-storm-giant-xmm.svg)
+
 # [Storm Giant](3-Mechanics\CLI\bestiary\giant/storm-giant-xmm.md)
 *Source: Monster Manual (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

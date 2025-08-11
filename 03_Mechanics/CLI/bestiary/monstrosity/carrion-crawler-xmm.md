@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Carrion Crawler
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-carrion-crawler-xmm-carrion-crawler-xmm.svg)
+
 # [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler-xmm.md)
 *Source: Monster Manual (2024) p. 66. Available in the Free Rules (2024)*  
 

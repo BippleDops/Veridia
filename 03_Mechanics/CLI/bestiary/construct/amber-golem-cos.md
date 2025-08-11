@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Amber Golem
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-amber-golem-cos-amber-golem-cos.svg)
+
 # [Amber Golem](3-Mechanics\CLI\bestiary\construct/amber-golem-cos.md)
 *Source: Curse of Strahd p. 186*  
 

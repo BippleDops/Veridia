@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Wereboar
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-wereboar-xmm-v1-wereboar-xmm.svg)
+
 # [Wereboar](3-Mechanics\CLI\bestiary\monstrosity/wereboar-xmm.md)
 *Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Neothelid
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-neothelid-mpmm-neothelid-mpmm.svg)
+
 # [Neothelid](3-Mechanics\CLI\bestiary\aberration/neothelid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181*  
 

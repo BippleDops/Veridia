@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Dire Wolf
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-wolf-xmm-dire-wolf-xmm.svg)
+
 # [Dire Wolf](3-Mechanics\CLI\bestiary\beast/dire-wolf-xmm.md)
 *Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

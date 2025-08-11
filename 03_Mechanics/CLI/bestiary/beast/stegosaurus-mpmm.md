@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Stegosaurus
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-stegosaurus-mpmm-stegosaurus-mpmm.svg)
+
 # [Stegosaurus](3-Mechanics\CLI\bestiary\beast/stegosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Wererat
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-wererat-xmm-v1-wererat-xmm.svg)
+
 # [Wererat](3-Mechanics\CLI\bestiary\monstrosity/wererat-xmm.md)
 *Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

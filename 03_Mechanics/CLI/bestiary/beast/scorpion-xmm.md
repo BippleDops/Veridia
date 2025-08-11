@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Scorpion
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-scorpion-xmm-giant-scorpion-xmm.svg)
+
 # [Scorpion](3-Mechanics\CLI\bestiary\beast/scorpion-xmm.md)
 *Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

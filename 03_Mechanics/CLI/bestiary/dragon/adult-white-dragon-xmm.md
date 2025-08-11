@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Adult White Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-white-dragon-xmm-adult-white-dragon-xmm.svg)
+
 # [Adult White Dragon](3-Mechanics\CLI\bestiary\dragon/adult-white-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

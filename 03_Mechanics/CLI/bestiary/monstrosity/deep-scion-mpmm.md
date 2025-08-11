@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Deep Scion
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-deep-scion-mpmm-deep-scion-mpmm.svg)
+
 # [Deep Scion](3-Mechanics\CLI\bestiary\monstrosity/deep-scion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
 

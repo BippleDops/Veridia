@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Salamander Fire Snake
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-fire-snake-xmm-salamander-fire-snake-xmm.svg)
+
 # [Salamander Fire Snake](3-Mechanics\CLI\bestiary\elemental/salamander-fire-snake-xmm.md)
 *Source: Monster Manual (2024) p. 266*  
 

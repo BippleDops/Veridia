@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hook Horror Spore Servant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hook-horror-spore-servant-oota-hook-horror-spore-servant-oota.svg)
+
 # [Hook Horror Spore Servant](3-Mechanics\CLI\bestiary\plant/hook-horror-spore-servant-oota.md)
 *Source: Out of the Abyss p. 68*  
 

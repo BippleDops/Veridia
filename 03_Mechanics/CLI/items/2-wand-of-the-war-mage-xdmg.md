@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-2-wand-of-the-war-mage-xdmg-2-wand-of-the-war-mage-xdmg.svg)
+
 # +2 Wand of the War Mage
 *Wand, rare (requires attunement by a spellcaster)*  
 

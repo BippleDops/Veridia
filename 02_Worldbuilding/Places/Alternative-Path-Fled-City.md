@@ -24,6 +24,10 @@ MyCategory: Alternative Settlement
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-alternative-path-fled-city-alternative-path-fled-city.svg)
+
+
 
 # Alternative-Path-Fled-City
 *Where the Dispossessed Find New Purpose Above the Clouds*

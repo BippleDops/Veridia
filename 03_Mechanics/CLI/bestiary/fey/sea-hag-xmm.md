@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sea Hag
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sea-hag-xmm-sea-hag-xmm.svg)
+
 # [Sea Hag](3-Mechanics\CLI\bestiary\fey/sea-hag-xmm.md)
 *Source: Monster Manual (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

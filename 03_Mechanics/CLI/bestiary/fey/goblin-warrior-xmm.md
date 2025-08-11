@@ -19,6 +19,10 @@ statblock-link: '#^statblock'
 aliases:
   - Goblin Warrior
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-warrior-xmm-goblin-warrior-xmm.svg)
+
 # [Goblin Warrior](3-Mechanics\CLI\bestiary\fey/goblin-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

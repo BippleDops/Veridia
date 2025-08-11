@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gnoll Demoniac
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gnoll-demoniac-xmm-gnoll-demoniac-xmm.svg)
+
 # [Gnoll Demoniac](3-Mechanics\CLI\bestiary\fiend/gnoll-demoniac-xmm.md)
 *Source: Monster Manual (2024) p. 141*  
 

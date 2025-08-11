@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg-eye-patch-decorated-with-tiny-blue-sapphires-and-moonstones-xdmg.svg)
+
 # Eye patch decorated with tiny blue sapphires and moonstones
 *Treasure (art object)*  
 

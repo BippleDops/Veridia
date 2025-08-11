@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mage Hunter
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mage-hunter-scc-mage-hunter-scc.svg)
+
 # [Mage Hunter](3-Mechanics\CLI\bestiary\monstrosity/mage-hunter-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 199*  
 

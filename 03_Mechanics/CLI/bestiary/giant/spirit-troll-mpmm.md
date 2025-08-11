@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Spirit Troll
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-spirit-troll-mpmm-spirit-troll-mpmm.svg)
+
 # [Spirit Troll](3-Mechanics\CLI\bestiary\giant/spirit-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 

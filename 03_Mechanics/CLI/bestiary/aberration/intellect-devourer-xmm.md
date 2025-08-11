@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Intellect Devourer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-intellect-devourer-xmm-intellect-devourer-xmm.svg)
+
 # [Intellect Devourer](3-Mechanics\CLI\bestiary\aberration/intellect-devourer-xmm.md)
 *Source: Monster Manual (2024) p. 179*  
 

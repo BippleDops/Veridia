@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Darkling Elder
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-darkling-elder-mpmm-darkling-elder-mpmm.svg)
+
 # [Darkling Elder](3-Mechanics\CLI\bestiary\fey/darkling-elder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 

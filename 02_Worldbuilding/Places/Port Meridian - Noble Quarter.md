@@ -24,6 +24,10 @@ updated: '2025-08-11T13:08:50.376121+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-port-meridian-noble-quarter-port-meridian-noble-quarter.svg)
+
+
 
 
 # Port Meridian - Noble Quarter

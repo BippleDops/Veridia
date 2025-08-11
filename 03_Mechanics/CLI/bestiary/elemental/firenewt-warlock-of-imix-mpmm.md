@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Firenewt Warlock of Imix
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-firenewt-warlock-of-imix-mpmm-firenewt-warlock-of-imix-mpmm.svg)
+
 # [Firenewt Warlock of Imix](3-Mechanics\CLI\bestiary\elemental/firenewt-warlock-of-imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 

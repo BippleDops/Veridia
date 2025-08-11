@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Adult Oblex
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-oblex-mpmm-adult-oblex-mpmm.svg)
+
 # [Adult Oblex](3-Mechanics\CLI\bestiary\ooze/adult-oblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 198, Mordenkainen's Tome of Foes p. 218*  
 

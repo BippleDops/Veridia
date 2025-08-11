@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Avatar of Death
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-avatar-of-death-dmg-avatar-of-death-dmg.svg)
+
 # [Avatar of Death](3-Mechanics\CLI\bestiary\undead/avatar-of-death-dmg.md)
 *Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 

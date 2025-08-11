@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Salamander Inferno Master
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-salamander-inferno-master-xmm-salamander-inferno-master-xmm.svg)
+
 # [Salamander Inferno Master](3-Mechanics\CLI\bestiary\elemental/salamander-inferno-master-xmm.md)
 *Source: Monster Manual (2024) p. 267*  
 

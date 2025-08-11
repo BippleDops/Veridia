@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Githzerai Zerth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-githzerai-zerth-xmm-githzerai-zerth-xmm.svg)
+
 # [Githzerai Zerth](3-Mechanics\CLI\bestiary\aberration/githzerai-zerth-xmm.md)
 *Source: Monster Manual (2024) p. 137*  
 

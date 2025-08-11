@@ -7,6 +7,10 @@ aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-hat-of-many-spells-xdmg-hat-of-many-spells-xdmg.svg)
+
 # Index of Spells
 
 - [Abi-Dalzim's Horrid Wilting](./abi-dalzims-horrid-wilting-xge.md)

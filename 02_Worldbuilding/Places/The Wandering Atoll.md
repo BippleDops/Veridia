@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-wandering-atoll-the-wandering-atoll.svg)
+
+
 
 
 # The Wandering Atoll - Freedom's Float

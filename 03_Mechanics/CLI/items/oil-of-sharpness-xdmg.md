@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-oil-of-sharpness-xdmg-oil-of-sharpness-xdmg.svg)
+
 # Oil of Sharpness
 *Potion, very rare*  
 

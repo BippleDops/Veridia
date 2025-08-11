@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Shadow Mastiff
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-shadow-mastiff-mpmm-shadow-mastiff-mpmm.svg)
+
 # [Shadow Mastiff](3-Mechanics\CLI\bestiary\monstrosity/shadow-mastiff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 

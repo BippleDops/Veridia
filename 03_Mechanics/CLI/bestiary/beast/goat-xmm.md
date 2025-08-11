@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Goat
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-goat-xmm-giant-goat-xmm.svg)
+
 # [Goat](3-Mechanics\CLI\bestiary\beast/goat-xmm.md)
 *Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

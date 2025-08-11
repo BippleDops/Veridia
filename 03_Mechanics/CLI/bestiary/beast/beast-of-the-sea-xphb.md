@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Beast of the Sea
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-beast-of-the-sea-xphb-beast-of-the-sea-xphb.svg)
+
 # [Beast of the Sea](3-Mechanics\CLI\bestiary\beast/beast-of-the-sea-xphb.md)
 *Source: Player's Handbook (2024) p. 124*  
 

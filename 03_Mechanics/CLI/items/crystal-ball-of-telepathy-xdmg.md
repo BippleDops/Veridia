@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-crystal-ball-of-telepathy-xdmg-crystal-ball-of-telepathy-xdmg.svg)
+
 # Crystal Ball of Telepathy
 *Wondrous item, legendary (requires attunement)*  
 

@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-mind-lash-vgm-mind-lash-vgm.svg)
+
 # Mind Lash
 *Melee weapon, rare (requires attunement by a mind flayer)*  
 

@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hellfire Engine
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hellfire-engine-mpmm-hellfire-engine-mpmm.svg)
+
 # [Hellfire Engine](3-Mechanics\CLI\bestiary\construct/hellfire-engine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152, Mordenkainen's Tome of Foes p. 165*  
 

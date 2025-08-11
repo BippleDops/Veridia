@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Death Tyrant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-death-tyrant-xmm-death-tyrant-xmm.svg)
+
 # [Death Tyrant](3-Mechanics\CLI\bestiary\undead/death-tyrant-xmm.md)
 *Source: Monster Manual (2024) p. 95*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Girallon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-girallon-mpmm-girallon-mpmm.svg)
+
 # [Girallon](3-Mechanics\CLI\bestiary\monstrosity/girallon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*  
 

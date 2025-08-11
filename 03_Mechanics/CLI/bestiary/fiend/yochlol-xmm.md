@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Yochlol
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-yochlol-xmm-v1-yochlol-xmm.svg)
+
 # [Yochlol](3-Mechanics\CLI\bestiary\fiend/yochlol-xmm.md)
 *Source: Monster Manual (2024) p. 341*  
 

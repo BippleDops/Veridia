@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Devourer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-devourer-mpmm-devourer-mpmm.svg)
+
 # [Devourer](3-Mechanics\CLI\bestiary\undead/devourer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138*  
 

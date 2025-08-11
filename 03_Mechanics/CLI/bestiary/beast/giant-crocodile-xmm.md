@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Crocodile
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-crocodile-xmm-giant-crocodile-xmm.svg)
+
 # [Giant Crocodile](3-Mechanics\CLI\bestiary\beast/giant-crocodile-xmm.md)
 *Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

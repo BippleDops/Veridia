@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gnoll Warrior
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gnoll-warrior-xmm-gnoll-warrior-xmm.svg)
+
 # [Gnoll Warrior](3-Mechanics\CLI\bestiary\fiend/gnoll-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -21,6 +21,10 @@ statblock-link: '#^statblock'
 aliases:
   - Winged Kobold
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-winged-kobold-xmm-v1-winged-kobold-xmm.svg)
+
 # [Winged Kobold](3-Mechanics\CLI\bestiary\dragon/winged-kobold-xmm.md)
 *Source: Monster Manual (2024) p. 185*  
 

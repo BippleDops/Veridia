@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mind Flayer Psion
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-psion-vgm-mind-flayer-psion-vgm.svg)
+
 # [Mind Flayer Psion](3-Mechanics\CLI\bestiary\aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  
 

@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hell Hound
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hell-hound-xmm-hell-hound-xmm.svg)
+
 # [Hell Hound](3-Mechanics\CLI\bestiary\fiend/hell-hound-xmm.md)
 *Source: Monster Manual (2024) p. 165. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

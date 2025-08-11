@@ -27,6 +27,10 @@ related_entities:
 - '[[02_Worldbuilding/Lore/Marina''s Identity Crisis]]'
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-lord-aurelius-goldwave-lord-aurelius-goldwave.svg)
+
+
 
 
 # Aurelius Goldwave

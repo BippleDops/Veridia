@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Storm Giant Quintessent
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.svg)
+
 # [Storm Giant Quintessent](3-Mechanics\CLI\bestiary\giant/storm-giant-quintessent-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
 

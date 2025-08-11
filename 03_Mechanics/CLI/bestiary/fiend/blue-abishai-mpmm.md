@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Blue Abishai
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-blue-abishai-mpmm-blue-abishai-mpmm.svg)
+
 # [Blue Abishai](3-Mechanics\CLI\bestiary\fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
 

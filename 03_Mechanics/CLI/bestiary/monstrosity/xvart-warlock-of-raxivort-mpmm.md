@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Xvart Warlock of Raxivort
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-xvart-warlock-of-raxivort-mpmm-v1-xvart-warlock-of-raxivort-mpmm.svg)
+
 # [Xvart Warlock of Raxivort](3-Mechanics\CLI\bestiary\monstrosity/xvart-warlock-of-raxivort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 

@@ -21,6 +21,10 @@ created: '2025-08-11T13:08:51.114358+00:00'
 danger_level: High
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-drowned-embassy-the-drowned-embassy.svg)
+
+
 
 
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Horned Devil
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-horned-devil-xmm-horned-devil-xmm.svg)
+
 # [Horned Devil](3-Mechanics\CLI\bestiary\fiend/horned-devil-xmm.md)
 *Source: Monster Manual (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

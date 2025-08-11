@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bullywug Bog Sage
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bullywug-bog-sage-xmm-bullywug-bog-sage-xmm.svg)
+
 # [Bullywug Bog Sage](3-Mechanics\CLI\bestiary\fey/bullywug-bog-sage-xmm.md)
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 

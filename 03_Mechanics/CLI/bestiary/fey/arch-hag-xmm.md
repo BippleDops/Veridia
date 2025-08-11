@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Arch-hag
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-arch-hag-xmm-arch-hag-xmm.svg)
+
 # [Arch-hag](3-Mechanics\CLI\bestiary\fey/arch-hag-xmm.md)
 *Source: Monster Manual (2024) p. 21*  
 

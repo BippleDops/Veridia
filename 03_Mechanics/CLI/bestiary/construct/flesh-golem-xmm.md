@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Flesh Golem
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-flesh-golem-xmm-flesh-golem-xmm.svg)
+
 # [Flesh Golem](3-Mechanics\CLI\bestiary\construct/flesh-golem-xmm.md)
 *Source: Monster Manual (2024) p. 121. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

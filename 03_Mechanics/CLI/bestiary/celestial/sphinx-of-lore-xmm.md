@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sphinx of Lore
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-of-lore-xmm-sphinx-of-lore-xmm.svg)
+
 # [Sphinx of Lore](3-Mechanics\CLI\bestiary\celestial/sphinx-of-lore-xmm.md)
 *Source: Monster Manual (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

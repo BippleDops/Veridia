@@ -15,6 +15,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-orcsplitter-pota-orcsplitter-pota.svg)
+
 # Orcsplitter
 *Weapon ([greataxe](/03_Mechanics/CLI/items/greataxe-xphb.md)), legendary (requires attunement by a dwarf, fighter, or paladin of good alignment)*  
 

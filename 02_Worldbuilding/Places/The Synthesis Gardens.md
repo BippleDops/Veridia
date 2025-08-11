@@ -20,6 +20,10 @@ created: '2025-08-11T13:08:51.063995+00:00'
 danger_level: High
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-synthesis-gardens-the-synthesis-gardens.svg)
+
+
 
 
 

@@ -20,6 +20,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ogrillon Ogre
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ogrillon-ogre-xmm-ogrillon-ogre-xmm.svg)
+
 # [Ogrillon Ogre](3-Mechanics\CLI\bestiary\giant/ogrillon-ogre-xmm.md)
 *Source: Monster Manual (2024) p. 231*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Archelon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-archelon-xmm-archelon-xmm.svg)
+
 # [Archelon](3-Mechanics\CLI\bestiary\beast/archelon-xmm.md)
 *Source: Monster Manual (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

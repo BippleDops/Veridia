@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Brontosaurus
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-brontosaurus-mpmm-brontosaurus-mpmm.svg)
+
 # [Brontosaurus](3-Mechanics\CLI\bestiary\beast/brontosaurus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 

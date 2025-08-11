@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gazer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gazer-mpmm-gazer-mpmm.svg)
+
 # [Gazer](3-Mechanics\CLI\bestiary\aberration/gazer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126*  
 

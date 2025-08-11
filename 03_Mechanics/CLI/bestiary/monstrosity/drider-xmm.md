@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Drider
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-drider-xmm-drider-xmm.svg)
+
 # [Drider](3-Mechanics\CLI\bestiary\monstrosity/drider-xmm.md)
 *Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

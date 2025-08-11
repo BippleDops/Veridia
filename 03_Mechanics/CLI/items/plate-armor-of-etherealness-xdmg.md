@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-half-plate-armor-of-etherealness-xdmg-half-plate-armor-of-etherealness-xdmg.svg)
+
 # Plate Armor of Etherealness
 *Heavy armor, legendary (requires attunement)*  
 

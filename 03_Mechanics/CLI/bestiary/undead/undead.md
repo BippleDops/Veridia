@@ -7,6 +7,10 @@ aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
+
 # Index of Undead
 
 - [Alhoon](./alhoon-mpmm.md)

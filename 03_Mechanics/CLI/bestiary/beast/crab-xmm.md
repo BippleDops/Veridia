@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Crab
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-crab-xmm-crab-xmm.svg)
+
 # [Crab](3-Mechanics\CLI\bestiary\beast/crab-xmm.md)
 *Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

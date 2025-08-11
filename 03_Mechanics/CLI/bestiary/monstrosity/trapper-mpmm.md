@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Trapper
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-trapper-mpmm-trapper-mpmm.svg)
+
 # [Trapper](3-Mechanics\CLI\bestiary\monstrosity/trapper-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 245, Volo's Guide to Monsters p. 194*  
 

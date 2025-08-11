@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Skulk
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-skulk-mpmm-skulk-mpmm.svg)
+
 # [Skulk](3-Mechanics\CLI\bestiary\monstrosity/skulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 219, Mordenkainen's Tome of Foes p. 227*  
 

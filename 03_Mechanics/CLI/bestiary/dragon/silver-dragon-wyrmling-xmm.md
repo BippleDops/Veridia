@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Silver Dragon Wyrmling
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-silver-dragon-wyrmling-xmm-silver-dragon-wyrmling-xmm.svg)
+
 # [Silver Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/silver-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

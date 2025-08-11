@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mammoth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mammoth-xmm-mammoth-xmm.svg)
+
 # [Mammoth](3-Mechanics\CLI\bestiary\beast/mammoth-xmm.md)
 *Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

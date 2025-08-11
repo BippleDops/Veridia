@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-sundered-vaults-the-sundered-vaults.svg)
+
+
 
 
 # The Sundered Vaults

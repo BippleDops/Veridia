@@ -22,6 +22,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-walloping-ammunition-xdmg-v1-walloping-ammunition-xdmg.svg)
+
 # Walloping Ammunition
 *Ammunition, common*  
 

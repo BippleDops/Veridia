@@ -19,6 +19,10 @@ statblock-link: '#^statblock'
 aliases:
   - Goblin Minion
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-minion-xmm-goblin-minion-xmm.svg)
+
 # [Goblin Minion](3-Mechanics\CLI\bestiary\fey/goblin-minion-xmm.md)
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

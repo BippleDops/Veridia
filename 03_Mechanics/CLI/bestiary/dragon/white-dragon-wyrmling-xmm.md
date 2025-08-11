@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - White Dragon Wyrmling
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-white-dragon-wyrmling-xmm-v1-white-dragon-wyrmling-xmm.svg)
+
 # [White Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/white-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

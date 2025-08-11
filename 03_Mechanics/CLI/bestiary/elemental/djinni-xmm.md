@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Djinni
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-djinni-xmm-djinni-xmm.svg)
+
 # [Djinni](3-Mechanics\CLI\bestiary\elemental/djinni-xmm.md)
 *Source: Monster Manual (2024) p. 99. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

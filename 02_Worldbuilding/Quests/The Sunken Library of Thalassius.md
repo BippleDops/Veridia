@@ -24,6 +24,10 @@ MyCategory: Quest
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg)
+
+
 
 # The Sunken Library of Thalassius
 

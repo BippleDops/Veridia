@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Vegepygmy Chief
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-vegepygmy-chief-mpmm-v1-vegepygmy-chief-mpmm.svg)
+
 # [Vegepygmy Chief](3-Mechanics\CLI\bestiary\plant/vegepygmy-chief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
 

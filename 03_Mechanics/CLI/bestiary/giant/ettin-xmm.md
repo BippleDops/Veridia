@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ettin
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ettin-xmm-ettin-xmm.svg)
+
 # [Ettin](3-Mechanics\CLI\bestiary\giant/ettin-xmm.md)
 *Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

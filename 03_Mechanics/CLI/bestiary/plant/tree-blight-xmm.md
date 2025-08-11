@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Tree Blight
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-tree-blight-xmm-tree-blight-xmm.svg)
+
 # [Tree Blight](3-Mechanics\CLI\bestiary\plant/tree-blight-xmm.md)
 *Source: Monster Manual (2024) p. 44*  
 

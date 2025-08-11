@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Clockwork Stone Defender
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-clockwork-stone-defender-mpmm-clockwork-stone-defender-mpmm.svg)
+
 # [Clockwork Stone Defender](3-Mechanics\CLI\bestiary\construct/clockwork-stone-defender-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
 

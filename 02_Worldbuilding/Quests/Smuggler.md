@@ -19,6 +19,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-hidden-smuggler-s-cove-hidden-smuggler-s-cove.svg)
+
+
 
 
 # Smuggler

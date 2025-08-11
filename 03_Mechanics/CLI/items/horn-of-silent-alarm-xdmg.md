@@ -12,6 +12,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-horn-of-silent-alarm-xdmg-horn-of-silent-alarm-xdmg.svg)
+
 # Horn of Silent Alarm
 *Wondrous item, common*  
 

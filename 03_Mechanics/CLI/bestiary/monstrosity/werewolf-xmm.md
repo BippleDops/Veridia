@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Werewolf
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-werewolf-xmm-v1-werewolf-xmm.svg)
+
 # [Werewolf](3-Mechanics\CLI\bestiary\monstrosity/werewolf-xmm.md)
 *Source: Monster Manual (2024) p. 327. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

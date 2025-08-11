@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Strixhaven Campus Guide
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-strixhaven-campus-guide-scc-strixhaven-campus-guide-scc.svg)
+
 # [Strixhaven Campus Guide](3-Mechanics\CLI\bestiary\construct/strixhaven-campus-guide-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 217*  
 

@@ -24,6 +24,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:50.629403+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-compass-quest-compass-quest.svg)
+
+
 
 
 # Compass Quest

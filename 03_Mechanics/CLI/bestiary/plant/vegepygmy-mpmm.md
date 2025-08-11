@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Vegepygmy
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.svg)
+
 # [Vegepygmy](3-Mechanics\CLI\bestiary\plant/vegepygmy-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
 

@@ -11,6 +11,10 @@ updated: '2025-08-11T13:08:50.680387+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] Map
+![](04_Resources/Assets/Generated/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg)
+
+
 
 ## Overview
 

@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bodak
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bodak-mpmm-bodak-mpmm.svg)
+
 # [Bodak](3-Mechanics\CLI\bestiary\undead/bodak-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
 

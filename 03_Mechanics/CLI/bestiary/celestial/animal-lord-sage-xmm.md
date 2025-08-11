@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Animal Lord; Sage
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-sage-xmm-animal-lord-sage-xmm.svg)
+
 # [Animal Lord; Sage](3-Mechanics\CLI\bestiary\celestial/animal-lord-sage-xmm.md)
 *Source: Monster Manual (2024) p. 15*  
 

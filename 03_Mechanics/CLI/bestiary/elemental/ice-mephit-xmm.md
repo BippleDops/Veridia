@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ice Mephit
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ice-mephit-xmm-ice-mephit-xmm.svg)
+
 # [Ice Mephit](3-Mechanics\CLI\bestiary\elemental/ice-mephit-xmm.md)
 *Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

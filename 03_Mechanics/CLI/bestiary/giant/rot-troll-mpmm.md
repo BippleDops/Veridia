@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Rot Troll
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-rot-troll-mpmm-rot-troll-mpmm.svg)
+
 # [Rot Troll](3-Mechanics\CLI\bestiary\giant/rot-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 

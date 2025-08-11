@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Weasel
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-weasel-xmm-giant-weasel-xmm.svg)
+
 # [Giant Weasel](3-Mechanics\CLI\bestiary\beast/giant-weasel-xmm.md)
 *Source: Monster Manual (2024) p. 361, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

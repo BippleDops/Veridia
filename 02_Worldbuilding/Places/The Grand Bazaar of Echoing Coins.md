@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-grand-bazaar-of-echoing-coins-the-grand-bazaar-of-echoing-coins.svg)
+
+
 
 
 # The Grand Bazaar of Echoing Coins

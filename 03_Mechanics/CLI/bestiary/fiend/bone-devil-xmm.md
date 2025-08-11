@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bone Devil
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bone-devil-xmm-bone-devil-xmm.svg)
+
 # [Bone Devil](3-Mechanics\CLI\bestiary\fiend/bone-devil-xmm.md)
 *Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

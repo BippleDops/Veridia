@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mummy
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mummy-xmm-mummy-xmm.svg)
+
 # [Mummy](3-Mechanics\CLI\bestiary\undead/mummy-xmm.md)
 *Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

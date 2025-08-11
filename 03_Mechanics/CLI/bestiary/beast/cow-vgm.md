@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Cow
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-cow-vgm-cow-vgm.svg)
+
 # [Cow](3-Mechanics\CLI\bestiary\beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  
 

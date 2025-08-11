@@ -14,6 +14,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-ring-of-elemental-command-water-xdmg-ring-of-elemental-command-water-xdmg.svg)
+
 # Ring of Elemental Command (Water)
 *Ring, legendary (requires attunement)*  
 

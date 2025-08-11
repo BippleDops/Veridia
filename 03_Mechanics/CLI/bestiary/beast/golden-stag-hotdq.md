@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Golden Stag
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-golden-stag-hotdq-golden-stag-hotdq.svg)
+
 # [Golden Stag](3-Mechanics\CLI\bestiary\beast/golden-stag-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 35*  
 

@@ -22,6 +22,10 @@ status: draft
 type: Location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-pressure-s-end-pressure-s-end.svg)
+
+
 
 
 

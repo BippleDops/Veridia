@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Death Dog
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-death-dog-xmm-death-dog-xmm.svg)
+
 # [Death Dog](3-Mechanics\CLI\bestiary\monstrosity/death-dog-xmm.md)
 *Source: Monster Manual (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

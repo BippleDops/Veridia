@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Cogwork Archivist
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg)
+
 # [Cogwork Archivist](3-Mechanics\CLI\bestiary\construct/cogwork-archivist-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 188*  
 

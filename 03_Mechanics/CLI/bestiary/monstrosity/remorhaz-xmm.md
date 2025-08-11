@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Remorhaz
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-remorhaz-xmm-remorhaz-xmm.svg)
+
 # [Remorhaz](3-Mechanics\CLI\bestiary\monstrosity/remorhaz-xmm.md)
 *Source: Monster Manual (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

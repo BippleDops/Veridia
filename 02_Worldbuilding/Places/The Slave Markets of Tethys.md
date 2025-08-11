@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-slave-markets-of-tethys-the-slave-markets-of-tethys.svg)
+
+
 
 
 

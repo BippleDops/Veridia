@@ -25,6 +25,10 @@ MyCategory: Research Laboratory
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg)
+
+
 
 
 # Aboleth Adjunct Yzz

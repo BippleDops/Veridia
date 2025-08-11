@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Frog
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-frog-xmm-frog-xmm.svg)
+
 # [Frog](3-Mechanics\CLI\bestiary\beast/frog-xmm.md)
 *Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

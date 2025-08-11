@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Modron Duodrone
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-modron-duodrone-xmm-modron-duodrone-xmm.svg)
+
 # [Modron Duodrone](3-Mechanics\CLI\bestiary\construct/modron-duodrone-xmm.md)
 *Source: Monster Manual (2024) p. 217*  
 

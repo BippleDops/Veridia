@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Shield Guardian
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-shield-guardian-xmm-shield-guardian-xmm.svg)
+
 # [Shield Guardian](3-Mechanics\CLI\bestiary\construct/shield-guardian-xmm.md)
 *Source: Monster Manual (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Four-Armed Troll
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-four-armed-troll-hotdq-four-armed-troll-hotdq.svg)
+
 # [Four-Armed Troll](3-Mechanics\CLI\bestiary\giant/four-armed-troll-hotdq.md)
 *Source: Hoard of the Dragon Queen p. 65*  
 

@@ -7,6 +7,10 @@ aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-cloud-giant-smiling-one-mpmm-cloud-giant-smiling-one-mpmm.svg)
+
 # Index of Giant
 
 - [Aquatic Troll](./aquatic-troll-rot.md)

@@ -10,6 +10,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mummy-lord-mummy-lord.svg)
+
 # Mummy Lord
 
 ## Lair actions

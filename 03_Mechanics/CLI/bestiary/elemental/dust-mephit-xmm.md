@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Dust Mephit
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dust-mephit-xmm-dust-mephit-xmm.svg)
+
 # [Dust Mephit](3-Mechanics\CLI\bestiary\elemental/dust-mephit-xmm.md)
 *Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gray Ooze
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gray-ooze-xmm-gray-ooze-xmm.svg)
+
 # [Gray Ooze](3-Mechanics\CLI\bestiary\ooze/gray-ooze-xmm.md)
 *Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

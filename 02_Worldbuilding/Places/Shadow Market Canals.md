@@ -23,6 +23,10 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-shadow-market-canals-shadow-market-canals.svg)
+
+
 
 
 # Shadow Market Canals

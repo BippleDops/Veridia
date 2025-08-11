@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Myconid Sprout
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-myconid-sprout-xmm-myconid-sprout-xmm.svg)
+
 # [Myconid Sprout](3-Mechanics\CLI\bestiary\plant/myconid-sprout-xmm.md)
 *Source: Monster Manual (2024) p. 222*  
 

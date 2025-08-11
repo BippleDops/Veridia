@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Kuo-toa Whip
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-kuo-toa-whip-xmm-kuo-toa-whip-xmm.svg)
+
 # [Kuo-toa Whip](3-Mechanics\CLI\bestiary\aberration/kuo-toa-whip-xmm.md)
 *Source: Monster Manual (2024) p. 190*  
 

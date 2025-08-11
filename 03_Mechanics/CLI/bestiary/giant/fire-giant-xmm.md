@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Fire Giant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-fire-giant-xmm-fire-giant-xmm.svg)
+
 # [Fire Giant](3-Mechanics\CLI\bestiary\giant/fire-giant-xmm.md)
 *Source: Monster Manual (2024) p. 119. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

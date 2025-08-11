@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ancient Gold Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-gold-dragon-xmm-ancient-gold-dragon-xmm.svg)
+
 # [Ancient Gold Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 146. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

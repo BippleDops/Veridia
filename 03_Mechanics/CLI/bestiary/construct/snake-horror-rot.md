@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Snake Horror
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-snake-horror-rot-snake-horror-rot.svg)
+
 # [Snake Horror](3-Mechanics\CLI\bestiary\construct/snake-horror-rot.md)
 *Source: The Rise of Tiamat p. 46*  
 

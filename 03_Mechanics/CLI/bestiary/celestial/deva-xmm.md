@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Deva
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-deva-xmm-deva-xmm.svg)
+
 # [Deva](3-Mechanics\CLI\bestiary\celestial/deva-xmm.md)
 *Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

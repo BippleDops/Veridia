@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Elemental Spirit (Air)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-elemental-spirit-air-xphb-elemental-spirit-air-xphb.svg)
+
 # [Elemental Spirit (Air)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-air-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
 

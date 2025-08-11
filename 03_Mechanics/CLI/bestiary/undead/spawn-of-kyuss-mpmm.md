@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Spawn of Kyuss
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-spawn-of-kyuss-mpmm-spawn-of-kyuss-mpmm.svg)
+
 # [Spawn of Kyuss](3-Mechanics\CLI\bestiary\undead/spawn-of-kyuss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
 

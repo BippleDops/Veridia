@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Male Steeder
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-female-steeder-mpmm-female-steeder-mpmm.svg)
+
 # [Male Steeder](3-Mechanics\CLI\bestiary\monstrosity/male-steeder-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
 

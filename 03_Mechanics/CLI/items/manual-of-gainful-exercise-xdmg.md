@@ -12,6 +12,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-manual-of-gainful-exercise-xdmg-manual-of-gainful-exercise-xdmg.svg)
+
 # Manual of Gainful Exercise
 *Wondrous item, very rare*  
 

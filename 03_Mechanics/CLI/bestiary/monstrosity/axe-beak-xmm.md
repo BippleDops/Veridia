@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Axe Beak
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-axe-beak-xmm-axe-beak-xmm.svg)
+
 # [Axe Beak](3-Mechanics\CLI\bestiary\monstrosity/axe-beak-xmm.md)
 *Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

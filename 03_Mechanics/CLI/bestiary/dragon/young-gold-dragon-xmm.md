@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Young Gold Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-gold-dragon-xmm-v1-young-gold-dragon-xmm.svg)
+
 # [Young Gold Dragon](3-Mechanics\CLI\bestiary\dragon/young-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -12,4 +12,8 @@ updated: '2025-08-11T13:08:47.091537+00:00'
 status: draft
 ---
 
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-items-items.svg)
+
+
 

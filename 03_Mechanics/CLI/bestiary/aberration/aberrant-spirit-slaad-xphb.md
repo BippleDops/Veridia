@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Aberrant Spirit (Slaad)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-aberrant-spirit-slaad-xphb-aberrant-spirit-slaad-xphb.svg)
+
 # [Aberrant Spirit (Slaad)](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-slaad-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  
 

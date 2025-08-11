@@ -24,6 +24,10 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-living-weapon-the-living-weapon.svg)
+
+
 
 
 # The Living Weapon

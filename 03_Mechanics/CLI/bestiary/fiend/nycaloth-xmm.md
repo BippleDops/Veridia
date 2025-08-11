@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Nycaloth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-nycaloth-xmm-nycaloth-xmm.svg)
+
 # [Nycaloth](3-Mechanics\CLI\bestiary\fiend/nycaloth-xmm.md)
 *Source: Monster Manual (2024) p. 229*  
 

@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-embroidered-glove-set-with-jewel-chips-xdmg-embroidered-glove-set-with-jewel-chips-xdmg.svg)
+
 # Embroidered glove set with jewel chips
 *Treasure (art object)*  
 

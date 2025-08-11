@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hyena
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-hyena-xmm-giant-hyena-xmm.svg)
+
 # [Hyena](3-Mechanics\CLI\bestiary\beast/hyena-xmm.md)
 *Source: Monster Manual (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Banshee
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-banshee-xmm-banshee-xmm.svg)
+
 # [Banshee](3-Mechanics\CLI\bestiary\undead/banshee-xmm.md)
 *Source: Monster Manual (2024) p. 29*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Animal Lord; Forager
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-forager-xmm-animal-lord-forager-xmm.svg)
+
 # [Animal Lord; Forager](3-Mechanics\CLI\bestiary\celestial/animal-lord-forager-xmm.md)
 *Source: Monster Manual (2024) p. 15*  
 

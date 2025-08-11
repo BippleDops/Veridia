@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Adult Brass Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-brass-dragon-xmm-adult-brass-dragon-xmm.svg)
+
 # [Adult Brass Dragon](3-Mechanics\CLI\bestiary\dragon/adult-brass-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 55. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

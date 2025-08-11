@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Azer Pyromancer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-azer-pyromancer-xmm-azer-pyromancer-xmm.svg)
+
 # [Azer Pyromancer](3-Mechanics\CLI\bestiary\elemental/azer-pyromancer-xmm.md)
 *Source: Monster Manual (2024) p. 25*  
 

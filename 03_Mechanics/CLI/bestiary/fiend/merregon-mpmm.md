@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Merregon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-merregon-mpmm-merregon-mpmm.svg)
+
 # [Merregon](3-Mechanics\CLI\bestiary\fiend/merregon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 179, Mordenkainen's Tome of Foes p. 166*  
 

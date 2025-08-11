@@ -18,6 +18,10 @@ updated: '2025-08-11T13:08:50.316063+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-trencher-folk-the-trencher-folk.svg)
+
+
 
 
 # The Trencher Folk

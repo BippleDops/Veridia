@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Daemogoth Titan
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-daemogoth-titan-scc-daemogoth-titan-scc.svg)
+
 # [Daemogoth Titan](3-Mechanics\CLI\bestiary\fiend/daemogoth-titan-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 190*  
 

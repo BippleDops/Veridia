@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-silver-chalice-set-with-moonstones-xdmg-silver-chalice-set-with-moonstones-xdmg.svg)
+
 # Silver chalice set with moonstones
 *Treasure (art object)*  
 

@@ -7,6 +7,10 @@ aliases: []
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-aberration-aberration.svg)
+
 # Index of Aberration
 
 - [Aberrant Spirit (Beholderkin)](./aberrant-spirit-beholderkin-xphb.md)

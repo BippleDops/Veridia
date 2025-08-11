@@ -12,6 +12,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-figurine-of-wondrous-power-onyx-dog-xdmg-figurine-of-wondrous-power-onyx-dog-xdmg.svg)
+
 # Figurine of Wondrous Power, Onyx Dog
 *Wondrous item, rare*  
 

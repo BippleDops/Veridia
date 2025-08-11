@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Smoke Mephit
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-smoke-mephit-xmm-smoke-mephit-xmm.svg)
+
 # [Smoke Mephit](3-Mechanics\CLI\bestiary\elemental/smoke-mephit-xmm.md)
 *Source: Monster Manual (2024) p. 208*  
 

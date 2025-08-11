@@ -6,6 +6,10 @@ type: "mechanic"
 obsidianUIMode: preview
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
+
+
 
 
 # Crystal Plague

@@ -15,6 +15,10 @@ updated: '2025-08-11T13:08:51.152542+00:00'
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-last-words-the-last-words.svg)
+
+
 
 
 # The Last Words

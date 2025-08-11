@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Infant Hook Horror
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-infant-hook-horror-oota-infant-hook-horror-oota.svg)
+
 # [Infant Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/infant-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  
 

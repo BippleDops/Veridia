@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Brown Bear
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-brown-bear-xmm-brown-bear-xmm.svg)
+
 # [Brown Bear](3-Mechanics\CLI\bestiary\beast/brown-bear-xmm.md)
 *Source: Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

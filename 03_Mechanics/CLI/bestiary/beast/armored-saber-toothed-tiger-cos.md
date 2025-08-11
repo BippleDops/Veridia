@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Armored Saber-Toothed Tiger
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-armored-saber-toothed-tiger-cos-1.svg)
+
 # [Armored Saber-Toothed Tiger](3-Mechanics\CLI\bestiary\beast/armored-saber-toothed-tiger-cos.md)
 *Source: Curse of Strahd p. 115*  
 

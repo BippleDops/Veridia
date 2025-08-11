@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gnoll Hunter
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gnoll-hunter-mpmm-gnoll-hunter-mpmm.svg)
+
 # [Gnoll Hunter](3-Mechanics\CLI\bestiary\monstrosity/gnoll-hunter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Stone Golem
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-stone-golem-xmm-stone-golem-xmm.svg)
+
 # [Stone Golem](3-Mechanics\CLI\bestiary\construct/stone-golem-xmm.md)
 *Source: Monster Manual (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

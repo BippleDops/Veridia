@@ -22,6 +22,10 @@ MyCategory: Location
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-vault-breach-v1-vault-breach.svg)
+
+
 
 
 # Vault Breach

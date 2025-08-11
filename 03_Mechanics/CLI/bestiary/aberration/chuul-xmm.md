@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Chuul
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-chuul-xmm-chuul-xmm.svg)
+
 # [Chuul](3-Mechanics\CLI\bestiary\aberration/chuul-xmm.md)
 *Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

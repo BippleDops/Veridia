@@ -28,6 +28,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:50.356325+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg)
+
+
 
 # The Shadowmire Tavern
 *Where Secrets Flow Deeper Than the Ale*

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Blue Slaad
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-blue-slaad-xmm-blue-slaad-xmm.svg)
+
 # [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 285*  
 

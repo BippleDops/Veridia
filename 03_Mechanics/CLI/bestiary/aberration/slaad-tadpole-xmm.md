@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Slaad Tadpole
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-slaad-tadpole-xmm-slaad-tadpole-xmm.svg)
+
 # [Slaad Tadpole](3-Mechanics\CLI\bestiary\aberration/slaad-tadpole-xmm.md)
 *Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
 

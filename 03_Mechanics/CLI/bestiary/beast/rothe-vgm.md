@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Rothé
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-rothe-vgm-rothe-vgm.svg)
+
 # [Rothé](3-Mechanics\CLI\bestiary\beast/rothe-vgm.md)
 *Source: Volo's Guide to Monsters p. 208*  
 

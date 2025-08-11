@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-glamoured-studded-leather-xdmg-glamoured-studded-leather-xdmg.svg)
+
 # Glamoured Studded Leather
 *Light armor ([studded leather armor](/03_Mechanics/CLI/items/studded-leather-armor-xphb.md)), rare*  
 

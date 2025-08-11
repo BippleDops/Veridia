@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Riding Horse
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-riding-horse-xmm-riding-horse-xmm.svg)
+
 # [Riding Horse](3-Mechanics\CLI\bestiary\beast/riding-horse-xmm.md)
 *Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

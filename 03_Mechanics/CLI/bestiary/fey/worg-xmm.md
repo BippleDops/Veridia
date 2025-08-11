@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Worg
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-worg-xmm-dire-worg-xmm.svg)
+
 # [Worg](3-Mechanics\CLI\bestiary\fey/worg-xmm.md)
 *Source: Monster Manual (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

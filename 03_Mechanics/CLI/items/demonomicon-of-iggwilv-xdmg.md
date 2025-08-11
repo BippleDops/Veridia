@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-demonomicon-of-iggwilv-xdmg-demonomicon-of-iggwilv-xdmg.svg)
+
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hydra
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hydra-xmm-hydra-xmm.svg)
+
 # [Hydra](3-Mechanics\CLI\bestiary\monstrosity/hydra-xmm.md)
 *Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

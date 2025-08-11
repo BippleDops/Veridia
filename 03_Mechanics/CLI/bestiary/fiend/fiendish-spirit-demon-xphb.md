@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Fiendish Spirit (Demon)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-fiendish-spirit-demon-xphb-fiendish-spirit-demon-xphb.svg)
+
 # [Fiendish Spirit (Demon)](3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-demon-xphb.md)
 *Source: Player's Handbook (2024) p. 327*  
 

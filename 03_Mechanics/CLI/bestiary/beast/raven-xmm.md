@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Raven
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-raven-xmm-raven-xmm.svg)
+
 # [Raven](3-Mechanics\CLI\bestiary\beast/raven-xmm.md)
 *Source: Monster Manual (2024) p. 368, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

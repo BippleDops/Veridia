@@ -27,6 +27,10 @@ created: '2025-08-11T13:08:50.566932+00:00'
 status: draft
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-shadowmere-the-shadowmere.svg)
+
+
 
 
 

@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Construct Spirit (Stone)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-construct-spirit-stone-xphb-construct-spirit-stone-xphb.svg)
+
 # [Construct Spirit (Stone)](3-Mechanics\CLI\bestiary\construct/construct-spirit-stone-xphb.md)
 *Source: Player's Handbook (2024) p. 324*  
 

@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Sled Dog
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-sled-dog-rot-sled-dog-rot.svg)
+
 # [Sled Dog](3-Mechanics\CLI\bestiary\beast/sled-dog-rot.md)
 *Source: The Rise of Tiamat p. 27*  
 

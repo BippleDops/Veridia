@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Bestial Spirit
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-bestial-spirit-xphb-bestial-spirit-xphb.svg)
+
 # [Bestial Spirit](3-Mechanics\CLI\bestiary\beast/bestial-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 

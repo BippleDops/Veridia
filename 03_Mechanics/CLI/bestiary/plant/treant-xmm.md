@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Treant
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-treant-xmm-treant-xmm.svg)
+
 # [Treant](3-Mechanics\CLI\bestiary\plant/treant-xmm.md)
 *Source: Monster Manual (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

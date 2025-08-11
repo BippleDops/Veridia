@@ -19,6 +19,10 @@ created: 2025-08-08
 updated: '2025-08-11T13:08:48.692066+00:00'
 ---
 
+> [!figure] Scene
+![](04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.svg)
+
+
 
 
 # The Deep Mother

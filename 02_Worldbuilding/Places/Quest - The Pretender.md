@@ -23,6 +23,10 @@ primary_location: Port Meridian Noble Quarter and Crystal Throne territories
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-quest-the-pretender-quest-the-pretender.svg)
+
+
 
 # Quest - The Pretender
 *When Bloodlines Lie and Crowns are Stolen*

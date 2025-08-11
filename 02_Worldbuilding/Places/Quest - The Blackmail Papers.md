@@ -25,6 +25,10 @@ primary_location: Port Meridian and Noble Quarter
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-quest-the-blackmail-papers-quest-the-blackmail-papers.svg)
+
+
 
 
 # Quest - The Blackmail Papers

@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Young Bulette
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-bulette-pota-v1-young-bulette-pota.svg)
+
 # [Young Bulette](3-Mechanics\CLI\bestiary\beast/young-bulette-pota.md)
 *Source: Princes of the Apocalypse p. 139*  
 

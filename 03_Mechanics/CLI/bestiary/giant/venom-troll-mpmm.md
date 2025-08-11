@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Venom Troll
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-venom-troll-mpmm-v1-venom-troll-mpmm.svg)
+
 # [Venom Troll](3-Mechanics\CLI\bestiary\giant/venom-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245*  
 

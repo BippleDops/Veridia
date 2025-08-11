@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Angry Sorrowsworn
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-angry-sorrowsworn-mpmm-angry-sorrowsworn-mpmm.svg)
+
 # [Angry Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/angry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222, Mordenkainen's Tome of Foes p. 231*  
 

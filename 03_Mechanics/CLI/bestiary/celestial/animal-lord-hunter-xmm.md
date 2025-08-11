@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Animal Lord; Hunter
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-hunter-xmm-animal-lord-hunter-xmm.svg)
+
 # [Animal Lord; Hunter](3-Mechanics\CLI\bestiary\celestial/animal-lord-hunter-xmm.md)
 *Source: Monster Manual (2024) p. 15*  
 

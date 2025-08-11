@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Firenewt Warrior
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-firenewt-warrior-mpmm-firenewt-warrior-mpmm.svg)
+
 # [Firenewt Warrior](3-Mechanics\CLI\bestiary\elemental/firenewt-warrior-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*  
 

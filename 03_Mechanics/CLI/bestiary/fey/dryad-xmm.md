@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Dryad
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dryad-xmm-dryad-xmm.svg)
+
 # [Dryad](3-Mechanics\CLI\bestiary\fey/dryad-xmm.md)
 *Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

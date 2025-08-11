@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg-bundle-of-sheet-music-representing-the-lost-dirges-of-a-famous-composer-xdmg.svg)
+
 # Bundle of sheet music representing the lost dirges of a famous composer
 *Treasure (art object)*  
 

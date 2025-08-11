@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Aberrant Spirit (Star Spawn)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-aberrant-spirit-star-spawn-xphb-aberrant-spirit-star-spawn-xphb.svg)
+
 # [Aberrant Spirit (Star Spawn)](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-star-spawn-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  
 

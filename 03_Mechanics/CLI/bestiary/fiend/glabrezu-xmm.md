@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Glabrezu
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-glabrezu-xmm-glabrezu-xmm.svg)
+
 # [Glabrezu](3-Mechanics\CLI\bestiary\fiend/glabrezu-xmm.md)
 *Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

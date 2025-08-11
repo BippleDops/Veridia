@@ -1,0 +1,29 @@
+{
+  "id": "scene-submarine-chase-through-kelp-v1",
+  "type": "scene",
+  "name": "Submarine chase through kelp",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Atmospheric scene: Submarine chase through kelp, clear narrative focal point, atmospheric VFX support, cinematic light shaping, high-fidelity illustration, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7053,
+  "alt_text": "Atmospheric illustration of: Submarine chase through kelp.",
+  "realm": "aquabyssos",
+  "generator": "placeholder",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-submarine-chase-through-kelp-v1-submarine-chase-through-kelp.svg"
+}

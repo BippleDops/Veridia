@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Clockwork Oaken Bolter
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-clockwork-oaken-bolter-mpmm-clockwork-oaken-bolter-mpmm.svg)
+
 # [Clockwork Oaken Bolter](3-Mechanics\CLI\bestiary\construct/clockwork-oaken-bolter-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
 

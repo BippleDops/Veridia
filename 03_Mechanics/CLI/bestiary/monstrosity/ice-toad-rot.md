@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ice Toad
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ice-toad-rot-ice-toad-rot.svg)
+
 # [Ice Toad](3-Mechanics\CLI\bestiary\monstrosity/ice-toad-rot.md)
 *Source: The Rise of Tiamat p. 90*  
 

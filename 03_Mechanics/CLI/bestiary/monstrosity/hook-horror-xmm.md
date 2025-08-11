@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Hook Horror
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-hook-horror-xmm-hook-horror-xmm.svg)
+
 # [Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/hook-horror-xmm.md)
 *Source: Monster Manual (2024) p. 173*  
 

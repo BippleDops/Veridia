@@ -23,6 +23,10 @@ status: draft
 type: Location
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-inverse-palace-the-inverse-palace.svg)
+
+
 
 
 

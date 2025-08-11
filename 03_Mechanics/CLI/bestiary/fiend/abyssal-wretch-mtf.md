@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Abyssal Wretch
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-abyssal-wretch-mtf-abyssal-wretch-mtf.svg)
+
 # [Abyssal Wretch](3-Mechanics\CLI\bestiary\fiend/abyssal-wretch-mtf.md)
 *Source: Mordenkainen's Tome of Foes p. 136*  
 

@@ -18,6 +18,10 @@ statblock-link: '#^statblock'
 aliases:
   - Eidolon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-eidolon-mpmm-eidolon-mpmm.svg)
+
 # [Eidolon](3-Mechanics\CLI\bestiary\undead/eidolon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 114, Mordenkainen's Tome of Foes p. 194*  
 

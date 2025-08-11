@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Dire Troll
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-dire-troll-mpmm-dire-troll-mpmm.svg)
+
 # [Dire Troll](3-Mechanics\CLI\bestiary\giant/dire-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246, Mordenkainen's Tome of Foes p. 243*  
 

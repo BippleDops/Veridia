@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Paper Whirlwind
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-paper-whirlwind-rot-paper-whirlwind-rot.svg)
+
 # [Paper Whirlwind](3-Mechanics\CLI\bestiary\construct/paper-whirlwind-rot.md)
 *Source: The Rise of Tiamat p. 72*  
 

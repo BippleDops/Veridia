@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Young Basilisk
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-young-basilisk-oota-v1-young-basilisk-oota.svg)
+
 # [Young Basilisk](3-Mechanics\CLI\bestiary\monstrosity/young-basilisk-oota.md)
 *Source: Out of the Abyss p. 100*  
 

@@ -18,6 +18,10 @@ status: draft
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-cerulean-archipelago-the-cerulean-archipelago.svg)
+
+
 
 
 # The Cerulean Archipelago

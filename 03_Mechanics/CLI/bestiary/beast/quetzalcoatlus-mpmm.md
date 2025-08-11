@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Quetzalcoatlus
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-quetzalcoatlus-mpmm-quetzalcoatlus-mpmm.svg)
+
 # [Quetzalcoatlus](3-Mechanics\CLI\bestiary\beast/quetzalcoatlus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 

@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-crystal-stock-exchange-the-crystal-stock-exchange.svg)
+
+
 
 
 

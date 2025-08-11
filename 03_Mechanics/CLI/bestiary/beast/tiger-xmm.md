@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Tiger
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-saber-toothed-tiger-xmm-saber-toothed-tiger-xmm.svg)
+
 # [Tiger](3-Mechanics\CLI\bestiary\beast/tiger-xmm.md)
 *Source: Monster Manual (2024) p. 371, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

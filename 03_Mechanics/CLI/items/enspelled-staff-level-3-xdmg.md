@@ -15,6 +15,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-level-3-xdmg-enspelled-staff-level-3-xdmg.svg)
+
 # Enspelled Staff (Level 3)
 *Staff, weapon, rare (requires attunement by a Spellcaster)*  
 

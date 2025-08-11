@@ -24,6 +24,10 @@ MyCategory: Unknown
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-luminous-hollow-luminous-hollow.svg)
+
+
 
 
 

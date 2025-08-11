@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Adult Kruthik
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-kruthik-mpmm-adult-kruthik-mpmm.svg)
+
 # [Adult Kruthik](3-Mechanics\CLI\bestiary\monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Mind Flayer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-xmm-mind-flayer-xmm.svg)
+
 # [Mind Flayer](3-Mechanics\CLI\bestiary\aberration/mind-flayer-xmm.md)
 *Source: Monster Manual (2024) p. 214*  
 

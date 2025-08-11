@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg-bottle-stopper-cork-embossed-with-gold-leaf-and-set-with-amethysts-xdmg.svg)
+
 # Bottle stopper cork embossed with gold leaf and set with amethysts
 *Treasure (art object)*  
 

@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Pixie Wonderbringer
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-pixie-wonderbringer-xmm-pixie-wonderbringer-xmm.svg)
+
 # [Pixie Wonderbringer](3-Mechanics\CLI\bestiary\fey/pixie-wonderbringer-xmm.md)
 *Source: Monster Manual (2024) p. 244*  
 

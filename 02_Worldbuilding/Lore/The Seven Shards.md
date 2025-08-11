@@ -15,6 +15,10 @@ updated: '2025-08-11T13:08:48.873876+00:00'
 status: draft
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-seven-shards-mystery-the-seven-shards-mystery.svg)
+
+
 
 
 

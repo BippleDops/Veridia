@@ -10,6 +10,10 @@ type: Location
 danger_level: Moderate
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-kraken-s-harbor-the-kraken-s-harbor.svg)
+
+
 
 
 # The Kraken's Harbor

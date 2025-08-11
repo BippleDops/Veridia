@@ -22,6 +22,10 @@ created: 2025-08-09
 updated: '2025-08-11T13:08:50.101282+00:00'
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-the-memory-storm-fields-the-memory-storm-fields.svg)
+
+
 
 # The Memory Storm Fields
 *Where Past and Present Collide in Torrents of Recollection*

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Maurezhi
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-maurezhi-mpmm-maurezhi-mpmm.svg)
+
 # [Maurezhi](3-Mechanics\CLI\bestiary\fiend/maurezhi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 175, Mordenkainen's Tome of Foes p. 133*  
 

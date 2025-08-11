@@ -21,6 +21,10 @@ MyCategory: Quest
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-goldspire-confederacy-goldspire-confederacy.svg)
+
+
 
 # The Goldspire Confederacy Crisis
 

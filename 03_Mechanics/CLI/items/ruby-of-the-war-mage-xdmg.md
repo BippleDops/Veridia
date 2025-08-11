@@ -13,6 +13,10 @@ type: note
 created: 2025-07-23 12:39
 modified: 2025-07-23 12:39
 ---
+
+> [!figure] Item
+![](04_Resources/Assets/Generated/Items/item-artifact-ruby-of-the-war-mage-xdmg-ruby-of-the-war-mage-xdmg.svg)
+
 # Ruby of the War Mage
 *Wondrous item, common (requires attunement by a spellcaster)*  
 

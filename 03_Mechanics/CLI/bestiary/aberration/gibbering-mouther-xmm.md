@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Gibbering Mouther
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-gibbering-mouther-xmm-gibbering-mouther-xmm.svg)
+
 # [Gibbering Mouther](3-Mechanics\CLI\bestiary\aberration/gibbering-mouther-xmm.md)
 *Source: Monster Manual (2024) p. 133. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -24,6 +24,10 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
+> [!figure] View
+![](04_Resources/Assets/Generated/Locations/location-city-port-meridian-market-square-port-meridian-market-square.svg)
+
+
 
 
 # Port Meridian - Market Square

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Babau
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-babau-mpmm-babau-mpmm.svg)
+
 # [Babau](3-Mechanics\CLI\bestiary\fiend/babau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 

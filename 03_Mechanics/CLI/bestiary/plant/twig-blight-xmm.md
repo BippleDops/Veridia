@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Twig Blight
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-twig-blight-xmm-twig-blight-xmm.svg)
+
 # [Twig Blight](3-Mechanics\CLI\bestiary\plant/twig-blight-xmm.md)
 *Source: Monster Manual (2024) p. 43*  
 

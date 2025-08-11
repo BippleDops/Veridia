@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Orthon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-orthon-mpmm-orthon-mpmm.svg)
+
 # [Orthon](3-Mechanics\CLI\bestiary\fiend/orthon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 205, Mordenkainen's Tome of Foes p. 169*  
 

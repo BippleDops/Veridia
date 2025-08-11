@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Ankheg
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-ankheg-xmm-ankheg-xmm.svg)
+
 # [Ankheg](3-Mechanics\CLI\bestiary\monstrosity/ankheg-xmm.md)
 *Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Draegloth
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-draegloth-mpmm-draegloth-mpmm.svg)
+
 # [Draegloth](3-Mechanics\CLI\bestiary\fiend/draegloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 

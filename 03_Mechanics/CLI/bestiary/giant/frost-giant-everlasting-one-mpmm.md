@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Frost Giant Everlasting One
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-frost-giant-everlasting-one-mpmm-frost-giant-everlasting-one-mpmm.svg)
+
 # [Frost Giant Everlasting One](3-Mechanics\CLI\bestiary\giant/frost-giant-everlasting-one-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
 

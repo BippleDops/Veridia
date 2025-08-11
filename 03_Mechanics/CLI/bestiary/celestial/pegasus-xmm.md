@@ -17,6 +17,10 @@ statblock-link: '#^statblock'
 aliases:
   - Pegasus
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-pegasus-xmm-pegasus-xmm.svg)
+
 # [Pegasus](3-Mechanics\CLI\bestiary\celestial/pegasus-xmm.md)
 *Source: Monster Manual (2024) p. 235. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Death Slaad
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-death-slaad-xmm-death-slaad-xmm.svg)
+
 # [Death Slaad](3-Mechanics\CLI\bestiary\aberration/death-slaad-xmm.md)
 *Source: Monster Manual (2024) p. 287*  
 

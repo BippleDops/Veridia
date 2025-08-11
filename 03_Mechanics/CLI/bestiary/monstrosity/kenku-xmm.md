@@ -16,6 +16,10 @@ statblock-link: '#^statblock'
 aliases:
   - Kenku
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-kenku-xmm-kenku-xmm.svg)
+
 # [Kenku](3-Mechanics\CLI\bestiary\monstrosity/kenku-xmm.md)
 *Source: Monster Manual (2024) p. 183*  
 

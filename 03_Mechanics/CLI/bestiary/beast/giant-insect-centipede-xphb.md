@@ -12,6 +12,10 @@ statblock-link: '#^statblock'
 aliases:
   - Giant Insect (Centipede)
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-centipede-xphb-giant-insect-centipede-xphb.svg)
+
 # [Giant Insect (Centipede)](3-Mechanics\CLI\bestiary\beast/giant-insect-centipede-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Adult Green Dragon
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)
+
 # [Adult Green Dragon](3-Mechanics\CLI\bestiary\dragon/adult-green-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 153. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

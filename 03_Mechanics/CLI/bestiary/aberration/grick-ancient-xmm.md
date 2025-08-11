@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Grick Ancient
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-grick-ancient-xmm-grick-ancient-xmm.svg)
+
 # [Grick Ancient](3-Mechanics\CLI\bestiary\aberration/grick-ancient-xmm.md)
 *Source: Monster Manual (2024) p. 158*  
 

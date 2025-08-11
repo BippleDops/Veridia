@@ -14,6 +14,10 @@ statblock-link: '#^statblock'
 aliases:
   - Star Spawn Grue
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-star-spawn-grue-mpmm-star-spawn-grue-mpmm.svg)
+
 # [Star Spawn Grue](3-Mechanics\CLI\bestiary\aberration/star-spawn-grue-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  
 

@@ -13,6 +13,10 @@ statblock-link: '#^statblock'
 aliases:
   - Frost Salamander
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-frost-salamander-mpmm-frost-salamander-mpmm.svg)
+
 # [Frost Salamander](3-Mechanics\CLI\bestiary\elemental/frost-salamander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132, Mordenkainen's Tome of Foes p. 223*  
 

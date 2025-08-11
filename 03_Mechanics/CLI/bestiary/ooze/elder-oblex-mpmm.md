@@ -15,6 +15,10 @@ statblock-link: '#^statblock'
 aliases:
   - Elder Oblex
 ---
+
+> [!figure] Creature
+![](04_Resources/Assets/Generated/Creatures/creature-creature-elder-oblex-mpmm-elder-oblex-mpmm.svg)
+
 # [Elder Oblex](3-Mechanics\CLI\bestiary\ooze/elder-oblex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 199, Mordenkainen's Tome of Foes p. 219*  
 

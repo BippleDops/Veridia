@@ -289,13 +289,16 @@ Courtroom proceedings offer chances for characters to develop public speaking, p
 - **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative body that creates the laws the Courts interpret
 - **[[02_Worldbuilding/Places/Abyssos Prime Government]]**: Executive authority that enforces Court decisions
 - **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Law enforcement agency that brings cases to Court
-- **[[02_Worldbuilding/Places/Royal Palace]]**: Ultimate appeals authority for the most serious constitutional matters
+- **[[02_Worldbuilding/Places/The Royal Palace]]**: Ultimate appeals authority for the most serious constitutional matters
+- **[[02_Worldbuilding/Places/Port Meridian Harbor]]**: Harbor disputes and maritime law cases originate here
 
 ### Professional Networks
 - **[[02_Worldbuilding/Groups/Merchants Guild]]**: Major source of commercial law cases
 - **[[02_Worldbuilding/People/Keeper of Contracts Minerva Bindingword]]**: Specialist in contract and constitutional law
 - **[[02_Worldbuilding/People/Garden Keeper Zen Currentdancer]]**: Coral cultivation and maintenance expert
 - **[[02_Worldbuilding/People/Mediator Serenity Stillwater]]**: Alternative dispute resolution specialist
+- **[[02_Worldbuilding/Places/The Shadow Markets]]**: Source of criminal cases and legal challenges
+- **[[02_Worldbuilding/Places/Port Meridian - Market Square]]**: Commercial disputes from surface trade connections
 
 ### Academic and Research Connections
 - **[[02_Worldbuilding/Lore/Legal System of Aquabyssos]]**: Theoretical framework underlying Court operations
@@ -308,5 +311,7 @@ Courtroom proceedings offer chances for characters to develop public speaking, p
 - **[[02_Worldbuilding/Places/Royal Vault]]**: Secure storage for sensitive legal documents and evidence
 - **[[02_Worldbuilding/Lore/Corruption Tracking]]**: Monitoring systems for detecting threats to judicial integrity
 - **[[02_Worldbuilding/Lore/Environmental Hazards]]**: Safety protocols for the living coral environment
+- **[[02_Worldbuilding/Groups/Depth Wardens]]**: Primary law enforcement bringing cases to court
+- **[[02_Worldbuilding/Places/Throne Room - Heart of Palace]]**: Constitutional court appeals venue
 
 The Coral Courts represent the living embodiment of justice in Aquabyssos, serving not just as functional legal facilities but as monuments to the realm's commitment to fairness, wisdom, and the organic evolution of legal understanding. Their unique combination of natural growth, magical enhancement, and deep cultural integration makes them one of the most distinctive and important institutions in the underwater realm.

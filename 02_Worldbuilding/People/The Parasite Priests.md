@@ -373,8 +373,22 @@ Disagreements about forced versus voluntary transformation, the pace of the Grea
 - [[02_Worldbuilding/Places/Parliament of Echoes]] - Political infiltration target
 - [[02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents
 
-### Intelligence Network Connections
-- [[02_Worldbuilding/People/Shadow Conspiracy]] - Potential information trading partners
-- [[02_Worldbuilding/People/Shadow Broker Mist]] - Competing information broker
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Transportation and supply network
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Recruitment and resource acquisition
+### Professional Networks & Infiltration
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Views cult's memory extraction techniques as exploitative and dangerous
+- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Cult seeks access to memories related to parasitic evolution and divine symbiosis
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military intelligence monitoring cult activities and recruitment patterns
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]**: Cult studies his divine transformation as model for their own symbiotic evolution
+- **Medical Research Community**: Infiltrated academic institutions studying biological enhancement and parasitic relationships
+
+### Underground & Shadow Networks
+- **[[02_Worldbuilding/People/Shadow Conspiracy]]**: Potential information trading partners about government infiltration
+- **[[02_Worldbuilding/People/Shadow Broker Mist]]**: Competing information broker with knowledge of cult activities
+- **[[02_Worldbuilding/Groups/Independent Smugglers]]**: Transportation and supply network for cult materials and operations
+- **[[02_Worldbuilding/Places/The Shadow Markets]]**: Recruitment venue and resource acquisition center
+- **[[02_Worldbuilding/People/Tenebrarum Ambassadors]]**: Diplomatic interest in cult's shadow-touched research and abilities
+
+### Political & Religious Opposition
+- **[[Throne of Bubbles]]**: Royal authority viewing cult as threat to citizen welfare and political stability
+- **Religious Orthodox Communities**: Mainstream faiths condemning cult theology as heretical corruption
+- **[[02_Worldbuilding/Groups/Crystal Wardens]]**: Military forces investigating cult's potential threat to realm security
+- **Government Health Agencies**: Medical authorities treating cult activities as biological terrorism threat

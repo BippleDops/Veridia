@@ -67,9 +67,23 @@ Effects persist based on exposure level:
 
 ## Key Figures
 
-- **[[High Priestess Nerida Deepcurrent]]**: Leads the largest Deep Mother cult in [[Aquabyssos]], operating from [[Temple of the First Tide]]
-- **[[Captain Hadal Voidwright]]**: Surface explorer from [[Aethermoor]] who claims to have seen her physical form in [[Leviathan Graveyard]]
-- **[[The Abyssal Prophet]]**: Anonymous figure leaving cryptic warnings about her awakening, possibly connected to [[The Crimson Hand]]
+### Primary Investigators and Experts
+
+- **[[High Priestess Nerida Deepcurrent]]**: Leads the largest Deep Mother cult in [[Aquabyssos]], operating from [[Temple of the First Tide]] and coordinating with [[The Restoration Movement]]'s religious faction
+- **[[Captain Hadal Voidwright]]**: Surface explorer from [[Aethermoor]] who claims to have seen her physical form in [[Leviathan Graveyard]], now working with [[Investigation Procedures]] to document his experiences
+- **[[The Abyssal Prophet]]**: Anonymous figure leaving cryptic warnings about her awakening, possibly connected to [[The Crimson Hand]] or operating as a [[Silver Mask]] identity
+
+### Research and Academic Specialists  
+
+- **[[Archive-Prince Mnemonic]]**: Deep-sea librarian maintaining crucial records of Deep Mother encounters and their connection to [[Memory Trader]] activities
+- **[[Biomancer Corvus Intestinal]]**: Researcher studying biological changes in Deep Mother-influenced individuals, collaborating with [[Crystal Forest]] life-integration projects
+- **[[Thalassius the Wise]]**: Ancient scholar who documented early Deep Mother manifestations and their relationship to [[The Great Convergence Prophecies]]
+
+### Political and Economic Connections
+
+- **[[Aurelius Goldwave]]**: Merchant prince whose deep-sea trading expeditions sometimes encounter Deep Mother influences, connecting to [[The Silverscale Conspiracy]]'s resource networks
+- **[[Director Hadrian Silverscale]]**: Banking house leader suspected of funding Deep Mother research through [[Silverscale Emergency Bunker]] operations
+- **[[Memory Merchant Valeria]]**: Professional memory trader who specializes in Deep Mother-related consciousness experiences and their market value through [[Umbral Exchange]]
 
 ## Mysteries
 
@@ -80,9 +94,23 @@ Effects persist based on exposure level:
 
 ## Adventure Hooks
 
-1. **The Deep Calling**: Party members begin experiencing strange dreams compelling them toward the deepest ocean trenches
-2. **Ritual Interruption**: Cultists attempt to perform a ceremony to strengthen her influence - stop them or join them?
-3. **The Changed Expedition**: Rescue a deep-sea exploration team that has been missing for months, only to find they no longer wish to return to the surface
+### Investigation and Research Missions
+
+1. **The Deep Calling**: Party members begin experiencing strange dreams compelling them toward the deepest ocean trenches, potentially connecting to [[Investigation Procedures]] for documenting supernatural influences
+2. **Ritual Interruption**: Cultists attempt to perform a ceremony to strengthen her influence - stop them or join them? Investigation requires use of [[Evidence Chain Analysis]] and [[Interrogation Techniques]]
+3. **The Changed Expedition**: Rescue a deep-sea exploration team that has been missing for months, only to find they no longer wish to return to the surface. This connects to [[Surface Dweller Adaptation]] challenges and [[Memory Alteration Consequences]]
+
+### Cross-World Investigations
+
+4. **The Aethermoor Connection**: Strange dreams of underwater visions plague surface dwellers, requiring investigation using [[Evidence Types Guide]] and coordination with [[Silver Mask]] intelligence networks
+5. **Crystal Corruption Patterns**: Investigation into whether Deep Mother influence is connected to [[Crystal Corruption Taboos]] and the spread of [[Shadow Magic Integration Practices]]
+6. **The Lighthouse Signal**: [[The Lighthouse of Storms]] begins receiving signals that match Deep Mother consciousness patterns, requiring joint investigation by [[Aethermoor]] and [[Aquabyssos]] experts
+
+### Cultural and Religious Investigations
+
+7. **The Restoration Divide**: [[The Restoration Movement]] splits over whether the Deep Mother represents traditional values or dangerous innovation, with characters investigating factional conflicts
+8. **Temple Politics**: Tensions arise between [[Temple of the First Tide]] and radical Deep Mother cultists, requiring diplomatic investigation and [[Reputation System]] management
+9. **Merchant Mysteries**: [[Memory Trader]] networks report clients seeking memories of Deep Mother encounters, leading to investigation of [[Umbral Exchange]] black market activities
 
 ## Secrets (DM Only)
 
@@ -114,10 +142,16 @@ The Deep Mother is not malevolent - she represents the ocean's natural cycle of 
 - [[Memory Tide Events]] - Manifestations of her consciousness affecting reality
 
 ### Related Magic and Technology
-- [[Deep Mother Lore]] - Accumulated knowledge about her nature
-- [[Pressure Adaptation System]] - Technology needed to explore her domain
-- [[Tidal Memory Ceremonies]] - Rituals connected to her influence
-- [[Underwater Breathing]] - Essential for deep communion attempts
+- [[Deep Mother Lore]] - Accumulated knowledge about her nature and investigation methods
+- [[Pressure Adaptation System]] - Technology needed to explore her domain and resist her influence
+- [[Tidal Memory Ceremonies]] - Rituals connected to her influence, managed through [[Temple of the First Tide]]
+- [[Underwater Breathing]] - Essential for deep communion attempts and survival during encounters
+- [[Crystal Forest]] - Bio-magical research into Deep Mother biological integration effects
+- [[Shadow Magic Integration Practices]] - Techniques for managing shadow corruption from Deep Mother exposure
+- [[Environmental Hazards]] - Dangerous conditions created by Deep Mother activity
+- [[Corruption Tracking]] - Systems for monitoring Deep Mother influence spread
+- [[Memory Alteration Consequences]] - Effects of Deep Mother consciousness exposure
+- [[Reality Merge Zones]] - Areas where Deep Mother influence creates dimensional instability
 
 ## Campaign Use
 

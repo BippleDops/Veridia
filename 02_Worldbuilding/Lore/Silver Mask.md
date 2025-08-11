@@ -313,25 +313,25 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 ### Investigation Approaches
 
 **Identity Verification:**
-- **Document Analysis**: Examine the creation and verification of identity documents
-- **Timeline Construction**: Map all confirmed Silver Mask appearances chronologically  
-- **Resource Tracking**: Follow financial and material resources supporting each identity
-- **Network Analysis**: Identify individuals who interact consistently with different identities
-- **Technology Investigation**: Study equipment and capabilities displayed by Silver Mask
+- **Document Analysis**: Examine the creation and verification of identity documents using [[Evidence Types Guide]] methodologies
+- **Timeline Construction**: Map all confirmed Silver Mask appearances chronologically using [[Timeline of Crimes]] analysis techniques
+- **Resource Tracking**: Follow financial and material resources supporting each identity through [[The Silverscale Conspiracy]] banking networks
+- **Network Analysis**: Identify individuals who interact consistently with different identities, applying [[Evidence Chain Analysis]] to connections
+- **Technology Investigation**: Study equipment and capabilities displayed by Silver Mask, potentially linking to [[Crystal Forest]] advanced technologies
 
 **Pattern Recognition:**
-- **Behavioral Analysis**: Identify consistent behaviors across different identities
-- **Communication Patterns**: Analyze methods and timing of Silver Mask communications
-- **Target Selection**: Understand why Silver Mask chooses specific identities and activities
-- **Response Analysis**: Study how Silver Mask reacts to investigation pressure
-- **Predictive Modeling**: Attempt to predict future Silver Mask activities based on historical patterns
+- **Behavioral Analysis**: Identify consistent behaviors across different identities using [[Investigation Procedures]] behavioral profiling
+- **Communication Patterns**: Analyze methods and timing of Silver Mask communications, cross-referencing with [[The Crimson Hand]] communication signatures
+- **Target Selection**: Understand why Silver Mask chooses specific identities and activities, potentially linking to [[The Great Convergence Prophecies]] strategic positioning
+- **Response Analysis**: Study how Silver Mask reacts to investigation pressure using [[Interrogation Techniques]] response modeling
+- **Predictive Modeling**: Attempt to predict future Silver Mask activities based on historical patterns, coordinating with [[Memory Trader]] pattern analysis specialists
 
 **Counter-Intelligence:**
-- **False Information**: Provide misleading information to test Silver Mask's intelligence sources
-- **Surveillance Deception**: Use false surveillance efforts to identify how Silver Mask monitors investigations
-- **Identity Traps**: Create scenarios designed to force Silver Mask to reveal true capabilities
-- **Network Disruption**: Target support networks that enable Silver Mask operations
-- **Technological Countermeasures**: Develop tools designed to defeat Silver Mask's apparent advantages
+- **False Information**: Provide misleading information to test Silver Mask's intelligence sources, coordinating with [[The Restoration Movement]] information networks
+- **Surveillance Deception**: Use false surveillance efforts to identify how Silver Mask monitors investigations, utilizing [[Silverscale Emergency Bunker]] secure communications
+- **Identity Traps**: Create scenarios designed to force Silver Mask to reveal true capabilities, potentially involving [[Deep Mother Cult Practices]] spiritual detection methods
+- **Network Disruption**: Target support networks that enable Silver Mask operations, investigating connections to [[Umbral Exchange]] resource networks
+- **Technological Countermeasures**: Develop tools designed to defeat Silver Mask's apparent advantages, potentially utilizing [[Crystal Forest]] detection crystals and [[Shadow Magic Integration Practices]] protection methods
 
 ## Red Herrings and False Leads
 
@@ -432,11 +432,26 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 ## Connected Elements and Cross-References
 
 ### Key NPCs and Organizations
-- [[The Silverscale Conspiracy]] - Financial network connections and operational coordination
-- [[The Crimson Hand]] - Shadow operations and cross-dimensional conspiracy activities
-- [[Memory Merchant Valeria]] - Possible connection to memory manipulation techniques
-- [[Investigative Chronicler Darius Truthseeker]] - Leading researcher on Silver Mask activities
-- [[Director Hadrian Silverscale]] - Possible coordination with banking house operations
+
+**Primary Investigation Networks:**
+- [[Investigative Chronicler Darius Truthseeker]] - Leading researcher on Silver Mask activities, coordinates with [[Timeline of Crimes]] documentation efforts
+- [[Archive-Prince Mnemonic]] - Deep-sea librarian maintaining records of cross-dimensional conspiracy activities
+- [[High Priestess Nerida Deepcurrent]] - Religious leader potentially involved in spiritual detection of identity manipulation
+
+**Conspiracy Network Connections:**
+- [[The Silverscale Conspiracy]] - Financial network connections and operational coordination through banking systems
+- [[The Crimson Hand]] - Shadow operations and cross-dimensional conspiracy activities, potential Silver Mask employer
+- [[Director Hadrian Silverscale]] - Banking house leader potentially coordinating Silver Mask operations through [[Silverscale Emergency Bunker]]
+
+**Professional Service Providers:**
+- [[Memory Merchant Valeria]] - Possible connection to memory manipulation techniques and identity alteration services
+- [[Memory Trader]] - Networks that may facilitate Silver Mask's identity management and information acquisition
+- [[Aurelius Goldwave]] - Merchant prince whose networks may overlap with Silver Mask's resource requirements
+
+**Potential Targets and Assets:**
+- [[Queen Seraphina Lumengarde]] - High-value political target for Silver Mask influence operations
+- [[Thalassius the Wise]] - Scholar who may possess knowledge about identity magic and dimensional manipulation
+- [[The Restoration Movement]] - Political organization potentially infiltrated or influenced by Silver Mask
 
 ### Related Locations
 - [[Crystal Forest]] - Possible source of mask materials and crystal technology
@@ -453,11 +468,25 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 - [[02_Worldbuilding/Items/Dimensional Communication Arrays]] - Equipment possibly used for cross-dimensional coordination
 
 ### Investigation Resources
-- [[Investigation Procedures]] - Standard methodologies for Silver Mask cases
-- [[Evidence Types Guide]] - Classification system for Silver Mask-related evidence
-- [[INV-003]] through [[INV-009]] - Active investigation files potentially related to Silver Mask
-- [[Interrogation Techniques]] - Specialized approaches for witnesses affected by Silver Mask
-- [[02_Worldbuilding/Systems/Counter-Intelligence Methods]] - Techniques for investigating identity-shifting operatives
+
+**Standard Investigative Tools:**
+- [[Investigation Procedures]] - Standard methodologies for Silver Mask cases, adapted for identity-shifting targets
+- [[Evidence Types Guide]] - Classification system for Silver Mask-related evidence and pattern recognition
+- [[Evidence Chain Analysis]] - Methodologies for connecting disparate Silver Mask activities across multiple identities
+- [[Interrogation Techniques]] - Specialized approaches for witnesses affected by Silver Mask memory manipulation
+
+**Active Case Files:**
+- [[INV-001]] - Cross-references to early Silver Mask sighting reports
+- [[INV-004]] - Financial irregularities potentially linked to Silver Mask resource networks
+- [[INV-005]] - Missing persons cases that may involve Silver Mask identity theft
+- [[Timeline of Crimes]] - Chronological analysis of Silver Mask activities and their broader impact
+
+**Specialized Investigation Support:**
+- [[Memory Alteration Consequences]] - Understanding and detecting memory manipulation effects
+- [[Corruption Tracking]] - Systems for monitoring supernatural influences on investigations
+- [[Reputation System]] - Social network analysis for tracking Silver Mask's influence operations
+- [[Crystal Forest]] - Scientific analysis of potentially supernatural mask materials and properties
+- [[Environmental Hazards]] - Assessment tools for investigating dangerous Silver Mask operation sites
 
 ---
 

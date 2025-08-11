@@ -94,9 +94,9 @@ Recent years have seen increased sophistication in movement organization, with d
 
 **Leader**: [[Political Leader Reef-Crown]]
 **Philosophy**: Gradual restoration of traditional values through democratic processes
-**Methods**: Electoral politics, cultural education, religious revival
-**Membership**: ~50,000 active supporters, broader sympathizer network
-**Influence**: Significant in regional politics, moderate in national affairs
+**Methods**: Electoral politics, cultural education, religious revival through [[Temple of the First Tide]] partnerships
+**Membership**: ~50,000 active supporters, broader sympathizer network coordinating through [[Reputation System]] influence networks
+**Influence**: Significant in regional politics, moderate in national affairs, with strong connections to [[Aquabyssos Depth Caste System]] traditional hierarchies
 
 The Democratic Traditionalists represent the most moderate and politically successful faction within the Restoration Movement. They accept democratic governance as legitimate while seeking to influence it toward traditional values and practices. Their approach emphasizes patient, long-term change through education, religious renewal, and democratic participation.
 
@@ -114,9 +114,9 @@ The Democratic Traditionalists represent the most moderate and politically succe
 
 **Leader**: [[High Restorer Tidal-Crown Maraleth]]
 **Philosophy**: Complete restoration of traditional monarchical governance
-**Methods**: Religious authority, alternative governance structures, revolutionary preparation
-**Membership**: ~25,000 committed activists, extensive underground network
-**Influence**: Limited in formal politics, significant in traditional religious communities
+**Methods**: Religious authority through [[Deep Mother Cult Practices]], alternative governance structures, revolutionary preparation coordinating with [[The Crimson Hand]] shadow networks
+**Membership**: ~25,000 committed activists, extensive underground network utilizing [[Umbral Exchange]] communication systems
+**Influence**: Limited in formal politics, significant in traditional religious communities and [[Crystal Forest]] resource extraction territories
 
 The Pure Restorationists reject democratic governance entirely, viewing it as a historical aberration that must be completely replaced with restored traditional monarchy. They emphasize religious authority, hereditary legitimacy, and the sacred nature of traditional governance structures.
 
@@ -133,10 +133,10 @@ The Pure Restorationists reject democratic governance entirely, viewing it as a 
 ### The Sacred Covenant Brotherhood
 
 **Leader**: [[Warrior-Priest Abyss-Sworn]]
-**Philosophy**: Military restoration backed by religious authority
-**Methods**: Military organization, strategic planning, alliance building
-**Membership**: ~15,000 trained members, military and veterans focus
-**Influence**: Limited but concentrated, significant concern to security services
+**Philosophy**: Military restoration backed by religious authority from [[The Deep Mother]] and traditional warrior codes
+**Methods**: Military organization through [[Fear Farms]] training facilities, strategic planning, alliance building with [[The Seven Betrayers]] descendant bloodlines
+**Membership**: ~15,000 trained members, military and veterans focus, recruiting from [[Surface Dweller Adaptation]] communities
+**Influence**: Limited but concentrated, significant concern to security services and [[Investigation Procedures]] monitoring networks
 
 The Sacred Covenant Brotherhood represents the most militant faction within the Restoration Movement, focusing on military approaches to political change. Led by former military officers and traditionalist warriors, they emphasize preparation for potential armed conflict while maintaining public commitment to peaceful methods.
 
@@ -294,19 +294,23 @@ The Restoration Movement continues to evolve in response to changing circumstanc
 
 ### Political Intrigue Adventures
 
-**The Restoration Conspiracy**: Characters could become involved in investigating or preventing a Restoration Movement plot to overthrow democratic governance, requiring navigation of complex political loyalties and competing definitions of legitimacy and loyalty.
+**The Restoration Conspiracy**: Characters could become involved in investigating or preventing a Restoration Movement plot to overthrow democratic governance, requiring use of [[Investigation Procedures]] and [[Evidence Chain Analysis]] while navigating complex political loyalties and competing definitions of legitimacy and loyalty.
 
-**Electoral Manipulation**: A campaign could involve characters investigating or participating in electoral contests where Restoration Movement factions attempt to achieve their objectives through democratic processes, creating ethical dilemmas about supporting or opposing democratic participation by anti-democratic groups.
+**Electoral Manipulation**: A campaign could involve characters investigating or participating in electoral contests where Restoration Movement factions attempt to achieve their objectives through democratic processes, utilizing [[Reputation System]] mechanics and [[Interrogation Techniques]] to uncover vote manipulation schemes connected to [[The Silverscale Conspiracy]].
 
-**Diplomatic Tensions**: International implications of the Restoration Movement could draw characters into diplomatic missions involving neighboring powers concerned about political instability in [[Aquabyssos]] or opportunities created by internal political divisions.
+**Diplomatic Tensions**: International implications of the Restoration Movement could draw characters into diplomatic missions involving neighboring powers concerned about political instability in [[Aquabyssos]] or opportunities created by internal political divisions, potentially involving coordination with [[Silver Mask]] intelligence networks and [[The Great Convergence Prophecies]] strategic considerations.
+
+**The Shadow Alliance**: Investigation reveals connections between Restoration Movement extremists and [[The Crimson Hand]], requiring characters to navigate the dangerous intersection of political ideology and cosmic conspiracy while managing [[Memory Alteration Consequences]] from exposure to supernatural influence.
 
 ### Cultural and Religious Missions
 
-**Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, uncovering historical mysteries, ancient powers, or political secrets that complicate simple cultural preservation projects.
+**Sacred Site Restoration**: Characters might be hired to assist in restoring ancient temples or religious sites, potentially uncovering connections to [[Temple of the First Tide]] traditional architecture, [[The Seven Betrayers]] historical sites, or [[Deep Mother Cult Practices]] sacred locations that complicate simple cultural preservation projects.
 
-**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research, exploration, and potential conflicts with other parties seeking the same materials for different purposes.
+**Artifact Recovery**: Movement efforts to recover traditional cultural artifacts could involve characters in adventures that combine historical research through [[Archive-Prince Mnemonic]]'s collections, exploration of [[Leviathan Graveyard]] ruins, and potential conflicts with [[The Crimson Hand]] operatives seeking the same materials for convergence-related purposes.
 
-**Religious Conflicts**: Tensions between traditional and modern religious practices could create missions involving characters in mediating disputes, protecting religious freedom, or investigating alleged religious persecution by various parties.
+**Religious Conflicts**: Tensions between traditional and modern religious practices could create missions involving characters in mediating disputes using [[Reputation System]] diplomatic mechanics, protecting religious freedom while investigating connections to [[Memory Trader]] memory manipulation, or uncovering alleged religious persecution by [[Silver Mask]] infiltrators in government positions.
+
+**The Convergence Divide**: The movement splits over interpretation of [[The Great Convergence Prophecies]], with characters navigating factional conflicts while investigating whether [[The Deep Mother]]'s influence is affecting religious visions and traditional practices through [[Tidal Memory Ceremonies]] corruption.
 
 ### Historical Investigation Adventures
 

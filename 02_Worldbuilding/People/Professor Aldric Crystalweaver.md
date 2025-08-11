@@ -181,6 +181,13 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 - **Professor Thesis Bookworm** - Colleague who documents his discoveries (and accidents)
 - **[[The Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
 
+### Cross-Realm Research Collaborations
+- **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
+  - Studies crystalline formations found on divine entities in deepest ocean trenches
+  - Analyzes how crystal resonance patterns correlate with cosmic consciousness
+  - Develops early warning systems using crystal-based divine activity detection
+  - Collaborates on understanding how divine awakening affects crystal matrices
+
 ### Research Associates
 - **Assistant Tink Sparkgear** - Young gnome who helps with dangerous experiments (voluntarily)
 - **Dr. Vera Mindbridge** - Medical researcher who treats his experimental subjects

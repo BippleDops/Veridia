@@ -107,6 +107,12 @@ Valeria Siltweave represents the reformed wing of the [[Memory Farmers]] movemen
 - **Community Leaders** - Local officials who value her contribution to society
 - **Reform Advocates** - Activists working for memory rights and protection
 
+### Military & Security Alliances
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Military protection for ethical businesses and civilian rights
+- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Provides security intelligence about memory-related crimes
+- **Civilian Protection Services**: Coordinates with military for citizen safety during memory trade disputes
+- **Legal Enforcement**: Works with military investigators on memory trafficking cases
+
 ## Relationships
 ### Allied Memory Workers
 - **[[Memory Harvester Kythara]]**: Shares commitment to protecting sacred aspects of memory

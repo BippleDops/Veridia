@@ -9,6 +9,10 @@ updated: 2025-08-11
 location_name: "The Forge of War"
 location_type: "Military Industrial Complex"
 parent_location: "[[Abyssos Prime]]"
+connected_locations:
+  - "[[The Royal Palace]]"
+  - "[[Port Meridian Harbor]]"
+  - "[[Depth Wardens]]"
 sub_locations:
   - "[[The Pressure Forges]]"
   - "[[Arsenal of the Deep]]"

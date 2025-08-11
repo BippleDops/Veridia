@@ -100,9 +100,9 @@ The Shadow Markets are organized into five distinct operational spheres, each go
 **Current Operations**:
 - Manipulating the upcoming [[Parliament of Echoes]] elections
 - Corrupting the [[Depth Wardens]] to ignore certain criminal activities
-- Influencing trade regulations to benefit smuggling operations
-- Protecting key criminal enterprises from law enforcement raids
-- Coordinating with [[Shadow Chancellor]] for high-level political manipulation
+- Influencing trade regulations to benefit smuggling operations via [[Port Meridian Harbor]]
+- Protecting key criminal enterprises from law enforcement raids and [[Coral Courts]] prosecution
+- Coordinating with [[Shadow Chancellor]] for high-level political manipulation affecting [[The Royal Palace]]
 
 ### The Mystical Sphere
 **Function**: Magical services, supernatural trade, and otherworldly connections
@@ -277,10 +277,10 @@ Communal treasury supporting market operations:
 
 **[[02_Worldbuilding/Places/Shadow Market Canals]]**
 Transportation and logistics partnership:
-- Discrete movement of goods and people between locations
+- Discrete movement of goods and people between locations including [[Port Meridian Harbor]]
 - Shared security protocols and mutual defense agreements
 - Coordinated pricing and territory agreements
-- Joint operations for major criminal enterprises
+- Joint operations for major criminal enterprises connecting to [[Port Meridian - Market Square]]
 
 **[[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]**
 Cross-realm criminal organization:
@@ -479,7 +479,7 @@ A plan emerges to rob the Markets themselves, requiring the party to choose side
 ### Hidden Truths
 
 **The Royal Connection**
-The Shadow Markets pay tribute to the royal family through [[02_Worldbuilding/Places/Secret Vault Beneath Throne]], making them technically a legitimate business enterprise.
+The Shadow Markets pay tribute to the royal family through [[02_Worldbuilding/Places/Secret Vault Beneath Throne]], making them technically a legitimate business enterprise with connections to [[02_Worldbuilding/Places/The Royal Palace]].
 
 **The Prophecy Traders**
 A secret sub-market deals in prophecies and future knowledge, with traders who may not be entirely human.

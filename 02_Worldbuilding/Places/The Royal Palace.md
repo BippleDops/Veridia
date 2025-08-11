@@ -9,10 +9,10 @@ created: 2025-08-08
 
 # The Royal Palace
 
-*"Crown jewel of Aethermoor, where majesty meets responsibility."*
+*"Crown jewel of [[Aethermoor]], where majesty meets responsibility."*
 
 ## Overview
-The Royal Palace is the magnificent seat of power for the Kingdom of Aethermoor, a sprawling complex of interconnected buildings, gardens, and defensive structures. This architectural masterpiece serves as home to the royal family and center of governmental authority.
+The Royal Palace is the magnificent seat of power for the Kingdom of [[Aethermoor]], a sprawling complex of interconnected buildings, gardens, and defensive structures. This architectural masterpiece serves as home to the royal family and center of governmental authority. The palace works in close coordination with other key government facilities including the [[Royal Palace of Meridian]], [[Throne Room - Heart of Palace]], and the beautiful [[Palace Courtyard - Crystal Garden]].
 
 ## Architectural Features
 **Crystal Spires**: Towering structures channeling magical energy throughout complex
@@ -43,11 +43,11 @@ The Royal Palace is the magnificent seat of power for the Kingdom of Aethermoor,
 **Palace Staff**: Hundreds of servants maintaining daily operations
 
 ## Key Personnel
-**Lord Chancellor**: Chief administrator coordinating governmental activities
-**Court Wizard**: Magical advisor providing arcane expertise
-**Captain of Guards**: Military commander responsible for palace security
-**Master of Ceremonies**: Official organizing formal events and protocol
-**Royal Treasurer**: Financial minister managing kingdom's resources
+**Lord Chancellor**: Chief administrator coordinating governmental activities with [[Parliament of Echoes]]
+**Court Wizard**: Magical advisor providing arcane expertise, working with [[Master Artificers Guild]]
+**Captain of Guards**: Military commander responsible for palace security, coordinating with [[Depth Wardens]]
+**Master of Ceremonies**: Official organizing formal events and protocol in the [[Throne Room - Heart of Palace]]
+**Royal Treasurer**: Financial minister managing kingdom's resources and [[Royal Vault]]
 
 ## Daily Schedule
 **Dawn Court**: Early morning audiences for urgent matters
@@ -57,11 +57,11 @@ The Royal Palace is the magnificent seat of power for the Kingdom of Aethermoor,
 **Evening Entertainment**: Cultural events and social gatherings
 
 ## Political Functions
-**Legislative Assembly**: Noble council advising on laws and policies
-**Judicial Court**: Royal justice system for serious crimes
-**Diplomatic Reception**: International relations and treaty negotiations
-**Military Command**: Strategic planning and defense coordination
-**Economic Planning**: Trade policy and financial decision-making
+**Legislative Assembly**: Noble council advising on laws and policies, working with [[Parliament of Echoes]]
+**Judicial Court**: Royal justice system for serious crimes, coordinating with [[Coral Courts]]
+**Diplomatic Reception**: International relations and treaty negotiations with [[Aquabyssos]]
+**Military Command**: Strategic planning and defense coordination with [[Depth Wardens]]
+**Economic Planning**: Trade policy and financial decision-making affecting [[Port Meridian - Market Square]]
 
 ## Cultural Significance
 - Symbol of national identity and royal authority
@@ -71,25 +71,25 @@ The Royal Palace is the magnificent seat of power for the Kingdom of Aethermoor,
 - Educational center for noble children and diplomatic training
 
 ## Recent Developments
-- Major renovation project updating magical infrastructure
- - Increased security measures following recent assassination attempt
-- Diplomatic crisis requiring enhanced foreign representative protection
-- Royal wedding preparations creating logistical challenges
-- Economic summit bringing together international trade delegations
+- Major renovation project updating magical infrastructure with [[Master Artificers Guild]]
+ - Increased security measures following recent assassination attempt, coordinating with [[Depth Wardens]]
+- Diplomatic crisis requiring enhanced foreign representative protection from [[Aquabyssos]]
+- Royal wedding preparations creating logistical challenges in [[Palace Courtyard - Crystal Garden]]
+- Economic summit bringing together international trade delegations from [[Port Meridian Harbor]]
 
 ## Adventure Opportunities
-**Court Intrigue**: Political conspiracies and noble rivalries
-**Diplomatic Missions**: International negotiations and espionage
-**Royal Protection**: Bodyguard duties during dangerous situations
-**Palace Mysteries**: Investigating crimes and supernatural occurrences
-**Historical Quests**: Recovering royal artifacts and exploring palace history
+**Court Intrigue**: Political conspiracies and noble rivalries involving [[Parliament of Echoes]]
+**Diplomatic Missions**: International negotiations and espionage with [[Aquabyssos]] representatives
+**Royal Protection**: Bodyguard duties during dangerous situations in [[Throne Room - Heart of Palace]]
+**Palace Mysteries**: Investigating crimes and supernatural occurrences in [[Ancient Tunnels Beneath Palace]]
+**Historical Quests**: Recovering royal artifacts from [[Royal Vault]] and exploring palace history
 
 ## Notable Locations Within
-**The Crystal Throne**: Magical seat of royal authority
-**Royal Treasury**: Vault containing kingdom's wealth and artifacts
+**The Crystal Throne**: Magical seat of royal authority housed in the [[Throne Room - Heart of Palace]]
+**Royal Treasury**: Vault containing kingdom's wealth and artifacts connected to the [[Royal Vault]]
 **Court Library**: Extensive collection of books and official documents
 **War Room**: Strategic planning center for military operations
-**Royal Gardens**: Peaceful retreat areas with magical landscaping
+**Royal Gardens**: Peaceful retreat areas with magical landscaping including the [[Palace Courtyard - Crystal Garden]]
 
 ## Security Protocols
 **Visitor Screening**: Magical and physical inspection procedures
@@ -120,4 +120,16 @@ The Royal Palace is the magnificent seat of power for the Kingdom of Aethermoor,
 **Security Network**: Integrated magical surveillance and defense
 
 ## DM Notes
-The Royal Palace provides rich opportunities for political intrigue, diplomatic adventures, and court-based storylines. Use the complex hierarchy and numerous NPCs to create multilayered plots where player actions have significant political consequences affecting the entire kingdom.
+The Royal Palace provides rich opportunities for political intrigue, diplomatic adventures, and court-based storylines. Use the complex hierarchy and numerous NPCs to create multilayered plots where player actions have significant political consequences affecting the entire kingdom. Connect adventures to other key locations like [[Port Meridian Harbor]], [[The Shadow Markets]], and [[Parliament of Echoes]] for comprehensive political campaigns.
+
+## Connected Locations
+- [[Royal Palace of Meridian]] - Alternative palace complex
+- [[Throne Room - Heart of Palace]] - Ceremonial center of royal power
+- [[Palace Courtyard - Crystal Garden]] - Royal gardens and peaceful retreat
+- [[Royal Vault]] - Secure treasury and artifact storage
+- [[Ancient Tunnels Beneath Palace]] - Hidden passages and emergency routes
+- [[Parliament of Echoes]] - Legislative body and political center
+- [[Port Meridian Harbor]] - Economic heart of the kingdom
+- [[Port Meridian - Market Square]] - Commercial center and trade hub
+- [[Coral Courts]] - Judicial system and legal proceedings
+- [[The Shadow Markets]] - Criminal underworld and black market activities

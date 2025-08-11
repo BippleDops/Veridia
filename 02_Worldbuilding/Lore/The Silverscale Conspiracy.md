@@ -33,7 +33,7 @@ The Silverscale Conspiracy originated approximately 150 years ago when [[Directo
 
 The network's early success came from providing essential funding to cash-strapped nobles and merchants during a period of economic instability, but with loan terms that included information sharing requirements and informal political agreements. These arrangements created a foundation of influence that Silverscale could leverage to guide policy decisions and business developments in directions that served the organization's broader interests.
 
-The conspiracy's expansion into [[Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[Goldwave Manor]] and influence over [[Memory Trader]] networks. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships.
+The conspiracy's expansion into [[Aquabyssos]] occurred through the establishment of trade relationships and currency exchange services that became essential for commerce between the surface and underwater worlds, particularly through partnerships with institutions like [[Goldwave Manor]], influence over [[Memory Trader]] networks, and strategic alliances with [[The Deep Harvest]] resource management systems. By controlling the financial mechanisms that enabled cross-world trade, Silverscale gained influence over both civilizations' economic policies and diplomatic relationships, extending their reach into [[Crystal Forest]] resource allocation and [[Pressure Adaptation System]] financing.
 
 ## Cultural Significance and Impact
 
@@ -59,13 +59,28 @@ Conspiracy activities have intensified dramatically, possibly in response to [[T
 ## Key Figures and Organizations
 
 ### Director Hadrian Silverscale
-The current leader of the conspiracy, known for his brilliant strategic mind and complete dedication to advancing Silverscale interests regardless of the consequences for others.
+The current leader of the conspiracy, known for his brilliant strategic mind and complete dedication to advancing Silverscale interests regardless of the consequences for others. Operates from [[Silverscale Emergency Bunker]] and maintains close relationships with [[Aurelius Goldwave]], [[Memory Merchant Valeria]], and potentially [[Silver Mask]] operatives.
 
 ### The Banking House Inner Circle
-A secretive group of senior managers and advisors who coordinate conspiracy activities across both worlds while maintaining the appearance of legitimate business operations.
+A secretive group of senior managers and advisors who coordinate conspiracy activities across both worlds while maintaining the appearance of legitimate business operations. Key members include financial specialists managing [[Umbral Exchange]] operations, [[Crystal Forest]] resource financing, and [[The Deep Harvest]] economic integration.
 
 ### Silverscale Agents and Assets
-An extensive network of individuals who serve Silverscale interests either knowingly as paid agents or unknowingly through financial dependencies and political obligations.
+An extensive network of individuals who serve Silverscale interests either knowingly as paid agents or unknowingly through financial dependencies and political obligations. This network includes:
+
+**Political Assets:**
+- Members of [[The Restoration Movement]] receiving financial support for traditional values campaigns
+- Government officials in [[Aquabyssos Depth Caste System]] regulatory bodies
+- [[Investigation Procedures]] personnel providing advance warning of regulatory actions
+
+**Economic Partners:**
+- [[Memory Trader]] networks facilitating information exchange and consciousness commerce
+- [[Crystal Forest]] cultivation specialists managing resource production quotas
+- [[Pressure Adaptation System]] technology distributors controlling market access
+
+**Intelligence Operations:**
+- [[Silver Mask]] identity management potentially coordinated through Silverscale resources
+- [[The Crimson Hand]] financial backing for shadow operations and dimensional research
+- [[Archive-Prince Mnemonic]] accessing historical financial records and documentation
 
 ## Current State and Ongoing Conflicts
 
@@ -76,13 +91,16 @@ Recent investigations have uncovered evidence of price manipulation, political b
 ## Adventure Integration and Plot Hooks
 
 ### The Financial Investigation
-Characters must trace suspicious financial transactions and loan agreements to uncover evidence of conspiracy activities while avoiding economic retaliation and political pressure.
+Characters must trace suspicious financial transactions and loan agreements to uncover evidence of conspiracy activities while avoiding economic retaliation and political pressure. Investigation requires use of [[Evidence Chain Analysis]] and [[Investigation Procedures]] while navigating [[Reputation System]] consequences and potential [[Memory Alteration Consequences]] from conspiracy counter-intelligence operations.
 
 ### The Double Agent Dilemma
-An insider offers to provide information about conspiracy operations but demands protection from Silverscale retaliation and guarantees about how the information will be used.
+An insider offers to provide information about conspiracy operations but demands protection from Silverscale retaliation and guarantees about how the information will be used. The source may be connected to [[Memory Trader]] networks, [[Crystal Forest]] resource management, or [[Silver Mask]] operations, requiring careful evaluation using [[Interrogation Techniques]] and [[Evidence Types Guide]] verification methods.
 
 ### The Economic Warfare
-The conspiracy launches coordinated attacks against individuals or organizations that threaten their interests, requiring characters to defend against financial manipulation and political sabotage.
+The conspiracy launches coordinated attacks against individuals or organizations that threaten their interests, requiring characters to defend against financial manipulation and political sabotage. Attacks may involve [[The Restoration Movement]] political pressure, [[Deep Mother Cult Practices]] spiritual intimidation, or [[The Crimson Hand]] shadow operations coordinated through [[Silverscale Emergency Bunker]] command centers.
+
+### The Convergence Financing
+Investigation reveals Silverscale conspiracy involvement in financing [[The Great Convergence Prophecies]] preparation activities, requiring characters to determine whether their goal is to profit from convergence, control its outcome, or prevent it entirely. This connects to [[Temple of the First Tide]] resource needs, [[Crystal Forest]] expansion projects, and [[The Seven Betrayers]] bloodline manipulation.
 
 ## Connected Topics and References
 - [[Silverscale Banking House]] - Primary organization driving conspiracy activities

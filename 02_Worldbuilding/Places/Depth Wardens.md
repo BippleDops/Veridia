@@ -27,14 +27,14 @@ What distinguishes the Depth Wardens from conventional law enforcement is their 
 
 The organization operates under a dual mandate: maintaining civil order and protecting the realm from external threats. This means Depth Wardens serve simultaneously as local police officers, criminal investigators, emergency responders, border guards, and military defenders. Their broad authority and diverse responsibilities make them one of the most visible and influential institutions in Aquabyssos society.
 
-The Depth Wardens maintain their headquarters in [[02_Worldbuilding/Places/Abyssos Prime]], with major regional commands throughout the realm and smaller stations in settlements across all depth zones. Their organizational structure combines military discipline with civilian law enforcement flexibility, allowing them to adapt to situations ranging from minor civil disputes to major threats against the realm itself.
+The Depth Wardens maintain their headquarters in [[02_Worldbuilding/Places/Abyssos Prime]], with major regional commands throughout the realm and smaller stations in settlements across all depth zones. They coordinate closely with [[02_Worldbuilding/Places/The Royal Palace]] on security policy and maintain significant operations at [[02_Worldbuilding/Places/Port Meridian Harbor]] to oversee maritime security. Their organizational structure combines military discipline with civilian law enforcement flexibility, allowing them to adapt to situations ranging from minor civil disputes to major threats against the realm itself.
 
 ## Organizational Structure and Hierarchy
 
 ### Command Structure
 
 **Supreme Commander** (1):
-Overall leader of the Depth Wardens, reporting directly to the [[02_Worldbuilding/Places/Royal Palace]] and serving as a member of the realm's highest security council. Currently [[02_Worldbuilding/People/Commander Drake Pressureborn]].
+Overall leader of the Depth Wardens, reporting directly to the [[02_Worldbuilding/Places/The Royal Palace]] and serving as a member of the realm's highest security council. Works closely with [[02_Worldbuilding/Places/Coral Courts]] on legal matters and coordinates with surface law enforcement. Currently [[02_Worldbuilding/People/Commander Drake Pressureborn]].
 
 - **Authority**: Realm-wide command authority, policy setting, resource allocation
 - **Responsibilities**: Strategic planning, government liaison, organizational leadership

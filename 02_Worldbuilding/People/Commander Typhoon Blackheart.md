@@ -129,6 +129,20 @@ Commander Typhoon Blackheart leads [[The Depth Wardens]], Aquabyssos's elite mil
 - **Religious Leaders**: Respects various faiths while maintaining secular military authority
 - **Citizens**: Views protection of civilian population as primary duty
 
+### Merchant & Economic Networks
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Supports ethical business practices and personal rights protection
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Coordinates maritime security and trade route protection
+- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Provides security services in exchange for intelligence on threats
+- **Deep-Sea Trading Routes**: Military escorts for vulnerable commercial vessels
+- **Resource Suppliers**: Contracts with businesses providing military equipment and supplies
+
+### Professional Civilian Relationships
+- **Emergency Services Coordinators**: Joint disaster response planning and execution
+- **Civil Engineering Corps**: Infrastructure protection and military construction projects
+- **Medical Services**: Coordination with civilian hospitals for treating military casualties
+- **Educational Institutions**: Military training partnerships and veteran education programs
+- **Cultural Leaders**: Maintains civilian morale during extended military operations
+
 ## Military Assets
 ### The Depth Wardens Force
 - **5,000 Elite Soldiers**: Specially trained for deep-ocean combat operations

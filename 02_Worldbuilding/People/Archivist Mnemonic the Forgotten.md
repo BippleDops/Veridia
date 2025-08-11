@@ -470,6 +470,20 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 
 ## Connected Campaign Elements
 
+### Military & Intelligence Networks
+- **[[02_Worldbuilding/People/Commander Typhoon Blackheart]]**: Provides archived military intelligence and historical battle records
+- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Repository for classified mission reports and strategic intelligence
+- **[[02_Worldbuilding/People/Admiral Thorne Blackwater]]**: Preserves naval historical records and tactical knowledge
+- **Military Veterans**: Archive contains memories from soldiers across multiple conflicts and campaigns
+- **Intelligence Services**: Stores suppressed operational records and classified information
+
+### Trade & Economic Connections
+- **[[02_Worldbuilding/People/Memory Merchant Valeria Siltweave]]**: Professional collaboration on ethical memory preservation standards
+- **[[02_Worldbuilding/Groups/Merchant Princes]]**: Archive maintains commercial records and trade agreement histories
+- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Preserves maritime trade documentation and port authority records
+- **Economic Historians**: Repository for financial records and trade pattern analysis
+- **Commercial Guild Archives**: Maintains backup records for destroyed or compromised business documentation
+
 ### Links to [[The Deep Mother]] Divine Network
 - Archive serves as repository for memories connected to divine experiences
 - Preserves cultural memories of Deep Mother worship from extinct civilizations

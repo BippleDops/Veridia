@@ -536,15 +536,20 @@ A deal involving artifacts of immense power and value brings representatives fro
 
 ### Related Locations
 - [[Port Meridian]] - The greater city containing the Market Square
-- [[Port Meridian - Harbor District]] - Source of much trade goods and merchant activity
+- [[Port Meridian Harbor]] - Underwater connection and source of much trade goods and merchant activity
 - [[Port Meridian - Merchant Quarter]] - Residential and business area for wealthy traders
 - [[Port Meridian - Noble Quarter]] - Location of the city's wealthiest customers
+- [[The Royal Palace]] - Political authority overseeing trade policy
+- [[Aethermoor]] - The surface kingdom this market serves
 
 ### Associated Organizations
 - [[Crystal Merchants Guild]] - Professional organization for crystal-related commerce
 - [[Aethermoor Trade Commission]] - Government agency regulating inter-realm commerce
 - [[Market Security Force]] - Specialized law enforcement for commercial areas
 - [[Cultural Exchange Society]] - Organization promoting understanding between different realms
+- [[Master Artificers Guild]] - Suppliers of crystal technology and magical items
+- [[The Shadow Markets]] - Underground competition and alternative trading network
+- [[Depth Wardens]] - Security coordination between surface and underwater commerce
 
 ### Key Figures
 - [[Sterling Goldbalance]] - Market Master General and chief administrator
@@ -560,7 +565,7 @@ A deal involving artifacts of immense power and value brings representatives fro
 Beneath the Market Square lies a hidden vault containing the original founder's treasure, including artifacts and currency from the city's earliest days. Access to this wealth could dramatically shift the economic balance of power.
 
 **The Merchant Conspiracy**
-A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan.
+A secret society of the most powerful merchants coordinates policy and manipulates market conditions to their advantage, operating through seemingly independent decisions that actually follow a coordinated plan with connections to [[The Shadow Markets]] and [[The Royal Palace]].
 
 **The Cultural Artifact**
 Hidden within one of the permanent stalls is an artifact of immense cultural significance to a distant realm, placed there for safekeeping during a long-ago crisis and now forgotten by all who knew of its presence.
@@ -574,7 +579,7 @@ Some merchants seem to always know exactly what prices to set for maximum profit
 Occasionally, merchants disappear overnight, leaving their stalls empty and no trace of where they went. These disappearances follow no apparent pattern and have never been solved.
 
 **The Midnight Market**
-Rumors persist of a secret market that operates in the Square during the darkest hours of night, dealing in goods and services that cannot be traded during daylight hours.
+Rumors persist of a secret market that operates in the Square during the darkest hours of night, dealing in goods and services that cannot be traded during daylight hours, possibly connected to [[The Shadow Markets]] operations.
 
 ---
 

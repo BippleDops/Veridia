@@ -1,12 +1,40 @@
 ---
-tags: [stub]
-status: "stub"
+tags: [lore, interrogation, investigation, techniques, law-enforcement]
+status: "complete"
 world: "Aquabyssos"
 type: "lore"
 created_by: "auto-stub"
 created: 2025-08-08
+updated: 2025-08-11
 ---
 
 # Interrogation Techniques
 
-> Stub placeholder generated automatically to satisfy existing links. Flesh out content after Phase 10 validation.
+*"Truth flows like water - apply the right pressure and it will find its way out."*
+
+## Overview
+Interrogation Techniques in the dual-realm world have evolved to account for the unique challenges of questioning suspects who may come from radically different cultural backgrounds, possess magical abilities, or have been affected by inter-dimensional phenomena. These methods combine traditional investigative approaches with specialized techniques for magical subjects and cross-cultural communication.
+
+## Mechanics
+### Requirements
+- Training in both surface and underwater interrogation methods
+- Magical detection and protection capabilities
+- Cultural sensitivity training for inter-realm subjects
+- Proper legal authorization and oversight
+
+### Effects
+- **Truth Extraction**: Obtaining accurate information from subjects
+- **Cultural Navigation**: Avoiding misunderstandings due to different customs
+- **Magical Countermeasures**: Dealing with enchanted or corrupted subjects
+- **Legal Compliance**: Maintaining admissible evidence standards
+
+### Duration
+Interrogation sessions typically last 1-4 hours with breaks for subject welfare.
+
+## Adventure Hooks
+1. **Interrogation Training**: Characters learn advanced questioning techniques
+2. **Resistant Subject**: Interview someone with unusual magical or cultural protections
+3. **False Information**: Determine truth when multiple suspects give conflicting stories
+
+## Campaign Use
+Provides framework for investigation scenes and adds realism to law enforcement encounters.

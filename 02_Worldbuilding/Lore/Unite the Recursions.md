@@ -1,14 +1,19 @@
 ---
-title: "Unite the Recursions"
-type: lore
-tags: [lore, aquabyssos, cosmic-quest, reality-manipulation, recursion, multiverse, epic-campaign]
+tags: [Category/Lore]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "lore"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  content_warnings: []
+  pronunciation: "Unite the Recursions"
+  safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
 # Unite the Recursions
+
+![Unite the Recursions Portrait](04_Resources/Assets/Art/Lore/Unite_the_Recursions.png)
 
 *The ultimate quest to merge all recursive realities into one stable existence*
 

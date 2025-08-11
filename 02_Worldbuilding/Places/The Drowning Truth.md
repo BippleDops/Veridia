@@ -1,14 +1,19 @@
 ---
-title: "The Drowning Truth"
-type: location
-tags: [location, aquabyssos, philosophical-site, metaphysical, truth-magic, consciousness, reality-anchor]
+tags: [Category/Place]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "location"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "The Drowning Truth is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
+  content_warnings: ["political coercion", "environmental hazards"]
+  pronunciation: "The Drowning Truth"
+  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
 # The Drowning Truth
+
+![The Drowning Truth Portrait](04_Resources/Assets/Art/Places/The_Drowning_Truth.png)
 
 *Where honesty becomes lethal and lies sustain life*
 

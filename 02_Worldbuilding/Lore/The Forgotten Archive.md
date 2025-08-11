@@ -1,14 +1,19 @@
 ---
-title: "The Forgotten Archive"
-type: lore
-tags: [lore, aquabyssos, library, knowledge, memory, forbidden-knowledge, artifact-repository]
+tags: [Category/Lore]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "lore"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "This lore entry explains a pivotal principle or event and its consequences for play."
+  content_warnings: []
+  pronunciation: "The Forgotten Archive"
+  safety_tools: ["Lines & Veils", "X-Card"]
 ---
 
 # The Forgotten Archive
+
+![The Forgotten Archive Portrait](04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png)
 
 *The repository of all knowledge deliberately erased from history*
 

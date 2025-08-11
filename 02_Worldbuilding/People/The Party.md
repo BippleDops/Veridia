@@ -1,14 +1,19 @@
 ---
-title: "The Party"
-type: meta
-tags: [meta, player-characters, party-dynamics, campaign-integration, character-hooks, relationships]
+tags: [Category/People]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "meta"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "Guidelines and tools for integrating player characters into Aquabyssos with bonds, roles, and session zero prompts."
+  content_warnings: []
+  pronunciation: "The Party"
+  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
 # The Party
+
+![The Party Portrait](04_Resources/Assets/Art/NPCs/The_Party.png)
 
 *Guidelines for integrating player characters into Aquabyssos*
 

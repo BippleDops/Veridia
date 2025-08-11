@@ -182,3 +182,18 @@ Anything the party might over hear?
 # Image
 ![[Template_Place_Placeholder.png|500]]
 
+
+<!-- ENHANCED_TEMPLATE_FOOTER -->
+
+## Quick Actions
+- Button: `BUTTON[button_person]` (create or link a person)
+- Dice: `= round(d(20))` test roll
+
+## Auto-Indexes
+```dataview
+LIST FROM outgoing(file) WHERE status = "complete"
+```
+
+## Accessibility Defaults
+- Screen reader summary field in frontmatter recommended.
+- Content warnings list; safety tools references.

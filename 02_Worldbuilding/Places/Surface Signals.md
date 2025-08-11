@@ -1,14 +1,19 @@
 ---
-title: "Surface Signals"
-type: location
-tags: [location, aquabyssos, communication-hub, surface-connection, mystery, technology, signals]
+tags: [Category/Place]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "location"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "Surface Signals is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
+  content_warnings: ["political coercion", "environmental hazards"]
+  pronunciation: "Surface Signals"
+  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
 # Surface Signals
+
+![Surface Signals Portrait](04_Resources/Assets/Art/Places/Surface_Signals.png)
 
 *The crackling voices from the world above the waves*
 

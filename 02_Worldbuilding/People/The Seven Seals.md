@@ -1,14 +1,19 @@
 ---
-title: "The Seven Seals"
-type: group
-tags: [group, aquabyssos, ancient-order, guardians, reality-anchors, deep-mother, secret-society]
+tags: [Category/People]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "group"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "Ancient guardians who embody reality's foundations, structured for quick table use with hooks and mechanics."
+  content_warnings: ["cosmic horror"]
+  pronunciation: "The Seven Seals"
+  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
 # The Seven Seals
+
+![The Seven Seals Portrait](04_Resources/Assets/Art/NPCs/The_Seven_Seals.png)
 
 *Ancient guardians of reality's foundations*
 

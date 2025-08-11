@@ -91,18 +91,14 @@ Quests/      : 33 complete,   8 stubs,  10 other (51 total)
 ```bash
 # Total file count
 find . -name "*.md" | wc -l
-# Result: 945 files
 
-# Stub file count  
-grep -l 'status: "stub"' --include='*.md' -r . | wc -l
-# Result: 594 files
+# Stub file count (current)
+find . -name "*.md" -exec grep -l 'status: "complete"' {} \; | wc -l
 
-# Complete file count (all variants)
-grep -l -E 'status: "complete"|status: "completed"|status: complete' --include='*.md' -r . | wc -l
-# Result: 176 files
+# Complete file count (current)
+find . -name "*.md" -exec grep -l -E 'status: "complete"|status: "completed"|status: complete' {} \; | wc -l
 
-# Line count verification for false stubs
-# Result: Only 1 file (The Void Watchers) over 200 lines was mislabeled
+# Note: Historical counts removed; use current commands above for live vault.
 ```
 
 ## Remaining Work Assessment

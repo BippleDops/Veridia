@@ -1,14 +1,19 @@
 ---
-title: "The Reflection Pools"
-type: location
-tags: [location, aquabyssos, mystical-site, divination, mirror-realm, planar-crossing, oracle]
+tags: [Category/Place]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "location"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "The Reflection Pools is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
+  content_warnings: ["political coercion", "environmental hazards"]
+  pronunciation: "The Reflection Pools"
+  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
 # The Reflection Pools
+
+![The Reflection Pools Portrait](04_Resources/Assets/Art/Places/The_Reflection_Pools.png)
 
 *Where every choice not taken shimmers in the water*
 

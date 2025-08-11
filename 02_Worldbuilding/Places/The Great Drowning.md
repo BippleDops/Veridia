@@ -1,14 +1,19 @@
 ---
-title: "The Great Drowning"
-type: location
-tags: [location, aquabyssos, historical-site, catastrophe, deep-mother, memorial, planar-breach]
+tags: [Category/Place]
 status: "complete"
 world: "Aquabyssos"
-created: 2025-08-08
-updated: 2025-08-11
+type: "location"
+obsidianUIMode: preview
+accessibility:
+  screen_reader_summary: "The Great Drowning is a notable location in Aquabyssos shaped by tidal politics and Convergence anomalies. This entry is structured for fast table use."
+  content_warnings: ["political coercion", "environmental hazards"]
+  pronunciation: "The Great Drowning"
+  safety_tools: ["Lines & Veils", "X-Card", "Open Door"]
 ---
 
 # The Great Drowning
+
+![The Great Drowning Portrait](04_Resources/Assets/Art/Places/The_Great_Drowning.png)
 
 *The site of Aquabyssos's greatest catastrophe and darkest memory*
 

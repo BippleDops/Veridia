@@ -32,7 +32,8 @@ while IFS= read -r relpath; do
 
   title="$(basename "$f" .md)"
   world="$(grep -E '^world:' "$f" | sed -E 's/^[^\"]*"([^"]*)".*/\1/' || true)"
-  if [ -z "$world" ]; then world="Aquabyssos"; fi
+  # Use DEFAULT_WORLD environment variable as the default world, or 'Aquabyssos' if not set.
+  if [ -z "$world" ]; then world="${DEFAULT_WORLD:-Aquabyssos}"; fi
 
   case "$relpath" in
     02_Worldbuilding/Places/*)

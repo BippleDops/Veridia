@@ -119,7 +119,7 @@ The Collective operates under the belief that all pain, trauma, and disease cast
 
 #### Dr. Void Nultis (Surgery Division Chief)
 *Medium humanoid (human), chaotic neutral*
-**AS** 15 (Surgeon's Robes) **HP** 112 (15d8 + 45) **Speed** 30 ft.
+**AC** 15 (Surgeon's Robes) **HP** 112 (15d8 + 45) **Speed** 30 ft.
 **STR** 10 (+0) **DEX** 16 (+3) **CON** 16 (+3) **INT** 20 (+5) **WIS** 14 (+2) **CHA** 12 (+1)
 **Saving Throws** Int +11, Wis +8
 **Skills** Medicine +17, Arcana +11, Investigation +11

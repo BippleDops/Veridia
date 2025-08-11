@@ -33,6 +33,9 @@ WHERE file.name = this.file.name
 - **Reality Integrity**: 72/100 (Wavering)
 - **Deep Mother Influence**: 34/100 (Rising)
 - **Merger Events Active**: 3
+- **Active Fleets**: see [[08_Tracking/Fleet_Tracker.base|Fleet Tracker]]; ships in [[08_Tracking/Ship_Registry.base|Ship Registry]]
+- **Travel Events**: use [[06_GM_Resources/Travel/Travel_Event_Table|Travel Event Table]]
+- **Vehicle Rules**: [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Core Vehicle Rules]]
 - **Time Until Convergence**: 6 months (in-game)
 
 ### 🌊 Aquabyssos Status

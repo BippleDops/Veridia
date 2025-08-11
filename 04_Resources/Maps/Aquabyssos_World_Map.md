@@ -1,16 +1,13 @@
 ---
 tags:
 - aquabyssos
-- draft
 - leaflet
 - map
+status: stable
 type: Lore
 aliases:
 - Aquabyssos Map Demo
 world: Aquabyssos
-updated: '2025-08-11T13:08:47.041309+00:00'
-created: '2025-08-11T13:08:47.041309+00:00'
-status: draft
 ---
 
 

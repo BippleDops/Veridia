@@ -1,0 +1,30 @@
+---
+tags: [mechanic]
+status: "complete"
+world: "Universal"
+type: "mechanic"
+obsidianUIMode: preview
+---
+
+# Rumor Mill Network
+
+## Procedural Rumor Generation
+Roll 1d6 twice: Source and Subject.
+- Sources: Dockhand, Pearl Guard, Syndicate Broker, Pilgrim, Archivist, Street Urchin.
+- Subjects: Shard Sighting, Plague Cure, Hidden Route, Faction Betrayal, Guardian Demand, Ritual Timing.
+Truth: 50% baseline; adjust ±20% by source reliability.
+
+## Spread Mechanics
+- Each scene, pick one rumor to propagate one step along connected locations in the [[09_Performance/Indexes/Location_Network_Graph.md|Network]].
+- If players amplify, add +1 step and +10% truth if they verify.
+
+## Faction Propaganda
+- Pearl Guard lowers panic; Syndicate inflates scarcity; Verdant Accord highlights eco-harms.
+- On a success, shift Market State by -1 or +1 in one location for a session.
+
+## Player Reputation Impact
+- Amplifying a false rumor imposes -1 with the most affected faction; correcting it grants +1 with the harmed party.
+
+## Cross-References
+- [[03_Mechanics/Living_Economy_System.md|Living Economy]]
+- [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]

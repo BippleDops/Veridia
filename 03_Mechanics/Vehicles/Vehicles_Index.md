@@ -54,6 +54,10 @@ Your hub for all aquatic, aerial, and merger-zone vehicles across Aquabyssos and
  - [[06_GM_Resources/Travel/Events/Sky_Events_Pack_D|Sky Events Pack D — Faction Spotlight]]
  - [[06_GM_Resources/Travel/Events/Merger_Events_Pack_D|Merger Events Pack D — Faction Spotlight]]
  - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_D|Mixed Events Pack D — Faction Spotlight]]
+ - [[06_GM_Resources/Travel/Events/Depth_Events_Pack_E|Depth Events Pack E — Legendary Tier]]
+ - [[06_GM_Resources/Travel/Events/Sky_Events_Pack_E|Sky Events Pack E — Legendary Tier]]
+ - [[06_GM_Resources/Travel/Events/Merger_Events_Pack_E|Merger Events Pack E — Legendary Tier]]
+ - [[06_GM_Resources/Travel/Events/Mixed_Events_Pack_E|Mixed Events Pack E — Legendary Tier]]
 
 ### Encounter Sheets
 - [[06_GM_Resources/Travel/Encounter_Sheets/D-005_Shadow_Bloom|D-005 Shadow Bloom]]

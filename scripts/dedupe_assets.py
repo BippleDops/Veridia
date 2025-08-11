@@ -13,7 +13,7 @@ ASSET_ROOTS = ["04_Resources", "04_Resources/Assets"]
 MD_EXTS = (".md", ".markdown")
 BIN_EXTS = (".png", ".jpg", ".jpeg", ".webp", ".webm", ".mp4", ".svg")
 EXCLUDE_PREFIXES = (".git/", "node_modules/", ".obsidian/cache/", "backups/")
-WIKI_LINK_PATTERN = re.compile(r"\!\?\[\[([^\]]+)\]\]")
+WIKI_LINK_PATTERN = re.compile(r"!?\[\[([^\]]+)\]\]")
 
 
 def is_excluded(path: str) -> bool:

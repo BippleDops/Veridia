@@ -3,7 +3,7 @@ tags: [location, wilderness, psychological, mysterious]
 aliases: [The Whispering Depths, The Madness Wells, Echo's End]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/whispering_depths.jpg"
-danger_level: "High"
+danger_level: High
 depth: "3000-4000 feet"
   - Category/Place
 MyContainer: None

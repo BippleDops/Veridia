@@ -15,6 +15,7 @@ location: "Bloodline Sanctum"
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Lysander Crystalborn, the Bloodline Carrier

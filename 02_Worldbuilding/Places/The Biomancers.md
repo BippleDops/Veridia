@@ -15,6 +15,7 @@ threat_level: "High"
 MyContainer: None
 MyCategory: Faction
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Biomancers

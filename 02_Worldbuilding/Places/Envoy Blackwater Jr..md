@@ -16,6 +16,7 @@ location: "Political Quarter, Aquabyssos"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Envoy Blackwater Jr.

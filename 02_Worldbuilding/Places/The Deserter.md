@@ -16,6 +16,7 @@ location: "The Outer Territories, Aquabyssos"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Deserter

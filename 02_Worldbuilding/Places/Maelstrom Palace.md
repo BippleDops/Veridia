@@ -8,7 +8,7 @@ depth: "Variable (0-4000 feet)"
 difficulty: "Levels 10-18"
 ruler: "[[Storm Empress Tempestas Maelstrom]]"
 government: "[[The Tempest Sovereignty]]"
-danger_level: "Extreme"
+danger_level: Extreme
 population: "800+ (court, staff, guards, prisoners)"
 age: "300 years (built post-Drowning)"
 created: 2025-08-10

@@ -17,6 +17,7 @@ world: "Aquabyssos"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Abyssos Prime Upper Districts

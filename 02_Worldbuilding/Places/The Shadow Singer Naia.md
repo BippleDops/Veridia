@@ -10,6 +10,7 @@ race: "Human (Shadow-Born)"
 location: "[[Shadow Wells]] - The Echoing Chamber"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Shadow Singer Naia

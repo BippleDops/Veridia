@@ -5,7 +5,7 @@ world: "Aethermoor"
 type: "location"
 security_level: "maximum"
 access: "royal_only"
-danger_level: "extreme"
+danger_level: Extreme
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11

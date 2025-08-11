@@ -10,6 +10,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Abyssos Prime - Inverse Palace

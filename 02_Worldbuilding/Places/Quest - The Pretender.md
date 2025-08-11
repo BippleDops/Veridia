@@ -12,6 +12,7 @@ party_size: "4-6 characters"
 duration: "5-7 sessions"
 difficulty: "Hard"
 primary_location: "Port Meridian Noble Quarter and Crystal Throne territories"
+danger_level: Moderate
 ---
 
 # Quest - The Pretender

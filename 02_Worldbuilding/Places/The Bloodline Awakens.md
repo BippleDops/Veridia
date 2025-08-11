@@ -5,7 +5,7 @@ world: "Aquabyssos"
 type: "phenomenon"
 role: "Supernatural Bloodline Event"
 affiliation: "Ancient Bloodlines (Various)"
-danger_level: "High"
+danger_level: High
 manifestation_rate: "Rare but Increasing"
 location: "Scattered throughout Aquabyssos"
 created_by: "auto-stub"

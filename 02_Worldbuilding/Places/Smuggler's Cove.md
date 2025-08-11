@@ -3,7 +3,7 @@ tags: [location, port, criminal, neutral_ground, moderate_danger]
 aliases: [Haven's Rest, The Neutral Port, Crosscurrent Cove]
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/smugglers_cove.jpg"
-danger_level: "Moderate"
+danger_level: Moderate
 depth: "Surface to 200 feet"
 worlds: ["Aethermoor", "Aquabyssos"]
 type: "location"

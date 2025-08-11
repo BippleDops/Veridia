@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Harbor
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Gold-Grave Harbor

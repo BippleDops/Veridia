@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Criminal
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Pressure Pirates

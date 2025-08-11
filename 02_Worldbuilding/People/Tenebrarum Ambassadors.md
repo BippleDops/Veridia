@@ -16,6 +16,7 @@ world: "Aquabyssos"
 MyContainer: None
 MyCategory: Diplomatic Authority
 obsidianUIMode: preview
+cr: 12
 ---
 
 # The Tenebrarum Ambassadors

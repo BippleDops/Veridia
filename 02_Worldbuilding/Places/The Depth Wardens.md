@@ -14,6 +14,7 @@ updated: 2025-08-11
 MyContainer: None
 MyCategory: Group
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Depth Wardens

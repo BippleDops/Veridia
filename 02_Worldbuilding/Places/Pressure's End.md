@@ -3,7 +3,7 @@ tags: [location, city, midnight_expanse, military_stronghold]
 aliases: [Pressure's End, The Iron Deep, The Last Stand]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/pressures_end.jpg"
-danger_level: "High"
+danger_level: High
 population: 35000
   - Category/Place
 MyContainer: None

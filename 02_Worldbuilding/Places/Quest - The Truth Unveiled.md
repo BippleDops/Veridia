@@ -12,6 +12,7 @@ party_size: "3-6 characters"
 duration: "6-8 sessions"
 difficulty: "Hard"
 primary_location: "Port Meridian and surrounding regions"
+danger_level: Moderate
 ---
 
 # Quest - The Truth Unveiled

@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Shadow Network Leader
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Shadow Warren

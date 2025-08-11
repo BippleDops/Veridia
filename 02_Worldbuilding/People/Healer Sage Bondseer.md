@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+cr: 5
 ---
 
 # Healer Sage Bondseer

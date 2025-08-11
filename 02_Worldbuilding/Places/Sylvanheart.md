@@ -12,6 +12,7 @@ climate: "Temperate Forest"
 created: 2025-08-09
 updated: 2025-08-09
 related_entities: ["[[The Verdant Reach]]", "[[Continental War]]", "[[The Restoration Movement]]"]
+danger_level: Moderate
 ---
 
 # Sylvanheart

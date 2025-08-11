@@ -11,6 +11,7 @@ member_count: "~2,000 active wardens"
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11
+danger_level: Moderate
 ---
 
 # Depth Wardens

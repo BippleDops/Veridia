@@ -3,7 +3,7 @@ tags: [location, wilderness, sonic_hazard, high_danger]
 aliases: [The Resonant Depths, The Harmonic Abyss, The Choir of Stone]
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/singing_trenches.jpg"
-danger_level: "High"
+danger_level: High
 depth: "4000-7000 feet"
 world: "Aquabyssos"
 type: "location"

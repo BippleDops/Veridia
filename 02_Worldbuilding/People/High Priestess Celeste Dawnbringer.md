@@ -23,6 +23,7 @@ world: "Aethermoor"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 15
 ---
 
 # High Priestess Celeste Dawnbringer

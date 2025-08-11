@@ -3,7 +3,7 @@ tags: [location, dungeon, ancient, extreme_danger]
 aliases: [The Primordial Vaults, The First Prison, The Origin Deep]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/primordial_vaults.jpg"
-danger_level: "Extreme"
+danger_level: Extreme
 depth: "8000-12000 feet"
   - Category/Place
 MyContainer: None

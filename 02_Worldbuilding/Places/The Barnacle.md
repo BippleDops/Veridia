@@ -15,6 +15,7 @@ location: "Symbiosis Depths"
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Crust Deepmeld, the Barnacle

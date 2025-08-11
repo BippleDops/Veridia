@@ -15,6 +15,7 @@ location: "Grief Gardens"
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Morteus Grieveheart, the Sorrowmaster

@@ -10,6 +10,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Criminal Organization
 obsidianUIMode: preview
+cr: 12
 ---
 
 # Coral Throne Syndicate

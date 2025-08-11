@@ -3,7 +3,7 @@ tags: [location, palace, midnight_expanse, political_center]
 aliases: [The Bathyal Palace, The Neutral Deep, The Court of Currents]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/bathyal_palace.jpg"
-danger_level: "Moderate"
+danger_level: Moderate
 population: 8000
   - Category/Place
 MyContainer: None

@@ -10,6 +10,7 @@ size: "Large Complex"
 population: "~300 researchers and support staff"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Threshold Chambers

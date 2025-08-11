@@ -8,6 +8,7 @@ MyContainer: None
 MyCategory: Unknown
   - Category/Place
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 # The Cerulean Archipelago
 

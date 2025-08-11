@@ -10,6 +10,7 @@ race: "Half-Dryad (Shard-fused)"
 location: "[[The Verdant Reach]] - Heart Tree Grove"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Emerald Sage Willowbark

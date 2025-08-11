@@ -18,6 +18,7 @@ image: "04_Resources/Assets/NPCs/archdruid_thornweaver.jpg"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 6
 ---
 
 # Archdruid Thornweaver

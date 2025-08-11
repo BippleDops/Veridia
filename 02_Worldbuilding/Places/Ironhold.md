@@ -12,6 +12,7 @@ climate: "Alpine, Cold Winters"
 created: 2025-08-09
 updated: 2025-08-09
 related_entities: ["[[Ancient Siege Tunnels]]", "[[Continental War]]", "[[The Sundered Peaks]]"]
+danger_level: Moderate
 ---
 
 # Ironhold

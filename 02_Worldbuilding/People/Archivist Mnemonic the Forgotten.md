@@ -10,6 +10,7 @@ race: "Human (Memory-Touched)"
 location: "[[The Archive of Unremembered Things]] - The Forgetting Vaults"
 created_by: "auto-stub"
 created: 2025-08-09
+cr: 5
 ---
 
 # Archivist Mnemonic the Forgotten

@@ -15,6 +15,7 @@ government: "Harbor Authority under Crown jurisdiction"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 3
 ---
 
 # Saltbeard Harbor

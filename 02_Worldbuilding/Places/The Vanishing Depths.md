@@ -3,7 +3,7 @@ tags: [location, dimensional_hazard, unstable_reality, extreme_danger]
 aliases: [The Shifting Deep, The Reality Tears, The Inconstant Abyss]
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/vanishing_depths.jpg"
-danger_level: "Extreme"
+danger_level: Extreme
 depth: "Variable (5000-15000+ feet)"
 world: "Aquabyssos"
 type: "location"

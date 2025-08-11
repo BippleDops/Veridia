@@ -19,6 +19,7 @@ image: "04_Resources/Assets/NPCs/crimson_sage.jpg"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Crimson Sage

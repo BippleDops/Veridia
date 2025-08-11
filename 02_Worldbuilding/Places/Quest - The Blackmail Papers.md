@@ -12,6 +12,7 @@ party_size: "3-6 characters"
 duration: "4-6 sessions"
 difficulty: "Moderate to Hard"
 primary_location: "Port Meridian and Noble Quarter"
+danger_level: Moderate
 ---
 
 # Quest - The Blackmail Papers

@@ -9,6 +9,7 @@ faction: "[[Independent]]"
 status: "complete"
 created: 2025-08-11
 world: "Aethermoor"
+cr: 5
 ---
 
 # Martha Hillbrook

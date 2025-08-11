@@ -17,6 +17,7 @@ updated: 2025-08-09
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Siren

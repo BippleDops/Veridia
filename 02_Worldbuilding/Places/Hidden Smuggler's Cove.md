@@ -3,7 +3,7 @@ tags: [location, aethermoor, coastal, smuggling, pirates, crystals, dangerous, s
 status: "complete"
 world: "Aethermoor"
 type: "location"
-danger_level: "moderate"
+danger_level: Moderate
 access: "hidden"
 region: "Shattered Coast"
 faction_influence: "Shadowhawk Syndicate"

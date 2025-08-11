@@ -16,6 +16,7 @@ world: "Aquabyssos"
 MyContainer: None
 MyCategory: Political Authority
 obsidianUIMode: preview
+cr: 20
 ---
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles

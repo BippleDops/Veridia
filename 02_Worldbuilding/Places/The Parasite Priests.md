@@ -12,7 +12,7 @@ created: 2025-08-08
 updated: 2025-08-11
 influence: "Growing"
 secrecy_level: "High"
-danger_level: "Extreme"
+danger_level: Extreme
 ---
 
 # The Parasite Priests

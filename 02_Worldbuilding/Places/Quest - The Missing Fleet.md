@@ -15,6 +15,7 @@ primary_location: "Aethermoor Maritime Region"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Quest - The Missing Fleet

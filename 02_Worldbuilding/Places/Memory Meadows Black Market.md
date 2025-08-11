@@ -5,6 +5,7 @@ world: "Aquabyssos"
 type: "location"
 created_by: "auto-stub"
 created: 2025-08-08
+danger_level: Moderate
 ---
 
 # Memory Meadows Black Market

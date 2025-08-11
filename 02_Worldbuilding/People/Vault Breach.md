@@ -14,6 +14,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+cr: 15
 ---
 
 # Vault Breach

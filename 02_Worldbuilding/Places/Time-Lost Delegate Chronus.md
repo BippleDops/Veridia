@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Temporal Anomaly
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Chronus Chambers - Time-Lost Delegate's Domain

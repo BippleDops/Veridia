@@ -8,6 +8,7 @@ status: Active
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Goldspire Port

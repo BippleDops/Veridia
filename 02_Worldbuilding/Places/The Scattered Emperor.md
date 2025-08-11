@@ -50,6 +50,7 @@ created: 2025-08-07
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Scattered Emperor (Malachus the Eternal)

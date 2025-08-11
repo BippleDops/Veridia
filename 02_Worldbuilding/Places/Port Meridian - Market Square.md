@@ -5,7 +5,7 @@ world: "Aethermoor"
 type: "location"
 security_level: "moderate"
 access: "public"
-danger_level: "low"
+danger_level: Low
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11

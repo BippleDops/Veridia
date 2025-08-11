@@ -5,6 +5,7 @@ world: "Aethermoor"
 type: "quest"
 created_by: "auto-stub"
 created: 2025-08-08
+danger_level: Moderate
 ---
 
 # Missing Persons of Port Meridian

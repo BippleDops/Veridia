@@ -22,6 +22,7 @@ world: "Aquabyssos"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 14
 ---
 
 # High Cultivist Jasper Lifebinder

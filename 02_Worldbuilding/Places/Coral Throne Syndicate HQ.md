@@ -8,7 +8,7 @@ depth: "1800-2200 feet"
 difficulty: "Levels 8-15"
 controlled_by: "[[Coral Throne Syndicate]]"
 ruler: "[[Coral Empress Scarletina]]"
-danger_level: "Very High"
+danger_level: Extreme
 population: "500+ (guards, staff, prisoners)"
 created: 2025-08-10
 updated: 2025-08-10

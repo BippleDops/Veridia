@@ -3,7 +3,7 @@ tags: [location, wilderness, trench, dangerous]
 aliases: [The Cerulean Trench, The Blue Abyss, The Drowning Scar]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/cerulean_trench.jpg"
-danger_level: "Extreme"
+danger_level: Extreme
 depth: "5000-15000 feet"
   - Category/Place
 MyContainer: None

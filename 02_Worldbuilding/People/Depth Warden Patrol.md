@@ -11,6 +11,7 @@ location_type: "Any depth zone"
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11
+cr: 3
 ---
 
 # Depth Warden Patrol

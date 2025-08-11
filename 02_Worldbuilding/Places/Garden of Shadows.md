@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Location
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Garden of Shadows

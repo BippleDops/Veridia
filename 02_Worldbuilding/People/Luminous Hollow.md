@@ -16,6 +16,7 @@ depth: 3500
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 9
 ---
 
 # Luminous Hollow

@@ -3,7 +3,7 @@ tags: [location, mobile, free_current, rebellious]
 aliases: [The Wandering Atoll, Freedom's Float, The Rebel Isle]
 created: 2024-12-19
 image: "04_Resources/Assets/Locations/wandering_atoll.jpg"
-danger_level: "Moderate"
+danger_level: Moderate
 depth: "Surface to 100 feet"
   - Category/Place
 MyContainer: None

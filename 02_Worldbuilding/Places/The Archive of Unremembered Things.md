@@ -3,7 +3,7 @@ tags: [location, dungeon, library, memory, extreme_danger]
 aliases: [The Forgotten Archive, The Vault of Lost Memories, The Unremembered Halls]
 created: 2025-08-09
 image: "04_Resources/Assets/Locations/archive_unremembered.jpg"
-danger_level: "Extreme"
+danger_level: Extreme
 depth: "3000-5000 feet"
 world: "Aquabyssos"
 type: "location"

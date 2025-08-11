@@ -14,6 +14,7 @@ created: 2025-08-10
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 8
 ---
 
 # Grand Master Valdric Shardseeker

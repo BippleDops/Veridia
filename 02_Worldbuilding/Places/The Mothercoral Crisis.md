@@ -17,6 +17,7 @@ updated: 2025-08-11
 MyContainer: None
 MyCategory: Environmental Quest
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Mothercoral Crisis

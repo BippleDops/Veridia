@@ -10,6 +10,7 @@ race: "Unknown (appears human)"
 location: "[[The Black Ledger]] - Intelligence Archive"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Nameless Auditor

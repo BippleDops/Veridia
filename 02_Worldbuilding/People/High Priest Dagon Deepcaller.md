@@ -23,6 +23,7 @@ base_5e_statblock: "Aboleth"
 statblock_source: "MM"
 page_reference: "MM p.13"
 modifications: "Added cleric spellcasting, warlock pact magic, hybrid physiology, cult leadership abilities"
+cr: 16
 ---
 
 # High Priest Dagon Deepcaller

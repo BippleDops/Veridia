@@ -5,7 +5,7 @@ world: "Aquabyssos"
 type: "location"
 security_level: "high"
 access: "members_only"
-danger_level: "high"
+danger_level: High
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11

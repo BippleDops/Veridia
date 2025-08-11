@@ -14,6 +14,7 @@ alignment: "Chaotic Good"
 MyContainer: None
 MyCategory: NPCs
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Harbor Master Luna Freedrift

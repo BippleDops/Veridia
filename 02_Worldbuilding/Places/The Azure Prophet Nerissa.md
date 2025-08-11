@@ -10,6 +10,7 @@ race: "Sea Elf (Shard-touched)"
 location: "[[The Azure Coast]] - Wandering"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Azure Prophet Nerissa

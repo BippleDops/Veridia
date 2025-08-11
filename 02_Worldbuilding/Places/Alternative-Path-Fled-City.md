@@ -7,7 +7,7 @@ category: "Refugee Settlement"
 altitude: "8,000-12,000 feet"
 difficulty: "Levels 4-10"
 owner: "Free Council of Refugees"
-danger_level: "Moderate"
+danger_level: Moderate
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-10

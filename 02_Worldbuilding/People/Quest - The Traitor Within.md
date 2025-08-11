@@ -9,6 +9,7 @@ created: 2025-08-08
 MyContainer: None
 MyCategory: Political
 obsidianUIMode: preview
+cr: 6
 ---
 
 # Quest - The Traitor Within

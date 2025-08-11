@@ -10,6 +10,7 @@ race: "Human (Divine-touched)"
 location: "[[Crystalhaven]] - Hidden in Royal Orphanage"
 created_by: "auto-stub"
 created: 2025-08-09
+cr: 15
 ---
 
 # Gareth Goldenheart, The Chosen Vessel

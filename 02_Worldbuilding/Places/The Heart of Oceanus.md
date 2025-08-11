@@ -15,6 +15,7 @@ updated: 2025-08-11
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # The Heart of Oceanus

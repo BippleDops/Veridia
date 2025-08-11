@@ -10,6 +10,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: Guild Hall
 obsidianUIMode: preview
+cr: 8
 ---
 
 # Current Riders Guild

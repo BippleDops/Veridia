@@ -15,6 +15,7 @@ government: "Royal Transit Authority"
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
+cr: 3
 ---
 
 # Pressure Terminal

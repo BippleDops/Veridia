@@ -18,6 +18,7 @@ updated: 2025-08-10
 MyContainer: None
 MyCategory: NPC
 obsidianUIMode: preview
+danger_level: Moderate
 ---
 
 # Crystal Wardens

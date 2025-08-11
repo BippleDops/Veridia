@@ -5,6 +5,7 @@ world: "Aquabyssos"
 type: "npc"
 created_by: "auto-stub"
 created: 2025-08-08
+danger_level: Moderate
 ---
 
 # Beast Master Krell Chainbreaker

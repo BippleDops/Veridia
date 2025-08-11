@@ -9,6 +9,7 @@ race: "Corrupted Water Elemental"
 location: "[[Port Meridian]] Harbor (Sunken Ship)"
 created_by: "auto-stub"
 created: 2025-08-09
+danger_level: Moderate
 ---
 
 # The Crimson Shard Guardian

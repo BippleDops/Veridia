@@ -24,6 +24,9 @@
   "seed": 7008,
   "alt_text": "Cinematic view of Dr. Siphon Gillwater with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Locations/location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A heroic, panoramic view of a medieval-fantasy aquascape filled with culturally coherent gear and no modern tech in sight. Grounded in a style akin to detailed tabletop fantasy games. The environment brims with bioluminescent coral and cloudstone formations under the influence of golden hour or night glow, perhaps even capturing subtle hints of an approaching storm. Figures or vehicles subtly woven into the composition provide a sense of scale. The scene radiates a cinematic atmosphere, making the viewer feel as if they're witnessing a concept art from an epic fantasy tale. Subsurface caustics play on the bioluminescent accents, adding a touch of fantasy realism to the mix. The pressure-domes constructed from a past era give an additional layer of depth to the surroundings. The color palette transitions between teals, deep blues, and sea-greens, all being accentuated by the pearl-like highlights. Artifacts are kept at bay and iconic symbols replace any suggestion of readable signage. Avoidance of sci-fi UIs, modern writings, photoreal CGI, anime-style illustrations, and blooming glare elevates the maturity and timeless quality of the composition.",
+  "file": "04_Resources/Assets/Generated/Locations/location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png"
 }

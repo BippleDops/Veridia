@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 2,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-bioluminescent-forest-ambush-bioluminescent-forest-ambush.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Create a top-down view of a fantasy tabletop game map in a painterly collection style that follows a medieval, submerged, and bioluminescent themed setting. The map, which measures 15x15 squares at 140 pixels (DPI) per square, features a deep sea ambush in a bioluminescent forest. It excludes modern technology and signs, focusing instead on distinct patterns for easy, difficult, and impossible terrains, detailed with collapses, rips, and currents. Ensure there are clear markings for paths and flank routes, including ramps, stairs, ledges, contour lines with bold lines for walls and obstacles, and fine lines for textures. The palette is inspired by aquatic fantasy realism and pressure-dome materials, incorporating teals, deep blues, sea-greens, and pearl highlights. Icons without text labels are used and grid and numeric indicators are crisp. Ensure clean margins for VTT overlays and avoid stylized fonts, modern signs, photorealistic CGI, anime style, and bloom glare.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-bioluminescent-forest-ambush-bioluminescent-forest-ambush.png"
 }

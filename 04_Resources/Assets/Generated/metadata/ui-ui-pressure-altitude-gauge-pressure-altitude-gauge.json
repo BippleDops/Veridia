@@ -24,6 +24,9 @@
   "seed": 2003,
   "alt_text": "Interface mockup: Pressure/Altitude Gauge.",
   "realm": "mixed",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-pressure-altitude-gauge-pressure-altitude-gauge.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a heroic tabletop fantasy scenario, akin to the medieval times with fantasy materials and culturally coherent gear but void of modern technology or signage. The canvas should have a consistent painterly style. The interface on the screen shows a Pressure/Altitude Gauge, laid out on a grid with adequate spacing, including icons, meters, and controls. Employ motifs of parchment, metal, and wood in the fantasy user interface for a rustic appeal. The aesthetic should be high contrast and readable, with a merged-zone concept and delightful weaves of aquatic and sky themes. The painting's color scheme should primarily consist of teal and indigo blends, with streaks of storm gold as accents. Pay particular attention to the aspect ratio/resolution to avoid any visual artifacts. Typography should be sans-serif, high contrast, and meet WCAG 4.5:1 guidelines. Labels should be short yet meaningful like STR, DEX, HP, BAG, or MAP. Avoid garbled or random letters strings. Ensure all symbols have a meaningful representation, or use numbered pins instead. Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, and bloom glare to preserve the medieval fantasy ambiance.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-pressure-altitude-gauge-pressure-altitude-gauge.png"
 }

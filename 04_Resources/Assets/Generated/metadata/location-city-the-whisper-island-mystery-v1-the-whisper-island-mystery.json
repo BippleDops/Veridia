@@ -24,6 +24,9 @@
   "seed": 7010,
   "alt_text": "Cinematic view of The Whisper Island Mystery with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a painterly panorama of The Whisper Island Mystery, inspired by medieval fantasy tabletop games. It's golden hour, transitioning into a stormy night, with bioluminescent coral and cloudstone emanating a strange glow. Add figures and vehicles for scale, maintaining artistic consistency, and avoiding any modern tech or readable signage. Let the color palette consist of teals, deep blues, and sea-greens, with beautiful pearl highlights. Choose materials that reflect a sense of fantasy realism, such as pressure-dome tools. The underwater scene should be realistic with bioluminescent accents and subsurface caustics. Instead of text or signs, use meaningful symbols or numbered pins. The style should distinctly avoid being photorealistic CGI, anime, or possessing a sci-fi UI or bloom glare.",
+  "file": "04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png"
 }

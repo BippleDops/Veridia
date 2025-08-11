@@ -24,6 +24,9 @@
   "seed": 7006,
   "alt_text": "Cinematic view of Abyssos Prime Upper Districts with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-upper-districts-v1-abyssos-prime-upper-districts.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a spectacular tableau from a rich, painterly-style, fantasy tabletop setting. It's Abyssos Prime Upper Districts, a medieval fantasy realm with heroic vibes reminiscent of D&D 5e, reflected in culturally coherent gear and devoid of any contemporary technology. The panoramic landscape is distinguished by grand pressure domes and coral spires. Weather cues and particles hint at an approaching storm during the golden hour twilight, with a night glow illuminating everything. Fiery bioluminescent dashes contrast with subsurface caustics to amplify the aquatic fantasy realism. Figures and vehicles are scattered around, showcasing the cityscale. Start with a palette dominated by teals, deep blues, sea-greens, and then apply pearl highlights for a cinematic atmosphere. Make sure to avoid artifacts, modern signage, garbled symbol strings, photoreal CGI, anime style, and superfluous bloom glare. Please be sure to use measured iconography or blank signboards wherever signages happen to be, and keep the aspect ratio and resolution as specified.",
+  "file": "04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-upper-districts-v1-abyssos-prime-upper-districts.png"
 }

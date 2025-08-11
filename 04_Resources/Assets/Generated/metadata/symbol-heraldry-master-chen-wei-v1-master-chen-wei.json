@@ -26,6 +26,9 @@
   "realm": "aquabyssos",
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-chen-wei-v1-master-chen-wei.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine an image in the style of a painterly fantasy collection adhering to the principles of medieval times. Depicted is an underwater scene rich with teals, deep blues, and sea-greens, creating an aquatic fantasy realm. The scene presents an underwater civilization, showcasing various types of dwellings crafted from materials capable of withstanding extreme pressure, and illuminated by beautiful bioluminescent accents. The main focus is on the heraldic emblems, expertly designed by a character named Master Chen Wei. These emblems encompass 2-3 motifs that closely tie to the identity of this civilization. They are presented in different versions that could be stamped on a seal, hung as a banner, or stamped onto coins. All symbols used are meaningful and coherent with no random string of letters or unintelligible symbols. Keep the image in a specified aspect and resolution, ensuring there are no artifacts. Ensure the style is consistent, foregoing modern tech, sci-fi UIs, modern signage, photoreal CGI, anime style, and bloom glare, maintaining a uniform medieval aestehtic throughout.",
+  "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-chen-wei-v1-master-chen-wei.png"
 }

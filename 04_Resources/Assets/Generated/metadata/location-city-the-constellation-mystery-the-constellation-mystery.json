@@ -24,6 +24,9 @@
   "seed": 2001,
   "alt_text": "Cinematic view of The Constellation Mystery with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Locations/location-city-the-constellation-mystery-the-constellation-mystery.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Depict a fantastical, panoramic scene in a painterly style that channels the mystifying allure of The Constellation Mystery. The scene is imbued with medieval fantasy elements, with figures dressed in culturally coherent gear made from materials characteristic of medieval times, no modern technology in sight, and devoid of any modern signage. Bioluminescent coral or cloudstone can be seen, lending an ethereal, aquatic realism. The scene is framed with a brimming cinematic atmosphere, the golden hour glow accentuating the beauty of the scene as if rivaling a storm's impending arrival. Bioluminescent accents and pressure-dome materials can also be seen, their light bouncing off and providing drama. The area is bathed with the hues of teals, deep blues, and sea-greens, highlighted by the glow of pearls. Figures or vehicles are present only to give a sense of scale. Avoid any obvious use of text or animated effects and prevent the inclusion of modern or sci-fi elements.",
+  "file": "04_Resources/Assets/Generated/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png"
 }

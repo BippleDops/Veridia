@@ -24,6 +24,9 @@
   "seed": 7008,
   "alt_text": "Portrait of Pressure Angel Benthia with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Illustrate an image in a painterly fantasy realism style, consistent with a medieval fantasy setting, devoid of modern tech, and geared towards a tabletop fantasy game similar to D&D 5e. The focus of this image is an adult human character known as Angel Benthia, a notable figure from an aquatic region called Aquabyssos/Aethermoor. She is dressed in realm-specific attire that illuminates her character-driven emotions and her memorable traits. Her surroundings embody her signature environment – an underwater world – complete with effects of subsurface caustics and bioluminescent accents. The image captures the essence of pressure-dome materials and highlights the character impressionistically. The color palette is dominated by tones of teals, deep blues, sea-greens, and pearl highlights. The image should be easily readable at small sizes. Please avoid including any embedded text or words unless specified, and refrain from using sci-fi UIs, contemporary signage, photoreal CGI, anime-style elements, and bloom glare.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia.png"
 }

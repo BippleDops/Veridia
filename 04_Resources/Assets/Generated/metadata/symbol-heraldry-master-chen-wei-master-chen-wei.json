@@ -26,6 +26,9 @@
   "realm": "aquabyssos",
   "palette": "gold accents",
   "textPolicy": "no words or inscriptions; pure iconography",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create an image in the style of a detailed, painterly medieval-fantasy tabletop game. The scene should depict heroic characters adorned in culturally coherent gear, with no signs of modern technology, and designed with the accuracy of a Dungeons & Dragons setting. Include a heraldic emblem, simple in its geometry but featuring 2-3 motifs that tie into the identity of a character, presented in variations of a seal, banner, and coin. The color scheme should focus on aquatic fantasy realism with subsurface caustics and bioluminescent accents. Use hues of teals, deep blues, and sea-greens, highlighted with pearl. The materials should give the impression of pressure-dome designs. All elements should have a consistent painterly style, no modern signage, no photoreal CGI, and no blooming glare. Also, avoid including any embedded text or random letter strings, unless specified.",
+  "file": "04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png"
 }

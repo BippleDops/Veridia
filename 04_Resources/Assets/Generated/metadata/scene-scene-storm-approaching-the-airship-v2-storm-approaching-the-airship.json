@@ -24,6 +24,9 @@
   "seed": 7006,
   "alt_text": "Atmospheric illustration of: Storm approaching the airship.",
   "realm": "aethermoor",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-storm-approaching-the-airship-v2-storm-approaching-the-airship.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Envision a vivid scene of a storm brewing around an airship, in the style of romantic realism grounded in the realm of medieval fantasy. The airship, a heroic piece of engineering, is fashioned from cloudstone and brass. Life on the boat takes on a painterly aesthetic featuring decor of a culturally coherent nature, without the inclusion of modern technologies. Wind-swept forms abound across the scene, complementing the atmospheric special effects that bolster the representation of the impending storm. The colors range from navy and gold to cloud-white, with warm sun highlights accentuating the pedal. Please keep in mind to refrain from using wordings or signboards, instead incorporate meaningful symbols or numbered pins.",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-storm-approaching-the-airship-v2-storm-approaching-the-airship.png"
 }

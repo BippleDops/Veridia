@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 1,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-aethermoor-harbor-skirmish-aethermoor-harbor-skirmish.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Envision a top-down view on a tactical map of Aethermoor Harbor, an area rich in medieval-fantasy design, with a total size of 15x15 squares, and 140 pixels for each square that represents the ground. The map uses bold lines for walls and obstacles, and fine lines for textures, with highly contrasting grids. Distinct visual patterns should be present to differentiate passable, impassable, and difficult terrains. The site incorporates strategic elements such as multiple routes, flanking options, ramps, stairs, ledges, and contour lines. The landscape tells a tale of collapses, rips, and currents, all marked with clear icons. Ignoring modern tech or signage, the area reflects a culturally coherent gear themed with airship motifs. Embrace warm sun highlights with a palette of navy, gold, and cloud-white. The style should reflect skyward romantic realism, emphasizing wind-swept forms of cloudstone and brass, keeping a consistent painterly collection style. There should be no text labels, but use icons and clear linework only. Avoid any sci-fi UIs, modern signage, photoreal CGI, and bloom glare. Render the grid and numeric ticks crisply, keeping margins free for any future overlays.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-aethermoor-harbor-skirmish-aethermoor-harbor-skirmish.png"
 }

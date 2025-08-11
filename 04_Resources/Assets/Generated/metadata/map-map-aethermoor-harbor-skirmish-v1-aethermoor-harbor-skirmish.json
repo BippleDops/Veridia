@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 1,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-aethermoor-harbor-skirmish-v1-aethermoor-harbor-skirmish.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Detailed aerial view of a medieval Aethermoor Harbor Skirmish map, inspired by tabletop RPG. The scene is shaped with 15x15 squares at a scale of 140 DPI with distinct passable, impassable and difficult patterned areas. The scene comprehends strategic elements such as collapses, currents, ramps, stairs, ledges with clear markers, ensuring multiple flanking routes. Render the map with bold lines indicating walls and obstacles, and finer lines for the textures present. The design excludes text labels and rather makes use of meaningful icons. The color scheme is dominated by navy, gold, cloud-white, with warm sun highlights. The style is reminiscent of romantic realism with cloudstone and brass elements, wind-swept features and airship motifs. The grid and numeric details are to be highlighted crisply and modern artefacts such as sci-fi UIs, modern signage, photoreal CGI, anime style and bloom glare are to be avoided.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-aethermoor-harbor-skirmish-v1-aethermoor-harbor-skirmish.png"
 }

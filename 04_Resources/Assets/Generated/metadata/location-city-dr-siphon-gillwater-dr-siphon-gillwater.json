@@ -24,6 +24,9 @@
   "seed": 2004,
   "alt_text": "Cinematic view of Dr. Siphon Gillwater with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Locations/location-city-dr-siphon-gillwater-dr-siphon-gillwater.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Immerse yourself in an aquatic fantasy world, styled after a painterly approach from the 1800s that emphasizes dramatic lighting and a unity of color. Take in the panoramic view of a medieval-fantasy city under the sea, bounded by a massive pressure-dome. Bioluminescent coral and floatstones dot the landscape, hinting at an undersea water source. This world uses culturally consistent equipment, no sign of modern technology is seen. For scale, add figures or submersible vehicles subtly visible in the distance. The resplendent palette bathes the scene in teals, deep blues, sea-greens, and pearl highlights, artfully catching the light from the golden hour, nighttime glow, or a brewing storm. Weather cues and particles help set the atmosphere, leaning towards a cinematic concept akin to realism. Avoid modern signage, garbled letters, or meaningful symbols - instead, lean towards iconography or blank signboards.",
+  "file": "04_Resources/Assets/Generated/Locations/location-city-dr-siphon-gillwater-dr-siphon-gillwater.png"
 }

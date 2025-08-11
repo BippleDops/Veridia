@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 2,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-bioluminescent-forest-ambush-v2-bioluminescent-forest-ambush.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Envision a 15x15 grid, each square being 140 pixels large, designed in a top-down perspective. It should convey a scene of a bioluminescent forest ambush in a medieval fantasy setting. It should feature distinct passable, impassable, and difficult terrains, possibly including collapsed areas, rips, and currents. Offer multiple routes and flanking options, and possibly include features like ramps, stairs, ledges, or contour lines. Bold lines should be used for walls and obstacles, with fine lines for textures. Highlight the grid with high contrast but refrain from using text labels, instead relying on clear iconography. Maintain a colour palette consisting of deep teals, sea-greens, pearl highlights, and deep blues, drawing influence from aquatic realism, with details like subsurface caustics and bioluminescent accents. Maintain clean margins and text-safe areas for use in virtual tabletop overlays. Render the grid and numeric ticks crisply without stylized fonts. Ensure symbols and icons are meaningful or numbered, not random or garbled. Avoid elements of science fiction, modern signage, photo-realistic CGI, and anime-style drawing. Ensure the overall style is consistent, painterly, and filled with cultural coherence.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-bioluminescent-forest-ambush-v2-bioluminescent-forest-ambush.png"
 }

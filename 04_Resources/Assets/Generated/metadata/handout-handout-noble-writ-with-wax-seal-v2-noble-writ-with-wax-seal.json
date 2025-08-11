@@ -24,6 +24,9 @@
   "seed": 7007,
   "alt_text": "Noble Writ with Wax Seal as an in-world paper prop.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-noble-writ-with-wax-seal-v2-noble-writ-with-wax-seal.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a high-resolution, painterly-style image in a palette of teals, deep blues, sea-greens, and pearl highlights. This image should depict a scene from an undersea, medieval fantasy world akin to the style of Dungeons and Dragons. Implement features in the scene such as bioluminescent accents and subsurface caustics, indicative of an aquatic setting. In this setting, include an aged noble writ sealed with wax, on creased and water-damaged parchment displaying ink bleed. The writ should be legible, adorned with clear headings, using simple, readable serif fonts, and larger kerning. The document can include hints of microtext or ciphers but must avoid random letter strings. Everything, including the gear, should represent a cultural coherence devoid of any modern tech or signage. The composition of the image should be presented in the requested aspect/resolution, avoiding artifacts.",
+  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-noble-writ-with-wax-seal-v2-noble-writ-with-wax-seal.png"
 }

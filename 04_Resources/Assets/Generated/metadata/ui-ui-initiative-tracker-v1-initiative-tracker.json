@@ -24,6 +24,9 @@
   "seed": 7005,
   "alt_text": "Interface mockup: Initiative Tracker.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-v1-initiative-tracker.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Design a painterly-styled medieval fantasy user interface for a tabletop RPG similar to D&D. Include a grid-based layout with clear spacing, icons, meters, and controls. The overall aesthetic should draw inspiration from aquatic themes, featuring materials and surfaces that suggest an underwater environment, like the look of pressure-dome materials and the glimmers of bioluminescence. Elements of parchment, metal, and wood motifs should be integrated to emphasize the fantasy setting. Colors should stick to a palette of deep ocean blues, teals, sea-greens, enhanced with pearly highlights. Maintain high contrast for readability, employing sans-serif typography at 8–24 pt size for crisp, clear labels (e.g., STR, DEX, HP, BAG, MAP). Stay away from nonsensical symbols or strings, maintaining sense in content and consistency in alignment. Avoid incorporating elements suggestive of sci-fi settings, modern signs, realistic CGI, or anime style, and avoid excessive bloom glare.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-v1-initiative-tracker.png"
 }

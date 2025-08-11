@@ -24,6 +24,9 @@
   "seed": 2002,
   "alt_text": "Noble Writ with Wax Seal as an in-world paper prop.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-noble-writ-with-wax-seal-noble-writ-with-wax-seal.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Compose an image in the style of a painterly collection that depicts a heroic fantasy scene with a medieval atmosphere. This scene is below water, reflecting true aquatic realism with elements such as underwater caustics, bioluminescent accents and pressure-dome materials. The color palette leans towards teals, deep blues, sea-greens with highlights of pearl. Included in this depiction is a worn noble writ made of creased parchment with a wax seal. The document shows signs of water damage and ink bleed. It has clear headings, readable serif fonts and does not contain any gibberish. Tiny texts and cipher hints are scattered within it, ensuring they resonate with the surrounding fantasy theme. Whilst ensuring a high-resolution scan, the aspect and resolution are specified and devoid of any artifacts. All texts must be clear, favoring simple, readable serif fonts with larger kerning. Avoid any elements that tilt to sci-fi UIs, modern signage, photoreal CGI, anime styles or bloom glare.",
+  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-noble-writ-with-wax-seal-noble-writ-with-wax-seal.png"
 }

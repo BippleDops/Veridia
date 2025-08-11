@@ -24,6 +24,9 @@
   "seed": 7003,
   "alt_text": "Atmospheric illustration of: The party's first glimpse of Abyssos Prime.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-v2-the-party-s-first-glimpse-of-abyssos-prime.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Your adventure party's maiden view of the splendid Abyssos Prime in a fantastical tabletop setting akin to D&D 5e. Explore the enthralling abyss, embellished with terrestrial medieval-fantasy materials and harmonious attire. The highlight is a majestic, theatrical scene charged with a unique atmosphere: Subaquatic realism blends perfectly with mesmeric subsurface caustics whilst bioluminescent accents add depth and allure. This high-fidelity illustration is devoid of any modern technology. Dive into the cinematic light shaping where the narrative focal point is untouched by any extraneous features - no readable signs or paragraphs, no garbled text, and certainly no sci-fi or contemporary elements. The scene is shaped by a soothing palette of teals, deep blues, sea-greens, and pearl highlights. Make sure the scene is consistent with a painterly collection style, and the quality of the image is high by avoiding any artifacts. Keep any symbols meaningful or use numbered pins, adding a tangible depth to your exploration.",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-v2-the-party-s-first-glimpse-of-abyssos-prime.png"
 }

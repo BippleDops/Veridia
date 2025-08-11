@@ -24,6 +24,9 @@
   "seed": 2003,
   "alt_text": "Cult Text with Marginalia as an in-world paper prop.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-cult-text-with-marginalia-cult-text-with-marginalia.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a high-resolution image of a worn-out parchment, inspired by tabletop fantasy, specifically resembling the style of traditional Dungeon & Dragons. The parchment should show signs of water damage, and ink bleed, and be creased as if it has been well-used. It's an in-world document containing a cult text with meaningful marginalia, and it includes hints in microtext or cipher. The text should be legible, written in readable serif fonts with larger kerning and clear headings. Use Latin-like placeholder words or leave blank lines for later typesetting if in doubt. The document features depictions or symbols of an underwater realm, showcasing aspects of aquatic fantasy realism like bioluminescence accents and illustrations of things under pressure-dome materials. The color palette includes deep teals, sea-greens, deep blues, and pearl highlights. Please ensure there's no modern technology or symbols, and avoid any elements resembling sci-fi UI, anime style, or photoreal CGI.",
+  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-cult-text-with-marginalia-cult-text-with-marginalia.png"
 }

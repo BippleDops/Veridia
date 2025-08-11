@@ -24,6 +24,9 @@
   "seed": 2001,
   "alt_text": "Interface mockup: Character Sheet Layout.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-character-sheet-layout-character-sheet-layout.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create an image in a painterly style, inspired by a tabletop fantasy game. The scene should be grounded in medieval fantasy, with culturally coherent gear and no modern technologies. Include an interface screen displaying a character sheet layout with a grid-based design, spacing, meters, controls, and fantasy-themed icons. The UI should evoke a feel of parchment, metal, and wood motifs. Aim for high contrast and readability. Incorporate elements of aquatic fantasy realism, including bioluminescent accents, and materials that suggest pressure domes. The palette should include teals, deep blues, sea-greens, and pearl highlights. Ensure that typography is crisp and readable, adhering to WCAG standards of 4.5:1 contrast. Abbreviations may include things like STR, DEX, HP, BAG, and MAP, or clean unlabeled slots are acceptable. No nonsense strings allowed. Keep symbols meaningful or use numbered pins. Avoid sci-fi UIs, modern signage, and elements resembling photoreal CGI, anime style, or bloom glare.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-character-sheet-layout-character-sheet-layout.png"
 }

@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 1,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-v2-pressure-temple-ruins.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Generate a painterly image in a heroic medieval-fantasy style of a tabletop board. This is the 'Pressure Temple Ruins,' using an overhead perspective. The map should have a distinct size, 30x30 squares with a resolution of 140 pixels per square. The top-down tactical map illustrates passable, impassable, and difficult terrains with distinct patterns. Include features such as ramps, staircases, ledges, and contour lines, and various flanking options. Decorate it with an aquatic theme, incorporating a palette of teals, deep blues, sea-greens with pearl highlights. Do not embed any text labels, and avoid any elements of modern signage, sci-fi interfaces, photoreal CGI, anime style, or glaring bloom. Please also keep a clear margin and maintain areas suitable for VTT overlays.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-v2-pressure-temple-ruins.png"
 }

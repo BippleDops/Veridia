@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 2,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-bioluminescent-forest-ambush-v1-bioluminescent-forest-ambush.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A medieval fantasy tactical map painted in a consistent, artistic style. The setting is a bioluminescent forest ambush in a 15x15 top-down grid, each square being 140 pixels. It's important to see clear differences between passable, impassable, and difficult terrains including collapses, rips, and currents. The map offers multiple routes and flanking options, possibly including ramps, stairs, ledges or contour lines. Obstacles and walls are distinguished by bold lines, while textures use fine lines in a high-contrast grid. The overall scene is painted in deep underwater hues, including teals, deep blues, sea-greens, and pearl highlights, providing an aquatic fantasy realism touch with subtle bioluminescent accents. No text labels nor stylized fonts are to be used; instead symbols, icons and numbered pins mark key points. The style avoids modern signs, perceived photo-real CGI, anime style, and bloom glare. The edges of the map are left clean for possible virtual tabletop overlays, and the entire image should demonstrate a high level of coherence and attention to detail.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-bioluminescent-forest-ambush-v1-bioluminescent-forest-ambush.png"
 }

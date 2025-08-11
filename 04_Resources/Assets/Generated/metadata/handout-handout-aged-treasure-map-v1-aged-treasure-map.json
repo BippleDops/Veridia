@@ -24,6 +24,9 @@
   "seed": 7002,
   "alt_text": "Aged Treasure Map as an in-world paper prop.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-aged-treasure-map-v1-aged-treasure-map.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create an image of an old, creased treasure map made from aged parchment, complete with signs of water damage and ink bleed. The display should conform to a painterly collection style demonstrating heroic tabletop fantasy similar to Dungeons and Dragons, and must contain culturally coherent medieval gear but avoid any modern technology. Font should be a legible, clear, and easy to read serif style with large kerning and distinct headings. Cipher hints or microtext can be included but should avoid gibberish and must be high-resolution. Emphasize aquatic fantasy realism in the imagery such as artificial illumination from bioluminescent accents, subsurface caustics effects, and pressure-dome materials. The color palette should focus on teals, deep blues, sea-greens with pearl highlights. Please ensure the text components adhere to the principle of legibility and meaningfulness avoiding garbled or random character strings or using numbered pins instead. The overall aspect should be devoid of artifacts, sci-fi UIs, modern signage, photoreal CGI, and anime style elements.",
+  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-aged-treasure-map-v1-aged-treasure-map.png"
 }

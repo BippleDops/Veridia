@@ -24,6 +24,9 @@
   "seed": 2002,
   "alt_text": "Atmospheric illustration of: Storm approaching the airship.",
   "realm": "aethermoor",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-storm-approaching-the-airship-storm-approaching-the-airship.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A detailed image reminiscent of medieval fantasy literature. A massive airship, expertly crafted from cloudstone and brass, with its intricate details highlighted in gold. The scene takes place under an expansive sky with atmospheric effects indicating an imminent storm. The forms and shapes are wind-swept, akin to the style of romantic realism, implying motion and drama in the scene. There is a clear narrative focal point that is reinforced through strategic, cinematic lighting. The color palette is primarily navy, cloud-white, and gold, with warm sunlight highlighting certain areas. There are no distracting modern elements or signage, and every symbol or icon serves a meaningful purpose in the narrative. No modern technologies, anime style, or photographic renditions, only a high-fidelity illustration in a consistent, painterly style. This image should really capture the essence of a heroic adventure in a tabletop fantasy world.",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-storm-approaching-the-airship-storm-approaching-the-airship.png"
 }

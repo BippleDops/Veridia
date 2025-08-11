@@ -24,6 +24,9 @@
   "seed": 7008,
   "alt_text": "Interface mockup: Pressure/Altitude Gauge.",
   "realm": "mixed",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-pressure-altitude-gauge-v1-pressure-altitude-gauge.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a heroic tabletop fantasy scene with medieval materials, such as parchment, metal, and wood. Please create a grid-based layout with space between each square for decorated icons, meters, and controls. Craft this layout using a painterly style that adheres to the aesthetics of a D&D 5e fantasy UI. Apply an aesthetic that merges reality and fantasy, integrating aquatic and sky motifs. Use a color palette that blends teal and indigo hues with accents of storm gold. The display interface screen should show a Pressure/Altitude Gauge. Typography should be large, sans-serif, high contrast, and abiding by WCAG 4.5:1 guidelines for readability. Incorporate short, practical labels such as 'STR', 'DEX', 'HP', 'BAG', 'MAP', or clean unlabeled slots. Avoid garbled or random letter strings, instead use recognizable icons, symbols, or numbered pins. Please avoid sci-fi UIs, modern signage, photoreal CGI, and an anime style, bloom glare, and remember to avoid artifacts.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-pressure-altitude-gauge-v1-pressure-altitude-gauge.png"
 }

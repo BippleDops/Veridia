@@ -25,6 +25,9 @@
   "alt_text": "Blueprint cutaway of Abyssal Scout Submarine.",
   "realm": "aquabyssos",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Create an intricate and detailed medieval-fantasy blueprint of an Abyssal Scout Submarine from a tabletop fantasy game. The submarine should be illustrated from the top, side, and cross-section views showcasing various decks, ballast, pressure hulls and engines. On board should be a diverse crew of different descents and genders dressed in culturally coherent gear within the setting, with no modern technology involved. Use a consistent, painterly style reflecting materials from their realm and emphasizing aquatic fantasy realism. Illuminate the scene with subsurface caustics and bioluminescent accents. Primary colors should include teals, deep blues, sea-greens, with pearl highlights, capturing the depth and mystery of the sea. Include numbered callout pins (01, 02, 03…) in the diagram instead of long text annotations and avoid any unnecessary modern signs, sci-fi UIs, or photoreal effects. Essentially, ensure a clean, understandable, and functional diagram of the submarine with a dedicated area for a legend.",
+  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.png"
 }

@@ -25,6 +25,9 @@
   "alt_text": "Blueprint cutaway of Hybrid Rift-Runner Sloop.",
   "realm": "void",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v1-hybrid-rift-runner-sloop.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "An image of a fantastical tabletop setting, presenting a Blueprint cutaway of a hybrid Rift-Runner Sloop boat. Display the boat from top, side, and cross-section views, illustrating its decks, ballast, pressure hulls, engines, and crew. The materials and gear used should match a coherent, medieval fantasy culture with no modern technology. Maintain a painterly style consistent with the whole collection. Add elements of cosmic surrealism and impossible geometries to the setting, including a starfield grain and indigo glows. The color palette should predominantly feature indigos, violets, black, and cold silver. Legends should be presented cleanly, preferably identified with numbered callout pins (01, 02, 03, etc.) rather than lengthy texts. Modern signage, sci-fi User Interfaces, photoreal CGI, and anime styles should be avoided.",
+  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v1-hybrid-rift-runner-sloop.png"
 }

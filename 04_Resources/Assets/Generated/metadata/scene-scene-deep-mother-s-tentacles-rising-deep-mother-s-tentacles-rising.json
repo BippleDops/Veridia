@@ -24,6 +24,9 @@
   "seed": 2003,
   "alt_text": "Atmospheric illustration of: Deep Mother's tentacles rising.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine an atmospheric scene from a heroic tabletop fantasy game, distinctly reminiscent of Dungeons and Dragons 5th Edition. Picture this as a scene grounded in medieval-fantasy with culturally coherent gear, strictly avoiding any modern technology or signage. Visualize this collection in a consistent, painterly art style. The prime narrative focus is on the rising tentacles of a creature known as 'Deep Mother.' Enhance the scene with atmospheric effects and cinematic lighting, all whilst maintaining a high level of illustrative fidelity. The style leans towards aquatic fantasy realism, including elements such as bioluminescent accents, underwater viewing dome materials, and the effect of light refraction under water known as subsurface caustics. The color palette emphasizes hues of deep blues, sea-greens, teals, and pearl highlights. Try to eliminate any visible artifacts, avoid readable signage or paragraphs, using instead meaningful symbols or blank sign-boards. Stay away from modern or sci-fi user interfaces, photoreal CGI, bloom glare, as well as the anime style.",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png"
 }

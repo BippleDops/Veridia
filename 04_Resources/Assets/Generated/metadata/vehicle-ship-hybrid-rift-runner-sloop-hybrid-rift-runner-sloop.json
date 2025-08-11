@@ -25,6 +25,9 @@
   "alt_text": "Blueprint cutaway of Hybrid Rift-Runner Sloop.",
   "realm": "void",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-hybrid-rift-runner-sloop.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "A fantastical, cosmic and surreal tabletop scene in the flavor of Dungeons & Dragons 5e. The central piece is a hybrid Rift-Runner Sloop imagined in a painterly, medieval fantasy style. The image should comprise top, side, and cross-section views of the sloop, revealing different decks, ballast, pressure hulls, and engines. The ship is equipped with gear that's culturally coherent and crafted from realm's materials, devoid of modern technology. An ethereal layer of cosmic surrealism envelops the scene with impossible geometries, a starfield grain, and soft indigo glows. The clean blueprint design is sturdy and functional, favors vernacular of fantasy nautical and aeronautical concepts. The dominate colors are indigo, violet, black, and cold silver. Implement numbered callout pins (01, 02, 03…) for details and provide a clean legend area for references. The image should be devoid of artifacts, sci-fi UIs, modern signs, and bloom glare with an emphasis on a paint-like aesthetic as opposed to photoreal CGI or anime.",
+  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-hybrid-rift-runner-sloop.png"
 }

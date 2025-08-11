@@ -25,6 +25,9 @@
   "alt_text": "Blueprint cutaway of Hybrid Rift-Runner Sloop.",
   "realm": "void",
   "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v2-hybrid-rift-runner-sloop.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Imagine a detailed tableau in the style of fantasy tabletop games, infused with an aura of cosmic surrealism. We're looking at a blueprint of a unique and complex ship known as the Hybrid Rift-Runner Sloop, admired from top, side, and in cross-section. The ship is segmented into decks, displaying ballast and pressure hulls, alongside the mechanical marvel that are its engines. Each part of the engine sparks creatively with indigo light, humbly glowing in the encompassing darkness. The crew onboard are illustrated as miniature figures, each detailed with culturally appropriate medieval gear crafted from realm materials. The blueprint's overall palette embraces shades of indigo, violet, black and cold silver, strewn upon a backdrop that simulates the graininess of a starfield. Important locations are carefully marked with numbered pins (01, 02, 03, and so on), steering clear from random symbols or garbled forms. A clean and uncluttered legend area exists without the layering of complex paragraphs. This ethereal scene altogether avoids the incorporation of modern technology, sci-fi interfaces, modern signage, photorealistic CGI, anime style, and excessive bloom glare.",
+  "file": "04_Resources/Assets/Generated/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v2-hybrid-rift-runner-sloop.png"
 }

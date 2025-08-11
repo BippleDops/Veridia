@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 1,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-pressure-temple-ruins.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Create a 30x30 tabletop fantasy tactical map in a painterly style. The map represents the ruins of a pressure temple, drawn in top-down view, with clear markings for passable, impassable, and difficult terrains. The map needs to exhibit collapses, rips, and currents. The design should offer multiple routes and flanking options, incorporating features like ramps, stairs, ledges, or contour lines. Walls and obstacles are outlined in bold, while textures are conveyed with fine lines. A high-contrast grid guides the layout. Icons are used for marking, with no text labels. No modern technology or signage is present, only culturally appropriate medieval-fantasy materials. The color scheme emphasizes teals, deep blues, sea-greens, and pearl highlights, presented in an aquatic fantasy realism style. The design features subsurface caustics and bioluminescent accents, and the materials resemble those typically used in pressure domes. The design should avoid artifacts, stylized fonts, random letter strings, sci-fi UIs, and anime style. The map is intended to be Virtual Tabletop (VTT) ready.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-pressure-temple-ruins.png"
 }

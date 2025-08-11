@@ -24,6 +24,9 @@
   "seed": 7002,
   "alt_text": "Interface mockup: Character Sheet Layout.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Envision an elaborately designed underwater-themed tabletop role-playing game character sheet, styled after a mid-medieval fantasy setting. The sheet should be in a grid-based layout with ample spacing for clarity, showcasing various icons, meters, and controls embodying fantasy motifs of parchment, metal, and wood. All elements on this interface should have high contrast to maintain readability, incorporating a color palette of deep blues, teals, sea-greens, and pearl highlights illuminated by bioluminescent accents. The realism of underwater scenes is paramount, with elements of subsurface caustics and pressure-dome materials. All the text must be crisp and readable, adhering to WCAG standards for contrast with a sizing between 8 to 24 points. Standard abbreviations like STR, DEX, HP, BAG, and MAP should be easily identifiable. Lastly, avoid incorporating elements of modern technology, sci-fi UIs, modern signage, photoreal CGI, or an anime style.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-character-sheet-layout-v1-character-sheet-layout.png"
 }

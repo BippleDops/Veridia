@@ -24,6 +24,9 @@
   "seed": 7004,
   "alt_text": "Aged Treasure Map as an in-world paper prop.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-aged-treasure-map-v3-aged-treasure-map.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a composition in a painterly style evocative of medieval fantasy. The main focus is an aged treasure map, drawn on creased parchment showing signs of water damage and ink bleed. The text on the map is in a clear, large-kerned, readable serif font. Avoid any gibberish, instead use short Latin-like placeholder words with proper spacing or blank lines for later typesetting. The map might hint at underwater treasures, with emphasis on aquatic realism, visible through hues of teals, deep blues, and sea-greens, complemented by pearl accents. Throughout the scene, hints of bioluminescent entities illuminate the otherwise deep sea environment. The gear and materials throughout the scene should have a strong coherence with medieval fantasy, avoiding any modern or sci-fi elements.",
+  "file": "04_Resources/Assets/Generated/Handouts/handout-handout-aged-treasure-map-v3-aged-treasure-map.png"
 }

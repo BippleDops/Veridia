@@ -24,6 +24,9 @@
   "seed": 2001,
   "alt_text": "Atmospheric illustration of: The party's first glimpse of Abyssos Prime.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-the-party-s-first-glimpse-of-abyssos-prime.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a sublime, painterly styled depiction of a medieval fantasy scene. The narrative focal point is a party of adventurers getting their first glimpse of the aquatic city, Abyssos Prime. The city, saturated in teals, deep blues, and sea-greens, is alive with subsurface caustics and bioluminescent accents, giving it an almost magical aura. The characters wear culturally grounded gear, their equipment reflecting the medieval fantasy-elements with no signs of modern technology. Strong and cinematic lighting shapes the scene, further amplified by atmospheric visual effects. The city resides under a glistening pressure dome, with pearl highlights giving it a unique sheen. Care is taken to avoid modern signage or photo-real CGI. The symbols used are carefully chosen for their meaning and relevance, no garbled or random strings, and no anime style or bloom glare elements. The scene is punctuated by an unmistakable sense of thrilling expectancy, showcasing the high-fidelity illustration skills.",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-the-party-s-first-glimpse-of-abyssos-prime.png"
 }

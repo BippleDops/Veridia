@@ -32,6 +32,9 @@
     "textPolicy": "no text; overlays only"
   },
   "levels": 1,
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-v1-pressure-temple-ruins.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a top-down tactical map in a painterly collection style, representing the ruins of a mystical Pressure Temple underwater. The temple is covered in bioluminescent accents, glowing in teals, deep blues, and sea-greens, with pearl highlights. Use distinct patterns to represent passable, impassable, and difficult terrains including collapses, rips, and currents, all clearly marked. Include multiple routes for strategic gameplay, featuring elements like ramps, stairs and ledges. Lines are used distinctively, bold ones represent walls or obstacles and fine ones for textures. The square map is 30x30 with each square being 140 pixels wide and tall (140 DPI). Render a high-contrast grid and numeric ticks crisply, avoiding stylized fonts. Rely solely on meaningful symbols or numbered pins, shunning random letter strings, modern signage, text labels, and sci-fi UIs. Make sure to leave clean margins and text-safe areas for VTT overlays.",
+  "file": "04_Resources/Assets/Generated/Maps/map-map-pressure-temple-ruins-v1-pressure-temple-ruins.png"
 }

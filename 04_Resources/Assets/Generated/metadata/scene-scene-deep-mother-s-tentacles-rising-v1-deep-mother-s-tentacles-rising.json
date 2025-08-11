@@ -24,6 +24,9 @@
   "seed": 7008,
   "alt_text": "Atmospheric illustration of: Deep Mother's tentacles rising.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a high-fidelity, cinematic and atmospheric scene from a fantastical and medieval-themed tabletop game universe. In the heart of the ocean's depth, Deep Mother's majestic tentacles rise, creating a clear narrative focal point. The palpable underwater environment is filled with subsurface caustics and bioluminescent accents adding to the atmosphere's depth. The style is akin to a painterly collection, with influences from atmospheric fantasy realism. The palate is awash in shades of teals, deep blues, and sea-greens, with highlights of iridescent pearl. All characters, if present, are decked in culturally coherent, medieval gear void of any modern technological aspects. There is a notable absence of readable signage or paragraphs and rather the use of meaningful symbols or numbered pins. No elements of modern signage or sci-fi UIs, nor attributes of photorealism, and anime styles are included. The image follows a certain resolution and aspect ratio and avoids any visual artifacts.",
+  "file": "04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-v1-deep-mother-s-tentacles-rising.png"
 }

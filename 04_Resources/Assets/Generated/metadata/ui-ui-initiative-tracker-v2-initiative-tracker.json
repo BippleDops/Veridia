@@ -24,6 +24,9 @@
   "seed": 7006,
   "alt_text": "Interface mockup: Initiative Tracker.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-v2-initiative-tracker.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a heroic, medieval fantasy tabletop interface with distinctive features. The depiction should closely resemble the style and materials of a 5th edition fantasy role-playing game, with culturally fitting gear and devoid of any modern technology or signs. The style should evoke the techniques of classical painters with a focus on consistency throughout. The interface includes a detailed Initiative Tracker, consisting of a grid-based layout with ample spacing, distinctive icons, meters, and controls drawing inspiration from fantasy materials such as parchment, metal, and wood. The entire layout is striking with high contrast for clear readability. The design incorporates elements of underwater fantasy realism, such as subsurface caustics and bioluminescent accents. Materials resemble the sturdy material of pressure domes, and the color palette is enriched with teals, deep blues, sea-greens, and glistening pearl highlights. The typography should be sans-serif, with a contrast ratio of at least 4.5:1 as per WCAG guidelines, with short, real labels like STR, DEX, HP, BAG, MAP or clean unlabeled slots. Avoid any form of randomness in letter strings; keep any symbols meaningful or resort to numbered pins. The final image should be crisp and readable, devoid of any sci-fi UIs, modern signage, overly realistic CGI, anime style, and bloom glare.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-v2-initiative-tracker.png"
 }

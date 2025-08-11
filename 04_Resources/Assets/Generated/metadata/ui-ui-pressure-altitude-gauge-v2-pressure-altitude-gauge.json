@@ -24,6 +24,9 @@
   "seed": 7009,
   "alt_text": "Interface mockup: Pressure/Altitude Gauge.",
   "realm": "mixed",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-pressure-altitude-gauge-v2-pressure-altitude-gauge.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a heroic, medieval fantasy-themed tabletop game interface, inspired by the aesthetic of Dungeons and Dragons 5th Edition. Gear should have cultural coherence and be made from medieval materials, avoiding modern tech and signage. The interface should have a painterly collection style and feature a pressure and altitude gauge. There should be a grid-based layout with spacing, icons, meters, and controls. The user interface design should incorporate fantasy motifs of parchment, metal, and wood, yet maintain high contrast and readability. The design should give an impression of merged environmental zones, expressing hybrid motifs of aquatic and sky elements. Implement a colour scheme that blends teal and indigo, with accents of storm gold. The typography must be sharp and easy to read, preferring sans-serif, high contrast and WCAG 4.5:1 compliance. Use short, real labels such as 'STR', 'DEX', 'HP', 'BAG', 'MAP' or maintain clean unlabeled slots. Ensure the text size falls within 8–24 point range and the alignment is consistent. Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, and bloom glare.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-pressure-altitude-gauge-v2-pressure-altitude-gauge.png"
 }

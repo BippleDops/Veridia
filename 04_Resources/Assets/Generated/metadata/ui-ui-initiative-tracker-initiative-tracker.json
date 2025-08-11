@@ -24,6 +24,9 @@
   "seed": 2002,
   "alt_text": "Interface mockup: Initiative Tracker.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-initiative-tracker.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Create a heroic tabletop gaming interface with an artistic style inspired by medieval fantasy. The layout should be grid-based with intuitive controls, tracker for player initiative, spaces, and icons fashioned from parchment, metal, and wood motifs, all against a backdrop of an aquatic fantasy scene. Embody realistic undertones with subsurface light refractions and bioluminescent highlights. Dominant colors should be teal, deep blue, sea-green, with pearl accents. Keep the typography crisp and readable, adhering to WCAG 4.5:1 contrast. Use short, actual labels such as STR, DEX, HP, BAG, and MAP, or clean unlabeled slots. Stay clear of random characters and modern or sci-fi motifs. The image should have exceptional resolution and no visible artifacts.",
+  "file": "04_Resources/Assets/Generated/Digital/ui-ui-initiative-tracker-initiative-tracker.png"
 }

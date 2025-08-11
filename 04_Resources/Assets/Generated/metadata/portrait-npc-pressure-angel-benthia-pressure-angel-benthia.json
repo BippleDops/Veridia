@@ -24,6 +24,9 @@
   "seed": 2003,
   "alt_text": "Portrait of Pressure Angel Benthia with evocative background; clear features readable at token size.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1024",
+  "revised_prompt": "An exquisite portrait of a heroic fantasy character named Angel Benthia, an adult human woman from the poetic realm of Aquabyssos/Aethermoor. Dressed in culturally coherent, realm-specific medieval attire, her gear is non-technological but accented with active principles of aquatic fantasy realism such as subsurface caustics and bioluminescent elements. Encased in a pressure-dome material to mirror her undersea habitat, her prominent features and memorable traits are conveyed with painterly depth and emotion. The scene is painted in a consistent, detailed style, emphasizing realistic fantasy elements, with a dominant palette of teals, deep blues, and sea-greens, highlighted with pearlescent tones. All elements should maintain coherence even at small sizes. No modern elements like sci-fi UIs, modern signage, or photoreal CGI are present, and no words or symbols, unless meaningful, are embedded within this vivid and soulful portraiture.",
+  "file": "04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png"
 }

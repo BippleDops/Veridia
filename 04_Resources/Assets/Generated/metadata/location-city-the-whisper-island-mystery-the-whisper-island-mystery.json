@@ -24,6 +24,9 @@
   "seed": 2005,
   "alt_text": "Cinematic view of The Whisper Island Mystery with architecture and inhabitants.",
   "realm": "aquabyssos",
-  "generator": "placeholder",
-  "file": "04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.svg"
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A panoramic, cinema-style concept art of the Whisper Island Mystery in a scenario influenced by a tabletop fantasy game, implemented with medieval-fantasy materials and gear that adhere to cohesive cultural guidelines. There are no modern technologies, signs, sci-fi UIs, blooming glares or anime styles. It's a unique vision of aquatic fantasy realism, set during the golden hour on the cusp of a storm, where bioluminescent corals or cloudstones illuminate the seascape. Figures and vehicles add a sense of scale, while pressure-dome materials add a sense of depth. The environment thrives with weather indications and particles, set in teals, deep blues, sea-greens, and pearl highlights. Any patterns or signs are unobtrusive and meaningful, avoiding recognizable texts or sentences, instead opting for simple symbols or numbered pins.",
+  "file": "04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png"
 }

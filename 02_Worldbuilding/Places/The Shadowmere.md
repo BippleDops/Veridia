@@ -28,7 +28,7 @@ status: draft
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-shadowmere-the-shadowmere.svg)
+![](04_Resources/Assets/Generated/Locations/location-city-the-shadowmere-the-shadowmere.png)
 
 
 

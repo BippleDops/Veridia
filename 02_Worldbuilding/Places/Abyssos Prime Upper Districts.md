@@ -11,7 +11,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts.svg)
+![](04_Resources/Assets/Generated/Locations/location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts.png)
 
 
 

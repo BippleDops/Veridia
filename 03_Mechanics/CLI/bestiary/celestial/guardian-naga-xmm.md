@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.svg)
+![](04_Resources/Assets/Generated/Creatures/creature-creature-guardian-naga-xmm-guardian-naga-xmm.png)
 
 # [Guardian Naga](3-Mechanics\CLI\bestiary\celestial/guardian-naga-xmm.md)
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

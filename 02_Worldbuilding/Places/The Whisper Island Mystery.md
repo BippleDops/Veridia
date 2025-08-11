@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.svg)
+![](04_Resources/Assets/Generated/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png)
 
 
 

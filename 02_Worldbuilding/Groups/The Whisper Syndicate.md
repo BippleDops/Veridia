@@ -10,7 +10,7 @@ type: Group
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-whisper-syndicate-the-whisper-syndicate.svg)
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-whisper-syndicate-the-whisper-syndicate.png)
 
 
 

@@ -26,7 +26,7 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.svg)
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png)
 
 
 

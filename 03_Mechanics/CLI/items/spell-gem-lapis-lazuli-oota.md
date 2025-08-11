@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.svg)
+![](04_Resources/Assets/Generated/Items/item-artifact-spell-gem-lapis-lazuli-oota-spell-gem-lapis-lazuli-oota.png)
 
 # Spell Gem (Lapis lazuli)
 *Wondrous item, uncommon (attunement optional)*  

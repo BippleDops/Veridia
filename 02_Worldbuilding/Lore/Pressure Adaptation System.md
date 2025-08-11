@@ -18,11 +18,11 @@ updated: 2025-08-11
 
 ## Overview
 
-The Pressure Adaptation System represents the foundational technology that makes life possible in [[02_Worldbuilding/Places/Aquabyssos]]. This sophisticated bio-mechanical network combines crystalline pressure regulation, organic adaptation enhancement, and magical atmospheric manipulation to allow surface dwellers and their descendants to survive and thrive at crushing ocean depths. Without this system, human civilization beneath the waves would be impossible.
+The Pressure Adaptation System represents the foundational technology that makes life possible in [[Aquabyssos]]. This sophisticated bio-mechanical network combines crystalline pressure regulation, organic adaptation enhancement, and magical atmospheric manipulation to allow surface dwellers and their descendants to survive and thrive at crushing ocean depths. Without this system, human civilization beneath the waves would be impossible.
 
 The system operates through an integrated network of personal adaptation devices, district-wide pressure regulators, emergency backup systems, and biological enhancement chambers that work together to create stable living environments throughout the underwater city. Each component serves critical functions while maintaining redundancy that prevents catastrophic system failure.
 
-Recent innovations have enhanced the system's capabilities to accommodate refugees from [[02_Worldbuilding/Places/Aethermoor]], address pressure-related corruption effects, and adapt to changing depth requirements as the city continues to expand deeper into the ocean trenches. However, the complexity of these improvements has also created new vulnerabilities and maintenance challenges.
+Recent innovations have enhanced the system's capabilities to accommodate refugees from [[Aethermoor]], address pressure-related corruption effects, and adapt to changing depth requirements as the city continues to expand deeper into the ocean trenches. However, the complexity of these improvements has also created new vulnerabilities and maintenance challenges.
 
 The system's importance extends beyond mere survival—it shapes Aquabyssos culture, social structure, and daily life in profound ways. Citizens plan their lives around pressure schedules, social status often correlates with adaptation levels, and the entire economy depends on pressure-related technologies and services.
 
@@ -438,11 +438,11 @@ Understanding pressure adaptation helps characters navigate Aquabyssos society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary setting utilizing pressure adaptation technology
-- [[02_Worldbuilding/Lore/Pressure Tubes]] - Transportation system integrated with adaptation devices
-- [[02_Worldbuilding/Lore/Underwater Breathing]] - Complementary life support technology
-- [[02_Worldbuilding/Lore/The Deep Harvest]] - Economic system dependent on adapted workers
-- [[02_Worldbuilding/People/Chief Pressure Engineer Nautilus Deepwright]] - System director and lead engineer
-- [[02_Worldbuilding/People/Master Engineer Coral Pressureforge]] - Manufacturing facility director
-- [[02_Worldbuilding/Groups/Pressure Engineering Guild]] - Professional organization supporting system development
-- [[02_Worldbuilding/Groups/Adaptation Medical Society]] - Healthcare professionals specializing in pressure medicine
+- [[Aquabyssos]] - Primary setting utilizing pressure adaptation technology
+- [[Pressure Tubes]] - Transportation system integrated with adaptation devices
+- [[Underwater Breathing]] - Complementary life support technology
+- [[The Deep Harvest]] - Economic system dependent on adapted workers
+- [[Chief Pressure Engineer Nautilus Deepwright]] - System director and lead engineer
+- [[Master Engineer Coral Pressureforge]] - Manufacturing facility director
+- [[Pressure Engineering Guild]] - Professional organization supporting system development
+- [[Adaptation Medical Society]] - Healthcare professionals specializing in pressure medicine

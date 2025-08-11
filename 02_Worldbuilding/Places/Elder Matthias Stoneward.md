@@ -2,7 +2,7 @@
 tags: [npc, elder, stoneward, dwarf, engineer, aethermoor]
 status: "complete"
 world: "Aethermoor"
-type: "npc"
+type: "location"
 created_by: "auto-stub"
 created: 2025-08-08
   - Category/People

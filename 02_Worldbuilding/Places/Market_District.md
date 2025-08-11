@@ -2,7 +2,7 @@
 tags: [location]
 type: "district"
 region: "Westmarch City"
-faction: "[[02_Worldbuilding/Groups/Merchants Guild]]"
+faction: "[[Merchants Guild]]"
 faction_influence: 8
 danger_level: 2
 encounter_chance: 0.1
@@ -15,7 +15,7 @@ connected_locations:
 shops:
   - name: "Ironforge Smithy"
     type: "Blacksmith"
-    owner: "[[02_Worldbuilding/People/Gareth_Ironforge]]"
+    owner: "[[Gareth_Ironforge]]"
   - name: "Starweaver's Arcana"
     type: "Magic Shop"
     owner: "[[Elena Starweaver]]"
@@ -53,7 +53,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 **Population:** 3,000 (during market days: 5,000+)
 **Primary Race:** Human (60%), Dwarf (20%), Halfling (15%), Other (5%)
 **Government:** Merchant Council
-**Controlling Faction:** [[02_Worldbuilding/Groups/Merchants Guild]]
+**Controlling Faction:** [[Merchants Guild]]
 
 ## Notable NPCs
 ### Leaders
@@ -61,7 +61,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 - [[Guildmaster Harwick]] - Merchant's Guild leader
 
 ### Merchants
-- [[02_Worldbuilding/People/Gareth_Ironforge]] - Master blacksmith
+- [[Gareth_Ironforge]] - Master blacksmith
 - [[Elena Starweaver]] - Magical goods
 - [[Pip Goldleaf]] - General goods
 
@@ -69,7 +69,7 @@ A sprawling district centered around the Grand Bazaar, with permanent shops lini
 ### Shops
 | Shop Name | Type | Owner | Notable Items |
 |-----------|------|-------|---------------|
-| Ironforge Smithy | Blacksmith | [[02_Worldbuilding/People/Gareth_Ironforge]] | Masterwork weapons |
+| Ironforge Smithy | Blacksmith | [[Gareth_Ironforge]] | Masterwork weapons |
 | Starweaver's Arcana | Magic | [[Elena Starweaver]] | Potions, scrolls |
 | The Golden Goose | Inn | [[Martha Hillbrook]] | Comfortable rooms |
 

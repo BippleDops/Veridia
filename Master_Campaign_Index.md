@@ -46,12 +46,12 @@ LIMIT 10
 ```
 
 #### Quick Access by Type
-- **People** ([[02_Worldbuilding/People]]) - 159 entries (28 complete)
-- **Places** ([[02_Worldbuilding/Places]]) - 367 entries (38 complete)
-- **Groups** ([[02_Worldbuilding/Groups]]) - 56 entries (14 complete)
-- **Lore** ([[02_Worldbuilding/Lore]]) - 255 entries (7 complete)
-- **Items** ([[02_Worldbuilding/Items]]) - 7 entries (100% complete)
-- **Quests** ([[02_Worldbuilding/Quests]]) - 51 entries (86% complete)
+- **People** ([[People]]) - 159 entries (28 complete)
+- **Places** ([[Places]]) - 367 entries (38 complete)
+- **Groups** ([[Groups]]) - 56 entries (14 complete)
+- **Lore** ([[Lore]]) - 255 entries (7 complete)
+- **Items** ([[Items]]) - 7 entries (100% complete)
+- **Quests** ([[Quests]]) - 51 entries (86% complete)
 
 ### ⚙️ Mechanics (03_Mechanics/)
 ```dataview
@@ -89,10 +89,10 @@ SORT file.name ASC
 ### 📁 Resources (04_Resources/)
 
 #### Visual Assets
-- **Maps**: [[04_Resources/Maps]] - World and region maps
-- **Character Art**: [[04_Resources/Assets/npcs]] - NPC portraits
-- **Location Art**: [[04_Resources/Assets/locations]] - Place imagery
-- **Items**: [[04_Resources/Assets/items]] - Equipment visuals
+- **Maps**: [[Maps]] - World and region maps
+- **Character Art**: [[npcs]] - NPC portraits
+- **Location Art**: [[locations]] - Place imagery
+- **Items**: [[items]] - Equipment visuals
 
 #### Tables & Generators
 - [[Random Encounter Tables]] - Comprehensive encounters

@@ -6,14 +6,14 @@ tags:
   - trade
   - mysterious
 type: Location
-region: "[[02_Worldbuilding/Places/Port Meridian]] Harbor District"
+region: "[[Port Meridian]] Harbor District"
 danger_level: Moderate
 notable_npcs:
-  - "[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]"
-  - "[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]"
-  - "[[02_Worldbuilding/People/Castellan Ironledger III]]"
+  - "[[Captain Thaddeus Blackwater]]"
+  - "[[Ambassador Nerida Deepcurrent]]"
+  - "[[Castellan Ironledger III]]"
 connected_locations:
-  - "[[02_Worldbuilding/Places/Port Meridian]]"
+  - "[[Port Meridian]]"
   - "[[Aquabyssos]]"
   - "The Shadowmere (via underwater passages)"
   - Category/Place
@@ -25,7 +25,7 @@ obsidianUIMode: preview
 # The Sunken Markets
 
 ## Overview
-Beneath [[02_Worldbuilding/Places/Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
+Beneath [[Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
 
 ## Structure
 The Markets occupy a series of partially flooded caves and ruins that predate the current city:
@@ -51,7 +51,7 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 ### The Tidal Gates
 - Four massive portals that open at specific tide times
 - Connect to different underwater locations
-- Northern Gate: [[02_Worldbuilding/Places/The Shadowmere]]'s Lake Gloom
+- Northern Gate: [[The Shadowmere]]'s Lake Gloom
 - Eastern Gate: Deep ocean trenches
 - Southern Gate: [[Aquabyssos]] outer territories
 - Western Gate: Status unknown (sealed)
@@ -102,7 +102,7 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 ## Current Events
 - Increasing refugees from deeper Aquabyssos regions
 - Crystal corruption beginning to affect aquatic species
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] establishing permanent embassy
+- [[Ambassador Nerida Deepcurrent]] establishing permanent embassy
 - Black market for Shard fragments growing
 - Prophecies of "Great Drowning" causing panic
 
@@ -120,8 +120,8 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 ### Getting There
 - Through hidden entrances in Port Meridian's warehouse district
 - Via underwater approach (requires water breathing)
-- Portal from [[02_Worldbuilding/People/Castellan Ironledger III]]'s vault (secret)
-- Shadow paths from [[02_Worldbuilding/Places/The Shadowmere]] (dangerous)
+- Portal from [[Castellan Ironledger III]]'s vault (secret)
+- Shadow paths from [[The Shadowmere]] (dangerous)
 
 ### Operating Hours
 - Low Tide: Full access to all areas
@@ -130,8 +130,8 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 - Spring Tides: Special markets with rare goods
 
 ## Factions & Influence
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]:** Controls smuggling operations
-- **[[02_Worldbuilding/Groups/Merchant Princes]]:** Seeking to monopolize trade
+- **[[The Whisper Syndicate]]:** Controls smuggling operations
+- **[[Merchant Princes]]:** Seeking to monopolize trade
 - **Tidal Courts:** Aquabyssos's official presence
 - **Crystal Wardens:** Monitoring for corruption spread
 - **Order of Drowned Mysteries:** Religious sect worshipping deep gods

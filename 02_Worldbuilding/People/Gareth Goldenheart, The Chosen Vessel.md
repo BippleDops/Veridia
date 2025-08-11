@@ -7,7 +7,7 @@ role: "Shard Vessel"
 affiliation: "None (Too young to understand)"
 age: "8"
 race: "Human (Divine-touched)"
-location: "[[02_Worldbuilding/Places/Crystalhaven]] - Hidden in Royal Orphanage"
+location: "[[Crystalhaven]] - Hidden in Royal Orphanage"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *Bearer of the Golden Shard, The Innocent Divine*
 
 ## Overview
-Eight-year-old Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards|Golden Shard]] already within his heart—a phenomenon that has never occurred in recorded history. Unlike [[Aria Lumengarde]], who was artificially implanted with divine essence, Gareth represents natural divine incarnation. He appears as a normal child but occasionally displays impossible abilities that terrify and inspire those around him. Hidden in a royal orphanage, his true nature is known only to a select few.
+Eight-year-old Gareth was born with the [[The Seven Shards|Golden Shard]] already within his heart—a phenomenon that has never occurred in recorded history. Unlike [[Aria Lumengarde]], who was artificially implanted with divine essence, Gareth represents natural divine incarnation. He appears as a normal child but occasionally displays impossible abilities that terrify and inspire those around him. Hidden in a royal orphanage, his true nature is known only to a select few.
 
 ## Description
 - **Appearance**: Ordinary boy with bright golden eyes that sometimes glow with inner light
@@ -27,7 +27,7 @@ Eight-year-old Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards
 
 ## Background
 ### The Miraculous Birth
-- Born to a common tavern maid in [[02_Worldbuilding/Places/Port Meridian]]
+- Born to a common tavern maid in [[Port Meridian]]
 - Mother died in childbirth, but child survived impossible complications
 - Midwife noticed golden glow in the baby's chest
 - Father unknown, possibly divine intervention
@@ -58,10 +58,10 @@ Eight-year-old Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards
 ## Current Situation
 ### The Secret Guardian Network
 - **Mother Superior Agneta**: Orphanage director, protects his identity
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Provides spiritual guidance
+- **[[High Priestess Celeste Dawnbringer]]**: Provides spiritual guidance
 - **Sir Marcus the Loyal**: Retired knight, acts as hidden bodyguard
 - **[[Scholar Vivienne the Chronicler]]**: Studies his case from distance
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Secretly knows of his existence
+- **[[Queen Seraphina Lumengarde]]**: Secretly knows of his existence
 
 ### Growing Complications
 - His powers manifest more frequently and obviously
@@ -72,16 +72,16 @@ Eight-year-old Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards
 
 ## Faction Interests
 ### Those Who Seek Him
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Wants to study and possibly use him
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Views as either blessed or abomination
+- **[[The Crystal Throne]]**: Wants to study and possibly use him
+- **[[Purist Coalition]]**: Views as either blessed or abomination
 - **[[Order of the Shattered Crown]]**: Believes he's key to Crown reunification
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Sees potential for immense profit
+- **[[Silverscale Consortium]]**: Sees potential for immense profit
 - **[[The Divine Seekers]]**: Cult forming around rumors of his existence
 
 ### Those Who Protect Him
 - **The Secret Guardians**: Small network dedicated to his safety
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Provides religious protection
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Offers royal protection (secretly)
+- **[[High Priestess Celeste Dawnbringer]]**: Provides religious protection
+- **[[Queen Seraphina Lumengarde]]**: Offers royal protection (secretly)
 - **The Common Folk**: Instinctively drawn to protect innocent children
 
 ## The Golden Shard's Nature
@@ -123,11 +123,11 @@ Eight-year-old Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards
 - **Other Orphans**: Best friends who don't fully understand his differences
 - **Mother Superior Agneta**: Loving surrogate mother figure
 - **[[Aria Lumengarde]]**: Dreams of meeting "the other golden one"
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May be drawn to investigate him
-- **The People of [[02_Worldbuilding/Places/Crystalhaven]]**: Growing whispered reverence
+- **[[The Crimson Sage]]**: May be drawn to investigate him
+- **The People of [[Crystalhaven]]**: Growing whispered reverence
 
 ## Connected Elements
-- Central to ultimate resolution of [[02_Worldbuilding/Lore/The Seven Shards]] storyline
+- Central to ultimate resolution of [[The Seven Shards]] storyline
 - Represents divine innocence vs. worldly corruption themes
 - Links childhood protection with cosmic significance
 - Bridge between human and divine perspectives
@@ -161,7 +161,7 @@ Eight-year-old Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards
 
 **Legendary Resistance (3/Day).** If Gareth fails a saving throw, he can choose to succeed instead.
 
-**Golden Shard Integration.** Unlike other bearers, Gareth was born with the [[02_Worldbuilding/Lore/The Seven Shards|Golden Shard]] already part of his heart. It cannot be removed without killing him, and its power grows as he matures.
+**Golden Shard Integration.** Unlike other bearers, Gareth was born with the [[The Seven Shards|Golden Shard]] already part of his heart. It cannot be removed without killing him, and its power grows as he matures.
 
 **Divine Innocence.** Gareth's pure heart and innocent nature provide supernatural protection. All damage dealt to him is reduced by half, and anyone who intentionally harms him must succeed on a DC 23 Wisdom saving throw or be wracked with overwhelming guilt (stunned for 1 round).
 
@@ -254,7 +254,7 @@ Ancient prophecies speak of Gareth's role:
 - **The Unifier**: He can bring all Seven Shards together without being corrupted by their power
 - **The Choice Maker**: When the Shards reunify, his will determines whether the result is creation or destruction
 - **The Bridge**: He can maintain his humanity even while wielding full divine power
-- **The Innocent**: His pure heart can "remember" what [[02_Worldbuilding/Lore/Aetheron]] was like before fragmentation
+- **The Innocent**: His pure heart can "remember" what [[Aetheron]] was like before fragmentation
 
 ### Current Manifestations
 At age 8, Gareth's powers are still developing:
@@ -283,34 +283,34 @@ At age 8, Gareth's powers are still developing:
 - **[[The Emerald Sage Willowbark]]**: Feels her ancient wisdom like a grandmother's presence
 - **[[The Azure Prophet Nerissa]]**: Shares prophetic dreams about "the lady who talks to the sea"
 - **[[The Shadow Singer Naia]]**: Comforted by her lullabies in dreams across dimensional boundaries
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Senses the Crystal Shard's pain but also the queen's good heart
+- **[[Queen Seraphina Lumengarde]]**: Senses the Crystal Shard's pain but also the queen's good heart
 - **[[Aria Lumengarde]]**: Twin connection to "the other golden one" - they share dreams and emotions
 
 ### Protective Network
 - **Mother Superior Agneta**: Surrogate mother who knows his true nature
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]**: Spiritual guide and protector
+- **[[High Priestess Celeste Dawnbringer]]**: Spiritual guide and protector
 - **Sir Marcus the Loyal**: Retired knight serving as hidden bodyguard
 - **The Other Orphans**: Best friends who love him without knowing his divine nature
-- **[[02_Worldbuilding/Groups/The Divine Seekers]]**: Emerging cult that worships rumors of him
+- **[[The Divine Seekers]]**: Emerging cult that worships rumors of him
 
 ### Cross-Campaign Connections
-- **[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Consider him the key to their ultimate goal
-- **[[02_Worldbuilding/Lore/Convergence Point]]**: His presence could stabilize or destabilize the dimensional breach
-- **[[02_Worldbuilding/Groups/The Void Watchers]]**: See him as either salvation or ultimate threat
-- **[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Central figure whose choices determine outcomes
-- **[[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]**: Would love to corrupt or study the "pure" Shard bearer
-- **[[02_Worldbuilding/Places/The Memory Storm Fields]]**: His presence calms chaotic divine energies
-- **[[02_Worldbuilding/Quests/Quest - The Memory Bridge]]**: Could serve as perfect conduit for divine memories
-- **[[02_Worldbuilding/Quests/Quest - The Shard-Shadow Resonance]]**: Golden Shard provides harmony between opposing forces
-- **[[02_Worldbuilding/Items/The Resonance Forge Hammer]]**: Would sing in harmony with his divine presence
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Would recognize him as [[02_Worldbuilding/Lore/Aetheron]]'s heart made flesh
-- **[[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]]**: Might hold records of his prophecied birth
+- **[[The Convergence Seekers]]**: Consider him the key to their ultimate goal
+- **[[Convergence Point]]**: His presence could stabilize or destabilize the dimensional breach
+- **[[The Void Watchers]]**: See him as either salvation or ultimate threat
+- **[[Quest - The Convergence Crisis]]**: Central figure whose choices determine outcomes
+- **[[The Shadow-Crystal Synthesis]]**: Would love to corrupt or study the "pure" Shard bearer
+- **[[The Memory Storm Fields]]**: His presence calms chaotic divine energies
+- **[[Quest - The Memory Bridge]]**: Could serve as perfect conduit for divine memories
+- **[[Quest - The Shard-Shadow Resonance]]**: Golden Shard provides harmony between opposing forces
+- **[[The Resonance Forge Hammer]]**: Would sing in harmony with his divine presence
+- **[[The Crimson Sage]]**: Would recognize him as [[Aetheron]]'s heart made flesh
+- **[[Archivist Mnemonic the Forgotten]]**: Might hold records of his prophecied birth
 
 ### Those Who Seek Him
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Want to study his natural divine integration
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Debate whether he's blessed or abomination
+- **[[The Crystal Throne]]**: Want to study his natural divine integration
+- **[[Purist Coalition]]**: Debate whether he's blessed or abomination
 - **[[The Order of the Shattered Crown]]**: Believe he's key to Crown reunification
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Would profit immensely from his healing abilities
+- **[[Silverscale Consortium]]**: Would profit immensely from his healing abilities
 - **[[The Scholars of Divine Lore]]**: Academic interest in studying natural divine incarnation
 
 ---
@@ -335,7 +335,7 @@ Despite his youth, Gareth sometimes speaks with ancient wisdom:
 ### Current Visions & Dreams
 - Regular dreams of playing with [[Aria Lumengarde]] in a garden of golden light
 - Visions of all seven Shard bearers standing in a circle, holding hands like friends
-- Dreams of [[02_Worldbuilding/Lore/Aetheron]] as a sad, lonely person who just wants his friends back
+- Dreams of [[Aetheron]] as a sad, lonely person who just wants his friends back
 - Nightmares about grown-ups fighting over something that should bring everyone together
 - Happy dreams about teaching other people how to use "helping magic" instead of "hurting magic"
 

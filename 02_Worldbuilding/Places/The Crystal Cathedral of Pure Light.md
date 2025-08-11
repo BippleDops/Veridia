@@ -6,7 +6,7 @@ tags:
   - crystal
   - sacred
 type: Crystal Cathedral
-region: "[[02_Worldbuilding/Places/Crystalhaven]]"
+region: "[[Crystalhaven]]"
 danger_level: Low
 controlled_by: "[[Crystal Wardens]]"
 created: 2025-08-09
@@ -25,14 +25,14 @@ The Crystal Cathedral serves as the spiritual headquarters of the [[Crystal Ward
 
 ## Key Connections
 - **[[Crystal Wardens]]** - Primary occupants and spiritual guardians
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Chief religious authority and corruption hunter
-- **[[02_Worldbuilding/Places/The Crystal Hive Collective]]** - Primary target for purification missions
-- **[[02_Worldbuilding/Places/The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Research partnerships on crystal properties
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Primary enemy corrupting crystal trade
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious figure requiring careful monitoring
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]** - Source of ancient purification techniques
-- **[[02_Worldbuilding/Places/The Screaming Battleground]]** - Site of major consecration efforts
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Theological alliance against crystal corruption
-- **[[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
-- **[[02_Worldbuilding/Places/The Iron Pits of Malachar]]** - Target for liberation and purification missions
+- **[[High Inquisitor Maltheos]]** - Chief religious authority and corruption hunter
+- **[[The Crystal Hive Collective]]** - Primary target for purification missions
+- **[[The Crystal Stock Exchange]]** - Provides blessed crystals for legitimate trade
+- **[[Professor Aldric Crystalweaver]]** - Research partnerships on crystal properties
+- **[[The Whisper Syndicate]]** - Primary enemy corrupting crystal trade
+- **[[The Crimson Sage]]** - Mysterious figure requiring careful monitoring
+- **[[The Sundered Vaults]]** - Source of ancient purification techniques
+- **[[The Screaming Battleground]]** - Site of major consecration efforts
+- **[[Purist Coalition]]** - Theological alliance against crystal corruption
+- **[[High Priestess Celeste Dawnbringer]]** - Interfaith cooperation and mutual support
+- **[[The Iron Pits of Malachar]]** - Target for liberation and purification missions

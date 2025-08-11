@@ -21,16 +21,16 @@ obsidianUIMode: preview
 
 ## Organization Overview
 
-The Merchant's Covenant represents a revolutionary fusion of commerce and scholarship unique to the depths of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]]. Founded by drowned traders and scholars who recognized that information had become more valuable than gold in the transformed world, the Covenant operates as both a merchant consortium and an academic institution.
+The Merchant's Covenant represents a revolutionary fusion of commerce and scholarship unique to the depths of [[Aquabyssos World Overview|Aquabyssos]]. Founded by drowned traders and scholars who recognized that information had become more valuable than gold in the transformed world, the Covenant operates as both a merchant consortium and an academic institution.
 
 Unlike surface merchants who deal in physical goods, the Covenant trades primarily in **Knowledge, Memory, and Experience** - the three currencies of the deep. They maintain the largest mobile library in Aquabyssos aboard their flagship **The Repository Barge**, and their merchant-scholars are respected throughout the depths as both shrewd negotiators and learned researchers.
 
-The Covenant emerged from the practical need to catalog and preserve the overwhelming changes brought by the [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|Great Drowning]]. As traditional trade goods became useless underwater, enterprising merchants pivoted to trading in navigational knowledge, transformation techniques, survival methods, and preserved pre-Drowning information.
+The Covenant emerged from the practical need to catalog and preserve the overwhelming changes brought by the [[Aquabyssos World Overview#The Great Drowning|Great Drowning]]. As traditional trade goods became useless underwater, enterprising merchants pivoted to trading in navigational knowledge, transformation techniques, survival methods, and preserved pre-Drowning information.
 
 ## History and Foundation
 
 ### The Great Cataloguing (420 years post-Drowning)
-In the chaos following the establishment of the [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|Depth Hierarchy]], a consortium of twelve merchant houses united under the leadership of **Master Ledger Tidewell the Rememberer**. These houses had each specialized in preserving different types of knowledge: trade routes, cultural practices, technological methods, magical techniques, historical records, and survival strategies.
+In the chaos following the establishment of the [[Aquabyssos World Overview#Government The Depth Hierarchy|Depth Hierarchy]], a consortium of twelve merchant houses united under the leadership of **Master Ledger Tidewell the Rememberer**. These houses had each specialized in preserving different types of knowledge: trade routes, cultural practices, technological methods, magical techniques, historical records, and survival strategies.
 
 ### The First Repository (415 years post-Drowning)
 The Covenant commissioned the construction of **The Repository Barge**, a massive floating library-warehouse that could travel safely between all three depth levels. Using salvaged materials from drowned universities and merchant guilds, they created the first mobile center of learning in the post-Drowning world.
@@ -164,11 +164,11 @@ The Covenant actively funds research into new techniques, technologies, and magi
 
 ### Valued Clients
 
-#### [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]]
+#### [[Order of the Drowned Star|Order of the Drowned Star]]
 **Relationship**: Scholarly Partnership
 The Covenant provides historical and astronomical knowledge to the Order, while receiving navigation data and star-charts. Both organizations value knowledge preservation and maintain close scholarly cooperation.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
+#### [[Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]]
 **Relationship**: Official Consultants
 The Covenant serves as information consultants to the government, providing intelligence reports, cultural analysis, and policy recommendations. They maintain careful political neutrality while serving state interests.
 
@@ -178,21 +178,21 @@ The Covenant partners with individual scholars throughout Aquabyssos, providing 
 
 ### Complex Relationships
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
+#### [[Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]]
 **Relationship**: Cautious Commerce
 While philosophically opposed to the Deep Dreamers' goals, the Covenant trades with them for unique Hadean Depth knowledge. They're careful not to provide information that could accelerate dangerous transformations.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Resurgent Tide|The Resurgent Tide]]
+#### [[Aquabyssos World Overview#The Resurgent Tide|The Resurgent Tide]]
 **Relationship**: Necessary Neutrality
 The Resurgent Tide distrusts the Covenant's surface contacts but needs their services for intelligence and logistics. The Covenant maintains strict confidentiality to preserve this difficult relationship.
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]]
+#### [[Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]]
 **Relationship**: Sympathetic Support
 Many Covenant members are personally sympathetic to the Surface Seekers' goals, and they provide significant research support for transformation reversal studies, while maintaining public neutrality.
 
 ### Challenging Relationships
 
-#### [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Void Touched|The Void Touched]]
+#### [[Aquabyssos World Overview#The Void Touched|The Void Touched]]
 **Relationship**: Dangerous Clients
 The Void Touched pay extremely well for Hadean Depth intelligence, but their transformations make them increasingly difficult to understand and trust. Some Covenant members fear they're enabling dangerous experiments.
 
@@ -236,7 +236,7 @@ The Covenant maintains trading posts at every major depth boundary:
 
 2. **The Knowledge Heist**: Corporate espionage against the Covenant's Sealed Vaults. Investigate the breach and recover stolen information before it destabilizes multiple factions.
 
-3. **The Deep Research**: The Covenant is funding a dangerous research expedition into the [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|Hadean Depths]]. Serve as guards and advisors for the scholar-traders involved.
+3. **The Deep Research**: The Covenant is funding a dangerous research expedition into the [[Aquabyssos World Overview#The Three Depths|Hadean Depths]]. Serve as guards and advisors for the scholar-traders involved.
 
 ### For Neutral Parties
 4. **The Information War**: Two factions are paying the Covenant for intelligence about each other. Help navigate the ethical and practical complexities of this situation.
@@ -265,18 +265,18 @@ The Covenant maintains trading posts at every major depth boundary:
 The Covenant sits at the center of complex intelligence networks that would rival any government's spy service:
 
 #### Triple Agent Networks
-- **[[02_Worldbuilding/Personnel/The Deep Listeners]]**: Scholar-Traders who report to multiple factions simultaneously
-- **[[02_Worldbuilding/Personnel/Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
-- **[[02_Worldbuilding/Personnel/Cultural Bridges]]**: Operatives maintaining relations with surface world governments
-- **[[02_Worldbuilding/Personnel/Truth Weavers]]**: Specialists in creating believable false intelligence
-- **[[02_Worldbuilding/Personnel/Loyalty Monitors]]**: Internal security tracking member allegiances
+- **[[The Deep Listeners]]**: Scholar-Traders who report to multiple factions simultaneously
+- **[[Memory Merchants]]**: Agents who selectively trade information to influence political outcomes
+- **[[Cultural Bridges]]**: Operatives maintaining relations with surface world governments
+- **[[Truth Weavers]]**: Specialists in creating believable false intelligence
+- **[[Loyalty Monitors]]**: Internal security tracking member allegiances
 
 #### Political Manipulation
-- **[[02_Worldbuilding/Operations/Faction Balance Maintenance]]**: Preventing any one faction from becoming too dominant
-- **[[02_Worldbuilding/Operations/Crisis Profit Maximization]]**: Positioning for economic advantage during political upheavals
-- **[[02_Worldbuilding/Operations/Succession Influence]]**: Subtle guidance of leadership changes in client factions
-- **[[02_Worldbuilding/Operations/Treaty Mediation]]**: Broker deals that benefit Covenant interests
-- **[[02_Worldbuilding/Operations/Revolution Prevention]]**: Intervening to maintain profitable status quo
+- **[[Faction Balance Maintenance]]**: Preventing any one faction from becoming too dominant
+- **[[Crisis Profit Maximization]]**: Positioning for economic advantage during political upheavals
+- **[[Succession Influence]]**: Subtle guidance of leadership changes in client factions
+- **[[Treaty Mediation]]**: Broker deals that benefit Covenant interests
+- **[[Revolution Prevention]]**: Intervening to maintain profitable status quo
 
 ### The Repository Conspiracy
 Unknown to most members, the Covenant's leadership maintains secret archives containing:
@@ -317,41 +317,41 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 ### Advanced Knowledge Categories
 
 #### Military Intelligence
-- **[[02_Worldbuilding/Services/Tactical Analysis]]**: Combat assessments and strategic recommendations
-- **[[02_Worldbuilding/Services/Weapons Development Intelligence]]**: Information on military technology advances
-- **[[02_Worldbuilding/Services/Fortress Blueprints]]**: Architectural plans for fortified positions
-- **[[02_Worldbuilding/Services/Supply Chain Analysis]]**: Military logistics and vulnerability assessment
-- **[[02_Worldbuilding/Services/Officer Profiling]]**: Detailed information on military commanders
+- **[[Tactical Analysis]]**: Combat assessments and strategic recommendations
+- **[[Weapons Development Intelligence]]**: Information on military technology advances
+- **[[Fortress Blueprints]]**: Architectural plans for fortified positions
+- **[[Supply Chain Analysis]]**: Military logistics and vulnerability assessment
+- **[[Officer Profiling]]**: Detailed information on military commanders
 
 #### Economic Intelligence
-- **[[02_Worldbuilding/Services/Market Manipulation Strategies]]**: Techniques for controlling depth-level economies
-- **[[02_Worldbuilding/Services/Resource Scarcity Prediction]]**: Forecasting shortages and surpluses
-- **[[02_Worldbuilding/Services/Trade Route Optimization]]**: Maximum efficiency path analysis
-- **[[02_Worldbuilding/Services/Currency Valuation]]**: Exchange rate management and prediction
-- **[[02_Worldbuilding/Services/Investment Risk Assessment]]**: Detailed analysis of business ventures
+- **[[Market Manipulation Strategies]]**: Techniques for controlling depth-level economies
+- **[[Resource Scarcity Prediction]]**: Forecasting shortages and surpluses
+- **[[Trade Route Optimization]]**: Maximum efficiency path analysis
+- **[[Currency Valuation]]**: Exchange rate management and prediction
+- **[[Investment Risk Assessment]]**: Detailed analysis of business ventures
 
 #### Cultural Intelligence
-- **[[02_Worldbuilding/Services/Social Movement Tracking]]**: Monitoring political and cultural changes
-- **[[02_Worldbuilding/Services/Religious Trend Analysis]]**: Spiritual movement implications for politics
-- **[[02_Worldbuilding/Services/Generational Shift Prediction]]**: Forecasting cultural evolution
-- **[[02_Worldbuilding/Services/Language Evolution Studies]]**: Changes in communication patterns
-- **[[02_Worldbuilding/Services/Art and Literature Intelligence]]**: Cultural products as political indicators
+- **[[Social Movement Tracking]]**: Monitoring political and cultural changes
+- **[[Religious Trend Analysis]]**: Spiritual movement implications for politics
+- **[[Generational Shift Prediction]]**: Forecasting cultural evolution
+- **[[Language Evolution Studies]]**: Changes in communication patterns
+- **[[Art and Literature Intelligence]]**: Cultural products as political indicators
 
 ### Specialized Consulting Services
 
 #### Transformation Consulting
-- **[[02_Worldbuilding/Services/Depth Adaptation Therapy]]**: Psychological support for depth transition
-- **[[02_Worldbuilding/Services/Biological Modification Guidance]]**: Safe approaches to physical transformation
-- **[[02_Worldbuilding/Services/Identity Preservation]]**: Maintaining sense of self through radical change
-- **[[02_Worldbuilding/Services/Transformation Reversal]]**: Techniques for undoing unwanted modifications
-- **[[02_Worldbuilding/Services/Enhancement Optimization]]**: Maximizing benefits of deliberate transformation
+- **[[Depth Adaptation Therapy]]**: Psychological support for depth transition
+- **[[Biological Modification Guidance]]**: Safe approaches to physical transformation
+- **[[Identity Preservation]]**: Maintaining sense of self through radical change
+- **[[Transformation Reversal]]**: Techniques for undoing unwanted modifications
+- **[[Enhancement Optimization]]**: Maximizing benefits of deliberate transformation
 
 #### Diplomatic Services
-- **[[02_Worldbuilding/Services/Cultural Translation]]**: More than language - complete context interpretation
-- **[[02_Worldbuilding/Services/Negotiation Strategy]]**: Tactical approaches to complex diplomatic situations
-- **[[02_Worldbuilding/Services/Alliance Assessment]]**: Evaluating potential partnerships and their stability
-- **[[02_Worldbuilding/Services/Conflict Mediation]]**: Neutral third-party dispute resolution
-- **[[02_Worldbuilding/Services/Treaty Analysis]]**: Detailed evaluation of proposed agreements
+- **[[Cultural Translation]]**: More than language - complete context interpretation
+- **[[Negotiation Strategy]]**: Tactical approaches to complex diplomatic situations
+- **[[Alliance Assessment]]**: Evaluating potential partnerships and their stability
+- **[[Conflict Mediation]]**: Neutral third-party dispute resolution
+- **[[Treaty Analysis]]**: Detailed evaluation of proposed agreements
 
 ## Network Security & Counter-Intelligence
 
@@ -364,11 +364,11 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 - **Goldstream Classified**: Known only to the Archmerchant and selected successors
 
 #### Security Measures
-- **[[02_Worldbuilding/Technology/Memory Encryption]]**: Magical protection of sensitive knowledge
-- **[[02_Worldbuilding/Technology/Loyalty Verification]]**: Regular testing of member allegiances
-- **[[02_Worldbuilding/Technology/Information Tracking]]**: Monitoring distribution of sensitive data
-- **[[02_Worldbuilding/Technology/Counter-Surveillance]]**: Detection and prevention of espionage
-- **[[02_Worldbuilding/Technology/Emergency Destruction]]**: Rapid elimination of compromised information
+- **[[Memory Encryption]]**: Magical protection of sensitive knowledge
+- **[[Loyalty Verification]]**: Regular testing of member allegiances
+- **[[Information Tracking]]**: Monitoring distribution of sensitive data
+- **[[Counter-Surveillance]]**: Detection and prevention of espionage
+- **[[Emergency Destruction]]**: Rapid elimination of compromised information
 
 ### Threat Assessment
 #### External Threats
@@ -398,19 +398,19 @@ Unknown to most members, the Covenant's leadership maintains secret archives con
 - **Transportation Fees**: Charges for secure inter-depth travel and cargo transport
 
 #### Economic Manipulation
-- **[[02_Worldbuilding/Operations/Market Intelligence Distribution]]**: Selective information sharing affecting trade
-- **[[02_Worldbuilding/Operations/Resource Flow Control]]**: Influencing availability of critical materials
-- **[[02_Worldbuilding/Operations/Credit Rating Management]]**: Information affecting borrowing and investment
-- **[[02_Worldbuilding/Operations/Technology Transfer]]**: Controlling spread of innovations between depths
-- **[[02_Worldbuilding/Operations/Labor Market Intelligence]]**: Information affecting employment and wages
+- **[[Market Intelligence Distribution]]**: Selective information sharing affecting trade
+- **[[Resource Flow Control]]**: Influencing availability of critical materials
+- **[[Credit Rating Management]]**: Information affecting borrowing and investment
+- **[[Technology Transfer]]**: Controlling spread of innovations between depths
+- **[[Labor Market Intelligence]]**: Information affecting employment and wages
 
 ### Political Leverage
 #### Influence Operations
-- **[[02_Worldbuilding/Operations/Leadership Profiling]]**: Detailed psychological analysis of decision-makers
-- **[[02_Worldbuilding/Operations/Succession Planning]]**: Subtle influence on leadership transitions
-- **[[02_Worldbuilding/Operations/Crisis Management]]**: Guiding responses to political emergencies
-- **[[02_Worldbuilding/Operations/Alliance Facilitation]]**: Encouraging beneficial political partnerships
-- **[[02_Worldbuilding/Operations/Opposition Research]]**: Intelligence gathering on political rivals
+- **[[Leadership Profiling]]**: Detailed psychological analysis of decision-makers
+- **[[Succession Planning]]**: Subtle influence on leadership transitions
+- **[[Crisis Management]]**: Guiding responses to political emergencies
+- **[[Alliance Facilitation]]**: Encouraging beneficial political partnerships
+- **[[Opposition Research]]**: Intelligence gathering on political rivals
 
 #### Diplomatic Immunity
 The Covenant has negotiated quasi-governmental status with major depth authorities:
@@ -455,23 +455,23 @@ The Covenant has negotiated quasi-governmental status with major depth authoriti
 ## Internal Wiki-Style Links
 
 **Related Organizations**:
-- [[02_Worldbuilding/Groups/Order of the Drowned Star|Order of the Drowned Star]] - Academic partners
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]] - Cautious clients
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]] - Government consultants
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]] - Sympathetic support
-- [[02_Worldbuilding/Groups/Shadow Surgeons Collective]] - Complex information trading relationship
-- [[02_Worldbuilding/Groups/The Parliament of Nobody]] - Information about non-existent citizens
+- [[Order of the Drowned Star|Order of the Drowned Star]] - Academic partners
+- [[Aquabyssos World Overview#The Deep Dreamers|The Deep Dreamers]] - Cautious clients
+- [[Aquabyssos World Overview#Government The Depth Hierarchy|The Tidal Council]] - Government consultants
+- [[Aquabyssos World Overview#The Surface Seekers|The Surface Seekers]] - Sympathetic support
+- [[Shadow Surgeons Collective]] - Complex information trading relationship
+- [[The Parliament of Nobody]] - Information about non-existent citizens
 
 **Key Locations**:
 - [[The Repository Barge]] - Mobile headquarters and primary library
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|The Three Depths]] - Operational environment
+- [[Aquabyssos World Overview#The Three Depths|The Three Depths]] - Operational environment
 - [[Depth Transition Posts]] - Strategic trading locations
 - [[The Memory Palace]] - Specialized consciousness research facility
 - [[The Neutral Current]] - Diplomatic vessel
 - [[Information Exchanges]] - Trading posts at major settlements
 
 **Historical Events**:
-- [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Great Drowning|The Great Drowning]] - Foundational catastrophe
+- [[Aquabyssos World Overview#The Great Drowning|The Great Drowning]] - Foundational catastrophe
 - [[The Memory Wars]] - Period establishing Covenant neutrality
 - [[The Deep Expansion]] - Territorial and operational growth
 - [[The Great Cataloguing]] - Organizational founding

@@ -13,11 +13,11 @@ depth: 1500
 locations_visited:
   - "[[Abyssos Prime - Pressure Terminal]]"
   - "[[Throne of Bubbles]]"
-  - "[[02_Worldbuilding/Places/Parliament of Echoes]]"
+  - "[[Parliament of Echoes]]"
   - "[[Inverted Ballroom Wing]]"
 npcs_met:
-  - "[[02_Worldbuilding/People/Senator Glaucus]]"
-  - "[[02_Worldbuilding/People/The Scattered Emperor]]"
+  - "[[Senator Glaucus]]"
+  - "[[The Scattered Emperor]]"
   - "[[Marina Red Tide Coralheart - Aquabyssos]]"
   - "[[Pressure Tube Operator Krill]]"
 encounters:
@@ -69,8 +69,8 @@ The party arrives in Aquabyssos via Pressure Tube, experiencing molecular liquif
 - Investigation of quarters
 
 ### NPCs to Include
-- [[02_Worldbuilding/People/Senator Glaucus]] - Shadow-replaced host
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Paranoid warning
+- [[Senator Glaucus]] - Shadow-replaced host
+- [[The Scattered Emperor]] - Paranoid warning
 - [[Marina Red Tide Coralheart - Aquabyssos]] - Adapted guide
 - [[Pressure Tube Operator Krill]] - First contact
 
@@ -88,7 +88,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 
 #### Event 1: The Emperor's Court
 **Location:** [[Throne of Bubbles]]
-**NPCs:** [[02_Worldbuilding/People/The Scattered Emperor]], [[Marina Red Tide Coralheart - Aquabyssos]]
+**NPCs:** [[The Scattered Emperor]], [[Marina Red Tide Coralheart - Aquabyssos]]
 **Pressure Check:** DC 12 CON save or gain 1 exhaustion
 **Outcome:** 
 - Emperor speaks through electric eel collective
@@ -107,7 +107,7 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 
 #### Event 2: The Dissolution
 **Location:** [[Parliament of Echoes - Public Gallery]]
-**NPCs:** [[02_Worldbuilding/People/Senator Glaucus]], dissolving Senator Hadrian
+**NPCs:** [[Senator Glaucus]], dissolving Senator Hadrian
 **Witness Horror:** DC 13 WIS save or frightened for 1 minute
 **Outcome:**
 - Senator Hadrian screams and melts into living shadow
@@ -210,8 +210,8 @@ Each character gains:
 - Who wants to investigate vs. escape?
 
 ### Relationship Changes
-- [[02_Worldbuilding/People/Senator Glaucus]] - Suspicious (disposition: -2)
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
+- [[Senator Glaucus]] - Suspicious (disposition: -2)
+- [[The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
 - [[Marina Red Tide Coralheart - Aquabyssos]] - Protective guide (disposition: +3)
 
 ## World Changes

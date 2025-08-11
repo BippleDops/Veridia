@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-The Crystal Guard Elite represents the pinnacle of [[02_Worldbuilding/Places/Aethermoor]]'s military might—an elite force of warriors who have undergone crystal enhancement to serve as [[The Queen|Queen Seraphina]]'s personal guard. Originally established as the kingdom's most prestigious military unit, they have been transformed by crystal possession into something both magnificent and terrifying: superhuman warriors whose loyalty to the crown has been encoded at the molecular level.
+The Crystal Guard Elite represents the pinnacle of [[Aethermoor]]'s military might—an elite force of warriors who have undergone crystal enhancement to serve as [[The Queen|Queen Seraphina]]'s personal guard. Originally established as the kingdom's most prestigious military unit, they have been transformed by crystal possession into something both magnificent and terrifying: superhuman warriors whose loyalty to the crown has been encoded at the molecular level.
 
 Unlike the gradual seduction of the [[Possessed Noble Coterie]], the Crystal Guard underwent deliberate enhancement that merged their consciousness with crystalline networks while preserving their tactical intelligence and fighting instincts. They represent the successful fusion of human skill with divine power, making them nearly unstoppable in combat while raising disturbing questions about the cost of such enhancement.
 
@@ -23,7 +23,7 @@ Unlike the gradual seduction of the [[Possessed Noble Coterie]], the Crystal Gua
 
 ### Historical Foundation
 **The Original Royal Guard (Founded 1,200 years ago)**
-The Crystal Guard began as an elite military unit drawn from the most skilled warriors in [[02_Worldbuilding/Places/Aethermoor]], tasked with protecting the royal family and serving as the kingdom's ceremonial face. Selection required extraordinary physical prowess, unquestionable loyalty, and natural affinity for crystal magic.
+The Crystal Guard began as an elite military unit drawn from the most skilled warriors in [[Aethermoor]], tasked with protecting the royal family and serving as the kingdom's ceremonial face. Selection required extraordinary physical prowess, unquestionable loyalty, and natural affinity for crystal magic.
 
 **Traditional Selection Criteria:**
 - Combat excellence across multiple weapon systems
@@ -242,7 +242,7 @@ Guard members are programmed to serve the crown, but face moral conflicts when r
 
 ### Military Transformation
 **Traditional Forces**
-The Crystal Guard's existence has changed [[02_Worldbuilding/Places/Aethermoor]]'s military structure:
+The Crystal Guard's existence has changed [[Aethermoor]]'s military structure:
 - Regular army units feel inadequate compared to enhanced Guards
 - Traditional military honor codes challenged by crystal programming
 - Recruitment shifted toward candidates suitable for enhancement
@@ -276,7 +276,7 @@ Some Guard members retain enough individual consciousness to question their situ
 
 ### External Opposition
 **[[The Loyal Remnant]]**
-Non-possessed military officers working to preserve traditional [[02_Worldbuilding/Places/Aethermoor]] values:
+Non-possessed military officers working to preserve traditional [[Aethermoor]] values:
 - View Crystal Guard as abomination of true military service
 - Seek ways to reverse or counter crystal enhancement
 - Maintain alternative command structures outside royal control

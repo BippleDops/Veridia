@@ -11,8 +11,8 @@ race: Human (Shadow-bonded)
 class: Rogue/Warlock
 level: 11
 alignment: Neutral Evil
-location: "[[02_Worldbuilding/Places/The Shadow Markets]]"
-faction: "[[02_Worldbuilding/Groups/Shadow Conspiracy]]"
+location: "[[The Shadow Markets]]"
+faction: "[[Shadow Conspiracy]]"
 status: Alive (Shadow-bonded)
 created: 2025-08-08
 world: "Aquabyssos"
@@ -26,7 +26,7 @@ obsidianUIMode: preview
 *The Whisper in the Dark, She Who Sells Secrets, The Living Shadow*
 
 ## Overview
-Known only as "Mist," this enigmatic figure operates in the liminal spaces between light and shadow throughout [[02_Worldbuilding/Places/Aquabyssos]]. More shadow than flesh after years of bonding with umbral entities, she trades in the most dangerous commodity of all: secrets. Unlike [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]]'s crude information brokerage, Mist deals in secrets that can topple governments, destroy lives, or grant impossible power. Her true identity, origins, and even physical form remain mysteries that have confounded investigators for years.
+Known only as "Mist," this enigmatic figure operates in the liminal spaces between light and shadow throughout [[Aquabyssos]]. More shadow than flesh after years of bonding with umbral entities, she trades in the most dangerous commodity of all: secrets. Unlike [[Jasper "Three-Eyes" Flint]]'s crude information brokerage, Mist deals in secrets that can topple governments, destroy lives, or grant impossible power. Her true identity, origins, and even physical form remain mysteries that have confounded investigators for years.
 
 ## Appearance
 - **Physical Form**: Constantly shifting between human and shadow
@@ -43,7 +43,7 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - **Core Nature**: Coldly calculating, views emotions as weaknesses to exploit
 - **Values**: Information, power, the thrill of orchestrating events from shadows
 - **Fears**: Being fully understood, losing her shadow nature, bright lights
-- **Obsessions**: Collecting secrets about the [[02_Worldbuilding/Lore/Deep Mother]], manipulating both realms
+- **Obsessions**: Collecting secrets about the [[Deep Mother]], manipulating both realms
 
 ## Abilities & Resources
 
@@ -76,20 +76,20 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - **Shadow Surgeons**: Underground healers who work with shadow essence
 
 ### Criminal Contacts
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] - Rival who sometimes collaborates
-- Various [[02_Worldbuilding/Groups/Independent Smugglers]] leaders
-- Corrupt [[02_Worldbuilding/Places/Parliament of Echoes]] members
+- [[Jasper "Three-Eyes" Flint]] - Rival who sometimes collaborates
+- Various [[Independent Smugglers]] leaders
+- Corrupt [[Parliament of Echoes]] members
 - Surface world criminal organizations
 
 ### Enemies
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Relentless pursuer
-- [[02_Worldbuilding/Groups/The Depth Wardens]] - Official law enforcement
+- [[Enforcer Chief Mako Ironjaw]] - Relentless pursuer
+- [[The Depth Wardens]] - Official law enforcement
 - Light-wielding clerics and paladins
 - Rival information brokers she's eliminated
 
 ### High-Value Targets (Blackmail/Information)
-- Multiple [[02_Worldbuilding/Places/Parliament of Echoes]] members
-- [[02_Worldbuilding/People/Emperor Thalassius]] (claims to know his secrets)
+- Multiple [[Parliament of Echoes]] members
+- [[Emperor Thalassius]] (claims to know his secrets)
 - Surface world ambassadors and nobles
 - Religious leaders hiding dark pasts
 
@@ -98,15 +98,15 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 > - Was once a surface world noble named Lady Evangeline Blackmere
 > - Bonded with shadows to survive assassination attempt, lost most humanity
 > - Knows the true identity of several major NPCs in both realms
-> - Has stolen memories from the [[02_Worldbuilding/Lore/Deep Mother]]'s dreams
+> - Has stolen memories from the [[Deep Mother]]'s dreams
 > - Maintains a secret alliance with surface world shadow organizations
 > - Her shadow nature is slowly consuming her - she's running out of time
 > - The violet eyes are actually trapped souls of her first victims
 
 ## Current Activities
-- Building comprehensive blackmail files on [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Building comprehensive blackmail files on [[Parliament of Echoes]]
 - Investigating the connection between surface and depth shadow magic
-- Competing with [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] for information supremacy
+- Competing with [[Jasper "Three-Eyes" Flint]] for information supremacy
 - Recruiting new shadow-touched agents through manipulation and desperation
 - Searching for ways to stabilize her shadow form
 
@@ -114,7 +114,7 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 1. **Primary**: Accumulate secrets and power to control both realms
 2. **Secondary**: Survive her shadow transformation without losing all humanity
 3. **Hidden**: Revenge against surface nobles who tried to kill her original self
-4. **Long-term**: Become powerful enough to negotiate directly with the [[02_Worldbuilding/Lore/Deep Mother]]
+4. **Long-term**: Become powerful enough to negotiate directly with the [[Deep Mother]]
 
 ## Combat Tactics
 - Avoids direct combat entirely when possible
@@ -145,7 +145,7 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 2. One of her agents has gone rogue with dangerous secrets
 3. Blackmailing party member with information from their past
 4. Needs protection while she retrieves memories from dangerous source
-5. Competition with [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] requires outside adjudication
+5. Competition with [[Jasper "Three-Eyes" Flint]] requires outside adjudication
 
 ## Speaking Style
 *"Information, dear client, is the only true currency. Everything else is merely... negotiable."* - To potential clients
@@ -162,16 +162,16 @@ Known only as "Mist," this enigmatic figure operates in the liminal spaces betwe
 - Her gradual loss of humanity provides time pressure for any deals
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Jasper "Three-Eyes" Flint]] - Information broker rival
-- [[02_Worldbuilding/People/Enforcer Chief Mako Ironjaw]] - Law enforcement nemesis
-- [[02_Worldbuilding/People/Emperor Thalassius]] - High-value target for information
+- [[Jasper "Three-Eyes" Flint]] - Information broker rival
+- [[Enforcer Chief Mako Ironjaw]] - Law enforcement nemesis
+- [[Emperor Thalassius]] - High-value target for information
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Shadow Markets]] - Primary operating area
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Information gathering territory
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Blackmail targets
+- [[The Shadow Markets]] - Primary operating area
+- [[Abyssos Prime]] - Information gathering territory
+- [[Parliament of Echoes]] - Blackmail targets
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/The Lock Saboteur]] - May have crucial information
-- [[02_Worldbuilding/Quests/Discover the Singers Beyond]] - Competing for same secrets
-- [[02_Worldbuilding/Quests/Depths of Whispers]] - Her shadow network is involved
+- [[The Lock Saboteur]] - May have crucial information
+- [[Discover the Singers Beyond]] - Competing for same secrets
+- [[Depths of Whispers]] - Her shadow network is involved

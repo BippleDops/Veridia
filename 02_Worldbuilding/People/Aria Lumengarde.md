@@ -12,8 +12,8 @@ race: Half-Elf
 class: Bard (College of Glamour)
 level: 9
 alignment: Chaotic Good
-location: "[[02_Worldbuilding/Places/Crystal Spires]]"
-faction: "[[02_Worldbuilding/Groups/The Crown Authority]]"
+location: "[[Crystal Spires]]"
+faction: "[[The Crown Authority]]"
 status: Alive (Secretly rebellious)
 created: 2025-08-09
 world: "Aethermoor"
@@ -27,7 +27,7 @@ obsidianUIMode: preview
 *The Singing Crystal, Voice of the Royal Court, The Secret Revolutionary*
 
 ## Overview
-Lady Aria Lumengarde, cousin to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], serves as the royal court's premier entertainer and unofficial cultural ambassador. Blessed with an ethereal voice that can literally resonate with crystals, she appears to be the perfect noble daughter—beautiful, talented, and devoted to the crown. In reality, Aria is a master of facades who uses her position and abilities to gather intelligence and subtly undermine the corruption she sees spreading through the nobility.
+Lady Aria Lumengarde, cousin to [[Queen Seraphina Lumengarde]], serves as the royal court's premier entertainer and unofficial cultural ambassador. Blessed with an ethereal voice that can literally resonate with crystals, she appears to be the perfect noble daughter—beautiful, talented, and devoted to the crown. In reality, Aria is a master of facades who uses her position and abilities to gather intelligence and subtly undermine the corruption she sees spreading through the nobility.
 
 ## Appearance
 - **Build**: Elegant and willowy at 5'7", moves with dancer's grace
@@ -81,7 +81,7 @@ Born to Lord Castellan Lumengarde, the Queen's uncle, Aria grew up in the shadow
 ## Relationships
 
 ### Royal Family
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Beloved cousin, growing concerned about her changes
+- [[Queen Seraphina Lumengarde]] - Beloved cousin, growing concerned about her changes
 - **Lord Castellan Edmund Lumengarde** - Father, traditionalist who disapproves of her "frivolous" pursuits
 - **Prince Regent Aldwin Lumengarde** - Uncle, politically ambitious, mutual wariness
 - **Lady Seraphina Lumengarde the Younger** - Teenage cousin, looks up to Aria
@@ -93,15 +93,15 @@ Born to Lord Castellan Lumengarde, the Queen's uncle, Aria grew up in the shadow
 - **The Mockingbird** - Anonymous contact who provides intelligence on noble corruption
 
 ### Court Connections
-- [[02_Worldbuilding/People/Sir Theron Crystalward]] - Secret romantic interest (forbidden love)
+- [[Sir Theron Crystalward]] - Secret romantic interest (forbidden love)
 - **Duchess Isadora Goldensong** - Rival performer, unaware of Aria's dual nature
 - **Ambassador Viktor Stormwind** - Cultural exchange contact, mutual respect
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Dangerous mutual acquaintance through information trading
+- [[Vex Shadowthorn]] - Dangerous mutual acquaintance through information trading
 
 ### Complicated Relations
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Suspects her of heretical sympathies
+- [[High Inquisitor Maltheos]] - Suspects her of heretical sympathies
 - **Lord Marcus Darkwater** - Corrupt noble who's been propositioning her
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Former friend, now politically opposed
+- [[Prince Caspian Duskwater]] - Former friend, now politically opposed
 - The common people - Love her performances but don't know of her secret support
 
 ## Secrets
@@ -208,18 +208,18 @@ Aria's position grants her significant soft power:
 - Represents theme of using privilege to fight injustice
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal cousin and target of concern
-- [[02_Worldbuilding/People/Sir Theron Crystalward]] - Secret romantic interest
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Dangerous information contact
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Suspicious authority figure
+- [[Queen Seraphina Lumengarde]] - Royal cousin and target of concern
+- [[Sir Theron Crystalward]] - Secret romantic interest
+- [[Vex Shadowthorn]] - Dangerous information contact
+- [[High Inquisitor Maltheos]] - Suspicious authority figure
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystal Spires]] - Primary residence and stage for activities
-- [[02_Worldbuilding/Places/Royal Conservatory]] - Training ground and recruitment center
-- [[02_Worldbuilding/Places/The Underground]] - Meeting place for revolutionary activities
-- [[02_Worldbuilding/Places/Court of Echoes]] - Main performance venue
+- [[Crystal Spires]] - Primary residence and stage for activities
+- [[Royal Conservatory]] - Training ground and recruitment center
+- [[The Underground]] - Meeting place for revolutionary activities
+- [[Court of Echoes]] - Main performance venue
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Noble Conspiracy]] - Exposing corrupt nobility
-- [[02_Worldbuilding/Quests/Quest - The Crystal Crown]] - Royal succession crisis
-- [[02_Worldbuilding/Quests/Quest - Songs of Revolution]] - Cultural warfare through art
+- [[Quest - The Noble Conspiracy]] - Exposing corrupt nobility
+- [[Quest - The Crystal Crown]] - Royal succession crisis
+- [[Quest - Songs of Revolution]] - Cultural warfare through art

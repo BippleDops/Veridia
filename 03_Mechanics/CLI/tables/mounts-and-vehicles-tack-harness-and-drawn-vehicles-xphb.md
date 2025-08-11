@@ -29,4 +29,4 @@ modified: 2025-07-23 12:39
 | &emsp;[Wagon](/03_Mechanics/CLI/items/wagon-xphb.md) | 400 lb. | 35 GP |
 ^tack-harness-and-drawn-vehicles
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

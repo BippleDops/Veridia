@@ -7,7 +7,7 @@ role: "Shard-Touched Mercenary"
 affiliation: "The Shadow Company (Mercenary Band)"
 age: "34"
 race: "Human (Shadow-touched)"
-location: "[[02_Worldbuilding/Places/The Shadowmere]]"
+location: "[[The Shadowmere]]"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *Shadow-Touched Mercenary, Seeker of the Obsidian Shard*
 
 ## Overview
-Captain Elara Shadowshard leads the Shadow Company, a mercenary band that specializes in operations within [[02_Worldbuilding/Places/The Shadowmere]]. Five years ago, she was exposed to emanations from the [[02_Worldbuilding/Lore/The Seven Shards|Obsidian Shard]] during a failed expedition. The experience changed her—she can now see in absolute darkness and communicate with shadow creatures, but suffers from an insatiable hunger to possess the Shard that touched her.
+Captain Elara Shadowshard leads the Shadow Company, a mercenary band that specializes in operations within [[The Shadowmere]]. Five years ago, she was exposed to emanations from the [[The Seven Shards|Obsidian Shard]] during a failed expedition. The experience changed her—she can now see in absolute darkness and communicate with shadow creatures, but suffers from an insatiable hunger to possess the Shard that touched her.
 
 ## Description
 - **Appearance**: Lean, athletic build with unnaturally pale skin and eyes that reflect light like a cat's
@@ -32,7 +32,7 @@ Captain Elara Shadowshard leads the Shadow Company, a mercenary band that specia
 - Respected for tactical brilliance and loyalty
 
 ### The Shadowmere Expedition
-- Hired by [[02_Worldbuilding/People/Zephyr Goldwhisper]] to investigate "anomalous readings"
+- Hired by [[Zephyr Goldwhisper]] to investigate "anomalous readings"
 - Lost half her crew to shadow creatures and corruption
 - Discovered the Obsidian Shard's approximate location
 - Exposed to Shard's influence, barely escaped alive
@@ -74,9 +74,9 @@ Captain Elara Shadowshard leads the Shadow Company, a mercenary band that specia
 - Considers increasingly dangerous plans to reach the Shard
 
 ### Faction Interests
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Wants to hire her for Shard location
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Views her as corruption that must be cleansed
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Potential ally or rival in shadow magic
+- **[[Silverscale Consortium]]**: Wants to hire her for Shard location
+- **[[High Inquisitor Maltheos]]**: Views her as corruption that must be cleansed
+- **[[Vex Shadowthorn]]**: Potential ally or rival in shadow magic
 - **[[Order of the Shattered Crown]]**: Seeks her knowledge of Shard locations
 
 ## Adventure Hooks
@@ -87,7 +87,7 @@ Captain Elara Shadowshard leads the Shadow Company, a mercenary band that specia
 5. **Shadow Intelligence**: Trade information about shadow creature movements
 
 ## Relationships
-- **[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Complex relationship with former employer
+- **[[Zephyr Goldwhisper]]**: Complex relationship with former employer
 - **[[Admiral Thorne Blackwater]]**: Former commanding officer, now concerned friend
 - **[[The Shadowmere]]**: Drawn to return despite the danger
 - **Her Company**: Loyal followers worried about her obsession
@@ -109,7 +109,7 @@ Captain Elara Shadowshard leads the Shadow Company, a mercenary band that specia
 - Unclear if she can resist Shard's ultimate call
 
 ## Connected Elements
-- Central figure for [[02_Worldbuilding/Lore/The Seven Shards|Obsidian Shard]] plotlines
+- Central figure for [[The Seven Shards|Obsidian Shard]] plotlines
 - Links mercenary activities to shadow corruption themes
 - Bridge between military background and supernatural elements
 - Represents corruption as gradual change rather than instant evil
@@ -363,7 +363,7 @@ When leading her company in familiar shadow-touched territory, Elara can take la
 - Cultural connection helping company members maintain ties to human society
 
 ### Supernatural Community Relationships
-**[[02_Worldbuilding/People/Vex Shadowthorn]]**: Rival shadow-touched practitioner
+**[[Vex Shadowthorn]]**: Rival shadow-touched practitioner
 - Both seek influence over shadow realm activities and resources
 - Competing interpretations of proper use of shadow-touched abilities
 - Professional respect mixed with territorial conflict over shadow realm access
@@ -385,14 +385,14 @@ When leading her company in familiar shadow-touched territory, Elara can take la
 - Enforcement mechanism ensuring company's professional reputation in supernatural markets
 
 ### Government and Legal Relationships
-**[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Ideological enemy and enforcement threat
+**[[High Inquisitor Maltheos]]**: Ideological enemy and enforcement threat
 - Views shadow-touched transformation as corruption requiring cleansing
 - Legal authority to classify company as supernatural threat requiring elimination
 - Potential source of persecution and violence against company members
 - Represents broader governmental suspicion of supernatural persons
 - Strategic threat requiring careful intelligence monitoring and contingency planning
 
-**[[02_Worldbuilding/Groups/Purist Coalition]]**: Political opposition movement
+**[[Purist Coalition]]**: Political opposition movement
 - Advocates for harsh measures against supernaturally transformed individuals
 - Potential source of violent persecution if they gain political influence
 - Represents broader social prejudice and fear regarding supernatural transformation
@@ -407,14 +407,14 @@ When leading her company in familiar shadow-touched territory, Elara can take la
 - Political advocacy opportunities for supernatural persons' rights and recognition
 
 ### Commercial and Economic Networks
-**[[02_Worldbuilding/People/Zephyr Goldwhisper]]**: Former employer and ongoing relationship
+**[[Zephyr Goldwhisper]]**: Former employer and ongoing relationship
 - Complex relationship combining professional respect with personal resentment
 - Potential source of lucrative contracts requiring specialized supernatural expertise
 - Information source about Seven Shards activities and artifact markets
 - Personal connection to original transformation experience and Obsidian Shard discovery
 - Represents possibility of collaborative efforts toward Shard-related goals
 
-**[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Commercial client and potential ally
+**[[Silverscale Consortium]]**: Commercial client and potential ally
 - Contracts company for operations requiring supernatural expertise
 - Source of financing and resources for large-scale operations
 - Information network about commercial activities affecting supernatural markets
@@ -631,7 +631,7 @@ Elara's shadow-touched nature makes her crucial to resolving crisis where shadow
 
 ## Cross-Campaign Integration & Cosmic Connections
 
-### Links to [[02_Worldbuilding/Lore/The Seven Shards]] Network
+### Links to [[The Seven Shards]] Network
 **Obsidian Shard Intelligence**: Critical knowledge about shadow-aspect of cosmic artifacts
 - Unique understanding of shadow corruption effects and their relationship to Shard influence
 - Direct experience with Obsidian Shard's power and consciousness
@@ -646,7 +646,7 @@ Elara's shadow-touched nature makes her crucial to resolving crisis where shadow
 - Competition for resources and allies necessary for successful Shard acquisition
 - Shared understanding of transformation costs and benefits among Shard-touched individuals
 
-### Connection to [[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]
+### Connection to [[Quest - The Convergence Crisis]]
 **Shadow-Reality Interface**: Expertise crucial for dimensional stability problems
 - Shadow realm experience provides unique perspective on dimensional boundary issues
 - Shadow-touched abilities may be necessary for navigating unstable reality zones
@@ -661,7 +661,7 @@ Elara's shadow-touched nature makes her crucial to resolving crisis where shadow
 - Potential solutions involving shadow realm entities or shadow magic applications
 - Warning systems for detecting dimensional boundary degradation through shadow realm monitoring
 
-### Integration with [[02_Worldbuilding/Groups/The Shadow-Crystal Synthesis]]
+### Integration with [[The Shadow-Crystal Synthesis]]
 **Shadow-Crystal Opposition**: Fundamental conflict with synthesis movement
 - Shadow Company's approach emphasizes controlled corruption vs. synthesis movement's total integration
 - Professional rivalry over proper use of shadow magic and supernatural transformation

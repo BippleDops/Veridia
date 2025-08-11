@@ -4,14 +4,14 @@ status: "complete"
 world: "Aethermoor"
 type: "Dimensional Anomaly"
 danger_level: 10
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
+region: "[[The Crystalline Wastes]]"
 controlled_by: "Nobody (Chaotic Phenomenon)"
 size: "Variable (Individual tears 5-100 feet diameter)"
 frequency: "Unpredictable manifestation"
 threat_status: "Critical - Reality Destabilization"
 created: 2025-08-09
 updated: 2025-08-10
-related_entities: ["[[02_Worldbuilding/Places/The Crystal Hive Collective]]", "[[02_Worldbuilding/People/The Crimson Sage]]", "[[02_Worldbuilding/Places/The Sundered Vaults]]", "[[Crystal Wardens]]"]
+related_entities: ["[[The Crystal Hive Collective]]", "[[The Crimson Sage]]", "[[The Sundered Vaults]]", "[[Crystal Wardens]]"]
 ---
 
 # The Void Tears
@@ -19,7 +19,7 @@ related_entities: ["[[02_Worldbuilding/Places/The Crystal Hive Collective]]", "[
 
 ## Overview
 
-The Void Tears represent one of the most terrifying and unpredictable phenomena in [[02_Worldbuilding/Places/Aethermoor]], appearing as spontaneous rifts in reality that create direct portals to the primordial void - the space between dimensions where existence itself ceases to have meaning. These reality breaches manifest primarily within [[02_Worldbuilding/Places/The Crystalline Wastes]], though smaller tears have been documented throughout regions of high magical instability.
+The Void Tears represent one of the most terrifying and unpredictable phenomena in [[Aethermoor]], appearing as spontaneous rifts in reality that create direct portals to the primordial void - the space between dimensions where existence itself ceases to have meaning. These reality breaches manifest primarily within [[The Crystalline Wastes]], though smaller tears have been documented throughout regions of high magical instability.
 
 Unlike mere dimensional portals or planar rifts, Void Tears connect to absolute nothingness - not another plane or reality, but the fundamental absence of existence that underlies the multiverse. Matter, energy, magic, consciousness, and even concepts that approach these rifts are systematically unraveled and consumed, returning to the state of primordial void from which all things originally emerged.
 
@@ -28,7 +28,7 @@ The tears appear without warning, ranging from hairline fractures in reality bar
 ## Formation & Nature
 
 ### Origin Theory
-The leading theory among dimensional scholars suggests that Void Tears result from the extreme reality distortion created by [[02_Worldbuilding/Lore/The Great Crystallization]]. When the catastrophic magical event rewrote the fundamental laws of physics across the Crystalline Wastes, it created "weak spots" in the fabric of reality itself.
+The leading theory among dimensional scholars suggests that Void Tears result from the extreme reality distortion created by [[The Great Crystallization]]. When the catastrophic magical event rewrote the fundamental laws of physics across the Crystalline Wastes, it created "weak spots" in the fabric of reality itself.
 
 **The Cascade Effect**: Initial crystal corruption destabilized local reality, creating microscopic void fractures that occasionally expand into full tears when exposed to additional magical stress or dimensional manipulation.
 
@@ -187,7 +187,7 @@ Some void tears occasionally spawn entities from the space between realities:
 **Staff**: 50+ researchers, guards, and support personnel
 **Purpose**: Long-term study of void tear behavior and containment methods
 **Director**: [[Professor Aldric Crystalweaver]], foremost expert on dimensional anomalies
-**Funding**: Joint project between [[02_Worldbuilding/Places/Crystalhaven]] and [[Crystal Wardens]]
+**Funding**: Joint project between [[Crystalhaven]] and [[Crystal Wardens]]
 
 #### Current Research Projects
 **Tear Prediction Models**: Attempting to determine when and where new tears will manifest
@@ -285,7 +285,7 @@ Military-focused research aimed at weaponizing controlled tears while preventing
 
 #### The Great Unraveling
 **Probability**: 5-10% over next century according to current models
-**Event**: Chain reaction of expanding tears consuming most of [[02_Worldbuilding/Places/Aethermoor]]
+**Event**: Chain reaction of expanding tears consuming most of [[Aethermoor]]
 **Triggers**: Multiple Type IV tears appearing simultaneously, failure of reality anchor network
 **Prevention**: Requires perfect coordination between all magical institutions
 **Consequences**: Complete loss of the continent to void consumption
@@ -346,11 +346,11 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 **Hook**: Series of disappearances occur in perfect geometric pattern matching tear resonance formations
 **Investigation**: Each victim vanished near sites of former dormant tears, leaving reality scars
 **Suspect**: Someone artificially triggering tear formation to eliminate specific targets
-**Revelation**: [[02_Worldbuilding/People/The Crimson Sage]] experimenting with weaponized tears
+**Revelation**: [[The Crimson Sage]] experimenting with weaponized tears
 **Resolution**: Stop assassination campaign, prevent creation of artificial resonance cluster
 
 #### 5. The Memory Thief
-**Hook**: Individuals throughout [[02_Worldbuilding/Places/Aethermoor]] begin losing memories related to specific person
+**Hook**: Individuals throughout [[Aethermoor]] begin losing memories related to specific person
 **Clues**: Pattern suggests someone is being systematically erased from existence
 **Truth**: Victim partially consumed by tear but consciousness trapped in void between dimensions
 **Goal**: Recover consumed individual from void space, restore them to reality
@@ -381,7 +381,7 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 
 #### 9. The Ancient Archive
 **Hook**: Discovery of pre-disaster records suggesting void tears are artificial phenomenon
-**Location**: Hidden archive within [[02_Worldbuilding/Places/The Sundered Vaults]]
+**Location**: Hidden archive within [[The Sundered Vaults]]
 **Opposition**: Archive partially consumed by expanding tear, information fragmented
 **Revelation**: Great Crystallization was sabotaged to create tears for unknown purpose
 **Implications**: Current containment efforts may be playing into original saboteur's plans
@@ -392,27 +392,27 @@ Insurance companies refuse coverage for properties in tear-risk zones. Trade rou
 **Scope**: Continental threat requiring coordination between all major powers
 **Enemy**: Coalition of void entities launching invasion through tear network
 **Strategy**: Defend reality anchors, seal critical tears, prevent cascade expansion
-**Stakes**: Survival of physical reality itself throughout [[02_Worldbuilding/Places/Aethermoor]]
+**Stakes**: Survival of physical reality itself throughout [[Aethermoor]]
 **Resolution**: Epic battles in space between dimensions, potential sacrifice of party members
 
 ## Connected Elements
 
 ### Direct Connections
-- **[[02_Worldbuilding/Places/The Crystalline Wastes]]**: Primary location where tears manifest
-- **[[02_Worldbuilding/Lore/The Great Crystallization]]**: Catastrophic event that created conditions for tear formation
+- **[[The Crystalline Wastes]]**: Primary location where tears manifest
+- **[[The Great Crystallization]]**: Catastrophic event that created conditions for tear formation
 - **[[Crystal Wardens]]**: Military organization responsible for tear containment and response
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]**: Leading researcher studying void phenomena  
-- **[[02_Worldbuilding/Places/The Sundered Vaults]]**: Ancient facility possibly connected to tear origins
+- **[[Professor Aldric Crystalweaver]]**: Leading researcher studying void phenomena  
+- **[[The Sundered Vaults]]**: Ancient facility possibly connected to tear origins
 
 ### Secondary Connections
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Studies tears for dimensional manipulation knowledge
-- **[[02_Worldbuilding/Places/The Crystal Hive Collective]]**: Hive mind disrupted by void exposure
-- **[[02_Worldbuilding/Groups/The Seekers' Guild]]**: Documents tear patterns and dimensional effects
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Views tears as signs of cosmic corruption
-- **[[02_Worldbuilding/Places/The Temporal Convergence Storms]]**: Temporal effects interact unpredictably with void tears
-- **[[02_Worldbuilding/People/Mad Oracle Thessaly]]**: Prophesies about expanding void consumption
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]**: Attempts to weaponize void effects
-- **[[02_Worldbuilding/Places/Aethermoor Archives]]**: Contains historical records of dimensional incidents
+- **[[The Crimson Sage]]**: Studies tears for dimensional manipulation knowledge
+- **[[The Crystal Hive Collective]]**: Hive mind disrupted by void exposure
+- **[[The Seekers' Guild]]**: Documents tear patterns and dimensional effects
+- **[[High Inquisitor Maltheos]]**: Views tears as signs of cosmic corruption
+- **[[The Temporal Convergence Storms]]**: Temporal effects interact unpredictably with void tears
+- **[[Mad Oracle Thessaly]]**: Prophesies about expanding void consumption
+- **[[The Whisper Syndicate]]**: Attempts to weaponize void effects
+- **[[Aethermoor Archives]]**: Contains historical records of dimensional incidents
 
 ## DM Notes
 

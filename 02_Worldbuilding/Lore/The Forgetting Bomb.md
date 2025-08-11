@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-The Forgetting Bomb represents the pinnacle of [[The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[02_Worldbuilding/Places/Aquabyssos]].
+The Forgetting Bomb represents the pinnacle of [[The Memory Weapon Arms Race]] - a device capable of inflicting total amnesia on entire populations within its blast radius. Unlike selective memory alteration tools, the Forgetting Bomb indiscriminately erases all memories, leaving victims as functional adults with no knowledge of their identity, relationships, or accumulated life experience. This weapon transforms warfare from physical destruction to psychological annihilation, making it one of the most feared and morally controversial developments in modern [[Aquabyssos]].
 
 ## Technical Specifications
 
@@ -79,14 +79,14 @@ The potential military applications became obvious to [[The Deep Intelligence Ag
 The first and only combat deployment of a Forgetting Bomb created an international crisis:
 
 **The Meridian District Catastrophe:**
-- Terrorist organization detonated prototype device in [[02_Worldbuilding/Places/Port Meridian]]
+- Terrorist organization detonated prototype device in [[Port Meridian]]
 - 50,000 people within blast radius suffered complete amnesia
 - Entire district's social structure collapsed overnight
 - Emergency response teams also affected, hampering rescue efforts
-- Economic and social chaos spread throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- Economic and social chaos spread throughout [[Aquabyssos]]
 
 **International Response:**
-- Emergency session of [[02_Worldbuilding/Places/Parliament of Echoes]]
+- Emergency session of [[Parliament of Echoes]]
 - International treaties attempting to ban Forgetting Bomb development
 - Mass protests against memory weapon research
 - Academic and religious condemnation of the technology
@@ -313,7 +313,7 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ### The Memory Plague Vector
 > [!warning] Hidden Knowledge
-> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
+> Forgetting Bombs don't just erase memories - they create "memory holes" in reality itself. These holes make affected areas more susceptible to convergence effects and dimensional instability. Each device detonated weakens the barriers between [[Aethermoor]] and [[Aquabyssos]], essentially using mass amnesia as a tool for reality manipulation.
 
 ## Adventure Hooks and Campaign Integration
 

@@ -33,8 +33,8 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Critical Mass**: When memory density reaches threshold levels in specific locations
 - **Emotional Resonance**: Powerful feelings activating dormant memory deposits
 - **Tidal Convergence**: Specific tide patterns that concentrate memory energy
-- **[[02_Worldbuilding/Lore/The Deep Mother]] Activity**: Cosmic consciousness stirring affects memory patterns
-- **[[02_Worldbuilding/Lore/The Seven Shards]] Resonance**: Crystal energy interacting with memory formations
+- **[[The Deep Mother]] Activity**: Cosmic consciousness stirring affects memory patterns
+- **[[The Seven Shards]] Resonance**: Crystal energy interacting with memory formations
 
 ### Physical Properties
 #### Storm Characteristics
@@ -62,7 +62,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 
 #### Common Historical Storms
 ##### The Sundering Echo
-- **Memory Source**: [[02_Worldbuilding/Lore/The Sundering]] event that separated the worlds
+- **Memory Source**: [[The Sundering]] event that separated the worlds
 - **Content**: Experiences of reality literally breaking apart
 - **Effects**: Temporary reality distortion, existential terror, dimensional displacement
 - **Frequency**: Annual appearance during anniversary period
@@ -76,7 +76,7 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 - **Tourist Draw**: Carefully managed exposure for educational purposes
 
 ##### The Deep Mother's Dreams
-- **Memory Source**: Fragments of [[02_Worldbuilding/Lore/The Deep Mother]]'s consciousness
+- **Memory Source**: Fragments of [[The Deep Mother]]'s consciousness
 - **Content**: Cosmic perspectives on time, space, and existence
 - **Effects**: Overwhelming knowledge, madness risk, prophetic insights
 - **Danger**: Extreme psychological trauma for unprepared minds
@@ -338,11 +338,11 @@ The Memory Storm Fields represent one of Aquabyssos's most mysterious and danger
 
 ## Connected Elements
 - Related to [[Memory Farmers]] through memory trading and harvesting activities
-- Connected to [[02_Worldbuilding/Lore/The Deep Mother]] through cosmic consciousness effects
-- Associated with [[02_Worldbuilding/Lore/The Seven Shards]] through reality-affecting properties
-- Links to [[02_Worldbuilding/Places/Memory Meadows]] as areas affected by memory phenomena
+- Connected to [[The Deep Mother]] through cosmic consciousness effects
+- Associated with [[The Seven Shards]] through reality-affecting properties
+- Links to [[Memory Meadows]] as areas affected by memory phenomena
 - Connected to [[Oracle Nerida the Tidereader]] through prophetic implications of historical memory
-- Related to [[02_Worldbuilding/People/Archivist Mnemonic the Forgotten]] through memory preservation work
+- Related to [[Archivist Mnemonic the Forgotten]] through memory preservation work
 - Associated with academic and research institutions throughout Aquabyssos
 - Connected to temporal and reality-based magic systems
 

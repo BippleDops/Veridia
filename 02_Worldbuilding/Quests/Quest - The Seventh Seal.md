@@ -6,20 +6,20 @@ tags:
   - mystical
   - mid-level
 type: Quest
-quest_giver: "[[02_Worldbuilding/People/The Crimson Sage]]"
+quest_giver: "[[The Crimson Sage]]"
 level_range: 7-10
 reward_tier: Major
 locations:
-  - "[[02_Worldbuilding/Places/The Shattered Sanctum]]"
-  - "[[02_Worldbuilding/Places/The Shadowmere]]"
-  - "[[02_Worldbuilding/Places/The Embassy Quarter]]"
-  - "[[02_Worldbuilding/Places/The Verdant Reach]]"
+  - "[[The Shattered Sanctum]]"
+  - "[[The Shadowmere]]"
+  - "[[The Embassy Quarter]]"
+  - "[[The Verdant Reach]]"
 npcs_involved:
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
-  - "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
-  - "[[02_Worldbuilding/People/Archdruid Thornweaver]]"
-  - "[[02_Worldbuilding/People/High Inquisitor Maltheos]]"
-  - "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
+  - "[[The Crimson Sage]]"
+  - "[[Sister Morwyn Veilkeeper]]"
+  - "[[Archdruid Thornweaver]]"
+  - "[[High Inquisitor Maltheos]]"
+  - "[[Queen Seraphina Lumengarde]]"
   - Category/Quest
 MyContainer: None
 MyCategory: Unknown
@@ -32,7 +32,7 @@ obsidianUIMode: preview
 The Order of the Shattered Crown has discovered that each party member bears an invisible "Seal"—a magical mark that connects them to one of the Seven Shards. These Seals are awakening, granting power but also making them targets for those who would use them to reunite the Crown of Stars. The party must decide whether to embrace, remove, or master these marks before they consume them.
 
 ## Quest Hook
-[[02_Worldbuilding/People/The Crimson Sage]] appears to each party member in individual visions, revealing glowing marks on their souls that pulse in rhythm with distant Shards. He warns that others have noticed these Seals and are coming to claim them—by persuasion or force. The party must meet him at the Shattered Sanctum within three days.
+[[The Crimson Sage]] appears to each party member in individual visions, revealing glowing marks on their souls that pulse in rhythm with distant Shards. He warns that others have noticed these Seals and are coming to claim them—by persuasion or force. The party must meet him at the Shattered Sanctum within three days.
 
 ## Prologue: The Awakening
 
@@ -92,16 +92,16 @@ Each party member experiences unique symptoms based on their Seal:
 - But others know this secret now
 
 **The Order's Position:**
-- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]] advocates for balance
+- [[Sister Morwyn Veilkeeper]] advocates for balance
 - Some members want to use party to gather Shards
 - Others believe Seals should be destroyed
 - Internal faction led by Brother Matthias plans betrayal
 
 ### The Hunter's Mark
 **Multiple Factions Mobilize:**
-1. **[[02_Worldbuilding/People/High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
-2. **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]:** Secretly orders capture of party
-3. **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
+1. **[[High Inquisitor Maltheos]]:** Wants to extract Seals for Purist Coalition
+2. **[[Queen Seraphina Lumengarde]]:** Secretly orders capture of party
+3. **[[Ambassador Nerida Deepcurrent]]:** Aquabyssos wants Seal bearers as weapons
 4. **The Void Cult:** New faction seeking to corrupt Seals
 
 **First Attack:**
@@ -117,11 +117,11 @@ Each party member must undergo a trial to master their Seal:
 
 **The Trial Locations:**
 1. **Crystal Throne:** The actual throne room at midnight
-2. **Amber Shard:** [[02_Worldbuilding/People/High Inquisitor Maltheos]]'s private sanctum
-3. **Crimson Shard:** Depths of [[02_Worldbuilding/Places/The Sunken Markets]]
-4. **Verdant Shard:** Heart of [[02_Worldbuilding/Places/The Verdant Reach]]
-5. **Azure Shard:** Hidden library in [[02_Worldbuilding/Places/The Sundered Peaks]]
-6. **Shadow Shard:** [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'s sanctum
+2. **Amber Shard:** [[High Inquisitor Maltheos]]'s private sanctum
+3. **Crimson Shard:** Depths of [[The Sunken Markets]]
+4. **Verdant Shard:** Heart of [[The Verdant Reach]]
+5. **Azure Shard:** Hidden library in [[The Sundered Peaks]]
+6. **Shadow Shard:** [[Sister Morwyn Veilkeeper]]'s sanctum
 7. **Seventh Shard:** The Crystalline Wastes
 
 ### Trial of Authority (Crystal Throne)
@@ -134,7 +134,7 @@ Each party member must undergo a trial to master their Seal:
 **The Guardian:**
 - Echo of the last true king before Shattering
 - Tests character's wisdom and justice
-- Reveals [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s corruption source
+- Reveals [[Queen Seraphina Lumengarde]]'s corruption source
 
 **Success Rewards:**
 - Can inspire loyalty in others (Advantage on persuasion)
@@ -169,16 +169,16 @@ Each party member must undergo a trial to master their Seal:
 
 ### The Embassy Betrayal
 **Political Machinations:**
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] publicly declares party as threats
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] offers sanctuary underwater
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] leads public witch hunt
-- [[02_Worldbuilding/People/Castellan Ironledger III]] sells party's location to highest bidder
+- [[Queen Seraphina Lumengarde]] publicly declares party as threats
+- [[Ambassador Nerida Deepcurrent]] offers sanctuary underwater
+- [[High Inquisitor Maltheos]] leads public witch hunt
+- [[Castellan Ironledger III]] sells party's location to highest bidder
 
 **Allies Emerge:**
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] offers natural sanctuary
-- [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]] provides shadow paths
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]] joins as bodyguard
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] secretly aids escape
+- [[Archdruid Thornweaver]] offers natural sanctuary
+- [[Sister Morwyn Veilkeeper]] provides shadow paths
+- [[Marcus Shardbreaker Grimm]] joins as bodyguard
+- [[Captain Lyanna Brightshield]] secretly aids escape
 
 ### The Final Choice
 
@@ -186,7 +186,7 @@ Each party member must undergo a trial to master their Seal:
 Location: Where the Crown originally shattered
 - All seven Shards drawn to Seal bearers
 - The Unsealed One manifests physically
-- [[02_Worldbuilding/People/The Crimson Sage]] reveals his true divine form
+- [[The Crimson Sage]] reveals his true divine form
 - Party must choose world's fate
 
 **Options:**
@@ -258,7 +258,7 @@ Location: Where the Crown originally shattered
 
 ### The Betrayer's Gambit
 - One party member secretly corrupted
-- [[02_Worldbuilding/People/Vex Shadowthorn]] has contingency plan
+- [[Vex Shadowthorn]] has contingency plan
 - Order member Brother Matthias works for Void Cult
 - Time loop if wrong choice made
 

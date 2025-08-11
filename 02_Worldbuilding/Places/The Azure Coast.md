@@ -6,12 +6,12 @@ type: "Coastal Region"
 danger_level: 3
 climate: "Temperate Maritime"
 length: "400 miles of coastline"
-major_cities: ["[[02_Worldbuilding/Places/Port Meridian]]", "[[02_Worldbuilding/Places/Goldspire Port]]", "Azure Bay"]
+major_cities: ["[[Port Meridian]]", "[[Goldspire Port]]", "Azure Bay"]
 government: "Multiple City-States and Kingdoms"
 population: 850000
 created: 2025-08-09
 updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Places/The Cerulean Archipelago]]", "[[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]", "[[02_Worldbuilding/Groups/The Crimson Fleet]]"]
+related_entities: ["[[The Cerulean Archipelago]]", "[[Aquabyssos Ambassadors]]", "[[The Crimson Fleet]]"]
 ---
 
 # The Azure Coast
@@ -19,14 +19,14 @@ related_entities: ["[[02_Worldbuilding/Places/The Cerulean Archipelago]]", "[[02
 
 ## Overview
 
-The Azure Coast stretches along the western edge of [[02_Worldbuilding/Places/Aethermoor]], forming the continent's primary maritime frontier and its most prosperous trading region. Named for the distinctive blue-tinted waters created by underwater crystal formations, this 400-mile coastline serves as the main interface between the surface world and the underwater realm of [[Aquabyssos]].
+The Azure Coast stretches along the western edge of [[Aethermoor]], forming the continent's primary maritime frontier and its most prosperous trading region. Named for the distinctive blue-tinted waters created by underwater crystal formations, this 400-mile coastline serves as the main interface between the surface world and the underwater realm of [[Aquabyssos]].
 
-From the great port city of [[02_Worldbuilding/Places/Port Meridian]] in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface merchants trade with underwater diplomats, pirates prey upon wealthy cargo vessels, and ancient ruins emerge from the tides during the lowest waters of the season.
+From the great port city of [[Port Meridian]] in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface merchants trade with underwater diplomats, pirates prey upon wealthy cargo vessels, and ancient ruins emerge from the tides during the lowest waters of the season.
 
 ## Geography & Climate
 
 ### Coastal Features
-**The Great Harbor**: Natural deep-water bay hosting [[02_Worldbuilding/Places/Port Meridian]]
+**The Great Harbor**: Natural deep-water bay hosting [[Port Meridian]]
 **Crystal Tide Pools**: Shallow areas where underwater crystal formations create magical effects
 **The Merchant Straits**: Narrow channels between mainland and coastal islands
 **Sorrow Point**: Dangerous rocky headland known for shipwrecks
@@ -51,7 +51,7 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 *The Crown Jewel of the Azure Coast*
 - Population: 400,000
 - Primary hub for surface-underwater trade
-- Home to [[02_Worldbuilding/Lore/Aquabyssos Ambassadors]] embassy
+- Home to [[Aquabyssos Ambassadors]] embassy
 - Major naval base and commercial center
 
 ### Goldspire Port
@@ -124,9 +124,9 @@ Loose confederation of city-states cooperating on:
 **The Lighthouse League**: Navigational services and coastal safety
 
 ### External Relations
-- Regular diplomatic contact with [[02_Worldbuilding/Places/Crystalhaven]] and inland kingdoms
-- Formal treaties with [[Aquabyssos]] through [[02_Worldbuilding/Lore/Aquabyssos Ambassadors]]
-- Ongoing negotiations with [[02_Worldbuilding/Places/The Cerulean Archipelago]] island nations
+- Regular diplomatic contact with [[Crystalhaven]] and inland kingdoms
+- Formal treaties with [[Aquabyssos]] through [[Aquabyssos Ambassadors]]
+- Ongoing negotiations with [[The Cerulean Archipelago]] island nations
 - Tense relationships with various pirate organizations
 
 ## Dangers & Threats
@@ -182,7 +182,7 @@ Loose confederation of city-states cooperating on:
 *Sacred site for both surface and underwater cultures*
 - Natural crystal formations creating stunning visual displays
 - Pilgrimage destination for those seeking magical insight
-- Research location for [[02_Worldbuilding/Lore/Arcanum Heights]] scholars
+- Research location for [[Arcanum Heights]] scholars
 - Carefully protected by international agreement
 
 ### The Shipwright's Confederation Yards
@@ -194,7 +194,7 @@ Loose confederation of city-states cooperating on:
 
 ### The Ruins of Old Meridian
 *Ancient city revealed only during extreme low tides*
-- Pre-[[02_Worldbuilding/Lore/The Great Drowning]] settlement
+- Pre-[[The Great Drowning]] settlement
 - Contains valuable archaeological artifacts
 - Dangerous to explore due to tidal timing
 - Source of ongoing academic and treasure-hunting expeditions
@@ -202,7 +202,7 @@ Loose confederation of city-states cooperating on:
 ## Quest Hooks
 
 1. **The Missing Diplomatic Pouch**: Important documents disappear during inter-realm negotiations
-2. **The Pirate Alliance**: [[02_Worldbuilding/Groups/The Crimson Fleet]] forms dangerous new partnerships
+2. **The Pirate Alliance**: [[The Crimson Fleet]] forms dangerous new partnerships
 3. **The Tidal Excavation**: Race against time to explore ruins before waters return
 4. **The Crystal Shortage**: Vital magical resources begin disappearing from tidal pools
 5. **The Storm Warning**: Unusual weather patterns threaten the entire coastal economy

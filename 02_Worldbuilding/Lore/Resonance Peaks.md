@@ -432,17 +432,17 @@ Involvement with Peak operations provides numerous opportunities for character d
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location utilizing Resonance Peak technology
-- [[02_Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional acoustic research
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Related facility providing specialized acoustic research capabilities
-- [[02_Worldbuilding/Lore/Tidal Chambers]] - Complementary technology providing hydraulic capabilities
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Source of crystals used in Peak operations
-- [[02_Worldbuilding/Groups/The Deepwatch Guard]] - Security organization protecting Peak facilities
-- [[02_Worldbuilding/People/Master Resonance Architect Echo Stonewhisper]] - Chief Designer of Peak network
-- [[02_Worldbuilding/People/Senior Resonance Engineer Harmony Deepnote]] - Acoustic engineering specialist
-- [[02_Worldbuilding/People/Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
-- [[02_Worldbuilding/People/Geology Specialist Stone Soundshape]] - Mountain engineering specialist
-- [[02_Worldbuilding/People/Network Coordinator Wave Linkmaster]] - Multi-Peak operations manager
-- [[02_Worldbuilding/People/Safety Director Storm Shieldvoice]] - Safety and security director
+- [[Aquabyssos]] - Primary location utilizing Resonance Peak technology
+- [[Aethermoor]] - Partner civilization for cross-dimensional acoustic research
+- [[Resonance Chamber]] - Related facility providing specialized acoustic research capabilities
+- [[Tidal Chambers]] - Complementary technology providing hydraulic capabilities
+- [[Crystal Forest]] - Source of crystals used in Peak operations
+- [[The Deepwatch Guard]] - Security organization protecting Peak facilities
+- [[Master Resonance Architect Echo Stonewhisper]] - Chief Designer of Peak network
+- [[Senior Resonance Engineer Harmony Deepnote]] - Acoustic engineering specialist
+- [[Crystal Master Chorus Gemgrow]] - Crystal cultivation expert
+- [[Geology Specialist Stone Soundshape]] - Mountain engineering specialist
+- [[Network Coordinator Wave Linkmaster]] - Multi-Peak operations manager
+- [[Safety Director Storm Shieldvoice]] - Safety and security director
 
 The Resonance Peaks represent more than technological infrastructure—they embody Aquabyssos' mastery over the fundamental forces of sound and vibration, transforming the natural acoustic properties of the underwater environment into powerful tools for communication, defense, and discovery. Through these magnificent installations, the boundaries between engineering and art, between technology and harmony, dissolve into a symphony of stone, crystal, and purpose that resonates throughout the depths.

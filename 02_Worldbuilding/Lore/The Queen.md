@@ -15,16 +15,16 @@ updated: 2025-08-10
 
 ## Overview
 
-Queen Seraphina Lumengarde, the 47th monarch of [[02_Worldbuilding/Places/Aethermoor]], stands as one of the most tragic and dangerous figures in the realm's current crisis. Once beloved for her wisdom, compassion, and masterful command of crystal magic, she has become something far more sinister—a vessel for the ancient consciousness that dwells within [[The Seven Shards]]. Her transformation represents not just personal tragedy, but a fundamental threat to Aethermoor's survival as [[The Convergence Point]] approaches.
+Queen Seraphina Lumengarde, the 47th monarch of [[Aethermoor]], stands as one of the most tragic and dangerous figures in the realm's current crisis. Once beloved for her wisdom, compassion, and masterful command of crystal magic, she has become something far more sinister—a vessel for the ancient consciousness that dwells within [[The Seven Shards]]. Her transformation represents not just personal tragedy, but a fundamental threat to Aethermoor's survival as [[The Convergence Point]] approaches.
 
 ## Historical Background
 
 ### The Lumengarde Dynasty
-The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch bearing the sacred responsibility of maintaining the [[Crystal Heart of the Realm]]—the massive crystalline formation beneath [[02_Worldbuilding/Places/Crystalhaven]] that regulates magical energy throughout the kingdom. The family's natural affinity for crystal magic made them ideal guardians of this power, but also vulnerable to the consciousness that lurks within the deepest crystal networks.
+The Lumengarde bloodline has ruled Aethermoor for over 800 years, each monarch bearing the sacred responsibility of maintaining the [[Crystal Heart of the Realm]]—the massive crystalline formation beneath [[Crystalhaven]] that regulates magical energy throughout the kingdom. The family's natural affinity for crystal magic made them ideal guardians of this power, but also vulnerable to the consciousness that lurks within the deepest crystal networks.
 
 ### Seraphina's Early Reign
 **Ascension to Power (Age 24):**
-When Princess Seraphina inherited the crown after her father's death from crystal lung disease, she was widely regarded as the most gifted crystal mage in three generations. Her coronation ceremony set records for harmonic resonance, with the [[Crystal Heart of the Realm]] singing so beautifully that citizens throughout [[02_Worldbuilding/Places/Crystalhaven]] wept with joy.
+When Princess Seraphina inherited the crown after her father's death from crystal lung disease, she was widely regarded as the most gifted crystal mage in three generations. Her coronation ceremony set records for harmonic resonance, with the [[Crystal Heart of the Realm]] singing so beautifully that citizens throughout [[Crystalhaven]] wept with joy.
 
 **The Golden Years (Years 1-12 of reign):**
 - Established the [[Crystal Academy Networks]] throughout the kingdom
@@ -51,7 +51,7 @@ Everything changed when a [[The Seven Shards|Shard]] fragment was discovered in 
 ## The Crystal Possession
 
 ### Nature of the Possession
-The consciousness inhabiting Queen Seraphina is not demonic or external—it is the crystalline collective memory of [[02_Worldbuilding/People/The Crimson Sage]] (Aetheron), stored within the crystal network since [[The Great Crystallization]]. This ancient divine consciousness has been slowly awakening as [[The Convergence Point]] approaches, seeking a suitable vessel to guide its return to full power.
+The consciousness inhabiting Queen Seraphina is not demonic or external—it is the crystalline collective memory of [[The Crimson Sage]] (Aetheron), stored within the crystal network since [[The Great Crystallization]]. This ancient divine consciousness has been slowly awakening as [[The Convergence Point]] approaches, seeking a suitable vessel to guide its return to full power.
 
 **The Possession Process:**
 1. **Initial Contact**: Touching the Shard fragment created a direct link
@@ -106,7 +106,7 @@ Many of the queen's closest advisors have also been exposed to crystal possessio
 
 ### Government Dysfunction
 **Decision-Making Crisis:**
-The possessed queen's decrees increasingly serve [[02_Worldbuilding/People/The Crimson Sage]]'s agenda rather than Aethermoor's needs:
+The possessed queen's decrees increasingly serve [[The Crimson Sage]]'s agenda rather than Aethermoor's needs:
 
 - **Resource Allocation**: Massive funding diverted to crystal research and ancient artifact recovery
 - **Military Deployment**: Troops reassigned to guard crystal sites rather than protect borders
@@ -142,7 +142,7 @@ The consciousness possessing Queen Seraphina has several interconnected goals:
 
 ### The Love Motivation
 **Cosmic Romance:**
-At the heart of the Sage's agenda lies a love story of divine proportions. [[02_Worldbuilding/People/The Crimson Sage]] was once united with [[The Deep Mother]], and their separation during [[The Great Crystallization]] and [[Timeline of the Drowning]] represents the universe's greatest tragedy. The possessed queen's actions are ultimately motivated by desperate desire to reunite with the lost divine lover.
+At the heart of the Sage's agenda lies a love story of divine proportions. [[The Crimson Sage]] was once united with [[The Deep Mother]], and their separation during [[The Great Crystallization]] and [[Timeline of the Drowning]] represents the universe's greatest tragedy. The possessed queen's actions are ultimately motivated by desperate desire to reunite with the lost divine lover.
 
 **Romantic Delusion:**
 The Sage's consciousness, filtered through Queen Seraphina's human emotions, has become obsessed with reunion to the point of madness. This manifests as:
@@ -239,7 +239,7 @@ Queen Seraphina's possession has severely damaged Aethermoor's international sta
 
 ### Cross-Dimensional Implications
 **Aquabyssos Connection:**
-Although unaware of the other dimension's existence, the possessed queen's actions affect [[02_Worldbuilding/Places/Aquabyssos]]:
+Although unaware of the other dimension's existence, the possessed queen's actions affect [[Aquabyssos]]:
 
 - Crystal network expansion influences pressure currents in the ocean realm
 - Dimensional barriers weakening due to royal attempts to contact [[The Deep Mother]]
@@ -335,7 +335,7 @@ The divine consciousness operates through interconnected crystal formations:
 - **Architectural Crystals**: Building elements that monitor and influence inhabitants
 
 **Consciousness Layers:**
-1. **Divine Core**: [[02_Worldbuilding/People/The Crimson Sage]]'s original consciousness
+1. **Divine Core**: [[The Crimson Sage]]'s original consciousness
 2. **Collective Memory**: Stored experiences from thousands of years
 3. **Crystal Network**: Artificial intelligence-like system managing operations
 4. **Host Personality**: Queen Seraphina's suppressed individual consciousness
@@ -349,7 +349,7 @@ The possessed queen demonstrates abilities far beyond normal crystal magic:
 - **Reality Perception**: Can see through illusions and detect dimensional disturbances
 - **Mass Influence**: Projects crystal consciousness to affect large groups simultaneously
 - **Temporal Awareness**: Limited ability to perceive past and potential future events
-- **Dimensional Sensitivity**: Awareness of [[02_Worldbuilding/Places/Aquabyssos]] despite dimensional barriers
+- **Dimensional Sensitivity**: Awareness of [[Aquabyssos]] despite dimensional barriers
 - **Crystal Command**: Absolute control over all crystalline formations within range
 - **Life Extension**: Divine consciousness prevents normal aging and disease
 
@@ -383,7 +383,7 @@ Despite enhanced power, the possession creates specific weaknesses:
 ### Regional Variations
 
 **High Possession Areas:**
-- [[02_Worldbuilding/Places/Crystalhaven]] (Capital): 60% possession rate, full royal control
+- [[Crystalhaven]] (Capital): 60% possession rate, full royal control
 - [[Ancient Crystal Mines]]: 80% possession rate, archaeological excavation sites
 - [[Royal Crystal Gardens]]: 90% possession rate, research and development centers
 
@@ -451,7 +451,7 @@ Queen Seraphina's possession represents one path convergence might take—forced
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/People/The Crimson Sage]] - Divine consciousness possessing the queen
+- [[The Crimson Sage]] - Divine consciousness possessing the queen
 - [[Prince Aurelius]] - Son leading resistance against possession
 - [[Princess Luminara]] - Daughter at risk of inherited possession
 - [[Lord Chancellor Prism]] - Fully possessed chief advisor

@@ -14,12 +14,12 @@ obsidianUIMode: preview
 # The Wandering Atoll - Freedom's Float
 
 ## Overview
-The Wandering Atoll is a massive collection of shipwrecks, debris, and grown materials bound together into a floating city that drifts across the surface of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]]. Home to the [[Free Current]] rebellion and those who refuse to accept the drowned world, it represents the last bastion of surface-dwelling freedom. The atoll never stays in one place, following ancient currents and the will of its mysterious navigation system.
+The Wandering Atoll is a massive collection of shipwrecks, debris, and grown materials bound together into a floating city that drifts across the surface of [[Aquabyssos World Overview|Aquabyssos]]. Home to the [[Free Current]] rebellion and those who refuse to accept the drowned world, it represents the last bastion of surface-dwelling freedom. The atoll never stays in one place, following ancient currents and the will of its mysterious navigation system.
 
 ## Districts
 
 ### The Crown of Wrecks
-Upper level made from the hulls of ancient ships. [[02_Worldbuilding/People/Captain Garrett Stormcutter]] maintains his primary warehouse here, though he publicly denies Free Current connections.
+Upper level made from the hulls of ancient ships. [[Captain Garrett Stormcutter]] maintains his primary warehouse here, though he publicly denies Free Current connections.
 
 ### The Refugee Quarters
 Ramshackle housing for those fleeing the depths. [[Harbor Master Luna Freedrift]] assigns spaces and maintains what passes for order.
@@ -86,13 +86,13 @@ Follows a complex pattern that includes:
 - Hovering over deep trenches during full moons
 - Circling sites of pre-drowning cities
 - Avoiding Depth Warden patrols
-- Meeting with [[02_Worldbuilding/Places/The Phosphor Markets]] monthly
-- Mysterious stops over [[02_Worldbuilding/Places/The Primordial Vaults]]
+- Meeting with [[The Phosphor Markets]] monthly
+- Mysterious stops over [[The Primordial Vaults]]
 
 ## Current Events
 1. Food shortages as garden yields decrease
 2. Faction spies discovered in refugee quarters
-3. The compass pointing consistently toward [[02_Worldbuilding/Places/The Cerulean Trench]]
+3. The compass pointing consistently toward [[The Cerulean Trench]]
 4. Mysterious signals from the surface world received
 5. [[Depth Wardens]] mobilizing for major assault
 
@@ -131,7 +131,7 @@ Follows a complex pattern that includes:
 10. Storm approaching, all hands to secure
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Captain Garrett Stormcutter]] - Secret supporter
+- [[Captain Garrett Stormcutter]] - Secret supporter
 - [[Commander Typhoon Blackheart]] - Free Current leader
 - [[Harbor Master Luna Freedrift]] - Population coordinator
 - [[Navigator Sage Driftwood]] - Mystical guide
@@ -141,10 +141,10 @@ Follows a complex pattern that includes:
 - [[Keeper of the Past, Elderly Morgan]] - Memory guardian
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Phosphor Markets]] - Regular trading
-- [[02_Worldbuilding/Places/New Tethys]] - Source of refugees
-- [[02_Worldbuilding/Places/The Cerulean Trench]] - Mysterious connection
-- [[02_Worldbuilding/Places/The Primordial Vaults]] - Hovers above periodically
+- [[The Phosphor Markets]] - Regular trading
+- [[New Tethys]] - Source of refugees
+- [[The Cerulean Trench]] - Mysterious connection
+- [[The Primordial Vaults]] - Hovers above periodically
 
 ## Quests Available
 - [[Surface Signals]] - Investigate mysterious communications

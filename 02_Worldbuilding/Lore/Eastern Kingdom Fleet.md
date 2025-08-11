@@ -258,8 +258,8 @@ Resource sharing operations enable characters to participate in complex logistic
 Crisis response coordination involves characters in emergency operations that demonstrate the value of international cooperation while providing opportunities for heroic action and strategic decision-making.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Alliance framework for fleet operations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater ally and operational area
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface ally requiring fleet support
-- [[02_Worldbuilding/Lore/Admiral Storm Tidecaller]] - Aquabyssos naval commander coordinating with fleet
-- [[02_Worldbuilding/Lore/Commander Eastwind Stormbreak]] - Eastern Kingdom Fleet commanding admiral
+- [[United Councils of Both Worlds]] - Alliance framework for fleet operations
+- [[Aquabyssos]] - Primary underwater ally and operational area
+- [[Aethermoor]] - Primary surface ally requiring fleet support
+- [[Admiral Storm Tidecaller]] - Aquabyssos naval commander coordinating with fleet
+- [[Commander Eastwind Stormbreak]] - Eastern Kingdom Fleet commanding admiral

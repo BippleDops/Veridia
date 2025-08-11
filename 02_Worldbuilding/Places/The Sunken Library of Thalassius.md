@@ -13,7 +13,7 @@ population: "50+ (scholars, guardians, spirits)"
 age: "800+ years old"
 created: 2025-08-10
 updated: 2025-08-10
-related_entities: ["[[Scholar Emperor Thalassius the Wise]]", "[[02_Worldbuilding/Groups/The Scribes' Covenant]]", "[[Order of Preserved Knowledge]]", "[[The Deep Archives]]"]
+related_entities: ["[[Scholar Emperor Thalassius the Wise]]", "[[The Scribes' Covenant]]", "[[Order of Preserved Knowledge]]", "[[The Deep Archives]]"]
 ---
 
 # The Sunken Library of Thalassius
@@ -21,7 +21,7 @@ related_entities: ["[[Scholar Emperor Thalassius the Wise]]", "[[02_Worldbuildin
 
 ## Overview
 
-The Sunken Library of Thalassius stands as one of the most significant repositories of pre-Drowning knowledge in all of [[02_Worldbuilding/Places/Aquabyssos]]. Once the crown jewel of [[Scholar Emperor Thalassius the Wise]]'s educational empire, this massive underwater complex contains hundreds of thousands of books, scrolls, magical texts, and artifacts that have survived the catastrophic transformation of the world.
+The Sunken Library of Thalassius stands as one of the most significant repositories of pre-Drowning knowledge in all of [[Aquabyssos]]. Once the crown jewel of [[Scholar Emperor Thalassius the Wise]]'s educational empire, this massive underwater complex contains hundreds of thousands of books, scrolls, magical texts, and artifacts that have survived the catastrophic transformation of the world.
 
 Built originally as a surface library complex spanning over 12 city blocks, the library was miraculously preserved when the Great Drowning occurred. Through a combination of hasty protective magic and fortunate architecture, large portions of the structure maintained air-filled chambers and preserved their precious contents. Today, it exists as a partially flooded maze of chambers, halls, and towers where scholars from across the realm come to study forbidden knowledge and recover lost wisdom.
 
@@ -246,7 +246,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **[[Research Director Current-Thought]]**: Coordinates active research projects
 - **Background**: Former adventurer who settled into scholarly life
-- **Connections**: Maintains relationships with researchers throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Connections**: Maintains relationships with researchers throughout [[Aquabyssos]]
 - **Services**: Matches researchers with appropriate resources and collaborators
 - **Expertise**: Specializes in practical applications of academic knowledge
 
@@ -267,7 +267,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 
 **[[Engineer Pressure-Smith]]**: Studies ancient construction techniques
 - **Focus**: How pre-Drowning buildings were adapted for underwater use
-- **Practical Work**: Consults on construction projects throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Practical Work**: Consults on construction projects throughout [[Aquabyssos]]
 - **Innovation**: Develops new building methods combining old and new techniques
 - **Teaching**: Trains architects and engineers in flood-resistant construction
 
@@ -552,7 +552,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Resolution**: Successful rescue improves party reputation with scholarly community
 
 #### The Missing Expedition
-**Background**: Academic delegation from [[02_Worldbuilding/Places/New Tethys]] has disappeared in the library
+**Background**: Academic delegation from [[New Tethys]] has disappeared in the library
 **Investigation**: Trail leads to dangerous areas controlled by hostile guardians
 **Discovery**: Expedition triggered ancient security systems and is held prisoner
 **Negotiation**: Guardians may release prisoners in exchange for specific services
@@ -581,7 +581,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 **Sides**: Government agencies, academic institutions, criminal organizations
 **Stakes**: Control of historical records that could legitimize political claims
 **Party Role**: Choose sides or attempt to maintain library neutrality
-**Resolution**: Outcome affects scholarly freedom throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Resolution**: Outcome affects scholarly freedom throughout [[Aquabyssos]]
 
 #### The Censorship Crisis
 **Issue**: Authorities demand removal of certain historical records
@@ -609,7 +609,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Research-Based Adventures (Levels 5-12)
 
 #### The Academic Conference
-**Event**: Scholars from across [[02_Worldbuilding/Places/Aquabyssos]] gather for major conference
+**Event**: Scholars from across [[Aquabyssos]] gather for major conference
 **Organization**: Party helps coordinate complex logistics and security
 **Politics**: Different academic and political factions create tension
 **Crisis**: Sabotage attempts or attacks on prominent scholars
@@ -627,7 +627,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 ### Academic Relationships
 
 #### Partner Institutions
-**Allied Organizations**: Other scholarly groups throughout [[02_Worldbuilding/Places/Aquabyssos]]:
+**Allied Organizations**: Other scholarly groups throughout [[Aquabyssos]]:
 
 **[[The Scribes' Covenant]]**: Professional organization for librarians and archivists
 - **Membership**: Many library staff belong to this organization
@@ -641,7 +641,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 - **Protection**: Offers security services for threatened collections
 - **Ritual Services**: Blessing ceremonies for new acquisitions and major projects
 
-**[[University of Depth Studies]]**: Major academic institution in [[02_Worldbuilding/Places/New Tethys]]
+**[[University of Depth Studies]]**: Major academic institution in [[New Tethys]]
 - **Student Exchange**: Advanced students study at the library
 - **Faculty Collaboration**: Joint research projects and publication efforts
 - **Resource Sharing**: Interlibrary loan and document exchange programs
@@ -661,7 +661,7 @@ The Great Drowning transformed the library complex in dramatic and sometimes ben
 #### Government Relations
 **Official Status**: The library's relationship with various governmental entities:
 
-**[[Parliament of Echoes]]**: The central government of [[02_Worldbuilding/Places/Aquabyssos]]
+**[[Parliament of Echoes]]**: The central government of [[Aquabyssos]]
 - **Legal Status**: Official recognition as educational institution
 - **Funding**: Government grants for specific research projects
 - **Access Rights**: Parliamentary investigators have special library privileges

@@ -9,12 +9,12 @@ type: Location
 region: Northwestern Aethermoor
 danger_level: High
 notable_npcs:
-  - "[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]"
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
+  - "[[Sister Morwyn Veilkeeper]]"
+  - "[[Vex Shadowthorn]]"
 connected_locations:
-  - "[[02_Worldbuilding/Places/Crystalhaven]]"
-  - "[[02_Worldbuilding/Places/The Verdant Reach]]"
-  - "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
+  - "[[Crystalhaven]]"
+  - "[[The Verdant Reach]]"
+  - "[[The Crystalline Wastes]]"
   - Category/Place
 MyContainer: None
 MyCategory: Unknown
@@ -45,12 +45,12 @@ The Shadowmere spans roughly 100 square miles of twisted landscape where normal 
 - Fortress of the Order of the Shattered Crown
 - Built at the intersection of three ley lines
 - Contains the Archive of Shadows (forbidden knowledge)
-- Home to [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'s sanctum
+- Home to [[Sister Morwyn Veilkeeper]]'s sanctum
 
 ### The Fade Markets
 - Traveling bazaar that appears at random
 - Merchants from multiple planes
-- [[02_Worldbuilding/People/Vex Shadowthorn]]'s secondary base of operations
+- [[Vex Shadowthorn]]'s secondary base of operations
 - Trades in memories, dreams, and darker currencies
 
 ## Environmental Hazards
@@ -79,7 +79,7 @@ The Shadowmere spans roughly 100 square miles of twisted landscape where normal 
 Three massive obsidian pillars that prevent the Shadowmere from expanding:
 - Northern Anchor: Guarded by the Crystal Wardens
 - Eastern Anchor: Protected by druidic wards
-- Southern Anchor: Location known only to [[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]
+- Southern Anchor: Location known only to [[Sister Morwyn Veilkeeper]]
 
 ### The Threshold Inn
 - Only safe haven for travelers
@@ -118,7 +118,7 @@ Three massive obsidian pillars that prevent the Shadowmere from expanding:
 - Normal maps are useless; paths change based on intent
 - Best traveled during twilight hours
 - Requires guide or shadow-touched companion
-- [[02_Worldbuilding/People/Vex Shadowthorn]]'s syndicate offers safe passage (for a price)
+- [[Vex Shadowthorn]]'s syndicate offers safe passage (for a price)
 
 ## Plot Hooks
 1. Anchor Stone failing, needs rare components to repair

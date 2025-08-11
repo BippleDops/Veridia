@@ -9,8 +9,8 @@ race: Human
 class: Cleric/Inquisitor
 level: 16
 alignment: Lawful Evil (believes he's Good)
-location: "[[02_Worldbuilding/Places/The Verdant Reach]]"
-faction: "[[02_Worldbuilding/Groups/Purist Coalition]]"
+location: "[[The Verdant Reach]]"
+faction: "[[Purist Coalition]]"
 status: complete
 created: 2024-12-20
 image: "04_Resources/Assets/NPCs/maltheos.jpg"
@@ -24,7 +24,7 @@ obsidianUIMode: preview
 *The Pure Flame, Cleanser of Corruption*
 
 ## Overview
-High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]] with fervent conviction that Aether Crystals are a divine curse that must be purged. Charismatic, intelligent, and utterly ruthless, he has transformed a peaceful movement into a militant force. Unknown to his followers, he is a descendant of one of the Seven Betrayers who shattered the Crown.
+High Inquisitor Maltheos leads the [[Purist Coalition]] with fervent conviction that Aether Crystals are a divine curse that must be purged. Charismatic, intelligent, and utterly ruthless, he has transformed a peaceful movement into a militant force. Unknown to his followers, he is a descendant of one of the Seven Betrayers who shattered the Crown.
 
 ## Appearance
 - **Age**: 52
@@ -74,7 +74,7 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]] 
 ## Resources & Influence
 
 ### Military Command
-- **2,000 Purifiers** - Regular soldiers of the [[02_Worldbuilding/Groups/Purist Coalition]]
+- **2,000 Purifiers** - Regular soldiers of the [[Purist Coalition]]
 - **500 Crimson Fist** - Elite guard unit and personal protection
 - **Unknown number of secret cells** - Underground resistance networks
 - **Sympathizers everywhere** - Citizens who agree with crystal purification goals
@@ -84,21 +84,21 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]] 
 
 ### Religious Hierarchy
 - **High Clerics of Purification** - Senior religious leaders supporting his cause
-- **Temple Networks** - Priests across [[02_Worldbuilding/Places/Aethermoor]] spreading his message
-- **[[02_Worldbuilding/Groups/Temple of Divine Order]]** - Religious organization aligned with his goals
+- **Temple Networks** - Priests across [[Aethermoor]] spreading his message
+- **[[Temple of Divine Order]]** - Religious organization aligned with his goals
 - **Purification Monks** - Ascetics dedicated to cleansing crystal corruption
 
 ### Political Alliances
 - **Anti-Crystal Nobles** - Aristocrats who support his cause
 - **Merchant Opposition** - Traders who profit from non-crystal alternatives
 - **Military Sympathizers** - Soldiers and officers who agree with his methods
-- **[[02_Worldbuilding/Groups/The Crown Authority]]** - Complex relationship with royal government
+- **[[The Crown Authority]]** - Complex relationship with royal government
 
 ### Enemies & Opposition
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Primary political opponent
-- **[[02_Worldbuilding/Groups/Crystal Wardens]]** - Military force protecting crystal interests
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection to his ancestral guilt
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]** - May possess blackmail material about his heritage
+- **[[Queen Seraphina Lumengarde]]** - Primary political opponent
+- **[[Crystal Wardens]]** - Military force protecting crystal interests
+- **[[The Crimson Sage]]** - Unknown connection to his ancestral guilt
+- **[[Vex Shadowthorn]]** - May possess blackmail material about his heritage
 
 ### Political Power
 - 30% of population supports him
@@ -121,15 +121,15 @@ High Inquisitor Maltheos leads the [[02_Worldbuilding/Groups/Purist Coalition]] 
 - **The Crimson Fist** - Personal guard
 
 ### Enemies
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Must be destroyed
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Respected but opposed
-- [[02_Worldbuilding/Groups/The Crystal Throne]] - Corrupt institution
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Embodies corruption
+- [[Queen Seraphina Lumengarde]] - Must be destroyed
+- [[Lord Commander Gareth Steelborn]] - Respected but opposed
+- [[The Crystal Throne]] - Corrupt institution
+- [[Vex Shadowthorn]] - Embodies corruption
 
 ### Complicated
-- [[02_Worldbuilding/People/The Crimson Sage]] - Suspects their true nature
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Natural ally but too passive
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Useful tool
+- [[The Crimson Sage]] - Suspects their true nature
+- [[Archdruid Thornweaver]] - Natural ally but too passive
+- [[Prince Caspian Duskwater]] - Useful tool
 - Common people - Needs but distrusts them
 
 ## Secret Knowledge
@@ -209,7 +209,7 @@ Maltheos believes in ancient prophecy:
 ## Quest Involvement
 
 ### As Antagonist
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Refuses peace
+- [[Quest - Diplomatic Immunity]] - Refuses peace
 - [[Quest - The Crystal Festival]] - Planning attack
 - Stop his extremist cells
 
@@ -232,12 +232,12 @@ Maltheos believes in ancient prophecy:
 
 ## Connected NPCs
 - [[Brother Marcus Steelbane]] - Wavering follower
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Primary target
-- [[02_Worldbuilding/People/The Crimson Sage]] - Suspects truth
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Potential ally
+- [[Queen Seraphina Lumengarde]] - Primary target
+- [[The Crimson Sage]] - Suspects truth
+- [[Archdruid Thornweaver]] - Potential ally
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Base of operations
+- [[The Verdant Reach]] - Base of operations
 - Monastery of Eternal Light - Headquarters
 - Every major city - Hidden cells
 
@@ -309,7 +309,7 @@ Spells known include:
 
 ## The Amber Shard - His Greatest Secret
 ### Hidden Power Source
-Deep beneath the Monastery of Eternal Light, Maltheos has secretly constructed a containment chamber for the Amber Shard - one of [[02_Worldbuilding/Lore/The Seven Shards]]. This discovery has shaped his entire crusade.
+Deep beneath the Monastery of Eternal Light, Maltheos has secretly constructed a containment chamber for the Amber Shard - one of [[The Seven Shards]]. This discovery has shaped his entire crusade.
 
 ### How He Acquired It
 - Found the Shard 15 years ago during excavation of monastery foundations
@@ -335,7 +335,7 @@ Deep beneath the Monastery of Eternal Light, Maltheos has secretly constructed a
 - 2,000 trained soldiers dedicated to anti-crystal warfare
 - Equipped with blessed weapons effective against corrupted creatures
 - Organized into companies led by veteran commanders
-- Based in fortified positions throughout [[02_Worldbuilding/Places/The Verdant Reach]]
+- Based in fortified positions throughout [[The Verdant Reach]]
 
 **The Crimson Fist (Elite Guard)**
 - 500 hand-picked warriors sworn to absolute loyalty

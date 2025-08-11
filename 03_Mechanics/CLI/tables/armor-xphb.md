@@ -35,4 +35,4 @@ modified: 2025-07-23 12:39
 | &emsp;[Shield](/03_Mechanics/CLI/items/shield-xphb.md) | +2 | — | — | 6 lb. | 10 GP |
 ^armor
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

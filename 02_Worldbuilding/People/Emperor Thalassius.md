@@ -11,8 +11,8 @@ race: Deep One (Ancient Human)
 class: Warlock/Noble
 level: 18
 alignment: Lawful Neutral (Shadow-touched)
-location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
-faction: "[[02_Worldbuilding/Groups/Parliament of Echoes]]"
+location: "[[Abyssos Prime]]"
+faction: "[[Parliament of Echoes]]"
 status: Alive (Shadow-bonded)
 created: 2025-08-08
 world: "Aquabyssos"
@@ -26,7 +26,7 @@ obsidianUIMode: preview
 *The Shadow Emperor, He Who Speaks with Depths, First of the Parliament*
 
 ## Overview
-Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over three centuries, though most believe he has only reigned for fifty years. Born during the great submersion of the surface world, he was among the first to successfully bond with shadow essence, allowing him to survive the transformation that created the underwater realm. Now ancient beyond mortal years, he maintains power through a complex web of political manipulation, shadow magic, and genuine care for his transformed people.
+Emperor Thalassius has ruled [[Aquabyssos]] for over three centuries, though most believe he has only reigned for fifty years. Born during the great submersion of the surface world, he was among the first to successfully bond with shadow essence, allowing him to survive the transformation that created the underwater realm. Now ancient beyond mortal years, he maintains power through a complex web of political manipulation, shadow magic, and genuine care for his transformed people.
 
 ## Appearance
 - **Current Form**: Tall, imposing figure in flowing robes that seem to move like water
@@ -42,52 +42,52 @@ Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over thr
 - **Public Face**: Wise, measured, paternal to his people
 - **Private Nature**: Melancholic, burdened by centuries of rule
 - **Core Traits**: Patient strategist, genuine protector, shadow-touched wisdom
-- **Fears**: The [[02_Worldbuilding/Lore/Deep Mother]] awakening, losing more citizens to corruption
+- **Fears**: The [[Deep Mother]] awakening, losing more citizens to corruption
 - **Desires**: Balance between surface and depth, legacy that outlasts him
 
 ## Abilities & Resources
 
 ### Shadow Magic (Warlock Powers)
-- **Patron**: Bonded to a fragment of the [[02_Worldbuilding/Lore/Deep Mother]]'s dreams
+- **Patron**: Bonded to a fragment of the [[Deep Mother]]'s dreams
 - **Signature Spells**: *Darkness*, *Hunger of Hadar*, *Dominate Person*
 - **Unique**: Can commune with shadows of the dead
 - **Limitation**: Extended use ages him visibly
 
 ### Political Power
-- **Supreme Authority**: Rules through the [[02_Worldbuilding/Groups/Parliament of Echoes]]
+- **Supreme Authority**: Rules through the [[Parliament of Echoes]]
 - **Shadow Network**: Spies throughout Aquabyssos and surface world
 - **Divine Right**: Recognized as chosen by the Deep Mother
 - **Resources**: Imperial treasury, shadow-forged weapons, loyalty of the depths
 
 ### Ancient Knowledge
 - Remembers the world before the submersion
-- Knows the true location of several [[02_Worldbuilding/Lore/The Seven Shards]]
+- Knows the true location of several [[The Seven Shards]]
 - Understanding of both surface magic and depth sorcery
 - Secret treaties with surface world powers
 
 ## Relationships
 
 ### Inner Circle
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient advisor (complex relationship)
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Trusted general and heir-apparent
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Spiritual advisor
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Surface liaison
+- [[Aboleth Prime Yoth]] - Ancient advisor (complex relationship)
+- [[Duke Cyrus Reefheart]] - Trusted general and heir-apparent
+- [[High Priestess Scylla Deepdream]] - Spiritual advisor
+- [[Ambassador Nerida Deepcurrent]] - Surface liaison
 
 ### Allies
-- [[02_Worldbuilding/Groups/The Depth Wardens]] - Elite guard
-- [[02_Worldbuilding/People/Master of Currents Zephyr]] - Naval commander
-- [[02_Worldbuilding/Groups/Current Riders Guild]] - Messengers and scouts
-- Various [[02_Worldbuilding/Places/Parliament of Echoes]] members
+- [[The Depth Wardens]] - Elite guard
+- [[Master of Currents Zephyr]] - Naval commander
+- [[Current Riders Guild]] - Messengers and scouts
+- Various [[Parliament of Echoes]] members
 
 ### Enemies & Threats
-- [[02_Worldbuilding/Groups/The Purist Coalition]] (surface) - View him as abomination
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Surface world rival
+- [[The Purist Coalition]] (surface) - View him as abomination
+- [[Prince Caspian Duskwater]] - Surface world rival
 - Rogue shadow-touched who've lost their sanity
-- Deep cultists who want to wake the [[02_Worldbuilding/Lore/Deep Mother]]
+- Deep cultists who want to wake the [[Deep Mother]]
 
 ### Complex Relations
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret correspondence about dual-world threats
-- [[02_Worldbuilding/People/Marina Red Tide Coralheart - Aquabyssos]] - Possible daughter (hidden)
+- [[Queen Seraphina Lumengarde]] - Secret correspondence about dual-world threats
+- [[Marina Red Tide Coralheart - Aquabyssos]] - Possible daughter (hidden)
 - Surface world ambassadors (knows their real identities)
 
 ## Secrets
@@ -102,16 +102,16 @@ Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over thr
 
 ## Current Activities
 - Mediating tensions between traditional Aquabyssos factions and surface sympathizers
-- Investigating strange currents from the [[02_Worldbuilding/Places/Hadal Depths]]
-- Secret diplomatic correspondence with [[02_Worldbuilding/Places/Aethermoor]]
-- Preparing [[02_Worldbuilding/People/Duke Cyrus Reefheart]] for eventual succession
+- Investigating strange currents from the [[Hadal Depths]]
+- Secret diplomatic correspondence with [[Aethermoor]]
+- Preparing [[Duke Cyrus Reefheart]] for eventual succession
 - Researching ways to slow his shadow consumption
 
 ## Motivations
 1. **Primary**: Ensure Aquabyssos thrives after his eventual passing
 2. **Secondary**: Maintain balance between surface and depth realms
 3. **Hidden**: Find a way to preserve his human soul before it's consumed
-4. **Long-term**: Prevent catastrophic awakening of the [[02_Worldbuilding/Lore/Deep Mother]]
+4. **Long-term**: Prevent catastrophic awakening of the [[Deep Mother]]
 
 ## Combat Tactics
 - Avoids direct confrontation (centuries of experience favor subtlety)
@@ -137,10 +137,10 @@ Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over thr
 
 ## Quest Hooks
 1. Emperor secretly seeks surface-worlders to investigate deep corruption
-2. Needs deniable assets to recover one of the [[02_Worldbuilding/Lore/The Seven Shards]]
-3. Diplomatic mission to negotiate with [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]
+2. Needs deniable assets to recover one of the [[The Seven Shards]]
+3. Diplomatic mission to negotiate with [[Queen Seraphina Lumengarde]]
 4. Ancient rival from before the submersion has returned
-5. Strange dreams from the [[02_Worldbuilding/Lore/Deep Mother]] require investigation
+5. Strange dreams from the [[Deep Mother]] require investigation
 
 ## Speaking Style
 *"The depths teach patience, surface-friend. What seems like eternity to you is but a moment to those who have learned to breathe water."* - To diplomats
@@ -152,23 +152,23 @@ Emperor Thalassius has ruled [[02_Worldbuilding/Places/Aquabyssos]] for over thr
 ## DM Notes
 - Use as patron/quest giver rather than antagonist
 - His shadow magic can provide plot hooks to both worlds
-- Connection to [[02_Worldbuilding/Lore/Deep Mother]] makes him prophetic
+- Connection to [[Deep Mother]] makes him prophetic
 - Gradually reveal his ancient nature through gameplay
 - His potential death could trigger massive political upheaval
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Duke Cyrus Reefheart]] - Heir and general
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient advisor
-- [[02_Worldbuilding/People/High Priestess Scylla Deepdream]] - Spiritual counsel
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Secret correspondent
+- [[Duke Cyrus Reefheart]] - Heir and general
+- [[Aboleth Prime Yoth]] - Ancient advisor
+- [[High Priestess Scylla Deepdream]] - Spiritual counsel
+- [[Queen Seraphina Lumengarde]] - Secret correspondent
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Imperial capital
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Seat of government
-- [[02_Worldbuilding/Places/The Inverse Palace]] - Private residence
-- [[02_Worldbuilding/Places/Hadal Depths]] - Source of his power
+- [[Abyssos Prime]] - Imperial capital
+- [[Parliament of Echoes]] - Seat of government
+- [[The Inverse Palace]] - Private residence
+- [[Hadal Depths]] - Source of his power
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Diplomatic Tides]] - Cross-realm negotiations
-- [[02_Worldbuilding/Quests/Depths of Whispers]] - Investigation of deep currents
-- [[02_Worldbuilding/Quests/The Depth Accords]] - Surface/depth treaties
+- [[Diplomatic Tides]] - Cross-realm negotiations
+- [[Depths of Whispers]] - Investigation of deep currents
+- [[The Depth Accords]] - Surface/depth treaties

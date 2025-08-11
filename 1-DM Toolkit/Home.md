@@ -44,7 +44,7 @@ obsidianUIMode: preview
 
 ## System References
 
-- [[03_Mechanics/CLI/bestiary|Bestiary (CLI)]]
-- [[03_Mechanics/CLI/items|Items (CLI)]]
-- [[03_Mechanics/CLI/spells|Spells (CLI)]]
-- [[03_Mechanics/Rules_Reference|Rules Reference]]
+- [[bestiary|Bestiary (CLI)]]
+- [[items|Items (CLI)]]
+- [[spells|Spells (CLI)]]
+- [[Rules_Reference|Rules Reference]]

@@ -18,7 +18,7 @@ updated: 2025-08-11
 
 ## Overview
 
-Environmental Hazards encompass the myriad natural and supernatural dangers that threaten adventurers in the merged realms of [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. These hazards go beyond simple weather or terrain challenges to include reality distortions, pressure anomalies, magical contamination, and the unstable effects of two worlds attempting to occupy the same space.
+Environmental Hazards encompass the myriad natural and supernatural dangers that threaten adventurers in the merged realms of [[Aquabyssos]] and [[Aethermoor]]. These hazards go beyond simple weather or terrain challenges to include reality distortions, pressure anomalies, magical contamination, and the unstable effects of two worlds attempting to occupy the same space.
 
 Unlike traditional environmental dangers, the hazards in this campaign setting often interact with each other in complex ways. Pressure differentials can trigger magical resonances, crystal corruption can amplify temporal distortions, and shadow wells can create cascading failures across multiple environmental systems. Understanding these interactions is crucial for survival.
 

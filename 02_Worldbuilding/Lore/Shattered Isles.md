@@ -346,9 +346,9 @@ Strategic resource recovery missions require characters to obtain specific items
 Disaster prevention scenarios involve characters in preventing or mitigating catastrophic events that could affect both worlds while working under severe time pressure.
 
 ## Connected Locations and Threats
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary realm containing the Shattered Isles
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major corruption source affecting the region
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]] - Primary exploration and security force
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for research efforts
-- [[02_Worldbuilding/People/Navigator Deep Current]] - Leading expert on Shattered Isles navigation
-- [[02_Worldbuilding/Lore/Royal Academy of Magical Sciences]] - Primary research organization
+- [[Aquabyssos]] - Primary realm containing the Shattered Isles
+- [[The Crystal Influence]] - Major corruption source affecting the region
+- [[Eastern Kingdom Fleet]] - Primary exploration and security force
+- [[United Councils of Both Worlds]] - Coordination authority for research efforts
+- [[Navigator Deep Current]] - Leading expert on Shattered Isles navigation
+- [[Royal Academy of Magical Sciences]] - Primary research organization

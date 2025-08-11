@@ -16,7 +16,7 @@ obsidianUIMode: preview
 # The Singing Trenches
 
 ## Overview
-The Singing Trenches are a vast network of underwater canyons where the very stone resonates with an otherworldly choir. Located in the deep wilderness between [[02_Worldbuilding/Places/Abyssos Prime]] and [[02_Worldbuilding/Places/The Cerulean Trench]], these geological formations create haunting melodies that can drive listeners to madness, grant divine inspiration, or reveal hidden truths. The songs change with the tides, the phases of surface moons, and the emotional state of those who listen.
+The Singing Trenches are a vast network of underwater canyons where the very stone resonates with an otherworldly choir. Located in the deep wilderness between [[Abyssos Prime]] and [[The Cerulean Trench]], these geological formations create haunting melodies that can drive listeners to madness, grant divine inspiration, or reveal hidden truths. The songs change with the tides, the phases of surface moons, and the emotional state of those who listen.
 
 ## Geography and Formation
 
@@ -76,7 +76,7 @@ Areas where the interaction between song and current has created unique plant li
 ## Inhabitants
 
 ### The Choir Keepers
-**[[Chorus Master Melodia Depthsong]]**: Former bard from [[02_Worldbuilding/Places/New Tethys]] who has lived in the trenches for two decades, learning to conduct the natural symphony. She can predict weather, political events, and natural disasters by listening to changes in the music.
+**[[Chorus Master Melodia Depthsong]]**: Former bard from [[New Tethys]] who has lived in the trenches for two decades, learning to conduct the natural symphony. She can predict weather, political events, and natural disasters by listening to changes in the music.
 
 **[[The Resonant Hermit]]**: A mysterious figure who claims to have been here since before [[The Great Drowning]]. They speak only in sung phrases and seem to know the meaning behind every melody.
 
@@ -155,16 +155,16 @@ Characters spending extended time in the trenches must make Constitution saves d
 
 ## Connected Locations
 
-### [[02_Worldbuilding/Places/Abyssos Prime]]
+### [[Abyssos Prime]]
 The capital city sends regular expeditions to harvest resonant crystals for magical research and construction projects. However, these mining operations often disrupt the natural music and create tension with the Choir Keepers.
 
-### [[02_Worldbuilding/Places/New Tethys]]
+### [[New Tethys]]
 The city's Conservatory of Memory has a special interest in the trenches, as certain songs seem to preserve ancient memories and historical information. Exchange programs exist between the two locations.
 
-### [[02_Worldbuilding/Places/The Cerulean Trench]]
+### [[The Cerulean Trench]]
 Some believe the two trench systems were once connected and that their separation created the initial songs. Researchers from both areas work together to understand their shared history.
 
-### [[02_Worldbuilding/Places/Aethermoor]]
+### [[Aethermoor]]
 Surface dwellers sometimes hear echoes of the trench songs during storms or at certain tidal conditions. This has led to legends about "the voice of the deep" and occasionally draws surface musicians to seek out the source.
 
 ## Quest Hooks and Adventures
@@ -205,7 +205,7 @@ Two factions - one wanting to preserve the trenches' natural state and another s
 
 ## Secrets
 > [!warning] DM Only
-> - The songs are actually a massive magical working that maintains the barrier between [[02_Worldbuilding/Places/Aquabyssos]] and [[The Hadal Depths]]
+> - The songs are actually a massive magical working that maintains the barrier between [[Aquabyssos]] and [[The Hadal Depths]]
 > - The original music was created by the combined voices of everyone who drowned in [[The Great Drowning]]
 > - There's a hidden chamber containing a choir of crystallized singers from the surface world
 > - The Conductor's Baton was deliberately hidden to prevent anyone from stopping the protective songs

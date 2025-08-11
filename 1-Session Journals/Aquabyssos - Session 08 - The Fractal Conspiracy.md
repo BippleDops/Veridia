@@ -8,7 +8,7 @@ depth: "Variable (Reality Layers)"
 npcs_featured:
   - [[Lord Flux the Inconsistent]]
   - [[The Sorrowmaster]]
-  - [[02_Worldbuilding/Lore/Marina's Echo|Marina's Echo]]
+  - [[Marina's Echo|Marina's Echo]]
   - [[The Parliament of Nobody]]
 status: "planned"
 party_level: 7

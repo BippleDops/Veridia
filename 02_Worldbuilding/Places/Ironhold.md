@@ -5,13 +5,13 @@ world: "Aethermoor"
 type: "Mountain Fortress-City"
 population: 280000
 government: "Council of Forgemasters"
-leader: "[[02_Worldbuilding/People/Master Smith Vulcan Deepforge]]"
+leader: "[[Master Smith Vulcan Deepforge]]"
 specialties: ["Metalworking", "Engineering", "Mountain Defense", "Industrial Production"]
 founded: "First Age"
 climate: "Alpine, Cold Winters"
 created: 2025-08-09
 updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]", "[[02_Worldbuilding/Lore/Continental War]]", "[[02_Worldbuilding/Places/The Sundered Peaks]]"]
+related_entities: ["[[Ancient Siege Tunnels]]", "[[Continental War]]", "[[The Sundered Peaks]]"]
 ---
 
 # Ironhold
@@ -19,9 +19,9 @@ related_entities: ["[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]", "[[02_Worl
 
 ## Overview
 
-Carved into the living rock of [[02_Worldbuilding/Places/The Sundered Peaks]], Ironhold stands as [[02_Worldbuilding/Places/Aethermoor]]'s greatest fortress-city and the undisputed center of metalworking, engineering, and industrial production. This ancient stronghold, founded in the First Age by master craftsmen seeking the perfect ore deposits, has evolved into a marvel of defensive architecture and technological innovation that has never fallen to enemy assault.
+Carved into the living rock of [[The Sundered Peaks]], Ironhold stands as [[Aethermoor]]'s greatest fortress-city and the undisputed center of metalworking, engineering, and industrial production. This ancient stronghold, founded in the First Age by master craftsmen seeking the perfect ore deposits, has evolved into a marvel of defensive architecture and technological innovation that has never fallen to enemy assault.
 
-The city extends both above and below ground, with surface fortifications protecting vast underground complexes that house forges, workshops, living quarters, and the extensive [[02_Worldbuilding/Lore/Ancient Siege Tunnels|tunnel networks]] that played a crucial role during [[02_Worldbuilding/Lore/Continental War]]. Ironhold's citizens, primarily but not exclusively dwarven, have created a society where craftsmanship and engineering excellence are the highest virtues.
+The city extends both above and below ground, with surface fortifications protecting vast underground complexes that house forges, workshops, living quarters, and the extensive [[Ancient Siege Tunnels|tunnel networks]] that played a crucial role during [[Continental War]]. Ironhold's citizens, primarily but not exclusively dwarven, have created a society where craftsmanship and engineering excellence are the highest virtues.
 
 ## Geography & Architecture
 
@@ -83,7 +83,7 @@ Supreme governing body composed of master craftsmen:
 
 ### Engineering Services
 **Fortification Design**: Military architecture consulting for other cities
-**Tunnel Construction**: Extension and maintenance of [[02_Worldbuilding/Lore/Ancient Siege Tunnels]]
+**Tunnel Construction**: Extension and maintenance of [[Ancient Siege Tunnels]]
 **Bridge Building**: Spanning mountain valleys and connecting remote settlements
 **Water Management**: Aqueducts, drainage systems, and hydraulic engineering
 
@@ -102,7 +102,7 @@ Supreme governing body composed of master craftsmen:
 **Supply Caches**: Hidden stockpiles ensuring long-term siege resistance
 
 ### Military Innovation
-During [[02_Worldbuilding/Lore/Continental War]], Ironhold developed:
+During [[Continental War]], Ironhold developed:
 - Advanced siege warfare techniques
 - Improved tunnel construction methods
 - Revolutionary defensive architecture
@@ -149,7 +149,7 @@ During [[02_Worldbuilding/Lore/Continental War]], Ironhold developed:
 **Rune-Smith Magic-Binder**: Specialist in magically enhanced metalworking
 
 ### Historical Heroes
-**General Iron-Wall**: Defender during the [[02_Worldbuilding/Lore/Continental War]]
+**General Iron-Wall**: Defender during the [[Continental War]]
 **Master Builder Stone-Shaper**: Architect of the current fortification system
 **Admiral Deep-Strike**: Naval commander who revolutionized ship armor
 **Explorer Peak-Walker**: Discovered many of the mountain's mineral deposits
@@ -186,7 +186,7 @@ Growing population strain on city resources:
 ### International Relations
 Ironhold's role in continental politics:
 - Military cooperation agreements with other major powers
-- Competition with [[02_Worldbuilding/Places/Crystalhaven]] over technological development
+- Competition with [[Crystalhaven]] over technological development
 - Trade relationships requiring diplomatic balance
 - Defense obligations under mutual protection treaties
 
@@ -209,7 +209,7 @@ Balancing extraction with sustainability:
 1. **The Mine Collapse**: Rescue operation in dangerous deep mining tunnel
 2. **The Stolen Blueprints**: Recover stolen engineering plans for critical fortification
 3. **The Master's Test**: Help aspiring craftsman complete trial for promotion
-4. **The Tunnel Mystery**: Investigate strange discoveries in expansion of [[02_Worldbuilding/Lore/Ancient Siege Tunnels]]
+4. **The Tunnel Mystery**: Investigate strange discoveries in expansion of [[Ancient Siege Tunnels]]
 5. **The Trade Dispute**: Mediate conflict between Ironhold and international customer
 6. **The Sabotage Investigation**: Find who is causing "accidents" in critical facilities
 7. **The Diplomatic Crisis**: Prevent international incident over military technology sharing

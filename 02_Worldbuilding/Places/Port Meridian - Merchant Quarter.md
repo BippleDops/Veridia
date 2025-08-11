@@ -2,7 +2,7 @@
 tags: [location, district, trading, commercial, port, bustling]
 status: "completed"
 world: "Aethermoor"
-parent_location: "[[02_Worldbuilding/Places/Port Meridian]]"
+parent_location: "[[Port Meridian]]"
 region: "[[The Azure Coast]]"
 type: "Commercial District"
 population: 85000
@@ -22,7 +22,7 @@ obsidianUIMode: preview
 
 ## Overview
 
-The Merchant Quarter forms the bustling commercial core of [[02_Worldbuilding/Places/Port Meridian]], where fortunes are made and lost with the changing tides. This sprawling district of markets, warehouses, counting houses, and trading posts serves as the primary economic engine for all of [[02_Worldbuilding/Places/Aethermoor]]. Here, crystal-powered cargo lifters move goods from dozens of nations, while merchants from [[02_Worldbuilding/Places/Crystalhaven]], [[02_Worldbuilding/Places/Ironhold]], [[02_Worldbuilding/Places/Sylvanheart]], and even the mysterious underwater realm of [[Aquabyssos]] conduct business in a controlled chaos of commerce.
+The Merchant Quarter forms the bustling commercial core of [[Port Meridian]], where fortunes are made and lost with the changing tides. This sprawling district of markets, warehouses, counting houses, and trading posts serves as the primary economic engine for all of [[Aethermoor]]. Here, crystal-powered cargo lifters move goods from dozens of nations, while merchants from [[Crystalhaven]], [[Ironhold]], [[Sylvanheart]], and even the mysterious underwater realm of [[Aquabyssos]] conduct business in a controlled chaos of commerce.
 
 The Quarter operates under the watchful eye of [[Trade Master Silas Goldwater]] and the [[Merchant Council of Port Meridian]], who ensure that profits flow freely while maintaining enough order to prevent complete anarchy. The district runs on crystal-powered clockwork precision during the day, transforming into a den of deals, schemes, and shadowy negotiations after dark.
 
@@ -32,7 +32,7 @@ The Quarter operates under the watchful eye of [[Trade Master Silas Goldwater]] 
 Central marketplace covering 20 square blocks, designed in concentric circles:
 
 **The Golden Circle (Center)**
-- **[[The Crystal Exchange]]** - Primary crystal trading floor with [[02_Worldbuilding/Places/Crystalhaven]] representatives
+- **[[The Crystal Exchange]]** - Primary crystal trading floor with [[Crystalhaven]] representatives
 - **[[The Scales of Fortune]]** - Largest general trading house, owned by [[Merchant Prince Aurelius Goldhand]]
 - **[[The Compass Rose]]** - Navigation equipment and ship supplies hub
 - **[[The Ledger Hall]]** - Banking and money-changing center run by [[Master Banker Cornelius Coinwright]]
@@ -66,7 +66,7 @@ Central marketplace covering 20 square blocks, designed in concentric circles:
 ### The Counting House Row
 
 **Major Financial Institutions**
-- **[[The Golden Scales Bank]]** - Primary banking house with branches across [[02_Worldbuilding/Places/Aethermoor]]
+- **[[The Golden Scales Bank]]** - Primary banking house with branches across [[Aethermoor]]
 - **[[Meridian Insurance Company]]** - Shipping and cargo insurance
 - **[[The Moneylender's Guild]]** - Small loans and currency exchange
 - **[[Foreign Exchange Office]]** - International currency and trade agreements
@@ -80,8 +80,8 @@ Central marketplace covering 20 square blocks, designed in concentric circles:
 ### The Docks Integration
 
 **Commercial Piers**
-- **[[The Crystal Pier]]** - Dedicated to crystal shipments from [[02_Worldbuilding/Places/Crystalhaven]]
-- **[[Ironhold Dock]]** - Heavy cargo and metal goods from [[02_Worldbuilding/Places/Ironhold]]
+- **[[The Crystal Pier]]** - Dedicated to crystal shipments from [[Crystalhaven]]
+- **[[Ironhold Dock]]** - Heavy cargo and metal goods from [[Ironhold]]
 - **[[The Exotic Wharf]]** - Foreign and unusual cargo
 - **[[The Deepwater Terminal]]** - Mysterious trade with underwater realms
 
@@ -95,19 +95,19 @@ Central marketplace covering 20 square blocks, designed in concentric circles:
 
 ### Primary Trade Goods
 
-**Crystal Products** (from [[02_Worldbuilding/Places/Crystalhaven]])
+**Crystal Products** (from [[Crystalhaven]])
 - Refined Aether Crystals for energy and magic
 - Crystal-powered devices and tools
 - Magical weapons and armor
 - Crystal jewelry and decorative items
 
-**Metalwork & Minerals** (from [[02_Worldbuilding/Places/Ironhold]])
+**Metalwork & Minerals** (from [[Ironhold]])
 - [[Sundered Steel]] weapons and tools
 - Precious metals and gems
 - Stone carvings and architectural elements
 - Dwarven ale and spirits
 
-**Natural Products** (from [[02_Worldbuilding/Places/Sylvanheart]])
+**Natural Products** (from [[Sylvanheart]])
 - Rare herbs and magical plants
 - Living wood crafts and furniture
 - Crystal-resistant goods
@@ -192,7 +192,7 @@ The beating heart of Aethermoor's crystal trade:
 - Crystal energy overload (DC 16 CON save or 2d8 force damage)
 - Magical feedback loops from concentrated crystals
 - Corruption risk from prolonged exposure
-- Theft attempts by [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+- Theft attempts by [[The Whisper Syndicate]]
 
 ### The Information Exchange
 Hub for news, intelligence, and data trading:
@@ -201,7 +201,7 @@ Hub for news, intelligence, and data trading:
 - Official news proclamations and announcements
 - Shipping schedules and arrival notifications
 - Weather reports and navigation warnings
-- Political updates from across [[02_Worldbuilding/Places/Aethermoor]]
+- Political updates from across [[Aethermoor]]
 
 **[[The Rumor Mill]]**
 - Unofficial news and gossip trading post
@@ -323,13 +323,13 @@ Hidden organization controlling crystal prices:
 - Artificial scarcity creation through market manipulation
 - Elimination of independent crystal traders
 - Secret storage facilities with massive crystal stockpiles
-- Connections to [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+- Connections to [[The Whisper Syndicate]]
 
 ### The Foreign Intelligence Network
 Multiple nations operate spy rings within the Quarter:
-- [[02_Worldbuilding/Places/Crystalhaven]] agents monitoring anti-crystal sentiment
-- [[02_Worldbuilding/Places/Ironhold]] spies tracking crystal military applications
-- [[02_Worldbuilding/Places/Sylvanheart]] operatives protecting refugee networks
+- [[Crystalhaven]] agents monitoring anti-crystal sentiment
+- [[Ironhold]] spies tracking crystal military applications
+- [[Sylvanheart]] operatives protecting refugee networks
 - Unknown foreign powers gathering strategic intelligence
 
 ### The Merchant Council's Hidden Agenda
@@ -351,7 +351,7 @@ The governing council has secret goals beyond simple commerce:
 
 **The Great Heist**
 Investigate the theft of an entire warehouse worth of crystals:
-- Inside job with connections to [[02_Worldbuilding/Groups/The Whisper Syndicate]]
+- Inside job with connections to [[The Whisper Syndicate]]
 - Clues lead to conspiracy involving Merchant Council members
 - Stolen crystals being used to power illegal magical experiments
 - Recovery mission requires infiltration and stealth
@@ -445,7 +445,7 @@ Characters operating in the Merchant Quarter gain access to:
 | Roll | Encounter |
 |------|-----------|
 | 1-2 | Black market dealer offering illegal goods |
-| 3-4 | [[02_Worldbuilding/Groups/The Whisper Syndicate]] recruitment attempt |
+| 3-4 | [[The Whisper Syndicate]] recruitment attempt |
 | 5-6 | Corporate espionage operation in progress |
 | 7-8 | Smuggling operation seeking additional personnel |
 | 9 | High-stakes gambling den with merchant princes |
@@ -454,9 +454,9 @@ Characters operating in the Merchant Quarter gain access to:
 ## Connections to Other Locations
 
 ### Trade Routes
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Primary source of crystal goods and technology
-- **[[02_Worldbuilding/Places/Ironhold]]** - Metalwork, gems, and dwarven crafts
-- **[[02_Worldbuilding/Places/Sylvanheart]]** - Natural goods and crystal-resistant products
+- **[[Crystalhaven]]** - Primary source of crystal goods and technology
+- **[[Ironhold]]** - Metalwork, gems, and dwarven crafts
+- **[[Sylvanheart]]** - Natural goods and crystal-resistant products
 - **[[Aquabyssos]]** - Exotic underwater goods and mysterious materials
 - **Foreign Ports** - International trade connections across multiple continents
 

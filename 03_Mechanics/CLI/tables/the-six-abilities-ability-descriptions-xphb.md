@@ -24,4 +24,4 @@ modified: 2025-07-23 12:39
 | Charisma | Confidence, poise, and charm |
 ^ability-descriptions
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

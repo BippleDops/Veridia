@@ -22,7 +22,7 @@ world_consequences: "Reality-altering"
 *When Ancient Powers Stir in Harmony*
 
 ## Overview
-Scholar-mystics across both realms have detected an unprecedented phenomenon: the [[02_Worldbuilding/Lore/The Seven Shards]] scattered throughout [[02_Worldbuilding/Places/Aethermoor]] are beginning to resonate with the stirring consciousness of the [[02_Worldbuilding/Lore/The Deep Mother]] in [[02_Worldbuilding/Places/Aquabyssos]]. This connection suggests that both cosmic forces are linked in ways that could fundamentally alter both worlds—or destroy them. The party must investigate this resonance, uncover its purpose, and decide whether to enhance, disrupt, or redirect this ancient cosmic dance.
+Scholar-mystics across both realms have detected an unprecedented phenomenon: the [[The Seven Shards]] scattered throughout [[Aethermoor]] are beginning to resonate with the stirring consciousness of the [[The Deep Mother]] in [[Aquabyssos]]. This connection suggests that both cosmic forces are linked in ways that could fundamentally alter both worlds—or destroy them. The party must investigate this resonance, uncover its purpose, and decide whether to enhance, disrupt, or redirect this ancient cosmic dance.
 
 ## Background
 ### The Resonance Discovery
@@ -34,7 +34,7 @@ Scholar-mystics across both realms have detected an unprecedented phenomenon: th
 
 ### Historical Context
 - Pre-separation texts hint that Shards and Deep Mother were once connected
-- [[02_Worldbuilding/People/The Crimson Sage]] may have been involved in original separation
+- [[The Crimson Sage]] may have been involved in original separation
 - The resonance pattern matches astronomical events occurring every 1,000 years
 - Previous resonances may have triggered major historical catastrophes
 - Current cycle appears to be the strongest ever recorded
@@ -61,18 +61,18 @@ Scholar-mystics across both realms have detected an unprecedented phenomenon: th
 ### Act II: The Sacred Convergence (Levels 12-14)
 #### Sites of Power Calling
 #### Aethermoor Investigations
-- **[[02_Worldbuilding/Places/Crystalhaven]]**: Study Crystal Throne's response to resonance
-- **[[02_Worldbuilding/Places/The Verdant Reach]]**: Investigate Emerald Shard's nature connection
-- **[[02_Worldbuilding/Places/Port Meridian]]**: Examine Crimson Shard's plague effects
-- **[[02_Worldbuilding/Places/The Shadowmere]]**: Explore where Obsidian Shard meets shadow
+- **[[Crystalhaven]]**: Study Crystal Throne's response to resonance
+- **[[The Verdant Reach]]**: Investigate Emerald Shard's nature connection
+- **[[Port Meridian]]**: Examine Crimson Shard's plague effects
+- **[[The Shadowmere]]**: Explore where Obsidian Shard meets shadow
 - **[[The Azure Coast]]**: Discover sunken Azure Shard's oceanic connection
 
 #### Aquabyssos Explorations
-- **[[02_Worldbuilding/Places/The Hadal Depths]]**: Map Deep Mother's physical stirring
+- **[[The Hadal Depths]]**: Map Deep Mother's physical stirring
 - **[[Memory Meadows]]**: Observe how dreams are affected by crystal resonance
-- **[[02_Worldbuilding/Places/The Deepmind]]**: Study consciousness changes during resonance
+- **[[The Deepmind]]**: Study consciousness changes during resonance
 - **[[Shadow Wells]]**: Investigate shadow manifestations responding to Shard energy
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Document political effects of cosmic stirring
+- **[[Parliament of Echoes]]**: Document political effects of cosmic stirring
 
 ### Act III: The Nexus Network (Levels 14-16)
 #### Reality's Weak Points
@@ -130,7 +130,7 @@ Scholar-mystics across both realms have detected an unprecedented phenomenon: th
 - **[[The Azure Prophet Nerissa]]**: Seer receiving visions during resonance events
 
 ### Cosmic Entities
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May be key to understanding original separation
+- **[[The Crimson Sage]]**: May be key to understanding original separation
 - **[[Sister Thalassa the Depth-Touched]]**: Prophet interpreting Deep Mother's will
 - **[[Gareth Goldenheart, The Chosen Vessel]]**: Child bearing Golden Shard experiencing changes
 - **[[The Emerald Sage Willowbark]]**: Ancient guardian observing Emerald Shard evolution
@@ -221,7 +221,7 @@ Scholar-mystics across both realms have detected an unprecedented phenomenon: th
 - **Awakened Shard Guardian** (CR 14): Crystal sentinel empowered by resonance
 - **Deep Mother's Dream Spawn** (CR 15): Manifestation of stirring consciousness
 - **Reality Storm Elemental** (CR 13): Being of chaotic mixed energies
-- **Corrupted Archdruid** (CR 14): [[02_Worldbuilding/People/Archdruid Thornweaver]] twisted by Emerald Shard resonance
+- **Corrupted Archdruid** (CR 14): [[Archdruid Thornweaver]] twisted by Emerald Shard resonance
 
 ### Act III Encounters (CR 15-17)
 - **Convergence Point Dragon** (CR 16): Ancient wyrm mutated by dimensional instability
@@ -359,16 +359,16 @@ Scholar-mystics across both realms have detected an unprecedented phenomenon: th
 ## Connected Elements & Campaign Integration
 
 ### Required Previous Adventures
-- Discovery of at least three [[02_Worldbuilding/Lore/The Seven Shards]]
-- First contact with [[02_Worldbuilding/Lore/The Deep Mother]]'s influence
+- Discovery of at least three [[The Seven Shards]]
+- First contact with [[The Deep Mother]]'s influence
 - Relationships established with [[The Void Watchers]] and [[Scholar Vivienne the Chronicler]]
-- Understanding of both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] cultures
+- Understanding of both [[Aethermoor]] and [[Aquabyssos]] cultures
 
 ### Concurrent Storylines
-- [[02_Worldbuilding/Groups/The Convergence Seekers]]' activities reach crescendo
-- [[02_Worldbuilding/Groups/Purist Coalition]] launches desperate countermeasures
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]'s merger with Clear Shard accelerates
-- [[02_Worldbuilding/Places/The Shadowmere]] expansion threatens multiple regions
+- [[The Convergence Seekers]]' activities reach crescendo
+- [[Purist Coalition]] launches desperate countermeasures
+- [[Queen Seraphina Lumengarde]]'s merger with Clear Shard accelerates
+- [[The Shadowmere]] expansion threatens multiple regions
 
 ### Future Campaign Seeds
 - Consequences of cosmic decision affect all future adventures
@@ -377,24 +377,24 @@ Scholar-mystics across both realms have detected an unprecedented phenomenon: th
 - Exploration of other dimensions revealed by cosmic resonance
 
 ### Essential Wiki Links (20+)
-1. [[02_Worldbuilding/Lore/The Seven Shards]] - Central cosmic force
-2. [[02_Worldbuilding/Lore/The Deep Mother]] - Opposing/complementary cosmic entity
-3. [[02_Worldbuilding/Places/Aethermoor]] - Primary realm of crystals
-4. [[02_Worldbuilding/Places/Aquabyssos]] - Realm of shadows and depths
+1. [[The Seven Shards]] - Central cosmic force
+2. [[The Deep Mother]] - Opposing/complementary cosmic entity
+3. [[Aethermoor]] - Primary realm of crystals
+4. [[Aquabyssos]] - Realm of shadows and depths
 5. [[Scholar Vivienne the Chronicler]] - Key researcher NPC
 6. [[The Void Watchers]] - Dimensional guardian faction
-7. [[02_Worldbuilding/Places/Crystalhaven]] - Clear Shard location
-8. [[02_Worldbuilding/Places/The Verdant Reach]] - Emerald Shard location
-9. [[02_Worldbuilding/Places/Port Meridian]] - Crimson Shard location
-10. [[02_Worldbuilding/Places/The Shadowmere]] - Obsidian Shard location
+7. [[Crystalhaven]] - Clear Shard location
+8. [[The Verdant Reach]] - Emerald Shard location
+9. [[Port Meridian]] - Crimson Shard location
+10. [[The Shadowmere]] - Obsidian Shard location
 11. [[The Azure Coast]] - Azure Shard location
-12. [[02_Worldbuilding/Places/The Hadal Depths]] - Deep Mother's domain
+12. [[The Hadal Depths]] - Deep Mother's domain
 13. [[Memory Meadows]] - Dream realm connection
-14. [[02_Worldbuilding/Places/The Deepmind]] - Consciousness nexus
-15. [[02_Worldbuilding/Places/Parliament of Echoes]] - Aquabyssos government
+14. [[The Deepmind]] - Consciousness nexus
+15. [[Parliament of Echoes]] - Aquabyssos government
 16. [[The Liminal Trading Company]] - Cross-realm merchants
-17. [[02_Worldbuilding/Groups/The Convergence Seekers]] - Unity faction
-18. [[02_Worldbuilding/People/The Crimson Sage]] - Aetheron's mortal form
+17. [[The Convergence Seekers]] - Unity faction
+18. [[The Crimson Sage]] - Aetheron's mortal form
 19. [[Sister Thalassa the Depth-Touched]] - Deep Mother prophet
 20. [[Memory Harvester Kythara]] - Dream realm expert
 21. [[Captain Nautilus the Deep Wanderer]] - Deep explorer

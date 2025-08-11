@@ -11,8 +11,8 @@ race: Human
 class: Fighter/Paladin
 level: 14
 alignment: Lawful Good
-location: "[[02_Worldbuilding/Places/Port Meridian]]"
-faction: "[[02_Worldbuilding/Groups/The Crown Authority]]"
+location: "[[Port Meridian]]"
+faction: "[[The Crown Authority]]"
 status: Alive (Corruption-resistant)
 created: 2025-08-08
 world: "Aethermoor"
@@ -26,7 +26,7 @@ obsidianUIMode: preview
 *The Iron Lady of the Fleet, Scourge of Pirates, Guardian of the Crown Waters*
 
 ## Overview
-Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[02_Worldbuilding/People/Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors.
+Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromising honor and tactical brilliance. A veteran of dozens of sea battles, she has spent her career fighting pirates, smugglers, and the increasing threat of crystal corruption in the maritime trade routes. Known for her incorruptible nature and fierce loyalty to [[Queen Seraphina Lumengarde]], she remains unaware of the Queen's hidden condition while serving as one of her most trusted military advisors.
 
 ## Appearance
 - **Build**: Tall and imposing at 5'10", athletic and scarred from battle
@@ -68,27 +68,27 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 ## Relationships
 
 ### Inner Circle
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Absolute loyalty and respect
+- [[Queen Seraphina Lumengarde]] - Absolute loyalty and respect
 - **Captain Marcus "Ironshore" Bayside** - First officer and trusted friend
 - **Navigator Lyralei Starweaver** - Master navigator and strategic advisor
 - **Quartermaster Jeremiah "Steady" Moorfield** - Logistics and supply expert
 
 ### Military Allies
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Army counterpart, mutual respect
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - City guard liaison
-- [[02_Worldbuilding/Groups/Crystal Wardens]] - Coordinate against crystal smuggling
+- [[Lord Commander Gareth Steelborn]] - Army counterpart, mutual respect
+- [[Captain Lyanna Brightshield]] - City guard liaison
+- [[Crystal Wardens]] - Coordinate against crystal smuggling
 - Harbor masters throughout the kingdom
 
 ### Enemies
-- [[02_Worldbuilding/Groups/The Crimson Fleet]] - Pirate confederation she's battled for years
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Notorious pirate nemesis
-- [[02_Worldbuilding/Groups/Independent Smugglers]] - Constant cat-and-mouse game
+- [[The Crimson Fleet]] - Pirate confederation she's battled for years
+- [[Captain Thaddeus Blackwater]] - Notorious pirate nemesis
+- [[Independent Smugglers]] - Constant cat-and-mouse game
 - Crystal corruption smuggling rings
 
 ### Complex Relations
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Suspects his illegal activities but lacks proof
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Tension over trade route protection
-- [[02_Worldbuilding/People/Ambassador Korvin Blacktide]] (if he exists) - Suspicious of foreign naval interests
+- [[Vex Shadowthorn]] - Suspects his illegal activities but lacks proof
+- [[Merchant Princes]] - Tension over trade route protection
+- [[Ambassador Korvin Blacktide]] (if he exists) - Suspicious of foreign naval interests
 
 ## Secrets
 > [!warning] DM Only
@@ -103,7 +103,7 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - Coordinating naval defense against increasing pirate activity
 - Investigating crystal smuggling operations along the coast
 - Training new officers to replace losses from corruption-related incidents
-- Working with [[02_Worldbuilding/Groups/The Crown Authority]] on port security
+- Working with [[The Crown Authority]] on port security
 - Growing suspicious of certain royal advisors' behavior
 
 ## Motivations
@@ -156,16 +156,16 @@ Admiral Cassandra Stormwind commands the Crown's naval forces with uncompromisin
 - Her absolute loyalty makes her both asset and potential threat to corrupted nobles
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Beloved sovereign
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military peer
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Pirate nemesis
+- [[Queen Seraphina Lumengarde]] - Beloved sovereign
+- [[Lord Commander Gareth Steelborn]] - Military peer
+- [[Captain Thaddeus Blackwater]] - Pirate nemesis
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Port Meridian]] - Primary naval base
-- [[02_Worldbuilding/Places/Port Meridian Harbor]] - Operational headquarters
-- [[02_Worldbuilding/Places/The Crown Authority]] - Receives orders from
+- [[Port Meridian]] - Primary naval base
+- [[Port Meridian Harbor]] - Operational headquarters
+- [[The Crown Authority]] - Receives orders from
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - Foreign Interests]] - Naval intelligence gathering
-- [[02_Worldbuilding/Quests/Quest - The Crown Reborn]] - Military support for succession
-- [[02_Worldbuilding/Quests/Economic Warfare]] - Protecting trade routes
+- [[Quest - Foreign Interests]] - Naval intelligence gathering
+- [[Quest - The Crown Reborn]] - Military support for succession
+- [[Economic Warfare]] - Protecting trade routes

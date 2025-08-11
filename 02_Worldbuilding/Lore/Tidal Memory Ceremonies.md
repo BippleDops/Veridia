@@ -142,19 +142,19 @@ Tidal Memory Ceremonies represent the most sacred religious practices in Aquabys
 8. **Traumatic Integration**: Help refugee community adapt to tidal memory practices
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
+- [[High Priestess Celeste Dawnbringer]] - Religious leader adapting traditions for inter-realm cooperation
 - [[Tidal Priest Marina Deepcurrent]] - Expert in memory ceremonies and tidal interpretation
 - [[Memory Keeper Ancient Nerida]] - Eldest keeper of community historical memories
-- [[02_Worldbuilding/People/Elder Whisper-In-The-Dark]] - Spiritual advisor with memory magic knowledge
+- [[Elder Whisper-In-The-Dark]] - Spiritual advisor with memory magic knowledge
 
 ## Connected Locations
 - [[Sacred Memory Gardens]] - Coral formations serving as living archives
 - [[The Great Tidal Shrine]] - Primary ceremonial site for major memory rituals
 - [[Ancestor's Pool]] - Sacred site for communicating with ancestral memories
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Government incorporating memory consultation
+- [[Parliament of Echoes]] - Government incorporating memory consultation
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/Temple of the Healing Waters]] - Religious organization maintaining ceremony traditions
+- [[Temple of the Healing Waters]] - Religious organization maintaining ceremony traditions
 - [[The Memory Keepers Guild]] - Professional organization preserving cultural knowledge
 - [[Tidal Priests Circle]] - Religious leadership guiding memory practices
 

@@ -5,7 +5,7 @@ tags:
   - political
   - urgent
 type: Quest
-quest_giver: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
+quest_giver: "[[Queen Seraphina Lumengarde]]"
 location: Multiple
 level: 6-10
 status: Available
@@ -22,15 +22,15 @@ obsidianUIMode: preview
 *Preventing the War Nobody Wins*
 
 ## Overview
-Tensions between [[02_Worldbuilding/Groups/The Crystal Throne]], [[02_Worldbuilding/Groups/Purist Coalition]], and [[The Verdant Accord]] have reached a breaking point. [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
+Tensions between [[The Crystal Throne]], [[Purist Coalition]], and [[The Verdant Accord]] have reached a breaking point. [[Queen Seraphina Lumengarde]] secretly commissions neutral mediators to negotiate peace before the Crystal Festival becomes a bloodbath. Multiple factions plan violence, and only careful diplomacy can prevent civil war.
 
 ## The Situation
 
 ### Rising Tensions
-- [[02_Worldbuilding/Groups/Purist Coalition]] planning Festival attack
+- [[Purist Coalition]] planning Festival attack
 - [[Crystal Wardens]] on high alert
 - [[The Verdant Accord]] considering alliance with Purists
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] funding instability
+- [[Prince Caspian Duskwater]] funding instability
 - Citizens choosing sides
 
 ### The Stakes
@@ -44,13 +44,13 @@ Tensions between [[02_Worldbuilding/Groups/The Crystal Throne]], [[02_Worldbuild
 
 ### Stage 1: Initial Contact
 **Objectives**:
-- Meet [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] secretly
+- Meet [[Queen Seraphina Lumengarde]] secretly
 - Receive diplomatic credentials
 - Understand each faction's position
 - Identify moderate voices
 
 **Key NPCs**:
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Provides intelligence
+- [[Captain Lyanna Brightshield]] - Provides intelligence
 - [[Brother Marcus Steelbane]] - Moderate Purist
 - [[High Priestess Celeste Dawnbringer]] - Neutral voice
 
@@ -72,7 +72,7 @@ Tensions between [[02_Worldbuilding/Groups/The Crystal Throne]], [[02_Worldbuild
 > Queen desperately needs peace to focus on finding corruption cure
 
 #### Purist Coalition
-**Leader**: [[02_Worldbuilding/People/High Inquisitor Maltheos]]
+**Leader**: [[High Inquisitor Maltheos]]
 
 **Demands**:
 - Destroy all crystals
@@ -87,7 +87,7 @@ Tensions between [[02_Worldbuilding/Groups/The Crystal Throne]], [[02_Worldbuild
 **Moderate Voice**: [[Brother Marcus Steelbane]]
 
 #### The Verdant Accord
-**Leader**: [[02_Worldbuilding/People/Archdruid Thornweaver]]
+**Leader**: [[Archdruid Thornweaver]]
 
 **Demands**:
 - Stop forest destruction
@@ -102,8 +102,8 @@ Tensions between [[02_Worldbuilding/Groups/The Crystal Throne]], [[02_Worldbuild
 ### Stage 3: Secret Saboteurs
 
 **Groups Working Against Peace**:
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Profits from chaos
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Wants throne
+- [[The Whisper Syndicate]] - Profits from chaos
+- [[Prince Caspian Duskwater]] - Wants throne
 - Extremist cells - Both factions
 - War profiteers
 
@@ -116,9 +116,9 @@ Tensions between [[02_Worldbuilding/Groups/The Crystal Throne]], [[02_Worldbuild
 ### Stage 4: The Peace Summit
 
 **Location Options**:
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Neutral ground
+- [[The Verdant Reach]] - Neutral ground
 - Ancient temple - Sacred space
-- [[02_Worldbuilding/Places/Port Meridian]] - International observers
+- [[Port Meridian]] - International observers
 
 **Negotiation Challenges**:
 - Language barriers
@@ -180,19 +180,19 @@ Need 25+ points for lasting peace
 ## Key NPCs
 
 ### Faction Representatives
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Crystal Throne
-- [[02_Worldbuilding/People/High Inquisitor Maltheos]] - Purist Coalition
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Verdant Accord
+- [[Queen Seraphina Lumengarde]] - Crystal Throne
+- [[High Inquisitor Maltheos]] - Purist Coalition
+- [[Archdruid Thornweaver]] - Verdant Accord
 - [[Lord Aurelius Goldwave]] - Merchant Princes
 
 ### Moderates
 - [[Brother Marcus Steelbane]] - Purist moderate
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Royal moderate
+- [[Captain Lyanna Brightshield]] - Royal moderate
 - [[High Priestess Celeste Dawnbringer]] - Religious moderate
 
 ### Saboteurs
-- [[02_Worldbuilding/People/Vex Shadowthorn]] - Chaos profiteer
-- [[02_Worldbuilding/People/Prince Caspian Duskwater]] - Throne seeker
+- [[Vex Shadowthorn]] - Chaos profiteer
+- [[Prince Caspian Duskwater]] - Throne seeker
 - Extremist cells - Various
 
 ## Complications
@@ -204,7 +204,7 @@ Need 25+ points for lasting peace
 - Failure: Moderates lose influence
 
 ### False Flag Attack
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] frames Purists
+- [[The Whisper Syndicate]] frames Purists
 - Evidence: DC 18 Investigation
 - Consequences: War unless exposed
 

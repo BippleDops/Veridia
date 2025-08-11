@@ -4,11 +4,11 @@ status: "complete"
 world: "Aquabyssos"
 type: "organization"
 role: "Primary Government Institution"
-affiliation: "[[02_Worldbuilding/Places/Abyssos Prime]] Government"
+affiliation: "[[Abyssos Prime]] Government"
 size: "300+ Members"
 influence: "Maximum"
 authority_level: "Supreme Legislative"
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]] Building, Upper Districts"
+location: "[[Parliament of Echoes]] Building, Upper Districts"
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-11
@@ -18,11 +18,11 @@ updated: 2025-08-11
 *The Resonating Chamber of Democratic Will*
 
 > *"In the Parliament of Echoes, every voice reverberates through the chambers until consensus emerges from the harmony of many speaking as one. Yet in recent years, the echoes have grown discordant, and some voices carry weight that seems to come from depths beyond the chamber walls."*
-> — [[02_Worldbuilding/People/Chronicler Nerida Deepscribe]], Official Parliamentary Historian
+> — [[Chronicler Nerida Deepscribe]], Official Parliamentary Historian
 
 ## Overview
 
-The Parliament of Echoes stands as the supreme legislative body of [[02_Worldbuilding/Places/Abyssos Prime]], representing the pinnacle of underwater democratic governance. This institution evolved from ancient tribal councils and merchant assemblies into a sophisticated parliamentary system that manages the complex needs of a submerged civilization. The Parliament's unique acoustic architecture allows every spoken word to resonate throughout the chamber, ensuring that all voices are heard - though not necessarily equally weighted in the final decisions.
+The Parliament of Echoes stands as the supreme legislative body of [[Abyssos Prime]], representing the pinnacle of underwater democratic governance. This institution evolved from ancient tribal councils and merchant assemblies into a sophisticated parliamentary system that manages the complex needs of a submerged civilization. The Parliament's unique acoustic architecture allows every spoken word to resonate throughout the chamber, ensuring that all voices are heard - though not necessarily equally weighted in the final decisions.
 
 The Parliament consists of 347 elected representatives drawn from the various districts, guilds, and special interest groups throughout Abyssos Prime and its territorial holdings. Representatives serve four-year terms and are responsible for creating laws, allocating resources, managing international relations, and addressing the unique challenges of governing a society that exists beneath the waves. The institution prides itself on consensus-building, though political factions and pressure groups increasingly influence its proceedings.
 

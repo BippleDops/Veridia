@@ -380,16 +380,16 @@ Involvement with Temporal Distortion Zones provides unique opportunities for cha
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aquabyssos]] - Primary location hosting Temporal Distortion Zone facilities
-- [[02_Worldbuilding/Places/Aethermoor]] - Partner civilization for cross-dimensional temporal research
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Related facility providing acoustic research supporting temporal studies
-- [[02_Worldbuilding/Lore/Umbral Exchange]] - Interdimensional facility utilizing temporal coordination systems
-- [[02_Worldbuilding/Groups/The Crown Authority]] - Government organization overseeing temporal research
-- [[02_Worldbuilding/People/Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
-- [[02_Worldbuilding/People/Senior Temporal Engineer Chronos Fieldwright]] - Temporal field generation specialist
-- [[02_Worldbuilding/People/Paradox Analyst Echo Causality]] - Paradox prevention expert
-- [[02_Worldbuilding/People/Safety Coordinator Time Guardian]] - Temporal safety management director
-- [[02_Worldbuilding/People/Research Director Past Future]] - Chronological research program leader
-- [[02_Worldbuilding/People/Temporal Physician Healing Moment]] - Medical specialist for temporal contamination
+- [[Aquabyssos]] - Primary location hosting Temporal Distortion Zone facilities
+- [[Aethermoor]] - Partner civilization for cross-dimensional temporal research
+- [[Resonance Chamber]] - Related facility providing acoustic research supporting temporal studies
+- [[Umbral Exchange]] - Interdimensional facility utilizing temporal coordination systems
+- [[The Crown Authority]] - Government organization overseeing temporal research
+- [[Chief Temporal Engineer Paradox Timeweaver]] - Director of Chronological Research
+- [[Senior Temporal Engineer Chronos Fieldwright]] - Temporal field generation specialist
+- [[Paradox Analyst Echo Causality]] - Paradox prevention expert
+- [[Safety Coordinator Time Guardian]] - Temporal safety management director
+- [[Research Director Past Future]] - Chronological research program leader
+- [[Temporal Physician Healing Moment]] - Medical specialist for temporal contamination
 
 The Temporal Distortion Zones represent humanity's boldest attempt to master time itself, transforming the fundamental flow of existence into a tool for progress, understanding, and survival. Through these extraordinary facilities, the linear progression of moments becomes fluid, the impossible becomes inevitable, and the future becomes a destination rather than merely a direction. Yet with such power comes responsibility that extends beyond individual lives to encompass the very fabric of reality, demanding wisdom, caution, and cooperation on a cosmic scale.

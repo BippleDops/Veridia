@@ -274,8 +274,8 @@ Treatment of the ruins as a memorial site requires sensitivity to the losses rep
 Resource allocation decisions about supporting research at the ruins versus other anti-crystal efforts require characters to consider competing priorities and make strategic choices about their involvement.
 
 ## Connected Locations and Organizations
-- [[02_Worldbuilding/Lore/Aethermoor]] - The kingdom to which the lighthouse provided service
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - The corruption that caused the lighthouse's destruction
-- [[02_Worldbuilding/Lore/Coastal Survivor Marin Saltwind]] - Last keeper's apprentice and witness to the disaster
-- [[02_Worldbuilding/Lore/Hidden Sanctuary]] - Resistance organization that studies the ruins for intelligence
-- [[02_Worldbuilding/Lore/Maritime Trade Routes]] - The navigation systems the lighthouse once served
+- [[Aethermoor]] - The kingdom to which the lighthouse provided service
+- [[The Crystal Influence]] - The corruption that caused the lighthouse's destruction
+- [[Coastal Survivor Marin Saltwind]] - Last keeper's apprentice and witness to the disaster
+- [[Hidden Sanctuary]] - Resistance organization that studies the ruins for intelligence
+- [[Maritime Trade Routes]] - The navigation systems the lighthouse once served

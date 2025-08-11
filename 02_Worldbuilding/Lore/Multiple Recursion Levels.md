@@ -414,11 +414,11 @@ Exposure to recursion levels provides unique opportunities for character growth 
 8. **Recursive Diplomacy**: Characters serve as diplomatic representatives in negotiations that involve entities from multiple recursion levels while managing complex political relationships.
 
 ## Connected Phenomena and Research
-- [[02_Worldbuilding/Lore/Temporal Navigation Hazards]] - Time distortions that can interact with recursive structures
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon that may create recursive effects
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Location where recursive crystalline structures manifest
-- [[02_Worldbuilding/People/Biomancer Corvus Intestinal]] - Researcher investigating biological effects of recursive exposure
-- [[02_Worldbuilding/People/Dimensional Theorist Prime Echo]] - Leading expert on recursive reality theory
-- [[02_Worldbuilding/Lore/Spell Lists]] - Catalog of magic that can create or navigate recursive effects
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Underwater realm affected by cosmic-induced recursive phenomena
-- [[02_Worldbuilding/Lore/Aethermoor]] - Surface realm developing recursive research capabilities
+- [[Temporal Navigation Hazards]] - Time distortions that can interact with recursive structures
+- [[The Crystal Influence]] - Corruption phenomenon that may create recursive effects
+- [[Crystal Forest]] - Location where recursive crystalline structures manifest
+- [[Biomancer Corvus Intestinal]] - Researcher investigating biological effects of recursive exposure
+- [[Dimensional Theorist Prime Echo]] - Leading expert on recursive reality theory
+- [[Spell Lists]] - Catalog of magic that can create or navigate recursive effects
+- [[Aquabyssos]] - Underwater realm affected by cosmic-induced recursive phenomena
+- [[Aethermoor]] - Surface realm developing recursive research capabilities

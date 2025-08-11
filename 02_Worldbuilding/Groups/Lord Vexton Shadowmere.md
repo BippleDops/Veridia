@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *The Umbral Aristocracy, Lords of the Between-Spaces, The Ancient Hierarchy*
 
 ## Organization Overview and Purpose
-The Shadow Court represents the oldest and most influential shadow-touched nobility in [[02_Worldbuilding/Places/Aquabyssos]], tracing their lineage to the first beings who crossed from the shadow realm generations ago. Unlike newer shadow organizations that focus on commerce or political activism, the Shadow Court maintains the traditions, protocols, and hierarchies of their origin realm while wielding considerable influence over both shadow-touched and traditional politics in Aquabyssos.
+The Shadow Court represents the oldest and most influential shadow-touched nobility in [[Aquabyssos]], tracing their lineage to the first beings who crossed from the shadow realm generations ago. Unlike newer shadow organizations that focus on commerce or political activism, the Shadow Court maintains the traditions, protocols, and hierarchies of their origin realm while wielding considerable influence over both shadow-touched and traditional politics in Aquabyssos.
 
 The Court operates as both a social institution and governing body for matters concerning the shadow-touched nobility. They maintain elaborate estates in the liminal spaces between dimensions, host grand ceremonies that blend material and shadow realm customs, and serve as arbiters of disputes involving inter-dimensional law. Members of the Shadow Court are distinguished by their ancient bloodlines, refined shadow manipulation abilities, and strict adherence to codes of conduct that predate Aquabyssos itself.
 

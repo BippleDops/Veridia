@@ -26,4 +26,4 @@ modified: 2025-07-23 12:39
 | [Warhorse](/03_Mechanics/CLI/items/warhorse-xphb.md) | 540 lb. | 400 GP |
 ^mounts-and-other-animals
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

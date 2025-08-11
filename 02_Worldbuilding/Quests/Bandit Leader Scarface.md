@@ -26,11 +26,11 @@ Three years ago, Captain Korvin Blacktide led a legitimate trading mission to th
 
 ## Key NPCs
 - **Korvin "Scarface" Blacktide**: The bandit leader, brilliant tactician consumed by revenge
-- **[[02_Worldbuilding/People/Guildmaster Harwick]]**: Former mentor seeking to bring Korvin home
-- **[[02_Worldbuilding/People/Shadow Merchant Riptide]]**: Fence who provides Scarface with intelligence and equipment
-- **[[02_Worldbuilding/People/Captain Marina Swiftcurrent]]**: Korvin's former lover, now leading efforts to stop him
-- **[[02_Worldbuilding/People/Surface Trader Aldric Goldspire]]**: The merchant who betrayed Korvin's original expedition
-- **[[02_Worldbuilding/People/Mediator Serenity Stillwater]]**: Diplomat attempting peaceful resolution
+- **[[Guildmaster Harwick]]**: Former mentor seeking to bring Korvin home
+- **[[Shadow Merchant Riptide]]**: Fence who provides Scarface with intelligence and equipment
+- **[[Captain Marina Swiftcurrent]]**: Korvin's former lover, now leading efforts to stop him
+- **[[Surface Trader Aldric Goldspire]]**: The merchant who betrayed Korvin's original expedition
+- **[[Mediator Serenity Stillwater]]**: Diplomat attempting peaceful resolution
 
 ## The Scarface Problem
 
@@ -56,13 +56,13 @@ Korvin's attacks have grown increasingly sophisticated and vicious:
 ### Gathering Intelligence
 **Sources of Information:**
 - **Surviving Victims**: Merchants who escaped recent raids
-- **[[02_Worldbuilding/People/Harbor Master Luna Freedrift]]**: Has detailed shipping records showing attack patterns
-- **[[02_Worldbuilding/Groups/Dockworkers Union]]**: Members have heard rumors about recruitment efforts
-- **[[02_Worldbuilding/Groups/Current Riders Guild]] Records**: Official files on Korvin's transformation
-- **[[02_Worldbuilding/Places/Shadow Market Canals]]**: Black market dealers selling stolen goods
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]**: Historical records of similar revenge stories
-- **[[02_Worldbuilding/Groups/Memory Farmers]]**: Those who preserve memories of the original betrayal
-- **[[02_Worldbuilding/Places/The Deepmind]]**: Psychological analysis of revenge-driven behavior
+- **[[Harbor Master Luna Freedrift]]**: Has detailed shipping records showing attack patterns
+- **[[Dockworkers Union]]**: Members have heard rumors about recruitment efforts
+- **[[Current Riders Guild]] Records**: Official files on Korvin's transformation
+- **[[Shadow Market Canals]]**: Black market dealers selling stolen goods
+- **[[The Archive of Unremembered Things]]**: Historical records of similar revenge stories
+- **[[Memory Farmers]]**: Those who preserve memories of the original betrayal
+- **[[The Deepmind]]**: Psychological analysis of revenge-driven behavior
 
 **Key Discoveries:**
 1. **Personal Motivation**: Attacks specifically target [[Goldspire Confederacy]] affiliates
@@ -155,7 +155,7 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 
 **Crystal Corruption Scars.** Korvin has resistance to cold and necrotic damage. When he takes damage, crystalline growths on his scars glow, and all creatures within 10 feet must succeed on a DC 15 Constitution saving throw or take 3 (1d6) necrotic damage.
 
-**Vengeful Fury.** Against targets affiliated with [[02_Worldbuilding/Places/Goldspire Confederacy]] or surface dwellers who have betrayed depth dwellers, Korvin deals an additional 7 (2d6) damage with weapon attacks.
+**Vengeful Fury.** Against targets affiliated with [[Goldspire Confederacy]] or surface dwellers who have betrayed depth dwellers, Korvin deals an additional 7 (2d6) damage with weapon attacks.
 
 **Leadership Presence.** Allied creatures within 30 feet of Korvin have advantage on saving throws against being frightened and gain a +2 bonus to damage rolls.
 
@@ -175,11 +175,11 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 **Tactical Strike (Costs 3 Actions).** Korvin makes a Corrupted Cutlass attack with advantage. If it hits, the target is also stunned until the end of their next turn.
 
 #### Equipment
-- **Corrupted Cutlass**: Weapon infused with [[02_Worldbuilding/Lore/Crystal Corruption]], causes ongoing necrotic damage
+- **Corrupted Cutlass**: Weapon infused with [[Crystal Corruption]], causes ongoing necrotic damage
 - **Pressure Suit of Command**: AC 17 armor that allows underwater communication with allies within 1 mile
 - **Depth Charges**: Explosive devices that create underwater shockwaves
 - **Navigator's Charts**: Detailed maps of secret routes and hidden bases worth 1,500 gp
-- **Leadership Badge**: Symbol of his authority over the [[02_Worldbuilding/Groups/Crimson Tide Pirates]]
+- **Leadership Badge**: Symbol of his authority over the [[Crimson Tide Pirates]]
 
 ### Tactical Environment
 **Fighting Location:** Flagship bridge during convoy attack
@@ -244,16 +244,16 @@ Korvin's ultimate goal is to attack a high-profile diplomatic convoy carrying:
 - **Trade Guild Membership**: Legitimate cover for future maritime adventures
 
 ## Connected Adventures
-- **[[02_Worldbuilding/Places/Goldspire Confederacy]]**: Investigation into the original betrayal
-- **[[02_Worldbuilding/Groups/Current Riders Guild]]**: Helping organization recover from Scarface's defection
-- **[[02_Worldbuilding/Places/Smuggler's Cove]]**: Other criminal organizations affected by power vacuum
-- **[[02_Worldbuilding/Groups/Surface Traders]]**: Diplomatic missions to improve inter-realm relations
-- **[[02_Worldbuilding/Lore/Crystal Corruption]]**: Understanding the source of Scarface's physical and mental scars
-- **[[02_Worldbuilding/Places/Temple District]]**: Seeking religious guidance on justice vs. vengeance
-- **[[02_Worldbuilding/Groups/The Depth Wardens]]**: Military response to increased piracy
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Political implications of inter-realm criminal activity
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Legislative response to trade route security
-- **[[02_Worldbuilding/Groups/The Purist Coalition]]**: Extremist views on surface dweller relations
+- **[[Goldspire Confederacy]]**: Investigation into the original betrayal
+- **[[Current Riders Guild]]**: Helping organization recover from Scarface's defection
+- **[[Smuggler's Cove]]**: Other criminal organizations affected by power vacuum
+- **[[Surface Traders]]**: Diplomatic missions to improve inter-realm relations
+- **[[Crystal Corruption]]**: Understanding the source of Scarface's physical and mental scars
+- **[[Temple District]]**: Seeking religious guidance on justice vs. vengeance
+- **[[The Depth Wardens]]**: Military response to increased piracy
+- **[[The Scattered Emperor]]**: Political implications of inter-realm criminal activity
+- **[[Parliament of Echoes]]**: Legislative response to trade route security
+- **[[The Purist Coalition]]**: Extremist views on surface dweller relations
 
 ## Campaign Impact
 

@@ -31,4 +31,4 @@ A Short Rest is stopped by the following interruptions:
 
 An interrupted Short Rest confers no benefits.
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

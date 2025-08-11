@@ -14,7 +14,7 @@ obsidianUIMode: preview
 # The Bathyal Palace - The Court of Currents
 
 ## Overview
-Suspended in the open water at 2,800 feet depth, the Bathyal Palace is a massive structure of crystallized water and compressed pearl that serves as the neutral meeting ground for all major factions of [[02_Worldbuilding/Lore/Aquabyssos World Overview|Aquabyssos]]. Built on the site where the last surface kingdoms signed their final treaty before [[The Great Drowning]], it remains magically neutral territory where violence is supposedly impossible.
+Suspended in the open water at 2,800 feet depth, the Bathyal Palace is a massive structure of crystallized water and compressed pearl that serves as the neutral meeting ground for all major factions of [[Aquabyssos World Overview|Aquabyssos]]. Built on the site where the last surface kingdoms signed their final treaty before [[The Great Drowning]], it remains magically neutral territory where violence is supposedly impossible.
 
 ## Areas
 
@@ -56,9 +56,9 @@ Original stone where the pre-drowning treaty was signed. Touching it while lying
 
 ### Current Power Players
  - [[Ambassador Lysandra Silvertonge]] (Tethyan Hegemony) - Master manipulator
- - [[02_Worldbuilding/People/Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
- - [[02_Worldbuilding/People/Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
- - [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
+ - [[Duke Cyrus Reefheart]] (Coral Courts) - Seeking biological supremacy
+ - [[Envoy Blackwater Jr.]] (Depth Wardens) - Admiral's son, seeking independence
+ - [[Prophet Nerida Voidgazer]] (Church) - Preaching apocalyptic visions
  - [[Shadow Broker Mist]] (Free Current) - Identity unknown, influences through proxies
 
 ### Ongoing Schemes
@@ -91,7 +91,7 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 ## Current Events
 1. Emergency session called regarding [[The Deep Uprising]]
 2. Duke Reefheart accused of biological warfare
-3. Missing diplomat from [[02_Worldbuilding/Places/New Tethys]]
+3. Missing diplomat from [[New Tethys]]
 4. Proposal to admit [[The Trencher Folk]] as a faction
 5. Peace Field flickering in certain areas
 
@@ -110,7 +110,7 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 - [[Enchanter Valdris Peacewarden]] - Peace Field maintainer
 - [[Shadow Broker Mist]] - Free Current representative
 - [[Garden Keeper Zen Currentdancer]] - Spy and gardener
- - [[02_Worldbuilding/People/Envoy Blackwater Jr.]] - Depth Warden representative
+ - [[Envoy Blackwater Jr.]] - Depth Warden representative
 - [[Concierge Phillip Gracewater]] - Guest services and intelligence
 
 ## Random Encounters (d10)
@@ -126,10 +126,10 @@ Secure courier service between factions. [[Courier Chief Swift Currentrider]] gu
 10. Peace Field temporarily failing in small area
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/New Tethys]] - Tethyan Hegemony capital
-- [[02_Worldbuilding/Places/Lumengarde]] - Coral Courts seat
-- [[02_Worldbuilding/Places/Pressure's End]] - Depth Wardens fortress
-- [[02_Worldbuilding/Places/The Sunken Cathedral of Stars]] - Church headquarters
+- [[New Tethys]] - Tethyan Hegemony capital
+- [[Lumengarde]] - Coral Courts seat
+- [[Pressure's End]] - Depth Wardens fortress
+- [[The Sunken Cathedral of Stars]] - Church headquarters
 
 ## Quests Available
 - [[The Neutral Ground]] - Investigate Peace Field failures

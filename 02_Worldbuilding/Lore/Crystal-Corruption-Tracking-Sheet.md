@@ -20,9 +20,9 @@ access_restriction: "Authorized Personnel Only"
 
 ## Overview
 
-The Crystal-Corruption-Tracking-Sheet represents a revolutionary monitoring technology developed in [[02_Worldbuilding/Places/Aethermoor]] to detect, analyze, and track the spread of crystalline corruption throughout both surface and underwater realms. This sophisticated magical-technological hybrid combines real-time detection, predictive analysis, automated reporting, and strategic intelligence gathering to provide comprehensive awareness of corruption threats.
+The Crystal-Corruption-Tracking-Sheet represents a revolutionary monitoring technology developed in [[Aethermoor]] to detect, analyze, and track the spread of crystalline corruption throughout both surface and underwater realms. This sophisticated magical-technological hybrid combines real-time detection, predictive analysis, automated reporting, and strategic intelligence gathering to provide comprehensive awareness of corruption threats.
 
-Developed in response to the accelerating spread of [[Crystal Corruption]], the Tracking Sheet system provides early warning capabilities, enables rapid response deployment, supports research into corruption patterns, and facilitates international cooperation in anti-corruption efforts. The technology has become essential infrastructure for protecting both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] populations.
+Developed in response to the accelerating spread of [[Crystal Corruption]], the Tracking Sheet system provides early warning capabilities, enables rapid response deployment, supports research into corruption patterns, and facilitates international cooperation in anti-corruption efforts. The technology has become essential infrastructure for protecting both [[Aethermoor]] and [[Aquabyssos]] populations.
 
 The system operates through a network of detection nodes, analytical processing centers, and communication relays that work together to create real-time maps of corruption activity. Advanced magical algorithms process detection data to identify patterns, predict spread directions, and recommend response strategies based on historical data and current conditions.
 
@@ -88,7 +88,7 @@ Comprehensive communication networks ensure corruption intelligence reaches appr
 - **Emergency Alert Systems**: Immediate notification of critical corruption threats
 - **Routine Reporting Networks**: Regular updates on corruption status and trends
 - **Inter-Agency Coordination**: Communication links between different anti-corruption organizations
-- **Cross-Realm Information Sharing**: Networks enabling intelligence sharing with [[02_Worldbuilding/Places/Aquabyssos]]
+- **Cross-Realm Information Sharing**: Networks enabling intelligence sharing with [[Aquabyssos]]
 - **Public Warning Systems**: Citizen notification systems for corruption emergencies
 
 **Reporting Formats:**
@@ -331,7 +331,7 @@ Ongoing research promises significant improvements to corruption tracking capabi
 ### Cross-Realm Integration Projects
 
 **Collaborative Monitoring Networks:**
-Cooperation with [[02_Worldbuilding/Places/Aquabyssos]] creates opportunities for enhanced corruption tracking:
+Cooperation with [[Aquabyssos]] creates opportunities for enhanced corruption tracking:
 
 **Joint Development Projects:**
 - **Unified Detection Networks**: Integrated monitoring systems covering both realms
@@ -456,11 +456,11 @@ Understanding tracking systems helps navigate society:
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Places/Aethermoor]] - Primary setting utilizing corruption tracking technology
-- [[02_Worldbuilding/Lore/Resonance Chamber]] - Research facility using tracking data for analysis
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Resource production facility requiring protection monitoring
-- [[02_Worldbuilding/Places/Aquabyssos]] - Allied realm sharing corruption intelligence
-- [[02_Worldbuilding/People/Chief Corruption Analyst Prism Datascribe]] - System director and intelligence leader
-- [[02_Worldbuilding/People/Master Detection Engineer Crystal Sensorwright]] - Manufacturing facility director
-- [[02_Worldbuilding/Groups/Corruption Intelligence Agency]] - Primary user organization
-- [[02_Worldbuilding/Groups/Anti-Corruption Research Institute]] - Research partner using tracking data
+- [[Aethermoor]] - Primary setting utilizing corruption tracking technology
+- [[Resonance Chamber]] - Research facility using tracking data for analysis
+- [[Crystal Forest]] - Resource production facility requiring protection monitoring
+- [[Aquabyssos]] - Allied realm sharing corruption intelligence
+- [[Chief Corruption Analyst Prism Datascribe]] - System director and intelligence leader
+- [[Master Detection Engineer Crystal Sensorwright]] - Manufacturing facility director
+- [[Corruption Intelligence Agency]] - Primary user organization
+- [[Anti-Corruption Research Institute]] - Research partner using tracking data

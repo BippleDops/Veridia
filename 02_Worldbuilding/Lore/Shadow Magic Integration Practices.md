@@ -613,13 +613,13 @@ Integration research creates opportunities for characters to participate in cutt
 
 ## Connected Locations and Organizations
 
-- [[02_Worldbuilding/Lore/Umbral Exchange]] - Commercial system utilizing advanced shadow magic integration
-- [[02_Worldbuilding/Lore/The Threshold]] - Dimensional nexus where shadow magic integration became necessary
-- [[02_Worldbuilding/Places/Aquabyssos]] - Underwater civilization pioneering shadow magic integration techniques
-- [[02_Worldbuilding/Places/Aethermoor]] - Surface civilization adapting traditional culture to include shadow magic
-- [[02_Worldbuilding/Groups/Integration Institute]] - Primary research and educational organization
-- [[02_Worldbuilding/Groups/Shadow Harmonists Guild]] - Professional organization for integration specialists
-- [[02_Worldbuilding/Groups/Cultural Bridge Alliance]] - Organization facilitating cooperation between traditional and integrated communities
-- [[02_Worldbuilding/People/Master Shadow Harmonist Penumbra Duskweaver]] - Leading authority on integration practices
-- [[02_Worldbuilding/People/Integration Safety Coordinator Luna Balancekeeper]] - Specialist in integration safety protocols
-- [[02_Worldbuilding/People/Community Integration Leader Echo Bridgewright]] - Expert in community-level integration projects
+- [[Umbral Exchange]] - Commercial system utilizing advanced shadow magic integration
+- [[The Threshold]] - Dimensional nexus where shadow magic integration became necessary
+- [[Aquabyssos]] - Underwater civilization pioneering shadow magic integration techniques
+- [[Aethermoor]] - Surface civilization adapting traditional culture to include shadow magic
+- [[Integration Institute]] - Primary research and educational organization
+- [[Shadow Harmonists Guild]] - Professional organization for integration specialists
+- [[Cultural Bridge Alliance]] - Organization facilitating cooperation between traditional and integrated communities
+- [[Master Shadow Harmonist Penumbra Duskweaver]] - Leading authority on integration practices
+- [[Integration Safety Coordinator Luna Balancekeeper]] - Specialist in integration safety protocols
+- [[Community Integration Leader Echo Bridgewright]] - Expert in community-level integration projects

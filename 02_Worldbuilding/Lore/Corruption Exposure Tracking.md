@@ -31,13 +31,13 @@ The tracking protocols acknowledge that corruption is not simply a negative cond
 
 The development of systematic corruption tracking began in [[Aethermoor]] following the first major incidents of crystal plague exposure, when medical authorities recognized that traditional diagnostic and treatment approaches were inadequate for conditions that affected both physical and metaphysical aspects of patient health. Early physicians documented cases where patients exhibited symptoms that seemed to defy conventional understanding of disease progression and recovery.
 
-The crisis deepened during the period of increasing [[02_Worldbuilding/Lore/The Seven Shards]] activity, when exposure to cosmic forces began affecting larger populations and creating new types of corruption that did not match previously observed patterns. Medical institutions found themselves treating conditions they could barely understand, using therapies that sometimes worked but often failed for reasons that remained mysterious.
+The crisis deepened during the period of increasing [[The Seven Shards]] activity, when exposure to cosmic forces began affecting larger populations and creating new types of corruption that did not match previously observed patterns. Medical institutions found themselves treating conditions they could barely understand, using therapies that sometimes worked but often failed for reasons that remained mysterious.
 
 The establishment of formal tracking protocols occurred through collaboration between [[Aethermoor]]'s medical academies, magical research institutions, and government health authorities. The first standardized corruption assessment forms were developed by [[Dr. Marina Truthsight]] and her research team, who recognized that effective treatment required detailed documentation of exposure sources, progression timelines, and intervention responses.
 
 The system expanded significantly after contact with [[Aquabyssos]], where researchers had developed parallel approaches to managing deep-sea pressure corruption, void exposure, and the psychological effects of living in proximity to cosmic forces. The integration of surface and underwater research created a more comprehensive understanding of corruption as a universal phenomenon affecting mortals who encounter forces beyond their natural comprehension.
 
-The modern tracking system incorporates lessons learned from major corruption events including the [[Crystal Festival]] catastrophe, various [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos|Abyssal]] research incidents, and ongoing exposure cases throughout both civilizations. Each major event contributed new understanding of corruption mechanics and the need for more sophisticated monitoring and intervention capabilities.
+The modern tracking system incorporates lessons learned from major corruption events including the [[Crystal Festival]] catastrophe, various [[The Abyss Beneath Aquabyssos|Abyssal]] research incidents, and ongoing exposure cases throughout both civilizations. Each major event contributed new understanding of corruption mechanics and the need for more sophisticated monitoring and intervention capabilities.
 
 Current tracking protocols reflect centuries of accumulated knowledge about supernatural influence on mortal consciousness, incorporating both scientific methodology and practical experience gained from treating thousands of corruption cases across different exposure types and severity levels.
 
@@ -165,8 +165,8 @@ A new form of corruption affecting individuals exposed to both [[Aethermoor]] an
 
 ## Connected Topics and References
 - [[Crystal Festival]] - Major corruption exposure event requiring tracking system response
-- [[02_Worldbuilding/Lore/The Abyss Beneath Aquabyssos]] - Primary source of void corruption in underwater kingdom
-- [[02_Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts causing various forms of corruption exposure
+- [[The Abyss Beneath Aquabyssos]] - Primary source of void corruption in underwater kingdom
+- [[The Seven Shards]] - Cosmic artifacts causing various forms of corruption exposure
 - [[Dr. Lysander Mindbinder]] - Leading expert in corruption medicine and tracking protocols
 - [[Port Meridian Medical Institute]] - Primary treatment facility for corruption cases
 - [[Institute for Supernatural Health Studies]] - Research organization developing tracking standards

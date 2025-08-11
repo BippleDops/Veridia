@@ -6,19 +6,19 @@ tags:
   - merchant
   - mid-level
 type: Quest
-quest_giver: "[[02_Worldbuilding/People/Castellan Ironledger III]]"
+quest_giver: "[[Castellan Ironledger III]]"
 level_range: 6-9
 reward_tier: Significant
 locations:
-  - "[[02_Worldbuilding/Places/Port Meridian]]"
-  - "[[02_Worldbuilding/Places/The Sunken Markets]]"
-  - "[[02_Worldbuilding/Places/Crystalhaven]]"
+  - "[[Port Meridian]]"
+  - "[[The Sunken Markets]]"
+  - "[[Crystalhaven]]"
 npcs_involved:
-  - "[[02_Worldbuilding/People/Castellan Ironledger III]]"
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
-  - "[[02_Worldbuilding/People/Marcus Shardbreaker Grimm]]"
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]"
-  - "[[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]"
+  - "[[Castellan Ironledger III]]"
+  - "[[Vex Shadowthorn]]"
+  - "[[Marcus Shardbreaker Grimm]]"
+  - "[[Captain Lyanna Brightshield]]"
+  - "[[Master Artificer Korvin Gearwright]]"
   - Category/Quest
 MyContainer: None
 MyCategory: Unknown
@@ -31,7 +31,7 @@ obsidianUIMode: preview
 A new drug called "Shard Dust" is flooding the streets—powdered crystal that grants temporary magical abilities but accelerates corruption. Someone has established an industrial-scale operation to harvest and process crystal corruption from living victims. The operation threatens to destabilize the entire economy while creating an army of crystal-addicted servants.
 
 ## Quest Hook
-[[02_Worldbuilding/People/Castellan Ironledger III]] contacts the party discretely. Three of his best informants have died investigating the Shard Dust trade, and his normal business operations are being undermined by this new economy. He offers substantial payment and future favors for dismantling the operation—but warns that powerful people are involved.
+[[Castellan Ironledger III]] contacts the party discretely. Three of his best informants have died investigating the Shard Dust trade, and his normal business operations are being undermined by this new economy. He offers substantial payment and future favors for dismantling the operation—but warns that powerful people are involved.
 
 ## Act 1: Following the Money
 
@@ -41,7 +41,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 - Users gain temporary magical abilities (random effects)
 - Addiction is instant, corruption follows within days
 - Street price has dropped 80% (suggests mass production)
-- His competitor [[02_Worldbuilding/People/Vex Shadowthorn]] denies involvement
+- His competitor [[Vex Shadowthorn]] denies involvement
 
 **Initial Payment:**
 - 500 gp advance
@@ -54,7 +54,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 **Port Meridian Quarantine Zone:**
 - Shard Dust dealers operate openly here
 - Users show varying stages of crystal corruption
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]] hunting corrupted addicts
+- [[Marcus Shardbreaker Grimm]] hunting corrupted addicts
 - Guards are taking bribes to ignore the trade
 
 **Following a Dealer:**
@@ -67,7 +67,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 - Contains processing equipment but no raw materials
 - Alchemical setup created by expert artificer
 - Shipping manifests with coded destinations
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]]'s maker's mark on equipment (hidden)
+- [[Master Artificer Korvin Gearwright]]'s maker's mark on equipment (hidden)
 
 ## Act 2: The Processing Centers
 
@@ -93,7 +93,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 ### The Sunken Markets Laboratory
 
 **Underwater Processing:**
-- [[02_Worldbuilding/Places/The Sunken Markets]] hidden facility
+- [[The Sunken Markets]] hidden facility
 - Aquabyssos technology enhances refinement
 - Deep-dweller workers immune to corruption
 - Producing "Pure Shard" - more potent variant
@@ -113,7 +113,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 4. **International Trade:** Hidden in legitimate shipments
 
 **Key Discovery:**
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] has been investigating independently
+- [[Captain Lyanna Brightshield]] has been investigating independently
 - She's identified pattern in Crystal Warden patrol routes
 - Certain shipments never get inspected
 - Someone high in government is protecting operation
@@ -122,7 +122,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ### The True Operation
 > [!warning] DM Secret
-> [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] is running the operation, believing he's creating an army immune to corruption. He's been corrupted by proximity to the Queen and thinks this is the only way to maintain order as society collapses.
+> [[Lord Commander Gareth Steelborn]] is running the operation, believing he's creating an army immune to corruption. He's been corrupted by proximity to the Queen and thinks this is the only way to maintain order as society collapses.
 
 **The Command Structure:**
 - **Production:** Master Artificer Korvin (blackmailed)
@@ -169,7 +169,7 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ### Operation Exposed
 - Public scandal rocks government
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] denies knowledge
+- [[Queen Seraphina Lumengarde]] denies knowledge
 - Lord Commander imprisoned or flees
 - Reforms to Crystal Warden oversight
 
@@ -200,8 +200,8 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 - Crystal suppression technology
 
 ### Potential Allies
-- [[02_Worldbuilding/People/Marcus Shardbreaker Grimm]] (if helped with victims)
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] (if given evidence)
+- [[Marcus Shardbreaker Grimm]] (if helped with victims)
+- [[Captain Lyanna Brightshield]] (if given evidence)
 - Reformed criminals seeking redemption
 - Families of victims (gratitude or revenge)
 
@@ -215,14 +215,14 @@ A new drug called "Shard Dust" is flooding the streets—powdered crystal that g
 
 ### The Protection Racket
 - Other criminal organizations want the operation
-- [[02_Worldbuilding/People/Vex Shadowthorn]] makes competitive offer
+- [[Vex Shadowthorn]] makes competitive offer
 - Corrupt officials threaten party
 - International buyers demand continuity
 
 ### The Aquabyssos Angle
 - Deep-dwellers claim partial ownership
 - Threaten to flood Port Meridian if disrupted
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] offers mediation
+- [[Ambassador Nerida Deepcurrent]] offers mediation
 - Evidence of larger invasion preparation
 
 ## NPC Motivations

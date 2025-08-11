@@ -14,10 +14,10 @@ locations_visited:
   - "[[Silverscale Emergency Bunker]]"
   - "[[Abandoned Consortium Warehouse]]"
 npcs_met:
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]"
-  - "[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]"
+  - "[[Vex Shadowthorn]]"
+  - "[[Marina-Red-Tide-Coralheart]]"
   - "[[Director Hadrian Silverscale]]"
-  - "[[02_Worldbuilding/People/The Crimson Sage]]"
+  - "[[The Crimson Sage]]"
 encounters:
   - "[[Crimson Hand Strike Team]]"
   - "[[Vex Shadowthorn Boss Fight]]"

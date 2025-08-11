@@ -246,8 +246,8 @@ Transmutation magic works synergistically with other magical traditions:
 - **Enhancement Balance**: Preventing beneficial changes from becoming disadvantageous
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-conjuration]] - Summoning materials for transformation
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protecting against transformation hazards
-- [[02_Worldbuilding/Lore/Institute of Adaptive Sciences]] - Premier transmutation research institution
-- [[02_Worldbuilding/Lore/Biological Enhancement Corps]] - Military adaptation specialists
-- [[02_Worldbuilding/Lore/Environmental Engineering Authority]] - Large-scale habitat modification
+- [[Ω_System-CLI-spells-school-conjuration]] - Summoning materials for transformation
+- [[Ω_System-CLI-spells-school-abjuration]] - Protecting against transformation hazards
+- [[Institute of Adaptive Sciences]] - Premier transmutation research institution
+- [[Biological Enhancement Corps]] - Military adaptation specialists
+- [[Environmental Engineering Authority]] - Large-scale habitat modification

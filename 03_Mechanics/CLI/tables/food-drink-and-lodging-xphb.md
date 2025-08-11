@@ -38,4 +38,4 @@ modified: 2025-07-23 12:39
 | &emsp;Fine | 10 GP |
 ^food-drink-and-lodging
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-The Memory Weapon Arms Race represents the most dangerous technological and political development in modern [[02_Worldbuilding/Places/Aquabyssos]]. What began as therapeutic applications of memory manipulation technology has escalated into a full-scale arms race where truth itself has become the ultimate weapon. Factions now fight not just for territory or resources, but for the right to define reality and control what inhabitants remember as "true."
+The Memory Weapon Arms Race represents the most dangerous technological and political development in modern [[Aquabyssos]]. What began as therapeutic applications of memory manipulation technology has escalated into a full-scale arms race where truth itself has become the ultimate weapon. Factions now fight not just for territory or resources, but for the right to define reality and control what inhabitants remember as "true."
 
 ## Historical Development
 
@@ -113,7 +113,7 @@ Military forces recognized potential for:
 
 **Participating Factions:**
 Every major power began developing memory weapons:
-- [[02_Worldbuilding/Places/Parliament of Echoes]]: Government research programs
+- [[Parliament of Echoes]]: Government research programs
 - [[Silverscale Banking House]]: Economic warfare applications
 - [[The Drowned Prophets]]: Religious applications for mass conversion
 - [[The Memory Merchants]]: Commercial development with military contracts
@@ -187,7 +187,7 @@ Every major power began developing memory weapons:
 
 ### Government Programs
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]] - Department of Memory Security:**
+**[[Parliament of Echoes]] - Department of Memory Security:**
 - **Mission**: Protect national memory integrity and develop defensive capabilities
 - **Budget**: 23% of national defense spending
 - **Personnel**: 15,000 memory specialists, researchers, and agents
@@ -499,7 +499,7 @@ Every major power began developing memory weapons:
 - Memory integration process could be weaponized by hostile factions
 - Her choice about identity affects how memory weapons function post-convergence
 
-**[[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]:**
+**[[The Crimson Sage]] and [[The Deep Mother]]:**
 - Ancient entities may be immune to modern memory weapons
 - Their awakening/convergence could render memory weapons obsolete
 - They might use their own forms of consciousness manipulation

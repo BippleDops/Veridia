@@ -20,7 +20,7 @@ related_entities: ["[[The Great Crystallization]]", "[[The Seven Shards]]", "[[T
 
 ## Overview
 
-The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the divine ruler of pre-Crystallization [[02_Worldbuilding/Places/Aethermoor]]. Their coordinated act of treachery - the attempted theft of [[The Crown of Stars]] - directly caused [[The Great Crystallization]], fundamentally reshaping the world and dooming their descendants to bear the consequences of their ancestral greed. Each betrayer represented a different aspect of mortal ambition, and each became the progenitor of bloodlines that continue to influence Aethermoor politics to this day.
+The Seven Betrayers were the most trusted advisors to **God-King Aetheron**, the divine ruler of pre-Crystallization [[Aethermoor]]. Their coordinated act of treachery - the attempted theft of [[The Crown of Stars]] - directly caused [[The Great Crystallization]], fundamentally reshaping the world and dooming their descendants to bear the consequences of their ancestral greed. Each betrayer represented a different aspect of mortal ambition, and each became the progenitor of bloodlines that continue to influence Aethermoor politics to this day.
 
 ## The Divine Court Before the Betrayal
 

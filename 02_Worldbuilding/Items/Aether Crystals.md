@@ -17,7 +17,7 @@ created: 2025-08-10
 *Crystallized Magic as Living Currency*
 
 ## Overview
-Aether Crystals represent Aethermoor's revolutionary approach to currency—magical energy crystallized into stable, portable forms that serve both as medium of exchange and actual magical power source. Unlike traditional coinage, these crystals contain genuine magical energy that can be consumed for spellcasting, powering magical devices, or enhancing magical research. The crystal-based economy reflects Aethermoor's mastery of [[02_Worldbuilding/Lore/The Seven Shards]] energies and has transformed how magical societies approach both commerce and arcane practice.
+Aether Crystals represent Aethermoor's revolutionary approach to currency—magical energy crystallized into stable, portable forms that serve both as medium of exchange and actual magical power source. Unlike traditional coinage, these crystals contain genuine magical energy that can be consumed for spellcasting, powering magical devices, or enhancing magical research. The crystal-based economy reflects Aethermoor's mastery of [[The Seven Shards]] energies and has transformed how magical societies approach both commerce and arcane practice.
 
 ## Physical Description
 ### Basic Characteristics
@@ -279,7 +279,7 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 #### The Shard Resonance
 **Level**: 8-13  
 **Hook**: All crystals in region begin resonating and overcharging simultaneously  
-**Mystery**: Investigate connection to [[02_Worldbuilding/Lore/The Seven Shards]] activity  
+**Mystery**: Investigate connection to [[The Seven Shards]] activity  
 **Danger**: Overcharged crystals explode, causing widespread damage  
 **Discovery**: Ancient Shard fragment awakening and calling to crystallized energies  
 **Resolution**: Safely contain or relocate awakening Shard without destroying economy
@@ -324,7 +324,7 @@ Aether Crystals represent Aethermoor's revolutionary approach to currency—magi
 - **Specialization**: Characters can become experts in specific crystal types
 
 ## Connected Elements
-- Direct connection to [[02_Worldbuilding/Lore/The Seven Shards]] as energy source
+- Direct connection to [[The Seven Shards]] as energy source
 - Links to [[Queen Seraphina Lumengarde]] through royal mint authority
 - Associated with [[The Crystalline Foundry]] as major production center
 - Connected to [[Crystal Wardens]] as security and transport protection

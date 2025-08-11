@@ -24,19 +24,19 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 ## Geography
 
 ### Major Regions
-- **[[02_Worldbuilding/Places/The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
-- **[[02_Worldbuilding/Places/Lumengarde]]** - Central kingdom, center of crystal technology
-- **[[02_Worldbuilding/Places/The Verdant Reach]]** - Southern forests resisting crystal expansion
-- **[[02_Worldbuilding/Places/The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
-- **[[02_Worldbuilding/Places/The Azure Coast]]** - Western trading ports and naval power
-- **[[02_Worldbuilding/Places/The Whispering Expanse]]** - Mysterious desert where crystals sing
-- **[[02_Worldbuilding/Places/The Shadowmere]]** - Corrupted swamplands in the southeast
+- **[[The Crystalline Wastes]]** - Northern wasteland where crystal growth is uncontrolled
+- **[[Lumengarde]]** - Central kingdom, center of crystal technology
+- **[[The Verdant Reach]]** - Southern forests resisting crystal expansion
+- **[[The Sundered Peaks]]** - Eastern mountain range, source of purest crystals
+- **[[The Azure Coast]]** - Western trading ports and naval power
+- **[[The Whispering Expanse]]** - Mysterious desert where crystals sing
+- **[[The Shadowmere]]** - Corrupted swamplands in the southeast
 
 ### Major Cities
-- **[[02_Worldbuilding/Places/Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Largest trading hub on the Azure Coast
-- **[[02_Worldbuilding/Places/Ironhold]]** - Dwarven stronghold in the Sundered Peaks
-- **[[02_Worldbuilding/Places/Sylvanheart]]** - Elven sanctuary in the Verdant Reach
+- **[[Crystalhaven]]** - Capital of Lumengarde, the Crystal Throne
+- **[[Port Meridian]]** - Largest trading hub on the Azure Coast
+- **[[Ironhold]]** - Dwarven stronghold in the Sundered Peaks
+- **[[Sylvanheart]]** - Elven sanctuary in the Verdant Reach
 
 ## History
 
@@ -46,26 +46,26 @@ Aethermoor is a continent forever changed by the Great Crystallization, an event
 When the God-King Aetheron ruled with the Crown of Stars, maintaining perfect order through divine mandate.
 
 #### The Shattering (500 years ago)
-[[02_Worldbuilding/Lore/The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[02_Worldbuilding/Lore/The Shattering of the Crown]].
+[[The Great Crystallization]] - Aetheron was betrayed by his seven advisors. The Crown of Stars shattered, its fragments piercing the earth and emerging as Aether Crystals. This event is detailed in [[The Shattering of the Crown]].
 
 #### The Crystal Age (Present)
-Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[02_Worldbuilding/Groups/Purist Coalition]], and other factions vying for control.
+Five centuries of adaptation to crystal magic. The rise of the [[Crystal Wardens]], the [[Purist Coalition]], and other factions vying for control.
 
 ## Current Political Landscape
 
 ### Major Powers
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
-- **[[02_Worldbuilding/Groups/The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Control trade routes and crystal commerce
-- **[[02_Worldbuilding/Groups/The Order of the Shattered Crown]]** - Seeks to reforge the Crown of Stars
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
+- **[[The Crystal Throne]]** - Rules from Crystalhaven, embraces crystal technology
+- **[[The Verdant Accord]]** - Alliance of druids and rangers opposing crystal expansion
+- **[[Merchant Princes]]** - Control trade routes and crystal commerce
+- **[[The Order of the Shattered Crown]]** - Seeks to reforge the Crown of Stars
+- **[[The Whisper Syndicate]]** - Criminal network trafficking in corrupted crystals
 
 ### Key Figures
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]** - Current ruler of the Crystal Throne
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Leader of the Verdant Accord
-- **[[02_Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Head of the Crystal Wardens
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Mysterious figure researching crystal corruption
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Exiled heir plotting return
+- **[[Queen Seraphina Lumengarde]]** - Current ruler of the Crystal Throne
+- **[[Archdruid Thornweaver]]** - Leader of the Verdant Accord
+- **[[Lord Commander Gareth Steelborn]]** - Head of the Crystal Wardens
+- **[[The Crimson Sage]]** - Mysterious figure researching crystal corruption
+- **[[Prince Caspian Duskwater]]** - Exiled heir plotting return
 
 ## Magic & Technology
 
@@ -93,16 +93,16 @@ Extended use causes **Aether Sickness**:
 ## Current Events
 
 ### The Crystal Plague
-A new form of corruption spreading through [[02_Worldbuilding/Places/Port Meridian]], investigated in [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]].
+A new form of corruption spreading through [[Port Meridian]], investigated in [[Quest - The Plague of Crystals]].
 
 ### The Lost Expedition
-[[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[02_Worldbuilding/Places/The Crystalline Wastes]].
+[[Captain Thaddeus Blackwater]]'s expedition to find the Seventh Shard has gone missing in [[The Crystalline Wastes]].
 
 ### Rising Tensions
-The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civil war. Their leader, [[02_Worldbuilding/People/High Inquisitor Maltheos]], calls for the destruction of all crystals.
+The [[Purist Coalition]] grows stronger, threatening civil war. Their leader, [[High Inquisitor Maltheos]], calls for the destruction of all crystals.
 
 ### The Prophecy
-[[02_Worldbuilding/People/The Oracle of the Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
+[[The Oracle of the Sundered Peaks]] speaks of the Crown's restoration and a chosen one who will either save or doom Aethermoor.
 
 ## Adventure Hooks
 1. Strange crystal formations appearing overnight near villages
@@ -114,10 +114,10 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 ## DM Secrets
 > [!warning] DM Only
 > - The Seven Shards of the Crown are sentient and seeking reunion
-> - [[02_Worldbuilding/People/The Crimson Sage]] is actually Aetheron, the shattered god, in mortal form
+> - [[The Crimson Sage]] is actually Aetheron, the shattered god, in mortal form
 > - The crystals are slowly merging the Material Plane with the Astral Sea
-> - [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] is in Stage 2 corruption, hidden by illusions
-> - The [[02_Worldbuilding/Groups/The Whisper Syndicate]] is run by [[02_Worldbuilding/People/Vex Shadowthorn]], who is collecting shards
+> - [[Queen Seraphina Lumengarde]] is in Stage 2 corruption, hidden by illusions
+> - The [[The Whisper Syndicate]] is run by [[Vex Shadowthorn]], who is collecting shards
 
 ## Random Encounters
 
@@ -127,35 +127,35 @@ The [[02_Worldbuilding/Groups/Purist Coalition]] grows stronger, threatening civ
 | 5-8 | [[Crystal Wardens]] patrol checking for corruption |
 | 9-12 | Merchant caravan with crystal goods |
 | 13-15 | Wild magic surge from unstable crystals |
-| 16-17 | [[02_Worldbuilding/Groups/Purist Coalition]] protesters |
+| 16-17 | [[Purist Coalition]] protesters |
 | 18-19 | Corrupted beast (crystal-infused) |
 | 20 | Mysterious figure offering crystal enhancement |
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Capital city
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Northern wasteland
-- [[02_Worldbuilding/Places/Port Meridian]] - Major trade hub
-- [[02_Worldbuilding/Places/The Sundered Peaks]] - Mountain range
-- [[02_Worldbuilding/Places/The Verdant Reach]] - Southern forests
-- [[02_Worldbuilding/Places/Lumengarde]] - Central kingdom
-- [[02_Worldbuilding/Places/The Shadowmere]] - Corrupted swamplands
-- [[02_Worldbuilding/Places/Ironhold]] - Dwarven stronghold
-- [[02_Worldbuilding/Places/Sylvanheart]] - Elven sanctuary
+- [[Crystalhaven]] - Capital city
+- [[The Crystalline Wastes]] - Northern wasteland
+- [[Port Meridian]] - Major trade hub
+- [[The Sundered Peaks]] - Mountain range
+- [[The Verdant Reach]] - Southern forests
+- [[Lumengarde]] - Central kingdom
+- [[The Shadowmere]] - Corrupted swamplands
+- [[Ironhold]] - Dwarven stronghold
+- [[Sylvanheart]] - Elven sanctuary
 
 ## See Also
-- [[02_Worldbuilding/Places/The Azure Coast]] - Western coastal region
-- [[02_Worldbuilding/Places/The Whispering Expanse]] - Crystal desert
-- [[02_Worldbuilding/Lore/The Great Crystallization]] - World-changing event
-- [[02_Worldbuilding/Lore/The Shattering of the Crown]] - Historical event
+- [[The Azure Coast]] - Western coastal region
+- [[The Whispering Expanse]] - Crystal desert
+- [[The Great Crystallization]] - World-changing event
+- [[The Shattering of the Crown]] - Historical event
 
 ## Key NPCs
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Ruler
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military leader
-- [[02_Worldbuilding/People/The Crimson Sage]] - Mysterious researcher
-- [[02_Worldbuilding/People/Archdruid Thornweaver]] - Opposition leader
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]] - Explorer
+- [[Queen Seraphina Lumengarde]] - Ruler
+- [[Lord Commander Gareth Steelborn]] - Military leader
+- [[The Crimson Sage]] - Mysterious researcher
+- [[Archdruid Thornweaver]] - Opposition leader
+- [[Captain Thaddeus Blackwater]] - Explorer
 
 ## Active Quests
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Investigate the corruption spreading
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Search for the lost crown fragment
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Negotiate peace between factions
+- [[Quest - The Plague of Crystals]] - Investigate the corruption spreading
+- [[Quest - The Seventh Shard]] - Search for the lost crown fragment
+- [[Quest - Diplomatic Immunity]] - Negotiate peace between factions

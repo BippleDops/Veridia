@@ -2,7 +2,7 @@
 tags: [npc, memory_thief, criminal, mysterious, aquabyssos]
 status: "complete"
 world: "Aquabyssos"
-type: "npc"
+type: "location"
 created_by: "auto-stub"
 created: 2025-08-08
   - Category/People

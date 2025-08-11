@@ -346,9 +346,9 @@ Resource access improvement provides characters with equipment and support that 
 Mentorship opportunity availability enables experienced characters to train others while building legacy relationships that continue beyond immediate adventure activities.
 
 ## Connected Organizations and Campaigns
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Primary political framework for dual civilization cooperation
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater civilization requiring preservation
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface civilization requiring preservation
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major existential threat to both civilizations
-- [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]] - Allied force supporting preservation efforts
-- [[02_Worldbuilding/People/Chancellor Marina Depthcaller]] - Political leader of joint preservation efforts
+- [[United Councils of Both Worlds]] - Primary political framework for dual civilization cooperation
+- [[Aquabyssos]] - Primary underwater civilization requiring preservation
+- [[Aethermoor]] - Primary surface civilization requiring preservation
+- [[The Crystal Influence]] - Major existential threat to both civilizations
+- [[Eastern Kingdom Fleet]] - Allied force supporting preservation efforts
+- [[Chancellor Marina Depthcaller]] - Political leader of joint preservation efforts

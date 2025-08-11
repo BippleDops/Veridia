@@ -12,7 +12,7 @@ sub_locations:
 depth: "2800-3100 feet"
 population: 12
 government: "Memorial Custodianship"
-ruler: "[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]"
+ruler: "[[Keeper of Failures, Marcus Ashworth]]"
 factions:
   - "[[The Penitent Order]]"
   - "[[Solution Seekers]]"
@@ -27,7 +27,7 @@ services:
   - "Memorial Services"
   - "Experimental Records Access"
 notable_npcs:
-  - "[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth]]"
+  - "[[Keeper of Failures, Marcus Ashworth]]"
   - "[[Archivist Elena Sorrowkeeper]]"
   - "[[Ghost of Dr. Thaddeus Brightwater]]"
   - "[[Memorial Tender Sarah]]"
@@ -133,7 +133,7 @@ A unique memorial space where bioluminescent plants have been cultivated to grow
 ## Current Inhabitants
 
 ### The Keeper of Failures
-**[[02_Worldbuilding/People/Keeper of Failures, Marcus Ashworth|Full Details]]**
+**[[Keeper of Failures, Marcus Ashworth|Full Details]]**
 A former student of Dr. Brightwater who has dedicated his life to maintaining the memorial and studying the lessons of the disaster. Marcus survived the initial drowning but lost his entire family, and has since become obsessed with understanding how good intentions can lead to terrible consequences.
 
 **Key Traits:**
@@ -204,19 +204,19 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 ## Connected Locations
 
 ### Research Networks
-- **[[02_Worldbuilding/Places/The Crystal Cathedral of Pure Light]]:** Current magical research center
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary memorial archive
+- **[[The Crystal Cathedral of Pure Light]]:** Current magical research center
+- **[[The Archive of Unremembered Things]]:** Complementary memorial archive
 - **[[Royal Academy of Arcane Arts - Ruins]]:** Pre-drowning educational institution
 
 ### Memorial Sites
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Different approach to remembering the dead
+- **[[Sister Morwyn's Memorial Sanctuary]]:** Different approach to remembering the dead
 - **[[Memorial District of Abyssos Prime]]:** Broader commemorative area
 - **[[Disaster Prevention Centers]]:** Modern attempts to prevent similar catastrophes
 
 ### Hostile Relations
-- **[[02_Worldbuilding/Groups/The Leviathan Cult]]:** Believes the drowning was divine will
+- **[[The Leviathan Cult]]:** Believes the drowning was divine will
 - **[[Progress Through Power Faction]]:** Wants to suppress failure records
-- **[[02_Worldbuilding/Groups/Memory Farmers]]:** Seeks to harvest traumatic memories from the site
+- **[[Memory Farmers]]:** Seeks to harvest traumatic memories from the site
 
 ## Adventure Hooks
 
@@ -233,7 +233,7 @@ Dr. Brightwater's spirit isn't just warning people—he's subtly guiding researc
 ### Moral Dilemmas
 5. **The Redemption Experiment:** Dr. Brightwater's ghost offers to teach the players his complete research, claiming he's found a way to undo The Great Drowning. However, the ritual would require sacrificing the lives that have been built in the post-drowning world.
 
-6. **The Suppression Order:** Powerful figures in [[02_Worldbuilding/Places/Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
+6. **The Suppression Order:** Powerful figures in [[Parliament of Echoes]] want to destroy the First Failure entirely, arguing that it inspires dangerous magical experimentation. Players must choose between preserving historical truth and preventing potential future disasters.
 
 ### Personal Growth
 7. **The Guilt Workshop:** One of the players is struggling with the consequences of a past decision that caused harm. Keeper Marcus offers to help them work through their guilt using the lessons of the First Failure, but the process requires confronting painful truths.

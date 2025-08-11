@@ -302,20 +302,20 @@ The Aquabyssos Depth Caste System represents one of the most complex and entrenc
 8. **The Pressure Cult**: Investigate religious extremists using dangerous depth rituals
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Admiral Thorne Blackwater]] - Deep-adapted military leader navigating social expectations
-- [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Surface sympathizer working within the system
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Royal dealing with depth hierarchy diplomatic challenges
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Religious leader promoting depth equality
+- [[Admiral Thorne Blackwater]] - Deep-adapted military leader navigating social expectations
+- [[Harbor Master Luna Freedrift]] - Surface sympathizer working within the system
+- [[Queen Seraphina Lumengarde]] - Royal dealing with depth hierarchy diplomatic challenges
+- [[High Priestess Celeste Dawnbringer]] - Religious leader promoting depth equality
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Capital city showcasing full depth hierarchy
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Political center of depth-based governance
-- [[02_Worldbuilding/Places/Harbor District]] - Surface dweller communities and cultural mixing
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Deepest territories of abyssal lords
+- [[Abyssos Prime]] - Capital city showcasing full depth hierarchy
+- [[Parliament of Echoes]] - Political center of depth-based governance
+- [[Harbor District]] - Surface dweller communities and cultural mixing
+- [[The Hadal Depths]] - Deepest territories of abyssal lords
 
 ## Connected Organizations
-- [[02_Worldbuilding/Groups/The Depth Wardens]] - Military force enforcing depth-based order
-- [[02_Worldbuilding/Groups/Parliament of Echoes]] - Governmental structure reflecting depth hierarchy
-- [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization with depth-based membership tiers
+- [[The Depth Wardens]] - Military force enforcing depth-based order
+- [[Parliament of Echoes]] - Governmental structure reflecting depth hierarchy
+- [[Merchants Guild]] - Trade organization with depth-based membership tiers
 
 The Aquabyssos Depth Caste System represents both the ingenuity and cruelty of survival adaptation, creating a society where biological capability determines social destiny while fostering both remarkable innovation and systemic oppression.

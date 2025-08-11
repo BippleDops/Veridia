@@ -14,7 +14,7 @@ obsidianUIMode: preview
 ## General Info
 **Leader**: High Inquisitor Valerius
 **Headquarters**: The Citadel of Azure Flame
-**Location**: [[02_Worldbuilding/Places/The Whispering Peaks]]
+**Location**: [[The Whispering Peaks]]
 
 ## Description
 The Order of the Azure Flame is a militant monastic order dedicated to the eradication of arcane magic. They believe that the misuse of magic was the sole cause of the Sundering, and they see it as their sacred duty to prevent such a cataclysm from ever happening again. The Order is known for its fanatical devotion to its cause, and its members are highly trained in the detection and suppression of magic.

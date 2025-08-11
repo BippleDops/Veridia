@@ -6,7 +6,7 @@ tags:
   - mystic
   - neutral
 type: NPC
-location: "[[02_Worldbuilding/Places/The Shadowmere]]"
+location: "[[The Shadowmere]]"
 faction: "[[Order of the Shattered Crown]]"
 race: Half-Elf
 class: Shadow Oracle
@@ -22,7 +22,7 @@ obsidianUIMode: preview
 # Sister Morwyn Veilkeeper
 
 ## Overview
-A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[02_Worldbuilding/Places/The Shadowmere]], where the boundary between reality and shadow grows thin.
+A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[The Shadowmere]], where the boundary between reality and shadow grows thin.
 
 ## Appearance
 - Age: 47 (appears younger due to shadow exposure)
@@ -56,10 +56,10 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 - 1st-5th level: Shadow spells and divination magic
 
 ## Relationships
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
-- **[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
+- **[[The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
+- **[[High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
+- **[[Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
+- **[[Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
 - **Ambassador Nerida Deepcurrent**: Secret correspondence about underwater omens
 
 ## Current Activities

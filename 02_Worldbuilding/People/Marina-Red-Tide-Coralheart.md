@@ -21,11 +21,11 @@ faction_rank: 5  # Secret leader rank
 portrait: ""
 relationship_type: "complicated"
 relationships:
-  - "[[02_Worldbuilding/People/Captain Lyanna Brightshield]]" # Uneasy cooperation
-  - "[[02_Worldbuilding/People/The Crimson Sage]]" # Secret alliance
+  - "[[Captain Lyanna Brightshield]]" # Uneasy cooperation
+  - "[[The Crimson Sage]]" # Secret alliance
   - "[[Jasper Three-Eyes Flint]]" # Protects him
   - "[[Lord Aurelius Goldwave]]" # Blackmail material
-  - "[[02_Worldbuilding/People/Vex Shadowthorn]]" # Old rivalry
+  - "[[Vex Shadowthorn]]" # Old rivalry
   - "[[The Bloodline Carrier]]" # Sworn to protect
 related_quests:
   - "[[Investigate the Crystal Plague]]"
@@ -76,18 +76,18 @@ Marina leads a secret organization descended from Aquabyssos survivors who chose
 
 ## Relationships
 ### True Allies
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
+- **[[The Crimson Sage]]**: Knows her true identity as Princess Celestia. Coordinates protection efforts.
 - **[[The Bloodline Carrier]]**: Sworn by ancient oath to protect them, even at cost of her life.
 - **Other Depth Wardens**: Commands a network of 20-30 agents across Aethermoor.
 
 ### Public Persona Relationships
-- **[[02_Worldbuilding/People/Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
+- **[[Captain Lyanna Brightshield]]**: Mutually beneficial arrangement. Provides information for legal blind eye.
 - **Smuggler Crews**: Commands loyalty through fair dealing and spectacular profits.
 - **[[Lord Aurelius Goldwave]]**: Has extensive blackmail material ensuring cooperation.
 
 ### Complicated
 - **[[Jasper Three-Eyes Flint]]**: Protects him as potential bloodline carrier, but his madness makes it difficult.
-- **[[02_Worldbuilding/People/Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
+- **[[Vex Shadowthorn]]**: Old rivalry from academy days before Marina faked her death.
 - **Her Shadow Self**: Has been switching places, creating identity confusion.
 
 ## Current Activities

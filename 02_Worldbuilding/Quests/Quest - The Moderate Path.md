@@ -20,7 +20,7 @@ obsidianUIMode: preview
 
 ## Overview
 
-As the [[02_Worldbuilding/Groups/Purist Coalition]] grows more militant and [[02_Worldbuilding/Groups/The Crown Authority]] responds with increasing force, the realm stands on the brink of civil war. Meanwhile, [[02_Worldbuilding/Groups/The Shadow Conspiracy]] manipulates events from the shadows, and the awakening [[02_Worldbuilding/People/The Deep Mother]] grows stronger from the chaos. The party must navigate treacherous political waters to forge a coalition of moderate voices who can prevent catastrophic conflict while addressing each faction's legitimate concerns.
+As the [[Purist Coalition]] grows more militant and [[The Crown Authority]] responds with increasing force, the realm stands on the brink of civil war. Meanwhile, [[The Shadow Conspiracy]] manipulates events from the shadows, and the awakening [[The Deep Mother]] grows stronger from the chaos. The party must navigate treacherous political waters to forge a coalition of moderate voices who can prevent catastrophic conflict while addressing each faction's legitimate concerns.
 
 ## Background
 
@@ -40,8 +40,8 @@ The realm faces multiple intersecting crises that no single faction can solve al
 ## Act I: Understanding the Landscape (Sessions 1-2)
 
 ### Scene 1: The Neutral Ground
-**Location**: [[02_Worldbuilding/Places/Port Meridian]] - A crucial trade city claimed by no single faction
-**NPCs**: [[02_Worldbuilding/People/Admiral Cassandra Stormwind]], local merchants, faction representatives
+**Location**: [[Port Meridian]] - A crucial trade city claimed by no single faction
+**NPCs**: [[Admiral Cassandra Stormwind]], local merchants, faction representatives
 
 The party arrives in Port Meridian just as a trade dispute escalates into violence between Purist protesters and Crown loyalists. Shadow infiltrators fan the flames while hidden moderates try to restore order.
 
@@ -53,7 +53,7 @@ The party arrives in Port Meridian just as a trade dispute escalates into violen
 - **Introduction**: Meet moderate faction leaders who want to work together
 
 **Key NPCs Introduced**:
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**: Crown loyalist but pragmatic
+- **[[Admiral Cassandra Stormwind]]**: Crown loyalist but pragmatic
 - **[[Brother Marcus Steelbane]]**: Moderate Purist seeking peaceful solutions
 - **Merchant Councilor Elena Fairwind**: Independent leader affected by all factions
 
@@ -78,7 +78,7 @@ The party is invited to a clandestine gathering of moderate leaders from various
 **Party's Role**: Begin building trust between the moderates and identifying concrete steps toward cooperation.
 
 ### Scene 3: The Corruption Crisis
-**Location**: Crystal refinery outside [[02_Worldbuilding/Places/Crystalhaven]]
+**Location**: Crystal refinery outside [[Crystalhaven]]
 **Challenge Type**: Investigation and emergency response
 
 A crystal refinery suffers a major corruption outbreak, creating the perfect test case for factional cooperation. The party must coordinate response efforts between competing groups while investigating suspicious circumstances.
@@ -152,7 +152,7 @@ The party helps moderate leaders draft a joint statement of principles that addr
 **Success**: The "Meridian Accord" - a framework for cooperation that addresses major concerns while maintaining faction identities.
 
 ### Scene 6: The Test Case
-**Location**: [[02_Worldbuilding/Places/The Verdant Reach]] - Purist Coalition stronghold
+**Location**: [[The Verdant Reach]] - Purist Coalition stronghold
 **Challenge Type**: Implementing cooperation under difficult conditions
 
 A crisis in Purist territory provides the first test of whether the Accord can work in practice. A shadow-corrupted natural area requires both Purist expertise and Crown resources to heal.
@@ -203,7 +203,7 @@ Extremists from multiple factions secretly ally to destroy the moderate coalitio
 - Timeline: attacks will occur during the public signing of the Meridian Accord
 
 ### Scene 8: The Assassination Gambit
-**Location**: Public square in [[02_Worldbuilding/Places/Port Meridian]] during Accord signing ceremony
+**Location**: Public square in [[Port Meridian]] during Accord signing ceremony
 **Challenge Type**: Protection and counter-terrorism
 
 The extremist alliance launches multiple simultaneous attacks designed to kill moderate leaders and blame rival factions. The party must protect their allies while revealing the truth to the gathered crowds.
@@ -318,7 +318,7 @@ With the shadow threat exposed and extremist plots foiled, the moderate coalitio
 ## NPCs and Their Motivations
 
 ### Moderate Leaders (Potential Allies)
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**: Loyal to Crown but pragmatic about reform
+- **[[Admiral Cassandra Stormwind]]**: Loyal to Crown but pragmatic about reform
 - **[[Brother Marcus Steelbane]]**: Purist who believes in gradual change over extremism
 - **Councilor Elena Fairwind**: Independent merchant leader focused on economic stability
 - **Doctor Sarah Brightwater**: Healer who works with all factions to fight corruption
@@ -332,9 +332,9 @@ With the shadow threat exposed and extremist plots foiled, the moderate coalitio
 - **High Priestess Sorrow**: Corrupt religious leader benefiting from division
 
 ### Wild Cards
-- **[[02_Worldbuilding/People/Senator_Glaucus_Brain]]**: May be shadow replacement but wants genuine peace
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]**: Sympathizes with Purists but values life over ideology
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: Mysterious advisor who may help or test the party
+- **[[Senator_Glaucus_Brain]]**: May be shadow replacement but wants genuine peace
+- **[[Archdruid Thornweaver]]**: Sympathizes with Purists but values life over ideology
+- **[[The Crimson Sage]]**: Mysterious advisor who may help or test the party
 - **Master Artificer Korvin**: Crystal researcher willing to find middle ground on safety
 
 ## Combat Encounters Summary

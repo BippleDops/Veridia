@@ -15,7 +15,7 @@ updated: 2025-08-10
 
 ## Overview
 
-The Drowning Welcome is the most significant cultural and spiritual ceremony in [[02_Worldbuilding/Places/Aquabyssos]], marking an individual's full acceptance and integration into aquatic society. More than a simple coming-of-age ritual, it represents the spiritual and physical transformation that connects each citizen to [[The Deep Mother]]'s embrace and the collective consciousness of the depths. The ceremony has evolved from the original survival adaptations during [[Timeline of the Drowning]] into a profound religious and social institution that defines Aquabyssos identity.
+The Drowning Welcome is the most significant cultural and spiritual ceremony in [[Aquabyssos]], marking an individual's full acceptance and integration into aquatic society. More than a simple coming-of-age ritual, it represents the spiritual and physical transformation that connects each citizen to [[The Deep Mother]]'s embrace and the collective consciousness of the depths. The ceremony has evolved from the original survival adaptations during [[Timeline of the Drowning]] into a profound religious and social institution that defines Aquabyssos identity.
 
 ## Historical Origins
 
@@ -240,7 +240,7 @@ The modern Drowning Welcome combines ancient tradition with current needs:
 
 ### Major Ceremonial Centers
 
-**The Parliament Pool** ([[02_Worldbuilding/Places/Parliament of Echoes]]):
+**The Parliament Pool** ([[Parliament of Echoes]]):
 - Largest and most prestigious ceremony location
 - Government-sponsored ceremonies for political families
 - Elaborate facilities accommodating hundreds of participants
@@ -557,7 +557,7 @@ The modern Drowning Welcome combines ancient tradition with current needs:
 - [[Prophet Nerida Voidgazer]] - Interprets ceremony visions
 
 ### Important Locations
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Premier ceremony location
+- [[Parliament of Echoes]] - Premier ceremony location
 - [[The Hadal Depths]] - Most sacred ceremony site
 - [[The Memory Vaults]] - Preserve ceremony experiences
 - [[The Deep Mother's Garden]] - Traditional family ceremony sites

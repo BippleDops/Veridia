@@ -15,9 +15,9 @@ updated: 2025-08-10
 
 ## Overview
 
-The Possessed Noble Coterie represents one of the most insidious threats to [[02_Worldbuilding/Places/Aethermoor]]'s stability—a network of aristocrats and court officials who have been corrupted by crystal possession, serving as unwitting agents of [[02_Worldbuilding/People/The Crimson Sage]]'s will while maintaining their positions of authority. Unlike [[The Queen|Queen Seraphina]]'s obvious transformation, these nobles retain enough of their original personalities to function normally in court, making their influence both subtle and devastating.
+The Possessed Noble Coterie represents one of the most insidious threats to [[Aethermoor]]'s stability—a network of aristocrats and court officials who have been corrupted by crystal possession, serving as unwitting agents of [[The Crimson Sage]]'s will while maintaining their positions of authority. Unlike [[The Queen|Queen Seraphina]]'s obvious transformation, these nobles retain enough of their original personalities to function normally in court, making their influence both subtle and devastating.
 
-Operating as an inner circle around the possessed queen, they form a shadow government that systematically undermines [[02_Worldbuilding/Places/Aethermoor]]'s traditional institutions while advancing the divine agenda for [[The Convergence Point]]. Their corruption spreads through social networks, family connections, and political alliances, creating a web of influence that touches every aspect of noble society.
+Operating as an inner circle around the possessed queen, they form a shadow government that systematically undermines [[Aethermoor]]'s traditional institutions while advancing the divine agenda for [[The Convergence Point]]. Their corruption spreads through social networks, family connections, and political alliances, creating a web of influence that touches every aspect of noble society.
 
 ## The Corruption Process
 
@@ -71,7 +71,7 @@ Unlike forced possession, the coterie members are gradually seduced into accepti
 - Beginning to show physical crystallization around eyes and hands
 
 **[[High Treasurer Crystal-Count Morgana]]** (70% possessed)
-- Controls [[02_Worldbuilding/Places/Aethermoor]]'s financial resources
+- Controls [[Aethermoor]]'s financial resources
 - Redirects kingdom funds toward archaeological excavations and crystal research
 - Manipulates economic policies to benefit possession agenda
 - Uses financial leverage to pressure non-possessed nobles
@@ -111,13 +111,13 @@ Unlike forced possession, the coterie members are gradually seduced into accepti
 - Controls trade routes and international commerce
 - Facilitates smuggling of possessed agents and materials
 - Maintains diplomatic relations with other kingdoms
-- Presents [[02_Worldbuilding/Places/Aethermoor]]'s "modernization" as positive development
+- Presents [[Aethermoor]]'s "modernization" as positive development
 - Coordinates with [[The Crimson Hand]] operations
 
 ### Specialist Operatives
 
 **[[Master of Whispers Shade-Tongue Aldric]]** (Intelligence Chief)
-- Runs spy networks throughout [[02_Worldbuilding/Places/Aethermoor]]
+- Runs spy networks throughout [[Aethermoor]]
 - Identifies potential recruits and threats to possession agenda
 - Coordinates surveillance and elimination of resistance members
 - Maintains false flag operations to justify government actions
@@ -235,7 +235,7 @@ Unlike forced possession, the coterie members are gradually seduced into accepti
 
 ### Internal Resistance
 **[[The Loyal Remnant]]**
-Non-possessed nobles working to preserve traditional [[02_Worldbuilding/Places/Aethermoor]]:
+Non-possessed nobles working to preserve traditional [[Aethermoor]]:
 - **[[Duke Sterling Truecrystal]]**: Military leader organizing armed resistance
 - **[[Lady Dawn Pureheart]]**: Court insider gathering intelligence on possessed nobles
 - **[[Count Justice Brightblade]]**: Legal expert challenging possession-friendly laws
@@ -250,11 +250,11 @@ Non-noble citizens working to expose and oppose possession:
 
 ### External Pressure
 **International Concerns**
-Neighboring kingdoms increasingly worried about [[02_Worldbuilding/Places/Aethermoor]]'s behavior:
+Neighboring kingdoms increasingly worried about [[Aethermoor]]'s behavior:
 - Trade relationships strained by erratic policies
 - Military alliances questioned due to unreliable leadership
 - Diplomatic missions reporting bizarre behavior from possessed nobles
-- Refugee flows from [[02_Worldbuilding/Places/Aethermoor]] creating international incidents
+- Refugee flows from [[Aethermoor]] creating international incidents
 - Intelligence services investigating possession phenomenon
 
 ### Divine Opposition
@@ -271,7 +271,7 @@ Some possessed nobles retain enough individuality to resist:
 The coterie serves as [[The Queen|Queen Seraphina]]'s primary support structure:
 - Implementing her increasingly erratic commands
 - Providing appearance of governmental normalcy
-- Facilitating her communication with [[02_Worldbuilding/People/The Crimson Sage]]
+- Facilitating her communication with [[The Crimson Sage]]
 - Protecting her from direct resistance efforts
 - Managing public perception of royal transformation
 

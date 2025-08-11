@@ -22,7 +22,7 @@ obsidianUIMode: preview
 
 ## Overview
 
-The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Dawn]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
+The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Dawn]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
 The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness.
 
@@ -77,7 +77,7 @@ Each spire represents one aspect of divine light:
 - Chosen by divine vision 20 years ago
 - Can channel pure light energy for healing and protection
 - Diplomatic immunity and advisory role to the Crown
-- Maintains correspondence with religious leaders across [[02_Worldbuilding/Places/Aethermoor]]
+- Maintains correspondence with religious leaders across [[Aethermoor]]
 
 **The Seven Luminaries**
 - Each leads one of the cathedral spires
@@ -124,7 +124,7 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 
 ### The Sacred Libraries
 **The Archive of Illumination**
-- Largest religious library in [[02_Worldbuilding/Places/Aethermoor]]
+- Largest religious library in [[Aethermoor]]
 - Contains original texts predating [[The Great Crystallization]]
 - Illuminated manuscripts that glow softly in darkness
 - Research facilities for theological scholars

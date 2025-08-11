@@ -229,8 +229,8 @@ Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memorie
 - **Black Market**: Illegal or restricted memories sold underground
 
 #### Regional Variations
-- **[[02_Worldbuilding/Places/Memory Meadows]]**: Largest legitimate marketplace
-- **[[02_Worldbuilding/Places/Hidden Smuggler's Cove]]**: Black market hub
+- **[[Memory Meadows]]**: Largest legitimate marketplace
+- **[[Hidden Smuggler's Cove]]**: Black market hub
 - **Noble Districts**: Exclusive boutiques catering to aristocracy
 - **Academic Quarters**: Specialized dealers serving researchers
 - **Rural Areas**: Limited selection, focus on practical memories
@@ -383,10 +383,10 @@ Memory Pearls represent the pinnacle of [[Memory Farmers]]' art—living memorie
 
 ## Connected Elements
 - Primary connection to [[Memory Farmers]] as creators and cultivators
-- Links to [[02_Worldbuilding/Places/Memory Meadows]] as major marketplace
-- Associated with [[02_Worldbuilding/Places/Hidden Smuggler's Cove]] black markets
-- Connected to [[02_Worldbuilding/People/Memory Harvester Kythara]] as master practitioner
-- Related to [[02_Worldbuilding/Lore/The Tidal Shard of Memory]] through memory magic
+- Links to [[Memory Meadows]] as major marketplace
+- Associated with [[Hidden Smuggler's Cove]] black markets
+- Connected to [[Memory Harvester Kythara]] as master practitioner
+- Related to [[The Tidal Shard of Memory]] through memory magic
 - Links to therapeutic and educational institutions throughout Aquabyssos
 - Associated with wealthy collectors and aristocratic patrons
 

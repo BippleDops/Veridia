@@ -7,8 +7,8 @@ race: "Human (Adapted)"
 class: "Noble/Diplomat"
 level: 7
 alignment: "Lawful Good"
-location: "[[02_Worldbuilding/Places/The Memory Meadows]]"
-faction: "[[02_Worldbuilding/Places/Parliament of Echoes]] (formerly)"
+location: "[[The Memory Meadows]]"
+faction: "[[Parliament of Echoes]] (formerly)"
 status_condition: "Imprisoned, Slowly Forgotten"
 created_by: "auto-stub"
 created: 2025-08-08
@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *The True Senator, The Forgotten Voice, Prisoner of Kelp*
 
 ## Overview
-The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuilding/Places/The Memory Meadows]] for three weeks, trapped within living kelp that slowly drains his memories while his shadow replacement [[02_Worldbuilding/People/Senator Glaucus]] takes his place in the [[02_Worldbuilding/Places/Parliament of Echoes]]. Once a respected advocate for surface-depth reconciliation, he now struggles to maintain his identity as the kelp forest feeds on his past.
+The real Senator Glaucus Tidecaller has been imprisoned in the [[The Memory Meadows]] for three weeks, trapped within living kelp that slowly drains his memories while his shadow replacement [[Senator Glaucus]] takes his place in the [[Parliament of Echoes]]. Once a respected advocate for surface-depth reconciliation, he now struggles to maintain his identity as the kelp forest feeds on his past.
 
 ## Current Condition
 
@@ -110,11 +110,11 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 ### Political Allies (Former)
 - **[[Senator Aqueous]]**: Closest friend, might notice changes
 - **[[Representative Coral]]**: Protégé, suspicious of replacement
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Knew his loyalty
+- **[[The Scattered Emperor]]**: Knew his loyalty
 
 ### Enemies
-- **[[02_Worldbuilding/People/Senator Glaucus]]**: His shadow, his replacement
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Ordered his capture
+- **[[Senator Glaucus]]**: His shadow, his replacement
+- **[[Shadow Duchess Nyx]]**: Ordered his capture
 - **[[The Memory Farmers]]**: Profit from his imprisonment
 - **[[Kelp Cultivator Threnody]]**: His direct jailer
 
@@ -143,7 +143,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 
 ### Political Secrets
 - Which senators are already replaced
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s involvement
+- [[Aboleth Prime Yoth]]'s involvement
 - Planned legislation for shadow citizenship
 - Trade route sabotage plans
 - Assassination targets
@@ -152,7 +152,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 - His shadow's weaknesses
 - Code words to prove identity
 - Hidden allies in Parliament
-- Safe houses in [[02_Worldbuilding/Places/Abyssos Prime]]
+- Safe houses in [[Abyssos Prime]]
 - Emergency protocols
 
 ## Rescue Considerations
@@ -267,17 +267,17 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 ## Connected Elements
 
 ### NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - His shadow replacement
+- [[Senator Glaucus]] - His shadow replacement
 - [[Marina Tidecaller]] - Daughter
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Ordered capture
+- [[Shadow Duchess Nyx]] - Ordered capture
 - [[Kelp Cultivator Threnody]] - Jailer
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Potential ally
+- [[The Scattered Emperor]] - Potential ally
 
 ### Locations
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Prison
-- [[02_Worldbuilding/Places/Parliament of Echoes]] - Former workplace
+- [[The Memory Meadows]] - Prison
+- [[Parliament of Echoes]] - Former workplace
 - [[Reflection Pools]] - Where captured
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Home city
+- [[Abyssos Prime]] - Home city
 - [[Shadow Transformation Facility]] - Knows location
 
 ### Quests

@@ -4,10 +4,10 @@ status: complete
 world: "Aquabyssos"
 type: "npc"
 role: "Deep Mother Cultist"
-affiliation: "[[02_Worldbuilding/Groups/The Drowned Prophets]]"
+affiliation: "[[The Drowned Prophets]]"
 age: "Unknown (appears 35, actually much older)"
 race: "Human (Depth-Touched)"
-location: "[[02_Worldbuilding/Places/The Deepmind]] - Shrine of Sorrows"
+location: "[[The Deepmind]] - Shrine of Sorrows"
 created_by: "auto-stub"
 created: 2025-08-09
 ---
@@ -16,7 +16,7 @@ created: 2025-08-09
 *High Priestess of the Drowned Prophets, Voice of the Mother's Dreams*
 
 ## Overview
-Sister Thalassa is the most devoted servant of [[02_Worldbuilding/Lore/The Deep Mother]], having spent thirty years in the deepest trenches communing with her sleeping goddess. The pressure and proximity to divine dreams have transformed her both physically and mentally—she can survive at impossible depths, speaks with the Deep Mother's voice in her dreams, and leads the most radical sect of the [[02_Worldbuilding/Groups/The Drowned Prophets]] in preparing for the Great Awakening.
+Sister Thalassa is the most devoted servant of [[The Deep Mother]], having spent thirty years in the deepest trenches communing with her sleeping goddess. The pressure and proximity to divine dreams have transformed her both physically and mentally—she can survive at impossible depths, speaks with the Deep Mother's voice in her dreams, and leads the most radical sect of the [[The Drowned Prophets]] in preparing for the Great Awakening.
 
 ## Description
 - **Appearance**: Pale, elongated figure with pressure-adapted features and glowing eyes
@@ -27,7 +27,7 @@ Sister Thalassa is the most devoted servant of [[02_Worldbuilding/Lore/The Deep 
 
 ## Background
 ### The Calling
-- Born in [[02_Worldbuilding/Places/Abyssos Prime]] to merchant family
+- Born in [[Abyssos Prime]] to merchant family
 - Experienced prophetic dreams of the Deep Mother from childhood
 - At age 20, voluntarily descended to the Hadal Depths for "pilgrimage"
 - Survived impossible pressure through divine intervention
@@ -64,7 +64,7 @@ Sister Thalassa is the most devoted servant of [[02_Worldbuilding/Lore/The Deep 
 
 ### Sacred Duties
 - Conducts ritual drownings to "return the faithful to the Mother's embrace"
-- Maintains the Shrine of Sorrows in [[02_Worldbuilding/Places/The Deepmind]]
+- Maintains the Shrine of Sorrows in [[The Deepmind]]
 - Trains new cultists in depth survival and divine communion
 - Interprets the Deep Mother's dreams for the faithful
 - Seeks artifacts and knowledge to aid the awakening
@@ -78,7 +78,7 @@ Sister Thalassa is the most devoted servant of [[02_Worldbuilding/Lore/The Deep 
 - Preparing sacred sites for the "moment of awakening"
 
 ### Political Maneuvering
-- Infiltrating the [[02_Worldbuilding/Places/Parliament of Echoes]] through converts
+- Infiltrating the [[Parliament of Echoes]] through converts
 - Allying with shadow-touched individuals who serve the Mother
 - Recruiting from the desperate and the drowning
 - Building network of safe houses for cultist operations
@@ -86,22 +86,22 @@ Sister Thalassa is the most devoted servant of [[02_Worldbuilding/Lore/The Deep 
 
 ## Relationships
 ### Fellow Cultists
-- **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Rival interpretation of the Mother's will
+- **[[Prophet Nerida Voidgazer]]**: Rival interpretation of the Mother's will
 - **[[Brother Leviathan]]**: Military leader of cult's armed wing
 - **The Deep Choir**: Group of other depth-touched who sing the Mother's songs
 - **[[Captain Echo]]**: Runs cult's underwater transportation network
 - **The Drowning Volunteers**: Those who seek ritual death to serve the Mother
 
 ### Political Relations
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Sees him as obstacle to awakening
-- **[[02_Worldbuilding/People/Aboleth Prime Yoth]]**: Competing claim to be Deep Mother's first child
-- **[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Orthodox rival who opposes awakening
+- **[[The Scattered Emperor]]**: Sees him as obstacle to awakening
+- **[[Aboleth Prime Yoth]]**: Competing claim to be Deep Mother's first child
+- **[[High Priestess Scylla Deepdream]]**: Orthodox rival who opposes awakening
 - **Shadow Merchants**: Trades with those who profit from corruption
 - **Parliament Members**: Several secretly converted to her cause
 
 ## The Shrine of Sorrows
 ### Sacred Site
-- Built at the edge of [[02_Worldbuilding/Places/The Deepmind]] where dreams pool
+- Built at the edge of [[The Deepmind]] where dreams pool
 - Contains artifacts from the Deep Mother's physical form
 - Serves as headquarters for the Awakener faction
 - Houses the sacred text "Songs from the Sleeping Deep"
@@ -144,7 +144,7 @@ Sister Thalassa is the most devoted servant of [[02_Worldbuilding/Lore/The Deep 
 - Protected by divine intervention that redirects fatal attacks
 
 ## Connected Elements
-- Central figure for [[02_Worldbuilding/Lore/The Deep Mother]] awakening storylines
+- Central figure for [[The Deep Mother]] awakening storylines
 - Links cultist activities to political intrigue
 - Represents religious extremism in service to cosmic entity
 - Bridge between personal faith and world-threatening consequences
@@ -376,7 +376,7 @@ When encountered in the Shrine of Sorrows or another Deep Mother sacred site, Th
 - Conflict over whether surface world should be warned about or prepared for awakening
 - Grudging acknowledgment of each other's genuine Divine calling and expertise
 
-**[[02_Worldbuilding/People/High Priestess Scylla Deepdream]]**: Direct theological opposition within same faith
+**[[High Priestess Scylla Deepdream]]**: Direct theological opposition within same faith
 - Represents orthodox Deep Mother worship emphasizing patience and preparation
 - Thalassa viewed as dangerous heretic teaching false interpretation of Divine will
 - Institutional church resources deployed to counter Awakener movement influence
@@ -384,21 +384,21 @@ When encountered in the Shrine of Sorrows or another Deep Mother sacred site, Th
 - Potential for violent conflict as theological differences drive political action
 
 ### Government and Political Relationships
-**[[02_Worldbuilding/People/The Scattered Emperor]]**: Complex relationship with distributed consciousness
+**[[The Scattered Emperor]]**: Complex relationship with distributed consciousness
 - Thalassa sees his scattered state as metaphor for world's spiritual fragmentation
 - Believes his eventual reunification will coincide with Deep Mother's awakening
 - Some of his fragments sympathetic to Awakener theology while others oppose it
 - Intelligence value in having ally who exists simultaneously in multiple locations
 - Philosophical connection between individual and cosmic consciousness integration
 
-**[[02_Worldbuilding/Places/Parliament of Echoes]]**: Infiltration target and ideological enemy
+**[[Parliament of Echoes]]**: Infiltration target and ideological enemy
 - Multiple Awakener cultists hold positions within government structure
 - Parliamentary policies regarding oceanic regulation and religious freedom affect cult operations
 - Government surveillance and law enforcement pressure threaten cult activities
 - Potential for political influence if enough members achieve positions of power
 - Strategic goal of preventing government interference with awakening preparations
 
-**[[02_Worldbuilding/People/Senator Nereon Tidecaller]]**: Potential convert or dangerous enemy
+**[[Senator Nereon Tidecaller]]**: Potential convert or dangerous enemy
 - His political influence over oceanic policy makes him valuable recruitment target
 - Personal spiritual background suggests possible sympathy for radical Deep Mother worship
 - Intelligence suggests family history of mystical oceanic experiences
@@ -413,7 +413,7 @@ When encountered in the Shrine of Sorrows or another Deep Mother sacred site, Th
 - Potential for violent confrontation if government declares cult terrorist organization
 - Strategic value in having sympathizers within military structure for intelligence and protection
 
-**[[02_Worldbuilding/Groups/The Purist Coalition]]**: Ideological enemies viewing cultists as corrupted abominations
+**[[The Purist Coalition]]**: Ideological enemies viewing cultists as corrupted abominations
 - Coalition views depth-touched transformation as corruption rather than Divine blessing
 - Active efforts to identify and "cleanse" transformed cultists
 - Theological opposition to any form of Divine transformation or supernatural enhancement
@@ -421,14 +421,14 @@ When encountered in the Shrine of Sorrows or another Deep Mother sacred site, Th
 - Cult views Coalition as obstacle to Divine will requiring active resistance
 
 ### Cross-Campaign Integration
-**[[02_Worldbuilding/Groups/The Convergence Seekers]]**: Potential allies in cosmic consciousness manipulation
+**[[The Convergence Seekers]]**: Potential allies in cosmic consciousness manipulation
 - Both groups interested in accelerating cosmic-scale consciousness events
 - Convergence Seekers' dimensional work might align with Divine awakening goals
 - Shared interest in consciousness that spans multiple realities or dimensions
 - Potential conflict if awakening destabilizes dimensional convergence efforts
 - Opportunity for alliance if both cosmic events can be coordinated for mutual benefit
 
-**[[02_Worldbuilding/Quests/Quest - The Convergence Crisis]]**: Awakening effects on dimensional stability
+**[[Quest - The Convergence Crisis]]**: Awakening effects on dimensional stability
 - Deep Mother's stirring creates ripples affecting dimensional boundaries
 - Accelerated awakening timeline could trigger premature convergence collapse
 - Cult activities might inadvertently threaten dimensional stability

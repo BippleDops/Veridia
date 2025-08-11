@@ -5,8 +5,8 @@ tags:
   - political
 type: Faction
 alignment: Lawful Neutral
-headquarters: "[[02_Worldbuilding/Places/Crystalhaven]]"
-leader: "[[02_Worldbuilding/People/Queen Seraphina Lumengarde]]"
+headquarters: "[[Crystalhaven]]"
+leader: "[[Queen Seraphina Lumengarde]]"
 status: Active
 power_level: Dominant
 created: 2024-12-20
@@ -21,13 +21,13 @@ obsidianUIMode: preview
 *The Royal Government of Aethermoor*
 
 ## Overview
-The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aethermoor]], centered in [[02_Worldbuilding/Places/Crystalhaven]] and led by [[02_Worldbuilding/People/Queen Seraphina Lumengarde]]. They champion the controlled use of Aether Crystals for the betterment of society while maintaining order through the [[Crystal Wardens]]. The faction represents the establishment, promoting progress through crystal technology while trying to manage its dangers.
+The Crystal Throne is the ruling government of [[Aethermoor]], centered in [[Crystalhaven]] and led by [[Queen Seraphina Lumengarde]]. They champion the controlled use of Aether Crystals for the betterment of society while maintaining order through the [[Crystal Wardens]]. The faction represents the establishment, promoting progress through crystal technology while trying to manage its dangers.
 
 ## Leadership Structure
 
 ### Royal Council
-- **Monarch**: [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Ultimate authority
-- **Lord Commander**: [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military
+- **Monarch**: [[Queen Seraphina Lumengarde]] - Ultimate authority
+- **Lord Commander**: [[Lord Commander Gareth Steelborn]] - Military
 - **High Treasurer**: [[Lord Aurelius Goldwave]] - Finances
 - **Court Wizard**: [[Professor Aldric Crystalweaver]] - Magical affairs
 - **Spymaster**: [Position Vacant] - Intelligence
@@ -58,7 +58,7 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 > [!warning] DM Only
 > - Hide the Queen's corruption at all costs
 > - Gather the Seven Shards
-> - Prevent civil war between crystal supporters and [[02_Worldbuilding/Groups/Purist Coalition]]
+> - Prevent civil war between crystal supporters and [[Purist Coalition]]
 > - Develop cure for crystal corruption
 > - Maintain power despite growing opposition
 
@@ -78,7 +78,7 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 
 ### Political Influence
 - Noble houses sworn to crown
-- [[02_Worldbuilding/Groups/Merchant Princes]] alliance
+- [[Merchant Princes]] alliance
 - Control of legal system
 - Diplomatic relations
 
@@ -91,11 +91,11 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 ## Members
 
 ### Key Figures
-- [[02_Worldbuilding/People/Queen Seraphina Lumengarde]] - Leader
-- [[02_Worldbuilding/People/Lord Commander Gareth Steelborn]] - Military head
-- [[02_Worldbuilding/People/Captain Lyanna Brightshield]] - Rising star
+- [[Queen Seraphina Lumengarde]] - Leader
+- [[Lord Commander Gareth Steelborn]] - Military head
+- [[Captain Lyanna Brightshield]] - Rising star
 - [[Professor Aldric Crystalweaver]] - Chief researcher
-- [[02_Worldbuilding/People/Master Artificer Korvin Gearwright]] - Innovation director
+- [[Master Artificer Korvin Gearwright]] - Innovation director
 
 ### Rank Structure
 1. **The Monarch** - Supreme ruler
@@ -108,20 +108,20 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 ## Relationships
 
 ### Allies
-- **[[02_Worldbuilding/Groups/Merchant Princes]]** - Economic partnership
+- **[[Merchant Princes]]** - Economic partnership
 - **Crystal Academy** - Research and development
 - **Noble Houses** - Traditional support
 - **[[High Priestess Celeste Dawnbringer]]** - Religious backing
 
 ### Enemies
-- **[[02_Worldbuilding/Groups/Purist Coalition]]** - Ideological opposition
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Criminal undermining
-- **[[02_Worldbuilding/People/Prince Caspian Duskwater]]** - Succession threat
+- **[[Purist Coalition]]** - Ideological opposition
+- **[[The Whisper Syndicate]]** - Criminal undermining
+- **[[Prince Caspian Duskwater]]** - Succession threat
 - **[[The Verdant Accord]]** - Environmental opposition
 
 ### Neutral/Complex
 - **[[The Order of the Shattered Crown]]** - Suspicious monitoring
-- **[[02_Worldbuilding/People/Archdruid Thornweaver]]** - Tense negotiations
+- **[[Archdruid Thornweaver]]** - Tense negotiations
 - **Foreign kingdoms** - Trade but wary
 
 ## Operations & Activities
@@ -158,8 +158,8 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 
 ## Current Issues
 1. Queen's hidden corruption
-2. Growing [[02_Worldbuilding/Groups/Purist Coalition]] support
-3. [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] crisis
+2. Growing [[Purist Coalition]] support
+3. [[Quest - The Plague of Crystals]] crisis
 4. Economic pressure from corruption costs
 5. Succession concerns (no clear heir)
 
@@ -186,11 +186,11 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 - Keep faction secrets
 
 ## Quest Hooks
-1. Investigate [[02_Worldbuilding/Groups/Purist Coalition]] infiltrators
-2. Diplomatic mission to [[02_Worldbuilding/Places/The Verdant Reach]]
+1. Investigate [[Purist Coalition]] infiltrators
+2. Diplomatic mission to [[The Verdant Reach]]
 3. Recover stolen royal artifacts
 4. Secret mission for the Queen
-5. Uncover [[02_Worldbuilding/Groups/The Whisper Syndicate]] plot
+5. Uncover [[The Whisper Syndicate]] plot
 
 ## Faction Secrets
 > [!warning] DM Only
@@ -209,17 +209,17 @@ The Crystal Throne is the ruling government of [[02_Worldbuilding/Places/Aetherm
 
 ## Connected Factions
 - [[Crystal Wardens]] - Military arm
-- [[02_Worldbuilding/Groups/Merchant Princes]] - Economic allies
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Primary opposition
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal threat
+- [[Merchant Princes]] - Economic allies
+- [[Purist Coalition]] - Primary opposition
+- [[The Whisper Syndicate]] - Criminal threat
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/Crystalhaven]] - Capital and HQ
-- [[02_Worldbuilding/Places/Lumengarde]] - Core territory
-- [[02_Worldbuilding/Places/Port Meridian]] - Major trade hub
+- [[Crystalhaven]] - Capital and HQ
+- [[Lumengarde]] - Core territory
+- [[Port Meridian]] - Major trade hub
 - All major cities - Governmental presence
 
 ## Key Quests
-- [[02_Worldbuilding/Quests/Quest - Diplomatic Immunity]] - Peace negotiations
-- [[02_Worldbuilding/Quests/Quest - The Plague of Crystals]] - Crisis management
-- [[02_Worldbuilding/Quests/Quest - The Seventh Shard]] - Secret search
+- [[Quest - Diplomatic Immunity]] - Peace negotiations
+- [[Quest - The Plague of Crystals]] - Crisis management
+- [[Quest - The Seventh Shard]] - Secret search

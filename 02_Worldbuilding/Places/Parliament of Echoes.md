@@ -1,7 +1,7 @@
 ---
 tags: [location, aquabyssos, political, horror, temporal]
 location_type: "Government Building"
-continent: "[[02_Worldbuilding/Places/Abyssos Prime]]"
+continent: "[[Abyssos Prime]]"
 depth: "1,500-2,000 feet"
 population: "~500 (plus countless echoes)"
 danger_level: "High (Political)"
@@ -47,7 +47,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
   - Central podium exists in all timelines
   - Faction seating that shifts with alliances
   - The Speaker's Throne (empty for 200 years)
-- **NPCs**: [[02_Worldbuilding/People/Senator Glaucus]], [[Time-Lost Delegate Chronus]]
+- **NPCs**: [[Senator Glaucus]], [[Time-Lost Delegate Chronus]]
 
 #### Level 3: The Vote Vaults
 - **Purpose**: Physical storage of all votes ever cast
@@ -87,7 +87,7 @@ The Parliament of Echoes serves as Aquabyssos's theoretical government, where gh
 #### The Transformed
 - **Belief**: Evolution to aquatic forms is destiny
 - **Seats**: 52
-- **Leader**: [[02_Worldbuilding/People/Duke Cyrus Reefheart]]
+- **Leader**: [[Duke Cyrus Reefheart]]
 - **Goal**: Accelerate adaptation process
 
 #### The Returners
@@ -239,19 +239,19 @@ Something is imprisoned in Level 5. The seal weakens each time Parliament fails 
 ## 🔗 Connections
 
 ### NPCs
-- [[02_Worldbuilding/People/Senator Glaucus]] - Current senator
-- [[02_Worldbuilding/People/The Scattered Emperor]] - Observes through eels
-- [[02_Worldbuilding/People/Shadow Duchess Nyx]] - Investigating shadows
+- [[Senator Glaucus]] - Current senator
+- [[The Scattered Emperor]] - Observes through eels
+- [[Shadow Duchess Nyx]] - Investigating shadows
 - [[Time-Lost Delegate Chronus]] - Temporal guardian
 
 ### Locations
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Parent city
-- [[02_Worldbuilding/Places/The Inverse Palace]] - Emperor's seat
-- [[02_Worldbuilding/Places/The Memory Meadows]] - Memory trade source
+- [[Abyssos Prime]] - Parent city
+- [[The Inverse Palace]] - Emperor's seat
+- [[The Memory Meadows]] - Memory trade source
 - [[Tenebrarum]] - Shadow Parliament origin
 
 ### Campaigns
-- [[01_Campaigns/Aquabyssos/The Parliament of Shadows Campaign]]
+- [[The Parliament of Shadows Campaign]]
 - [[Political Intrigue of Meridian]]
 - [[The Seven Shards Mystery]]
 

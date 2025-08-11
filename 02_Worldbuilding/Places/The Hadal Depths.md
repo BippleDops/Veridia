@@ -7,7 +7,7 @@ location_type: "Abyssal Zone"
 depth: "20,000-36,000+ feet"
 population: "Unknown (Non-Euclidean)"
 danger_level: "Catastrophic"
-ruler: "[[02_Worldbuilding/Lore/Deep Mother]] (Sleeping)"
+ruler: "[[Deep Mother]] (Sleeping)"
 created_by: "auto-stub"
 created: 2025-08-08
 updated: 2025-08-09
@@ -21,7 +21,7 @@ obsidianUIMode: preview
 *Where Reality Drowns, The Mother's Cradle, The Final Deep*
 
 ## Overview
-The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[02_Worldbuilding/Lore/Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[02_Worldbuilding/People/Aboleth Prime Yoth]] fears to venture.
+The Hadal Depths represent the absolute bottom of [[Aquabyssos]], where water becomes something else entirely and the laws of physics surrender to older truths. Here, at depths exceeding 20,000 feet, the [[Deep Mother]] slumbers in her eternal dream, her massive form comprising entire mountain ranges and trenches. This is where existence becomes negotiable, where pressure transforms matter into thought, and where even [[Aboleth Prime Yoth]] fears to venture.
 
 ## Geography of Impossibility
 
@@ -79,7 +79,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 
 #### The Spawning Grounds
 **Where Nightmares Birth**
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s origin point
+- [[Aboleth Prime Yoth]]'s origin point
 - Shadow creatures spontaneously generate
 - Primordial life forms beyond classification
 - New horrors born from Mother's bad dreams
@@ -99,7 +99,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 
 #### Primordial Aboleths
 **The First Children**
-- Older than [[02_Worldbuilding/People/Aboleth Prime Yoth]]
+- Older than [[Aboleth Prime Yoth]]
 - Size of small cities
 - Memories predate reality
 - Speak in gravitational waves
@@ -137,7 +137,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 - Most die, some transform, few return
 - Those who return can't/won't speak
 - Bodies adapted beyond recognition
-- Considered holy by [[02_Worldbuilding/People/Prophet Nerida Voidgazer]]
+- Considered holy by [[Prophet Nerida Voidgazer]]
 
 #### The Pressure Miners
 **Resource Extractors**
@@ -145,7 +145,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 - Use abolished slaves for labor
 - Life expectancy: 3 days
 - Operations highly secret
-- Funded by [[02_Worldbuilding/Groups/Silverscale Consortium]]
+- Funded by [[Silverscale Consortium]]
 
 #### Lost Expeditions
 **Never Returned**
@@ -238,7 +238,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 - Grant visions of other realities
 - Allow dream manipulation
 - Risk madness with each use
-- Valuable to [[02_Worldbuilding/People/The Siren]]
+- Valuable to [[The Siren]]
 - Currency among Dream Leviathans
 
 ### Deadly Threats
@@ -293,7 +293,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 > - She's dreaming reality to escape something worse
 > - The depths connect to all oceans in all realities
 > - Waking her doesn't destroy—it merges all existence
-> - The [[02_Worldbuilding/People/The Crimson Sage]] has been here
+> - The [[The Crimson Sage]] has been here
 
 ## Quest Hooks
 
@@ -344,21 +344,21 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 ## Connected Elements
 
 ### Key NPCs
-- [[02_Worldbuilding/Lore/Deep Mother]] - The sleeping goddess
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Born here
-- [[02_Worldbuilding/People/Prophet Nerida Voidgazer]] - Sends pilgrims
+- [[Deep Mother]] - The sleeping goddess
+- [[Aboleth Prime Yoth]] - Born here
+- [[Prophet Nerida Voidgazer]] - Sends pilgrims
 - [[Primordial Aboleth Council]] - Rule depths
 - [[The First Dreamer]] - Mother's companion?
 
 ### Related Locations
-- [[02_Worldbuilding/Places/The Deepmind]] - Shallow reflection
-- [[02_Worldbuilding/Places/Abyssos Prime]] - Far above
+- [[The Deepmind]] - Shallow reflection
+- [[Abyssos Prime]] - Far above
 - [[The Spawning Grounds]] - Nightmare birth
 - [[Pressure Palace]] - Crushed nobility
 - [[The Void Beneath]] - What's under
 
 ### Important Quests
-- [[02_Worldbuilding/Quests/Quest - The Deep Mother Rises]]
+- [[Quest - The Deep Mother Rises]]
 - [[Quest - Hadal Expedition]]
 - [[Quest - The Mother's Tear]]
 - [[Quest - Depth Pilgrimage]]

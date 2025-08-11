@@ -308,8 +308,8 @@ Knowledge recovery operations send characters to retrieve lost or threatened inf
 Analysis support projects enable characters to contribute to understanding current challenges while helping develop insights and solutions based on preserved knowledge.
 
 ## Connected Institutions and Contacts
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary realm and governmental authority
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - International cooperation and information sharing
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat requiring historical analysis and documentation
-- [[02_Worldbuilding/Lore/Royal Archives of Aquabyssos]] - Primary institutional base of operations
-- [[02_Worldbuilding/Lore/Scholarly Exchange Programs]] - Academic cooperation and knowledge sharing initiatives
+- [[Aquabyssos]] - Primary realm and governmental authority
+- [[United Councils of Both Worlds]] - International cooperation and information sharing
+- [[The Crystal Influence]] - Major threat requiring historical analysis and documentation
+- [[Royal Archives of Aquabyssos]] - Primary institutional base of operations
+- [[Scholarly Exchange Programs]] - Academic cooperation and knowledge sharing initiatives

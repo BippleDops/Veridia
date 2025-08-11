@@ -239,8 +239,8 @@ Evocation magic works synergistically with other magical traditions:
 - **Environmental Impact**: Considering the long-term effects of large-scale destruction
 
 ## Connected Magical Systems
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-abjuration]] - Protective barriers for evocation practitioners
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-conjuration]] - Summoning energy and effects from other locations
-- [[02_Worldbuilding/Lore/War College of Depths]] - Military academy for combat evocation
-- [[02_Worldbuilding/Lore/The Void Currents]] - Source of cosmic destructive energy
-- [[02_Worldbuilding/Lore/Engineering Corps]] - Organization specializing in construction-oriented destruction
+- [[Ω_System-CLI-spells-school-abjuration]] - Protective barriers for evocation practitioners
+- [[Ω_System-CLI-spells-school-conjuration]] - Summoning energy and effects from other locations
+- [[War College of Depths]] - Military academy for combat evocation
+- [[The Void Currents]] - Source of cosmic destructive energy
+- [[Engineering Corps]] - Organization specializing in construction-oriented destruction

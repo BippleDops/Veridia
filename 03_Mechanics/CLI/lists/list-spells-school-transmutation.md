@@ -137,4 +137,4 @@ modified: 2025-07-23 12:39
 - [Time Stop](/03_Mechanics/CLI/spells/time-stop-xphb.md "XPHB")
 - [True Polymorph](/03_Mechanics/CLI/spells/true-polymorph-xphb.md "XPHB")
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024]]
+[[DnD5e-SideScreen-2024]]

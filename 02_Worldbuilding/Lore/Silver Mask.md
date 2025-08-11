@@ -456,16 +456,16 @@ Some intelligence analysts propose that Silver Mask operates as an independent a
 ### Related Locations
 - [[Crystal Forest]] - Possible source of mask materials and crystal technology
 - [[Aethermoor Archives]] - Location of historical records mentioning similar masked figures
-- [[02_Worldbuilding/Places/The Shadow Nexus]] - Possible connection to Crimson Hand coordination
+- [[The Shadow Nexus]] - Possible connection to Crimson Hand coordination
 - [[Silverscale Emergency Bunker]] - Location where Silver Mask communications may be coordinated
-- [[02_Worldbuilding/Places/Lighthouse Peak]] - Strategic location for cross-dimensional surveillance
+- [[Lighthouse Peak]] - Strategic location for cross-dimensional surveillance
 
 ### Important Artifacts and Evidence
 - [[The Seven Shards]] - Objects of intense interest to Silver Mask
 - [[Evidence Chain Analysis]] - Methodologies for investigating Silver Mask activities
 - [[Timeline of Crimes]] - Historical framework for understanding Silver Mask's long-term activities
-- [[02_Worldbuilding/Items/Memory Crystals]] - Technology potentially used for identity alteration
-- [[02_Worldbuilding/Items/Dimensional Communication Arrays]] - Equipment possibly used for cross-dimensional coordination
+- [[Memory Crystals]] - Technology potentially used for identity alteration
+- [[Dimensional Communication Arrays]] - Equipment possibly used for cross-dimensional coordination
 
 ### Investigation Resources
 

@@ -18,7 +18,7 @@ updated: 2025-08-11
 
 ## Overview
 
-The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
+The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[Aquabyssos]] and [[Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
 
 Reputation affects everything from prices in shops to access to restricted areas, availability of services, quest opportunities, and survival during political crises. In the merged realms, reputation with one faction can dramatically affect standing with their allies or enemies, creating complex webs of social consequence.
 

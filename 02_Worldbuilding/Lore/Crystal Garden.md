@@ -15,16 +15,16 @@ updated: 2025-08-10
 
 ## Overview
 
-The Crystal Garden stands as one of the most beautiful and impossible locations in either world—a place where crystalline formations grow in patterns that defy physics, nourished by waters that shouldn't exist and guided by consciousness that transcends individual reality. Located at a major intersection between [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]], this [[Merged Reality Zones|merged reality zone]] has become a living testament to what convergence might achieve when guided by love rather than force.
+The Crystal Garden stands as one of the most beautiful and impossible locations in either world—a place where crystalline formations grow in patterns that defy physics, nourished by waters that shouldn't exist and guided by consciousness that transcends individual reality. Located at a major intersection between [[Aethermoor]] and [[Aquabyssos]], this [[Merged Reality Zones|merged reality zone]] has become a living testament to what convergence might achieve when guided by love rather than force.
 
-Originally the site of [[02_Worldbuilding/Places/Crystalhaven]]'s Royal Botanical Gardens, the area began transforming when dimensional barriers weakened, allowing deep-sea currents to flow through crystal formations while crystal growth patterns began following underwater pressure flows. The result is a landscape where massive crystalline trees grow in perfect spirals, their branches extending into pools of breathable water where fish swim through air and coral formations bloom in impossible colors.
+Originally the site of [[Crystalhaven]]'s Royal Botanical Gardens, the area began transforming when dimensional barriers weakened, allowing deep-sea currents to flow through crystal formations while crystal growth patterns began following underwater pressure flows. The result is a landscape where massive crystalline trees grow in perfect spirals, their branches extending into pools of breathable water where fish swim through air and coral formations bloom in impossible colors.
 
 ## Physical Description and Layout
 
 ### The Crystalline Forest
 
 **The Prismatic Canopy:**
-The garden's most striking feature is a canopy of crystal formations that rise 200 feet above the ground, their translucent branches refracting light into constant rainbow displays. These "crystal trees" are not traditional minerals but living hybrid formations that combine [[02_Worldbuilding/Places/Aethermoor]]'s crystalline consciousness with [[02_Worldbuilding/Places/Aquabyssos]]'s coral growth patterns.
+The garden's most striking feature is a canopy of crystal formations that rise 200 feet above the ground, their translucent branches refracting light into constant rainbow displays. These "crystal trees" are not traditional minerals but living hybrid formations that combine [[Aethermoor]]'s crystalline consciousness with [[Aquabyssos]]'s coral growth patterns.
 
 **Structure and Composition:**
 - **Roots**: Extend deep into both earth and water dimensions, drawing nutrients from both realms
@@ -156,7 +156,7 @@ Scholars, mages, and scientists studying dimensional phenomena:
 
 **Diplomatic Missions:**
 Representatives from various factions who use the garden as neutral ground:
-- **[[02_Worldbuilding/Groups/The Unity Seekers]]** delegates meeting to plan convergence preparation
+- **[[The Unity Seekers]]** delegates meeting to plan convergence preparation
 - **[[The Healing Circles]]** practitioners sharing techniques and coordinating efforts
 - **Cross-dimensional trade negotiators** establishing commercial relationships
 - **Military representatives** arranging truces and cease-fires
@@ -168,7 +168,7 @@ Representatives from various factions who use the garden as neutral ground:
 A small community of individuals from both worlds who have chosen to live permanently in the garden, serving as its caretakers and guides:
 
 **[[Master Gardener Prism-Tide Lyra]]:**
-A former crystal mage from [[02_Worldbuilding/Places/Aethermoor]] who discovered her ability to communicate with coral consciousness and now serves as the garden's primary interpreter and guide. Her body has partially crystallized, allowing her to interface directly with the garden's consciousness.
+A former crystal mage from [[Aethermoor]] who discovered her ability to communicate with coral consciousness and now serves as the garden's primary interpreter and guide. Her body has partially crystallized, allowing her to interface directly with the garden's consciousness.
 
 **[[Deep-Root Caretaker Nereon]]:**
 An Aquabyssos pressure engineer who developed aquatic adaptations that allow him to tend to the garden's underwater elements. He has formed a symbiotic relationship with the memory coral and can access historical information about the garden's development.
@@ -181,7 +181,7 @@ A group of young people from both worlds who were born with natural abilities to
 ### Pre-Convergence Era
 
 **The Royal Botanical Gardens (Founded 847 AC - After Crystallization):**
-Originally established by Queen Luminara the Third as a showcase of [[02_Worldbuilding/Places/Aethermoor]]'s ability to cultivate beauty through crystal magic. The gardens featured traditional crystal formations shaped into artistic displays, with conventional plants growing in crystal-enriched soil.
+Originally established by Queen Luminara the Third as a showcase of [[Aethermoor]]'s ability to cultivate beauty through crystal magic. The gardens featured traditional crystal formations shaped into artistic displays, with conventional plants growing in crystal-enriched soil.
 
 **Early Botanical Achievements:**
 - First successful cultivation of singing crystals for therapeutic gardens
@@ -208,7 +208,7 @@ Gardeners began reporting mysterious pools of water appearing overnight in the c
 A massive [[Shadow Corruption]] outbreak threatened to destroy the gardens entirely, turning the beautiful crystal formations into twisted, dark growths. In desperation, the garden's keepers attempted an experimental technique—channeling both crystal consciousness and deep-sea pressure magic simultaneously to create a purification field.
 
 **The Unexpected Result:**
-Instead of simply cleansing the corruption, the combined magical forces tore open a stable dimensional overlap, allowing [[02_Worldbuilding/Places/Aquabyssos]]'s deep-sea consciousness to merge with the garden's crystal awareness. The corruption was indeed purified, but the garden was transformed into something entirely new—a hybrid space that belonged fully to both worlds.
+Instead of simply cleansing the corruption, the combined magical forces tore open a stable dimensional overlap, allowing [[Aquabyssos]]'s deep-sea consciousness to merge with the garden's crystal awareness. The corruption was indeed purified, but the garden was transformed into something entirely new—a hybrid space that belonged fully to both worlds.
 
 **Immediate Consequences:**
 - All existing plants and crystals underwent rapid transformation into hybrid organisms
@@ -220,10 +220,10 @@ Instead of simply cleansing the corruption, the combined magical forces tore ope
 ### Modern Era Development
 
 **Recognition and Protection (50 years ago):**
-Both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] governments officially recognized the Crystal Garden as a neutral territory and established protections to prevent military or exploitative use of the site. This protection has been maintained even as political tensions between the worlds have increased.
+Both [[Aethermoor]] and [[Aquabyssos]] governments officially recognized the Crystal Garden as a neutral territory and established protections to prevent military or exploitative use of the site. This protection has been maintained even as political tensions between the worlds have increased.
 
 **Expansion and Evolution (Present Day):**
-The garden continues to grow and evolve, with new sections appearing as dimensional barriers weaken further. Recent additions include areas that exist primarily in [[02_Worldbuilding/Places/Aquabyssos]]'s reality but remain accessible to [[02_Worldbuilding/Places/Aethermoor]] visitors, and temporal zones where past and future versions of the garden overlap.
+The garden continues to grow and evolve, with new sections appearing as dimensional barriers weaken further. Recent additions include areas that exist primarily in [[Aquabyssos]]'s reality but remain accessible to [[Aethermoor]] visitors, and temporal zones where past and future versions of the garden overlap.
 
 ## Magical and Metaphysical Properties
 
@@ -330,7 +330,7 @@ The garden maintains complete immunity to [[Shadow Corruption]] and can actually
 
 **Territorial Claims:**
 Various factions from both worlds periodically attempt to claim exclusive control over the garden:
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]** argues that the garden's crystal elements make it Aethermoor territory
+- **[[The Crystal Throne]]** argues that the garden's crystal elements make it Aethermoor territory
 - **[[Deep Lords]]** claim that the aquatic consciousness gives Aquabyssos jurisdiction
 - **[[The Crimson Hand]]** views the garden as a valuable resource for their convergence manipulation plans
 - **Military forces** from both worlds occasionally attempt to establish bases nearby
@@ -340,7 +340,7 @@ Various factions from both worlds periodically attempt to claim exclusive contro
 The garden's keepers have maintained neutrality through:
 - Formal treaty recognition of neutral status by both world governments
 - Demonstration that military occupation disrupts the garden's beneficial properties
-- Alliance with [[02_Worldbuilding/Groups/The Unity Seekers]] and other peace-focused organizations
+- Alliance with [[The Unity Seekers]] and other peace-focused organizations
 - Economic incentives showing that neutral access benefits both worlds more than exclusive control
 - Spiritual arguments that the garden belongs to no single group but to all conscious beings
 
@@ -370,7 +370,7 @@ While the garden maintains immunity to direct [[Shadow Corruption]], hostile for
 
 ### The Divine Romance Connection
 > [!warning] DM Only
-> The Crystal Garden exists because it unconsciously manifests the love between [[02_Worldbuilding/People/The Crimson Sage]] and [[The Deep Mother]]. The garden's consciousness is actually a fragment of their combined divine awareness, expressing their relationship in physical form. This is why the garden radiates such peace and healing—it's powered by cosmic love rather than conflict or domination.
+> The Crystal Garden exists because it unconsciously manifests the love between [[The Crimson Sage]] and [[The Deep Mother]]. The garden's consciousness is actually a fragment of their combined divine awareness, expressing their relationship in physical form. This is why the garden radiates such peace and healing—it's powered by cosmic love rather than conflict or domination.
 
 ### The Template for Convergence
 > [!warning] DM Secret

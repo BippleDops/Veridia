@@ -3,13 +3,13 @@ tags: [session, aquabyssos, political, temporal, paradox]
 session_number: 2
 title: "The Parliament's Paradox"
 date_played: 
-location: "[[02_Worldbuilding/Places/Parliament of Echoes]] - Debate Chambers"
+location: "[[Parliament of Echoes]] - Debate Chambers"
 depth: "1,800 feet"
 npcs_featured:
   - "[[Senator Glaucus]]"
   - "[[The Forgotten Representative]]"
   - "[[Time-Lost Delegate Chronus]]"
-  - "[[02_Worldbuilding/People/Shadow Duchess Nyx]]"
+  - "[[Shadow Duchess Nyx]]"
 quests_advanced:
   - "[[Shadow Conspiracy Investigation]]"
   - "[[Temporal Anomaly Resolution]]"

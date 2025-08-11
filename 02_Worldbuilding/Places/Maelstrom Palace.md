@@ -21,11 +21,11 @@ related_entities: ["[[Storm Empress Tempestas Maelstrom]]", "[[The Tempest Sover
 
 ## Overview
 
-Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[02_Worldbuilding/Places/Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[Storm Empress Tempestas Maelstrom]] and the seat of [[The Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
+Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[Storm Empress Tempestas Maelstrom]] and the seat of [[The Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
 
 The palace itself is a marvel of elemental engineering, constructed from crystallized storm energy, enchanted metals, and living coral that has been shaped by decades of magical weather manipulation. It rises and falls through the water column as the storm moves, sometimes breaking the surface during powerful updrafts, other times diving thousands of feet beneath the waves when the tempest's fury pulls it into the depths. This constant motion, combined with the protective barrier of the surrounding storm, makes the palace virtually impossible to approach without invitation - and utterly deadly to those who try.
 
-More than just a royal residence, Maelstrom Palace serves as the command center for one of [[02_Worldbuilding/Places/Aquabyssos]]'s most powerful maritime empires. From its storm-wreathed halls, the Storm Empress commands the [[Stormcaller Navy]], conducts diplomatic relations with other underwater nations, and maintains her grip on the trade routes that her mobile kingdom controls. The palace is simultaneously a fortress, a seat of government, a magical research center, and a symbol of absolute power over the forces of nature themselves.
+More than just a royal residence, Maelstrom Palace serves as the command center for one of [[Aquabyssos]]'s most powerful maritime empires. From its storm-wreathed halls, the Storm Empress commands the [[Stormcaller Navy]], conducts diplomatic relations with other underwater nations, and maintains her grip on the trade routes that her mobile kingdom controls. The palace is simultaneously a fortress, a seat of government, a magical research center, and a symbol of absolute power over the forces of nature themselves.
 
 The palace's unique nature creates a society unlike any other in the underwater realm. Courtiers and servants must be able to survive both underwater and aerial environments, often within the same day. The constant motion and extreme weather create a culture of adaptation, strength, and loyalty to the Storm Empress who provides the only stability in their chaotic world.
 
@@ -122,7 +122,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **The Master Suite**: A luxurious bedroom with a ceiling that opens to the sky during surface visits, allowing direct exposure to natural lightning. The bed is suspended in a null-gravity field, providing perfect rest regardless of the palace's motion or orientation.
 
-**The Storm Study**: Personal office containing charts of weather patterns throughout [[02_Worldbuilding/Places/Aquabyssos]], magical instruments for weather prediction and control, and communication devices for coordinating the Stormcaller Navy.
+**The Storm Study**: Personal office containing charts of weather patterns throughout [[Aquabyssos]], magical instruments for weather prediction and control, and communication devices for coordinating the Stormcaller Navy.
 
 **The Lightning Laboratory**: Private magical research facility where the Empress develops new weather magic and experiments with elemental fusion techniques. Contains some of the most dangerous and powerful magical equipment in existence.
 
@@ -220,7 +220,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **The Elemental Forge**: Manufacturing facility where the unique conditions of storm and depth are used to create impossible materials and magical items.
 
-**The Communication Deep**: Long-range messaging systems that can reach the deepest parts of [[02_Worldbuilding/Places/Aquabyssos]] and coordinate with other underwater empires.
+**The Communication Deep**: Long-range messaging systems that can reach the deepest parts of [[Aquabyssos]] and coordinate with other underwater empires.
 
 **The Emergency Shelters**: Heavily reinforced chambers designed to protect essential personnel if the storm ever fails or becomes uncontrollable.
 
@@ -277,7 +277,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 - **Innovation**: Constantly developing new applications for storm energy
 
 **House Tempest**: Diplomatic corps and intelligence services
-- **Function**: Foreign relations and information gathering throughout [[02_Worldbuilding/Places/Aquabyssos]]
+- **Function**: Foreign relations and information gathering throughout [[Aquabyssos]]
 - **Leader**: [[Marquis Storm Tempest]] - Master of spies and diplomacy  
 - **Network**: Agents and informants in every major underwater city
 - **Secrets**: Maintains extensive files on foreign leaders and potential threats
@@ -340,7 +340,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 
 **Fleet Size**: Over 200 ships ranging from fast scouts to massive storm-powered dreadnoughts
 **Personnel**: 15,000+ sailors, marines, and magical specialists
-**Territory**: Patrols and controls vast areas of ocean throughout [[02_Worldbuilding/Places/Aquabyssos]]
+**Territory**: Patrols and controls vast areas of ocean throughout [[Aquabyssos]]
 **Mobility**: Ships enhanced with weather magic for incredible speed and maneuverability
 **Communication**: Magical networks allow instant coordination across vast distances
 
@@ -583,7 +583,7 @@ The palace's unique nature creates a society unlike any other in the underwater 
 ### Economic Networks
 
 #### Trade Relationships
-**Commercial Connections**: The empire's economic ties throughout [[02_Worldbuilding/Places/Aquabyssos]]:
+**Commercial Connections**: The empire's economic ties throughout [[Aquabyssos]]:
 
 **[[The Merchant's Covenant]]**: Professional trading organization
 - **Protection Services**: Imperial navy provides security for merchant vessels

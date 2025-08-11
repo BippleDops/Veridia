@@ -12,8 +12,8 @@ race: Human (Void-Touched)
 class: Wizard (School of Necromancy) / Cleric (Death Domain)
 level: 13
 alignment: Chaotic Neutral
-location: "[[02_Worldbuilding/Places/The Abyssal Research Institute]]"
-faction: "[[02_Worldbuilding/Groups/The Biomancers]]"
+location: "[[The Abyssal Research Institute]]"
+faction: "[[The Biomancers]]"
 status: Alive (Ostracized but protected)
 created: 2025-08-09
 world: "Aquabyssos"
@@ -27,7 +27,7 @@ obsidianUIMode: preview
 *The Void Surgeon, Mistress of Life and Death, The Ethical Paradox*
 
 ## Overview
-Dr. Helena Voidwalker represents the cutting edge of medical research in [[02_Worldbuilding/Places/Aquabyssos]], pushing the boundaries of healing magic by incorporating void energy and necromantic principles. Once a celebrated healer, her controversial methods have made her a pariah among traditional healers, yet her results are undeniably effective. She operates from the depths of the research institute, where she treats the untreatable and explores the thin line between life and death.
+Dr. Helena Voidwalker represents the cutting edge of medical research in [[Aquabyssos]], pushing the boundaries of healing magic by incorporating void energy and necromantic principles. Once a celebrated healer, her controversial methods have made her a pariah among traditional healers, yet her results are undeniably effective. She operates from the depths of the research institute, where she treats the untreatable and explores the thin line between life and death.
 
 ## Appearance
 - **Build**: Tall and angular at 5'9", moves with surgical precision
@@ -83,7 +83,7 @@ Originally a traditional healer in the mid-depths medical district, Helena's lif
 ## Relationships
 
 ### Professional Network
-- [[02_Worldbuilding/Groups/The Biomancers]] - Fellow researchers and only colleagues who accept her methods
+- [[The Biomancers]] - Fellow researchers and only colleagues who accept her methods
 - **Dr. Marcus Bonechill** - Necromancer colleague who shares research techniques
 - **Nurse Adelaide Darkwater** - Devoted assistant who helps with procedures
 - **Professor Thaddeus Voidwright** - Void energy specialist and research partner
@@ -101,7 +101,7 @@ Originally a traditional healer in the mid-depths medical district, Helena's lif
 - Criminal volunteers - Exchange treatment for research participation
 
 ### Enemies and Opposition
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Considers her methods blasphemous
+- [[High Priestess Celeste Dawnbringer]] - Considers her methods blasphemous
 - **The Purification Order** - Religious zealots who want her destroyed
 - **Inspector Coralheart** - Investigating her for unethical experimentation
 - **The Families of the Failed** - Relatives of patients she couldn't save
@@ -112,7 +112,7 @@ Originally a traditional healer in the mid-depths medical district, Helena's lif
 > - Maintains a secret ward of "failed" experiments that are still technically alive
 > - Her void exposure was partially intentional - she wanted to understand the phenomenon
 > - Has discovered how to transfer consciousness between bodies
-> - Secretly treats members of the [[02_Worldbuilding/Groups/Shadow Parliament]]
+> - Secretly treats members of the [[Shadow Parliament]]
 > - Plans to achieve immortality through void-enhanced necromancy
 > - Her research notes contain the key to curing void corruption permanently
 
@@ -195,18 +195,18 @@ Helena has developed several revolutionary treatments:
 - Her void corruption provides ticking clock element for storylines
 
 ## Connected NPCs
-- [[02_Worldbuilding/Groups/The Biomancers]] - Professional colleagues
-- [[02_Worldbuilding/People/High Priestess Celeste Dawnbringer]] - Ideological opponent
-- [[02_Worldbuilding/People/Brother Marcus Steelbane]] - Philosophical disagreement about healing
+- [[The Biomancers]] - Professional colleagues
+- [[High Priestess Celeste Dawnbringer]] - Ideological opponent
+- [[Brother Marcus Steelbane]] - Philosophical disagreement about healing
 - **Jin "Sparkfingers" Goldwright** - Mutual respect for dangerous research
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Abyssal Research Institute]] - Primary workplace
-- [[02_Worldbuilding/Places/Aquabyssos Prime]] - Operates in the shadows of the city
-- [[02_Worldbuilding/Places/The Void Chambers]] - Conducts dangerous experiments
-- [[02_Worldbuilding/Places/Medical District]] - Former workplace, now banned
+- [[The Abyssal Research Institute]] - Primary workplace
+- [[Aquabyssos Prime]] - Operates in the shadows of the city
+- [[The Void Chambers]] - Conducts dangerous experiments
+- [[Medical District]] - Former workplace, now banned
 
 ## Involved Quests
-- [[02_Worldbuilding/Quests/Quest - The Void Plague]] - Only she can develop a cure
-- [[02_Worldbuilding/Quests/Quest - Medical Ethics]] - Trial for her controversial methods
-- [[02_Worldbuilding/Quests/Quest - The Resurrection Request]] - Bring back someone important
+- [[Quest - The Void Plague]] - Only she can develop a cure
+- [[Quest - Medical Ethics]] - Trial for her controversial methods
+- [[Quest - The Resurrection Request]] - Bring back someone important

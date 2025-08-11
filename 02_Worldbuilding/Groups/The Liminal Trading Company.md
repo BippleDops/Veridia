@@ -18,7 +18,7 @@ created: 2025-08-09
 *Masters of Between-World Commerce, The Dimensional Merchants*
 
 ## Overview
-The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[The Floating Market]]—a dimensional nexus that exists partially in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
+The Liminal Trading Company has built a vast commercial empire based on the simple principle that different worlds have different resources, and where there are differences, there is profit. Operating from [[The Floating Market]]—a dimensional nexus that exists partially in both [[Aethermoor]] and [[Aquabyssos]]—they facilitate trade between the realms while maintaining careful political neutrality. Their success comes from being indispensable to both worlds while belonging fully to neither.
 
 ## Business Model
 ### Cross-Realm Arbitrage
@@ -105,14 +105,14 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 
 ### Governmental Relations
 #### Aethermoor Connections
-- **[[02_Worldbuilding/Groups/The Crystal Throne]]**: Major customer for rare Aquabyssos resources
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Competitive relationship, occasional partnerships
-- **[[02_Worldbuilding/Groups/Purist Coalition]]**: Tense relations due to "foreign corruption" concerns
+- **[[The Crystal Throne]]**: Major customer for rare Aquabyssos resources
+- **[[Silverscale Consortium]]**: Competitive relationship, occasional partnerships
+- **[[Purist Coalition]]**: Tense relations due to "foreign corruption" concerns
 - **Local Governments**: Mutually beneficial trade relationships
 
 #### Aquabyssos Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Provides rare Aethermoor goods to government
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Historical trade agreements from before scattering
+- **[[Parliament of Echoes]]**: Provides rare Aethermoor goods to government
+- **[[The Scattered Emperor]]**: Historical trade agreements from before scattering
 - **[[Memory Farmers]]**: Complex relationship involving memory commoditization
 - **Regional Authorities**: Essential supplier of foreign goods and services
 
@@ -127,11 +127,11 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 
 ### Joining the Company
 #### Employment Requirements
-- Demonstrated skill in [[02_Worldbuilding/Skills/Cross-Cultural Communication]]
-- Clean legal record in both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]]
-- Ability to handle [[02_Worldbuilding/Hazards/Dimensional Travel Stress]]
+- Demonstrated skill in [[Cross-Cultural Communication]]
+- Clean legal record in both [[Aethermoor]] and [[Aquabyssos]]
+- Ability to handle [[Dimensional Travel Stress]]
 - Proven trustworthiness with valuable or sensitive cargo
-- Basic understanding of [[02_Worldbuilding/Concepts/Inter-Dimensional Commerce]]
+- Basic understanding of [[Inter-Dimensional Commerce]]
 
 ### Company Hierarchy
 1. **Portal Apprentice**: New employees learning basic dimensional travel
@@ -144,61 +144,61 @@ The Liminal Trading Company has built a vast commercial empire based on the simp
 8. **Executive Council Member**: Leadership positions with Company-wide authority
 
 #### Specialized Roles
-- **Quantum Accountants**: Handle [[02_Worldbuilding/Finance/Cross-Dimensional Currency]]
-- **Diplomatic Couriers**: Carry sensitive messages between [[02_Worldbuilding/Governments/Realm Authorities]]
-- **Reality Technicians**: Maintain [[02_Worldbuilding/Equipment/Portal Technology]]
-- **Cultural Translators**: Bridge communication gaps using [[02_Worldbuilding/Magic/Universal Translation]]
-- **Neutral Arbitrators**: Resolve disputes in [[02_Worldbuilding/Locations/The Floating Market]]
+- **Quantum Accountants**: Handle [[Cross-Dimensional Currency]]
+- **Diplomatic Couriers**: Carry sensitive messages between [[Realm Authorities]]
+- **Reality Technicians**: Maintain [[Portal Technology]]
+- **Cultural Translators**: Bridge communication gaps using [[Universal Translation]]
+- **Neutral Arbitrators**: Resolve disputes in [[The Floating Market]]
 
 ### Partnership Programs
 #### Merchant Associates
 - Independent traders with Company contracts
-- Access to [[02_Worldbuilding/Services/Portal Network]] at reduced rates
-- Shared intelligence about [[02_Worldbuilding/Markets/Cross-Realm Opportunities]]
-- Protection under [[02_Worldbuilding/Treaties/Neutral Commerce Agreements]]
+- Access to [[Portal Network]] at reduced rates
+- Shared intelligence about [[Cross-Realm Opportunities]]
+- Protection under [[Neutral Commerce Agreements]]
 
 #### Corporate Clients
 - Major factions requiring regular cross-realm services
 - Bulk shipping discounts and priority scheduling
 - Custom solutions for unique transportation needs
-- Exclusive access to rare [[02_Worldbuilding/Resources/Inter-Dimensional Commodities]]
+- Exclusive access to rare [[Inter-Dimensional Commodities]]
 
 ## Services & Capabilities
 ### Transportation Services
-- **Standard Portal Travel**: Safe passage between established [[02_Worldbuilding/Locations/Portal Terminals]]
-- **Luxury Dimensional Tours**: Guided experiences for wealthy tourists via [[02_Worldbuilding/Services/Cross-Realm Tourism]]
-- **Emergency Evacuation**: Rapid extraction from dangerous situations using [[02_Worldbuilding/Protocols/Crisis Portal Procedures]]
-- **Cargo Transport**: Shipping goods through [[02_Worldbuilding/Infrastructure/Dimensional Freight Network]]
+- **Standard Portal Travel**: Safe passage between established [[Portal Terminals]]
+- **Luxury Dimensional Tours**: Guided experiences for wealthy tourists via [[Cross-Realm Tourism]]
+- **Emergency Evacuation**: Rapid extraction from dangerous situations using [[Crisis Portal Procedures]]
+- **Cargo Transport**: Shipping goods through [[Dimensional Freight Network]]
 - **Diplomatic Transport**: Secure travel for government officials and ambassadors
 
 ### Financial Services
-- **Currency Exchange**: Converting between [[02_Worldbuilding/Economy/Aethermoor Crystal Standards]] and [[02_Worldbuilding/Economy/Aquabyssos Memory Currency]]
-- **Cross-Realm Banking**: Secure storage and transfer through [[02_Worldbuilding/Finance/Dimensional Vaults]]
-- **Investment Opportunities**: Funding ventures in both realms via [[02_Worldbuilding/Business/Inter-Dimensional Investment Fund]]
+- **Currency Exchange**: Converting between [[Aethermoor Crystal Standards]] and [[Aquabyssos Memory Currency]]
+- **Cross-Realm Banking**: Secure storage and transfer through [[Dimensional Vaults]]
+- **Investment Opportunities**: Funding ventures in both realms via [[Inter-Dimensional Investment Fund]]
 - **Trade Insurance**: Protection against portal accidents and dimensional hazards
-- **Market Analysis**: Intelligence reports on [[02_Worldbuilding/Economics/Cross-Realm Trade Trends]]
+- **Market Analysis**: Intelligence reports on [[Cross-Realm Trade Trends]]
 
 ### Information & Communication
-- **Market Intelligence**: Current prices and demand for [[02_Worldbuilding/Commodities/Cross-Realm Goods]]
-- **Cultural Consulting**: Guidance on customs and etiquette through [[02_Worldbuilding/Experts/Cultural Specialists]]
+- **Market Intelligence**: Current prices and demand for [[Cross-Realm Goods]]
+- **Cultural Consulting**: Guidance on customs and etiquette through [[Cultural Specialists]]
 - **Political Updates**: News about conditions affecting trade in either realm
-- **Secure Messaging**: Encrypted communication via [[02_Worldbuilding/Technology/Quantum Message Network]]
-- **Translation Services**: Professional interpretation using [[02_Worldbuilding/Personnel/Dimensional Linguists]]
+- **Secure Messaging**: Encrypted communication via [[Quantum Message Network]]
+- **Translation Services**: Professional interpretation using [[Dimensional Linguists]]
 
 ### Specialized Offerings
-- **Neutral Venue Rental**: Access to [[02_Worldbuilding/Locations/The Floating Market]] for meetings
-- **Diplomatic Facilitation**: Mediating disputes through [[02_Worldbuilding/Departments/Conflict Resolution Division]]
+- **Neutral Venue Rental**: Access to [[The Floating Market]] for meetings
+- **Diplomatic Facilitation**: Mediating disputes through [[Conflict Resolution Division]]
 - **Custom Procurement**: Acquiring specific items from either realm
-- **Reality Stabilization**: Technical support for [[02_Worldbuilding/Hazards/Dimensional Instabilities]]
+- **Reality Stabilization**: Technical support for [[Dimensional Instabilities]]
 - **Emergency Services**: 24/7 support for travelers in distress
 
 ### What They Require
-- Standard currency from either realm or [[02_Worldbuilding/Finance/Company Credit]]
-- Unique items for their [[02_Worldbuilding/Collections/Inter-Dimensional Artifacts Museum]]
+- Standard currency from either realm or [[Company Credit]]
+- Unique items for their [[Inter-Dimensional Artifacts Museum]]
 - Information about new markets or opportunities
 - Protection services for Company assets and personnel
 - Exclusive trading rights or business partnerships
-- Compliance with [[02_Worldbuilding/Regulations/Cross-Realm Commerce Laws]]
+- Compliance with [[Cross-Realm Commerce Laws]]
 
 ## Moral Complexity
 ### The Profit Dilemma
@@ -280,40 +280,40 @@ The Company operates under the fundamental principle that economic prosperity cr
 - **International Banking**: Currency exchange and cross-realm financial services
 
 #### Luxury & Exotic Goods
-- **[[02_Worldbuilding/Services/Exclusive Experiences]]**: Unique adventures only possible between realms
-- **[[02_Worldbuilding/Products/Fusion Artifacts]]**: Items combining both realms' properties
-- **[[02_Worldbuilding/Services/Custom Commissions]]**: Bespoke products designed for specific clients
-- **[[02_Worldbuilding/Products/Memory Souvenirs]]**: Packaged experiences from both worlds
-- **[[02_Worldbuilding/Services/Elite Transport]]**: First-class dimensional travel services
+- **[[Exclusive Experiences]]**: Unique adventures only possible between realms
+- **[[Fusion Artifacts]]**: Items combining both realms' properties
+- **[[Custom Commissions]]**: Bespoke products designed for specific clients
+- **[[Memory Souvenirs]]**: Packaged experiences from both worlds
+- **[[Elite Transport]]**: First-class dimensional travel services
 
 #### Information & Intelligence
-- **[[02_Worldbuilding/Services/Market Analysis]]**: Detailed economic forecasting for both realms
-- **[[02_Worldbuilding/Services/Political Risk Assessment]]**: Evaluation of government stability
-- **[[02_Worldbuilding/Services/Cultural Consulting]]**: Expertise on customs and business practices
-- **[[02_Worldbuilding/Services/Competitive Intelligence]]**: Research on business rivals and opportunities
-- **[[02_Worldbuilding/Services/Regulatory Guidance]]**: Navigation of complex multi-realm legal requirements
+- **[[Market Analysis]]**: Detailed economic forecasting for both realms
+- **[[Political Risk Assessment]]**: Evaluation of government stability
+- **[[Cultural Consulting]]**: Expertise on customs and business practices
+- **[[Competitive Intelligence]]**: Research on business rivals and opportunities
+- **[[Regulatory Guidance]]**: Navigation of complex multi-realm legal requirements
 
 ### Corporate Assets
 #### The Floating Market Infrastructure
-- **[[02_Worldbuilding/Locations/The Grand Exchange]]**: Central trading floor for major commodities
-- **[[02_Worldbuilding/Locations/Embassy Row]]**: Diplomatic quarter with faction representatives
-- **[[02_Worldbuilding/Locations/Cultural Centers]]**: Education and entertainment facilities
-- **[[02_Worldbuilding/Locations/Technical Quarter]]**: Research and development facilities
-- **[[02_Worldbuilding/Locations/Residential Districts]]**: Housing for permanent staff and long-term clients
+- **[[The Grand Exchange]]**: Central trading floor for major commodities
+- **[[Embassy Row]]**: Diplomatic quarter with faction representatives
+- **[[Cultural Centers]]**: Education and entertainment facilities
+- **[[Technical Quarter]]**: Research and development facilities
+- **[[Residential Districts]]**: Housing for permanent staff and long-term clients
 
 #### Portal Network Management
-- **[[02_Worldbuilding/Infrastructure/Primary Gateways]]**: Major transport hubs in both realms
-- **[[02_Worldbuilding/Infrastructure/Express Routes]]**: Fast connections for priority cargo
-- **[[02_Worldbuilding/Infrastructure/Security Checkpoints]]**: Screening facilities for dangerous goods
-- **[[02_Worldbuilding/Infrastructure/Emergency Exits]]**: Safety systems for portal failures
-- **[[02_Worldbuilding/Infrastructure/Maintenance Stations]]**: Technical support for dimensional equipment
+- **[[Primary Gateways]]**: Major transport hubs in both realms
+- **[[Express Routes]]**: Fast connections for priority cargo
+- **[[Security Checkpoints]]**: Screening facilities for dangerous goods
+- **[[Emergency Exits]]**: Safety systems for portal failures
+- **[[Maintenance Stations]]**: Technical support for dimensional equipment
 
 #### Financial Systems
-- **[[02_Worldbuilding/Finance/Multi-Realm Banking]]**: Accounts accessible from either world
-- **[[02_Worldbuilding/Finance/Currency Stabilization]]**: Exchange rate management systems
-- **[[02_Worldbuilding/Finance/Investment Funds]]**: Portfolios spanning both realm economies
-- **[[02_Worldbuilding/Finance/Insurance Cooperative]]**: Risk sharing for dimensional commerce
-- **[[02_Worldbuilding/Finance/Credit Networks]]**: Lending services for cross-realm businesses
+- **[[Multi-Realm Banking]]**: Accounts accessible from either world
+- **[[Currency Stabilization]]**: Exchange rate management systems
+- **[[Investment Funds]]**: Portfolios spanning both realm economies
+- **[[Insurance Cooperative]]**: Risk sharing for dimensional commerce
+- **[[Credit Networks]]**: Lending services for cross-realm businesses
 
 ## Corporate Secrets & Scandals
 
@@ -330,7 +330,7 @@ This mysterious figure is actually an artificial intelligence created from the m
 Some executives have discovered they can profit from creating minor conflicts and trade disruptions, then offering expensive solutions to problems they secretly caused.
 
 ### The Convergence Investment
-The Company has secretly invested heavily in [[02_Worldbuilding/Groups/The Convergence Seekers]], believing merged worlds would create unprecedented business opportunities despite massive initial disruption.
+The Company has secretly invested heavily in [[The Convergence Seekers]], believing merged worlds would create unprecedented business opportunities despite massive initial disruption.
 
 ## Crisis Management & Emergency Protocols
 
@@ -358,11 +358,11 @@ The Company has secretly invested heavily in [[02_Worldbuilding/Groups/The Conve
 
 ### Corporate Defense
 #### Security Services
-- **[[02_Worldbuilding/Personnel/Dimensional Security Guards]]**: Armed protection for high-value shipments
-- **[[02_Worldbuilding/Personnel/Corporate Investigators]]**: Private detectives handling internal and external threats
-- **[[02_Worldbuilding/Personnel/Negotiation Specialists]]**: Experts in resolving conflicts through economic pressure
-- **[[02_Worldbuilding/Personnel/Risk Assessment Teams]]**: Analysts who evaluate and mitigate business dangers
-- **[[02_Worldbuilding/Personnel/Emergency Response Coordinators]]**: Crisis management specialists
+- **[[Dimensional Security Guards]]**: Armed protection for high-value shipments
+- **[[Corporate Investigators]]**: Private detectives handling internal and external threats
+- **[[Negotiation Specialists]]**: Experts in resolving conflicts through economic pressure
+- **[[Risk Assessment Teams]]**: Analysts who evaluate and mitigate business dangers
+- **[[Emergency Response Coordinators]]**: Crisis management specialists
 
 #### Legal Protection
 - Lawyers specializing in inter-dimensional commerce law

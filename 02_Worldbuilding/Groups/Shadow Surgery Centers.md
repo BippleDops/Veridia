@@ -23,7 +23,7 @@ obsidianUIMode: preview
 *The Umbral Medical Network, Practitioners of Darkness, The Shadow Healers*
 
 ## Overview
-The Shadow Surgery Centers represent a revolutionary medical organization in [[02_Worldbuilding/Places/Aquabyssos]] that specializes in shadow-based surgical procedures, offering treatments impossible through conventional medicine. What began as legitimate medical research into shadow therapeutics has evolved into a network of underground clinics performing everything from memory extraction to identity transplants. They operate in the gray area between healing and harm, providing miraculous cures while conducting ethically questionable experiments on the nature of shadow and identity.
+The Shadow Surgery Centers represent a revolutionary medical organization in [[Aquabyssos]] that specializes in shadow-based surgical procedures, offering treatments impossible through conventional medicine. What began as legitimate medical research into shadow therapeutics has evolved into a network of underground clinics performing everything from memory extraction to identity transplants. They operate in the gray area between healing and harm, providing miraculous cures while conducting ethically questionable experiments on the nature of shadow and identity.
 
 ## History
 
@@ -32,7 +32,7 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 - Founded by Dr. Penumbra Voidheart following breakthrough research in shadow therapeutics
 - Initial focus on treating shadow-corruption injuries and diseases
 - Discovered shadow manipulation could cure previously incurable conditions
-- Established first clinic in abandoned district of [[02_Worldbuilding/Places/Abyssos Prime]]
+- Established first clinic in abandoned district of [[Abyssos Prime]]
 - Began recruiting shadow-touched medical professionals
 
 ### Expansion Period (25-15 Years Ago)
@@ -40,7 +40,7 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 - Opened additional clinics throughout shadow-influenced areas
 - Developed standardized shadow surgical techniques and training
 - Created secret medical supply chains for shadow-enhanced materials
-- Established connections with [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
+- Established connections with [[The Shadow Conspiracy]]
 - Began experimental procedures on willing volunteers
 
 ### The Dark Discovery (15-10 Years Ago)
@@ -53,9 +53,9 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 
 ### Modern Operations (Last 10 Years)
 **Medical Shadow Empire**
-- Network of 20+ facilities across [[02_Worldbuilding/Places/Aquabyssos]]
+- Network of 20+ facilities across [[Aquabyssos]]
 - Advancement to full identity transplantation procedures
-- Integration with [[02_Worldbuilding/Groups/The Shadow Conspiracy]] replacement operations
+- Integration with [[The Shadow Conspiracy]] replacement operations
 - Development of combat medical support for shadow operatives
 - Research into reversing shadow corruption and memory restoration
 
@@ -190,7 +190,7 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 #### Project Total Replacement
 **Mass Identity Transfer**
 - Develop procedures for population-scale identity replacement
-- Create shadow double factories for [[02_Worldbuilding/Groups/The Shadow Conspiracy]]
+- Create shadow double factories for [[The Shadow Conspiracy]]
 - Perfect memory transfer techniques for seamless replacement
 - Establish rapid processing centers for high-volume operations
 - Research permanent consciousness preservation methods
@@ -223,29 +223,29 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 
 ### Medical Community
 - **Conventional Doctors**: Some collaborate, others oppose unethical practices
-- **[[02_Worldbuilding/Places/Aquabyssos]] Medical Guild**: Complicated relationship, some overlap
+- **[[Aquabyssos]] Medical Guild**: Complicated relationship, some overlap
 - **Shadow-Touched Healers**: Primary recruitment source and allied professionals
 - **Research Institutions**: Secret collaboration on shadow medicine studies
 - **Medical Supply Companies**: Legitimate and black market procurement relationships
 
 ### Shadow Organizations
-- **[[02_Worldbuilding/Groups/The Shadow Conspiracy]]**: Primary contractor for replacement operations
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Complex relationship - uses services but threatens independence
+- **[[The Shadow Conspiracy]]**: Primary contractor for replacement operations
+- **[[Shadow Duchess Nyx]]**: Complex relationship - uses services but threatens independence
 - **[[Memory Farmers]]**: Competitive relationship over memory extraction markets
 - **[[Shadow Underground]]**: Provide cover and protection for illegal operations
 - **[[Dark Market Traders]]**: Supply chain for exotic materials and equipment
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]**: Officially unknown but some members are clients
+- **[[Parliament of Echoes]]**: Officially unknown but some members are clients
 - **Medical Regulators**: Constant threat of investigation and shutdown
-- **[[02_Worldbuilding/People/Empress Tethys the Ever-Drowning]]**: Unknown official position but suspected monitoring
+- **[[Empress Tethys the Ever-Drowning]]**: Unknown official position but suspected monitoring
 - **Law Enforcement**: Bribe or avoid detection from conventional authorities
 - **Court System**: Legal challenges to shadow medicine legitimacy
 
 ### Complex Relationships
 - **Patients & Families**: Range from grateful to horrified by treatments
 - **Religious Organizations**: Moral opposition to consciousness manipulation
-- **[[02_Worldbuilding/People/The Scattered Emperor]]**: Potential client but extreme paranoia complications
+- **[[The Scattered Emperor]]**: Potential client but extreme paranoia complications
 - **Foreign Medical Systems**: International implications of shadow medicine
 - **Ethics Committees**: Constant moral and legal challenges to practices
 
@@ -400,16 +400,16 @@ The Shadow Surgery Centers represent a revolutionary medical organization in [[0
 
 ### Key NPCs
 - **[[Dr. Penumbra Voidheart]]** - Founder and chief medical officer
-- **[[02_Worldbuilding/People/Shadow Duchess Nyx]]** - Complicated client relationship
-- **[[02_Worldbuilding/People/The Scattered Emperor]]** - Potential paranoid patient
+- **[[Shadow Duchess Nyx]]** - Complicated client relationship
+- **[[The Scattered Emperor]]** - Potential paranoid patient
 - **[[Dr. Shade Scalpel]]** - Senior surgeon and operations coordinator
 - **[[Professor Umbra Studies]]** - Chief researcher and experimental designer
 
 ### Related Locations
 - **[[The Umbral Infirmary]]** - Primary medical facility
-- **[[02_Worldbuilding/Places/Abyssos Prime]]** - Location of original clinic
+- **[[Abyssos Prime]]** - Location of original clinic
 - **[[Memory Extraction Laboratory]]** - Consciousness research center
-- **[[02_Worldbuilding/Places/The Memory Meadows]]** - Competitor/collaborator
+- **[[The Memory Meadows]]** - Competitor/collaborator
 - **[[Shadow Animation Chamber]]** - Shadow being creation facility
 
 ### Associated Quests

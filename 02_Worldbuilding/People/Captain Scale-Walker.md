@@ -10,8 +10,8 @@ race: Lizardfolk
 class: Ranger/Navigator
 level: 12
 alignment: Neutral Good
-location: [[02_Worldbuilding/Places/The Harbor Depths]]
-faction: [[02_Worldbuilding/Groups/Independent Smugglers]]
+location: [[The Harbor Depths]]
+faction: [[Independent Smugglers]]
 status: Active
 created: 2025-08-09
 image: "04_Resources/Assets/NPCs/captain_scale_walker.jpg"
@@ -25,7 +25,7 @@ obsidianUIMode: preview
 *The Deep Navigator, Keeper of Ancient Routes*
 
 ## Overview
-Captain Scale-Walker is a weathered lizardfolk mariner who commands respect in the deepest waters of [[02_Worldbuilding/Places/Aquabyssos]]. Born in the twilight depths where light barely penetrates, he has spent decades mapping the treacherous passages between the surface waters and the abyssal plains. His ship, *The Serpent's Current*, is one of the few vessels capable of navigating the crushing pressures and strange currents that guard Aquabyssos's most valuable secrets.
+Captain Scale-Walker is a weathered lizardfolk mariner who commands respect in the deepest waters of [[Aquabyssos]]. Born in the twilight depths where light barely penetrates, he has spent decades mapping the treacherous passages between the surface waters and the abyssal plains. His ship, *The Serpent's Current*, is one of the few vessels capable of navigating the crushing pressures and strange currents that guard Aquabyssos's most valuable secrets.
 
 ## Appearance
 - **Age**: 78 (middle-aged for lizardfolk)
@@ -43,11 +43,11 @@ Captain Scale-Walker is a weathered lizardfolk mariner who commands respect in t
 - **Flaws**: Obsessed with finding the legendary "Deepest Current" - a mythical passage to the ocean floor
 
 ## Background
-- Hatched in the [[02_Worldbuilding/Places/The Cerulean Trench]], raised by deep-dwelling lizardfolk
+- Hatched in the [[The Cerulean Trench]], raised by deep-dwelling lizardfolk
 - Learned navigation from his grandmother, who claimed descent from the first navigators
-- Served briefly in the [[02_Worldbuilding/Groups/The Crown]] navy before deserting over moral conflicts
+- Served briefly in the [[The Crown]] navy before deserting over moral conflicts
 - Discovered three previously unknown deep-water passages
-- Has survived encounters with [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s scouts
+- Has survived encounters with [[Aboleth Prime Yoth]]'s scouts
 
 ## The Ship: *The Serpent's Current*
 
@@ -124,15 +124,15 @@ Captain Scale-Walker is a weathered lizardfolk mariner who commands respect in t
 ## Relationships
 
 ### Major Factions
-- **[[02_Worldbuilding/Groups/Independent Smugglers]]**: Respected leader, provides safe passage through dangerous waters
-- **[[02_Worldbuilding/Groups/The Crown]]**: Former deserter, wanted for questioning but not actively pursued
-- **[[02_Worldbuilding/Groups/Silverscale Consortium]]**: Neutral trading partner, they respect his routes but question his methods
-- **[[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]]**: Cautious alliance - she values his knowledge but distrusts his independence
-- **[[02_Worldbuilding/People/Emperor Thalassius]]**: Views him as a useful asset but potential threat to imperial control
+- **[[Independent Smugglers]]**: Respected leader, provides safe passage through dangerous waters
+- **[[The Crown]]**: Former deserter, wanted for questioning but not actively pursued
+- **[[Silverscale Consortium]]**: Neutral trading partner, they respect his routes but question his methods
+- **[[Ambassador Nerida Deepcurrent]]**: Cautious alliance - she values his knowledge but distrusts his independence
+- **[[Emperor Thalassius]]**: Views him as a useful asset but potential threat to imperial control
 
 ### Personal Connections
-- **[[02_Worldbuilding/People/Captain Marrow Drinker]]**: Rival and occasional ally - they compete for the same smuggling routes
-- **[[02_Worldbuilding/People/Admiral Cassandra Stormwind]]**: His former commander who still respects his skills
+- **[[Captain Marrow Drinker]]**: Rival and occasional ally - they compete for the same smuggling routes
+- **[[Admiral Cassandra Stormwind]]**: His former commander who still respects his skills
 - **Deep Sage Torrentia**: Elderly sea elf who taught him the deepest navigation secrets
 - **The Kraken of Meridian Deep**: Ancient entity that granted him safe passage in exchange for periodic offerings
 
@@ -152,9 +152,9 @@ Captain Scale-Walker is a weathered lizardfolk mariner who commands respect in t
 - **Emergency Routes**: Secret passages known only to him, used for desperate situations
 
 ### Safe Houses
-- Coral cave system in the [[02_Worldbuilding/Places/The Cerulean Trench]]
-- Abandoned research station in [[02_Worldbuilding/Places/The Hadal Depths]]
-- Hidden dock in the ruins beneath [[02_Worldbuilding/Places/New Thalassopolis]]
+- Coral cave system in the [[The Cerulean Trench]]
+- Abandoned research station in [[The Hadal Depths]]
+- Hidden dock in the ruins beneath [[New Thalassopolis]]
 
 ## Quest Hooks
 
@@ -164,34 +164,34 @@ Scale-Walker has finally located signs of the legendary Deepest Current - a pass
 
 ### The Refugee Crisis
 **Level**: 5-9  
-A group of deep-dwelling refugees needs transport to safe waters, but their passage is blocked by [[02_Worldbuilding/People/Admiral Cassandra Stormwind]]'s fleet. Scale-Walker asks the party to create a distraction or negotiate safe passage while he smuggles them through the deep routes.
+A group of deep-dwelling refugees needs transport to safe waters, but their passage is blocked by [[Admiral Cassandra Stormwind]]'s fleet. Scale-Walker asks the party to create a distraction or negotiate safe passage while he smuggles them through the deep routes.
 
 ### The Coral Conspiracy
 **Level**: 6-10  
-Scale-Walker's ship has become infected with an unknown coral that seems to be changing its behavior. The coral whispers in an ancient language and appears to be guiding the ship toward [[02_Worldbuilding/Places/The Primordial Vaults]]. He needs help determining if this is a blessing or a curse.
+Scale-Walker's ship has become infected with an unknown coral that seems to be changing its behavior. The coral whispers in an ancient language and appears to be guiding the ship toward [[The Primordial Vaults]]. He needs help determining if this is a blessing or a curse.
 
 ### The Deep Alliance
 **Level**: 10-15  
-[[02_Worldbuilding/People/Aboleth Prime Yoth]]'s forces are moving in the deepest waters, and Scale-Walker has been chosen to carry messages between surface powers and the deep dwellers. The party must protect him during negotiations while navigating the political complexities of an alliance between species that have been enemies for millennia.
+[[Aboleth Prime Yoth]]'s forces are moving in the deepest waters, and Scale-Walker has been chosen to carry messages between surface powers and the deep dwellers. The party must protect him during negotiations while navigating the political complexities of an alliance between species that have been enemies for millennia.
 
 ### The Lost Expedition
 **Level**: 7-11  
-A research expedition funded by [[02_Worldbuilding/People/Castellan Ironledger III]] has gone missing in the deep trenches. Scale-Walker was hired to find them, but the area they disappeared in is controlled by something that even he fears to approach. The party must help him mount a rescue operation.
+A research expedition funded by [[Castellan Ironledger III]] has gone missing in the deep trenches. Scale-Walker was hired to find them, but the area they disappeared in is controlled by something that even he fears to approach. The party must help him mount a rescue operation.
 
 ## Secrets & Hidden Knowledge
 
 ### What He Knows
 - The location of three unmapped abyssal cities
-- The true extent of [[02_Worldbuilding/People/Aboleth Prime Yoth]]'s influence
+- The true extent of [[Aboleth Prime Yoth]]'s influence
 - Ancient lizardfolk prophecies about the "Great Rising"
 - The real reason he deserted from the imperial navy
 - Location of a pre-Drowning vault containing navigational instruments
 
 ### What He Suspects
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] is not telling the truth about her origins
+- [[Ambassador Nerida Deepcurrent]] is not telling the truth about her origins
 - The deep currents are changing in response to something stirring in the deepest waters
-- [[02_Worldbuilding/People/Captain Thaddeus Blackwater]]'s expedition found something in the surface world that affects the deep
-- There is a connection between the crystal corruption in [[02_Worldbuilding/Places/Aethermoor]] and changes in Aquabyssos
+- [[Captain Thaddeus Blackwater]]'s expedition found something in the surface world that affects the deep
+- There is a connection between the crystal corruption in [[Aethermoor]] and changes in Aquabyssos
 
 ## Roleplaying Notes
 
@@ -215,21 +215,21 @@ A research expedition funded by [[02_Worldbuilding/People/Castellan Ironledger I
 - Maintain the balance between surface and deep civilizations
 
 ## Connected NPCs
-- [[02_Worldbuilding/People/Captain Marrow Drinker]] - Rival smuggler
-- [[02_Worldbuilding/People/Admiral Cassandra Stormwind]] - Former commander
-- [[02_Worldbuilding/People/Ambassador Nerida Deepcurrent]] - Political contact
-- [[02_Worldbuilding/People/Emperor Thalassius]] - Distant authority figure
-- [[02_Worldbuilding/People/Aboleth Prime Yoth]] - Ancient enemy
+- [[Captain Marrow Drinker]] - Rival smuggler
+- [[Admiral Cassandra Stormwind]] - Former commander
+- [[Ambassador Nerida Deepcurrent]] - Political contact
+- [[Emperor Thalassius]] - Distant authority figure
+- [[Aboleth Prime Yoth]] - Ancient enemy
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Cerulean Trench]] - Birthplace
-- [[02_Worldbuilding/Places/The Harbor Depths]] - Current base of operations
-- [[02_Worldbuilding/Places/The Hadal Depths]] - Deep territory
-- [[02_Worldbuilding/Places/The Primordial Vaults]] - Mysterious destination
-- [[02_Worldbuilding/Places/New Thalassopolis]] - Trading port
+- [[The Cerulean Trench]] - Birthplace
+- [[The Harbor Depths]] - Current base of operations
+- [[The Hadal Depths]] - Deep territory
+- [[The Primordial Vaults]] - Mysterious destination
+- [[New Thalassopolis]] - Trading port
 
 ## Related Quests
-- [[02_Worldbuilding/Quests/Smuggler's Gambit]] - Primary smuggling operations
+- [[Smuggler's Gambit]] - Primary smuggling operations
 - [[Quest - The Deep Alliance]] - Political negotiations
 - [[Quest - The Deepest Current]] - Personal obsession
 - [[Quest - Refugees of the Deep]] - Humanitarian missions

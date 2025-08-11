@@ -24,7 +24,7 @@ specialization_required: "Temporal Engineering Certification"
 
 ## Overview
 
-Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes.
+Temporal Anomaly Resolution represents the most sophisticated and dangerous branch of magical engineering dedicated to detecting, containing, and correcting disruptions in the normal flow of time. As the merger between [[Aquabyssos]] and [[Aethermoor]] creates increasingly unstable temporal conditions, these specialized services have become essential for maintaining causality and preventing reality-threatening temporal paradoxes.
 
 The service operates through a network of highly trained temporal engineers, chronological researchers, and reality stabilization specialists who work around the clock to monitor temporal flows across both realms. Using advanced detection equipment and specialized containment techniques, these teams respond to everything from minor temporal hiccups to major causality crises that could threaten the fundamental structure of time itself.
 
@@ -601,8 +601,8 @@ Working with Temporal Anomaly Resolution provides unique character development o
 - **[[Pressure Adaptation System]]**: Parallel system addressing physical rather than temporal environmental challenges
 
 ### Key Locations
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
-- **[[02_Worldbuilding/Places/Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
+- **[[Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
+- **[[Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
 - **[[Temporal Engineering Institute]]**: Primary research and training facility for temporal anomaly resolution
 - **[[Crisis Command Center]]**: Coordination facility for major temporal emergencies
 - **[[Temporal Stabilization Network]]**: Infrastructure maintaining temporal stability across both realms

@@ -1,7 +1,7 @@
 ---
 tags: [location, aquabyssos, abyssos-prime, garden, horror]
 location_type: "District"
-parent_location: "[[02_Worldbuilding/Places/Abyssos Prime]]"
+parent_location: "[[Abyssos Prime]]"
 depth: 1500
 danger_level: 7
 population: "Variable (50-500 trapped souls)"
@@ -187,7 +187,7 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 ## Connections
 
 ### To Aethermoor
-The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
+The gardens exist partially in [[Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
 
 ### To Other Districts
 - **Parliament of Echoes**: Executions performed here end in the gardens
@@ -220,15 +220,15 @@ The gardens exist partially in [[02_Worldbuilding/Places/Port Meridian]], where 
 ---
 
 **Related Locations**:
-- [[02_Worldbuilding/Places/Abyssos Prime]]
-- [[02_Worldbuilding/Places/Parliament of Echoes]]
+- [[Abyssos Prime]]
+- [[Parliament of Echoes]]
 - [[Gallery of Frozen Waves]]
-- [[02_Worldbuilding/Places/The Memory Meadows]]
+- [[The Memory Meadows]]
 
 **Related NPCs**:
 - [[The Conductor]]
-- [[02_Worldbuilding/People/The Scattered Emperor]]
-- [[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]
+- [[The Scattered Emperor]]
+- [[Marina-Red-Tide-Coralheart]]
 
 **Related Mechanics**:
 - [[Scream Saturation Rules]]

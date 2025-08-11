@@ -4,15 +4,15 @@ status: "completed"
 world: "Aethermoor"
 type: "Magical District"
 danger_level: 5
-parent_location: "[[02_Worldbuilding/Places/Crystalhaven]]"
+parent_location: "[[Crystalhaven]]"
 elevation: "Upper Crystal Spires"
-government: "[[02_Worldbuilding/Places/Crystalhaven]] Council of Mages"
+government: "[[Crystalhaven]] Council of Mages"
 population: 12000
 specialties: ["Advanced Magic Research", "Artifact Creation", "Planar Studies", "Elemental Manipulation"]
 founded: "Early Crystal Age"
 created: 2025-08-09
 updated: 2025-08-09
-related_entities: ["[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]", "[[02_Worldbuilding/Places/Crystal Gardens]]", "[[02_Worldbuilding/Lore/Abyssal Academy]]"]
+related_entities: ["[[Professor Aldric Crystalweaver]]", "[[Crystal Gardens]]", "[[Abyssal Academy]]"]
 ---
 
 # Arcanum Heights
@@ -20,9 +20,9 @@ related_entities: ["[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]",
 
 ## Overview
 
-Suspended high above [[02_Worldbuilding/Places/Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[02_Worldbuilding/Places/Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[02_Worldbuilding/Lore/Abyssal Academy]] in the depths of [[Aquabyssos]].
+Suspended high above [[Crystalhaven]] on crystally-powered levitation platforms, Arcanum Heights represents the pinnacle of magical achievement in [[Aethermoor]]. This district of floating towers, aerial bridges, and gravity-defying gardens serves as the premier magical research and education center for the surface world, rivaling even the infamous [[Abyssal Academy]] in the depths of [[Aquabyssos]].
 
-The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[02_Worldbuilding/Lore/The Great Drowning]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
+The Heights house the most advanced magical practitioners, dangerous experimental facilities, and the largest collection of pre-[[The Great Drowning]] magical knowledge remaining on the surface. Here, crystal-powered enchantments push the boundaries of what many consider possible, creating both wonders and catastrophes in equal measure.
 
 ## Architecture & Layout
 
@@ -90,7 +90,7 @@ Seven major towers hover at different altitudes above Crystalhaven, each dedicat
 **The Failure Archive**: Documentation of magical disasters and their causes
 
 ### Dangerous Research Projects
-**Project Convergence**: Attempting to replicate [[02_Worldbuilding/Lore/Convergence Point]] phenomena
+**Project Convergence**: Attempting to replicate [[Convergence Point]] phenomena
 **The Weather Engine**: Large-scale climate modification experiments
 **Dimensional Gateway Research**: Creating stable portals to other planes
 **Consciousness Transfer Studies**: Moving minds between bodies and constructs
@@ -122,13 +122,13 @@ Students and faculty can access:
 
 ### The Convergence Observatory
 *Facility studying connections between realms*
-- Monitors magical flux between [[02_Worldbuilding/Places/Aethermoor]] and [[Aquabyssos]]
-- Contains communication array for contacting [[02_Worldbuilding/Lore/Abyssal Academy]]
-- Research into [[02_Worldbuilding/Lore/The Great Drowning]] magical causes
+- Monitors magical flux between [[Aethermoor]] and [[Aquabyssos]]
+- Contains communication array for contacting [[Abyssal Academy]]
+- Research into [[The Great Drowning]] magical causes
 - Potential source of warnings about dimensional instabilities
 
 ### The Innovation Laboratory
-*Where [[02_Worldbuilding/People/Professor Aldric Crystalweaver]] conducts research*
+*Where [[Professor Aldric Crystalweaver]] conducts research*
 - Focuses on practical applications of crystal magic
 - Develops new magical items for commercial use
 - Contains prototype devices of incredible power
@@ -177,16 +177,16 @@ Recent experiments have produced concerning results:
 - Increasing number of planar intrusions
 
 ### Academic Rivalries
-**Surface vs. Deep Knowledge**: Tension between Heights and [[02_Worldbuilding/Lore/Abyssal Academy]]
+**Surface vs. Deep Knowledge**: Tension between Heights and [[Abyssal Academy]]
 **Traditional vs. Innovation**: Conservative faculty resist experimental approaches
 **Resource Competition**: Limited funding creates conflicts between departments
 **Publication Disputes**: Competing claims over magical discoveries
 
 ### Political Pressures
-- [[02_Worldbuilding/Places/Crystalhaven]] government wants militarily useful research
+- [[Crystalhaven]] government wants militarily useful research
 - Other cities demand access to Heights discoveries
 - International pressure over dangerous experimental programs
-- [[02_Worldbuilding/Groups/Purist Coalition]] infiltration attempts
+- [[Purist Coalition]] infiltration attempts
 
 ## Quest Hooks
 
@@ -195,7 +195,7 @@ Recent experiments have produced concerning results:
 3. **The Artifact Heist**: Thieves steal dangerous magical items from the vault
 4. **The Academic Sabotage**: Someone is causing magical accidents to discredit the Heights
 5. **The Ethical Investigation**: Characters investigate reports of illegal magical experimentation
-6. **The Diplomatic Mission**: Negotiate academic exchange program with [[02_Worldbuilding/Lore/Abyssal Academy]]
+6. **The Diplomatic Mission**: Negotiate academic exchange program with [[Abyssal Academy]]
 7. **The Planar Invasion**: Conjuration experiments accidentally open gateway for hostile entities
 8. **The Time Loop**: Temporal research creates repeating time loop trapping the Heights
 9. **The Knowledge War**: Rival institutions compete to steal Heights research
@@ -204,7 +204,7 @@ Recent experiments have produced concerning results:
 ## Economic & Cultural Impact
 
 ### Innovation Hub
-Arcanum Heights drives magical innovation across [[02_Worldbuilding/Places/Aethermoor]]:
+Arcanum Heights drives magical innovation across [[Aethermoor]]:
 - New spell development and refinement
 - Magical item design and mass production
 - Training for court wizards and magical advisors
@@ -213,11 +213,11 @@ Arcanum Heights drives magical innovation across [[02_Worldbuilding/Places/Aethe
 ### Cultural Exchange
 - International student body brings diverse magical traditions
 - Regular lectures open to the public
-- Magical demonstrations during [[02_Worldbuilding/Places/Crystal Gardens|Crystal Festival]]
+- Magical demonstrations during [[Crystal Gardens|Crystal Festival]]
 - Publication of magical research journals
 
 ### Economic Influence
-- Major employer in [[02_Worldbuilding/Places/Crystalhaven]]
+- Major employer in [[Crystalhaven]]
 - Attracts wealthy students and their families
 - Drives demand for rare magical components
 - Patents and licensing for magical innovations

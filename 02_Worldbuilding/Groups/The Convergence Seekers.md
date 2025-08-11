@@ -18,14 +18,14 @@ created: 2025-08-09
 *Bridgers of the Realms, Architects of Unity*
 
 ## Overview
-The Convergence Seekers believe that [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] were once a single world, artificially separated by divine intervention, and that reuniting them is not only possible but necessary for both realms' survival. Operating in secret cells across both worlds, they work to weaken the barriers between realities, believing that convergence will create a paradise combining the best of both realms while eliminating their respective weaknesses.
+The Convergence Seekers believe that [[Aethermoor]] and [[Aquabyssos]] were once a single world, artificially separated by divine intervention, and that reuniting them is not only possible but necessary for both realms' survival. Operating in secret cells across both worlds, they work to weaken the barriers between realities, believing that convergence will create a paradise combining the best of both realms while eliminating their respective weaknesses.
 
 ## Core Ideology
 ### The Unity Theory
 - Both worlds are fragments of a greater whole
 - Current separation causes instability in both realms
 - Crystal corruption in Aethermoor and shadow corruption in Aquabyssos are symptoms of separation
-- [[02_Worldbuilding/Lore/The Seven Shards]] and [[02_Worldbuilding/Lore/The Deep Mother]] are connected parts of original divine system
+- [[The Seven Shards]] and [[The Deep Mother]] are connected parts of original divine system
 - Reunification will heal both worlds' ailments
 
 ### The Convergence Plan
@@ -74,8 +74,8 @@ The Convergence Seekers believe that [[02_Worldbuilding/Places/Aethermoor]] and 
 - **The Preparation Campaign**: Gradually introducing each world to the other's existence
 
 ### Secret Alliances
-- Some [[02_Worldbuilding/Groups/Silverscale Consortium]] members see profit in inter-realm trade
-- Radical elements of [[02_Worldbuilding/Groups/The Drowned Prophets]] believe convergence will wake Deep Mother
+- Some [[Silverscale Consortium]] members see profit in inter-realm trade
+- Radical elements of [[The Drowned Prophets]] believe convergence will wake Deep Mother
 - Certain [[Order of the Shattered Crown]] members think convergence will unite the Shards
 - Shadow merchants profit from cross-realm smuggling operations
 - A few government officials in both realms secretly support unity
@@ -126,9 +126,9 @@ The Convergence Seekers believe that [[02_Worldbuilding/Places/Aethermoor]] and 
 - **Desperate Leaders**: Those whose realms face existential threats
 
 ### Uncertain Relations
-- **[[02_Worldbuilding/People/The Crimson Sage]]**: May know truth about original separation
-- **[[02_Worldbuilding/Lore/The Deep Mother]]**: Convergence might wake her prematurely
-- **[[02_Worldbuilding/Lore/The Seven Shards]]**: Could be key to convergence or obstacle to it
+- **[[The Crimson Sage]]**: May know truth about original separation
+- **[[The Deep Mother]]**: Convergence might wake her prematurely
+- **[[The Seven Shards]]**: Could be key to convergence or obstacle to it
 - **Shadow/Crystal Corruption**: Might be healed or worsened by convergence
 - **Player Characters**: Ultimate decision-makers about convergence attempts
 
@@ -158,80 +158,80 @@ The Convergence Seekers believe that [[02_Worldbuilding/Places/Aethermoor]] and 
 
 ### Joining the Seekers
 #### Recruitment Criteria
-- Demonstrated exposure to both [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbuilding/Places/Aquabyssos]] environments
-- Ideological commitment to [[02_Worldbuilding/Concepts/Realm Unity Philosophy]]
+- Demonstrated exposure to both [[Aethermoor]] and [[Aquabyssos]] environments
+- Ideological commitment to [[Realm Unity Philosophy]]
 - Ability to resist corruption from both crystal and shadow energies
 - Mental flexibility to accept radical worldview changes
-- Willingness to undergo [[02_Worldbuilding/Procedures/Between-State Transformation]]
+- Willingness to undergo [[Between-State Transformation]]
 
 ### Seeker Hierarchy
-1. **Initiate**: New member learning [[02_Worldbuilding/Theory/Convergence Theory]]
-2. **Bridge Walker**: Proven ability to think across realm boundaries using [[02_Worldbuilding/Skills/Dual-Reality Perception]]
-3. **Between Touched**: Beginning transformation into dual-realm being via [[02_Worldbuilding/Rituals/Unity Exposure Ceremonies]]
-4. **Convergence Agent**: Active operative working toward unity through [[02_Worldbuilding/Operations/Reality Bridge Projects]]
-5. **Unity Speaker**: Regional leader and convergence theorist with access to [[02_Worldbuilding/Knowledge/Advanced Unification Techniques]]
-6. **Threshold Guardian**: Protector of cross-realm assets in [[02_Worldbuilding/Locations/The Threshold Chambers]]
+1. **Initiate**: New member learning [[Convergence Theory]]
+2. **Bridge Walker**: Proven ability to think across realm boundaries using [[Dual-Reality Perception]]
+3. **Between Touched**: Beginning transformation into dual-realm being via [[Unity Exposure Ceremonies]]
+4. **Convergence Agent**: Active operative working toward unity through [[Reality Bridge Projects]]
+5. **Unity Speaker**: Regional leader and convergence theorist with access to [[Advanced Unification Techniques]]
+6. **Threshold Guardian**: Protector of cross-realm assets in [[The Threshold Chambers]]
 7. **The Mediator's Voice**: Inner circle member with direct leadership access
 
 #### Specialized Roles
-- **Dream Swimmers**: Navigate [[02_Worldbuilding/Realms/The Deep Mother's Unconscious]]
-- **Crystal Theorists**: Study [[02_Worldbuilding/Artifacts/The Seven Shards]] for convergence applications
-- **Reality Mappers**: Chart weak points in [[02_Worldbuilding/Barriers/Dimensional Boundaries]]
+- **Dream Swimmers**: Navigate [[The Deep Mother's Unconscious]]
+- **Crystal Theorists**: Study [[The Seven Shards]] for convergence applications
+- **Reality Mappers**: Chart weak points in [[Dimensional Boundaries]]
 - **Between Agents**: Elite operatives existing in both worlds simultaneously
-- **Portal Engineers**: Build and maintain [[02_Worldbuilding/Infrastructure/Convergence Portal Network]]
+- **Portal Engineers**: Build and maintain [[Convergence Portal Network]]
 
 ## Services & Resources
 
 ### What They Offer
-- **Cross-Realm Intelligence**: Information about conditions in both worlds through [[02_Worldbuilding/Networks/Dual-Reality Spy Network]]
-- **Portal Access**: Secret transportation between realms via [[02_Worldbuilding/Locations/Hidden Convergence Gates]]
-- **Unity Theory Education**: Training in [[02_Worldbuilding/Subjects/Convergence Philosophy]] and practical applications
+- **Cross-Realm Intelligence**: Information about conditions in both worlds through [[Dual-Reality Spy Network]]
+- **Portal Access**: Secret transportation between realms via [[Hidden Convergence Gates]]
+- **Unity Theory Education**: Training in [[Convergence Philosophy]] and practical applications
 - **Dual-State Enhancement**: Treatments allowing survival in both realm environments
-- **Reality Bridging Consultation**: Expertise on [[02_Worldbuilding/Phenomena/Cross-Dimensional Events]]
-- **Cultural Synthesis**: Blending traditions from both worlds for [[02_Worldbuilding/Communities/Mixed Heritage Settlements]]
-- **Between-World Communication**: Secure messaging through [[02_Worldbuilding/Technology/Quantum Consciousness Network]]
+- **Reality Bridging Consultation**: Expertise on [[Cross-Dimensional Events]]
+- **Cultural Synthesis**: Blending traditions from both worlds for [[Mixed Heritage Settlements]]
+- **Between-World Communication**: Secure messaging through [[Quantum Consciousness Network]]
 - **Convergence Preparation**: Help communities prepare for eventual world merger
 
 ### Research Facilities
-- **The Unity Laboratory**: Experiments in [[02_Worldbuilding/Science/Dual-Energy Synthesis]]
-- **Reality Mapping Center**: Tracking [[02_Worldbuilding/Geography/Dimensional Weak Points]]
-- **Memory Palace Archive**: Storing experiences of [[02_Worldbuilding/History/Pre-Separation Era]]
-- **Between-State Chambers**: Training facilities for [[02_Worldbuilding/Personnel/Dual-Realm Operatives]]
-- **Convergence Simulation Lab**: Testing merger scenarios using [[02_Worldbuilding/Technology/Reality Modeling Systems]]
+- **The Unity Laboratory**: Experiments in [[Dual-Energy Synthesis]]
+- **Reality Mapping Center**: Tracking [[Dimensional Weak Points]]
+- **Memory Palace Archive**: Storing experiences of [[Pre-Separation Era]]
+- **Between-State Chambers**: Training facilities for [[Dual-Realm Operatives]]
+- **Convergence Simulation Lab**: Testing merger scenarios using [[Reality Modeling Systems]]
 
 ### Material Assets
 - **Dual-Energy Crystals**: Artifacts powered by both shadow and crystal forces
-- **Cross-Realm Vehicles**: Transportation adapted for [[02_Worldbuilding/Travel/Inter-Dimensional Navigation]]
-- **Unity Documents**: Maps and texts describing [[02_Worldbuilding/History/Original Unified World]]
-- **Convergence Catalysts**: Substances that accelerate [[02_Worldbuilding/Processes/Dimensional Merger]]
+- **Cross-Realm Vehicles**: Transportation adapted for [[Inter-Dimensional Navigation]]
+- **Unity Documents**: Maps and texts describing [[Original Unified World]]
+- **Convergence Catalysts**: Substances that accelerate [[Dimensional Merger]]
 - **Between-State Equipment**: Tools functioning in multiple realities simultaneously
 
 ### What They Require
-- **Test Subjects**: Volunteers for [[02_Worldbuilding/Experiments/Convergence Procedures]]
-- **Dimensional Materials**: Resources from [[02_Worldbuilding/Resources/Reality Boundary Zones]]
-- **Financial Support**: Funding for [[02_Worldbuilding/Projects/Large Scale Unity Operations]]
-- **Political Protection**: Shield from authorities opposing [[02_Worldbuilding/Movements/Convergence Activities]]
-- **Ancient Knowledge**: Information about [[02_Worldbuilding/History/Pre-Separation Divine Intervention]]
-- **Sacred Sites**: Access to locations significant to [[02_Worldbuilding/Religion/Original World Theology]]
+- **Test Subjects**: Volunteers for [[Convergence Procedures]]
+- **Dimensional Materials**: Resources from [[Reality Boundary Zones]]
+- **Financial Support**: Funding for [[Large Scale Unity Operations]]
+- **Political Protection**: Shield from authorities opposing [[Convergence Activities]]
+- **Ancient Knowledge**: Information about [[Pre-Separation Divine Intervention]]
+- **Sacred Sites**: Access to locations significant to [[Original World Theology]]
 
 ## Faction Items & Equipment
 
 ### Convergence Technologies
-- **[[02_Worldbuilding/Items/Harmony Resonators]]**: Devices that synchronize shadow and crystal energies
-- **[[02_Worldbuilding/Items/Between-State Anchors]]**: Tools that stabilize dual-reality existence
-- **[[02_Worldbuilding/Items/Unity Conduits]]**: Communication devices working across realms
-- **[[02_Worldbuilding/Items/Convergence Catalysts]]**: Substances that accelerate dimensional merger
-- **[[02_Worldbuilding/Items/Dual-Reality Maps]]**: Charts showing both worlds simultaneously
-- **[[02_Worldbuilding/Items/Phase Shifting Cloaks]]**: Garments allowing movement between realms
-- **[[02_Worldbuilding/Items/Memory Bridge Crystals]]**: Store and share cross-realm experiences
-- **[[02_Worldbuilding/Items/Reality Stabilizers]]**: Emergency devices preventing dimensional collapse
+- **[[Harmony Resonators]]**: Devices that synchronize shadow and crystal energies
+- **[[Between-State Anchors]]**: Tools that stabilize dual-reality existence
+- **[[Unity Conduits]]**: Communication devices working across realms
+- **[[Convergence Catalysts]]**: Substances that accelerate dimensional merger
+- **[[Dual-Reality Maps]]**: Charts showing both worlds simultaneously
+- **[[Phase Shifting Cloaks]]**: Garments allowing movement between realms
+- **[[Memory Bridge Crystals]]**: Store and share cross-realm experiences
+- **[[Reality Stabilizers]]**: Emergency devices preventing dimensional collapse
 
 ### Experimental Artifacts
-- **[[02_Worldbuilding/Items/The Original Unity Relic]]**: Fragment from pre-separation world
-- **[[02_Worldbuilding/Items/Mediator's Crown]]**: Headpiece allowing leadership of both realm divisions
-- **[[02_Worldbuilding/Items/The Living Convergence]]**: Sentient artifact seeking to merge worlds
-- **[[02_Worldbuilding/Items/Shard-Shadow Synthesis Core]]**: Prototype power source combining both energies
-- **[[02_Worldbuilding/Items/The Between Journal]]**: Records of successful dual-realm agents
+- **[[The Original Unity Relic]]**: Fragment from pre-separation world
+- **[[Mediator's Crown]]**: Headpiece allowing leadership of both realm divisions
+- **[[The Living Convergence]]**: Sentient artifact seeking to merge worlds
+- **[[Shard-Shadow Synthesis Core]]**: Prototype power source combining both energies
+- **[[The Between Journal]]**: Records of successful dual-realm agents
 
 ## Secret Agenda & Conspiracies
 
@@ -242,13 +242,13 @@ Unknown to most members, the inner circle has discovered that the separation of 
 The process of becoming a Between Agent is irreversible and eventually leads to complete disconnection from both worlds. The leadership knows this but continues recruitment, believing the sacrifice necessary for the greater good.
 
 ### The Mediator's Identity
-The mysterious leader is actually [[02_Worldbuilding/People/The Crimson Sage]], who has been manipulating events from behind the scenes. Their true goal may be to create a merged world they can rule as supreme being.
+The mysterious leader is actually [[The Crimson Sage]], who has been manipulating events from behind the scenes. Their true goal may be to create a merged world they can rule as supreme being.
 
 ### Foreign Influence
 Some Convergence Seeker operations are secretly funded by entities from parallel dimensions who want to destabilize both realms for their own invasion attempts.
 
 ### The Reality Cascade Risk
-Their experiments have already created several small reality tears that could expand into dimension-ending catastrophes. Only the [[02_Worldbuilding/Groups/The Void Watchers]] are aware of this growing threat.
+Their experiments have already created several small reality tears that could expand into dimension-ending catastrophes. Only the [[The Void Watchers]] are aware of this growing threat.
 
 ## Internal Politics & Conflicts
 
@@ -321,14 +321,14 @@ Their experiments have already created several small reality tears that could ex
 - Ultimate goal of species-wide hive mind spanning both worlds
 
 ### Advanced Research
-- **[[02_Worldbuilding/Studies/Dimensional Physics]]**: Understanding mechanics of realm separation
-- **[[02_Worldbuilding/Studies/Convergence Psychology]]**: Mental effects of dual-realm existence
-- **[[02_Worldbuilding/Studies/Reality Archaeology]]**: Investigating pre-separation world
-- **[[02_Worldbuilding/Studies/Temporal Convergence]]**: Time travel approaches to merger
-- **[[02_Worldbuilding/Studies/Biological Adaptation]]**: Physical changes needed for merged world survival
+- **[[Dimensional Physics]]**: Understanding mechanics of realm separation
+- **[[Convergence Psychology]]**: Mental effects of dual-realm existence
+- **[[Reality Archaeology]]**: Investigating pre-separation world
+- **[[Temporal Convergence]]**: Time travel approaches to merger
+- **[[Biological Adaptation]]**: Physical changes needed for merged world survival
 
 ## Connected Elements
-- Central to any storylines involving [[02_Worldbuilding/Places/Aethermoor]]-[[02_Worldbuilding/Places/Aquabyssos]] connections
+- Central to any storylines involving [[Aethermoor]]-[[Aquabyssos]] connections
 - Links Seven Shards and Deep Mother mythologies
 - Provides cross-realm adventure opportunities
 - Represents themes of unity vs. diversity, change vs. stability

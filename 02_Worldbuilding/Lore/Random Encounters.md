@@ -18,7 +18,7 @@ updated: 2025-08-11
 
 ## Overview
 
-The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[02_Worldbuilding/Places/Aquabyssos]] and [[02_Worldbuilding/Places/Aethermoor]]. Unlike traditional random encounter tables that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, moral dilemmas, and narrative hooks.
+The Random Encounters system provides comprehensive tools for generating spontaneous adventures, complications, and story opportunities throughout [[Aquabyssos]] and [[Aethermoor]]. Unlike traditional random encounter tables that focus solely on combat, this system generates complete scenario frameworks that include environmental challenges, social interactions, moral dilemmas, and narrative hooks.
 
 The system recognizes that encounters in the merged realms are rarely simple or straightforward. A "random" meeting with travelers might reveal diplomatic tensions, uncover smuggling operations, or provide crucial information about upcoming threats. Environmental encounters can shift from natural hazards to magical phenomena to signs of larger problems requiring investigation.
 

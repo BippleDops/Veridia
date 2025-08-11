@@ -334,8 +334,8 @@ Environmental limitations create strategic decisions about equipment selection w
 Upgrade pathways provide long-term character development goals while ensuring that item progression supports rather than replaces character skill advancement.
 
 ## Connected Organizations and Locations
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Primary underwater magical item market and crafting center
-- [[02_Worldbuilding/Lore/Aethermoor]] - Primary surface magical item development and distribution hub
-- [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Regulatory authority for cross-realm magical item trade
-- [[02_Worldbuilding/People/Master Artificer Coral Gemwright]] - Leading expert in cross-realm magical item development
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Major threat driving protective item development
+- [[Aquabyssos]] - Primary underwater magical item market and crafting center
+- [[Aethermoor]] - Primary surface magical item development and distribution hub
+- [[United Councils of Both Worlds]] - Regulatory authority for cross-realm magical item trade
+- [[Master Artificer Coral Gemwright]] - Leading expert in cross-realm magical item development
+- [[The Crystal Influence]] - Major threat driving protective item development

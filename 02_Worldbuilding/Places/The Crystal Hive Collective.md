@@ -6,7 +6,7 @@ tags:
   - crystal
   - aberration
 type: Monster Colony
-region: "[[02_Worldbuilding/Places/The Crystalline Wastes]]"
+region: "[[The Crystalline Wastes]]"
 danger_level: Extreme
 controlled_by: "[[The Crystal Queen Mother]]"
 created: 2025-08-09
@@ -21,7 +21,7 @@ obsidianUIMode: preview
 *Where Consciousness Merges and Individual Thought Dies*
 
 ## Overview
-The Crystal Hive Collective is a massive crystalline structure that has grown like a cancer across several miles of [[02_Worldbuilding/Places/The Crystalline Wastes]]. What began as a simple crystal formation has evolved into a semi-sentient hive mind that corrupts, absorbs, and transforms all life it encounters. Led by **The Crystal Queen Mother**, an ancient being of pure crystal consciousness, the hive seeks to convert the entire world into a single, unified crystal entity.
+The Crystal Hive Collective is a massive crystalline structure that has grown like a cancer across several miles of [[The Crystalline Wastes]]. What began as a simple crystal formation has evolved into a semi-sentient hive mind that corrupts, absorbs, and transforms all life it encounters. Led by **The Crystal Queen Mother**, an ancient being of pure crystal consciousness, the hive seeks to convert the entire world into a single, unified crystal entity.
 
 ## Hive Structure
 
@@ -115,15 +115,15 @@ The Crystal Hive Collective is a massive crystalline structure that has grown li
 
 ### Nearby Settlements
 - **Crystal Prospector Camps**: Miners unaware of growing danger
-- **[[02_Worldbuilding/Places/Port Meridian]]** - Distant but valuable target
+- **[[Port Meridian]]** - Distant but valuable target
 - **Wasteland Nomad Tribes**: Some already partially absorbed
 - **Research Stations**: Scientists studying crystal phenomena
 
 ### Resource Competition
-- **[[02_Worldbuilding/Places/The Crimson Foundries]]** - Fighting over crystal deposits
-- **[[02_Worldbuilding/Groups/The Whisper Syndicate]]** - Competing for corrupted crystals
+- **[[The Crimson Foundries]]** - Fighting over crystal deposits
+- **[[The Whisper Syndicate]]** - Competing for corrupted crystals
 - **[[Crystal Wardens]]** - Active opposition to hive expansion
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Studying hive behavior
+- **[[Professor Aldric Crystalweaver]]** - Studying hive behavior
 
 ### Economic Impact
 - **Mining Disruption**: Eliminates competing crystal extraction
@@ -194,10 +194,10 @@ The Crystal Hive Collective is a massive crystalline structure that has grown li
 ## Research & Study
 
 ### Scientific Interest
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Leading research on hive behavior
+- **[[Professor Aldric Crystalweaver]]** - Leading research on hive behavior
 - **[[Crystal Wardens]]** - Seeking methods to reverse crystal corruption
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Interested in consciousness manipulation
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Attempting to "exorcise" the hive
+- **[[The Crimson Sage]]** - Interested in consciousness manipulation
+- **[[High Inquisitor Maltheos]]** - Attempting to "exorcise" the hive
 
 ### Academic Value
 - Unique insights into collective consciousness
@@ -213,23 +213,23 @@ The Crystal Hive Collective is a massive crystalline structure that has grown li
 > - Complete absorption would grant godlike power over matter and mind
 
 ## Connected Locations
-- [[02_Worldbuilding/Places/The Crystalline Wastes]] - Primary territory and expansion area
-- [[02_Worldbuilding/Places/The Screaming Battleground]] - Ancient crystal corruption source
-- [[02_Worldbuilding/Places/Port Meridian]] - Long-term expansion target
-- [[02_Worldbuilding/Places/The Sundered Vaults]] - Potential ancient connection
-- [[02_Worldbuilding/Places/Crystalhaven]] - Major threat to crystal-based civilization
+- [[The Crystalline Wastes]] - Primary territory and expansion area
+- [[The Screaming Battleground]] - Ancient crystal corruption source
+- [[Port Meridian]] - Long-term expansion target
+- [[The Sundered Vaults]] - Potential ancient connection
+- [[Crystalhaven]] - Major threat to crystal-based civilization
 
 ## Connected NPCs
 - **[[The Crystal Queen Mother]]** - Hive leader and primary consciousness
-- **[[02_Worldbuilding/People/Professor Aldric Crystalweaver]]** - Primary researcher
-- **[[02_Worldbuilding/People/The Crimson Sage]]** - Interested in hive's power
-- **[[02_Worldbuilding/People/High Inquisitor Maltheos]]** - Leading opposition efforts
+- **[[Professor Aldric Crystalweaver]]** - Primary researcher
+- **[[The Crimson Sage]]** - Interested in hive's power
+- **[[High Inquisitor Maltheos]]** - Leading opposition efforts
 
 ## Connected Factions
 - [[Crystal Wardens]] - Primary opposition and containment forces
-- [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Competing for crystal resources
-- [[02_Worldbuilding/Places/The Crimson Foundries]] - Resource competition conflict
-- [[02_Worldbuilding/Groups/Purist Coalition]] - Using hive as anti-crystal propaganda
+- [[The Whisper Syndicate]] - Competing for crystal resources
+- [[The Crimson Foundries]] - Resource competition conflict
+- [[Purist Coalition]] - Using hive as anti-crystal propaganda
 
 ## Current Threats
 - Hive expansion rate accelerating exponentially

@@ -24,7 +24,7 @@ biodiversity_index: "Exceptional"
 
 ## Overview
 
-The Bloom Fields represent one of [[02_Worldbuilding/Places/Aquabyssos]]'s most remarkable environmental achievements—vast underwater agricultural zones where bioluminescent organisms create spectacular displays of living light while providing essential food, materials, and ecological services. These carefully managed ecosystems stretch across thousands of square kilometers of ocean floor at optimal depths, creating an otherworldly landscape where darkness blooms with constellations of organic illumination.
+The Bloom Fields represent one of [[Aquabyssos]]'s most remarkable environmental achievements—vast underwater agricultural zones where bioluminescent organisms create spectacular displays of living light while providing essential food, materials, and ecological services. These carefully managed ecosystems stretch across thousands of square kilometers of ocean floor at optimal depths, creating an otherworldly landscape where darkness blooms with constellations of organic illumination.
 
 Unlike traditional surface agriculture that relies on photosynthesis and solar energy, the Bloom Fields harness the unique properties of deep-sea bioluminescence, chemosynthesis, and pressure-adapted organisms to create sustainable food production systems that thrive in the crushing depths. Through centuries of selective cultivation and environmental engineering, [[Aquabyssos]] has transformed barren deep-sea plains into thriving gardens of light that sustain millions of inhabitants.
 
@@ -560,7 +560,7 @@ Working with Bloom Fields provides unique opportunities for character developmen
 - **[[Pressure Adaptation System]]**: Infrastructure supporting deep-sea cultivation activities
 
 ### Key Locations
-- **[[02_Worldbuilding/Places/Aquabyssos]]**: Primary location hosting Bloom Field ecosystems
+- **[[Aquabyssos]]**: Primary location hosting Bloom Field ecosystems
 - **[[Deep-Sea Agricultural Research Institute]]**: Primary research facility for field science
 - **[[Bioluminescent Processing Centers]]**: Industrial facilities processing field products
 - **[[Field Worker Communities]]**: Residential areas for people working in field systems

@@ -172,10 +172,10 @@ Temporal hazards create significant vulnerabilities for both realms while potent
 8. **Emergency Evacuation**: Characters help evacuate a community from an area where temporal hazards are becoming increasingly frequent and dangerous
 
 ## Connected Phenomena and Threats
-- [[02_Worldbuilding/Lore/Multiple Recursion Levels]] - Reality layering effects that interact with temporal distortions
-- [[02_Worldbuilding/Lore/The Crystal Influence]] - Corruption phenomenon contributing to temporal instability
-- [[02_Worldbuilding/Lore/Crystal Forest]] - Location where temporal and crystal effects combine dangerously
-- [[02_Worldbuilding/People/Biomancer Corvus Intestinal]] - Researcher investigating temporal effects on biological systems
-- [[02_Worldbuilding/Lore/Spell Lists]] - Catalog of temporal magic and protection spells
-- [[02_Worldbuilding/Lore/Aquabyssos]] - Underwater realm affected by increasing temporal instability
-- [[02_Worldbuilding/Lore/Aethermoor]] - Surface realm developing temporal hazard countermeasures
+- [[Multiple Recursion Levels]] - Reality layering effects that interact with temporal distortions
+- [[The Crystal Influence]] - Corruption phenomenon contributing to temporal instability
+- [[Crystal Forest]] - Location where temporal and crystal effects combine dangerously
+- [[Biomancer Corvus Intestinal]] - Researcher investigating temporal effects on biological systems
+- [[Spell Lists]] - Catalog of temporal magic and protection spells
+- [[Aquabyssos]] - Underwater realm affected by increasing temporal instability
+- [[Aethermoor]] - Surface realm developing temporal hazard countermeasures

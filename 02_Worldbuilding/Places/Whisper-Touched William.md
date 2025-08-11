@@ -12,7 +12,7 @@ sub_locations:
 depth: "2400-2600 feet"
 population: 25
 government: "Oracular Authority"
-ruler: "[[02_Worldbuilding/People/Whisper-Touched William]]"
+ruler: "[[Whisper-Touched William]]"
 factions:
   - "[[The Voice Interpreters]]"
   - "[[Silence Seekers]]"
@@ -28,7 +28,7 @@ services:
   - "Truth Seeking Guidance"
   - "Madness Counseling"
 notable_npcs:
-  - "[[02_Worldbuilding/People/Whisper-Touched William]]"
+  - "[[Whisper-Touched William]]"
   - "[[Echo-Translator Vera]]"
   - "[[Silent Guardian Marcus]]"
   - "[[Truth-Seeker Cornelius]]"
@@ -144,7 +144,7 @@ Personal sessions where William provides specific guidance or predictions for in
 Services where William's assistants help interpret his often cryptic prophecies into practical guidance or actionable information.
 
 ### Institutional Consulting
-The shrine provides consulting services to [[02_Worldbuilding/Places/Parliament of Echoes]], [[02_Worldbuilding/Groups/Crystal Wardens]], and other organizations that need prophetic guidance for major decisions.
+The shrine provides consulting services to [[Parliament of Echoes]], [[Crystal Wardens]], and other organizations that need prophetic guidance for major decisions.
 
 ### Truth Verification
 William's truth-detection abilities make him valuable for resolving disputes, verifying historical claims, or exposing deception in important matters.
@@ -152,7 +152,7 @@ William's truth-detection abilities make him valuable for resolving disputes, ve
 ## The Shrine Community
 
 ### William's Inner Circle
-**[[02_Worldbuilding/People/Whisper-Touched William|Full Details]]** - The Oracle
+**[[Whisper-Touched William|Full Details]]** - The Oracle
 - Transformed records clerk with prophetic abilities
 - Constantly hears whispers from unknown sources
 - Struggles with the burden of cosmic knowledge
@@ -188,13 +188,13 @@ People who have been affected by proximity to William's abilities, developing mi
 ## Notable Prophecies
 
 ### The Shadow Citizenship Prediction
-Three months before it was proposed, William prophesied: "Shadows will seek the vote, and democracy will fracture on the question of what makes a citizen." This prediction about the [[02_Worldbuilding/Places/The Eternal Senate]]'s Shadow Citizenship Act established William's political relevance.
+Three months before it was proposed, William prophesied: "Shadows will seek the vote, and democracy will fracture on the question of what makes a citizen." This prediction about the [[The Eternal Senate]]'s Shadow Citizenship Act established William's political relevance.
 
 ### The Memory Merchant's Downfall
-William predicted the collapse of a major [[02_Worldbuilding/Groups/Memory Farmers]] operation six weeks before it occurred, warning: "Those who harvest remembrance will forget their own names."
+William predicted the collapse of a major [[Memory Farmers]] operation six weeks before it occurred, warning: "Those who harvest remembrance will forget their own names."
 
 ### The Recursive Warning
-Regarding [[02_Worldbuilding/Places/The Recursion Cult]], William whispered: "Time eats its own tail, and tomorrow becomes yesterday's mistake." This warning helped prevent a temporal disaster.
+Regarding [[The Recursion Cult]], William whispered: "Time eats its own tail, and tomorrow becomes yesterday's mistake." This warning helped prevent a temporal disaster.
 
 ### The Surface Return
 One of William's most controversial ongoing prophecies involves the return of surface world contact: "When the deep calls to the high, the drowning will be undone, but the price will be everything we have become."
@@ -226,7 +226,7 @@ William believes the voices come from multiple sources, but he's never been able
 - William's own mind, expanded beyond normal human limitations
 
 ### The Silence Conspiracy
-A secret faction within [[02_Worldbuilding/Places/Parliament of Echoes]] wants to silence William permanently, believing his prophecies destabilize society by revealing uncomfortable truths.
+A secret faction within [[Parliament of Echoes]] wants to silence William permanently, believing his prophecies destabilize society by revealing uncomfortable truths.
 
 ### The False Prophecies
 Some of William's prophecies appear to be deliberately false or misleading, suggesting that not all the whispers have benevolent intentions.
@@ -240,18 +240,18 @@ The government archive where William was transformed may contain other individua
 ## Connected Locations
 
 ### Information Networks
-- **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary knowledge preservation
-- **[[02_Worldbuilding/Places/Memory Vaults]]:** Cross-reference of stored memories and prophecies
-- **[[02_Worldbuilding/Lore/Aethermoor Archives]]:** Information exchange with surface world archives
+- **[[The Archive of Unremembered Things]]:** Complementary knowledge preservation
+- **[[Memory Vaults]]:** Cross-reference of stored memories and prophecies
+- **[[Aethermoor Archives]]:** Information exchange with surface world archives
 
 ### Government Relations
-- **[[02_Worldbuilding/Places/The Eternal Senate]]:** Regular prophetic consultation
-- **[[02_Worldbuilding/Places/Parliament of Echoes]]:** Complex political relationship
-- **[[02_Worldbuilding/Places/The Inverse Palace]]:** Occasional advice to the Scattered Emperor
+- **[[The Eternal Senate]]:** Regular prophetic consultation
+- **[[Parliament of Echoes]]:** Complex political relationship
+- **[[The Inverse Palace]]:** Occasional advice to the Scattered Emperor
 
 ### Spiritual Sites
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Shared concern for those burdened by knowledge
-- **[[02_Worldbuilding/Places/Temple of Divine Order]]:** Theological discussions about prophecy
+- **[[Sister Morwyn's Memorial Sanctuary]]:** Shared concern for those burdened by knowledge
+- **[[Temple of Divine Order]]:** Theological discussions about prophecy
 - **[[Meditation Centers]]:** Collaborative work on mental discipline techniques
 
 ## Adventure Hooks

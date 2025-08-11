@@ -1,7 +1,7 @@
 ---
 tags:
   - Category/Place
-MyContainer: "[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hub]]"
+MyContainer: "[[World Builder Templates/Template-Hub.md|Template-Hub]]"
 MyCategory: Commerce
 obsidianUIMode: preview
 ---

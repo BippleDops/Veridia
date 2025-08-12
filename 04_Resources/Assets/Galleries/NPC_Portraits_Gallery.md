@@ -14,6 +14,9 @@
 ## portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint.png)
 
+## portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+
 ## portrait-npc-pressure-angel-benthia-pressure-angel-benthia
 ![](04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
 

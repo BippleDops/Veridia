@@ -51,3 +51,23 @@ Advance one tick when: major route disrupted, scandal revealed, shard power spik
 - [[09_Performance/Indexes/Item_Catalog_Complete.md|Item Catalog Complete]]
 - [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
 - [[01_Adventures/The_Seven_Shards_Campaign|Seven Shards Campaign]]
+
+## Player-Facing Summary
+
+Living Economy Syste is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Living Economy Syste as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Living Economy Syste.
+
+## Adventure Hooks
+
+- A rumor ties Living Economy Syste to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Living Economy Syste to avert a public scandal.
+- A map overlay reveals a hidden approach to Living Economy Syste active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

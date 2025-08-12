@@ -32,3 +32,23 @@ A document circulated among locals and travelers. Its edges are smudged with sal
 - [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
 - [[03_Mechanics/Rumor_Mill_Network.md|Rumor Mill]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|GM Screen]]
+
+## Player-Facing Summary
+
+Ritual Timing Wheel Convergenc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ritual Timing Wheel Convergenc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ritual Timing Wheel Convergenc.
+
+## Adventure Hooks
+
+- A rumor ties Ritual Timing Wheel Convergenc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Ritual Timing Wheel Convergenc to avert a public scandal.
+- A map overlay reveals a hidden approach to Ritual Timing Wheel Convergenc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

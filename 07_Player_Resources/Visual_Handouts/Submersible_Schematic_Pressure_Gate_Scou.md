@@ -32,3 +32,23 @@ A document circulated among locals and travelers. Its edges are smudged with sal
 - [[09_Performance/Indexes/Location_Network_Graph.md|Location Network]]
 - [[03_Mechanics/Rumor_Mill_Network.md|Rumor Mill]]
 - [[06_GM_Resources/Ultimate_GM_Screen.md|GM Screen]]
+
+## Player-Facing Summary
+
+Submersible Schematic Pressure Gate Scou is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Submersible Schematic Pressure Gate Scou as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Submersible Schematic Pressure Gate Scou.
+
+## Adventure Hooks
+
+- A rumor ties Submersible Schematic Pressure Gate Scou to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Submersible Schematic Pressure Gate Scou to avert a public scandal.
+- A map overlay reveals a hidden approach to Submersible Schematic Pressure Gate Scou active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

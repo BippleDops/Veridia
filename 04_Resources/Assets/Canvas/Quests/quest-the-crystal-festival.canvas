@@ -145,9 +145,9 @@
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-quests-quest-the-plague-of-crystals-md_600",
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_600",
       "type": "file",
-      "file": "02_Worldbuilding/Quests/Quest - The Plague of Crystals.md",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
       "x": -520,
       "y": 1120,
       "width": 380,
@@ -163,37 +163,28 @@
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-quests-quest-the-seventh-shard-md_1640",
+      "id": "n_02-worldbuilding-groups-quest-the-new-world-order-md_1640",
       "type": "file",
-      "file": "02_Worldbuilding/Quests/Quest - The Seventh Shard.md",
+      "file": "02_Worldbuilding/Groups/Quest - The New World Order.md",
       "x": 520,
       "y": 1120,
       "width": 380,
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-groups-quest-the-new-world-order-md_780",
+      "id": "n_02-worldbuilding-groups-purist-coalition-md_780",
       "type": "file",
-      "file": "02_Worldbuilding/Groups/Quest - The New World Order.md",
+      "file": "02_Worldbuilding/Groups/Purist Coalition.md",
       "x": -520,
       "y": 1300,
       "width": 380,
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-groups-purist-coalition-md_1300",
-      "type": "file",
-      "file": "02_Worldbuilding/Groups/Purist Coalition.md",
-      "x": 0,
-      "y": 1300,
-      "width": 380,
-      "height": 120
-    },
-    {
-      "id": "n_02-worldbuilding-quests-quest-diplomatic-immunity-md_1820",
+      "id": "n_02-worldbuilding-quests-quest-diplomatic-immunity-md_1300",
       "type": "file",
       "file": "02_Worldbuilding/Quests/Quest - Diplomatic Immunity.md",
-      "x": 520,
+      "x": 0,
       "y": 1300,
       "width": 380,
       "height": 120
@@ -278,7 +269,7 @@
     {
       "id": "e_15",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-quest-the-plague-of-crystals-md_600"
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_600"
     },
     {
       "id": "e_16",
@@ -288,22 +279,17 @@
     {
       "id": "e_17",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-quest-the-seventh-shard-md_1640"
+      "toNode": "n_02-worldbuilding-groups-quest-the-new-world-order-md_1640"
     },
     {
       "id": "e_18",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-groups-quest-the-new-world-order-md_780"
+      "toNode": "n_02-worldbuilding-groups-purist-coalition-md_780"
     },
     {
       "id": "e_19",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-groups-purist-coalition-md_1300"
-    },
-    {
-      "id": "e_20",
-      "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-quest-diplomatic-immunity-md_1820"
+      "toNode": "n_02-worldbuilding-quests-quest-diplomatic-immunity-md_1300"
     }
   ]
 }

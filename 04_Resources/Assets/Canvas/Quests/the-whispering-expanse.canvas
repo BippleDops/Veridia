@@ -91,9 +91,9 @@
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-quests-depths-of-whispers-md_240",
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_240",
       "type": "file",
-      "file": "02_Worldbuilding/Quests/Depths of Whispers.md",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
       "x": -520,
       "y": 760,
       "width": 380,
@@ -114,24 +114,6 @@
       "file": "02_Worldbuilding/Quests/Ambush Point.md",
       "x": 520,
       "y": 760,
-      "width": 380,
-      "height": 120
-    },
-    {
-      "id": "n_02-worldbuilding-quests-discover-the-singers-beyond-md_420",
-      "type": "file",
-      "file": "02_Worldbuilding/Quests/Discover the Singers Beyond.md",
-      "x": -520,
-      "y": 940,
-      "width": 380,
-      "height": 120
-    },
-    {
-      "id": "n_02-worldbuilding-quests-quest-the-seventh-shard-md_940",
-      "type": "file",
-      "file": "02_Worldbuilding/Quests/Quest - The Seventh Shard.md",
-      "x": 0,
-      "y": 940,
       "width": 380,
       "height": 120
     }
@@ -185,7 +167,7 @@
     {
       "id": "e_9",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-depths-of-whispers-md_240"
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_240"
     },
     {
       "id": "e_10",
@@ -196,16 +178,6 @@
       "id": "e_11",
       "fromNode": "root",
       "toNode": "n_02-worldbuilding-quests-ambush-point-md_1280"
-    },
-    {
-      "id": "e_12",
-      "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-discover-the-singers-beyond-md_420"
-    },
-    {
-      "id": "e_13",
-      "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-quest-the-seventh-shard-md_940"
     }
   ]
 }

@@ -89,15 +89,6 @@
       "y": 580,
       "width": 380,
       "height": 120
-    },
-    {
-      "id": "n_02-worldbuilding-quests-the-second-rising-md_240",
-      "type": "file",
-      "file": "02_Worldbuilding/Quests/The_Second_Rising.md",
-      "x": -520,
-      "y": 760,
-      "width": 380,
-      "height": 120
     }
   ],
   "edges": [
@@ -145,11 +136,6 @@
       "id": "e_8",
       "fromNode": "root",
       "toNode": "n_02-worldbuilding-quests-quest-nature-s-balance-md_1100"
-    },
-    {
-      "id": "e_9",
-      "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-the-second-rising-md_240"
     }
   ]
 }

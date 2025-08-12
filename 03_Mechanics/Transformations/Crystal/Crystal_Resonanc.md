@@ -272,3 +272,23 @@ At 100 TP, the character faces the ultimate decision:
 - [[02_Worldbuilding/Places/The_Crystal_Gardens]]
 
 *"In crystal resonance, we find perfection—cold, beautiful, and utterly inhuman."*
+
+## Player-Facing Summary
+
+Crystal Resonanc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Crystal Resonanc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Resonanc.
+
+## Adventure Hooks
+
+- A rumor ties Crystal Resonanc to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Crystal Resonanc to avert a public scandal.
+- A map overlay reveals a hidden approach to Crystal Resonanc active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -1,3 +1,33 @@
 # NPC Portraits Gallery
 
 %% Use reading mode for visual gallery %%
+
+## gareth-default
+![](04_Resources/Assets/Portraits/gareth-default.png)
+
+## portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint
+![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
+
+## portrait-npc-jasper-three-eyes-flint-v1-jasper-three-eyes-flint
+![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v1-jasper-three-eyes-flint.png)
+
+## portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint
+![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint.png)
+
+## portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer
+![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
+
+## portrait-npc-pressure-angel-benthia-pressure-angel-benthia
+![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
+
+## portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia
+![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia.png)
+
+## portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png)
+
+## portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v1-quest-the-void-conspiracy.png)
+
+## portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-v2-quest-the-void-conspiracy.png)

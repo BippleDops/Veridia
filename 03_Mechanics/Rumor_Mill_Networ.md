@@ -30,3 +30,23 @@ Truth: 50% baseline; adjust ±20% by source reliability.
 ## Cross-References
 - [[03_Mechanics/Living_Economy_System.md|Living Economy]]
 - [[09_Performance/Indexes/Master_Narrative_Web.md|Narrative Web]]
+
+## Player-Facing Summary
+
+Rumor Mill Networ is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Rumor Mill Networ as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Rumor Mill Networ.
+
+## Adventure Hooks
+
+- A rumor ties Rumor Mill Networ to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Rumor Mill Networ to avert a public scandal.
+- A map overlay reveals a hidden approach to Rumor Mill Networ active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

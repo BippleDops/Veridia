@@ -199,3 +199,23 @@ updated: 2025-08-11
 - [[Aethermoor - Session 08 Between Two Worlds]]
 - [[Aethermoor - Session 09 The Price of Unity]]
 - [[Aethermoor - Session 10 The Deep Mother Rises]]
+
+## Player-Facing Summary
+
+Aquabyssos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos.
+
+## Adventure Hooks
+
+- A rumor ties Aquabyssos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Aquabyssos to avert a public scandal.
+- A map overlay reveals a hidden approach to Aquabyssos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

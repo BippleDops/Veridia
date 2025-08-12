@@ -37,3 +37,23 @@ obsidianUIMode: preview
 ## Cross-References
 - [[02_Worldbuilding/People/The Verdant Accord.md|Verdant Accord]]
 - [[02_Worldbuilding/Places/Pressure Gate.md|Pressure Gates]]
+
+## Player-Facing Summary
+
+Disease And Plague Syste is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Disease And Plague Syste as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Disease And Plague Syste.
+
+## Adventure Hooks
+
+- A rumor ties Disease And Plague Syste to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Disease And Plague Syste to avert a public scandal.
+- A map overlay reveals a hidden approach to Disease And Plague Syste active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

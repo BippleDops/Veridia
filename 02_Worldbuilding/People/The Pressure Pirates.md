@@ -18,3 +18,23 @@ updated: 2025-08-11
 
 - [[The Final Choice]]
 - [[Lighthouse Keeper]]
+
+## Player-Facing Summary
+
+The Pressure Pirates is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Pressure Pirates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Pirates.
+
+## Adventure Hooks
+
+- A rumor ties The Pressure Pirates to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Pressure Pirates to avert a public scandal.
+- A map overlay reveals a hidden approach to The Pressure Pirates active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

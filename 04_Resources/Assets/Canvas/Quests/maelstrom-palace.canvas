@@ -10,9 +10,9 @@
       "height": 140
     },
     {
-      "id": "n_02-worldbuilding-places-maelstrom-palace-md_300",
+      "id": "n_reports-bidirectional-links-md_300",
       "type": "file",
-      "file": "02_Worldbuilding/Places/Maelstrom Palace.md",
+      "file": "reports/bidirectional_links.md",
       "x": -520,
       "y": 220,
       "width": 380,
@@ -23,7 +23,7 @@
     {
       "id": "e_0",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-places-maelstrom-palace-md_300"
+      "toNode": "n_reports-bidirectional-links-md_300"
     }
   ]
 }

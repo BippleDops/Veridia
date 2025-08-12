@@ -190,9 +190,9 @@
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-quests-the-second-rising-md_1820",
+      "id": "n_02-worldbuilding-lore-lock-fragment-md_1820",
       "type": "file",
-      "file": "02_Worldbuilding/Quests/The_Second_Rising.md",
+      "file": "02_Worldbuilding/Lore/Lock Fragment.md",
       "x": 520,
       "y": 1300,
       "width": 380,
@@ -303,7 +303,7 @@
     {
       "id": "e_20",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-the-second-rising-md_1820"
+      "toNode": "n_02-worldbuilding-lore-lock-fragment-md_1820"
     }
   ]
 }

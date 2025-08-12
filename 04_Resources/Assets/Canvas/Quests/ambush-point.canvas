@@ -118,9 +118,9 @@
       "height": 120
     },
     {
-      "id": "n_02-worldbuilding-quests-find-the-missing-caravan-md_420",
+      "id": "n_02-worldbuilding-quests-aquabyssos-md_420",
       "type": "file",
-      "file": "02_Worldbuilding/Quests/Find_the_Missing_Caravan.md",
+      "file": "02_Worldbuilding/Quests/Aquabyssos.md",
       "x": -520,
       "y": 940,
       "width": 380,
@@ -191,7 +191,7 @@
     {
       "id": "e_12",
       "fromNode": "root",
-      "toNode": "n_02-worldbuilding-quests-find-the-missing-caravan-md_420"
+      "toNode": "n_02-worldbuilding-quests-aquabyssos-md_420"
     }
   ]
 }

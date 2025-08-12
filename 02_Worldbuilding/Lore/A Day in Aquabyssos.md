@@ -552,3 +552,23 @@ From the early morning pressure adjustments to the evening social gatherings, ev
 - [[Pressure Terminal]]
 - [[The Hadal Depths]]
 - [[Aquabyssos Culture and Society]]
+
+## Player-Facing Summary
+
+A Day in Aquabyssos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of A Day in Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around A Day in Aquabyssos.
+
+## Adventure Hooks
+
+- A rumor ties A Day in Aquabyssos to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at A Day in Aquabyssos to avert a public scandal.
+- A map overlay reveals a hidden approach to A Day in Aquabyssos active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

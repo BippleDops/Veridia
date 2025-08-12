@@ -524,3 +524,23 @@ Following the Great Convergence, the merged realm of Aquabyssos has undergone th
 - [[New Tethys]]
 - [[Port Meridian]]
 - [[Deep Parliament Chambers]]
+
+## Player-Facing Summary
+
+Post Merge Chronology is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Post Merge Chronology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Post Merge Chronology.
+
+## Adventure Hooks
+
+- A rumor ties Post Merge Chronology to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Post Merge Chronology to avert a public scandal.
+- A map overlay reveals a hidden approach to Post Merge Chronology active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

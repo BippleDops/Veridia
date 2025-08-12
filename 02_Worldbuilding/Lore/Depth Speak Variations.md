@@ -180,3 +180,23 @@ The pressure-influenced speech patterns and linguistic variations found througho
 - [[Aquabyssos Languages]]
 - [[Common Idioms and Sayings]]
 - [[Professional Terminology]]
+
+## Player-Facing Summary
+
+Depth Speak Variations is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Depth Speak Variations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Speak Variations.
+
+## Adventure Hooks
+
+- A rumor ties Depth Speak Variations to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Depth Speak Variations to avert a public scandal.
+- A map overlay reveals a hidden approach to Depth Speak Variations active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

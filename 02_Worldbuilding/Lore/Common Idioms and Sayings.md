@@ -297,3 +297,23 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - [[Professional Terminology]]
 - [[Swear Words and Curses]]
 - [[Name Etymology Guide]]
+
+## Player-Facing Summary
+
+Common Idioms and Sayings is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Common Idioms and Sayings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Common Idioms and Sayings.
+
+## Adventure Hooks
+
+- A rumor ties Common Idioms and Sayings to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Common Idioms and Sayings to avert a public scandal.
+- A map overlay reveals a hidden approach to Common Idioms and Sayings active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

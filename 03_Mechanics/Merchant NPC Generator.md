@@ -494,3 +494,15 @@ Use the merchant generator to create recurring NPCs who grow and change alongsid
 The economic complexity allows merchants to serve multiple campaign functions: quest givers, information sources, political connections, moral dilemmas, and sources of ongoing conflict. Use their business operations as frameworks for adventures that combine commerce, politics, culture, and personal drama.
 
 Remember that merchants exist within larger economic and political systems. Their individual stories should connect to broader campaign themes about power, justice, cultural change, and the consequences of individual choices on wider society.
+
+## Lore Details
+
+Legends speak of Merchant NPC Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant NPC Generator.
+
+## Adventure Hooks
+
+- A rumor ties Merchant NPC Generator to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Merchant NPC Generator to avert a public scandal.
+- A map overlay reveals a hidden approach to Merchant NPC Generator active only during specific tides/storms.
+
+<!-- enriched: true -->

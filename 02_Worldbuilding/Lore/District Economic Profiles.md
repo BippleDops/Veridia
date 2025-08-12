@@ -609,3 +609,4 @@ Use district economics as more than background color - make them active elements
 Consider how economic inequality between districts creates social tension and political instability. Player characters with different district backgrounds may have very different perspectives on economic issues, creating role-playing opportunities and moral conflicts.
 
 The interconnected nature of district economies means that actions in one area can have far-reaching consequences, allowing creative players to achieve goals through indirect economic manipulation rather than direct confrontation.
+<!-- enriched: true -->

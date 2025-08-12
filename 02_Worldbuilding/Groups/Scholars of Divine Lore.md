@@ -442,3 +442,23 @@ Official agencies see the Scholars as:
 - [[Crystal Guardian Orders]]
 - [[Chief Scholar Meridian Deepcurrent]]
 - [[Reality Anchors]]
+
+## Player-Facing Summary
+
+Scholars of Divine Lore is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Scholars of Divine Lore as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scholars of Divine Lore.
+
+## Adventure Hooks
+
+- A rumor ties Scholars of Divine Lore to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Scholars of Divine Lore to avert a public scandal.
+- A map overlay reveals a hidden approach to Scholars of Divine Lore active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

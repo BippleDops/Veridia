@@ -305,11 +305,16 @@ Undead parliament that continues debating despite having no living constituents.
 5. **New Drowns** (recent arrivals)
 6. **The Forgotten** (memory-lost)
 
+### Cultural Customs and Traditions
+The sophisticated culture of Abyssos Prime reflects the unique challenges of underwater civilization combined with the trauma of the Great Drowning. Citizens follow the elaborate protocols detailed in the [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]], including depth-based greeting customs, pressure-dining etiquette, and memorial traditions for the drowned. Throughout the year, the city observes festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete]], including the Deep Mother's Calling and the Festival of Memory Preservation. Professional guilds maintain ancient traditions described in the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], though adapted for underwater life and the presence of shadow-replacements.
+
 ### Daily Life
 - **Work Cycles:** Based on tides, not day/night
 - **Recreation:** Memory viewing, shadow plays, depth diving
 - **Education:** Forgetting schools, adaptation academies
 - **Religion:** Worship of the Drowned God, Deep Current cults
+- **Social Etiquette:** Pressure bows, current-touch salutations, and depth-status recognition
+- **Festivals:** Seasonal observances adapted for underwater life, including memory harvesting celebrations
 
 ## Tidal & Temporal Sensory Cycles
 
@@ -569,7 +574,10 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 ## Cross-References
 
-- [[02_Worldbuilding/Places/Abyssos Prime]]
+- [[02_Worldbuilding/Lore/Aquabyssos Cultural Codex]] - Underwater cultural traditions and customs
+- [[02_Worldbuilding/Lore/Festival Calendar Complete]] - Seasonal celebrations and observances
+- [[02_Worldbuilding/Lore/Guild Traditions Compendium]] - Professional customs adapted for underwater life
+- [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] - Diplomatic protocols with surface dwellers
 
 <!-- enriched: true -->
 - [[Fortress of the Deeps]]

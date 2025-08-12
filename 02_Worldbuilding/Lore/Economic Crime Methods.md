@@ -519,3 +519,4 @@ Use economic crimes as more than just background elements - make them active for
 Consider how different types of economic crime create different kinds of moral questions for player characters. Tax evasion, money laundering, and market manipulation each involve different ethical issues and create different types of victims.
 
 The sophisticated nature of economic crime allows for complex plots that develop over multiple sessions, requiring careful investigation, strategic thinking, and difficult moral decisions. These crimes often involve legitimate institutions and respected individuals, creating ambiguity about who can be trusted.
+<!-- enriched: true -->

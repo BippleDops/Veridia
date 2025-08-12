@@ -291,3 +291,13 @@ The core ethical dilemma: Are shadow-touched individuals still the same person, 
 ## DM Notes
 
 Medical ethics scenarios work best when players have established relationships with potential patients. Build toward major medical crises by first presenting smaller ethical choices. Allow players to debate and discuss options thoroughly - the decision-making process is often more important than the final choice. Remember that even trained medical professionals struggle with these dilemmas, so don't expect players to have perfect answers.
+
+## Player-Facing Summary
+
+Medical Ethics in Plague Crisis is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Medical Ethics in Plague Crisis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Medical Ethics in Plague Crisis.
+
+<!-- enriched: true -->

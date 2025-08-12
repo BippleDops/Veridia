@@ -362,3 +362,23 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - [[Wind Song Linguistic Guide]]
 - [[Professional Terminology]]
 - [[Cultural Exchange Society]]
+
+## Player-Facing Summary
+
+Swear Words and Curses is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Swear Words and Curses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Swear Words and Curses.
+
+## Adventure Hooks
+
+- A rumor ties Swear Words and Curses to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Swear Words and Curses to avert a public scandal.
+- A map overlay reveals a hidden approach to Swear Words and Curses active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

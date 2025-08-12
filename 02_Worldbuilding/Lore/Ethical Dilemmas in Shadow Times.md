@@ -249,3 +249,13 @@ Different groups within the world should have varying ethical frameworks. What s
 ## DM Notes
 
 Use these dilemmas sparingly - one major moral crisis every 2-3 sessions prevents ethical fatigue. Allow players to debate and discuss freely. The goal isn't to find "correct" answers but to explore how their characters grow through difficult choices. Remember that moral complexity should enhance drama, not paralyze gameplay.
+
+## Player-Facing Summary
+
+Ethical Dilemmas in Shadow Times is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Ethical Dilemmas in Shadow Times as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ethical Dilemmas in Shadow Times.
+
+<!-- enriched: true -->

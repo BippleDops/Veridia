@@ -461,3 +461,23 @@ Understanding noble leisure schedules provides insight into the values, prioriti
 - [[Noble Culture and Etiquette]]
 - [[Political Systems and Governance]]
 - [[Cultural Arts and Patronage]]
+
+## Player-Facing Summary
+
+Noble Leisure Schedules is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Noble Leisure Schedules as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Noble Leisure Schedules.
+
+## Adventure Hooks
+
+- A rumor ties Noble Leisure Schedules to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Noble Leisure Schedules to avert a public scandal.
+- A map overlay reveals a hidden approach to Noble Leisure Schedules active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

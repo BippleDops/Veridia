@@ -610,3 +610,4 @@ Use poverty survival strategies as examples of community resilience and alternat
 Consider how poverty survival strategies challenge assumptions about individual versus community responsibility for economic welfare. Characters may encounter very different ideas about property, sharing, and economic obligation.
 
 The sophisticated nature of community survival strategies demonstrates that poverty communities are not passive victims but active agents creating solutions to systemic problems. This can lead to adventures involving community organizing, alternative economic development, and social justice advocacy.
+<!-- enriched: true -->

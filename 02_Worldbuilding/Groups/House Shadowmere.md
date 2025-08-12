@@ -39,6 +39,13 @@ House Shadowmere operates as the realm's premier intelligence and espionage orga
 - **Notable Features:** Eyes change color based on lies detected, can become partially transparent
 - **Secret:** Has been dead for 20 years - current version is her shadow given independent life
 
+**Key Relationships:**
+- **[[Duke Marcus Brightshield]]** - Childhood friend turned political rival; still uses their childhood code words in private messages
+- **[[Ambassador Korvin Blacktide]]** - Former lover who ended relationship when she "died"; doesn't know she's actually dead
+- **[[Parliament of Shadows]]** - Shadow Intelligence Chief coordinating true governance
+- **[[Order of the Silent Depths]]** - Member providing political protection for historical secrets
+- **[[Memory Merchant Valeria Siltweave]]** - Alliance for memory-based intelligence gathering
+
 ### The Heir Apparent: Lord Vexton Shadowmere "The Web-Walker"
 - **Age:** 32 (probably)
 - **Position:** Foreign Intelligence Chief, Shadow Diplomat
@@ -52,6 +59,12 @@ House Shadowmere operates as the realm's premier intelligence and espionage orga
 - **Personality:** Cold, efficient, treats people as data points
 - **Notable Features:** Perfect memory, can absorb others' memories through touch
 - **Secret:** Addicted to experiencing other people's emotions through stolen memories
+
+**Key Relationships:**
+- **[[Sir Theron Brightshield]]** - Childhood trauma bond, both survived same massacre; now memory construct vs. memory addict
+- **[[Captain Marina Tidecrest]]** - Secret romantic affair through memory-sharing addiction
+- **[[Silverscale Consortium]]** - Professional partnership in memory trading markets
+- **[[Resonance Conspiracy]]** - Collaboration on consciousness manipulation research
 
 ### The Invisible Son: Marcus Shadowmere
 - **Age:** 24

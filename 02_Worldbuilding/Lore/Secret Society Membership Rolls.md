@@ -613,3 +613,23 @@ Aquabyssos harbors dozens of secret societies, mystery cults, and clandestine or
 
 *"Every secret shared doubles the number of those who know it, but halves the number who understand it."*
 — The Anonymous Inquisitor, "Meditations on Hidden Knowledge"
+
+## Player-Facing Summary
+
+Secret Society Membership Rolls is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Secret Society Membership Rolls as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Secret Society Membership Rolls.
+
+## Adventure Hooks
+
+- A rumor ties Secret Society Membership Rolls to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Secret Society Membership Rolls to avert a public scandal.
+- A map overlay reveals a hidden approach to Secret Society Membership Rolls active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

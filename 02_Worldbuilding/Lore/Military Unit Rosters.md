@@ -600,3 +600,23 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 *"In the depths, rank is what the surface sees. Brotherhood is what keeps you breathing."*
 — Marine General Harrison Ironhold, "Leadership Under Pressure"
+
+## Player-Facing Summary
+
+Military Unit Rosters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Military Unit Rosters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Unit Rosters.
+
+## Adventure Hooks
+
+- A rumor ties Military Unit Rosters to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Military Unit Rosters to avert a public scandal.
+- A map overlay reveals a hidden approach to Military Unit Rosters active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

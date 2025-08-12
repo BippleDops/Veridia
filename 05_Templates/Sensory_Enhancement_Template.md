@@ -238,3 +238,23 @@
 - **Mystery clues** - sensory details that reveal hidden information or dangers
 - **Emotional connection** - descriptions that create player investment in locations/NPCs
 - **Immersion maintenance** - consistent sensory vocabulary and detail levels
+
+## Player-Facing Summary
+
+Sensory Enhancement Template is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Sensory Enhancement Template as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sensory Enhancement Template.
+
+## Adventure Hooks
+
+- A rumor ties Sensory Enhancement Template to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Sensory Enhancement Template to avert a public scandal.
+- A map overlay reveals a hidden approach to Sensory Enhancement Template active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

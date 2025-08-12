@@ -493,3 +493,4 @@ Use black markets as more than just sources of illegal goods - make them complex
 Consider the moral ambiguity inherent in black markets - they often provide services that people genuinely need but cannot obtain through legal channels. This creates opportunities for players to wrestle with ethical questions about law, justice, and survival.
 
 The interconnected nature of legal and illegal economies means that disrupting black markets can have unexpected consequences for legitimate businesses and ordinary citizens, allowing for complex plots where simple solutions create new problems.
+<!-- enriched: true -->

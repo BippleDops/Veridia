@@ -24,6 +24,8 @@ danger_level: Moderate
 ## Overview
 Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, where ships from across the world dock to trade in Aether Crystals and exotic goods. The city is ruled not by nobles but by the [[02_Worldbuilding/Groups/Merchant Princes]], a council of the wealthiest traders. Recently, the city has been plagued by a mysterious crystal corruption spreading through the docks.
 
+As a major cross-cultural hub, Port Meridian serves as the primary meeting point where the aerial traditions of Aethermoor encounter the depth-dwelling customs of visiting Aquabyssos merchants. The city has developed unique protocols found in the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]] for managing diplomatic and commercial interactions between these vastly different cultures. Throughout the year, Port Meridian celebrates festivals from the [[02_Worldbuilding/Lore/Festival Calendar Complete]], with trade-focused celebrations like the Grand Market Opening drawing visitors from both realms. The city's merchant guilds follow traditions outlined in the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], adapting ancient practices for the realities of inter-realm commerce.
+
 ### First Approach: Sensory Immersion
 **Visual Spectacle**: The harbor materializes through morning mist as a forest of crystal-topped masts and soaring spires. Massive loading cranes embedded with Aether Crystals pulse with rainbow light, while ships of every design from elegant elven vessels to brutalist dwarf cargo haulers crowd the wharves. The crystal corruption manifests as veins of sickly purple-black spreading through dock structures like infected marble, creating an ominous contrast to the prosperity.
 

@@ -413,3 +413,13 @@ Short-term survival requires decisions that may damage long-term governance. Pre
 ## DM Notes
 
 Political compromise scenarios work best when players have established relationships with political figures and institutions. Build toward major political crises by first presenting smaller political decisions and their consequences. Allow extensive discussion of political options - politics is often about deliberation and negotiation rather than quick action. Remember that political compromise often involves choosing between imperfect options rather than finding perfect solutions.
+
+## Player-Facing Summary
+
+Political Compromise Costs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Political Compromise Costs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Political Compromise Costs.
+
+<!-- enriched: true -->

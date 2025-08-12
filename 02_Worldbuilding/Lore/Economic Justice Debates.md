@@ -341,3 +341,13 @@ Should scarce resources fund immediate relief or long-term reconstruction? Prese
 ## DM Notes
 
 Economic dilemmas work best when connected to characters' personal experiences and relationships. Build toward major resource allocation crises by first showing smaller economic tensions. Allow players time to debate and discuss options - economic choices often have no time pressure and benefit from thorough consideration. Remember that most people have limited understanding of economic theory, so focus on practical consequences rather than abstract principles.
+
+## Player-Facing Summary
+
+Economic Justice Debates is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Economic Justice Debates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Economic Justice Debates.
+
+<!-- enriched: true -->

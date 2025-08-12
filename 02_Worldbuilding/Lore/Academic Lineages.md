@@ -605,3 +605,23 @@ The academic institutions of Aquabyssos operate through complex webs of mentorsh
 
 *"The deepest knowledge flows not through books, but through the bonds between minds that seek truth together."*
 — Professor Thalassa Deepthought, "Meditations on Academic Community"
+
+## Player-Facing Summary
+
+Academic Lineages is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Academic Lineages as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Academic Lineages.
+
+## Adventure Hooks
+
+- A rumor ties Academic Lineages to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Academic Lineages to avert a public scandal.
+- A map overlay reveals a hidden approach to Academic Lineages active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

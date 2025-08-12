@@ -16,11 +16,13 @@ obsidianUIMode: preview
 # Linguistic Quick Reference
 
 ## Summary
+
 Essential guide for DMs to incorporate linguistic richness into encounters, social interactions, and worldbuilding across both Aquabyssos and Aethermoor.
 
 ## Basic Language Difficulty Classes
 
 ### **Environmental Modifiers**
+
 | Environment | Native Speaker | Adapted Speaker | Non-Adapted |
 |-------------|---------------|-----------------|-------------|
 | Surface | DC 10 | DC 12 | DC 15 |
@@ -29,6 +31,7 @@ Essential guide for DMs to incorporate linguistic richness into encounters, soci
 | Extreme | DC 18 | DC 22 | Disadvantage |
 
 ### **Social Context Modifiers**
+
 | Context | Modifier | Notes |
 |---------|----------|--------|
 | Casual conversation | +0 | Everyday interaction |
@@ -43,6 +46,7 @@ Essential guide for DMs to incorporate linguistic richness into encounters, soci
 ### **By Social Class**
 
 #### **Working Class**
+
 - Simple sentence structure
 - Regional dialect strong
 - Professional slang frequent
@@ -50,6 +54,7 @@ Essential guide for DMs to incorporate linguistic richness into encounters, soci
 - *Example*: "Current's turning rough today. Best secure your gear tight-like."
 
 #### **Merchant Class**
+
 - Moderate formality
 - Trade terminology common
 - Code-switching for different customers
@@ -57,6 +62,7 @@ Essential guide for DMs to incorporate linguistic richness into encounters, soci
 - *Example*: "Finest depth-crystals this side of the Hadal Depths, friend. Quality guaranteed by my family's honor."
 
 #### **Noble Class**
+
 - Formal grammar and vocabulary
 - Environmental metaphors frequent
 - Euphemistic language for unpleasant topics
@@ -64,6 +70,7 @@ Essential guide for DMs to incorporate linguistic richness into encounters, soci
 - *Example*: "The current political depths require careful navigation, would you not agree?"
 
 #### **Criminal/Shadow**
+
 - Coded language and double meanings
 - Shortened, efficient phrases
 - Trust-testing speech patterns
@@ -73,24 +80,28 @@ Essential guide for DMs to incorporate linguistic richness into encounters, soci
 ### **By Environmental Adaptation**
 
 #### **Surface-Adapted Speech**
+
 - Quick, sharp consonants
 - Rising tonal patterns
 - Frequent breathing pauses
 - Light metaphors common
 
 #### **Mid-Depth Adapted Speech**
+
 - Measured, deliberate pacing
 - Pressure-influenced vowel shifts
 - Echo-awareness in conversation
 - Balanced metaphor usage
 
 #### **Deep-Adapted Speech**
+
 - Slow, resonant delivery
 - Subsonic frequency elements
 - Long pauses for emphasis
 - Darkness and pressure metaphors
 
 #### **Altitude-Adapted Speech**
+
 - Tonal variations with meaning
 - Wind-rhythm speech patterns
 - Harmonic undertones
@@ -194,8 +205,10 @@ Roll d12:
 11. **Kelp Farmer**: Organic growth metaphors, seasonal time references
 12. **Deep Guard**: Military precision, emergency protocol terminology
 
-### **Aethermoor Accents**  
+### **Aethermoor Accents**
+
 Roll d12:
+
 1. **Highland Storm**: Sharp mountain echoes, avalanche metaphors
 2. **Crystal Tuner**: Harmonic precision, technical resonance terms
 3. **Wind Rider**: Flowing tonal patterns, aerial navigation speech
@@ -214,12 +227,14 @@ Roll d12:
 ### **Respectful Communication**
 
 #### **Aquabyssos**
+
 - **Depth Reference**: Acknowledge speaker's adaptation level with appropriate pressure terminology
 - **Current Courtesy**: Use flow metaphors to show understanding of natural order
 - **Memory Honor**: Reference traditional knowledge respectfully
 - **Void Reverence**: Speak cautiously of dangerous deep phenomena
 
 #### **Aethermoor**
+
 - **Altitude Acknowledgment**: Use appropriate sky-level terminology for speaker's height capability
 - **Harmonic Courtesy**: Match tonal patterns to show respect
 - **Storm Reverence**: Reference weather with appropriate awe and respect
@@ -228,17 +243,20 @@ Roll d12:
 ### **Offensive Communication Patterns**
 
 #### **Universal Offenses**
+
 - **Realm Superiority**: Claiming one's home realm is superior
 - **Adaptation Mocking**: Making fun of environmental adaptation differences
 - **Professional Dismissal**: Insulting someone's trade or calling
 - **Cultural Ignorance**: Using terminology incorrectly due to lack of understanding
 
 #### **Aquabyssos Specific**
+
 - **Shallow Insults**: Calling someone surface-minded or lacking depth
 - **Pressure Weakness**: Suggesting someone can't handle deep conditions
 - **Current Confusion**: Implying someone doesn't understand natural flow
 
 #### **Aethermoor Specific**
+
 - **Ground-Bound**: Suggesting someone lacks elevation or perspective
 - **Tone-Deaf**: Implying someone doesn't understand harmonic communication
 - **Storm-Afraid**: Suggesting someone fears weather or change
@@ -246,6 +264,7 @@ Roll d12:
 ## Language Learning Opportunities
 
 ### **In-Character Language Acquisition**
+
 - **Immersion**: Extended time in environment provides gradual proficiency
 - **Professional Training**: Guild membership includes specialized terminology
 - **Cultural Romance**: Intimate relationships accelerate language learning
@@ -253,6 +272,7 @@ Roll d12:
 - **Academic Study**: Formal education provides comprehensive linguistic foundation
 
 ### **Mechanical Benefits**
+
 - **Social Advantage**: Proper language use grants advantage on persuasion/deception
 - **Information Access**: Specialized terminology unlocks professional secrets
 - **Cultural Integration**: Language mastery improves faction standing
@@ -272,3 +292,24 @@ Roll d12:
 - [[Common Idioms and Sayings]] - Cultural expressions
 - [[Religious Liturgy]] - Sacred languages
 - [[Academic Jargon]] - Scholarly discourse
+
+## Player-Facing Summary
+
+Linguistic Quick Reference is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Linguistic Quick Reference as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Linguistic Quick Reference.
+
+## Adventure Hooks
+
+- A rumor ties Linguistic Quick Reference to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Linguistic Quick Reference to avert a public scandal.
+- A map overlay reveals a hidden approach to Linguistic Quick Reference active only during specific tides/storms.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->
+

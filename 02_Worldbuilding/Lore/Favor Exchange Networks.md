@@ -438,3 +438,4 @@ Use favor networks to create ongoing character relationships and long-term campa
 Consider how different cultural backgrounds create different expectations about favor obligations. Characters from different districts or realms may have very different ideas about what constitutes appropriate favor exchange, creating role-playing opportunities and potential conflicts.
 
 The non-monetary nature of favor networks allows characters to access resources and opportunities that money cannot buy, while creating social obligations that limit their freedom of action in interesting ways. This creates a different type of resource management challenge that emphasizes relationships over wealth.
+<!-- enriched: true -->

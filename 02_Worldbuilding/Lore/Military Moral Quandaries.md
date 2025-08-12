@@ -411,3 +411,13 @@ Military planning assault on cult stronghold in abandoned cathedral:
 ## DM Notes
 
 Military ethics scenarios work best when players have personal investment in military characters and institutions. Build toward major ethical crises by first presenting smaller military moral choices. Allow time for player discussion of options, but maintain time pressure appropriate to military decision-making. Remember that military ethics training helps but doesn't eliminate moral complexity - even trained officers struggle with these dilemmas.
+
+## Player-Facing Summary
+
+Military Moral Quandaries is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Military Moral Quandaries as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Moral Quandaries.
+
+<!-- enriched: true -->

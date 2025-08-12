@@ -39,8 +39,8 @@ const USE_REAL = ARGS.includes('--real');
 const TYPES_FILTER = (() => { const a = ARGS.find(x => x.startsWith('--types=')); return a ? a.replace('--types=', '').split(',').map(s=>s.trim().toLowerCase()) : null; })();
 const LIMIT = (() => { const a = ARGS.find(x => x.startsWith('--limit=')); if (!a) return null; const n = parseInt(a.replace('--limit=', ''), 10); return Number.isFinite(n) ? n : null; })();
 const STRICT_REAL = ARGS.includes('--strict') || ARGS.includes('--no-placeholder');
-const CONCURRENCY = (() => { const a = ARGS.find(x => x.startsWith('--concurrency=')); if (!a) return 3; const n = parseInt(a.split('=')[1], 10); return Number.isFinite(n) && n > 0 ? n : 3; })();
-const QPS = (() => { const a = ARGS.find(x => x.startsWith('--qps=')); if (!a) return 2; const n = parseInt(a.split('=')[1], 10); return Number.isFinite(n) && n > 0 ? n : 2; })();
+const CONCURRENCY = (() => { const a = ARGS.find(x => x.startsWith('--concurrency=')); if (!a) return 2; const n = parseInt(a.split('=')[1], 10); return Number.isFinite(n) && n > 0 ? n : 2; })();
+const QPS = (() => { const a = ARGS.find(x => x.startsWith('--qps=')); if (!a) return 1; const n = parseInt(a.split('=')[1], 10); return Number.isFinite(n) && n > 0 ? n : 1; })();
 
 const CONFIG_PATH = path.join(ROOT, '.obsidian', 'api_config.json');
 let OPENAI_API_KEY = process.env.OPENAI_API_KEY || '';
@@ -202,7 +202,8 @@ async function main() {
     for (const p of prompts) {
       if (!p || p.disabled) continue;
       if (!p.type || !p.name || !p.id) continue;
-      if (['audio','animation'].includes(String(p.type).toLowerCase())) continue;
+      const t = String(p.type).toLowerCase();
+      if (['audio','animation','ui','handout'].includes(t)) continue; // de-prioritize low-value types
       promptsAll.push(p);
     }
   }

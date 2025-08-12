@@ -3,6 +3,8 @@
     "api_key": "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",
     "model": "gpt-4.1",
     "dalle_model": "gpt-image-1",
+    "organization": "org-2RQvi6xSEdaTmDXO2Brvi99T",
+    "project": "proj_b6VDmkRDhaa7ZlYvOxEtzJvv",
     "max_tokens": 4000,
     "temperature": 0.6
   },

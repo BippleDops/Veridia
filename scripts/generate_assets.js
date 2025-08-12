@@ -169,6 +169,13 @@ async function generateRealImage(promptObj) {
   const size = openaiSizeFor(promptObj.aspect);
   const promptText = promptObj.prompt || `${promptObj.name} ${type} in ${Array.isArray(promptObj.style)?promptObj.style.join(', '):'cohesive style'}`;
 
+  // Skip if PNG already exists to avoid unnecessary regeneration
+  try {
+    if (fs.existsSync(outPath)) {
+      return { outPath, metaOut };
+    }
+  } catch {}
+
   const headers = { 'Content-Type': 'application/json', 'Authorization': `Bearer ${OPENAI_API_KEY}` };
   if (OPENAI_ORG) headers['OpenAI-Organization'] = OPENAI_ORG;
   if (OPENAI_PROJECT) headers['OpenAI-Project'] = OPENAI_PROJECT;

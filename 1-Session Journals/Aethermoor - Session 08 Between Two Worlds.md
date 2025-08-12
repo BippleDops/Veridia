@@ -17,7 +17,6 @@ estimated_time: 4 hours
 tags:
 - aethermoor
 - aquabyssos
-- draft
 - dual-worlds
 - reality-merge
 - session
@@ -27,10 +26,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.687602+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

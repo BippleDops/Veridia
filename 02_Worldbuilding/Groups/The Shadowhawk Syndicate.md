@@ -1,14 +1,14 @@
 ---
 tags:
 - aethermoor
-- draft
 - group
 type: Group
 world: Aethermoor
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.876051+00:00'
 ---
+
 
 
 

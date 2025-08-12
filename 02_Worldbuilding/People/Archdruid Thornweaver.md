@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.363488+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 cr: '6'
 ---
+
 
 
 > [!figure] Portrait
@@ -23,7 +23,7 @@ cr: '6'
 *Voice of the Ancient Forest, Guardian of the Green*
 
 ## Overview
-Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
+Archdruid Thornweaver has protected [[02_Worldbuilding/Places/The Verdant Reach]] for three centuries, watching the forest struggle against crystal expansion. Leading the [[02_Worldbuilding/People/The Verdant Accord]], she represents the natural world's resistance to crystalline corruption. Ancient, wise, and increasingly desperate, she may be the last hope for preserving the pre-Shattering world.
 
 ## Appearance
 - **Race**: Wood Elf, extraordinarily old even for her kind

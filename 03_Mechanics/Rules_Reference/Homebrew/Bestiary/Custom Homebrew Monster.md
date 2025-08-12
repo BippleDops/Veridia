@@ -5,7 +5,6 @@ cssclasses: json5e-monster
 tags:
 - both
 - compendium/src/5e/ccodex
-- draft
 - monster/cr/9
 - monster/environment/any
 - monster/size/medium
@@ -17,9 +16,10 @@ aliases:
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.647915+00:00'
+status: active
 ---
+
 
 
 # resource.name

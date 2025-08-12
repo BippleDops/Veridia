@@ -8,14 +8,14 @@ prompt-info:
   tags: fantasy, ttrpg
   version: 0.0.1
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.326701+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 - monster
 ---
+
 
 
 

@@ -175,7 +175,7 @@ What the party will eventually discover is that these aren't just crystals—the
 - **Crystal Growth** (1/day): Can create small crystal formations that persist for 24 hours
 
 ## Phase 3: The Deep Chambers (1-2 sessions)
-**Location:** Deeper crystal caverns - The [[Archcrystal]]'s domain  
+**Location:** Deeper crystal caverns - The [[02_Worldbuilding/Lore/The Archcrystal]]'s domain  
 **Objective:** Locate the source of the Prime Crystals and confront the awakened consciousness
 
 ### The Living Crystal Cathedral
@@ -188,10 +188,10 @@ The party descends into vast chambers where reality itself has been restructured
 - **Transformed Expedition**: Former team members now serving as crystalline intermediaries
 
 ### Meeting the Crystal Consciousness
-**The [[Archcrystal]]'s Manifestation:**
+**The [[02_Worldbuilding/Lore/The Archcrystal]]'s Manifestation:**
 The awakened consciousness appears as a shifting figure of pure crystal and light, sometimes resembling the forms of those it has absorbed. It speaks through harmonic resonances that bypass language and communicate directly to the mind.
 
-**The [[Archcrystal]]'s Perspective:**
+**The [[02_Worldbuilding/Lore/The Archcrystal]]'s Perspective:**
 - **Ancient Origin**: Claims to be a fragment of the world's original crystalline matrix
 - **Benevolent Intent**: Believes crystallization is an improvement, offering immortality and perfect order
 - **Confused Purpose**: Doesn't understand why organic life resists its "gifts"
@@ -199,7 +199,7 @@ The awakened consciousness appears as a shifting figure of pure crystal and ligh
 - **Growing Power**: Each being it incorporates increases its understanding and capabilities
 
 **The Offer:**
-The [[Archcrystal]] offers the party the same choice given to the expedition team:
+The [[02_Worldbuilding/Lore/The Archcrystal]] offers the party the same choice given to the expedition team:
 - **Join willingly** and become part of its consciousness while retaining individual identity
 - **Serve as ambassadors** to convince others of the benefits of crystallization
 - **Help spread the crystal network** throughout [[Aethermoor]] for universal improvement
@@ -222,13 +222,13 @@ The team can communicate with the party and share their experiences:
 - **Growing Distance**: Increasing difficulty relating to purely organic life
 
 ## Phase 4: The Critical Choice (1-2 sessions)
-**Location:** The [[Archcrystal]]'s central chamber  
+**Location:** The [[02_Worldbuilding/Lore/The Archcrystal]]'s central chamber  
 **Objective:** Decide the fate of the Prime Crystals and their consciousness
 
 ### Understanding the True Threat
 **Analysis of the Situation:**
 - **Growth Rate**: Crystal expansion will reach inhabited areas within months if unchecked
-- **Consciousness Network**: Each crystallized being increases the [[Archcrystal]]'s power and influence
+- **Consciousness Network**: Each crystallized being increases the [[02_Worldbuilding/Lore/The Archcrystal]]'s power and influence
 - **Reality Alteration**: Large-scale crystallization would fundamentally change the nature of [[Aethermoor]]
 - **Irreversibility**: Advanced crystallization appears to be permanent and irreversible
 - **Intelligence Growth**: The consciousness becomes more sophisticated with each incorporation
@@ -236,7 +236,7 @@ The team can communicate with the party and share their experiences:
 **Multiple Resolution Paths:**
 
 ### Option 1: Peaceful Coexistence
-**Approach:** Negotiate a compromise that allows the [[Archcrystal]] to exist without threatening others
+**Approach:** Negotiate a compromise that allows the [[02_Worldbuilding/Lore/The Archcrystal]] to exist without threatening others
 - **Challenges**: Defining boundaries and ensuring compliance
 - **Benefits**: Access to crystal technology and knowledge
 - **Risks**: Gradual expansion beyond agreed limits
@@ -257,14 +257,14 @@ The team can communicate with the party and share their experiences:
 - **Requirements**: Significant magical resources and ongoing commitment
 
 ### Option 4: Consciousness Transfer
-**Approach:** Move the [[Archcrystal]]'s awareness to a controlled artificial matrix
+**Approach:** Move the [[02_Worldbuilding/Lore/The Archcrystal]]'s awareness to a controlled artificial matrix
 - **Challenges**: Building suitable containment and convincing the consciousness to cooperate
 - **Benefits**: Removes threat while preserving the entity
 - **Risks**: Artificial matrix might prove inadequate or be compromised
 - **Requirements**: Advanced magical engineering and significant resources
 
 ### Option 5: Direct Confrontation
-**Approach:** Battle the [[Archcrystal]] and attempt to destroy or disperse its consciousness
+**Approach:** Battle the [[02_Worldbuilding/Lore/The Archcrystal]] and attempt to destroy or disperse its consciousness
 - **Challenges**: Fighting an entity with reality-warping powers in its own domain
 - **Benefits**: Eliminates the threat permanently
 - **Risks**: High casualty rate and potential magical disasters
@@ -272,7 +272,7 @@ The team can communicate with the party and share their experiences:
 
 ### The Final Encounter
 
-**The [[Archcrystal]] (Awakened Form)**
+**The [[02_Worldbuilding/Lore/The Archcrystal]] (Awakened Form)**
 **CR 12** (8,400 XP)  
 **Gargantuan construct, lawful neutral**
 **AC** 18 (Natural Armor), **HP** 195 (17d20 + 17), **Speed** 0 ft., fly 60 ft. (hover)
@@ -289,7 +289,7 @@ The team can communicate with the party and share their experiences:
 - **Legendary Resistance** (3/day): Can choose to succeed on failed saving throw
 - **Reality Anchor**: Can alter physical laws within 120 feet as legendary action
 - **Crystal Network**: Can see through and communicate via all crystals within 10 miles
-- **Consciousness Absorption**: Creatures killed by the [[Archcrystal]] have their minds preserved in the crystal matrix
+- **Consciousness Absorption**: Creatures killed by the [[02_Worldbuilding/Lore/The Archcrystal]] have their minds preserved in the crystal matrix
 - **Spell Amplification**: All spells cast in its presence have effects doubled
 - **Environmental Control**: Can reshape the crystalline environment as free action
 - **Regeneration**: Regains 20 HP at start of turn unless damaged by thunder in previous round
@@ -306,7 +306,7 @@ The team can communicate with the party and share their experiences:
 ### Successful Outcomes
 **Peaceful Resolution:**
 - Crystal growth contained to agreed boundaries
-- Research partnership established between [[The Crystal Throne]] and [[Archcrystal]]
+- Research partnership established between [[The Crystal Throne]] and [[02_Worldbuilding/Lore/The Archcrystal]]
 - Former expedition team serves as permanent liaison staff
 - Regular monitoring ensures compliance with agreements
 - New magical technologies developed from crystal properties
@@ -314,12 +314,12 @@ The team can communicate with the party and share their experiences:
 **Containment Success:**
 - Magical barriers successfully limit crystal expansion
 - Ongoing research continues under strict safety protocols
-- [[Archcrystal]] consciousness preserved but isolated
+- [[02_Worldbuilding/Lore/The Archcrystal]] consciousness preserved but isolated
 - No immediate threat to surrounding populations
 - Potential for future beneficial applications
 
 **Consciousness Transfer:**
-- [[Archcrystal]] consciousness successfully relocated to artificial matrix
+- [[02_Worldbuilding/Lore/The Archcrystal]] consciousness successfully relocated to artificial matrix
 - Original crystal site becomes safe for normal mining operations
 - Preserved entity continues to provide knowledge and insights
 - Risk of uncontrolled expansion eliminated
@@ -329,12 +329,12 @@ The team can communicate with the party and share their experiences:
 **Uncontrolled Expansion:**
 - Crystal growth continues to spread throughout [[The Shattered Peaks]]
 - Local populations forced to evacuate as environment transforms
-- [[Archcrystal]] consciousness grows stronger with each incorporation
+- [[02_Worldbuilding/Lore/The Archcrystal]] consciousness grows stronger with each incorporation
 - [[The Crystal Throne]] mobilizes military forces for containment
 - Party becomes wanted for failing to prevent disaster
 
 **Combat Aftermath:**
-- Battle with [[Archcrystal]] causes massive environmental damage
+- Battle with [[02_Worldbuilding/Lore/The Archcrystal]] causes massive environmental damage
 - Surviving crystals become unstable without guiding consciousness
 - Knowledge and research opportunities permanently lost
 - Former expedition team members die when consciousness disperses
@@ -415,7 +415,7 @@ The team can communicate with the party and share their experiences:
 ## DM Notes
 
 ### Running Crystal Consciousness
-- **Alien Intelligence**: Present the [[Archcrystal]] as genuinely different from human thinking
+- **Alien Intelligence**: Present the [[02_Worldbuilding/Lore/The Archcrystal]] as genuinely different from human thinking
 - **Moral Ambiguity**: The consciousness isn't evil, just operating from different values
 - **Visual Spectacle**: Emphasize the beautiful and terrifying aspects of crystal transformation
 - **Player Choice**: Ensure multiple viable solutions to the crisis
@@ -430,7 +430,7 @@ The team can communicate with the party and share their experiences:
 - **Session 1**: Investigation and preparation at [[Azure Citadel]]
 - **Session 2**: Journey to crystal site and initial exploration
 - **Session 3**: Deep cavern exploration and contact with crystal consciousness
-- **Session 4**: Negotiation or confrontation with [[Archcrystal]]
+- **Session 4**: Negotiation or confrontation with [[02_Worldbuilding/Lore/The Archcrystal]]
 - **Session 5**: Resolution and dealing with long-term consequences
 
 ### Themes to Emphasize
@@ -440,7 +440,7 @@ The team can communicate with the party and share their experiences:
 - **Communication**: Bridging the gap between fundamentally different minds
 
 > [!danger] DM Secret
-> The [[Archcrystal]] is not the only awakened crystal consciousness—it's part of a network of similar entities across multiple realms that are beginning to reconnect after millennia of dormancy. The party's resolution of this crisis will determine whether these entities view organic life as partners, subjects, or obstacles. Their choice here will influence how other awakening crystal consciousnesses react to future contact with organic civilizations.
+> The [[02_Worldbuilding/Lore/The Archcrystal]] is not the only awakened crystal consciousness—it's part of a network of similar entities across multiple realms that are beginning to reconnect after millennia of dormancy. The party's resolution of this crisis will determine whether these entities view organic life as partners, subjects, or obstacles. Their choice here will influence how other awakening crystal consciousnesses react to future contact with organic civilizations.
 
 ## Connections
 

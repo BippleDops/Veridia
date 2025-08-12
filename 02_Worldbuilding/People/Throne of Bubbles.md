@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.547479+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 cr: '20'
 ---
+
 
 
 > [!figure] Portrait

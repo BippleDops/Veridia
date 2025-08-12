@@ -2,15 +2,15 @@
 type: Item
 tags:
 - both
-- draft
 - note
 aliases: []
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.649748+00:00'
+status: active
 ---
+
 
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-items-items.svg)

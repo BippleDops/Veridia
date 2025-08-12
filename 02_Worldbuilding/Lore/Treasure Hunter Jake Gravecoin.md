@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - haunted-mountain-range
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.806981+00:00'
 ---
+
 
 
 

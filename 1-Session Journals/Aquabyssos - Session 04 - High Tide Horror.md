@@ -1,7 +1,6 @@
 ---
 tags:
 - aquabyssos
-- draft
 - parliament-of-shadows
 - session
 - shadow-harvest
@@ -53,10 +52,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.680538+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

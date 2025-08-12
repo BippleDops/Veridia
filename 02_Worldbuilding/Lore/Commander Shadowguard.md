@@ -1,14 +1,14 @@
 ---
 tags:
-- draft
 - relationship-matrix
 - universal
 type: Lore
 world: Universal
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.468196+00:00'
 ---
+
 
 
 ## Overview

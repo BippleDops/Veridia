@@ -2,7 +2,6 @@
 type: Group
 tags:
 - both
-- draft
 - note
 aliases: []
 created: 2025-07-23
@@ -11,9 +10,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.064683+00:00'
+status: active
 ---
+
 
 
 > [!figure] Heraldry

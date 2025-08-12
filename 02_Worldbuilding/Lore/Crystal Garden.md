@@ -169,7 +169,7 @@ Individuals from both worlds who come seeking physical, emotional, or spiritual 
 Scholars, mages, and scientists studying dimensional phenomena:
 - **[[Unity Institute]]** researchers documenting successful reality integration techniques
 - **[[The Crystal Academy]]** students learning advanced crystal consciousness communication
-- **[[Memory Research Institute]]** academics studying the garden's memory storage capabilities
+- **[[02_Worldbuilding/Lore/The Memory Research Institute]]** academics studying the garden's memory storage capabilities
 - **Reality theorists** investigating the principles that allow impossible physics to function
 - **Healers** learning new techniques for treating transformation and corruption effects
 

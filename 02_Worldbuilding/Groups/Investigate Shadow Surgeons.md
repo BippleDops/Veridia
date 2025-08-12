@@ -310,7 +310,7 @@ The Investigate Shadow Surgeons (ISS) is a specialized medical organization dedi
 - **[[Department of Public Health]]**: Policy development and population health monitoring
 - **[[Law Enforcement Medical Support]]**: Forensic investigation collaboration
 - **[[Emergency Management Services]]**: Crisis response coordination
-- **[[Regulatory Medical Authority]]**: Standards development and compliance
+- **[[02_Worldbuilding/Groups/Regulatory Medical Authorit]]**: Standards development and compliance
 - **[[Government Research Funding]]**: Financial support for shadow medical research
 
 ### Community Organizations

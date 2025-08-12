@@ -1,7 +1,6 @@
 ---
 tags:
 - both
-- draft
 - investigation
 - player-resource
 - random-tables
@@ -12,9 +11,10 @@ location: Abyssos Prime
 spoiler_level: Mixed truth and lies
 created: 2025-08-07
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.703874+00:00'
+status: active
 ---
+
 
 
 

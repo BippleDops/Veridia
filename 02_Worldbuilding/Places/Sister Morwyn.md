@@ -12,7 +12,7 @@ location_type: Sacred Memorial Site
 parent_location: '[[Abyssos Prime]]'
 sub_locations:
 - '[[02_Worldbuilding/Places/The Archive of Unremembered Things]]'
-- '[[Memory Vaults]]'
+- '[[02_Worldbuilding/Lore/The Memory Vaults]]'
 - '[[Garden of Whispered Names]]'
 - '[[Hall of Final Echoes]]'
 depth: 2500-2800 feet
@@ -21,7 +21,7 @@ government: Sacred Trust
 ruler: '[[02_Worldbuilding/People/Sister Morwyn Veilkeeper]]'
 factions:
 - '[[02_Worldbuilding/Groups/Order of the Drowned Star]]'
-- '[[Memory Keepers]]'
+- '[[02_Worldbuilding/Places/Keepers of Memory]]'
 - '[[The Forgiveness Seekers]]'
 danger_level: 3
 visited: false

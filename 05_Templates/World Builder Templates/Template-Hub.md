@@ -2,16 +2,16 @@
 tags:
 - both
 - category/hub
-- draft
 MyContainer: null
 MyCategory: Hamlet <80
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.335719+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 
@@ -257,7 +257,7 @@ Make notes of what you need to track in the town here.
 
 | Destination |  Travel Days  |
 | ---|---|
-| [[Next Town A]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+| [[02_Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 | [[Next Town B ]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
 
 # CAMPING 

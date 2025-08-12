@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.352386+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 ---
+
 
 
 > [!figure] Portrait
@@ -257,7 +257,7 @@ Cassius's supernatural abilities come at the cost of his soul, measured as perce
 
 ## Connected Locations
 - **[[Blackwater Estate]]** - Ancestral home filled with diplomatic secrets
-- **[[Diplomatic Quarter]]** - Center of Aquabyssos's international relations
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]** - Center of Aquabyssos's international relations
 - **[[Shadow Embassy]]** - Secret meeting place for supernatural negotiations
 - **[[The Soul Market]]** - Hidden realm where supernatural debts are traded
 

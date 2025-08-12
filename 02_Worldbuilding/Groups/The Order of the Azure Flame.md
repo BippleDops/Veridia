@@ -2,7 +2,6 @@
 type: Group
 tags:
 - both
-- draft
 - faction
 - magic-hunters
 - zealots
@@ -15,9 +14,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:04.882444+00:00'
+status: active
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-order-of-the-azure-flame-the-order-of-the-azure-flame.svg)

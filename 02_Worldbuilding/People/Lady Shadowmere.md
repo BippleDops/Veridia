@@ -1,14 +1,14 @@
 ---
 tags:
 - dimensional-nexus-(both-realms)
-- draft
 - npc
 type: NPC
 world: Dimensional Nexus (Both Realms)
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.493396+00:00'
 ---
+
 
 
 

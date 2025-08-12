@@ -85,7 +85,7 @@ The complex consists of the ruins of what was once the most advanced magical res
 Fifty years before The Great Drowning, seers and prophets across the realm began reporting visions of a catastrophic flood that would consume civilization. These warnings grew more frequent and detailed over time, describing massive tidal waves, cities sinking beneath the waves, and the transformation of the world into an underwater realm.
 
 ### The Brightwater Initiative
-Dr. Thaddeus Brightwater, the realm's most celebrated magical theorist and professor at the [[Royal Academy of Arcane Arts]], assembled a team of the brightest minds to develop a solution. The Brightwater Initiative, as it came to be known, was funded by the crown and given unlimited resources to prevent the prophesied catastrophe.
+Dr. Thaddeus Brightwater, the realm's most celebrated magical theorist and professor at the [[02_Worldbuilding/Groups/Royal Academy of Arcane Arts - Ruin]], assembled a team of the brightest minds to develop a solution. The Brightwater Initiative, as it came to be known, was funded by the crown and given unlimited resources to prevent the prophesied catastrophe.
 
 **Team Members:**
 - Dr. Thaddeus Brightwater - Project Leader (Transmutation Specialist)

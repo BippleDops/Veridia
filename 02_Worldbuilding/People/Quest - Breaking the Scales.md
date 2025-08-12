@@ -1,14 +1,14 @@
 ---
 tags:
 - aethermoor
-- draft
 - npc
 type: NPC
 world: Aethermoor
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.504793+00:00'
 ---
+
 
 
 

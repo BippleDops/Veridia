@@ -1,14 +1,14 @@
 ---
 tags:
 - both-worlds
-- draft
 - lore
 type: Lore
 world: Both Worlds
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.683206+00:00'
 ---
+
 
 
 

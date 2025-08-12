@@ -327,7 +327,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 - **[[The Hidden Anchorage]]**: Covert harbor for illegal operations
 - **[[Smuggler's Den]]**: Contraband processing and distribution center
 - **[[The Chart Vault]]**: Secret navigation information and restricted routes
-- **[[Emergency Protocols Center]]**: Crisis response and evacuation planning
+- **[[02_Worldbuilding/Lore/Emergency Protocols Cente]]**: Crisis response and evacuation planning
 - **[[The Shadow Registry]]**: Classified vessel documentation and identity records
 
 ## Weaknesses & Vulnerabilities
@@ -435,7 +435,7 @@ The Shadow Marina operates as [[02_Worldbuilding/Places/Aquabyssos]]'s premier s
 - **[[Shadow Navigation Charts]]** - Interdimensional maritime maps
 - **[[Phantom Harbor Charter]]** - Legal authorization for marina operations
 - **[[Dimensional Anchor Technology]]** - Equipment for reality stabilization
-- **[[Shadow Vessel Registry]]** - Documentation for interdimensional ships
+- **[[02_Worldbuilding/Lore/The Vessel Registry]]** - Documentation for interdimensional ships
 - **[[Maritime Emergency Protocols]]** - Crisis response procedures
 
 ---

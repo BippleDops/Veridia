@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.541914+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 cr: '12'
 ---
+
 
 
 > [!figure] Portrait
@@ -135,7 +135,7 @@ The Tenebrarum realm itself is described as a place where shadows have substance
 - **[[Merchant Princes]]**: Trade partnerships and commercial development
 - **[[Coral Merchants Guild]]**: Exchange of unique shadow-realm and aquatic goods
 - **[[The Liminal Trading Company]]**: Specialized inter-dimensional commerce
-- **[[Shadow-Silk Weavers Guild]]**: Artisan cooperation and craft exchanges
+- **[[02_Worldbuilding/Groups/Shadow-Silk Weavers Guil]]**: Artisan cooperation and craft exchanges
 - **[[Umbral Crystal Miners]]**: Resource extraction and processing partnerships
 
 ## Powers & Abilities

@@ -305,7 +305,7 @@ The Gilded Shard is [[Aethermoor]]'s premier institution for crystal magic resea
 - Market for academy-developed magical items
 - Economic support through research commissions
 
-**[[Coral Gardens]]**: Environmental research  
+**[[02_Worldbuilding/Lore/The Coral Gardens]]**: Environmental research  
 - Collaborative studies on natural magic
 - Shared research on biological-magical interactions
 - Environmental impact assessments of magical experiments

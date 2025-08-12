@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.465400+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 ---
+
 
 
 > [!figure] Portrait
@@ -64,7 +64,7 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 ## Relationships & Academic Network
 
 ### Academic Colleagues
-- **[[02_Worldbuilding/Groups/Crystal Academy]]** - Primary institutional affiliation
+- **[[02_Worldbuilding/Groups/The Crystal Academy]]** - Primary institutional affiliation
 - **Crystal Research Faculty** - Fellow professors studying crystal magic at the academy
 - **[[02_Worldbuilding/People/The Crimson Sage]]** - Unknown connection providing research insights
 - **Graduate Students** - Proteges learning advanced crystal manipulation techniques
@@ -179,7 +179,7 @@ His current obsession involves something he calls "The Crystal Synthesis"—a th
 - **[[Master Artificer Korvin Gearwright]]** - Former student who now rivals his innovations
 - **Dean Lumina Brightforge** - Academy superior who protects him from his critics
 - **Professor Thesis Bookworm** - Colleague who documents his discoveries (and accidents)
-- **[[The Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
+- **[[02_Worldbuilding/Lore/Crystal Guard]]** - Knights who both rely on his innovations and monitor his experiments
 
 ### Cross-Realm Research Collaborations
 - **[[02_Worldbuilding/People/Captain Nautilus the Deep Wanderer]]** - Deep-sea divine crystal phenomenon research partnership
@@ -330,10 +330,10 @@ Aldric's research facility is a maze of interconnected chambers, each serving sp
 - **[[Master Artificer Korvin Gearwright]]** - Former student and current rival
 - **[[Queen Seraphina Lumengarde]]** - Patron who values his work but fears his methods
 - **[[High Inquisitor Maltheos]]** - Religious opponent who sees his work as heretical
-- **[[The Crystal Guard]]** - Military order that uses his innovations
+- **[[02_Worldbuilding/Lore/Crystal Guard]]** - Military order that uses his innovations
 
 ## Connected Locations
-- **[[Crystal Academy]]** - His primary workplace and center of crystal research
+- **[[02_Worldbuilding/Groups/The Crystal Academy]]** - His primary workplace and center of crystal research
 - **[[Luminous Laboratory District]]** - The academic and research quarter of Aethermoor
 - **[[The Crystal Caves]]** - Source of his raw materials and test site for large experiments
 - **[[Underground Testing Facility]]** - Secret location for his most dangerous research

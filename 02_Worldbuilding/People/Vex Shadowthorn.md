@@ -2,7 +2,6 @@
 tags:
 - both
 - category/people
-- draft
 - npc
 aliases: []
 MyContainer: None
@@ -14,11 +13,12 @@ current_hp: 45
 max_hp: 68
 ac: 16
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.613469+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

@@ -4,7 +4,6 @@ MyCategory: null
 tags:
 - both
 - category/item
-- draft
 obsidianUIMode: preview
 aliases:
 - ItemOtherName
@@ -13,11 +12,12 @@ Connected_Quests:
 Connected_Groups:
 - '[[05_Templates/World Builder Templates/Template-Group.md|Template-Group]]'
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.327837+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 

@@ -157,7 +157,7 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 - **[[Crystal-Enhanced Businesses]]**: Companies benefiting from magical technology
 - **[[Magic Schools and Academies]]**: Educational institutions teaching crystal use
 - **[[Healing Temples]]**: Religious organizations using crystal-based magic
-- **[[Luxury Crystal Markets]]**: Providers of non-essential magical conveniences
+- **[[02_Worldbuilding/Lore/Luxury Crystal Market]]**: Providers of non-essential magical conveniences
 - **[[Foreign Crystal Traders]]**: International suppliers enabling dependency
 
 ## Ideology & Beliefs
@@ -188,8 +188,8 @@ The Purist Coalition Thugs represent the militant arm of [[02_Worldbuilding/Plac
 ## Relationships & Politics
 
 ### Ideological Allies
-- **[[Natural Order Movement]]**: Moderate anti-crystal organization (strained relationship)
-- **[[Traditional Craftsmen Guild]]**: Non-magical artisans facing economic pressure
+- **[[02_Worldbuilding/Groups/Natural Order Movemen]]**: Moderate anti-crystal organization (strained relationship)
+- **[[02_Worldbuilding/Groups/Traditional Craftsmen Guil]]**: Non-magical artisans facing economic pressure
 - **[[Rural Resistance]]**: Farming communities opposing magical agriculture
 - **[[Religious Purists]]**: Sects believing magic corrupts divine order
 - **[[Foreign Anti-Magic States]]**: International groups with similar ideologies

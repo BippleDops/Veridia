@@ -475,7 +475,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[The Con
 
 ### Key Locations
 - [[The Harmonic Gardens]] - Peaceful merged zone with crystal-coral synthesis
-- [[The Storm Convergence]] - Chaotic weather zone combining both worlds' forces
+- [[02_Worldbuilding/Lore/The Storm of Convergence]] - Chaotic weather zone combining both worlds' forces
 - [[The Drowning Spires]] - Architectural merger of cities and ocean depths
 - [[The Trading Nexus]] - Commercial zone enabling interdimensional commerce
 - [[The Battlefield Convergence]] - Military zone with ongoing dimensional warfare
@@ -510,7 +510,7 @@ Merged Reality Zones serve as preview and preparation for the ultimate [[The Con
 ## Connections
 
 - [[Crystal Garden]]
-- [[Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Customs House]]
 - [[Healing Two Worlds]]
 - [[The Transformed Citizens]]

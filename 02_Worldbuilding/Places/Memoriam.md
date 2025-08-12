@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.756375+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -207,7 +207,7 @@ Areas where ancient plague victims are interred:
 - Protective wards that deal radiant damage to living creatures (2d6 per round)
 
 ## Connected Mysteries
-Memoriam holds secrets connecting to the [[War of Crushing Depths]], the origins of [[The Depth Plague]], ancient pacts with [[The Deep Ones]], and prophecies about Aquabyssos's future. The memorial's vast archives contain information crucial to understanding the threats facing the underwater realm, but accessing this knowledge requires navigating complex relationships with both the living and the dead.
+Memoriam holds secrets connecting to the [[War of Crushing Depths]], the origins of [[The Depth Plague]], ancient pacts with [[02_Worldbuilding/Places/Deep Ones]], and prophecies about Aquabyssos's future. The memorial's vast archives contain information crucial to understanding the threats facing the underwater realm, but accessing this knowledge requires navigating complex relationships with both the living and the dead.
 
 
 ## Connections

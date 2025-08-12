@@ -18,7 +18,7 @@ category: Government Seat/Magical Fortress
 depth: Variable (0-4000 feet)
 difficulty: Levels 10-18
 ruler: '[[Storm Empress Tempestas Maelstrom]]'
-government: '[[The Tempest Sovereignty]]'
+government: '[[02_Worldbuilding/Lore/Tempest Sovereignty]]'
 danger_level: Extreme
 population: 800+ (court, staff, guards, prisoners)
 age: 300 years (built post-Drowning)
@@ -26,7 +26,7 @@ created: 2025-08-10
 updated: 2025-08-11
 related_entities:
 - '[[Storm Empress Tempestas Maelstrom]]'
-- '[[The Tempest Sovereignty]]'
+- '[[02_Worldbuilding/Lore/Tempest Sovereignty]]'
 - '[[Stormcaller Navy]]'
 - '[[The Maelstrom Court]]'
 ---
@@ -43,7 +43,7 @@ related_entities:
 
 ## Overview
 
-Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[02_Worldbuilding/Places/Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[Storm Empress Tempestas Maelstrom]] and the seat of [[The Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
+Maelstrom Palace stands as one of the most magnificent and terrifying architectural achievements in all of [[02_Worldbuilding/Places/Aquabyssos]] - a massive floating fortress built within the eye of a perpetual magical storm. Home to [[Storm Empress Tempestas Maelstrom]] and the seat of [[02_Worldbuilding/Lore/Tempest Sovereignty]], this palace defies conventional understanding of both architecture and meteorology, existing simultaneously above and below the ocean's surface as it rides within the calm center of an ever-raging tempest.
 
 The palace itself is a marvel of elemental engineering, constructed from crystallized storm energy, enchanted metals, and living coral that has been shaped by decades of magical weather manipulation. It rises and falls through the water column as the storm moves, sometimes breaking the surface during powerful updrafts, other times diving thousands of feet beneath the waves when the tempest's fury pulls it into the depths. This constant motion, combined with the protective barrier of the surrounding storm, makes the palace virtually impossible to approach without invitation - and utterly deadly to those who try.
 

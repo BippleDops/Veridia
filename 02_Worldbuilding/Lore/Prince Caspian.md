@@ -1,14 +1,14 @@
 ---
 tags:
-- draft
 - relationship-matrix
 - universal
 type: Lore
 world: Universal
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.352808+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-prince-caspian-duskwater-prince-caspian-duskwater.svg)

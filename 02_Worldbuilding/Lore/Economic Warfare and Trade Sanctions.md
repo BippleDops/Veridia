@@ -527,7 +527,7 @@ Coordinated law enforcement raids destroyed major criminal financial networks, d
 - [[02_Worldbuilding/Groups/Major Trading Companies]] - Primary practitioners of economic warfare
 - [[02_Worldbuilding/Groups/Merchant Princes]] - Council coordinating surface economic warfare
 - [[02_Worldbuilding/People/Banker Titus Goldcurrent]] - Master of financial warfare tactics
-- [[03_Mechanics/Living_Economy_System]] - Mechanical systems for economic manipulation
+- [[03_Mechanics/Living_Economy_Syste]] - Mechanical systems for economic manipulation
 - [[03_Mechanics/Economic_Warfare_Simulator]] - Detailed mechanical framework for economic conflicts
 
 ## Player-Facing Summary
@@ -553,3 +553,4 @@ Economic warfare provides a framework for sophisticated political intrigue that 
 Consider how economic warfare affects the daily lives of ordinary people, creating opportunities for characters to see the human cost of abstract financial conflicts. This can drive character development and provide motivation for characters to become involved in larger political and economic struggles.
 
 The invisible nature of economic warfare allows for subtle, long-term campaign development where the consequences of early adventures continue to influence later events in unexpected ways.
+<!-- enriched: true -->

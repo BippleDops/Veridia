@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.294135+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -26,7 +26,7 @@ danger_level: Moderate
 
 ## Overview
 
-The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[Crystal Cultivators]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
+The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s capital district, representing the pinnacle of crystalline cultivation and magical horticulture. Here, master gardeners known as [[02_Worldbuilding/Groups/Crystal Cultivators Guild]] tend to living crystal formations that grow like plants, creating an ever-changing landscape of prismatic beauty and concentrated magic. The Gardens serve as both a place of wonder for citizens and a crucial source of refined [[Aether Crystals]] for the realm's magical infrastructure.
 
 ## History and Origins
 
@@ -435,7 +435,7 @@ The Crystal Gardens sprawl across twelve acres in the heart of [[Aethermoor]]'s 
 - [[Sage Iris Crystalbloom]]
 - [[Queen Seraphina Lumengarde]]
 - [[Crystal Wardens]]
-- [[Crystal Cultivators Guild]]
+- [[02_Worldbuilding/Groups/Crystal Cultivators Guil]]
 
 **Related Items and Concepts**:
 - [[Aether Crystals]]

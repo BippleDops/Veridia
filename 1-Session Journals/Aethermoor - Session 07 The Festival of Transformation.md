@@ -18,7 +18,6 @@ estimated_time: 4 hours
 tags:
 - aethermoor
 - climax
-- draft
 - festival
 - session
 - session-journal
@@ -28,10 +27,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.689497+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

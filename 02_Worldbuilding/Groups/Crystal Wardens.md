@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.194678+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-crystal-wardens-crystal-wardens.svg)

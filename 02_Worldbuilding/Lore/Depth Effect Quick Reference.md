@@ -623,7 +623,7 @@ Characters specialized in different depth ranges develop unique capabilities:
 - **[[Tidal Chambers]]** - Depth-variable environmental chambers
 
 ### Supporting Organizations
-- **[[Depth Safety Authority]]** - Regulatory body for depth-related safety
+- **[[02_Worldbuilding/Groups/Depth Safety Authorit]]** - Regulatory body for depth-related safety
 - **[[Deep Water Rescue Service]]** - Emergency response for depth incidents
 - **[[Pressure Equipment Guild]]** - Manufacturers and maintenance specialists
 - **[[Marine Environmental Institute]]** - Research organization studying depth effects

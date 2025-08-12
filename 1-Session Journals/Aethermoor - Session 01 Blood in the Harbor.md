@@ -2,7 +2,6 @@
 tags:
 - aethermoor
 - crystal-plague
-- draft
 - session
 session: Session-01
 date: null
@@ -48,10 +47,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.668136+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

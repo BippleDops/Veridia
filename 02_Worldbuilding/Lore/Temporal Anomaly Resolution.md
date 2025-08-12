@@ -624,7 +624,7 @@ Working with Temporal Anomaly Resolution provides unique character development o
 - **[[Temporal Stabilization Network]]**: Infrastructure maintaining temporal stability across both realms
 
 ### Important Organizations
-- **[[Temporal Engineering Guild]]**: Professional organization coordinating temporal safety efforts
+- **[[02_Worldbuilding/Groups/Temporal Engineering Guil]]**: Professional organization coordinating temporal safety efforts
 - **[[International Temporal Safety Council]]**: Government organization overseeing temporal engineering
 - **[[Emergency Response Corps]]**: Specialized teams handling temporal crises
 - **[[Temporal Research Institute]]**: Scientific organization advancing temporal understanding

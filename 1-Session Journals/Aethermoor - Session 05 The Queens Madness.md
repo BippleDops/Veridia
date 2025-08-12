@@ -2,7 +2,6 @@
 tags:
 - aethermoor
 - crystal-plague
-- draft
 - queen-seraphina
 - session
 - seven-shards
@@ -25,7 +24,7 @@ npcs_met:
 - '[[02_Worldbuilding/People/The Crimson Sage]]'
 - '[[Princess Celestia]] (revealed)'
 encounters:
-- '[[Crystal Guard Elite]]'
+- '[[02_Worldbuilding/Lore/The Crystal Guard Elite]]'
 - '[[Possessed Noble Coterie]]'
 - '[[02_Worldbuilding/Places/Throne Room - Heart of Palace|The Queen''s Shadow]]'
 quests_started:
@@ -58,10 +57,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.676265+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

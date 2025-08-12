@@ -389,3 +389,23 @@ Supplies network with black market medical equipment, test subjects, and disposa
 - Create uncertainty about NPC identity and authenticity
 - Establish time pressure for rescue missions - preservation has limits
 - Balance grotesque discoveries with moments of genuine human connection
+
+## Player-Facing Summary
+
+Shadow Surgery Network is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Shadow Surgery Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Surgery Network.
+
+## Adventure Hooks
+
+- A rumor ties Shadow Surgery Network to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Shadow Surgery Network to avert a public scandal.
+- A map overlay reveals a hidden approach to Shadow Surgery Network active only during specific tides/storms.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Shadow Surgery Network]]
+
+<!-- enriched: true -->

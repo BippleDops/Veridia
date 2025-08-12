@@ -2,7 +2,6 @@
 tags:
 - both
 - compass
-- draft
 - magic-item
 - quest-reward
 - wondrous-item
@@ -24,9 +23,10 @@ image_path: 04_Resources/Assets/Items/harbor_masters_compass.jpg
 created: 2025-01-25
 modified: 2025-07-23 12:39
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.650600+00:00'
+status: active
 ---
+
 
 
 

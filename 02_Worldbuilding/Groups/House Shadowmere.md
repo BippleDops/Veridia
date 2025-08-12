@@ -326,3 +326,17 @@ Every major house purchases intelligence from Shadowmere, creating complex web o
 
 *"Every shadow holds a secret, every secret casts a shadow. In the end, we are all shadows of ourselves."*
 — Lady Venetia Shadowmere, "Meditations on Information and Identity"
+
+## Player-Facing Summary
+
+House Shadowmere is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of House Shadowmere as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around House Shadowmere.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

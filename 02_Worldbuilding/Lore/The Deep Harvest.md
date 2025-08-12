@@ -30,7 +30,7 @@ access_restriction: Commercial and Government Licensed
 *Mechanized Abundance from the Ocean's Depths*
 
 > *"The Deep Harvest doesn't just feed Aquabyssos—it transforms the ocean floor into the most productive farmland in existence. We've turned the crushing depths into gardens of plenty, and the darkness into fields of light."*
-> — [[Master Harvest Engineer Kelp Deepsow]], Director of Marine Agricultural Operations
+> — [[02_Worldbuilding/Lore/Master Harvest Engineer Kelp Deepso]], Director of Marine Agricultural Operations
 
 ## Overview
 
@@ -153,7 +153,7 @@ The Deep Harvest system requires specialized resources from various suppliers:
 - **Marine-Grade Metals**: Corrosion-resistant alloys for underwater equipment, sourced from [[Deep Metals Consortium]]
 - **Bio-Compatible Components**: Materials suitable for biological integration, from [[Living Systems Suppliers]]
 - **Control Crystals**: Magical crystals managing automated systems, supplied by [[Crystal Forest]]
-- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[Marine Protection Guild]]
+- **Environmental Sealing**: Materials protecting equipment from deep-sea conditions, from [[02_Worldbuilding/Groups/Marine Protection Guil]]
 - **Energy Systems**: Power sources for autonomous operations, supplied by [[Deep Energy Consortium]]
 
 **Supply Chain Challenges:**
@@ -456,10 +456,10 @@ Understanding The Deep Harvest helps navigate Aquabyssos society:
 - [[02_Worldbuilding/Lore/Crystal Forest]] - Resource production partner providing enhancement materials
 - [[02_Worldbuilding/Lore/Pressure Adaptation System]] - Life support technology using harvested materials
 - [[02_Worldbuilding/Lore/Umbral Exchange]] - Primary trading platform for harvested products
-- [[02_Worldbuilding/People/Master Harvest Engineer Kelp Deepsow]] - System director and operations leader
+- [[02_Worldbuilding/Lore/Master Harvest Engineer Kelp Deepso]] - System director and operations leader
 - [[02_Worldbuilding/People/Chief Marine Engineer Coral Seaforge]] - Manufacturing facility director
 - [[02_Worldbuilding/Groups/Deep Metals Consortium]] - Material supplier for harvesting equipment
-- [[02_Worldbuilding/Groups/Marine Protection Guild]] - Environmental safety organization
+- [[02_Worldbuilding/Groups/Marine Protection Guil]] - Environmental safety organization
 
 
 ## Connections

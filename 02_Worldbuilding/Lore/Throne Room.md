@@ -107,7 +107,7 @@ Sitting on the transformed throne grants supernatural authority over subjects:
 The throne connects to crystal formations throughout [[02_Worldbuilding/Places/Aethermoor]]:
 - Real-time surveillance through crystal networks in major buildings
 - Communication with crystal consciousness in mines and sacred sites
-- Coordination of [[Crystal Guard Elite]] through shared crystal awareness
+- Coordination of [[02_Worldbuilding/Lore/The Crystal Guard Elite]] through shared crystal awareness
 - Influence over crystal-enhanced citizens and possessed individuals
 - Control of crystal-based magical infrastructure throughout the kingdom
 
@@ -118,7 +118,7 @@ The throne connects to crystal formations throughout [[02_Worldbuilding/Places/A
 Traditional royal audiences have been modified by the throne room's new properties:
 
 **Approach Protocol:**
-- Visitors must be escorted by [[Crystal Guard Elite]] members
+- Visitors must be escorted by [[02_Worldbuilding/Lore/The Crystal Guard Elite]] members
 - Crystal formations scan approaching individuals for hostile intentions
 - Memory crystals record all interactions for later review
 - Reality fluctuations may disorient or overwhelm unprepared visitors
@@ -227,7 +227,7 @@ The throne room sometimes displays visions of potential futures:
 Only certain individuals can safely access the archived memories:
 - **[[The Queen|Queen Seraphina]]**: Complete access to all stored information
 - **[[Possessed Noble Coterie]]**: Limited access to memories relevant to their responsibilities
-- **[[Crystal Guard Elite]]**: Access to tactical and security-related memories
+- **[[02_Worldbuilding/Lore/The Crystal Guard Elite]]**: Access to tactical and security-related memories
 - **Authorized Researchers**: Scholars studying convergence phenomena under supervision
 - **The Throne Room Itself**: The chamber's consciousness can selectively reveal information
 

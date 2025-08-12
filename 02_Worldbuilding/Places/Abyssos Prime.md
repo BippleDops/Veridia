@@ -4,7 +4,6 @@ tags:
 - both
 - capital
 - continent
-- draft
 - location
 location_name: Abyssos Prime
 location_type: Sunken Capital
@@ -49,10 +48,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-12
-status: draft
+updated: '2025-08-12T14:31:04.619717+00:00'
+status: active
 type: Location
 ---
+
 
 
 > [!figure] View

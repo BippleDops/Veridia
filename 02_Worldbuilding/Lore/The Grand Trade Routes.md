@@ -424,7 +424,7 @@ Each route segment has risk factors rated 1-10:
 - [[02_Worldbuilding/Lore/Economic Systems and Currency]]
 - [[02_Worldbuilding/Groups/Major Trading Companies]]
 - [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
-- [[03_Mechanics/Living_Economy_System]]
+- [[03_Mechanics/Living_Economy_Syste]]
 - [[03_Mechanics/Economic_Warfare_Simulator]]
 
 ## Player-Facing Summary
@@ -448,3 +448,4 @@ The routes themselves seem to have consciousness, responding to the ambitions of
 Use the trade routes as a framework for economic intrigue, political machinations, and adventure opportunities. The routes can serve as highways for plot development, connecting disparate locations and providing justification for NPC movements and resource availability. Consider how disruptions to trade affect local economies and political stability, creating ripple effects that can drive major campaign storylines.
 
 The economic complexity allows for sophisticated plots involving market manipulation, supply chain disruption, and financial warfare. Routes can be altered by political events, natural disasters, or supernatural interference, creating dynamic conditions that keep players engaged with the evolving economic landscape.
+<!-- enriched: true -->

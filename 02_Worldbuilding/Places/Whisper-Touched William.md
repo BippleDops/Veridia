@@ -259,7 +259,7 @@ The government archive where William was transformed may contain other individua
 
 ### Information Networks
 - **[[02_Worldbuilding/Places/The Archive of Unremembered Things]]:** Complementary knowledge preservation
-- **[[02_Worldbuilding/Places/Memory Vaults]]:** Cross-reference of stored memories and prophecies
+- **[[02_Worldbuilding/Lore/The Memory Vaults]]:** Cross-reference of stored memories and prophecies
 - **[[02_Worldbuilding/Lore/Aethermoor Archives]]:** Information exchange with surface world archives
 
 ### Government Relations

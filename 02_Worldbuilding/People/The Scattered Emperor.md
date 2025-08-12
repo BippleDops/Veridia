@@ -2,7 +2,6 @@
 tags:
 - aquabyssos
 - both
-- draft
 - fragmented-consciousness
 - npc
 - ruler
@@ -58,10 +57,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-12
-status: draft
+updated: '2025-08-12T14:31:05.461548+00:00'
+status: active
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

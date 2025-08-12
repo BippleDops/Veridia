@@ -135,7 +135,7 @@ The primary entrance to the vault is concealed within the throne room itself, ac
 
 **Key Documents**:
 - Original treaty with [[The Shadowhawk Syndicate]]
-- Proof of [[Crystal Council]] corruption
+- Proof of [[02_Worldbuilding/Lore/The Crystal Council]] corruption
 - Evidence of [[Cross-Realm Conspiracy]] between Aethermoor and Aquabyssos
 - The [[Deep Mother Protocol]] - contingency for otherworldly invasion
 - Maps of [[Hidden Smuggler's Cove]] and other criminal networks

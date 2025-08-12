@@ -27,4 +27,4 @@ Possible outcomes
 
 ## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_10]]
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

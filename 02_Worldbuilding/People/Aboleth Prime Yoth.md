@@ -98,7 +98,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 ### Enemies & Rivals
 - **[[02_Worldbuilding/People/The Scattered Emperor]]**: Only being who remembers Yoth's origins
 - **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Resists mental domination
-- **[[02_Worldbuilding/Groups/The Depth Guard]]**: Secretly work against shadow spread
+- **[[02_Worldbuilding/Lore/Depth Guard]]**: Secretly work against shadow spread
 - **[[02_Worldbuilding/People/Prophet Nerida Voidgazer]]**: Sees through Yoth's deceptions
 - **Surface Dwellers**: All who breathe air are anathema
 
@@ -256,7 +256,7 @@ Aboleth Prime Yoth is the most ancient and powerful aboleth in [[02_Worldbuildin
 ### Quests
 - [[02_Worldbuilding/Quests/Quest - The Shadow Conspiracy]]
 - [[02_Worldbuilding/Quests/Quest - The Deep Mother Rises]]
-- [[Quest - Memory Thieves]]
+- [[02_Worldbuilding/Lore/Quest - The Memory Thieves]]
 - [[Quest - Parliament Corruption]]
 - [[Quest - The Depth War]]
 

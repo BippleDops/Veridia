@@ -376,7 +376,7 @@ The Hadal Depths represent the absolute bottom of [[02_Worldbuilding/Places/Aqua
 - [[Pressure Suit of the Depths]] - Survival gear
 - [[Mother's Tear]] - Divine crystal
 - [[Reality Anchor]] - Existence protection
-- [[Depth Compass]] - Points to Mother
+- [[02_Worldbuilding/Lore/The Depth Compass]] - Points to Mother
 - [[The First Water]] - Primordial essence
 
 ---

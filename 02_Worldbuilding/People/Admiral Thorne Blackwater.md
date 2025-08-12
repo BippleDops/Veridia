@@ -394,7 +394,7 @@ Admiral Blackwater's greatest secret is his slow death from pressure poisoning -
 - [[Quest - The Deepmind Weapon]] - Completing the secret anti-Deepmind device
 - [[Quest - The Succession Crisis]] - Preparing for leadership transition
 - [[02_Worldbuilding/Quests/Discover Marina]] - Investigating Marina's true nature and threat level
-- [[Quest - The Family Reconciliation]] - Healing the rift with his son
+- [[02_Worldbuilding/Groups/Quest - The Family Reconciliatio]] - Healing the rift with his son
 
 
 ## Connections

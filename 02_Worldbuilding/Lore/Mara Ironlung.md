@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - location
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.804467+00:00'
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-innkeeper-mara-ironlung-innkeeper-mara-ironlung.svg)

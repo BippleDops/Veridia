@@ -13,7 +13,7 @@ world: Aethermoor
 type: Group
 faction_type: Revolutionary Transformation Movement
 alignment: Chaotic Neutral (Radical Reformers)
-headquarters: '[[The Crystal Manifesto Center]]'
+headquarters: '[[02_Worldbuilding/Lore/The Crystal Manifesto]]'
 leader: '[[Architect Prime Crystalline Vision]]'
 members: ~300 active revolutionaries, ~1200 sympathizers
 influence: Underground Networks, Intellectual Circles
@@ -541,7 +541,7 @@ Political changes might create opportunities for revolutionary ideas to be incor
 - [[02_Worldbuilding/Groups/Purist Coalition]]
 
 **Key Locations**:
-- [[The Crystal Manifesto Center]]
+- [[02_Worldbuilding/Lore/The Crystal Manifesto]]
 - [[Revolutionary Safe Houses]]
 - [[Underground Training Facilities]]
 - [[Propaganda Distribution Networks]]

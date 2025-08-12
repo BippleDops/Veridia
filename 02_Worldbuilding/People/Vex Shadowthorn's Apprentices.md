@@ -161,7 +161,7 @@ updated: 2025-08-11
 
 **Relationships**:
 - [[02_Worldbuilding/People/Vex Shadowthorn]] - Saved their life, fierce loyalty
-- [[02_Worldbuilding/Groups/Verdant Accord]] - Secret sympathy for their cause
+- [[02_Worldbuilding/People/The Verdant Accord]] - Secret sympathy for their cause
 - **Admiral Cassandra Stormwind** - Respects her anti-corruption stance
 - Sky traders and message services - Information network
 

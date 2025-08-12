@@ -322,7 +322,7 @@ Bexley serves as [[02_Worldbuilding/Places/Aquabyssos]]'s most important port ci
 - **[[Public Works Director Boris Bridgewright]]** - Infrastructure and maintenance
 - **[[Police Chief Sarah Lawkeeper]]** - Public safety and law enforcement
 - **[[Fire Chief Michael Rescuer]]** - Emergency services and fire protection
-- **[[Economic Development Director Carmen Commerce]]** - Business attraction and growth
+- **[[02_Worldbuilding/Lore/Economic Development Director Carmen Commerc]]** - Business attraction and growth
 - **[[Community Services Director Helen Helpinghand]]** - Social programs and citizen support
 
 ### Council Leaders

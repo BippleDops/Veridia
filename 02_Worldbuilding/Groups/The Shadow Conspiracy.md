@@ -234,7 +234,7 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 
 ### Shadow Leadership
 - **[[02_Worldbuilding/People/Shadow Duchess Nyx]]**: Enforcement (complicated)
-- **[[The First Shadow]]**: Mythical leader
+- **[[02_Worldbuilding/Lore/Quest - The First Shadow]]**: Mythical leader
 - **[[Councillor Void]]**: Strategic planning
 - **[[The Umbral Court]]**: Noble shadows
 - **[[Shadow Senate Leaders]]**: Political arm
@@ -281,7 +281,7 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 ### Active Resistance
 - **[[02_Worldbuilding/People/The Scattered Emperor]]**: Knows but paranoid
 - **[[02_Worldbuilding/People/Marina-Red-Tide-Coralheart]]**: Investigating
-- **[[The Depth Guard]]**: Secret resistance
+- **[[02_Worldbuilding/Lore/Depth Guard]]**: Secret resistance
 - **[[Original Survivor Network]]**: Hidden originals
 - **[[Light Bearers]]**: Anti-shadow militants
 
@@ -409,7 +409,7 @@ The Shadow Conspiracy is a coordinated effort by independent shadows to systemat
 
 ### Organizations
 - [[02_Worldbuilding/Places/Parliament of Echoes]] - Infiltrated government
-- [[The Depth Guard]] - Opposition
+- [[02_Worldbuilding/Lore/Depth Guard]] - Opposition
 - [[Memory Farmers]] - Collaborators
 - [[02_Worldbuilding/Groups/The Crown]] - Potential target
 - [[Light Bearers]] - Resistance

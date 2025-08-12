@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - location
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.400605+00:00'
 ---
+
 
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-kraken.svg)

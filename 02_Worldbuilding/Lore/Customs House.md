@@ -47,7 +47,7 @@ The [[02_Worldbuilding/Places/Aethermoor]] portion features traditional crystal 
 - **Processing Halls**: Large chambers where goods are examined using crystal-based detection magic
 - **Storage Vaults**: Secure warehouses for quarantined or disputed items
 - **Living Quarters**: Accommodations for customs officers and visiting merchants
-- **Guard Barracks**: Housing for [[Crystal Guard Elite]] border security forces
+- **Guard Barracks**: Housing for [[02_Worldbuilding/Lore/The Crystal Guard Elite]] border security forces
 
 **The Aquabyssos Side (The Pressure Portal)**
 The [[02_Worldbuilding/Places/Aquabyssos]] section reflects underwater architectural needs:
@@ -135,7 +135,7 @@ The Customs House serves as an intelligence hub:
 **[[Deputy Inspector Crystal-Flow Maria]]** (Aethermoor Representative)
 - Senior customs official specializing in magical item detection
 - Expert in crystal-based security systems and reality stabilization
-- Coordinates with [[Crystal Guard Elite]] for security operations
+- Coordinates with [[02_Worldbuilding/Lore/The Crystal Guard Elite]] for security operations
 - Maintains direct communication with [[02_Worldbuilding/Places/Crystalhaven]] government
 - Increasingly concerned about political use of customs data
 

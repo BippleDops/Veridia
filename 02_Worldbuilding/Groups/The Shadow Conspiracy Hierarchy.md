@@ -507,3 +507,19 @@ Important ally or player character family member begins advancing through shadow
 - Show both voluntary participation and coercive recruitment methods
 - Create opportunities for hierarchy members to change sides or seek redemption
 - Balance hierarchy threat level with potential for diplomatic resolution or internal reform
+
+## Player-Facing Summary
+
+The Shadow Conspiracy Hierarchy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Shadow Conspiracy Hierarchy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Conspiracy Hierarchy.
+
+## Adventure Hooks
+
+- A rumor ties The Shadow Conspiracy Hierarchy to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Shadow Conspiracy Hierarchy to avert a public scandal.
+- A map overlay reveals a hidden approach to The Shadow Conspiracy Hierarchy active only during specific tides/storms.
+
+<!-- enriched: true -->

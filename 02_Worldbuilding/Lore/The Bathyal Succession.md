@@ -659,7 +659,7 @@ Some succession-era issues remain unresolved:
 - [[The Depth Councils]] - Regional governmental bodies created during crisis
 - [[The Sacred Senate]] - Religious advisory institution integrated into democracy
 - [[The Constitution of Depths]] - Founding document establishing current government
-- [[The Battle of Parliament Deep]] - Decisive naval engagement ensuring democratic victory
+- [[02_Worldbuilding/Groups/The Battle of Parliament Dee]] - Decisive naval engagement ensuring democratic victory
 - [[The Mercy Accords]] - Post-conflict reconciliation agreements
 - [[The Great Thermal Shift]] - Natural disaster that tested early democratic government
 

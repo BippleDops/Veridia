@@ -1,15 +1,15 @@
 ---
 tags:
 - aquabyssos
-- draft
 - location
 type: Location
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.423013+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png)

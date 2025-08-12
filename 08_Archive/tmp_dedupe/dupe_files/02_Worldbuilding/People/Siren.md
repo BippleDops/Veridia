@@ -1,14 +1,14 @@
 ---
 tags:
 - both
-- draft
 - npc
 type: NPC
 world: Both
-status: draft
+status: active
 created: '2025-08-11T13:08:46.303646+00:00'
-updated: '2025-08-11T13:08:49.641776+00:00'
+updated: '2025-08-12T14:31:02.363569+00:00'
 ---
+
 
 
 ## Overview

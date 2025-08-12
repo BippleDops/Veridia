@@ -125,7 +125,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Threat Monitoring**: Surveillance of law enforcement and rival criminal organizations
 
 **Operations Staff**:
-- [[Intelligence Chief Shadow Knowall]] - Master spy with informants throughout the realm
+- [[02_Worldbuilding/Lore/Intelligence Chief Shadow Knowal]] - Master spy with informants throughout the realm
 - [[Planning Director Strategy Deepthink]] - Brilliant tactical mind behind major operations
 - [[Communications Master Signal Cryptkeeper]] - Manages all encrypted syndicate communications
 
@@ -204,7 +204,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Architectural Coral**: Specimens designed to grow into specific structural shapes
 
 **Research Staff**:
-- [[Master Cultivator Polyp Grower]] - Expert in coral biology and selective breeding
+- [[02_Worldbuilding/Groups/Master Cultivator Polyp Growe]] - Expert in coral biology and selective breeding
 - [[Toxin Specialist Venom Reef]] - Develops coral-based poisons and paralytic agents
 - [[Architect Coral Builder]] - Designs living structures that grow themselves
 

@@ -289,3 +289,17 @@ Built at a naturally occurring convergence point where the realms' boundaries th
 - [[Reality Anchor Network]]
 - [[Cross-Realm Conspiracy Networks]]
 - [[Inter-Realm Trade Routes]]
+
+## Player-Facing Summary
+
+Cross Dimensional Transit Authority is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Cross Dimensional Transit Authority as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cross Dimensional Transit Authority.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Cross-Dimensional Transit Authority]]
+
+<!-- enriched: true -->

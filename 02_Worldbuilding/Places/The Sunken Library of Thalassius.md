@@ -28,7 +28,7 @@ related_entities:
 - '[[Scholar Emperor Thalassius the Wise]]'
 - '[[02_Worldbuilding/Groups/The Scribes'' Covenant]]'
 - '[[Order of Preserved Knowledge]]'
-- '[[The Deep Archives]]'
+- '[[02_Worldbuilding/Lore/Deep Archives]]'
 ---
 
 > [!figure] View

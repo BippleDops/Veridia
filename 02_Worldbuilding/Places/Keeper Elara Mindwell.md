@@ -183,7 +183,7 @@ This project represents her most ambitious intellectual undertaking but also her
 
 **[[Aquabyssos Academy]] Leadership** - Maintains strong relationships with academic leadership, providing cultural expertise for institutional policies while advocating for academic freedom and research independence.
 
-**[[Cultural Preservation Society]]** - Active member and occasional leader of organization dedicated to protecting and preserving cultural knowledge, working to ensure traditional practices are documented and respected.
+**[[02_Worldbuilding/Groups/Cultural Preservation Societ]]** - Active member and occasional leader of organization dedicated to protecting and preserving cultural knowledge, working to ensure traditional practices are documented and respected.
 
 **[[Diplomatic Training Institute]]** - Regular instructor and curriculum consultant, helping train future diplomats in cultural sensitivity and cross-cultural communication techniques.
 

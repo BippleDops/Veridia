@@ -104,7 +104,7 @@ The party receives urgent summons from [[Archmage Lyralei Stormwind]] of the [[A
 The party has confirmed the cult's presence and basic plan, but now faces the challenge of stopping a ritual involving thousands of participants across multiple locations. The cult has revealed their hand and begun eliminating opposition.
 
 ### Escalating Dangers
-- **Cult Assassins**: [[Void Touched]] agents hunt the party openly
+- **Cult Assassins**: [[02_Worldbuilding/Lore/Void-Touched]] agents hunt the party openly
 - **Reality Distortions**: Areas of festival grounds begin showing [[Far Realm]] influence
 - **Mass Domination**: Large numbers of pilgrims fall under cult mental control
 - **Planar Intrusions**: Minor Far Realm creatures begin manifesting
@@ -171,7 +171,7 @@ As the **Sundering of Veils** progresses:
 The party must handle several simultaneous challenges:
 
 #### The Crystal Sanctum Battle
-- Direct confrontation with [[Archmagus Velleth]] at peak power
+- Direct confrontation with [[02_Worldbuilding/Lore/Archmagus Velleth Shadowmere]] at peak power
 - Requires disrupting the ritual while fighting aberrant enemies
 - Success here stops the ritual but may come too late
 

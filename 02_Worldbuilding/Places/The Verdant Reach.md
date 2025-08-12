@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.291453+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -22,7 +22,7 @@ danger_level: Moderate
 *The Last Green Heart of Aethermoor*
 
 ## Overview
-The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Places/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[02_Worldbuilding/People/Archdruid Thornweaver]] and the [[Verdant Accord]], these ancient woods represent the world as it was before [[02_Worldbuilding/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
+The Verdant Reach encompasses the vast southern forests of [[02_Worldbuilding/Places/Aethermoor]], the largest remaining area untouched by crystal corruption. Protected by [[02_Worldbuilding/People/Archdruid Thornweaver]] and the [[02_Worldbuilding/People/The Verdant Accord]], these ancient woods represent the world as it was before [[02_Worldbuilding/Lore/The Great Crystallization]]. However, the crystals creep closer each year, and the forest's time may be running out.
 
 ## Geography
 

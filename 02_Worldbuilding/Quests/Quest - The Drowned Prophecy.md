@@ -1,7 +1,6 @@
 ---
 tags:
 - both
-- draft
 - investigation
 - mid-level
 - political
@@ -25,10 +24,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.374861+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

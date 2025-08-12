@@ -388,7 +388,7 @@ The training lasts for 250 days and costs 1 gp per day. After you spend the requ
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
+[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
 
 ## Player-Facing Summary
 

@@ -132,7 +132,7 @@ Production requires expertise in multiple technical disciplines:
 - **Detection Engineering**: Specialists in corruption sensing technology ([[Detection Specialist Gleam Corruptwatch]])
 - **Magical Analysis Programming**: Experts in corruption pattern recognition software ([[Analysis Programmer Spark Dataweave]])
 - **Communication Network Design**: Specialists in intelligence distribution systems ([[Network Designer Flow Linkwright]])
-- **Field Deployment Engineering**: Experts in sensor installation and maintenance ([[Field Engineer Stone Installwright]])
+- **Field Deployment Engineering**: Experts in sensor installation and maintenance ([[02_Worldbuilding/Lore/Field Engineer Stone Installwrigh]])
 - **Quality Assurance**: Specialists ensuring detection system accuracy ([[Quality Inspector Gem Precisiontest]])
 
 ### Resource Requirements and Supply Chain
@@ -142,7 +142,7 @@ Corruption tracking systems require specialized resources from various suppliers
 
 **Primary Materials:**
 - **Detection Crystals**: Specialized crystals sensitive to corruption, harvested from [[Crystal Forest]] facilities
-- **Magical Processing Components**: Enchanted materials enabling corruption analysis, sourced from [[Magical Component Manufacturers Guild]]
+- **Magical Processing Components**: Enchanted materials enabling corruption analysis, sourced from [[02_Worldbuilding/Groups/Magical Component Manufacturers Guil]]
 - **Communication Infrastructure**: Networks and transmission equipment from [[Communication Systems Consortium]]
 - **Environmental Monitoring Equipment**: Sensors for air, water, and soil analysis from [[Environmental Systems Suppliers]]
 - **Data Storage Systems**: Magical and technological storage for corruption intelligence from [[Information Systems Alliance]]
@@ -202,7 +202,7 @@ Corruption tracking systems require continuous monitoring and routine maintenanc
 - **Data Analysts**: Specialists interpreting corruption detection information ([[Data Analyst Current Patternweave]])
 - **Communication Coordinators**: Personnel managing information distribution ([[Communications Coordinator Wave Messagewright]])
 - **Maintenance Technicians**: Specialists performing system upkeep and repairs ([[Maintenance Tech Reef Fixwright]])
-- **Emergency Response Coordinators**: Personnel managing crisis response ([[Emergency Coordinator Storm Responsewright]])
+- **Emergency Response Coordinators**: Personnel managing crisis response ([[02_Worldbuilding/Lore/Emergency Coordinator Storm Responsewrigh]])
 
 ## Common Applications and Use Cases
 
@@ -394,7 +394,7 @@ Various organizations work with corruption tracking systems:
 - **[[Corruption Intelligence Agency]]**: Primary user of tracking system data
 - **[[Anti-Corruption Research Institute]]**: Research organization using tracking information
 - **[[Emergency Response Coordination]]**: Crisis management using tracking system alerts
-- **[[Environmental Protection Authority]]**: Agency using tracking data for environmental safety
+- **[[02_Worldbuilding/Groups/Environmental Protection Authorit]]**: Agency using tracking data for environmental safety
 - **[[International Corruption Monitoring Consortium]]**: Cross-realm cooperation organization
 
 ### Research and Development Partnerships

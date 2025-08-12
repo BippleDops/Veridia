@@ -30,7 +30,7 @@ obsidianUIMode: preview
 
 **Type:** Tactical Combat/Resistance Operations/Guerrilla Warfare  
 **Level:** 5-10  
-**Location:** [[Border Territories]], [[The Tradeway]], [[Hidden Smuggler's Cove]]  
+**Location:** [[Border Territories]], [[02_Worldbuilding/Lore/Tradeway]], [[Hidden Smuggler's Cove]]  
 **Duration:** 4-6 sessions  
 **Threat:** A critical supply convoy carrying Shadow Conspiracy resources must be stopped before it reaches its destination and strengthens enemy operations
 

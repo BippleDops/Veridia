@@ -32,13 +32,13 @@ obsidianUIMode: preview
 **Themes:** Cosmic horror, investigation, sanity, forbidden knowledge  
 **Party Size:** 3-6 characters  
 
-The [[Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
+The [[02_Worldbuilding/Lore/Map of the Whispering Expanse]] is a vast region of [[Aethermoor]] where reality itself seems thin, allowing whispers from dimensions beyond mortal comprehension to seep through. What began as isolated reports of strange sounds has escalated into a full-scale cosmic horror threatening to unravel the fabric of existence itself. The party must investigate these disturbances, uncover their source, and prevent an incursion that could consume all of [[Aethermoor]] in madness.
 
 ## Background and Setup
 
 ### The Growing Silence
 
-For centuries, the region now known as the [[Whispering Expanse]] was simply called [[The Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
+For centuries, the region now known as the [[02_Worldbuilding/Lore/Map of the Whispering Expanse]] was simply called [[02_Worldbuilding/Lore/Great Silence]] - a mysteriously quiet area where even the wind seemed muted. Travelers reported feeling uneasy but attributed it to the desolate landscape and sparse settlements. However, six months ago, the silence began to break.
 
 It started with isolated reports from the frontier town of [[Quiet Haven]]:
 - Residents hearing faint whispers in unknown languages during the night
@@ -59,10 +59,10 @@ What locals initially dismissed as imagination or stress has evolved into someth
 
 The regional government has tried multiple approaches to contain the situation:
 - **[[The Scholar's Guild]]** sent researchers who returned speaking in tongues
-- **[[The Order of the Silent Vigil]]** dispatched paladins who never returned at all
+- **[[02_Worldbuilding/Groups/The Order of the Silent Vigi]]** dispatched paladins who never returned at all
 - **[[Local Militia]]** established quarantine zones that were overrun from within
 
-Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[Whispering Expanse]] and discover the truth behind the phenomenon.
+Desperate for solutions, the authorities have put out a call for capable heroes willing to venture into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse]] and discover the truth behind the phenomenon.
 
 ## Act I: The Investigation Begins
 
@@ -108,7 +108,7 @@ Once a thriving frontier town of 800 residents, [[Quiet Haven]] now houses barel
 
 #### The Research Camp
 
-The remains of the [[Scholar's Guild]] expedition, now a scene of academic horror:
+The remains of the [[02_Worldbuilding/Groups/The Scholar's Guild]] expedition, now a scene of academic horror:
 
 **The Central Tent**
 - Contains extensive research notes and observations
@@ -155,7 +155,7 @@ The remains of the [[Scholar's Guild]] expedition, now a scene of academic horro
 
 ### The Source Discovery
 
-As the party ventures deeper into the [[Whispering Expanse]], they discover that the whispers originate from **[[The Resonance Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
+As the party ventures deeper into the [[02_Worldbuilding/Lore/Map of the Whispering Expanse]], they discover that the whispers originate from **[[The Resonance Crater]]** - a massive impact site where something from beyond this reality crashed centuries ago.
 
 #### The Crater's Features
 
@@ -398,7 +398,7 @@ If the party fails to stop the ritual:
 
 #### The Lost Expedition
 *Level 10-14*
-- Party searches for the missing [[Scholar's Guild]] expedition
+- Party searches for the missing [[02_Worldbuilding/Groups/The Scholar's Guild]] expedition
 - Discovers what happened to previous investigation teams
 - Explores the early stages of whisper infection
 - Provides background knowledge useful for the main quest

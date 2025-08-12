@@ -272,7 +272,7 @@ Kept in the deepest Genesis Chamber, the Specimen appears to be a successful fus
 #### The Memory Markets
 **Completed**: 50 years ago
 **Result**: Methods for extracting and trading memories as commodities
-**Current Impact**: Forms basis for [[Memory Merchants Guild]] operations
+**Current Impact**: Forms basis for [[02_Worldbuilding/Groups/The Memory Merchants Guild]] operations
 **Lessons Learned**: Memory extraction requires careful preservation of neural pathways
 
 #### The Flesh Forge Protocols

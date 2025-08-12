@@ -2,13 +2,13 @@
 tags:
 - aquabyssos
 - artifact
-- draft
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.089971+00:00'
 ---
+
 
 
 

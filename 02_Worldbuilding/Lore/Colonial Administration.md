@@ -1,14 +1,14 @@
 ---
 tags:
 - aethermoor
-- draft
 - historical-region
 type: Lore
 world: Aethermoor
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.093378+00:00'
 ---
+
 
 
 

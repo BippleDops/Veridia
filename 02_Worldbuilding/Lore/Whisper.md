@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - location
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.674550+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg)

@@ -47,7 +47,7 @@ What makes this particularly dangerous is that one of the "Finns" has acquired g
 - **[[Memory Merchant Zara Mindweave]]**: Information broker who first noticed the discrepancies
 - **Captain Sterling Wavebreak**: [[Kelp Highway Security Forces]] officer investigating merchant fraud
 - **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage tracking magical signature anomalies
-- **Madame Mirage**: [[Shadow Exchange]] leader coordinating the identity theft network
+- **Madame Mirage**: [[02_Worldbuilding/Lore/The Shadow Exchange]] leader coordinating the identity theft network
 - **[[02_Worldbuilding/Quests/Aquabyssos]]**: Legitimate trader who's been competing with the fake Finns
 - **The Duplicate Detector**: Mysterious figure who claims to know how to identify the real from fake
 - **Archivist Coral Memory**: Record keeper who has documentation of the original Finn

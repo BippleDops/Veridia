@@ -350,7 +350,7 @@ The Observatory exists outside normal space-time, accessible only through hidden
 - **[[02_Worldbuilding/Organizations/The Eternal Sentinels]]**: Guards against temporal paradoxes
 - **[[02_Worldbuilding/Organizations/Probability Shepherds]]**: Maintain quantum stability across dimensions
 - **[[02_Worldbuilding/Organizations/The Life Eternal]]**: Protect biological existence from cosmic entropy
-- **[[02_Worldbuilding/Organizations/Memory Keepers]]**: Preserve essential information across reality cycles
+- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Preserve essential information across reality cycles
 - **[[02_Worldbuilding/Organizations/The Void Seals]]**: Ancient entities dedicated to keeping hostile forces outside reality
 
 #### Mortal World Contacts

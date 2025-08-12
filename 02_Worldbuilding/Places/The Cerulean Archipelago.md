@@ -2,7 +2,6 @@
 type: Location
 tags:
 - both
-- draft
 - location
 - region
 aliases:
@@ -13,10 +12,11 @@ MyContainer: None
 MyCategory: Unknown - Category/Place
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:04.549093+00:00'
+status: active
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-cerulean-archipelago-the-cerulean-archipelago.svg)

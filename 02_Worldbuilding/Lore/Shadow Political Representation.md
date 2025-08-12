@@ -1,14 +1,14 @@
 ---
 tags:
 - both-aethermoor-&-aquabyssos
-- draft
 - faction
 type: Lore
 world: Both Aethermoor & Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.772851+00:00'
 ---
+
 
 
 

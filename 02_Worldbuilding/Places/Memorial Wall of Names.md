@@ -1,15 +1,15 @@
 ---
 tags:
 - both
-- draft
 - location
 type: Location
 world: Both
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.556436+00:00'
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png)

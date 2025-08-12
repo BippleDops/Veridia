@@ -1,14 +1,14 @@
 ---
 tags:
 - dimensional-nexus-(both-realms)
-- draft
 - group
 type: Group
 world: Dimensional Nexus (Both Realms)
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.952533+00:00'
 ---
+
 
 
 

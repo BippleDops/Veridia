@@ -2,7 +2,6 @@
 tags:
 - both
 - city
-- draft
 - location
 - major_settlement
 - twilight_reaches
@@ -17,10 +16,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:04.751514+00:00'
+status: active
 type: Location
 ---
+
 
 
 > [!figure] View

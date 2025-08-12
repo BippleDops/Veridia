@@ -1,3 +1,8 @@
+---
+created: 2024-01-01
+updated: 2024-01-01
+---
+
 # Asset Database
 
 Fields: id, type, name, prompt, aspect, resolution, style, lighting, mood, negative, seed, alt_text, realm, tags, sourceDoc, crossRefs

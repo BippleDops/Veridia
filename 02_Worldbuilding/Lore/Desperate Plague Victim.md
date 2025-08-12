@@ -59,7 +59,7 @@ Mira's life changed forever during a localized [[Shadow Corruption]] outbreak in
 The corruption spread through the underground crystal networks beneath her shop, manifesting first in the basement storage areas. Mira was exposed while attempting to save infected family members who had taken shelter in her shop during the crisis.
 
 **The Heroic Choice:**
-When [[Crystal Guard Elite]] units arrived to quarantine the area, Mira refused evacuation, choosing to stay and care for her infected family members rather than abandon them to certain death. This decision, while noble, led to prolonged exposure that resulted in her own infection.
+When [[02_Worldbuilding/Lore/The Crystal Guard Elite]] units arrived to quarantine the area, Mira refused evacuation, choosing to stay and care for her infected family members rather than abandon them to certain death. This decision, while noble, led to prolonged exposure that resulted in her own infection.
 
 **Tragic Losses:**
 - **Gareth**: Died from rapid corruption progression after three days

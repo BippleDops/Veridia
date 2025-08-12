@@ -2,7 +2,6 @@
 tags:
 - abyssos-prime
 - both
-- draft
 - location-knowledge
 - player-handout
 - player-resource
@@ -12,9 +11,10 @@ location: Abyssos Prime
 depth: 2,000 ft
 created: 2025-08-07
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:02.312589+00:00'
+status: active
 ---
+
 
 
 

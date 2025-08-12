@@ -3,7 +3,6 @@ tags:
 - balance
 - both
 - both-realms
-- draft
 - elemental
 - environmental
 - nature
@@ -18,13 +17,14 @@ rewards: Legendary Items, Realm Stability, Nature's Blessing
 time_limit: 30 days before irreversible damage
 created_by: system
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.385790+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 

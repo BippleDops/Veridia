@@ -1,7 +1,6 @@
 ---
 tags:
 - aquabyssos
-- draft
 - identity-horror
 - parliament-shadows
 - session
@@ -57,10 +56,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.673448+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

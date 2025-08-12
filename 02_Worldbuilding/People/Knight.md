@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.354492+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 ---
+
 
 
 > [!figure] Portrait
@@ -87,7 +87,7 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 
 **Allies:**
 - **[[Queen Seraphina Lumengarde]]** - His sovereign, whom he serves with absolute loyalty despite growing concerns about her recent decisions
-- **[[The Crystal Guard]]** - His knightly order, brothers-in-arms who share his burden of protecting the realm
+- **[[02_Worldbuilding/Lore/Crystal Guard]]** - His knightly order, brothers-in-arms who share his burden of protecting the realm
 - **[[High Priestess Celeste Dawnbringer]]** - Spiritual advisor who helps him maintain his connection to divine power
 - **[[Captain Lyanna Brightshield]]** - Fellow knight and former lover, their relationship ended when duty demanded different paths
 

@@ -408,3 +408,19 @@ Heroes work with legitimate government officials operating secret resistance gov
 - Create scenarios where heroes must work with corrupt officials against greater threats
 - Show consequences of both exposure and concealment of shadow influence
 - Allow for redemption arcs for corrupted officials who choose resistance over collaboration
+
+## Player-Facing Summary
+
+Parliamentary Infiltration Methods is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Parliamentary Infiltration Methods as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliamentary Infiltration Methods.
+
+## Adventure Hooks
+
+- A rumor ties Parliamentary Infiltration Methods to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Parliamentary Infiltration Methods to avert a public scandal.
+- A map overlay reveals a hidden approach to Parliamentary Infiltration Methods active only during specific tides/storms.
+
+<!-- enriched: true -->

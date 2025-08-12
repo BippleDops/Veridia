@@ -466,7 +466,7 @@ The Crimson Hand's mastery of shadow corruption gives them advantages over other
 ### Important Locations
 - [[The Shadow Nexus]] - Hidden cross-dimensional command center
 - [[Corruption Gardens]] - Research and weaponization facilities
-- [[Memory Vaults]] - Consciousness storage and manipulation centers
+- [[02_Worldbuilding/Lore/The Memory Vaults]] - Consciousness storage and manipulation centers
 - [[Reality Laboratories]] - Convergence research installations
 - [[The Crimson Sanctuaries]] - Safe houses and recruitment centers
 

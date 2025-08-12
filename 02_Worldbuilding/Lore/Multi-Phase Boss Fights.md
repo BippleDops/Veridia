@@ -796,7 +796,7 @@ Recent convergence events have created particularly complex multi-phase encounte
 - **[[The Crystal Sovereign]]**: Aethermoor's corrupted ruler multi-phase fight
 - **[[The Convergence Entity]]**: Reality-merger final boss encounter
 - **[[Marina's True Form]]**: Identity revelation multi-phase sequence
-- **[[The Shadow Collective]]**: Multiple interconnected phase bosses
+- **[[02_Worldbuilding/Lore/Shadow Collective]]**: Multiple interconnected phase bosses
 
 ### Supporting Systems
 - **[[Boss Monster Creation Guidelines]]**: Framework for designing multi-phase bosses

@@ -135,7 +135,7 @@ A prophetic merfolk whose scales change color to reflect the fortunes of those a
 
 ## Connections
 
-Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with connections to the [[Shadow Tide Syndicate]], [[Merchant Marine Consortium]], and various [[Elemental Courts]]. The casino regularly hosts representatives from the [[Luck Spirits Alliance]] and maintains careful relationships with both the [[Surface Coalition]] and [[Depths Alliance]]. Many plot threads from across [[Aquabyssos]] converge here, as fortunes won and lost often determine the fate of entire organizations.
+Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with connections to the [[02_Worldbuilding/Groups/Shadow Tide Syndicat]], [[Merchant Marine Consortium]], and various [[Elemental Courts]]. The casino regularly hosts representatives from the [[Luck Spirits Alliance]] and maintains careful relationships with both the [[Surface Coalition]] and [[Depths Alliance]]. Many plot threads from across [[Aquabyssos]] converge here, as fortunes won and lost often determine the fate of entire organizations.
 - [[Old Valdris]]
 
 

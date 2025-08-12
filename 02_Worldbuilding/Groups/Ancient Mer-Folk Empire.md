@@ -387,7 +387,7 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 **Key Locations**:
 - [[The Sunken City of Aeridor]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|The Deep Territories]]
-- [[The Heart of the Sea Sanctuary]]
+- [[02_Worldbuilding/Lore/The Heart of the Sea]]
 - [[The Ancient Ocean Trenches]]
 
 **Notable NPCs**:
@@ -399,9 +399,9 @@ Events in Aquabyssos and the surface world are creating new challenges that the 
 
 **Important Artifacts**:
 - [[The Heart of the Sea]]
-- [[The Crown of Currents]]
+- [[02_Worldbuilding/Lore/Crown of Currents]]
 - [[The Treaty of Deepest Waters]]
-- [[The Deep Archives]]
+- [[02_Worldbuilding/Lore/Deep Archives]]
 - [[Current-Crystals]]
 
 **Related Concepts**:

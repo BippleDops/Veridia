@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.464094+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -397,7 +397,7 @@ Morgan's reputation for historical accuracy and contextual wisdom has made him a
 
 ### Cultural Organizations
 **[[Historical Societies]]**: Leadership in citizen historical preservation efforts  
-**[[Cultural Festivals]]**: Historical accuracy consulting for public celebrations  
+**[[02_Worldbuilding/Groups/Cultural Festivals Committee]]**: Historical accuracy consulting for public celebrations  
 **[[Arts Communities]]**: Working with artists on historically accurate cultural productions  
 **[[Religious Groups]]**: Respectful collaboration on spiritual historical preservation  
 **[[Community Organizations]]**: Supporting local historical documentation projects

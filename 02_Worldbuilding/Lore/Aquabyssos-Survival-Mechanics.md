@@ -2,7 +2,6 @@
 tags:
 - adaptation
 - aquabyssos
-- draft
 - game-mechanics
 - mechanics
 - rules
@@ -11,10 +10,11 @@ type: Lore
 system: D&D 5e
 complexity: Advanced
 world: Aquabyssos
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.485253+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

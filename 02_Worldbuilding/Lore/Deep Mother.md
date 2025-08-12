@@ -123,7 +123,7 @@ The shadow corruption spreading through Aquabyssos is believed to be:
 2. **[[The Dreaming Trench]]**: Deepest known point
 3. **[[Shadow Wells]]**: Where her nightmares emerge
 4. **[[Memory Meadows]]**: Her pleasant dreams manifest
-5. **[[The Pressure Palace]]**: Built atop her resting place
+5. **[[02_Worldbuilding/Places/Pressure Palace]]**: Built atop her resting place
 
 ### Pilgrimage Routes
 - **The Descent Path**: Surface to Hadal Depths
@@ -169,7 +169,7 @@ All of Aquabyssos experiences:
 - **[[Dream Leviathans]]**: Massive creatures from her deep dreams
 - **[[Shadow Saints]]**: Mortals transformed by her touch
 - **[[Pressure Angels]]**: Beings of pure depth and force
-- **[[Memory Keepers]]**: Entities maintaining her thoughts
+- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Entities maintaining her thoughts
 - **[[The Sorrow Singers]]**: Voices of her sadness
 
 ## Prophecies & Omens

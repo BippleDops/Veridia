@@ -278,7 +278,7 @@ Emergency response technology development creates tools for surviving catastroph
 
 Several government and academic organizations conduct authorized research in the Shattered Isles despite the extreme dangers, contributing valuable scientific knowledge while developing practical applications.
 
-The [[Royal Academy of Magical Sciences]] maintains a permanent research station on the Nexus Fragment while conducting long-term studies of reality distortion and corruption effects.
+The [[02_Worldbuilding/Groups/Royal Academy of Magical Science]] maintains a permanent research station on the Nexus Fragment while conducting long-term studies of reality distortion and corruption effects.
 
 The [[United Councils of Both Worlds]] sponsor joint expeditions that combine surface and underwater expertise while developing comprehensive understanding of threats that affect both civilizations.
 
@@ -366,7 +366,7 @@ Disaster prevention scenarios involve characters in preventing or mitigating cat
 - [[02_Worldbuilding/Lore/Eastern Kingdom Fleet]] - Primary exploration and security force
 - [[02_Worldbuilding/Lore/United Councils of Both Worlds]] - Coordination authority for research efforts
 - [[02_Worldbuilding/People/Navigator Deep Current]] - Leading expert on Shattered Isles navigation
-- [[02_Worldbuilding/Lore/Royal Academy of Magical Sciences]] - Primary research organization
+- [[02_Worldbuilding/Groups/Royal Academy of Magical Science]] - Primary research organization
 
 
 ## Connections

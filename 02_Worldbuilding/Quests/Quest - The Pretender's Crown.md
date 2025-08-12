@@ -1,7 +1,6 @@
 ---
 tags:
 - aethermoor
-- draft
 - intrigue
 - investigation
 - political
@@ -17,13 +16,14 @@ rewards: Noble Title, Royal Artifacts, Political Power
 time_limit: Before the Coronation (14 days)
 created_by: system
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.383639+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 

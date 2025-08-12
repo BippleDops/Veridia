@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.583055+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: NPC
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-cultivator-thalia-greenglow-master-cultivator-thalia-greenglow.svg)

@@ -31,7 +31,7 @@ danger_level: Moderate
 
 ## Overview
 
-The **Pressure Conspiracy** is not a single location but a network of hidden chambers, secret meeting places, and concealed facilities throughout [[Aquabyssos]], all connected by a web of political intrigue that threatens to destabilize the entire [[Abyssal Court]]. What began as whispered dissent among minor nobles has evolved into a sophisticated shadow organization with tentacles reaching into every level of deep sea society.
+The **Pressure Conspiracy** is not a single location but a network of hidden chambers, secret meeting places, and concealed facilities throughout [[Aquabyssos]], all connected by a web of political intrigue that threatens to destabilize the entire [[02_Worldbuilding/Lore/The Abyssal Court]]. What began as whispered dissent among minor nobles has evolved into a sophisticated shadow organization with tentacles reaching into every level of deep sea society.
 
 The Conspiracy operates under the guise of legitimate political discourse, using the immense pressure of the deep ocean as both metaphor and operational advantage. Their secret communications travel through [[Pressure Currents]], their meetings occur in spaces where the crushing depths naturally muffle sound, and their membership includes those who have learned to thrive under the most extreme conditions.
 
@@ -73,8 +73,8 @@ A seemingly abandoned research station that was officially closed after a "catas
 
 #### The Crush Vault
 
-Hidden beneath the [[Coral Gardens]], this vault contains:
-- Evidence of corruption within the [[Abyssal Court]]
+Hidden beneath the [[02_Worldbuilding/Lore/The Coral Gardens]], this vault contains:
+- Evidence of corruption within the [[02_Worldbuilding/Lore/The Abyssal Court]]
 - Plans for various political scenarios
 - Weapons designed to exploit pressure vulnerabilities
 - Emergency supplies and escape routes
@@ -94,7 +94,7 @@ Located in an underwater cavern system that connects to multiple pressure territ
 At the heart of the Conspiracy lies the **Inner Circle**, seven individuals known only by pressure-related code names:
 
 #### The Deepest Current
-The primary leader, believed to be a high-ranking member of the [[Abyssal Court]] who has grown disillusioned with [[The Deep Sovereign]]'s rule. Their identity is so well-protected that some members question whether they actually exist.
+The primary leader, believed to be a high-ranking member of the [[02_Worldbuilding/Lore/The Abyssal Court]] who has grown disillusioned with [[The Deep Sovereign]]'s rule. Their identity is so well-protected that some members question whether they actually exist.
 
 **The Deepest Current (CR 15)**
 *Medium humanoid (any race), chaotic neutral*
@@ -148,7 +148,7 @@ Notable cells include:
 Focused on infiltrating surface world governments and establishing contacts with surface-dwelling allies who oppose the current political order.
 
 #### The Depth Charges
-A militant cell that conducts sabotage operations against [[Abyssal Court]] facilities and eliminates threats to the Conspiracy.
+A militant cell that conducts sabotage operations against [[02_Worldbuilding/Lore/The Abyssal Court]] facilities and eliminates threats to the Conspiracy.
 
 #### The Pressure Traders
 Economic specialists who manipulate deep sea trade routes and gather intelligence through commercial networks.
@@ -163,7 +163,7 @@ The Conspiracy's ultimate goal is the **Great Reformation** - a complete restruc
 - Establish representation for all pressure territories
 - Create transparency in government operations
 - End the isolation from surface world politics
-- Reform the [[Abyssal Court]]'s judicial system
+- Reform the [[02_Worldbuilding/Lore/The Abyssal Court]]'s judicial system
 - Redistribute power from the [[Pressure Lords]] to regional representatives
 
 ### Immediate Objectives
@@ -171,9 +171,9 @@ The Conspiracy's ultimate goal is the **Great Reformation** - a complete restruc
 In the short term, the Conspiracy focuses on:
 
 #### Information Warfare
-- Exposing corruption within the [[Abyssal Court]]
+- Exposing corruption within the [[02_Worldbuilding/Lore/The Abyssal Court]]
 - Documenting human rights abuses in the pressure territories
-- Revealing the true costs of the [[Deep Sovereign]]'s policies
+- Revealing the true costs of the [[02_Worldbuilding/Lore/The Deep Sovereign]]'s policies
 - Countering official propaganda with factual intelligence
 
 #### Economic Disruption
@@ -227,7 +227,7 @@ Believe [[Aquabyssos]] should end its isolation and integrate with the broader m
 The Conspiracy maintains extensive intelligence operations targeting:
 
 #### Court Activities
-- Monitoring [[Abyssal Court]] sessions
+- Monitoring [[02_Worldbuilding/Lore/The Abyssal Court]] sessions
 - Tracking noble movements and communications
 - Identifying corruption and abuse of power
 - Predicting policy changes and their impacts
@@ -249,7 +249,7 @@ The Conspiracy maintains extensive intelligence operations targeting:
 The Conspiracy recruits from various sources:
 
 #### Disillusioned Nobles
-Members of the [[Abyssal Court]] who have become disgusted with the current system's excesses and inefficiencies.
+Members of the [[02_Worldbuilding/Lore/The Abyssal Court]] who have become disgusted with the current system's excesses and inefficiencies.
 
 #### Pressure Territory Representatives
 Local leaders who feel their communities are being exploited by the central government.
@@ -334,7 +334,7 @@ Regular procedures to identify potential informants or double agents within thei
 
 ### The Double Agent
 
-A high-ranking member of the [[Abyssal Court]] approaches the party claiming to be part of the [[Pressure Conspiracy]] and seeking their help with a critical mission. However:
+A high-ranking member of the [[02_Worldbuilding/Lore/The Abyssal Court]] approaches the party claiming to be part of the [[Pressure Conspiracy]] and seeking their help with a critical mission. However:
 
 - Their true loyalty remains unclear
 - The mission could be a trap set by the government
@@ -370,7 +370,7 @@ The party is recruited (knowingly or unknowingly) to infiltrate either the Consp
 
 ### The Pressure War
 
-Open conflict has erupted between the Conspiracy and the [[Abyssal Court]], threatening to tear [[Aquabyssos]] apart. The party must:
+Open conflict has erupted between the Conspiracy and the [[02_Worldbuilding/Lore/The Abyssal Court]], threatening to tear [[Aquabyssos]] apart. The party must:
 
 - Navigate a civil war environment where allegiances are unclear
 - Protect innocent civilians caught in the crossfire
@@ -403,13 +403,13 @@ The [[Pressure Conspiracy]] maintains hidden connections throughout [[Aquabyssos
 - **[[The Sunken Cities]]**: Historical justification and hidden meeting places
 - **[[Deep Current Networks]]**: Communication and transportation systems
 - **[[Surface Breach Points]]**: Contact with surface world allies
-- **[[The Crushing Depths]]**: Extreme environment providing natural security
+- **[[02_Worldbuilding/Lore/Crushing Depths]]**: Extreme environment providing natural security
 - **[[Diplomatic Quarters]]**: Foreign intelligence operations
 - **[[The Coral Gardens]]**: Cover for clandestine activities
 - **[[Ancient Ruins]]**: Hidden weapon caches and secret facilities
 - **[[The Pressure Storm Region]]**: Natural camouflage for operations
 - **[[Underground River Systems]]**: Alternative transportation routes
-- **[[The Deep Archives]]**: Target for intelligence gathering
+- **[[02_Worldbuilding/Lore/Deep Archives]]**: Target for intelligence gathering
 - **[[Political Prison Complexes]]**: Sites for prisoner liberation operations
 
 ## Equipment and Resources

@@ -427,7 +427,7 @@ Various organizations work with the Crystal Forest:
 - **[[Master Cultivators Guild]]**: Professional association supporting crystal farmers
 - **[[Crystal Quality Standards Authority]]**: Regulatory body ensuring product safety and quality
 - **[[Emergency Crystal Response Team]]**: Crisis management specialists handling crystal-related emergencies
-- **[[International Crystal Trade Association]]**: Organization facilitating crystal commerce
+- **[[02_Worldbuilding/Lore/International Crystal Trade Associatio]]**: Organization facilitating crystal commerce
 
 ### Educational and Training Programs
 
@@ -435,10 +435,10 @@ Various organizations work with the Crystal Forest:
 Multiple institutions support crystal cultivation education:
 
 - **[[Aquabyssos Agricultural University]]**: Academic programs in crystal cultivation
-- **[[Crystal Cultivation Training Center]]**: Professional development for industry workers
+- **[[02_Worldbuilding/Groups/Crystal Cultivation Training Cente]]**: Professional development for industry workers
 - **[[Youth Crystal Education Program]]**: School programs teaching crystal science
 - **[[Master Cultivator Apprenticeships]]**: Traditional training methods for cultivation experts
-- **[[International Exchange Programs]]**: Cross-cultural learning opportunities
+- **[[02_Worldbuilding/Lore/International Exchange Program]]**: Cross-cultural learning opportunities
 
 ## Campaign Integration and Adventure Opportunities
 

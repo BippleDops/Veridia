@@ -69,7 +69,7 @@ Recent versions incorporate shadow corruption to make effects more thorough:
 
 ### Origin Project: "Clean Slate"
 **Years 580-585 AS (After Submersion):**
-The Forgetting Bomb originated from a therapeutic research project aimed at treating severe trauma and [[Memory Alteration Consequences]]. Dr. Nereus Thoughtweaver and his team at the [[Memory Research Institute]] were developing techniques for complete memory reset to help victims of extreme psychological damage start fresh lives.
+The Forgetting Bomb originated from a therapeutic research project aimed at treating severe trauma and [[Memory Alteration Consequences]]. Dr. Nereus Thoughtweaver and his team at the [[02_Worldbuilding/Lore/The Memory Research Institute]] were developing techniques for complete memory reset to help victims of extreme psychological damage start fresh lives.
 
 **Initial Breakthrough:**
 - Discovery that memory-disrupting crystals could be "charged" with anti-memories
@@ -79,7 +79,7 @@ The Forgetting Bomb originated from a therapeutic research project aimed at trea
 
 ### Military Weaponization
 **Years 585-590 AS:**
-The potential military applications became obvious to [[The Deep Intelligence Agency]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
+The potential military applications became obvious to [[02_Worldbuilding/Lore/The Deep Intelligence Agency Director]] and other organizations involved in [[The Memory Weapon Arms Race]]. Despite Dr. Thoughtweaver's protests, research was classified and moved to military facilities.
 
 **Weapons Development:**
 - Scaling up from individual treatment to area effect
@@ -111,7 +111,7 @@ The first and only combat deployment of a Forgetting Bomb created an internation
 Despite international condemnation and treaty obligations, multiple organizations continue developing Forgetting Bomb technology:
 
 **Known Developers:**
-- **[[The Deep Intelligence Agency]]**: Estimated 12-15 devices in arsenal
+- **[[02_Worldbuilding/Lore/The Deep Intelligence Agency Director]]**: Estimated 12-15 devices in arsenal
 - **[[The Crimson Hand]]**: Unknown number, enhanced with shadow corruption
 - **[[Silverscale Banking House]]**: Corporate espionage suggests 3-5 devices
 - **Foreign Powers**: Intelligence estimates 20+ devices exist globally
@@ -370,7 +370,7 @@ Marina's unique nature creates both vulnerability and resistance:
 
 ### Related Events
 - [[The Great Forgetting Incident]] - First combat use creating international crisis
-- [[The Meridian Accords]] - International treaty banning the weapons
+- [[02_Worldbuilding/Lore/Meridian Accords]] - International treaty banning the weapons
 - [[The Memory Research Massacre]] - Attack on original development team
 - [[The Convergence Cleansing]] - Potential future use during reality merger
 - [[The Final Forgetting]] - Ultimate deployment threatening all memory

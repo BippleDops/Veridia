@@ -18,7 +18,7 @@ category: Criminal Mind-Mage
 race: Changeling
 class: Rogue/Enchanter
 location: '[[The Shadow Markets]]'
-faction: '[[Memory Thieves Guild]]'
+faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil]]'
 influence: Moderate
 danger_level: High
 created_by: auto-stub
@@ -206,7 +206,7 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Personal Revenge**: Clients seeking to psychologically damage enemies through memory manipulation.
 
 ### Underground Network
-**[[Memory Thieves Guild]]**: Professional organization providing resources, training, and mutual protection.
+**[[02_Worldbuilding/Groups/Memory Thieves Guil]]**: Professional organization providing resources, training, and mutual protection.
 
 **Fence Operations**: Criminal networks that handle stolen memories as valuable commodities.
 

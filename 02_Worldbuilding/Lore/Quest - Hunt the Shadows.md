@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - faction
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.666586+00:00'
 ---
+
 
 
 

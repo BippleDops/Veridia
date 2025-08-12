@@ -573,7 +573,7 @@ The major trading companies of [[02_Worldbuilding/Places/Aethermoor]] and [[02_W
 - [[02_Worldbuilding/Lore/The Grand Trade Routes]]
 - [[02_Worldbuilding/Lore/Economic Systems and Currency]]
 - [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
-- [[03_Mechanics/Living_Economy_System]]
+- [[03_Mechanics/Living_Economy_Syste]]
 - [[03_Mechanics/Economic_Warfare_Simulator]]
 
 ## Player-Facing Summary
@@ -597,3 +597,4 @@ Ancient prophecies speak of a time when the corporate powers will either unite t
 Use the trading companies as a framework for complex political and economic intrigue, allowing players to engage with power structures that operate through influence rather than force. The competing interests and secret alliances between companies provide endless opportunities for plots involving espionage, betrayal, moral dilemmas, and the consequences of unchecked corporate power.
 
 Consider how corporate actions ripple through society, affecting everything from individual livelihoods to international relations. The companies serve as both potential allies and enemies, offering resources and opportunities while representing systematic corruption and inequality that can drive character motivations and campaign themes.
+<!-- enriched: true -->

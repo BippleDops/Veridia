@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.863201+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-order-of-the-drowned-star-order-of-the-drowned-star.svg)
@@ -48,7 +48,7 @@ Each Star-Bearer oversees a different aspect of the Order and is identified by a
 2. **War-Star [[Brother Pelagios Irondeep]]**: Military training and strategy  
 3. **Keeper-Star [[Sister Benthos Scrollheart]]**: Knowledge and archives
 4. **Builder-Star [[Master Craftsman Hydros]]**: Observatories and equipment
-5. **Depth-Star [[Chaplain Abyssos the Deepseeker]]**: Spiritual guidance and rituals
+5. **Depth-Star [[02_Worldbuilding/Groups/Chaplain Abyssos the Deepseeke]]**: Spiritual guidance and rituals
 6. **Surface-Star [[Ambassador Marina Tidecaller]]**: Relations with other factions
 7. **Void-Star [[The Unnamed Watcher]]**: Hadean Depth missions and secrets
 

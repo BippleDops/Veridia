@@ -329,7 +329,7 @@ Thrace's former Crystal Warden unit before the corruption incident:
 **Targets**: 
 - **[[Central Crystal Processing Plant]]**: Primary industrial facility
 - **[[Royal Crystal Laboratory]]**: Government research center
-- **[[Academy of Crystalline Arts]]**: Educational institution training crystal mages
+- **[[02_Worldbuilding/Groups/Academy of Crystalline Art]]**: Educational institution training crystal mages
 - **[[Silverscale Crystal Warehouses]]**: Corporate storage and distribution centers
 
 ### The Warden Recruitment

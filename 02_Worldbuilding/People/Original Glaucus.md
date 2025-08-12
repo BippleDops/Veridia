@@ -297,7 +297,7 @@ The real Senator Glaucus Tidecaller has been imprisoned in the [[02_Worldbuildin
 ### Quests
 - [[Investigate Shadow Conspiracy]] - Living evidence
 - [[Quest - The Memory Thief]] - Rescue mission
-- [[Quest - Parliamentary Corruption]] - His testimony
+- [[02_Worldbuilding/Groups/Quest - Parliamentary Corruptio]] - His testimony
 - [[Quest - Father and Daughter]] - Marina subplot
 - [[Quest - Shadow Confrontation]] - Face his dark self
 

@@ -45,7 +45,7 @@ Shadow Vale represents [[02_Worldbuilding/Places/Aquabyssos]]'s largest and most
 - Established in abandoned district affected by dimensional rift
 - Created as safe haven for those rejected by conventional society
 - Developed initial community governance and mutual support systems
-- Established the [[Shadow Integration Protocols]]
+- Established the [[02_Worldbuilding/Lore/The Shadow Integration]]
 
 ### Growth Period (30-20 Years Ago)
 **Community Development**

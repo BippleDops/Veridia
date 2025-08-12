@@ -1,18 +1,22 @@
 ---
-tags: [location, WORLD_NAME, ADDITIONAL_TAGS]
-status: "stub"
-world: "Aquabyssos OR Aethermoor"
-type: "location"
-created_by: "YOUR_NAME"
+tags:
+- location
+- WORLD_NAME
+- ADDITIONAL_TAGS
+status: active
+world: Aquabyssos OR Aethermoor
+type: location
+created_by: YOUR_NAME
 created: 2025-08-11
-updated: 2025-08-11
-location_type: "TYPE (e.g., City, Dungeon, Wilderness)"
-parent_location: "[[Parent_Location_Name]]"
-depth: "Surface/Shallow/Medium/Deep/Abyss"
+updated: '2025-08-12T14:31:02.325521+00:00'
+location_type: TYPE (e.g., City, Dungeon, Wilderness)
+parent_location: '[[Parent_Location_Name]]'
+depth: Surface/Shallow/Medium/Deep/Abyss
 danger_level: 1-6
-population: "~NUMBER and demographics"
-government: "Government type and leadership"
+population: ~NUMBER and demographics
+government: Government type and leadership
 ---
+
 
 # Location Name
 *Evocative Tagline in Italics*

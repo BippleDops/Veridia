@@ -1,7 +1,6 @@
 ---
 tags:
 - aquabyssos
-- draft
 - encounters
 - random-tables
 - reference
@@ -10,9 +9,10 @@ system: D&D 5e
 campaign: Aquabyssos
 created: 2025-08-07
 world: Aquabyssos
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.705287+00:00'
+status: active
 ---
+
 
 
 

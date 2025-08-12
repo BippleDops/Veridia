@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.278828+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-temple-of-divine-order-temple-of-divine-order.svg)
@@ -292,12 +292,12 @@ The Temple maintains religious facilities in every major settlement:
 - [[Blessed Mother Thalassa the Transformed]]
 - [[Depth Cardinal Mercy Tidebringer]]
 - [[Depth Cardinal Justice Currentkeeper]]
-- [[Depth Cardinal Wisdom Voidseeker]]
+- [[02_Worldbuilding/Groups/Depth Cardinal Wisdom Voidseeke]]
 
 **Religious Concepts**:
 - [[The Architects of Depths]]
 - [[Sacred Texts of Transformation]]
-- [[Divine Transformation Theology]]
+- [[02_Worldbuilding/Groups/Divine Transformation Theolog]]
 - [[Depth Spirituality]]
 - [[Interfaith Relations in Aquabyssos]]
 
@@ -306,7 +306,7 @@ The Temple maintains religious facilities in every major settlement:
 - [[Religious Education Programs]]
 - [[Community Support Networks]]
 - [[Transformation Assistance]]
-- [[Crisis Response Services]]
+- [[02_Worldbuilding/Groups/Crisis Response Service]]
 
 ## Connections
 

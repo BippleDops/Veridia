@@ -17,7 +17,6 @@ estimated_time: 3-4 hours
 tags:
 - aethermoor
 - bloodline
-- draft
 - revelation
 - session
 - session-journal
@@ -26,10 +25,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.678839+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

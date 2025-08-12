@@ -468,7 +468,7 @@ Verdant Shard represents the fusion of the elf druid Thornwyn Earthsong with the
 - [[02_Worldbuilding/People/The Emerald Sage Willowbark]] - Druidic advisor
 
 ### Locations
-- [[The Heart Grove]] - Primary residence and sanctuary
+- [[02_Worldbuilding/Lore/Heart Grove]] - Primary residence and sanctuary
 - [[Whispering Wildlands]] - Home territory
 - [[The Great Mother Tree]] - Consciousness center
 - [[Seasonal Quarters]] - Different climate zones

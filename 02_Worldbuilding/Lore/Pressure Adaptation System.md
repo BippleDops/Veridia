@@ -388,7 +388,7 @@ Various organizations support and regulate pressure adaptation technology:
 - **[[Adaptation Medical Society]]**: Healthcare professionals specializing in pressure-related medicine
 - **[[Citizens Adaptation Alliance]]**: Advocacy group representing pressure system users
 - **[[Emergency Response Coordination]]**: Crisis management organization for system failures
-- **[[Pressure Safety Authority]]**: Government agency regulating system safety and standards
+- **[[02_Worldbuilding/Groups/Pressure Safety Authorit]]**: Government agency regulating system safety and standards
 
 ### Research and Development Partnerships
 

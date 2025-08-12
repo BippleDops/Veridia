@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.774149+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg)
@@ -97,7 +97,7 @@ The syndicate's influence now extends throughout [[Aquabyssos]], with operations
 #### "The Harvester" Keth Reefrender
 *Medium humanoid (triton), lawful evil*
 - **Role:** Illegal Coral Operations
-- **Base:** Hidden facility in [[The Living Reef]]
+- **Base:** Hidden facility in [[02_Worldbuilding/Places/Living Reef]]
 - **Specialty:** Coral cultivation and processing
 
 ## Notable Operations & Services

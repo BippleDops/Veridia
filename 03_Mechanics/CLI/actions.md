@@ -401,7 +401,7 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([Perception](/0
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2014]]
+[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014]]
 
 ## Player-Facing Summary
 

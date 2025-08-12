@@ -17,15 +17,15 @@ timelines:
 tags:
 - '#category/journal'
 - both
-- draft
 - journal
 - session-journal
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.328802+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

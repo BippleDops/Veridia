@@ -219,7 +219,7 @@ A thin, nondescript man who seems to blend into crowds and disappear from memory
 Leader of the most successful pirate crew currently operating out of Port Crystalfall. Rodriguez maintains an uneasy truce with local authorities by providing intelligence about larger threats in exchange for limited operational freedom. She typically occupies Booth 7 (The Anchor) every Thursday evening.
 
 **The Gentleman Scholar**
-A well-dressed individual of unclear identity who appears periodically to purchase specific types of information. Pays in rare coins from across both realms and always knows more about current events than seems reasonable for a tavern patron. Some suspect he represents the [[Crystal Council]], while others believe he works for [[The Forgotten Court]].
+A well-dressed individual of unclear identity who appears periodically to purchase specific types of information. Pays in rare coins from across both realms and always knows more about current events than seems reasonable for a tavern patron. Some suspect he represents the [[02_Worldbuilding/Lore/The Crystal Council]], while others believe he works for [[The Forgotten Court]].
 
 **"Crosscurrent" Sally**
 A smuggler specializing in moving people rather than cargo. Sally helps individuals disappear or assume new identities, and she maintains contacts throughout both legitimate and criminal communities. Her services are expensive but reliable, and she has never lost a client to pursuit or betrayal.
@@ -335,13 +335,13 @@ Monthly contests where patrons compete to tell the most entertaining, outrageous
 
 3. **Memory Plague** - Sailors returning from deep water report experiencing memories that aren't their own, particularly involving ancient underwater civilizations.
 
-4. **Council Corruption** - At least three [[Crystal Council]] members are suspected of involvement in illegal crystal trafficking.
+4. **Council Corruption** - At least three [[02_Worldbuilding/Lore/The Crystal Council]] members are suspected of involvement in illegal crystal trafficking.
 
 5. **The Deep Trader** - An Aquabyssos merchant has been seeking surface agents for a major cross-realm operation involving "items of historical significance."
 
 6. **Warden Investigation** - The [[Crystal Wardens]] are conducting a comprehensive review of shipping manifests from the past six months.
 
-7. **Pirate Alliance** - Several independent pirate crews are considering forming a confederation to challenge the [[Shadowhawk Syndicate]]'s dominance.
+7. **Pirate Alliance** - Several independent pirate crews are considering forming a confederation to challenge the [[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]'s dominance.
 
 8. **Haunted Waters** - Multiple vessels report spectral encounters near the site of a major naval battle from decades past.
 
@@ -423,7 +423,7 @@ A protection racket is targeting businesses in the port district, including the 
 Patrons of the tavern are losing specific memories - always related to valuable information or dangerous secrets. The party must track down a rogue memory mage while dealing with clients who can't remember what they've lost.
 
 **Syndicate War**
-The [[Shadowhawk Syndicate]] and a rival organization engage in open warfare, using the Siren's Rest as neutral ground for negotiations. The party becomes involved when the talks break down and they must prevent the conflict from consuming the entire port district.
+The [[02_Worldbuilding/Groups/The Shadowhawk Syndicate]] and a rival organization engage in open warfare, using the Siren's Rest as neutral ground for negotiations. The party becomes involved when the talks break down and they must prevent the conflict from consuming the entire port district.
 
 **The Crystal Conspiracy**
 Evidence suggests that several Crystal Council members are using the tavern as a meeting place for illegal activities. The party must gather proof while avoiding detection by both corrupt officials and their criminal partners.
@@ -565,7 +565,7 @@ Summer represents peak activity for both legitimate and criminal maritime operat
 
 ### Faction Relationships
 
-**[[Shadowhawk Syndicate]]**
+**[[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]**
 The tavern serves as an unofficial neutral meeting ground for syndicate operations. Morgana maintains careful independence while providing services that benefit the organization's activities.
 
 **[[Crystal Wardens]]**

@@ -326,7 +326,7 @@ The Siren is [[02_Worldbuilding/Places/Aethermoor]]'s most notorious information
 - [[Quest - The Lost Verse]]
 - [[Quest - The Siren's Price]]
 - [[Quest - Songs of Power]]
-- [[Quest - The Information War]]
+- [[02_Worldbuilding/Lore/Quest - Information War]]
 - [[Quest - The Final Performance]]
 
 ### Items

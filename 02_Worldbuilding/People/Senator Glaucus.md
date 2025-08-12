@@ -2,7 +2,6 @@
 tags:
 - aquabyssos
 - both
-- draft
 - npc
 - parliament
 - shadow-replaced
@@ -54,12 +53,13 @@ secrets:
 - Knows location of shadow transformation facility
 - Original Glaucus still alive but imprisoned
 created: 2025-08-07
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.578437+00:00'
 obsidianUIMode: preview
 world: Both
-status: draft
+status: active
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

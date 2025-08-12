@@ -1,7 +1,6 @@
 ---
 tags:
 - aquabyssos
-- draft
 - parliament-shadows
 - session
 session: Session 01 Aquabyssos
@@ -50,10 +49,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Aquabyssos
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.683287+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 

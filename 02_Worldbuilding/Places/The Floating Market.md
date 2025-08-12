@@ -693,7 +693,7 @@ The Floating Market exists in a carefully maintained dimensional pocket that tou
 - **[[Treaty of Neutral Commerce]]**: Legal foundation for market's existence
 - **[[The Portal Wars]]**: Past conflict over control of dimensional gateways
 - **[[Unity Festival]]**: Annual celebration of inter-realm cooperation
-- **[[Diplomatic Quarter]]**: Formal embassy district connected to market
+- **[[02_Worldbuilding/Places/The Diplomatic Quarter]]**: Formal embassy district connected to market
 - **[[The Exchange Rate Wars]]**: Economic conflicts over currency valuation
 - **[[Inter-Realm Courier Network]]**: Communication system linking both realms through market
 

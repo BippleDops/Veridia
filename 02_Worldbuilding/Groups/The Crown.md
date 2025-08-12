@@ -267,7 +267,7 @@ After Aetheron's Crown shattered into Seven Shards:
 ### Hidden Assets
 - [[The Crimson Blades]] - Secret police
 - [[Crystal Touched]] - Enhanced agents
-- [[Memory Keepers]] - Information control
+- [[02_Worldbuilding/Places/Keepers of Memory]] - Information control
 - [[The Silence]] - Assassination unit
 - [[Royal Doubles]] - Body doubles network
 

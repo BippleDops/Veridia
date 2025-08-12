@@ -1,15 +1,15 @@
 ---
 tags:
 - dimensional-nexus-(both-realms)
-- draft
 - location
 type: Location
 world: Dimensional Nexus (Both Realms)
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.477722+00:00'
 danger_level: Moderate
 ---
+
 
 
 

@@ -2,7 +2,6 @@
 tags:
 - both
 - category/group
-- draft
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Knightly Order
@@ -29,11 +28,12 @@ benefits:
 - standing: 3
   reward: What do they get at level 3?
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.333659+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 

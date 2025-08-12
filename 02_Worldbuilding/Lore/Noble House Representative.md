@@ -2,13 +2,13 @@
 tags:
 - aethermoor
 - character
-- draft
 type: Lore
 world: Aethermoor
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.831811+00:00'
 ---
+
 
 
 

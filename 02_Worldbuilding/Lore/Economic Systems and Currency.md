@@ -565,7 +565,7 @@ The economic systems of [[02_Worldbuilding/Places/Aethermoor]] and [[02_Worldbui
 - [[02_Worldbuilding/Lore/The Grand Trade Routes]]
 - [[02_Worldbuilding/Groups/Major Trading Companies]]
 - [[02_Worldbuilding/Places/Commercial Hubs and Markets]]
-- [[03_Mechanics/Living_Economy_System]]
+- [[03_Mechanics/Living_Economy_Syste]]
 - [[03_Mechanics/Economic_Warfare_Simulator]]
 
 ## Player-Facing Summary
@@ -589,3 +589,4 @@ Legend holds that the most successful merchants are those who can speak the hidd
 Use the economic systems as a foundation for complex political intrigue, allowing players to engage with power structures through financial means rather than just combat. The multi-layered currency systems provide opportunities for sophisticated plots involving market manipulation, cross-realm politics, and criminal enterprises. Consider how economic events can drive campaign storylines and create consequences that extend far beyond immediate financial gain or loss.
 
 The criminal financial networks offer alternative paths for character development and plot advancement, while the legitimate economic systems provide a framework for understanding how society functions and how player actions might affect broader political and social stability.
+<!-- enriched: true -->

@@ -104,14 +104,14 @@ type: Lore
 - [[The Crimson Hand]] - Shadow operatives
 - [[Void Touched Cult]] - Corruption spreaders
 - [[The Preservers]] - Ancient knowledge guardians
-- [[Shadow Market Syndicate]] - Underground trade
+- [[02_Worldbuilding/Groups/Shadow Market Syndicat]] - Underground trade
 
 ## 📚 Lore & History
 
 ### Core Concepts
 - [[Timeline of the Catastrophe]] - The world-changing event
 - [[The Merging]] - Planar collision aftermath
-- [[Pressure Magic Theory]] - Aquabyssos power source
+- [[02_Worldbuilding/Lore/Pressure Magic]] - Aquabyssos power source
 - [[Wind Song Traditions]] - Aethermoor culture
 
 ### Mysteries & Secrets
@@ -239,7 +239,7 @@ type: Lore
 
 - [[Culture_Builder]]
 - [[Guild Master Shellforge]]
-- [[Shadow Market Syndicate]]
+- [[02_Worldbuilding/Groups/Shadow Market Syndicat]]
 - [[Void Touched Cult]]
 - [[Altitude & Wind Effects]]
 - [[Balta Kaine]]
@@ -259,7 +259,7 @@ type: Lore
 - [[Oracle Mistweaver]]
 - [[Player_Handouts]]
 - [[Pressure & Depth Mechanics]]
-- [[Pressure Magic Theory]]
+- [[02_Worldbuilding/Lore/Pressure Magic]]
 - [[Pressure Magic]]
 - [[Quest - Ascension]]
 - [[Quest - Crystal Corruption]]

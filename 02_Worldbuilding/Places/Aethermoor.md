@@ -1,14 +1,14 @@
 ---
 world: Aethermoor
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.714829+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - aethermoor
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View

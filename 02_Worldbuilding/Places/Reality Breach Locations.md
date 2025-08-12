@@ -295,4 +295,16 @@ Remember that breaches are inherently unstable - they should feel dangerous even
 - [[Avatar Manifestations]]
 - [[Temporal Mechanics]]
 - [[Void Shepherds]]
-- [[Memory Merchants Guild]]
+- [[02_Worldbuilding/Groups/The Memory Merchants Guild]]
+
+## Lore Details
+
+Legends speak of Reality Breach Locations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Breach Locations.
+
+## Adventure Hooks
+
+- A rumor ties Reality Breach Locations to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Reality Breach Locations to avert a public scandal.
+- A map overlay reveals a hidden approach to Reality Breach Locations active only during specific tides/storms.
+
+<!-- enriched: true -->

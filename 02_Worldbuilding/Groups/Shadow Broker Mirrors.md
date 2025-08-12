@@ -300,7 +300,7 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - **[[Counter-Mirror Task Force]]**: Specialized unit targeting reflection surveillance
 - **[[Anti-Scrying Division]]**: Government department developing counter-surveillance
 - **[[Privacy Protection Agency]]**: Civilian organization opposing mirror surveillance
-- **[[Legal Reform Movement]]**: Politicians working to ban mirror spying
+- **[[02_Worldbuilding/Lore/Legal Reform Movemen]]**: Politicians working to ban mirror spying
 - **[[Traditional Spy Networks]]**: Government intelligence angry about being outperformed
 
 ### Rival Information Organizations

@@ -190,7 +190,7 @@ The original Seraphina's consciousness recognizes the danger but cannot override
 
 ## Military and Security Implications
 
-### [[Crystal Guard Elite]]
+### [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
 **Royal Protection Force:**
 The queen's personal guard has been enhanced with crystal magic, making them formidable but also susceptible to possession influence:
 
@@ -263,7 +263,7 @@ Although unaware of the other dimension's existence, the possessed queen's actio
 ## Resistance Movements
 
 ### The Loyal Opposition
-**[[Order of the True Crown]]:**
+**[[02_Worldbuilding/Groups/Order of the True Crow]]:**
 A secret organization of nobles, military officers, and citizens loyal to the original Queen Seraphina:
 
 **Leadership:**
@@ -305,7 +305,7 @@ A religious organization believing crystal possession can be cured through spiri
 - Torn between love for mother and horror at her transformation
 - Secretly working with [[Prince Aurelius]] to find cure
 - Experiencing crystal dreams that mirror her mother's early symptoms
-- Protected by [[Crystal Guard Elite]] members who remember their original loyalty
+- Protected by [[02_Worldbuilding/Lore/The Crystal Guard Elite]] members who remember their original loyalty
 
 **[[Prince Aurelius]] (Son, Age 23):**
 - Immune to crystal possession due to genetic variation
@@ -489,7 +489,7 @@ Queen Seraphina's possession represents one path convergence might take—forced
 - [[The Crown of Consciousness]] - Royal regalia enhanced with divine power
 - [[The Shard Fragment]] - Original catalyst for possession
 - [[The Royal Crystals]] - Personal items serving as consciousness interfaces
-- [[The Identity Anchor]] - Potential tool for restoring original personality
+- [[02_Worldbuilding/Lore/Identity Anchor]] - Potential tool for restoring original personality
 - [[The Love Token]] - Item connecting queen to King Consort's parallel possession
 
 ---
@@ -500,7 +500,7 @@ Queen Seraphina's possession represents one path convergence might take—forced
 
 ## Connections
 
-- [[Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Possessed Noble Coterie]]
 - [[Throne Room]]
 

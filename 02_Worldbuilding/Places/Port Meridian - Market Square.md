@@ -559,7 +559,7 @@ A deal involving artifacts of immense power and value brings representatives fro
 - [[Aethermoor]] - The surface kingdom this market serves
 
 ### Associated Organizations
-- [[Crystal Merchants Guild]] - Professional organization for crystal-related commerce
+- [[02_Worldbuilding/Groups/Crystal Merchants Guil]] - Professional organization for crystal-related commerce
 - [[Aethermoor Trade Commission]] - Government agency regulating inter-realm commerce
 - [[Market Security Force]] - Specialized law enforcement for commercial areas
 - [[Cultural Exchange Society]] - Organization promoting understanding between different realms

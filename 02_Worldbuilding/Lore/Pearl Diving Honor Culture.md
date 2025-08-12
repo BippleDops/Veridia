@@ -171,7 +171,7 @@ Pearl Diving Honor Culture represents one of Aquabyssos's most revered and dange
 - [[The Deep Temple]] - Sacred site for diving blessing ceremonies and spiritual practices
 
 ## Connected Organizations
-- [[The Pearl Divers Guild]] - Professional organization maintaining standards and traditions
+- [[02_Worldbuilding/Groups/The Pearl Divers Guil]] - Professional organization maintaining standards and traditions
 - [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization handling pearl commerce and exports
 - [[Sea Spirit Priests]] - Religious order blessing diving operations and protecting maritime workers
 

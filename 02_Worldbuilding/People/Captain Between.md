@@ -1,14 +1,14 @@
 ---
 tags:
 - dimensional-threshold-(both-realms)
-- draft
 - npc
 type: NPC
 world: Dimensional Threshold (Both Realms)
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.532452+00:00'
 ---
+
 
 
 

@@ -3,7 +3,6 @@ tags:
 - aquabyssos
 - both
 - continent
-- draft
 - horror
 - knowledge
 - location
@@ -17,10 +16,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-12
-status: draft
+updated: '2025-08-12T14:31:04.348333+00:00'
+status: active
 type: Location
 ---
+
 
 
 > [!figure] View

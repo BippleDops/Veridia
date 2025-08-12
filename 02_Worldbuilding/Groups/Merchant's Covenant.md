@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.131310+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covenant-merchant-s-covenant.svg)
@@ -477,12 +477,12 @@ The Covenant has negotiated quasi-governmental status with major depth authoriti
 - [[The Succession Crisis]] - Current leadership transition
 
 **Notable NPCs**:
-- [[Archmerchant Codex Goldstream]] - Current supreme leader showing signs of instability
+- [[02_Worldbuilding/Groups/Archmerchant Codex Goldstrea]] - Current supreme leader showing signs of instability
 - [[Deputy Archmerchant Scroll Deepmind]] - Chosen successor and psychology expert
 - [[Trade Captain Marina Pathkeeper]] - Transportation and exploration specialist
 - [[Scholar-Merchant Remembrance Tidekeep]] - Historical preservation advocate
-- [[Information Broker Whisper Goldtongue]] - Intelligence operations chief
-- [[Craftmaster Engineer Gearwhisper]] - Technology and innovation leader
+- [[02_Worldbuilding/Groups/Information Broker Whisper Goldtongu]] - Intelligence operations chief
+- [[02_Worldbuilding/Groups/Craftmaster Engineer Gearwhispe]] - Technology and innovation leader
 - [[Metamorphosis Consultant Deep-Change]] - Transformation guidance expert
 
 **Knowledge Categories**:

@@ -327,3 +327,17 @@ Guaranteeing equal voting rights regardless of pressure adaptation level.
 
 *"The law is like water—it finds every crack, exploits every weakness, and eventually drowns everything in its path."*
 — Parliamentary Legal Scholar Nereus Depthwise
+
+## Player-Facing Summary
+
+Parliamentary Procedures and Loopholes is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Parliamentary Procedures and Loopholes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliamentary Procedures and Loopholes.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+<!-- enriched: true -->

@@ -6,7 +6,6 @@ my-category: null
 tags:
 - both
 - category/item
-- draft
 - item
 obsidian-u-i-mode: preview
 aliases:
@@ -16,10 +15,11 @@ connected_-quests:
 connected_-groups:
 - Template-Group
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.651439+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 
 > [!NOTE|div-m] Parent Location: `INPUT[inlineListSuggester(optionQuery(#Category/Quest),optionQuery(#Category/People),optionQuery(#Category/Group),optionQuery(#Category/Place),optionQuery(#Category/PointofInterest)):MyContainer]`

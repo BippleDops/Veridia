@@ -163,7 +163,7 @@ The Sacred Covenant Brotherhood represents the most militant faction within the 
 
 ### The Evolutionary Traditionalists
 
-**Leader**: [[Cultural-Sage Deep-Memory]]
+**Leader**: [[02_Worldbuilding/Groups/Cultural-Sage Deep-Memor]]
 **Philosophy**: Cultural restoration within flexible political frameworks
 **Methods**: Education, cultural preservation, intellectual development
 **Membership**: ~20,000 scholars, artists, and cultural practitioners

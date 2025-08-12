@@ -2,13 +2,13 @@
 tags:
 - ancient-library/archive
 - aquabyssos
-- draft
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.957635+00:00'
 ---
+
 
 
 

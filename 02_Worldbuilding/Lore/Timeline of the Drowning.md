@@ -544,10 +544,10 @@ The Drowning represents the cataclysmic transformation of a surface civilization
 - [[The Shadow Markets]] - Centers of corruption-based commerce
 
 ### Artifacts and Technology
-- [[The Deep Archives]] - Complete record of Drowning process
+- [[02_Worldbuilding/Lore/Deep Archives]] - Complete record of Drowning process
 - [[Memory Crystals]] - Technology preserving pre-Drowning experiences
 - [[The Pressure Crown]] - Symbol of successful adaptation
-- [[Shadow Integration Protocols]] - Methods for managing corruption
+- [[02_Worldbuilding/Lore/The Shadow Integration]] - Methods for managing corruption
 - [[The Current Maps]] - Navigation systems for underwater travel
 
 ---

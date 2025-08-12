@@ -1,15 +1,15 @@
 ---
 tags:
 - aquabyssos
-- draft
 - location
 type: Location
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.360014+00:00'
 danger_level: Moderate
 ---
+
 
 
 

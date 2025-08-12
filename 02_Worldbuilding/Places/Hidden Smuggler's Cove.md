@@ -179,7 +179,7 @@ The cove regularly hosts 10-20 visiting smugglers, pirates, and other criminals.
 **Common Visitor Types:**
 - **Independent Smugglers:** Small operators moving specific goods for regular clients
 - **Pirate Crews:** Raiders seeking safe harbor while planning their next target
-- **[[Shadowhawk Syndicate]] Operatives:** Members of the larger criminal organization conducting business
+- **[[02_Worldbuilding/Groups/The Shadowhawk Syndicate]] Operatives:** Members of the larger criminal organization conducting business
 - **Corrupt Officials:** Customs agents, guards, and even minor nobles involved in the illegal trade
 - **Treasure Hunters:** Adventurers seeking rare materials or information about hidden caches
 
@@ -270,7 +270,7 @@ The cove's inventory changes regularly, but current holdings might include:
 - Crates of illegal alchemical components
 - Several barrels of rare wine from the [[Sunken Vineyards]] of Aquabyssos
 - A collection of nautical charts marking unexplored areas of both realms
-- Correspondence revealing a plot against the [[Crystal Council]]
+- Correspondence revealing a plot against the [[02_Worldbuilding/Lore/The Crystal Council]]
 
 ## Dangers and Threats
 
@@ -311,7 +311,7 @@ Several experienced adventuring parties have been hired to investigate criminal 
 
 ## Connections to the Broader World
 
-### [[Shadowhawk Syndicate]]
+### [[02_Worldbuilding/Groups/The Shadowhawk Syndicate]]
 The cove operates as a semi-independent cell within the larger Shadowhawk Syndicate network. While Marlowe maintains day-to-day control, she answers to higher-ranking syndicate officials who provide protection, information, and access to larger smuggling operations.
 
 **Syndicate Benefits:**

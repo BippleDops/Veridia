@@ -1,14 +1,14 @@
 ---
 tags:
 - aethermoor
-- draft
 - grand-cathedral
 type: Lore
 world: Aethermoor
-status: draft
+status: active
 created: '2025-08-11T13:08:46.544270+00:00'
-updated: '2025-08-11T13:08:49.214705+00:00'
+updated: '2025-08-12T14:31:02.356059+00:00'
 ---
+
 
 
 

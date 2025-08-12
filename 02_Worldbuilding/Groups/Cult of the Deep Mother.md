@@ -337,9 +337,17 @@ Use the concentric circle structure to provide different levels of opposition an
 - [[Deep Mother Lore]]
 - [[Complete Deep Mother Subsystem]]
 - [[Shadow Corruption]]
-- [[Order of the Silver Anchor]]
+- [[02_Worldbuilding/Groups/Order of the Silver Ancho]]
 - [[Scholars of Divine Lore]]
 - [[Temple of the Sunken Cathedral]]
 - [[Void Shepherds]]
 - [[Reality Anchors]]
 - [[Avatar Manifestations]]
+
+## Adventure Hooks
+
+- A rumor ties Cult of the Deep Mother to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Cult of the Deep Mother to avert a public scandal.
+- A map overlay reveals a hidden approach to Cult of the Deep Mother active only during specific tides/storms.
+
+<!-- enriched: true -->

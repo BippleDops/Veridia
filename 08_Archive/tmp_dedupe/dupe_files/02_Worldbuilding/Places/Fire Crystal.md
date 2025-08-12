@@ -1,15 +1,15 @@
 ---
 tags:
 - both
-- draft
 - location
 type: Location
 world: Both
-status: draft
+status: active
 created: '2025-08-11T13:08:46.569390+00:00'
-updated: '2025-08-11T13:08:50.257095+00:00'
+updated: '2025-08-12T14:31:02.358589+00:00'
 danger_level: Moderate
 ---
+
 
 
 ## Overview

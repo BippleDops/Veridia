@@ -1,14 +1,14 @@
 ---
 tags:
 - aethermoor
-- draft
 - historical-event
 type: Lore
 world: Aethermoor
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.946546+00:00'
 ---
+
 
 
 

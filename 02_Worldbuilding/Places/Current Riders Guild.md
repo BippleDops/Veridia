@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.793110+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 
 > [!figure] View
@@ -25,7 +25,7 @@ danger_level: Moderate
 
 ## Physical Description & Atmosphere
 
-The Current Riders Guild headquarters rises from the [[Coral Gardens]] like a living reef formation, its walls constructed from cultivated coral and reinforced with [[Deepstone]] foundations. The building's organic architecture features flowing curves that mimic ocean currents, with bioluminescent algae providing soft blue-green illumination throughout the day-night cycle.
+The Current Riders Guild headquarters rises from the [[02_Worldbuilding/Lore/The Coral Gardens]] like a living reef formation, its walls constructed from cultivated coral and reinforced with [[Deepstone]] foundations. The building's organic architecture features flowing curves that mimic ocean currents, with bioluminescent algae providing soft blue-green illumination throughout the day-night cycle.
 
 The main hall features a massive central pool connected to the open ocean via protected channels, allowing [[Sea Horse|Sea Horses]], [[Dolphin|Dolphins]], and other aquatic mounts to enter directly. Carved [[Pearlshell]] panels display the guild's motto in flowing Aquan script: *"Swift as the current, reliable as the tide."*
 

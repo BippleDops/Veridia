@@ -5,7 +5,6 @@ aliases:
 tags:
 - both
 - category/player
-- draft
 Player: Bob
 Role: Player
 Class:
@@ -47,11 +46,12 @@ siblings:
 obsidianUIMode: preview
 MyContainer: null
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.337008+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 

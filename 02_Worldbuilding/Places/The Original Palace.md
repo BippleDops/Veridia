@@ -36,7 +36,7 @@ danger_level: Moderate
 
 ## Overview
 
-Deep within the [[Midnight Trenches]] of [[Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
+Deep within the [[Midnight Trenches]] of [[Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[02_Worldbuilding/Lore/The Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
 
 The palace exists in a state of constant, gentle motion, its living coral walls breathing with the rhythm of the deep currents. Bioluminescent organisms integrated into the architecture provide an ethereal glow that shifts through the spectrum of deep-sea colors: blues, purples, and the occasional flash of silver or gold.
 
@@ -57,7 +57,7 @@ The palace consists of five great spires, each serving a distinct purpose and re
 **The Spire of Currents** (Central Tower)
 - **Height:** 500 feet above the sea floor
 - **Function:** Throne rooms and formal audience chambers
-- **Notable Features:** The original [[Coral Throne]], now empty but still resonant with ancient magic
+- **Notable Features:** The original [[02_Worldbuilding/Lore/The Coral Throne]], now empty but still resonant with ancient magic
 - **Architecture:** Spiral chambers following the pattern of ocean currents
 
 **The Spire of Depths** (Northern Tower)
@@ -248,7 +248,7 @@ A coded map has been discovered that allegedly leads to a hidden treasure vault 
 
 ## Connections to Other Locations
 
-### The [[Coral Throne]] Chamber
+### The [[02_Worldbuilding/Lore/The Coral Throne]] Chamber
 The destroyed throne that sparked [[The Depth Accords]] quest was a newer creation, modeled after the Original Palace's design. Pieces of the original throne remain here, and they may hold the key to creating a permanent replacement.
 
 ### The [[Abyssal Courts]]

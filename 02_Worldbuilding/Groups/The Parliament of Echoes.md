@@ -1,14 +1,14 @@
 ---
 tags:
-- draft
 - dual
 - group
 type: Group
 world: dual
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.028019+00:00'
 ---
+
 
 
 

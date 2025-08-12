@@ -110,8 +110,8 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 
 #### **The Umbral Exchange (Aquabyssos) - Shadow Market Center**
 **Criminal Leadership:**
-- [[The Shadow Merchant Prime]] - Overall criminal economy direction
-- [[Master Trader Darkmarket]] - Daily operations management
+- [[02_Worldbuilding/Groups/The Shadow Merchant Prim]] - Overall criminal economy direction
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke]] - Daily operations management
 - [[Commander Shadowguard]] - Security and enforcement
 
 **Service Providers:**
@@ -1002,7 +1002,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - [[Commander Shadowguard]]
 - [[Crystal Corruption Taboos]]
 - [[Crystal-Corruption-Tracking-Sheet]]
-- [[Master Trader Darkmarket]]
+- [[02_Worldbuilding/Groups/Master Trader Darkmarke]]
 - [[Merged Reality Zones]]
 - [[Multiple Recursion Levels]]
 - [[Pressure Adaptation System]]
@@ -1016,7 +1016,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 - [[The Lighthouse of Storms]]
 - [[The Seven Betrayers]]
 - [[The Seven Shards]]
-- [[The Shadow Merchant Prime]]
+- [[02_Worldbuilding/Groups/The Shadow Merchant Prim]]
 - [[The Shattering of the Crown]]
 - [[The Silverscale Conspiracy]]
 - [[Tidal Memory Ceremonies]]

@@ -1,14 +1,14 @@
 ---
 tags:
-- draft
 - npc
 - universal
 type: NPC
 world: Universal
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.595696+00:00'
 ---
+
 
 
 > [!figure] Portrait

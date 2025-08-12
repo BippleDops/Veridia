@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.968183+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Group
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-cult-of-screams-cult-of-screams.svg)
@@ -252,7 +252,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[The Resonance Cathedral]]
 - [[02_Worldbuilding/Lore/Aquabyssos World Overview#The Three Depths|New Thalassopolis]]
 - [[Acoustic Dead Zones]]
-- [[Mobile Terror Platforms]]
+- [[02_Worldbuilding/Groups/Mobile Terror Platform]]
 
 **Historical Events**:
 - [[The Silence Experiments]]
@@ -266,7 +266,7 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 - [[Bass-Echo Rumble Deepshake]]
 - [[Mid-Echo Shriek Nerveshatter]]
 - [[Treble-Echo Whistle Brainsplitter]]
-- [[Void-Echo Silence Deafmaker]]
+- [[02_Worldbuilding/Groups/Void-Echo Silence Deafmake]]
 - [[Chaos-Echo Discord Mindmelter]]
 
 **Specialized Equipment**:
@@ -279,9 +279,9 @@ Modified vessels equipped with massive acoustic amplification equipment, used fo
 **Cult Techniques**:
 - [[Acoustic Infection]]
 - [[The Great Resonance]]
-- [[Resonance Cascade Attacks]]
+- [[02_Worldbuilding/Groups/Resonance Cascade Attack]]
 - [[Silent Zone Creation]]
-- [[Harmonic Mind Control]]
+- [[02_Worldbuilding/Groups/Harmonic Mind Contro]]
 
 ## Player-Facing Summary
 

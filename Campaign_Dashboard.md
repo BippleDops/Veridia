@@ -284,7 +284,7 @@ SORT file.name ASC
 - [[04_Resources/Handouts]] - Player handouts
 - [[04_Resources/Random_Tables]] - Generation tables
 - [[07_Player_Resources]] - Player references
-- [[06_GM_Resources]] - GM materials
+- [[02_Worldbuilding/Lore/GM Resources]] - GM materials
 
 ## 🎯 Session Preparation Checklist
 
@@ -391,7 +391,7 @@ if (daysSinceUpdate > 7) {
 
 ## Connections
 
-- [[06_GM_Resources]]
+- [[02_Worldbuilding/Lore/GM Resources]]
 - [[07_Player_Resources]]
 - [[Complete Pressure Adaptation System]]
 - [[Complete Reality Merger System]]

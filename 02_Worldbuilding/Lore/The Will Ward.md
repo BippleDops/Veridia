@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - magical-barrier-fortress
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.578057+00:00'
 ---
+
 
 
 

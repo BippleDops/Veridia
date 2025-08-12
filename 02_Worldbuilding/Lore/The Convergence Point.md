@@ -352,7 +352,7 @@ Key choices facing heroes:
 
 - [[Crystal Festival]]
 - [[Crystal Garden]]
-- [[Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Customs House]]
 - [[Desperate Plague Victim]]
 - [[Healing Two Worlds]]

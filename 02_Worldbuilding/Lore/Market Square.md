@@ -1,14 +1,14 @@
 ---
 tags:
-- draft
 - master-index
 - universal
 type: Lore
 world: Universal
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.408685+00:00'
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-port-meridian-market-square-port-meridian-market-square.svg)

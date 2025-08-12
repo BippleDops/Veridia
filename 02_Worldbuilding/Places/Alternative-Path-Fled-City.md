@@ -44,9 +44,9 @@ The city serves as both sanctuary and statement—a proof that alternative ways 
 ## Origins and History
 
 ### The Great Departure
-Alternative-Path-Fled-City began twenty-five years ago when a group of [[Crystal Academy]] scholars, led by the visionary theorist **Master Lyrin Windseeker**, challenged the fundamental assumptions underlying [[Aethermoor]]'s society. Their research suggested that crystal-based power was not the only path to aerial mastery, and that alternative technologies could provide similar capabilities without requiring rare crystal resources or inherited magical talents.
+Alternative-Path-Fled-City began twenty-five years ago when a group of [[02_Worldbuilding/Groups/The Crystal Academy]] scholars, led by the visionary theorist **Master Lyrin Windseeker**, challenged the fundamental assumptions underlying [[Aethermoor]]'s society. Their research suggested that crystal-based power was not the only path to aerial mastery, and that alternative technologies could provide similar capabilities without requiring rare crystal resources or inherited magical talents.
 
-When their findings were suppressed by the [[Crystal Council]] and several researchers faced exile for "destabilizing social order," Master Lyrin organized a mass departure of like-minded individuals. The initial group of 200 included expelled scholars, disenfranchised workers, political dissidents, and those who simply sought a different way of life.
+When their findings were suppressed by the [[02_Worldbuilding/Lore/The Crystal Council]] and several researchers faced exile for "destabilizing social order," Master Lyrin organized a mass departure of like-minded individuals. The initial group of 200 included expelled scholars, disenfranchised workers, political dissidents, and those who simply sought a different way of life.
 
 ### The Founding Principles
 The city was established on four fundamental principles that continue to guide its development:
@@ -182,7 +182,7 @@ Despite their alternative philosophy, the city maintains active trade relationsh
 #### Diplomatic Challenges
 The city's existence challenges fundamental assumptions of [[Aethermoor]] society, creating ongoing tensions with traditional authorities while inspiring similar experiments elsewhere.
 
-**Government Relations**: Managing pressure from [[Crystal Council]] and other traditional authorities
+**Government Relations**: Managing pressure from [[02_Worldbuilding/Lore/The Crystal Council]] and other traditional authorities
 **Defense Coordination**: Maintaining security without military hierarchy
 **Alliance Building**: Connecting with other alternative communities for mutual support
 **Cultural Exchange**: Sharing ideas and innovations with sympathetic external groups
@@ -380,7 +380,7 @@ A critical system failure threatens the city's ability to maintain altitude, and
 - Balancing individual expertise with community collaboration
 
 ### The Diplomatic Mission (Levels 6-8)
-The [[Crystal Council]] has demanded that Alternative-Path-Fled-City accept traditional [[Aethermoor]] governance or face forced integration. The community needs skilled negotiators to represent their interests while finding a solution that allows them to maintain their independence and principles.
+The [[02_Worldbuilding/Lore/The Crystal Council]] has demanded that Alternative-Path-Fled-City accept traditional [[Aethermoor]] governance or face forced integration. The community needs skilled negotiators to represent their interests while finding a solution that allows them to maintain their independence and principles.
 
 **Key Elements:**
 - High-stakes diplomacy with powerful traditional authorities
@@ -407,7 +407,7 @@ The community's success has attracted more applicants than they can accommodate,
 - Managing diverse perspectives and interests within the community
 
 ### The Knowledge Liberation (Levels 10-12)
-The community discovers that the [[Crystal Council]] has been suppressing research and technologies that could benefit all of [[Aethermoor]], not just the privileged classes. The party must decide whether to support efforts to liberate this knowledge and how to handle the political and social consequences of such actions.
+The community discovers that the [[02_Worldbuilding/Lore/The Crystal Council]] has been suppressing research and technologies that could benefit all of [[Aethermoor]], not just the privileged classes. The party must decide whether to support efforts to liberate this knowledge and how to handle the political and social consequences of such actions.
 
 **Key Elements:**
 - Moral questions about knowledge ownership and social justice
@@ -424,7 +424,7 @@ The community discovers that the [[Crystal Council]] has been suppressing resear
 - **[[Crystal-Free Zones]]**: Settlements that have rejected traditional crystal-based power structures
 
 ### Opposition Forces
-- **[[Crystal Council]]**: Traditional authorities viewing the city as a threat to social order
+- **[[02_Worldbuilding/Lore/The Crystal Council]]**: Traditional authorities viewing the city as a threat to social order
 - **[[Hereditary Houses]]**: Noble families concerned about loss of privilege and status
 - **[[Traditional Communities]]**: Settlements that see alternative approaches as dangerous or misguided
 - **[[Economic Interests]]**: Groups that profit from current social and economic structures

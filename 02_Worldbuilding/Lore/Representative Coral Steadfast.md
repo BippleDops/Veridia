@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - organization
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.669319+00:00'
 ---
+
 
 
 ## Overview

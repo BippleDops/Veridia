@@ -2,7 +2,6 @@
 type: Group
 tags:
 - both
-- draft
 - faction
 - law
 aliases: []
@@ -12,9 +11,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.121572+00:00'
+status: active
 ---
+
 
 
 > [!figure] Heraldry

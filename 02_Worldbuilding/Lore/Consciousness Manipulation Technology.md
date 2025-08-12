@@ -449,3 +449,19 @@ Large-scale campaign to disrupt shadow conspiracy consciousness manipulation cap
 - Create situations where heroes must choose between preserving false but happy identities and revealing traumatic truths
 - Show both beneficial applications (treating trauma, removing addiction) and horrific abuses of consciousness technology
 - Allow for redemption of consciousness-modified villains who choose to resist their programming
+
+## Player-Facing Summary
+
+Consciousness Manipulation Technology is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Consciousness Manipulation Technology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Consciousness Manipulation Technology.
+
+## Adventure Hooks
+
+- A rumor ties Consciousness Manipulation Technology to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Consciousness Manipulation Technology to avert a public scandal.
+- A map overlay reveals a hidden approach to Consciousness Manipulation Technology active only during specific tides/storms.
+
+<!-- enriched: true -->

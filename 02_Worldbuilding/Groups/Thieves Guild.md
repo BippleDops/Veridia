@@ -3,7 +3,6 @@ type: Group
 tags:
 - both
 - criminal
-- draft
 - faction
 aliases:
 - The Guild
@@ -13,9 +12,10 @@ MyContainer: None
 MyCategory: Unknown - Category/Group
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:04.899365+00:00'
+status: active
 ---
+
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-thieves-guild-thieves-guild.svg)

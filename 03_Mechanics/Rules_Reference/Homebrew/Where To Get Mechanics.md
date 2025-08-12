@@ -3,15 +3,15 @@ obsidianUIMode: preview
 type: Lore
 tags:
 - both
-- draft
 - note
 aliases: []
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.647100+00:00'
+status: active
 ---
+
 
 
 There are many ways to get the notes that you need to run your games. The most efficient way, is dependant on the game system that you play. 

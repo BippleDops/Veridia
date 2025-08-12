@@ -1,14 +1,14 @@
 ---
 tags:
 - both-aethermoor-&-aquabyssos
-- draft
 - npc
 type: NPC
 world: Both Aethermoor & Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.436089+00:00'
 ---
+
 
 
 

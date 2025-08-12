@@ -224,20 +224,20 @@ Marriage Between Worlds represents the complex and evolving cultural phenomenon 
 - [[Prince Caelum Stormwright]] - Aethermoor noble advocating for cultural integration through marriage
 - [[Marriage Counselor Tidal Harmony]] - Specialist in inter-realm relationship guidance and support
 - [[02_Worldbuilding/People/Harbor Master Luna Freedrift]] - Port official facilitating inter-realm family travel
-- [[Cultural Mediator Coral Windweaver]] - Expert in resolving cross-cultural conflicts and misunderstandings
+- [[02_Worldbuilding/Groups/Cultural Mediator Coral Windweave]] - Expert in resolving cross-cultural conflicts and misunderstandings
 - [[Legal Advisor Depth Justice]] - Attorney specializing in inter-realm marriage and family law
 - [[Religious Leader Father Ocean Breeze]] - Clergy member conducting inter-realm wedding ceremonies
 
 ## Connected Locations
 - [[Inter-Realm Marriage Registry]] - Official government office for marriage licenses and documentation
-- [[Cultural Exchange Center]] - Community facility supporting inter-realm families and cultural education
+- [[02_Worldbuilding/Groups/Cultural Exchange Cente]] - Community facility supporting inter-realm families and cultural education
 - [[02_Worldbuilding/Places/Harbor District]] - Commercial area where many inter-realm couples establish businesses
 - [[The Neutral Waters]] - Ceremonial location popular for inter-realm wedding ceremonies
 - [[Bridge-Builder Community Center]] - Support facility for children and families of mixed heritage
 - [[Embassy Quarter]] - Diplomatic district housing many inter-realm diplomatic marriages
 
 ## Connected Organizations
-- [[The Inter-Realm Marriage Guild]] - Professional support organization for cross-cultural couples
+- [[02_Worldbuilding/Groups/The Inter-Realm Marriage Guil]] - Professional support organization for cross-cultural couples
 - [[02_Worldbuilding/Groups/Merchants Guild]] - Trade organization benefiting from inter-realm marriage business connections
 - [[Cultural Integration Council]] - Government body developing policies for inter-realm social issues
 - [[Bridge-Builder Society]] - Youth organization for children of inter-realm marriages

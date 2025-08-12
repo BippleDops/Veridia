@@ -291,7 +291,7 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 
 ### Law Enforcement
 **Government Response**
-- **[[The Crystal Guard]]**: Primary law enforcement enemy
+- **[[02_Worldbuilding/Lore/Crystal Guard]]**: Primary law enforcement enemy
 - **[[Anti-Corruption Task Force]]**: Specialized unit targeting syndicate
 - **[[City Watch Investigations]]**: Local police attempts to prosecute
 - **[[The Purification Order]]**: Religious opponents of shadow corruption
@@ -300,8 +300,8 @@ Vex Shadowthorn is [[02_Worldbuilding/Places/Aethermoor]]'s most powerful and da
 ### Rival Criminal Organizations
 **Competition and Conflict**
 - **[[The Old Families]]**: Traditional crime syndicates displaced by Shadowthorn
-- **[[Crystal Pirate Crews]]**: Independent criminals competing for territory
-- **[[Foreign Crime Syndicates]]**: International organizations seeking expansion
+- **[[02_Worldbuilding/Groups/Crystal Pirate Crew]]**: Independent criminals competing for territory
+- **[[02_Worldbuilding/Groups/Foreign Crime Syndicate]]**: International organizations seeking expansion
 - **[[Rogue Magical Practitioners]]**: Individuals who refuse syndicate control
 - **[[Vigilante Organizations]]**: Citizens taking law into own hands
 
@@ -646,7 +646,7 @@ Shadow enhancement procedures are designed to create dependency, ensuring loyalt
 - [[Quest - Legitimacy Campaign]] - Influencing social acceptance of corruption
 
 ### Opposing Organizations
-- [[The Crystal Guard]] - Primary law enforcement enemy
+- [[02_Worldbuilding/Lore/Crystal Guard]] - Primary law enforcement enemy
 - [[02_Worldbuilding/Groups/Purist Coalition]] - Ideological opponents of corruption
 - [[The Old Families]] - Traditional crime displaced by syndicate
 - [[Anti-Corruption Task Force]] - Specialized law enforcement unit

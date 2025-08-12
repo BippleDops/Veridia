@@ -576,17 +576,17 @@ Working with Bloom Fields provides unique opportunities for character developmen
 
 ### Key Locations
 - **[[02_Worldbuilding/Places/Aquabyssos]]**: Primary location hosting Bloom Field ecosystems
-- **[[Deep-Sea Agricultural Research Institute]]**: Primary research facility for field science
+- **[[02_Worldbuilding/Groups/Deep-Sea Agricultural Research Institut]]**: Primary research facility for field science
 - **[[Bioluminescent Processing Centers]]**: Industrial facilities processing field products
 - **[[Field Worker Communities]]**: Residential areas for people working in field systems
 - **[[Field Conservation Areas]]**: Protected areas preserving field biodiversity
 
 ### Important Organizations
-- **[[Bloom Field Cultivation Guild]]**: Professional organization coordinating field management
+- **[[02_Worldbuilding/Groups/Bloom Field Cultivation Guil]]**: Professional organization coordinating field management
 - **[[Marine Agricultural Council]]**: Government organization overseeing field operations
 - **[[Bioluminescent Research Institute]]**: Scientific organization advancing field science
 - **[[Environmental Protection Agency]]**: Organization protecting field ecosystems from threats
-- **[[Cross-Realm Agricultural Exchange]]**: Organization facilitating cooperation with [[Aethermoor]]
+- **[[02_Worldbuilding/Groups/Cross-Realm Agricultural Exchang]]**: Organization facilitating cooperation with [[Aethermoor]]
 
 ### Key Personnel
 - **[[Master Cultivator Luminos Deepglow]]**: Director of Bioluminescent Agriculture

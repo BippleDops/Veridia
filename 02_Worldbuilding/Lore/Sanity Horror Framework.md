@@ -2,13 +2,13 @@
 tags:
 - both
 - dashboard
-- draft
 type: Lore
 world: Both
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.123338+00:00'
 ---
+
 
 
 

@@ -2,7 +2,6 @@
 tags:
 - aethermoor
 - curse
-- draft
 - moral-choice
 - psychological
 - quest
@@ -17,13 +16,14 @@ rewards: Royal Blessing, Curse Removal, Ancient Knowledge
 time_limit: Before the Queen's Mind Breaks (21 days)
 created_by: system
 created: 2025-08-08
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.370999+00:00'
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 # The Crown's Burden

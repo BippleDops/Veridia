@@ -596,3 +596,19 @@ Hero discovers evidence suggesting their own identity may have been compromised,
 - **Mid Level Campaigns**: Regional coordination and significant resource access
 - **High Level Campaigns**: Continental network engagement and strategic planning participation
 - **Epic Level Campaigns**: Inter-dimensional resistance coordination and species-level decision making
+
+## Player-Facing Summary
+
+The Light Preservation Society is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of The Light Preservation Society as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Light Preservation Society.
+
+## Adventure Hooks
+
+- A rumor ties The Light Preservation Society to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at The Light Preservation Society to avert a public scandal.
+- A map overlay reveals a hidden approach to The Light Preservation Society active only during specific tides/storms.
+
+<!-- enriched: true -->

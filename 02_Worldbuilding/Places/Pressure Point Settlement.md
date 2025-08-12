@@ -206,3 +206,17 @@ The settlement operates under a unique three-way governance structure:
 - [[Guild of Cross-Realm Navigators]]
 - [[Reality Anchor Network]]
 - [[Diplomatic Protocol Center]]
+
+## Player-Facing Summary
+
+Pressure Point Settlement is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Pressure Point Settlement as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Point Settlement.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Pressure Point Settlement]]
+
+<!-- enriched: true -->

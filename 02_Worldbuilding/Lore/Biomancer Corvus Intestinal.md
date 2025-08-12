@@ -368,7 +368,7 @@ Public policy discussions have focused on balancing innovation incentives with p
 
 [[Species Purity Advocate]] - Political activist who opposes biological modification as unnatural interference with normal biological development while organizing resistance to enhancement technology implementation.
 
-[[Regulatory Authority Director]] - Government official responsible for oversight of magical research who has attempted to impose restrictions on Corvus's experimental work while balancing safety concerns with innovation benefits.
+[[02_Worldbuilding/Groups/Regulatory Authority Directo]] - Government official responsible for oversight of magical research who has attempted to impose restrictions on Corvus's experimental work while balancing safety concerns with innovation benefits.
 
 [[Traditional Medicine Spokesman]] - Medical professional who argues that conventional healing techniques are safer and more appropriate than biological enhancement while opposing the adoption of experimental medical treatments.
 

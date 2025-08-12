@@ -84,7 +84,7 @@ During the height of classical [[Aquabyssos]] civilization, a succession of powe
 
 [[Keeper Maelstrom the Great]] (served ~1,600-1,580 years before present) achieved the most complete integration with the lighthouse's power, reportedly able to summon or dispel storms across the entire ocean basin. Under his guidance, the lighthouse's beam could be seen from distances exceeding 500 miles, and ships could navigate safely through the worst tempests by following its guidance.
 
-The Classical Keepers established the [[Order of Storm-Touched]], a group of specially trained individuals who could assist in maintaining and operating the lighthouse. These individuals underwent dangerous bonding rituals that granted them limited weather control abilities but inevitably shortened their lifespans due to the elemental energy flowing through their bodies.
+The Classical Keepers established the [[02_Worldbuilding/Groups/The Order of Storm-Touched]], a group of specially trained individuals who could assist in maintaining and operating the lighthouse. These individuals underwent dangerous bonding rituals that granted them limited weather control abilities but inevitably shortened their lifespans due to the elemental energy flowing through their bodies.
 
 **~1,400 years before present** - **The Codex of Storms**
 [[Keeper Thundercall]] compiled the Codex of Storms, a comprehensive manual detailing the lighthouse's capabilities, operating procedures, and the complex rituals required to maintain the bonding between keeper and structure. This document, written in a combination of standard script and elemental runes, became the foundation for all subsequent lighthouse operations.
@@ -115,7 +115,7 @@ During this era, the lighthouse developed its current complex relationship with 
 **~50 years before present** - **The Bathyal Succession Crisis**
 The political upheaval of [[The Bathyal Succession]] created new challenges for the lighthouse, as various factions attempted to secure its power for their own purposes. [[Keeper Deepcurrent]], loyal to the traditional monarchy, used the lighthouse's capabilities to protect loyalist shipping and disrupt revolutionary supply lines.
 
-However, the lighthouse's power proved double-edged during the succession crisis, as storms summoned to aid one side often caused collateral damage to neutral communities. The ethical implications of using weather control in political conflicts led to significant debate within the [[Order of Storm-Touched]] and contributed to growing restrictions on the lighthouse's use.
+However, the lighthouse's power proved double-edged during the succession crisis, as storms summoned to aid one side often caused collateral damage to neutral communities. The ethical implications of using weather control in political conflicts led to significant debate within the [[02_Worldbuilding/Groups/The Order of Storm-Touched]] and contributed to growing restrictions on the lighthouse's use.
 
 **~30 years before present** - **The Great Storm**
 An unprecedented tempest that lasted for three months and affected weather patterns across the entire ocean basin marked a turning point in the lighthouse's behavior. [[Keeper Deepcurrent]] claimed the storm was beyond his control, suggesting that the lighthouse had independently decided to demonstrate its full power.

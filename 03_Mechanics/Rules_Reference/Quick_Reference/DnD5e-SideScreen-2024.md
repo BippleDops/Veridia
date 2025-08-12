@@ -4,16 +4,16 @@ tags:
 - 5e
 - both
 - dm-screen
-- draft
 - note
 aliases:
 - Side Screen 2024
 created: 2025-07-23
 modified: 2025-07-23 12:39
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.646334+00:00'
+status: active
 ---
+
 
 
 # D&D 5e Side Screen (2024)
@@ -65,7 +65,7 @@ status: draft
 > [[03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Movement and Position|Movement and Position]]
 > [[03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Difficult Terrain|Difficult Terrain]]
 > [[03_Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game#Travel Pace|Travel Pace]]
-> [[03_Mechanics/CLI/tables/mounts-and-vehicles-mounts-and-other-animals-xphb|Mounts and Other Animals]]
+> [[03_Mechanics/CLI/tables/mounts-and-vehicles-mounts-and-other-animals-phb]]
 > [[03_Mechanics/CLI/tables/mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb|Mounts and Vehicles; Tack, Harness, and Drawn Vehicles]]
 > [[03_Mechanics/CLI/variant-rules/flying-xphb|Flying]]
 > [[03_Mechanics/CLI/variant-rules/swimming-xphb|Swimming]]
@@ -92,13 +92,13 @@ status: draft
 
 > [!info]- Magic Schools
 > ![[03_Mechanics/CLI/tables/school-of-magic-schools-of-magic-xphb|School of Magic; Schools of Magic]]
-> [[03_Mechanics/CLI/lists/list-spells-school-abjuration|Abjuration Spells]]
-> [[03_Mechanics/CLI/lists/list-spells-school-conjuration|Conjuration Spells]]
-> [[03_Mechanics/CLI/lists/list-spells-school-divination|Divination Spells]]
-> [[03_Mechanics/CLI/lists/list-spells-school-enchantment|Enchantment Spells]]
-> [[03_Mechanics/CLI/lists/list-spells-school-evocation|Evocation Spells]]
-> [[03_Mechanics/CLI/lists/list-spells-school-illusion|Illusion Spells]]
-> [[03_Mechanics/CLI/lists/list-spells-school-necromancy|Necromancy Spells]]
+> [[03_Mechanics/CLI/lists/list-spells-school-conjuration]]
+> [[03_Mechanics/CLI/lists/list-spells-school-enchantment]]
+> [[03_Mechanics/CLI/lists/list-spells-school-evocation]]
+> [[03_Mechanics/CLI/lists/list-spells-school-transmutation]]
+> [[03_Mechanics/CLI/lists/list-spells-school-abjuration]]
+> [[03_Mechanics/CLI/lists/list-spells-school-necromancy]]
+> [[03_Mechanics/CLI/lists/list-spells-school-divination]]
 > [[03_Mechanics/CLI/lists/list-spells-school-transmutation|Transmutation Spells]]
 
 > [!info]- Skills

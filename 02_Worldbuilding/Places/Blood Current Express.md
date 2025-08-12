@@ -1,14 +1,14 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.255833+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Location
 danger_level: Moderate
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-blood-current-express-blood-current-express.svg)
@@ -655,7 +655,7 @@ The Blood Current Express represents the most dangerous and exhilarating transpo
 
 **Related NPCs**:
 - [[Current Rider Captain Crimson Velocity]]
-- [[Navigator Iron Rapids Fleetcurrent]]
+- [[02_Worldbuilding/Places/Iron Rapids Fleetcurrent]]
 - [[Captain Scarlet Torrent]]
 - [[Transportation Guild Masters]]
 

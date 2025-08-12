@@ -15,7 +15,7 @@ region: '[[Capital District]]'
 type: Location
 population: 500
 danger_level: 1
-government: '[[Sacred Order of Luminous Dawn]]'
+government: '[[02_Worldbuilding/Groups/Sacred Order of Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 specialties:
 - Divine Magic
@@ -42,7 +42,7 @@ updated: 2025-08-12
 
 ## Overview
 
-The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Dawn]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
+The Cathedral of Light stands as the most magnificent religious structure in [[02_Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[02_Worldbuilding/Groups/Sacred Order of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
 The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness.
 

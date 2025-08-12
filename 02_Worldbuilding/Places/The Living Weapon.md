@@ -500,7 +500,7 @@ Evidence emerges that The Living Weapon may be connected to or responsible for m
 ### Associated Organizations
 - [[Depth Wardens]] - Military force responsible for national defense
 - [[Royal Intelligence Service]] - Intelligence agency monitoring security
-- [[Academy of War Sciences]] - Research institution studying military artifacts
+- [[02_Worldbuilding/Groups/Academy of War Science]] - Research institution studying military artifacts
 - [[The Order of the Shattered Crown]] - Group potentially interested in weapon's power
 
 ### Key Figures

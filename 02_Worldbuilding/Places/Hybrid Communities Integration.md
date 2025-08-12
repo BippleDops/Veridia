@@ -286,3 +286,17 @@ Unlike the formal diplomatic spaces or controlled transit areas, these organic c
 - [[Inter-Realm Marriage Registry]]
 - [[Cultural Exchange Programs]]
 - [[Cross-Realm Cooperation Authority]]
+
+## Player-Facing Summary
+
+Hybrid Communities Integration is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of Hybrid Communities Integration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hybrid Communities Integration.
+
+## Cross-References
+
+- [[02_Worldbuilding/Places/Hybrid Communities Integration]]
+
+<!-- enriched: true -->

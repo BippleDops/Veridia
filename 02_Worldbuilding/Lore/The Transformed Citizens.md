@@ -407,7 +407,7 @@ Corruption specifically targets and exploits transformation processes:
 - [[Baker's Daughter Crysa]] - Child with beneficial crystal transformation
 - [[The Lost Mother, Seaweed Sarah]] - Tragic aquatic adaptation case
 - [[Scholar Echo-Thought]] - Memory integration success story
-- [[Shadow-Touched Farmer Blight-Heart Maddox]] - Corruption-tainted transformation
+- [[02_Worldbuilding/Lore/The Shadow-Touched Farmer, Blight-Heart Maddox]] - Corruption-tainted transformation
 - [[Transformation Specialist Doctor Prism-Current]] - Medical expert treating transformed citizens
 
 ### Important Locations
@@ -427,7 +427,7 @@ Corruption specifically targets and exploits transformation processes:
 ### Essential Items
 - [[The Adaptation Guide]] - Manual for managing transformation safely
 - [[The Transformation Tracker]] - Device monitoring change progression
-- [[The Identity Anchor]] - Tool for maintaining self-awareness during changes
+- [[02_Worldbuilding/Lore/Identity Anchor]] - Tool for maintaining self-awareness during changes
 - [[The Community Bridge]] - Artifact helping unchanged and transformed coexist
 - [[The Evolution Catalyst]] - Item that can trigger or control transformation
 

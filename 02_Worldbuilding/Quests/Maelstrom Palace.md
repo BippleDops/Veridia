@@ -1,3 +1,8 @@
+---
+created: 2024-01-01
+updated: 2024-01-01
+---
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-maelstrom-palace-maelstrom-palace.svg)

@@ -1,14 +1,14 @@
 ---
 tags:
-- draft
 - dual
 - historical_legend
 type: Lore
 world: dual
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.796365+00:00'
 ---
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-depth-wardens-the-depth-wardens.svg)

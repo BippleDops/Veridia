@@ -1,13 +1,13 @@
 ---
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.365421+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Lore
 ---
+
 
 
 
@@ -220,7 +220,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 ## Supporting NPCs & Monsters
 
-### [[Void-touched Crew Members]] (6-8 remaining)
+### [[02_Worldbuilding/Groups/Void-touched Crew Member]] (6-8 remaining)
 *Medium humanoid (various), chaotic neutral*
 **AC** 14, **HP** 52 each, **Speed** 30 ft.
 **Challenge Rating:** 4 each

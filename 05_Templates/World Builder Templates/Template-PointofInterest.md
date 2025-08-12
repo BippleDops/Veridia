@@ -2,17 +2,17 @@
 tags:
 - both
 - category/pointofinterest
-- draft
 MyContainer:
 - '[[Jungle of Screams|Jungle of Screams]]'
 MyCategory: Encounter
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.339330+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 
@@ -147,7 +147,7 @@ Make notes of what you need to track in the Point of Interest here.
 
 | Destination |  Travel Days  |
 | ---|---|
-| [[Next Town A]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+| [[02_Worldbuilding/Lore/Next Town B]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 | [[Next Town B ]] | 🕓: `VIEW[round((99* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`
 
 # Scene Summary 

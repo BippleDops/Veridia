@@ -1,14 +1,14 @@
 ---
 tags:
 - aquabyssos
-- draft
 - quest
 type: Lore
 world: Aquabyssos
-status: draft
+status: active
 created: '2025-08-11T13:08:46.124391+00:00'
-updated: '2025-08-11T13:08:48.619486+00:00'
+updated: '2025-08-12T14:31:02.354897+00:00'
 ---
+
 
 
 ## Overview

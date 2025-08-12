@@ -1,14 +1,14 @@
 ---
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.280862+00:00'
 created: 2025-08-11
-status: draft
+status: active
 tags:
 - both
-- draft
 type: Lore
 ---
+
 
 
 
@@ -22,7 +22,7 @@ type: Lore
 > **[[City of Screams]]**
 > ![[AdventureIcon.png\|sban htiny ctr]]
 > 
-> **[[Example Party 1]]**
+> **[[02_Worldbuilding/Lore/Example Party ]]**
 > ![[PartyLogo.jpg\|sban htiny ctr p+t]]
 
 > [!NOTE|no-title]

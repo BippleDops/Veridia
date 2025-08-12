@@ -3,7 +3,6 @@ tags:
 - adaptation
 - aquabyssos
 - both
-- draft
 - mechanics
 - survival
 - transformation
@@ -12,10 +11,11 @@ mechanic_type: Environmental Progression
 danger_level: Escalating
 created: 2025-08-07
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:05.624706+00:00'
+status: active
 type: Lore
 ---
+
 
 
 

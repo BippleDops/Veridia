@@ -1,14 +1,14 @@
 ---
 tags:
 - both-aethermoor-&-aquabyssos
-- draft
 - quest
 type: Lore
 world: Both Aethermoor & Aquabyssos
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:03.728531+00:00'
 ---
+
 
 
 

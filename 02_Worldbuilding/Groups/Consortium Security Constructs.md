@@ -409,7 +409,7 @@ The Consortium Security Constructs represent [[02_Worldbuilding/Groups/The Silve
 - **[[Crystal Command Cores]]** - Construct control technology
 - **[[Corporate Justice Codex]]** - Legal authority documentation
 - **[[The Iron Loyalty Protocol]]** - Conditioning and surveillance manual
-- **[[Enforcement Authority Charter]]** - Corporate military power grant
+- **[[02_Worldbuilding/Groups/Enforcement Authority Charte]]** - Corporate military power grant
 - **[[Advanced Construct Schematics]]** - Next-generation security technology
 
 ---

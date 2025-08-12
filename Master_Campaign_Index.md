@@ -27,7 +27,7 @@ See also: [[03_Mechanics/Phase_Omega_Enhanced_Index|Phase Omega Enhanced Index]]
 - [[Quest Campaign Tracker]] - Comprehensive quest management
 - [[Faction_Tracker]] - Faction relationship tracking
 - [[Session Log]] - Session history and notes
-- [[NPC Directory]] - Complete NPC management
+- [[02_Worldbuilding/Lore/NPC Directory.base]] - Complete NPC management
 - [[Combat Tracker]] - Battle management
 - [[Location Tracker]] - Place tracking system
 - [[Item_Catalog]] - Equipment and treasure
@@ -208,7 +208,7 @@ LIMIT 10
 
 ### Cross-System References
 Every major system connects to:
-- [[Faction_Tracker.base]] - Live faction tracking
+- [[02_Worldbuilding/Lore/Faction_Tracker]] - Live faction tracking
 - [[Quest Campaign Tracker.base]] - Quest management
 - [[NPC Directory.base]] - Character relationships
 - [[Session Log.base]] - Historical record
@@ -256,7 +256,7 @@ FROM "02_Worldbuilding"
 1. Check [[Session Log]] for last session
 2. Update [[Faction_Tracker]] standings
 3. Review [[Quest Campaign Tracker]] status
-4. Check [[NPC Directory]] for active NPCs
+4. Check [[02_Worldbuilding/Lore/NPC Directory.base]] for active NPCs
 5. Generate encounters with [[Encounter_Builder]]
 6. Prepare scenes with [[Scene Framing Templates]]
 

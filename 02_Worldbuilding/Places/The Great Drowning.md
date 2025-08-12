@@ -265,7 +265,7 @@ The Great Drowning serves as:
 ## See Also
 - [[02_Worldbuilding/Lore/Deep Mother]]
 - [[02_Worldbuilding/Places/Thalassopolis Ruins]]
-- [[02_Worldbuilding/Groups/The Depth Guard]]
+- [[02_Worldbuilding/Lore/Depth Guard]]
 - [[02_Worldbuilding/Lore/Planar Breaches of Aquabyssos]]
 - [[03_Mechanics/Temporal_Mechanics_System]]
 

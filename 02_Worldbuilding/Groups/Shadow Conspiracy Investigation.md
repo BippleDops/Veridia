@@ -221,8 +221,8 @@ The Shadow Conspiracy Investigation (SCI) is a covert intelligence organization 
 
 ### Allied Organizations
 - **[[02_Worldbuilding/Groups/The Crown Authority]]**: Some members suspect the truth
-- **[[The Depth Guard]]**: Military unit with shared concerns
-- **[[Memory Keepers]]**: Religious order maintaining authentic memories
+- **[[02_Worldbuilding/Lore/Depth Guard]]**: Military unit with shared concerns
+- **[[02_Worldbuilding/Places/Keepers of Memory]]**: Religious order maintaining authentic memories
 - **[[Truth Seekers Guild]]**: Philosophers dedicated to reality
 - **[[The Unshadowed]]**: Support group for replacement survivors
 

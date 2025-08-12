@@ -284,7 +284,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 - Diplomatic agreements with entities from [[The Hadal Depths]]
 - Methods for severing connection to [[Aethermoor]] permanently
 - Protocols for awakening ancient [[Leviathan]] guardians
-- Doomsday device targeting the [[World Tree]] roots
+- Doomsday device targeting the [[02_Worldbuilding/Lore/The World Tree]] roots
 - Emergency alliance treaties with [[The Crystal Throne]]
 - Backup consciousness storage for critical personnel in [[Memory Farmers]] archives
 
@@ -358,7 +358,7 @@ The Azure Citadel stands as [[Aquabyssos]]'s primary military headquarters and g
 **Intelligence Hub**: Merchants provide information about activities throughout [[Aquabyssos]]
 **Economic Protection**: Military ensures safe passage for critical trade routes
 
-### [[Coral Gardens]]
+### [[02_Worldbuilding/Lore/The Coral Gardens]]
 **Recruitment**: Source of new personnel with natural aquatic abilities
 **Strategic Resources**: Coral-based construction materials and biological defenses
 **Cultural Relations**: Maintaining positive relationships with nature-aligned communities

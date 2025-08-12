@@ -578,7 +578,7 @@ Clients who trust the organization with their most serious problems deserve comp
 - [[Commander Vex Shadowthorn]]
 - [[Weapons Master Kael Bladefury]]
 - [[Field Strategist Marcus Battlewise]]
-- [[Intel Master Raven Shadowsight]]
+- [[02_Worldbuilding/Lore/Intel Master Raven Shadowsigh]]
 
 **Important Concepts**:
 - [[The Shadowthorn Combat System]]

@@ -105,7 +105,7 @@ The ancient engineers employed three distinct tunnel types:
 *Central command center where the tunnel campaigns were coordinated*
 - Contains detailed maps of the entire network
 - Magical communication devices still functional
-- Guarded by ancient [[02_Worldbuilding/Groups/Crystal Guard Elite|crystal constructs]]
+- Guarded by ancient [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
 - Repository of military intelligence from the Continental Wars
 
 ### The Bone Gardens

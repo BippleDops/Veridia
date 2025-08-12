@@ -578,7 +578,7 @@ The party must:
 - **[[02_Worldbuilding/Quests/Quest - Foreign Interests]]** - Parallel surface diplomacy
 - **[[Quest - The Deep Mother Situation]]** - Major threat requiring cooperation
 - **[[Quest - Economic Integration]]** - Trade relationship development
-- **[[Quest - Cultural Exchange]]** - Inter-realm understanding
+- **[[02_Worldbuilding/Groups/Quest - Cultural Exchang]]** - Inter-realm understanding
 
 ### Important Items
 - **[[The Draft Accords]]** - Proposed treaty documents  

@@ -1,14 +1,14 @@
 ---
 tags:
 - both
-- draft
 - lore
 type: Lore
 world: Both
-status: draft
+status: active
 created: 2025-08-11
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.570110+00:00'
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-void-touched-depths-the-void-touched-depths.svg)

@@ -2,7 +2,6 @@
 tags:
 - both
 - category/quest
-- draft
 MyContainer: []
 MyCategory: null
 obsidianUIMode: preview
@@ -16,11 +15,12 @@ questLootAvail: null
 questLookEarned: null
 NoteIcon: quest
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.334880+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 <%*

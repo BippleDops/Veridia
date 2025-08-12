@@ -295,7 +295,7 @@ Research reveals that the Trade Seal contains fragments of [[02_Worldbuilding/Lo
 **Related Locations**:
 - [[02_Worldbuilding/Places/Parliament of Echoes]]
 - [[Seal Vault Complex]]
-- [[Diplomatic Quarter]]
+- [[02_Worldbuilding/Places/The Diplomatic Quarter]]
 - [[Commercial District]]
 
 **Related NPCs**:

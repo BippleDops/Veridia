@@ -2,7 +2,6 @@
 tags:
 - both
 - catastrophe
-- draft
 - event
 - history
 - lore
@@ -12,9 +11,10 @@ importance: World-Defining
 created: 2024-12-20
 image: 04_Resources/Assets/Lore/great_crystallization.jpg
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:02.458038+00:00'
+status: active
 ---
+
 
 
 

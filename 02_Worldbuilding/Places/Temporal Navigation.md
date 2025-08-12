@@ -76,7 +76,7 @@ Small circular currents that can carry travelers backward in time for short peri
 Cracks in spacetime that provide direct access to specific historical moments. Highly unstable and often guarded by [[Temporal Sentinels]].
 
 #### Time Bubbles
-Isolated pockets where time flows at different rates. Some accelerate aging and healing, others slow it dramatically. Used by the [[Deep Sovereign]] for extended contemplation.
+Isolated pockets where time flows at different rates. Some accelerate aging and healing, others slow it dramatically. Used by the [[02_Worldbuilding/Lore/The Deep Sovereign]] for extended contemplation.
 
 ## Navigation Techniques and Technology
 
@@ -199,7 +199,7 @@ Led by the **Chronarch Supreme**, a being whose existence spans multiple timelin
 ### Guardian Facilities
 
 #### The Temporal Observatory
-A massive facility built into the [[Abyssal Trenches]] that monitors temporal activity across all of [[Aquabyssos]]. Features include:
+A massive facility built into the [[02_Worldbuilding/Lore/The Abyssal Trenches]] that monitors temporal activity across all of [[Aquabyssos]]. Features include:
 - **Chronoscope Arrays**: Devices that can observe any point in time
 - **Timeline Maps**: Physical representations of temporal flow patterns
 - **Paradox Detection Grid**: Early warning system for temporal anomalies
@@ -233,7 +233,7 @@ Areas where conflicting timelines overlap, creating dangerous logical contradict
 - Failure: Take 3d6 force damage and gain one level of madness
 - Success: Half damage, no madness
 - Paradox Sickness: DC 16 Constitution save each hour or gain exhaustion
-- Only [[Temporal Anchor]] items provide immunity
+- Only [[02_Worldbuilding/Lore/Temporal Anchor Points]] items provide immunity
 
 ### Chronological Whirlpools
 
@@ -401,13 +401,13 @@ A PC inherits a mysterious device that allows manipulation of local time, but us
 **Temporal Navigation** connects to numerous locations across time and space:
 
 - **[[The Inverse Palace]]**: Houses the most advanced temporal detection equipment
-- **[[The Crushing Depths]]**: Where the strongest temporal currents originate
-- **[[The Elder Deep]]**: Source of original temporal navigation knowledge
+- **[[02_Worldbuilding/Lore/Crushing Depths]]**: Where the strongest temporal currents originate
+- **[[02_Worldbuilding/Lore/Elder Deep]]**: Source of original temporal navigation knowledge
 - **[[Ancient Ruins]]**: Historical sites accessible through time travel
 - **[[The Pressure Conspiracy]]**: Uses temporal intelligence for political advantage
 - **[[Deep Current Networks]]**: Physical currents that parallel temporal ones
 - **[[The Abyssal Court]]**: Regulates temporal navigation through official channels
-- **[[Sunken Cities]]**: Historical destinations for temporal researchers
+- **[[02_Worldbuilding/Lore/The Sunken Cities]]**: Historical destinations for temporal researchers
 - **[[The Temporal War Battlefields]]**: Sites of ancient conflicts preserved in time
 - **[[Future Aquabyssos]]**: Potential destinations in various timeline branches
 - **[[The Paradox Gardens]]**: Where timeline anomalies are contained

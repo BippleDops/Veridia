@@ -41,7 +41,7 @@ The Amnesia Gallery stands as one of [[Aquabyssos]]'s most enigmatic and dangero
 
 Visitors come to experience memories that are not their own, to lose unwanted thoughts, or to witness the strange beauty that emerges when consciousness is given physical form. The gallery exists in a state of controlled temporal flux, where past, present, and future memories intermingle in displays that shift and evolve with each viewer's psyche.
 
-The establishment operates under the patronage of the [[Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[Aquabyssos]] for unknown ends.
+The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[Aquabyssos]] for unknown ends.
 
 ## Physical Description & Atmosphere
 
@@ -358,7 +358,7 @@ The gallery's Collective Consciousness Chamber has begun spontaneously creating 
 
 ### Direct Connections
 - **[[The Deepmind]]**: May be secretly influencing or drawing from the gallery's archives
-- **[[Memory Merchants Guild]]**: Primary patrons and oversight organization
+- **[[02_Worldbuilding/Groups/The Memory Merchants Guild]]**: Primary patrons and oversight organization
 - **[[The Phosphor Markets]]**: Memories are traded here as commodities
 - **[[Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
 

@@ -3,7 +3,6 @@ tags:
 - aethermoor
 - aquabyssos
 - both
-- draft
 - guardian
 - information-broker
 - npc
@@ -65,11 +64,12 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:05.485826+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: NPC
 ---
+
 
 
 > [!figure] Portrait

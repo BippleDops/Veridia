@@ -381,7 +381,7 @@ Shadow Ambush - Optional (SAO) is an elite military unit within the [[02_Worldbu
 - **[[Marine Corps]]**: Training partnership and personnel exchange
 - **[[Intelligence Services]]**: Information sharing and mission coordination
 - **[[Military Medical Corps]]**: Healthcare and trauma treatment support
-- **[[Strategic Command]]**: Mission planning and strategic integration
+- **[[02_Worldbuilding/Lore/The Strategic Command Center]]**: Mission planning and strategic integration
 
 ### Government Relations
 **Official Connections**

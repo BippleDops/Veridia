@@ -3,7 +3,6 @@ tags:
 - artifact
 - both
 - divine
-- draft
 - lore
 - shards
 type: Lore
@@ -11,9 +10,10 @@ importance: Campaign-Defining
 created: 2024-12-20
 image: 04_Resources/Assets/Lore/seven_shards.jpg
 world: Both
-updated: 2025-08-11
-status: draft
+updated: '2025-08-12T14:31:02.926763+00:00'
+status: active
 ---
+
 
 
 > [!figure] View
@@ -286,7 +286,7 @@ If party gathers all seven:
 - [[02_Worldbuilding/Quests/Aquabyssos]] - The ongoing search
 - [[Aurelius Goldwave]] - Using financial networks to track Shards
 - [[Vex Shadowthorn]] - Major information holder
-- [[Crystal Guard Elite]] - Security forces protecting Shards
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite]] - Security forces protecting Shards
 - [[Reality Merge Zones]] - Areas where Shard power weakens barriers
 
 ## DM Secrets
@@ -299,7 +299,7 @@ If party gathers all seven:
 - [[Aquabyssos Trade Seal]]
 - [[Crystal Festival]]
 - [[Crystal Garden]]
-- [[Crystal Guard Elite]]
+- [[02_Worldbuilding/Lore/The Crystal Guard Elite]]
 - [[Customs House]]
 - [[Merged Reality Zones]]
 - [[Possessed Noble Coterie]]

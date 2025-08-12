@@ -44,7 +44,7 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - Established by King Aurelius I to professionalize royal administration
 - Replaced feudal personal loyalty system with merit-based bureaucracy
 - Created standardized procedures for all government functions
-- Established the [[Administrative Code]] as foundation of civil service
+- Established the [[02_Worldbuilding/Lore/The Administrative Code]] as foundation of civil service
 - Built first centralized record-keeping systems
 
 ### The Crystal Integration (250 Years Ago)
@@ -60,7 +60,7 @@ The Crown Authority is the vast bureaucratic apparatus that actually governs [[0
 - First documented cases of shadow corruption affecting administrators
 - Discovered [[02_Worldbuilding/Groups/The Silverscale Consortium]] infiltration attempts
 - Implemented enhanced security and loyalty protocols
-- Created [[Internal Affairs Division]] to monitor civil servants
+- Created [[02_Worldbuilding/Lore/Internal Affairs Divisio]] to monitor civil servants
 - Established procedures for detecting supernatural influence
 
 ### Modern Efficiency (Last 50 Years)

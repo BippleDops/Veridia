@@ -4,7 +4,6 @@ aliases:
 tags:
 - both
 - category/player
-- draft
 Player: Bob
 Role: Player
 level: 11
@@ -47,11 +46,12 @@ obsidianUIMode: preview
 MyContainer: null
 MyCategory: null
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:02.341212+00:00'
 created: 2025-08-11
-status: draft
+status: active
 type: Lore
 ---
+
 
 
 

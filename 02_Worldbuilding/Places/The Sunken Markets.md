@@ -1,7 +1,6 @@
 ---
 tags:
 - both
-- draft
 - location
 - mysterious
 - port-meridian
@@ -23,10 +22,11 @@ MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: 2025-08-11
+updated: '2025-08-12T14:31:04.662162+00:00'
 created: 2025-08-11
-status: draft
+status: active
 ---
+
 
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sunken-markets-the-sunken-markets.svg)

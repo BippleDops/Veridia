@@ -115,7 +115,7 @@ Recent incidents include the complete loss of contact with three major forest pr
 
 **[[Underground Guide Marcus Molewalker]]** - A non-druid explorer familiar with cave systems who provides mundane survival expertise for underground travel.
 
-**[[Healer Marina Greenbough]]** - A cleric-druid hybrid who specializes in treating plant-based corruption and magical contamination, providing medical support for the mission.
+**[[02_Worldbuilding/Lore/Healer Marina Greenboug]]** - A cleric-druid hybrid who specializes in treating plant-based corruption and magical contamination, providing medical support for the mission.
 
 **[[The Last Acorn]]** - A mysterious entity claiming to be a fragment of the original World-Tree's consciousness, providing cryptic guidance and warnings about the network's hidden dangers.
 

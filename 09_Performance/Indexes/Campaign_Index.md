@@ -2,7 +2,6 @@
 type: Lore
 tags:
 - both
-- draft
 - index
 - navigation
 - performance
@@ -15,9 +14,10 @@ cssclasses:
 - wide-page
 - index-page
 world: Both
-updated: '2025-08-11T13:08:51.534430+00:00'
-status: draft
+updated: '2025-08-12T14:31:02.275731+00:00'
+status: active
 ---
+
 
 
 

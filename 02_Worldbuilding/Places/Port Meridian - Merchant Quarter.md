@@ -318,7 +318,7 @@ The fast-paced nature of trade creates unique risks:
 ### Service Providers
 - **[[Master Appraiser Keen-Eye Korvyn]]** - Expert in evaluating valuable goods
 - **[[Translator Polyglot Petra]]** - Speaks 15 languages fluently
-- **[[Mercenary Captain Marcus Ironwill]]** - Leader of The Iron Company
+- **[[02_Worldbuilding/People/Captain Marcus Ironwill]]** - Leader of The Iron Company
 - **[[Fence Queen Sticky-Fingers Sal]]** - Handler of stolen goods
 - **[[Tavern Keep Lucky Jack Goldpouch]]** - Owner of The Merchant's Rest
 

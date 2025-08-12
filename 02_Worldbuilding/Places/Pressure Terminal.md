@@ -186,19 +186,104 @@ The Pressure Terminal stands as the most sophisticated transportation facility i
 
 ## Daily Operations and Schedules
 
-### Peak Hours
-**Morning Rush**: 6-10 AM, departures every 5-15 minutes on popular routes  
-**Evening Rush**: 4-8 PM, similar frequency for return journeys  
-**Passenger Load**: Up to 80% capacity during peak periods  
-**Staffing**: Additional personnel deployed to handle increased volume  
-**Express Services**: Limited-stop routes during peak hours to reduce travel times
+### Peak Hours and Population Flows
+
+#### Morning Rush (0500-1000)
+**Rising Tide Traffic Surge**:
+- **0500-0600**: Early workers - dock laborers, mining crews, emergency services
+  - Population: 2,000-3,000 passengers/hour
+  - Primary destinations: Harbor District, Deep Mining Operations, Industrial Areas
+  - Platform usage: Levels 1-3 heavily utilized
+- **0600-0800**: Main commuter wave - government workers, merchants, skilled trades
+  - Population: 8,000-12,000 passengers/hour (Peak capacity)
+  - Destinations: Government District, Commercial Centers, Craft Quarters
+  - All platforms operating at maximum capacity
+- **0800-1000**: Secondary wave - service workers, educators, late commuters
+  - Population: 4,000-6,000 passengers/hour
+  - Mixed destinations with emphasis on residential-to-commercial flow
+  - Gradual decrease in platform utilization
+
+**Morning Rush Characteristics**:
+- **Flow Direction**: 85% outbound from residential to work areas
+- **Passenger Types**: 60% working class, 25% middle class, 15% service/support
+- **Route Priorities**: Local routes (Level 1) handle 70% of morning traffic
+- **Express Services**: Limited-stop routes every 10 minutes to major destinations
+- **Staff Deployment**: 300% normal staffing to manage crowd flow and safety
+
+#### Midday Operations (1000-1600)
+**High Tide Steady Flow**:
+- **1000-1200**: Business travelers, inter-district commerce, administrative travel
+  - Population: 2,000-3,000 passengers/hour
+  - Destinations: Mixed, with emphasis on government and commercial districts
+  - Regional routes (Level 2) see increased usage
+- **1200-1400**: Lunch period traffic, family visits, shopping expeditions
+  - Population: 3,000-4,000 passengers/hour
+  - Bi-directional flow as people move for midday activities
+  - Tourist and leisure travel increases
+- **1400-1600**: Afternoon business, early departures, preparation for evening rush
+  - Population: 2,500-3,500 passengers/hour
+  - Gradual shift toward return-journey preparation
+  - Maintenance activities during lower traffic periods
+
+**Midday Characteristics**:
+- **Flow Direction**: 40% outbound, 35% inbound, 25% lateral (district-to-district)
+- **Passenger Types**: 35% business, 25% leisure, 20% service, 20% mixed
+- **Route Distribution**: More balanced usage across all platform levels
+- **Service Frequency**: Regular schedules with 15-30 minute intervals
+- **Staff Deployment**: Normal staffing with flexibility for maintenance
+
+#### Evening Rush (1600-2000)
+**Falling Tide Return Surge**:
+- **1600-1800**: Main return wave - government workers, office professionals
+  - Population: 10,000-14,000 passengers/hour (Peak return capacity)
+  - Destinations: Primarily residential districts and suburban areas
+  - Heavy usage of outbound platforms toward living areas
+- **1800-1900**: Secondary return - skilled workers, service industry, retail
+  - Population: 6,000-8,000 passengers/hour
+  - Mixed destinations with family-oriented travel
+  - Shopping district activity increases
+- **1900-2000**: Late departures, evening social activities, entertainment travel
+  - Population: 3,000-4,000 passengers/hour
+  - Destinations include entertainment districts and social venues
+  - Beginning of evening leisure travel patterns
+
+**Evening Rush Characteristics**:
+- **Flow Direction**: 80% inbound to residential, 15% lateral, 5% continuing outbound
+- **Passenger Types**: 70% returning workers, 20% family/social, 10% entertainment
+- **Family Traffic**: Increased multi-generational and child passenger groups
+- **Express Services**: High-capacity return routes every 8-12 minutes
+- **Staff Deployment**: 250% normal staffing focused on crowd management
 
 ### Off-Peak Operations
-**Midday**: 10 AM-4 PM, regular schedule with moderate passenger loads  
-**Evening**: 8 PM-12 AM, reduced frequency but still regular service  
-**Late Night**: 12-6 AM, limited service on major routes only  
-**Maintenance Window**: 2-5 AM, system maintenance and repairs performed  
-**Emergency Service**: Always available regardless of scheduled operations
+
+#### Late Evening (2000-2400)
+**Low Tide Social Period**:
+- **2000-2200**: Social and entertainment travel peak
+  - Population: 1,500-2,500 passengers/hour
+  - Destinations: Entertainment districts, social venues, cultural events
+  - Younger demographic and leisure-focused travel
+- **2200-2400**: Late social return, shift worker changes, emergency travel
+  - Population: 800-1,200 passengers/hour
+  - Mixed destinations with emphasis on safe late-night transport
+  - Increased security presence for passenger safety
+
+#### Night Operations (2400-0500)
+**Deep Night Essential Services**:
+- **2400-0200**: Shift worker transportation, emergency services, essential travel
+  - Population: 200-500 passengers/hour
+  - Destinations: Industrial facilities, medical centers, security posts
+  - Limited routes to essential destinations only
+- **0200-0500**: Maintenance window with emergency services only
+  - Population: 50-100 passengers/hour
+  - System maintenance performed during minimal traffic
+  - Emergency and medical transportation always available
+  - Major cleaning and equipment servicing
+
+**Night Characteristics**:
+- **Service Levels**: Essential routes only, reduced frequency
+- **Passenger Types**: Shift workers, emergency responders, medical transport
+- **Safety Focus**: Enhanced security and medical support available
+- **Maintenance Priority**: System upkeep and equipment renewal
 
 ### Specialized Services
 

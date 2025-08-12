@@ -71,6 +71,20 @@ type: Location
 
 Abyssos Prime, once the glorious capital of Thalassopolis, now exists as a haunted metropolis of coral-covered spires and bioluminescent decay. The city exists in multiple phases of reality simultaneously—visitors might walk through a grand ballroom only to find themselves in its ruined future or glorious past.
 
+### Sensory Immersion: First Approach
+
+**Visual Impact**: The city materializes through crushing darkness as descending visitors' eyes adjust to an alien spectrum of light. Bioluminescent coral veins pulse through ancient marble like infected bloodstreams, their sickly green-blue radiance creating shifting shadow-patterns that move independently of their sources. Buildings exist in temporal layers—pristine white stone architecture phases in and out of view alongside the same structures as barnacle-encrusted ruins, creating a disorienting double-vision effect where past and present occupy the same visual space.
+
+**Auditory Landscape**: The omnipresent sound of water—not the gentle lapping of surface waves, but the deep, omnidirectional susurrus of total submersion. Every structure groans continuously under pressure, creating a symphony of stressed metal, expanding coral, and settling stone. Distant screams echo from the Screaming Gardens, transformed by water into haunting melodies that seem to come from everywhere and nowhere. Conversations float strangely—words arriving before the speaker's mouth moves due to temporal echoes, creating layers of past, present, and future dialogue overlapping in confusion.
+
+**Olfactory Complexity**: The water itself carries dense layers of scent—ancient brine mixed with the organic sweetness of massive coral growths, metallic undertones from countless coins and dissolved metals, and the distinctive ozone-sharp smell of active magic. Memory-moss releases spores that carry phantom scents from the city's surface past: baking bread, flowering gardens, and morning air that no longer exist. Shadow-touched areas smell of cold stone and something indescribably empty—the absence of warmth rather than mere coolness.
+
+**Tactile Environment**: Pressure is the overwhelming constant—not just physical crushing force, but the psychological weight of water above and time around. Every breath requires conscious effort as modified lungs or magical apparatus work against the dense medium. Temperature varies in strange patterns: memory-warm spots where fragments of surface sunlight still linger in temporal pockets, ice-cold shadow zones where independent shadows have drained warmth from the water, and fever-hot areas around active magical phenomena. Current flows create invisible rivers through the streets, requiring constant balance corrections.
+
+**Taste & Air Quality**: The water-air carries metallic tang from dissolved coins and ancient bloodshed, salt so concentrated it coats the throat and leaves crystalline residue on surfaces, and the bitter aftertaste of temporal magic that makes food memories more vivid than present consumption. Breathing the modified atmosphere leaves a pearl-dust sensation in the lungs—not unpleasant, but distinctly alien and reminder of the body's transformation.
+
+**Proprioceptive Disorientation**: Gravity feels negotiable here—not absent, but unreliable. In temporal overlay zones, visitors might feel their past or future selves walking different paths, creating phantom limb sensations of movements not being made. The constant pressure creates a sense of being held, supported, and trapped simultaneously. Navigation becomes intuitive rather than rational as familiar concepts of "up" and "down" become contextual suggestions rather than absolute directions.
+
 ### Key Statistics
 - **Depth Range:** 1,000-3,000 feet below surface
 - **Population:** ~2 million transformed souls
@@ -84,43 +98,77 @@ Abyssos Prime, once the glorious capital of Thalassopolis, now exists as a haunt
 **[[02_Worldbuilding/Places/The Inverse Palace|Full Details]]**
 The seat of the Scattered Emperor, where gravity works backward and water flows upward. The palace exists in a constant state of drowning, frozen at the moment of catastrophe.
 
+**Sensory Signature - The Inverse Palace:**
+*Visual*: Chandeliers hanging upward like crystal stalactites, their light falling toward the ceiling in defiance of physics. Courtiers dance on ornate ceiling frescoes while their reflections move across the floor-mirrors below. Air bubbles stream downward in silver columns, carrying whispered conversations from chambers above.
+
+*Audio*: The constant sound of water rushing upward through hidden channels creates an unsettling reverse-waterfall ambiance. Footsteps echo from above and below simultaneously as past and present courtly functions overlay each other temporally. The Emperor's fractured voice arrives from multiple directions, each chamber's personality speaking with different timbres.
+
+*Tactile*: Gravity shifts subtly between chambers—feet may stick to walls in the Adhesion Salon, while the Weightless Gallery leaves visitors floating helplessly. Carpets flow like liquid underfoot, their fibers moving in slow currents. Door handles feel like they're opening themselves, responding to intentions rather than physical pressure.
+
 **Key Features:**
-- Throne of Bubbles - Emperor's court
-- Gallery of Frozen Waves - Time-locked tsunamis
-- Inverted Ballroom - Ceiling dancers
-- Seven Scattered Chambers - Emperor's split personality rooms
+- Throne of Bubbles - Emperor's court (smells of ancient power and trapped sighs)
+- Gallery of Frozen Waves - Time-locked tsunamis (temperature drops to near freezing, sound muffled by temporal ice)
+- Inverted Ballroom - Ceiling dancers (music plays upward, conversations fall like rain)
+- Seven Scattered Chambers - Emperor's split personality rooms (each has distinct emotional temperature and color-scent)
 
 ### Parliament of Echoes
 **[[02_Worldbuilding/Places/Parliament of Echoes|Full Details]]**
 Where ghost senators debate laws that apply to no one, divided into factions that no longer remember their original purposes.
 
+**Sensory Signature - Parliament of Echoes:**
+*Visual*: The great chamber fills with translucent figures phasing in and out of visibility—some appear as dignified statesmen, others as waterlogged corpses, many as shifting combinations of both. Shadow-replaced senators cast multiple silhouettes that move independently. Ancient voting crystals pulse with each tally, their light revealing which senators are truly present versus which are memory-echoes.
+
+*Audio*: Cacophonous layers of debate from multiple time periods create an overwhelming wall of political rhetoric. Past speeches overlay present arguments, while future fears interrupt current discussions. The Speaker's gavel produces sounds ranging from sharp wood-strikes to the dull thud of bone on coral, depending on which timeline dominates.
+
+*Tactile*: The air itself feels thick with unresolved tension and ancient anger. Voting crystals warm to fever-heat in hands of original senators, remain cold as ice for shadow replacements. Gallery seats shift between plush velvet and rough barnacle-crusted stone based on the observer's political alignment.
+
+*Olfactory*: Each faction carries distinctive scent-signatures: The Drowned smell of deep-sea brine and finality, The Transformed of growing coral and adaptation, The Returners of phantom sunshine and dry land, The Deepeners of crushing pressure and dominance, The Forgotten of empty air and confusion.
+
 **Factions:**
-- The Drowned (death purists)
-- The Transformed (evolution advocates)
-- The Returners (surface reclaimers)
-- The Deepeners (depth supremacists)
-- The Forgotten (amnesiacs)
+- The Drowned (death purists) - scent of ocean depths and peaceful endings
+- The Transformed (evolution advocates) - smell of coral growth and biological change
+- The Returners (surface reclaimers) - phantom scents of dry land and sunlight
+- The Deepeners (depth supremacists) - oppressive pressure-scent of absolute authority
+- The Forgotten (amnesiacs) - empty, neutral air that makes memory difficult
 
 ### The Screaming Gardens
 **[[02_Worldbuilding/Places/Screaming Gardens|Full Details]]**
 Crystallized forests grown from the screams of drowning children. When the current flows through them, they play haunting melodies that warn of danger.
 
+**Sensory Signature - The Screaming Gardens:**
+*Visual*: Crystal formations shaped like frozen expressions of terror and despair rise like translucent trees, their faceted surfaces refracting light into spectrum-scattered emotions. Memory-moss coats everything in soft, glowing patches that pulse with stored experiences. The Reflection Pools mirror not current reality but potential selves—showing visitors who they might become.
+
+*Audio*: The dominant experience—crystallized screams that resonate with current flows, creating an ethereal symphony of trauma transformed into beauty. Individual voices can be distinguished within the harmonic chorus: children's cries, adult despair, ancient songs of drowning. The Conductor's Podium orchestrates these sounds, making them warn of approaching dangers or celebrate distant hopes.
+
+*Tactile*: Crystal screams are surprisingly warm to touch, as if the terror within generates its own heat. Memory-moss feels like velvet but leaves traces of other people's experiences on the skin. Current flows create gentle pressure against the body, like invisible hands guiding movement through the garden paths.
+
+*Memory Sensations*: Touching memory-moss or crystal formations triggers overwhelming sensory flashbacks—not visual memories, but full-body experiences of drowning, transformation, joy, and loss that belonged to others. These memory-touches can cause temporary identity confusion as foreign experiences overlay personal ones.
+
 **Notable Areas:**
-- Songwood Grove - Crystallized screams
-- Memory Meadows - Kelp storing memories
-- Reflection Pools - Identity trading center
-- The Conductor's Podium - Controls the screams
+- Songwood Grove - Crystallized screams (warm crystals that sing with currents)
+- Memory Meadows - Kelp storing memories (soft, glowing moss that shares experiences)
+- Reflection Pools - Identity trading center (mirrors showing potential selves)
+- The Conductor's Podium - Controls the screams (command center with symphony-conducting crystals)
 
 ### The Depth Market
 **[[The Depth Market|Full Details]]**
 Black market for memories, shadows, and souls. Everything has a price, but the currency might be years of your life or your happiest memory.
 
+**Sensory Signature - The Depth Market:**
+*Visual*: Bioluminescent price tags float beside ethereal goods—bottled memories glow with emotional colors, shadows writhe in glass containers like living smoke, and soul-fragments sparkle like captured starlight. Merchants phase between human and adapted forms, their appearance shifting based on what they're selling. Market stalls exist in multiple time periods simultaneously, showing past prosperity and future decay.
+
+*Audio*: Whispered negotiations in languages both familiar and alien, the soft chiming of memory-crystals, and the unsettling sound of shadows rustling like silk despite being formless. Auctioneer calls echo strangely—bids for intangible goods announced in currencies of experience rather than coin.
+
+*Tactile*: The atmosphere feels thick with possibility and desperation. Touching shadow-containers causes temporary numbing of emotions, while memory-pearls warm and pulse with the experiences they contain. Soul-fragments create tingling sensations, like touching diluted lightning.
+
+*Emotional Atmosphere*: Overwhelming mixture of hope and despair—customers desperately seeking what they've lost while merchants feast on that desperation. The air itself seems to absorb strong emotions, making sensitive individuals feel drained while feeding the ambient magical energy.
+
 **Market Sections:**
-- Shadow Exchange - Trade shadows
-- Memory Merchants - Buy/sell memories
-- Soul Brokers - Identity trafficking
-- Depth Dealers - Adaptation drugs
-- Pressure Pearls - Standard currency exchange
+- Shadow Exchange - Trade shadows (dark, cool air that muffles sound and emotion)
+- Memory Merchants - Buy/sell memories (warm, nostalgic atmosphere with phantom scents)
+- Soul Brokers - Identity trafficking (electric air that makes skin tingle and thoughts scatter)
+- Depth Dealers - Adaptation drugs (metallic taste in air, pressure-scent of deep ocean)
+- Pressure Pearls - Standard currency exchange (crushing weight sensation, sound of deep water)
 
 ## Environmental Hazards
 

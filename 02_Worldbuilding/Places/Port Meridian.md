@@ -51,6 +51,212 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - **Emergency Hospice** - Run by [[Brother Marcus Steelbane]]
 - **Abandoned Buildings** - Now inhabited by corrupted creatures
 
+## Environmental Storytelling
+
+### Sensory Map of Port Meridian
+
+#### The Grand Harbor
+**Dawn (5-8 AM):**
+- **Smell:** Salt spray mixed with crystal ozone and cooking fish from harbor stalls
+- **Sound:** Creaking rigging, distant gulls crying, harbor bells marking the tide
+- **Light:** Golden sunrise reflecting off crystal-tipped masts, harsh shadows between buildings
+- **Temperature:** Cool morning breeze carrying mist from the open sea
+
+**Midday (12-3 PM):**
+- **Smell:** Hot tar from ships, sweat and exotic spices from foreign quarter markets
+- **Sound:** Hammering from shipyards, crowds haggling, crystal resonance from loading cranes
+- **Light:** Brilliant sun glare off water, harsh shadows providing precious cool spots
+- **Temperature:** Oppressive heat radiating from stone quays and metal fixtures
+
+**Evening (6-9 PM):**
+- **Smell:** Cooking fires, ale houses, and the metallic scent of cooling crystals
+- **Sound:** Tavern songs, arguments in foreign tongues, night watch bells
+- **Light:** Warm lantern glow competing with crystal luminescence, deep blue twilight
+- **Temperature:** Pleasant cooling with occasional warm drafts from tavern doors
+
+#### Merchant's Rise
+**Wear Patterns:**
+- Marble steps to the Gold Exchange show deep grooves worn by merchant boots
+- Bronze door handles polished smooth by countless anxious hands
+- Wooden benches outside auction house carved with initials and merchant marks
+- Stone paths worn into channels by the wheels of heavy coin carts
+
+**Hidden Architecture:**
+- Secret passages behind merchant offices connect to smuggling tunnels
+- False walls in the Council Chambers hide emergency escape routes
+- Hollow columns in the Gold Exchange contain hidden safes and message tubes
+- Servant stairs behind tapestries allow discrete movement between floors
+
+#### The Old City
+**Historical Layers:**
+- Ancient stone foundations visible beneath newer construction
+- Worn inscription plaques in three different historical languages
+- Architectural patchwork shows centuries of repairs after various crises
+- Ghost outlines on walls where old buildings once stood
+
+**Sacred Atmosphere:**
+- Temple bells ring at tide changes, their bronze voices carrying across districts
+- Incense smoke from shrine alcoves creates aromatic pockets throughout streets
+- Holy symbols carved into doorframes show layers of different faiths over time
+- Library courtyard fountains provide constant gentle water sounds for contemplation
+
+#### The Dockyards
+**Industrial Scars:**
+- Burn marks on warehouse walls from crystal explosions and accidents
+- Oil stains forming rainbow patterns on pier stones
+- Bent metal fixtures from rushed loading of heavy cargo
+- Rope-worn grooves in dock posts and loading crane beams
+
+**Social Indicators:**
+- Workers' shanties built from salvaged ship parts and driftwood
+- Crude graffiti in sailor slang warning of dangerous captains
+- Worn pathways between taverns showing preferred drinking circuits
+- Hidden alcoves used for illegal gambling and black market trades
+
+#### The Plague Quarter
+**Decay Patterns:**
+- Crystal corruption spreading in veined patterns across building facades
+- Boarded windows with scratch marks from infected trying to escape
+- Abandoned belongings scattered in doorways, telling stories of hasty evacuations
+- Medicinal herb gardens gone wild, now growing between cobblestones
+
+**Environmental Hazards:**
+- Crystalline growths emit low harmonic hums that cause unease
+- Infected areas show temperature variations - some spots unnaturally cold
+- Toxic crystal dust accumulates in corners and requires masks to traverse safely
+- Unstable building supports where crystal growth has weakened structures
+
+### Seasonal Variations
+
+#### Storm Season (Winter)
+- **Harbor:** Massive waves crash over seawalls, spray freezes on rigging
+- **Merchant's Rise:** Wealthy districts use magical heating, creating visible warm air currents
+- **Old City:** Temple bells ring storm warnings, library windows show cozy reading nooks
+- **Dockyards:** Workers huddle around barrel fires, ships strain against moorings
+- **Plague Quarter:** Crystal corruption spreads faster in cold, victims seek warm infected buildings
+
+#### Trade Winds Season (Spring)
+- **Harbor:** Perfect sailing weather brings increased traffic and festival atmosphere
+- **Merchant's Rise:** Auction house crowds spill into streets, prices rise with activity
+- **Old City:** Pilgrims arrive for seasonal festivals, library scholars emerge from winter study
+- **Dockyards:** Frantic shipbuilding activity as captains prepare for profitable voyages
+- **Plague Quarter:** Crystal growth slows, giving false hope of containment
+
+#### High Sun Season (Summer)
+- **Harbor:** Heat creates dangerous conditions for crystal handling, early morning work preferred
+- **Merchant's Rise:** Wealthy retreat to cooler indoor spaces, servants work extended hours
+- **Old City:** Stone buildings provide blessed cool retreats, temples offer water to travelers
+- **Dockyards:** Tar melts in heat, metal fixtures burn to touch, workers labor in shifts
+- **Plague Quarter:** Abandoned buildings become ovens, crystal formations create dangerous heat pockets
+
+#### Harvest Tide Season (Autumn)
+- **Harbor:** Final major shipping before storm season, desperate activity
+- **Merchant's Rise:** Year-end accounting creates tense atmosphere in financial districts
+- **Old City:** Scholars prepare for winter study seasons, libraries stock up on supplies
+- **Dockyards:** Ships undergo major repairs and preparations for storms
+- **Plague Quarter:** Crystal corruption appears to go dormant, but is actually spreading underground
+
+### Time-of-Day Atmospheric Changes
+
+#### Pre-Dawn (3-5 AM)
+- **Traffic:** Only night watchmen, early fishermen, and smugglers active
+- **Lighting:** Crystal-powered streetlamps dim to save power, creating shadowy pockets
+- **Sounds:** Minimal - mostly distant ocean, occasional footsteps echoing off stone
+- **Temperature:** Coolest part of day, mist often rolls in from sea
+- **Activity:** Secret meetings in taverns, black market deals, guard changes
+
+#### Morning Rush (8-10 AM)
+- **Traffic:** Heavy foot traffic as workers head to docks, merchants open shops
+- **Lighting:** Natural light combines with crystal enhancement, creates energizing atmosphere
+- **Sounds:** City coming alive - shop shutters opening, cart wheels on cobblestones, work songs
+- **Temperature:** Pleasant warming, ideal working conditions
+- **Activity:** Markets setting up, ships departing on morning tide, breakfast vendors busy
+
+#### Midday Heat (12-2 PM)
+- **Traffic:** Moderate as people seek shade, wealthy retreat indoors
+- **Lighting:** Harsh overhead sun creates sharp contrasts between blazing heat and cool shadows
+- **Sounds:** Work continues but with frequent water breaks, midday bells
+- **Temperature:** Hottest part of day, stone radiates heat, metal burns to touch
+- **Activity:** Siesta atmosphere in wealthy districts, continued labor in working areas
+
+#### Evening Commerce (5-7 PM)
+- **Traffic:** Second rush as evening trade begins, workers head to taverns
+- **Lighting:** Golden hour creates beautiful but brief lighting, lanterns being lit
+- **Sounds:** Tavern doors opening, evening meal preparation, children called inside
+- **Temperature:** Pleasant cooling, evening breezes from sea
+- **Activity:** Day's business concluding, social hour beginning, restaurants preparing
+
+#### Night Life (9 PM-Midnight)
+- **Traffic:** Varies by district - quiet in wealthy areas, active in tavern districts
+- **Lighting:** Lanterns and crystal illumination creates pools of light and shadow
+- **Sounds:** Tavern music, night workers, occasional fights, watch patrols
+- **Temperature:** Cool but comfortable, occasional warm drafts from building interiors
+- **Activity:** Entertainment, gambling, information trading, romantic meetings
+
+#### Deep Night (Midnight-3 AM)
+- **Traffic:** Minimal legitimate activity, prime time for criminal enterprises
+- **Lighting:** Most lights dimmed, creating maze of shadows and danger
+- **Sounds:** Greatly reduced - mostly distant ocean, patrol boots, occasional screams
+- **Temperature:** Coldest time, damp mist common
+- **Activity:** Smuggling, theft, assassination, secret society meetings
+
+### Wildlife and Pest Presence
+
+#### Harbor Wildlife
+- **Seagulls:** Aggressive scavengers, steal food, indicate weather changes by behavior
+- **Harbor Seals:** Gather on piers, fishermen consider them good luck
+- **Crystal Crabs:** Small crustaceans attracted to crystal energy, sometimes cause equipment failures
+- **Ghost Fish:** Translucent fish visible at night, sailors believe they predict death
+
+#### Urban Pests
+- **Dock Rats:** Unusually large and intelligent, some infected with crystal corruption
+- **Market Cats:** Semi-feral but tolerated for pest control, some have crystal-colored eyes
+- **Sewer Eels:** In storm drains and foundations, occasionally surface during heavy rains
+- **Crystal Moths:** Attracted to crystal lights, their presence indicates crystal quality
+
+#### Plague Quarter Mutations
+- **Infected Pigeons:** Show crystal growths, still fly but spread corruption
+- **Crystalline Spiders:** Create webs that shimmer with harmful energy
+- **Corrupted Strays:** Dogs and cats showing crystal mutations, dangerous to approach
+- **Plague Rats:** Carriers of crystal corruption, avoid all contact
+
+### Weather Impact Descriptions
+
+#### Fair Weather
+- Harbor activity at maximum, perfect loading and sailing conditions
+- Crystal handling safer due to stable atmospheric conditions
+- Tourism and diplomatic activity increases
+- Market prices stable, trade negotiations favorable
+- Plague containment more effective as people spend time outdoors
+
+#### Light Rain
+- Cobblestones become treacherous, workers move more carefully
+- Crystal shipments covered with protective tarps
+- Indoor venues see increased business
+- Romantic atmosphere as couples seek shelter together
+- Plague quarter drainage improves, washing away some infected debris
+
+#### Heavy Storm
+- Harbor closed to all but emergency traffic
+- Crystal storage moved to interior warehouses for safety
+- Flooding in low-lying areas forces evacuations
+- Emergency shelters opened in temples and guild halls
+- Plague quarter partially washes clean but corruption spreads to new areas via runoff
+
+#### Heat Wave
+- Crystal handling restricted to early morning and evening
+- Work shifts shortened to prevent exhaustion and accidents
+- Wealthy districts show stark contrast to suffering working areas
+- Food spoilage increases, leading to higher prices and shortages
+- Plague quarter becomes nearly uninhabitable as crystal formations superheate
+
+#### Winter Storms
+- Ice formations on rigging create beautiful but dangerous conditions
+- Crystal trade slows as shipments become more hazardous
+- Heating costs strain city budgets and personal finances
+- Social stratification becomes more visible as only wealthy can afford warmth
+- Plague victims seek warmth in infected buildings, accelerating spread
+
 ## Notable NPCs
 
 ### The Merchant Princes

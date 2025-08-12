@@ -170,7 +170,7 @@ Black market for memories, shadows, and souls. Everything has a price, but the c
 - Depth Dealers - Adaptation drugs (metallic taste in air, pressure-scent of deep ocean)
 - Pressure Pearls - Standard currency exchange (crushing weight sensation, sound of deep water)
 
-## Environmental Hazards
+## Environmental Hazards & Sensory Effects
 
 ### Pressure Effects
 At 1,000-3,000 feet, unprotected visitors face:
@@ -179,17 +179,34 @@ At 1,000-3,000 feet, unprotected visitors face:
 - Exhaustion accumulation
 - Adaptation acceleration
 
+**Sensory Experience of Pressure:**
+*Physical*: Crushing sensation starts subtle—like wearing tight clothing—then intensifies to feeling trapped in a closing fist. Ears pop constantly, sinuses ache, and breathing requires conscious effort as each inhalation fights against the dense medium.
+*Psychological*: Mental pressure accompanies physical—thoughts feel compressed, decision-making becomes difficult, and panic responses intensify. Time perception warps as seconds stretch under the weight.
+*Adaptation Markers*: Gills developing create itching sensations along the neck, lung modifications cause chest tightness and strange tingling, bone density changes create deep aches and unusual buoyancy sensations.
+
 ### Temporal Anomalies
 - **Frozen Moments:** Pockets of stopped time
 - **Future Bleeds:** Glimpses of tomorrow
 - **Past Echoes:** Reliving historical events
 - **Timeline Overlap:** Multiple realities coexisting
 
+**Sensory Experience of Time Distortion:**
+*Frozen Moments*: Sudden absolute silence as sound waves stop mid-transmission, temperature becomes perfectly neutral, and all sensation except thought ceases. Breaking free feels like tearing through invisible molasses.
+*Future Bleeds*: Phantom sensations of events not yet occurred—tasting food not yet eaten, feeling touches not yet given, hearing conversations not yet spoken. Creates nauseating déjà vu and temporal vertigo.
+*Past Echoes*: Full sensory replay of historical events—drowning victims' final moments, coronation celebrations, declaration speeches. Observers experience these as participants, not viewers, creating traumatic memory overlap.
+*Timeline Overlap*: Multiple sensory inputs simultaneously—breathing air and water, feeling sun and pressure, hearing ancient music and modern conversation. Creates disorienting sensory confusion and identity uncertainty.
+
 ### Shadow Phenomena
 - **Shadow Density:** High - shadows act semi-independently
 - **Shadow Markets:** Active at night cycles
 - **Shadow Replacement Risk:** 15% per week
 - **Shadow Speech:** Shadows communicate separately
+
+**Sensory Experience of Shadow Independence:**
+*Visual*: Shadows move differently than their casters, reach toward objects of interest, or recoil from threats before the person notices them. Some shadows appear to have different shapes than their originals.
+*Tactile*: Cold spots that move independently of light sources, feeling of invisible hands touching or tugging, sensation of something walking beside you when alone.
+*Audio*: Whispered conversations in languages you almost understand, shadows making rustling sounds despite being formless, echoed footsteps that don't match your stride pattern.
+*Emotional*: Feeling watched by your own shadow, paranoia about being replaced, sensing hostility or affection from shadow-presences, identity confusion as shadow-thoughts intrude on personal ones.
 
 ## Government & Politics
 
@@ -207,6 +224,63 @@ Undead parliament that continues debating despite having no living constituents.
 - **[[Depth Supremacy Movement]]** gaining power
 - **[[Memory Rights Debate]]** ongoing
 - **[[The Harvest]]** preparation underway
+
+## Extended Environmental Storytelling
+
+### Underwater Seasonal Patterns
+
+#### Deep Current Season (Winter Equivalent)
+- **Temperature:** Colder currents from ocean depths bring relief but also dangerous deep-sea predators
+- **Pressure Variation:** More stable pressure creates better conditions for construction and healing
+- **Political Climate:** Parliamentary sessions run longer as senators become more contemplative
+- **Social Behavior:** Citizens gather in thermal vents, creating informal community centers
+- **Shadow Activity:** Shadows become more sluggish, replacement risk decreases to 8% per week
+- **Memory Tides:** Occur more frequently but with gentler effects
+
+#### Thermal Bloom Season (Spring Equivalent)
+- **Temperature:** Underwater volcanic activity increases, creating warm pockets throughout city
+- **Pressure Variation:** Thermal expansion causes building stress, maintenance crews work overtime
+- **Political Climate:** Renewed energy leads to heated debates and faction conflicts
+- **Social Behavior:** Romance and new partnerships increase, adaptation ceremonies common
+- **Shadow Activity:** Shadows become more active, replacement risk increases to 20% per week
+- **Memory Tides:** Powerful tides carry collective memories of the surface world's spring
+
+#### Abyssal Summer (High Activity Period)
+- **Temperature:** Stable thermal layers create optimal living conditions for adapted residents
+- **Pressure Variation:** Minimal fluctuation allows for large construction projects
+- **Political Climate:** Peak legislative activity, major votes and policy changes
+- **Social Behavior:** Festivals, public gatherings, maximum social interaction
+- **Shadow Activity:** Shadows reach peak independence, replacement risk at 25% per week
+- **Memory Tides:** Intense memory storms can last for weeks, reshaping personalities
+
+#### Crushing Depths (Autumn Equivalent)
+- **Temperature:** Cold deep currents return, thermal vents become overcrowded refuges
+- **Pressure Variation:** Increasing instability forces evacuation of unsafe structures
+- **Political Climate:** Preparation for Deep Current Season, resource allocation debates
+- **Social Behavior:** Hoarding behavior, stockpiling, relationship stress increases
+- **Shadow Activity:** Shadows become territorial and aggressive, replacement risk 18% per week
+- **Memory Tides:** Brief but violent memory storms strip away recent experiences
+
+### Architectural Wear Patterns and Hidden Spaces
+
+#### Government District Wear Signatures
+- **Parliamentary Steps:** Worn smooth by centuries of fin-steps, webbed feet, and tentacle-dragging
+- **Voting Chamber Doors:** Handle impressions shaped by hands that have transformed over generations
+- **Marble Surfaces:** Polished by the constant brushing of adapted citizens' modified limbs
+- **Water Channels:** Carved deeper by the repeated passage of current-swimming messengers
+
+#### Secret Infrastructure Networks
+**The Forgotten Tunnels:**
+- **Origin:** Pre-drowning servant passages, now partially flooded and pressure-sealed
+- **Current Use:** Shadow-replacement operatives, memory smugglers, political dissidents
+- **Identification:** Subtle pressure variations, worn grooves invisible to casual observers
+- **Dangers:** Temporal anomalies in oldest sections, unstable pressure seals
+
+**Emergency Adaptation Centers:**
+- **Hidden Locations:** Behind decorative coral walls, beneath thermal vent systems
+- **Purpose:** Rapid adaptation for surface refugees, medical emergencies, political sanctuary
+- **Access Markers:** Pressure gauge symbols carved into structural coral, bioluminescent guide marks
+- **Condition Indicators:** Well-maintained government facilities vs. makeshift citizen shelters
 
 ## Economics
 
@@ -236,6 +310,32 @@ Undead parliament that continues debating despite having no living constituents.
 - **Recreation:** Memory viewing, shadow plays, depth diving
 - **Education:** Forgetting schools, adaptation academies
 - **Religion:** Worship of the Drowned God, Deep Current cults
+
+## Tidal & Temporal Sensory Cycles
+
+### High Tide Sensations (Every 12 Hours)
+*Pressure Intensification*: Additional crushing weight as water column increases. Existing aches deepen, adaptation sensations accelerate, magical phenomena strengthen.
+*Sound Changes*: Deeper resonances as sound waves travel through denser medium. Crystal screams become more melodic, structural groans intensify, conversation requires closer proximity.
+*Magical Enhancement*: Spell effects intensify, shadow activity increases, memory-moss releases more concentrated spores. Air tastes more metallic, contains more magical residue.
+*Emotional Atmosphere*: Citizens become more introspective and contemplative. Shadow replacement activity peaks. Political debates grow more intense as deeper thoughts surface.
+
+### Low Tide Relief (Every 12 Hours)
+*Pressure Reduction*: Brief respite from crushing depths. Breathing becomes easier, movement more fluid, psychological weight lifts temporarily.
+*Surface Connections*: Phantom scents of dry land, brief moments of feeling sunshine that doesn't exist, memories of surface life become more vivid and accessible.
+*Clarity Moments*: Temporal confusion lessens, shadow independence decreases, identity becomes more stable. Citizens make important decisions during these periods.
+*Activity Surge*: Markets become more active, transportation increases, social gatherings peak as the city takes advantage of reduced environmental pressure.
+
+### Dawn Equivalent (Memory-Light Brightening)
+*Visual Transition*: Bioluminescent organisms brighten in coordinated pulses, creating artificial dawn. Crystal formations catch and amplify these light sources into prismatic displays.
+*Temperature Shift*: Subtle warming as magical energy increases with coordinated lighting. Water currents shift toward more gentle, optimistic flows.
+*Audio Changes*: Screaming Gardens transition to more hopeful melodies, city sounds become more organized and purposeful, conversation tones lighten.
+*Psychological Effect*: Citizens experience artificial hope and energy boost. Shadow activity decreases, memory merchants report fewer sales of despair-memories.
+
+### Dusk Equivalent (Memory-Light Dimming)
+*Visual Darkening*: Bioluminescent organisms dim in waves, shadows deepen and gain independence, temporal overlays become more visible as primary reality fades.
+*Temperature Drop*: Subtle cooling as magical energy redistributes. Deep currents bring colder water from greater depths.
+*Audio Shifts*: Screaming Gardens crescendo into warnings and lamentations, city sounds become more whispered and secretive, political activity increases.
+*Shadow Markets Activation*: Independent shadows begin trading, replacement processes accelerate, black market activity peaks in darkness.
 
 ## Secrets & Mysteries
 

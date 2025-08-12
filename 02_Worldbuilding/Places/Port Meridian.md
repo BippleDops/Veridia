@@ -24,6 +24,17 @@ danger_level: Moderate
 ## Overview
 Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, where ships from across the world dock to trade in Aether Crystals and exotic goods. The city is ruled not by nobles but by the [[02_Worldbuilding/Groups/Merchant Princes]], a council of the wealthiest traders. Recently, the city has been plagued by a mysterious crystal corruption spreading through the docks.
 
+### First Approach: Sensory Immersion
+**Visual Spectacle**: The harbor materializes through morning mist as a forest of crystal-topped masts and soaring spires. Massive loading cranes embedded with Aether Crystals pulse with rainbow light, while ships of every design from elegant elven vessels to brutalist dwarf cargo haulers crowd the wharves. The crystal corruption manifests as veins of sickly purple-black spreading through dock structures like infected marble, creating an ominous contrast to the prosperity.
+
+**Auditory Assault**: The constant cacophony of commerce—hammer-strikes from shipyards creating rhythmic metallic percussion, crystal-enhanced loading devices humming with magical energy, and the polyglot babble of dozens of languages mixing in the salt air. Beneath it all, the persistent groaning of wood and rope under strain, punctuated by ship horns that each carry distinctive magical harmonics.
+
+**Olfactory Intensity**: The harbor smell hits like a physical force—salt brine mixed with tar, rope, and aged wood, overlaid with crystal ozone that makes the air taste electric. Exotic spices from foreign holds compete with the stench of fish markets and the metallic tang of the spreading corruption. Cooking smoke from harbor taverns adds warmth to the complex atmospheric stew.
+
+**Tactile Environment**: The wooden dock planks vibrate constantly underfoot from heavy cargo movement and magical machinery. Salt spray mists everything, leaving a crystalline residue on skin and clothing. The air pressure feels different here—lighter than inland due to magical crystal effects, but with an underlying tension that makes storms feel imminent.
+
+**Crowd Pressure Dynamics**: Bodies press together in the harbor district—dock workers with their characteristic rolling gait, sharp-eyed merchants in silk robes, foreign sailors with weather-beaten faces, and crystal-corruption refugees whose skin shows telltale purple veining. The crowd moves in currents like a human tide, with bottlenecks at customs points creating pressure-cooker social tension.
+
 ## Districts
 
 ### The Grand Harbor
@@ -47,9 +58,27 @@ Port Meridian is [[02_Worldbuilding/Places/Aethermoor]]'s largest trading hub, w
 - **Warehouse District** - Controlled by various factions
 
 ### The Plague Quarter
-- **Quarantine Zone** - Area affected by crystal plague
-- **Emergency Hospice** - Run by [[Brother Marcus Steelbane]]
-- **Abandoned Buildings** - Now inhabited by corrupted creatures
+
+**Sensory Signature - The Plague Quarter:**
+*Visual Horror*: Purple-black crystal veins spread through every surface like infected blood vessels, pulsing with malevolent light. Buildings lean at unnatural angles as corruption affects structural integrity. Crystalline growths sprout from walls in geometric patterns that hurt to look at directly, creating optical illusions that make navigation disorienting.
+
+*Corrupted Atmosphere*: The air itself tastes metallic and bitter, with an underlying sweetness that's somehow more disturbing than outright foulness. Breathing here leaves a residue sensation in the lungs, while the atmosphere shimmers with barely-visible energy distortions that make distance perception unreliable.
+
+*Audio Disturbance*: Crystal corruption creates constant low-frequency humming that's felt more than heard, causing dental fillings to ache and bones to resonate uncomfortably. Footsteps echo strangely as surfaces become partially crystalline. Occasional sharp cracks as corruption spreads through new materials sound like breaking glass mixed with screaming.
+
+*Tactile Corruption Effects*: Infected surfaces feel cold and slightly vibrating, as if alive with alien energy. Crystal growth areas tingle when touched, creating numbness that spreads slowly up limbs. Temperature varies wildly—ice-cold corruption spots alternate with fever-hot magical emanations that burn through clothing.
+
+*Emotional Atmosphere*: The corruption affects mood directly, creating anxiety, paranoia, and an overwhelming urge to leave immediately. Sensitive individuals report feeling watched by the crystalline growths themselves, while prolonged exposure causes euphoric detachment from reality.
+
+**Crystal Corruption Progression Stages:**
+*Initial Contact (Tingling Phase)*: Euphoric rush, enhanced sensory perception, skin feels electric, thoughts become clearer but emotions duller
+*Progressive Spread (Translucent Phase)*: Skin becomes slightly transparent, body temperature drops, collective consciousness experiences begin, individual memories feel less important
+*Advanced Corruption (Crystalline Phase)*: Hard crystal patches form on skin, thoughts merge with other corrupted individuals, individual identity starts dissolving into collective awareness
+*Final Stage (Integration Phase)*: Complete physical and mental integration with the crystal network, individual consciousness becomes node in larger crystalline intelligence
+
+- **Quarantine Zone** - Area affected by crystal plague (bitter metallic air, geometric crystal growths creating maze-like passages, psychological pressure that increases with proximity to corruption epicenter)
+- **Emergency Hospice** - Run by [[Brother Marcus Steelbane]] (medicinal herb-scent fighting corruption-bitterness, sounds of healing magic competing with crystal resonance, warm spots of human care amid cold corruption)
+- **Abandoned Buildings** - Inhabited by corrupted creatures (unnatural crystal acoustics that amplify whispers into shouts while muffling screams, temperature variations creating convection currents, predatory atmosphere as corrupted beings hunt for new hosts)
 
 ## Environmental Storytelling
 

@@ -1,7 +1,7 @@
 {
   "summary": {
     "Galleries": {
-      "count": 10
+      "count": 12
     },
     "Audio": {
       "count": 21
@@ -27,9 +27,11 @@
       "04_Resources/Assets/Galleries/Vehicles_&_Ships_Gallery.md",
       "04_Resources/Assets/Galleries/Locations_Gallery.md",
       "04_Resources/Assets/Galleries/Index.md",
+      "04_Resources/Assets/Galleries/Animations_Gallery.md",
       "04_Resources/Assets/Galleries/Battle_Maps_Gallery.md",
       "04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md",
       "04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md",
+      "04_Resources/Assets/Galleries/Audio_Gallery.md",
       "04_Resources/Assets/Galleries/Creatures_Gallery.md"
     ],
     "Audio": [

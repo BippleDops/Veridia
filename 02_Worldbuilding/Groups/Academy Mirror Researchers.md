@@ -1,4 +1,11 @@
 ---
+tags:
+  - group
+  - academy
+  - aquabyssos
+type: Group
+world: Aquabyssos
+status: active
 created: 2025-08-11
 updated: 2025-08-11
 ---
@@ -14,22 +21,32 @@ updated: 2025-08-11
 
 - [[Shadow Broker Mirrors]]
 
+## Overview
+
+Academy Mirror Researchers is a specialized research organization within the Academy studying crystalline reflection technology and consciousness transfer via mirror interfaces.
+
+## Structure
+
+TODO - Research hierarchy and divisions
+
+## Goals
+
+TODO - Primary research objectives and institutional aims
+
+## Assets
+
+TODO - Equipment, facilities, and resources
+
+## Conflicts
+
+TODO - Internal disputes and external opposition
+
 ## Player-Facing Summary
 
-Academy Mirror Researchers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Academy Mirror Researchers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Academy Mirror Researchers.
+A secretive research division of the Academy that studies mirror-based consciousness technology. Known for their reflective crystal arrays and mysterious experiments with awareness transfer.
 
 ## Adventure Hooks
 
-- A rumor ties Academy Mirror Researchers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Academy Mirror Researchers to avert a public scandal.
-- A map overlay reveals a hidden approach to Academy Mirror Researchers active only during specific tides/storms.
-
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
+- Missing researcher discovered trapped inside a mirror dimension
+- Mirror interface technology goes rogue, creating consciousness echoes
+- Competing academy factions seek to steal mirror research secrets

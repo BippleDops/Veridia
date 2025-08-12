@@ -419,6 +419,74 @@ As a major cross-cultural hub, Port Meridian serves as the primary meeting point
 - [[02_Worldbuilding/Quests/Aquabyssos]] - Stop corruption trafficking
 - [[Quest - The Missing Fleet]] - Three ships vanished
 
+## Daily Life in Port Meridian
+
+### Morning Routines (Dawn to 9 AM)
+
+**The Harbor Bell's Call**: Each morning begins with the Great Harbor Bell, a massive bronze instrument enhanced with Aether Crystal resonance. Its deep, harmonious tone carries across all five districts at 5 AM, signaling the changing of the tides and the start of the commercial day. The bell's crystal enhancement allows different tones for different weather conditions - sailors can read storm warnings, trade prospects, and harbor conditions from the morning chime alone.
+
+**The Dockworkers' Dawn**: Before first light, the harbor comes alive with activity. Dockworkers emerge from their tenements carrying steaming cups of kelp-brew (a local tea made from imported seaweed) and hard biscuits soaked in fish broth. They gather around braziers burning crystal-enhanced coal, sharing work assignments and gossip while waiting for the harbor bell. The morning fog often carries the corruption's bitter metallic taste, forcing workers to wear dampened cloth masks during the worst outbreaks.
+
+**Merchant's First Count**: In the Merchant Quarter, the day begins with the ritual of "First Count" - each major trading house sends apprentices to the Central Exchange to post overnight price changes and inventory updates on crystal-powered message boards. These boards glow with different colors to indicate market conditions: green for stable, blue for rising, red for falling, and sickly purple when corruption affects crystal-based goods.
+
+**Temple Morning Rites**: The Temple of the Tides holds dawn services led by [[High Priestess Celeste Dawnbringer]], blessing the day's voyages and trade ventures. Citizens gather to receive small vials of blessed water that provide protection against crystal corruption for a few hours. The temple's crystal-enhanced bells ring prayer sequences that fishermen claim help locate the best fishing grounds.
+
+**The Breakfast Markets**: Street vendors set up mobile carts selling "sailor's breakfast" - thick porridge mixed with dried fish, served in edible kelp bowls. The wealthy prefer "merchant's dawn feast" at upscale taverns: fresh fish caught during the night tide, served with imported fruits and crystal-filtered wine. The corruption has created a thriving market for "pure foods" - items guaranteed to be untainted by crystal plague.
+
+### Work Day Activities (9 AM to 6 PM)
+
+**Harbor Operations**: The massive crystal-powered loading cranes dominate the harbor's rhythm. Work gangs rotate every two hours to prevent corruption exposure, with mandatory breaks in the "clean air zones" away from infected docks. Foremen use crystal-enhanced speaking trumpets to coordinate loading operations, their voices carrying clearly over the industrial din. Ships must be inspected for corruption before unloading - infected vessels are quarantined in the Plague Quarter's harbor extension.
+
+**The Merchant Princes' Business**: Council sessions occur in the opulent Chamber of Scales, where crystal formations record all negotiations for later review. The Merchant Princes follow strict protocols: all agreements must be witnessed by crystal-memory stones, major decisions require consultation with trade guild representatives, and foreign negotiations include cultural interpreters familiar with the [[02_Worldbuilding/Lore/Cross-Realm Etiquette Guide]].
+
+**Artisan Quarter Production**: Skilled craftsmen work in workshops designed to prevent corruption spread - crystal-powered air filtration, regular rotation schedules, and mandatory health examinations. Master artificers create both practical goods and luxury items, with their finest work reserved for international trade. Apprentices spend mornings learning corruption detection and afternoons practicing their crafts.
+
+**Foreign Quarter Diplomacy**: Embassies maintain careful schedules of cultural observances and diplomatic meetings. [[Ambassador Marina Bridgewater]] coordinates between surface and Aquabyssos representatives, managing complex translation needs and cultural sensitivity protocols. Trade negotiations often involve elaborate ceremonial exchanges that can last hours, following traditions outlined in diplomatic manuals.
+
+**The Academic Pursuit**: Scholars at the Meridian Library study texts about crystal corruption, trade law, and foreign customs. Research teams investigate the plague's spread patterns while maintaining careful documentation protocols. [[Keeper Elara Moonwhisper]] oversees translation projects that make knowledge accessible to traders dealing with foreign clients.
+
+**Underground Economy**: In the Plague Quarter and Shadow Warren, black market activities flourish during daylight hours when authorities focus on legitimate commerce. Corruption dealers, memory merchants, and soul brokers conduct business in hidden chambers, following their own complex schedules and security protocols.
+
+### Afternoon and Evening Customs (6 PM to 11 PM)
+
+**The Evening Exchange**: As harbor operations wind down, the Social Exchange begins - informal gatherings where merchants, sailors, and artisans share information about trade opportunities, political developments, and corruption spread. These gatherings rotate between taverns, following an unspoken schedule that ensures all social classes have opportunities to network.
+
+**Dining Traditions**: Working families gather for "harbor supper" - shared meals featuring the day's catch prepared in communal courtyard ovens. Wealthy merchants host elaborate dinner parties with multiple courses, each featuring specialties from different trade partners. The corruption crisis has made food purity a status symbol - the wealthy display their wealth through guaranteed corruption-free ingredients.
+
+**Evening Markets**: As official trade ends, evening markets spring up selling prepared foods, crafted goods, and entertainment services. Street performers use crystal-enhanced instruments that create light shows accompanying their music. Food vendors offer "comfort foods" designed to counteract the psychological effects of corruption exposure - spiced drinks, sweet pastries, and warming broths.
+
+**Cultural Observances**: Different communities maintain their traditional evening customs adapted for port life. Aquabyssos visitors gather for depth-diving meditation in specially constructed pools, while surface dwellers hold storytelling circles that preserve pre-corruption memories. These cultural practices help maintain community identity despite the city's transient population.
+
+**Information Trading**: The Salty Serpent and other information taverns become active as evening approaches. Patrons trade rumors, business intelligence, and political gossip over drinks that mask the taste of corruption-tainted water. [[Marina-Red-Tide-Coralheart]]'s establishment serves as an unofficial intelligence hub where legal and illegal information flows freely.
+
+### Night Life (11 PM to 5 AM)
+
+**The Night Market**: After official business hours, the port transforms into a different city. Smugglers emerge from hidden warehouses, moving goods through tunnels that avoid corruption checkpoints. Night merchants deal in items too dangerous or illegal for daylight trade: corrupted crystals, memory fragments, and artifacts from the plague zone.
+
+**Harbor Patrol**: [[Captain Lyanna Brightshield]]'s watch maintains order through crystal-powered lanterns and corruption-detecting equipment. Patrol routes avoid the worst infected areas while maintaining security for legitimate late-night activities. Guards wear special equipment that allows them to operate safely in contaminated zones for limited periods.
+
+**Entertainment Districts**: The wealthy gather in exclusive clubs where crystal-enhanced entertainment includes memory-sharing experiences and illusion shows. Working-class entertainment centers around taverns offering simple pleasures: gambling, storytelling, and music that helps drown out the constant sound of corruption spreading through nearby buildings.
+
+**The Plague Quarter Night**: In infected areas, night brings different activities. Corruption researchers work when ambient magical interference is lowest, while scavengers search abandoned buildings for valuable items. Some plague victims experience enhanced awareness during night hours, leading to philosophical gatherings where they discuss their changing relationship with reality.
+
+**Underground Networks**: Secret societies, resistance groups, and criminal organizations conduct their most sensitive business during the dark hours. Meeting locations rotate regularly to avoid detection, while complex recognition signals allow members to identify each other safely.
+
+### Weekly and Seasonal Patterns
+
+**Market Days**: Three times weekly, the Grand Market opens the Port Square to all vendors. These days feature international goods, diplomatic presentations, and cultural exchanges. Security increases dramatically, with corruption detection teams sweeping all merchandise before public access.
+
+**Religious Observances**: Weekly services at the Temple of the Tides include blessing ceremonies for ships, healing rituals for corruption victims, and memorial services for those lost to the plague. Monthly observances follow the [[02_Worldbuilding/Lore/Festival Calendar Complete]], with trade-focused celebrations like the Merchant's Tide drawing international participation.
+
+**Guild Meetings**: Professional guilds meet weekly to coordinate responses to corruption threats, plan major projects, and maintain professional standards. These gatherings follow traditions from the [[02_Worldbuilding/Lore/Guild Traditions Compendium]], adapted for the unique challenges of operating in a corruption zone.
+
+**Seasonal Adaptations**: 
+- **Storm Season**: Port operations shift to underground facilities, social gatherings move indoors, and emergency protocols activate to protect against corruption spread during severe weather.
+- **Trade Winds Season**: Maximum activity as favorable sailing conditions bring increased international commerce. Cultural festivals peak as foreign traders share their traditions.
+- **High Sun Season**: Work schedules adjust for heat protection, with early morning and late evening activity peaks. Corruption spreads faster in heat, requiring modified safety protocols.
+- **Harvest Season**: Final major trading period before storm season. Intensive preparation includes stockpiling pure food supplies and coordinating winter survival resources.
+
+**Festival Preparations**: Major celebrations require weeks of preparation, involving complex logistics to ensure corruption doesn't spread during gatherings. Festival planning includes cultural consultation, diplomatic coordination, and extensive security planning to maintain public safety while preserving traditional celebrations.
+
 ## Key Factions
 - [[02_Worldbuilding/Groups/Merchant Princes]] - Ruling council
 - [[02_Worldbuilding/Groups/The Whisper Syndicate]] - Criminal network

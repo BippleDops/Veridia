@@ -140,53 +140,19 @@ His armor bears the crystalline sigil of his order, and intricate engravings tel
 
 **Mannerisms**: Often touches his crystal pendant when thinking, polishes his armor obsessively, and has a habit of standing at windows looking toward the Crystal Spires when troubled.
 
+## Campaign Integration
 
-## Overview
+Sir Theron serves as an ideal quest giver for parties aligned with justice and order, though his rigid moral code can create interesting tension when players prefer morally ambiguous solutions. His crystal-purification abilities make him valuable in anti-corruption campaigns, while his political connections provide access to the highest levels of Aethermoor society. DMs can use his internal conflicts to explore themes of duty versus personal desire, and his growing awareness of political complexity can mirror player character development.
 
+## Additional Adventure Hooks
 
-TODO
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
-## Player-Facing Summary
-
-Knight is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
-
-## Lore Details
-
-Legends speak of Knight as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Knight.
-
-## Adventure Hooks
-
-- A rumor ties Knight to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Knight to avert a public scandal.
-- A map overlay reveals a hidden approach to Knight active only during specific tides/storms.
+- **The Crystal Resonance Mystery** - Strange harmonics in crystal formations suggest someone is using them to send coded messages across the realm
+- **The Shadow Infiltrator** - A member of the Crystal Guard exhibits suspicious behavior, but Theron needs proof before taking action  
+- **The Ancient Prophecy** - Fragments of an old prophecy suggest Theron has a greater destiny, but fulfilling it may require sacrificing everything he holds dear
 
 ## DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+Theron works best as a recurring ally who grows and changes alongside the party. His formal speech patterns and tendency to quote classical wisdom can provide comic relief, while his genuine care for others creates emotional investment. Use his crystal pendant as a visual cue for his emotional state - it glows brighter when he's confident and dims when he's troubled. His nightmares about corrupted crystals can provide adventure hooks or foreshadowing for major threats.
 
 ## Cross-References
 

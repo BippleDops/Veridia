@@ -22,25 +22,25 @@ updated: 2025-08-11
 
 ## The World That Was
 
-### Before the Sundering
-Three hundred years ago, Aquabyssos and Aethermoor were one world—a realm where sky touched sea, where floating cities drifted above coral palaces, where humans lived both above and below the waves in harmony. Magic flowed freely between air and water, and the boundary between surface and depth was merely another frontier to explore.
+### Before the Great Convergence
+Over twelve centuries ago, surface civilization and the sky realm of Aethermoor existed separately. Surface dwellers built great cities around harbors and rivers, developing crystal technology and parliamentary democracy. Meanwhile, the floating cities of Aethermoor drifted through the sky ocean, masters of wind magic and aerial navigation. Below both realms, ancient mer-folk civilizations thrived in the deepest trenches.
 
-The empire spanned from the highest peaks of Aethermoor's crystal mountains to the deepest trenches of Aquabyssos's abyssal plains. Trade routes connected floating markets to underwater bazaars. Marriages between surface dwellers and sea folk were common. Children could choose their path—embrace the sky or accept the sea's call.
+These three civilizations had limited contact—occasional trade expeditions, diplomatic missions, and rare inter-realm marriages. Each developed their own unique culture, magic, and understanding of reality.
 
-### The Sundering Event
-The exact cause remains debated, lost in propaganda and fractured memories. What's known:
-- A catastrophic magical event separated the worlds
-- The Surface Seal formed, an impenetrable barrier
-- Thousands died in the initial chaos
-- Families were torn apart instantly
-- Magic itself changed, adapting to the separation
+### The Great Convergence
+The dimensional merger that created modern Aquabyssos is well-documented in the surviving archives. What happened:
+- Surface world and Aethermoor were pulled into oceanic dimensional space
+- Reality merged creating breathable underwater environment  
+- The Deep Mother's awakening triggered the convergence
+- Survivors adapted through biological and magical transformation
+- Three civilizations became one unified underwater realm
 
-**Competing Theories**:
-- **The Salvation Theory**: The seal saved both worlds from mutual destruction
-- **The Betrayal Theory**: One side sealed the other to claim all resources
-- **The Protection Theory**: Something worse was sealed away, not just the worlds
-- **The Accident Theory**: A magical experiment gone catastrophically wrong
-- **The Prophecy Theory**: This was always destined to happen
+**Historical Facts**:
+- **The Preparation**: Shadow entities had prepared surface civilization for decades
+- **The Crystal Plague**: Enhanced many survivors' adaptation capabilities  
+- **The Deep Fleet**: Military forces coordinated the final evacuation
+- **The Transformation Wave**: Changed environmental physics to support life
+- **The Integration**: Parliamentary democracy adapted to include all species
 
 ## The World That Is
 

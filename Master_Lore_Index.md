@@ -855,3 +855,17 @@ All lore connects to:
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+
+
+## Orphaned Content
+
+- [[02_Worldbuilding/Lore/Name.md|Name]]
+- [[02_Worldbuilding/Lore/Merchant Thane Goldwhisper.md|Merchant Thane Goldwhisper]]
+- [[02_Worldbuilding/Lore/Depth Chronicler Maris Saltwater.md|Depth Chronicler Maris Saltwater]]
+- [[02_Worldbuilding/Lore/Memory Merchant Mneme.md|Memory Merchant Mneme]]
+- [[02_Worldbuilding/Lore/Non-Existence Protocols.md|Non-Existence Protocols]]
+- [[02_Worldbuilding/Lore/Aquabyssos World Guide.md|Aquabyssos World Guide]]
+- [[02_Worldbuilding/Lore/Giant Seahorse.md|Giant Seahorse]]
+- [[02_Worldbuilding/Lore/Royal Guard.md|Royal Guard]]
+- [[02_Worldbuilding/Lore/Heart of Chrono.md|Heart of Chrono]]
+- [[02_Worldbuilding/Lore/Quest - The Shadow Market Wars.md|Quest - The Shadow Market Wars]]

@@ -38,17 +38,17 @@ obsidianUIMode: preview
 
 ## Player-Facing Summary
 
-Language Evolution Tracker is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Language Evolution Tracke is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Language Evolution Tracker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Language Evolution Tracker.
+Legends speak of Language Evolution Tracke as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Language Evolution Tracke.
 
 ## Adventure Hooks
 
-- A rumor ties Language Evolution Tracker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Language Evolution Tracker to avert a public scandal.
-- A map overlay reveals a hidden approach to Language Evolution Tracker active only during specific tides/storms.
+- A rumor ties Language Evolution Tracke to a missing shipment, linking factions with competing claims.
+- An NPC seeks discreet help at Language Evolution Tracke to avert a public scandal.
+- A map overlay reveals a hidden approach to Language Evolution Tracke active only during specific tides/storms.
 
 ## DM Notes
 

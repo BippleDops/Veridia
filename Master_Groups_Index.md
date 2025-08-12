@@ -1006,3 +1006,10 @@ This comprehensive index organizes all 46 completed organizations and factions a
 ## Cross-References
 
 - [[Vault_Navigation_Hub]]
+
+
+## Orphaned Content
+
+- [[02_Worldbuilding/Groups/Cultural Patro.md|Cultural Patro]]
+- [[02_Worldbuilding/Groups/Shadowhawk Syndicat.md|Shadowhawk Syndicat]]
+- [[02_Worldbuilding/Groups/Cultural Organization.md|Cultural Organization]]

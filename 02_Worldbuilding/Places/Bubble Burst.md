@@ -141,50 +141,54 @@ Bubble Burst serves as a nexus for [[Aquabyssos]]'s underground economy, with co
 
 ## History
 
+**Bubble Burst** was founded three decades ago by Lady Nerida Pearlsong, who discovered the massive natural air pocket while exploring the [[Deep Currents]]. Initially a simple gambling den, it evolved into Aquabyssos's premier entertainment destination through Nerida's shrewd partnerships with [[Luck Spirits]] and innovative use of [[Aeration Crystals]]. 
 
-TODO
+The casino survived the [[Great Pressure Shift]] of fifteen years ago that collapsed many bubble structures by adapting its magical infrastructure. This event led to Nerida's current obsession with magical insurance policies and her mysterious deals with entities from the [[Abyssal Depths]].
+
+Recent expansion includes the controversial Memory Pool wings, which have drawn criticism from the [[Parliament of Echoes]] but significant investment from the [[Shadow Tide Syndicate]].
 
 
 ## Layout
 
+The casino spans five distinct levels within the massive air bubble:
 
-TODO
+**The Welcome Depths** (Entrance Level): Reception area with pressure adjustment chambers, coat check for diving gear, and introductory games for newcomers. Features the famous "First Bubble" luck ritual where new guests burst a ceremonial bubble for a blessing.
 
+**The Main Floor** (Primary Gaming): Houses the majority of gaming tables, the central Fortune's Maelstrom, and the main bar. Dominated by floating bubble games and the massive crystal chandelier that serves as the establishment's magical focus.
 
-## Notables
+**The High Tide Galleries** (VIP Gaming): Private suites for high-rollers, the exclusive Memory Pools, and the Temporal Tide chambers. Access requires either significant wealth or special invitation.
 
+**The Aquatic Amphitheater** (Entertainment): Performance spaces including the main stage, Coral Gardens, and intimate venue. Features a retractable floor that can flood with seawater for aquatic performances.
 
-TODO
-
-
-## Threats
-
-
-TODO
+**The Deep Vault** (Private/Restricted): Lady Nerida's private offices, security headquarters, and rumored connections to underwater tunnel networks. Staff quarters and mechanical systems for maintaining the bubble's integrity.
 
 
-## Hooks
+## Notable Features
+
+**The Fortune's Maelstrom**: The casino's centerpiece - a spiraling column of bubbles containing prizes, curses, and transformative effects. Players can pay to add their own bubbles or attempt to catch specific ones. The Maelstrom's behavior is said to reflect the luck of everyone present.
+
+**Memory Pools**: Controversial chambers where guests can wager their memories or purchase experiences from legendary figures. Each pool maintains different types of memories - romantic, heroic, tragic, or forbidden knowledge.
+
+**The Lucky 7 Tables**: Seven gaming tables that exist partially in other planes, where the stakes and rewards transcend material wealth. Reserved for the most desperate or ambitious gamblers.
+
+**Pressure Gates**: Emergency systems that can rapidly adjust the bubble's internal pressure. In the wrong hands, these could be used as weapons against enemies or the entire establishment.
 
 
-TODO
+## Threats & Complications
 
-## Player-Facing Summary
+**Bubble Integrity Failure**: The magical systems maintaining the air pocket are complex and vulnerable. Sabotage could cause catastrophic implosion, drowning hundreds.
 
-Bubble Burst is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+**Shadow Tide Influence**: The syndicate's recent investments come with strings attached. They may be using the casino to launder currency or conduct illegal memory trading.
 
-## Lore Details
+**Luck Spirit Disputes**: The entities that help maintain the casino's probability magic are capricious. If offended, they might withdraw their support or actively curse the establishment.
 
-Legends speak of Bubble Burst as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bubble Burst.
+**Debt Collection**: High-stakes gambling inevitably creates dangerous debts. Collectors from various factions regularly visit, sometimes violently.
 
-## Adventure Hooks
+## Campaign Integration
 
-- A rumor ties Bubble Burst to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Bubble Burst to avert a public scandal.
-- A map overlay reveals a hidden approach to Bubble Burst active only during specific tides/storms.
+Bubble Burst excels as a social hub where multiple plot threads can intersect naturally. The casino's games provide excellent opportunities for dramatic tension - let players' luck at the tables influence their broader fortunes in the campaign. The various NPCs each have their own agendas that can be leveraged for different types of adventures.
 
-## DM Notes
-
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+The establishment's reliance on magical infrastructure makes it vulnerable to sabotage, while its connection to luck spirits and fate magic means that seemingly random events here often have deeper significance. Use the Memory Pools sparingly but dramatically - they're perfect for revealing backstory or setting up major revelations.
 
 ## Cross-References
 

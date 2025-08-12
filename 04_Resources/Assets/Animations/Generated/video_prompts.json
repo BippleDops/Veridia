@@ -19,19 +19,5 @@
     "duration_s": 11,
     "aspect": "16:9",
     "prompt": "Drowned Cathedral Vigil. subsurface caustics, pressure-glass, candle glow Shot: static medium-wide inside a flooded nave; floating candles drift past broken stained-glass. Action: particles drift; distant whale call; shafts of light oscillate with waves. Avoid: readable text, CGI oversharpness, modern signage. Unified painterly fantasy realism consistent with Aquabyssos/Aethermoor/Void aesthetics; no modern signage; no sci‑fi UI; no gibberish text."
-  },
-  {
-    "id": "cin-storm-airship-deck",
-    "title": "Storm on the Airship Deck",
-    "duration_s": 9,
-    "aspect": "16:9",
-    "prompt": "Storm on the Airship Deck. Aethermoor romantic realism, rope and sail detail Shot: handheld-feel; crew lashing lines as gusts hit; camera sway synced to wind. Action: rain streaks; lightning distant; no text UI; readable silhouettes at all times. Avoid: neon UI, futuristic panels, gibberish overlays. Unified painterly fantasy realism consistent with Aquabyssos/Aethermoor/Void aesthetics; no modern signage; no sci‑fi UI; no gibberish text."
-  },
-  {
-    "id": "cin-merged-zone-stairwell",
-    "title": "Merged Zone Stairwell Fracture",
-    "duration_s": 10,
-    "aspect": "9:16",
-    "prompt": "Merged Zone Stairwell Fracture. reality fracture mixed realm, teal/indigo palette Shot: vertical shot; steps fold Escher-like while lanternfish swim through air. Action: subtle gravity glitches; cloth flutters upward at times. Avoid: text labels, sci-fi UI. Unified painterly fantasy realism consistent with Aquabyssos/Aethermoor/Void aesthetics; no modern signage; no sci‑fi UI; no gibberish text."
   }
 ]

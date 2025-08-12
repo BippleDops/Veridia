@@ -147,10 +147,10 @@ cssclasses: [wide-page, index-page]
 4. **The Seven Shards**: Crown breaks
 
 ### Recent History
-1. **900 years ago**: The Great Drowning
-2. **500 years ago**: First inter-realm contact
-3. **100 years ago**: Trade treaties established
-4. **Present**: Convergence accelerating
+1. **1247 years ago (1 PD)**: The Great Drowning/Convergence
+2. **1158 years ago (89 AE)**: First inter-realm exploration begins
+3. **100 years ago (1147 AE)**: Modern trade treaties established
+4. **Present (1247 AE)**: Cosmic consciousness development era
 
 ## Prophecies & Futures
 

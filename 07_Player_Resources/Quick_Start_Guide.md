@@ -24,8 +24,8 @@ updated: 2025-08-11
 ## What You Need to Know
 
 ### The Setting in 30 Seconds
-- **Two Worlds**: Aquabyssos (underwater empire) and Aethermoor (surface world) were separated 300 years ago
-- **The Conflict**: Multiple factions debate whether to reunite, remain separated, or transform into something new
+- **Two Worlds**: Aquabyssos (underwater empire) integrated with Aethermoor (sky realm) after the Great Convergence 1247 years ago
+- **The Conflict**: Multiple factions debate the future of this merged reality and the awakening of cosmic forces
 - **Your Role**: Navigate political intrigue, environmental challenges, and cosmic mysteries while deciding the fate of both worlds
 - **The Stakes**: Ancient powers stir, reality itself bends, and every choice could tip the balance
 

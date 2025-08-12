@@ -1,8 +1,3 @@
----
-created: 2024-01-01
-updated: 2024-01-01
----
-
 # Visual Asset Galleries
 
  - [[04_Resources/Assets/Galleries/NPC_Portraits_Gallery.md]]
@@ -14,7 +9,3 @@ updated: 2024-01-01
  - [[04_Resources/Assets/Galleries/Faction_Symbols_&_Heraldry.md]]
  - [[04_Resources/Assets/Galleries/In-World_Handouts_Gallery.md]]
  - [[04_Resources/Assets/Galleries/Magical_Items_Gallery.md]]
-
-## Cross-References
-
-- [[AQUABYSSOS_VAULT_README]]

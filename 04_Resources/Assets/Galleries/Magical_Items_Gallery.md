@@ -1,8 +1,3 @@
----
-created: 2024-01-01
-updated: 2024-01-01
----
-
 # Magical Items Gallery
 
 %% Use reading mode for visual gallery %%
@@ -33,7 +28,3 @@ updated: 2024-01-01
 
 ## item-artifact-windvane-pota-windvane-pota
 ![](04_Resources/Assets/Generated/Items/item-artifact-windvane-pota-windvane-pota.png)
-
-## Cross-References
-
-- [[04_Resources/Assets/Galleries/Index]]

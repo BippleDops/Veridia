@@ -1,8 +1,3 @@
----
-created: 2024-01-01
-updated: 2024-01-01
----
-
 # Scenes Gallery
 
 %% Use reading mode for visual gallery %%
@@ -36,7 +31,3 @@ updated: 2024-01-01
 
 ## scene-scene-the-party-s-first-glimpse-of-abyssos-prime-v2-the-party-s-first-glimpse-of-abyssos-prime
 ![](04_Resources/Assets/Generated/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-v2-the-party-s-first-glimpse-of-abyssos-prime.png)
-
-## Cross-References
-
-- [[04_Resources/Assets/Galleries/Index]]

@@ -3,6 +3,10 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-crimson-fleet-the-crimson-fleet.svg)
+
+
 
 
 ## Cross-References

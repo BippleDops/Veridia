@@ -3,6 +3,10 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+> [!figure] Heraldry
+![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-parliament-of-echoes-shadow-chamber-parliament-of-echoes-shadow-chamber.svg)
+
+
 
 ## Cross-References
 

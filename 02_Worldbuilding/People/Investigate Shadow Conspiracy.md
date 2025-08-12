@@ -3,6 +3,10 @@ created: 2025-08-11
 updated: 2025-08-11
 ---
 
+> [!figure] Portrait
+![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
+
+
 
 
 ## Cross-References

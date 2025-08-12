@@ -1,8 +1,3 @@
----
-created: 2024-01-01
-updated: 2024-01-01
----
-
 # In-World Handouts Gallery
 
 %% Use reading mode for visual gallery %%
@@ -33,7 +28,3 @@ updated: 2024-01-01
 
 ## handout-handout-noble-writ-with-wax-seal-v3-noble-writ-with-wax-seal
 ![](04_Resources/Assets/Generated/Handouts/handout-handout-noble-writ-with-wax-seal-v3-noble-writ-with-wax-seal.png)
-
-## Cross-References
-
-- [[04_Resources/Assets/Galleries/Index]]

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ice-devil-xmm-ice-devil-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ice-devil-xmm-ice-devil-xmm.svg)
 
 # [Ice Devil](3-Mechanics\CLI\bestiary\fiend/ice-devil-xmm.md)
 *Source: Monster Manual (2024) p. 176. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

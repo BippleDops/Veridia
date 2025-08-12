@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-beholder-xmm-beholder-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-beholder-xmm-beholder-xmm.svg)
 
 # [Beholder](3-Mechanics\CLI\bestiary\aberration/beholder-xmm.md)
 *Source: Monster Manual (2024) p. 36*  

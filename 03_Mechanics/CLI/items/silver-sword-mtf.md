@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-greater-silver-sword-mtf-greater-silver-sword-mtf.svg)
+![](04_Resources/Assets/Items/item-artifact-greater-silver-sword-mtf-greater-silver-sword-mtf.svg)
 
 # Silver Sword
 *Weapon, major (requires attunement by a creature that has psionic ability)*  

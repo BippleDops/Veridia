@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-cooks-utensils-xphb-cooks-utensils-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-cooks-utensils-xphb-cooks-utensils-xphb.svg)
 
 # Cook's Utensils
 *Artisan's tools*  

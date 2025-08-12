@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-iron-shadow-mpmm-hobgoblin-iron-shadow-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-iron-shadow-mpmm-hobgoblin-iron-shadow-mpmm.svg)
 
 # [Hobgoblin Iron Shadow](3-Mechanics\CLI\bestiary\fey/hobgoblin-iron-shadow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  

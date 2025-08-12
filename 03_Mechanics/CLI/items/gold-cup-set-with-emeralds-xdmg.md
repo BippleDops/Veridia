@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-gold-cup-set-with-emeralds-xdmg-gold-cup-set-with-emeralds-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-gold-cup-set-with-emeralds-xdmg-gold-cup-set-with-emeralds-xdmg.svg)
 
 # Gold cup set with emeralds
 *Treasure (art object)*  

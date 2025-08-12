@@ -27,7 +27,7 @@ cr: '8'
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-order-of-the-shattered-crown-order-of-the-shattered-crown.svg)
 
 
 

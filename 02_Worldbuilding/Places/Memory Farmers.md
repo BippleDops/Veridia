@@ -32,7 +32,7 @@ related_entities:
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-memory-farmers-memory-farmers.svg)
+![](04_Resources/Assets/Locations/location-city-memory-farmers-memory-farmers.svg)
 
 
 

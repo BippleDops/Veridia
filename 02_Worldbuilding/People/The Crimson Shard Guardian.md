@@ -23,7 +23,7 @@ cr: '18'
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-crimson-shard-guardian-the-crimson-shard-guardian.svg)
 
 
 

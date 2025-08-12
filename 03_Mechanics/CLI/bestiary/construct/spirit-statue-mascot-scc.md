@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-spirit-statue-mascot-scc-spirit-statue-mascot-scc.svg)
 
 # [Spirit Statue Mascot](3-Mechanics\CLI\bestiary\construct/spirit-statue-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 216*  

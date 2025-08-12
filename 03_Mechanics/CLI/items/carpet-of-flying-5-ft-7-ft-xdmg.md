@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-carpet-of-flying-5-ft-7-ft-xdmg-carpet-of-flying-5-ft-7-ft-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-carpet-of-flying-5-ft-7-ft-xdmg-carpet-of-flying-5-ft-7-ft-xdmg.svg)
 
 # Carpet of Flying, 5 ft. × 7 ft.
 *Wondrous item, very rare*  

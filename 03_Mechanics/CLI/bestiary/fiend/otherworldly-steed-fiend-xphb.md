@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-otherworldly-steed-fiend-xphb-otherworldly-steed-fiend-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fiend-xphb-otherworldly-steed-fiend-xphb.svg)
 
 # [Otherworldly Steed (Fiend)](3-Mechanics\CLI\bestiary\fiend/otherworldly-steed-fiend-xphb.md)
 *Source: Player's Handbook (2024) p. 273*  

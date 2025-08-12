@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-empyrean-iota-xmm-empyrean-iota-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-empyrean-iota-xmm-empyrean-iota-xmm.svg)
 
 # [Empyrean Iota](3-Mechanics\CLI\bestiary\miscellaneous/empyrean-iota-xmm.md)
 *Source: Monster Manual (2024) p. 112*  

@@ -1,0 +1,40 @@
+{
+  "id": "map-bioluminescent-forest-ambush-v1",
+  "type": "map",
+  "name": "Bioluminescent Forest Ambush",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Top-down tactical map: Bioluminescent Forest Ambush, 15x15 squares at 140 px per square (140 DPI), 15x15, distinct patterns for passable / impassable / difficult, collapses, rips, currents; marked clearly, multiple routes and flanking options, ramps, stairs, ledges, or contour lines, bold lines for walls/obstacles; fine lines for textures; high-contrast grid, icons only; no text labels; VTT-ready export, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., No embedded text labels; use icons and clear linework only. Reserve clean margins and text-safe areas for VTT overlays. Render grid and numeric ticks crisply; avoid stylized fonts entirely., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7008,
+  "alt_text": "Top-down tactical map of Bioluminescent Forest Ambush.",
+  "realm": "aquabyssos",
+  "dpi": 140,
+  "grid": "15x15",
+  "vtt": {
+    "format": "Foundry",
+    "tileSize": 140,
+    "textPolicy": "no text; overlays only"
+  },
+  "levels": 2,
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A medieval fantasy tactical map painted in a consistent, artistic style. The setting is a bioluminescent forest ambush in a 15x15 top-down grid, each square being 140 pixels. It's important to see clear differences between passable, impassable, and difficult terrains including collapses, rips, and currents. The map offers multiple routes and flanking options, possibly including ramps, stairs, ledges or contour lines. Obstacles and walls are distinguished by bold lines, while textures use fine lines in a high-contrast grid. The overall scene is painted in deep underwater hues, including teals, deep blues, sea-greens, and pearl highlights, providing an aquatic fantasy realism touch with subtle bioluminescent accents. No text labels nor stylized fonts are to be used; instead symbols, icons and numbered pins mark key points. The style avoids modern signs, perceived photo-real CGI, anime style, and bloom glare. The edges of the map are left clean for possible virtual tabletop overlays, and the entire image should demonstrate a high level of coherence and attention to detail.",
+  "file": "04_Resources/Assets/Maps/map-map-bioluminescent-forest-ambush-v1-bioluminescent-forest-ambush.png"
+}

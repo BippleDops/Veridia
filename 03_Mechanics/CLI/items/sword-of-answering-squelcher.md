@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-sword-of-answering-squelcher-sword-of-answering-squelcher.svg)
+![](04_Resources/Assets/Items/item-artifact-sword-of-answering-squelcher-sword-of-answering-squelcher.svg)
 
 # Sword of Answering (Squelcher)
 *Weapon ([longsword](/03_Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement by a neutral evil creature)*  

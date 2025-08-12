@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-iron-pot-xphb-iron-pot-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-iron-pot-xphb-iron-pot-xphb.svg)
 
 # Iron Pot
 *Adventuring gear*  

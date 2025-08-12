@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-bexley-port-authority-bexley-port-authority.svg)
 
 
 

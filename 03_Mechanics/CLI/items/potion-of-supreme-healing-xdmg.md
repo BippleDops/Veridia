@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-potion-of-supreme-healing-xdmg-potion-of-supreme-healing-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-potion-of-supreme-healing-xdmg-potion-of-supreme-healing-xdmg.svg)
 
 # Potion of Supreme Healing
 *Potion, very rare*  

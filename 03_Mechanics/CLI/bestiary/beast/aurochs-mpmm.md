@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aurochs-mpmm-aurochs-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aurochs-mpmm-aurochs-mpmm.svg)
 
 # [Aurochs](3-Mechanics\CLI\bestiary\beast/aurochs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 207*  

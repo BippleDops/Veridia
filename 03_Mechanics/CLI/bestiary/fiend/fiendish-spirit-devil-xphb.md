@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fiendish-spirit-devil-xphb-fiendish-spirit-devil-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-devil-xphb-fiendish-spirit-devil-xphb.svg)
 
 # [Fiendish Spirit (Devil)](3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-devil-xphb.md)
 *Source: Player's Handbook (2024) p. 327*  

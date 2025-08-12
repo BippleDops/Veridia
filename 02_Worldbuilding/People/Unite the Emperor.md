@@ -10,7 +10,7 @@ type: NPC
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-unite-the-emperor-unite-the-emperor.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-unite-the-emperor-unite-the-emperor.svg)
 
 
 

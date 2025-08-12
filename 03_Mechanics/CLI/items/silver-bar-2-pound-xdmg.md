@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-silver-bar-2-pound-xdmg-silver-bar-2-pound-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-silver-bar-2-pound-xdmg-silver-bar-2-pound-xdmg.svg)
 
 # Silver Bar (2-pound)
 *Trade bar*  

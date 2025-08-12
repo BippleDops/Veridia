@@ -11,7 +11,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-vault-keeper-eternal-vault-keeper-eternal.svg)
+![](04_Resources/Assets/Locations/location-city-vault-keeper-eternal-vault-keeper-eternal.svg)
 
 
 

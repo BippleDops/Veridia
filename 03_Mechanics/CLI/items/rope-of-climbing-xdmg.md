@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-rope-of-climbing-xdmg-rope-of-climbing-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-rope-of-climbing-xdmg-rope-of-climbing-xdmg.svg)
 
 # Rope of Climbing
 *Wondrous item, uncommon*  

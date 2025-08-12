@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg)
+![](04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg)
 
 
 

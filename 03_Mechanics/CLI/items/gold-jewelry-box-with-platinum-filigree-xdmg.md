@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-gold-jewelry-box-with-platinum-filigree-xdmg-gold-jewelry-box-with-platinum-filigree-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-gold-jewelry-box-with-platinum-filigree-xdmg-gold-jewelry-box-with-platinum-filigree-xdmg.svg)
 
 # Gold jewelry box with platinum filigree
 *Treasure (art object)*  

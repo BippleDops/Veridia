@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sword-wraith-commander-mpmm-sword-wraith-commander-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-commander-mpmm-sword-wraith-commander-mpmm.svg)
 
 # [Sword Wraith Commander](3-Mechanics\CLI\bestiary\undead/sword-wraith-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  

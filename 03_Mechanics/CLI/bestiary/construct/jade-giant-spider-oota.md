@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-jade-giant-spider-oota-jade-giant-spider-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-jade-giant-spider-oota-jade-giant-spider-oota.svg)
 
 # [Jade Giant Spider](3-Mechanics\CLI\bestiary\construct/jade-giant-spider-oota.md)
 *Source: Out of the Abyss p. 201*  

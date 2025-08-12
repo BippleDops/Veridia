@@ -12,7 +12,7 @@ updated: 2025-08-11
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg)
 
 
 

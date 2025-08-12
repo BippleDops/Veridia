@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-annis-hag-mpmm-annis-hag-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-annis-hag-mpmm-annis-hag-mpmm.svg)
 
 # [Annis Hag](3-Mechanics\CLI\bestiary\fey/annis-hag-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*  

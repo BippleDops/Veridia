@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-blink-dog-xmm-blink-dog-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-blink-dog-xmm-blink-dog-xmm.svg)
 
 # [Blink Dog](3-Mechanics\CLI\bestiary\fey/blink-dog-xmm.md)
 *Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

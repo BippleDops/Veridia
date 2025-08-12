@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-olhydra-pota-olhydra-pota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-olhydra-pota-olhydra-pota.svg)
 
 # Olhydra
 

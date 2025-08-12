@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-brazen-gorgon-xmm-brazen-gorgon-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-brazen-gorgon-xmm-brazen-gorgon-xmm.svg)
 
 # [Brazen Gorgon](3-Mechanics\CLI\bestiary\construct/brazen-gorgon-xmm.md)
 *Source: Monster Manual (2024) p. 149*  

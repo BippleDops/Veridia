@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)
+![](04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)
 
 # [Hound of Ill Omen](3-Mechanics\CLI\bestiary\monstrosity/hound-of-ill-omen-xge.md)
 *Source: Xanathar's Guide to Everything p. 50*  

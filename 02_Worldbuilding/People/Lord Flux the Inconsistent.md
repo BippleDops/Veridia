@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg)
 
 
 

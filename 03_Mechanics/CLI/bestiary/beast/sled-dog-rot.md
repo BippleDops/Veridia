@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sled-dog-rot-sled-dog-rot.svg)
+![](04_Resources/Assets/Creatures/creature-creature-sled-dog-rot-sled-dog-rot.svg)
 
 # [Sled Dog](3-Mechanics\CLI\bestiary\beast/sled-dog-rot.md)
 *Source: The Rise of Tiamat p. 27*  

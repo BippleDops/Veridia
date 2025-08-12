@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-larva-xmm-larva-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-larva-xmm-larva-xmm.svg)
 
 # [Larva](3-Mechanics\CLI\bestiary\fiend/larva-xmm.md)
 *Source: Monster Manual (2024) p. 193*  

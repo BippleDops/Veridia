@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-velociraptor-mpmm-v1-velociraptor-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-velociraptor-mpmm-v1-velociraptor-mpmm.svg)
 
 # [Velociraptor](3-Mechanics\CLI\bestiary\beast/velociraptor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  

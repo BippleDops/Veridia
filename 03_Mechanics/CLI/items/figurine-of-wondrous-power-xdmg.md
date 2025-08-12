@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-figurine-of-wondrous-power-xdmg-figurine-of-wondrous-power-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-figurine-of-wondrous-power-xdmg-figurine-of-wondrous-power-xdmg.svg)
 
 # Figurine of Wondrous Power
 *Wondrous item*  

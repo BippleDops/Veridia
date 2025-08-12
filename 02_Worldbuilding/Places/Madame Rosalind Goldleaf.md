@@ -31,7 +31,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg)
+![](04_Resources/Assets/Locations/location-city-madame-rosalind-goldleaf-madame-rosalind-goldleaf.svg)
 
 
 

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-sheep-xdmg-sheep-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-sheep-xdmg-sheep-xdmg.svg)
 
 # Sheep
 *Trade good*  

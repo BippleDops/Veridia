@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-infant-basilisk-oota-infant-basilisk-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-infant-basilisk-oota-infant-basilisk-oota.svg)
 
 # [Infant Basilisk](3-Mechanics\CLI\bestiary\monstrosity/infant-basilisk-oota.md)
 *Source: Out of the Abyss p. 100*  

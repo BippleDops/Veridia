@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-deep-rothe-mpmm-deep-rothe-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-deep-rothe-mpmm-deep-rothe-mpmm.svg)
 
 # [Deep Rothé](3-Mechanics\CLI\bestiary\beast/deep-rothe-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*  

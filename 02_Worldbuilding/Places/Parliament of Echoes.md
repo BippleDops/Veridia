@@ -25,7 +25,7 @@ type: Location
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
+![](04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png)
 
 
 

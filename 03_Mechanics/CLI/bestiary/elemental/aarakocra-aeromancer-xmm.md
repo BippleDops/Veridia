@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aarakocra-aeromancer-xmm-aarakocra-aeromancer-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aarakocra-aeromancer-xmm-aarakocra-aeromancer-xmm.svg)
 
 # [Aarakocra Aeromancer](3-Mechanics\CLI\bestiary\elemental/aarakocra-aeromancer-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

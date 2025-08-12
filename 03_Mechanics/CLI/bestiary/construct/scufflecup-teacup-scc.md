@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-scufflecup-teacup-scc-scufflecup-teacup-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-scufflecup-teacup-scc-scufflecup-teacup-scc.svg)
 
 # [Scufflecup Teacup](3-Mechanics\CLI\bestiary\construct/scufflecup-teacup-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 159*  

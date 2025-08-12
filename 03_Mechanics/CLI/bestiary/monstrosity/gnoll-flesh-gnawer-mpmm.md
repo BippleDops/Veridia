@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-gnoll-flesh-gnawer-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-gnoll-flesh-gnawer-mpmm.svg)
 
 # [Gnoll Flesh Gnawer](3-Mechanics\CLI\bestiary\monstrosity/gnoll-flesh-gnawer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  

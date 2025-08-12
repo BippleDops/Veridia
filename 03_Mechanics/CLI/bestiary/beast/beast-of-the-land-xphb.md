@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-beast-of-the-land-xphb-beast-of-the-land-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-land-xphb-beast-of-the-land-xphb.svg)
 
 # [Beast of the Land](3-Mechanics\CLI\bestiary\beast/beast-of-the-land-xphb.md)
 *Source: Player's Handbook (2024) p. 123*  

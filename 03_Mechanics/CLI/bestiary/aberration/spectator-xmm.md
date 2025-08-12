@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-spectator-xmm-spectator-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-spectator-xmm-spectator-xmm.svg)
 
 # [Spectator](3-Mechanics\CLI\bestiary\aberration/spectator-xmm.md)
 *Source: Monster Manual (2024) p. 289*  

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gray-render-mpmm-gray-render-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gray-render-mpmm-gray-render-mpmm.svg)
 
 # [Gray Render](3-Mechanics\CLI\bestiary\monstrosity/gray-render-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146, Mordenkainen's Tome of Foes p. 209*  

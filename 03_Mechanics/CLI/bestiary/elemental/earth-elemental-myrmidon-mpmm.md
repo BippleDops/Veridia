@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-earth-elemental-myrmidon-mpmm-earth-elemental-myrmidon-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-myrmidon-mpmm-earth-elemental-myrmidon-mpmm.svg)
 
 # [Earth Elemental Myrmidon](3-Mechanics\CLI\bestiary\elemental/earth-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  

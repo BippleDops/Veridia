@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-wretched-sorrowsworn-mpmm-wretched-sorrowsworn-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-wretched-sorrowsworn-mpmm-wretched-sorrowsworn-mpmm.svg)
 
 # [Wretched Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/wretched-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  

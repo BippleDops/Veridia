@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-illithilich-vgm-illithilich-vgm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-illithilich-vgm-illithilich-vgm.svg)
 
 # [Illithilich](3-Mechanics\CLI\bestiary\undead/illithilich-vgm.md)
 *Source: Volo's Guide to Monsters p. 172*  

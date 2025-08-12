@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-spell-gem-ruby-oota-spell-gem-ruby-oota.svg)
+![](04_Resources/Assets/Items/item-artifact-spell-gem-ruby-oota-spell-gem-ruby-oota.svg)
 
 # Spell Gem (Ruby)
 *Wondrous item, legendary (attunement optional)*  

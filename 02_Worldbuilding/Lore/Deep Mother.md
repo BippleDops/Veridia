@@ -21,7 +21,7 @@ updated: 2025-08-11
 
 
 > [!figure] Scene
-![](04_Resources/Assets/Generated/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png)
+![](04_Resources/Assets/Scenes/scene-scene-deep-mother-s-tentacles-rising-deep-mother-s-tentacles-rising.png)
 
 
 

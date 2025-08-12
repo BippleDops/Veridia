@@ -28,7 +28,7 @@ related_entities:
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg)
+![](04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg)
 
 
 

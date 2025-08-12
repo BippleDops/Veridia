@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-guardian-portrait-cos-guardian-portrait-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-guardian-portrait-cos-guardian-portrait-cos.svg)
 
 # [Guardian Portrait](3-Mechanics\CLI\bestiary\construct/guardian-portrait-cos.md)
 *Source: Curse of Strahd p. 227*  

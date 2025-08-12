@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-nabassu-mpmm-nabassu-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-nabassu-mpmm-nabassu-mpmm.svg)
 
 # [Nabassu](3-Mechanics\CLI\bestiary\fiend/nabassu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188, Mordenkainen's Tome of Foes p. 135*  

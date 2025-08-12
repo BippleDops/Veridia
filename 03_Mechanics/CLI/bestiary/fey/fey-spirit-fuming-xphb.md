@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fey-spirit-fuming-xphb-fey-spirit-fuming-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-fuming-xphb-fey-spirit-fuming-xphb.svg)
 
 # [Fey Spirit (Fuming)](3-Mechanics\CLI\bestiary\fey/fey-spirit-fuming-xphb.md)
 *Source: Player's Handbook (2024) p. 326*  

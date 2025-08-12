@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-modron-quadrone-xmm-modron-quadrone-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-modron-quadrone-xmm-modron-quadrone-xmm.svg)
 
 # [Modron Quadrone](3-Mechanics\CLI\bestiary\construct/modron-quadrone-xmm.md)
 *Source: Monster Manual (2024) p. 218*  

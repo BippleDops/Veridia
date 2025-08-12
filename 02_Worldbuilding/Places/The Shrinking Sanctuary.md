@@ -34,7 +34,7 @@ related_entities:
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg)
+![](04_Resources/Assets/Locations/location-city-the-shrinking-sanctuary-the-shrinking-sanctuary.svg)
 
 
 

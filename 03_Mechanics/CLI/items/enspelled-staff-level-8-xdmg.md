@@ -18,7 +18,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-level-8-xdmg-enspelled-staff-level-8-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-enspelled-staff-level-8-xdmg-enspelled-staff-level-8-xdmg.svg)
 
 # Enspelled Staff (Level 8)
 *Staff, weapon, legendary (requires attunement by a Spellcaster)*  

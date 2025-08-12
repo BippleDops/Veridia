@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aberrant-spirit-xphb-aberrant-spirit-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-xphb-aberrant-spirit-xphb.svg)
 
 # [Aberrant Spirit](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  

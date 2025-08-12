@@ -24,7 +24,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-hobgoblin-warrior-xmm-hobgoblin-warrior-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-warrior-xmm-hobgoblin-warrior-xmm.svg)
 
 # [Hobgoblin Warrior](3-Mechanics\CLI\bestiary\fey/hobgoblin-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

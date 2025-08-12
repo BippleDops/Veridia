@@ -20,7 +20,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-elder-matthias-stoneward-elder-matthias-stoneward.svg)
+![](04_Resources/Assets/Locations/location-city-elder-matthias-stoneward-elder-matthias-stoneward.svg)
 
 
 

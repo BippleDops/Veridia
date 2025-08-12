@@ -11,7 +11,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-memoriam-the-forgotten-continent-memoriam-the-forgotten-continent.svg)
+![](04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-memoriam-the-forgotten-continent.svg)
 
 
 

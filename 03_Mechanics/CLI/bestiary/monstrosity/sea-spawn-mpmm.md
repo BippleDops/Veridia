@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sea-spawn-mpmm-sea-spawn-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-sea-spawn-mpmm-sea-spawn-mpmm.svg)
 
 # [Sea Spawn](3-Mechanics\CLI\bestiary\monstrosity/sea-spawn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189*  

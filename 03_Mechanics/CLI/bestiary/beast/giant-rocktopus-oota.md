@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-rocktopus-oota-giant-rocktopus-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-rocktopus-oota-giant-rocktopus-oota.svg)
 
 # [Giant Rocktopus](3-Mechanics\CLI\bestiary\beast/giant-rocktopus-oota.md)
 *Source: Out of the Abyss p. 28*  

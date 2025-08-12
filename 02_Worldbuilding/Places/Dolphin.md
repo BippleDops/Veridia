@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-dolphin-mpmm-dolphin-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-dolphin-mpmm-dolphin-mpmm.svg)
 
 
 

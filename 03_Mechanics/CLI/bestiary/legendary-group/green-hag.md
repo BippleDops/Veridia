@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-green-hag-green-hag.svg)
+![](04_Resources/Assets/Creatures/creature-creature-green-hag-green-hag.svg)
 
 # Green Hag
 

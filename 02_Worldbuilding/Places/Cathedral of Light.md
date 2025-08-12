@@ -31,7 +31,7 @@ updated: 2025-08-12
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-cathedral-of-light-cathedral-of-light.png)
+![](04_Resources/Assets/Locations/location-city-cathedral-of-light-cathedral-of-light.png)
 
 
 

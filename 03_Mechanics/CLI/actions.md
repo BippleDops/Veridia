@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-uniting-the-factions-uniting-the-factions.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-uniting-the-factions-uniting-the-factions.svg)
 
 # Actions
 

@@ -22,7 +22,7 @@ danger_level: High
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-synthesis-gardens-the-synthesis-gardens.svg)
+![](04_Resources/Assets/Locations/location-city-the-synthesis-gardens-the-synthesis-gardens.svg)
 
 
 

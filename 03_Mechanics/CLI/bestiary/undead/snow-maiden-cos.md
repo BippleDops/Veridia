@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-snow-maiden-cos-snow-maiden-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-snow-maiden-cos-snow-maiden-cos.svg)
 
 # [Snow Maiden](3-Mechanics\CLI\bestiary\undead/snow-maiden-cos.md)
 *Source: Curse of Strahd p. 159*  

@@ -11,7 +11,7 @@ cr: '15'
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg)
 
 
 

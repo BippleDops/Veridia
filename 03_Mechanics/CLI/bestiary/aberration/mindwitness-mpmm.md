@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-mindwitness-mpmm-mindwitness-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-mindwitness-mpmm-mindwitness-mpmm.svg)
 
 # [Mindwitness](3-Mechanics\CLI\bestiary\aberration/mindwitness-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  

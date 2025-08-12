@@ -12,7 +12,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-grand-bazaar-of-echoing-coins-the-grand-bazaar-of-echoing-coins.svg)
+![](04_Resources/Assets/Locations/location-city-the-grand-bazaar-of-echoing-coins-the-grand-bazaar-of-echoing-coins.svg)
 
 
 

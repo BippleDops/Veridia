@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-myconid-spore-servant-xmm-myconid-spore-servant-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-myconid-spore-servant-xmm-myconid-spore-servant-xmm.svg)
 
 # [Myconid Spore Servant](3-Mechanics\CLI\bestiary\plant/myconid-spore-servant-xmm.md)
 *Source: Monster Manual (2024) p. 223*  

@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gnoll-fang-of-yeenoghu-xmm-gnoll-fang-of-yeenoghu-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gnoll-fang-of-yeenoghu-xmm-gnoll-fang-of-yeenoghu-xmm.svg)
 
 # [Gnoll Fang of Yeenoghu](3-Mechanics\CLI\bestiary\fiend/gnoll-fang-of-yeenoghu-xmm.md)
 *Source: Monster Manual (2024) p. 141*  

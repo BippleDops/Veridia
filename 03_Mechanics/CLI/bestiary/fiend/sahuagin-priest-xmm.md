@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sahuagin-priest-xmm-sahuagin-priest-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-sahuagin-priest-xmm-sahuagin-priest-xmm.svg)
 
 # [Sahuagin Priest](3-Mechanics\CLI\bestiary\fiend/sahuagin-priest-xmm.md)
 *Source: Monster Manual (2024) p. 265*  

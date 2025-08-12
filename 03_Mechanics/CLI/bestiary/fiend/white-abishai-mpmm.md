@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-white-abishai-mpmm-v1-white-abishai-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-white-abishai-mpmm-v1-white-abishai-mpmm.svg)
 
 # [White Abishai](3-Mechanics\CLI\bestiary\fiend/white-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  

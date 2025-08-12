@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-phantom-warrior-cos-phantom-warrior-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-cos-phantom-warrior-cos.svg)
 
 # [Phantom Warrior](3-Mechanics\CLI\bestiary\undead/phantom-warrior-cos.md)
 *Source: Curse of Strahd p. 235*  

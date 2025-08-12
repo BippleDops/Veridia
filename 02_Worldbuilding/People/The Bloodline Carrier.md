@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-bloodline-carrier-the-bloodline-carrier.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-bloodline-carrier-the-bloodline-carrier.svg)
 
 
 

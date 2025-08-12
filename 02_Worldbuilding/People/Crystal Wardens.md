@@ -28,7 +28,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-crystal-wardens-crystal-wardens.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-crystal-wardens-crystal-wardens.svg)
 
 
 

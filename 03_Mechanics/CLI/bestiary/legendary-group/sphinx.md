@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sphinx-of-lore-xmm-sphinx-of-lore-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-lore-xmm-sphinx-of-lore-xmm.svg)
 
 # Sphinx
 

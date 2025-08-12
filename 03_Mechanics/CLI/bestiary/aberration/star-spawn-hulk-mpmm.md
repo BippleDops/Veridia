@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-star-spawn-hulk-mpmm-star-spawn-hulk-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-star-spawn-hulk-mpmm-star-spawn-hulk-mpmm.svg)
 
 # [Star Spawn Hulk](3-Mechanics\CLI\bestiary\aberration/star-spawn-hulk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227, Mordenkainen's Tome of Foes p. 234*  

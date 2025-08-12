@@ -12,7 +12,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-thalassa-lightbringer-thalassa-lightbringer.png)
+![](04_Resources/Assets/Locations/location-city-thalassa-lightbringer-thalassa-lightbringer.png)
 
 
 

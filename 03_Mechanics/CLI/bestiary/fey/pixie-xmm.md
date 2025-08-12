@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-pixie-xmm-pixie-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-pixie-xmm-pixie-xmm.svg)
 
 # [Pixie](3-Mechanics\CLI\bestiary\fey/pixie-xmm.md)
 *Source: Monster Manual (2024) p. 244*  

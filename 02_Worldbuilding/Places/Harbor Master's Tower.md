@@ -12,7 +12,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-harbor-master-s-tower-harbor-master-s-tower.png)
+![](04_Resources/Assets/Locations/location-city-harbor-master-s-tower-harbor-master-s-tower.png)
 
 
 

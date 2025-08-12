@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-wood-woad-mpmm-v1-wood-woad-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-wood-woad-mpmm-v1-wood-woad-mpmm.svg)
 
 # [Wood Woad](3-Mechanics\CLI\bestiary\plant/wood-woad-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  

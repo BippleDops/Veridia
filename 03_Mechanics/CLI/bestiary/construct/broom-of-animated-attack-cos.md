@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-broom-of-animated-attack-cos-broom-of-animated-attack-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-broom-of-animated-attack-cos-broom-of-animated-attack-cos.svg)
 
 # [Broom of Animated Attack](3-Mechanics\CLI\bestiary\construct/broom-of-animated-attack-cos.md)
 *Source: Curse of Strahd p. 226*  

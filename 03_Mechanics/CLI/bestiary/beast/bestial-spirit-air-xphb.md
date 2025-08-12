@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-bestial-spirit-air-xphb-bestial-spirit-air-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-air-xphb-bestial-spirit-air-xphb.svg)
 
 # [Bestial Spirit (Air)](3-Mechanics\CLI\bestiary\beast/bestial-spirit-air-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  

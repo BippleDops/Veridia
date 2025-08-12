@@ -18,7 +18,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-revolver-xdmg-revolver-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-revolver-xdmg-revolver-xdmg.svg)
 
 # Revolver
 *Weapon*  

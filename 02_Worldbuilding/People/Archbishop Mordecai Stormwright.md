@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-archbishop-mordecai-stormwright-archbishop-mordecai-stormwright.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-archbishop-mordecai-stormwright-archbishop-mordecai-stormwright.svg)
 
 
 

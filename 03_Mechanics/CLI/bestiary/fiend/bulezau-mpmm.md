@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-bulezau-mpmm-bulezau-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-bulezau-mpmm-bulezau-mpmm.svg)
 
 # [Bulezau](3-Mechanics\CLI\bestiary\fiend/bulezau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67, Mordenkainen's Tome of Foes p. 131*  

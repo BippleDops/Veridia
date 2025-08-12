@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-clockwork-bronze-scout-mpmm-clockwork-bronze-scout-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-clockwork-bronze-scout-mpmm-clockwork-bronze-scout-mpmm.svg)
 
 # [Clockwork Bronze Scout](3-Mechanics\CLI\bestiary\construct/clockwork-bronze-scout-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  

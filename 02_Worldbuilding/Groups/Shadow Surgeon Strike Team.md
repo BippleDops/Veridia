@@ -27,7 +27,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgeon-strike-team-shadow-surgeon-strike-team.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-surgeon-strike-team-shadow-surgeon-strike-team.svg)
 
 
 

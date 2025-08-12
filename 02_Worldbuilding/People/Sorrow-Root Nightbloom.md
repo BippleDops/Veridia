@@ -26,7 +26,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-sorrow-root-nightbloom-sorrow-root-nightbloom.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-sorrow-root-nightbloom-sorrow-root-nightbloom.svg)
 
 
 

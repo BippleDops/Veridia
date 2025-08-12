@@ -10,7 +10,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fiend-fiend.svg)
+![](04_Resources/Assets/Creatures/creature-creature-fiend-fiend.svg)
 
 # Index of Fiend
 

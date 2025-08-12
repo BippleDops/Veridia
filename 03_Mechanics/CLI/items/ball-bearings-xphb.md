@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-ball-bearings-xphb-ball-bearings-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-ball-bearings-xphb-ball-bearings-xphb.svg)
 
 # Ball Bearings
 *Adventuring gear*  

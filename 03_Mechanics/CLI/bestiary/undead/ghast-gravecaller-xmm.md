@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg)
 
 # [Ghast Gravecaller](3-Mechanics\CLI\bestiary\undead/ghast-gravecaller-xmm.md)
 *Source: Monster Manual (2024) p. 130*  

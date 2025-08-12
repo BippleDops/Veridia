@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-berbalang-mpmm-berbalang-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-berbalang-mpmm-berbalang-mpmm.svg)
 
 # [Berbalang](3-Mechanics\CLI\bestiary\aberration/berbalang-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 61, Mordenkainen's Tome of Foes p. 120*  

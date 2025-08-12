@@ -43,7 +43,7 @@ themes:
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-master-artificers-guild-master-artificers-guild.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-master-artificers-guild-master-artificers-guild.svg)
 
 
 

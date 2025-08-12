@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ulitharid-mpmm-ulitharid-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ulitharid-mpmm-ulitharid-mpmm.svg)
 
 # [Ulitharid](3-Mechanics\CLI\bestiary\aberration/ulitharid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 249, Volo's Guide to Monsters p. 175*  

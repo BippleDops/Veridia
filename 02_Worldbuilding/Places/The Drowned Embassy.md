@@ -23,7 +23,7 @@ danger_level: High
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-drowned-embassy-the-drowned-embassy.svg)
+![](04_Resources/Assets/Locations/location-city-the-drowned-embassy-the-drowned-embassy.svg)
 
 
 

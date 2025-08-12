@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-spined-devil-xmm-spined-devil-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-spined-devil-xmm-spined-devil-xmm.svg)
 
 # [Spined Devil](3-Mechanics\CLI\bestiary\fiend/spined-devil-xmm.md)
 *Source: Monster Manual (2024) p. 296*  

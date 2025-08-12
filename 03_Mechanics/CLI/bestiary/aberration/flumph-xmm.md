@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-flumph-xmm-flumph-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-flumph-xmm-flumph-xmm.svg)
 
 # [Flumph](3-Mechanics\CLI\bestiary\aberration/flumph-xmm.md)
 *Source: Monster Manual (2024) p. 122*  

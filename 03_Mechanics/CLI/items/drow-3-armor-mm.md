@@ -32,7 +32,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-armor-mm-drow-3-armor-mm.svg)
+![](04_Resources/Assets/Items/item-artifact-drow-3-armor-mm-drow-3-armor-mm.svg)
 
 # Drow +3 Armor
 

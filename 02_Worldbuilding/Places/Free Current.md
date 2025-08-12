@@ -29,7 +29,7 @@ related_entities:
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-free-current-free-current.svg)
+![](04_Resources/Assets/Locations/location-city-free-current-free-current.svg)
 
 
 

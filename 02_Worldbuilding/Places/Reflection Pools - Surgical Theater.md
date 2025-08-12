@@ -29,7 +29,7 @@ obsidianUIMode: preview
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg)
+![](04_Resources/Assets/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg)
 
 
 

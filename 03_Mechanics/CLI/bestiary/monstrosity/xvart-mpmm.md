@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-xvart-mpmm-v1-xvart-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-xvart-mpmm-v1-xvart-mpmm.svg)
 
 # [Xvart](3-Mechanics\CLI\bestiary\monstrosity/xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  

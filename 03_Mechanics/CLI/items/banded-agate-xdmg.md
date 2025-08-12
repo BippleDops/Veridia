@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-banded-agate-xdmg-banded-agate-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-banded-agate-xdmg-banded-agate-xdmg.svg)
 
 # Banded Agate
 *Treasure (gemstone)*  

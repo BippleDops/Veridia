@@ -18,7 +18,7 @@ updated: 2025-08-12
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg)
 
 
 

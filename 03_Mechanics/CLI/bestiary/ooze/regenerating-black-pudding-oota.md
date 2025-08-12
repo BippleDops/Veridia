@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-regenerating-black-pudding-oota-regenerating-black-pudding-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-regenerating-black-pudding-oota-regenerating-black-pudding-oota.svg)
 
 # [Regenerating Black Pudding](3-Mechanics\CLI\bestiary\ooze/regenerating-black-pudding-oota.md)
 *Source: Out of the Abyss p. 211*  

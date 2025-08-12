@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-reszur-pota-reszur-pota.svg)
+![](04_Resources/Assets/Items/item-artifact-reszur-pota-reszur-pota.svg)
 
 # Reszur
 *Weapon ([dagger](/03_Mechanics/CLI/items/dagger-xphb.md)), uncommon*  

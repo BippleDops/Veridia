@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-dimetrodon-mpmm-dimetrodon-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-dimetrodon-mpmm-dimetrodon-mpmm.svg)
 
 # [Dimetrodon](3-Mechanics\CLI\bestiary\beast/dimetrodon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  

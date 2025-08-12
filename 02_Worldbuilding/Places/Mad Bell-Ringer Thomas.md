@@ -32,7 +32,7 @@ obsidianUIMode: preview
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-mad-bell-ringer-thomas-mad-bell-ringer-thomas.svg)
+![](04_Resources/Assets/Locations/location-city-mad-bell-ringer-thomas-mad-bell-ringer-thomas.svg)
 
 
 

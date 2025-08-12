@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-tyrannosaurus-rex-xmm-tyrannosaurus-rex-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-tyrannosaurus-rex-xmm-tyrannosaurus-rex-xmm.svg)
 
 # [Tyrannosaurus Rex](3-Mechanics\CLI\bestiary\beast/tyrannosaurus-rex-xmm.md)
 *Source: Monster Manual (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-bottled-breath-pota-bottled-breath-pota.svg)
+![](04_Resources/Assets/Items/item-artifact-bottled-breath-pota-bottled-breath-pota.svg)
 
 # Bottled Breath
 *Potion, uncommon*  

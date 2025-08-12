@@ -24,7 +24,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-meazel-mpmm-meazel-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-meazel-mpmm-meazel-mpmm.svg)
 
 # [Meazel](3-Mechanics\CLI\bestiary\monstrosity/meazel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 177, Mordenkainen's Tome of Foes p. 214*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg)
 
 # [Fey Spirit](3-Mechanics\CLI\bestiary\fey/fey-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 326*  

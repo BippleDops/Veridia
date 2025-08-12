@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-warhorse-xmm-v1-warhorse-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-warhorse-xmm-v1-warhorse-xmm.svg)
 
 # [Warhorse](3-Mechanics\CLI\bestiary\beast/warhorse-xmm.md)
 *Source: Monster Manual (2024) p. 373, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

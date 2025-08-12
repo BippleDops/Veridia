@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-shadow-mastiff-alpha-mpmm-shadow-mastiff-alpha-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-alpha-mpmm-shadow-mastiff-alpha-mpmm.svg)
 
 # [Shadow Mastiff Alpha](3-Mechanics\CLI\bestiary\monstrosity/shadow-mastiff-alpha-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  

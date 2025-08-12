@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ogre-howdah-mpmm-ogre-howdah-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ogre-howdah-mpmm-ogre-howdah-mpmm.svg)
 
 # [Ogre Howdah](3-Mechanics\CLI\bestiary\giant/ogre-howdah-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  

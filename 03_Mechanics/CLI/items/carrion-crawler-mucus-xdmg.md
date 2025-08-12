@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-carrion-crawler-mucus-xdmg-carrion-crawler-mucus-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-carrion-crawler-mucus-xdmg-carrion-crawler-mucus-xdmg.svg)
 
 # Carrion Crawler Mucus
 *Adventuring gear, poison (contact)*  

@@ -12,7 +12,7 @@ cr: '12'
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-tenebrarum-ambassadors-tenebrarum-ambassadors.svg)
 
 
 

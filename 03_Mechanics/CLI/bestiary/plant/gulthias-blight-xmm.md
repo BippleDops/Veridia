@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gulthias-blight-xmm-gulthias-blight-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gulthias-blight-xmm-gulthias-blight-xmm.svg)
 
 # [Gulthias Blight](3-Mechanics\CLI\bestiary\plant/gulthias-blight-xmm.md)
 *Source: Monster Manual (2024) p. 45*  

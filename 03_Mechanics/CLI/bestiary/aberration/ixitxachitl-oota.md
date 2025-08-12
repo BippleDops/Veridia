@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ixitxachitl-oota-ixitxachitl-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ixitxachitl-oota-ixitxachitl-oota.svg)
 
 # [Ixitxachitl](3-Mechanics\CLI\bestiary\aberration/ixitxachitl-oota.md)
 *Source: Out of the Abyss p. 225*  

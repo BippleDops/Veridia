@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-flensing-claws-medium-vgm-flensing-claws-medium-vgm.svg)
+![](04_Resources/Assets/Items/item-artifact-flensing-claws-medium-vgm-flensing-claws-medium-vgm.svg)
 
 # Flensing Claws (Medium)
 

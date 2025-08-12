@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-quaggoth-xmm-quaggoth-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-quaggoth-xmm-quaggoth-xmm.svg)
 
 # [Quaggoth](3-Mechanics\CLI\bestiary\monstrosity/quaggoth-xmm.md)
 *Source: Monster Manual (2024) p. 251*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg)
 
 # [Cogwork Archivist](3-Mechanics\CLI\bestiary\construct/cogwork-archivist-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 188*  

@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-saber-toothed-tiger-xmm-saber-toothed-tiger-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-saber-toothed-tiger-xmm-saber-toothed-tiger-xmm.svg)
 
 # [Saber-Toothed Tiger](3-Mechanics\CLI\bestiary\beast/saber-toothed-tiger-xmm.md)
 *Source: Monster Manual (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

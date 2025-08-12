@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-planetar-xmm-planetar-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-planetar-xmm-planetar-xmm.svg)
 
 # [Planetar](3-Mechanics\CLI\bestiary\celestial/planetar-xmm.md)
 *Source: Monster Manual (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

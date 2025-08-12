@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-rats-xmm-swarm-of-rats-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-swarm-of-rats-xmm-swarm-of-rats-xmm.svg)
 
 # [Swarm of Rats](3-Mechanics\CLI\bestiary\beast/swarm-of-rats-xmm.md)
 *Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

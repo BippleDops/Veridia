@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-gold-statuette-set-with-rubies-xdmg-gold-statuette-set-with-rubies-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-gold-statuette-set-with-rubies-xdmg-gold-statuette-set-with-rubies-xdmg.svg)
 
 # Gold statuette set with rubies
 *Treasure (art object)*  

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-water-weird-xmm-v1-water-weird-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-water-weird-xmm-v1-water-weird-xmm.svg)
 
 # [Water Weird](3-Mechanics\CLI\bestiary\elemental/water-weird-xmm.md)
 *Source: Monster Manual (2024) p. 323*  

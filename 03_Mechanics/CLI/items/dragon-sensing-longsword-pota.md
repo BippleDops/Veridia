@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-dragon-sensing-longsword-pota-dragon-sensing-longsword-pota.svg)
+![](04_Resources/Assets/Items/item-artifact-dragon-sensing-longsword-pota-dragon-sensing-longsword-pota.svg)
 
 # Dragon Sensing Longsword
 *Weapon ([longsword](/03_Mechanics/CLI/items/longsword-xphb.md))*  

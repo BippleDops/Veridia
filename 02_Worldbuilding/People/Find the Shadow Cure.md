@@ -19,7 +19,7 @@ cr: '7'
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)
 
 
 

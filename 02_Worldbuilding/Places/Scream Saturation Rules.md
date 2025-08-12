@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg)
+![](04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg)
 
 
 

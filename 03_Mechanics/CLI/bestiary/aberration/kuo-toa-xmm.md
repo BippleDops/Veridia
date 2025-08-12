@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-kuo-toa-xmm-kuo-toa-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-xmm-kuo-toa-xmm.svg)
 
 # [Kuo-toa](3-Mechanics\CLI\bestiary\aberration/kuo-toa-xmm.md)
 *Source: Monster Manual (2024) p. 189*  

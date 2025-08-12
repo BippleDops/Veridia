@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-potion-of-lightning-resistance-xdmg-potion-of-lightning-resistance-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-potion-of-lightning-resistance-xdmg-potion-of-lightning-resistance-xdmg.svg)
 
 # Potion of Lightning Resistance
 *Potion, uncommon*  

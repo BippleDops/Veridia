@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-groff-scc-groff-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-groff-scc-groff-scc.svg)
 
 # [Groff](3-Mechanics\CLI\bestiary\plant/groff-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 194*  

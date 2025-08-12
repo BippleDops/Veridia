@@ -23,7 +23,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-merchant-viktor-geargrind-merchant-viktor-geargrind.svg)
+![](04_Resources/Assets/Locations/location-city-merchant-viktor-geargrind-merchant-viktor-geargrind.svg)
 
 
 

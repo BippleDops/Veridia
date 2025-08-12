@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-envoy-blackwater-jr-envoy-blackwater-jr.svg)
 
 
 

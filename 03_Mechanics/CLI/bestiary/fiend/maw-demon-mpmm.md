@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.png)
+![](04_Resources/Assets/Creatures/creature-creature-maw-demon-mpmm-maw-demon-mpmm.png)
 
 # [Maw Demon](3-Mechanics\CLI\bestiary\fiend/maw-demon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  

@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-cave-fisher-mpmm-cave-fisher-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-cave-fisher-mpmm-cave-fisher-mpmm.svg)
 
 # [Cave Fisher](3-Mechanics\CLI\bestiary\monstrosity/cave-fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  

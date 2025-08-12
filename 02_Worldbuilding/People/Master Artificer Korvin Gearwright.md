@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg)
 
 
 

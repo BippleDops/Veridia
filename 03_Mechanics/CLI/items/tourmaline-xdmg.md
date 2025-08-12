@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-tourmaline-xdmg-tourmaline-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-tourmaline-xdmg-tourmaline-xdmg.svg)
 
 # Tourmaline
 *Treasure (gemstone)*  

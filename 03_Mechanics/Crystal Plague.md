@@ -11,7 +11,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg)
 
 
 

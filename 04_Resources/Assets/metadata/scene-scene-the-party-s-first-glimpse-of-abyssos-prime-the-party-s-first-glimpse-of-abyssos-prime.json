@@ -1,0 +1,32 @@
+{
+  "id": "scene-the-party-s-first-glimpse-of-abyssos-prime",
+  "type": "scene",
+  "name": "The party's first glimpse of Abyssos Prime",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Atmospheric scene: The party's first glimpse of Abyssos Prime, clear narrative focal point, atmospheric VFX support, cinematic light shaping, high-fidelity illustration, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2001,
+  "alt_text": "Atmospheric illustration of: The party's first glimpse of Abyssos Prime.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a sublime, painterly styled depiction of a medieval fantasy scene. The narrative focal point is a party of adventurers getting their first glimpse of the aquatic city, Abyssos Prime. The city, saturated in teals, deep blues, and sea-greens, is alive with subsurface caustics and bioluminescent accents, giving it an almost magical aura. The characters wear culturally grounded gear, their equipment reflecting the medieval fantasy-elements with no signs of modern technology. Strong and cinematic lighting shapes the scene, further amplified by atmospheric visual effects. The city resides under a glistening pressure dome, with pearl highlights giving it a unique sheen. Care is taken to avoid modern signage or photo-real CGI. The symbols used are carefully chosen for their meaning and relevance, no garbled or random strings, and no anime style or bloom glare elements. The scene is punctuated by an unmistakable sense of thrilling expectancy, showcasing the high-fidelity illustration skills.",
+  "file": "04_Resources/Assets/Scenes/scene-scene-the-party-s-first-glimpse-of-abyssos-prime-the-party-s-first-glimpse-of-abyssos-prime.png"
+}

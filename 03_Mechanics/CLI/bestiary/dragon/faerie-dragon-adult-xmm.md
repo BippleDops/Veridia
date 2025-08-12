@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-faerie-dragon-adult-xmm-faerie-dragon-adult-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-faerie-dragon-adult-xmm-faerie-dragon-adult-xmm.svg)
 
 # [Faerie Dragon Adult](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-adult-xmm.md)
 *Source: Monster Manual (2024) p. 117*  

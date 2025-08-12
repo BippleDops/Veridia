@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-night-hag-xmm-night-hag-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-night-hag-xmm-night-hag-xmm.svg)
 
 # [Night Hag](3-Mechanics\CLI\bestiary\fiend/night-hag-xmm.md)
 *Source: Monster Manual (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

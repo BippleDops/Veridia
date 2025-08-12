@@ -31,7 +31,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-cast-off-armor-xdmg-cast-off-armor-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-cast-off-armor-xdmg-cast-off-armor-xdmg.svg)
 
 # Cast-Off Armor
 *Common*  

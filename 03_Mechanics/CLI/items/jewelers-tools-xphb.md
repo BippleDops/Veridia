@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-jewelers-tools-xphb-jewelers-tools-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-jewelers-tools-xphb-jewelers-tools-xphb.svg)
 
 # Jeweler's Tools
 *Artisan's tools*  

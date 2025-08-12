@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-grazzt-mtf-grazzt-mtf.svg)
+![](04_Resources/Assets/Creatures/creature-creature-grazzt-mtf-grazzt-mtf.svg)
 
 # Graz'zt
 

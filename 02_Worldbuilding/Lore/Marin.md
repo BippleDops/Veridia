@@ -11,7 +11,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Vehicle
-![](04_Resources/Assets/Generated/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.png)
+![](04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.png)
 
 
 

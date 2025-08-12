@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-cadaver-collector-mpmm-cadaver-collector-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-cadaver-collector-mpmm-cadaver-collector-mpmm.svg)
 
 # [Cadaver Collector](3-Mechanics\CLI\bestiary\construct/cadaver-collector-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68, Mordenkainen's Tome of Foes p. 122*  

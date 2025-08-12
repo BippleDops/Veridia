@@ -18,7 +18,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-whelm-xdmg-v1-whelm-xdmg.png)
+![](04_Resources/Assets/Items/item-artifact-whelm-xdmg-v1-whelm-xdmg.png)
 
 # Whelm
 *Weapon ([warhammer](/03_Mechanics/CLI/items/warhammer-xphb.md)), artifact (requires attunement by a dwarf or a creature attuned to a belt of dwarvenkind)*  

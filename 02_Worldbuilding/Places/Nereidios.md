@@ -24,7 +24,7 @@ type: Location
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-nereidios-nereidios.svg)
+![](04_Resources/Assets/Locations/location-city-nereidios-nereidios.svg)
 
 
 

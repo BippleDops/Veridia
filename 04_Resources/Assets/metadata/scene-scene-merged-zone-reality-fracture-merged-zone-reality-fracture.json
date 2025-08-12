@@ -1,0 +1,32 @@
+{
+  "id": "scene-merged-zone-reality-fracture",
+  "type": "scene",
+  "name": "Merged zone reality fracture",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Atmospheric scene: Merged zone reality fracture, clear narrative focal point, atmospheric VFX support, cinematic light shaping, high-fidelity illustration, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, cinematic atmosphere, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2004,
+  "alt_text": "Atmospheric illustration of: Merged zone reality fracture.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A heroic fantasy scene in the style of tabletop games like Dungeons and Dragons. The materials are grounded in medieval-fantasy, with culturally coherent gear and devoid of modern technological elements. The scene represents a reality fracture, merging different zones, providing a clear focal point in the narrative. Atmospheric visual effects enhance the scene's cinematic look with specifically shaped lights illuminating the high-fidelity illustrated setting. The scene is also inspired by an aquatic fantasy realism with subsurface caustics and bioluminescent accents. Materials akin to pressure-dome structures form part of this underwater fantasy. The color palette is dominated by teals, deep blues, sea-greens, and pearl highlights. The scene should portray an aspect/resolution with no artifacts. The scene is devoid of any readable signage or paragraphs, keeping any symbols meaningful or using numbered pins. The scene avoids any sci-fi UIs, modern signage, photoreal CGI, anime style, and bloom glare.",
+  "file": "04_Resources/Assets/Scenes/scene-scene-merged-zone-reality-fracture-merged-zone-reality-fracture.png"
+}

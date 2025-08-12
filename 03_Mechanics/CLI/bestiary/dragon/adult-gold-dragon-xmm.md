@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-gold-dragon-xmm-adult-gold-dragon-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-adult-gold-dragon-xmm-adult-gold-dragon-xmm.svg)
 
 # [Adult Gold Dragon](3-Mechanics\CLI\bestiary\dragon/adult-gold-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 145. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

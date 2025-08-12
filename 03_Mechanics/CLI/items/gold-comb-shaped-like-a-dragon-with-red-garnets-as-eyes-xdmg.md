@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg-gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg-gold-comb-shaped-like-a-dragon-with-red-garnets-as-eyes-xdmg.svg)
 
 # Gold comb shaped like a dragon with red garnets as eyes
 *Treasure (art object)*  

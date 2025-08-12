@@ -22,7 +22,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-troll-limb-xmm-troll-limb-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-troll-limb-xmm-troll-limb-xmm.svg)
 
 # [Troll Limb](3-Mechanics\CLI\bestiary\giant/troll-limb-xmm.md)
 *Source: Monster Manual (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

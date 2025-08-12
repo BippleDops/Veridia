@@ -29,7 +29,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-abyssal-cathedral-abyssal-cathedral.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-abyssal-cathedral-abyssal-cathedral.svg)
 
 
 

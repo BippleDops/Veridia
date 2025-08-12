@@ -1,6 +1,6 @@
 
 > [!figure] Asset
-![](04_Resources/Assets/Generated/Locations/location-city-maelstrom-palace-maelstrom-palace.svg)
+![](04_Resources/Assets/Locations/location-city-maelstrom-palace-maelstrom-palace.svg)
 
 
 

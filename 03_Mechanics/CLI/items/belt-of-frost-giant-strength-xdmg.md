@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-belt-of-frost-giant-strength-xdmg-belt-of-frost-giant-strength-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-belt-of-frost-giant-strength-xdmg-belt-of-frost-giant-strength-xdmg.svg)
 
 # Belt of Frost Giant Strength
 *Wondrous item, very rare (requires attunement)*  

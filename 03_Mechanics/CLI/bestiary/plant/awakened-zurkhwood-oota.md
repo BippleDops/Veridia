@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-awakened-zurkhwood-oota-awakened-zurkhwood-oota.svg)
 
 # [Awakened Zurkhwood](3-Mechanics\CLI\bestiary\plant/awakened-zurkhwood-oota.md)
 *Source: Out of the Abyss p. 230*  

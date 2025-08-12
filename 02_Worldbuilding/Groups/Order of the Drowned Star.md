@@ -10,7 +10,7 @@ type: Group
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-order-of-the-drowned-star-order-of-the-drowned-star.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-order-of-the-drowned-star-order-of-the-drowned-star.svg)
 
 
 

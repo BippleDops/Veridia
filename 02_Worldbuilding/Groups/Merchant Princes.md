@@ -11,7 +11,7 @@ type: Group
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-merchant-princes-merchant-princes.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-merchant-princes-merchant-princes.svg)
 
 
 

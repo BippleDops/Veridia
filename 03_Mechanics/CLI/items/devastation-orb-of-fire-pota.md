@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-devastation-orb-of-fire-pota-devastation-orb-of-fire-pota.svg)
+![](04_Resources/Assets/Items/item-artifact-devastation-orb-of-fire-pota-devastation-orb-of-fire-pota.svg)
 
 # Devastation Orb of Fire
 *Wondrous item, very rare*  

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-wand-of-conducting-xdmg-v1-wand-of-conducting-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-wand-of-conducting-xdmg-v1-wand-of-conducting-xdmg.svg)
 
 # Wand of Conducting
 *Wand, common*  

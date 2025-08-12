@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-elder-brain-mpmm-elder-brain-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-elder-brain-mpmm-elder-brain-mpmm.svg)
 
 # [Elder Brain](3-Mechanics\CLI\bestiary\aberration/elder-brain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173*  

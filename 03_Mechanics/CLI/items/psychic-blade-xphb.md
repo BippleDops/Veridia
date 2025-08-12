@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-psychic-blade-xphb-psychic-blade-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-psychic-blade-xphb-psychic-blade-xphb.svg)
 
 # Psychic Blade
 *Weapon*  

@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-lacedon-ghoul-xmm-lacedon-ghoul-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-lacedon-ghoul-xmm-lacedon-ghoul-xmm.svg)
 
 # [Lacedon Ghoul](3-Mechanics\CLI\bestiary\undead/lacedon-ghoul-xmm.md)
 *Source: Monster Manual (2024) p. 132*  

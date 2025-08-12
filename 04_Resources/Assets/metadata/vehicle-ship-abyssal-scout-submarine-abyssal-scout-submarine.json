@@ -1,0 +1,33 @@
+{
+  "id": "ship-abyssal-scout-submarine",
+  "type": "vehicle",
+  "name": "Abyssal Scout Submarine",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Blueprint cutaway: Abyssal Scout Submarine, top/side/cross-section/decks, ballast, pressure hulls, engines, crew, clean blueprint, fantasy nautical/aeronautical vernacular with realm materials, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, sturdy functional blueprint vernacular, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Use numbered callout pins (01, 02, 03…) instead of long text annotations. Include a clean legend area without rendering complex paragraphs., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "16:9",
+  "resolution": "3840x2160",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2002,
+  "alt_text": "Blueprint cutaway of Abyssal Scout Submarine.",
+  "realm": "aquabyssos",
+  "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Create an intricate and detailed medieval-fantasy blueprint of an Abyssal Scout Submarine from a tabletop fantasy game. The submarine should be illustrated from the top, side, and cross-section views showcasing various decks, ballast, pressure hulls and engines. On board should be a diverse crew of different descents and genders dressed in culturally coherent gear within the setting, with no modern technology involved. Use a consistent, painterly style reflecting materials from their realm and emphasizing aquatic fantasy realism. Illuminate the scene with subsurface caustics and bioluminescent accents. Primary colors should include teals, deep blues, sea-greens, with pearl highlights, capturing the depth and mystery of the sea. Include numbered callout pins (01, 02, 03…) in the diagram instead of long text annotations and avoid any unnecessary modern signs, sci-fi UIs, or photoreal effects. Essentially, ensure a clean, understandable, and functional diagram of the submarine with a dedicated area for a legend.",
+  "file": "04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.png"
+}

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-fly-xdmg-giant-fly-xdmg.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-fly-xdmg-giant-fly-xdmg.svg)
 
 # [Giant Fly](3-Mechanics\CLI\bestiary\beast/giant-fly-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 261*  

@@ -11,7 +11,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-port-meridian-market-square-port-meridian-market-square.svg)
+![](04_Resources/Assets/Locations/location-city-port-meridian-market-square-port-meridian-market-square.svg)
 
 
 

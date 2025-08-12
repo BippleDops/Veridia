@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-portable-ram-xphb-portable-ram-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-portable-ram-xphb-portable-ram-xphb.svg)
 
 # Portable Ram
 *Adventuring gear*  

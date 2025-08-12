@@ -27,7 +27,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg)
 
 
 

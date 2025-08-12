@@ -10,7 +10,7 @@ type: NPC
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg)
 
 
 

@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-lightbringer-lmop-lightbringer-lmop.svg)
+![](04_Resources/Assets/Items/item-artifact-lightbringer-lmop-lightbringer-lmop.svg)
 
 # Lightbringer
 *Weapon ([mace](/03_Mechanics/CLI/items/mace-xphb.md)), uncommon*  

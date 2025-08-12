@@ -65,7 +65,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-scattered-emperor-the-scattered-emperor.svg)
 
 
 

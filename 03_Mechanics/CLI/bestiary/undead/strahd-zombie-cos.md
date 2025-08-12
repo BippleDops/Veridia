@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-strahd-zombie-cos-strahd-zombie-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-strahd-zombie-cos-strahd-zombie-cos.svg)
 
 # [Strahd Zombie](3-Mechanics\CLI\bestiary\undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  

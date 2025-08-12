@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-brass-dragon-wyrmling-xmm-brass-dragon-wyrmling-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-brass-dragon-wyrmling-xmm-brass-dragon-wyrmling-xmm.svg)
 
 # [Brass Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/brass-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

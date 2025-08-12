@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-vine-blight-xmm-v1-vine-blight-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-vine-blight-xmm-v1-vine-blight-xmm.svg)
 
 # [Vine Blight](3-Mechanics\CLI\bestiary\plant/vine-blight-xmm.md)
 *Source: Monster Manual (2024) p. 44*  

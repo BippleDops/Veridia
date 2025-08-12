@@ -10,7 +10,7 @@ type: Group
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-temple-of-divine-order-temple-of-divine-order.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-temple-of-divine-order-temple-of-divine-order.svg)
 
 
 

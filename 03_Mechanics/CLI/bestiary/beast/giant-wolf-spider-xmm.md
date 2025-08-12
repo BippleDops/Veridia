@@ -21,7 +21,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-wolf-spider-xmm-giant-wolf-spider-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-wolf-spider-xmm-giant-wolf-spider-xmm.svg)
 
 # [Giant Wolf Spider](3-Mechanics\CLI\bestiary\beast/giant-wolf-spider-xmm.md)
 *Source: Monster Manual (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

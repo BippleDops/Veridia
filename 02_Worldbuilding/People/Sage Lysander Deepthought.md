@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg)
 
 
 

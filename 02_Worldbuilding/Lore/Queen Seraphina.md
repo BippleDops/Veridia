@@ -47,7 +47,7 @@ access_level: Royal Court Only
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-queen-seraphina-lumengarde-queen-seraphina-lumengarde.svg)
 
 
 

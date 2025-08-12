@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-prophet-nerida-voidgazer-prophet-nerida-voidgazer.svg)
 
 
 

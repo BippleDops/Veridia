@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ruin-grinder-scc-ruin-grinder-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ruin-grinder-scc-ruin-grinder-scc.svg)
 
 # [Ruin Grinder](3-Mechanics\CLI\bestiary\construct/ruin-grinder-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 211*  

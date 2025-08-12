@@ -17,7 +17,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg)
+![](04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg)
 
 
 

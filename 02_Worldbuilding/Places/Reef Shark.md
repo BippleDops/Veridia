@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-reef-shark-xmm-reef-shark-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-reef-shark-xmm-reef-shark-xmm.svg)
 
 
 

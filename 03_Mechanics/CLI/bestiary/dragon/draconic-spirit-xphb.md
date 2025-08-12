@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg)
 
 # [Draconic Spirit](3-Mechanics\CLI\bestiary\dragon/draconic-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  

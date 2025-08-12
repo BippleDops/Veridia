@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-broom-xmm-animated-broom-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-animated-broom-xmm-animated-broom-xmm.svg)
 
 # [Animated Broom](3-Mechanics\CLI\bestiary\construct/animated-broom-xmm.md)
 *Source: Monster Manual (2024) p. 16*  

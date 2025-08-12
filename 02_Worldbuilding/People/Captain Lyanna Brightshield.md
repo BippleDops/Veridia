@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-captain-lyanna-brightshield-captain-lyanna-brightshield.svg)
 
 
 

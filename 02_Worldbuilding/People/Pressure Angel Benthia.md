@@ -23,7 +23,7 @@ updated: 2025-08-11
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
+![](04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png)
 
 
 

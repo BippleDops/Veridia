@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-young-bronze-dragon-xmm-v1-young-bronze-dragon-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-young-bronze-dragon-xmm-v1-young-bronze-dragon-xmm.svg)
 
 # [Young Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/young-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

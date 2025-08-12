@@ -26,7 +26,7 @@ obsidianUIMode: preview
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-amnesia-gallery-amnesia-gallery.svg)
+![](04_Resources/Assets/Locations/location-city-amnesia-gallery-amnesia-gallery.svg)
 
 
 

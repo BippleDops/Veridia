@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-githyanki-dracomancer-xmm-githyanki-dracomancer-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-githyanki-dracomancer-xmm-githyanki-dracomancer-xmm.svg)
 
 # [Githyanki Dracomancer](3-Mechanics\CLI\bestiary\aberration/githyanki-dracomancer-xmm.md)
 *Source: Monster Manual (2024) p. 135*  

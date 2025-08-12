@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-yeth-hound-mpmm-v1-yeth-hound-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-yeth-hound-mpmm-v1-yeth-hound-mpmm.svg)
 
 # [Yeth Hound](3-Mechanics\CLI\bestiary\fey/yeth-hound-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  

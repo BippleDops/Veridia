@@ -24,7 +24,7 @@ type: Location
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-lumengarde-lumengarde.svg)
+![](04_Resources/Assets/Locations/location-city-lumengarde-lumengarde.svg)
 
 
 

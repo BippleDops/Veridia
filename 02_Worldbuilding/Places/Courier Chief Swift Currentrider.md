@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-courier-chief-swift-currentrider-courier-chief-swift-currentrider.svg)
+![](04_Resources/Assets/Locations/location-city-courier-chief-swift-currentrider-courier-chief-swift-currentrider.svg)
 
 
 

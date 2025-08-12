@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-knight-of-the-order-cos-knight-of-the-order-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-knight-of-the-order-cos-knight-of-the-order-cos.svg)
 
 # [Knight of the Order](3-Mechanics\CLI\bestiary\undead/knight-of-the-order-cos.md)
 *Source: Curse of Strahd p. 139*  

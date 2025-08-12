@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-putrid-xphb-undead-spirit-putrid-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-putrid-xphb-undead-spirit-putrid-xphb.svg)
 
 # [Undead Spirit (Putrid)](3-Mechanics\CLI\bestiary\undead/undead-spirit-putrid-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  

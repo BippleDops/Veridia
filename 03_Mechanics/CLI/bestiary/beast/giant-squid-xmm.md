@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-squid-xmm-giant-squid-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-squid-xmm-giant-squid-xmm.svg)
 
 # [Giant Squid](3-Mechanics\CLI\bestiary\beast/giant-squid-xmm.md)
 *Source: Monster Manual (2024) p. 360*  

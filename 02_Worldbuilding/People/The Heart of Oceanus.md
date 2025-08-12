@@ -28,7 +28,7 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg)
 
 
 

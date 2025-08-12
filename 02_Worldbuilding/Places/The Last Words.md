@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-last-words-the-last-words.svg)
+![](04_Resources/Assets/Locations/location-city-the-last-words-the-last-words.svg)
 
 
 

@@ -24,7 +24,7 @@ cr: '5'
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-archivist-mnemonic-the-forgotten-archivist-mnemonic-the-forgotten.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-archivist-mnemonic-the-forgotten-archivist-mnemonic-the-forgotten.svg)
 
 
 

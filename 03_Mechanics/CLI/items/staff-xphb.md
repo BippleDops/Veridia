@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-quarterstaff-xphb-quarterstaff-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-quarterstaff-xphb-quarterstaff-xphb.svg)
 
 # Staff
 *Staff, weapon, spellcasting focus*  

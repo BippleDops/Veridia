@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-brass-mug-with-jade-inlay-xdmg-brass-mug-with-jade-inlay-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-brass-mug-with-jade-inlay-xdmg-brass-mug-with-jade-inlay-xdmg.svg)
 
 # Brass mug with jade inlay
 *Treasure (art object)*  

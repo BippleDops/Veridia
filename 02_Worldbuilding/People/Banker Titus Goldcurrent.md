@@ -10,7 +10,7 @@ type: NPC
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg)
 
 
 

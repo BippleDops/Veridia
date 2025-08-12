@@ -17,7 +17,7 @@ status: draft
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg)
 
 
 

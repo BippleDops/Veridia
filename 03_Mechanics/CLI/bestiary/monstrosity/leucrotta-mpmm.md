@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-leucrotta-mpmm-leucrotta-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-leucrotta-mpmm-leucrotta-mpmm.svg)
 
 # [Leucrotta](3-Mechanics\CLI\bestiary\monstrosity/leucrotta-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  

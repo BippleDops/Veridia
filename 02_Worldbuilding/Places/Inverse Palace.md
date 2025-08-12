@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
+![](04_Resources/Assets/Locations/location-city-party-quarters-inverse-palace-party-quarters-inverse-palace.svg)
 
 
 

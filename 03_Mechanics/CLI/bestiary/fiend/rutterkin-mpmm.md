@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-rutterkin-mpmm-rutterkin-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-rutterkin-mpmm-rutterkin-mpmm.svg)
 
 # [Rutterkin](3-Mechanics\CLI\bestiary\fiend/rutterkin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 210, Mordenkainen's Tome of Foes p. 136*  

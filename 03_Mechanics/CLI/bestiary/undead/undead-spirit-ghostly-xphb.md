@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
 
 # [Undead Spirit (Ghostly)](3-Mechanics\CLI\bestiary\undead/undead-spirit-ghostly-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  

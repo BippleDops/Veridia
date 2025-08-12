@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg)
+![](04_Resources/Assets/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg)
 
 
 

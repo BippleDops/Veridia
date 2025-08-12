@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-oni-xmm-oni-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-oni-xmm-oni-xmm.svg)
 
 # [Oni](3-Mechanics\CLI\bestiary\fiend/oni-xmm.md)
 *Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

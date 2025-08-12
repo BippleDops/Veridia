@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-young-kruthik-mpmm-v1-young-kruthik-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-young-kruthik-mpmm-v1-young-kruthik-mpmm.svg)
 
 # [Young Kruthik](3-Mechanics\CLI\bestiary\monstrosity/young-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 168, Mordenkainen's Tome of Foes p. 211*  

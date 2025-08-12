@@ -26,7 +26,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-sir-marcus-dawnforge-sir-marcus-dawnforge.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-sir-marcus-dawnforge-sir-marcus-dawnforge.svg)
 
 
 

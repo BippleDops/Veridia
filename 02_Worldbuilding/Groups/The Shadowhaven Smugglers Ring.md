@@ -17,7 +17,7 @@ status: draft
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadowhaven-smugglers-ring-the-shadowhaven-smugglers-ring.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadowhaven-smugglers-ring-the-shadowhaven-smugglers-ring.svg)
 
 
 

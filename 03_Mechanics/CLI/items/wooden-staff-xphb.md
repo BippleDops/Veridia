@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-wooden-staff-xphb-v1-wooden-staff-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-wooden-staff-xphb-v1-wooden-staff-xphb.svg)
 
 # Wooden Staff
 *Weapon, spellcasting focus*  

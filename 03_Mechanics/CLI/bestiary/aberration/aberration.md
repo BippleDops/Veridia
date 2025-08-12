@@ -10,7 +10,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aberration-aberration.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aberration-aberration.svg)
 
 # Index of Aberration
 

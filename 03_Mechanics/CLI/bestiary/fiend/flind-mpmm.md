@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)
 
 # [Flind](3-Mechanics\CLI\bestiary\fiend/flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-flour-xdmg-flour-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-flour-xdmg-flour-xdmg.svg)
 
 # Flour
 *Trade good*  

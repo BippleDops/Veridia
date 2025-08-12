@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-korred-mpmm-korred-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-korred-mpmm-korred-mpmm.svg)
 
 # [Korred](3-Mechanics\CLI\bestiary\fey/korred-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  

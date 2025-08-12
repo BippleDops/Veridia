@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-astral-dreadnought-mpmm-astral-dreadnought-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-astral-dreadnought-mpmm-astral-dreadnought-mpmm.svg)
 
 # [Astral Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/astral-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51, Mordenkainen's Tome of Foes p. 117*  

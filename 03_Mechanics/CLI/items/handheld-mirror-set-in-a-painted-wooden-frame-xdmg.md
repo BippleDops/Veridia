@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-handheld-mirror-set-in-a-painted-wooden-frame-xdmg-handheld-mirror-set-in-a-painted-wooden-frame-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-handheld-mirror-set-in-a-painted-wooden-frame-xdmg-handheld-mirror-set-in-a-painted-wooden-frame-xdmg.svg)
 
 # Handheld mirror set in a painted wooden frame
 *Treasure (art object)*  

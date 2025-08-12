@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-ring-of-acid-resistance-xdmg-ring-of-acid-resistance-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-ring-of-acid-resistance-xdmg-ring-of-acid-resistance-xdmg.svg)
 
 # Ring of Acid Resistance
 *Ring, rare*  

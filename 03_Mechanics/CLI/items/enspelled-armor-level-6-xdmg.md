@@ -32,7 +32,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-armor-level-6-xdmg-enspelled-armor-level-6-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-enspelled-armor-level-6-xdmg-enspelled-armor-level-6-xdmg.svg)
 
 # Enspelled Armor (Level 6)
 *Legendary (requires attunement)*  

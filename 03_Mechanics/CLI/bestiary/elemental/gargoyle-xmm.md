@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gargoyle-xmm-gargoyle-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gargoyle-xmm-gargoyle-xmm.svg)
 
 # [Gargoyle](3-Mechanics\CLI\bestiary\elemental/gargoyle-xmm.md)
 *Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm.png)
+![](04_Resources/Assets/Creatures/creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm.png)
 
 # [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus-xmm.md)
 *Source: Monster Manual (2024) p. 126. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

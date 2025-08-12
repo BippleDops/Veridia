@@ -18,7 +18,7 @@ updated: 2025-08-12
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
 
 
 

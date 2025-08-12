@@ -26,7 +26,7 @@ obsidianUIMode: preview
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-alternative-path-fled-city-alternative-path-fled-city.svg)
+![](04_Resources/Assets/Locations/location-city-alternative-path-fled-city-alternative-path-fled-city.svg)
 
 
 

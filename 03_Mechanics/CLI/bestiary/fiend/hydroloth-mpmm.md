@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-hydroloth-mpmm-hydroloth-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-hydroloth-mpmm-hydroloth-mpmm.svg)
 
 # [Hydroloth](3-Mechanics\CLI\bestiary\fiend/hydroloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 158, Mordenkainen's Tome of Foes p. 249*  

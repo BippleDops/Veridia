@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gauth-mpmm-gauth-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gauth-mpmm-gauth-mpmm.svg)
 
 # [Gauth](3-Mechanics\CLI\bestiary\aberration/gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  

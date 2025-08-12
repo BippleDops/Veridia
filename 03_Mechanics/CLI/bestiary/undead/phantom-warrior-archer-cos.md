@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-phantom-warrior-archer-cos-phantom-warrior-archer-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-archer-cos-phantom-warrior-archer-cos.svg)
 
 # [Phantom Warrior (Archer)](3-Mechanics\CLI\bestiary\undead/phantom-warrior-archer-cos.md)
 *Source: Curse of Strahd p. 142*  

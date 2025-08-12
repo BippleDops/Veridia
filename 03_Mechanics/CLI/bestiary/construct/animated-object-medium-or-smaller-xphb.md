@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-object-medium-or-smaller-xphb-animated-object-medium-or-smaller-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-animated-object-medium-or-smaller-xphb-animated-object-medium-or-smaller-xphb.svg)
 
 # [Animated Object (Medium or Smaller)](3-Mechanics\CLI\bestiary\construct/animated-object-medium-or-smaller-xphb.md)
 *Source: Player's Handbook (2024) p. 240*  

@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-boggle-mpmm-boggle-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-boggle-mpmm-boggle-mpmm.svg)
 
 # [Boggle](3-Mechanics\CLI\bestiary\fey/boggle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*  

@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-nothic-xmm-nothic-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-nothic-xmm-nothic-xmm.svg)
 
 # [Nothic](3-Mechanics\CLI\bestiary\aberration/nothic-xmm.md)
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  

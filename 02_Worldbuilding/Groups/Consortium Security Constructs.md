@@ -27,7 +27,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-consortium-security-constructs-consortium-security-constructs.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-consortium-security-constructs-consortium-security-constructs.svg)
 
 
 

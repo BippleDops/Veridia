@@ -32,7 +32,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-armor-of-lightning-resistance-xdmg-armor-of-lightning-resistance-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-armor-of-lightning-resistance-xdmg-armor-of-lightning-resistance-xdmg.svg)
 
 # Armor of Lightning Resistance
 *Rare (requires attunement)*  

@@ -10,7 +10,7 @@ type: NPC
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-shadow-broker-mist-shadow-broker-mist.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-shadow-broker-mist-shadow-broker-mist.svg)
 
 
 

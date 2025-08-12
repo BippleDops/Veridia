@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] Map
-![](04_Resources/Assets/Generated/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg)
+![](04_Resources/Assets/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg)
 
 
 

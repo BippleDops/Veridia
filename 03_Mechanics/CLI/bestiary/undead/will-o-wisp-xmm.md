@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-will-o-wisp-xmm-v1-will-o-wisp-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-will-o-wisp-xmm-v1-will-o-wisp-xmm.svg)
 
 # [Will-o'-Wisp](3-Mechanics\CLI\bestiary\undead/will-o-wisp-xmm.md)
 *Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

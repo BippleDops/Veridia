@@ -27,7 +27,7 @@ primary_effects: Dimensional instability and reality distortion
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-threshold-chambers-the-threshold-chambers.svg)
+![](04_Resources/Assets/Locations/location-city-the-threshold-chambers-the-threshold-chambers.svg)
 
 
 

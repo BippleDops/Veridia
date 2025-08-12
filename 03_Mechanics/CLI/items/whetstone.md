@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-whetstone-v1-whetstone.svg)
+![](04_Resources/Assets/Items/item-artifact-whetstone-v1-whetstone.svg)
 
 # Whetstone
 *Adventuring gear*  

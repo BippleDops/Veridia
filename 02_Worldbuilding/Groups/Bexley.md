@@ -26,7 +26,7 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-bexley-bexley.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-bexley-bexley.svg)
 
 
 

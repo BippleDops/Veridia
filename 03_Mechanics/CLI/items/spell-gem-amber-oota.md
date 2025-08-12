@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-spell-gem-amber-oota-spell-gem-amber-oota.svg)
+![](04_Resources/Assets/Items/item-artifact-spell-gem-amber-oota-spell-gem-amber-oota.svg)
 
 # Spell Gem (Amber)
 *Wondrous item, very rare (attunement optional)*  

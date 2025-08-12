@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadowhaven-merchant-marine-shadowhaven-merchant-marine.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-shadowhaven-merchant-marine-shadowhaven-merchant-marine.svg)
 
 
 

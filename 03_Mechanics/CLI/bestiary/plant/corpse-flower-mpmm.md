@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-corpse-flower-mpmm-corpse-flower-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-corpse-flower-mpmm-corpse-flower-mpmm.svg)
 
 # [Corpse Flower](3-Mechanics\CLI\bestiary\plant/corpse-flower-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82, Mordenkainen's Tome of Foes p. 127*  

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-entertainers-pack-xphb-entertainers-pack-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-entertainers-pack-xphb-entertainers-pack-xphb.svg)
 
 # Entertainer's Pack
 *Adventuring gear*  

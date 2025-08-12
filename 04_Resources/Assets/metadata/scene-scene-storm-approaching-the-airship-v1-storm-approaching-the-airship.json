@@ -1,0 +1,32 @@
+{
+  "id": "scene-storm-approaching-the-airship-v1",
+  "type": "scene",
+  "name": "Storm approaching the airship",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Atmospheric scene: Storm approaching the airship, clear narrative focal point, atmospheric VFX support, cinematic light shaping, high-fidelity illustration, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, cinematic atmosphere, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "mysterious",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7005,
+  "alt_text": "Atmospheric illustration of: Storm approaching the airship.",
+  "realm": "aethermoor",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Paint a detailed tableau in a heroic fantasy setting akin to tabletop role-playing games, with a foundation in medieval material culture. The gear should be in harmony with a fictitious culture and devoid of contemporary technological advances. Depict an atmospheric scenario where a storm is looming over an airship. This narrative should serve as the central point, embraced by the atmospheric visual effects and theatrically shaped lighting. Strive for romantic realism as your style, emphasizing wind-swept cloudstone and brass elements common to airship motifs. The prevailing colors should be navy, gold, and cloud-white, tinged with warm hues from the sunlight. Preserve the specified aspect/resolution, and prioritize clarity and high resolution. Refrain from including readable signs or lengthy text; lean towards abstract symbols or vacant signboards. Symbols should carry significance and avoid arbitrary alphabetic strings. Steer clear of futuristic user interfaces, modern signs, photorealistic CGI, and anime styles. Avoid using excessive glow or bloom effects.",
+  "file": "04_Resources/Assets/Scenes/scene-scene-storm-approaching-the-airship-v1-storm-approaching-the-airship.png"
+}

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-rot-grubs-mpmm-swarm-of-rot-grubs-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-swarm-of-rot-grubs-mpmm-swarm-of-rot-grubs-mpmm.svg)
 
 # [Swarm of Rot Grubs](3-Mechanics\CLI\bestiary\beast/swarm-of-rot-grubs-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208*  

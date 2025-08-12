@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-choldrith-mpmm-choldrith-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-choldrith-mpmm-choldrith-mpmm.svg)
 
 # [Choldrith](3-Mechanics\CLI\bestiary\monstrosity/choldrith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  

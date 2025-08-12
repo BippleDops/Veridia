@@ -10,7 +10,7 @@ type: NPC
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-brother-marcus-steelbane-brother-marcus-steelbane.svg)
 
 
 

@@ -27,7 +27,7 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)
 
 
 

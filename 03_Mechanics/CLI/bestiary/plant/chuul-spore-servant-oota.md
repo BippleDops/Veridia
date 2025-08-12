@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-chuul-spore-servant-oota-chuul-spore-servant-oota.svg)
 
 # [Chuul Spore Servant](3-Mechanics\CLI\bestiary\plant/chuul-spore-servant-oota.md)
 *Source: Out of the Abyss p. 228*  

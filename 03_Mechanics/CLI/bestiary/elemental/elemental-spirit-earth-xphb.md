@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-elemental-spirit-earth-xphb-elemental-spirit-earth-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-elemental-spirit-earth-xphb-elemental-spirit-earth-xphb.svg)
 
 # [Elemental Spirit (Earth)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-earth-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  

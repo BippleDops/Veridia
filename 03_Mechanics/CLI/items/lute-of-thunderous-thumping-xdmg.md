@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-lute-of-thunderous-thumping-xdmg-lute-of-thunderous-thumping-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-lute-of-thunderous-thumping-xdmg-lute-of-thunderous-thumping-xdmg.svg)
 
 # Lute of Thunderous Thumping
 *Weapon ([club](/03_Mechanics/CLI/items/club-xphb.md)), very rare*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-deathlock-wight-mpmm-deathlock-wight-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-deathlock-wight-mpmm-deathlock-wight-mpmm.svg)
 
 # [Deathlock Wight](3-Mechanics\CLI\bestiary\undead/deathlock-wight-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-cave-badger-oota-cave-badger-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-cave-badger-oota-cave-badger-oota.svg)
 
 # [Cave Badger](3-Mechanics\CLI\bestiary\beast/cave-badger-oota.md)
 *Source: Out of the Abyss p. 96*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-tile-chimera-rot-animated-tile-chimera-rot.svg)
+![](04_Resources/Assets/Creatures/creature-creature-animated-tile-chimera-rot-animated-tile-chimera-rot.svg)
 
 # [Animated Tile Chimera](3-Mechanics\CLI\bestiary\monstrosity/animated-tile-chimera-rot.md)
 *Source: The Rise of Tiamat p. 42*  

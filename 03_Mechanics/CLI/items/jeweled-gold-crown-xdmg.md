@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-jeweled-gold-crown-xdmg-jeweled-gold-crown-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-jeweled-gold-crown-xdmg-jeweled-gold-crown-xdmg.svg)
 
 # Jeweled gold crown
 *Treasure (art object)*  

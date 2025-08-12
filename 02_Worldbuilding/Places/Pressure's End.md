@@ -24,7 +24,7 @@ type: Location
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-pressure-s-end-pressure-s-end.svg)
+![](04_Resources/Assets/Locations/location-city-pressure-s-end-pressure-s-end.svg)
 
 
 

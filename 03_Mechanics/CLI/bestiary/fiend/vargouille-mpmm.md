@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-vargouille-mpmm-v1-vargouille-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-vargouille-mpmm-v1-vargouille-mpmm.svg)
 
 # [Vargouille](3-Mechanics\CLI\bestiary\fiend/vargouille-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*  

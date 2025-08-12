@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-mouth-of-grolantor-mpmm-mouth-of-grolantor-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-mouth-of-grolantor-mpmm-mouth-of-grolantor-mpmm.svg)
 
 # [Mouth of Grolantor](3-Mechanics\CLI\bestiary\giant/mouth-of-grolantor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  

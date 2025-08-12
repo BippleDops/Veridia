@@ -11,7 +11,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-veterans-cane-xdmg-v1-veterans-cane-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-veterans-cane-xdmg-v1-veterans-cane-xdmg.svg)
 
 
 

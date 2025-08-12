@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-shadow-duchess-nyx-shadow-duchess-nyx.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-shadow-duchess-nyx-shadow-duchess-nyx.svg)
 
 
 

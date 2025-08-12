@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ice-troll-rot-ice-troll-rot.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ice-troll-rot-ice-troll-rot.svg)
 
 # [Ice Troll](3-Mechanics\CLI\bestiary\giant/ice-troll-rot.md)
 *Source: The Rise of Tiamat p. 30*  

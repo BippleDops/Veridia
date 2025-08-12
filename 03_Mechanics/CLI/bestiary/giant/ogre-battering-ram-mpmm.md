@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ogre-battering-ram-mpmm-ogre-battering-ram-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ogre-battering-ram-mpmm-ogre-battering-ram-mpmm.svg)
 
 # [Ogre Battering Ram](3-Mechanics\CLI\bestiary\giant/ogre-battering-ram-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  

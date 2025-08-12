@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-belt-of-storm-giant-strength-xdmg-belt-of-storm-giant-strength-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-belt-of-storm-giant-strength-xdmg-belt-of-storm-giant-strength-xdmg.svg)
 
 # Belt of Storm Giant Strength
 *Wondrous item, legendary (requires attunement)*  

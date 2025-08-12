@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-gloves-of-swimming-and-climbing-xdmg-gloves-of-swimming-and-climbing-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-gloves-of-swimming-and-climbing-xdmg-gloves-of-swimming-and-climbing-xdmg.svg)
 
 # Gloves of Swimming and Climbing
 *Wondrous item, uncommon (requires attunement)*  

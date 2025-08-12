@@ -23,7 +23,7 @@ updated: 2025-08-11
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-surface-ambassador-lord-seaworthy-surface-ambassador-lord-seaworthy.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-surface-ambassador-lord-seaworthy-surface-ambassador-lord-seaworthy.svg)
 
 
 

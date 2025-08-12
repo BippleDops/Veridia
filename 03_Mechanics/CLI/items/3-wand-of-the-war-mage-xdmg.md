@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-3-wand-of-the-war-mage-xdmg-3-wand-of-the-war-mage-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-3-wand-of-the-war-mage-xdmg-3-wand-of-the-war-mage-xdmg.svg)
 
 # +3 Wand of the War Mage
 *Wand, very rare (requires attunement by a spellcaster)*  

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-cotton-cloth-1-sq-yd-xdmg-cotton-cloth-1-sq-yd-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-cotton-cloth-1-sq-yd-xdmg-cotton-cloth-1-sq-yd-xdmg.svg)
 
 # Cotton Cloth (1 sq. yd.)
 *Trade good*  

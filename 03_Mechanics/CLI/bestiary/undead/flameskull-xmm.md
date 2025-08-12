@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-flameskull-xmm-flameskull-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-flameskull-xmm-flameskull-xmm.svg)
 
 # [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull-xmm.md)
 *Source: Monster Manual (2024) p. 120*  

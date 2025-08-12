@@ -21,7 +21,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg)
+![](04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg)
 
 
 

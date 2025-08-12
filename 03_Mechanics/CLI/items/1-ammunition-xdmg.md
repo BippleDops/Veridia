@@ -25,7 +25,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-1-ammunition-xdmg-1-ammunition-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-1-ammunition-xdmg-1-ammunition-xdmg.svg)
 
 # +1 Ammunition
 *Ammunition, uncommon*  

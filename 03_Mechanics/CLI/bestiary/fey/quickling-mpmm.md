@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-quickling-mpmm-quickling-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-quickling-mpmm-quickling-mpmm.svg)
 
 # [Quickling](3-Mechanics\CLI\bestiary\fey/quickling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  

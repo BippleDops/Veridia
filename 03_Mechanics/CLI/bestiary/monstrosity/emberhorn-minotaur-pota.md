@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-emberhorn-minotaur-pota-emberhorn-minotaur-pota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-emberhorn-minotaur-pota-emberhorn-minotaur-pota.svg)
 
 # [Emberhorn Minotaur](3-Mechanics\CLI\bestiary\monstrosity/emberhorn-minotaur-pota.md)
 *Source: Princes of the Apocalypse p. 120*  

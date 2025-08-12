@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-yester-hill-axe-cos-v1-yester-hill-axe-cos.svg)
+![](04_Resources/Assets/Items/item-artifact-yester-hill-axe-cos-v1-yester-hill-axe-cos.svg)
 
 # Yester Hill Axe
 *Weapon ([battleaxe](/03_Mechanics/CLI/items/battleaxe-xphb.md))*  

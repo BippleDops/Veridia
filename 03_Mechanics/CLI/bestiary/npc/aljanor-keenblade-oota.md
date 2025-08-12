@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aljanor-keenblade-oota-aljanor-keenblade-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aljanor-keenblade-oota-aljanor-keenblade-oota.svg)
 
 # [Aljanor Keenblade](3-Mechanics\CLI\bestiary\npc/aljanor-keenblade-oota.md)
 *Source: Out of the Abyss p. 149*  

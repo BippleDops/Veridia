@@ -26,7 +26,7 @@ danger_level: Extreme
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg)
 
 
 

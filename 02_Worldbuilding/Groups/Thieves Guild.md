@@ -18,7 +18,7 @@ status: draft
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-thieves-guild-thieves-guild.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-thieves-guild-thieves-guild.svg)
 
 
 

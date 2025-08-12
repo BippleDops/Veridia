@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-death-kiss-mpmm-death-kiss-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-death-kiss-mpmm-death-kiss-mpmm.svg)
 
 # [Death Kiss](3-Mechanics\CLI\bestiary\aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*  

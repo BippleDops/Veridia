@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-amber-xdmg-amber-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-amber-xdmg-amber-xdmg.svg)
 
 # Amber
 *Treasure (gemstone)*  

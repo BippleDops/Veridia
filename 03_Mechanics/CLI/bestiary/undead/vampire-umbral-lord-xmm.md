@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-vampire-umbral-lord-xmm-v1-vampire-umbral-lord-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-vampire-umbral-lord-xmm-v1-vampire-umbral-lord-xmm.svg)
 
 # [Vampire Umbral Lord](3-Mechanics\CLI\bestiary\undead/vampire-umbral-lord-xmm.md)
 *Source: Monster Manual (2024) p. 318*  

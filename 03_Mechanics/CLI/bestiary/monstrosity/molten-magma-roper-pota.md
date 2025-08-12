@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-molten-magma-roper-pota-molten-magma-roper-pota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-molten-magma-roper-pota-molten-magma-roper-pota.svg)
 
 # [Molten Magma Roper](3-Mechanics\CLI\bestiary\monstrosity/molten-magma-roper-pota.md)
 *Source: Princes of the Apocalypse p. 143*  

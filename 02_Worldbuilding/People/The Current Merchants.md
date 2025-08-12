@@ -29,7 +29,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg)
 
 
 

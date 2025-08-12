@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-graveyard-revenant-xmm-graveyard-revenant-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-graveyard-revenant-xmm-graveyard-revenant-xmm.svg)
 
 # [Revenant](3-Mechanics\CLI\bestiary\undead/revenant-xmm.md)
 *Source: Monster Manual (2024) p. 259*  

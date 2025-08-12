@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-lost-crown-of-besilmer-pota-lost-crown-of-besilmer-pota.svg)
+![](04_Resources/Assets/Items/item-artifact-lost-crown-of-besilmer-pota-lost-crown-of-besilmer-pota.svg)
 
 # Lost Crown of Besilmer
 *Wondrous item, legendary (requires attunement)*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-inkling-mascot-scc-inkling-mascot-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-inkling-mascot-scc-inkling-mascot-scc.svg)
 
 # [Inkling Mascot](3-Mechanics\CLI\bestiary\ooze/inkling-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 195*  

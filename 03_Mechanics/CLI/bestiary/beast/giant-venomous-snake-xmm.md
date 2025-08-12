@@ -22,7 +22,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-venomous-snake-xmm-giant-venomous-snake-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-venomous-snake-xmm-giant-venomous-snake-xmm.svg)
 
 # [Giant Venomous Snake](3-Mechanics\CLI\bestiary\beast/giant-venomous-snake-xmm.md)
 *Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

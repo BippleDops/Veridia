@@ -20,7 +20,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-illyana-glowstream-illyana-glowstream.svg)
+![](04_Resources/Assets/Locations/location-city-illyana-glowstream-illyana-glowstream.svg)
 
 
 

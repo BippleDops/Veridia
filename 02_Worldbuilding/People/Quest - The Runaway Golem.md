@@ -19,7 +19,7 @@ cr: '5'
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-runaway-golem-quest-the-runaway-golem.svg)
 
 
 

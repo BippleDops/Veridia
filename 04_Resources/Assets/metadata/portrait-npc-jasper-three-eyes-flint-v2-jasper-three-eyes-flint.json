@@ -1,0 +1,32 @@
+{
+  "id": "npc-jasper-three-eyes-flint-v2",
+  "type": "portrait",
+  "name": "Jasper \"Three-Eyes\" Flint",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Portrait of Jasper \"Three-Eyes\" Flint, notable figure of Aquabyssos/Aethermoor, human, adult, realm-specific attire, character-driven emotion, memorable traits, signature environment, painterly fantasy realism, consistent collection style, readable at small sizes, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, painterly character emphasis, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Avoid embedded text or words unless specified; never render gibberish strings., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "16:9",
+  "resolution": "2560x1440",
+  "style": [
+    "painterly",
+    "fantasy realism"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7006,
+  "alt_text": "Portrait of Jasper \"Three-Eyes\" Flint with evocative background; clear features readable at token size.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Illustrate a portrait of a heroic human adult known as 'Three-Eyes' Flint in a fantasy setting, influenced by Dungeons & Dragons 5e. He is a renowned personality from the realm of Aquabyssos/Aethermoor. The image should emphasize realistic, painterly fantasy, and capture the character’s emotions and unique traits. 'Three-Eyes' Flint is dressed in culturally consistent medieval garb appropriate for his realm, featuring grounded materials in its construction - no modern technology or signs are present. The environment reflects his signature setting – an underwater fantasy realm, painted with subsurface caustics, bioluminescent accents, and pressure-dome materials. The palette consists of teals, deep blues, sea-greens, and pearl highlights. The style is consistent with a painterly collection, designed to be fully readable even at small sizes, avoiding any artifacts. Do not include any text, garbled letters, modern signage, sci-fi UIs, photoreal CGI, anime style, or excessive bloom glare.",
+  "file": "04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint.png"
+}

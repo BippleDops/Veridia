@@ -27,7 +27,7 @@ obsidianUIMode: preview
 
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-the-shadow-conspiracy-the-shadow-conspiracy.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-conspiracy-the-shadow-conspiracy.svg)
 
 
 

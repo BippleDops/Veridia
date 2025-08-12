@@ -21,7 +21,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-lonely-sorrowsworn-mpmm-lonely-sorrowsworn-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-lonely-sorrowsworn-mpmm-lonely-sorrowsworn-mpmm.svg)
 
 # [Lonely Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/lonely-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  

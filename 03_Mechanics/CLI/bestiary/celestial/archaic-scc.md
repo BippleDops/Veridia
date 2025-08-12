@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-archaic-scc-archaic-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-archaic-scc-archaic-scc.svg)
 
 # [Archaic](3-Mechanics\CLI\bestiary\celestial/archaic-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 184*  

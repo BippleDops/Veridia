@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-drow-statue-oota-animated-drow-statue-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-animated-drow-statue-oota-animated-drow-statue-oota.svg)
 
 # [Animated Drow Statue](3-Mechanics\CLI\bestiary\elemental/animated-drow-statue-oota.md)
 *Source: Out of the Abyss p. 96*  

@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-kraken-s-harbor-the-kraken-s-harbor.svg)
+![](04_Resources/Assets/Locations/location-city-the-kraken-s-harbor-the-kraken-s-harbor.svg)
 
 
 

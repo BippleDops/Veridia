@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-merfolk-skirmisher-xmm-merfolk-skirmisher-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-merfolk-skirmisher-xmm-merfolk-skirmisher-xmm.svg)
 
 # [Merfolk Skirmisher](3-Mechanics\CLI\bestiary\elemental/merfolk-skirmisher-xmm.md)
 *Source: Monster Manual (2024) p. 209. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

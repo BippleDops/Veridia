@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-bathyal-succession-bathyal-succession.svg)
+![](04_Resources/Assets/Locations/location-city-bathyal-succession-bathyal-succession.svg)
 
 
 

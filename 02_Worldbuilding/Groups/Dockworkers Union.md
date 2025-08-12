@@ -17,7 +17,7 @@ status: draft
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-dockworkers-union-dockworkers-union.svg)
 
 
 

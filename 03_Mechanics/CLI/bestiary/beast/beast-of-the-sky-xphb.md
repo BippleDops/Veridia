@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-beast-of-the-sky-xphb-beast-of-the-sky-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-sky-xphb-beast-of-the-sky-xphb.svg)
 
 # [Beast of the Sky](3-Mechanics\CLI\bestiary\beast/beast-of-the-sky-xphb.md)
 *Source: Player's Handbook (2024) p. 124*  

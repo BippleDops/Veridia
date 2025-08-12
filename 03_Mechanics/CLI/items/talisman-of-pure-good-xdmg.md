@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-talisman-of-pure-good-xdmg-talisman-of-pure-good-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-talisman-of-pure-good-xdmg-talisman-of-pure-good-xdmg.svg)
 
 # Talisman of Pure Good
 *Wondrous item, legendary (requires attunement by a cleric or paladin)*  

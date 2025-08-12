@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-philter-of-love-xdmg-philter-of-love-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-philter-of-love-xdmg-philter-of-love-xdmg.svg)
 
 # Philter of Love
 *Potion, uncommon*  

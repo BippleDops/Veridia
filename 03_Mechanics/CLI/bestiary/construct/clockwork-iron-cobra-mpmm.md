@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-clockwork-iron-cobra-mpmm-clockwork-iron-cobra-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-clockwork-iron-cobra-mpmm-clockwork-iron-cobra-mpmm.svg)
 
 # [Clockwork Iron Cobra](3-Mechanics\CLI\bestiary\construct/clockwork-iron-cobra-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  

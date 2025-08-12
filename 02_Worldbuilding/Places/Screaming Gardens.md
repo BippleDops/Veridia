@@ -11,7 +11,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-screaming-gardens-screaming-gardens.svg)
+![](04_Resources/Assets/Locations/location-city-screaming-gardens-screaming-gardens.svg)
 
 
 

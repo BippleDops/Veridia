@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Heraldry
-![](04_Resources/Assets/Generated/Symbols/symbol-heraldry-shadow-surgery-centers-shadow-surgery-centers.svg)
+![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-surgery-centers-shadow-surgery-centers.svg)
 
 
 

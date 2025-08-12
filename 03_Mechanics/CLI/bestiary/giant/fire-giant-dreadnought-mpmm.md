@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fire-giant-dreadnought-mpmm-fire-giant-dreadnought-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-fire-giant-dreadnought-mpmm-fire-giant-dreadnought-mpmm.svg)
 
 # [Fire Giant Dreadnought](3-Mechanics\CLI\bestiary\giant/fire-giant-dreadnought-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  

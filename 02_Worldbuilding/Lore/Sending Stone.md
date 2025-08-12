@@ -12,7 +12,7 @@ updated: 2025-08-11
 
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-sending-stones-xdmg-sending-stones-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-sending-stones-xdmg-sending-stones-xdmg.svg)
 
 
 

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-star-spawn-mangler-mpmm-star-spawn-mangler-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-star-spawn-mangler-mpmm-star-spawn-mangler-mpmm.svg)
 
 # [Star Spawn Mangler](3-Mechanics\CLI\bestiary\aberration/star-spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  

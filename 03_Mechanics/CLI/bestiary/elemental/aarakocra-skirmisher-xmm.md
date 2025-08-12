@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aarakocra-skirmisher-xmm-aarakocra-skirmisher-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aarakocra-skirmisher-xmm-aarakocra-skirmisher-xmm.svg)
 
 # [Aarakocra Skirmisher](3-Mechanics\CLI\bestiary\elemental/aarakocra-skirmisher-xmm.md)
 *Source: Monster Manual (2024) p. 10*  

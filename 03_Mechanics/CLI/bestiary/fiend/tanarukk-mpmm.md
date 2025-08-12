@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-tanarukk-mpmm-tanarukk-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-tanarukk-mpmm-tanarukk-mpmm.svg)
 
 # [Tanarukk](3-Mechanics\CLI\bestiary\fiend/tanarukk-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-githyanki-warrior-xmm-githyanki-warrior-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-githyanki-warrior-xmm-githyanki-warrior-xmm.svg)
 
 # [Githyanki Warrior](3-Mechanics\CLI\bestiary\aberration/githyanki-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 134*  

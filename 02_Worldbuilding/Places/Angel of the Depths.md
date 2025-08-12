@@ -21,7 +21,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-angel-of-the-depths-angel-of-the-depths.svg)
+![](04_Resources/Assets/Locations/location-city-angel-of-the-depths-angel-of-the-depths.svg)
 
 
 

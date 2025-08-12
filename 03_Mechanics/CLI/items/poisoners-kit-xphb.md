@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-poisoners-kit-xphb-poisoners-kit-xphb.png)
+![](04_Resources/Assets/Items/item-artifact-poisoners-kit-xphb-poisoners-kit-xphb.png)
 
 # Poisoner's Kit
 *Tool*  

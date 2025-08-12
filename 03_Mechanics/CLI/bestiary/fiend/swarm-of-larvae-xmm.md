@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-swarm-of-larvae-xmm-swarm-of-larvae-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-swarm-of-larvae-xmm-swarm-of-larvae-xmm.svg)
 
 # [Swarm of Larvae](3-Mechanics\CLI\bestiary\fiend/swarm-of-larvae-xmm.md)
 *Source: Monster Manual (2024) p. 193*  

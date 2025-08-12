@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-panther-xmm-panther-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-panther-xmm-panther-xmm.svg)
 
 # [Panther](3-Mechanics\CLI\bestiary\beast/panther-xmm.md)
 *Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

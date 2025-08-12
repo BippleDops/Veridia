@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-stone-warrior-pota-stone-warrior-pota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-stone-warrior-pota-stone-warrior-pota.svg)
 
 # [Stone Warrior](3-Mechanics\CLI\bestiary\construct/stone-warrior-pota.md)
 *Source: Princes of the Apocalypse p. 97*  

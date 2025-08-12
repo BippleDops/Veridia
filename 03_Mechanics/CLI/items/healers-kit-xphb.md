@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-healers-kit-xphb-healers-kit-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-healers-kit-xphb-healers-kit-xphb.svg)
 
 # Healer's Kit
 *Adventuring gear*  

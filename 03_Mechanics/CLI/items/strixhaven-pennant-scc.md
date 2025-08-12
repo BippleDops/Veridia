@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-strixhaven-pennant-scc-strixhaven-pennant-scc.svg)
+![](04_Resources/Assets/Items/item-artifact-strixhaven-pennant-scc-strixhaven-pennant-scc.svg)
 
 # Strixhaven Pennant
 *Wondrous item, common*  

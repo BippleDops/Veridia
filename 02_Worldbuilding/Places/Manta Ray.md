@@ -13,7 +13,7 @@ danger_level: Moderate
 
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-cloak-of-the-manta-ray-xdmg-cloak-of-the-manta-ray-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-cloak-of-the-manta-ray-xdmg-cloak-of-the-manta-ray-xdmg.svg)
 
 
 

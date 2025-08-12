@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-gnoll-witherling-mpmm-gnoll-witherling-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-gnoll-witherling-mpmm-gnoll-witherling-mpmm.svg)
 
 # [Gnoll Witherling](3-Mechanics\CLI\bestiary\undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  

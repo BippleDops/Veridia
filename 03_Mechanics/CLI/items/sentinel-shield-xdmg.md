@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-sentinel-shield-xdmg-sentinel-shield-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-sentinel-shield-xdmg-sentinel-shield-xdmg.svg)
 
 # Sentinel Shield
 *Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md)), uncommon*  

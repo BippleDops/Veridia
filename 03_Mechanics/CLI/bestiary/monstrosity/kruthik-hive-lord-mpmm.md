@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-kruthik-hive-lord-mpmm-kruthik-hive-lord-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-kruthik-hive-lord-mpmm-kruthik-hive-lord-mpmm.svg)
 
 # [Kruthik Hive Lord](3-Mechanics\CLI\bestiary\monstrosity/kruthik-hive-lord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  

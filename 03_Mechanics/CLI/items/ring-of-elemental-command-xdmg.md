@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-ring-of-elemental-command-xdmg-ring-of-elemental-command-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-ring-of-elemental-command-xdmg-ring-of-elemental-command-xdmg.svg)
 
 # Ring of Elemental Command
 *Ring, legendary (requires attunement)*  

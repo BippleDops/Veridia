@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-owlbear-xmm-owlbear-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-owlbear-xmm-owlbear-xmm.svg)
 
 # [Owlbear](3-Mechanics\CLI\bestiary\monstrosity/owlbear-xmm.md)
 *Source: Monster Manual (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

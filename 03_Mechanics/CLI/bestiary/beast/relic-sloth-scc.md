@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-relic-sloth-scc-relic-sloth-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-relic-sloth-scc-relic-sloth-scc.svg)
 
 # [Relic Sloth](3-Mechanics\CLI\bestiary\beast/relic-sloth-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 210*  

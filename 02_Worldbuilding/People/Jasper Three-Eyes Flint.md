@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
+![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
 
 
 

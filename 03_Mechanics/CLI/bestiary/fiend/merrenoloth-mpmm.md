@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-merrenoloth-mpmm-merrenoloth-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-merrenoloth-mpmm-merrenoloth-mpmm.svg)
 
 # [Merrenoloth](3-Mechanics\CLI\bestiary\fiend/merrenoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 180, Mordenkainen's Tome of Foes p. 250*  

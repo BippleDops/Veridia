@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-halberd-cos-animated-halberd-cos.svg)
+![](04_Resources/Assets/Creatures/creature-creature-animated-halberd-cos-animated-halberd-cos.svg)
 
 # [Animated Halberd](3-Mechanics\CLI\bestiary\construct/animated-halberd-cos.md)
 *Source: Curse of Strahd p. 59*  

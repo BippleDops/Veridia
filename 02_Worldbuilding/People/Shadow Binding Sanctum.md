@@ -19,7 +19,7 @@ updated: 2025-08-12
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)
 
 
 

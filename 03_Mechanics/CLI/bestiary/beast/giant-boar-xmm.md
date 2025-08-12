@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-boar-xmm-giant-boar-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-boar-xmm-giant-boar-xmm.svg)
 
 # [Giant Boar](3-Mechanics\CLI\bestiary\beast/giant-boar-xmm.md)
 *Source: Monster Manual (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

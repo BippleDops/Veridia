@@ -24,7 +24,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-vampiric-mist-mpmm-v1-vampiric-mist-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-vampiric-mist-mpmm-v1-vampiric-mist-mpmm.svg)
 
 # [Vampiric Mist](3-Mechanics\CLI\bestiary\undead/vampiric-mist-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  

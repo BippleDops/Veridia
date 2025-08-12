@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-dhergoloth-mpmm-dhergoloth-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-dhergoloth-mpmm-dhergoloth-mpmm.svg)
 
 # [Dhergoloth](3-Mechanics\CLI\bestiary\fiend/dhergoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94, Mordenkainen's Tome of Foes p. 248*  

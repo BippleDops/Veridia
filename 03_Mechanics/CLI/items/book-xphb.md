@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-book-xphb-book-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-book-xphb-book-xphb.svg)
 
 # Book
 *Adventuring gear*  

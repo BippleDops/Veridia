@@ -4,7 +4,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-korvin-blacktide-korvin-blacktide.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-korvin-blacktide-korvin-blacktide.svg)
 
 
 

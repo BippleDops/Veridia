@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ochre-jelly-xmm-ochre-jelly-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ochre-jelly-xmm-ochre-jelly-xmm.svg)
 
 # [Ochre Jelly](3-Mechanics\CLI\bestiary\ooze/ochre-jelly-xmm.md)
 *Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

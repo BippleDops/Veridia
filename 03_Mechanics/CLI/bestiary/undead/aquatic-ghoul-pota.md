@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aquatic-ghoul-pota-aquatic-ghoul-pota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aquatic-ghoul-pota-aquatic-ghoul-pota.svg)
 
 # [Aquatic Ghoul](3-Mechanics\CLI\bestiary\undead/aquatic-ghoul-pota.md)
 *Source: Princes of the Apocalypse p. 87*  

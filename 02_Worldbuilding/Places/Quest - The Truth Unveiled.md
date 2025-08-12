@@ -25,7 +25,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
+![](04_Resources/Assets/Locations/location-city-quest-the-truth-unveiled-quest-the-truth-unveiled.svg)
 
 
 

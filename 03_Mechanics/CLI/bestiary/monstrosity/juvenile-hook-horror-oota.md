@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-juvenile-hook-horror-oota-juvenile-hook-horror-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-juvenile-hook-horror-oota-juvenile-hook-horror-oota.svg)
 
 # [Juvenile Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/juvenile-hook-horror-oota.md)
 *Source: Out of the Abyss p. 34*  

@@ -1,0 +1,32 @@
+{
+  "id": "scene-storm-approaching-the-airship",
+  "type": "scene",
+  "name": "Storm approaching the airship",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Atmospheric scene: Storm approaching the airship, clear narrative focal point, atmospheric VFX support, cinematic light shaping, high-fidelity illustration, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, cinematic atmosphere, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Avoid readable signage or paragraphs; use iconography or blank signboards. No embedded words., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "cinematic",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2002,
+  "alt_text": "Atmospheric illustration of: Storm approaching the airship.",
+  "realm": "aethermoor",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "A detailed image reminiscent of medieval fantasy literature. A massive airship, expertly crafted from cloudstone and brass, with its intricate details highlighted in gold. The scene takes place under an expansive sky with atmospheric effects indicating an imminent storm. The forms and shapes are wind-swept, akin to the style of romantic realism, implying motion and drama in the scene. There is a clear narrative focal point that is reinforced through strategic, cinematic lighting. The color palette is primarily navy, cloud-white, and gold, with warm sunlight highlighting certain areas. There are no distracting modern elements or signage, and every symbol or icon serves a meaningful purpose in the narrative. No modern technologies, anime style, or photographic renditions, only a high-fidelity illustration in a consistent, painterly style. This image should really capture the essence of a heroic adventure in a tabletop fantasy world.",
+  "file": "04_Resources/Assets/Scenes/scene-scene-storm-approaching-the-airship-storm-approaching-the-airship.png"
+}

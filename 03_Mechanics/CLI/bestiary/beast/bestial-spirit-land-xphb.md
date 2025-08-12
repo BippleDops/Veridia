@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-bestial-spirit-land-xphb-bestial-spirit-land-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-bestial-spirit-land-xphb-bestial-spirit-land-xphb.svg)
 
 # [Bestial Spirit (Land)](3-Mechanics\CLI\bestiary\beast/bestial-spirit-land-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  

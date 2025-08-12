@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-allip-mpmm-allip-mpmm.png)
+![](04_Resources/Assets/Creatures/creature-creature-allip-mpmm-allip-mpmm.png)
 
 # [Allip](3-Mechanics\CLI\bestiary\undead/allip-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45, Mordenkainen's Tome of Foes p. 116*  

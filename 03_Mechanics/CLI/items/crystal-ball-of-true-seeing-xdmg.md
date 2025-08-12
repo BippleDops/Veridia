@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-crystal-ball-of-true-seeing-xdmg-crystal-ball-of-true-seeing-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-crystal-ball-of-true-seeing-xdmg-crystal-ball-of-true-seeing-xdmg.svg)
 
 # Crystal Ball of True Seeing
 *Wondrous item, legendary (requires attunement)*  

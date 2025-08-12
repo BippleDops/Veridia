@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-mayor-thompson-mayor-thompson.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-mayor-thompson-mayor-thompson.svg)
 
 
 

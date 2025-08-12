@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-insect-spider-xphb-giant-insect-spider-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-insect-spider-xphb-giant-insect-spider-xphb.svg)
 
 # [Giant Insect (Spider)](3-Mechanics\CLI\bestiary\beast/giant-insect-spider-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

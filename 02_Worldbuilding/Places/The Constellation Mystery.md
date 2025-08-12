@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png)
+![](04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png)
 
 
 

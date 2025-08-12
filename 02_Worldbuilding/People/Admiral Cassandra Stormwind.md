@@ -10,7 +10,7 @@ type: NPC
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-admiral-cassandra-stormwind-admiral-cassandra-stormwind.png)
+![](04_Resources/Assets/Portraits/portrait-npc-admiral-cassandra-stormwind-admiral-cassandra-stormwind.png)
 
 
 

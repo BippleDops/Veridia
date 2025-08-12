@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-boneclaw-mpmm-boneclaw-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-boneclaw-mpmm-boneclaw-mpmm.svg)
 
 # [Boneclaw](3-Mechanics\CLI\bestiary\undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  

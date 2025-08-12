@@ -18,7 +18,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-staff-xdmg-enspelled-staff-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-enspelled-staff-xdmg-enspelled-staff-xdmg.svg)
 
 # Enspelled Staff
 *Staff, weapon (requires attunement by a Spellcaster)*  

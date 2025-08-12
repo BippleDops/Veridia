@@ -23,7 +23,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png)
+![](04_Resources/Assets/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png)
 
 # [Goblin Hexer](3-Mechanics\CLI\bestiary\fey/goblin-hexer-xmm.md)
 *Source: Monster Manual (2024) p. 143*  

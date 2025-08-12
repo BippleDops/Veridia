@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-neogi-mpmm-neogi-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-neogi-mpmm-neogi-mpmm.svg)
 
 # [Neogi](3-Mechanics\CLI\bestiary\aberration/neogi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  

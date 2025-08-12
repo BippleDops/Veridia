@@ -19,7 +19,7 @@ cr: '6'
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-traitor-within-quest-the-traitor-within.svg)
 
 
 

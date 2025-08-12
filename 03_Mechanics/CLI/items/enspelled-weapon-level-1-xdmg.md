@@ -77,7 +77,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-enspelled-weapon-level-1-xdmg-enspelled-weapon-level-1-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-enspelled-weapon-level-1-xdmg-enspelled-weapon-level-1-xdmg.svg)
 
 # Enspelled Weapon (Level 1)
 *Uncommon (requires attunement)*  

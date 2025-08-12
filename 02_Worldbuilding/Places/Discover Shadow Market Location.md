@@ -16,7 +16,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg)
+![](04_Resources/Assets/Locations/location-city-discover-shadow-market-location-discover-shadow-market-location.svg)
 
 
 

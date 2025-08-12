@@ -23,7 +23,7 @@ updated: 2025-08-11
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-depth-warden-patrol-depth-warden-patrol.svg)
+![](04_Resources/Assets/Locations/location-city-depth-warden-patrol-depth-warden-patrol.svg)
 
 
 

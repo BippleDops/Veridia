@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-carnivorous-flower-rot-carnivorous-flower-rot.svg)
+![](04_Resources/Assets/Creatures/creature-creature-carnivorous-flower-rot-carnivorous-flower-rot.svg)
 
 # [Carnivorous Flower](3-Mechanics\CLI\bestiary\plant/carnivorous-flower-rot.md)
 *Source: The Rise of Tiamat p. 67*  

@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-mastiff-xmm-mastiff-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-mastiff-xmm-mastiff-xmm.svg)
 
 # [Mastiff](3-Mechanics\CLI\bestiary\beast/mastiff-xmm.md)
 *Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

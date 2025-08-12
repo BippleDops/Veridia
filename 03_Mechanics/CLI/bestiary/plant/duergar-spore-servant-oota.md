@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-duergar-spore-servant-oota-duergar-spore-servant-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-duergar-spore-servant-oota-duergar-spore-servant-oota.svg)
 
 # [Duergar Spore Servant](3-Mechanics\CLI\bestiary\plant/duergar-spore-servant-oota.md)
 *Source: Out of the Abyss p. 229*  

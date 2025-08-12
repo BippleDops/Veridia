@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-bulette-pup-xmm-bulette-pup-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-bulette-pup-xmm-bulette-pup-xmm.svg)
 
 # [Bulette Pup](3-Mechanics\CLI\bestiary\monstrosity/bulette-pup-xmm.md)
 *Source: Monster Manual (2024) p. 63*  

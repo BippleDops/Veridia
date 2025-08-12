@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-the-sorrowmaster-the-sorrowmaster.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-the-sorrowmaster-the-sorrowmaster.svg)
 
 
 

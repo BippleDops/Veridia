@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png)
+![](04_Resources/Assets/Items/item-artifact-explorers-pack-xphb-explorers-pack-xphb.png)
 
 # Explorer's Pack
 *Adventuring gear*  

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-chasme-xmm-chasme-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-chasme-xmm-chasme-xmm.svg)
 
 # [Chasme](3-Mechanics\CLI\bestiary\fiend/chasme-xmm.md)
 *Source: Monster Manual (2024) p. 69*  

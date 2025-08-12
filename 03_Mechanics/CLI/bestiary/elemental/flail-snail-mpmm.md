@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-flail-snail-mpmm-flail-snail-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-flail-snail-mpmm-flail-snail-mpmm.svg)
 
 # [Flail Snail](3-Mechanics\CLI\bestiary\elemental/flail-snail-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  

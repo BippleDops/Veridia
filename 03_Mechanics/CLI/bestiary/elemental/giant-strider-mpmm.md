@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-strider-mpmm-giant-strider-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-giant-strider-mpmm-giant-strider-mpmm.svg)
 
 # [Giant Strider](3-Mechanics\CLI\bestiary\elemental/giant-strider-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143*  

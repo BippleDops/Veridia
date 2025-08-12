@@ -13,7 +13,7 @@ status: draft
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-items-items.svg)
+![](04_Resources/Assets/Items/item-artifact-items-items.svg)
 
 ## Player-Facing Summary
 

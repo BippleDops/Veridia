@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-celestial-spirit-avenger-xphb-celestial-spirit-avenger-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-avenger-xphb-celestial-spirit-avenger-xphb.svg)
 
 # [Celestial Spirit (Avenger)](3-Mechanics\CLI\bestiary\celestial/celestial-spirit-avenger-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  

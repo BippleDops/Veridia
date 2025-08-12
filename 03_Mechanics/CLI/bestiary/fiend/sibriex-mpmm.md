@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-sibriex-mpmm-sibriex-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-sibriex-mpmm-sibriex-mpmm.svg)
 
 # [Sibriex](3-Mechanics\CLI\bestiary\fiend/sibriex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  

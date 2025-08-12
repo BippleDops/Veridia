@@ -13,7 +13,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Map
-![](04_Resources/Assets/Generated/Maps/map-map-shattered-observatory-shattered-observatory.svg)
+![](04_Resources/Assets/Maps/map-map-shattered-observatory-shattered-observatory.svg)
 
 # Observatory
 *Level 13 Bastion facility*  

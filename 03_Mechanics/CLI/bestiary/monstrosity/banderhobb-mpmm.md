@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-banderhobb-mpmm-banderhobb-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-banderhobb-mpmm-banderhobb-mpmm.svg)
 
 # [Banderhobb](3-Mechanics\CLI\bestiary\monstrosity/banderhobb-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  

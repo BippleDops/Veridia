@@ -12,7 +12,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-plague-crisis-plague-crisis.png)
+![](04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png)
 
 
 

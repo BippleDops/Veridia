@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-modern-bullets-10-modern-bullets-10.svg)
+![](04_Resources/Assets/Items/item-artifact-modern-bullets-10-modern-bullets-10.svg)
 
 # Modern Bullets (10)
 *Ammunition (firearm)*  

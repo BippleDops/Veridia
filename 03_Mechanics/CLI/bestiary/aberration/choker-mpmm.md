@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-choker-mpmm-choker-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-choker-mpmm-choker-mpmm.svg)
 
 # [Choker](3-Mechanics\CLI\bestiary\aberration/choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  

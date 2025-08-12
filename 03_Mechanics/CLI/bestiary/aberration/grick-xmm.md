@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-grick-xmm-grick-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-grick-xmm-grick-xmm.svg)
 
 # [Grick](3-Mechanics\CLI\bestiary\aberration/grick-xmm.md)
 *Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

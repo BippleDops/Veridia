@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
 
 # [Juvenile Shadow Dragon](3-Mechanics\CLI\bestiary\dragon/juvenile-shadow-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 275*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)
+![](04_Resources/Assets/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)
 
 # [Fiendish Giant Spider](3-Mechanics\CLI\bestiary\beast/fiendish-giant-spider-oota.md)
 *Source: Out of the Abyss p. 97*  

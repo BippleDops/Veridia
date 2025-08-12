@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-shrieker-fungus-xmm-shrieker-fungus-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-shrieker-fungus-xmm.svg)
 
 # [Shrieker Fungus](3-Mechanics\CLI\bestiary\plant/shrieker-fungus-xmm.md)
 *Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

@@ -31,7 +31,7 @@ obsidianUIMode: preview
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-memory-thief-the-memory-thief.svg)
+![](04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg)
 
 
 

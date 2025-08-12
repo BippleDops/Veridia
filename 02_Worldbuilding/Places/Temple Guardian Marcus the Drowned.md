@@ -11,7 +11,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg)
+![](04_Resources/Assets/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg)
 
 
 

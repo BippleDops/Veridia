@@ -29,7 +29,7 @@ obsidianUIMode: preview
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-verdant-shard-verdant-shard.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-verdant-shard-verdant-shard.svg)
 
 
 

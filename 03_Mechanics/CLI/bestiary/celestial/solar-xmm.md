@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-solar-xmm-solar-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-solar-xmm-solar-xmm.svg)
 
 # [Solar](3-Mechanics\CLI\bestiary\celestial/solar-xmm.md)
 *Source: Monster Manual (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

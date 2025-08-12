@@ -11,7 +11,7 @@ updated: 2025-08-11
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-kraken-kraken.svg)
+![](04_Resources/Assets/Creatures/creature-creature-kraken-kraken.svg)
 
 
 

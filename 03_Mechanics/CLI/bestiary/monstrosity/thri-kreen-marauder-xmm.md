@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-thri-kreen-marauder-xmm-thri-kreen-marauder-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-marauder-xmm-thri-kreen-marauder-xmm.svg)
 
 # [Thri-kreen Marauder](3-Mechanics\CLI\bestiary\monstrosity/thri-kreen-marauder-xmm.md)
 *Source: Monster Manual (2024) p. 306*  

@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-marut-mpmm-marut-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-marut-mpmm-marut-mpmm.svg)
 
 # [Marut](3-Mechanics\CLI\bestiary\construct/marut-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173, Mordenkainen's Tome of Foes p. 213*  

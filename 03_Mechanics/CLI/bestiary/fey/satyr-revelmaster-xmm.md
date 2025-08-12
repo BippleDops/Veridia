@@ -19,7 +19,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-satyr-revelmaster-xmm-satyr-revelmaster-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-satyr-revelmaster-xmm-satyr-revelmaster-xmm.svg)
 
 # [Satyr Revelmaster](3-Mechanics\CLI\bestiary\fey/satyr-revelmaster-xmm.md)
 *Source: Monster Manual (2024) p. 268*  

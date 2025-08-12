@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-shoosuva-mpmm-shoosuva-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-shoosuva-mpmm-shoosuva-mpmm.svg)
 
 # [Shoosuva](3-Mechanics\CLI\bestiary\fiend/shoosuva-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  

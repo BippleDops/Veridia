@@ -35,7 +35,7 @@ This vault contains worldbuilding, mechanics, assets, canvases, and tools for ru
 3) Optional audio: `node scripts/generate_audio.js`
 4) Link embeds and galleries: `node scripts/link_assets.js`
 
-Outputs are written to `04_Resources/Assets/Generated/**` with JSON sidecars in `Generated/metadata`.
+Outputs are written to `04_Resources/Assets/**` with JSON sidecars in `Generated/metadata`.
 
 ## Map standards
 - Battle maps: 140 px grid, no embedded text, icons only; see [[04_Resources/Assets/Maps/Battle_Map_Descriptions.md]]

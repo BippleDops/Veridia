@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-shield-of-the-silver-dragon-cos-shield-of-the-silver-dragon-cos.svg)
+![](04_Resources/Assets/Items/item-artifact-shield-of-the-silver-dragon-cos-shield-of-the-silver-dragon-cos.svg)
 
 # Shield of the Silver Dragon
 *Armor ([shield](/03_Mechanics/CLI/items/shield-xphb.md)), major, rare*  

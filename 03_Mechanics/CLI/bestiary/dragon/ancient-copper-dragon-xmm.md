@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-copper-dragon-xmm-ancient-copper-dragon-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-ancient-copper-dragon-xmm-ancient-copper-dragon-xmm.svg)
 
 # [Ancient Copper Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-copper-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 80. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

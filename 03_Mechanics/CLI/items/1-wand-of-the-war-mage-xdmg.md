@@ -17,7 +17,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-1-wand-of-the-war-mage-xdmg-1-wand-of-the-war-mage-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-1-wand-of-the-war-mage-xdmg-1-wand-of-the-war-mage-xdmg.svg)
 
 # +1 Wand of the War Mage
 *Wand, uncommon (requires attunement by a spellcaster)*  

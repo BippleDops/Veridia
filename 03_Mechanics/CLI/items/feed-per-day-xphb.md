@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-feed-per-day-xphb-feed-per-day-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-feed-per-day-xphb-feed-per-day-xphb.svg)
 
 # Feed (per day)
 *Tack and harness*  

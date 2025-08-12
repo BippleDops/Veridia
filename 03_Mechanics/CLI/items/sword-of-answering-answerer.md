@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-sword-of-answering-answerer-sword-of-answering-answerer.svg)
+![](04_Resources/Assets/Items/item-artifact-sword-of-answering-answerer-sword-of-answering-answerer.svg)
 
 # Sword of Answering (Answerer)
 *Weapon ([longsword](/03_Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement by a chaotic good creature)*  

@@ -55,7 +55,7 @@ type: Location
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-the-first-failure-the-first-failure.svg)
+![](04_Resources/Assets/Locations/location-city-the-first-failure-the-first-failure.svg)
 
 
 

@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png)
+![](04_Resources/Assets/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png)
 
 # [Nightwalker](3-Mechanics\CLI\bestiary\undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  

@@ -1,0 +1,33 @@
+{
+  "id": "ship-aethermoor-courier-class-airship-v2",
+  "type": "vehicle",
+  "name": "Aethermoor Courier-Class Airship",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, consistent painterly collection style, Blueprint cutaway: Aethermoor Courier-Class Airship, top/side/cross-section/decks, ballast, pressure hulls, engines, crew, clean blueprint, fantasy nautical/aeronautical vernacular with realm materials, skyward romantic realism, cloudstone and brass, wind-swept forms, airship motifs, sturdy functional blueprint vernacular, palette: navy, gold, cloud-white, warm sun highlights, Use specified aspect/resolution; avoid artifacts., Use numbered callout pins (01, 02, 03…) instead of long text annotations. Include a clean legend area without rendering complex paragraphs., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "16:9",
+  "resolution": "3840x2160",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "rim-lit",
+  "mood": "solemn",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 7003,
+  "alt_text": "Blueprint cutaway of Aethermoor Courier-Class Airship.",
+  "realm": "aethermoor",
+  "callouts": "numbered pins 01..10; legend area reserved; no paragraph labels",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1792x1024",
+  "revised_prompt": "Imagine a heroic tabletop fantasy scene in a painterly style consistent with medieval-fantasy aesthetics. Central to this scene is an Aethermoor Courier-Class Airship, demonstrated through a blueprint cutaway. The perspective offers a top, side, and cross-section view, revealing its various decks, ballast, pressure hulls, and engines, manned by a crew of diverse gender and descent. The airship construction materials are grounded in a realm-specific fantasy setting, utilizing the natural resources of the realm such as cloudstone and brass. The design leans towards skyward romantic realism with wind-swept forms and nautical and aeronautical motifs. The color palette is dominated by navy, gold, and cloud-white with warm sun highlights. The blueprint should be clean, void of modern technology or signage. Important aspects of the blueprint are pointed out by numbered callout pins, avoiding lengthy text descriptions. These pins lead to a clean legend area that clearly explains what each pin refers to. The overall design should steer clear from modern symbolism, sci-fi UIs, anime styles, and photoreal CGI effects. Bask in the rich texture of traditional painterly strokes.",
+  "file": "04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-v2-aethermoor-courier-class-airship.png"
+}

@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-kuo-toa-archpriest-xmm-kuo-toa-archpriest-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-archpriest-xmm-kuo-toa-archpriest-xmm.svg)
 
 # [Kuo-toa Archpriest](3-Mechanics\CLI\bestiary\aberration/kuo-toa-archpriest-xmm.md)
 *Source: Monster Manual (2024) p. 191*  

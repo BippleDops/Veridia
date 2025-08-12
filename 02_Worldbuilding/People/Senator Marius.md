@@ -11,7 +11,7 @@ type: NPC
 
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-senator-marius-senator-marius.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-senator-marius-senator-marius.svg)
 
 
 

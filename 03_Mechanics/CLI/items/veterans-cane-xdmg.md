@@ -15,7 +15,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-veterans-cane-xdmg-v1-veterans-cane-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-veterans-cane-xdmg-v1-veterans-cane-xdmg.svg)
 
 # Veteran's Cane
 *Wondrous item, common*  

@@ -12,7 +12,7 @@ danger_level: Moderate
 
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg)
+![](04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg)
 
 
 

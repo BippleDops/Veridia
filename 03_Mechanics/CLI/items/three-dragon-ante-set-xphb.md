@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-three-dragon-ante-set-xphb-three-dragon-ante-set-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-three-dragon-ante-set-xphb-three-dragon-ante-set-xphb.svg)
 
 # Three-Dragon Ante Set
 *Gaming set*  

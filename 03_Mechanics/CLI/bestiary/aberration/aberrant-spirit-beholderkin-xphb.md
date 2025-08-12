@@ -19,7 +19,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-aberrant-spirit-beholderkin-xphb-aberrant-spirit-beholderkin-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-aberrant-spirit-beholderkin-xphb-aberrant-spirit-beholderkin-xphb.svg)
 
 # [Aberrant Spirit (Beholderkin)](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-beholderkin-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  

@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-dungeoneers-pack-xphb-dungeoneers-pack-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-dungeoneers-pack-xphb-dungeoneers-pack-xphb.svg)
 
 # Dungeoneer's Pack
 *Adventuring gear*  

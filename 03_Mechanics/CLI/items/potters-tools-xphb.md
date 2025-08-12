@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-potters-tools-xphb-potters-tools-xphb.svg)
+![](04_Resources/Assets/Items/item-artifact-potters-tools-xphb-potters-tools-xphb.svg)
 
 # Potter's Tools
 *Artisan's tools*  

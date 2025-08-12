@@ -12,7 +12,7 @@ danger_level: Moderate
 ---
 
 > [!figure] View
-![](04_Resources/Assets/Generated/Locations/location-city-deep-oracle-bathys-deep-oracle-bathys.png)
+![](04_Resources/Assets/Locations/location-city-deep-oracle-bathys-deep-oracle-bathys.png)
 
 
 

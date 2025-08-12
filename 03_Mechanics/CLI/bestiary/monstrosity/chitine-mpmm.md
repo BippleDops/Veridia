@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-chitine-mpmm-chitine-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-chitine-mpmm-chitine-mpmm.svg)
 
 # [Chitine](3-Mechanics\CLI\bestiary\monstrosity/chitine-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131*  

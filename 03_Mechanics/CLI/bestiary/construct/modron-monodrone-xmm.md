@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-modron-monodrone-xmm-modron-monodrone-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-modron-monodrone-xmm-modron-monodrone-xmm.svg)
 
 # [Modron Monodrone](3-Mechanics\CLI\bestiary\construct/modron-monodrone-xmm.md)
 *Source: Monster Manual (2024) p. 216*  

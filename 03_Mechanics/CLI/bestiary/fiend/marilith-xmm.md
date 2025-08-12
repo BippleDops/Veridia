@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-marilith-xmm-marilith-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-marilith-xmm-marilith-xmm.svg)
 
 # [Marilith](3-Mechanics\CLI\bestiary\fiend/marilith-xmm.md)
 *Source: Monster Manual (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

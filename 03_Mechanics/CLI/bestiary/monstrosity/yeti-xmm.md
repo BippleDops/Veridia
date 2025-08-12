@@ -17,7 +17,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
 
 # [Yeti](3-Mechanics\CLI\bestiary\monstrosity/yeti-xmm.md)
 *Source: Monster Manual (2024) p. 339*  

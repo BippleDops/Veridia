@@ -1,0 +1,32 @@
+{
+  "id": "artifact-bracers-of-defense-xdmg",
+  "type": "item",
+  "name": "bracers-of-defense-xdmg",
+  "prompt": "heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy materials, culturally coherent gear, no modern tech or signage, no firearms unless specified, consistent painterly collection style, Detailed artifact: bracers-of-defense-xdmg, pearl, coral, cloud-crystal, pressure-forged metals, abstract sigils (not letters), gentle glow, hand or ruler for size, product render, aquatic fantasy realism, subsurface caustics, bioluminescent accents, pressure-dome materials, palette: teals, deep blues, sea-greens, pearl highlights, Use specified aspect/resolution; avoid artifacts., Runes should be abstract sigils, not letter-like gibberish. Avoid readable words on the item., Avoid garbled or random letter strings; keep any symbols meaningful or use numbered pins., Avoid sci-fi UIs, modern signage, photoreal CGI, anime style, bloom glare.",
+  "aspect": "2:3",
+  "resolution": "2048x3072",
+  "style": [
+    "concept art",
+    "high detail"
+  ],
+  "lighting": "studio",
+  "mood": "on-brand",
+  "negative": [
+    "blurry",
+    "artifacts",
+    "nonsense text",
+    "garbled letters",
+    "extra fingers",
+    "modern signage",
+    "sci-fi ui",
+    "anime"
+  ],
+  "seed": 2032,
+  "alt_text": "Artifact bracers-of-defense-xdmg with materials, runes, and scale.",
+  "realm": "aquabyssos",
+  "generator": "openai",
+  "model": "dall-e-3",
+  "size": "1024x1792",
+  "revised_prompt": "Imagine a heroic tabletop fantasy scene reminiscent of Dungeons and Dragons, complete with culturally coherent gear made from materials typical of the medieval fantasy era. Focus on a detailed artifact - a pair of bracers - made from a combination of pearls, coral, cloud-crystals, and pressure-forged metals, decorated with abstract sigils softly glowing. Use a human hand or ruler for size comparison. The style should be consistently painterly, avoiding any modern technology, firearms, photoreal CGI, modern signage, or anime aesthetics. Voyaging into the realm of aquatic fantasy, the bracers illuminate with subsurface caustics and bioluminescent accents, reminiscent of the scene under a pressure dome. Stick with a palette of deep blues, teals, sea-greens, and pearl highlights. Ensure that any runes present are abstract sigils, avoiding the use of any readable words or garbled letter strings. Maintain the specified aspect and resolution and sidestep any possible artifacts.",
+  "file": "04_Resources/Assets/Items/item-artifact-bracers-of-defense-xdmg-bracers-of-defense-xdmg.png"
+}

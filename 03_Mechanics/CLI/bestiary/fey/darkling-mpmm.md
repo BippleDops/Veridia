@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-darkling-mpmm-darkling-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-darkling-mpmm-darkling-mpmm.svg)
 
 # [Darkling](3-Mechanics\CLI\bestiary\fey/darkling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  

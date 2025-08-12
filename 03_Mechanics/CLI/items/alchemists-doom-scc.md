@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-alchemists-doom-scc-alchemists-doom-scc.svg)
+![](04_Resources/Assets/Items/item-artifact-alchemists-doom-scc-alchemists-doom-scc.svg)
 
 # Alchemist's Doom
 *Adventuring gear*  

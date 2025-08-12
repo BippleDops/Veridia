@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-construct-spirit-clay-xphb-construct-spirit-clay-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-construct-spirit-clay-xphb-construct-spirit-clay-xphb.svg)
 
 # [Construct Spirit (Clay)](3-Mechanics\CLI\bestiary\construct/construct-spirit-clay-xphb.md)
 *Source: Player's Handbook (2024) p. 324*  

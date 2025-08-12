@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-oil-of-etherealness-xdmg-oil-of-etherealness-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-oil-of-etherealness-xdmg-oil-of-etherealness-xdmg.svg)
 
 # Oil of Etherealness
 *Potion, rare*  

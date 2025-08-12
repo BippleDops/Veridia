@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-infernal-tack-mtf-infernal-tack-mtf.svg)
+![](04_Resources/Assets/Items/item-artifact-infernal-tack-mtf-infernal-tack-mtf.svg)
 
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  

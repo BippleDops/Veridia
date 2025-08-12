@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-otherworldly-steed-fey-xphb-otherworldly-steed-fey-xphb.svg)
+![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-fey-xphb-otherworldly-steed-fey-xphb.svg)
 
 # [Otherworldly Steed (Fey)](3-Mechanics\CLI\bestiary\fey/otherworldly-steed-fey-xphb.md)
 *Source: Player's Handbook (2024) p. 273*  

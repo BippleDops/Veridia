@@ -18,7 +18,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-derro-mpmm-derro-mpmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-derro-mpmm-derro-mpmm.svg)
 
 # [Derro](3-Mechanics\CLI\bestiary\aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  

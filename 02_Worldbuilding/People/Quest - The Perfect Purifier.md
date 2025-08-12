@@ -19,7 +19,7 @@ cr: '8'
 ---
 
 > [!figure] Portrait
-![](04_Resources/Assets/Generated/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg)
+![](04_Resources/Assets/Portraits/portrait-npc-quest-the-perfect-purifier-quest-the-perfect-purifier.svg)
 
 
 

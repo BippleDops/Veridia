@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-potion-of-cloud-giant-strength-xdmg-potion-of-cloud-giant-strength-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-potion-of-cloud-giant-strength-xdmg-potion-of-cloud-giant-strength-xdmg.svg)
 
 # Potion of Cloud Giant Strength
 *Potion, very rare*  

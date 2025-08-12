@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-quandrix-trinket-scc-quandrix-trinket-scc.svg)
+![](04_Resources/Assets/Items/item-artifact-quandrix-trinket-scc-quandrix-trinket-scc.svg)
 
 # Quandrix Trinket
 *Adventuring gear*  

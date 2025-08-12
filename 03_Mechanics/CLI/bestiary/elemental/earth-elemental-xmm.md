@@ -20,7 +20,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-earth-elemental-xmm-earth-elemental-xmm.svg)
+![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-xmm-earth-elemental-xmm.svg)
 
 # [Earth Elemental](3-Mechanics\CLI\bestiary\elemental/earth-elemental-xmm.md)
 *Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

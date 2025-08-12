@@ -16,7 +16,7 @@ aliases:
 ---
 
 > [!figure] Creature
-![](04_Resources/Assets/Generated/Creatures/creature-creature-art-elemental-mascot-scc-art-elemental-mascot-scc.svg)
+![](04_Resources/Assets/Creatures/creature-creature-art-elemental-mascot-scc-art-elemental-mascot-scc.svg)
 
 # [Art Elemental Mascot](3-Mechanics\CLI\bestiary\elemental/art-elemental-mascot-scc.md)
 *Source: Strixhaven: A Curriculum of Chaos p. 185*  

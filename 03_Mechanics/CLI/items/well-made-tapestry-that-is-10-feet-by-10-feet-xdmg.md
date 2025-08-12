@@ -16,7 +16,7 @@ modified: 2025-07-23 12:39
 ---
 
 > [!figure] Item
-![](04_Resources/Assets/Generated/Items/item-artifact-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg-v1-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg.svg)
+![](04_Resources/Assets/Items/item-artifact-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg-v1-well-made-tapestry-that-is-10-feet-by-10-feet-xdmg.svg)
 
 # Well-made tapestry that is 10 feet by 10 feet
 *Treasure (art object)*  

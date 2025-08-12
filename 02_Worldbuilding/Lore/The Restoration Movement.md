@@ -17,7 +17,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:47.166432+00:00'
+updated: 2025-08-11
 historical_period: Post-Bathyal Succession to Present
 significance: Major
 movement_type: Political and Religious Reform
@@ -398,3 +398,7 @@ Legends speak of The Restoration Movement as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

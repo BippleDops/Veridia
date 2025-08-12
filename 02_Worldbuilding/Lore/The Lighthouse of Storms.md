@@ -17,7 +17,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.049048+00:00'
+updated: 2025-08-11
 historical_period: Pre-Shattering to Present
 significance: Critical
 threat_level: Variable
@@ -384,3 +384,7 @@ Legends speak of The Lighthouse of Storms as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_People_Index]]

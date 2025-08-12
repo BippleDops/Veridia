@@ -18,7 +18,7 @@ race: Human (Memory-Touched)
 location: '[[The Archive of Unremembered Things]] - The Forgetting Vaults'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.865326+00:00'
+updated: 2025-08-11
 cr: '5'
 ---
 

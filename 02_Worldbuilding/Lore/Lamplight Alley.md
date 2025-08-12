@@ -12,8 +12,8 @@ tags:
 - urban
 - worldbuilding
 world: Both
-updated: '2025-08-11T13:08:48.593061+00:00'
-created: '2025-08-11T13:08:48.593061+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 type: Lore
 ---
 

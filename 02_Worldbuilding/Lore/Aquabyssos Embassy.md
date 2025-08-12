@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Aethermoor
 status: draft
-created: '2025-08-11T13:08:45.885836+00:00'
-updated: '2025-08-11T13:08:48.421756+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

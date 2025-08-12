@@ -13,7 +13,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-expansion
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.026791+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -305,7 +305,7 @@ What the party will eventually discover is that Marcus was transporting a collec
 - **[[Abyssos Prime]]**: Government center coordinating official response
 
 ### Connected Adventures
-- **[[Smuggler's Gambit]]**: Other criminal operations that may involve Marcus's network
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Other criminal operations that may involve Marcus's network
 - **[[Traveling Merchant Finn]]**: Legitimate trader with connections to smuggling operations
 - **[[The Crystal Throne]]**: Political implications of faction involvement in fragment theft
 - **[[Rescue Senator Glaucus]]**: Government instability that criminals exploit
@@ -368,3 +368,7 @@ Legends speak of Smuggler as a nexus where past and present converge. Locals des
 - A map overlay reveals a hidden approach to Smuggler active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]

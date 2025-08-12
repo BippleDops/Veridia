@@ -12,12 +12,12 @@ depth_range: 500-2000 feet
 population: ~500000
 government: The Cognition Collective
 danger_level: High (Mental)
-created: 2025-08-07 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:51.001327+00:00'
+updated: 2025-08-12
 status: draft
 type: Location
 ---

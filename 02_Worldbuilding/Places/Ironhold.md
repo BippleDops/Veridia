@@ -24,7 +24,7 @@ specialties:
 founded: First Age
 climate: Alpine, Cold Winters
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.800556+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Lore/Ancient Siege Tunnels]]'
 - '[[02_Worldbuilding/Lore/Continental War]]'

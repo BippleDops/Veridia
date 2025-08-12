@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: Lore
 created_by: auto-stub
-created: 2025-08-08 - Category/Quest
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.088320+00:00'
+updated: 2025-08-12
 ---
 
 
@@ -406,3 +406,7 @@ Legends speak of Crystalline Depths as a nexus where past and present converge. 
 - A map overlay reveals a hidden approach to Crystalline Depths active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Aether Crystals]]

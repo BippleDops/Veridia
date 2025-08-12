@@ -23,7 +23,7 @@ application_period: Developed over 200 years, refined for conspiracy investigati
 primary_users: Independent Investigators, Truth Seekers, Conspiracy Researchers
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.019024+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -745,3 +745,7 @@ Legends speak of Evidence Chain Analysis as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

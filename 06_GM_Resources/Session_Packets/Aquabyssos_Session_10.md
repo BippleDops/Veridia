@@ -1,4 +1,6 @@
 ---
+updated: 2025-08-11
+created: 2025-08-11
 title: Session Packet — Aquabyssos Session 10
 type: session_packet
 session_number: 10

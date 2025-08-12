@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, horror]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-005 Shadow Bloom
@@ -33,7 +34,7 @@ Effects: Dim bright light to dim; creates echo images; imposes Disadvantage on P
 Countermeasures: Anchor hymn (Religion DC 14) reduces DCs by 1 for duration
 
 ## Integrations
-- [[Sanity System]]: apply madness tables
+- [[02_Worldbuilding/Quests/Aquabyssos]]: apply madness tables
 - [[Complete Reality Merger System]]: on flicker, roll Merger Complications (severity -1 if anchor active)
 - [[Memory Trading Economy System|Memory Economy]]: harvestable shadow fragments (illegal, 150 gp)
 
@@ -69,3 +70,7 @@ Legends speak of D 005 Shadow Bloom as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

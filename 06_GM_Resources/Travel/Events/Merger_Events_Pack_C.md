@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, travel, merger, paradox, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Merger Events Pack C — 50 Ready-to-Run Encounters (M-201–M-250)

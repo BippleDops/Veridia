@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, travel, depth, aquabyssos, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Depth Events Pack B — 50 Ready-to-Run Encounters (D-101–D-150)

@@ -1,4 +1,6 @@
 ---
+updated: 2025-08-12
+created: 2025-08-12
 tags: [Category/Place]
 status: "complete"
 world: "Aethermoor"

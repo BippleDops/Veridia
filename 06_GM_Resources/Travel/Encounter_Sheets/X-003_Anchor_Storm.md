@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, mixed, reality]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # X-003 Anchor Storm
@@ -23,7 +24,7 @@ created: 2025-08-11
 - Fail: Integrity -1; one short-term madness
 
 ## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]; faction doctrines
+- [[Complete Reality Merger System]]; [[02_Worldbuilding/Quests/Aquabyssos]]; faction doctrines
 
 ## Quick-Run
 - Roll three checks; set Integrity; adjust next encounters accordingly

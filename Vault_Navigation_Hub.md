@@ -12,7 +12,7 @@ aliases:
 - Campaign Central
 - Master Index
 created: 2025-08-11
-updated: '2025-08-11T13:08:46.954328+00:00'
+updated: 2025-08-11
 status: complete
 campaign: Aquabyssos & Aethermoor
 world: Both
@@ -29,7 +29,7 @@ type: Lore
 
 ### Essential Documents
 - [[Campaign_Dashboard]] - Live session tracker & DM tools
-- [[World_Bible_Aquabyssos_Aethermoor]] - Complete setting guide  
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Complete setting guide  
 - [[Campaign_Quick_Reference_Sheets]] - Rules & mechanics at a glance
 - [[Campaign_Relationship_Matrix]] - NPC & faction connections
 - [[Master_Campaign_Index]] - Complete content directory
@@ -199,7 +199,7 @@ type: Lore
 
 ### Recently Updated
 - [[Campaign_Relationship_Matrix]] - Complete NPC connections
-- [[World_Bible_Aquabyssos_Aethermoor]] - Comprehensive setting guide
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Comprehensive setting guide
 - [[Campaign_Quick_Reference_Sheets]] - Enhanced quick references
 
 ## 🎭 Quick Reference

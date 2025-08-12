@@ -2,8 +2,8 @@
 obsidianUIMode: preview
 assa: null
 world: Both
-updated: '2025-08-11T13:08:47.048508+00:00'
-created: '2025-08-11T13:08:47.048508+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -137,3 +137,7 @@ dv.list(
     .PlayerKnownLanguages.distinct()
 )
 ```
+
+## Cross-References
+
+- [[Master_Campaign_Index]]

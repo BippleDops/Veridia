@@ -16,7 +16,7 @@ world: Aquabyssos
 type: Location
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.287203+00:00'
+updated: 2025-08-11
 location_type: Dimensional Pocket
 parent_location: The Wandering Depths
 depth: Variable (exists outside normal depth)

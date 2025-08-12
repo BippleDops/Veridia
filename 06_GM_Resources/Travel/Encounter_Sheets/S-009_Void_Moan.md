@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, sky, horror]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # S-009 Void Moan
@@ -24,7 +25,7 @@ created: 2025-08-11
 - Fail: 1 long-term madness; crew impose -1 on checks for 1 hour
 
 ## Integrations
-- [[Sanity System]]; void exposure rules (altitude pressure inversion)
+- [[02_Worldbuilding/Quests/Aquabyssos]]; void exposure rules (altitude pressure inversion)
 
 ## Scaling
 - In merger flicker, Integrity -1 on fail
@@ -51,3 +52,7 @@ Legends speak of S 009 Void Moan as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]

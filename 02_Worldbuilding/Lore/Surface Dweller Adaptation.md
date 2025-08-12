@@ -17,7 +17,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.911830+00:00'
+updated: 2025-08-11
 adaptation_type: Cross-Environment Living
 scope: Individual and Community
 process_duration: Variable

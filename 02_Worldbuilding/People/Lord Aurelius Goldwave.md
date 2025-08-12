@@ -17,7 +17,7 @@ location: '[[02_Worldbuilding/Places/Port Meridian]]'
 faction: '[[The Order of the Shattered Crown]]'
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.731694+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview

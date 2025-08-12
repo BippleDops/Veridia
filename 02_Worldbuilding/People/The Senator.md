@@ -1,9 +1,9 @@
 ---
-tags:
-- aquabyssos
-- complete
-- corruption
-- mysterious
+created: 2025-08-11
+updated: 2025-08-11
+---
+
+mysterious
 - npc
 - parliamentary
 - politician
@@ -21,7 +21,7 @@ faction: Shadow Parliament (Unknowingly)
 status_condition: Active, Partially Replaced
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.855173+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview

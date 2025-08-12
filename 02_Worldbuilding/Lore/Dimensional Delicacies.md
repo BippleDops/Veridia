@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Dimensional Nexus (Both Realms)
 status: draft
-created: '2025-08-11T13:08:46.466103+00:00'
-updated: '2025-08-11T13:08:49.497995+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

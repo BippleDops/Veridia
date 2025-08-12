@@ -17,7 +17,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.954740+00:00'
+updated: 2025-08-11
 person_type: Corrupted Ruler
 scope: National Significance
 threat_level: Extreme

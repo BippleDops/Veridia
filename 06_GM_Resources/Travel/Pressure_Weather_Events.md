@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, weather, pressure]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Pressure & Weather Events
 
-Apply Zone Modifiers from [[Vehicle_Core_Rules]]. Many events trigger saves from [[Depth Survival Mechanics]] or sanity checks from [[Sanity System]].
+Apply Zone Modifiers from [[Vehicle_Core_Rules]]. Many events trigger saves from [[Depth Survival Mechanics]] or sanity checks from [[02_Worldbuilding/Quests/Aquabyssos]].
 
 ## Depth (d20)
 1 Rapid squeeze • 2 Thermal vent wall • 3 Black smoker ash • 4 Abyssal current • 5 Cavitation field • 6 Kelp storm • 7 Silt blizzard • 8 Pressure inversion • 9 Hull creak chorus • 10 Null hush pocket • 11 Leviathan wake • 12 Memory rain • 13 Shadow bloom • 14 Anchor resonance • 15 Rift tremor • 16 Jelly swarm • 17 Saltfall • 18 Coral spawn • 19 Maelstrom edge • 20 Deep Mother pulse
@@ -35,3 +36,7 @@ Legends speak of Pressure Weather Events as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Travel_Event_Table]]

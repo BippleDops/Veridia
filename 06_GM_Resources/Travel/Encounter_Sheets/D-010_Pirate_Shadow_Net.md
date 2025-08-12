@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, faction]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-010 Pirate Shadow Net
@@ -66,3 +67,7 @@ Legends speak of D 010 Pirate Shadow Net as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

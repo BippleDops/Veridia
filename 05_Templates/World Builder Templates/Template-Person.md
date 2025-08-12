@@ -41,8 +41,8 @@ relationships:
   type: ally
   strength: 3
 world: Both
-updated: '2025-08-11T13:08:47.023522+00:00'
-created: '2025-08-11T13:08:47.023522+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 type: Lore
 ---

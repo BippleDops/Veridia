@@ -6,8 +6,8 @@ tags:
 type: Location
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.700398+00:00'
-updated: '2025-08-11T13:08:51.131560+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 danger_level: Moderate
 ---
 

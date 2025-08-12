@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, mystic]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-019 Oracle Whale
@@ -29,7 +30,7 @@ created: 2025-08-11
 - Recording sells for 300–800 gp; Memory pearl (Rare) chance 25%
 
 ## Integrations
-- [[Sanity System]]; [[Memory Trading Economy System|Memory Economy]]; Faction eco if poachers
+- [[02_Worldbuilding/Quests/Aquabyssos]]; [[Memory Trading Economy System|Memory Economy]]; Faction eco if poachers
 
 ## Scaling
 - In merger, song shifts to cross-world omen; add Reality check
@@ -59,3 +60,7 @@ Legends speak of D 019 Oracle Whale as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_01]]

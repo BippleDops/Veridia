@@ -12,11 +12,11 @@ world: Aethermoor
 type: Lore
 level: 10-15
 created_by: auto-stub
-created: 2025-08-08 - Category/Quest
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.053579+00:00'
+updated: 2025-08-12
 ---
 
 
@@ -326,3 +326,7 @@ Legends speak of Stop the Crystal Festival Ritual as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]

@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, sky, reality]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # S-105 Star Anchor Choir
@@ -24,7 +25,7 @@ created: 2025-08-11
 - Fail: Dissonance; Group Sanity DC 14 or short-term madness
 
 ## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]; Fleet doctrines
+- [[Complete Reality Merger System]]; [[02_Worldbuilding/Quests/Aquabyssos]]; Fleet doctrines
 
 ## Quick-Run
 - Anchorite→Performance→apply Integrity and any sanity effects

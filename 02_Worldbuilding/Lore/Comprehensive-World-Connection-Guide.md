@@ -11,7 +11,7 @@ world_type: Parallel Realms
 connection_type: Dimensional Convergence
 status: Active Merger Possibility
 created: 2025-08-07
-updated: '2025-08-11T13:08:48.099961+00:00'
+updated: 2025-08-11
 aliases:
 - World Connection Guide
 - Realm Merger Guide

@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.727347+00:00'
-updated: '2025-08-11T13:08:49.239693+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait
@@ -18,3 +18,7 @@ updated: '2025-08-11T13:08:49.239693+00:00'
 ## Overview
 
 TODO
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

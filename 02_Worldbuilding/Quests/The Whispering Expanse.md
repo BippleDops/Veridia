@@ -12,7 +12,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.075933+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -479,7 +479,7 @@ The **Whispering Expanse** can be integrated with other adventures and campaign 
 
 - **[[The Pressure Conspiracy]]**: Political manipulation using whisper-influenced agents
 - **[[Temporal Navigation]]**: Time-based approach to preventing or understanding the crisis
-- **[[Depths of Whispers]]**: Connection to underwater sources of cosmic horror
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Connection to underwater sources of cosmic horror
 - **[[Ancient Observatory Networks]]**: Similar facilities in other locations
 - **[[Far Realm Incursions]]**: Part of a larger pattern of otherworldly invasion
 
@@ -507,9 +507,9 @@ The events of this adventure permanently change the campaign world:
 - [[The Great Crystallization]]
 - [[The Crimson Sage]]
 - [[Ambush Point]]
-- [[Depths of Whispers]]
-- [[Discover the Singers Beyond]]
-- [[Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -530,3 +530,7 @@ Legends speak of The Whispering Expanse as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Ambush Point]]

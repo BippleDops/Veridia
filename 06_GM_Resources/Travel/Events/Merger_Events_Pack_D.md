@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, merger, factions, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Merger Events Pack D — Faction Spotlight (24)
 
-Use with [[Complete Reality Merger System]], [[Sanity System]], [[03_Mechanics/Vehicles/Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
+Use with [[Complete Reality Merger System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[03_Mechanics/Vehicles/Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
 
 ---
 

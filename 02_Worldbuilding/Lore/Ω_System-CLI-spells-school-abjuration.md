@@ -18,7 +18,7 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.859734+00:00'
+updated: 2025-08-11
 school: Abjuration
 focus: Protective and Banishment Magic
 complexity: Fundamental to Advanced

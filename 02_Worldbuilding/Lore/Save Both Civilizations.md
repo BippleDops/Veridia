@@ -17,7 +17,7 @@ world: Both Worlds
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.522689+00:00'
+updated: 2025-08-11
 objective_type: Ultimate Campaign Goal
 scope: Both Worlds
 urgency: Critical

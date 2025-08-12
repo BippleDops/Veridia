@@ -5,8 +5,8 @@ tags:
 - lore
 - marina
 world: Both
-updated: '2025-08-11T13:08:49.402766+00:00'
-created: '2025-08-11T13:08:49.402766+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 type: Lore
 ---

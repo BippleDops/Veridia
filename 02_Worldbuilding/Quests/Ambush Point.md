@@ -16,7 +16,7 @@ quest_type: Tactical Combat & Resistance Operations
 estimated_sessions: 4-6
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.028661+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -497,3 +497,7 @@ Legends speak of Ambush Point as a nexus where past and present converge. Locals
 - A map overlay reveals a hidden approach to Ambush Point active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]

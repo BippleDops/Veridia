@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, sky, weather]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # S-102 Downburst Hammer

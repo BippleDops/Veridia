@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, travel, mixed, legendary, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Mixed Events Pack E — Legendary Tier (12)

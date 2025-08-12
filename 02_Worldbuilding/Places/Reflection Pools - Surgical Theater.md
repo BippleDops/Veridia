@@ -21,7 +21,7 @@ population: 50-80 medical staff, 20-40 patients daily
 government: Medical Board oversight and Imperial licensing
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.754147+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview

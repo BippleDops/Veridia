@@ -36,7 +36,7 @@ initiative: 12
 current_hp: 15
 max_hp: 20
 world: Both
-updated: '2025-08-11T13:08:49.817429+00:00'
+updated: 2025-08-11
 type: NPC
 ---
 

@@ -11,8 +11,8 @@ type: Lore
 system: D&D 5e
 complexity: Advanced
 world: Aquabyssos
-updated: '2025-08-11T13:08:48.108390+00:00'
-created: '2025-08-11T13:08:48.108390+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 ---
 

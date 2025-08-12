@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, sky, factions, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Sky Events Pack D — Faction Spotlight (24)
 
-Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[Sanity System]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
+Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], [[Complete Faction Warfare System]].
 
 ---
 

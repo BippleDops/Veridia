@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, social]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-106 Identity Court
@@ -25,7 +26,7 @@ created: 2025-08-11
 - Fail: Mutinous faction forms; immediate crew conflict scene
 
 ## Integrations
-- Faction; crew cohesion; [[Sanity System]]
+- Faction; crew cohesion; [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Quick-Run
 - Social→Law→Sanity; apply command boon/penalty

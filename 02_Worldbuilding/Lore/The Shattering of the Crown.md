@@ -35,7 +35,7 @@ related_entities:
 - '[[The Great Crystallization]]'
 - '[[Aetheron]]'
 - '[[The Seven Shards]]'
-updated: '2025-08-11T13:08:49.114116+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -592,3 +592,7 @@ Legends speak of The Shattering of the Crown as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

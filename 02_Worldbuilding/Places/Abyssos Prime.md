@@ -44,12 +44,12 @@ current_state: Shadow conspiracy active
 temporal_stability: 85
 shadow_density: High
 pressure_effects: Moderate to Severe
-created: 2025-08-07 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:50.446512+00:00'
+updated: 2025-08-12
 status: draft
 type: Location
 ---

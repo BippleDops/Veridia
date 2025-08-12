@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, sky, weather]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # S-004 Cloud Canyon
@@ -60,3 +61,7 @@ Legends speak of S 004 Cloud Canyon as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_01]]

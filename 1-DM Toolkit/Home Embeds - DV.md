@@ -8,8 +8,8 @@ tags:
 type: Lore
 status: unknown
 world: Both
-updated: '2025-08-11T13:08:47.046535+00:00'
-created: '2025-08-11T13:08:47.046535+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
 
 
@@ -299,3 +299,7 @@ SORT file.name DESC
 ## Vault Graph
 
 ![[Vault Report]]
+
+## Cross-References
+
+- [[1-DM Toolkit/Vault Report]]

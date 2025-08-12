@@ -24,7 +24,7 @@ technology_type: Harmonic Amplification Network
 access_restriction: Professional Only
 danger_level: High
 operational_status: Active
-updated: '2025-08-11T13:08:47.182383+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -487,3 +487,7 @@ Legends speak of Resonance Peaks as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

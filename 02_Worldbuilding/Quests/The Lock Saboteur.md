@@ -16,7 +16,7 @@ duration: 2-3 sessions
 threat_level: extreme
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.034125+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -294,7 +294,7 @@ Brass is a 12th-level spellcaster. His spellcasting ability is Intelligence (spe
 ## Connections
 
 - [[Pearl_Harbor_City]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

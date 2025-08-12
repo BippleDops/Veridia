@@ -11,7 +11,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.205864+00:00'
+updated: 2025-08-11
 ---
 
 

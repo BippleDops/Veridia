@@ -12,7 +12,7 @@ importance: World-Defining
 created: 2024-12-20
 image: 04_Resources/Assets/Lore/great_crystallization.jpg
 world: Both
-updated: '2025-08-11T13:08:48.740785+00:00'
+updated: 2025-08-11
 status: draft
 ---
 
@@ -219,3 +219,7 @@ Legends speak of The Great Crystallization as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/The Whispering Expanse]]

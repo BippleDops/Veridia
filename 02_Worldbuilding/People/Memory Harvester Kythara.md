@@ -18,7 +18,7 @@ race: Human (Shadow-Touched)
 location: '[[Memory Meadows]] - The Harvesting Fields'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.775739+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

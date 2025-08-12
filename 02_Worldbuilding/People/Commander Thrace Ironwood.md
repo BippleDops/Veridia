@@ -17,7 +17,7 @@ race: Human
 location: '[[02_Worldbuilding/Places/The Verdant Reach]] - Coalition Military Base'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.824235+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

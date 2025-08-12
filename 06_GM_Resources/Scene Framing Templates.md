@@ -11,7 +11,7 @@ type: Lore
 campaign: Aquabyssos
 created: 2025-08-07
 world: Both
-updated: '2025-08-11T13:08:47.027738+00:00'
+updated: 2025-08-11
 status: draft
 ---
 
@@ -344,3 +344,7 @@ Legends speak of Scene Framing Templates as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Campaign_Index]]

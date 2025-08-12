@@ -19,7 +19,7 @@ category: Environmental Phenomenon
 significance: Critical Infrastructure
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.118127+00:00'
+updated: 2025-08-11
 hazard_type: Planar Boundary Distortion
 danger_level: Variable - Moderate to Catastrophic
 scope: Cross-Realm Environmental Zones
@@ -74,3 +74,7 @@ Legends speak of Reality Merge Zones as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

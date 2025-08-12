@@ -14,7 +14,7 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_npcs: 101
-updated: '2025-08-11T13:08:46.946373+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -64,7 +64,7 @@ This comprehensive index organizes all 101 completed NPCs and characters across 
 - **Level**: 18 (Wizard/Noble)
 - **Alignment**: Lawful Neutral
 - **Status**: Alive (Political pressure)
-- **Key Locations**: [[Abyssos Prime]], [[Maelstrom Palace]]
+- **Key Locations**: [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos]]
 - **Major Conflicts**: Parliament tensions, shadow conspiracy, succession questions
 - **Political Challenges**: Parliamentary pressure, constitutional monarchy
 - **Campaign Role**: Political patron, authority figure, quest giver
@@ -1106,3 +1106,7 @@ Each NPC provides:
 *Character Relationships Mapped Across Both Worlds*
 *Adventure Integration Guidelines Provided for All Character Types*
 *Agent 20 - Index Building Mission: 60% Complete*
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

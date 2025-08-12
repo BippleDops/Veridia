@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, merger, paradox, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Merger Events Pack A — 50 Ready-to-Run Encounters
 
-Use with [[Complete Reality Merger System]], [[03_Mechanics/Vehicles/Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[Sanity System]], and [[Memory Trading Economy System|Memory Economy]].
+Use with [[Complete Reality Merger System]], [[03_Mechanics/Vehicles/Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]], [[02_Worldbuilding/Quests/Aquabyssos]], and [[Memory Trading Economy System|Memory Economy]].
 
 ---
 
@@ -133,3 +134,7 @@ Legends speak of Merger Events Pack A as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Events/Merger_Events_Pack_B]]

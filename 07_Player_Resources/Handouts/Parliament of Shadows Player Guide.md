@@ -11,7 +11,7 @@ campaign: Parliament of Shadows
 spoiler_free: true
 created: 2025-08-07
 world: Both
-updated: '2025-08-11T13:08:47.040504+00:00'
+updated: 2025-08-11
 status: draft
 ---
 
@@ -267,3 +267,7 @@ Legends speak of Parliament of Shadows Player Guide as a nexus where past and pr
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[07_Player_Resources/INDEX]]

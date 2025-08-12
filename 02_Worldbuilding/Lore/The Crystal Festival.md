@@ -17,7 +17,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.186783+00:00'
+updated: 2025-08-11
 event_type: Annual Festival turned Catastrophic Ritual
 duration: Originally 7 days, final year lasted 3 hours
 location: '[[Crystal Festival Grounds]], [[Port Meridian]]'
@@ -185,3 +185,7 @@ Legends speak of The Crystal Festival as a nexus where past and present converge
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Traveling Merchant Finn]]

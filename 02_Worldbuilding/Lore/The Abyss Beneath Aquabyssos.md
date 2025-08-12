@@ -17,7 +17,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:47.496087+00:00'
+updated: 2025-08-11
 danger_level: 5
 depth: Below 10,000 feet - The Measureless Deep
 government: None - Primordial Chaos

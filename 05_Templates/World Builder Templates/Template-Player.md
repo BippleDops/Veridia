@@ -47,8 +47,8 @@ obsidianUIMode: preview
 MyContainer: null
 MyCategory: null
 world: Both
-updated: '2025-08-11T13:08:47.007559+00:00'
-created: '2025-08-11T13:08:47.007559+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 type: Lore
 ---

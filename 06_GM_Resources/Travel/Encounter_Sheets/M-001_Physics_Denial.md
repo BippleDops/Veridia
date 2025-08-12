@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, physics]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-001 Physics Denial
@@ -23,7 +24,7 @@ created: 2025-08-11
 - Fail: 2d6 segment damage; 1 long-term madness
 
 ## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]
+- [[Complete Reality Merger System]]; [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Scaling
 - In paradox core: DCs +2; add Complication roll

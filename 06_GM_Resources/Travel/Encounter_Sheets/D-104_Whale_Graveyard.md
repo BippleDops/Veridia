@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, horror, discovery]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-104 Whale Graveyard
@@ -25,7 +26,7 @@ created: 2025-08-11
 - Fail: Short-term madness; refuse to harvest
 
 ## Integrations
-- [[Sanity System]]; [[Crafting Transcendence]]; lore hooks
+- [[02_Worldbuilding/Quests/Aquabyssos]]; [[Crafting Transcendence]]; lore hooks
 
 ## Quick-Run
 - Sanity→Harvest→apply morale or rewards

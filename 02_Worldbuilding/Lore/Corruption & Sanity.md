@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.713218+00:00'
-updated: '2025-08-11T13:08:49.158181+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 
@@ -43,3 +43,7 @@ Legends speak of Corruption & Sanity as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

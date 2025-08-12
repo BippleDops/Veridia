@@ -13,7 +13,7 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_lore_entries: 194
-updated: '2025-08-11T13:08:46.950272+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -646,7 +646,7 @@ This comprehensive index organizes all 194 completed lore entries across both ca
 - **Campaign Integration**: Political adventures, faction quests, relationship management
 - **Player Impact**: Social consequences, adventure opportunities, story branching
 
-#### **[[Sanity System]]** - Mental Health Mechanics
+#### **[[02_Worldbuilding/Quests/Aquabyssos]]** - Mental Health Mechanics
 - **World**: Universal
 - **Type**: Psychological/Horror Mechanic
 - **Purpose**: Mental health tracking, horror effects, psychological realism
@@ -851,3 +851,7 @@ All lore connects to:
 *Historical Timeline Organized from Ancient Era to Present Day*
 *Thematic Organization by Adventure Type and Campaign Integration Level*
 *Agent 20 - Index Building Mission: 40% Complete*
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

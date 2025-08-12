@@ -21,8 +21,8 @@ themes:
 - redemption
 - duty_vs_survival
 - cosmic_horror
-created: '2025-08-11T13:08:47.827834+00:00'
-updated: '2025-08-11T13:08:47.827834+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

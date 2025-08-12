@@ -7,8 +7,8 @@ MyContainer: '[[05_Templates/World Builder Templates/Template-Hub.md|Template-Hu
 MyCategory: Commerce
 obsidianUIMode: preview
 world: Both
-updated: '2025-08-11T13:08:47.017154+00:00'
-created: '2025-08-11T13:08:47.017154+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 type: Lore
 ---

@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, travel, merger]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Merger Transit Complications
@@ -32,3 +33,7 @@ Legends speak of Merger Transit Complications as a nexus where past and present 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Travel_Event_Table]]

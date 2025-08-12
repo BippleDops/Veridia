@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, travel, sky, aethermoor, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Sky Events Pack C — 50 Ready-to-Run Encounters (S-201–S-250)

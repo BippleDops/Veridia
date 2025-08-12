@@ -1,3 +1,8 @@
+---
+created: 2025-08-11
+updated: 2025-08-11
+---
+
 # Player Resources Index
 
 ## Root
@@ -52,3 +57,7 @@
 - [[07_Player_Resources/Visual_Handouts/Submersible_Schematic_Pressure_Gate_Scout.md]]
 - [[07_Player_Resources/Visual_Handouts/Trade_Route_Chart_Port_Meridian.md]]
 - [[07_Player_Resources/Visual_Handouts/Wanted_Poster_Syndicate_Fence.md]]
+
+## Cross-References
+
+- [[07_Player_Resources/Character_Options/Depth_Adapted_Background]]

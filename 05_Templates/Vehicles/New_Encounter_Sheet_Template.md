@@ -4,6 +4,7 @@ type: template
 status: complete
 tags: [template, encounter]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # [Code] [Encounter Title]
@@ -30,7 +31,7 @@ created: 2025-08-11
 AC ; HP ; Saves ; Traits ; Effects
 
 ## Integrations
-- [[Sanity System]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Economy]] • [[Complete Faction Warfare System]] • [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Rules]]
+- [[02_Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Economy]] • [[Complete Faction Warfare System]] • [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Rules]]
 
 ## Scaling
 - [Changes by zone/band]

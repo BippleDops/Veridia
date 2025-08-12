@@ -18,7 +18,7 @@ location: Multiple - Aethermoor Cities
 reward: Epic
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.935309+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview

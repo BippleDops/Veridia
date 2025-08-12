@@ -25,7 +25,7 @@ connected_to:
 - Oceanic Divine Magic
 created_by: DM
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.040040+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview

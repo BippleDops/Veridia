@@ -17,7 +17,7 @@ rewards: Noble Title, Royal Artifacts, Political Power
 time_limit: Before the Coronation (14 days)
 created_by: system
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.035543+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Quest
 obsidianUIMode: preview
@@ -463,3 +463,7 @@ Legends speak of Quest   The Pretender's Crown as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - Divine Intervention]]

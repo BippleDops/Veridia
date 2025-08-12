@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, sky, legendary]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # S-L-02 Void Curtain Eclipse
@@ -27,7 +28,7 @@ created: 2025-08-11
 
 ## Integrations
 - [[Complete Reality Merger System]]: Integrity shifts
-- [[Sanity System]]: mass checks
+- [[02_Worldbuilding/Quests/Aquabyssos]]: mass checks
 
 ## Variants
 - Cult liturgy attempts to claim eclipse; counter-chant scene
@@ -54,3 +55,7 @@ Legends speak of S L 02 Void Curtain Eclipse as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aethermoor_Session_10]]

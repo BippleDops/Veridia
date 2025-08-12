@@ -23,8 +23,8 @@ themes:
 - balance_of_power
 - ancient_bloodlines
 - oceanic_authority
-created: '2025-08-11T13:08:48.764312+00:00'
-updated: '2025-08-11T13:08:48.764312+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

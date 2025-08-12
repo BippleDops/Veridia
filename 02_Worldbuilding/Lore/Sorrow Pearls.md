@@ -13,8 +13,8 @@ tags:
 - sorrow-pearls
 - worldbuilding
 world: Both
-updated: '2025-08-11T13:08:48.484305+00:00'
-created: '2025-08-11T13:08:48.484305+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 type: Lore
 ---
 

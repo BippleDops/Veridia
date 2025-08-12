@@ -4,6 +4,8 @@
 *"When the surface world failed us, we learned to breathe beneath the waves. We are transformed, but we endure."*
 
 ---
+updated: 2025-08-11
+created: 2025-08-11
 
 ## New Player Orientation
 
@@ -24,7 +26,6 @@ As a player character in Aquabyssos, you might be:
 **Pressure:** The deeper you go, the more dangerous it becomes. Always check your depth tolerance and carry pressure-resistant gear.
 
 **Light:** Beyond 500 fathoms (the Twilight Depth), sunlight disappears. Bioluminescent plants, magical lights, and native guidance become essential.
-
 ---
 
 ## The Drowned World: Geography and Settlements
@@ -332,3 +333,7 @@ Legends speak of Welcome to Aquabyssos as a nexus where past and present converg
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[07_Player_Resources/INDEX]]

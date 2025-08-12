@@ -4,6 +4,7 @@ type: template
 status: complete
 tags: [template, fleets]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # New Fleet Template

@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, time]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-102 Time Skip Round
@@ -24,7 +25,7 @@ created: 2025-08-11
 - Fail: One role loses its action to the skip
 
 ## Integrations
-- [[Complete_Temporal_Mechanics_System]]; [[Sanity System]]
+- [[Complete_Temporal_Mechanics_System]]; [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Quick-Run
 - Sanity→Tactics→assign extra/lost action

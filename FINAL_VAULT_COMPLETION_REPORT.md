@@ -1,6 +1,7 @@
 ---
 tags: [completion-report, vault-status, final-summary]
 created: 2025-08-11
+updated: 2025-08-11
 campaign: Aquabyssos & Aethermoor
 status: complete
 ---

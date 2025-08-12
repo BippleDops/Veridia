@@ -10,7 +10,7 @@ tags:
 - navigation
 created: 2025-08-11
 world: Both
-updated: '2025-08-11T13:08:46.956171+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -92,7 +92,7 @@ SORT file.name ASC
 
 **Reality/Horror**:
 - [[Reality Merger Mechanics]] - Dimensional rules
-- [[Sanity System]] - Madness tracking
+- [[02_Worldbuilding/Quests/Aquabyssos]] - Madness tracking
 - [[Memory Absorption Rules]] - Memory mechanics
 
 ### 📁 Resources (04_Resources/)
@@ -276,3 +276,7 @@ FROM "02_Worldbuilding"
 ---
 
 *This index integrates with all existing tracking systems while providing high-level navigation and oversight. Use in conjunction with specialized trackers for detailed management.*
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

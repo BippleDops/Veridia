@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.718583+00:00'
-updated: '2025-08-11T13:08:49.295497+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 
@@ -34,3 +34,7 @@ Legends speak of Complete Reality Merger System as a nexus where past and presen
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Campaign_Dashboard]]

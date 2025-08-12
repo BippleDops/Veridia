@@ -19,7 +19,7 @@ category: Unique Location
 significance: Major Landmark
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.826464+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] View

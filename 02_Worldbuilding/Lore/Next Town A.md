@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:45.730656+00:00'
-updated: '2025-08-11T13:08:48.284503+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 
@@ -43,3 +43,7 @@ Legends speak of Next Town A as a nexus where past and present converge. Locals 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[05_Templates/World Builder Templates/Template-Hub]]

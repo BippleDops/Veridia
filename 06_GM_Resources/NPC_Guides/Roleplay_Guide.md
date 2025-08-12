@@ -81,6 +81,8 @@ Roll 1d20 or choose:
 - Complicated: Admiral Corsair
 
 ---
+updated: 2025-08-11
+created: 2025-08-11
 
 ### Tidecaller Merllow (Aquabyssos)
 **Voice**: Bubbling, liquid quality that shifts like water
@@ -110,7 +112,6 @@ Roll 1d20 or choose:
 - Mentor: Elder Coral-Keeper
 - Enemy: Aboleth cultists
 - Romance: Surface merchant
-
 ---
 
 ### Lord Aldric Voidseeker (Merged Zones)

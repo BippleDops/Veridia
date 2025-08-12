@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, mixed, economy]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # X-102 Portal Ferry Strike

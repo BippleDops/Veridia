@@ -22,7 +22,7 @@ significance: Reality-Altering
 time_period: Ancient Era - Current Era (Ongoing Fulfillment)
 created_by: cultural-expansion
 created: 2025-08-11
-updated: '2025-08-11T13:08:48.892371+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[The Deep Mother]]'
 - '[[Aetheron]]'
@@ -653,3 +653,7 @@ Legends speak of The Great Convergence Prophecies as a nexus where past and pres
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

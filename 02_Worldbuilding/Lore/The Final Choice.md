@@ -27,7 +27,7 @@ primary_agents: The Convergence Council, Deep Mother Cultists, Shadow Surgeons, 
   Powers
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.552664+00:00'
+updated: 2025-08-11
 ---
 
 

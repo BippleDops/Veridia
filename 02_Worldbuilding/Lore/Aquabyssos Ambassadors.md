@@ -24,7 +24,7 @@ specialties:
 - Crisis Management
 founded: After the Great Drowning
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.371115+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Places/Port Meridian]]'
 - '[[02_Worldbuilding/Lore/Aquabyssos-Aethermoor Treaties]]'

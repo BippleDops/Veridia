@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, identity]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-003 Duplicate Crew Arrival
@@ -23,7 +24,7 @@ created: 2025-08-11
 - Fail: Fight; injury 1d6; paradox mark (narrative)
 
 ## Integrations
-- [[Sanity System]]; [[Memory Trading Economy System|Memory Economy]] for divergent memories
+- [[02_Worldbuilding/Quests/Aquabyssos]]; [[Memory Trading Economy System|Memory Economy]] for divergent memories
 
 ## Quick-Run
 - Sanity check; decide to isolate or integrate; roleplay hearing conflicting memories

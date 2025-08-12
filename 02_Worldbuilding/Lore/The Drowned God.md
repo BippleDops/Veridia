@@ -23,8 +23,8 @@ themes:
 - necessary_transformation
 - protective_drowning
 - dual_nature_deity
-updated: '2025-08-11T13:08:48.352032+00:00'
-created: '2025-08-11T13:08:48.352032+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 ---
 
 

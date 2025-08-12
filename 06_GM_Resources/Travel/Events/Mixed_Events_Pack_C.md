@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, travel, mixed, cross-world, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Mixed Events Pack C — 50 Ready-to-Run Encounters (X-201–X-250)

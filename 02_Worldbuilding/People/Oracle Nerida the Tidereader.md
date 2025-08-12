@@ -21,7 +21,7 @@ level: 15
 alignment: Neutral
 created_by: Claude
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.629630+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

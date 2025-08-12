@@ -4,8 +4,8 @@ status: "stub"
 world: "Aquabyssos OR Aethermoor"
 type: "location"
 created_by: "YOUR_NAME"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: 2025-08-11
+updated: 2025-08-11
 location_type: "TYPE (e.g., City, Dungeon, Wilderness)"
 parent_location: "[[Parent_Location_Name]]"
 depth: "Surface/Shallow/Medium/Deep/Abyss"

@@ -12,7 +12,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.038269+00:00'
+updated: 2025-08-11
 level_range: 3-5
 party_size: 3-6
 estimated_duration: 4-6 sessions

@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: Lore
 created_by: auto-stub
-created: 2025-08-08 - Category/Quest
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.066803+00:00'
+updated: 2025-08-12
 ---
 
 
@@ -42,7 +42,7 @@ Ancient texts in [[The Archive of Unremembered Things]] reference a "Hunger That
 - **[[Admiral Thorne Blackwater]]**: Military commander losing soldiers to "erasure attacks"
 - **[[Anti-Priest Nullus]]**: Fanatical cultist who believes the Maw is divine judgment
 - **[[The Deep Mother]]**: Ancient entity whose relationship to the Maw is mysterious
-- **[[Elena Starweaver]]**: Crystal mage whose research may help understand void phenomena
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Crystal mage whose research may help understand void phenomena
 - **Dr. Conceptia Voidwright**: Philosopher-mage studying the nature of existence itself
 - **[[Memory Merchant Zara Mindweave]]**: Trader whose memories show pre-Maw reality
 - **Captain Paradox Anchor**: Military officer specialized in reality stabilization
@@ -330,8 +330,8 @@ Success is measured in "Reality Stability Points":
 
 Connected Adventures
 - **[[Crystalline Depths]]**: Crystal intelligence may be another reality-consuming entity
-- **[[The Oracle of the Sundered Peaks]]**: Oracle's prophecies may have warned of the Maw
-- **[[Smuggler's Gambit]]**: Political instability weakens society's ability to respond to cosmic threats
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Oracle's prophecies may have warned of the Maw
+- **[[02_Worldbuilding/Quests/Aquabyssos]]**: Political instability weakens society's ability to respond to cosmic threats
 - **[[Rescue Senator Glaucus]]**: Political unity needed for coordinated response to existential crisis
 - **[[The Archive of Unremembered Things]]**: Contains tools for fighting conceptual threats
 - **[[The Seven Shards]]**: Power source for reality-stabilization magic
@@ -367,9 +367,9 @@ Connected Adventures
 - [[Pearl_Harbor_City]]
 - [[Crystalline Depths]]
 - [[Rescue Senator Glaucus]]
-- [[Smuggler's Gambit]]
-- [[The Oracle of the Sundered Peaks]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -386,3 +386,7 @@ Legends speak of The Maw of Darkness as a nexus where past and present converge.
 - A map overlay reveals a hidden approach to The Maw of Darkness active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Crystalline Depths]]

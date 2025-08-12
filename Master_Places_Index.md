@@ -13,7 +13,7 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_locations: 248
-updated: '2025-08-11T13:08:46.951316+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -164,7 +164,7 @@ This comprehensive index organizes all 248 completed locations across both campa
 - **Guardians**: Lighthouse Keeper (immortal), Storm Elementals
 - **Secrets**: Connection to seven shards, reality manipulation
 
-#### **[[Maelstrom Palace]]** - The Inverted Throne
+#### **[[02_Worldbuilding/Quests/Aquabyssos]]** - The Inverted Throne
 - **World**: Aquabyssos
 - **Type**: Underwater Palace Complex
 - **Danger Level**: Very High
@@ -779,3 +779,7 @@ All locations connect to:
 *248 Locations Catalogued and Cross-Referenced*
 *Ready for Campaign Integration and Navigation*
 *Agent 20 - Index Building Mission: 20% Complete*
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

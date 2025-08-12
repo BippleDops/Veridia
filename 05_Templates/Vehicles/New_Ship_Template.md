@@ -4,6 +4,7 @@ type: template
 status: complete
 tags: [template, vehicles]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # New Ship Template
@@ -23,7 +24,7 @@ created: 2025-08-11
 - Specials:
 - Doctrines/Faction Mods:
 - Required AP / Substitution Rules:
-- Notes on [[Sanity System]] hooks:
+- Notes on [[02_Worldbuilding/Quests/Aquabyssos]] hooks:
 - Notes on [[Complete Reality Merger System]] interactions:
 - Memory Charts Required / Risks:
 - Deep Mother Influence Triggers:

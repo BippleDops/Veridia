@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, depth, aquabyssos, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Depth Events Pack A — 50 Ready-to-Run Encounters
 
-Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]], [[Complete Pressure Adaptation System]], [[Sanity System]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
+Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]], [[Complete Pressure Adaptation System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
 
 Format per event: Trigger • Setup • Checks • Outcomes • Rewards/Consequences • Integrations • Scaling • Variants.
 
@@ -583,3 +584,7 @@ Legends speak of Depth Events Pack A as a nexus where past and present converge.
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Events/Depth_Events_Pack_B]]

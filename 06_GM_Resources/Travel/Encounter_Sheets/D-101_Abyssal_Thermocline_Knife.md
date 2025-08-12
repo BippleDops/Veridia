@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, environment]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-101 Abyssal Thermocline Knife

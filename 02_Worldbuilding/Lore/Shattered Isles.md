@@ -17,7 +17,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.010278+00:00'
+updated: 2025-08-11
 location_type: Dangerous Archipelago
 scope: Regional
 danger_level: Extreme
@@ -392,3 +392,7 @@ Legends speak of Shattered Isles as a nexus where past and present converge. Loc
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - The Lost Expedition]]

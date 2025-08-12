@@ -4,6 +4,7 @@ type: template
 status: complete
 tags: [template, travel, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # New Journey Event Template
@@ -14,7 +15,7 @@ created: 2025-08-11
 - Checks/Saves:
 - Consequences:
 - Rewards/Clues:
-- Integration: [[Sanity System]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Trading Economy]] • [[Complete Faction Warfare System]] • [[Complete Pressure Adaptation System]]
+- Integration: [[02_Worldbuilding/Quests/Aquabyssos]] • [[Complete Reality Merger System]] • [[Memory Trading Economy System|Memory Trading Economy]] • [[Complete Faction Warfare System]] • [[Complete Pressure Adaptation System]]
 - Escalation Variant:
 - Recovery/Bypass Options:
 

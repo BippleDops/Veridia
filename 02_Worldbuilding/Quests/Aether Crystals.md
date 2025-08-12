@@ -12,7 +12,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-expansion
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.094678+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -471,3 +471,7 @@ Legends speak of Aether Crystals as a nexus where past and present converge. Loc
 - A map overlay reveals a hidden approach to Aether Crystals active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Aether Crystals]]

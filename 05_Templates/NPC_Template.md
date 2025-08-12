@@ -10,8 +10,8 @@ alignment: "Alignment"
 location: "[[Current_Location]]"
 faction: "[[Faction_Name]] OR Independent"
 status: "Active/Missing/Dead/Unknown"
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+created: 2025-08-11
+updated: 2025-08-11
 image: "04_Resources/Assets/NPCs/filename.jpg"
 ---
 

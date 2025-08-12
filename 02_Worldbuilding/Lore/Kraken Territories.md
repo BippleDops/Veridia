@@ -26,7 +26,7 @@ danger_level: 9
 access_difficulty: Extreme - requires specialized deep-sea equipment and kraken permission
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.422940+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -721,3 +721,7 @@ Legends speak of Kraken Territories as a nexus where past and present converge. 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

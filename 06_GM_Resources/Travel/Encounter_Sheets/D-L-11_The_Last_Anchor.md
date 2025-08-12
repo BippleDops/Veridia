@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, legendary]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-L-11 The Last Anchor
@@ -50,3 +51,7 @@ Legends speak of D L 11 The Last Anchor as a nexus where past and present conver
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_10]]

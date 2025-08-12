@@ -15,7 +15,7 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 total_relationships: 500+
-updated: '2025-08-11T13:08:46.952499+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -972,3 +972,7 @@ This comprehensive relationship matrix maps all connections between Places, Peop
 ## Connections
 
 - [[Campaign_Quick_Reference_Sheets]]
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

@@ -44,7 +44,7 @@ last_modified: 2025-08-10 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.071702+00:00'
+updated: 2025-08-11
 type: Lore
 ---
 

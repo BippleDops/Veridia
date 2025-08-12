@@ -17,11 +17,11 @@ access: hidden
 region: Shattered Coast
 faction_influence: Shadowhawk Syndicate
 created_by: auto-stub
-updated: '2025-08-11T13:08:50.716185+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview
-created: '2025-08-11T13:08:50.716185+00:00'
+created: 2025-08-11
 ---
 
 > [!figure] View

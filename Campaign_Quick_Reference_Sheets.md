@@ -13,7 +13,7 @@ created: 2025-08-11
 last_updated: 2025-08-11
 completion: 100%
 session_ready: true
-updated: '2025-08-11T13:08:46.947975+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -56,7 +56,7 @@ These session-ready reference sheets provide instant access to critical campaign
 
 #### **Emperor Thalassius the Wise** - The Deep Ruler  
 **Quick Stats:** Level 18 Wizard | AC 16 | HP 144 | Intelligence 22
-**Location:** [[Abyssos Prime]], [[Maelstrom Palace]]
+**Location:** [[Abyssos Prime]], [[02_Worldbuilding/Quests/Aquabyssos]]
 **Personality:** Wise but burdened, careful speaker, strategic thinker
 **Speaking Style:** Measured, thoughtful, asks probing questions
 **Key Relationships:** Senator Glaucus (parliamentary leader), Admiral Thorne (military)
@@ -717,3 +717,7 @@ These session-ready reference sheets provide instant access to critical campaign
 ## Connections
 
 - [[Campaign_Relationship_Matrix]]
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

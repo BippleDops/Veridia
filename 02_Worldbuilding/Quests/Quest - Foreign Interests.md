@@ -17,7 +17,7 @@ location: '[[Lumengarde City]] and surrounding nations'
 rewards: 3000 gp, Diplomatic Immunity, Noble Favor
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.078880+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -436,3 +436,7 @@ Legends speak of Quest   Foreign Interests as a nexus where past and present con
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Diplomatic Tides]]

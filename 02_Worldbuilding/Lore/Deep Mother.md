@@ -16,7 +16,7 @@ category: Divine Entity
 significance: Primary Deity
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.692066+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Scene

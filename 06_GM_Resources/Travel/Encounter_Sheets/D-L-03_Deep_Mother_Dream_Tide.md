@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, depth, legendary]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # D-L-03 Deep Mother Dream Tide
@@ -26,7 +27,7 @@ created: 2025-08-11
 - Fail: Mass short-/long-term madness; splinter cult emerges
 
 ## Integrations
-- [[Sanity System]]; [[Memory Trading Economy System|Memory Economy]]; [[Deep Mother]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]; [[Memory Trading Economy System|Memory Economy]]; [[Deep Mother]]
 
 ## Scaling
 - With shrine-ship: reduce Sanity DC by 1
@@ -56,3 +57,7 @@ Legends speak of D L 03 Deep Mother Dream Tide as a nexus where past and present
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Session_Packets/Aquabyssos_Session_10]]

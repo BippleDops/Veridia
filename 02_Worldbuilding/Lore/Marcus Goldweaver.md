@@ -6,8 +6,8 @@ tags:
 type: Lore
 world: Both
 status: draft
-created: '2025-08-11T13:08:46.100973+00:00'
-updated: '2025-08-11T13:08:48.860732+00:00'
+created: 2025-08-11
+updated: 2025-08-11
 ---
 
 

@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, depth, factions, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Depth Events Pack D — Faction Spotlight (24)
 
-Each event is tuned to a doctrine. Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]], [[Complete Pressure Adaptation System]], [[Sanity System]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
+Each event is tuned to a doctrine. Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]], [[Complete Pressure Adaptation System]], [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
 
 ---
 

@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: Location
 created_by: auto-stub
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.767310+00:00'
+updated: 2025-08-12
 danger_level: Moderate
 ---
 
@@ -502,3 +502,4 @@ Legends speak of Azure Citadel as a nexus where past and present converge. Local
 - [[02_Worldbuilding/Places/Azure Citadel]]
 
 <!-- enriched: true -->
+riched: true -->

@@ -11,7 +11,7 @@ tags:
 - rules
 created: 2025-08-11
 world: Both
-updated: '2025-08-11T13:08:47.033781+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -425,3 +425,7 @@ Legends speak of Character Creation Extended as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Campaign_Index]]

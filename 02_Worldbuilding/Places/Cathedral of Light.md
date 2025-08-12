@@ -22,11 +22,11 @@ specialties:
 - Healing Arts
 - Light Magic
 founded: 300 years before Great Crystallization
-created: 2025-08-08 - Category/Place
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.958815+00:00'
+updated: 2025-08-12
 ---
 
 > [!figure] View
@@ -466,3 +466,4 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[02_Worldbuilding/Places/Cathedral of Light]]
 
 <!-- enriched: true -->
+riched: true -->

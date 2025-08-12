@@ -29,8 +29,8 @@ benefits:
 - standing: 3
   reward: What do they get at level 3?
 world: Both
-updated: '2025-08-11T13:08:47.019368+00:00'
-created: '2025-08-11T13:08:47.019368+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 type: Lore
 ---
@@ -373,3 +373,7 @@ Legends speak of Template Group as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[05_Templates/World Builder Templates/Template-Item]]

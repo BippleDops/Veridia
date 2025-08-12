@@ -12,7 +12,7 @@ world: Aquabyssos
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.049117+00:00'
+updated: 2025-08-11
 level_range: 4-6
 party_size: 3-6
 estimated_duration: 5-7 sessions
@@ -932,7 +932,7 @@ A descendant of ancient mer-folk guardians approaches the party with growing com
 
 ## Connections
 
-- [[Find_the_Missing_Caravan]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 

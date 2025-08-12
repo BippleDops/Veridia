@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, legendary]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-L-07 The Anchor Cataclysm

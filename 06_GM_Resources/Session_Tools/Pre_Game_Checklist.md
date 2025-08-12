@@ -283,6 +283,8 @@
 *Space for session-specific reminders*
 
 ---
+updated: 2025-08-11
+created: 2025-08-11
 
 ### Quick Contact List
 - Players: [Add contact info]
@@ -290,7 +292,6 @@
 - Rules Lawyer: [Add contact info]
 - Session Location: [Add details]
 - Emergency Contact: [Add info]
-
 ---
 
 *Remember: The best preparation is flexible preparation. This checklist is a tool, not a mandate. Adapt as needed for your group's style and needs.*

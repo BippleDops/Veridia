@@ -18,7 +18,7 @@ access: restricted
 danger_level: Extreme
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.659959+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Places
 obsidianUIMode: preview

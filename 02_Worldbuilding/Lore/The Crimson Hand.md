@@ -20,7 +20,7 @@ category: Secret Organization
 significance: Major Faction
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.419142+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -529,3 +529,7 @@ Legends speak of The Crimson Hand as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

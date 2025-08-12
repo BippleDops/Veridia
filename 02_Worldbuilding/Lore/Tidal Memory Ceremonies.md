@@ -12,7 +12,7 @@ world: Aquabyssos
 type: Lore
 created_by: cultural-expansion
 created: 2025-08-11
-updated: '2025-08-11T13:08:49.112578+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -191,3 +191,7 @@ Legends speak of Tidal Memory Ceremonies as a nexus where past and present conve
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

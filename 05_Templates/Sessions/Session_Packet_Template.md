@@ -4,6 +4,7 @@ type: session_packet_template
 status: complete
 audience: dm
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Session Packet — {{session_number}}

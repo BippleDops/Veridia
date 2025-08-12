@@ -29,7 +29,7 @@ participants:
 outcome: Shattering of Continent, Formation of Shattered Isles
 status: complete
 created: 2025-08-11
-updated: '2025-08-11T13:08:47.406604+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[The Shattered Isles]]'
 - '[[The Arcanum Supreme]]'
@@ -1285,3 +1285,7 @@ Legends speak of The Sundering as a nexus where past and present converge. Local
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

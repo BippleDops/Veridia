@@ -1,7 +1,7 @@
 ---
 world: Both
-updated: '2025-08-11T13:08:50.058217+00:00'
-created: '2025-08-11T13:08:50.058217+00:00'
+updated: 2025-08-11
+created: 2025-08-11
 status: draft
 tags:
 - both
@@ -231,7 +231,7 @@ The expedition discovered a massive [[Skyforge]] facility—a relic from the [[A
 
 **Roleplay:** Retain memories and personalities but struggle with alien thoughts and compulsions
 
-### [[Skyforge Guardians]] (Construct)
+### [[02_Worldbuilding/Quests/Aquabyssos]] (Construct)
 *Large construct, neutral*  
 **AC** 18, **HP** 142, **Speed** 30 ft.  
 **Challenge Rating:** 10
@@ -287,7 +287,7 @@ Ancient defense systems reactivated by the corruption. Attack anything that thre
 ## Connections
 
 - [[Captain Thaddeus Blackwater]]
-- [[Quest - The Seventh Shard]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -308,3 +308,7 @@ Legends speak of Quest   The Lost Expedition as a nexus where past and present c
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Aquabyssos]]

@@ -4,6 +4,7 @@ status: "complete"
 world: "Aquabyssos"
 type: "character-option"
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Depth Adapted Background
@@ -131,3 +132,7 @@ Legends speak of Depth Adapted Background as a nexus where past and present conv
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[07_Player_Resources/INDEX]]

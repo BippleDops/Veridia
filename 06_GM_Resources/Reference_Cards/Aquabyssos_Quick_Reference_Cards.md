@@ -2,6 +2,8 @@
 *Print, cut, and keep handy during gameplay*
 
 ---
+updated: 2025-08-11
+created: 2025-08-11
 
 ## PRESSURE MECHANICS CARD
 
@@ -26,7 +28,6 @@
 - **Pressure Pills**: Advantage on saves (1 hour)
 - **Mer-folk Blessing**: Immune to pressure (24 hrs)
 - **Submarine**: Complete protection inside
-
 ---
 
 ## UNDERWATER COMBAT CARD

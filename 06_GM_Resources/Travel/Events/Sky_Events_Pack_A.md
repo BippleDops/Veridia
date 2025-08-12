@@ -4,11 +4,12 @@ type: gm_resource
 status: complete
 tags: [gm, travel, sky, aethermoor, events]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # Sky Events Pack A — 50 Ready-to-Run Encounters
 
-Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[Sanity System]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
+Use with [[03_Mechanics/Vehicles/Vehicle_Core_Rules|Vehicle Core Rules]] (altitude inversion), [[02_Worldbuilding/Quests/Aquabyssos]], [[Complete Reality Merger System]], [[Memory Trading Economy System|Memory Economy]], and [[Complete Faction Warfare System]].
 
 ---
 
@@ -212,3 +213,7 @@ Legends speak of Sky Events Pack A as a nexus where past and present converge. L
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[06_GM_Resources/Travel/Events/Sky_Events_Pack_B]]

@@ -17,7 +17,7 @@ world: Aethermoor
 type: Lore
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.144038+00:00'
+updated: 2025-08-11
 location_type: Ruined Lighthouse
 region: Aethermoor Coast
 significance: Former Navigation Aid

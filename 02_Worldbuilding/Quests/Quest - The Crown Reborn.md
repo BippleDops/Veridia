@@ -16,7 +16,7 @@ quest_type: Epic Campaign Arc
 estimated_sessions: 6-8
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:50.059317+00:00'
+updated: 2025-08-11
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
@@ -426,3 +426,7 @@ Legends speak of Quest   The Crown Reborn as a nexus where past and present conv
 - A map overlay reveals a hidden approach to Quest   The Crown Reborn active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/The Crown's Burden]]

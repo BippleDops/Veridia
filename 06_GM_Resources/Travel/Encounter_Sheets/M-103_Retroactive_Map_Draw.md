@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, navigation]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-103 Retroactive Map Draw
@@ -24,7 +25,7 @@ created: 2025-08-11
 - Fail: Chart drinks a minor personal memory (player chooses category)
 
 ## Integrations
-- [[Memory Trading Economy System|Memory Economy]]; [[Sanity System]]
+- [[Memory Trading Economy System|Memory Economy]]; [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Quick-Run
 - INT→Sanity→award chart or extract memory

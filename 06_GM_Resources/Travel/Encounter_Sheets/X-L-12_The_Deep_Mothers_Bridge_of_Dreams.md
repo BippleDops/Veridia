@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, mixed, legendary]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # X-L-12 The Deep Mother’s Bridge of Dreams

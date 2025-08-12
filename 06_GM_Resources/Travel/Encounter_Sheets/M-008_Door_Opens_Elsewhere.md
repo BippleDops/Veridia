@@ -4,6 +4,7 @@ type: gm_resource
 status: complete
 tags: [gm, encounter, merger, navigation]
 created: 2025-08-11
+updated: 2025-08-11
 ---
 
 # M-008 Door Opens Elsewhere

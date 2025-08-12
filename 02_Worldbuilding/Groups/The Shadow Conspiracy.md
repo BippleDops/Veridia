@@ -438,3 +438,7 @@ The Shadow Conspiracy is a undersea element of the setting, known for biolumines
 Legends speak of The Shadow Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Conspiracy.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]

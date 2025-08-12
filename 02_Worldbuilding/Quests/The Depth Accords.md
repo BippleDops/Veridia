@@ -19,7 +19,7 @@ created: 2025-08-08 - Category/Quest
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.044874+00:00'
+updated: 2025-08-11
 ---
 
 
@@ -360,7 +360,7 @@ This quest serves as a masterclass in diplomatic adventure design, offering play
 - [[Vault Breach]]
 - [[Diplomatic Tides]]
 - [[Quest - Nature's Balance]]
-- [[The_Second_Rising]]
+- [[02_Worldbuilding/Quests/Aquabyssos]]
 
 ## Player-Facing Summary
 
@@ -377,3 +377,7 @@ Legends speak of The Depth Accords as a nexus where past and present converge. L
 - A map overlay reveals a hidden approach to The Depth Accords active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Diplomatic Tides]]

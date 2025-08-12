@@ -25,7 +25,7 @@ specialties:
 founded: Time Immemorial
 climate: Temperate Forest
 created: 2025-08-09
-updated: '2025-08-11T13:08:51.096713+00:00'
+updated: 2025-08-11
 related_entities:
 - '[[02_Worldbuilding/Places/The Verdant Reach]]'
 - '[[02_Worldbuilding/Lore/Continental War]]'

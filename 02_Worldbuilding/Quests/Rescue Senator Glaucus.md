@@ -10,11 +10,11 @@ status: complete
 world: Aquabyssos
 type: Lore
 created_by: auto-stub
-created: 2025-08-08 - Category/Quest
+created: 2025-08-12
 MyContainer: None
 MyCategory: Unknown
 obsidianUIMode: preview
-updated: '2025-08-11T13:08:50.095819+00:00'
+updated: 2025-08-12
 ---
 
 
@@ -332,3 +332,7 @@ Legends speak of Rescue Senator Glaucus as a nexus where past and present conver
 - A map overlay reveals a hidden approach to Rescue Senator Glaucus active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Diplomatic Tides]]

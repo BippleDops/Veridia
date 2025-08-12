@@ -26,7 +26,7 @@ current_hp: 38
 max_hp: 55
 ac: 15
 world: Both
-updated: '2025-08-11T13:08:49.848074+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

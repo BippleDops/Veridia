@@ -19,7 +19,7 @@ category: Environmental Zone
 significance: Critical Ecosystem
 created_by: environmental-expansion
 created: 2025-08-08
-updated: '2025-08-11T13:08:49.004407+00:00'
+updated: 2025-08-11
 zone_type: Bioluminescent Agricultural Complex
 danger_level: Low to Moderate
 ecological_status: Thriving
@@ -620,3 +620,7 @@ Legends speak of The Bloom Fields as a nexus where past and present converge. Lo
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Vault_Navigation_Hub]]

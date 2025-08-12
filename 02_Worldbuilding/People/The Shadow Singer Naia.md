@@ -18,7 +18,7 @@ race: Human (Shadow-Born)
 location: '[[Shadow Wells]] - The Echoing Chamber'
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:49.601347+00:00'
+updated: 2025-08-11
 ---
 
 > [!figure] Portrait

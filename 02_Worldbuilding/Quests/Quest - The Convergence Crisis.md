@@ -17,7 +17,7 @@ patron: '[[The Void Watchers]] or [[The Convergence Seekers]]'
 location: Multiple locations in both realms
 created_by: auto-stub
 created: 2025-08-09
-updated: '2025-08-11T13:08:50.089780+00:00'
+updated: 2025-08-11
 quest_length: Legendary Campaign Arc (40-50 sessions)
 sessions_per_act: 6-12 sessions each
 total_acts: 5
@@ -515,3 +515,7 @@ Legends speak of Quest   The Convergence Crisis as a nexus where past and presen
 - A map overlay reveals a hidden approach to Quest   The Convergence Crisis active only during specific tides/storms.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[02_Worldbuilding/Quests/Quest - Nature's Balance]]

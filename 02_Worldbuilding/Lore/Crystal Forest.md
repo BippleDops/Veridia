@@ -18,7 +18,7 @@ category: Resource Production Facility
 significance: Critical Infrastructure
 created_by: auto-stub
 created: 2025-08-08
-updated: '2025-08-11T13:08:48.210000+00:00'
+updated: 2025-08-11
 location_type: Magical Agricultural Complex
 scope: City-Wide Resource Production
 danger_level: Moderate
@@ -542,3 +542,7 @@ Legends speak of Crystal Forest as a nexus where past and present converge. Loca
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
 <!-- enriched: true -->
+
+## Cross-References
+
+- [[Master_Lore_Index]]
